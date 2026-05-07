@@ -1,12 +1,16 @@
-# Ignore everything
+# VS Code settings
+!.vscode/
+!.vscode/settings.json
+
+# Game files - ignore everything
 *
 
-# But not these files
+# Translation files - keep ONLY these
 !.gitignore
-
-# Translation files - only these should be in repo
-!game/
-!game/tl/
 !game/tl/russian/
-game/tl/russian/*
 !game/tl/russian/*.rpy
+
+# Tools and temp - ignore
+renpy-8.5.2-sdk/
+renpy-sdk.zip
+extract_strings.py
