@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files
+!.gitignore
+
+# Translation files - only these should be in repo
+!game/
+!game/tl/
+!game/tl/russian/
+game/tl/russian/*
+!game/tl/russian/*.rpy
