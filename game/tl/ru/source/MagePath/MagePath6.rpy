@@ -3,908 +3,908 @@
 # Scene: MagePath6
 # Total blocks: 181
 
-# MagePath6_ea0dffae (line 70921)
-translate ru MagePath6_ea0dffae:
+# MagePath6_effbaead (line 70921)
+translate ru MagePath6_effbaead:
     # "Months turned to years as Sarah followed her studies under Xan."
     ""
 
-# MagePath6_65efdd50 (line 70922)
-translate ru MagePath6_65efdd50:
+# MagePath6_32d297fa (line 70922)
+translate ru MagePath6_32d297fa:
     # "Her mastery of magic continued to grow as she devoured the endless libraries of the world."
     ""
 
-# MagePath6_17a118a8 (line 70923)
-translate ru MagePath6_17a118a8:
+# MagePath6_6efeab97 (line 70923)
+translate ru MagePath6_6efeab97:
     # "The world."
     ""
 
-# MagePath6_ccf9eb08 (line 70924)
-translate ru MagePath6_ccf9eb08:
+# MagePath6_5bb0527e (line 70924)
+translate ru MagePath6_5bb0527e:
     # "She had come to see so much of it by now."
     ""
 
-# MagePath6_4cbd87db (line 70925)
-translate ru MagePath6_4cbd87db:
+# MagePath6_8ffa7961 (line 70925)
+translate ru MagePath6_8ffa7961:
     # "Sarah walked with Xan across every continent and every nation."
     ""
 
-# MagePath6_2c2ffcca (line 70926)
-translate ru MagePath6_2c2ffcca:
+# MagePath6_165485c4 (line 70926)
+translate ru MagePath6_165485c4:
     # "She came to see places and peoples that had once only been faint stories in her history books."
     ""
 
-# MagePath6_f181b6c2 (line 70927)
-translate ru MagePath6_f181b6c2:
+# MagePath6_b4d664d8 (line 70927)
+translate ru MagePath6_b4d664d8:
     # "With every passing year, it surprised Sarah that Xan still seemed so distant to her. So much of the mage was still a mystery."
     ""
 
-# MagePath6_2ff9cc8d (line 70928)
-translate ru MagePath6_2ff9cc8d:
+# MagePath6_8beda05c (line 70928)
+translate ru MagePath6_8beda05c:
     # "He allowed her to come with him on his travels, and she helped him do his bidding, but Sarah only ever saw fragments of a design."
     ""
 
-# MagePath6_9ec18026 (line 70929)
-translate ru MagePath6_9ec18026:
+# MagePath6_038571be (line 70929)
+translate ru MagePath6_038571be:
     # "Promises were made, influence was peddled, bribes were handed out."
     ""
 
-# MagePath6_f09880ed (line 70930)
-translate ru MagePath6_f09880ed:
+# MagePath6_56153387 (line 70930)
+translate ru MagePath6_56153387:
     # "Sarah could see they were working towards something, yet she did not know what, nor did Xan ever tell her much of it."
     ""
 
-# MagePath6_c5414ee5 (line 70945)
-translate ru MagePath6_c5414ee5:
+# MagePath6_aad33e1a (line 70945)
+translate ru MagePath6_aad33e1a:
     # "It was under this same set of unclear circumstances that Sarah now found herself in the great palace of the city of Bagrad."
     ""
 
-# MagePath6_2ac88556 (line 70946)
-translate ru MagePath6_2ac88556:
+# MagePath6_c315585d (line 70946)
+translate ru MagePath6_c315585d:
     # "Bagrad had once been a great city. Seated at the heart of a great empire, the city grew so impressive that for centuries after all other cities appeared only poor imitations."
     ""
 
-# MagePath6_c5acacb5 (line 70947)
-translate ru MagePath6_c5acacb5:
+# MagePath6_29fd73f5 (line 70947)
+translate ru MagePath6_29fd73f5:
     # "But that had been centuries ago."
     ""
 
-# MagePath6_de332af7 (line 70948)
-translate ru MagePath6_de332af7:
+# MagePath6_52a4ba92 (line 70948)
+translate ru MagePath6_52a4ba92:
     # "Today, Bagrad was the last vestige of that old empire. A city that once housed millions; now barely a hundred-thousand remained."
     ""
 
-# MagePath6_6ad23944 (line 70949)
-translate ru MagePath6_6ad23944:
+# MagePath6_4f231b68 (line 70949)
+translate ru MagePath6_4f231b68:
     # "And yet, the city still stood. Its vast monuments immune to the forces of nature and decay, testament to a place that once meant something."
     ""
 
-# MagePath6_6a6e32a9 (line 70950)
-translate ru MagePath6_6a6e32a9:
+# MagePath6_ee53eee9 (line 70950)
+translate ru MagePath6_ee53eee9:
     # "The people of Bagrad, and it's royal family, were much like their city."
     ""
 
-# MagePath6_9860b428 (line 70951)
-translate ru MagePath6_9860b428:
+# MagePath6_6ec3749f (line 70951)
+translate ru MagePath6_6ec3749f:
     # "Though time had changed, their perception of themselves seemed immutable. Even now they considered themselves far above the rest of the world, even as the world had all but forgotten about them."
     ""
 
-# MagePath6_49677103 (line 70952)
-translate ru MagePath6_49677103:
+# MagePath6_7a887220 (line 70952)
+translate ru MagePath6_7a887220:
     # "It was this arrogance that had brought Sarah and Xan to the city."
     ""
 
-# MagePath6_8303bfde (line 70953)
-translate ru MagePath6_8303bfde:
+# MagePath6_bce6846b (line 70953)
+translate ru MagePath6_bce6846b:
     # "The head of the royal family, the Shah Mahda, had hosted some festivities several months ago."
     ""
 
-# MagePath6_b444d27f (line 70954)
-translate ru MagePath6_b444d27f:
+# MagePath6_9a930017 (line 70954)
+translate ru MagePath6_9a930017:
     # "During the festivities, a young Mythran prince too drunk on wine, spoke too truthfully of what had become of Bagrad and its people."
     ""
 
-# MagePath6_1d54631e (line 70955)
-translate ru MagePath6_1d54631e:
+# MagePath6_e2ea3a5c (line 70955)
+translate ru MagePath6_e2ea3a5c:
     # "The Shah Mahda, too arrogant to let this slight pass, killed the young Mythran prince."
     ""
 
-# MagePath6_c13d3fd6 (line 70956)
-translate ru MagePath6_c13d3fd6:
+# MagePath6_4dca4f98 (line 70956)
+translate ru MagePath6_4dca4f98:
     # "The Shah had failed to understand that Bagrad survived by virtue of being too unimportant to conquer, but with the spilling of important blood he had given a cause for war that weighed heavier than strategy."
     ""
 
-# MagePath6_09a09d45 (line 70957)
-translate ru MagePath6_09a09d45:
+# MagePath6_1468b536 (line 70957)
+translate ru MagePath6_1468b536:
     # "A few miles outside of the city walls, a Mythran army led by the uncle of the slain prince was camped. Soon they would begin their assault."
     ""
 
-# MagePath6_bb6a6856 (line 70963)
-translate ru MagePath6_bb6a6856:
+# MagePath6_e66fa246 (line 70963)
+translate ru MagePath6_e66fa246:
     # "In desperation, the Shah had reached out to any potential ally who might save him, but a scarce few had answered."
     ""
 
-# MagePath6_117939a3 (line 70964)
-translate ru MagePath6_117939a3:
+# MagePath6_a44eeba5 (line 70964)
+translate ru MagePath6_a44eeba5:
     # "That was, until Xan told Sarah that they were going to offer the city their protection."
     ""
 
-# MagePath6_b0c84106 (line 70965)
-translate ru MagePath6_b0c84106:
+# MagePath6_d4240bbf (line 70965)
+translate ru MagePath6_d4240bbf:
     # "It was not unheard of for mages to step unto a battlefield, but Sarah could not help wonder why this battle was worth their intervention."
     ""
 
-# MagePath6_d6d2526f (line 70966)
-translate ru MagePath6_d6d2526f:
+# MagePath6_7fe02709 (line 70966)
+translate ru MagePath6_7fe02709:
     # s "I doubt they're going to survive for very long."
     s ""
 
-# MagePath6_3aafecaf (line 70967)
-translate ru MagePath6_3aafecaf:
+# MagePath6_cd25b59a (line 70967)
+translate ru MagePath6_cd25b59a:
     # "Xan stood off to the side, his neck craned, seemingly trying to find someone or something."
     ""
 
-# MagePath6_1c15950f (line 70968)
-translate ru MagePath6_1c15950f:
+# MagePath6_d8da98f3 (line 70968)
+translate ru MagePath6_d8da98f3:
     # x "Maybe."
     x ""
 
-# MagePath6_d7078777 (line 70969)
-translate ru MagePath6_d7078777:
+# MagePath6_115e3796 (line 70969)
+translate ru MagePath6_115e3796:
     # "He seemed distracted."
     ""
 
-# MagePath6_d657abdf (line 70970)
-translate ru MagePath6_d657abdf:
+# MagePath6_7d51b906 (line 70970)
+translate ru MagePath6_7d51b906:
     # x "We'll just need to make sure they make it through today."
     x ""
 
-# MagePath6_fbd14ab9 (line 70971)
-translate ru MagePath6_fbd14ab9:
+# MagePath6_c5931586 (line 70971)
+translate ru MagePath6_c5931586:
     # x "A Mythran host is no joke, but the Bagrad army should be able to keep them off for a while. We're mostly here just to protect the palace from anyone that sneaks past the main battle."
     x ""
 
-# MagePath6_51c5f1b2 (line 70972)
-translate ru MagePath6_51c5f1b2:
+# MagePath6_063fa90e (line 70972)
+translate ru MagePath6_063fa90e:
     # "Sarah observed Xan. He was always so different when they left the house. Out here in the real world."
     ""
 
-# MagePath6_e1d65fde (line 70973)
-translate ru MagePath6_e1d65fde:
+# MagePath6_a2bde62d (line 70973)
+translate ru MagePath6_a2bde62d:
     # "Anxious, seemingly always on edge."
     ""
 
-# MagePath6_d452237e (line 70974)
-translate ru MagePath6_d452237e:
+# MagePath6_b7e99a49 (line 70974)
+translate ru MagePath6_b7e99a49:
     # s "I'm glad my years of magical training can be put to use as a bodyguard."
     s ""
 
-# MagePath6_032277a7 (line 70975)
-translate ru MagePath6_032277a7:
+# MagePath6_54deb108 (line 70975)
+translate ru MagePath6_54deb108:
     # "Xan laughed."
     ""
 
-# MagePath6_5137a893 (line 70976)
-translate ru MagePath6_5137a893:
+# MagePath6_61895ed8 (line 70976)
+translate ru MagePath6_61895ed8:
     # x "Yes, it's not the most glorious task, but sometimes even these base things need to be done."
     x ""
 
-# MagePath6_59de1c7c (line 70977)
-translate ru MagePath6_59de1c7c:
+# MagePath6_d2f17adf (line 70977)
+translate ru MagePath6_d2f17adf:
     # s "Why does this need to be done?"
     s ""
 
-# MagePath6_f309adae (line 70978)
-translate ru MagePath6_f309adae:
+# MagePath6_eb1e8c09 (line 70978)
+translate ru MagePath6_eb1e8c09:
     # s "This city..."
     s ""
 
-# MagePath6_f676fb9f (line 70979)
-translate ru MagePath6_f676fb9f:
+# MagePath6_aeb628b2 (line 70979)
+translate ru MagePath6_aeb628b2:
     # s "It's impressive, sure, and it's full of history, but it's basically the world's most awe-inspiring backwater."
     s ""
 
-# MagePath6_9d941dc2 (line 70980)
-translate ru MagePath6_9d941dc2:
+# MagePath6_a04aba9d (line 70980)
+translate ru MagePath6_a04aba9d:
     # s "What do we care if it falls over some party gone foul?"
     s ""
 
-# MagePath6_789e1abd (line 70981)
-translate ru MagePath6_789e1abd:
+# MagePath6_99eb5989 (line 70981)
+translate ru MagePath6_99eb5989:
     # "Xan turned his attention to Sarah."
     ""
 
-# MagePath6_b3b55eb2 (line 70982)
-translate ru MagePath6_b3b55eb2:
+# MagePath6_23f419e7 (line 70982)
+translate ru MagePath6_23f419e7:
     # x "We don't, not really, but Bagrad and its palace are still home to a hoard of treasures."
     x ""
 
-# MagePath6_9c090556 (line 70983)
-translate ru MagePath6_9c090556:
+# MagePath6_c28d26bb (line 70983)
+translate ru MagePath6_c28d26bb:
     # x "The order had been in contact with the Shah for a long time to negotiate an exchange for some specific items, but he always dragged his feet."
     x ""
 
-# MagePath6_e14e4cb9 (line 70984)
-translate ru MagePath6_e14e4cb9:
+# MagePath6_64d43c42 (line 70984)
+translate ru MagePath6_64d43c42:
     # x "We didn't press the issue because we imagined we had more time, but after he made a mess of it, we're now suddenly very short on time."
     x ""
 
-# MagePath6_8f58ba15 (line 70985)
-translate ru MagePath6_8f58ba15:
+# MagePath6_5c71619a (line 70985)
+translate ru MagePath6_5c71619a:
     # x "If we let the Mythran army and its mercenaries into the city, who knows where any of it ends up."
     x ""
 
-# MagePath6_a568624d (line 70986)
-translate ru MagePath6_a568624d:
+# MagePath6_733da0aa (line 70986)
+translate ru MagePath6_733da0aa:
     # "Sarah frowned."
     ""
 
-# MagePath6_98595189 (line 70987)
-translate ru MagePath6_98595189:
+# MagePath6_269cc7cd (line 70987)
+translate ru MagePath6_269cc7cd:
     # s "So this is all over some treasure?"
     s ""
 
-# MagePath6_546bf766 (line 70988)
-translate ru MagePath6_546bf766:
+# MagePath6_a0e9f6d5 (line 70988)
+translate ru MagePath6_a0e9f6d5:
     # x "It's not the gold or the jewels we care about. There are items in the treasury that are too dangerous to be unaccounted for. Items we can't allow slipping into the wrong hands."
     x ""
 
-# MagePath6_77a77b9a (line 70989)
-translate ru MagePath6_77a77b9a:
+# MagePath6_4f4a8df0 (line 70989)
+translate ru MagePath6_4f4a8df0:
     # x "The Shah is finally desperate enough to give us access to the hoard. All we need to do is keep him and his family safe."
     x ""
 
-# MagePath6_8d309b4c (line 70990)
-translate ru MagePath6_8d309b4c:
+# MagePath6_40255d12 (line 70990)
+translate ru MagePath6_40255d12:
     # "Sarah looked around the palace."
     ""
 
-# MagePath6_1fd61494 (line 70991)
-translate ru MagePath6_1fd61494:
+# MagePath6_538f8bc3 (line 70991)
+translate ru MagePath6_538f8bc3:
     # "It was different in style from where she had grown up, and yet, she could recognize it. The wealth, the opulence."
     ""
 
-# MagePath6_0072bc32 (line 70992)
-translate ru MagePath6_0072bc32:
+# MagePath6_da5d8690 (line 70992)
+translate ru MagePath6_da5d8690:
     # "Some things were the same in every culture."
     ""
 
-# MagePath6_2b05ad63 (line 70993)
-translate ru MagePath6_2b05ad63:
+# MagePath6_0f9dcd29 (line 70993)
+translate ru MagePath6_0f9dcd29:
     # s "Speaking of our honorable host and his family, where are they?"
     s ""
 
-# MagePath6_d6a6c17f (line 70994)
-translate ru MagePath6_d6a6c17f:
+# MagePath6_98a42d97 (line 70994)
+translate ru MagePath6_98a42d97:
     # x "He promised he would receive us, but you'll come to find he's a...odd man."
     x ""
 
-# MagePath6_7203d1f5 (line 70995)
-translate ru MagePath6_7203d1f5:
+# MagePath6_585f4407 (line 70995)
+translate ru MagePath6_585f4407:
     # s "Odder than you?"
     s ""
 
-# MagePath6_f6539e0d (line 70996)
-translate ru MagePath6_f6539e0d:
+# MagePath6_7f1afdd5 (line 70996)
+translate ru MagePath6_7f1afdd5:
     # "Xan chuckled."
     ""
 
-# MagePath6_d8308daf (line 70997)
-translate ru MagePath6_d8308daf:
+# MagePath6_858e3231 (line 70997)
+translate ru MagePath6_858e3231:
     # x "Maybe even odder than me, yes."
     x ""
 
-# MagePath6_4776a2ec (line 70998)
-translate ru MagePath6_4776a2ec:
+# MagePath6_b18d1647 (line 70998)
+translate ru MagePath6_b18d1647:
     # x "He's obsessed with playing these little games to remind everyone of how important he is. Loves to make people wait."
     x ""
 
-# MagePath6_c954b367 (line 70999)
-translate ru MagePath6_c954b367:
+# MagePath6_1284fe73 (line 70999)
+translate ru MagePath6_1284fe73:
     # x "It can be exhausting, but given the circumstance, best we can do is grin and bear it. We'll get access to the vault soon enough, then we're out of here."
     x ""
 
-# MagePath6_d165d15f (line 71000)
-translate ru MagePath6_d165d15f:
+# MagePath6_3677c0c0 (line 71000)
+translate ru MagePath6_3677c0c0:
     # "Sarah shrugged."
     ""
 
-# MagePath6_92cdd9da (line 71001)
-translate ru MagePath6_92cdd9da:
+# MagePath6_1bf0b3ce (line 71001)
+translate ru MagePath6_1bf0b3ce:
     # s "Why even bother? Can't we just blast it open."
     s ""
 
-# MagePath6_0da4aa95 (line 71002)
-translate ru MagePath6_0da4aa95:
+# MagePath6_7e76f7d9 (line 71002)
+translate ru MagePath6_7e76f7d9:
     # "Xan shook his head."
     ""
 
-# MagePath6_1d1c4b16 (line 71003)
-translate ru MagePath6_1d1c4b16:
+# MagePath6_ecf507ab (line 71003)
+translate ru MagePath6_ecf507ab:
     # x "Most likely it has magical protections of its own. And even if we could blow it open, the whole world would hear the story of the two thief mages, and who would trust us after that?"
     x ""
 
-# MagePath6_d03fca4f (line 71004)
-translate ru MagePath6_d03fca4f:
+# MagePath6_80a88b92 (line 71004)
+translate ru MagePath6_80a88b92:
     # "He paused for a moment."
     ""
 
-# MagePath6_90b72c18 (line 71005)
-translate ru MagePath6_90b72c18:
+# MagePath6_c5cc97d7 (line 71005)
+translate ru MagePath6_c5cc97d7:
     # x "Also...more importantly...there is the matter of the vault's location."
     x ""
 
-# MagePath6_70563753 (line 71006)
-translate ru MagePath6_70563753:
+# MagePath6_54bf3299 (line 71006)
+translate ru MagePath6_54bf3299:
     # s "What about it?"
     s ""
 
-# MagePath6_1fe893a8 (line 71007)
-translate ru MagePath6_1fe893a8:
+# MagePath6_cea65f77 (line 71007)
+translate ru MagePath6_cea65f77:
     # x "Well...I don't actually know where it is."
     x ""
 
-# MagePath6_0a886cfe (line 71008)
-translate ru MagePath6_0a886cfe:
+# MagePath6_99ddf531 (line 71008)
+translate ru MagePath6_99ddf531:
     # "Sarah was surprised to hear this. Xan was often the person who had all the answers."
     ""
 
-# MagePath6_4eb3143d (line 71009)
-translate ru MagePath6_4eb3143d:
+# MagePath6_d28ca5e1 (line 71009)
+translate ru MagePath6_d28ca5e1:
     # s "You don't know where it is?"
     s ""
 
-# MagePath6_6780a71e (line 71010)
-translate ru MagePath6_6780a71e:
+# MagePath6_38bf1204 (line 71010)
+translate ru MagePath6_38bf1204:
     # x "I know it's here, in the palace, but this place is a nightmare. Endless hallways and secret tunnels. Nobody has any idea where it is, other than the Shah and his most trusted advisors."
     x ""
 
-# MagePath6_e08b762a (line 71011)
-translate ru MagePath6_e08b762a:
+# MagePath6_88a2f375 (line 71011)
+translate ru MagePath6_88a2f375:
     # s "What about the people that build the secret tunnels."
     s ""
 
-# MagePath6_92fe4183 (line 71012)
-translate ru MagePath6_92fe4183:
+# MagePath6_519f2259 (line 71012)
+translate ru MagePath6_519f2259:
     # x "No, they killed those."
     x ""
 
-# MagePath6_7e860f7a (line 71013)
-translate ru MagePath6_7e860f7a:
+# MagePath6_0826dcfd (line 71013)
+translate ru MagePath6_0826dcfd:
     # "Sarah wasn't sure if Xan was joking or not."
     ""
 
-# MagePath6_6c9cd053 (line 71014)
-translate ru MagePath6_6c9cd053:
+# MagePath6_32875678 (line 71014)
+translate ru MagePath6_32875678:
     # "A silence lingered between the pair, but neither seemed to mind it much."
     ""
 
-# MagePath6_1bca3e64 (line 71015)
-translate ru MagePath6_1bca3e64:
+# MagePath6_030f40fe (line 71015)
+translate ru MagePath6_030f40fe:
     # "Sarah watched the edges of the great palace room. Servants scurried around, carrying out their tasks."
     ""
 
-# MagePath6_09f37b0b (line 71016)
-translate ru MagePath6_09f37b0b:
+# MagePath6_2e9b83d5 (line 71016)
+translate ru MagePath6_2e9b83d5:
     # "It almost seemed tragic, Sarah realized. This vast throne room was many times larger than the one in Castle Reinmeer, and yet, there were fewer servants here than at home."
     ""
 
-# MagePath6_7bdb77fb (line 71017)
-translate ru MagePath6_7bdb77fb:
+# MagePath6_55b677f3 (line 71017)
+translate ru MagePath6_55b677f3:
     # "Its immense size once communicated greatness, but now it seemed only to mock those who remained."
     ""
 
-# MagePath6_a011e6c9 (line 71018)
-translate ru MagePath6_a011e6c9:
+# MagePath6_03e9254f (line 71018)
+translate ru MagePath6_03e9254f:
     # "Sarah killed the time by studying every inch of the room. Going over it twice, and parts of it thrice, she was finally saved from her boredom when something began to stir on the other end of the room."
     ""
 
-# MagePath6_3920f12c (line 71019)
-translate ru MagePath6_3920f12c:
+# MagePath6_a11f986a (line 71019)
+translate ru MagePath6_a11f986a:
     # "A door had been thrown open and a cadre of servants swarmed behind the man who now walked ahead of the pack."
     ""
 
-# MagePath6_98d8babd (line 71020)
-translate ru MagePath6_98d8babd:
+# MagePath6_db459f8d (line 71020)
+translate ru MagePath6_db459f8d:
     # "Sarah had never seen the Shah Mahda before, but she could deduce from the man's posture that he must be the one."
     ""
 
-# MagePath6_05bd05a1 (line 71026)
-translate ru MagePath6_05bd05a1:
+# MagePath6_eb7d3895 (line 71026)
+translate ru MagePath6_eb7d3895:
     # "Servant" "All rise!"
     ""
 
-# MagePath6_55f4b193 (line 71027)
-translate ru MagePath6_55f4b193:
+# MagePath6_41263222 (line 71027)
+translate ru MagePath6_41263222:
     # "Servant" "You stand in the presence of the avatar of the singular god. Eldest in the line of Bagrad. Shah Mahda!"
     ""
 
-# MagePath6_d25f00db (line 71028)
-translate ru MagePath6_d25f00db:
+# MagePath6_2f4ef597 (line 71028)
+translate ru MagePath6_2f4ef597:
     # "Several other servants struck drums to put force to the announcement."
     ""
 
-# MagePath6_e0ff3c9d (line 71029)
-translate ru MagePath6_e0ff3c9d:
+# MagePath6_6b37db3c (line 71029)
+translate ru MagePath6_6b37db3c:
     # "The Shah sat down in his throne and motioned for Xan and Sarah to come near."
     ""
 
-# MagePath6_23104720 (line 71030)
-translate ru MagePath6_23104720:
+# MagePath6_4656f61d (line 71030)
+translate ru MagePath6_4656f61d:
     # shah "Greetings my esteemed guests."
     shah ""
 
-# MagePath6_9fe3c8de (line 71031)
-translate ru MagePath6_9fe3c8de:
+# MagePath6_eeac8dcb (line 71031)
+translate ru MagePath6_eeac8dcb:
     # "Xan bowed low and Sarah imitated him, unsure of the customs of this place."
     ""
 
-# MagePath6_f452356c (line 71032)
-translate ru MagePath6_f452356c:
+# MagePath6_6ae294c7 (line 71032)
+translate ru MagePath6_6ae294c7:
     # x "Honourable Shah, it is with humility that we received your invitation and with eagerness that we have answered it."
     x ""
 
-# MagePath6_90d3eb82 (line 71033)
-translate ru MagePath6_90d3eb82:
+# MagePath6_e8c21cf5 (line 71033)
+translate ru MagePath6_e8c21cf5:
     # "Xan always struck Sarah as a man of many faces."
     ""
 
-# MagePath6_565ed5a9 (line 71034)
-translate ru MagePath6_565ed5a9:
+# MagePath6_2a136388 (line 71034)
+translate ru MagePath6_2a136388:
     # "At home he was distant and academic, but out in the world he always managed to fit in wherever he was, whether in some back alley or a royal palace."
     ""
 
-# MagePath6_f89b2e31 (line 71035)
-translate ru MagePath6_f89b2e31:
+# MagePath6_d976c187 (line 71035)
+translate ru MagePath6_d976c187:
     # "It made Sarah wonder, which part was the real Xan, if there was any."
     ""
 
-# MagePath6_e0618d00 (line 71036)
-translate ru MagePath6_e0618d00:
+# MagePath6_4895ec51 (line 71036)
+translate ru MagePath6_4895ec51:
     # shah "My family has always been loyal allies to your order. We shall receive you and your apprentice with all the hospitalities that are due."
     shah ""
 
-# MagePath6_ee0190ae (line 71037)
-translate ru MagePath6_ee0190ae:
+# MagePath6_b789ed10 (line 71037)
+translate ru MagePath6_b789ed10:
     # shah "The rooms have already been prepared for each of you, and we will soon have the rooms ready for the others."
     shah ""
 
-# MagePath6_1b7c07a5 (line 71038)
-translate ru MagePath6_1b7c07a5:
+# MagePath6_06f0ac2b (line 71038)
+translate ru MagePath6_06f0ac2b:
     # "A charged silence came over the hall."
     ""
 
-# MagePath6_55d53080 (line 71039)
-translate ru MagePath6_55d53080:
+# MagePath6_fba8a934 (line 71039)
+translate ru MagePath6_fba8a934:
     # "Sarah eyed Xan, trying to understand what the Shah meant, but Xan seemed equally confused."
     ""
 
-# MagePath6_a3c4cde2 (line 71040)
-translate ru MagePath6_a3c4cde2:
+# MagePath6_44f59f22 (line 71040)
+translate ru MagePath6_44f59f22:
     # x "Honourable Shah, forgive me, but which others do you speak of?"
     x ""
 
-# MagePath6_612280f2 (line 71041)
-translate ru MagePath6_612280f2:
+# MagePath6_4ee7071c (line 71041)
+translate ru MagePath6_4ee7071c:
     # shah "The other members of your order, who else?"
     shah ""
 
-# MagePath6_cf5ef78f (line 71042)
-translate ru MagePath6_cf5ef78f:
+# MagePath6_543b6c76 (line 71042)
+translate ru MagePath6_543b6c76:
     # shah "Your council promised their commitment to my cause. Surely, they do not mean to forsake that vow?"
     shah ""
 
-# MagePath6_d196b837 (line 71043)
-translate ru MagePath6_d196b837:
+# MagePath6_53b31bdd (line 71043)
+translate ru MagePath6_53b31bdd:
     # x "Of course not, great Shah, but we are that commitment. Me and my apprentice."
     x ""
 
-# MagePath6_f61c0f43 (line 71044)
-translate ru MagePath6_f61c0f43:
+# MagePath6_d9546194 (line 71044)
+translate ru MagePath6_d9546194:
     # "Xan waved his hand towards Sarah, as if to reinforce his point."
     ""
 
-# MagePath6_fe79085d (line 71045)
-translate ru MagePath6_fe79085d:
+# MagePath6_6f9e670f (line 71045)
+translate ru MagePath6_6f9e670f:
     # "A loud crack rang out through the hall, it's echo carried deep into the palace hallways."
     ""
 
-# MagePath6_ccf33985 (line 71046)
-translate ru MagePath6_ccf33985:
+# MagePath6_3c1a4f2a (line 71046)
+translate ru MagePath6_3c1a4f2a:
     # "A bowl that had been sat upon the edge of the Shah's throne was send clattering across the stone floor."
     ""
 
-# MagePath6_a5c8a453 (line 71047)
-translate ru MagePath6_a5c8a453:
+# MagePath6_3dd369e5 (line 71047)
+translate ru MagePath6_3dd369e5:
     # shah "Lying wretches!"
     shah ""
 
-# MagePath6_cc8b755d (line 71048)
-translate ru MagePath6_cc8b755d:
+# MagePath6_05fd2c58 (line 71048)
+translate ru MagePath6_05fd2c58:
     # "Sarah watched the Shah's face, now contorted with rage, his eyes wildly jumping between Xan and herself."
     ""
 
-# MagePath6_d7bbdd23 (line 71049)
-translate ru MagePath6_d7bbdd23:
+# MagePath6_5c89234a (line 71049)
+translate ru MagePath6_5c89234a:
     # shah "I was promised the support of your order, and all they send is you and this child!?"
     shah ""
 
-# MagePath6_63eae72f (line 71050)
-translate ru MagePath6_63eae72f:
+# MagePath6_6c6a6e1b (line 71050)
+translate ru MagePath6_6c6a6e1b:
     # "Xan raised his hand in protest."
     ""
 
-# MagePath6_0b0da415 (line 71051)
-translate ru MagePath6_0b0da415:
+# MagePath6_6840de88 (line 71051)
+translate ru MagePath6_6840de88:
     # x "Trust me, Shah Mahda, our order makes right on its promise. Together, the both of us, are each talented mages with years of experience and training."
     x ""
 
-# MagePath6_30364ac5 (line 71052)
-translate ru MagePath6_30364ac5:
+# MagePath6_881c4d7f (line 71052)
+translate ru MagePath6_881c4d7f:
     # x "My apprentice is this in name only, she is worth a hundred knights, to this I will attest."
     x ""
 
-# MagePath6_1fc2ddfa (line 71053)
-translate ru MagePath6_1fc2ddfa:
+# MagePath6_2bacd624 (line 71053)
+translate ru MagePath6_2bacd624:
     # x "We vowed to keep your family safe, and this we will do."
     x ""
 
-# MagePath6_25066e57 (line 71054)
-translate ru MagePath6_25066e57:
+# MagePath6_6c7db49e (line 71054)
+translate ru MagePath6_6c7db49e:
     # "The Shah stomped the edge of his throne with his fist again."
     ""
 
-# MagePath6_f7e8b022 (line 71055)
-translate ru MagePath6_f7e8b022:
+# MagePath6_42af7c17 (line 71055)
+translate ru MagePath6_42af7c17:
     # shah "There is an army at my gate!"
     shah ""
 
-# MagePath6_defffaca (line 71056)
-translate ru MagePath6_defffaca:
+# MagePath6_3cbf3f90 (line 71056)
+translate ru MagePath6_3cbf3f90:
     # shah "I need a hundred mages to burn them and blacken the sky with their ashes, and all I get is you and this miserable girl..."
     shah ""
 
-# MagePath6_4c2849a1 (line 71057)
-translate ru MagePath6_4c2849a1:
+# MagePath6_d1b84cb1 (line 71057)
+translate ru MagePath6_d1b84cb1:
     # shah "You have betrayed me. If you will not keep your word, I will not keep mine. The vault will remain closed to you."
     shah ""
 
-# MagePath6_31063e12 (line 71058)
-translate ru MagePath6_31063e12:
+# MagePath6_70980fba (line 71058)
+translate ru MagePath6_70980fba:
     # "Sarah watched Xan's body language shift. This threat appeared to have changed something."
     ""
 
-# MagePath6_2d34440e (line 71059)
-translate ru MagePath6_2d34440e:
+# MagePath6_068b6fdf (line 71059)
+translate ru MagePath6_068b6fdf:
     # x "Honourable Shah..."
     x ""
 
-# MagePath6_973cfccc (line 71060)
-translate ru MagePath6_973cfccc:
+# MagePath6_efd56044 (line 71060)
+translate ru MagePath6_efd56044:
     # x "If this is what you wish, tell us now and we will leave by your command."
     x ""
 
-# MagePath6_bfab06d1 (line 71061)
-translate ru MagePath6_bfab06d1:
+# MagePath6_4b41c2c4 (line 71061)
+translate ru MagePath6_4b41c2c4:
     # "The room went silent."
     ""
 
-# MagePath6_cdad3660 (line 71062)
-translate ru MagePath6_cdad3660:
+# MagePath6_0712a3ac (line 71062)
+translate ru MagePath6_0712a3ac:
     # "Sarah could see the Shah observing them."
     ""
 
-# MagePath6_af343438 (line 71063)
-translate ru MagePath6_af343438:
+# MagePath6_4cee7070 (line 71063)
+translate ru MagePath6_4cee7070:
     # "But she also realized that Xan had understood the Shah."
     ""
 
-# MagePath6_cfe62160 (line 71064)
-translate ru MagePath6_cfe62160:
+# MagePath6_8b8fa474 (line 71064)
+translate ru MagePath6_8b8fa474:
     # "The man's threats were empty. His position was already too weak. He could barely afford to miss a single soldier, let alone two mages."
     ""
 
-# MagePath6_9590814f (line 71065)
-translate ru MagePath6_9590814f:
+# MagePath6_0b6cecd7 (line 71065)
+translate ru MagePath6_0b6cecd7:
     # "The Shah gestured with his hand, as if the matter was settled."
     ""
 
-# MagePath6_fb9715c8 (line 71066)
-translate ru MagePath6_fb9715c8:
+# MagePath6_e8581940 (line 71066)
+translate ru MagePath6_e8581940:
     # shah "You may stay, for now..."
     shah ""
 
-# MagePath6_1f33084e (line 71067)
-translate ru MagePath6_1f33084e:
+# MagePath6_64ee0437 (line 71067)
+translate ru MagePath6_64ee0437:
     # shah "But your order will have to answer for this when the fighting is over!"
     shah ""
 
-# MagePath6_2881e379 (line 71068)
-translate ru MagePath6_2881e379:
+# MagePath6_503f4d4e (line 71068)
+translate ru MagePath6_503f4d4e:
     # "Xan nodded."
     ""
 
-# MagePath6_1e83a577 (line 71069)
-translate ru MagePath6_1e83a577:
+# MagePath6_aeb6c5f2 (line 71069)
+translate ru MagePath6_aeb6c5f2:
     # x "I promise that the elders meant no insult. They will make amends for this...miscommunication."
     x ""
 
-# MagePath6_1100e9b2 (line 71070)
-translate ru MagePath6_1100e9b2:
+# MagePath6_adb65d7c (line 71070)
+translate ru MagePath6_adb65d7c:
     # "The Shah's bluff had been called, but Xan had tactfully allowed him to withdraw with his ego in tact."
     ""
 
-# MagePath6_c6b41dbb (line 71071)
-translate ru MagePath6_c6b41dbb:
+# MagePath6_7333ebd0 (line 71071)
+translate ru MagePath6_7333ebd0:
     # shah "Do you see, Samayra? I told you to count your fingers when you're around these creatures."
     shah ""
 
-# MagePath6_8cd08e56 (line 71072)
-translate ru MagePath6_8cd08e56:
+# MagePath6_2b8f3921 (line 71072)
+translate ru MagePath6_2b8f3921:
     # "Suddenly, Sarah noticed someone standing off to the side of the Shah, hidden away in the shadow of his throne."
     ""
 
-# MagePath6_03843784 (line 71078)
-translate ru MagePath6_03843784:
+# MagePath6_f95cc11a (line 71078)
+translate ru MagePath6_f95cc11a:
     # sa "Yes, father."
     sa ""
 
-# MagePath6_644fba87 (line 71079)
-translate ru MagePath6_644fba87:
+# MagePath6_8e509187 (line 71079)
+translate ru MagePath6_8e509187:
     # "Her voice carried softly through the room."
     ""
 
-# MagePath6_6b6b86fb (line 71080)
-translate ru MagePath6_6b6b86fb:
+# MagePath6_3ce9a8ee (line 71080)
+translate ru MagePath6_3ce9a8ee:
     # "She kept her head down, eyes fixed to the floor. There was something about her, quiet in both voice and presence."
     ""
 
-# MagePath6_33441a5b (line 71081)
-translate ru MagePath6_33441a5b:
+# MagePath6_9df1c660 (line 71081)
+translate ru MagePath6_9df1c660:
     # "Sarah studied the girl. She was close to herself in age but she gave off a quiet and reserved energy that made her seem so much younger."
     ""
 
-# MagePath6_584b367f (line 71082)
-translate ru MagePath6_584b367f:
+# MagePath6_d79317f0 (line 71082)
+translate ru MagePath6_d79317f0:
     # "Or perhaps, Sarah considered, it was she herself who had become older than her age over these last few years."
     ""
 
-# MagePath6_1d7615df (line 71083)
-translate ru MagePath6_1d7615df:
+# MagePath6_f3fb1998 (line 71083)
+translate ru MagePath6_f3fb1998:
     # "The Shah had spoken to his daugther, but paid her little heed after, turning his attention back to Xan."
     ""
 
-# MagePath6_d54dc865 (line 71084)
-translate ru MagePath6_d54dc865:
+# MagePath6_b62c7d37 (line 71084)
+translate ru MagePath6_b62c7d37:
     # shah "My war council will soon gather to discuss our strategy in defending the city. I insist that you join us."
     shah ""
 
-# MagePath6_c3554df5 (line 71085)
-translate ru MagePath6_c3554df5:
+# MagePath6_1e64e74e (line 71085)
+translate ru MagePath6_1e64e74e:
     # "Xan bowed low again."
     ""
 
-# MagePath6_e989b719 (line 71086)
-translate ru MagePath6_e989b719:
+# MagePath6_fc202026 (line 71086)
+translate ru MagePath6_fc202026:
     # x "It would be a great honour for both of us."
     x ""
 
-# MagePath6_25e8e8d8 (line 71087)
-translate ru MagePath6_25e8e8d8:
+# MagePath6_a8d72eab (line 71087)
+translate ru MagePath6_a8d72eab:
     # "The Shah shook his head."
     ""
 
-# MagePath6_a04cbb73 (line 71088)
-translate ru MagePath6_a04cbb73:
+# MagePath6_670ec9d0 (line 71088)
+translate ru MagePath6_670ec9d0:
     # shah "Only you. The girl can learn what she needs after the council. I won't have some apprentice sitting in."
     shah ""
 
-# MagePath6_852dd23e (line 71089)
-translate ru MagePath6_852dd23e:
+# MagePath6_5bd88110 (line 71089)
+translate ru MagePath6_5bd88110:
     # "With the wave of his hand, the Shah dismissed the both of them. Advisors flocked to his seat, hoping to spare a moment with him, but Sarah could see he was distracted."
     ""
 
-# MagePath6_135d8e41 (line 71095)
-translate ru MagePath6_135d8e41:
+# MagePath6_1b6676f1 (line 71095)
+translate ru MagePath6_1b6676f1:
     # "Sarah tried to imagine if Thomas had been like this..."
     ""
 
-# MagePath6_5081f612 (line 71096)
-translate ru MagePath6_5081f612:
+# MagePath6_8a5911f3 (line 71096)
+translate ru MagePath6_8a5911f3:
     # "When the tribesmen invaded, and he had been left all alone to defend Rosanna, did he have these quiet moments of fear?"
     ""
 
-# MagePath6_49b4ad7d (line 71097)
-translate ru MagePath6_49b4ad7d:
+# MagePath6_40bd1b39 (line 71097)
+translate ru MagePath6_40bd1b39:
     # "Sarah shook her head to clear it, as she walked along with Xan to the far side of the room."
     ""
 
-# MagePath6_4cd4d261 (line 71098)
-translate ru MagePath6_4cd4d261:
+# MagePath6_81dd695a (line 71098)
+translate ru MagePath6_81dd695a:
     # "Thinking about her brother was too painful, and yet, even years later she still found herself thinking about him."
     ""
 
-# MagePath6_dbc39a97 (line 71099)
-translate ru MagePath6_dbc39a97:
+# MagePath6_36b2ba92 (line 71099)
+translate ru MagePath6_36b2ba92:
     # "One part of her wanted to numb the pain, the other wanted it to linger forever like a poorly healed wound so that she might never forget him."
     ""
 
-# MagePath6_c060499c (line 71100)
-translate ru MagePath6_c060499c:
+# MagePath6_6e0fb73e (line 71100)
+translate ru MagePath6_6e0fb73e:
     # x "Well, that went better than I thought it would."
     x ""
 
-# MagePath6_84b860a8 (line 71101)
-translate ru MagePath6_84b860a8:
+# MagePath6_e1fb9b85 (line 71101)
+translate ru MagePath6_e1fb9b85:
     # s "You weren't surprised that he was angry that it's just you and me?"
     s ""
 
-# MagePath6_d0b6f512 (line 71102)
-translate ru MagePath6_d0b6f512:
+# MagePath6_90343a62 (line 71102)
+translate ru MagePath6_90343a62:
     # "Xan shrugged."
     ""
 
-# MagePath6_5ed2c354 (line 71103)
-translate ru MagePath6_5ed2c354:
+# MagePath6_e09c679f (line 71103)
+translate ru MagePath6_e09c679f:
     # x "I know the council played coy with their promises, but I also knew he had no choice but to accept our help."
     x ""
 
-# MagePath6_7ebe5e04 (line 71104)
-translate ru MagePath6_7ebe5e04:
+# MagePath6_bdbcb07e (line 71104)
+translate ru MagePath6_bdbcb07e:
     # s "Will the two of us be enough to make a difference?"
     s ""
 
-# MagePath6_cc3cc17d (line 71105)
-translate ru MagePath6_cc3cc17d:
+# MagePath6_8e24e87a (line 71105)
+translate ru MagePath6_8e24e87a:
     # "Xan stared into the distance."
     ""
 
-# MagePath6_f1467c04 (line 71106)
-translate ru MagePath6_f1467c04:
+# MagePath6_2c306699 (line 71106)
+translate ru MagePath6_2c306699:
     # x "Maybe, it depends on how the fighting plays out. But it doesn't matter."
     x ""
 
-# MagePath6_763da723 (line 71107)
-translate ru MagePath6_763da723:
+# MagePath6_996ddde9 (line 71107)
+translate ru MagePath6_996ddde9:
     # s "It doesn't?"
     s ""
 
-# MagePath6_4d1084c9 (line 71108)
-translate ru MagePath6_4d1084c9:
+# MagePath6_8e9d1fb6 (line 71108)
+translate ru MagePath6_8e9d1fb6:
     # x "No, we're not here to save Bagrad. Whether it survives or falls is irrelevant. The vault remains the first priority."
     x ""
 
-# MagePath6_5b31dddc (line 71109)
-translate ru MagePath6_5b31dddc:
+# MagePath6_e25bd76f (line 71109)
+translate ru MagePath6_e25bd76f:
     # s "But if Bagrad falls and the palace is overrun with soldiers and mercenaries, I imagine finding the vault would prove difficult."
     s ""
 
-# MagePath6_08eecc47 (line 71110)
-translate ru MagePath6_08eecc47:
+# MagePath6_0275ea5c (line 71110)
+translate ru MagePath6_0275ea5c:
     # "Xan nodded."
     ""
 
-# MagePath6_7b683797 (line 71111)
-translate ru MagePath6_7b683797:
+# MagePath6_34e9ad26 (line 71111)
+translate ru MagePath6_34e9ad26:
     # x "Correct, so we should at least try to keep them out for a few days. Enough time for the Shah to let us into the vault, or otherwise find a way in."
     x ""
 
-# MagePath6_eb46e3c9 (line 71112)
-translate ru MagePath6_eb46e3c9:
+# MagePath6_b878f468 (line 71112)
+translate ru MagePath6_b878f468:
     # "Xan suddenly turned towards Sarah."
     ""
 
-# MagePath6_5e62a435 (line 71113)
-translate ru MagePath6_5e62a435:
+# MagePath6_92889751 (line 71113)
+translate ru MagePath6_92889751:
     # x "Speaking of that, you need to get friendly with the Shah's daughter."
     x ""
 
-# MagePath6_38714916 (line 71114)
-translate ru MagePath6_38714916:
+# MagePath6_084a333b (line 71114)
+translate ru MagePath6_084a333b:
     # s "I'm not really looking for new friends at the moment."
     s ""
 
-# MagePath6_c75fde01 (line 71115)
-translate ru MagePath6_c75fde01:
+# MagePath6_9f6df97e (line 71115)
+translate ru MagePath6_9f6df97e:
     # "Xan flashed a pained grin."
     ""
 
-# MagePath6_a151c6f0 (line 71116)
-translate ru MagePath6_a151c6f0:
+# MagePath6_3131730e (line 71116)
+translate ru MagePath6_3131730e:
     # x "She's the Shah's daughter. Outside of the Shah himself, there might not be anyone who knows as much about this palace."
     x ""
 
-# MagePath6_0e490bd9 (line 71117)
-translate ru MagePath6_0e490bd9:
+# MagePath6_f6773f2a (line 71117)
+translate ru MagePath6_f6773f2a:
     # x "If anyone has an idea as to where the vault might be, it's her. And if the Shah tries to hold out on his end of the deal, we might need to use her."
     x ""
 
-# MagePath6_448b4d48 (line 71118)
-translate ru MagePath6_448b4d48:
+# MagePath6_5a9d4ec4 (line 71118)
+translate ru MagePath6_5a9d4ec4:
     # s "And you think she's going to help us?"
     s ""
 
-# MagePath6_0d98f9d7 (line 71119)
-translate ru MagePath6_0d98f9d7:
+# MagePath6_c2cf1163 (line 71119)
+translate ru MagePath6_c2cf1163:
     # x "If you befriend her, she just might."
     x ""
 
-# MagePath6_66bc5d51 (line 71120)
-translate ru MagePath6_66bc5d51:
+# MagePath6_74414b39 (line 71120)
+translate ru MagePath6_74414b39:
     # "Sarah sighed."
     ""
 
-# MagePath6_7327502a (line 71121)
-translate ru MagePath6_7327502a:
+# MagePath6_cf867de4 (line 71121)
+translate ru MagePath6_cf867de4:
     # s "And talk to her about what?"
     s ""
 
-# MagePath6_7c0b00ca (line 71122)
-translate ru MagePath6_7c0b00ca:
+# MagePath6_dbc550ef (line 71122)
+translate ru MagePath6_dbc550ef:
     # "Xan threw up his hands."
     ""
 
-# MagePath6_000c91ae (line 71123)
-translate ru MagePath6_000c91ae:
+# MagePath6_a217d74c (line 71123)
+translate ru MagePath6_a217d74c:
     # x "You're both princesses, that's a start."
     x ""
 
-# MagePath6_8944d282 (line 71124)
-translate ru MagePath6_8944d282:
+# MagePath6_18fa9432 (line 71124)
+translate ru MagePath6_18fa9432:
     # s "I haven't been one for a long time now."
     s ""
 
-# MagePath6_9be03621 (line 71125)
-translate ru MagePath6_9be03621:
+# MagePath6_cfd7cc9c (line 71125)
+translate ru MagePath6_cfd7cc9c:
     # x "You'll be surprised how fast it comes back to you. I'm going to attend the war council. During the council, the Shah will be seperated from his daughter, that's when you can make your move."
     x ""
 
-# MagePath6_a32e4bf3 (line 71126)
-translate ru MagePath6_a32e4bf3:
+# MagePath6_08f97b56 (line 71126)
+translate ru MagePath6_08f97b56:
     # "Sarah looked across the hall."
     ""
 
-# MagePath6_05818045 (line 71127)
-translate ru MagePath6_05818045:
+# MagePath6_f4907452 (line 71127)
+translate ru MagePath6_f4907452:
     # "In the shadow of her father's throne, she could see the thin frame of the girl. So small and unimposing, Sarah imagined she might just fade away."
     ""
 
-# MagePath6_4e2d57ce (line 71128)
-translate ru MagePath6_4e2d57ce:
+# MagePath6_98fa3ecf (line 71128)
+translate ru MagePath6_98fa3ecf:
     # "Samayra, that's what her father had called her. Sarah liked the name."
     ""
 
-# MagePath6_067e25c7 (line 71129)
-translate ru MagePath6_067e25c7:
+# MagePath6_4a2a9e22 (line 71129)
+translate ru MagePath6_4a2a9e22:
     # "A servant came running up."
     ""
 
-# MagePath6_3dc2dfe5 (line 71130)
-translate ru MagePath6_3dc2dfe5:
+# MagePath6_106320e5 (line 71130)
+translate ru MagePath6_106320e5:
     # "Servant" "Esteemed guest, your presence is request in the council room."
     ""
 
-# MagePath6_01f93bc6 (line 71131)
-translate ru MagePath6_01f93bc6:
+# MagePath6_b6f21177 (line 71131)
+translate ru MagePath6_b6f21177:
     # "Xan nodded in acknowledgement."
     ""
 
-# MagePath6_0c6eabd4 (line 71132)
-translate ru MagePath6_0c6eabd4:
+# MagePath6_e6e135e5 (line 71132)
+translate ru MagePath6_e6e135e5:
     # x "Yes, I will be there in a moment."
     x ""
 
-# MagePath6_0d27107e (line 71133)
-translate ru MagePath6_0d27107e:
+# MagePath6_672b4da9 (line 71133)
+translate ru MagePath6_672b4da9:
     # "Xan turned to Sarah."
     ""
 
-# MagePath6_6d6504e5 (line 71134)
-translate ru MagePath6_6d6504e5:
+# MagePath6_096a6779 (line 71134)
+translate ru MagePath6_096a6779:
     # x "Remember what I told you, go make a friend."
     x ""
 
-# MagePath6_8f6e5d4b (line 71135)
-translate ru MagePath6_8f6e5d4b:
+# MagePath6_3aacc009 (line 71135)
+translate ru MagePath6_3aacc009:
     # "With that last command, Sarah watched her teacher take off."
     ""
 

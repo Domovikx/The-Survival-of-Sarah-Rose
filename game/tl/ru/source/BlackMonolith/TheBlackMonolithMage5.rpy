@@ -3,23 +3,23 @@
 # Scene: TheBlackMonolithMage5
 # Total blocks: 4
 
-# TheBlackMonolithMage5_cb076daa (line 78522)
-translate ru TheBlackMonolithMage5_cb076daa:
+# TheBlackMonolithMage5_ce4227fd (line 78522)
+translate ru TheBlackMonolithMage5_ce4227fd:
     # "Help Alaric"
     "Help Alaric" ""
 
-# TheBlackMonolithMage5_6e06d63f (line 78912)
-translate ru TheBlackMonolithMage5_6e06d63f:
+# TheBlackMonolithMage5_c4169d91 (line 78912)
+translate ru TheBlackMonolithMage5_c4169d91:
     # "Sleep with Alaric"
     "Sleep with Alaric" ""
 
-# TheBlackMonolithMage5_3243cf83 (line 79171)
-translate ru TheBlackMonolithMage5_3243cf83:
+# TheBlackMonolithMage5_f4ecdd56 (line 79171)
+translate ru TheBlackMonolithMage5_f4ecdd56:
     # "Refuse to sleep with him"
     "Refuse to sleep with him" ""
 
-# TheBlackMonolithMage5_e90ef588 (line 79183)
-translate ru TheBlackMonolithMage5_e90ef588:
+# TheBlackMonolithMage5_283c4794 (line 79183)
+translate ru TheBlackMonolithMage5_283c4794:
     # "Refuse to help him"
     "Refuse to help him" ""
 

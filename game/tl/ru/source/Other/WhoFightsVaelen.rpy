@@ -3,23 +3,23 @@
 # Scene: WhoFightsVaelen
 # Total blocks: 4
 
-# WhoFightsVaelen_60348cca (line 48096)
-translate ru WhoFightsVaelen_60348cca:
+# WhoFightsVaelen_e5492d04 (line 48096)
+translate ru WhoFightsVaelen_e5492d04:
     # "Sarah will fight Vaelen"
     "Sarah will fight Vaelen" ""
 
-# WhoFightsVaelen_46005f68 (line 48098)
-translate ru WhoFightsVaelen_46005f68:
+# WhoFightsVaelen_58e19b99 (line 48098)
+translate ru WhoFightsVaelen_58e19b99:
     # "Ask Kate to fight"
     "Ask Kate to fight" ""
 
-# WhoFightsVaelen_68e0abb8 (line 48102)
-translate ru WhoFightsVaelen_68e0abb8:
+# WhoFightsVaelen_52337cdd (line 48102)
+translate ru WhoFightsVaelen_52337cdd:
     # "Ask Cassius to fight"
     "Ask Cassius to fight" ""
 
-# WhoFightsVaelen_44e56d19 (line 48104)
-translate ru WhoFightsVaelen_44e56d19:
+# WhoFightsVaelen_00019ebe (line 48104)
+translate ru WhoFightsVaelen_00019ebe:
     # "Ask Samayra to fight"
     "Ask Samayra to fight" ""
 

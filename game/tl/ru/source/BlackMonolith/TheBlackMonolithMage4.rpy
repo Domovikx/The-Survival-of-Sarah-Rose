@@ -3,33 +3,33 @@
 # Scene: TheBlackMonolithMage4
 # Total blocks: 6
 
-# TheBlackMonolithMage4_71046ba7 (line 78317)
-translate ru TheBlackMonolithMage4_71046ba7:
+# TheBlackMonolithMage4_f9d6af5b (line 78317)
+translate ru TheBlackMonolithMage4_f9d6af5b:
     # "A little later in the day, Sarah managed to find a chance to slip into Razaphel's room."
     ""
 
-# TheBlackMonolithMage4_94bfc266 (line 78318)
-translate ru TheBlackMonolithMage4_94bfc266:
+# TheBlackMonolithMage4_45a5a2f1 (line 78318)
+translate ru TheBlackMonolithMage4_45a5a2f1:
     # "The spirit was no longer bound to this place, but it was isolated enough for Sarah to meet the creature in private."
     ""
 
-# TheBlackMonolithMage4_5fe74fbe (line 78319)
-translate ru TheBlackMonolithMage4_5fe74fbe:
+# TheBlackMonolithMage4_58f8d1e6 (line 78319)
+translate ru TheBlackMonolithMage4_58f8d1e6:
     # s "Razaphel..."
     s ""
 
-# TheBlackMonolithMage4_cf91358b (line 78320)
-translate ru TheBlackMonolithMage4_cf91358b:
+# TheBlackMonolithMage4_d6911661 (line 78320)
+translate ru TheBlackMonolithMage4_d6911661:
     # "Sarah let the name linger."
     ""
 
-# TheBlackMonolithMage4_3c7d3afc (line 78321)
-translate ru TheBlackMonolithMage4_3c7d3afc:
+# TheBlackMonolithMage4_2b187b74 (line 78321)
+translate ru TheBlackMonolithMage4_2b187b74:
     # s "Razaphel!"
     s ""
 
-# TheBlackMonolithMage4_0680fb7a (line 78322)
-translate ru TheBlackMonolithMage4_0680fb7a:
+# TheBlackMonolithMage4_9a2244a3 (line 78322)
+translate ru TheBlackMonolithMage4_9a2244a3:
     # "Speaking its name more forcefully, Sarah hoped to draw the spirit out."
     ""
 

@@ -3,28 +3,28 @@
 # Scene: TheBlackMonolithMage2
 # Total blocks: 5
 
-# TheBlackMonolithMage2_a14d62f0 (line 77696)
-translate ru TheBlackMonolithMage2_a14d62f0:
+# TheBlackMonolithMage2_01db719d (line 77696)
+translate ru TheBlackMonolithMage2_01db719d:
     # "As the door fell shut behind her, the desert faded and she was back home."
     ""
 
-# TheBlackMonolithMage2_02733fd0 (line 77697)
-translate ru TheBlackMonolithMage2_02733fd0:
+# TheBlackMonolithMage2_0dd49a08 (line 77697)
+translate ru TheBlackMonolithMage2_0dd49a08:
     # "She looked around at the familiar room and felt her heart surge."
     ""
 
-# TheBlackMonolithMage2_c9ca1f36 (line 77698)
-translate ru TheBlackMonolithMage2_c9ca1f36:
+# TheBlackMonolithMage2_e922de1f (line 77698)
+translate ru TheBlackMonolithMage2_e922de1f:
     # "She was glad to be home."
     ""
 
-# TheBlackMonolithMage2_d2ac56e8 (line 77857)
-translate ru TheBlackMonolithMage2_d2ac56e8:
+# TheBlackMonolithMage2_9e861d55 (line 77857)
+translate ru TheBlackMonolithMage2_9e861d55:
     # "Of course"
     "Of course" ""
 
-# TheBlackMonolithMage2_73a9054a (line 77908)
-translate ru TheBlackMonolithMage2_73a9054a:
+# TheBlackMonolithMage2_0e47a45c (line 77908)
+translate ru TheBlackMonolithMage2_0e47a45c:
     # "Not tonight"
     "Not tonight" ""
 

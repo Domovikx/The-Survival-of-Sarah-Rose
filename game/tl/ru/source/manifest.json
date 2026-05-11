@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-05-11T19:48:25.660987",
+  "extracted_at": "2026-05-11T21:07:12.268346",
   "arcs": [
     {
       "name": "AlfredArc",
@@ -650,6 +650,16 @@
           "blocks": 52
         },
         {
+          "name": "TheWarIsLost",
+          "file": "Other\\TheWarIsLost.rpy",
+          "blocks": 17
+        },
+        {
+          "name": "TheWarIsWon",
+          "file": "Other\\TheWarIsWon.rpy",
+          "blocks": 39
+        },
+        {
           "name": "TrainingPathAtilla4",
           "file": "Other\\TrainingPathAtilla4.rpy",
           "blocks": 121
@@ -695,6 +705,16 @@
           "blocks": 4
         },
         {
+          "name": "new_gallery",
+          "file": "Other\\new_gallery.rpy",
+          "blocks": 1
+        },
+        {
+          "name": "options",
+          "file": "Other\\options.rpy",
+          "blocks": 1
+        },
+        {
           "name": "postEscapeLethramShip",
           "file": "Other\\postEscapeLethramShip.rpy",
           "blocks": 299
@@ -703,6 +723,11 @@
           "name": "prostitutealaric1",
           "file": "Other\\prostitutealaric1.rpy",
           "blocks": 518
+        },
+        {
+          "name": "screens",
+          "file": "Other\\screens.rpy",
+          "blocks": 129
         }
       ]
     },
@@ -777,7 +802,7 @@
         {
           "name": "start",
           "file": "Prologue\\start.rpy",
-          "blocks": 18
+          "blocks": 150
         }
       ]
     },
@@ -1135,11 +1160,6 @@
           "blocks": 1
         },
         {
-          "name": "TheWarIsWon",
-          "file": "VargaMarionPath\\TheWarIsWon.rpy",
-          "blocks": 39
-        },
-        {
           "name": "TyrantPath1",
           "file": "VargaMarionPath\\TyrantPath1.rpy",
           "blocks": 19
@@ -1225,11 +1245,6 @@
           "blocks": 163
         },
         {
-          "name": "TheWarIsLost",
-          "file": "WarriorPath\\TheWarIsLost.rpy",
-          "blocks": 17
-        },
-        {
           "name": "WarriorPath1",
           "file": "WarriorPath\\WarriorPath1.rpy",
           "blocks": 305
@@ -1301,5 +1316,8 @@
         }
       ]
     }
-  ]
+  ],
+  "total_dialogue_blocks": 36909,
+  "total_ui_strings": 195,
+  "total_character_names": 68
 }

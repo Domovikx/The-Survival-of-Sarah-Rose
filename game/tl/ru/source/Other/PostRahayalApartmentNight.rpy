@@ -3,1328 +3,1328 @@
 # Scene: PostRahayalApartmentNight
 # Total blocks: 265
 
-# PostRahayalApartmentNight_91d79ed0 (line 89691)
-translate ru PostRahayalApartmentNight_91d79ed0:
+# PostRahayalApartmentNight_46428178 (line 89691)
+translate ru PostRahayalApartmentNight_46428178:
     # "Sarah woke the next morning to a soft knock at the door."
     ""
 
-# PostRahayalApartmentNight_94b49c79 (line 89692)
-translate ru PostRahayalApartmentNight_94b49c79:
+# PostRahayalApartmentNight_46263914 (line 89692)
+translate ru PostRahayalApartmentNight_46263914:
     # "She stumbled out of bed, her heart racing from shock."
     ""
 
-# PostRahayalApartmentNight_941496d5 (line 89704)
-translate ru PostRahayalApartmentNight_941496d5:
+# PostRahayalApartmentNight_e0732555 (line 89704)
+translate ru PostRahayalApartmentNight_e0732555:
     # "The knock at the door had been soft, but what had startled her was that there was any knock at all."
     ""
 
-# PostRahayalApartmentNight_1b805a1a (line 89705)
-translate ru PostRahayalApartmentNight_1b805a1a:
+# PostRahayalApartmentNight_7d9c6f4c (line 89705)
+translate ru PostRahayalApartmentNight_7d9c6f4c:
     # "This place was supposed to be a secret."
     ""
 
-# PostRahayalApartmentNight_cb0b17d7 (line 89706)
-translate ru PostRahayalApartmentNight_cb0b17d7:
+# PostRahayalApartmentNight_e15f905b (line 89706)
+translate ru PostRahayalApartmentNight_e15f905b:
     # "Sarah walked softly, fearing to make any noise."
     ""
 
-# PostRahayalApartmentNight_4aac3712 (line 89712)
-translate ru PostRahayalApartmentNight_4aac3712:
+# PostRahayalApartmentNight_6ee3ab56 (line 89712)
+translate ru PostRahayalApartmentNight_6ee3ab56:
     # "She pressed her ears to the door but heard no other sounds."
     ""
 
-# PostRahayalApartmentNight_ab3a4967 (line 89713)
-translate ru PostRahayalApartmentNight_ab3a4967:
+# PostRahayalApartmentNight_944798e4 (line 89713)
+translate ru PostRahayalApartmentNight_944798e4:
     # "She waited and waited until she was sure there was nobody."
     ""
 
-# PostRahayalApartmentNight_926ddd52 (line 89714)
-translate ru PostRahayalApartmentNight_926ddd52:
+# PostRahayalApartmentNight_22e362ef (line 89714)
+translate ru PostRahayalApartmentNight_22e362ef:
     # "For a brief moment, she even dared to think that she had imagined it."
     ""
 
-# PostRahayalApartmentNight_6f7502dc (line 89715)
-translate ru PostRahayalApartmentNight_6f7502dc:
+# PostRahayalApartmentNight_c4b7ddae (line 89715)
+translate ru PostRahayalApartmentNight_c4b7ddae:
     # "When she finally opened the door, she saw a small letter, balanced up against the stone wall outside."
     ""
 
-# PostRahayalApartmentNight_da4b60e3 (line 89716)
-translate ru PostRahayalApartmentNight_da4b60e3:
+# PostRahayalApartmentNight_29ac999b (line 89716)
+translate ru PostRahayalApartmentNight_29ac999b:
     # "It was marked by a crimson seal."
     ""
 
-# PostRahayalApartmentNight_324f6d2b (line 89722)
-translate ru PostRahayalApartmentNight_324f6d2b:
+# PostRahayalApartmentNight_c14d888f (line 89722)
+translate ru PostRahayalApartmentNight_c14d888f:
     # "As she reached down and grabbed it, she could feel the magical energies woven around it."
     ""
 
-# PostRahayalApartmentNight_cb2aa18c (line 89723)
-translate ru PostRahayalApartmentNight_cb2aa18c:
+# PostRahayalApartmentNight_8be61d20 (line 89723)
+translate ru PostRahayalApartmentNight_8be61d20:
     # "Small traps, wards."
     ""
 
-# PostRahayalApartmentNight_cba0c351 (line 89724)
-translate ru PostRahayalApartmentNight_cba0c351:
+# PostRahayalApartmentNight_af187a3e (line 89724)
+translate ru PostRahayalApartmentNight_af187a3e:
     # "Nothing she could not unmake, but for those who lacked magical training, these wards could prove quite harmful."
     ""
 
-# PostRahayalApartmentNight_8354c882 (line 89725)
-translate ru PostRahayalApartmentNight_8354c882:
+# PostRahayalApartmentNight_852bdee5 (line 89725)
+translate ru PostRahayalApartmentNight_852bdee5:
     # "Sarah twisted her wrist and untangled the magical warding, then opened the letter."
     ""
 
-# PostRahayalApartmentNight_9f188ace (line 89726)
-translate ru PostRahayalApartmentNight_9f188ace:
+# PostRahayalApartmentNight_947a2475 (line 89726)
+translate ru PostRahayalApartmentNight_947a2475:
     # "Dear Sarah Rose."
     ""
 
-# PostRahayalApartmentNight_6071ecdb (line 89727)
-translate ru PostRahayalApartmentNight_6071ecdb:
+# PostRahayalApartmentNight_05033152 (line 89727)
+translate ru PostRahayalApartmentNight_05033152:
     # "She wasn't sure if reading her own name calmed her fears or made them worse."
     ""
 
-# PostRahayalApartmentNight_f0cc74b1 (line 89728)
-translate ru PostRahayalApartmentNight_f0cc74b1:
+# PostRahayalApartmentNight_6813be43 (line 89728)
+translate ru PostRahayalApartmentNight_6813be43:
     # "Hesitantly, Sarah continued to read."
     ""
 
-# PostRahayalApartmentNight_b3da5b44 (line 89729)
-translate ru PostRahayalApartmentNight_b3da5b44:
+# PostRahayalApartmentNight_7714caae (line 89729)
+translate ru PostRahayalApartmentNight_7714caae:
     # "Though you have never been formally introduced into our Order, we hereby invite you to our gathering."
     ""
 
-# PostRahayalApartmentNight_a8fdb67c (line 89730)
-translate ru PostRahayalApartmentNight_a8fdb67c:
+# PostRahayalApartmentNight_bd5bfdbc (line 89730)
+translate ru PostRahayalApartmentNight_bd5bfdbc:
     # "We have heard of your good works in helping the evacuation of Lethram."
     ""
 
-# PostRahayalApartmentNight_a354c32b (line 89731)
-translate ru PostRahayalApartmentNight_a354c32b:
+# PostRahayalApartmentNight_1d00095f (line 89731)
+translate ru PostRahayalApartmentNight_1d00095f:
     # "Your cause and ours are one and the same, to end the scourge of the void, once and for all."
     ""
 
-# PostRahayalApartmentNight_66fff1c0 (line 89732)
-translate ru PostRahayalApartmentNight_66fff1c0:
+# PostRahayalApartmentNight_a3873d40 (line 89732)
+translate ru PostRahayalApartmentNight_a3873d40:
     # "Please join us for this gathering, so that we can work together in bringing an end to this blight."
     ""
 
-# PostRahayalApartmentNight_1e7781cf (line 89733)
-translate ru PostRahayalApartmentNight_1e7781cf:
+# PostRahayalApartmentNight_be1743d0 (line 89733)
+translate ru PostRahayalApartmentNight_be1743d0:
     # "Sarah turned over the letter and saw the detailed instructions on when and where to go."
     ""
 
-# PostRahayalApartmentNight_f3afa58c (line 89734)
-translate ru PostRahayalApartmentNight_f3afa58c:
+# PostRahayalApartmentNight_e8a12fc0 (line 89734)
+translate ru PostRahayalApartmentNight_e8a12fc0:
     # "She looked about, hoping to see a sign of who had delivered the letter, but the street was empty."
     ""
 
-# PostRahayalApartmentNight_587fa61e (line 89735)
-translate ru PostRahayalApartmentNight_587fa61e:
+# PostRahayalApartmentNight_bfa4ad35 (line 89735)
+translate ru PostRahayalApartmentNight_bfa4ad35:
     # "She closed the door and stepped back inside."
     ""
 
-# PostRahayalApartmentNight_b3538947 (line 89736)
-translate ru PostRahayalApartmentNight_b3538947:
+# PostRahayalApartmentNight_78985423 (line 89736)
+translate ru PostRahayalApartmentNight_78985423:
     # "Sitting down at her desk, she laid down the letter and stared at it."
     ""
 
-# PostRahayalApartmentNight_2460e01e (line 89746)
-translate ru PostRahayalApartmentNight_2460e01e:
+# PostRahayalApartmentNight_70225438 (line 89746)
+translate ru PostRahayalApartmentNight_70225438:
     # "She sighed."
     ""
 
-# PostRahayalApartmentNight_25486f87 (line 89747)
-translate ru PostRahayalApartmentNight_25486f87:
+# PostRahayalApartmentNight_be3cd190 (line 89747)
+translate ru PostRahayalApartmentNight_be3cd190:
     # "Was she just walking into another trap again?"
     ""
 
-# PostRahayalApartmentNight_aa63cd40 (line 89748)
-translate ru PostRahayalApartmentNight_aa63cd40:
+# PostRahayalApartmentNight_dd87620c (line 89748)
+translate ru PostRahayalApartmentNight_dd87620c:
     # "Still, she knew she could not refuse."
     ""
 
-# PostRahayalApartmentNight_b03e3a24 (line 89749)
-translate ru PostRahayalApartmentNight_b03e3a24:
+# PostRahayalApartmentNight_7ec93fc8 (line 89749)
+translate ru PostRahayalApartmentNight_7ec93fc8:
     # "There was too much at stake."
     ""
 
-# PostRahayalApartmentNight_bd660faa (line 89750)
-translate ru PostRahayalApartmentNight_bd660faa:
+# PostRahayalApartmentNight_9ec6f0f5 (line 89750)
+translate ru PostRahayalApartmentNight_9ec6f0f5:
     # "She had seen what these creatures could do at Lethram, and she knew that she alone couldn't stop them."
     ""
 
-# PostRahayalApartmentNight_4350071b (line 89751)
-translate ru PostRahayalApartmentNight_4350071b:
+# PostRahayalApartmentNight_10ca5247 (line 89751)
+translate ru PostRahayalApartmentNight_10ca5247:
     # "Sarah held up the letter and made her decisison."
     ""
 
-# PostRahayalApartmentNight_252e5aa0 (line 89753)
-translate ru PostRahayalApartmentNight_252e5aa0:
+# PostRahayalApartmentNight_716b8fc6 (line 89753)
+translate ru PostRahayalApartmentNight_716b8fc6:
     # "Later that night, following the instructions of the letter, Sarah arived at the location."
     ""
 
-# PostRahayalApartmentNight_b099f377 (line 89777)
-translate ru PostRahayalApartmentNight_b099f377:
+# PostRahayalApartmentNight_b3451a66 (line 89777)
+translate ru PostRahayalApartmentNight_b3451a66:
     # "To her surprise, the building seemed abandoned, dark, not a soul in sight."
     ""
 
-# PostRahayalApartmentNight_56ab05e1 (line 89778)
-translate ru PostRahayalApartmentNight_56ab05e1:
+# PostRahayalApartmentNight_ea88be51 (line 89778)
+translate ru PostRahayalApartmentNight_ea88be51:
     # "Hardly the signs of a busy gathering. In fact, it almost seemed as if there wasn't anyone at all."
     ""
 
-# PostRahayalApartmentNight_973d5d07 (line 89779)
-translate ru PostRahayalApartmentNight_973d5d07:
+# PostRahayalApartmentNight_6e1e221c (line 89779)
+translate ru PostRahayalApartmentNight_6e1e221c:
     # "Then, as she took one step further, everything changed."
     ""
 
-# PostRahayalApartmentNight_9ac27d1f (line 89780)
-translate ru PostRahayalApartmentNight_9ac27d1f:
+# PostRahayalApartmentNight_3a3bc7b5 (line 89780)
+translate ru PostRahayalApartmentNight_3a3bc7b5:
     # "All at once, the invisibility wardings slipped, and Sarah could see the rushing crowds."
     ""
 
-# PostRahayalApartmentNight_df2f13f4 (line 89781)
-translate ru PostRahayalApartmentNight_df2f13f4:
+# PostRahayalApartmentNight_6d556a25 (line 89781)
+translate ru PostRahayalApartmentNight_6d556a25:
     # "Bright lights shone out through the windows and she could hear the sounds of groups of people talking."
     ""
 
-# PostRahayalApartmentNight_8099a0fc (line 89782)
-translate ru PostRahayalApartmentNight_8099a0fc:
+# PostRahayalApartmentNight_3333bf5b (line 89782)
+translate ru PostRahayalApartmentNight_3333bf5b:
     # "Near the front door stood a man, carrying a large axe. So large it seemed impossible that any man could comfortably swing it."
     ""
 
-# PostRahayalApartmentNight_3d4e1611 (line 89783)
-translate ru PostRahayalApartmentNight_3d4e1611:
+# PostRahayalApartmentNight_71f60a4a (line 89783)
+translate ru PostRahayalApartmentNight_71f60a4a:
     # "Guard" "Hail."
     ""
 
-# PostRahayalApartmentNight_07c83be5 (line 89784)
-translate ru PostRahayalApartmentNight_07c83be5:
+# PostRahayalApartmentNight_c3a38b75 (line 89784)
+translate ru PostRahayalApartmentNight_c3a38b75:
     # "He greeted her with a deep voice."
     ""
 
-# PostRahayalApartmentNight_37e974d6 (line 89785)
-translate ru PostRahayalApartmentNight_37e974d6:
+# PostRahayalApartmentNight_7c435b9e (line 89785)
+translate ru PostRahayalApartmentNight_7c435b9e:
     # s "Hello, uhh...I'm expected."
     s ""
 
-# PostRahayalApartmentNight_8ac1c002 (line 89786)
-translate ru PostRahayalApartmentNight_8ac1c002:
+# PostRahayalApartmentNight_3a4ba228 (line 89786)
+translate ru PostRahayalApartmentNight_3a4ba228:
     # "Sarah spoke with some hesitation."
     ""
 
-# PostRahayalApartmentNight_e0887437 (line 89787)
-translate ru PostRahayalApartmentNight_e0887437:
+# PostRahayalApartmentNight_26dc7069 (line 89787)
+translate ru PostRahayalApartmentNight_26dc7069:
     # "Guard" "Letter."
     ""
 
-# PostRahayalApartmentNight_07d102cc (line 89788)
-translate ru PostRahayalApartmentNight_07d102cc:
+# PostRahayalApartmentNight_f94889a7 (line 89788)
+translate ru PostRahayalApartmentNight_f94889a7:
     # "The man's voice boomed."
     ""
 
-# PostRahayalApartmentNight_51bfa87c (line 89789)
-translate ru PostRahayalApartmentNight_51bfa87c:
+# PostRahayalApartmentNight_e209e6e3 (line 89789)
+translate ru PostRahayalApartmentNight_e209e6e3:
     # "Sarah produced the letter that she had received."
     ""
 
-# PostRahayalApartmentNight_f01c9d8d (line 89790)
-translate ru PostRahayalApartmentNight_f01c9d8d:
+# PostRahayalApartmentNight_e6f7d274 (line 89790)
+translate ru PostRahayalApartmentNight_e6f7d274:
     # "For a moment, the guard inspected it."
     ""
 
-# PostRahayalApartmentNight_63957c1b (line 89791)
-translate ru PostRahayalApartmentNight_63957c1b:
+# PostRahayalApartmentNight_58d59fbf (line 89791)
+translate ru PostRahayalApartmentNight_58d59fbf:
     # "Guard" "Welcome."
     ""
 
-# PostRahayalApartmentNight_eee35ac0 (line 89792)
-translate ru PostRahayalApartmentNight_eee35ac0:
+# PostRahayalApartmentNight_4f138e96 (line 89792)
+translate ru PostRahayalApartmentNight_4f138e96:
     # "His voice boomed again, no more or less friendly than before."
     ""
 
-# PostRahayalApartmentNight_d6816bd7 (line 89793)
-translate ru PostRahayalApartmentNight_d6816bd7:
+# PostRahayalApartmentNight_d49f3fd1 (line 89793)
+translate ru PostRahayalApartmentNight_d49f3fd1:
     # "Though Sarah had no doubts that if she had failed to produce a letter, his response would have been a great deal less friendly."
     ""
 
-# PostRahayalApartmentNight_e6c02427 (line 89794)
-translate ru PostRahayalApartmentNight_e6c02427:
+# PostRahayalApartmentNight_d6d1b586 (line 89794)
+translate ru PostRahayalApartmentNight_d6d1b586:
     # "The door swung open, as if by itself. Or perhaps it really did just move by itself."
     ""
 
-# PostRahayalApartmentNight_bd4f4ebc (line 89795)
-translate ru PostRahayalApartmentNight_bd4f4ebc:
+# PostRahayalApartmentNight_36ad0401 (line 89795)
+translate ru PostRahayalApartmentNight_36ad0401:
     # "Where mage's walked, the ordinary rules of the world often faded."
     ""
 
-# PostRahayalApartmentNight_a5112734 (line 89801)
-translate ru PostRahayalApartmentNight_a5112734:
+# PostRahayalApartmentNight_ffbf6420 (line 89801)
+translate ru PostRahayalApartmentNight_ffbf6420:
     # "Stepping inside, Sarah was met by the warm air."
     ""
 
-# PostRahayalApartmentNight_6d3354c6 (line 89802)
-translate ru PostRahayalApartmentNight_6d3354c6:
+# PostRahayalApartmentNight_f619d7f8 (line 89802)
+translate ru PostRahayalApartmentNight_f619d7f8:
     # "A blistering hearth, braziers filled with flames, warmth oozing out from every direction."
     ""
 
-# PostRahayalApartmentNight_2cfefbb5 (line 89803)
-translate ru PostRahayalApartmentNight_2cfefbb5:
+# PostRahayalApartmentNight_50f88d5f (line 89803)
+translate ru PostRahayalApartmentNight_50f88d5f:
     # "Fire was a trivial trick for mages, so they made use of it freely."
     ""
 
-# PostRahayalApartmentNight_f7a0b9ed (line 89804)
-translate ru PostRahayalApartmentNight_f7a0b9ed:
+# PostRahayalApartmentNight_8ad4b207 (line 89804)
+translate ru PostRahayalApartmentNight_8ad4b207:
     # "All about, Sarah saw groups of mages."
     ""
 
-# PostRahayalApartmentNight_fe998284 (line 89805)
-translate ru PostRahayalApartmentNight_fe998284:
+# PostRahayalApartmentNight_8af2a590 (line 89805)
+translate ru PostRahayalApartmentNight_8af2a590:
     # "Speaking, laughing, greeting one another like old friends that they had not seen for ages."
     ""
 
-# PostRahayalApartmentNight_e28425b3 (line 89806)
-translate ru PostRahayalApartmentNight_e28425b3:
+# PostRahayalApartmentNight_d5da1932 (line 89806)
+translate ru PostRahayalApartmentNight_d5da1932:
     # "And she felt a strange hint of envy."
     ""
 
-# PostRahayalApartmentNight_8157c542 (line 89807)
-translate ru PostRahayalApartmentNight_8157c542:
+# PostRahayalApartmentNight_b7e435f0 (line 89807)
+translate ru PostRahayalApartmentNight_b7e435f0:
     # "Envy at the fact that this world had been denied to her."
     ""
 
-# PostRahayalApartmentNight_90447b4d (line 89808)
-translate ru PostRahayalApartmentNight_90447b4d:
+# PostRahayalApartmentNight_681befc6 (line 89808)
+translate ru PostRahayalApartmentNight_681befc6:
     # "That for all of her magical training, she never had the kind of community that she saw here."
     ""
 
-# PostRahayalApartmentNight_78f9d75b (line 89809)
-translate ru PostRahayalApartmentNight_78f9d75b:
+# PostRahayalApartmentNight_6dc321b4 (line 89809)
+translate ru PostRahayalApartmentNight_6dc321b4:
     # "And she wondered if it might have made her feel less alone."
     ""
 
-# PostRahayalApartmentNight_d286cb00 (line 89810)
-translate ru PostRahayalApartmentNight_d286cb00:
+# PostRahayalApartmentNight_5e677f15 (line 89810)
+translate ru PostRahayalApartmentNight_5e677f15:
     # "Then, to her own surprise, she saw a familiar face in the crowd."
     ""
 
-# PostRahayalApartmentNight_35b47b1b (line 89811)
-translate ru PostRahayalApartmentNight_35b47b1b:
+# PostRahayalApartmentNight_8ecdc817 (line 89811)
+translate ru PostRahayalApartmentNight_8ecdc817:
     # "Hecate, the mage she had met in the ruined city, saw her at the same moment she saw her."
     ""
 
-# PostRahayalApartmentNight_0fc8b677 (line 89812)
-translate ru PostRahayalApartmentNight_0fc8b677:
+# PostRahayalApartmentNight_2e2cc91b (line 89812)
+translate ru PostRahayalApartmentNight_2e2cc91b:
     # "Her eyes turned wide and a bright smile came on her face."
     ""
 
-# PostRahayalApartmentNight_d9ac6e54 (line 89813)
-translate ru PostRahayalApartmentNight_d9ac6e54:
+# PostRahayalApartmentNight_4797b5c0 (line 89813)
+translate ru PostRahayalApartmentNight_4797b5c0:
     # "Hecate" "Sarah!"
     ""
 
-# PostRahayalApartmentNight_36ce34cb (line 89819)
-translate ru PostRahayalApartmentNight_36ce34cb:
+# PostRahayalApartmentNight_c9affb30 (line 89819)
+translate ru PostRahayalApartmentNight_c9affb30:
     # "Sarah watched as the woman made her way across the room, passing through dozens of groups of mages."
     ""
 
-# PostRahayalApartmentNight_43657d8a (line 89820)
-translate ru PostRahayalApartmentNight_43657d8a:
+# PostRahayalApartmentNight_47b07659 (line 89820)
+translate ru PostRahayalApartmentNight_47b07659:
     # "Hecate" "They told me they had send you an invitation but I wasn't sure you'd actually show!"
     ""
 
-# PostRahayalApartmentNight_623126c8 (line 89821)
-translate ru PostRahayalApartmentNight_623126c8:
+# PostRahayalApartmentNight_771a1bd6 (line 89821)
+translate ru PostRahayalApartmentNight_771a1bd6:
     # "The woman grasped her into a sudden hug."
     ""
 
-# PostRahayalApartmentNight_bcd09660 (line 89822)
-translate ru PostRahayalApartmentNight_bcd09660:
+# PostRahayalApartmentNight_71289b81 (line 89822)
+translate ru PostRahayalApartmentNight_71289b81:
     # "When she pulled back, Sarah could see why the woman was in such a good mood."
     ""
 
-# PostRahayalApartmentNight_015bbffb (line 89823)
-translate ru PostRahayalApartmentNight_015bbffb:
+# PostRahayalApartmentNight_7ce83883 (line 89823)
+translate ru PostRahayalApartmentNight_7ce83883:
     # "More than a few glasses deep, judging by the red glow on her face."
     ""
 
-# PostRahayalApartmentNight_09a362f6 (line 89824)
-translate ru PostRahayalApartmentNight_09a362f6:
+# PostRahayalApartmentNight_4d44a883 (line 89824)
+translate ru PostRahayalApartmentNight_4d44a883:
     # s "Hey, Hecate, good to see you again."
     s ""
 
-# PostRahayalApartmentNight_8f0fb267 (line 89825)
-translate ru PostRahayalApartmentNight_8f0fb267:
+# PostRahayalApartmentNight_ba2a7ee5 (line 89825)
+translate ru PostRahayalApartmentNight_ba2a7ee5:
     # "Hecate" "You as well!"
     ""
 
-# PostRahayalApartmentNight_32ec528c (line 89826)
-translate ru PostRahayalApartmentNight_32ec528c:
+# PostRahayalApartmentNight_aad1617c (line 89826)
+translate ru PostRahayalApartmentNight_aad1617c:
     # "She ran her hand across Sarah's arm."
     ""
 
-# PostRahayalApartmentNight_c7b2f915 (line 89827)
-translate ru PostRahayalApartmentNight_c7b2f915:
+# PostRahayalApartmentNight_8527196e (line 89827)
+translate ru PostRahayalApartmentNight_8527196e:
     # "Hecate" "I see you're recovering well though, from our little trip in the ruins."
     ""
 
-# PostRahayalApartmentNight_ed3948c4 (line 89828)
-translate ru PostRahayalApartmentNight_ed3948c4:
+# PostRahayalApartmentNight_18c9d343 (line 89828)
+translate ru PostRahayalApartmentNight_18c9d343:
     # "Sarah nodded."
     ""
 
-# PostRahayalApartmentNight_9ba534ac (line 89829)
-translate ru PostRahayalApartmentNight_9ba534ac:
+# PostRahayalApartmentNight_374f58e0 (line 89829)
+translate ru PostRahayalApartmentNight_374f58e0:
     # s "I'm all good."
     s ""
 
-# PostRahayalApartmentNight_8291fbf4 (line 89830)
-translate ru PostRahayalApartmentNight_8291fbf4:
+# PostRahayalApartmentNight_c3bc7e4f (line 89830)
+translate ru PostRahayalApartmentNight_c3bc7e4f:
     # "Hecate" "Yes, benefits of youth and all that."
     ""
 
-# PostRahayalApartmentNight_e7d8df70 (line 89831)
-translate ru PostRahayalApartmentNight_e7d8df70:
+# PostRahayalApartmentNight_56ec2291 (line 89831)
+translate ru PostRahayalApartmentNight_56ec2291:
     # "Hecate" "I used to be out on the roads for years on end, not a spit of trouble."
     ""
 
-# PostRahayalApartmentNight_bd65ebb6 (line 89832)
-translate ru PostRahayalApartmentNight_bd65ebb6:
+# PostRahayalApartmentNight_f1bda398 (line 89832)
+translate ru PostRahayalApartmentNight_f1bda398:
     # "Hecate" "These days, if I'm on the road for more than a week, I can feel it in my bones."
     ""
 
-# PostRahayalApartmentNight_18b19a1a (line 89833)
-translate ru PostRahayalApartmentNight_18b19a1a:
+# PostRahayalApartmentNight_8c6d4f53 (line 89833)
+translate ru PostRahayalApartmentNight_8c6d4f53:
     # "Hecate" "Still, nothing a little magic and relaxation can't fix."
     ""
 
-# PostRahayalApartmentNight_8504b608 (line 89834)
-translate ru PostRahayalApartmentNight_8504b608:
+# PostRahayalApartmentNight_edaec4f6 (line 89834)
+translate ru PostRahayalApartmentNight_edaec4f6:
     # "Hecate" "I'm glad you're doing well though."
     ""
 
-# PostRahayalApartmentNight_cb583b5e (line 89835)
-translate ru PostRahayalApartmentNight_cb583b5e:
+# PostRahayalApartmentNight_b41c6852 (line 89835)
+translate ru PostRahayalApartmentNight_b41c6852:
     # "Hecate" "Those jungles are full of nasty spores, goblins love to grow their mushrooms there, vile things."
     ""
 
-# PostRahayalApartmentNight_c985484f (line 89836)
-translate ru PostRahayalApartmentNight_c985484f:
+# PostRahayalApartmentNight_f6d4d372 (line 89836)
+translate ru PostRahayalApartmentNight_f6d4d372:
     # s "Really, I'm doing quite well."
     s ""
 
-# PostRahayalApartmentNight_3d6ffc82 (line 89837)
-translate ru PostRahayalApartmentNight_3d6ffc82:
+# PostRahayalApartmentNight_fcf6b3fc (line 89837)
+translate ru PostRahayalApartmentNight_fcf6b3fc:
     # "Hecate" "Good, good."
     ""
 
-# PostRahayalApartmentNight_c0abf71d (line 89838)
-translate ru PostRahayalApartmentNight_c0abf71d:
+# PostRahayalApartmentNight_58c72165 (line 89838)
+translate ru PostRahayalApartmentNight_58c72165:
     # "Hecate turned and looked across the room."
     ""
 
-# PostRahayalApartmentNight_78f6d86e (line 89839)
-translate ru PostRahayalApartmentNight_78f6d86e:
+# PostRahayalApartmentNight_5c36c945 (line 89839)
+translate ru PostRahayalApartmentNight_5c36c945:
     # "Hecate" "So, first time attending, are you?"
     ""
 
-# PostRahayalApartmentNight_c3b8bf49 (line 89840)
-translate ru PostRahayalApartmentNight_c3b8bf49:
+# PostRahayalApartmentNight_274a92c0 (line 89840)
+translate ru PostRahayalApartmentNight_274a92c0:
     # "Sarah nodded."
     ""
 
-# PostRahayalApartmentNight_04137795 (line 89841)
-translate ru PostRahayalApartmentNight_04137795:
+# PostRahayalApartmentNight_04c4de95 (line 89841)
+translate ru PostRahayalApartmentNight_04c4de95:
     # "Hecate" "Well, don't worry. Stick with me and you'll make it through just fine."
     ""
 
-# PostRahayalApartmentNight_4ea655de (line 89842)
-translate ru PostRahayalApartmentNight_4ea655de:
+# PostRahayalApartmentNight_c695faa0 (line 89842)
+translate ru PostRahayalApartmentNight_c695faa0:
     # "She gestured at a large group of men, gathered about an older man, performing a series of magical spells in quick succession."
     ""
 
-# PostRahayalApartmentNight_8bab7962 (line 89843)
-translate ru PostRahayalApartmentNight_8bab7962:
+# PostRahayalApartmentNight_62039c8c (line 89843)
+translate ru PostRahayalApartmentNight_62039c8c:
     # "Hecate" "You see their robes?"
     ""
 
-# PostRahayalApartmentNight_a2d617be (line 89844)
-translate ru PostRahayalApartmentNight_a2d617be:
+# PostRahayalApartmentNight_1d45a60e (line 89844)
+translate ru PostRahayalApartmentNight_1d45a60e:
     # "Sarah nodded."
     ""
 
-# PostRahayalApartmentNight_eb4ea067 (line 89845)
-translate ru PostRahayalApartmentNight_eb4ea067:
+# PostRahayalApartmentNight_16e0492b (line 89845)
+translate ru PostRahayalApartmentNight_16e0492b:
     # "Hecate" "Those are elders, but don't feel too intimidated by them."
     ""
 
-# PostRahayalApartmentNight_9ab77541 (line 89846)
-translate ru PostRahayalApartmentNight_9ab77541:
+# PostRahayalApartmentNight_1ab555e1 (line 89846)
+translate ru PostRahayalApartmentNight_1ab555e1:
     # "Hecate" "It's more of a political title than a reflection of their actual powers."
     ""
 
-# PostRahayalApartmentNight_fecb0a95 (line 89847)
-translate ru PostRahayalApartmentNight_fecb0a95:
+# PostRahayalApartmentNight_0574c2af (line 89847)
+translate ru PostRahayalApartmentNight_0574c2af:
     # "Hecate" "They manage the day to day affairs for our Order."
     ""
 
-# PostRahayalApartmentNight_332404c7 (line 89848)
-translate ru PostRahayalApartmentNight_332404c7:
+# PostRahayalApartmentNight_d1f06512 (line 89848)
+translate ru PostRahayalApartmentNight_d1f06512:
     # "Her finger slowly glided across the room."
     ""
 
-# PostRahayalApartmentNight_0d431e21 (line 89849)
-translate ru PostRahayalApartmentNight_0d431e21:
+# PostRahayalApartmentNight_f223e3bd (line 89849)
+translate ru PostRahayalApartmentNight_f223e3bd:
     # "Hecate" "There."
     ""
 
-# PostRahayalApartmentNight_ef07e5b2 (line 89850)
-translate ru PostRahayalApartmentNight_ef07e5b2:
+# PostRahayalApartmentNight_4413bfd7 (line 89850)
+translate ru PostRahayalApartmentNight_4413bfd7:
     # "She pointed out a man wearing a white robe with golden weavings."
     ""
 
-# PostRahayalApartmentNight_eb158c1e (line 89851)
-translate ru PostRahayalApartmentNight_eb158c1e:
+# PostRahayalApartmentNight_b1489eaa (line 89851)
+translate ru PostRahayalApartmentNight_b1489eaa:
     # "Hecate" "Anyone who wears one of those is a founder."
     ""
 
-# PostRahayalApartmentNight_2b54ec9d (line 89852)
-translate ru PostRahayalApartmentNight_2b54ec9d:
+# PostRahayalApartmentNight_911eb108 (line 89852)
+translate ru PostRahayalApartmentNight_911eb108:
     # "Sarah frowned."
     ""
 
-# PostRahayalApartmentNight_a5e24709 (line 89853)
-translate ru PostRahayalApartmentNight_a5e24709:
+# PostRahayalApartmentNight_c68591c2 (line 89853)
+translate ru PostRahayalApartmentNight_c68591c2:
     # s "A founder?"
     s ""
 
-# PostRahayalApartmentNight_44a1c9fd (line 89854)
-translate ru PostRahayalApartmentNight_44a1c9fd:
+# PostRahayalApartmentNight_b85b3a06 (line 89854)
+translate ru PostRahayalApartmentNight_b85b3a06:
     # "Hecate nodded."
     ""
 
-# PostRahayalApartmentNight_2b9c9970 (line 89855)
-translate ru PostRahayalApartmentNight_2b9c9970:
+# PostRahayalApartmentNight_1d4c2f6c (line 89855)
+translate ru PostRahayalApartmentNight_1d4c2f6c:
     # "Hecate" "That means they were there when the old Empire fell."
     ""
 
-# PostRahayalApartmentNight_658d8bd8 (line 89856)
-translate ru PostRahayalApartmentNight_658d8bd8:
+# PostRahayalApartmentNight_9b419d4b (line 89856)
+translate ru PostRahayalApartmentNight_9b419d4b:
     # "Hecate" "The only ones that actually remember what the world was like."
     ""
 
-# PostRahayalApartmentNight_0c0da167 (line 89857)
-translate ru PostRahayalApartmentNight_0c0da167:
+# PostRahayalApartmentNight_277cefb1 (line 89857)
+translate ru PostRahayalApartmentNight_277cefb1:
     # "Hecate" "The only ones that remember the faces of the Gods."
     ""
 
-# PostRahayalApartmentNight_64ba6508 (line 89858)
-translate ru PostRahayalApartmentNight_64ba6508:
+# PostRahayalApartmentNight_b4025b80 (line 89858)
+translate ru PostRahayalApartmentNight_b4025b80:
     # "Sarah felt her heart racing."
     ""
 
-# PostRahayalApartmentNight_ac24578c (line 89859)
-translate ru PostRahayalApartmentNight_ac24578c:
+# PostRahayalApartmentNight_be7f5408 (line 89859)
+translate ru PostRahayalApartmentNight_be7f5408:
     # "It seemed like an absurdity, and yet Hecate spoke it so casually."
     ""
 
-# PostRahayalApartmentNight_71d9be57 (line 89860)
-translate ru PostRahayalApartmentNight_71d9be57:
+# PostRahayalApartmentNight_cc701f09 (line 89860)
+translate ru PostRahayalApartmentNight_cc701f09:
     # "These men and women, millenia old, who walked a world so different from theirs..."
     ""
 
-# PostRahayalApartmentNight_d8d7e0df (line 89861)
-translate ru PostRahayalApartmentNight_d8d7e0df:
+# PostRahayalApartmentNight_c100d891 (line 89861)
+translate ru PostRahayalApartmentNight_c100d891:
     # "To have seen and known the Gods, not as ideas, but as living things."
     ""
 
-# PostRahayalApartmentNight_4ccc1355 (line 89862)
-translate ru PostRahayalApartmentNight_4ccc1355:
+# PostRahayalApartmentNight_c9a3cb9d (line 89862)
+translate ru PostRahayalApartmentNight_c9a3cb9d:
     # "Hecate" "They form the council that send people out on missions. They're the ones that send me off to the ruins, in fact."
     ""
 
-# PostRahayalApartmentNight_e267b34b (line 89863)
-translate ru PostRahayalApartmentNight_e267b34b:
+# PostRahayalApartmentNight_894d0696 (line 89863)
+translate ru PostRahayalApartmentNight_894d0696:
     # s "Really?"
     s ""
 
-# PostRahayalApartmentNight_c0fda5f6 (line 89864)
-translate ru PostRahayalApartmentNight_c0fda5f6:
+# PostRahayalApartmentNight_18acdca5 (line 89864)
+translate ru PostRahayalApartmentNight_18acdca5:
     # "Hecate nodded."
     ""
 
-# PostRahayalApartmentNight_cfc3ccc9 (line 89865)
-translate ru PostRahayalApartmentNight_cfc3ccc9:
+# PostRahayalApartmentNight_578805e2 (line 89865)
+translate ru PostRahayalApartmentNight_578805e2:
     # "Hecate" "We have a lot of freedom, but sometimes we're called upon to work on behalf of the Order."
     ""
 
-# PostRahayalApartmentNight_cfec7565 (line 89866)
-translate ru PostRahayalApartmentNight_cfec7565:
+# PostRahayalApartmentNight_ba87de9c (line 89866)
+translate ru PostRahayalApartmentNight_ba87de9c:
     # "Hecate" "Trust me, I wouldn't spend my free time exploring that goblin infested pit."
     ""
 
-# PostRahayalApartmentNight_d3038c31 (line 89867)
-translate ru PostRahayalApartmentNight_d3038c31:
+# PostRahayalApartmentNight_c64a9cdf (line 89867)
+translate ru PostRahayalApartmentNight_c64a9cdf:
     # "Hecate" "But if the council asks..."
     ""
 
-# PostRahayalApartmentNight_093768cf (line 89868)
-translate ru PostRahayalApartmentNight_093768cf:
+# PostRahayalApartmentNight_68be867a (line 89868)
+translate ru PostRahayalApartmentNight_68be867a:
     # "Hecate shrugged."
     ""
 
-# PostRahayalApartmentNight_4db26caa (line 89869)
-translate ru PostRahayalApartmentNight_4db26caa:
+# PostRahayalApartmentNight_5c26d5b0 (line 89869)
+translate ru PostRahayalApartmentNight_5c26d5b0:
     # "Hecate" "who are we too question those that know the Will?"
     ""
 
-# PostRahayalApartmentNight_040b2521 (line 89870)
-translate ru PostRahayalApartmentNight_040b2521:
+# PostRahayalApartmentNight_a726effd (line 89870)
+translate ru PostRahayalApartmentNight_a726effd:
     # s "The Will?"
     s ""
 
-# PostRahayalApartmentNight_804bc2e1 (line 89871)
-translate ru PostRahayalApartmentNight_804bc2e1:
+# PostRahayalApartmentNight_f52b93ed (line 89871)
+translate ru PostRahayalApartmentNight_f52b93ed:
     # "Hecate eyed Sarah for a moment, pausing, as if to consider her words carefully."
     ""
 
-# PostRahayalApartmentNight_4463fd27 (line 89872)
-translate ru PostRahayalApartmentNight_4463fd27:
+# PostRahayalApartmentNight_ba3ab132 (line 89872)
+translate ru PostRahayalApartmentNight_ba3ab132:
     # "Hecate" "That's what they call it. Their plan, or whatever it is."
     ""
 
-# PostRahayalApartmentNight_4d2c3fab (line 89873)
-translate ru PostRahayalApartmentNight_4d2c3fab:
+# PostRahayalApartmentNight_3dcef4e6 (line 89873)
+translate ru PostRahayalApartmentNight_3dcef4e6:
     # s "Plan?"
     s ""
 
-# PostRahayalApartmentNight_6437f59c (line 89874)
-translate ru PostRahayalApartmentNight_6437f59c:
+# PostRahayalApartmentNight_aee6e9d5 (line 89874)
+translate ru PostRahayalApartmentNight_aee6e9d5:
     # "Hecate smiled."
     ""
 
-# PostRahayalApartmentNight_a38355ce (line 89875)
-translate ru PostRahayalApartmentNight_a38355ce:
+# PostRahayalApartmentNight_b5abea09 (line 89875)
+translate ru PostRahayalApartmentNight_b5abea09:
     # "Hecate" "Poor you, Xan really did a bad job teaching you."
     ""
 
-# PostRahayalApartmentNight_06a45ebd (line 89876)
-translate ru PostRahayalApartmentNight_06a45ebd:
+# PostRahayalApartmentNight_dda6e1a7 (line 89876)
+translate ru PostRahayalApartmentNight_dda6e1a7:
     # "She gestured at the man in the white robe with her head."
     ""
 
-# PostRahayalApartmentNight_cb6ac7cf (line 89877)
-translate ru PostRahayalApartmentNight_cb6ac7cf:
+# PostRahayalApartmentNight_64df4b34 (line 89877)
+translate ru PostRahayalApartmentNight_64df4b34:
     # "Hecate" "The founders say that the Gods told them a plan, before they left."
     ""
 
-# PostRahayalApartmentNight_9315a231 (line 89878)
-translate ru PostRahayalApartmentNight_9315a231:
+# PostRahayalApartmentNight_e0c5c9b9 (line 89878)
+translate ru PostRahayalApartmentNight_e0c5c9b9:
     # "Hecate" "And so everything they do, or ask of others, is in service of that plan."
     ""
 
-# PostRahayalApartmentNight_15dd2376 (line 89879)
-translate ru PostRahayalApartmentNight_15dd2376:
+# PostRahayalApartmentNight_b1770bb3 (line 89879)
+translate ru PostRahayalApartmentNight_b1770bb3:
     # s "And what is it?"
     s ""
 
-# PostRahayalApartmentNight_aa75a907 (line 89880)
-translate ru PostRahayalApartmentNight_aa75a907:
+# PostRahayalApartmentNight_fc1a0ff2 (line 89880)
+translate ru PostRahayalApartmentNight_fc1a0ff2:
     # "Hecate" "The plan?"
     ""
 
-# PostRahayalApartmentNight_fa000992 (line 89881)
-translate ru PostRahayalApartmentNight_fa000992:
+# PostRahayalApartmentNight_39f2587b (line 89881)
+translate ru PostRahayalApartmentNight_39f2587b:
     # "Hecate just shrugged."
     ""
 
-# PostRahayalApartmentNight_36a05573 (line 89882)
-translate ru PostRahayalApartmentNight_36a05573:
+# PostRahayalApartmentNight_e338d368 (line 89882)
+translate ru PostRahayalApartmentNight_e338d368:
     # "Hecate" "Who knows. They certainly don't tell the rest of us."
     ""
 
-# PostRahayalApartmentNight_fa5b615c (line 89883)
-translate ru PostRahayalApartmentNight_fa5b615c:
+# PostRahayalApartmentNight_ca268885 (line 89883)
+translate ru PostRahayalApartmentNight_ca268885:
     # "Hecate" "But whenever they ask us to do something we don't understand, they just say that it's the Will."
     ""
 
-# PostRahayalApartmentNight_5ad12f1c (line 89884)
-translate ru PostRahayalApartmentNight_5ad12f1c:
+# PostRahayalApartmentNight_c68fa954 (line 89884)
+translate ru PostRahayalApartmentNight_c68fa954:
     # "Hecate" "And I guess, who are we to argue with people that walked with Gods?"
     ""
 
-# PostRahayalApartmentNight_6c710ff3 (line 89885)
-translate ru PostRahayalApartmentNight_6c710ff3:
+# PostRahayalApartmentNight_35854ff1 (line 89885)
+translate ru PostRahayalApartmentNight_35854ff1:
     # "Sarah felt her head spinning."
     ""
 
-# PostRahayalApartmentNight_acfe0b85 (line 89886)
-translate ru PostRahayalApartmentNight_acfe0b85:
+# PostRahayalApartmentNight_3aca904d (line 89886)
+translate ru PostRahayalApartmentNight_3aca904d:
     # "This mage world was so very different from the regular one, just outside."
     ""
 
-# PostRahayalApartmentNight_57d6fc98 (line 89887)
-translate ru PostRahayalApartmentNight_57d6fc98:
+# PostRahayalApartmentNight_41b30f30 (line 89887)
+translate ru PostRahayalApartmentNight_41b30f30:
     # s "So...you just do what they say?"
     s ""
 
-# PostRahayalApartmentNight_f7e893dc (line 89888)
-translate ru PostRahayalApartmentNight_f7e893dc:
+# PostRahayalApartmentNight_d6055b76 (line 89888)
+translate ru PostRahayalApartmentNight_d6055b76:
     # "Hecate nodded."
     ""
 
-# PostRahayalApartmentNight_7c8b0b17 (line 89889)
-translate ru PostRahayalApartmentNight_7c8b0b17:
+# PostRahayalApartmentNight_a5b50d6f (line 89889)
+translate ru PostRahayalApartmentNight_a5b50d6f:
     # "Hecate" "I could pretend that I'm a true believer, but the truth is that the council also controls the promotions."
     ""
 
-# PostRahayalApartmentNight_19d707ac (line 89890)
-translate ru PostRahayalApartmentNight_19d707ac:
+# PostRahayalApartmentNight_66e236e6 (line 89890)
+translate ru PostRahayalApartmentNight_66e236e6:
     # "Hecate" "So if you ever want to be anyone of rank, you'd best do as they say."
     ""
 
-# PostRahayalApartmentNight_a2a53eb9 (line 89891)
-translate ru PostRahayalApartmentNight_a2a53eb9:
+# PostRahayalApartmentNight_9946e22c (line 89891)
+translate ru PostRahayalApartmentNight_9946e22c:
     # "Hecate" "So in the end, what does it really matter anyway?"
     ""
 
-# PostRahayalApartmentNight_46a7f008 (line 89892)
-translate ru PostRahayalApartmentNight_46a7f008:
+# PostRahayalApartmentNight_0f1b990b (line 89892)
+translate ru PostRahayalApartmentNight_0f1b990b:
     # "Sarah frowned, it seemed rather cynical, even if she could understand the logic of it."
     ""
 
-# PostRahayalApartmentNight_391bbe5a (line 89893)
-translate ru PostRahayalApartmentNight_391bbe5a:
+# PostRahayalApartmentNight_893dcc98 (line 89893)
+translate ru PostRahayalApartmentNight_893dcc98:
     # "Suddenly, there was a loud ringing sound, and the whole room went quiet."
     ""
 
-# PostRahayalApartmentNight_4b11352f (line 89894)
-translate ru PostRahayalApartmentNight_4b11352f:
+# PostRahayalApartmentNight_846cbbd4 (line 89894)
+translate ru PostRahayalApartmentNight_846cbbd4:
     # "One of the men, wearing a white robe, took to the stage."
     ""
 
-# PostRahayalApartmentNight_21e67734 (line 89895)
-translate ru PostRahayalApartmentNight_21e67734:
+# PostRahayalApartmentNight_5198e017 (line 89895)
+translate ru PostRahayalApartmentNight_5198e017:
     # "Hecate nudged Sarah."
     ""
 
-# PostRahayalApartmentNight_b2b08cb8 (line 89896)
-translate ru PostRahayalApartmentNight_b2b08cb8:
+# PostRahayalApartmentNight_34f1e444 (line 89896)
+translate ru PostRahayalApartmentNight_34f1e444:
     # "Hecate" "This is where it gets good."
     ""
 
-# PostRahayalApartmentNight_7f36ee7e (line 89902)
-translate ru PostRahayalApartmentNight_7f36ee7e:
+# PostRahayalApartmentNight_703f53b6 (line 89902)
+translate ru PostRahayalApartmentNight_703f53b6:
     # "Founder" "Brothers, Sisters!"
     ""
 
-# PostRahayalApartmentNight_38317063 (line 89903)
-translate ru PostRahayalApartmentNight_38317063:
+# PostRahayalApartmentNight_7fa14444 (line 89903)
+translate ru PostRahayalApartmentNight_7fa14444:
     # "The man held out his arms, urging the room to be quiet."
     ""
 
-# PostRahayalApartmentNight_f1b412c3 (line 89904)
-translate ru PostRahayalApartmentNight_f1b412c3:
+# PostRahayalApartmentNight_bce9fbc5 (line 89904)
+translate ru PostRahayalApartmentNight_bce9fbc5:
     # "Slowly, all the chattering died out."
     ""
 
-# PostRahayalApartmentNight_44a1ee05 (line 89905)
-translate ru PostRahayalApartmentNight_44a1ee05:
+# PostRahayalApartmentNight_89bcdaa1 (line 89905)
+translate ru PostRahayalApartmentNight_89bcdaa1:
     # "Founder" "I cannot tell you how much it gladdens my heart to see so many of you gathered here today."
     ""
 
-# PostRahayalApartmentNight_9bf3db28 (line 89906)
-translate ru PostRahayalApartmentNight_9bf3db28:
+# PostRahayalApartmentNight_057f5237 (line 89906)
+translate ru PostRahayalApartmentNight_057f5237:
     # "Founder" "I know that this gathering was announced quite late, but the reasons for us gathering, could not be more dire."
     ""
 
-# PostRahayalApartmentNight_8b5748a5 (line 89907)
-translate ru PostRahayalApartmentNight_8b5748a5:
+# PostRahayalApartmentNight_6fcf085e (line 89907)
+translate ru PostRahayalApartmentNight_6fcf085e:
     # "A few voices rose in nervous whispers."
     ""
 
-# PostRahayalApartmentNight_f3c1d045 (line 89908)
-translate ru PostRahayalApartmentNight_f3c1d045:
+# PostRahayalApartmentNight_d16dd114 (line 89908)
+translate ru PostRahayalApartmentNight_d16dd114:
     # "Founder" "As some of you may have already heard, the rumors are true."
     ""
 
-# PostRahayalApartmentNight_6293203a (line 89909)
-translate ru PostRahayalApartmentNight_6293203a:
+# PostRahayalApartmentNight_d7939c06 (line 89909)
+translate ru PostRahayalApartmentNight_d7939c06:
     # "Founder" "Our great enemy, the Void, has returned."
     ""
 
-# PostRahayalApartmentNight_ea258bcd (line 89910)
-translate ru PostRahayalApartmentNight_ea258bcd:
+# PostRahayalApartmentNight_1c3ecff3 (line 89910)
+translate ru PostRahayalApartmentNight_1c3ecff3:
     # "Founder" "And the city of Lethram, has been wiped from the earth, along with countless dead."
     ""
 
-# PostRahayalApartmentNight_1fc63a79 (line 89911)
-translate ru PostRahayalApartmentNight_1fc63a79:
+# PostRahayalApartmentNight_9e0b662a (line 89911)
+translate ru PostRahayalApartmentNight_9e0b662a:
     # "Now, more voices rose up. It was clear not everyone had yet heard or believed it."
     ""
 
-# PostRahayalApartmentNight_14c129a5 (line 89912)
-translate ru PostRahayalApartmentNight_14c129a5:
+# PostRahayalApartmentNight_28b9bd87 (line 89912)
+translate ru PostRahayalApartmentNight_28b9bd87:
     # "Founder" "Even as we gather, our enemy floods through the rift, pouring out obscenities and horrors."
     ""
 
-# PostRahayalApartmentNight_21d165fc (line 89913)
-translate ru PostRahayalApartmentNight_21d165fc:
+# PostRahayalApartmentNight_56158d4c (line 89913)
+translate ru PostRahayalApartmentNight_56158d4c:
     # "Founder" "Our reports show that our enemy is already spreading."
     ""
 
-# PostRahayalApartmentNight_09321024 (line 89914)
-translate ru PostRahayalApartmentNight_09321024:
+# PostRahayalApartmentNight_e1065fbc (line 89914)
+translate ru PostRahayalApartmentNight_e1065fbc:
     # "Founder" "But the main body of their host is moving towards this very city."
     ""
 
-# PostRahayalApartmentNight_8b31687e (line 89915)
-translate ru PostRahayalApartmentNight_8b31687e:
+# PostRahayalApartmentNight_750650c9 (line 89915)
+translate ru PostRahayalApartmentNight_750650c9:
     # "Founder" "Just as we predicted, they mean to destroy the Mythran empire first."
     ""
 
-# PostRahayalApartmentNight_78218628 (line 89916)
-translate ru PostRahayalApartmentNight_78218628:
+# PostRahayalApartmentNight_c0ff4d12 (line 89916)
+translate ru PostRahayalApartmentNight_c0ff4d12:
     # "More voices murmured, but to Sarah's surprise, there was not much shock."
     ""
 
-# PostRahayalApartmentNight_f3c84a4d (line 89917)
-translate ru PostRahayalApartmentNight_f3c84a4d:
+# PostRahayalApartmentNight_53420db2 (line 89917)
+translate ru PostRahayalApartmentNight_53420db2:
     # "Founder" "This moment is the very chance that we have been working towards for centuries now."
     ""
 
-# PostRahayalApartmentNight_f6a5be8f (line 89918)
-translate ru PostRahayalApartmentNight_f6a5be8f:
+# PostRahayalApartmentNight_46996cc6 (line 89918)
+translate ru PostRahayalApartmentNight_46996cc6:
     # "Founder" "The chance to strike a mortal wound at both of our great foes, and to undo them both at the same time."
     ""
 
-# PostRahayalApartmentNight_3a3ba486 (line 89919)
-translate ru PostRahayalApartmentNight_3a3ba486:
+# PostRahayalApartmentNight_8c9da292 (line 89919)
+translate ru PostRahayalApartmentNight_8c9da292:
     # "More approving murmuring."
     ""
 
-# PostRahayalApartmentNight_417008fa (line 89920)
-translate ru PostRahayalApartmentNight_417008fa:
+# PostRahayalApartmentNight_f9ff02a5 (line 89920)
+translate ru PostRahayalApartmentNight_f9ff02a5:
     # "Sarah leaned closer to Hecate."
     ""
 
-# PostRahayalApartmentNight_21dc68ce (line 89921)
-translate ru PostRahayalApartmentNight_21dc68ce:
+# PostRahayalApartmentNight_6e2c02cf (line 89921)
+translate ru PostRahayalApartmentNight_6e2c02cf:
     # s "What is he talking about?"
     s ""
 
-# PostRahayalApartmentNight_a8f04039 (line 89922)
-translate ru PostRahayalApartmentNight_a8f04039:
+# PostRahayalApartmentNight_86879133 (line 89922)
+translate ru PostRahayalApartmentNight_86879133:
     # "Hecate" "Huh?"
     ""
 
-# PostRahayalApartmentNight_07a91354 (line 89928)
-translate ru PostRahayalApartmentNight_07a91354:
+# PostRahayalApartmentNight_9d03966c (line 89928)
+translate ru PostRahayalApartmentNight_9d03966c:
     # s "The void...I mean, that is the enemy, right? What is he talking about?"
     s ""
 
-# PostRahayalApartmentNight_a2b39419 (line 89929)
-translate ru PostRahayalApartmentNight_a2b39419:
+# PostRahayalApartmentNight_26773607 (line 89929)
+translate ru PostRahayalApartmentNight_26773607:
     # "Hecate nodded."
     ""
 
-# PostRahayalApartmentNight_e83df544 (line 89930)
-translate ru PostRahayalApartmentNight_e83df544:
+# PostRahayalApartmentNight_d86fc566 (line 89930)
+translate ru PostRahayalApartmentNight_d86fc566:
     # "Hecate" "The void is dangerous, but our Order has more enemies than just them."
     ""
 
-# PostRahayalApartmentNight_46045d20 (line 89931)
-translate ru PostRahayalApartmentNight_46045d20:
+# PostRahayalApartmentNight_e804d5a2 (line 89931)
+translate ru PostRahayalApartmentNight_e804d5a2:
     # s "What enemies?"
     s ""
 
-# PostRahayalApartmentNight_782a6e9e (line 89932)
-translate ru PostRahayalApartmentNight_782a6e9e:
+# PostRahayalApartmentNight_2a3eced7 (line 89932)
+translate ru PostRahayalApartmentNight_2a3eced7:
     # "Hecate" "The Mythran Empire itself, of course."
     ""
 
-# PostRahayalApartmentNight_beebd09a (line 89933)
-translate ru PostRahayalApartmentNight_beebd09a:
+# PostRahayalApartmentNight_ef0acd06 (line 89933)
+translate ru PostRahayalApartmentNight_ef0acd06:
     # "Sarah frowned."
     ""
 
-# PostRahayalApartmentNight_e7b3bec1 (line 89934)
-translate ru PostRahayalApartmentNight_e7b3bec1:
+# PostRahayalApartmentNight_23f8307f (line 89934)
+translate ru PostRahayalApartmentNight_23f8307f:
     # s "Why?"
     s ""
 
-# PostRahayalApartmentNight_f9676493 (line 89935)
-translate ru PostRahayalApartmentNight_f9676493:
+# PostRahayalApartmentNight_84dbf4f1 (line 89935)
+translate ru PostRahayalApartmentNight_84dbf4f1:
     # "Hecate sighed."
     ""
 
-# PostRahayalApartmentNight_9d011c6c (line 89936)
-translate ru PostRahayalApartmentNight_9d011c6c:
+# PostRahayalApartmentNight_11c900a4 (line 89936)
+translate ru PostRahayalApartmentNight_11c900a4:
     # "Hecate" "They hate our Order. Always have. Why, I don't know."
     ""
 
-# PostRahayalApartmentNight_d1be5731 (line 89937)
-translate ru PostRahayalApartmentNight_d1be5731:
+# PostRahayalApartmentNight_17ea90a3 (line 89937)
+translate ru PostRahayalApartmentNight_17ea90a3:
     # "Hecate" "But according to the Founders, the Empire is just as dangerous as the Void."
     ""
 
-# PostRahayalApartmentNight_f3b097b4 (line 89938)
-translate ru PostRahayalApartmentNight_f3b097b4:
+# PostRahayalApartmentNight_3d67efef (line 89938)
+translate ru PostRahayalApartmentNight_3d67efef:
     # "Hecate" "This could be a perfect opporunity to deal with both at the same time."
     ""
 
-# PostRahayalApartmentNight_39ee76e3 (line 89939)
-translate ru PostRahayalApartmentNight_39ee76e3:
+# PostRahayalApartmentNight_b7627053 (line 89939)
+translate ru PostRahayalApartmentNight_b7627053:
     # "Hecate" "Let them destroy each other, and we deal with the rest."
     ""
 
-# PostRahayalApartmentNight_ee19b683 (line 89940)
-translate ru PostRahayalApartmentNight_ee19b683:
+# PostRahayalApartmentNight_3c891279 (line 89940)
+translate ru PostRahayalApartmentNight_3c891279:
     # "Sarah felt heart race."
     ""
 
-# PostRahayalApartmentNight_0f8ffa75 (line 89946)
-translate ru PostRahayalApartmentNight_0f8ffa75:
+# PostRahayalApartmentNight_48b36cd8 (line 89946)
+translate ru PostRahayalApartmentNight_48b36cd8:
     # s "Destroy each other?"
     s ""
 
-# PostRahayalApartmentNight_e177b906 (line 89947)
-translate ru PostRahayalApartmentNight_e177b906:
+# PostRahayalApartmentNight_a2681bd5 (line 89947)
+translate ru PostRahayalApartmentNight_a2681bd5:
     # s "You say this as if there aren't millions of people living in this very city."
     s ""
 
-# PostRahayalApartmentNight_32ee5bd8 (line 89948)
-translate ru PostRahayalApartmentNight_32ee5bd8:
+# PostRahayalApartmentNight_78a8f17b (line 89948)
+translate ru PostRahayalApartmentNight_78a8f17b:
     # s "I've seen what those creatures did to Lethram."
     s ""
 
-# PostRahayalApartmentNight_69995d1e (line 89949)
-translate ru PostRahayalApartmentNight_69995d1e:
+# PostRahayalApartmentNight_97dd36b4 (line 89949)
+translate ru PostRahayalApartmentNight_97dd36b4:
     # s "If they break through the gates...the slaughter would be beyond...anything."
     s ""
 
-# PostRahayalApartmentNight_e7adf8d2 (line 89950)
-translate ru PostRahayalApartmentNight_e7adf8d2:
+# PostRahayalApartmentNight_bcaf0e71 (line 89950)
+translate ru PostRahayalApartmentNight_bcaf0e71:
     # "To her surprise, Sarah just saw Hecate frown."
     ""
 
-# PostRahayalApartmentNight_5ad6460f (line 89951)
-translate ru PostRahayalApartmentNight_5ad6460f:
+# PostRahayalApartmentNight_fe8da472 (line 89951)
+translate ru PostRahayalApartmentNight_fe8da472:
     # "Hecate" "Sarah, don't get hysterical now."
     ""
 
-# PostRahayalApartmentNight_6a15c12b (line 89952)
-translate ru PostRahayalApartmentNight_6a15c12b:
+# PostRahayalApartmentNight_19176f32 (line 89952)
+translate ru PostRahayalApartmentNight_19176f32:
     # "Hecate" "Our Order deals with the long and broad strokes of history, not every single trivial life."
     ""
 
-# PostRahayalApartmentNight_a7391cbe (line 89953)
-translate ru PostRahayalApartmentNight_a7391cbe:
+# PostRahayalApartmentNight_a7b2e8c0 (line 89953)
+translate ru PostRahayalApartmentNight_a7b2e8c0:
     # "Hecate" "People die, they always do."
     ""
 
-# PostRahayalApartmentNight_7b33e422 (line 89954)
-translate ru PostRahayalApartmentNight_7b33e422:
+# PostRahayalApartmentNight_796cbff1 (line 89954)
+translate ru PostRahayalApartmentNight_796cbff1:
     # "Hecate" "Empires rise, empires fall, entire civilizations vanish."
     ""
 
-# PostRahayalApartmentNight_0cc5a178 (line 89955)
-translate ru PostRahayalApartmentNight_0cc5a178:
+# PostRahayalApartmentNight_9ac01c41 (line 89955)
+translate ru PostRahayalApartmentNight_9ac01c41:
     # "Hecate" "And then new ones come around. If you've been alive for long enough, you can see the movement of history."
     ""
 
-# PostRahayalApartmentNight_3a848ae2 (line 89956)
-translate ru PostRahayalApartmentNight_3a848ae2:
+# PostRahayalApartmentNight_99536088 (line 89956)
+translate ru PostRahayalApartmentNight_99536088:
     # "Hecate" "Don't be distracted by the small lives."
     ""
 
-# PostRahayalApartmentNight_fc87de09 (line 89957)
-translate ru PostRahayalApartmentNight_fc87de09:
+# PostRahayalApartmentNight_9ee2f525 (line 89957)
+translate ru PostRahayalApartmentNight_9ee2f525:
     # "Sarah felt her fist clench."
     ""
 
-# PostRahayalApartmentNight_ecd14b8b (line 89958)
-translate ru PostRahayalApartmentNight_ecd14b8b:
+# PostRahayalApartmentNight_6e83177e (line 89958)
+translate ru PostRahayalApartmentNight_6e83177e:
     # s "Small lives?"
     s ""
 
-# PostRahayalApartmentNight_5a756691 (line 89959)
-translate ru PostRahayalApartmentNight_5a756691:
+# PostRahayalApartmentNight_00e7dd4c (line 89959)
+translate ru PostRahayalApartmentNight_00e7dd4c:
     # s "Easy for you to say. You're not going to be left helpless in a city, waiting for these fiends."
     s ""
 
-# PostRahayalApartmentNight_279574a2 (line 89960)
-translate ru PostRahayalApartmentNight_279574a2:
+# PostRahayalApartmentNight_017a7a7c (line 89960)
+translate ru PostRahayalApartmentNight_017a7a7c:
     # "Hecate" "I'm not happy about it, but if the founders say that-"
     ""
 
-# PostRahayalApartmentNight_bfc01707 (line 89961)
-translate ru PostRahayalApartmentNight_bfc01707:
+# PostRahayalApartmentNight_d4dddb28 (line 89961)
+translate ru PostRahayalApartmentNight_d4dddb28:
     # s "I thought you weren't a true believer."
     s ""
 
-# PostRahayalApartmentNight_445910b1 (line 89962)
-translate ru PostRahayalApartmentNight_445910b1:
+# PostRahayalApartmentNight_f8044dd0 (line 89962)
+translate ru PostRahayalApartmentNight_f8044dd0:
     # "Hecate smiled."
     ""
 
-# PostRahayalApartmentNight_c1a4f937 (line 89963)
-translate ru PostRahayalApartmentNight_c1a4f937:
+# PostRahayalApartmentNight_ca8dca91 (line 89963)
+translate ru PostRahayalApartmentNight_ca8dca91:
     # "Hecate" "I'm not a rebel either. If they say this is the Will, than I won't argue."
     ""
 
-# PostRahayalApartmentNight_4314a4cf (line 89964)
-translate ru PostRahayalApartmentNight_4314a4cf:
+# PostRahayalApartmentNight_2eb9b360 (line 89964)
+translate ru PostRahayalApartmentNight_2eb9b360:
     # s "But..."
     s ""
 
-# PostRahayalApartmentNight_96db503e (line 89965)
-translate ru PostRahayalApartmentNight_96db503e:
+# PostRahayalApartmentNight_3e1d14a2 (line 89965)
+translate ru PostRahayalApartmentNight_3e1d14a2:
     # "Voice" "Sarah Rose!"
     ""
 
-# PostRahayalApartmentNight_9deb6c91 (line 89966)
-translate ru PostRahayalApartmentNight_9deb6c91:
+# PostRahayalApartmentNight_673b7a2b (line 89966)
+translate ru PostRahayalApartmentNight_673b7a2b:
     # "A loud voice rang out across the gathering."
     ""
 
-# PostRahayalApartmentNight_596c6ec0 (line 89967)
-translate ru PostRahayalApartmentNight_596c6ec0:
+# PostRahayalApartmentNight_90f263b7 (line 89967)
+translate ru PostRahayalApartmentNight_90f263b7:
     # "When Sarah turned, she saw the founder that had been standing on the stage, waving her towards him."
     ""
 
-# PostRahayalApartmentNight_02a9bfd3 (line 89968)
-translate ru PostRahayalApartmentNight_02a9bfd3:
+# PostRahayalApartmentNight_9843b677 (line 89968)
+translate ru PostRahayalApartmentNight_9843b677:
     # "How did he even know her name?"
     ""
 
-# PostRahayalApartmentNight_369e85da (line 89969)
-translate ru PostRahayalApartmentNight_369e85da:
+# PostRahayalApartmentNight_903de4b0 (line 89969)
+translate ru PostRahayalApartmentNight_903de4b0:
     # "Founder" "Please, come!"
     ""
 
-# PostRahayalApartmentNight_2f9eeacb (line 89970)
-translate ru PostRahayalApartmentNight_2f9eeacb:
+# PostRahayalApartmentNight_ef71d175 (line 89970)
+translate ru PostRahayalApartmentNight_ef71d175:
     # "He waved again."
     ""
 
-# PostRahayalApartmentNight_5c91fea6 (line 89971)
-translate ru PostRahayalApartmentNight_5c91fea6:
+# PostRahayalApartmentNight_c1d7cffe (line 89971)
+translate ru PostRahayalApartmentNight_c1d7cffe:
     # "Hecate nudged her."
     ""
 
-# PostRahayalApartmentNight_2ca484db (line 89972)
-translate ru PostRahayalApartmentNight_2ca484db:
+# PostRahayalApartmentNight_269bde12 (line 89972)
+translate ru PostRahayalApartmentNight_269bde12:
     # "Hecate" "Go no, don't leave him waiting. We'll catch up after."
     ""
 
-# PostRahayalApartmentNight_fd43d554 (line 89973)
-translate ru PostRahayalApartmentNight_fd43d554:
+# PostRahayalApartmentNight_e0db0b0d (line 89973)
+translate ru PostRahayalApartmentNight_e0db0b0d:
     # "Sarah felt Hecate's hand on her back, softly but firmly pushing her forward."
     ""
 
-# PostRahayalApartmentNight_847afb15 (line 89974)
-translate ru PostRahayalApartmentNight_847afb15:
+# PostRahayalApartmentNight_c88d8f75 (line 89974)
+translate ru PostRahayalApartmentNight_c88d8f75:
     # "Seeing no other option, Sarah made her way towards the man."
     ""
 
-# PostRahayalApartmentNight_5dceff1a (line 89975)
-translate ru PostRahayalApartmentNight_5dceff1a:
+# PostRahayalApartmentNight_6d11b010 (line 89975)
+translate ru PostRahayalApartmentNight_6d11b010:
     # "Up close, the intricate golden weave of his tunic was even more impressive."
     ""
 
-# PostRahayalApartmentNight_d6c77218 (line 89976)
-translate ru PostRahayalApartmentNight_d6c77218:
+# PostRahayalApartmentNight_4563c79b (line 89976)
+translate ru PostRahayalApartmentNight_4563c79b:
     # "Founder" "Ah...I cannot tell you enough how much it gladdens me to see you here today."
     ""
 
-# PostRahayalApartmentNight_1e2b29bf (line 89977)
-translate ru PostRahayalApartmentNight_1e2b29bf:
+# PostRahayalApartmentNight_273e18ac (line 89977)
+translate ru PostRahayalApartmentNight_273e18ac:
     # "So close, Sarah could feel the powerful magics that this man had wrapped himself in."
     ""
 
-# PostRahayalApartmentNight_6b95b515 (line 89978)
-translate ru PostRahayalApartmentNight_6b95b515:
+# PostRahayalApartmentNight_38a2eaee (line 89978)
+translate ru PostRahayalApartmentNight_38a2eaee:
     # "If it was true what Hecate said, that this man was ancient, it stood to reason that he had many lifetimes to perfect his art."
     ""
 
-# PostRahayalApartmentNight_eef70259 (line 89984)
-translate ru PostRahayalApartmentNight_eef70259:
+# PostRahayalApartmentNight_e00252f9 (line 89984)
+translate ru PostRahayalApartmentNight_e00252f9:
     # s "How...do you know my name?"
     s ""
 
-# PostRahayalApartmentNight_62473d11 (line 89985)
-translate ru PostRahayalApartmentNight_62473d11:
+# PostRahayalApartmentNight_4fc5b5e9 (line 89985)
+translate ru PostRahayalApartmentNight_4fc5b5e9:
     # "He smiled, softly."
     ""
 
-# PostRahayalApartmentNight_aa4f5a99 (line 89986)
-translate ru PostRahayalApartmentNight_aa4f5a99:
+# PostRahayalApartmentNight_a29c4a07 (line 89986)
+translate ru PostRahayalApartmentNight_a29c4a07:
     # "Founder" "Sarah Rose, long lost heir to the throne of Rosanna."
     ""
 
-# PostRahayalApartmentNight_6de63a87 (line 89987)
-translate ru PostRahayalApartmentNight_6de63a87:
+# PostRahayalApartmentNight_df0f58ac (line 89987)
+translate ru PostRahayalApartmentNight_df0f58ac:
     # "Sarah felt pinned to the ground."
     ""
 
-# PostRahayalApartmentNight_acc01bcd (line 89988)
-translate ru PostRahayalApartmentNight_acc01bcd:
+# PostRahayalApartmentNight_52fd26f2 (line 89988)
+translate ru PostRahayalApartmentNight_52fd26f2:
     # "It had been year, a lifetime ago, since anyone had ever known her...really known her."
     ""
 
-# PostRahayalApartmentNight_05f7dc47 (line 89989)
-translate ru PostRahayalApartmentNight_05f7dc47:
+# PostRahayalApartmentNight_4a7acfe0 (line 89989)
+translate ru PostRahayalApartmentNight_4a7acfe0:
     # "And now, this strange man, of all people..."
     ""
 
-# PostRahayalApartmentNight_f04b04f9 (line 89990)
-translate ru PostRahayalApartmentNight_f04b04f9:
+# PostRahayalApartmentNight_0634d85f (line 89990)
+translate ru PostRahayalApartmentNight_0634d85f:
     # s "Who...who are you?"
     s ""
 
-# PostRahayalApartmentNight_4201add0 (line 89991)
-translate ru PostRahayalApartmentNight_4201add0:
+# PostRahayalApartmentNight_f473ae72 (line 89991)
+translate ru PostRahayalApartmentNight_f473ae72:
     # "He smiled again."
     ""
 
-# PostRahayalApartmentNight_09492442 (line 89992)
-translate ru PostRahayalApartmentNight_09492442:
+# PostRahayalApartmentNight_75f32468 (line 89992)
+translate ru PostRahayalApartmentNight_75f32468:
     # "Founder" "An old friend of your father."
     ""
 
-# PostRahayalApartmentNight_255343ac (line 89993)
-translate ru PostRahayalApartmentNight_255343ac:
+# PostRahayalApartmentNight_19ad89f9 (line 89993)
+translate ru PostRahayalApartmentNight_19ad89f9:
     # "Founder" "But I recall you as well, though I doubt you were old enough to remember."
     ""
 
-# PostRahayalApartmentNight_21567d32 (line 89994)
-translate ru PostRahayalApartmentNight_21567d32:
+# PostRahayalApartmentNight_8f22a752 (line 89994)
+translate ru PostRahayalApartmentNight_8f22a752:
     # "Sarah felt her head spinning..."
     ""
 
-# PostRahayalApartmentNight_4699047b (line 89995)
-translate ru PostRahayalApartmentNight_4699047b:
+# PostRahayalApartmentNight_b139ba6e (line 89995)
+translate ru PostRahayalApartmentNight_b139ba6e:
     # s "You...you knew my father?"
     s ""
 
-# PostRahayalApartmentNight_ea0b3399 (line 89996)
-translate ru PostRahayalApartmentNight_ea0b3399:
+# PostRahayalApartmentNight_575b8806 (line 89996)
+translate ru PostRahayalApartmentNight_575b8806:
     # "Founder" "And his father before, and several others along your family line."
     ""
 
-# PostRahayalApartmentNight_6f2545c0 (line 89997)
-translate ru PostRahayalApartmentNight_6f2545c0:
+# PostRahayalApartmentNight_8aa999f2 (line 89997)
+translate ru PostRahayalApartmentNight_8aa999f2:
     # "Founder" "Most just names to you, though."
     ""
 
-# PostRahayalApartmentNight_47f25400 (line 89998)
-translate ru PostRahayalApartmentNight_47f25400:
+# PostRahayalApartmentNight_0edc2c39 (line 89998)
+translate ru PostRahayalApartmentNight_0edc2c39:
     # "Founder" "Your family line has always been strong allies to our cause."
     ""
 
-# PostRahayalApartmentNight_88584be4 (line 89999)
-translate ru PostRahayalApartmentNight_88584be4:
+# PostRahayalApartmentNight_03cee826 (line 89999)
+translate ru PostRahayalApartmentNight_03cee826:
     # "Founder" "Though I must admit, you are the first of your lineage to express any magical potency."
     ""
 
-# PostRahayalApartmentNight_8c7cac67 (line 90000)
-translate ru PostRahayalApartmentNight_8c7cac67:
+# PostRahayalApartmentNight_7fa2bd11 (line 90000)
+translate ru PostRahayalApartmentNight_7fa2bd11:
     # "He suddenly laid his hand on her shoulder."
     ""
 
-# PostRahayalApartmentNight_174e0d03 (line 90001)
-translate ru PostRahayalApartmentNight_174e0d03:
+# PostRahayalApartmentNight_8fc5a8bb (line 90001)
+translate ru PostRahayalApartmentNight_8fc5a8bb:
     # "Founder" "But forgive me my manners, my name is Oryon."
     ""
 
-# PostRahayalApartmentNight_f16960e8 (line 90002)
-translate ru PostRahayalApartmentNight_f16960e8:
+# PostRahayalApartmentNight_87a3e4cd (line 90002)
+translate ru PostRahayalApartmentNight_87a3e4cd:
     # "Sarah had never heard the name before."
     ""
 
-# PostRahayalApartmentNight_768afce8 (line 90003)
-translate ru PostRahayalApartmentNight_768afce8:
+# PostRahayalApartmentNight_255a53b0 (line 90003)
+translate ru PostRahayalApartmentNight_255a53b0:
     # s "My father never mentioned you. Ever."
     s ""
 
-# PostRahayalApartmentNight_aa064e5e (line 90004)
-translate ru PostRahayalApartmentNight_aa064e5e:
+# PostRahayalApartmentNight_dd2f059e (line 90004)
+translate ru PostRahayalApartmentNight_dd2f059e:
     # "Oryon" "Good. We prefer to keep our alliances with the royal houses of the world, discreet."
     ""
 
-# PostRahayalApartmentNight_84315135 (line 90005)
-translate ru PostRahayalApartmentNight_84315135:
+# PostRahayalApartmentNight_df5b8b3e (line 90005)
+translate ru PostRahayalApartmentNight_df5b8b3e:
     # "Oryon" "I am sure, when you had been ready, your father would have told you everything."
     ""
 
-# PostRahayalApartmentNight_c30b493f (line 90006)
-translate ru PostRahayalApartmentNight_c30b493f:
+# PostRahayalApartmentNight_464d2f1c (line 90006)
+translate ru PostRahayalApartmentNight_464d2f1c:
     # "Oryon" "But of course, history takes twists and turns, and that never came to pass."
     ""
 
-# PostRahayalApartmentNight_b4947520 (line 90007)
-translate ru PostRahayalApartmentNight_b4947520:
+# PostRahayalApartmentNight_61529884 (line 90007)
+translate ru PostRahayalApartmentNight_61529884:
     # "Oryon" "Tragedy, what happened to your father....and everything after that."
     ""
 
-# PostRahayalApartmentNight_197ab171 (line 90008)
-translate ru PostRahayalApartmentNight_197ab171:
+# PostRahayalApartmentNight_2d0ecd9f (line 90008)
+translate ru PostRahayalApartmentNight_2d0ecd9f:
     # "Sarah was still reeling from how much the man seemed to know."
     ""
 
-# PostRahayalApartmentNight_322009af (line 90009)
-translate ru PostRahayalApartmentNight_322009af:
+# PostRahayalApartmentNight_e978d5cd (line 90009)
+translate ru PostRahayalApartmentNight_e978d5cd:
     # s "You...you say you're an ally of my family? Then why did you do nothing to help us?"
     s ""
 
-# PostRahayalApartmentNight_38f5666d (line 90010)
-translate ru PostRahayalApartmentNight_38f5666d:
+# PostRahayalApartmentNight_6a47034d (line 90010)
+translate ru PostRahayalApartmentNight_6a47034d:
     # s "If...if we had magic...when the Tribesmen attacked...we...we could have..."
     s ""
 
-# PostRahayalApartmentNight_f33f2b76 (line 90011)
-translate ru PostRahayalApartmentNight_f33f2b76:
+# PostRahayalApartmentNight_1aee9de8 (line 90011)
+translate ru PostRahayalApartmentNight_1aee9de8:
     # "She saw him look at her with a paternal sadness."
     ""
 
-# PostRahayalApartmentNight_3e8f3e95 (line 90012)
-translate ru PostRahayalApartmentNight_3e8f3e95:
+# PostRahayalApartmentNight_88315aa5 (line 90012)
+translate ru PostRahayalApartmentNight_88315aa5:
     # "Oryon" "Could have what?"
     ""
 
-# PostRahayalApartmentNight_7f1683ba (line 90013)
-translate ru PostRahayalApartmentNight_7f1683ba:
+# PostRahayalApartmentNight_c3a4c0d2 (line 90013)
+translate ru PostRahayalApartmentNight_c3a4c0d2:
     # "Oryon" "Used our magic to sway the course of battle?"
     ""
 
-# PostRahayalApartmentNight_0477c2ca (line 90014)
-translate ru PostRahayalApartmentNight_0477c2ca:
+# PostRahayalApartmentNight_48424dc7 (line 90014)
+translate ru PostRahayalApartmentNight_48424dc7:
     # "Oryon" "Perhaps, but to what end?"
     ""
 
-# PostRahayalApartmentNight_d98a414d (line 90015)
-translate ru PostRahayalApartmentNight_d98a414d:
+# PostRahayalApartmentNight_d7147a25 (line 90015)
+translate ru PostRahayalApartmentNight_d7147a25:
     # s "What do you mean to what end? To save my family! My kingdom! My people! My...my brother!!!"
     s ""
 
-# PostRahayalApartmentNight_b5a3e17f (line 90016)
-translate ru PostRahayalApartmentNight_b5a3e17f:
+# PostRahayalApartmentNight_b3c08cfb (line 90016)
+translate ru PostRahayalApartmentNight_b3c08cfb:
     # "Sarah wanted to scream."
     ""
 
-# PostRahayalApartmentNight_5862f112 (line 90017)
-translate ru PostRahayalApartmentNight_5862f112:
+# PostRahayalApartmentNight_a87c2c09 (line 90017)
+translate ru PostRahayalApartmentNight_a87c2c09:
     # "Oryon" "I understand your anger and why you feel it."
     ""
 
-# PostRahayalApartmentNight_cf82ecf2 (line 90018)
-translate ru PostRahayalApartmentNight_cf82ecf2:
+# PostRahayalApartmentNight_af7efb5e (line 90018)
+translate ru PostRahayalApartmentNight_af7efb5e:
     # "Oryon" "But myself and this Order, we are tasked with something far beyond the momentary lives of people."
     ""
 
-# PostRahayalApartmentNight_95920199 (line 90019)
-translate ru PostRahayalApartmentNight_95920199:
+# PostRahayalApartmentNight_a2b9d3f9 (line 90019)
+translate ru PostRahayalApartmentNight_a2b9d3f9:
     # "Sarah stared him down."
     ""
 
-# PostRahayalApartmentNight_10471f85 (line 90020)
-translate ru PostRahayalApartmentNight_10471f85:
+# PostRahayalApartmentNight_5e3243d2 (line 90020)
+translate ru PostRahayalApartmentNight_5e3243d2:
     # s "Yes, Hecate told me, your stupid Will, or whatever story you tell yourself to justify what you do."
     s ""
 
-# PostRahayalApartmentNight_a33b6d83 (line 90021)
-translate ru PostRahayalApartmentNight_a33b6d83:
+# PostRahayalApartmentNight_61bd6d83 (line 90021)
+translate ru PostRahayalApartmentNight_61bd6d83:
     # "Oryon" "It is not just a story, Sarah."
     ""
 
-# PostRahayalApartmentNight_d257cce8 (line 90022)
-translate ru PostRahayalApartmentNight_d257cce8:
+# PostRahayalApartmentNight_9d3fde94 (line 90022)
+translate ru PostRahayalApartmentNight_9d3fde94:
     # "Oryon" "I was there when the first Empire ruled, and I lived through the greatest Era our species had ever seen."
     ""
 
-# PostRahayalApartmentNight_2a0557b8 (line 90023)
-translate ru PostRahayalApartmentNight_2a0557b8:
+# PostRahayalApartmentNight_82cc3e4a (line 90023)
+translate ru PostRahayalApartmentNight_82cc3e4a:
     # "Oryon" "We used to build cities that made places like this seem like dung heaps."
     ""
 
-# PostRahayalApartmentNight_30a11c28 (line 90024)
-translate ru PostRahayalApartmentNight_30a11c28:
+# PostRahayalApartmentNight_598b0fdc (line 90024)
+translate ru PostRahayalApartmentNight_598b0fdc:
     # "Oryon" "We occupied ourselves with studies of the stars, and uncovering the laws that govern all nature."
     ""
 
-# PostRahayalApartmentNight_291027b1 (line 90025)
-translate ru PostRahayalApartmentNight_291027b1:
+# PostRahayalApartmentNight_3ce4f594 (line 90025)
+translate ru PostRahayalApartmentNight_3ce4f594:
     # "Oryon" "You ask, why did we not save your kingdom?"
     ""
 
-# PostRahayalApartmentNight_ce6e7ce9 (line 90026)
-translate ru PostRahayalApartmentNight_ce6e7ce9:
+# PostRahayalApartmentNight_d4a279fe (line 90026)
+translate ru PostRahayalApartmentNight_d4a279fe:
     # "Oryon" "Because on the full measure of history, what did it ever really amount to?"
     ""
 
-# PostRahayalApartmentNight_606a931f (line 90027)
-translate ru PostRahayalApartmentNight_606a931f:
+# PostRahayalApartmentNight_24964f38 (line 90027)
+translate ru PostRahayalApartmentNight_24964f38:
     # "Sarah clenched her fists again."
     ""
 
-# PostRahayalApartmentNight_886a1e53 (line 90028)
-translate ru PostRahayalApartmentNight_886a1e53:
+# PostRahayalApartmentNight_4a5a37a1 (line 90028)
+translate ru PostRahayalApartmentNight_4a5a37a1:
     # s "People! People lived their lives there! And they didn't deserve this..."
     s ""
 
-# PostRahayalApartmentNight_ca54f986 (line 90029)
-translate ru PostRahayalApartmentNight_ca54f986:
+# PostRahayalApartmentNight_d781a618 (line 90029)
+translate ru PostRahayalApartmentNight_d781a618:
     # "Oryon" "Sarah, within a little more than a hundred years, every man or woman alive today, will have died of old age."
     ""
 
-# PostRahayalApartmentNight_059e00ac (line 90030)
-translate ru PostRahayalApartmentNight_059e00ac:
+# PostRahayalApartmentNight_abde2944 (line 90030)
+translate ru PostRahayalApartmentNight_abde2944:
     # "Oryon" "Every single person on the face of the planet, dead and gone, replaced by some new generation."
     ""
 
-# PostRahayalApartmentNight_67cb7964 (line 90031)
-translate ru PostRahayalApartmentNight_67cb7964:
+# PostRahayalApartmentNight_6acd1046 (line 90031)
+translate ru PostRahayalApartmentNight_6acd1046:
     # "Oryon" "And a hundred years after, that generation will be gone, replaced by another."
     ""
 
-# PostRahayalApartmentNight_387425bd (line 90032)
-translate ru PostRahayalApartmentNight_387425bd:
+# PostRahayalApartmentNight_99e2c198 (line 90032)
+translate ru PostRahayalApartmentNight_99e2c198:
     # "Oryon" "What looks to you like people, are to me, simple cycles."
     ""
 
-# PostRahayalApartmentNight_b786da75 (line 90033)
-translate ru PostRahayalApartmentNight_b786da75:
+# PostRahayalApartmentNight_d248f6ce (line 90033)
+translate ru PostRahayalApartmentNight_d248f6ce:
     # "Oryon" "What you call saving a life, to me, is extending the flickering of a candle by a few more seconds."
     ""
 
-# PostRahayalApartmentNight_317fcf4f (line 90034)
-translate ru PostRahayalApartmentNight_317fcf4f:
+# PostRahayalApartmentNight_a4cbe907 (line 90034)
+translate ru PostRahayalApartmentNight_a4cbe907:
     # "Oryon" "Once you measure time in centuries, the world looks very different."
     ""
 
-# PostRahayalApartmentNight_d91c67fd (line 90035)
-translate ru PostRahayalApartmentNight_d91c67fd:
+# PostRahayalApartmentNight_addc8950 (line 90035)
+translate ru PostRahayalApartmentNight_addc8950:
     # "Sarah gritted her teeth."
     ""
 
-# PostRahayalApartmentNight_c0c2fd87 (line 90036)
-translate ru PostRahayalApartmentNight_c0c2fd87:
+# PostRahayalApartmentNight_892eb108 (line 90036)
+translate ru PostRahayalApartmentNight_892eb108:
     # s "I hope I never see the world the way you do."
     s ""
 
-# PostRahayalApartmentNight_39c53959 (line 90387)
-translate ru PostRahayalApartmentNight_39c53959:
+# PostRahayalApartmentNight_2f304c42 (line 90387)
+translate ru PostRahayalApartmentNight_2f304c42:
     # "Join forces with the mage Order"
     "Join forces with the mage Order" ""
 
-# PostRahayalApartmentNight_990569f2 (line 90563)
-translate ru PostRahayalApartmentNight_990569f2:
+# PostRahayalApartmentNight_d8f2a776 (line 90563)
+translate ru PostRahayalApartmentNight_d8f2a776:
     # "Spend the Night with them"
     "Spend the Night with them" ""
 
-# PostRahayalApartmentNight_b34ee79d (line 90676)
-translate ru PostRahayalApartmentNight_b34ee79d:
+# PostRahayalApartmentNight_39aeebb0 (line 90676)
+translate ru PostRahayalApartmentNight_39aeebb0:
     # "Go home alone"
     "Go home alone" ""
 

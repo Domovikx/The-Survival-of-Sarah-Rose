@@ -3,88 +3,88 @@
 # Scene: NeitherPath3
 # Total blocks: 17
 
-# NeitherPath3_539c1e91 (line 4812)
-translate ru NeitherPath3_539c1e91:
+# NeitherPath3_393caa21 (line 4812)
+translate ru NeitherPath3_393caa21:
     # "Sarah had completed another round of meetings. The fourth one today."
     ""
 
-# NeitherPath3_30033325 (line 4813)
-translate ru NeitherPath3_30033325:
+# NeitherPath3_92ec85c3 (line 4813)
+translate ru NeitherPath3_92ec85c3:
     # "Each day passed the same, and even though she did as much as she could, it still felt like too little."
     ""
 
-# NeitherPath3_721d9ed2 (line 4814)
-translate ru NeitherPath3_721d9ed2:
+# NeitherPath3_e62cd4f4 (line 4814)
+translate ru NeitherPath3_e62cd4f4:
     # "Marion's uprising had not appeared to lose steam as they had hoped."
     ""
 
-# NeitherPath3_b3d7ecb7 (line 4815)
-translate ru NeitherPath3_b3d7ecb7:
+# NeitherPath3_07b5c3fe (line 4815)
+translate ru NeitherPath3_07b5c3fe:
     # "Rather, while his forces were starved by the river blockade, they had now taken to raiding the border provinces, setting fire to farms and seizing their crops and livestock."
     ""
 
-# NeitherPath3_d0c26bc9 (line 4816)
-translate ru NeitherPath3_d0c26bc9:
+# NeitherPath3_393e213e (line 4816)
+translate ru NeitherPath3_393e213e:
     # "The displaced farmers fled, arriving homeless and peniless in other towns, causing more disruption in those towns."
     ""
 
-# NeitherPath3_da46a5bc (line 4817)
-translate ru NeitherPath3_da46a5bc:
+# NeitherPath3_e1480198 (line 4817)
+translate ru NeitherPath3_e1480198:
     # "The forces were too small to counter, sneaking across the river at night. It seemed like they were everywhere and nowhere at the same time."
     ""
 
-# NeitherPath3_5597dc4e (line 4818)
-translate ru NeitherPath3_5597dc4e:
+# NeitherPath3_b46110a9 (line 4818)
+translate ru NeitherPath3_b46110a9:
     # "Sarah racked her mind trying to find a solution, but found herself running in circles and circles."
     ""
 
-# NeitherPath3_30ea3b26 (line 4819)
-translate ru NeitherPath3_30ea3b26:
+# NeitherPath3_258afb43 (line 4819)
+translate ru NeitherPath3_258afb43:
     # "As much as she wanted to solve everything by herself, she knew she needed advice."
     ""
 
-# NeitherPath3_44a379a7 (line 4820)
-translate ru NeitherPath3_44a379a7:
+# NeitherPath3_fbcfb934 (line 4820)
+translate ru NeitherPath3_fbcfb934:
     # "Usually, she would have spoken with Thomas, but he was gone now."
     ""
 
-# NeitherPath3_6c98d030 (line 4821)
-translate ru NeitherPath3_6c98d030:
+# NeitherPath3_b83c2714 (line 4821)
+translate ru NeitherPath3_b83c2714:
     # "Varga had been another option, but she had avoided him since sending him away from her room."
     ""
 
-# NeitherPath3_2f15aa96 (line 4822)
-translate ru NeitherPath3_2f15aa96:
+# NeitherPath3_5c3e3869 (line 4822)
+translate ru NeitherPath3_5c3e3869:
     # "Ironically, she thought, she might have once considered asking Marion for advice."
     ""
 
-# NeitherPath3_2ff8bf8f (line 4823)
-translate ru NeitherPath3_2ff8bf8f:
+# NeitherPath3_c2f8a303 (line 4823)
+translate ru NeitherPath3_c2f8a303:
     # "She was quickly running out of allies. So who was left, she wondered."
     ""
 
-# NeitherPath3_d861eaeb (line 4826)
-translate ru NeitherPath3_d861eaeb:
+# NeitherPath3_b31cd34b (line 4826)
+translate ru NeitherPath3_b31cd34b:
     # "Ask Carolyn for advice"
     "Ask Carolyn for advice" ""
 
-# NeitherPath3_eaac2186 (line 4892)
-translate ru NeitherPath3_eaac2186:
+# NeitherPath3_a3125b00 (line 4892)
+translate ru NeitherPath3_a3125b00:
     # "Strip down and lay on the bed"
     "Strip down and lay on the bed" ""
 
-# NeitherPath3_11cd1952 (line 5037)
-translate ru NeitherPath3_11cd1952:
+# NeitherPath3_129baa5c (line 5037)
+translate ru NeitherPath3_129baa5c:
     # "Leave quickly"
     "Leave quickly" ""
 
-# NeitherPath3_e4390849 (line 5183)
-translate ru NeitherPath3_e4390849:
+# NeitherPath3_149a3faa (line 5183)
+translate ru NeitherPath3_149a3faa:
     # "Hold on to Lily"
     "Hold on to Lily" ""
 
-# NeitherPath3_d8082a38 (line 5225)
-translate ru NeitherPath3_d8082a38:
+# NeitherPath3_374cff2b (line 5225)
+translate ru NeitherPath3_374cff2b:
     # "Put her down in the grass"
     "Put her down in the grass" ""
 

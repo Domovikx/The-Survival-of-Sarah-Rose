@@ -3,988 +3,988 @@
 # Scene: CassiusFightsVaelen
 # Total blocks: 197
 
-# CassiusFightsVaelen_77790763 (line 48623)
-translate ru CassiusFightsVaelen_77790763:
+# CassiusFightsVaelen_bb0b090f (line 48623)
+translate ru CassiusFightsVaelen_bb0b090f:
     # "Sarah walks up towards Cassius."
     ""
 
-# CassiusFightsVaelen_7826a1e4 (line 48625)
-translate ru CassiusFightsVaelen_7826a1e4:
+# CassiusFightsVaelen_11aff26c (line 48625)
+translate ru CassiusFightsVaelen_11aff26c:
     # s "I am still wounded from my fall."
     s ""
 
-# CassiusFightsVaelen_36d12c1e (line 48626)
-translate ru CassiusFightsVaelen_36d12c1e:
+# CassiusFightsVaelen_6721d466 (line 48626)
+translate ru CassiusFightsVaelen_6721d466:
     # "Cassius looks at her."
     ""
 
-# CassiusFightsVaelen_3fe2454a (line 48627)
-translate ru CassiusFightsVaelen_3fe2454a:
+# CassiusFightsVaelen_070254a6 (line 48627)
+translate ru CassiusFightsVaelen_070254a6:
     # cas "I can see this."
     cas ""
 
-# CassiusFightsVaelen_c9c40d18 (line 48628)
-translate ru CassiusFightsVaelen_c9c40d18:
+# CassiusFightsVaelen_30fe0a56 (line 48628)
+translate ru CassiusFightsVaelen_30fe0a56:
     # "Sarah knows he will want something in return."
     ""
 
-# CassiusFightsVaelen_57c193e6 (line 48629)
-translate ru CassiusFightsVaelen_57c193e6:
+# CassiusFightsVaelen_fa168d8f (line 48629)
+translate ru CassiusFightsVaelen_fa168d8f:
     # s "I don't have it yet. The contract."
     s ""
 
-# CassiusFightsVaelen_24a5af60 (line 48630)
-translate ru CassiusFightsVaelen_24a5af60:
+# CassiusFightsVaelen_1e8581f2 (line 48630)
+translate ru CassiusFightsVaelen_1e8581f2:
     # "His eyes remain fixed on hers."
     ""
 
-# CassiusFightsVaelen_f9954e02 (line 48631)
-translate ru CassiusFightsVaelen_f9954e02:
+# CassiusFightsVaelen_941dfc69 (line 48631)
+translate ru CassiusFightsVaelen_941dfc69:
     # cas "But you will. Soon."
     cas ""
 
-# CassiusFightsVaelen_e108494e (line 48632)
-translate ru CassiusFightsVaelen_e108494e:
+# CassiusFightsVaelen_e7aea7a5 (line 48632)
+translate ru CassiusFightsVaelen_e7aea7a5:
     # "Sarah nodded."
     ""
 
-# CassiusFightsVaelen_ed73346d (line 48633)
-translate ru CassiusFightsVaelen_ed73346d:
+# CassiusFightsVaelen_83bfbb25 (line 48633)
+translate ru CassiusFightsVaelen_83bfbb25:
     # s "But I cannot undo the contract now."
     s ""
 
-# CassiusFightsVaelen_1ee8f5a9 (line 48634)
-translate ru CassiusFightsVaelen_1ee8f5a9:
+# CassiusFightsVaelen_17e2b60b (line 48634)
+translate ru CassiusFightsVaelen_17e2b60b:
     # cas "Your word will be enough for me, should you give it."
     cas ""
 
-# CassiusFightsVaelen_a9a9d289 (line 48635)
-translate ru CassiusFightsVaelen_a9a9d289:
+# CassiusFightsVaelen_e37a27f1 (line 48635)
+translate ru CassiusFightsVaelen_e37a27f1:
     # "Sarah saw the stern expression in Cassius' eyes."
     ""
 
-# CassiusFightsVaelen_81bde2d1 (line 48636)
-translate ru CassiusFightsVaelen_81bde2d1:
+# CassiusFightsVaelen_38fddde8 (line 48636)
+translate ru CassiusFightsVaelen_38fddde8:
     # "She nodded."
     ""
 
-# CassiusFightsVaelen_f0cf3ec6 (line 48637)
-translate ru CassiusFightsVaelen_f0cf3ec6:
+# CassiusFightsVaelen_1ec93806 (line 48637)
+translate ru CassiusFightsVaelen_1ec93806:
     # s "I give you more word."
     s ""
 
-# CassiusFightsVaelen_97365485 (line 48638)
-translate ru CassiusFightsVaelen_97365485:
+# CassiusFightsVaelen_934c7661 (line 48638)
+translate ru CassiusFightsVaelen_934c7661:
     # "Cassius bowed in turn."
     ""
 
-# CassiusFightsVaelen_848c9301 (line 48639)
-translate ru CassiusFightsVaelen_848c9301:
+# CassiusFightsVaelen_05699f3b (line 48639)
+translate ru CassiusFightsVaelen_05699f3b:
     # cas "Then I will be your champion."
     cas ""
 
-# CassiusFightsVaelen_6d7afcd5 (line 48640)
-translate ru CassiusFightsVaelen_6d7afcd5:
+# CassiusFightsVaelen_83fbf232 (line 48640)
+translate ru CassiusFightsVaelen_83fbf232:
     # s "Cassius...thank you."
     s ""
 
-# CassiusFightsVaelen_47940a5b (line 48641)
-translate ru CassiusFightsVaelen_47940a5b:
+# CassiusFightsVaelen_02ab5214 (line 48641)
+translate ru CassiusFightsVaelen_02ab5214:
     # "She turned her head and looked at Vaelen."
     ""
 
-# CassiusFightsVaelen_9c740ea5 (line 48642)
-translate ru CassiusFightsVaelen_9c740ea5:
+# CassiusFightsVaelen_9bed83bf (line 48642)
+translate ru CassiusFightsVaelen_9bed83bf:
     # s "I have fought besides him for years. He's a skilled fighter, but not without his flaws."
     s ""
 
-# CassiusFightsVaelen_13602652 (line 48643)
-translate ru CassiusFightsVaelen_13602652:
+# CassiusFightsVaelen_a7524f6f (line 48643)
+translate ru CassiusFightsVaelen_a7524f6f:
     # s "A possible weakness you could exploit is-"
     s ""
 
-# CassiusFightsVaelen_42afa1fb (line 48644)
-translate ru CassiusFightsVaelen_42afa1fb:
+# CassiusFightsVaelen_c920909d (line 48644)
+translate ru CassiusFightsVaelen_c920909d:
     # "Cassius threw up his hand and brought her to silence."
     ""
 
-# CassiusFightsVaelen_1728b39c (line 48645)
-translate ru CassiusFightsVaelen_1728b39c:
+# CassiusFightsVaelen_c420d42b (line 48645)
+translate ru CassiusFightsVaelen_c420d42b:
     # cas "Your counsel is appreciated, Sarah, but I will not have need of it."
     cas ""
 
-# CassiusFightsVaelen_8033e89d (line 48646)
-translate ru CassiusFightsVaelen_8033e89d:
+# CassiusFightsVaelen_860f1a26 (line 48646)
+translate ru CassiusFightsVaelen_860f1a26:
     # "Sarah watched as Cassius strode past her, out onto the open area which now had become like an arena."
     ""
 
-# CassiusFightsVaelen_c412a621 (line 48648)
-translate ru CassiusFightsVaelen_c412a621:
+# CassiusFightsVaelen_ef64a886 (line 48648)
+translate ru CassiusFightsVaelen_ef64a886:
     # "The crowd seemed to react with excitement at Cassius' sudden appearance."
     ""
 
-# CassiusFightsVaelen_c0dc013f (line 48649)
-translate ru CassiusFightsVaelen_c0dc013f:
+# CassiusFightsVaelen_68e7991a (line 48649)
+translate ru CassiusFightsVaelen_68e7991a:
     # "Sarah looked at Dio."
     ""
 
-# CassiusFightsVaelen_d9dc995d (line 48651)
-translate ru CassiusFightsVaelen_d9dc995d:
+# CassiusFightsVaelen_33c9c90e (line 48651)
+translate ru CassiusFightsVaelen_33c9c90e:
     # s "Will your brother be alright?"
     s ""
 
-# CassiusFightsVaelen_50c36ecb (line 48652)
-translate ru CassiusFightsVaelen_50c36ecb:
+# CassiusFightsVaelen_0b74dcec (line 48652)
+translate ru CassiusFightsVaelen_0b74dcec:
     # "Dio smiled."
     ""
 
-# CassiusFightsVaelen_f3258cf2 (line 48653)
-translate ru CassiusFightsVaelen_f3258cf2:
+# CassiusFightsVaelen_c750cab1 (line 48653)
+translate ru CassiusFightsVaelen_c750cab1:
     # dio "I have worried on occasion for him. I do not worry now."
     dio ""
 
-# CassiusFightsVaelen_60b138ab (line 48654)
-translate ru CassiusFightsVaelen_60b138ab:
+# CassiusFightsVaelen_4db22439 (line 48654)
+translate ru CassiusFightsVaelen_4db22439:
     # "Sarah turned her eyes towards the two men in the circle."
     ""
 
-# CassiusFightsVaelen_06643256 (line 48663)
-translate ru CassiusFightsVaelen_06643256:
+# CassiusFightsVaelen_269705f2 (line 48663)
+translate ru CassiusFightsVaelen_269705f2:
     # "Vaelen laughed."
     ""
 
-# CassiusFightsVaelen_9192bfca (line 48664)
-translate ru CassiusFightsVaelen_9192bfca:
+# CassiusFightsVaelen_747a5bdd (line 48664)
+translate ru CassiusFightsVaelen_747a5bdd:
     # vae "This is what you send in your place, Sarah? A slave?"
     vae ""
 
-# CassiusFightsVaelen_6a6cb54b (line 48665)
-translate ru CassiusFightsVaelen_6a6cb54b:
+# CassiusFightsVaelen_41c6ca19 (line 48665)
+translate ru CassiusFightsVaelen_41c6ca19:
     # vae "You truly have no honour."
     vae ""
 
-# CassiusFightsVaelen_9361598f (line 48666)
-translate ru CassiusFightsVaelen_9361598f:
+# CassiusFightsVaelen_27a1c87e (line 48666)
+translate ru CassiusFightsVaelen_27a1c87e:
     # "Cassius stepped forward."
     ""
 
-# CassiusFightsVaelen_7ee9d5f5 (line 48667)
-translate ru CassiusFightsVaelen_7ee9d5f5:
+# CassiusFightsVaelen_971f3310 (line 48667)
+translate ru CassiusFightsVaelen_971f3310:
     # cas "You may call you Cassius, and I will serve as her champion, for she is too wounded to fight."
     cas ""
 
-# CassiusFightsVaelen_fde22137 (line 48668)
-translate ru CassiusFightsVaelen_fde22137:
+# CassiusFightsVaelen_93ecc92f (line 48668)
+translate ru CassiusFightsVaelen_93ecc92f:
     # "Vaelen spat on the ground near Cassius."
     ""
 
-# CassiusFightsVaelen_db36fff7 (line 48669)
-translate ru CassiusFightsVaelen_db36fff7:
+# CassiusFightsVaelen_33e583da (line 48669)
+translate ru CassiusFightsVaelen_33e583da:
     # vae "Lies."
     vae ""
 
-# CassiusFightsVaelen_e548b3aa (line 48670)
-translate ru CassiusFightsVaelen_e548b3aa:
+# CassiusFightsVaelen_33fec521 (line 48670)
+translate ru CassiusFightsVaelen_33fec521:
     # vae "She's a coward. And as for you...I'll call you whatever I want, slave."
     vae ""
 
-# CassiusFightsVaelen_d021a341 (line 48671)
-translate ru CassiusFightsVaelen_d021a341:
+# CassiusFightsVaelen_2c54e723 (line 48671)
+translate ru CassiusFightsVaelen_2c54e723:
     # "Cassius only smiled, casually flexing his arms as if he was warming up."
     ""
 
-# CassiusFightsVaelen_345703b7 (line 48672)
-translate ru CassiusFightsVaelen_345703b7:
+# CassiusFightsVaelen_c50d7d90 (line 48672)
+translate ru CassiusFightsVaelen_c50d7d90:
     # cas "You will call me Cassius, before this is over."
     cas ""
 
-# CassiusFightsVaelen_ecc9edb5 (line 48673)
-translate ru CassiusFightsVaelen_ecc9edb5:
+# CassiusFightsVaelen_a894d1e1 (line 48673)
+translate ru CassiusFightsVaelen_a894d1e1:
     # "Vaelen pulled his sword from the earth."
     ""
 
-# CassiusFightsVaelen_e8c45e99 (line 48674)
-translate ru CassiusFightsVaelen_e8c45e99:
+# CassiusFightsVaelen_aa8e4d47 (line 48674)
+translate ru CassiusFightsVaelen_aa8e4d47:
     # vae "Let us settle this!"
     vae ""
 
-# CassiusFightsVaelen_d70a6606 (line 48675)
-translate ru CassiusFightsVaelen_d70a6606:
+# CassiusFightsVaelen_a4001c29 (line 48675)
+translate ru CassiusFightsVaelen_a4001c29:
     # "He turned towards the crowd."
     ""
 
-# CassiusFightsVaelen_bd688487 (line 48676)
-translate ru CassiusFightsVaelen_bd688487:
+# CassiusFightsVaelen_881f2b01 (line 48676)
+translate ru CassiusFightsVaelen_881f2b01:
     # vae "Let all who bear witness today, know that this creature has been selected as Sarah Rose's champion."
     vae ""
 
-# CassiusFightsVaelen_fbeb0e0a (line 48677)
-translate ru CassiusFightsVaelen_fbeb0e0a:
+# CassiusFightsVaelen_0c9b388d (line 48677)
+translate ru CassiusFightsVaelen_0c9b388d:
     # vae "And let it be known that when I break him, and I will break him, this matter will be settled in my favor."
     vae ""
 
-# CassiusFightsVaelen_fce39dca (line 48678)
-translate ru CassiusFightsVaelen_fce39dca:
+# CassiusFightsVaelen_e159ad73 (line 48678)
+translate ru CassiusFightsVaelen_e159ad73:
     # vae "As for Sarah herself, her fate will be exile."
     vae ""
 
-# CassiusFightsVaelen_efaa0aa3 (line 48679)
-translate ru CassiusFightsVaelen_efaa0aa3:
+# CassiusFightsVaelen_d68d22cd (line 48679)
+translate ru CassiusFightsVaelen_d68d22cd:
     # vae "Let her wander the earth as lost as the day I first found her. Stripped of all title or recognition. Nobody."
     vae ""
 
-# CassiusFightsVaelen_41041fb7 (line 48680)
-translate ru CassiusFightsVaelen_41041fb7:
+# CassiusFightsVaelen_aabef871 (line 48680)
+translate ru CassiusFightsVaelen_aabef871:
     # "Vaelen turned to Cassius."
     ""
 
-# CassiusFightsVaelen_ca56267a (line 48681)
-translate ru CassiusFightsVaelen_ca56267a:
+# CassiusFightsVaelen_8580a2f8 (line 48681)
+translate ru CassiusFightsVaelen_8580a2f8:
     # vae "Any last words, slave?"
     vae ""
 
-# CassiusFightsVaelen_6edf83c8 (line 48682)
-translate ru CassiusFightsVaelen_6edf83c8:
+# CassiusFightsVaelen_63abfa94 (line 48682)
+translate ru CassiusFightsVaelen_63abfa94:
     # "Cassius smiled and spun around."
     ""
 
-# CassiusFightsVaelen_c9526871 (line 48683)
-translate ru CassiusFightsVaelen_c9526871:
+# CassiusFightsVaelen_5cbaf090 (line 48683)
+translate ru CassiusFightsVaelen_5cbaf090:
     # "He threw out his arms, as if putting his own body on display. His physique had been honed to perfection."
     ""
 
-# CassiusFightsVaelen_382ef3ae (line 48684)
-translate ru CassiusFightsVaelen_382ef3ae:
+# CassiusFightsVaelen_37b852e2 (line 48684)
+translate ru CassiusFightsVaelen_37b852e2:
     # cas "I am a simple man. A slave, as some may call me."
     cas ""
 
-# CassiusFightsVaelen_450c2ae8 (line 48685)
-translate ru CassiusFightsVaelen_450c2ae8:
+# CassiusFightsVaelen_c9b8b938 (line 48685)
+translate ru CassiusFightsVaelen_c9b8b938:
     # "The crowd laughed."
     ""
 
-# CassiusFightsVaelen_d4097977 (line 48686)
-translate ru CassiusFightsVaelen_d4097977:
+# CassiusFightsVaelen_06857d45 (line 48686)
+translate ru CassiusFightsVaelen_06857d45:
     # cas "So I will not bore you with a speech."
     cas ""
 
-# CassiusFightsVaelen_ada1ab5c (line 48687)
-translate ru CassiusFightsVaelen_ada1ab5c:
+# CassiusFightsVaelen_031426fe (line 48687)
+translate ru CassiusFightsVaelen_031426fe:
     # cas "Let it only be known that whatever honor I claim here today, I give in tribute to Sarah Rose."
     cas ""
 
-# CassiusFightsVaelen_dca267c2 (line 48688)
-translate ru CassiusFightsVaelen_dca267c2:
+# CassiusFightsVaelen_6c5019b2 (line 48688)
+translate ru CassiusFightsVaelen_6c5019b2:
     # cas "I do not know all of you, but even in these few days I have learned how you have suffered under this man's foolishness."
     cas ""
 
-# CassiusFightsVaelen_75358b5d (line 48689)
-translate ru CassiusFightsVaelen_75358b5d:
+# CassiusFightsVaelen_08be771f (line 48689)
+translate ru CassiusFightsVaelen_08be771f:
     # cas "It will be my pleasure to be not only Sarah's champion, but the people's champion as well."
     cas ""
 
-# CassiusFightsVaelen_71af639b (line 48690)
-translate ru CassiusFightsVaelen_71af639b:
+# CassiusFightsVaelen_e307038e (line 48690)
+translate ru CassiusFightsVaelen_e307038e:
     # "Cassius threw up his hand and the crowd exploded into cheers."
     ""
 
-# CassiusFightsVaelen_c4eacbae (line 48691)
-translate ru CassiusFightsVaelen_c4eacbae:
+# CassiusFightsVaelen_3737c03a (line 48691)
+translate ru CassiusFightsVaelen_3737c03a:
     # "Sarah could see that Vaelen was frustrated to hear his own men cheering against him."
     ""
 
-# CassiusFightsVaelen_b7e7f14a (line 48692)
-translate ru CassiusFightsVaelen_b7e7f14a:
+# CassiusFightsVaelen_cd779cf8 (line 48692)
+translate ru CassiusFightsVaelen_cd779cf8:
     # "Somehow, everyone knew the last of the words had been said on the matter."
     ""
 
-# CassiusFightsVaelen_de5f1d97 (line 48693)
-translate ru CassiusFightsVaelen_de5f1d97:
+# CassiusFightsVaelen_cd01649b (line 48693)
+translate ru CassiusFightsVaelen_cd01649b:
     # "Vaelen and Cassius drew into a fighting stance, raising up their weapons."
     ""
 
-# CassiusFightsVaelen_2f274291 (line 48694)
-translate ru CassiusFightsVaelen_2f274291:
+# CassiusFightsVaelen_2a5265f5 (line 48694)
+translate ru CassiusFightsVaelen_2a5265f5:
     # "A deathly silence descended on the crowd."
     ""
 
-# CassiusFightsVaelen_d2ca87a9 (line 48700)
-translate ru CassiusFightsVaelen_d2ca87a9:
+# CassiusFightsVaelen_d7da02df (line 48700)
+translate ru CassiusFightsVaelen_d7da02df:
     # "Sarah watched as Vaelen began to carefully circle around Cassius."
     ""
 
-# CassiusFightsVaelen_04ecf149 (line 48701)
-translate ru CassiusFightsVaelen_04ecf149:
+# CassiusFightsVaelen_e9c5cdca (line 48701)
+translate ru CassiusFightsVaelen_e9c5cdca:
     # "As was Vaelen's way, he was looking for a weakness."
     ""
 
-# CassiusFightsVaelen_b405a17c (line 48702)
-translate ru CassiusFightsVaelen_b405a17c:
+# CassiusFightsVaelen_76cbca49 (line 48702)
+translate ru CassiusFightsVaelen_76cbca49:
     # "Vaelen was a skill fighter in his own right. Not the greatst that the army had ever since, but certainly better than most."
     ""
 
-# CassiusFightsVaelen_40550e98 (line 48703)
-translate ru CassiusFightsVaelen_40550e98:
+# CassiusFightsVaelen_0c87696e (line 48703)
+translate ru CassiusFightsVaelen_0c87696e:
     # "His favored weapon, a large two-handed blade, was a weapon that over time he had learned to fire off like a cannon."
     ""
 
-# CassiusFightsVaelen_1fd5f6f4 (line 48704)
-translate ru CassiusFightsVaelen_1fd5f6f4:
+# CassiusFightsVaelen_154b1e96 (line 48704)
+translate ru CassiusFightsVaelen_154b1e96:
     # "Cassius for his part mirrored Vaelen's movement, circling in the opposite direction."
     ""
 
-# CassiusFightsVaelen_004c24dd (line 48705)
-translate ru CassiusFightsVaelen_004c24dd:
+# CassiusFightsVaelen_35d89ccc (line 48705)
+translate ru CassiusFightsVaelen_35d89ccc:
     # "Where Vaelen's movements were calculated, controlled, Cassius seemed at ease. Casual, almost."
     ""
 
-# CassiusFightsVaelen_322cadb6 (line 48706)
-translate ru CassiusFightsVaelen_322cadb6:
+# CassiusFightsVaelen_27875c31 (line 48706)
+translate ru CassiusFightsVaelen_27875c31:
     # "Suddenly, Vaelen lunged forward."
     ""
 
-# CassiusFightsVaelen_6abb1ca9 (line 48707)
-translate ru CassiusFightsVaelen_6abb1ca9:
+# CassiusFightsVaelen_a28a5c3b (line 48707)
+translate ru CassiusFightsVaelen_a28a5c3b:
     # "He released the immense power in his arms and swung his great sword with surprising speed."
     ""
 
-# CassiusFightsVaelen_02ec5288 (line 48708)
-translate ru CassiusFightsVaelen_02ec5288:
+# CassiusFightsVaelen_54488a62 (line 48708)
+translate ru CassiusFightsVaelen_54488a62:
     # "The blade swung and cut only air."
     ""
 
-# CassiusFightsVaelen_ef22c260 (line 48709)
-translate ru CassiusFightsVaelen_ef22c260:
+# CassiusFightsVaelen_9339f683 (line 48709)
+translate ru CassiusFightsVaelen_9339f683:
     # "Sarah wondered if her own eyes had cheated her."
     ""
 
-# CassiusFightsVaelen_26595dae (line 48710)
-translate ru CassiusFightsVaelen_26595dae:
+# CassiusFightsVaelen_3b41e4ef (line 48710)
+translate ru CassiusFightsVaelen_3b41e4ef:
     # "Only a fraction before, Cassius had been there, but now the blade swung impotently through the air."
     ""
 
-# CassiusFightsVaelen_05545f85 (line 48711)
-translate ru CassiusFightsVaelen_05545f85:
+# CassiusFightsVaelen_17fb72f8 (line 48711)
+translate ru CassiusFightsVaelen_17fb72f8:
     # "Dirt was kicked up as Vaelen turned his body back to Cassius."
     ""
 
-# CassiusFightsVaelen_d4b3b06b (line 48712)
-translate ru CassiusFightsVaelen_d4b3b06b:
+# CassiusFightsVaelen_3cf3ca87 (line 48712)
+translate ru CassiusFightsVaelen_3cf3ca87:
     # "Cassius, for his part, was only smiling."
     ""
 
-# CassiusFightsVaelen_60b5543b (line 48713)
-translate ru CassiusFightsVaelen_60b5543b:
+# CassiusFightsVaelen_f5c62435 (line 48713)
+translate ru CassiusFightsVaelen_f5c62435:
     # s "He...dodged it?"
     s ""
 
-# CassiusFightsVaelen_885818a0 (line 48714)
-translate ru CassiusFightsVaelen_885818a0:
+# CassiusFightsVaelen_96a0ae2e (line 48714)
+translate ru CassiusFightsVaelen_96a0ae2e:
     # dio "I envy you, to watch Cassisu fight for the first time is always a delight."
     dio ""
 
-# CassiusFightsVaelen_9cf7e14b (line 48715)
-translate ru CassiusFightsVaelen_9cf7e14b:
+# CassiusFightsVaelen_1737c93e (line 48715)
+translate ru CassiusFightsVaelen_1737c93e:
     # "Sarah could see Vaelen struggled with the same stunned surprise, but he tried to keep his face from revealing his feelings."
     ""
 
-# CassiusFightsVaelen_d12249ce (line 48716)
-translate ru CassiusFightsVaelen_d12249ce:
+# CassiusFightsVaelen_ed35eaa4 (line 48716)
+translate ru CassiusFightsVaelen_ed35eaa4:
     # "Only because Sarah knew him well enough, could she see his doubt."
     ""
 
-# CassiusFightsVaelen_364ef036 (line 48717)
-translate ru CassiusFightsVaelen_364ef036:
+# CassiusFightsVaelen_5b1698c6 (line 48717)
+translate ru CassiusFightsVaelen_5b1698c6:
     # "Again, Vaelen lunged at Cassius, this time thrusting the blade forward."
     ""
 
-# CassiusFightsVaelen_9fc2504f (line 48718)
-translate ru CassiusFightsVaelen_9fc2504f:
+# CassiusFightsVaelen_d3986025 (line 48718)
+translate ru CassiusFightsVaelen_d3986025:
     # "A sickening crack rang out across the arena."
     ""
 
-# CassiusFightsVaelen_81d404a2 (line 48719)
-translate ru CassiusFightsVaelen_81d404a2:
+# CassiusFightsVaelen_31d4c676 (line 48719)
+translate ru CassiusFightsVaelen_31d4c676:
     # "Blood and broken teeth fell against the sand."
     ""
 
-# CassiusFightsVaelen_b5f11cc9 (line 48720)
-translate ru CassiusFightsVaelen_b5f11cc9:
+# CassiusFightsVaelen_a4a8bdd1 (line 48720)
+translate ru CassiusFightsVaelen_a4a8bdd1:
     # "Sarah watched Vaelen stumble forward, as stunned as everyone else."
     ""
 
-# CassiusFightsVaelen_179defe2 (line 48721)
-translate ru CassiusFightsVaelen_179defe2:
+# CassiusFightsVaelen_7f5125b1 (line 48721)
+translate ru CassiusFightsVaelen_7f5125b1:
     # "Cassius had moved, impossibly fast as before, but rather than simply dodge, this time he had driven his shield into Vaelen's face."
     ""
 
-# CassiusFightsVaelen_a8818096 (line 48722)
-translate ru CassiusFightsVaelen_a8818096:
+# CassiusFightsVaelen_2121dce7 (line 48722)
+translate ru CassiusFightsVaelen_2121dce7:
     # "When he pulled it back, the front of it was covered in blood and gore."
     ""
 
-# CassiusFightsVaelen_d6a29fa5 (line 48723)
-translate ru CassiusFightsVaelen_d6a29fa5:
+# CassiusFightsVaelen_53d26b80 (line 48723)
+translate ru CassiusFightsVaelen_53d26b80:
     # "Vaelen's face was a ruin."
     ""
 
-# CassiusFightsVaelen_cf2c16e9 (line 48724)
-translate ru CassiusFightsVaelen_cf2c16e9:
+# CassiusFightsVaelen_5dff3bf6 (line 48724)
+translate ru CassiusFightsVaelen_5dff3bf6:
     # "The man who had barely suffered a wound for as long as he had been a mercenary, now felt his blood rushing out from his forehead."
     ""
 
-# CassiusFightsVaelen_2992b9b9 (line 48725)
-translate ru CassiusFightsVaelen_2992b9b9:
+# CassiusFightsVaelen_4a0598b6 (line 48725)
+translate ru CassiusFightsVaelen_4a0598b6:
     # "There was so much of it."
     ""
 
-# CassiusFightsVaelen_798e900b (line 48726)
-translate ru CassiusFightsVaelen_798e900b:
+# CassiusFightsVaelen_1200a2fe (line 48726)
+translate ru CassiusFightsVaelen_1200a2fe:
     # "Cassius easily spun around, holding the shield up like a prize."
     ""
 
-# CassiusFightsVaelen_06e94f9f (line 48727)
-translate ru CassiusFightsVaelen_06e94f9f:
+# CassiusFightsVaelen_abd2f9f6 (line 48727)
+translate ru CassiusFightsVaelen_abd2f9f6:
     # "The crowd went mad for him."
     ""
 
-# CassiusFightsVaelen_f0d0559f (line 48728)
-translate ru CassiusFightsVaelen_f0d0559f:
+# CassiusFightsVaelen_f87fb1e5 (line 48728)
+translate ru CassiusFightsVaelen_f87fb1e5:
     # "As everyone looked at Cassius, Sarah saw Vaelen."
     ""
 
-# CassiusFightsVaelen_0f1570e7 (line 48729)
-translate ru CassiusFightsVaelen_0f1570e7:
+# CassiusFightsVaelen_cb3dc708 (line 48729)
+translate ru CassiusFightsVaelen_cb3dc708:
     # "Through the blood, she could see his furious eyes, but deeper still, a fear."
     ""
 
-# CassiusFightsVaelen_eeb11929 (line 48730)
-translate ru CassiusFightsVaelen_eeb11929:
+# CassiusFightsVaelen_dbc0b632 (line 48730)
+translate ru CassiusFightsVaelen_dbc0b632:
     # "The fear of a man who realized he was mortal."
     ""
 
-# CassiusFightsVaelen_002db245 (line 48731)
-translate ru CassiusFightsVaelen_002db245:
+# CassiusFightsVaelen_d3cbd685 (line 48731)
+translate ru CassiusFightsVaelen_d3cbd685:
     # "Vaelen rushed towards Cassius who had his back turned to him."
     ""
 
-# CassiusFightsVaelen_1b4a3f5d (line 48732)
-translate ru CassiusFightsVaelen_1b4a3f5d:
+# CassiusFightsVaelen_3efaf279 (line 48732)
+translate ru CassiusFightsVaelen_3efaf279:
     # "But Cassius had eyes in the back of his head."
     ""
 
-# CassiusFightsVaelen_5d3f4c98 (line 48733)
-translate ru CassiusFightsVaelen_5d3f4c98:
+# CassiusFightsVaelen_0adb9822 (line 48733)
+translate ru CassiusFightsVaelen_0adb9822:
     # "Like a bullfighter, he spun his body and side-stepped Vaelen's blade."
     ""
 
-# CassiusFightsVaelen_41c9210f (line 48734)
-translate ru CassiusFightsVaelen_41c9210f:
+# CassiusFightsVaelen_028a83e5 (line 48734)
+translate ru CassiusFightsVaelen_028a83e5:
     # "Catching Vaelen as he stumbled by, Cassius grabbed Vaelen's wrist."
     ""
 
-# CassiusFightsVaelen_b1209758 (line 48735)
-translate ru CassiusFightsVaelen_b1209758:
+# CassiusFightsVaelen_b210b818 (line 48735)
+translate ru CassiusFightsVaelen_b210b818:
     # "Twisting, he spun Vaelen about and pinned him down against the ground."
     ""
 
-# CassiusFightsVaelen_333aede8 (line 48741)
-translate ru CassiusFightsVaelen_333aede8:
+# CassiusFightsVaelen_326c8936 (line 48741)
+translate ru CassiusFightsVaelen_326c8936:
     # "A sound rang out, like a bundle of twigs, snapping."
     ""
 
-# CassiusFightsVaelen_50653f83 (line 48742)
-translate ru CassiusFightsVaelen_50653f83:
+# CassiusFightsVaelen_c7433b67 (line 48742)
+translate ru CassiusFightsVaelen_c7433b67:
     # "Vaelen's blood curdled scream followed."
     ""
 
-# CassiusFightsVaelen_ca700ed1 (line 48743)
-translate ru CassiusFightsVaelen_ca700ed1:
+# CassiusFightsVaelen_e72a7308 (line 48743)
+translate ru CassiusFightsVaelen_e72a7308:
     # "Sarah saw his blade fall from his dominant hand, clattering against the earth."
     ""
 
-# CassiusFightsVaelen_aaa58af9 (line 48744)
-translate ru CassiusFightsVaelen_aaa58af9:
+# CassiusFightsVaelen_ed6c724a (line 48744)
+translate ru CassiusFightsVaelen_ed6c724a:
     # "The fight was over. Everyone, except perhaps Vaelen, knew it. It had barely been a fight."
     ""
 
-# CassiusFightsVaelen_5907d3f7 (line 48745)
-translate ru CassiusFightsVaelen_5907d3f7:
+# CassiusFightsVaelen_982f9229 (line 48745)
+translate ru CassiusFightsVaelen_982f9229:
     # "Cassius turned his hand, twisting Vaelen's broken wrist, and keeping him pinned down."
     ""
 
-# CassiusFightsVaelen_13c1fdbd (line 48746)
-translate ru CassiusFightsVaelen_13c1fdbd:
+# CassiusFightsVaelen_57aca787 (line 48746)
+translate ru CassiusFightsVaelen_57aca787:
     # "With a sickening crunch, he brought his fist down on Vaelen's face, robbing him of what few teeth he had left."
     ""
 
-# CassiusFightsVaelen_703996a4 (line 48747)
-translate ru CassiusFightsVaelen_703996a4:
+# CassiusFightsVaelen_61f182a0 (line 48747)
+translate ru CassiusFightsVaelen_61f182a0:
     # "Sarah knew it was Vaelen, but she could no longer recognize his face."
     ""
 
-# CassiusFightsVaelen_09e6a658 (line 48748)
-translate ru CassiusFightsVaelen_09e6a658:
+# CassiusFightsVaelen_0f095561 (line 48748)
+translate ru CassiusFightsVaelen_0f095561:
     # "Cassius kept his grip on Vaelen, still holding him down."
     ""
 
-# CassiusFightsVaelen_397d1d87 (line 48749)
-translate ru CassiusFightsVaelen_397d1d87:
+# CassiusFightsVaelen_6303d078 (line 48749)
+translate ru CassiusFightsVaelen_6303d078:
     # cas "So, do you yield?"
     cas ""
 
-# CassiusFightsVaelen_c57192d3 (line 48750)
-translate ru CassiusFightsVaelen_c57192d3:
+# CassiusFightsVaelen_4da00a1f (line 48750)
+translate ru CassiusFightsVaelen_4da00a1f:
     # "Sarah could hear Vaelen mumble something, the blood drowning out his words."
     ""
 
-# CassiusFightsVaelen_8992dd14 (line 48751)
-translate ru CassiusFightsVaelen_8992dd14:
+# CassiusFightsVaelen_a644ecdc (line 48751)
+translate ru CassiusFightsVaelen_a644ecdc:
     # "Cassius turned to the crowd."
     ""
 
-# CassiusFightsVaelen_8cbdca48 (line 48752)
-translate ru CassiusFightsVaelen_8cbdca48:
+# CassiusFightsVaelen_4e3230e1 (line 48752)
+translate ru CassiusFightsVaelen_4e3230e1:
     # cas "Did any of you get that?"
     cas ""
 
-# CassiusFightsVaelen_be6cdde3 (line 48753)
-translate ru CassiusFightsVaelen_be6cdde3:
+# CassiusFightsVaelen_f2079e0d (line 48753)
+translate ru CassiusFightsVaelen_f2079e0d:
     # "The crowd laughed in the cruel way that only crowds could."
     ""
 
-# CassiusFightsVaelen_5538dcc3 (line 48754)
-translate ru CassiusFightsVaelen_5538dcc3:
+# CassiusFightsVaelen_9f81a38d (line 48754)
+translate ru CassiusFightsVaelen_9f81a38d:
     # "More mumbled, drowned out words from Vaelen."
     ""
 
-# CassiusFightsVaelen_a31a9df9 (line 48755)
-translate ru CassiusFightsVaelen_a31a9df9:
+# CassiusFightsVaelen_a7785f8c (line 48755)
+translate ru CassiusFightsVaelen_a7785f8c:
     # "Cassius leaned down to better hear him."
     ""
 
-# CassiusFightsVaelen_3809361e (line 48756)
-translate ru CassiusFightsVaelen_3809361e:
+# CassiusFightsVaelen_6edfd319 (line 48756)
+translate ru CassiusFightsVaelen_6edfd319:
     # "Then, the glimmer of a blade in the sunlight."
     ""
 
-# CassiusFightsVaelen_b3093258 (line 48757)
-translate ru CassiusFightsVaelen_b3093258:
+# CassiusFightsVaelen_61a20092 (line 48757)
+translate ru CassiusFightsVaelen_61a20092:
     # "Pulled from his boot, Vaelen shoved the dagger up to Cassius' neck."
     ""
 
-# CassiusFightsVaelen_b74c7be6 (line 48758)
-translate ru CassiusFightsVaelen_b74c7be6:
+# CassiusFightsVaelen_c1cd6630 (line 48758)
+translate ru CassiusFightsVaelen_c1cd6630:
     # "Cassius was dead. If he had been any other man, he would have been dead."
     ""
 
-# CassiusFightsVaelen_87733aa0 (line 48759)
-translate ru CassiusFightsVaelen_87733aa0:
+# CassiusFightsVaelen_5cf09ee3 (line 48759)
+translate ru CassiusFightsVaelen_5cf09ee3:
     # "Sarah watched as Cassius held Vaelen's other wrist in his hands, the blade only an inch away from his throat."
     ""
 
-# CassiusFightsVaelen_e18e9648 (line 48760)
-translate ru CassiusFightsVaelen_e18e9648:
+# CassiusFightsVaelen_b46dd516 (line 48760)
+translate ru CassiusFightsVaelen_b46dd516:
     # "Cassius roared with laughter, and the crowd joined him."
     ""
 
-# CassiusFightsVaelen_f1f1906e (line 48761)
-translate ru CassiusFightsVaelen_f1f1906e:
+# CassiusFightsVaelen_213b7612 (line 48761)
+translate ru CassiusFightsVaelen_213b7612:
     # cas "Not only a fool, but a coward too!"
     cas ""
 
-# CassiusFightsVaelen_d77530ec (line 48762)
-translate ru CassiusFightsVaelen_d77530ec:
+# CassiusFightsVaelen_bd4431e3 (line 48762)
+translate ru CassiusFightsVaelen_bd4431e3:
     # cas "This is your leader?"
     cas ""
 
-# CassiusFightsVaelen_b70f22c6 (line 48763)
-translate ru CassiusFightsVaelen_b70f22c6:
+# CassiusFightsVaelen_319b8a5c (line 48763)
+translate ru CassiusFightsVaelen_319b8a5c:
     # cas "This man who seeks to rob me of my victory by drawing daggers like some backalley cuthroat?"
     cas ""
 
-# CassiusFightsVaelen_072d088e (line 48764)
-translate ru CassiusFightsVaelen_072d088e:
+# CassiusFightsVaelen_3cd127c9 (line 48764)
+translate ru CassiusFightsVaelen_3cd127c9:
     # "Cassius leaned his knee further into Vaelen's back."
     ""
 
-# CassiusFightsVaelen_2761bd7e (line 48765)
-translate ru CassiusFightsVaelen_2761bd7e:
+# CassiusFightsVaelen_51288a08 (line 48765)
+translate ru CassiusFightsVaelen_51288a08:
     # "With another sickening snap, he broke Vaelen's other wrist, the dagger clattering against the ground."
     ""
 
-# CassiusFightsVaelen_ebb4969a (line 48766)
-translate ru CassiusFightsVaelen_ebb4969a:
+# CassiusFightsVaelen_bd02987d (line 48766)
+translate ru CassiusFightsVaelen_bd02987d:
     # cas "I would have given you a soldier's death!"
     cas ""
 
-# CassiusFightsVaelen_a92b2241 (line 48767)
-translate ru CassiusFightsVaelen_a92b2241:
+# CassiusFightsVaelen_5417b986 (line 48767)
+translate ru CassiusFightsVaelen_5417b986:
     # cas "But you are no soldier!"
     cas ""
 
-# CassiusFightsVaelen_c8c4439b (line 48768)
-translate ru CassiusFightsVaelen_c8c4439b:
+# CassiusFightsVaelen_79521d9e (line 48768)
+translate ru CassiusFightsVaelen_79521d9e:
     # "Cassius released his grip on Vaelen."
     ""
 
-# CassiusFightsVaelen_987beb60 (line 48769)
-translate ru CassiusFightsVaelen_987beb60:
+# CassiusFightsVaelen_05b63f7f (line 48769)
+translate ru CassiusFightsVaelen_05b63f7f:
     # "Vaelen's broken arms fell besides him. There were no more tricks. No more words to be had."
     ""
 
-# CassiusFightsVaelen_b9468b8e (line 48770)
-translate ru CassiusFightsVaelen_b9468b8e:
+# CassiusFightsVaelen_0e3fb60e (line 48770)
+translate ru CassiusFightsVaelen_0e3fb60e:
     # "Vaelen muttered something in stunned disbelief."
     ""
 
-# CassiusFightsVaelen_8de6da09 (line 48771)
-translate ru CassiusFightsVaelen_8de6da09:
+# CassiusFightsVaelen_8781db5d (line 48771)
+translate ru CassiusFightsVaelen_8781db5d:
     # "Cassius brought the blade down with a lightning speed."
     ""
 
-# CassiusFightsVaelen_47b8ef91 (line 48778)
-translate ru CassiusFightsVaelen_47b8ef91:
+# CassiusFightsVaelen_341ad2f7 (line 48778)
+translate ru CassiusFightsVaelen_341ad2f7:
     # "Sarah saw more gore splatter out across the sand. She was happy that she didn't see all of it."
     ""
 
-# CassiusFightsVaelen_5a77f945 (line 48779)
-translate ru CassiusFightsVaelen_5a77f945:
+# CassiusFightsVaelen_6e96a836 (line 48779)
+translate ru CassiusFightsVaelen_6e96a836:
     # "Vaelen breathed out only blood; his broken head spilling something more of himself."
     ""
 
-# CassiusFightsVaelen_bcc2d64c (line 48780)
-translate ru CassiusFightsVaelen_bcc2d64c:
+# CassiusFightsVaelen_c7055284 (line 48780)
+translate ru CassiusFightsVaelen_c7055284:
     # "The sand of the desert ate it all up."
     ""
 
-# CassiusFightsVaelen_554e11b3 (line 48781)
-translate ru CassiusFightsVaelen_554e11b3:
+# CassiusFightsVaelen_1eca9a19 (line 48781)
+translate ru CassiusFightsVaelen_1eca9a19:
     # "Cassius threw up his bloodied fists, and the crowd roared with his name."
     ""
 
-# CassiusFightsVaelen_09a394bd (line 48782)
-translate ru CassiusFightsVaelen_09a394bd:
+# CassiusFightsVaelen_ad57c69f (line 48782)
+translate ru CassiusFightsVaelen_ad57c69f:
     # "The soldiers of the mercenary band, the gathered up scrap from all across the world, had not a mind for the nuances of slavery."
     ""
 
-# CassiusFightsVaelen_02f2ef03 (line 48783)
-translate ru CassiusFightsVaelen_02f2ef03:
+# CassiusFightsVaelen_d3f9818d (line 48783)
+translate ru CassiusFightsVaelen_d3f9818d:
     # "But they understood power."
     ""
 
-# CassiusFightsVaelen_30556a5f (line 48784)
-translate ru CassiusFightsVaelen_30556a5f:
+# CassiusFightsVaelen_3596f1c5 (line 48784)
+translate ru CassiusFightsVaelen_3596f1c5:
     # "And all could see that Cassius radiated with it."
     ""
 
-# CassiusFightsVaelen_00a7094f (line 48785)
-translate ru CassiusFightsVaelen_00a7094f:
+# CassiusFightsVaelen_892e1b15 (line 48785)
+translate ru CassiusFightsVaelen_892e1b15:
     # "From the side, Sarah could witness the nuanced play of power and influence. Status."
     ""
 
-# CassiusFightsVaelen_19118047 (line 48786)
-translate ru CassiusFightsVaelen_19118047:
+# CassiusFightsVaelen_9350dba4 (line 48786)
+translate ru CassiusFightsVaelen_9350dba4:
     # "How Cassius had seized on it and now loosely held it in his hand. He could claim so much for himself."
     ""
 
-# CassiusFightsVaelen_eb18bccd (line 48787)
-translate ru CassiusFightsVaelen_eb18bccd:
+# CassiusFightsVaelen_8930cfa8 (line 48787)
+translate ru CassiusFightsVaelen_8930cfa8:
     # "Would he?"
     ""
 
-# CassiusFightsVaelen_52ff49ac (line 48794)
-translate ru CassiusFightsVaelen_52ff49ac:
+# CassiusFightsVaelen_ad213d8d (line 48794)
+translate ru CassiusFightsVaelen_ad213d8d:
     # "Sarah had scarcely thought of it when she saw in his eyes that same recognition."
     ""
 
-# CassiusFightsVaelen_1bb1e57f (line 48795)
-translate ru CassiusFightsVaelen_1bb1e57f:
+# CassiusFightsVaelen_61040dcb (line 48795)
+translate ru CassiusFightsVaelen_61040dcb:
     # "Only, Cassius was less cynical than her, and never pretended to be other than he was."
     ""
 
-# CassiusFightsVaelen_72c1f72c (line 48796)
-translate ru CassiusFightsVaelen_72c1f72c:
+# CassiusFightsVaelen_7f9f9824 (line 48796)
+translate ru CassiusFightsVaelen_7f9f9824:
     # "She saw him twirl the glory in his hands and play to the crowd, enjoying it for a brief moment longer..."
     ""
 
-# CassiusFightsVaelen_d505a596 (line 48797)
-translate ru CassiusFightsVaelen_d505a596:
+# CassiusFightsVaelen_6af84e29 (line 48797)
+translate ru CassiusFightsVaelen_6af84e29:
     # "Then he turned to her."
     ""
 
-# CassiusFightsVaelen_bc777b48 (line 48798)
-translate ru CassiusFightsVaelen_bc777b48:
+# CassiusFightsVaelen_4957c9f8 (line 48798)
+translate ru CassiusFightsVaelen_4957c9f8:
     # "Hands and body still bloodied with the gore of Vaelen, he strode across the sand."
     ""
 
-# CassiusFightsVaelen_e6ad7581 (line 48799)
-translate ru CassiusFightsVaelen_e6ad7581:
+# CassiusFightsVaelen_2f9264f0 (line 48799)
+translate ru CassiusFightsVaelen_2f9264f0:
     # "He stopped before her, and the crowd, mesmerized, held their breath."
     ""
 
-# CassiusFightsVaelen_c9be3bd6 (line 48800)
-translate ru CassiusFightsVaelen_c9be3bd6:
+# CassiusFightsVaelen_cc2febe9 (line 48800)
+translate ru CassiusFightsVaelen_cc2febe9:
     # "Cassius fell to one knee and raised up a hand in supplication."
     ""
 
-# CassiusFightsVaelen_d3c77d18 (line 48801)
-translate ru CassiusFightsVaelen_d3c77d18:
+# CassiusFightsVaelen_e14f9ea1 (line 48801)
+translate ru CassiusFightsVaelen_e14f9ea1:
     # cas "Lady Sarah Rose..."
     cas ""
 
-# CassiusFightsVaelen_61d26916 (line 48802)
-translate ru CassiusFightsVaelen_61d26916:
+# CassiusFightsVaelen_db55101e (line 48802)
+translate ru CassiusFightsVaelen_db55101e:
     # "He spoke the words clearly, and in the silence, all could hear him."
     ""
 
-# CassiusFightsVaelen_499609cf (line 48803)
-translate ru CassiusFightsVaelen_499609cf:
+# CassiusFightsVaelen_749fb773 (line 48803)
+translate ru CassiusFightsVaelen_749fb773:
     # cas "I have won this victory, but I hold true to my word and dedicate all my glory to you."
     cas ""
 
-# CassiusFightsVaelen_d5e6575f (line 48804)
-translate ru CassiusFightsVaelen_d5e6575f:
+# CassiusFightsVaelen_39588a9f (line 48804)
+translate ru CassiusFightsVaelen_39588a9f:
     # cas "I won in your name, and only in fighting for one as valiant as you, could I have gathered the strength and courage to win."
     cas ""
 
-# CassiusFightsVaelen_0694f160 (line 48805)
-translate ru CassiusFightsVaelen_0694f160:
+# CassiusFightsVaelen_65db5ed4 (line 48805)
+translate ru CassiusFightsVaelen_65db5ed4:
     # "Sarah watched his face move as she looked down on him."
     ""
 
-# CassiusFightsVaelen_3c9ae22e (line 48806)
-translate ru CassiusFightsVaelen_3c9ae22e:
+# CassiusFightsVaelen_391482f6 (line 48806)
+translate ru CassiusFightsVaelen_391482f6:
     # "He enjoyed the performance. The theatre. This was simply him playing to the crowd in a different way."
     ""
 
-# CassiusFightsVaelen_101ecf82 (line 48807)
-translate ru CassiusFightsVaelen_101ecf82:
+# CassiusFightsVaelen_bcc5d83a (line 48807)
+translate ru CassiusFightsVaelen_bcc5d83a:
     # "She knew his skill was undeniable and that he would have called Vaelen in her name, or as casually as he would have killed any other."
     ""
 
-# CassiusFightsVaelen_cf7135dd (line 48808)
-translate ru CassiusFightsVaelen_cf7135dd:
+# CassiusFightsVaelen_49e1ca9e (line 48808)
+translate ru CassiusFightsVaelen_49e1ca9e:
     # "But he pretended."
     ""
 
-# CassiusFightsVaelen_f8683e51 (line 48809)
-translate ru CassiusFightsVaelen_f8683e51:
+# CassiusFightsVaelen_38089862 (line 48809)
+translate ru CassiusFightsVaelen_38089862:
     # "He played the loyal servant, the faithful soldier."
     ""
 
-# CassiusFightsVaelen_58a25979 (line 48810)
-translate ru CassiusFightsVaelen_58a25979:
+# CassiusFightsVaelen_1ee2ec50 (line 48810)
+translate ru CassiusFightsVaelen_1ee2ec50:
     # "Sarah extended one hand down, touching Cassius' forehead."
     ""
 
-# CassiusFightsVaelen_25aad9cd (line 48811)
-translate ru CassiusFightsVaelen_25aad9cd:
+# CassiusFightsVaelen_082d5c2d (line 48811)
+translate ru CassiusFightsVaelen_082d5c2d:
     # s "Rise, Cassius."
     s ""
 
-# CassiusFightsVaelen_13b82752 (line 48812)
-translate ru CassiusFightsVaelen_13b82752:
+# CassiusFightsVaelen_bde37e7b (line 48812)
+translate ru CassiusFightsVaelen_bde37e7b:
     # s "A slave by circumstance, but a free man by valor. With all the Gods as my witness, and before all these men, I vow you will be free."
     s ""
 
-# CassiusFightsVaelen_e80c9092 (line 48813)
-translate ru CassiusFightsVaelen_e80c9092:
+# CassiusFightsVaelen_c8f9cf8f (line 48813)
+translate ru CassiusFightsVaelen_c8f9cf8f:
     # "She saw a smile on his face."
     ""
 
-# CassiusFightsVaelen_084c8461 (line 48814)
-translate ru CassiusFightsVaelen_084c8461:
+# CassiusFightsVaelen_f625195f (line 48814)
+translate ru CassiusFightsVaelen_f625195f:
     # "And my sister too, he said without words."
     ""
 
-# CassiusFightsVaelen_c78edfc9 (line 48815)
-translate ru CassiusFightsVaelen_c78edfc9:
+# CassiusFightsVaelen_dcceabdd (line 48815)
+translate ru CassiusFightsVaelen_dcceabdd:
     # "Sarah gave a subtle nod."
     ""
 
-# CassiusFightsVaelen_4c63b20f (line 48816)
-translate ru CassiusFightsVaelen_4c63b20f:
+# CassiusFightsVaelen_6fbd571a (line 48816)
+translate ru CassiusFightsVaelen_6fbd571a:
     # "And your sister too, she answered without words."
     ""
 
-# CassiusFightsVaelen_537a4e36 (line 48817)
-translate ru CassiusFightsVaelen_537a4e36:
+# CassiusFightsVaelen_2426c7f9 (line 48817)
+translate ru CassiusFightsVaelen_2426c7f9:
     # "The crowd exploded with more cheers, now rushing up towards each of them."
     ""
 
-# CassiusFightsVaelen_bda06017 (line 48818)
-translate ru CassiusFightsVaelen_bda06017:
+# CassiusFightsVaelen_c11c5b6d (line 48818)
+translate ru CassiusFightsVaelen_c11c5b6d:
     # "Where before they chanted Cassius' name, they now also chanted Sarah's, and with each chant, her name grew louder."
     ""
 
-# CassiusFightsVaelen_6f1ba47a (line 48819)
-translate ru CassiusFightsVaelen_6f1ba47a:
+# CassiusFightsVaelen_cc1e3d70 (line 48819)
+translate ru CassiusFightsVaelen_cc1e3d70:
     # "Cassius easily slipped away into the crowd. He gotten what he wanted."
     ""
 
-# CassiusFightsVaelen_92069f5a (line 48820)
-translate ru CassiusFightsVaelen_92069f5a:
+# CassiusFightsVaelen_cd7dead8 (line 48820)
+translate ru CassiusFightsVaelen_cd7dead8:
     # "Sarah saw the adoring faces of the men. Her soldiers."
     ""
 
-# CassiusFightsVaelen_19303043 (line 48821)
-translate ru CassiusFightsVaelen_19303043:
+# CassiusFightsVaelen_5c1ebe98 (line 48821)
+translate ru CassiusFightsVaelen_5c1ebe98:
     # "The practicalities of taking over the mercenary would come later, but she had won their hearts, and that would settle all the rest."
     ""
 
-# CassiusFightsVaelen_ce6402cb (line 48822)
-translate ru CassiusFightsVaelen_ce6402cb:
+# CassiusFightsVaelen_7f1f8256 (line 48822)
+translate ru CassiusFightsVaelen_7f1f8256:
     # "Pulling herself through the masses of the people, Sarah finally found an elevation."
     ""
 
-# CassiusFightsVaelen_00f784fb (line 48823)
-translate ru CassiusFightsVaelen_00f784fb:
+# CassiusFightsVaelen_e4718a4d (line 48823)
+translate ru CassiusFightsVaelen_e4718a4d:
     # "With the last of her remaining strength, she pulled herself up the ledge, looking out across the crowd."
     ""
 
-# CassiusFightsVaelen_da471ffe (line 48830)
-translate ru CassiusFightsVaelen_da471ffe:
+# CassiusFightsVaelen_596643ab (line 48830)
+translate ru CassiusFightsVaelen_596643ab:
     # s "Soldiers!"
     s ""
 
-# CassiusFightsVaelen_00cb8184 (line 48831)
-translate ru CassiusFightsVaelen_00cb8184:
+# CassiusFightsVaelen_c9a7ad5b (line 48831)
+translate ru CassiusFightsVaelen_c9a7ad5b:
     # "The crowd answered her with one voice."
     ""
 
-# CassiusFightsVaelen_dbd87cf3 (line 48832)
-translate ru CassiusFightsVaelen_dbd87cf3:
+# CassiusFightsVaelen_8ed8fa85 (line 48832)
+translate ru CassiusFightsVaelen_8ed8fa85:
     # s "Let all men and women know that I never sought this."
     s ""
 
-# CassiusFightsVaelen_9aa98679 (line 48833)
-translate ru CassiusFightsVaelen_9aa98679:
+# CassiusFightsVaelen_56d60904 (line 48833)
+translate ru CassiusFightsVaelen_56d60904:
     # s "But it was by fate and foolishness that Vaelen drove me to this moment."
     s ""
 
-# CassiusFightsVaelen_b179adf3 (line 48834)
-translate ru CassiusFightsVaelen_b179adf3:
+# CassiusFightsVaelen_3c5b6393 (line 48834)
+translate ru CassiusFightsVaelen_3c5b6393:
     # "The crowd still responded with anger at his name, even though he was now dead."
     ""
 
-# CassiusFightsVaelen_50c4886e (line 48835)
-translate ru CassiusFightsVaelen_50c4886e:
+# CassiusFightsVaelen_6b98f0cd (line 48835)
+translate ru CassiusFightsVaelen_6b98f0cd:
     # "How strange, they had once loved him, and now each would swore they'd never felt anything but hate for the man."
     ""
 
-# CassiusFightsVaelen_d6aedbb1 (line 48836)
-translate ru CassiusFightsVaelen_d6aedbb1:
+# CassiusFightsVaelen_b71e31de (line 48836)
+translate ru CassiusFightsVaelen_b71e31de:
     # "The hearts of men were like the wind, forever turning both ways."
     ""
 
-# CassiusFightsVaelen_4dd5b3f6 (line 48837)
-translate ru CassiusFightsVaelen_4dd5b3f6:
+# CassiusFightsVaelen_a931f6d8 (line 48837)
+translate ru CassiusFightsVaelen_a931f6d8:
     # s "But what has been done, is done."
     s ""
 
-# CassiusFightsVaelen_05f5bbf4 (line 48838)
-translate ru CassiusFightsVaelen_05f5bbf4:
+# CassiusFightsVaelen_47b2b967 (line 48838)
+translate ru CassiusFightsVaelen_47b2b967:
     # s "Those of you who cannot bear my command, I give you my word as a princess of the Rose family, that no harm will come to you."
     s ""
 
-# CassiusFightsVaelen_2c915d63 (line 48839)
-translate ru CassiusFightsVaelen_2c915d63:
+# CassiusFightsVaelen_407ae757 (line 48839)
+translate ru CassiusFightsVaelen_407ae757:
     # "Their voices had dimmed."
     ""
 
-# CassiusFightsVaelen_2428cdbe (line 48840)
-translate ru CassiusFightsVaelen_2428cdbe:
+# CassiusFightsVaelen_ef65a426 (line 48840)
+translate ru CassiusFightsVaelen_ef65a426:
     # "Many knew of Sarah's royal lineage, but she herself rarely made mention of it to the others. A knowledge that passed in whispers."
     ""
 
-# CassiusFightsVaelen_8a957ee2 (line 48841)
-translate ru CassiusFightsVaelen_8a957ee2:
+# CassiusFightsVaelen_28807200 (line 48841)
+translate ru CassiusFightsVaelen_28807200:
     # s "But to those of you who remain..."
     s ""
 
-# CassiusFightsVaelen_d012ba87 (line 48842)
-translate ru CassiusFightsVaelen_d012ba87:
+# CassiusFightsVaelen_35b5b71c (line 48842)
+translate ru CassiusFightsVaelen_35b5b71c:
     # s "To those of you who have shown me your loyalty, not in word, but in spilled blood..."
     s ""
 
-# CassiusFightsVaelen_3435839c (line 48843)
-translate ru CassiusFightsVaelen_3435839c:
+# CassiusFightsVaelen_e7513786 (line 48843)
+translate ru CassiusFightsVaelen_e7513786:
     # s "To you, I say, I have witnessed your souls of steel, tested by the elements of this world!"
     s ""
 
-# CassiusFightsVaelen_0b62cb4a (line 48844)
-translate ru CassiusFightsVaelen_0b62cb4a:
+# CassiusFightsVaelen_3b8d76e1 (line 48844)
+translate ru CassiusFightsVaelen_3b8d76e1:
     # "They looked at her with hungry eyes, desperate for what she would give them."
     ""
 
-# CassiusFightsVaelen_0a80d8c4 (line 48845)
-translate ru CassiusFightsVaelen_0a80d8c4:
+# CassiusFightsVaelen_c74d0a3e (line 48845)
+translate ru CassiusFightsVaelen_c74d0a3e:
     # s "Each of you hails from a different corner of the world. Rich, poor. Firstborns, lowborns. Sons, daughters."
     s ""
 
-# CassiusFightsVaelen_9538eb61 (line 48846)
-translate ru CassiusFightsVaelen_9538eb61:
+# CassiusFightsVaelen_ac27d958 (line 48846)
+translate ru CassiusFightsVaelen_ac27d958:
     # s "Every continent."
     s ""
 
-# CassiusFightsVaelen_04766832 (line 48847)
-translate ru CassiusFightsVaelen_04766832:
+# CassiusFightsVaelen_b7cad40d (line 48847)
+translate ru CassiusFightsVaelen_b7cad40d:
     # s "Orphans, all of us, one way or another."
     s ""
 
-# CassiusFightsVaelen_ecca037a (line 48848)
-translate ru CassiusFightsVaelen_ecca037a:
+# CassiusFightsVaelen_efc2a69b (line 48848)
+translate ru CassiusFightsVaelen_efc2a69b:
     # s "But orphans no more!"
     s ""
 
-# CassiusFightsVaelen_60495f27 (line 48849)
-translate ru CassiusFightsVaelen_60495f27:
+# CassiusFightsVaelen_a388df87 (line 48849)
+translate ru CassiusFightsVaelen_a388df87:
     # s "Today, by right as sovereign, I decree the formation of the first new Rosannan army."
     s ""
 
-# CassiusFightsVaelen_e73b468b (line 48850)
-translate ru CassiusFightsVaelen_e73b468b:
+# CassiusFightsVaelen_6379f0be (line 48850)
+translate ru CassiusFightsVaelen_6379f0be:
     # "A murmur ran through the crowd like lightning."
     ""
 
-# CassiusFightsVaelen_278c5a41 (line 48851)
-translate ru CassiusFightsVaelen_278c5a41:
+# CassiusFightsVaelen_dc6df88f (line 48851)
+translate ru CassiusFightsVaelen_dc6df88f:
     # s "Kneel, pledge fealty, and you will rise. Not as vagrants of the world, not as sellswords with no dreams, but as men and women of the Rose!"
     s ""
 
-# CassiusFightsVaelen_d92261fc (line 48852)
-translate ru CassiusFightsVaelen_d92261fc:
+# CassiusFightsVaelen_1fc6c9a9 (line 48852)
+translate ru CassiusFightsVaelen_1fc6c9a9:
     # s "Rise as the soldiers that will usher in a new dawn for Rosanna, and I promise each of you will be a lord and lady in a new world!"
     s ""
 
-# CassiusFightsVaelen_1c8b8304 (line 48853)
-translate ru CassiusFightsVaelen_1c8b8304:
+# CassiusFightsVaelen_f9bd903b (line 48853)
+translate ru CassiusFightsVaelen_f9bd903b:
     # "The crowd began to scream. The promise of wealth still stirred their hearts."
     ""
 
-# CassiusFightsVaelen_4c0bb3b9 (line 48854)
-translate ru CassiusFightsVaelen_4c0bb3b9:
+# CassiusFightsVaelen_01664f60 (line 48854)
+translate ru CassiusFightsVaelen_01664f60:
     # s "Who among you will take the vow?"
     s ""
 
-# CassiusFightsVaelen_f0809445 (line 48855)
-translate ru CassiusFightsVaelen_f0809445:
+# CassiusFightsVaelen_9e8dc7fc (line 48855)
+translate ru CassiusFightsVaelen_9e8dc7fc:
     # "And all as one, the soldiers of the mercenary company fell to their knees."
     ""
 
-# CassiusFightsVaelen_30756a7a (line 48856)
-translate ru CassiusFightsVaelen_30756a7a:
+# CassiusFightsVaelen_12fe86a3 (line 48856)
+translate ru CassiusFightsVaelen_12fe86a3:
     # "All as one, they spoke the words."
     ""
 
-# CassiusFightsVaelen_73a3156e (line 48857)
-translate ru CassiusFightsVaelen_73a3156e:
+# CassiusFightsVaelen_72d22cfa (line 48857)
+translate ru CassiusFightsVaelen_72d22cfa:
     # "The words that would bind their hearts to hers. The words that would make her cause, theirs."
     ""
 
-# CassiusFightsVaelen_6eeb1f9f (line 48858)
-translate ru CassiusFightsVaelen_6eeb1f9f:
+# CassiusFightsVaelen_d017eb61 (line 48858)
+translate ru CassiusFightsVaelen_d017eb61:
     # "And when they rose back up to their feet, the old was left behind in the sands of desert, along with their former commander."
     ""
 

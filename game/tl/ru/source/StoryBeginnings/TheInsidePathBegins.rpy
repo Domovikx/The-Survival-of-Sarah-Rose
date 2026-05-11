@@ -3,103 +3,103 @@
 # Scene: TheInsidePathBegins
 # Total blocks: 20
 
-# TheInsidePathBegins_e997f852 (line 2409)
-translate ru TheInsidePathBegins_e997f852:
+# TheInsidePathBegins_7e67925f (line 2409)
+translate ru TheInsidePathBegins_7e67925f:
     # "Sarah, instinctively, pulls herself physically away from Kate."
     ""
 
-# TheInsidePathBegins_4622511b (line 2410)
-translate ru TheInsidePathBegins_4622511b:
+# TheInsidePathBegins_c9f9f4eb (line 2410)
+translate ru TheInsidePathBegins_c9f9f4eb:
     # "She looks at her old friend. Her brown eyes seem almost black in the dark. Within them, she sees something break."
     ""
 
-# TheInsidePathBegins_edb09eaf (line 2411)
-translate ru TheInsidePathBegins_edb09eaf:
+# TheInsidePathBegins_cef73578 (line 2411)
+translate ru TheInsidePathBegins_cef73578:
     # k "Sarah...please..."
     k ""
 
-# TheInsidePathBegins_67e61016 (line 2412)
-translate ru TheInsidePathBegins_67e61016:
+# TheInsidePathBegins_ddb60d09 (line 2412)
+translate ru TheInsidePathBegins_ddb60d09:
     # "Sarah shakes her head."
     ""
 
-# TheInsidePathBegins_05ebb98a (line 2413)
-translate ru TheInsidePathBegins_05ebb98a:
+# TheInsidePathBegins_96b3017d (line 2413)
+translate ru TheInsidePathBegins_96b3017d:
     # s "It doesn't matter if I'm in danger here, Kate. Thomas needs me, he always did, but now more than ever."
     s ""
 
-# TheInsidePathBegins_12724c3e (line 2414)
-translate ru TheInsidePathBegins_12724c3e:
+# TheInsidePathBegins_94fa9d2e (line 2414)
+translate ru TheInsidePathBegins_94fa9d2e:
     # s "If you think that I'm going to leave him alone...then you don't really know me at all."
     s ""
 
-# TheInsidePathBegins_6147776f (line 2415)
-translate ru TheInsidePathBegins_6147776f:
+# TheInsidePathBegins_d2b7db15 (line 2415)
+translate ru TheInsidePathBegins_d2b7db15:
     # s "I will stay here, even if it means risking my life."
     s ""
 
-# TheInsidePathBegins_4018e576 (line 2416)
-translate ru TheInsidePathBegins_4018e576:
+# TheInsidePathBegins_3ff26b95 (line 2416)
+translate ru TheInsidePathBegins_3ff26b95:
     # "Kate climbs off the bed."
     ""
 
-# TheInsidePathBegins_ba501971 (line 2417)
-translate ru TheInsidePathBegins_ba501971:
+# TheInsidePathBegins_0feb782a (line 2417)
+translate ru TheInsidePathBegins_0feb782a:
     # k "Then you're an idiot. You don't know anything about the dangers of this world."
     k ""
 
-# TheInsidePathBegins_1ae82fa3 (line 2418)
-translate ru TheInsidePathBegins_1ae82fa3:
+# TheInsidePathBegins_51b2f487 (line 2418)
+translate ru TheInsidePathBegins_51b2f487:
     # k "There will be a day when you wish you took my hand, and when that day comes, remember that I offered, and it was you who declined."
     k ""
 
-# TheInsidePathBegins_bad251f2 (line 2419)
-translate ru TheInsidePathBegins_bad251f2:
+# TheInsidePathBegins_a8b5057d (line 2419)
+translate ru TheInsidePathBegins_a8b5057d:
     # "Sarah steels herself and looks at Kate."
     ""
 
-# TheInsidePathBegins_71942b41 (line 2420)
-translate ru TheInsidePathBegins_71942b41:
+# TheInsidePathBegins_7a7f52b1 (line 2420)
+translate ru TheInsidePathBegins_7a7f52b1:
     # s "I've said my part. Get out before I have you dragged out by the guards."
     s ""
 
-# TheInsidePathBegins_15d060ea (line 2421)
-translate ru TheInsidePathBegins_15d060ea:
+# TheInsidePathBegins_3e4a0163 (line 2421)
+translate ru TheInsidePathBegins_3e4a0163:
     # "Kate shakes her head in disbelief. She pauses for a moment, trying to find the words, but finds none."
     ""
 
-# TheInsidePathBegins_0551ebdd (line 2422)
-translate ru TheInsidePathBegins_0551ebdd:
+# TheInsidePathBegins_f482124b (line 2422)
+translate ru TheInsidePathBegins_f482124b:
     # "Kate turns and walks towards the door in large strides."
     ""
 
-# TheInsidePathBegins_09bae750 (line 2423)
-translate ru TheInsidePathBegins_09bae750:
+# TheInsidePathBegins_2204ea6d (line 2423)
+translate ru TheInsidePathBegins_2204ea6d:
     # "As she opens the door, she stands in the opening and turns around, looking at Sarah one last time."
     ""
 
-# TheInsidePathBegins_1bc78dec (line 2424)
-translate ru TheInsidePathBegins_1bc78dec:
+# TheInsidePathBegins_7785dcc7 (line 2424)
+translate ru TheInsidePathBegins_7785dcc7:
     # "Sarah sees that, again, Kate has no words."
     ""
 
-# TheInsidePathBegins_41d96a00 (line 2425)
-translate ru TheInsidePathBegins_41d96a00:
+# TheInsidePathBegins_c9ac7ee3 (line 2425)
+translate ru TheInsidePathBegins_c9ac7ee3:
     # "Kate slips out the door, closing it softly, and vanishes."
     ""
 
-# TheInsidePathBegins_2747a01c (line 2426)
-translate ru TheInsidePathBegins_2747a01c:
+# TheInsidePathBegins_240ba407 (line 2426)
+translate ru TheInsidePathBegins_240ba407:
     # "Sarah tries to get back to sleep, but her thoughts keep her awake."
     ""
 
-# TheInsidePathBegins_00426491 (line 2427)
-translate ru TheInsidePathBegins_00426491:
+# TheInsidePathBegins_75d482b3 (line 2427)
+translate ru TheInsidePathBegins_75d482b3:
     # "She wonders if she will ever see her old friend again."
     ""
 
-# TheInsidePathBegins_a87a8849 (line 2428)
-translate ru TheInsidePathBegins_a87a8849:
+# TheInsidePathBegins_5e2cb7d9 (line 2428)
+translate ru TheInsidePathBegins_5e2cb7d9:
     # "Eventually, exhaustion carries Sarah off to sleep."
     ""
 

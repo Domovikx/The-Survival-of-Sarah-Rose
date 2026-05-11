@@ -3,403 +3,403 @@
 # Scene: TheOldRoad5
 # Total blocks: 80
 
-# TheOldRoad5_716637a6 (line 65143)
-translate ru TheOldRoad5_716637a6:
+# TheOldRoad5_6d3f0d8c (line 65143)
+translate ru TheOldRoad5_6d3f0d8c:
     # "A few days had passed since they had managed to get past the river crossing."
     ""
 
-# TheOldRoad5_2e18fb46 (line 65160)
-translate ru TheOldRoad5_2e18fb46:
+# TheOldRoad5_60578b96 (line 65160)
+translate ru TheOldRoad5_60578b96:
     # "The road ahead now seemed open and inviting."
     ""
 
-# TheOldRoad5_acee6724 (line 65161)
-translate ru TheOldRoad5_acee6724:
+# TheOldRoad5_475ba529 (line 65161)
+translate ru TheOldRoad5_475ba529:
     # "Nature grew without resistance all around them, forming colours and shapes that Sarah dared not have imagined before travelling the old road."
     ""
 
-# TheOldRoad5_0f5b6a22 (line 65162)
-translate ru TheOldRoad5_0f5b6a22:
+# TheOldRoad5_7b1cbf70 (line 65162)
+translate ru TheOldRoad5_7b1cbf70:
     # "Despite the dangers they had faced so far, Sarah found herself oddly at peace."
     ""
 
-# TheOldRoad5_2b05ea3a (line 65163)
-translate ru TheOldRoad5_2b05ea3a:
+# TheOldRoad5_5cfec52f (line 65163)
+translate ru TheOldRoad5_5cfec52f:
     # "Riding up front on the wagon, she closed her eyes."
     ""
 
-# TheOldRoad5_5674e596 (line 65164)
-translate ru TheOldRoad5_5674e596:
+# TheOldRoad5_a8f2a157 (line 65164)
+translate ru TheOldRoad5_a8f2a157:
     # "The swaying of the wagon and the warm sun on her face, for a moment, there were no problems in her life."
     ""
 
-# TheOldRoad5_b3b2c921 (line 65165)
-translate ru TheOldRoad5_b3b2c921:
+# TheOldRoad5_f3eeaa74 (line 65165)
+translate ru TheOldRoad5_f3eeaa74:
     # sig "You getting awfully comfortable there."
     sig ""
 
-# TheOldRoad5_7602191b (line 65166)
-translate ru TheOldRoad5_7602191b:
+# TheOldRoad5_f6aa2fd9 (line 65166)
+translate ru TheOldRoad5_f6aa2fd9:
     # s "Shouldn't I?"
     s ""
 
-# TheOldRoad5_f6a0e22c (line 65167)
-translate ru TheOldRoad5_f6a0e22c:
+# TheOldRoad5_b82b355f (line 65167)
+translate ru TheOldRoad5_b82b355f:
     # sig "Never a good idea to drop your guard out here."
     sig ""
 
-# TheOldRoad5_b0781efb (line 65168)
-translate ru TheOldRoad5_b0781efb:
+# TheOldRoad5_3025ae62 (line 65168)
+translate ru TheOldRoad5_3025ae62:
     # s "Good thing you can keep your guard up for the both of us then."
     s ""
 
-# TheOldRoad5_91574d35 (line 65169)
-translate ru TheOldRoad5_91574d35:
+# TheOldRoad5_df97fb81 (line 65169)
+translate ru TheOldRoad5_df97fb81:
     # sig "Don't get cute with me girl."
     sig ""
 
-# TheOldRoad5_c053677f (line 65170)
-translate ru TheOldRoad5_c053677f:
+# TheOldRoad5_cd387a75 (line 65170)
+translate ru TheOldRoad5_cd387a75:
     # "Sarah laughed."
     ""
 
-# TheOldRoad5_7ff4e2a6 (line 65171)
-translate ru TheOldRoad5_7ff4e2a6:
+# TheOldRoad5_83b81ad4 (line 65171)
+translate ru TheOldRoad5_83b81ad4:
     # s "Sorry Sigmund, I'm just having a good day. Feels like it's been a while."
     s ""
 
-# TheOldRoad5_83a71ec3 (line 65172)
-translate ru TheOldRoad5_83a71ec3:
+# TheOldRoad5_333e2bd3 (line 65172)
+translate ru TheOldRoad5_333e2bd3:
     # "The cart continued to gently roll across the old road as it stretched ever onward."
     ""
 
-# TheOldRoad5_50dae94d (line 65173)
-translate ru TheOldRoad5_50dae94d:
+# TheOldRoad5_843311a0 (line 65173)
+translate ru TheOldRoad5_843311a0:
     # s "When do you suppose we'll get to Rahayal?"
     s ""
 
-# TheOldRoad5_c5251a2c (line 65174)
-translate ru TheOldRoad5_c5251a2c:
+# TheOldRoad5_8fa94548 (line 65174)
+translate ru TheOldRoad5_8fa94548:
     # "Sigmund scratched his beard in deep thought."
     ""
 
-# TheOldRoad5_9d3eb6f5 (line 65175)
-translate ru TheOldRoad5_9d3eb6f5:
+# TheOldRoad5_27f69c05 (line 65175)
+translate ru TheOldRoad5_27f69c05:
     # sig "Shouldn't be more than a few days."
     sig ""
 
-# TheOldRoad5_f2184e40 (line 65176)
-translate ru TheOldRoad5_f2184e40:
+# TheOldRoad5_301235b0 (line 65176)
+translate ru TheOldRoad5_301235b0:
     # sig "Last stop will be Erion's Crossroads, after that we turn from the old road back onto one of the official main roads of the Mythran empire."
     sig ""
 
-# TheOldRoad5_37cf145a (line 65177)
-translate ru TheOldRoad5_37cf145a:
+# TheOldRoad5_56fb9ba6 (line 65177)
+translate ru TheOldRoad5_56fb9ba6:
     # sig "Those roads actually still get patrolled. Quite heavily, actually."
     sig ""
 
-# TheOldRoad5_cd50e69c (line 65178)
-translate ru TheOldRoad5_cd50e69c:
+# TheOldRoad5_559e7746 (line 65178)
+translate ru TheOldRoad5_559e7746:
     # s "What is Erion's Crossroads?"
     s ""
 
-# TheOldRoad5_60e68714 (line 65179)
-translate ru TheOldRoad5_60e68714:
+# TheOldRoad5_7cd24de0 (line 65179)
+translate ru TheOldRoad5_7cd24de0:
     # sig "They say it used to be one the busiest towns in the central kingdoms, until one day it simply vanished from the face of the earth."
     sig ""
 
-# TheOldRoad5_eedb3833 (line 65180)
-translate ru TheOldRoad5_eedb3833:
+# TheOldRoad5_c741d90e (line 65180)
+translate ru TheOldRoad5_c741d90e:
     # sig "After it dissapeared, only the roads and the crossroads were left."
     sig ""
 
-# TheOldRoad5_104caacc (line 65181)
-translate ru TheOldRoad5_104caacc:
+# TheOldRoad5_da2e6487 (line 65181)
+translate ru TheOldRoad5_da2e6487:
     # "Sarah could feel a cold sensation crawling up her spine."
     ""
 
-# TheOldRoad5_dece5ce0 (line 65182)
-translate ru TheOldRoad5_dece5ce0:
+# TheOldRoad5_68d47e7d (line 65182)
+translate ru TheOldRoad5_68d47e7d:
     # s "They...just dissapeared?"
     s ""
 
-# TheOldRoad5_0332975b (line 65183)
-translate ru TheOldRoad5_0332975b:
+# TheOldRoad5_ece6c2f0 (line 65183)
+translate ru TheOldRoad5_ece6c2f0:
     # "Sigmund laughed."
     ""
 
-# TheOldRoad5_be4632f0 (line 65184)
-translate ru TheOldRoad5_be4632f0:
+# TheOldRoad5_c3e71f40 (line 65184)
+translate ru TheOldRoad5_c3e71f40:
     # sig "Don't worry about that."
     sig ""
 
-# TheOldRoad5_96f1fb2a (line 65185)
-translate ru TheOldRoad5_96f1fb2a:
+# TheOldRoad5_1319d285 (line 65185)
+translate ru TheOldRoad5_1319d285:
     # sig "Just bullshit that bored peasants tell each other."
     sig ""
 
-# TheOldRoad5_fa7d93ec (line 65186)
-translate ru TheOldRoad5_fa7d93ec:
+# TheOldRoad5_dcfcfd41 (line 65186)
+translate ru TheOldRoad5_dcfcfd41:
     # s "But what happened then?"
     s ""
 
-# TheOldRoad5_7139dd7a (line 65187)
-translate ru TheOldRoad5_7139dd7a:
+# TheOldRoad5_968fac2f (line 65187)
+translate ru TheOldRoad5_968fac2f:
     # "Sigmund shrugged."
     ""
 
-# TheOldRoad5_c4ed75a9 (line 65188)
-translate ru TheOldRoad5_c4ed75a9:
+# TheOldRoad5_f2f6af79 (line 65188)
+translate ru TheOldRoad5_f2f6af79:
     # sig "Fuck if I know."
     sig ""
 
-# TheOldRoad5_bf1e6111 (line 65189)
-translate ru TheOldRoad5_bf1e6111:
+# TheOldRoad5_a93da295 (line 65189)
+translate ru TheOldRoad5_a93da295:
     # sig "They been spreading that story before I was even a kid."
     sig ""
 
-# TheOldRoad5_3a084d4b (line 65190)
-translate ru TheOldRoad5_3a084d4b:
+# TheOldRoad5_6f399178 (line 65190)
+translate ru TheOldRoad5_6f399178:
     # sig "I bet nobody really knows what happened there. Least of all the people pretending like they do."
     sig ""
 
-# TheOldRoad5_7f07f13c (line 65191)
-translate ru TheOldRoad5_7f07f13c:
+# TheOldRoad5_d8a9ece7 (line 65191)
+translate ru TheOldRoad5_d8a9ece7:
     # "Sarah tried to think of what Sigmund had told her."
     ""
 
-# TheOldRoad5_60fa1058 (line 65192)
-translate ru TheOldRoad5_60fa1058:
+# TheOldRoad5_efc35684 (line 65192)
+translate ru TheOldRoad5_efc35684:
     # "The idea of a town just vanishing into thin air made her shiver, but then again, it seemed equally absurd."
     ""
 
-# TheOldRoad5_7d84d97f (line 65193)
-translate ru TheOldRoad5_7d84d97f:
+# TheOldRoad5_fb00f38d (line 65193)
+translate ru TheOldRoad5_fb00f38d:
     # "Perhaps Sigmund was right in ignoring such stories."
     ""
 
-# TheOldRoad5_b5c64304 (line 65194)
-translate ru TheOldRoad5_b5c64304:
+# TheOldRoad5_cca4c2c8 (line 65194)
+translate ru TheOldRoad5_cca4c2c8:
     # s "So what is there today?"
     s ""
 
-# TheOldRoad5_13e411d4 (line 65195)
-translate ru TheOldRoad5_13e411d4:
+# TheOldRoad5_4363480f (line 65195)
+translate ru TheOldRoad5_4363480f:
     # sig "It's still a popular spot, but only popular by standards of the old road."
     sig ""
 
-# TheOldRoad5_542f33b3 (line 65196)
-translate ru TheOldRoad5_542f33b3:
+# TheOldRoad5_dbc8b814 (line 65196)
+translate ru TheOldRoad5_dbc8b814:
     # sig "I recon there are about six or seven groups of people most days."
     sig ""
 
-# TheOldRoad5_100d8873 (line 65197)
-translate ru TheOldRoad5_100d8873:
+# TheOldRoad5_4a19799c (line 65197)
+translate ru TheOldRoad5_4a19799c:
     # sig "The farmers especially, they like to huddle up in groups. Safety in numbers out here."
     sig ""
 
-# TheOldRoad5_44339cc0 (line 65198)
-translate ru TheOldRoad5_44339cc0:
+# TheOldRoad5_0654dd21 (line 65198)
+translate ru TheOldRoad5_0654dd21:
     # sig "But it's mostly decent folk. As decent as you'll find out here."
     sig ""
 
-# TheOldRoad5_2da4eb81 (line 65199)
-translate ru TheOldRoad5_2da4eb81:
+# TheOldRoad5_24de33ea (line 65199)
+translate ru TheOldRoad5_24de33ea:
     # "Sarah nodded along as Sigmund continued to explain."
     ""
 
-# TheOldRoad5_cb373e0e (line 65200)
-translate ru TheOldRoad5_cb373e0e:
+# TheOldRoad5_330839b5 (line 65200)
+translate ru TheOldRoad5_330839b5:
     # "For the rest of the day, their wagon continued to follow the curves and bends of the old road."
     ""
 
-# TheOldRoad5_adbae417 (line 65201)
-translate ru TheOldRoad5_adbae417:
+# TheOldRoad5_bbb341b5 (line 65201)
+translate ru TheOldRoad5_bbb341b5:
     # "Only when night started to set in, did they finally come upon the crossroads."
     ""
 
-# TheOldRoad5_28e5d8c8 (line 65202)
-translate ru TheOldRoad5_28e5d8c8:
+# TheOldRoad5_7d951c6f (line 65202)
+translate ru TheOldRoad5_7d951c6f:
     # "A few lights coming from lit lanterns could be seen, shining through the darkness."
     ""
 
-# TheOldRoad5_be30325e (line 65209)
-translate ru TheOldRoad5_be30325e:
+# TheOldRoad5_fc914cff (line 65209)
+translate ru TheOldRoad5_fc914cff:
     # "As their wagon pulled onto the crossroads and they parked a small distance from the other groups, Sarah could see they were drawing attention."
     ""
 
-# TheOldRoad5_d39f9328 (line 65210)
-translate ru TheOldRoad5_d39f9328:
+# TheOldRoad5_41a8a326 (line 65210)
+translate ru TheOldRoad5_41a8a326:
     # "People looked, pointed and whispered."
     ""
 
-# TheOldRoad5_f3995818 (line 65211)
-translate ru TheOldRoad5_f3995818:
+# TheOldRoad5_aea0a784 (line 65211)
+translate ru TheOldRoad5_aea0a784:
     # s "You think something is up?"
     s ""
 
-# TheOldRoad5_48040d5e (line 65212)
-translate ru TheOldRoad5_48040d5e:
+# TheOldRoad5_b927fe43 (line 65212)
+translate ru TheOldRoad5_b927fe43:
     # "Sigmund shrugged."
     ""
 
-# TheOldRoad5_7791f94a (line 65213)
-translate ru TheOldRoad5_7791f94a:
+# TheOldRoad5_67a70c6f (line 65213)
+translate ru TheOldRoad5_67a70c6f:
     # sig "Don't pay them no mind. Just busy bodies out there with too much gossip and too much time."
     sig ""
 
-# TheOldRoad5_5cce32ff (line 65214)
-translate ru TheOldRoad5_5cce32ff:
+# TheOldRoad5_21270f2b (line 65214)
+translate ru TheOldRoad5_21270f2b:
     # "Sarah got off from the cart and began helping set up their camp for the night."
     ""
 
-# TheOldRoad5_27ad7236 (line 65215)
-translate ru TheOldRoad5_27ad7236:
+# TheOldRoad5_ccf7767c (line 65215)
+translate ru TheOldRoad5_ccf7767c:
     # "As they were busy, the attention slowly faded and she saw the other groups set up their own camps."
     ""
 
-# TheOldRoad5_f2eb80b6 (line 65216)
-translate ru TheOldRoad5_f2eb80b6:
+# TheOldRoad5_61d2fae2 (line 65216)
+translate ru TheOldRoad5_61d2fae2:
     # "There seemed to be a mutual acknowledgement between the groups, but nobody really socialized with anyone else."
     ""
 
-# TheOldRoad5_908b7847 (line 65217)
-translate ru TheOldRoad5_908b7847:
+# TheOldRoad5_318c5288 (line 65217)
+translate ru TheOldRoad5_318c5288:
     # "Sarah cooked the meal, as she had done since they first set out."
     ""
 
-# TheOldRoad5_b422f3f6 (line 65218)
-translate ru TheOldRoad5_b422f3f6:
+# TheOldRoad5_afdea512 (line 65218)
+translate ru TheOldRoad5_afdea512:
     # "As she pushed the food around in the pot, she realized that in a few days she might not ever cook for them again."
     ""
 
-# TheOldRoad5_9bb29777 (line 65219)
-translate ru TheOldRoad5_9bb29777:
+# TheOldRoad5_e1067d13 (line 65219)
+translate ru TheOldRoad5_e1067d13:
     # "She felt sad at the idea."
     ""
 
-# TheOldRoad5_e0fa2ec5 (line 65220)
-translate ru TheOldRoad5_e0fa2ec5:
+# TheOldRoad5_cbc641d9 (line 65220)
+translate ru TheOldRoad5_cbc641d9:
     # "She realized that she would likely end up missing the men when they finally parted in Rahayal."
     ""
 
-# TheOldRoad5_bc4b33dd (line 65221)
-translate ru TheOldRoad5_bc4b33dd:
+# TheOldRoad5_205d2069 (line 65221)
+translate ru TheOldRoad5_205d2069:
     # s "Food's ready!"
     s ""
 
-# TheOldRoad5_aee4919f (line 65222)
-translate ru TheOldRoad5_aee4919f:
+# TheOldRoad5_b702a8c4 (line 65222)
+translate ru TheOldRoad5_b702a8c4:
     # "As Sarah called out, the other soon joined her around the campfire."
     ""
 
-# TheOldRoad5_69c10f76 (line 65225)
-translate ru TheOldRoad5_69c10f76:
+# TheOldRoad5_355eb28f (line 65225)
+translate ru TheOldRoad5_355eb28f:
     # sig "We'll be in Rahayal soon enough."
     sig ""
 
-# TheOldRoad5_1d1b5c2b (line 65226)
-translate ru TheOldRoad5_1d1b5c2b:
+# TheOldRoad5_9f0e7d0e (line 65226)
+translate ru TheOldRoad5_9f0e7d0e:
     # sig "No need to keep the good stuff in storage. Sarah, go see if we got some left."
     sig ""
 
-# TheOldRoad5_437e1f49 (line 65227)
-translate ru TheOldRoad5_437e1f49:
+# TheOldRoad5_ff21e8c0 (line 65227)
+translate ru TheOldRoad5_ff21e8c0:
     # "Sarah got up and made her way to the wagon."
     ""
 
-# TheOldRoad5_297ddbbd (line 65228)
-translate ru TheOldRoad5_297ddbbd:
+# TheOldRoad5_cabca77d (line 65228)
+translate ru TheOldRoad5_cabca77d:
     # "Not long after, she emerged, holding several bottles of wine in her arms and a large smile."
     ""
 
-# TheOldRoad5_6234b197 (line 65229)
-translate ru TheOldRoad5_6234b197:
+# TheOldRoad5_e5a033ce (line 65229)
+translate ru TheOldRoad5_e5a033ce:
     # "The others seemed equally ecstatic with her discovery."
     ""
 
-# TheOldRoad5_a7331427 (line 65230)
-translate ru TheOldRoad5_a7331427:
+# TheOldRoad5_1b69fcd2 (line 65230)
+translate ru TheOldRoad5_1b69fcd2:
     # "Each received a bottle of their own with more to spare."
     ""
 
-# TheOldRoad5_ff9b20a4 (line 65231)
-translate ru TheOldRoad5_ff9b20a4:
+# TheOldRoad5_f5508b58 (line 65231)
+translate ru TheOldRoad5_f5508b58:
     # "The bottles went round and round as each emptied them, in quick succesion."
     ""
 
-# TheOldRoad5_ae92e2d8 (line 65232)
-translate ru TheOldRoad5_ae92e2d8:
+# TheOldRoad5_5ec71fd4 (line 65232)
+translate ru TheOldRoad5_5ec71fd4:
     # "Before long, Sarah could feel the warm and happy glow of the alcohol on her face, pushing away the cold night air."
     ""
 
-# TheOldRoad5_bb4a9c98 (line 65233)
-translate ru TheOldRoad5_bb4a9c98:
+# TheOldRoad5_035bf14f (line 65233)
+translate ru TheOldRoad5_035bf14f:
     # "Each began to swap stories."
     ""
 
-# TheOldRoad5_6311fe93 (line 65234)
-translate ru TheOldRoad5_6311fe93:
+# TheOldRoad5_c66af8d4 (line 65234)
+translate ru TheOldRoad5_c66af8d4:
     # "Laughter mixed in, and their otherwise cold and distanced attitudes seemed to vanish for the night."
     ""
 
-# TheOldRoad5_d8ae31c3 (line 65235)
-translate ru TheOldRoad5_d8ae31c3:
+# TheOldRoad5_4e627bd7 (line 65235)
+translate ru TheOldRoad5_4e627bd7:
     # "Even Sarah dared to share a story or two, despite the risk of them discovering her true identity."
     ""
 
-# TheOldRoad5_9a63088f (line 65236)
-translate ru TheOldRoad5_9a63088f:
+# TheOldRoad5_eef005f2 (line 65236)
+translate ru TheOldRoad5_eef005f2:
     # "She told them of her very first singing lessons, and how she had been so nervous she had only managed to screech out the words."
     ""
 
-# TheOldRoad5_16c51cdb (line 65237)
-translate ru TheOldRoad5_16c51cdb:
+# TheOldRoad5_63fe37ce (line 65237)
+translate ru TheOldRoad5_63fe37ce:
     # "Upon discovering that she could sing, it wasn't long before each of them began to demand a performance."
     ""
 
-# TheOldRoad5_8a3b665d (line 65238)
-translate ru TheOldRoad5_8a3b665d:
+# TheOldRoad5_838ced7c (line 65238)
+translate ru TheOldRoad5_838ced7c:
     # "Bolstered from the courage of her drink, Sarah obliged them."
     ""
 
-# TheOldRoad5_f4369432 (line 65239)
-translate ru TheOldRoad5_f4369432:
+# TheOldRoad5_155f5476 (line 65239)
+translate ru TheOldRoad5_155f5476:
     # "For a moment, she could imagine that she was back in Rosanna, performing as she had done so many times before."
     ""
 
-# TheOldRoad5_1351896b (line 65240)
-translate ru TheOldRoad5_1351896b:
+# TheOldRoad5_2742ad33 (line 65240)
+translate ru TheOldRoad5_2742ad33:
     # "Sarah opened her eyes again when she sang the last word."
     ""
 
-# TheOldRoad5_a3a0bc0f (line 65241)
-translate ru TheOldRoad5_a3a0bc0f:
+# TheOldRoad5_b644665a (line 65241)
+translate ru TheOldRoad5_b644665a:
     # "Around the campfire, she saw the three men wiping away tears, pretending they never shed any."
     ""
 
-# TheOldRoad5_bb350806 (line 65242)
-translate ru TheOldRoad5_bb350806:
+# TheOldRoad5_9499c3a8 (line 65242)
+translate ru TheOldRoad5_9499c3a8:
     # "Perhaps they were not so different from herself."
     ""
 
-# TheOldRoad5_e4d16b24 (line 65243)
-translate ru TheOldRoad5_e4d16b24:
+# TheOldRoad5_f5e22a20 (line 65243)
+translate ru TheOldRoad5_f5e22a20:
     # "People pretending to be something they weren't."
     ""
 
-# TheOldRoad5_95e0d5a9 (line 65244)
-translate ru TheOldRoad5_95e0d5a9:
+# TheOldRoad5_e0f7e6f2 (line 65244)
+translate ru TheOldRoad5_e0f7e6f2:
     # "Sarah sank back into her seat and continued to feast along with them, deep into the night."
     ""
 
-# TheOldRoad5_85e46a49 (line 65701)
-translate ru TheOldRoad5_85e46a49:
+# TheOldRoad5_66d831f2 (line 65701)
+translate ru TheOldRoad5_66d831f2:
     # "Mention the dark fountain"
     "Mention the dark fountain" ""
 
-# TheOldRoad5_969421bc (line 65720)
-translate ru TheOldRoad5_969421bc:
+# TheOldRoad5_3a228aab (line 65720)
+translate ru TheOldRoad5_3a228aab:
     # "Don't confide in Sigmund"
     "Don't confide in Sigmund" ""
 

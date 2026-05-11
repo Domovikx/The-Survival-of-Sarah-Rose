@@ -3,13 +3,13 @@
 # Scene: UnionDecisionLoop
 # Total blocks: 2
 
-# UnionDecisionLoop_595dd81b (line 8505)
-translate ru UnionDecisionLoop_595dd81b:
+# UnionDecisionLoop_f5dfd67b (line 8505)
+translate ru UnionDecisionLoop_f5dfd67b:
     # "Attend the Union Council"
     "Attend the Union Council" ""
 
-# UnionDecisionLoop_a35afd64 (line 8520)
-translate ru UnionDecisionLoop_a35afd64:
+# UnionDecisionLoop_3a88fec0 (line 8520)
+translate ru UnionDecisionLoop_3a88fec0:
     # "Refuse to attend the Union Council"
     "Refuse to attend the Union Council" ""
 

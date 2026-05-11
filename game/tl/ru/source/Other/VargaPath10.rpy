@@ -3,68 +3,68 @@
 # Scene: VargaPath10
 # Total blocks: 13
 
-# VargaPath10_1368d508 (line 16237)
-translate ru VargaPath10_1368d508:
+# VargaPath10_d2b0b5b6 (line 16237)
+translate ru VargaPath10_d2b0b5b6:
     # "Sarah watches as the many invited guests flow into the great hall."
     ""
 
-# VargaPath10_a988903b (line 16238)
-translate ru VargaPath10_a988903b:
+# VargaPath10_da9d9ebd (line 16238)
+translate ru VargaPath10_da9d9ebd:
     # "The annual celebration of Rosanna's unity is underway. Officially meant to celebrate the many ways in which the nation was thriving, in truth, a reminder of how Sarah had brought low the usurpers."
     ""
 
-# VargaPath10_ea110392 (line 16240)
-translate ru VargaPath10_ea110392:
+# VargaPath10_4000c263 (line 16240)
+translate ru VargaPath10_4000c263:
     # "She smiled and greeted the throng of newcomers, her husband next to her."
     ""
 
-# VargaPath10_6f463e7a (line 16241)
-translate ru VargaPath10_6f463e7a:
+# VargaPath10_02078121 (line 16241)
+translate ru VargaPath10_02078121:
     # "Sarah could only laugh whenever she watched Varga try to play his part."
     ""
 
-# VargaPath10_98a764ea (line 16242)
-translate ru VargaPath10_98a764ea:
+# VargaPath10_a4edbda2 (line 16242)
+translate ru VargaPath10_a4edbda2:
     # "The years had made him more talented at pretending, but she had long accepted that her husband would never truly be a creature of the court."
     ""
 
-# VargaPath10_7c1734e6 (line 16243)
-translate ru VargaPath10_7c1734e6:
+# VargaPath10_b9c65c06 (line 16243)
+translate ru VargaPath10_b9c65c06:
     # "She was happy for that fact."
     ""
 
-# VargaPath10_bb696a61 (line 16244)
-translate ru VargaPath10_bb696a61:
+# VargaPath10_28adb491 (line 16244)
+translate ru VargaPath10_28adb491:
     # "The crowd had changed over the years."
     ""
 
-# VargaPath10_d3232858 (line 16245)
-translate ru VargaPath10_d3232858:
+# VargaPath10_e81ff7f5 (line 16245)
+translate ru VargaPath10_e81ff7f5:
     # "Nobles still made up a large share of those in attendance, but each passing year the crowd grew more diverse. Sucessful merchants, famous scholars, notable guests from across the world."
     ""
 
-# VargaPath10_ec9fb41a (line 16246)
-translate ru VargaPath10_ec9fb41a:
+# VargaPath10_144074fc (line 16246)
+translate ru VargaPath10_144074fc:
     # "Rosanna had become somewhat of a hub for all those who sought to make their luck for themselves."
     ""
 
-# VargaPath10_6d96cdee (line 16247)
-translate ru VargaPath10_6d96cdee:
+# VargaPath10_c7249593 (line 16247)
+translate ru VargaPath10_c7249593:
     # "Sarah was glad for it, if only because the new crowd seemed less obsessed with protocol."
     ""
 
-# VargaPath10_a9c3360c (line 16248)
-translate ru VargaPath10_a9c3360c:
+# VargaPath10_c8bd594a (line 16248)
+translate ru VargaPath10_c8bd594a:
     # "Still, no royal court could ever truly escape it, and so Sarah and her husband continued to play their part."
     ""
 
-# VargaPath10_a797e218 (line 16249)
-translate ru VargaPath10_a797e218:
+# VargaPath10_a499c8fa (line 16249)
+translate ru VargaPath10_a499c8fa:
     # "Each guest bore with them a gift, and soon the many gifts began to pile up next to them. The pile grew so large that it soon became embarassing."
     ""
 
-# VargaPath10_6563275a (line 16250)
-translate ru VargaPath10_6563275a:
+# VargaPath10_1ff74450 (line 16250)
+translate ru VargaPath10_1ff74450:
     # "With a small gesture of a hand, Sarah instructed the servants to begin carrying the gifts away for storage."
     ""
 

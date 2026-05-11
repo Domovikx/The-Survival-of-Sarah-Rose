@@ -3,8 +3,8 @@
 # Scene: SarahExploresLethramHarbor1
 # Total blocks: 1
 
-# SarahExploresLethramHarbor1_411bbc2e (line 62172)
-translate ru SarahExploresLethramHarbor1_411bbc2e:
+# SarahExploresLethramHarbor1_74e0ea75 (line 62172)
+translate ru SarahExploresLethramHarbor1_74e0ea75:
     # "For now, this is where the story ends."
     ""
 

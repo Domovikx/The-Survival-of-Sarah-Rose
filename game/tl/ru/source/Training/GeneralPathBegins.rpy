@@ -3,133 +3,133 @@
 # Scene: GeneralPathBegins
 # Total blocks: 26
 
-# GeneralPathBegins_240d04ec (line 25225)
-translate ru GeneralPathBegins_240d04ec:
+# GeneralPathBegins_d8df01a7 (line 25225)
+translate ru GeneralPathBegins_d8df01a7:
     # s "I will join the Brothers of Providence and reclaim Rosanna."
     s ""
 
-# GeneralPathBegins_5e9032aa (line 25226)
-translate ru GeneralPathBegins_5e9032aa:
+# GeneralPathBegins_746ee0b2 (line 25226)
+translate ru GeneralPathBegins_746ee0b2:
     # "Vaelen embraces Sarah."
     ""
 
-# GeneralPathBegins_13e42d13 (line 25227)
-translate ru GeneralPathBegins_13e42d13:
+# GeneralPathBegins_fc270058 (line 25227)
+translate ru GeneralPathBegins_fc270058:
     # vae "Excellent. The annual recruitment will start in a few months, I have faith you will find yourself prepared."
     vae ""
 
-# GeneralPathBegins_88932cbf (line 25228)
-translate ru GeneralPathBegins_88932cbf:
+# GeneralPathBegins_e8a8d8ed (line 25228)
+translate ru GeneralPathBegins_e8a8d8ed:
     # s "Recruitment?"
     s ""
 
-# GeneralPathBegins_a2f940d1 (line 25229)
-translate ru GeneralPathBegins_a2f940d1:
+# GeneralPathBegins_61f5a683 (line 25229)
+translate ru GeneralPathBegins_61f5a683:
     # vae "Yes, every member of this band must earn their place, same as the other. In this company, we are all equal, no exceptions."
     vae ""
 
-# GeneralPathBegins_2358a6d3 (line 25230)
-translate ru GeneralPathBegins_2358a6d3:
+# GeneralPathBegins_a8137a57 (line 25230)
+translate ru GeneralPathBegins_a8137a57:
     # vae "This means you will have to pass the initiation exam."
     vae ""
 
-# GeneralPathBegins_0a7f0779 (line 25231)
-translate ru GeneralPathBegins_0a7f0779:
+# GeneralPathBegins_4fbcc82b (line 25231)
+translate ru GeneralPathBegins_4fbcc82b:
     # "Vaelen gestures at Kate."
     ""
 
-# GeneralPathBegins_be8d4143 (line 25232)
-translate ru GeneralPathBegins_be8d4143:
+# GeneralPathBegins_0709527b (line 25232)
+translate ru GeneralPathBegins_0709527b:
     # vae "Kate can tell you more about it. She passed it, same as any other member."
     vae ""
 
-# GeneralPathBegins_da742064 (line 25233)
-translate ru GeneralPathBegins_da742064:
+# GeneralPathBegins_ab1cf76e (line 25233)
+translate ru GeneralPathBegins_ab1cf76e:
     # "For some reason, Sarah had presumed she would be admitted on the basis of her station."
     ""
 
-# GeneralPathBegins_6b064ff9 (line 25234)
-translate ru GeneralPathBegins_6b064ff9:
+# GeneralPathBegins_eb909332 (line 25234)
+translate ru GeneralPathBegins_eb909332:
     # "But this was a new world for Sarah. Here, her title didn't mean much of anything."
     ""
 
-# GeneralPathBegins_b663330a (line 25235)
-translate ru GeneralPathBegins_b663330a:
+# GeneralPathBegins_7159ed81 (line 25235)
+translate ru GeneralPathBegins_7159ed81:
     # "And with Rosanna now fallen, Sarah had no fortune, no castle and no army to support her claims."
     ""
 
-# GeneralPathBegins_66890944 (line 25236)
-translate ru GeneralPathBegins_66890944:
+# GeneralPathBegins_82db84c5 (line 25236)
+translate ru GeneralPathBegins_82db84c5:
     # "She would have to demonstrate that she was worthy, not by name, but by skill."
     ""
 
-# GeneralPathBegins_4773b458 (line 25238)
-translate ru GeneralPathBegins_4773b458:
+# GeneralPathBegins_aa36e5ae (line 25238)
+translate ru GeneralPathBegins_aa36e5ae:
     # "Sarah and Kate bowed, before turning and leaving Vaelen's tent."
     ""
 
-# GeneralPathBegins_8347c55d (line 25244)
-translate ru GeneralPathBegins_8347c55d:
+# GeneralPathBegins_17756434 (line 25244)
+translate ru GeneralPathBegins_17756434:
     # "Once outside, Sarah turned to Kate."
     ""
 
-# GeneralPathBegins_aa47ab52 (line 25245)
-translate ru GeneralPathBegins_aa47ab52:
+# GeneralPathBegins_c8cef780 (line 25245)
+translate ru GeneralPathBegins_c8cef780:
     # s "What can you tell me about the initiation?"
     s ""
 
-# GeneralPathBegins_c74493ce (line 25246)
-translate ru GeneralPathBegins_c74493ce:
+# GeneralPathBegins_f3e826bc (line 25246)
+translate ru GeneralPathBegins_f3e826bc:
     # k "It's a series of tests, designed to see that if have what it takes to be a soldier."
     k ""
 
-# GeneralPathBegins_cdcc9308 (line 25247)
-translate ru GeneralPathBegins_cdcc9308:
+# GeneralPathBegins_748dca7d (line 25247)
+translate ru GeneralPathBegins_748dca7d:
     # s "Do you think I can be one?"
     s ""
 
-# GeneralPathBegins_a09935d7 (line 25248)
-translate ru GeneralPathBegins_a09935d7:
+# GeneralPathBegins_23902db4 (line 25248)
+translate ru GeneralPathBegins_23902db4:
     # "Kate looked up and down at Sarah."
     ""
 
-# GeneralPathBegins_992c5d1e (line 25249)
-translate ru GeneralPathBegins_992c5d1e:
+# GeneralPathBegins_33150465 (line 25249)
+translate ru GeneralPathBegins_33150465:
     # k "Right now? No, I don't think you would pass."
     k ""
 
-# GeneralPathBegins_5794cc78 (line 25250)
-translate ru GeneralPathBegins_5794cc78:
+# GeneralPathBegins_281becfc (line 25250)
+translate ru GeneralPathBegins_281becfc:
     # "Kate was blunt, but honest."
     ""
 
-# GeneralPathBegins_e2afa192 (line 25251)
-translate ru GeneralPathBegins_e2afa192:
+# GeneralPathBegins_95a09520 (line 25251)
+translate ru GeneralPathBegins_95a09520:
     # k "But the upside is, you can train for it. It's really not an impossible test, with the right training, I imagine anyone could learn to pass it."
     k ""
 
-# GeneralPathBegins_551a0562 (line 25252)
-translate ru GeneralPathBegins_551a0562:
+# GeneralPathBegins_36a2805b (line 25252)
+translate ru GeneralPathBegins_36a2805b:
     # k "It's just a matter of having the endurance and the willpower to train."
     k ""
 
-# GeneralPathBegins_51373354 (line 25253)
-translate ru GeneralPathBegins_51373354:
+# GeneralPathBegins_b73adda0 (line 25253)
+translate ru GeneralPathBegins_b73adda0:
     # "Kate grabbed Sarah by the shoulders."
     ""
 
-# GeneralPathBegins_505a7c8e (line 25254)
-translate ru GeneralPathBegins_505a7c8e:
+# GeneralPathBegins_63d4eb44 (line 25254)
+translate ru GeneralPathBegins_63d4eb44:
     # k "I know you can do it. You have more willpower than anyone I know. Find yourself a mentor, and you will succeed, I just know it."
     k ""
 
-# GeneralPathBegins_fef955d4 (line 25255)
-translate ru GeneralPathBegins_fef955d4:
+# GeneralPathBegins_1626b367 (line 25255)
+translate ru GeneralPathBegins_1626b367:
     # "Kate smiled at her."
     ""
 
-# GeneralPathBegins_ebde26d8 (line 25256)
-translate ru GeneralPathBegins_ebde26d8:
+# GeneralPathBegins_957b9d77 (line 25256)
+translate ru GeneralPathBegins_957b9d77:
     # k "And then we'll be soldiers, together."
     k ""
 

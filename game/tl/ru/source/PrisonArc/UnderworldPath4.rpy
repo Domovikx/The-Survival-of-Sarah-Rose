@@ -3,583 +3,583 @@
 # Scene: UnderworldPath4
 # Total blocks: 116
 
-# UnderworldPath4_abfa6aa9 (line 61300)
-translate ru UnderworldPath4_abfa6aa9:
+# UnderworldPath4_c2930f5e (line 61300)
+translate ru UnderworldPath4_c2930f5e:
     # "Sarah woke early the next morning."
     ""
 
-# UnderworldPath4_ef9bb74b (line 61301)
-translate ru UnderworldPath4_ef9bb74b:
+# UnderworldPath4_faf4d738 (line 61301)
+translate ru UnderworldPath4_faf4d738:
     # "Turning around, she saw that he was already gone."
     ""
 
-# UnderworldPath4_e69d9877 (line 61302)
-translate ru UnderworldPath4_e69d9877:
+# UnderworldPath4_5c306fcf (line 61302)
+translate ru UnderworldPath4_5c306fcf:
     # "She considered turning back over and getting some more rest, but a sound near the end of the alley drew her attention."
     ""
 
-# UnderworldPath4_1f3c1d57 (line 61303)
-translate ru UnderworldPath4_1f3c1d57:
+# UnderworldPath4_c34c2e16 (line 61303)
+translate ru UnderworldPath4_c34c2e16:
     # "Something made out of wood, like a crate, clattered hard against the cobblestone."
     ""
 
-# UnderworldPath4_f2bb6898 (line 61304)
-translate ru UnderworldPath4_f2bb6898:
+# UnderworldPath4_3a5544ee (line 61304)
+translate ru UnderworldPath4_3a5544ee:
     # "A city like Lethram was always filled with various noises, but Sarah had learned by now that people rarely came to this particular alley."
     ""
 
-# UnderworldPath4_cd548926 (line 61305)
-translate ru UnderworldPath4_cd548926:
+# UnderworldPath4_bd56e2e5 (line 61305)
+translate ru UnderworldPath4_bd56e2e5:
     # "Voices."
     ""
 
-# UnderworldPath4_0b19c02b (line 61306)
-translate ru UnderworldPath4_0b19c02b:
+# UnderworldPath4_3950c644 (line 61306)
+translate ru UnderworldPath4_3950c644:
     # "She couldn't make out what they were saying, but it was the tone that made her heart skip."
     ""
 
-# UnderworldPath4_5e275c6b (line 61307)
-translate ru UnderworldPath4_5e275c6b:
+# UnderworldPath4_953dab9d (line 61307)
+translate ru UnderworldPath4_953dab9d:
     # "Sarah knew how soldiers and guards sounded, their authoritative tone."
     ""
 
-# UnderworldPath4_5da2e104 (line 61310)
-translate ru UnderworldPath4_5da2e104:
+# UnderworldPath4_b963a44a (line 61310)
+translate ru UnderworldPath4_b963a44a:
     # "For now, this is where the story ends."
     ""
 
-# UnderworldPath4_268c478e (line 61315)
-translate ru UnderworldPath4_268c478e:
+# UnderworldPath4_e1175797 (line 61315)
+translate ru UnderworldPath4_e1175797:
     # "Run"
     "Run" ""
 
-# UnderworldPath4_752bccd0 (line 61317)
-translate ru UnderworldPath4_752bccd0:
+# UnderworldPath4_aef11950 (line 61317)
+translate ru UnderworldPath4_aef11950:
     # "Hide"
     "Hide" ""
 
-# UnderworldPath4_c8e189c2 (line 61320)
-translate ru UnderworldPath4_c8e189c2:
+# UnderworldPath4_d6ce066b (line 61320)
+translate ru UnderworldPath4_d6ce066b:
     # "For now, this is where the story ends."
     ""
 
-# UnderworldPath4_3806485b (line 61323)
-translate ru UnderworldPath4_3806485b:
+# UnderworldPath4_2c20ef22 (line 61323)
+translate ru UnderworldPath4_2c20ef22:
     # "There was nowhere to go. If she made a run for it, they'd surely catch her."
     ""
 
-# UnderworldPath4_49b33cbd (line 61324)
-translate ru UnderworldPath4_49b33cbd:
+# UnderworldPath4_67a4725f (line 61324)
+translate ru UnderworldPath4_67a4725f:
     # "Sarah laid back down in the bed and pulled the covers over herself."
     ""
 
-# UnderworldPath4_3c4cd941 (line 61325)
-translate ru UnderworldPath4_3c4cd941:
+# UnderworldPath4_8373ce2c (line 61325)
+translate ru UnderworldPath4_8373ce2c:
     # "As she laid, trembling, she heard the sounds of the footsteps drawing closer."
     ""
 
-# UnderworldPath4_f18e9c1f (line 61326)
-translate ru UnderworldPath4_f18e9c1f:
+# UnderworldPath4_e6c28fe7 (line 61326)
+translate ru UnderworldPath4_e6c28fe7:
     # "Their heavy, coarse voices."
     ""
 
-# UnderworldPath4_aa7c2a61 (line 61327)
-translate ru UnderworldPath4_aa7c2a61:
+# UnderworldPath4_201582f7 (line 61327)
+translate ru UnderworldPath4_201582f7:
     # "Guard Captain" "They're here somewhere!"
     ""
 
-# UnderworldPath4_e94e8229 (line 61328)
-translate ru UnderworldPath4_e94e8229:
+# UnderworldPath4_ca83717f (line 61328)
+translate ru UnderworldPath4_ca83717f:
     # "Guard Captain" "Tear up everything if you have to!"
     ""
 
-# UnderworldPath4_241faa16 (line 61329)
-translate ru UnderworldPath4_241faa16:
+# UnderworldPath4_a28f47c1 (line 61329)
+translate ru UnderworldPath4_a28f47c1:
     # "Sarah heard men begin to smash crates."
     ""
 
-# UnderworldPath4_a6ca664f (line 61330)
-translate ru UnderworldPath4_a6ca664f:
+# UnderworldPath4_dd5d37ef (line 61330)
+translate ru UnderworldPath4_dd5d37ef:
     # "The violent sounds grew louder and louder as they came nearer."
     ""
 
-# UnderworldPath4_0f64a044 (line 61331)
-translate ru UnderworldPath4_0f64a044:
+# UnderworldPath4_cca73eec (line 61331)
+translate ru UnderworldPath4_cca73eec:
     # "Guard" "Sir!"
     ""
 
-# UnderworldPath4_902bc0d9 (line 61332)
-translate ru UnderworldPath4_902bc0d9:
+# UnderworldPath4_f7814848 (line 61332)
+translate ru UnderworldPath4_f7814848:
     # "Sarah could hear his voice so close, as if he was right next to her."
     ""
 
-# UnderworldPath4_ca790980 (line 61333)
-translate ru UnderworldPath4_ca790980:
+# UnderworldPath4_98578c8c (line 61333)
+translate ru UnderworldPath4_98578c8c:
     # "She felt her heart pounding in her chest."
     ""
 
-# UnderworldPath4_948be53c (line 61334)
-translate ru UnderworldPath4_948be53c:
+# UnderworldPath4_9e6a60b6 (line 61334)
+translate ru UnderworldPath4_9e6a60b6:
     # "This had been a mistake."
     ""
 
-# UnderworldPath4_d224b4df (line 61335)
-translate ru UnderworldPath4_d224b4df:
+# UnderworldPath4_7b7d685c (line 61335)
+translate ru UnderworldPath4_7b7d685c:
     # "Guard" "There's a tent here!"
     ""
 
-# UnderworldPath4_a29397de (line 61336)
-translate ru UnderworldPath4_a29397de:
+# UnderworldPath4_62a6c4ad (line 61336)
+translate ru UnderworldPath4_62a6c4ad:
     # "The sounds of more plated boots, drawing closer."
     ""
 
-# UnderworldPath4_50a4a081 (line 61337)
-translate ru UnderworldPath4_50a4a081:
+# UnderworldPath4_79bfeb62 (line 61337)
+translate ru UnderworldPath4_79bfeb62:
     # "Sarah pulled the cover over herself as if it might offer some protection."
     ""
 
-# UnderworldPath4_8691c2a8 (line 61338)
-translate ru UnderworldPath4_8691c2a8:
+# UnderworldPath4_6f8aadd7 (line 61338)
+translate ru UnderworldPath4_6f8aadd7:
     # "A brief few seconds more, before they'd catch her."
     ""
 
-# UnderworldPath4_af4a7cc4 (line 61339)
-translate ru UnderworldPath4_af4a7cc4:
+# UnderworldPath4_b98bf7b0 (line 61339)
+translate ru UnderworldPath4_b98bf7b0:
     # "Guard Captain" "Good work. Rip this apart!"
     ""
 
-# UnderworldPath4_4060d02d (line 61340)
-translate ru UnderworldPath4_4060d02d:
+# UnderworldPath4_1ef72868 (line 61340)
+translate ru UnderworldPath4_1ef72868:
     # "Sarah heard them tearing away the thin fabric that made up her tent. What now passed for a home."
     ""
 
-# UnderworldPath4_2d861104 (line 61341)
-translate ru UnderworldPath4_2d861104:
+# UnderworldPath4_89730696 (line 61341)
+translate ru UnderworldPath4_89730696:
     # "She remained still, trembling under the covers."
     ""
 
-# UnderworldPath4_590dd32a (line 61342)
-translate ru UnderworldPath4_590dd32a:
+# UnderworldPath4_603b1cbc (line 61342)
+translate ru UnderworldPath4_603b1cbc:
     # "Guard Captain" "Girl, the game is up."
     ""
 
-# UnderworldPath4_0a220174 (line 61343)
-translate ru UnderworldPath4_0a220174:
+# UnderworldPath4_b9e6ecb2 (line 61343)
+translate ru UnderworldPath4_b9e6ecb2:
     # "Guard Captain" "Crawl out from under there before I make my men drag you out."
     ""
 
-# UnderworldPath4_30e31032 (line 61344)
-translate ru UnderworldPath4_30e31032:
+# UnderworldPath4_90faf663 (line 61344)
+translate ru UnderworldPath4_90faf663:
     # "Sarah slowly pulled the covers away."
     ""
 
-# UnderworldPath4_2e74ddb1 (line 61345)
-translate ru UnderworldPath4_2e74ddb1:
+# UnderworldPath4_8aa708ca (line 61345)
+translate ru UnderworldPath4_8aa708ca:
     # s "Sir..."
     s ""
 
-# UnderworldPath4_8362d527 (line 61346)
-translate ru UnderworldPath4_8362d527:
+# UnderworldPath4_3f380854 (line 61346)
+translate ru UnderworldPath4_3f380854:
     # "Her voice was soft."
     ""
 
-# UnderworldPath4_febe668e (line 61347)
-translate ru UnderworldPath4_febe668e:
+# UnderworldPath4_b977880b (line 61347)
+translate ru UnderworldPath4_b977880b:
     # s "I didn't do anything, I was just sleeping here, I swear that I-"
     s ""
 
-# UnderworldPath4_d4493288 (line 61348)
-translate ru UnderworldPath4_d4493288:
+# UnderworldPath4_8bdd86d1 (line 61348)
+translate ru UnderworldPath4_8bdd86d1:
     # "Guard Captain" "Spare me the excuses, rat."
     ""
 
-# UnderworldPath4_f08697de (line 61349)
-translate ru UnderworldPath4_f08697de:
+# UnderworldPath4_7edd9d48 (line 61349)
+translate ru UnderworldPath4_7edd9d48:
     # "He snapped his fingers."
     ""
 
-# UnderworldPath4_c0314bf9 (line 61350)
-translate ru UnderworldPath4_c0314bf9:
+# UnderworldPath4_a233ece5 (line 61350)
+translate ru UnderworldPath4_a233ece5:
     # "Guard Captain" "Grab her! And put the irons on her, I don't want her running away."
     ""
 
-# UnderworldPath4_b11c43d2 (line 61351)
-translate ru UnderworldPath4_b11c43d2:
+# UnderworldPath4_e82e073a (line 61351)
+translate ru UnderworldPath4_e82e073a:
     # "The guards loomed large in front of her."
     ""
 
-# UnderworldPath4_108767cf (line 61352)
-translate ru UnderworldPath4_108767cf:
+# UnderworldPath4_23b519a5 (line 61352)
+translate ru UnderworldPath4_23b519a5:
     # "Sarah tried to move, but she was too slow."
     ""
 
-# UnderworldPath4_f615e3ed (line 61353)
-translate ru UnderworldPath4_f615e3ed:
+# UnderworldPath4_dc27f44e (line 61353)
+translate ru UnderworldPath4_dc27f44e:
     # "She could feel their grips close around her wrist, holding her down."
     ""
 
-# UnderworldPath4_6fed7d5f (line 61354)
-translate ru UnderworldPath4_6fed7d5f:
+# UnderworldPath4_4d908ee2 (line 61354)
+translate ru UnderworldPath4_4d908ee2:
     # "Hands, covered in armor, closed around her mouth."
     ""
 
-# UnderworldPath4_ad725c77 (line 61355)
-translate ru UnderworldPath4_ad725c77:
+# UnderworldPath4_d0ac0cfb (line 61355)
+translate ru UnderworldPath4_d0ac0cfb:
     # "She tried to scream, but it was no use."
     ""
 
-# UnderworldPath4_4a5788fe (line 61356)
-translate ru UnderworldPath4_4a5788fe:
+# UnderworldPath4_f4a472bf (line 61356)
+translate ru UnderworldPath4_f4a472bf:
     # "For a moment, she twisted and wrung her body, hoping to break free, but then they pulled and twisted her arm, pinning it on her back."
     ""
 
-# UnderworldPath4_429d3d1f (line 61357)
-translate ru UnderworldPath4_429d3d1f:
+# UnderworldPath4_4478bb1f (line 61357)
+translate ru UnderworldPath4_4478bb1f:
     # "With unstoppable force, Sarah felt herself pinned up against the ground."
     ""
 
-# UnderworldPath4_d5504140 (line 61358)
-translate ru UnderworldPath4_d5504140:
+# UnderworldPath4_8c9e154d (line 61358)
+translate ru UnderworldPath4_8c9e154d:
     # "Guard" "Struggle some more and I'll break you arm, rat!"
     ""
 
-# UnderworldPath4_fdcbab73 (line 61359)
-translate ru UnderworldPath4_fdcbab73:
+# UnderworldPath4_13e609f3 (line 61359)
+translate ru UnderworldPath4_13e609f3:
     # "She could feel the breath escape her lungs as he pushed her harder up against the wall."
     ""
 
-# UnderworldPath4_bc09c821 (line 61360)
-translate ru UnderworldPath4_bc09c821:
+# UnderworldPath4_90d59de5 (line 61360)
+translate ru UnderworldPath4_90d59de5:
     # "Guard" "They're gonna hang you for this, thief."
     ""
 
-# UnderworldPath4_1e567514 (line 61361)
-translate ru UnderworldPath4_1e567514:
+# UnderworldPath4_7e91cf26 (line 61361)
+translate ru UnderworldPath4_7e91cf26:
     # "Sarah wanted to scream. Cry. Beg."
     ""
 
-# UnderworldPath4_7a54648a (line 61362)
-translate ru UnderworldPath4_7a54648a:
+# UnderworldPath4_e4f53f1f (line 61362)
+translate ru UnderworldPath4_e4f53f1f:
     # "But she could do none of it."
     ""
 
-# UnderworldPath4_14ae7dbe (line 61363)
-translate ru UnderworldPath4_14ae7dbe:
+# UnderworldPath4_719ded67 (line 61363)
+translate ru UnderworldPath4_719ded67:
     # "She prayed Alaric would save her again, but this time, he was nowhere to be found."
     ""
 
-# UnderworldPath4_08718cc4 (line 61364)
-translate ru UnderworldPath4_08718cc4:
+# UnderworldPath4_42c3cffc (line 61364)
+translate ru UnderworldPath4_42c3cffc:
     # "She heard the sounds of metal boots stomping against the ground."
     ""
 
-# UnderworldPath4_31c5fe50 (line 61365)
-translate ru UnderworldPath4_31c5fe50:
+# UnderworldPath4_1145411f (line 61365)
+translate ru UnderworldPath4_1145411f:
     # "Around the corner, more and more guards rushed in."
     ""
 
-# UnderworldPath4_cdd57220 (line 61366)
-translate ru UnderworldPath4_cdd57220:
+# UnderworldPath4_216930b5 (line 61366)
+translate ru UnderworldPath4_216930b5:
     # "From the corner of her eyes, Sarah could spot them. Too many to count."
     ""
 
-# UnderworldPath4_6d8d0ac3 (line 61367)
-translate ru UnderworldPath4_6d8d0ac3:
+# UnderworldPath4_fe087c45 (line 61367)
+translate ru UnderworldPath4_fe087c45:
     # "Even if Alaric came for her now, he'd just be cut down."
     ""
 
-# UnderworldPath4_075048ed (line 61368)
-translate ru UnderworldPath4_075048ed:
+# UnderworldPath4_7da40bd7 (line 61368)
+translate ru UnderworldPath4_7da40bd7:
     # "It was over."
     ""
 
-# UnderworldPath4_e85de696 (line 61369)
-translate ru UnderworldPath4_e85de696:
+# UnderworldPath4_1a8128f1 (line 61369)
+translate ru UnderworldPath4_1a8128f1:
     # "Sarah felt a hood pulled over her head."
     ""
 
-# UnderworldPath4_b52e41e1 (line 61375)
-translate ru UnderworldPath4_b52e41e1:
+# UnderworldPath4_482ff582 (line 61375)
+translate ru UnderworldPath4_482ff582:
     # "Ropes slipped through her wrists, binding her arms, then her legs."
     ""
 
-# UnderworldPath4_984eb7ea (line 61376)
-translate ru UnderworldPath4_984eb7ea:
+# UnderworldPath4_cdb4e71a (line 61376)
+translate ru UnderworldPath4_cdb4e71a:
     # "Before long, she couldn't move. See. Even the sound around her were muted."
     ""
 
-# UnderworldPath4_c93b61e8 (line 61377)
-translate ru UnderworldPath4_c93b61e8:
+# UnderworldPath4_826c736d (line 61377)
+translate ru UnderworldPath4_826c736d:
     # "The only thing she could hear were their taunts and threats."
     ""
 
-# UnderworldPath4_083baf3c (line 61378)
-translate ru UnderworldPath4_083baf3c:
+# UnderworldPath4_ac22a2bc (line 61378)
+translate ru UnderworldPath4_ac22a2bc:
     # "She could feel more hands close around her body as they began to move her."
     ""
 
-# UnderworldPath4_3313dd59 (line 61379)
-translate ru UnderworldPath4_3313dd59:
+# UnderworldPath4_c5016f85 (line 61379)
+translate ru UnderworldPath4_c5016f85:
     # "Sarah had no way to fight them, all she could do was let herself be taken by them."
     ""
 
-# UnderworldPath4_db68c742 (line 61380)
-translate ru UnderworldPath4_db68c742:
+# UnderworldPath4_665c1239 (line 61380)
+translate ru UnderworldPath4_665c1239:
     # "They kept the hood over her head for long enough that Sarah began to doubt what time it was."
     ""
 
-# UnderworldPath4_fa117854 (line 61381)
-translate ru UnderworldPath4_fa117854:
+# UnderworldPath4_eec31fb6 (line 61381)
+translate ru UnderworldPath4_eec31fb6:
     # "Hours? She wasn't sure."
     ""
 
-# UnderworldPath4_7fb27f53 (line 61382)
-translate ru UnderworldPath4_7fb27f53:
+# UnderworldPath4_758f60ae (line 61382)
+translate ru UnderworldPath4_758f60ae:
     # "They had sat her down somewhere, but nobody told her anything. There was only the darkness."
     ""
 
-# UnderworldPath4_1bf2f1d3 (line 61383)
-translate ru UnderworldPath4_1bf2f1d3:
+# UnderworldPath4_7a9d59ca (line 61383)
+translate ru UnderworldPath4_7a9d59ca:
     # "After hours more, finally, the hood was pulled off."
     ""
 
-# UnderworldPath4_7579411d (line 61389)
-translate ru UnderworldPath4_7579411d:
+# UnderworldPath4_46e5f62a (line 61389)
+translate ru UnderworldPath4_46e5f62a:
     # "For a moment, Sarah tried to process."
     ""
 
-# UnderworldPath4_da879949 (line 61390)
-translate ru UnderworldPath4_da879949:
+# UnderworldPath4_c967592c (line 61390)
+translate ru UnderworldPath4_c967592c:
     # "Not only was it the sudden light, but also the room itself. She'd never been here before. It all seemed so alien to her."
     ""
 
-# UnderworldPath4_bb322f05 (line 61392)
-translate ru UnderworldPath4_bb322f05:
+# UnderworldPath4_e2ad88d4 (line 61392)
+translate ru UnderworldPath4_e2ad88d4:
     # "A man sat opposite of her. The man that had removed the hood."
     ""
 
-# UnderworldPath4_9e338f2c (line 61393)
-translate ru UnderworldPath4_9e338f2c:
+# UnderworldPath4_521d3d4a (line 61393)
+translate ru UnderworldPath4_521d3d4a:
     # "His attitude and the adornments on his armor told her he was important."
     ""
 
-# UnderworldPath4_605820aa (line 61394)
-translate ru UnderworldPath4_605820aa:
+# UnderworldPath4_e3f837ca (line 61394)
+translate ru UnderworldPath4_e3f837ca:
     # "Guard Captain" "You're in a lot of trouble."
     ""
 
-# UnderworldPath4_4053b250 (line 61395)
-translate ru UnderworldPath4_4053b250:
+# UnderworldPath4_4ef52a06 (line 61395)
+translate ru UnderworldPath4_4ef52a06:
     # s "Sir!"
     s ""
 
-# UnderworldPath4_7e73102c (line 61396)
-translate ru UnderworldPath4_7e73102c:
+# UnderworldPath4_b08a0718 (line 61396)
+translate ru UnderworldPath4_b08a0718:
     # s "I...I don't know what this is about, but I promise you, this is a mistake!"
     s ""
 
-# UnderworldPath4_83d4ed15 (line 61397)
-translate ru UnderworldPath4_83d4ed15:
+# UnderworldPath4_172958a9 (line 61397)
+translate ru UnderworldPath4_172958a9:
     # "The man reached out and slapped her across the face."
     ""
 
-# UnderworldPath4_ffd0a305 (line 61398)
-translate ru UnderworldPath4_ffd0a305:
+# UnderworldPath4_276cf041 (line 61398)
+translate ru UnderworldPath4_276cf041:
     # "Sarah felt her face begin to burn."
     ""
 
-# UnderworldPath4_73808290 (line 61399)
-translate ru UnderworldPath4_73808290:
+# UnderworldPath4_3f68d8df (line 61399)
+translate ru UnderworldPath4_3f68d8df:
     # "More than the pain of the slap was the surprise of it. Guards...these were honorable people, Sarah thought. How could they do this?"
     ""
 
-# UnderworldPath4_22795bff (line 61400)
-translate ru UnderworldPath4_22795bff:
+# UnderworldPath4_ca8ff454 (line 61400)
+translate ru UnderworldPath4_ca8ff454:
     # "Guard Captain" "Let me make something very clear to you."
     ""
 
-# UnderworldPath4_994aa4cb (line 61401)
-translate ru UnderworldPath4_994aa4cb:
+# UnderworldPath4_96866b41 (line 61401)
+translate ru UnderworldPath4_96866b41:
     # "Guard Captain" "I keep the order in this part of town. I keep that order in whatever way I see fit."
     ""
 
-# UnderworldPath4_b5d66160 (line 61402)
-translate ru UnderworldPath4_b5d66160:
+# UnderworldPath4_3415f795 (line 61402)
+translate ru UnderworldPath4_3415f795:
     # "Guard Captain" "I act under direct authority of the city council."
     ""
 
-# UnderworldPath4_b477208a (line 61403)
-translate ru UnderworldPath4_b477208a:
+# UnderworldPath4_8a3502d7 (line 61403)
+translate ru UnderworldPath4_8a3502d7:
     # "Guard Captain" "Thievin rats like you and your buddy disrupt that order for all the good citizens of Lethram. The law-abiding citizens."
     ""
 
-# UnderworldPath4_6c92c6a6 (line 61404)
-translate ru UnderworldPath4_6c92c6a6:
+# UnderworldPath4_b321de7b (line 61404)
+translate ru UnderworldPath4_b321de7b:
     # "Guard Captain" "So, when I-"
     ""
 
-# UnderworldPath4_ee2e03d8 (line 61405)
-translate ru UnderworldPath4_ee2e03d8:
+# UnderworldPath4_0e2b56ec (line 61405)
+translate ru UnderworldPath4_0e2b56ec:
     # s "Please, captain, I-"
     s ""
 
-# UnderworldPath4_2cf011ee (line 61406)
-translate ru UnderworldPath4_2cf011ee:
+# UnderworldPath4_327a8c61 (line 61406)
+translate ru UnderworldPath4_327a8c61:
     # "Another smack followed, this one even more harsh than the last."
     ""
 
-# UnderworldPath4_47189bf3 (line 61407)
-translate ru UnderworldPath4_47189bf3:
+# UnderworldPath4_01c2b692 (line 61407)
+translate ru UnderworldPath4_01c2b692:
     # "Guard Captain" "You speak when spoken to. Do you understand that?!"
     ""
 
-# UnderworldPath4_82793df3 (line 61408)
-translate ru UnderworldPath4_82793df3:
+# UnderworldPath4_45bd52e9 (line 61408)
+translate ru UnderworldPath4_45bd52e9:
     # "His voice roared through the small room."
     ""
 
-# UnderworldPath4_cfa90c2c (line 61409)
-translate ru UnderworldPath4_cfa90c2c:
+# UnderworldPath4_e01ca463 (line 61409)
+translate ru UnderworldPath4_e01ca463:
     # "Sarah struggled to suppres her instinct to cry, forcing herself to be calm."
     ""
 
-# UnderworldPath4_2f17e06e (line 61410)
-translate ru UnderworldPath4_2f17e06e:
+# UnderworldPath4_9b52e4a8 (line 61410)
+translate ru UnderworldPath4_9b52e4a8:
     # s "Yes...sir..."
     s ""
 
-# UnderworldPath4_49d2dfdf (line 61411)
-translate ru UnderworldPath4_49d2dfdf:
+# UnderworldPath4_d4dd66ca (line 61411)
+translate ru UnderworldPath4_d4dd66ca:
     # "Guard Captain" "Good."
     ""
 
-# UnderworldPath4_b21964f6 (line 61412)
-translate ru UnderworldPath4_b21964f6:
+# UnderworldPath4_05818313 (line 61412)
+translate ru UnderworldPath4_05818313:
     # "Guard Captain" "Now, as I was saying, when I vow to do everything to protect the order in this city, I mean that."
     ""
 
-# UnderworldPath4_3eb07c23 (line 61413)
-translate ru UnderworldPath4_3eb07c23:
+# UnderworldPath4_6c1971e9 (line 61413)
+translate ru UnderworldPath4_6c1971e9:
     # "The man cleared his throat and began to read from a sheet of paper."
     ""
 
-# UnderworldPath4_6a09919f (line 61414)
-translate ru UnderworldPath4_6a09919f:
+# UnderworldPath4_b0a1bb63 (line 61414)
+translate ru UnderworldPath4_b0a1bb63:
     # "Guard Captain" "You and your co-conspirator match a description for two criminals seen operating at a nearby market."
     ""
 
-# UnderworldPath4_0bb65216 (line 61415)
-translate ru UnderworldPath4_0bb65216:
+# UnderworldPath4_11aa88fd (line 61415)
+translate ru UnderworldPath4_11aa88fd:
     # "Guard Captain" "The witness is reliable enough, but I want to wrap this case up nice and tidy."
     ""
 
-# UnderworldPath4_26d543c1 (line 61416)
-translate ru UnderworldPath4_26d543c1:
+# UnderworldPath4_f8e1a217 (line 61416)
+translate ru UnderworldPath4_f8e1a217:
     # "The man leaned in."
     ""
 
-# UnderworldPath4_83529b9f (line 61417)
-translate ru UnderworldPath4_83529b9f:
+# UnderworldPath4_561ab7ad (line 61417)
+translate ru UnderworldPath4_561ab7ad:
     # "Guard Captain" "So listen her, girly, I know you ain't the one to blame."
     ""
 
-# UnderworldPath4_bd804a12 (line 61418)
-translate ru UnderworldPath4_bd804a12:
+# UnderworldPath4_c2f7721d (line 61418)
+translate ru UnderworldPath4_c2f7721d:
     # "Guard Captain" "It was that fucking lowlife partner of yours. He got you all twisted and on the wrong path."
     ""
 
-# UnderworldPath4_09bfa045 (line 61419)
-translate ru UnderworldPath4_09bfa045:
+# UnderworldPath4_684c5a84 (line 61419)
+translate ru UnderworldPath4_684c5a84:
     # "Guard Captain" "You look like a good girl, a decent person. You know stealin is wrong."
     ""
 
-# UnderworldPath4_6b71ef0a (line 61420)
-translate ru UnderworldPath4_6b71ef0a:
+# UnderworldPath4_d691a594 (line 61420)
+translate ru UnderworldPath4_d691a594:
     # "The man pointed over towards the wall."
     ""
 
-# UnderworldPath4_e2ea1a17 (line 61421)
-translate ru UnderworldPath4_e2ea1a17:
+# UnderworldPath4_23635264 (line 61421)
+translate ru UnderworldPath4_23635264:
     # "Guard Captain" "Can you believe that lowlife is sitting in the room next door, trying to pin this all on you?"
     ""
 
-# UnderworldPath4_3e14e186 (line 61422)
-translate ru UnderworldPath4_3e14e186:
+# UnderworldPath4_fe6aee6a (line 61422)
+translate ru UnderworldPath4_fe6aee6a:
     # "Guard Captain" "Said you corrupted him, seduced him to do this."
     ""
 
-# UnderworldPath4_eda798f3 (line 61423)
-translate ru UnderworldPath4_eda798f3:
+# UnderworldPath4_636c8b58 (line 61423)
+translate ru UnderworldPath4_636c8b58:
     # "The man shook his head."
     ""
 
-# UnderworldPath4_0fedbe78 (line 61424)
-translate ru UnderworldPath4_0fedbe78:
+# UnderworldPath4_8d85e7a1 (line 61424)
+translate ru UnderworldPath4_8d85e7a1:
     # "Guard Captain" "Disgusting what they'll say just to get out from a charge."
     ""
 
-# UnderworldPath4_3f14a60f (line 61425)
-translate ru UnderworldPath4_3f14a60f:
+# UnderworldPath4_cd6c54be (line 61425)
+translate ru UnderworldPath4_cd6c54be:
     # "Guard Captain" "So tell you what. You confess and testify your friend in the room over was the one with the scheme, and I'll put in a good word for you."
     ""
 
-# UnderworldPath4_6fe37b86 (line 61426)
-translate ru UnderworldPath4_6fe37b86:
+# UnderworldPath4_c128a688 (line 61426)
+translate ru UnderworldPath4_c128a688:
     # "Guard Captain" "I can't promise no time, but maybe just a few weeks in a labour house."
     ""
 
-# UnderworldPath4_4330c756 (line 61427)
-translate ru UnderworldPath4_4330c756:
+# UnderworldPath4_51315981 (line 61427)
+translate ru UnderworldPath4_51315981:
     # "The man leaned back in his chair."
     ""
 
-# UnderworldPath4_a1168ae4 (line 61428)
-translate ru UnderworldPath4_a1168ae4:
+# UnderworldPath4_44669613 (line 61428)
+translate ru UnderworldPath4_44669613:
     # "Guard Captain" "But tell you what girly, I also don't really give a fuck either which way."
     ""
 
-# UnderworldPath4_51c133c8 (line 61429)
-translate ru UnderworldPath4_51c133c8:
+# UnderworldPath4_d78db4a4 (line 61429)
+translate ru UnderworldPath4_d78db4a4:
     # "Guard Captain" "You say nothin, sure, we go with his testimony and we pin it all on you."
     ""
 
-# UnderworldPath4_f9486c84 (line 61430)
-translate ru UnderworldPath4_f9486c84:
+# UnderworldPath4_f1c4a5ee (line 61430)
+translate ru UnderworldPath4_f1c4a5ee:
     # "Sarah listend as the guard captain laid out her options."
     ""
 
-# UnderworldPath4_cb6e8888 (line 61431)
-translate ru UnderworldPath4_cb6e8888:
+# UnderworldPath4_ea810280 (line 61431)
+translate ru UnderworldPath4_ea810280:
     # "Testify against Alaric and she would be spared..."
     ""
 
-# UnderworldPath4_2f97c858 (line 61432)
-translate ru UnderworldPath4_2f97c858:
+# UnderworldPath4_0cffad50 (line 61432)
+translate ru UnderworldPath4_0cffad50:
     # "But what if he was lying? What if they didn't have anything and the captain was just bluffing?"
     ""
 
-# UnderworldPath4_6d1e9139 (line 61433)
-translate ru UnderworldPath4_6d1e9139:
+# UnderworldPath4_977cfcd8 (line 61433)
+translate ru UnderworldPath4_977cfcd8:
     # "She might send Alaric to prison for no reason at all, just because she got scared."
     ""
 
-# UnderworldPath4_82eb0e13 (line 61434)
-translate ru UnderworldPath4_82eb0e13:
+# UnderworldPath4_b3417eee (line 61434)
+translate ru UnderworldPath4_b3417eee:
     # "Sarah's mind raced."
     ""
 
-# UnderworldPath4_b27ee678 (line 61435)
-translate ru UnderworldPath4_b27ee678:
+# UnderworldPath4_8bd53d8a (line 61435)
+translate ru UnderworldPath4_8bd53d8a:
     # "Guard Captain" "Well? You got an answer for me, girly?"
     ""
 
-# UnderworldPath4_5a08fd2d (line 61439)
-translate ru UnderworldPath4_5a08fd2d:
+# UnderworldPath4_978cd802 (line 61439)
+translate ru UnderworldPath4_978cd802:
     # "Testify against Alaric"
     "Testify against Alaric" ""
 
-# UnderworldPath4_7598a825 (line 61443)
-translate ru UnderworldPath4_7598a825:
+# UnderworldPath4_68d72b47 (line 61443)
+translate ru UnderworldPath4_68d72b47:
     # "Refuse to answer his questions"
     "Refuse to answer his questions" ""
 

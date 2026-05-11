@@ -3,4153 +3,4153 @@
 # Scene: AlfredPath
 # Total blocks: 830
 
-# AlfredPath_e52ca211 (line 68673)
-translate ru AlfredPath_e52ca211:
+# AlfredPath_a61be5a2 (line 68673)
+translate ru AlfredPath_a61be5a2:
     # "Sarah heard the door to her room open softly."
     ""
 
-# AlfredPath_a1334a68 (line 68674)
-translate ru AlfredPath_a1334a68:
+# AlfredPath_41f6f136 (line 68674)
+translate ru AlfredPath_41f6f136:
     # "She didn't need to turn over to know it was Alfred."
     ""
 
-# AlfredPath_541bb9e3 (line 68675)
-translate ru AlfredPath_541bb9e3:
+# AlfredPath_a131ad03 (line 68675)
+translate ru AlfredPath_a131ad03:
     # "Of course, she thought."
     ""
 
-# AlfredPath_70f29701 (line 68676)
-translate ru AlfredPath_70f29701:
+# AlfredPath_584161b6 (line 68676)
+translate ru AlfredPath_584161b6:
     # "After what had happened in the yard during the day, it was no surprise he felt emboldened."
     ""
 
-# AlfredPath_09b2a617 (line 68677)
-translate ru AlfredPath_09b2a617:
+# AlfredPath_62f5357a (line 68677)
+translate ru AlfredPath_62f5357a:
     # "Sarah slowly stirred as Alfred approached."
     ""
 
-# AlfredPath_c4138f94 (line 68678)
-translate ru AlfredPath_c4138f94:
+# AlfredPath_af672851 (line 68678)
+translate ru AlfredPath_af672851:
     # s "Alfred..."
     s ""
 
-# AlfredPath_64e50db4 (line 68679)
-translate ru AlfredPath_64e50db4:
+# AlfredPath_2091d1a7 (line 68679)
+translate ru AlfredPath_2091d1a7:
     # alf "Shhh."
     alf ""
 
-# AlfredPath_2bd59f3a (line 68680)
-translate ru AlfredPath_2bd59f3a:
+# AlfredPath_9f779a76 (line 68680)
+translate ru AlfredPath_9f779a76:
     # "He shushed her, urging her to be silent."
     ""
 
-# AlfredPath_e3837bc9 (line 68681)
-translate ru AlfredPath_e3837bc9:
+# AlfredPath_175ccca5 (line 68681)
+translate ru AlfredPath_175ccca5:
     # "As per usual, she found herself obeying him."
     ""
 
-# AlfredPath_5e991b9f (line 68682)
-translate ru AlfredPath_5e991b9f:
+# AlfredPath_f75f8804 (line 68682)
+translate ru AlfredPath_f75f8804:
     # alf "I don't want you to wake my son."
     alf ""
 
-# AlfredPath_348ea999 (line 68683)
-translate ru AlfredPath_348ea999:
+# AlfredPath_454047f5 (line 68683)
+translate ru AlfredPath_454047f5:
     # "On that, the both of them agreed."
     ""
 
-# AlfredPath_de94b287 (line 68684)
-translate ru AlfredPath_de94b287:
+# AlfredPath_5feae63c (line 68684)
+translate ru AlfredPath_5feae63c:
     # "Alfred stopped at the edge of the bed."
     ""
 
-# AlfredPath_47fa0e0a (line 68685)
-translate ru AlfredPath_47fa0e0a:
+# AlfredPath_5cdaaa82 (line 68685)
+translate ru AlfredPath_5cdaaa82:
     # alf "I couldn't stop thinking about you."
     alf ""
 
-# AlfredPath_32461a99 (line 68686)
-translate ru AlfredPath_32461a99:
+# AlfredPath_ee4d5774 (line 68686)
+translate ru AlfredPath_ee4d5774:
     # "Sarah couldn't deny that she had suffered the same."
     ""
 
-# AlfredPath_5df8558d (line 68687)
-translate ru AlfredPath_5df8558d:
+# AlfredPath_ecb28b1d (line 68687)
+translate ru AlfredPath_ecb28b1d:
     # "Though she doubted her views of the events were quite as simple as his."
     ""
 
-# AlfredPath_210b992f (line 68688)
-translate ru AlfredPath_210b992f:
+# AlfredPath_5880e104 (line 68688)
+translate ru AlfredPath_5880e104:
     # "Again and again her mind had turned."
     ""
 
-# AlfredPath_d0a257fb (line 68689)
-translate ru AlfredPath_d0a257fb:
+# AlfredPath_469a8ab5 (line 68689)
+translate ru AlfredPath_469a8ab5:
     # "One moment repulsed by what she had allowed this old man to do."
     ""
 
-# AlfredPath_f88b4cad (line 68690)
-translate ru AlfredPath_f88b4cad:
+# AlfredPath_2ee056de (line 68690)
+translate ru AlfredPath_2ee056de:
     # "Then, a flush of memories, as she recalled how she had felt in the moment."
     ""
 
-# AlfredPath_9446c2f7 (line 68691)
-translate ru AlfredPath_9446c2f7:
+# AlfredPath_b54243d9 (line 68691)
+translate ru AlfredPath_b54243d9:
     # "How her body had felt, regardless of what her mind wanted."
     ""
 
-# AlfredPath_8ddadf90 (line 68692)
-translate ru AlfredPath_8ddadf90:
+# AlfredPath_deff6c51 (line 68692)
+translate ru AlfredPath_deff6c51:
     # "And perhaps even more than the sex, how she had felt, laying in his arms."
     ""
 
-# AlfredPath_443ed378 (line 68693)
-translate ru AlfredPath_443ed378:
+# AlfredPath_e8bc3fa8 (line 68693)
+translate ru AlfredPath_e8bc3fa8:
     # "Alfred reached down and unbuckled his pants, allowing them to fall to the ground with a soft thud."
     ""
 
-# AlfredPath_29ed7653 (line 68699)
-translate ru AlfredPath_29ed7653:
+# AlfredPath_4df70fab (line 68699)
+translate ru AlfredPath_4df70fab:
     # "His impressively sized cock, already erect."
     ""
 
-# AlfredPath_8808c064 (line 68700)
-translate ru AlfredPath_8808c064:
+# AlfredPath_a0900491 (line 68700)
+translate ru AlfredPath_a0900491:
     # alf "Help me out with this, would you?"
     alf ""
 
-# AlfredPath_37fcb020 (line 68701)
-translate ru AlfredPath_37fcb020:
+# AlfredPath_4b90e6c5 (line 68701)
+translate ru AlfredPath_4b90e6c5:
     # "So forward. So casual. As if his request was entirely ordinary."
     ""
 
-# AlfredPath_87b7d508 (line 68702)
-translate ru AlfredPath_87b7d508:
+# AlfredPath_7a2c5b65 (line 68702)
+translate ru AlfredPath_7a2c5b65:
     # s "I..."
     s ""
 
-# AlfredPath_8ac6320c (line 68703)
-translate ru AlfredPath_8ac6320c:
+# AlfredPath_432f8fce (line 68703)
+translate ru AlfredPath_432f8fce:
     # alf "Come on. You're the reason I'm like this. The least you can do is solve it for me."
     alf ""
 
-# AlfredPath_21db2ad0 (line 68704)
-translate ru AlfredPath_21db2ad0:
+# AlfredPath_a90292fb (line 68704)
+translate ru AlfredPath_a90292fb:
     # alf "I can't sleep...I keep thinking of you...I need you..."
     alf ""
 
-# AlfredPath_eb0e7e84 (line 68705)
-translate ru AlfredPath_eb0e7e84:
+# AlfredPath_ee704452 (line 68705)
+translate ru AlfredPath_ee704452:
     # "He almost sounded desperate."
     ""
 
-# AlfredPath_cdd05312 (line 68706)
-translate ru AlfredPath_cdd05312:
+# AlfredPath_add1c9a6 (line 68706)
+translate ru AlfredPath_add1c9a6:
     # "Sarah pulled back the sheets from her bed, revealing her naked body to him."
     ""
 
-# AlfredPath_3abc4961 (line 68707)
-translate ru AlfredPath_3abc4961:
+# AlfredPath_52c7db1f (line 68707)
+translate ru AlfredPath_52c7db1f:
     # "Modesty seemed a wasted effort, given what they had already done together."
     ""
 
-# AlfredPath_fec34736 (line 68708)
-translate ru AlfredPath_fec34736:
+# AlfredPath_60c32c07 (line 68708)
+translate ru AlfredPath_60c32c07:
     # "Again and again she searched herself for the part of her that would deny him."
     ""
 
-# AlfredPath_589e3af0 (line 68709)
-translate ru AlfredPath_589e3af0:
+# AlfredPath_4ac6882d (line 68709)
+translate ru AlfredPath_4ac6882d:
     # "But there was an ease to the submission."
     ""
 
-# AlfredPath_b2cfe2b7 (line 68710)
-translate ru AlfredPath_b2cfe2b7:
+# AlfredPath_870f7952 (line 68710)
+translate ru AlfredPath_870f7952:
     # "To do as he asked of her. And in return, his kind words and soft touches."
     ""
 
-# AlfredPath_0f4e46a7 (line 68711)
-translate ru AlfredPath_0f4e46a7:
+# AlfredPath_cc04e7ad (line 68711)
+translate ru AlfredPath_cc04e7ad:
     # "And true, the facts of his age had not changed."
     ""
 
-# AlfredPath_d23c8aab (line 68712)
-translate ru AlfredPath_d23c8aab:
+# AlfredPath_3bec6e54 (line 68712)
+translate ru AlfredPath_3bec6e54:
     # "But with each encounter between them, it seemed like a more meaningless objection."
     ""
 
-# AlfredPath_0485d871 (line 68713)
-translate ru AlfredPath_0485d871:
+# AlfredPath_ac3bcde3 (line 68713)
+translate ru AlfredPath_ac3bcde3:
     # "Perhaps the first time, she could have said something. But by now, what was her excuse?"
     ""
 
-# AlfredPath_8d6ff310 (line 68714)
-translate ru AlfredPath_8d6ff310:
+# AlfredPath_b8ff85f8 (line 68714)
+translate ru AlfredPath_b8ff85f8:
     # "She had moaned for him like a whore. She could hardly play the maiden now."
     ""
 
-# AlfredPath_6acaab98 (line 68715)
-translate ru AlfredPath_6acaab98:
+# AlfredPath_82df59fd (line 68715)
+translate ru AlfredPath_82df59fd:
     # "On hands and knees, she kneeled before him."
     ""
 
-# AlfredPath_d0db0982 (line 68716)
-translate ru AlfredPath_d0db0982:
+# AlfredPath_385aee6c (line 68716)
+translate ru AlfredPath_385aee6c:
     # "She turned her eyes up to look at him."
     ""
 
-# AlfredPath_5595c65d (line 68717)
-translate ru AlfredPath_5595c65d:
+# AlfredPath_1c14f4b3 (line 68717)
+translate ru AlfredPath_1c14f4b3:
     # "And in his eyes, eager anticipation, mixed with genuine awe and love."
     ""
 
-# AlfredPath_3191eac9 (line 68718)
-translate ru AlfredPath_3191eac9:
+# AlfredPath_dec7c441 (line 68718)
+translate ru AlfredPath_dec7c441:
     # "A man who thought that only the decay of old age remained, who now instead found a young and willing woman, again before him."
     ""
 
-# AlfredPath_1fb6a6b4 (line 68719)
-translate ru AlfredPath_1fb6a6b4:
+# AlfredPath_cae86803 (line 68719)
+translate ru AlfredPath_cae86803:
     # "A new lease on life."
     ""
 
-# AlfredPath_9907ab9c (line 68720)
-translate ru AlfredPath_9907ab9c:
+# AlfredPath_291151c6 (line 68720)
+translate ru AlfredPath_291151c6:
     # "Sarah parted her lips and leaned forward, taking the old man's cock into her mouth."
     ""
 
-# AlfredPath_e7501fe7 (line 68721)
-translate ru AlfredPath_e7501fe7:
+# AlfredPath_b371e273 (line 68721)
+translate ru AlfredPath_b371e273:
     # "A loud groan filled the room."
     ""
 
-# AlfredPath_96fd7d94 (line 68722)
-translate ru AlfredPath_96fd7d94:
+# AlfredPath_965851d6 (line 68722)
+translate ru AlfredPath_965851d6:
     # "She felt his firm hand, wrapping around the back of her haid, grasping a fist full of her hair."
     ""
 
-# AlfredPath_6b0b6b42 (line 68723)
-translate ru AlfredPath_6b0b6b42:
+# AlfredPath_be333071 (line 68723)
+translate ru AlfredPath_be333071:
     # alf "Aah..."
     alf ""
 
-# AlfredPath_5e34c53d (line 68724)
-translate ru AlfredPath_5e34c53d:
+# AlfredPath_278a641d (line 68724)
+translate ru AlfredPath_278a641d:
     # "Sarah began to slowly bob her head up and down."
     ""
 
-# AlfredPath_d5e24a14 (line 68725)
-translate ru AlfredPath_d5e24a14:
+# AlfredPath_5daa32c6 (line 68725)
+translate ru AlfredPath_5daa32c6:
     # alf "Good girl..."
     alf ""
 
-# AlfredPath_1ef4df6e (line 68726)
-translate ru AlfredPath_1ef4df6e:
+# AlfredPath_a9145568 (line 68726)
+translate ru AlfredPath_a9145568:
     # "He whispered the words of compliment."
     ""
 
-# AlfredPath_83b6f374 (line 68727)
-translate ru AlfredPath_83b6f374:
+# AlfredPath_82bf71cd (line 68727)
+translate ru AlfredPath_82bf71cd:
     # "And they ignited an inferno in her chest."
     ""
 
-# AlfredPath_aa4ff037 (line 68728)
-translate ru AlfredPath_aa4ff037:
+# AlfredPath_1e792a2b (line 68728)
+translate ru AlfredPath_1e792a2b:
     # "And in every other part of her body."
     ""
 
-# AlfredPath_a1e273ba (line 68729)
-translate ru AlfredPath_a1e273ba:
+# AlfredPath_429b52fa (line 68729)
+translate ru AlfredPath_429b52fa:
     # "Sarah felt her own sex grow instantly wet at his compliment."
     ""
 
-# AlfredPath_7d66f4dc (line 68730)
-translate ru AlfredPath_7d66f4dc:
+# AlfredPath_36aeb02d (line 68730)
+translate ru AlfredPath_36aeb02d:
     # "And what little resistance she had felt, yielded like snow before summer."
     ""
 
-# AlfredPath_92fb32a3 (line 68731)
-translate ru AlfredPath_92fb32a3:
+# AlfredPath_922d6220 (line 68731)
+translate ru AlfredPath_922d6220:
     # "What began as a reluctant blowjob, turned into an act of complete submission."
     ""
 
-# AlfredPath_7f1e4259 (line 68732)
-translate ru AlfredPath_7f1e4259:
+# AlfredPath_f795f772 (line 68732)
+translate ru AlfredPath_f795f772:
     # "She ran her eager and willing tongue along the length of his shaft, tasting every part of it."
     ""
 
-# AlfredPath_1c1894bd (line 68733)
-translate ru AlfredPath_1c1894bd:
+# AlfredPath_37d92d46 (line 68733)
+translate ru AlfredPath_37d92d46:
     # "The taste, burning into her memory."
     ""
 
-# AlfredPath_850b37a5 (line 68734)
-translate ru AlfredPath_850b37a5:
+# AlfredPath_e8125681 (line 68734)
+translate ru AlfredPath_e8125681:
     # "The smell of him."
     ""
 
-# AlfredPath_771a1b0b (line 68735)
-translate ru AlfredPath_771a1b0b:
+# AlfredPath_d624e389 (line 68735)
+translate ru AlfredPath_d624e389:
     # "Well endowed, she did her best to fit all of him into her mouth, and partially her throat."
     ""
 
-# AlfredPath_f0dc7c35 (line 68736)
-translate ru AlfredPath_f0dc7c35:
+# AlfredPath_57f59506 (line 68736)
+translate ru AlfredPath_57f59506:
     # "And above her, the approving groans of the old man."
     ""
 
-# AlfredPath_cbf4f9cd (line 68737)
-translate ru AlfredPath_cbf4f9cd:
+# AlfredPath_8b2d237b (line 68737)
+translate ru AlfredPath_8b2d237b:
     # "A man who expected to find a willing woman, but not this eager whore."
     ""
 
-# AlfredPath_a9ebc0d3 (line 68738)
-translate ru AlfredPath_a9ebc0d3:
+# AlfredPath_c6fc65dd (line 68738)
+translate ru AlfredPath_c6fc65dd:
     # "And on her hands and knees, Sarah continued to worship him."
     ""
 
-# AlfredPath_07c99d47 (line 68739)
-translate ru AlfredPath_07c99d47:
+# AlfredPath_556f051e (line 68739)
+translate ru AlfredPath_556f051e:
     # "Because she knew a truth she would never tell."
     ""
 
-# AlfredPath_8955fd55 (line 68740)
-translate ru AlfredPath_8955fd55:
+# AlfredPath_ad3ccff3 (line 68740)
+translate ru AlfredPath_ad3ccff3:
     # "That she would do anything, literally anything, if it meant that he might call her that again."
     ""
 
-# AlfredPath_a2ac9ee5 (line 68741)
-translate ru AlfredPath_a2ac9ee5:
+# AlfredPath_c35c3a31 (line 68741)
+translate ru AlfredPath_c35c3a31:
     # "Soft voices in her head tried to remind her of all the things she was. A princess. A woman of ambition. All the dreams she had of life."
     ""
 
-# AlfredPath_3cd938a7 (line 68742)
-translate ru AlfredPath_3cd938a7:
+# AlfredPath_15829dce (line 68742)
+translate ru AlfredPath_15829dce:
     # "But they were meaningless voices, compared to the immediate pleasure of serving him."
     ""
 
-# AlfredPath_a4f87164 (line 68743)
-translate ru AlfredPath_a4f87164:
+# AlfredPath_10f7b247 (line 68743)
+translate ru AlfredPath_10f7b247:
     # "She didn't want justice for her family. She didn't want to restore her nation. She didn't want to be anyone's wife or mother."
     ""
 
-# AlfredPath_4bca553c (line 68744)
-translate ru AlfredPath_4bca553c:
+# AlfredPath_18cf6e9d (line 68744)
+translate ru AlfredPath_18cf6e9d:
     # "In this moment, she wanted only to be his good girl."
     ""
 
-# AlfredPath_02843528 (line 68745)
-translate ru AlfredPath_02843528:
+# AlfredPath_28a8b36a (line 68745)
+translate ru AlfredPath_28a8b36a:
     # "She desired his praise more than water or food."
     ""
 
-# AlfredPath_3772be49 (line 68746)
-translate ru AlfredPath_3772be49:
+# AlfredPath_635569a5 (line 68746)
+translate ru AlfredPath_635569a5:
     # "Sarah felt the spittles of drool, slipping from her mouth and running down her neck."
     ""
 
-# AlfredPath_9b4e4a7e (line 68747)
-translate ru AlfredPath_9b4e4a7e:
+# AlfredPath_3fb40f8b (line 68747)
+translate ru AlfredPath_3fb40f8b:
     # "Unthinkable submission now felt like the most natural thing."
     ""
 
-# AlfredPath_709a91bb (line 68748)
-translate ru AlfredPath_709a91bb:
+# AlfredPath_5dc0989f (line 68748)
+translate ru AlfredPath_5dc0989f:
     # "His firm grip on her head remained as he bucked his hips."
     ""
 
-# AlfredPath_17305918 (line 68749)
-translate ru AlfredPath_17305918:
+# AlfredPath_feb35045 (line 68749)
+translate ru AlfredPath_feb35045:
     # "The tip of his cock, slowly pressing into her willing throat."
     ""
 
-# AlfredPath_1a15698c (line 68750)
-translate ru AlfredPath_1a15698c:
+# AlfredPath_a2177c06 (line 68750)
+translate ru AlfredPath_a2177c06:
     # "Sarah gagged on it, eagerly."
     ""
 
-# AlfredPath_66583725 (line 68751)
-translate ru AlfredPath_66583725:
+# AlfredPath_626e58ce (line 68751)
+translate ru AlfredPath_626e58ce:
     # "Anything. Anything that he might want from her, she would give him."
     ""
 
-# AlfredPath_0b7afa61 (line 68752)
-translate ru AlfredPath_0b7afa61:
+# AlfredPath_7736b496 (line 68752)
+translate ru AlfredPath_7736b496:
     # "As the head of his cock pressed all the way to the back of her throat, it filled up her whole mouth."
     ""
 
-# AlfredPath_7ed42799 (line 68753)
-translate ru AlfredPath_7ed42799:
+# AlfredPath_ea1f3ec4 (line 68753)
+translate ru AlfredPath_ea1f3ec4:
     # "The girth of it, enough to press apart her jaw."
     ""
 
-# AlfredPath_831b4749 (line 68754)
-translate ru AlfredPath_831b4749:
+# AlfredPath_2b2c3ac3 (line 68754)
+translate ru AlfredPath_2b2c3ac3:
     # "Her mind was little more than lustful haze."
     ""
 
-# AlfredPath_b404c607 (line 68755)
-translate ru AlfredPath_b404c607:
+# AlfredPath_0dc25a85 (line 68755)
+translate ru AlfredPath_0dc25a85:
     # "And above her, his quickening groans, evidence that her efforts were not going unnoticed."
     ""
 
-# AlfredPath_87034788 (line 68756)
-translate ru AlfredPath_87034788:
+# AlfredPath_00887e22 (line 68756)
+translate ru AlfredPath_00887e22:
     # "He grabbed a fistful of her hair, locking her head place."
     ""
 
-# AlfredPath_57f0e231 (line 68757)
-translate ru AlfredPath_57f0e231:
+# AlfredPath_29fcb016 (line 68757)
+translate ru AlfredPath_29fcb016:
     # alf "I'm going to finish..."
     alf ""
 
-# AlfredPath_1b990ce8 (line 68758)
-translate ru AlfredPath_1b990ce8:
+# AlfredPath_89449ed6 (line 68758)
+translate ru AlfredPath_89449ed6:
     # "He spoke the words between heavy breaths."
     ""
 
-# AlfredPath_f30f7fc6 (line 68759)
-translate ru AlfredPath_f30f7fc6:
+# AlfredPath_097ab38e (line 68759)
+translate ru AlfredPath_097ab38e:
     # alf "Swallow me..."
     alf ""
 
-# AlfredPath_91b8cf18 (line 68760)
-translate ru AlfredPath_91b8cf18:
+# AlfredPath_eaa05078 (line 68760)
+translate ru AlfredPath_eaa05078:
     # "His words half question, half command."
     ""
 
-# AlfredPath_41f4ef8b (line 68761)
-translate ru AlfredPath_41f4ef8b:
+# AlfredPath_97017111 (line 68761)
+translate ru AlfredPath_97017111:
     # s "Uhuh..."
     s ""
 
-# AlfredPath_2c3f3eed (line 68762)
-translate ru AlfredPath_2c3f3eed:
+# AlfredPath_7ef9a9ce (line 68762)
+translate ru AlfredPath_7ef9a9ce:
     # "Sarah answered in the affirmative, or as much as she could muster with his cock lodged into her mouth."
     ""
 
-# AlfredPath_bb63db00 (line 68763)
-translate ru AlfredPath_bb63db00:
+# AlfredPath_0e309d0e (line 68763)
+translate ru AlfredPath_0e309d0e:
     # "It was all he needed to hear."
     ""
 
-# AlfredPath_2b1b9af3 (line 68764)
-translate ru AlfredPath_2b1b9af3:
+# AlfredPath_68e233f2 (line 68764)
+translate ru AlfredPath_68e233f2:
     # "Arching his back, he thrust every inch of himself into her mouth and down her throat."
     ""
 
-# AlfredPath_2c787a89 (line 68765)
-translate ru AlfredPath_2c787a89:
+# AlfredPath_b63828a3 (line 68765)
+translate ru AlfredPath_b63828a3:
     # "Sarah felt him expand inside her mouth, pressing apart her jaw further."
     ""
 
-# AlfredPath_2fa00850 (line 68766)
-translate ru AlfredPath_2fa00850:
+# AlfredPath_ccdb6477 (line 68766)
+translate ru AlfredPath_ccdb6477:
     # "Then his seed."
     ""
 
-# AlfredPath_57c428f6 (line 68767)
-translate ru AlfredPath_57c428f6:
+# AlfredPath_6209661b (line 68767)
+translate ru AlfredPath_6209661b:
     # "Fucking her face, he pumped every drop into her throat."
     ""
 
-# AlfredPath_c4527391 (line 68768)
-translate ru AlfredPath_c4527391:
+# AlfredPath_ac39a061 (line 68768)
+translate ru AlfredPath_ac39a061:
     # "Sarah felt it, some of it going straight down her throat, some of it landing on her tongue."
     ""
 
-# AlfredPath_8a4ea72d (line 68769)
-translate ru AlfredPath_8a4ea72d:
+# AlfredPath_a323aa3f (line 68769)
+translate ru AlfredPath_a323aa3f:
     # "Her mind, blank from lust and lack of oxygen."
     ""
 
-# AlfredPath_1780e8f8 (line 68770)
-translate ru AlfredPath_1780e8f8:
+# AlfredPath_c2c7a540 (line 68770)
+translate ru AlfredPath_c2c7a540:
     # "Then, slowly, she felt him pull back."
     ""
 
-# AlfredPath_952c900a (line 68771)
-translate ru AlfredPath_952c900a:
+# AlfredPath_b99e76c7 (line 68771)
+translate ru AlfredPath_b99e76c7:
     # "The meaty shaft sliding across her tongue, measuring out every inch."
     ""
 
-# AlfredPath_0c561e14 (line 68772)
-translate ru AlfredPath_0c561e14:
+# AlfredPath_b918cd7c (line 68772)
+translate ru AlfredPath_b918cd7c:
     # "A last few drops of semen, landing on her tongue."
     ""
 
-# AlfredPath_bf623c34 (line 68773)
-translate ru AlfredPath_bf623c34:
+# AlfredPath_8e092d29 (line 68773)
+translate ru AlfredPath_8e092d29:
     # "Sarah lapped it up."
     ""
 
-# AlfredPath_663ebbcd (line 68774)
-translate ru AlfredPath_663ebbcd:
+# AlfredPath_c789ef9b (line 68774)
+translate ru AlfredPath_c789ef9b:
     # "The moment his half-erect cock popped from her mouth, she missed it."
     ""
 
-# AlfredPath_7317459f (line 68775)
-translate ru AlfredPath_7317459f:
+# AlfredPath_5f08d025 (line 68775)
+translate ru AlfredPath_5f08d025:
     # "Drowsy and delirious, she looked up at him."
     ""
 
-# AlfredPath_a001b294 (line 68776)
-translate ru AlfredPath_a001b294:
+# AlfredPath_2438621b (line 68776)
+translate ru AlfredPath_2438621b:
     # "And she opened her mouth, eager to show him that not a drop had gone wasted."
     ""
 
-# AlfredPath_73d64099 (line 68777)
-translate ru AlfredPath_73d64099:
+# AlfredPath_abbf972b (line 68777)
+translate ru AlfredPath_abbf972b:
     # "He smiled and ran his hands along the side of her face."
     ""
 
-# AlfredPath_66df13e4 (line 68778)
-translate ru AlfredPath_66df13e4:
+# AlfredPath_860fbca8 (line 68778)
+translate ru AlfredPath_860fbca8:
     # alf "Good girl."
     alf ""
 
-# AlfredPath_902aa217 (line 68779)
-translate ru AlfredPath_902aa217:
+# AlfredPath_6fc56eaf (line 68779)
+translate ru AlfredPath_6fc56eaf:
     # "Sarah felt her cunt drip at the mere sound of the words she had worshipped him for."
     ""
 
-# AlfredPath_23336293 (line 68780)
-translate ru AlfredPath_23336293:
+# AlfredPath_fe9f8ffa (line 68780)
+translate ru AlfredPath_fe9f8ffa:
     # "He put his pants back on and quickly exited the room."
     ""
 
-# AlfredPath_026b4ec2 (line 68781)
-translate ru AlfredPath_026b4ec2:
+# AlfredPath_77e10e17 (line 68781)
+translate ru AlfredPath_77e10e17:
     # "Sarah was left, fully in heat."
     ""
 
-# AlfredPath_24f942d7 (line 68782)
-translate ru AlfredPath_24f942d7:
+# AlfredPath_7e997cfe (line 68782)
+translate ru AlfredPath_7e997cfe:
     # "Nearly she stumbled after him, begging for her turn."
     ""
 
-# AlfredPath_38d7ff69 (line 68788)
-translate ru AlfredPath_38d7ff69:
+# AlfredPath_117e480e (line 68788)
+translate ru AlfredPath_117e480e:
     # s "Wait..."
     s ""
 
-# AlfredPath_e12033c0 (line 68789)
-translate ru AlfredPath_e12033c0:
+# AlfredPath_5333f2e6 (line 68789)
+translate ru AlfredPath_5333f2e6:
     # "She whispered it so quitely that he never heard."
     ""
 
-# AlfredPath_6cbf37b8 (line 68790)
-translate ru AlfredPath_6cbf37b8:
+# AlfredPath_8f30b981 (line 68790)
+translate ru AlfredPath_8f30b981:
     # "The cold air in the room ran across her body, each sensation heightened."
     ""
 
-# AlfredPath_36e42fef (line 68791)
-translate ru AlfredPath_36e42fef:
+# AlfredPath_e72a39e0 (line 68791)
+translate ru AlfredPath_e72a39e0:
     # "And between her legs, the pulsing sensation that demanded release."
     ""
 
-# AlfredPath_907e2dc2 (line 68792)
-translate ru AlfredPath_907e2dc2:
+# AlfredPath_095c5cab (line 68792)
+translate ru AlfredPath_095c5cab:
     # "If she went after him, he would no doubt relieve her, but even in this condition, Sarah had fragment of pride."
     ""
 
-# AlfredPath_71c4bd87 (line 68793)
-translate ru AlfredPath_71c4bd87:
+# AlfredPath_7a20cb18 (line 68793)
+translate ru AlfredPath_7a20cb18:
     # "She climbed back into the bed and tried to close her eyes."
     ""
 
-# AlfredPath_5f298e76 (line 68794)
-translate ru AlfredPath_5f298e76:
+# AlfredPath_377b39cf (line 68794)
+translate ru AlfredPath_377b39cf:
     # "But the more she tried to force herself to sleep, the further the sleep escaped her."
     ""
 
-# AlfredPath_41b3d61b (line 68795)
-translate ru AlfredPath_41b3d61b:
+# AlfredPath_77f5bb07 (line 68795)
+translate ru AlfredPath_77f5bb07:
     # "And the more pressing the desire between her legs grew."
     ""
 
-# AlfredPath_003094af (line 68796)
-translate ru AlfredPath_003094af:
+# AlfredPath_f8fa8e7e (line 68796)
+translate ru AlfredPath_f8fa8e7e:
     # s "Fuck..."
     s ""
 
-# AlfredPath_6ca0e840 (line 68797)
-translate ru AlfredPath_6ca0e840:
+# AlfredPath_6aa460a8 (line 68797)
+translate ru AlfredPath_6aa460a8:
     # "She whispered to herself in the dark."
     ""
 
-# AlfredPath_2a97765b (line 68803)
-translate ru AlfredPath_2a97765b:
+# AlfredPath_ac232c55 (line 68803)
+translate ru AlfredPath_ac232c55:
     # "Without thinking, one of her hands slid down her body."
     ""
 
-# AlfredPath_0fb0d814 (line 68804)
-translate ru AlfredPath_0fb0d814:
+# AlfredPath_ec03b2af (line 68804)
+translate ru AlfredPath_ec03b2af:
     # "The tips of her finger, grazing her drenched cunt."
     ""
 
-# AlfredPath_edd955b6 (line 68805)
-translate ru AlfredPath_edd955b6:
+# AlfredPath_f5f9b1d8 (line 68805)
+translate ru AlfredPath_f5f9b1d8:
     # "Even the slightest touch produced a jolting sensation."
     ""
 
-# AlfredPath_a5b644ba (line 68806)
-translate ru AlfredPath_a5b644ba:
+# AlfredPath_3b33d98f (line 68806)
+translate ru AlfredPath_3b33d98f:
     # "Why."
     ""
 
-# AlfredPath_1979ca35 (line 68807)
-translate ru AlfredPath_1979ca35:
+# AlfredPath_b81bd446 (line 68807)
+translate ru AlfredPath_b81bd446:
     # "Why was she like this, she cursed to herself."
     ""
 
-# AlfredPath_dbd6bc74 (line 68808)
-translate ru AlfredPath_dbd6bc74:
+# AlfredPath_977fb068 (line 68808)
+translate ru AlfredPath_977fb068:
     # "One finger slid in, and the sensation exploded."
     ""
 
-# AlfredPath_7e369b2d (line 68809)
-translate ru AlfredPath_7e369b2d:
+# AlfredPath_3acf2f18 (line 68809)
+translate ru AlfredPath_3acf2f18:
     # "Instantly she knew she could not go back to sleep. Not before finishing."
     ""
 
-# AlfredPath_ec539c80 (line 68810)
-translate ru AlfredPath_ec539c80:
+# AlfredPath_dbc9c5ff (line 68810)
+translate ru AlfredPath_dbc9c5ff:
     # "A complicated flurry of emotions rocked her body as she began to slowly finger herself."
     ""
 
-# AlfredPath_6ea776c2 (line 68811)
-translate ru AlfredPath_6ea776c2:
+# AlfredPath_6643d8e1 (line 68811)
+translate ru AlfredPath_6643d8e1:
     # "One finger slipped inside, another motioning across her swollen clit."
     ""
 
-# AlfredPath_467793e4 (line 68812)
-translate ru AlfredPath_467793e4:
+# AlfredPath_0754a991 (line 68812)
+translate ru AlfredPath_0754a991:
     # "But each time a pulse of pleasure rocked her body, a thought of shame followed it."
     ""
 
-# AlfredPath_3b7657ac (line 68813)
-translate ru AlfredPath_3b7657ac:
+# AlfredPath_133b295e (line 68813)
+translate ru AlfredPath_133b295e:
     # "Shame for the object of her fantasies."
     ""
 
-# AlfredPath_23c252ed (line 68814)
-translate ru AlfredPath_23c252ed:
+# AlfredPath_2930345f (line 68814)
+translate ru AlfredPath_2930345f:
     # "Not handsome Marius, nor some generic man."
     ""
 
-# AlfredPath_e33cfa71 (line 68815)
-translate ru AlfredPath_e33cfa71:
+# AlfredPath_fb2bb755 (line 68815)
+translate ru AlfredPath_fb2bb755:
     # "No, in her fevered lust, it was the man that caused it, that dominated her fantasy."
     ""
 
-# AlfredPath_2347f19e (line 68816)
-translate ru AlfredPath_2347f19e:
+# AlfredPath_18376f9c (line 68816)
+translate ru AlfredPath_18376f9c:
     # "Alfred."
     ""
 
-# AlfredPath_9c1dee0b (line 68817)
-translate ru AlfredPath_9c1dee0b:
+# AlfredPath_75af8b2d (line 68817)
+translate ru AlfredPath_75af8b2d:
     # "As she fingered herself, she imagined it was him instead."
     ""
 
-# AlfredPath_1c1223d9 (line 68818)
-translate ru AlfredPath_1c1223d9:
+# AlfredPath_479cf88a (line 68818)
+translate ru AlfredPath_479cf88a:
     # "Her own fingers falling short of his impressive cock, a pathetic imitation of the real thing."
     ""
 
-# AlfredPath_0f96fcd1 (line 68819)
-translate ru AlfredPath_0f96fcd1:
+# AlfredPath_5a6a570f (line 68819)
+translate ru AlfredPath_5a6a570f:
     # "But she needed this."
     ""
 
-# AlfredPath_351fa92e (line 68820)
-translate ru AlfredPath_351fa92e:
+# AlfredPath_84a9730b (line 68820)
+translate ru AlfredPath_84a9730b:
     # "And in the dark of the room, there was nobody to judge her."
     ""
 
-# AlfredPath_a3ed55a2 (line 68821)
-translate ru AlfredPath_a3ed55a2:
+# AlfredPath_55b4ad64 (line 68821)
+translate ru AlfredPath_55b4ad64:
     # "Other than herself."
     ""
 
-# AlfredPath_fd5ddf12 (line 68822)
-translate ru AlfredPath_fd5ddf12:
+# AlfredPath_25a6ae54 (line 68822)
+translate ru AlfredPath_25a6ae54:
     # "With her eyes closed and her breathing growing heavier with every motion, her fantasy grew clearer and sharper."
     ""
 
-# AlfredPath_36b00039 (line 68823)
-translate ru AlfredPath_36b00039:
+# AlfredPath_94fe5e59 (line 68823)
+translate ru AlfredPath_94fe5e59:
     # "His grey hairs, balding head, leathered skin, scarred hands."
     ""
 
-# AlfredPath_76d31a4f (line 68824)
-translate ru AlfredPath_76d31a4f:
+# AlfredPath_fd646807 (line 68824)
+translate ru AlfredPath_fd646807:
     # "Each time she tried to force her fantasies to change, they returned increasingly to him."
     ""
 
-# AlfredPath_0d20846f (line 68825)
-translate ru AlfredPath_0d20846f:
+# AlfredPath_03a5d859 (line 68825)
+translate ru AlfredPath_03a5d859:
     # "As she fingered herself ever closer to climax, the fantasy even taunted her."
     ""
 
-# AlfredPath_a7f714a4 (line 68826)
-translate ru AlfredPath_a7f714a4:
+# AlfredPath_c3b80598 (line 68826)
+translate ru AlfredPath_c3b80598:
     # alf "Can't get enough of this old cock, can you?"
     alf ""
 
-# AlfredPath_2c51be91 (line 68827)
-translate ru AlfredPath_2c51be91:
+# AlfredPath_7594f2ae (line 68827)
+translate ru AlfredPath_7594f2ae:
     # s "Shut up..."
     s ""
 
-# AlfredPath_1eb2296d (line 68828)
-translate ru AlfredPath_1eb2296d:
+# AlfredPath_71e5ca5e (line 68828)
+translate ru AlfredPath_71e5ca5e:
     # "The words sounded so real in her mind."
     ""
 
-# AlfredPath_f7802da5 (line 68829)
-translate ru AlfredPath_f7802da5:
+# AlfredPath_375a3c62 (line 68829)
+translate ru AlfredPath_375a3c62:
     # "The pulsing, droning pleasure of her own fingers, pushing reality away and sinking further into fantasy."
     ""
 
-# AlfredPath_cb927be6 (line 68830)
-translate ru AlfredPath_cb927be6:
+# AlfredPath_054aa0af (line 68830)
+translate ru AlfredPath_054aa0af:
     # alf "I'm older than your own father."
     alf ""
 
-# AlfredPath_f3e1fc13 (line 68831)
-translate ru AlfredPath_f3e1fc13:
+# AlfredPath_27485d82 (line 68831)
+translate ru AlfredPath_27485d82:
     # s "Shut up..."
     s ""
 
-# AlfredPath_5807d2d8 (line 68832)
-translate ru AlfredPath_5807d2d8:
+# AlfredPath_a99809d6 (line 68832)
+translate ru AlfredPath_a99809d6:
     # "She breathed heavier by each passing moment."
     ""
 
-# AlfredPath_d5dd6db9 (line 68833)
-translate ru AlfredPath_d5dd6db9:
+# AlfredPath_785e12ee (line 68833)
+translate ru AlfredPath_785e12ee:
     # alf "Look how eager you are, even when I'm not here."
     alf ""
 
-# AlfredPath_450f28a3 (line 68834)
-translate ru AlfredPath_450f28a3:
+# AlfredPath_e089b80e (line 68834)
+translate ru AlfredPath_e089b80e:
     # alf "Slut."
     alf ""
 
-# AlfredPath_38afa5df (line 68835)
-translate ru AlfredPath_38afa5df:
+# AlfredPath_fcaeea79 (line 68835)
+translate ru AlfredPath_fcaeea79:
     # s "Shut...up..."
     s ""
 
-# AlfredPath_a32815a8 (line 68836)
-translate ru AlfredPath_a32815a8:
+# AlfredPath_d36cca6d (line 68836)
+translate ru AlfredPath_d36cca6d:
     # alf "You're gonna let it happen again, and again."
     alf ""
 
-# AlfredPath_e82bf919 (line 68837)
-translate ru AlfredPath_e82bf919:
+# AlfredPath_5b895e0b (line 68837)
+translate ru AlfredPath_5b895e0b:
     # s "No...never..."
     s ""
 
-# AlfredPath_61dde843 (line 68838)
-translate ru AlfredPath_61dde843:
+# AlfredPath_a523eed4 (line 68838)
+translate ru AlfredPath_a523eed4:
     # alf "Because you want it."
     alf ""
 
-# AlfredPath_3fa05497 (line 68839)
-translate ru AlfredPath_3fa05497:
+# AlfredPath_ca02befb (line 68839)
+translate ru AlfredPath_ca02befb:
     # s "I...don't..."
     s ""
 
-# AlfredPath_a08e6bd8 (line 68840)
-translate ru AlfredPath_a08e6bd8:
+# AlfredPath_03351694 (line 68840)
+translate ru AlfredPath_03351694:
     # alf "Then why did you scream when you came in the yard?"
     alf ""
 
-# AlfredPath_f34babc0 (line 68841)
-translate ru AlfredPath_f34babc0:
+# AlfredPath_1e40b1d7 (line 68841)
+translate ru AlfredPath_1e40b1d7:
     # "The fantasy of him knew the same truth that Sarah did."
     ""
 
-# AlfredPath_acf4d4f7 (line 68842)
-translate ru AlfredPath_acf4d4f7:
+# AlfredPath_4c689260 (line 68842)
+translate ru AlfredPath_4c689260:
     # "She couldn't deny it."
     ""
 
-# AlfredPath_c69c13a6 (line 68843)
-translate ru AlfredPath_c69c13a6:
+# AlfredPath_f1f1c7ab (line 68843)
+translate ru AlfredPath_f1f1c7ab:
     # s "Aah!!"
     s ""
 
-# AlfredPath_d88e06b4 (line 68844)
-translate ru AlfredPath_d88e06b4:
+# AlfredPath_782a1d4b (line 68844)
+translate ru AlfredPath_782a1d4b:
     # "Her moans grew louder, more impossible to repress."
     ""
 
-# AlfredPath_16c7a825 (line 68845)
-translate ru AlfredPath_16c7a825:
+# AlfredPath_870eaf0e (line 68845)
+translate ru AlfredPath_870eaf0e:
     # s "You're disgusting."
     s ""
 
-# AlfredPath_dd14fedc (line 68846)
-translate ru AlfredPath_dd14fedc:
+# AlfredPath_536af492 (line 68846)
+translate ru AlfredPath_536af492:
     # "She yelled out in her fantasy as she dreamed of him kissing her."
     ""
 
-# AlfredPath_02bf1b14 (line 68847)
-translate ru AlfredPath_02bf1b14:
+# AlfredPath_14af1a2c (line 68847)
+translate ru AlfredPath_14af1a2c:
     # s "I hate you..."
     s ""
 
-# AlfredPath_f803ecdb (line 68848)
-translate ru AlfredPath_f803ecdb:
+# AlfredPath_b491a2ea (line 68848)
+translate ru AlfredPath_b491a2ea:
     # "She yelled in her dream as she imagined he fucked her violently."
     ""
 
-# AlfredPath_c0c73038 (line 68849)
-translate ru AlfredPath_c0c73038:
+# AlfredPath_0412f090 (line 68849)
+translate ru AlfredPath_0412f090:
     # "As she imagined with perfect accuracy, each element of his body, conjuring a perfect imitation."
     ""
 
-# AlfredPath_832061a2 (line 68850)
-translate ru AlfredPath_832061a2:
+# AlfredPath_54f17c5a (line 68850)
+translate ru AlfredPath_54f17c5a:
     # alf "Stupid slut, giving it up to a man that could be your grandfather, just so you have a place to sleep, a place to stay."
     alf ""
 
-# AlfredPath_a576b1db (line 68851)
-translate ru AlfredPath_a576b1db:
+# AlfredPath_13e6712b (line 68851)
+translate ru AlfredPath_13e6712b:
     # "And the fantasy was complete."
     ""
 
-# AlfredPath_e777297f (line 68852)
-translate ru AlfredPath_e777297f:
+# AlfredPath_fbe1c287 (line 68852)
+translate ru AlfredPath_fbe1c287:
     # "She could imagine perfectly every element of his body."
     ""
 
-# AlfredPath_a56dbee8 (line 68853)
-translate ru AlfredPath_a56dbee8:
+# AlfredPath_6ff6f186 (line 68853)
+translate ru AlfredPath_6ff6f186:
     # "A perfect image of his ravaging her, humiliating her."
     ""
 
-# AlfredPath_454f98e7 (line 68854)
-translate ru AlfredPath_454f98e7:
+# AlfredPath_18d3503b (line 68854)
+translate ru AlfredPath_18d3503b:
     # "And a perfect fantasy of how she'd let him."
     ""
 
-# AlfredPath_85380b42 (line 68855)
-translate ru AlfredPath_85380b42:
+# AlfredPath_0f1d57b0 (line 68855)
+translate ru AlfredPath_0f1d57b0:
     # "Her own fingers matched her thoughts, and she pressed herself over the edge, reaching the climax she had been so desperate for."
     ""
 
-# AlfredPath_f235d93e (line 68856)
-translate ru AlfredPath_f235d93e:
+# AlfredPath_59bf0bc2 (line 68856)
+translate ru AlfredPath_59bf0bc2:
     # "Sarah turned, quickly burying her face into the pillows to drown out her own orgasmic cries."
     ""
 
-# AlfredPath_5a7993a5 (line 68857)
-translate ru AlfredPath_5a7993a5:
+# AlfredPath_c229af58 (line 68857)
+translate ru AlfredPath_c229af58:
     # "She had let him fuck her in her dreams, the least she could do was deny him hearing her in reality."
     ""
 
-# AlfredPath_ddb46cd8 (line 68858)
-translate ru AlfredPath_ddb46cd8:
+# AlfredPath_4d1daf7a (line 68858)
+translate ru AlfredPath_4d1daf7a:
     # "Sarah collapsed forward into the bed."
     ""
 
-# AlfredPath_52a90a61 (line 68859)
-translate ru AlfredPath_52a90a61:
+# AlfredPath_4521066a (line 68859)
+translate ru AlfredPath_4521066a:
     # "Mind and body exhausted, she sank into a deep sleep."
     ""
 
-# AlfredPath_356b2b84 (line 68866)
-translate ru AlfredPath_356b2b84:
+# AlfredPath_ced92730 (line 68866)
+translate ru AlfredPath_ced92730:
     # "The next morning, Sarah woke early."
     ""
 
-# AlfredPath_293eb27d (line 68867)
-translate ru AlfredPath_293eb27d:
+# AlfredPath_1f67015a (line 68867)
+translate ru AlfredPath_1f67015a:
     # "The events of the night before were present on her mind."
     ""
 
-# AlfredPath_9617a8ea (line 68868)
-translate ru AlfredPath_9617a8ea:
+# AlfredPath_67cb45b9 (line 68868)
+translate ru AlfredPath_67cb45b9:
     # "She could already hear the sounds of the men waking."
     ""
 
-# AlfredPath_fe1885e0 (line 68869)
-translate ru AlfredPath_fe1885e0:
+# AlfredPath_30595100 (line 68869)
+translate ru AlfredPath_30595100:
     # "For a brief moment, Sarah considered staying in her bed, perhaps pretending to be sick."
     ""
 
-# AlfredPath_34462cb8 (line 68870)
-translate ru AlfredPath_34462cb8:
+# AlfredPath_4b7f57f7 (line 68870)
+translate ru AlfredPath_4b7f57f7:
     # "But the truth was, the entire house belonged to Alfred, this room included."
     ""
 
-# AlfredPath_185446e0 (line 68871)
-translate ru AlfredPath_185446e0:
+# AlfredPath_32c260bc (line 68871)
+translate ru AlfredPath_32c260bc:
     # "Worse still, Sarah could not forget that she had lied to Marius."
     ""
 
-# AlfredPath_84852567 (line 68872)
-translate ru AlfredPath_84852567:
+# AlfredPath_a1d2733c (line 68872)
+translate ru AlfredPath_a1d2733c:
     # "She had betrayed his trust, just to save his father Alfred's reputation."
     ""
 
-# AlfredPath_74ef3138 (line 68873)
-translate ru AlfredPath_74ef3138:
+# AlfredPath_6f967455 (line 68873)
+translate ru AlfredPath_6f967455:
     # "Why."
     ""
 
-# AlfredPath_97c6d77f (line 68874)
-translate ru AlfredPath_97c6d77f:
+# AlfredPath_c13d85bb (line 68874)
+translate ru AlfredPath_c13d85bb:
     # "Why did she feel even the slightest hint of obligation to that old man?"
     ""
 
-# AlfredPath_9be5b81f (line 68875)
-translate ru AlfredPath_9be5b81f:
+# AlfredPath_a5ade2e4 (line 68875)
+translate ru AlfredPath_a5ade2e4:
     # "He gave her a home, but was she really so desperate?"
     ""
 
-# AlfredPath_5cacaf17 (line 68876)
-translate ru AlfredPath_5cacaf17:
+# AlfredPath_c33c2057 (line 68876)
+translate ru AlfredPath_c33c2057:
     # "Sarah felt troubled as she realized she might just be."
     ""
 
-# AlfredPath_24cfc3fe (line 68877)
-translate ru AlfredPath_24cfc3fe:
+# AlfredPath_543433ab (line 68877)
+translate ru AlfredPath_543433ab:
     # "There were many women who did worse for a meal, she thought. Perhaps she wasn't so different from them as she had once imagined."
     ""
 
-# AlfredPath_b083a8bf (line 68878)
-translate ru AlfredPath_b083a8bf:
+# AlfredPath_370cd258 (line 68878)
+translate ru AlfredPath_370cd258:
     # "She gritted her teeth as she realized how far she had fallen."
     ""
 
-# AlfredPath_781b97cc (line 68879)
-translate ru AlfredPath_781b97cc:
+# AlfredPath_49d94027 (line 68879)
+translate ru AlfredPath_49d94027:
     # "She softly prayed that her father could not see her from whatever heaven where he was."
     ""
 
-# AlfredPath_d93eebd0 (line 68880)
-translate ru AlfredPath_d93eebd0:
+# AlfredPath_e79b8434 (line 68880)
+translate ru AlfredPath_e79b8434:
     # "Sarah relented, and started the day by getting dressed."
     ""
 
-# AlfredPath_574a8d83 (line 68881)
-translate ru AlfredPath_574a8d83:
+# AlfredPath_deeb2d47 (line 68881)
+translate ru AlfredPath_deeb2d47:
     # "The morning began as it always did."
     ""
 
-# AlfredPath_a0a2090c (line 68882)
-translate ru AlfredPath_a0a2090c:
+# AlfredPath_af95f5d3 (line 68882)
+translate ru AlfredPath_af95f5d3:
     # "So casual and amicable, Sarah could almost imagine it was all a bad dream, and that none of it had happened."
     ""
 
-# AlfredPath_a8b10610 (line 68883)
-translate ru AlfredPath_a8b10610:
+# AlfredPath_307e2d54 (line 68883)
+translate ru AlfredPath_307e2d54:
     # "Or would happen again."
     ""
 
-# AlfredPath_8d8a1e11 (line 68884)
-translate ru AlfredPath_8d8a1e11:
+# AlfredPath_9b72bb97 (line 68884)
+translate ru AlfredPath_9b72bb97:
     # "Marius finished his dinner, thanked her, and set off for the fields to work."
     ""
 
-# AlfredPath_62ab292f (line 68885)
-translate ru AlfredPath_62ab292f:
+# AlfredPath_5360781e (line 68885)
+translate ru AlfredPath_5360781e:
     # "He was hardly gone for a minute before Alfred was on her."
     ""
 
-# AlfredPath_1d3889e1 (line 68891)
-translate ru AlfredPath_1d3889e1:
+# AlfredPath_56090c93 (line 68891)
+translate ru AlfredPath_56090c93:
     # "Pinning her with his body up against the wall, Sarah could feel a remnant of the man's strength."
     ""
 
-# AlfredPath_6753d00b (line 68892)
-translate ru AlfredPath_6753d00b:
+# AlfredPath_ca1f64ea (line 68892)
+translate ru AlfredPath_ca1f64ea:
     # "She parted her legs as he pressed his knee between."
     ""
 
-# AlfredPath_bc336dd1 (line 68893)
-translate ru AlfredPath_bc336dd1:
+# AlfredPath_07884d4b (line 68893)
+translate ru AlfredPath_07884d4b:
     # "Even through the fabric, she could feel the pressure of it."
     ""
 
-# AlfredPath_e6b88dfa (line 68894)
-translate ru AlfredPath_e6b88dfa:
+# AlfredPath_0490f67c (line 68894)
+translate ru AlfredPath_0490f67c:
     # "His hands desperately clawed at her dress."
     ""
 
-# AlfredPath_b2e24245 (line 68895)
-translate ru AlfredPath_b2e24245:
+# AlfredPath_0462b3d7 (line 68895)
+translate ru AlfredPath_0462b3d7:
     # alf "Gods, I thought he'd never leave..."
     alf ""
 
-# AlfredPath_d272e79b (line 68896)
-translate ru AlfredPath_d272e79b:
+# AlfredPath_28ce25d6 (line 68896)
+translate ru AlfredPath_28ce25d6:
     # "His voice hoarse with desire."
     ""
 
-# AlfredPath_f5198ded (line 68897)
-translate ru AlfredPath_f5198ded:
+# AlfredPath_2d3db5a6 (line 68897)
+translate ru AlfredPath_2d3db5a6:
     # "Leaning in closer, he pressed his lips against hers."
     ""
 
-# AlfredPath_abfc2fc4 (line 68898)
-translate ru AlfredPath_abfc2fc4:
+# AlfredPath_0480ba02 (line 68898)
+translate ru AlfredPath_0480ba02:
     # "And she met his tongue with hers."
     ""
 
-# AlfredPath_67135939 (line 68899)
-translate ru AlfredPath_67135939:
+# AlfredPath_24b8bf57 (line 68899)
+translate ru AlfredPath_24b8bf57:
     # "Wrapping her arms around him, she made no secret of her own desire."
     ""
 
-# AlfredPath_39d3e1a9 (line 68900)
-translate ru AlfredPath_39d3e1a9:
+# AlfredPath_db6cc5c6 (line 68900)
+translate ru AlfredPath_db6cc5c6:
     # "Again, that lustful haze clouded her mind, drowning all clear thoughts that sought to warn her."
     ""
 
-# AlfredPath_7f19d5e5 (line 68901)
-translate ru AlfredPath_7f19d5e5:
+# AlfredPath_5f856c09 (line 68901)
+translate ru AlfredPath_5f856c09:
     # "Old. Far too old."
     ""
 
-# AlfredPath_5465952f (line 68902)
-translate ru AlfredPath_5465952f:
+# AlfredPath_870ffd84 (line 68902)
+translate ru AlfredPath_870ffd84:
     # "She should be with someone better suited. Like in the books she had read when she was younger."
     ""
 
-# AlfredPath_0fa40a6c (line 68903)
-translate ru AlfredPath_0fa40a6c:
+# AlfredPath_686a0eb4 (line 68903)
+translate ru AlfredPath_686a0eb4:
     # "Kind knights that fought for the maiden's hand."
     ""
 
-# AlfredPath_e681a22b (line 68904)
-translate ru AlfredPath_e681a22b:
+# AlfredPath_63d63b80 (line 68904)
+translate ru AlfredPath_63d63b80:
     # "Not this debased act of giving her body to a man older than her father."
     ""
 
-# AlfredPath_5e292ab7 (line 68905)
-translate ru AlfredPath_5e292ab7:
+# AlfredPath_e0a9b820 (line 68905)
+translate ru AlfredPath_e0a9b820:
     # "Then why did her own hands rush to find the clasps on her dress, and tore them off as if she could not bear to be clothed for a moment longer."
     ""
 
-# AlfredPath_0814ad3b (line 68906)
-translate ru AlfredPath_0814ad3b:
+# AlfredPath_c5805fdd (line 68906)
+translate ru AlfredPath_c5805fdd:
     # "Why did the heat in her chest and between her legs surge, each time his tongue invaded her mouth."
     ""
 
-# AlfredPath_6ad7a6dd (line 68907)
-translate ru AlfredPath_6ad7a6dd:
+# AlfredPath_ae6f7df2 (line 68907)
+translate ru AlfredPath_ae6f7df2:
     # "And why was she desperate for his hands on her body, where once they revolted her?"
     ""
 
-# AlfredPath_50200ced (line 68908)
-translate ru AlfredPath_50200ced:
+# AlfredPath_068efb10 (line 68908)
+translate ru AlfredPath_068efb10:
     # "Worse than her own silence, Sarah thought, was her own complicity."
     ""
 
-# AlfredPath_56a81337 (line 68909)
-translate ru AlfredPath_56a81337:
+# AlfredPath_61278d8b (line 68909)
+translate ru AlfredPath_61278d8b:
     # "She could tell him to stop, to leave her alone, and he very well might."
     ""
 
-# AlfredPath_7bdfc9c7 (line 68910)
-translate ru AlfredPath_7bdfc9c7:
+# AlfredPath_44401e5c (line 68910)
+translate ru AlfredPath_44401e5c:
     # "But the deeper truth was that she did not want him to stop."
     ""
 
-# AlfredPath_becefeab (line 68911)
-translate ru AlfredPath_becefeab:
+# AlfredPath_04bf277b (line 68911)
+translate ru AlfredPath_04bf277b:
     # "He had ruined her, and she was desperate for him."
     ""
 
-# AlfredPath_2d743f79 (line 68912)
-translate ru AlfredPath_2d743f79:
+# AlfredPath_e67cd583 (line 68912)
+translate ru AlfredPath_e67cd583:
     # "And she hated him, almost as much as she wanted him."
     ""
 
-# AlfredPath_d7779436 (line 68913)
-translate ru AlfredPath_d7779436:
+# AlfredPath_2b3003d1 (line 68913)
+translate ru AlfredPath_2b3003d1:
     # s "Aaah!"
     s ""
 
-# AlfredPath_d24f2fdf (line 68914)
-translate ru AlfredPath_d24f2fdf:
+# AlfredPath_868eef00 (line 68914)
+translate ru AlfredPath_868eef00:
     # "Sarah pressed her lips against his ears and moaned as he touched her wet and eager sex with the tips of his fingers."
     ""
 
-# AlfredPath_f17ac534 (line 68915)
-translate ru AlfredPath_f17ac534:
+# AlfredPath_1679288b (line 68915)
+translate ru AlfredPath_1679288b:
     # "Awkwardly, the two stumbled naked through the house."
     ""
 
-# AlfredPath_a79b3b0d (line 68916)
-translate ru AlfredPath_a79b3b0d:
+# AlfredPath_ac6e85f1 (line 68916)
+translate ru AlfredPath_ac6e85f1:
     # "For lack of anything better, they settled on the table."
     ""
 
-# AlfredPath_b10e3b76 (line 68917)
-translate ru AlfredPath_b10e3b76:
+# AlfredPath_f08d5266 (line 68917)
+translate ru AlfredPath_f08d5266:
     # "Sarah sat on the edge, as Alfred positioned himself between her legs."
     ""
 
-# AlfredPath_51230110 (line 68918)
-translate ru AlfredPath_51230110:
+# AlfredPath_8862d662 (line 68918)
+translate ru AlfredPath_8862d662:
     # "His hands roamed her body, as if still in disbelief that she was real and more than a fiction of his dreams."
     ""
 
-# AlfredPath_25d88d24 (line 68919)
-translate ru AlfredPath_25d88d24:
+# AlfredPath_6ec6bf40 (line 68919)
+translate ru AlfredPath_6ec6bf40:
     # "And Sarah leaned forward, kissing him, as if to convince him she was real."
     ""
 
-# AlfredPath_6e5afddd (line 68920)
-translate ru AlfredPath_6e5afddd:
+# AlfredPath_d5ad4aa6 (line 68920)
+translate ru AlfredPath_d5ad4aa6:
     # "With her hands, she grabbed his waist and pulled him into her."
     ""
 
-# AlfredPath_5c95191c (line 68921)
-translate ru AlfredPath_5c95191c:
+# AlfredPath_6db37a02 (line 68921)
+translate ru AlfredPath_6db37a02:
     # "His cock met no resistance."
     ""
 
-# AlfredPath_0feeceb0 (line 68922)
-translate ru AlfredPath_0feeceb0:
+# AlfredPath_66b7a722 (line 68922)
+translate ru AlfredPath_66b7a722:
     # s "Aaah!"
     s ""
 
-# AlfredPath_93a82d3e (line 68923)
-translate ru AlfredPath_93a82d3e:
+# AlfredPath_f61d2fd0 (line 68923)
+translate ru AlfredPath_f61d2fd0:
     # "Sarah moaned as he took her."
     ""
 
-# AlfredPath_77805108 (line 68924)
-translate ru AlfredPath_77805108:
+# AlfredPath_d7c9898e (line 68924)
+translate ru AlfredPath_d7c9898e:
     # "And desperately she moved her hips, begging him to take her properly."
     ""
 
-# AlfredPath_b3cff213 (line 68925)
-translate ru AlfredPath_b3cff213:
+# AlfredPath_1549f48e (line 68925)
+translate ru AlfredPath_1549f48e:
     # "To which Alfred obliged."
     ""
 
-# AlfredPath_61529eda (line 68926)
-translate ru AlfredPath_61529eda:
+# AlfredPath_2eb827c6 (line 68926)
+translate ru AlfredPath_2eb827c6:
     # "It wasn't long before the pair had found their rhythm, and each was lost in the act."
     ""
 
-# AlfredPath_8f3bc7ed (line 68927)
-translate ru AlfredPath_8f3bc7ed:
+# AlfredPath_68e833cb (line 68927)
+translate ru AlfredPath_68e833cb:
     # "She could feel every inch of him with every pump."
     ""
 
-# AlfredPath_092f4c95 (line 68928)
-translate ru AlfredPath_092f4c95:
+# AlfredPath_d3fb18fd (line 68928)
+translate ru AlfredPath_d3fb18fd:
     # "The old table creaked and groaned as the pair continued to fuck atop it."
     ""
 
-# AlfredPath_d364ada3 (line 68929)
-translate ru AlfredPath_d364ada3:
+# AlfredPath_514798f5 (line 68929)
+translate ru AlfredPath_514798f5:
     # "Sarah felt his hands slide across her back, cupping her ass, gripping it as if it belonged to him."
     ""
 
-# AlfredPath_053244d4 (line 68930)
-translate ru AlfredPath_053244d4:
+# AlfredPath_ea81454d (line 68930)
+translate ru AlfredPath_ea81454d:
     # "Whatever insult she should feel, she felt none of it."
     ""
 
-# AlfredPath_60f0b854 (line 68931)
-translate ru AlfredPath_60f0b854:
+# AlfredPath_0c4dc338 (line 68931)
+translate ru AlfredPath_0c4dc338:
     # "Instead, the burning sensation in her stomach only deepened."
     ""
 
-# AlfredPath_68d05e87 (line 68932)
-translate ru AlfredPath_68d05e87:
+# AlfredPath_9003bfd1 (line 68932)
+translate ru AlfredPath_9003bfd1:
     # "The desire in her heart only grew."
     ""
 
-# AlfredPath_0c8352b5 (line 68933)
-translate ru AlfredPath_0c8352b5:
+# AlfredPath_9b17f634 (line 68933)
+translate ru AlfredPath_9b17f634:
     # "Sarah wrapped her arms around his neck, pulling him in closer."
     ""
 
-# AlfredPath_9282787a (line 68934)
-translate ru AlfredPath_9282787a:
+# AlfredPath_f48fdf7d (line 68934)
+translate ru AlfredPath_f48fdf7d:
     # "She felt him take her deeper."
     ""
 
-# AlfredPath_fe373374 (line 68935)
-translate ru AlfredPath_fe373374:
+# AlfredPath_c7523315 (line 68935)
+translate ru AlfredPath_c7523315:
     # "Leaning forward, she pressed her own lips onto his."
     ""
 
-# AlfredPath_d6ab5692 (line 68936)
-translate ru AlfredPath_d6ab5692:
+# AlfredPath_9d9af16c (line 68936)
+translate ru AlfredPath_9d9af16c:
     # "Greedy for her, his tongue slipped into her mouth, and she offered no resistance."
     ""
 
-# AlfredPath_08488738 (line 68937)
-translate ru AlfredPath_08488738:
+# AlfredPath_7b07e29e (line 68937)
+translate ru AlfredPath_7b07e29e:
     # "No, the time to stop any of this had long passed, she thought."
     ""
 
-# AlfredPath_4158c1f1 (line 68938)
-translate ru AlfredPath_4158c1f1:
+# AlfredPath_b3d936bc (line 68938)
+translate ru AlfredPath_b3d936bc:
     # "He had ruined her, and if not him, no one else would have her."
     ""
 
-# AlfredPath_8ac995a9 (line 68939)
-translate ru AlfredPath_8ac995a9:
+# AlfredPath_43d9673f (line 68939)
+translate ru AlfredPath_43d9673f:
     # "And sure, he was not the man that she had dreamed of all her life, but nothing in her life had gone as she dreamed it."
     ""
 
-# AlfredPath_f9efb8f4 (line 68940)
-translate ru AlfredPath_f9efb8f4:
+# AlfredPath_ceb5a4a4 (line 68940)
+translate ru AlfredPath_ceb5a4a4:
     # "Dreams were for fools, she told herself."
     ""
 
-# AlfredPath_45a596a0 (line 68941)
-translate ru AlfredPath_45a596a0:
+# AlfredPath_4c26bfd1 (line 68941)
+translate ru AlfredPath_4c26bfd1:
     # "And she felt him bucking, his cock sliding in and out of her with quickening speed."
     ""
 
-# AlfredPath_65574720 (line 68942)
-translate ru AlfredPath_65574720:
+# AlfredPath_874e8c13 (line 68942)
+translate ru AlfredPath_874e8c13:
     # "So what if he was too old for her?"
     ""
 
-# AlfredPath_94e20ed5 (line 68943)
-translate ru AlfredPath_94e20ed5:
+# AlfredPath_7ff62530 (line 68943)
+translate ru AlfredPath_7ff62530:
     # "Did that not also mean he was stable? That he could provide?"
     ""
 
-# AlfredPath_cdb2066f (line 68944)
-translate ru AlfredPath_cdb2066f:
+# AlfredPath_da863151 (line 68944)
+translate ru AlfredPath_da863151:
     # "That in a world of chaos, this might be the smallest island of security?"
     ""
 
-# AlfredPath_36fdb086 (line 68945)
-translate ru AlfredPath_36fdb086:
+# AlfredPath_15709427 (line 68945)
+translate ru AlfredPath_15709427:
     # "She felt his old hands, cupping her breasts."
     ""
 
-# AlfredPath_88a1efa3 (line 68946)
-translate ru AlfredPath_88a1efa3:
+# AlfredPath_d06563dd (line 68946)
+translate ru AlfredPath_d06563dd:
     # "Watching him, she saw the insatiable lust in his eyes, mixed with some element of disbelief."
     ""
 
-# AlfredPath_9c0cf55f (line 68947)
-translate ru AlfredPath_9c0cf55f:
+# AlfredPath_50596265 (line 68947)
+translate ru AlfredPath_50596265:
     # "Disbelief that he might have a woman like her."
     ""
 
-# AlfredPath_4690e5f7 (line 68948)
-translate ru AlfredPath_4690e5f7:
+# AlfredPath_7875bcec (line 68948)
+translate ru AlfredPath_7875bcec:
     # "And she kissed him again, thankful for how he looked at her."
     ""
 
-# AlfredPath_6ddb021b (line 68949)
-translate ru AlfredPath_6ddb021b:
+# AlfredPath_86040f45 (line 68949)
+translate ru AlfredPath_86040f45:
     # "Balanced on the edge of the table, Sarah leaned against him, body to body, pressing one hand on his chest, another wrapped around his neck."
     ""
 
-# AlfredPath_2adae23e (line 68950)
-translate ru AlfredPath_2adae23e:
+# AlfredPath_415f11e6 (line 68950)
+translate ru AlfredPath_415f11e6:
     # "She pressed her tongue forward, meeting his, sliding it into his mouth as well."
     ""
 
-# AlfredPath_d18c9baa (line 68951)
-translate ru AlfredPath_d18c9baa:
+# AlfredPath_8a143667 (line 68951)
+translate ru AlfredPath_8a143667:
     # "A frenzied back and forth."
     ""
 
-# AlfredPath_6e32a327 (line 68952)
-translate ru AlfredPath_6e32a327:
+# AlfredPath_caaa7be7 (line 68952)
+translate ru AlfredPath_caaa7be7:
     # "All the while, he fucked her harder and harder."
     ""
 
-# AlfredPath_9ff6c723 (line 68953)
-translate ru AlfredPath_9ff6c723:
+# AlfredPath_5ea26c96 (line 68953)
+translate ru AlfredPath_5ea26c96:
     # "The sound of the suffering table, echoed loudly in the house."
     ""
 
-# AlfredPath_dabbe622 (line 68954)
-translate ru AlfredPath_dabbe622:
+# AlfredPath_cc3cd6a5 (line 68954)
+translate ru AlfredPath_cc3cd6a5:
     # "So many sensations, drowning out all the others, lost to a mad moment of lust."
     ""
 
-# AlfredPath_80265dd6 (line 68955)
-translate ru AlfredPath_80265dd6:
+# AlfredPath_9f4f21b3 (line 68955)
+translate ru AlfredPath_9f4f21b3:
     # "Why not him."
     ""
 
-# AlfredPath_9fc8fd73 (line 68956)
-translate ru AlfredPath_9fc8fd73:
+# AlfredPath_e5afbc66 (line 68956)
+translate ru AlfredPath_e5afbc66:
     # "She embraced the truth of her situation, fully, for the first time."
     ""
 
-# AlfredPath_0d6de42f (line 68957)
-translate ru AlfredPath_0d6de42f:
+# AlfredPath_9777fc50 (line 68957)
+translate ru AlfredPath_9777fc50:
     # "It was her own arrogance that had allowed her to deny it for so long, she concluded."
     ""
 
-# AlfredPath_577f9390 (line 68958)
-translate ru AlfredPath_577f9390:
+# AlfredPath_9100f745 (line 68958)
+translate ru AlfredPath_9100f745:
     # "She had long ceased to be a Princess, but only now did she truly kill that part of herself."
     ""
 
-# AlfredPath_eedd1d31 (line 68959)
-translate ru AlfredPath_eedd1d31:
+# AlfredPath_1b516763 (line 68959)
+translate ru AlfredPath_1b516763:
     # "A princess without a kingdom was no princess at all."
     ""
 
-# AlfredPath_e31355aa (line 68960)
-translate ru AlfredPath_e31355aa:
+# AlfredPath_4d841f80 (line 68960)
+translate ru AlfredPath_4d841f80:
     # "She was just a girl, wandering the world, with nothing, going nowhere."
     ""
 
-# AlfredPath_84d8a2a6 (line 68961)
-translate ru AlfredPath_84d8a2a6:
+# AlfredPath_f21a5c00 (line 68961)
+translate ru AlfredPath_f21a5c00:
     # "Many women in the world no doubt envied a chance like the one she had. A chance for safety, security. To never question where to sleep or how to get food."
     ""
 
-# AlfredPath_8f125e91 (line 68962)
-translate ru AlfredPath_8f125e91:
+# AlfredPath_0229bee3 (line 68962)
+translate ru AlfredPath_0229bee3:
     # "As she bounced on his cock, she felt the pleasure between her legs grow deeper."
     ""
 
-# AlfredPath_9a030045 (line 68963)
-translate ru AlfredPath_9a030045:
+# AlfredPath_af95bc32 (line 68963)
+translate ru AlfredPath_af95bc32:
     # "And with every part of her old self that she killed off, she allowed herself to enjoy him more."
     ""
 
-# AlfredPath_00279695 (line 68964)
-translate ru AlfredPath_00279695:
+# AlfredPath_7fdc18d8 (line 68964)
+translate ru AlfredPath_7fdc18d8:
     # "Running her fingers across his old body, exploring every mark and scar on it."
     ""
 
-# AlfredPath_40195891 (line 68965)
-translate ru AlfredPath_40195891:
+# AlfredPath_86efc0ce (line 68965)
+translate ru AlfredPath_86efc0ce:
     # "Feeling his eager desire on her breasts, between her legs, in her mouth."
     ""
 
-# AlfredPath_fb360f21 (line 68966)
-translate ru AlfredPath_fb360f21:
+# AlfredPath_509eda6d (line 68966)
+translate ru AlfredPath_509eda6d:
     # "A man who desired her. Provided for her."
     ""
 
-# AlfredPath_ccb9ed14 (line 68967)
-translate ru AlfredPath_ccb9ed14:
+# AlfredPath_b4a83258 (line 68967)
+translate ru AlfredPath_b4a83258:
     # "What more could a woman ask for?"
     ""
 
-# AlfredPath_c84a4874 (line 68968)
-translate ru AlfredPath_c84a4874:
+# AlfredPath_03017250 (line 68968)
+translate ru AlfredPath_03017250:
     # "In the midsts of the frenzied lust, she opened her eyes and saw him."
     ""
 
-# AlfredPath_0a647843 (line 68969)
-translate ru AlfredPath_0a647843:
+# AlfredPath_a1e0c9e0 (line 68969)
+translate ru AlfredPath_a1e0c9e0:
     # "His panting breath, the way his fingers dug into her skin, the exhaustion mixed with the endless lust for her."
     ""
 
-# AlfredPath_8dc06c6e (line 68970)
-translate ru AlfredPath_8dc06c6e:
+# AlfredPath_f7859933 (line 68970)
+translate ru AlfredPath_f7859933:
     # "And she found him strangely handsome."
     ""
 
-# AlfredPath_293b99d5 (line 68971)
-translate ru AlfredPath_293b99d5:
+# AlfredPath_72c8d2d6 (line 68971)
+translate ru AlfredPath_72c8d2d6:
     # "Some glimmer of the man he had been in his prime, coming back to life in him."
     ""
 
-# AlfredPath_b1141816 (line 68972)
-translate ru AlfredPath_b1141816:
+# AlfredPath_1cd91a17 (line 68972)
+translate ru AlfredPath_1cd91a17:
     # "Sarah smiled, thinking of what he might have been in his youth."
     ""
 
-# AlfredPath_178401b8 (line 68973)
-translate ru AlfredPath_178401b8:
+# AlfredPath_b5edbefe (line 68973)
+translate ru AlfredPath_b5edbefe:
     # "How back then, he could have probably fucked her all day."
     ""
 
-# AlfredPath_3f8ff30a (line 68974)
-translate ru AlfredPath_3f8ff30a:
+# AlfredPath_04520f28 (line 68974)
+translate ru AlfredPath_04520f28:
     # "And her hands eagerly traced his body again, feeling the echoes of faded muscles and lost strength."
     ""
 
-# AlfredPath_37b8f9d8 (line 68975)
-translate ru AlfredPath_37b8f9d8:
+# AlfredPath_5108ed5c (line 68975)
+translate ru AlfredPath_5108ed5c:
     # s "Aaah!!"
     s ""
 
-# AlfredPath_2ace64f2 (line 68976)
-translate ru AlfredPath_2ace64f2:
+# AlfredPath_41665a89 (line 68976)
+translate ru AlfredPath_41665a89:
     # "She moaned for him as his cock penetrated her from just the right angle."
     ""
 
-# AlfredPath_006309d4 (line 68977)
-translate ru AlfredPath_006309d4:
+# AlfredPath_405b359a (line 68977)
+translate ru AlfredPath_405b359a:
     # "Quick to understand, Alfred began to repeat the exact motion that had solicited Sarah's moan."
     ""
 
-# AlfredPath_d27315ef (line 68978)
-translate ru AlfredPath_d27315ef:
+# AlfredPath_64c84310 (line 68978)
+translate ru AlfredPath_64c84310:
     # "Faster and faster, taking her just right, Sarah felt the unstoppable build up of pleasure between her legs."
     ""
 
-# AlfredPath_f0e5642d (line 68979)
-translate ru AlfredPath_f0e5642d:
+# AlfredPath_d82dcb49 (line 68979)
+translate ru AlfredPath_d82dcb49:
     # "She had revealed a weakness to him, and now he pounced on it."
     ""
 
-# AlfredPath_c9876ab6 (line 68980)
-translate ru AlfredPath_c9876ab6:
+# AlfredPath_0ebbf89a (line 68980)
+translate ru AlfredPath_0ebbf89a:
     # "It wasn't long before her moaning dominated the room, even louder than the table."
     ""
 
-# AlfredPath_8a65be8d (line 68981)
-translate ru AlfredPath_8a65be8d:
+# AlfredPath_250b0bff (line 68981)
+translate ru AlfredPath_250b0bff:
     # s "Aaah!"
     s ""
 
-# AlfredPath_3c331328 (line 68982)
-translate ru AlfredPath_3c331328:
+# AlfredPath_a5b2d618 (line 68982)
+translate ru AlfredPath_a5b2d618:
     # s "Fuck! Aaah!"
     s ""
 
-# AlfredPath_129a4c3c (line 68983)
-translate ru AlfredPath_129a4c3c:
+# AlfredPath_fb41a0e5 (line 68983)
+translate ru AlfredPath_fb41a0e5:
     # s "Alfred...aaa!! Fuck!!"
     s ""
 
-# AlfredPath_a7b59a94 (line 68984)
-translate ru AlfredPath_a7b59a94:
+# AlfredPath_2cf9bd8b (line 68984)
+translate ru AlfredPath_2cf9bd8b:
     # "Her hands gripped the edge of the table, seeking any release."
     ""
 
-# AlfredPath_225cb42a (line 68985)
-translate ru AlfredPath_225cb42a:
+# AlfredPath_72b8c46c (line 68985)
+translate ru AlfredPath_72b8c46c:
     # "But she could not stop any of it."
     ""
 
-# AlfredPath_b38300af (line 68986)
-translate ru AlfredPath_b38300af:
+# AlfredPath_d967c913 (line 68986)
+translate ru AlfredPath_d967c913:
     # "He had figured out a part of her body, and now she was helpless before him."
     ""
 
-# AlfredPath_873316ad (line 68987)
-translate ru AlfredPath_873316ad:
+# AlfredPath_0af8a9ec (line 68987)
+translate ru AlfredPath_0af8a9ec:
     # "Sarah felt the sweat drip from her chin onto her breast."
     ""
 
-# AlfredPath_76732224 (line 68988)
-translate ru AlfredPath_76732224:
+# AlfredPath_a233727f (line 68988)
+translate ru AlfredPath_a233727f:
     # "And in between the haze of her own growing climax, she caught fragments of his face."
     ""
 
-# AlfredPath_cbf1277c (line 68989)
-translate ru AlfredPath_cbf1277c:
+# AlfredPath_87fa2a9b (line 68989)
+translate ru AlfredPath_87fa2a9b:
     # "The arrogant smile of a man so much her senior, managing to make her cum."
     ""
 
-# AlfredPath_e80f2847 (line 68990)
-translate ru AlfredPath_e80f2847:
+# AlfredPath_24ae6341 (line 68990)
+translate ru AlfredPath_24ae6341:
     # "Sarah felt him slide into her, one last time with perfection, and the last of her resistance died."
     ""
 
-# AlfredPath_64cc34e4 (line 68991)
-translate ru AlfredPath_64cc34e4:
+# AlfredPath_dd2bde6e (line 68991)
+translate ru AlfredPath_dd2bde6e:
     # "The pleasure that had dominated the whole of her body for so long, on the edge of climax, now crashed over."
     ""
 
-# AlfredPath_98ac4ef2 (line 68992)
-translate ru AlfredPath_98ac4ef2:
+# AlfredPath_948ef994 (line 68992)
+translate ru AlfredPath_948ef994:
     # "Sarah felt every muscle in her body contract, every particle of pleasure burning up into an inferno."
     ""
 
-# AlfredPath_20bd2ee1 (line 68993)
-translate ru AlfredPath_20bd2ee1:
+# AlfredPath_58ab94d3 (line 68993)
+translate ru AlfredPath_58ab94d3:
     # "With the last remant of her sanity, she fell forward into him, to keep herself from collapsing backwards onto the table."
     ""
 
-# AlfredPath_6fc9859c (line 68994)
-translate ru AlfredPath_6fc9859c:
+# AlfredPath_15a0f33f (line 68994)
+translate ru AlfredPath_15a0f33f:
     # "She held onto him for dear life as he continued to fuck her, driving the orgasm deeper."
     ""
 
-# AlfredPath_fb20b46f (line 68995)
-translate ru AlfredPath_fb20b46f:
+# AlfredPath_b4a1ff20 (line 68995)
+translate ru AlfredPath_b4a1ff20:
     # "Synapses, drowned in blissful white fire."
     ""
 
-# AlfredPath_c2ed4670 (line 68996)
-translate ru AlfredPath_c2ed4670:
+# AlfredPath_e3cba222 (line 68996)
+translate ru AlfredPath_e3cba222:
     # "Distantly, she heard a woman moaning like she had gone mad. It would be a while before she realized that had been herself."
     ""
 
-# AlfredPath_3e631e9b (line 68997)
-translate ru AlfredPath_3e631e9b:
+# AlfredPath_5b2a2c61 (line 68997)
+translate ru AlfredPath_5b2a2c61:
     # "She wrapped her body around him in any way she could."
     ""
 
-# AlfredPath_36b46d9a (line 68998)
-translate ru AlfredPath_36b46d9a:
+# AlfredPath_edb1f4f2 (line 68998)
+translate ru AlfredPath_edb1f4f2:
     # "Arms around his waist, fingers clutching his skin, legs wrapped tightly around his."
     ""
 
-# AlfredPath_a3aaf290 (line 68999)
-translate ru AlfredPath_a3aaf290:
+# AlfredPath_e5e3fd24 (line 68999)
+translate ru AlfredPath_e5e3fd24:
     # s "Aaaaaaaah!! Fuck!!!"
     s ""
 
-# AlfredPath_245a67e3 (line 69000)
-translate ru AlfredPath_245a67e3:
+# AlfredPath_3c2282c8 (line 69000)
+translate ru AlfredPath_3c2282c8:
     # "She moaned loudly into his ear, boasting his pride."
     ""
 
-# AlfredPath_26d83012 (line 69001)
-translate ru AlfredPath_26d83012:
+# AlfredPath_391b15bc (line 69001)
+translate ru AlfredPath_391b15bc:
     # "All the while he continued to fuck her, driving her further into the depths of a pleasure she wasn't sure she'd ever get out of."
     ""
 
-# AlfredPath_6cd3b587 (line 69002)
-translate ru AlfredPath_6cd3b587:
+# AlfredPath_b38431d6 (line 69002)
+translate ru AlfredPath_b38431d6:
     # "His eager lips on breasts, his hands cupping her neck, touching her everywhere."
     ""
 
-# AlfredPath_28cf2039 (line 69003)
-translate ru AlfredPath_28cf2039:
+# AlfredPath_67a527cb (line 69003)
+translate ru AlfredPath_67a527cb:
     # "In this moment, she would have yielded any part of herself to him."
     ""
 
-# AlfredPath_91f9a4ad (line 69004)
-translate ru AlfredPath_91f9a4ad:
+# AlfredPath_7d1d2c1c (line 69004)
+translate ru AlfredPath_7d1d2c1c:
     # "She felt him expand inside of her."
     ""
 
-# AlfredPath_7fd53531 (line 69005)
-translate ru AlfredPath_7fd53531:
+# AlfredPath_1c308db4 (line 69005)
+translate ru AlfredPath_1c308db4:
     # "He groaned loudly into her ear, pumping her full of his seed."
     ""
 
-# AlfredPath_dbb8a939 (line 69006)
-translate ru AlfredPath_dbb8a939:
+# AlfredPath_60a27f15 (line 69006)
+translate ru AlfredPath_60a27f15:
     # "The door creaked."
     ""
 
-# AlfredPath_1328d487 (line 69012)
-translate ru AlfredPath_1328d487:
+# AlfredPath_efe0699a (line 69012)
+translate ru AlfredPath_efe0699a:
     # "He walked through."
     ""
 
-# AlfredPath_411dfd1c (line 69013)
-translate ru AlfredPath_411dfd1c:
+# AlfredPath_1d331afe (line 69013)
+translate ru AlfredPath_1d331afe:
     # "And their world ended."
     ""
 
-# AlfredPath_4a0e7d89 (line 69014)
-translate ru AlfredPath_4a0e7d89:
+# AlfredPath_0633380a (line 69014)
+translate ru AlfredPath_0633380a:
     # "For a brief moment, all three of them could do nothing but stare."
     ""
 
-# AlfredPath_5a0f3df2 (line 69015)
-translate ru AlfredPath_5a0f3df2:
+# AlfredPath_29e74379 (line 69015)
+translate ru AlfredPath_29e74379:
     # "Marius stood in the doorway, an expression of pure shock on his face."
     ""
 
-# AlfredPath_4b26bbc3 (line 69016)
-translate ru AlfredPath_4b26bbc3:
+# AlfredPath_4476ba03 (line 69016)
+translate ru AlfredPath_4476ba03:
     # "Sarah and Alfred both froze, fearing that any movement would only make the situation worse."
     ""
 
-# AlfredPath_5f509439 (line 69017)
-translate ru AlfredPath_5f509439:
+# AlfredPath_eed6a3a0 (line 69017)
+translate ru AlfredPath_eed6a3a0:
     # "And deafening silence ruled the house."
     ""
 
-# AlfredPath_8e3716fe (line 69018)
-translate ru AlfredPath_8e3716fe:
+# AlfredPath_a280940a (line 69018)
+translate ru AlfredPath_a280940a:
     # mar "What...what are...what are you..."
     mar ""
 
-# AlfredPath_e9d482f6 (line 69019)
-translate ru AlfredPath_e9d482f6:
+# AlfredPath_98aac1c7 (line 69019)
+translate ru AlfredPath_98aac1c7:
     # "Sarah raised a hand."
     ""
 
-# AlfredPath_29ea8d80 (line 69020)
-translate ru AlfredPath_29ea8d80:
+# AlfredPath_196d60f8 (line 69020)
+translate ru AlfredPath_196d60f8:
     # s "Marius! It's not...it's not..."
     s ""
 
-# AlfredPath_430b8748 (line 69021)
-translate ru AlfredPath_430b8748:
+# AlfredPath_f4dde7bd (line 69021)
+translate ru AlfredPath_f4dde7bd:
     # "She wanted to say that it wasn't what it looked like, but the words were so absurd to her, she could not even pretend to lie."
     ""
 
-# AlfredPath_34ad01f1 (line 69022)
-translate ru AlfredPath_34ad01f1:
+# AlfredPath_e31c0aa6 (line 69022)
+translate ru AlfredPath_e31c0aa6:
     # "She was literally on the edge of the table, still naked, Alfred's cock still inside of her, full of his seed."
     ""
 
-# AlfredPath_4b635da3 (line 69023)
-translate ru AlfredPath_4b635da3:
+# AlfredPath_6ef52576 (line 69023)
+translate ru AlfredPath_6ef52576:
     # "There could be no pretending."
     ""
 
-# AlfredPath_33391bfd (line 69024)
-translate ru AlfredPath_33391bfd:
+# AlfredPath_2f81fb4e (line 69024)
+translate ru AlfredPath_2f81fb4e:
     # alf "Look, boy..."
     alf ""
 
-# AlfredPath_b23ce645 (line 69025)
-translate ru AlfredPath_b23ce645:
+# AlfredPath_01446123 (line 69025)
+translate ru AlfredPath_01446123:
     # "Alfred suddenly moved and took control of the situation."
     ""
 
-# AlfredPath_f7f0377c (line 69026)
-translate ru AlfredPath_f7f0377c:
+# AlfredPath_cadd1453 (line 69026)
+translate ru AlfredPath_cadd1453:
     # "He stepped away, his glistening cock, slipping out from Sarah."
     ""
 
-# AlfredPath_74f6804e (line 69027)
-translate ru AlfredPath_74f6804e:
+# AlfredPath_1435ba7a (line 69027)
+translate ru AlfredPath_1435ba7a:
     # "Sarah fell onto the ground, scrambling for her clothes and any fragment of dignity she hoped to find among them."
     ""
 
-# AlfredPath_23abfc0b (line 69028)
-translate ru AlfredPath_23abfc0b:
+# AlfredPath_0646d16f (line 69028)
+translate ru AlfredPath_0646d16f:
     # alf "I know you're shocked."
     alf ""
 
-# AlfredPath_880d8efc (line 69029)
-translate ru AlfredPath_880d8efc:
+# AlfredPath_e502e659 (line 69029)
+translate ru AlfredPath_e502e659:
     # alf "I tells you what, you go out there, finish the work day, and be back again tonight, okay?"
     alf ""
 
-# AlfredPath_0d172cd7 (line 69030)
-translate ru AlfredPath_0d172cd7:
+# AlfredPath_d8ffff3a (line 69030)
+translate ru AlfredPath_d8ffff3a:
     # mar "I..."
     mar ""
 
-# AlfredPath_7f18e1ca (line 69031)
-translate ru AlfredPath_7f18e1ca:
+# AlfredPath_acd0a8f9 (line 69031)
+translate ru AlfredPath_acd0a8f9:
     # alf "Listen to me, boy. I'm your father and I'm telling you how it's gonna be."
     alf ""
 
-# AlfredPath_80474d90 (line 69032)
-translate ru AlfredPath_80474d90:
+# AlfredPath_427821cc (line 69032)
+translate ru AlfredPath_427821cc:
     # alf "Go out into those fields, work, and clear your head."
     alf ""
 
-# AlfredPath_53fd2f24 (line 69033)
-translate ru AlfredPath_53fd2f24:
+# AlfredPath_a7c4b31e (line 69033)
+translate ru AlfredPath_a7c4b31e:
     # alf "We'll talk about this tonight."
     alf ""
 
-# AlfredPath_7a290606 (line 69034)
-translate ru AlfredPath_7a290606:
+# AlfredPath_5db694ab (line 69034)
+translate ru AlfredPath_5db694ab:
     # "Marius' stunned expression remained."
     ""
 
-# AlfredPath_503da6c6 (line 69035)
-translate ru AlfredPath_503da6c6:
+# AlfredPath_381fb39b (line 69035)
+translate ru AlfredPath_381fb39b:
     # "Lifelessly, he slowly turned."
     ""
 
-# AlfredPath_833a13bf (line 69036)
-translate ru AlfredPath_833a13bf:
+# AlfredPath_fc6be93e (line 69036)
+translate ru AlfredPath_fc6be93e:
     # "Then left."
     ""
 
-# AlfredPath_ec678e9c (line 69037)
-translate ru AlfredPath_ec678e9c:
+# AlfredPath_56ab5b73 (line 69037)
+translate ru AlfredPath_56ab5b73:
     # "Never speaking a word."
     ""
 
-# AlfredPath_0f2814f1 (line 69043)
-translate ru AlfredPath_0f2814f1:
+# AlfredPath_794dde00 (line 69043)
+translate ru AlfredPath_794dde00:
     # "As the door fell shut behind him, a small hint of peace returned."
     ""
 
-# AlfredPath_d5ffc3cd (line 69044)
-translate ru AlfredPath_d5ffc3cd:
+# AlfredPath_790582ef (line 69044)
+translate ru AlfredPath_790582ef:
     # "Sarah held her bundled up clothes together across her chest."
     ""
 
-# AlfredPath_73233280 (line 69045)
-translate ru AlfredPath_73233280:
+# AlfredPath_ca2bfaf5 (line 69045)
+translate ru AlfredPath_ca2bfaf5:
     # s "Fuck...fuck...fuck..."
     s ""
 
-# AlfredPath_9894df12 (line 69046)
-translate ru AlfredPath_9894df12:
+# AlfredPath_0811906c (line 69046)
+translate ru AlfredPath_0811906c:
     # "She muttered the words as if they'd do anything to fix the situation."
     ""
 
-# AlfredPath_f23c31d4 (line 69047)
-translate ru AlfredPath_f23c31d4:
+# AlfredPath_1023c226 (line 69047)
+translate ru AlfredPath_1023c226:
     # s "What are we gonna do?!"
     s ""
 
-# AlfredPath_d6c956c8 (line 69048)
-translate ru AlfredPath_d6c956c8:
+# AlfredPath_65d1247e (line 69048)
+translate ru AlfredPath_65d1247e:
     # "She almost yelled at Alfred."
     ""
 
-# AlfredPath_31d7db44 (line 69049)
-translate ru AlfredPath_31d7db44:
+# AlfredPath_0df262c3 (line 69049)
+translate ru AlfredPath_0df262c3:
     # "Alfred walked over to her, still fully nude. His member now flaccid, though still impressive."
     ""
 
-# AlfredPath_b4afd2fd (line 69050)
-translate ru AlfredPath_b4afd2fd:
+# AlfredPath_cd664b17 (line 69050)
+translate ru AlfredPath_cd664b17:
     # alf "Listen, girly. It ain't gonna be a problem, okay?"
     alf ""
 
-# AlfredPath_6b6f1a58 (line 69051)
-translate ru AlfredPath_6b6f1a58:
+# AlfredPath_10ebab1d (line 69051)
+translate ru AlfredPath_10ebab1d:
     # "He reached down with one hand and Sarah took his."
     ""
 
-# AlfredPath_b8a27c78 (line 69052)
-translate ru AlfredPath_b8a27c78:
+# AlfredPath_1e222678 (line 69052)
+translate ru AlfredPath_1e222678:
     # "Alfred took the bundle of clothes from her arms and put them on the table."
     ""
 
-# AlfredPath_5067b032 (line 69053)
-translate ru AlfredPath_5067b032:
+# AlfredPath_f704ee28 (line 69053)
+translate ru AlfredPath_f704ee28:
     # "Each of them naked in front of the other, just as they had been only moment before."
     ""
 
-# AlfredPath_191812a1 (line 69054)
-translate ru AlfredPath_191812a1:
+# AlfredPath_6e1e4094 (line 69054)
+translate ru AlfredPath_6e1e4094:
     # "Before Marius ruined everything."
     ""
 
-# AlfredPath_9ac7e32d (line 69055)
-translate ru AlfredPath_9ac7e32d:
+# AlfredPath_33d141e0 (line 69055)
+translate ru AlfredPath_33d141e0:
     # alf "I know you're worried."
     alf ""
 
-# AlfredPath_7c0ff921 (line 69056)
-translate ru AlfredPath_7c0ff921:
+# AlfredPath_b80e7fa4 (line 69056)
+translate ru AlfredPath_b80e7fa4:
     # alf "But I know my boy, okay?"
     alf ""
 
-# AlfredPath_061ab588 (line 69057)
-translate ru AlfredPath_061ab588:
+# AlfredPath_491fd8f5 (line 69057)
+translate ru AlfredPath_491fd8f5:
     # alf "He'll need a bit of talking to, but he'll come to understand."
     alf ""
 
-# AlfredPath_bed69596 (line 69058)
-translate ru AlfredPath_bed69596:
+# AlfredPath_73984813 (line 69058)
+translate ru AlfredPath_73984813:
     # "Sarah frowned."
     ""
 
-# AlfredPath_a11f5865 (line 69059)
-translate ru AlfredPath_a11f5865:
+# AlfredPath_8283cdab (line 69059)
+translate ru AlfredPath_8283cdab:
     # s "But he's going to be angry!"
     s ""
 
-# AlfredPath_685b1f07 (line 69060)
-translate ru AlfredPath_685b1f07:
+# AlfredPath_c3d2b8bc (line 69060)
+translate ru AlfredPath_c3d2b8bc:
     # alf "Of course he is."
     alf ""
 
-# AlfredPath_44750ae2 (line 69061)
-translate ru AlfredPath_44750ae2:
+# AlfredPath_147ea358 (line 69061)
+translate ru AlfredPath_147ea358:
     # alf "He's a young buck, he'll shout and scream and thrash about. But he bark more than he bite, okay?"
     alf ""
 
-# AlfredPath_356980aa (line 69062)
-translate ru AlfredPath_356980aa:
+# AlfredPath_de95e2ff (line 69062)
+translate ru AlfredPath_de95e2ff:
     # alf "Come here."
     alf ""
 
-# AlfredPath_59f22928 (line 69063)
-translate ru AlfredPath_59f22928:
+# AlfredPath_20467acb (line 69063)
+translate ru AlfredPath_20467acb:
     # "He pulled her by her waist closer to him."
     ""
 
-# AlfredPath_9d6f5e6f (line 69064)
-translate ru AlfredPath_9d6f5e6f:
+# AlfredPath_a8c03197 (line 69064)
+translate ru AlfredPath_a8c03197:
     # "He leaned in and kissed her, a confidence as if she'd never refuse him."
     ""
 
-# AlfredPath_c878902f (line 69065)
-translate ru AlfredPath_c878902f:
+# AlfredPath_5cb223ee (line 69065)
+translate ru AlfredPath_5cb223ee:
     # "Somehow, the kiss made her head feel lighter, the problems more distant."
     ""
 
-# AlfredPath_cb854807 (line 69066)
-translate ru AlfredPath_cb854807:
+# AlfredPath_bd7316d9 (line 69066)
+translate ru AlfredPath_bd7316d9:
     # "When they broke, she found Alfred smiling at her."
     ""
 
-# AlfredPath_1e1402f4 (line 69067)
-translate ru AlfredPath_1e1402f4:
+# AlfredPath_ed8ecc88 (line 69067)
+translate ru AlfredPath_ed8ecc88:
     # s "Why are you smiling? This is a huge problem..."
     s ""
 
-# AlfredPath_1105ff02 (line 69068)
-translate ru AlfredPath_1105ff02:
+# AlfredPath_8797fb7b (line 69068)
+translate ru AlfredPath_8797fb7b:
     # "Alfred laughed."
     ""
 
-# AlfredPath_4dadce35 (line 69069)
-translate ru AlfredPath_4dadce35:
+# AlfredPath_3dcf2fc8 (line 69069)
+translate ru AlfredPath_3dcf2fc8:
     # alf "A man my age can only be so angry when he's just finished fucking a girl like you."
     alf ""
 
-# AlfredPath_67066779 (line 69070)
-translate ru AlfredPath_67066779:
+# AlfredPath_db593473 (line 69070)
+translate ru AlfredPath_db593473:
     # "Sarah felt her face flush red."
     ""
 
-# AlfredPath_41d14985 (line 69071)
-translate ru AlfredPath_41d14985:
+# AlfredPath_4b1332cd (line 69071)
+translate ru AlfredPath_4b1332cd:
     # s "Come on, be serious!"
     s ""
 
-# AlfredPath_28abecf5 (line 69072)
-translate ru AlfredPath_28abecf5:
+# AlfredPath_4d470a39 (line 69072)
+translate ru AlfredPath_4d470a39:
     # alf "I am."
     alf ""
 
-# AlfredPath_0ad0c6aa (line 69073)
-translate ru AlfredPath_0ad0c6aa:
+# AlfredPath_49294e88 (line 69073)
+translate ru AlfredPath_49294e88:
     # alf "Trust me. My boy will get over it. I'll sort him out."
     alf ""
 
-# AlfredPath_ddce4057 (line 69074)
-translate ru AlfredPath_ddce4057:
+# AlfredPath_a7de4ec5 (line 69074)
+translate ru AlfredPath_a7de4ec5:
     # alf "You don't go about breaking your head over trouble like that, okay?"
     alf ""
 
-# AlfredPath_de2cbdb3 (line 69075)
-translate ru AlfredPath_de2cbdb3:
+# AlfredPath_64b5f3b1 (line 69075)
+translate ru AlfredPath_64b5f3b1:
     # alf "I promise. I'll make everything okay."
     alf ""
 
-# AlfredPath_1e507afd (line 69076)
-translate ru AlfredPath_1e507afd:
+# AlfredPath_3a390a45 (line 69076)
+translate ru AlfredPath_3a390a45:
     # "Sarah couldn't help but feel safe as he said it. She believed him."
     ""
 
-# AlfredPath_1a0fcdc8 (line 69077)
-translate ru AlfredPath_1a0fcdc8:
+# AlfredPath_7fdeb532 (line 69077)
+translate ru AlfredPath_7fdeb532:
     # s "So...now what do we do?"
     s ""
 
-# AlfredPath_e0dc7124 (line 69078)
-translate ru AlfredPath_e0dc7124:
+# AlfredPath_a55b9274 (line 69078)
+translate ru AlfredPath_a55b9274:
     # "Alfred pointed at her clothes."
     ""
 
-# AlfredPath_0288f4d3 (line 69079)
-translate ru AlfredPath_0288f4d3:
+# AlfredPath_e2b5485b (line 69079)
+translate ru AlfredPath_e2b5485b:
     # alf "Laundry is a good place to start. Those clothes got dirt on the floor, and we got a pile more."
     alf ""
 
-# AlfredPath_b246955b (line 69080)
-translate ru AlfredPath_b246955b:
+# AlfredPath_1bfab165 (line 69080)
+translate ru AlfredPath_1bfab165:
     # "Sarah felt a little insulted at being put right back to work. Then again, this was a place where everyone had to contribute."
     ""
 
-# AlfredPath_4f0e339b (line 69081)
-translate ru AlfredPath_4f0e339b:
+# AlfredPath_b244e5e4 (line 69081)
+translate ru AlfredPath_b244e5e4:
     # s "This is my only outfit. What am I gonna wear if it's drying out?"
     s ""
 
-# AlfredPath_b7f92595 (line 69082)
-translate ru AlfredPath_b7f92595:
+# AlfredPath_ede3bdae (line 69082)
+translate ru AlfredPath_ede3bdae:
     # "Alfred laughed."
     ""
 
-# AlfredPath_030d5bd6 (line 69083)
-translate ru AlfredPath_030d5bd6:
+# AlfredPath_7d2111b6 (line 69083)
+translate ru AlfredPath_7d2111b6:
     # alf "Well now, that will be a sight to see."
     alf ""
 
-# AlfredPath_26b1c94f (line 69084)
-translate ru AlfredPath_26b1c94f:
+# AlfredPath_c5667a1e (line 69084)
+translate ru AlfredPath_c5667a1e:
     # "Sarah wanted to be angry with him, but found it impossible to summon the emotion."
     ""
 
-# AlfredPath_1d78699e (line 69085)
-translate ru AlfredPath_1d78699e:
+# AlfredPath_abb84a9b (line 69085)
+translate ru AlfredPath_abb84a9b:
     # "She felt Alfred smack her across the ass, and that seemed to settle things."
     ""
 
-# AlfredPath_3efe96e3 (line 69086)
-translate ru AlfredPath_3efe96e3:
+# AlfredPath_fb40be9d (line 69086)
+translate ru AlfredPath_fb40be9d:
     # "Sarah hung the laundry out, and with nothing else to wear, worked the remainder of the day in the nude."
     ""
 
-# AlfredPath_29ef03e2 (line 69087)
-translate ru AlfredPath_29ef03e2:
+# AlfredPath_e8f97a32 (line 69087)
+translate ru AlfredPath_e8f97a32:
     # "From the corner of her eyes, she could see Alfred sitting on his chair outside the house, looking on approvingly."
     ""
 
-# AlfredPath_9f653478 (line 69088)
-translate ru AlfredPath_9f653478:
+# AlfredPath_1aaf8aa0 (line 69088)
+translate ru AlfredPath_1aaf8aa0:
     # "Whenever she walked past him, whether it was to fetch more laundry or make lunch, he'd give her a quick slap on her ass."
     ""
 
-# AlfredPath_1e426438 (line 69089)
-translate ru AlfredPath_1e426438:
+# AlfredPath_bdb1abc2 (line 69089)
+translate ru AlfredPath_bdb1abc2:
     # "It offended her. Then she began to enjoy it."
     ""
 
-# AlfredPath_4eae2f7c (line 69090)
-translate ru AlfredPath_4eae2f7c:
+# AlfredPath_16c43ddc (line 69090)
+translate ru AlfredPath_16c43ddc:
     # "In between the work and Alfred's teasing, it wasn't long before Sarah had nearly forgotten that Marius had walked in on them."
     ""
 
-# AlfredPath_35f20f02 (line 69091)
-translate ru AlfredPath_35f20f02:
+# AlfredPath_a44b29e3 (line 69091)
+translate ru AlfredPath_a44b29e3:
     # "She sank back into the easy, blissful way of being."
     ""
 
-# AlfredPath_0b277fe8 (line 69092)
-translate ru AlfredPath_0b277fe8:
+# AlfredPath_0b8c455b (line 69092)
+translate ru AlfredPath_0b8c455b:
     # "The life she wanted and was so close."
     ""
 
-# AlfredPath_f36beedb (line 69094)
-translate ru AlfredPath_f36beedb:
+# AlfredPath_c9e85232 (line 69094)
+translate ru AlfredPath_c9e85232:
     # "When the sun began to set, Sarah could feel her nerves return."
     ""
 
-# AlfredPath_50e85c7d (line 69095)
-translate ru AlfredPath_50e85c7d:
+# AlfredPath_aded2acb (line 69095)
+translate ru AlfredPath_aded2acb:
     # "Marius would soon be back."
     ""
 
-# AlfredPath_3fc2b83c (line 69096)
-translate ru AlfredPath_3fc2b83c:
+# AlfredPath_a8ea6e63 (line 69096)
+translate ru AlfredPath_a8ea6e63:
     # "She found herself repeatedly looking out of the window, towards the horizon."
     ""
 
-# AlfredPath_e35b4a2e (line 69097)
-translate ru AlfredPath_e35b4a2e:
+# AlfredPath_c060c1f7 (line 69097)
+translate ru AlfredPath_c060c1f7:
     # "Each time, the road was empty."
     ""
 
-# AlfredPath_2c0ee3bf (line 69098)
-translate ru AlfredPath_2c0ee3bf:
+# AlfredPath_4c53bda6 (line 69098)
+translate ru AlfredPath_4c53bda6:
     # "She repeated it long enough until she almost believed he might never return."
     ""
 
-# AlfredPath_5f42d3bf (line 69099)
-translate ru AlfredPath_5f42d3bf:
+# AlfredPath_54b70de2 (line 69099)
+translate ru AlfredPath_54b70de2:
     # "Just as her heart began to set, she glanced out the window and saw the figure of Marius making his way up the road."
     ""
 
-# AlfredPath_b7595e80 (line 69100)
-translate ru AlfredPath_b7595e80:
+# AlfredPath_236496c2 (line 69100)
+translate ru AlfredPath_236496c2:
     # "Even from a distance, she could see he was in a foul mood."
     ""
 
-# AlfredPath_a2bc6c69 (line 69101)
-translate ru AlfredPath_a2bc6c69:
+# AlfredPath_1fef26fa (line 69101)
+translate ru AlfredPath_1fef26fa:
     # "Sarah turned to Alfred who was sitting at the dinner table."
     ""
 
-# AlfredPath_67add103 (line 69102)
-translate ru AlfredPath_67add103:
+# AlfredPath_18ad7c8b (line 69102)
+translate ru AlfredPath_18ad7c8b:
     # s "He's coming."
     s ""
 
-# AlfredPath_ecef54cf (line 69103)
-translate ru AlfredPath_ecef54cf:
+# AlfredPath_9b482f63 (line 69103)
+translate ru AlfredPath_9b482f63:
     # "Alfred just nodded."
     ""
 
-# AlfredPath_a31ebc8f (line 69104)
-translate ru AlfredPath_a31ebc8f:
+# AlfredPath_17fffa17 (line 69104)
+translate ru AlfredPath_17fffa17:
     # "It felt wrong to her, to even say that much to Alfred."
     ""
 
-# AlfredPath_c91117f3 (line 69105)
-translate ru AlfredPath_c91117f3:
+# AlfredPath_b40eba21 (line 69105)
+translate ru AlfredPath_b40eba21:
     # "As if she was spying for him."
     ""
 
-# AlfredPath_eb0ef852 (line 69106)
-translate ru AlfredPath_eb0ef852:
+# AlfredPath_b29f66fc (line 69106)
+translate ru AlfredPath_b29f66fc:
     # "But Sarah realized the simple truth. Between the two men, she had made her pact with Alfred."
     ""
 
-# AlfredPath_65449d04 (line 69107)
-translate ru AlfredPath_65449d04:
+# AlfredPath_c4ed7971 (line 69107)
+translate ru AlfredPath_c4ed7971:
     # "She had never said it aloud, but it was the truth."
     ""
 
-# AlfredPath_d4c56fd0 (line 69108)
-translate ru AlfredPath_d4c56fd0:
+# AlfredPath_ffb7f5fb (line 69108)
+translate ru AlfredPath_ffb7f5fb:
     # "Moments later, the door opened and Marius walked through."
     ""
 
-# AlfredPath_3c8904a2 (line 69109)
-translate ru AlfredPath_3c8904a2:
+# AlfredPath_7eb9241d (line 69109)
+translate ru AlfredPath_7eb9241d:
     # "His lumbering frame dominated the doorway."
     ""
 
-# AlfredPath_f169b1e8 (line 69110)
-translate ru AlfredPath_f169b1e8:
+# AlfredPath_f1a9a3bf (line 69110)
+translate ru AlfredPath_f1a9a3bf:
     # "Before she had thought of him as a friendly giant. Now he just seemed like a giant, one that could smash the both of them with ease."
     ""
 
-# AlfredPath_76ae54b2 (line 69111)
-translate ru AlfredPath_76ae54b2:
+# AlfredPath_4e6bd9a9 (line 69111)
+translate ru AlfredPath_4e6bd9a9:
     # "Repressed rage painted his face."
     ""
 
-# AlfredPath_13cc8560 (line 69112)
-translate ru AlfredPath_13cc8560:
+# AlfredPath_90f62c6d (line 69112)
+translate ru AlfredPath_90f62c6d:
     # alf "You're home."
     alf ""
 
-# AlfredPath_460cf6ca (line 69113)
-translate ru AlfredPath_460cf6ca:
+# AlfredPath_14051a51 (line 69113)
+translate ru AlfredPath_14051a51:
     # "Alfred spoke calmly."
     ""
 
-# AlfredPath_3bd85081 (line 69119)
-translate ru AlfredPath_3bd85081:
+# AlfredPath_043c9239 (line 69119)
+translate ru AlfredPath_043c9239:
     # alf "Take a seat. Sarah is making dinner."
     alf ""
 
-# AlfredPath_852e9dc4 (line 69120)
-translate ru AlfredPath_852e9dc4:
+# AlfredPath_eff98c24 (line 69120)
+translate ru AlfredPath_eff98c24:
     # "Marius looked at her with a glance full of hatred."
     ""
 
-# AlfredPath_917f34d0 (line 69121)
-translate ru AlfredPath_917f34d0:
+# AlfredPath_e04287f8 (line 69121)
+translate ru AlfredPath_e04287f8:
     # mar "I'll take my dinner in the yard."
     mar ""
 
-# AlfredPath_c3a8c784 (line 69122)
-translate ru AlfredPath_c3a8c784:
+# AlfredPath_ed58a6db (line 69122)
+translate ru AlfredPath_ed58a6db:
     # "Alfred shook his head."
     ""
 
-# AlfredPath_85be0e69 (line 69123)
-translate ru AlfredPath_85be0e69:
+# AlfredPath_c3ddff35 (line 69123)
+translate ru AlfredPath_c3ddff35:
     # alf "No, you won't."
     alf ""
 
-# AlfredPath_e0527c3e (line 69124)
-translate ru AlfredPath_e0527c3e:
+# AlfredPath_e3e71464 (line 69124)
+translate ru AlfredPath_e3e71464:
     # alf "Now listen to me, boy, I said we'd talk and I meant it."
     alf ""
 
-# AlfredPath_d4836c8a (line 69125)
-translate ru AlfredPath_d4836c8a:
+# AlfredPath_c07beab8 (line 69125)
+translate ru AlfredPath_c07beab8:
     # alf "We got some things to get square, so sit your ass down in that chair."
     alf ""
 
-# AlfredPath_4fae42d7 (line 69126)
-translate ru AlfredPath_4fae42d7:
+# AlfredPath_8be6714f (line 69126)
+translate ru AlfredPath_8be6714f:
     # "He slammed the table."
     ""
 
-# AlfredPath_6361924a (line 69127)
-translate ru AlfredPath_6361924a:
+# AlfredPath_67216086 (line 69127)
+translate ru AlfredPath_67216086:
     # "Sarah looked on in awe as Marius reluctantly took a seat at the table."
     ""
 
-# AlfredPath_edabf4d9 (line 69128)
-translate ru AlfredPath_edabf4d9:
+# AlfredPath_7ef19622 (line 69128)
+translate ru AlfredPath_7ef19622:
     # "Marius was a giant. But before his father, he shrank into nothingness."
     ""
 
-# AlfredPath_317bf342 (line 69129)
-translate ru AlfredPath_317bf342:
+# AlfredPath_b202a5ec (line 69129)
+translate ru AlfredPath_b202a5ec:
     # "She imagined she could see how Alfred had controlled his son for decades."
     ""
 
-# AlfredPath_344224a7 (line 69130)
-translate ru AlfredPath_344224a7:
+# AlfredPath_dbee58ba (line 69130)
+translate ru AlfredPath_dbee58ba:
     # "Marius might be large and strong, but his father controlled him like a lion tamer controlled a lion."
     ""
 
-# AlfredPath_b67f2db5 (line 69131)
-translate ru AlfredPath_b67f2db5:
+# AlfredPath_2246f615 (line 69131)
+translate ru AlfredPath_2246f615:
     # "Alfred, she realized, was the man in charge."
     ""
 
-# AlfredPath_7c7e61b4 (line 69132)
-translate ru AlfredPath_7c7e61b4:
+# AlfredPath_c581ae7e (line 69132)
+translate ru AlfredPath_c581ae7e:
     # mar "What is there to talk?"
     mar ""
 
-# AlfredPath_0327bd28 (line 69133)
-translate ru AlfredPath_0327bd28:
+# AlfredPath_7dbb4192 (line 69133)
+translate ru AlfredPath_7dbb4192:
     # mar "The both of you came up with some lie? You can't convince me that I didn't see what I saw."
     mar ""
 
-# AlfredPath_479ec9c4 (line 69134)
-translate ru AlfredPath_479ec9c4:
+# AlfredPath_fab49e5b (line 69134)
+translate ru AlfredPath_fab49e5b:
     # "Alfred nodded."
     ""
 
-# AlfredPath_d58c12d6 (line 69135)
-translate ru AlfredPath_d58c12d6:
+# AlfredPath_f0ef6ca2 (line 69135)
+translate ru AlfredPath_f0ef6ca2:
     # "She snapped his finger."
     ""
 
-# AlfredPath_130935fd (line 69136)
-translate ru AlfredPath_130935fd:
+# AlfredPath_730492ae (line 69136)
+translate ru AlfredPath_730492ae:
     # alf "Sarah, dinner please."
     alf ""
 
-# AlfredPath_296b0a3f (line 69137)
-translate ru AlfredPath_296b0a3f:
+# AlfredPath_4eee21ce (line 69137)
+translate ru AlfredPath_4eee21ce:
     # "Sarah nodded and began to serve the men their dinner."
     ""
 
-# AlfredPath_6f6cdd0b (line 69138)
-translate ru AlfredPath_6f6cdd0b:
+# AlfredPath_7c1639e0 (line 69138)
+translate ru AlfredPath_7c1639e0:
     # "After the men had been served, Sarah quitely took her seat next to Alfred."
     ""
 
-# AlfredPath_f4f57d6b (line 69139)
-translate ru AlfredPath_f4f57d6b:
+# AlfredPath_4f1f2e7d (line 69139)
+translate ru AlfredPath_4f1f2e7d:
     # "It again felt like a betrayal, as if she was somehow picking sides, though she realized in a way that she had."
     ""
 
-# AlfredPath_bc56d2dd (line 69140)
-translate ru AlfredPath_bc56d2dd:
+# AlfredPath_c5e4fbcd (line 69140)
+translate ru AlfredPath_c5e4fbcd:
     # "All this animosity between father and son, because of her."
     ""
 
-# AlfredPath_49508dbe (line 69141)
-translate ru AlfredPath_49508dbe:
+# AlfredPath_845dc15d (line 69141)
+translate ru AlfredPath_845dc15d:
     # alf "Good, now listen..."
     alf ""
 
-# AlfredPath_b813447c (line 69142)
-translate ru AlfredPath_b813447c:
+# AlfredPath_957e2c95 (line 69142)
+translate ru AlfredPath_957e2c95:
     # "Alfred took in a deep breath."
     ""
 
-# AlfredPath_c31ddf9b (line 69143)
-translate ru AlfredPath_c31ddf9b:
+# AlfredPath_8db9ddb2 (line 69143)
+translate ru AlfredPath_8db9ddb2:
     # alf "You're not wrong about what you saw."
     alf ""
 
-# AlfredPath_ddd92d0f (line 69144)
-translate ru AlfredPath_ddd92d0f:
+# AlfredPath_150f7e8f (line 69144)
+translate ru AlfredPath_150f7e8f:
     # "She saw Marius glare at his father."
     ""
 
-# AlfredPath_2a1e353f (line 69145)
-translate ru AlfredPath_2a1e353f:
+# AlfredPath_f4e3b913 (line 69145)
+translate ru AlfredPath_f4e3b913:
     # alf "Sarah and I, we have been together ever since she first came here."
     alf ""
 
-# AlfredPath_352cfd31 (line 69146)
-translate ru AlfredPath_352cfd31:
+# AlfredPath_b299337a (line 69146)
+translate ru AlfredPath_b299337a:
     # "Sarah saw the rage on Marius' face again."
     ""
 
-# AlfredPath_bbba7fa4 (line 69147)
-translate ru AlfredPath_bbba7fa4:
+# AlfredPath_e21dbecd (line 69147)
+translate ru AlfredPath_e21dbecd:
     # mar "All this time you've been lying to my face?!"
     mar ""
 
-# AlfredPath_e23cea82 (line 69148)
-translate ru AlfredPath_e23cea82:
+# AlfredPath_e4b6f0e4 (line 69148)
+translate ru AlfredPath_e4b6f0e4:
     # alf "Watch your tone with me, boy!"
     alf ""
 
-# AlfredPath_fc8868cb (line 69154)
-translate ru AlfredPath_fc8868cb:
+# AlfredPath_e61c5239 (line 69154)
+translate ru AlfredPath_e61c5239:
     # "Alfred's voice boomed even louder then Marius'."
     ""
 
-# AlfredPath_ef84f6c6 (line 69155)
-translate ru AlfredPath_ef84f6c6:
+# AlfredPath_1bd1cbfc (line 69155)
+translate ru AlfredPath_1bd1cbfc:
     # "Sarah saw Marius shrink away."
     ""
 
-# AlfredPath_8473a001 (line 69156)
-translate ru AlfredPath_8473a001:
+# AlfredPath_19939b05 (line 69156)
+translate ru AlfredPath_19939b05:
     # "How small and weak, he suddenly seemed to her."
     ""
 
-# AlfredPath_c568f9e2 (line 69157)
-translate ru AlfredPath_c568f9e2:
+# AlfredPath_1fb083b6 (line 69157)
+translate ru AlfredPath_1fb083b6:
     # alf "Now, as I was saying, Sarah and I have been together."
     alf ""
 
-# AlfredPath_70e7f390 (line 69158)
-translate ru AlfredPath_70e7f390:
+# AlfredPath_ec8d0998 (line 69158)
+translate ru AlfredPath_ec8d0998:
     # alf "It started when we were talking late at night, about your mother, and what her loss meant to me."
     alf ""
 
-# AlfredPath_fb1b1137 (line 69159)
-translate ru AlfredPath_fb1b1137:
+# AlfredPath_bf45e999 (line 69159)
+translate ru AlfredPath_bf45e999:
     # "A lie. But Sarah wasn't about to betray the only ally she had left by revealing that."
     ""
 
-# AlfredPath_87fd0946 (line 69160)
-translate ru AlfredPath_87fd0946:
+# AlfredPath_86a99828 (line 69160)
+translate ru AlfredPath_86a99828:
     # alf "You know how much the loss of your mother hurt me."
     alf ""
 
-# AlfredPath_fcecbf3b (line 69161)
-translate ru AlfredPath_fcecbf3b:
+# AlfredPath_35d9b3cd (line 69161)
+translate ru AlfredPath_35d9b3cd:
     # "Marius slowly nodded."
     ""
 
-# AlfredPath_3c51a848 (line 69162)
-translate ru AlfredPath_3c51a848:
+# AlfredPath_2ab62d64 (line 69162)
+translate ru AlfredPath_2ab62d64:
     # alf "Well, one thing led to another, and before we knew it, we had ended up in bed together."
     alf ""
 
-# AlfredPath_5d1fc88b (line 69163)
-translate ru AlfredPath_5d1fc88b:
+# AlfredPath_97fb7d75 (line 69163)
+translate ru AlfredPath_97fb7d75:
     # alf "I know, it wasn't proper of me, but it happened before I could think better of it."
     alf ""
 
-# AlfredPath_c8835e2a (line 69164)
-translate ru AlfredPath_c8835e2a:
+# AlfredPath_1353cd46 (line 69164)
+translate ru AlfredPath_1353cd46:
     # "How kindly he painted himself, Sarah thought."
     ""
 
-# AlfredPath_6bd974e1 (line 69165)
-translate ru AlfredPath_6bd974e1:
+# AlfredPath_64420bf2 (line 69165)
+translate ru AlfredPath_64420bf2:
     # alf "After that, we wanted to tell you, but we were trying to find the proper words for it."
     alf ""
 
-# AlfredPath_8d4df009 (line 69166)
-translate ru AlfredPath_8d4df009:
+# AlfredPath_f3a1777a (line 69166)
+translate ru AlfredPath_f3a1777a:
     # alf "We wanted to plan a wedding, make it official."
     alf ""
 
-# AlfredPath_e9678a02 (line 69167)
-translate ru AlfredPath_e9678a02:
+# AlfredPath_f82ae64b (line 69167)
+translate ru AlfredPath_f82ae64b:
     # "Sarah felt her chest tighten."
     ""
 
-# AlfredPath_fea31706 (line 69168)
-translate ru AlfredPath_fea31706:
+# AlfredPath_64d6b16c (line 69168)
+translate ru AlfredPath_64d6b16c:
     # "The room was spinning."
     ""
 
-# AlfredPath_3f3fc298 (line 69169)
-translate ru AlfredPath_3f3fc298:
+# AlfredPath_499682f7 (line 69169)
+translate ru AlfredPath_499682f7:
     # "Marriage. Was this old man really talking about marriage? Had he gone insane?"
     ""
 
-# AlfredPath_d0142ca5 (line 69170)
-translate ru AlfredPath_d0142ca5:
+# AlfredPath_77acc3e0 (line 69170)
+translate ru AlfredPath_77acc3e0:
     # "This affair between them was one thing...but the idea of standing before a crowd of people and publicly confessing..."
     ""
 
-# AlfredPath_9197283e (line 69171)
-translate ru AlfredPath_9197283e:
+# AlfredPath_9b993ffe (line 69171)
+translate ru AlfredPath_9b993ffe:
     # "To let all the townsfolk know that he was her husband...and she is wife..."
     ""
 
-# AlfredPath_9f6ce6f4 (line 69172)
-translate ru AlfredPath_9f6ce6f4:
+# AlfredPath_ca86d905 (line 69172)
+translate ru AlfredPath_ca86d905:
     # "She could endure this shame in secret, but to have it made public like that..."
     ""
 
-# AlfredPath_eeafdab5 (line 69173)
-translate ru AlfredPath_eeafdab5:
+# AlfredPath_812d8fdc (line 69173)
+translate ru AlfredPath_812d8fdc:
     # mar "Marriage?!"
     mar ""
 
-# AlfredPath_4a8319cf (line 69174)
-translate ru AlfredPath_4a8319cf:
+# AlfredPath_e0e4646b (line 69174)
+translate ru AlfredPath_e0e4646b:
     # mar "Father! You know that I have been searching for someone to take as a wife for years!"
     mar ""
 
-# AlfredPath_c4769eda (line 69175)
-translate ru AlfredPath_c4769eda:
+# AlfredPath_81c1c484 (line 69175)
+translate ru AlfredPath_81c1c484:
     # mar "Then, just as she appears as if by fate, you...you...defile her!"
     mar ""
 
-# AlfredPath_8654d24a (line 69176)
-translate ru AlfredPath_8654d24a:
+# AlfredPath_861c1b53 (line 69176)
+translate ru AlfredPath_861c1b53:
     # "Defile. Somehow, Sarah hated how Marius said it, more than anything Alfred had ever done to her."
     ""
 
-# AlfredPath_06db4803 (line 69177)
-translate ru AlfredPath_06db4803:
+# AlfredPath_7a619d5a (line 69177)
+translate ru AlfredPath_7a619d5a:
     # s "Defile?!"
     s ""
 
-# AlfredPath_6b8e7fe3 (line 69183)
-translate ru AlfredPath_6b8e7fe3:
+# AlfredPath_5670c582 (line 69183)
+translate ru AlfredPath_5670c582:
     # "Sarah slammed her own hand on the table."
     ""
 
-# AlfredPath_d357cc07 (line 69184)
-translate ru AlfredPath_d357cc07:
+# AlfredPath_cdded9a7 (line 69184)
+translate ru AlfredPath_cdded9a7:
     # "She noticed not only Marius, but also Alfred, was taken by surprise."
     ""
 
-# AlfredPath_e3581f06 (line 69185)
-translate ru AlfredPath_e3581f06:
+# AlfredPath_26783ac2 (line 69185)
+translate ru AlfredPath_26783ac2:
     # s "I am a woman, all my own!"
     s ""
 
-# AlfredPath_db055c37 (line 69186)
-translate ru AlfredPath_db055c37:
+# AlfredPath_0d67a58b (line 69186)
+translate ru AlfredPath_0d67a58b:
     # mar "I...of course...I understand but-"
     mar ""
 
-# AlfredPath_21f23466 (line 69187)
-translate ru AlfredPath_21f23466:
+# AlfredPath_a252d1f2 (line 69187)
+translate ru AlfredPath_a252d1f2:
     # s "You understand nothing!"
     s ""
 
-# AlfredPath_b1daf645 (line 69188)
-translate ru AlfredPath_b1daf645:
+# AlfredPath_7a0067f9 (line 69188)
+translate ru AlfredPath_7a0067f9:
     # "She watched Marius shrink even further."
     ""
 
-# AlfredPath_24eeeec5 (line 69189)
-translate ru AlfredPath_24eeeec5:
+# AlfredPath_cb3aab66 (line 69189)
+translate ru AlfredPath_cb3aab66:
     # "He was large, only in body, she realized. He was small in every other way that mattered."
     ""
 
-# AlfredPath_908629ec (line 69190)
-translate ru AlfredPath_908629ec:
+# AlfredPath_ef8a48bb (line 69190)
+translate ru AlfredPath_ef8a48bb:
     # s "You think that because you came across me by the side of the road, that I am your property?"
     s ""
 
-# AlfredPath_f1cdcdea (line 69191)
-translate ru AlfredPath_f1cdcdea:
+# AlfredPath_0d7a994e (line 69191)
+translate ru AlfredPath_0d7a994e:
     # mar "No! I would never..."
     mar ""
 
-# AlfredPath_c51f8fe9 (line 69192)
-translate ru AlfredPath_c51f8fe9:
+# AlfredPath_281da343 (line 69192)
+translate ru AlfredPath_281da343:
     # s "What then?!"
     s ""
 
-# AlfredPath_4170a388 (line 69193)
-translate ru AlfredPath_4170a388:
+# AlfredPath_07fba489 (line 69193)
+translate ru AlfredPath_07fba489:
     # s "What obligation to you have I violated?"
     s ""
 
-# AlfredPath_6300cfd4 (line 69194)
-translate ru AlfredPath_6300cfd4:
+# AlfredPath_0a94926d (line 69194)
+translate ru AlfredPath_0a94926d:
     # "A silence lingered."
     ""
 
-# AlfredPath_0307a55f (line 69195)
-translate ru AlfredPath_0307a55f:
+# AlfredPath_ad4d3b67 (line 69195)
+translate ru AlfredPath_ad4d3b67:
     # s "Your father and I..."
     s ""
 
-# AlfredPath_b7036e8f (line 69196)
-translate ru AlfredPath_b7036e8f:
+# AlfredPath_8166e6c2 (line 69196)
+translate ru AlfredPath_8166e6c2:
     # "Sarah swallowed the bile in her throat."
     ""
 
-# AlfredPath_4c732409 (line 69197)
-translate ru AlfredPath_4c732409:
+# AlfredPath_2cd5176c (line 69197)
+translate ru AlfredPath_2cd5176c:
     # s "It...it happened as he said. We began talking on the first night."
     s ""
 
-# AlfredPath_8baec94f (line 69198)
-translate ru AlfredPath_8baec94f:
+# AlfredPath_469a87bd (line 69198)
+translate ru AlfredPath_469a87bd:
     # s "And the more we talked, the closer we grew, and then we...laid together."
     s ""
 
-# AlfredPath_f369b564 (line 69199)
-translate ru AlfredPath_f369b564:
+# AlfredPath_6db5d367 (line 69199)
+translate ru AlfredPath_6db5d367:
     # "An expression of defeat came over Marius."
     ""
 
-# AlfredPath_5a5c8e2f (line 69200)
-translate ru AlfredPath_5a5c8e2f:
+# AlfredPath_20ef4c6c (line 69200)
+translate ru AlfredPath_20ef4c6c:
     # "To hear Sarah confirm his father's story was a dagger to his heart."
     ""
 
-# AlfredPath_6bd9690c (line 69201)
-translate ru AlfredPath_6bd9690c:
+# AlfredPath_13215213 (line 69201)
+translate ru AlfredPath_13215213:
     # s "Now...I...I love...I love your father..."
     s ""
 
-# AlfredPath_cfd14ecc (line 69202)
-translate ru AlfredPath_cfd14ecc:
+# AlfredPath_6deb8cd5 (line 69202)
+translate ru AlfredPath_6deb8cd5:
     # "Sarah struggled to form the word."
     ""
 
-# AlfredPath_8dcd8332 (line 69203)
-translate ru AlfredPath_8dcd8332:
+# AlfredPath_6fa99817 (line 69203)
+translate ru AlfredPath_6fa99817:
     # "From the corner of her eyes, she saw Alfred smile proudly at her."
     ""
 
-# AlfredPath_af3e0478 (line 69204)
-translate ru AlfredPath_af3e0478:
+# AlfredPath_39fe51c0 (line 69204)
+translate ru AlfredPath_39fe51c0:
     # s "I understand that this is hard for you...for the ideas you had...or hoped could be..."
     s ""
 
-# AlfredPath_8311bb03 (line 69205)
-translate ru AlfredPath_8311bb03:
+# AlfredPath_c70d395b (line 69205)
+translate ru AlfredPath_c70d395b:
     # s "But this is the truth."
     s ""
 
-# AlfredPath_ace18372 (line 69206)
-translate ru AlfredPath_ace18372:
+# AlfredPath_e1bb4c7f (line 69206)
+translate ru AlfredPath_e1bb4c7f:
     # s "Your father and I...we are in love, and we will marry and that will be the end of it."
     s ""
 
-# AlfredPath_14374538 (line 69207)
-translate ru AlfredPath_14374538:
+# AlfredPath_802190d5 (line 69207)
+translate ru AlfredPath_802190d5:
     # mar "But...you're..."
     mar ""
 
-# AlfredPath_34d78024 (line 69208)
-translate ru AlfredPath_34d78024:
+# AlfredPath_ce9be170 (line 69208)
+translate ru AlfredPath_ce9be170:
     # "Marius gestured between the both of them."
     ""
 
-# AlfredPath_abd27e2e (line 69209)
-translate ru AlfredPath_abd27e2e:
+# AlfredPath_ea0326d1 (line 69209)
+translate ru AlfredPath_ea0326d1:
     # alf "What? Too old?"
     alf ""
 
-# AlfredPath_883511f8 (line 69210)
-translate ru AlfredPath_883511f8:
+# AlfredPath_ba31237a (line 69210)
+translate ru AlfredPath_ba31237a:
     # alf "I know, we make an odd pair, but between us, there is real love."
     alf ""
 
-# AlfredPath_a37356fc (line 69211)
-translate ru AlfredPath_a37356fc:
+# AlfredPath_cb53684e (line 69211)
+translate ru AlfredPath_cb53684e:
     # alf "And isn't that all that matters?"
     alf ""
 
-# AlfredPath_e1561a73 (line 69212)
-translate ru AlfredPath_e1561a73:
+# AlfredPath_b47bedc1 (line 69212)
+translate ru AlfredPath_b47bedc1:
     # "Marius looked at the both of them as if they had gone mad."
     ""
 
-# AlfredPath_3fcd6b26 (line 69213)
-translate ru AlfredPath_3fcd6b26:
+# AlfredPath_14c03d40 (line 69213)
+translate ru AlfredPath_14c03d40:
     # alf "Now, son. I can understand your anger, and even forgive you for speaking out of turn or raising your voice."
     alf ""
 
-# AlfredPath_b938b040 (line 69214)
-translate ru AlfredPath_b938b040:
+# AlfredPath_bc6860ae (line 69214)
+translate ru AlfredPath_bc6860ae:
     # alf "But I will not let you cast a dark cloud over this house."
     alf ""
 
-# AlfredPath_3d64bd21 (line 69215)
-translate ru AlfredPath_3d64bd21:
+# AlfredPath_debd3fbf (line 69215)
+translate ru AlfredPath_debd3fbf:
     # alf "So I ask you here and now to bury your grief."
     alf ""
 
-# AlfredPath_10d049e3 (line 69216)
-translate ru AlfredPath_10d049e3:
+# AlfredPath_f309a848 (line 69216)
+translate ru AlfredPath_f309a848:
     # alf "And if you cannot bring yourself to move past this, then I want you to get up and leave this house now."
     alf ""
 
-# AlfredPath_6bfc8208 (line 69217)
-translate ru AlfredPath_6bfc8208:
+# AlfredPath_cfb567d9 (line 69217)
+translate ru AlfredPath_cfb567d9:
     # "Marius looked at his father, stunned."
     ""
 
-# AlfredPath_c777699e (line 69218)
-translate ru AlfredPath_c777699e:
+# AlfredPath_2c28019e (line 69218)
+translate ru AlfredPath_2c28019e:
     # mar "You...will throw me out?"
     mar ""
 
-# AlfredPath_f6252798 (line 69219)
-translate ru AlfredPath_f6252798:
+# AlfredPath_3918a96f (line 69219)
+translate ru AlfredPath_3918a96f:
     # mar "After all that I have done to keep this place running?!"
     mar ""
 
-# AlfredPath_97693268 (line 69220)
-translate ru AlfredPath_97693268:
+# AlfredPath_ba9efba5 (line 69220)
+translate ru AlfredPath_ba9efba5:
     # "Alfred shook his head."
     ""
 
-# AlfredPath_c2ee00c0 (line 69221)
-translate ru AlfredPath_c2ee00c0:
+# AlfredPath_5d8ef67e (line 69221)
+translate ru AlfredPath_5d8ef67e:
     # alf "No."
     alf ""
 
-# AlfredPath_586ce4a6 (line 69222)
-translate ru AlfredPath_586ce4a6:
+# AlfredPath_e5acf07f (line 69222)
+translate ru AlfredPath_e5acf07f:
     # alf "You can stay. But you cannot poison our new marriage by walking about the house in constant resentment."
     alf ""
 
-# AlfredPath_9d11e22c (line 69223)
-translate ru AlfredPath_9d11e22c:
+# AlfredPath_f4db5e30 (line 69223)
+translate ru AlfredPath_f4db5e30:
     # alf "If you stay, you must learn to live with it."
     alf ""
 
-# AlfredPath_60c439ca (line 69224)
-translate ru AlfredPath_60c439ca:
+# AlfredPath_c4f58b45 (line 69224)
+translate ru AlfredPath_c4f58b45:
     # alf "Understood?"
     alf ""
 
-# AlfredPath_d826032a (line 69225)
-translate ru AlfredPath_d826032a:
+# AlfredPath_fb0eb24d (line 69225)
+translate ru AlfredPath_fb0eb24d:
     # "Alfred's voice was sharp."
     ""
 
-# AlfredPath_3c211c88 (line 69226)
-translate ru AlfredPath_3c211c88:
+# AlfredPath_69b7b117 (line 69226)
+translate ru AlfredPath_69b7b117:
     # "Sarah watched as Marius was speechless."
     ""
 
-# AlfredPath_14bd4137 (line 69227)
-translate ru AlfredPath_14bd4137:
+# AlfredPath_b8defe79 (line 69227)
+translate ru AlfredPath_b8defe79:
     # "The silence seemed to drag out forever."
     ""
 
-# AlfredPath_6b403c87 (line 69228)
-translate ru AlfredPath_6b403c87:
+# AlfredPath_aa456618 (line 69228)
+translate ru AlfredPath_aa456618:
     # "Then, his spirit broke."
     ""
 
-# AlfredPath_e076ba77 (line 69229)
-translate ru AlfredPath_e076ba77:
+# AlfredPath_341ed122 (line 69229)
+translate ru AlfredPath_341ed122:
     # "Slowly, Marius nodded his head."
     ""
 
-# AlfredPath_7d7c0437 (line 69230)
-translate ru AlfredPath_7d7c0437:
+# AlfredPath_557fd60f (line 69230)
+translate ru AlfredPath_557fd60f:
     # mar "Yes..."
     mar ""
 
-# AlfredPath_64e5ff26 (line 69231)
-translate ru AlfredPath_64e5ff26:
+# AlfredPath_fed658ae (line 69231)
+translate ru AlfredPath_fed658ae:
     # alf "Yes, what?"
     alf ""
 
-# AlfredPath_a141d449 (line 69232)
-translate ru AlfredPath_a141d449:
+# AlfredPath_17f27ee5 (line 69232)
+translate ru AlfredPath_17f27ee5:
     # mar "Yes...sir...I will...learn to live with it."
     mar ""
 
-# AlfredPath_d79b5c29 (line 69233)
-translate ru AlfredPath_d79b5c29:
+# AlfredPath_32d36573 (line 69233)
+translate ru AlfredPath_32d36573:
     # "Alfred smiled."
     ""
 
-# AlfredPath_4ba6bb09 (line 69234)
-translate ru AlfredPath_4ba6bb09:
+# AlfredPath_e6e6a6de (line 69234)
+translate ru AlfredPath_e6e6a6de:
     # alf "Good boy."
     alf ""
 
-# AlfredPath_44c53d87 (line 69235)
-translate ru AlfredPath_44c53d87:
+# AlfredPath_d71ed791 (line 69235)
+translate ru AlfredPath_d71ed791:
     # "Marius slowly stumbled to his feet."
     ""
 
-# AlfredPath_2f10374b (line 69236)
-translate ru AlfredPath_2f10374b:
+# AlfredPath_56697917 (line 69236)
+translate ru AlfredPath_56697917:
     # mar "I...will sleep out in the barn tonight...I...need some space..."
     mar ""
 
-# AlfredPath_3a607b80 (line 69237)
-translate ru AlfredPath_3a607b80:
+# AlfredPath_8de7fdad (line 69237)
+translate ru AlfredPath_8de7fdad:
     # "Alfred simply nodded."
     ""
 
-# AlfredPath_d5a907cf (line 69238)
-translate ru AlfredPath_d5a907cf:
+# AlfredPath_7da62188 (line 69238)
+translate ru AlfredPath_7da62188:
     # alf "I understand, take some time, my boy."
     alf ""
 
-# AlfredPath_a0c4f45d (line 69239)
-translate ru AlfredPath_a0c4f45d:
+# AlfredPath_b8f7110f (line 69239)
+translate ru AlfredPath_b8f7110f:
     # "With that, Marius stumbled out of the house."
     ""
 
-# AlfredPath_a51f7e77 (line 69240)
-translate ru AlfredPath_a51f7e77:
+# AlfredPath_d90ca463 (line 69240)
+translate ru AlfredPath_d90ca463:
     # "The door fell shut and Sarah turned to Alfred."
     ""
 
-# AlfredPath_ed3a12c2 (line 69246)
-translate ru AlfredPath_ed3a12c2:
+# AlfredPath_6b43afb2 (line 69246)
+translate ru AlfredPath_6b43afb2:
     # s "He..."
     s ""
 
-# AlfredPath_72d9783d (line 69247)
-translate ru AlfredPath_72d9783d:
+# AlfredPath_1f04961c (line 69247)
+translate ru AlfredPath_1f04961c:
     # s "He didn't get violent."
     s ""
 
-# AlfredPath_ea4f9207 (line 69248)
-translate ru AlfredPath_ea4f9207:
+# AlfredPath_93f05133 (line 69248)
+translate ru AlfredPath_93f05133:
     # "Alfred smiled at her."
     ""
 
-# AlfredPath_9ebf31e8 (line 69249)
-translate ru AlfredPath_9ebf31e8:
+# AlfredPath_ff33da21 (line 69249)
+translate ru AlfredPath_ff33da21:
     # alf "I told you. I know my boy."
     alf ""
 
-# AlfredPath_6e9d7ac9 (line 69250)
-translate ru AlfredPath_6e9d7ac9:
+# AlfredPath_fbf0d206 (line 69250)
+translate ru AlfredPath_fbf0d206:
     # alf "He's build like an ox, but he's soft on the inside."
     alf ""
 
-# AlfredPath_05137789 (line 69251)
-translate ru AlfredPath_05137789:
+# AlfredPath_199c9f02 (line 69251)
+translate ru AlfredPath_199c9f02:
     # alf "Got that from his mother, I imagine."
     alf ""
 
-# AlfredPath_d625aef8 (line 69252)
-translate ru AlfredPath_d625aef8:
+# AlfredPath_44ea771c (line 69252)
+translate ru AlfredPath_44ea771c:
     # "Sarah felt both victory and defeat in her chest."
     ""
 
-# AlfredPath_6b8c10d2 (line 69253)
-translate ru AlfredPath_6b8c10d2:
+# AlfredPath_16adb26a (line 69253)
+translate ru AlfredPath_16adb26a:
     # "They had managed Marius, but what had she won, truly?"
     ""
 
-# AlfredPath_e403e73f (line 69254)
-translate ru AlfredPath_e403e73f:
+# AlfredPath_53d10f7d (line 69254)
+translate ru AlfredPath_53d10f7d:
     # "An old man's heart?"
     ""
 
-# AlfredPath_bd68af3f (line 69255)
-translate ru AlfredPath_bd68af3f:
+# AlfredPath_6635e439 (line 69255)
+translate ru AlfredPath_6635e439:
     # "Still, seeing him sitting comfortably at the table, she could not help but feel attracted to him."
     ""
 
-# AlfredPath_c5a7255c (line 69256)
-translate ru AlfredPath_c5a7255c:
+# AlfredPath_a3b5360f (line 69256)
+translate ru AlfredPath_a3b5360f:
     # "He did not back down. He defended what he wanted. He defended his woman, her."
     ""
 
-# AlfredPath_a6d3be5d (line 69257)
-translate ru AlfredPath_a6d3be5d:
+# AlfredPath_1706b59a (line 69257)
+translate ru AlfredPath_1706b59a:
     # "Would Marius have done the same? Or did he always slink away like a coward?"
     ""
 
-# AlfredPath_8e361e9b (line 69258)
-translate ru AlfredPath_8e361e9b:
+# AlfredPath_c255108c (line 69258)
+translate ru AlfredPath_c255108c:
     # "For a moment, the two regarded each other."
     ""
 
-# AlfredPath_c84fb358 (line 69259)
-translate ru AlfredPath_c84fb358:
+# AlfredPath_d2eacc9e (line 69259)
+translate ru AlfredPath_d2eacc9e:
     # alf "What?"
     alf ""
 
-# AlfredPath_a2f928e2 (line 69260)
-translate ru AlfredPath_a2f928e2:
+# AlfredPath_dbb003c9 (line 69260)
+translate ru AlfredPath_dbb003c9:
     # s "Nothing."
     s ""
 
-# AlfredPath_7addcd3f (line 69261)
-translate ru AlfredPath_7addcd3f:
+# AlfredPath_974a6763 (line 69261)
+translate ru AlfredPath_974a6763:
     # alf "Then why are you staring."
     alf ""
 
-# AlfredPath_347e5b2c (line 69262)
-translate ru AlfredPath_347e5b2c:
+# AlfredPath_8021d397 (line 69262)
+translate ru AlfredPath_8021d397:
     # "Sarah paused for a moment, searching for the right word."
     ""
 
-# AlfredPath_ce9e888e (line 69263)
-translate ru AlfredPath_ce9e888e:
+# AlfredPath_b6019766 (line 69263)
+translate ru AlfredPath_b6019766:
     # s "It's about what you said..."
     s ""
 
-# AlfredPath_b8d261b2 (line 69264)
-translate ru AlfredPath_b8d261b2:
+# AlfredPath_6bac5c8b (line 69264)
+translate ru AlfredPath_6bac5c8b:
     # alf "What? How we met? Well, I had to massage the truth a little bit."
     alf ""
 
-# AlfredPath_56e0ed57 (line 69265)
-translate ru AlfredPath_56e0ed57:
+# AlfredPath_6a0c6dc2 (line 69265)
+translate ru AlfredPath_6a0c6dc2:
     # "Sarah shook her head."
     ""
 
-# AlfredPath_fdd7b895 (line 69266)
-translate ru AlfredPath_fdd7b895:
+# AlfredPath_22fecc68 (line 69266)
+translate ru AlfredPath_22fecc68:
     # s "No, not that..."
     s ""
 
-# AlfredPath_dc3c93e9 (line 69267)
-translate ru AlfredPath_dc3c93e9:
+# AlfredPath_19ca5a92 (line 69267)
+translate ru AlfredPath_19ca5a92:
     # s "The thing about...marriage."
     s ""
 
-# AlfredPath_29ee0df5 (line 69268)
-translate ru AlfredPath_29ee0df5:
+# AlfredPath_b5102331 (line 69268)
+translate ru AlfredPath_b5102331:
     # alf "Oh..."
     alf ""
 
-# AlfredPath_0293ef2b (line 69269)
-translate ru AlfredPath_0293ef2b:
+# AlfredPath_12b19ed8 (line 69269)
+translate ru AlfredPath_12b19ed8:
     # "His voice softened."
     ""
 
-# AlfredPath_0a0cdc08 (line 69270)
-translate ru AlfredPath_0a0cdc08:
+# AlfredPath_2fde63a8 (line 69270)
+translate ru AlfredPath_2fde63a8:
     # alf "Did I surprise you with that?"
     alf ""
 
-# AlfredPath_a6045a66 (line 69271)
-translate ru AlfredPath_a6045a66:
+# AlfredPath_5bd3dd7e (line 69271)
+translate ru AlfredPath_5bd3dd7e:
     # "Sarah slowly nodded."
     ""
 
-# AlfredPath_1d8eca0a (line 69272)
-translate ru AlfredPath_1d8eca0a:
+# AlfredPath_e47b42ba (line 69272)
+translate ru AlfredPath_e47b42ba:
     # alf "I had been thinking of it, these last few days."
     alf ""
 
-# AlfredPath_78d6d757 (line 69273)
-translate ru AlfredPath_78d6d757:
+# AlfredPath_f5c6f6d4 (line 69273)
+translate ru AlfredPath_f5c6f6d4:
     # alf "I am not the man I used to be. And honestly, I had given up believing there was much more for me to do but wait and die."
     alf ""
 
-# AlfredPath_82273221 (line 69274)
-translate ru AlfredPath_82273221:
+# AlfredPath_1978bcaf (line 69274)
+translate ru AlfredPath_1978bcaf:
     # alf "But you..."
     alf ""
 
-# AlfredPath_ad1432cc (line 69275)
-translate ru AlfredPath_ad1432cc:
+# AlfredPath_46169439 (line 69275)
+translate ru AlfredPath_46169439:
     # "His eyes roamed her body."
     ""
 
-# AlfredPath_fa907581 (line 69276)
-translate ru AlfredPath_fa907581:
+# AlfredPath_0ffbdab1 (line 69276)
+translate ru AlfredPath_0ffbdab1:
     # alf "You have made me feel like I'm young again."
     alf ""
 
-# AlfredPath_ea0d3ae4 (line 69277)
-translate ru AlfredPath_ea0d3ae4:
+# AlfredPath_3dd2a11c (line 69277)
+translate ru AlfredPath_3dd2a11c:
     # "Sarah watched him and saw that he was speaking honestly."
     ""
 
-# AlfredPath_0e55ec93 (line 69278)
-translate ru AlfredPath_0e55ec93:
+# AlfredPath_34099fc0 (line 69278)
+translate ru AlfredPath_34099fc0:
     # s "I won't lie..."
     s ""
 
-# AlfredPath_4b87eb0d (line 69279)
-translate ru AlfredPath_4b87eb0d:
+# AlfredPath_56d86bc2 (line 69279)
+translate ru AlfredPath_56d86bc2:
     # "She gathered her courage to speak the words that she needed to speak."
     ""
 
-# AlfredPath_1d0c66ca (line 69280)
-translate ru AlfredPath_1d0c66ca:
+# AlfredPath_f723d42a (line 69280)
+translate ru AlfredPath_f723d42a:
     # s "You and me...we have found each other through strange circumstances."
     s ""
 
-# AlfredPath_708b48f9 (line 69281)
-translate ru AlfredPath_708b48f9:
+# AlfredPath_494ebceb (line 69281)
+translate ru AlfredPath_494ebceb:
     # s "And you were not the man that I dreamed of marrying."
     s ""
 
-# AlfredPath_e758a4aa (line 69282)
-translate ru AlfredPath_e758a4aa:
+# AlfredPath_4ffd8edb (line 69282)
+translate ru AlfredPath_4ffd8edb:
     # alf "So you reject it?"
     alf ""
 
-# AlfredPath_17d8e243 (line 69283)
-translate ru AlfredPath_17d8e243:
+# AlfredPath_56f26106 (line 69283)
+translate ru AlfredPath_56f26106:
     # "Sarah slowly shook her head."
     ""
 
-# AlfredPath_2591ffd0 (line 69284)
-translate ru AlfredPath_2591ffd0:
+# AlfredPath_0f57fa28 (line 69284)
+translate ru AlfredPath_0f57fa28:
     # s "No...I do not reject the proposal, should you make one."
     s ""
 
-# AlfredPath_765e4d9d (line 69285)
-translate ru AlfredPath_765e4d9d:
+# AlfredPath_29433580 (line 69285)
+translate ru AlfredPath_29433580:
     # "She saw him smile, as if he himself could not even believe it."
     ""
 
-# AlfredPath_87f259c8 (line 69286)
-translate ru AlfredPath_87f259c8:
+# AlfredPath_719934b6 (line 69286)
+translate ru AlfredPath_719934b6:
     # s "But...there are conditions."
     s ""
 
-# AlfredPath_8db867a1 (line 69287)
-translate ru AlfredPath_8db867a1:
+# AlfredPath_a1a3a1ba (line 69287)
+translate ru AlfredPath_a1a3a1ba:
     # "He frowned, as if his prey slipped through the snare."
     ""
 
-# AlfredPath_ea1bbb2f (line 69288)
-translate ru AlfredPath_ea1bbb2f:
+# AlfredPath_c3b1c1cf (line 69288)
+translate ru AlfredPath_c3b1c1cf:
     # alf "Conditions? Like what?"
     alf ""
 
-# AlfredPath_37030604 (line 69289)
-translate ru AlfredPath_37030604:
+# AlfredPath_5edb34ed (line 69289)
+translate ru AlfredPath_5edb34ed:
     # s "I..."
     s ""
 
-# AlfredPath_5628ce6c (line 69290)
-translate ru AlfredPath_5628ce6c:
+# AlfredPath_eb01a1bf (line 69290)
+translate ru AlfredPath_eb01a1bf:
     # s "I've been on the run for a while now."
     s ""
 
-# AlfredPath_b1f4704c (line 69291)
-translate ru AlfredPath_b1f4704c:
+# AlfredPath_230ec3aa (line 69291)
+translate ru AlfredPath_230ec3aa:
     # s "And I'm tired. More tired than you can begin to imagine."
     s ""
 
-# AlfredPath_9d035c92 (line 69292)
-translate ru AlfredPath_9d035c92:
+# AlfredPath_3da218b4 (line 69292)
+translate ru AlfredPath_3da218b4:
     # s "I want to start a new life. That's why I came here."
     s ""
 
-# AlfredPath_f949bea8 (line 69293)
-translate ru AlfredPath_f949bea8:
+# AlfredPath_bed86bbf (line 69293)
+translate ru AlfredPath_bed86bbf:
     # s "And I want to feel safe again. Gods, I want to feel safe."
     s ""
 
-# AlfredPath_488c7723 (line 69294)
-translate ru AlfredPath_488c7723:
+# AlfredPath_e28c0f33 (line 69294)
+translate ru AlfredPath_e28c0f33:
     # "She straightened her back and faced him."
     ""
 
-# AlfredPath_d22245db (line 69295)
-translate ru AlfredPath_d22245db:
+# AlfredPath_74e3f55a (line 69295)
+translate ru AlfredPath_74e3f55a:
     # s "So...my demands are the following."
     s ""
 
-# AlfredPath_e12e9322 (line 69296)
-translate ru AlfredPath_e12e9322:
+# AlfredPath_f1e50a0a (line 69296)
+translate ru AlfredPath_f1e50a0a:
     # s "We won't ever speak of my life before I came here. That chapter of my life is dead and gone."
     s ""
 
-# AlfredPath_0716ecf5 (line 69297)
-translate ru AlfredPath_0716ecf5:
+# AlfredPath_f1726be5 (line 69297)
+translate ru AlfredPath_f1726be5:
     # "Alfred nodded."
     ""
 
-# AlfredPath_82cc6260 (line 69298)
-translate ru AlfredPath_82cc6260:
+# AlfredPath_2813a793 (line 69298)
+translate ru AlfredPath_2813a793:
     # alf "That's fair. Any other?"
     alf ""
 
-# AlfredPath_1ff07feb (line 69299)
-translate ru AlfredPath_1ff07feb:
+# AlfredPath_e3a764bc (line 69299)
+translate ru AlfredPath_e3a764bc:
     # "Sarah nodded."
     ""
 
-# AlfredPath_37a9178e (line 69300)
-translate ru AlfredPath_37a9178e:
+# AlfredPath_f97b67ab (line 69300)
+translate ru AlfredPath_f97b67ab:
     # s "Yes...I want...need...safety. Security."
     s ""
 
-# AlfredPath_aa1fbebe (line 69301)
-translate ru AlfredPath_aa1fbebe:
+# AlfredPath_cac35ab3 (line 69301)
+translate ru AlfredPath_cac35ab3:
     # s "You are older than me. A lot older. We don't have to pretend otherwise."
     s ""
 
-# AlfredPath_49606311 (line 69302)
-translate ru AlfredPath_49606311:
+# AlfredPath_6fd85c11 (line 69302)
+translate ru AlfredPath_6fd85c11:
     # s "Even if you remain in good health, you will die long before me."
     s ""
 
-# AlfredPath_5a182133 (line 69303)
-translate ru AlfredPath_5a182133:
+# AlfredPath_d8f8866a (line 69303)
+translate ru AlfredPath_d8f8866a:
     # "She thought Alfred might object, but he nodded along to her cold logic."
     ""
 
-# AlfredPath_b5b1e66a (line 69304)
-translate ru AlfredPath_b5b1e66a:
+# AlfredPath_12d2e5ff (line 69304)
+translate ru AlfredPath_12d2e5ff:
     # s "I...I cannot live my life, counting down the days until you die and I am once again made homeless."
     s ""
 
-# AlfredPath_db6613f7 (line 69305)
-translate ru AlfredPath_db6613f7:
+# AlfredPath_945a7197 (line 69305)
+translate ru AlfredPath_945a7197:
     # s "This house will pass to your son, and while you might think he has forgiven you, I cannot rely only on hope."
     s ""
 
-# AlfredPath_804e2c9e (line 69306)
-translate ru AlfredPath_804e2c9e:
+# AlfredPath_5a765966 (line 69306)
+translate ru AlfredPath_5a765966:
     # s "I need to survive."
     s ""
 
-# AlfredPath_bcc608ea (line 69307)
-translate ru AlfredPath_bcc608ea:
+# AlfredPath_825a10d8 (line 69307)
+translate ru AlfredPath_825a10d8:
     # s "So..."
     s ""
 
-# AlfredPath_2c41f25c (line 69308)
-translate ru AlfredPath_2c41f25c:
+# AlfredPath_2902e106 (line 69308)
+translate ru AlfredPath_2902e106:
     # "She breathed in deeply."
     ""
 
-# AlfredPath_d1c9cb39 (line 69309)
-translate ru AlfredPath_d1c9cb39:
+# AlfredPath_115afdde (line 69309)
+translate ru AlfredPath_115afdde:
     # s "I want you to grant the deed of the house to me on your passing."
     s ""
 
-# AlfredPath_bc84373b (line 69310)
-translate ru AlfredPath_bc84373b:
+# AlfredPath_e647076a (line 69310)
+translate ru AlfredPath_e647076a:
     # s "That way, no matter what, I will be safe."
     s ""
 
-# AlfredPath_58b4921b (line 69311)
-translate ru AlfredPath_58b4921b:
+# AlfredPath_f2d3dbe6 (line 69311)
+translate ru AlfredPath_f2d3dbe6:
     # s "I will always have a home."
     s ""
 
-# AlfredPath_0beda653 (line 69312)
-translate ru AlfredPath_0beda653:
+# AlfredPath_bfc772f3 (line 69312)
+translate ru AlfredPath_bfc772f3:
     # "She saw Alfred's eyes in the dark, narrowing."
     ""
 
-# AlfredPath_5e09a64d (line 69313)
-translate ru AlfredPath_5e09a64d:
+# AlfredPath_b987bf64 (line 69313)
+translate ru AlfredPath_b987bf64:
     # "He saw how clever she was and seemed to appreciate it."
     ""
 
-# AlfredPath_f73300c8 (line 69314)
-translate ru AlfredPath_f73300c8:
+# AlfredPath_70ebe3e1 (line 69314)
+translate ru AlfredPath_70ebe3e1:
     # alf "Smart girl."
     alf ""
 
-# AlfredPath_50570641 (line 69315)
-translate ru AlfredPath_50570641:
+# AlfredPath_02cb50f3 (line 69315)
+translate ru AlfredPath_02cb50f3:
     # "Sarah simply held his gaze. This was the crux of the negotiation."
     ""
 
-# AlfredPath_ea9d19df (line 69316)
-translate ru AlfredPath_ea9d19df:
+# AlfredPath_eb4f11ee (line 69316)
+translate ru AlfredPath_eb4f11ee:
     # "If she faltered now, she would lose everything."
     ""
 
-# AlfredPath_a6664da6 (line 69317)
-translate ru AlfredPath_a6664da6:
+# AlfredPath_47e303da (line 69317)
+translate ru AlfredPath_47e303da:
     # alf "This house and this land is all I own."
     alf ""
 
-# AlfredPath_c2077404 (line 69318)
-translate ru AlfredPath_c2077404:
+# AlfredPath_37cbec17 (line 69318)
+translate ru AlfredPath_37cbec17:
     # alf "And you want to rob my only son of his inheritance?"
     alf ""
 
-# AlfredPath_952b8971 (line 69319)
-translate ru AlfredPath_952b8971:
+# AlfredPath_7e2685a7 (line 69319)
+translate ru AlfredPath_7e2685a7:
     # alf "You've got a nice cunt, but there's a lot of whores that sell theirs for less."
     alf ""
 
-# AlfredPath_4378c3f4 (line 69320)
-translate ru AlfredPath_4378c3f4:
+# AlfredPath_e967cef2 (line 69320)
+translate ru AlfredPath_e967cef2:
     # "She had him where she wanted."
     ""
 
-# AlfredPath_f1a34b97 (line 69321)
-translate ru AlfredPath_f1a34b97:
+# AlfredPath_04b3a89a (line 69321)
+translate ru AlfredPath_04b3a89a:
     # "Sarah slowly leaned forward."
     ""
 
-# AlfredPath_f02859fd (line 69322)
-translate ru AlfredPath_f02859fd:
+# AlfredPath_8e4e0a8c (line 69322)
+translate ru AlfredPath_8e4e0a8c:
     # s "Marius is your only son."
     s ""
 
-# AlfredPath_9d7a8fab (line 69323)
-translate ru AlfredPath_9d7a8fab:
+# AlfredPath_0d12876c (line 69323)
+translate ru AlfredPath_0d12876c:
     # s "But tonight, we both saw what kind of a man he is."
     s ""
 
-# AlfredPath_d3326bfa (line 69324)
-translate ru AlfredPath_d3326bfa:
+# AlfredPath_4c61dc62 (line 69324)
+translate ru AlfredPath_4c61dc62:
     # s "If you leave him this land, it will only be a matter of years before someone cons him out of it."
     s ""
 
-# AlfredPath_407635d0 (line 69325)
-translate ru AlfredPath_407635d0:
+# AlfredPath_55b3eabf (line 69325)
+translate ru AlfredPath_55b3eabf:
     # s "He has a good heart, but he's weak. Soft, like you said."
     s ""
 
-# AlfredPath_f5adaf30 (line 69326)
-translate ru AlfredPath_f5adaf30:
+# AlfredPath_2a93906c (line 69326)
+translate ru AlfredPath_2a93906c:
     # "She saw in Alfred's eyes that she had struck true."
     ""
 
-# AlfredPath_1db8ca96 (line 69327)
-translate ru AlfredPath_1db8ca96:
+# AlfredPath_7584294d (line 69327)
+translate ru AlfredPath_7584294d:
     # alf "Perhaps you're right, but it should be his to squander."
     alf ""
 
-# AlfredPath_773fa875 (line 69328)
-translate ru AlfredPath_773fa875:
+# AlfredPath_63c79957 (line 69328)
+translate ru AlfredPath_63c79957:
     # alf "To leave my only child without an inheritance? You're asking too much."
     alf ""
 
-# AlfredPath_529344e3 (line 69329)
-translate ru AlfredPath_529344e3:
+# AlfredPath_839a25dd (line 69329)
+translate ru AlfredPath_839a25dd:
     # "Sarah's lips curled into a smile."
     ""
 
-# AlfredPath_1a2eecbe (line 69330)
-translate ru AlfredPath_1a2eecbe:
+# AlfredPath_7dd5e263 (line 69330)
+translate ru AlfredPath_7dd5e263:
     # "Time for the last arrow."
     ""
 
-# AlfredPath_e535c05e (line 69331)
-translate ru AlfredPath_e535c05e:
+# AlfredPath_0a92a4ec (line 69331)
+translate ru AlfredPath_0a92a4ec:
     # s "Why need he be your only child?"
     s ""
 
-# AlfredPath_af9b80e0 (line 69332)
-translate ru AlfredPath_af9b80e0:
+# AlfredPath_06e0722a (line 69332)
+translate ru AlfredPath_06e0722a:
     # "Alfred frowned."
     ""
 
-# AlfredPath_38a05738 (line 69333)
-translate ru AlfredPath_38a05738:
+# AlfredPath_8e673cc7 (line 69333)
+translate ru AlfredPath_8e673cc7:
     # alf "What do you mean? He is..."
     alf ""
 
-# AlfredPath_b48ec667 (line 69334)
-translate ru AlfredPath_b48ec667:
+# AlfredPath_b1bcd246 (line 69334)
+translate ru AlfredPath_b1bcd246:
     # alf "Oh..."
     alf ""
 
-# AlfredPath_10295b9f (line 69335)
-translate ru AlfredPath_10295b9f:
+# AlfredPath_65c56d5e (line 69335)
+translate ru AlfredPath_65c56d5e:
     # "A smile came over his face."
     ""
 
-# AlfredPath_ca858988 (line 69336)
-translate ru AlfredPath_ca858988:
+# AlfredPath_93a53dea (line 69336)
+translate ru AlfredPath_93a53dea:
     # alf "I see."
     alf ""
 
-# AlfredPath_7e3be70f (line 69337)
-translate ru AlfredPath_7e3be70f:
+# AlfredPath_bb63eabd (line 69337)
+translate ru AlfredPath_bb63eabd:
     # alf "You're a very clever girl, Sarah."
     alf ""
 
-# AlfredPath_5586d036 (line 69338)
-translate ru AlfredPath_5586d036:
+# AlfredPath_62100713 (line 69338)
+translate ru AlfredPath_62100713:
     # "And in his eyes, she could see that he had taken the bargain."
     ""
 
-# AlfredPath_ea9cc5cb (line 69339)
-translate ru AlfredPath_ea9cc5cb:
+# AlfredPath_bbddacb3 (line 69339)
+translate ru AlfredPath_bbddacb3:
     # "She wasn't a fool. She understood that a pretty girl was worth something, but hardly everything that a man owned."
     ""
 
-# AlfredPath_f41c375a (line 69340)
-translate ru AlfredPath_f41c375a:
+# AlfredPath_90bedd7a (line 69340)
+translate ru AlfredPath_90bedd7a:
     # "But she could be more to him."
     ""
 
-# AlfredPath_af394e7a (line 69341)
-translate ru AlfredPath_af394e7a:
+# AlfredPath_81d15c77 (line 69341)
+translate ru AlfredPath_81d15c77:
     # "She could give him a new legacy."
     ""
 
-# AlfredPath_8f3f8bef (line 69342)
-translate ru AlfredPath_8f3f8bef:
+# AlfredPath_0617b3af (line 69342)
+translate ru AlfredPath_0617b3af:
     # alf "But who is to say that I could get you pregnant? I'm an old man as you said."
     alf ""
 
-# AlfredPath_306a60ad (line 69343)
-translate ru AlfredPath_306a60ad:
+# AlfredPath_fab70008 (line 69343)
+translate ru AlfredPath_fab70008:
     # "By now, he was simply playing. Teasing."
     ""
 
-# AlfredPath_a0214597 (line 69344)
-translate ru AlfredPath_a0214597:
+# AlfredPath_4199ec81 (line 69344)
+translate ru AlfredPath_4199ec81:
     # "Sarah smiled."
     ""
 
-# AlfredPath_65fcebc8 (line 69345)
-translate ru AlfredPath_65fcebc8:
+# AlfredPath_a2d8461b (line 69345)
+translate ru AlfredPath_a2d8461b:
     # s "Well, I suspect you're virile enough."
     s ""
 
-# AlfredPath_b160ab23 (line 69346)
-translate ru AlfredPath_b160ab23:
+# AlfredPath_5d562a65 (line 69346)
+translate ru AlfredPath_5d562a65:
     # s "And if it takes a little longer than with a younger man, I suppose we could simply try more frequently."
     s ""
 
-# AlfredPath_66019148 (line 69347)
-translate ru AlfredPath_66019148:
+# AlfredPath_78b9496e (line 69347)
+translate ru AlfredPath_78b9496e:
     # "Alfred laughed loudly."
     ""
 
-# AlfredPath_6c07739e (line 69348)
-translate ru AlfredPath_6c07739e:
+# AlfredPath_5eb7256d (line 69348)
+translate ru AlfredPath_5eb7256d:
     # alf "How can any man say no to this?"
     alf ""
 
-# AlfredPath_c8b83671 (line 69349)
-translate ru AlfredPath_c8b83671:
+# AlfredPath_f31a672f (line 69349)
+translate ru AlfredPath_f31a672f:
     # "He leaned forward, falling onto one knee."
     ""
 
-# AlfredPath_51531f2a (line 69350)
-translate ru AlfredPath_51531f2a:
+# AlfredPath_e9740368 (line 69350)
+translate ru AlfredPath_e9740368:
     # alf "Very well then, Sarah."
     alf ""
 
-# AlfredPath_73861166 (line 69351)
-translate ru AlfredPath_73861166:
+# AlfredPath_003162fa (line 69351)
+translate ru AlfredPath_003162fa:
     # alf "I offer you marriage, and I acknowledge all your demands."
     alf ""
 
-# AlfredPath_e4e188ff (line 69352)
-translate ru AlfredPath_e4e188ff:
+# AlfredPath_7b5e8736 (line 69352)
+translate ru AlfredPath_7b5e8736:
     # alf "From this day forward, I will promise to never speak or ask about your life before you came here."
     alf ""
 
-# AlfredPath_b6942fb1 (line 69353)
-translate ru AlfredPath_b6942fb1:
+# AlfredPath_0c58d25c (line 69353)
+translate ru AlfredPath_0c58d25c:
     # alf "And the day that we are to be married, I will have a new will drafted, leaving you the sole heir to my house and lands."
     alf ""
 
-# AlfredPath_573a0465 (line 69354)
-translate ru AlfredPath_573a0465:
+# AlfredPath_5d41cee1 (line 69354)
+translate ru AlfredPath_5d41cee1:
     # "Sarah smiled and took his hand."
     ""
 
-# AlfredPath_86b69873 (line 69355)
-translate ru AlfredPath_86b69873:
+# AlfredPath_1edf95ee (line 69355)
+translate ru AlfredPath_1edf95ee:
     # s "And I will vow to be a good and loving wife, eager and forthcoming in all the duties that are to be expected of one."
     s ""
 
-# AlfredPath_d37f6cd5 (line 69356)
-translate ru AlfredPath_d37f6cd5:
+# AlfredPath_3dc45e75 (line 69356)
+translate ru AlfredPath_3dc45e75:
     # "Holding her hand, he stood up."
     ""
 
-# AlfredPath_89386cb5 (line 69357)
-translate ru AlfredPath_89386cb5:
+# AlfredPath_c7339f89 (line 69357)
+translate ru AlfredPath_c7339f89:
     # alf "Good, then we have an understanding."
     alf ""
 
-# AlfredPath_784a0c3e (line 69358)
-translate ru AlfredPath_784a0c3e:
+# AlfredPath_2a988680 (line 69358)
+translate ru AlfredPath_2a988680:
     # "She laughed."
     ""
 
-# AlfredPath_b843738b (line 69359)
-translate ru AlfredPath_b843738b:
+# AlfredPath_40f5be5c (line 69359)
+translate ru AlfredPath_40f5be5c:
     # s "What, no rings?"
     s ""
 
-# AlfredPath_c6ac7278 (line 69360)
-translate ru AlfredPath_c6ac7278:
+# AlfredPath_e6b7b3ef (line 69360)
+translate ru AlfredPath_e6b7b3ef:
     # alf "Trust me, I will let the smith craft them as soon as possible."
     alf ""
 
-# AlfredPath_bcea1eee (line 69361)
-translate ru AlfredPath_bcea1eee:
+# AlfredPath_5efa604a (line 69361)
+translate ru AlfredPath_5efa604a:
     # "And she knew he was honest with her."
     ""
 
-# AlfredPath_88b78153 (line 69362)
-translate ru AlfredPath_88b78153:
+# AlfredPath_568a31ad (line 69362)
+translate ru AlfredPath_568a31ad:
     # alf "Now, would you forgive an impatient fiancé and give him a small advance on his wedding night?"
     alf ""
 
-# AlfredPath_20ae1f62 (line 69368)
-translate ru AlfredPath_20ae1f62:
+# AlfredPath_3542b651 (line 69368)
+translate ru AlfredPath_3542b651:
     # "Laughing and giggling, the two new lovers retired to his bed chamber."
     ""
 
-# AlfredPath_52cba0f5 (line 69369)
-translate ru AlfredPath_52cba0f5:
+# AlfredPath_12c1d7f7 (line 69369)
+translate ru AlfredPath_12c1d7f7:
     # "For the first time, there was no need for secrets."
     ""
 
-# AlfredPath_98a22b9a (line 69370)
-translate ru AlfredPath_98a22b9a:
+# AlfredPath_8fcc58eb (line 69370)
+translate ru AlfredPath_8fcc58eb:
     # "The house was empty and it was theirs to do as they pleased."
     ""
 
-# AlfredPath_00786c7d (line 69371)
-translate ru AlfredPath_00786c7d:
+# AlfredPath_1a487057 (line 69371)
+translate ru AlfredPath_1a487057:
     # "Sarah watched her husband-to-be taking off his clothes."
     ""
 
-# AlfredPath_d220aae5 (line 69372)
-translate ru AlfredPath_d220aae5:
+# AlfredPath_48cdda60 (line 69372)
+translate ru AlfredPath_48cdda60:
     # "The oil lamp in the corner threw off a dancing light."
     ""
 
-# AlfredPath_e7b8db90 (line 69373)
-translate ru AlfredPath_e7b8db90:
+# AlfredPath_4dabcbba (line 69373)
+translate ru AlfredPath_4dabcbba:
     # "She could never imagine that he was anything other than old, his age was simply too prominently written on the features of his body."
     ""
 
-# AlfredPath_836ee102 (line 69374)
-translate ru AlfredPath_836ee102:
+# AlfredPath_ce9bee0e (line 69374)
+translate ru AlfredPath_ce9bee0e:
     # "But she could stand in awe of his other features."
     ""
 
-# AlfredPath_2ba45e5d (line 69375)
-translate ru AlfredPath_2ba45e5d:
+# AlfredPath_9cea3514 (line 69375)
+translate ru AlfredPath_9cea3514:
     # "His dominant will. His eagerness for life. His ruthlessness in pursuit of the things he desired.."
     ""
 
-# AlfredPath_05dc12a4 (line 69376)
-translate ru AlfredPath_05dc12a4:
+# AlfredPath_85b42e1a (line 69376)
+translate ru AlfredPath_85b42e1a:
     # "Those things she admired deeply."
     ""
 
-# AlfredPath_76766395 (line 69377)
-translate ru AlfredPath_76766395:
+# AlfredPath_43be9281 (line 69377)
+translate ru AlfredPath_43be9281:
     # "And while he could be dangerous, he would be her husband soon. And he would wield those features to her benefit."
     ""
 
-# AlfredPath_03d54beb (line 69378)
-translate ru AlfredPath_03d54beb:
+# AlfredPath_b01ccd80 (line 69378)
+translate ru AlfredPath_b01ccd80:
     # "He was old, but he was a strong man."
     ""
 
-# AlfredPath_2a073cf6 (line 69379)
-translate ru AlfredPath_2a073cf6:
+# AlfredPath_2ae02a56 (line 69379)
+translate ru AlfredPath_2ae02a56:
     # "A bull that could protect her in a world of lions."
     ""
 
-# AlfredPath_eca51897 (line 69380)
-translate ru AlfredPath_eca51897:
+# AlfredPath_04fb88b9 (line 69380)
+translate ru AlfredPath_04fb88b9:
     # "Sarah slid off her robes and let them fall to the floor."
     ""
 
-# AlfredPath_77385e19 (line 69381)
-translate ru AlfredPath_77385e19:
+# AlfredPath_f7cef5b0 (line 69381)
+translate ru AlfredPath_f7cef5b0:
     # "The light of the lamp danced across her young body and made her all more beautiful for it."
     ""
 
-# AlfredPath_4143863f (line 69382)
-translate ru AlfredPath_4143863f:
+# AlfredPath_ae8f0399 (line 69382)
+translate ru AlfredPath_ae8f0399:
     # "She saw the flawlessness of her own skin."
     ""
 
-# AlfredPath_313fd683 (line 69383)
-translate ru AlfredPath_313fd683:
+# AlfredPath_cfdf37a7 (line 69383)
+translate ru AlfredPath_cfdf37a7:
     # "That was her weapon, she realized. The means by which she could bend a man like him to her own will."
     ""
 
-# AlfredPath_85e35536 (line 69384)
-translate ru AlfredPath_85e35536:
+# AlfredPath_ee8654f7 (line 69384)
+translate ru AlfredPath_ee8654f7:
     # "And as she turned to her, she saw that he was lost."
     ""
 
-# AlfredPath_344e0dab (line 69385)
-translate ru AlfredPath_344e0dab:
+# AlfredPath_b9320089 (line 69385)
+translate ru AlfredPath_b9320089:
     # "A lust in his eyes unlike any she had seen before."
     ""
 
-# AlfredPath_a95842f1 (line 69386)
-translate ru AlfredPath_a95842f1:
+# AlfredPath_f985c1f0 (line 69386)
+translate ru AlfredPath_f985c1f0:
     # "Between his legs, a growing lust that was all too familiar."
     ""
 
-# AlfredPath_99856d0c (line 69387)
-translate ru AlfredPath_99856d0c:
+# AlfredPath_0c5b239a (line 69387)
+translate ru AlfredPath_0c5b239a:
     # alf "Gods, what I've done to deserve a beauty like yours..."
     alf ""
 
-# AlfredPath_f291dcb2 (line 69388)
-translate ru AlfredPath_f291dcb2:
+# AlfredPath_da234e3d (line 69388)
+translate ru AlfredPath_da234e3d:
     # "Sarah smiled and softly twirled her body, pulling him in deeper."
     ""
 
-# AlfredPath_7248d415 (line 69389)
-translate ru AlfredPath_7248d415:
+# AlfredPath_eceefb96 (line 69389)
+translate ru AlfredPath_eceefb96:
     # s "Your wife."
     s ""
 
-# AlfredPath_e148ec04 (line 69390)
-translate ru AlfredPath_e148ec04:
+# AlfredPath_46d5f34a (line 69390)
+translate ru AlfredPath_46d5f34a:
     # "She winked at him."
     ""
 
-# AlfredPath_5fdb31da (line 69391)
-translate ru AlfredPath_5fdb31da:
+# AlfredPath_275e240f (line 69391)
+translate ru AlfredPath_275e240f:
     # alf "Come over here."
     alf ""
 
-# AlfredPath_1675e711 (line 69392)
-translate ru AlfredPath_1675e711:
+# AlfredPath_4d43aa75 (line 69392)
+translate ru AlfredPath_4d43aa75:
     # "His voice was stern."
     ""
 
-# AlfredPath_28ddf83b (line 69393)
-translate ru AlfredPath_28ddf83b:
+# AlfredPath_d06c4ffe (line 69393)
+translate ru AlfredPath_d06c4ffe:
     # "Sarah walked over."
     ""
 
-# AlfredPath_d4b665a0 (line 69394)
-translate ru AlfredPath_d4b665a0:
+# AlfredPath_16284fca (line 69394)
+translate ru AlfredPath_16284fca:
     # "She was not about to defy her husband-to-be."
     ""
 
-# AlfredPath_6a0b7d43 (line 69395)
-translate ru AlfredPath_6a0b7d43:
+# AlfredPath_12848ff7 (line 69395)
+translate ru AlfredPath_12848ff7:
     # "His hands reached out, the tips of his fingers running across the surface of her skin."
     ""
 
-# AlfredPath_cb941b79 (line 69396)
-translate ru AlfredPath_cb941b79:
+# AlfredPath_314398d8 (line 69396)
+translate ru AlfredPath_314398d8:
     # "He was gentle, almost hesitant, as if he could not believe what he now possessed."
     ""
 
-# AlfredPath_8c3ab8ef (line 69397)
-translate ru AlfredPath_8c3ab8ef:
+# AlfredPath_532f9efa (line 69397)
+translate ru AlfredPath_532f9efa:
     # alf "Gods, to think I was almost done with life."
     alf ""
 
-# AlfredPath_81d0a95d (line 69398)
-translate ru AlfredPath_81d0a95d:
+# AlfredPath_c08eb7fc (line 69398)
+translate ru AlfredPath_c08eb7fc:
     # "Skin on skin, Sarah became again aware of their vast difference in age."
     ""
 
-# AlfredPath_8a69c799 (line 69399)
-translate ru AlfredPath_8a69c799:
+# AlfredPath_35736853 (line 69399)
+translate ru AlfredPath_35736853:
     # "Hers young, flawless. His old, weathered."
     ""
 
-# AlfredPath_5f726c11 (line 69400)
-translate ru AlfredPath_5f726c11:
+# AlfredPath_6cd449c2 (line 69400)
+translate ru AlfredPath_6cd449c2:
     # "But this was their bargain, she thought."
     ""
 
-# AlfredPath_d4a3e6b6 (line 69401)
-translate ru AlfredPath_d4a3e6b6:
+# AlfredPath_a3434163 (line 69401)
+translate ru AlfredPath_a3434163:
     # "He wanted her body. She wanted his wealth. Between them, a marriage."
     ""
 
-# AlfredPath_c1bce9e8 (line 69402)
-translate ru AlfredPath_c1bce9e8:
+# AlfredPath_02832e44 (line 69402)
+translate ru AlfredPath_02832e44:
     # "Lower still, she saw his impressive cock sway, the only part of him that seemed as young as ever."
     ""
 
-# AlfredPath_4b3c8364 (line 69403)
-translate ru AlfredPath_4b3c8364:
+# AlfredPath_b083f2f9 (line 69403)
+translate ru AlfredPath_b083f2f9:
     # "It wouldn't all be bad, she thought, looking at it."
     ""
 
-# AlfredPath_721ef4a7 (line 69404)
-translate ru AlfredPath_721ef4a7:
+# AlfredPath_a3faa4bc (line 69404)
+translate ru AlfredPath_a3faa4bc:
     # "Sarah reached down and wrapped her hand around his shaft."
     ""
 
-# AlfredPath_5a3661fa (line 69405)
-translate ru AlfredPath_5a3661fa:
+# AlfredPath_a5ad3db5 (line 69405)
+translate ru AlfredPath_a5ad3db5:
     # "He groaned in approval."
     ""
 
-# AlfredPath_232dfa34 (line 69406)
-translate ru AlfredPath_232dfa34:
+# AlfredPath_8d872e77 (line 69406)
+translate ru AlfredPath_8d872e77:
     # s "Stop pretending you're old and weak."
     s ""
 
-# AlfredPath_0f48998a (line 69407)
-translate ru AlfredPath_0f48998a:
+# AlfredPath_3903e73b (line 69407)
+translate ru AlfredPath_3903e73b:
     # s "I can feel you're still a man with life left in him."
     s ""
 
-# AlfredPath_973cb6b6 (line 69408)
-translate ru AlfredPath_973cb6b6:
+# AlfredPath_92834789 (line 69408)
+translate ru AlfredPath_92834789:
     # "She began to stroke him."
     ""
 
-# AlfredPath_df4e9940 (line 69409)
-translate ru AlfredPath_df4e9940:
+# AlfredPath_61713210 (line 69409)
+translate ru AlfredPath_61713210:
     # "The heat of it. The hardness."
     ""
 
-# AlfredPath_19bd7266 (line 69410)
-translate ru AlfredPath_19bd7266:
+# AlfredPath_145c57c5 (line 69410)
+translate ru AlfredPath_145c57c5:
     # "She felt herself grow wet already."
     ""
 
-# AlfredPath_e2b4028b (line 69411)
-translate ru AlfredPath_e2b4028b:
+# AlfredPath_dc2b604a (line 69411)
+translate ru AlfredPath_dc2b604a:
     # alf "I will..."
     alf ""
 
-# AlfredPath_7ad8ecc2 (line 69412)
-translate ru AlfredPath_7ad8ecc2:
+# AlfredPath_3dc85e7d (line 69412)
+translate ru AlfredPath_3dc85e7d:
     # "He wrapped his hand around the back of her neck and pulled her in close, kissing her deeply."
     ""
 
-# AlfredPath_9166e80c (line 69413)
-translate ru AlfredPath_9166e80c:
+# AlfredPath_adfde4d3 (line 69413)
+translate ru AlfredPath_adfde4d3:
     # "All the while, Sarah continued to stroke him."
     ""
 
-# AlfredPath_e7d9205a (line 69414)
-translate ru AlfredPath_e7d9205a:
+# AlfredPath_a44a30ec (line 69414)
+translate ru AlfredPath_a44a30ec:
     # alf "I'm going to make up for all the things I left undone."
     alf ""
 
-# AlfredPath_c6ecb9f5 (line 69415)
-translate ru AlfredPath_c6ecb9f5:
+# AlfredPath_25988e92 (line 69415)
+translate ru AlfredPath_25988e92:
     # "He cupped her ass, possively."
     ""
 
-# AlfredPath_f3107f91 (line 69416)
-translate ru AlfredPath_f3107f91:
+# AlfredPath_c822c561 (line 69416)
+translate ru AlfredPath_c822c561:
     # "His other hand slipped to her exposed breast. He owned that too."
     ""
 
-# AlfredPath_2fa9cf8e (line 69417)
-translate ru AlfredPath_2fa9cf8e:
+# AlfredPath_5250840e (line 69417)
+translate ru AlfredPath_5250840e:
     # alf "Gods, all these days I've wasted...no more..."
     alf ""
 
-# AlfredPath_67630358 (line 69418)
-translate ru AlfredPath_67630358:
+# AlfredPath_fec3a486 (line 69418)
+translate ru AlfredPath_fec3a486:
     # alf "I will work again..."
     alf ""
 
-# AlfredPath_33b8678d (line 69419)
-translate ru AlfredPath_33b8678d:
+# AlfredPath_e117c30d (line 69419)
+translate ru AlfredPath_e117c30d:
     # alf "I will grow my lands..."
     alf ""
 
-# AlfredPath_bed1770c (line 69420)
-translate ru AlfredPath_bed1770c:
+# AlfredPath_e43e0480 (line 69420)
+translate ru AlfredPath_e43e0480:
     # alf "Each morning and night I will fuck you."
     alf ""
 
-# AlfredPath_0cdbf27c (line 69421)
-translate ru AlfredPath_0cdbf27c:
+# AlfredPath_feff644c (line 69421)
+translate ru AlfredPath_feff644c:
     # alf "Gods, I will fuck you till the day I die."
     alf ""
 
-# AlfredPath_34998d07 (line 69422)
-translate ru AlfredPath_34998d07:
+# AlfredPath_ff8de775 (line 69422)
+translate ru AlfredPath_ff8de775:
     # s "Promise."
     s ""
 
-# AlfredPath_385241be (line 69423)
-translate ru AlfredPath_385241be:
+# AlfredPath_d5fae064 (line 69423)
+translate ru AlfredPath_d5fae064:
     # "Sarah whispered in his ear."
     ""
 
-# AlfredPath_9b085a7e (line 69424)
-translate ru AlfredPath_9b085a7e:
+# AlfredPath_12db04ce (line 69424)
+translate ru AlfredPath_12db04ce:
     # s "Promise you will be my bull."
     s ""
 
-# AlfredPath_d871c77c (line 69425)
-translate ru AlfredPath_d871c77c:
+# AlfredPath_f96d609d (line 69425)
+translate ru AlfredPath_f96d609d:
     # "With that, he seized her and lifted her body off the ground."
     ""
 
-# AlfredPath_2c447cec (line 69426)
-translate ru AlfredPath_2c447cec:
+# AlfredPath_91b6f083 (line 69426)
+translate ru AlfredPath_91b6f083:
     # "He threw her onto the bed and jumped in after her."
     ""
 
-# AlfredPath_36c86631 (line 69427)
-translate ru AlfredPath_36c86631:
+# AlfredPath_c42b27b7 (line 69427)
+translate ru AlfredPath_c42b27b7:
     # "Laughing, they fell into their marital bed."
     ""
 
-# AlfredPath_53a6c8bb (line 69428)
-translate ru AlfredPath_53a6c8bb:
+# AlfredPath_9efb3202 (line 69428)
+translate ru AlfredPath_9efb3202:
     # "She felt his hands, roaming her body with increased confidence."
     ""
 
-# AlfredPath_700049e7 (line 69429)
-translate ru AlfredPath_700049e7:
+# AlfredPath_94ce9026 (line 69429)
+translate ru AlfredPath_94ce9026:
     # "He had never been shy with her before, but now she felt what it was to truly belong to him."
     ""
 
-# AlfredPath_cfe234bc (line 69430)
-translate ru AlfredPath_cfe234bc:
+# AlfredPath_78177580 (line 69430)
+translate ru AlfredPath_78177580:
     # "To feel how he treated a woman that he saw as his."
     ""
 
-# AlfredPath_f3a8abfc (line 69431)
-translate ru AlfredPath_f3a8abfc:
+# AlfredPath_7c6670e4 (line 69431)
+translate ru AlfredPath_7c6670e4:
     # "Complete submission."
     ""
 
-# AlfredPath_37115278 (line 69432)
-translate ru AlfredPath_37115278:
+# AlfredPath_5080378f (line 69432)
+translate ru AlfredPath_5080378f:
     # "And in return."
     ""
 
-# AlfredPath_e2c84eb1 (line 69433)
-translate ru AlfredPath_e2c84eb1:
+# AlfredPath_7d27ac70 (line 69433)
+translate ru AlfredPath_7d27ac70:
     # "His undying loyalty."
     ""
 
-# AlfredPath_980cb57c (line 69434)
-translate ru AlfredPath_980cb57c:
+# AlfredPath_c59d4fdf (line 69434)
+translate ru AlfredPath_c59d4fdf:
     # "If she served him, he would commit himself to her."
     ""
 
-# AlfredPath_6d0fa4cb (line 69435)
-translate ru AlfredPath_6d0fa4cb:
+# AlfredPath_a08fd198 (line 69435)
+translate ru AlfredPath_a08fd198:
     # "And she grew wetter for him by each passing moment."
     ""
 
-# AlfredPath_032bca28 (line 69441)
-translate ru AlfredPath_032bca28:
+# AlfredPath_1bf07585 (line 69441)
+translate ru AlfredPath_1bf07585:
     # "As if to prove her surrender, she leaned forward and took his member into her mouth."
     ""
 
-# AlfredPath_1f501e86 (line 69442)
-translate ru AlfredPath_1f501e86:
+# AlfredPath_4b890f69 (line 69442)
+translate ru AlfredPath_4b890f69:
     # "As she bobbed her head up and down along the length of his shaft, she turned her eyes upwards."
     ""
 
-# AlfredPath_3021528b (line 69443)
-translate ru AlfredPath_3021528b:
+# AlfredPath_6e1dc560 (line 69443)
+translate ru AlfredPath_6e1dc560:
     # "And found him looking down at her with approval."
     ""
 
-# AlfredPath_e5c2c2e3 (line 69444)
-translate ru AlfredPath_e5c2c2e3:
+# AlfredPath_b5103fb2 (line 69444)
+translate ru AlfredPath_b5103fb2:
     # "He softly cupped her cheek as she continued to suck him."
     ""
 
-# AlfredPath_c1f461c7 (line 69445)
-translate ru AlfredPath_c1f461c7:
+# AlfredPath_1a87347a (line 69445)
+translate ru AlfredPath_1a87347a:
     # "Sarah had never before wanted to please a man as much as him."
     ""
 
-# AlfredPath_6bcd041a (line 69446)
-translate ru AlfredPath_6bcd041a:
+# AlfredPath_f0a912a5 (line 69446)
+translate ru AlfredPath_f0a912a5:
     # "Her husband-to-be."
     ""
 
-# AlfredPath_f08ad674 (line 69447)
-translate ru AlfredPath_f08ad674:
+# AlfredPath_098b0657 (line 69447)
+translate ru AlfredPath_098b0657:
     # "If she was to be pledged to one man and one man only, she would do so without reservation."
     ""
 
-# AlfredPath_73639685 (line 69448)
-translate ru AlfredPath_73639685:
+# AlfredPath_ad509a4b (line 69448)
+translate ru AlfredPath_ad509a4b:
     # "She would give him everything."
     ""
 
-# AlfredPath_e6e354c0 (line 69449)
-translate ru AlfredPath_e6e354c0:
+# AlfredPath_049e8e36 (line 69449)
+translate ru AlfredPath_049e8e36:
     # "Her body, and every part of it."
     ""
 
-# AlfredPath_b2b1efab (line 69450)
-translate ru AlfredPath_b2b1efab:
+# AlfredPath_868c3134 (line 69450)
+translate ru AlfredPath_868c3134:
     # "Her willing soul."
     ""
 
-# AlfredPath_957cd7de (line 69451)
-translate ru AlfredPath_957cd7de:
+# AlfredPath_f25ce6fd (line 69451)
+translate ru AlfredPath_f25ce6fd:
     # "And she would even bear him new children, if nature allowed it."
     ""
 
-# AlfredPath_da44d13e (line 69452)
-translate ru AlfredPath_da44d13e:
+# AlfredPath_e15499b9 (line 69452)
+translate ru AlfredPath_e15499b9:
     # "Sarah surprised herself with the swiftness of her surrender to the man."
     ""
 
-# AlfredPath_224ecd21 (line 69453)
-translate ru AlfredPath_224ecd21:
+# AlfredPath_acf0ed21 (line 69453)
+translate ru AlfredPath_acf0ed21:
     # alf "Gods, that mouth of yours..."
     alf ""
 
-# AlfredPath_b2f7c0af (line 69454)
-translate ru AlfredPath_b2f7c0af:
+# AlfredPath_6ee1f2d0 (line 69454)
+translate ru AlfredPath_6ee1f2d0:
     # "She slid her tongue along his shaft, as if to communicate her approval of his body."
     ""
 
-# AlfredPath_d3861fba (line 69455)
-translate ru AlfredPath_d3861fba:
+# AlfredPath_25a43df9 (line 69455)
+translate ru AlfredPath_25a43df9:
     # "He gripped the back of her head and began to guide her tempo."
     ""
 
-# AlfredPath_f29c462d (line 69456)
-translate ru AlfredPath_f29c462d:
+# AlfredPath_e7ca4f59 (line 69456)
+translate ru AlfredPath_e7ca4f59:
     # "She willingly obeyed."
     ""
 
-# AlfredPath_174a3a08 (line 69457)
-translate ru AlfredPath_174a3a08:
+# AlfredPath_19599b50 (line 69457)
+translate ru AlfredPath_19599b50:
     # "Pressed so close, her senses were overwhelmed."
     ""
 
-# AlfredPath_11d33dc8 (line 69458)
-translate ru AlfredPath_11d33dc8:
+# AlfredPath_4057bafb (line 69458)
+translate ru AlfredPath_4057bafb:
     # "Hearing his approving groans, tasting him on her tongue, smelling his body."
     ""
 
-# AlfredPath_22a76cfa (line 69459)
-translate ru AlfredPath_22a76cfa:
+# AlfredPath_6d2562dd (line 69459)
+translate ru AlfredPath_6d2562dd:
     # "All of it formed a haze in her mind, leaving only muddled lust in her brain."
     ""
 
-# AlfredPath_9a9a9cf1 (line 69460)
-translate ru AlfredPath_9a9a9cf1:
+# AlfredPath_2d9fb808 (line 69460)
+translate ru AlfredPath_2d9fb808:
     # "A wife, pleasing her husband. Life could be so simple."
     ""
 
-# AlfredPath_7bc8a667 (line 69461)
-translate ru AlfredPath_7bc8a667:
+# AlfredPath_0e51d5a4 (line 69461)
+translate ru AlfredPath_0e51d5a4:
     # "She had sold her body to him, but now realized she had sold all the rest of herself along with it."
     ""
 
-# AlfredPath_bf806258 (line 69462)
-translate ru AlfredPath_bf806258:
+# AlfredPath_038f4335 (line 69462)
+translate ru AlfredPath_038f4335:
     # "By the time he reached his climax, she was eager to receive his seed."
     ""
 
-# AlfredPath_5ab4b2c7 (line 69463)
-translate ru AlfredPath_5ab4b2c7:
+# AlfredPath_050dc7f4 (line 69463)
+translate ru AlfredPath_050dc7f4:
     # "He fucked her mouth, and with each release, she eagerly swallowed his seed down her throat."
     ""
 
-# AlfredPath_6bd7c5e0 (line 69464)
-translate ru AlfredPath_6bd7c5e0:
+# AlfredPath_cdd56ce0 (line 69464)
+translate ru AlfredPath_cdd56ce0:
     # "Distantly, she realized, she had never been happier."
     ""
 
-# AlfredPath_72ccba2d (line 69470)
-translate ru AlfredPath_72ccba2d:
+# AlfredPath_b21097a2 (line 69470)
+translate ru AlfredPath_b21097a2:
     # "Their life unfolded in that bed as wildly as it had begun."
     ""
 
-# AlfredPath_a6a74d96 (line 69471)
-translate ru AlfredPath_a6a74d96:
+# AlfredPath_dad44911 (line 69471)
+translate ru AlfredPath_dad44911:
     # "Their wedding was a large affair, inviting anyone from the town that would show, and a few from beyond."
     ""
 
-# AlfredPath_aec88996 (line 69472)
-translate ru AlfredPath_aec88996:
+# AlfredPath_48dfb289 (line 69472)
+translate ru AlfredPath_48dfb289:
     # "Sarah remembered a few key things."
     ""
 
-# AlfredPath_21a532f3 (line 69473)
-translate ru AlfredPath_21a532f3:
+# AlfredPath_8f079476 (line 69473)
+translate ru AlfredPath_8f079476:
     # "How utterly beautiful she was on that day. Undeniably so."
     ""
 
-# AlfredPath_fedfc4b7 (line 69474)
-translate ru AlfredPath_fedfc4b7:
+# AlfredPath_b748c379 (line 69474)
+translate ru AlfredPath_b748c379:
     # "How in the sea of faces, she could see countless of them wondering at the absurdity of the match. A beauty like hers, wasted on an old man like him."
     ""
 
-# AlfredPath_c7ef4e69 (line 69475)
-translate ru AlfredPath_c7ef4e69:
+# AlfredPath_119a25d2 (line 69475)
+translate ru AlfredPath_119a25d2:
     # "And Marius' dead eyes."
     ""
 
-# AlfredPath_a06f445f (line 69476)
-translate ru AlfredPath_a06f445f:
+# AlfredPath_ae2f3dc0 (line 69476)
+translate ru AlfredPath_ae2f3dc0:
     # "But when her husband took her that night, longer and harder than he had ever done before, she made peace with all of it."
     ""
 
-# AlfredPath_354f5d73 (line 69477)
-translate ru AlfredPath_354f5d73:
+# AlfredPath_e54dd13c (line 69477)
+translate ru AlfredPath_e54dd13c:
     # "The feeling she expected of humiliation at being known as his wife, was entirely absent."
     ""
 
-# AlfredPath_776e1d53 (line 69478)
-translate ru AlfredPath_776e1d53:
+# AlfredPath_7a108f57 (line 69478)
+translate ru AlfredPath_7a108f57:
     # "Sure, people talked, and whispered. But they were small, and she easily ignored them."
     ""
 
-# AlfredPath_1b0fb4d1 (line 69479)
-translate ru AlfredPath_1b0fb4d1:
+# AlfredPath_55bd746f (line 69479)
+translate ru AlfredPath_55bd746f:
     # "Keeping true to his promise, he took her each morning and each night of their marriage."
     ""
 
-# AlfredPath_316ad6b2 (line 69480)
-translate ru AlfredPath_316ad6b2:
+# AlfredPath_739cdbbf (line 69480)
+translate ru AlfredPath_739cdbbf:
     # "He had always been in tune to the motions of her body, but as the weeks and months added up, he mastered her."
     ""
 
-# AlfredPath_67315800 (line 69481)
-translate ru AlfredPath_67315800:
+# AlfredPath_89281f66 (line 69481)
+translate ru AlfredPath_89281f66:
     # "Sex with her by now husband was no chore or surrender."
     ""
 
-# AlfredPath_4ba075c5 (line 69482)
-translate ru AlfredPath_4ba075c5:
+# AlfredPath_7fbf39af (line 69482)
+translate ru AlfredPath_7fbf39af:
     # "It was something she looked forward to with almost mad desperation."
     ""
 
-# AlfredPath_c72d0a11 (line 69483)
-translate ru AlfredPath_c72d0a11:
+# AlfredPath_c6e260c1 (line 69483)
+translate ru AlfredPath_c6e260c1:
     # "Even resentments at his age had come to fade."
     ""
 
-# AlfredPath_d8042839 (line 69484)
-translate ru AlfredPath_d8042839:
+# AlfredPath_7cccaba4 (line 69484)
+translate ru AlfredPath_7cccaba4:
     # "He was handsome and strong to her, regardless of what the world thought."
     ""
 
-# AlfredPath_a69fd219 (line 69490)
-translate ru AlfredPath_a69fd219:
+# AlfredPath_58441f1f (line 69490)
+translate ru AlfredPath_58441f1f:
     # "Just as he kept his promise to her in the bedroom, so too did he keep it outside of it."
     ""
 
-# AlfredPath_02031122 (line 69491)
-translate ru AlfredPath_02031122:
+# AlfredPath_35a730e1 (line 69491)
+translate ru AlfredPath_35a730e1:
     # "Taking to life with renewed energy, her husband began to take on the world again."
     ""
 
-# AlfredPath_91b0527a (line 69492)
-translate ru AlfredPath_91b0527a:
+# AlfredPath_a9915199 (line 69492)
+translate ru AlfredPath_a9915199:
     # "It started with the old connections that visited their wedding."
     ""
 
-# AlfredPath_ffb293bc (line 69493)
-translate ru AlfredPath_ffb293bc:
+# AlfredPath_098304e6 (line 69493)
+translate ru AlfredPath_098304e6:
     # "Taking out loans, he agressively began to buy up the free land in and around the town."
     ""
 
-# AlfredPath_786a490f (line 69494)
-translate ru AlfredPath_786a490f:
+# AlfredPath_e6cc0268 (line 69494)
+translate ru AlfredPath_e6cc0268:
     # "When he planted them full of cotton, people were certain that the old man had lost the last few of his marbles."
     ""
 
-# AlfredPath_89b78398 (line 69495)
-translate ru AlfredPath_89b78398:
+# AlfredPath_bfe4b0ee (line 69495)
+translate ru AlfredPath_bfe4b0ee:
     # "That summer, shipment after shipment of grain arrived in the nearby town, collapsing the price."
     ""
 
-# AlfredPath_bc52249f (line 69496)
-translate ru AlfredPath_bc52249f:
+# AlfredPath_f00ed873 (line 69496)
+translate ru AlfredPath_f00ed873:
     # "When the other farming families of Gallow's Creek tried to sell their own grain, they found few buyers."
     ""
 
-# AlfredPath_a54217c6 (line 69497)
-translate ru AlfredPath_a54217c6:
+# AlfredPath_da91cce1 (line 69497)
+translate ru AlfredPath_da91cce1:
     # "The few times they could even sell their grain, it was at a loss."
     ""
 
-# AlfredPath_63b93e6f (line 69498)
-translate ru AlfredPath_63b93e6f:
+# AlfredPath_a2ab6c50 (line 69498)
+translate ru AlfredPath_a2ab6c50:
     # "A year's work, for less than nothing."
     ""
 
-# AlfredPath_57c1b723 (line 69499)
-translate ru AlfredPath_57c1b723:
+# AlfredPath_e72c6c99 (line 69499)
+translate ru AlfredPath_e72c6c99:
     # "The brutal winter would have starved them, if not for kindly Alfred, who gave them each loans."
     ""
 
-# AlfredPath_d0bd604f (line 69500)
-translate ru AlfredPath_d0bd604f:
+# AlfredPath_277b6a9f (line 69500)
+translate ru AlfredPath_277b6a9f:
     # "But when the next year the grain harvest failed, on account of a new disease, the farmers of Gallow's Creek had nothing again."
     ""
 
-# AlfredPath_43b92648 (line 69501)
-translate ru AlfredPath_43b92648:
+# AlfredPath_6107dfe8 (line 69501)
+translate ru AlfredPath_6107dfe8:
     # "One by one, they came to Alfred and pleaded for extensions. More loans."
     ""
 
-# AlfredPath_0f68c4a2 (line 69502)
-translate ru AlfredPath_0f68c4a2:
+# AlfredPath_e2cb5cb6 (line 69502)
+translate ru AlfredPath_e2cb5cb6:
     # "And the debt grew."
     ""
 
-# AlfredPath_2a2c7119 (line 69503)
-translate ru AlfredPath_2a2c7119:
+# AlfredPath_fc932782 (line 69503)
+translate ru AlfredPath_fc932782:
     # "When by the third year they could not pay, they each had to pay with the only thing they had."
     ""
 
-# AlfredPath_3701c2af (line 69504)
-translate ru AlfredPath_3701c2af:
+# AlfredPath_9808e749 (line 69504)
+translate ru AlfredPath_9808e749:
     # "Their land."
     ""
 
-# AlfredPath_88e7a562 (line 69505)
-translate ru AlfredPath_88e7a562:
+# AlfredPath_bfa1d5be (line 69505)
+translate ru AlfredPath_bfa1d5be:
     # "And so it was that by the fourth year, Alfred and his wife Sarah had come into possession of nearly all the land in Gallow's Creek."
     ""
 
-# AlfredPath_e2921d28 (line 69506)
-translate ru AlfredPath_e2921d28:
+# AlfredPath_ed0d7e75 (line 69506)
+translate ru AlfredPath_ed0d7e75:
     # "And the once proud independent farmer's now worked as laborers on the land they once owned."
     ""
 
-# AlfredPath_f36eea2f (line 69507)
-translate ru AlfredPath_f36eea2f:
+# AlfredPath_e1a13fc6 (line 69507)
+translate ru AlfredPath_e1a13fc6:
     # "The small hovel grew and grew into a proud and strong estate that looked out over the vast fields of land that they now owned."
     ""
 
-# AlfredPath_7510b4d5 (line 69508)
-translate ru AlfredPath_7510b4d5:
+# AlfredPath_5d8253cf (line 69508)
+translate ru AlfredPath_5d8253cf:
     # "Her husband knew the town, its people and the land. Sarah knew the written word and drafted the contracts."
     ""
 
-# AlfredPath_9251346a (line 69509)
-translate ru AlfredPath_9251346a:
+# AlfredPath_62ef9a4b (line 69509)
+translate ru AlfredPath_62ef9a4b:
     # "Together, husband and wife brought all of Gallow's Creek into their possession."
     ""
 
-# AlfredPath_2e5122ce (line 69510)
-translate ru AlfredPath_2e5122ce:
+# AlfredPath_4872a824 (line 69510)
+translate ru AlfredPath_4872a824:
     # "And the people would utter and mutter their curses under their breaths."
     ""
 
-# AlfredPath_c1ec6a2d (line 69511)
-translate ru AlfredPath_c1ec6a2d:
+# AlfredPath_810b7798 (line 69511)
+translate ru AlfredPath_810b7798:
     # "But it meant nothing to Sarah or her husband, because a coward that didn't even dare to utter a curse in public, was no threat at all."
     ""
 
-# AlfredPath_16f40b4e (line 69512)
-translate ru AlfredPath_16f40b4e:
+# AlfredPath_16e3c953 (line 69512)
+translate ru AlfredPath_16e3c953:
     # "And some wondered how a man like Alfred, could have so much."
     ""
 
-# AlfredPath_8312c972 (line 69514)
-translate ru AlfredPath_8312c972:
+# AlfredPath_ad2fcd0e (line 69514)
+translate ru AlfredPath_ad2fcd0e:
     # "With each passing year, the bond of their marriage grew stronger."
     ""
 
-# AlfredPath_5b7fa7d7 (line 69515)
-translate ru AlfredPath_5b7fa7d7:
+# AlfredPath_72341a51 (line 69515)
+translate ru AlfredPath_72341a51:
     # "Sarah understood that Alfred was a man that could bend the world to his will."
     ""
 
-# AlfredPath_85149862 (line 69516)
-translate ru AlfredPath_85149862:
+# AlfredPath_009dc05c (line 69516)
+translate ru AlfredPath_009dc05c:
     # "And Alfred understood that Sarah was more than only her beauty."
     ""
 
-# AlfredPath_22fd2e3c (line 69517)
-translate ru AlfredPath_22fd2e3c:
+# AlfredPath_58f3b576 (line 69517)
+translate ru AlfredPath_58f3b576:
     # "Whatever hesitation existed had died out long ago. Each was fully set to the marriage."
     ""
 
-# AlfredPath_b2cc6b39 (line 69518)
-translate ru AlfredPath_b2cc6b39:
+# AlfredPath_3cc819a0 (line 69518)
+translate ru AlfredPath_3cc819a0:
     # "Each was happy in it."
     ""
 
-# AlfredPath_e2479d62 (line 69519)
-translate ru AlfredPath_e2479d62:
+# AlfredPath_18bc5131 (line 69519)
+translate ru AlfredPath_18bc5131:
     # "And outside the trivial and small folk of Gallow's Creek woke early to start their shifts."
     ""
 
-# AlfredPath_8ced7fcc (line 69520)
-translate ru AlfredPath_8ced7fcc:
+# AlfredPath_38ecc398 (line 69520)
+translate ru AlfredPath_38ecc398:
     # "To work the land until their backs broke from it, so they could afford enough food to do it again the next day."
     ""
 
-# AlfredPath_bd5a9f58 (line 69521)
-translate ru AlfredPath_bd5a9f58:
+# AlfredPath_6e2fc680 (line 69521)
+translate ru AlfredPath_6e2fc680:
     # "While Sarah and her husband laid in bed until the late afternoon, their bodies exhausted from a different kind of labor."
     ""
 
-# AlfredPath_7be8ebf0 (line 69522)
-translate ru AlfredPath_7be8ebf0:
+# AlfredPath_180b40d7 (line 69522)
+translate ru AlfredPath_180b40d7:
     # "From the window in their bedroom, they could see the people working the field."
     ""
 
-# AlfredPath_05c55e41 (line 69523)
-translate ru AlfredPath_05c55e41:
+# AlfredPath_e2436b95 (line 69523)
+translate ru AlfredPath_e2436b95:
     # "At great distance, they seemed like ants."
     ""
 
-# AlfredPath_c4e034d8 (line 69525)
-translate ru AlfredPath_c4e034d8:
+# AlfredPath_f30e9302 (line 69525)
+translate ru AlfredPath_f30e9302:
     # "Not only in business did their fortunes thrive, but in love too."
     ""
 
-# AlfredPath_f5bce58f (line 69526)
-translate ru AlfredPath_f5bce58f:
+# AlfredPath_e1d61612 (line 69526)
+translate ru AlfredPath_e1d61612:
     # "By the second year, Sarah and Alfred had their first child."
     ""
 
-# AlfredPath_79f407ee (line 69527)
-translate ru AlfredPath_79f407ee:
+# AlfredPath_0116d4e9 (line 69527)
+translate ru AlfredPath_0116d4e9:
     # "A boy, as she had hoped it would be."
     ""
 
-# AlfredPath_6cc3e3fa (line 69528)
-translate ru AlfredPath_6cc3e3fa:
+# AlfredPath_7c1d07d1 (line 69528)
+translate ru AlfredPath_7c1d07d1:
     # "In the years after, she would give him five more children, until the house was singing with life."
     ""
 
-# AlfredPath_69b3a735 (line 69529)
-translate ru AlfredPath_69b3a735:
+# AlfredPath_35d09937 (line 69529)
+translate ru AlfredPath_35d09937:
     # "Their marriage lasted for nearly two decades, until Alfred's body gave out."
     ""
 
-# AlfredPath_904d4540 (line 69530)
-translate ru AlfredPath_904d4540:
+# AlfredPath_24f43450 (line 69530)
+translate ru AlfredPath_24f43450:
     # "He died softly in his bed, holding his wife's hand and whispering her name."
     ""
 
-# AlfredPath_1f2b0f52 (line 69531)
-translate ru AlfredPath_1f2b0f52:
+# AlfredPath_6d22d20e (line 69531)
+translate ru AlfredPath_6d22d20e:
     # "A man that had been given a second life and wasted not a minute of it."
     ""
 
-# AlfredPath_6eade2d2 (line 69532)
-translate ru AlfredPath_6eade2d2:
+# AlfredPath_13f5a8ef (line 69532)
+translate ru AlfredPath_13f5a8ef:
     # "She cried genuine tears when the bull of her life passed."
     ""
 
-# AlfredPath_1b58b88a (line 69534)
-translate ru AlfredPath_1b58b88a:
+# AlfredPath_43a9349d (line 69534)
+translate ru AlfredPath_43a9349d:
     # "Three days later, the town judge arrived to settle the passing of the will."
     ""
 
-# AlfredPath_02bc1115 (line 69535)
-translate ru AlfredPath_02bc1115:
+# AlfredPath_6a2524ba (line 69535)
+translate ru AlfredPath_6a2524ba:
     # "The total value of the estate now eclipsed Gallow's Creek and several towns beyond."
     ""
 
-# AlfredPath_48b06048 (line 69536)
-translate ru AlfredPath_48b06048:
+# AlfredPath_fe12f648 (line 69536)
+translate ru AlfredPath_fe12f648:
     # "A vast agricultural empire."
     ""
 
-# AlfredPath_e1863384 (line 69537)
-translate ru AlfredPath_e1863384:
+# AlfredPath_873084eb (line 69537)
+translate ru AlfredPath_873084eb:
     # "Sarah and Marius sat in the spacious living room of the estate, listening as the judge read aloud from the paper."
     ""
 
-# AlfredPath_a52d470c (line 69538)
-translate ru AlfredPath_a52d470c:
+# AlfredPath_1c2078ff (line 69538)
+translate ru AlfredPath_1c2078ff:
     # "He didn't need to read aloud on her account, she could read, but Marius could not."
     ""
 
-# AlfredPath_eab1266a (line 69539)
-translate ru AlfredPath_eab1266a:
+# AlfredPath_4b71342f (line 69539)
+translate ru AlfredPath_4b71342f:
     # "Judge" "Hereby, I, the late Alfred, leave the full and total sum of my estate to my wife and the love of my life, Sarah."
     ""
 
-# AlfredPath_573c8411 (line 69540)
-translate ru AlfredPath_573c8411:
+# AlfredPath_ddae23e3 (line 69540)
+translate ru AlfredPath_ddae23e3:
     # "Judge" "Sarah, I thought myself dead before I met you."
     ""
 
-# AlfredPath_faf2f9fd (line 69541)
-translate ru AlfredPath_faf2f9fd:
+# AlfredPath_3a016f3b (line 69541)
+translate ru AlfredPath_3a016f3b:
     # "Judge" "You gave me more than I could ever have asked for."
     ""
 
-# AlfredPath_979d134a (line 69542)
-translate ru AlfredPath_979d134a:
+# AlfredPath_be9be8bd (line 69542)
+translate ru AlfredPath_be9be8bd:
     # "Judge" "I only hope that I proved worthy of your life in the years that were afforded to me."
     ""
 
-# AlfredPath_b031a18a (line 69543)
-translate ru AlfredPath_b031a18a:
+# AlfredPath_72c02904 (line 69543)
+translate ru AlfredPath_72c02904:
     # "The judge cleared his throat."
     ""
 
-# AlfredPath_9d4ebc30 (line 69544)
-translate ru AlfredPath_9d4ebc30:
+# AlfredPath_ca798ca1 (line 69544)
+translate ru AlfredPath_ca798ca1:
     # "Judge" "As for Marius, my son. You were my pride and joy."
     ""
 
-# AlfredPath_60772811 (line 69545)
-translate ru AlfredPath_60772811:
+# AlfredPath_ac6fd70d (line 69545)
+translate ru AlfredPath_ac6fd70d:
     # "Judge" "I hope that you understand my decision to entrust Sarah with the full estate."
     ""
 
-# AlfredPath_8765499d (line 69546)
-translate ru AlfredPath_8765499d:
+# AlfredPath_67d10a1b (line 69546)
+translate ru AlfredPath_67d10a1b:
     # "Judge" "And I hope that you will commit yourself to working on behalf of your new siblings, who no doubt can learn from your great work ethic."
     ""
 
-# AlfredPath_7c7d48fc (line 69547)
-translate ru AlfredPath_7c7d48fc:
+# AlfredPath_2b1ed5c5 (line 69547)
+translate ru AlfredPath_2b1ed5c5:
     # "The judge rolled up the paper."
     ""
 
-# AlfredPath_2e56d7c3 (line 69548)
-translate ru AlfredPath_2e56d7c3:
+# AlfredPath_b22ccf00 (line 69548)
+translate ru AlfredPath_b22ccf00:
     # "Judge" "So it is written, so it shall be. I hereby declare the contents of this will as binding and final."
     ""
 
-# AlfredPath_43d213bc (line 69549)
-translate ru AlfredPath_43d213bc:
+# AlfredPath_d8eac573 (line 69549)
+translate ru AlfredPath_d8eac573:
     # "Sarah casually turned her head towards Marius."
     ""
 
-# AlfredPath_9b14b654 (line 69550)
-translate ru AlfredPath_9b14b654:
+# AlfredPath_3275d265 (line 69550)
+translate ru AlfredPath_3275d265:
     # "The same dead eyes sat in his deep skull, which had now begun to show the signs of aging."
     ""
 
-# AlfredPath_ef2394b4 (line 69551)
-translate ru AlfredPath_ef2394b4:
+# AlfredPath_0d294f25 (line 69551)
+translate ru AlfredPath_0d294f25:
     # "Far sooner than his father did, she thought to herself."
     ""
 
-# AlfredPath_df739193 (line 69552)
-translate ru AlfredPath_df739193:
+# AlfredPath_cada21dd (line 69552)
+translate ru AlfredPath_cada21dd:
     # "In the far corner of the room stood two of their family's guards."
     ""
 
-# AlfredPath_e7b5b987 (line 69553)
-translate ru AlfredPath_e7b5b987:
+# AlfredPath_1cfb1303 (line 69553)
+translate ru AlfredPath_1cfb1303:
     # "Sarah didn't really think Marius would get violent, but she preferred not to take a chance."
     ""
 
-# AlfredPath_0135ec13 (line 69554)
-translate ru AlfredPath_0135ec13:
+# AlfredPath_cfcdcb9c (line 69554)
+translate ru AlfredPath_cfcdcb9c:
     # s "Are you okay, Marius?"
     s ""
 
-# AlfredPath_e83eabd8 (line 69555)
-translate ru AlfredPath_e83eabd8:
+# AlfredPath_89ed7717 (line 69555)
+translate ru AlfredPath_89ed7717:
     # "A man who had lost everything, and possessed nothing."
     ""
 
-# AlfredPath_f8702722 (line 69556)
-translate ru AlfredPath_f8702722:
+# AlfredPath_172bc4e0 (line 69556)
+translate ru AlfredPath_172bc4e0:
     # "All his work, the sweat from his back, amounted to not a single coin in his pocket."
     ""
 
-# AlfredPath_edf01abd (line 69557)
-translate ru AlfredPath_edf01abd:
+# AlfredPath_c6157099 (line 69557)
+translate ru AlfredPath_c6157099:
     # "Marius sat still for a long time, speaking to nobody."
     ""
 
-# AlfredPath_792a570f (line 69558)
-translate ru AlfredPath_792a570f:
+# AlfredPath_37c7d8a8 (line 69558)
+translate ru AlfredPath_37c7d8a8:
     # "It lasted so long, everyone in the room began to grew nervous."
     ""
 
-# AlfredPath_cb611dbf (line 69559)
-translate ru AlfredPath_cb611dbf:
+# AlfredPath_1245ee87 (line 69559)
+translate ru AlfredPath_1245ee87:
     # "Had the verdict broken the remainder of his sanity?"
     ""
 
-# AlfredPath_9e8bcc87 (line 69560)
-translate ru AlfredPath_9e8bcc87:
+# AlfredPath_0fc54193 (line 69560)
+translate ru AlfredPath_0fc54193:
     # "Then, slowly, Marius began to stir."
     ""
 
-# AlfredPath_df266363 (line 69561)
-translate ru AlfredPath_df266363:
+# AlfredPath_50749357 (line 69561)
+translate ru AlfredPath_50749357:
     # "He looked at Sarah, then the judge, then nodded one final time."
     ""
 
-# AlfredPath_75364366 (line 69562)
-translate ru AlfredPath_75364366:
+# AlfredPath_cb059f87 (line 69562)
+translate ru AlfredPath_cb059f87:
     # "He marched out the door towards the barn."
     ""
 
-# AlfredPath_c38cc5df (line 69563)
-translate ru AlfredPath_c38cc5df:
+# AlfredPath_713417c2 (line 69563)
+translate ru AlfredPath_713417c2:
     # "Sarah motioned at the others."
     ""
 
-# AlfredPath_4fb128fa (line 69564)
-translate ru AlfredPath_4fb128fa:
+# AlfredPath_6a3c4d7b (line 69564)
+translate ru AlfredPath_6a3c4d7b:
     # s "Give him a minute. Let him be alone. He needs to rest."
     s ""
 
-# AlfredPath_863fe11b (line 69565)
-translate ru AlfredPath_863fe11b:
+# AlfredPath_00250814 (line 69565)
+translate ru AlfredPath_00250814:
     # s "His father just passed."
     s ""
 
-# AlfredPath_049fadb8 (line 69566)
-translate ru AlfredPath_049fadb8:
+# AlfredPath_e5aa5a0c (line 69566)
+translate ru AlfredPath_e5aa5a0c:
     # "And so they did."
     ""
 
-# AlfredPath_49480c3d (line 69567)
-translate ru AlfredPath_49480c3d:
+# AlfredPath_91364c39 (line 69567)
+translate ru AlfredPath_91364c39:
     # "Only an hour later did Sarah send one of the guards to go look for him."
     ""
 
-# AlfredPath_dbf8a8a1 (line 69568)
-translate ru AlfredPath_dbf8a8a1:
+# AlfredPath_3bb8277a (line 69568)
+translate ru AlfredPath_3bb8277a:
     # "He was the one that found Marius' body, swinging from a rope attached to one of the large beams."
     ""
 
-# AlfredPath_64809862 (line 69569)
-translate ru AlfredPath_64809862:
+# AlfredPath_c8547055 (line 69569)
+translate ru AlfredPath_c8547055:
     # "They cut him down, but he was already cold to the touch, long dead."
     ""
 
-# AlfredPath_af8d2a00 (line 69570)
-translate ru AlfredPath_af8d2a00:
+# AlfredPath_00c207c4 (line 69570)
+translate ru AlfredPath_00c207c4:
     # "Sarah watched on as they buried the son next to the father."
     ""
 
-# AlfredPath_c967d030 (line 69572)
-translate ru AlfredPath_c967d030:
+# AlfredPath_1504947c (line 69572)
+translate ru AlfredPath_1504947c:
     # "She was surpised how little it moved her heart."
     ""
 
-# AlfredPath_a73950df (line 69573)
-translate ru AlfredPath_a73950df:
+# AlfredPath_65212b6a (line 69573)
+translate ru AlfredPath_65212b6a:
     # "Marius had not been a problem in all the years since her marriage with Alfred."
     ""
 
-# AlfredPath_36524b2b (line 69574)
-translate ru AlfredPath_36524b2b:
+# AlfredPath_97c74a2d (line 69574)
+translate ru AlfredPath_97c74a2d:
     # "But he still represented a problem in terms of the inheritance."
     ""
 
-# AlfredPath_7d5b566f (line 69575)
-translate ru AlfredPath_7d5b566f:
+# AlfredPath_fec248c4 (line 69575)
+translate ru AlfredPath_fec248c4:
     # "With his death, sad as it was, everything became...simpler."
     ""
 
-# AlfredPath_51e5ed90 (line 69577)
-translate ru AlfredPath_51e5ed90:
+# AlfredPath_66c44999 (line 69577)
+translate ru AlfredPath_66c44999:
     # "After Marius' funeral had come to an end, Sarah stood upon the porch of her estate."
     ""
 
-# AlfredPath_dd7ae7b2 (line 69578)
-translate ru AlfredPath_dd7ae7b2:
+# AlfredPath_f44bccb2 (line 69578)
+translate ru AlfredPath_f44bccb2:
     # "Inside, she could hear her children running around, playing."
     ""
 
-# AlfredPath_7d5b57db (line 69579)
-translate ru AlfredPath_7d5b57db:
+# AlfredPath_1cd6c7f2 (line 69579)
+translate ru AlfredPath_1cd6c7f2:
     # "She turned her head up and looked out over the oceans of land that stretched towards the horizon."
     ""
 
-# AlfredPath_f36121f0 (line 69580)
-translate ru AlfredPath_f36121f0:
+# AlfredPath_0790ec11 (line 69580)
+translate ru AlfredPath_0790ec11:
     # "All of it hers."
     ""
 
-# AlfredPath_f20b4135 (line 69581)
-translate ru AlfredPath_f20b4135:
+# AlfredPath_79399c7f (line 69581)
+translate ru AlfredPath_79399c7f:
     # "A kingdom of a different kind, she thought as she smiled and thought of her bull."
     ""
 
-# AlfredPath_40ca551b (line 69583)
-translate ru AlfredPath_40ca551b:
+# AlfredPath_558f2f19 (line 69583)
+translate ru AlfredPath_558f2f19:
     # "So ends the story of Sarah Rose."
     ""
 
-# AlfredPath_21665ca6 (line 69584)
-translate ru AlfredPath_21665ca6:
+# AlfredPath_111faab6 (line 69584)
+translate ru AlfredPath_111faab6:
     # "Princess to vagrant. Wife to and old Alfred. Wealthy widow."
     ""
 
-# AlfredPath_80cb4161 (line 69585)
-translate ru AlfredPath_80cb4161:
+# AlfredPath_525986dc (line 69585)
+translate ru AlfredPath_525986dc:
     # "The End."
     ""
 

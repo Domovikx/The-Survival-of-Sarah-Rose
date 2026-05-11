@@ -3,828 +3,828 @@
 # Scene: HassarPath5
 # Total blocks: 165
 
-# HassarPath5_c928edbb (line 19961)
-translate ru HassarPath5_c928edbb:
+# HassarPath5_6be37030 (line 19961)
+translate ru HassarPath5_6be37030:
     # "Sarah woke the next day."
     ""
 
-# HassarPath5_4446dc41 (line 19962)
-translate ru HassarPath5_4446dc41:
+# HassarPath5_21f49baf (line 19962)
+translate ru HassarPath5_21f49baf:
     # "The warm desert air ran across her skin, gently waking her."
     ""
 
-# HassarPath5_133fee5b (line 19963)
-translate ru HassarPath5_133fee5b:
+# HassarPath5_fba3c55c (line 19963)
+translate ru HassarPath5_fba3c55c:
     # "As she turned in her bed, she could feel the luxurious satin sheets and pillows, sliding across her body."
     ""
 
-# HassarPath5_02672f06 (line 19965)
-translate ru HassarPath5_02672f06:
+# HassarPath5_3af6cb79 (line 19965)
+translate ru HassarPath5_3af6cb79:
     # "For now, this is where the story ends."
     ""
 
-# HassarPath5_01af860f (line 19968)
-translate ru HassarPath5_01af860f:
+# HassarPath5_96a0f470 (line 19968)
+translate ru HassarPath5_96a0f470:
     # "Every way she turned, it felt like the best bed she had ever slept it."
     ""
 
-# HassarPath5_522de379 (line 19969)
-translate ru HassarPath5_522de379:
+# HassarPath5_c3abc788 (line 19969)
+translate ru HassarPath5_c3abc788:
     # "Sarah had thrown off the awkward outfit that had been forced on her."
     ""
 
-# HassarPath5_b1621c1d (line 19970)
-translate ru HassarPath5_b1621c1d:
+# HassarPath5_1c2c162f (line 19970)
+translate ru HassarPath5_1c2c162f:
     # "It was a small act of resistance to defy the man that called himself her master."
     ""
 
-# HassarPath5_de73527a (line 19971)
-translate ru HassarPath5_de73527a:
+# HassarPath5_f034e49c (line 19971)
+translate ru HassarPath5_f034e49c:
     # "But as she pushed herself up, she wondered how much of an act of resistance it really was."
     ""
 
-# HassarPath5_f6bf95c3 (line 19972)
-translate ru HassarPath5_f6bf95c3:
+# HassarPath5_9e66d0b9 (line 19972)
+translate ru HassarPath5_9e66d0b9:
     # "Instead of parading herself around in the clothes of her conqueror, she now slept naked in a bed that he owned."
     ""
 
-# HassarPath5_36df65cd (line 19973)
-translate ru HassarPath5_36df65cd:
+# HassarPath5_d4cb9a80 (line 19973)
+translate ru HassarPath5_d4cb9a80:
     # "The room, and everything in it, was hers to use, but his by right."
     ""
 
-# HassarPath5_55ac6fc0 (line 19974)
-translate ru HassarPath5_55ac6fc0:
+# HassarPath5_f30c6622 (line 19974)
+translate ru HassarPath5_f30c6622:
     # "As she caught her own reflection in a mirror, she realized that she and her body were no exception."
     ""
 
-# HassarPath5_069ad3f6 (line 19975)
-translate ru HassarPath5_069ad3f6:
+# HassarPath5_2f68b025 (line 19975)
+translate ru HassarPath5_2f68b025:
     # "Like everything else in the room, it belonged to the Khan."
     ""
 
-# HassarPath5_50e3bcfe (line 19976)
-translate ru HassarPath5_50e3bcfe:
+# HassarPath5_ded5acd2 (line 19976)
+translate ru HassarPath5_ded5acd2:
     # "Sarah shuddered at the thought."
     ""
 
-# HassarPath5_6a3a762a (line 19977)
-translate ru HassarPath5_6a3a762a:
+# HassarPath5_a000a50f (line 19977)
+translate ru HassarPath5_a000a50f:
     # "All her life, the idea that she was her own person hadn't even been a thought. It was just something she knew instinctively."
     ""
 
-# HassarPath5_ced5c95b (line 19978)
-translate ru HassarPath5_ced5c95b:
+# HassarPath5_f6490d24 (line 19978)
+translate ru HassarPath5_f6490d24:
     # "But now she was his."
     ""
 
-# HassarPath5_f07388bc (line 19979)
-translate ru HassarPath5_f07388bc:
+# HassarPath5_e9d44eb2 (line 19979)
+translate ru HassarPath5_e9d44eb2:
     # "And the little freedoms afforded to her could be withdrawn whenever he pleased."
     ""
 
-# HassarPath5_160265f1 (line 19980)
-translate ru HassarPath5_160265f1:
+# HassarPath5_eecad88c (line 19980)
+translate ru HassarPath5_eecad88c:
     # "Sarah pulled the covers closer, a small guard against the world."
     ""
 
-# HassarPath5_70a4b0e2 (line 19981)
-translate ru HassarPath5_70a4b0e2:
+# HassarPath5_397b5d86 (line 19981)
+translate ru HassarPath5_397b5d86:
     # "And beyond this palace, she knew her people suffered far worse than her."
     ""
 
-# HassarPath5_f4efe665 (line 19982)
-translate ru HassarPath5_f4efe665:
+# HassarPath5_0d8684bf (line 19982)
+translate ru HassarPath5_0d8684bf:
     # "She resented her special status, even in defeat. Even if she was glad for it."
     ""
 
-# HassarPath5_e47f5e1d (line 19983)
-translate ru HassarPath5_e47f5e1d:
+# HassarPath5_c35a7165 (line 19983)
+translate ru HassarPath5_c35a7165:
     # "When finally she tired of laying in the bed, Sarah rose."
     ""
 
-# HassarPath5_5c699e25 (line 19984)
-translate ru HassarPath5_5c699e25:
+# HassarPath5_fb4bc474 (line 19984)
+translate ru HassarPath5_fb4bc474:
     # "Slowly, she put on the outfit again, clasping the shackles around her waist and ankles, tying the chains together."
     ""
 
-# HassarPath5_771de963 (line 19985)
-translate ru HassarPath5_771de963:
+# HassarPath5_69c05215 (line 19985)
+translate ru HassarPath5_69c05215:
     # "It covered almost nothing, which somehow felt worse than nakedness."
     ""
 
-# HassarPath5_a1357d96 (line 19986)
-translate ru HassarPath5_a1357d96:
+# HassarPath5_0c0dfa99 (line 19986)
+translate ru HassarPath5_0c0dfa99:
     # "As she made her way down the hallway, she expected to hear someone, but instead everything was quiet."
     ""
 
-# HassarPath5_b4d56158 (line 19987)
-translate ru HassarPath5_b4d56158:
+# HassarPath5_c53f2bbb (line 19987)
+translate ru HassarPath5_c53f2bbb:
     # "Only the soft sound of moving water, echoed in the hall."
     ""
 
-# HassarPath5_e54c83fc (line 19988)
-translate ru HassarPath5_e54c83fc:
+# HassarPath5_84e0c9d4 (line 19988)
+translate ru HassarPath5_84e0c9d4:
     # "Following the sound, Sarah soon found the girl she knew as Sophia."
     ""
 
-# HassarPath5_e7f79664 (line 19989)
-translate ru HassarPath5_e7f79664:
+# HassarPath5_3613e3b1 (line 19989)
+translate ru HassarPath5_3613e3b1:
     # "She sat idly by the edge of the pool, naked, running her feet back and forth through the water."
     ""
 
-# HassarPath5_5f15c24b (line 19990)
-translate ru HassarPath5_5f15c24b:
+# HassarPath5_48b60d12 (line 19990)
+translate ru HassarPath5_48b60d12:
     # "For a moment, Sarah observed the girl."
     ""
 
-# HassarPath5_73f88fd5 (line 19991)
-translate ru HassarPath5_73f88fd5:
+# HassarPath5_fbfc8a2c (line 19991)
+translate ru HassarPath5_fbfc8a2c:
     # "She seemed kind enough when they first met. But in a place like this, Sarah couldn't be entirely sure who to trust."
     ""
 
-# HassarPath5_dee5ce17 (line 19992)
-translate ru HassarPath5_dee5ce17:
+# HassarPath5_4c2c91c6 (line 19992)
+translate ru HassarPath5_4c2c91c6:
     # "Then again, studying the girl from a distance, she didn't seem like the scheming type."
     ""
 
-# HassarPath5_c06e67d7 (line 19993)
-translate ru HassarPath5_c06e67d7:
+# HassarPath5_2b40ad90 (line 19993)
+translate ru HassarPath5_2b40ad90:
     # "Maybe she was just what she appeared."
     ""
 
-# HassarPath5_14baf9a6 (line 19994)
-translate ru HassarPath5_14baf9a6:
+# HassarPath5_7ee9359c (line 19994)
+translate ru HassarPath5_7ee9359c:
     # s "Hey."
     s ""
 
-# HassarPath5_62650a2a (line 19995)
-translate ru HassarPath5_62650a2a:
+# HassarPath5_18427a46 (line 19995)
+translate ru HassarPath5_18427a46:
     # "Sarah spoke softly, to avoid startling the girl."
     ""
 
-# HassarPath5_7fb76dea (line 19996)
-translate ru HassarPath5_7fb76dea:
+# HassarPath5_b11d9049 (line 19996)
+translate ru HassarPath5_b11d9049:
     # "Still, the girl looked up, surprised."
     ""
 
-# HassarPath5_c1778cc4 (line 19997)
-translate ru HassarPath5_c1778cc4:
+# HassarPath5_ddd966a3 (line 19997)
+translate ru HassarPath5_ddd966a3:
     # sop "Oh!"
     sop ""
 
-# HassarPath5_b47c3282 (line 19998)
-translate ru HassarPath5_b47c3282:
+# HassarPath5_3cedfe2d (line 19998)
+translate ru HassarPath5_3cedfe2d:
     # sop "Hey, you scared me."
     sop ""
 
-# HassarPath5_127b6567 (line 19999)
-translate ru HassarPath5_127b6567:
+# HassarPath5_bfe10eef (line 19999)
+translate ru HassarPath5_bfe10eef:
     # s "Sorry about that."
     s ""
 
-# HassarPath5_dd7efe68 (line 20000)
-translate ru HassarPath5_dd7efe68:
+# HassarPath5_43b062f5 (line 20000)
+translate ru HassarPath5_43b062f5:
     # "Sarah approached her."
     ""
 
-# HassarPath5_80aab943 (line 20001)
-translate ru HassarPath5_80aab943:
+# HassarPath5_7f7c4087 (line 20001)
+translate ru HassarPath5_7f7c4087:
     # "The girl was entirely naked, and in any other situation, she might have considered it odd."
     ""
 
-# HassarPath5_98918d5c (line 20002)
-translate ru HassarPath5_98918d5c:
+# HassarPath5_9a3fedfa (line 20002)
+translate ru HassarPath5_9a3fedfa:
     # "But here in the inner sanctum of the Khan, there was a sort of casual nakedness that seemed entirely natural."
     ""
 
-# HassarPath5_551b83fc (line 20003)
-translate ru HassarPath5_551b83fc:
+# HassarPath5_8268a69d (line 20003)
+translate ru HassarPath5_8268a69d:
     # sop "Don't be."
     sop ""
 
-# HassarPath5_3367ed52 (line 20004)
-translate ru HassarPath5_3367ed52:
+# HassarPath5_3899b05b (line 20004)
+translate ru HassarPath5_3899b05b:
     # sop "I scare easy."
     sop ""
 
-# HassarPath5_ca299fc5 (line 20005)
-translate ru HassarPath5_ca299fc5:
+# HassarPath5_750afe83 (line 20005)
+translate ru HassarPath5_750afe83:
     # "She smiled as she said it, half a joke."
     ""
 
-# HassarPath5_a7627d9b (line 20006)
-translate ru HassarPath5_a7627d9b:
+# HassarPath5_5bdc8c88 (line 20006)
+translate ru HassarPath5_5bdc8c88:
     # s "Where is everyone else?"
     s ""
 
-# HassarPath5_9bf0f42c (line 20007)
-translate ru HassarPath5_9bf0f42c:
+# HassarPath5_27a4743a (line 20007)
+translate ru HassarPath5_27a4743a:
     # "Sophia shrugged."
     ""
 
-# HassarPath5_fa3b70cf (line 20008)
-translate ru HassarPath5_fa3b70cf:
+# HassarPath5_8c46427a (line 20008)
+translate ru HassarPath5_8c46427a:
     # sop "Nobody tells me nothing."
     sop ""
 
-# HassarPath5_dbe6afea (line 20009)
-translate ru HassarPath5_dbe6afea:
+# HassarPath5_1c3e35f6 (line 20009)
+translate ru HassarPath5_1c3e35f6:
     # "Sarah sat down on the edge of the pool, close to Sophia."
     ""
 
-# HassarPath5_a73d7f61 (line 20010)
-translate ru HassarPath5_a73d7f61:
+# HassarPath5_9ea330ce (line 20010)
+translate ru HassarPath5_9ea330ce:
     # s "They're gone?"
     s ""
 
-# HassarPath5_09932a02 (line 20011)
-translate ru HassarPath5_09932a02:
+# HassarPath5_16778d12 (line 20011)
+translate ru HassarPath5_16778d12:
     # "She shrugged again."
     ""
 
-# HassarPath5_2a427cda (line 20012)
-translate ru HassarPath5_2a427cda:
+# HassarPath5_db487b91 (line 20012)
+translate ru HassarPath5_db487b91:
     # sop "They come and go."
     sop ""
 
-# HassarPath5_6583026a (line 20013)
-translate ru HassarPath5_6583026a:
+# HassarPath5_d074dd30 (line 20013)
+translate ru HassarPath5_d074dd30:
     # sop "I think it's because Ayaka is getting close."
     sop ""
 
-# HassarPath5_66a13d6c (line 20014)
-translate ru HassarPath5_66a13d6c:
+# HassarPath5_2b06ffec (line 20014)
+translate ru HassarPath5_2b06ffec:
     # sop "Naydeen takes her out of the sanctum to meet with doctors."
     sop ""
 
-# HassarPath5_22f5f2a7 (line 20015)
-translate ru HassarPath5_22f5f2a7:
+# HassarPath5_c88627f9 (line 20015)
+translate ru HassarPath5_c88627f9:
     # s "Doctors?"
     s ""
 
-# HassarPath5_2da317c4 (line 20016)
-translate ru HassarPath5_2da317c4:
+# HassarPath5_c94a0d28 (line 20016)
+translate ru HassarPath5_c94a0d28:
     # "Sarah frowned."
     ""
 
-# HassarPath5_52e0fa7e (line 20017)
-translate ru HassarPath5_52e0fa7e:
+# HassarPath5_9df56d74 (line 20017)
+translate ru HassarPath5_9df56d74:
     # sop "Yeah, obviously."
     sop ""
 
-# HassarPath5_9c1dd42e (line 20018)
-translate ru HassarPath5_9c1dd42e:
+# HassarPath5_40f7cd72 (line 20018)
+translate ru HassarPath5_40f7cd72:
     # sop "Hassar is the Khan, he can get anything. Not just stuff, but the best people too."
     sop ""
 
-# HassarPath5_8f53ecdb (line 20019)
-translate ru HassarPath5_8f53ecdb:
+# HassarPath5_71db17fb (line 20019)
+translate ru HassarPath5_71db17fb:
     # sop "And Ayaka is gonna give him a son, so she gets the best."
     sop ""
 
-# HassarPath5_99f74709 (line 20020)
-translate ru HassarPath5_99f74709:
+# HassarPath5_0fe71a75 (line 20020)
+translate ru HassarPath5_0fe71a75:
     # s "How do you know it's a son?"
     s ""
 
-# HassarPath5_16a1edb6 (line 20021)
-translate ru HassarPath5_16a1edb6:
+# HassarPath5_e8f6b48c (line 20021)
+translate ru HassarPath5_e8f6b48c:
     # "Sophia grinned."
     ""
 
-# HassarPath5_2446fc09 (line 20022)
-translate ru HassarPath5_2446fc09:
+# HassarPath5_11e1a3bd (line 20022)
+translate ru HassarPath5_11e1a3bd:
     # sop "Oh, I don't know. Woman's intuition I guess."
     sop ""
 
-# HassarPath5_d236fe63 (line 20023)
-translate ru HassarPath5_d236fe63:
+# HassarPath5_7d68d65e (line 20023)
+translate ru HassarPath5_7d68d65e:
     # "She girl slid down, most of her body dissapearing into the water of the pool."
     ""
 
-# HassarPath5_fe497d49 (line 20024)
-translate ru HassarPath5_fe497d49:
+# HassarPath5_79c93376 (line 20024)
+translate ru HassarPath5_79c93376:
     # "Gentle ripples rolled out as the water had hardly been disturbed."
     ""
 
-# HassarPath5_acca086b (line 20025)
-translate ru HassarPath5_acca086b:
+# HassarPath5_12aa35c6 (line 20025)
+translate ru HassarPath5_12aa35c6:
     # sop "Naydeen says it's gonna be a girl, but what does she know."
     sop ""
 
-# HassarPath5_4b948f6f (line 20026)
-translate ru HassarPath5_4b948f6f:
+# HassarPath5_8429e9cc (line 20026)
+translate ru HassarPath5_8429e9cc:
     # "Sophia suddenly turned to Sarah."
     ""
 
-# HassarPath5_3eb6c643 (line 20027)
-translate ru HassarPath5_3eb6c643:
+# HassarPath5_33c446dd (line 20027)
+translate ru HassarPath5_33c446dd:
     # sop "What do you think?"
     sop ""
 
-# HassarPath5_02b95516 (line 20031)
-translate ru HassarPath5_02b95516:
+# HassarPath5_0da2ffe5 (line 20031)
+translate ru HassarPath5_0da2ffe5:
     # "Boy"
     "Boy" ""
 
-# HassarPath5_63f1c153 (line 20044)
-translate ru HassarPath5_63f1c153:
+# HassarPath5_5a4fc235 (line 20044)
+translate ru HassarPath5_5a4fc235:
     # "Girl"
     "Girl" ""
 
-# HassarPath5_6c1040de (line 20057)
-translate ru HassarPath5_6c1040de:
+# HassarPath5_f0e99667 (line 20057)
+translate ru HassarPath5_f0e99667:
     # "Sarah felt a quiet resentment in Sophia's words. As if the girl was not as happy as she pretended."
     ""
 
-# HassarPath5_e8f6626a (line 20058)
-translate ru HassarPath5_e8f6626a:
+# HassarPath5_c9e489bd (line 20058)
+translate ru HassarPath5_c9e489bd:
     # "Maybe being alone with her, she felt more free to speak her mind."
     ""
 
-# HassarPath5_2f965430 (line 20059)
-translate ru HassarPath5_2f965430:
+# HassarPath5_f821eaae (line 20059)
+translate ru HassarPath5_f821eaae:
     # s "Is that what you think about the Tribesmen?"
     s ""
 
-# HassarPath5_12be24ea (line 20060)
-translate ru HassarPath5_12be24ea:
+# HassarPath5_a43ec437 (line 20060)
+translate ru HassarPath5_a43ec437:
     # "Sophia smiled."
     ""
 
-# HassarPath5_c7155571 (line 20061)
-translate ru HassarPath5_c7155571:
+# HassarPath5_e9a6324b (line 20061)
+translate ru HassarPath5_e9a6324b:
     # sop "Think?"
     sop ""
 
-# HassarPath5_6cf8270b (line 20062)
-translate ru HassarPath5_6cf8270b:
+# HassarPath5_062c681d (line 20062)
+translate ru HassarPath5_062c681d:
     # sop "Ain't that just how they are?"
     sop ""
 
-# HassarPath5_e75a44b2 (line 20063)
-translate ru HassarPath5_e75a44b2:
+# HassarPath5_8e5f6020 (line 20063)
+translate ru HassarPath5_8e5f6020:
     # s "I don't know...this place seems nice, right?"
     s ""
 
-# HassarPath5_7d3aaf57 (line 20064)
-translate ru HassarPath5_7d3aaf57:
+# HassarPath5_943a31eb (line 20064)
+translate ru HassarPath5_943a31eb:
     # "Sophia rolled her eyes."
     ""
 
-# HassarPath5_57cff06b (line 20065)
-translate ru HassarPath5_57cff06b:
+# HassarPath5_be753bca (line 20065)
+translate ru HassarPath5_be753bca:
     # sop "I'm not saying this place isn't nice."
     sop ""
 
-# HassarPath5_ce5f979b (line 20066)
-translate ru HassarPath5_ce5f979b:
+# HassarPath5_24d7e170 (line 20066)
+translate ru HassarPath5_24d7e170:
     # sop "But the only one that came here because she wanted to was Naydeen."
     sop ""
 
-# HassarPath5_e5084c6a (line 20067)
-translate ru HassarPath5_e5084c6a:
+# HassarPath5_50b7e57b (line 20067)
+translate ru HassarPath5_50b7e57b:
     # "Sophia suddenly stood up, her breasts rising up from the water."
     ""
 
-# HassarPath5_84c01c91 (line 20068)
-translate ru HassarPath5_84c01c91:
+# HassarPath5_12f8d3b3 (line 20068)
+translate ru HassarPath5_12f8d3b3:
     # "Sarah looked in awe for a moment."
     ""
 
-# HassarPath5_8622f2f6 (line 20069)
-translate ru HassarPath5_8622f2f6:
+# HassarPath5_8d4e5c1d (line 20069)
+translate ru HassarPath5_8d4e5c1d:
     # "The girl was a stunning beauty, almost objectively so."
     ""
 
-# HassarPath5_38c568bd (line 20070)
-translate ru HassarPath5_38c568bd:
+# HassarPath5_152d9fa2 (line 20070)
+translate ru HassarPath5_152d9fa2:
     # sop "You think this place is locked off from the world beyond."
     sop ""
 
-# HassarPath5_47ef4e4a (line 20071)
-translate ru HassarPath5_47ef4e4a:
+# HassarPath5_9e39ab4a (line 20071)
+translate ru HassarPath5_9e39ab4a:
     # sop "But we get news, here and there."
     sop ""
 
-# HassarPath5_008700a2 (line 20072)
-translate ru HassarPath5_008700a2:
+# HassarPath5_fc526985 (line 20072)
+translate ru HassarPath5_fc526985:
     # sop "I heard the horns of war blast when the Khan's legion rode out towards Rosanna."
     sop ""
 
-# HassarPath5_23870ea8 (line 20073)
-translate ru HassarPath5_23870ea8:
+# HassarPath5_d9f6da4e (line 20073)
+translate ru HassarPath5_d9f6da4e:
     # sop "And I heard their horn blast in triumph when they returned."
     sop ""
 
-# HassarPath5_f9c881a6 (line 20074)
-translate ru HassarPath5_f9c881a6:
+# HassarPath5_300ddfa4 (line 20074)
+translate ru HassarPath5_300ddfa4:
     # sop "So what did they carry in their wake?"
     sop ""
 
-# HassarPath5_cb98bdaa (line 20075)
-translate ru HassarPath5_cb98bdaa:
+# HassarPath5_a749e83f (line 20075)
+translate ru HassarPath5_a749e83f:
     # "Sarah looked at the girl's sharp eyes."
     ""
 
-# HassarPath5_4c091977 (line 20076)
-translate ru HassarPath5_4c091977:
+# HassarPath5_6d991a6f (line 20076)
+translate ru HassarPath5_6d991a6f:
     # "Not quite the idiot she liked to pretend."
     ""
 
-# HassarPath5_f79e42de (line 20077)
-translate ru HassarPath5_f79e42de:
+# HassarPath5_91c33618 (line 20077)
+translate ru HassarPath5_91c33618:
     # s "I don't know...they captured me and..."
     s ""
 
-# HassarPath5_9ebc08a0 (line 20078)
-translate ru HassarPath5_9ebc08a0:
+# HassarPath5_42721cee (line 20078)
+translate ru HassarPath5_42721cee:
     # sop "And they brought you here. And with you, all the gold and silver they could carry."
     sop ""
 
-# HassarPath5_5c0dff63 (line 20079)
-translate ru HassarPath5_5c0dff63:
+# HassarPath5_dd49793e (line 20079)
+translate ru HassarPath5_dd49793e:
     # sop "And behind them, more people than you've ever seen cattle, chained up and pulled along."
     sop ""
 
-# HassarPath5_bcdb19ab (line 20080)
-translate ru HassarPath5_bcdb19ab:
+# HassarPath5_d89028f6 (line 20080)
+translate ru HassarPath5_d89028f6:
     # sop "When you close your eyes and paid attention you could hear them cry out the first few weeks, even all the way in ere"
     sop ""
 
-# HassarPath5_b905e7e1 (line 20081)
-translate ru HassarPath5_b905e7e1:
+# HassarPath5_455e7f1a (line 20081)
+translate ru HassarPath5_455e7f1a:
     # sop "Guess they brought you over later."
     sop ""
 
-# HassarPath5_3759b45b (line 20082)
-translate ru HassarPath5_3759b45b:
+# HassarPath5_322be907 (line 20082)
+translate ru HassarPath5_322be907:
     # "Sarah held her face firm."
     ""
 
-# HassarPath5_f691c691 (line 20083)
-translate ru HassarPath5_f691c691:
+# HassarPath5_2e04e9b1 (line 20083)
+translate ru HassarPath5_2e04e9b1:
     # sop "Everyone who comes here to Al Gahaem is so sad at first."
     sop ""
 
-# HassarPath5_5835ca37 (line 20084)
-translate ru HassarPath5_5835ca37:
+# HassarPath5_0be9ad77 (line 20084)
+translate ru HassarPath5_0be9ad77:
     # sop "And they think their tears will never run dry."
     sop ""
 
-# HassarPath5_f2dbf833 (line 20085)
-translate ru HassarPath5_f2dbf833:
+# HassarPath5_f921fa94 (line 20085)
+translate ru HassarPath5_f921fa94:
     # sop "But say one thing about people, they can learn and adapt to just about anything."
     sop ""
 
-# HassarPath5_9eed1325 (line 20086)
-translate ru HassarPath5_9eed1325:
+# HassarPath5_35f185dc (line 20086)
+translate ru HassarPath5_35f185dc:
     # "The girl spun around, running her hand across the surface of the water."
     ""
 
-# HassarPath5_d31502c5 (line 20087)
-translate ru HassarPath5_d31502c5:
+# HassarPath5_b76c57df (line 20087)
+translate ru HassarPath5_b76c57df:
     # sop "That's what the Tribesmen understand that nobody else understands in this world."
     sop ""
 
-# HassarPath5_4232bdc5 (line 20088)
-translate ru HassarPath5_4232bdc5:
+# HassarPath5_b1e19d92 (line 20088)
+translate ru HassarPath5_b1e19d92:
     # sop "People think they can't ever be slaves, but if you discipline them well enough, every man or woman got it in them to be a slave."
     sop ""
 
-# HassarPath5_b0d6b07e (line 20089)
-translate ru HassarPath5_b0d6b07e:
+# HassarPath5_8efe98a7 (line 20089)
+translate ru HassarPath5_8efe98a7:
     # "Sarah frowned at the girl's dark thoughts."
     ""
 
-# HassarPath5_509d30cc (line 20090)
-translate ru HassarPath5_509d30cc:
+# HassarPath5_d77af04d (line 20090)
+translate ru HassarPath5_d77af04d:
     # s "You really think so?"
     s ""
 
-# HassarPath5_9d49a990 (line 20091)
-translate ru HassarPath5_9d49a990:
+# HassarPath5_eadef86a (line 20091)
+translate ru HassarPath5_eadef86a:
     # sop "You don't?"
     sop ""
 
-# HassarPath5_06afda53 (line 20092)
-translate ru HassarPath5_06afda53:
+# HassarPath5_4ed64d0c (line 20092)
+translate ru HassarPath5_4ed64d0c:
     # sop "You a princess, but you're learning quick enough."
     sop ""
 
-# HassarPath5_97d65be9 (line 20093)
-translate ru HassarPath5_97d65be9:
+# HassarPath5_7e9f5e57 (line 20093)
+translate ru HassarPath5_7e9f5e57:
     # sop "Soon you'll be as a happy to wear the chains as any other."
     sop ""
 
-# HassarPath5_4033bfd4 (line 20094)
-translate ru HassarPath5_4033bfd4:
+# HassarPath5_a99e2fc9 (line 20094)
+translate ru HassarPath5_a99e2fc9:
     # s "You don't know that."
     s ""
 
-# HassarPath5_116c2f8a (line 20095)
-translate ru HassarPath5_116c2f8a:
+# HassarPath5_82434704 (line 20095)
+translate ru HassarPath5_82434704:
     # "Sophia laughed."
     ""
 
-# HassarPath5_819fa7fa (line 20096)
-translate ru HassarPath5_819fa7fa:
+# HassarPath5_6f1cda71 (line 20096)
+translate ru HassarPath5_6f1cda71:
     # sop "No, I just know what I seen. And I seen a lot."
     sop ""
 
-# HassarPath5_903a58c3 (line 20097)
-translate ru HassarPath5_903a58c3:
+# HassarPath5_90ff1ecc (line 20097)
+translate ru HassarPath5_90ff1ecc:
     # "Sarah was in no mood for riddles."
     ""
 
-# HassarPath5_347c4c91 (line 20098)
-translate ru HassarPath5_347c4c91:
+# HassarPath5_7cbaca2a (line 20098)
+translate ru HassarPath5_7cbaca2a:
     # s "What are you talking about?"
     s ""
 
-# HassarPath5_6f494ee2 (line 20099)
-translate ru HassarPath5_6f494ee2:
+# HassarPath5_38ff7193 (line 20099)
+translate ru HassarPath5_38ff7193:
     # sop "Naydeen is the Khan's first wife. You a princess. Ayaka used to be a noble's daughter."
     sop ""
 
-# HassarPath5_474d3391 (line 20100)
-translate ru HassarPath5_474d3391:
+# HassarPath5_ee3d2eea (line 20100)
+translate ru HassarPath5_ee3d2eea:
     # sop "But I just grew up a normal girl, never got not titles or gold the day I was born."
     sop ""
 
-# HassarPath5_ff6d0051 (line 20101)
-translate ru HassarPath5_ff6d0051:
+# HassarPath5_0ee8d061 (line 20101)
+translate ru HassarPath5_0ee8d061:
     # sop "In between the border of the desert and the empires of the Far East, there runs a long stretch of green pastures."
     sop ""
 
-# HassarPath5_1a669af8 (line 20102)
-translate ru HassarPath5_1a669af8:
+# HassarPath5_78fc1815 (line 20102)
+translate ru HassarPath5_78fc1815:
     # sop "My peoples ran cattle up and down the length of it for centuries."
     sop ""
 
-# HassarPath5_8e7c25c3 (line 20103)
-translate ru HassarPath5_8e7c25c3:
+# HassarPath5_bb72aea8 (line 20103)
+translate ru HassarPath5_bb72aea8:
     # sop "Free as we were, never setting roots."
     sop ""
 
-# HassarPath5_437d12bb (line 20104)
-translate ru HassarPath5_437d12bb:
+# HassarPath5_78df2ec6 (line 20104)
+translate ru HassarPath5_78df2ec6:
     # sop "No empire to threaten us, cause we weren't all that important. And too quick and nimble for the Tribesmen."
     sop ""
 
-# HassarPath5_8d88d0d8 (line 20105)
-translate ru HassarPath5_8d88d0d8:
+# HassarPath5_230454d5 (line 20105)
+translate ru HassarPath5_230454d5:
     # sop "Till Hassar, of course."
     sop ""
 
-# HassarPath5_8987f685 (line 20106)
-translate ru HassarPath5_8987f685:
+# HassarPath5_03fa207b (line 20106)
+translate ru HassarPath5_03fa207b:
     # sop "He read books, lots of em. And he learned all about fancy things like patterns of migration. How the water flowed and the grass followed."
     sop ""
 
-# HassarPath5_34dd9153 (line 20107)
-translate ru HassarPath5_34dd9153:
+# HassarPath5_df8e0020 (line 20107)
+translate ru HassarPath5_df8e0020:
     # sop "So he knew where we was gonna be before even we knew it."
     sop ""
 
-# HassarPath5_1eebfbb9 (line 20108)
-translate ru HassarPath5_1eebfbb9:
+# HassarPath5_336c056c (line 20108)
+translate ru HassarPath5_336c056c:
     # sop "My folk don't fight much, so the Tribesmen didn't have much trouble."
     sop ""
 
-# HassarPath5_d0725905 (line 20109)
-translate ru HassarPath5_d0725905:
+# HassarPath5_7ff80852 (line 20109)
+translate ru HassarPath5_7ff80852:
     # "Sophia stood up further, her mid riff raising up above the water line."
     ""
 
-# HassarPath5_9ea84f9a (line 20110)
-translate ru HassarPath5_9ea84f9a:
+# HassarPath5_c1885de6 (line 20110)
+translate ru HassarPath5_c1885de6:
     # "Toned, strong."
     ""
 
-# HassarPath5_216bb395 (line 20111)
-translate ru HassarPath5_216bb395:
+# HassarPath5_6d4497b6 (line 20111)
+translate ru HassarPath5_6d4497b6:
     # "Sarah held her breath for a moment."
     ""
 
-# HassarPath5_36b4aa78 (line 20112)
-translate ru HassarPath5_36b4aa78:
+# HassarPath5_86a23fa8 (line 20112)
+translate ru HassarPath5_86a23fa8:
     # sop "I knew my people to be free and proud for it."
     sop ""
 
-# HassarPath5_05633b3f (line 20113)
-translate ru HassarPath5_05633b3f:
+# HassarPath5_bb0e9e3e (line 20113)
+translate ru HassarPath5_bb0e9e3e:
     # sop "And in only days, I saw men offering themselves up to the Tribesmen for a piece of bread."
     sop ""
 
-# HassarPath5_31b8c2d8 (line 20114)
-translate ru HassarPath5_31b8c2d8:
+# HassarPath5_219ecd8a (line 20114)
+translate ru HassarPath5_219ecd8a:
     # sop "The girls I figured, we all did what we had to survive. But the men turned easy too."
     sop ""
 
-# HassarPath5_b3238a46 (line 20115)
-translate ru HassarPath5_b3238a46:
+# HassarPath5_8a05cf47 (line 20115)
+translate ru HassarPath5_8a05cf47:
     # sop "This one boy, always did flirt with me, thought he'd end up marrying me one day."
     sop ""
 
-# HassarPath5_cc91a1d2 (line 20116)
-translate ru HassarPath5_cc91a1d2:
+# HassarPath5_1d3a9e10 (line 20116)
+translate ru HassarPath5_1d3a9e10:
     # "Sophia laughed as if the idea was comical now."
     ""
 
-# HassarPath5_85f82bb5 (line 20117)
-translate ru HassarPath5_85f82bb5:
+# HassarPath5_7991aa81 (line 20117)
+translate ru HassarPath5_7991aa81:
     # sop "One night when they were still bringing us to Al Gahaem, I snuck out into the dunes."
     sop ""
 
-# HassarPath5_2f905f52 (line 20118)
-translate ru HassarPath5_2f905f52:
+# HassarPath5_275fd04f (line 20118)
+translate ru HassarPath5_275fd04f:
     # sop "I didn't believe what the girls were saying."
     sop ""
 
-# HassarPath5_01873ae6 (line 20119)
-translate ru HassarPath5_01873ae6:
+# HassarPath5_e4b314c7 (line 20119)
+translate ru HassarPath5_e4b314c7:
     # sop "But sure enough, I sat up there and watched one of the Tribesmen go to the slave pen for the men."
     sop ""
 
-# HassarPath5_1a96dc10 (line 20120)
-translate ru HassarPath5_1a96dc10:
+# HassarPath5_ce62e0af (line 20120)
+translate ru HassarPath5_ce62e0af:
     # sop "There he was, same handsome boy he always been."
     sop ""
 
-# HassarPath5_bd4dfcbf (line 20121)
-translate ru HassarPath5_bd4dfcbf:
+# HassarPath5_85122cd5 (line 20121)
+translate ru HassarPath5_85122cd5:
     # sop "A little less confident now that he was being led along with a leash."
     sop ""
 
-# HassarPath5_0f3f5d78 (line 20122)
-translate ru HassarPath5_0f3f5d78:
+# HassarPath5_f8a1fa67 (line 20122)
+translate ru HassarPath5_f8a1fa67:
     # sop "I figure it must not have been the first time, because he got down on all fours without the Tribesman even telling him to."
     sop ""
 
-# HassarPath5_618b0083 (line 20123)
-translate ru HassarPath5_618b0083:
+# HassarPath5_c3747a32 (line 20123)
+translate ru HassarPath5_c3747a32:
     # sop "And I watched."
     sop ""
 
-# HassarPath5_417b08af (line 20124)
-translate ru HassarPath5_417b08af:
+# HassarPath5_433b2cf4 (line 20124)
+translate ru HassarPath5_433b2cf4:
     # sop "Watched as the Tribesman made a woman out of him."
     sop ""
 
-# HassarPath5_441532f9 (line 20125)
-translate ru HassarPath5_441532f9:
+# HassarPath5_41357d4b (line 20125)
+translate ru HassarPath5_41357d4b:
     # sop "Made him moan like one too."
     sop ""
 
-# HassarPath5_cad2f103 (line 20126)
-translate ru HassarPath5_cad2f103:
+# HassarPath5_8eb3be42 (line 20126)
+translate ru HassarPath5_8eb3be42:
     # sop "You think he ever knew he'd let a Tribesman use him like a woman, just so he'd have an extra meal to eat?"
     sop ""
 
-# HassarPath5_92002272 (line 20127)
-translate ru HassarPath5_92002272:
+# HassarPath5_e1bdb5c3 (line 20127)
+translate ru HassarPath5_e1bdb5c3:
     # "Sarah shuddered as Sophia told the story."
     ""
 
-# HassarPath5_025644f2 (line 20128)
-translate ru HassarPath5_025644f2:
+# HassarPath5_f1279adc (line 20128)
+translate ru HassarPath5_f1279adc:
     # sop "That's when I knew, just about anyone can be a slave."
     sop ""
 
-# HassarPath5_0e78e7c8 (line 20129)
-translate ru HassarPath5_0e78e7c8:
+# HassarPath5_68bffe91 (line 20129)
+translate ru HassarPath5_68bffe91:
     # sop "All that needs changin is their circumstance."
     sop ""
 
-# HassarPath5_f0f8bbc1 (line 20130)
-translate ru HassarPath5_f0f8bbc1:
+# HassarPath5_706b5396 (line 20130)
+translate ru HassarPath5_706b5396:
     # "Sarah looked across the surface of the pool."
     ""
 
-# HassarPath5_5427daa1 (line 20131)
-translate ru HassarPath5_5427daa1:
+# HassarPath5_7b779231 (line 20131)
+translate ru HassarPath5_7b779231:
     # "Maybe the girl was right, despite how grim the thoughts were."
     ""
 
-# HassarPath5_2db68333 (line 20132)
-translate ru HassarPath5_2db68333:
+# HassarPath5_ba1e997e (line 20132)
+translate ru HassarPath5_ba1e997e:
     # "Maybe the world really was a cruel place, where the strongest ruled and the weakest suffered."
     ""
 
-# HassarPath5_e5455041 (line 20133)
-translate ru HassarPath5_e5455041:
+# HassarPath5_b48adc12 (line 20133)
+translate ru HassarPath5_b48adc12:
     # s "And you?"
     s ""
 
-# HassarPath5_cb11e2ea (line 20134)
-translate ru HassarPath5_cb11e2ea:
+# HassarPath5_087c88d0 (line 20134)
+translate ru HassarPath5_087c88d0:
     # sop "Me?"
     sop ""
 
-# HassarPath5_5eecb0e8 (line 20135)
-translate ru HassarPath5_5eecb0e8:
+# HassarPath5_c9396daf (line 20135)
+translate ru HassarPath5_c9396daf:
     # sop "Well, me and the rest of my folk all ended here in Al Gahaem."
     sop ""
 
-# HassarPath5_adfd13bb (line 20136)
-translate ru HassarPath5_adfd13bb:
+# HassarPath5_843dcef6 (line 20136)
+translate ru HassarPath5_843dcef6:
     # sop "Some man comes asking me about the colour of a stone, and for I knew it, they brought me here."
     sop ""
 
-# HassarPath5_88aca056 (line 20137)
-translate ru HassarPath5_88aca056:
+# HassarPath5_e99cf7ab (line 20137)
+translate ru HassarPath5_e99cf7ab:
     # "Sophia slowly sank back into the water."
     ""
 
-# HassarPath5_87704b06 (line 20138)
-translate ru HassarPath5_87704b06:
+# HassarPath5_71914874 (line 20138)
+translate ru HassarPath5_71914874:
     # sop "Nicer than the place they had me before, so I don't complain."
     sop ""
 
-# HassarPath5_15958e9f (line 20139)
-translate ru HassarPath5_15958e9f:
+# HassarPath5_dc4c01c7 (line 20139)
+translate ru HassarPath5_dc4c01c7:
     # "Sarah kept studying Sophia's face, looking if there were hints about what she really thought."
     ""
 
-# HassarPath5_18ee6c35 (line 20140)
-translate ru HassarPath5_18ee6c35:
+# HassarPath5_a1df095c (line 20140)
+translate ru HassarPath5_a1df095c:
     # s "Don't you want to be free again?"
     s ""
 
-# HassarPath5_d4943145 (line 20141)
-translate ru HassarPath5_d4943145:
+# HassarPath5_2ab32f43 (line 20141)
+translate ru HassarPath5_2ab32f43:
     # "Sophia laughed."
     ""
 
-# HassarPath5_bfc575ff (line 20142)
-translate ru HassarPath5_bfc575ff:
+# HassarPath5_bd862f74 (line 20142)
+translate ru HassarPath5_bd862f74:
     # sop "Stop talking silly."
     sop ""
 
-# HassarPath5_8c7cf13f (line 20143)
-translate ru HassarPath5_8c7cf13f:
+# HassarPath5_5dd72a1b (line 20143)
+translate ru HassarPath5_5dd72a1b:
     # sop "Come and join me in the pool, let's have a swim."
     sop ""
 
-# HassarPath5_b27096c7 (line 20144)
-translate ru HassarPath5_b27096c7:
+# HassarPath5_49abf6c0 (line 20144)
+translate ru HassarPath5_49abf6c0:
     # "Sophia motioned for Sarah to join her."
     ""
 
-# HassarPath5_fc506bd7 (line 20148)
-translate ru HassarPath5_fc506bd7:
+# HassarPath5_e924bd43 (line 20148)
+translate ru HassarPath5_e924bd43:
     # "Swim with Sophia"
     "Swim with Sophia" ""
 
-# HassarPath5_384b8903 (line 20269)
-translate ru HassarPath5_384b8903:
+# HassarPath5_c889df68 (line 20269)
+translate ru HassarPath5_c889df68:
     # "Have sex with Sophia"
     "Have sex with Sophia" ""
 
-# HassarPath5_813ee1a5 (line 20275)
-translate ru HassarPath5_813ee1a5:
+# HassarPath5_94d3a177 (line 20275)
+translate ru HassarPath5_94d3a177:
     # "Refuse, go to the library"
     "Refuse, go to the library" ""
 
-# HassarPath5_9127c214 (line 20286)
-translate ru HassarPath5_9127c214:
+# HassarPath5_0d88ac1a (line 20286)
+translate ru HassarPath5_0d88ac1a:
     # "Refuse"
     "Refuse" ""
 
-# HassarPath5_3989e97b (line 20299)
-translate ru HassarPath5_3989e97b:
+# HassarPath5_ed4fd27b (line 20299)
+translate ru HassarPath5_ed4fd27b:
     # "After she had left the pool, Sarah made her way straight to the library."
     ""
 
-# HassarPath5_cc3eae2b (line 20300)
-translate ru HassarPath5_cc3eae2b:
+# HassarPath5_7044becd (line 20300)
+translate ru HassarPath5_7044becd:
     # "As she reached it, she could feel a shift in the air."
     ""
 
-# HassarPath5_69a299fd (line 20301)
-translate ru HassarPath5_69a299fd:
+# HassarPath5_e19018fb (line 20301)
+translate ru HassarPath5_e19018fb:
     # "A dryer temperate."
     ""
 
-# HassarPath5_ca8bc256 (line 20302)
-translate ru HassarPath5_ca8bc256:
+# HassarPath5_ce76b056 (line 20302)
+translate ru HassarPath5_ce76b056:
     # "Probably to preserve the quality of the books and spare them from the heat."
     ""
 
-# HassarPath5_2ec72c77 (line 20303)
-translate ru HassarPath5_2ec72c77:
+# HassarPath5_aa56697f (line 20303)
+translate ru HassarPath5_aa56697f:
     # "Clever, she thought. The Tribesmen were most sophisticated than they appeared."
     ""
 
-# HassarPath5_ca107d47 (line 20304)
-translate ru HassarPath5_ca107d47:
+# HassarPath5_884f3e37 (line 20304)
+translate ru HassarPath5_884f3e37:
     # "Or Hassar was, at least."
     ""
 
-# HassarPath5_9479a671 (line 20308)
-translate ru HassarPath5_9479a671:
+# HassarPath5_ce783e11 (line 20308)
+translate ru HassarPath5_ce783e11:
     # "For now, this is where the story ends."
     ""
 

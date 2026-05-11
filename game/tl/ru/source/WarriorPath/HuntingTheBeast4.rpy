@@ -3,8 +3,8 @@
 # Scene: HuntingTheBeast4
 # Total blocks: 1
 
-# HuntingTheBeast4_953a1384 (line 51267)
-translate ru HuntingTheBeast4_953a1384:
+# HuntingTheBeast4_d611ea0e (line 51267)
+translate ru HuntingTheBeast4_d611ea0e:
     # "Night had quickly sat in."
     ""
 

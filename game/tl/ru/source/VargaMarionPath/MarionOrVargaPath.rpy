@@ -3,63 +3,63 @@
 # Scene: MarionOrVargaPath
 # Total blocks: 12
 
-# MarionOrVargaPath_dee83757 (line 4238)
-translate ru MarionOrVargaPath_dee83757:
+# MarionOrVargaPath_3a808530 (line 4238)
+translate ru MarionOrVargaPath_3a808530:
     # "It was more than two weeks after the victory over the eastern tribesmen, when Sarah arrived early for a council meeting, surprised to find the room already full."
     ""
 
-# MarionOrVargaPath_18d6f8d3 (line 4239)
-translate ru MarionOrVargaPath_18d6f8d3:
+# MarionOrVargaPath_b247ed28 (line 4239)
+translate ru MarionOrVargaPath_b247ed28:
     # "There was a busy chatter, which suddenly felt silent as everyone noticed Sarah."
     ""
 
-# MarionOrVargaPath_890bd47a (line 4240)
-translate ru MarionOrVargaPath_890bd47a:
+# MarionOrVargaPath_9c56b9ec (line 4240)
+translate ru MarionOrVargaPath_9c56b9ec:
     # "Thomas was sitting back in this throne, waiving at Sarah excitedly as she approached."
     ""
 
-# MarionOrVargaPath_c9d390d1 (line 4241)
-translate ru MarionOrVargaPath_c9d390d1:
+# MarionOrVargaPath_65d7c17d (line 4241)
+translate ru MarionOrVargaPath_65d7c17d:
     # "Sarah had almost reached the table, when suddenly, Marion stood up."
     ""
 
-# MarionOrVargaPath_d18d5ef7 (line 4242)
-translate ru MarionOrVargaPath_d18d5ef7:
+# MarionOrVargaPath_c162b7ee (line 4242)
+translate ru MarionOrVargaPath_c162b7ee:
     # "Sarah saw Thomas suppress laughter. In between his laughs he managed to speak."
     ""
 
-# MarionOrVargaPath_fd0e1d56 (line 4243)
-translate ru MarionOrVargaPath_fd0e1d56:
+# MarionOrVargaPath_35ab3463 (line 4243)
+translate ru MarionOrVargaPath_35ab3463:
     # t "I believe our honorable friend, Marion, has something he wanted to say to you."
     t ""
 
-# MarionOrVargaPath_5a5a1285 (line 4252)
-translate ru MarionOrVargaPath_5a5a1285:
+# MarionOrVargaPath_8c5d61c3 (line 4252)
+translate ru MarionOrVargaPath_8c5d61c3:
     # "Marion fell to one knee, and extended a hand, holding a small box carved out of oak."
     ""
 
-# MarionOrVargaPath_d7831160 (line 4253)
-translate ru MarionOrVargaPath_d7831160:
+# MarionOrVargaPath_5ee5876e (line 4253)
+translate ru MarionOrVargaPath_5ee5876e:
     # m "Sarah Rose, having given it serious consideration, I wish to pronounce in front of all these people, my love for you."
     m ""
 
-# MarionOrVargaPath_e226f95f (line 4254)
-translate ru MarionOrVargaPath_e226f95f:
+# MarionOrVargaPath_2b702bbc (line 4254)
+translate ru MarionOrVargaPath_2b702bbc:
     # m "Please give me the honour of your hand, and I will swear to always be true."
     m ""
 
-# MarionOrVargaPath_7521fea1 (line 4255)
-translate ru MarionOrVargaPath_7521fea1:
+# MarionOrVargaPath_615f988f (line 4255)
+translate ru MarionOrVargaPath_615f988f:
     # "Stunned, Sarah felt it almost physically difficult to remain standing."
     ""
 
-# MarionOrVargaPath_fb6dfef8 (line 4256)
-translate ru MarionOrVargaPath_fb6dfef8:
+# MarionOrVargaPath_ef18e953 (line 4256)
+translate ru MarionOrVargaPath_ef18e953:
     # "The edges of her vision seemed to blur, and the ground under her feet began to shift."
     ""
 
-# MarionOrVargaPath_919d60de (line 4270)
-translate ru MarionOrVargaPath_919d60de:
+# MarionOrVargaPath_d1b554e2 (line 4270)
+translate ru MarionOrVargaPath_d1b554e2:
     # "Reject Marion's proposal."
     "Reject Marion's proposal." ""
 

@@ -3,383 +3,383 @@
 # Scene: SarahAndThomasSpeak
 # Total blocks: 76
 
-# SarahAndThomasSpeak_13ac5154 (line 2438)
-translate ru SarahAndThomasSpeak_13ac5154:
+# SarahAndThomasSpeak_02aa34bf (line 2438)
+translate ru SarahAndThomasSpeak_02aa34bf:
     # "Some days had passed and Sarah had spend them trying to forget about Kate's visit to her bedroom."
     ""
 
-# SarahAndThomasSpeak_d7a46358 (line 2439)
-translate ru SarahAndThomasSpeak_d7a46358:
+# SarahAndThomasSpeak_df24f0d6 (line 2439)
+translate ru SarahAndThomasSpeak_df24f0d6:
     # "Her words of warning, her attempt to take her away from Castle Reinmeer, it had all been so very odd."
     ""
 
-# SarahAndThomasSpeak_5b54f64d (line 2440)
-translate ru SarahAndThomasSpeak_5b54f64d:
+# SarahAndThomasSpeak_dd87abb8 (line 2440)
+translate ru SarahAndThomasSpeak_dd87abb8:
     # "But Sarah had soon found that Kate had been too cryptic. Sarah couldn't afford to be distracted, speculating about what dangers might be out there."
     ""
 
-# SarahAndThomasSpeak_8efdb62b (line 2441)
-translate ru SarahAndThomasSpeak_8efdb62b:
+# SarahAndThomasSpeak_7eeff59f (line 2441)
+translate ru SarahAndThomasSpeak_7eeff59f:
     # "There were plenty of real dangers all around her."
     ""
 
-# SarahAndThomasSpeak_f0e9ee38 (line 2442)
-translate ru SarahAndThomasSpeak_f0e9ee38:
+# SarahAndThomasSpeak_889ac3ce (line 2442)
+translate ru SarahAndThomasSpeak_889ac3ce:
     # "Having finished reviewing some of the weekly reports, Sarah found herself wandering the castle, ending up in the great hall."
     ""
 
-# SarahAndThomasSpeak_192c8860 (line 2443)
-translate ru SarahAndThomasSpeak_192c8860:
+# SarahAndThomasSpeak_a0acb180 (line 2443)
+translate ru SarahAndThomasSpeak_a0acb180:
     # "Sitting atop the stairs near the dais, she found her brother Thomas."
     ""
 
-# SarahAndThomasSpeak_9e6d461e (line 2444)
-translate ru SarahAndThomasSpeak_9e6d461e:
+# SarahAndThomasSpeak_daddfc1c (line 2444)
+translate ru SarahAndThomasSpeak_daddfc1c:
     # "She observed him as she approached, and noticed that he did not notice her."
     ""
 
-# SarahAndThomasSpeak_377b9d92 (line 2445)
-translate ru SarahAndThomasSpeak_377b9d92:
+# SarahAndThomasSpeak_2be8417c (line 2445)
+translate ru SarahAndThomasSpeak_2be8417c:
     # "He might be in this room, but in his head, he was very far away."
     ""
 
-# SarahAndThomasSpeak_d749df95 (line 2446)
-translate ru SarahAndThomasSpeak_d749df95:
+# SarahAndThomasSpeak_ba776305 (line 2446)
+translate ru SarahAndThomasSpeak_ba776305:
     # "Already prone to overthinking, her brother had turned almost entirely inward following the coronation."
     ""
 
-# SarahAndThomasSpeak_ed2115f9 (line 2447)
-translate ru SarahAndThomasSpeak_ed2115f9:
+# SarahAndThomasSpeak_d674a802 (line 2447)
+translate ru SarahAndThomasSpeak_d674a802:
     # s "Only cheerful thoughts, I hope?"
     s ""
 
-# SarahAndThomasSpeak_ac172788 (line 2452)
-translate ru SarahAndThomasSpeak_ac172788:
+# SarahAndThomasSpeak_e1d9ff2d (line 2452)
+translate ru SarahAndThomasSpeak_e1d9ff2d:
     # "Thomas looked up, startled."
     ""
 
-# SarahAndThomasSpeak_255a7ea9 (line 2453)
-translate ru SarahAndThomasSpeak_255a7ea9:
+# SarahAndThomasSpeak_b0196ae1 (line 2453)
+translate ru SarahAndThomasSpeak_b0196ae1:
     # t "Huh?"
     t ""
 
-# SarahAndThomasSpeak_fa1c53d2 (line 2454)
-translate ru SarahAndThomasSpeak_fa1c53d2:
+# SarahAndThomasSpeak_cbeea143 (line 2454)
+translate ru SarahAndThomasSpeak_cbeea143:
     # s "I said, I hope you're having cheerful thoughts."
     s ""
 
-# SarahAndThomasSpeak_fe88f462 (line 2455)
-translate ru SarahAndThomasSpeak_fe88f462:
+# SarahAndThomasSpeak_3521a253 (line 2455)
+translate ru SarahAndThomasSpeak_3521a253:
     # t "Ooh...sorry, I wasn't paying attention."
     t ""
 
-# SarahAndThomasSpeak_94b9e76a (line 2456)
-translate ru SarahAndThomasSpeak_94b9e76a:
+# SarahAndThomasSpeak_b7dd5530 (line 2456)
+translate ru SarahAndThomasSpeak_b7dd5530:
     # "Sarah flattened her dress and set down next to her brother."
     ""
 
-# SarahAndThomasSpeak_525e759c (line 2462)
-translate ru SarahAndThomasSpeak_525e759c:
+# SarahAndThomasSpeak_566f66da (line 2462)
+translate ru SarahAndThomasSpeak_566f66da:
     # "She poked him with her elbow."
     ""
 
-# SarahAndThomasSpeak_6813223b (line 2463)
-translate ru SarahAndThomasSpeak_6813223b:
+# SarahAndThomasSpeak_4759aca2 (line 2463)
+translate ru SarahAndThomasSpeak_4759aca2:
     # s "Come on Thomas, share with me. We promised we were going to get through this together. That means trusting me enough to let me into your head."
     s ""
 
-# SarahAndThomasSpeak_bf848e5e (line 2464)
-translate ru SarahAndThomasSpeak_bf848e5e:
+# SarahAndThomasSpeak_e71bfaf6 (line 2464)
+translate ru SarahAndThomasSpeak_e71bfaf6:
     # "Thomas nodded, but still seemed to stare into the distance."
     ""
 
-# SarahAndThomasSpeak_756e0b66 (line 2465)
-translate ru SarahAndThomasSpeak_756e0b66:
+# SarahAndThomasSpeak_b4904aaa (line 2465)
+translate ru SarahAndThomasSpeak_b4904aaa:
     # t "You're right..."
     t ""
 
-# SarahAndThomasSpeak_8bdd6881 (line 2466)
-translate ru SarahAndThomasSpeak_8bdd6881:
+# SarahAndThomasSpeak_7a3033db (line 2466)
+translate ru SarahAndThomasSpeak_7a3033db:
     # t "It's just, ever since the coronation, it's all gotten even worse."
     t ""
 
-# SarahAndThomasSpeak_b4001ab8 (line 2467)
-translate ru SarahAndThomasSpeak_b4001ab8:
+# SarahAndThomasSpeak_cb6ac4af (line 2467)
+translate ru SarahAndThomasSpeak_cb6ac4af:
     # s "What has?"
     s ""
 
-# SarahAndThomasSpeak_c13f1c6e (line 2468)
-translate ru SarahAndThomasSpeak_c13f1c6e:
+# SarahAndThomasSpeak_a5983bda (line 2468)
+translate ru SarahAndThomasSpeak_a5983bda:
     # t "The expectations that people seem to have. They come up to me, asking me to weigh in on one problem after the other."
     t ""
 
-# SarahAndThomasSpeak_afa8bb9f (line 2469)
-translate ru SarahAndThomasSpeak_afa8bb9f:
+# SarahAndThomasSpeak_7b72506f (line 2469)
+translate ru SarahAndThomasSpeak_7b72506f:
     # t "And it's not just that, but they're also...different with me..."
     t ""
 
-# SarahAndThomasSpeak_d9bda7f4 (line 2470)
-translate ru SarahAndThomasSpeak_d9bda7f4:
+# SarahAndThomasSpeak_3f74713d (line 2470)
+translate ru SarahAndThomasSpeak_3f74713d:
     # s "Different how?"
     s ""
 
-# SarahAndThomasSpeak_5ebeaadb (line 2471)
-translate ru SarahAndThomasSpeak_5ebeaadb:
+# SarahAndThomasSpeak_f3453221 (line 2471)
+translate ru SarahAndThomasSpeak_f3453221:
     # t "I used to know what people were about, you know? If they liked me, or didn't like me. But now, everyone is always smiling at me."
     t ""
 
-# SarahAndThomasSpeak_b8369d8a (line 2472)
-translate ru SarahAndThomasSpeak_b8369d8a:
+# SarahAndThomasSpeak_be25cce3 (line 2472)
+translate ru SarahAndThomasSpeak_be25cce3:
     # "Thomas paused for a moment."
     ""
 
-# SarahAndThomasSpeak_533ca2b6 (line 2473)
-translate ru SarahAndThomasSpeak_533ca2b6:
+# SarahAndThomasSpeak_79b38560 (line 2473)
+translate ru SarahAndThomasSpeak_79b38560:
     # t "But, it's like, their smiles aren't real, and I can see it, you know?"
     t ""
 
-# SarahAndThomasSpeak_dfc047cd (line 2474)
-translate ru SarahAndThomasSpeak_dfc047cd:
+# SarahAndThomasSpeak_bfc69637 (line 2474)
+translate ru SarahAndThomasSpeak_bfc69637:
     # "Sarah understood what her brother was getting at."
     ""
 
-# SarahAndThomasSpeak_a506f7fd (line 2475)
-translate ru SarahAndThomasSpeak_a506f7fd:
+# SarahAndThomasSpeak_6c5cbfee (line 2475)
+translate ru SarahAndThomasSpeak_6c5cbfee:
     # "Ever since their father had died, it was true that more and more people seemed to want to ingratiate themselves with them."
     ""
 
-# SarahAndThomasSpeak_cb82d1ce (line 2476)
-translate ru SarahAndThomasSpeak_cb82d1ce:
+# SarahAndThomasSpeak_08df66ee (line 2476)
+translate ru SarahAndThomasSpeak_08df66ee:
     # "Where before they had just been the heirs to the throne, now Thomas was actually king, and it made all the difference."
     ""
 
-# SarahAndThomasSpeak_e91a4832 (line 2481)
-translate ru SarahAndThomasSpeak_e91a4832:
+# SarahAndThomasSpeak_53ff5157 (line 2481)
+translate ru SarahAndThomasSpeak_53ff5157:
     # "Sarah put an arm around her brother."
     ""
 
-# SarahAndThomasSpeak_7bef3b4e (line 2482)
-translate ru SarahAndThomasSpeak_7bef3b4e:
+# SarahAndThomasSpeak_e78c412f (line 2482)
+translate ru SarahAndThomasSpeak_e78c412f:
     # s "I know things are different, Thomas, and it will take some time to get used to it."
     s ""
 
-# SarahAndThomasSpeak_1ba97cd6 (line 2483)
-translate ru SarahAndThomasSpeak_1ba97cd6:
+# SarahAndThomasSpeak_c36d4a98 (line 2483)
+translate ru SarahAndThomasSpeak_c36d4a98:
     # s "But we'll get through this, you and me. And whenever things get too much, remember that I'm here for you. Always."
     s ""
 
-# SarahAndThomasSpeak_b77b0dd2 (line 2484)
-translate ru SarahAndThomasSpeak_b77b0dd2:
+# SarahAndThomasSpeak_a9e3975e (line 2484)
+translate ru SarahAndThomasSpeak_a9e3975e:
     # "Thomas nodded, but the words didn't seem to affect him much."
     ""
 
-# SarahAndThomasSpeak_e4bb8cb1 (line 2485)
-translate ru SarahAndThomasSpeak_e4bb8cb1:
+# SarahAndThomasSpeak_649a8c7f (line 2485)
+translate ru SarahAndThomasSpeak_649a8c7f:
     # t "People come up to me and ask me to settle disputes between noble houses I've never even heard of, or make military decisions, as if I know anything about that stuff..."
     t ""
 
-# SarahAndThomasSpeak_f989064c (line 2486)
-translate ru SarahAndThomasSpeak_f989064c:
+# SarahAndThomasSpeak_84734abe (line 2486)
+translate ru SarahAndThomasSpeak_84734abe:
     # t "It's all just too much, and I just keep thinking about Dad, and how he would do everything better..."
     t ""
 
-# SarahAndThomasSpeak_28c2204f (line 2487)
-translate ru SarahAndThomasSpeak_28c2204f:
+# SarahAndThomasSpeak_6ddffef2 (line 2487)
+translate ru SarahAndThomasSpeak_6ddffef2:
     # "Sarah pulled her brother closer."
     ""
 
-# SarahAndThomasSpeak_7963d787 (line 2488)
-translate ru SarahAndThomasSpeak_7963d787:
+# SarahAndThomasSpeak_faa06b68 (line 2488)
+translate ru SarahAndThomasSpeak_faa06b68:
     # s "I miss him too, Thomas."
     s ""
 
-# SarahAndThomasSpeak_67576920 (line 2489)
-translate ru SarahAndThomasSpeak_67576920:
+# SarahAndThomasSpeak_0da50305 (line 2489)
+translate ru SarahAndThomasSpeak_0da50305:
     # "The two siblings sat in silence for a while."
     ""
 
-# SarahAndThomasSpeak_978ce12d (line 2490)
-translate ru SarahAndThomasSpeak_978ce12d:
+# SarahAndThomasSpeak_a6cc60e9 (line 2490)
+translate ru SarahAndThomasSpeak_a6cc60e9:
     # "An idea came to Sarah."
     ""
 
-# SarahAndThomasSpeak_ef696f2b (line 2491)
-translate ru SarahAndThomasSpeak_ef696f2b:
+# SarahAndThomasSpeak_a8e90820 (line 2491)
+translate ru SarahAndThomasSpeak_a8e90820:
     # s "You know, Thomas, maybe the problem is that you're trying to do everything all at once. You're not giving yourself the time to learn how to be king."
     s ""
 
-# SarahAndThomasSpeak_b58d5c72 (line 2492)
-translate ru SarahAndThomasSpeak_b58d5c72:
+# SarahAndThomasSpeak_22ddb070 (line 2492)
+translate ru SarahAndThomasSpeak_22ddb070:
     # t "What do you mean?"
     t ""
 
-# SarahAndThomasSpeak_e7518347 (line 2493)
-translate ru SarahAndThomasSpeak_e7518347:
+# SarahAndThomasSpeak_2fd336ee (line 2493)
+translate ru SarahAndThomasSpeak_2fd336ee:
     # s "Well, you're comparing yourself to father, but he was king for more than thirty years. Of course you can't be as good as him overnight."
     s ""
 
-# SarahAndThomasSpeak_176f137c (line 2494)
-translate ru SarahAndThomasSpeak_176f137c:
+# SarahAndThomasSpeak_4fe0c12f (line 2494)
+translate ru SarahAndThomasSpeak_4fe0c12f:
     # "Thomas nodded, understanding what his sister was getting at."
     ""
 
-# SarahAndThomasSpeak_f63cd73d (line 2495)
-translate ru SarahAndThomasSpeak_f63cd73d:
+# SarahAndThomasSpeak_284596d1 (line 2495)
+translate ru SarahAndThomasSpeak_284596d1:
     # s "Father often told me about his earliest days, how he struggled with the same things you're talking about."
     s ""
 
-# SarahAndThomasSpeak_820c6573 (line 2496)
-translate ru SarahAndThomasSpeak_820c6573:
+# SarahAndThomasSpeak_b537f8e7 (line 2496)
+translate ru SarahAndThomasSpeak_b537f8e7:
     # s "And he said, a good king knows when to lead and when to listen. Maybe the problem is that you're taking on too much all at once."
     s ""
 
-# SarahAndThomasSpeak_bff64fc3 (line 2497)
-translate ru SarahAndThomasSpeak_bff64fc3:
+# SarahAndThomasSpeak_c0412c02 (line 2497)
+translate ru SarahAndThomasSpeak_c0412c02:
     # "For the first time that day, Thomas looked directly at his sister."
     ""
 
-# SarahAndThomasSpeak_44652b2c (line 2498)
-translate ru SarahAndThomasSpeak_44652b2c:
+# SarahAndThomasSpeak_985bec8c (line 2498)
+translate ru SarahAndThomasSpeak_985bec8c:
     # t "So what do I do? I can't just ignore these issues, can I?"
     t ""
 
-# SarahAndThomasSpeak_943ee370 (line 2499)
-translate ru SarahAndThomasSpeak_943ee370:
+# SarahAndThomasSpeak_3be6ff08 (line 2499)
+translate ru SarahAndThomasSpeak_3be6ff08:
     # "Sarah shook her head."
     ""
 
-# SarahAndThomasSpeak_f83779d8 (line 2500)
-translate ru SarahAndThomasSpeak_f83779d8:
+# SarahAndThomasSpeak_480c9ec3 (line 2500)
+translate ru SarahAndThomasSpeak_480c9ec3:
     # s "No, you can't, but we could add more people to the council. People who know about war, and know about the inner workings of the noble families."
     s ""
 
-# SarahAndThomasSpeak_21f2490c (line 2501)
-translate ru SarahAndThomasSpeak_21f2490c:
+# SarahAndThomasSpeak_dfdfd248 (line 2501)
+translate ru SarahAndThomasSpeak_dfdfd248:
     # t "Who?"
     t ""
 
-# SarahAndThomasSpeak_8c4ce3c1 (line 2502)
-translate ru SarahAndThomasSpeak_8c4ce3c1:
+# SarahAndThomasSpeak_d8ab3ae4 (line 2502)
+translate ru SarahAndThomasSpeak_d8ab3ae4:
     # s "Lord Marion and Lord Varga."
     s ""
 
-# SarahAndThomasSpeak_387dd917 (line 2503)
-translate ru SarahAndThomasSpeak_387dd917:
+# SarahAndThomasSpeak_6daaa7a6 (line 2503)
+translate ru SarahAndThomasSpeak_6daaa7a6:
     # "Sarah could see Thomas frown."
     ""
 
-# SarahAndThomasSpeak_f3147ac1 (line 2504)
-translate ru SarahAndThomasSpeak_f3147ac1:
+# SarahAndThomasSpeak_0984746e (line 2504)
+translate ru SarahAndThomasSpeak_0984746e:
     # t "Really? You want to add Marion to the council?"
     t ""
 
-# SarahAndThomasSpeak_6e12b6eb (line 2505)
-translate ru SarahAndThomasSpeak_6e12b6eb:
+# SarahAndThomasSpeak_59faedb2 (line 2505)
+translate ru SarahAndThomasSpeak_59faedb2:
     # s "I know you don't like him, but you're not looking for friends. You're looking for someone who is good at what they do."
     s ""
 
-# SarahAndThomasSpeak_68572c62 (line 2506)
-translate ru SarahAndThomasSpeak_68572c62:
+# SarahAndThomasSpeak_a2aee753 (line 2506)
+translate ru SarahAndThomasSpeak_a2aee753:
     # s "And Marion's family is one of the oldest in Rosanna, and he knows just about everyone. He could be a real help to us."
     s ""
 
-# SarahAndThomasSpeak_7b3a0cc6 (line 2507)
-translate ru SarahAndThomasSpeak_7b3a0cc6:
+# SarahAndThomasSpeak_d3d3919a (line 2507)
+translate ru SarahAndThomasSpeak_d3d3919a:
     # s "And Varga, he's proven himself in battle, I've heard people say he's a genius at war. With him on the council, you can learn everything he knows."
     s ""
 
-# SarahAndThomasSpeak_b21db64c (line 2508)
-translate ru SarahAndThomasSpeak_b21db64c:
+# SarahAndThomasSpeak_f85ed902 (line 2508)
+translate ru SarahAndThomasSpeak_f85ed902:
     # s "Rely on them for their skills, not their personalities."
     s ""
 
-# SarahAndThomasSpeak_31fde485 (line 2509)
-translate ru SarahAndThomasSpeak_31fde485:
+# SarahAndThomasSpeak_f96e5713 (line 2509)
+translate ru SarahAndThomasSpeak_f96e5713:
     # "Thomas looked away and contemplated his sister's advice. After some time, he responded."
     ""
 
-# SarahAndThomasSpeak_9904abe1 (line 2510)
-translate ru SarahAndThomasSpeak_9904abe1:
+# SarahAndThomasSpeak_d64cdac9 (line 2510)
+translate ru SarahAndThomasSpeak_d64cdac9:
     # t "You're right. I don't have to like them, but if you say they're as good as they are, we can use all the help we can get."
     t ""
 
-# SarahAndThomasSpeak_5302174c (line 2511)
-translate ru SarahAndThomasSpeak_5302174c:
+# SarahAndThomasSpeak_bb3e782d (line 2511)
+translate ru SarahAndThomasSpeak_bb3e782d:
     # "Sarah patted her brother on the back."
     ""
 
-# SarahAndThomasSpeak_f7588cc8 (line 2512)
-translate ru SarahAndThomasSpeak_f7588cc8:
+# SarahAndThomasSpeak_fba67ab0 (line 2512)
+translate ru SarahAndThomasSpeak_fba67ab0:
     # s "I'll draft the letters to extend the invitation to both of them."
     s ""
 
-# SarahAndThomasSpeak_19a64c40 (line 2513)
-translate ru SarahAndThomasSpeak_19a64c40:
+# SarahAndThomasSpeak_855bd51f (line 2513)
+translate ru SarahAndThomasSpeak_855bd51f:
     # t "What if they say no?"
     t ""
 
-# SarahAndThomasSpeak_3a08e23d (line 2514)
-translate ru SarahAndThomasSpeak_3a08e23d:
+# SarahAndThomasSpeak_5e4a49ea (line 2514)
+translate ru SarahAndThomasSpeak_5e4a49ea:
     # "Sarah shrugged."
     ""
 
-# SarahAndThomasSpeak_46b7d9f4 (line 2515)
-translate ru SarahAndThomasSpeak_46b7d9f4:
+# SarahAndThomasSpeak_2e9db0de (line 2515)
+translate ru SarahAndThomasSpeak_2e9db0de:
     # s "Then we'll just order their heads off."
     s ""
 
-# SarahAndThomasSpeak_2d027427 (line 2516)
-translate ru SarahAndThomasSpeak_2d027427:
+# SarahAndThomasSpeak_976cdac8 (line 2516)
+translate ru SarahAndThomasSpeak_976cdac8:
     # "Sarah drew her hand across her throat, signalling decapitation. She added an exaggerated death sound for effect."
     ""
 
-# SarahAndThomasSpeak_2e3514cb (line 2517)
-translate ru SarahAndThomasSpeak_2e3514cb:
+# SarahAndThomasSpeak_10181b18 (line 2517)
+translate ru SarahAndThomasSpeak_10181b18:
     # "Thomas broke into laughter."
     ""
 
-# SarahAndThomasSpeak_3c94b73d (line 2518)
-translate ru SarahAndThomasSpeak_3c94b73d:
+# SarahAndThomasSpeak_9cfed765 (line 2518)
+translate ru SarahAndThomasSpeak_9cfed765:
     # "Sarah laughed along with her brother, but more than anything, she was happy to see him smile again."
     ""
 
-# SarahAndThomasSpeak_cc03d51f (line 2519)
-translate ru SarahAndThomasSpeak_cc03d51f:
+# SarahAndThomasSpeak_e73da290 (line 2519)
+translate ru SarahAndThomasSpeak_e73da290:
     # "It reminded her that the brother she knew, the easy-going quick-to-laugh brother, was still in there, despite the trauma."
     ""
 
-# SarahAndThomasSpeak_5969cc97 (line 2520)
-translate ru SarahAndThomasSpeak_5969cc97:
+# SarahAndThomasSpeak_0f6c4273 (line 2520)
+translate ru SarahAndThomasSpeak_0f6c4273:
     # "Not long after, a messenger arrived for Thomas."
     ""
 
-# SarahAndThomasSpeak_b6ff5ee6 (line 2521)
-translate ru SarahAndThomasSpeak_b6ff5ee6:
+# SarahAndThomasSpeak_4837cbcd (line 2521)
+translate ru SarahAndThomasSpeak_4837cbcd:
     # "He opened the letter and read it. After, he sighed and stood up."
     ""
 
-# SarahAndThomasSpeak_c246ed44 (line 2522)
-translate ru SarahAndThomasSpeak_c246ed44:
+# SarahAndThomasSpeak_886d775b (line 2522)
+translate ru SarahAndThomasSpeak_886d775b:
     # t "The work never ends."
     t ""
 
-# SarahAndThomasSpeak_1e564dfb (line 2523)
-translate ru SarahAndThomasSpeak_1e564dfb:
+# SarahAndThomasSpeak_5bf0c47d (line 2523)
+translate ru SarahAndThomasSpeak_5bf0c47d:
     # "Sarah held onto his hand and gave it a quick squeeze."
     ""
 
-# SarahAndThomasSpeak_66f9e5e1 (line 2524)
-translate ru SarahAndThomasSpeak_66f9e5e1:
+# SarahAndThomasSpeak_a9979574 (line 2524)
+translate ru SarahAndThomasSpeak_a9979574:
     # "Thomas smiled, comforted by the gesture."
     ""
 
-# SarahAndThomasSpeak_c5c24b50 (line 2525)
-translate ru SarahAndThomasSpeak_c5c24b50:
+# SarahAndThomasSpeak_a6f5ae74 (line 2525)
+translate ru SarahAndThomasSpeak_a6f5ae74:
     # "Sarah watched as her brother began to walk away, down one of the many hallways of Castle Reinmeer."
     ""
 
-# SarahAndThomasSpeak_4015348e (line 2526)
-translate ru SarahAndThomasSpeak_4015348e:
+# SarahAndThomasSpeak_baf0cf3b (line 2526)
+translate ru SarahAndThomasSpeak_baf0cf3b:
     # "Though his shoulders still hung low, she hoped that his crown weighed a little less on him now."
     ""
 

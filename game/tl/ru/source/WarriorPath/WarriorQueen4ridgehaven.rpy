@@ -3,13 +3,13 @@
 # Scene: WarriorQueen4ridgehaven
 # Total blocks: 2
 
-# WarriorQueen4ridgehaven_c5143f98 (line 55846)
-translate ru WarriorQueen4ridgehaven_c5143f98:
+# WarriorQueen4ridgehaven_e9af41f6 (line 55846)
+translate ru WarriorQueen4ridgehaven_e9af41f6:
     # "Punish Kate"
     "Punish Kate" ""
 
-# WarriorQueen4ridgehaven_dfe794a3 (line 55880)
-translate ru WarriorQueen4ridgehaven_dfe794a3:
+# WarriorQueen4ridgehaven_9150fdd7 (line 55880)
+translate ru WarriorQueen4ridgehaven_9150fdd7:
     # "Forgive Kate"
     "Forgive Kate" ""
 

@@ -3,428 +3,428 @@
 # Scene: WanderingTheCamp
 # Total blocks: 85
 
-# WanderingTheCamp_33b3b711 (line 24870)
-translate ru WanderingTheCamp_33b3b711:
+# WanderingTheCamp_af557525 (line 24870)
+translate ru WanderingTheCamp_af557525:
     # "Sarah woke up. Outside, she could hear the camp had already come alive."
     ""
 
-# WanderingTheCamp_843d7c85 (line 24871)
-translate ru WanderingTheCamp_843d7c85:
+# WanderingTheCamp_7868ee58 (line 24871)
+translate ru WanderingTheCamp_7868ee58:
     # "Nobody else was left, Ephraim and Caleb had already started their day. Alone again."
     ""
 
-# WanderingTheCamp_eb167010 (line 24881)
-translate ru WanderingTheCamp_eb167010:
+# WanderingTheCamp_afe64523 (line 24881)
+translate ru WanderingTheCamp_afe64523:
     # "Sarah got out of bed and began to get dressed."
     ""
 
-# WanderingTheCamp_866c7d4f (line 24882)
-translate ru WanderingTheCamp_866c7d4f:
+# WanderingTheCamp_136d9e7d (line 24882)
+translate ru WanderingTheCamp_136d9e7d:
     # "With most of her clothes lost because of Kate, she was forced to keep wearing the same dress."
     ""
 
-# WanderingTheCamp_5d77569c (line 24883)
-translate ru WanderingTheCamp_5d77569c:
+# WanderingTheCamp_44bec699 (line 24883)
+translate ru WanderingTheCamp_44bec699:
     # "Kate..."
     ""
 
-# WanderingTheCamp_56d1c850 (line 24884)
-translate ru WanderingTheCamp_56d1c850:
+# WanderingTheCamp_8df4b3da (line 24884)
+translate ru WanderingTheCamp_8df4b3da:
     # "Sarah still had trouble to reconcile the Kate she thought she knew, versus what Kate had done to her."
     ""
 
-# WanderingTheCamp_d832e9b0 (line 24892)
-translate ru WanderingTheCamp_d832e9b0:
+# WanderingTheCamp_4df3daaa (line 24892)
+translate ru WanderingTheCamp_4df3daaa:
     # "Sarah left the tent. The ambiance of the mercenary camp washed over her. It's smells, sounds, the structured chaos."
     ""
 
-# WanderingTheCamp_655515ef (line 24893)
-translate ru WanderingTheCamp_655515ef:
+# WanderingTheCamp_f9075ba3 (line 24893)
+translate ru WanderingTheCamp_f9075ba3:
     # "So different from the castle in which she grew up."
     ""
 
-# WanderingTheCamp_7ce9b591 (line 24894)
-translate ru WanderingTheCamp_7ce9b591:
+# WanderingTheCamp_3624d1fb (line 24894)
+translate ru WanderingTheCamp_3624d1fb:
     # "Sarah knew this world was different. There were different rules. She had to be careful. Unlike back home, her station offered her little protection."
     ""
 
-# WanderingTheCamp_2b1435ad (line 24895)
-translate ru WanderingTheCamp_2b1435ad:
+# WanderingTheCamp_57b2722f (line 24895)
+translate ru WanderingTheCamp_57b2722f:
     # "Quite the opposite, she realized, if people knew she was a princess, who knew what they would do..."
     ""
 
-# WanderingTheCamp_58b0da7e (line 24896)
-translate ru WanderingTheCamp_58b0da7e:
+# WanderingTheCamp_7ad747b1 (line 24896)
+translate ru WanderingTheCamp_7ad747b1:
     # "Sarah had made her plan, she would go to the harbor and ask around. See if there was a ship heading back to Rosanna."
     ""
 
-# WanderingTheCamp_a4a2f737 (line 24897)
-translate ru WanderingTheCamp_a4a2f737:
+# WanderingTheCamp_6be69666 (line 24897)
+translate ru WanderingTheCamp_6be69666:
     # "She knew it wasn't much of a plan, but then again, right now, she didn't have many options."
     ""
 
-# WanderingTheCamp_d30d0847 (line 24898)
-translate ru WanderingTheCamp_d30d0847:
+# WanderingTheCamp_a2d6983b (line 24898)
+translate ru WanderingTheCamp_a2d6983b:
     # "Walking through the camp, heading to the exit, Sarah was lost in thought."
     ""
 
-# WanderingTheCamp_473f0096 (line 24899)
-translate ru WanderingTheCamp_473f0096:
+# WanderingTheCamp_3d598de0 (line 24899)
+translate ru WanderingTheCamp_3d598de0:
     # "She suddenly felt a sharp pang against her shin, followed by her losing her balance."
     ""
 
-# WanderingTheCamp_b7165949 (line 24900)
-translate ru WanderingTheCamp_b7165949:
+# WanderingTheCamp_e38ddd3f (line 24900)
+translate ru WanderingTheCamp_e38ddd3f:
     # "As Sarah tumbled across the floor, getting dust in her eyes and on her dress, she heard the noise of metal clattering."
     ""
 
-# WanderingTheCamp_8fdffd5a (line 24901)
-translate ru WanderingTheCamp_8fdffd5a:
+# WanderingTheCamp_db0fa68f (line 24901)
+translate ru WanderingTheCamp_db0fa68f:
     # "She looked up, trying to see what had happened."
     ""
 
-# WanderingTheCamp_4d604c80 (line 24902)
-translate ru WanderingTheCamp_4d604c80:
+# WanderingTheCamp_c43b6351 (line 24902)
+translate ru WanderingTheCamp_c43b6351:
     # "Instead, she felt herself getting pulled up to her feet with a force stronger than any she had never experienced in her life."
     ""
 
-# WanderingTheCamp_97670a6f (line 24903)
-translate ru WanderingTheCamp_97670a6f:
+# WanderingTheCamp_ab76f3e9 (line 24903)
+translate ru WanderingTheCamp_ab76f3e9:
     # "She felt the titanic power of the hand, clenched around her upper arm, holding her up."
     ""
 
-# WanderingTheCamp_c8327198 (line 24904)
-translate ru WanderingTheCamp_c8327198:
+# WanderingTheCamp_a5b6cae4 (line 24904)
+translate ru WanderingTheCamp_a5b6cae4:
     # "Inches away from her face, she saw the orc's furious gaze."
     ""
 
-# WanderingTheCamp_146bfd8b (line 24913)
-translate ru WanderingTheCamp_146bfd8b:
+# WanderingTheCamp_b62f27c8 (line 24913)
+translate ru WanderingTheCamp_b62f27c8:
     # a "Look what you've done, you stupid girl!"
     a ""
 
-# WanderingTheCamp_c8089cdf (line 24914)
-translate ru WanderingTheCamp_c8089cdf:
+# WanderingTheCamp_4594a6e9 (line 24914)
+translate ru WanderingTheCamp_4594a6e9:
     # "The orc barked at her."
     ""
 
-# WanderingTheCamp_39d3e2d8 (line 24915)
-translate ru WanderingTheCamp_39d3e2d8:
+# WanderingTheCamp_a8c99c33 (line 24915)
+translate ru WanderingTheCamp_a8c99c33:
     # "Sarah saw, on the ground behind the orc, a plate and some cooking utensils."
     ""
 
-# WanderingTheCamp_d6ac012c (line 24916)
-translate ru WanderingTheCamp_d6ac012c:
+# WanderingTheCamp_cb9ff4c6 (line 24916)
+translate ru WanderingTheCamp_cb9ff4c6:
     # "She began to realize that, lost in thought, she had knocked over the orc's table, spilling his food onto the floor."
     ""
 
-# WanderingTheCamp_5b029d24 (line 24917)
-translate ru WanderingTheCamp_5b029d24:
+# WanderingTheCamp_1d860cf5 (line 24917)
+translate ru WanderingTheCamp_1d860cf5:
     # s "I'm so sorry..."
     s ""
 
-# WanderingTheCamp_f75d5d4c (line 24918)
-translate ru WanderingTheCamp_f75d5d4c:
+# WanderingTheCamp_798aa192 (line 24918)
+translate ru WanderingTheCamp_798aa192:
     # "Her voice was weak, the orc radiated a menace that she had never experienced before. She truly believed he might kill her over it."
     ""
 
-# WanderingTheCamp_c79a0806 (line 24919)
-translate ru WanderingTheCamp_c79a0806:
+# WanderingTheCamp_73a776f8 (line 24919)
+translate ru WanderingTheCamp_73a776f8:
     # "Sarah slipped from his grasp and crawled across the floor. She hastily began collecting the plate and everything else she had knocked over."
     ""
 
-# WanderingTheCamp_dc5d7765 (line 24920)
-translate ru WanderingTheCamp_dc5d7765:
+# WanderingTheCamp_f405ea09 (line 24920)
+translate ru WanderingTheCamp_f405ea09:
     # "She hurried to put it all back on the table. She kept apologizing as she did, hoping the orc would spare her."
     ""
 
-# WanderingTheCamp_f60cfc5d (line 24921)
-translate ru WanderingTheCamp_f60cfc5d:
+# WanderingTheCamp_e1a4ad7e (line 24921)
+translate ru WanderingTheCamp_e1a4ad7e:
     # "Sarah watched as the orc fell back in his chair, next to his table."
     ""
 
-# WanderingTheCamp_60bf7c9d (line 24922)
-translate ru WanderingTheCamp_60bf7c9d:
+# WanderingTheCamp_8cf3d307 (line 24922)
+translate ru WanderingTheCamp_8cf3d307:
     # "She watched him, his eyes still full of anger, but seemingly less than before."
     ""
 
-# WanderingTheCamp_9706f027 (line 24923)
-translate ru WanderingTheCamp_9706f027:
+# WanderingTheCamp_505ff8c6 (line 24923)
+translate ru WanderingTheCamp_505ff8c6:
     # "His arms were like logs, even his legs were large and muscular."
     ""
 
-# WanderingTheCamp_a5e9daf6 (line 24924)
-translate ru WanderingTheCamp_a5e9daf6:
+# WanderingTheCamp_17d70735 (line 24924)
+translate ru WanderingTheCamp_17d70735:
     # "The orc waved his hands, dismissing her without looking at Sarah."
     ""
 
-# WanderingTheCamp_f6336e19 (line 24925)
-translate ru WanderingTheCamp_f6336e19:
+# WanderingTheCamp_0fd1f132 (line 24925)
+translate ru WanderingTheCamp_0fd1f132:
     # a "Go, the damage is already done!"
     a ""
 
-# WanderingTheCamp_3a72acc4 (line 24926)
-translate ru WanderingTheCamp_3a72acc4:
+# WanderingTheCamp_b55eaa64 (line 24926)
+translate ru WanderingTheCamp_b55eaa64:
     # a "But gods help you girl if you do something like this again!"
     a ""
 
-# WanderingTheCamp_d2d6aa3e (line 24927)
-translate ru WanderingTheCamp_d2d6aa3e:
+# WanderingTheCamp_2ad38a6f (line 24927)
+translate ru WanderingTheCamp_2ad38a6f:
     # "Sarah, grasped at her new lease on life and leapt up to her feet."
     ""
 
-# WanderingTheCamp_9f99e665 (line 24928)
-translate ru WanderingTheCamp_9f99e665:
+# WanderingTheCamp_2eb00c75 (line 24928)
+translate ru WanderingTheCamp_2eb00c75:
     # "She bowed to the orc, apologizing, as she simultaneously backed away."
     ""
 
-# WanderingTheCamp_89970b7b (line 24929)
-translate ru WanderingTheCamp_89970b7b:
+# WanderingTheCamp_0d9f7848 (line 24929)
+translate ru WanderingTheCamp_0d9f7848:
     # s "I'm sorry, I'm sorry, I'm sorry."
     s ""
 
-# WanderingTheCamp_e45b6286 (line 24930)
-translate ru WanderingTheCamp_e45b6286:
+# WanderingTheCamp_4918c092 (line 24930)
+translate ru WanderingTheCamp_4918c092:
     # "Get away, she thought, just keep walking. He's letting you live."
     ""
 
-# WanderingTheCamp_e2a22ea7 (line 24941)
-translate ru WanderingTheCamp_e2a22ea7:
+# WanderingTheCamp_88262042 (line 24941)
+translate ru WanderingTheCamp_88262042:
     # "Sarah turned the corner and leaned against the wall, breathing heavily."
     ""
 
-# WanderingTheCamp_703a719a (line 24942)
-translate ru WanderingTheCamp_703a719a:
+# WanderingTheCamp_f77199ea (line 24942)
+translate ru WanderingTheCamp_f77199ea:
     # "A moment of inattention, and she had almost paid for it dearly."
     ""
 
-# WanderingTheCamp_d4db5125 (line 24943)
-translate ru WanderingTheCamp_d4db5125:
+# WanderingTheCamp_3f6e298c (line 24943)
+translate ru WanderingTheCamp_3f6e298c:
     # "She had to get out of here."
     ""
 
-# WanderingTheCamp_59ecb322 (line 24944)
-translate ru WanderingTheCamp_59ecb322:
+# WanderingTheCamp_e146aa56 (line 24944)
+translate ru WanderingTheCamp_e146aa56:
     # "Sarah made her way to the camp's gate, marching as fast as she could."
     ""
 
-# WanderingTheCamp_be032232 (line 24945)
-translate ru WanderingTheCamp_be032232:
+# WanderingTheCamp_b14eaed2 (line 24945)
+translate ru WanderingTheCamp_b14eaed2:
     # "After this, down the road, past the shops, into the harbor. She tried to remember the path that Kate had dragged her along."
     ""
 
-# WanderingTheCamp_fa45d57e (line 24946)
-translate ru WanderingTheCamp_fa45d57e:
+# WanderingTheCamp_ad336364 (line 24946)
+translate ru WanderingTheCamp_ad336364:
     # "A man blocked her path."
     ""
 
-# WanderingTheCamp_eb1070d7 (line 24952)
-translate ru WanderingTheCamp_eb1070d7:
+# WanderingTheCamp_25fda698 (line 24952)
+translate ru WanderingTheCamp_25fda698:
     # "Camp Guard" "Hold on there."
     ""
 
-# WanderingTheCamp_2b59613c (line 24953)
-translate ru WanderingTheCamp_2b59613c:
+# WanderingTheCamp_da4060a1 (line 24953)
+translate ru WanderingTheCamp_da4060a1:
     # "The man was large, easily blocking Sarah from getting past him. He pushed her back."
     ""
 
-# WanderingTheCamp_d23cad1b (line 24954)
-translate ru WanderingTheCamp_d23cad1b:
+# WanderingTheCamp_43b3dcfe (line 24954)
+translate ru WanderingTheCamp_43b3dcfe:
     # s "I need to leave, I have to get to the harbor."
     s ""
 
-# WanderingTheCamp_38927b67 (line 24955)
-translate ru WanderingTheCamp_38927b67:
+# WanderingTheCamp_0f6d2b49 (line 24955)
+translate ru WanderingTheCamp_0f6d2b49:
     # "The camp guard shook his head."
     ""
 
-# WanderingTheCamp_d8233fe4 (line 24956)
-translate ru WanderingTheCamp_d8233fe4:
+# WanderingTheCamp_7536a395 (line 24956)
+translate ru WanderingTheCamp_7536a395:
     # "Camp Guard" "You're not going anywhere. Orders, straight from Vaelen himself."
     ""
 
-# WanderingTheCamp_4a57c753 (line 24957)
-translate ru WanderingTheCamp_4a57c753:
+# WanderingTheCamp_9ef2fe3b (line 24957)
+translate ru WanderingTheCamp_9ef2fe3b:
     # "Sarah was stunned."
     ""
 
-# WanderingTheCamp_fc056802 (line 24958)
-translate ru WanderingTheCamp_fc056802:
+# WanderingTheCamp_b165dd6a (line 24958)
+translate ru WanderingTheCamp_b165dd6a:
     # s "You don't even know who I am, just let me go, please."
     s ""
 
-# WanderingTheCamp_a878b41b (line 24959)
-translate ru WanderingTheCamp_a878b41b:
+# WanderingTheCamp_762041e6 (line 24959)
+translate ru WanderingTheCamp_762041e6:
     # "She pleaded with the guard."
     ""
 
-# WanderingTheCamp_0090f15f (line 24960)
-translate ru WanderingTheCamp_0090f15f:
+# WanderingTheCamp_618b317d (line 24960)
+translate ru WanderingTheCamp_618b317d:
     # "The guard shook his head again. He planted his feet firmer, as if to reinforce his point."
     ""
 
-# WanderingTheCamp_aa15c8f1 (line 24961)
-translate ru WanderingTheCamp_aa15c8f1:
+# WanderingTheCamp_a7b51c17 (line 24961)
+translate ru WanderingTheCamp_a7b51c17:
     # "Camp Guard" "Vaelen told me himself, keep the blonde girl in the pretty dress from leaving."
     ""
 
-# WanderingTheCamp_8933d36b (line 24962)
-translate ru WanderingTheCamp_8933d36b:
+# WanderingTheCamp_f280308c (line 24962)
+translate ru WanderingTheCamp_f280308c:
     # "Camp Guard" "It might surprise you to learn, but there aren't a lot of people here matching that description."
     ""
 
-# WanderingTheCamp_035d02b6 (line 24963)
-translate ru WanderingTheCamp_035d02b6:
+# WanderingTheCamp_3eeb964d (line 24963)
+translate ru WanderingTheCamp_3eeb964d:
     # "Sarah thought about what she could do, but there was no way she was getting past the guard."
     ""
 
-# WanderingTheCamp_01262bfe (line 24964)
-translate ru WanderingTheCamp_01262bfe:
+# WanderingTheCamp_c4f47652 (line 24964)
+translate ru WanderingTheCamp_c4f47652:
     # "She turned around and began to walk back into the camp."
     ""
 
-# WanderingTheCamp_f09d8cdf (line 24966)
-translate ru WanderingTheCamp_f09d8cdf:
+# WanderingTheCamp_9d73129b (line 24966)
+translate ru WanderingTheCamp_9d73129b:
     # "Sarah had lost the speed in her step. There was nowhere for her to walk to, other then back to the tent."
     ""
 
-# WanderingTheCamp_b7947afb (line 24967)
-translate ru WanderingTheCamp_b7947afb:
+# WanderingTheCamp_e3da670b (line 24967)
+translate ru WanderingTheCamp_e3da670b:
     # "She went back the way she came."
     ""
 
-# WanderingTheCamp_d9e48c66 (line 24968)
-translate ru WanderingTheCamp_d9e48c66:
+# WanderingTheCamp_f1af38f4 (line 24968)
+translate ru WanderingTheCamp_f1af38f4:
     # "She passed the orc, and quickly glanced in his direction."
     ""
 
-# WanderingTheCamp_a47b5d2c (line 24969)
-translate ru WanderingTheCamp_a47b5d2c:
+# WanderingTheCamp_9dbf3b80 (line 24969)
+translate ru WanderingTheCamp_9dbf3b80:
     # "The orc met her eyes."
     ""
 
-# WanderingTheCamp_fd1a277b (line 24970)
-translate ru WanderingTheCamp_fd1a277b:
+# WanderingTheCamp_8ae15f44 (line 24970)
+translate ru WanderingTheCamp_8ae15f44:
     # "Sarah turned her eyes back to the ground, hoping to avoid his wrath a second time."
     ""
 
-# WanderingTheCamp_aca05ce8 (line 24971)
-translate ru WanderingTheCamp_aca05ce8:
+# WanderingTheCamp_e81d0e90 (line 24971)
+translate ru WanderingTheCamp_e81d0e90:
     # "She took a wide berth around his table."
     ""
 
-# WanderingTheCamp_5bd93e74 (line 24972)
-translate ru WanderingTheCamp_5bd93e74:
+# WanderingTheCamp_a29585f6 (line 24972)
+translate ru WanderingTheCamp_a29585f6:
     # "Sarah eventually made her way back to the tent."
     ""
 
-# WanderingTheCamp_bd9ae035 (line 24980)
-translate ru WanderingTheCamp_bd9ae035:
+# WanderingTheCamp_a0b1e9bd (line 24980)
+translate ru WanderingTheCamp_a0b1e9bd:
     # "To her surprise, the flap to the tent was thrown aside, and Kate came storming out."
     ""
 
-# WanderingTheCamp_cf29f955 (line 24983)
-translate ru WanderingTheCamp_cf29f955:
+# WanderingTheCamp_41bd6c7a (line 24983)
+translate ru WanderingTheCamp_41bd6c7a:
     # k "Sarah! Are you ok? I heard about you and Atilla..."
     k ""
 
-# WanderingTheCamp_30d41d19 (line 24984)
-translate ru WanderingTheCamp_30d41d19:
+# WanderingTheCamp_ff9789c3 (line 24984)
+translate ru WanderingTheCamp_ff9789c3:
     # "Sarah looked confused, for a moment forgetting what had transpired between them."
     ""
 
-# WanderingTheCamp_90967392 (line 24985)
-translate ru WanderingTheCamp_90967392:
+# WanderingTheCamp_92c7b32c (line 24985)
+translate ru WanderingTheCamp_92c7b32c:
     # s "Atilla?"
     s ""
 
-# WanderingTheCamp_14e53abe (line 24986)
-translate ru WanderingTheCamp_14e53abe:
+# WanderingTheCamp_5950cade (line 24986)
+translate ru WanderingTheCamp_5950cade:
     # k "The orc, that vile creature. Did he hurt you?"
     k ""
 
-# WanderingTheCamp_c68ed0d0 (line 24987)
-translate ru WanderingTheCamp_c68ed0d0:
+# WanderingTheCamp_847e43a0 (line 24987)
+translate ru WanderingTheCamp_847e43a0:
     # "Sarah felt her upper arm. It was bruised, but other than that, she was more scared than hurt."
     ""
 
-# WanderingTheCamp_785bbd6e (line 24988)
-translate ru WanderingTheCamp_785bbd6e:
+# WanderingTheCamp_7896dfa8 (line 24988)
+translate ru WanderingTheCamp_7896dfa8:
     # "She shook her head."
     ""
 
-# WanderingTheCamp_6c747a0b (line 24989)
-translate ru WanderingTheCamp_6c747a0b:
+# WanderingTheCamp_3a475c8c (line 24989)
+translate ru WanderingTheCamp_3a475c8c:
     # "Kate embraced Sarah."
     ""
 
-# WanderingTheCamp_2c1aa844 (line 24990)
-translate ru WanderingTheCamp_2c1aa844:
+# WanderingTheCamp_acba02a2 (line 24990)
+translate ru WanderingTheCamp_acba02a2:
     # k "Thank the gods, I was so worried that he would hurt you."
     k ""
 
-# WanderingTheCamp_29974b5e (line 24991)
-translate ru WanderingTheCamp_29974b5e:
+# WanderingTheCamp_740811ed (line 24991)
+translate ru WanderingTheCamp_740811ed:
     # "Sarah suddenly pushed Kate away."
     ""
 
-# WanderingTheCamp_85795f11 (line 24992)
-translate ru WanderingTheCamp_85795f11:
+# WanderingTheCamp_8236b1aa (line 24992)
+translate ru WanderingTheCamp_8236b1aa:
     # s "Only one person in this camp has hurt me..."
     s ""
 
-# WanderingTheCamp_19182b90 (line 24993)
-translate ru WanderingTheCamp_19182b90:
+# WanderingTheCamp_ff2a9611 (line 24993)
+translate ru WanderingTheCamp_ff2a9611:
     # "Sarah stared daggers at Kate."
     ""
 
-# WanderingTheCamp_a4d2ee51 (line 24997)
-translate ru WanderingTheCamp_a4d2ee51:
+# WanderingTheCamp_bb3758d2 (line 24997)
+translate ru WanderingTheCamp_bb3758d2:
     # "Kate looked away in shame."
     ""
 
-# WanderingTheCamp_e89db7a4 (line 24998)
-translate ru WanderingTheCamp_e89db7a4:
+# WanderingTheCamp_0096241c (line 24998)
+translate ru WanderingTheCamp_0096241c:
     # k "I know..."
     k ""
 
-# WanderingTheCamp_94b3676d (line 24999)
-translate ru WanderingTheCamp_94b3676d:
+# WanderingTheCamp_df85aa17 (line 24999)
+translate ru WanderingTheCamp_df85aa17:
     # "Usually, Kate's voice was strong, but now, it was soft and weak."
     ""
 
-# WanderingTheCamp_6cda05a0 (line 25000)
-translate ru WanderingTheCamp_6cda05a0:
+# WanderingTheCamp_e84b809d (line 25000)
+translate ru WanderingTheCamp_e84b809d:
     # k "What I did to you, Sarah..."
     k ""
 
-# WanderingTheCamp_7577224d (line 25001)
-translate ru WanderingTheCamp_7577224d:
+# WanderingTheCamp_409a17e2 (line 25001)
+translate ru WanderingTheCamp_409a17e2:
     # "Sarah crossed her arms."
     ""
 
-# WanderingTheCamp_8de9a500 (line 25002)
-translate ru WanderingTheCamp_8de9a500:
+# WanderingTheCamp_bc06c56a (line 25002)
+translate ru WanderingTheCamp_bc06c56a:
     # s "Why did you do it, Kate? I thought we were friends."
     s ""
 
-# WanderingTheCamp_bdb05b9c (line 25010)
-translate ru WanderingTheCamp_bdb05b9c:
+# WanderingTheCamp_76ae5087 (line 25010)
+translate ru WanderingTheCamp_76ae5087:
     # "Kate sagged down, sitting down by the entrance to the tent."
     ""
 
-# WanderingTheCamp_144a6d0e (line 25011)
-translate ru WanderingTheCamp_144a6d0e:
+# WanderingTheCamp_8b66ccbc (line 25011)
+translate ru WanderingTheCamp_8b66ccbc:
     # k "Sarah...will you let me explain?"
     k ""
 
-# WanderingTheCamp_9d00762c (line 25015)
-translate ru WanderingTheCamp_9d00762c:
+# WanderingTheCamp_43570c27 (line 25015)
+translate ru WanderingTheCamp_43570c27:
     # "I want to know why you did it."
     "I want to know why you did it." ""
 
-# WanderingTheCamp_65fd565d (line 25067)
-translate ru WanderingTheCamp_65fd565d:
+# WanderingTheCamp_92ccc9d3 (line 25067)
+translate ru WanderingTheCamp_92ccc9d3:
     # "There is nothing to explain, leave me alone."
     "There is nothing to explain, leave me alone." ""
 

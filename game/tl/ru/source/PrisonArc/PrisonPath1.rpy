@@ -3,1903 +3,1903 @@
 # Scene: PrisonPath1
 # Total blocks: 380
 
-# PrisonPath1_06753af7 (line 61449)
-translate ru PrisonPath1_06753af7:
+# PrisonPath1_7a9e0ebb (line 61449)
+translate ru PrisonPath1_7a9e0ebb:
     # s "I don't want to answer any of your questions. We're done talking."
     s ""
 
-# PrisonPath1_05514c79 (line 61450)
-translate ru PrisonPath1_05514c79:
+# PrisonPath1_8a83f541 (line 61450)
+translate ru PrisonPath1_8a83f541:
     # "The guard captain looked at her for what seemed like almost a minute."
     ""
 
-# PrisonPath1_160da5cc (line 61451)
-translate ru PrisonPath1_160da5cc:
+# PrisonPath1_fe13ad95 (line 61451)
+translate ru PrisonPath1_fe13ad95:
     # "Then he shrugged."
     ""
 
-# PrisonPath1_9e201a0c (line 61452)
-translate ru PrisonPath1_9e201a0c:
+# PrisonPath1_d76576b7 (line 61452)
+translate ru PrisonPath1_d76576b7:
     # "Guard Captain" "Fine, do it your way."
     ""
 
-# PrisonPath1_7347d0cc (line 61453)
-translate ru PrisonPath1_7347d0cc:
+# PrisonPath1_82fcd825 (line 61453)
+translate ru PrisonPath1_82fcd825:
     # "The captain leaned back in his chair and knocked the wall."
     ""
 
-# PrisonPath1_5d4d55f3 (line 61454)
-translate ru PrisonPath1_5d4d55f3:
+# PrisonPath1_7fc6d19a (line 61454)
+translate ru PrisonPath1_7fc6d19a:
     # "Suddenly, the door the room flew open."
     ""
 
-# PrisonPath1_c454e7f0 (line 61455)
-translate ru PrisonPath1_c454e7f0:
+# PrisonPath1_c90d5991 (line 61455)
+translate ru PrisonPath1_c90d5991:
     # "Marching into the room, two guards, carrying between them..."
     ""
 
-# PrisonPath1_ff588ae4 (line 61456)
-translate ru PrisonPath1_ff588ae4:
+# PrisonPath1_c4ff1b4f (line 61456)
+translate ru PrisonPath1_c4ff1b4f:
     # "Alaric."
     ""
 
-# PrisonPath1_47f93d38 (line 61458)
-translate ru PrisonPath1_47f93d38:
+# PrisonPath1_1be6e157 (line 61458)
+translate ru PrisonPath1_1be6e157:
     # "He looked battered and bruised. They'd clearly given him a rougher time than her."
     ""
 
-# PrisonPath1_02faffaa (line 61459)
-translate ru PrisonPath1_02faffaa:
+# PrisonPath1_aee50766 (line 61459)
+translate ru PrisonPath1_aee50766:
     # "Sarah tried to look into his eyes, but his eyes were fixed on the ground."
     ""
 
-# PrisonPath1_52e53054 (line 61460)
-translate ru PrisonPath1_52e53054:
+# PrisonPath1_9804014a (line 61460)
+translate ru PrisonPath1_9804014a:
     # "Guard Captain" "So, guess it's your lucky day ya worthless piece of shit."
     ""
 
-# PrisonPath1_95accfc2 (line 61461)
-translate ru PrisonPath1_95accfc2:
+# PrisonPath1_f11ef0dc (line 61461)
+translate ru PrisonPath1_f11ef0dc:
     # "Guard Captain" "Girly here is pretending like she don't know shit about shit, so the first one to speak gets the prize."
     ""
 
-# PrisonPath1_8c724f89 (line 61462)
-translate ru PrisonPath1_8c724f89:
+# PrisonPath1_db285ff7 (line 61462)
+translate ru PrisonPath1_db285ff7:
     # "Guard Captain" "Two weeks in a work house."
     ""
 
-# PrisonPath1_5c3a3592 (line 61463)
-translate ru PrisonPath1_5c3a3592:
+# PrisonPath1_7e4a82db (line 61463)
+translate ru PrisonPath1_7e4a82db:
     # "Guard Captain" "The last one to speak gets five years housing and food, courtesy of the Lethram prison system."
     ""
 
-# PrisonPath1_37ae882a (line 61464)
-translate ru PrisonPath1_37ae882a:
+# PrisonPath1_124226fc (line 61464)
+translate ru PrisonPath1_124226fc:
     # "Sarah was still trying to process what was happening."
     ""
 
-# PrisonPath1_e1b656da (line 61465)
-translate ru PrisonPath1_e1b656da:
+# PrisonPath1_dccbec18 (line 61465)
+translate ru PrisonPath1_dccbec18:
     # "Alaric was faster."
     ""
 
-# PrisonPath1_4787fab8 (line 61466)
-translate ru PrisonPath1_4787fab8:
+# PrisonPath1_800da346 (line 61466)
+translate ru PrisonPath1_800da346:
     # "His face shot up and he looked directly at her."
     ""
 
-# PrisonPath1_60ea67ba (line 61467)
-translate ru PrisonPath1_60ea67ba:
+# PrisonPath1_93afd21f (line 61467)
+translate ru PrisonPath1_93afd21f:
     # al "She!"
     al ""
 
-# PrisonPath1_84f979fe (line 61468)
-translate ru PrisonPath1_84f979fe:
+# PrisonPath1_4d31b6c2 (line 61468)
+translate ru PrisonPath1_4d31b6c2:
     # al "It was her idea, all of it!"
     al ""
 
-# PrisonPath1_243726b9 (line 61469)
-translate ru PrisonPath1_243726b9:
+# PrisonPath1_2d9ad3dd (line 61469)
+translate ru PrisonPath1_2d9ad3dd:
     # al "She made me do it, I swear!"
     al ""
 
-# PrisonPath1_45a0f1a4 (line 61470)
-translate ru PrisonPath1_45a0f1a4:
+# PrisonPath1_9c762b19 (line 61470)
+translate ru PrisonPath1_9c762b19:
     # "Sarah felt her chest tighten, her breath escaped her."
     ""
 
-# PrisonPath1_fc6c2209 (line 61471)
-translate ru PrisonPath1_fc6c2209:
+# PrisonPath1_77d7af97 (line 61471)
+translate ru PrisonPath1_77d7af97:
     # "What was happening."
     ""
 
-# PrisonPath1_c5279f2c (line 61472)
-translate ru PrisonPath1_c5279f2c:
+# PrisonPath1_2b1e7b9a (line 61472)
+translate ru PrisonPath1_2b1e7b9a:
     # "Guard Captain" "And you'll testify to this in a court?"
     ""
 
-# PrisonPath1_068eaa6e (line 61473)
-translate ru PrisonPath1_068eaa6e:
+# PrisonPath1_e3aa26de (line 61473)
+translate ru PrisonPath1_e3aa26de:
     # al "Yes! Yes! I'll say whatever you need me to say, it's all true!"
     al ""
 
-# PrisonPath1_07f857f3 (line 61474)
-translate ru PrisonPath1_07f857f3:
+# PrisonPath1_34af4301 (line 61474)
+translate ru PrisonPath1_34af4301:
     # "Guard Captain" "Good, take em back and give a nice meal and a warm bath."
     ""
 
-# PrisonPath1_0f4fbcd4 (line 61475)
-translate ru PrisonPath1_0f4fbcd4:
+# PrisonPath1_72e0110f (line 61475)
+translate ru PrisonPath1_72e0110f:
     # "The guards turned around and took Alaric away."
     ""
 
-# PrisonPath1_b5585970 (line 61477)
-translate ru PrisonPath1_b5585970:
+# PrisonPath1_f4506818 (line 61477)
+translate ru PrisonPath1_f4506818:
     # s "I..."
     s ""
 
-# PrisonPath1_f0cc10cd (line 61478)
-translate ru PrisonPath1_f0cc10cd:
+# PrisonPath1_d06a190b (line 61478)
+translate ru PrisonPath1_d06a190b:
     # "Sarah could not bring herself to believe it."
     ""
 
-# PrisonPath1_bcd9c204 (line 61479)
-translate ru PrisonPath1_bcd9c204:
+# PrisonPath1_1e3d915c (line 61479)
+translate ru PrisonPath1_1e3d915c:
     # "Alaric...had betrayed her. And it hadn't even taken him more than a second to make up his mind."
     ""
 
-# PrisonPath1_eb643de5 (line 61480)
-translate ru PrisonPath1_eb643de5:
+# PrisonPath1_3b4bd9dc (line 61480)
+translate ru PrisonPath1_3b4bd9dc:
     # "Then she realized."
     ""
 
-# PrisonPath1_75e327d8 (line 61481)
-translate ru PrisonPath1_75e327d8:
+# PrisonPath1_a490d4da (line 61481)
+translate ru PrisonPath1_a490d4da:
     # "She didn't know this man at all."
     ""
 
-# PrisonPath1_a938b228 (line 61482)
-translate ru PrisonPath1_a938b228:
+# PrisonPath1_998782ce (line 61482)
+translate ru PrisonPath1_998782ce:
     # "She was nothing to her, just some random girl he'd met and gotten caught up with. Of course he'd sell her out to save his life."
     ""
 
-# PrisonPath1_b7b2d9a3 (line 61483)
-translate ru PrisonPath1_b7b2d9a3:
+# PrisonPath1_232536b7 (line 61483)
+translate ru PrisonPath1_232536b7:
     # "Stupid. How could she have been so stupid to put her trust in a man she barely knew."
     ""
 
-# PrisonPath1_b5a827c0 (line 61484)
-translate ru PrisonPath1_b5a827c0:
+# PrisonPath1_791ada00 (line 61484)
+translate ru PrisonPath1_791ada00:
     # s "Captain...please, if you'll allow me to explain-"
     s ""
 
-# PrisonPath1_673734f8 (line 61485)
-translate ru PrisonPath1_673734f8:
+# PrisonPath1_54bdafa1 (line 61485)
+translate ru PrisonPath1_54bdafa1:
     # "He waved his hands, dismissing her."
     ""
 
-# PrisonPath1_16b062e4 (line 61486)
-translate ru PrisonPath1_16b062e4:
+# PrisonPath1_dc4241c9 (line 61486)
+translate ru PrisonPath1_dc4241c9:
     # "Guard Captain" "I got all I need, girly."
     ""
 
-# PrisonPath1_bab8bea7 (line 61487)
-translate ru PrisonPath1_bab8bea7:
+# PrisonPath1_2f5cc578 (line 61487)
+translate ru PrisonPath1_2f5cc578:
     # "Guard Captain" "Our star witness just fingered you for the whole operation, and like I said, him or you, I'm fine with it either way."
     ""
 
-# PrisonPath1_09a6803f (line 61488)
-translate ru PrisonPath1_09a6803f:
+# PrisonPath1_930c83dd (line 61488)
+translate ru PrisonPath1_930c83dd:
     # "Guard Captain" "I tried to be nice to you, give you the first crack at it, but you wanted to play like a tough criminal."
     ""
 
-# PrisonPath1_48a57434 (line 61489)
-translate ru PrisonPath1_48a57434:
+# PrisonPath1_ed69cd42 (line 61489)
+translate ru PrisonPath1_ed69cd42:
     # "He laughed."
     ""
 
-# PrisonPath1_9c5c0adb (line 61490)
-translate ru PrisonPath1_9c5c0adb:
+# PrisonPath1_456756af (line 61490)
+translate ru PrisonPath1_456756af:
     # "Guard Captain" "So sure, you wanna pretend to be a real criminal, then you can enjoy a few years up in Lethram prison, with the other real criminals."
     ""
 
-# PrisonPath1_48a700a2 (line 61491)
-translate ru PrisonPath1_48a700a2:
+# PrisonPath1_a387f6c4 (line 61491)
+translate ru PrisonPath1_a387f6c4:
     # "He leaned over across the table."
     ""
 
-# PrisonPath1_41504f1d (line 61492)
-translate ru PrisonPath1_41504f1d:
+# PrisonPath1_b3340ad0 (line 61492)
+translate ru PrisonPath1_b3340ad0:
     # "Guard Captain" "But if I'm being honest, and I hate to be the one to break it to you, but a girl like you..."
     ""
 
-# PrisonPath1_d1207b05 (line 61493)
-translate ru PrisonPath1_d1207b05:
+# PrisonPath1_a8346981 (line 61493)
+translate ru PrisonPath1_a8346981:
     # "Guard Captain" "You're about two clicks too soft for a place like that."
     ""
 
-# PrisonPath1_a06ff080 (line 61494)
-translate ru PrisonPath1_a06ff080:
+# PrisonPath1_2ea2773a (line 61494)
+translate ru PrisonPath1_2ea2773a:
     # "Guard Captain" "Those women are gonna eat you alive."
     ""
 
-# PrisonPath1_de226b9c (line 61495)
-translate ru PrisonPath1_de226b9c:
+# PrisonPath1_daf50e17 (line 61495)
+translate ru PrisonPath1_daf50e17:
     # "He threw up his hands."
     ""
 
-# PrisonPath1_bfaed4bf (line 61496)
-translate ru PrisonPath1_bfaed4bf:
+# PrisonPath1_090c8afc (line 61496)
+translate ru PrisonPath1_090c8afc:
     # "Guard Captain" "But whatever. I gave you a chance and you spat in my face. You made your bed, now you get to lie in it."
     ""
 
-# PrisonPath1_c07d84a0 (line 61497)
-translate ru PrisonPath1_c07d84a0:
+# PrisonPath1_355f899a (line 61497)
+translate ru PrisonPath1_355f899a:
     # "Sarah could feel the tears begin to stream past her face."
     ""
 
-# PrisonPath1_5225db5d (line 61498)
-translate ru PrisonPath1_5225db5d:
+# PrisonPath1_961cf5e9 (line 61498)
+translate ru PrisonPath1_961cf5e9:
     # "She opened her mouth, only to realize that there were no words."
     ""
 
-# PrisonPath1_4cae69fc (line 61499)
-translate ru PrisonPath1_4cae69fc:
+# PrisonPath1_287539e3 (line 61499)
+translate ru PrisonPath1_287539e3:
     # "There were no words that would save her."
     ""
 
-# PrisonPath1_d3099be4 (line 61506)
-translate ru PrisonPath1_d3099be4:
+# PrisonPath1_c76ecec1 (line 61506)
+translate ru PrisonPath1_c76ecec1:
     # "Only a few hours later, Sarah was brought before a judge in the Lethram courthouse."
     ""
 
-# PrisonPath1_52cb20a3 (line 61507)
-translate ru PrisonPath1_52cb20a3:
+# PrisonPath1_15775f39 (line 61507)
+translate ru PrisonPath1_15775f39:
     # "They sat her down on the front bench, still tied up."
     ""
 
-# PrisonPath1_f03d0c18 (line 61508)
-translate ru PrisonPath1_f03d0c18:
+# PrisonPath1_978b5d29 (line 61508)
+translate ru PrisonPath1_978b5d29:
     # "Judge" "We begin case 27442-yz, theft and conspiracy, each one count."
     ""
 
-# PrisonPath1_5903087b (line 61509)
-translate ru PrisonPath1_5903087b:
+# PrisonPath1_5db4c44f (line 61509)
+translate ru PrisonPath1_5db4c44f:
     # "Judge" "What evidence does the city guard offer up?"
     ""
 
-# PrisonPath1_a76fe2ad (line 61510)
-translate ru PrisonPath1_a76fe2ad:
+# PrisonPath1_17b167d1 (line 61510)
+translate ru PrisonPath1_17b167d1:
     # "The guard captain stepped forward."
     ""
 
-# PrisonPath1_3e0727a2 (line 61511)
-translate ru PrisonPath1_3e0727a2:
+# PrisonPath1_0ace8133 (line 61511)
+translate ru PrisonPath1_0ace8133:
     # "Guard Captain" "Your honour, we provide several written accounts of patrons at the marketplace where the offense took place."
     ""
 
-# PrisonPath1_b9bf0a92 (line 61512)
-translate ru PrisonPath1_b9bf0a92:
+# PrisonPath1_af5fc0a5 (line 61512)
+translate ru PrisonPath1_af5fc0a5:
     # "Guard Captain" "In addition, we provide testimony from the co-conspirator of the defendant. He took part in her crimes, but she was the main instigator."
     ""
 
-# PrisonPath1_6e56488e (line 61513)
-translate ru PrisonPath1_6e56488e:
+# PrisonPath1_eec7b381 (line 61513)
+translate ru PrisonPath1_eec7b381:
     # "The judge received the papers and went through them."
     ""
 
-# PrisonPath1_35c3f54e (line 61514)
-translate ru PrisonPath1_35c3f54e:
+# PrisonPath1_0ace16f7 (line 61514)
+translate ru PrisonPath1_0ace16f7:
     # "After a moment of deliberation, he finally spoke."
     ""
 
-# PrisonPath1_44b66245 (line 61515)
-translate ru PrisonPath1_44b66245:
+# PrisonPath1_d3bef99d (line 61515)
+translate ru PrisonPath1_d3bef99d:
     # "Judge" "The court of Lethram finds this evidene compelling. Does the defendant wish to offer up any counter evidence?"
     ""
 
-# PrisonPath1_6329621b (line 61516)
-translate ru PrisonPath1_6329621b:
+# PrisonPath1_b2186229 (line 61516)
+translate ru PrisonPath1_b2186229:
     # "Sarah was pulled up to her feet by a guard."
     ""
 
-# PrisonPath1_7e3b14ae (line 61517)
-translate ru PrisonPath1_7e3b14ae:
+# PrisonPath1_b23c9bb4 (line 61517)
+translate ru PrisonPath1_b23c9bb4:
     # s "Your honour...I...I didn't-"
     s ""
 
-# PrisonPath1_7383f493 (line 61518)
-translate ru PrisonPath1_7383f493:
+# PrisonPath1_c324850f (line 61518)
+translate ru PrisonPath1_c324850f:
     # "The judge waved his hands, silencing her."
     ""
 
-# PrisonPath1_3282ef96 (line 61519)
-translate ru PrisonPath1_3282ef96:
+# PrisonPath1_085363d8 (line 61519)
+translate ru PrisonPath1_085363d8:
     # "Judge" "Please, the current state of prosecution does not permit oral testimony."
     ""
 
-# PrisonPath1_24261240 (line 61520)
-translate ru PrisonPath1_24261240:
+# PrisonPath1_20bc0865 (line 61520)
+translate ru PrisonPath1_20bc0865:
     # "Judge" "Do you offer up any concrete evidence for this court to review?"
     ""
 
-# PrisonPath1_99e98537 (line 61521)
-translate ru PrisonPath1_99e98537:
+# PrisonPath1_a897351b (line 61521)
+translate ru PrisonPath1_a897351b:
     # s "I...your honour...I didn't have time to-"
     s ""
 
-# PrisonPath1_de34fc57 (line 61522)
-translate ru PrisonPath1_de34fc57:
+# PrisonPath1_dd475cbf (line 61522)
+translate ru PrisonPath1_dd475cbf:
     # "Again, he bade her to be silent with a gesture."
     ""
 
-# PrisonPath1_62cfb0df (line 61523)
-translate ru PrisonPath1_62cfb0df:
+# PrisonPath1_aff7227a (line 61523)
+translate ru PrisonPath1_aff7227a:
     # "Judge" "Very well, then this court has seen enough."
     ""
 
-# PrisonPath1_1a921211 (line 61524)
-translate ru PrisonPath1_1a921211:
+# PrisonPath1_bd3176eb (line 61524)
+translate ru PrisonPath1_bd3176eb:
     # "Judge" "The totality of the evidence leans towards guilt, and so the court finds defendant guilty of one count of theft and one count of conspiracy."
     ""
 
-# PrisonPath1_ec554412 (line 61525)
-translate ru PrisonPath1_ec554412:
+# PrisonPath1_2f7a2425 (line 61525)
+translate ru PrisonPath1_2f7a2425:
     # "Judge" "Punishment for each count is three years, for a total of six years in prison."
     ""
 
-# PrisonPath1_1ff339ae (line 61526)
-translate ru PrisonPath1_1ff339ae:
+# PrisonPath1_6e778f73 (line 61526)
+translate ru PrisonPath1_6e778f73:
     # "Judge" "Given that this is defendants first criminal account, we shall strike one year from the total sentence, for a total of five years in prison."
     ""
 
-# PrisonPath1_da64497f (line 61527)
-translate ru PrisonPath1_da64497f:
+# PrisonPath1_9ec4330d (line 61527)
+translate ru PrisonPath1_9ec4330d:
     # "The judge grabbed his gavel."
     ""
 
-# PrisonPath1_2282e9e8 (line 61528)
-translate ru PrisonPath1_2282e9e8:
+# PrisonPath1_d675a215 (line 61528)
+translate ru PrisonPath1_d675a215:
     # "Then he brought it down with a hard strike against the bench."
     ""
 
-# PrisonPath1_2b99bbf0 (line 61529)
-translate ru PrisonPath1_2b99bbf0:
+# PrisonPath1_aca49d73 (line 61529)
+translate ru PrisonPath1_aca49d73:
     # "Judge" "Verdict has been rendered and spoken."
     ""
 
-# PrisonPath1_51b5c4a8 (line 61530)
-translate ru PrisonPath1_51b5c4a8:
+# PrisonPath1_c80d39cb (line 61530)
+translate ru PrisonPath1_c80d39cb:
     # "Judge" "Guards, you may enact the pronounced punishment effective immediatly. Please take the defendant to the Lethram women's prison."
     ""
 
-# PrisonPath1_0f6a6482 (line 61531)
-translate ru PrisonPath1_0f6a6482:
+# PrisonPath1_5e95bd2f (line 61531)
+translate ru PrisonPath1_5e95bd2f:
     # "Sarah felt her body shake as they seized her upper arms and dragged her along."
     ""
 
-# PrisonPath1_545fe4ae (line 61532)
-translate ru PrisonPath1_545fe4ae:
+# PrisonPath1_323b1234 (line 61532)
+translate ru PrisonPath1_323b1234:
     # "That was it, she realized."
     ""
 
-# PrisonPath1_a448800b (line 61533)
-translate ru PrisonPath1_a448800b:
+# PrisonPath1_501be5d6 (line 61533)
+translate ru PrisonPath1_501be5d6:
     # "Less than five minutes and they had convicted her to five years in prison."
     ""
 
-# PrisonPath1_3b351b62 (line 61534)
-translate ru PrisonPath1_3b351b62:
+# PrisonPath1_3f78fe20 (line 61534)
+translate ru PrisonPath1_3f78fe20:
     # "She prayed it wasn't happening, but still, it did."
     ""
 
-# PrisonPath1_d570f818 (line 61535)
-translate ru PrisonPath1_d570f818:
+# PrisonPath1_36efa7e8 (line 61535)
+translate ru PrisonPath1_36efa7e8:
     # "Sarah felt the world fade around her as they dragged her to the cart."
     ""
 
-# PrisonPath1_a3a700a5 (line 61541)
-translate ru PrisonPath1_a3a700a5:
+# PrisonPath1_56eb93ab (line 61541)
+translate ru PrisonPath1_56eb93ab:
     # "Before long, they arrived at the gates of the Lethram women's prison."
     ""
 
-# PrisonPath1_44e424e4 (line 61542)
-translate ru PrisonPath1_44e424e4:
+# PrisonPath1_5070a505 (line 61542)
+translate ru PrisonPath1_5070a505:
     # "The guards put her in a room, then left."
     ""
 
-# PrisonPath1_cff42f76 (line 61543)
-translate ru PrisonPath1_cff42f76:
+# PrisonPath1_812903b2 (line 61543)
+translate ru PrisonPath1_812903b2:
     # "For the first time, she was alone."
     ""
 
-# PrisonPath1_c6a735e3 (line 61544)
-translate ru PrisonPath1_c6a735e3:
+# PrisonPath1_4ca8eb47 (line 61544)
+translate ru PrisonPath1_4ca8eb47:
     # "Sitting there, Sarah tried to process what had all happened."
     ""
 
-# PrisonPath1_3ed88c67 (line 61545)
-translate ru PrisonPath1_3ed88c67:
+# PrisonPath1_e71a203c (line 61545)
+translate ru PrisonPath1_e71a203c:
     # "Not even a day had gone by since she woke up in the alley, and now she was here..."
     ""
 
-# PrisonPath1_bbbf5f05 (line 61546)
-translate ru PrisonPath1_bbbf5f05:
+# PrisonPath1_321f2c13 (line 61546)
+translate ru PrisonPath1_321f2c13:
     # "Alone again. Betrayed for a second time."
     ""
 
-# PrisonPath1_1c4a6fd3 (line 61547)
-translate ru PrisonPath1_1c4a6fd3:
+# PrisonPath1_9e441502 (line 61547)
+translate ru PrisonPath1_9e441502:
     # "What friends did she have left, she wondered, that might care to save her?"
     ""
 
-# PrisonPath1_e9bed727 (line 61548)
-translate ru PrisonPath1_e9bed727:
+# PrisonPath1_bb199d0d (line 61548)
+translate ru PrisonPath1_bb199d0d:
     # "She knew the answer. None."
     ""
 
-# PrisonPath1_dcac7302 (line 61549)
-translate ru PrisonPath1_dcac7302:
+# PrisonPath1_5a9b1019 (line 61549)
+translate ru PrisonPath1_5a9b1019:
     # "Part of her wanted to cry, but another part of her knew she had to be strong."
     ""
 
-# PrisonPath1_7b5d6538 (line 61550)
-translate ru PrisonPath1_7b5d6538:
+# PrisonPath1_53133079 (line 61550)
+translate ru PrisonPath1_53133079:
     # "Sarah knew she had to force herself to be strong if she wanted to survive this."
     ""
 
-# PrisonPath1_ca2ce179 (line 61551)
-translate ru PrisonPath1_ca2ce179:
+# PrisonPath1_36625726 (line 61551)
+translate ru PrisonPath1_36625726:
     # "Suddenly, the door flew open and a man marched in, breaking whatever silence Sarah had enjoyed for a moment."
     ""
 
-# PrisonPath1_1bf83a44 (line 61553)
-translate ru PrisonPath1_1bf83a44:
+# PrisonPath1_5346b13d (line 61553)
+translate ru PrisonPath1_5346b13d:
     # matt "Up on your feet, prisoner."
     matt ""
 
-# PrisonPath1_f2427f13 (line 61554)
-translate ru PrisonPath1_f2427f13:
+# PrisonPath1_39634db6 (line 61554)
+translate ru PrisonPath1_39634db6:
     # "Sarah did as she was ordered."
     ""
 
-# PrisonPath1_fc9fdd31 (line 61555)
-translate ru PrisonPath1_fc9fdd31:
+# PrisonPath1_fd2d2fdc (line 61555)
+translate ru PrisonPath1_fd2d2fdc:
     # "She saw him looking at her, surprised for a moment, as if he couldn't believe she was here."
     ""
 
-# PrisonPath1_f53a3037 (line 61556)
-translate ru PrisonPath1_f53a3037:
+# PrisonPath1_fd9b5667 (line 61556)
+translate ru PrisonPath1_fd9b5667:
     # "Neither could Sarah."
     ""
 
-# PrisonPath1_12a17048 (line 61557)
-translate ru PrisonPath1_12a17048:
+# PrisonPath1_27b297d5 (line 61557)
+translate ru PrisonPath1_27b297d5:
     # matt "Newbie?"
     matt ""
 
-# PrisonPath1_c72389c3 (line 61558)
-translate ru PrisonPath1_c72389c3:
+# PrisonPath1_811ea623 (line 61558)
+translate ru PrisonPath1_811ea623:
     # "Sarah looked at him confused."
     ""
 
-# PrisonPath1_5a64d70c (line 61559)
-translate ru PrisonPath1_5a64d70c:
+# PrisonPath1_32e98169 (line 61559)
+translate ru PrisonPath1_32e98169:
     # s "I'm sorry?"
     s ""
 
-# PrisonPath1_580782b1 (line 61560)
-translate ru PrisonPath1_580782b1:
+# PrisonPath1_23ce8f2f (line 61560)
+translate ru PrisonPath1_23ce8f2f:
     # matt "I mean, are you new? First time in the system?"
     matt ""
 
-# PrisonPath1_0034037c (line 61561)
-translate ru PrisonPath1_0034037c:
+# PrisonPath1_810bcc29 (line 61561)
+translate ru PrisonPath1_810bcc29:
     # "Sarah nodded."
     ""
 
-# PrisonPath1_c3103c82 (line 61562)
-translate ru PrisonPath1_c3103c82:
+# PrisonPath1_90704360 (line 61562)
+translate ru PrisonPath1_90704360:
     # s "Yes."
     s ""
 
-# PrisonPath1_33c1a9b7 (line 61563)
-translate ru PrisonPath1_33c1a9b7:
+# PrisonPath1_ee009f06 (line 61563)
+translate ru PrisonPath1_ee009f06:
     # matt "Alright then."
     matt ""
 
-# PrisonPath1_14e3ade9 (line 61564)
-translate ru PrisonPath1_14e3ade9:
+# PrisonPath1_5ce324ab (line 61564)
+translate ru PrisonPath1_5ce324ab:
     # matt "Well my name is Matthew, but you can call me officer Matt, got that?"
     matt ""
 
-# PrisonPath1_cf2b87c0 (line 61565)
-translate ru PrisonPath1_cf2b87c0:
+# PrisonPath1_e61cebde (line 61565)
+translate ru PrisonPath1_e61cebde:
     # "Sarah nodded."
     ""
 
-# PrisonPath1_f98b5ded (line 61566)
-translate ru PrisonPath1_f98b5ded:
+# PrisonPath1_162f5f2f (line 61566)
+translate ru PrisonPath1_162f5f2f:
     # matt "And your name, inmate?"
     matt ""
 
-# PrisonPath1_46aeca09 (line 61567)
-translate ru PrisonPath1_46aeca09:
+# PrisonPath1_9acaca08 (line 61567)
+translate ru PrisonPath1_9acaca08:
     # s "Sarah...sir."
     s ""
 
-# PrisonPath1_b1756a4f (line 61568)
-translate ru PrisonPath1_b1756a4f:
+# PrisonPath1_7df04fd1 (line 61568)
+translate ru PrisonPath1_7df04fd1:
     # matt "Sarah...alright. Nice name, but for the duration of your stay your name will be inmate-2244, got it?"
     matt ""
 
-# PrisonPath1_2423a2a7 (line 61569)
-translate ru PrisonPath1_2423a2a7:
+# PrisonPath1_68f14fd4 (line 61569)
+translate ru PrisonPath1_68f14fd4:
     # "Sarah nodded."
     ""
 
-# PrisonPath1_61ab29f1 (line 61570)
-translate ru PrisonPath1_61ab29f1:
+# PrisonPath1_06d3503b (line 61570)
+translate ru PrisonPath1_06d3503b:
     # "Even her name they would take from her."
     ""
 
-# PrisonPath1_a33d01d6 (line 61571)
-translate ru PrisonPath1_a33d01d6:
+# PrisonPath1_c78c66b6 (line 61571)
+translate ru PrisonPath1_c78c66b6:
     # matt "I'm head jailer for the west-wing section, which is where you'll be put up."
     matt ""
 
-# PrisonPath1_90dd1cfb (line 61572)
-translate ru PrisonPath1_90dd1cfb:
+# PrisonPath1_aefc1611 (line 61572)
+translate ru PrisonPath1_aefc1611:
     # matt "Western wing is burglars, thieves, counterfeiters, the usual types of asset offenses."
     matt ""
 
-# PrisonPath1_d9f2e8cd (line 61573)
-translate ru PrisonPath1_d9f2e8cd:
+# PrisonPath1_7ad24a1e (line 61573)
+translate ru PrisonPath1_7ad24a1e:
     # matt "No killers, those are in east-wing, so lucky you I suppose."
     matt ""
 
-# PrisonPath1_e477cae0 (line 61574)
-translate ru PrisonPath1_e477cae0:
+# PrisonPath1_7bc47e5c (line 61574)
+translate ru PrisonPath1_7bc47e5c:
     # "He smiled at her."
     ""
 
-# PrisonPath1_e75dcbc8 (line 61575)
-translate ru PrisonPath1_e75dcbc8:
+# PrisonPath1_0805badb (line 61575)
+translate ru PrisonPath1_0805badb:
     # "Sarah wasn't sure if she should smile back, but decided to do it regardless."
     ""
 
-# PrisonPath1_656c9467 (line 61576)
-translate ru PrisonPath1_656c9467:
+# PrisonPath1_51cbf0ae (line 61576)
+translate ru PrisonPath1_51cbf0ae:
     # matt "I like my part of the prison nice and clean."
     matt ""
 
-# PrisonPath1_46897341 (line 61577)
-translate ru PrisonPath1_46897341:
+# PrisonPath1_a7941852 (line 61577)
+translate ru PrisonPath1_a7941852:
     # matt "That means no fights. No drugs. No trouble."
     matt ""
 
-# PrisonPath1_571dd93e (line 61578)
-translate ru PrisonPath1_571dd93e:
+# PrisonPath1_985a9635 (line 61578)
+translate ru PrisonPath1_985a9635:
     # matt "You keep to that, you won't get no trouble with me."
     matt ""
 
-# PrisonPath1_6d3efd44 (line 61579)
-translate ru PrisonPath1_6d3efd44:
+# PrisonPath1_260a9d65 (line 61579)
+translate ru PrisonPath1_260a9d65:
     # matt "You decide to fuck around...well, let's just assume that you won't do that, alright?"
     matt ""
 
-# PrisonPath1_3bed0682 (line 61580)
-translate ru PrisonPath1_3bed0682:
+# PrisonPath1_0be7ab21 (line 61580)
+translate ru PrisonPath1_0be7ab21:
     # "Sarah nodded."
     ""
 
-# PrisonPath1_38aa9739 (line 61581)
-translate ru PrisonPath1_38aa9739:
+# PrisonPath1_2c967fcc (line 61581)
+translate ru PrisonPath1_2c967fcc:
     # s "Yes...sir, I won't cause you any trouble."
     s ""
 
-# PrisonPath1_ce5e1d14 (line 61582)
-translate ru PrisonPath1_ce5e1d14:
+# PrisonPath1_4a1dd18b (line 61582)
+translate ru PrisonPath1_4a1dd18b:
     # "Matthew nodded."
     ""
 
-# PrisonPath1_4046e6e2 (line 61583)
-translate ru PrisonPath1_4046e6e2:
+# PrisonPath1_74b5844c (line 61583)
+translate ru PrisonPath1_74b5844c:
     # matt "Good, that's what I like to hear."
     matt ""
 
-# PrisonPath1_709a205e (line 61584)
-translate ru PrisonPath1_709a205e:
+# PrisonPath1_b96deaab (line 61584)
+translate ru PrisonPath1_b96deaab:
     # "Matthew looked at the sheet of paper in his hand, checking off the boxes."
     ""
 
-# PrisonPath1_3804cd79 (line 61585)
-translate ru PrisonPath1_3804cd79:
+# PrisonPath1_6290f3dc (line 61585)
+translate ru PrisonPath1_6290f3dc:
     # matt "Alright then, intake, gonna need all your items."
     matt ""
 
-# PrisonPath1_37192b9d (line 61586)
-translate ru PrisonPath1_37192b9d:
+# PrisonPath1_e1421363 (line 61586)
+translate ru PrisonPath1_e1421363:
     # "Sarah reached into her pockets and emptied them out on the table next to her."
     ""
 
-# PrisonPath1_9600461c (line 61587)
-translate ru PrisonPath1_9600461c:
+# PrisonPath1_2bfb864c (line 61587)
+translate ru PrisonPath1_2bfb864c:
     # "Matthew laughed."
     ""
 
-# PrisonPath1_b6187a5f (line 61588)
-translate ru PrisonPath1_b6187a5f:
+# PrisonPath1_31f7ef2c (line 61588)
+translate ru PrisonPath1_31f7ef2c:
     # matt "That's a decent start."
     matt ""
 
-# PrisonPath1_64d117dc (line 61589)
-translate ru PrisonPath1_64d117dc:
+# PrisonPath1_7baf62be (line 61589)
+translate ru PrisonPath1_7baf62be:
     # matt "But I'm really talking about ALL your items."
     matt ""
 
-# PrisonPath1_53341a0d (line 61590)
-translate ru PrisonPath1_53341a0d:
+# PrisonPath1_b5892fbd (line 61590)
+translate ru PrisonPath1_b5892fbd:
     # "It took a moment before it dawned on Sarah what he meant."
     ""
 
-# PrisonPath1_e67a5d93 (line 61591)
-translate ru PrisonPath1_e67a5d93:
+# PrisonPath1_f7b32c9b (line 61591)
+translate ru PrisonPath1_f7b32c9b:
     # "Her face turned red."
     ""
 
-# PrisonPath1_2ab8e2d0 (line 61592)
-translate ru PrisonPath1_2ab8e2d0:
+# PrisonPath1_390f060e (line 61592)
+translate ru PrisonPath1_390f060e:
     # s "I..."
     s ""
 
-# PrisonPath1_8d293576 (line 61593)
-translate ru PrisonPath1_8d293576:
+# PrisonPath1_d09cb731 (line 61593)
+translate ru PrisonPath1_d09cb731:
     # s "Can I get dressed somewhere in private?"
     s ""
 
-# PrisonPath1_4f2e7c5f (line 61594)
-translate ru PrisonPath1_4f2e7c5f:
+# PrisonPath1_755ec297 (line 61594)
+translate ru PrisonPath1_755ec297:
     # "Matthew shook his head."
     ""
 
-# PrisonPath1_2cbabeb7 (line 61595)
-translate ru PrisonPath1_2cbabeb7:
+# PrisonPath1_55036411 (line 61595)
+translate ru PrisonPath1_55036411:
     # matt "No, sorry. Policy states we need to be present for prisoner intake."
     matt ""
 
-# PrisonPath1_660be7bd (line 61596)
-translate ru PrisonPath1_660be7bd:
+# PrisonPath1_c900fa3f (line 61596)
+translate ru PrisonPath1_c900fa3f:
     # matt "You wouldn't believe the types of contraband that some prisoners try to smuggle in."
     matt ""
 
-# PrisonPath1_85f15688 (line 61597)
-translate ru PrisonPath1_85f15688:
+# PrisonPath1_1c8eed6a (line 61597)
+translate ru PrisonPath1_1c8eed6a:
     # matt "And it's for your safety too. Make sure nobody is bringing in any weapons."
     matt ""
 
-# PrisonPath1_1aa7b4b2 (line 61598)
-translate ru PrisonPath1_1aa7b4b2:
+# PrisonPath1_738adc07 (line 61598)
+translate ru PrisonPath1_738adc07:
     # matt "You understand, right?"
     matt ""
 
-# PrisonPath1_a9fa4914 (line 61599)
-translate ru PrisonPath1_a9fa4914:
+# PrisonPath1_f90833ac (line 61599)
+translate ru PrisonPath1_f90833ac:
     # "Sarah gritted her teeth, but she also knew she had no power here."
     ""
 
-# PrisonPath1_4ce0f052 (line 61600)
-translate ru PrisonPath1_4ce0f052:
+# PrisonPath1_591f46b2 (line 61600)
+translate ru PrisonPath1_591f46b2:
     # "She nodded."
     ""
 
-# PrisonPath1_bc65467e (line 61601)
-translate ru PrisonPath1_bc65467e:
+# PrisonPath1_61842eb7 (line 61601)
+translate ru PrisonPath1_61842eb7:
     # "Sliding her hands under the straps of her dress, she began to slowly take it off."
     ""
 
-# PrisonPath1_73bb4cb5 (line 61602)
-translate ru PrisonPath1_73bb4cb5:
+# PrisonPath1_3e6ef061 (line 61602)
+translate ru PrisonPath1_3e6ef061:
     # "She could see from the corner of her eyes that Matthew's eyes were fixed on her body."
     ""
 
-# PrisonPath1_02364551 (line 61603)
-translate ru PrisonPath1_02364551:
+# PrisonPath1_73826845 (line 61603)
+translate ru PrisonPath1_73826845:
     # "It was obvious to her that there was more than professional interest here."
     ""
 
-# PrisonPath1_ab7af70e (line 61608)
-translate ru PrisonPath1_ab7af70e:
+# PrisonPath1_6ecf0b19 (line 61608)
+translate ru PrisonPath1_6ecf0b19:
     # "She took off her dress and began to fold it, putting it next to the items on the table."
     ""
 
-# PrisonPath1_928f3514 (line 61609)
-translate ru PrisonPath1_928f3514:
+# PrisonPath1_1b400276 (line 61609)
+translate ru PrisonPath1_1b400276:
     # "Matthew gestured at her body."
     ""
 
-# PrisonPath1_5ccd7bfd (line 61610)
-translate ru PrisonPath1_5ccd7bfd:
+# PrisonPath1_9d918280 (line 61610)
+translate ru PrisonPath1_9d918280:
     # matt "All of it, inmate."
     matt ""
 
-# PrisonPath1_77f44235 (line 61611)
-translate ru PrisonPath1_77f44235:
+# PrisonPath1_48264689 (line 61611)
+translate ru PrisonPath1_48264689:
     # "Sarah wanted to yell at him, but it would make no difference."
     ""
 
-# PrisonPath1_a0c454d2 (line 61612)
-translate ru PrisonPath1_a0c454d2:
+# PrisonPath1_9f4d8254 (line 61612)
+translate ru PrisonPath1_9f4d8254:
     # "Once she had imagined only her future husband would see this part of her."
     ""
 
-# PrisonPath1_643ac77a (line 61613)
-translate ru PrisonPath1_643ac77a:
+# PrisonPath1_228b7eeb (line 61613)
+translate ru PrisonPath1_228b7eeb:
     # "Sarah reached behind, unclasping her bra and throwing it onto the table."
     ""
 
-# PrisonPath1_704e1cf9 (line 61614)
-translate ru PrisonPath1_704e1cf9:
+# PrisonPath1_94cc86f5 (line 61614)
+translate ru PrisonPath1_94cc86f5:
     # "Sliding her hands past her hips, she took off her panties and finally dropped the last item of clothing on the table."
     ""
 
-# PrisonPath1_e48c4987 (line 61619)
-translate ru PrisonPath1_e48c4987:
+# PrisonPath1_fb4a97ae (line 61619)
+translate ru PrisonPath1_fb4a97ae:
     # "Standing so naked in the room, Sarah felt very vulnerable."
     ""
 
-# PrisonPath1_6b371d55 (line 61620)
-translate ru PrisonPath1_6b371d55:
+# PrisonPath1_d8f38ec4 (line 61620)
+translate ru PrisonPath1_d8f38ec4:
     # "She covered up her breasts with one arm, covering up her sex with the other hand."
     ""
 
-# PrisonPath1_bbcc2056 (line 61621)
-translate ru PrisonPath1_bbcc2056:
+# PrisonPath1_8cef40cf (line 61621)
+translate ru PrisonPath1_8cef40cf:
     # "She could see Matthew's eyes gliding up and down her body."
     ""
 
-# PrisonPath1_05de16e7 (line 61622)
-translate ru PrisonPath1_05de16e7:
+# PrisonPath1_fff9fad7 (line 61622)
+translate ru PrisonPath1_fff9fad7:
     # matt "Good. Turn around for me."
     matt ""
 
-# PrisonPath1_e37581fa (line 61623)
-translate ru PrisonPath1_e37581fa:
+# PrisonPath1_75dd116c (line 61623)
+translate ru PrisonPath1_75dd116c:
     # "Sarah did as instructed."
     ""
 
-# PrisonPath1_ad5fe051 (line 61624)
-translate ru PrisonPath1_ad5fe051:
+# PrisonPath1_1d9a7836 (line 61624)
+translate ru PrisonPath1_1d9a7836:
     # "Now facing the wall, she couldn't see him, but she could feel his eyes on her back."
     ""
 
-# PrisonPath1_3a59bf50 (line 61625)
-translate ru PrisonPath1_3a59bf50:
+# PrisonPath1_0b9c91fc (line 61625)
+translate ru PrisonPath1_0b9c91fc:
     # "It was humiliating."
     ""
 
-# PrisonPath1_c22940c7 (line 61626)
-translate ru PrisonPath1_c22940c7:
+# PrisonPath1_b32e5765 (line 61626)
+translate ru PrisonPath1_b32e5765:
     # matt "Good, turn around and face me, inmate."
     matt ""
 
-# PrisonPath1_1b23ea80 (line 61627)
-translate ru PrisonPath1_1b23ea80:
+# PrisonPath1_5b4eabeb (line 61627)
+translate ru PrisonPath1_5b4eabeb:
     # "Sarah did as instructed."
     ""
 
-# PrisonPath1_4de1719a (line 61628)
-translate ru PrisonPath1_4de1719a:
+# PrisonPath1_82467b1e (line 61628)
+translate ru PrisonPath1_82467b1e:
     # "He walked up close to her and suddenly grabbed her by the chin."
     ""
 
-# PrisonPath1_4651fe96 (line 61629)
-translate ru PrisonPath1_4651fe96:
+# PrisonPath1_96a164ae (line 61629)
+translate ru PrisonPath1_96a164ae:
     # matt "Open wide, inmate."
     matt ""
 
-# PrisonPath1_f8093deb (line 61630)
-translate ru PrisonPath1_f8093deb:
+# PrisonPath1_c9dd4a85 (line 61630)
+translate ru PrisonPath1_c9dd4a85:
     # "Sarah opened her mouth."
     ""
 
-# PrisonPath1_45a125b1 (line 61631)
-translate ru PrisonPath1_45a125b1:
+# PrisonPath1_a6b9f458 (line 61631)
+translate ru PrisonPath1_a6b9f458:
     # "Matthew craned his head from side to side, looking into her mouth."
     ""
 
-# PrisonPath1_063146a8 (line 61632)
-translate ru PrisonPath1_063146a8:
+# PrisonPath1_6b577794 (line 61632)
+translate ru PrisonPath1_6b577794:
     # matt "Alright, no contraband there."
     matt ""
 
-# PrisonPath1_e7a90bfa (line 61633)
-translate ru PrisonPath1_e7a90bfa:
+# PrisonPath1_c8aa7609 (line 61633)
+translate ru PrisonPath1_c8aa7609:
     # matt "Go ahead and sit on the edge of the table for me."
     matt ""
 
-# PrisonPath1_322ed6ba (line 61634)
-translate ru PrisonPath1_322ed6ba:
+# PrisonPath1_cde019e9 (line 61634)
+translate ru PrisonPath1_cde019e9:
     # s "Why?"
     s ""
 
-# PrisonPath1_8a286576 (line 61635)
-translate ru PrisonPath1_8a286576:
+# PrisonPath1_6a75eb79 (line 61635)
+translate ru PrisonPath1_6a75eb79:
     # matt "You questioning me, inmate?"
     matt ""
 
-# PrisonPath1_47fceac8 (line 61636)
-translate ru PrisonPath1_47fceac8:
+# PrisonPath1_d0526655 (line 61636)
+translate ru PrisonPath1_d0526655:
     # s "No...I just..."
     s ""
 
-# PrisonPath1_2c66f8a6 (line 61637)
-translate ru PrisonPath1_2c66f8a6:
+# PrisonPath1_27a05534 (line 61637)
+translate ru PrisonPath1_27a05534:
     # matt "Cause I told you, that aught to be good enough reason for you. Now sit on the edge of the table."
     matt ""
 
-# PrisonPath1_85d99c75 (line 61638)
-translate ru PrisonPath1_85d99c75:
+# PrisonPath1_322e1268 (line 61638)
+translate ru PrisonPath1_322e1268:
     # "Sarah did as instructed."
     ""
 
-# PrisonPath1_9ad9505a (line 61639)
-translate ru PrisonPath1_9ad9505a:
+# PrisonPath1_9c57ffa5 (line 61639)
+translate ru PrisonPath1_9c57ffa5:
     # matt "Spread your legs."
     matt ""
 
-# PrisonPath1_58a264af (line 61640)
-translate ru PrisonPath1_58a264af:
+# PrisonPath1_bcd1a7f9 (line 61640)
+translate ru PrisonPath1_bcd1a7f9:
     # s "Excuse me?"
     s ""
 
-# PrisonPath1_d3f151bd (line 61641)
-translate ru PrisonPath1_d3f151bd:
+# PrisonPath1_636e5e64 (line 61641)
+translate ru PrisonPath1_636e5e64:
     # "Matthew quickly closed the distance between them, grabbing her upper legs and forcefully spreading them apart."
     ""
 
-# PrisonPath1_e4cae87d (line 61642)
-translate ru PrisonPath1_e4cae87d:
+# PrisonPath1_b50c0fdd (line 61642)
+translate ru PrisonPath1_b50c0fdd:
     # matt "Prison protocol for intake states a full cavity check as part of proper procedure."
     matt ""
 
-# PrisonPath1_42c8422d (line 61643)
-translate ru PrisonPath1_42c8422d:
+# PrisonPath1_7715636f (line 61643)
+translate ru PrisonPath1_7715636f:
     # matt "Prisoners come in here hiding all sorts of things up in whatever parts they can come up with."
     matt ""
 
-# PrisonPath1_a692d63a (line 61644)
-translate ru PrisonPath1_a692d63a:
+# PrisonPath1_bfbdd3a2 (line 61644)
+translate ru PrisonPath1_bfbdd3a2:
     # matt "So spread em, or I'll get some extra men in here and we'll do it real proper."
     matt ""
 
-# PrisonPath1_df2cab36 (line 61645)
-translate ru PrisonPath1_df2cab36:
+# PrisonPath1_1e3b5a1a (line 61645)
+translate ru PrisonPath1_1e3b5a1a:
     # "Sarah was close to screaming at him, but again, she swallowed her pride."
     ""
 
-# PrisonPath1_01ff4a4a (line 61646)
-translate ru PrisonPath1_01ff4a4a:
+# PrisonPath1_eedbccaf (line 61646)
+translate ru PrisonPath1_eedbccaf:
     # "She turned her face away from him and spread her legs apart."
     ""
 
-# PrisonPath1_2605200b (line 61649)
-translate ru PrisonPath1_2605200b:
+# PrisonPath1_13942695 (line 61649)
+translate ru PrisonPath1_13942695:
     # "From the corner of her eyes she could see him bend down on his knees, looking directly between her legs."
     ""
 
-# PrisonPath1_9305cc9a (line 61650)
-translate ru PrisonPath1_9305cc9a:
+# PrisonPath1_c78014cc (line 61650)
+translate ru PrisonPath1_c78014cc:
     # "She felt a shock run through her body as two of his fingers entered into her."
     ""
 
-# PrisonPath1_f2fb3abb (line 61651)
-translate ru PrisonPath1_f2fb3abb:
+# PrisonPath1_4e7e42d8 (line 61651)
+translate ru PrisonPath1_4e7e42d8:
     # "A small yelp slipped past her lips and she gripped the edge of the table."
     ""
 
-# PrisonPath1_cab895e2 (line 61652)
-translate ru PrisonPath1_cab895e2:
+# PrisonPath1_b3414dd5 (line 61652)
+translate ru PrisonPath1_b3414dd5:
     # matt "Sorry, procedure you know."
     matt ""
 
-# PrisonPath1_d9638720 (line 61653)
-translate ru PrisonPath1_d9638720:
+# PrisonPath1_36505aad (line 61653)
+translate ru PrisonPath1_36505aad:
     # "Sarah dug her fingers deeper into the edge of the table, the alternative was punching him."
     ""
 
-# PrisonPath1_fead8110 (line 61654)
-translate ru PrisonPath1_fead8110:
+# PrisonPath1_1e08c559 (line 61654)
+translate ru PrisonPath1_1e08c559:
     # "She felt his fingers slide out from between her legs."
     ""
 
-# PrisonPath1_6260d3f7 (line 61655)
-translate ru PrisonPath1_6260d3f7:
+# PrisonPath1_22de0e8a (line 61655)
+translate ru PrisonPath1_22de0e8a:
     # matt "Great, no contraband."
     matt ""
 
-# PrisonPath1_0cd1d27c (line 61656)
-translate ru PrisonPath1_0cd1d27c:
+# PrisonPath1_c75ad194 (line 61656)
+translate ru PrisonPath1_c75ad194:
     # matt "Just the last check and we're done."
     matt ""
 
-# PrisonPath1_0424b4cc (line 61657)
-translate ru PrisonPath1_0424b4cc:
+# PrisonPath1_8f87b80c (line 61657)
+translate ru PrisonPath1_8f87b80c:
     # "Matthew made a spinning motion."
     ""
 
-# PrisonPath1_a8fc2aad (line 61658)
-translate ru PrisonPath1_a8fc2aad:
+# PrisonPath1_a53703fe (line 61658)
+translate ru PrisonPath1_a53703fe:
     # matt "Go ahead and turn around for me."
     matt ""
 
-# PrisonPath1_fcbaa122 (line 61659)
-translate ru PrisonPath1_fcbaa122:
+# PrisonPath1_551fb4e9 (line 61659)
+translate ru PrisonPath1_551fb4e9:
     # "Sarah did as instructed."
     ""
 
-# PrisonPath1_e6b350da (line 61660)
-translate ru PrisonPath1_e6b350da:
+# PrisonPath1_54e6606d (line 61660)
+translate ru PrisonPath1_54e6606d:
     # matt "Alright, now bend over on the desk and grab the edges real right."
     matt ""
 
-# PrisonPath1_7c1362f0 (line 61661)
-translate ru PrisonPath1_7c1362f0:
+# PrisonPath1_1a3eb7c1 (line 61661)
+translate ru PrisonPath1_1a3eb7c1:
     # "Again, Sarah obeyed his instructions."
     ""
 
-# PrisonPath1_72ea3f71 (line 61662)
-translate ru PrisonPath1_72ea3f71:
+# PrisonPath1_03bee443 (line 61662)
+translate ru PrisonPath1_03bee443:
     # matt "Some women tell me this hurts, but ya know, others are fine with it. I guess it's a matter of how experienced they are with it."
     matt ""
 
-# PrisonPath1_66a9fe8c (line 61665)
-translate ru PrisonPath1_66a9fe8c:
+# PrisonPath1_99ac7565 (line 61665)
+translate ru PrisonPath1_99ac7565:
     # "Sarah felt a sharp pain explode from her ass."
     ""
 
-# PrisonPath1_33df8d67 (line 61666)
-translate ru PrisonPath1_33df8d67:
+# PrisonPath1_a87244a8 (line 61666)
+translate ru PrisonPath1_a87244a8:
     # "She nearly lost her balance, tipping over and falling onto her elbows."
     ""
 
-# PrisonPath1_7b52775a (line 61667)
-translate ru PrisonPath1_7b52775a:
+# PrisonPath1_1664b501 (line 61667)
+translate ru PrisonPath1_1664b501:
     # "She could feel one of Matt's hands on the back of her hand, keeping her pinned down."
     ""
 
-# PrisonPath1_4de4d023 (line 61668)
-translate ru PrisonPath1_4de4d023:
+# PrisonPath1_dc929ceb (line 61668)
+translate ru PrisonPath1_dc929ceb:
     # "The other hand was near her ass, one finger plunged deeply into her asshole."
     ""
 
-# PrisonPath1_7c25dcc6 (line 61669)
-translate ru PrisonPath1_7c25dcc6:
+# PrisonPath1_900ac5e0 (line 61669)
+translate ru PrisonPath1_900ac5e0:
     # "The pain roared from her lower body, and in its wake, a deep burning sensation was left behind."
     ""
 
-# PrisonPath1_0ec27fc7 (line 61670)
-translate ru PrisonPath1_0ec27fc7:
+# PrisonPath1_75033c70 (line 61670)
+translate ru PrisonPath1_75033c70:
     # "Sarah could feel her whole body move as Matthew drove his finger deeper into her asshole, curling it up, twisting it."
     ""
 
-# PrisonPath1_bd4e1ea1 (line 61671)
-translate ru PrisonPath1_bd4e1ea1:
+# PrisonPath1_9caabb64 (line 61671)
+translate ru PrisonPath1_9caabb64:
     # "Tears sprung from her face."
     ""
 
-# PrisonPath1_dc8320f4 (line 61672)
-translate ru PrisonPath1_dc8320f4:
+# PrisonPath1_d130c226 (line 61672)
+translate ru PrisonPath1_d130c226:
     # "She gritted her teeth, lest she scream out."
     ""
 
-# PrisonPath1_7ab05618 (line 61673)
-translate ru PrisonPath1_7ab05618:
+# PrisonPath1_e6034dcb (line 61673)
+translate ru PrisonPath1_e6034dcb:
     # "She heard him spit, then felt the spit hit between the cheeks of her ass."
     ""
 
-# PrisonPath1_c899d8bd (line 61674)
-translate ru PrisonPath1_c899d8bd:
+# PrisonPath1_37affa15 (line 61674)
+translate ru PrisonPath1_37affa15:
     # "Suddenly, he plunged in another finger."
     ""
 
-# PrisonPath1_829d448a (line 61675)
-translate ru PrisonPath1_829d448a:
+# PrisonPath1_14619074 (line 61675)
+translate ru PrisonPath1_14619074:
     # s "Aah!!!"
     s ""
 
-# PrisonPath1_ccf40657 (line 61676)
-translate ru PrisonPath1_ccf40657:
+# PrisonPath1_06646fe6 (line 61676)
+translate ru PrisonPath1_06646fe6:
     # "Sarah screamed out at the surprise spike in pain."
     ""
 
-# PrisonPath1_fb37c878 (line 61677)
-translate ru PrisonPath1_fb37c878:
+# PrisonPath1_2e9d6c90 (line 61677)
+translate ru PrisonPath1_2e9d6c90:
     # "Aided by the lubricant of the spit, Sarah felt his two fingers plunging in and out of her ass."
     ""
 
-# PrisonPath1_ac52b54f (line 61678)
-translate ru PrisonPath1_ac52b54f:
+# PrisonPath1_093306ec (line 61678)
+translate ru PrisonPath1_093306ec:
     # "Then, as sudden as it had started, it stopped."
     ""
 
-# PrisonPath1_cef5883f (line 61679)
-translate ru PrisonPath1_cef5883f:
+# PrisonPath1_3ddaa138 (line 61679)
+translate ru PrisonPath1_3ddaa138:
     # "She felt him pull his fingers out of her ass."
     ""
 
-# PrisonPath1_0835c8f6 (line 61680)
-translate ru PrisonPath1_0835c8f6:
+# PrisonPath1_dc625753 (line 61680)
+translate ru PrisonPath1_dc625753:
     # "Sarah collapsed forward onto the table."
     ""
 
-# PrisonPath1_8d8e1f7b (line 61687)
-translate ru PrisonPath1_8d8e1f7b:
+# PrisonPath1_c1825cfc (line 61687)
+translate ru PrisonPath1_c1825cfc:
     # matt "Sorry about that. Thought for a moment I felt something. Had to make sure it was nothing."
     matt ""
 
-# PrisonPath1_596adaca (line 61688)
-translate ru PrisonPath1_596adaca:
+# PrisonPath1_9e43d475 (line 61688)
+translate ru PrisonPath1_9e43d475:
     # "Sarah slowly pushed herself back up."
     ""
 
-# PrisonPath1_85ba8fd8 (line 61689)
-translate ru PrisonPath1_85ba8fd8:
+# PrisonPath1_89990852 (line 61689)
+translate ru PrisonPath1_89990852:
     # "She tried to sit back down, but a sharp pain in her ass caused her flinch and stay standing."
     ""
 
-# PrisonPath1_02379cd2 (line 61690)
-translate ru PrisonPath1_02379cd2:
+# PrisonPath1_2e6f3824 (line 61690)
+translate ru PrisonPath1_2e6f3824:
     # "Looking at Matthew, she only saw a self-content smile on his face like this was business as usual."
     ""
 
-# PrisonPath1_bb086450 (line 61691)
-translate ru PrisonPath1_bb086450:
+# PrisonPath1_a3256c5b (line 61691)
+translate ru PrisonPath1_a3256c5b:
     # "Perhaps, she realized, for him it was."
     ""
 
-# PrisonPath1_5994d8d0 (line 61692)
-translate ru PrisonPath1_5994d8d0:
+# PrisonPath1_7f3f633d (line 61692)
+translate ru PrisonPath1_7f3f633d:
     # "Sarah thought about covering herself up again, but after having been prodded everywhere by him, it seemed a waste of time."
     ""
 
-# PrisonPath1_e44a046a (line 61693)
-translate ru PrisonPath1_e44a046a:
+# PrisonPath1_1f552adf (line 61693)
+translate ru PrisonPath1_1f552adf:
     # matt "So, these are your uniforms."
     matt ""
 
-# PrisonPath1_029ac1b7 (line 61694)
-translate ru PrisonPath1_029ac1b7:
+# PrisonPath1_850089df (line 61694)
+translate ru PrisonPath1_850089df:
     # "Sarah watched as Matthew threw a pair of rags down at her feet."
     ""
 
-# PrisonPath1_27fa8bfb (line 61695)
-translate ru PrisonPath1_27fa8bfb:
+# PrisonPath1_c77a91a7 (line 61695)
+translate ru PrisonPath1_c77a91a7:
     # "They were clothes, technically."
     ""
 
-# PrisonPath1_a7323cd6 (line 61696)
-translate ru PrisonPath1_a7323cd6:
+# PrisonPath1_a9c0541b (line 61696)
+translate ru PrisonPath1_a9c0541b:
     # "Sarah began putting them on."
     ""
 
-# PrisonPath1_4649bed5 (line 61701)
-translate ru PrisonPath1_4649bed5:
+# PrisonPath1_cd94ca0d (line 61701)
+translate ru PrisonPath1_cd94ca0d:
     # "The fabric was coarse and brushed roughly up against her skin."
     ""
 
-# PrisonPath1_15b8f658 (line 61702)
-translate ru PrisonPath1_15b8f658:
+# PrisonPath1_8a630c52 (line 61702)
+translate ru PrisonPath1_8a630c52:
     # "Compard to the soft fabrics of her dress, these clothes were significantly worse."
     ""
 
-# PrisonPath1_dc63d9c4 (line 61703)
-translate ru PrisonPath1_dc63d9c4:
+# PrisonPath1_6a0d61ae (line 61703)
+translate ru PrisonPath1_6a0d61ae:
     # "Then again, she imagined her dress probably cost more than a thousand pairs of these prison uniforms."
     ""
 
-# PrisonPath1_a8a3372e (line 61704)
-translate ru PrisonPath1_a8a3372e:
+# PrisonPath1_af09248a (line 61704)
+translate ru PrisonPath1_af09248a:
     # matt "Fits you like a glove."
     matt ""
 
-# PrisonPath1_7de81707 (line 61705)
-translate ru PrisonPath1_7de81707:
+# PrisonPath1_07e92e94 (line 61705)
+translate ru PrisonPath1_07e92e94:
     # matt "Follow along and I'll get you situated, grab that basket of supplies and I'll get you situated."
     matt ""
 
-# PrisonPath1_0896ef5b (line 61706)
-translate ru PrisonPath1_0896ef5b:
+# PrisonPath1_e5f37bfa (line 61706)
+translate ru PrisonPath1_e5f37bfa:
     # "Sarah grabbed the basket and followed Matthew. Doing what he told her seemed like the easiest thing to do for now."
     ""
 
-# PrisonPath1_e37d1d52 (line 61713)
-translate ru PrisonPath1_e37d1d52:
+# PrisonPath1_b58d9462 (line 61713)
+translate ru PrisonPath1_b58d9462:
     # "Leaving the small room, they entered into what appeared to be the main hall."
     ""
 
-# PrisonPath1_23849ef3 (line 61714)
-translate ru PrisonPath1_23849ef3:
+# PrisonPath1_8499e21f (line 61714)
+translate ru PrisonPath1_8499e21f:
     # "The cold grey stone and heavy metal bars drowned out any hint of life."
     ""
 
-# PrisonPath1_ba0c0416 (line 61715)
-translate ru PrisonPath1_ba0c0416:
+# PrisonPath1_ed64efd4 (line 61715)
+translate ru PrisonPath1_ed64efd4:
     # "From the corner of her eyes, Sarah spotted a few women leaning up against a wall."
     ""
 
-# PrisonPath1_50daf93b (line 61716)
-translate ru PrisonPath1_50daf93b:
+# PrisonPath1_18439ecb (line 61716)
+translate ru PrisonPath1_18439ecb:
     # "Their eyes followed her as she walked through the hall."
     ""
 
-# PrisonPath1_47385c0f (line 61717)
-translate ru PrisonPath1_47385c0f:
+# PrisonPath1_12f0f067 (line 61717)
+translate ru PrisonPath1_12f0f067:
     # matt "This is the west wing, your section."
     matt ""
 
-# PrisonPath1_32bd9774 (line 61718)
-translate ru PrisonPath1_32bd9774:
+# PrisonPath1_2dd66d8c (line 61718)
+translate ru PrisonPath1_2dd66d8c:
     # matt "You stay here, for pretty much most of your stay."
     matt ""
 
-# PrisonPath1_d389da4d (line 61719)
-translate ru PrisonPath1_d389da4d:
+# PrisonPath1_52228cb5 (line 61719)
+translate ru PrisonPath1_52228cb5:
     # matt "Keep up and I'll show you your cell."
     matt ""
 
-# PrisonPath1_bb4290cc (line 61726)
-translate ru PrisonPath1_bb4290cc:
+# PrisonPath1_10c0fa49 (line 61726)
+translate ru PrisonPath1_10c0fa49:
     # "Stone. That was about all that could be said for it."
     ""
 
-# PrisonPath1_27150a95 (line 61727)
-translate ru PrisonPath1_27150a95:
+# PrisonPath1_b6d2a6ff (line 61727)
+translate ru PrisonPath1_b6d2a6ff:
     # "Sarah looked around. The room was almost disorienting in its uniformity. Endless grey stone."
     ""
 
-# PrisonPath1_cc6bc54c (line 61728)
-translate ru PrisonPath1_cc6bc54c:
+# PrisonPath1_4b65fd3b (line 61728)
+translate ru PrisonPath1_4b65fd3b:
     # "Off to the sides of the room were some beds, or more accurately, piles of hay with a rag for cover."
     ""
 
-# PrisonPath1_cb504db1 (line 61729)
-translate ru PrisonPath1_cb504db1:
+# PrisonPath1_1a6c34d9 (line 61729)
+translate ru PrisonPath1_1a6c34d9:
     # "Sarah began to realize just how far she was from her comfortable life."
     ""
 
-# PrisonPath1_436c3585 (line 61730)
-translate ru PrisonPath1_436c3585:
+# PrisonPath1_3d15a932 (line 61730)
+translate ru PrisonPath1_3d15a932:
     # matt "So, you share this cell with another inmate, you're both responsible for the upkeep."
     matt ""
 
-# PrisonPath1_26a39635 (line 61731)
-translate ru PrisonPath1_26a39635:
+# PrisonPath1_0d775cd4 (line 61731)
+translate ru PrisonPath1_0d775cd4:
     # matt "You fail to keep a clean cell that's on the both of you, no matter whose fault it actually is."
     matt ""
 
-# PrisonPath1_7a814781 (line 61732)
-translate ru PrisonPath1_7a814781:
+# PrisonPath1_613b688b (line 61732)
+translate ru PrisonPath1_613b688b:
     # "Matt gestured towards a bucket in the corner."
     ""
 
-# PrisonPath1_5e3f5a5d (line 61733)
-translate ru PrisonPath1_5e3f5a5d:
+# PrisonPath1_99bb2e02 (line 61733)
+translate ru PrisonPath1_99bb2e02:
     # matt "You got any natural urges, that's the bucket you can use."
     matt ""
 
-# PrisonPath1_d9c05e3a (line 61734)
-translate ru PrisonPath1_d9c05e3a:
+# PrisonPath1_06eb7120 (line 61734)
+translate ru PrisonPath1_06eb7120:
     # "Disgusting, was the only thought that came to her."
     ""
 
-# PrisonPath1_9d690a9d (line 61735)
-translate ru PrisonPath1_9d690a9d:
+# PrisonPath1_5567fae6 (line 61735)
+translate ru PrisonPath1_5567fae6:
     # s "Where do we leave it to be disposed of?"
     s ""
 
-# PrisonPath1_eb0ef0c3 (line 61736)
-translate ru PrisonPath1_eb0ef0c3:
+# PrisonPath1_5d95bb32 (line 61736)
+translate ru PrisonPath1_5d95bb32:
     # "Matthew laughed."
     ""
 
-# PrisonPath1_ebe119f5 (line 61737)
-translate ru PrisonPath1_ebe119f5:
+# PrisonPath1_bb3a4051 (line 61737)
+translate ru PrisonPath1_bb3a4051:
     # matt "No hotel service here I'm afraid."
     matt ""
 
-# PrisonPath1_330c22e1 (line 61738)
-translate ru PrisonPath1_330c22e1:
+# PrisonPath1_18a8f6d6 (line 61738)
+translate ru PrisonPath1_18a8f6d6:
     # matt "You're responsible for cleaning out your own bucket."
     matt ""
 
-# PrisonPath1_87ccb10c (line 61739)
-translate ru PrisonPath1_87ccb10c:
+# PrisonPath1_452437c3 (line 61739)
+translate ru PrisonPath1_452437c3:
     # "Sarah realized just how foolish she had been for even thinking that someone else would do it for her."
     ""
 
-# PrisonPath1_ba01109b (line 61740)
-translate ru PrisonPath1_ba01109b:
+# PrisonPath1_274efb10 (line 61740)
+translate ru PrisonPath1_274efb10:
     # s "Whose my cellmate?"
     s ""
 
-# PrisonPath1_6324b79f (line 61741)
-translate ru PrisonPath1_6324b79f:
+# PrisonPath1_6e689834 (line 61741)
+translate ru PrisonPath1_6e689834:
     # "Matthew looked around."
     ""
 
-# PrisonPath1_98a008ce (line 61742)
-translate ru PrisonPath1_98a008ce:
+# PrisonPath1_45f687d6 (line 61742)
+translate ru PrisonPath1_45f687d6:
     # matt "Her name is Eula, but I don't see here anywhere at the moment. Probably playing bone dice or something."
     matt ""
 
-# PrisonPath1_0321d802 (line 61743)
-translate ru PrisonPath1_0321d802:
+# PrisonPath1_69755f53 (line 61743)
+translate ru PrisonPath1_69755f53:
     # matt "It's not allowed, technically, but we allow the prisoners some degree of freedom as an incentive to behave."
     matt ""
 
-# PrisonPath1_3bf7deea (line 61744)
-translate ru PrisonPath1_3bf7deea:
+# PrisonPath1_f0d23517 (line 61744)
+translate ru PrisonPath1_f0d23517:
     # matt "Step out of line and you'll be surprised just how fast those priviledges can vanish."
     matt ""
 
-# PrisonPath1_1eb99062 (line 61745)
-translate ru PrisonPath1_1eb99062:
+# PrisonPath1_b1ca6b49 (line 61745)
+translate ru PrisonPath1_b1ca6b49:
     # "Sarah nodded, showing him she understood."
     ""
 
-# PrisonPath1_4152d87f (line 61746)
-translate ru PrisonPath1_4152d87f:
+# PrisonPath1_20f5572c (line 61746)
+translate ru PrisonPath1_20f5572c:
     # matt "Good. Well, that's it then. Go ahead and settle in."
     matt ""
 
-# PrisonPath1_338ac686 (line 61747)
-translate ru PrisonPath1_338ac686:
+# PrisonPath1_d308630f (line 61747)
+translate ru PrisonPath1_d308630f:
     # matt "Remember the rules. No fights, no drugs, no trouble. Keep to that, and we'll be fast friends."
     matt ""
 
-# PrisonPath1_eb1a71e5 (line 61748)
-translate ru PrisonPath1_eb1a71e5:
+# PrisonPath1_2fed7bc7 (line 61748)
+translate ru PrisonPath1_2fed7bc7:
     # matt "If you got any questions...honestly, ask your cellmate. I'm busy enough as it is."
     matt ""
 
-# PrisonPath1_45429704 (line 61749)
-translate ru PrisonPath1_45429704:
+# PrisonPath1_9ee32f99 (line 61749)
+translate ru PrisonPath1_9ee32f99:
     # "Matthew walked away without saying anything else."
     ""
 
-# PrisonPath1_6aa54c35 (line 61751)
-translate ru PrisonPath1_6aa54c35:
+# PrisonPath1_42d0f490 (line 61751)
+translate ru PrisonPath1_42d0f490:
     # "All of a sudden, Sarah was alone in the cell."
     ""
 
-# PrisonPath1_ccc3ed23 (line 61752)
-translate ru PrisonPath1_ccc3ed23:
+# PrisonPath1_46f0c716 (line 61752)
+translate ru PrisonPath1_46f0c716:
     # "The room was creepy enough when it was the both of them, but all alone, it felt like a tomb."
     ""
 
-# PrisonPath1_d7a61dbf (line 61753)
-translate ru PrisonPath1_d7a61dbf:
+# PrisonPath1_233a8505 (line 61753)
+translate ru PrisonPath1_233a8505:
     # "Sarah shivered."
     ""
 
-# PrisonPath1_552b5ae8 (line 61754)
-translate ru PrisonPath1_552b5ae8:
+# PrisonPath1_687ca416 (line 61754)
+translate ru PrisonPath1_687ca416:
     # "She put her basket off in the corner next to the bed that seemed unused."
     ""
 
-# PrisonPath1_96429ff2 (line 61755)
-translate ru PrisonPath1_96429ff2:
+# PrisonPath1_35503b9f (line 61755)
+translate ru PrisonPath1_35503b9f:
     # "Slowly unpacking, she began to take account of what she now owned in life."
     ""
 
-# PrisonPath1_88104e53 (line 61756)
-translate ru PrisonPath1_88104e53:
+# PrisonPath1_aeb8ca82 (line 61756)
+translate ru PrisonPath1_aeb8ca82:
     # "A bar of soap. Some towels. Toiletries."
     ""
 
-# PrisonPath1_5b61b991 (line 61757)
-translate ru PrisonPath1_5b61b991:
+# PrisonPath1_291a56fe (line 61757)
+translate ru PrisonPath1_291a56fe:
     # "That was essentially all of it. From a princess, down to this."
     ""
 
-# PrisonPath1_1618b7c8 (line 61758)
-translate ru PrisonPath1_1618b7c8:
+# PrisonPath1_121c0220 (line 61758)
+translate ru PrisonPath1_121c0220:
     # "Sarah shook her head, how could she have been so stupid to trust Alaric of all people."
     ""
 
-# PrisonPath1_3a93b883 (line 61759)
-translate ru PrisonPath1_3a93b883:
+# PrisonPath1_2b192dde (line 61759)
+translate ru PrisonPath1_2b192dde:
     # "Suddenly, she heard a sound behind her."
     ""
 
-# PrisonPath1_677a2e54 (line 61761)
-translate ru PrisonPath1_677a2e54:
+# PrisonPath1_8cefddec (line 61761)
+translate ru PrisonPath1_8cefddec:
     # "As Sarah turned her head, she saw a woman standing in the door opening, leaning against the side."
     ""
 
-# PrisonPath1_2d1604a7 (line 61762)
-translate ru PrisonPath1_2d1604a7:
+# PrisonPath1_6984a57f (line 61762)
+translate ru PrisonPath1_6984a57f:
     # "For a moment, she said nothing."
     ""
 
-# PrisonPath1_54a12e0e (line 61763)
-translate ru PrisonPath1_54a12e0e:
+# PrisonPath1_42a043b2 (line 61763)
+translate ru PrisonPath1_42a043b2:
     # "Sarah was too unsure to speak."
     ""
 
-# PrisonPath1_899b2909 (line 61764)
-translate ru PrisonPath1_899b2909:
+# PrisonPath1_3aed27f5 (line 61764)
+translate ru PrisonPath1_3aed27f5:
     # "Finally, the woman did."
     ""
 
-# PrisonPath1_f71dad7f (line 61765)
-translate ru PrisonPath1_f71dad7f:
+# PrisonPath1_0cb632e2 (line 61765)
+translate ru PrisonPath1_0cb632e2:
     # eula "Who the fuck are you, and what are you doing in my cell?"
     eula ""
 
-# PrisonPath1_28e2a47e (line 61766)
-translate ru PrisonPath1_28e2a47e:
+# PrisonPath1_418a684b (line 61766)
+translate ru PrisonPath1_418a684b:
     # s "I'm...my name is...Sarah."
     s ""
 
-# PrisonPath1_38c901c5 (line 61767)
-translate ru PrisonPath1_38c901c5:
+# PrisonPath1_ed23dd3c (line 61767)
+translate ru PrisonPath1_ed23dd3c:
     # "Sarah did her best to sound confident, but she realized she was failing."
     ""
 
-# PrisonPath1_fdc5c1fa (line 61768)
-translate ru PrisonPath1_fdc5c1fa:
+# PrisonPath1_7e9344ef (line 61768)
+translate ru PrisonPath1_7e9344ef:
     # eula "Well, Sarah, how about you fuck back off to your own cell?"
     eula ""
 
-# PrisonPath1_bc93d2a2 (line 61769)
-translate ru PrisonPath1_bc93d2a2:
+# PrisonPath1_388109dd (line 61769)
+translate ru PrisonPath1_388109dd:
     # s "This...this is my cell..."
     s ""
 
-# PrisonPath1_6550111d (line 61770)
-translate ru PrisonPath1_6550111d:
+# PrisonPath1_21068771 (line 61770)
+translate ru PrisonPath1_21068771:
     # "For a moment, the woman looked confused."
     ""
 
-# PrisonPath1_066730ba (line 61771)
-translate ru PrisonPath1_066730ba:
+# PrisonPath1_4e09be90 (line 61771)
+translate ru PrisonPath1_4e09be90:
     # eula "Ooh..."
     eula ""
 
-# PrisonPath1_939a5cf7 (line 61772)
-translate ru PrisonPath1_939a5cf7:
+# PrisonPath1_10dd0bd2 (line 61772)
+translate ru PrisonPath1_10dd0bd2:
     # eula "I thought Matt had been fuckin with me, but I really was gettin a new cellmate."
     eula ""
 
-# PrisonPath1_f784da30 (line 61773)
-translate ru PrisonPath1_f784da30:
+# PrisonPath1_ce06c80b (line 61773)
+translate ru PrisonPath1_ce06c80b:
     # "The woman's attitude seemed to change. She walked over and extended a hand to Sarah."
     ""
 
-# PrisonPath1_b28d663f (line 61774)
-translate ru PrisonPath1_b28d663f:
+# PrisonPath1_51af8c38 (line 61774)
+translate ru PrisonPath1_51af8c38:
     # "Eager for some normal human contact, Sarah took her hand."
     ""
 
-# PrisonPath1_8b33e8c9 (line 61775)
-translate ru PrisonPath1_8b33e8c9:
+# PrisonPath1_7e34e65d (line 61775)
+translate ru PrisonPath1_7e34e65d:
     # eula "Well, Sarah, my name is Eula."
     eula ""
 
-# PrisonPath1_ddee4c38 (line 61776)
-translate ru PrisonPath1_ddee4c38:
+# PrisonPath1_e1f64a7c (line 61776)
+translate ru PrisonPath1_e1f64a7c:
     # s "Ooh, yes! Matthew told me about you."
     s ""
 
-# PrisonPath1_39185fc4 (line 61777)
-translate ru PrisonPath1_39185fc4:
+# PrisonPath1_ff243a12 (line 61777)
+translate ru PrisonPath1_ff243a12:
     # eula "What did he tell you?"
     eula ""
 
-# PrisonPath1_59cc1803 (line 61778)
-translate ru PrisonPath1_59cc1803:
+# PrisonPath1_35e02623 (line 61778)
+translate ru PrisonPath1_35e02623:
     # s "Nothing much really, only that we'll be cellmates."
     s ""
 
-# PrisonPath1_9c79b07e (line 61779)
-translate ru PrisonPath1_9c79b07e:
+# PrisonPath1_15d2da0b (line 61779)
+translate ru PrisonPath1_15d2da0b:
     # "Eula smiled."
     ""
 
-# PrisonPath1_8dce2044 (line 61780)
-translate ru PrisonPath1_8dce2044:
+# PrisonPath1_5d16241a (line 61780)
+translate ru PrisonPath1_5d16241a:
     # eula "Good."
     eula ""
 
-# PrisonPath1_07f93aca (line 61781)
-translate ru PrisonPath1_07f93aca:
+# PrisonPath1_61aeb34c (line 61781)
+translate ru PrisonPath1_61aeb34c:
     # eula "Sorry about that whole fuck you routine from before."
     eula ""
 
-# PrisonPath1_91d9c91e (line 61782)
-translate ru PrisonPath1_91d9c91e:
+# PrisonPath1_139db631 (line 61782)
+translate ru PrisonPath1_139db631:
     # eula "I saw a new face and I thought I had to make an impression on you, but if we're cellmates, no need for all that tough actin bullshit."
     eula ""
 
-# PrisonPath1_f103e8f9 (line 61783)
-translate ru PrisonPath1_f103e8f9:
+# PrisonPath1_5fcd0f14 (line 61783)
+translate ru PrisonPath1_5fcd0f14:
     # "Sarah smiled."
     ""
 
-# PrisonPath1_98d7476b (line 61784)
-translate ru PrisonPath1_98d7476b:
+# PrisonPath1_dfa96666 (line 61784)
+translate ru PrisonPath1_dfa96666:
     # s "It's fine, I'm sure it must have been a surprise for you to just find me here."
     s ""
 
-# PrisonPath1_de6762b4 (line 61785)
-translate ru PrisonPath1_de6762b4:
+# PrisonPath1_859dc00c (line 61785)
+translate ru PrisonPath1_859dc00c:
     # "Eula stood back and observed Sarah for a moment, her eyes gliding up and down all of Sarah's body."
     ""
 
-# PrisonPath1_292608d7 (line 61786)
-translate ru PrisonPath1_292608d7:
+# PrisonPath1_5b9757e1 (line 61786)
+translate ru PrisonPath1_5b9757e1:
     # eula "Not to be a bitch or anything...but...are you sure you're supposed to be here?"
     eula ""
 
-# PrisonPath1_87650a2d (line 61787)
-translate ru PrisonPath1_87650a2d:
+# PrisonPath1_5af90842 (line 61787)
+translate ru PrisonPath1_5af90842:
     # "Sarah was confused."
     ""
 
-# PrisonPath1_169d6f94 (line 61788)
-translate ru PrisonPath1_169d6f94:
+# PrisonPath1_63d8e663 (line 61788)
+translate ru PrisonPath1_63d8e663:
     # s "I...Matthew showed me here...I think so..."
     s ""
 
-# PrisonPath1_3a9824c3 (line 61789)
-translate ru PrisonPath1_3a9824c3:
+# PrisonPath1_ad996618 (line 61789)
+translate ru PrisonPath1_ad996618:
     # "Eula laughed."
     ""
 
-# PrisonPath1_398a2da7 (line 61790)
-translate ru PrisonPath1_398a2da7:
+# PrisonPath1_46c8a587 (line 61790)
+translate ru PrisonPath1_46c8a587:
     # eula "Yeah, I'm sure you're supposed to be here, but I mean more like, in general."
     eula ""
 
-# PrisonPath1_5002423c (line 61791)
-translate ru PrisonPath1_5002423c:
+# PrisonPath1_9b640dc4 (line 61791)
+translate ru PrisonPath1_9b640dc4:
     # eula "You don't strike me as the criminal type."
     eula ""
 
-# PrisonPath1_42e049e5 (line 61792)
-translate ru PrisonPath1_42e049e5:
+# PrisonPath1_ce5c7fde (line 61792)
+translate ru PrisonPath1_ce5c7fde:
     # "Sarah shrugged."
     ""
 
-# PrisonPath1_945e9cfc (line 61793)
-translate ru PrisonPath1_945e9cfc:
+# PrisonPath1_256f0a25 (line 61793)
+translate ru PrisonPath1_256f0a25:
     # s "Well...I guess I'm not...but I was guilty of a crime, so it's all the same I guess."
     s ""
 
-# PrisonPath1_6352f38a (line 61794)
-translate ru PrisonPath1_6352f38a:
+# PrisonPath1_58e34ea3 (line 61794)
+translate ru PrisonPath1_58e34ea3:
     # eula "What happened?"
     eula ""
 
-# PrisonPath1_129f7b6a (line 61795)
-translate ru PrisonPath1_129f7b6a:
+# PrisonPath1_03e16d6b (line 61795)
+translate ru PrisonPath1_03e16d6b:
     # s "I helped a guy pickpocket in a market...and then I stood up for him, but he gave me up to the guards."
     s ""
 
-# PrisonPath1_2ec50758 (line 61796)
-translate ru PrisonPath1_2ec50758:
+# PrisonPath1_942c3057 (line 61796)
+translate ru PrisonPath1_942c3057:
     # "Eula sighed."
     ""
 
-# PrisonPath1_ed7ecf1a (line 61797)
-translate ru PrisonPath1_ed7ecf1a:
+# PrisonPath1_03b5dd93 (line 61797)
+translate ru PrisonPath1_03b5dd93:
     # eula "Fuckin men. They make a mess of it and we ladies get to take the fall, ain't that the truth."
     eula ""
 
-# PrisonPath1_aae8d61d (line 61798)
-translate ru PrisonPath1_aae8d61d:
+# PrisonPath1_1e65aece (line 61798)
+translate ru PrisonPath1_1e65aece:
     # "Sarah smiled and nodded along. She was mostly just happy to meet a friendly face."
     ""
 
-# PrisonPath1_efa1d0fe (line 61799)
-translate ru PrisonPath1_efa1d0fe:
+# PrisonPath1_74119ae0 (line 61799)
+translate ru PrisonPath1_74119ae0:
     # s "And you?"
     s ""
 
-# PrisonPath1_561d6407 (line 61800)
-translate ru PrisonPath1_561d6407:
+# PrisonPath1_e9de0ec6 (line 61800)
+translate ru PrisonPath1_e9de0ec6:
     # eula "Me?"
     eula ""
 
-# PrisonPath1_d0a449a4 (line 61801)
-translate ru PrisonPath1_d0a449a4:
+# PrisonPath1_698a39f9 (line 61801)
+translate ru PrisonPath1_698a39f9:
     # s "What are you in for."
     s ""
 
-# PrisonPath1_ffbe6a79 (line 61802)
-translate ru PrisonPath1_ffbe6a79:
+# PrisonPath1_ed99f1aa (line 61802)
+translate ru PrisonPath1_ed99f1aa:
     # "Eula laughed."
     ""
 
-# PrisonPath1_573952f5 (line 61803)
-translate ru PrisonPath1_573952f5:
+# PrisonPath1_eef4495a (line 61803)
+translate ru PrisonPath1_eef4495a:
     # eula "Look, newbie, don't go around askin people why they're in here for."
     eula ""
 
-# PrisonPath1_fd2ec220 (line 61804)
-translate ru PrisonPath1_fd2ec220:
+# PrisonPath1_67b58b1e (line 61804)
+translate ru PrisonPath1_67b58b1e:
     # eula "Most of the times you just get into trouble."
     eula ""
 
-# PrisonPath1_469c5bef (line 61805)
-translate ru PrisonPath1_469c5bef:
+# PrisonPath1_46bccab0 (line 61805)
+translate ru PrisonPath1_46bccab0:
     # s "But you asked me."
     s ""
 
-# PrisonPath1_e003035b (line 61806)
-translate ru PrisonPath1_e003035b:
+# PrisonPath1_3fe7d4bf (line 61806)
+translate ru PrisonPath1_3fe7d4bf:
     # "Eula nodded."
     ""
 
-# PrisonPath1_1ed51d59 (line 61807)
-translate ru PrisonPath1_1ed51d59:
+# PrisonPath1_f60262f1 (line 61807)
+translate ru PrisonPath1_f60262f1:
     # eula "Yeah, cause you so fresh-faced you'd actually tell me."
     eula ""
 
-# PrisonPath1_d0f5ac83 (line 61808)
-translate ru PrisonPath1_d0f5ac83:
+# PrisonPath1_997a4d94 (line 61808)
+translate ru PrisonPath1_997a4d94:
     # eula "But look, I'm decent enough, but some of these ladies on the block are pretty bad, so really wanna keep your head down."
     eula ""
 
-# PrisonPath1_976c0b41 (line 61809)
-translate ru PrisonPath1_976c0b41:
+# PrisonPath1_30c2f69b (line 61809)
+translate ru PrisonPath1_30c2f69b:
     # eula "Especially lookin the way you do, troubles bound to find ya."
     eula ""
 
-# PrisonPath1_4ffd7030 (line 61810)
-translate ru PrisonPath1_4ffd7030:
+# PrisonPath1_f0bf09f1 (line 61810)
+translate ru PrisonPath1_f0bf09f1:
     # "Eula paused for a moment."
     ""
 
-# PrisonPath1_cc5c8531 (line 61811)
-translate ru PrisonPath1_cc5c8531:
+# PrisonPath1_fef524f8 (line 61811)
+translate ru PrisonPath1_fef524f8:
     # eula "Anyway, I'm here for a simple shoplifting charge. Third offense, so they gave it to be bad, couple of years, but nothin I can't handle."
     eula ""
 
-# PrisonPath1_28db6f3d (line 61812)
-translate ru PrisonPath1_28db6f3d:
+# PrisonPath1_c5578fe2 (line 61812)
+translate ru PrisonPath1_c5578fe2:
     # "Sarah was happy to hear it was something trivial."
     ""
 
-# PrisonPath1_0e3b020d (line 61813)
-translate ru PrisonPath1_0e3b020d:
+# PrisonPath1_799eb7ca (line 61813)
+translate ru PrisonPath1_799eb7ca:
     # s "What did you mean when you said some of the women here are bad? I thought everyone in this block was here for small crimes?"
     s ""
 
-# PrisonPath1_817693f4 (line 61814)
-translate ru PrisonPath1_817693f4:
+# PrisonPath1_99a8f9ef (line 61814)
+translate ru PrisonPath1_99a8f9ef:
     # "Eula laughed."
     ""
 
-# PrisonPath1_91a57cdf (line 61815)
-translate ru PrisonPath1_91a57cdf:
+# PrisonPath1_3122fca6 (line 61815)
+translate ru PrisonPath1_3122fca6:
     # eula "Who told you that?"
     eula ""
 
-# PrisonPath1_70d9e2f1 (line 61816)
-translate ru PrisonPath1_70d9e2f1:
+# PrisonPath1_96ae83b4 (line 61816)
+translate ru PrisonPath1_96ae83b4:
     # "Sarah paused before answering, hesitant."
     ""
 
-# PrisonPath1_9d61d3fd (line 61817)
-translate ru PrisonPath1_9d61d3fd:
+# PrisonPath1_cb2c6c69 (line 61817)
+translate ru PrisonPath1_cb2c6c69:
     # s "Matthew. He told me this wing was pretty safe, no fights."
     s ""
 
-# PrisonPath1_52c7129a (line 61818)
-translate ru PrisonPath1_52c7129a:
+# PrisonPath1_c7f949ab (line 61818)
+translate ru PrisonPath1_c7f949ab:
     # eula "Look, you're gonna need to learn to split the real stuff from the bullshit, ok?"
     eula ""
 
-# PrisonPath1_a4bd7556 (line 61819)
-translate ru PrisonPath1_a4bd7556:
+# PrisonPath1_b1d9d995 (line 61819)
+translate ru PrisonPath1_b1d9d995:
     # eula "Matthew is the warden for this section, and wants to be warden for the whole prison one day."
     eula ""
 
-# PrisonPath1_66bd3b58 (line 61820)
-translate ru PrisonPath1_66bd3b58:
+# PrisonPath1_2da82e25 (line 61820)
+translate ru PrisonPath1_2da82e25:
     # "Sarah nodded along."
     ""
 
-# PrisonPath1_7da99947 (line 61821)
-translate ru PrisonPath1_7da99947:
+# PrisonPath1_04f41b19 (line 61821)
+translate ru PrisonPath1_04f41b19:
     # eula "Well, only way you get to be the big warden is if you can show you're doing a good job."
     eula ""
 
-# PrisonPath1_6831cd23 (line 61822)
-translate ru PrisonPath1_6831cd23:
+# PrisonPath1_e7d7edc7 (line 61822)
+translate ru PrisonPath1_e7d7edc7:
     # eula "And the way you show that is by presenting good numbers."
     eula ""
 
-# PrisonPath1_6e28b34a (line 61823)
-translate ru PrisonPath1_6e28b34a:
+# PrisonPath1_4b065552 (line 61823)
+translate ru PrisonPath1_4b065552:
     # eula "Matthew don't give a fuck if some girl gets her head bashed in, and trust me, plenty do."
     eula ""
 
-# PrisonPath1_282b0032 (line 61824)
-translate ru PrisonPath1_282b0032:
+# PrisonPath1_c1830b3f (line 61824)
+translate ru PrisonPath1_c1830b3f:
     # eula "Only thing Matthew cares about is if anyone files a report."
     eula ""
 
-# PrisonPath1_59c3b1ea (line 61825)
-translate ru PrisonPath1_59c3b1ea:
+# PrisonPath1_9caf041c (line 61825)
+translate ru PrisonPath1_9caf041c:
     # eula "And most of the time, the person filing the report gets in trouble, not the person that actually started shit."
     eula ""
 
-# PrisonPath1_1542904c (line 61826)
-translate ru PrisonPath1_1542904c:
+# PrisonPath1_3bae33e9 (line 61826)
+translate ru PrisonPath1_3bae33e9:
     # "Eula looked around, making sure nobody else was listening."
     ""
 
-# PrisonPath1_48faa95f (line 61827)
-translate ru PrisonPath1_48faa95f:
+# PrisonPath1_ceadac8d (line 61827)
+translate ru PrisonPath1_ceadac8d:
     # eula "And as for some of the women, people are here for the crimes they got caught at, not the crimes they did."
     eula ""
 
-# PrisonPath1_a87bd15d (line 61828)
-translate ru PrisonPath1_a87bd15d:
+# PrisonPath1_929d2b65 (line 61828)
+translate ru PrisonPath1_929d2b65:
     # eula "Big difference between the two."
     eula ""
 
-# PrisonPath1_3736a16d (line 61829)
-translate ru PrisonPath1_3736a16d:
+# PrisonPath1_d8b4916b (line 61829)
+translate ru PrisonPath1_d8b4916b:
     # eula "So some of these women on the block are real hard hitters that just got snatched on the only charge that would stick."
     eula ""
 
-# PrisonPath1_96ec6ce9 (line 61830)
-translate ru PrisonPath1_96ec6ce9:
+# PrisonPath1_40b86e7c (line 61830)
+translate ru PrisonPath1_40b86e7c:
     # "Sarah could understand what Eula was saying. She wanted to hit herself in the head for not realizing it sooner."
     ""
 
-# PrisonPath1_1240f385 (line 61831)
-translate ru PrisonPath1_1240f385:
+# PrisonPath1_47541dfe (line 61831)
+translate ru PrisonPath1_47541dfe:
     # "Guard" "LOCKDOWN IN FIVE!"
     ""
 
-# PrisonPath1_ce943300 (line 61832)
-translate ru PrisonPath1_ce943300:
+# PrisonPath1_5fd58e3a (line 61832)
+translate ru PrisonPath1_5fd58e3a:
     # "A man's voice could be heard roaring through the hall."
     ""
 
-# PrisonPath1_bcfa074d (line 61833)
-translate ru PrisonPath1_bcfa074d:
+# PrisonPath1_96fcd361 (line 61833)
+translate ru PrisonPath1_96fcd361:
     # eula "Well, you heard the man, celldoors are gonna get locked in five minutes."
     eula ""
 
-# PrisonPath1_220d9737 (line 61834)
-translate ru PrisonPath1_220d9737:
+# PrisonPath1_f927a11d (line 61834)
+translate ru PrisonPath1_f927a11d:
     # s "When do they open again?"
     s ""
 
-# PrisonPath1_a31c16cf (line 61835)
-translate ru PrisonPath1_a31c16cf:
+# PrisonPath1_93d75e2e (line 61835)
+translate ru PrisonPath1_93d75e2e:
     # "Eula shrugged."
     ""
 
-# PrisonPath1_e852475b (line 61836)
-translate ru PrisonPath1_e852475b:
+# PrisonPath1_52a6f8a3 (line 61836)
+translate ru PrisonPath1_52a6f8a3:
     # eula "Early next morning, about breakfast time."
     eula ""
 
-# PrisonPath1_02f9f207 (line 61837)
-translate ru PrisonPath1_02f9f207:
+# PrisonPath1_21c9392d (line 61837)
+translate ru PrisonPath1_21c9392d:
     # eula "Not much light here, so time can get a bit weird, but you catch on after a while."
     eula ""
 
-# PrisonPath1_86e93f0c (line 61838)
-translate ru PrisonPath1_86e93f0c:
+# PrisonPath1_ff260af4 (line 61838)
+translate ru PrisonPath1_ff260af4:
     # "Before long, Sarah heard the sound of the metal door to their cell being locked."
     ""
 
-# PrisonPath1_8dd4ffe1 (line 61839)
-translate ru PrisonPath1_8dd4ffe1:
+# PrisonPath1_2ceb9476 (line 61839)
+translate ru PrisonPath1_2ceb9476:
     # "Suddenly, this small room and Eula became her entire world."
     ""
 
-# PrisonPath1_c93acd8d (line 61840)
-translate ru PrisonPath1_c93acd8d:
+# PrisonPath1_f1d96f9e (line 61840)
+translate ru PrisonPath1_f1d96f9e:
     # eula "I'll walk you around the block tomorrow, show you all the spots, let you know whose cool and who to avoid."
     eula ""
 
-# PrisonPath1_d9d2ad98 (line 61841)
-translate ru PrisonPath1_d9d2ad98:
+# PrisonPath1_df02a2a9 (line 61841)
+translate ru PrisonPath1_df02a2a9:
     # "Sarah smiled at Eula."
     ""
 
-# PrisonPath1_729aa658 (line 61842)
-translate ru PrisonPath1_729aa658:
+# PrisonPath1_54b887e4 (line 61842)
+translate ru PrisonPath1_54b887e4:
     # s "Thank you, Eula. You're maybe the one nice person I've met today."
     s ""
 
-# PrisonPath1_ee9f9b47 (line 61843)
-translate ru PrisonPath1_ee9f9b47:
+# PrisonPath1_445a039b (line 61843)
+translate ru PrisonPath1_445a039b:
     # "Eula shrugged."
     ""
 
-# PrisonPath1_62775abf (line 61844)
-translate ru PrisonPath1_62775abf:
+# PrisonPath1_a37789fb (line 61844)
+translate ru PrisonPath1_a37789fb:
     # eula "I was a newbie once and someone taught me, only fair that I return the favor."
     eula ""
 
-# PrisonPath1_87b45b57 (line 61845)
-translate ru PrisonPath1_87b45b57:
+# PrisonPath1_b2113617 (line 61845)
+translate ru PrisonPath1_b2113617:
     # eula "Now go ahead, lay down. You should try to get some rest."
     eula ""
 
-# PrisonPath1_8df0d8e4 (line 61846)
-translate ru PrisonPath1_8df0d8e4:
+# PrisonPath1_55367085 (line 61846)
+translate ru PrisonPath1_55367085:
     # "Sarah laid down on her bed, or what had to pass for one."
     ""
 
-# PrisonPath1_0df87899 (line 61847)
-translate ru PrisonPath1_0df87899:
+# PrisonPath1_6c48362c (line 61847)
+translate ru PrisonPath1_6c48362c:
     # "The hay was a soft comfort from the hard stone, and the rag that served as a cover was almost worse than no cover at all."
     ""
 
-# PrisonPath1_1e6d7a68 (line 61848)
-translate ru PrisonPath1_1e6d7a68:
+# PrisonPath1_d57d3858 (line 61848)
+translate ru PrisonPath1_d57d3858:
     # "Staring up at the ceiling, Sarah tried to get some sleep, but her mind was racing."
     ""
 
-# PrisonPath1_adb20ed7 (line 61849)
-translate ru PrisonPath1_adb20ed7:
+# PrisonPath1_38a3239c (line 61849)
+translate ru PrisonPath1_38a3239c:
     # "This new place, these new people."
     ""
 
-# PrisonPath1_7a8fbb6c (line 61850)
-translate ru PrisonPath1_7a8fbb6c:
+# PrisonPath1_b851f212 (line 61850)
+translate ru PrisonPath1_b851f212:
     # "She thought of ways to get out, ways to survive in here. No matter what it was, her mind kept going round and round."
     ""
 
-# PrisonPath1_5eab8d15 (line 61851)
-translate ru PrisonPath1_5eab8d15:
+# PrisonPath1_51ae361b (line 61851)
+translate ru PrisonPath1_51ae361b:
     # "After a while, she heard Eula."
     ""
 
-# PrisonPath1_5b33c9aa (line 61852)
-translate ru PrisonPath1_5b33c9aa:
+# PrisonPath1_158a7a54 (line 61852)
+translate ru PrisonPath1_158a7a54:
     # eula "You ain't gettin no sleep, huh?"
     eula ""
 
-# PrisonPath1_f15d7f90 (line 61853)
-translate ru PrisonPath1_f15d7f90:
+# PrisonPath1_65f07493 (line 61853)
+translate ru PrisonPath1_65f07493:
     # s "No, not really. Sorry about that."
     s ""
 
-# PrisonPath1_cab03de5 (line 61854)
-translate ru PrisonPath1_cab03de5:
+# PrisonPath1_3ab30e61 (line 61854)
+translate ru PrisonPath1_3ab30e61:
     # eula "It's fine. First day's are always rough."
     eula ""
 
-# PrisonPath1_c00af791 (line 61855)
-translate ru PrisonPath1_c00af791:
+# PrisonPath1_47df19eb (line 61855)
+translate ru PrisonPath1_47df19eb:
     # s "I just keep thinking about this place and how I'm going to make it through."
     s ""
 
-# PrisonPath1_8a4fb1f1 (line 61856)
-translate ru PrisonPath1_8a4fb1f1:
+# PrisonPath1_e2dc7e23 (line 61856)
+translate ru PrisonPath1_e2dc7e23:
     # "She saw Eula sit up."
     ""
 
-# PrisonPath1_0703f222 (line 61857)
-translate ru PrisonPath1_0703f222:
+# PrisonPath1_fe5e7db0 (line 61857)
+translate ru PrisonPath1_fe5e7db0:
     # eula "Look, newbie, I'm just gonna be real with you."
     eula ""
 
-# PrisonPath1_4f373147 (line 61858)
-translate ru PrisonPath1_4f373147:
+# PrisonPath1_04fa6f4e (line 61858)
+translate ru PrisonPath1_04fa6f4e:
     # eula "You're a looker. That means people are gonna mess with you, one way or another."
     eula ""
 
-# PrisonPath1_132d2718 (line 61859)
-translate ru PrisonPath1_132d2718:
+# PrisonPath1_751b9a88 (line 61859)
+translate ru PrisonPath1_751b9a88:
     # s "What do you mean?"
     s ""
 
-# PrisonPath1_f4711c7f (line 61860)
-translate ru PrisonPath1_f4711c7f:
+# PrisonPath1_d491aaa5 (line 61860)
+translate ru PrisonPath1_d491aaa5:
     # eula "Don't act like a moron, that ain't gonna do you any good. You know you're pretty, right?"
     eula ""
 
-# PrisonPath1_cd91ddd3 (line 61861)
-translate ru PrisonPath1_cd91ddd3:
+# PrisonPath1_13ab2761 (line 61861)
+translate ru PrisonPath1_13ab2761:
     # "Sarah nodded. It sounded vain, but she wasn't unaware of it."
     ""
 
-# PrisonPath1_3ea38387 (line 61862)
-translate ru PrisonPath1_3ea38387:
+# PrisonPath1_f9888bed (line 61862)
+translate ru PrisonPath1_f9888bed:
     # eula "Well, lotta girls in here get lonely, and they don't mind who helps em solve that loneliness."
     eula ""
 
-# PrisonPath1_ef67bf04 (line 61863)
-translate ru PrisonPath1_ef67bf04:
+# PrisonPath1_b9bcfce9 (line 61863)
+translate ru PrisonPath1_b9bcfce9:
     # eula "And they also don't mind putting a little convincing behind it."
     eula ""
 
-# PrisonPath1_35c6a773 (line 61864)
-translate ru PrisonPath1_35c6a773:
+# PrisonPath1_765a8abe (line 61864)
+translate ru PrisonPath1_765a8abe:
     # eula "Guys too, most of the guards here have fucked a girl sooner or later."
     eula ""
 
-# PrisonPath1_2348cd82 (line 61865)
-translate ru PrisonPath1_2348cd82:
+# PrisonPath1_682a4a67 (line 61865)
+translate ru PrisonPath1_682a4a67:
     # "Eula leaned over."
     ""
 
-# PrisonPath1_79b5938b (line 61866)
-translate ru PrisonPath1_79b5938b:
+# PrisonPath1_e1e9a065 (line 61866)
+translate ru PrisonPath1_e1e9a065:
     # eula "You ever been fucked by a girl before?"
     eula ""
 
-# PrisonPath1_76aac54d (line 61867)
-translate ru PrisonPath1_76aac54d:
+# PrisonPath1_13abc167 (line 61867)
+translate ru PrisonPath1_13abc167:
     # "The question was shockingly forward, but in this world, Sarah realized protocol didn't mean much."
     ""
 
-# PrisonPath1_586bd2d3 (line 61881)
-translate ru PrisonPath1_586bd2d3:
+# PrisonPath1_90572eaa (line 61881)
+translate ru PrisonPath1_90572eaa:
     # "Eula peered out through the cell door, then turned back to Sarah."
     ""
 
-# PrisonPath1_f4984c4f (line 61882)
-translate ru PrisonPath1_f4984c4f:
+# PrisonPath1_a933c3fd (line 61882)
+translate ru PrisonPath1_a933c3fd:
     # eula "You know, it's just gonna be easier for you if you face up to reality."
     eula ""
 
-# PrisonPath1_09d30a81 (line 61883)
-translate ru PrisonPath1_09d30a81:
+# PrisonPath1_1153cb20 (line 61883)
+translate ru PrisonPath1_1153cb20:
     # eula "A girl like you ain't gettin through here without givin it up at least a few times."
     eula ""
 
-# PrisonPath1_a6cac06e (line 61884)
-translate ru PrisonPath1_a6cac06e:
+# PrisonPath1_ee0db06f (line 61884)
+translate ru PrisonPath1_ee0db06f:
     # eula "You just ain't hard enough or clever enough to avoid that."
     eula ""
 
-# PrisonPath1_0f31047a (line 61885)
-translate ru PrisonPath1_0f31047a:
+# PrisonPath1_b83f4b0d (line 61885)
+translate ru PrisonPath1_b83f4b0d:
     # "Eula sighed."
     ""
 
-# PrisonPath1_c8d425ea (line 61886)
-translate ru PrisonPath1_c8d425ea:
+# PrisonPath1_fa8c70ed (line 61886)
+translate ru PrisonPath1_fa8c70ed:
     # eula "But best I can do is ease you into it."
     eula ""
 
-# PrisonPath1_bcfdae1c (line 61887)
-translate ru PrisonPath1_bcfdae1c:
+# PrisonPath1_9f3bed7e (line 61887)
+translate ru PrisonPath1_9f3bed7e:
     # "Sarah looked at Eula and could feel her heart begin to beat faster."
     ""
 
-# PrisonPath1_15c6864e (line 61888)
-translate ru PrisonPath1_15c6864e:
+# PrisonPath1_6b4c3aa1 (line 61888)
+translate ru PrisonPath1_6b4c3aa1:
     # eula "How about you come over here and eat me out?"
     eula ""
 
-# PrisonPath1_be343881 (line 61889)
-translate ru PrisonPath1_be343881:
+# PrisonPath1_f9600a79 (line 61889)
+translate ru PrisonPath1_f9600a79:
     # "Sarah watched as Eula leaned back and began to fumble with her pants."
     ""
 
-# PrisonPath1_db02116a (line 61892)
-translate ru PrisonPath1_db02116a:
+# PrisonPath1_62cc2496 (line 61892)
+translate ru PrisonPath1_62cc2496:
     # "Have sex with Eula"
     "Have sex with Eula" ""
 
-# PrisonPath1_de1035a9 (line 61959)
-translate ru PrisonPath1_de1035a9:
+# PrisonPath1_fe8b2249 (line 61959)
+translate ru PrisonPath1_fe8b2249:
     # "Refuse to have sex with Eula"
     "Refuse to have sex with Eula" ""
 

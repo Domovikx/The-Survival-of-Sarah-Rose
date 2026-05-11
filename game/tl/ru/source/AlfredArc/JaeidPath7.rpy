@@ -3,13 +3,13 @@
 # Scene: JaeidPath7
 # Total blocks: 2
 
-# JaeidPath7_0789193a (line 22269)
-translate ru JaeidPath7_0789193a:
+# JaeidPath7_37a79be3 (line 22269)
+translate ru JaeidPath7_37a79be3:
     # "Sarah woke early that morning to the first beams of light."
     ""
 
-# JaeidPath7_842a99e9 (line 22276)
-translate ru JaeidPath7_842a99e9:
+# JaeidPath7_5093e240 (line 22276)
+translate ru JaeidPath7_5093e240:
     # "For now, this is where the story ends."
     ""
 

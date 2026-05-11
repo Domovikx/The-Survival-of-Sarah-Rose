@@ -3,978 +3,978 @@
 # Scene: TheBlackMonolithWarrior5
 # Total blocks: 195
 
-# TheBlackMonolithWarrior5_49cfb2ca (line 47632)
-translate ru TheBlackMonolithWarrior5_49cfb2ca:
+# TheBlackMonolithWarrior5_b26b6597 (line 47632)
+translate ru TheBlackMonolithWarrior5_b26b6597:
     # "Sarah was idling for a moment, relaxing in the shade of the tent."
     ""
 
-# TheBlackMonolithWarrior5_f56b89ca (line 47633)
-translate ru TheBlackMonolithWarrior5_f56b89ca:
+# TheBlackMonolithWarrior5_3b488651 (line 47633)
+translate ru TheBlackMonolithWarrior5_3b488651:
     # "Outside, there was always one thing or another to harass her. If not the endless work, then the unrelenting elements."
     ""
 
-# TheBlackMonolithWarrior5_e38a58da (line 47634)
-translate ru TheBlackMonolithWarrior5_e38a58da:
+# TheBlackMonolithWarrior5_dda78079 (line 47634)
+translate ru TheBlackMonolithWarrior5_dda78079:
     # "Carolyn's tent, if anything, was a moment of respite."
     ""
 
-# TheBlackMonolithWarrior5_eb5aa692 (line 47635)
-translate ru TheBlackMonolithWarrior5_eb5aa692:
+# TheBlackMonolithWarrior5_64e8ef3c (line 47635)
+translate ru TheBlackMonolithWarrior5_64e8ef3c:
     # "Still, Sarah could never allow herself to fully relax here either."
     ""
 
-# TheBlackMonolithWarrior5_f90e65f6 (line 47636)
-translate ru TheBlackMonolithWarrior5_f90e65f6:
+# TheBlackMonolithWarrior5_443b7e49 (line 47636)
+translate ru TheBlackMonolithWarrior5_443b7e49:
     # "She could see Carolyn observing her from the corner of her eyes."
     ""
 
-# TheBlackMonolithWarrior5_c85a7203 (line 47637)
-translate ru TheBlackMonolithWarrior5_c85a7203:
+# TheBlackMonolithWarrior5_f4e1532d (line 47637)
+translate ru TheBlackMonolithWarrior5_f4e1532d:
     # c "I heard you had a little trouble yesterday?"
     c ""
 
-# TheBlackMonolithWarrior5_6e867366 (line 47638)
-translate ru TheBlackMonolithWarrior5_6e867366:
+# TheBlackMonolithWarrior5_70efb710 (line 47638)
+translate ru TheBlackMonolithWarrior5_70efb710:
     # s "Ooh, at the dig site?"
     s ""
 
-# TheBlackMonolithWarrior5_73a5bc7c (line 47639)
-translate ru TheBlackMonolithWarrior5_73a5bc7c:
+# TheBlackMonolithWarrior5_e5550942 (line 47639)
+translate ru TheBlackMonolithWarrior5_e5550942:
     # c "I had told them the constructions were poor. They clearly didn't listen."
     c ""
 
-# TheBlackMonolithWarrior5_8aa04a5e (line 47640)
-translate ru TheBlackMonolithWarrior5_8aa04a5e:
+# TheBlackMonolithWarrior5_c2364cd1 (line 47640)
+translate ru TheBlackMonolithWarrior5_c2364cd1:
     # c "Perhaps a whipping or two, to set an example."
     c ""
 
-# TheBlackMonolithWarrior5_64bdc393 (line 47641)
-translate ru TheBlackMonolithWarrior5_64bdc393:
+# TheBlackMonolithWarrior5_7233c1d6 (line 47641)
+translate ru TheBlackMonolithWarrior5_7233c1d6:
     # "Sarah shrugged."
     ""
 
-# TheBlackMonolithWarrior5_72991305 (line 47642)
-translate ru TheBlackMonolithWarrior5_72991305:
+# TheBlackMonolithWarrior5_e70506d7 (line 47642)
+translate ru TheBlackMonolithWarrior5_e70506d7:
     # s "No need. I survived."
     s ""
 
-# TheBlackMonolithWarrior5_2636a76e (line 47643)
-translate ru TheBlackMonolithWarrior5_2636a76e:
+# TheBlackMonolithWarrior5_45553593 (line 47643)
+translate ru TheBlackMonolithWarrior5_45553593:
     # c "And thank the Gods you did. If our entire plan had been ruined because of lazy scaffolding, I might very well have gone insane."
     c ""
 
-# TheBlackMonolithWarrior5_ad832c91 (line 47644)
-translate ru TheBlackMonolithWarrior5_ad832c91:
+# TheBlackMonolithWarrior5_8c068131 (line 47644)
+translate ru TheBlackMonolithWarrior5_8c068131:
     # "Sarah laughed."
     ""
 
-# TheBlackMonolithWarrior5_0cee5312 (line 47645)
-translate ru TheBlackMonolithWarrior5_0cee5312:
+# TheBlackMonolithWarrior5_35d15536 (line 47645)
+translate ru TheBlackMonolithWarrior5_35d15536:
     # s "I suspect you would adapt, regardless of the circumstances."
     s ""
 
-# TheBlackMonolithWarrior5_4cf1ae4f (line 47646)
-translate ru TheBlackMonolithWarrior5_4cf1ae4f:
+# TheBlackMonolithWarrior5_d4c49211 (line 47646)
+translate ru TheBlackMonolithWarrior5_d4c49211:
     # "It was part compliment, part insult."
     ""
 
-# TheBlackMonolithWarrior5_8ffb2b28 (line 47647)
-translate ru TheBlackMonolithWarrior5_8ffb2b28:
+# TheBlackMonolithWarrior5_30b4c92e (line 47647)
+translate ru TheBlackMonolithWarrior5_30b4c92e:
     # "Lady Carolyn smiled, taking it as the former."
     ""
 
-# TheBlackMonolithWarrior5_692d1c05 (line 47648)
-translate ru TheBlackMonolithWarrior5_692d1c05:
+# TheBlackMonolithWarrior5_bd749d51 (line 47648)
+translate ru TheBlackMonolithWarrior5_bd749d51:
     # c "Regardless, we won't be here much longer. Most of the reports I've received are suggesting that the work is nearing its end."
     c ""
 
-# TheBlackMonolithWarrior5_bfa078f5 (line 47649)
-translate ru TheBlackMonolithWarrior5_bfa078f5:
+# TheBlackMonolithWarrior5_2cd37108 (line 47649)
+translate ru TheBlackMonolithWarrior5_2cd37108:
     # "Sarah wondered if she should tell Carolyn of her encounter with the spirit."
     ""
 
-# TheBlackMonolithWarrior5_9316f01c (line 47650)
-translate ru TheBlackMonolithWarrior5_9316f01c:
+# TheBlackMonolithWarrior5_f56d9c0c (line 47650)
+translate ru TheBlackMonolithWarrior5_f56d9c0c:
     # "She quickly banished the thought. She had enough worries about Lady Carolyn's loyalties as it was, she didn't need to tell her more than she had to know."
     ""
 
-# TheBlackMonolithWarrior5_bcf1d7c6 (line 47651)
-translate ru TheBlackMonolithWarrior5_bcf1d7c6:
+# TheBlackMonolithWarrior5_68c78246 (line 47651)
+translate ru TheBlackMonolithWarrior5_68c78246:
     # "Besides, Sarah hardly knew what to make of it herself yet."
     ""
 
-# TheBlackMonolithWarrior5_98cf57cb (line 47652)
-translate ru TheBlackMonolithWarrior5_98cf57cb:
+# TheBlackMonolithWarrior5_463d40ae (line 47652)
+translate ru TheBlackMonolithWarrior5_463d40ae:
     # s "Do you have an estimate?"
     s ""
 
-# TheBlackMonolithWarrior5_88dbfc78 (line 47653)
-translate ru TheBlackMonolithWarrior5_88dbfc78:
+# TheBlackMonolithWarrior5_13d17cae (line 47653)
+translate ru TheBlackMonolithWarrior5_13d17cae:
     # c "Maybe a week to wrap up the last excavations."
     c ""
 
-# TheBlackMonolithWarrior5_ba27dc68 (line 47654)
-translate ru TheBlackMonolithWarrior5_ba27dc68:
+# TheBlackMonolithWarrior5_76961b1b (line 47654)
+translate ru TheBlackMonolithWarrior5_76961b1b:
     # c "One of the archeologists is sure there are more rooms beneath the earth that they've not yet uncovered, but the others are content with what we uncoverd so far."
     c ""
 
-# TheBlackMonolithWarrior5_e2dd77f7 (line 47655)
-translate ru TheBlackMonolithWarrior5_e2dd77f7:
+# TheBlackMonolithWarrior5_40bea4ee (line 47655)
+translate ru TheBlackMonolithWarrior5_40bea4ee:
     # "She chuckled to herself."
     ""
 
-# TheBlackMonolithWarrior5_f6a8c684 (line 47656)
-translate ru TheBlackMonolithWarrior5_f6a8c684:
+# TheBlackMonolithWarrior5_b82dc132 (line 47656)
+translate ru TheBlackMonolithWarrior5_b82dc132:
     # c "If you were to let these people dig as much as they wanted, they'd never stop."
     c ""
 
-# TheBlackMonolithWarrior5_bdea81b1 (line 47657)
-translate ru TheBlackMonolithWarrior5_bdea81b1:
+# TheBlackMonolithWarrior5_dbb1112f (line 47657)
+translate ru TheBlackMonolithWarrior5_dbb1112f:
     # "Sarah watched as Carolyn casually examined some more documents."
     ""
 
-# TheBlackMonolithWarrior5_e0ccc341 (line 47658)
-translate ru TheBlackMonolithWarrior5_e0ccc341:
+# TheBlackMonolithWarrior5_ba03dd47 (line 47658)
+translate ru TheBlackMonolithWarrior5_ba03dd47:
     # c "A week to finish up, and then back to Rahayal. Possibly two months of travel in total, give or take."
     c ""
 
-# TheBlackMonolithWarrior5_7ce10ef0 (line 47659)
-translate ru TheBlackMonolithWarrior5_7ce10ef0:
+# TheBlackMonolithWarrior5_ab80bb77 (line 47659)
+translate ru TheBlackMonolithWarrior5_ab80bb77:
     # "Lady Carolyn stretched out her arms and released an exhausted sigh."
     ""
 
-# TheBlackMonolithWarrior5_82e964cc (line 47660)
-translate ru TheBlackMonolithWarrior5_82e964cc:
+# TheBlackMonolithWarrior5_de53b3aa (line 47660)
+translate ru TheBlackMonolithWarrior5_de53b3aa:
     # c "Honestly, I've been out on the road for too long. And now this town on the edge of the world..."
     c ""
 
-# TheBlackMonolithWarrior5_cf51e48e (line 47661)
-translate ru TheBlackMonolithWarrior5_cf51e48e:
+# TheBlackMonolithWarrior5_014c1b6d (line 47661)
+translate ru TheBlackMonolithWarrior5_014c1b6d:
     # c "It's been too long since I've slept under a proper roof. Had a proper bath."
     c ""
 
-# TheBlackMonolithWarrior5_1533ca89 (line 47662)
-translate ru TheBlackMonolithWarrior5_1533ca89:
+# TheBlackMonolithWarrior5_3e08418c (line 47662)
+translate ru TheBlackMonolithWarrior5_3e08418c:
     # s "Not one for living on the road?"
     s ""
 
-# TheBlackMonolithWarrior5_7cbf3d33 (line 47663)
-translate ru TheBlackMonolithWarrior5_7cbf3d33:
+# TheBlackMonolithWarrior5_fb57efb9 (line 47663)
+translate ru TheBlackMonolithWarrior5_fb57efb9:
     # "Lady Carolyn smiled, playfully."
     ""
 
-# TheBlackMonolithWarrior5_52301aa7 (line 47664)
-translate ru TheBlackMonolithWarrior5_52301aa7:
+# TheBlackMonolithWarrior5_ec741b95 (line 47664)
+translate ru TheBlackMonolithWarrior5_ec741b95:
     # c "I do what I have to, but I won't pretend I don't miss my villa in Rahayal."
     c ""
 
-# TheBlackMonolithWarrior5_5aab9500 (line 47665)
-translate ru TheBlackMonolithWarrior5_5aab9500:
+# TheBlackMonolithWarrior5_e7e51db9 (line 47665)
+translate ru TheBlackMonolithWarrior5_e7e51db9:
     # c "When we're there, I'll put you up in one of the guest rooms. We can strategize from there."
     c ""
 
-# TheBlackMonolithWarrior5_d5ec099b (line 47666)
-translate ru TheBlackMonolithWarrior5_d5ec099b:
+# TheBlackMonolithWarrior5_c4d1e68a (line 47666)
+translate ru TheBlackMonolithWarrior5_c4d1e68a:
     # s "What is there to strategize?"
     s ""
 
-# TheBlackMonolithWarrior5_96b95914 (line 47667)
-translate ru TheBlackMonolithWarrior5_96b95914:
+# TheBlackMonolithWarrior5_b44f3ce9 (line 47667)
+translate ru TheBlackMonolithWarrior5_b44f3ce9:
     # c "Gilead will want to offer you his legions, but he'll try to extract a price from you."
     c ""
 
-# TheBlackMonolithWarrior5_f11b4231 (line 47668)
-translate ru TheBlackMonolithWarrior5_f11b4231:
+# TheBlackMonolithWarrior5_58995934 (line 47668)
+translate ru TheBlackMonolithWarrior5_58995934:
     # c "We should want his armies, but we shouldn't sell our hides for too much, lest you end up with a nation in name only."
     c ""
 
-# TheBlackMonolithWarrior5_0360f586 (line 47669)
-translate ru TheBlackMonolithWarrior5_0360f586:
+# TheBlackMonolithWarrior5_271d750c (line 47669)
+translate ru TheBlackMonolithWarrior5_271d750c:
     # "Sarah realized that Lady Carolyn had considered the same dangers she had herself been occupied with."
     ""
 
-# TheBlackMonolithWarrior5_bea5fcc8 (line 47670)
-translate ru TheBlackMonolithWarrior5_bea5fcc8:
+# TheBlackMonolithWarrior5_9b9deabe (line 47670)
+translate ru TheBlackMonolithWarrior5_9b9deabe:
     # c "The key would be to strike a balance. Keep him happy, keep you happy."
     c ""
 
-# TheBlackMonolithWarrior5_a88731c1 (line 47671)
-translate ru TheBlackMonolithWarrior5_a88731c1:
+# TheBlackMonolithWarrior5_45c5499a (line 47671)
+translate ru TheBlackMonolithWarrior5_45c5499a:
     # s "And whose going to keep you happy?"
     s ""
 
-# TheBlackMonolithWarrior5_212b97a5 (line 47672)
-translate ru TheBlackMonolithWarrior5_212b97a5:
+# TheBlackMonolithWarrior5_191ce049 (line 47672)
+translate ru TheBlackMonolithWarrior5_191ce049:
     # "Carolyn laughed."
     ""
 
-# TheBlackMonolithWarrior5_ae187270 (line 47673)
-translate ru TheBlackMonolithWarrior5_ae187270:
+# TheBlackMonolithWarrior5_c76b7f6b (line 47673)
+translate ru TheBlackMonolithWarrior5_c76b7f6b:
     # c "Ooh Sarah, you've become so many times more entertaining then when I last saw you."
     c ""
 
-# TheBlackMonolithWarrior5_cdbfb2b4 (line 47674)
-translate ru TheBlackMonolithWarrior5_cdbfb2b4:
+# TheBlackMonolithWarrior5_1bc9baad (line 47674)
+translate ru TheBlackMonolithWarrior5_1bc9baad:
     # c "But I'll be happy just to see your family returned to the throne."
     c ""
 
-# TheBlackMonolithWarrior5_d3f935d4 (line 47675)
-translate ru TheBlackMonolithWarrior5_d3f935d4:
+# TheBlackMonolithWarrior5_9cee99b5 (line 47675)
+translate ru TheBlackMonolithWarrior5_9cee99b5:
     # c "I have little sympathy for the Mythrans, and even less so for the savages that hold it now."
     c ""
 
-# TheBlackMonolithWarrior5_0ab2c157 (line 47676)
-translate ru TheBlackMonolithWarrior5_0ab2c157:
+# TheBlackMonolithWarrior5_aac7365a (line 47676)
+translate ru TheBlackMonolithWarrior5_aac7365a:
     # "A true patriot. That's either what she was or was pretending to be. Sarah still struggled to decide which was which."
     ""
 
-# TheBlackMonolithWarrior5_3ecf42d4 (line 47677)
-translate ru TheBlackMonolithWarrior5_3ecf42d4:
+# TheBlackMonolithWarrior5_78e0a93d (line 47677)
+translate ru TheBlackMonolithWarrior5_78e0a93d:
     # c "Tell me, will that fellow be a problem?"
     c ""
 
-# TheBlackMonolithWarrior5_36c52d86 (line 47678)
-translate ru TheBlackMonolithWarrior5_36c52d86:
+# TheBlackMonolithWarrior5_50394656 (line 47678)
+translate ru TheBlackMonolithWarrior5_50394656:
     # "Sarah had an idea who she was talking about."
     ""
 
-# TheBlackMonolithWarrior5_5411b318 (line 47679)
-translate ru TheBlackMonolithWarrior5_5411b318:
+# TheBlackMonolithWarrior5_32837558 (line 47679)
+translate ru TheBlackMonolithWarrior5_32837558:
     # s "You mean Vaelen?"
     s ""
 
-# TheBlackMonolithWarrior5_b81cb1fd (line 47680)
-translate ru TheBlackMonolithWarrior5_b81cb1fd:
+# TheBlackMonolithWarrior5_3896a7f8 (line 47680)
+translate ru TheBlackMonolithWarrior5_3896a7f8:
     # c "Exactly. It would be better if you could appear in Rahayal with a show of force. Your own soldiers."
     c ""
 
-# TheBlackMonolithWarrior5_1984b43d (line 47681)
-translate ru TheBlackMonolithWarrior5_1984b43d:
+# TheBlackMonolithWarrior5_81d0d965 (line 47681)
+translate ru TheBlackMonolithWarrior5_81d0d965:
     # "Sarah knew that as true, but she also knew they were not her soldiers at all."
     ""
 
-# TheBlackMonolithWarrior5_07c687ae (line 47682)
-translate ru TheBlackMonolithWarrior5_07c687ae:
+# TheBlackMonolithWarrior5_f0c1a6fd (line 47682)
+translate ru TheBlackMonolithWarrior5_f0c1a6fd:
     # s "It's his mercenary company...I'll ask him, but I'm not so sure. He's been odd as of late."
     s ""
 
-# TheBlackMonolithWarrior5_df0ad02c (line 47683)
-translate ru TheBlackMonolithWarrior5_df0ad02c:
+# TheBlackMonolithWarrior5_ab10e1c3 (line 47683)
+translate ru TheBlackMonolithWarrior5_ab10e1c3:
     # "Lady Carolyn tapped her fingers on the surface of her desk."
     ""
 
-# TheBlackMonolithWarrior5_2a31b38b (line 47684)
-translate ru TheBlackMonolithWarrior5_2a31b38b:
+# TheBlackMonolithWarrior5_a67c6a44 (line 47684)
+translate ru TheBlackMonolithWarrior5_a67c6a44:
     # c "Well, see about clearing that up. One way or another."
     c ""
 
-# TheBlackMonolithWarrior5_457dd0c1 (line 47685)
-translate ru TheBlackMonolithWarrior5_457dd0c1:
+# TheBlackMonolithWarrior5_ef1c4447 (line 47685)
+translate ru TheBlackMonolithWarrior5_ef1c4447:
     # c "I can deal with goods news and bad news. I can't stand unclear news."
     c ""
 
-# TheBlackMonolithWarrior5_477ed5be (line 47686)
-translate ru TheBlackMonolithWarrior5_477ed5be:
+# TheBlackMonolithWarrior5_5d6b60ad (line 47686)
+translate ru TheBlackMonolithWarrior5_5d6b60ad:
     # "Suddenly, a new voice ran out through the tent."
     ""
 
-# TheBlackMonolithWarrior5_388ea8f0 (line 47687)
-translate ru TheBlackMonolithWarrior5_388ea8f0:
+# TheBlackMonolithWarrior5_97af3598 (line 47687)
+translate ru TheBlackMonolithWarrior5_97af3598:
     # "Servant" "My lady, the bath is ready."
     ""
 
-# TheBlackMonolithWarrior5_633f6515 (line 47688)
-translate ru TheBlackMonolithWarrior5_633f6515:
+# TheBlackMonolithWarrior5_a70e2992 (line 47688)
+translate ru TheBlackMonolithWarrior5_a70e2992:
     # c "Thank you, that will be all."
     c ""
 
-# TheBlackMonolithWarrior5_b5f792c9 (line 47689)
-translate ru TheBlackMonolithWarrior5_b5f792c9:
+# TheBlackMonolithWarrior5_98933c63 (line 47689)
+translate ru TheBlackMonolithWarrior5_98933c63:
     # "Lady Carolyn casually waved her hand and dismissed the servant who had not even dared to step inside."
     ""
 
-# TheBlackMonolithWarrior5_f5cc1c34 (line 47690)
-translate ru TheBlackMonolithWarrior5_f5cc1c34:
+# TheBlackMonolithWarrior5_6169a585 (line 47690)
+translate ru TheBlackMonolithWarrior5_6169a585:
     # s "A bath? In this place?"
     s ""
 
-# TheBlackMonolithWarrior5_4b61342f (line 47691)
-translate ru TheBlackMonolithWarrior5_4b61342f:
+# TheBlackMonolithWarrior5_efd0ff42 (line 47691)
+translate ru TheBlackMonolithWarrior5_efd0ff42:
     # "Carolyn smiled."
     ""
 
-# TheBlackMonolithWarrior5_d12248cd (line 47692)
-translate ru TheBlackMonolithWarrior5_d12248cd:
+# TheBlackMonolithWarrior5_57a4d9a5 (line 47692)
+translate ru TheBlackMonolithWarrior5_57a4d9a5:
     # c "It's a pain, really."
     c ""
 
-# TheBlackMonolithWarrior5_acfad78e (line 47693)
-translate ru TheBlackMonolithWarrior5_acfad78e:
+# TheBlackMonolithWarrior5_5868927a (line 47693)
+translate ru TheBlackMonolithWarrior5_5868927a:
     # c "Even gathering enough water, having it heated, I'll be honest it's an extravagent thing in a place like this."
     c ""
 
-# TheBlackMonolithWarrior5_9a9ceb02 (line 47694)
-translate ru TheBlackMonolithWarrior5_9a9ceb02:
+# TheBlackMonolithWarrior5_75898202 (line 47694)
+translate ru TheBlackMonolithWarrior5_75898202:
     # c "And even with all that effort, it's still a poor imitation of home, but what can I say?"
     c ""
 
-# TheBlackMonolithWarrior5_4530423f (line 47695)
-translate ru TheBlackMonolithWarrior5_4530423f:
+# TheBlackMonolithWarrior5_b5347cb6 (line 47695)
+translate ru TheBlackMonolithWarrior5_b5347cb6:
     # c "One can't go too long without some basic comforts."
     c ""
 
-# TheBlackMonolithWarrior5_63c451de (line 47696)
-translate ru TheBlackMonolithWarrior5_63c451de:
+# TheBlackMonolithWarrior5_b1b515f9 (line 47696)
+translate ru TheBlackMonolithWarrior5_b1b515f9:
     # "There was nothing basic about transporting and preparing a bath, out here, on the edge of the world."
     ""
 
-# TheBlackMonolithWarrior5_0e0e697d (line 47697)
-translate ru TheBlackMonolithWarrior5_0e0e697d:
+# TheBlackMonolithWarrior5_94df1309 (line 47697)
+translate ru TheBlackMonolithWarrior5_94df1309:
     # "Lady Carolyn suddenly stood up."
     ""
 
-# TheBlackMonolithWarrior5_5d29ab77 (line 47704)
-translate ru TheBlackMonolithWarrior5_5d29ab77:
+# TheBlackMonolithWarrior5_b7959ebb (line 47704)
+translate ru TheBlackMonolithWarrior5_b7959ebb:
     # "Her hands swiftly moved past her body and her dress came undone."
     ""
 
-# TheBlackMonolithWarrior5_0e8eb280 (line 47705)
-translate ru TheBlackMonolithWarrior5_0e8eb280:
+# TheBlackMonolithWarrior5_127c7e40 (line 47705)
+translate ru TheBlackMonolithWarrior5_127c7e40:
     # "Sarah, too stunned to look away at the sudden transformation, kept her eyes locked on Lady Carolyn."
     ""
 
-# TheBlackMonolithWarrior5_5c38017b (line 47706)
-translate ru TheBlackMonolithWarrior5_5c38017b:
+# TheBlackMonolithWarrior5_4b04f907 (line 47706)
+translate ru TheBlackMonolithWarrior5_4b04f907:
     # "Her body flowed perfectly, as if it had been hewed from marble."
     ""
 
-# TheBlackMonolithWarrior5_ebf270a1 (line 47707)
-translate ru TheBlackMonolithWarrior5_ebf270a1:
+# TheBlackMonolithWarrior5_d78ac2bb (line 47707)
+translate ru TheBlackMonolithWarrior5_d78ac2bb:
     # "Much like marble, her skin was a pale white that might have appeared sickly in any other, but in her only seemed to heighten her beauty."
     ""
 
-# TheBlackMonolithWarrior5_aeddb0c9 (line 47708)
-translate ru TheBlackMonolithWarrior5_aeddb0c9:
+# TheBlackMonolithWarrior5_dc92d015 (line 47708)
+translate ru TheBlackMonolithWarrior5_dc92d015:
     # "Her hair fell down past her shoulders, its deep black standing in sharp contrast with her skin."
     ""
 
-# TheBlackMonolithWarrior5_80c02d6d (line 47709)
-translate ru TheBlackMonolithWarrior5_80c02d6d:
+# TheBlackMonolithWarrior5_f942f8ff (line 47709)
+translate ru TheBlackMonolithWarrior5_f942f8ff:
     # c "Dear, you're staring."
     c ""
 
-# TheBlackMonolithWarrior5_55e7cdb6 (line 47710)
-translate ru TheBlackMonolithWarrior5_55e7cdb6:
+# TheBlackMonolithWarrior5_c840504e (line 47710)
+translate ru TheBlackMonolithWarrior5_c840504e:
     # s "I..."
     s ""
 
-# TheBlackMonolithWarrior5_8ce18d9b (line 47711)
-translate ru TheBlackMonolithWarrior5_8ce18d9b:
+# TheBlackMonolithWarrior5_c76030d6 (line 47711)
+translate ru TheBlackMonolithWarrior5_c76030d6:
     # s "I'm sorry."
     s ""
 
-# TheBlackMonolithWarrior5_b103aeab (line 47712)
-translate ru TheBlackMonolithWarrior5_b103aeab:
+# TheBlackMonolithWarrior5_67c9c4f8 (line 47712)
+translate ru TheBlackMonolithWarrior5_67c9c4f8:
     # "Sarah watched as Lady Carolyn only smiled at her."
     ""
 
-# TheBlackMonolithWarrior5_55a31e5d (line 47713)
-translate ru TheBlackMonolithWarrior5_55a31e5d:
+# TheBlackMonolithWarrior5_50768f8b (line 47713)
+translate ru TheBlackMonolithWarrior5_50768f8b:
     # "It was strange to Sarah. Lady Carolyn was the one who was standing entirely naked, and yet, Sarah was the one who felt embarassed."
     ""
 
-# TheBlackMonolithWarrior5_034570c3 (line 47714)
-translate ru TheBlackMonolithWarrior5_034570c3:
+# TheBlackMonolithWarrior5_b147bd3e (line 47714)
+translate ru TheBlackMonolithWarrior5_b147bd3e:
     # c "Come, the bath is big enough for the both of us, and I can see you're in need of one."
     c ""
 
-# TheBlackMonolithWarrior5_86ca8f96 (line 47715)
-translate ru TheBlackMonolithWarrior5_86ca8f96:
+# TheBlackMonolithWarrior5_6f5e70ee (line 47715)
+translate ru TheBlackMonolithWarrior5_6f5e70ee:
     # "Sarah could feel the grime of the desert on her body."
     ""
 
-# TheBlackMonolithWarrior5_08ecf11f (line 47716)
-translate ru TheBlackMonolithWarrior5_08ecf11f:
+# TheBlackMonolithWarrior5_4e12ca4e (line 47716)
+translate ru TheBlackMonolithWarrior5_4e12ca4e:
     # "How long had it been since she'd last had a proper bath? She could hardly recall."
     ""
 
-# TheBlackMonolithWarrior5_039a9580 (line 47719)
-translate ru TheBlackMonolithWarrior5_039a9580:
+# TheBlackMonolithWarrior5_8769ac68 (line 47719)
+translate ru TheBlackMonolithWarrior5_8769ac68:
     # "Join Carolyn in the bath"
     "Join Carolyn in the bath" ""
 
-# TheBlackMonolithWarrior5_d04e2608 (line 47910)
-translate ru TheBlackMonolithWarrior5_d04e2608:
+# TheBlackMonolithWarrior5_6bbfc349 (line 47910)
+translate ru TheBlackMonolithWarrior5_6bbfc349:
     # "Refuse"
     "Refuse" ""
 
-# TheBlackMonolithWarrior5_57120129 (line 47926)
-translate ru TheBlackMonolithWarrior5_57120129:
+# TheBlackMonolithWarrior5_a7334108 (line 47926)
+translate ru TheBlackMonolithWarrior5_a7334108:
     # "Stepping out of the tent, Sarah could feel the opressive desert heat again."
     ""
 
-# TheBlackMonolithWarrior5_30fab11f (line 47927)
-translate ru TheBlackMonolithWarrior5_30fab11f:
+# TheBlackMonolithWarrior5_0542eae3 (line 47927)
+translate ru TheBlackMonolithWarrior5_0542eae3:
     # "The air itself felt dry."
     ""
 
-# TheBlackMonolithWarrior5_e38573a7 (line 47928)
-translate ru TheBlackMonolithWarrior5_e38573a7:
+# TheBlackMonolithWarrior5_3fb53f15 (line 47928)
+translate ru TheBlackMonolithWarrior5_3fb53f15:
     # "Looking up, Sarah found not a single cloud in the sky. Only the sun."
     ""
 
-# TheBlackMonolithWarrior5_ad32c96c (line 47929)
-translate ru TheBlackMonolithWarrior5_ad32c96c:
+# TheBlackMonolithWarrior5_712b0478 (line 47929)
+translate ru TheBlackMonolithWarrior5_712b0478:
     # "As she lowered her head, she looked out across the city of Nauyziri."
     ""
 
-# TheBlackMonolithWarrior5_180bf17a (line 47930)
-translate ru TheBlackMonolithWarrior5_180bf17a:
+# TheBlackMonolithWarrior5_28bbbb46 (line 47930)
+translate ru TheBlackMonolithWarrior5_28bbbb46:
     # "Carolyn's tent was set atop a small hill, giving it a great vantage point across the city."
     ""
 
-# TheBlackMonolithWarrior5_2fe4f99f (line 47931)
-translate ru TheBlackMonolithWarrior5_2fe4f99f:
+# TheBlackMonolithWarrior5_5e1703d1 (line 47931)
+translate ru TheBlackMonolithWarrior5_5e1703d1:
     # "From up here, the ruin of it was clear."
     ""
 
-# TheBlackMonolithWarrior5_aad70364 (line 47932)
-translate ru TheBlackMonolithWarrior5_aad70364:
+# TheBlackMonolithWarrior5_206f74b7 (line 47932)
+translate ru TheBlackMonolithWarrior5_206f74b7:
     # "Watching the decay, Sarah couldn't help but feel a soft hint of sadness."
     ""
 
-# TheBlackMonolithWarrior5_faa32c52 (line 47933)
-translate ru TheBlackMonolithWarrior5_faa32c52:
+# TheBlackMonolithWarrior5_384ca658 (line 47933)
+translate ru TheBlackMonolithWarrior5_384ca658:
     # "She had never known this city before. Never known its people. And still, there was a kind of universal sadness in this place."
     ""
 
-# TheBlackMonolithWarrior5_f87a316b (line 47934)
-translate ru TheBlackMonolithWarrior5_f87a316b:
+# TheBlackMonolithWarrior5_872bee6a (line 47934)
+translate ru TheBlackMonolithWarrior5_872bee6a:
     # "Suddenly, Sarah felt her eyes drawn towards something in the distance."
     ""
 
-# TheBlackMonolithWarrior5_d070f5e6 (line 47935)
-translate ru TheBlackMonolithWarrior5_d070f5e6:
+# TheBlackMonolithWarrior5_74d1bd49 (line 47935)
+translate ru TheBlackMonolithWarrior5_74d1bd49:
     # "There, in the distance, was the city square atop which they had constructed their camp."
     ""
 
-# TheBlackMonolithWarrior5_995371c5 (line 47936)
-translate ru TheBlackMonolithWarrior5_995371c5:
+# TheBlackMonolithWarrior5_7aff9750 (line 47936)
+translate ru TheBlackMonolithWarrior5_7aff9750:
     # "For a moment, the business of it had seemed ordinary, but the more Sarah looked the more she saw that something was wrong."
     ""
 
-# TheBlackMonolithWarrior5_3114cdb1 (line 47937)
-translate ru TheBlackMonolithWarrior5_3114cdb1:
+# TheBlackMonolithWarrior5_0f064c90 (line 47937)
+translate ru TheBlackMonolithWarrior5_0f064c90:
     # "Dust, spiraled up from the square."
     ""
 
-# TheBlackMonolithWarrior5_c710529f (line 47938)
-translate ru TheBlackMonolithWarrior5_c710529f:
+# TheBlackMonolithWarrior5_7a179c63 (line 47938)
+translate ru TheBlackMonolithWarrior5_7a179c63:
     # "Many more people had gathered there than she would have expected for this time of day."
     ""
 
-# TheBlackMonolithWarrior5_5104c5e1 (line 47939)
-translate ru TheBlackMonolithWarrior5_5104c5e1:
+# TheBlackMonolithWarrior5_538176de (line 47939)
+translate ru TheBlackMonolithWarrior5_538176de:
     # "Something was wrong. She couldn't say what, but Sarah could feel it."
     ""
 
-# TheBlackMonolithWarrior5_1c43a9b3 (line 47943)
-translate ru TheBlackMonolithWarrior5_1c43a9b3:
+# TheBlackMonolithWarrior5_49ffb3a7 (line 47943)
+translate ru TheBlackMonolithWarrior5_49ffb3a7:
     # "Call upon Razaphel"
     "Call upon Razaphel" ""
 
-# TheBlackMonolithWarrior5_869d8d0f (line 47972)
-translate ru TheBlackMonolithWarrior5_869d8d0f:
+# TheBlackMonolithWarrior5_078e9fa5 (line 47972)
+translate ru TheBlackMonolithWarrior5_078e9fa5:
     # "Hold back the spirit"
     "Hold back the spirit" ""
 
-# TheBlackMonolithWarrior5_46189d31 (line 47977)
-translate ru TheBlackMonolithWarrior5_46189d31:
+# TheBlackMonolithWarrior5_75bd168e (line 47977)
+translate ru TheBlackMonolithWarrior5_75bd168e:
     # "She began to run towards the camp."
     ""
 
-# TheBlackMonolithWarrior5_fe1895cf (line 47984)
-translate ru TheBlackMonolithWarrior5_fe1895cf:
+# TheBlackMonolithWarrior5_7f399d54 (line 47984)
+translate ru TheBlackMonolithWarrior5_7f399d54:
     # "When she finally came upon the camp, Sarah saw that the crowd was even larger than she had thought."
     ""
 
-# TheBlackMonolithWarrior5_80d0d3a4 (line 47985)
-translate ru TheBlackMonolithWarrior5_80d0d3a4:
+# TheBlackMonolithWarrior5_4609ac68 (line 47985)
+translate ru TheBlackMonolithWarrior5_4609ac68:
     # "She had to wrestle her way through the masses of people."
     ""
 
-# TheBlackMonolithWarrior5_0575d3ae (line 47986)
-translate ru TheBlackMonolithWarrior5_0575d3ae:
+# TheBlackMonolithWarrior5_790bf13f (line 47986)
+translate ru TheBlackMonolithWarrior5_790bf13f:
     # "Cheers. Screams."
     ""
 
-# TheBlackMonolithWarrior5_ff04a96a (line 47987)
-translate ru TheBlackMonolithWarrior5_ff04a96a:
+# TheBlackMonolithWarrior5_c2e74e89 (line 47987)
+translate ru TheBlackMonolithWarrior5_c2e74e89:
     # "All were facing the same direction. Facing something."
     ""
 
-# TheBlackMonolithWarrior5_c27a93d6 (line 47988)
-translate ru TheBlackMonolithWarrior5_c27a93d6:
+# TheBlackMonolithWarrior5_f9789f51 (line 47988)
+translate ru TheBlackMonolithWarrior5_f9789f51:
     # "Sarah forced herself further through the mass of people."
     ""
 
-# TheBlackMonolithWarrior5_d9ed0db2 (line 47989)
-translate ru TheBlackMonolithWarrior5_d9ed0db2:
+# TheBlackMonolithWarrior5_dd5ba06a (line 47989)
+translate ru TheBlackMonolithWarrior5_dd5ba06a:
     # "Suddenly, the mass of bodies breaks apart and Sarah stumbles forward out to a clearing."
     ""
 
-# TheBlackMonolithWarrior5_efd46787 (line 47990)
-translate ru TheBlackMonolithWarrior5_efd46787:
+# TheBlackMonolithWarrior5_563e030c (line 47990)
+translate ru TheBlackMonolithWarrior5_563e030c:
     # "All around her, there are men and women. Yelling. Screaming."
     ""
 
-# TheBlackMonolithWarrior5_8ee531f3 (line 47991)
-translate ru TheBlackMonolithWarrior5_8ee531f3:
+# TheBlackMonolithWarrior5_167294c3 (line 47991)
+translate ru TheBlackMonolithWarrior5_167294c3:
     # "Their bodies form a writhing mass, a circle around a clear out center."
     ""
 
-# TheBlackMonolithWarrior5_7a36e223 (line 47992)
-translate ru TheBlackMonolithWarrior5_7a36e223:
+# TheBlackMonolithWarrior5_7fce5f71 (line 47992)
+translate ru TheBlackMonolithWarrior5_7fce5f71:
     # "In their eyes, a mad rage."
     ""
 
-# TheBlackMonolithWarrior5_d45c455f (line 47993)
-translate ru TheBlackMonolithWarrior5_d45c455f:
+# TheBlackMonolithWarrior5_0c73c246 (line 47993)
+translate ru TheBlackMonolithWarrior5_0c73c246:
     # "The movements, the chaos, the screaming voices pounding on her ears like a drum."
     ""
 
-# TheBlackMonolithWarrior5_09a0599e (line 47994)
-translate ru TheBlackMonolithWarrior5_09a0599e:
+# TheBlackMonolithWarrior5_0e123114 (line 47994)
+translate ru TheBlackMonolithWarrior5_0e123114:
     # "For a moment, she struggles to orient herself. Then she sees."
     ""
 
-# TheBlackMonolithWarrior5_aca26ebc (line 47995)
-translate ru TheBlackMonolithWarrior5_aca26ebc:
+# TheBlackMonolithWarrior5_b30da023 (line 47995)
+translate ru TheBlackMonolithWarrior5_b30da023:
     # "Standing in the center of the crowd, Gideon is down on his knees in front of Vaelen."
     ""
 
-# TheBlackMonolithWarrior5_60c59694 (line 48000)
-translate ru TheBlackMonolithWarrior5_60c59694:
+# TheBlackMonolithWarrior5_1be32dd1 (line 48000)
+translate ru TheBlackMonolithWarrior5_1be32dd1:
     # "Gideon's face is lowered down towards the earth."
     ""
 
-# TheBlackMonolithWarrior5_8ea29b47 (line 48001)
-translate ru TheBlackMonolithWarrior5_8ea29b47:
+# TheBlackMonolithWarrior5_3d2bbc43 (line 48001)
+translate ru TheBlackMonolithWarrior5_3d2bbc43:
     # "Vaelen's face is contorted with a maddened expression."
     ""
 
-# TheBlackMonolithWarrior5_d576e699 (line 48002)
-translate ru TheBlackMonolithWarrior5_d576e699:
+# TheBlackMonolithWarrior5_843b02ac (line 48002)
+translate ru TheBlackMonolithWarrior5_843b02ac:
     # "Suddenly, Sarah sees Kate coming up next to her."
     ""
 
-# TheBlackMonolithWarrior5_03834315 (line 48003)
-translate ru TheBlackMonolithWarrior5_03834315:
+# TheBlackMonolithWarrior5_446f6dfc (line 48003)
+translate ru TheBlackMonolithWarrior5_446f6dfc:
     # "Kate frantically pulls on her arm."
     ""
 
-# TheBlackMonolithWarrior5_99b12a3f (line 48004)
-translate ru TheBlackMonolithWarrior5_99b12a3f:
+# TheBlackMonolithWarrior5_b5f91f63 (line 48004)
+translate ru TheBlackMonolithWarrior5_b5f91f63:
     # k "Sarah!"
     k ""
 
-# TheBlackMonolithWarrior5_b109f02b (line 48005)
-translate ru TheBlackMonolithWarrior5_b109f02b:
+# TheBlackMonolithWarrior5_87738711 (line 48005)
+translate ru TheBlackMonolithWarrior5_87738711:
     # k "He's lost it."
     k ""
 
-# TheBlackMonolithWarrior5_94dfb294 (line 48006)
-translate ru TheBlackMonolithWarrior5_94dfb294:
+# TheBlackMonolithWarrior5_ad762ceb (line 48006)
+translate ru TheBlackMonolithWarrior5_ad762ceb:
     # s "Vaelen?"
     s ""
 
-# TheBlackMonolithWarrior5_3586eab0 (line 48007)
-translate ru TheBlackMonolithWarrior5_3586eab0:
+# TheBlackMonolithWarrior5_0ecd8346 (line 48007)
+translate ru TheBlackMonolithWarrior5_0ecd8346:
     # "Kate nods."
     ""
 
-# TheBlackMonolithWarrior5_2d7c4332 (line 48008)
-translate ru TheBlackMonolithWarrior5_2d7c4332:
+# TheBlackMonolithWarrior5_eed2e72a (line 48008)
+translate ru TheBlackMonolithWarrior5_eed2e72a:
     # k "He overheard one of the soldiers gossiping about him. Insulted him."
     k ""
 
-# TheBlackMonolithWarrior5_4872e25a (line 48009)
-translate ru TheBlackMonolithWarrior5_4872e25a:
+# TheBlackMonolithWarrior5_9e91ddd6 (line 48009)
+translate ru TheBlackMonolithWarrior5_9e91ddd6:
     # k "Vaelen ran him through with his sword, over nothing!"
     k ""
 
-# TheBlackMonolithWarrior5_9fb340f0 (line 48010)
-translate ru TheBlackMonolithWarrior5_9fb340f0:
+# TheBlackMonolithWarrior5_7270173c (line 48010)
+translate ru TheBlackMonolithWarrior5_7270173c:
     # k "He's brought out all the commanders, one by one, he's making them swear his allegiance to him."
     k ""
 
-# TheBlackMonolithWarrior5_d29e65c0 (line 48011)
-translate ru TheBlackMonolithWarrior5_d29e65c0:
+# TheBlackMonolithWarrior5_f6453029 (line 48011)
+translate ru TheBlackMonolithWarrior5_f6453029:
     # "Sarah watched on as she saw Gideon mumble the words."
     ""
 
-# TheBlackMonolithWarrior5_bc874e8b (line 48012)
-translate ru TheBlackMonolithWarrior5_bc874e8b:
+# TheBlackMonolithWarrior5_df69ed5d (line 48012)
+translate ru TheBlackMonolithWarrior5_df69ed5d:
     # vae "Louder!!!"
     vae ""
 
-# TheBlackMonolithWarrior5_92edeb4a (line 48013)
-translate ru TheBlackMonolithWarrior5_92edeb4a:
+# TheBlackMonolithWarrior5_187f6154 (line 48013)
+translate ru TheBlackMonolithWarrior5_187f6154:
     # "Vaelen's voice cracked and broke as he screamed."
     ""
 
-# TheBlackMonolithWarrior5_a1f69cea (line 48014)
-translate ru TheBlackMonolithWarrior5_a1f69cea:
+# TheBlackMonolithWarrior5_323af69d (line 48014)
+translate ru TheBlackMonolithWarrior5_323af69d:
     # "The crowd was frantic. Full of rage. Yet nobody did anything to stop it."
     ""
 
-# TheBlackMonolithWarrior5_d077aa72 (line 48015)
-translate ru TheBlackMonolithWarrior5_d077aa72:
+# TheBlackMonolithWarrior5_48d20870 (line 48015)
+translate ru TheBlackMonolithWarrior5_48d20870:
     # "Most of the crowd were members of the mercenary company, but in between, Sarah spotted a few Mythrans here for the show."
     ""
 
-# TheBlackMonolithWarrior5_f26aea37 (line 48016)
-translate ru TheBlackMonolithWarrior5_f26aea37:
+# TheBlackMonolithWarrior5_783af06f (line 48016)
+translate ru TheBlackMonolithWarrior5_783af06f:
     # "The soldiers of the mercenary company despised him, and yet, not one of them dared to become the sole object of his manic frenzy."
     ""
 
-# TheBlackMonolithWarrior5_3d3e4bec (line 48017)
-translate ru TheBlackMonolithWarrior5_3d3e4bec:
+# TheBlackMonolithWarrior5_453e79a8 (line 48017)
+translate ru TheBlackMonolithWarrior5_453e79a8:
     # "And so despite it all, Vaelen still held command."
     ""
 
-# TheBlackMonolithWarrior5_98fe2b50 (line 48018)
-translate ru TheBlackMonolithWarrior5_98fe2b50:
+# TheBlackMonolithWarrior5_fdaa57ba (line 48018)
+translate ru TheBlackMonolithWarrior5_fdaa57ba:
     # g "I swear-"
     g ""
 
-# TheBlackMonolithWarrior5_ab127522 (line 48019)
-translate ru TheBlackMonolithWarrior5_ab127522:
+# TheBlackMonolithWarrior5_d760ce2c (line 48019)
+translate ru TheBlackMonolithWarrior5_d760ce2c:
     # "Sarah strode out across the open field."
     ""
 
-# TheBlackMonolithWarrior5_49bb9fdf (line 48020)
-translate ru TheBlackMonolithWarrior5_49bb9fdf:
+# TheBlackMonolithWarrior5_81f7e14d (line 48020)
+translate ru TheBlackMonolithWarrior5_81f7e14d:
     # s "Enough!"
     s ""
 
-# TheBlackMonolithWarrior5_38b936fa (line 48021)
-translate ru TheBlackMonolithWarrior5_38b936fa:
+# TheBlackMonolithWarrior5_3b0ceb04 (line 48021)
+translate ru TheBlackMonolithWarrior5_3b0ceb04:
     # s "Gideon, get up!"
     s ""
 
-# TheBlackMonolithWarrior5_2ba90531 (line 48022)
-translate ru TheBlackMonolithWarrior5_2ba90531:
+# TheBlackMonolithWarrior5_f4cd3994 (line 48022)
+translate ru TheBlackMonolithWarrior5_f4cd3994:
     # "The crowd turn silent at her sudden appearance."
     ""
 
-# TheBlackMonolithWarrior5_56c70c59 (line 48023)
-translate ru TheBlackMonolithWarrior5_56c70c59:
+# TheBlackMonolithWarrior5_8f9b3fec (line 48023)
+translate ru TheBlackMonolithWarrior5_8f9b3fec:
     # "Gideon looked up at her. Gratitude in his eyes."
     ""
 
-# TheBlackMonolithWarrior5_5b21a573 (line 48024)
-translate ru TheBlackMonolithWarrior5_5b21a573:
+# TheBlackMonolithWarrior5_2a682ee3 (line 48024)
+translate ru TheBlackMonolithWarrior5_2a682ee3:
     # "He stumbled onto his feet and began to move to the edges of the circle."
     ""
 
-# TheBlackMonolithWarrior5_30f14e46 (line 48026)
-translate ru TheBlackMonolithWarrior5_30f14e46:
+# TheBlackMonolithWarrior5_e68e55b5 (line 48026)
+translate ru TheBlackMonolithWarrior5_e68e55b5:
     # vae "Aah. There she is."
     vae ""
 
-# TheBlackMonolithWarrior5_bc409fbd (line 48027)
-translate ru TheBlackMonolithWarrior5_bc409fbd:
+# TheBlackMonolithWarrior5_07d5ada7 (line 48027)
+translate ru TheBlackMonolithWarrior5_07d5ada7:
     # "She could see, even from this distance, his eyes running wild, shooting from side to side."
     ""
 
-# TheBlackMonolithWarrior5_0368e1ea (line 48028)
-translate ru TheBlackMonolithWarrior5_0368e1ea:
+# TheBlackMonolithWarrior5_b80727ce (line 48028)
+translate ru TheBlackMonolithWarrior5_b80727ce:
     # s "Vaelen, you're not acting like yourself."
     s ""
 
-# TheBlackMonolithWarrior5_6b793494 (line 48029)
-translate ru TheBlackMonolithWarrior5_6b793494:
+# TheBlackMonolithWarrior5_09f09277 (line 48029)
+translate ru TheBlackMonolithWarrior5_09f09277:
     # s "You haven't acted like yourself for a while now. Let us put whatever this is to rest."
     s ""
 
-# TheBlackMonolithWarrior5_7122c7ae (line 48030)
-translate ru TheBlackMonolithWarrior5_7122c7ae:
+# TheBlackMonolithWarrior5_9f9c246d (line 48030)
+translate ru TheBlackMonolithWarrior5_9f9c246d:
     # s "We can speak-"
     s ""
 
-# TheBlackMonolithWarrior5_7b9e04d2 (line 48031)
-translate ru TheBlackMonolithWarrior5_7b9e04d2:
+# TheBlackMonolithWarrior5_fc336e66 (line 48031)
+translate ru TheBlackMonolithWarrior5_fc336e66:
     # vae "No!"
     vae ""
 
-# TheBlackMonolithWarrior5_9b938ba4 (line 48032)
-translate ru TheBlackMonolithWarrior5_9b938ba4:
+# TheBlackMonolithWarrior5_9f9922d9 (line 48032)
+translate ru TheBlackMonolithWarrior5_9f9922d9:
     # "His voice rang out across the square which had now gone silent."
     ""
 
-# TheBlackMonolithWarrior5_7eef38e7 (line 48033)
-translate ru TheBlackMonolithWarrior5_7eef38e7:
+# TheBlackMonolithWarrior5_b1d06002 (line 48033)
+translate ru TheBlackMonolithWarrior5_b1d06002:
     # vae "I am still the leader of this company, despite what you may think."
     vae ""
 
-# TheBlackMonolithWarrior5_e6455582 (line 48034)
-translate ru TheBlackMonolithWarrior5_e6455582:
+# TheBlackMonolithWarrior5_c333de00 (line 48034)
+translate ru TheBlackMonolithWarrior5_c333de00:
     # vae "I decide what happens."
     vae ""
 
-# TheBlackMonolithWarrior5_54ab9fcb (line 48035)
-translate ru TheBlackMonolithWarrior5_54ab9fcb:
+# TheBlackMonolithWarrior5_05f05dec (line 48035)
+translate ru TheBlackMonolithWarrior5_05f05dec:
     # "Sarah took another step forward."
     ""
 
-# TheBlackMonolithWarrior5_489cde62 (line 48036)
-translate ru TheBlackMonolithWarrior5_489cde62:
+# TheBlackMonolithWarrior5_b971da68 (line 48036)
+translate ru TheBlackMonolithWarrior5_b971da68:
     # s "I never said anything else. You think I want to replace you?"
     s ""
 
-# TheBlackMonolithWarrior5_88497168 (line 48037)
-translate ru TheBlackMonolithWarrior5_88497168:
+# TheBlackMonolithWarrior5_1daba1ac (line 48037)
+translate ru TheBlackMonolithWarrior5_1daba1ac:
     # "He smiled, without joy."
     ""
 
-# TheBlackMonolithWarrior5_59c61edd (line 48038)
-translate ru TheBlackMonolithWarrior5_59c61edd:
+# TheBlackMonolithWarrior5_3f49f360 (line 48038)
+translate ru TheBlackMonolithWarrior5_3f49f360:
     # vae "It's in your nature, Sarah. I should have seen it coming long ago. No crown on your head, but still a princess in your heart."
     vae ""
 
-# TheBlackMonolithWarrior5_0f82b4de (line 48039)
-translate ru TheBlackMonolithWarrior5_0f82b4de:
+# TheBlackMonolithWarrior5_ded5d2e6 (line 48039)
+translate ru TheBlackMonolithWarrior5_ded5d2e6:
     # vae "I did see it coming long ago. This moment. I saw it."
     vae ""
 
-# TheBlackMonolithWarrior5_13a36136 (line 48040)
-translate ru TheBlackMonolithWarrior5_13a36136:
+# TheBlackMonolithWarrior5_e2847693 (line 48040)
+translate ru TheBlackMonolithWarrior5_e2847693:
     # "He planted his sword into the ground."
     ""
 
-# TheBlackMonolithWarrior5_90869496 (line 48041)
-translate ru TheBlackMonolithWarrior5_90869496:
+# TheBlackMonolithWarrior5_4aa84a45 (line 48041)
+translate ru TheBlackMonolithWarrior5_4aa84a45:
     # vae "We will settle this right here. Right now."
     vae ""
 
-# TheBlackMonolithWarrior5_0b698c4e (line 48042)
-translate ru TheBlackMonolithWarrior5_0b698c4e:
+# TheBlackMonolithWarrior5_d367db90 (line 48042)
+translate ru TheBlackMonolithWarrior5_d367db90:
     # "He pointed with his finger towards the earth."
     ""
 
-# TheBlackMonolithWarrior5_edbaa427 (line 48043)
-translate ru TheBlackMonolithWarrior5_edbaa427:
+# TheBlackMonolithWarrior5_ffaf7f33 (line 48043)
+translate ru TheBlackMonolithWarrior5_ffaf7f33:
     # vae "Everyone will swear their oath to me again. All from the highest rank down to the lowest conscript."
     vae ""
 
-# TheBlackMonolithWarrior5_6473f01f (line 48044)
-translate ru TheBlackMonolithWarrior5_6473f01f:
+# TheBlackMonolithWarrior5_c0665a37 (line 48044)
+translate ru TheBlackMonolithWarrior5_c0665a37:
     # vae "But you..."
     vae ""
 
-# TheBlackMonolithWarrior5_f66be6a2 (line 48045)
-translate ru TheBlackMonolithWarrior5_f66be6a2:
+# TheBlackMonolithWarrior5_c74b06d1 (line 48045)
+translate ru TheBlackMonolithWarrior5_c74b06d1:
     # "He paued."
     ""
 
-# TheBlackMonolithWarrior5_d05b19f4 (line 48046)
-translate ru TheBlackMonolithWarrior5_d05b19f4:
+# TheBlackMonolithWarrior5_18daa987 (line 48046)
+translate ru TheBlackMonolithWarrior5_18daa987:
     # vae "You above all will come here and prostrate yourself before me."
     vae ""
 
-# TheBlackMonolithWarrior5_91e5ce01 (line 48047)
-translate ru TheBlackMonolithWarrior5_91e5ce01:
+# TheBlackMonolithWarrior5_c749e59c (line 48047)
+translate ru TheBlackMonolithWarrior5_c749e59c:
     # vae "And all these men and women gathered here will stand witness! Swear yourself to me!"
     vae ""
 
-# TheBlackMonolithWarrior5_0a1acf41 (line 48048)
-translate ru TheBlackMonolithWarrior5_0a1acf41:
+# TheBlackMonolithWarrior5_89a0a157 (line 48048)
+translate ru TheBlackMonolithWarrior5_89a0a157:
     # "Sarah stared at him. His voice echoed for a moment longer."
     ""
 
-# TheBlackMonolithWarrior5_576930aa (line 48049)
-translate ru TheBlackMonolithWarrior5_576930aa:
+# TheBlackMonolithWarrior5_d870df26 (line 48049)
+translate ru TheBlackMonolithWarrior5_d870df26:
     # "Nobody spoke."
     ""
 
-# TheBlackMonolithWarrior5_483b6f89 (line 48050)
-translate ru TheBlackMonolithWarrior5_483b6f89:
+# TheBlackMonolithWarrior5_d3af90bb (line 48050)
+translate ru TheBlackMonolithWarrior5_d3af90bb:
     # "Sand from the desert moved through the opened space, carried by the winds."
     ""
 
-# TheBlackMonolithWarrior5_c4a6b1b1 (line 48051)
-translate ru TheBlackMonolithWarrior5_c4a6b1b1:
+# TheBlackMonolithWarrior5_89d5ad4b (line 48051)
+translate ru TheBlackMonolithWarrior5_89d5ad4b:
     # s "No."
     s ""
 
-# TheBlackMonolithWarrior5_d30f4964 (line 48052)
-translate ru TheBlackMonolithWarrior5_d30f4964:
+# TheBlackMonolithWarrior5_fe188de6 (line 48052)
+translate ru TheBlackMonolithWarrior5_fe188de6:
     # "Vaelen laughed."
     ""
 
-# TheBlackMonolithWarrior5_1fcbf736 (line 48053)
-translate ru TheBlackMonolithWarrior5_1fcbf736:
+# TheBlackMonolithWarrior5_8fcb4ca7 (line 48053)
+translate ru TheBlackMonolithWarrior5_8fcb4ca7:
     # vae "See!"
     vae ""
 
-# TheBlackMonolithWarrior5_f1a5f7c1 (line 48054)
-translate ru TheBlackMonolithWarrior5_f1a5f7c1:
+# TheBlackMonolithWarrior5_87ab0743 (line 48054)
+translate ru TheBlackMonolithWarrior5_87ab0743:
     # vae "She no longer even pretends to deny her ambition!"
     vae ""
 
-# TheBlackMonolithWarrior5_535fe22e (line 48055)
-translate ru TheBlackMonolithWarrior5_535fe22e:
+# TheBlackMonolithWarrior5_6b1c3721 (line 48055)
+translate ru TheBlackMonolithWarrior5_6b1c3721:
     # vae "Do you not see, men?!"
     vae ""
 
-# TheBlackMonolithWarrior5_dd6bbd18 (line 48056)
-translate ru TheBlackMonolithWarrior5_dd6bbd18:
+# TheBlackMonolithWarrior5_28212e63 (line 48056)
+translate ru TheBlackMonolithWarrior5_28212e63:
     # vae "She will drag you along her mad path."
     vae ""
 
-# TheBlackMonolithWarrior5_ba7a4450 (line 48057)
-translate ru TheBlackMonolithWarrior5_ba7a4450:
+# TheBlackMonolithWarrior5_74c0edfc (line 48057)
+translate ru TheBlackMonolithWarrior5_74c0edfc:
     # vae "She dreams of conquering her homeland, and she will put all of you to the pyre to make it real!"
     vae ""
 
-# TheBlackMonolithWarrior5_ac9fd52a (line 48058)
-translate ru TheBlackMonolithWarrior5_ac9fd52a:
+# TheBlackMonolithWarrior5_72265ce7 (line 48058)
+translate ru TheBlackMonolithWarrior5_72265ce7:
     # "Sarah stared him down."
     ""
 
-# TheBlackMonolithWarrior5_f9a55d0e (line 48059)
-translate ru TheBlackMonolithWarrior5_f9a55d0e:
+# TheBlackMonolithWarrior5_0d78c5bd (line 48059)
+translate ru TheBlackMonolithWarrior5_0d78c5bd:
     # s "You speak of what future horrors I will visit on these men."
     s ""
 
-# TheBlackMonolithWarrior5_52c49b5c (line 48060)
-translate ru TheBlackMonolithWarrior5_52c49b5c:
+# TheBlackMonolithWarrior5_80e2ac94 (line 48060)
+translate ru TheBlackMonolithWarrior5_80e2ac94:
     # s "But tell me, Vaelen, when did you ever take account of those you have already inflicted?"
     s ""
 
-# TheBlackMonolithWarrior5_9b36f85d (line 48061)
-translate ru TheBlackMonolithWarrior5_9b36f85d:
+# TheBlackMonolithWarrior5_c06d9136 (line 48061)
+translate ru TheBlackMonolithWarrior5_c06d9136:
     # "Sarah could hear the murmur in the crowd. She knew she had struck true."
     ""
 
-# TheBlackMonolithWarrior5_f9445b18 (line 48062)
-translate ru TheBlackMonolithWarrior5_f9445b18:
+# TheBlackMonolithWarrior5_15337756 (line 48062)
+translate ru TheBlackMonolithWarrior5_15337756:
     # s "Why won't you speak of the countless losses we have suffered ever since Bagrad?"
     s ""
 
-# TheBlackMonolithWarrior5_86e2e200 (line 48063)
-translate ru TheBlackMonolithWarrior5_86e2e200:
+# TheBlackMonolithWarrior5_cccbde11 (line 48063)
+translate ru TheBlackMonolithWarrior5_cccbde11:
     # s "Not because of some defeat in battle, no! But the losses we sufferd from your arrogance when you drove us into the desert?"
     s ""
 
-# TheBlackMonolithWarrior5_1bcf3171 (line 48064)
-translate ru TheBlackMonolithWarrior5_1bcf3171:
+# TheBlackMonolithWarrior5_bd1113e4 (line 48064)
+translate ru TheBlackMonolithWarrior5_bd1113e4:
     # s "How many of our brothers and sisters lie dead and rotting in a desert?"
     s ""
 
-# TheBlackMonolithWarrior5_8d0c98a6 (line 48065)
-translate ru TheBlackMonolithWarrior5_8d0c98a6:
+# TheBlackMonolithWarrior5_b53a9a65 (line 48065)
+translate ru TheBlackMonolithWarrior5_b53a9a65:
     # s "How many families will be told to lay headstones over empty graves?"
     s ""
 
-# TheBlackMonolithWarrior5_8760fe10 (line 48066)
-translate ru TheBlackMonolithWarrior5_8760fe10:
+# TheBlackMonolithWarrior5_52e4e209 (line 48066)
+translate ru TheBlackMonolithWarrior5_52e4e209:
     # s "Before you conjure up crimes to be counted, I suggest you make and accounting of your own."
     s ""
 
-# TheBlackMonolithWarrior5_af503c31 (line 48067)
-translate ru TheBlackMonolithWarrior5_af503c31:
+# TheBlackMonolithWarrior5_c9381ce1 (line 48067)
+translate ru TheBlackMonolithWarrior5_c9381ce1:
     # "Sarah could hear some of the soldiers begin to cheer in support."
     ""
 
-# TheBlackMonolithWarrior5_7f5a93e7 (line 48068)
-translate ru TheBlackMonolithWarrior5_7f5a93e7:
+# TheBlackMonolithWarrior5_3fba2da6 (line 48068)
+translate ru TheBlackMonolithWarrior5_3fba2da6:
     # "She could see Vaelen stumble. Something had taken hold of him and would not let go."
     ""
 
-# TheBlackMonolithWarrior5_5fbe8e1c (line 48069)
-translate ru TheBlackMonolithWarrior5_5fbe8e1c:
+# TheBlackMonolithWarrior5_0fe66c41 (line 48069)
+translate ru TheBlackMonolithWarrior5_0fe66c41:
     # vae "Then we shall settle this the old way."
     vae ""
 
-# TheBlackMonolithWarrior5_a24734f9 (line 48070)
-translate ru TheBlackMonolithWarrior5_a24734f9:
+# TheBlackMonolithWarrior5_1810b249 (line 48070)
+translate ru TheBlackMonolithWarrior5_1810b249:
     # vae "By combat."
     vae ""
 
-# TheBlackMonolithWarrior5_d9ed076b (line 48071)
-translate ru TheBlackMonolithWarrior5_d9ed076b:
+# TheBlackMonolithWarrior5_759951ff (line 48071)
+translate ru TheBlackMonolithWarrior5_759951ff:
     # "Sarah held his gaze."
     ""
 
-# TheBlackMonolithWarrior5_16c89b31 (line 48072)
-translate ru TheBlackMonolithWarrior5_16c89b31:
+# TheBlackMonolithWarrior5_524edfd6 (line 48072)
+translate ru TheBlackMonolithWarrior5_524edfd6:
     # s "Put the sword away. Come with me. We can settle this. It's not too late."
     s ""
 
-# TheBlackMonolithWarrior5_6969bff4 (line 48073)
-translate ru TheBlackMonolithWarrior5_6969bff4:
+# TheBlackMonolithWarrior5_b6f050ee (line 48073)
+translate ru TheBlackMonolithWarrior5_b6f050ee:
     # "Vaelen smiled."
     ""
 
-# TheBlackMonolithWarrior5_8f952426 (line 48074)
-translate ru TheBlackMonolithWarrior5_8f952426:
+# TheBlackMonolithWarrior5_31357309 (line 48074)
+translate ru TheBlackMonolithWarrior5_31357309:
     # vae "Pick up your sword or run away. Either works for me. I will not withdraw my challenge."
     vae ""
 
-# TheBlackMonolithWarrior5_99384d59 (line 48075)
-translate ru TheBlackMonolithWarrior5_99384d59:
+# TheBlackMonolithWarrior5_2d3946fd (line 48075)
+translate ru TheBlackMonolithWarrior5_2d3946fd:
     # "Sarah could see he meant it."
     ""
 
-# TheBlackMonolithWarrior5_1c01d09a (line 48076)
-translate ru TheBlackMonolithWarrior5_1c01d09a:
+# TheBlackMonolithWarrior5_b42b35f6 (line 48076)
+translate ru TheBlackMonolithWarrior5_b42b35f6:
     # "Around her, she saw the crowd of faces. It reminded her of the exam. The soldiers, all eager for a show."
     ""
 
-# TheBlackMonolithWarrior5_fd99f0b0 (line 48077)
-translate ru TheBlackMonolithWarrior5_fd99f0b0:
+# TheBlackMonolithWarrior5_31fdc9f0 (line 48077)
+translate ru TheBlackMonolithWarrior5_31fdc9f0:
     # "They hated him, she saw that in their eyes, but she also knew none of them would put a stop to his."
     ""
 
-# TheBlackMonolithWarrior5_9c802753 (line 48078)
-translate ru TheBlackMonolithWarrior5_9c802753:
+# TheBlackMonolithWarrior5_67c40738 (line 48078)
+translate ru TheBlackMonolithWarrior5_67c40738:
     # "Far to the side of the crowd, Sarah saw familiar faces."
     ""
 
-# TheBlackMonolithWarrior5_7e4d124d (line 48079)
-translate ru TheBlackMonolithWarrior5_7e4d124d:
+# TheBlackMonolithWarrior5_692d31e5 (line 48079)
+translate ru TheBlackMonolithWarrior5_692d31e5:
     # "Kate, with frightened expression. Sarah knew she cared for herself, but also cared for Vaelen. For Kate, she stood to lose regardless."
     ""
 
-# TheBlackMonolithWarrior5_1b6154ee (line 48085)
-translate ru TheBlackMonolithWarrior5_1b6154ee:
+# TheBlackMonolithWarrior5_dd3b6a1e (line 48085)
+translate ru TheBlackMonolithWarrior5_dd3b6a1e:
     # "And lastly, Sarah saw Cassius and Dio, standing side by side. Their expressions somehow seemed to match one another."
     ""
 
-# TheBlackMonolithWarrior5_b9c1979f (line 48086)
-translate ru TheBlackMonolithWarrior5_b9c1979f:
+# TheBlackMonolithWarrior5_d655be72 (line 48086)
+translate ru TheBlackMonolithWarrior5_d655be72:
     # "Sarah felt a pain sting in her arm."
     ""
 
-# TheBlackMonolithWarrior5_34c49de1 (line 48087)
-translate ru TheBlackMonolithWarrior5_34c49de1:
+# TheBlackMonolithWarrior5_9ac067bd (line 48087)
+translate ru TheBlackMonolithWarrior5_9ac067bd:
     # "Her fall yesterday had healed, mostly, but she feel it linger."
     ""
 
-# TheBlackMonolithWarrior5_2b1b0432 (line 48088)
-translate ru TheBlackMonolithWarrior5_2b1b0432:
+# TheBlackMonolithWarrior5_f9fa7990 (line 48088)
+translate ru TheBlackMonolithWarrior5_f9fa7990:
     # "Should she consider asking someone else to stand in for her, be her champion? Sarah wondered. She could feel the pressure growing."
     ""
 
-# TheBlackMonolithWarrior5_2e805e6e (line 48089)
-translate ru TheBlackMonolithWarrior5_2e805e6e:
+# TheBlackMonolithWarrior5_e37f34f3 (line 48089)
+translate ru TheBlackMonolithWarrior5_e37f34f3:
     # "Turning back to Vaelen, she saw his rage filled eyes."
     ""
 
-# TheBlackMonolithWarrior5_90318f6f (line 48090)
-translate ru TheBlackMonolithWarrior5_90318f6f:
+# TheBlackMonolithWarrior5_7f25c8b7 (line 48090)
+translate ru TheBlackMonolithWarrior5_7f25c8b7:
     # vae "So tell me! What will it be?!"
     vae ""
 

@@ -3,8 +3,8 @@
 # Scene: MythranInvasion1
 # Total blocks: 1
 
-# MythranInvasion1_912e6fdf (line 14469)
-translate ru MythranInvasion1_912e6fdf:
+# MythranInvasion1_9192d06d (line 14469)
+translate ru MythranInvasion1_9192d06d:
     # "For now, this is where the story ends."
     ""
 

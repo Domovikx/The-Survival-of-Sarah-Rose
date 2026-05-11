@@ -3,238 +3,238 @@
 # Scene: SarahsBedroomAfterFuneral
 # Total blocks: 47
 
-# SarahsBedroomAfterFuneral_242c1c76 (line 1409)
-translate ru SarahsBedroomAfterFuneral_242c1c76:
+# SarahsBedroomAfterFuneral_625e7d5a (line 1409)
+translate ru SarahsBedroomAfterFuneral_625e7d5a:
     # "Sarah had returned to her bedchamber."
     ""
 
-# SarahsBedroomAfterFuneral_ab9babbe (line 1410)
-translate ru SarahsBedroomAfterFuneral_ab9babbe:
+# SarahsBedroomAfterFuneral_bc9f68aa (line 1410)
+translate ru SarahsBedroomAfterFuneral_bc9f68aa:
     # "Finally, for the first time in the entire day, she had some privacy. A moment to herself."
     ""
 
-# SarahsBedroomAfterFuneral_5eb2973f (line 1411)
-translate ru SarahsBedroomAfterFuneral_5eb2973f:
+# SarahsBedroomAfterFuneral_be35e972 (line 1411)
+translate ru SarahsBedroomAfterFuneral_be35e972:
     # "She undid the clasps on her dress, letting it fall to the floor."
     ""
 
-# SarahsBedroomAfterFuneral_13e76cf1 (line 1412)
-translate ru SarahsBedroomAfterFuneral_13e76cf1:
+# SarahsBedroomAfterFuneral_53a1e8d1 (line 1412)
+translate ru SarahsBedroomAfterFuneral_53a1e8d1:
     # "She left it casually on the ground for the servants to clean up later."
     ""
 
-# SarahsBedroomAfterFuneral_47bdfe05 (line 1413)
-translate ru SarahsBedroomAfterFuneral_47bdfe05:
+# SarahsBedroomAfterFuneral_b217e940 (line 1413)
+translate ru SarahsBedroomAfterFuneral_b217e940:
     # "Wearing only her underwear, she climbed into bed. The day's events had exhausted her."
     ""
 
-# SarahsBedroomAfterFuneral_28141184 (line 1414)
-translate ru SarahsBedroomAfterFuneral_28141184:
+# SarahsBedroomAfterFuneral_0f4f43ef (line 1414)
+translate ru SarahsBedroomAfterFuneral_0f4f43ef:
     # "The funeral itself had been a lot to take in, and making sure Thomas managed."
     ""
 
-# SarahsBedroomAfterFuneral_1461b000 (line 1415)
-translate ru SarahsBedroomAfterFuneral_1461b000:
+# SarahsBedroomAfterFuneral_5e40f65b (line 1415)
+translate ru SarahsBedroomAfterFuneral_5e40f65b:
     # "Then she had met the stranger on the battlements, Varga. His cloak still hung in her room. She would have to remember to return that to him."
     ""
 
-# SarahsBedroomAfterFuneral_190cd74d (line 1416)
-translate ru SarahsBedroomAfterFuneral_190cd74d:
+# SarahsBedroomAfterFuneral_f08d099f (line 1416)
+translate ru SarahsBedroomAfterFuneral_f08d099f:
     # "And then meeting Kate, in the gardens. Seeing Kate had been the one thing to make her feel happy on this miserable day."
     ""
 
-# SarahsBedroomAfterFuneral_510facef (line 1417)
-translate ru SarahsBedroomAfterFuneral_510facef:
+# SarahsBedroomAfterFuneral_4489b3a0 (line 1417)
+translate ru SarahsBedroomAfterFuneral_4489b3a0:
     # "Even Marion had shown a different side of himself today. It reminded Sarah that you could never really figure out a person. They could always surprise you."
     ""
 
-# SarahsBedroomAfterFuneral_56f12cb3 (line 1418)
-translate ru SarahsBedroomAfterFuneral_56f12cb3:
+# SarahsBedroomAfterFuneral_941882c6 (line 1418)
+translate ru SarahsBedroomAfterFuneral_941882c6:
     # "Sarah laid back in her bed."
     ""
 
-# SarahsBedroomAfterFuneral_de265e24 (line 1419)
-translate ru SarahsBedroomAfterFuneral_de265e24:
+# SarahsBedroomAfterFuneral_d7dec376 (line 1419)
+translate ru SarahsBedroomAfterFuneral_d7dec376:
     # "She tried to push away all the impressions of the day, trying to force herself asleep. Forcing sleep, Sarah knew, was a recipe for no sleep at all."
     ""
 
-# SarahsBedroomAfterFuneral_5af2245d (line 1420)
-translate ru SarahsBedroomAfterFuneral_5af2245d:
+# SarahsBedroomAfterFuneral_53e023a3 (line 1420)
+translate ru SarahsBedroomAfterFuneral_53e023a3:
     # "She sighed."
     ""
 
-# SarahsBedroomAfterFuneral_6b8be09a (line 1426)
-translate ru SarahsBedroomAfterFuneral_6b8be09a:
+# SarahsBedroomAfterFuneral_077c683c (line 1426)
+translate ru SarahsBedroomAfterFuneral_077c683c:
     # "Suddenly she heard the door creak open."
     ""
 
-# SarahsBedroomAfterFuneral_98109f4e (line 1427)
-translate ru SarahsBedroomAfterFuneral_98109f4e:
+# SarahsBedroomAfterFuneral_9e9b0ea2 (line 1427)
+translate ru SarahsBedroomAfterFuneral_9e9b0ea2:
     # "From the corner of her eyes she saw a silhouette step into the room and quickly close the door."
     ""
 
-# SarahsBedroomAfterFuneral_52c93cb1 (line 1428)
-translate ru SarahsBedroomAfterFuneral_52c93cb1:
+# SarahsBedroomAfterFuneral_275f30df (line 1428)
+translate ru SarahsBedroomAfterFuneral_275f30df:
     # "Instinctively, Sarah grabbed her blankets, pulling them closer. As if the blankets offered any protection."
     ""
 
-# SarahsBedroomAfterFuneral_c00ab24d (line 1429)
-translate ru SarahsBedroomAfterFuneral_c00ab24d:
+# SarahsBedroomAfterFuneral_e9aa7206 (line 1429)
+translate ru SarahsBedroomAfterFuneral_e9aa7206:
     # "When her eyes grew used to the dark, she sighed a breath of relief."
     ""
 
-# SarahsBedroomAfterFuneral_4e9cc066 (line 1435)
-translate ru SarahsBedroomAfterFuneral_4e9cc066:
+# SarahsBedroomAfterFuneral_e17e9d37 (line 1435)
+translate ru SarahsBedroomAfterFuneral_e17e9d37:
     # s "Kate, are you crazy? I almost had a heart attack!"
     s ""
 
-# SarahsBedroomAfterFuneral_4bd058a9 (line 1436)
-translate ru SarahsBedroomAfterFuneral_4bd058a9:
+# SarahsBedroomAfterFuneral_8d3b2752 (line 1436)
+translate ru SarahsBedroomAfterFuneral_8d3b2752:
     # k "Sorry, sorry."
     k ""
 
-# SarahsBedroomAfterFuneral_3a267cc2 (line 1437)
-translate ru SarahsBedroomAfterFuneral_3a267cc2:
+# SarahsBedroomAfterFuneral_b2853479 (line 1437)
+translate ru SarahsBedroomAfterFuneral_b2853479:
     # "There was something off about her."
     ""
 
-# SarahsBedroomAfterFuneral_6dfa5d1d (line 1443)
-translate ru SarahsBedroomAfterFuneral_6dfa5d1d:
+# SarahsBedroomAfterFuneral_e16d1f30 (line 1443)
+translate ru SarahsBedroomAfterFuneral_e16d1f30:
     # "Sarah watched her friend walk across the room to the edge of her bed."
     ""
 
-# SarahsBedroomAfterFuneral_3bc544e3 (line 1444)
-translate ru SarahsBedroomAfterFuneral_3bc544e3:
+# SarahsBedroomAfterFuneral_993a9681 (line 1444)
+translate ru SarahsBedroomAfterFuneral_993a9681:
     # "Sarah also noticed a casualness in Kate that hadn't been there before."
     ""
 
-# SarahsBedroomAfterFuneral_2abb8220 (line 1445)
-translate ru SarahsBedroomAfterFuneral_2abb8220:
+# SarahsBedroomAfterFuneral_36d735d0 (line 1445)
+translate ru SarahsBedroomAfterFuneral_36d735d0:
     # "Once Kate was sitting on the edge of the bed, Sarah could smell why."
     ""
 
-# SarahsBedroomAfterFuneral_bac5b6b7 (line 1446)
-translate ru SarahsBedroomAfterFuneral_bac5b6b7:
+# SarahsBedroomAfterFuneral_9e949e13 (line 1446)
+translate ru SarahsBedroomAfterFuneral_9e949e13:
     # s "You've been having fun."
     s ""
 
-# SarahsBedroomAfterFuneral_30d7a0f3 (line 1447)
-translate ru SarahsBedroomAfterFuneral_30d7a0f3:
+# SarahsBedroomAfterFuneral_bf5722ee (line 1447)
+translate ru SarahsBedroomAfterFuneral_bf5722ee:
     # k "I came across the wine cellar, and it didn't look like you'd miss one bottle."
     k ""
 
-# SarahsBedroomAfterFuneral_bd8f7055 (line 1448)
-translate ru SarahsBedroomAfterFuneral_bd8f7055:
+# SarahsBedroomAfterFuneral_3f3c5fdb (line 1448)
+translate ru SarahsBedroomAfterFuneral_3f3c5fdb:
     # s "Maybe not one, but what about the others?"
     s ""
 
-# SarahsBedroomAfterFuneral_3b95322f (line 1449)
-translate ru SarahsBedroomAfterFuneral_3b95322f:
+# SarahsBedroomAfterFuneral_6a6fad81 (line 1449)
+translate ru SarahsBedroomAfterFuneral_6a6fad81:
     # "Kate laughed, a little too loudly."
     ""
 
-# SarahsBedroomAfterFuneral_5fb57b8c (line 1450)
-translate ru SarahsBedroomAfterFuneral_5fb57b8c:
+# SarahsBedroomAfterFuneral_4f24c3a7 (line 1450)
+translate ru SarahsBedroomAfterFuneral_4f24c3a7:
     # k "Sorry, I'll pay you back, promise."
     k ""
 
-# SarahsBedroomAfterFuneral_3b52f752 (line 1451)
-translate ru SarahsBedroomAfterFuneral_3b52f752:
+# SarahsBedroomAfterFuneral_44ba04b3 (line 1451)
+translate ru SarahsBedroomAfterFuneral_44ba04b3:
     # "Sarah looked at Kate, who was trying to wink at her, with limited success."
     ""
 
-# SarahsBedroomAfterFuneral_fed3c18c (line 1452)
-translate ru SarahsBedroomAfterFuneral_fed3c18c:
+# SarahsBedroomAfterFuneral_b6532b2e (line 1452)
+translate ru SarahsBedroomAfterFuneral_b6532b2e:
     # s "It's fine Kate, but it's late. Why are you here?"
     s ""
 
-# SarahsBedroomAfterFuneral_53e3dc01 (line 1453)
-translate ru SarahsBedroomAfterFuneral_53e3dc01:
+# SarahsBedroomAfterFuneral_654f4b60 (line 1453)
+translate ru SarahsBedroomAfterFuneral_654f4b60:
     # "Kate looked at Sarah confused."
     ""
 
-# SarahsBedroomAfterFuneral_218042c8 (line 1454)
-translate ru SarahsBedroomAfterFuneral_218042c8:
+# SarahsBedroomAfterFuneral_2a5dbc51 (line 1454)
+translate ru SarahsBedroomAfterFuneral_2a5dbc51:
     # k "You said to come visit you after the funeral, didn't you?"
     k ""
 
-# SarahsBedroomAfterFuneral_aae9112f (line 1455)
-translate ru SarahsBedroomAfterFuneral_aae9112f:
+# SarahsBedroomAfterFuneral_8bdcc119 (line 1455)
+translate ru SarahsBedroomAfterFuneral_8bdcc119:
     # "Sarah remembered that she had said that."
     ""
 
-# SarahsBedroomAfterFuneral_9808ab1d (line 1456)
-translate ru SarahsBedroomAfterFuneral_9808ab1d:
+# SarahsBedroomAfterFuneral_901d09bf (line 1456)
+translate ru SarahsBedroomAfterFuneral_901d09bf:
     # s "I meant more like something in the morning."
     s ""
 
-# SarahsBedroomAfterFuneral_2289ef1a (line 1457)
-translate ru SarahsBedroomAfterFuneral_2289ef1a:
+# SarahsBedroomAfterFuneral_2c5a9aeb (line 1457)
+translate ru SarahsBedroomAfterFuneral_2c5a9aeb:
     # "Kate shrugged."
     ""
 
-# SarahsBedroomAfterFuneral_8d69365b (line 1458)
-translate ru SarahsBedroomAfterFuneral_8d69365b:
+# SarahsBedroomAfterFuneral_509a487a (line 1458)
+translate ru SarahsBedroomAfterFuneral_509a487a:
     # k "Well, you can't put that on me, Sarah. I'm drunk, what's your excuse?"
     k ""
 
-# SarahsBedroomAfterFuneral_5a473d5e (line 1459)
-translate ru SarahsBedroomAfterFuneral_5a473d5e:
+# SarahsBedroomAfterFuneral_7b77ec8c (line 1459)
+translate ru SarahsBedroomAfterFuneral_7b77ec8c:
     # s "I didn't know I needed one, in my castle. In my own bedroom."
     s ""
 
-# SarahsBedroomAfterFuneral_59186c99 (line 1460)
-translate ru SarahsBedroomAfterFuneral_59186c99:
+# SarahsBedroomAfterFuneral_49956393 (line 1460)
+translate ru SarahsBedroomAfterFuneral_49956393:
     # "Kate whistled as she looked around the room."
     ""
 
-# SarahsBedroomAfterFuneral_44c0bc30 (line 1461)
-translate ru SarahsBedroomAfterFuneral_44c0bc30:
+# SarahsBedroomAfterFuneral_e6bf2d3c (line 1461)
+translate ru SarahsBedroomAfterFuneral_e6bf2d3c:
     # k "And what a bedroom it is."
     k ""
 
-# SarahsBedroomAfterFuneral_2aedcad7 (line 1462)
-translate ru SarahsBedroomAfterFuneral_2aedcad7:
+# SarahsBedroomAfterFuneral_55bbdcc6 (line 1462)
+translate ru SarahsBedroomAfterFuneral_55bbdcc6:
     # "Kate turned to look back at Sarah."
     ""
 
-# SarahsBedroomAfterFuneral_59077cc7 (line 1463)
-translate ru SarahsBedroomAfterFuneral_59077cc7:
+# SarahsBedroomAfterFuneral_50c29ffb (line 1463)
+translate ru SarahsBedroomAfterFuneral_50c29ffb:
     # "Feeling watched, Sarah drew her blankets closer."
     ""
 
-# SarahsBedroomAfterFuneral_cf0ad551 (line 1469)
-translate ru SarahsBedroomAfterFuneral_cf0ad551:
+# SarahsBedroomAfterFuneral_2e363234 (line 1469)
+translate ru SarahsBedroomAfterFuneral_2e363234:
     # k "Ooh, feeling shy?"
     k ""
 
-# SarahsBedroomAfterFuneral_3e5629e8 (line 1470)
-translate ru SarahsBedroomAfterFuneral_3e5629e8:
+# SarahsBedroomAfterFuneral_91df33bc (line 1470)
+translate ru SarahsBedroomAfterFuneral_91df33bc:
     # "Kate began to playfully tug on the other end of the blankets."
     ""
 
-# SarahsBedroomAfterFuneral_b033f736 (line 1471)
-translate ru SarahsBedroomAfterFuneral_b033f736:
+# SarahsBedroomAfterFuneral_c688db5a (line 1471)
+translate ru SarahsBedroomAfterFuneral_c688db5a:
     # "Sarah clenched her end tighter."
     ""
 
-# SarahsBedroomAfterFuneral_25cb65de (line 1472)
-translate ru SarahsBedroomAfterFuneral_25cb65de:
+# SarahsBedroomAfterFuneral_00e93d45 (line 1472)
+translate ru SarahsBedroomAfterFuneral_00e93d45:
     # k "What's the matter, Sarah? You're not sleeping naked under the blankets, are you?"
     k ""
 
-# SarahsBedroomAfterFuneral_222267e6 (line 1473)
-translate ru SarahsBedroomAfterFuneral_222267e6:
+# SarahsBedroomAfterFuneral_6e01cd9b (line 1473)
+translate ru SarahsBedroomAfterFuneral_6e01cd9b:
     # "Sarah felt a rush to her head, turning her red."
     ""
 
-# SarahsBedroomAfterFuneral_788c9279 (line 1477)
-translate ru SarahsBedroomAfterFuneral_788c9279:
+# SarahsBedroomAfterFuneral_5b1a87b4 (line 1477)
+translate ru SarahsBedroomAfterFuneral_5b1a87b4:
     # "Don't stop Kate."
     "Don't stop Kate." ""
 
-# SarahsBedroomAfterFuneral_5205c798 (line 1606)
-translate ru SarahsBedroomAfterFuneral_5205c798:
+# SarahsBedroomAfterFuneral_f9b14c91 (line 1606)
+translate ru SarahsBedroomAfterFuneral_f9b14c91:
     # "You're drunk. Go back to your room."
     "You're drunk. Go back to your room." ""
 

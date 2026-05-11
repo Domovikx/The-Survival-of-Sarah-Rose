@@ -3,233 +3,233 @@
 # Scene: OutsideAndAlone2
 # Total blocks: 46
 
-# OutsideAndAlone2_0d89dc8d (line 60249)
-translate ru OutsideAndAlone2_0d89dc8d:
+# OutsideAndAlone2_693a971b (line 60249)
+translate ru OutsideAndAlone2_693a971b:
     # "Sarah was sitting outside near the docks on a bench, watching the ships come and go."
     ""
 
-# OutsideAndAlone2_6c312e1a (line 60250)
-translate ru OutsideAndAlone2_6c312e1a:
+# OutsideAndAlone2_66036075 (line 60250)
+translate ru OutsideAndAlone2_66036075:
     # "It wasn't much for a plan, but watching the motions of the harbor made her feel calm. Allowed her to think."
     ""
 
-# OutsideAndAlone2_334aed3e (line 60251)
-translate ru OutsideAndAlone2_334aed3e:
+# OutsideAndAlone2_b6d29f35 (line 60251)
+translate ru OutsideAndAlone2_b6d29f35:
     # "Most of her money was gone, stolen and wasted by Kate."
     ""
 
-# OutsideAndAlone2_32b1b6e3 (line 60252)
-translate ru OutsideAndAlone2_32b1b6e3:
+# OutsideAndAlone2_63756154 (line 60252)
+translate ru OutsideAndAlone2_63756154:
     # "She had no allies left in this city, thrown out by the mercenary company."
     ""
 
-# OutsideAndAlone2_7da5bf7d (line 60253)
-translate ru OutsideAndAlone2_7da5bf7d:
+# OutsideAndAlone2_727de12b (line 60253)
+translate ru OutsideAndAlone2_727de12b:
     # "And she couldn't think of a soul left in the world who cared enough for her to intercede on her behalf."
     ""
 
-# OutsideAndAlone2_d279a4d8 (line 60254)
-translate ru OutsideAndAlone2_d279a4d8:
+# OutsideAndAlone2_c90cc687 (line 60254)
+translate ru OutsideAndAlone2_c90cc687:
     # "Sarah went down the list of every person she knew, but every name she could recall lived in Rosanna, and she was not sure if they still lived."
     ""
 
-# OutsideAndAlone2_2b4ecda2 (line 60255)
-translate ru OutsideAndAlone2_2b4ecda2:
+# OutsideAndAlone2_c12edcd2 (line 60255)
+translate ru OutsideAndAlone2_c12edcd2:
     # "She concluded that even if she could send a letter, it might be weeks before anyone could send help, and she barely had enough money to survive a day."
     ""
 
-# OutsideAndAlone2_f0caba16 (line 60256)
-translate ru OutsideAndAlone2_f0caba16:
+# OutsideAndAlone2_7c005674 (line 60256)
+translate ru OutsideAndAlone2_7c005674:
     # "A neighbouring kingdom might take her in, but so dire was the news from across the ocean, that she didn't even know if any still stood against Hassar's horde."
     ""
 
-# OutsideAndAlone2_9d7ba8f0 (line 60257)
-translate ru OutsideAndAlone2_9d7ba8f0:
+# OutsideAndAlone2_4e2e8f5e (line 60257)
+translate ru OutsideAndAlone2_4e2e8f5e:
     # "And so, with every attempt at a solution, Sarah returned to the simple reality."
     ""
 
-# OutsideAndAlone2_086aec18 (line 60258)
-translate ru OutsideAndAlone2_086aec18:
+# OutsideAndAlone2_fc7554d5 (line 60258)
+translate ru OutsideAndAlone2_fc7554d5:
     # "She was alone, in a city, and nobody would come to save her."
     ""
 
-# OutsideAndAlone2_7b9c9c16 (line 60259)
-translate ru OutsideAndAlone2_7b9c9c16:
+# OutsideAndAlone2_00f0e644 (line 60259)
+translate ru OutsideAndAlone2_00f0e644:
     # "By the time she had ran through the last idea, night had firmly settled in."
     ""
 
-# OutsideAndAlone2_ceb3ff4e (line 60266)
-translate ru OutsideAndAlone2_ceb3ff4e:
+# OutsideAndAlone2_e1fcc86a (line 60266)
+translate ru OutsideAndAlone2_e1fcc86a:
     # "With no place to sleep, she walked the city until she came across an alleyway."
     ""
 
-# OutsideAndAlone2_19d2f919 (line 60267)
-translate ru OutsideAndAlone2_19d2f919:
+# OutsideAndAlone2_14e8f755 (line 60267)
+translate ru OutsideAndAlone2_14e8f755:
     # "The streets around them seemed quiet enough."
     ""
 
-# OutsideAndAlone2_b01da8b8 (line 60268)
-translate ru OutsideAndAlone2_b01da8b8:
+# OutsideAndAlone2_10bef153 (line 60268)
+translate ru OutsideAndAlone2_10bef153:
     # "She was afraid. She knew Kate had been right, the city was a dangerous place, but exhaustion had also made it impossible to think of much else."
     ""
 
-# OutsideAndAlone2_e4125a09 (line 60269)
-translate ru OutsideAndAlone2_e4125a09:
+# OutsideAndAlone2_1512d175 (line 60269)
+translate ru OutsideAndAlone2_1512d175:
     # "Crawling behind one of the crates, Sarah imagined she would be out of sight enough to be left alone."
     ""
 
-# OutsideAndAlone2_8f0551e1 (line 60270)
-translate ru OutsideAndAlone2_8f0551e1:
+# OutsideAndAlone2_5d7cf826 (line 60270)
+translate ru OutsideAndAlone2_5d7cf826:
     # "Resting her head against one of the sacks, she slowly felt herself begin to fade away."
     ""
 
-# OutsideAndAlone2_7bf62cc2 (line 60271)
-translate ru OutsideAndAlone2_7bf62cc2:
+# OutsideAndAlone2_2395328c (line 60271)
+translate ru OutsideAndAlone2_2395328c:
     # "Sarah snapped awake again."
     ""
 
-# OutsideAndAlone2_7aef6288 (line 60272)
-translate ru OutsideAndAlone2_7aef6288:
+# OutsideAndAlone2_e71b6b0e (line 60272)
+translate ru OutsideAndAlone2_e71b6b0e:
     # "It was still night. How long had she been out for?"
     ""
 
-# OutsideAndAlone2_2ace0d66 (line 60273)
-translate ru OutsideAndAlone2_2ace0d66:
+# OutsideAndAlone2_3925f40f (line 60273)
+translate ru OutsideAndAlone2_3925f40f:
     # "And why did she wake so suddenly."
     ""
 
-# OutsideAndAlone2_8bd8f633 (line 60274)
-translate ru OutsideAndAlone2_8bd8f633:
+# OutsideAndAlone2_577cd0b0 (line 60274)
+translate ru OutsideAndAlone2_577cd0b0:
     # "Her eyes tried to get used to the dark. There was a shade moving through the alley."
     ""
 
-# OutsideAndAlone2_e67ec5f0 (line 60280)
-translate ru OutsideAndAlone2_e67ec5f0:
+# OutsideAndAlone2_eb412324 (line 60280)
+translate ru OutsideAndAlone2_eb412324:
     # "The voice sounded rough. Sarah felt her heart beat in her chest, the man's voice alerted her."
     ""
 
-# OutsideAndAlone2_63d3fe92 (line 60281)
-translate ru OutsideAndAlone2_63d3fe92:
+# OutsideAndAlone2_b2e563a6 (line 60281)
+translate ru OutsideAndAlone2_b2e563a6:
     # "Brigand" "I asked you something girly, you lost?"
     ""
 
-# OutsideAndAlone2_854b3cf4 (line 60282)
-translate ru OutsideAndAlone2_854b3cf4:
+# OutsideAndAlone2_1675428a (line 60282)
+translate ru OutsideAndAlone2_1675428a:
     # "Sarah could now make out the man, leaning against the wall close to her."
     ""
 
-# OutsideAndAlone2_7bc126ba (line 60283)
-translate ru OutsideAndAlone2_7bc126ba:
+# OutsideAndAlone2_57e18234 (line 60283)
+translate ru OutsideAndAlone2_57e18234:
     # s "No, good sir, I'm only resting for a moment."
     s ""
 
-# OutsideAndAlone2_2ee50501 (line 60284)
-translate ru OutsideAndAlone2_2ee50501:
+# OutsideAndAlone2_4ab942ee (line 60284)
+translate ru OutsideAndAlone2_4ab942ee:
     # "Brigand" "Aah, I see. That's fine, you can rest here if you want."
     ""
 
-# OutsideAndAlone2_dc36482b (line 60285)
-translate ru OutsideAndAlone2_dc36482b:
+# OutsideAndAlone2_5003480a (line 60285)
+translate ru OutsideAndAlone2_5003480a:
     # "There was a pause."
     ""
 
-# OutsideAndAlone2_69494b70 (line 60286)
-translate ru OutsideAndAlone2_69494b70:
+# OutsideAndAlone2_715cf138 (line 60286)
+translate ru OutsideAndAlone2_715cf138:
     # "Brigand" "But you see, there is just a small problem."
     ""
 
-# OutsideAndAlone2_62fd53ef (line 60287)
-translate ru OutsideAndAlone2_62fd53ef:
+# OutsideAndAlone2_79e1d3ea (line 60287)
+translate ru OutsideAndAlone2_79e1d3ea:
     # "Brigand" "This here is my alley, I own it, and I can't just let anybody and everybody sleep here."
     ""
 
-# OutsideAndAlone2_e141d052 (line 60288)
-translate ru OutsideAndAlone2_e141d052:
+# OutsideAndAlone2_2275e9d5 (line 60288)
+translate ru OutsideAndAlone2_2275e9d5:
     # "Brigand" "If I let you sleep here for free, soon everybody will want to sleep here, and before long the city guards will come knocking."
     ""
 
-# OutsideAndAlone2_4aa56d02 (line 60289)
-translate ru OutsideAndAlone2_4aa56d02:
+# OutsideAndAlone2_2a313aba (line 60289)
+translate ru OutsideAndAlone2_2a313aba:
     # "Brigand" "Can't have that, can't have that at all."
     ""
 
-# OutsideAndAlone2_f94271a7 (line 60290)
-translate ru OutsideAndAlone2_f94271a7:
+# OutsideAndAlone2_441790a6 (line 60290)
+translate ru OutsideAndAlone2_441790a6:
     # "Brigand" "So I'm afraid, I'll need you to spare some coin."
     ""
 
-# OutsideAndAlone2_5449963e (line 60291)
-translate ru OutsideAndAlone2_5449963e:
+# OutsideAndAlone2_552f156f (line 60291)
+translate ru OutsideAndAlone2_552f156f:
     # "The man held out his hand, clawing for some money to pass hands."
     ""
 
-# OutsideAndAlone2_a235c536 (line 60292)
-translate ru OutsideAndAlone2_a235c536:
+# OutsideAndAlone2_e0e2a27d (line 60292)
+translate ru OutsideAndAlone2_e0e2a27d:
     # "By now, Sarah's eyes had grown accustomed to the dark, and she could better make out the man's frame."
     ""
 
-# OutsideAndAlone2_386ccc9f (line 60293)
-translate ru OutsideAndAlone2_386ccc9f:
+# OutsideAndAlone2_e419bc71 (line 60293)
+translate ru OutsideAndAlone2_e419bc71:
     # "He was tall, and only seemed a bit older than herself. Yet his appearance hinted at having lived a life far rougher than hers."
     ""
 
-# OutsideAndAlone2_edb326d2 (line 60294)
-translate ru OutsideAndAlone2_edb326d2:
+# OutsideAndAlone2_2ab472bd (line 60294)
+translate ru OutsideAndAlone2_2ab472bd:
     # s "I don't have any money, so I'll just leave."
     s ""
 
-# OutsideAndAlone2_eb38e2ff (line 60295)
-translate ru OutsideAndAlone2_eb38e2ff:
+# OutsideAndAlone2_f8ccc7aa (line 60295)
+translate ru OutsideAndAlone2_f8ccc7aa:
     # "Suddenly, the man pushed himself away from the wall and came up closer to Sarah, blocking her into the corner behind the crate."
     ""
 
-# OutsideAndAlone2_2125fcb7 (line 60296)
-translate ru OutsideAndAlone2_2125fcb7:
+# OutsideAndAlone2_d89bf79a (line 60296)
+translate ru OutsideAndAlone2_d89bf79a:
     # "Brigand" "Sure, you can leave..."
     ""
 
-# OutsideAndAlone2_77b26c97 (line 60297)
-translate ru OutsideAndAlone2_77b26c97:
+# OutsideAndAlone2_97ad91e9 (line 60297)
+translate ru OutsideAndAlone2_97ad91e9:
     # "Brigand" "But you already used my alley, so you already owe me some coin for tonight."
     ""
 
-# OutsideAndAlone2_be35c68b (line 60298)
-translate ru OutsideAndAlone2_be35c68b:
+# OutsideAndAlone2_7077711c (line 60298)
+translate ru OutsideAndAlone2_7077711c:
     # "Sarah felt her heart beat faster still."
     ""
 
-# OutsideAndAlone2_0832ffbf (line 60299)
-translate ru OutsideAndAlone2_0832ffbf:
+# OutsideAndAlone2_ed024534 (line 60299)
+translate ru OutsideAndAlone2_ed024534:
     # s "I told you, I don't have any money."
     s ""
 
-# OutsideAndAlone2_5d0496eb (line 60300)
-translate ru OutsideAndAlone2_5d0496eb:
+# OutsideAndAlone2_8969f0c2 (line 60300)
+translate ru OutsideAndAlone2_8969f0c2:
     # "Brigand" "Well, maybe I've been unclear. You need to pay me. That can be in coin...or some other way..."
     ""
 
-# OutsideAndAlone2_6936a966 (line 60301)
-translate ru OutsideAndAlone2_6936a966:
+# OutsideAndAlone2_88950b2d (line 60301)
+translate ru OutsideAndAlone2_88950b2d:
     # "The man's eyes drifted across her body as he said the words."
     ""
 
-# OutsideAndAlone2_b7792f71 (line 60302)
-translate ru OutsideAndAlone2_b7792f71:
+# OutsideAndAlone2_6246ae85 (line 60302)
+translate ru OutsideAndAlone2_6246ae85:
     # "Sarah knew she was in danger."
     ""
 
-# OutsideAndAlone2_b5b2cbd5 (line 60306)
-translate ru OutsideAndAlone2_b5b2cbd5:
+# OutsideAndAlone2_62c01f2d (line 60306)
+translate ru OutsideAndAlone2_62c01f2d:
     # "Scream!"
     "Scream!" ""
 
-# OutsideAndAlone2_497a7e20 (line 60317)
-translate ru OutsideAndAlone2_497a7e20:
+# OutsideAndAlone2_8fbae9b2 (line 60317)
+translate ru OutsideAndAlone2_8fbae9b2:
     # "Run away."
     "Run away." ""
 
-# OutsideAndAlone2_da64d0ef (line 60319)
-translate ru OutsideAndAlone2_da64d0ef:
+# OutsideAndAlone2_1598843c (line 60319)
+translate ru OutsideAndAlone2_1598843c:
     # "Do nothing."
     "Do nothing." ""
 

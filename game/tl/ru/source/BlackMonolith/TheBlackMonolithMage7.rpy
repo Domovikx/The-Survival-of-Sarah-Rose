@@ -3,13 +3,13 @@
 # Scene: TheBlackMonolithMage7
 # Total blocks: 2
 
-# TheBlackMonolithMage7_9179b234 (line 79688)
-translate ru TheBlackMonolithMage7_9179b234:
+# TheBlackMonolithMage7_44eb8683 (line 79688)
+translate ru TheBlackMonolithMage7_44eb8683:
     # "Go out dancing with Samayra"
     "Go out dancing with Samayra" ""
 
-# TheBlackMonolithMage7_94b5d762 (line 79969)
-translate ru TheBlackMonolithMage7_94b5d762:
+# TheBlackMonolithMage7_486383d3 (line 79969)
+translate ru TheBlackMonolithMage7_486383d3:
     # "Stay home"
     "Stay home" ""
 

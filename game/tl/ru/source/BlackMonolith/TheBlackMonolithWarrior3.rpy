@@ -3,713 +3,713 @@
 # Scene: TheBlackMonolithWarrior3
 # Total blocks: 142
 
-# TheBlackMonolithWarrior3_a4ebb036 (line 46285)
-translate ru TheBlackMonolithWarrior3_a4ebb036:
+# TheBlackMonolithWarrior3_d929e48c (line 46285)
+translate ru TheBlackMonolithWarrior3_d929e48c:
     # "Waking to the first beams of the morning sun, Sarah stumbled awake."
     ""
 
-# TheBlackMonolithWarrior3_d9cb26dc (line 46286)
-translate ru TheBlackMonolithWarrior3_d9cb26dc:
+# TheBlackMonolithWarrior3_772f1c2e (line 46286)
+translate ru TheBlackMonolithWarrior3_772f1c2e:
     # "She felt as though she had been woken from a dream. A dream that now rapidly receded from her memory."
     ""
 
-# TheBlackMonolithWarrior3_66c45b51 (line 46287)
-translate ru TheBlackMonolithWarrior3_66c45b51:
+# TheBlackMonolithWarrior3_aaeb5f4c (line 46287)
+translate ru TheBlackMonolithWarrior3_aaeb5f4c:
     # "For a moment, she reached around, finding her footing."
     ""
 
-# TheBlackMonolithWarrior3_53afc414 (line 46288)
-translate ru TheBlackMonolithWarrior3_53afc414:
+# TheBlackMonolithWarrior3_21c162fe (line 46288)
+translate ru TheBlackMonolithWarrior3_21c162fe:
     # "The ruins of a home."
     ""
 
-# TheBlackMonolithWarrior3_0567afec (line 46289)
-translate ru TheBlackMonolithWarrior3_0567afec:
+# TheBlackMonolithWarrior3_74de5630 (line 46289)
+translate ru TheBlackMonolithWarrior3_74de5630:
     # "She remembered how she had ended up here, and now the pain in her back was reminding her why she really shouldn't be sleeping on the floor."
     ""
 
-# TheBlackMonolithWarrior3_42741be2 (line 46290)
-translate ru TheBlackMonolithWarrior3_42741be2:
+# TheBlackMonolithWarrior3_a341ba7b (line 46290)
+translate ru TheBlackMonolithWarrior3_a341ba7b:
     # "Stretching, Sarah felt her limbs crack and the pain pull away from her."
     ""
 
-# TheBlackMonolithWarrior3_5b0b404b (line 46291)
-translate ru TheBlackMonolithWarrior3_5b0b404b:
+# TheBlackMonolithWarrior3_0d4c18d9 (line 46291)
+translate ru TheBlackMonolithWarrior3_0d4c18d9:
     # "Climbing out of the ruins and back onto the road, Sarah began to make her way back to the camp."
     ""
 
-# TheBlackMonolithWarrior3_1b28d010 (line 46292)
-translate ru TheBlackMonolithWarrior3_1b28d010:
+# TheBlackMonolithWarrior3_eab0ed4f (line 46292)
+translate ru TheBlackMonolithWarrior3_eab0ed4f:
     # "Already, there was a good bustle of activity. Mythran soldiers. Mercenaries. Soldiers bonded quickly."
     ""
 
-# TheBlackMonolithWarrior3_00d6e7ba (line 46293)
-translate ru TheBlackMonolithWarrior3_00d6e7ba:
+# TheBlackMonolithWarrior3_f46fa688 (line 46293)
+translate ru TheBlackMonolithWarrior3_f46fa688:
     # "Walking up the street, Sarah saluted a few small units that were headed towards the city gates, setting up defenses."
     ""
 
-# TheBlackMonolithWarrior3_2cf2ad0a (line 46294)
-translate ru TheBlackMonolithWarrior3_2cf2ad0a:
+# TheBlackMonolithWarrior3_a4fd4832 (line 46294)
+translate ru TheBlackMonolithWarrior3_a4fd4832:
     # "Suddenly, she saw a figure rush up towards her."
     ""
 
-# TheBlackMonolithWarrior3_01587624 (line 46297)
-translate ru TheBlackMonolithWarrior3_01587624:
+# TheBlackMonolithWarrior3_5333b3c1 (line 46297)
+translate ru TheBlackMonolithWarrior3_5333b3c1:
     # k "Hey!"
     k ""
 
-# TheBlackMonolithWarrior3_08eab9e9 (line 46298)
-translate ru TheBlackMonolithWarrior3_08eab9e9:
+# TheBlackMonolithWarrior3_70f0552e (line 46298)
+translate ru TheBlackMonolithWarrior3_70f0552e:
     # "Sarah waved at Kate as she came closer."
     ""
 
-# TheBlackMonolithWarrior3_164883ce (line 46299)
-translate ru TheBlackMonolithWarrior3_164883ce:
+# TheBlackMonolithWarrior3_f682c3ae (line 46299)
+translate ru TheBlackMonolithWarrior3_f682c3ae:
     # k "I was looking all over for you last night."
     k ""
 
-# TheBlackMonolithWarrior3_f5598724 (line 46300)
-translate ru TheBlackMonolithWarrior3_f5598724:
+# TheBlackMonolithWarrior3_c67a0c88 (line 46300)
+translate ru TheBlackMonolithWarrior3_c67a0c88:
     # k "Looks like you had a good night."
     k ""
 
-# TheBlackMonolithWarrior3_7105cc77 (line 46301)
-translate ru TheBlackMonolithWarrior3_7105cc77:
+# TheBlackMonolithWarrior3_96bb76e2 (line 46301)
+translate ru TheBlackMonolithWarrior3_96bb76e2:
     # "Kate winked at Sarah."
     ""
 
-# TheBlackMonolithWarrior3_75d9f85e (line 46302)
-translate ru TheBlackMonolithWarrior3_75d9f85e:
+# TheBlackMonolithWarrior3_d28df8dd (line 46302)
+translate ru TheBlackMonolithWarrior3_d28df8dd:
     # s "My back is all fucked up."
     s ""
 
-# TheBlackMonolithWarrior3_92e381a3 (line 46303)
-translate ru TheBlackMonolithWarrior3_92e381a3:
+# TheBlackMonolithWarrior3_f64bf0a6 (line 46303)
+translate ru TheBlackMonolithWarrior3_f64bf0a6:
     # k "That good huh?"
     k ""
 
-# TheBlackMonolithWarrior3_d5dcf04a (line 46304)
-translate ru TheBlackMonolithWarrior3_d5dcf04a:
+# TheBlackMonolithWarrior3_932bd2e9 (line 46304)
+translate ru TheBlackMonolithWarrior3_932bd2e9:
     # "Sarah rolled her eyes."
     ""
 
-# TheBlackMonolithWarrior3_7764a033 (line 46305)
-translate ru TheBlackMonolithWarrior3_7764a033:
+# TheBlackMonolithWarrior3_c6b1f0ea (line 46305)
+translate ru TheBlackMonolithWarrior3_c6b1f0ea:
     # s "Very funny."
     s ""
 
-# TheBlackMonolithWarrior3_56864bcf (line 46307)
-translate ru TheBlackMonolithWarrior3_56864bcf:
+# TheBlackMonolithWarrior3_37d258da (line 46307)
+translate ru TheBlackMonolithWarrior3_37d258da:
     # "Kate laughed."
     ""
 
-# TheBlackMonolithWarrior3_35c5cd6e (line 46308)
-translate ru TheBlackMonolithWarrior3_35c5cd6e:
+# TheBlackMonolithWarrior3_6a029b3f (line 46308)
+translate ru TheBlackMonolithWarrior3_6a029b3f:
     # k "You're getting to old for stuff like that, Sarah."
     k ""
 
-# TheBlackMonolithWarrior3_b114cb73 (line 46309)
-translate ru TheBlackMonolithWarrior3_b114cb73:
+# TheBlackMonolithWarrior3_d4dcdf9a (line 46309)
+translate ru TheBlackMonolithWarrior3_d4dcdf9a:
     # s "Old? I'm not even thirty."
     s ""
 
-# TheBlackMonolithWarrior3_67f4faf4 (line 46310)
-translate ru TheBlackMonolithWarrior3_67f4faf4:
+# TheBlackMonolithWarrior3_ac56dc89 (line 46310)
+translate ru TheBlackMonolithWarrior3_ac56dc89:
     # "Kate shrugged."
     ""
 
-# TheBlackMonolithWarrior3_828d466c (line 46311)
-translate ru TheBlackMonolithWarrior3_828d466c:
+# TheBlackMonolithWarrior3_7a6e0d4c (line 46311)
+translate ru TheBlackMonolithWarrior3_7a6e0d4c:
     # k "Well, you gotta count those princess days as double. Easy living weakens the bones."
     k ""
 
-# TheBlackMonolithWarrior3_7f1d2f6d (line 46312)
-translate ru TheBlackMonolithWarrior3_7f1d2f6d:
+# TheBlackMonolithWarrior3_e49eb7da (line 46312)
+translate ru TheBlackMonolithWarrior3_e49eb7da:
     # s "I don't think it works that way."
     s ""
 
-# TheBlackMonolithWarrior3_32f29be8 (line 46313)
-translate ru TheBlackMonolithWarrior3_32f29be8:
+# TheBlackMonolithWarrior3_2af39649 (line 46313)
+translate ru TheBlackMonolithWarrior3_2af39649:
     # "The two of them continued walking towards the camp."
     ""
 
-# TheBlackMonolithWarrior3_74d31a41 (line 46314)
-translate ru TheBlackMonolithWarrior3_74d31a41:
+# TheBlackMonolithWarrior3_b100fc03 (line 46314)
+translate ru TheBlackMonolithWarrior3_b100fc03:
     # s "Anyway, shouldn't you be...I don't really know what you should be doing."
     s ""
 
-# TheBlackMonolithWarrior3_681a33bd (line 46315)
-translate ru TheBlackMonolithWarrior3_681a33bd:
+# TheBlackMonolithWarrior3_dd3783ec (line 46315)
+translate ru TheBlackMonolithWarrior3_dd3783ec:
     # k "Guarding the south gate? Yeah, they needed twenty hands so I send half my unit there, but there really isn't much more to do than that."
     k ""
 
-# TheBlackMonolithWarrior3_f7c182ba (line 46316)
-translate ru TheBlackMonolithWarrior3_f7c182ba:
+# TheBlackMonolithWarrior3_b8051ffa (line 46316)
+translate ru TheBlackMonolithWarrior3_b8051ffa:
     # k "If you're asking me, I don't even really know why the Mythrans need us here."
     k ""
 
-# TheBlackMonolithWarrior3_5504888d (line 46317)
-translate ru TheBlackMonolithWarrior3_5504888d:
+# TheBlackMonolithWarrior3_42c0acf0 (line 46317)
+translate ru TheBlackMonolithWarrior3_42c0acf0:
     # "Sarah knew some of the other reasons why they had been called out here, but she didn't want to trouble Kate with such things."
     ""
 
-# TheBlackMonolithWarrior3_36131de5 (line 46318)
-translate ru TheBlackMonolithWarrior3_36131de5:
+# TheBlackMonolithWarrior3_f4eadbf4 (line 46318)
+translate ru TheBlackMonolithWarrior3_f4eadbf4:
     # "She decided to change the subject."
     ""
 
-# TheBlackMonolithWarrior3_902ceec1 (line 46319)
-translate ru TheBlackMonolithWarrior3_902ceec1:
+# TheBlackMonolithWarrior3_df44b04d (line 46319)
+translate ru TheBlackMonolithWarrior3_df44b04d:
     # s "So, I guess if you don't have anything else to do, you're free to help me out."
     s ""
 
-# TheBlackMonolithWarrior3_b226ff9b (line 46320)
-translate ru TheBlackMonolithWarrior3_b226ff9b:
+# TheBlackMonolithWarrior3_06539398 (line 46320)
+translate ru TheBlackMonolithWarrior3_06539398:
     # k "What do you need a hand with?"
     k ""
 
-# TheBlackMonolithWarrior3_43053002 (line 46321)
-translate ru TheBlackMonolithWarrior3_43053002:
+# TheBlackMonolithWarrior3_480539e4 (line 46321)
+translate ru TheBlackMonolithWarrior3_480539e4:
     # s "Well it's been a while since I've drawn my sword, and it's getting rusty."
     s ""
 
-# TheBlackMonolithWarrior3_eb4399dd (line 46322)
-translate ru TheBlackMonolithWarrior3_eb4399dd:
+# TheBlackMonolithWarrior3_b78a1c46 (line 46322)
+translate ru TheBlackMonolithWarrior3_b78a1c46:
     # "She saw a smile grow on Kate's face."
     ""
 
-# TheBlackMonolithWarrior3_8592696f (line 46323)
-translate ru TheBlackMonolithWarrior3_8592696f:
+# TheBlackMonolithWarrior3_21ba514c (line 46323)
+translate ru TheBlackMonolithWarrior3_21ba514c:
     # k "You wanna spar? Fuck me, it's been a while. What was the score again, twenty-three against nineteen, my way?"
     k ""
 
-# TheBlackMonolithWarrior3_48d4c347 (line 46324)
-translate ru TheBlackMonolithWarrior3_48d4c347:
+# TheBlackMonolithWarrior3_732ca32a (line 46324)
+translate ru TheBlackMonolithWarrior3_732ca32a:
     # "Sarah laughed."
     ""
 
-# TheBlackMonolithWarrior3_4c06d7d1 (line 46325)
-translate ru TheBlackMonolithWarrior3_4c06d7d1:
+# TheBlackMonolithWarrior3_861190b7 (line 46325)
+translate ru TheBlackMonolithWarrior3_861190b7:
     # s "That's not how I recall it. Wasn't it the other way around?"
     s ""
 
-# TheBlackMonolithWarrior3_0b5443ce (line 46326)
-translate ru TheBlackMonolithWarrior3_0b5443ce:
+# TheBlackMonolithWarrior3_5378c144 (line 46326)
+translate ru TheBlackMonolithWarrior3_5378c144:
     # "Making their way towards a cleared out space that functioned as a staging ground, the two women began to prepare themselves."
     ""
 
-# TheBlackMonolithWarrior3_9b364bd7 (line 46327)
-translate ru TheBlackMonolithWarrior3_9b364bd7:
+# TheBlackMonolithWarrior3_dd368ebe (line 46327)
+translate ru TheBlackMonolithWarrior3_dd368ebe:
     # k "Well, tell you what. I'm gonna beat you so hard you're gonna be begging me to stop keepin score."
     k ""
 
-# TheBlackMonolithWarrior3_99bd4886 (line 46328)
-translate ru TheBlackMonolithWarrior3_99bd4886:
+# TheBlackMonolithWarrior3_9eac76b2 (line 46328)
+translate ru TheBlackMonolithWarrior3_9eac76b2:
     # "Sarah pulled out one of the training swords from a crate. She grabbed another and threw it at Kate."
     ""
 
-# TheBlackMonolithWarrior3_4cb4b02e (line 46329)
-translate ru TheBlackMonolithWarrior3_4cb4b02e:
+# TheBlackMonolithWarrior3_bbae0650 (line 46329)
+translate ru TheBlackMonolithWarrior3_bbae0650:
     # "Effortlessly, Kate caught it in midair."
     ""
 
-# TheBlackMonolithWarrior3_455fe7dd (line 46330)
-translate ru TheBlackMonolithWarrior3_455fe7dd:
+# TheBlackMonolithWarrior3_73e0f4d9 (line 46330)
+translate ru TheBlackMonolithWarrior3_73e0f4d9:
     # k "Training swords? Really?"
     k ""
 
-# TheBlackMonolithWarrior3_be68f943 (line 46331)
-translate ru TheBlackMonolithWarrior3_be68f943:
+# TheBlackMonolithWarrior3_822a977b (line 46331)
+translate ru TheBlackMonolithWarrior3_822a977b:
     # "Spinning the blade around in her hand, Kate got into position."
     ""
 
-# TheBlackMonolithWarrior3_db72c589 (line 46332)
-translate ru TheBlackMonolithWarrior3_db72c589:
+# TheBlackMonolithWarrior3_add1aaa9 (line 46332)
+translate ru TheBlackMonolithWarrior3_add1aaa9:
     # "Sarah entered her own stance, raising the dulled training blade in front of her."
     ""
 
-# TheBlackMonolithWarrior3_babf5115 (line 46333)
-translate ru TheBlackMonolithWarrior3_babf5115:
+# TheBlackMonolithWarrior3_2275f870 (line 46333)
+translate ru TheBlackMonolithWarrior3_2275f870:
     # s "Of course training swords. I don't wanna put you into the medic tent."
     s ""
 
-# TheBlackMonolithWarrior3_8ab410a9 (line 46334)
-translate ru TheBlackMonolithWarrior3_8ab410a9:
+# TheBlackMonolithWarrior3_08f4f91c (line 46334)
+translate ru TheBlackMonolithWarrior3_08f4f91c:
     # "Kate laughed."
     ""
 
-# TheBlackMonolithWarrior3_90dcc537 (line 46335)
-translate ru TheBlackMonolithWarrior3_90dcc537:
+# TheBlackMonolithWarrior3_8a4e0661 (line 46335)
+translate ru TheBlackMonolithWarrior3_8a4e0661:
     # k "Promise me, if I have to go to what we call a medic tent, just do me a favor and put me out of my misery."
     k ""
 
-# TheBlackMonolithWarrior3_ed5a9eb3 (line 46336)
-translate ru TheBlackMonolithWarrior3_ed5a9eb3:
+# TheBlackMonolithWarrior3_2cc071fd (line 46336)
+translate ru TheBlackMonolithWarrior3_2cc071fd:
     # k "Our camp doctor is like ninty years old and blind as a bat."
     k ""
 
-# TheBlackMonolithWarrior3_9312befd (line 46337)
-translate ru TheBlackMonolithWarrior3_9312befd:
+# TheBlackMonolithWarrior3_27f6684e (line 46337)
+translate ru TheBlackMonolithWarrior3_27f6684e:
     # "Sarah smiled."
     ""
 
-# TheBlackMonolithWarrior3_9ed8e155 (line 46338)
-translate ru TheBlackMonolithWarrior3_9ed8e155:
+# TheBlackMonolithWarrior3_d59f4dde (line 46338)
+translate ru TheBlackMonolithWarrior3_d59f4dde:
     # s "Send him my regards when I drop you off there."
     s ""
 
-# TheBlackMonolithWarrior3_bb86b478 (line 46339)
-translate ru TheBlackMonolithWarrior3_bb86b478:
+# TheBlackMonolithWarrior3_992fb3c9 (line 46339)
+translate ru TheBlackMonolithWarrior3_992fb3c9:
     # "Instantly, each of the two women recognized the moment."
     ""
 
-# TheBlackMonolithWarrior3_e77b4479 (line 46346)
-translate ru TheBlackMonolithWarrior3_e77b4479:
+# TheBlackMonolithWarrior3_2155bac0 (line 46346)
+translate ru TheBlackMonolithWarrior3_2155bac0:
     # "Lunging forward, each closing the distance, their bodies rushed up towards one another and their blades clashed."
     ""
 
-# TheBlackMonolithWarrior3_d904e243 (line 46347)
-translate ru TheBlackMonolithWarrior3_d904e243:
+# TheBlackMonolithWarrior3_ad4e9b55 (line 46347)
+translate ru TheBlackMonolithWarrior3_ad4e9b55:
     # "Once the difference between herself and Kate had been astronomical, but over the years they had become more equally matched."
     ""
 
-# TheBlackMonolithWarrior3_ebce7a11 (line 46348)
-translate ru TheBlackMonolithWarrior3_ebce7a11:
+# TheBlackMonolithWarrior3_af994911 (line 46348)
+translate ru TheBlackMonolithWarrior3_af994911:
     # "Stepping back to create space, Sarah swung her blade, but Kate dove down underneath the blade."
     ""
 
-# TheBlackMonolithWarrior3_cd263511 (line 46349)
-translate ru TheBlackMonolithWarrior3_cd263511:
+# TheBlackMonolithWarrior3_3a8c50f8 (line 46349)
+translate ru TheBlackMonolithWarrior3_3a8c50f8:
     # "Though the two of them were closely matched, their styles could not be more different."
     ""
 
-# TheBlackMonolithWarrior3_b45e8aff (line 46350)
-translate ru TheBlackMonolithWarrior3_b45e8aff:
+# TheBlackMonolithWarrior3_b8a95dd8 (line 46350)
+translate ru TheBlackMonolithWarrior3_b8a95dd8:
     # "Sarah held the upper hand when it came to raw physical strength, but Kate was faster than her."
     ""
 
-# TheBlackMonolithWarrior3_17ba3381 (line 46351)
-translate ru TheBlackMonolithWarrior3_17ba3381:
+# TheBlackMonolithWarrior3_24aa370d (line 46351)
+translate ru TheBlackMonolithWarrior3_24aa370d:
     # "It was exactly that advantage that Kate was now trying to play into, leaping forward again as she swiped the blade at Sarah's legs."
     ""
 
-# TheBlackMonolithWarrior3_26e41e31 (line 46352)
-translate ru TheBlackMonolithWarrior3_26e41e31:
+# TheBlackMonolithWarrior3_89b354e4 (line 46352)
+translate ru TheBlackMonolithWarrior3_89b354e4:
     # "More than once, Sarah had lost to Kate on account of this trick."
     ""
 
-# TheBlackMonolithWarrior3_c49b3d27 (line 46353)
-translate ru TheBlackMonolithWarrior3_c49b3d27:
+# TheBlackMonolithWarrior3_c872ab74 (line 46353)
+translate ru TheBlackMonolithWarrior3_c872ab74:
     # "But experience had made her wise, and Sarah effortlessly stepped over the sweeping blade."
     ""
 
-# TheBlackMonolithWarrior3_34bbc5d4 (line 46354)
-translate ru TheBlackMonolithWarrior3_34bbc5d4:
+# TheBlackMonolithWarrior3_21781f77 (line 46354)
+translate ru TheBlackMonolithWarrior3_21781f77:
     # "Swiftly raising her knee, she brought it cracking against Kate's lower jaw."
     ""
 
-# TheBlackMonolithWarrior3_eb7b62ce (line 46355)
-translate ru TheBlackMonolithWarrior3_eb7b62ce:
+# TheBlackMonolithWarrior3_4008dcd4 (line 46355)
+translate ru TheBlackMonolithWarrior3_4008dcd4:
     # "Sarah watched the dust blow up across the arena as Kate rolled across the ground."
     ""
 
-# TheBlackMonolithWarrior3_169220cd (line 46356)
-translate ru TheBlackMonolithWarrior3_169220cd:
+# TheBlackMonolithWarrior3_ae2ab549 (line 46356)
+translate ru TheBlackMonolithWarrior3_ae2ab549:
     # "She took a step forward, but seeing Kate recover and crawl back onto her feet, Sarah halted."
     ""
 
-# TheBlackMonolithWarrior3_9b26888a (line 46357)
-translate ru TheBlackMonolithWarrior3_9b26888a:
+# TheBlackMonolithWarrior3_02daceae (line 46357)
+translate ru TheBlackMonolithWarrior3_02daceae:
     # "Kate louded gathered the phlegm in her mouth and spat it out."
     ""
 
-# TheBlackMonolithWarrior3_7b581c12 (line 46358)
-translate ru TheBlackMonolithWarrior3_7b581c12:
+# TheBlackMonolithWarrior3_2ba8d8aa (line 46358)
+translate ru TheBlackMonolithWarrior3_2ba8d8aa:
     # "Sarah saw the red traces of blood mixed in with the spit."
     ""
 
-# TheBlackMonolithWarrior3_b967ecef (line 46359)
-translate ru TheBlackMonolithWarrior3_b967ecef:
+# TheBlackMonolithWarrior3_e207255c (line 46359)
+translate ru TheBlackMonolithWarrior3_e207255c:
     # s "You alright?"
     s ""
 
-# TheBlackMonolithWarrior3_67a5609e (line 46360)
-translate ru TheBlackMonolithWarrior3_67a5609e:
+# TheBlackMonolithWarrior3_809b41f4 (line 46360)
+translate ru TheBlackMonolithWarrior3_809b41f4:
     # "Kate laughed."
     ""
 
-# TheBlackMonolithWarrior3_9677f70e (line 46361)
-translate ru TheBlackMonolithWarrior3_9677f70e:
+# TheBlackMonolithWarrior3_4597909a (line 46361)
+translate ru TheBlackMonolithWarrior3_4597909a:
     # k "Lucky shot is all. I'm just holding back cause I don't wanna fuck up your pretty face."
     k ""
 
-# TheBlackMonolithWarrior3_431084d3 (line 46362)
-translate ru TheBlackMonolithWarrior3_431084d3:
+# TheBlackMonolithWarrior3_cff4c7cc (line 46362)
+translate ru TheBlackMonolithWarrior3_cff4c7cc:
     # "Sarah laughed."
     ""
 
-# TheBlackMonolithWarrior3_c0beea9b (line 46363)
-translate ru TheBlackMonolithWarrior3_c0beea9b:
+# TheBlackMonolithWarrior3_f9028ec7 (line 46363)
+translate ru TheBlackMonolithWarrior3_f9028ec7:
     # s "Well, that's why I don't have to hold back from your face."
     s ""
 
-# TheBlackMonolithWarrior3_237fe0a7 (line 46364)
-translate ru TheBlackMonolithWarrior3_237fe0a7:
+# TheBlackMonolithWarrior3_a1e3710f (line 46364)
+translate ru TheBlackMonolithWarrior3_a1e3710f:
     # k "Funny."
     k ""
 
-# TheBlackMonolithWarrior3_75e9bb33 (line 46365)
-translate ru TheBlackMonolithWarrior3_75e9bb33:
+# TheBlackMonolithWarrior3_3666bd96 (line 46365)
+translate ru TheBlackMonolithWarrior3_3666bd96:
     # "Kate leapt forward."
     ""
 
-# TheBlackMonolithWarrior3_f90f621b (line 46366)
-translate ru TheBlackMonolithWarrior3_f90f621b:
+# TheBlackMonolithWarrior3_9f8447a5 (line 46366)
+translate ru TheBlackMonolithWarrior3_9f8447a5:
     # "Sarah had expected the same trick, but this time, Kate came for her head on."
     ""
 
-# TheBlackMonolithWarrior3_45612dd7 (line 46367)
-translate ru TheBlackMonolithWarrior3_45612dd7:
+# TheBlackMonolithWarrior3_79d45058 (line 46367)
+translate ru TheBlackMonolithWarrior3_79d45058:
     # "Kate thrusted her blade directly at Sarah, and only a moment before it connected did she managed to swipe it aside."
     ""
 
-# TheBlackMonolithWarrior3_1829dc3f (line 46368)
-translate ru TheBlackMonolithWarrior3_1829dc3f:
+# TheBlackMonolithWarrior3_2925434d (line 46368)
+translate ru TheBlackMonolithWarrior3_2925434d:
     # "But rather than retreat, Sarah saw Kate twist her body into her."
     ""
 
-# TheBlackMonolithWarrior3_b08d1096 (line 46369)
-translate ru TheBlackMonolithWarrior3_b08d1096:
+# TheBlackMonolithWarrior3_c5046e02 (line 46369)
+translate ru TheBlackMonolithWarrior3_c5046e02:
     # "Kate's shoulder connected with her own chest and Sarah felt the air knocked from her lungs."
     ""
 
-# TheBlackMonolithWarrior3_13cc2362 (line 46370)
-translate ru TheBlackMonolithWarrior3_13cc2362:
+# TheBlackMonolithWarrior3_34d467a1 (line 46370)
+translate ru TheBlackMonolithWarrior3_34d467a1:
     # "Stumbling backwards, Sarah felt her balance slip, crashing hard against the sandy ground."
     ""
 
-# TheBlackMonolithWarrior3_050319e9 (line 46371)
-translate ru TheBlackMonolithWarrior3_050319e9:
+# TheBlackMonolithWarrior3_297a931a (line 46371)
+translate ru TheBlackMonolithWarrior3_297a931a:
     # "As dust rose up all around her, blinding her vision, Sarah scrambled to find her footing."
     ""
 
-# TheBlackMonolithWarrior3_6805c392 (line 46372)
-translate ru TheBlackMonolithWarrior3_6805c392:
+# TheBlackMonolithWarrior3_7bb47e0e (line 46372)
+translate ru TheBlackMonolithWarrior3_7bb47e0e:
     # "In the midsts of the melee, she saw Kate's feet moving, drawing nearer to her."
     ""
 
-# TheBlackMonolithWarrior3_997b9f06 (line 46373)
-translate ru TheBlackMonolithWarrior3_997b9f06:
+# TheBlackMonolithWarrior3_e3cd7d8a (line 46373)
+translate ru TheBlackMonolithWarrior3_e3cd7d8a:
     # "Sarah threw up her sword, catching Kate's training blade just a moment before it connected with her."
     ""
 
-# TheBlackMonolithWarrior3_0148a429 (line 46374)
-translate ru TheBlackMonolithWarrior3_0148a429:
+# TheBlackMonolithWarrior3_ead118ec (line 46374)
+translate ru TheBlackMonolithWarrior3_ead118ec:
     # "Training blades were dull, but solid enough to inflict a real beating."
     ""
 
-# TheBlackMonolithWarrior3_f224c41d (line 46375)
-translate ru TheBlackMonolithWarrior3_f224c41d:
+# TheBlackMonolithWarrior3_1d746872 (line 46375)
+translate ru TheBlackMonolithWarrior3_1d746872:
     # "The sound of the swords connecting rang out across the training ground."
     ""
 
-# TheBlackMonolithWarrior3_88985cbe (line 46376)
-translate ru TheBlackMonolithWarrior3_88985cbe:
+# TheBlackMonolithWarrior3_6b620949 (line 46376)
+translate ru TheBlackMonolithWarrior3_6b620949:
     # "Sarah gathered all her strength, rising up from bended knee she pushed Kate's blade back."
     ""
 
-# TheBlackMonolithWarrior3_f5c0da79 (line 46377)
-translate ru TheBlackMonolithWarrior3_f5c0da79:
+# TheBlackMonolithWarrior3_5a129ab7 (line 46377)
+translate ru TheBlackMonolithWarrior3_5a129ab7:
     # "Delivering a quick punch into Kate's unguarded side."
     ""
 
-# TheBlackMonolithWarrior3_9114289f (line 46378)
-translate ru TheBlackMonolithWarrior3_9114289f:
+# TheBlackMonolithWarrior3_ff63f553 (line 46378)
+translate ru TheBlackMonolithWarrior3_ff63f553:
     # "She saw Kate stumble backwards. Enough to teach her a lesson. Not enough to win the fight."
     ""
 
-# TheBlackMonolithWarrior3_12dd232a (line 46379)
-translate ru TheBlackMonolithWarrior3_12dd232a:
+# TheBlackMonolithWarrior3_ba57c379 (line 46379)
+translate ru TheBlackMonolithWarrior3_ba57c379:
     # "Kate resumed her stance."
     ""
 
-# TheBlackMonolithWarrior3_cf9e51a6 (line 46380)
-translate ru TheBlackMonolithWarrior3_cf9e51a6:
+# TheBlackMonolithWarrior3_4d982b43 (line 46380)
+translate ru TheBlackMonolithWarrior3_4d982b43:
     # "Kate was not going to let up, she was keeping the pressure on her."
     ""
 
-# TheBlackMonolithWarrior3_550bd193 (line 46383)
-translate ru TheBlackMonolithWarrior3_550bd193:
+# TheBlackMonolithWarrior3_5fbb1e93 (line 46383)
+translate ru TheBlackMonolithWarrior3_5fbb1e93:
     # "Meet Kate head-on"
     "Meet Kate head-on" ""
 
-# TheBlackMonolithWarrior3_dca017f5 (line 46425)
-translate ru TheBlackMonolithWarrior3_dca017f5:
+# TheBlackMonolithWarrior3_0f8d3151 (line 46425)
+translate ru TheBlackMonolithWarrior3_0f8d3151:
     # "Try to outmanoeuvre her"
     "Try to outmanoeuvre her" ""
 
-# TheBlackMonolithWarrior3_8229072d (line 46459)
-translate ru TheBlackMonolithWarrior3_8229072d:
+# TheBlackMonolithWarrior3_935c3df7 (line 46459)
+translate ru TheBlackMonolithWarrior3_935c3df7:
     # "The sound of clapping hands rang out across the sparring field."
     ""
 
-# TheBlackMonolithWarrior3_4155c00b (line 46468)
-translate ru TheBlackMonolithWarrior3_4155c00b:
+# TheBlackMonolithWarrior3_d5adf204 (line 46468)
+translate ru TheBlackMonolithWarrior3_d5adf204:
     # "The two women each turned their head simultaneously towards the sound."
     ""
 
-# TheBlackMonolithWarrior3_eab27379 (line 46469)
-translate ru TheBlackMonolithWarrior3_eab27379:
+# TheBlackMonolithWarrior3_82a15f84 (line 46469)
+translate ru TheBlackMonolithWarrior3_82a15f84:
     # "Sitting on a block of wood, near the edge, was Cassius."
     ""
 
-# TheBlackMonolithWarrior3_bf71c6cf (line 46471)
-translate ru TheBlackMonolithWarrior3_bf71c6cf:
+# TheBlackMonolithWarrior3_6c572943 (line 46471)
+translate ru TheBlackMonolithWarrior3_6c572943:
     # cas "A very admirable showing."
     cas ""
 
-# TheBlackMonolithWarrior3_97b45446 (line 46472)
-translate ru TheBlackMonolithWarrior3_97b45446:
+# TheBlackMonolithWarrior3_b7077299 (line 46472)
+translate ru TheBlackMonolithWarrior3_b7077299:
     # "Instantly, Sarah saw Kate step passed her."
     ""
 
-# TheBlackMonolithWarrior3_92fa64ea (line 46477)
-translate ru TheBlackMonolithWarrior3_92fa64ea:
+# TheBlackMonolithWarrior3_899fd809 (line 46477)
+translate ru TheBlackMonolithWarrior3_899fd809:
     # k "And who the fuck are you?"
     k ""
 
-# TheBlackMonolithWarrior3_ffbaae69 (line 46478)
-translate ru TheBlackMonolithWarrior3_ffbaae69:
+# TheBlackMonolithWarrior3_03eecb65 (line 46478)
+translate ru TheBlackMonolithWarrior3_03eecb65:
     # "Sarah put her hand on Kate's arm."
     ""
 
-# TheBlackMonolithWarrior3_8e4e9916 (line 46479)
-translate ru TheBlackMonolithWarrior3_8e4e9916:
+# TheBlackMonolithWarrior3_72d701c3 (line 46479)
+translate ru TheBlackMonolithWarrior3_72d701c3:
     # s "His name is Cassius. A slave."
     s ""
 
-# TheBlackMonolithWarrior3_c530d610 (line 46480)
-translate ru TheBlackMonolithWarrior3_c530d610:
+# TheBlackMonolithWarrior3_1e806a5a (line 46480)
+translate ru TheBlackMonolithWarrior3_1e806a5a:
     # "Kate spat in the sand. More blood."
     ""
 
-# TheBlackMonolithWarrior3_a9c1dfa0 (line 46481)
-translate ru TheBlackMonolithWarrior3_a9c1dfa0:
+# TheBlackMonolithWarrior3_3acb3864 (line 46481)
+translate ru TheBlackMonolithWarrior3_3acb3864:
     # k "I ain't no fucking Mythran, and I'll be damned if I adress anyone as a slave."
     k ""
 
-# TheBlackMonolithWarrior3_0d127447 (line 46482)
-translate ru TheBlackMonolithWarrior3_0d127447:
+# TheBlackMonolithWarrior3_69a9ea45 (line 46482)
+translate ru TheBlackMonolithWarrior3_69a9ea45:
     # "Sarah instantly felt guilty for having done so."
     ""
 
-# TheBlackMonolithWarrior3_b1f6647f (line 46483)
-translate ru TheBlackMonolithWarrior3_b1f6647f:
+# TheBlackMonolithWarrior3_597fc366 (line 46483)
+translate ru TheBlackMonolithWarrior3_597fc366:
     # "Cassius, for his part, only smiled and casually strode across the training field."
     ""
 
-# TheBlackMonolithWarrior3_318fc39a (line 46484)
-translate ru TheBlackMonolithWarrior3_318fc39a:
+# TheBlackMonolithWarrior3_08a1b563 (line 46484)
+translate ru TheBlackMonolithWarrior3_08a1b563:
     # cas "A rock is a rock. A river a river. And a slave a slave."
     cas ""
 
-# TheBlackMonolithWarrior3_356fb663 (line 46485)
-translate ru TheBlackMonolithWarrior3_356fb663:
+# TheBlackMonolithWarrior3_70f67bf6 (line 46485)
+translate ru TheBlackMonolithWarrior3_70f67bf6:
     # cas "To spend time worrying about one's own nature, what a waste."
     cas ""
 
-# TheBlackMonolithWarrior3_bac176fa (line 46486)
-translate ru TheBlackMonolithWarrior3_bac176fa:
+# TheBlackMonolithWarrior3_67a61e5c (line 46486)
+translate ru TheBlackMonolithWarrior3_67a61e5c:
     # "Sarah could see Kate frown."
     ""
 
-# TheBlackMonolithWarrior3_8f67c8de (line 46487)
-translate ru TheBlackMonolithWarrior3_8f67c8de:
+# TheBlackMonolithWarrior3_57a37d1a (line 46487)
+translate ru TheBlackMonolithWarrior3_57a37d1a:
     # k "Whatever, I still ain't callin you a slave. What else are you?"
     k ""
 
-# TheBlackMonolithWarrior3_8f341c58 (line 46488)
-translate ru TheBlackMonolithWarrior3_8f341c58:
+# TheBlackMonolithWarrior3_ab7ac325 (line 46488)
+translate ru TheBlackMonolithWarrior3_ab7ac325:
     # cas "Cassius. First among equals. War-Brother to Dio."
     cas ""
 
-# TheBlackMonolithWarrior3_d7bbb12f (line 46489)
-translate ru TheBlackMonolithWarrior3_d7bbb12f:
+# TheBlackMonolithWarrior3_a077af74 (line 46489)
+translate ru TheBlackMonolithWarrior3_a077af74:
     # "For a moment, there was a pause."
     ""
 
-# TheBlackMonolithWarrior3_27340758 (line 46490)
-translate ru TheBlackMonolithWarrior3_27340758:
+# TheBlackMonolithWarrior3_cbebb3f4 (line 46490)
+translate ru TheBlackMonolithWarrior3_cbebb3f4:
     # k "Yeah, whatever. Is that like a fancy way of saying soldier in Mythran?"
     k ""
 
-# TheBlackMonolithWarrior3_c1c2b64c (line 46491)
-translate ru TheBlackMonolithWarrior3_c1c2b64c:
+# TheBlackMonolithWarrior3_db7f64ac (line 46491)
+translate ru TheBlackMonolithWarrior3_db7f64ac:
     # "Cassius continued to smile as he always did, as if nothing mattered or bothered."
     ""
 
-# TheBlackMonolithWarrior3_621cb08e (line 46492)
-translate ru TheBlackMonolithWarrior3_621cb08e:
+# TheBlackMonolithWarrior3_c21beffa (line 46492)
+translate ru TheBlackMonolithWarrior3_c21beffa:
     # cas "I suppose that's close enough."
     cas ""
 
-# TheBlackMonolithWarrior3_1f26b3b2 (line 46493)
-translate ru TheBlackMonolithWarrior3_1f26b3b2:
+# TheBlackMonolithWarrior3_0585c533 (line 46493)
+translate ru TheBlackMonolithWarrior3_0585c533:
     # k "And you had something to say about that show back there?"
     k ""
 
-# TheBlackMonolithWarrior3_18c02a90 (line 46494)
-translate ru TheBlackMonolithWarrior3_18c02a90:
+# TheBlackMonolithWarrior3_7c18995c (line 46494)
+translate ru TheBlackMonolithWarrior3_7c18995c:
     # "He nodded, suddenly stern."
     ""
 
-# TheBlackMonolithWarrior3_f66fd443 (line 46519)
-translate ru TheBlackMonolithWarrior3_f66fd443:
+# TheBlackMonolithWarrior3_4b4c59f6 (line 46519)
+translate ru TheBlackMonolithWarrior3_4b4c59f6:
     # k "What are you doing here, anyway?"
     k ""
 
-# TheBlackMonolithWarrior3_67d4640f (line 46520)
-translate ru TheBlackMonolithWarrior3_67d4640f:
+# TheBlackMonolithWarrior3_a73fd186 (line 46520)
+translate ru TheBlackMonolithWarrior3_a73fd186:
     # "Cassius continued, not breaking a beat."
     ""
 
-# TheBlackMonolithWarrior3_c87a6731 (line 46521)
-translate ru TheBlackMonolithWarrior3_c87a6731:
+# TheBlackMonolithWarrior3_aa23bbc6 (line 46521)
+translate ru TheBlackMonolithWarrior3_aa23bbc6:
     # cas "I've come to extend an invitation to Sarah. And friends, of course."
     cas ""
 
-# TheBlackMonolithWarrior3_ea8a46b2 (line 46522)
-translate ru TheBlackMonolithWarrior3_ea8a46b2:
+# TheBlackMonolithWarrior3_b1712b98 (line 46522)
+translate ru TheBlackMonolithWarrior3_b1712b98:
     # "Sarah looked confused."
     ""
 
-# TheBlackMonolithWarrior3_6235ec68 (line 46523)
-translate ru TheBlackMonolithWarrior3_6235ec68:
+# TheBlackMonolithWarrior3_83bda423 (line 46523)
+translate ru TheBlackMonolithWarrior3_83bda423:
     # s "An invitation?"
     s ""
 
-# TheBlackMonolithWarrior3_05ba4fa7 (line 46524)
-translate ru TheBlackMonolithWarrior3_05ba4fa7:
+# TheBlackMonolithWarrior3_8fe49f72 (line 46524)
+translate ru TheBlackMonolithWarrior3_8fe49f72:
     # "Cassius nodded."
     ""
 
-# TheBlackMonolithWarrior3_4d9a95a9 (line 46525)
-translate ru TheBlackMonolithWarrior3_4d9a95a9:
+# TheBlackMonolithWarrior3_a96483b0 (line 46525)
+translate ru TheBlackMonolithWarrior3_a96483b0:
     # cas "I told my War-Sister, Dio about meeting you, and she insisted that I invite you to break bread with us tonight."
     cas ""
 
-# TheBlackMonolithWarrior3_e23b0984 (line 46526)
-translate ru TheBlackMonolithWarrior3_e23b0984:
+# TheBlackMonolithWarrior3_23663141 (line 46526)
+translate ru TheBlackMonolithWarrior3_23663141:
     # cas "It will be in the slave quarter, so I fear the usual luxuries might be absent."
     cas ""
 
-# TheBlackMonolithWarrior3_24af9214 (line 46527)
-translate ru TheBlackMonolithWarrior3_24af9214:
+# TheBlackMonolithWarrior3_c365e86f (line 46527)
+translate ru TheBlackMonolithWarrior3_c365e86f:
     # cas "But I promise you will be well entertained."
     cas ""
 
-# TheBlackMonolithWarrior3_219c0079 (line 46528)
-translate ru TheBlackMonolithWarrior3_219c0079:
+# TheBlackMonolithWarrior3_400d1769 (line 46528)
+translate ru TheBlackMonolithWarrior3_400d1769:
     # "He gestured towards Kate."
     ""
 
-# TheBlackMonolithWarrior3_88f16528 (line 46529)
-translate ru TheBlackMonolithWarrior3_88f16528:
+# TheBlackMonolithWarrior3_37362c37 (line 46529)
+translate ru TheBlackMonolithWarrior3_37362c37:
     # cas "And your friend is more than welcome, or any other friends you might have."
     cas ""
 
-# TheBlackMonolithWarrior3_4ebcacbb (line 46532)
-translate ru TheBlackMonolithWarrior3_4ebcacbb:
+# TheBlackMonolithWarrior3_a252c8a2 (line 46532)
+translate ru TheBlackMonolithWarrior3_a252c8a2:
     # "Accept Cassius' invitation"
     "Accept Cassius' invitation" ""
 
-# TheBlackMonolithWarrior3_aa2e72c9 (line 46542)
-translate ru TheBlackMonolithWarrior3_aa2e72c9:
+# TheBlackMonolithWarrior3_701b04de (line 46542)
+translate ru TheBlackMonolithWarrior3_701b04de:
     # "Reject his invitation"
     "Reject his invitation" ""
 
-# TheBlackMonolithWarrior3_f642977e (line 46552)
-translate ru TheBlackMonolithWarrior3_f642977e:
+# TheBlackMonolithWarrior3_cc5fac22 (line 46552)
+translate ru TheBlackMonolithWarrior3_cc5fac22:
     # cas "Well, I feel that I have taken up enough of your time."
     cas ""
 
-# TheBlackMonolithWarrior3_d2efef1b (line 46553)
-translate ru TheBlackMonolithWarrior3_d2efef1b:
+# TheBlackMonolithWarrior3_3ded6faf (line 46553)
+translate ru TheBlackMonolithWarrior3_3ded6faf:
     # "Cassius bowed, turned, and walked away."
     ""
 
-# TheBlackMonolithWarrior3_087ec837 (line 46555)
-translate ru TheBlackMonolithWarrior3_087ec837:
+# TheBlackMonolithWarrior3_1f1a1e85 (line 46555)
+translate ru TheBlackMonolithWarrior3_1f1a1e85:
     # "Watching him leave, Sarah found Kate looking at her."
     ""
 
-# TheBlackMonolithWarrior3_f0340618 (line 46569)
-translate ru TheBlackMonolithWarrior3_f0340618:
+# TheBlackMonolithWarrior3_98116958 (line 46569)
+translate ru TheBlackMonolithWarrior3_98116958:
     # "Kate suddenly flexed and breathed in deeply."
     ""
 
-# TheBlackMonolithWarrior3_35654a05 (line 46570)
-translate ru TheBlackMonolithWarrior3_35654a05:
+# TheBlackMonolithWarrior3_8f259afb (line 46570)
+translate ru TheBlackMonolithWarrior3_8f259afb:
     # k "Speaking of rancid, I smell like shit."
     k ""
 
-# TheBlackMonolithWarrior3_aee55cba (line 46571)
-translate ru TheBlackMonolithWarrior3_aee55cba:
+# TheBlackMonolithWarrior3_b3d11be9 (line 46571)
+translate ru TheBlackMonolithWarrior3_b3d11be9:
     # "Sarah laughed."
     ""
 
-# TheBlackMonolithWarrior3_b32b7527 (line 46572)
-translate ru TheBlackMonolithWarrior3_b32b7527:
+# TheBlackMonolithWarrior3_a9a4d09a (line 46572)
+translate ru TheBlackMonolithWarrior3_a9a4d09a:
     # s "You always have a way with words."
     s ""
 
-# TheBlackMonolithWarrior3_a3113960 (line 46573)
-translate ru TheBlackMonolithWarrior3_a3113960:
+# TheBlackMonolithWarrior3_b17aacfe (line 46573)
+translate ru TheBlackMonolithWarrior3_b17aacfe:
     # "Kate inhaled deeply next to Sarah."
     ""
 
-# TheBlackMonolithWarrior3_7c377ede (line 46574)
-translate ru TheBlackMonolithWarrior3_7c377ede:
+# TheBlackMonolithWarrior3_f51d3c6d (line 46574)
+translate ru TheBlackMonolithWarrior3_f51d3c6d:
     # k "Ugh, you're not smellin too great yourself."
     k ""
 
-# TheBlackMonolithWarrior3_3ea66e78 (line 46575)
-translate ru TheBlackMonolithWarrior3_3ea66e78:
+# TheBlackMonolithWarrior3_e085a761 (line 46575)
+translate ru TheBlackMonolithWarrior3_e085a761:
     # s "Hey!"
     s ""
 
-# TheBlackMonolithWarrior3_6fbb6fb3 (line 46576)
-translate ru TheBlackMonolithWarrior3_6fbb6fb3:
+# TheBlackMonolithWarrior3_4dd6b258 (line 46576)
+translate ru TheBlackMonolithWarrior3_4dd6b258:
     # k "When is the last time you've taken a shower?"
     k ""
 
-# TheBlackMonolithWarrior3_0bcf76ee (line 46577)
-translate ru TheBlackMonolithWarrior3_0bcf76ee:
+# TheBlackMonolithWarrior3_384e8edd (line 46577)
+translate ru TheBlackMonolithWarrior3_384e8edd:
     # "Sarah could see Kate smile impishly."
     ""
 
-# TheBlackMonolithWarrior3_353edf43 (line 46578)
-translate ru TheBlackMonolithWarrior3_353edf43:
+# TheBlackMonolithWarrior3_1913a29e (line 46578)
+translate ru TheBlackMonolithWarrior3_1913a29e:
     # "Still, she couldn't actually recall, and she didn't doubt Kate's comment about her smell."
     ""
 
-# TheBlackMonolithWarrior3_2809beb0 (line 46579)
-translate ru TheBlackMonolithWarrior3_2809beb0:
+# TheBlackMonolithWarrior3_5f3db3ca (line 46579)
+translate ru TheBlackMonolithWarrior3_5f3db3ca:
     # s "It's been a while, I'll grant you that."
     s ""
 
-# TheBlackMonolithWarrior3_6d5e736f (line 46580)
-translate ru TheBlackMonolithWarrior3_6d5e736f:
+# TheBlackMonolithWarrior3_d14b416a (line 46580)
+translate ru TheBlackMonolithWarrior3_d14b416a:
     # k "Come on, let's go shower."
     k ""
 
-# TheBlackMonolithWarrior3_37b5ff7f (line 46583)
-translate ru TheBlackMonolithWarrior3_37b5ff7f:
+# TheBlackMonolithWarrior3_e16bc004 (line 46583)
+translate ru TheBlackMonolithWarrior3_e16bc004:
     # "Shower with Kate"
     "Shower with Kate" ""
 
-# TheBlackMonolithWarrior3_bedaf1f7 (line 46681)
-translate ru TheBlackMonolithWarrior3_bedaf1f7:
+# TheBlackMonolithWarrior3_cf6347c3 (line 46681)
+translate ru TheBlackMonolithWarrior3_cf6347c3:
     # "Shower later"
     "Shower later" ""
 

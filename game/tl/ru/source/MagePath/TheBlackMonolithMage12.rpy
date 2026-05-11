@@ -3,258 +3,258 @@
 # Scene: TheBlackMonolithMage12
 # Total blocks: 51
 
-# TheBlackMonolithMage12_e43f1472 (line 82150)
-translate ru TheBlackMonolithMage12_e43f1472:
+# TheBlackMonolithMage12_8669ff4a (line 82150)
+translate ru TheBlackMonolithMage12_8669ff4a:
     # "Late at night, Sarah returned to her desk."
     ""
 
-# TheBlackMonolithMage12_b92b2638 (line 82151)
-translate ru TheBlackMonolithMage12_b92b2638:
+# TheBlackMonolithMage12_efc89e39 (line 82151)
+translate ru TheBlackMonolithMage12_efc89e39:
     # "The letter sat where it had been left behind."
     ""
 
-# TheBlackMonolithMage12_6159a797 (line 82152)
-translate ru TheBlackMonolithMage12_6159a797:
+# TheBlackMonolithMage12_b01e1c57 (line 82152)
+translate ru TheBlackMonolithMage12_b01e1c57:
     # "She had not been able to put off opening it much longer."
     ""
 
-# TheBlackMonolithMage12_1ab3f5ae (line 82153)
-translate ru TheBlackMonolithMage12_1ab3f5ae:
+# TheBlackMonolithMage12_ab7ad8f6 (line 82153)
+translate ru TheBlackMonolithMage12_ab7ad8f6:
     # "Her hand trembled as she fished it off the table."
     ""
 
-# TheBlackMonolithMage12_66c0bb42 (line 82154)
-translate ru TheBlackMonolithMage12_66c0bb42:
+# TheBlackMonolithMage12_886b53d0 (line 82154)
+translate ru TheBlackMonolithMage12_886b53d0:
     # "She held it in her hands as if even a slight touch could ruin it."
     ""
 
-# TheBlackMonolithMage12_03360b60 (line 82155)
-translate ru TheBlackMonolithMage12_03360b60:
+# TheBlackMonolithMage12_99ce0733 (line 82155)
+translate ru TheBlackMonolithMage12_99ce0733:
     # "Sarah gathered her strength and then finally ripped open the letter."
     ""
 
-# TheBlackMonolithMage12_9343552b (line 82156)
-translate ru TheBlackMonolithMage12_9343552b:
+# TheBlackMonolithMage12_7dea0923 (line 82156)
+translate ru TheBlackMonolithMage12_7dea0923:
     # "As expected, there were only a few pages inside, nothing more."
     ""
 
-# TheBlackMonolithMage12_3eecd3ea (line 82157)
-translate ru TheBlackMonolithMage12_3eecd3ea:
+# TheBlackMonolithMage12_c4fb1bd6 (line 82157)
+translate ru TheBlackMonolithMage12_c4fb1bd6:
     # "Scrawled out across the surface, Metis' handwriting."
     ""
 
-# TheBlackMonolithMage12_c748ad6e (line 82158)
-translate ru TheBlackMonolithMage12_c748ad6e:
+# TheBlackMonolithMage12_7c83db4c (line 82158)
+translate ru TheBlackMonolithMage12_7c83db4c:
     # "Sarah began to read."
     ""
 
-# TheBlackMonolithMage12_02d2e1ff (line 82164)
-translate ru TheBlackMonolithMage12_02d2e1ff:
+# TheBlackMonolithMage12_4aef5064 (line 82164)
+translate ru TheBlackMonolithMage12_4aef5064:
     # met "Dear Xan, I write you this letter because I fear that our paths did not cross."
     met ""
 
-# TheBlackMonolithMage12_bb725769 (line 82165)
-translate ru TheBlackMonolithMage12_bb725769:
+# TheBlackMonolithMage12_695d5af4 (line 82165)
+translate ru TheBlackMonolithMage12_695d5af4:
     # met "When you are reading this, I will already be well on my way towards the Isles of Karpath."
     met ""
 
-# TheBlackMonolithMage12_ee850d05 (line 82166)
-translate ru TheBlackMonolithMage12_ee850d05:
+# TheBlackMonolithMage12_97652f05 (line 82166)
+translate ru TheBlackMonolithMage12_97652f05:
     # met "I still remember the days we had spend on that beach, the ruins."
     met ""
 
-# TheBlackMonolithMage12_8e67292f (line 82167)
-translate ru TheBlackMonolithMage12_8e67292f:
+# TheBlackMonolithMage12_7b40c60d (line 82167)
+translate ru TheBlackMonolithMage12_7b40c60d:
     # met "You were guarded of me back then, but I must return there now."
     met ""
 
-# TheBlackMonolithMage12_2b9c0984 (line 82168)
-translate ru TheBlackMonolithMage12_2b9c0984:
+# TheBlackMonolithMage12_cf81d1f0 (line 82168)
+translate ru TheBlackMonolithMage12_cf81d1f0:
     # met "Not merely for the memories."
     met ""
 
-# TheBlackMonolithMage12_5962fdf8 (line 82169)
-translate ru TheBlackMonolithMage12_5962fdf8:
+# TheBlackMonolithMage12_4a07143d (line 82169)
+translate ru TheBlackMonolithMage12_4a07143d:
     # met "I wish that I could speak more to you, but I find these days that most everyone in the Order has become a gossip."
     met ""
 
-# TheBlackMonolithMage12_fbab3a0f (line 82170)
-translate ru TheBlackMonolithMage12_fbab3a0f:
+# TheBlackMonolithMage12_99f3925d (line 82170)
+translate ru TheBlackMonolithMage12_99f3925d:
     # met "Perhaps they were always like that."
     met ""
 
-# TheBlackMonolithMage12_5e488121 (line 82171)
-translate ru TheBlackMonolithMage12_5e488121:
+# TheBlackMonolithMage12_31c28e9d (line 82171)
+translate ru TheBlackMonolithMage12_31c28e9d:
     # met "Regardless, I can speak more on the matter when we meet. Truly meet."
     met ""
 
-# TheBlackMonolithMage12_504e05aa (line 82172)
-translate ru TheBlackMonolithMage12_504e05aa:
+# TheBlackMonolithMage12_1e287e32 (line 82172)
+translate ru TheBlackMonolithMage12_1e287e32:
     # met "The reason for leaving you this letter however, has nothing to do with my travel plans."
     met ""
 
-# TheBlackMonolithMage12_4c6aefdc (line 82173)
-translate ru TheBlackMonolithMage12_4c6aefdc:
+# TheBlackMonolithMage12_2a317a01 (line 82173)
+translate ru TheBlackMonolithMage12_2a317a01:
     # met "Rather, there is a matter that I had been hoping to look into further, but I find myself struggling for time."
     met ""
 
-# TheBlackMonolithMage12_2baa2d59 (line 82174)
-translate ru TheBlackMonolithMage12_2baa2d59:
+# TheBlackMonolithMage12_df17740f (line 82174)
+translate ru TheBlackMonolithMage12_df17740f:
     # met "Included with this letter you will find a report submitted by an acolyte from the Order."
     met ""
 
-# TheBlackMonolithMage12_fb89c18d (line 82175)
-translate ru TheBlackMonolithMage12_fb89c18d:
+# TheBlackMonolithMage12_4c3e1cab (line 82175)
+translate ru TheBlackMonolithMage12_4c3e1cab:
     # met "She analyzed magical paterns from one of our measuring stations deep in the Mythran heartland."
     met ""
 
-# TheBlackMonolithMage12_a82f7310 (line 82176)
-translate ru TheBlackMonolithMage12_a82f7310:
+# TheBlackMonolithMage12_5e2aa6f4 (line 82176)
+translate ru TheBlackMonolithMage12_5e2aa6f4:
     # met "It describes an anomaly, produced by rhythmic magical pulses, eminating from the further North."
     met ""
 
-# TheBlackMonolithMage12_045a9efa (line 82177)
-translate ru TheBlackMonolithMage12_045a9efa:
+# TheBlackMonolithMage12_ad721f01 (line 82177)
+translate ru TheBlackMonolithMage12_ad721f01:
     # met "This station lies close to the Mythran border with the jungles of Nephatim."
     met ""
 
-# TheBlackMonolithMage12_e0c20c23 (line 82178)
-translate ru TheBlackMonolithMage12_e0c20c23:
+# TheBlackMonolithMage12_ba15e42e (line 82178)
+translate ru TheBlackMonolithMage12_ba15e42e:
     # met "As you are well aware, more than most even, this leaves few real potential sources for the origin of this signal."
     met ""
 
-# TheBlackMonolithMage12_7d57c957 (line 82179)
-translate ru TheBlackMonolithMage12_7d57c957:
+# TheBlackMonolithMage12_0d7212bc (line 82179)
+translate ru TheBlackMonolithMage12_0d7212bc:
     # met "Varany. The oldest city."
     met ""
 
-# TheBlackMonolithMage12_1a148436 (line 82180)
-translate ru TheBlackMonolithMage12_1a148436:
+# TheBlackMonolithMage12_3d796c31 (line 82180)
+translate ru TheBlackMonolithMage12_3d796c31:
     # met "The Order has left the city to its ruins, and rightly so. For millenia it was silent."
     met ""
 
-# TheBlackMonolithMage12_534cec2b (line 82181)
-translate ru TheBlackMonolithMage12_534cec2b:
+# TheBlackMonolithMage12_8c04c84c (line 82181)
+translate ru TheBlackMonolithMage12_8c04c84c:
     # met "But you have perhaps infected me with your paranoia, and I cannot help but wonder...what if."
     met ""
 
-# TheBlackMonolithMage12_3a8437d9 (line 82182)
-translate ru TheBlackMonolithMage12_3a8437d9:
+# TheBlackMonolithMage12_e41b1f7e (line 82182)
+translate ru TheBlackMonolithMage12_e41b1f7e:
     # met "Our Order holds a near singular grip on magic in the world."
     met ""
 
-# TheBlackMonolithMage12_f4d98f1d (line 82183)
-translate ru TheBlackMonolithMage12_f4d98f1d:
+# TheBlackMonolithMage12_fb1bc94a (line 82183)
+translate ru TheBlackMonolithMage12_fb1bc94a:
     # met "The jungle Tribes have shown no aptitude or interest in it."
     met ""
 
-# TheBlackMonolithMage12_45e1a791 (line 82184)
-translate ru TheBlackMonolithMage12_45e1a791:
+# TheBlackMonolithMage12_3883e654 (line 82184)
+translate ru TheBlackMonolithMage12_3883e654:
     # met "So what then?"
     met ""
 
-# TheBlackMonolithMage12_7d85b2eb (line 82185)
-translate ru TheBlackMonolithMage12_7d85b2eb:
+# TheBlackMonolithMage12_20c96c21 (line 82185)
+translate ru TheBlackMonolithMage12_20c96c21:
     # met "I fear I have no more of an answer to that question than you likely do."
     met ""
 
-# TheBlackMonolithMage12_010a28a0 (line 82186)
-translate ru TheBlackMonolithMage12_010a28a0:
+# TheBlackMonolithMage12_55c12d56 (line 82186)
+translate ru TheBlackMonolithMage12_55c12d56:
     # met "However, you do possess a singular advantage. The House."
     met ""
 
-# TheBlackMonolithMage12_5f5508db (line 82187)
-translate ru TheBlackMonolithMage12_5f5508db:
+# TheBlackMonolithMage12_a058006d (line 82187)
+translate ru TheBlackMonolithMage12_a058006d:
     # met "It was my intention to discuss with you an expedition to Varany, even though I am well aware of your position."
     met ""
 
-# TheBlackMonolithMage12_92c25f96 (line 82188)
-translate ru TheBlackMonolithMage12_92c25f96:
+# TheBlackMonolithMage12_00925a64 (line 82188)
+translate ru TheBlackMonolithMage12_00925a64:
     # met "For the time being, I would ask that you consider the matter."
     met ""
 
-# TheBlackMonolithMage12_81baba32 (line 82189)
-translate ru TheBlackMonolithMage12_81baba32:
+# TheBlackMonolithMage12_b0301e42 (line 82189)
+translate ru TheBlackMonolithMage12_b0301e42:
     # met "When next we meet, I hope we can continue this discussion."
     met ""
 
-# TheBlackMonolithMage12_5984994f (line 82190)
-translate ru TheBlackMonolithMage12_5984994f:
+# TheBlackMonolithMage12_21efcb7a (line 82190)
+translate ru TheBlackMonolithMage12_21efcb7a:
     # met "I look forward to your opinion on the matter, as always."
     met ""
 
-# TheBlackMonolithMage12_b6dc0d5f (line 82191)
-translate ru TheBlackMonolithMage12_b6dc0d5f:
+# TheBlackMonolithMage12_9f62dff9 (line 82191)
+translate ru TheBlackMonolithMage12_9f62dff9:
     # met "Your loyal student and more, Metis."
     met ""
 
-# TheBlackMonolithMage12_94aa081d (line 82193)
-translate ru TheBlackMonolithMage12_94aa081d:
+# TheBlackMonolithMage12_08f0134b (line 82193)
+translate ru TheBlackMonolithMage12_08f0134b:
     # "Sarah placed the letter back down on the desk."
     ""
 
-# TheBlackMonolithMage12_7fe2aa52 (line 82194)
-translate ru TheBlackMonolithMage12_7fe2aa52:
+# TheBlackMonolithMage12_8f32b359 (line 82194)
+translate ru TheBlackMonolithMage12_8f32b359:
     # "She tried processing its contents."
     ""
 
-# TheBlackMonolithMage12_17c87215 (line 82195)
-translate ru TheBlackMonolithMage12_17c87215:
+# TheBlackMonolithMage12_e310ebb1 (line 82195)
+translate ru TheBlackMonolithMage12_e310ebb1:
     # "Even now, she had no idea what to make of Metis...was this all trap? Had he left her the letter on purpose, knowing her curiosity would get to her?"
     ""
 
-# TheBlackMonolithMage12_ca2b0e67 (line 82196)
-translate ru TheBlackMonolithMage12_ca2b0e67:
+# TheBlackMonolithMage12_311449b1 (line 82196)
+translate ru TheBlackMonolithMage12_311449b1:
     # "No, thought Sarah."
     ""
 
-# TheBlackMonolithMage12_9285aae6 (line 82197)
-translate ru TheBlackMonolithMage12_9285aae6:
+# TheBlackMonolithMage12_9a805ca7 (line 82197)
+translate ru TheBlackMonolithMage12_9a805ca7:
     # "He was a poweful mage in his own right. If he suspected anything, why would he have need of tricks?"
     ""
 
-# TheBlackMonolithMage12_8a148870 (line 82198)
-translate ru TheBlackMonolithMage12_8a148870:
+# TheBlackMonolithMage12_8e52785e (line 82198)
+translate ru TheBlackMonolithMage12_8e52785e:
     # "So what then..."
     ""
 
-# TheBlackMonolithMage12_ea707f91 (line 82199)
-translate ru TheBlackMonolithMage12_ea707f91:
+# TheBlackMonolithMage12_8dd171ff (line 82199)
+translate ru TheBlackMonolithMage12_8dd171ff:
     # "She kept turning the letter about in her hand."
     ""
 
-# TheBlackMonolithMage12_8fda3a61 (line 82200)
-translate ru TheBlackMonolithMage12_8fda3a61:
+# TheBlackMonolithMage12_781e17fe (line 82200)
+translate ru TheBlackMonolithMage12_781e17fe:
     # "Varany. The oldest city. The first city of Men, before the world had collapsed by the incursion of the world beyond."
     ""
 
-# TheBlackMonolithMage12_8726f668 (line 82201)
-translate ru TheBlackMonolithMage12_8726f668:
+# TheBlackMonolithMage12_3c17d1c1 (line 82201)
+translate ru TheBlackMonolithMage12_3c17d1c1:
     # "Where the Empress had forged two worlds into one..."
     ""
 
-# TheBlackMonolithMage12_c33b471a (line 82202)
-translate ru TheBlackMonolithMage12_c33b471a:
+# TheBlackMonolithMage12_b8c06566 (line 82202)
+translate ru TheBlackMonolithMage12_b8c06566:
     # "Xan had told her stories from that place. And if she could believe it, he had even walked that city at its peak."
     ""
 
-# TheBlackMonolithMage12_ce2bd258 (line 82203)
-translate ru TheBlackMonolithMage12_ce2bd258:
+# TheBlackMonolithMage12_ba23fcd3 (line 82203)
+translate ru TheBlackMonolithMage12_ba23fcd3:
     # "And now the mysterious letter, speaking of unexplained phenomena..."
     ""
 
-# TheBlackMonolithMage12_e956171d (line 82204)
-translate ru TheBlackMonolithMage12_e956171d:
+# TheBlackMonolithMage12_8407215d (line 82204)
+translate ru TheBlackMonolithMage12_8407215d:
     # "Sarah knew what she had to, despite the danger of it."
     ""
 
-# TheBlackMonolithMage12_676d0b01 (line 82205)
-translate ru TheBlackMonolithMage12_676d0b01:
+# TheBlackMonolithMage12_0f6a4760 (line 82205)
+translate ru TheBlackMonolithMage12_0f6a4760:
     # "Metis' arrival had reminded her of one fact. The world, even if she might ignore it, would still be out there."
     ""
 
-# TheBlackMonolithMage12_e5ba69fd (line 82206)
-translate ru TheBlackMonolithMage12_e5ba69fd:
+# TheBlackMonolithMage12_3a3a9b10 (line 82206)
+translate ru TheBlackMonolithMage12_3a3a9b10:
     # "She could not hide away in this place forever."
     ""
 

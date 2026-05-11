@@ -3,8 +3,8 @@
 # Scene: Sakar1
 # Total blocks: 1
 
-# Sakar1_a462d71d (line 65939)
-translate ru Sakar1_a462d71d:
+# Sakar1_14400a56 (line 65939)
+translate ru Sakar1_14400a56:
     # "For now, this is where the story ends."
     ""
 

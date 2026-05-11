@@ -3,8 +3,8 @@
 # Scene: ASarahInTheParkWithGeorge1
 # Total blocks: 1
 
-# ASarahInTheParkWithGeorge1_5ef0b315 (line 62166)
-translate ru ASarahInTheParkWithGeorge1_5ef0b315:
+# ASarahInTheParkWithGeorge1_1aa5b733 (line 62166)
+translate ru ASarahInTheParkWithGeorge1_1aa5b733:
     # "For now, this is where the story ends."
     ""
 

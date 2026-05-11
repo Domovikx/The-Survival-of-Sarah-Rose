@@ -3,8 +3,8 @@
 # Scene: MercenaryQueen1
 # Total blocks: 1
 
-# MercenaryQueen1_f9becfb1 (line 54021)
-translate ru MercenaryQueen1_f9becfb1:
+# MercenaryQueen1_105cea02 (line 54021)
+translate ru MercenaryQueen1_105cea02:
     # "For now, this is where the story ends."
     ""
 

@@ -3,523 +3,523 @@
 # Scene: TheOldRoad3
 # Total blocks: 104
 
-# TheOldRoad3_fd0ed5df (line 64051)
-translate ru TheOldRoad3_fd0ed5df:
+# TheOldRoad3_5aa90b4c (line 64051)
+translate ru TheOldRoad3_5aa90b4c:
     # "Sarah woke up, her back hurting from the poor quality of the bedroll."
     ""
 
-# TheOldRoad3_4669f6f8 (line 64052)
-translate ru TheOldRoad3_4669f6f8:
+# TheOldRoad3_119f14f9 (line 64052)
+translate ru TheOldRoad3_119f14f9:
     # "She saw the others were also just waking up."
     ""
 
-# TheOldRoad3_2f89819d (line 64053)
-translate ru TheOldRoad3_2f89819d:
+# TheOldRoad3_b3de5e84 (line 64053)
+translate ru TheOldRoad3_b3de5e84:
     # "Despite having slept through the night, Sarah felt oddly unrested."
     ""
 
-# TheOldRoad3_56b2ad56 (line 64054)
-translate ru TheOldRoad3_56b2ad56:
+# TheOldRoad3_c31066e8 (line 64054)
+translate ru TheOldRoad3_c31066e8:
     # "No doubt it was the poor sleeping conditions, but she felt as if something else contributed to it."
     ""
 
-# TheOldRoad3_bae4ca97 (line 64065)
-translate ru TheOldRoad3_bae4ca97:
+# TheOldRoad3_cebe6699 (line 64065)
+translate ru TheOldRoad3_cebe6699:
     # "Together, each of them began to get up and get prepared for the day ahead of them."
     ""
 
-# TheOldRoad3_5753af68 (line 64066)
-translate ru TheOldRoad3_5753af68:
+# TheOldRoad3_5dd04ffa (line 64066)
+translate ru TheOldRoad3_5dd04ffa:
     # "To her own surprise, Sarah found herself now joining in their unspoken pace, doing her own part, if only small, in preparing the wagon."
     ""
 
-# TheOldRoad3_8f196d35 (line 64067)
-translate ru TheOldRoad3_8f196d35:
+# TheOldRoad3_7647f84b (line 64067)
+translate ru TheOldRoad3_7647f84b:
     # "Working together, they were soon ready."
     ""
 
-# TheOldRoad3_434c3b61 (line 64068)
-translate ru TheOldRoad3_434c3b61:
+# TheOldRoad3_32cabe13 (line 64068)
+translate ru TheOldRoad3_32cabe13:
     # "Sigmund snapped the reins and with that, the cart pulled back into motion."
     ""
 
-# TheOldRoad3_f7bbaacb (line 64069)
-translate ru TheOldRoad3_f7bbaacb:
+# TheOldRoad3_c06e769d (line 64069)
+translate ru TheOldRoad3_c06e769d:
     # "To Sarah's delight, they did not run into any other bandits."
     ""
 
-# TheOldRoad3_14dedf7e (line 64070)
-translate ru TheOldRoad3_14dedf7e:
+# TheOldRoad3_3b1d3538 (line 64070)
+translate ru TheOldRoad3_3b1d3538:
     # "It wasn't that she thought Sigmund and the others would not be able to handle them, but even if they did, she disliked the violence of it."
     ""
 
-# TheOldRoad3_8c00de62 (line 64071)
-translate ru TheOldRoad3_8c00de62:
+# TheOldRoad3_e04dbb5a (line 64071)
+translate ru TheOldRoad3_e04dbb5a:
     # "Sigmund seemed on edge for most of their trip, even if no danger manifested itself."
     ""
 
-# TheOldRoad3_c0cfcc3a (line 64072)
-translate ru TheOldRoad3_c0cfcc3a:
+# TheOldRoad3_e8ce0abb (line 64072)
+translate ru TheOldRoad3_e8ce0abb:
     # "With the horses in good spirits and few obstacles, they made good time."
     ""
 
-# TheOldRoad3_174533ee (line 64081)
-translate ru TheOldRoad3_174533ee:
+# TheOldRoad3_4dce9000 (line 64081)
+translate ru TheOldRoad3_4dce9000:
     # "It was under these circumstances that they came upon the one thing that broke through the monotonous environment of the forest."
     ""
 
-# TheOldRoad3_583bcfe8 (line 64082)
-translate ru TheOldRoad3_583bcfe8:
+# TheOldRoad3_8d2b4856 (line 64082)
+translate ru TheOldRoad3_8d2b4856:
     # "Sarah saw the road part open, the forest recede on both ends, as suddenly a vast arch of stone appeared."
     ""
 
-# TheOldRoad3_bbf32544 (line 64083)
-translate ru TheOldRoad3_bbf32544:
+# TheOldRoad3_da7ff25c (line 64083)
+translate ru TheOldRoad3_da7ff25c:
     # "She leaned over to Sigmund."
     ""
 
-# TheOldRoad3_e5531bd9 (line 64084)
-translate ru TheOldRoad3_e5531bd9:
+# TheOldRoad3_a51decdb (line 64084)
+translate ru TheOldRoad3_a51decdb:
     # s "What is that?"
     s ""
 
-# TheOldRoad3_9aa03a25 (line 64085)
-translate ru TheOldRoad3_9aa03a25:
+# TheOldRoad3_15215c74 (line 64085)
+translate ru TheOldRoad3_15215c74:
     # "He shifted around in his seat."
     ""
 
-# TheOldRoad3_27cf8fce (line 64086)
-translate ru TheOldRoad3_27cf8fce:
+# TheOldRoad3_cbace226 (line 64086)
+translate ru TheOldRoad3_cbace226:
     # sig "That's the bridge of the three sisters."
     sig ""
 
-# TheOldRoad3_fe2442b5 (line 64087)
-translate ru TheOldRoad3_fe2442b5:
+# TheOldRoad3_e9298f7f (line 64087)
+translate ru TheOldRoad3_e9298f7f:
     # sig "Old. Older than maybe even these roads. The only way across the ravine."
     sig ""
 
-# TheOldRoad3_067f9c1b (line 64088)
-translate ru TheOldRoad3_067f9c1b:
+# TheOldRoad3_8c718ca0 (line 64088)
+translate ru TheOldRoad3_8c718ca0:
     # "She could see him scanning the road ahead."
     ""
 
-# TheOldRoad3_dfa25365 (line 64089)
-translate ru TheOldRoad3_dfa25365:
+# TheOldRoad3_fb261af7 (line 64089)
+translate ru TheOldRoad3_fb261af7:
     # sig "Looks clear enough."
     sig ""
 
-# TheOldRoad3_55e93d5f (line 64090)
-translate ru TheOldRoad3_55e93d5f:
+# TheOldRoad3_ddf00578 (line 64090)
+translate ru TheOldRoad3_ddf00578:
     # "Sarah looked out ahead as well."
     ""
 
-# TheOldRoad3_64338128 (line 64091)
-translate ru TheOldRoad3_64338128:
+# TheOldRoad3_4e7c2d5c (line 64091)
+translate ru TheOldRoad3_4e7c2d5c:
     # "Past the stone arch, a vast bridge made out of solid stone stretched further than any bridge she had ever seen in her life."
     ""
 
-# TheOldRoad3_27e1aab6 (line 64092)
-translate ru TheOldRoad3_27e1aab6:
+# TheOldRoad3_c5a340c8 (line 64092)
+translate ru TheOldRoad3_c5a340c8:
     # "Cracks ran through the construct, but despite that, it seemed solid. Like a thing that would outlast the world itself."
     ""
 
-# TheOldRoad3_0d747171 (line 64093)
-translate ru TheOldRoad3_0d747171:
+# TheOldRoad3_216f80c2 (line 64093)
+translate ru TheOldRoad3_216f80c2:
     # "The bridge had no supports, other than where it connected between one side and the other."
     ""
 
-# TheOldRoad3_fa9f9940 (line 64094)
-translate ru TheOldRoad3_fa9f9940:
+# TheOldRoad3_0c51715d (line 64094)
+translate ru TheOldRoad3_0c51715d:
     # "Sarah wondered how such a vast construct could remain upright, but there was a lot about the bridge that seemed to challenge the rules of nature."
     ""
 
-# TheOldRoad3_ffb117bd (line 64095)
-translate ru TheOldRoad3_ffb117bd:
+# TheOldRoad3_2f7c891c (line 64095)
+translate ru TheOldRoad3_2f7c891c:
     # "As the cart slowly pulled under the arch, she could feel the air grow colder."
     ""
 
-# TheOldRoad3_910149ef (line 64102)
-translate ru TheOldRoad3_910149ef:
+# TheOldRoad3_6f971937 (line 64102)
+translate ru TheOldRoad3_6f971937:
     # "The grinding of the wheels dissapeared as the smooth surface of the bridge made no noise."
     ""
 
-# TheOldRoad3_6ec531de (line 64103)
-translate ru TheOldRoad3_6ec531de:
+# TheOldRoad3_304fac3c (line 64103)
+translate ru TheOldRoad3_304fac3c:
     # "The only thing Sarah could hear was the streaming of the water that ran far below them."
     ""
 
-# TheOldRoad3_4a0db904 (line 64104)
-translate ru TheOldRoad3_4a0db904:
+# TheOldRoad3_61d04d27 (line 64104)
+translate ru TheOldRoad3_61d04d27:
     # "As she turned her face to the side, she felt her mind struck by awe."
     ""
 
-# TheOldRoad3_ead6fae4 (line 64105)
-translate ru TheOldRoad3_ead6fae4:
+# TheOldRoad3_4f2d4089 (line 64105)
+translate ru TheOldRoad3_4f2d4089:
     # "There were no words for the sight."
     ""
 
-# TheOldRoad3_2d136b4e (line 64106)
-translate ru TheOldRoad3_2d136b4e:
+# TheOldRoad3_7b0ca00e (line 64106)
+translate ru TheOldRoad3_7b0ca00e:
     # "Carved into the face of the mountain were three statues of women, standing side by side."
     ""
 
-# TheOldRoad3_d8e73de9 (line 64107)
-translate ru TheOldRoad3_d8e73de9:
+# TheOldRoad3_cc4f30c8 (line 64107)
+translate ru TheOldRoad3_cc4f30c8:
     # s "What...what are they?"
     s ""
 
-# TheOldRoad3_5539da04 (line 64108)
-translate ru TheOldRoad3_5539da04:
+# TheOldRoad3_93eae7d1 (line 64108)
+translate ru TheOldRoad3_93eae7d1:
     # "Sigmund looked over to the enormous statues."
     ""
 
-# TheOldRoad3_3f6aad35 (line 64109)
-translate ru TheOldRoad3_3f6aad35:
+# TheOldRoad3_0b01c870 (line 64109)
+translate ru TheOldRoad3_0b01c870:
     # sig "Those are the three sisters."
     sig ""
 
-# TheOldRoad3_9806338a (line 64110)
-translate ru TheOldRoad3_9806338a:
+# TheOldRoad3_cc9af3aa (line 64110)
+translate ru TheOldRoad3_cc9af3aa:
     # s "But...what are they..."
     s ""
 
-# TheOldRoad3_2380f5de (line 64111)
-translate ru TheOldRoad3_2380f5de:
+# TheOldRoad3_3d93333e (line 64111)
+translate ru TheOldRoad3_3d93333e:
     # "Sigmund shrugged."
     ""
 
-# TheOldRoad3_be4a740e (line 64112)
-translate ru TheOldRoad3_be4a740e:
+# TheOldRoad3_ff5b3d75 (line 64112)
+translate ru TheOldRoad3_ff5b3d75:
     # sig "Fuck if I know."
     sig ""
 
-# TheOldRoad3_4dfffef0 (line 64113)
-translate ru TheOldRoad3_4dfffef0:
+# TheOldRoad3_97e0be20 (line 64113)
+translate ru TheOldRoad3_97e0be20:
     # sig "People been asking that question for as long as I can remember."
     sig ""
 
-# TheOldRoad3_5c7fd225 (line 64114)
-translate ru TheOldRoad3_5c7fd225:
+# TheOldRoad3_14433736 (line 64114)
+translate ru TheOldRoad3_14433736:
     # sig "Heard a hundred different stories but I don't know if a single one of em is true."
     sig ""
 
-# TheOldRoad3_43358ea6 (line 64115)
-translate ru TheOldRoad3_43358ea6:
+# TheOldRoad3_b1d2690c (line 64115)
+translate ru TheOldRoad3_b1d2690c:
     # sig "All I know is they were here before even the central kingdoms were."
     sig ""
 
-# TheOldRoad3_f972bcbb (line 64116)
-translate ru TheOldRoad3_f972bcbb:
+# TheOldRoad3_a0a63d9f (line 64116)
+translate ru TheOldRoad3_a0a63d9f:
     # sig "Couldn't tell you who build them or why."
     sig ""
 
-# TheOldRoad3_38ffe577 (line 64117)
-translate ru TheOldRoad3_38ffe577:
+# TheOldRoad3_0361427d (line 64117)
+translate ru TheOldRoad3_0361427d:
     # "Sarah tried to take in the statues, but they were so vast she struggled to look at all of them at the same time."
     ""
 
-# TheOldRoad3_2105560f (line 64118)
-translate ru TheOldRoad3_2105560f:
+# TheOldRoad3_0bcc05ad (line 64118)
+translate ru TheOldRoad3_0bcc05ad:
     # "Her mind seemed to revolt at the sight."
     ""
 
-# TheOldRoad3_c2bc99e2 (line 64119)
-translate ru TheOldRoad3_c2bc99e2:
+# TheOldRoad3_375594c1 (line 64119)
+translate ru TheOldRoad3_375594c1:
     # "Such wonders, greater than anything she'd ever seen before in her life..."
     ""
 
-# TheOldRoad3_48010a1d (line 64120)
-translate ru TheOldRoad3_48010a1d:
+# TheOldRoad3_cfe033f3 (line 64120)
+translate ru TheOldRoad3_cfe033f3:
     # "Someone must have build them for a reason once."
     ""
 
-# TheOldRoad3_cac28744 (line 64121)
-translate ru TheOldRoad3_cac28744:
+# TheOldRoad3_2fea0119 (line 64121)
+translate ru TheOldRoad3_2fea0119:
     # "And yet here they now stood, seemingly forgotten."
     ""
 
-# TheOldRoad3_77ef71ff (line 64122)
-translate ru TheOldRoad3_77ef71ff:
+# TheOldRoad3_e1c1aff1 (line 64122)
+translate ru TheOldRoad3_e1c1aff1:
     # "Suddenly, Sarah felt the wagon stop."
     ""
 
-# TheOldRoad3_ed50e9a6 (line 64123)
-translate ru TheOldRoad3_ed50e9a6:
+# TheOldRoad3_557332d1 (line 64123)
+translate ru TheOldRoad3_557332d1:
     # "Looking at Sigmund, she saw he was pulling on the reins, forcing the horses to a stop."
     ""
 
-# TheOldRoad3_4699ddb1 (line 64124)
-translate ru TheOldRoad3_4699ddb1:
+# TheOldRoad3_8298d60d (line 64124)
+translate ru TheOldRoad3_8298d60d:
     # s "Why are we stopping?"
     s ""
 
-# TheOldRoad3_66e162da (line 64125)
-translate ru TheOldRoad3_66e162da:
+# TheOldRoad3_f827fcbb (line 64125)
+translate ru TheOldRoad3_f827fcbb:
     # "Sigmund waved his hand, as if to dismiss her."
     ""
 
-# TheOldRoad3_162981f3 (line 64126)
-translate ru TheOldRoad3_162981f3:
+# TheOldRoad3_21daf7b2 (line 64126)
+translate ru TheOldRoad3_21daf7b2:
     # sig "Only for a moment. Just something I need to do."
     sig ""
 
-# TheOldRoad3_0a6b5b4b (line 64127)
-translate ru TheOldRoad3_0a6b5b4b:
+# TheOldRoad3_11b82009 (line 64127)
+translate ru TheOldRoad3_11b82009:
     # "Sarah watched as he leapt from the cart and walked out ahead of the cart."
     ""
 
-# TheOldRoad3_b8ac0fb5 (line 64128)
-translate ru TheOldRoad3_b8ac0fb5:
+# TheOldRoad3_062cf251 (line 64128)
+translate ru TheOldRoad3_062cf251:
     # "She kept her eyes on him, following him as he continued to walk further ahead."
     ""
 
-# TheOldRoad3_e9296542 (line 64129)
-translate ru TheOldRoad3_e9296542:
+# TheOldRoad3_debc204e (line 64129)
+translate ru TheOldRoad3_debc204e:
     # "He walked up to the edge of the bridge that looked out at the statues."
     ""
 
-# TheOldRoad3_d33bdb63 (line 64130)
-translate ru TheOldRoad3_d33bdb63:
+# TheOldRoad3_a14baba7 (line 64130)
+translate ru TheOldRoad3_a14baba7:
     # sak "Don't worry, he's not gonna jump."
     sak ""
 
-# TheOldRoad3_79fa4420 (line 64131)
-translate ru TheOldRoad3_79fa4420:
+# TheOldRoad3_a01cdc68 (line 64131)
+translate ru TheOldRoad3_a01cdc68:
     # "Sarah was startled by Sakar's sudden appearance, but tried not to let him notice."
     ""
 
-# TheOldRoad3_bbf8c57c (line 64132)
-translate ru TheOldRoad3_bbf8c57c:
+# TheOldRoad3_1cee9b44 (line 64132)
+translate ru TheOldRoad3_1cee9b44:
     # s "I wasn't thinking that."
     s ""
 
-# TheOldRoad3_83bdcf23 (line 64133)
-translate ru TheOldRoad3_83bdcf23:
+# TheOldRoad3_26a95f65 (line 64133)
+translate ru TheOldRoad3_26a95f65:
     # sak "Aah."
     sak ""
 
-# TheOldRoad3_55773a4f (line 64134)
-translate ru TheOldRoad3_55773a4f:
+# TheOldRoad3_c6505ccc (line 64134)
+translate ru TheOldRoad3_c6505ccc:
     # sak "But you're not curious what he's up to?"
     sak ""
 
-# TheOldRoad3_d3cc5fcc (line 64135)
-translate ru TheOldRoad3_d3cc5fcc:
+# TheOldRoad3_cbf614f1 (line 64135)
+translate ru TheOldRoad3_cbf614f1:
     # "Sarah would be lying if she said she wasn't. Part of her also hoped Sakar might know."
     ""
 
-# TheOldRoad3_4dca7caf (line 64136)
-translate ru TheOldRoad3_4dca7caf:
+# TheOldRoad3_565839cf (line 64136)
+translate ru TheOldRoad3_565839cf:
     # s "What is he doing?"
     s ""
 
-# TheOldRoad3_36812602 (line 64137)
-translate ru TheOldRoad3_36812602:
+# TheOldRoad3_38c1e05f (line 64137)
+translate ru TheOldRoad3_38c1e05f:
     # "Sakar chuckled."
     ""
 
-# TheOldRoad3_e298ca8c (line 64138)
-translate ru TheOldRoad3_e298ca8c:
+# TheOldRoad3_157fec23 (line 64138)
+translate ru TheOldRoad3_157fec23:
     # sak "He always does this."
     sak ""
 
-# TheOldRoad3_75c909aa (line 64139)
-translate ru TheOldRoad3_75c909aa:
+# TheOldRoad3_0a94899b (line 64139)
+translate ru TheOldRoad3_0a94899b:
     # sak "Stops halfway on the bridge, walks over there, tosses a few coins down into the waters below."
     sak ""
 
-# TheOldRoad3_be57c006 (line 64140)
-translate ru TheOldRoad3_be57c006:
+# TheOldRoad3_df3c152c (line 64140)
+translate ru TheOldRoad3_df3c152c:
     # "Sarah turned to Sakar."
     ""
 
-# TheOldRoad3_a2f7ca67 (line 64141)
-translate ru TheOldRoad3_a2f7ca67:
+# TheOldRoad3_83534dea (line 64141)
+translate ru TheOldRoad3_83534dea:
     # s "But why?"
     s ""
 
-# TheOldRoad3_22244090 (line 64142)
-translate ru TheOldRoad3_22244090:
+# TheOldRoad3_e22618bd (line 64142)
+translate ru TheOldRoad3_e22618bd:
     # sak "Well, if I tell you I'm pretty sure he's going to run me through with his sword, so I'd rather not."
     sak ""
 
-# TheOldRoad3_a4726e23 (line 64143)
-translate ru TheOldRoad3_a4726e23:
+# TheOldRoad3_a1c13ba7 (line 64143)
+translate ru TheOldRoad3_a1c13ba7:
     # "Sarah frowned at him."
     ""
 
-# TheOldRoad3_a647d357 (line 64144)
-translate ru TheOldRoad3_a647d357:
+# TheOldRoad3_92fce781 (line 64144)
+translate ru TheOldRoad3_92fce781:
     # s "So you're just gonna annoy me?"
     s ""
 
-# TheOldRoad3_95c8da2d (line 64145)
-translate ru TheOldRoad3_95c8da2d:
+# TheOldRoad3_169b6c11 (line 64145)
+translate ru TheOldRoad3_169b6c11:
     # "He smiled."
     ""
 
-# TheOldRoad3_fae14915 (line 64146)
-translate ru TheOldRoad3_fae14915:
+# TheOldRoad3_3f8cb9ed (line 64146)
+translate ru TheOldRoad3_3f8cb9ed:
     # sak "That's the idea."
     sak ""
 
-# TheOldRoad3_e6ff77a9 (line 64147)
-translate ru TheOldRoad3_e6ff77a9:
+# TheOldRoad3_88f87fbf (line 64147)
+translate ru TheOldRoad3_88f87fbf:
     # s "Seriously, can't you tell me?"
     s ""
 
-# TheOldRoad3_a49255f3 (line 64148)
-translate ru TheOldRoad3_a49255f3:
+# TheOldRoad3_c3e39439 (line 64148)
+translate ru TheOldRoad3_c3e39439:
     # "Sakar suddenly looked very serious and shook his head."
     ""
 
-# TheOldRoad3_2165d855 (line 64149)
-translate ru TheOldRoad3_2165d855:
+# TheOldRoad3_1279de98 (line 64149)
+translate ru TheOldRoad3_1279de98:
     # sak "Honestly, if you want to get the story out of him, your best bet is to get him drunk."
     sak ""
 
-# TheOldRoad3_e44f9f99 (line 64150)
-translate ru TheOldRoad3_e44f9f99:
+# TheOldRoad3_51117b6c (line 64150)
+translate ru TheOldRoad3_51117b6c:
     # sak "That's just about the only time he ever talks about himself."
     sak ""
 
-# TheOldRoad3_3c14ab18 (line 64151)
-translate ru TheOldRoad3_3c14ab18:
+# TheOldRoad3_2e5e50b4 (line 64151)
+translate ru TheOldRoad3_2e5e50b4:
     # sak "Ooh, I think he's coming back."
     sak ""
 
-# TheOldRoad3_3a5ebd8a (line 64152)
-translate ru TheOldRoad3_3a5ebd8a:
+# TheOldRoad3_77ef0c27 (line 64152)
+translate ru TheOldRoad3_77ef0c27:
     # "Sakar dissapeared back into the cart as suddenly as he had appeared."
     ""
 
-# TheOldRoad3_a512ac89 (line 64153)
-translate ru TheOldRoad3_a512ac89:
+# TheOldRoad3_c6634914 (line 64153)
+translate ru TheOldRoad3_c6634914:
     # "A moment later, Sigmund climbed back onto the cart."
     ""
 
-# TheOldRoad3_0ff75fc5 (line 64154)
-translate ru TheOldRoad3_0ff75fc5:
+# TheOldRoad3_fd52296b (line 64154)
+translate ru TheOldRoad3_fd52296b:
     # "Without saying a word, he grabbed the reins and snapped them, forcing the horses to move again."
     ""
 
-# TheOldRoad3_b7e54b7c (line 64155)
-translate ru TheOldRoad3_b7e54b7c:
+# TheOldRoad3_5557a8fa (line 64155)
+translate ru TheOldRoad3_5557a8fa:
     # "Sarah looked at him."
     ""
 
-# TheOldRoad3_5610671a (line 64156)
-translate ru TheOldRoad3_5610671a:
+# TheOldRoad3_e733ef12 (line 64156)
+translate ru TheOldRoad3_e733ef12:
     # s "What was that about?"
     s ""
 
-# TheOldRoad3_12dcfea9 (line 64157)
-translate ru TheOldRoad3_12dcfea9:
+# TheOldRoad3_6bafb3c4 (line 64157)
+translate ru TheOldRoad3_6bafb3c4:
     # "He shrugged."
     ""
 
-# TheOldRoad3_7e10d6f9 (line 64158)
-translate ru TheOldRoad3_7e10d6f9:
+# TheOldRoad3_6216c263 (line 64158)
+translate ru TheOldRoad3_6216c263:
     # sig "Forget it. Just the ritual of a superstitious old fool."
     sig ""
 
-# TheOldRoad3_6fceab12 (line 64159)
-translate ru TheOldRoad3_6fceab12:
+# TheOldRoad3_61212617 (line 64159)
+translate ru TheOldRoad3_61212617:
     # "Sarah wasn't sure she believed that."
     ""
 
-# TheOldRoad3_282b7741 (line 64160)
-translate ru TheOldRoad3_282b7741:
+# TheOldRoad3_8962bd9e (line 64160)
+translate ru TheOldRoad3_8962bd9e:
     # "It wasn't long after they had begun to ride again that the cart reached the other side of the bridge, pulling back onto the road."
     ""
 
-# TheOldRoad3_60463934 (line 64167)
-translate ru TheOldRoad3_60463934:
+# TheOldRoad3_04d7f5e6 (line 64167)
+translate ru TheOldRoad3_04d7f5e6:
     # "The thick forests of the other side quickly faded and Sarah watched as the world around them opened up again."
     ""
 
-# TheOldRoad3_cc0c27a3 (line 64168)
-translate ru TheOldRoad3_cc0c27a3:
+# TheOldRoad3_5d1c1fb3 (line 64168)
+translate ru TheOldRoad3_5d1c1fb3:
     # "Fields, stretching far in ever direction."
     ""
 
-# TheOldRoad3_eecdf578 (line 64169)
-translate ru TheOldRoad3_eecdf578:
+# TheOldRoad3_7f62f56e (line 64169)
+translate ru TheOldRoad3_7f62f56e:
     # "After having been in the forest, this suddenly felt very vulernable."
     ""
 
-# TheOldRoad3_5acbd357 (line 64170)
-translate ru TheOldRoad3_5acbd357:
+# TheOldRoad3_43e6d2c5 (line 64170)
+translate ru TheOldRoad3_43e6d2c5:
     # sig "We'll make camp here before nightfall. I want us well rested before we move on."
     sig ""
 
-# TheOldRoad3_5a3c5e2b (line 64171)
-translate ru TheOldRoad3_5a3c5e2b:
+# TheOldRoad3_c7ff80e5 (line 64171)
+translate ru TheOldRoad3_c7ff80e5:
     # "As always, his instructions were dutifully followed by everyone, and before long, they had made camp and night set in."
     ""
 
-# TheOldRoad3_90b7df4b (line 64177)
-translate ru TheOldRoad3_90b7df4b:
+# TheOldRoad3_4c705464 (line 64177)
+translate ru TheOldRoad3_4c705464:
     # "As Sarah prepared the food and passed it around, by now having grown somewhat skilled at doing so, each member of the crew sat staring at the campfire."
     ""
 
-# TheOldRoad3_05a52e97 (line 64178)
-translate ru TheOldRoad3_05a52e97:
+# TheOldRoad3_54c49f0d (line 64178)
+translate ru TheOldRoad3_54c49f0d:
     # "Sarah saw Sakar sat close to her, closer than he otherwise would."
     ""
 
-# TheOldRoad3_f0f2f0fe (line 64186)
-translate ru TheOldRoad3_f0f2f0fe:
+# TheOldRoad3_552d4042 (line 64186)
+translate ru TheOldRoad3_552d4042:
     # "Towards her other side, Sarah could see that Sigmund was pushing his food back and forth. More sullen than usual."
     ""
 
-# TheOldRoad3_ecbb184f (line 64187)
-translate ru TheOldRoad3_ecbb184f:
+# TheOldRoad3_4c62d0b4 (line 64187)
+translate ru TheOldRoad3_4c62d0b4:
     # "She considered pushing Sigmund again on the matter of the bridge, but there was no point."
     ""
 
-# TheOldRoad3_918b45b4 (line 64188)
-translate ru TheOldRoad3_918b45b4:
+# TheOldRoad3_dbbd58b7 (line 64188)
+translate ru TheOldRoad3_dbbd58b7:
     # "He had refused to answer her before, he'd refuse to answer her now."
     ""
 
-# TheOldRoad3_ae4bb843 (line 64189)
-translate ru TheOldRoad3_ae4bb843:
+# TheOldRoad3_777969e0 (line 64189)
+translate ru TheOldRoad3_777969e0:
     # "Then, a thought came to her, inspired by what Sakar had told her earlier in the day."
     ""
 
-# TheOldRoad3_a6baf6d9 (line 64190)
-translate ru TheOldRoad3_a6baf6d9:
+# TheOldRoad3_de1d2d3d (line 64190)
+translate ru TheOldRoad3_de1d2d3d:
     # "If he was drunk enough, he might tell her."
     ""
 
-# TheOldRoad3_49e43404 (line 64193)
-translate ru TheOldRoad3_49e43404:
+# TheOldRoad3_973ef92c (line 64193)
+translate ru TheOldRoad3_973ef92c:
     # "Get Sigmund drunk"
     "Get Sigmund drunk" ""
 
-# TheOldRoad3_1c5909de (line 64268)
-translate ru TheOldRoad3_1c5909de:
+# TheOldRoad3_49676b99 (line 64268)
+translate ru TheOldRoad3_49676b99:
     # "Sure, clear my head"
     "Sure, clear my head" ""
 
-# TheOldRoad3_e3e8961d (line 64307)
-translate ru TheOldRoad3_e3e8961d:
+# TheOldRoad3_68a1a2db (line 64307)
+translate ru TheOldRoad3_68a1a2db:
     # "Please, I'll do anything"
     "Please, I'll do anything" ""
 
-# TheOldRoad3_358e1164 (line 64560)
-translate ru TheOldRoad3_358e1164:
+# TheOldRoad3_510f4ab4 (line 64560)
+translate ru TheOldRoad3_510f4ab4:
     # "Agree, let the matter rest"
     "Agree, let the matter rest" ""
 
-# TheOldRoad3_4fa79970 (line 64575)
-translate ru TheOldRoad3_4fa79970:
+# TheOldRoad3_908db59e (line 64575)
+translate ru TheOldRoad3_908db59e:
     # "Leave me alone"
     "Leave me alone" ""
 
-# TheOldRoad3_31859891 (line 64586)
-translate ru TheOldRoad3_31859891:
+# TheOldRoad3_09869c91 (line 64586)
+translate ru TheOldRoad3_09869c91:
     # "Leave it be"
     "Leave it be" ""
 

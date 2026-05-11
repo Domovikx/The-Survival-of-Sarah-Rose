@@ -3,1363 +3,1363 @@
 # Scene: HuntingTheBeast1
 # Total blocks: 272
 
-# HuntingTheBeast1_afaabf1a (line 49983)
-translate ru HuntingTheBeast1_afaabf1a:
+# HuntingTheBeast1_f03d204a (line 49983)
+translate ru HuntingTheBeast1_f03d204a:
     # "Sarah placed one hand on the Mayor's shoulder."
     ""
 
-# HuntingTheBeast1_300b438e (line 49984)
-translate ru HuntingTheBeast1_300b438e:
+# HuntingTheBeast1_c461df32 (line 49984)
+translate ru HuntingTheBeast1_c461df32:
     # s "I promise you I will do everything I can to help your village."
     s ""
 
-# HuntingTheBeast1_dcdbc697 (line 49985)
-translate ru HuntingTheBeast1_dcdbc697:
+# HuntingTheBeast1_e10827c4 (line 49985)
+translate ru HuntingTheBeast1_e10827c4:
     # "She saw a smile come across the man's face."
     ""
 
-# HuntingTheBeast1_770738aa (line 49986)
-translate ru HuntingTheBeast1_770738aa:
+# HuntingTheBeast1_30712830 (line 49986)
+translate ru HuntingTheBeast1_30712830:
     # "Mayor" "Really? You'll actually help us?"
     ""
 
-# HuntingTheBeast1_d53f09f2 (line 49987)
-translate ru HuntingTheBeast1_d53f09f2:
+# HuntingTheBeast1_47c41b6b (line 49987)
+translate ru HuntingTheBeast1_47c41b6b:
     # "Sarah nodded."
     ""
 
-# HuntingTheBeast1_ccf9d867 (line 49988)
-translate ru HuntingTheBeast1_ccf9d867:
+# HuntingTheBeast1_6b410db6 (line 49988)
+translate ru HuntingTheBeast1_6b410db6:
     # "Mayor" "I had almost feared to even ask..."
     ""
 
-# HuntingTheBeast1_3f179cf4 (line 49989)
-translate ru HuntingTheBeast1_3f179cf4:
+# HuntingTheBeast1_3b964250 (line 49989)
+translate ru HuntingTheBeast1_3b964250:
     # "Mayor" "Most soldiers are not know for their kindness to common folk."
     ""
 
-# HuntingTheBeast1_f003aa0e (line 49990)
-translate ru HuntingTheBeast1_f003aa0e:
+# HuntingTheBeast1_e0e0dfb9 (line 49990)
+translate ru HuntingTheBeast1_e0e0dfb9:
     # "Sarah nodded."
     ""
 
-# HuntingTheBeast1_21ee9bd9 (line 49991)
-translate ru HuntingTheBeast1_21ee9bd9:
+# HuntingTheBeast1_82839d96 (line 49991)
+translate ru HuntingTheBeast1_82839d96:
     # s "Perhaps. But when I grew up my father showed me the importance of helping those who are in need."
     s ""
 
-# HuntingTheBeast1_a9d2338c (line 49992)
-translate ru HuntingTheBeast1_a9d2338c:
+# HuntingTheBeast1_d4841ad4 (line 49992)
+translate ru HuntingTheBeast1_d4841ad4:
     # "Mayor" "Your father sounds like a kind man."
     ""
 
-# HuntingTheBeast1_64793d13 (line 49993)
-translate ru HuntingTheBeast1_64793d13:
+# HuntingTheBeast1_80022bfe (line 49993)
+translate ru HuntingTheBeast1_80022bfe:
     # "Sarah smiled."
     ""
 
-# HuntingTheBeast1_f7e8bf32 (line 49994)
-translate ru HuntingTheBeast1_f7e8bf32:
+# HuntingTheBeast1_ec3e6a9c (line 49994)
+translate ru HuntingTheBeast1_ec3e6a9c:
     # s "He was."
     s ""
 
-# HuntingTheBeast1_3a1be4af (line 49995)
-translate ru HuntingTheBeast1_3a1be4af:
+# HuntingTheBeast1_342a1ba4 (line 49995)
+translate ru HuntingTheBeast1_342a1ba4:
     # "The Mayor stood up."
     ""
 
-# HuntingTheBeast1_8e875a9a (line 49996)
-translate ru HuntingTheBeast1_8e875a9a:
+# HuntingTheBeast1_67d18d45 (line 49996)
+translate ru HuntingTheBeast1_67d18d45:
     # "Mayor" "I think the best place for you to start is to speak with Garret."
     ""
 
-# HuntingTheBeast1_23f3ffa2 (line 49997)
-translate ru HuntingTheBeast1_23f3ffa2:
+# HuntingTheBeast1_f5c36885 (line 49997)
+translate ru HuntingTheBeast1_f5c36885:
     # s "Garret?"
     s ""
 
-# HuntingTheBeast1_c6829c25 (line 49998)
-translate ru HuntingTheBeast1_c6829c25:
+# HuntingTheBeast1_6af6ef61 (line 49998)
+translate ru HuntingTheBeast1_6af6ef61:
     # "Mayor" "He is the town's Huntsman. He has spend more time tracking the beast than any other."
     ""
 
-# HuntingTheBeast1_9b773234 (line 49999)
-translate ru HuntingTheBeast1_9b773234:
+# HuntingTheBeast1_597b314b (line 49999)
+translate ru HuntingTheBeast1_597b314b:
     # "Mayor" "He also knows the land better than anyone. He can help you get started."
     ""
 
-# HuntingTheBeast1_447be153 (line 50000)
-translate ru HuntingTheBeast1_447be153:
+# HuntingTheBeast1_048b28b3 (line 50000)
+translate ru HuntingTheBeast1_048b28b3:
     # "Sarah nodded."
     ""
 
-# HuntingTheBeast1_a8c2f00f (line 50001)
-translate ru HuntingTheBeast1_a8c2f00f:
+# HuntingTheBeast1_5be61eb6 (line 50001)
+translate ru HuntingTheBeast1_5be61eb6:
     # s "Thank you, I'll go speak with him and see about resolving this matter."
     s ""
 
-# HuntingTheBeast1_484ce48c (line 50002)
-translate ru HuntingTheBeast1_484ce48c:
+# HuntingTheBeast1_c95df84b (line 50002)
+translate ru HuntingTheBeast1_c95df84b:
     # "The Mayor grabbed her hands just before she left."
     ""
 
-# HuntingTheBeast1_ff76ccc1 (line 50003)
-translate ru HuntingTheBeast1_ff76ccc1:
+# HuntingTheBeast1_f63509ee (line 50003)
+translate ru HuntingTheBeast1_f63509ee:
     # "Mayor" "Thank you...truly."
     ""
 
-# HuntingTheBeast1_d2c616b6 (line 50010)
-translate ru HuntingTheBeast1_d2c616b6:
+# HuntingTheBeast1_af55df7a (line 50010)
+translate ru HuntingTheBeast1_af55df7a:
     # "Leaving the tavern, Sarah walk through the streest of Hillstown, following the directions to the Huntman's hut."
     ""
 
-# HuntingTheBeast1_8bc1442d (line 50011)
-translate ru HuntingTheBeast1_8bc1442d:
+# HuntingTheBeast1_1ca31cb4 (line 50011)
+translate ru HuntingTheBeast1_1ca31cb4:
     # "Throughout the town, Sarah saw there were still some celebrations, but they seemed to have dimmed a bit."
     ""
 
-# HuntingTheBeast1_3aa423ca (line 50012)
-translate ru HuntingTheBeast1_3aa423ca:
+# HuntingTheBeast1_7f6f12d8 (line 50012)
+translate ru HuntingTheBeast1_7f6f12d8:
     # "The news of the attack on the young girl seemed to have spoiled anyone's appetite for a party."
     ""
 
-# HuntingTheBeast1_19aeafb8 (line 50013)
-translate ru HuntingTheBeast1_19aeafb8:
+# HuntingTheBeast1_15f02489 (line 50013)
+translate ru HuntingTheBeast1_15f02489:
     # "Winding down the road, Sarah came upon a small hut near the edge of the town."
     ""
 
-# HuntingTheBeast1_3a41d697 (line 50020)
-translate ru HuntingTheBeast1_3a41d697:
+# HuntingTheBeast1_57ac3539 (line 50020)
+translate ru HuntingTheBeast1_57ac3539:
     # "A large man sat just outside, carving into a block of wood with a knife."
     ""
 
-# HuntingTheBeast1_22aaccc6 (line 50021)
-translate ru HuntingTheBeast1_22aaccc6:
+# HuntingTheBeast1_f14f3bbd (line 50021)
+translate ru HuntingTheBeast1_f14f3bbd:
     # "The man was build like a wall, tall and broad shoulders. Arms like logs."
     ""
 
-# HuntingTheBeast1_bc704c64 (line 50022)
-translate ru HuntingTheBeast1_bc704c64:
+# HuntingTheBeast1_6853c019 (line 50022)
+translate ru HuntingTheBeast1_6853c019:
     # "Sarah had expected the man to look like a Huntsman, but she had not expected him to look almost like an exaggerated ideal of it."
     ""
 
-# HuntingTheBeast1_2bfb3596 (line 50023)
-translate ru HuntingTheBeast1_2bfb3596:
+# HuntingTheBeast1_c9e58b48 (line 50023)
+translate ru HuntingTheBeast1_c9e58b48:
     # "Before she could announce herself, he spoke."
     ""
 
-# HuntingTheBeast1_4ea6c3d4 (line 50024)
-translate ru HuntingTheBeast1_4ea6c3d4:
+# HuntingTheBeast1_b13d90a1 (line 50024)
+translate ru HuntingTheBeast1_b13d90a1:
     # gar "What?"
     gar ""
 
-# HuntingTheBeast1_216b9661 (line 50025)
-translate ru HuntingTheBeast1_216b9661:
+# HuntingTheBeast1_7cd90005 (line 50025)
+translate ru HuntingTheBeast1_7cd90005:
     # "His voice boomed loud and deep, fitting for a man like himself."
     ""
 
-# HuntingTheBeast1_cef8903f (line 50026)
-translate ru HuntingTheBeast1_cef8903f:
+# HuntingTheBeast1_c1cac9ad (line 50026)
+translate ru HuntingTheBeast1_c1cac9ad:
     # s "I was told people in small towns have better manners than big city types."
     s ""
 
-# HuntingTheBeast1_e8061098 (line 50027)
-translate ru HuntingTheBeast1_e8061098:
+# HuntingTheBeast1_bd2872a8 (line 50027)
+translate ru HuntingTheBeast1_bd2872a8:
     # gar "Well whoever told you that must have been an idiot."
     gar ""
 
-# HuntingTheBeast1_7cce2e1e (line 50033)
-translate ru HuntingTheBeast1_7cce2e1e:
+# HuntingTheBeast1_a26f1842 (line 50033)
+translate ru HuntingTheBeast1_a26f1842:
     # "The Huntsman continued carving the wooden figurine."
     ""
 
-# HuntingTheBeast1_e5d2b4fb (line 50034)
-translate ru HuntingTheBeast1_e5d2b4fb:
+# HuntingTheBeast1_4730ba6f (line 50034)
+translate ru HuntingTheBeast1_4730ba6f:
     # s "You are Garret, the town Huntsman?"
     s ""
 
-# HuntingTheBeast1_5f0cd660 (line 50035)
-translate ru HuntingTheBeast1_5f0cd660:
+# HuntingTheBeast1_94589b8c (line 50035)
+translate ru HuntingTheBeast1_94589b8c:
     # gar "And you are the Rose Knight, I take it."
     gar ""
 
-# HuntingTheBeast1_8469c502 (line 50036)
-translate ru HuntingTheBeast1_8469c502:
+# HuntingTheBeast1_eb6ab58d (line 50036)
+translate ru HuntingTheBeast1_eb6ab58d:
     # "Sarah was surprised to hear him call her that."
     ""
 
-# HuntingTheBeast1_dae66de8 (line 50037)
-translate ru HuntingTheBeast1_dae66de8:
+# HuntingTheBeast1_90cb65b3 (line 50037)
+translate ru HuntingTheBeast1_90cb65b3:
     # s "I...who told you that?"
     s ""
 
-# HuntingTheBeast1_4882a28a (line 50043)
-translate ru HuntingTheBeast1_4882a28a:
+# HuntingTheBeast1_3e164187 (line 50043)
+translate ru HuntingTheBeast1_3e164187:
     # gar "Your soldiers like to blabber after a few drinks in them."
     gar ""
 
-# HuntingTheBeast1_f73a5bd9 (line 50044)
-translate ru HuntingTheBeast1_f73a5bd9:
+# HuntingTheBeast1_14d36655 (line 50044)
+translate ru HuntingTheBeast1_14d36655:
     # gar "They talk all sorts of nonesense about you, killing demons and what not."
     gar ""
 
-# HuntingTheBeast1_fb81b0d0 (line 50045)
-translate ru HuntingTheBeast1_fb81b0d0:
+# HuntingTheBeast1_54016993 (line 50045)
+translate ru HuntingTheBeast1_54016993:
     # gar "And there aren't a lot of blonde women walking around in suits of armor. So the odds were decent it was you."
     gar ""
 
-# HuntingTheBeast1_42dc7290 (line 50046)
-translate ru HuntingTheBeast1_42dc7290:
+# HuntingTheBeast1_d1bd0f44 (line 50046)
+translate ru HuntingTheBeast1_d1bd0f44:
     # gar "You have a proper name, or just a title?"
     gar ""
 
-# HuntingTheBeast1_99d01213 (line 50047)
-translate ru HuntingTheBeast1_99d01213:
+# HuntingTheBeast1_4b1f33ea (line 50047)
+translate ru HuntingTheBeast1_4b1f33ea:
     # "Sarah smiled. The man was coarse in his language, but she appreciated his directness."
     ""
 
-# HuntingTheBeast1_be6d7040 (line 50048)
-translate ru HuntingTheBeast1_be6d7040:
+# HuntingTheBeast1_620334d7 (line 50048)
+translate ru HuntingTheBeast1_620334d7:
     # s "Sarah Rose."
     s ""
 
-# HuntingTheBeast1_82a3d3e6 (line 50049)
-translate ru HuntingTheBeast1_82a3d3e6:
+# HuntingTheBeast1_2a2656ab (line 50049)
+translate ru HuntingTheBeast1_2a2656ab:
     # gar "Well, good to meet you, Sarah Rose, though I regret the circumstances."
     gar ""
 
-# HuntingTheBeast1_795200bc (line 50050)
-translate ru HuntingTheBeast1_795200bc:
+# HuntingTheBeast1_609eb41a (line 50050)
+translate ru HuntingTheBeast1_609eb41a:
     # s "So you know about the girl?"
     s ""
 
-# HuntingTheBeast1_6b2957ce (line 50051)
-translate ru HuntingTheBeast1_6b2957ce:
+# HuntingTheBeast1_efafcc8a (line 50051)
+translate ru HuntingTheBeast1_efafcc8a:
     # gar "The Miller girl? Yes."
     gar ""
 
-# HuntingTheBeast1_de305e63 (line 50052)
-translate ru HuntingTheBeast1_de305e63:
+# HuntingTheBeast1_914561c4 (line 50052)
+translate ru HuntingTheBeast1_914561c4:
     # gar "Gossip goes through this town like a plague. Terrible what happened to her."
     gar ""
 
-# HuntingTheBeast1_389729cf (line 50053)
-translate ru HuntingTheBeast1_389729cf:
+# HuntingTheBeast1_2c999737 (line 50053)
+translate ru HuntingTheBeast1_2c999737:
     # s "You think she'll live?"
     s ""
 
-# HuntingTheBeast1_2d2a62db (line 50054)
-translate ru HuntingTheBeast1_2d2a62db:
+# HuntingTheBeast1_7bdc8f85 (line 50054)
+translate ru HuntingTheBeast1_7bdc8f85:
     # "Garret shrugged."
     ""
 
-# HuntingTheBeast1_6f603ccd (line 50055)
-translate ru HuntingTheBeast1_6f603ccd:
+# HuntingTheBeast1_324ac5e0 (line 50055)
+translate ru HuntingTheBeast1_324ac5e0:
     # gar "She's tougher than she looks. I've said my prayers and burned my offerings to the Gods."
     gar ""
 
-# HuntingTheBeast1_a959194e (line 50056)
-translate ru HuntingTheBeast1_a959194e:
+# HuntingTheBeast1_5bddef40 (line 50056)
+translate ru HuntingTheBeast1_5bddef40:
     # gar "Whatever happens after is out of my hands."
     gar ""
 
-# HuntingTheBeast1_9c02a1bf (line 50057)
-translate ru HuntingTheBeast1_9c02a1bf:
+# HuntingTheBeast1_fd1922d7 (line 50057)
+translate ru HuntingTheBeast1_fd1922d7:
     # "Sarah watched as he continued to carve the wood with the tip of his knife."
     ""
 
-# HuntingTheBeast1_41caa5cc (line 50058)
-translate ru HuntingTheBeast1_41caa5cc:
+# HuntingTheBeast1_27f74132 (line 50058)
+translate ru HuntingTheBeast1_27f74132:
     # s "Shouldn't you be out gathering men? Go hunt for this thing now that the tracks are still fresh?"
     s ""
 
-# HuntingTheBeast1_1cb44a8d (line 50059)
-translate ru HuntingTheBeast1_1cb44a8d:
+# HuntingTheBeast1_96cdf58a (line 50059)
+translate ru HuntingTheBeast1_96cdf58a:
     # "Garret sighed."
     ""
 
-# HuntingTheBeast1_45896687 (line 50060)
-translate ru HuntingTheBeast1_45896687:
+# HuntingTheBeast1_9aa2975d (line 50060)
+translate ru HuntingTheBeast1_9aa2975d:
     # gar "I did that. I did that for Gods know how many times."
     gar ""
 
-# HuntingTheBeast1_f1e1c580 (line 50061)
-translate ru HuntingTheBeast1_f1e1c580:
+# HuntingTheBeast1_79051ea0 (line 50061)
+translate ru HuntingTheBeast1_79051ea0:
     # gar "Always the same shit."
     gar ""
 
-# HuntingTheBeast1_ecd8fe6d (line 50062)
-translate ru HuntingTheBeast1_ecd8fe6d:
+# HuntingTheBeast1_e1bb43fe (line 50062)
+translate ru HuntingTheBeast1_e1bb43fe:
     # gar "The Beast is gone before we even hear about the attack, and when we get there, the tracks lead back into the forest."
     gar ""
 
-# HuntingTheBeast1_d52a1d27 (line 50063)
-translate ru HuntingTheBeast1_d52a1d27:
+# HuntingTheBeast1_148fb465 (line 50063)
+translate ru HuntingTheBeast1_148fb465:
     # gar "Then they vanish."
     gar ""
 
-# HuntingTheBeast1_e80a607d (line 50064)
-translate ru HuntingTheBeast1_e80a607d:
+# HuntingTheBeast1_4fbf8d3e (line 50064)
+translate ru HuntingTheBeast1_4fbf8d3e:
     # s "So, you've just given up? Taken to carving toys?"
     s ""
 
-# HuntingTheBeast1_da0a3129 (line 50065)
-translate ru HuntingTheBeast1_da0a3129:
+# HuntingTheBeast1_2142785a (line 50065)
+translate ru HuntingTheBeast1_2142785a:
     # gar "Not a toy. A totem."
     gar ""
 
-# HuntingTheBeast1_83e66f2a (line 50066)
-translate ru HuntingTheBeast1_83e66f2a:
+# HuntingTheBeast1_0d05876c (line 50066)
+translate ru HuntingTheBeast1_0d05876c:
     # s "Totem?"
     s ""
 
-# HuntingTheBeast1_b8508448 (line 50067)
-translate ru HuntingTheBeast1_b8508448:
+# HuntingTheBeast1_2d01ac8a (line 50067)
+translate ru HuntingTheBeast1_2d01ac8a:
     # gar "The forests here are old. Home to spirits of all kinds."
     gar ""
 
-# HuntingTheBeast1_32bf255e (line 50068)
-translate ru HuntingTheBeast1_32bf255e:
+# HuntingTheBeast1_65022cc4 (line 50068)
+translate ru HuntingTheBeast1_65022cc4:
     # gar "We carve totems as offerings, to keep them at peace when we enter the forest."
     gar ""
 
-# HuntingTheBeast1_70cd5cdd (line 50069)
-translate ru HuntingTheBeast1_70cd5cdd:
+# HuntingTheBeast1_50b7b172 (line 50069)
+translate ru HuntingTheBeast1_50b7b172:
     # s "Why would a spirit care for a totem?"
     s ""
 
-# HuntingTheBeast1_61ac61fa (line 50070)
-translate ru HuntingTheBeast1_61ac61fa:
+# HuntingTheBeast1_c910530b (line 50070)
+translate ru HuntingTheBeast1_c910530b:
     # gar "They're woodland spirits. They can sense the trees and the wood more clearly than any other substance."
     gar ""
 
-# HuntingTheBeast1_e3d5f06d (line 50071)
-translate ru HuntingTheBeast1_e3d5f06d:
+# HuntingTheBeast1_b1fea58f (line 50071)
+translate ru HuntingTheBeast1_b1fea58f:
     # gar "So we carve them into shapes from their old lives. Small things they might remember."
     gar ""
 
-# HuntingTheBeast1_650eedb9 (line 50072)
-translate ru HuntingTheBeast1_650eedb9:
+# HuntingTheBeast1_2a5f29a1 (line 50072)
+translate ru HuntingTheBeast1_2a5f29a1:
     # gar "By remembering that they were once people, the spirits calm down a bit."
     gar ""
 
-# HuntingTheBeast1_2af38bc7 (line 50073)
-translate ru HuntingTheBeast1_2af38bc7:
+# HuntingTheBeast1_13c7ae20 (line 50073)
+translate ru HuntingTheBeast1_13c7ae20:
     # "Sarah frowned."
     ""
 
-# HuntingTheBeast1_05534d75 (line 50074)
-translate ru HuntingTheBeast1_05534d75:
+# HuntingTheBeast1_45c0c127 (line 50074)
+translate ru HuntingTheBeast1_45c0c127:
     # s "You don't strike me as the superstitious type."
     s ""
 
-# HuntingTheBeast1_bd2c00d3 (line 50075)
-translate ru HuntingTheBeast1_bd2c00d3:
+# HuntingTheBeast1_f4a215b7 (line 50075)
+translate ru HuntingTheBeast1_f4a215b7:
     # gar "It ain't superstitious if it's fact."
     gar ""
 
-# HuntingTheBeast1_c5e7ef38 (line 50076)
-translate ru HuntingTheBeast1_c5e7ef38:
+# HuntingTheBeast1_25038463 (line 50076)
+translate ru HuntingTheBeast1_25038463:
     # "Sarah couldn't help but laugh."
     ""
 
-# HuntingTheBeast1_a2b4015d (line 50077)
-translate ru HuntingTheBeast1_a2b4015d:
+# HuntingTheBeast1_ce050872 (line 50077)
+translate ru HuntingTheBeast1_ce050872:
     # s "That's true enough, I suppose. That still doesn't resolve our issue."
     s ""
 
-# HuntingTheBeast1_758171d4 (line 50078)
-translate ru HuntingTheBeast1_758171d4:
+# HuntingTheBeast1_e1fa6b80 (line 50078)
+translate ru HuntingTheBeast1_e1fa6b80:
     # "Garret put down the knife and the totem."
     ""
 
-# HuntingTheBeast1_61e81f8f (line 50079)
-translate ru HuntingTheBeast1_61e81f8f:
+# HuntingTheBeast1_71f5cdf1 (line 50079)
+translate ru HuntingTheBeast1_71f5cdf1:
     # gar "What business is this of yours anyway?"
     gar ""
 
-# HuntingTheBeast1_5eb48929 (line 50080)
-translate ru HuntingTheBeast1_5eb48929:
+# HuntingTheBeast1_0b8c4454 (line 50080)
+translate ru HuntingTheBeast1_0b8c4454:
     # gar "From what I take it, you have an army and quite the reputation. Shouldn't someone like you be out saving the world?"
     gar ""
 
-# HuntingTheBeast1_e57e774f (line 50081)
-translate ru HuntingTheBeast1_e57e774f:
+# HuntingTheBeast1_20b703e6 (line 50081)
+translate ru HuntingTheBeast1_20b703e6:
     # gar "What do you care what happens to a small town like this?"
     gar ""
 
-# HuntingTheBeast1_9c45b78d (line 50082)
-translate ru HuntingTheBeast1_9c45b78d:
+# HuntingTheBeast1_2fc8e5ca (line 50082)
+translate ru HuntingTheBeast1_2fc8e5ca:
     # "Sarah sighed."
     ""
 
-# HuntingTheBeast1_e3abd9a5 (line 50083)
-translate ru HuntingTheBeast1_e3abd9a5:
+# HuntingTheBeast1_3b33a277 (line 50083)
+translate ru HuntingTheBeast1_3b33a277:
     # s "I care. Blame my personality. Blame how I was raised. Fuck, if I knew how to turn it off, I would."
     s ""
 
-# HuntingTheBeast1_f315b13c (line 50084)
-translate ru HuntingTheBeast1_f315b13c:
+# HuntingTheBeast1_8d491ac8 (line 50084)
+translate ru HuntingTheBeast1_8d491ac8:
     # s "But I can't. So instead, I end up wasting my time talking to angry, old hunters, trying to convince them to accept some help."
     s ""
 
-# HuntingTheBeast1_6161884b (line 50085)
-translate ru HuntingTheBeast1_6161884b:
+# HuntingTheBeast1_30b20d08 (line 50085)
+translate ru HuntingTheBeast1_30b20d08:
     # "Garret looked up at her. For the first time there was somewhat of a smile on his face."
     ""
 
-# HuntingTheBeast1_709482b4 (line 50086)
-translate ru HuntingTheBeast1_709482b4:
+# HuntingTheBeast1_9d9e6ef3 (line 50086)
+translate ru HuntingTheBeast1_9d9e6ef3:
     # gar "I ain't that old, young sprout."
     gar ""
 
-# HuntingTheBeast1_d366cb27 (line 50087)
-translate ru HuntingTheBeast1_d366cb27:
+# HuntingTheBeast1_d420ca60 (line 50087)
+translate ru HuntingTheBeast1_d420ca60:
     # gar "Follow me."
     gar ""
 
-# HuntingTheBeast1_bc330f5f (line 50095)
-translate ru HuntingTheBeast1_bc330f5f:
+# HuntingTheBeast1_d66a0a59 (line 50095)
+translate ru HuntingTheBeast1_d66a0a59:
     # "Sarah followed Garret into his home."
     ""
 
-# HuntingTheBeast1_df5fa4e4 (line 50096)
-translate ru HuntingTheBeast1_df5fa4e4:
+# HuntingTheBeast1_e9c98a80 (line 50096)
+translate ru HuntingTheBeast1_e9c98a80:
     # "It was well kept, but plain. The type of home one might expect of a Huntsman in a town out nowhere."
     ""
 
-# HuntingTheBeast1_0fc31672 (line 50097)
-translate ru HuntingTheBeast1_0fc31672:
+# HuntingTheBeast1_7ae36e04 (line 50097)
+translate ru HuntingTheBeast1_7ae36e04:
     # gar "I've been hunting this thing for months now, and still ain't even caught sight of the thing."
     gar ""
 
-# HuntingTheBeast1_e0faa795 (line 50098)
-translate ru HuntingTheBeast1_e0faa795:
+# HuntingTheBeast1_83bfb4c8 (line 50098)
+translate ru HuntingTheBeast1_83bfb4c8:
     # "Sarah watched as Garret unfurled a map."
     ""
 
-# HuntingTheBeast1_5c40030a (line 50099)
-translate ru HuntingTheBeast1_5c40030a:
+# HuntingTheBeast1_d2b316a3 (line 50099)
+translate ru HuntingTheBeast1_d2b316a3:
     # "It showed the town, the surrounding areas, the forest, and a few red markers."
     ""
 
-# HuntingTheBeast1_a03412c5 (line 50100)
-translate ru HuntingTheBeast1_a03412c5:
+# HuntingTheBeast1_f3d91e57 (line 50100)
+translate ru HuntingTheBeast1_f3d91e57:
     # "Sarah leaned in."
     ""
 
-# HuntingTheBeast1_e89e0f12 (line 50101)
-translate ru HuntingTheBeast1_e89e0f12:
+# HuntingTheBeast1_3e6f02a6 (line 50101)
+translate ru HuntingTheBeast1_3e6f02a6:
     # "Garret placed his finger near one of the red markers."
     ""
 
-# HuntingTheBeast1_86f20b00 (line 50102)
-translate ru HuntingTheBeast1_86f20b00:
+# HuntingTheBeast1_3fc251a9 (line 50102)
+translate ru HuntingTheBeast1_3fc251a9:
     # gar "These are the known places where we've had attacks. About a doze or so now."
     gar ""
 
-# HuntingTheBeast1_364f8646 (line 50103)
-translate ru HuntingTheBeast1_364f8646:
+# HuntingTheBeast1_26fc1ef3 (line 50103)
+translate ru HuntingTheBeast1_26fc1ef3:
     # s "A dozen attacks?"
     s ""
 
-# HuntingTheBeast1_a1392c62 (line 50104)
-translate ru HuntingTheBeast1_a1392c62:
+# HuntingTheBeast1_1f7e685e (line 50104)
+translate ru HuntingTheBeast1_1f7e685e:
     # gar "Not all as serious as the others."
     gar ""
 
-# HuntingTheBeast1_e3285e2a (line 50105)
-translate ru HuntingTheBeast1_e3285e2a:
+# HuntingTheBeast1_02fa5f40 (line 50105)
+translate ru HuntingTheBeast1_02fa5f40:
     # "He tapped at three markings in quick succession."
     ""
 
-# HuntingTheBeast1_17194903 (line 50107)
-translate ru HuntingTheBeast1_17194903:
+# HuntingTheBeast1_dbb09158 (line 50107)
+translate ru HuntingTheBeast1_dbb09158:
     # gar "Those are the three deaths...the killings."
     gar ""
 
-# HuntingTheBeast1_e27a1db2 (line 50108)
-translate ru HuntingTheBeast1_e27a1db2:
+# HuntingTheBeast1_799ef286 (line 50108)
+translate ru HuntingTheBeast1_799ef286:
     # gar "The other attacks, thank the Gods, were only injuries."
     gar ""
 
-# HuntingTheBeast1_df0a9899 (line 50109)
-translate ru HuntingTheBeast1_df0a9899:
+# HuntingTheBeast1_de4e6702 (line 50109)
+translate ru HuntingTheBeast1_de4e6702:
     # "Sarah nodded."
     ""
 
-# HuntingTheBeast1_27c7c7cd (line 50110)
-translate ru HuntingTheBeast1_27c7c7cd:
+# HuntingTheBeast1_da594d93 (line 50110)
+translate ru HuntingTheBeast1_da594d93:
     # "Studying the map, she tried to uncover a pattern."
     ""
 
-# HuntingTheBeast1_554995cf (line 50111)
-translate ru HuntingTheBeast1_554995cf:
+# HuntingTheBeast1_ebef79c4 (line 50111)
+translate ru HuntingTheBeast1_ebef79c4:
     # s "They all take place outside the village."
     s ""
 
-# HuntingTheBeast1_ca677a36 (line 50112)
-translate ru HuntingTheBeast1_ca677a36:
+# HuntingTheBeast1_752055a3 (line 50112)
+translate ru HuntingTheBeast1_752055a3:
     # "Garret nodded."
     ""
 
-# HuntingTheBeast1_326a0523 (line 50113)
-translate ru HuntingTheBeast1_326a0523:
+# HuntingTheBeast1_bdf3a459 (line 50113)
+translate ru HuntingTheBeast1_bdf3a459:
     # gar "As far as we know, the Beast avoids the town. But even just a small distance outside, we've had attacks."
     gar ""
 
-# HuntingTheBeast1_3045dc00 (line 50114)
-translate ru HuntingTheBeast1_3045dc00:
+# HuntingTheBeast1_09b9132f (line 50114)
+translate ru HuntingTheBeast1_09b9132f:
     # s "They're mostly on this side."
     s ""
 
-# HuntingTheBeast1_717a673e (line 50115)
-translate ru HuntingTheBeast1_717a673e:
+# HuntingTheBeast1_d28ff991 (line 50115)
+translate ru HuntingTheBeast1_d28ff991:
     # "Sarah tapped the northern portion of the map."
     ""
 
-# HuntingTheBeast1_90afbda3 (line 50116)
-translate ru HuntingTheBeast1_90afbda3:
+# HuntingTheBeast1_250f7457 (line 50116)
+translate ru HuntingTheBeast1_250f7457:
     # "Garret nodded."
     ""
 
-# HuntingTheBeast1_d4bbe166 (line 50117)
-translate ru HuntingTheBeast1_d4bbe166:
+# HuntingTheBeast1_0d7496ba (line 50117)
+translate ru HuntingTheBeast1_0d7496ba:
     # gar "It's closer to the forest edge."
     gar ""
 
-# HuntingTheBeast1_4e4d7fa4 (line 50118)
-translate ru HuntingTheBeast1_4e4d7fa4:
+# HuntingTheBeast1_f44a3374 (line 50118)
+translate ru HuntingTheBeast1_f44a3374:
     # gar "We're all but certain that it hides out there, though we've not been able to track it to a lair."
     gar ""
 
-# HuntingTheBeast1_3d207ebb (line 50119)
-translate ru HuntingTheBeast1_3d207ebb:
+# HuntingTheBeast1_971d1cdb (line 50119)
+translate ru HuntingTheBeast1_971d1cdb:
     # s "You think it has a lair?"
     s ""
 
-# HuntingTheBeast1_b26194c8 (line 50120)
-translate ru HuntingTheBeast1_b26194c8:
+# HuntingTheBeast1_99e948cd (line 50120)
+translate ru HuntingTheBeast1_99e948cd:
     # "Garret shrugged."
     ""
 
-# HuntingTheBeast1_f668fc74 (line 50121)
-translate ru HuntingTheBeast1_f668fc74:
+# HuntingTheBeast1_cbfcd73f (line 50121)
+translate ru HuntingTheBeast1_cbfcd73f:
     # gar "Fucked if I know, to tell you the truth. Everything I know about animals has gone out the window since this thing showed up."
     gar ""
 
-# HuntingTheBeast1_ebe76b1d (line 50122)
-translate ru HuntingTheBeast1_ebe76b1d:
+# HuntingTheBeast1_83c49bb5 (line 50122)
+translate ru HuntingTheBeast1_83c49bb5:
     # s "Why do you think it attacks?"
     s ""
 
-# HuntingTheBeast1_8533234a (line 50123)
-translate ru HuntingTheBeast1_8533234a:
+# HuntingTheBeast1_e4037da5 (line 50123)
+translate ru HuntingTheBeast1_e4037da5:
     # "Garret frowned."
     ""
 
-# HuntingTheBeast1_460477a2 (line 50124)
-translate ru HuntingTheBeast1_460477a2:
+# HuntingTheBeast1_57860b80 (line 50124)
+translate ru HuntingTheBeast1_57860b80:
     # gar "What do you mean?"
     gar ""
 
-# HuntingTheBeast1_7e8bc067 (line 50125)
-translate ru HuntingTheBeast1_7e8bc067:
+# HuntingTheBeast1_2c61203b (line 50125)
+translate ru HuntingTheBeast1_2c61203b:
     # s "Well, it doesn't do it for food, clearly."
     s ""
 
-# HuntingTheBeast1_5133bf17 (line 50126)
-translate ru HuntingTheBeast1_5133bf17:
+# HuntingTheBeast1_7f1c3682 (line 50126)
+translate ru HuntingTheBeast1_7f1c3682:
     # s "But it also seems to avoid humans to a degree. It doesn't go into the town. So why? Why attack outside the forest at all."
     s ""
 
-# HuntingTheBeast1_a253dd73 (line 50127)
-translate ru HuntingTheBeast1_a253dd73:
+# HuntingTheBeast1_3df24785 (line 50127)
+translate ru HuntingTheBeast1_3df24785:
     # "Garret looked at the map intently."
     ""
 
-# HuntingTheBeast1_e1f25371 (line 50128)
-translate ru HuntingTheBeast1_e1f25371:
+# HuntingTheBeast1_25ce0055 (line 50128)
+translate ru HuntingTheBeast1_25ce0055:
     # gar "I don't know, Sarah. I wish I had more answers for you."
     gar ""
 
-# HuntingTheBeast1_b2b4f0b8 (line 50129)
-translate ru HuntingTheBeast1_b2b4f0b8:
+# HuntingTheBeast1_fe9776fa (line 50129)
+translate ru HuntingTheBeast1_fe9776fa:
     # s "I see..."
     s ""
 
-# HuntingTheBeast1_c4b3bdcf (line 50130)
-translate ru HuntingTheBeast1_c4b3bdcf:
+# HuntingTheBeast1_d6741b60 (line 50130)
+translate ru HuntingTheBeast1_d6741b60:
     # "Sarah studied the map a moment longer."
     ""
 
-# HuntingTheBeast1_ec0c5523 (line 50131)
-translate ru HuntingTheBeast1_ec0c5523:
+# HuntingTheBeast1_95c563db (line 50131)
+translate ru HuntingTheBeast1_95c563db:
     # s "They said you know these forests better than most, is that true?"
     s ""
 
-# HuntingTheBeast1_f53e9234 (line 50132)
-translate ru HuntingTheBeast1_f53e9234:
+# HuntingTheBeast1_f715eac3 (line 50132)
+translate ru HuntingTheBeast1_f715eac3:
     # "Garret nodded."
     ""
 
-# HuntingTheBeast1_73fe867c (line 50133)
-translate ru HuntingTheBeast1_73fe867c:
+# HuntingTheBeast1_4ce725db (line 50133)
+translate ru HuntingTheBeast1_4ce725db:
     # gar "Grew up here as a kid. My father was a Huntsman before me, taught me and my sister everything we knew."
     gar ""
 
-# HuntingTheBeast1_d323b938 (line 50134)
-translate ru HuntingTheBeast1_d323b938:
+# HuntingTheBeast1_04b5582e (line 50134)
+translate ru HuntingTheBeast1_04b5582e:
     # s "Your sister?"
     s ""
 
-# HuntingTheBeast1_21d41fa1 (line 50135)
-translate ru HuntingTheBeast1_21d41fa1:
+# HuntingTheBeast1_ff49cc8a (line 50135)
+translate ru HuntingTheBeast1_ff49cc8a:
     # "Garret's face grew dark."
     ""
 
-# HuntingTheBeast1_fbf6c578 (line 50136)
-translate ru HuntingTheBeast1_fbf6c578:
+# HuntingTheBeast1_5a6f0bcd (line 50136)
+translate ru HuntingTheBeast1_5a6f0bcd:
     # gar "She's not around anymore. Died during a particularly bad storm a few years back."
     gar ""
 
-# HuntingTheBeast1_cc53f9d7 (line 50137)
-translate ru HuntingTheBeast1_cc53f9d7:
+# HuntingTheBeast1_a537bed9 (line 50137)
+translate ru HuntingTheBeast1_a537bed9:
     # s "I'm sorry..."
     s ""
 
-# HuntingTheBeast1_42dac07f (line 50138)
-translate ru HuntingTheBeast1_42dac07f:
+# HuntingTheBeast1_cb322ab3 (line 50138)
+translate ru HuntingTheBeast1_cb322ab3:
     # "Garret shrugged."
     ""
 
-# HuntingTheBeast1_261a3a4f (line 50139)
-translate ru HuntingTheBeast1_261a3a4f:
+# HuntingTheBeast1_ee603602 (line 50139)
+translate ru HuntingTheBeast1_ee603602:
     # gar "Life out here, I suppose."
     gar ""
 
-# HuntingTheBeast1_74d38d58 (line 50140)
-translate ru HuntingTheBeast1_74d38d58:
+# HuntingTheBeast1_4777c827 (line 50140)
+translate ru HuntingTheBeast1_4777c827:
     # "Sarah could hear in his voice that there was still a pain beneath his cold exterior."
     ""
 
-# HuntingTheBeast1_b999d449 (line 50141)
-translate ru HuntingTheBeast1_b999d449:
+# HuntingTheBeast1_bb19476b (line 50141)
+translate ru HuntingTheBeast1_bb19476b:
     # s "And about the timings of the attacks..."
     s ""
 
-# HuntingTheBeast1_43694c73 (line 50142)
-translate ru HuntingTheBeast1_43694c73:
+# HuntingTheBeast1_da535b17 (line 50142)
+translate ru HuntingTheBeast1_da535b17:
     # gar "All night."
     gar ""
 
-# HuntingTheBeast1_c1802ad6 (line 50143)
-translate ru HuntingTheBeast1_c1802ad6:
+# HuntingTheBeast1_9d637b1f (line 50143)
+translate ru HuntingTheBeast1_9d637b1f:
     # gar "Whatever it is, it never comes out during the day."
     gar ""
 
-# HuntingTheBeast1_cfb25b7d (line 50144)
-translate ru HuntingTheBeast1_cfb25b7d:
+# HuntingTheBeast1_66198bb9 (line 50144)
+translate ru HuntingTheBeast1_66198bb9:
     # "Sarah nodded."
     ""
 
-# HuntingTheBeast1_51f10067 (line 50145)
-translate ru HuntingTheBeast1_51f10067:
+# HuntingTheBeast1_0f9feaf9 (line 50145)
+translate ru HuntingTheBeast1_0f9feaf9:
     # s "I understand."
     s ""
 
-# HuntingTheBeast1_b6deb182 (line 50146)
-translate ru HuntingTheBeast1_b6deb182:
+# HuntingTheBeast1_c8754189 (line 50146)
+translate ru HuntingTheBeast1_c8754189:
     # "For a while, each was quiet."
     ""
 
-# HuntingTheBeast1_20c899c3 (line 50147)
-translate ru HuntingTheBeast1_20c899c3:
+# HuntingTheBeast1_a940280d (line 50147)
+translate ru HuntingTheBeast1_a940280d:
     # gar "So, you got any great ideas?"
     gar ""
 
-# HuntingTheBeast1_2b588402 (line 50148)
-translate ru HuntingTheBeast1_2b588402:
+# HuntingTheBeast1_968c016b (line 50148)
+translate ru HuntingTheBeast1_968c016b:
     # "Sarah considered for a while."
     ""
 
-# HuntingTheBeast1_a4c2dd5d (line 50149)
-translate ru HuntingTheBeast1_a4c2dd5d:
+# HuntingTheBeast1_f01a11e8 (line 50149)
+translate ru HuntingTheBeast1_f01a11e8:
     # s "The Mayor wanted me to march my whole army through the forest. Sweep through every corner."
     s ""
 
-# HuntingTheBeast1_a195b70a (line 50150)
-translate ru HuntingTheBeast1_a195b70a:
+# HuntingTheBeast1_c0bdf96f (line 50150)
+translate ru HuntingTheBeast1_c0bdf96f:
     # "Garret laughed."
     ""
 
-# HuntingTheBeast1_e0f820c1 (line 50151)
-translate ru HuntingTheBeast1_e0f820c1:
+# HuntingTheBeast1_d81c3be5 (line 50151)
+translate ru HuntingTheBeast1_d81c3be5:
     # gar "Of course he would say something like that."
     gar ""
 
-# HuntingTheBeast1_1e724579 (line 50152)
-translate ru HuntingTheBeast1_1e724579:
+# HuntingTheBeast1_005c67bd (line 50152)
+translate ru HuntingTheBeast1_005c67bd:
     # gar "But if you want to keep your army, I suggest you don't."
     gar ""
 
-# HuntingTheBeast1_877baff7 (line 50153)
-translate ru HuntingTheBeast1_877baff7:
+# HuntingTheBeast1_6151973a (line 50153)
+translate ru HuntingTheBeast1_6151973a:
     # s "Why?"
     s ""
 
-# HuntingTheBeast1_ce461478 (line 50154)
-translate ru HuntingTheBeast1_ce461478:
+# HuntingTheBeast1_253d753e (line 50154)
+translate ru HuntingTheBeast1_253d753e:
     # gar "Those forests are old, but they also run deep."
     gar ""
 
-# HuntingTheBeast1_f7f2faaa (line 50155)
-translate ru HuntingTheBeast1_f7f2faaa:
+# HuntingTheBeast1_0d805a90 (line 50155)
+translate ru HuntingTheBeast1_0d805a90:
     # gar "They extend from here, all the way up north to the mountains, and around there, they turn into swamplands."
     gar ""
 
-# HuntingTheBeast1_98db1e40 (line 50156)
-translate ru HuntingTheBeast1_98db1e40:
+# HuntingTheBeast1_b9d1ebdc (line 50156)
+translate ru HuntingTheBeast1_b9d1ebdc:
     # gar "The truth is, even if you could send your men that deep, they would still be bogged down by the swamps."
     gar ""
 
-# HuntingTheBeast1_4beca146 (line 50157)
-translate ru HuntingTheBeast1_4beca146:
+# HuntingTheBeast1_6f58ff73 (line 50157)
+translate ru HuntingTheBeast1_6f58ff73:
     # gar "And this Beast may very well live deeper still."
     gar ""
 
-# HuntingTheBeast1_0cebcbbe (line 50158)
-translate ru HuntingTheBeast1_0cebcbbe:
+# HuntingTheBeast1_0409607d (line 50158)
+translate ru HuntingTheBeast1_0409607d:
     # "Sarah frowned."
     ""
 
-# HuntingTheBeast1_88729309 (line 50159)
-translate ru HuntingTheBeast1_88729309:
+# HuntingTheBeast1_f7541546 (line 50159)
+translate ru HuntingTheBeast1_f7541546:
     # s "So numbers aren't going to solve this..."
     s ""
 
-# HuntingTheBeast1_2c92f32d (line 50160)
-translate ru HuntingTheBeast1_2c92f32d:
+# HuntingTheBeast1_c2499cf4 (line 50160)
+translate ru HuntingTheBeast1_c2499cf4:
     # "She stared at the map intently."
     ""
 
-# HuntingTheBeast1_dad1b527 (line 50161)
-translate ru HuntingTheBeast1_dad1b527:
+# HuntingTheBeast1_a6428e3e (line 50161)
+translate ru HuntingTheBeast1_a6428e3e:
     # s "What if I lured it out?"
     s ""
 
-# HuntingTheBeast1_5186fcb6 (line 50162)
-translate ru HuntingTheBeast1_5186fcb6:
+# HuntingTheBeast1_e812ef97 (line 50162)
+translate ru HuntingTheBeast1_e812ef97:
     # gar "Lured it?"
     gar ""
 
-# HuntingTheBeast1_c749b3e5 (line 50163)
-translate ru HuntingTheBeast1_c749b3e5:
+# HuntingTheBeast1_ee25fb25 (line 50163)
+translate ru HuntingTheBeast1_ee25fb25:
     # s "Yeah. Go in there with a small group. See if it attacks us?"
     s ""
 
-# HuntingTheBeast1_ab9a20d5 (line 50164)
-translate ru HuntingTheBeast1_ab9a20d5:
+# HuntingTheBeast1_f2c8cf63 (line 50164)
+translate ru HuntingTheBeast1_f2c8cf63:
     # "Garret shrugged."
     ""
 
-# HuntingTheBeast1_b8fca781 (line 50165)
-translate ru HuntingTheBeast1_b8fca781:
+# HuntingTheBeast1_e4af2a61 (line 50165)
+translate ru HuntingTheBeast1_e4af2a61:
     # gar "Maybe, but the creature doesn't attack for weeks on end. You might very well be out there for a long time."
     gar ""
 
-# HuntingTheBeast1_b107aacb (line 50166)
-translate ru HuntingTheBeast1_b107aacb:
+# HuntingTheBeast1_7e2e3893 (line 50166)
+translate ru HuntingTheBeast1_7e2e3893:
     # "Sarah sighed. She certainly didn't have weeks."
     ""
 
-# HuntingTheBeast1_32129f91 (line 50167)
-translate ru HuntingTheBeast1_32129f91:
+# HuntingTheBeast1_99d953bf (line 50167)
+translate ru HuntingTheBeast1_99d953bf:
     # gar "Perhaps you need more information."
     gar ""
 
-# HuntingTheBeast1_4e08b5fc (line 50168)
-translate ru HuntingTheBeast1_4e08b5fc:
+# HuntingTheBeast1_2d9af728 (line 50168)
+translate ru HuntingTheBeast1_2d9af728:
     # s "What do you mean?"
     s ""
 
-# HuntingTheBeast1_0478a1b9 (line 50169)
-translate ru HuntingTheBeast1_0478a1b9:
+# HuntingTheBeast1_48690869 (line 50169)
+translate ru HuntingTheBeast1_48690869:
     # gar "This map...it's fine, but you need to see the real lay of the land."
     gar ""
 
-# HuntingTheBeast1_291ae875 (line 50170)
-translate ru HuntingTheBeast1_291ae875:
+# HuntingTheBeast1_ac8c3b36 (line 50170)
+translate ru HuntingTheBeast1_ac8c3b36:
     # gar "I can take you into the forest. Show you the tracks of the creature."
     gar ""
 
-# HuntingTheBeast1_fc7606fb (line 50171)
-translate ru HuntingTheBeast1_fc7606fb:
+# HuntingTheBeast1_3d2a89bd (line 50171)
+translate ru HuntingTheBeast1_3d2a89bd:
     # "Sarah frowned."
     ""
 
-# HuntingTheBeast1_532dbc33 (line 50172)
-translate ru HuntingTheBeast1_532dbc33:
+# HuntingTheBeast1_172894c9 (line 50172)
+translate ru HuntingTheBeast1_172894c9:
     # "It wasn't without danger, but then again, she didn't see many other options."
     ""
 
-# HuntingTheBeast1_486ec053 (line 50173)
-translate ru HuntingTheBeast1_486ec053:
+# HuntingTheBeast1_ad8651ea (line 50173)
+translate ru HuntingTheBeast1_ad8651ea:
     # "Besides, she herself was plenty strong and Garret looked as if he'd be able to fend for himself."
     ""
 
-# HuntingTheBeast1_981d58e6 (line 50174)
-translate ru HuntingTheBeast1_981d58e6:
+# HuntingTheBeast1_08c3cdd2 (line 50174)
+translate ru HuntingTheBeast1_08c3cdd2:
     # s "Fine. Let's set out for the forest."
     s ""
 
-# HuntingTheBeast1_fd2d10eb (line 50175)
-translate ru HuntingTheBeast1_fd2d10eb:
+# HuntingTheBeast1_05f3b4b9 (line 50175)
+translate ru HuntingTheBeast1_05f3b4b9:
     # gar "When?"
     gar ""
 
-# HuntingTheBeast1_6cc72fe5 (line 50176)
-translate ru HuntingTheBeast1_6cc72fe5:
+# HuntingTheBeast1_cef75e41 (line 50176)
+translate ru HuntingTheBeast1_cef75e41:
     # s "Tomorrow night."
     s ""
 
-# HuntingTheBeast1_f83f9993 (line 50177)
-translate ru HuntingTheBeast1_f83f9993:
+# HuntingTheBeast1_02782bb9 (line 50177)
+translate ru HuntingTheBeast1_02782bb9:
     # gar "That fast?"
     gar ""
 
-# HuntingTheBeast1_98049490 (line 50178)
-translate ru HuntingTheBeast1_98049490:
+# HuntingTheBeast1_4aaf3e41 (line 50178)
+translate ru HuntingTheBeast1_4aaf3e41:
     # s "I can't keep my army waiting around for too long."
     s ""
 
-# HuntingTheBeast1_5eed3659 (line 50179)
-translate ru HuntingTheBeast1_5eed3659:
+# HuntingTheBeast1_f42ce0de (line 50179)
+translate ru HuntingTheBeast1_f42ce0de:
     # gar "I see...it's fast, but it should be doable."
     gar ""
 
-# HuntingTheBeast1_919f520d (line 50180)
-translate ru HuntingTheBeast1_919f520d:
+# HuntingTheBeast1_0dd3d55c (line 50180)
+translate ru HuntingTheBeast1_0dd3d55c:
     # gar "I'll start preparing right away. Come back here tomorrow night and we'll head out."
     gar ""
 
-# HuntingTheBeast1_cb3af878 (line 50181)
-translate ru HuntingTheBeast1_cb3af878:
+# HuntingTheBeast1_63d0c097 (line 50181)
+translate ru HuntingTheBeast1_63d0c097:
     # "Sarah nodded and thanked Garret for his help so far."
     ""
 
-# HuntingTheBeast1_5c51add2 (line 50182)
-translate ru HuntingTheBeast1_5c51add2:
+# HuntingTheBeast1_edadf83e (line 50182)
+translate ru HuntingTheBeast1_edadf83e:
     # "Leaving his house, she walked the now empty streets of Hillstown."
     ""
 
-# HuntingTheBeast1_241d477b (line 50183)
-translate ru HuntingTheBeast1_241d477b:
+# HuntingTheBeast1_190d4852 (line 50183)
+translate ru HuntingTheBeast1_190d4852:
     # "A fear had descended over the city, one that had snuffed out any semblance of celebration."
     ""
 
-# HuntingTheBeast1_265c0b44 (line 50184)
-translate ru HuntingTheBeast1_265c0b44:
+# HuntingTheBeast1_7e61dbf7 (line 50184)
+translate ru HuntingTheBeast1_7e61dbf7:
     # "Sarah wondered what she had truly gotten herself into."
     ""
 
-# HuntingTheBeast1_fdb3a6ef (line 50196)
-translate ru HuntingTheBeast1_fdb3a6ef:
+# HuntingTheBeast1_5eb91949 (line 50196)
+translate ru HuntingTheBeast1_5eb91949:
     # "The day after went by quickly."
     ""
 
-# HuntingTheBeast1_e06fb874 (line 50197)
-translate ru HuntingTheBeast1_e06fb874:
+# HuntingTheBeast1_6d9952b0 (line 50197)
+translate ru HuntingTheBeast1_6d9952b0:
     # "When the news went out that they would not march for another few days, most of the soldiers seemed to take it well enough."
     ""
 
-# HuntingTheBeast1_17317aa1 (line 50198)
-translate ru HuntingTheBeast1_17317aa1:
+# HuntingTheBeast1_3473355c (line 50198)
+translate ru HuntingTheBeast1_3473355c:
     # "After all the hard marching, most were eager to but their bags down for longer than a day."
     ""
 
-# HuntingTheBeast1_eca98621 (line 50199)
-translate ru HuntingTheBeast1_eca98621:
+# HuntingTheBeast1_34ce9e73 (line 50199)
+translate ru HuntingTheBeast1_34ce9e73:
     # "Sarah herself spend little time on managing her company, instead, she had fretted over what would come that night."
     ""
 
-# HuntingTheBeast1_0c6ef4d3 (line 50201)
-translate ru HuntingTheBeast1_0c6ef4d3:
+# HuntingTheBeast1_ec65a454 (line 50201)
+translate ru HuntingTheBeast1_ec65a454:
     # "When the sun started to go down, she set out to the edge of town and found Garret already waiting by the road."
     ""
 
-# HuntingTheBeast1_6899ad76 (line 50202)
-translate ru HuntingTheBeast1_6899ad76:
+# HuntingTheBeast1_b0dff593 (line 50202)
+translate ru HuntingTheBeast1_b0dff593:
     # gar "I've got one pack for myself and another for you."
     gar ""
 
-# HuntingTheBeast1_8dab07ad (line 50203)
-translate ru HuntingTheBeast1_8dab07ad:
+# HuntingTheBeast1_e529ed10 (line 50203)
+translate ru HuntingTheBeast1_e529ed10:
     # gar "I hope you can carry your weight."
     gar ""
 
-# HuntingTheBeast1_73a04ae4 (line 50204)
-translate ru HuntingTheBeast1_73a04ae4:
+# HuntingTheBeast1_c46ed45e (line 50204)
+translate ru HuntingTheBeast1_c46ed45e:
     # "Sarah reached down and slung the backpack over her shoulders."
     ""
 
-# HuntingTheBeast1_abbac2c0 (line 50205)
-translate ru HuntingTheBeast1_abbac2c0:
+# HuntingTheBeast1_145bb77d (line 50205)
+translate ru HuntingTheBeast1_145bb77d:
     # s "I've marched plenty in my life, with more weight on my back than a mule."
     s ""
 
-# HuntingTheBeast1_7b31be2f (line 50206)
-translate ru HuntingTheBeast1_7b31be2f:
+# HuntingTheBeast1_3922099c (line 50206)
+translate ru HuntingTheBeast1_3922099c:
     # s "Just hope you can keep up with me, old man."
     s ""
 
-# HuntingTheBeast1_59842e39 (line 50207)
-translate ru HuntingTheBeast1_59842e39:
+# HuntingTheBeast1_622362bb (line 50207)
+translate ru HuntingTheBeast1_622362bb:
     # "She heard Garret laugh as she walked up the road ahead of him."
     ""
 
-# HuntingTheBeast1_ba6981ae (line 50208)
-translate ru HuntingTheBeast1_ba6981ae:
+# HuntingTheBeast1_59e317a1 (line 50208)
+translate ru HuntingTheBeast1_59e317a1:
     # "Walking on the road, it wasn't long before the town and it's noises faded away."
     ""
 
-# HuntingTheBeast1_ee316dfc (line 50209)
-translate ru HuntingTheBeast1_ee316dfc:
+# HuntingTheBeast1_f7cb329f (line 50209)
+translate ru HuntingTheBeast1_f7cb329f:
     # "Before long, it was only herself and Garret. The quiteness that could be found in places like these."
     ""
 
-# HuntingTheBeast1_8c7f3627 (line 50210)
-translate ru HuntingTheBeast1_8c7f3627:
+# HuntingTheBeast1_8efd4ab6 (line 50210)
+translate ru HuntingTheBeast1_8efd4ab6:
     # s "Huh..."
     s ""
 
-# HuntingTheBeast1_ce85fcbd (line 50211)
-translate ru HuntingTheBeast1_ce85fcbd:
+# HuntingTheBeast1_46efece8 (line 50211)
+translate ru HuntingTheBeast1_46efece8:
     # gar "What?"
     gar ""
 
-# HuntingTheBeast1_ecbef441 (line 50212)
-translate ru HuntingTheBeast1_ecbef441:
+# HuntingTheBeast1_22d3f7d3 (line 50212)
+translate ru HuntingTheBeast1_22d3f7d3:
     # s "I just realized it's been a while since things have been this quiet..."
     s ""
 
-# HuntingTheBeast1_e7f407ba (line 50213)
-translate ru HuntingTheBeast1_e7f407ba:
+# HuntingTheBeast1_798f6902 (line 50213)
+translate ru HuntingTheBeast1_798f6902:
     # s "Usually I march with my men. Make camp with the others. There is always some noise, anywhere you go."
     s ""
 
-# HuntingTheBeast1_134b42d3 (line 50214)
-translate ru HuntingTheBeast1_134b42d3:
+# HuntingTheBeast1_c36c82c6 (line 50214)
+translate ru HuntingTheBeast1_c36c82c6:
     # s "It's almost strange to just hear nothing but nature."
     s ""
 
-# HuntingTheBeast1_20fd24df (line 50215)
-translate ru HuntingTheBeast1_20fd24df:
+# HuntingTheBeast1_f25af46d (line 50215)
+translate ru HuntingTheBeast1_f25af46d:
     # "Garret laughed."
     ""
 
-# HuntingTheBeast1_57eca950 (line 50216)
-translate ru HuntingTheBeast1_57eca950:
+# HuntingTheBeast1_705b1469 (line 50216)
+translate ru HuntingTheBeast1_705b1469:
     # gar "It's not all bad, living out here."
     gar ""
 
-# HuntingTheBeast1_3f104736 (line 50217)
-translate ru HuntingTheBeast1_3f104736:
+# HuntingTheBeast1_7a2ac71a (line 50217)
+translate ru HuntingTheBeast1_7a2ac71a:
     # "The two continued to walk until the road took them to the outskirts of the forest."
     ""
 
-# HuntingTheBeast1_d5c12d89 (line 50229)
-translate ru HuntingTheBeast1_d5c12d89:
+# HuntingTheBeast1_4dee07c6 (line 50229)
+translate ru HuntingTheBeast1_4dee07c6:
     # "The treeline quickly grew thick."
     ""
 
-# HuntingTheBeast1_bb9c3ac0 (line 50230)
-translate ru HuntingTheBeast1_bb9c3ac0:
+# HuntingTheBeast1_eb0605a2 (line 50230)
+translate ru HuntingTheBeast1_eb0605a2:
     # "Sarah realized she couldn't look more than a few paces into the forest."
     ""
 
-# HuntingTheBeast1_a7cedccd (line 50231)
-translate ru HuntingTheBeast1_a7cedccd:
+# HuntingTheBeast1_26ed72c7 (line 50231)
+translate ru HuntingTheBeast1_26ed72c7:
     # s "Wow, it's really dense."
     s ""
 
-# HuntingTheBeast1_aa9cd7a1 (line 50232)
-translate ru HuntingTheBeast1_aa9cd7a1:
+# HuntingTheBeast1_c543340e (line 50232)
+translate ru HuntingTheBeast1_c543340e:
     # gar "Only gets worse the deeper you get."
     gar ""
 
-# HuntingTheBeast1_922b8af4 (line 50233)
-translate ru HuntingTheBeast1_922b8af4:
+# HuntingTheBeast1_ab1fec1d (line 50233)
+translate ru HuntingTheBeast1_ab1fec1d:
     # gar "No more than a few minutes and you'll struggle to even keep a steady pace."
     gar ""
 
-# HuntingTheBeast1_1e2df745 (line 50234)
-translate ru HuntingTheBeast1_1e2df745:
+# HuntingTheBeast1_0c182d69 (line 50234)
+translate ru HuntingTheBeast1_0c182d69:
     # gar "People go in there, unprepared, they can end up lost. More than a few people found their deaths that way."
     gar ""
 
-# HuntingTheBeast1_5d26801a (line 50235)
-translate ru HuntingTheBeast1_5d26801a:
+# HuntingTheBeast1_537796db (line 50235)
+translate ru HuntingTheBeast1_537796db:
     # "Sarah shuddered at the thought."
     ""
 
-# HuntingTheBeast1_93e81f3c (line 50236)
-translate ru HuntingTheBeast1_93e81f3c:
+# HuntingTheBeast1_cba6d41c (line 50236)
+translate ru HuntingTheBeast1_cba6d41c:
     # s "Good thing I have you."
     s ""
 
-# HuntingTheBeast1_efb6bafe (line 50237)
-translate ru HuntingTheBeast1_efb6bafe:
+# HuntingTheBeast1_e8c92798 (line 50237)
+translate ru HuntingTheBeast1_e8c92798:
     # "Garret only nodded."
     ""
 
-# HuntingTheBeast1_4c9cd42a (line 50238)
-translate ru HuntingTheBeast1_4c9cd42a:
+# HuntingTheBeast1_b9370bb6 (line 50238)
+translate ru HuntingTheBeast1_b9370bb6:
     # "Seeing how easy it was to get lost, Sarah fell back and allowed Garret to take the lead."
     ""
 
-# HuntingTheBeast1_4c6efe8e (line 50239)
-translate ru HuntingTheBeast1_4c6efe8e:
+# HuntingTheBeast1_d81b260d (line 50239)
+translate ru HuntingTheBeast1_d81b260d:
     # "She was surprised at the struggle it took to keep up with him."
     ""
 
-# HuntingTheBeast1_1b251499 (line 50240)
-translate ru HuntingTheBeast1_1b251499:
+# HuntingTheBeast1_ddbf7494 (line 50240)
+translate ru HuntingTheBeast1_ddbf7494:
     # "Where he skillfully dodged and stepped past each branch or bush, she seemed constantly bogged down."
     ""
 
-# HuntingTheBeast1_031979ad (line 50241)
-translate ru HuntingTheBeast1_031979ad:
+# HuntingTheBeast1_b81cbf50 (line 50241)
+translate ru HuntingTheBeast1_b81cbf50:
     # s "I don't think my armor is much suited for a forest like this."
     s ""
 
-# HuntingTheBeast1_a54c5ffb (line 50242)
-translate ru HuntingTheBeast1_a54c5ffb:
+# HuntingTheBeast1_0a90ca2d (line 50242)
+translate ru HuntingTheBeast1_0a90ca2d:
     # "She saw Garret turn and look at her as he kept walking."
     ""
 
-# HuntingTheBeast1_603173c1 (line 50243)
-translate ru HuntingTheBeast1_603173c1:
+# HuntingTheBeast1_b75255f9 (line 50243)
+translate ru HuntingTheBeast1_b75255f9:
     # gar "Let me know if you fall too far behind. I don't want you getting lost in here and having to go find you."
     gar ""
 
-# HuntingTheBeast1_421a27c0 (line 50244)
-translate ru HuntingTheBeast1_421a27c0:
+# HuntingTheBeast1_93c4ede7 (line 50244)
+translate ru HuntingTheBeast1_93c4ede7:
     # "Sarah wandered if it was genuine concern for her safety, or if he just didn't want to be inconvenienced."
     ""
 
-# HuntingTheBeast1_45eeb2ae (line 50245)
-translate ru HuntingTheBeast1_45eeb2ae:
+# HuntingTheBeast1_2b547b49 (line 50245)
+translate ru HuntingTheBeast1_2b547b49:
     # "Despite it all, the continued to make progress, going deeper and deeper into the forest."
     ""
 
-# HuntingTheBeast1_7e1968e8 (line 50246)
-translate ru HuntingTheBeast1_7e1968e8:
+# HuntingTheBeast1_fcd8376b (line 50246)
+translate ru HuntingTheBeast1_fcd8376b:
     # "When she had first heard the Mayor tell her that they could not find the Beast, she had been somewhat surprised."
     ""
 
-# HuntingTheBeast1_a3020f27 (line 50247)
-translate ru HuntingTheBeast1_a3020f27:
+# HuntingTheBeast1_fe501a1d (line 50247)
+translate ru HuntingTheBeast1_fe501a1d:
     # "But now that she was experiencing the forest herself, she came to understand."
     ""
 
-# HuntingTheBeast1_1c035bf4 (line 50248)
-translate ru HuntingTheBeast1_1c035bf4:
+# HuntingTheBeast1_c3a996ae (line 50248)
+translate ru HuntingTheBeast1_c3a996ae:
     # "No more than a few paces left or right, and she could essentially see nothing."
     ""
 
-# HuntingTheBeast1_4aacd502 (line 50249)
-translate ru HuntingTheBeast1_4aacd502:
+# HuntingTheBeast1_60f3f0cf (line 50249)
+translate ru HuntingTheBeast1_60f3f0cf:
     # "A creature hiding could ask for no more perfect place."
     ""
 
-# HuntingTheBeast1_44d4d778 (line 50250)
-translate ru HuntingTheBeast1_44d4d778:
+# HuntingTheBeast1_6861d696 (line 50250)
+translate ru HuntingTheBeast1_6861d696:
     # "Suddenly, the forest broke and gave way to a small clearing."
     ""
 
-# HuntingTheBeast1_34babf1b (line 50258)
-translate ru HuntingTheBeast1_34babf1b:
+# HuntingTheBeast1_43e912a2 (line 50258)
+translate ru HuntingTheBeast1_43e912a2:
     # "It seemed as if the space had been cleared out by hand. Small remnants of a campfire remained."
     ""
 
-# HuntingTheBeast1_21066892 (line 50259)
-translate ru HuntingTheBeast1_21066892:
+# HuntingTheBeast1_760c4d3c (line 50259)
+translate ru HuntingTheBeast1_760c4d3c:
     # s "What is this?"
     s ""
 
-# HuntingTheBeast1_15672a47 (line 50260)
-translate ru HuntingTheBeast1_15672a47:
+# HuntingTheBeast1_332f3302 (line 50260)
+translate ru HuntingTheBeast1_332f3302:
     # gar "Marching through the forest can be dangerous for many reasons. Getting lost is one of them."
     gar ""
 
-# HuntingTheBeast1_938d2262 (line 50261)
-translate ru HuntingTheBeast1_938d2262:
+# HuntingTheBeast1_8ef11349 (line 50261)
+translate ru HuntingTheBeast1_8ef11349:
     # gar "But there are other dangers. Certain parts of the forest are so thick they barely allow you to even make camp."
     gar ""
 
-# HuntingTheBeast1_cbb6497f (line 50262)
-translate ru HuntingTheBeast1_cbb6497f:
+# HuntingTheBeast1_2d0d586c (line 50262)
+translate ru HuntingTheBeast1_2d0d586c:
     # gar "That's why we cut out small plots like these."
     gar ""
 
-# HuntingTheBeast1_0736c094 (line 50263)
-translate ru HuntingTheBeast1_0736c094:
+# HuntingTheBeast1_6f25ed85 (line 50263)
+translate ru HuntingTheBeast1_6f25ed85:
     # gar "Travel from hub to hub, and you can manage to make good progress and still get a decent night of sleep."
     gar ""
 
-# HuntingTheBeast1_2f3a476d (line 50264)
-translate ru HuntingTheBeast1_2f3a476d:
+# HuntingTheBeast1_2e1e72e2 (line 50264)
+translate ru HuntingTheBeast1_2e1e72e2:
     # s "You made all this?"
     s ""
 
-# HuntingTheBeast1_e9b19847 (line 50265)
-translate ru HuntingTheBeast1_e9b19847:
+# HuntingTheBeast1_e818b747 (line 50265)
+translate ru HuntingTheBeast1_e818b747:
     # "Garret nodded."
     ""
 
-# HuntingTheBeast1_be3a88e9 (line 50266)
-translate ru HuntingTheBeast1_be3a88e9:
+# HuntingTheBeast1_d8267480 (line 50266)
+translate ru HuntingTheBeast1_d8267480:
     # gar "Most of the villagers never go far beyond the edges of the forest."
     gar ""
 
-# HuntingTheBeast1_d00d12e5 (line 50267)
-translate ru HuntingTheBeast1_d00d12e5:
+# HuntingTheBeast1_4abe65dd (line 50267)
+translate ru HuntingTheBeast1_4abe65dd:
     # gar "And there aren't many hunters left in the village."
     gar ""
 
-# HuntingTheBeast1_04afcf64 (line 50268)
-translate ru HuntingTheBeast1_04afcf64:
+# HuntingTheBeast1_751f885b (line 50268)
+translate ru HuntingTheBeast1_751f885b:
     # gar "Most make their living farming these days. More stable. Easier."
     gar ""
 
-# HuntingTheBeast1_27b16c85 (line 50269)
-translate ru HuntingTheBeast1_27b16c85:
+# HuntingTheBeast1_ad8ae506 (line 50269)
+translate ru HuntingTheBeast1_ad8ae506:
     # "Sarah threw down her backpack and sat down near the campfire."
     ""
 
-# HuntingTheBeast1_da0d17be (line 50270)
-translate ru HuntingTheBeast1_da0d17be:
+# HuntingTheBeast1_2c2b4a8d (line 50270)
+translate ru HuntingTheBeast1_2c2b4a8d:
     # "Gathering two pieces of flint and some tinder, she quickly managed to bring the fire to life."
     ""
 
-# HuntingTheBeast1_dd4b4cbe (line 50282)
-translate ru HuntingTheBeast1_dd4b4cbe:
+# HuntingTheBeast1_da862f42 (line 50282)
+translate ru HuntingTheBeast1_da862f42:
     # "She saw Garret look at her, somewhat surprised."
     ""
 
-# HuntingTheBeast1_cb6a01fb (line 50283)
-translate ru HuntingTheBeast1_cb6a01fb:
+# HuntingTheBeast1_ad0064bd (line 50283)
+translate ru HuntingTheBeast1_ad0064bd:
     # s "What?"
     s ""
 
-# HuntingTheBeast1_e7429938 (line 50284)
-translate ru HuntingTheBeast1_e7429938:
+# HuntingTheBeast1_baf31420 (line 50284)
+translate ru HuntingTheBeast1_baf31420:
     # gar "Nothing, I was just surprised."
     gar ""
 
-# HuntingTheBeast1_571d5a0b (line 50285)
-translate ru HuntingTheBeast1_571d5a0b:
+# HuntingTheBeast1_369f12d0 (line 50285)
+translate ru HuntingTheBeast1_369f12d0:
     # s "That I know how to make a campfire? You live on the road for long enough, you learn it sooner or later."
     s ""
 
-# HuntingTheBeast1_334f980f (line 50286)
-translate ru HuntingTheBeast1_334f980f:
+# HuntingTheBeast1_95e7a1f7 (line 50286)
+translate ru HuntingTheBeast1_95e7a1f7:
     # "Sarah smiled."
     ""
 
-# HuntingTheBeast1_93e254b3 (line 50287)
-translate ru HuntingTheBeast1_93e254b3:
+# HuntingTheBeast1_d0bb361d (line 50287)
+translate ru HuntingTheBeast1_d0bb361d:
     # s "Or did you take me for a princess?"
     s ""
 
-# HuntingTheBeast1_6ac3c07a (line 50288)
-translate ru HuntingTheBeast1_6ac3c07a:
+# HuntingTheBeast1_bcacd9e8 (line 50288)
+translate ru HuntingTheBeast1_bcacd9e8:
     # "Garret laughed as he put down his own backpack and joined her at the fire."
     ""
 
-# HuntingTheBeast1_7db13fd0 (line 50289)
-translate ru HuntingTheBeast1_7db13fd0:
+# HuntingTheBeast1_b4aed530 (line 50289)
+translate ru HuntingTheBeast1_b4aed530:
     # gar "It's hard what to make of you. Not really quite a soldier and not really quite a princess."
     gar ""
 
-# HuntingTheBeast1_9ca7f7be (line 50290)
-translate ru HuntingTheBeast1_9ca7f7be:
+# HuntingTheBeast1_94d9076a (line 50290)
+translate ru HuntingTheBeast1_94d9076a:
     # "Sarah smiled. She wondered if he knew how true that was."
     ""
 
-# HuntingTheBeast1_726b2b5b (line 50291)
-translate ru HuntingTheBeast1_726b2b5b:
+# HuntingTheBeast1_906e8f4a (line 50291)
+translate ru HuntingTheBeast1_906e8f4a:
     # s "Can't say the same for you."
     s ""
 
-# HuntingTheBeast1_4ee1e99c (line 50292)
-translate ru HuntingTheBeast1_4ee1e99c:
+# HuntingTheBeast1_85058a3c (line 50292)
+translate ru HuntingTheBeast1_85058a3c:
     # gar "What do you mean?"
     gar ""
 
-# HuntingTheBeast1_4e9b17c1 (line 50293)
-translate ru HuntingTheBeast1_4e9b17c1:
+# HuntingTheBeast1_f54961bc (line 50293)
+translate ru HuntingTheBeast1_f54961bc:
     # s "You're a Huntsman, I would have known that even if nobody had told me."
     s ""
 
-# HuntingTheBeast1_c30c7bd0 (line 50294)
-translate ru HuntingTheBeast1_c30c7bd0:
+# HuntingTheBeast1_755d4321 (line 50294)
+translate ru HuntingTheBeast1_755d4321:
     # "Garret smiled in the way he often seemed to do. Mirthless."
     ""
 
-# HuntingTheBeast1_b9f35108 (line 50295)
-translate ru HuntingTheBeast1_b9f35108:
+# HuntingTheBeast1_28a3f809 (line 50295)
+translate ru HuntingTheBeast1_28a3f809:
     # gar "My father was the same."
     gar ""
 
-# HuntingTheBeast1_4e80e309 (line 50296)
-translate ru HuntingTheBeast1_4e80e309:
+# HuntingTheBeast1_5fb2ec75 (line 50296)
+translate ru HuntingTheBeast1_5fb2ec75:
     # gar "I like to think I was so different from him growing up, but I guess I ended up pretty much like him."
     gar ""
 
-# HuntingTheBeast1_97c0933c (line 50297)
-translate ru HuntingTheBeast1_97c0933c:
+# HuntingTheBeast1_45b05d82 (line 50297)
+translate ru HuntingTheBeast1_45b05d82:
     # "Sarah saw his eyes lost in a memory."
     ""
 
-# HuntingTheBeast1_281706ab (line 50298)
-translate ru HuntingTheBeast1_281706ab:
+# HuntingTheBeast1_4a3ef75e (line 50298)
+translate ru HuntingTheBeast1_4a3ef75e:
     # s "And your sister?"
     s ""
 
-# HuntingTheBeast1_67a29117 (line 50299)
-translate ru HuntingTheBeast1_67a29117:
+# HuntingTheBeast1_1df3e849 (line 50299)
+translate ru HuntingTheBeast1_1df3e849:
     # "The word 'sister' caused a deep pain to run through his face."
     ""
 
-# HuntingTheBeast1_69c0757b (line 50300)
-translate ru HuntingTheBeast1_69c0757b:
+# HuntingTheBeast1_41ab62e2 (line 50300)
+translate ru HuntingTheBeast1_41ab62e2:
     # gar "She and I were twin souls, if such a thing can exist."
     gar ""
 
-# HuntingTheBeast1_c0e4dd3a (line 50301)
-translate ru HuntingTheBeast1_c0e4dd3a:
+# HuntingTheBeast1_e46d1005 (line 50301)
+translate ru HuntingTheBeast1_e46d1005:
     # gar "It was as if I could read her mind and she mine. A glance. A small gesture. Enough to speak volumes."
     gar ""
 
-# HuntingTheBeast1_0803e1d4 (line 50302)
-translate ru HuntingTheBeast1_0803e1d4:
+# HuntingTheBeast1_86c5f332 (line 50302)
+translate ru HuntingTheBeast1_86c5f332:
     # "Sarah smiled. She could relate, she and Thomas had been much the same."
     ""
 
-# HuntingTheBeast1_d9629be3 (line 50303)
-translate ru HuntingTheBeast1_d9629be3:
+# HuntingTheBeast1_eaa212db (line 50303)
+translate ru HuntingTheBeast1_eaa212db:
     # s "I can see it still hurts you. If you don't want to speak of it, I don't mean to intrude..."
     s ""
 
-# HuntingTheBeast1_0b29b78e (line 50304)
-translate ru HuntingTheBeast1_0b29b78e:
+# HuntingTheBeast1_450cd7d3 (line 50304)
+translate ru HuntingTheBeast1_450cd7d3:
     # "Garret shrugged."
     ""
 
-# HuntingTheBeast1_2a8cd567 (line 50305)
-translate ru HuntingTheBeast1_2a8cd567:
+# HuntingTheBeast1_d882b447 (line 50305)
+translate ru HuntingTheBeast1_d882b447:
     # gar "No, I think it's good to speak of these things."
     gar ""
 
-# HuntingTheBeast1_13ad9d8d (line 50306)
-translate ru HuntingTheBeast1_13ad9d8d:
+# HuntingTheBeast1_cd82b331 (line 50306)
+translate ru HuntingTheBeast1_cd82b331:
     # gar "I tried to burry them these last two years and that never got me anywhere."
     gar ""
 
-# HuntingTheBeast1_c94f0cb8 (line 50307)
-translate ru HuntingTheBeast1_c94f0cb8:
+# HuntingTheBeast1_095e0bc2 (line 50307)
+translate ru HuntingTheBeast1_095e0bc2:
     # s "You said she died in a storm."
     s ""
 
-# HuntingTheBeast1_e0677f49 (line 50308)
-translate ru HuntingTheBeast1_e0677f49:
+# HuntingTheBeast1_4da3456a (line 50308)
+translate ru HuntingTheBeast1_4da3456a:
     # "Garret nodded."
     ""
 
-# HuntingTheBeast1_c02cd9a1 (line 50309)
-translate ru HuntingTheBeast1_c02cd9a1:
+# HuntingTheBeast1_83f52c4a (line 50309)
+translate ru HuntingTheBeast1_83f52c4a:
     # gar "She was out in the forest, hunting."
     gar ""
 
-# HuntingTheBeast1_2ec0425d (line 50310)
-translate ru HuntingTheBeast1_2ec0425d:
+# HuntingTheBeast1_5fbad881 (line 50310)
+translate ru HuntingTheBeast1_5fbad881:
     # gar "I told her she should not have gone out that night. Told her all the signs told of a storm coming."
     gar ""
 
-# HuntingTheBeast1_1d273697 (line 50311)
-translate ru HuntingTheBeast1_1d273697:
+# HuntingTheBeast1_ddaed5c7 (line 50311)
+translate ru HuntingTheBeast1_ddaed5c7:
     # gar "But when she made up her mind, she did as she pleased."
     gar ""
 
-# HuntingTheBeast1_72ee45e7 (line 50312)
-translate ru HuntingTheBeast1_72ee45e7:
+# HuntingTheBeast1_90865dd4 (line 50312)
+translate ru HuntingTheBeast1_90865dd4:
     # gar "When the storm came, just as I knew it would, she would still out in the deep forest."
     gar ""
 
-# HuntingTheBeast1_0d956f9b (line 50313)
-translate ru HuntingTheBeast1_0d956f9b:
+# HuntingTheBeast1_05241563 (line 50313)
+translate ru HuntingTheBeast1_05241563:
     # gar "She took shelter, but the winds were so violent even entire trees were ripped out."
     gar ""
 
-# HuntingTheBeast1_370073df (line 50314)
-translate ru HuntingTheBeast1_370073df:
+# HuntingTheBeast1_e10e6311 (line 50314)
+translate ru HuntingTheBeast1_e10e6311:
     # gar "One of them broke and fell down on top of her."
     gar ""
 
-# HuntingTheBeast1_b5273ac5 (line 50315)
-translate ru HuntingTheBeast1_b5273ac5:
+# HuntingTheBeast1_c710e7bd (line 50315)
+translate ru HuntingTheBeast1_c710e7bd:
     # gar "It broke her back and trapped her beneath it."
     gar ""
 
-# HuntingTheBeast1_0b6c170e (line 50316)
-translate ru HuntingTheBeast1_0b6c170e:
+# HuntingTheBeast1_4c617356 (line 50316)
+translate ru HuntingTheBeast1_4c617356:
     # gar "I went looking for her, but she had gotten lost off the path as well. It was more than a week before I found her."
     gar ""
 
-# HuntingTheBeast1_239a89bd (line 50317)
-translate ru HuntingTheBeast1_239a89bd:
+# HuntingTheBeast1_81235237 (line 50317)
+translate ru HuntingTheBeast1_81235237:
     # gar "By then, the elements had taken her."
     gar ""
 
-# HuntingTheBeast1_4545e7ac (line 50318)
-translate ru HuntingTheBeast1_4545e7ac:
+# HuntingTheBeast1_479df320 (line 50318)
+translate ru HuntingTheBeast1_479df320:
     # "Sarah reached out across the fire and placed one hand on his arm."
     ""
 
-# HuntingTheBeast1_aee97d29 (line 50319)
-translate ru HuntingTheBeast1_aee97d29:
+# HuntingTheBeast1_1e8f1c4f (line 50319)
+translate ru HuntingTheBeast1_1e8f1c4f:
     # s "I'm so sorry. I know how you feel."
     s ""
 
-# HuntingTheBeast1_b894dca5 (line 50320)
-translate ru HuntingTheBeast1_b894dca5:
+# HuntingTheBeast1_a1d8cc89 (line 50320)
+translate ru HuntingTheBeast1_a1d8cc89:
     # "Garret's face grew angry."
     ""
 
-# HuntingTheBeast1_e01b443e (line 50321)
-translate ru HuntingTheBeast1_e01b443e:
+# HuntingTheBeast1_0303f65f (line 50321)
+translate ru HuntingTheBeast1_0303f65f:
     # gar "You know how I feel?! How could you possibly know what such loss is like?!"
     gar ""
 
-# HuntingTheBeast1_c25c34a4 (line 50325)
-translate ru HuntingTheBeast1_c25c34a4:
+# HuntingTheBeast1_2420275c (line 50325)
+translate ru HuntingTheBeast1_2420275c:
     # "Tell Garret about Thomas"
     "Tell Garret about Thomas" ""
 
-# HuntingTheBeast1_69146454 (line 50351)
-translate ru HuntingTheBeast1_69146454:
+# HuntingTheBeast1_e76d61cb (line 50351)
+translate ru HuntingTheBeast1_e76d61cb:
     # "Apologize"
     "Apologize" ""
 
-# HuntingTheBeast1_69dc9d29 (line 50362)
-translate ru HuntingTheBeast1_69dc9d29:
+# HuntingTheBeast1_2a4c10a5 (line 50362)
+translate ru HuntingTheBeast1_2a4c10a5:
     # "With night quickly approaching, each prepared for bed."
     ""
 
-# HuntingTheBeast1_c1f159af (line 50363)
-translate ru HuntingTheBeast1_c1f159af:
+# HuntingTheBeast1_dddbcb5e (line 50363)
+translate ru HuntingTheBeast1_dddbcb5e:
     # "The sounds of the forest hummed around them, in equal parts comforting and frightening."
     ""
 

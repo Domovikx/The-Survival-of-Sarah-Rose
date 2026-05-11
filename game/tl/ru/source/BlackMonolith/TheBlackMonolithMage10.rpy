@@ -3,88 +3,88 @@
 # Scene: TheBlackMonolithMage10
 # Total blocks: 17
 
-# TheBlackMonolithMage10_456a99ff (line 80608)
-translate ru TheBlackMonolithMage10_456a99ff:
+# TheBlackMonolithMage10_47409f6e (line 80608)
+translate ru TheBlackMonolithMage10_47409f6e:
     # "Sarah had spend many of her days studying the documents that Metis had given her."
     ""
 
-# TheBlackMonolithMage10_2da84d9c (line 80609)
-translate ru TheBlackMonolithMage10_2da84d9c:
+# TheBlackMonolithMage10_428c1b96 (line 80609)
+translate ru TheBlackMonolithMage10_428c1b96:
     # "Before she knew, the second lesson was upon her."
     ""
 
-# TheBlackMonolithMage10_457703f7 (line 80610)
-translate ru TheBlackMonolithMage10_457703f7:
+# TheBlackMonolithMage10_6f1b55af (line 80610)
+translate ru TheBlackMonolithMage10_6f1b55af:
     # "Entering the study room, she found Metis already waiting."
     ""
 
-# TheBlackMonolithMage10_f4aee7ff (line 80614)
-translate ru TheBlackMonolithMage10_f4aee7ff:
+# TheBlackMonolithMage10_45fe47bc (line 80614)
+translate ru TheBlackMonolithMage10_45fe47bc:
     # "As per usual, he was buried in some obscure text."
     ""
 
-# TheBlackMonolithMage10_a72d41d0 (line 80615)
-translate ru TheBlackMonolithMage10_a72d41d0:
+# TheBlackMonolithMage10_9a088527 (line 80615)
+translate ru TheBlackMonolithMage10_9a088527:
     # met "Good morning."
     met ""
 
-# TheBlackMonolithMage10_a6f17848 (line 80616)
-translate ru TheBlackMonolithMage10_a6f17848:
+# TheBlackMonolithMage10_7409b731 (line 80616)
+translate ru TheBlackMonolithMage10_7409b731:
     # "He barely lifted his head from the page as he acknowledged her."
     ""
 
-# TheBlackMonolithMage10_cbb5763e (line 80617)
-translate ru TheBlackMonolithMage10_cbb5763e:
+# TheBlackMonolithMage10_f11464df (line 80617)
+translate ru TheBlackMonolithMage10_f11464df:
     # s "Busy as always?"
     s ""
 
-# TheBlackMonolithMage10_a080de30 (line 80618)
-translate ru TheBlackMonolithMage10_a080de30:
+# TheBlackMonolithMage10_8e333ad7 (line 80618)
+translate ru TheBlackMonolithMage10_8e333ad7:
     # "He only nodded, his eyes never leaving the page."
     ""
 
-# TheBlackMonolithMage10_d0af36fd (line 80619)
-translate ru TheBlackMonolithMage10_d0af36fd:
+# TheBlackMonolithMage10_8f59d1dd (line 80619)
+translate ru TheBlackMonolithMage10_8f59d1dd:
     # "Reading for a moment longer, he finally lifted his head from the page."
     ""
 
-# TheBlackMonolithMage10_28f3ea98 (line 80731)
-translate ru TheBlackMonolithMage10_28f3ea98:
+# TheBlackMonolithMage10_b118ac7a (line 80731)
+translate ru TheBlackMonolithMage10_b118ac7a:
     # "Go into the greenhouse"
     "Go into the greenhouse" ""
 
-# TheBlackMonolithMage10_6eee845d (line 80942)
-translate ru TheBlackMonolithMage10_6eee845d:
+# TheBlackMonolithMage10_a2503ab0 (line 80942)
+translate ru TheBlackMonolithMage10_a2503ab0:
     # "Forget it, heed Metis' warning"
     "Forget it, heed Metis' warning" ""
 
-# TheBlackMonolithMage10_a7955ec7 (line 81071)
-translate ru TheBlackMonolithMage10_a7955ec7:
+# TheBlackMonolithMage10_19d8577b (line 81071)
+translate ru TheBlackMonolithMage10_19d8577b:
     # "Push yourself"
     "Push yourself" ""
 
-# TheBlackMonolithMage10_e46cb1b4 (line 81248)
-translate ru TheBlackMonolithMage10_e46cb1b4:
+# TheBlackMonolithMage10_13ba29cf (line 81248)
+translate ru TheBlackMonolithMage10_13ba29cf:
     # "Yell at her to leave"
     "Yell at her to leave" ""
 
-# TheBlackMonolithMage10_5cbd6380 (line 81302)
-translate ru TheBlackMonolithMage10_5cbd6380:
+# TheBlackMonolithMage10_fec45554 (line 81302)
+translate ru TheBlackMonolithMage10_fec45554:
     # "Say nothing"
     "Say nothing" ""
 
-# TheBlackMonolithMage10_84624452 (line 81480)
-translate ru TheBlackMonolithMage10_84624452:
+# TheBlackMonolithMage10_c98861b3 (line 81480)
+translate ru TheBlackMonolithMage10_c98861b3:
     # "Remember Metis' warning"
     "Remember Metis' warning" ""
 
-# TheBlackMonolithMage10_7f4b01cd (line 81561)
-translate ru TheBlackMonolithMage10_7f4b01cd:
+# TheBlackMonolithMage10_83a00e3a (line 81561)
+translate ru TheBlackMonolithMage10_83a00e3a:
     # "Follow the voice"
     "Follow the voice" ""
 
-# TheBlackMonolithMage10_2999aa40 (line 81754)
-translate ru TheBlackMonolithMage10_2999aa40:
+# TheBlackMonolithMage10_63940bda (line 81754)
+translate ru TheBlackMonolithMage10_63940bda:
     # "Ignore the voice"
     "Ignore the voice" ""
 

@@ -1,6 +1,6 @@
 """
-Ren'Py Text Extractor
-Извлекает тексты из оригинальных .rpy файлов для перевода
+Ren'Py Text Extractor - Full Version
+Извлекает ВСЕ переводимые тексты из оригинальных .rpy файлов
 """
 
 import os
@@ -9,7 +9,7 @@ import json
 import hashlib
 from pathlib import Path
 from dataclasses import dataclass, field, asdict
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Set, Tuple
 from datetime import datetime
 
 
@@ -20,7 +20,7 @@ class TextBlock:
     label: str
     source_file: str
     line_number: int
-    text_type: str  # 'dialogue', 'narration', 'menu_choice', 'menu'
+    text_type: str  # 'dialogue', 'narration', 'menu_choice', 'ui_string', 'character_name', 'define_string'
     character: Optional[str] = None
     original_text: str = ""
     context_before: List[str] = field(default_factory=list)
@@ -44,19 +44,17 @@ class Arc:
 
 
 class RenPyTextExtractor:
-    """Извлекает тексты из Ren'Py скриптов"""
-
-    # Регулярные выражения для парсинга
-    DIALOGUE_PATTERN = re.compile(r'^([a-zA-Z_][a-zA-Z0-9_]*)\s+"(.+)"$')
-    NARRATION_PATTERN = re.compile(r'^"(.+)"$')
-    MENU_CHOICE_PATTERN = re.compile(r'^\s+"(.+?)"\s*:\s*$')  # "Choice": с отступом
-    LABEL_PATTERN = re.compile(r'^label\s+([a-zA-Z_][a-zA-Z0-9_]*):')
+    """Извлекает тексты из Ren'Py скриптов - Полная версия"""
 
     def __init__(self, game_dir: str, output_dir: str):
         self.game_dir = Path(game_dir)
         self.output_dir = Path(output_dir)
         self.texts: List[TextBlock] = []
         self.scenes: Dict[str, Scene] = {}
+        self.ui_strings: List[TextBlock] = []
+        self.character_names: List[TextBlock] = []
+        self.define_strings: List[TextBlock] = []
+        self.seen_strings: Set[str] = set()  # Для избежания дубликатов
 
     def scan_game_files(self) -> List[Path]:
         """Находит все .rpy файлы в game/ (исключая tl/)"""
@@ -64,21 +62,71 @@ class RenPyTextExtractor:
         game_path = Path(self.game_dir)
 
         for rpy_file in game_path.rglob("*.rpy"):
-            # Исключаем файлы переводов
             if '/tl/' in str(rpy_file) or '\\tl\\' in str(rpy_file):
                 continue
-            # Исключаем .rpyc файлы
             if rpy_file.suffix == '.rpyc':
                 continue
             rpy_files.append(rpy_file)
 
         return rpy_files
 
-    def parse_file(self, file_path: Path) -> List[TextBlock]:
-        """Парсит один файл и извлекает тексты"""
+    def _add_block(self, block: TextBlock, scene: Scene, blocks_list: List[TextBlock]):
+        """Добавляет блок если его ещё нет"""
+        # Создаём уникальный ключ
+        key = f"{block.source_file}:{block.line_number}:{block.text_type}:{block.original_text}"
+        if key not in self.seen_strings and block.original_text.strip():
+            self.seen_strings.add(key)
+            blocks_list.append(block)
+            scene.blocks.append(block)
+            self.texts.append(block)
+
+    def _parse_string_content(self, text: str) -> str:
+        """Извлекает содержимое строки с учётом экранирования"""
+        # Убираем внешние кавычки
+        text = text.strip()
+        if text.startswith('"') and text.endswith('"'):
+            text = text[1:-1]
+        elif text.startswith("'") and text.endswith("'"):
+            text = text[1:-1]
+        # Убираем экранированные кавычки
+        text = text.replace('\\"', '"').replace("\\'", "'")
+        return text
+
+    def _find_all_strings_in_line(self, line: str, filename: str, line_num: int, context: str = "ui") -> List[TextBlock]:
+        """Находит все строки _("...") или _('...') в строке"""
         blocks = []
-        current_label = "unknown"
-        current_scene = Scene(name="unknown", label=current_label, source_file=str(file_path))
+        # Паттерн для _(...) или _("...")
+        patterns = [
+            r'_\("(.*?)"\)',      # _("text")
+            r"_\\('(.*?)\\'\\)",    # _('text')
+        ]
+
+        for pattern in patterns:
+            for match in re.finditer(pattern, line):
+                text = match.group(1)
+                if text.strip():
+                    hash_input = f"{filename}:{line_num}:{context}:{text}"
+                    short_hash = hashlib.md5(hash_input.encode()).hexdigest()[:8]
+                    block = TextBlock(
+                        id=f"ui_{short_hash}",
+                        label="ui_strings",
+                        source_file=filename,
+                        line_number=line_num,
+                        text_type='ui_string' if context == 'ui' else context,
+                        original_text=text
+                    )
+                    blocks.append(block)
+
+        return blocks
+
+    def parse_file_full(self, file_path: Path) -> Tuple[List[TextBlock], List[TextBlock], List[TextBlock]]:
+        """Полный парсинг одного файла - извлекает все типы строк"""
+        dialogue_blocks = []
+        ui_blocks = []
+        character_blocks = []
+
+        current_label = file_path.stem  # Имя файла как fallback
+        current_scene = Scene(name=current_label, label=current_label, source_file=str(file_path))
 
         with open(file_path, 'r', encoding='utf-8') as f:
             lines = f.readlines()
@@ -86,73 +134,128 @@ class RenPyTextExtractor:
         i = 0
         while i < len(lines):
             line = lines[i].rstrip()
+            full_line = lines[i].rstrip()
+            prev_lines = lines[max(0, i-2):i]
+            next_lines = lines[min(len(lines)-1, i+1):min(len(lines), i+3)]
 
             # Определяем метку
-            label_match = self.LABEL_PATTERN.match(line)
+            label_match = re.match(r'^label\s+([a-zA-Z_][a-zA-Z0-9_]*):', line)
             if label_match:
                 current_label = label_match.group(1)
-                # Сохраняем текущую сцену и создаём новую
                 if current_scene.blocks:
                     self.scenes[current_label] = current_scene
-                current_scene = Scene(
-                    name=current_label,
-                    label=current_label,
-                    source_file=str(file_path)
-                )
+                current_scene = Scene(name=current_label, label=current_label, source_file=str(file_path))
 
-            # Диалог: character "text"
-            dialogue_match = self.DIALOGUE_PATTERN.match(line)
+            # === 1. Диалог: character "text" ===
+            dialogue_match = re.match(r'^([a-zA-Z_][a-zA-Z0-9_]*)\s+"(.+)"$', line)
             if dialogue_match:
                 character = dialogue_match.group(1)
-                text = dialogue_match.group(2)
-                block = self._create_block(
-                    label=current_label,
-                    text_type='dialogue',
-                    character=character,
-                    original_text=text,
-                    line_number=i + 1,
-                    source_file=str(file_path)
-                )
-                blocks.append(block)
-                current_scene.blocks.append(block)
-                self.texts.append(block)
-
-# Нарратив: "text"
-            # Исключаем пустые строки и menu/label
-            elif (self.NARRATION_PATTERN.match(line) and
-                  not line.startswith('menu ') and
-                  not line.startswith('"Choose"') and
-                  not line.strip() == '""'):
-                text = self.NARRATION_PATTERN.match(line).group(1)
-                # Пропускаем пустые
+                text = self._parse_string_content(dialogue_match.group(2))
                 if text.strip():
-                    block = self._create_block(
+                    hash_input = f"{file_path}:{i+1}:dialogue:{text}"
+                    short_hash = hashlib.md5(hash_input.encode()).hexdigest()[:8]
+                    block = TextBlock(
+                        id=f"{current_label}_{short_hash}",
                         label=current_label,
-                        text_type='narration',
-                        character=None,
-                        original_text=text,
+                        source_file=str(file_path),
                         line_number=i + 1,
-                        source_file=str(file_path)
+                        text_type='dialogue',
+                        character=character,
+                        original_text=text,
+                        context_before=prev_lines,
+                        context_after=next_lines
                     )
-                    blocks.append(block)
-                    current_scene.blocks.append(block)
-                    self.texts.append(block)
+                    self._add_block(block, current_scene, dialogue_blocks)
 
-            # Menu choice:     "Choice text":
-            menu_match = self.MENU_CHOICE_PATTERN.match(line)
+            # === 2. Нарратив: "text" (без персонажа) ===
+            elif re.match(r'^"(.+)"$', line):
+                if not line.startswith('menu ') and not line.startswith('"Choose"') and line.strip() != '""':
+                    text = self._parse_string_content(line)
+                    if text.strip():
+                        hash_input = f"{file_path}:{i+1}:narration:{text}"
+                        short_hash = hashlib.md5(hash_input.encode()).hexdigest()[:8]
+                        block = TextBlock(
+                            id=f"{current_label}_{short_hash}",
+                            label=current_label,
+                            source_file=str(file_path),
+                            line_number=i + 1,
+                            text_type='narration',
+                            original_text=text,
+                            context_before=prev_lines,
+                            context_after=next_lines
+                        )
+                        self._add_block(block, current_scene, dialogue_blocks)
+
+            # === 3. Menu choice:     "Choice text": ===
+            menu_match = re.match(r'^\s+"(.+?)"\s*:\s*$', line)
             if menu_match:
                 text = menu_match.group(1)
-                block = self._create_block(
-                    label=current_label,
-                    text_type='menu_choice',
-                    character=None,
-                    original_text=text,
+                if text.strip() and text != "Choose":
+                    hash_input = f"{file_path}:{i+1}:menu_choice:{text}"
+                    short_hash = hashlib.md5(hash_input.encode()).hexdigest()[:8]
+                    block = TextBlock(
+                        id=f"{current_label}_{short_hash}",
+                        label=current_label,
+                        source_file=str(file_path),
+                        line_number=i + 1,
+                        text_type='menu_choice',
+                        original_text=text,
+                        context_before=prev_lines,
+                        context_after=next_lines
+                    )
+                    self._add_block(block, current_scene, dialogue_blocks)
+
+            # === 4. UI строки: _("...") или _("...") ===
+            ui_in_line = self._find_all_strings_in_line(line, str(file_path), i + 1, 'ui_string')
+            for block in ui_in_line:
+                self._add_block(block, current_scene, ui_blocks)
+                self.ui_strings.append(block)
+
+            # === 5. Character definitions: Character(_("Name"), ...) ===
+            # Ищем в текущей и следующих строках
+            combined_line = line
+            for j in range(i+1, min(i+5, len(lines))):
+                next_line = lines[j].strip()
+                if next_line and not next_line.startswith('#'):
+                    combined_line += ' ' + next_line
+                    if ')' in combined_line:
+                        break
+
+            # Character name extraction
+            char_name_match = re.search(r'Character\s*\(\s*_\("(.*?)"\)', combined_line)
+            if char_name_match:
+                name = char_name_match.group(1)
+                hash_input = f"{file_path}:{i+1}:character_name:{name}"
+                short_hash = hashlib.md5(hash_input.encode()).hexdigest()[:8]
+                block = TextBlock(
+                    id=f"char_{short_hash}",
+                    label="characters",
+                    source_file=str(file_path),
                     line_number=i + 1,
-                    source_file=str(file_path)
+                    text_type='character_name',
+                    original_text=name
                 )
-                blocks.append(block)
-                current_scene.blocks.append(block)
-                self.texts.append(block)
+                if block.original_text.strip():
+                    self._add_block(block, current_scene, character_blocks)
+                    self.character_names.append(block)
+
+            # === 6. Define strings: define config.name = _("...") ===
+            define_match = re.search(r'_("(?:[^"\\]|\\.)*"|\'(?:[^\'\\]|\\.)*\')', line)
+            if define_match:
+                text = self._parse_string_content(define_match.group(1))
+                if text.strip() and text not in ['Back', 'History', 'Skip', 'Auto', 'Save', 'Q.Save', 'Q.Load', 'Prefs', 'Hide UI', 'Start', 'Load', 'Settings', 'End Replay', 'Main Menu', 'Quit', 'Return']:
+                    hash_input = f"{file_path}:{i+1}:define:{text}"
+                    short_hash = hashlib.md5(hash_input.encode()).hexdigest()[:8]
+                    block = TextBlock(
+                        id=f"def_{short_hash}",
+                        label="defines",
+                        source_file=str(file_path),
+                        line_number=i + 1,
+                        text_type='define_string',
+                        original_text=text
+                    )
+                    self._add_block(block, current_scene, character_blocks)
+                    self.define_strings.append(block)
 
             i += 1
 
@@ -160,128 +263,101 @@ class RenPyTextExtractor:
         if current_scene.blocks:
             self.scenes[current_label] = current_scene
 
+        return dialogue_blocks, ui_blocks, character_blocks
+
+    def parse_file(self, file_path: Path) -> List[TextBlock]:
+        """Обёртка для обратной совместимости"""
+        blocks, _, _ = self.parse_file_full(file_path)
         return blocks
-
-    def _create_block(self, label: str, text_type: str, character: Optional[str],
-                      original_text: str, line_number: int, source_file: str) -> TextBlock:
-        """Создаёт блок текста с уникальным ID"""
-        # Генерируем ID на основе хэша
-        hash_input = f"{source_file}:{line_number}:{original_text}"
-        short_hash = hashlib.md5(hash_input.encode()).hexdigest()[:8]
-
-        return TextBlock(
-            id=f"{label}_{short_hash}",
-            label=label,
-            source_file=source_file,
-            line_number=line_number,
-            text_type=text_type,
-            character=character,
-            original_text=original_text
-        )
 
     def extract_all(self) -> Dict[str, Scene]:
         """Извлекает тексты из всех файлов"""
         print(f"Scanning {self.game_dir}...")
 
         files = self.scan_game_files()
-        print(f"Found {len(files)} .rpy files")
+        print(f"Found {len(files)} .rpy files\n")
+
+        total_dialogue = 0
+        total_ui = 0
+        total_chars = 0
 
         for file_path in files:
             print(f"  Parsing: {file_path.name}")
-            self.parse_file(file_path)
+            d, u, c = self.parse_file_full(file_path)
+            total_dialogue += len(d)
+            total_ui += len(u)
+            total_chars += len(c)
 
-        print(f"\nExtracted {len(self.texts)} text blocks from {len(self.scenes)} scenes")
+        print(f"\n{'='*50}")
+        print(f"Extraction Summary:")
+        print(f"  - Dialogue/Narration blocks: {total_dialogue}")
+        print(f"  - UI strings: {total_ui}")
+        print(f"  - Character names: {total_chars}")
+        print(f"  - Total unique texts: {len(self.texts)}")
+        print(f"  - Scenes: {len(self.scenes)}")
+        print(f"{'='*50}")
+
         return self.scenes
 
     def organize_into_arcs(self) -> List[Arc]:
         """Организует сцены в арки по префиксам"""
         arcs_dict: Dict[str, List[Scene]] = {}
 
-        # Определяем основные арки по ключевым словам
         ARC_PATTERNS = [
-            # (pattern, arc_name)
             (r'^Opening', 'Prologue'),
             (r'^(DayOfTheFuneral|SecondPartOfFuneral|MeetingOnTheBattlements|MeetingKateInTheGarden|SarahsBedroomAfterFuneral|TheMorningAfterKate|SarahAndThomasSpeak|TheInsidePathBegins|ChooseThePath|CoronationDay)', 'StoryBeginnings'),
             (r'^Union(Kingdom|Loop|Decision)', 'UnionKingdom'),
-            (r'^WarriorPath', 'WarriorPath'),
-            (r'^WarriorQueen', 'WarriorPath'),
-            (r'^WarriorRahayal', 'WarriorPath'),
+            (r'^Warrior(Path|Queen|Rahayal)', 'WarriorPath'),
             (r'^SailorPath', 'SailorPath'),
             (r'^MagePath', 'MagePath'),
-            (r'^HassarPath', 'HassarPath'),
-            (r'^JaeidPath', 'HassarPath'),
+            (r'^(Hassar|Jaeid)Path', 'HassarPath'),
             (r'^Sakar', 'SakarPath'),
             (r'^(CampSlave|Unmarried|MariusMarriage|GallowCreek)', 'AlfredArc'),
             (r'^DemonArc', 'DemonArc'),
-            (r'^(TheBlackMonolith|BlackMonolith)', 'BlackMonolith'),
+            (r'^(The)?BlackMonolith', 'BlackMonolith'),
             (r'^TheHollowWorld', 'HollowWorld'),
             (r'^(TrainingPath|ChoosingAMentor|GeneralPathBegins)', 'Training'),
-            (r'^(VargaPath|MarionOrVarga|MarionPath)', 'VargaMarionPath'),
+            (r'^(Varga|Marion)Path', 'VargaMarionPath'),
             (r'^(HyralGoblin|HyralOrc|HyralTown)', 'HyralArc'),
             (r'^(SarahAndNick|LifeInRahayal|ServantOfGilead|TailorRoute)', 'LifeInRahayal'),
             (r'^(OutsideAndAlone|PrisonPath|UnderworldPath)', 'PrisonArc'),
-            (r'^(TheOldRoad|SarahLeavesLethram|SarahExploresLethram)', 'SailorArc'),
+            (r'^(TheOldRoad|SarahLeaves|SarahExplores)', 'SailorArc'),
             (r'^(TheBattleForTheCapital|WarCouncil)', 'WarArc'),
-            (r'^ArrivingInAlGahaem', 'WarriorPath'),
             (r'^(MageInTheRuins|FallOfLethram)', 'MagePath'),
         ]
 
         for scene_name, scene in self.scenes.items():
             arc_name = 'Other'
-
             for pattern, name in ARC_PATTERNS:
                 if re.match(pattern, scene_name):
                     arc_name = name
                     break
-
             if arc_name not in arcs_dict:
                 arcs_dict[arc_name] = []
             arcs_dict[arc_name].append(scene)
 
-        arcs = [Arc(name=name, scenes=sorted(scenes, key=lambda s: s.name))
+        return [Arc(name=name, scenes=sorted(scenes, key=lambda s: s.name))
                 for name, scenes in sorted(arcs_dict.items())]
 
-        return arcs
-
-    def save_to_format(self, output_format: str = 'json'):
-        """Сохраняет извлечённые тексты в нужном формате"""
-
-        if output_format == 'json':
-            self._save_json()
-        elif output_format == 'renpy':
-            self._save_renpy_format()
-        elif output_format == 'markdown':
-            self._save_markdown()
-
-    def _save_json(self):
-        """Сохраняет в JSON формат"""
-        output_path = self.output_dir / 'all_texts.json'
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-
-        data = {
-            'metadata': {
-                'extracted_at': datetime.now().isoformat(),
-                'total_scenes': len(self.scenes),
-                'total_blocks': len(self.texts)
-            },
-            'scenes': {name: asdict(scene) for name, scene in sorted(self.scenes.items())}
-        }
-
-        with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-
-        print(f"Saved to {output_path}")
+    def save_to_format(self):
+        """Сохраняет в формате Ren'Py"""
+        self._save_renpy_format()
+        self._save_ui_strings()
+        self._save_characters()
 
     def _save_renpy_format(self):
-        """Сохраняет в формате Ren'Py translate блоков"""
-        output_dir = self.output_dir / 'renpy_format'
+        """Сохраняет основные диалоги/нарратив"""
+        output_dir = self.output_dir
         output_dir.mkdir(parents=True, exist_ok=True)
 
         arcs = self.organize_into_arcs()
 
         manifest = {
             'extracted_at': datetime.now().isoformat(),
-            'arcs': []
+            'arcs': [],
+            'total_dialogue_blocks': len([t for t in self.texts if t.text_type in ['dialogue', 'narration', 'menu_choice']]),
+            'total_ui_strings': len(self.ui_strings),
+            'total_character_names': len(self.character_names)
         }
 
         for arc in arcs:
@@ -293,7 +369,7 @@ class RenPyTextExtractor:
             for scene in arc.scenes:
                 scene_file = arc_dir / f"{scene.name}.rpy"
                 with open(scene_file, 'w', encoding='utf-8') as f:
-                    f.write(f"# -*- encoding: utf-8 -*-\n")
+                    f.write("# -*- encoding: utf-8 -*-\n")
                     f.write(f"# Extracted from: {scene.source_file}\n")
                     f.write(f"# Scene: {scene.name}\n")
                     f.write(f"# Total blocks: {len(scene.blocks)}\n\n")
@@ -327,69 +403,55 @@ class RenPyTextExtractor:
         with open(manifest_path, 'w', encoding='utf-8') as f:
             json.dump(manifest, f, ensure_ascii=False, indent=2)
 
-        print(f"Saved Ren'Py format to {output_dir}")
+        print(f"Saved dialogue/narration to {output_dir}")
 
-    def _save_markdown(self):
-        """Сохраняет в Markdown формате для переводчиков"""
-        output_dir = self.output_dir / 'markdown'
+    def _save_ui_strings(self):
+        """Сохраняет UI строки отдельно"""
+        output_dir = self.output_dir / 'ui_strings'
         output_dir.mkdir(parents=True, exist_ok=True)
 
-        arcs = self.organize_into_arcs()
+        ui_file = output_dir / 'screens.rpy'
+        with open(ui_file, 'w', encoding='utf-8') as f:
+            f.write("# -*- encoding: utf-8 -*-\n")
+            f.write("# UI Strings - Buttons, Menus, etc.\n")
+            f.write(f"# Total: {len(self.ui_strings)} strings\n\n")
 
-        for arc in arcs:
-            arc_dir = output_dir / arc.name
-            arc_dir.mkdir(parents=True, exist_ok=True)
+            for block in self.ui_strings:
+                f.write(f"# {block.id} (line {block.line_number})\n")
+                f.write(f"translate ru {block.id}:\n")
+                f.write(f'    # _("{block.original_text}")\n')
+                f.write(f'    _("{block.original_text}") ""\n\n')
 
-            arc_readme = [f"# {arc.name}\n"]
-            arc_readme.append(f"Scenes: {len(arc.scenes)}\n")
+        print(f"Saved UI strings to {ui_file}")
 
-            for scene in arc.scenes:
-                scene_file = arc_dir / f"{scene.name}.md"
-                lines = [f"# {scene.name}\n"]
-                lines.append(f"Source: `{scene.source_file}`\n")
-                lines.append(f"Blocks: {len(scene.blocks)}\n\n")
+    def _save_characters(self):
+        """Сохраняет имена персонажей"""
+        output_dir = self.output_dir / 'characters'
+        output_dir.mkdir(parents=True, exist_ok=True)
 
-                # Группируем по типу
-                dialogues = [b for b in scene.blocks if b.text_type == 'dialogue']
-                narrations = [b for b in scene.blocks if b.text_type == 'narration']
+        char_file = output_dir / 'character_names.rpy'
+        with open(char_file, 'w', encoding='utf-8') as f:
+            f.write("# -*- encoding: utf-8 -*-\n")
+            f.write("# Character Names\n")
+            f.write(f"# Total: {len(self.character_names)} names\n\n")
 
-                if dialogues:
-                    lines.append("## Dialogues\n\n")
-                    for block in dialogues:
-                        lines.append(f"### {block.id}\n")
-                        lines.append(f"**Character:** `{block.character}`\n")
-                        lines.append(f"**Original:** {block.original_text}\n")
-                        lines.append(f"**Translation:** \n\n")
+            for block in self.character_names:
+                f.write(f"# {block.id} (line {block.line_number})\n")
+                f.write(f"translate ru {block.id}:\n")
+                f.write(f'    # Character name: {block.original_text}\n')
+                f.write(f'    ""\n\n')
 
-                if narrations:
-                    lines.append("## Narrations\n\n")
-                    for block in narrations:
-                        lines.append(f"### {block.id}\n")
-                        lines.append(f"**Original:** {block.original_text}\n")
-                        lines.append(f"**Translation:** \n\n")
-
-                with open(scene_file, 'w', encoding='utf-8') as f:
-                    f.write('\n'.join(lines))
-
-                arc_readme.append(f"- [{scene.name}]({scene.name}/{scene.name}.md) ({len(scene.blocks)} blocks)")
-
-            arc_readme_path = arc_dir / 'README.md'
-            with open(arc_readme_path, 'w', encoding='utf-8') as f:
-                f.write('\n'.join(arc_readme))
-
-        print(f"Saved Markdown format to {output_dir}")
+        print(f"Saved character names to {char_file}")
 
 
 def main():
     import sys
 
-    # Пути по умолчанию - поднимаемся из skills/split-translations до корня проекта
-    script_dir = Path(__file__).parent  # .opencode/skills/split-translations
-    project_root = script_dir.parent.parent.parent  # корень проекта
+    script_dir = Path(__file__).parent
+    project_root = script_dir.parent.parent.parent
     game_dir = project_root / 'game'
     output_dir = project_root / 'game' / 'tl' / 'ru' / 'source'
 
-    # Аргументы командной строки
     if len(sys.argv) > 1:
         game_dir = Path(sys.argv[1])
     if len(sys.argv) > 2:
@@ -397,14 +459,18 @@ def main():
 
     print(f"Project root: {project_root}")
     print(f"Game dir: {game_dir}")
-    print(f"Output dir: {output_dir}")
+    print(f"Output dir: {output_dir}\n")
+
+    # Очищаем предыдущие результаты
+    if output_dir.exists():
+        import shutil
+        shutil.rmtree(output_dir)
 
     extractor = RenPyTextExtractor(str(game_dir), str(output_dir))
     extractor.extract_all()
 
-    # Сохраняем в формате Ren'Py
-    print("\nSaving to Ren'Py format...")
-    extractor.save_to_format('renpy')
+    print("\nSaving formats...")
+    extractor.save_to_format()
 
     print("\nDone!")
 

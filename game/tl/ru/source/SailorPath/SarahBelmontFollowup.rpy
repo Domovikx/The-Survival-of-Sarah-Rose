@@ -3,33 +3,33 @@
 # Scene: SarahBelmontFollowup
 # Total blocks: 6
 
-# SarahBelmontFollowup_665f7970 (line 25860)
-translate ru SarahBelmontFollowup_665f7970:
+# SarahBelmontFollowup_7d1e54b9 (line 25860)
+translate ru SarahBelmontFollowup_7d1e54b9:
     # "Give captain Belmonst a piece of your mind"
     "Give captain Belmonst a piece of your mind" ""
 
-# SarahBelmontFollowup_9a1828de (line 25886)
-translate ru SarahBelmontFollowup_9a1828de:
+# SarahBelmontFollowup_78e47333 (line 25886)
+translate ru SarahBelmontFollowup_78e47333:
     # "Follow the captain"
     "Follow the captain" ""
 
-# SarahBelmontFollowup_a562e1df (line 25927)
-translate ru SarahBelmontFollowup_a562e1df:
+# SarahBelmontFollowup_62ac927f (line 25927)
+translate ru SarahBelmontFollowup_62ac927f:
     # "Take the bet."
     "Take the bet." ""
 
-# SarahBelmontFollowup_ff821faa (line 26092)
-translate ru SarahBelmontFollowup_ff821faa:
+# SarahBelmontFollowup_68f0fabc (line 26092)
+translate ru SarahBelmontFollowup_68f0fabc:
     # "Leave the ship"
     "Leave the ship" ""
 
-# SarahBelmontFollowup_08e77170 (line 26103)
-translate ru SarahBelmontFollowup_08e77170:
+# SarahBelmontFollowup_2c97f5f5 (line 26103)
+translate ru SarahBelmontFollowup_2c97f5f5:
     # "Leave the ship"
     "Leave the ship" ""
 
-# SarahBelmontFollowup_51a31453 (line 26115)
-translate ru SarahBelmontFollowup_51a31453:
+# SarahBelmontFollowup_0e224bef (line 26115)
+translate ru SarahBelmontFollowup_0e224bef:
     # "Ignore him"
     "Ignore him" ""
 

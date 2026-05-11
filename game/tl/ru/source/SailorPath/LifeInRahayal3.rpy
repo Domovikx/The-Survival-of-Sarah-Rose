@@ -3,1053 +3,1053 @@
 # Scene: LifeInRahayal3
 # Total blocks: 210
 
-# LifeInRahayal3_3bfd23d9 (line 30697)
-translate ru LifeInRahayal3_3bfd23d9:
+# LifeInRahayal3_237210ba (line 30697)
+translate ru LifeInRahayal3_237210ba:
     # "Sarah left and continued exploring the city."
     ""
 
-# LifeInRahayal3_b495f25b (line 30698)
-translate ru LifeInRahayal3_b495f25b:
+# LifeInRahayal3_3fed2165 (line 30698)
+translate ru LifeInRahayal3_3fed2165:
     # "The setting sun had drowned the city in a golden light."
     ""
 
-# LifeInRahayal3_1672206a (line 30699)
-translate ru LifeInRahayal3_1672206a:
+# LifeInRahayal3_9a3a696b (line 30699)
+translate ru LifeInRahayal3_9a3a696b:
     # "It wouldn't be long before it was night."
     ""
 
-# LifeInRahayal3_7552c5b4 (line 30700)
-translate ru LifeInRahayal3_7552c5b4:
+# LifeInRahayal3_4a4dce01 (line 30700)
+translate ru LifeInRahayal3_4a4dce01:
     # "Though she didn't feel unsafe, she didn't want to risk getting lost in the city at night."
     ""
 
-# LifeInRahayal3_649e01c8 (line 30701)
-translate ru LifeInRahayal3_649e01c8:
+# LifeInRahayal3_277641a4 (line 30701)
+translate ru LifeInRahayal3_277641a4:
     # "Sarah decided to give up on the day's search for a job and return back to the Inn."
     ""
 
-# LifeInRahayal3_da442091 (line 30707)
-translate ru LifeInRahayal3_da442091:
+# LifeInRahayal3_b66b79f3 (line 30707)
+translate ru LifeInRahayal3_b66b79f3:
     # "When she stepped through the door of the Inn, she was greeted by the same familiar atmosphere that always seemed to permeate the air."
     ""
 
-# LifeInRahayal3_60fa8ca0 (line 30710)
-translate ru LifeInRahayal3_60fa8ca0:
+# LifeInRahayal3_fcfc9b3e (line 30710)
+translate ru LifeInRahayal3_fcfc9b3e:
     # "For now, this is where the story ends."
     ""
 
-# LifeInRahayal3_7bc37ab1 (line 30713)
-translate ru LifeInRahayal3_7bc37ab1:
+# LifeInRahayal3_bd933ffd (line 30713)
+translate ru LifeInRahayal3_bd933ffd:
     # "Sarah had only just sat down at the bar when Ramsey, the owner, walked up to her."
     ""
 
-# LifeInRahayal3_97330635 (line 30714)
-translate ru LifeInRahayal3_97330635:
+# LifeInRahayal3_8a536972 (line 30714)
+translate ru LifeInRahayal3_8a536972:
     # rams "Hey there, you lookin aweful sad?"
     rams ""
 
-# LifeInRahayal3_d275a5a7 (line 30715)
-translate ru LifeInRahayal3_d275a5a7:
+# LifeInRahayal3_fa3dd8f7 (line 30715)
+translate ru LifeInRahayal3_fa3dd8f7:
     # "Sarah snapped out of her own thoughts."
     ""
 
-# LifeInRahayal3_470b0d4a (line 30716)
-translate ru LifeInRahayal3_470b0d4a:
+# LifeInRahayal3_5c301d2e (line 30716)
+translate ru LifeInRahayal3_5c301d2e:
     # s "Oh...was I? I'm sorry..."
     s ""
 
-# LifeInRahayal3_4baba3bd (line 30717)
-translate ru LifeInRahayal3_4baba3bd:
+# LifeInRahayal3_c95cda0d (line 30717)
+translate ru LifeInRahayal3_c95cda0d:
     # "Ramsey just smiled."
     ""
 
-# LifeInRahayal3_d9497238 (line 30718)
-translate ru LifeInRahayal3_d9497238:
+# LifeInRahayal3_83d28f36 (line 30718)
+translate ru LifeInRahayal3_83d28f36:
     # rams "Ain't no worry, I just hope you ain't feelin as sad as you lookin."
     rams ""
 
-# LifeInRahayal3_1b750c2f (line 30719)
-translate ru LifeInRahayal3_1b750c2f:
+# LifeInRahayal3_49206dd9 (line 30719)
+translate ru LifeInRahayal3_49206dd9:
     # "Sarah did her best to force a smile."
     ""
 
-# LifeInRahayal3_5558deaa (line 30720)
-translate ru LifeInRahayal3_5558deaa:
+# LifeInRahayal3_eb426bfb (line 30720)
+translate ru LifeInRahayal3_eb426bfb:
     # s "No, I'm fine, it's just..."
     s ""
 
-# LifeInRahayal3_99c089ad (line 30721)
-translate ru LifeInRahayal3_99c089ad:
+# LifeInRahayal3_517b396e (line 30721)
+translate ru LifeInRahayal3_517b396e:
     # "Ramsey tilted his head."
     ""
 
-# LifeInRahayal3_614471d0 (line 30722)
-translate ru LifeInRahayal3_614471d0:
+# LifeInRahayal3_462452e0 (line 30722)
+translate ru LifeInRahayal3_462452e0:
     # rams "What?"
     rams ""
 
-# LifeInRahayal3_d5083807 (line 30723)
-translate ru LifeInRahayal3_d5083807:
+# LifeInRahayal3_536ec56c (line 30723)
+translate ru LifeInRahayal3_536ec56c:
     # s "Nothing, I don't want to bother you with my troubles."
     s ""
 
-# LifeInRahayal3_701f85ea (line 30724)
-translate ru LifeInRahayal3_701f85ea:
+# LifeInRahayal3_d39fb306 (line 30724)
+translate ru LifeInRahayal3_d39fb306:
     # rams "Listen, little lady, if you can't bother the barkeeper with your troubles, who can you bother with em?"
     rams ""
 
-# LifeInRahayal3_4bce1b6b (line 30725)
-translate ru LifeInRahayal3_4bce1b6b:
+# LifeInRahayal3_0fc43652 (line 30725)
+translate ru LifeInRahayal3_0fc43652:
     # "Sarah could't help but laugh."
     ""
 
-# LifeInRahayal3_7b883fad (line 30726)
-translate ru LifeInRahayal3_7b883fad:
+# LifeInRahayal3_1ad02ab7 (line 30726)
+translate ru LifeInRahayal3_1ad02ab7:
     # s "I mean...okay, if you really don't mind..."
     s ""
 
-# LifeInRahayal3_44079f25 (line 30727)
-translate ru LifeInRahayal3_44079f25:
+# LifeInRahayal3_f89f7bfe (line 30727)
+translate ru LifeInRahayal3_f89f7bfe:
     # "Sarah started telling him about her day. Slowly at first, then all at once."
     ""
 
-# LifeInRahayal3_575e4c30 (line 30728)
-translate ru LifeInRahayal3_575e4c30:
+# LifeInRahayal3_6ce931f5 (line 30728)
+translate ru LifeInRahayal3_6ce931f5:
     # "Walking the streets, searching for a job, turning it down, everything."
     ""
 
-# LifeInRahayal3_659d2d9d (line 30729)
-translate ru LifeInRahayal3_659d2d9d:
+# LifeInRahayal3_91717ff6 (line 30729)
+translate ru LifeInRahayal3_91717ff6:
     # "Ramsey listened attentively as she poke."
     ""
 
-# LifeInRahayal3_f351dc44 (line 30730)
-translate ru LifeInRahayal3_f351dc44:
+# LifeInRahayal3_1d2fef50 (line 30730)
+translate ru LifeInRahayal3_1d2fef50:
     # "Only when she was finally done did he speak."
     ""
 
-# LifeInRahayal3_0e53f421 (line 30731)
-translate ru LifeInRahayal3_0e53f421:
+# LifeInRahayal3_6c732c30 (line 30731)
+translate ru LifeInRahayal3_6c732c30:
     # rams "Well, that's quite a lot for a first day in town."
     rams ""
 
-# LifeInRahayal3_7988c391 (line 30732)
-translate ru LifeInRahayal3_7988c391:
+# LifeInRahayal3_a8eb6a14 (line 30732)
+translate ru LifeInRahayal3_a8eb6a14:
     # "Sarah nodded."
     ""
 
-# LifeInRahayal3_98ca33eb (line 30733)
-translate ru LifeInRahayal3_98ca33eb:
+# LifeInRahayal3_592e5ff4 (line 30733)
+translate ru LifeInRahayal3_592e5ff4:
     # rams "But if you ask me, I think it's a good thing."
     rams ""
 
-# LifeInRahayal3_f48cc48c (line 30734)
-translate ru LifeInRahayal3_f48cc48c:
+# LifeInRahayal3_5cc1a429 (line 30734)
+translate ru LifeInRahayal3_5cc1a429:
     # "Sarah frowned."
     ""
 
-# LifeInRahayal3_39ef82ef (line 30735)
-translate ru LifeInRahayal3_39ef82ef:
+# LifeInRahayal3_5c90fc16 (line 30735)
+translate ru LifeInRahayal3_5c90fc16:
     # s "Really?"
     s ""
 
-# LifeInRahayal3_f26d5718 (line 30736)
-translate ru LifeInRahayal3_f26d5718:
+# LifeInRahayal3_1cbbe7a8 (line 30736)
+translate ru LifeInRahayal3_1cbbe7a8:
     # rams "Yeah. Ain't hearin nothin but bad things about them Estates."
     rams ""
 
-# LifeInRahayal3_5b05cd32 (line 30737)
-translate ru LifeInRahayal3_5b05cd32:
+# LifeInRahayal3_dddb9325 (line 30737)
+translate ru LifeInRahayal3_dddb9325:
     # rams "Rich folk. Powerful folk. Can't be trusted if you ask me. Better you be off chasin an honest job."
     rams ""
 
-# LifeInRahayal3_772a9681 (line 30738)
-translate ru LifeInRahayal3_772a9681:
+# LifeInRahayal3_90cf499b (line 30738)
+translate ru LifeInRahayal3_90cf499b:
     # "Sarah smiled."
     ""
 
-# LifeInRahayal3_9863cdee (line 30739)
-translate ru LifeInRahayal3_9863cdee:
+# LifeInRahayal3_f808f91c (line 30739)
+translate ru LifeInRahayal3_f808f91c:
     # s "Thank you. It makes me feel a little better hearing that from you."
     s ""
 
-# LifeInRahayal3_ae374c0b (line 30740)
-translate ru LifeInRahayal3_ae374c0b:
+# LifeInRahayal3_c4c8ff2c (line 30740)
+translate ru LifeInRahayal3_c4c8ff2c:
     # "Ramsey smiled that broad smile of his."
     ""
 
-# LifeInRahayal3_2ca9bfd2 (line 30741)
-translate ru LifeInRahayal3_2ca9bfd2:
+# LifeInRahayal3_183a591a (line 30741)
+translate ru LifeInRahayal3_183a591a:
     # rams "Like I said, that's what the barkeep is for, dumpin your troubles on."
     rams ""
 
-# LifeInRahayal3_5073caf9 (line 30742)
-translate ru LifeInRahayal3_5073caf9:
+# LifeInRahayal3_fee39599 (line 30742)
+translate ru LifeInRahayal3_fee39599:
     # s "Thank you again for listening, it really helps."
     s ""
 
-# LifeInRahayal3_f7399af4 (line 30743)
-translate ru LifeInRahayal3_f7399af4:
+# LifeInRahayal3_5c8043d7 (line 30743)
+translate ru LifeInRahayal3_5c8043d7:
     # s "This place...it's still all so new. It can feel a little lonely."
     s ""
 
-# LifeInRahayal3_f49f6ffa (line 30744)
-translate ru LifeInRahayal3_f49f6ffa:
+# LifeInRahayal3_3a95c527 (line 30744)
+translate ru LifeInRahayal3_3a95c527:
     # s "I know that's weird to say in a city with so many people."
     s ""
 
-# LifeInRahayal3_615d2350 (line 30745)
-translate ru LifeInRahayal3_615d2350:
+# LifeInRahayal3_7de3dc5a (line 30745)
+translate ru LifeInRahayal3_7de3dc5a:
     # "Ramsey nodded again."
     ""
 
-# LifeInRahayal3_80da2164 (line 30746)
-translate ru LifeInRahayal3_80da2164:
+# LifeInRahayal3_7e413354 (line 30746)
+translate ru LifeInRahayal3_7e413354:
     # rams "Makes sense to me. I see all types of folks, drifting through, lookin for a way to live."
     rams ""
 
-# LifeInRahayal3_8901a11a (line 30747)
-translate ru LifeInRahayal3_8901a11a:
+# LifeInRahayal3_2042c41b (line 30747)
+translate ru LifeInRahayal3_2042c41b:
     # "Sarah leaned in closer."
     ""
 
-# LifeInRahayal3_77198625 (line 30748)
-translate ru LifeInRahayal3_77198625:
+# LifeInRahayal3_ba6834e4 (line 30748)
+translate ru LifeInRahayal3_ba6834e4:
     # s "How do they find their way?"
     s ""
 
-# LifeInRahayal3_239892b7 (line 30749)
-translate ru LifeInRahayal3_239892b7:
+# LifeInRahayal3_afca008d (line 30749)
+translate ru LifeInRahayal3_afca008d:
     # rams "My advice?"
     rams ""
 
-# LifeInRahayal3_d9536350 (line 30750)
-translate ru LifeInRahayal3_d9536350:
+# LifeInRahayal3_e16f3c9d (line 30750)
+translate ru LifeInRahayal3_e16f3c9d:
     # "Sarah nodded."
     ""
 
-# LifeInRahayal3_61f7920b (line 30751)
-translate ru LifeInRahayal3_61f7920b:
+# LifeInRahayal3_45d373de (line 30751)
+translate ru LifeInRahayal3_45d373de:
     # rams "I think people need stuff to do."
     rams ""
 
-# LifeInRahayal3_891c2f0c (line 30752)
-translate ru LifeInRahayal3_891c2f0c:
+# LifeInRahayal3_a0277085 (line 30752)
+translate ru LifeInRahayal3_a0277085:
     # rams "Ain't nothin worse for a person than idle hands and an idle head."
     rams ""
 
-# LifeInRahayal3_d043585e (line 30753)
-translate ru LifeInRahayal3_d043585e:
+# LifeInRahayal3_ec41d4f6 (line 30753)
+translate ru LifeInRahayal3_ec41d4f6:
     # "Sarah nodded along as he spoke."
     ""
 
-# LifeInRahayal3_c3f248a7 (line 30754)
-translate ru LifeInRahayal3_c3f248a7:
+# LifeInRahayal3_d1b4685e (line 30754)
+translate ru LifeInRahayal3_d1b4685e:
     # "There was some truth to that, she figured."
     ""
 
-# LifeInRahayal3_80241c87 (line 30755)
-translate ru LifeInRahayal3_80241c87:
+# LifeInRahayal3_ee5ade75 (line 30755)
+translate ru LifeInRahayal3_ee5ade75:
     # s "That's my problem, I guess. Still figuring that out."
     s ""
 
-# LifeInRahayal3_db370c99 (line 30756)
-translate ru LifeInRahayal3_db370c99:
+# LifeInRahayal3_cdeda15e (line 30756)
+translate ru LifeInRahayal3_cdeda15e:
     # "Ramsey leaned across the bar."
     ""
 
-# LifeInRahayal3_675d4471 (line 30757)
-translate ru LifeInRahayal3_675d4471:
+# LifeInRahayal3_a9cd485c (line 30757)
+translate ru LifeInRahayal3_a9cd485c:
     # rams "Ya know, you don't need to figure it all out in one day."
     rams ""
 
-# LifeInRahayal3_787fd667 (line 30758)
-translate ru LifeInRahayal3_787fd667:
+# LifeInRahayal3_d2050153 (line 30758)
+translate ru LifeInRahayal3_d2050153:
     # "Sarah frowned."
     ""
 
-# LifeInRahayal3_9a3a90fb (line 30759)
-translate ru LifeInRahayal3_9a3a90fb:
+# LifeInRahayal3_6df742fd (line 30759)
+translate ru LifeInRahayal3_6df742fd:
     # s "What do you mean?"
     s ""
 
-# LifeInRahayal3_72b0e854 (line 30760)
-translate ru LifeInRahayal3_72b0e854:
+# LifeInRahayal3_b19c378c (line 30760)
+translate ru LifeInRahayal3_b19c378c:
     # rams "I means, you could take a job while you keep lookin for that real purpose you seem to be lookin for."
     rams ""
 
-# LifeInRahayal3_f423737d (line 30761)
-translate ru LifeInRahayal3_f423737d:
+# LifeInRahayal3_b1c9e790 (line 30761)
+translate ru LifeInRahayal3_b1c9e790:
     # s "Sure...but where would I even start?"
     s ""
 
-# LifeInRahayal3_94d8842c (line 30762)
-translate ru LifeInRahayal3_94d8842c:
+# LifeInRahayal3_1a651e68 (line 30762)
+translate ru LifeInRahayal3_1a651e68:
     # "Again, that broad smile of his."
     ""
 
-# LifeInRahayal3_4e98e1db (line 30763)
-translate ru LifeInRahayal3_4e98e1db:
+# LifeInRahayal3_16a99691 (line 30763)
+translate ru LifeInRahayal3_16a99691:
     # rams "Why ain't you start here?"
     rams ""
 
-# LifeInRahayal3_089de9c2 (line 30764)
-translate ru LifeInRahayal3_089de9c2:
+# LifeInRahayal3_e26d1192 (line 30764)
+translate ru LifeInRahayal3_e26d1192:
     # s "Here?"
     s ""
 
-# LifeInRahayal3_eed3c2c9 (line 30765)
-translate ru LifeInRahayal3_eed3c2c9:
+# LifeInRahayal3_63ea98b4 (line 30765)
+translate ru LifeInRahayal3_63ea98b4:
     # rams "Sure."
     rams ""
 
-# LifeInRahayal3_4c844439 (line 30766)
-translate ru LifeInRahayal3_4c844439:
+# LifeInRahayal3_2f12b4fd (line 30766)
+translate ru LifeInRahayal3_2f12b4fd:
     # rams "My kids are a great help, but as you can see, we got more customers than we can handle."
     rams ""
 
-# LifeInRahayal3_6655beed (line 30767)
-translate ru LifeInRahayal3_6655beed:
+# LifeInRahayal3_19aaa5f2 (line 30767)
+translate ru LifeInRahayal3_19aaa5f2:
     # "Sarah looked about and knew that it was true. The Inn always seemed full of people."
     ""
 
-# LifeInRahayal3_dfb774a7 (line 30768)
-translate ru LifeInRahayal3_dfb774a7:
+# LifeInRahayal3_01fb6ed3 (line 30768)
+translate ru LifeInRahayal3_01fb6ed3:
     # rams "Sometimes I got customers waitin so long, they take off again."
     rams ""
 
-# LifeInRahayal3_1e5009d9 (line 30769)
-translate ru LifeInRahayal3_1e5009d9:
+# LifeInRahayal3_18b1049d (line 30769)
+translate ru LifeInRahayal3_18b1049d:
     # rams "An extra pair of hands might just be what we need."
     rams ""
 
-# LifeInRahayal3_1875bdb0 (line 30770)
-translate ru LifeInRahayal3_1875bdb0:
+# LifeInRahayal3_65f8deec (line 30770)
+translate ru LifeInRahayal3_65f8deec:
     # "Sarah looked at him."
     ""
 
-# LifeInRahayal3_51e352c1 (line 30771)
-translate ru LifeInRahayal3_51e352c1:
+# LifeInRahayal3_d066d62c (line 30771)
+translate ru LifeInRahayal3_d066d62c:
     # s "You're...offering me a job here? Working at the Inn?"
     s ""
 
-# LifeInRahayal3_bb3575f7 (line 30772)
-translate ru LifeInRahayal3_bb3575f7:
+# LifeInRahayal3_fb1e6e8c (line 30772)
+translate ru LifeInRahayal3_fb1e6e8c:
     # "Ramsey nodded."
     ""
 
-# LifeInRahayal3_b688cd97 (line 30773)
-translate ru LifeInRahayal3_b688cd97:
+# LifeInRahayal3_e6d8221d (line 30773)
+translate ru LifeInRahayal3_e6d8221d:
     # rams "Wouldn't be no top job I'm afraid, but the pay is fair, and we can teach you on the job."
     rams ""
 
-# LifeInRahayal3_c2156ce3 (line 30774)
-translate ru LifeInRahayal3_c2156ce3:
+# LifeInRahayal3_61b122e5 (line 30774)
+translate ru LifeInRahayal3_61b122e5:
     # rams "You could learn how to work the room from my daughter Elsa, and my son Jacob can teach you about the stocking room."
     rams ""
 
-# LifeInRahayal3_94c4f7f6 (line 30775)
-translate ru LifeInRahayal3_94c4f7f6:
+# LifeInRahayal3_7cfaafd8 (line 30775)
+translate ru LifeInRahayal3_7cfaafd8:
     # rams "And tell you what, you do good work, you can keep the room you got here for free."
     rams ""
 
-# LifeInRahayal3_b30d7048 (line 30776)
-translate ru LifeInRahayal3_b30d7048:
+# LifeInRahayal3_cec085fe (line 30776)
+translate ru LifeInRahayal3_cec085fe:
     # "Sarah's eyes wide."
     ""
 
-# LifeInRahayal3_35b0286a (line 30777)
-translate ru LifeInRahayal3_35b0286a:
+# LifeInRahayal3_916b2680 (line 30777)
+translate ru LifeInRahayal3_916b2680:
     # "Ramsey made a good point. Even if she didn't want to keep working here forever, it would at least buy her time."
     ""
 
-# LifeInRahayal3_8b044b1d (line 30778)
-translate ru LifeInRahayal3_8b044b1d:
+# LifeInRahayal3_654b7e99 (line 30778)
+translate ru LifeInRahayal3_654b7e99:
     # "She'd keep a place over her head, make some extra coin...some space to breathe."
     ""
 
-# LifeInRahayal3_0dff1b54 (line 30779)
-translate ru LifeInRahayal3_0dff1b54:
+# LifeInRahayal3_e7ebc410 (line 30779)
+translate ru LifeInRahayal3_e7ebc410:
     # s "You...would really do that for me? We only just met..."
     s ""
 
-# LifeInRahayal3_4db5b3f2 (line 30780)
-translate ru LifeInRahayal3_4db5b3f2:
+# LifeInRahayal3_389c6c76 (line 30780)
+translate ru LifeInRahayal3_389c6c76:
     # "Ramsey smiled as he nodded."
     ""
 
-# LifeInRahayal3_78161de1 (line 30781)
-translate ru LifeInRahayal3_78161de1:
+# LifeInRahayal3_86c5ae10 (line 30781)
+translate ru LifeInRahayal3_86c5ae10:
     # rams "Of course."
     rams ""
 
-# LifeInRahayal3_da3d9a7d (line 30782)
-translate ru LifeInRahayal3_da3d9a7d:
+# LifeInRahayal3_23d9d7e6 (line 30782)
+translate ru LifeInRahayal3_23d9d7e6:
     # rams "I got a good sense for people, and you strike me as an honest and hard worker."
     rams ""
 
-# LifeInRahayal3_d12a0a55 (line 30783)
-translate ru LifeInRahayal3_d12a0a55:
+# LifeInRahayal3_360f7be6 (line 30783)
+translate ru LifeInRahayal3_360f7be6:
     # rams "And customers appreciate a pretty lady helpin them out with their order."
     rams ""
 
-# LifeInRahayal3_92ee49d9 (line 30784)
-translate ru LifeInRahayal3_92ee49d9:
+# LifeInRahayal3_f2d56b7d (line 30784)
+translate ru LifeInRahayal3_f2d56b7d:
     # "Sarah couldn't help but blush as the compliments."
     ""
 
-# LifeInRahayal3_0fcedd48 (line 30785)
-translate ru LifeInRahayal3_0fcedd48:
+# LifeInRahayal3_c5411850 (line 30785)
+translate ru LifeInRahayal3_c5411850:
     # s "I...thank you."
     s ""
 
-# LifeInRahayal3_4e9f13ba (line 30786)
-translate ru LifeInRahayal3_4e9f13ba:
+# LifeInRahayal3_12565435 (line 30786)
+translate ru LifeInRahayal3_12565435:
     # rams "Tell you what, how bout you take the night to sleep it over?"
     rams ""
 
-# LifeInRahayal3_9ae143a7 (line 30787)
-translate ru LifeInRahayal3_9ae143a7:
+# LifeInRahayal3_0e19c457 (line 30787)
+translate ru LifeInRahayal3_0e19c457:
     # rams "And if you're still interested, you can get started tomorrow, sound fair?"
     rams ""
 
-# LifeInRahayal3_a55dd37d (line 30788)
-translate ru LifeInRahayal3_a55dd37d:
+# LifeInRahayal3_35372357 (line 30788)
+translate ru LifeInRahayal3_35372357:
     # "Sarah nodded."
     ""
 
-# LifeInRahayal3_fc3b995f (line 30789)
-translate ru LifeInRahayal3_fc3b995f:
+# LifeInRahayal3_efe7e4b8 (line 30789)
+translate ru LifeInRahayal3_efe7e4b8:
     # s "Thank you! I will!"
     s ""
 
-# LifeInRahayal3_641f5fab (line 30790)
-translate ru LifeInRahayal3_641f5fab:
+# LifeInRahayal3_9066b40d (line 30790)
+translate ru LifeInRahayal3_9066b40d:
     # "Ramsey looked past her."
     ""
 
-# LifeInRahayal3_4a887654 (line 30791)
-translate ru LifeInRahayal3_4a887654:
+# LifeInRahayal3_06a3d946 (line 30791)
+translate ru LifeInRahayal3_06a3d946:
     # rams "Gotta help out over there, but see you around!"
     rams ""
 
-# LifeInRahayal3_36f002d6 (line 30792)
-translate ru LifeInRahayal3_36f002d6:
+# LifeInRahayal3_f4771af0 (line 30792)
+translate ru LifeInRahayal3_f4771af0:
     # "With that, he took off."
     ""
 
-# LifeInRahayal3_49a7247c (line 30793)
-translate ru LifeInRahayal3_49a7247c:
+# LifeInRahayal3_c592c0a1 (line 30793)
+translate ru LifeInRahayal3_c592c0a1:
     # "With the day winding down, Sarah decided to head to her room."
     ""
 
-# LifeInRahayal3_76d99a27 (line 30794)
-translate ru LifeInRahayal3_76d99a27:
+# LifeInRahayal3_e5e5481c (line 30794)
+translate ru LifeInRahayal3_e5e5481c:
     # "Sitting in the small yet quiet spot, she couldn't help but feel a little proud of herself."
     ""
 
-# LifeInRahayal3_8d7f6c92 (line 30795)
-translate ru LifeInRahayal3_8d7f6c92:
+# LifeInRahayal3_2b4a0e00 (line 30795)
+translate ru LifeInRahayal3_2b4a0e00:
     # "The day hadn't quite gone as she had planned, but she'd gotten a real job offer."
     ""
 
-# LifeInRahayal3_7c8f5721 (line 30796)
-translate ru LifeInRahayal3_7c8f5721:
+# LifeInRahayal3_1c2e333a (line 30796)
+translate ru LifeInRahayal3_1c2e333a:
     # "For the first time, she dared to think she might be alright."
     ""
 
-# LifeInRahayal3_23ed2edb (line 30797)
-translate ru LifeInRahayal3_23ed2edb:
+# LifeInRahayal3_92f11387 (line 30797)
+translate ru LifeInRahayal3_92f11387:
     # "Laying down her head, she was soon fast asleep."
     ""
 
-# LifeInRahayal3_c4a8ba70 (line 30799)
-translate ru LifeInRahayal3_c4a8ba70:
+# LifeInRahayal3_52da209b (line 30799)
+translate ru LifeInRahayal3_52da209b:
     # "When Sarah woke the next morning, her conversation with Ramsey was first on her mind."
     ""
 
-# LifeInRahayal3_e9c7c0e7 (line 30800)
-translate ru LifeInRahayal3_e9c7c0e7:
+# LifeInRahayal3_fadcc7f0 (line 30800)
+translate ru LifeInRahayal3_fadcc7f0:
     # "A job at this Inn might just be the thing she needed."
     ""
 
-# LifeInRahayal3_89808f62 (line 30801)
-translate ru LifeInRahayal3_89808f62:
+# LifeInRahayal3_de8bb439 (line 30801)
+translate ru LifeInRahayal3_de8bb439:
     # "Stability..."
     ""
 
-# LifeInRahayal3_1deee0e7 (line 30802)
-translate ru LifeInRahayal3_1deee0e7:
+# LifeInRahayal3_ad53d733 (line 30802)
+translate ru LifeInRahayal3_ad53d733:
     # "And the Dunstin family seemed nice enough."
     ""
 
-# LifeInRahayal3_8ab7356a (line 30803)
-translate ru LifeInRahayal3_8ab7356a:
+# LifeInRahayal3_88d26fb4 (line 30803)
+translate ru LifeInRahayal3_88d26fb4:
     # "Sarah had made up her mind."
     ""
 
-# LifeInRahayal3_b0182c54 (line 30804)
-translate ru LifeInRahayal3_b0182c54:
+# LifeInRahayal3_7e252857 (line 30804)
+translate ru LifeInRahayal3_7e252857:
     # "Heading down stairs, she quickly found Ramsey, already hard at work."
     ""
 
-# LifeInRahayal3_5ba21e52 (line 30805)
-translate ru LifeInRahayal3_5ba21e52:
+# LifeInRahayal3_1cc79a74 (line 30805)
+translate ru LifeInRahayal3_1cc79a74:
     # rams "Mornin."
     rams ""
 
-# LifeInRahayal3_d5fa904e (line 30806)
-translate ru LifeInRahayal3_d5fa904e:
+# LifeInRahayal3_762c8922 (line 30806)
+translate ru LifeInRahayal3_762c8922:
     # "He greeted her as he continued to work."
     ""
 
-# LifeInRahayal3_48b87188 (line 30807)
-translate ru LifeInRahayal3_48b87188:
+# LifeInRahayal3_846ec591 (line 30807)
+translate ru LifeInRahayal3_846ec591:
     # s "I...mister Ramsey, sir..."
     s ""
 
-# LifeInRahayal3_47e924c8 (line 30808)
-translate ru LifeInRahayal3_47e924c8:
+# LifeInRahayal3_239a1a6a (line 30808)
+translate ru LifeInRahayal3_239a1a6a:
     # "He began to laugh loudly."
     ""
 
-# LifeInRahayal3_a433ff95 (line 30809)
-translate ru LifeInRahayal3_a433ff95:
+# LifeInRahayal3_bf11901e (line 30809)
+translate ru LifeInRahayal3_bf11901e:
     # rams "Listen, Sarah, don't ever call me that again."
     rams ""
 
-# LifeInRahayal3_672d1ab1 (line 30810)
-translate ru LifeInRahayal3_672d1ab1:
+# LifeInRahayal3_02c29cb9 (line 30810)
+translate ru LifeInRahayal3_02c29cb9:
     # rams "You can just call me Ramsey, got it?"
     rams ""
 
-# LifeInRahayal3_626e9869 (line 30811)
-translate ru LifeInRahayal3_626e9869:
+# LifeInRahayal3_73641909 (line 30811)
+translate ru LifeInRahayal3_73641909:
     # "Sarah eagerly nodded."
     ""
 
-# LifeInRahayal3_1e4b7229 (line 30812)
-translate ru LifeInRahayal3_1e4b7229:
+# LifeInRahayal3_4278d20b (line 30812)
+translate ru LifeInRahayal3_4278d20b:
     # s "Of course, sir- I mean, Ramsey...I just wanted to speak to you...about what we discussed yesterday."
     s ""
 
-# LifeInRahayal3_f0947dee (line 30813)
-translate ru LifeInRahayal3_f0947dee:
+# LifeInRahayal3_d44c4794 (line 30813)
+translate ru LifeInRahayal3_d44c4794:
     # "He frowned."
     ""
 
-# LifeInRahayal3_57bcf67c (line 30814)
-translate ru LifeInRahayal3_57bcf67c:
+# LifeInRahayal3_9063d211 (line 30814)
+translate ru LifeInRahayal3_9063d211:
     # rams "Yesterday?"
     rams ""
 
-# LifeInRahayal3_71b494f0 (line 30815)
-translate ru LifeInRahayal3_71b494f0:
+# LifeInRahayal3_3fbecf78 (line 30815)
+translate ru LifeInRahayal3_3fbecf78:
     # s "The...job offer?"
     s ""
 
-# LifeInRahayal3_75e142fe (line 30816)
-translate ru LifeInRahayal3_75e142fe:
+# LifeInRahayal3_3173f3c4 (line 30816)
+translate ru LifeInRahayal3_3173f3c4:
     # rams "Oh, of course! Sorry, little lady, I got so much goin on, sometimes I struggle to keep up with my own mind."
     rams ""
 
-# LifeInRahayal3_37ce10c1 (line 30817)
-translate ru LifeInRahayal3_37ce10c1:
+# LifeInRahayal3_4367e1a2 (line 30817)
+translate ru LifeInRahayal3_4367e1a2:
     # rams "Did you make a decision?"
     rams ""
 
-# LifeInRahayal3_08582119 (line 30818)
-translate ru LifeInRahayal3_08582119:
+# LifeInRahayal3_8b56f4fc (line 30818)
+translate ru LifeInRahayal3_8b56f4fc:
     # "Sarah smiled and nodded."
     ""
 
-# LifeInRahayal3_0d32f13e (line 30819)
-translate ru LifeInRahayal3_0d32f13e:
+# LifeInRahayal3_16b8a043 (line 30819)
+translate ru LifeInRahayal3_16b8a043:
     # s "I would very much like to take you up on it."
     s ""
 
-# LifeInRahayal3_65e194d3 (line 30820)
-translate ru LifeInRahayal3_65e194d3:
+# LifeInRahayal3_a3c84715 (line 30820)
+translate ru LifeInRahayal3_a3c84715:
     # "Ramsey clasped his hands together."
     ""
 
-# LifeInRahayal3_b3d6fe0d (line 30821)
-translate ru LifeInRahayal3_b3d6fe0d:
+# LifeInRahayal3_8d8960f0 (line 30821)
+translate ru LifeInRahayal3_8d8960f0:
     # rams "That's great news!"
     rams ""
 
-# LifeInRahayal3_770d497f (line 30822)
-translate ru LifeInRahayal3_770d497f:
+# LifeInRahayal3_46fcfc0f (line 30822)
+translate ru LifeInRahayal3_46fcfc0f:
     # "A wide smile on his face seemed to suggest he was earnest."
     ""
 
-# LifeInRahayal3_de927496 (line 30823)
-translate ru LifeInRahayal3_de927496:
+# LifeInRahayal3_b0c5ee1d (line 30823)
+translate ru LifeInRahayal3_b0c5ee1d:
     # rams "Tell you what though, I'm a bit busy opening up here."
     rams ""
 
-# LifeInRahayal3_91bcdf52 (line 30824)
-translate ru LifeInRahayal3_91bcdf52:
+# LifeInRahayal3_4882c760 (line 30824)
+translate ru LifeInRahayal3_4882c760:
     # rams "How bout you grab a hold of my boy, Jacob. He can help you get started up."
     rams ""
 
-# LifeInRahayal3_76bef7b7 (line 30825)
-translate ru LifeInRahayal3_76bef7b7:
+# LifeInRahayal3_7a464ca4 (line 30825)
+translate ru LifeInRahayal3_7a464ca4:
     # "Sarah nodded."
     ""
 
-# LifeInRahayal3_862e64da (line 30826)
-translate ru LifeInRahayal3_862e64da:
+# LifeInRahayal3_1d757d70 (line 30826)
+translate ru LifeInRahayal3_1d757d70:
     # s "I will. Thank you for the opportunity!"
     s ""
 
-# LifeInRahayal3_15216c8d (line 30827)
-translate ru LifeInRahayal3_15216c8d:
+# LifeInRahayal3_fa77a97a (line 30827)
+translate ru LifeInRahayal3_fa77a97a:
     # "Sarah watched as Ramsey took off, heading down into the cellars as he carried two large kegs with no trouble at all."
     ""
 
-# LifeInRahayal3_41165030 (line 30828)
-translate ru LifeInRahayal3_41165030:
+# LifeInRahayal3_9cdf8563 (line 30828)
+translate ru LifeInRahayal3_9cdf8563:
     # "As she walked through the Inn, she saw that the first few customers were already seated and being served."
     ""
 
-# LifeInRahayal3_c1675e6d (line 30829)
-translate ru LifeInRahayal3_c1675e6d:
+# LifeInRahayal3_4466b30d (line 30829)
+translate ru LifeInRahayal3_4466b30d:
     # "Working here would probably mean waking up a lot earlier than she was used to."
     ""
 
-# LifeInRahayal3_7c2ca060 (line 30830)
-translate ru LifeInRahayal3_7c2ca060:
+# LifeInRahayal3_2326e78f (line 30830)
+translate ru LifeInRahayal3_2326e78f:
     # "Sarah scanned the room, searching for Jacob."
     ""
 
-# LifeInRahayal3_444bd173 (line 30831)
-translate ru LifeInRahayal3_444bd173:
+# LifeInRahayal3_1fff459d (line 30831)
+translate ru LifeInRahayal3_1fff459d:
     # "It took her a minute until she finally spotted him walking quickly through the room, carrying a crate full of fresh produce from the market."
     ""
 
-# LifeInRahayal3_9c49af8f (line 30832)
-translate ru LifeInRahayal3_9c49af8f:
+# LifeInRahayal3_87007480 (line 30832)
+translate ru LifeInRahayal3_87007480:
     # s "Hey!"
     s ""
 
-# LifeInRahayal3_293ec1b5 (line 30833)
-translate ru LifeInRahayal3_293ec1b5:
+# LifeInRahayal3_e0239eab (line 30833)
+translate ru LifeInRahayal3_e0239eab:
     # "She saw him continue to walk."
     ""
 
-# LifeInRahayal3_60b417bf (line 30834)
-translate ru LifeInRahayal3_60b417bf:
+# LifeInRahayal3_8bd3c539 (line 30834)
+translate ru LifeInRahayal3_8bd3c539:
     # s "Hey, Jacob!"
     s ""
 
-# LifeInRahayal3_f8de69ce (line 30835)
-translate ru LifeInRahayal3_f8de69ce:
+# LifeInRahayal3_5380e32f (line 30835)
+translate ru LifeInRahayal3_5380e32f:
     # "The boy stopped and turned at hearing his name."
     ""
 
-# LifeInRahayal3_d68df14d (line 30836)
-translate ru LifeInRahayal3_d68df14d:
+# LifeInRahayal3_dcc21f86 (line 30836)
+translate ru LifeInRahayal3_dcc21f86:
     # "When his eyes fell on her, he looked more confused than anything."
     ""
 
-# LifeInRahayal3_aa468b89 (line 30837)
-translate ru LifeInRahayal3_aa468b89:
+# LifeInRahayal3_874e4b12 (line 30837)
+translate ru LifeInRahayal3_874e4b12:
     # "Sarah quickly made her way towards him."
     ""
 
-# LifeInRahayal3_247e2939 (line 30838)
-translate ru LifeInRahayal3_247e2939:
+# LifeInRahayal3_c62a77c1 (line 30838)
+translate ru LifeInRahayal3_c62a77c1:
     # s "Hey, Jacob!"
     s ""
 
-# LifeInRahayal3_5ad0291a (line 30839)
-translate ru LifeInRahayal3_5ad0291a:
+# LifeInRahayal3_2614fe07 (line 30839)
+translate ru LifeInRahayal3_2614fe07:
     # jac "I...is there anything you want?"
     jac ""
 
-# LifeInRahayal3_12ac4be0 (line 30840)
-translate ru LifeInRahayal3_12ac4be0:
+# LifeInRahayal3_70a0e0c2 (line 30840)
+translate ru LifeInRahayal3_70a0e0c2:
     # "Sarah kept up her smile, desite how curt he was with her."
     ""
 
-# LifeInRahayal3_9964bed3 (line 30841)
-translate ru LifeInRahayal3_9964bed3:
+# LifeInRahayal3_a69ed613 (line 30841)
+translate ru LifeInRahayal3_a69ed613:
     # "Clearly, the boy had not inherited the happy-go-lucky attitude of his father."
     ""
 
-# LifeInRahayal3_6682dc5b (line 30842)
-translate ru LifeInRahayal3_6682dc5b:
+# LifeInRahayal3_00bbf352 (line 30842)
+translate ru LifeInRahayal3_00bbf352:
     # s "I spoke with your dad."
     s ""
 
-# LifeInRahayal3_91d599e3 (line 30843)
-translate ru LifeInRahayal3_91d599e3:
+# LifeInRahayal3_a14eb79f (line 30843)
+translate ru LifeInRahayal3_a14eb79f:
     # s "He offered me a job here."
     s ""
 
-# LifeInRahayal3_8c4ca032 (line 30844)
-translate ru LifeInRahayal3_8c4ca032:
+# LifeInRahayal3_d9b3091d (line 30844)
+translate ru LifeInRahayal3_d9b3091d:
     # "She saw Jacob roll his eyes."
     ""
 
-# LifeInRahayal3_bbe85d55 (line 30845)
-translate ru LifeInRahayal3_bbe85d55:
+# LifeInRahayal3_fa75eb44 (line 30845)
+translate ru LifeInRahayal3_fa75eb44:
     # jac "Of course he did."
     jac ""
 
-# LifeInRahayal3_5fe44833 (line 30846)
-translate ru LifeInRahayal3_5fe44833:
+# LifeInRahayal3_03a36567 (line 30846)
+translate ru LifeInRahayal3_03a36567:
     # s "And he said that I should ask you for help on getting started."
     s ""
 
-# LifeInRahayal3_5ef65f41 (line 30847)
-translate ru LifeInRahayal3_5ef65f41:
+# LifeInRahayal3_c24890d7 (line 30847)
+translate ru LifeInRahayal3_c24890d7:
     # "Jacob held up the crate."
     ""
 
-# LifeInRahayal3_0253ed6f (line 30848)
-translate ru LifeInRahayal3_0253ed6f:
+# LifeInRahayal3_ce8d2d55 (line 30848)
+translate ru LifeInRahayal3_ce8d2d55:
     # jac "Well, I'm busy right now."
     jac ""
 
-# LifeInRahayal3_42b93638 (line 30849)
-translate ru LifeInRahayal3_42b93638:
+# LifeInRahayal3_d566ce1a (line 30849)
+translate ru LifeInRahayal3_d566ce1a:
     # jac "And really, I have a full day of things to do, so just..."
     jac ""
 
-# LifeInRahayal3_6bb0bc5e (line 30850)
-translate ru LifeInRahayal3_6bb0bc5e:
+# LifeInRahayal3_a6962409 (line 30850)
+translate ru LifeInRahayal3_a6962409:
     # "He gestured at a seat."
     ""
 
-# LifeInRahayal3_bbd06652 (line 30851)
-translate ru LifeInRahayal3_bbd06652:
+# LifeInRahayal3_404e724d (line 30851)
+translate ru LifeInRahayal3_404e724d:
     # jac "Just wait and maybe I'll come by later today."
     jac ""
 
-# LifeInRahayal3_205d920c (line 30852)
-translate ru LifeInRahayal3_205d920c:
+# LifeInRahayal3_e13248ae (line 30852)
+translate ru LifeInRahayal3_e13248ae:
     # jac "But no promise, I'm really busy."
     jac ""
 
-# LifeInRahayal3_3b776200 (line 30853)
-translate ru LifeInRahayal3_3b776200:
+# LifeInRahayal3_c5cb3b80 (line 30853)
+translate ru LifeInRahayal3_c5cb3b80:
     # "And with with that, Sarah watched Jacob take off."
     ""
 
-# LifeInRahayal3_1a5a7fcc (line 30854)
-translate ru LifeInRahayal3_1a5a7fcc:
+# LifeInRahayal3_9e349449 (line 30854)
+translate ru LifeInRahayal3_9e349449:
     # "She thought of calling after him, saying something, but he was already gone."
     ""
 
-# LifeInRahayal3_371dc165 (line 30855)
-translate ru LifeInRahayal3_371dc165:
+# LifeInRahayal3_8eca8f9f (line 30855)
+translate ru LifeInRahayal3_8eca8f9f:
     # "Deflated, Sarah sat down on a nearby bench."
     ""
 
-# LifeInRahayal3_b14a3cae (line 30856)
-translate ru LifeInRahayal3_b14a3cae:
+# LifeInRahayal3_f7b95f2f (line 30856)
+translate ru LifeInRahayal3_f7b95f2f:
     # "Jacob had said he'd come back later. Maybe. Or maybe not at all."
     ""
 
-# LifeInRahayal3_874a76f5 (line 30857)
-translate ru LifeInRahayal3_874a76f5:
+# LifeInRahayal3_5fa06d92 (line 30857)
+translate ru LifeInRahayal3_5fa06d92:
     # "She sighed."
     ""
 
-# LifeInRahayal3_0377cede (line 30858)
-translate ru LifeInRahayal3_0377cede:
+# LifeInRahayal3_c7d6a0d6 (line 30858)
+translate ru LifeInRahayal3_c7d6a0d6:
     # elsa "Don't mind him."
     elsa ""
 
-# LifeInRahayal3_3e1622d2 (line 30859)
-translate ru LifeInRahayal3_3e1622d2:
+# LifeInRahayal3_34c5cc99 (line 30859)
+translate ru LifeInRahayal3_34c5cc99:
     # "Sarah looked up at the sudden voice."
     ""
 
-# LifeInRahayal3_c8ea082b (line 30860)
-translate ru LifeInRahayal3_c8ea082b:
+# LifeInRahayal3_88f732f9 (line 30860)
+translate ru LifeInRahayal3_88f732f9:
     # s "Huh?"
     s ""
 
-# LifeInRahayal3_47487afd (line 30861)
-translate ru LifeInRahayal3_47487afd:
+# LifeInRahayal3_5ab75219 (line 30861)
+translate ru LifeInRahayal3_5ab75219:
     # elsa "My brother, Jacob. He can be an asshole sometimes."
     elsa ""
 
-# LifeInRahayal3_66251ed9 (line 30862)
-translate ru LifeInRahayal3_66251ed9:
+# LifeInRahayal3_1df99fa7 (line 30862)
+translate ru LifeInRahayal3_1df99fa7:
     # elsa "He doesn't mean to be, but...well..."
     elsa ""
 
-# LifeInRahayal3_eb7e5abf (line 30863)
-translate ru LifeInRahayal3_eb7e5abf:
+# LifeInRahayal3_786dd4ef (line 30863)
+translate ru LifeInRahayal3_786dd4ef:
     # "Sarah softly shook her head."
     ""
 
-# LifeInRahayal3_a575aa65 (line 30864)
-translate ru LifeInRahayal3_a575aa65:
+# LifeInRahayal3_318185d7 (line 30864)
+translate ru LifeInRahayal3_318185d7:
     # s "No, I don't think he was being mean...he said he was busy."
     s ""
 
-# LifeInRahayal3_0616a710 (line 30865)
-translate ru LifeInRahayal3_0616a710:
+# LifeInRahayal3_1030e5a3 (line 30865)
+translate ru LifeInRahayal3_1030e5a3:
     # "The girl smiled as she sat down next to Sarah."
     ""
 
-# LifeInRahayal3_c21f6cb9 (line 30866)
-translate ru LifeInRahayal3_c21f6cb9:
+# LifeInRahayal3_040c08fd (line 30866)
+translate ru LifeInRahayal3_040c08fd:
     # elsa "He's always busy."
     elsa ""
 
-# LifeInRahayal3_5e327bab (line 30867)
-translate ru LifeInRahayal3_5e327bab:
+# LifeInRahayal3_b8d5e7d4 (line 30867)
+translate ru LifeInRahayal3_b8d5e7d4:
     # elsa "And he always thinks he has to everything himself."
     elsa ""
 
-# LifeInRahayal3_b334d0f0 (line 30868)
-translate ru LifeInRahayal3_b334d0f0:
+# LifeInRahayal3_e3456ccf (line 30868)
+translate ru LifeInRahayal3_e3456ccf:
     # "Sarah saw the woman's eyes go up and down her body."
     ""
 
-# LifeInRahayal3_f3d05cd2 (line 30869)
-translate ru LifeInRahayal3_f3d05cd2:
+# LifeInRahayal3_1f63ab2d (line 30869)
+translate ru LifeInRahayal3_1f63ab2d:
     # elsa "I like your dress."
     elsa ""
 
-# LifeInRahayal3_294c0809 (line 30870)
-translate ru LifeInRahayal3_294c0809:
+# LifeInRahayal3_0b331281 (line 30870)
+translate ru LifeInRahayal3_0b331281:
     # s "Oh...thank you."
     s ""
 
-# LifeInRahayal3_ec0d72e1 (line 30871)
-translate ru LifeInRahayal3_ec0d72e1:
+# LifeInRahayal3_866b2505 (line 30871)
+translate ru LifeInRahayal3_866b2505:
     # elsa "It's very...foreign, I think. Looks expensive."
     elsa ""
 
-# LifeInRahayal3_589218e6 (line 30872)
-translate ru LifeInRahayal3_589218e6:
+# LifeInRahayal3_25fc3852 (line 30872)
+translate ru LifeInRahayal3_25fc3852:
     # elsa "You're not from around here?"
     elsa ""
 
-# LifeInRahayal3_274760ad (line 30873)
-translate ru LifeInRahayal3_274760ad:
+# LifeInRahayal3_07901d72 (line 30873)
+translate ru LifeInRahayal3_07901d72:
     # "Sarah shook her head."
     ""
 
-# LifeInRahayal3_5002792b (line 30874)
-translate ru LifeInRahayal3_5002792b:
+# LifeInRahayal3_e6815179 (line 30874)
+translate ru LifeInRahayal3_e6815179:
     # s "I came from Rosanna, by way of Lethram"
     s ""
 
-# LifeInRahayal3_c8f39385 (line 30875)
-translate ru LifeInRahayal3_c8f39385:
+# LifeInRahayal3_13d15b38 (line 30875)
+translate ru LifeInRahayal3_13d15b38:
     # elsa "Ooh wow, yeah that is far away."
     elsa ""
 
-# LifeInRahayal3_5506e4fa (line 30876)
-translate ru LifeInRahayal3_5506e4fa:
+# LifeInRahayal3_e3b17eb5 (line 30876)
+translate ru LifeInRahayal3_e3b17eb5:
     # elsa "Good thing you made it here though."
     elsa ""
 
-# LifeInRahayal3_2079c63a (line 30877)
-translate ru LifeInRahayal3_2079c63a:
+# LifeInRahayal3_4f9aa339 (line 30877)
+translate ru LifeInRahayal3_4f9aa339:
     # elsa "I heard all the stories of what's happening overseas, with those barbarians...yikes."
     elsa ""
 
-# LifeInRahayal3_062a3df9 (line 30878)
-translate ru LifeInRahayal3_062a3df9:
+# LifeInRahayal3_6becce4a (line 30878)
+translate ru LifeInRahayal3_6becce4a:
     # "Sarah just nodded, the sharp pain of being reminded of what was happening in her home country, stining."
     ""
 
-# LifeInRahayal3_0a829aed (line 30879)
-translate ru LifeInRahayal3_0a829aed:
+# LifeInRahayal3_b83dc3cc (line 30879)
+translate ru LifeInRahayal3_b83dc3cc:
     # elsa "My name's Elsa, by the way."
     elsa ""
 
-# LifeInRahayal3_f3ef8f95 (line 30880)
-translate ru LifeInRahayal3_f3ef8f95:
+# LifeInRahayal3_c2bacea4 (line 30880)
+translate ru LifeInRahayal3_c2bacea4:
     # "Sarah smiled and nodded."
     ""
 
-# LifeInRahayal3_fdc1a2f1 (line 30881)
-translate ru LifeInRahayal3_fdc1a2f1:
+# LifeInRahayal3_05f2c813 (line 30881)
+translate ru LifeInRahayal3_05f2c813:
     # s "Yeah, I heard your name before from your father. And I saw you when I got here yesterday."
     s ""
 
-# LifeInRahayal3_28e64b4e (line 30882)
-translate ru LifeInRahayal3_28e64b4e:
+# LifeInRahayal3_7c616461 (line 30882)
+translate ru LifeInRahayal3_7c616461:
     # "Elsa smiled."
     ""
 
-# LifeInRahayal3_c165d4c2 (line 30883)
-translate ru LifeInRahayal3_c165d4c2:
+# LifeInRahayal3_bea052c1 (line 30883)
+translate ru LifeInRahayal3_bea052c1:
     # elsa "Ah, I must have missed you. Or maybe I was too busy. We had a lot of people over yesterday."
     elsa ""
 
-# LifeInRahayal3_f63a56e9 (line 30884)
-translate ru LifeInRahayal3_f63a56e9:
+# LifeInRahayal3_bf5d2ca3 (line 30884)
+translate ru LifeInRahayal3_bf5d2ca3:
     # elsa "A lot of people most days, actually."
     elsa ""
 
-# LifeInRahayal3_2883bcf6 (line 30885)
-translate ru LifeInRahayal3_2883bcf6:
+# LifeInRahayal3_1df39f67 (line 30885)
+translate ru LifeInRahayal3_1df39f67:
     # "Sarah nodded."
     ""
 
-# LifeInRahayal3_16e09902 (line 30886)
-translate ru LifeInRahayal3_16e09902:
+# LifeInRahayal3_ca667269 (line 30886)
+translate ru LifeInRahayal3_ca667269:
     # s "Yeah, that's why Ramsey...uh, your father...he offered me a job..."
     s ""
 
-# LifeInRahayal3_9ff5571b (line 30887)
-translate ru LifeInRahayal3_9ff5571b:
+# LifeInRahayal3_9a231731 (line 30887)
+translate ru LifeInRahayal3_9a231731:
     # "Elsa's face lit up."
     ""
 
-# LifeInRahayal3_339a0728 (line 30888)
-translate ru LifeInRahayal3_339a0728:
+# LifeInRahayal3_0743ca0b (line 30888)
+translate ru LifeInRahayal3_0743ca0b:
     # elsa "A job! That's awesome!"
     elsa ""
 
-# LifeInRahayal3_f50e6d9e (line 30889)
-translate ru LifeInRahayal3_f50e6d9e:
+# LifeInRahayal3_62334446 (line 30889)
+translate ru LifeInRahayal3_62334446:
     # s "It's...really? You're brother didn't seem that excited about it."
     s ""
 
-# LifeInRahayal3_fc02936c (line 30890)
-translate ru LifeInRahayal3_fc02936c:
+# LifeInRahayal3_6f82aeb5 (line 30890)
+translate ru LifeInRahayal3_6f82aeb5:
     # "Elsa shrugged."
     ""
 
-# LifeInRahayal3_1574d562 (line 30891)
-translate ru LifeInRahayal3_1574d562:
+# LifeInRahayal3_31daf9a1 (line 30891)
+translate ru LifeInRahayal3_31daf9a1:
     # elsa "Just ignore him. Like I said, he can be an asshole, but you'll learn his, uhm...oddities, I guess."
     elsa ""
 
-# LifeInRahayal3_b08fbcbb (line 30892)
-translate ru LifeInRahayal3_b08fbcbb:
+# LifeInRahayal3_97b4fe1a (line 30892)
+translate ru LifeInRahayal3_97b4fe1a:
     # elsa "We should be happy to have an extra pair of hands!"
     elsa ""
 
-# LifeInRahayal3_e93dbc09 (line 30893)
-translate ru LifeInRahayal3_e93dbc09:
+# LifeInRahayal3_22ee976f (line 30893)
+translate ru LifeInRahayal3_22ee976f:
     # "Sarah smiled, suddenly feeling good again about having accepted the job."
     ""
 
-# LifeInRahayal3_1a86bae3 (line 30894)
-translate ru LifeInRahayal3_1a86bae3:
+# LifeInRahayal3_486d4692 (line 30894)
+translate ru LifeInRahayal3_486d4692:
     # s "Yeah, your dad told me to speak to Jacob about getting started, but he...well, you heard him."
     s ""
 
-# LifeInRahayal3_ae64bf24 (line 30895)
-translate ru LifeInRahayal3_ae64bf24:
+# LifeInRahayal3_364bb684 (line 30895)
+translate ru LifeInRahayal3_364bb684:
     # "Elsa nodded."
     ""
 
-# LifeInRahayal3_946422c5 (line 30896)
-translate ru LifeInRahayal3_946422c5:
+# LifeInRahayal3_d9569776 (line 30896)
+translate ru LifeInRahayal3_d9569776:
     # elsa "Sure. How about, instead, I help you get started?"
     elsa ""
 
-# LifeInRahayal3_4cfa6094 (line 30897)
-translate ru LifeInRahayal3_4cfa6094:
+# LifeInRahayal3_2b206747 (line 30897)
+translate ru LifeInRahayal3_2b206747:
     # s "I'd love that!"
     s ""
 
-# LifeInRahayal3_a3fbe168 (line 30898)
-translate ru LifeInRahayal3_a3fbe168:
+# LifeInRahayal3_a36ae6fa (line 30898)
+translate ru LifeInRahayal3_a36ae6fa:
     # elsa "Great! Just follow me to the bar."
     elsa ""
 
-# LifeInRahayal3_9b29992f (line 30899)
-translate ru LifeInRahayal3_9b29992f:
+# LifeInRahayal3_c39b28ba (line 30899)
+translate ru LifeInRahayal3_c39b28ba:
     # "Elsa got up and motioned for Sarah to follow. She quickly did."
     ""
 
-# LifeInRahayal3_4e761c5b (line 30900)
-translate ru LifeInRahayal3_4e761c5b:
+# LifeInRahayal3_d57e08f5 (line 30900)
+translate ru LifeInRahayal3_d57e08f5:
     # "Behind the bar, Elsa laid out a scroll."
     ""
 
-# LifeInRahayal3_5ae7a236 (line 30901)
-translate ru LifeInRahayal3_5ae7a236:
+# LifeInRahayal3_4e9e8f3b (line 30901)
+translate ru LifeInRahayal3_4e9e8f3b:
     # elsa "These here are the menu items."
     elsa ""
 
-# LifeInRahayal3_ca463cda (line 30902)
-translate ru LifeInRahayal3_ca463cda:
+# LifeInRahayal3_c2422918 (line 30902)
+translate ru LifeInRahayal3_c2422918:
     # "She ran her finger down the list."
     ""
 
-# LifeInRahayal3_b52b7438 (line 30903)
-translate ru LifeInRahayal3_b52b7438:
+# LifeInRahayal3_76934ef1 (line 30903)
+translate ru LifeInRahayal3_76934ef1:
     # elsa "You can read, I assume?"
     elsa ""
 
-# LifeInRahayal3_53a9d234 (line 30904)
-translate ru LifeInRahayal3_53a9d234:
+# LifeInRahayal3_501b6f01 (line 30904)
+translate ru LifeInRahayal3_501b6f01:
     # "Sarah nodded."
     ""
 
-# LifeInRahayal3_d54ea5ce (line 30905)
-translate ru LifeInRahayal3_d54ea5ce:
+# LifeInRahayal3_94dccf9d (line 30905)
+translate ru LifeInRahayal3_94dccf9d:
     # "Her eyes tracked the items. Sandwhiches. Stew. Grilled pork."
     ""
 
-# LifeInRahayal3_f6117960 (line 30906)
-translate ru LifeInRahayal3_f6117960:
+# LifeInRahayal3_10df6c42 (line 30906)
+translate ru LifeInRahayal3_10df6c42:
     # elsa "Just memorize the menu, and then you can start by taking on orders."
     elsa ""
 
-# LifeInRahayal3_1c08ea8d (line 30907)
-translate ru LifeInRahayal3_1c08ea8d:
+# LifeInRahayal3_0b6e8bff (line 30907)
+translate ru LifeInRahayal3_0b6e8bff:
     # elsa "Write up an order list, file it up on the counter there, and my dad will cook them in order."
     elsa ""
 
-# LifeInRahayal3_e1ad0a7a (line 30908)
-translate ru LifeInRahayal3_e1ad0a7a:
+# LifeInRahayal3_dabd49ed (line 30908)
+translate ru LifeInRahayal3_dabd49ed:
     # elsa "Then you just take the orders back to the table."
     elsa ""
 
-# LifeInRahayal3_a9bfbc51 (line 30909)
-translate ru LifeInRahayal3_a9bfbc51:
+# LifeInRahayal3_e6bd7a16 (line 30909)
+translate ru LifeInRahayal3_e6bd7a16:
     # elsa "Easy as can be, right?"
     elsa ""
 
-# LifeInRahayal3_66b7e0c9 (line 30910)
-translate ru LifeInRahayal3_66b7e0c9:
+# LifeInRahayal3_b4fefaa2 (line 30910)
+translate ru LifeInRahayal3_b4fefaa2:
     # "Sarah nodded."
     ""
 
-# LifeInRahayal3_4d619ebe (line 30911)
-translate ru LifeInRahayal3_4d619ebe:
+# LifeInRahayal3_9fe41ecb (line 30911)
+translate ru LifeInRahayal3_9fe41ecb:
     # "It sounded easy enough."
     ""
 
-# LifeInRahayal3_10e1c6f7 (line 30912)
-translate ru LifeInRahayal3_10e1c6f7:
+# LifeInRahayal3_c7f4253e (line 30912)
+translate ru LifeInRahayal3_c7f4253e:
     # elsa "Great. My theory is that you learn by doing, so just get out on the floor and start taking some orders."
     elsa ""
 
-# LifeInRahayal3_d7db4a2e (line 30913)
-translate ru LifeInRahayal3_d7db4a2e:
+# LifeInRahayal3_e0f880c6 (line 30913)
+translate ru LifeInRahayal3_e0f880c6:
     # elsa "I'll take this side of the room, you take the other."
     elsa ""
 
-# LifeInRahayal3_36add137 (line 30914)
-translate ru LifeInRahayal3_36add137:
+# LifeInRahayal3_f5dcaa2b (line 30914)
+translate ru LifeInRahayal3_f5dcaa2b:
     # s "Okay!"
     s ""
 
-# LifeInRahayal3_f1ebab8a (line 30915)
-translate ru LifeInRahayal3_f1ebab8a:
+# LifeInRahayal3_d4cc9b85 (line 30915)
+translate ru LifeInRahayal3_d4cc9b85:
     # "Full of energy, Sarah strode out onto the floor."
     ""
 
-# LifeInRahayal3_b52346d6 (line 30916)
-translate ru LifeInRahayal3_b52346d6:
+# LifeInRahayal3_001ccfd7 (line 30916)
+translate ru LifeInRahayal3_001ccfd7:
     # "Just about half the tables had customers waiting."
     ""
 
