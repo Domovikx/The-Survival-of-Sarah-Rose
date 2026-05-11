@@ -272,7 +272,8 @@ class TestFullExtraction:
 
         extractor.save_to_format('renpy')
 
-        manifest = output_dir / "manifest.json"
+        # manifest.json is inside renpy_format/ subfolder
+        manifest = output_dir / "renpy_format" / "manifest.json"
         assert manifest.exists()
 
 
