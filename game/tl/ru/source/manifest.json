@@ -1,0 +1,1305 @@
+{
+  "extracted_at": "2026-05-11T19:48:25.660987",
+  "arcs": [
+    {
+      "name": "AlfredArc",
+      "scenes": [
+        {
+          "name": "CampSlavePath",
+          "file": "AlfredArc\\CampSlavePath.rpy",
+          "blocks": 26
+        },
+        {
+          "name": "CampSlavePathOldSoldier",
+          "file": "AlfredArc\\CampSlavePathOldSoldier.rpy",
+          "blocks": 90
+        },
+        {
+          "name": "CampSlavePathOldSoldier2",
+          "file": "AlfredArc\\CampSlavePathOldSoldier2.rpy",
+          "blocks": 156
+        },
+        {
+          "name": "CampSlavePathOldSoldier3",
+          "file": "AlfredArc\\CampSlavePathOldSoldier3.rpy",
+          "blocks": 110
+        },
+        {
+          "name": "CampSlavePathOldSoldier3b",
+          "file": "AlfredArc\\CampSlavePathOldSoldier3b.rpy",
+          "blocks": 278
+        },
+        {
+          "name": "JaeidPath7",
+          "file": "AlfredArc\\JaeidPath7.rpy",
+          "blocks": 2
+        },
+        {
+          "name": "MariusMarriage",
+          "file": "AlfredArc\\MariusMarriage.rpy",
+          "blocks": 384
+        },
+        {
+          "name": "MariusPath",
+          "file": "AlfredArc\\MariusPath.rpy",
+          "blocks": 521
+        },
+        {
+          "name": "Sakar1",
+          "file": "AlfredArc\\Sakar1.rpy",
+          "blocks": 1
+        }
+      ]
+    },
+    {
+      "name": "BlackMonolith",
+      "scenes": [
+        {
+          "name": "CassiusFightsVaelen",
+          "file": "BlackMonolith\\CassiusFightsVaelen.rpy",
+          "blocks": 197
+        },
+        {
+          "name": "RazaphelQuestionsMage",
+          "file": "BlackMonolith\\RazaphelQuestionsMage.rpy",
+          "blocks": 162
+        },
+        {
+          "name": "RazaphelQuestionsWarrior",
+          "file": "BlackMonolith\\RazaphelQuestionsWarrior.rpy",
+          "blocks": 117
+        },
+        {
+          "name": "TheBlackMonolithMage10",
+          "file": "BlackMonolith\\TheBlackMonolithMage10.rpy",
+          "blocks": 17
+        },
+        {
+          "name": "TheBlackMonolithMage11",
+          "file": "BlackMonolith\\TheBlackMonolithMage11.rpy",
+          "blocks": 75
+        },
+        {
+          "name": "TheBlackMonolithMage2",
+          "file": "BlackMonolith\\TheBlackMonolithMage2.rpy",
+          "blocks": 5
+        },
+        {
+          "name": "TheBlackMonolithMage3",
+          "file": "BlackMonolith\\TheBlackMonolithMage3.rpy",
+          "blocks": 116
+        },
+        {
+          "name": "TheBlackMonolithMage4",
+          "file": "BlackMonolith\\TheBlackMonolithMage4.rpy",
+          "blocks": 6
+        },
+        {
+          "name": "TheBlackMonolithMage5",
+          "file": "BlackMonolith\\TheBlackMonolithMage5.rpy",
+          "blocks": 4
+        },
+        {
+          "name": "TheBlackMonolithMage6",
+          "file": "BlackMonolith\\TheBlackMonolithMage6.rpy",
+          "blocks": 20
+        },
+        {
+          "name": "TheBlackMonolithMage7",
+          "file": "BlackMonolith\\TheBlackMonolithMage7.rpy",
+          "blocks": 2
+        },
+        {
+          "name": "TheBlackMonolithWarrior1",
+          "file": "BlackMonolith\\TheBlackMonolithWarrior1.rpy",
+          "blocks": 165
+        },
+        {
+          "name": "TheBlackMonolithWarrior1SleepWithSamayra",
+          "file": "BlackMonolith\\TheBlackMonolithWarrior1SleepWithSamayra.rpy",
+          "blocks": 74
+        },
+        {
+          "name": "TheBlackMonolithWarrior2",
+          "file": "BlackMonolith\\TheBlackMonolithWarrior2.rpy",
+          "blocks": 628
+        },
+        {
+          "name": "TheBlackMonolithWarrior3",
+          "file": "BlackMonolith\\TheBlackMonolithWarrior3.rpy",
+          "blocks": 142
+        },
+        {
+          "name": "TheHollowWorldMage8",
+          "file": "BlackMonolith\\TheHollowWorldMage8.rpy",
+          "blocks": 87
+        },
+        {
+          "name": "oasisresolvelabel1",
+          "file": "BlackMonolith\\oasisresolvelabel1.rpy",
+          "blocks": 36
+        }
+      ]
+    },
+    {
+      "name": "DemonArc",
+      "scenes": [
+        {
+          "name": "DemonArc1",
+          "file": "DemonArc\\DemonArc1.rpy",
+          "blocks": 343
+        },
+        {
+          "name": "DemonArc2",
+          "file": "DemonArc\\DemonArc2.rpy",
+          "blocks": 364
+        },
+        {
+          "name": "MagePathCitadel1",
+          "file": "DemonArc\\MagePathCitadel1.rpy",
+          "blocks": 3
+        }
+      ]
+    },
+    {
+      "name": "HassarPath",
+      "scenes": [
+        {
+          "name": "ArrivingInAlGahaem",
+          "file": "HassarPath\\ArrivingInAlGahaem.rpy",
+          "blocks": 87
+        },
+        {
+          "name": "HassarPath",
+          "file": "HassarPath\\HassarPath.rpy",
+          "blocks": 266
+        },
+        {
+          "name": "HassarPath2",
+          "file": "HassarPath\\HassarPath2.rpy",
+          "blocks": 115
+        },
+        {
+          "name": "HassarPath3",
+          "file": "HassarPath\\HassarPath3.rpy",
+          "blocks": 192
+        },
+        {
+          "name": "HassarPath4",
+          "file": "HassarPath\\HassarPath4.rpy",
+          "blocks": 102
+        },
+        {
+          "name": "HassarPath5",
+          "file": "HassarPath\\HassarPath5.rpy",
+          "blocks": 165
+        },
+        {
+          "name": "JaeidPath",
+          "file": "HassarPath\\JaeidPath.rpy",
+          "blocks": 51
+        },
+        {
+          "name": "JaeidPath2",
+          "file": "HassarPath\\JaeidPath2.rpy",
+          "blocks": 184
+        },
+        {
+          "name": "JaeidPath3",
+          "file": "HassarPath\\JaeidPath3.rpy",
+          "blocks": 275
+        },
+        {
+          "name": "JaeidPath4",
+          "file": "HassarPath\\JaeidPath4.rpy",
+          "blocks": 160
+        },
+        {
+          "name": "JaeidPath5",
+          "file": "HassarPath\\JaeidPath5.rpy",
+          "blocks": 75
+        },
+        {
+          "name": "JaeidPath6",
+          "file": "HassarPath\\JaeidPath6.rpy",
+          "blocks": 459
+        }
+      ]
+    },
+    {
+      "name": "HollowWorld",
+      "scenes": [
+        {
+          "name": "MagePath12",
+          "file": "HollowWorld\\MagePath12.rpy",
+          "blocks": 50
+        },
+        {
+          "name": "TheHollowWorldMage1",
+          "file": "HollowWorld\\TheHollowWorldMage1.rpy",
+          "blocks": 122
+        },
+        {
+          "name": "TheHollowWorldMage2",
+          "file": "HollowWorld\\TheHollowWorldMage2.rpy",
+          "blocks": 85
+        },
+        {
+          "name": "TheHollowWorldMage3",
+          "file": "HollowWorld\\TheHollowWorldMage3.rpy",
+          "blocks": 103
+        },
+        {
+          "name": "TheHollowWorldMage4",
+          "file": "HollowWorld\\TheHollowWorldMage4.rpy",
+          "blocks": 165
+        },
+        {
+          "name": "TheHollowWorldMage5",
+          "file": "HollowWorld\\TheHollowWorldMage5.rpy",
+          "blocks": 108
+        },
+        {
+          "name": "TheHollowWorldMage6",
+          "file": "HollowWorld\\TheHollowWorldMage6.rpy",
+          "blocks": 163
+        },
+        {
+          "name": "TheHollowWorldMage7",
+          "file": "HollowWorld\\TheHollowWorldMage7.rpy",
+          "blocks": 61
+        },
+        {
+          "name": "TheHollowWorldWarrior1",
+          "file": "HollowWorld\\TheHollowWorldWarrior1.rpy",
+          "blocks": 139
+        },
+        {
+          "name": "TheHollowWorldWarrior2",
+          "file": "HollowWorld\\TheHollowWorldWarrior2.rpy",
+          "blocks": 140
+        },
+        {
+          "name": "TheHollowWorldWarrior3",
+          "file": "HollowWorld\\TheHollowWorldWarrior3.rpy",
+          "blocks": 205
+        },
+        {
+          "name": "TheHollowWorldWarrior4",
+          "file": "HollowWorld\\TheHollowWorldWarrior4.rpy",
+          "blocks": 186
+        },
+        {
+          "name": "TheHollowWorldWarrior5",
+          "file": "HollowWorld\\TheHollowWorldWarrior5.rpy",
+          "blocks": 119
+        },
+        {
+          "name": "WarriorPath5",
+          "file": "HollowWorld\\WarriorPath5.rpy",
+          "blocks": 339
+        }
+      ]
+    },
+    {
+      "name": "HyralArc",
+      "scenes": [
+        {
+          "name": "HyralGoblin",
+          "file": "HyralArc\\HyralGoblin.rpy",
+          "blocks": 50
+        },
+        {
+          "name": "HyralGoblin2",
+          "file": "HyralArc\\HyralGoblin2.rpy",
+          "blocks": 350
+        },
+        {
+          "name": "HyralOrc",
+          "file": "HyralArc\\HyralOrc.rpy",
+          "blocks": 425
+        },
+        {
+          "name": "HyralTown",
+          "file": "HyralArc\\HyralTown.rpy",
+          "blocks": 156
+        },
+        {
+          "name": "SarahAndNick1",
+          "file": "HyralArc\\SarahAndNick1.rpy",
+          "blocks": 117
+        }
+      ]
+    },
+    {
+      "name": "LifeInRahayal",
+      "scenes": [
+        {
+          "name": "LifeInRahayal1",
+          "file": "LifeInRahayal\\LifeInRahayal1.rpy",
+          "blocks": 187
+        },
+        {
+          "name": "LifeInRahayal2",
+          "file": "LifeInRahayal\\LifeInRahayal2.rpy",
+          "blocks": 100
+        },
+        {
+          "name": "SailorPath10",
+          "file": "LifeInRahayal\\SailorPath10.rpy",
+          "blocks": 319
+        },
+        {
+          "name": "SailorPath3",
+          "file": "LifeInRahayal\\SailorPath3.rpy",
+          "blocks": 156
+        },
+        {
+          "name": "ServantOfGilead1",
+          "file": "LifeInRahayal\\ServantOfGilead1.rpy",
+          "blocks": 589
+        },
+        {
+          "name": "SpyOnCaliban1",
+          "file": "LifeInRahayal\\SpyOnCaliban1.rpy",
+          "blocks": 4
+        },
+        {
+          "name": "TailorRoute1",
+          "file": "LifeInRahayal\\TailorRoute1.rpy",
+          "blocks": 372
+        }
+      ]
+    },
+    {
+      "name": "MagePath",
+      "scenes": [
+        {
+          "name": "AlfredPath",
+          "file": "MagePath\\AlfredPath.rpy",
+          "blocks": 830
+        },
+        {
+          "name": "BattleOfRahayal",
+          "file": "MagePath\\BattleOfRahayal.rpy",
+          "blocks": 140
+        },
+        {
+          "name": "MageInTheRuins1",
+          "file": "MagePath\\MageInTheRuins1.rpy",
+          "blocks": 92
+        },
+        {
+          "name": "MageInTheRuins2",
+          "file": "MagePath\\MageInTheRuins2.rpy",
+          "blocks": 806
+        },
+        {
+          "name": "MageInTheRuins3",
+          "file": "MagePath\\MageInTheRuins3.rpy",
+          "blocks": 174
+        },
+        {
+          "name": "MageInTheRuinsOrc1",
+          "file": "MagePath\\MageInTheRuinsOrc1.rpy",
+          "blocks": 326
+        },
+        {
+          "name": "MageInTheRuinsOrc2",
+          "file": "MagePath\\MageInTheRuinsOrc2.rpy",
+          "blocks": 255
+        },
+        {
+          "name": "MageInTheRuinsOrc3",
+          "file": "MagePath\\MageInTheRuinsOrc3.rpy",
+          "blocks": 142
+        },
+        {
+          "name": "MagePath",
+          "file": "MagePath\\MagePath.rpy",
+          "blocks": 122
+        },
+        {
+          "name": "MagePath10",
+          "file": "MagePath\\MagePath10.rpy",
+          "blocks": 246
+        },
+        {
+          "name": "MagePath11",
+          "file": "MagePath\\MagePath11.rpy",
+          "blocks": 137
+        },
+        {
+          "name": "MagePath2",
+          "file": "MagePath\\MagePath2.rpy",
+          "blocks": 156
+        },
+        {
+          "name": "MagePath3",
+          "file": "MagePath\\MagePath3.rpy",
+          "blocks": 152
+        },
+        {
+          "name": "MagePath4",
+          "file": "MagePath\\MagePath4.rpy",
+          "blocks": 166
+        },
+        {
+          "name": "MagePath5",
+          "file": "MagePath\\MagePath5.rpy",
+          "blocks": 155
+        },
+        {
+          "name": "MagePath6",
+          "file": "MagePath\\MagePath6.rpy",
+          "blocks": 181
+        },
+        {
+          "name": "MagePath7",
+          "file": "MagePath\\MagePath7.rpy",
+          "blocks": 162
+        },
+        {
+          "name": "MagePath8",
+          "file": "MagePath\\MagePath8.rpy",
+          "blocks": 169
+        },
+        {
+          "name": "MagePath9",
+          "file": "MagePath\\MagePath9.rpy",
+          "blocks": 118
+        },
+        {
+          "name": "TheBlackMonolithMage12",
+          "file": "MagePath\\TheBlackMonolithMage12.rpy",
+          "blocks": 51
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "scenes": [
+        {
+          "name": "AloneInTheCamp",
+          "file": "Other\\AloneInTheCamp.rpy",
+          "blocks": 112
+        },
+        {
+          "name": "ArrivingInLethram",
+          "file": "Other\\ArrivingInLethram.rpy",
+          "blocks": 70
+        },
+        {
+          "name": "CampSlavePathOldSoldier4",
+          "file": "Other\\CampSlavePathOldSoldier4.rpy",
+          "blocks": 22
+        },
+        {
+          "name": "CouncilMeeting2",
+          "file": "Other\\CouncilMeeting2.rpy",
+          "blocks": 147
+        },
+        {
+          "name": "DecisionsOutAtSea",
+          "file": "Other\\DecisionsOutAtSea.rpy",
+          "blocks": 46
+        },
+        {
+          "name": "DemonArc3",
+          "file": "Other\\DemonArc3.rpy",
+          "blocks": 354
+        },
+        {
+          "name": "Demonarc5",
+          "file": "Other\\Demonarc5.rpy",
+          "blocks": 200
+        },
+        {
+          "name": "FallOfLethram2",
+          "file": "Other\\FallOfLethram2.rpy",
+          "blocks": 477
+        },
+        {
+          "name": "FirstNightInTent",
+          "file": "Other\\FirstNightInTent.rpy",
+          "blocks": 12
+        },
+        {
+          "name": "GallowCreek1",
+          "file": "Other\\GallowCreek1.rpy",
+          "blocks": 517
+        },
+        {
+          "name": "HuntingTheBeast1",
+          "file": "Other\\HuntingTheBeast1.rpy",
+          "blocks": 272
+        },
+        {
+          "name": "HuntingTheBeast2",
+          "file": "Other\\HuntingTheBeast2.rpy",
+          "blocks": 63
+        },
+        {
+          "name": "HuntingTheBeast3",
+          "file": "Other\\HuntingTheBeast3.rpy",
+          "blocks": 165
+        },
+        {
+          "name": "JustBeforeBattleOfRahayal",
+          "file": "Other\\JustBeforeBattleOfRahayal.rpy",
+          "blocks": 9
+        },
+        {
+          "name": "MarionPath3",
+          "file": "Other\\MarionPath3.rpy",
+          "blocks": 28
+        },
+        {
+          "name": "NeitherPath",
+          "file": "Other\\NeitherPath.rpy",
+          "blocks": 138
+        },
+        {
+          "name": "NeitherPath2",
+          "file": "Other\\NeitherPath2.rpy",
+          "blocks": 76
+        },
+        {
+          "name": "NeitherPath3",
+          "file": "Other\\NeitherPath3.rpy",
+          "blocks": 17
+        },
+        {
+          "name": "NeitherPath4",
+          "file": "Other\\NeitherPath4.rpy",
+          "blocks": 132
+        },
+        {
+          "name": "NeitherPath5",
+          "file": "Other\\NeitherPath5.rpy",
+          "blocks": 51
+        },
+        {
+          "name": "NeitherPath6",
+          "file": "Other\\NeitherPath6.rpy",
+          "blocks": 180
+        },
+        {
+          "name": "OutsideAndAlone3",
+          "file": "Other\\OutsideAndAlone3.rpy",
+          "blocks": 32
+        },
+        {
+          "name": "PostRahayalApartmentNight",
+          "file": "Other\\PostRahayalApartmentNight.rpy",
+          "blocks": 265
+        },
+        {
+          "name": "SarahAndThomasSpeak",
+          "file": "Other\\SarahAndThomasSpeak.rpy",
+          "blocks": 76
+        },
+        {
+          "name": "SarahFightsVaelen",
+          "file": "Other\\SarahFightsVaelen.rpy",
+          "blocks": 255
+        },
+        {
+          "name": "ServantOfGilead2",
+          "file": "Other\\ServantOfGilead2.rpy",
+          "blocks": 525
+        },
+        {
+          "name": "TheBattleForTheCapital",
+          "file": "Other\\TheBattleForTheCapital.rpy",
+          "blocks": 16
+        },
+        {
+          "name": "TheBlackMonolithMage1",
+          "file": "Other\\TheBlackMonolithMage1.rpy",
+          "blocks": 192
+        },
+        {
+          "name": "TheBlackMonolithWarrior4",
+          "file": "Other\\TheBlackMonolithWarrior4.rpy",
+          "blocks": 174
+        },
+        {
+          "name": "TheBlackMonolithWarrior5",
+          "file": "Other\\TheBlackMonolithWarrior5.rpy",
+          "blocks": 195
+        },
+        {
+          "name": "TheBlackMonolithWarriorEpilogue",
+          "file": "Other\\TheBlackMonolithWarriorEpilogue.rpy",
+          "blocks": 105
+        },
+        {
+          "name": "TheExam",
+          "file": "Other\\TheExam.rpy",
+          "blocks": 168
+        },
+        {
+          "name": "TheHollowWorldWarrior6",
+          "file": "Other\\TheHollowWorldWarrior6.rpy",
+          "blocks": 335
+        },
+        {
+          "name": "TheOutsidePathBegins",
+          "file": "Other\\TheOutsidePathBegins.rpy",
+          "blocks": 52
+        },
+        {
+          "name": "TrainingPathAtilla4",
+          "file": "Other\\TrainingPathAtilla4.rpy",
+          "blocks": 121
+        },
+        {
+          "name": "TrainingPathCaleb",
+          "file": "Other\\TrainingPathCaleb.rpy",
+          "blocks": 73
+        },
+        {
+          "name": "UnmarriedGallowCreek",
+          "file": "Other\\UnmarriedGallowCreek.rpy",
+          "blocks": 102
+        },
+        {
+          "name": "VargaPath",
+          "file": "Other\\VargaPath.rpy",
+          "blocks": 14
+        },
+        {
+          "name": "VargaPath10",
+          "file": "Other\\VargaPath10.rpy",
+          "blocks": 13
+        },
+        {
+          "name": "WanderingTheCamp",
+          "file": "Other\\WanderingTheCamp.rpy",
+          "blocks": 85
+        },
+        {
+          "name": "WarriorRahayal1",
+          "file": "Other\\WarriorRahayal1.rpy",
+          "blocks": 208
+        },
+        {
+          "name": "WarriorRahayal3",
+          "file": "Other\\WarriorRahayal3.rpy",
+          "blocks": 303
+        },
+        {
+          "name": "WhoFightsVaelen",
+          "file": "Other\\WhoFightsVaelen.rpy",
+          "blocks": 4
+        },
+        {
+          "name": "postEscapeLethramShip",
+          "file": "Other\\postEscapeLethramShip.rpy",
+          "blocks": 299
+        },
+        {
+          "name": "prostitutealaric1",
+          "file": "Other\\prostitutealaric1.rpy",
+          "blocks": 518
+        }
+      ]
+    },
+    {
+      "name": "PrisonArc",
+      "scenes": [
+        {
+          "name": "OutsideAndAlone",
+          "file": "PrisonArc\\OutsideAndAlone.rpy",
+          "blocks": 30
+        },
+        {
+          "name": "OutsideAndAlone2",
+          "file": "PrisonArc\\OutsideAndAlone2.rpy",
+          "blocks": 46
+        },
+        {
+          "name": "PrisonPath1",
+          "file": "PrisonArc\\PrisonPath1.rpy",
+          "blocks": 380
+        },
+        {
+          "name": "PrisonPath2",
+          "file": "PrisonArc\\PrisonPath2.rpy",
+          "blocks": 72
+        },
+        {
+          "name": "UnderworldPath",
+          "file": "PrisonArc\\UnderworldPath.rpy",
+          "blocks": 191
+        },
+        {
+          "name": "UnderworldPath2",
+          "file": "PrisonArc\\UnderworldPath2.rpy",
+          "blocks": 233
+        },
+        {
+          "name": "UnderworldPath3",
+          "file": "PrisonArc\\UnderworldPath3.rpy",
+          "blocks": 315
+        },
+        {
+          "name": "UnderworldPath4",
+          "file": "PrisonArc\\UnderworldPath4.rpy",
+          "blocks": 116
+        },
+        {
+          "name": "WarriorQueen7Capital",
+          "file": "PrisonArc\\WarriorQueen7Capital.rpy",
+          "blocks": 630
+        }
+      ]
+    },
+    {
+      "name": "Prologue",
+      "scenes": [
+        {
+          "name": "OpeningScene",
+          "file": "Prologue\\OpeningScene.rpy",
+          "blocks": 23
+        },
+        {
+          "name": "OpeningSceneEvening",
+          "file": "Prologue\\OpeningSceneEvening.rpy",
+          "blocks": 61
+        },
+        {
+          "name": "OpeningSceneSequence2",
+          "file": "Prologue\\OpeningSceneSequence2.rpy",
+          "blocks": 32
+        },
+        {
+          "name": "start",
+          "file": "Prologue\\start.rpy",
+          "blocks": 18
+        }
+      ]
+    },
+    {
+      "name": "SailorArc",
+      "scenes": [
+        {
+          "name": "ASarahInTheParkWithGeorge1",
+          "file": "SailorArc\\ASarahInTheParkWithGeorge1.rpy",
+          "blocks": 1
+        },
+        {
+          "name": "SarahExploresLethramHarbor1",
+          "file": "SailorArc\\SarahExploresLethramHarbor1.rpy",
+          "blocks": 1
+        },
+        {
+          "name": "SarahLeavesLethram1",
+          "file": "SailorArc\\SarahLeavesLethram1.rpy",
+          "blocks": 497
+        },
+        {
+          "name": "TheOldRoad1",
+          "file": "SailorArc\\TheOldRoad1.rpy",
+          "blocks": 287
+        },
+        {
+          "name": "TheOldRoad2",
+          "file": "SailorArc\\TheOldRoad2.rpy",
+          "blocks": 172
+        },
+        {
+          "name": "TheOldRoad3",
+          "file": "SailorArc\\TheOldRoad3.rpy",
+          "blocks": 104
+        },
+        {
+          "name": "TheOldRoad4",
+          "file": "SailorArc\\TheOldRoad4.rpy",
+          "blocks": 105
+        },
+        {
+          "name": "TheOldRoad5",
+          "file": "SailorArc\\TheOldRoad5.rpy",
+          "blocks": 80
+        }
+      ]
+    },
+    {
+      "name": "SailorPath",
+      "scenes": [
+        {
+          "name": "LifeInRahayal3",
+          "file": "SailorPath\\LifeInRahayal3.rpy",
+          "blocks": 210
+        },
+        {
+          "name": "SailorPath1",
+          "file": "SailorPath\\SailorPath1.rpy",
+          "blocks": 277
+        },
+        {
+          "name": "SailorPath2",
+          "file": "SailorPath\\SailorPath2.rpy",
+          "blocks": 307
+        },
+        {
+          "name": "SailorPath2addendum",
+          "file": "SailorPath\\SailorPath2addendum.rpy",
+          "blocks": 192
+        },
+        {
+          "name": "SailorPath4",
+          "file": "SailorPath\\SailorPath4.rpy",
+          "blocks": 248
+        },
+        {
+          "name": "SailorPath5",
+          "file": "SailorPath\\SailorPath5.rpy",
+          "blocks": 386
+        },
+        {
+          "name": "SailorPath6",
+          "file": "SailorPath\\SailorPath6.rpy",
+          "blocks": 397
+        },
+        {
+          "name": "SailorPath7",
+          "file": "SailorPath\\SailorPath7.rpy",
+          "blocks": 101
+        },
+        {
+          "name": "SailorPath8",
+          "file": "SailorPath\\SailorPath8.rpy",
+          "blocks": 143
+        },
+        {
+          "name": "SailorPath9",
+          "file": "SailorPath\\SailorPath9.rpy",
+          "blocks": 334
+        },
+        {
+          "name": "SarahBelmontFollowup",
+          "file": "SailorPath\\SarahBelmontFollowup.rpy",
+          "blocks": 6
+        }
+      ]
+    },
+    {
+      "name": "SakarPath",
+      "scenes": [
+        {
+          "name": "TheOldRoad6",
+          "file": "SakarPath\\TheOldRoad6.rpy",
+          "blocks": 93
+        }
+      ]
+    },
+    {
+      "name": "StoryBeginnings",
+      "scenes": [
+        {
+          "name": "ChooseThePath",
+          "file": "StoryBeginnings\\ChooseThePath.rpy",
+          "blocks": 34
+        },
+        {
+          "name": "CoronationDay",
+          "file": "StoryBeginnings\\CoronationDay.rpy",
+          "blocks": 41
+        },
+        {
+          "name": "DayOfTheFuneral",
+          "file": "StoryBeginnings\\DayOfTheFuneral.rpy",
+          "blocks": 31
+        },
+        {
+          "name": "MeetingKateInTheGarden",
+          "file": "StoryBeginnings\\MeetingKateInTheGarden.rpy",
+          "blocks": 108
+        },
+        {
+          "name": "MeetingOnTheBattlements",
+          "file": "StoryBeginnings\\MeetingOnTheBattlements.rpy",
+          "blocks": 74
+        },
+        {
+          "name": "OpeningSceneFirstMorning",
+          "file": "StoryBeginnings\\OpeningSceneFirstMorning.rpy",
+          "blocks": 75
+        },
+        {
+          "name": "SarahsBedroomAfterFuneral",
+          "file": "StoryBeginnings\\SarahsBedroomAfterFuneral.rpy",
+          "blocks": 47
+        },
+        {
+          "name": "SecondPartOfFuneral",
+          "file": "StoryBeginnings\\SecondPartOfFuneral.rpy",
+          "blocks": 44
+        },
+        {
+          "name": "TheInsidePathBegins",
+          "file": "StoryBeginnings\\TheInsidePathBegins.rpy",
+          "blocks": 20
+        },
+        {
+          "name": "TheMorningAfterKate",
+          "file": "StoryBeginnings\\TheMorningAfterKate.rpy",
+          "blocks": 156
+        }
+      ]
+    },
+    {
+      "name": "Training",
+      "scenes": [
+        {
+          "name": "ChoosingAMentor",
+          "file": "Training\\ChoosingAMentor.rpy",
+          "blocks": 20
+        },
+        {
+          "name": "GeneralPathBegins",
+          "file": "Training\\GeneralPathBegins.rpy",
+          "blocks": 26
+        },
+        {
+          "name": "HyralOrc2",
+          "file": "Training\\HyralOrc2.rpy",
+          "blocks": 215
+        },
+        {
+          "name": "SarahMeetsVaelen",
+          "file": "Training\\SarahMeetsVaelen.rpy",
+          "blocks": 71
+        },
+        {
+          "name": "TrainingPathAtilla",
+          "file": "Training\\TrainingPathAtilla.rpy",
+          "blocks": 180
+        },
+        {
+          "name": "TrainingPathAtilla2",
+          "file": "Training\\TrainingPathAtilla2.rpy",
+          "blocks": 238
+        },
+        {
+          "name": "TrainingPathAtilla3",
+          "file": "Training\\TrainingPathAtilla3.rpy",
+          "blocks": 213
+        },
+        {
+          "name": "TrainingPathCaleb2",
+          "file": "Training\\TrainingPathCaleb2.rpy",
+          "blocks": 72
+        },
+        {
+          "name": "TrainingPathCaleb3",
+          "file": "Training\\TrainingPathCaleb3.rpy",
+          "blocks": 61
+        },
+        {
+          "name": "TrainingPathKate",
+          "file": "Training\\TrainingPathKate.rpy",
+          "blocks": 130
+        },
+        {
+          "name": "TrainingPathKate2",
+          "file": "Training\\TrainingPathKate2.rpy",
+          "blocks": 98
+        },
+        {
+          "name": "TrainingPathKate3",
+          "file": "Training\\TrainingPathKate3.rpy",
+          "blocks": 113
+        }
+      ]
+    },
+    {
+      "name": "UnionKingdom",
+      "scenes": [
+        {
+          "name": "NeitherPath7",
+          "file": "UnionKingdom\\NeitherPath7.rpy",
+          "blocks": 14
+        },
+        {
+          "name": "UnionDecisionLoop",
+          "file": "UnionKingdom\\UnionDecisionLoop.rpy",
+          "blocks": 2
+        },
+        {
+          "name": "UnionKingdom1",
+          "file": "UnionKingdom\\UnionKingdom1.rpy",
+          "blocks": 90
+        },
+        {
+          "name": "UnionKingdom10",
+          "file": "UnionKingdom\\UnionKingdom10.rpy",
+          "blocks": 19
+        },
+        {
+          "name": "UnionKingdom11",
+          "file": "UnionKingdom\\UnionKingdom11.rpy",
+          "blocks": 69
+        },
+        {
+          "name": "UnionKingdom12CouncilRule",
+          "file": "UnionKingdom\\UnionKingdom12CouncilRule.rpy",
+          "blocks": 53
+        },
+        {
+          "name": "UnionKingdom12SupportAnother",
+          "file": "UnionKingdom\\UnionKingdom12SupportAnother.rpy",
+          "blocks": 38
+        },
+        {
+          "name": "UnionKingdom2",
+          "file": "UnionKingdom\\UnionKingdom2.rpy",
+          "blocks": 149
+        },
+        {
+          "name": "UnionKingdom3",
+          "file": "UnionKingdom\\UnionKingdom3.rpy",
+          "blocks": 145
+        },
+        {
+          "name": "UnionKingdom4",
+          "file": "UnionKingdom\\UnionKingdom4.rpy",
+          "blocks": 56
+        },
+        {
+          "name": "UnionKingdom5",
+          "file": "UnionKingdom\\UnionKingdom5.rpy",
+          "blocks": 36
+        },
+        {
+          "name": "UnionKingdom6",
+          "file": "UnionKingdom\\UnionKingdom6.rpy",
+          "blocks": 147
+        },
+        {
+          "name": "UnionKingdom7",
+          "file": "UnionKingdom\\UnionKingdom7.rpy",
+          "blocks": 288
+        },
+        {
+          "name": "UnionKingdom8",
+          "file": "UnionKingdom\\UnionKingdom8.rpy",
+          "blocks": 232
+        },
+        {
+          "name": "UnionKingdom9",
+          "file": "UnionKingdom\\UnionKingdom9.rpy",
+          "blocks": 55
+        },
+        {
+          "name": "UnionLoop",
+          "file": "UnionKingdom\\UnionLoop.rpy",
+          "blocks": 13
+        },
+        {
+          "name": "UnionLoop2",
+          "file": "UnionKingdom\\UnionLoop2.rpy",
+          "blocks": 13
+        },
+        {
+          "name": "UnionLoop3",
+          "file": "UnionKingdom\\UnionLoop3.rpy",
+          "blocks": 9
+        }
+      ]
+    },
+    {
+      "name": "VargaMarionPath",
+      "scenes": [
+        {
+          "name": "MarionOrVargaPath",
+          "file": "VargaMarionPath\\MarionOrVargaPath.rpy",
+          "blocks": 12
+        },
+        {
+          "name": "MarionPath",
+          "file": "VargaMarionPath\\MarionPath.rpy",
+          "blocks": 90
+        },
+        {
+          "name": "MarionPath2",
+          "file": "VargaMarionPath\\MarionPath2.rpy",
+          "blocks": 590
+        },
+        {
+          "name": "MythranInvasion1",
+          "file": "VargaMarionPath\\MythranInvasion1.rpy",
+          "blocks": 1
+        },
+        {
+          "name": "TheWarIsWon",
+          "file": "VargaMarionPath\\TheWarIsWon.rpy",
+          "blocks": 39
+        },
+        {
+          "name": "TyrantPath1",
+          "file": "VargaMarionPath\\TyrantPath1.rpy",
+          "blocks": 19
+        },
+        {
+          "name": "VargaPath2",
+          "file": "VargaMarionPath\\VargaPath2.rpy",
+          "blocks": 55
+        },
+        {
+          "name": "VargaPath3",
+          "file": "VargaMarionPath\\VargaPath3.rpy",
+          "blocks": 215
+        },
+        {
+          "name": "VargaPath4",
+          "file": "VargaMarionPath\\VargaPath4.rpy",
+          "blocks": 139
+        },
+        {
+          "name": "VargaPath5",
+          "file": "VargaMarionPath\\VargaPath5.rpy",
+          "blocks": 76
+        },
+        {
+          "name": "VargaPath6",
+          "file": "VargaMarionPath\\VargaPath6.rpy",
+          "blocks": 108
+        },
+        {
+          "name": "VargaPath7",
+          "file": "VargaMarionPath\\VargaPath7.rpy",
+          "blocks": 126
+        },
+        {
+          "name": "VargaPath8",
+          "file": "VargaMarionPath\\VargaPath8.rpy",
+          "blocks": 51
+        },
+        {
+          "name": "VargaPath9",
+          "file": "VargaMarionPath\\VargaPath9.rpy",
+          "blocks": 181
+        }
+      ]
+    },
+    {
+      "name": "WarArc",
+      "scenes": [
+        {
+          "name": "AThreatIsUttered",
+          "file": "WarArc\\AThreatIsUttered.rpy",
+          "blocks": 103
+        },
+        {
+          "name": "WarCouncil",
+          "file": "WarArc\\WarCouncil.rpy",
+          "blocks": 94
+        }
+      ]
+    },
+    {
+      "name": "WarriorPath",
+      "scenes": [
+        {
+          "name": "HuntingTheBeast4",
+          "file": "WarriorPath\\HuntingTheBeast4.rpy",
+          "blocks": 1
+        },
+        {
+          "name": "MercenaryQueen1",
+          "file": "WarriorPath\\MercenaryQueen1.rpy",
+          "blocks": 1
+        },
+        {
+          "name": "MythranArcWarrior1",
+          "file": "WarriorPath\\MythranArcWarrior1.rpy",
+          "blocks": 48
+        },
+        {
+          "name": "OutsideOfBagrad",
+          "file": "WarriorPath\\OutsideOfBagrad.rpy",
+          "blocks": 163
+        },
+        {
+          "name": "TheWarIsLost",
+          "file": "WarriorPath\\TheWarIsLost.rpy",
+          "blocks": 17
+        },
+        {
+          "name": "WarriorPath1",
+          "file": "WarriorPath\\WarriorPath1.rpy",
+          "blocks": 305
+        },
+        {
+          "name": "WarriorPath2",
+          "file": "WarriorPath\\WarriorPath2.rpy",
+          "blocks": 197
+        },
+        {
+          "name": "WarriorPath3",
+          "file": "WarriorPath\\WarriorPath3.rpy",
+          "blocks": 188
+        },
+        {
+          "name": "WarriorPath4",
+          "file": "WarriorPath\\WarriorPath4.rpy",
+          "blocks": 185
+        },
+        {
+          "name": "WarriorQueen1",
+          "file": "WarriorPath\\WarriorQueen1.rpy",
+          "blocks": 153
+        },
+        {
+          "name": "WarriorQueen2",
+          "file": "WarriorPath\\WarriorQueen2.rpy",
+          "blocks": 43
+        },
+        {
+          "name": "WarriorQueen3",
+          "file": "WarriorPath\\WarriorQueen3.rpy",
+          "blocks": 328
+        },
+        {
+          "name": "WarriorQueen4ridgehaven",
+          "file": "WarriorPath\\WarriorQueen4ridgehaven.rpy",
+          "blocks": 2
+        },
+        {
+          "name": "WarriorQueen5",
+          "file": "WarriorPath\\WarriorQueen5.rpy",
+          "blocks": 64
+        },
+        {
+          "name": "WarriorQueen6Calshure",
+          "file": "WarriorPath\\WarriorQueen6Calshure.rpy",
+          "blocks": 91
+        },
+        {
+          "name": "WarriorQueen6Hinterlands",
+          "file": "WarriorPath\\WarriorQueen6Hinterlands.rpy",
+          "blocks": 191
+        },
+        {
+          "name": "WarriorQueen7Calshure",
+          "file": "WarriorPath\\WarriorQueen7Calshure.rpy",
+          "blocks": 104
+        },
+        {
+          "name": "WarriorQueen7Hinterlands",
+          "file": "WarriorPath\\WarriorQueen7Hinterlands.rpy",
+          "blocks": 28
+        },
+        {
+          "name": "WarriorRahayal2",
+          "file": "WarriorPath\\WarriorRahayal2.rpy",
+          "blocks": 433
+        }
+      ]
+    }
+  ]
+}

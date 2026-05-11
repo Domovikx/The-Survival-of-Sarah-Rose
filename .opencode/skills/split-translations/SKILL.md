@@ -5,52 +5,125 @@ license: MIT
 compatibility: opencode
 ---
 
-## What I do
+## Overview
 
-Декомпозирую большой файл перевода на структурированные части:
-- По аркам (story arcs)
-- По сценам внутри арок (scenes within arcs)
+Этот скил предоставляет инструменты для работы с переводами Ren'Py игр:
+1. **extract_texts.py** — извлечение текстов из оригинальных файлов
+2. **split_translations.py** — декомпозиция переводов на части
 
-## Структура вывода
+## Структура данных
 
+### Оригинальная игра
 ```
-tl/<lang>/script/split/
-├── Arc1/
-│   ├── Scene1.rpy
-│   └── Scene1Variation.rpy
-├── Arc2/
-│   └── ...
-├── ...
-└── manifest.json
+game/
+├── script.rpy          # Основной скрипт (36k строк перевода)
+├── screens.rpy         # Экраны
+├── options.rpy         # Опции
+├── characters.rpy      # Персонажи
+├── gui.rpy             # UI
+├── language.rpy        # Язык
+├── libs/               # Библиотеки
+└── tl/ru/              # Текущие переводы (устаревшие)
 ```
 
-## Скрипт
+### Целевая структура для переводов
+```
+game/tl/ru/
+├── source/                               # Извлечённые оригиналы (для перевода)
+│   └── Prologue/
+│       ├── OpeningScene.rpy
+│       ├── OpeningSceneEvening.rpy
+│       └── ...
+│   └── WarriorPath/
+├── script/                               # Существующие переводы
+│   └── split/
+│       └── Prologue/
+└── *.rpy                                 # Корневые переводы (screens, options, etc.)
+```
 
-`split_translations.py` — основной скрипт:
+## extract_texts.py
+
+### Использование
 
 ```bash
-# Декомпозиция
-python split_translations.py
+# Извлечение всех текстов (автоматически определяет пути)
+python extract_texts.py
 
-# Проверка консистентности
-python split_translations.py verify
+# С указанием путей
+python extract_texts.py /path/to/game /path/to/output
 ```
 
-## Проверка консистентности
+### Выходной формат: Ren'Py
 
-После декомпозиции:
-1. manifest.json содержит статистику
-2. verify — сравнивает строки исходника и сумму чанков
-3. Должно быть полное совпадение
+```
+tl/raw/renpy_format/{ArcName}/{SceneName}.rpy
+```
+
+Пример файла:
+
+```rpy
+# -*- encoding: utf-8 -*-
+# Extracted from: .../script.rpy
+# Scene: OpeningScene
+# Total blocks: 23
+
+# OpeningScene_5c73d663 (line 333)
+translate ru OpeningScene_5c73d663:
+    # "King Orwell has returned from his travels..."
+    ""
+
+# OpeningScene_ddeb1da1 (line 336)
+translate ru OpeningScene_ddeb1da1:
+    # ko "Finally, home again."
+    ko ""
+```
+
+### Структура арок
+
+| Arc Name | Содержит |
+|----------|----------|
+| Prologue | OpeningScene, OpeningSceneEvening, start |
+| WarriorPath | WarriorPath1-5, WarriorRahayal, WarriorQueen |
+| SailorPath | SailorPath1-10, LifeInRahayal |
+| MagePath | MagePath1-12, MageInTheRuins |
+| HassarPath | HassarPath1-5, JaeidPath |
+| UnionKingdom | UnionKingdom1-13, UnionLoop |
+| BlackMonolith | TheBlackMonolithWarrior, TheBlackMonolithMage |
+| HollowWorld | TheHollowWorldWarrior, TheHollowWorldMage |
+| Training | TrainingPathKate, TrainingPathCaleb, TrainingPathAtilla |
+| StoryBeginnings | DayOfTheFuneral, MeetingOnTheBattlements, etc. |
+
+## ID блоков
+
+Формат: `{label}_{8-char-hash}`
+
+- `label` — имя лейбла сцены
+- `8-char-hash` — MD5 хэш (файл:строка:текст)
+
+Пример: `OpeningScene_5c73d663`
+
+Важно: ID нельзя менять — Ren'Py использует их для сопоставления перевода с оригиналом.
 
 ## Workflow
 
-1. Сплит исходника на чанки
-2. Работа с отдельными файлами перевода
-3. Проверка консистентности
-4. При необходимости — сборка обратно
+```
+1. extract_texts.py → Извлечение оригинала в game/tl/ru/raw/renpy_format/
+2. Переводчики работают с файлами .rpy в arc/сценах
+3. Перевод подставляется в пустые кавычки ""
+4. Финальные файлы копируются в game/tl/ru/script/split/
+```
+
+## Проверка консистентности (TODO)
+
+```bash
+python extract_texts.py verify
+```
+
+Проверяет:
+- Все ли блоки переведены
+- Нет ли дубликатов ID
+- Совпадение количества строк с оригиналом
 
 ## Источники
 
-- OpenCode Agent Skills Documentation
-- Ren'Py Translation Documentation
+- Ren'Py Translation Documentation: https://www.renpy.org/doc/html/translation.html
