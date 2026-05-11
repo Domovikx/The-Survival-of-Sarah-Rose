@@ -128,6 +128,26 @@ class TestParsing:
         texts = [b.original_text for b in extractor.ui_strings]
         assert any("Settings" in t for t in texts)
 
+    def test_ui_strings_format_old_new(self, tmp_path):
+        """Test that UI strings are saved in old/new format"""
+        script = tmp_path / "test.rpy"
+        content = 'textbutton _("Test") action None\n'
+        script.write_text(content, encoding='utf-8')
+
+        output_dir = tmp_path / "output"
+        output_dir.mkdir()
+
+        extractor = RenPyTextExtractor(str(tmp_path), str(output_dir))
+        extractor.parse_file_full(script)
+        extractor.save_to_format()
+
+        ui_file = output_dir / "ui_strings" / "screens.rpy"
+        assert ui_file.exists()
+        content = ui_file.read_text(encoding='utf-8')
+        assert "translate ru strings:" in content
+        assert 'old "Test"' in content
+        assert 'new "Test"' in content
+
     def test_character_names_extraction(self, tmp_path):
         """Test that Character(_("Name")) are extracted"""
         script = tmp_path / "test.rpy"
@@ -141,6 +161,26 @@ class TestParsing:
         extractor.parse_file_full(script)
 
         assert len(extractor.character_names) >= 2
+
+    def test_character_names_format_old_new(self, tmp_path):
+        """Test that character names are saved in old/new format"""
+        script = tmp_path / "test.rpy"
+        content = 'define s = Character(_("Sarah"), color="#daa520")\n'
+        script.write_text(content, encoding='utf-8')
+
+        output_dir = tmp_path / "output"
+        output_dir.mkdir()
+
+        extractor = RenPyTextExtractor(str(tmp_path), str(output_dir))
+        extractor.parse_file_full(script)
+        extractor.save_to_format()
+
+        char_file = output_dir / "characters" / "character_names.rpy"
+        assert char_file.exists()
+        content = char_file.read_text(encoding='utf-8')
+        assert "translate ru strings:" in content
+        assert 'old "Sarah"' in content
+        assert 'new "Sarah"' in content
 
 
 class TestIDGeneration:

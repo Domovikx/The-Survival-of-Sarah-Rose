@@ -406,7 +406,7 @@ class RenPyTextExtractor:
         print(f"Saved dialogue/narration to {output_dir}")
 
     def _save_ui_strings(self):
-        """Сохраняет UI строки отдельно"""
+        """Сохраняет UI строки отдельно - в формате old/new"""
         output_dir = self.output_dir / 'ui_strings'
         output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -416,16 +416,16 @@ class RenPyTextExtractor:
             f.write("# UI Strings - Buttons, Menus, etc.\n")
             f.write(f"# Total: {len(self.ui_strings)} strings\n\n")
 
+            f.write("translate ru strings:\n\n")
+
             for block in self.ui_strings:
-                f.write(f"# {block.id} (line {block.line_number})\n")
-                f.write(f"translate ru {block.id}:\n")
-                f.write(f'    # _("{block.original_text}")\n')
-                f.write(f'    _("{block.original_text}") ""\n\n')
+                f.write(f'    old "{block.original_text}"\n')
+                f.write(f'    new "{block.original_text}"\n\n')
 
         print(f"Saved UI strings to {ui_file}")
 
     def _save_characters(self):
-        """Сохраняет имена персонажей"""
+        """Сохраняет имена персонажей - в формате old/new"""
         output_dir = self.output_dir / 'characters'
         output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -435,11 +435,11 @@ class RenPyTextExtractor:
             f.write("# Character Names\n")
             f.write(f"# Total: {len(self.character_names)} names\n\n")
 
+            f.write("translate ru strings:\n\n")
+
             for block in self.character_names:
-                f.write(f"# {block.id} (line {block.line_number})\n")
-                f.write(f"translate ru {block.id}:\n")
-                f.write(f'    # Character name: {block.original_text}\n')
-                f.write(f'    ""\n\n')
+                f.write(f'    old "{block.original_text}"\n')
+                f.write(f'    new "{block.original_text}"\n\n')
 
         print(f"Saved character names to {char_file}")
 
