@@ -1,16 +1,64 @@
-# VS Code settings
-!.vscode/
-!.vscode/settings.json
-
-# Game files - ignore everything
-*
-
-# Translation files - keep ONLY these
+# Translation files
 !.gitignore
-!game/tl/russian/
-!game/tl/russian/*.rpy
+!game/tl/ru/
+!game/tl/ru/*.rpy
 
-# Tools and temp - ignore
+# Language config
+!game/language.rpy
+!game/language_switcher.rpy
+
+# Fonts for ru
+!game/fonts/
+!game/fonts/*.ttf
+
+# OpenCode skills
+!.opencode/
+!.opencode/skills/
+
+# All game files except fonts and translations
+game/*
+!game/tl/
+!game/fonts/
+!game/language.rpy
+!game/language_switcher.rpy
+!game/screens.rpy
+!game/options.rpy
+!game/gui.rpy
+
+# Game build and temp files
+TheSurvivalofSarahRose-32.exe
+TheSurvivalofSarahRose.exe
+TheSurvivalofSarahRose.py
+TheSurvivalofSarahRose.sh
+errors.txt
+traceback.txt
+log.txt
+game/tl/None/
+lib/
+renpy/
+renpy_download.html
+extract_strings.py
+
+# Tools
 renpy-8.5.2-sdk/
 renpy-sdk.zip
+
+# Game build and temp files
+TheSurvivalofSarahRose-32.exe
+TheSurvivalofSarahRose.exe
+TheSurvivalofSarahRose.py
+TheSurvivalofSarahRose.sh
+errors.txt
+traceback.txt
+log.txt
+game/tl/None/
+lib/
+renpy/
+renpy_download.html
 extract_strings.py
+
+# Tools
+renpy-8.5.2-sdk/
+renpy-sdk.zip
+
+nul

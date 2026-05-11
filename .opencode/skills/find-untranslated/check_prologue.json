@@ -1,0 +1,2010 @@
+{
+  "total_files": 501,
+  "total_blocks": 72074,
+  "files_with_empties": 495,
+  "empty_count": 47622,
+  "empty_blocks": {
+    "Bagrad": [
+      {
+        "file": "BagradGuardsHonourorNo.rpy",
+        "empty_count": 125
+      },
+      {
+        "file": "BribeAntonio.rpy",
+        "empty_count": 7
+      },
+      {
+        "file": "BribeMaeiv.rpy",
+        "empty_count": 244
+      }
+    ],
+    "DemonArc": [
+      {
+        "file": "DemonArc1.rpy",
+        "empty_count": 190
+      },
+      {
+        "file": "DemonArc2.rpy",
+        "empty_count": 201
+      },
+      {
+        "file": "DemonArc3.rpy",
+        "empty_count": 127
+      }
+    ],
+    "HassarPath": [
+      {
+        "file": "HassarPath.rpy",
+        "empty_count": 128
+      },
+      {
+        "file": "HassarPath2.rpy",
+        "empty_count": 28
+      },
+      {
+        "file": "HassarPath3.rpy",
+        "empty_count": 107
+      },
+      {
+        "file": "HassarPath4.rpy",
+        "empty_count": 90
+      },
+      {
+        "file": "HassarPath5.rpy",
+        "empty_count": 44
+      },
+      {
+        "file": "JaeidPath.rpy",
+        "empty_count": 26
+      },
+      {
+        "file": "JaeidPath2.rpy",
+        "empty_count": 83
+      },
+      {
+        "file": "JaeidPath3.rpy",
+        "empty_count": 72
+      },
+      {
+        "file": "JaeidPath4.rpy",
+        "empty_count": 85
+      },
+      {
+        "file": "JaeidPath5.rpy",
+        "empty_count": 64
+      },
+      {
+        "file": "JaeidPath6.rpy",
+        "empty_count": 40
+      },
+      {
+        "file": "JaeidPath7.rpy",
+        "empty_count": 2
+      }
+    ],
+    "MagePath": [
+      {
+        "file": "MageInTheRuins1.rpy",
+        "empty_count": 132
+      },
+      {
+        "file": "MageInTheRuins2.rpy",
+        "empty_count": 200
+      },
+      {
+        "file": "MageInTheRuins3.rpy",
+        "empty_count": 102
+      },
+      {
+        "file": "MageInTheRuinsOrc1.rpy",
+        "empty_count": 318
+      },
+      {
+        "file": "MageInTheRuinsOrc2.rpy",
+        "empty_count": 248
+      },
+      {
+        "file": "MageInTheRuinsOrc3.rpy",
+        "empty_count": 137
+      },
+      {
+        "file": "MagePath.rpy",
+        "empty_count": 73
+      },
+      {
+        "file": "MagePath10.rpy",
+        "empty_count": 139
+      },
+      {
+        "file": "MagePath11.rpy",
+        "empty_count": 106
+      },
+      {
+        "file": "MagePath12.rpy",
+        "empty_count": 23
+      },
+      {
+        "file": "MagePath2.rpy",
+        "empty_count": 70
+      },
+      {
+        "file": "MagePath3.rpy",
+        "empty_count": 97
+      },
+      {
+        "file": "MagePath4.rpy",
+        "empty_count": 83
+      },
+      {
+        "file": "MagePath5.rpy",
+        "empty_count": 54
+      },
+      {
+        "file": "MagePath6.rpy",
+        "empty_count": 108
+      },
+      {
+        "file": "MagePath7.rpy",
+        "empty_count": 85
+      },
+      {
+        "file": "MagePath8.rpy",
+        "empty_count": 97
+      },
+      {
+        "file": "MagePath9.rpy",
+        "empty_count": 84
+      },
+      {
+        "file": "MagePathCitadel1.rpy",
+        "empty_count": 3
+      },
+      {
+        "file": "TheBlackMonolithMage1.rpy",
+        "empty_count": 193
+      },
+      {
+        "file": "TheBlackMonolithMage10.rpy",
+        "empty_count": 60
+      },
+      {
+        "file": "TheBlackMonolithMage11.rpy",
+        "empty_count": 105
+      },
+      {
+        "file": "TheBlackMonolithMage12.rpy",
+        "empty_count": 59
+      },
+      {
+        "file": "TheBlackMonolithMage2.rpy",
+        "empty_count": 76
+      },
+      {
+        "file": "TheBlackMonolithMage3.rpy",
+        "empty_count": 61
+      },
+      {
+        "file": "TheBlackMonolithMage4.rpy",
+        "empty_count": 32
+      },
+      {
+        "file": "TheBlackMonolithMage5.rpy",
+        "empty_count": 40
+      },
+      {
+        "file": "TheBlackMonolithMage6.rpy",
+        "empty_count": 165
+      },
+      {
+        "file": "TheBlackMonolithMage7.rpy",
+        "empty_count": 19
+      },
+      {
+        "file": "TheBlackMonolithMage8.rpy",
+        "empty_count": 252
+      },
+      {
+        "file": "TheBlackMonolithMage9.rpy",
+        "empty_count": 53
+      },
+      {
+        "file": "TheBlackMonolithWarrior1.rpy",
+        "empty_count": 116
+      },
+      {
+        "file": "TheBlackMonolithWarrior1SleepWithSamayra.rpy",
+        "empty_count": 42
+      },
+      {
+        "file": "TheBlackMonolithWarrior2.rpy",
+        "empty_count": 59
+      },
+      {
+        "file": "TheBlackMonolithWarrior3.rpy",
+        "empty_count": 59
+      },
+      {
+        "file": "TheBlackMonolithWarrior4.rpy",
+        "empty_count": 118
+      },
+      {
+        "file": "TheBlackMonolithWarrior5.rpy",
+        "empty_count": 37
+      },
+      {
+        "file": "TheBlackMonolithWarriorEpilogue.rpy",
+        "empty_count": 46
+      },
+      {
+        "file": "TheHollowWorldMage1.rpy",
+        "empty_count": 87
+      },
+      {
+        "file": "TheHollowWorldMage2.rpy",
+        "empty_count": 51
+      },
+      {
+        "file": "TheHollowWorldMage3.rpy",
+        "empty_count": 43
+      },
+      {
+        "file": "TheHollowWorldMage4.rpy",
+        "empty_count": 145
+      },
+      {
+        "file": "TheHollowWorldMage5.rpy",
+        "empty_count": 3
+      },
+      {
+        "file": "TheHollowWorldMage6.rpy",
+        "empty_count": 213
+      },
+      {
+        "file": "TheHollowWorldMage7.rpy",
+        "empty_count": 17
+      },
+      {
+        "file": "TheHollowWorldMage8.rpy",
+        "empty_count": 85
+      },
+      {
+        "file": "TheHollowWorldWarrior1.rpy",
+        "empty_count": 72
+      },
+      {
+        "file": "TheHollowWorldWarrior2.rpy",
+        "empty_count": 148
+      },
+      {
+        "file": "TheHollowWorldWarrior3.rpy",
+        "empty_count": 125
+      },
+      {
+        "file": "TheHollowWorldWarrior4.rpy",
+        "empty_count": 148
+      },
+      {
+        "file": "TheHollowWorldWarrior5.rpy",
+        "empty_count": 197
+      },
+      {
+        "file": "TheHollowWorldWarrior6.rpy",
+        "empty_count": 225
+      }
+    ],
+    "MarionPath": [
+      {
+        "file": "CouncilMeeting2.rpy",
+        "empty_count": 38
+      },
+      {
+        "file": "MarionOrVargaPath.rpy",
+        "empty_count": 11
+      },
+      {
+        "file": "MarionPath.rpy",
+        "empty_count": 40
+      },
+      {
+        "file": "MarionPath2.rpy",
+        "empty_count": 349
+      },
+      {
+        "file": "MarionPath3.rpy",
+        "empty_count": 28
+      },
+      {
+        "file": "VargaPath.rpy",
+        "empty_count": 9
+      },
+      {
+        "file": "VargaPath10.rpy",
+        "empty_count": 91
+      },
+      {
+        "file": "VargaPath2.rpy",
+        "empty_count": 38
+      },
+      {
+        "file": "VargaPath3.rpy",
+        "empty_count": 167
+      },
+      {
+        "file": "VargaPath4.rpy",
+        "empty_count": 73
+      },
+      {
+        "file": "VargaPath5.rpy",
+        "empty_count": 45
+      },
+      {
+        "file": "VargaPath6.rpy",
+        "empty_count": 84
+      },
+      {
+        "file": "VargaPath7.rpy",
+        "empty_count": 66
+      },
+      {
+        "file": "VargaPath8.rpy",
+        "empty_count": 35
+      },
+      {
+        "file": "VargaPath9.rpy",
+        "empty_count": 121
+      },
+      {
+        "file": "WarCouncil.rpy",
+        "empty_count": 32
+      },
+      {
+        "file": "WarStrategyHinterlands.rpy",
+        "empty_count": 275
+      }
+    ],
+    "Other": [
+      {
+        "file": "AcceptCarolynInvitation.rpy",
+        "empty_count": 26
+      },
+      {
+        "file": "AcceptCassiusInvitation.rpy",
+        "empty_count": 15
+      },
+      {
+        "file": "AChoiceAtTheBridge.rpy",
+        "empty_count": 275
+      },
+      {
+        "file": "AdmitToRazaphel.rpy",
+        "empty_count": 11
+      },
+      {
+        "file": "AfterDrinksWithBelmontMage.rpy",
+        "empty_count": 187
+      },
+      {
+        "file": "AfterEpilogueBlackMonolithWarrior.rpy",
+        "empty_count": 201
+      },
+      {
+        "file": "AgreeToMaeivIndustry.rpy",
+        "empty_count": 67
+      },
+      {
+        "file": "AlaricComesInside.rpy",
+        "empty_count": 142
+      },
+      {
+        "file": "AlaricRunOrHide.rpy",
+        "empty_count": 97
+      },
+      {
+        "file": "AlfredPath.rpy",
+        "empty_count": 610
+      },
+      {
+        "file": "AlleywayChoice.rpy",
+        "empty_count": 4
+      },
+      {
+        "file": "AloneInTheCamp.rpy",
+        "empty_count": 76
+      },
+      {
+        "file": "AnswerKhanLibrary.rpy",
+        "empty_count": 113
+      },
+      {
+        "file": "AProposalFromMarion.rpy",
+        "empty_count": 75
+      },
+      {
+        "file": "ArrivingInAlGahaem.rpy",
+        "empty_count": 100
+      },
+      {
+        "file": "ArrivingInLethram.rpy",
+        "empty_count": 56
+      },
+      {
+        "file": "ASailorLifeOrElse.rpy",
+        "empty_count": 8
+      },
+      {
+        "file": "ASarahInTheParkWithGeorge1.rpy",
+        "empty_count": 1
+      },
+      {
+        "file": "AskAboutVaelen.rpy",
+        "empty_count": 111
+      },
+      {
+        "file": "AskCarolyAboutThomas.rpy",
+        "empty_count": 33
+      },
+      {
+        "file": "AskCarolynOrLily.rpy",
+        "empty_count": 25
+      },
+      {
+        "file": "AskingRazaphelQuestionsMage.rpy",
+        "empty_count": 32
+      },
+      {
+        "file": "AskingRazaphelQuestionsWarrior.rpy",
+        "empty_count": 24
+      },
+      {
+        "file": "AskKhanAboutTheStone.rpy",
+        "empty_count": 20
+      },
+      {
+        "file": "AskNaydeen.rpy",
+        "empty_count": 122
+      },
+      {
+        "file": "AskTailorForHelp.rpy",
+        "empty_count": 222
+      },
+      {
+        "file": "AThreatIsUttered.rpy",
+        "empty_count": 81
+      },
+      {
+        "file": "AtillaForeverOrNever.rpy",
+        "empty_count": 32
+      },
+      {
+        "file": "BattleOfRahayal.rpy",
+        "empty_count": 224
+      },
+      {
+        "file": "BegTheCaptainOneLastTime.rpy",
+        "empty_count": 280
+      },
+      {
+        "file": "belmontposttalkback.rpy",
+        "empty_count": 74
+      },
+      {
+        "file": "belmonttalkback.rpy",
+        "empty_count": 23
+      },
+      {
+        "file": "BeTaughtByNaydeen.rpy",
+        "empty_count": 29
+      },
+      {
+        "file": "BetrayOrStay.rpy",
+        "empty_count": 348
+      },
+      {
+        "file": "BetrayXanOrStay.rpy",
+        "empty_count": 20
+      },
+      {
+        "file": "BigOrSmall.rpy",
+        "empty_count": 40
+      },
+      {
+        "file": "BindToRazaphelMage.rpy",
+        "empty_count": 106
+      },
+      {
+        "file": "BindToRazaphelWarrior.rpy",
+        "empty_count": 66
+      },
+      {
+        "file": "BlackMonEpilogueCarolyn.rpy",
+        "empty_count": 58
+      },
+      {
+        "file": "BotanyFuck.rpy",
+        "empty_count": 198
+      },
+      {
+        "file": "BoyOrGirl.rpy",
+        "empty_count": 32
+      },
+      {
+        "file": "BreakThrough.rpy",
+        "empty_count": 250
+      },
+      {
+        "file": "CallInTheTroops.rpy",
+        "empty_count": 17
+      },
+      {
+        "file": "CallshureSiege.rpy",
+        "empty_count": 39
+      },
+      {
+        "file": "CallshureTribesAllOrOne.rpy",
+        "empty_count": 94
+      },
+      {
+        "file": "CallUponRazaphelWar1.rpy",
+        "empty_count": 62
+      },
+      {
+        "file": "CalshureFuckOrBribe.rpy",
+        "empty_count": 148
+      },
+      {
+        "file": "CalshureOrHinterlands.rpy",
+        "empty_count": 4
+      },
+      {
+        "file": "CampSlavePath.rpy",
+        "empty_count": 24
+      },
+      {
+        "file": "CampSlavePathOldSoldier.rpy",
+        "empty_count": 90
+      },
+      {
+        "file": "CampSlavePathOldSoldier2.rpy",
+        "empty_count": 85
+      },
+      {
+        "file": "CampSlavePathOldSoldier3.rpy",
+        "empty_count": 83
+      },
+      {
+        "file": "CampSlavePathOldSoldier3b.rpy",
+        "empty_count": 276
+      },
+      {
+        "file": "CampSlavePathOldSoldier4.rpy",
+        "empty_count": 13
+      },
+      {
+        "file": "ChooseHassarOrNo.rpy",
+        "empty_count": 31
+      },
+      {
+        "file": "ChooseThePath.rpy",
+        "empty_count": 22
+      },
+      {
+        "file": "ChoosingAMentor.rpy",
+        "empty_count": 17
+      },
+      {
+        "file": "CommmitToVargaPath.rpy",
+        "empty_count": 82
+      },
+      {
+        "file": "ConfessLoveToKate.rpy",
+        "empty_count": 31
+      },
+      {
+        "file": "ConfideInSigmund.rpy",
+        "empty_count": 38
+      },
+      {
+        "file": "ContinueGoblinEscape.rpy",
+        "empty_count": 15
+      },
+      {
+        "file": "ConvinceAlaric.rpy",
+        "empty_count": 11
+      },
+      {
+        "file": "ConvinceAlaricMore.rpy",
+        "empty_count": 94
+      },
+      {
+        "file": "ConvinceMaeiv.rpy",
+        "empty_count": 131
+      },
+      {
+        "file": "CoronationDay.rpy",
+        "empty_count": 52
+      },
+      {
+        "file": "CoronationWhoToSpeakTo.rpy",
+        "empty_count": 52
+      },
+      {
+        "file": "CrownKamal.rpy",
+        "empty_count": 61
+      },
+      {
+        "file": "DanceOrNoDance.rpy",
+        "empty_count": 28
+      },
+      {
+        "file": "DayOfTheFuneral.rpy",
+        "empty_count": 22
+      },
+      {
+        "file": "DealWithGarret.rpy",
+        "empty_count": 186
+      },
+      {
+        "file": "DecideSarahxKate2.rpy",
+        "empty_count": 75
+      },
+      {
+        "file": "DecidingWhoFights.rpy",
+        "empty_count": 6
+      },
+      {
+        "file": "DecisionsOutAtSea.rpy",
+        "empty_count": 22
+      },
+      {
+        "file": "DeclareIntentionsMage.rpy",
+        "empty_count": 23
+      },
+      {
+        "file": "Demonarc4.rpy",
+        "empty_count": 14
+      },
+      {
+        "file": "Demonarc5.rpy",
+        "empty_count": 156
+      },
+      {
+        "file": "DineWithCaptain.rpy",
+        "empty_count": 32
+      },
+      {
+        "file": "DineWithCaptainKeepDrinking.rpy",
+        "empty_count": 237
+      },
+      {
+        "file": "DrinksWithBelmontMage.rpy",
+        "empty_count": 68
+      },
+      {
+        "file": "DrinkWithMaeiv.rpy",
+        "empty_count": 3
+      },
+      {
+        "file": "DrinkWithMaeivMore.rpy",
+        "empty_count": 124
+      },
+      {
+        "file": "EndItAllOrLiveOn.rpy",
+        "empty_count": 160
+      },
+      {
+        "file": "EnterCalshure.rpy",
+        "empty_count": 157
+      },
+      {
+        "file": "EnterTheTunnels.rpy",
+        "empty_count": 35
+      },
+      {
+        "file": "EscapeVoid.rpy",
+        "empty_count": 8
+      },
+      {
+        "file": "EscapeVoid2.rpy",
+        "empty_count": 10
+      },
+      {
+        "file": "EscapeVoid3.rpy",
+        "empty_count": 15
+      },
+      {
+        "file": "EscapeWithGoblin.rpy",
+        "empty_count": 9
+      },
+      {
+        "file": "ExploreRidgehaven.rpy",
+        "empty_count": 195
+      },
+      {
+        "file": "FallOfLethram2.rpy",
+        "empty_count": 488
+      },
+      {
+        "file": "FightYourWayOut.rpy",
+        "empty_count": 49
+      },
+      {
+        "file": "FinalResistance.rpy",
+        "empty_count": 47
+      },
+      {
+        "file": "FirstNightInTent.rpy",
+        "empty_count": 10
+      },
+      {
+        "file": "FlirtJaeid.rpy",
+        "empty_count": 109
+      },
+      {
+        "file": "FollowOrLeave.rpy",
+        "empty_count": 14
+      },
+      {
+        "file": "FollowThevoice.rpy",
+        "empty_count": 220
+      },
+      {
+        "file": "FuckAlaric1.rpy",
+        "empty_count": 24
+      },
+      {
+        "file": "FuckAlaric1subchoice.rpy",
+        "empty_count": 187
+      },
+      {
+        "file": "GeneralPathBegins.rpy",
+        "empty_count": 12
+      },
+      {
+        "file": "GetSigmundDrunk.rpy",
+        "empty_count": 44
+      },
+      {
+        "file": "GileadsOffer.rpy",
+        "empty_count": 35
+      },
+      {
+        "file": "GiveLoanToBelmont.rpy",
+        "empty_count": 11
+      },
+      {
+        "file": "GiveRazaphelALittle.rpy",
+        "empty_count": 35
+      },
+      {
+        "file": "GiveTheMoney.rpy",
+        "empty_count": 13
+      },
+      {
+        "file": "GiveUpAntonion.rpy",
+        "empty_count": 46
+      },
+      {
+        "file": "GoDancingWithSamayra.rpy",
+        "empty_count": 186
+      },
+      {
+        "file": "GoForASecondBottle.rpy",
+        "empty_count": 192
+      },
+      {
+        "file": "GoLookOrStay.rpy",
+        "empty_count": 27
+      },
+      {
+        "file": "GoLookOrStay2.rpy",
+        "empty_count": 88
+      },
+      {
+        "file": "GoOutTonight.rpy",
+        "empty_count": 92
+      },
+      {
+        "file": "GoPrayLater.rpy",
+        "empty_count": 99
+      },
+      {
+        "file": "GoToRazaphel.rpy",
+        "empty_count": 23
+      },
+      {
+        "file": "GoToRazaphel2.rpy",
+        "empty_count": 86
+      },
+      {
+        "file": "GoWithGideonInDuneOrNo.rpy",
+        "empty_count": 21
+      },
+      {
+        "file": "GoWithKateInTheDunesOrNo.rpy",
+        "empty_count": 150
+      },
+      {
+        "file": "GoWithSigmund.rpy",
+        "empty_count": 101
+      },
+      {
+        "file": "GuessInk.rpy",
+        "empty_count": 38
+      },
+      {
+        "file": "HelpAlaricOut.rpy",
+        "empty_count": 14
+      },
+      {
+        "file": "HelpAlaricOutOfTrouble.rpy",
+        "empty_count": 165
+      },
+      {
+        "file": "HelpNickOrBetrayNick.rpy",
+        "empty_count": 58
+      },
+      {
+        "file": "HoldOrPutDownLily.rpy",
+        "empty_count": 23
+      },
+      {
+        "file": "HomeAloneApartment.rpy",
+        "empty_count": 19
+      },
+      {
+        "file": "HomeApartmentSamayra.rpy",
+        "empty_count": 101
+      },
+      {
+        "file": "HuntingTheBeast1.rpy",
+        "empty_count": 113
+      },
+      {
+        "file": "HuntingTheBeast2.rpy",
+        "empty_count": 27
+      },
+      {
+        "file": "HuntingTheBeast3.rpy",
+        "empty_count": 57
+      },
+      {
+        "file": "HuntingTheBeast4.rpy",
+        "empty_count": 103
+      },
+      {
+        "file": "HuntTheBeast.rpy",
+        "empty_count": 9
+      },
+      {
+        "file": "IgnoreOrMoveOn.rpy",
+        "empty_count": 7
+      },
+      {
+        "file": "ImpressOnCarolyn.rpy",
+        "empty_count": 101
+      },
+      {
+        "file": "ImproveDefenseYesOrNo.rpy",
+        "empty_count": 34
+      },
+      {
+        "file": "InterveneSlaveOrNotA.rpy",
+        "empty_count": 76
+      },
+      {
+        "file": "InterveneSlaveOrNotB.rpy",
+        "empty_count": 49
+      },
+      {
+        "file": "IntoThePool.rpy",
+        "empty_count": 84
+      },
+      {
+        "file": "InvestigateHassar.rpy",
+        "empty_count": 8
+      },
+      {
+        "file": "InvestigateSoundOrGoBackToBed.rpy",
+        "empty_count": 71
+      },
+      {
+        "file": "InviteKateInBagrad.rpy",
+        "empty_count": 82
+      },
+      {
+        "file": "InviteSamayraInNauyziri.rpy",
+        "empty_count": 33
+      },
+      {
+        "file": "InviteVargaIn.rpy",
+        "empty_count": 17
+      },
+      {
+        "file": "InviteVargaIn2.rpy",
+        "empty_count": 115
+      },
+      {
+        "file": "InvokeJaeidsName.rpy",
+        "empty_count": 91
+      },
+      {
+        "file": "JerkOffAlaricMage.rpy",
+        "empty_count": 157
+      },
+      {
+        "file": "JoinAndDance.rpy",
+        "empty_count": 50
+      },
+      {
+        "file": "JoinCarolynInBath.rpy",
+        "empty_count": 130
+      },
+      {
+        "file": "JoinGileadPlot.rpy",
+        "empty_count": 46
+      },
+      {
+        "file": "JoinSakarOnWalk.rpy",
+        "empty_count": 40
+      },
+      {
+        "file": "JustBeforeBattleOfRahayal.rpy",
+        "empty_count": 9
+      },
+      {
+        "file": "KeepLooking1.rpy",
+        "empty_count": 75
+      },
+      {
+        "file": "KillKateOrNot.rpy",
+        "empty_count": 31
+      },
+      {
+        "file": "KissLily.rpy",
+        "empty_count": 56
+      },
+      {
+        "file": "KissNickOrNot.rpy",
+        "empty_count": 83
+      },
+      {
+        "file": "LapOrNoLap.rpy",
+        "empty_count": 8
+      },
+      {
+        "file": "LapOrNoLap2.rpy",
+        "empty_count": 102
+      },
+      {
+        "file": "LastGoodbyeBelmont.rpy",
+        "empty_count": 77
+      },
+      {
+        "file": "LearnCampfireFromSakar.rpy",
+        "empty_count": 91
+      },
+      {
+        "file": "LetAlaricGo.rpy",
+        "empty_count": 13
+      },
+      {
+        "file": "LethramDecision.rpy",
+        "empty_count": 13
+      },
+      {
+        "file": "LetSamayraSleepWithYou.rpy",
+        "empty_count": 89
+      },
+      {
+        "file": "LetThomasSleep.rpy",
+        "empty_count": 6
+      },
+      {
+        "file": "LifeInRahayal1.rpy",
+        "empty_count": 138
+      },
+      {
+        "file": "LifeInRahayal2.rpy",
+        "empty_count": 96
+      },
+      {
+        "file": "LifeInRahayal3.rpy",
+        "empty_count": 100
+      },
+      {
+        "file": "LookOverKimNat.rpy",
+        "empty_count": 17
+      },
+      {
+        "file": "LoopDrinksWithBelmontMage.rpy",
+        "empty_count": 6
+      },
+      {
+        "file": "LoudOrSoftOnTheBoat.rpy",
+        "empty_count": 9
+      },
+      {
+        "file": "MagicalStudies.rpy",
+        "empty_count": 42
+      },
+      {
+        "file": "MakeFoodOutOnTheRoad.rpy",
+        "empty_count": 122
+      },
+      {
+        "file": "MariusMarriage.rpy",
+        "empty_count": 282
+      },
+      {
+        "file": "MariusPath.rpy",
+        "empty_count": 311
+      },
+      {
+        "file": "MarryMarionOrNo.rpy",
+        "empty_count": 21
+      },
+      {
+        "file": "MasqWithCassius.rpy",
+        "empty_count": 222
+      },
+      {
+        "file": "MasturbateBagrad.rpy",
+        "empty_count": 83
+      },
+      {
+        "file": "MeetingCalshure.rpy",
+        "empty_count": 88
+      },
+      {
+        "file": "MeetingKateInTheGarden.rpy",
+        "empty_count": 58
+      },
+      {
+        "file": "MeetingOnTheBattlements.rpy",
+        "empty_count": 43
+      },
+      {
+        "file": "MercenaryQueen1.rpy",
+        "empty_count": 1
+      },
+      {
+        "file": "MercyOrNo1.rpy",
+        "empty_count": 33
+      },
+      {
+        "file": "MercyOrNo1a.rpy",
+        "empty_count": 33
+      },
+      {
+        "file": "MythranArcWarrior1.rpy",
+        "empty_count": 95
+      },
+      {
+        "file": "MythranInvasion1.rpy",
+        "empty_count": 1
+      },
+      {
+        "file": "NegotiateDown.rpy",
+        "empty_count": 68
+      },
+      {
+        "file": "NeitherPath.rpy",
+        "empty_count": 72
+      },
+      {
+        "file": "NeitherPath2.rpy",
+        "empty_count": 45
+      },
+      {
+        "file": "NeitherPath3.rpy",
+        "empty_count": 12
+      },
+      {
+        "file": "NeitherPath4.rpy",
+        "empty_count": 77
+      },
+      {
+        "file": "NeitherPath5.rpy",
+        "empty_count": 35
+      },
+      {
+        "file": "NeitherPath6.rpy",
+        "empty_count": 121
+      },
+      {
+        "file": "NeitherPath7.rpy",
+        "empty_count": 82
+      },
+      {
+        "file": "oasisresolvelabel1.rpy",
+        "empty_count": 36
+      },
+      {
+        "file": "ObeySakarFinal.rpy",
+        "empty_count": 163
+      },
+      {
+        "file": "OffWithHisHeadOrNo.rpy",
+        "empty_count": 23
+      },
+      {
+        "file": "OliverCouncil.rpy",
+        "empty_count": 19
+      },
+      {
+        "file": "OutsideAndAlone.rpy",
+        "empty_count": 12
+      },
+      {
+        "file": "OutsideAndAlone2.rpy",
+        "empty_count": 40
+      },
+      {
+        "file": "OutsideAndAlone3.rpy",
+        "empty_count": 28
+      },
+      {
+        "file": "OutsideOfBagrad.rpy",
+        "empty_count": 134
+      },
+      {
+        "file": "PaintingALife.rpy",
+        "empty_count": 21
+      },
+      {
+        "file": "PledgeEdmondVote.rpy",
+        "empty_count": 13
+      },
+      {
+        "file": "PositionOnPoliticalRights.rpy",
+        "empty_count": 9
+      },
+      {
+        "file": "postEscapeLethramShip.rpy",
+        "empty_count": 284
+      },
+      {
+        "file": "PostRahayalApartmentNight.rpy",
+        "empty_count": 253
+      },
+      {
+        "file": "PrepareTheArmyOrNot.rpy",
+        "empty_count": 12
+      },
+      {
+        "file": "PressNicksIssue.rpy",
+        "empty_count": 325
+      },
+      {
+        "file": "PrisonPath1.rpy",
+        "empty_count": 234
+      },
+      {
+        "file": "PrisonPath2.rpy",
+        "empty_count": 31
+      },
+      {
+        "file": "PromoteEdmond.rpy",
+        "empty_count": 9
+      },
+      {
+        "file": "ProposeLeaderUnion.rpy",
+        "empty_count": 47
+      },
+      {
+        "file": "PunishKateRidgehaven.rpy",
+        "empty_count": 36
+      },
+      {
+        "file": "PunishPeasantGirlOrNot.rpy",
+        "empty_count": 271
+      },
+      {
+        "file": "PunishTheYoungMan.rpy",
+        "empty_count": 59
+      },
+      {
+        "file": "PushTransmogrification.rpy",
+        "empty_count": 87
+      },
+      {
+        "file": "RahayalApartmentNight.rpy",
+        "empty_count": 4
+      },
+      {
+        "file": "ReactionSarahKimNat.rpy",
+        "empty_count": 101
+      },
+      {
+        "file": "resistdaemonnochoice.rpy",
+        "empty_count": 239
+      },
+      {
+        "file": "RetireOrStayWithLily.rpy",
+        "empty_count": 41
+      },
+      {
+        "file": "RunForIt.rpy",
+        "empty_count": 35
+      },
+      {
+        "file": "RunFromGallowscreek.rpy",
+        "empty_count": 159
+      },
+      {
+        "file": "SarahAndNick1.rpy",
+        "empty_count": 99
+      },
+      {
+        "file": "SarahAndSamayraFuckRazaphel.rpy",
+        "empty_count": 120
+      },
+      {
+        "file": "SarahAndThomasSpeak.rpy",
+        "empty_count": 39
+      },
+      {
+        "file": "SarahBelmontFollowup.rpy",
+        "empty_count": 15
+      },
+      {
+        "file": "SarahExploresLethramHarbor1.rpy",
+        "empty_count": 1
+      },
+      {
+        "file": "SarahFightsVaelen.rpy",
+        "empty_count": 331
+      },
+      {
+        "file": "SarahFucksSamayra1.rpy",
+        "empty_count": 180
+      },
+      {
+        "file": "SarahLeavesLethram1.rpy",
+        "empty_count": 189
+      },
+      {
+        "file": "SarahMeetsVaelen.rpy",
+        "empty_count": 45
+      },
+      {
+        "file": "SarahSamayraBathhouse.rpy",
+        "empty_count": 115
+      },
+      {
+        "file": "SarahSamayraRuins.rpy",
+        "empty_count": 501
+      },
+      {
+        "file": "SarahsBedroomAfterFuneral.rpy",
+        "empty_count": 31
+      },
+      {
+        "file": "SarahxEphraimxCaleb1.rpy",
+        "empty_count": 11
+      },
+      {
+        "file": "SarahxEphraimxCaleb1GoForIt.rpy",
+        "empty_count": 71
+      },
+      {
+        "file": "SarahxKateFirstTime.rpy",
+        "empty_count": 86
+      },
+      {
+        "file": "SaveSamayra.rpy",
+        "empty_count": 78
+      },
+      {
+        "file": "SaveSamayraBagradSoldier.rpy",
+        "empty_count": 97
+      },
+      {
+        "file": "SaveThomasOrNot.rpy",
+        "empty_count": 5
+      },
+      {
+        "file": "SaveThomasOrNot2.rpy",
+        "empty_count": 65
+      },
+      {
+        "file": "SaveThomasOrNot2b.rpy",
+        "empty_count": 66
+      },
+      {
+        "file": "SaveThomasOrNotb.rpy",
+        "empty_count": 5
+      },
+      {
+        "file": "ScoutAroundCalshure.rpy",
+        "empty_count": 179
+      },
+      {
+        "file": "ScreamOutOrHoldItIn.rpy",
+        "empty_count": 93
+      },
+      {
+        "file": "SecondPartOfFuneral.rpy",
+        "empty_count": 30
+      },
+      {
+        "file": "SendKateAwayHinterlands.rpy",
+        "empty_count": 69
+      },
+      {
+        "file": "ServantOfGilead1.rpy",
+        "empty_count": 97
+      },
+      {
+        "file": "ServantOfGilead2.rpy",
+        "empty_count": 78
+      },
+      {
+        "file": "SexSoldierBagradSamayra.rpy",
+        "empty_count": 155
+      },
+      {
+        "file": "SexWithEulaFirst.rpy",
+        "empty_count": 48
+      },
+      {
+        "file": "ShareDrinkWithalaric.rpy",
+        "empty_count": 19
+      },
+      {
+        "file": "ShowerWithKate.rpy",
+        "empty_count": 223
+      },
+      {
+        "file": "ShowOffForAntonio.rpy",
+        "empty_count": 105
+      },
+      {
+        "file": "ShowOffForAntonioSeperate.rpy",
+        "empty_count": 130
+      },
+      {
+        "file": "SingOrNot.rpy",
+        "empty_count": 368
+      },
+      {
+        "file": "SleepBedDalia.rpy",
+        "empty_count": 36
+      },
+      {
+        "file": "SleepWithAlaricMage.rpy",
+        "empty_count": 167
+      },
+      {
+        "file": "SleepWithGarret1.rpy",
+        "empty_count": 82
+      },
+      {
+        "file": "SleepWithHecGab.rpy",
+        "empty_count": 88
+      },
+      {
+        "file": "SleepWithJaeid.rpy",
+        "empty_count": 143
+      },
+      {
+        "file": "SleepWithKateNauyziri.rpy",
+        "empty_count": 128
+      },
+      {
+        "file": "SleepWithRandomBagrad.rpy",
+        "empty_count": 537
+      },
+      {
+        "file": "SleepWithSophia.rpy",
+        "empty_count": 23
+      },
+      {
+        "file": "SnapAtGideon.rpy",
+        "empty_count": 102
+      },
+      {
+        "file": "SneakAwayWithLily.rpy",
+        "empty_count": 241
+      },
+      {
+        "file": "SoldierDealWithBelmont.rpy",
+        "empty_count": 185
+      },
+      {
+        "file": "SoldierFateStone.rpy",
+        "empty_count": 83
+      },
+      {
+        "file": "SoloSleepRazaphelLibrary.rpy",
+        "empty_count": 94
+      },
+      {
+        "file": "SparringKate.rpy",
+        "empty_count": 78
+      },
+      {
+        "file": "SpendDayMage.rpy",
+        "empty_count": 385
+      },
+      {
+        "file": "SpyCaliban.rpy",
+        "empty_count": 5
+      },
+      {
+        "file": "SpyOnCaliban1.rpy",
+        "empty_count": 4
+      },
+      {
+        "file": "StandUpToMarion.rpy",
+        "empty_count": 148
+      },
+      {
+        "file": "StayAndWatchSakar.rpy",
+        "empty_count": 25
+      },
+      {
+        "file": "StayASlaveOrRun.rpy",
+        "empty_count": 163
+      },
+      {
+        "file": "StopArthur.rpy",
+        "empty_count": 213
+      },
+      {
+        "file": "StopGoblinPoison.rpy",
+        "empty_count": 4
+      },
+      {
+        "file": "StripForCarolyn.rpy",
+        "empty_count": 149
+      },
+      {
+        "file": "StripForSakar.rpy",
+        "empty_count": 16
+      },
+      {
+        "file": "StripFullTailor.rpy",
+        "empty_count": 229
+      },
+      {
+        "file": "SubmitToMarion.rpy",
+        "empty_count": 65
+      },
+      {
+        "file": "SubmitToMaster.rpy",
+        "empty_count": 68
+      },
+      {
+        "file": "SubmitToTheKhanFirst.rpy",
+        "empty_count": 120
+      },
+      {
+        "file": "SwimWithSophia.rpy",
+        "empty_count": 47
+      },
+      {
+        "file": "TailorRoute1.rpy",
+        "empty_count": 211
+      },
+      {
+        "file": "TakeChargeGideon.rpy",
+        "empty_count": 174
+      },
+      {
+        "file": "TakeKhansHand.rpy",
+        "empty_count": 28
+      },
+      {
+        "file": "TakeOffArmorBeast.rpy",
+        "empty_count": 29
+      },
+      {
+        "file": "TakeTheBetOrLeave.rpy",
+        "empty_count": 86
+      },
+      {
+        "file": "TellEphraimWhatToDo.rpy",
+        "empty_count": 30
+      },
+      {
+        "file": "TellGarretOfThomas.rpy",
+        "empty_count": 14
+      },
+      {
+        "file": "TellJaeidOfTheMarket.rpy",
+        "empty_count": 111
+      },
+      {
+        "file": "TellKim.rpy",
+        "empty_count": 115
+      },
+      {
+        "file": "TellMariusTruth.rpy",
+        "empty_count": 66
+      },
+      {
+        "file": "TellOnAlfred.rpy",
+        "empty_count": 290
+      },
+      {
+        "file": "TellSakarWhereFrom.rpy",
+        "empty_count": 41
+      },
+      {
+        "file": "TellSamayraAboutThomas.rpy",
+        "empty_count": 70
+      },
+      {
+        "file": "TestifyOrNot.rpy",
+        "empty_count": 4
+      },
+      {
+        "file": "TheBattleForTheCapital.rpy",
+        "empty_count": 95
+      },
+      {
+        "file": "TheExam.rpy",
+        "empty_count": 168
+      },
+      {
+        "file": "TheInsidePathBegins.rpy",
+        "empty_count": 13
+      },
+      {
+        "file": "TheMorningAfterKate.rpy",
+        "empty_count": 109
+      },
+      {
+        "file": "TheOldRoad1.rpy",
+        "empty_count": 42
+      },
+      {
+        "file": "TheOldRoad2.rpy",
+        "empty_count": 120
+      },
+      {
+        "file": "TheOldRoad3.rpy",
+        "empty_count": 75
+      },
+      {
+        "file": "TheOldRoad4.rpy",
+        "empty_count": 89
+      },
+      {
+        "file": "TheOldRoad5.rpy",
+        "empty_count": 293
+      },
+      {
+        "file": "TheOldRoad6.rpy",
+        "empty_count": 90
+      },
+      {
+        "file": "TheOutsidePathBegins.rpy",
+        "empty_count": 42
+      },
+      {
+        "file": "TheWarIsLost.rpy",
+        "empty_count": 69
+      },
+      {
+        "file": "TheWarIsWon.rpy",
+        "empty_count": 67
+      },
+      {
+        "file": "ThreesomeDesert.rpy",
+        "empty_count": 130
+      },
+      {
+        "file": "ThreesomeInBagrad.rpy",
+        "empty_count": 84
+      },
+      {
+        "file": "ToastMaeiv.rpy",
+        "empty_count": 13
+      },
+      {
+        "file": "TrainingPathAtilla.rpy",
+        "empty_count": 145
+      },
+      {
+        "file": "TrainingPathAtilla2.rpy",
+        "empty_count": 194
+      },
+      {
+        "file": "TrainingPathAtilla3.rpy",
+        "empty_count": 169
+      },
+      {
+        "file": "TrainingPathAtilla4.rpy",
+        "empty_count": 98
+      },
+      {
+        "file": "TrainingPathCaleb.rpy",
+        "empty_count": 48
+      },
+      {
+        "file": "TrainingPathCaleb2.rpy",
+        "empty_count": 46
+      },
+      {
+        "file": "TrainingPathCaleb3.rpy",
+        "empty_count": 127
+      },
+      {
+        "file": "TrainingPathKate.rpy",
+        "empty_count": 98
+      },
+      {
+        "file": "TrainingPathKate2.rpy",
+        "empty_count": 62
+      },
+      {
+        "file": "TrainingPathKate3.rpy",
+        "empty_count": 90
+      },
+      {
+        "file": "TransmogSamayra.rpy",
+        "empty_count": 212
+      },
+      {
+        "file": "TrustRazaphelCasual.rpy",
+        "empty_count": 118
+      },
+      {
+        "file": "TruthAndLieGideon.rpy",
+        "empty_count": 13
+      },
+      {
+        "file": "TruthAndLieGideonSarahsTurn.rpy",
+        "empty_count": 32
+      },
+      {
+        "file": "TurnAroundAndSee.rpy",
+        "empty_count": 27
+      },
+      {
+        "file": "TyrantPath1.rpy",
+        "empty_count": 10
+      },
+      {
+        "file": "UnderworldPath.rpy",
+        "empty_count": 153
+      },
+      {
+        "file": "UnderworldPath2.rpy",
+        "empty_count": 19
+      },
+      {
+        "file": "UnderworldPath3.rpy",
+        "empty_count": 218
+      },
+      {
+        "file": "UnderworldPath4.rpy",
+        "empty_count": 9
+      },
+      {
+        "file": "UnifyTheArmies.rpy",
+        "empty_count": 6
+      },
+      {
+        "file": "UnmarriedGallowCreek.rpy",
+        "empty_count": 64
+      },
+      {
+        "file": "VerdictInTheHinterlands.rpy",
+        "empty_count": 127
+      },
+      {
+        "file": "WalkInTheMoonlight.rpy",
+        "empty_count": 18
+      },
+      {
+        "file": "WalkWithSakar.rpy",
+        "empty_count": 18
+      },
+      {
+        "file": "WalkWithSakarPressTheIssue.rpy",
+        "empty_count": 167
+      },
+      {
+        "file": "WanderingTheCamp.rpy",
+        "empty_count": 73
+      },
+      {
+        "file": "WearTheDress.rpy",
+        "empty_count": 339
+      },
+      {
+        "file": "WhatToDoInRahayal.rpy",
+        "empty_count": 6
+      },
+      {
+        "file": "WhomToSpeakToPostBattle.rpy",
+        "empty_count": 21
+      },
+      {
+        "file": "WhoToSpeakToDesertMiracle.rpy",
+        "empty_count": 25
+      },
+      {
+        "file": "WorkForGilead.rpy",
+        "empty_count": 7
+      },
+      {
+        "file": "WorkForTailor.rpy",
+        "empty_count": 5
+      }
+    ],
+    "Relationships": [
+      {
+        "file": "CassiusFightsVaelen.rpy",
+        "empty_count": 136
+      },
+      {
+        "file": "KateExplainsHerself.rpy",
+        "empty_count": 27
+      },
+      {
+        "file": "NickIsNotAMan.rpy",
+        "empty_count": 91
+      }
+    ],
+    "SailorPath": [
+      {
+        "file": "CallOutOrNotOnBoat.rpy",
+        "empty_count": 50
+      },
+      {
+        "file": "EscapeLethramShip.rpy",
+        "empty_count": 317
+      },
+      {
+        "file": "NoMoneyWhatNow.rpy",
+        "empty_count": 57
+      },
+      {
+        "file": "SailorPath1.rpy",
+        "empty_count": 195
+      },
+      {
+        "file": "SailorPath10.rpy",
+        "empty_count": 273
+      },
+      {
+        "file": "SailorPath2.rpy",
+        "empty_count": 224
+      },
+      {
+        "file": "SailorPath2addendum.rpy",
+        "empty_count": 138
+      },
+      {
+        "file": "SailorPath3.rpy",
+        "empty_count": 114
+      },
+      {
+        "file": "SailorPath4.rpy",
+        "empty_count": 184
+      },
+      {
+        "file": "SailorPath5.rpy",
+        "empty_count": 248
+      },
+      {
+        "file": "SailorPath6.rpy",
+        "empty_count": 68
+      },
+      {
+        "file": "SailorPath7.rpy",
+        "empty_count": 53
+      },
+      {
+        "file": "SailorPath8.rpy",
+        "empty_count": 103
+      },
+      {
+        "file": "SailorPath9.rpy",
+        "empty_count": 243
+      }
+    ],
+    "SakarPath": [
+      {
+        "file": "Sakar1.rpy",
+        "empty_count": 1
+      }
+    ],
+    "UnionKingdom": [
+      {
+        "file": "UnionCouncilLoop9.rpy",
+        "empty_count": 33
+      },
+      {
+        "file": "UnionCouncilLoopMenu2.rpy",
+        "empty_count": 27
+      },
+      {
+        "file": "UnionCouncilLoopMenu3.rpy",
+        "empty_count": 14
+      },
+      {
+        "file": "UnionKingdom1.rpy",
+        "empty_count": 15
+      },
+      {
+        "file": "UnionKingdom10.rpy",
+        "empty_count": 17
+      },
+      {
+        "file": "UnionKingdom11.rpy",
+        "empty_count": 60
+      },
+      {
+        "file": "UnionKingdom12CouncilRule.rpy",
+        "empty_count": 24
+      },
+      {
+        "file": "UnionKingdom12SupportAnother.rpy",
+        "empty_count": 14
+      },
+      {
+        "file": "UnionKingdom13.rpy",
+        "empty_count": 37
+      },
+      {
+        "file": "UnionKingdom6.rpy",
+        "empty_count": 284
+      },
+      {
+        "file": "UnionKingdom7.rpy",
+        "empty_count": 165
+      },
+      {
+        "file": "UnionKingdom8.rpy",
+        "empty_count": 101
+      },
+      {
+        "file": "UnionKingdom9.rpy",
+        "empty_count": 58
+      },
+      {
+        "file": "UnionKingdom9intermezzo1.rpy",
+        "empty_count": 20
+      },
+      {
+        "file": "UnionKingdom9intermezzo2.rpy",
+        "empty_count": 93
+      },
+      {
+        "file": "UnionKingdom9intermezzo3.rpy",
+        "empty_count": 78
+      },
+      {
+        "file": "UnionKingdomLoop.rpy",
+        "empty_count": 53
+      },
+      {
+        "file": "UnionLeaderPosition.rpy",
+        "empty_count": 14
+      },
+      {
+        "file": "UnionLoop.rpy",
+        "empty_count": 4
+      },
+      {
+        "file": "UnionLoop2.rpy",
+        "empty_count": 4
+      },
+      {
+        "file": "UnionLoop3.rpy",
+        "empty_count": 1
+      }
+    ],
+    "WarriorPath": [
+      {
+        "file": "GallowCreek1.rpy",
+        "empty_count": 221
+      },
+      {
+        "file": "HyralEndingNick.rpy",
+        "empty_count": 148
+      },
+      {
+        "file": "HyralGoblin.rpy",
+        "empty_count": 38
+      },
+      {
+        "file": "HyralGoblin2.rpy",
+        "empty_count": 323
+      },
+      {
+        "file": "HyralOrc.rpy",
+        "empty_count": 372
+      },
+      {
+        "file": "HyralOrc2.rpy",
+        "empty_count": 208
+      },
+      {
+        "file": "HyralTown.rpy",
+        "empty_count": 128
+      },
+      {
+        "file": "WarriorPath1.rpy",
+        "empty_count": 237
+      },
+      {
+        "file": "WarriorPath2.rpy",
+        "empty_count": 6
+      },
+      {
+        "file": "WarriorPath3.rpy",
+        "empty_count": 171
+      },
+      {
+        "file": "WarriorPath4.rpy",
+        "empty_count": 37
+      },
+      {
+        "file": "WarriorPath5.rpy",
+        "empty_count": 124
+      },
+      {
+        "file": "WarriorQueen1.rpy",
+        "empty_count": 184
+      },
+      {
+        "file": "WarriorQueen2.rpy",
+        "empty_count": 45
+      },
+      {
+        "file": "WarriorQueen3.rpy",
+        "empty_count": 119
+      },
+      {
+        "file": "WarriorQueen4ridgehaven.rpy",
+        "empty_count": 81
+      },
+      {
+        "file": "WarriorQueen5.rpy",
+        "empty_count": 354
+      },
+      {
+        "file": "WarriorQueen6Calshure.rpy",
+        "empty_count": 76
+      },
+      {
+        "file": "WarriorQueen6Hinterlands.rpy",
+        "empty_count": 109
+      },
+      {
+        "file": "WarriorQueen7Calshure.rpy",
+        "empty_count": 96
+      },
+      {
+        "file": "WarriorQueen7Capital.rpy",
+        "empty_count": 851
+      },
+      {
+        "file": "WarriorQueen7Hinterlands.rpy",
+        "empty_count": 28
+      },
+      {
+        "file": "WarriorRahayal1.rpy",
+        "empty_count": 200
+      },
+      {
+        "file": "WarriorRahayal2.rpy",
+        "empty_count": 101
+      },
+      {
+        "file": "WarriorRahayal3.rpy",
+        "empty_count": 129
+      },
+      {
+        "file": "WarriorRahayalEvening.rpy",
+        "empty_count": 530
+      }
+    ]
+  }
+}

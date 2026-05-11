@@ -1,0 +1,15 @@
+{
+  "archives": {
+    "Prologue": {
+      "count": 3,
+      "scenes": [
+        "OpeningScene",
+        "OpeningSceneFirstMorning",
+        "start"
+      ]
+    }
+  },
+  "total_scenes": 4,
+  "total_lines": 19,
+  "source_lines": 25
+}
