@@ -11,7 +11,7 @@ translate ru CassiusFightsVaelen_bb0b090f:
 # CassiusFightsVaelen_11aff26c (line 48625)
 translate ru CassiusFightsVaelen_11aff26c:
     # s "I am still wounded from my fall."
-    s ""
+    s "I am still wounded from my fall."
 
 # CassiusFightsVaelen_6721d466 (line 48626)
 translate ru CassiusFightsVaelen_6721d466:
@@ -21,7 +21,7 @@ translate ru CassiusFightsVaelen_6721d466:
 # CassiusFightsVaelen_070254a6 (line 48627)
 translate ru CassiusFightsVaelen_070254a6:
     # cas "I can see this."
-    cas ""
+    cas "I can see this."
 
 # CassiusFightsVaelen_30fe0a56 (line 48628)
 translate ru CassiusFightsVaelen_30fe0a56:
@@ -31,7 +31,7 @@ translate ru CassiusFightsVaelen_30fe0a56:
 # CassiusFightsVaelen_fa168d8f (line 48629)
 translate ru CassiusFightsVaelen_fa168d8f:
     # s "I don't have it yet. The contract."
-    s ""
+    s "I don't have it yet. The contract."
 
 # CassiusFightsVaelen_1e8581f2 (line 48630)
 translate ru CassiusFightsVaelen_1e8581f2:
@@ -41,7 +41,7 @@ translate ru CassiusFightsVaelen_1e8581f2:
 # CassiusFightsVaelen_941dfc69 (line 48631)
 translate ru CassiusFightsVaelen_941dfc69:
     # cas "But you will. Soon."
-    cas ""
+    cas "But you will. Soon."
 
 # CassiusFightsVaelen_e7aea7a5 (line 48632)
 translate ru CassiusFightsVaelen_e7aea7a5:
@@ -51,12 +51,12 @@ translate ru CassiusFightsVaelen_e7aea7a5:
 # CassiusFightsVaelen_83bfbb25 (line 48633)
 translate ru CassiusFightsVaelen_83bfbb25:
     # s "But I cannot undo the contract now."
-    s ""
+    s "But I cannot undo the contract now."
 
 # CassiusFightsVaelen_17e2b60b (line 48634)
 translate ru CassiusFightsVaelen_17e2b60b:
     # cas "Your word will be enough for me, should you give it."
-    cas ""
+    cas "Your word will be enough for me, should you give it."
 
 # CassiusFightsVaelen_e37a27f1 (line 48635)
 translate ru CassiusFightsVaelen_e37a27f1:
@@ -71,7 +71,7 @@ translate ru CassiusFightsVaelen_38fddde8:
 # CassiusFightsVaelen_1ec93806 (line 48637)
 translate ru CassiusFightsVaelen_1ec93806:
     # s "I give you more word."
-    s ""
+    s "I give you more word."
 
 # CassiusFightsVaelen_934c7661 (line 48638)
 translate ru CassiusFightsVaelen_934c7661:
@@ -81,12 +81,12 @@ translate ru CassiusFightsVaelen_934c7661:
 # CassiusFightsVaelen_05699f3b (line 48639)
 translate ru CassiusFightsVaelen_05699f3b:
     # cas "Then I will be your champion."
-    cas ""
+    cas "Then I will be your champion."
 
 # CassiusFightsVaelen_83fbf232 (line 48640)
 translate ru CassiusFightsVaelen_83fbf232:
     # s "Cassius...thank you."
-    s ""
+    s "Cassius...thank you."
 
 # CassiusFightsVaelen_02ab5214 (line 48641)
 translate ru CassiusFightsVaelen_02ab5214:
@@ -96,12 +96,12 @@ translate ru CassiusFightsVaelen_02ab5214:
 # CassiusFightsVaelen_9bed83bf (line 48642)
 translate ru CassiusFightsVaelen_9bed83bf:
     # s "I have fought besides him for years. He's a skilled fighter, but not without his flaws."
-    s ""
+    s "I have fought besides him for years. He's a skilled fighter, but not without his flaws."
 
 # CassiusFightsVaelen_a7524f6f (line 48643)
 translate ru CassiusFightsVaelen_a7524f6f:
     # s "A possible weakness you could exploit is-"
-    s ""
+    s "A possible weakness you could exploit is-"
 
 # CassiusFightsVaelen_c920909d (line 48644)
 translate ru CassiusFightsVaelen_c920909d:
@@ -111,7 +111,7 @@ translate ru CassiusFightsVaelen_c920909d:
 # CassiusFightsVaelen_c420d42b (line 48645)
 translate ru CassiusFightsVaelen_c420d42b:
     # cas "Your counsel is appreciated, Sarah, but I will not have need of it."
-    cas ""
+    cas "Your counsel is appreciated, Sarah, but I will not have need of it."
 
 # CassiusFightsVaelen_860f1a26 (line 48646)
 translate ru CassiusFightsVaelen_860f1a26:
@@ -131,7 +131,7 @@ translate ru CassiusFightsVaelen_68e7991a:
 # CassiusFightsVaelen_33c9c90e (line 48651)
 translate ru CassiusFightsVaelen_33c9c90e:
     # s "Will your brother be alright?"
-    s ""
+    s "Will your brother be alright?"
 
 # CassiusFightsVaelen_0b74dcec (line 48652)
 translate ru CassiusFightsVaelen_0b74dcec:
@@ -141,7 +141,7 @@ translate ru CassiusFightsVaelen_0b74dcec:
 # CassiusFightsVaelen_c750cab1 (line 48653)
 translate ru CassiusFightsVaelen_c750cab1:
     # dio "I have worried on occasion for him. I do not worry now."
-    dio ""
+    dio "I have worried on occasion for him. I do not worry now."
 
 # CassiusFightsVaelen_4db22439 (line 48654)
 translate ru CassiusFightsVaelen_4db22439:
@@ -156,12 +156,12 @@ translate ru CassiusFightsVaelen_269705f2:
 # CassiusFightsVaelen_747a5bdd (line 48664)
 translate ru CassiusFightsVaelen_747a5bdd:
     # vae "This is what you send in your place, Sarah? A slave?"
-    vae ""
+    vae "This is what you send in your place, Sarah? A slave?"
 
 # CassiusFightsVaelen_41c6ca19 (line 48665)
 translate ru CassiusFightsVaelen_41c6ca19:
     # vae "You truly have no honour."
-    vae ""
+    vae "You truly have no honour."
 
 # CassiusFightsVaelen_27a1c87e (line 48666)
 translate ru CassiusFightsVaelen_27a1c87e:
@@ -171,7 +171,7 @@ translate ru CassiusFightsVaelen_27a1c87e:
 # CassiusFightsVaelen_971f3310 (line 48667)
 translate ru CassiusFightsVaelen_971f3310:
     # cas "You may call you Cassius, and I will serve as her champion, for she is too wounded to fight."
-    cas ""
+    cas "You may call you Cassius, and I will serve as her champion, for she is too wounded to fight."
 
 # CassiusFightsVaelen_93ecc92f (line 48668)
 translate ru CassiusFightsVaelen_93ecc92f:
@@ -181,12 +181,12 @@ translate ru CassiusFightsVaelen_93ecc92f:
 # CassiusFightsVaelen_33e583da (line 48669)
 translate ru CassiusFightsVaelen_33e583da:
     # vae "Lies."
-    vae ""
+    vae "Lies."
 
 # CassiusFightsVaelen_33fec521 (line 48670)
 translate ru CassiusFightsVaelen_33fec521:
     # vae "She's a coward. And as for you...I'll call you whatever I want, slave."
-    vae ""
+    vae "She's a coward. And as for you...I'll call you whatever I want, slave."
 
 # CassiusFightsVaelen_2c54e723 (line 48671)
 translate ru CassiusFightsVaelen_2c54e723:
@@ -196,7 +196,7 @@ translate ru CassiusFightsVaelen_2c54e723:
 # CassiusFightsVaelen_c50d7d90 (line 48672)
 translate ru CassiusFightsVaelen_c50d7d90:
     # cas "You will call me Cassius, before this is over."
-    cas ""
+    cas "You will call me Cassius, before this is over."
 
 # CassiusFightsVaelen_a894d1e1 (line 48673)
 translate ru CassiusFightsVaelen_a894d1e1:
@@ -206,7 +206,7 @@ translate ru CassiusFightsVaelen_a894d1e1:
 # CassiusFightsVaelen_aa8e4d47 (line 48674)
 translate ru CassiusFightsVaelen_aa8e4d47:
     # vae "Let us settle this!"
-    vae ""
+    vae "Let us settle this!"
 
 # CassiusFightsVaelen_a4001c29 (line 48675)
 translate ru CassiusFightsVaelen_a4001c29:
@@ -216,22 +216,22 @@ translate ru CassiusFightsVaelen_a4001c29:
 # CassiusFightsVaelen_881f2b01 (line 48676)
 translate ru CassiusFightsVaelen_881f2b01:
     # vae "Let all who bear witness today, know that this creature has been selected as Sarah Rose's champion."
-    vae ""
+    vae "Let all who bear witness today, know that this creature has been selected as Sarah Rose's champion."
 
 # CassiusFightsVaelen_0c9b388d (line 48677)
 translate ru CassiusFightsVaelen_0c9b388d:
     # vae "And let it be known that when I break him, and I will break him, this matter will be settled in my favor."
-    vae ""
+    vae "And let it be known that when I break him, and I will break him, this matter will be settled in my favor."
 
 # CassiusFightsVaelen_e159ad73 (line 48678)
 translate ru CassiusFightsVaelen_e159ad73:
     # vae "As for Sarah herself, her fate will be exile."
-    vae ""
+    vae "As for Sarah herself, her fate will be exile."
 
 # CassiusFightsVaelen_d68d22cd (line 48679)
 translate ru CassiusFightsVaelen_d68d22cd:
     # vae "Let her wander the earth as lost as the day I first found her. Stripped of all title or recognition. Nobody."
-    vae ""
+    vae "Let her wander the earth as lost as the day I first found her. Stripped of all title or recognition. Nobody."
 
 # CassiusFightsVaelen_aabef871 (line 48680)
 translate ru CassiusFightsVaelen_aabef871:
@@ -241,7 +241,7 @@ translate ru CassiusFightsVaelen_aabef871:
 # CassiusFightsVaelen_8580a2f8 (line 48681)
 translate ru CassiusFightsVaelen_8580a2f8:
     # vae "Any last words, slave?"
-    vae ""
+    vae "Any last words, slave?"
 
 # CassiusFightsVaelen_63abfa94 (line 48682)
 translate ru CassiusFightsVaelen_63abfa94:
@@ -256,7 +256,7 @@ translate ru CassiusFightsVaelen_5cbaf090:
 # CassiusFightsVaelen_37b852e2 (line 48684)
 translate ru CassiusFightsVaelen_37b852e2:
     # cas "I am a simple man. A slave, as some may call me."
-    cas ""
+    cas "I am a simple man. A slave, as some may call me."
 
 # CassiusFightsVaelen_c9b8b938 (line 48685)
 translate ru CassiusFightsVaelen_c9b8b938:
@@ -266,22 +266,22 @@ translate ru CassiusFightsVaelen_c9b8b938:
 # CassiusFightsVaelen_06857d45 (line 48686)
 translate ru CassiusFightsVaelen_06857d45:
     # cas "So I will not bore you with a speech."
-    cas ""
+    cas "So I will not bore you with a speech."
 
 # CassiusFightsVaelen_031426fe (line 48687)
 translate ru CassiusFightsVaelen_031426fe:
     # cas "Let it only be known that whatever honor I claim here today, I give in tribute to Sarah Rose."
-    cas ""
+    cas "Let it only be known that whatever honor I claim here today, I give in tribute to Sarah Rose."
 
 # CassiusFightsVaelen_6c5019b2 (line 48688)
 translate ru CassiusFightsVaelen_6c5019b2:
     # cas "I do not know all of you, but even in these few days I have learned how you have suffered under this man's foolishness."
-    cas ""
+    cas "I do not know all of you, but even in these few days I have learned how you have suffered under this man's foolishness."
 
 # CassiusFightsVaelen_08be771f (line 48689)
 translate ru CassiusFightsVaelen_08be771f:
     # cas "It will be my pleasure to be not only Sarah's champion, but the people's champion as well."
-    cas ""
+    cas "It will be my pleasure to be not only Sarah's champion, but the people's champion as well."
 
 # CassiusFightsVaelen_e307038e (line 48690)
 translate ru CassiusFightsVaelen_e307038e:
@@ -376,12 +376,12 @@ translate ru CassiusFightsVaelen_3cf3ca87:
 # CassiusFightsVaelen_f5c62435 (line 48713)
 translate ru CassiusFightsVaelen_f5c62435:
     # s "He...dodged it?"
-    s ""
+    s "He...dodged it?"
 
 # CassiusFightsVaelen_96a0ae2e (line 48714)
 translate ru CassiusFightsVaelen_96a0ae2e:
     # dio "I envy you, to watch Cassisu fight for the first time is always a delight."
-    dio ""
+    dio "I envy you, to watch Cassisu fight for the first time is always a delight."
 
 # CassiusFightsVaelen_1737c93e (line 48715)
 translate ru CassiusFightsVaelen_1737c93e:
@@ -531,7 +531,7 @@ translate ru CassiusFightsVaelen_0f095561:
 # CassiusFightsVaelen_6303d078 (line 48749)
 translate ru CassiusFightsVaelen_6303d078:
     # cas "So, do you yield?"
-    cas ""
+    cas "So, do you yield?"
 
 # CassiusFightsVaelen_4da00a1f (line 48750)
 translate ru CassiusFightsVaelen_4da00a1f:
@@ -546,7 +546,7 @@ translate ru CassiusFightsVaelen_a644ecdc:
 # CassiusFightsVaelen_4e3230e1 (line 48752)
 translate ru CassiusFightsVaelen_4e3230e1:
     # cas "Did any of you get that?"
-    cas ""
+    cas "Did any of you get that?"
 
 # CassiusFightsVaelen_f2079e0d (line 48753)
 translate ru CassiusFightsVaelen_f2079e0d:
@@ -591,17 +591,17 @@ translate ru CassiusFightsVaelen_b46dd516:
 # CassiusFightsVaelen_213b7612 (line 48761)
 translate ru CassiusFightsVaelen_213b7612:
     # cas "Not only a fool, but a coward too!"
-    cas ""
+    cas "Not only a fool, but a coward too!"
 
 # CassiusFightsVaelen_bd4431e3 (line 48762)
 translate ru CassiusFightsVaelen_bd4431e3:
     # cas "This is your leader?"
-    cas ""
+    cas "This is your leader?"
 
 # CassiusFightsVaelen_319b8a5c (line 48763)
 translate ru CassiusFightsVaelen_319b8a5c:
     # cas "This man who seeks to rob me of my victory by drawing daggers like some backalley cuthroat?"
-    cas ""
+    cas "This man who seeks to rob me of my victory by drawing daggers like some backalley cuthroat?"
 
 # CassiusFightsVaelen_3cd127c9 (line 48764)
 translate ru CassiusFightsVaelen_3cd127c9:
@@ -616,12 +616,12 @@ translate ru CassiusFightsVaelen_51288a08:
 # CassiusFightsVaelen_bd02987d (line 48766)
 translate ru CassiusFightsVaelen_bd02987d:
     # cas "I would have given you a soldier's death!"
-    cas ""
+    cas "I would have given you a soldier's death!"
 
 # CassiusFightsVaelen_5417b986 (line 48767)
 translate ru CassiusFightsVaelen_5417b986:
     # cas "But you are no soldier!"
-    cas ""
+    cas "But you are no soldier!"
 
 # CassiusFightsVaelen_79521d9e (line 48768)
 translate ru CassiusFightsVaelen_79521d9e:
@@ -731,7 +731,7 @@ translate ru CassiusFightsVaelen_cc2febe9:
 # CassiusFightsVaelen_e14f9ea1 (line 48801)
 translate ru CassiusFightsVaelen_e14f9ea1:
     # cas "Lady Sarah Rose..."
-    cas ""
+    cas "Lady Sarah Rose..."
 
 # CassiusFightsVaelen_db55101e (line 48802)
 translate ru CassiusFightsVaelen_db55101e:
@@ -741,12 +741,12 @@ translate ru CassiusFightsVaelen_db55101e:
 # CassiusFightsVaelen_749fb773 (line 48803)
 translate ru CassiusFightsVaelen_749fb773:
     # cas "I have won this victory, but I hold true to my word and dedicate all my glory to you."
-    cas ""
+    cas "I have won this victory, but I hold true to my word and dedicate all my glory to you."
 
 # CassiusFightsVaelen_39588a9f (line 48804)
 translate ru CassiusFightsVaelen_39588a9f:
     # cas "I won in your name, and only in fighting for one as valiant as you, could I have gathered the strength and courage to win."
-    cas ""
+    cas "I won in your name, and only in fighting for one as valiant as you, could I have gathered the strength and courage to win."
 
 # CassiusFightsVaelen_65db5ed4 (line 48805)
 translate ru CassiusFightsVaelen_65db5ed4:
@@ -781,12 +781,12 @@ translate ru CassiusFightsVaelen_1ee2ec50:
 # CassiusFightsVaelen_082d5c2d (line 48811)
 translate ru CassiusFightsVaelen_082d5c2d:
     # s "Rise, Cassius."
-    s ""
+    s "Rise, Cassius."
 
 # CassiusFightsVaelen_bde37e7b (line 48812)
 translate ru CassiusFightsVaelen_bde37e7b:
     # s "A slave by circumstance, but a free man by valor. With all the Gods as my witness, and before all these men, I vow you will be free."
-    s ""
+    s "A slave by circumstance, but a free man by valor. With all the Gods as my witness, and before all these men, I vow you will be free."
 
 # CassiusFightsVaelen_c8f9cf8f (line 48813)
 translate ru CassiusFightsVaelen_c8f9cf8f:
@@ -846,7 +846,7 @@ translate ru CassiusFightsVaelen_e4718a4d:
 # CassiusFightsVaelen_596643ab (line 48830)
 translate ru CassiusFightsVaelen_596643ab:
     # s "Soldiers!"
-    s ""
+    s "Soldiers!"
 
 # CassiusFightsVaelen_c9a7ad5b (line 48831)
 translate ru CassiusFightsVaelen_c9a7ad5b:
@@ -856,12 +856,12 @@ translate ru CassiusFightsVaelen_c9a7ad5b:
 # CassiusFightsVaelen_8ed8fa85 (line 48832)
 translate ru CassiusFightsVaelen_8ed8fa85:
     # s "Let all men and women know that I never sought this."
-    s ""
+    s "Let all men and women know that I never sought this."
 
 # CassiusFightsVaelen_56d60904 (line 48833)
 translate ru CassiusFightsVaelen_56d60904:
     # s "But it was by fate and foolishness that Vaelen drove me to this moment."
-    s ""
+    s "But it was by fate and foolishness that Vaelen drove me to this moment."
 
 # CassiusFightsVaelen_3c5b6393 (line 48834)
 translate ru CassiusFightsVaelen_3c5b6393:
@@ -881,12 +881,12 @@ translate ru CassiusFightsVaelen_b71e31de:
 # CassiusFightsVaelen_a931f6d8 (line 48837)
 translate ru CassiusFightsVaelen_a931f6d8:
     # s "But what has been done, is done."
-    s ""
+    s "But what has been done, is done."
 
 # CassiusFightsVaelen_47b2b967 (line 48838)
 translate ru CassiusFightsVaelen_47b2b967:
     # s "Those of you who cannot bear my command, I give you my word as a princess of the Rose family, that no harm will come to you."
-    s ""
+    s "Those of you who cannot bear my command, I give you my word as a princess of the Rose family, that no harm will come to you."
 
 # CassiusFightsVaelen_407ae757 (line 48839)
 translate ru CassiusFightsVaelen_407ae757:
@@ -901,17 +901,17 @@ translate ru CassiusFightsVaelen_ef65a426:
 # CassiusFightsVaelen_28807200 (line 48841)
 translate ru CassiusFightsVaelen_28807200:
     # s "But to those of you who remain..."
-    s ""
+    s "But to those of you who remain..."
 
 # CassiusFightsVaelen_35b5b71c (line 48842)
 translate ru CassiusFightsVaelen_35b5b71c:
     # s "To those of you who have shown me your loyalty, not in word, but in spilled blood..."
-    s ""
+    s "To those of you who have shown me your loyalty, not in word, but in spilled blood..."
 
 # CassiusFightsVaelen_e7513786 (line 48843)
 translate ru CassiusFightsVaelen_e7513786:
     # s "To you, I say, I have witnessed your souls of steel, tested by the elements of this world!"
-    s ""
+    s "To you, I say, I have witnessed your souls of steel, tested by the elements of this world!"
 
 # CassiusFightsVaelen_3b8d76e1 (line 48844)
 translate ru CassiusFightsVaelen_3b8d76e1:
@@ -921,27 +921,27 @@ translate ru CassiusFightsVaelen_3b8d76e1:
 # CassiusFightsVaelen_c74d0a3e (line 48845)
 translate ru CassiusFightsVaelen_c74d0a3e:
     # s "Each of you hails from a different corner of the world. Rich, poor. Firstborns, lowborns. Sons, daughters."
-    s ""
+    s "Each of you hails from a different corner of the world. Rich, poor. Firstborns, lowborns. Sons, daughters."
 
 # CassiusFightsVaelen_ac27d958 (line 48846)
 translate ru CassiusFightsVaelen_ac27d958:
     # s "Every continent."
-    s ""
+    s "Every continent."
 
 # CassiusFightsVaelen_b7cad40d (line 48847)
 translate ru CassiusFightsVaelen_b7cad40d:
     # s "Orphans, all of us, one way or another."
-    s ""
+    s "Orphans, all of us, one way or another."
 
 # CassiusFightsVaelen_efc2a69b (line 48848)
 translate ru CassiusFightsVaelen_efc2a69b:
     # s "But orphans no more!"
-    s ""
+    s "But orphans no more!"
 
 # CassiusFightsVaelen_a388df87 (line 48849)
 translate ru CassiusFightsVaelen_a388df87:
     # s "Today, by right as sovereign, I decree the formation of the first new Rosannan army."
-    s ""
+    s "Today, by right as sovereign, I decree the formation of the first new Rosannan army."
 
 # CassiusFightsVaelen_6379f0be (line 48850)
 translate ru CassiusFightsVaelen_6379f0be:
@@ -951,12 +951,12 @@ translate ru CassiusFightsVaelen_6379f0be:
 # CassiusFightsVaelen_dc6df88f (line 48851)
 translate ru CassiusFightsVaelen_dc6df88f:
     # s "Kneel, pledge fealty, and you will rise. Not as vagrants of the world, not as sellswords with no dreams, but as men and women of the Rose!"
-    s ""
+    s "Kneel, pledge fealty, and you will rise. Not as vagrants of the world, not as sellswords with no dreams, but as men and women of the Rose!"
 
 # CassiusFightsVaelen_1fc6c9a9 (line 48852)
 translate ru CassiusFightsVaelen_1fc6c9a9:
     # s "Rise as the soldiers that will usher in a new dawn for Rosanna, and I promise each of you will be a lord and lady in a new world!"
-    s ""
+    s "Rise as the soldiers that will usher in a new dawn for Rosanna, and I promise each of you will be a lord and lady in a new world!"
 
 # CassiusFightsVaelen_f9bd903b (line 48853)
 translate ru CassiusFightsVaelen_f9bd903b:
@@ -966,7 +966,7 @@ translate ru CassiusFightsVaelen_f9bd903b:
 # CassiusFightsVaelen_01664f60 (line 48854)
 translate ru CassiusFightsVaelen_01664f60:
     # s "Who among you will take the vow?"
-    s ""
+    s "Who among you will take the vow?"
 
 # CassiusFightsVaelen_9e8dc7fc (line 48855)
 translate ru CassiusFightsVaelen_9e8dc7fc:

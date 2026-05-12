@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: UnionKingdom2
-# Total blocks: 149
+# Total blocks: 146
 
 # UnionKingdom2_eef70307 (line 8040)
 translate ru UnionKingdom2_eef70307:
@@ -16,7 +16,7 @@ translate ru UnionKingdom2_54eb788e:
 # UnionKingdom2_f0185bda (line 8045)
 translate ru UnionKingdom2_f0185bda:
     # kr "These men hail from the Northern province, where they worked as merchants."
-    kr ""
+    kr "These men hail from the Northern province, where they worked as merchants."
 
 # UnionKingdom2_92fa0a77 (line 8046)
 translate ru UnionKingdom2_92fa0a77:
@@ -26,7 +26,7 @@ translate ru UnionKingdom2_92fa0a77:
 # UnionKingdom2_12a60d64 (line 8047)
 translate ru UnionKingdom2_12a60d64:
     # s "Worked?"
-    s ""
+    s "Worked?"
 
 # UnionKingdom2_71a75b96 (line 8048)
 translate ru UnionKingdom2_71a75b96:
@@ -46,7 +46,7 @@ translate ru UnionKingdom2_a0e18e3c:
 # UnionKingdom2_86a78cf2 (line 8051)
 translate ru UnionKingdom2_86a78cf2:
     # kr "Aah yes, there is a matter of their cargo."
-    kr ""
+    kr "Aah yes, there is a matter of their cargo."
 
 # UnionKingdom2_6b3a2ace (line 8065)
 translate ru UnionKingdom2_6b3a2ace:
@@ -96,7 +96,7 @@ translate ru UnionKingdom2_89099d19:
 # UnionKingdom2_6a87bf31 (line 8074)
 translate ru UnionKingdom2_6a87bf31:
     # s "You took the goods on assignment from Lord Greytower? Is there a contract speaking to this?"
-    s ""
+    s "You took the goods on assignment from Lord Greytower? Is there a contract speaking to this?"
 
 # UnionKingdom2_10fe854b (line 8075)
 translate ru UnionKingdom2_10fe854b:
@@ -116,7 +116,7 @@ translate ru UnionKingdom2_187b83e5:
 # UnionKingdom2_e379dae5 (line 8078)
 translate ru UnionKingdom2_e379dae5:
     # s "So...what happened, concretely?"
-    s ""
+    s "So...what happened, concretely?"
 
 # UnionKingdom2_fc94666a (line 8079)
 translate ru UnionKingdom2_fc94666a:
@@ -141,7 +141,7 @@ translate ru UnionKingdom2_a69f84ab:
 # UnionKingdom2_5a550d1a (line 8083)
 translate ru UnionKingdom2_5a550d1a:
     # s "So the cargo was stolen?"
-    s ""
+    s "So the cargo was stolen?"
 
 # UnionKingdom2_4bc48ef2 (line 8084)
 translate ru UnionKingdom2_4bc48ef2:
@@ -166,7 +166,7 @@ translate ru UnionKingdom2_9ddc823d:
 # UnionKingdom2_55d08e24 (line 8088)
 translate ru UnionKingdom2_55d08e24:
     # s "Well, you took money on his contract to transport the goods. Having failed to transport them, at the very least, you owe this much back to him?"
-    s ""
+    s "Well, you took money on his contract to transport the goods. Having failed to transport them, at the very least, you owe this much back to him?"
 
 # UnionKingdom2_ea3c3ad0 (line 8089)
 translate ru UnionKingdom2_ea3c3ad0:
@@ -196,7 +196,7 @@ translate ru UnionKingdom2_f2adcd50:
 # UnionKingdom2_e80efaad (line 8094)
 translate ru UnionKingdom2_e80efaad:
     # s "Very well, and this is all?"
-    s ""
+    s "Very well, and this is all?"
 
 # UnionKingdom2_07c98174 (line 8095)
 translate ru UnionKingdom2_07c98174:
@@ -206,7 +206,7 @@ translate ru UnionKingdom2_07c98174:
 # UnionKingdom2_c7327253 (line 8096)
 translate ru UnionKingdom2_c7327253:
     # s "Speak or be silent, I will not have you act in between."
-    s ""
+    s "Speak or be silent, I will not have you act in between."
 
 # UnionKingdom2_25a4a7a5 (line 8097)
 translate ru UnionKingdom2_25a4a7a5:
@@ -226,7 +226,7 @@ translate ru UnionKingdom2_c022a063:
 # UnionKingdom2_2e021116 (line 8100)
 translate ru UnionKingdom2_2e021116:
     # s "Then speak to the matter."
-    s ""
+    s "Then speak to the matter."
 
 # UnionKingdom2_2d9cbb39 (line 8101)
 translate ru UnionKingdom2_2d9cbb39:
@@ -236,7 +236,7 @@ translate ru UnionKingdom2_2d9cbb39:
 # UnionKingdom2_53b0a629 (line 8102)
 translate ru UnionKingdom2_53b0a629:
     # s "And?"
-    s ""
+    s "And?"
 
 # UnionKingdom2_422aa399 (line 8103)
 translate ru UnionKingdom2_422aa399:
@@ -281,7 +281,7 @@ translate ru UnionKingdom2_a2f39d89:
 # UnionKingdom2_ad1701ea (line 8111)
 translate ru UnionKingdom2_ad1701ea:
     # s "Have you heard anything of this?"
-    s ""
+    s "Have you heard anything of this?"
 
 # UnionKingdom2_18d65926 (line 8112)
 translate ru UnionKingdom2_18d65926:
@@ -291,7 +291,7 @@ translate ru UnionKingdom2_18d65926:
 # UnionKingdom2_f04cea88 (line 8113)
 translate ru UnionKingdom2_f04cea88:
     # kr "There have been rumors to the fact yes. A hunting accident, I believe his father said."
-    kr ""
+    kr "There have been rumors to the fact yes. A hunting accident, I believe his father said."
 
 # UnionKingdom2_73ac0fd8 (line 8114)
 translate ru UnionKingdom2_73ac0fd8:
@@ -301,7 +301,7 @@ translate ru UnionKingdom2_73ac0fd8:
 # UnionKingdom2_0f37339a (line 8115)
 translate ru UnionKingdom2_0f37339a:
     # s "You understand what you are saying, correct?"
-    s ""
+    s "You understand what you are saying, correct?"
 
 # UnionKingdom2_3855ea86 (line 8116)
 translate ru UnionKingdom2_3855ea86:
@@ -321,17 +321,17 @@ translate ru UnionKingdom2_4c363cbd:
 # UnionKingdom2_ef8c9ab5 (line 8119)
 translate ru UnionKingdom2_ef8c9ab5:
     # s "You accuse Lord Greytower's son, perhaps indirectly even himself, of engaging in banditry."
-    s ""
+    s "You accuse Lord Greytower's son, perhaps indirectly even himself, of engaging in banditry."
 
 # UnionKingdom2_7c385886 (line 8120)
 translate ru UnionKingdom2_7c385886:
     # s "His eldest son and heir, Oliver."
-    s ""
+    s "His eldest son and heir, Oliver."
 
 # UnionKingdom2_6375c505 (line 8121)
 translate ru UnionKingdom2_6375c505:
     # s "The punishment for such an offence would be grave."
-    s ""
+    s "The punishment for such an offence would be grave."
 
 # UnionKingdom2_50a0ee01 (line 8122)
 translate ru UnionKingdom2_50a0ee01:
@@ -398,21 +398,6 @@ translate ru UnionKingdom2_ce5788aa:
     # "Could she really condemn a man and his family on just this man's word?"
     ""
 
-# UnionKingdom2_37830c76 (line 8138)
-translate ru UnionKingdom2_37830c76:
-    # "Find in favor of House Greytower"
-    "Find in favor of House Greytower" ""
-
-# UnionKingdom2_ec60da3a (line 8154)
-translate ru UnionKingdom2_ec60da3a:
-    # "Find in favor of the Merchant"
-    "Find in favor of the Merchant" ""
-
-# UnionKingdom2_1099b5db (line 8166)
-translate ru UnionKingdom2_1099b5db:
-    # "Condemn Oliver to death"
-    "Condemn Oliver to death" ""
-
 # UnionKingdom2_15def0bc (line 8189)
 translate ru UnionKingdom2_15def0bc:
     # "Sarah leaned back into her throne, idly passing some documents between her hands."
@@ -426,7 +411,7 @@ translate ru UnionKingdom2_00f84927:
 # UnionKingdom2_5ce4f656 (line 8224)
 translate ru UnionKingdom2_5ce4f656:
     # s "Well, if this settles all standing matters before the Court, let us then-"
-    s ""
+    s "Well, if this settles all standing matters before the Court, let us then-"
 
 # UnionKingdom2_2138a0e5 (line 8225)
 translate ru UnionKingdom2_2138a0e5:
@@ -601,7 +586,7 @@ translate ru UnionKingdom2_ba544bad:
 # UnionKingdom2_ed473fc0 (line 8265)
 translate ru UnionKingdom2_ed473fc0:
     # s "Be welcome in my court."
-    s ""
+    s "Be welcome in my court."
 
 # UnionKingdom2_efd57284 (line 8266)
 translate ru UnionKingdom2_efd57284:
@@ -611,7 +596,7 @@ translate ru UnionKingdom2_efd57284:
 # UnionKingdom2_df93b62a (line 8267)
 translate ru UnionKingdom2_df93b62a:
     # s "Are you in need of anything?"
-    s ""
+    s "Are you in need of anything?"
 
 # UnionKingdom2_4de08766 (line 8268)
 translate ru UnionKingdom2_4de08766:
@@ -636,7 +621,7 @@ translate ru UnionKingdom2_fde3e4cd:
 # UnionKingdom2_84a07c36 (line 8272)
 translate ru UnionKingdom2_84a07c36:
     # s "Tell me then, what is your message?"
-    s ""
+    s "Tell me then, what is your message?"
 
 # UnionKingdom2_f6e07ccb (line 8273)
 translate ru UnionKingdom2_f6e07ccb:
@@ -671,7 +656,7 @@ translate ru UnionKingdom2_5ace4589:
 # UnionKingdom2_94f22387 (line 8279)
 translate ru UnionKingdom2_94f22387:
     # s "Please, bring the message to me."
-    s ""
+    s "Please, bring the message to me."
 
 # UnionKingdom2_95664884 (line 8280)
 translate ru UnionKingdom2_95664884:
@@ -696,17 +681,17 @@ translate ru UnionKingdom2_bdc0d67e:
 # UnionKingdom2_180b2ef3 (line 8284)
 translate ru UnionKingdom2_180b2ef3:
     # s "Thank you for delivering this message. Consider your oath fulfilled."
-    s ""
+    s "Thank you for delivering this message. Consider your oath fulfilled."
 
 # UnionKingdom2_8617dbb5 (line 8285)
 translate ru UnionKingdom2_8617dbb5:
     # s "I shall see to the contents of the letter at a later moment."
-    s ""
+    s "I shall see to the contents of the letter at a later moment."
 
 # UnionKingdom2_5fbf68d7 (line 8286)
 translate ru UnionKingdom2_5fbf68d7:
     # s "Please, have a servant see you to the guest quarters and remain until I dismiss you, should I require your services to respond to this message."
-    s ""
+    s "Please, have a servant see you to the guest quarters and remain until I dismiss you, should I require your services to respond to this message."
 
 # UnionKingdom2_e78c2e1c (line 8287)
 translate ru UnionKingdom2_e78c2e1c:
@@ -721,7 +706,7 @@ translate ru UnionKingdom2_f6632a8d:
 # UnionKingdom2_84ee5ce1 (line 8290)
 translate ru UnionKingdom2_84ee5ce1:
     # kr "I had heard nothing of an important message, your Grace. Should we..."
-    kr ""
+    kr "I had heard nothing of an important message, your Grace. Should we..."
 
 # UnionKingdom2_c53bb5c9 (line 8291)
 translate ru UnionKingdom2_c53bb5c9:
@@ -736,15 +721,15 @@ translate ru UnionKingdom2_1f86eb6d:
 # UnionKingdom2_b30e6e86 (line 8293)
 translate ru UnionKingdom2_b30e6e86:
     # s "Spymaster Kravel..."
-    s ""
+    s "Spymaster Kravel..."
 
 # UnionKingdom2_dcfba865 (line 8294)
 translate ru UnionKingdom2_dcfba865:
     # kr "Yes, your Grace?"
-    kr ""
+    kr "Yes, your Grace?"
 
 # UnionKingdom2_4647fd8c (line 8295)
 translate ru UnionKingdom2_4647fd8c:
     # s "Gather the council. We have urgent business."
-    s ""
+    s "Gather the council. We have urgent business."
 

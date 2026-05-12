@@ -61,7 +61,7 @@ translate ru TrainingPathCaleb3_8e80cd9e:
 # TrainingPathCaleb3_e4b17eb8 (line 36756)
 translate ru TrainingPathCaleb3_e4b17eb8:
     # ca "You win."
-    ca ""
+    ca "You win."
 
 # TrainingPathCaleb3_74703e9e (line 36757)
 translate ru TrainingPathCaleb3_74703e9e:
@@ -71,12 +71,12 @@ translate ru TrainingPathCaleb3_74703e9e:
 # TrainingPathCaleb3_46d2ecc9 (line 36758)
 translate ru TrainingPathCaleb3_46d2ecc9:
     # ca "We've been doing this for years, and you're able to go toe-to-toe with us with only a few months of training, it's ridiculous."
-    ca ""
+    ca "We've been doing this for years, and you're able to go toe-to-toe with us with only a few months of training, it's ridiculous."
 
 # TrainingPathCaleb3_e92ca7b7 (line 36759)
 translate ru TrainingPathCaleb3_e92ca7b7:
     # ep "I think she's just a natural. Won't be long now before neither of us stand a chance."
-    ep ""
+    ep "I think she's just a natural. Won't be long now before neither of us stand a chance."
 
 # TrainingPathCaleb3_2972c2e9 (line 36760)
 translate ru TrainingPathCaleb3_2972c2e9:
@@ -91,7 +91,7 @@ translate ru TrainingPathCaleb3_bd962c92:
 # TrainingPathCaleb3_aad9b33f (line 36762)
 translate ru TrainingPathCaleb3_aad9b33f:
     # s "No, it's all you two. Without your training, I'd still be trying to learn which end of the sword is which."
-    s ""
+    s "No, it's all you two. Without your training, I'd still be trying to learn which end of the sword is which."
 
 # TrainingPathCaleb3_81b6259f (line 36763)
 translate ru TrainingPathCaleb3_81b6259f:
@@ -111,7 +111,7 @@ translate ru TrainingPathCaleb3_4db2a2e2:
 # TrainingPathCaleb3_895feaa1 (line 36766)
 translate ru TrainingPathCaleb3_895feaa1:
     # s "I'm done, though, I don't think I can survive one more round of excercises."
-    s ""
+    s "I'm done, though, I don't think I can survive one more round of excercises."
 
 # TrainingPathCaleb3_8cffc038 (line 36767)
 translate ru TrainingPathCaleb3_8cffc038:
@@ -126,7 +126,7 @@ translate ru TrainingPathCaleb3_cb5c2d73:
 # TrainingPathCaleb3_343f3b46 (line 36769)
 translate ru TrainingPathCaleb3_343f3b46:
     # s "Do you think I'm ready?"
-    s ""
+    s "Do you think I'm ready?"
 
 # TrainingPathCaleb3_eca51a2e (line 36770)
 translate ru TrainingPathCaleb3_eca51a2e:
@@ -141,7 +141,7 @@ translate ru TrainingPathCaleb3_6301fdd6:
 # TrainingPathCaleb3_51f25ff1 (line 36772)
 translate ru TrainingPathCaleb3_51f25ff1:
     # ca "Ooh, no doubt. You're gonna pass the exam."
-    ca ""
+    ca "Ooh, no doubt. You're gonna pass the exam."
 
 # TrainingPathCaleb3_11db43e4 (line 36773)
 translate ru TrainingPathCaleb3_11db43e4:
@@ -151,12 +151,12 @@ translate ru TrainingPathCaleb3_11db43e4:
 # TrainingPathCaleb3_ef97c97a (line 36774)
 translate ru TrainingPathCaleb3_ef97c97a:
     # ep "Yes, you still have a lot of room to grow, but they way you are now, you'll pass for sure."
-    ep ""
+    ep "Yes, you still have a lot of room to grow, but they way you are now, you'll pass for sure."
 
 # TrainingPathCaleb3_6208644a (line 36775)
 translate ru TrainingPathCaleb3_6208644a:
     # ca "We were way worse than you are now when we first passed it."
-    ca ""
+    ca "We were way worse than you are now when we first passed it."
 
 # TrainingPathCaleb3_14cb7a94 (line 36776)
 translate ru TrainingPathCaleb3_14cb7a94:
@@ -171,7 +171,7 @@ translate ru TrainingPathCaleb3_8b7fe4e6:
 # TrainingPathCaleb3_01481802 (line 36778)
 translate ru TrainingPathCaleb3_01481802:
     # s "Well, thank you, both of you. I don't wanna think where I would be without you two."
-    s ""
+    s "Well, thank you, both of you. I don't wanna think where I would be without you two."
 
 # TrainingPathCaleb3_54a6e82f (line 36779)
 translate ru TrainingPathCaleb3_54a6e82f:
@@ -196,12 +196,12 @@ translate ru TrainingPathCaleb3_c43237e9:
 # TrainingPathCaleb3_399a649e (line 36783)
 translate ru TrainingPathCaleb3_399a649e:
     # ca "Well, we also really liked it, Sarah. Mercenary work can get more boring than you might imagine, and we've been stationed here for a while now."
-    ca ""
+    ca "Well, we also really liked it, Sarah. Mercenary work can get more boring than you might imagine, and we've been stationed here for a while now."
 
 # TrainingPathCaleb3_3404241c (line 36784)
 translate ru TrainingPathCaleb3_3404241c:
     # ca "So it was fun to get some distraction."
-    ca ""
+    ca "So it was fun to get some distraction."
 
 # TrainingPathCaleb3_4c7029a1 (line 36785)
 translate ru TrainingPathCaleb3_4c7029a1:
@@ -211,7 +211,7 @@ translate ru TrainingPathCaleb3_4c7029a1:
 # TrainingPathCaleb3_ab2ba800 (line 36786)
 translate ru TrainingPathCaleb3_ab2ba800:
     # ep "Also, we have a gift for you."
-    ep ""
+    ep "Also, we have a gift for you."
 
 # TrainingPathCaleb3_8759eb20 (line 36787)
 translate ru TrainingPathCaleb3_8759eb20:
@@ -221,12 +221,12 @@ translate ru TrainingPathCaleb3_8759eb20:
 # TrainingPathCaleb3_b2d52232 (line 36788)
 translate ru TrainingPathCaleb3_b2d52232:
     # s "A gift?"
-    s ""
+    s "A gift?"
 
 # TrainingPathCaleb3_9e9fd235 (line 36789)
 translate ru TrainingPathCaleb3_9e9fd235:
     # ep "Yes, ahead of your undoubted success at the exam."
-    ep ""
+    ep "Yes, ahead of your undoubted success at the exam."
 
 # TrainingPathCaleb3_f60fecca (line 36790)
 translate ru TrainingPathCaleb3_f60fecca:
@@ -241,7 +241,7 @@ translate ru TrainingPathCaleb3_08f555c5:
 # TrainingPathCaleb3_9b74408c (line 36792)
 translate ru TrainingPathCaleb3_9b74408c:
     # ep "It might not be quite up to your standards..."
-    ep ""
+    ep "It might not be quite up to your standards..."
 
 # TrainingPathCaleb3_33ef67dc (line 36793)
 translate ru TrainingPathCaleb3_33ef67dc:
@@ -251,7 +251,7 @@ translate ru TrainingPathCaleb3_33ef67dc:
 # TrainingPathCaleb3_a00fdd14 (line 36794)
 translate ru TrainingPathCaleb3_a00fdd14:
     # ep "But I promise you, by this camp's standards, this is great wine."
-    ep ""
+    ep "But I promise you, by this camp's standards, this is great wine."
 
 # TrainingPathCaleb3_944af17a (line 36795)
 translate ru TrainingPathCaleb3_944af17a:
@@ -281,7 +281,7 @@ translate ru TrainingPathCaleb3_fa15c9bd:
 # TrainingPathCaleb3_a8333539 (line 36800)
 translate ru TrainingPathCaleb3_a8333539:
     # s "Wow...that's good."
-    s ""
+    s "Wow...that's good."
 
 # TrainingPathCaleb3_1c90b415 (line 36801)
 translate ru TrainingPathCaleb3_1c90b415:
@@ -296,7 +296,7 @@ translate ru TrainingPathCaleb3_fc1ba1c4:
 # TrainingPathCaleb3_f43949d9 (line 36803)
 translate ru TrainingPathCaleb3_f43949d9:
     # s "Hey...don't be greedy, that's my gift."
-    s ""
+    s "Hey...don't be greedy, that's my gift."
 
 # TrainingPathCaleb3_9e5386b6 (line 36804)
 translate ru TrainingPathCaleb3_9e5386b6:
@@ -306,5 +306,5 @@ translate ru TrainingPathCaleb3_9e5386b6:
 # TrainingPathCaleb3_5ac509e3 (line 36805)
 translate ru TrainingPathCaleb3_5ac509e3:
     # ca "Sorry, sorry. I don't often get wine like this..."
-    ca ""
+    ca "Sorry, sorry. I don't often get wine like this..."
 

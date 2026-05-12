@@ -291,7 +291,7 @@ translate ru WarriorQueen1_f3da9dba:
 # WarriorQueen1_e1072e6a (line 54233)
 translate ru WarriorQueen1_e1072e6a:
     # s "Yes, come in!"
-    s ""
+    s "Yes, come in!"
 
 # WarriorQueen1_8c9a7e0e (line 54234)
 translate ru WarriorQueen1_8c9a7e0e:
@@ -301,7 +301,7 @@ translate ru WarriorQueen1_8c9a7e0e:
 # WarriorQueen1_8139e51d (line 54237)
 translate ru WarriorQueen1_8139e51d:
     # c "Sleeping, were we?"
-    c ""
+    c "Sleeping, were we?"
 
 # WarriorQueen1_e1e8eaac (line 54238)
 translate ru WarriorQueen1_e1e8eaac:
@@ -311,22 +311,22 @@ translate ru WarriorQueen1_e1e8eaac:
 # WarriorQueen1_4769fc20 (line 54239)
 translate ru WarriorQueen1_4769fc20:
     # s "Yeah...I might have been more tired than I thought."
-    s ""
+    s "Yeah...I might have been more tired than I thought."
 
 # WarriorQueen1_805d9c34 (line 54240)
 translate ru WarriorQueen1_805d9c34:
     # c "Well, it's fine that you managed to get some rest."
-    c ""
+    c "Well, it's fine that you managed to get some rest."
 
 # WarriorQueen1_2b95b544 (line 54241)
 translate ru WarriorQueen1_2b95b544:
     # c "Boarding of the ships has been progressing quite well."
-    c ""
+    c "Boarding of the ships has been progressing quite well."
 
 # WarriorQueen1_aabac8e3 (line 54242)
 translate ru WarriorQueen1_aabac8e3:
     # c "They'll soon be ready for you to step onto the flagship."
-    c ""
+    c "They'll soon be ready for you to step onto the flagship."
 
 # WarriorQueen1_b8fe0b73 (line 54243)
 translate ru WarriorQueen1_b8fe0b73:
@@ -351,7 +351,7 @@ translate ru WarriorQueen1_81faa0c0:
 # WarriorQueen1_51e0a974 (line 54247)
 translate ru WarriorQueen1_51e0a974:
     # s "Good. I think I have most of what I need."
-    s ""
+    s "Good. I think I have most of what I need."
 
 # WarriorQueen1_18a9217f (line 54250)
 translate ru WarriorQueen1_18a9217f:
@@ -361,22 +361,22 @@ translate ru WarriorQueen1_18a9217f:
 # WarriorQueen1_a4403ccf (line 54251)
 translate ru WarriorQueen1_a4403ccf:
     # s "What?"
-    s ""
+    s "What?"
 
 # WarriorQueen1_dfcce271 (line 54252)
 translate ru WarriorQueen1_dfcce271:
     # c "Nothing...just that I remember the girl you used to be."
-    c ""
+    c "Nothing...just that I remember the girl you used to be."
 
 # WarriorQueen1_1121c5c5 (line 54253)
 translate ru WarriorQueen1_1121c5c5:
     # s "What's that supposed to mean?"
-    s ""
+    s "What's that supposed to mean?"
 
 # WarriorQueen1_c83db10b (line 54254)
 translate ru WarriorQueen1_c83db10b:
     # c "That girl used to have more stuff propped into one dresser than what you carry around in that bag."
-    c ""
+    c "That girl used to have more stuff propped into one dresser than what you carry around in that bag."
 
 # WarriorQueen1_3b6f4296 (line 54255)
 translate ru WarriorQueen1_3b6f4296:
@@ -386,7 +386,7 @@ translate ru WarriorQueen1_3b6f4296:
 # WarriorQueen1_cdf80c20 (line 54256)
 translate ru WarriorQueen1_cdf80c20:
     # s "Mercenary life learns you to pack light, among other things."
-    s ""
+    s "Mercenary life learns you to pack light, among other things."
 
 # WarriorQueen1_dc3088f3 (line 54257)
 translate ru WarriorQueen1_dc3088f3:
@@ -396,7 +396,7 @@ translate ru WarriorQueen1_dc3088f3:
 # WarriorQueen1_44a0d04b (line 54258)
 translate ru WarriorQueen1_44a0d04b:
     # c "So much the same. So much changed."
-    c ""
+    c "So much the same. So much changed."
 
 # WarriorQueen1_b83b19cd (line 54259)
 translate ru WarriorQueen1_b83b19cd:
@@ -406,7 +406,7 @@ translate ru WarriorQueen1_b83b19cd:
 # WarriorQueen1_b3cf4cfc (line 54262)
 translate ru WarriorQueen1_b3cf4cfc:
     # c "Well, come then. We will take my coach to the harbor and I'll join you up to the flagship."
-    c ""
+    c "Well, come then. We will take my coach to the harbor and I'll join you up to the flagship."
 
 # WarriorQueen1_233986a2 (line 54263)
 translate ru WarriorQueen1_233986a2:
@@ -431,7 +431,7 @@ translate ru WarriorQueen1_ffe2a2c0:
 # WarriorQueen1_324044c8 (line 54267)
 translate ru WarriorQueen1_324044c8:
     # s "Sure, let's go."
-    s ""
+    s "Sure, let's go."
 
 # WarriorQueen1_3608efb2 (line 54270)
 translate ru WarriorQueen1_3608efb2:
@@ -656,7 +656,7 @@ translate ru WarriorQueen1_cf51b49e:
 # WarriorQueen1_a06cb185 (line 54331)
 translate ru WarriorQueen1_a06cb185:
     # s "Thomas..."
-    s ""
+    s "Thomas..."
 
 # WarriorQueen1_1f612235 (line 54332)
 translate ru WarriorQueen1_1f612235:
@@ -706,12 +706,12 @@ translate ru WarriorQueen1_7f93d20d:
 # WarriorQueen1_f0b88b16 (line 54345)
 translate ru WarriorQueen1_f0b88b16:
     # c "The first formation will be ready soon."
-    c ""
+    c "The first formation will be ready soon."
 
 # WarriorQueen1_d4080868 (line 54346)
 translate ru WarriorQueen1_d4080868:
     # c "The others will follow after."
-    c ""
+    c "The others will follow after."
 
 # WarriorQueen1_20da4254 (line 54347)
 translate ru WarriorQueen1_20da4254:
@@ -721,7 +721,7 @@ translate ru WarriorQueen1_20da4254:
 # WarriorQueen1_c981c633 (line 54348)
 translate ru WarriorQueen1_c981c633:
     # s "It will be enough."
-    s ""
+    s "It will be enough."
 
 # WarriorQueen1_77117685 (line 54349)
 translate ru WarriorQueen1_77117685:
@@ -731,7 +731,7 @@ translate ru WarriorQueen1_77117685:
 # WarriorQueen1_3b398bf1 (line 54350)
 translate ru WarriorQueen1_3b398bf1:
     # c "As soon as you give the signal, we'll set sail."
-    c ""
+    c "As soon as you give the signal, we'll set sail."
 
 # WarriorQueen1_f8536441 (line 54351)
 translate ru WarriorQueen1_f8536441:
@@ -761,10 +761,10 @@ translate ru WarriorQueen1_c67a1928:
 # WarriorQueen1_717bc2a0 (line 54358)
 translate ru WarriorQueen1_717bc2a0:
     # s "Give the order."
-    s ""
+    s "Give the order."
 
 # WarriorQueen1_1a455bb6 (line 54359)
 translate ru WarriorQueen1_1a455bb6:
     # s "We set sail."
-    s ""
+    s "We set sail."
 

@@ -116,7 +116,7 @@ translate ru TrainingPathAtilla2_f9e308ec:
 # TrainingPathAtilla2_e10dc0f6 (line 37199)
 translate ru TrainingPathAtilla2_e10dc0f6:
     # a "You're here."
-    a ""
+    a "You're here."
 
 # TrainingPathAtilla2_db781994 (line 37200)
 translate ru TrainingPathAtilla2_db781994:
@@ -146,7 +146,7 @@ translate ru TrainingPathAtilla2_90228756:
 # TrainingPathAtilla2_7d77d0a7 (line 37205)
 translate ru TrainingPathAtilla2_7d77d0a7:
     # s "As you ordered."
-    s ""
+    s "As you ordered."
 
 # TrainingPathAtilla2_40a214fb (line 37206)
 translate ru TrainingPathAtilla2_40a214fb:
@@ -166,22 +166,22 @@ translate ru TrainingPathAtilla2_c84dd72d:
 # TrainingPathAtilla2_c8dbc129 (line 37210)
 translate ru TrainingPathAtilla2_c8dbc129:
     # s "I don't get a real sword?"
-    s ""
+    s "I don't get a real sword?"
 
 # TrainingPathAtilla2_a6ade063 (line 37211)
 translate ru TrainingPathAtilla2_a6ade063:
     # a "You need to earn that."
-    a ""
+    a "You need to earn that."
 
 # TrainingPathAtilla2_988c682c (line 37212)
 translate ru TrainingPathAtilla2_988c682c:
     # a "Right now, with a real sword, you would probably only end up hurting yourself."
-    a ""
+    a "Right now, with a real sword, you would probably only end up hurting yourself."
 
 # TrainingPathAtilla2_1cb0eea8 (line 37213)
 translate ru TrainingPathAtilla2_1cb0eea8:
     # a "Speaking of that, I brought you something."
-    a ""
+    a "Speaking of that, I brought you something."
 
 # TrainingPathAtilla2_a5f0ce67 (line 37214)
 translate ru TrainingPathAtilla2_a5f0ce67:
@@ -191,7 +191,7 @@ translate ru TrainingPathAtilla2_a5f0ce67:
 # TrainingPathAtilla2_78acb980 (line 37215)
 translate ru TrainingPathAtilla2_78acb980:
     # s "A gift?"
-    s ""
+    s "A gift?"
 
 # TrainingPathAtilla2_d1f5b8c6 (line 37216)
 translate ru TrainingPathAtilla2_d1f5b8c6:
@@ -201,7 +201,7 @@ translate ru TrainingPathAtilla2_d1f5b8c6:
 # TrainingPathAtilla2_21d1cfb8 (line 37217)
 translate ru TrainingPathAtilla2_21d1cfb8:
     # a "Did I say a gift?!"
-    a ""
+    a "Did I say a gift?!"
 
 # TrainingPathAtilla2_b21b6fc9 (line 37218)
 translate ru TrainingPathAtilla2_b21b6fc9:
@@ -216,7 +216,7 @@ translate ru TrainingPathAtilla2_e5c4daed:
 # TrainingPathAtilla2_95751dbd (line 37220)
 translate ru TrainingPathAtilla2_95751dbd:
     # a "You've been keeping to your training. You might imagine that I didn't notice, but I did."
-    a ""
+    a "You've been keeping to your training. You might imagine that I didn't notice, but I did."
 
 # TrainingPathAtilla2_e3176303 (line 37221)
 translate ru TrainingPathAtilla2_e3176303:
@@ -231,7 +231,7 @@ translate ru TrainingPathAtilla2_0729b69f:
 # TrainingPathAtilla2_7219ba83 (line 37223)
 translate ru TrainingPathAtilla2_7219ba83:
     # a "Go ahead."
-    a ""
+    a "Go ahead."
 
 # TrainingPathAtilla2_6bbd5ccc (line 37224)
 translate ru TrainingPathAtilla2_6bbd5ccc:
@@ -261,7 +261,7 @@ translate ru TrainingPathAtilla2_01d9f36a:
 # TrainingPathAtilla2_cfed8bd1 (line 37229)
 translate ru TrainingPathAtilla2_cfed8bd1:
     # a "They didn't have one in your size, so they had to make that one custom."
-    a ""
+    a "They didn't have one in your size, so they had to make that one custom."
 
 # TrainingPathAtilla2_b258161b (line 37230)
 translate ru TrainingPathAtilla2_b258161b:
@@ -276,17 +276,17 @@ translate ru TrainingPathAtilla2_9a510d69:
 # TrainingPathAtilla2_84eaeece (line 37232)
 translate ru TrainingPathAtilla2_84eaeece:
     # a "You want to be a soldier, that means wearing a soldier’s armor"
-    a ""
+    a "You want to be a soldier, that means wearing a soldier’s armor"
 
 # TrainingPathAtilla2_84a4dc2c (line 37233)
 translate ru TrainingPathAtilla2_84a4dc2c:
     # a "You can’t be parading around in a dress like you’re going to go off to a ball."
-    a ""
+    a "You can’t be parading around in a dress like you’re going to go off to a ball."
 
 # TrainingPathAtilla2_1f34a963 (line 37234)
 translate ru TrainingPathAtilla2_1f34a963:
     # s "Thank you."
-    s ""
+    s "Thank you."
 
 # TrainingPathAtilla2_ab1c514e (line 37235)
 translate ru TrainingPathAtilla2_ab1c514e:
@@ -296,12 +296,12 @@ translate ru TrainingPathAtilla2_ab1c514e:
 # TrainingPathAtilla2_9b76f146 (line 37236)
 translate ru TrainingPathAtilla2_9b76f146:
     # s "Really, thank you. This means a lot to me."
-    s ""
+    s "Really, thank you. This means a lot to me."
 
 # TrainingPathAtilla2_d0e2f2e0 (line 37237)
 translate ru TrainingPathAtilla2_d0e2f2e0:
     # a "Go ahead, try it on."
-    a ""
+    a "Go ahead, try it on."
 
 # TrainingPathAtilla2_f4736c04 (line 37246)
 translate ru TrainingPathAtilla2_f4736c04:
@@ -326,7 +326,7 @@ translate ru TrainingPathAtilla2_4388c2fd:
 # TrainingPathAtilla2_f5ffd4e9 (line 37250)
 translate ru TrainingPathAtilla2_f5ffd4e9:
     # s "Enjoying the show?"
-    s ""
+    s "Enjoying the show?"
 
 # TrainingPathAtilla2_ebdbc1a1 (line 37251)
 translate ru TrainingPathAtilla2_ebdbc1a1:
@@ -356,7 +356,7 @@ translate ru TrainingPathAtilla2_b3191242:
 # TrainingPathAtilla2_0e0b37b2 (line 37260)
 translate ru TrainingPathAtilla2_0e0b37b2:
     # a "Enough chatter, you need to learn the basics. Pick up the sword and shield."
-    a ""
+    a "Enough chatter, you need to learn the basics. Pick up the sword and shield."
 
 # TrainingPathAtilla2_e5ef79b5 (line 37261)
 translate ru TrainingPathAtilla2_e5ef79b5:
@@ -366,7 +366,7 @@ translate ru TrainingPathAtilla2_e5ef79b5:
 # TrainingPathAtilla2_72afa667 (line 37266)
 translate ru TrainingPathAtilla2_72afa667:
     # s "Didn't I spend all last week learning the basics?"
-    s ""
+    s "Didn't I spend all last week learning the basics?"
 
 # TrainingPathAtilla2_9f70a5fe (line 37267)
 translate ru TrainingPathAtilla2_9f70a5fe:
@@ -376,17 +376,17 @@ translate ru TrainingPathAtilla2_9f70a5fe:
 # TrainingPathAtilla2_c186aad4 (line 37268)
 translate ru TrainingPathAtilla2_c186aad4:
     # a "Those excercises are just to prepare your body for where it needs to be. A strong body is no replacement for the fundamentals of weapon training."
-    a ""
+    a "Those excercises are just to prepare your body for where it needs to be. A strong body is no replacement for the fundamentals of weapon training."
 
 # TrainingPathAtilla2_75b4144e (line 37269)
 translate ru TrainingPathAtilla2_75b4144e:
     # a "By the time I’m through with you, you’ll be familiar with every weapon, but first you will need to learn the most basic weapon of all, a sword and shield."
-    a ""
+    a "By the time I’m through with you, you’ll be familiar with every weapon, but first you will need to learn the most basic weapon of all, a sword and shield."
 
 # TrainingPathAtilla2_af1ffffb (line 37270)
 translate ru TrainingPathAtilla2_af1ffffb:
     # a "Every part of your body is important in a fight, it’s not just about flailing your weapons around, you need to remember your stance, your reach, your stamina."
-    a ""
+    a "Every part of your body is important in a fight, it’s not just about flailing your weapons around, you need to remember your stance, your reach, your stamina."
 
 # TrainingPathAtilla2_2262a9d9 (line 37271)
 translate ru TrainingPathAtilla2_2262a9d9:
@@ -451,7 +451,7 @@ translate ru TrainingPathAtilla2_f291599d:
 # TrainingPathAtilla2_7b1f7ba4 (line 37288)
 translate ru TrainingPathAtilla2_7b1f7ba4:
     # a "Dead."
-    a ""
+    a "Dead."
 
 # TrainingPathAtilla2_a46c8134 (line 37289)
 translate ru TrainingPathAtilla2_a46c8134:
@@ -481,7 +481,7 @@ translate ru TrainingPathAtilla2_29bb367a:
 # TrainingPathAtilla2_4e38a680 (line 37294)
 translate ru TrainingPathAtilla2_4e38a680:
     # s "I can still feel my arm."
-    s ""
+    s "I can still feel my arm."
 
 # TrainingPathAtilla2_9d59e7f0 (line 37295)
 translate ru TrainingPathAtilla2_9d59e7f0:
@@ -491,7 +491,7 @@ translate ru TrainingPathAtilla2_9d59e7f0:
 # TrainingPathAtilla2_acbeb18d (line 37296)
 translate ru TrainingPathAtilla2_acbeb18d:
     # s "How am I supposed to deal with something like that?"
-    s ""
+    s "How am I supposed to deal with something like that?"
 
 # TrainingPathAtilla2_c1065529 (line 37297)
 translate ru TrainingPathAtilla2_c1065529:
@@ -501,17 +501,17 @@ translate ru TrainingPathAtilla2_c1065529:
 # TrainingPathAtilla2_c22128f1 (line 37298)
 translate ru TrainingPathAtilla2_c22128f1:
     # a "Remember what I told you, it’s about far more than just raw strength. You’re a human, and a woman to match."
-    a ""
+    a "Remember what I told you, it’s about far more than just raw strength. You’re a human, and a woman to match."
 
 # TrainingPathAtilla2_76b03a45 (line 37299)
 translate ru TrainingPathAtilla2_76b03a45:
     # a "If you think you’re going to beat me in pure muscle, you’re wasting your time."
-    a ""
+    a "If you think you’re going to beat me in pure muscle, you’re wasting your time."
 
 # TrainingPathAtilla2_a5a45ff6 (line 37300)
 translate ru TrainingPathAtilla2_a5a45ff6:
     # s "So that’s it, I’ll just never be strong enough?"
-    s ""
+    s "So that’s it, I’ll just never be strong enough?"
 
 # TrainingPathAtilla2_f69a28cf (line 37301)
 translate ru TrainingPathAtilla2_f69a28cf:
@@ -521,12 +521,12 @@ translate ru TrainingPathAtilla2_f69a28cf:
 # TrainingPathAtilla2_c9b1f26d (line 37302)
 translate ru TrainingPathAtilla2_c9b1f26d:
     # a "I’ve met female humans that came close to killing me. Do not blame your sex, girl."
-    a ""
+    a "I’ve met female humans that came close to killing me. Do not blame your sex, girl."
 
 # TrainingPathAtilla2_2f681cd6 (line 37303)
 translate ru TrainingPathAtilla2_2f681cd6:
     # a "Your mistake is trying to meet me on my terms. Strength is my game. Never be drawn into playing your enemy’s game, drawn them into yours."
-    a ""
+    a "Your mistake is trying to meet me on my terms. Strength is my game. Never be drawn into playing your enemy’s game, drawn them into yours."
 
 # TrainingPathAtilla2_43696931 (line 37304)
 translate ru TrainingPathAtilla2_43696931:
@@ -541,7 +541,7 @@ translate ru TrainingPathAtilla2_f33f2d95:
 # TrainingPathAtilla2_c54b9d5b (line 37306)
 translate ru TrainingPathAtilla2_c54b9d5b:
     # a "Stance is everything, especially for someone of your frame."
-    a ""
+    a "Stance is everything, especially for someone of your frame."
 
 # TrainingPathAtilla2_003762d2 (line 37307)
 translate ru TrainingPathAtilla2_003762d2:
@@ -556,17 +556,17 @@ translate ru TrainingPathAtilla2_ee0df01d:
 # TrainingPathAtilla2_f5a1af22 (line 37309)
 translate ru TrainingPathAtilla2_f5a1af22:
     # a "Stand like this."
-    a ""
+    a "Stand like this."
 
 # TrainingPathAtilla2_08cadde6 (line 37310)
 translate ru TrainingPathAtilla2_08cadde6:
     # a "Lean into the blow, catch it like this, let the power of it flow down into your legs."
-    a ""
+    a "Lean into the blow, catch it like this, let the power of it flow down into your legs."
 
 # TrainingPathAtilla2_6bc4adc2 (line 37311)
 translate ru TrainingPathAtilla2_6bc4adc2:
     # a "Use the force of my blow to strengthen your feet, instead of going off balance."
-    a ""
+    a "Use the force of my blow to strengthen your feet, instead of going off balance."
 
 # TrainingPathAtilla2_3d992696 (line 37312)
 translate ru TrainingPathAtilla2_3d992696:
@@ -616,7 +616,7 @@ translate ru TrainingPathAtilla2_d6777168:
 # TrainingPathAtilla2_e8b6e1b6 (line 37322)
 translate ru TrainingPathAtilla2_e8b6e1b6:
     # a "Very good."
-    a ""
+    a "Very good."
 
 # TrainingPathAtilla2_62500fd8 (line 37323)
 translate ru TrainingPathAtilla2_62500fd8:
@@ -636,7 +636,7 @@ translate ru TrainingPathAtilla2_33d078f1:
 # TrainingPathAtilla2_e7ce29a9 (line 37326)
 translate ru TrainingPathAtilla2_e7ce29a9:
     # a "Now. Let's see if you can do this on the move."
-    a ""
+    a "Now. Let's see if you can do this on the move."
 
 # TrainingPathAtilla2_d381a73e (line 37327)
 translate ru TrainingPathAtilla2_d381a73e:
@@ -676,7 +676,7 @@ translate ru TrainingPathAtilla2_a2d15ca9:
 # TrainingPathAtilla2_c63909fc (line 37334)
 translate ru TrainingPathAtilla2_c63909fc:
     # s "Ready to give up yet?"
-    s ""
+    s "Ready to give up yet?"
 
 # TrainingPathAtilla2_15d92960 (line 37335)
 translate ru TrainingPathAtilla2_15d92960:
@@ -741,12 +741,12 @@ translate ru TrainingPathAtilla2_2419e896:
 # TrainingPathAtilla2_bb01dc1c (line 37349)
 translate ru TrainingPathAtilla2_bb01dc1c:
     # a "Now you see..."
-    a ""
+    a "Now you see..."
 
 # TrainingPathAtilla2_09b22750 (line 37350)
 translate ru TrainingPathAtilla2_09b22750:
     # a "What happens when you let yourself get arrogant."
-    a ""
+    a "What happens when you let yourself get arrogant."
 
 # TrainingPathAtilla2_ac63055c (line 37351)
 translate ru TrainingPathAtilla2_ac63055c:
@@ -756,12 +756,12 @@ translate ru TrainingPathAtilla2_ac63055c:
 # TrainingPathAtilla2_7837cd57 (line 37352)
 translate ru TrainingPathAtilla2_7837cd57:
     # a "War is not  game. If your slow, only for a moment, it can mean the end of you."
-    a ""
+    a "War is not  game. If your slow, only for a moment, it can mean the end of you."
 
 # TrainingPathAtilla2_30a9500f (line 37353)
 translate ru TrainingPathAtilla2_30a9500f:
     # a "I’ve killed men in battle, great men, some many times stronger than even me, because for a moment, they lapsed in their attention."
-    a ""
+    a "I’ve killed men in battle, great men, some many times stronger than even me, because for a moment, they lapsed in their attention."
 
 # TrainingPathAtilla2_36ae2703 (line 37354)
 translate ru TrainingPathAtilla2_36ae2703:
@@ -771,7 +771,7 @@ translate ru TrainingPathAtilla2_36ae2703:
 # TrainingPathAtilla2_b78e57a8 (line 37355)
 translate ru TrainingPathAtilla2_b78e57a8:
     # a "They were slow, just once, and it cost them their lives."
-    a ""
+    a "They were slow, just once, and it cost them their lives."
 
 # TrainingPathAtilla2_bef6fa5e (line 37356)
 translate ru TrainingPathAtilla2_bef6fa5e:
@@ -781,7 +781,7 @@ translate ru TrainingPathAtilla2_bef6fa5e:
 # TrainingPathAtilla2_3622bc4e (line 37357)
 translate ru TrainingPathAtilla2_3622bc4e:
     # a "And battle is nothing like those fancy books you might have read about knights and heroes."
-    a ""
+    a "And battle is nothing like those fancy books you might have read about knights and heroes."
 
 # TrainingPathAtilla2_d0064a52 (line 37358)
 translate ru TrainingPathAtilla2_d0064a52:
@@ -846,7 +846,7 @@ translate ru TrainingPathAtilla2_e3673e10:
 # TrainingPathAtilla2_b503b0f8 (line 37370)
 translate ru TrainingPathAtilla2_b503b0f8:
     # a "I’ll show you what they do to pretty girls on a battlefield..."
-    a ""
+    a "I’ll show you what they do to pretty girls on a battlefield..."
 
 # TrainingPathAtilla2_ac7afc95 (line 37372)
 translate ru TrainingPathAtilla2_ac7afc95:

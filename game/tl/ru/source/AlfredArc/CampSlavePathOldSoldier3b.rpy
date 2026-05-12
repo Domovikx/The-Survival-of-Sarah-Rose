@@ -606,7 +606,7 @@ translate ru CampSlavePathOldSoldier3b_cad33388:
 # CampSlavePathOldSoldier3b_c4ab847d (line 23541)
 translate ru CampSlavePathOldSoldier3b_c4ab847d:
     # s "Hey...I just came back from getting some water."
-    s ""
+    s "Hey...I just came back from getting some water."
 
 # CampSlavePathOldSoldier3b_5a6d6270 (line 23542)
 translate ru CampSlavePathOldSoldier3b_5a6d6270:
@@ -646,7 +646,7 @@ translate ru CampSlavePathOldSoldier3b_aca337e3:
 # CampSlavePathOldSoldier3b_93a6b8e6 (line 23549)
 translate ru CampSlavePathOldSoldier3b_93a6b8e6:
     # s "Hey! I...I need that to clean up the house!"
-    s ""
+    s "Hey! I...I need that to clean up the house!"
 
 # CampSlavePathOldSoldier3b_4e463717 (line 23550)
 translate ru CampSlavePathOldSoldier3b_4e463717:

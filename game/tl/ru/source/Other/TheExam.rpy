@@ -106,7 +106,7 @@ translate ru TheExam_37123125:
 # TheExam_a664687b (line 38059)
 translate ru TheExam_a664687b:
     # s "Ready!"
-    s ""
+    s "Ready!"
 
 # TheExam_b20574fc (line 38060)
 translate ru TheExam_b20574fc:
@@ -431,7 +431,7 @@ translate ru TheExam_f667e8f4:
 # TheExam_4358850a (line 38199)
 translate ru TheExam_4358850a:
     # vae "You did quite well on the exam, I heard."
-    vae ""
+    vae "You did quite well on the exam, I heard."
 
 # TheExam_7fac6d12 (line 38200)
 translate ru TheExam_7fac6d12:
@@ -441,12 +441,12 @@ translate ru TheExam_7fac6d12:
 # TheExam_133aa6f5 (line 38201)
 translate ru TheExam_133aa6f5:
     # vae "The Rose Knight...I think they're calling you..."
-    vae ""
+    vae "The Rose Knight...I think they're calling you..."
 
 # TheExam_67adc1bc (line 38202)
 translate ru TheExam_67adc1bc:
     # s "It's just a silly name, I'm sure they will move on soon."
-    s ""
+    s "It's just a silly name, I'm sure they will move on soon."
 
 # TheExam_cffe6fd2 (line 38203)
 translate ru TheExam_cffe6fd2:
@@ -456,12 +456,12 @@ translate ru TheExam_cffe6fd2:
 # TheExam_0e22795b (line 38204)
 translate ru TheExam_0e22795b:
     # vae "Perhaps...perhaps not. A boy once joined our company, and on exam day he threw up on himself."
-    vae ""
+    vae "Perhaps...perhaps not. A boy once joined our company, and on exam day he threw up on himself."
 
 # TheExam_aef3be02 (line 38205)
 translate ru TheExam_aef3be02:
     # vae "I think they called him splot for years after, never lived it down."
-    vae ""
+    vae "I think they called him splot for years after, never lived it down."
 
 # TheExam_75d412a6 (line 38206)
 translate ru TheExam_75d412a6:
@@ -471,7 +471,7 @@ translate ru TheExam_75d412a6:
 # TheExam_803fa068 (line 38207)
 translate ru TheExam_803fa068:
     # s "Well, I suppose there are worse names, should it stick."
-    s ""
+    s "Well, I suppose there are worse names, should it stick."
 
 # TheExam_62bebe09 (line 38208)
 translate ru TheExam_62bebe09:
@@ -481,7 +481,7 @@ translate ru TheExam_62bebe09:
 # TheExam_cd1b7f3a (line 38209)
 translate ru TheExam_cd1b7f3a:
     # vae "For some that join, they need someone to read out the words, but I imagine you know how to read?"
-    vae ""
+    vae "For some that join, they need someone to read out the words, but I imagine you know how to read?"
 
 # TheExam_e4d77db4 (line 38210)
 translate ru TheExam_e4d77db4:
@@ -521,7 +521,7 @@ translate ru TheExam_afabad86:
 # TheExam_8718b600 (line 38217)
 translate ru TheExam_8718b600:
     # s "Do you remember what we spoke about, months ago when we first met?"
-    s ""
+    s "Do you remember what we spoke about, months ago when we first met?"
 
 # TheExam_2a26ba96 (line 38218)
 translate ru TheExam_2a26ba96:
@@ -531,7 +531,7 @@ translate ru TheExam_2a26ba96:
 # TheExam_b97c513d (line 38219)
 translate ru TheExam_b97c513d:
     # vae "I do...I vowed that I would help you return to Rosanna."
-    vae ""
+    vae "I do...I vowed that I would help you return to Rosanna."
 
 # TheExam_6a1a501d (line 38220)
 translate ru TheExam_6a1a501d:
@@ -541,7 +541,7 @@ translate ru TheExam_6a1a501d:
 # TheExam_0529d28c (line 38221)
 translate ru TheExam_0529d28c:
     # s "Do you still intend to keep that promise?"
-    s ""
+    s "Do you still intend to keep that promise?"
 
 # TheExam_5f2a0012 (line 38222)
 translate ru TheExam_5f2a0012:
@@ -551,7 +551,7 @@ translate ru TheExam_5f2a0012:
 # TheExam_8308aae0 (line 38223)
 translate ru TheExam_8308aae0:
     # vae "I don't have much of a choice."
-    vae ""
+    vae "I don't have much of a choice."
 
 # TheExam_2c2c8639 (line 38224)
 translate ru TheExam_2c2c8639:
@@ -566,7 +566,7 @@ translate ru TheExam_e7443adf:
 # TheExam_43982e2b (line 38226)
 translate ru TheExam_43982e2b:
     # vae "I'm sure you've heard the story from some, but I don't walk a normal path."
-    vae ""
+    vae "I'm sure you've heard the story from some, but I don't walk a normal path."
 
 # TheExam_12ff9131 (line 38227)
 translate ru TheExam_12ff9131:
@@ -576,27 +576,27 @@ translate ru TheExam_12ff9131:
 # TheExam_98530116 (line 38228)
 translate ru TheExam_98530116:
     # vae "A long time ago, when I was still young, younger than you even, I lived in a small town out in the Mytrhan Southlands."
-    vae ""
+    vae "A long time ago, when I was still young, younger than you even, I lived in a small town out in the Mytrhan Southlands."
 
 # TheExam_882773e1 (line 38229)
 translate ru TheExam_882773e1:
     # vae "Nothing grows there, it's mostly desert."
-    vae ""
+    vae "Nothing grows there, it's mostly desert."
 
 # TheExam_0dc1139d (line 38230)
 translate ru TheExam_0dc1139d:
     # vae "The only way that anyone makes a living, is by working the mines. And in the Southlands, you begin working the mines early."
-    vae ""
+    vae "The only way that anyone makes a living, is by working the mines. And in the Southlands, you begin working the mines early."
 
 # TheExam_1f6cb7bc (line 38231)
 translate ru TheExam_1f6cb7bc:
     # vae "I was eleven years old, had been working the mines for some years at that point."
-    vae ""
+    vae "I was eleven years old, had been working the mines for some years at that point."
 
 # TheExam_08e9304f (line 38232)
 translate ru TheExam_08e9304f:
     # vae "The children were tasked with exploring the deeper parts, given that we were so small, only we could fit through the crevices."
-    vae ""
+    vae "The children were tasked with exploring the deeper parts, given that we were so small, only we could fit through the crevices."
 
 # TheExam_7d02bd9f (line 38233)
 translate ru TheExam_7d02bd9f:
@@ -606,32 +606,32 @@ translate ru TheExam_7d02bd9f:
 # TheExam_0c79c05f (line 38234)
 translate ru TheExam_0c79c05f:
     # vae "One day, that started the same as any other, we went back into the mines and I crawled through one of the crevices."
-    vae ""
+    vae "One day, that started the same as any other, we went back into the mines and I crawled through one of the crevices."
 
 # TheExam_94cda0a1 (line 38235)
 translate ru TheExam_94cda0a1:
     # vae "Each path lead into the next, and with each step, the corridor grew more narrow. That is when I made my fatal mistake."
-    vae ""
+    vae "Each path lead into the next, and with each step, the corridor grew more narrow. That is when I made my fatal mistake."
 
 # TheExam_4009f162 (line 38236)
 translate ru TheExam_4009f162:
     # vae "Growing afraid, I turned too fast and my body became lodged, fixed, between the walls of the cavern."
-    vae ""
+    vae "Growing afraid, I turned too fast and my body became lodged, fixed, between the walls of the cavern."
 
 # TheExam_6aa2c88a (line 38237)
 translate ru TheExam_6aa2c88a:
     # vae "I could still cry out, but I could no longer move my body, trapped in the rock."
-    vae ""
+    vae "I could still cry out, but I could no longer move my body, trapped in the rock."
 
 # TheExam_208c191e (line 38238)
 translate ru TheExam_208c191e:
     # vae "Some of the other children found me, but none of the adults could reach me. They tried to pull me free, but I was too stuck."
-    vae ""
+    vae "Some of the other children found me, but none of the adults could reach me. They tried to pull me free, but I was too stuck."
 
 # TheExam_203a9aca (line 38239)
 translate ru TheExam_203a9aca:
     # vae "And so, after their attempts were exhausted, they left to go back to the surface, and I was left alone, in the depths of the earth, in the pitch black."
-    vae ""
+    vae "And so, after their attempts were exhausted, they left to go back to the surface, and I was left alone, in the depths of the earth, in the pitch black."
 
 # TheExam_fa407d5c (line 38240)
 translate ru TheExam_fa407d5c:
@@ -641,47 +641,47 @@ translate ru TheExam_fa407d5c:
 # TheExam_a35b7263 (line 38241)
 translate ru TheExam_a35b7263:
     # vae "Ooh Sarah, never did I know a darkness that black could exist."
-    vae ""
+    vae "Ooh Sarah, never did I know a darkness that black could exist."
 
 # TheExam_6a644658 (line 38242)
 translate ru TheExam_6a644658:
     # vae "Unable to sleep, still trapped, all I could do was remain. I lost any sense of time..."
-    vae ""
+    vae "Unable to sleep, still trapped, all I could do was remain. I lost any sense of time..."
 
 # TheExam_651555a4 (line 38243)
 translate ru TheExam_651555a4:
     # vae "But eventually, the darkness itself began to stir. The nothingness began to shift and take shape."
-    vae ""
+    vae "But eventually, the darkness itself began to stir. The nothingness began to shift and take shape."
 
 # TheExam_9f0bb94a (line 38244)
 translate ru TheExam_9f0bb94a:
     # vae "Soon after, the voices began. At first, unintelligible, but slowly, the words began to make sense to me."
-    vae ""
+    vae "Soon after, the voices began. At first, unintelligible, but slowly, the words began to make sense to me."
 
 # TheExam_46cfecbf (line 38245)
 translate ru TheExam_46cfecbf:
     # vae "There, trapped, the darkness reached out and spoke to me, but it did not frighten me, Sarah, rather, it soothed."
-    vae ""
+    vae "There, trapped, the darkness reached out and spoke to me, but it did not frighten me, Sarah, rather, it soothed."
 
 # TheExam_f9297425 (line 38246)
 translate ru TheExam_f9297425:
     # vae "Like my mother, it carassed my head, whispered my name with a voice full of love, and it began to tell me of a world that could be."
-    vae ""
+    vae "Like my mother, it carassed my head, whispered my name with a voice full of love, and it began to tell me of a world that could be."
 
 # TheExam_63c08e8e (line 38247)
 translate ru TheExam_63c08e8e:
     # vae "Trapped in that mine, I began to see visions of every corner of the world. There, at the bottom of the mine, I saw the ocean before I had ever seen it with my own eyes."
-    vae ""
+    vae "Trapped in that mine, I began to see visions of every corner of the world. There, at the bottom of the mine, I saw the ocean before I had ever seen it with my own eyes."
 
 # TheExam_52d692d6 (line 38248)
 translate ru TheExam_52d692d6:
     # vae "And slowly, the void and the voices strung these visions together in a narrative. The great narrative of my life."
-    vae ""
+    vae "And slowly, the void and the voices strung these visions together in a narrative. The great narrative of my life."
 
 # TheExam_2ba0a706 (line 38249)
 translate ru TheExam_2ba0a706:
     # vae "It told me what I could become, what the stars themselves had decreed for me."
-    vae ""
+    vae "It told me what I could become, what the stars themselves had decreed for me."
 
 # TheExam_7df47a6c (line 38250)
 translate ru TheExam_7df47a6c:
@@ -691,7 +691,7 @@ translate ru TheExam_7df47a6c:
 # TheExam_b76f1bfc (line 38251)
 translate ru TheExam_b76f1bfc:
     # vae "I saw everything that I had to do, all that I would do, and all that would ever come to pass."
-    vae ""
+    vae "I saw everything that I had to do, all that I would do, and all that would ever come to pass."
 
 # TheExam_bb76c863 (line 38252)
 translate ru TheExam_bb76c863:
@@ -701,12 +701,12 @@ translate ru TheExam_bb76c863:
 # TheExam_e278614f (line 38253)
 translate ru TheExam_e278614f:
     # vae "And you...Sarah Rose...long before you came to my camp I knew we would meet."
-    vae ""
+    vae "And you...Sarah Rose...long before you came to my camp I knew we would meet."
 
 # TheExam_211aa9f3 (line 38254)
 translate ru TheExam_211aa9f3:
     # vae "And I knew that I would have to aid you in reclaiming your country."
-    vae ""
+    vae "And I knew that I would have to aid you in reclaiming your country."
 
 # TheExam_e2f61044 (line 38255)
 translate ru TheExam_e2f61044:
@@ -716,12 +716,12 @@ translate ru TheExam_e2f61044:
 # TheExam_2e2a6e1c (line 38256)
 translate ru TheExam_2e2a6e1c:
     # vae "Sarah...we are walking along a sacred path. Every moment is as fixed as the stars in heaven."
-    vae ""
+    vae "Sarah...we are walking along a sacred path. Every moment is as fixed as the stars in heaven."
 
 # TheExam_6762d416 (line 38257)
 translate ru TheExam_6762d416:
     # vae "And I can see it all around you...we live a charmed life, Sarah, trust me in that, if nothing else."
-    vae ""
+    vae "And I can see it all around you...we live a charmed life, Sarah, trust me in that, if nothing else."
 
 # TheExam_89fe0aca (line 38258)
 translate ru TheExam_89fe0aca:
@@ -731,7 +731,7 @@ translate ru TheExam_89fe0aca:
 # TheExam_b75fcdde (line 38259)
 translate ru TheExam_b75fcdde:
     # s "Then what comes next?"
-    s ""
+    s "Then what comes next?"
 
 # TheExam_d31c5bc0 (line 38260)
 translate ru TheExam_d31c5bc0:
@@ -741,12 +741,12 @@ translate ru TheExam_d31c5bc0:
 # TheExam_d49a7b6f (line 38261)
 translate ru TheExam_d49a7b6f:
     # vae "Too much to speak of, would that I could, but we must live fate, not speak it."
-    vae ""
+    vae "Too much to speak of, would that I could, but we must live fate, not speak it."
 
 # TheExam_3fde3652 (line 38262)
 translate ru TheExam_3fde3652:
     # vae "With this..."
-    vae ""
+    vae "With this..."
 
 # TheExam_363fdebb (line 38263)
 translate ru TheExam_363fdebb:
@@ -756,7 +756,7 @@ translate ru TheExam_363fdebb:
 # TheExam_9b251f6c (line 38264)
 translate ru TheExam_9b251f6c:
     # vae "We've set our first steps."
-    vae ""
+    vae "We've set our first steps."
 
 # TheExam_511040b6 (line 38265)
 translate ru TheExam_511040b6:

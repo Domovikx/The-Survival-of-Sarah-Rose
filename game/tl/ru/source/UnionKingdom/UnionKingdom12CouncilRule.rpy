@@ -16,7 +16,7 @@ translate ru UnionKingdom12CouncilRule_9b542838:
 # UnionKingdom12CouncilRule_000011f3 (line 14144)
 translate ru UnionKingdom12CouncilRule_000011f3:
     # mae "We are gathered here again to settle this final matter. The most important matter of all."
-    mae ""
+    mae "We are gathered here again to settle this final matter. The most important matter of all."
 
 # UnionKingdom12CouncilRule_d08d4953 (line 14145)
 translate ru UnionKingdom12CouncilRule_d08d4953:
@@ -26,7 +26,7 @@ translate ru UnionKingdom12CouncilRule_d08d4953:
 # UnionKingdom12CouncilRule_797f6482 (line 14146)
 translate ru UnionKingdom12CouncilRule_797f6482:
     # mae "Who will rule over our Union."
-    mae ""
+    mae "Who will rule over our Union."
 
 # UnionKingdom12CouncilRule_a0314d22 (line 14147)
 translate ru UnionKingdom12CouncilRule_a0314d22:
@@ -36,12 +36,12 @@ translate ru UnionKingdom12CouncilRule_a0314d22:
 # UnionKingdom12CouncilRule_b7bc1ef9 (line 14148)
 translate ru UnionKingdom12CouncilRule_b7bc1ef9:
     # mae "I do not doubt that each of you has considered themselves for the role, but I would like us all to put aside our personal interests."
-    mae ""
+    mae "I do not doubt that each of you has considered themselves for the role, but I would like us all to put aside our personal interests."
 
 # UnionKingdom12CouncilRule_cc382e8b (line 14149)
 translate ru UnionKingdom12CouncilRule_cc382e8b:
     # mae "Instead, I would ask you all to support myself for the role."
-    mae ""
+    mae "Instead, I would ask you all to support myself for the role."
 
 # UnionKingdom12CouncilRule_a78e80e3 (line 14150)
 translate ru UnionKingdom12CouncilRule_a78e80e3:
@@ -51,17 +51,17 @@ translate ru UnionKingdom12CouncilRule_a78e80e3:
 # UnionKingdom12CouncilRule_ef2d9307 (line 14151)
 translate ru UnionKingdom12CouncilRule_ef2d9307:
     # ant "No surprise there!"
-    ant ""
+    ant "No surprise there!"
 
 # UnionKingdom12CouncilRule_7287bad3 (line 14152)
 translate ru UnionKingdom12CouncilRule_7287bad3:
     # edm "For once I agree with Antonio, of course you want the position for yourself."
-    edm ""
+    edm "For once I agree with Antonio, of course you want the position for yourself."
 
 # UnionKingdom12CouncilRule_d7abd08c (line 14153)
 translate ru UnionKingdom12CouncilRule_d7abd08c:
     # edm "You are ambitious to a fault."
-    edm ""
+    edm "You are ambitious to a fault."
 
 # UnionKingdom12CouncilRule_f4d07b9e (line 14154)
 translate ru UnionKingdom12CouncilRule_f4d07b9e:
@@ -71,17 +71,17 @@ translate ru UnionKingdom12CouncilRule_f4d07b9e:
 # UnionKingdom12CouncilRule_9610a9e3 (line 14155)
 translate ru UnionKingdom12CouncilRule_9610a9e3:
     # mae "I understand you reactions, but let us be fair."
-    mae ""
+    mae "I understand you reactions, but let us be fair."
 
 # UnionKingdom12CouncilRule_dc1b4a29 (line 14156)
 translate ru UnionKingdom12CouncilRule_dc1b4a29:
     # mae "It was I who detected the Mythran invasion. I was the one who set out to put together this Union Council."
-    mae ""
+    mae "It was I who detected the Mythran invasion. I was the one who set out to put together this Union Council."
 
 # UnionKingdom12CouncilRule_9daefafe (line 14157)
 translate ru UnionKingdom12CouncilRule_9daefafe:
     # mae "Out of all of us, I am most prepared to face this attack."
-    mae ""
+    mae "Out of all of us, I am most prepared to face this attack."
 
 # UnionKingdom12CouncilRule_b7bb0314 (line 14158)
 translate ru UnionKingdom12CouncilRule_b7bb0314:
@@ -91,7 +91,7 @@ translate ru UnionKingdom12CouncilRule_b7bb0314:
 # UnionKingdom12CouncilRule_e573065c (line 14159)
 translate ru UnionKingdom12CouncilRule_e573065c:
     # mae "And of course, I will take on the mantle for only a brief moment. Until our Union is safe. Then I will relinquish all this power again."
-    mae ""
+    mae "And of course, I will take on the mantle for only a brief moment. Until our Union is safe. Then I will relinquish all this power again."
 
 # UnionKingdom12CouncilRule_2e3518e3 (line 14160)
 translate ru UnionKingdom12CouncilRule_2e3518e3:
@@ -111,22 +111,22 @@ translate ru UnionKingdom12CouncilRule_c08e6f05:
 # UnionKingdom12CouncilRule_952229a4 (line 14169)
 translate ru UnionKingdom12CouncilRule_952229a4:
     # s "Queen Maeiv...you speak the truth. You detected this threat."
-    s ""
+    s "Queen Maeiv...you speak the truth. You detected this threat."
 
 # UnionKingdom12CouncilRule_d954afd7 (line 14170)
 translate ru UnionKingdom12CouncilRule_d954afd7:
     # s "But, you say that we must be frank, and so I will be just that."
-    s ""
+    s "But, you say that we must be frank, and so I will be just that."
 
 # UnionKingdom12CouncilRule_f732dd2d (line 14171)
 translate ru UnionKingdom12CouncilRule_f732dd2d:
     # s "The truth is that our differences, as much as we have discussed and debated, still remain."
-    s ""
+    s "The truth is that our differences, as much as we have discussed and debated, still remain."
 
 # UnionKingdom12CouncilRule_baeb92da (line 14172)
 translate ru UnionKingdom12CouncilRule_baeb92da:
     # s "Most of us here, even now, do not trust each other."
-    s ""
+    s "Most of us here, even now, do not trust each other."
 
 # UnionKingdom12CouncilRule_5ae44fc4 (line 14173)
 translate ru UnionKingdom12CouncilRule_5ae44fc4:
@@ -136,12 +136,12 @@ translate ru UnionKingdom12CouncilRule_5ae44fc4:
 # UnionKingdom12CouncilRule_06ce09bb (line 14174)
 translate ru UnionKingdom12CouncilRule_06ce09bb:
     # s "We are all fools if we imagine that the four of us would undo centuries of distrust between our nations. Our peoples."
-    s ""
+    s "We are all fools if we imagine that the four of us would undo centuries of distrust between our nations. Our peoples."
 
 # UnionKingdom12CouncilRule_d8fc4285 (line 14175)
 translate ru UnionKingdom12CouncilRule_d8fc4285:
     # s "Only now, with the threat of invasion, are we even somewhat unified."
-    s ""
+    s "Only now, with the threat of invasion, are we even somewhat unified."
 
 # UnionKingdom12CouncilRule_6f327b0b (line 14176)
 translate ru UnionKingdom12CouncilRule_6f327b0b:
@@ -151,17 +151,17 @@ translate ru UnionKingdom12CouncilRule_6f327b0b:
 # UnionKingdom12CouncilRule_1c162b14 (line 14177)
 translate ru UnionKingdom12CouncilRule_1c162b14:
     # s "Instead, I propose that our government structure reflects the truth of our Union."
-    s ""
+    s "Instead, I propose that our government structure reflects the truth of our Union."
 
 # UnionKingdom12CouncilRule_31345d91 (line 14178)
 translate ru UnionKingdom12CouncilRule_31345d91:
     # s "We are divided. So let us rule. Not as one, but as many different parts of a whole."
-    s ""
+    s "We are divided. So let us rule. Not as one, but as many different parts of a whole."
 
 # UnionKingdom12CouncilRule_186356f6 (line 14179)
 translate ru UnionKingdom12CouncilRule_186356f6:
     # s "I propose that our Union shall be governed by a Council, much like this one."
-    s ""
+    s "I propose that our Union shall be governed by a Council, much like this one."
 
 # UnionKingdom12CouncilRule_a25b4690 (line 14180)
 translate ru UnionKingdom12CouncilRule_a25b4690:
@@ -171,7 +171,7 @@ translate ru UnionKingdom12CouncilRule_a25b4690:
 # UnionKingdom12CouncilRule_746c1803 (line 14181)
 translate ru UnionKingdom12CouncilRule_746c1803:
     # mae "No, I don't think that's an option. We must decide on a single ruler."
-    mae ""
+    mae "No, I don't think that's an option. We must decide on a single ruler."
 
 # UnionKingdom12CouncilRule_c9aa58f8 (line 14182)
 translate ru UnionKingdom12CouncilRule_c9aa58f8:
@@ -181,7 +181,7 @@ translate ru UnionKingdom12CouncilRule_c9aa58f8:
 # UnionKingdom12CouncilRule_c605244b (line 14183)
 translate ru UnionKingdom12CouncilRule_c605244b:
     # s "By whose word?"
-    s ""
+    s "By whose word?"
 
 # UnionKingdom12CouncilRule_f6da3b35 (line 14184)
 translate ru UnionKingdom12CouncilRule_f6da3b35:
@@ -191,7 +191,7 @@ translate ru UnionKingdom12CouncilRule_f6da3b35:
 # UnionKingdom12CouncilRule_7eb46719 (line 14185)
 translate ru UnionKingdom12CouncilRule_7eb46719:
     # s "We are each the rulers of our nations. We set the rules for this new Union that we are creating. It is whatever we say it to be."
-    s ""
+    s "We are each the rulers of our nations. We set the rules for this new Union that we are creating. It is whatever we say it to be."
 
 # UnionKingdom12CouncilRule_7548ef66 (line 14186)
 translate ru UnionKingdom12CouncilRule_7548ef66:
@@ -216,7 +216,7 @@ translate ru UnionKingdom12CouncilRule_308c41c7:
 # UnionKingdom12CouncilRule_e9cc1da5 (line 14190)
 translate ru UnionKingdom12CouncilRule_e9cc1da5:
     # ant "An excellent proposal, Sarah. I will support it."
-    ant ""
+    ant "An excellent proposal, Sarah. I will support it."
 
 # UnionKingdom12CouncilRule_03d10cb1 (line 14191)
 translate ru UnionKingdom12CouncilRule_03d10cb1:
@@ -226,12 +226,12 @@ translate ru UnionKingdom12CouncilRule_03d10cb1:
 # UnionKingdom12CouncilRule_718ebc7a (line 14192)
 translate ru UnionKingdom12CouncilRule_718ebc7a:
     # edm "My preference would have been for a single ruler, but if the choice is between power-hungry politicians or a Council, I will support the latter."
-    edm ""
+    edm "My preference would have been for a single ruler, but if the choice is between power-hungry politicians or a Council, I will support the latter."
 
 # UnionKingdom12CouncilRule_50819312 (line 14193)
 translate ru UnionKingdom12CouncilRule_50819312:
     # edm "You have my support as well, Sarah."
-    edm ""
+    edm "You have my support as well, Sarah."
 
 # UnionKingdom12CouncilRule_7e1ace27 (line 14194)
 translate ru UnionKingdom12CouncilRule_7e1ace27:
@@ -241,12 +241,12 @@ translate ru UnionKingdom12CouncilRule_7e1ace27:
 # UnionKingdom12CouncilRule_15c17ce7 (line 14195)
 translate ru UnionKingdom12CouncilRule_15c17ce7:
     # mae "I..."
-    mae ""
+    mae "I..."
 
 # UnionKingdom12CouncilRule_bc92115c (line 14196)
 translate ru UnionKingdom12CouncilRule_bc92115c:
     # mae "Think that is a wonderful idea, Sarah."
-    mae ""
+    mae "Think that is a wonderful idea, Sarah."
 
 # UnionKingdom12CouncilRule_1da3a719 (line 14197)
 translate ru UnionKingdom12CouncilRule_1da3a719:
@@ -256,7 +256,7 @@ translate ru UnionKingdom12CouncilRule_1da3a719:
 # UnionKingdom12CouncilRule_6b5b5a82 (line 14198)
 translate ru UnionKingdom12CouncilRule_6b5b5a82:
     # s "Excellent, then it is decided by unanimous consent."
-    s ""
+    s "Excellent, then it is decided by unanimous consent."
 
 # UnionKingdom12CouncilRule_ae50391f (line 14199)
 translate ru UnionKingdom12CouncilRule_ae50391f:

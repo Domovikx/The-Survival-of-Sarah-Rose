@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: UnionKingdom10
-# Total blocks: 19
+# Total blocks: 17
 
 # UnionKingdom10_4c21a093 (line 12216)
 translate ru UnionKingdom10_4c21a093:
@@ -87,14 +87,4 @@ translate ru UnionKingdom10_b906d20e:
 translate ru UnionKingdom10_d5ff2b03:
     # "She began to consider."
     ""
-
-# UnionKingdom10_32a88a16 (line 12240)
-translate ru UnionKingdom10_32a88a16:
-    # "Support the nobility"
-    "Support the nobility" ""
-
-# UnionKingdom10_23d5ef32 (line 12246)
-translate ru UnionKingdom10_23d5ef32:
-    # "Support the commoners"
-    "Support the commoners" ""
 

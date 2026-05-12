@@ -51,142 +51,142 @@ translate ru TheBlackMonolithMage12_7c83db4c:
 # TheBlackMonolithMage12_4aef5064 (line 82164)
 translate ru TheBlackMonolithMage12_4aef5064:
     # met "Dear Xan, I write you this letter because I fear that our paths did not cross."
-    met ""
+    met "Dear Xan, I write you this letter because I fear that our paths did not cross."
 
 # TheBlackMonolithMage12_695d5af4 (line 82165)
 translate ru TheBlackMonolithMage12_695d5af4:
     # met "When you are reading this, I will already be well on my way towards the Isles of Karpath."
-    met ""
+    met "When you are reading this, I will already be well on my way towards the Isles of Karpath."
 
 # TheBlackMonolithMage12_97652f05 (line 82166)
 translate ru TheBlackMonolithMage12_97652f05:
     # met "I still remember the days we had spend on that beach, the ruins."
-    met ""
+    met "I still remember the days we had spend on that beach, the ruins."
 
 # TheBlackMonolithMage12_7b40c60d (line 82167)
 translate ru TheBlackMonolithMage12_7b40c60d:
     # met "You were guarded of me back then, but I must return there now."
-    met ""
+    met "You were guarded of me back then, but I must return there now."
 
 # TheBlackMonolithMage12_cf81d1f0 (line 82168)
 translate ru TheBlackMonolithMage12_cf81d1f0:
     # met "Not merely for the memories."
-    met ""
+    met "Not merely for the memories."
 
 # TheBlackMonolithMage12_4a07143d (line 82169)
 translate ru TheBlackMonolithMage12_4a07143d:
     # met "I wish that I could speak more to you, but I find these days that most everyone in the Order has become a gossip."
-    met ""
+    met "I wish that I could speak more to you, but I find these days that most everyone in the Order has become a gossip."
 
 # TheBlackMonolithMage12_99f3925d (line 82170)
 translate ru TheBlackMonolithMage12_99f3925d:
     # met "Perhaps they were always like that."
-    met ""
+    met "Perhaps they were always like that."
 
 # TheBlackMonolithMage12_31c28e9d (line 82171)
 translate ru TheBlackMonolithMage12_31c28e9d:
     # met "Regardless, I can speak more on the matter when we meet. Truly meet."
-    met ""
+    met "Regardless, I can speak more on the matter when we meet. Truly meet."
 
 # TheBlackMonolithMage12_1e287e32 (line 82172)
 translate ru TheBlackMonolithMage12_1e287e32:
     # met "The reason for leaving you this letter however, has nothing to do with my travel plans."
-    met ""
+    met "The reason for leaving you this letter however, has nothing to do with my travel plans."
 
 # TheBlackMonolithMage12_2a317a01 (line 82173)
 translate ru TheBlackMonolithMage12_2a317a01:
     # met "Rather, there is a matter that I had been hoping to look into further, but I find myself struggling for time."
-    met ""
+    met "Rather, there is a matter that I had been hoping to look into further, but I find myself struggling for time."
 
 # TheBlackMonolithMage12_df17740f (line 82174)
 translate ru TheBlackMonolithMage12_df17740f:
     # met "Included with this letter you will find a report submitted by an acolyte from the Order."
-    met ""
+    met "Included with this letter you will find a report submitted by an acolyte from the Order."
 
 # TheBlackMonolithMage12_4c3e1cab (line 82175)
 translate ru TheBlackMonolithMage12_4c3e1cab:
     # met "She analyzed magical paterns from one of our measuring stations deep in the Mythran heartland."
-    met ""
+    met "She analyzed magical paterns from one of our measuring stations deep in the Mythran heartland."
 
 # TheBlackMonolithMage12_5e2aa6f4 (line 82176)
 translate ru TheBlackMonolithMage12_5e2aa6f4:
     # met "It describes an anomaly, produced by rhythmic magical pulses, eminating from the further North."
-    met ""
+    met "It describes an anomaly, produced by rhythmic magical pulses, eminating from the further North."
 
 # TheBlackMonolithMage12_ad721f01 (line 82177)
 translate ru TheBlackMonolithMage12_ad721f01:
     # met "This station lies close to the Mythran border with the jungles of Nephatim."
-    met ""
+    met "This station lies close to the Mythran border with the jungles of Nephatim."
 
 # TheBlackMonolithMage12_ba15e42e (line 82178)
 translate ru TheBlackMonolithMage12_ba15e42e:
     # met "As you are well aware, more than most even, this leaves few real potential sources for the origin of this signal."
-    met ""
+    met "As you are well aware, more than most even, this leaves few real potential sources for the origin of this signal."
 
 # TheBlackMonolithMage12_0d7212bc (line 82179)
 translate ru TheBlackMonolithMage12_0d7212bc:
     # met "Varany. The oldest city."
-    met ""
+    met "Varany. The oldest city."
 
 # TheBlackMonolithMage12_3d796c31 (line 82180)
 translate ru TheBlackMonolithMage12_3d796c31:
     # met "The Order has left the city to its ruins, and rightly so. For millenia it was silent."
-    met ""
+    met "The Order has left the city to its ruins, and rightly so. For millenia it was silent."
 
 # TheBlackMonolithMage12_8c04c84c (line 82181)
 translate ru TheBlackMonolithMage12_8c04c84c:
     # met "But you have perhaps infected me with your paranoia, and I cannot help but wonder...what if."
-    met ""
+    met "But you have perhaps infected me with your paranoia, and I cannot help but wonder...what if."
 
 # TheBlackMonolithMage12_e41b1f7e (line 82182)
 translate ru TheBlackMonolithMage12_e41b1f7e:
     # met "Our Order holds a near singular grip on magic in the world."
-    met ""
+    met "Our Order holds a near singular grip on magic in the world."
 
 # TheBlackMonolithMage12_fb1bc94a (line 82183)
 translate ru TheBlackMonolithMage12_fb1bc94a:
     # met "The jungle Tribes have shown no aptitude or interest in it."
-    met ""
+    met "The jungle Tribes have shown no aptitude or interest in it."
 
 # TheBlackMonolithMage12_3883e654 (line 82184)
 translate ru TheBlackMonolithMage12_3883e654:
     # met "So what then?"
-    met ""
+    met "So what then?"
 
 # TheBlackMonolithMage12_20c96c21 (line 82185)
 translate ru TheBlackMonolithMage12_20c96c21:
     # met "I fear I have no more of an answer to that question than you likely do."
-    met ""
+    met "I fear I have no more of an answer to that question than you likely do."
 
 # TheBlackMonolithMage12_55c12d56 (line 82186)
 translate ru TheBlackMonolithMage12_55c12d56:
     # met "However, you do possess a singular advantage. The House."
-    met ""
+    met "However, you do possess a singular advantage. The House."
 
 # TheBlackMonolithMage12_a058006d (line 82187)
 translate ru TheBlackMonolithMage12_a058006d:
     # met "It was my intention to discuss with you an expedition to Varany, even though I am well aware of your position."
-    met ""
+    met "It was my intention to discuss with you an expedition to Varany, even though I am well aware of your position."
 
 # TheBlackMonolithMage12_00925a64 (line 82188)
 translate ru TheBlackMonolithMage12_00925a64:
     # met "For the time being, I would ask that you consider the matter."
-    met ""
+    met "For the time being, I would ask that you consider the matter."
 
 # TheBlackMonolithMage12_b0301e42 (line 82189)
 translate ru TheBlackMonolithMage12_b0301e42:
     # met "When next we meet, I hope we can continue this discussion."
-    met ""
+    met "When next we meet, I hope we can continue this discussion."
 
 # TheBlackMonolithMage12_21efcb7a (line 82190)
 translate ru TheBlackMonolithMage12_21efcb7a:
     # met "I look forward to your opinion on the matter, as always."
-    met ""
+    met "I look forward to your opinion on the matter, as always."
 
 # TheBlackMonolithMage12_9f62dff9 (line 82191)
 translate ru TheBlackMonolithMage12_9f62dff9:
     # met "Your loyal student and more, Metis."
-    met ""
+    met "Your loyal student and more, Metis."
 
 # TheBlackMonolithMage12_08f0134b (line 82193)
 translate ru TheBlackMonolithMage12_08f0134b:

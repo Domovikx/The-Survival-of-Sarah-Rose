@@ -81,7 +81,7 @@ translate ru TrainingPathAtilla_b10902d6:
 # TrainingPathAtilla_5e066c88 (line 36962)
 translate ru TrainingPathAtilla_5e066c88:
     # a "Have you come to ruin another one of my dinners, girl?"
-    a ""
+    a "Have you come to ruin another one of my dinners, girl?"
 
 # TrainingPathAtilla_12a0e911 (line 36963)
 translate ru TrainingPathAtilla_12a0e911:
@@ -91,7 +91,7 @@ translate ru TrainingPathAtilla_12a0e911:
 # TrainingPathAtilla_ff4fbcb8 (line 36964)
 translate ru TrainingPathAtilla_ff4fbcb8:
     # s "I was watching you train."
-    s ""
+    s "I was watching you train."
 
 # TrainingPathAtilla_0faa0570 (line 36965)
 translate ru TrainingPathAtilla_0faa0570:
@@ -101,7 +101,7 @@ translate ru TrainingPathAtilla_0faa0570:
 # TrainingPathAtilla_50d59aa7 (line 36966)
 translate ru TrainingPathAtilla_50d59aa7:
     # s "Do you think that, perhaps, you could train me?"
-    s ""
+    s "Do you think that, perhaps, you could train me?"
 
 # TrainingPathAtilla_9f96f55c (line 36967)
 translate ru TrainingPathAtilla_9f96f55c:
@@ -111,12 +111,12 @@ translate ru TrainingPathAtilla_9f96f55c:
 # TrainingPathAtilla_ea5ef333 (line 36968)
 translate ru TrainingPathAtilla_ea5ef333:
     # a "What do you need training for?"
-    a ""
+    a "What do you need training for?"
 
 # TrainingPathAtilla_a595377e (line 36969)
 translate ru TrainingPathAtilla_a595377e:
     # s "I'm going to apply for the initiation exam, to become a member."
-    s ""
+    s "I'm going to apply for the initiation exam, to become a member."
 
 # TrainingPathAtilla_7bc3d27e (line 36970)
 translate ru TrainingPathAtilla_7bc3d27e:
@@ -126,7 +126,7 @@ translate ru TrainingPathAtilla_7bc3d27e:
 # TrainingPathAtilla_38927386 (line 36971)
 translate ru TrainingPathAtilla_38927386:
     # a "Suicide for you, girl. You don't have a soldier's constitution."
-    a ""
+    a "Suicide for you, girl. You don't have a soldier's constitution."
 
 # TrainingPathAtilla_64e3f291 (line 36972)
 translate ru TrainingPathAtilla_64e3f291:
@@ -136,7 +136,7 @@ translate ru TrainingPathAtilla_64e3f291:
 # TrainingPathAtilla_12e503b7 (line 36973)
 translate ru TrainingPathAtilla_12e503b7:
     # s "You don't know what I'm capable of..."
-    s ""
+    s "You don't know what I'm capable of..."
 
 # TrainingPathAtilla_8f43e26b (line 36974)
 translate ru TrainingPathAtilla_8f43e26b:
@@ -146,7 +146,7 @@ translate ru TrainingPathAtilla_8f43e26b:
 # TrainingPathAtilla_d95ad236 (line 36975)
 translate ru TrainingPathAtilla_d95ad236:
     # a "Perhaps not, but I'm not looking for someone to follow me around. Go bother someone else."
-    a ""
+    a "Perhaps not, but I'm not looking for someone to follow me around. Go bother someone else."
 
 # TrainingPathAtilla_9047c72a (line 36976)
 translate ru TrainingPathAtilla_9047c72a:
@@ -161,7 +161,7 @@ translate ru TrainingPathAtilla_ab634695:
 # TrainingPathAtilla_f001ee2d (line 36983)
 translate ru TrainingPathAtilla_f001ee2d:
     # s "Please...I need help to pass the exam, and nobody is as strong as you."
-    s ""
+    s "Please...I need help to pass the exam, and nobody is as strong as you."
 
 # TrainingPathAtilla_b6c63eb4 (line 36984)
 translate ru TrainingPathAtilla_b6c63eb4:
@@ -171,7 +171,7 @@ translate ru TrainingPathAtilla_b6c63eb4:
 # TrainingPathAtilla_90f771fb (line 36985)
 translate ru TrainingPathAtilla_90f771fb:
     # a "This is true."
-    a ""
+    a "This is true."
 
 # TrainingPathAtilla_e6c8b2b7 (line 36986)
 translate ru TrainingPathAtilla_e6c8b2b7:
@@ -181,7 +181,7 @@ translate ru TrainingPathAtilla_e6c8b2b7:
 # TrainingPathAtilla_0efff55c (line 36987)
 translate ru TrainingPathAtilla_0efff55c:
     # a "But, you cannot afford me."
-    a ""
+    a "But, you cannot afford me."
 
 # TrainingPathAtilla_b6f92e2a (line 36988)
 translate ru TrainingPathAtilla_b6f92e2a:
@@ -191,7 +191,7 @@ translate ru TrainingPathAtilla_b6f92e2a:
 # TrainingPathAtilla_6e31ba4d (line 36989)
 translate ru TrainingPathAtilla_6e31ba4d:
     # s "I thought about that. I can offer you half of all my future paychecks. That should make it worth your time."
-    s ""
+    s "I thought about that. I can offer you half of all my future paychecks. That should make it worth your time."
 
 # TrainingPathAtilla_e28302ef (line 36990)
 translate ru TrainingPathAtilla_e28302ef:
@@ -201,7 +201,7 @@ translate ru TrainingPathAtilla_e28302ef:
 # TrainingPathAtilla_ebf5b62b (line 36991)
 translate ru TrainingPathAtilla_ebf5b62b:
     # a "You only get paid for as long as you survive. I can't imagine you lasting past a single battle. Half of nothing is nothing, girl."
-    a ""
+    a "You only get paid for as long as you survive. I can't imagine you lasting past a single battle. Half of nothing is nothing, girl."
 
 # TrainingPathAtilla_00ac0e05 (line 36992)
 translate ru TrainingPathAtilla_00ac0e05:
@@ -221,7 +221,7 @@ translate ru TrainingPathAtilla_933995ae:
 # TrainingPathAtilla_d41934ca (line 36995)
 translate ru TrainingPathAtilla_d41934ca:
     # s "There might be another way that I could pay you..."
-    s ""
+    s "There might be another way that I could pay you..."
 
 # TrainingPathAtilla_12866870 (line 36996)
 translate ru TrainingPathAtilla_12866870:
@@ -231,7 +231,7 @@ translate ru TrainingPathAtilla_12866870:
 # TrainingPathAtilla_dfb4bb66 (line 36997)
 translate ru TrainingPathAtilla_dfb4bb66:
     # a "Like what?"
-    a ""
+    a "Like what?"
 
 # TrainingPathAtilla_9255af7c (line 36998)
 translate ru TrainingPathAtilla_9255af7c:
@@ -241,7 +241,7 @@ translate ru TrainingPathAtilla_9255af7c:
 # TrainingPathAtilla_09a27ef7 (line 36999)
 translate ru TrainingPathAtilla_09a27ef7:
     # s "My body..."
-    s ""
+    s "My body..."
 
 # TrainingPathAtilla_e5ae51e9 (line 37000)
 translate ru TrainingPathAtilla_e5ae51e9:
@@ -261,12 +261,12 @@ translate ru TrainingPathAtilla_8e1781e7:
 # TrainingPathAtilla_fadb0923 (line 37003)
 translate ru TrainingPathAtilla_fadb0923:
     # a "I'll accept your bargain...but the training will be your own. I can guide you, instruct you, but in the end, only you can commit to it."
-    a ""
+    a "I'll accept your bargain...but the training will be your own. I can guide you, instruct you, but in the end, only you can commit to it."
 
 # TrainingPathAtilla_631c57cd (line 37004)
 translate ru TrainingPathAtilla_631c57cd:
     # a "I won't drag you along. The training will be brutal. If you falter, that will be your fault."
-    a ""
+    a "I won't drag you along. The training will be brutal. If you falter, that will be your fault."
 
 # TrainingPathAtilla_8c73d1b4 (line 37005)
 translate ru TrainingPathAtilla_8c73d1b4:
@@ -276,12 +276,12 @@ translate ru TrainingPathAtilla_8c73d1b4:
 # TrainingPathAtilla_a2c56ccb (line 37006)
 translate ru TrainingPathAtilla_a2c56ccb:
     # s "Understood."
-    s ""
+    s "Understood."
 
 # TrainingPathAtilla_4734a871 (line 37007)
 translate ru TrainingPathAtilla_4734a871:
     # a "Well then, let us settle this deal."
-    a ""
+    a "Well then, let us settle this deal."
 
 # TrainingPathAtilla_c6eb4d46 (line 37008)
 translate ru TrainingPathAtilla_c6eb4d46:
@@ -316,7 +316,7 @@ translate ru TrainingPathAtilla_1642651b:
 # TrainingPathAtilla_ae6f4b89 (line 37014)
 translate ru TrainingPathAtilla_ae6f4b89:
     # s "R-r-right here? Someone could walk in on us...isn't there somewhere more...private?"
-    s ""
+    s "R-r-right here? Someone could walk in on us...isn't there somewhere more...private?"
 
 # TrainingPathAtilla_5bd8cec6 (line 37015)
 translate ru TrainingPathAtilla_5bd8cec6:
@@ -351,7 +351,7 @@ translate ru TrainingPathAtilla_44f3b9ab:
 # TrainingPathAtilla_f6645f9d (line 37026)
 translate ru TrainingPathAtilla_f6645f9d:
     # a "Strip!"
-    a ""
+    a "Strip!"
 
 # TrainingPathAtilla_9762f3a8 (line 37027)
 translate ru TrainingPathAtilla_9762f3a8:
@@ -526,7 +526,7 @@ translate ru TrainingPathAtilla_1a06486a:
 # TrainingPathAtilla_4367f261 (line 37066)
 translate ru TrainingPathAtilla_4367f261:
     # a "Bigger than you're used to, huh?"
-    a ""
+    a "Bigger than you're used to, huh?"
 
 # TrainingPathAtilla_21b28983 (line 37067)
 translate ru TrainingPathAtilla_21b28983:
@@ -656,7 +656,7 @@ translate ru TrainingPathAtilla_27b38fc2:
 # TrainingPathAtilla_f37c9d89 (line 37097)
 translate ru TrainingPathAtilla_f37c9d89:
     # a "I had my doubts, but I think this deal will work out."
-    a ""
+    a "I had my doubts, but I think this deal will work out."
 
 # TrainingPathAtilla_d2b47ac7 (line 37098)
 translate ru TrainingPathAtilla_d2b47ac7:
@@ -681,12 +681,12 @@ translate ru TrainingPathAtilla_d868c8bf:
 # TrainingPathAtilla_9ec81305 (line 37102)
 translate ru TrainingPathAtilla_9ec81305:
     # s "Satisfied?"
-    s ""
+    s "Satisfied?"
 
 # TrainingPathAtilla_aef707de (line 37103)
 translate ru TrainingPathAtilla_aef707de:
     # a "Very."
-    a ""
+    a "Very."
 
 # TrainingPathAtilla_90f5960e (line 37113)
 translate ru TrainingPathAtilla_90f5960e:
@@ -696,7 +696,7 @@ translate ru TrainingPathAtilla_90f5960e:
 # TrainingPathAtilla_96d3fea3 (line 37114)
 translate ru TrainingPathAtilla_96d3fea3:
     # a "Not yet."
-    a ""
+    a "Not yet."
 
 # TrainingPathAtilla_5db5deeb (line 37115)
 translate ru TrainingPathAtilla_5db5deeb:
@@ -711,7 +711,7 @@ translate ru TrainingPathAtilla_4fe36068:
 # TrainingPathAtilla_d7817d89 (line 37117)
 translate ru TrainingPathAtilla_d7817d89:
     # s "But...I held up my end of the bargain!"
-    s ""
+    s "But...I held up my end of the bargain!"
 
 # TrainingPathAtilla_c8a5178a (line 37118)
 translate ru TrainingPathAtilla_c8a5178a:
@@ -721,7 +721,7 @@ translate ru TrainingPathAtilla_c8a5178a:
 # TrainingPathAtilla_61bcae41 (line 37119)
 translate ru TrainingPathAtilla_61bcae41:
     # s "You said you would train me..."
-    s ""
+    s "You said you would train me..."
 
 # TrainingPathAtilla_ebddca5b (line 37120)
 translate ru TrainingPathAtilla_ebddca5b:
@@ -736,7 +736,7 @@ translate ru TrainingPathAtilla_e9fc3031:
 # TrainingPathAtilla_bebf08dd (line 37123)
 translate ru TrainingPathAtilla_bebf08dd:
     # a "And I will. But I need to know what I'm working with."
-    a ""
+    a "And I will. But I need to know what I'm working with."
 
 # TrainingPathAtilla_96471adb (line 37124)
 translate ru TrainingPathAtilla_96471adb:
@@ -786,17 +786,17 @@ translate ru TrainingPathAtilla_7616f3f4:
 # TrainingPathAtilla_00b3ab75 (line 37134)
 translate ru TrainingPathAtilla_00b3ab75:
     # a "I will turn you into a soldier."
-    a ""
+    a "I will turn you into a soldier."
 
 # TrainingPathAtilla_df2f3904 (line 37135)
 translate ru TrainingPathAtilla_df2f3904:
     # a "It will take a lot of work, but you're in shape enough, for a spoiled girl."
-    a ""
+    a "It will take a lot of work, but you're in shape enough, for a spoiled girl."
 
 # TrainingPathAtilla_8a2ebb26 (line 37136)
 translate ru TrainingPathAtilla_8a2ebb26:
     # a "Get dressed."
-    a ""
+    a "Get dressed."
 
 # TrainingPathAtilla_6295a0a6 (line 37137)
 translate ru TrainingPathAtilla_6295a0a6:
@@ -836,7 +836,7 @@ translate ru TrainingPathAtilla_c5f59659:
 # TrainingPathAtilla_49b55154 (line 37149)
 translate ru TrainingPathAtilla_49b55154:
     # a "Fetch that for me."
-    a ""
+    a "Fetch that for me."
 
 # TrainingPathAtilla_6f9818e7 (line 37150)
 translate ru TrainingPathAtilla_6f9818e7:
@@ -856,7 +856,7 @@ translate ru TrainingPathAtilla_3b9a7421:
 # TrainingPathAtilla_fcd8f55a (line 37153)
 translate ru TrainingPathAtilla_fcd8f55a:
     # a "It's not going to put itself on..."
-    a ""
+    a "It's not going to put itself on..."
 
 # TrainingPathAtilla_4fae5364 (line 37154)
 translate ru TrainingPathAtilla_4fae5364:

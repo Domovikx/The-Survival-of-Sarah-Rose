@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: MagePath8
-# Total blocks: 169
+# Total blocks: 165
 
 # MagePath8_7d20a7e2 (line 71427)
 translate ru MagePath8_7d20a7e2:
@@ -16,32 +16,32 @@ translate ru MagePath8_6d996969:
 # MagePath8_fb882f08 (line 71429)
 translate ru MagePath8_fb882f08:
     # x "We need to talk."
-    x ""
+    x "We need to talk."
 
 # MagePath8_0e0391b3 (line 71430)
 translate ru MagePath8_0e0391b3:
     # s "Nice to see you again as well."
-    s ""
+    s "Nice to see you again as well."
 
 # MagePath8_b7807792 (line 71431)
 translate ru MagePath8_b7807792:
     # x "The council went as well as could be hoped, but the Shah is still acting cagey."
-    x ""
+    x "The council went as well as could be hoped, but the Shah is still acting cagey."
 
 # MagePath8_eba191cb (line 71432)
 translate ru MagePath8_eba191cb:
     # s "Meaning?"
-    s ""
+    s "Meaning?"
 
 # MagePath8_348f3230 (line 71433)
 translate ru MagePath8_348f3230:
     # x "I asked him to show me the location of the vault, but he flatly refused. He knows that is the leverage keeping us here, and he's afraid to give it up before we make good on our end."
-    x ""
+    x "I asked him to show me the location of the vault, but he flatly refused. He knows that is the leverage keeping us here, and he's afraid to give it up before we make good on our end."
 
 # MagePath8_0d7bf256 (line 71434)
 translate ru MagePath8_0d7bf256:
     # s "He's not entirely wrong to assume that."
-    s ""
+    s "He's not entirely wrong to assume that."
 
 # MagePath8_db8d8f76 (line 71435)
 translate ru MagePath8_db8d8f76:
@@ -51,12 +51,12 @@ translate ru MagePath8_db8d8f76:
 # MagePath8_1532d758 (line 71436)
 translate ru MagePath8_1532d758:
     # x "No, but it is still a problem for us."
-    x ""
+    x "No, but it is still a problem for us."
 
 # MagePath8_f7d695bb (line 71437)
 translate ru MagePath8_f7d695bb:
     # s "If he gives up the vault before we deliver on our end, he's afraid we'll leave. But if we deliver before he does, whose to say he'll be true to his word?"
-    s ""
+    s "If he gives up the vault before we deliver on our end, he's afraid we'll leave. But if we deliver before he does, whose to say he'll be true to his word?"
 
 # MagePath8_3e8603ed (line 71438)
 translate ru MagePath8_3e8603ed:
@@ -66,17 +66,17 @@ translate ru MagePath8_3e8603ed:
 # MagePath8_4428dc16 (line 71439)
 translate ru MagePath8_4428dc16:
     # x "I've managed to make him promise to take me to the vault after tomorrow."
-    x ""
+    x "I've managed to make him promise to take me to the vault after tomorrow."
 
 # MagePath8_90e303f4 (line 71440)
 translate ru MagePath8_90e303f4:
     # s "Tomorrow?"
-    s ""
+    s "Tomorrow?"
 
 # MagePath8_bd85c996 (line 71441)
 translate ru MagePath8_bd85c996:
     # x "That's when they think the Mythran army will launch their attack."
-    x ""
+    x "That's when they think the Mythran army will launch their attack."
 
 # MagePath8_f72f780c (line 71442)
 translate ru MagePath8_f72f780c:
@@ -91,7 +91,7 @@ translate ru MagePath8_ca721b5d:
 # MagePath8_db679f50 (line 71444)
 translate ru MagePath8_db679f50:
     # s "That's fast."
-    s ""
+    s "That's fast."
 
 # MagePath8_d9f200c0 (line 71445)
 translate ru MagePath8_d9f200c0:
@@ -101,12 +101,12 @@ translate ru MagePath8_d9f200c0:
 # MagePath8_f6851d77 (line 71446)
 translate ru MagePath8_f6851d77:
     # x "It likely won't be a full out attack. They'll start by launching some smaller skirmishes, see if there are any weak points in the defense."
-    x ""
+    x "It likely won't be a full out attack. They'll start by launching some smaller skirmishes, see if there are any weak points in the defense."
 
 # MagePath8_a41d5b06 (line 71447)
 translate ru MagePath8_a41d5b06:
     # s "And? Are there any weak points in the defense?"
-    s ""
+    s "And? Are there any weak points in the defense?"
 
 # MagePath8_91fcaa5f (line 71448)
 translate ru MagePath8_91fcaa5f:
@@ -116,12 +116,12 @@ translate ru MagePath8_91fcaa5f:
 # MagePath8_d793f72d (line 71449)
 translate ru MagePath8_d793f72d:
     # x "The entire city is one giant weak point. It won't be long before the Mythran forces realize that, then their entire army will follow."
-    x ""
+    x "The entire city is one giant weak point. It won't be long before the Mythran forces realize that, then their entire army will follow."
 
 # MagePath8_e8730ce3 (line 71450)
 translate ru MagePath8_e8730ce3:
     # s "Doesn't Bagrad have the advantage of its massive walls?"
-    s ""
+    s "Doesn't Bagrad have the advantage of its massive walls?"
 
 # MagePath8_07c1c575 (line 71451)
 translate ru MagePath8_07c1c575:
@@ -136,12 +136,12 @@ translate ru MagePath8_5b3d7285:
 # MagePath8_2e6b80c1 (line 71453)
 translate ru MagePath8_2e6b80c1:
     # x "The great walls are nothing but an illusion. The Shah doesn't have the manpower to guard them on all sides. Most sections have no soldiers at all."
-    x ""
+    x "The great walls are nothing but an illusion. The Shah doesn't have the manpower to guard them on all sides. Most sections have no soldiers at all."
 
 # MagePath8_e39ba90c (line 71454)
 translate ru MagePath8_e39ba90c:
     # x "Even with all his troops clustered, they are still fewer than the Mythran host. Which isn't even counting their auxillary troops, mercenary troops from all over."
-    x ""
+    x "Even with all his troops clustered, they are still fewer than the Mythran host. Which isn't even counting their auxillary troops, mercenary troops from all over."
 
 # MagePath8_e1ab3c66 (line 71455)
 translate ru MagePath8_e1ab3c66:
@@ -151,17 +151,17 @@ translate ru MagePath8_e1ab3c66:
 # MagePath8_0b6245c7 (line 71456)
 translate ru MagePath8_0b6245c7:
     # s "So what then? The city is doomed?"
-    s ""
+    s "So what then? The city is doomed?"
 
 # MagePath8_75a94cd3 (line 71457)
 translate ru MagePath8_75a94cd3:
     # x "Almost certainly, but there are some options left. So long as we can keep them off for a day, the Shah will show us the vault, and we have what we came for."
-    x ""
+    x "Almost certainly, but there are some options left. So long as we can keep them off for a day, the Shah will show us the vault, and we have what we came for."
 
 # MagePath8_b5a9b23d (line 71458)
 translate ru MagePath8_b5a9b23d:
     # s "What are our options."
-    s ""
+    s "What are our options."
 
 # MagePath8_bff58deb (line 71459)
 translate ru MagePath8_bff58deb:
@@ -171,17 +171,17 @@ translate ru MagePath8_bff58deb:
 # MagePath8_b68b9f67 (line 71460)
 translate ru MagePath8_b68b9f67:
     # x "The Bagrad army will cluster near the central gate. If the Mythran army wants to enter the city, they will have to pass through it."
-    x ""
+    x "The Bagrad army will cluster near the central gate. If the Mythran army wants to enter the city, they will have to pass through it."
 
 # MagePath8_fb688152 (line 71461)
 translate ru MagePath8_fb688152:
     # x "The main square behind it will be used as a funnel. With the edges secured, the Mythran army will become trapped behind the gate."
-    x ""
+    x "The main square behind it will be used as a funnel. With the edges secured, the Mythran army will become trapped behind the gate."
 
 # MagePath8_51046c2e (line 71462)
 translate ru MagePath8_51046c2e:
     # x "Once inside and grouped up...I'll step in."
-    x ""
+    x "Once inside and grouped up...I'll step in."
 
 # MagePath8_879b968c (line 71463)
 translate ru MagePath8_879b968c:
@@ -191,12 +191,12 @@ translate ru MagePath8_879b968c:
 # MagePath8_f76f4b08 (line 71464)
 translate ru MagePath8_f76f4b08:
     # s "You can't be serious."
-    s ""
+    s "You can't be serious."
 
 # MagePath8_3cfbfeb8 (line 71465)
 translate ru MagePath8_3cfbfeb8:
     # s "You're talking about taking on an entire army, by yourself."
-    s ""
+    s "You're talking about taking on an entire army, by yourself."
 
 # MagePath8_ad338e42 (line 71466)
 translate ru MagePath8_ad338e42:
@@ -206,12 +206,12 @@ translate ru MagePath8_ad338e42:
 # MagePath8_81b9d816 (line 71467)
 translate ru MagePath8_81b9d816:
     # x "No, not the entire army. I'll rain down enough destruction to make them think there's an army of mages."
-    x ""
+    x "No, not the entire army. I'll rain down enough destruction to make them think there's an army of mages."
 
 # MagePath8_ffbcba5e (line 71468)
 translate ru MagePath8_ffbcba5e:
     # x "If the beating is bad enough, they'll fall back, at least for a few days."
-    x ""
+    x "If the beating is bad enough, they'll fall back, at least for a few days."
 
 # MagePath8_8a68bf26 (line 71469)
 translate ru MagePath8_8a68bf26:
@@ -221,12 +221,12 @@ translate ru MagePath8_8a68bf26:
 # MagePath8_48d0afc6 (line 71470)
 translate ru MagePath8_48d0afc6:
     # s "There will be hundreds of archers in that army, crossbowmen..."
-    s ""
+    s "There will be hundreds of archers in that army, crossbowmen..."
 
 # MagePath8_a9baa655 (line 71471)
 translate ru MagePath8_a9baa655:
     # s "If just a single one gets a lucky shot off, you're done for."
-    s ""
+    s "If just a single one gets a lucky shot off, you're done for."
 
 # MagePath8_2f9037aa (line 71472)
 translate ru MagePath8_2f9037aa:
@@ -236,7 +236,7 @@ translate ru MagePath8_2f9037aa:
 # MagePath8_defd6fd5 (line 71473)
 translate ru MagePath8_defd6fd5:
     # x "Don't worry about me, Sarah. I can take care of myself. I can weave barriers to keep myself safe, and it will only be for a moment."
-    x ""
+    x "Don't worry about me, Sarah. I can take care of myself. I can weave barriers to keep myself safe, and it will only be for a moment."
 
 # MagePath8_57482325 (line 71474)
 translate ru MagePath8_57482325:
@@ -246,7 +246,7 @@ translate ru MagePath8_57482325:
 # MagePath8_f6e6312a (line 71475)
 translate ru MagePath8_f6e6312a:
     # s "And what about me? Do I get to join you in this suicide mission?"
-    s ""
+    s "And what about me? Do I get to join you in this suicide mission?"
 
 # MagePath8_25fd2f0e (line 71476)
 translate ru MagePath8_25fd2f0e:
@@ -256,22 +256,22 @@ translate ru MagePath8_25fd2f0e:
 # MagePath8_790b44c1 (line 71477)
 translate ru MagePath8_790b44c1:
     # x "That's why I wanted to talk to you."
-    x ""
+    x "That's why I wanted to talk to you."
 
 # MagePath8_88608cd8 (line 71478)
 translate ru MagePath8_88608cd8:
     # x "Most of the forces will be stationed near the gate, the Shah has no other option if he wants any chance of matching the Mythran army."
-    x ""
+    x "Most of the forces will be stationed near the gate, the Shah has no other option if he wants any chance of matching the Mythran army."
 
 # MagePath8_7ef084ea (line 71479)
 translate ru MagePath8_7ef084ea:
     # x "That leaves the palace almost entirely undefended. There will be a handful of guards left, but that's it."
-    x ""
+    x "That leaves the palace almost entirely undefended. There will be a handful of guards left, but that's it."
 
 # MagePath8_aa33f197 (line 71480)
 translate ru MagePath8_aa33f197:
     # s "A handful of guards...and me."
-    s ""
+    s "A handful of guards...and me."
 
 # MagePath8_9a985fa7 (line 71481)
 translate ru MagePath8_9a985fa7:
@@ -281,17 +281,17 @@ translate ru MagePath8_9a985fa7:
 # MagePath8_d6c38ef6 (line 71482)
 translate ru MagePath8_d6c38ef6:
     # x "That's right."
-    x ""
+    x "That's right."
 
 # MagePath8_8f24e30c (line 71483)
 translate ru MagePath8_8f24e30c:
     # x "We don't expect the Mythran army to reach the palace, but we can't be sure there won't be smaller vanguard units sneaking behind the main front."
-    x ""
+    x "We don't expect the Mythran army to reach the palace, but we can't be sure there won't be smaller vanguard units sneaking behind the main front."
 
 # MagePath8_de8c93e5 (line 71484)
 translate ru MagePath8_de8c93e5:
     # x "If that's the case, we will abandon every position in the palace, let them overrun it. Every position, except one."
-    x ""
+    x "If that's the case, we will abandon every position in the palace, let them overrun it. Every position, except one."
 
 # MagePath8_8b6fc8df (line 71485)
 translate ru MagePath8_8b6fc8df:
@@ -301,22 +301,22 @@ translate ru MagePath8_8b6fc8df:
 # MagePath8_daae2a19 (line 71486)
 translate ru MagePath8_daae2a19:
     # s "The royal quarters..."
-    s ""
+    s "The royal quarters..."
 
 # MagePath8_957ff66c (line 71487)
 translate ru MagePath8_957ff66c:
     # x "You catch on quick."
-    x ""
+    x "You catch on quick."
 
 # MagePath8_ef43aa06 (line 71488)
 translate ru MagePath8_ef43aa06:
     # x "It only has one entrance point, through the throne room."
-    x ""
+    x "It only has one entrance point, through the throne room."
 
 # MagePath8_91a69291 (line 71489)
 translate ru MagePath8_91a69291:
     # x "That's where you will make your stand. No matter what, you have to be ready to incinerate every soldier that steps into that room."
-    x ""
+    x "That's where you will make your stand. No matter what, you have to be ready to incinerate every soldier that steps into that room."
 
 # MagePath8_12453a46 (line 71490)
 translate ru MagePath8_12453a46:
@@ -346,12 +346,12 @@ translate ru MagePath8_4d0a7a17:
 # MagePath8_c8dfc6c6 (line 71495)
 translate ru MagePath8_c8dfc6c6:
     # s "I think it will work..."
-    s ""
+    s "I think it will work..."
 
 # MagePath8_9158e4a8 (line 71496)
 translate ru MagePath8_9158e4a8:
     # s "I still don't think your part in it is very safe..."
-    s ""
+    s "I still don't think your part in it is very safe..."
 
 # MagePath8_533e8bd5 (line 71497)
 translate ru MagePath8_533e8bd5:
@@ -361,7 +361,7 @@ translate ru MagePath8_533e8bd5:
 # MagePath8_ec2df50a (line 71498)
 translate ru MagePath8_ec2df50a:
     # x "Don't worry about me, I've survived worse. You just make sure to keep yourself safe."
-    x ""
+    x "Don't worry about me, I've survived worse. You just make sure to keep yourself safe."
 
 # MagePath8_f80a5023 (line 71499)
 translate ru MagePath8_f80a5023:
@@ -371,7 +371,7 @@ translate ru MagePath8_f80a5023:
 # MagePath8_3e053f60 (line 71500)
 translate ru MagePath8_3e053f60:
     # x "Besides, did you manage to do what I asked?"
-    x ""
+    x "Besides, did you manage to do what I asked?"
 
 # MagePath8_13de7b23 (line 71501)
 translate ru MagePath8_13de7b23:
@@ -381,7 +381,7 @@ translate ru MagePath8_13de7b23:
 # MagePath8_819b0c07 (line 71502)
 translate ru MagePath8_819b0c07:
     # s "I spoke to her for a bit. She seems friendly enough."
-    s ""
+    s "I spoke to her for a bit. She seems friendly enough."
 
 # MagePath8_f8b59c8f (line 71503)
 translate ru MagePath8_f8b59c8f:
@@ -396,7 +396,7 @@ translate ru MagePath8_353d48b7:
 # MagePath8_06616c44 (line 71505)
 translate ru MagePath8_06616c44:
     # x "It will have to do I guess. We have so much less time than I thought we would have."
-    x ""
+    x "It will have to do I guess. We have so much less time than I thought we would have."
 
 # MagePath8_6166e44d (line 71506)
 translate ru MagePath8_6166e44d:
@@ -421,7 +421,7 @@ translate ru MagePath8_4505c4e9:
 # MagePath8_028bdd91 (line 71510)
 translate ru MagePath8_028bdd91:
     # x "Good, we'll need our sleep for what comes tomorrow. We'll speak before I leave for the gate, I promise."
-    x ""
+    x "Good, we'll need our sleep for what comes tomorrow. We'll speak before I leave for the gate, I promise."
 
 # MagePath8_c3f2d1d6 (line 71512)
 translate ru MagePath8_c3f2d1d6:
@@ -626,7 +626,7 @@ translate ru MagePath8_f08fced7:
 # MagePath8_6c21d9ae (line 71564)
 translate ru MagePath8_6c21d9ae:
     # s "Get it together."
-    s ""
+    s "Get it together."
 
 # MagePath8_8a25675d (line 71565)
 translate ru MagePath8_8a25675d:
@@ -671,7 +671,7 @@ translate ru MagePath8_79712265:
 # MagePath8_a6cdef90 (line 71578)
 translate ru MagePath8_a6cdef90:
     # s "Samayra, you almost gave me a heart atack!"
-    s ""
+    s "Samayra, you almost gave me a heart atack!"
 
 # MagePath8_b1b35435 (line 71579)
 translate ru MagePath8_b1b35435:
@@ -681,7 +681,7 @@ translate ru MagePath8_b1b35435:
 # MagePath8_dd4f66e0 (line 71580)
 translate ru MagePath8_dd4f66e0:
     # sa "I'm sorry, I'm sorry."
-    sa ""
+    sa "I'm sorry, I'm sorry."
 
 # MagePath8_7a05b27f (line 71581)
 translate ru MagePath8_7a05b27f:
@@ -696,7 +696,7 @@ translate ru MagePath8_5dd07887:
 # MagePath8_0f4de13a (line 71583)
 translate ru MagePath8_0f4de13a:
     # s "You know, it's actually very bad idea to sneak up on a mage."
-    s ""
+    s "You know, it's actually very bad idea to sneak up on a mage."
 
 # MagePath8_22fa2293 (line 71584)
 translate ru MagePath8_22fa2293:
@@ -706,12 +706,12 @@ translate ru MagePath8_22fa2293:
 # MagePath8_e11433c5 (line 71585)
 translate ru MagePath8_e11433c5:
     # sa "I...I'm...so...sorry, I didn't know...you were..."
-    sa ""
+    sa "I...I'm...so...sorry, I didn't know...you were..."
 
 # MagePath8_be46df15 (line 71586)
 translate ru MagePath8_be46df15:
     # s "I was just joking, I wouldn't hurt you."
-    s ""
+    s "I was just joking, I wouldn't hurt you."
 
 # MagePath8_3c3f0ceb (line 71587)
 translate ru MagePath8_3c3f0ceb:
@@ -726,12 +726,12 @@ translate ru MagePath8_28ecbbac:
 # MagePath8_9d8d5d49 (line 71589)
 translate ru MagePath8_9d8d5d49:
     # s "Ooh, I forgot I wasn't wearing my robes."
-    s ""
+    s "Ooh, I forgot I wasn't wearing my robes."
 
 # MagePath8_be274bb3 (line 71590)
 translate ru MagePath8_be274bb3:
     # sa "No, I'm sorry, I shouldn't have just come in here like this, I'll leave, forgive me."
-    sa ""
+    sa "No, I'm sorry, I shouldn't have just come in here like this, I'll leave, forgive me."
 
 # MagePath8_f84f6316 (line 71591)
 translate ru MagePath8_f84f6316:
@@ -741,7 +741,7 @@ translate ru MagePath8_f84f6316:
 # MagePath8_866786cf (line 71592)
 translate ru MagePath8_866786cf:
     # s "Don't worry about it. It's fine. I don't mind if you don't mind."
-    s ""
+    s "Don't worry about it. It's fine. I don't mind if you don't mind."
 
 # MagePath8_b9cfef51 (line 71593)
 translate ru MagePath8_b9cfef51:
@@ -751,7 +751,7 @@ translate ru MagePath8_b9cfef51:
 # MagePath8_0ed3ca52 (line 71594)
 translate ru MagePath8_0ed3ca52:
     # sa "Oh...oke...if you are, then...I can be..."
-    sa ""
+    sa "Oh...oke...if you are, then...I can be..."
 
 # MagePath8_1345f3d9 (line 71595)
 translate ru MagePath8_1345f3d9:
@@ -761,7 +761,7 @@ translate ru MagePath8_1345f3d9:
 # MagePath8_175a91bb (line 71596)
 translate ru MagePath8_175a91bb:
     # s "How did you get in here anyway?"
-    s ""
+    s "How did you get in here anyway?"
 
 # MagePath8_98608430 (line 71597)
 translate ru MagePath8_98608430:
@@ -771,7 +771,7 @@ translate ru MagePath8_98608430:
 # MagePath8_244dd7ad (line 71598)
 translate ru MagePath8_244dd7ad:
     # sa "Ooh, it was really quite easy."
-    sa ""
+    sa "Ooh, it was really quite easy."
 
 # MagePath8_b8769a18 (line 71599)
 translate ru MagePath8_b8769a18:
@@ -781,12 +781,12 @@ translate ru MagePath8_b8769a18:
 # MagePath8_a5fe5275 (line 71600)
 translate ru MagePath8_a5fe5275:
     # sa "It's a secret passage, honestly, the palace is full of them."
-    sa ""
+    sa "It's a secret passage, honestly, the palace is full of them."
 
 # MagePath8_835a8f91 (line 71601)
 translate ru MagePath8_835a8f91:
     # sa "I spend most of my youth exploring every inch of the palace, sneaking through tunnels, seeing where everything leads."
-    sa ""
+    sa "I spend most of my youth exploring every inch of the palace, sneaking through tunnels, seeing where everything leads."
 
 # MagePath8_d7a37478 (line 71602)
 translate ru MagePath8_d7a37478:
@@ -801,7 +801,7 @@ translate ru MagePath8_602bb038:
 # MagePath8_196cf8c4 (line 71604)
 translate ru MagePath8_196cf8c4:
     # s "Where does it lead?"
-    s ""
+    s "Where does it lead?"
 
 # MagePath8_324736cb (line 71605)
 translate ru MagePath8_324736cb:
@@ -811,40 +811,20 @@ translate ru MagePath8_324736cb:
 # MagePath8_dadfb517 (line 71606)
 translate ru MagePath8_dadfb517:
     # sa "Anywhere you want to, really. I took this one all the way from my room."
-    sa ""
+    sa "Anywhere you want to, really. I took this one all the way from my room."
 
 # MagePath8_749e3a83 (line 71607)
 translate ru MagePath8_749e3a83:
     # sa "But it can take you to the throne room, the council, the gardens, the kitchens even."
-    sa ""
+    sa "But it can take you to the throne room, the council, the gardens, the kitchens even."
 
 # MagePath8_a6b57951 (line 71608)
 translate ru MagePath8_a6b57951:
     # sa "It really just depends where you want."
-    sa ""
+    sa "It really just depends where you want."
 
 # MagePath8_ce9d86e3 (line 71609)
 translate ru MagePath8_ce9d86e3:
     # "Sarah listened. Whenever Samayra had a topic she liked to talk about, her voice would gradually shift towards one of excitement, rather than her natural nervousness."
     ""
-
-# MagePath8_ebf34817 (line 71612)
-translate ru MagePath8_ebf34817:
-    # "Can you show me?"
-    "Can you show me?" ""
-
-# MagePath8_ca837910 (line 71682)
-translate ru MagePath8_ca837910:
-    # "Kiss Samayra"
-    "Kiss Samayra" ""
-
-# MagePath8_ae979d44 (line 71799)
-translate ru MagePath8_ae979d44:
-    # "Push Samayra"
-    "Push Samayra" ""
-
-# MagePath8_6b15968d (line 71839)
-translate ru MagePath8_6b15968d:
-    # "Stay here"
-    "Stay here" ""
 

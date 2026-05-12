@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: WanderingTheCamp
-# Total blocks: 85
+# Total blocks: 83
 
 # WanderingTheCamp_af557525 (line 24870)
 translate ru WanderingTheCamp_af557525:
@@ -101,7 +101,7 @@ translate ru WanderingTheCamp_a5b6cae4:
 # WanderingTheCamp_b62f27c8 (line 24913)
 translate ru WanderingTheCamp_b62f27c8:
     # a "Look what you've done, you stupid girl!"
-    a ""
+    a "Look what you've done, you stupid girl!"
 
 # WanderingTheCamp_4594a6e9 (line 24914)
 translate ru WanderingTheCamp_4594a6e9:
@@ -121,7 +121,7 @@ translate ru WanderingTheCamp_cb9ff4c6:
 # WanderingTheCamp_1d860cf5 (line 24917)
 translate ru WanderingTheCamp_1d860cf5:
     # s "I'm so sorry..."
-    s ""
+    s "I'm so sorry..."
 
 # WanderingTheCamp_798aa192 (line 24918)
 translate ru WanderingTheCamp_798aa192:
@@ -161,12 +161,12 @@ translate ru WanderingTheCamp_17d70735:
 # WanderingTheCamp_0fd1f132 (line 24925)
 translate ru WanderingTheCamp_0fd1f132:
     # a "Go, the damage is already done!"
-    a ""
+    a "Go, the damage is already done!"
 
 # WanderingTheCamp_b55eaa64 (line 24926)
 translate ru WanderingTheCamp_b55eaa64:
     # a "But gods help you girl if you do something like this again!"
-    a ""
+    a "But gods help you girl if you do something like this again!"
 
 # WanderingTheCamp_2ad38a6f (line 24927)
 translate ru WanderingTheCamp_2ad38a6f:
@@ -181,7 +181,7 @@ translate ru WanderingTheCamp_2eb00c75:
 # WanderingTheCamp_0d9f7848 (line 24929)
 translate ru WanderingTheCamp_0d9f7848:
     # s "I'm sorry, I'm sorry, I'm sorry."
-    s ""
+    s "I'm sorry, I'm sorry, I'm sorry."
 
 # WanderingTheCamp_4918c092 (line 24930)
 translate ru WanderingTheCamp_4918c092:
@@ -231,7 +231,7 @@ translate ru WanderingTheCamp_da4060a1:
 # WanderingTheCamp_43b3dcfe (line 24954)
 translate ru WanderingTheCamp_43b3dcfe:
     # s "I need to leave, I have to get to the harbor."
-    s ""
+    s "I need to leave, I have to get to the harbor."
 
 # WanderingTheCamp_0f6d2b49 (line 24955)
 translate ru WanderingTheCamp_0f6d2b49:
@@ -251,7 +251,7 @@ translate ru WanderingTheCamp_9ef2fe3b:
 # WanderingTheCamp_b165dd6a (line 24958)
 translate ru WanderingTheCamp_b165dd6a:
     # s "You don't even know who I am, just let me go, please."
-    s ""
+    s "You don't even know who I am, just let me go, please."
 
 # WanderingTheCamp_762041e6 (line 24959)
 translate ru WanderingTheCamp_762041e6:
@@ -326,7 +326,7 @@ translate ru WanderingTheCamp_a0b1e9bd:
 # WanderingTheCamp_41bd6c7a (line 24983)
 translate ru WanderingTheCamp_41bd6c7a:
     # k "Sarah! Are you ok? I heard about you and Atilla..."
-    k ""
+    k "Sarah! Are you ok? I heard about you and Atilla..."
 
 # WanderingTheCamp_ff9789c3 (line 24984)
 translate ru WanderingTheCamp_ff9789c3:
@@ -336,12 +336,12 @@ translate ru WanderingTheCamp_ff9789c3:
 # WanderingTheCamp_92c7b32c (line 24985)
 translate ru WanderingTheCamp_92c7b32c:
     # s "Atilla?"
-    s ""
+    s "Atilla?"
 
 # WanderingTheCamp_5950cade (line 24986)
 translate ru WanderingTheCamp_5950cade:
     # k "The orc, that vile creature. Did he hurt you?"
-    k ""
+    k "The orc, that vile creature. Did he hurt you?"
 
 # WanderingTheCamp_847e43a0 (line 24987)
 translate ru WanderingTheCamp_847e43a0:
@@ -361,7 +361,7 @@ translate ru WanderingTheCamp_3a475c8c:
 # WanderingTheCamp_acba02a2 (line 24990)
 translate ru WanderingTheCamp_acba02a2:
     # k "Thank the gods, I was so worried that he would hurt you."
-    k ""
+    k "Thank the gods, I was so worried that he would hurt you."
 
 # WanderingTheCamp_740811ed (line 24991)
 translate ru WanderingTheCamp_740811ed:
@@ -371,7 +371,7 @@ translate ru WanderingTheCamp_740811ed:
 # WanderingTheCamp_8236b1aa (line 24992)
 translate ru WanderingTheCamp_8236b1aa:
     # s "Only one person in this camp has hurt me..."
-    s ""
+    s "Only one person in this camp has hurt me..."
 
 # WanderingTheCamp_ff2a9611 (line 24993)
 translate ru WanderingTheCamp_ff2a9611:
@@ -386,7 +386,7 @@ translate ru WanderingTheCamp_bb3758d2:
 # WanderingTheCamp_0096241c (line 24998)
 translate ru WanderingTheCamp_0096241c:
     # k "I know..."
-    k ""
+    k "I know..."
 
 # WanderingTheCamp_df85aa17 (line 24999)
 translate ru WanderingTheCamp_df85aa17:
@@ -396,7 +396,7 @@ translate ru WanderingTheCamp_df85aa17:
 # WanderingTheCamp_e84b809d (line 25000)
 translate ru WanderingTheCamp_e84b809d:
     # k "What I did to you, Sarah..."
-    k ""
+    k "What I did to you, Sarah..."
 
 # WanderingTheCamp_409a17e2 (line 25001)
 translate ru WanderingTheCamp_409a17e2:
@@ -406,7 +406,7 @@ translate ru WanderingTheCamp_409a17e2:
 # WanderingTheCamp_bc06c56a (line 25002)
 translate ru WanderingTheCamp_bc06c56a:
     # s "Why did you do it, Kate? I thought we were friends."
-    s ""
+    s "Why did you do it, Kate? I thought we were friends."
 
 # WanderingTheCamp_76ae5087 (line 25010)
 translate ru WanderingTheCamp_76ae5087:
@@ -416,15 +416,5 @@ translate ru WanderingTheCamp_76ae5087:
 # WanderingTheCamp_8b66ccbc (line 25011)
 translate ru WanderingTheCamp_8b66ccbc:
     # k "Sarah...will you let me explain?"
-    k ""
-
-# WanderingTheCamp_43570c27 (line 25015)
-translate ru WanderingTheCamp_43570c27:
-    # "I want to know why you did it."
-    "I want to know why you did it." ""
-
-# WanderingTheCamp_92ccc9d3 (line 25067)
-translate ru WanderingTheCamp_92ccc9d3:
-    # "There is nothing to explain, leave me alone."
-    "There is nothing to explain, leave me alone." ""
+    k "Sarah...will you let me explain?"
 

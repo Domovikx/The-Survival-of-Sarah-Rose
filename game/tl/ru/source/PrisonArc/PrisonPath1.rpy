@@ -1,12 +1,12 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: PrisonPath1
-# Total blocks: 380
+# Total blocks: 378
 
 # PrisonPath1_7a9e0ebb (line 61449)
 translate ru PrisonPath1_7a9e0ebb:
     # s "I don't want to answer any of your questions. We're done talking."
-    s ""
+    s "I don't want to answer any of your questions. We're done talking."
 
 # PrisonPath1_8a83f541 (line 61450)
 translate ru PrisonPath1_8a83f541:
@@ -91,17 +91,17 @@ translate ru PrisonPath1_800da346:
 # PrisonPath1_93afd21f (line 61467)
 translate ru PrisonPath1_93afd21f:
     # al "She!"
-    al ""
+    al "She!"
 
 # PrisonPath1_4d31b6c2 (line 61468)
 translate ru PrisonPath1_4d31b6c2:
     # al "It was her idea, all of it!"
-    al ""
+    al "It was her idea, all of it!"
 
 # PrisonPath1_2d9ad3dd (line 61469)
 translate ru PrisonPath1_2d9ad3dd:
     # al "She made me do it, I swear!"
-    al ""
+    al "She made me do it, I swear!"
 
 # PrisonPath1_9c762b19 (line 61470)
 translate ru PrisonPath1_9c762b19:
@@ -121,7 +121,7 @@ translate ru PrisonPath1_2b1e7b9a:
 # PrisonPath1_e3aa26de (line 61473)
 translate ru PrisonPath1_e3aa26de:
     # al "Yes! Yes! I'll say whatever you need me to say, it's all true!"
-    al ""
+    al "Yes! Yes! I'll say whatever you need me to say, it's all true!"
 
 # PrisonPath1_34af4301 (line 61474)
 translate ru PrisonPath1_34af4301:
@@ -136,7 +136,7 @@ translate ru PrisonPath1_72e0110f:
 # PrisonPath1_f4506818 (line 61477)
 translate ru PrisonPath1_f4506818:
     # s "I..."
-    s ""
+    s "I..."
 
 # PrisonPath1_d06a190b (line 61478)
 translate ru PrisonPath1_d06a190b:
@@ -171,7 +171,7 @@ translate ru PrisonPath1_232536b7:
 # PrisonPath1_791ada00 (line 61484)
 translate ru PrisonPath1_791ada00:
     # s "Captain...please, if you'll allow me to explain-"
-    s ""
+    s "Captain...please, if you'll allow me to explain-"
 
 # PrisonPath1_54bdafa1 (line 61485)
 translate ru PrisonPath1_54bdafa1:
@@ -306,7 +306,7 @@ translate ru PrisonPath1_b2186229:
 # PrisonPath1_b23c9bb4 (line 61517)
 translate ru PrisonPath1_b23c9bb4:
     # s "Your honour...I...I didn't-"
-    s ""
+    s "Your honour...I...I didn't-"
 
 # PrisonPath1_c324850f (line 61518)
 translate ru PrisonPath1_c324850f:
@@ -326,7 +326,7 @@ translate ru PrisonPath1_20bc0865:
 # PrisonPath1_a897351b (line 61521)
 translate ru PrisonPath1_a897351b:
     # s "I...your honour...I didn't have time to-"
-    s ""
+    s "I...your honour...I didn't have time to-"
 
 # PrisonPath1_dd475cbf (line 61522)
 translate ru PrisonPath1_dd475cbf:
@@ -456,7 +456,7 @@ translate ru PrisonPath1_36625726:
 # PrisonPath1_5346b13d (line 61553)
 translate ru PrisonPath1_5346b13d:
     # matt "Up on your feet, prisoner."
-    matt ""
+    matt "Up on your feet, prisoner."
 
 # PrisonPath1_39634db6 (line 61554)
 translate ru PrisonPath1_39634db6:
@@ -476,7 +476,7 @@ translate ru PrisonPath1_fd9b5667:
 # PrisonPath1_27b297d5 (line 61557)
 translate ru PrisonPath1_27b297d5:
     # matt "Newbie?"
-    matt ""
+    matt "Newbie?"
 
 # PrisonPath1_811ea623 (line 61558)
 translate ru PrisonPath1_811ea623:
@@ -486,12 +486,12 @@ translate ru PrisonPath1_811ea623:
 # PrisonPath1_32e98169 (line 61559)
 translate ru PrisonPath1_32e98169:
     # s "I'm sorry?"
-    s ""
+    s "I'm sorry?"
 
 # PrisonPath1_23ce8f2f (line 61560)
 translate ru PrisonPath1_23ce8f2f:
     # matt "I mean, are you new? First time in the system?"
-    matt ""
+    matt "I mean, are you new? First time in the system?"
 
 # PrisonPath1_810bcc29 (line 61561)
 translate ru PrisonPath1_810bcc29:
@@ -501,17 +501,17 @@ translate ru PrisonPath1_810bcc29:
 # PrisonPath1_90704360 (line 61562)
 translate ru PrisonPath1_90704360:
     # s "Yes."
-    s ""
+    s "Yes."
 
 # PrisonPath1_ee009f06 (line 61563)
 translate ru PrisonPath1_ee009f06:
     # matt "Alright then."
-    matt ""
+    matt "Alright then."
 
 # PrisonPath1_5ce324ab (line 61564)
 translate ru PrisonPath1_5ce324ab:
     # matt "Well my name is Matthew, but you can call me officer Matt, got that?"
-    matt ""
+    matt "Well my name is Matthew, but you can call me officer Matt, got that?"
 
 # PrisonPath1_e61cebde (line 61565)
 translate ru PrisonPath1_e61cebde:
@@ -521,17 +521,17 @@ translate ru PrisonPath1_e61cebde:
 # PrisonPath1_162f5f2f (line 61566)
 translate ru PrisonPath1_162f5f2f:
     # matt "And your name, inmate?"
-    matt ""
+    matt "And your name, inmate?"
 
 # PrisonPath1_9acaca08 (line 61567)
 translate ru PrisonPath1_9acaca08:
     # s "Sarah...sir."
-    s ""
+    s "Sarah...sir."
 
 # PrisonPath1_7df04fd1 (line 61568)
 translate ru PrisonPath1_7df04fd1:
     # matt "Sarah...alright. Nice name, but for the duration of your stay your name will be inmate-2244, got it?"
-    matt ""
+    matt "Sarah...alright. Nice name, but for the duration of your stay your name will be inmate-2244, got it?"
 
 # PrisonPath1_68f14fd4 (line 61569)
 translate ru PrisonPath1_68f14fd4:
@@ -546,17 +546,17 @@ translate ru PrisonPath1_06d3503b:
 # PrisonPath1_c78c66b6 (line 61571)
 translate ru PrisonPath1_c78c66b6:
     # matt "I'm head jailer for the west-wing section, which is where you'll be put up."
-    matt ""
+    matt "I'm head jailer for the west-wing section, which is where you'll be put up."
 
 # PrisonPath1_aefc1611 (line 61572)
 translate ru PrisonPath1_aefc1611:
     # matt "Western wing is burglars, thieves, counterfeiters, the usual types of asset offenses."
-    matt ""
+    matt "Western wing is burglars, thieves, counterfeiters, the usual types of asset offenses."
 
 # PrisonPath1_7ad24a1e (line 61573)
 translate ru PrisonPath1_7ad24a1e:
     # matt "No killers, those are in east-wing, so lucky you I suppose."
-    matt ""
+    matt "No killers, those are in east-wing, so lucky you I suppose."
 
 # PrisonPath1_7bc47e5c (line 61574)
 translate ru PrisonPath1_7bc47e5c:
@@ -571,22 +571,22 @@ translate ru PrisonPath1_0805badb:
 # PrisonPath1_51cbf0ae (line 61576)
 translate ru PrisonPath1_51cbf0ae:
     # matt "I like my part of the prison nice and clean."
-    matt ""
+    matt "I like my part of the prison nice and clean."
 
 # PrisonPath1_a7941852 (line 61577)
 translate ru PrisonPath1_a7941852:
     # matt "That means no fights. No drugs. No trouble."
-    matt ""
+    matt "That means no fights. No drugs. No trouble."
 
 # PrisonPath1_985a9635 (line 61578)
 translate ru PrisonPath1_985a9635:
     # matt "You keep to that, you won't get no trouble with me."
-    matt ""
+    matt "You keep to that, you won't get no trouble with me."
 
 # PrisonPath1_260a9d65 (line 61579)
 translate ru PrisonPath1_260a9d65:
     # matt "You decide to fuck around...well, let's just assume that you won't do that, alright?"
-    matt ""
+    matt "You decide to fuck around...well, let's just assume that you won't do that, alright?"
 
 # PrisonPath1_0be7ab21 (line 61580)
 translate ru PrisonPath1_0be7ab21:
@@ -596,7 +596,7 @@ translate ru PrisonPath1_0be7ab21:
 # PrisonPath1_2c967fcc (line 61581)
 translate ru PrisonPath1_2c967fcc:
     # s "Yes...sir, I won't cause you any trouble."
-    s ""
+    s "Yes...sir, I won't cause you any trouble."
 
 # PrisonPath1_4a1dd18b (line 61582)
 translate ru PrisonPath1_4a1dd18b:
@@ -606,7 +606,7 @@ translate ru PrisonPath1_4a1dd18b:
 # PrisonPath1_74b5844c (line 61583)
 translate ru PrisonPath1_74b5844c:
     # matt "Good, that's what I like to hear."
-    matt ""
+    matt "Good, that's what I like to hear."
 
 # PrisonPath1_b96deaab (line 61584)
 translate ru PrisonPath1_b96deaab:
@@ -616,7 +616,7 @@ translate ru PrisonPath1_b96deaab:
 # PrisonPath1_6290f3dc (line 61585)
 translate ru PrisonPath1_6290f3dc:
     # matt "Alright then, intake, gonna need all your items."
-    matt ""
+    matt "Alright then, intake, gonna need all your items."
 
 # PrisonPath1_e1421363 (line 61586)
 translate ru PrisonPath1_e1421363:
@@ -631,12 +631,12 @@ translate ru PrisonPath1_2bfb864c:
 # PrisonPath1_31f7ef2c (line 61588)
 translate ru PrisonPath1_31f7ef2c:
     # matt "That's a decent start."
-    matt ""
+    matt "That's a decent start."
 
 # PrisonPath1_7baf62be (line 61589)
 translate ru PrisonPath1_7baf62be:
     # matt "But I'm really talking about ALL your items."
-    matt ""
+    matt "But I'm really talking about ALL your items."
 
 # PrisonPath1_b5892fbd (line 61590)
 translate ru PrisonPath1_b5892fbd:
@@ -651,12 +651,12 @@ translate ru PrisonPath1_f7b32c9b:
 # PrisonPath1_390f060e (line 61592)
 translate ru PrisonPath1_390f060e:
     # s "I..."
-    s ""
+    s "I..."
 
 # PrisonPath1_d09cb731 (line 61593)
 translate ru PrisonPath1_d09cb731:
     # s "Can I get dressed somewhere in private?"
-    s ""
+    s "Can I get dressed somewhere in private?"
 
 # PrisonPath1_755ec297 (line 61594)
 translate ru PrisonPath1_755ec297:
@@ -666,22 +666,22 @@ translate ru PrisonPath1_755ec297:
 # PrisonPath1_55036411 (line 61595)
 translate ru PrisonPath1_55036411:
     # matt "No, sorry. Policy states we need to be present for prisoner intake."
-    matt ""
+    matt "No, sorry. Policy states we need to be present for prisoner intake."
 
 # PrisonPath1_c900fa3f (line 61596)
 translate ru PrisonPath1_c900fa3f:
     # matt "You wouldn't believe the types of contraband that some prisoners try to smuggle in."
-    matt ""
+    matt "You wouldn't believe the types of contraband that some prisoners try to smuggle in."
 
 # PrisonPath1_1c8eed6a (line 61597)
 translate ru PrisonPath1_1c8eed6a:
     # matt "And it's for your safety too. Make sure nobody is bringing in any weapons."
-    matt ""
+    matt "And it's for your safety too. Make sure nobody is bringing in any weapons."
 
 # PrisonPath1_738adc07 (line 61598)
 translate ru PrisonPath1_738adc07:
     # matt "You understand, right?"
-    matt ""
+    matt "You understand, right?"
 
 # PrisonPath1_f90833ac (line 61599)
 translate ru PrisonPath1_f90833ac:
@@ -721,7 +721,7 @@ translate ru PrisonPath1_1b400276:
 # PrisonPath1_9d918280 (line 61610)
 translate ru PrisonPath1_9d918280:
     # matt "All of it, inmate."
-    matt ""
+    matt "All of it, inmate."
 
 # PrisonPath1_48264689 (line 61611)
 translate ru PrisonPath1_48264689:
@@ -761,7 +761,7 @@ translate ru PrisonPath1_8cef40cf:
 # PrisonPath1_fff9fad7 (line 61622)
 translate ru PrisonPath1_fff9fad7:
     # matt "Good. Turn around for me."
-    matt ""
+    matt "Good. Turn around for me."
 
 # PrisonPath1_75dd116c (line 61623)
 translate ru PrisonPath1_75dd116c:
@@ -781,7 +781,7 @@ translate ru PrisonPath1_0b9c91fc:
 # PrisonPath1_b32e5765 (line 61626)
 translate ru PrisonPath1_b32e5765:
     # matt "Good, turn around and face me, inmate."
-    matt ""
+    matt "Good, turn around and face me, inmate."
 
 # PrisonPath1_5b4eabeb (line 61627)
 translate ru PrisonPath1_5b4eabeb:
@@ -796,7 +796,7 @@ translate ru PrisonPath1_82467b1e:
 # PrisonPath1_96a164ae (line 61629)
 translate ru PrisonPath1_96a164ae:
     # matt "Open wide, inmate."
-    matt ""
+    matt "Open wide, inmate."
 
 # PrisonPath1_c9dd4a85 (line 61630)
 translate ru PrisonPath1_c9dd4a85:
@@ -811,32 +811,32 @@ translate ru PrisonPath1_a6b9f458:
 # PrisonPath1_6b577794 (line 61632)
 translate ru PrisonPath1_6b577794:
     # matt "Alright, no contraband there."
-    matt ""
+    matt "Alright, no contraband there."
 
 # PrisonPath1_c8aa7609 (line 61633)
 translate ru PrisonPath1_c8aa7609:
     # matt "Go ahead and sit on the edge of the table for me."
-    matt ""
+    matt "Go ahead and sit on the edge of the table for me."
 
 # PrisonPath1_cde019e9 (line 61634)
 translate ru PrisonPath1_cde019e9:
     # s "Why?"
-    s ""
+    s "Why?"
 
 # PrisonPath1_6a75eb79 (line 61635)
 translate ru PrisonPath1_6a75eb79:
     # matt "You questioning me, inmate?"
-    matt ""
+    matt "You questioning me, inmate?"
 
 # PrisonPath1_d0526655 (line 61636)
 translate ru PrisonPath1_d0526655:
     # s "No...I just..."
-    s ""
+    s "No...I just..."
 
 # PrisonPath1_27a05534 (line 61637)
 translate ru PrisonPath1_27a05534:
     # matt "Cause I told you, that aught to be good enough reason for you. Now sit on the edge of the table."
-    matt ""
+    matt "Cause I told you, that aught to be good enough reason for you. Now sit on the edge of the table."
 
 # PrisonPath1_322e1268 (line 61638)
 translate ru PrisonPath1_322e1268:
@@ -846,12 +846,12 @@ translate ru PrisonPath1_322e1268:
 # PrisonPath1_9c57ffa5 (line 61639)
 translate ru PrisonPath1_9c57ffa5:
     # matt "Spread your legs."
-    matt ""
+    matt "Spread your legs."
 
 # PrisonPath1_bcd1a7f9 (line 61640)
 translate ru PrisonPath1_bcd1a7f9:
     # s "Excuse me?"
-    s ""
+    s "Excuse me?"
 
 # PrisonPath1_636e5e64 (line 61641)
 translate ru PrisonPath1_636e5e64:
@@ -861,17 +861,17 @@ translate ru PrisonPath1_636e5e64:
 # PrisonPath1_b50c0fdd (line 61642)
 translate ru PrisonPath1_b50c0fdd:
     # matt "Prison protocol for intake states a full cavity check as part of proper procedure."
-    matt ""
+    matt "Prison protocol for intake states a full cavity check as part of proper procedure."
 
 # PrisonPath1_7715636f (line 61643)
 translate ru PrisonPath1_7715636f:
     # matt "Prisoners come in here hiding all sorts of things up in whatever parts they can come up with."
-    matt ""
+    matt "Prisoners come in here hiding all sorts of things up in whatever parts they can come up with."
 
 # PrisonPath1_bfbdd3a2 (line 61644)
 translate ru PrisonPath1_bfbdd3a2:
     # matt "So spread em, or I'll get some extra men in here and we'll do it real proper."
-    matt ""
+    matt "So spread em, or I'll get some extra men in here and we'll do it real proper."
 
 # PrisonPath1_1e3b5a1a (line 61645)
 translate ru PrisonPath1_1e3b5a1a:
@@ -901,7 +901,7 @@ translate ru PrisonPath1_4e7e42d8:
 # PrisonPath1_b3414dd5 (line 61652)
 translate ru PrisonPath1_b3414dd5:
     # matt "Sorry, procedure you know."
-    matt ""
+    matt "Sorry, procedure you know."
 
 # PrisonPath1_36505aad (line 61653)
 translate ru PrisonPath1_36505aad:
@@ -916,12 +916,12 @@ translate ru PrisonPath1_1e08c559:
 # PrisonPath1_22de0e8a (line 61655)
 translate ru PrisonPath1_22de0e8a:
     # matt "Great, no contraband."
-    matt ""
+    matt "Great, no contraband."
 
 # PrisonPath1_c75ad194 (line 61656)
 translate ru PrisonPath1_c75ad194:
     # matt "Just the last check and we're done."
-    matt ""
+    matt "Just the last check and we're done."
 
 # PrisonPath1_8f87b80c (line 61657)
 translate ru PrisonPath1_8f87b80c:
@@ -931,7 +931,7 @@ translate ru PrisonPath1_8f87b80c:
 # PrisonPath1_a53703fe (line 61658)
 translate ru PrisonPath1_a53703fe:
     # matt "Go ahead and turn around for me."
-    matt ""
+    matt "Go ahead and turn around for me."
 
 # PrisonPath1_551fb4e9 (line 61659)
 translate ru PrisonPath1_551fb4e9:
@@ -941,7 +941,7 @@ translate ru PrisonPath1_551fb4e9:
 # PrisonPath1_54e6606d (line 61660)
 translate ru PrisonPath1_54e6606d:
     # matt "Alright, now bend over on the desk and grab the edges real right."
-    matt ""
+    matt "Alright, now bend over on the desk and grab the edges real right."
 
 # PrisonPath1_1a3eb7c1 (line 61661)
 translate ru PrisonPath1_1a3eb7c1:
@@ -951,7 +951,7 @@ translate ru PrisonPath1_1a3eb7c1:
 # PrisonPath1_03bee443 (line 61662)
 translate ru PrisonPath1_03bee443:
     # matt "Some women tell me this hurts, but ya know, others are fine with it. I guess it's a matter of how experienced they are with it."
-    matt ""
+    matt "Some women tell me this hurts, but ya know, others are fine with it. I guess it's a matter of how experienced they are with it."
 
 # PrisonPath1_99ac7565 (line 61665)
 translate ru PrisonPath1_99ac7565:
@@ -1006,7 +1006,7 @@ translate ru PrisonPath1_37affa15:
 # PrisonPath1_14619074 (line 61675)
 translate ru PrisonPath1_14619074:
     # s "Aah!!!"
-    s ""
+    s "Aah!!!"
 
 # PrisonPath1_06646fe6 (line 61676)
 translate ru PrisonPath1_06646fe6:
@@ -1036,7 +1036,7 @@ translate ru PrisonPath1_dc625753:
 # PrisonPath1_c1825cfc (line 61687)
 translate ru PrisonPath1_c1825cfc:
     # matt "Sorry about that. Thought for a moment I felt something. Had to make sure it was nothing."
-    matt ""
+    matt "Sorry about that. Thought for a moment I felt something. Had to make sure it was nothing."
 
 # PrisonPath1_9e43d475 (line 61688)
 translate ru PrisonPath1_9e43d475:
@@ -1066,7 +1066,7 @@ translate ru PrisonPath1_7f3f633d:
 # PrisonPath1_1f552adf (line 61693)
 translate ru PrisonPath1_1f552adf:
     # matt "So, these are your uniforms."
-    matt ""
+    matt "So, these are your uniforms."
 
 # PrisonPath1_850089df (line 61694)
 translate ru PrisonPath1_850089df:
@@ -1101,12 +1101,12 @@ translate ru PrisonPath1_6a0d61ae:
 # PrisonPath1_af09248a (line 61704)
 translate ru PrisonPath1_af09248a:
     # matt "Fits you like a glove."
-    matt ""
+    matt "Fits you like a glove."
 
 # PrisonPath1_07e92e94 (line 61705)
 translate ru PrisonPath1_07e92e94:
     # matt "Follow along and I'll get you situated, grab that basket of supplies and I'll get you situated."
-    matt ""
+    matt "Follow along and I'll get you situated, grab that basket of supplies and I'll get you situated."
 
 # PrisonPath1_e5f37bfa (line 61706)
 translate ru PrisonPath1_e5f37bfa:
@@ -1136,17 +1136,17 @@ translate ru PrisonPath1_18439ecb:
 # PrisonPath1_12f0f067 (line 61717)
 translate ru PrisonPath1_12f0f067:
     # matt "This is the west wing, your section."
-    matt ""
+    matt "This is the west wing, your section."
 
 # PrisonPath1_2dd66d8c (line 61718)
 translate ru PrisonPath1_2dd66d8c:
     # matt "You stay here, for pretty much most of your stay."
-    matt ""
+    matt "You stay here, for pretty much most of your stay."
 
 # PrisonPath1_52228cb5 (line 61719)
 translate ru PrisonPath1_52228cb5:
     # matt "Keep up and I'll show you your cell."
-    matt ""
+    matt "Keep up and I'll show you your cell."
 
 # PrisonPath1_10c0fa49 (line 61726)
 translate ru PrisonPath1_10c0fa49:
@@ -1171,12 +1171,12 @@ translate ru PrisonPath1_1a6c34d9:
 # PrisonPath1_3d15a932 (line 61730)
 translate ru PrisonPath1_3d15a932:
     # matt "So, you share this cell with another inmate, you're both responsible for the upkeep."
-    matt ""
+    matt "So, you share this cell with another inmate, you're both responsible for the upkeep."
 
 # PrisonPath1_0d775cd4 (line 61731)
 translate ru PrisonPath1_0d775cd4:
     # matt "You fail to keep a clean cell that's on the both of you, no matter whose fault it actually is."
-    matt ""
+    matt "You fail to keep a clean cell that's on the both of you, no matter whose fault it actually is."
 
 # PrisonPath1_613b688b (line 61732)
 translate ru PrisonPath1_613b688b:
@@ -1186,7 +1186,7 @@ translate ru PrisonPath1_613b688b:
 # PrisonPath1_99bb2e02 (line 61733)
 translate ru PrisonPath1_99bb2e02:
     # matt "You got any natural urges, that's the bucket you can use."
-    matt ""
+    matt "You got any natural urges, that's the bucket you can use."
 
 # PrisonPath1_06eb7120 (line 61734)
 translate ru PrisonPath1_06eb7120:
@@ -1196,7 +1196,7 @@ translate ru PrisonPath1_06eb7120:
 # PrisonPath1_5567fae6 (line 61735)
 translate ru PrisonPath1_5567fae6:
     # s "Where do we leave it to be disposed of?"
-    s ""
+    s "Where do we leave it to be disposed of?"
 
 # PrisonPath1_5d95bb32 (line 61736)
 translate ru PrisonPath1_5d95bb32:
@@ -1206,12 +1206,12 @@ translate ru PrisonPath1_5d95bb32:
 # PrisonPath1_bb3a4051 (line 61737)
 translate ru PrisonPath1_bb3a4051:
     # matt "No hotel service here I'm afraid."
-    matt ""
+    matt "No hotel service here I'm afraid."
 
 # PrisonPath1_18a8f6d6 (line 61738)
 translate ru PrisonPath1_18a8f6d6:
     # matt "You're responsible for cleaning out your own bucket."
-    matt ""
+    matt "You're responsible for cleaning out your own bucket."
 
 # PrisonPath1_452437c3 (line 61739)
 translate ru PrisonPath1_452437c3:
@@ -1221,7 +1221,7 @@ translate ru PrisonPath1_452437c3:
 # PrisonPath1_274efb10 (line 61740)
 translate ru PrisonPath1_274efb10:
     # s "Whose my cellmate?"
-    s ""
+    s "Whose my cellmate?"
 
 # PrisonPath1_6e689834 (line 61741)
 translate ru PrisonPath1_6e689834:
@@ -1231,17 +1231,17 @@ translate ru PrisonPath1_6e689834:
 # PrisonPath1_45f687d6 (line 61742)
 translate ru PrisonPath1_45f687d6:
     # matt "Her name is Eula, but I don't see here anywhere at the moment. Probably playing bone dice or something."
-    matt ""
+    matt "Her name is Eula, but I don't see here anywhere at the moment. Probably playing bone dice or something."
 
 # PrisonPath1_69755f53 (line 61743)
 translate ru PrisonPath1_69755f53:
     # matt "It's not allowed, technically, but we allow the prisoners some degree of freedom as an incentive to behave."
-    matt ""
+    matt "It's not allowed, technically, but we allow the prisoners some degree of freedom as an incentive to behave."
 
 # PrisonPath1_f0d23517 (line 61744)
 translate ru PrisonPath1_f0d23517:
     # matt "Step out of line and you'll be surprised just how fast those priviledges can vanish."
-    matt ""
+    matt "Step out of line and you'll be surprised just how fast those priviledges can vanish."
 
 # PrisonPath1_b1ca6b49 (line 61745)
 translate ru PrisonPath1_b1ca6b49:
@@ -1251,17 +1251,17 @@ translate ru PrisonPath1_b1ca6b49:
 # PrisonPath1_20f5572c (line 61746)
 translate ru PrisonPath1_20f5572c:
     # matt "Good. Well, that's it then. Go ahead and settle in."
-    matt ""
+    matt "Good. Well, that's it then. Go ahead and settle in."
 
 # PrisonPath1_d308630f (line 61747)
 translate ru PrisonPath1_d308630f:
     # matt "Remember the rules. No fights, no drugs, no trouble. Keep to that, and we'll be fast friends."
-    matt ""
+    matt "Remember the rules. No fights, no drugs, no trouble. Keep to that, and we'll be fast friends."
 
 # PrisonPath1_2fed7bc7 (line 61748)
 translate ru PrisonPath1_2fed7bc7:
     # matt "If you got any questions...honestly, ask your cellmate. I'm busy enough as it is."
-    matt ""
+    matt "If you got any questions...honestly, ask your cellmate. I'm busy enough as it is."
 
 # PrisonPath1_9ee32f99 (line 61749)
 translate ru PrisonPath1_9ee32f99:
@@ -1336,12 +1336,12 @@ translate ru PrisonPath1_3aed27f5:
 # PrisonPath1_0cb632e2 (line 61765)
 translate ru PrisonPath1_0cb632e2:
     # eula "Who the fuck are you, and what are you doing in my cell?"
-    eula ""
+    eula "Who the fuck are you, and what are you doing in my cell?"
 
 # PrisonPath1_418a684b (line 61766)
 translate ru PrisonPath1_418a684b:
     # s "I'm...my name is...Sarah."
-    s ""
+    s "I'm...my name is...Sarah."
 
 # PrisonPath1_ed23dd3c (line 61767)
 translate ru PrisonPath1_ed23dd3c:
@@ -1351,12 +1351,12 @@ translate ru PrisonPath1_ed23dd3c:
 # PrisonPath1_7e9344ef (line 61768)
 translate ru PrisonPath1_7e9344ef:
     # eula "Well, Sarah, how about you fuck back off to your own cell?"
-    eula ""
+    eula "Well, Sarah, how about you fuck back off to your own cell?"
 
 # PrisonPath1_388109dd (line 61769)
 translate ru PrisonPath1_388109dd:
     # s "This...this is my cell..."
-    s ""
+    s "This...this is my cell..."
 
 # PrisonPath1_21068771 (line 61770)
 translate ru PrisonPath1_21068771:
@@ -1366,12 +1366,12 @@ translate ru PrisonPath1_21068771:
 # PrisonPath1_4e09be90 (line 61771)
 translate ru PrisonPath1_4e09be90:
     # eula "Ooh..."
-    eula ""
+    eula "Ooh..."
 
 # PrisonPath1_10dd0bd2 (line 61772)
 translate ru PrisonPath1_10dd0bd2:
     # eula "I thought Matt had been fuckin with me, but I really was gettin a new cellmate."
-    eula ""
+    eula "I thought Matt had been fuckin with me, but I really was gettin a new cellmate."
 
 # PrisonPath1_ce06c80b (line 61773)
 translate ru PrisonPath1_ce06c80b:
@@ -1386,22 +1386,22 @@ translate ru PrisonPath1_51af8c38:
 # PrisonPath1_7e34e65d (line 61775)
 translate ru PrisonPath1_7e34e65d:
     # eula "Well, Sarah, my name is Eula."
-    eula ""
+    eula "Well, Sarah, my name is Eula."
 
 # PrisonPath1_e1f64a7c (line 61776)
 translate ru PrisonPath1_e1f64a7c:
     # s "Ooh, yes! Matthew told me about you."
-    s ""
+    s "Ooh, yes! Matthew told me about you."
 
 # PrisonPath1_ff243a12 (line 61777)
 translate ru PrisonPath1_ff243a12:
     # eula "What did he tell you?"
-    eula ""
+    eula "What did he tell you?"
 
 # PrisonPath1_35e02623 (line 61778)
 translate ru PrisonPath1_35e02623:
     # s "Nothing much really, only that we'll be cellmates."
-    s ""
+    s "Nothing much really, only that we'll be cellmates."
 
 # PrisonPath1_15d2da0b (line 61779)
 translate ru PrisonPath1_15d2da0b:
@@ -1411,17 +1411,17 @@ translate ru PrisonPath1_15d2da0b:
 # PrisonPath1_5d16241a (line 61780)
 translate ru PrisonPath1_5d16241a:
     # eula "Good."
-    eula ""
+    eula "Good."
 
 # PrisonPath1_61aeb34c (line 61781)
 translate ru PrisonPath1_61aeb34c:
     # eula "Sorry about that whole fuck you routine from before."
-    eula ""
+    eula "Sorry about that whole fuck you routine from before."
 
 # PrisonPath1_139db631 (line 61782)
 translate ru PrisonPath1_139db631:
     # eula "I saw a new face and I thought I had to make an impression on you, but if we're cellmates, no need for all that tough actin bullshit."
-    eula ""
+    eula "I saw a new face and I thought I had to make an impression on you, but if we're cellmates, no need for all that tough actin bullshit."
 
 # PrisonPath1_5fcd0f14 (line 61783)
 translate ru PrisonPath1_5fcd0f14:
@@ -1431,7 +1431,7 @@ translate ru PrisonPath1_5fcd0f14:
 # PrisonPath1_dfa96666 (line 61784)
 translate ru PrisonPath1_dfa96666:
     # s "It's fine, I'm sure it must have been a surprise for you to just find me here."
-    s ""
+    s "It's fine, I'm sure it must have been a surprise for you to just find me here."
 
 # PrisonPath1_859dc00c (line 61785)
 translate ru PrisonPath1_859dc00c:
@@ -1441,7 +1441,7 @@ translate ru PrisonPath1_859dc00c:
 # PrisonPath1_5b9757e1 (line 61786)
 translate ru PrisonPath1_5b9757e1:
     # eula "Not to be a bitch or anything...but...are you sure you're supposed to be here?"
-    eula ""
+    eula "Not to be a bitch or anything...but...are you sure you're supposed to be here?"
 
 # PrisonPath1_5af90842 (line 61787)
 translate ru PrisonPath1_5af90842:
@@ -1451,7 +1451,7 @@ translate ru PrisonPath1_5af90842:
 # PrisonPath1_63d8e663 (line 61788)
 translate ru PrisonPath1_63d8e663:
     # s "I...Matthew showed me here...I think so..."
-    s ""
+    s "I...Matthew showed me here...I think so..."
 
 # PrisonPath1_ad996618 (line 61789)
 translate ru PrisonPath1_ad996618:
@@ -1461,12 +1461,12 @@ translate ru PrisonPath1_ad996618:
 # PrisonPath1_46c8a587 (line 61790)
 translate ru PrisonPath1_46c8a587:
     # eula "Yeah, I'm sure you're supposed to be here, but I mean more like, in general."
-    eula ""
+    eula "Yeah, I'm sure you're supposed to be here, but I mean more like, in general."
 
 # PrisonPath1_9b640dc4 (line 61791)
 translate ru PrisonPath1_9b640dc4:
     # eula "You don't strike me as the criminal type."
-    eula ""
+    eula "You don't strike me as the criminal type."
 
 # PrisonPath1_ce5c7fde (line 61792)
 translate ru PrisonPath1_ce5c7fde:
@@ -1476,17 +1476,17 @@ translate ru PrisonPath1_ce5c7fde:
 # PrisonPath1_256f0a25 (line 61793)
 translate ru PrisonPath1_256f0a25:
     # s "Well...I guess I'm not...but I was guilty of a crime, so it's all the same I guess."
-    s ""
+    s "Well...I guess I'm not...but I was guilty of a crime, so it's all the same I guess."
 
 # PrisonPath1_58e34ea3 (line 61794)
 translate ru PrisonPath1_58e34ea3:
     # eula "What happened?"
-    eula ""
+    eula "What happened?"
 
 # PrisonPath1_03e16d6b (line 61795)
 translate ru PrisonPath1_03e16d6b:
     # s "I helped a guy pickpocket in a market...and then I stood up for him, but he gave me up to the guards."
-    s ""
+    s "I helped a guy pickpocket in a market...and then I stood up for him, but he gave me up to the guards."
 
 # PrisonPath1_942c3057 (line 61796)
 translate ru PrisonPath1_942c3057:
@@ -1496,7 +1496,7 @@ translate ru PrisonPath1_942c3057:
 # PrisonPath1_03b5dd93 (line 61797)
 translate ru PrisonPath1_03b5dd93:
     # eula "Fuckin men. They make a mess of it and we ladies get to take the fall, ain't that the truth."
-    eula ""
+    eula "Fuckin men. They make a mess of it and we ladies get to take the fall, ain't that the truth."
 
 # PrisonPath1_1e65aece (line 61798)
 translate ru PrisonPath1_1e65aece:
@@ -1506,17 +1506,17 @@ translate ru PrisonPath1_1e65aece:
 # PrisonPath1_74119ae0 (line 61799)
 translate ru PrisonPath1_74119ae0:
     # s "And you?"
-    s ""
+    s "And you?"
 
 # PrisonPath1_e9de0ec6 (line 61800)
 translate ru PrisonPath1_e9de0ec6:
     # eula "Me?"
-    eula ""
+    eula "Me?"
 
 # PrisonPath1_698a39f9 (line 61801)
 translate ru PrisonPath1_698a39f9:
     # s "What are you in for."
-    s ""
+    s "What are you in for."
 
 # PrisonPath1_ed99f1aa (line 61802)
 translate ru PrisonPath1_ed99f1aa:
@@ -1526,17 +1526,17 @@ translate ru PrisonPath1_ed99f1aa:
 # PrisonPath1_eef4495a (line 61803)
 translate ru PrisonPath1_eef4495a:
     # eula "Look, newbie, don't go around askin people why they're in here for."
-    eula ""
+    eula "Look, newbie, don't go around askin people why they're in here for."
 
 # PrisonPath1_67b58b1e (line 61804)
 translate ru PrisonPath1_67b58b1e:
     # eula "Most of the times you just get into trouble."
-    eula ""
+    eula "Most of the times you just get into trouble."
 
 # PrisonPath1_46bccab0 (line 61805)
 translate ru PrisonPath1_46bccab0:
     # s "But you asked me."
-    s ""
+    s "But you asked me."
 
 # PrisonPath1_3fe7d4bf (line 61806)
 translate ru PrisonPath1_3fe7d4bf:
@@ -1546,17 +1546,17 @@ translate ru PrisonPath1_3fe7d4bf:
 # PrisonPath1_f60262f1 (line 61807)
 translate ru PrisonPath1_f60262f1:
     # eula "Yeah, cause you so fresh-faced you'd actually tell me."
-    eula ""
+    eula "Yeah, cause you so fresh-faced you'd actually tell me."
 
 # PrisonPath1_997a4d94 (line 61808)
 translate ru PrisonPath1_997a4d94:
     # eula "But look, I'm decent enough, but some of these ladies on the block are pretty bad, so really wanna keep your head down."
-    eula ""
+    eula "But look, I'm decent enough, but some of these ladies on the block are pretty bad, so really wanna keep your head down."
 
 # PrisonPath1_30c2f69b (line 61809)
 translate ru PrisonPath1_30c2f69b:
     # eula "Especially lookin the way you do, troubles bound to find ya."
-    eula ""
+    eula "Especially lookin the way you do, troubles bound to find ya."
 
 # PrisonPath1_f0bf09f1 (line 61810)
 translate ru PrisonPath1_f0bf09f1:
@@ -1566,7 +1566,7 @@ translate ru PrisonPath1_f0bf09f1:
 # PrisonPath1_fef524f8 (line 61811)
 translate ru PrisonPath1_fef524f8:
     # eula "Anyway, I'm here for a simple shoplifting charge. Third offense, so they gave it to be bad, couple of years, but nothin I can't handle."
-    eula ""
+    eula "Anyway, I'm here for a simple shoplifting charge. Third offense, so they gave it to be bad, couple of years, but nothin I can't handle."
 
 # PrisonPath1_c5578fe2 (line 61812)
 translate ru PrisonPath1_c5578fe2:
@@ -1576,7 +1576,7 @@ translate ru PrisonPath1_c5578fe2:
 # PrisonPath1_799eb7ca (line 61813)
 translate ru PrisonPath1_799eb7ca:
     # s "What did you mean when you said some of the women here are bad? I thought everyone in this block was here for small crimes?"
-    s ""
+    s "What did you mean when you said some of the women here are bad? I thought everyone in this block was here for small crimes?"
 
 # PrisonPath1_99a8f9ef (line 61814)
 translate ru PrisonPath1_99a8f9ef:
@@ -1586,7 +1586,7 @@ translate ru PrisonPath1_99a8f9ef:
 # PrisonPath1_3122fca6 (line 61815)
 translate ru PrisonPath1_3122fca6:
     # eula "Who told you that?"
-    eula ""
+    eula "Who told you that?"
 
 # PrisonPath1_96ae83b4 (line 61816)
 translate ru PrisonPath1_96ae83b4:
@@ -1596,17 +1596,17 @@ translate ru PrisonPath1_96ae83b4:
 # PrisonPath1_cb2c6c69 (line 61817)
 translate ru PrisonPath1_cb2c6c69:
     # s "Matthew. He told me this wing was pretty safe, no fights."
-    s ""
+    s "Matthew. He told me this wing was pretty safe, no fights."
 
 # PrisonPath1_c7f949ab (line 61818)
 translate ru PrisonPath1_c7f949ab:
     # eula "Look, you're gonna need to learn to split the real stuff from the bullshit, ok?"
-    eula ""
+    eula "Look, you're gonna need to learn to split the real stuff from the bullshit, ok?"
 
 # PrisonPath1_b1d9d995 (line 61819)
 translate ru PrisonPath1_b1d9d995:
     # eula "Matthew is the warden for this section, and wants to be warden for the whole prison one day."
-    eula ""
+    eula "Matthew is the warden for this section, and wants to be warden for the whole prison one day."
 
 # PrisonPath1_2da82e25 (line 61820)
 translate ru PrisonPath1_2da82e25:
@@ -1616,27 +1616,27 @@ translate ru PrisonPath1_2da82e25:
 # PrisonPath1_04f41b19 (line 61821)
 translate ru PrisonPath1_04f41b19:
     # eula "Well, only way you get to be the big warden is if you can show you're doing a good job."
-    eula ""
+    eula "Well, only way you get to be the big warden is if you can show you're doing a good job."
 
 # PrisonPath1_e7d7edc7 (line 61822)
 translate ru PrisonPath1_e7d7edc7:
     # eula "And the way you show that is by presenting good numbers."
-    eula ""
+    eula "And the way you show that is by presenting good numbers."
 
 # PrisonPath1_4b065552 (line 61823)
 translate ru PrisonPath1_4b065552:
     # eula "Matthew don't give a fuck if some girl gets her head bashed in, and trust me, plenty do."
-    eula ""
+    eula "Matthew don't give a fuck if some girl gets her head bashed in, and trust me, plenty do."
 
 # PrisonPath1_c1830b3f (line 61824)
 translate ru PrisonPath1_c1830b3f:
     # eula "Only thing Matthew cares about is if anyone files a report."
-    eula ""
+    eula "Only thing Matthew cares about is if anyone files a report."
 
 # PrisonPath1_9caf041c (line 61825)
 translate ru PrisonPath1_9caf041c:
     # eula "And most of the time, the person filing the report gets in trouble, not the person that actually started shit."
-    eula ""
+    eula "And most of the time, the person filing the report gets in trouble, not the person that actually started shit."
 
 # PrisonPath1_3bae33e9 (line 61826)
 translate ru PrisonPath1_3bae33e9:
@@ -1646,17 +1646,17 @@ translate ru PrisonPath1_3bae33e9:
 # PrisonPath1_ceadac8d (line 61827)
 translate ru PrisonPath1_ceadac8d:
     # eula "And as for some of the women, people are here for the crimes they got caught at, not the crimes they did."
-    eula ""
+    eula "And as for some of the women, people are here for the crimes they got caught at, not the crimes they did."
 
 # PrisonPath1_929d2b65 (line 61828)
 translate ru PrisonPath1_929d2b65:
     # eula "Big difference between the two."
-    eula ""
+    eula "Big difference between the two."
 
 # PrisonPath1_d8b4916b (line 61829)
 translate ru PrisonPath1_d8b4916b:
     # eula "So some of these women on the block are real hard hitters that just got snatched on the only charge that would stick."
-    eula ""
+    eula "So some of these women on the block are real hard hitters that just got snatched on the only charge that would stick."
 
 # PrisonPath1_40b86e7c (line 61830)
 translate ru PrisonPath1_40b86e7c:
@@ -1676,12 +1676,12 @@ translate ru PrisonPath1_5fd58e3a:
 # PrisonPath1_96fcd361 (line 61833)
 translate ru PrisonPath1_96fcd361:
     # eula "Well, you heard the man, celldoors are gonna get locked in five minutes."
-    eula ""
+    eula "Well, you heard the man, celldoors are gonna get locked in five minutes."
 
 # PrisonPath1_f927a11d (line 61834)
 translate ru PrisonPath1_f927a11d:
     # s "When do they open again?"
-    s ""
+    s "When do they open again?"
 
 # PrisonPath1_93d75e2e (line 61835)
 translate ru PrisonPath1_93d75e2e:
@@ -1691,12 +1691,12 @@ translate ru PrisonPath1_93d75e2e:
 # PrisonPath1_52a6f8a3 (line 61836)
 translate ru PrisonPath1_52a6f8a3:
     # eula "Early next morning, about breakfast time."
-    eula ""
+    eula "Early next morning, about breakfast time."
 
 # PrisonPath1_21c9392d (line 61837)
 translate ru PrisonPath1_21c9392d:
     # eula "Not much light here, so time can get a bit weird, but you catch on after a while."
-    eula ""
+    eula "Not much light here, so time can get a bit weird, but you catch on after a while."
 
 # PrisonPath1_ff260af4 (line 61838)
 translate ru PrisonPath1_ff260af4:
@@ -1711,7 +1711,7 @@ translate ru PrisonPath1_2ceb9476:
 # PrisonPath1_f1d96f9e (line 61840)
 translate ru PrisonPath1_f1d96f9e:
     # eula "I'll walk you around the block tomorrow, show you all the spots, let you know whose cool and who to avoid."
-    eula ""
+    eula "I'll walk you around the block tomorrow, show you all the spots, let you know whose cool and who to avoid."
 
 # PrisonPath1_df02a2a9 (line 61841)
 translate ru PrisonPath1_df02a2a9:
@@ -1721,7 +1721,7 @@ translate ru PrisonPath1_df02a2a9:
 # PrisonPath1_54b887e4 (line 61842)
 translate ru PrisonPath1_54b887e4:
     # s "Thank you, Eula. You're maybe the one nice person I've met today."
-    s ""
+    s "Thank you, Eula. You're maybe the one nice person I've met today."
 
 # PrisonPath1_445a039b (line 61843)
 translate ru PrisonPath1_445a039b:
@@ -1731,12 +1731,12 @@ translate ru PrisonPath1_445a039b:
 # PrisonPath1_a37789fb (line 61844)
 translate ru PrisonPath1_a37789fb:
     # eula "I was a newbie once and someone taught me, only fair that I return the favor."
-    eula ""
+    eula "I was a newbie once and someone taught me, only fair that I return the favor."
 
 # PrisonPath1_b2113617 (line 61845)
 translate ru PrisonPath1_b2113617:
     # eula "Now go ahead, lay down. You should try to get some rest."
-    eula ""
+    eula "Now go ahead, lay down. You should try to get some rest."
 
 # PrisonPath1_55367085 (line 61846)
 translate ru PrisonPath1_55367085:
@@ -1771,22 +1771,22 @@ translate ru PrisonPath1_51ae361b:
 # PrisonPath1_158a7a54 (line 61852)
 translate ru PrisonPath1_158a7a54:
     # eula "You ain't gettin no sleep, huh?"
-    eula ""
+    eula "You ain't gettin no sleep, huh?"
 
 # PrisonPath1_65f07493 (line 61853)
 translate ru PrisonPath1_65f07493:
     # s "No, not really. Sorry about that."
-    s ""
+    s "No, not really. Sorry about that."
 
 # PrisonPath1_3ab30e61 (line 61854)
 translate ru PrisonPath1_3ab30e61:
     # eula "It's fine. First day's are always rough."
-    eula ""
+    eula "It's fine. First day's are always rough."
 
 # PrisonPath1_47df19eb (line 61855)
 translate ru PrisonPath1_47df19eb:
     # s "I just keep thinking about this place and how I'm going to make it through."
-    s ""
+    s "I just keep thinking about this place and how I'm going to make it through."
 
 # PrisonPath1_e2dc7e23 (line 61856)
 translate ru PrisonPath1_e2dc7e23:
@@ -1796,22 +1796,22 @@ translate ru PrisonPath1_e2dc7e23:
 # PrisonPath1_fe5e7db0 (line 61857)
 translate ru PrisonPath1_fe5e7db0:
     # eula "Look, newbie, I'm just gonna be real with you."
-    eula ""
+    eula "Look, newbie, I'm just gonna be real with you."
 
 # PrisonPath1_04fa6f4e (line 61858)
 translate ru PrisonPath1_04fa6f4e:
     # eula "You're a looker. That means people are gonna mess with you, one way or another."
-    eula ""
+    eula "You're a looker. That means people are gonna mess with you, one way or another."
 
 # PrisonPath1_751b9a88 (line 61859)
 translate ru PrisonPath1_751b9a88:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # PrisonPath1_d491aaa5 (line 61860)
 translate ru PrisonPath1_d491aaa5:
     # eula "Don't act like a moron, that ain't gonna do you any good. You know you're pretty, right?"
-    eula ""
+    eula "Don't act like a moron, that ain't gonna do you any good. You know you're pretty, right?"
 
 # PrisonPath1_13ab2761 (line 61861)
 translate ru PrisonPath1_13ab2761:
@@ -1821,17 +1821,17 @@ translate ru PrisonPath1_13ab2761:
 # PrisonPath1_f9888bed (line 61862)
 translate ru PrisonPath1_f9888bed:
     # eula "Well, lotta girls in here get lonely, and they don't mind who helps em solve that loneliness."
-    eula ""
+    eula "Well, lotta girls in here get lonely, and they don't mind who helps em solve that loneliness."
 
 # PrisonPath1_b9bcfce9 (line 61863)
 translate ru PrisonPath1_b9bcfce9:
     # eula "And they also don't mind putting a little convincing behind it."
-    eula ""
+    eula "And they also don't mind putting a little convincing behind it."
 
 # PrisonPath1_765a8abe (line 61864)
 translate ru PrisonPath1_765a8abe:
     # eula "Guys too, most of the guards here have fucked a girl sooner or later."
-    eula ""
+    eula "Guys too, most of the guards here have fucked a girl sooner or later."
 
 # PrisonPath1_682a4a67 (line 61865)
 translate ru PrisonPath1_682a4a67:
@@ -1841,7 +1841,7 @@ translate ru PrisonPath1_682a4a67:
 # PrisonPath1_e1e9a065 (line 61866)
 translate ru PrisonPath1_e1e9a065:
     # eula "You ever been fucked by a girl before?"
-    eula ""
+    eula "You ever been fucked by a girl before?"
 
 # PrisonPath1_13abc167 (line 61867)
 translate ru PrisonPath1_13abc167:
@@ -1856,17 +1856,17 @@ translate ru PrisonPath1_90572eaa:
 # PrisonPath1_a933c3fd (line 61882)
 translate ru PrisonPath1_a933c3fd:
     # eula "You know, it's just gonna be easier for you if you face up to reality."
-    eula ""
+    eula "You know, it's just gonna be easier for you if you face up to reality."
 
 # PrisonPath1_1153cb20 (line 61883)
 translate ru PrisonPath1_1153cb20:
     # eula "A girl like you ain't gettin through here without givin it up at least a few times."
-    eula ""
+    eula "A girl like you ain't gettin through here without givin it up at least a few times."
 
 # PrisonPath1_ee0db06f (line 61884)
 translate ru PrisonPath1_ee0db06f:
     # eula "You just ain't hard enough or clever enough to avoid that."
-    eula ""
+    eula "You just ain't hard enough or clever enough to avoid that."
 
 # PrisonPath1_b83f4b0d (line 61885)
 translate ru PrisonPath1_b83f4b0d:
@@ -1876,7 +1876,7 @@ translate ru PrisonPath1_b83f4b0d:
 # PrisonPath1_fa8c70ed (line 61886)
 translate ru PrisonPath1_fa8c70ed:
     # eula "But best I can do is ease you into it."
-    eula ""
+    eula "But best I can do is ease you into it."
 
 # PrisonPath1_9f3bed7e (line 61887)
 translate ru PrisonPath1_9f3bed7e:
@@ -1886,20 +1886,10 @@ translate ru PrisonPath1_9f3bed7e:
 # PrisonPath1_6b4c3aa1 (line 61888)
 translate ru PrisonPath1_6b4c3aa1:
     # eula "How about you come over here and eat me out?"
-    eula ""
+    eula "How about you come over here and eat me out?"
 
 # PrisonPath1_f9600a79 (line 61889)
 translate ru PrisonPath1_f9600a79:
     # "Sarah watched as Eula leaned back and began to fumble with her pants."
     ""
-
-# PrisonPath1_62cc2496 (line 61892)
-translate ru PrisonPath1_62cc2496:
-    # "Have sex with Eula"
-    "Have sex with Eula" ""
-
-# PrisonPath1_fe8b2249 (line 61959)
-translate ru PrisonPath1_fe8b2249:
-    # "Refuse to have sex with Eula"
-    "Refuse to have sex with Eula" ""
 

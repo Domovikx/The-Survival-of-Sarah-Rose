@@ -71,7 +71,7 @@ translate ru TheBlackMonolithWarrior4_474b6feb:
 # TheBlackMonolithWarrior4_56d9ff6e (line 47097)
 translate ru TheBlackMonolithWarrior4_56d9ff6e:
     # s "Where are you?"
-    s ""
+    s "Where are you?"
 
 # TheBlackMonolithWarrior4_8da32654 (line 47098)
 translate ru TheBlackMonolithWarrior4_8da32654:
@@ -81,7 +81,7 @@ translate ru TheBlackMonolithWarrior4_8da32654:
 # TheBlackMonolithWarrior4_53dbb40f (line 47099)
 translate ru TheBlackMonolithWarrior4_53dbb40f:
     # s "The dig site."
-    s ""
+    s "The dig site."
 
 # TheBlackMonolithWarrior4_55ba8d65 (line 47100)
 translate ru TheBlackMonolithWarrior4_55ba8d65:
@@ -506,7 +506,7 @@ translate ru TheBlackMonolithWarrior4_d5a0f3ad:
 # TheBlackMonolithWarrior4_0b6c292f (line 47229)
 translate ru TheBlackMonolithWarrior4_0b6c292f:
     # s "Who are you..."
-    s ""
+    s "Who are you..."
 
 # TheBlackMonolithWarrior4_e11cdaaf (line 47230)
 translate ru TheBlackMonolithWarrior4_e11cdaaf:
@@ -531,7 +531,7 @@ translate ru TheBlackMonolithWarrior4_40d12008:
 # TheBlackMonolithWarrior4_65565fb7 (line 47238)
 translate ru TheBlackMonolithWarrior4_65565fb7:
     # s "You...you're that spirit from Bagrad."
-    s ""
+    s "You...you're that spirit from Bagrad."
 
 # TheBlackMonolithWarrior4_d1ce1292 (line 47239)
 translate ru TheBlackMonolithWarrior4_d1ce1292:
@@ -546,17 +546,17 @@ translate ru TheBlackMonolithWarrior4_ce944ef9:
 # TheBlackMonolithWarrior4_ec2cabba (line 47241)
 translate ru TheBlackMonolithWarrior4_ec2cabba:
     # s "Razaphel..."
-    s ""
+    s "Razaphel..."
 
 # TheBlackMonolithWarrior4_d5d770fb (line 47242)
 translate ru TheBlackMonolithWarrior4_d5d770fb:
     # r "Often have I dreamed of this moment, and often do I dream of it still."
-    r ""
+    r "Often have I dreamed of this moment, and often do I dream of it still."
 
 # TheBlackMonolithWarrior4_89d950b6 (line 47243)
 translate ru TheBlackMonolithWarrior4_89d950b6:
     # r "To be in this moment, feels strange to me."
-    r ""
+    r "To be in this moment, feels strange to me."
 
 # TheBlackMonolithWarrior4_0d839a4b (line 47244)
 translate ru TheBlackMonolithWarrior4_0d839a4b:
@@ -566,7 +566,7 @@ translate ru TheBlackMonolithWarrior4_0d839a4b:
 # TheBlackMonolithWarrior4_65b4972f (line 47245)
 translate ru TheBlackMonolithWarrior4_65b4972f:
     # s "Are you the voice that I have been hearing? Playing with my mind?"
-    s ""
+    s "Are you the voice that I have been hearing? Playing with my mind?"
 
 # TheBlackMonolithWarrior4_61a0ac64 (line 47246)
 translate ru TheBlackMonolithWarrior4_61a0ac64:
@@ -576,17 +576,17 @@ translate ru TheBlackMonolithWarrior4_61a0ac64:
 # TheBlackMonolithWarrior4_5c1caebf (line 47247)
 translate ru TheBlackMonolithWarrior4_5c1caebf:
     # r "Yes."
-    r ""
+    r "Yes."
 
 # TheBlackMonolithWarrior4_d3dc8147 (line 47248)
 translate ru TheBlackMonolithWarrior4_d3dc8147:
     # r "I will speak only truth from now on, Sarah. I will admit to my deceit, and ask for your forgiveness."
-    r ""
+    r "I will speak only truth from now on, Sarah. I will admit to my deceit, and ask for your forgiveness."
 
 # TheBlackMonolithWarrior4_642cc773 (line 47249)
 translate ru TheBlackMonolithWarrior4_642cc773:
     # s "I had almost begun to believe myself mad."
-    s ""
+    s "I had almost begun to believe myself mad."
 
 # TheBlackMonolithWarrior4_c2acbddc (line 47250)
 translate ru TheBlackMonolithWarrior4_c2acbddc:
@@ -596,17 +596,17 @@ translate ru TheBlackMonolithWarrior4_c2acbddc:
 # TheBlackMonolithWarrior4_c5052d54 (line 47251)
 translate ru TheBlackMonolithWarrior4_c5052d54:
     # s "Perhaps I still am."
-    s ""
+    s "Perhaps I still am."
 
 # TheBlackMonolithWarrior4_d1708d60 (line 47252)
 translate ru TheBlackMonolithWarrior4_d1708d60:
     # r "I promise you, you are not mad, daughter-of-starlight."
-    r ""
+    r "I promise you, you are not mad, daughter-of-starlight."
 
 # TheBlackMonolithWarrior4_2cde4640 (line 47253)
 translate ru TheBlackMonolithWarrior4_2cde4640:
     # r "Long have I hoped to meet you here, and now to see you before me, I find my courage failing me."
-    r ""
+    r "Long have I hoped to meet you here, and now to see you before me, I find my courage failing me."
 
 # TheBlackMonolithWarrior4_f94cd917 (line 47254)
 translate ru TheBlackMonolithWarrior4_f94cd917:
@@ -616,12 +616,12 @@ translate ru TheBlackMonolithWarrior4_f94cd917:
 # TheBlackMonolithWarrior4_5529e4cc (line 47255)
 translate ru TheBlackMonolithWarrior4_5529e4cc:
     # s "Speak, creature. Whatever words you have for me, spill them now. Tell me why you brought me here."
-    s ""
+    s "Speak, creature. Whatever words you have for me, spill them now. Tell me why you brought me here."
 
 # TheBlackMonolithWarrior4_e5ebeb8a (line 47256)
 translate ru TheBlackMonolithWarrior4_e5ebeb8a:
     # r "I brought you here to save you. And in turn, I pray that you might save me."
-    r ""
+    r "I brought you here to save you. And in turn, I pray that you might save me."
 
 # TheBlackMonolithWarrior4_2adc60c9 (line 47257)
 translate ru TheBlackMonolithWarrior4_2adc60c9:
@@ -631,7 +631,7 @@ translate ru TheBlackMonolithWarrior4_2adc60c9:
 # TheBlackMonolithWarrior4_0f31e7b5 (line 47258)
 translate ru TheBlackMonolithWarrior4_0f31e7b5:
     # s "I need no saving. Tell me why I am here, or I will dig my way out of this place and bring the earth down on top of you."
-    s ""
+    s "I need no saving. Tell me why I am here, or I will dig my way out of this place and bring the earth down on top of you."
 
 # TheBlackMonolithWarrior4_43c7cc2e (line 47259)
 translate ru TheBlackMonolithWarrior4_43c7cc2e:
@@ -641,7 +641,7 @@ translate ru TheBlackMonolithWarrior4_43c7cc2e:
 # TheBlackMonolithWarrior4_65b80ab1 (line 47260)
 translate ru TheBlackMonolithWarrior4_65b80ab1:
     # r "I shall speak, but first, permit me to tell you a story."
-    r ""
+    r "I shall speak, but first, permit me to tell you a story."
 
 # TheBlackMonolithWarrior4_6e32ee23 (line 47261)
 translate ru TheBlackMonolithWarrior4_6e32ee23:
@@ -651,77 +651,77 @@ translate ru TheBlackMonolithWarrior4_6e32ee23:
 # TheBlackMonolithWarrior4_9bfbeecc (line 47262)
 translate ru TheBlackMonolithWarrior4_9bfbeecc:
     # s "Tell me then, spirit. But only truth."
-    s ""
+    s "Tell me then, spirit. But only truth."
 
 # TheBlackMonolithWarrior4_af55e73f (line 47263)
 translate ru TheBlackMonolithWarrior4_af55e73f:
     # r "Many millenia ago, this world was home not to the many empires and kingdoms that exist today, but only a single empire."
-    r ""
+    r "Many millenia ago, this world was home not to the many empires and kingdoms that exist today, but only a single empire."
 
 # TheBlackMonolithWarrior4_42c115f0 (line 47264)
 translate ru TheBlackMonolithWarrior4_42c115f0:
     # r "It stretched across the surface of the world and all peoples of this world fell under it."
-    r ""
+    r "It stretched across the surface of the world and all peoples of this world fell under it."
 
 # TheBlackMonolithWarrior4_3eab6f22 (line 47265)
 translate ru TheBlackMonolithWarrior4_3eab6f22:
     # r "The world looked very different from how it does now, and the Gods of your world walked freely and spoke in plain voices."
-    r ""
+    r "The world looked very different from how it does now, and the Gods of your world walked freely and spoke in plain voices."
 
 # TheBlackMonolithWarrior4_e3b11e84 (line 47266)
 translate ru TheBlackMonolithWarrior4_e3b11e84:
     # s "The Gods? They are only a fiction, stories to keep children from misbehaving."
-    s ""
+    s "The Gods? They are only a fiction, stories to keep children from misbehaving."
 
 # TheBlackMonolithWarrior4_b6eee849 (line 47267)
 translate ru TheBlackMonolithWarrior4_b6eee849:
     # r "Today, yes, but once they walked the surface of your world as casually as one might witness a mountain."
-    r ""
+    r "Today, yes, but once they walked the surface of your world as casually as one might witness a mountain."
 
 # TheBlackMonolithWarrior4_7e455d02 (line 47268)
 translate ru TheBlackMonolithWarrior4_7e455d02:
     # r "In this empire of old, your race communed with the Pantheon and they guided you from savagery to civilization."
-    r ""
+    r "In this empire of old, your race communed with the Pantheon and they guided you from savagery to civilization."
 
 # TheBlackMonolithWarrior4_3adf2984 (line 47269)
 translate ru TheBlackMonolithWarrior4_3adf2984:
     # r "From the dawn of your race and for many millenia after, such was the only way the world was."
-    r ""
+    r "From the dawn of your race and for many millenia after, such was the only way the world was."
 
 # TheBlackMonolithWarrior4_4ab51614 (line 47270)
 translate ru TheBlackMonolithWarrior4_4ab51614:
     # r "Countless generations, birthed and died, as the progress of your species crawled on."
-    r ""
+    r "Countless generations, birthed and died, as the progress of your species crawled on."
 
 # TheBlackMonolithWarrior4_ba14d61a (line 47271)
 translate ru TheBlackMonolithWarrior4_ba14d61a:
     # r "All of this, until under Empress Ayamari, this empire reached its zenith."
-    r ""
+    r "All of this, until under Empress Ayamari, this empire reached its zenith."
 
 # TheBlackMonolithWarrior4_4bd4d36c (line 47272)
 translate ru TheBlackMonolithWarrior4_4bd4d36c:
     # r "She ruled as the best of your people, the paragon of your race. Under her, the people flourished."
-    r ""
+    r "She ruled as the best of your people, the paragon of your race. Under her, the people flourished."
 
 # TheBlackMonolithWarrior4_2d96269e (line 47273)
 translate ru TheBlackMonolithWarrior4_2d96269e:
     # r "All who saw her, beautiful and righteous, praised her."
-    r ""
+    r "All who saw her, beautiful and righteous, praised her."
 
 # TheBlackMonolithWarrior4_bbe083b3 (line 47274)
 translate ru TheBlackMonolithWarrior4_bbe083b3:
     # r "All wished for the same thing that she wished for in her heart, that she might live and rule forever."
-    r ""
+    r "All wished for the same thing that she wished for in her heart, that she might live and rule forever."
 
 # TheBlackMonolithWarrior4_17b9afcb (line 47275)
 translate ru TheBlackMonolithWarrior4_17b9afcb:
     # r "As the years dragged on and her body slowly faded, this Empress knew her hour would soon pass."
-    r ""
+    r "As the years dragged on and her body slowly faded, this Empress knew her hour would soon pass."
 
 # TheBlackMonolithWarrior4_8c6f90ae (line 47276)
 translate ru TheBlackMonolithWarrior4_8c6f90ae:
     # r "She feared for her own life, yes, but more than that she feared for her people, who might again fall subject to imperfect rulers."
-    r ""
+    r "She feared for her own life, yes, but more than that she feared for her people, who might again fall subject to imperfect rulers."
 
 # TheBlackMonolithWarrior4_11785f5c (line 47277)
 translate ru TheBlackMonolithWarrior4_11785f5c:
@@ -731,42 +731,42 @@ translate ru TheBlackMonolithWarrior4_11785f5c:
 # TheBlackMonolithWarrior4_ead2e56a (line 47278)
 translate ru TheBlackMonolithWarrior4_ead2e56a:
     # r "In desperation, she reached out to the Gods of your Pantheon and begged them to give her more life."
-    r ""
+    r "In desperation, she reached out to the Gods of your Pantheon and begged them to give her more life."
 
 # TheBlackMonolithWarrior4_36f26687 (line 47279)
 translate ru TheBlackMonolithWarrior4_36f26687:
     # r "But though they favored her as well, they refused."
-    r ""
+    r "But though they favored her as well, they refused."
 
 # TheBlackMonolithWarrior4_67c3becd (line 47280)
 translate ru TheBlackMonolithWarrior4_67c3becd:
     # r "Your Gods were proud and arrogant, and immortality was the privilege of Gods, not mortals."
-    r ""
+    r "Your Gods were proud and arrogant, and immortality was the privilege of Gods, not mortals."
 
 # TheBlackMonolithWarrior4_dec3244e (line 47281)
 translate ru TheBlackMonolithWarrior4_dec3244e:
     # r "Denied, but still desperate, the Empress had men scour the earth for means of extending her life, but found nothing."
-    r ""
+    r "Denied, but still desperate, the Empress had men scour the earth for means of extending her life, but found nothing."
 
 # TheBlackMonolithWarrior4_f2671211 (line 47282)
 translate ru TheBlackMonolithWarrior4_f2671211:
     # r "It was in her darkest hour when a thought came to her."
-    r ""
+    r "It was in her darkest hour when a thought came to her."
 
 # TheBlackMonolithWarrior4_8b1e2fdd (line 47283)
 translate ru TheBlackMonolithWarrior4_8b1e2fdd:
     # r "Perhaps these Gods might have denied her, but what if there were others Gods out there? Some who might look favorably on her request?"
-    r ""
+    r "Perhaps these Gods might have denied her, but what if there were others Gods out there? Some who might look favorably on her request?"
 
 # TheBlackMonolithWarrior4_dc28a8e9 (line 47284)
 translate ru TheBlackMonolithWarrior4_dc28a8e9:
     # r "A skilled magician in her own right, the Empress and her order of mages researched this new path until they finally discovered something."
-    r ""
+    r "A skilled magician in her own right, the Empress and her order of mages researched this new path until they finally discovered something."
 
 # TheBlackMonolithWarrior4_7475403e (line 47285)
 translate ru TheBlackMonolithWarrior4_7475403e:
     # r "A different world, in a place beyond the dimensions of your own, where life lived forever."
-    r ""
+    r "A different world, in a place beyond the dimensions of your own, where life lived forever."
 
 # TheBlackMonolithWarrior4_ff8399a8 (line 47286)
 translate ru TheBlackMonolithWarrior4_ff8399a8:
@@ -776,32 +776,32 @@ translate ru TheBlackMonolithWarrior4_ff8399a8:
 # TheBlackMonolithWarrior4_27b44e71 (line 47287)
 translate ru TheBlackMonolithWarrior4_27b44e71:
     # r "They prepared a ritual which they believed would allow the Empress to reach out to this new world and contact their Gods."
-    r ""
+    r "They prepared a ritual which they believed would allow the Empress to reach out to this new world and contact their Gods."
 
 # TheBlackMonolithWarrior4_6f0b2755 (line 47288)
 translate ru TheBlackMonolithWarrior4_6f0b2755:
     # r "After months of preparation, the ritual was carried out and the other world was summoned into this one."
-    r ""
+    r "After months of preparation, the ritual was carried out and the other world was summoned into this one."
 
 # TheBlackMonolithWarrior4_63af5b4b (line 47289)
 translate ru TheBlackMonolithWarrior4_63af5b4b:
     # r "But the spell did not stay true."
-    r ""
+    r "But the spell did not stay true."
 
 # TheBlackMonolithWarrior4_8b0733ff (line 47290)
 translate ru TheBlackMonolithWarrior4_8b0733ff:
     # r "This other world was summoned, but all of existence covers all of existence."
-    r ""
+    r "This other world was summoned, but all of existence covers all of existence."
 
 # TheBlackMonolithWarrior4_50aa3cce (line 47291)
 translate ru TheBlackMonolithWarrior4_50aa3cce:
     # r "There is no space for two worlds, in one world."
-    r ""
+    r "There is no space for two worlds, in one world."
 
 # TheBlackMonolithWarrior4_eb8ed873 (line 47292)
 translate ru TheBlackMonolithWarrior4_eb8ed873:
     # r "And so, your plane of existence collapsed onto this other world which had been summoned, trapping their existence underneath yours."
-    r ""
+    r "And so, your plane of existence collapsed onto this other world which had been summoned, trapping their existence underneath yours."
 
 # TheBlackMonolithWarrior4_edbe86de (line 47293)
 translate ru TheBlackMonolithWarrior4_edbe86de:
@@ -816,22 +816,22 @@ translate ru TheBlackMonolithWarrior4_8d640bfd:
 # TheBlackMonolithWarrior4_5fada676 (line 47295)
 translate ru TheBlackMonolithWarrior4_5fada676:
     # s "How can it be that I have never heard of any of this?"
-    s ""
+    s "How can it be that I have never heard of any of this?"
 
 # TheBlackMonolithWarrior4_246af3d0 (line 47296)
 translate ru TheBlackMonolithWarrior4_246af3d0:
     # r "When the worlds smashed into each other, countless violent rifts formed across the world as my race poured into your world."
-    r ""
+    r "When the worlds smashed into each other, countless violent rifts formed across the world as my race poured into your world."
 
 # TheBlackMonolithWarrior4_fb46972e (line 47297)
 translate ru TheBlackMonolithWarrior4_fb46972e:
     # r "A great war raged between your race and mine. Between your Gods and mine."
-    r ""
+    r "A great war raged between your race and mine. Between your Gods and mine."
 
 # TheBlackMonolithWarrior4_90673b67 (line 47298)
 translate ru TheBlackMonolithWarrior4_90673b67:
     # r "In the end, we were driven back and the gates were sealed up, trapping us beneath the reality of your world."
-    r ""
+    r "In the end, we were driven back and the gates were sealed up, trapping us beneath the reality of your world."
 
 # TheBlackMonolithWarrior4_f340d7f5 (line 47299)
 translate ru TheBlackMonolithWarrior4_f340d7f5:
@@ -841,12 +841,12 @@ translate ru TheBlackMonolithWarrior4_f340d7f5:
 # TheBlackMonolithWarrior4_a1c9a893 (line 47300)
 translate ru TheBlackMonolithWarrior4_a1c9a893:
     # s "Your world..."
-    s ""
+    s "Your world..."
 
 # TheBlackMonolithWarrior4_ba0c0f6a (line 47301)
 translate ru TheBlackMonolithWarrior4_ba0c0f6a:
     # s "Do you mean that...you are a creature of this other world."
-    s ""
+    s "Do you mean that...you are a creature of this other world."
 
 # TheBlackMonolithWarrior4_6679b285 (line 47302)
 translate ru TheBlackMonolithWarrior4_6679b285:
@@ -856,7 +856,7 @@ translate ru TheBlackMonolithWarrior4_6679b285:
 # TheBlackMonolithWarrior4_68b1549b (line 47303)
 translate ru TheBlackMonolithWarrior4_68b1549b:
     # r "Yes."
-    r ""
+    r "Yes."
 
 # TheBlackMonolithWarrior4_9bbbc9a0 (line 47304)
 translate ru TheBlackMonolithWarrior4_9bbbc9a0:
@@ -866,10 +866,10 @@ translate ru TheBlackMonolithWarrior4_9bbbc9a0:
 # TheBlackMonolithWarrior4_29cec8e3 (line 47305)
 translate ru TheBlackMonolithWarrior4_29cec8e3:
     # r "In my own world, my form was much different from the one you see before you."
-    r ""
+    r "In my own world, my form was much different from the one you see before you."
 
 # TheBlackMonolithWarrior4_7e5d6e1b (line 47306)
 translate ru TheBlackMonolithWarrior4_7e5d6e1b:
     # r "Only be stealing myself across the divide between the worlds, before the gates were sealed, did I manage to remain on this side."
-    r ""
+    r "Only be stealing myself across the divide between the worlds, before the gates were sealed, did I manage to remain on this side."
 

@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: UnionKingdom11
-# Total blocks: 69
+# Total blocks: 66
 
 # UnionKingdom11_6853300a (line 13292)
 translate ru UnionKingdom11_6853300a:
@@ -36,12 +36,12 @@ translate ru UnionKingdom11_34611a0e:
 # UnionKingdom11_dd1f9c61 (line 13298)
 translate ru UnionKingdom11_dd1f9c61:
     # mae "We gather again to settle the second matter of our council."
-    mae ""
+    mae "We gather again to settle the second matter of our council."
 
 # UnionKingdom11_2259716a (line 13299)
 translate ru UnionKingdom11_2259716a:
     # mae "The matter of enshrining the political rights of our subject in a single, unified document for the entire Union."
-    mae ""
+    mae "The matter of enshrining the political rights of our subject in a single, unified document for the entire Union."
 
 # UnionKingdom11_4c0b43dd (line 13300)
 translate ru UnionKingdom11_4c0b43dd:
@@ -51,17 +51,17 @@ translate ru UnionKingdom11_4c0b43dd:
 # UnionKingdom11_697187a7 (line 13301)
 translate ru UnionKingdom11_697187a7:
     # mae "Though the details remain many and varied, with which I will not bore all of you, we must however still settle on the broad points."
-    mae ""
+    mae "Though the details remain many and varied, with which I will not bore all of you, we must however still settle on the broad points."
 
 # UnionKingdom11_4d2cf88f (line 13302)
 translate ru UnionKingdom11_4d2cf88f:
     # mae "In particular..."
-    mae ""
+    mae "In particular..."
 
 # UnionKingdom11_c94515a9 (line 13305)
 translate ru UnionKingdom11_c94515a9:
     # mae "Shall we find in favor of the nobility or the commoners, when formulating this new document?"
-    mae ""
+    mae "Shall we find in favor of the nobility or the commoners, when formulating this new document?"
 
 # UnionKingdom11_f6d42dac (line 13306)
 translate ru UnionKingdom11_f6d42dac:
@@ -71,12 +71,12 @@ translate ru UnionKingdom11_f6d42dac:
 # UnionKingdom11_bd558ec2 (line 13307)
 translate ru UnionKingdom11_bd558ec2:
     # mae "As before, we shall cast and count the votes."
-    mae ""
+    mae "As before, we shall cast and count the votes."
 
 # UnionKingdom11_2743bc93 (line 13308)
 translate ru UnionKingdom11_2743bc93:
     # mae "Please, proceed."
-    mae ""
+    mae "Please, proceed."
 
 # UnionKingdom11_5d6215dc (line 13309)
 translate ru UnionKingdom11_5d6215dc:
@@ -101,12 +101,12 @@ translate ru UnionKingdom11_fbb7c998:
 # UnionKingdom11_8aa30d23 (line 13348)
 translate ru UnionKingdom11_8aa30d23:
     # mae "We have passed our votes, now we must see to the work that is to be done."
-    mae ""
+    mae "We have passed our votes, now we must see to the work that is to be done."
 
 # UnionKingdom11_d5280504 (line 13349)
 translate ru UnionKingdom11_d5280504:
     # mae "We shall reconvene soon enough."
-    mae ""
+    mae "We shall reconvene soon enough."
 
 # UnionKingdom11_4837be2f (line 13350)
 translate ru UnionKingdom11_4837be2f:
@@ -116,7 +116,7 @@ translate ru UnionKingdom11_4837be2f:
 # UnionKingdom11_e757f78e (line 13351)
 translate ru UnionKingdom11_e757f78e:
     # s "Wait!"
-    s ""
+    s "Wait!"
 
 # UnionKingdom11_325a6c43 (line 13352)
 translate ru UnionKingdom11_325a6c43:
@@ -126,7 +126,7 @@ translate ru UnionKingdom11_325a6c43:
 # UnionKingdom11_ac8940f3 (line 13353)
 translate ru UnionKingdom11_ac8940f3:
     # s "You failed to speak to the matter of the next council."
-    s ""
+    s "You failed to speak to the matter of the next council."
 
 # UnionKingdom11_2be3e7ad (line 13354)
 translate ru UnionKingdom11_2be3e7ad:
@@ -136,7 +136,7 @@ translate ru UnionKingdom11_2be3e7ad:
 # UnionKingdom11_167489f4 (line 13355)
 translate ru UnionKingdom11_167489f4:
     # mae "Aah, of course my dear. I am so busy, I sometimes imagine I will forget my own head."
-    mae ""
+    mae "Aah, of course my dear. I am so busy, I sometimes imagine I will forget my own head."
 
 # UnionKingdom11_134d97a9 (line 13356)
 translate ru UnionKingdom11_134d97a9:
@@ -146,7 +146,7 @@ translate ru UnionKingdom11_134d97a9:
 # UnionKingdom11_a72195f0 (line 13357)
 translate ru UnionKingdom11_a72195f0:
     # mae "In the next session, we shall settle the most important matter of all."
-    mae ""
+    mae "In the next session, we shall settle the most important matter of all."
 
 # UnionKingdom11_6860a919 (line 13358)
 translate ru UnionKingdom11_6860a919:
@@ -156,7 +156,7 @@ translate ru UnionKingdom11_6860a919:
 # UnionKingdom11_f2e1a5d0 (line 13359)
 translate ru UnionKingdom11_f2e1a5d0:
     # mae "At the next session, we shall determine who will take on the seat at the head of this Union."
-    mae ""
+    mae "At the next session, we shall determine who will take on the seat at the head of this Union."
 
 # UnionKingdom11_b5447203 (line 13360)
 translate ru UnionKingdom11_b5447203:
@@ -332,19 +332,4 @@ translate ru UnionKingdom11_40d7ef6f:
 translate ru UnionKingdom11_88e1c6e9:
     # "She had to make a decision."
     ""
-
-# UnionKingdom11_393dcd03 (line 13420)
-translate ru UnionKingdom11_393dcd03:
-    # "Claim the role for yourself"
-    "Claim the role for yourself" ""
-
-# UnionKingdom11_f77e1a83 (line 13427)
-translate ru UnionKingdom11_f77e1a83:
-    # "Support another"
-    "Support another" ""
-
-# UnionKingdom11_54216f33 (line 13435)
-translate ru UnionKingdom11_54216f33:
-    # "Propose a council of rulers"
-    "Propose a council of rulers" ""
 

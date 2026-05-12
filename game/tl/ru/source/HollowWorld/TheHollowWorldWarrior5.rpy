@@ -81,7 +81,7 @@ translate ru TheHollowWorldWarrior5_0bbd2b44:
 # TheHollowWorldWarrior5_198f5503 (line 43304)
 translate ru TheHollowWorldWarrior5_198f5503:
     # s "If there isn't any water, I've surely lost my marbles..."
-    s ""
+    s "If there isn't any water, I've surely lost my marbles..."
 
 # TheHollowWorldWarrior5_3cf458b4 (line 43305)
 translate ru TheHollowWorldWarrior5_3cf458b4:
@@ -191,7 +191,7 @@ translate ru TheHollowWorldWarrior5_3642bb12:
 # TheHollowWorldWarrior5_a8002804 (line 43341)
 translate ru TheHollowWorldWarrior5_a8002804:
     # s "Who are you!"
-    s ""
+    s "Who are you!"
 
 # TheHollowWorldWarrior5_d3ab3520 (line 43342)
 translate ru TheHollowWorldWarrior5_d3ab3520:
@@ -211,7 +211,7 @@ translate ru TheHollowWorldWarrior5_f1485530:
 # TheHollowWorldWarrior5_9c338b39 (line 43345)
 translate ru TheHollowWorldWarrior5_9c338b39:
     # s "I didn't come here for riddles."
-    s ""
+    s "I didn't come here for riddles."
 
 # TheHollowWorldWarrior5_c2d9c52a (line 43346)
 translate ru TheHollowWorldWarrior5_c2d9c52a:
@@ -241,7 +241,7 @@ translate ru TheHollowWorldWarrior5_c8856726:
 # TheHollowWorldWarrior5_804b05e6 (line 43351)
 translate ru TheHollowWorldWarrior5_804b05e6:
     # s "Tell me who you are, or I'll make you tell me."
-    s ""
+    s "Tell me who you are, or I'll make you tell me."
 
 # TheHollowWorldWarrior5_9cb4305d (line 43352)
 translate ru TheHollowWorldWarrior5_9cb4305d:
@@ -261,7 +261,7 @@ translate ru TheHollowWorldWarrior5_78eeb514:
 # TheHollowWorldWarrior5_3641b45f (line 43355)
 translate ru TheHollowWorldWarrior5_3641b45f:
     # s "You don't know me."
-    s ""
+    s "You don't know me."
 
 # TheHollowWorldWarrior5_fef8169a (line 43356)
 translate ru TheHollowWorldWarrior5_fef8169a:
@@ -276,7 +276,7 @@ translate ru TheHollowWorldWarrior5_ee6277d5:
 # TheHollowWorldWarrior5_d23beff0 (line 43358)
 translate ru TheHollowWorldWarrior5_d23beff0:
     # s "And who might that be?"
-    s ""
+    s "And who might that be?"
 
 # TheHollowWorldWarrior5_a7395de5 (line 43359)
 translate ru TheHollowWorldWarrior5_a7395de5:
@@ -296,12 +296,12 @@ translate ru TheHollowWorldWarrior5_ac7fe2a1:
 # TheHollowWorldWarrior5_3f514a9f (line 43362)
 translate ru TheHollowWorldWarrior5_3f514a9f:
     # s "I think I've heard enough."
-    s ""
+    s "I think I've heard enough."
 
 # TheHollowWorldWarrior5_1529fae9 (line 43363)
 translate ru TheHollowWorldWarrior5_1529fae9:
     # s "A madman in a cave, rambling about his divine friends."
-    s ""
+    s "A madman in a cave, rambling about his divine friends."
 
 # TheHollowWorldWarrior5_6373804e (line 43364)
 translate ru TheHollowWorldWarrior5_6373804e:
@@ -321,7 +321,7 @@ translate ru TheHollowWorldWarrior5_742121b9:
 # TheHollowWorldWarrior5_5844aeb3 (line 43367)
 translate ru TheHollowWorldWarrior5_5844aeb3:
     # s "Years?"
-    s ""
+    s "Years?"
 
 # TheHollowWorldWarrior5_2104ad52 (line 43368)
 translate ru TheHollowWorldWarrior5_2104ad52:
@@ -336,7 +336,7 @@ translate ru TheHollowWorldWarrior5_c7aacdfc:
 # TheHollowWorldWarrior5_b73c65f9 (line 43370)
 translate ru TheHollowWorldWarrior5_b73c65f9:
     # s "That long, without food?"
-    s ""
+    s "That long, without food?"
 
 # TheHollowWorldWarrior5_493b0180 (line 43371)
 translate ru TheHollowWorldWarrior5_493b0180:
@@ -361,7 +361,7 @@ translate ru TheHollowWorldWarrior5_bbf0c036:
 # TheHollowWorldWarrior5_9cf13fc9 (line 43375)
 translate ru TheHollowWorldWarrior5_9cf13fc9:
     # s "How can you live off just water for two decades?"
-    s ""
+    s "How can you live off just water for two decades?"
 
 # TheHollowWorldWarrior5_ca8f3e23 (line 43376)
 translate ru TheHollowWorldWarrior5_ca8f3e23:
@@ -376,7 +376,7 @@ translate ru TheHollowWorldWarrior5_9c962d5e:
 # TheHollowWorldWarrior5_cb865ee1 (line 43378)
 translate ru TheHollowWorldWarrior5_cb865ee1:
     # s "A gift?"
-    s ""
+    s "A gift?"
 
 # TheHollowWorldWarrior5_7490c719 (line 43379)
 translate ru TheHollowWorldWarrior5_7490c719:
@@ -451,7 +451,7 @@ translate ru TheHollowWorldWarrior5_b56bcdd2:
 # TheHollowWorldWarrior5_ffc917c9 (line 43393)
 translate ru TheHollowWorldWarrior5_ffc917c9:
     # s "You want me to believe the water is magical?"
-    s ""
+    s "You want me to believe the water is magical?"
 
 # TheHollowWorldWarrior5_01f666be (line 43394)
 translate ru TheHollowWorldWarrior5_01f666be:
@@ -471,7 +471,7 @@ translate ru TheHollowWorldWarrior5_4fe34003:
 # TheHollowWorldWarrior5_8c3c719a (line 43397)
 translate ru TheHollowWorldWarrior5_8c3c719a:
     # s "I've had more than my fill of witchcraft and prophecies. If you have something to tell me, spit it out."
-    s ""
+    s "I've had more than my fill of witchcraft and prophecies. If you have something to tell me, spit it out."
 
 # TheHollowWorldWarrior5_95a6ef13 (line 43398)
 translate ru TheHollowWorldWarrior5_95a6ef13:
@@ -486,7 +486,7 @@ translate ru TheHollowWorldWarrior5_b70e05ef:
 # TheHollowWorldWarrior5_9008b160 (line 43400)
 translate ru TheHollowWorldWarrior5_9008b160:
     # s "A warning?"
-    s ""
+    s "A warning?"
 
 # TheHollowWorldWarrior5_2556f818 (line 43401)
 translate ru TheHollowWorldWarrior5_2556f818:
@@ -496,7 +496,7 @@ translate ru TheHollowWorldWarrior5_2556f818:
 # TheHollowWorldWarrior5_9fd53928 (line 43402)
 translate ru TheHollowWorldWarrior5_9fd53928:
     # s "The path?"
-    s ""
+    s "The path?"
 
 # TheHollowWorldWarrior5_07f52c5d (line 43403)
 translate ru TheHollowWorldWarrior5_07f52c5d:
@@ -506,7 +506,7 @@ translate ru TheHollowWorldWarrior5_07f52c5d:
 # TheHollowWorldWarrior5_af86e208 (line 43404)
 translate ru TheHollowWorldWarrior5_af86e208:
     # s "I am on a path, towards a city. How is that not a path?"
-    s ""
+    s "I am on a path, towards a city. How is that not a path?"
 
 # TheHollowWorldWarrior5_ea11975f (line 43405)
 translate ru TheHollowWorldWarrior5_ea11975f:
@@ -521,7 +521,7 @@ translate ru TheHollowWorldWarrior5_12abe701:
 # TheHollowWorldWarrior5_29b854d1 (line 43407)
 translate ru TheHollowWorldWarrior5_29b854d1:
     # s "I...are you talking about breaking the edicts of the gods?"
-    s ""
+    s "I...are you talking about breaking the edicts of the gods?"
 
 # TheHollowWorldWarrior5_25d6272b (line 43408)
 translate ru TheHollowWorldWarrior5_25d6272b:
@@ -551,12 +551,12 @@ translate ru TheHollowWorldWarrior5_31bf5df3:
 # TheHollowWorldWarrior5_e8591b02 (line 43413)
 translate ru TheHollowWorldWarrior5_e8591b02:
     # s "Well, you've wasted a good deal of my time."
-    s ""
+    s "Well, you've wasted a good deal of my time."
 
 # TheHollowWorldWarrior5_4542a4b8 (line 43414)
 translate ru TheHollowWorldWarrior5_4542a4b8:
     # s "I have no idea what any of this means, nor do I have any desire to find out."
-    s ""
+    s "I have no idea what any of this means, nor do I have any desire to find out."
 
 # TheHollowWorldWarrior5_209b262c (line 43415)
 translate ru TheHollowWorldWarrior5_209b262c:
@@ -591,7 +591,7 @@ translate ru TheHollowWorldWarrior5_ae67a4ef:
 # TheHollowWorldWarrior5_cfadba3f (line 43468)
 translate ru TheHollowWorldWarrior5_cfadba3f:
     # s "Witchcraft..."
-    s ""
+    s "Witchcraft..."
 
 # TheHollowWorldWarrior5_e974d178 (line 43469)
 translate ru TheHollowWorldWarrior5_e974d178:

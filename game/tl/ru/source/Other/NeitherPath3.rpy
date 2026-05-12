@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: NeitherPath3
-# Total blocks: 17
+# Total blocks: 12
 
 # NeitherPath3_393caa21 (line 4812)
 translate ru NeitherPath3_393caa21:
@@ -62,29 +62,4 @@ translate ru NeitherPath3_5c3e3869:
 translate ru NeitherPath3_c2f8a303:
     # "She was quickly running out of allies. So who was left, she wondered."
     ""
-
-# NeitherPath3_b31cd34b (line 4826)
-translate ru NeitherPath3_b31cd34b:
-    # "Ask Carolyn for advice"
-    "Ask Carolyn for advice" ""
-
-# NeitherPath3_a3125b00 (line 4892)
-translate ru NeitherPath3_a3125b00:
-    # "Strip down and lay on the bed"
-    "Strip down and lay on the bed" ""
-
-# NeitherPath3_129baa5c (line 5037)
-translate ru NeitherPath3_129baa5c:
-    # "Leave quickly"
-    "Leave quickly" ""
-
-# NeitherPath3_149a3faa (line 5183)
-translate ru NeitherPath3_149a3faa:
-    # "Hold on to Lily"
-    "Hold on to Lily" ""
-
-# NeitherPath3_374cff2b (line 5225)
-translate ru NeitherPath3_374cff2b:
-    # "Put her down in the grass"
-    "Put her down in the grass" ""
 

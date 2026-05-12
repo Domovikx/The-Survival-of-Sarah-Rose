@@ -16,7 +16,7 @@ translate ru OpeningScene_7699298c:
 # OpeningScene_e54c615a (line 336)
 translate ru OpeningScene_e54c615a:
     # ko "Finally, home again."
-    ko ""
+    ko "Finally, home again."
 
 # OpeningScene_3fc20a96 (line 337)
 translate ru OpeningScene_3fc20a96:
@@ -26,7 +26,7 @@ translate ru OpeningScene_3fc20a96:
 # OpeningScene_bf31ba0d (line 343)
 translate ru OpeningScene_bf31ba0d:
     # s "FATHER!"
-    s ""
+    s "FATHER!"
 
 # OpeningScene_638a9241 (line 344)
 translate ru OpeningScene_638a9241:
@@ -36,32 +36,32 @@ translate ru OpeningScene_638a9241:
 # OpeningScene_5d6ae839 (line 355)
 translate ru OpeningScene_5d6ae839:
     # ko "Ooh, Sarah, my back! Please daugher, I'm not as young as I was, and you've grown much too big to just be jumping on me."
-    ko ""
+    ko "Ooh, Sarah, my back! Please daugher, I'm not as young as I was, and you've grown much too big to just be jumping on me."
 
 # OpeningScene_a1d25d68 (line 356)
 translate ru OpeningScene_a1d25d68:
     # s "You were gone for almost five months! If you thought I wasn't going to hug you, you don't know me at all."
-    s ""
+    s "You were gone for almost five months! If you thought I wasn't going to hug you, you don't know me at all."
 
 # OpeningScene_2fc226d5 (line 357)
 translate ru OpeningScene_2fc226d5:
     # ko "You've grown older but I don't think you've grown up yet."
-    ko ""
+    ko "You've grown older but I don't think you've grown up yet."
 
 # OpeningScene_eff2151d (line 364)
 translate ru OpeningScene_eff2151d:
     # s "So mean!"
-    s ""
+    s "So mean!"
 
 # OpeningScene_8cfc2099 (line 371)
 translate ru OpeningScene_8cfc2099:
     # ko "Speaking of growing up, have you seen..."
-    ko ""
+    ko "Speaking of growing up, have you seen..."
 
 # OpeningScene_f1f6c40b (line 373)
 translate ru OpeningScene_f1f6c40b:
     # t "DAD!"
-    t ""
+    t "DAD!"
 
 # OpeningScene_f3af28a0 (line 391)
 translate ru OpeningScene_f3af28a0:
@@ -71,7 +71,7 @@ translate ru OpeningScene_f3af28a0:
 # OpeningScene_5e87353e (line 393)
 translate ru OpeningScene_5e87353e:
     # t "I've missed you so much dad!"
-    t ""
+    t "I've missed you so much dad!"
 
 # OpeningScene_1b99f0db (line 395)
 translate ru OpeningScene_1b99f0db:
@@ -81,12 +81,12 @@ translate ru OpeningScene_1b99f0db:
 # OpeningScene_fb9d7ee6 (line 403)
 translate ru OpeningScene_fb9d7ee6:
     # ko "I missed you too son, but remember: composure. It's not befitting for a future king to be running around like a wild child."
-    ko ""
+    ko "I missed you too son, but remember: composure. It's not befitting for a future king to be running around like a wild child."
 
 # OpeningScene_69050108 (line 404)
 translate ru OpeningScene_69050108:
     # ko "That goes for both of you."
-    ko ""
+    ko "That goes for both of you."
 
 # OpeningScene_9dad7d69 (line 405)
 translate ru OpeningScene_9dad7d69:
@@ -101,20 +101,20 @@ translate ru OpeningScene_96c08895:
 # OpeningScene_891636ff (line 409)
 translate ru OpeningScene_891636ff:
     # ko "Good. Now, where is the royal assistant? I need begin drafting letters immediately."
-    ko ""
+    ko "Good. Now, where is the royal assistant? I need begin drafting letters immediately."
 
 # OpeningScene_8a746ea1 (line 411)
 translate ru OpeningScene_8a746ea1:
     # s "I think I saw him in the library, Father. I'll walk with you."
-    s ""
+    s "I think I saw him in the library, Father. I'll walk with you."
 
 # OpeningScene_6cb3dca6 (line 412)
 translate ru OpeningScene_6cb3dca6:
     # ko "Fine, fine. Thomas, find a servant to carry this luggage to my room. And don't let me catch you doing it yourself again."
-    ko ""
+    ko "Fine, fine. Thomas, find a servant to carry this luggage to my room. And don't let me catch you doing it yourself again."
 
 # OpeningScene_761d6164 (line 413)
 translate ru OpeningScene_761d6164:
     # t "Yes, Father."
-    t ""
+    t "Yes, Father."
 

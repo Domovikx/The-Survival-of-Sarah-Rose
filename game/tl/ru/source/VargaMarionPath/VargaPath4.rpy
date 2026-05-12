@@ -91,7 +91,7 @@ translate ru VargaPath4_7e9951ea:
 # VargaPath4_cca6c40d (line 14887)
 translate ru VargaPath4_cca6c40d:
     # b "Princess Sarah Rose..."
-    b ""
+    b "Princess Sarah Rose..."
 
 # VargaPath4_6cbc66ec (line 14888)
 translate ru VargaPath4_6cbc66ec:
@@ -101,12 +101,12 @@ translate ru VargaPath4_6cbc66ec:
 # VargaPath4_6e04312a (line 14889)
 translate ru VargaPath4_6e04312a:
     # b "By order of the Rosanna Interim Committee, I place you under arrest on suspicion of treason."
-    b ""
+    b "By order of the Rosanna Interim Committee, I place you under arrest on suspicion of treason."
 
 # VargaPath4_90ff73eb (line 14890)
 translate ru VargaPath4_90ff73eb:
     # b "These soldiers will take you back to your room until further order."
-    b ""
+    b "These soldiers will take you back to your room until further order."
 
 # VargaPath4_a29ebef0 (line 14891)
 translate ru VargaPath4_a29ebef0:
@@ -126,7 +126,7 @@ translate ru VargaPath4_5106a65c:
 # VargaPath4_e6dea9f3 (line 14894)
 translate ru VargaPath4_e6dea9f3:
     # s "Where is Thomas?!"
-    s ""
+    s "Where is Thomas?!"
 
 # VargaPath4_ad0015b5 (line 14895)
 translate ru VargaPath4_ad0015b5:
@@ -136,7 +136,7 @@ translate ru VargaPath4_ad0015b5:
 # VargaPath4_b51aee32 (line 14896)
 translate ru VargaPath4_b51aee32:
     # b "That's not your concern, my lady. Please, allow these men to escort you back to your room. I promise no harm will come to you."
-    b ""
+    b "That's not your concern, my lady. Please, allow these men to escort you back to your room. I promise no harm will come to you."
 
 # VargaPath4_486420df (line 14897)
 translate ru VargaPath4_486420df:
@@ -146,7 +146,7 @@ translate ru VargaPath4_486420df:
 # VargaPath4_260193ed (line 14898)
 translate ru VargaPath4_260193ed:
     # v "Whomever so much as moves to put a hand on her, prepare to lose it!"
-    v ""
+    v "Whomever so much as moves to put a hand on her, prepare to lose it!"
 
 # VargaPath4_ff1f0f40 (line 14899)
 translate ru VargaPath4_ff1f0f40:
@@ -156,12 +156,12 @@ translate ru VargaPath4_ff1f0f40:
 # VargaPath4_94f3f146 (line 14900)
 translate ru VargaPath4_94f3f146:
     # b "You want to try your luck at fighting off five of Rosanna's finest soldiers? Fine."
-    b ""
+    b "You want to try your luck at fighting off five of Rosanna's finest soldiers? Fine."
 
 # VargaPath4_64c11e38 (line 14901)
 translate ru VargaPath4_64c11e38:
     # b "Soldiers! Seize the princess, and if this lowborn creature tries to stop you, do what you must."
-    b ""
+    b "Soldiers! Seize the princess, and if this lowborn creature tries to stop you, do what you must."
 
 # VargaPath4_9a851c13 (line 14902)
 translate ru VargaPath4_9a851c13:
@@ -206,7 +206,7 @@ translate ru VargaPath4_1e6d30ec:
 # VargaPath4_b63a37ea (line 14912)
 translate ru VargaPath4_b63a37ea:
     # kr "I'm sorry, old friend."
-    kr ""
+    kr "I'm sorry, old friend."
 
 # VargaPath4_315a3537 (line 14913)
 translate ru VargaPath4_315a3537:
@@ -216,7 +216,7 @@ translate ru VargaPath4_315a3537:
 # VargaPath4_f63f8c0e (line 14914)
 translate ru VargaPath4_f63f8c0e:
     # kr "Your soldiers have been inconvenienced on their way here. These ones happen to be mine."
-    kr ""
+    kr "Your soldiers have been inconvenienced on their way here. These ones happen to be mine."
 
 # VargaPath4_b5709439 (line 14915)
 translate ru VargaPath4_b5709439:
@@ -231,12 +231,12 @@ translate ru VargaPath4_ea9524ce:
 # VargaPath4_7798f3ea (line 14917)
 translate ru VargaPath4_7798f3ea:
     # kr "Princess Sarah, there is an uprising under way. Your enemies are making their move."
-    kr ""
+    kr "Princess Sarah, there is an uprising under way. Your enemies are making their move."
 
 # VargaPath4_0784da10 (line 14918)
 translate ru VargaPath4_0784da10:
     # s "My...enemies?"
-    s ""
+    s "My...enemies?"
 
 # VargaPath4_8c3702dc (line 14919)
 translate ru VargaPath4_8c3702dc:
@@ -246,7 +246,7 @@ translate ru VargaPath4_8c3702dc:
 # VargaPath4_1f29534b (line 14920)
 translate ru VargaPath4_1f29534b:
     # kr "The old houses, under the leadership of Marion Achillea, have risen their banners against you."
-    kr ""
+    kr "The old houses, under the leadership of Marion Achillea, have risen their banners against you."
 
 # VargaPath4_d5807d83 (line 14921)
 translate ru VargaPath4_d5807d83:
@@ -266,22 +266,22 @@ translate ru VargaPath4_fa8daaed:
 # VargaPath4_532f8639 (line 14924)
 translate ru VargaPath4_532f8639:
     # s "What was Barion's part in all this?"
-    s ""
+    s "What was Barion's part in all this?"
 
 # VargaPath4_285d3a7b (line 14925)
 translate ru VargaPath4_285d3a7b:
     # kr "Barion has been loyal to your family and Rosanna for all this life, but he has always seen the value of the noble families and their guiding hand."
-    kr ""
+    kr "Barion has been loyal to your family and Rosanna for all this life, but he has always seen the value of the noble families and their guiding hand."
 
 # VargaPath4_dac9fba6 (line 14926)
 translate ru VargaPath4_dac9fba6:
     # kr "I fear that Marion has managed to seduce him, convincing him that betraying you and your family would be for the greater good of the nation."
-    kr ""
+    kr "I fear that Marion has managed to seduce him, convincing him that betraying you and your family would be for the greater good of the nation."
 
 # VargaPath4_c2150d4a (line 14927)
 translate ru VargaPath4_c2150d4a:
     # kr "Foolishly, he believed Marion."
-    kr ""
+    kr "Foolishly, he believed Marion."
 
 # VargaPath4_ffe615fb (line 14928)
 translate ru VargaPath4_ffe615fb:
@@ -296,22 +296,22 @@ translate ru VargaPath4_24db8af0:
 # VargaPath4_ab488dd2 (line 14930)
 translate ru VargaPath4_ab488dd2:
     # s "When did you first learn this?"
-    s ""
+    s "When did you first learn this?"
 
 # VargaPath4_4af1ecd1 (line 14931)
 translate ru VargaPath4_4af1ecd1:
     # kr "Only earlier this morning."
-    kr ""
+    kr "Only earlier this morning."
 
 # VargaPath4_204d3974 (line 14932)
 translate ru VargaPath4_204d3974:
     # kr "They had kept their plans well hidden, but Barion saw me as a friend, and he confided in me shortly before the meeting began."
-    kr ""
+    kr "They had kept their plans well hidden, but Barion saw me as a friend, and he confided in me shortly before the meeting began."
 
 # VargaPath4_b708635c (line 14933)
 translate ru VargaPath4_b708635c:
     # s "He told you about their plans to betray me and my family?"
-    s ""
+    s "He told you about their plans to betray me and my family?"
 
 # VargaPath4_1ac3c1c8 (line 14934)
 translate ru VargaPath4_1ac3c1c8:
@@ -321,12 +321,12 @@ translate ru VargaPath4_1ac3c1c8:
 # VargaPath4_00920ce8 (line 14935)
 translate ru VargaPath4_00920ce8:
     # kr "Yes. There was only so much time, I moved as quickly as I could to dispatch my own soldiers to intercept his, but..."
-    kr ""
+    kr "Yes. There was only so much time, I moved as quickly as I could to dispatch my own soldiers to intercept his, but..."
 
 # VargaPath4_216d0cd4 (line 14936)
 translate ru VargaPath4_216d0cd4:
     # s "But what?"
-    s ""
+    s "But what?"
 
 # VargaPath4_193094c5 (line 14937)
 translate ru VargaPath4_193094c5:
@@ -336,17 +336,17 @@ translate ru VargaPath4_193094c5:
 # VargaPath4_9e8dd69d (line 14938)
 translate ru VargaPath4_9e8dd69d:
     # kr "I also send out a unit of soldiers towards the hunting woods, but I fear they won't arrive in time."
-    kr ""
+    kr "I also send out a unit of soldiers towards the hunting woods, but I fear they won't arrive in time."
 
 # VargaPath4_b7b0b689 (line 14939)
 translate ru VargaPath4_b7b0b689:
     # s "In time for what?"
-    s ""
+    s "In time for what?"
 
 # VargaPath4_1a6f92f2 (line 14940)
 translate ru VargaPath4_1a6f92f2:
     # kr "In time to prevent them from seizing king Thomas."
-    kr ""
+    kr "In time to prevent them from seizing king Thomas."
 
 # VargaPath4_49de8d6d (line 14941)
 translate ru VargaPath4_49de8d6d:
@@ -356,17 +356,17 @@ translate ru VargaPath4_49de8d6d:
 # VargaPath4_94eb5db7 (line 14942)
 translate ru VargaPath4_94eb5db7:
     # s "Thomas...what...what are they going to do?"
-    s ""
+    s "Thomas...what...what are they going to do?"
 
 # VargaPath4_4ffb02e0 (line 14943)
 translate ru VargaPath4_4ffb02e0:
     # kr "I only know what Barion told me, but from what I gathered it was Marion's plan to lure your brother out from the castle and capture him."
-    kr ""
+    kr "I only know what Barion told me, but from what I gathered it was Marion's plan to lure your brother out from the castle and capture him."
 
 # VargaPath4_a08cf0c4 (line 14944)
 translate ru VargaPath4_a08cf0c4:
     # kr "They believed that with you and your brother under arrest, they could take over the country with little bloodshed."
-    kr ""
+    kr "They believed that with you and your brother under arrest, they could take over the country with little bloodshed."
 
 # VargaPath4_6c609f39 (line 14945)
 translate ru VargaPath4_6c609f39:
@@ -391,12 +391,12 @@ translate ru VargaPath4_302eb614:
 # VargaPath4_ba74afee (line 14949)
 translate ru VargaPath4_ba74afee:
     # s "They have failed, at the very least to seize me."
-    s ""
+    s "They have failed, at the very least to seize me."
 
 # VargaPath4_5437b9b7 (line 14950)
 translate ru VargaPath4_5437b9b7:
     # s "As soon as the soldiers return from the hunting woods, I want to know what happened to Thomas."
-    s ""
+    s "As soon as the soldiers return from the hunting woods, I want to know what happened to Thomas."
 
 # VargaPath4_5e9d1609 (line 14951)
 translate ru VargaPath4_5e9d1609:
@@ -406,7 +406,7 @@ translate ru VargaPath4_5e9d1609:
 # VargaPath4_009e4dc1 (line 14952)
 translate ru VargaPath4_009e4dc1:
     # kr "Of course, Princess Sarah."
-    kr ""
+    kr "Of course, Princess Sarah."
 
 # VargaPath4_fa2ac6bc (line 14953)
 translate ru VargaPath4_fa2ac6bc:
@@ -416,12 +416,12 @@ translate ru VargaPath4_fa2ac6bc:
 # VargaPath4_1f04aaa8 (line 14954)
 translate ru VargaPath4_1f04aaa8:
     # s "Varga, you will immediatly take command of all of Rosanna's armed forces. There isn't a moment to waste."
-    s ""
+    s "Varga, you will immediatly take command of all of Rosanna's armed forces. There isn't a moment to waste."
 
 # VargaPath4_0129dfb7 (line 14955)
 translate ru VargaPath4_0129dfb7:
     # s "Go and gather the commanders, see which are still loyal and which we have lost. We need a complete account of our remaining forces."
-    s ""
+    s "Go and gather the commanders, see which are still loyal and which we have lost. We need a complete account of our remaining forces."
 
 # VargaPath4_19308086 (line 14956)
 translate ru VargaPath4_19308086:
@@ -431,7 +431,7 @@ translate ru VargaPath4_19308086:
 # VargaPath4_4ec067e6 (line 14957)
 translate ru VargaPath4_4ec067e6:
     # v "I'll go right away."
-    v ""
+    v "I'll go right away."
 
 # VargaPath4_97946944 (line 14958)
 translate ru VargaPath4_97946944:
@@ -446,7 +446,7 @@ translate ru VargaPath4_510c5b23:
 # VargaPath4_e0b482d9 (line 14961)
 translate ru VargaPath4_e0b482d9:
     # s "Begin by taking account of all our remaining finances. See if they haven't looted those too."
-    s ""
+    s "Begin by taking account of all our remaining finances. See if they haven't looted those too."
 
 # VargaPath4_03bdebc5 (line 14962)
 translate ru VargaPath4_03bdebc5:
@@ -456,12 +456,12 @@ translate ru VargaPath4_03bdebc5:
 # VargaPath4_028dfe74 (line 14963)
 translate ru VargaPath4_028dfe74:
     # s "Also, give me a list of all the assets of the old houses that are in the capital."
-    s ""
+    s "Also, give me a list of all the assets of the old houses that are in the capital."
 
 # VargaPath4_e6992150 (line 14964)
 translate ru VargaPath4_e6992150:
     # c "Of course, Princess Sarah."
-    c ""
+    c "Of course, Princess Sarah."
 
 # VargaPath4_90ef45c9 (line 14965)
 translate ru VargaPath4_90ef45c9:
@@ -476,12 +476,12 @@ translate ru VargaPath4_79baa087:
 # VargaPath4_253a6580 (line 14968)
 translate ru VargaPath4_253a6580:
     # s "You must tell me everything you know about this plot, every little detail that Barion entrusted you with."
-    s ""
+    s "You must tell me everything you know about this plot, every little detail that Barion entrusted you with."
 
 # VargaPath4_768a950f (line 14969)
 translate ru VargaPath4_768a950f:
     # s "I must get a hold on what is happening, and I must begin to take back control."
-    s ""
+    s "I must get a hold on what is happening, and I must begin to take back control."
 
 # VargaPath4_70bd4293 (line 14970)
 translate ru VargaPath4_70bd4293:
@@ -491,12 +491,12 @@ translate ru VargaPath4_70bd4293:
 # VargaPath4_e4fce7dd (line 14971)
 translate ru VargaPath4_e4fce7dd:
     # kr "Very well, princess Sarah."
-    kr ""
+    kr "Very well, princess Sarah."
 
 # VargaPath4_382bf5df (line 14972)
 translate ru VargaPath4_382bf5df:
     # s "The most important thing is getting Thomas back alive."
-    s ""
+    s "The most important thing is getting Thomas back alive."
 
 # VargaPath4_894b70b3 (line 14973)
 translate ru VargaPath4_894b70b3:
@@ -531,7 +531,7 @@ translate ru VargaPath4_8609e03c:
 # VargaPath4_11b301b2 (line 14979)
 translate ru VargaPath4_11b301b2:
     # s "Perhaps I should have been kinder to him when I said no..."
-    s ""
+    s "Perhaps I should have been kinder to him when I said no..."
 
 # VargaPath4_61765831 (line 14980)
 translate ru VargaPath4_61765831:
@@ -541,22 +541,22 @@ translate ru VargaPath4_61765831:
 # VargaPath4_478d6540 (line 14981)
 translate ru VargaPath4_478d6540:
     # kr "Perhaps, Princess, but don't hold it against yourself."
-    kr ""
+    kr "Perhaps, Princess, but don't hold it against yourself."
 
 # VargaPath4_d193c933 (line 14982)
 translate ru VargaPath4_d193c933:
     # kr "Many men propose, only to be told no. Very few of them go on to lead an insurrection because of it."
-    kr ""
+    kr "Many men propose, only to be told no. Very few of them go on to lead an insurrection because of it."
 
 # VargaPath4_cef16d14 (line 14983)
 translate ru VargaPath4_cef16d14:
     # kr "Whatever Marion is doing, I don't doubt that he must have been carrying these plans around for a long time."
-    kr ""
+    kr "Whatever Marion is doing, I don't doubt that he must have been carrying these plans around for a long time."
 
 # VargaPath4_6c748086 (line 14984)
 translate ru VargaPath4_6c748086:
     # kr "Your refusal is most likely just a simple excuse for him to do what was already in his heart."
-    kr ""
+    kr "Your refusal is most likely just a simple excuse for him to do what was already in his heart."
 
 # VargaPath4_9b268368 (line 14985)
 translate ru VargaPath4_9b268368:
@@ -566,12 +566,12 @@ translate ru VargaPath4_9b268368:
 # VargaPath4_0852a95b (line 14986)
 translate ru VargaPath4_0852a95b:
     # s "Perhaps you're right..."
-    s ""
+    s "Perhaps you're right..."
 
 # VargaPath4_04dd8814 (line 14987)
 translate ru VargaPath4_04dd8814:
     # s "But it doesn't matter. What matters is putting a stop to this insurrection and getting Thomas back."
-    s ""
+    s "But it doesn't matter. What matters is putting a stop to this insurrection and getting Thomas back."
 
 # VargaPath4_6dcfa63f (line 14988)
 translate ru VargaPath4_6dcfa63f:
@@ -586,22 +586,22 @@ translate ru VargaPath4_9a1e4e8d:
 # VargaPath4_25a0f7fb (line 14990)
 translate ru VargaPath4_25a0f7fb:
     # s "What?"
-    s ""
+    s "What?"
 
 # VargaPath4_201663e2 (line 14991)
 translate ru VargaPath4_201663e2:
     # kr "One of my men came back from the hunting woods."
-    kr ""
+    kr "One of my men came back from the hunting woods."
 
 # VargaPath4_bc617e25 (line 14992)
 translate ru VargaPath4_bc617e25:
     # kr "He informs us that they came across Marion's party and gave chase. They tried to pursue them, but his entourage escaped and managed to join up with an Achillea army unit."
-    kr ""
+    kr "He informs us that they came across Marion's party and gave chase. They tried to pursue them, but his entourage escaped and managed to join up with an Achillea army unit."
 
 # VargaPath4_a86189bd (line 14993)
 translate ru VargaPath4_a86189bd:
     # kr "My men, they're only a small scouting party. They were no match for Marion's soldiers, and so they retreated."
-    kr ""
+    kr "My men, they're only a small scouting party. They were no match for Marion's soldiers, and so they retreated."
 
 # VargaPath4_1c65bf4e (line 14994)
 translate ru VargaPath4_1c65bf4e:
@@ -611,7 +611,7 @@ translate ru VargaPath4_1c65bf4e:
 # VargaPath4_712ed399 (line 14995)
 translate ru VargaPath4_712ed399:
     # kr "They have found no trace of Thomas..."
-    kr ""
+    kr "They have found no trace of Thomas..."
 
 # VargaPath4_05bc4dd0 (line 14996)
 translate ru VargaPath4_05bc4dd0:
@@ -621,7 +621,7 @@ translate ru VargaPath4_05bc4dd0:
 # VargaPath4_6e75c631 (line 14997)
 translate ru VargaPath4_6e75c631:
     # s "Is he dead?"
-    s ""
+    s "Is he dead?"
 
 # VargaPath4_e86dc595 (line 14998)
 translate ru VargaPath4_e86dc595:
@@ -631,7 +631,7 @@ translate ru VargaPath4_e86dc595:
 # VargaPath4_333acec7 (line 14999)
 translate ru VargaPath4_333acec7:
     # kr "No sign means no body. Most likely, Marion and his men captured Thomas and brought him along. If that's the case, we must assume he's in their custody."
-    kr ""
+    kr "No sign means no body. Most likely, Marion and his men captured Thomas and brought him along. If that's the case, we must assume he's in their custody."
 
 # VargaPath4_835db5e5 (line 15000)
 translate ru VargaPath4_835db5e5:
@@ -641,12 +641,12 @@ translate ru VargaPath4_835db5e5:
 # VargaPath4_dbfdd669 (line 15001)
 translate ru VargaPath4_dbfdd669:
     # s "That fucking snake!"
-    s ""
+    s "That fucking snake!"
 
 # VargaPath4_eb51ee9c (line 15002)
 translate ru VargaPath4_eb51ee9c:
     # s "If I get my hands on Marion, he'll regret ever being born."
-    s ""
+    s "If I get my hands on Marion, he'll regret ever being born."
 
 # VargaPath4_dc9d142e (line 15003)
 translate ru VargaPath4_dc9d142e:
@@ -656,32 +656,32 @@ translate ru VargaPath4_dc9d142e:
 # VargaPath4_36ff48f6 (line 15004)
 translate ru VargaPath4_36ff48f6:
     # kr "My lady, while I understand your anger in the moment, let me actually live up to my title as advisor."
-    kr ""
+    kr "My lady, while I understand your anger in the moment, let me actually live up to my title as advisor."
 
 # VargaPath4_d9895ea3 (line 15005)
 translate ru VargaPath4_d9895ea3:
     # kr "King Thomas is most likely their hostage."
-    kr ""
+    kr "King Thomas is most likely their hostage."
 
 # VargaPath4_eb4ce62a (line 15006)
 translate ru VargaPath4_eb4ce62a:
     # kr "They will bring him to one of their forts, surrounded by soldiers loyal to their noble houses."
-    kr ""
+    kr "They will bring him to one of their forts, surrounded by soldiers loyal to their noble houses."
 
 # VargaPath4_43229c3b (line 15007)
 translate ru VargaPath4_43229c3b:
     # kr "If we wish to have any chance of bringing him back alive, we will have to act with extreme caution."
-    kr ""
+    kr "If we wish to have any chance of bringing him back alive, we will have to act with extreme caution."
 
 # VargaPath4_cb6751f1 (line 15008)
 translate ru VargaPath4_cb6751f1:
     # s "What's your point?"
-    s ""
+    s "What's your point?"
 
 # VargaPath4_cf0ad9f4 (line 15009)
 translate ru VargaPath4_cf0ad9f4:
     # kr "My point is that force and revenge alone won't be enough to guarantee your brother's safe return. When it comes to it, you might have to be willing to treat your enemies with mercy."
-    kr ""
+    kr "My point is that force and revenge alone won't be enough to guarantee your brother's safe return. When it comes to it, you might have to be willing to treat your enemies with mercy."
 
 # VargaPath4_1d91d199 (line 15010)
 translate ru VargaPath4_1d91d199:
@@ -691,10 +691,10 @@ translate ru VargaPath4_1d91d199:
 # VargaPath4_65151de5 (line 15011)
 translate ru VargaPath4_65151de5:
     # s "Perhaps..."
-    s ""
+    s "Perhaps..."
 
 # VargaPath4_5938798c (line 15012)
 translate ru VargaPath4_5938798c:
     # s "But let's catch this snake before we decide what to do with him."
-    s ""
+    s "But let's catch this snake before we decide what to do with him."
 

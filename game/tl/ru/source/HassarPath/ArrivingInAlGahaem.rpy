@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: ArrivingInAlGahaem
-# Total blocks: 87
+# Total blocks: 85
 
 # ArrivingInAlGahaem_797a06a1 (line 18193)
 translate ru ArrivingInAlGahaem_797a06a1:
@@ -321,12 +321,12 @@ translate ru ArrivingInAlGahaem_c2a05b30:
 # ArrivingInAlGahaem_bb295b2e (line 18371)
 translate ru ArrivingInAlGahaem_bb295b2e:
     # h "Princess Sarah Rose."
-    h ""
+    h "Princess Sarah Rose."
 
 # ArrivingInAlGahaem_f4053fec (line 18372)
 translate ru ArrivingInAlGahaem_f4053fec:
     # h "Tell me, how long did your family rule Rosanna."
-    h ""
+    h "Tell me, how long did your family rule Rosanna."
 
 # ArrivingInAlGahaem_c1c70061 (line 18373)
 translate ru ArrivingInAlGahaem_c1c70061:
@@ -336,7 +336,7 @@ translate ru ArrivingInAlGahaem_c1c70061:
 # ArrivingInAlGahaem_07fa1967 (line 18374)
 translate ru ArrivingInAlGahaem_07fa1967:
     # s "Centuries. Many centuries."
-    s ""
+    s "Centuries. Many centuries."
 
 # ArrivingInAlGahaem_6e95cc10 (line 18375)
 translate ru ArrivingInAlGahaem_6e95cc10:
@@ -346,22 +346,22 @@ translate ru ArrivingInAlGahaem_6e95cc10:
 # ArrivingInAlGahaem_e0c11d6a (line 18376)
 translate ru ArrivingInAlGahaem_e0c11d6a:
     # h "You see, that is the difference between your people and mine."
-    h ""
+    h "You see, that is the difference between your people and mine."
 
 # ArrivingInAlGahaem_39a66c20 (line 18377)
 translate ru ArrivingInAlGahaem_39a66c20:
     # h "You make so much of your titles and traditions. For centuries, the same family, ruling the same spot of dirt. And it actually fills you with pride to say that."
-    h ""
+    h "You make so much of your titles and traditions. For centuries, the same family, ruling the same spot of dirt. And it actually fills you with pride to say that."
 
 # ArrivingInAlGahaem_f1b3a3b3 (line 18379)
 translate ru ArrivingInAlGahaem_f1b3a3b3:
     # h "My clan was nothing before I took the reigns, and should the one after me prove a fool, they will be nothing again."
-    h ""
+    h "My clan was nothing before I took the reigns, and should the one after me prove a fool, they will be nothing again."
 
 # ArrivingInAlGahaem_dfd4c0cf (line 18380)
 translate ru ArrivingInAlGahaem_dfd4c0cf:
     # h "Here, in the Mayani Desert, one rules by virtue of their skill, not by the luck of their birth."
-    h ""
+    h "Here, in the Mayani Desert, one rules by virtue of their skill, not by the luck of their birth."
 
 # ArrivingInAlGahaem_df7d1392 (line 18381)
 translate ru ArrivingInAlGahaem_df7d1392:
@@ -371,12 +371,12 @@ translate ru ArrivingInAlGahaem_df7d1392:
 # ArrivingInAlGahaem_9eca76e9 (line 18382)
 translate ru ArrivingInAlGahaem_9eca76e9:
     # h "But I did not order my men to bring you to me from across the world for the chance to lecture you."
-    h ""
+    h "But I did not order my men to bring you to me from across the world for the chance to lecture you."
 
 # ArrivingInAlGahaem_dac39c54 (line 18383)
 translate ru ArrivingInAlGahaem_dac39c54:
     # h "I brought you here to ask you a question, and it is a simple one."
-    h ""
+    h "I brought you here to ask you a question, and it is a simple one."
 
 # ArrivingInAlGahaem_6832f36e (line 18384)
 translate ru ArrivingInAlGahaem_6832f36e:
@@ -401,7 +401,7 @@ translate ru ArrivingInAlGahaem_7572d9b9:
 # ArrivingInAlGahaem_f217e107 (line 18395)
 translate ru ArrivingInAlGahaem_f217e107:
     # h "Tell me, what do you see when you look at the stone on this ring?"
-    h ""
+    h "Tell me, what do you see when you look at the stone on this ring?"
 
 # ArrivingInAlGahaem_cec5d92d (line 18396)
 translate ru ArrivingInAlGahaem_cec5d92d:
@@ -427,14 +427,4 @@ translate ru ArrivingInAlGahaem_3e6fb22a:
 translate ru ArrivingInAlGahaem_3fc562a0:
     # "Sarah forced her eyes away from the stone, and faced Hassar."
     ""
-
-# ArrivingInAlGahaem_163ff277 (line 18404)
-translate ru ArrivingInAlGahaem_163ff277:
-    # "Speak honestly, the gemstone shines like bright crimson."
-    "Speak honestly, the gemstone shines like bright crimson." ""
-
-# ArrivingInAlGahaem_a6efc2a3 (line 18414)
-translate ru ArrivingInAlGahaem_a6efc2a3:
-    # "Deceive him. Tell him the stone appears black."
-    "Deceive him. Tell him the stone appears black." ""
 

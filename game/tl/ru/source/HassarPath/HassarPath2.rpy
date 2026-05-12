@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: HassarPath2
-# Total blocks: 115
+# Total blocks: 109
 
 # HassarPath2_0acbef56 (line 18784)
 translate ru HassarPath2_0acbef56:
@@ -51,7 +51,7 @@ translate ru HassarPath2_b47aba86:
 # HassarPath2_ae19a8aa (line 18798)
 translate ru HassarPath2_ae19a8aa:
     # h "Hello, Sarah."
-    h ""
+    h "Hello, Sarah."
 
 # HassarPath2_520fc700 (line 18799)
 translate ru HassarPath2_520fc700:
@@ -81,7 +81,7 @@ translate ru HassarPath2_4e36618d:
 # HassarPath2_5db3c701 (line 18804)
 translate ru HassarPath2_5db3c701:
     # s "Greetings, Khan Hassar."
-    s ""
+    s "Greetings, Khan Hassar."
 
 # HassarPath2_4b5ec43c (line 18805)
 translate ru HassarPath2_4b5ec43c:
@@ -96,12 +96,12 @@ translate ru HassarPath2_2a7e410f:
 # HassarPath2_6efb28b1 (line 18807)
 translate ru HassarPath2_6efb28b1:
     # h "You need not be bound by formalities."
-    h ""
+    h "You need not be bound by formalities."
 
 # HassarPath2_7da3fe6e (line 18808)
 translate ru HassarPath2_7da3fe6e:
     # h "You may simply call me Hassar."
-    h ""
+    h "You may simply call me Hassar."
 
 # HassarPath2_80edaa54 (line 18809)
 translate ru HassarPath2_80edaa54:
@@ -116,7 +116,7 @@ translate ru HassarPath2_d97f57fd:
 # HassarPath2_06fde4cd (line 18811)
 translate ru HassarPath2_06fde4cd:
     # s "Neither of us will insist on titles then."
-    s ""
+    s "Neither of us will insist on titles then."
 
 # HassarPath2_bc29428e (line 18812)
 translate ru HassarPath2_bc29428e:
@@ -126,7 +126,7 @@ translate ru HassarPath2_bc29428e:
 # HassarPath2_94fecf76 (line 18813)
 translate ru HassarPath2_94fecf76:
     # h "Yes, just two ordinary people, I suppose."
-    h ""
+    h "Yes, just two ordinary people, I suppose."
 
 # HassarPath2_ad3c7422 (line 18814)
 translate ru HassarPath2_ad3c7422:
@@ -136,12 +136,12 @@ translate ru HassarPath2_ad3c7422:
 # HassarPath2_1c8d9506 (line 18815)
 translate ru HassarPath2_1c8d9506:
     # h "I came by to make certain that you were being well received, but I see my maidens have made you well at home."
-    h ""
+    h "I came by to make certain that you were being well received, but I see my maidens have made you well at home."
 
 # HassarPath2_5e997121 (line 18816)
 translate ru HassarPath2_5e997121:
     # h "Was it Naydeen who brought you here?"
-    h ""
+    h "Was it Naydeen who brought you here?"
 
 # HassarPath2_120860a1 (line 18817)
 translate ru HassarPath2_120860a1:
@@ -156,7 +156,7 @@ translate ru HassarPath2_e2ee3447:
 # HassarPath2_f56cfc3d (line 18819)
 translate ru HassarPath2_f56cfc3d:
     # h "She likes to take the others under her wing. She has been here the longest."
-    h ""
+    h "She likes to take the others under her wing. She has been here the longest."
 
 # HassarPath2_fc91be23 (line 18820)
 translate ru HassarPath2_fc91be23:
@@ -166,7 +166,7 @@ translate ru HassarPath2_fc91be23:
 # HassarPath2_93795b96 (line 18821)
 translate ru HassarPath2_93795b96:
     # s "Why did you bring me here?"
-    s ""
+    s "Why did you bring me here?"
 
 # HassarPath2_10cb5128 (line 18822)
 translate ru HassarPath2_10cb5128:
@@ -176,7 +176,7 @@ translate ru HassarPath2_10cb5128:
 # HassarPath2_f80f00b8 (line 18823)
 translate ru HassarPath2_f80f00b8:
     # h "Is it not to your liking?"
-    h ""
+    h "Is it not to your liking?"
 
 # HassarPath2_a8f77ad4 (line 18824)
 translate ru HassarPath2_a8f77ad4:
@@ -186,7 +186,7 @@ translate ru HassarPath2_a8f77ad4:
 # HassarPath2_d57e77cd (line 18825)
 translate ru HassarPath2_d57e77cd:
     # s "No...the room is fine, but I don't understand..."
-    s ""
+    s "No...the room is fine, but I don't understand..."
 
 # HassarPath2_5dd3790d (line 18826)
 translate ru HassarPath2_5dd3790d:
@@ -196,7 +196,7 @@ translate ru HassarPath2_5dd3790d:
 # HassarPath2_8aa7f85c (line 18827)
 translate ru HassarPath2_8aa7f85c:
     # h "Do you like flowers?"
-    h ""
+    h "Do you like flowers?"
 
 # HassarPath2_fdfe9549 (line 18828)
 translate ru HassarPath2_fdfe9549:
@@ -206,27 +206,17 @@ translate ru HassarPath2_fdfe9549:
 # HassarPath2_12a7edea (line 18829)
 translate ru HassarPath2_12a7edea:
     # s "I...I do..."
-    s ""
+    s "I...I do..."
 
 # HassarPath2_0051a2cc (line 18830)
 translate ru HassarPath2_0051a2cc:
     # h "Please, join me on a walk through the gardens."
-    h ""
+    h "Please, join me on a walk through the gardens."
 
 # HassarPath2_e314bf5a (line 18831)
 translate ru HassarPath2_e314bf5a:
     # "Sarah watched as the Khan extended his massive hand to her."
     ""
-
-# HassarPath2_8e05dce3 (line 18835)
-translate ru HassarPath2_8e05dce3:
-    # "Take the Khan's hand"
-    "Take the Khan's hand" ""
-
-# HassarPath2_59b2cb19 (line 18839)
-translate ru HassarPath2_59b2cb19:
-    # "Get up by yourself"
-    "Get up by yourself" ""
 
 # HassarPath2_71717ce5 (line 18844)
 translate ru HassarPath2_71717ce5:
@@ -251,12 +241,12 @@ translate ru HassarPath2_a8d5f831:
 # HassarPath2_5cdac2fb (line 18855)
 translate ru HassarPath2_5cdac2fb:
     # s "This is..."
-    s ""
+    s "This is..."
 
 # HassarPath2_938aff6b (line 18856)
 translate ru HassarPath2_938aff6b:
     # s "It's incredible."
-    s ""
+    s "It's incredible."
 
 # HassarPath2_d46e84b0 (line 18857)
 translate ru HassarPath2_d46e84b0:
@@ -276,17 +266,17 @@ translate ru HassarPath2_da5838e6:
 # HassarPath2_d03afc4f (line 18860)
 translate ru HassarPath2_d03afc4f:
     # h "This garden took quite a while to construct."
-    h ""
+    h "This garden took quite a while to construct."
 
 # HassarPath2_51bb2070 (line 18861)
 translate ru HassarPath2_51bb2070:
     # h "Many of the plants are native to my desert, but many more are from every corner of the world."
-    h ""
+    h "Many of the plants are native to my desert, but many more are from every corner of the world."
 
 # HassarPath2_278893d3 (line 18862)
 translate ru HassarPath2_278893d3:
     # h "The mechanics of the machinery that allows these various flowers to bloom is quite impressive."
-    h ""
+    h "The mechanics of the machinery that allows these various flowers to bloom is quite impressive."
 
 # HassarPath2_fdfe0c78 (line 18863)
 translate ru HassarPath2_fdfe0c78:
@@ -296,7 +286,7 @@ translate ru HassarPath2_fdfe0c78:
 # HassarPath2_312bb173 (line 18864)
 translate ru HassarPath2_312bb173:
     # h "I can have my engineer bring you a book on the subject, should you find it interesting."
-    h ""
+    h "I can have my engineer bring you a book on the subject, should you find it interesting."
 
 # HassarPath2_51d746c6 (line 18865)
 translate ru HassarPath2_51d746c6:
@@ -326,22 +316,22 @@ translate ru HassarPath2_87ca1ee1:
 # HassarPath2_9a97d405 (line 18875)
 translate ru HassarPath2_9a97d405:
     # h "You asked me why I brought you here, and I shall be truthful with you, Sarah."
-    h ""
+    h "You asked me why I brought you here, and I shall be truthful with you, Sarah."
 
 # HassarPath2_3e45de80 (line 18876)
 translate ru HassarPath2_3e45de80:
     # h "I have ruled over the tribes for many years now, and I gathered many things."
-    h ""
+    h "I have ruled over the tribes for many years now, and I gathered many things."
 
 # HassarPath2_032eca5b (line 18877)
 translate ru HassarPath2_032eca5b:
     # h "Gold, jewels, horses. The wealth of empires has been laid before at my feet."
-    h ""
+    h "Gold, jewels, horses. The wealth of empires has been laid before at my feet."
 
 # HassarPath2_53465288 (line 18878)
 translate ru HassarPath2_53465288:
     # h "But you might be surprised to learn, I am not a man driven by avarice."
-    h ""
+    h "But you might be surprised to learn, I am not a man driven by avarice."
 
 # HassarPath2_0220d6ec (line 18879)
 translate ru HassarPath2_0220d6ec:
@@ -351,17 +341,17 @@ translate ru HassarPath2_0220d6ec:
 # HassarPath2_ab7b4971 (line 18880)
 translate ru HassarPath2_ab7b4971:
     # h "As I have risen, I have found that the world around me has begun to bend to my will."
-    h ""
+    h "As I have risen, I have found that the world around me has begun to bend to my will."
 
 # HassarPath2_d4d92ccb (line 18881)
 translate ru HassarPath2_d4d92ccb:
     # h "Advisors, generals, all nod along and say as I do, hoping to win my favors."
-    h ""
+    h "Advisors, generals, all nod along and say as I do, hoping to win my favors."
 
 # HassarPath2_0a538017 (line 18882)
 translate ru HassarPath2_0a538017:
     # h "Increasingly, I feel alone. Isolated."
-    h ""
+    h "Increasingly, I feel alone. Isolated."
 
 # HassarPath2_10705071 (line 18883)
 translate ru HassarPath2_10705071:
@@ -371,12 +361,12 @@ translate ru HassarPath2_10705071:
 # HassarPath2_2b00287f (line 18884)
 translate ru HassarPath2_2b00287f:
     # h "And so I sought to build a space in the world, small as it is, that I could truly call my own."
-    h ""
+    h "And so I sought to build a space in the world, small as it is, that I could truly call my own."
 
 # HassarPath2_28006cfc (line 18885)
 translate ru HassarPath2_28006cfc:
     # h "A place seperated from the world outside. A place that could remind me of who I am, where I can by myself without fear of showing weakness."
-    h ""
+    h "A place seperated from the world outside. A place that could remind me of who I am, where I can by myself without fear of showing weakness."
 
 # HassarPath2_a0b9680f (line 18886)
 translate ru HassarPath2_a0b9680f:
@@ -386,7 +376,7 @@ translate ru HassarPath2_a0b9680f:
 # HassarPath2_99b0889f (line 18887)
 translate ru HassarPath2_99b0889f:
     # h "My men imagine me near a god, but Sarah, I am as human as any other."
-    h ""
+    h "My men imagine me near a god, but Sarah, I am as human as any other."
 
 # HassarPath2_6c96d768 (line 18888)
 translate ru HassarPath2_6c96d768:
@@ -396,7 +386,7 @@ translate ru HassarPath2_6c96d768:
 # HassarPath2_3990c771 (line 18889)
 translate ru HassarPath2_3990c771:
     # s "So that's what I am then? A prized possession?"
-    s ""
+    s "So that's what I am then? A prized possession?"
 
 # HassarPath2_47d013dc (line 18890)
 translate ru HassarPath2_47d013dc:
@@ -406,12 +396,12 @@ translate ru HassarPath2_47d013dc:
 # HassarPath2_61b0b6e4 (line 18891)
 translate ru HassarPath2_61b0b6e4:
     # h "Quite the opposite. I want for you to be your own person. To exist in this space as freely as you would have outside of it."
-    h ""
+    h "Quite the opposite. I want for you to be your own person. To exist in this space as freely as you would have outside of it."
 
 # HassarPath2_118602a0 (line 18892)
 translate ru HassarPath2_118602a0:
     # h "And in doing so, remind me of myself. Allow me to remember that I am still human, lest I fall over into blind arrogance."
-    h ""
+    h "And in doing so, remind me of myself. Allow me to remember that I am still human, lest I fall over into blind arrogance."
 
 # HassarPath2_3feee23c (line 18893)
 translate ru HassarPath2_3feee23c:
@@ -421,7 +411,7 @@ translate ru HassarPath2_3feee23c:
 # HassarPath2_8047be63 (line 18894)
 translate ru HassarPath2_8047be63:
     # s "The girls...they said you would not force yourself on me."
-    s ""
+    s "The girls...they said you would not force yourself on me."
 
 # HassarPath2_0a8dcb16 (line 18895)
 translate ru HassarPath2_0a8dcb16:
@@ -431,17 +421,17 @@ translate ru HassarPath2_0a8dcb16:
 # HassarPath2_91541efc (line 18896)
 translate ru HassarPath2_91541efc:
     # h "You are my guest, and I will treat you with all kindness that such a station demands."
-    h ""
+    h "You are my guest, and I will treat you with all kindness that such a station demands."
 
 # HassarPath2_ef54dc86 (line 18897)
 translate ru HassarPath2_ef54dc86:
     # h "You will not suffer a single injury. There is no force in this place."
-    h ""
+    h "You will not suffer a single injury. There is no force in this place."
 
 # HassarPath2_0a7dd14e (line 18898)
 translate ru HassarPath2_0a7dd14e:
     # s "Does that mean that I am free to leave?"
-    s ""
+    s "Does that mean that I am free to leave?"
 
 # HassarPath2_ebeb1ecc (line 18899)
 translate ru HassarPath2_ebeb1ecc:
@@ -451,27 +441,17 @@ translate ru HassarPath2_ebeb1ecc:
 # HassarPath2_80109ac9 (line 18900)
 translate ru HassarPath2_80109ac9:
     # h "No, not for now. Perhaps in time, when you have better settled in."
-    h ""
+    h "No, not for now. Perhaps in time, when you have better settled in."
 
 # HassarPath2_b436dae7 (line 18901)
 translate ru HassarPath2_b436dae7:
     # h "The city is dangerous to those who do not know it. But should you want, I can show it to you in time."
-    h ""
+    h "The city is dangerous to those who do not know it. But should you want, I can show it to you in time."
 
 # HassarPath2_37da7a6b (line 18902)
 translate ru HassarPath2_37da7a6b:
     # "Sarah nodded. Perhaps she had pressed her luck too far with him."
     ""
-
-# HassarPath2_b0816deb (line 18906)
-translate ru HassarPath2_b0816deb:
-    # "Ask Hassar about the stone"
-    "Ask Hassar about the stone" ""
-
-# HassarPath2_b6fe2692 (line 18914)
-translate ru HassarPath2_b6fe2692:
-    # "Let the matter rest for now"
-    "Let the matter rest for now" ""
 
 # HassarPath2_ad013023 (line 18918)
 translate ru HassarPath2_ad013023:
@@ -486,7 +466,7 @@ translate ru HassarPath2_2582dfac:
 # HassarPath2_6c9ab3d6 (line 18920)
 translate ru HassarPath2_6c9ab3d6:
     # s "I thought you wouldn't try anything with me."
-    s ""
+    s "I thought you wouldn't try anything with me."
 
 # HassarPath2_a5853157 (line 18921)
 translate ru HassarPath2_a5853157:
@@ -501,17 +481,17 @@ translate ru HassarPath2_d20951ab:
 # HassarPath2_5ce15579 (line 18923)
 translate ru HassarPath2_5ce15579:
     # h "No, but I will not pretend that I am immune to your beauty."
-    h ""
+    h "No, but I will not pretend that I am immune to your beauty."
 
 # HassarPath2_bcadec98 (line 18924)
 translate ru HassarPath2_bcadec98:
     # h "In this place, I fear it is you who excercises more power than I."
-    h ""
+    h "In this place, I fear it is you who excercises more power than I."
 
 # HassarPath2_a8a99a62 (line 18925)
 translate ru HassarPath2_a8a99a62:
     # h "If you will have me, I will not hold back from you, but if you need more time I will respect your wishes."
-    h ""
+    h "If you will have me, I will not hold back from you, but if you need more time I will respect your wishes."
 
 # HassarPath2_81ee4cb5 (line 18926)
 translate ru HassarPath2_81ee4cb5:
@@ -567,14 +547,4 @@ translate ru HassarPath2_6a3e7407:
 translate ru HassarPath2_816014cd:
     # "Better if he should take her by force, than if she would give it to him freely. At least she would keep her pride."
     ""
-
-# HassarPath2_bfc914d6 (line 18942)
-translate ru HassarPath2_bfc914d6:
-    # "Sleep with the Khan"
-    "Sleep with the Khan" ""
-
-# HassarPath2_3818fb39 (line 19085)
-translate ru HassarPath2_3818fb39:
-    # "Reject him"
-    "Reject him" ""
 

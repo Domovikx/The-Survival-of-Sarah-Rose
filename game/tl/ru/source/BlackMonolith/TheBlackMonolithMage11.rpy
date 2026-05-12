@@ -51,7 +51,7 @@ translate ru TheBlackMonolithMage11_21af1ea8:
 # TheBlackMonolithMage11_0815d0df (line 81955)
 translate ru TheBlackMonolithMage11_0815d0df:
     # s "You're leaving?"
-    s ""
+    s "You're leaving?"
 
 # TheBlackMonolithMage11_acccd733 (line 81956)
 translate ru TheBlackMonolithMage11_acccd733:
@@ -71,17 +71,17 @@ translate ru TheBlackMonolithMage11_ad80340b:
 # TheBlackMonolithMage11_34f89501 (line 81959)
 translate ru TheBlackMonolithMage11_34f89501:
     # met "Yeah, the ship I chartered came in a few weeks early."
-    met ""
+    met "Yeah, the ship I chartered came in a few weeks early."
 
 # TheBlackMonolithMage11_bf1868d2 (line 81960)
 translate ru TheBlackMonolithMage11_bf1868d2:
     # met "I know I promised to train you for longer, but the truth is I have my own work to see to."
-    met ""
+    met "I know I promised to train you for longer, but the truth is I have my own work to see to."
 
 # TheBlackMonolithMage11_b91c7168 (line 81961)
 translate ru TheBlackMonolithMage11_b91c7168:
     # met "Now with the ship coming in early, it means I can get where I need to go faster."
-    met ""
+    met "Now with the ship coming in early, it means I can get where I need to go faster."
 
 # TheBlackMonolithMage11_e6dd3882 (line 81962)
 translate ru TheBlackMonolithMage11_e6dd3882:
@@ -91,7 +91,7 @@ translate ru TheBlackMonolithMage11_e6dd3882:
 # TheBlackMonolithMage11_b8b928d9 (line 81963)
 translate ru TheBlackMonolithMage11_b8b928d9:
     # s "And where is that?"
-    s ""
+    s "And where is that?"
 
 # TheBlackMonolithMage11_de1a0065 (line 81964)
 translate ru TheBlackMonolithMage11_de1a0065:
@@ -101,7 +101,7 @@ translate ru TheBlackMonolithMage11_de1a0065:
 # TheBlackMonolithMage11_e4e5468d (line 81965)
 translate ru TheBlackMonolithMage11_e4e5468d:
     # met "Keep asking questions, I like that about you."
-    met ""
+    met "Keep asking questions, I like that about you."
 
 # TheBlackMonolithMage11_5134f696 (line 81966)
 translate ru TheBlackMonolithMage11_5134f696:
@@ -111,7 +111,7 @@ translate ru TheBlackMonolithMage11_5134f696:
 # TheBlackMonolithMage11_e9e8f056 (line 81967)
 translate ru TheBlackMonolithMage11_e9e8f056:
     # met "Tell you what, if I get back we can pick up on the lessons. In between, keep studying and practice. But don't go pushing yourself."
-    met ""
+    met "Tell you what, if I get back we can pick up on the lessons. In between, keep studying and practice. But don't go pushing yourself."
 
 # TheBlackMonolithMage11_f132ac48 (line 81968)
 translate ru TheBlackMonolithMage11_f132ac48:
@@ -131,7 +131,7 @@ translate ru TheBlackMonolithMage11_7b0442c6:
 # TheBlackMonolithMage11_558b6ff4 (line 81971)
 translate ru TheBlackMonolithMage11_558b6ff4:
     # s "Well, I think I'll be sad to see you leave."
-    s ""
+    s "Well, I think I'll be sad to see you leave."
 
 # TheBlackMonolithMage11_39d09d2a (line 81986)
 translate ru TheBlackMonolithMage11_39d09d2a:
@@ -141,7 +141,7 @@ translate ru TheBlackMonolithMage11_39d09d2a:
 # TheBlackMonolithMage11_1e1044f5 (line 81987)
 translate ru TheBlackMonolithMage11_1e1044f5:
     # met "Well, I'm sad to see our encounter cut so short, but I'm sure we will meet again."
-    met ""
+    met "Well, I'm sad to see our encounter cut so short, but I'm sure we will meet again."
 
 # TheBlackMonolithMage11_706e537e (line 81988)
 translate ru TheBlackMonolithMage11_706e537e:
@@ -156,12 +156,12 @@ translate ru TheBlackMonolithMage11_7bdd69e6:
 # TheBlackMonolithMage11_bd5fd584 (line 81990)
 translate ru TheBlackMonolithMage11_bd5fd584:
     # met "Tell me, if you ever see that weird little spirit, can you tell him I said hello?"
-    met ""
+    met "Tell me, if you ever see that weird little spirit, can you tell him I said hello?"
 
 # TheBlackMonolithMage11_74dd4b11 (line 81991)
 translate ru TheBlackMonolithMage11_74dd4b11:
     # s "Razaphel never came to see you?"
-    s ""
+    s "Razaphel never came to see you?"
 
 # TheBlackMonolithMage11_0dd3f445 (line 81992)
 translate ru TheBlackMonolithMage11_0dd3f445:
@@ -171,7 +171,7 @@ translate ru TheBlackMonolithMage11_0dd3f445:
 # TheBlackMonolithMage11_36fc7ed8 (line 81993)
 translate ru TheBlackMonolithMage11_36fc7ed8:
     # met "Who is to speculate on the mind of such a creature. I only worry myself about the questions that can actually be answered."
-    met ""
+    met "Who is to speculate on the mind of such a creature. I only worry myself about the questions that can actually be answered."
 
 # TheBlackMonolithMage11_6ea94cb9 (line 81994)
 translate ru TheBlackMonolithMage11_6ea94cb9:
@@ -186,12 +186,12 @@ translate ru TheBlackMonolithMage11_b3d12050:
 # TheBlackMonolithMage11_8f6bd264 (line 81996)
 translate ru TheBlackMonolithMage11_8f6bd264:
     # met "Aah, I almost forgot!"
-    met ""
+    met "Aah, I almost forgot!"
 
 # TheBlackMonolithMage11_6fceb58d (line 81997)
 translate ru TheBlackMonolithMage11_6fceb58d:
     # met "Honestly, it's like my husband always says, if my head wasn't attached to me I'd lose it."
-    met ""
+    met "Honestly, it's like my husband always says, if my head wasn't attached to me I'd lose it."
 
 # TheBlackMonolithMage11_206b40c6 (line 81998)
 translate ru TheBlackMonolithMage11_206b40c6:
@@ -216,17 +216,17 @@ translate ru TheBlackMonolithMage11_5284f6b5:
 # TheBlackMonolithMage11_dc785c7d (line 82002)
 translate ru TheBlackMonolithMage11_dc785c7d:
     # met "When Xan comes back, can you give him that?"
-    met ""
+    met "When Xan comes back, can you give him that?"
 
 # TheBlackMonolithMage11_f322afdf (line 82003)
 translate ru TheBlackMonolithMage11_f322afdf:
     # met "I had hoped to speak with him directly, but now with the ship and all that...it's too much trouble and I'd rather it didn't wait."
-    met ""
+    met "I had hoped to speak with him directly, but now with the ship and all that...it's too much trouble and I'd rather it didn't wait."
 
 # TheBlackMonolithMage11_4a375160 (line 82004)
 translate ru TheBlackMonolithMage11_4a375160:
     # met "Just hand him that and I guess that will have to do. I've written it all down in there."
-    met ""
+    met "Just hand him that and I guess that will have to do. I've written it all down in there."
 
 # TheBlackMonolithMage11_7affa220 (line 82005)
 translate ru TheBlackMonolithMage11_7affa220:
@@ -236,7 +236,7 @@ translate ru TheBlackMonolithMage11_7affa220:
 # TheBlackMonolithMage11_fcfce448 (line 82006)
 translate ru TheBlackMonolithMage11_fcfce448:
     # s "Is this going to explode if it accidentally opens up?"
-    s ""
+    s "Is this going to explode if it accidentally opens up?"
 
 # TheBlackMonolithMage11_990a205a (line 82007)
 translate ru TheBlackMonolithMage11_990a205a:
@@ -246,7 +246,7 @@ translate ru TheBlackMonolithMage11_990a205a:
 # TheBlackMonolithMage11_77827cac (line 82008)
 translate ru TheBlackMonolithMage11_77827cac:
     # met "It's just a letter Sarah. Not everything is magic."
-    met ""
+    met "It's just a letter Sarah. Not everything is magic."
 
 # TheBlackMonolithMage11_a43dae24 (line 82009)
 translate ru TheBlackMonolithMage11_a43dae24:
@@ -256,7 +256,7 @@ translate ru TheBlackMonolithMage11_a43dae24:
 # TheBlackMonolithMage11_3d54c967 (line 82010)
 translate ru TheBlackMonolithMage11_3d54c967:
     # met "Stay safe, Sarah. Dangerous times out there."
-    met ""
+    met "Stay safe, Sarah. Dangerous times out there."
 
 # TheBlackMonolithMage11_e987bff5 (line 82011)
 translate ru TheBlackMonolithMage11_e987bff5:
@@ -271,7 +271,7 @@ translate ru TheBlackMonolithMage11_4421ee91:
 # TheBlackMonolithMage11_78c5147a (line 82013)
 translate ru TheBlackMonolithMage11_78c5147a:
     # s "You stay safe as well. And you're always welcome here."
-    s ""
+    s "You stay safe as well. And you're always welcome here."
 
 # TheBlackMonolithMage11_2d5161df (line 82014)
 translate ru TheBlackMonolithMage11_2d5161df:

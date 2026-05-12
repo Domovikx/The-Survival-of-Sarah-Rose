@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: ChooseThePath
-# Total blocks: 34
+# Total blocks: 32
 
 # ChooseThePath_fb448996 (line 2331)
 translate ru ChooseThePath_fb448996:
@@ -31,7 +31,7 @@ translate ru ChooseThePath_b9193c64:
 # ChooseThePath_e09eeaf4 (line 2341)
 translate ru ChooseThePath_e09eeaf4:
     # s "Who is in here?"
-    s ""
+    s "Who is in here?"
 
 # ChooseThePath_cbd2aed8 (line 2342)
 translate ru ChooseThePath_cbd2aed8:
@@ -41,7 +41,7 @@ translate ru ChooseThePath_cbd2aed8:
 # ChooseThePath_0dcf3dda (line 2343)
 translate ru ChooseThePath_0dcf3dda:
     # k "Sarah, it's me."
-    k ""
+    k "Sarah, it's me."
 
 # ChooseThePath_4e195500 (line 2344)
 translate ru ChooseThePath_4e195500:
@@ -56,7 +56,7 @@ translate ru ChooseThePath_b5d0598e:
 # ChooseThePath_d1d8a5c2 (line 2365)
 translate ru ChooseThePath_d1d8a5c2:
     # k "Sarah...I need to tell you something, and I know it will be a lot to process, but I need you to listen. Can you promise me that you will?"
-    k ""
+    k "Sarah...I need to tell you something, and I know it will be a lot to process, but I need you to listen. Can you promise me that you will?"
 
 # ChooseThePath_048e5107 (line 2366)
 translate ru ChooseThePath_048e5107:
@@ -66,7 +66,7 @@ translate ru ChooseThePath_048e5107:
 # ChooseThePath_48722e44 (line 2367)
 translate ru ChooseThePath_48722e44:
     # s "Kate...you can tell me anything. What is it?"
-    s ""
+    s "Kate...you can tell me anything. What is it?"
 
 # ChooseThePath_55e7d1bb (line 2368)
 translate ru ChooseThePath_55e7d1bb:
@@ -76,12 +76,12 @@ translate ru ChooseThePath_55e7d1bb:
 # ChooseThePath_2131b42c (line 2369)
 translate ru ChooseThePath_2131b42c:
     # k "I've not been honest with you...not entirely."
-    k ""
+    k "I've not been honest with you...not entirely."
 
 # ChooseThePath_053e4fa7 (line 2370)
 translate ru ChooseThePath_053e4fa7:
     # k "I didn't just come here because your father had passed."
-    k ""
+    k "I didn't just come here because your father had passed."
 
 # ChooseThePath_e10915a6 (line 2371)
 translate ru ChooseThePath_e10915a6:
@@ -91,7 +91,7 @@ translate ru ChooseThePath_e10915a6:
 # ChooseThePath_d84e3205 (line 2372)
 translate ru ChooseThePath_d84e3205:
     # k "Several months ago, I was contacted...by your father."
-    k ""
+    k "Several months ago, I was contacted...by your father."
 
 # ChooseThePath_ce7b4234 (line 2373)
 translate ru ChooseThePath_ce7b4234:
@@ -101,12 +101,12 @@ translate ru ChooseThePath_ce7b4234:
 # ChooseThePath_d76b3b4c (line 2374)
 translate ru ChooseThePath_d76b3b4c:
     # k "He reached out to me in Lethram, across the sea, where I was stationed. He told me that there were dangerous forces out there, seeking to harm you."
-    k ""
+    k "He reached out to me in Lethram, across the sea, where I was stationed. He told me that there were dangerous forces out there, seeking to harm you."
 
 # ChooseThePath_da116f8d (line 2375)
 translate ru ChooseThePath_da116f8d:
     # k "He said that he couldn't tell me much more than that, but he asked me, as your old friend, to come back to the castle, should anything happen to him..."
-    k ""
+    k "He said that he couldn't tell me much more than that, but he asked me, as your old friend, to come back to the castle, should anything happen to him..."
 
 # ChooseThePath_61a0dc5c (line 2376)
 translate ru ChooseThePath_61a0dc5c:
@@ -116,7 +116,7 @@ translate ru ChooseThePath_61a0dc5c:
 # ChooseThePath_37d9cdeb (line 2377)
 translate ru ChooseThePath_37d9cdeb:
     # k "And he asked me to take you to safety...across the sea, to Lethram."
-    k ""
+    k "And he asked me to take you to safety...across the sea, to Lethram."
 
 # ChooseThePath_6b947864 (line 2378)
 translate ru ChooseThePath_6b947864:
@@ -126,12 +126,12 @@ translate ru ChooseThePath_6b947864:
 # ChooseThePath_e2e586c0 (line 2379)
 translate ru ChooseThePath_e2e586c0:
     # k "He paid the mercenary company I work for a small fortune, if we vowed to keep you safe in Lethram."
-    k ""
+    k "He paid the mercenary company I work for a small fortune, if we vowed to keep you safe in Lethram."
 
 # ChooseThePath_90c8a067 (line 2380)
 translate ru ChooseThePath_90c8a067:
     # k "When we heard of your father's death, we knew that we had to come and save you. That's why I'm here, to honor what I promised your father."
-    k ""
+    k "When we heard of your father's death, we knew that we had to come and save you. That's why I'm here, to honor what I promised your father."
 
 # ChooseThePath_cf8f0064 (line 2381)
 translate ru ChooseThePath_cf8f0064:
@@ -141,7 +141,7 @@ translate ru ChooseThePath_cf8f0064:
 # ChooseThePath_9d2a3d7c (line 2382)
 translate ru ChooseThePath_9d2a3d7c:
     # k "Sarah, you need to come with me, to Lethram. It's the only place where we can keep you safe. But, we need to leave tonight, right now. There is a ship waiting for us in the harbor."
-    k ""
+    k "Sarah, you need to come with me, to Lethram. It's the only place where we can keep you safe. But, we need to leave tonight, right now. There is a ship waiting for us in the harbor."
 
 # ChooseThePath_b8d33c30 (line 2383)
 translate ru ChooseThePath_b8d33c30:
@@ -156,20 +156,10 @@ translate ru ChooseThePath_fa7264e4:
 # ChooseThePath_6fd6a6c8 (line 2385)
 translate ru ChooseThePath_6fd6a6c8:
     # k "Sarah, please, come with me."
-    k ""
+    k "Sarah, please, come with me."
 
 # ChooseThePath_e49550e9 (line 2391)
 translate ru ChooseThePath_e49550e9:
     # "Kate reaches out her hand."
     ""
-
-# ChooseThePath_a25875d0 (line 2395)
-translate ru ChooseThePath_a25875d0:
-    # "Reach out and grab Kate's hand."
-    "Reach out and grab Kate's hand." ""
-
-# ChooseThePath_63f99cbd (line 2397)
-translate ru ChooseThePath_63f99cbd:
-    # "No, I can't leave Thomas. This is crazy."
-    "No, I can't leave Thomas. This is crazy." ""
 

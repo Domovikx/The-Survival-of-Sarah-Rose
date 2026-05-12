@@ -41,7 +41,7 @@ translate ru UnderworldPath_7b332484:
 # UnderworldPath_5b64b1c3 (line 60333)
 translate ru UnderworldPath_5b64b1c3:
     # s "I...I can pay...the other way..."
-    s ""
+    s "I...I can pay...the other way..."
 
 # UnderworldPath_7f104400 (line 60334)
 translate ru UnderworldPath_7f104400:
@@ -111,7 +111,7 @@ translate ru UnderworldPath_b9211328:
 # UnderworldPath_b32e76ef (line 60356)
 translate ru UnderworldPath_b32e76ef:
     # s "Won't the guards catch us? Maybe we could go somewhere else."
-    s ""
+    s "Won't the guards catch us? Maybe we could go somewhere else."
 
 # UnderworldPath_c8ec06c6 (line 60357)
 translate ru UnderworldPath_c8ec06c6:
@@ -196,7 +196,7 @@ translate ru UnderworldPath_34af3db0:
 # UnderworldPath_e1cb0d05 (line 60373)
 translate ru UnderworldPath_e1cb0d05:
     # s "Liar!"
-    s ""
+    s "Liar!"
 
 # UnderworldPath_7ad0da5d (line 60374)
 translate ru UnderworldPath_7ad0da5d:
@@ -266,7 +266,7 @@ translate ru UnderworldPath_7b8729ef:
 # UnderworldPath_2639f1fd (line 60394)
 translate ru UnderworldPath_2639f1fd:
     # s "Aaaah!"
-    s ""
+    s "Aaaah!"
 
 # UnderworldPath_204c5da0 (line 60395)
 translate ru UnderworldPath_204c5da0:
@@ -376,7 +376,7 @@ translate ru UnderworldPath_a5ae7282:
 # UnderworldPath_66926ece (line 60416)
 translate ru UnderworldPath_66926ece:
     # s "Ooh god!"
-    s ""
+    s "Ooh god!"
 
 # UnderworldPath_ca659b9f (line 60417)
 translate ru UnderworldPath_ca659b9f:
@@ -456,7 +456,7 @@ translate ru UnderworldPath_53ac4216:
 # UnderworldPath_1ea773e5 (line 60440)
 translate ru UnderworldPath_1ea773e5:
     # s "Got what you came for?"
-    s ""
+    s "Got what you came for?"
 
 # UnderworldPath_3c46510e (line 60441)
 translate ru UnderworldPath_3c46510e:
@@ -501,7 +501,7 @@ translate ru UnderworldPath_3d9e998f:
 # UnderworldPath_a1ac4a7a (line 60453)
 translate ru UnderworldPath_a1ac4a7a:
     # s "You've ruined my dress. If anyone needs to pay someone something, it's you to me."
-    s ""
+    s "You've ruined my dress. If anyone needs to pay someone something, it's you to me."
 
 # UnderworldPath_ca213fa3 (line 60454)
 translate ru UnderworldPath_ca213fa3:
@@ -571,7 +571,7 @@ translate ru UnderworldPath_d5a42e55:
 # UnderworldPath_e89713c1 (line 60471)
 translate ru UnderworldPath_e89713c1:
     # s "It's a regular palace."
-    s ""
+    s "It's a regular palace."
 
 # UnderworldPath_5f033753 (line 60472)
 translate ru UnderworldPath_5f033753:
@@ -586,7 +586,7 @@ translate ru UnderworldPath_a0cbed0f:
 # UnderworldPath_6c809233 (line 60474)
 translate ru UnderworldPath_6c809233:
     # s "A man with thread and needle? I'll survive."
-    s ""
+    s "A man with thread and needle? I'll survive."
 
 # UnderworldPath_ce876a33 (line 60475)
 translate ru UnderworldPath_ce876a33:
@@ -716,7 +716,7 @@ translate ru UnderworldPath_3de746d2:
 # UnderworldPath_6a8c74b5 (line 60500)
 translate ru UnderworldPath_6a8c74b5:
     # s "Well, I paid for the night, didn't I?"
-    s ""
+    s "Well, I paid for the night, didn't I?"
 
 # UnderworldPath_6f070b0b (line 60501)
 translate ru UnderworldPath_6f070b0b:
@@ -726,7 +726,7 @@ translate ru UnderworldPath_6f070b0b:
 # UnderworldPath_822b252a (line 60502)
 translate ru UnderworldPath_822b252a:
     # s "Sarah, by the way. Since you forgot to ask before you stuck it in me."
-    s ""
+    s "Sarah, by the way. Since you forgot to ask before you stuck it in me."
 
 # UnderworldPath_d80a497d (line 60503)
 translate ru UnderworldPath_d80a497d:
@@ -736,12 +736,12 @@ translate ru UnderworldPath_d80a497d:
 # UnderworldPath_f82d2b03 (line 60504)
 translate ru UnderworldPath_f82d2b03:
     # al "Alaric."
-    al ""
+    al "Alaric."
 
 # UnderworldPath_5da50066 (line 60505)
 translate ru UnderworldPath_5da50066:
     # s "So, you live here?"
-    s ""
+    s "So, you live here?"
 
 # UnderworldPath_2566e226 (line 60506)
 translate ru UnderworldPath_2566e226:
@@ -751,12 +751,12 @@ translate ru UnderworldPath_2566e226:
 # UnderworldPath_af620f58 (line 60507)
 translate ru UnderworldPath_af620f58:
     # al "Here and there really, every now and again I'll move, cause the guards will discover my spot and mess it up."
-    al ""
+    al "Here and there really, every now and again I'll move, cause the guards will discover my spot and mess it up."
 
 # UnderworldPath_f00a6c9b (line 60508)
 translate ru UnderworldPath_f00a6c9b:
     # s "How long have you been living out here on the street?"
-    s ""
+    s "How long have you been living out here on the street?"
 
 # UnderworldPath_90f57143 (line 60509)
 translate ru UnderworldPath_90f57143:
@@ -766,17 +766,17 @@ translate ru UnderworldPath_90f57143:
 # UnderworldPath_60155fee (line 60510)
 translate ru UnderworldPath_60155fee:
     # al "Damn. That's gotta be most of my life really, ever since I was tall enough to snatch a wallet off a man's hip."
-    al ""
+    al "Damn. That's gotta be most of my life really, ever since I was tall enough to snatch a wallet off a man's hip."
 
 # UnderworldPath_5318c328 (line 60511)
 translate ru UnderworldPath_5318c328:
     # al "But I don't know exactly, time just kinda goes by. Don't mark the years."
-    al ""
+    al "But I don't know exactly, time just kinda goes by. Don't mark the years."
 
 # UnderworldPath_843a3393 (line 60512)
 translate ru UnderworldPath_843a3393:
     # al "Only time I know a year gone by is when the fish festival comes around."
-    al ""
+    al "Only time I know a year gone by is when the fish festival comes around."
 
 # UnderworldPath_1df10464 (line 60513)
 translate ru UnderworldPath_1df10464:
@@ -786,7 +786,7 @@ translate ru UnderworldPath_1df10464:
 # UnderworldPath_42f582f0 (line 60514)
 translate ru UnderworldPath_42f582f0:
     # s "Distracted?"
-    s ""
+    s "Distracted?"
 
 # UnderworldPath_08f9a1b9 (line 60515)
 translate ru UnderworldPath_08f9a1b9:
@@ -796,17 +796,17 @@ translate ru UnderworldPath_08f9a1b9:
 # UnderworldPath_d9874802 (line 60516)
 translate ru UnderworldPath_d9874802:
     # al "Just tryna figure out what kinda girl you are."
-    al ""
+    al "Just tryna figure out what kinda girl you are."
 
 # UnderworldPath_f8ea1e2f (line 60517)
 translate ru UnderworldPath_f8ea1e2f:
     # s "Nothing special, really."
-    s ""
+    s "Nothing special, really."
 
 # UnderworldPath_97c62740 (line 60518)
 translate ru UnderworldPath_97c62740:
     # al "You got a pair like that, you plenty special."
-    al ""
+    al "You got a pair like that, you plenty special."
 
 # UnderworldPath_4ab1b90f (line 60519)
 translate ru UnderworldPath_4ab1b90f:
@@ -816,22 +816,22 @@ translate ru UnderworldPath_4ab1b90f:
 # UnderworldPath_3fd67da6 (line 60520)
 translate ru UnderworldPath_3fd67da6:
     # al "But you new to this, ain't ya? Livin on the street I mean."
-    al ""
+    al "But you new to this, ain't ya? Livin on the street I mean."
 
 # UnderworldPath_08d0a340 (line 60521)
 translate ru UnderworldPath_08d0a340:
     # s "Is it that obvious?"
-    s ""
+    s "Is it that obvious?"
 
 # UnderworldPath_e29cb22e (line 60522)
 translate ru UnderworldPath_e29cb22e:
     # al "You dressed like a rich girl and you don't know which streets to keep on or keep off."
-    al ""
+    al "You dressed like a rich girl and you don't know which streets to keep on or keep off."
 
 # UnderworldPath_7774ad7a (line 60523)
 translate ru UnderworldPath_7774ad7a:
     # al "Act like a rich girl too. Not when I was fucking you, obviously, but before I mean."
-    al ""
+    al "Act like a rich girl too. Not when I was fucking you, obviously, but before I mean."
 
 # UnderworldPath_a782f876 (line 60524)
 translate ru UnderworldPath_a782f876:
@@ -841,12 +841,12 @@ translate ru UnderworldPath_a782f876:
 # UnderworldPath_84c8df38 (line 60525)
 translate ru UnderworldPath_84c8df38:
     # s "Maybe I was. Would that matter to you?"
-    s ""
+    s "Maybe I was. Would that matter to you?"
 
 # UnderworldPath_dfa2756a (line 60526)
 translate ru UnderworldPath_dfa2756a:
     # al "You got any money now?"
-    al ""
+    al "You got any money now?"
 
 # UnderworldPath_eaaab43a (line 60527)
 translate ru UnderworldPath_eaaab43a:
@@ -856,12 +856,12 @@ translate ru UnderworldPath_eaaab43a:
 # UnderworldPath_78fb8406 (line 60528)
 translate ru UnderworldPath_78fb8406:
     # al "Then you ain't no different to me."
-    al ""
+    al "Then you ain't no different to me."
 
 # UnderworldPath_02960974 (line 60529)
 translate ru UnderworldPath_02960974:
     # al "Other than that I never fucked a proper girl before. So that's nice."
-    al ""
+    al "Other than that I never fucked a proper girl before. So that's nice."
 
 # UnderworldPath_31c08b89 (line 60530)
 translate ru UnderworldPath_31c08b89:
@@ -871,7 +871,7 @@ translate ru UnderworldPath_31c08b89:
 # UnderworldPath_123c1ebb (line 60531)
 translate ru UnderworldPath_123c1ebb:
     # s "Yeah? Notice anything different?"
-    s ""
+    s "Yeah? Notice anything different?"
 
 # UnderworldPath_3239f4f7 (line 60532)
 translate ru UnderworldPath_3239f4f7:
@@ -881,7 +881,7 @@ translate ru UnderworldPath_3239f4f7:
 # UnderworldPath_7e9187ac (line 60533)
 translate ru UnderworldPath_7e9187ac:
     # al "The bad ones don't moan so loud."
-    al ""
+    al "The bad ones don't moan so loud."
 
 # UnderworldPath_349f92d5 (line 60534)
 translate ru UnderworldPath_349f92d5:
@@ -896,7 +896,7 @@ translate ru UnderworldPath_42de3ce3:
 # UnderworldPath_aa4578ee (line 60536)
 translate ru UnderworldPath_aa4578ee:
     # s "Well, guess I'll go and find a spot somewhere in the alley to sleep."
-    s ""
+    s "Well, guess I'll go and find a spot somewhere in the alley to sleep."
 
 # UnderworldPath_17ee65f3 (line 60537)
 translate ru UnderworldPath_17ee65f3:
@@ -906,7 +906,7 @@ translate ru UnderworldPath_17ee65f3:
 # UnderworldPath_63a6ebb1 (line 60538)
 translate ru UnderworldPath_63a6ebb1:
     # al "These alleys and streets are dangerous. You'd be better off stayin with me."
-    al ""
+    al "These alleys and streets are dangerous. You'd be better off stayin with me."
 
 # UnderworldPath_0b7061af (line 60539)
 translate ru UnderworldPath_0b7061af:
@@ -921,7 +921,7 @@ translate ru UnderworldPath_ff68839a:
 # UnderworldPath_8764c8e8 (line 60541)
 translate ru UnderworldPath_8764c8e8:
     # s "Aah, yes. Dangerous. Wouldn't want to run into any man that might try to take advantage of me."
-    s ""
+    s "Aah, yes. Dangerous. Wouldn't want to run into any man that might try to take advantage of me."
 
 # UnderworldPath_46193f52 (line 60542)
 translate ru UnderworldPath_46193f52:
@@ -941,7 +941,7 @@ translate ru UnderworldPath_56c9829a:
 # UnderworldPath_8d52eda7 (line 60545)
 translate ru UnderworldPath_8d52eda7:
     # al "Gods you're hot."
-    al ""
+    al "Gods you're hot."
 
 # UnderworldPath_74e1b901 (line 60546)
 translate ru UnderworldPath_74e1b901:
@@ -951,10 +951,10 @@ translate ru UnderworldPath_74e1b901:
 # UnderworldPath_312d91e8 (line 60547)
 translate ru UnderworldPath_312d91e8:
     # s "Don't try anything."
-    s ""
+    s "Don't try anything."
 
 # UnderworldPath_d7c865e5 (line 60548)
 translate ru UnderworldPath_d7c865e5:
     # s "I already paid for the night."
-    s ""
+    s "I already paid for the night."
 

@@ -16,12 +16,12 @@ translate ru UnmarriedGallowCreek_2c6728cc:
 # UnmarriedGallowCreek_31284064 (line 68556)
 translate ru UnmarriedGallowCreek_31284064:
     # mar "But..."
-    mar ""
+    mar "But..."
 
 # UnmarriedGallowCreek_e61fc3e4 (line 68557)
 translate ru UnmarriedGallowCreek_e61fc3e4:
     # mar "Why..."
-    mar ""
+    mar "Why..."
 
 # UnmarriedGallowCreek_3e98f4f6 (line 68558)
 translate ru UnmarriedGallowCreek_3e98f4f6:
@@ -31,17 +31,17 @@ translate ru UnmarriedGallowCreek_3e98f4f6:
 # UnmarriedGallowCreek_7e1deed9 (line 68559)
 translate ru UnmarriedGallowCreek_7e1deed9:
     # s "It's not you, Marius...really."
-    s ""
+    s "It's not you, Marius...really."
 
 # UnmarriedGallowCreek_0a1e6f5c (line 68560)
 translate ru UnmarriedGallowCreek_0a1e6f5c:
     # s "You are kind, and handsome and...anything a girl could wish for in a husband."
-    s ""
+    s "You are kind, and handsome and...anything a girl could wish for in a husband."
 
 # UnmarriedGallowCreek_b1e46c8b (line 68561)
 translate ru UnmarriedGallowCreek_b1e46c8b:
     # mar "So what then?!"
-    mar ""
+    mar "So what then?!"
 
 # UnmarriedGallowCreek_eaacbeac (line 68562)
 translate ru UnmarriedGallowCreek_eaacbeac:
@@ -51,7 +51,7 @@ translate ru UnmarriedGallowCreek_eaacbeac:
 # UnmarriedGallowCreek_543c9ea5 (line 68563)
 translate ru UnmarriedGallowCreek_543c9ea5:
     # mar "Why reject me?"
-    mar ""
+    mar "Why reject me?"
 
 # UnmarriedGallowCreek_6d16f303 (line 68564)
 translate ru UnmarriedGallowCreek_6d16f303:
@@ -61,17 +61,17 @@ translate ru UnmarriedGallowCreek_6d16f303:
 # UnmarriedGallowCreek_15a72d63 (line 68565)
 translate ru UnmarriedGallowCreek_15a72d63:
     # s "It is as I said, Marius...the problem isn't you. It's me."
-    s ""
+    s "It is as I said, Marius...the problem isn't you. It's me."
 
 # UnmarriedGallowCreek_460b52f7 (line 68566)
 translate ru UnmarriedGallowCreek_460b52f7:
     # s "I cannot bring myself to marry...not now...not for a long time."
-    s ""
+    s "I cannot bring myself to marry...not now...not for a long time."
 
 # UnmarriedGallowCreek_f419efa9 (line 68567)
 translate ru UnmarriedGallowCreek_f419efa9:
     # s "The life I had before I came here...it is so much...I have barely begun to grieve it."
-    s ""
+    s "The life I had before I came here...it is so much...I have barely begun to grieve it."
 
 # UnmarriedGallowCreek_82d767f2 (line 68568)
 translate ru UnmarriedGallowCreek_82d767f2:
@@ -81,7 +81,7 @@ translate ru UnmarriedGallowCreek_82d767f2:
 # UnmarriedGallowCreek_6f0b109d (line 68569)
 translate ru UnmarriedGallowCreek_6f0b109d:
     # mar "But I could help you!"
-    mar ""
+    mar "But I could help you!"
 
 # UnmarriedGallowCreek_2f54fe12 (line 68570)
 translate ru UnmarriedGallowCreek_2f54fe12:
@@ -91,7 +91,7 @@ translate ru UnmarriedGallowCreek_2f54fe12:
 # UnmarriedGallowCreek_bc7bb6a6 (line 68571)
 translate ru UnmarriedGallowCreek_bc7bb6a6:
     # s "No...I'm sorry, but I will not marry you."
-    s ""
+    s "No...I'm sorry, but I will not marry you."
 
 # UnmarriedGallowCreek_2a650684 (line 68572)
 translate ru UnmarriedGallowCreek_2a650684:
@@ -106,12 +106,12 @@ translate ru UnmarriedGallowCreek_d526f5e9:
 # UnmarriedGallowCreek_dac17944 (line 68574)
 translate ru UnmarriedGallowCreek_dac17944:
     # mar "But...you...and..."
-    mar ""
+    mar "But...you...and..."
 
 # UnmarriedGallowCreek_ae3ef081 (line 68575)
 translate ru UnmarriedGallowCreek_ae3ef081:
     # mar "Gods! Again!"
-    mar ""
+    mar "Gods! Again!"
 
 # UnmarriedGallowCreek_ac586e6f (line 68576)
 translate ru UnmarriedGallowCreek_ac586e6f:
@@ -121,7 +121,7 @@ translate ru UnmarriedGallowCreek_ac586e6f:
 # UnmarriedGallowCreek_b74b47b0 (line 68577)
 translate ru UnmarriedGallowCreek_b74b47b0:
     # mar "Without you...I'll..."
-    mar ""
+    mar "Without you...I'll..."
 
 # UnmarriedGallowCreek_49d6ce7d (line 68578)
 translate ru UnmarriedGallowCreek_49d6ce7d:
@@ -136,7 +136,7 @@ translate ru UnmarriedGallowCreek_9e9f1df5:
 # UnmarriedGallowCreek_00b95217 (line 68580)
 translate ru UnmarriedGallowCreek_00b95217:
     # s "Listen, Marius..."
-    s ""
+    s "Listen, Marius..."
 
 # UnmarriedGallowCreek_c3752231 (line 68581)
 translate ru UnmarriedGallowCreek_c3752231:
@@ -146,22 +146,22 @@ translate ru UnmarriedGallowCreek_c3752231:
 # UnmarriedGallowCreek_1a8928b3 (line 68582)
 translate ru UnmarriedGallowCreek_1a8928b3:
     # s "Everything I said about you is true...any girl will be lucky to call you their husband."
-    s ""
+    s "Everything I said about you is true...any girl will be lucky to call you their husband."
 
 # UnmarriedGallowCreek_9f51e102 (line 68583)
 translate ru UnmarriedGallowCreek_9f51e102:
     # mar "Yeah? Where are they then!?"
-    mar ""
+    mar "Yeah? Where are they then!?"
 
 # UnmarriedGallowCreek_4ad91b0e (line 68584)
 translate ru UnmarriedGallowCreek_4ad91b0e:
     # mar "This blasted town is scarce any unwed woman, and certainly none that will take a chance on a man of my prospects!"
-    mar ""
+    mar "This blasted town is scarce any unwed woman, and certainly none that will take a chance on a man of my prospects!"
 
 # UnmarriedGallowCreek_81bc6964 (line 68585)
 translate ru UnmarriedGallowCreek_81bc6964:
     # mar "Curses!"
-    mar ""
+    mar "Curses!"
 
 # UnmarriedGallowCreek_a3d802bd (line 68586)
 translate ru UnmarriedGallowCreek_a3d802bd:
@@ -171,27 +171,27 @@ translate ru UnmarriedGallowCreek_a3d802bd:
 # UnmarriedGallowCreek_92c744a9 (line 68587)
 translate ru UnmarriedGallowCreek_92c744a9:
     # s "Marius...I..."
-    s ""
+    s "Marius...I..."
 
 # UnmarriedGallowCreek_0f56cd82 (line 68588)
 translate ru UnmarriedGallowCreek_0f56cd82:
     # mar "Enough! I don't want to hear any of your excuses."
-    mar ""
+    mar "Enough! I don't want to hear any of your excuses."
 
 # UnmarriedGallowCreek_311766f2 (line 68589)
 translate ru UnmarriedGallowCreek_311766f2:
     # mar "Clearly, you have no interest in me."
-    mar ""
+    mar "Clearly, you have no interest in me."
 
 # UnmarriedGallowCreek_ff465904 (line 68590)
 translate ru UnmarriedGallowCreek_ff465904:
     # s "Marius, I didn't-"
-    s ""
+    s "Marius, I didn't-"
 
 # UnmarriedGallowCreek_2a2a70c0 (line 68591)
 translate ru UnmarriedGallowCreek_2a2a70c0:
     # mar "No, we can be honest now. No more pretending."
-    mar ""
+    mar "No, we can be honest now. No more pretending."
 
 # UnmarriedGallowCreek_26f53029 (line 68592)
 translate ru UnmarriedGallowCreek_26f53029:
@@ -201,7 +201,7 @@ translate ru UnmarriedGallowCreek_26f53029:
 # UnmarriedGallowCreek_c29f026b (line 68593)
 translate ru UnmarriedGallowCreek_c29f026b:
     # mar "I think...you can stay the night, but after that it is probably best that you take leave."
-    mar ""
+    mar "I think...you can stay the night, but after that it is probably best that you take leave."
 
 # UnmarriedGallowCreek_8d3f6679 (line 68594)
 translate ru UnmarriedGallowCreek_8d3f6679:
@@ -216,22 +216,22 @@ translate ru UnmarriedGallowCreek_0bd9b7f0:
 # UnmarriedGallowCreek_f498889c (line 68596)
 translate ru UnmarriedGallowCreek_f498889c:
     # s "Marius...I..."
-    s ""
+    s "Marius...I..."
 
 # UnmarriedGallowCreek_ea553f03 (line 68597)
 translate ru UnmarriedGallowCreek_ea553f03:
     # mar "What?"
-    mar ""
+    mar "What?"
 
 # UnmarriedGallowCreek_d786144a (line 68598)
 translate ru UnmarriedGallowCreek_d786144a:
     # mar "Your presence in our house has been a distraction. It is time my father and I get back to our regular lives."
-    mar ""
+    mar "Your presence in our house has been a distraction. It is time my father and I get back to our regular lives."
 
 # UnmarriedGallowCreek_10607448 (line 68599)
 translate ru UnmarriedGallowCreek_10607448:
     # mar "And with the harvest season soon ending, we won't need your housekeeping services any more."
-    mar ""
+    mar "And with the harvest season soon ending, we won't need your housekeeping services any more."
 
 # UnmarriedGallowCreek_d8a00b3e (line 68600)
 translate ru UnmarriedGallowCreek_d8a00b3e:
@@ -266,17 +266,17 @@ translate ru UnmarriedGallowCreek_849a321f:
 # UnmarriedGallowCreek_207be2a5 (line 68606)
 translate ru UnmarriedGallowCreek_207be2a5:
     # s "Very well."
-    s ""
+    s "Very well."
 
 # UnmarriedGallowCreek_0f608247 (line 68607)
 translate ru UnmarriedGallowCreek_0f608247:
     # s "By next morning, I will take leave of your house."
-    s ""
+    s "By next morning, I will take leave of your house."
 
 # UnmarriedGallowCreek_0584e123 (line 68608)
 translate ru UnmarriedGallowCreek_0584e123:
     # mar "Good."
-    mar ""
+    mar "Good."
 
 # UnmarriedGallowCreek_252b6dcd (line 68609)
 translate ru UnmarriedGallowCreek_252b6dcd:
@@ -431,7 +431,7 @@ translate ru UnmarriedGallowCreek_2edba89c:
 # UnmarriedGallowCreek_b2e8f8fa (line 68644)
 translate ru UnmarriedGallowCreek_b2e8f8fa:
     # s "They always say that, don't they?"
-    s ""
+    s "They always say that, don't they?"
 
 # UnmarriedGallowCreek_367128d4 (line 68645)
 translate ru UnmarriedGallowCreek_367128d4:
@@ -446,7 +446,7 @@ translate ru UnmarriedGallowCreek_a7e21cd4:
 # UnmarriedGallowCreek_966b75f9 (line 68647)
 translate ru UnmarriedGallowCreek_966b75f9:
     # s "You calling me old?"
-    s ""
+    s "You calling me old?"
 
 # UnmarriedGallowCreek_2384d834 (line 68648)
 translate ru UnmarriedGallowCreek_2384d834:
@@ -461,7 +461,7 @@ translate ru UnmarriedGallowCreek_3ed0c7dd:
 # UnmarriedGallowCreek_d9079e15 (line 68650)
 translate ru UnmarriedGallowCreek_d9079e15:
     # s "Don't worry about it. No offense taken."
-    s ""
+    s "Don't worry about it. No offense taken."
 
 # UnmarriedGallowCreek_a215a3dc (line 68651)
 translate ru UnmarriedGallowCreek_a215a3dc:
@@ -486,17 +486,17 @@ translate ru UnmarriedGallowCreek_451a1f0f:
 # UnmarriedGallowCreek_7cb12df2 (line 68655)
 translate ru UnmarriedGallowCreek_7cb12df2:
     # s "Me?"
-    s ""
+    s "Me?"
 
 # UnmarriedGallowCreek_62041eb5 (line 68656)
 translate ru UnmarriedGallowCreek_62041eb5:
     # s "Oh, I used to be a princess."
-    s ""
+    s "Oh, I used to be a princess."
 
 # UnmarriedGallowCreek_526c751b (line 68657)
 translate ru UnmarriedGallowCreek_526c751b:
     # s "But it's been a long road since."
-    s ""
+    s "But it's been a long road since."
 
 # UnmarriedGallowCreek_0fd89ac5 (line 68659)
 translate ru UnmarriedGallowCreek_0fd89ac5:

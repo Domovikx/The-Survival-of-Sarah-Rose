@@ -6,12 +6,12 @@
 # TheHollowWorldMage1_cee60650 (line 73105)
 translate ru TheHollowWorldMage1_cee60650:
     # r "Seize my flask from the circle and move it behind the door."
-    r ""
+    r "Seize my flask from the circle and move it behind the door."
 
 # TheHollowWorldMage1_3b385f73 (line 73106)
 translate ru TheHollowWorldMage1_3b385f73:
     # r "Near the cupboards, you will find another flask much the same as mine own. Replace mine in the circle with the fake flask."
-    r ""
+    r "Near the cupboards, you will find another flask much the same as mine own. Replace mine in the circle with the fake flask."
 
 # TheHollowWorldMage1_b5ae19f8 (line 73107)
 translate ru TheHollowWorldMage1_b5ae19f8:
@@ -26,42 +26,42 @@ translate ru TheHollowWorldMage1_4338ca8b:
 # TheHollowWorldMage1_b1f9131a (line 73116)
 translate ru TheHollowWorldMage1_b1f9131a:
     # s "Now what?"
-    s ""
+    s "Now what?"
 
 # TheHollowWorldMage1_f75d34e1 (line 73117)
 translate ru TheHollowWorldMage1_f75d34e1:
     # r "This is most crucial...where is the fate stone?"
-    r ""
+    r "This is most crucial...where is the fate stone?"
 
 # TheHollowWorldMage1_5dff658a (line 73118)
 translate ru TheHollowWorldMage1_5dff658a:
     # s "On his desk in the study."
-    s ""
+    s "On his desk in the study."
 
 # TheHollowWorldMage1_3bd033c6 (line 73119)
 translate ru TheHollowWorldMage1_3bd033c6:
     # r "Run from here towards the study."
-    r ""
+    r "Run from here towards the study."
 
 # TheHollowWorldMage1_26999f4f (line 73120)
 translate ru TheHollowWorldMage1_26999f4f:
     # r "Do not stop, do not pause, do not speak. Seize the stone and immediately run back here."
-    r ""
+    r "Do not stop, do not pause, do not speak. Seize the stone and immediately run back here."
 
 # TheHollowWorldMage1_355c7c7b (line 73121)
 translate ru TheHollowWorldMage1_355c7c7b:
     # r "The mage will follow you, this I can promise you."
-    r ""
+    r "The mage will follow you, this I can promise you."
 
 # TheHollowWorldMage1_1b69f4cd (line 73122)
 translate ru TheHollowWorldMage1_1b69f4cd:
     # r "Once he steps into the room, he will be trapped between us."
-    r ""
+    r "Once he steps into the room, he will be trapped between us."
 
 # TheHollowWorldMage1_1351bc3d (line 73123)
 translate ru TheHollowWorldMage1_1351bc3d:
     # r "Together, our power might just be enough to hold him, but I warn you Sarah, he is most powerful. Do not treat him lightly."
-    r ""
+    r "Together, our power might just be enough to hold him, but I warn you Sarah, he is most powerful. Do not treat him lightly."
 
 # TheHollowWorldMage1_fd3979c2 (line 73124)
 translate ru TheHollowWorldMage1_fd3979c2:
@@ -71,12 +71,12 @@ translate ru TheHollowWorldMage1_fd3979c2:
 # TheHollowWorldMage1_d4040a19 (line 73125)
 translate ru TheHollowWorldMage1_d4040a19:
     # s "When do we do it?"
-    s ""
+    s "When do we do it?"
 
 # TheHollowWorldMage1_f701b3a1 (line 73126)
 translate ru TheHollowWorldMage1_f701b3a1:
     # r "Now."
-    r ""
+    r "Now."
 
 # TheHollowWorldMage1_5dbb64fc (line 73127)
 translate ru TheHollowWorldMage1_5dbb64fc:
@@ -91,22 +91,22 @@ translate ru TheHollowWorldMage1_7c3ef73d:
 # TheHollowWorldMage1_d60ca77f (line 73129)
 translate ru TheHollowWorldMage1_d60ca77f:
     # s "Why not wait, we can plan more, or..."
-    s ""
+    s "Why not wait, we can plan more, or..."
 
 # TheHollowWorldMage1_d88bce81 (line 73130)
 translate ru TheHollowWorldMage1_d88bce81:
     # r "Every moment we risk the mage finding out."
-    r ""
+    r "Every moment we risk the mage finding out."
 
 # TheHollowWorldMage1_db9ff628 (line 73131)
 translate ru TheHollowWorldMage1_db9ff628:
     # r "Now is the moment. We have laid our trap, we know where the fate stone is, and the mage might still be exhausted from his mission."
-    r ""
+    r "Now is the moment. We have laid our trap, we know where the fate stone is, and the mage might still be exhausted from his mission."
 
 # TheHollowWorldMage1_f30d7bc0 (line 73132)
 translate ru TheHollowWorldMage1_f30d7bc0:
     # r "We strike now."
-    r ""
+    r "We strike now."
 
 # TheHollowWorldMage1_5da2ae77 (line 73133)
 translate ru TheHollowWorldMage1_5da2ae77:
@@ -126,12 +126,12 @@ translate ru TheHollowWorldMage1_7b71f643:
 # TheHollowWorldMage1_07e09e17 (line 73147)
 translate ru TheHollowWorldMage1_07e09e17:
     # x "Sarah!!!"
-    x ""
+    x "Sarah!!!"
 
 # TheHollowWorldMage1_3c7298cb (line 73151)
 translate ru TheHollowWorldMage1_3c7298cb:
     # x "Get back here!"
-    x ""
+    x "Get back here!"
 
 # TheHollowWorldMage1_f095fc3c (line 73155)
 translate ru TheHollowWorldMage1_f095fc3c:
@@ -146,12 +146,12 @@ translate ru TheHollowWorldMage1_0ed637b6:
 # TheHollowWorldMage1_ee3241a2 (line 73161)
 translate ru TheHollowWorldMage1_ee3241a2:
     # x "Have you lost your mind?!"
-    x ""
+    x "Have you lost your mind?!"
 
 # TheHollowWorldMage1_fd6e1c1c (line 73162)
 translate ru TheHollowWorldMage1_fd6e1c1c:
     # x "I warned you not to touch that stone! No, I explicitly forbade you from touching that stone!"
-    x ""
+    x "I warned you not to touch that stone! No, I explicitly forbade you from touching that stone!"
 
 # TheHollowWorldMage1_8a2bb6e5 (line 73163)
 translate ru TheHollowWorldMage1_8a2bb6e5:
@@ -161,42 +161,42 @@ translate ru TheHollowWorldMage1_8a2bb6e5:
 # TheHollowWorldMage1_9b0a0326 (line 73164)
 translate ru TheHollowWorldMage1_9b0a0326:
     # x "Ever since Bagrad, no, even before that, it's been one thing after the other with you!"
-    x ""
+    x "Ever since Bagrad, no, even before that, it's been one thing after the other with you!"
 
 # TheHollowWorldMage1_003b145c (line 73165)
 translate ru TheHollowWorldMage1_003b145c:
     # x "It just goes to prove what I said before, I should have taken you to the citadel a long time ago."
-    x ""
+    x "It just goes to prove what I said before, I should have taken you to the citadel a long time ago."
 
 # TheHollowWorldMage1_5c6ce7f8 (line 73166)
 translate ru TheHollowWorldMage1_5c6ce7f8:
     # x "Hand me back that stone, I'm taking you to the citadel right now!"
-    x ""
+    x "Hand me back that stone, I'm taking you to the citadel right now!"
 
 # TheHollowWorldMage1_b01c041c (line 73167)
 translate ru TheHollowWorldMage1_b01c041c:
     # s "No!"
-    s ""
+    s "No!"
 
 # TheHollowWorldMage1_2b6d83bd (line 73168)
 translate ru TheHollowWorldMage1_2b6d83bd:
     # s "I told you I wouldn't go."
-    s ""
+    s "I told you I wouldn't go."
 
 # TheHollowWorldMage1_08d584f1 (line 73169)
 translate ru TheHollowWorldMage1_08d584f1:
     # s "I told you, but you never listen to me."
-    s ""
+    s "I told you, but you never listen to me."
 
 # TheHollowWorldMage1_8d7e3a39 (line 73170)
 translate ru TheHollowWorldMage1_8d7e3a39:
     # s "You think that just because you saved me all those years ago, that somehow, you own me, that I'm some thing you can order around."
-    s ""
+    s "You think that just because you saved me all those years ago, that somehow, you own me, that I'm some thing you can order around."
 
 # TheHollowWorldMage1_3066caa0 (line 73171)
 translate ru TheHollowWorldMage1_3066caa0:
     # s "I studied magic so I could be free and powerful, not so I could be your slave."
-    s ""
+    s "I studied magic so I could be free and powerful, not so I could be your slave."
 
 # TheHollowWorldMage1_47209a34 (line 73172)
 translate ru TheHollowWorldMage1_47209a34:
@@ -206,27 +206,27 @@ translate ru TheHollowWorldMage1_47209a34:
 # TheHollowWorldMage1_208f1fc4 (line 73173)
 translate ru TheHollowWorldMage1_208f1fc4:
     # x "Well then you've made a very big mistake, because so long as you live, you're mine."
-    x ""
+    x "Well then you've made a very big mistake, because so long as you live, you're mine."
 
 # TheHollowWorldMage1_c6402529 (line 73174)
 translate ru TheHollowWorldMage1_c6402529:
     # x "Every moment of your life has been carefully decided. There is a purpose for you, and I will make certain that you carry out that purpose. Everything else is secondary."
-    x ""
+    x "Every moment of your life has been carefully decided. There is a purpose for you, and I will make certain that you carry out that purpose. Everything else is secondary."
 
 # TheHollowWorldMage1_e8899c29 (line 73175)
 translate ru TheHollowWorldMage1_e8899c29:
     # s "You're still not listening!"
-    s ""
+    s "You're still not listening!"
 
 # TheHollowWorldMage1_b197bd72 (line 73176)
 translate ru TheHollowWorldMage1_b197bd72:
     # s "I'm not going!"
-    s ""
+    s "I'm not going!"
 
 # TheHollowWorldMage1_0d25366b (line 73177)
 translate ru TheHollowWorldMage1_0d25366b:
     # x "You don't get a choice! How many more times do I have to say this before you'll understand?"
-    x ""
+    x "You don't get a choice! How many more times do I have to say this before you'll understand?"
 
 # TheHollowWorldMage1_5fe7ca07 (line 73178)
 translate ru TheHollowWorldMage1_5fe7ca07:
@@ -281,7 +281,7 @@ translate ru TheHollowWorldMage1_e0ca2889:
 # TheHollowWorldMage1_c8fffaaa (line 73193)
 translate ru TheHollowWorldMage1_c8fffaaa:
     # x "You fucking bitch!"
-    x ""
+    x "You fucking bitch!"
 
 # TheHollowWorldMage1_84720e2f (line 73194)
 translate ru TheHollowWorldMage1_84720e2f:
@@ -301,7 +301,7 @@ translate ru TheHollowWorldMage1_17fff405:
 # TheHollowWorldMage1_b91c9af7 (line 73197)
 translate ru TheHollowWorldMage1_b91c9af7:
     # x "Making deals with this abomination, you're more lost than I thought."
-    x ""
+    x "Making deals with this abomination, you're more lost than I thought."
 
 # TheHollowWorldMage1_819b1688 (line 73198)
 translate ru TheHollowWorldMage1_819b1688:
@@ -371,7 +371,7 @@ translate ru TheHollowWorldMage1_f8090624:
 # TheHollowWorldMage1_d6420fcd (line 73213)
 translate ru TheHollowWorldMage1_d6420fcd:
     # x "It's like I taught you nothing."
-    x ""
+    x "It's like I taught you nothing."
 
 # TheHollowWorldMage1_79c98d3e (line 73214)
 translate ru TheHollowWorldMage1_79c98d3e:
@@ -461,7 +461,7 @@ translate ru TheHollowWorldMage1_e6d5214d:
 # TheHollowWorldMage1_0a1c7384 (line 73236)
 translate ru TheHollowWorldMage1_0a1c7384:
     # r "It is done."
-    r ""
+    r "It is done."
 
 # TheHollowWorldMage1_3c0f005a (line 73237)
 translate ru TheHollowWorldMage1_3c0f005a:
@@ -481,32 +481,32 @@ translate ru TheHollowWorldMage1_2462f989:
 # TheHollowWorldMage1_8a756acf (line 73240)
 translate ru TheHollowWorldMage1_8a756acf:
     # s "It is done..."
-    s ""
+    s "It is done..."
 
 # TheHollowWorldMage1_32fae282 (line 73244)
 translate ru TheHollowWorldMage1_32fae282:
     # s "Now what?"
-    s ""
+    s "Now what?"
 
 # TheHollowWorldMage1_109e9aff (line 73245)
 translate ru TheHollowWorldMage1_109e9aff:
     # r "Now you have your freedom."
-    r ""
+    r "Now you have your freedom."
 
 # TheHollowWorldMage1_f6bf95d0 (line 73246)
 translate ru TheHollowWorldMage1_f6bf95d0:
     # r "So the question of now what is one you will have to answer for yourself."
-    r ""
+    r "So the question of now what is one you will have to answer for yourself."
 
 # TheHollowWorldMage1_dbfdc75d (line 73247)
 translate ru TheHollowWorldMage1_dbfdc75d:
     # s "And our deal?"
-    s ""
+    s "And our deal?"
 
 # TheHollowWorldMage1_084362c4 (line 73248)
 translate ru TheHollowWorldMage1_084362c4:
     # r "Our deal stands. I have fulfilled my end, and one day you will fulfill yours."
-    r ""
+    r "Our deal stands. I have fulfilled my end, and one day you will fulfill yours."
 
 # TheHollowWorldMage1_5779e397 (line 73249)
 translate ru TheHollowWorldMage1_5779e397:
@@ -526,22 +526,22 @@ translate ru TheHollowWorldMage1_605cfaab:
 # TheHollowWorldMage1_f1e4ccd0 (line 73252)
 translate ru TheHollowWorldMage1_f1e4ccd0:
     # r "One advice, Sarah..."
-    r ""
+    r "One advice, Sarah..."
 
 # TheHollowWorldMage1_f00dfa8d (line 73253)
 translate ru TheHollowWorldMage1_f00dfa8d:
     # s "Yes?"
-    s ""
+    s "Yes?"
 
 # TheHollowWorldMage1_ef13215c (line 73254)
 translate ru TheHollowWorldMage1_ef13215c:
     # r "Take the fate stone and carry it through the house. Hold it up in every corner, and it will shroud the house from the eyes of the gods."
-    r ""
+    r "Take the fate stone and carry it through the house. Hold it up in every corner, and it will shroud the house from the eyes of the gods."
 
 # TheHollowWorldMage1_d125f69e (line 73255)
 translate ru TheHollowWorldMage1_d125f69e:
     # r "And perhaps more acutely, shroud it from the mage's order."
-    r ""
+    r "And perhaps more acutely, shroud it from the mage's order."
 
 # TheHollowWorldMage1_f5162552 (line 73256)
 translate ru TheHollowWorldMage1_f5162552:
@@ -551,7 +551,7 @@ translate ru TheHollowWorldMage1_f5162552:
 # TheHollowWorldMage1_de308dcb (line 73257)
 translate ru TheHollowWorldMage1_de308dcb:
     # s "Do you think they will come for me?"
-    s ""
+    s "Do you think they will come for me?"
 
 # TheHollowWorldMage1_3b4c870d (line 73258)
 translate ru TheHollowWorldMage1_3b4c870d:
@@ -561,17 +561,17 @@ translate ru TheHollowWorldMage1_3b4c870d:
 # TheHollowWorldMage1_4e334ddd (line 73259)
 translate ru TheHollowWorldMage1_4e334ddd:
     # r "Perhaps, or perhaps not. Their order is often hard to understand."
-    r ""
+    r "Perhaps, or perhaps not. Their order is often hard to understand."
 
 # TheHollowWorldMage1_99a7669a (line 73260)
 translate ru TheHollowWorldMage1_99a7669a:
     # r "But with the fate stone, you will cut out their most powerful tool, the eyes of the gods."
-    r ""
+    r "But with the fate stone, you will cut out their most powerful tool, the eyes of the gods."
 
 # TheHollowWorldMage1_f38e957d (line 73261)
 translate ru TheHollowWorldMage1_f38e957d:
     # r "Without it, they can find you no easier than any ordinary mortal can. And this house, they will never find."
-    r ""
+    r "Without it, they can find you no easier than any ordinary mortal can. And this house, they will never find."
 
 # TheHollowWorldMage1_6ddf4828 (line 73262)
 translate ru TheHollowWorldMage1_6ddf4828:

@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: MageInTheRuins2
-# Total blocks: 806
+# Total blocks: 798
 
 # MageInTheRuins2_2dda2294 (line 83452)
 translate ru MageInTheRuins2_2dda2294:
@@ -568,16 +568,6 @@ translate ru MageInTheRuins2_afe6e27d:
     # "Having finished conjuring her defenses, Sarah sat down near the campfire."
     ""
 
-# MageInTheRuins2_00ed4a77 (line 83825)
-translate ru MageInTheRuins2_00ed4a77:
-    # "Sleep with Samayra"
-    "Sleep with Samayra" ""
-
-# MageInTheRuins2_ceade421 (line 83941)
-translate ru MageInTheRuins2_ceade421:
-    # "Keep guard"
-    "Keep guard" ""
-
 # MageInTheRuins2_289fef0c (line 83980)
 translate ru MageInTheRuins2_289fef0c:
     # "Sarah opened her eyes at the first rays of light."
@@ -626,7 +616,7 @@ translate ru MageInTheRuins2_c38f87cc:
 # MageInTheRuins2_599c0c65 (line 84005)
 translate ru MageInTheRuins2_599c0c65:
     # s "Who are you!"
-    s ""
+    s "Who are you!"
 
 # MageInTheRuins2_520afa4e (line 84006)
 translate ru MageInTheRuins2_520afa4e:
@@ -646,67 +636,67 @@ translate ru MageInTheRuins2_5aadeb6d:
 # MageInTheRuins2_ab4c3c17 (line 84013)
 translate ru MageInTheRuins2_ab4c3c17:
     # gab "I told you this was a bad idea."
-    gab ""
+    gab "I told you this was a bad idea."
 
 # MageInTheRuins2_fb003078 (line 84014)
 translate ru MageInTheRuins2_fb003078:
     # hec "Please, Gabriel, just trust me for once, alright?"
-    hec ""
+    hec "Please, Gabriel, just trust me for once, alright?"
 
 # MageInTheRuins2_083ad54d (line 84015)
 translate ru MageInTheRuins2_083ad54d:
     # gab "Once? I trust you all the time, and you get us both into enough trouble for several lifetimes."
-    gab ""
+    gab "Once? I trust you all the time, and you get us both into enough trouble for several lifetimes."
 
 # MageInTheRuins2_39472cd1 (line 84016)
 translate ru MageInTheRuins2_39472cd1:
     # hec "Oh please, name one!"
-    hec ""
+    hec "Oh please, name one!"
 
 # MageInTheRuins2_a3954c18 (line 84017)
 translate ru MageInTheRuins2_a3954c18:
     # gab "There was the basilisk-"
-    gab ""
+    gab "There was the basilisk-"
 
 # MageInTheRuins2_1715e216 (line 84018)
 translate ru MageInTheRuins2_1715e216:
     # hec "That doesn't count!"
-    hec ""
+    hec "That doesn't count!"
 
 # MageInTheRuins2_7a958ec3 (line 84019)
 translate ru MageInTheRuins2_7a958ec3:
     # gab "And the time with that rogue wizard and-"
-    gab ""
+    gab "And the time with that rogue wizard and-"
 
 # MageInTheRuins2_6531e7ce (line 84020)
 translate ru MageInTheRuins2_6531e7ce:
     # hec "That wasn't my fault!"
-    hec ""
+    hec "That wasn't my fault!"
 
 # MageInTheRuins2_1b37baca (line 84021)
 translate ru MageInTheRuins2_1b37baca:
     # gab "Not to mention that when the orcs-"
-    gab ""
+    gab "Not to mention that when the orcs-"
 
 # MageInTheRuins2_1efba8f0 (line 84022)
 translate ru MageInTheRuins2_1efba8f0:
     # hec "Gods, Gabriel, are you really going to dredge up that old tale?"
-    hec ""
+    hec "Gods, Gabriel, are you really going to dredge up that old tale?"
 
 # MageInTheRuins2_92c1005e (line 84023)
 translate ru MageInTheRuins2_92c1005e:
     # gab "Hey, I'm just saying."
-    gab ""
+    gab "Hey, I'm just saying."
 
 # MageInTheRuins2_1e6c9413 (line 84024)
 translate ru MageInTheRuins2_1e6c9413:
     # hec "Well, I'm just saying that when I took you on as my sworn servant, I was expecting a man, not a whiny little girl!"
-    hec ""
+    hec "Well, I'm just saying that when I took you on as my sworn servant, I was expecting a man, not a whiny little girl!"
 
 # MageInTheRuins2_fe573a57 (line 84025)
 translate ru MageInTheRuins2_fe573a57:
     # gab "Yes, very mature, insult the man tasked with protecting you."
-    gab ""
+    gab "Yes, very mature, insult the man tasked with protecting you."
 
 # MageInTheRuins2_a242919f (line 84026)
 translate ru MageInTheRuins2_a242919f:
@@ -716,17 +706,17 @@ translate ru MageInTheRuins2_a242919f:
 # MageInTheRuins2_eabacae2 (line 84027)
 translate ru MageInTheRuins2_eabacae2:
     # hec "You? Protect me? Trust me, I do very well on my own. I could burn down an entire city if I had to."
-    hec ""
+    hec "You? Protect me? Trust me, I do very well on my own. I could burn down an entire city if I had to."
 
 # MageInTheRuins2_377d771c (line 84028)
 translate ru MageInTheRuins2_377d771c:
     # gab "Yeah, that's why they send me along with you."
-    gab ""
+    gab "Yeah, that's why they send me along with you."
 
 # MageInTheRuins2_d6184fd9 (line 84029)
 translate ru MageInTheRuins2_d6184fd9:
     # gab "To protect you from yourself. If not for me, you probably would have burned a few cities by now."
-    gab ""
+    gab "To protect you from yourself. If not for me, you probably would have burned a few cities by now."
 
 # MageInTheRuins2_cdc5b46e (line 84030)
 translate ru MageInTheRuins2_cdc5b46e:
@@ -741,7 +731,7 @@ translate ru MageInTheRuins2_afbd275e:
 # MageInTheRuins2_ec0d01c4 (line 84032)
 translate ru MageInTheRuins2_ec0d01c4:
     # s "I...uhm...can you two stop arguing and answer my question?"
-    s ""
+    s "I...uhm...can you two stop arguing and answer my question?"
 
 # MageInTheRuins2_f8083f3e (line 84033)
 translate ru MageInTheRuins2_f8083f3e:
@@ -751,22 +741,22 @@ translate ru MageInTheRuins2_f8083f3e:
 # MageInTheRuins2_dfd9cf3d (line 84034)
 translate ru MageInTheRuins2_dfd9cf3d:
     # hec "Oh, apologies for my poorly behaved man-servant-"
-    hec ""
+    hec "Oh, apologies for my poorly behaved man-servant-"
 
 # MageInTheRuins2_5365ff36 (line 84035)
 translate ru MageInTheRuins2_5365ff36:
     # gab "Sworn knight."
-    gab ""
+    gab "Sworn knight."
 
 # MageInTheRuins2_951a5f16 (line 84036)
 translate ru MageInTheRuins2_951a5f16:
     # hec "Same difference."
-    hec ""
+    hec "Same difference."
 
 # MageInTheRuins2_f44bce94 (line 84037)
 translate ru MageInTheRuins2_f44bce94:
     # hec "He's a little awkward around new company, so he forgets proper protocol."
-    hec ""
+    hec "He's a little awkward around new company, so he forgets proper protocol."
 
 # MageInTheRuins2_8f7b283c (line 84038)
 translate ru MageInTheRuins2_8f7b283c:
@@ -776,7 +766,7 @@ translate ru MageInTheRuins2_8f7b283c:
 # MageInTheRuins2_e98b2d7c (line 84039)
 translate ru MageInTheRuins2_e98b2d7c:
     # s "Just tell me who you are and what you're doing here!"
-    s ""
+    s "Just tell me who you are and what you're doing here!"
 
 # MageInTheRuins2_62e3a3a5 (line 84040)
 translate ru MageInTheRuins2_62e3a3a5:
@@ -786,7 +776,7 @@ translate ru MageInTheRuins2_62e3a3a5:
 # MageInTheRuins2_feee40cb (line 84041)
 translate ru MageInTheRuins2_feee40cb:
     # s "Not to mention how you made it past my defenses!"
-    s ""
+    s "Not to mention how you made it past my defenses!"
 
 # MageInTheRuins2_713522f9 (line 84042)
 translate ru MageInTheRuins2_713522f9:
@@ -796,12 +786,12 @@ translate ru MageInTheRuins2_713522f9:
 # MageInTheRuins2_ab9e677c (line 84043)
 translate ru MageInTheRuins2_ab9e677c:
     # hec "What? Those little spells?"
-    hec ""
+    hec "What? Those little spells?"
 
 # MageInTheRuins2_35ed1b91 (line 84044)
 translate ru MageInTheRuins2_35ed1b91:
     # hec "Tricky for a goblin shaman, maybe. Surely not meant to keep a practiced Witch like myself away, no?"
-    hec ""
+    hec "Tricky for a goblin shaman, maybe. Surely not meant to keep a practiced Witch like myself away, no?"
 
 # MageInTheRuins2_075df75d (line 84045)
 translate ru MageInTheRuins2_075df75d:
@@ -811,12 +801,12 @@ translate ru MageInTheRuins2_075df75d:
 # MageInTheRuins2_a5da9aa8 (line 84046)
 translate ru MageInTheRuins2_a5da9aa8:
     # hec "Anyway, as I was in the business of telling you, before my rude man-servant started blabbering, my name is Hecate."
-    hec ""
+    hec "Anyway, as I was in the business of telling you, before my rude man-servant started blabbering, my name is Hecate."
 
 # MageInTheRuins2_43173f7e (line 84047)
 translate ru MageInTheRuins2_43173f7e:
     # hec "Witch and famous explorer."
-    hec ""
+    hec "Witch and famous explorer."
 
 # MageInTheRuins2_28e299b8 (line 84048)
 translate ru MageInTheRuins2_28e299b8:
@@ -826,7 +816,7 @@ translate ru MageInTheRuins2_28e299b8:
 # MageInTheRuins2_3b1a82e9 (line 84049)
 translate ru MageInTheRuins2_3b1a82e9:
     # hec "And this is..."
-    hec ""
+    hec "And this is..."
 
 # MageInTheRuins2_75429e34 (line 84050)
 translate ru MageInTheRuins2_75429e34:
@@ -836,17 +826,17 @@ translate ru MageInTheRuins2_75429e34:
 # MageInTheRuins2_934d1859 (line 84051)
 translate ru MageInTheRuins2_934d1859:
     # hec "This is the part where you introduce yourself, you slow witted-"
-    hec ""
+    hec "This is the part where you introduce yourself, you slow witted-"
 
 # MageInTheRuins2_eaa01ecf (line 84052)
 translate ru MageInTheRuins2_eaa01ecf:
     # gab "Gabriel."
-    gab ""
+    gab "Gabriel."
 
 # MageInTheRuins2_1ed78b86 (line 84053)
 translate ru MageInTheRuins2_1ed78b86:
     # gab "Knight and sworn protector of Lady Hecate."
-    gab ""
+    gab "Knight and sworn protector of Lady Hecate."
 
 # MageInTheRuins2_d37e2a3a (line 84054)
 translate ru MageInTheRuins2_d37e2a3a:
@@ -861,7 +851,7 @@ translate ru MageInTheRuins2_5edd1170:
 # MageInTheRuins2_42a55701 (line 84056)
 translate ru MageInTheRuins2_42a55701:
     # hec "Now, having introduced ourselves, I think it only polite you return in kind."
-    hec ""
+    hec "Now, having introduced ourselves, I think it only polite you return in kind."
 
 # MageInTheRuins2_70aefde6 (line 84057)
 translate ru MageInTheRuins2_70aefde6:
@@ -881,7 +871,7 @@ translate ru MageInTheRuins2_6c881e1d:
 # MageInTheRuins2_64ba57d2 (line 84060)
 translate ru MageInTheRuins2_64ba57d2:
     # s "I'm Sarah."
-    s ""
+    s "I'm Sarah."
 
 # MageInTheRuins2_1d085155 (line 84066)
 translate ru MageInTheRuins2_1d085155:
@@ -891,17 +881,17 @@ translate ru MageInTheRuins2_1d085155:
 # MageInTheRuins2_d51d2255 (line 84067)
 translate ru MageInTheRuins2_d51d2255:
     # hec "Sarah!"
-    hec ""
+    hec "Sarah!"
 
 # MageInTheRuins2_47620702 (line 84068)
 translate ru MageInTheRuins2_47620702:
     # hec "But of course!"
-    hec ""
+    hec "But of course!"
 
 # MageInTheRuins2_0fba96ea (line 84069)
 translate ru MageInTheRuins2_0fba96ea:
     # hec "I should have known."
-    hec ""
+    hec "I should have known."
 
 # MageInTheRuins2_5622684d (line 84070)
 translate ru MageInTheRuins2_5622684d:
@@ -911,22 +901,22 @@ translate ru MageInTheRuins2_5622684d:
 # MageInTheRuins2_01975eff (line 84071)
 translate ru MageInTheRuins2_01975eff:
     # s "Known? Known what?"
-    s ""
+    s "Known? Known what?"
 
 # MageInTheRuins2_b97b1517 (line 84072)
 translate ru MageInTheRuins2_b97b1517:
     # hec "That it's you! Xan had told me so much about you, his new apprentice."
-    hec ""
+    hec "That it's you! Xan had told me so much about you, his new apprentice."
 
 # MageInTheRuins2_e2223975 (line 84073)
 translate ru MageInTheRuins2_e2223975:
     # hec "But every time I asked to meet her, he'd say not yet. He's always so protective of his charges."
-    hec ""
+    hec "But every time I asked to meet her, he'd say not yet. He's always so protective of his charges."
 
 # MageInTheRuins2_ffe67c3f (line 84074)
 translate ru MageInTheRuins2_ffe67c3f:
     # hec "But you look exactly as he described!"
-    hec ""
+    hec "But you look exactly as he described!"
 
 # MageInTheRuins2_cbd62228 (line 84075)
 translate ru MageInTheRuins2_cbd62228:
@@ -936,7 +926,7 @@ translate ru MageInTheRuins2_cbd62228:
 # MageInTheRuins2_dda00b7a (line 84076)
 translate ru MageInTheRuins2_dda00b7a:
     # hec "Where is he? Is he here with you?"
-    hec ""
+    hec "Where is he? Is he here with you?"
 
 # MageInTheRuins2_d6dbe808 (line 84077)
 translate ru MageInTheRuins2_d6dbe808:
@@ -946,22 +936,22 @@ translate ru MageInTheRuins2_d6dbe808:
 # MageInTheRuins2_912b5c3b (line 84078)
 translate ru MageInTheRuins2_912b5c3b:
     # s "No...Xan isn't here."
-    s ""
+    s "No...Xan isn't here."
 
 # MageInTheRuins2_e6f19912 (line 84079)
 translate ru MageInTheRuins2_e6f19912:
     # hec "Ooh, shame."
-    hec ""
+    hec "Ooh, shame."
 
 # MageInTheRuins2_7c86d883 (line 84080)
 translate ru MageInTheRuins2_7c86d883:
     # hec "Been a few years since last I saw him, hoped I'd get the chance."
-    hec ""
+    hec "Been a few years since last I saw him, hoped I'd get the chance."
 
 # MageInTheRuins2_8f451356 (line 84081)
 translate ru MageInTheRuins2_8f451356:
     # hec "I was hoping to speak to him about all this."
-    hec ""
+    hec "I was hoping to speak to him about all this."
 
 # MageInTheRuins2_da8f3416 (line 84082)
 translate ru MageInTheRuins2_da8f3416:
@@ -971,27 +961,27 @@ translate ru MageInTheRuins2_da8f3416:
 # MageInTheRuins2_aa6ead32 (line 84083)
 translate ru MageInTheRuins2_aa6ead32:
     # s "All this?"
-    s ""
+    s "All this?"
 
 # MageInTheRuins2_064ccca6 (line 84084)
 translate ru MageInTheRuins2_064ccca6:
     # hec "Well...I mean, that's why you're here, I assume?"
-    hec ""
+    hec "Well...I mean, that's why you're here, I assume?"
 
 # MageInTheRuins2_377230eb (line 84085)
 translate ru MageInTheRuins2_377230eb:
     # hec "That magical pulse. Don't tell me you can't feel it?"
-    hec ""
+    hec "That magical pulse. Don't tell me you can't feel it?"
 
 # MageInTheRuins2_8e495a8d (line 84086)
 translate ru MageInTheRuins2_8e495a8d:
     # s "I can, of course."
-    s ""
+    s "I can, of course."
 
 # MageInTheRuins2_fc916e3c (line 84087)
 translate ru MageInTheRuins2_fc916e3c:
     # hec "So...Xan didn't send you here?"
-    hec ""
+    hec "So...Xan didn't send you here?"
 
 # MageInTheRuins2_affbc510 (line 84088)
 translate ru MageInTheRuins2_affbc510:
@@ -1001,7 +991,7 @@ translate ru MageInTheRuins2_affbc510:
 # MageInTheRuins2_97590705 (line 84089)
 translate ru MageInTheRuins2_97590705:
     # s "I came here through one of the doors in Xan's House."
-    s ""
+    s "I came here through one of the doors in Xan's House."
 
 # MageInTheRuins2_f30c2976 (line 84090)
 translate ru MageInTheRuins2_f30c2976:
@@ -1011,17 +1001,17 @@ translate ru MageInTheRuins2_f30c2976:
 # MageInTheRuins2_1122e01a (line 84091)
 translate ru MageInTheRuins2_1122e01a:
     # hec "And you just randomly go about exploring ancient cities?"
-    hec ""
+    hec "And you just randomly go about exploring ancient cities?"
 
 # MageInTheRuins2_6bf558bb (line 84092)
 translate ru MageInTheRuins2_6bf558bb:
     # s "No, we received a letter from Metis, alerting us to...whatever it is that's going on here."
-    s ""
+    s "No, we received a letter from Metis, alerting us to...whatever it is that's going on here."
 
 # MageInTheRuins2_7c0fbc73 (line 84093)
 translate ru MageInTheRuins2_7c0fbc73:
     # hec "Ah! Metis, friendly fellow. Little full of himself, no?"
-    hec ""
+    hec "Ah! Metis, friendly fellow. Little full of himself, no?"
 
 # MageInTheRuins2_1c48d73a (line 84094)
 translate ru MageInTheRuins2_1c48d73a:
@@ -1031,7 +1021,7 @@ translate ru MageInTheRuins2_1c48d73a:
 # MageInTheRuins2_56893d72 (line 84095)
 translate ru MageInTheRuins2_56893d72:
     # hec "Good that he carried the message though."
-    hec ""
+    hec "Good that he carried the message though."
 
 # MageInTheRuins2_738a0cd8 (line 84096)
 translate ru MageInTheRuins2_738a0cd8:
@@ -1041,7 +1031,7 @@ translate ru MageInTheRuins2_738a0cd8:
 # MageInTheRuins2_beda253d (line 84097)
 translate ru MageInTheRuins2_beda253d:
     # s "But what about the both of you? You're here about that magical pulse as well?"
-    s ""
+    s "But what about the both of you? You're here about that magical pulse as well?"
 
 # MageInTheRuins2_7720207c (line 84098)
 translate ru MageInTheRuins2_7720207c:
@@ -1051,12 +1041,12 @@ translate ru MageInTheRuins2_7720207c:
 # MageInTheRuins2_93c3f634 (line 84099)
 translate ru MageInTheRuins2_93c3f634:
     # hec "Yes, I was in Rahayal on official Order business when I first picked up on the signal."
-    hec ""
+    hec "Yes, I was in Rahayal on official Order business when I first picked up on the signal."
 
 # MageInTheRuins2_c9e01d99 (line 84100)
 translate ru MageInTheRuins2_c9e01d99:
     # hec "That far out, it was vague, but noticeable to a Witch of my talents."
-    hec ""
+    hec "That far out, it was vague, but noticeable to a Witch of my talents."
 
 # MageInTheRuins2_89572168 (line 84101)
 translate ru MageInTheRuins2_89572168:
@@ -1066,17 +1056,17 @@ translate ru MageInTheRuins2_89572168:
 # MageInTheRuins2_2ae3f6a0 (line 84102)
 translate ru MageInTheRuins2_2ae3f6a0:
     # hec "Me and my man-servant set out from Rahayal in pursuit of the signal."
-    hec ""
+    hec "Me and my man-servant set out from Rahayal in pursuit of the signal."
 
 # MageInTheRuins2_da014a48 (line 84103)
 translate ru MageInTheRuins2_da014a48:
     # hec "By the time I felt it growing stronger, we were already partway into the jungle."
-    hec ""
+    hec "By the time I felt it growing stronger, we were already partway into the jungle."
 
 # MageInTheRuins2_76c9fe89 (line 84104)
 translate ru MageInTheRuins2_76c9fe89:
     # hec "At that point, turning back was nearly as dangerous as heading on, so we kept going."
-    hec ""
+    hec "At that point, turning back was nearly as dangerous as heading on, so we kept going."
 
 # MageInTheRuins2_d1428ae4 (line 84105)
 translate ru MageInTheRuins2_d1428ae4:
@@ -1086,42 +1076,42 @@ translate ru MageInTheRuins2_d1428ae4:
 # MageInTheRuins2_28410126 (line 84106)
 translate ru MageInTheRuins2_28410126:
     # hec "I've been crawling through that filthy jungle for the better part of a month now."
-    hec ""
+    hec "I've been crawling through that filthy jungle for the better part of a month now."
 
 # MageInTheRuins2_2e4dd313 (line 84107)
 translate ru MageInTheRuins2_2e4dd313:
     # hec "It's infested with bugs, snakes...and those are the nice things."
-    hec ""
+    hec "It's infested with bugs, snakes...and those are the nice things."
 
 # MageInTheRuins2_498b6d46 (line 84108)
 translate ru MageInTheRuins2_498b6d46:
     # hec "Then there's the Orcs, the Goblins, and worse than those too."
-    hec ""
+    hec "Then there's the Orcs, the Goblins, and worse than those too."
 
 # MageInTheRuins2_e1ec692f (line 84109)
 translate ru MageInTheRuins2_e1ec692f:
     # hec "When we finally made it to the edges of the ruin, I hoped we would finally be in the clear."
-    hec ""
+    hec "When we finally made it to the edges of the ruin, I hoped we would finally be in the clear."
 
 # MageInTheRuins2_a80f8246 (line 84110)
 translate ru MageInTheRuins2_a80f8246:
     # hec "Instead, I find even more repulsive Orc camps."
-    hec ""
+    hec "Instead, I find even more repulsive Orc camps."
 
 # MageInTheRuins2_a3a7705f (line 84111)
 translate ru MageInTheRuins2_a3a7705f:
     # hec "We were stuck on the edges of the city for a while before we finally managed to get through to the interior."
-    hec ""
+    hec "We were stuck on the edges of the city for a while before we finally managed to get through to the interior."
 
 # MageInTheRuins2_48819412 (line 84112)
 translate ru MageInTheRuins2_48819412:
     # hec "And then..."
-    hec ""
+    hec "And then..."
 
 # MageInTheRuins2_c6a1bdd3 (line 84113)
 translate ru MageInTheRuins2_c6a1bdd3:
     # hec "Well, luck would have it that my man-servant here spotted a peculiar magical fire, in the night."
-    hec ""
+    hec "Well, luck would have it that my man-servant here spotted a peculiar magical fire, in the night."
 
 # MageInTheRuins2_2d6ed61d (line 84114)
 translate ru MageInTheRuins2_2d6ed61d:
@@ -1131,37 +1121,37 @@ translate ru MageInTheRuins2_2d6ed61d:
 # MageInTheRuins2_20d348a9 (line 84115)
 translate ru MageInTheRuins2_20d348a9:
     # hec "You had your own little run in with the fiendish creatures."
-    hec ""
+    hec "You had your own little run in with the fiendish creatures."
 
 # MageInTheRuins2_0de0fce0 (line 84116)
 translate ru MageInTheRuins2_0de0fce0:
     # hec "We spotted your use of magic and decided to track you down, and here we are."
-    hec ""
+    hec "We spotted your use of magic and decided to track you down, and here we are."
 
 # MageInTheRuins2_829dc2ed (line 84117)
 translate ru MageInTheRuins2_829dc2ed:
     # s "Why did you track us down?"
-    s ""
+    s "Why did you track us down?"
 
 # MageInTheRuins2_933e50b1 (line 84118)
 translate ru MageInTheRuins2_933e50b1:
     # hec "Why?"
-    hec ""
+    hec "Why?"
 
 # MageInTheRuins2_d186069d (line 84119)
 translate ru MageInTheRuins2_d186069d:
     # hec "Well, those of us in the Order need to stick together, obviously."
-    hec ""
+    hec "Well, those of us in the Order need to stick together, obviously."
 
 # MageInTheRuins2_4d790822 (line 84120)
 translate ru MageInTheRuins2_4d790822:
     # hec "And strength in numbers, I always say."
-    hec ""
+    hec "And strength in numbers, I always say."
 
 # MageInTheRuins2_73d331ce (line 84121)
 translate ru MageInTheRuins2_73d331ce:
     # hec "Besides, we're looking for the same thing. Best to work together, no?"
-    hec ""
+    hec "Besides, we're looking for the same thing. Best to work together, no?"
 
 # MageInTheRuins2_2b1183c2 (line 84122)
 translate ru MageInTheRuins2_2b1183c2:
@@ -1176,7 +1166,7 @@ translate ru MageInTheRuins2_be046b2f:
 # MageInTheRuins2_9a692707 (line 84124)
 translate ru MageInTheRuins2_9a692707:
     # s "How do I know I can trust you?"
-    s ""
+    s "How do I know I can trust you?"
 
 # MageInTheRuins2_3e5e3496 (line 84125)
 translate ru MageInTheRuins2_3e5e3496:
@@ -1186,12 +1176,12 @@ translate ru MageInTheRuins2_3e5e3496:
 # MageInTheRuins2_3f397fcf (line 84126)
 translate ru MageInTheRuins2_3f397fcf:
     # hec "Trust me?"
-    hec ""
+    hec "Trust me?"
 
 # MageInTheRuins2_c8100fcc (line 84127)
 translate ru MageInTheRuins2_c8100fcc:
     # hec "You hear this girl, Gabriel?"
-    hec ""
+    hec "You hear this girl, Gabriel?"
 
 # MageInTheRuins2_66a32733 (line 84128)
 translate ru MageInTheRuins2_66a32733:
@@ -1201,17 +1191,17 @@ translate ru MageInTheRuins2_66a32733:
 # MageInTheRuins2_484891e3 (line 84129)
 translate ru MageInTheRuins2_484891e3:
     # hec "Look, Sarah, I'm sure that Xan is teaching you well...but I'm one of the most talented Witches of this age."
-    hec ""
+    hec "Look, Sarah, I'm sure that Xan is teaching you well...but I'm one of the most talented Witches of this age."
 
 # MageInTheRuins2_a2485929 (line 84130)
 translate ru MageInTheRuins2_a2485929:
     # hec "There's a reason I took your little barriers apart like they were nothing."
-    hec ""
+    hec "There's a reason I took your little barriers apart like they were nothing."
 
 # MageInTheRuins2_a44a9cf9 (line 84131)
 translate ru MageInTheRuins2_a44a9cf9:
     # hec "You can trust me, because if I wanted to hurt you, I really wouldn't have much trouble at all."
-    hec ""
+    hec "You can trust me, because if I wanted to hurt you, I really wouldn't have much trouble at all."
 
 # MageInTheRuins2_29bb4de5 (line 84132)
 translate ru MageInTheRuins2_29bb4de5:
@@ -1226,12 +1216,12 @@ translate ru MageInTheRuins2_dd062d1a:
 # MageInTheRuins2_d81024a0 (line 84134)
 translate ru MageInTheRuins2_d81024a0:
     # hec "But don't worry, I won't hurt you."
-    hec ""
+    hec "But don't worry, I won't hurt you."
 
 # MageInTheRuins2_4918c0c4 (line 84135)
 translate ru MageInTheRuins2_4918c0c4:
     # hec "All we're after is the same thing. Finding out what is causing this signal."
-    hec ""
+    hec "All we're after is the same thing. Finding out what is causing this signal."
 
 # MageInTheRuins2_f759756a (line 84136)
 translate ru MageInTheRuins2_f759756a:
@@ -1241,7 +1231,7 @@ translate ru MageInTheRuins2_f759756a:
 # MageInTheRuins2_95746c03 (line 84137)
 translate ru MageInTheRuins2_95746c03:
     # s "Yeah...we were heading towards the Imperial Palace."
-    s ""
+    s "Yeah...we were heading towards the Imperial Palace."
 
 # MageInTheRuins2_1c632350 (line 84138)
 translate ru MageInTheRuins2_1c632350:
@@ -1256,12 +1246,12 @@ translate ru MageInTheRuins2_5419c143:
 # MageInTheRuins2_8054fb2f (line 84140)
 translate ru MageInTheRuins2_8054fb2f:
     # hec "A smart plan. Seems like an obvious place worth investigating."
-    hec ""
+    hec "A smart plan. Seems like an obvious place worth investigating."
 
 # MageInTheRuins2_d1cf5482 (line 84141)
 translate ru MageInTheRuins2_d1cf5482:
     # hec "Will you mind that me and my man-servant tag along then?"
-    hec ""
+    hec "Will you mind that me and my man-servant tag along then?"
 
 # MageInTheRuins2_c94e8c5d (line 84142)
 translate ru MageInTheRuins2_c94e8c5d:
@@ -1271,7 +1261,7 @@ translate ru MageInTheRuins2_c94e8c5d:
 # MageInTheRuins2_05a611c0 (line 84143)
 translate ru MageInTheRuins2_05a611c0:
     # s "Of course not."
-    s ""
+    s "Of course not."
 
 # MageInTheRuins2_81935111 (line 84159)
 translate ru MageInTheRuins2_81935111:
@@ -1281,7 +1271,7 @@ translate ru MageInTheRuins2_81935111:
 # MageInTheRuins2_da758700 (line 84160)
 translate ru MageInTheRuins2_da758700:
     # hec "Well then. Shall we? Before we lose precious daylight."
-    hec ""
+    hec "Well then. Shall we? Before we lose precious daylight."
 
 # MageInTheRuins2_d168af6a (line 84174)
 translate ru MageInTheRuins2_d168af6a:
@@ -1306,27 +1296,27 @@ translate ru MageInTheRuins2_bc156825:
 # MageInTheRuins2_07b8fbd4 (line 84183)
 translate ru MageInTheRuins2_07b8fbd4:
     # s "Not very subtle, that armor."
-    s ""
+    s "Not very subtle, that armor."
 
 # MageInTheRuins2_2427e689 (line 84184)
 translate ru MageInTheRuins2_2427e689:
     # gab "I don't wear it for subtlety."
-    gab ""
+    gab "I don't wear it for subtlety."
 
 # MageInTheRuins2_d547e419 (line 84185)
 translate ru MageInTheRuins2_d547e419:
     # s "What if stealth is required?"
-    s ""
+    s "What if stealth is required?"
 
 # MageInTheRuins2_6713ae37 (line 84186)
 translate ru MageInTheRuins2_6713ae37:
     # gab "Then Lady Hecate should hire the services of cutthroat, not a Knight."
-    gab ""
+    gab "Then Lady Hecate should hire the services of cutthroat, not a Knight."
 
 # MageInTheRuins2_0c3741fd (line 84187)
 translate ru MageInTheRuins2_0c3741fd:
     # s "You know, the two of you seem to make an odd team."
-    s ""
+    s "You know, the two of you seem to make an odd team."
 
 # MageInTheRuins2_2a976610 (line 84188)
 translate ru MageInTheRuins2_2a976610:
@@ -1336,7 +1326,7 @@ translate ru MageInTheRuins2_2a976610:
 # MageInTheRuins2_a5ec8acc (line 84189)
 translate ru MageInTheRuins2_a5ec8acc:
     # gab "I was given this task, it is not my job to question it."
-    gab ""
+    gab "I was given this task, it is not my job to question it."
 
 # MageInTheRuins2_f479a19a (line 84190)
 translate ru MageInTheRuins2_f479a19a:
@@ -1346,7 +1336,7 @@ translate ru MageInTheRuins2_f479a19a:
 # MageInTheRuins2_94e0831a (line 84191)
 translate ru MageInTheRuins2_94e0831a:
     # gab "And though she may take some getting used to, Lady Hecate is not so bad."
-    gab ""
+    gab "And though she may take some getting used to, Lady Hecate is not so bad."
 
 # MageInTheRuins2_d9b5f26d (line 84192)
 translate ru MageInTheRuins2_d9b5f26d:
@@ -1356,12 +1346,12 @@ translate ru MageInTheRuins2_d9b5f26d:
 # MageInTheRuins2_67409089 (line 84193)
 translate ru MageInTheRuins2_67409089:
     # s "What does a Witch even need a protector for?"
-    s ""
+    s "What does a Witch even need a protector for?"
 
 # MageInTheRuins2_3d62373c (line 84194)
 translate ru MageInTheRuins2_3d62373c:
     # s "I imagine she's more than able to defend herself."
-    s ""
+    s "I imagine she's more than able to defend herself."
 
 # MageInTheRuins2_c017a66e (line 84195)
 translate ru MageInTheRuins2_c017a66e:
@@ -1371,47 +1361,47 @@ translate ru MageInTheRuins2_c017a66e:
 # MageInTheRuins2_35936823 (line 84196)
 translate ru MageInTheRuins2_35936823:
     # gab "Yes, she is skilled enough to defend herself from most things."
-    gab ""
+    gab "Yes, she is skilled enough to defend herself from most things."
 
 # MageInTheRuins2_3a40469b (line 84197)
 translate ru MageInTheRuins2_3a40469b:
     # gab "But magic is not always so subtle. Especially not in the hands of Lady Hecate."
-    gab ""
+    gab "But magic is not always so subtle. Especially not in the hands of Lady Hecate."
 
 # MageInTheRuins2_77638d05 (line 84198)
 translate ru MageInTheRuins2_77638d05:
     # gab "And Lady Hecate suffers from her appearance as well."
-    gab ""
+    gab "And Lady Hecate suffers from her appearance as well."
 
 # MageInTheRuins2_98f541ba (line 84199)
 translate ru MageInTheRuins2_98f541ba:
     # s "Her appearance?"
-    s ""
+    s "Her appearance?"
 
 # MageInTheRuins2_3a029fe3 (line 84200)
 translate ru MageInTheRuins2_3a029fe3:
     # gab "In the past, people did not always understand how powerful she was. So they would test her."
-    gab ""
+    gab "In the past, people did not always understand how powerful she was. So they would test her."
 
 # MageInTheRuins2_56c59087 (line 84201)
 translate ru MageInTheRuins2_56c59087:
     # gab "And being who she is, her only response would be to burn everything to the ground."
-    gab ""
+    gab "And being who she is, her only response would be to burn everything to the ground."
 
 # MageInTheRuins2_8d20c7f0 (line 84202)
 translate ru MageInTheRuins2_8d20c7f0:
     # gab "With myself next to her, as her sworn protector, people are less inclined to test her."
-    gab ""
+    gab "With myself next to her, as her sworn protector, people are less inclined to test her."
 
 # MageInTheRuins2_21e33210 (line 84203)
 translate ru MageInTheRuins2_21e33210:
     # s "Because you're a man?"
-    s ""
+    s "Because you're a man?"
 
 # MageInTheRuins2_375e1fa2 (line 84204)
 translate ru MageInTheRuins2_375e1fa2:
     # gab "Because simple people respect plain strength."
-    gab ""
+    gab "Because simple people respect plain strength."
 
 # MageInTheRuins2_41aa0a30 (line 84205)
 translate ru MageInTheRuins2_41aa0a30:
@@ -1421,57 +1411,57 @@ translate ru MageInTheRuins2_41aa0a30:
 # MageInTheRuins2_6d5efaa3 (line 84206)
 translate ru MageInTheRuins2_6d5efaa3:
     # s "So how did you end up with her, exactly?"
-    s ""
+    s "So how did you end up with her, exactly?"
 
 # MageInTheRuins2_4835c36d (line 84207)
 translate ru MageInTheRuins2_4835c36d:
     # gab "As I said, I was tasked to guard her, and swore an oath to it."
-    gab ""
+    gab "As I said, I was tasked to guard her, and swore an oath to it."
 
 # MageInTheRuins2_1ab14341 (line 84208)
 translate ru MageInTheRuins2_1ab14341:
     # s "Tasked? By whom?"
-    s ""
+    s "Tasked? By whom?"
 
 # MageInTheRuins2_3bfb5934 (line 84209)
 translate ru MageInTheRuins2_3bfb5934:
     # gab "My master. The order I belong to has long held good relations with the Mages."
-    gab ""
+    gab "My master. The order I belong to has long held good relations with the Mages."
 
 # MageInTheRuins2_5582fb29 (line 84210)
 translate ru MageInTheRuins2_5582fb29:
     # gab "So when I was asked to swear my service to a Mage, I did so without asking any questions."
-    gab ""
+    gab "So when I was asked to swear my service to a Mage, I did so without asking any questions."
 
 # MageInTheRuins2_6a8ab8d6 (line 84211)
 translate ru MageInTheRuins2_6a8ab8d6:
     # gab "That was years ago."
-    gab ""
+    gab "That was years ago."
 
 # MageInTheRuins2_9cdf694b (line 84212)
 translate ru MageInTheRuins2_9cdf694b:
     # gab "Ever since, I have kept to her side."
-    gab ""
+    gab "Ever since, I have kept to her side."
 
 # MageInTheRuins2_f6fac28c (line 84213)
 translate ru MageInTheRuins2_f6fac28c:
     # s "And you enjoy it?"
-    s ""
+    s "And you enjoy it?"
 
 # MageInTheRuins2_628a26ab (line 84214)
 translate ru MageInTheRuins2_628a26ab:
     # gab "Enjoy?"
-    gab ""
+    gab "Enjoy?"
 
 # MageInTheRuins2_78f103b9 (line 84215)
 translate ru MageInTheRuins2_78f103b9:
     # gab "I swore an oath. To me, that is binding."
-    gab ""
+    gab "I swore an oath. To me, that is binding."
 
 # MageInTheRuins2_7c8011db (line 84216)
 translate ru MageInTheRuins2_7c8011db:
     # gab "I serve Lady Hecate because it is my duty."
-    gab ""
+    gab "I serve Lady Hecate because it is my duty."
 
 # MageInTheRuins2_0453c8a9 (line 84217)
 translate ru MageInTheRuins2_0453c8a9:
@@ -1481,12 +1471,12 @@ translate ru MageInTheRuins2_0453c8a9:
 # MageInTheRuins2_b2fd34aa (line 84218)
 translate ru MageInTheRuins2_b2fd34aa:
     # gab "But as far as people go, I do enjoy her company."
-    gab ""
+    gab "But as far as people go, I do enjoy her company."
 
 # MageInTheRuins2_f9a9fe13 (line 84219)
 translate ru MageInTheRuins2_f9a9fe13:
     # s "Even her insults?"
-    s ""
+    s "Even her insults?"
 
 # MageInTheRuins2_60e6c33b (line 84220)
 translate ru MageInTheRuins2_60e6c33b:
@@ -1496,7 +1486,7 @@ translate ru MageInTheRuins2_60e6c33b:
 # MageInTheRuins2_a1364e4f (line 84221)
 translate ru MageInTheRuins2_a1364e4f:
     # gab "She means well. You have to learn to look past the front she puts up."
-    gab ""
+    gab "She means well. You have to learn to look past the front she puts up."
 
 # MageInTheRuins2_19a67256 (line 84222)
 translate ru MageInTheRuins2_19a67256:
@@ -1561,7 +1551,7 @@ translate ru MageInTheRuins2_7790e4cb:
 # MageInTheRuins2_b35c00f1 (line 84251)
 translate ru MageInTheRuins2_b35c00f1:
     # hec "Quite a sight..."
-    hec ""
+    hec "Quite a sight..."
 
 # MageInTheRuins2_43544028 (line 84252)
 translate ru MageInTheRuins2_43544028:
@@ -1571,12 +1561,12 @@ translate ru MageInTheRuins2_43544028:
 # MageInTheRuins2_5cebd059 (line 84253)
 translate ru MageInTheRuins2_5cebd059:
     # hec "I can feel the signal more clearly here than anywhere else."
-    hec ""
+    hec "I can feel the signal more clearly here than anywhere else."
 
 # MageInTheRuins2_03c350a9 (line 84254)
 translate ru MageInTheRuins2_03c350a9:
     # hec "This has to be the origin."
-    hec ""
+    hec "This has to be the origin."
 
 # MageInTheRuins2_977514b3 (line 84255)
 translate ru MageInTheRuins2_977514b3:
@@ -1586,7 +1576,7 @@ translate ru MageInTheRuins2_977514b3:
 # MageInTheRuins2_d9c965a9 (line 84256)
 translate ru MageInTheRuins2_d9c965a9:
     # s "Let's head inside then."
-    s ""
+    s "Let's head inside then."
 
 # MageInTheRuins2_1db99f97 (line 84257)
 translate ru MageInTheRuins2_1db99f97:
@@ -1596,12 +1586,12 @@ translate ru MageInTheRuins2_1db99f97:
 # MageInTheRuins2_87074e01 (line 84258)
 translate ru MageInTheRuins2_87074e01:
     # hec "I agree, Sarah, but we should be careful."
-    hec ""
+    hec "I agree, Sarah, but we should be careful."
 
 # MageInTheRuins2_bd83cee3 (line 84259)
 translate ru MageInTheRuins2_bd83cee3:
     # s "Careful?"
-    s ""
+    s "Careful?"
 
 # MageInTheRuins2_2c470c39 (line 84264)
 translate ru MageInTheRuins2_2c470c39:
@@ -1611,7 +1601,7 @@ translate ru MageInTheRuins2_2c470c39:
 # MageInTheRuins2_c3923c3c (line 84265)
 translate ru MageInTheRuins2_c3923c3c:
     # hec "We're well prepared, but this place...it is uniquely dangerous."
-    hec ""
+    hec "We're well prepared, but this place...it is uniquely dangerous."
 
 # MageInTheRuins2_942ae1e5 (line 84266)
 translate ru MageInTheRuins2_942ae1e5:
@@ -1621,32 +1611,32 @@ translate ru MageInTheRuins2_942ae1e5:
 # MageInTheRuins2_b3878741 (line 84267)
 translate ru MageInTheRuins2_b3878741:
     # hec "All we have is magic, but back in the old days, before the Ruin, the Gods dwelled here."
-    hec ""
+    hec "All we have is magic, but back in the old days, before the Ruin, the Gods dwelled here."
 
 # MageInTheRuins2_cb966bb1 (line 84268)
 translate ru MageInTheRuins2_cb966bb1:
     # hec "And the people who lived, studied at their feet and learned from them their Arts."
-    hec ""
+    hec "And the people who lived, studied at their feet and learned from them their Arts."
 
 # MageInTheRuins2_df7dbc17 (line 84269)
 translate ru MageInTheRuins2_df7dbc17:
     # hec "Magic, same as ours yes, but also Divinity."
-    hec ""
+    hec "Magic, same as ours yes, but also Divinity."
 
 # MageInTheRuins2_5c33c04b (line 84270)
 translate ru MageInTheRuins2_5c33c04b:
     # hec "They learned to weave, with approval of the Gods, their Divine nature into all manners of creations."
-    hec ""
+    hec "They learned to weave, with approval of the Gods, their Divine nature into all manners of creations."
 
 # MageInTheRuins2_7444c93f (line 84271)
 translate ru MageInTheRuins2_7444c93f:
     # hec "When the Gods vanished, they took with them their Divine nature."
-    hec ""
+    hec "When the Gods vanished, they took with them their Divine nature."
 
 # MageInTheRuins2_b9bcb7dc (line 84272)
 translate ru MageInTheRuins2_b9bcb7dc:
     # hec "Most of the creations and machines that the Empire had build, ceased to work instantly."
-    hec ""
+    hec "Most of the creations and machines that the Empire had build, ceased to work instantly."
 
 # MageInTheRuins2_f628e832 (line 84273)
 translate ru MageInTheRuins2_f628e832:
@@ -1656,17 +1646,17 @@ translate ru MageInTheRuins2_f628e832:
 # MageInTheRuins2_5dee3ebc (line 84274)
 translate ru MageInTheRuins2_5dee3ebc:
     # hec "Massive machines that brought water to far away places, irrigated entire provinces, broke down."
-    hec ""
+    hec "Massive machines that brought water to far away places, irrigated entire provinces, broke down."
 
 # MageInTheRuins2_b66dc287 (line 84275)
 translate ru MageInTheRuins2_b66dc287:
     # hec "The Imperial roads that were immune to damage, began to break and be overrun by nature."
-    hec ""
+    hec "The Imperial roads that were immune to damage, began to break and be overrun by nature."
 
 # MageInTheRuins2_a642ea82 (line 84276)
 translate ru MageInTheRuins2_a642ea82:
     # hec "And great floating monuments that were pinned weightlessly in the sky, came crashing down, killing countless."
-    hec ""
+    hec "And great floating monuments that were pinned weightlessly in the sky, came crashing down, killing countless."
 
 # MageInTheRuins2_12e01d84 (line 84277)
 translate ru MageInTheRuins2_12e01d84:
@@ -1676,27 +1666,27 @@ translate ru MageInTheRuins2_12e01d84:
 # MageInTheRuins2_88f94dc9 (line 84278)
 translate ru MageInTheRuins2_88f94dc9:
     # s "They're gone now. So what is left to be feared?"
-    s ""
+    s "They're gone now. So what is left to be feared?"
 
 # MageInTheRuins2_b2b0f174 (line 84279)
 translate ru MageInTheRuins2_b2b0f174:
     # hec "Remnants."
-    hec ""
+    hec "Remnants."
 
 # MageInTheRuins2_20e03f67 (line 84280)
 translate ru MageInTheRuins2_20e03f67:
     # hec "Like a fire that has been put out...sometimes, the embers burn beneath the ashes."
-    hec ""
+    hec "Like a fire that has been put out...sometimes, the embers burn beneath the ashes."
 
 # MageInTheRuins2_f82eb854 (line 84281)
 translate ru MageInTheRuins2_f82eb854:
     # hec "And the smallest of pockets of Divine energy can still remain in this world."
-    hec ""
+    hec "And the smallest of pockets of Divine energy can still remain in this world."
 
 # MageInTheRuins2_b6386831 (line 84282)
 translate ru MageInTheRuins2_b6386831:
     # hec "Even a fraction of such power is dangerous. Even to skilled mages."
-    hec ""
+    hec "Even a fraction of such power is dangerous. Even to skilled mages."
 
 # MageInTheRuins2_b3c3f6ec (line 84283)
 translate ru MageInTheRuins2_b3c3f6ec:
@@ -1706,22 +1696,22 @@ translate ru MageInTheRuins2_b3c3f6ec:
 # MageInTheRuins2_e65d463e (line 84284)
 translate ru MageInTheRuins2_e65d463e:
     # hec "And this place..."
-    hec ""
+    hec "And this place..."
 
 # MageInTheRuins2_efb99bfc (line 84285)
 translate ru MageInTheRuins2_efb99bfc:
     # hec "Gods, there was no single place in all the world more drowned in Divine energy."
-    hec ""
+    hec "Gods, there was no single place in all the world more drowned in Divine energy."
 
 # MageInTheRuins2_f1787b95 (line 84286)
 translate ru MageInTheRuins2_f1787b95:
     # hec "Remanants are sure to remain."
-    hec ""
+    hec "Remanants are sure to remain."
 
 # MageInTheRuins2_31429cbb (line 84287)
 translate ru MageInTheRuins2_31429cbb:
     # s "Like what?"
-    s ""
+    s "Like what?"
 
 # MageInTheRuins2_aa458e8b (line 84288)
 translate ru MageInTheRuins2_aa458e8b:
@@ -1731,12 +1721,12 @@ translate ru MageInTheRuins2_aa458e8b:
 # MageInTheRuins2_aecaa4dd (line 84289)
 translate ru MageInTheRuins2_aecaa4dd:
     # hec "Who knows. The Divine has no limitations."
-    hec ""
+    hec "Who knows. The Divine has no limitations."
 
 # MageInTheRuins2_4580e7ba (line 84290)
 translate ru MageInTheRuins2_4580e7ba:
     # hec "But they were known to practice flesh weaving. Unnatural creatures could still roam in the deepest pits of this place."
-    hec ""
+    hec "But they were known to practice flesh weaving. Unnatural creatures could still roam in the deepest pits of this place."
 
 # MageInTheRuins2_dfce7711 (line 84291)
 translate ru MageInTheRuins2_dfce7711:
@@ -1746,12 +1736,12 @@ translate ru MageInTheRuins2_dfce7711:
 # MageInTheRuins2_4c5bdd0f (line 84292)
 translate ru MageInTheRuins2_4c5bdd0f:
     # hec "Or nothing at all is down there, and I am merely paranoid."
-    hec ""
+    hec "Or nothing at all is down there, and I am merely paranoid."
 
 # MageInTheRuins2_62c70270 (line 84293)
 translate ru MageInTheRuins2_62c70270:
     # hec "Regardless, best we be prepared."
-    hec ""
+    hec "Regardless, best we be prepared."
 
 # MageInTheRuins2_d269e389 (line 84294)
 translate ru MageInTheRuins2_d269e389:
@@ -1796,17 +1786,17 @@ translate ru MageInTheRuins2_3ece48c1:
 # MageInTheRuins2_1e529411 (line 84318)
 translate ru MageInTheRuins2_1e529411:
     # hec "This is the Receiving Hall."
-    hec ""
+    hec "This is the Receiving Hall."
 
 # MageInTheRuins2_2808f8bd (line 84319)
 translate ru MageInTheRuins2_2808f8bd:
     # hec "All of the entrances converge on this single point."
-    hec ""
+    hec "All of the entrances converge on this single point."
 
 # MageInTheRuins2_5095a36b (line 84320)
 translate ru MageInTheRuins2_5095a36b:
     # s "It's massive."
-    s ""
+    s "It's massive."
 
 # MageInTheRuins2_bb3886fc (line 84321)
 translate ru MageInTheRuins2_bb3886fc:
@@ -1816,22 +1806,22 @@ translate ru MageInTheRuins2_bb3886fc:
 # MageInTheRuins2_492ea367 (line 84322)
 translate ru MageInTheRuins2_492ea367:
     # hec "It feels that way now, but supposedly, at the height of the Empire this place was filled up with people."
-    hec ""
+    hec "It feels that way now, but supposedly, at the height of the Empire this place was filled up with people."
 
 # MageInTheRuins2_6a8b8237 (line 84323)
 translate ru MageInTheRuins2_6a8b8237:
     # hec "It was like a busy market, except instead of trading goods, the important people of the Empire traded favors."
-    hec ""
+    hec "It was like a busy market, except instead of trading goods, the important people of the Empire traded favors."
 
 # MageInTheRuins2_4f935ed0 (line 84324)
 translate ru MageInTheRuins2_4f935ed0:
     # hec "Generals, politicians, mages. All gathered here. All united under a single banner."
-    hec ""
+    hec "Generals, politicians, mages. All gathered here. All united under a single banner."
 
 # MageInTheRuins2_c84e0386 (line 84325)
 translate ru MageInTheRuins2_c84e0386:
     # hec "There was only the Empire itself back then. No rivals or nations."
-    hec ""
+    hec "There was only the Empire itself back then. No rivals or nations."
 
 # MageInTheRuins2_61544569 (line 84326)
 translate ru MageInTheRuins2_61544569:
@@ -1851,7 +1841,7 @@ translate ru MageInTheRuins2_6dfb0d71:
 # MageInTheRuins2_c5972a48 (line 84329)
 translate ru MageInTheRuins2_c5972a48:
     # s "Where do we go from here?"
-    s ""
+    s "Where do we go from here?"
 
 # MageInTheRuins2_230723a7 (line 84330)
 translate ru MageInTheRuins2_230723a7:
@@ -1861,17 +1851,17 @@ translate ru MageInTheRuins2_230723a7:
 # MageInTheRuins2_f87642b9 (line 84331)
 translate ru MageInTheRuins2_f87642b9:
     # hec "That will take us into the inner palace grounds."
-    hec ""
+    hec "That will take us into the inner palace grounds."
 
 # MageInTheRuins2_cf9ef8d0 (line 84332)
 translate ru MageInTheRuins2_cf9ef8d0:
     # hec "There we'll find the entrance to the Labyrinth."
-    hec ""
+    hec "There we'll find the entrance to the Labyrinth."
 
 # MageInTheRuins2_a0599cc7 (line 84333)
 translate ru MageInTheRuins2_a0599cc7:
     # s "Labyrinth?"
-    s ""
+    s "Labyrinth?"
 
 # MageInTheRuins2_06759f73 (line 84334)
 translate ru MageInTheRuins2_06759f73:
@@ -1881,22 +1871,22 @@ translate ru MageInTheRuins2_06759f73:
 # MageInTheRuins2_4dcf6956 (line 84335)
 translate ru MageInTheRuins2_4dcf6956:
     # hec "A series of tunnels and rooms that runs deep below the Imperial Palace."
-    hec ""
+    hec "A series of tunnels and rooms that runs deep below the Imperial Palace."
 
 # MageInTheRuins2_be6348fa (line 84336)
 translate ru MageInTheRuins2_be6348fa:
     # hec "Above ground, the Empire kept up appearances."
-    hec ""
+    hec "Above ground, the Empire kept up appearances."
 
 # MageInTheRuins2_1951cb4c (line 84337)
 translate ru MageInTheRuins2_1951cb4c:
     # hec "Below ground, they carried out their secrets and took care of their enemies."
-    hec ""
+    hec "Below ground, they carried out their secrets and took care of their enemies."
 
 # MageInTheRuins2_3f8a8ce5 (line 84338)
 translate ru MageInTheRuins2_3f8a8ce5:
     # hec "I suspect that's where we'll find what we're looking for."
-    hec ""
+    hec "I suspect that's where we'll find what we're looking for."
 
 # MageInTheRuins2_852d56bc (line 84355)
 translate ru MageInTheRuins2_852d56bc:
@@ -1916,12 +1906,12 @@ translate ru MageInTheRuins2_4f49eaf5:
 # MageInTheRuins2_926d82fd (line 84358)
 translate ru MageInTheRuins2_926d82fd:
     # s "I thought that the Empire was united."
-    s ""
+    s "I thought that the Empire was united."
 
 # MageInTheRuins2_5705ab38 (line 84359)
 translate ru MageInTheRuins2_5705ab38:
     # s "A paradise."
-    s ""
+    s "A paradise."
 
 # MageInTheRuins2_d9fd63f9 (line 84360)
 translate ru MageInTheRuins2_d9fd63f9:
@@ -1931,7 +1921,7 @@ translate ru MageInTheRuins2_d9fd63f9:
 # MageInTheRuins2_30e3a55d (line 84361)
 translate ru MageInTheRuins2_30e3a55d:
     # hec "That's what Xan told you, I bet."
-    hec ""
+    hec "That's what Xan told you, I bet."
 
 # MageInTheRuins2_867f9d07 (line 84362)
 translate ru MageInTheRuins2_867f9d07:
@@ -1946,27 +1936,27 @@ translate ru MageInTheRuins2_27666f85:
 # MageInTheRuins2_17b112f1 (line 84364)
 translate ru MageInTheRuins2_17b112f1:
     # hec "It's true that the Empire had no rivals at the time."
-    hec ""
+    hec "It's true that the Empire had no rivals at the time."
 
 # MageInTheRuins2_f0c585e7 (line 84365)
 translate ru MageInTheRuins2_f0c585e7:
     # hec "With the support of the Pantheon, any rival was an absurdity."
-    hec ""
+    hec "With the support of the Pantheon, any rival was an absurdity."
 
 # MageInTheRuins2_77c29fbe (line 84366)
 translate ru MageInTheRuins2_77c29fbe:
     # hec "But an Empire is a little like a family."
-    hec ""
+    hec "But an Empire is a little like a family."
 
 # MageInTheRuins2_b017e96f (line 84367)
 translate ru MageInTheRuins2_b017e96f:
     # hec "Even among families, people fight."
-    hec ""
+    hec "Even among families, people fight."
 
 # MageInTheRuins2_89bfacb6 (line 84368)
 translate ru MageInTheRuins2_89bfacb6:
     # s "So it wasn't a perfect world?"
-    s ""
+    s "So it wasn't a perfect world?"
 
 # MageInTheRuins2_0b8ce631 (line 84369)
 translate ru MageInTheRuins2_0b8ce631:
@@ -1976,17 +1966,17 @@ translate ru MageInTheRuins2_0b8ce631:
 # MageInTheRuins2_b3ea9747 (line 84370)
 translate ru MageInTheRuins2_b3ea9747:
     # hec "With the aid of the Gods, their technology and mastery of magic was far beyond what we're capable of now."
-    hec ""
+    hec "With the aid of the Gods, their technology and mastery of magic was far beyond what we're capable of now."
 
 # MageInTheRuins2_7706e36f (line 84371)
 translate ru MageInTheRuins2_7706e36f:
     # hec "But people still fought. They argued."
-    hec ""
+    hec "But people still fought. They argued."
 
 # MageInTheRuins2_e676a9f2 (line 84372)
 translate ru MageInTheRuins2_e676a9f2:
     # hec "Officially, the Empire only ever knew peace. But at times, that peace was closer to a civil war."
-    hec ""
+    hec "Officially, the Empire only ever knew peace. But at times, that peace was closer to a civil war."
 
 # MageInTheRuins2_1b945bf9 (line 84373)
 translate ru MageInTheRuins2_1b945bf9:
@@ -2006,7 +1996,7 @@ translate ru MageInTheRuins2_d59ddb67:
 # MageInTheRuins2_1d82f432 (line 84376)
 translate ru MageInTheRuins2_1d82f432:
     # s "What did they fight over?"
-    s ""
+    s "What did they fight over?"
 
 # MageInTheRuins2_9df71d27 (line 84377)
 translate ru MageInTheRuins2_9df71d27:
@@ -2016,17 +2006,17 @@ translate ru MageInTheRuins2_9df71d27:
 # MageInTheRuins2_d2561b43 (line 84378)
 translate ru MageInTheRuins2_d2561b43:
     # hec "Same thing people always fight over, I suppose."
-    hec ""
+    hec "Same thing people always fight over, I suppose."
 
 # MageInTheRuins2_ab9b6e74 (line 84379)
 translate ru MageInTheRuins2_ab9b6e74:
     # hec "Wealth, power, love."
-    hec ""
+    hec "Wealth, power, love."
 
 # MageInTheRuins2_a4960780 (line 84380)
 translate ru MageInTheRuins2_a4960780:
     # s "But back then, there were the Gods, right?"
-    s ""
+    s "But back then, there were the Gods, right?"
 
 # MageInTheRuins2_626a94c0 (line 84381)
 translate ru MageInTheRuins2_626a94c0:
@@ -2036,17 +2026,17 @@ translate ru MageInTheRuins2_626a94c0:
 # MageInTheRuins2_5a7590b8 (line 84382)
 translate ru MageInTheRuins2_5a7590b8:
     # s "So, couldn't they keep order?"
-    s ""
+    s "So, couldn't they keep order?"
 
 # MageInTheRuins2_2785d258 (line 84383)
 translate ru MageInTheRuins2_2785d258:
     # hec "Oh, they could, and they did at times."
-    hec ""
+    hec "Oh, they could, and they did at times."
 
 # MageInTheRuins2_60f2eee9 (line 84384)
 translate ru MageInTheRuins2_60f2eee9:
     # hec "But between the Gods and the world, there is a sort of cyclical relationship."
-    hec ""
+    hec "But between the Gods and the world, there is a sort of cyclical relationship."
 
 # MageInTheRuins2_c1f3e996 (line 84385)
 translate ru MageInTheRuins2_c1f3e996:
@@ -2056,22 +2046,22 @@ translate ru MageInTheRuins2_c1f3e996:
 # MageInTheRuins2_7e4a8e2b (line 84386)
 translate ru MageInTheRuins2_7e4a8e2b:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # MageInTheRuins2_c749c0cc (line 84387)
 translate ru MageInTheRuins2_c749c0cc:
     # hec "Well, the Gods are manifestations of a world's most essential self."
-    hec ""
+    hec "Well, the Gods are manifestations of a world's most essential self."
 
 # MageInTheRuins2_92cf58cc (line 84388)
 translate ru MageInTheRuins2_92cf58cc:
     # hec "And in turn, they impose themselves back on the world."
-    hec ""
+    hec "And in turn, they impose themselves back on the world."
 
 # MageInTheRuins2_7ce9ede0 (line 84389)
 translate ru MageInTheRuins2_7ce9ede0:
     # hec "The world births them, and they birth the world, that in turn births them, and on and on and on."
-    hec ""
+    hec "The world births them, and they birth the world, that in turn births them, and on and on and on."
 
 # MageInTheRuins2_e0fb5c6c (line 84390)
 translate ru MageInTheRuins2_e0fb5c6c:
@@ -2081,22 +2071,22 @@ translate ru MageInTheRuins2_e0fb5c6c:
 # MageInTheRuins2_0d505d48 (line 84391)
 translate ru MageInTheRuins2_0d505d48:
     # hec "Specifically, what it means is that the Pantheon, the Gods of our world, shaped the world in their own image."
-    hec ""
+    hec "Specifically, what it means is that the Pantheon, the Gods of our world, shaped the world in their own image."
 
 # MageInTheRuins2_0ac3720b (line 84392)
 translate ru MageInTheRuins2_0ac3720b:
     # hec "A hierarchy."
-    hec ""
+    hec "A hierarchy."
 
 # MageInTheRuins2_0e7a0c8d (line 84393)
 translate ru MageInTheRuins2_0e7a0c8d:
     # hec "Just like in the Pantheon, some greater Gods sit atop, and the smaller Gods sit below."
-    hec ""
+    hec "Just like in the Pantheon, some greater Gods sit atop, and the smaller Gods sit below."
 
 # MageInTheRuins2_e3f035a8 (line 84394)
 translate ru MageInTheRuins2_e3f035a8:
     # hec "And in turn, they impose their own will onto the world."
-    hec ""
+    hec "And in turn, they impose their own will onto the world."
 
 # MageInTheRuins2_be4d7e65 (line 84395)
 translate ru MageInTheRuins2_be4d7e65:
@@ -2106,37 +2096,37 @@ translate ru MageInTheRuins2_be4d7e65:
 # MageInTheRuins2_8997b722 (line 84396)
 translate ru MageInTheRuins2_8997b722:
     # hec "So they give birth to a hierarchical world for people as well."
-    hec ""
+    hec "So they give birth to a hierarchical world for people as well."
 
 # MageInTheRuins2_5dba6aa3 (line 84397)
 translate ru MageInTheRuins2_5dba6aa3:
     # hec "The Gods could produce gold from thin air if they wanted to, but what would be the purpose?"
-    hec ""
+    hec "The Gods could produce gold from thin air if they wanted to, but what would be the purpose?"
 
 # MageInTheRuins2_1b4e355e (line 84398)
 translate ru MageInTheRuins2_1b4e355e:
     # hec "To enforce a hierarchy, it helps to create want and desire."
-    hec ""
+    hec "To enforce a hierarchy, it helps to create want and desire."
 
 # MageInTheRuins2_9b44e9cd (line 84399)
 translate ru MageInTheRuins2_9b44e9cd:
     # hec "To make some have much, and others have little."
-    hec ""
+    hec "To make some have much, and others have little."
 
 # MageInTheRuins2_f5dd8550 (line 84400)
 translate ru MageInTheRuins2_f5dd8550:
     # hec "They laid the foundations for the world to shape itself in the only way that it ever could."
-    hec ""
+    hec "They laid the foundations for the world to shape itself in the only way that it ever could."
 
 # MageInTheRuins2_5db95b11 (line 84401)
 translate ru MageInTheRuins2_5db95b11:
     # hec "Like rolling a boulder down a hill. You only give it one push, yet everything that happens after, is produced by your first action."
-    hec ""
+    hec "Like rolling a boulder down a hill. You only give it one push, yet everything that happens after, is produced by your first action."
 
 # MageInTheRuins2_cff05685 (line 84402)
 translate ru MageInTheRuins2_cff05685:
     # s "I see..."
-    s ""
+    s "I see..."
 
 # MageInTheRuins2_5293669f (line 84403)
 translate ru MageInTheRuins2_5293669f:
@@ -2161,17 +2151,17 @@ translate ru MageInTheRuins2_275323ed:
 # MageInTheRuins2_7720e797 (line 84422)
 translate ru MageInTheRuins2_7720e797:
     # s "I know that door from somewhere..."
-    s ""
+    s "I know that door from somewhere..."
 
 # MageInTheRuins2_c3a3b154 (line 84437)
 translate ru MageInTheRuins2_c3a3b154:
     # hec "They were made from a mixture of magic and metal, though the exact technique has long been lost."
-    hec ""
+    hec "They were made from a mixture of magic and metal, though the exact technique has long been lost."
 
 # MageInTheRuins2_f71b270a (line 84438)
 translate ru MageInTheRuins2_f71b270a:
     # hec "But, fortunately, they still function."
-    hec ""
+    hec "But, fortunately, they still function."
 
 # MageInTheRuins2_03a78c58 (line 84439)
 translate ru MageInTheRuins2_03a78c58:
@@ -2201,22 +2191,22 @@ translate ru MageInTheRuins2_b5c8d30a:
 # MageInTheRuins2_6b7ffde7 (line 84461)
 translate ru MageInTheRuins2_6b7ffde7:
     # hec "These tunnels will take us deeper into the labyrinth."
-    hec ""
+    hec "These tunnels will take us deeper into the labyrinth."
 
 # MageInTheRuins2_4fc94a2b (line 84462)
 translate ru MageInTheRuins2_4fc94a2b:
     # hec "The network of tunnels and rooms stretches on for miles."
-    hec ""
+    hec "The network of tunnels and rooms stretches on for miles."
 
 # MageInTheRuins2_b95266d6 (line 84463)
 translate ru MageInTheRuins2_b95266d6:
     # hec "If you end up lost, there is no guarentee that we'll be able to find each other again."
-    hec ""
+    hec "If you end up lost, there is no guarentee that we'll be able to find each other again."
 
 # MageInTheRuins2_ae4df45b (line 84464)
 translate ru MageInTheRuins2_ae4df45b:
     # hec "So stick together."
-    hec ""
+    hec "So stick together."
 
 # MageInTheRuins2_a269213e (line 84465)
 translate ru MageInTheRuins2_a269213e:
@@ -2261,7 +2251,7 @@ translate ru MageInTheRuins2_c055ac48:
 # MageInTheRuins2_dd5b2a57 (line 84473)
 translate ru MageInTheRuins2_dd5b2a57:
     # s "How do you know where to go?"
-    s ""
+    s "How do you know where to go?"
 
 # MageInTheRuins2_7b90978d (line 84474)
 translate ru MageInTheRuins2_7b90978d:
@@ -2271,7 +2261,7 @@ translate ru MageInTheRuins2_7b90978d:
 # MageInTheRuins2_2516e057 (line 84475)
 translate ru MageInTheRuins2_2516e057:
     # hec "I've studied the maps plenty of times when I was still studying in the Citadel."
-    hec ""
+    hec "I've studied the maps plenty of times when I was still studying in the Citadel."
 
 # MageInTheRuins2_b60cc671 (line 84476)
 translate ru MageInTheRuins2_b60cc671:
@@ -2286,12 +2276,12 @@ translate ru MageInTheRuins2_610fe96d:
 # MageInTheRuins2_dbb7e830 (line 84478)
 translate ru MageInTheRuins2_dbb7e830:
     # hec "As for the general direction, I follow the pulsing energy."
-    hec ""
+    hec "As for the general direction, I follow the pulsing energy."
 
 # MageInTheRuins2_449c50a8 (line 84479)
 translate ru MageInTheRuins2_449c50a8:
     # s "You studied it at the Citadel? Why?"
-    s ""
+    s "You studied it at the Citadel? Why?"
 
 # MageInTheRuins2_3d85b5ba (line 84480)
 translate ru MageInTheRuins2_3d85b5ba:
@@ -2301,27 +2291,27 @@ translate ru MageInTheRuins2_3d85b5ba:
 # MageInTheRuins2_b49f0da8 (line 84481)
 translate ru MageInTheRuins2_b49f0da8:
     # hec "Oh, I forgot Xan kept you all to himself."
-    hec ""
+    hec "Oh, I forgot Xan kept you all to himself."
 
 # MageInTheRuins2_a9b6933d (line 84482)
 translate ru MageInTheRuins2_a9b6933d:
     # hec "The Order has an obsession with the past. You have nearly as many classes related to history as you do spellcasting."
-    hec ""
+    hec "The Order has an obsession with the past. You have nearly as many classes related to history as you do spellcasting."
 
 # MageInTheRuins2_36aaaf2a (line 84483)
 translate ru MageInTheRuins2_36aaaf2a:
     # hec "And Varany, the First City, the Imperial Palace, the Imperial Dynasty..."
-    hec ""
+    hec "And Varany, the First City, the Imperial Palace, the Imperial Dynasty..."
 
 # MageInTheRuins2_dae814d5 (line 84484)
 translate ru MageInTheRuins2_dae814d5:
     # hec "They're obsessed with all of it."
-    hec ""
+    hec "They're obsessed with all of it."
 
 # MageInTheRuins2_041716c6 (line 84485)
 translate ru MageInTheRuins2_041716c6:
     # hec "Make you read it, over and over again. And they test it too, so you actually have to read all of it."
-    hec ""
+    hec "Make you read it, over and over again. And they test it too, so you actually have to read all of it."
 
 # MageInTheRuins2_021e6932 (line 84486)
 translate ru MageInTheRuins2_021e6932:
@@ -2331,7 +2321,7 @@ translate ru MageInTheRuins2_021e6932:
 # MageInTheRuins2_d692c473 (line 84487)
 translate ru MageInTheRuins2_d692c473:
     # hec "Still, it feels different to be here compared to reading about it."
-    hec ""
+    hec "Still, it feels different to be here compared to reading about it."
 
 # MageInTheRuins2_3d4d301e (line 84488)
 translate ru MageInTheRuins2_3d4d301e:
@@ -2341,7 +2331,7 @@ translate ru MageInTheRuins2_3d4d301e:
 # MageInTheRuins2_1d84f468 (line 84489)
 translate ru MageInTheRuins2_1d84f468:
     # s "You said you read a lot about this place?"
-    s ""
+    s "You said you read a lot about this place?"
 
 # MageInTheRuins2_0cec65be (line 84490)
 translate ru MageInTheRuins2_0cec65be:
@@ -2351,42 +2341,42 @@ translate ru MageInTheRuins2_0cec65be:
 # MageInTheRuins2_863cb7c3 (line 84491)
 translate ru MageInTheRuins2_863cb7c3:
     # s "Why did they build it?"
-    s ""
+    s "Why did they build it?"
 
 # MageInTheRuins2_65805c03 (line 84492)
 translate ru MageInTheRuins2_65805c03:
     # hec "Well, the structure formed over time."
-    hec ""
+    hec "Well, the structure formed over time."
 
 # MageInTheRuins2_3d35b4ac (line 84493)
 translate ru MageInTheRuins2_3d35b4ac:
     # hec "At the start, the Empire was more unified."
-    hec ""
+    hec "At the start, the Empire was more unified."
 
 # MageInTheRuins2_31c20c82 (line 84494)
 translate ru MageInTheRuins2_31c20c82:
     # hec "But with the passing of the centuries, as it expanded and grew both in size and population, the divisions also grew."
-    hec ""
+    hec "But with the passing of the centuries, as it expanded and grew both in size and population, the divisions also grew."
 
 # MageInTheRuins2_24eedacb (line 84495)
 translate ru MageInTheRuins2_24eedacb:
     # hec "It was one thing for people to slave away for an emperor or empress that they could see themselves."
-    hec ""
+    hec "It was one thing for people to slave away for an emperor or empress that they could see themselves."
 
 # MageInTheRuins2_9f4307f9 (line 84496)
 translate ru MageInTheRuins2_9f4307f9:
     # hec "But by the end, people lived and died in cities far from this one, slaving away in service of a system they knew only by name."
-    hec ""
+    hec "But by the end, people lived and died in cities far from this one, slaving away in service of a system they knew only by name."
 
 # MageInTheRuins2_5b28dd0f (line 84497)
 translate ru MageInTheRuins2_5b28dd0f:
     # hec "Local rulers would seek to expand their own power at the expense of the Imperial system."
-    hec ""
+    hec "Local rulers would seek to expand their own power at the expense of the Imperial system."
 
 # MageInTheRuins2_3609d5c6 (line 84498)
 translate ru MageInTheRuins2_3609d5c6:
     # hec "So as the Empire grew and expanded, so did the instability."
-    hec ""
+    hec "So as the Empire grew and expanded, so did the instability."
 
 # MageInTheRuins2_2b0464b2 (line 84499)
 translate ru MageInTheRuins2_2b0464b2:
@@ -2396,42 +2386,42 @@ translate ru MageInTheRuins2_2b0464b2:
 # MageInTheRuins2_1230eac0 (line 84500)
 translate ru MageInTheRuins2_1230eac0:
     # hec "And so, as some of these threats grew more serious, the Imperial family decided to resolve it with a harsher hand."
-    hec ""
+    hec "And so, as some of these threats grew more serious, the Imperial family decided to resolve it with a harsher hand."
 
 # MageInTheRuins2_9ec2d2e5 (line 84501)
 translate ru MageInTheRuins2_9ec2d2e5:
     # hec "So they made places like these, prisons deep below the earth."
-    hec ""
+    hec "So they made places like these, prisons deep below the earth."
 
 # MageInTheRuins2_44f57396 (line 84502)
 translate ru MageInTheRuins2_44f57396:
     # hec "Here they vanished their rivals. Performed their cruelties."
-    hec ""
+    hec "Here they vanished their rivals. Performed their cruelties."
 
 # MageInTheRuins2_a2930a76 (line 84503)
 translate ru MageInTheRuins2_a2930a76:
     # s "Cruelties?"
-    s ""
+    s "Cruelties?"
 
 # MageInTheRuins2_90948fd4 (line 84504)
 translate ru MageInTheRuins2_90948fd4:
     # hec "Torture, both practical and magical in nature."
-    hec ""
+    hec "Torture, both practical and magical in nature."
 
 # MageInTheRuins2_e4a2ffc0 (line 84505)
 translate ru MageInTheRuins2_e4a2ffc0:
     # hec "There are reports that sicken even to read, let alone imagine."
-    hec ""
+    hec "There are reports that sicken even to read, let alone imagine."
 
 # MageInTheRuins2_851709d0 (line 84506)
 translate ru MageInTheRuins2_851709d0:
     # hec "And the numbers..."
-    hec ""
+    hec "And the numbers..."
 
 # MageInTheRuins2_ec9c14d3 (line 84507)
 translate ru MageInTheRuins2_ec9c14d3:
     # s "Were there many?"
-    s ""
+    s "Were there many?"
 
 # MageInTheRuins2_0457e34c (line 84508)
 translate ru MageInTheRuins2_0457e34c:
@@ -2441,32 +2431,32 @@ translate ru MageInTheRuins2_0457e34c:
 # MageInTheRuins2_416d3b4d (line 84509)
 translate ru MageInTheRuins2_416d3b4d:
     # hec "Not at first. But with each passing Dynasty, their paranoia grew."
-    hec ""
+    hec "Not at first. But with each passing Dynasty, their paranoia grew."
 
 # MageInTheRuins2_014e41bc (line 84510)
 translate ru MageInTheRuins2_014e41bc:
     # hec "The numbers of enemies was perhaps the same, but the number of imagined enemies grew."
-    hec ""
+    hec "The numbers of enemies was perhaps the same, but the number of imagined enemies grew."
 
 # MageInTheRuins2_f5a4792f (line 84511)
 translate ru MageInTheRuins2_f5a4792f:
     # hec "And the Imperial family already had its perfect prison."
-    hec ""
+    hec "And the Imperial family already had its perfect prison."
 
 # MageInTheRuins2_743a88f3 (line 84512)
 translate ru MageInTheRuins2_743a88f3:
     # hec "So they just dug deeper."
-    hec ""
+    hec "So they just dug deeper."
 
 # MageInTheRuins2_a08ef855 (line 84513)
 translate ru MageInTheRuins2_a08ef855:
     # hec "Adding more tunnels and more rooms, endlessly down into the earth, forever inventing new places to hide away their enemies."
-    hec ""
+    hec "Adding more tunnels and more rooms, endlessly down into the earth, forever inventing new places to hide away their enemies."
 
 # MageInTheRuins2_88977db4 (line 84514)
 translate ru MageInTheRuins2_88977db4:
     # hec "Silencing their screams."
-    hec ""
+    hec "Silencing their screams."
 
 # MageInTheRuins2_143eaf3b (line 84515)
 translate ru MageInTheRuins2_143eaf3b:
@@ -2476,27 +2466,27 @@ translate ru MageInTheRuins2_143eaf3b:
 # MageInTheRuins2_a571c4de (line 84516)
 translate ru MageInTheRuins2_a571c4de:
     # hec "When the Imperial family fell deeper into darkness, they began to seek out new sources of power."
-    hec ""
+    hec "When the Imperial family fell deeper into darkness, they began to seek out new sources of power."
 
 # MageInTheRuins2_c82cefa9 (line 84517)
 translate ru MageInTheRuins2_c82cefa9:
     # hec "So places like these became both prisons and schools."
-    hec ""
+    hec "So places like these became both prisons and schools."
 
 # MageInTheRuins2_73dcbc44 (line 84518)
 translate ru MageInTheRuins2_73dcbc44:
     # s "Schools?"
-    s ""
+    s "Schools?"
 
 # MageInTheRuins2_464b1c9a (line 84519)
 translate ru MageInTheRuins2_464b1c9a:
     # hec "Yes. Here they formed schools of magic that were tasked with researching wicked fields."
-    hec ""
+    hec "Yes. Here they formed schools of magic that were tasked with researching wicked fields."
 
 # MageInTheRuins2_513b514b (line 84520)
 translate ru MageInTheRuins2_513b514b:
     # hec "The very field of Daemonology was first discovered here."
-    hec ""
+    hec "The very field of Daemonology was first discovered here."
 
 # MageInTheRuins2_30a9f9a8 (line 84521)
 translate ru MageInTheRuins2_30a9f9a8:
@@ -2506,7 +2496,7 @@ translate ru MageInTheRuins2_30a9f9a8:
 # MageInTheRuins2_1b00e647 (line 84522)
 translate ru MageInTheRuins2_1b00e647:
     # s "Why didn't the Gods just put a stop to it?"
-    s ""
+    s "Why didn't the Gods just put a stop to it?"
 
 # MageInTheRuins2_dc3ce8dd (line 84523)
 translate ru MageInTheRuins2_dc3ce8dd:
@@ -2516,42 +2506,42 @@ translate ru MageInTheRuins2_dc3ce8dd:
 # MageInTheRuins2_932267ee (line 84524)
 translate ru MageInTheRuins2_932267ee:
     # hec "A stop to what?"
-    hec ""
+    hec "A stop to what?"
 
 # MageInTheRuins2_8c27ea9c (line 84525)
 translate ru MageInTheRuins2_8c27ea9c:
     # s "All this torture?"
-    s ""
+    s "All this torture?"
 
 # MageInTheRuins2_46e52b3b (line 84526)
 translate ru MageInTheRuins2_46e52b3b:
     # hec "You think the Gods worry about the single lives of people?"
-    hec ""
+    hec "You think the Gods worry about the single lives of people?"
 
 # MageInTheRuins2_2d610ffa (line 84527)
 translate ru MageInTheRuins2_2d610ffa:
     # hec "They cared nothing for those who ended up here. Much less for the Arts that the Imperial family pursued."
-    hec ""
+    hec "They cared nothing for those who ended up here. Much less for the Arts that the Imperial family pursued."
 
 # MageInTheRuins2_5a90a4ed (line 84528)
 translate ru MageInTheRuins2_5a90a4ed:
     # hec "The Gods knew all of it, and they never raised a finger."
-    hec ""
+    hec "The Gods knew all of it, and they never raised a finger."
 
 # MageInTheRuins2_be9f20a8 (line 84529)
 translate ru MageInTheRuins2_be9f20a8:
     # s "But what about Daemonology?"
-    s ""
+    s "But what about Daemonology?"
 
 # MageInTheRuins2_42126420 (line 84530)
 translate ru MageInTheRuins2_42126420:
     # hec "What about it?"
-    hec ""
+    hec "What about it?"
 
 # MageInTheRuins2_049f476f (line 84531)
 translate ru MageInTheRuins2_049f476f:
     # s "That is the Art that caused the Ruin, no? Surely the Gods would have cared to prevent that."
-    s ""
+    s "That is the Art that caused the Ruin, no? Surely the Gods would have cared to prevent that."
 
 # MageInTheRuins2_95d559dd (line 84532)
 translate ru MageInTheRuins2_95d559dd:
@@ -2561,32 +2551,32 @@ translate ru MageInTheRuins2_95d559dd:
 # MageInTheRuins2_de6044bc (line 84533)
 translate ru MageInTheRuins2_de6044bc:
     # hec "Yes, perhaps they would have."
-    hec ""
+    hec "Yes, perhaps they would have."
 
 # MageInTheRuins2_b6df4a09 (line 84534)
 translate ru MageInTheRuins2_b6df4a09:
     # hec "But out of all the Arts, Daemonology is the only one that is truly unique."
-    hec ""
+    hec "But out of all the Arts, Daemonology is the only one that is truly unique."
 
 # MageInTheRuins2_12cc0f93 (line 84535)
 translate ru MageInTheRuins2_12cc0f93:
     # s "How is it unique?"
-    s ""
+    s "How is it unique?"
 
 # MageInTheRuins2_202e64b5 (line 84536)
 translate ru MageInTheRuins2_202e64b5:
     # hec "Because every magical Art is a product of this world. It exists within this world."
-    hec ""
+    hec "Because every magical Art is a product of this world. It exists within this world."
 
 # MageInTheRuins2_0a0a7ed3 (line 84537)
 translate ru MageInTheRuins2_0a0a7ed3:
     # hec "Daemonology, however, is the only one that isn't native to this world."
-    hec ""
+    hec "Daemonology, however, is the only one that isn't native to this world."
 
 # MageInTheRuins2_0ab84262 (line 84538)
 translate ru MageInTheRuins2_0ab84262:
     # s "It's a magic from a different world?"
-    s ""
+    s "It's a magic from a different world?"
 
 # MageInTheRuins2_54a73cdd (line 84539)
 translate ru MageInTheRuins2_54a73cdd:
@@ -2596,22 +2586,22 @@ translate ru MageInTheRuins2_54a73cdd:
 # MageInTheRuins2_232e2994 (line 84540)
 translate ru MageInTheRuins2_232e2994:
     # hec "No, it's rather, a magic from the space between worlds."
-    hec ""
+    hec "No, it's rather, a magic from the space between worlds."
 
 # MageInTheRuins2_f4d71872 (line 84541)
 translate ru MageInTheRuins2_f4d71872:
     # hec "All the different worlds exist in spheres, which sit upon one another like rocks."
-    hec ""
+    hec "All the different worlds exist in spheres, which sit upon one another like rocks."
 
 # MageInTheRuins2_6ed3a79e (line 84542)
 translate ru MageInTheRuins2_6ed3a79e:
     # hec "But in between the rocks, there is space."
-    hec ""
+    hec "But in between the rocks, there is space."
 
 # MageInTheRuins2_63ae0dd8 (line 84543)
 translate ru MageInTheRuins2_63ae0dd8:
     # hec "That is what Daemonology is, the magic of the space between the worlds. The essential magic that operates the Cosmos."
-    hec ""
+    hec "That is what Daemonology is, the magic of the space between the worlds. The essential magic that operates the Cosmos."
 
 # MageInTheRuins2_8077e8c4 (line 84544)
 translate ru MageInTheRuins2_8077e8c4:
@@ -2621,37 +2611,37 @@ translate ru MageInTheRuins2_8077e8c4:
 # MageInTheRuins2_111f7092 (line 84545)
 translate ru MageInTheRuins2_111f7092:
     # hec "And so to the Gods, such a magic was an absurdity."
-    hec ""
+    hec "And so to the Gods, such a magic was an absurdity."
 
 # MageInTheRuins2_9aec2ff0 (line 84546)
 translate ru MageInTheRuins2_9aec2ff0:
     # hec "Because the Gods know everything about their own world, past, present, future."
-    hec ""
+    hec "Because the Gods know everything about their own world, past, present, future."
 
 # MageInTheRuins2_90e0a9e5 (line 84547)
 translate ru MageInTheRuins2_90e0a9e5:
     # hec "So they cannot imagine that there would be anything that was beyond their knowledge."
-    hec ""
+    hec "So they cannot imagine that there would be anything that was beyond their knowledge."
 
 # MageInTheRuins2_af58cba0 (line 84548)
 translate ru MageInTheRuins2_af58cba0:
     # hec "And so when they saw the small little ants, playing underground, trying to conjure op new magic, they could only laugh."
-    hec ""
+    hec "And so when they saw the small little ants, playing underground, trying to conjure op new magic, they could only laugh."
 
 # MageInTheRuins2_97fa3caa (line 84549)
 translate ru MageInTheRuins2_97fa3caa:
     # hec "Because the Gods knew it would never work."
-    hec ""
+    hec "Because the Gods knew it would never work."
 
 # MageInTheRuins2_8461eaa7 (line 84550)
 translate ru MageInTheRuins2_8461eaa7:
     # hec "They knew it as surely as they knew all others things."
-    hec ""
+    hec "They knew it as surely as they knew all others things."
 
 # MageInTheRuins2_ebd1ebe8 (line 84551)
 translate ru MageInTheRuins2_ebd1ebe8:
     # hec "And everything they had ever known, had come to pass, down to the very atom."
-    hec ""
+    hec "And everything they had ever known, had come to pass, down to the very atom."
 
 # MageInTheRuins2_2ff5e5f6 (line 84552)
 translate ru MageInTheRuins2_2ff5e5f6:
@@ -2661,12 +2651,12 @@ translate ru MageInTheRuins2_2ff5e5f6:
 # MageInTheRuins2_8a4e019f (line 84553)
 translate ru MageInTheRuins2_8a4e019f:
     # hec "But they were wrong only once, and the world paid for it."
-    hec ""
+    hec "But they were wrong only once, and the world paid for it."
 
 # MageInTheRuins2_e486d47d (line 84554)
 translate ru MageInTheRuins2_e486d47d:
     # s "The Empress and her spell."
-    s ""
+    s "The Empress and her spell."
 
 # MageInTheRuins2_0177c390 (line 84555)
 translate ru MageInTheRuins2_0177c390:
@@ -2676,17 +2666,17 @@ translate ru MageInTheRuins2_0177c390:
 # MageInTheRuins2_25a7ed6f (line 84556)
 translate ru MageInTheRuins2_25a7ed6f:
     # hec "Born from this place, deep below the ground, the Gods imagined it would fail."
-    hec ""
+    hec "Born from this place, deep below the ground, the Gods imagined it would fail."
 
 # MageInTheRuins2_721eaef7 (line 84557)
 translate ru MageInTheRuins2_721eaef7:
     # hec "So they did nothing to stop her."
-    hec ""
+    hec "So they did nothing to stop her."
 
 # MageInTheRuins2_8848a8f4 (line 84558)
 translate ru MageInTheRuins2_8848a8f4:
     # hec "Nothing to stop her from drawing another world into ours."
-    hec ""
+    hec "Nothing to stop her from drawing another world into ours."
 
 # MageInTheRuins2_a696d4db (line 84559)
 translate ru MageInTheRuins2_a696d4db:
@@ -2696,22 +2686,22 @@ translate ru MageInTheRuins2_a696d4db:
 # MageInTheRuins2_4f909aef (line 84560)
 translate ru MageInTheRuins2_4f909aef:
     # s "But why did nobody try to warn the Gods?"
-    s ""
+    s "But why did nobody try to warn the Gods?"
 
 # MageInTheRuins2_ed5b94d3 (line 84561)
 translate ru MageInTheRuins2_ed5b94d3:
     # hec "Oh, they did."
-    hec ""
+    hec "Oh, they did."
 
 # MageInTheRuins2_84504519 (line 84562)
 translate ru MageInTheRuins2_84504519:
     # hec "Many times over."
-    hec ""
+    hec "Many times over."
 
 # MageInTheRuins2_84bd2fdc (line 84563)
 translate ru MageInTheRuins2_84bd2fdc:
     # hec "But what do you expect the Gods to do when ants crawl before them, suggesting they know something that the Gods do not?"
-    hec ""
+    hec "But what do you expect the Gods to do when ants crawl before them, suggesting they know something that the Gods do not?"
 
 # MageInTheRuins2_bbb0ae7f (line 84564)
 translate ru MageInTheRuins2_bbb0ae7f:
@@ -2721,7 +2711,7 @@ translate ru MageInTheRuins2_bbb0ae7f:
 # MageInTheRuins2_b274a6a4 (line 84565)
 translate ru MageInTheRuins2_b274a6a4:
     # hec "They only knew when it was too late."
-    hec ""
+    hec "They only knew when it was too late."
 
 # MageInTheRuins2_44674236 (line 84579)
 translate ru MageInTheRuins2_44674236:
@@ -2741,12 +2731,12 @@ translate ru MageInTheRuins2_5326f999:
 # MageInTheRuins2_716dd334 (line 84583)
 translate ru MageInTheRuins2_716dd334:
     # gab "Wait!"
-    gab ""
+    gab "Wait!"
 
 # MageInTheRuins2_387ce1c5 (line 84584)
 translate ru MageInTheRuins2_387ce1c5:
     # hec "Please, Gabriel, no need to play the hero."
-    hec ""
+    hec "Please, Gabriel, no need to play the hero."
 
 # MageInTheRuins2_0e72e387 (line 84599)
 translate ru MageInTheRuins2_0e72e387:
@@ -2756,7 +2746,7 @@ translate ru MageInTheRuins2_0e72e387:
 # MageInTheRuins2_f38172ff (line 84600)
 translate ru MageInTheRuins2_f38172ff:
     # gab "Something moves in the dark."
-    gab ""
+    gab "Something moves in the dark."
 
 # MageInTheRuins2_9bcc4f7e (line 84601)
 translate ru MageInTheRuins2_9bcc4f7e:
@@ -2781,12 +2771,12 @@ translate ru MageInTheRuins2_092c1d3d:
 # MageInTheRuins2_c1f76c2c (line 84609)
 translate ru MageInTheRuins2_c1f76c2c:
     # hec "Where?"
-    hec ""
+    hec "Where?"
 
 # MageInTheRuins2_c6975bf1 (line 84610)
 translate ru MageInTheRuins2_c6975bf1:
     # hec "Where did you see it?"
-    hec ""
+    hec "Where did you see it?"
 
 # MageInTheRuins2_9aa6df35 (line 84611)
 translate ru MageInTheRuins2_9aa6df35:
@@ -2831,7 +2821,7 @@ translate ru MageInTheRuins2_ca97b499:
 # MageInTheRuins2_c84600d4 (line 84632)
 translate ru MageInTheRuins2_c84600d4:
     # s "What is that..."
-    s ""
+    s "What is that..."
 
 # MageInTheRuins2_63b18f2f (line 84633)
 translate ru MageInTheRuins2_63b18f2f:
@@ -2841,7 +2831,7 @@ translate ru MageInTheRuins2_63b18f2f:
 # MageInTheRuins2_0676830f (line 84634)
 translate ru MageInTheRuins2_0676830f:
     # hec "Gabriel! Get back!"
-    hec ""
+    hec "Gabriel! Get back!"
 
 # MageInTheRuins2_028657da (line 84635)
 translate ru MageInTheRuins2_028657da:
@@ -2931,7 +2921,7 @@ translate ru MageInTheRuins2_eda886d3:
 # MageInTheRuins2_efca0eae (line 84666)
 translate ru MageInTheRuins2_efca0eae:
     # hec "Sarah, look out!!!"
-    hec ""
+    hec "Sarah, look out!!!"
 
 # MageInTheRuins2_e0aae0ba (line 84667)
 translate ru MageInTheRuins2_e0aae0ba:
@@ -3286,7 +3276,7 @@ translate ru MageInTheRuins2_c6609b49:
 # MageInTheRuins2_48f14187 (line 84803)
 translate ru MageInTheRuins2_48f14187:
     # s "Aaaaah!!!!"
-    s ""
+    s "Aaaaah!!!!"
 
 # MageInTheRuins2_ad47936c (line 84804)
 translate ru MageInTheRuins2_ad47936c:
@@ -3351,7 +3341,7 @@ translate ru MageInTheRuins2_a79c9f9b:
 # MageInTheRuins2_acd0848e (line 84821)
 translate ru MageInTheRuins2_acd0848e:
     # s "Hello?"
-    s ""
+    s "Hello?"
 
 # MageInTheRuins2_61072552 (line 84822)
 translate ru MageInTheRuins2_61072552:
@@ -3361,7 +3351,7 @@ translate ru MageInTheRuins2_61072552:
 # MageInTheRuins2_774ad8ca (line 84823)
 translate ru MageInTheRuins2_774ad8ca:
     # s "Hello? Anyone!"
-    s ""
+    s "Hello? Anyone!"
 
 # MageInTheRuins2_ac22a0ee (line 84824)
 translate ru MageInTheRuins2_ac22a0ee:
@@ -3656,7 +3646,7 @@ translate ru MageInTheRuins2_1711d15e:
 # MageInTheRuins2_ded4a571 (line 84911)
 translate ru MageInTheRuins2_ded4a571:
     # s "Who are you."
-    s ""
+    s "Who are you."
 
 # MageInTheRuins2_0d007fd1 (line 84912)
 translate ru MageInTheRuins2_0d007fd1:
@@ -3686,7 +3676,7 @@ translate ru MageInTheRuins2_889c1b69:
 # MageInTheRuins2_d7bd62c6 (line 84917)
 translate ru MageInTheRuins2_d7bd62c6:
     # s "You..."
-    s ""
+    s "You..."
 
 # MageInTheRuins2_2a2b8d12 (line 84918)
 translate ru MageInTheRuins2_2a2b8d12:
@@ -3696,7 +3686,7 @@ translate ru MageInTheRuins2_2a2b8d12:
 # MageInTheRuins2_ebfdf860 (line 84919)
 translate ru MageInTheRuins2_ebfdf860:
     # s "You are the leader of the voidlings?"
-    s ""
+    s "You are the leader of the voidlings?"
 
 # MageInTheRuins2_ab38f6b9 (line 84920)
 translate ru MageInTheRuins2_ab38f6b9:
@@ -3706,7 +3696,7 @@ translate ru MageInTheRuins2_ab38f6b9:
 # MageInTheRuins2_9d990c12 (line 84921)
 translate ru MageInTheRuins2_9d990c12:
     # s "The...the creatures from another world?"
-    s ""
+    s "The...the creatures from another world?"
 
 # MageInTheRuins2_29e63c7e (line 84922)
 translate ru MageInTheRuins2_29e63c7e:
@@ -3726,7 +3716,7 @@ translate ru MageInTheRuins2_98258518:
 # MageInTheRuins2_dd51d525 (line 84925)
 translate ru MageInTheRuins2_dd51d525:
     # s "Why am I here?"
-    s ""
+    s "Why am I here?"
 
 # MageInTheRuins2_fec8b207 (line 84926)
 translate ru MageInTheRuins2_fec8b207:
@@ -3741,7 +3731,7 @@ translate ru MageInTheRuins2_d6c24687:
 # MageInTheRuins2_7186a13c (line 84928)
 translate ru MageInTheRuins2_7186a13c:
     # s "But the signal..."
-    s ""
+    s "But the signal..."
 
 # MageInTheRuins2_6fe75109 (line 84929)
 translate ru MageInTheRuins2_6fe75109:
@@ -3771,17 +3761,17 @@ translate ru MageInTheRuins2_a2ce7b71:
 # MageInTheRuins2_33778ffb (line 84934)
 translate ru MageInTheRuins2_33778ffb:
     # s "I know."
-    s ""
+    s "I know."
 
 # MageInTheRuins2_88765cdf (line 84935)
 translate ru MageInTheRuins2_88765cdf:
     # s "I know everything!"
-    s ""
+    s "I know everything!"
 
 # MageInTheRuins2_056f7733 (line 84936)
 translate ru MageInTheRuins2_056f7733:
     # s "The Gods, their fate, my own role...I know all of this."
-    s ""
+    s "The Gods, their fate, my own role...I know all of this."
 
 # MageInTheRuins2_51444e6c (line 84937)
 translate ru MageInTheRuins2_51444e6c:
@@ -3796,7 +3786,7 @@ translate ru MageInTheRuins2_6bdfd069:
 # MageInTheRuins2_1c22a08d (line 84939)
 translate ru MageInTheRuins2_1c22a08d:
     # s "I know that too!"
-    s ""
+    s "I know that too!"
 
 # MageInTheRuins2_76db3d98 (line 84940)
 translate ru MageInTheRuins2_76db3d98:
@@ -3831,12 +3821,12 @@ translate ru MageInTheRuins2_63820eed:
 # MageInTheRuins2_0f162287 (line 84946)
 translate ru MageInTheRuins2_0f162287:
     # s "No!"
-    s ""
+    s "No!"
 
 # MageInTheRuins2_45d41542 (line 84947)
 translate ru MageInTheRuins2_45d41542:
     # s "It doesn't have to be this way. If we could just reach an understanding, we could-"
-    s ""
+    s "It doesn't have to be this way. If we could just reach an understanding, we could-"
 
 # MageInTheRuins2_73b552cf (line 84948)
 translate ru MageInTheRuins2_73b552cf:
@@ -3886,7 +3876,7 @@ translate ru MageInTheRuins2_aea626b8:
 # MageInTheRuins2_6988ac14 (line 84957)
 translate ru MageInTheRuins2_6988ac14:
     # s "Millions will die! Innocents!"
-    s ""
+    s "Millions will die! Innocents!"
 
 # MageInTheRuins2_f0dcd889 (line 84958)
 translate ru MageInTheRuins2_f0dcd889:
@@ -3936,7 +3926,7 @@ translate ru MageInTheRuins2_2edcbbb3:
 # MageInTheRuins2_2486a4c2 (line 84967)
 translate ru MageInTheRuins2_2486a4c2:
     # s "There is a way...somehow...if we can just-"
-    s ""
+    s "There is a way...somehow...if we can just-"
 
 # MageInTheRuins2_a127882a (line 84968)
 translate ru MageInTheRuins2_a127882a:
@@ -3951,7 +3941,7 @@ translate ru MageInTheRuins2_cddfd98b:
 # MageInTheRuins2_5076c62e (line 84970)
 translate ru MageInTheRuins2_5076c62e:
     # s "I can find a way!"
-    s ""
+    s "I can find a way!"
 
 # MageInTheRuins2_9c680637 (line 84971)
 translate ru MageInTheRuins2_9c680637:
@@ -4002,34 +3992,4 @@ translate ru MageInTheRuins2_6e28c856:
 translate ru MageInTheRuins2_a5ce417f:
     # "Slowly advancing, she felt the grip of their shadowy tentacles begin to tighten."
     ""
-
-# MageInTheRuins2_00741f5f (line 84989)
-translate ru MageInTheRuins2_00741f5f:
-    # "Break free"
-    "Break free" ""
-
-# MageInTheRuins2_d4e81bd8 (line 84991)
-translate ru MageInTheRuins2_d4e81bd8:
-    # "Try to reason with them"
-    "Try to reason with them" ""
-
-# MageInTheRuins2_69f0f0eb (line 85016)
-translate ru MageInTheRuins2_69f0f0eb:
-    # "Break free"
-    "Break free" ""
-
-# MageInTheRuins2_4b5c1cba (line 85018)
-translate ru MageInTheRuins2_4b5c1cba:
-    # "Try to speak to them"
-    "Try to speak to them" ""
-
-# MageInTheRuins2_4ae462b9 (line 85038)
-translate ru MageInTheRuins2_4ae462b9:
-    # "Break free"
-    "Break free" ""
-
-# MageInTheRuins2_e00b0265 (line 85040)
-translate ru MageInTheRuins2_e00b0265:
-    # "Hold on, try to to speak"
-    "Hold on, try to to speak" ""
 

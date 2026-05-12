@@ -6,7 +6,7 @@
 # TailorRoute1_d8a0c0e6 (line 30230)
 translate ru TailorRoute1_d8a0c0e6:
     # alb "If any harm had come to you, Gods, I would have never forgiven myself if I didn't try to save you."
-    alb ""
+    alb "If any harm had come to you, Gods, I would have never forgiven myself if I didn't try to save you."
 
 # TailorRoute1_4bd8198a (line 30231)
 translate ru TailorRoute1_4bd8198a:
@@ -16,12 +16,12 @@ translate ru TailorRoute1_4bd8198a:
 # TailorRoute1_cc6326c2 (line 30232)
 translate ru TailorRoute1_cc6326c2:
     # alb "Come, get up."
-    alb ""
+    alb "Come, get up."
 
 # TailorRoute1_80fc350a (line 30233)
 translate ru TailorRoute1_80fc350a:
     # alb "I can start teaching you right away."
-    alb ""
+    alb "I can start teaching you right away."
 
 # TailorRoute1_89d38bb9 (line 30234)
 translate ru TailorRoute1_89d38bb9:
@@ -41,32 +41,32 @@ translate ru TailorRoute1_8f206aab:
 # TailorRoute1_a0e5a43c (line 30237)
 translate ru TailorRoute1_a0e5a43c:
     # alb "It's new."
-    alb ""
+    alb "It's new."
 
 # TailorRoute1_c5a965d8 (line 30238)
 translate ru TailorRoute1_c5a965d8:
     # s "New?"
-    s ""
+    s "New?"
 
 # TailorRoute1_8a16c4d6 (line 30239)
 translate ru TailorRoute1_8a16c4d6:
     # alb "Yes, they tried to get me to use one of the newer models."
-    alb ""
+    alb "Yes, they tried to get me to use one of the newer models."
 
 # TailorRoute1_d8266d76 (line 30240)
 translate ru TailorRoute1_d8266d76:
     # alb "But the truth is, I've worked on my machine for decades now."
-    alb ""
+    alb "But the truth is, I've worked on my machine for decades now."
 
 # TailorRoute1_13f354b8 (line 30241)
 translate ru TailorRoute1_13f354b8:
     # alb "No use in switching it up now."
-    alb ""
+    alb "No use in switching it up now."
 
 # TailorRoute1_6b6b9bb7 (line 30242)
 translate ru TailorRoute1_6b6b9bb7:
     # alb "But this can be your workstation."
-    alb ""
+    alb "But this can be your workstation."
 
 # TailorRoute1_f71911fe (line 30243)
 translate ru TailorRoute1_f71911fe:
@@ -76,7 +76,7 @@ translate ru TailorRoute1_f71911fe:
 # TailorRoute1_7184413c (line 30244)
 translate ru TailorRoute1_7184413c:
     # s "Wow..."
-    s ""
+    s "Wow..."
 
 # TailorRoute1_96cd76af (line 30245)
 translate ru TailorRoute1_96cd76af:
@@ -86,7 +86,7 @@ translate ru TailorRoute1_96cd76af:
 # TailorRoute1_1d574b52 (line 30246)
 translate ru TailorRoute1_1d574b52:
     # alb "There, take a seat over there."
-    alb ""
+    alb "There, take a seat over there."
 
 # TailorRoute1_b97c401f (line 30247)
 translate ru TailorRoute1_b97c401f:
@@ -96,12 +96,12 @@ translate ru TailorRoute1_b97c401f:
 # TailorRoute1_8d357ce8 (line 30248)
 translate ru TailorRoute1_8d357ce8:
     # alb "First is the basics, operating the thing."
-    alb ""
+    alb "First is the basics, operating the thing."
 
 # TailorRoute1_ebbc56bf (line 30249)
 translate ru TailorRoute1_ebbc56bf:
     # alb "Just place your foot on that pedal there."
-    alb ""
+    alb "Just place your foot on that pedal there."
 
 # TailorRoute1_aa7f0d18 (line 30250)
 translate ru TailorRoute1_aa7f0d18:
@@ -121,12 +121,12 @@ translate ru TailorRoute1_c6ac3edc:
 # TailorRoute1_64e022c8 (line 30253)
 translate ru TailorRoute1_64e022c8:
     # alb "It takes a while to get used to it, but in time you'll lear the proper rhythm."
-    alb ""
+    alb "It takes a while to get used to it, but in time you'll lear the proper rhythm."
 
 # TailorRoute1_75fcfa85 (line 30254)
 translate ru TailorRoute1_75fcfa85:
     # alb "So just, press down."
-    alb ""
+    alb "So just, press down."
 
 # TailorRoute1_4ec182cc (line 30255)
 translate ru TailorRoute1_4ec182cc:
@@ -146,7 +146,7 @@ translate ru TailorRoute1_e9945d89:
 # TailorRoute1_a03f47ef (line 30258)
 translate ru TailorRoute1_a03f47ef:
     # alb "See, that pedal connects to this spool, which is attached to..."
-    alb ""
+    alb "See, that pedal connects to this spool, which is attached to..."
 
 # TailorRoute1_174e9737 (line 30259)
 translate ru TailorRoute1_174e9737:
@@ -191,7 +191,7 @@ translate ru TailorRoute1_db5a5797:
 # TailorRoute1_a530206a (line 30267)
 translate ru TailorRoute1_a530206a:
     # alb "That's enough for today. Don't want to fry your brain."
-    alb ""
+    alb "That's enough for today. Don't want to fry your brain."
 
 # TailorRoute1_43a076e2 (line 30268)
 translate ru TailorRoute1_43a076e2:
@@ -201,22 +201,22 @@ translate ru TailorRoute1_43a076e2:
 # TailorRoute1_c03a582d (line 30269)
 translate ru TailorRoute1_c03a582d:
     # s "Thank you."
-    s ""
+    s "Thank you."
 
 # TailorRoute1_ff2edc97 (line 30270)
 translate ru TailorRoute1_ff2edc97:
     # s "I actually really enjoyed that."
-    s ""
+    s "I actually really enjoyed that."
 
 # TailorRoute1_7e97d9a9 (line 30271)
 translate ru TailorRoute1_7e97d9a9:
     # alb "Good, good."
-    alb ""
+    alb "Good, good."
 
 # TailorRoute1_c084e9e1 (line 30272)
 translate ru TailorRoute1_c084e9e1:
     # alb "Now don't forget to report to the Headmaster that you want to request a change in position."
-    alb ""
+    alb "Now don't forget to report to the Headmaster that you want to request a change in position."
 
 # TailorRoute1_7c926ab1 (line 30273)
 translate ru TailorRoute1_7c926ab1:
@@ -226,7 +226,7 @@ translate ru TailorRoute1_7c926ab1:
 # TailorRoute1_a151a031 (line 30274)
 translate ru TailorRoute1_a151a031:
     # s "I'll go do that right away!"
-    s ""
+    s "I'll go do that right away!"
 
 # TailorRoute1_9e6be6b9 (line 30282)
 translate ru TailorRoute1_9e6be6b9:
@@ -236,17 +236,17 @@ translate ru TailorRoute1_9e6be6b9:
 # TailorRoute1_2380025a (line 30283)
 translate ru TailorRoute1_2380025a:
     # s "Sir."
-    s ""
+    s "Sir."
 
 # TailorRoute1_2c7e7c40 (line 30284)
 translate ru TailorRoute1_2c7e7c40:
     # alf "What is it?"
-    alf ""
+    alf "What is it?"
 
 # TailorRoute1_99314bdf (line 30285)
 translate ru TailorRoute1_99314bdf:
     # s "I have a request."
-    s ""
+    s "I have a request."
 
 # TailorRoute1_1fe7b973 (line 30286)
 translate ru TailorRoute1_1fe7b973:
@@ -256,22 +256,22 @@ translate ru TailorRoute1_1fe7b973:
 # TailorRoute1_9ca03fa2 (line 30287)
 translate ru TailorRoute1_9ca03fa2:
     # alf "A request?"
-    alf ""
+    alf "A request?"
 
 # TailorRoute1_029e825d (line 30288)
 translate ru TailorRoute1_029e825d:
     # alf "Fine, spit it out."
-    alf ""
+    alf "Fine, spit it out."
 
 # TailorRoute1_1e41a56a (line 30289)
 translate ru TailorRoute1_1e41a56a:
     # s "I would like to request a change in position."
-    s ""
+    s "I would like to request a change in position."
 
 # TailorRoute1_078b8040 (line 30290)
 translate ru TailorRoute1_078b8040:
     # s "I would like to work for the tailor as his apprentice."
-    s ""
+    s "I would like to work for the tailor as his apprentice."
 
 # TailorRoute1_5afdd959 (line 30291)
 translate ru TailorRoute1_5afdd959:
@@ -281,7 +281,7 @@ translate ru TailorRoute1_5afdd959:
 # TailorRoute1_d6e3eceb (line 30292)
 translate ru TailorRoute1_d6e3eceb:
     # alf "He approved that?"
-    alf ""
+    alf "He approved that?"
 
 # TailorRoute1_1157bd52 (line 30293)
 translate ru TailorRoute1_1157bd52:
@@ -291,12 +291,12 @@ translate ru TailorRoute1_1157bd52:
 # TailorRoute1_ca3ae014 (line 30294)
 translate ru TailorRoute1_ca3ae014:
     # s "Yes."
-    s ""
+    s "Yes."
 
 # TailorRoute1_d6088f61 (line 30295)
 translate ru TailorRoute1_d6088f61:
     # alf "And you..."
-    alf ""
+    alf "And you..."
 
 # TailorRoute1_e3ec203d (line 30296)
 translate ru TailorRoute1_e3ec203d:
@@ -306,7 +306,7 @@ translate ru TailorRoute1_e3ec203d:
 # TailorRoute1_3d9598f3 (line 30297)
 translate ru TailorRoute1_3d9598f3:
     # alf "You're fine with that?"
-    alf ""
+    alf "You're fine with that?"
 
 # TailorRoute1_290f9c00 (line 30298)
 translate ru TailorRoute1_290f9c00:
@@ -316,7 +316,7 @@ translate ru TailorRoute1_290f9c00:
 # TailorRoute1_00e48222 (line 30299)
 translate ru TailorRoute1_00e48222:
     # s "I think I will be good at it."
-    s ""
+    s "I think I will be good at it."
 
 # TailorRoute1_b8057299 (line 30300)
 translate ru TailorRoute1_b8057299:
@@ -326,12 +326,12 @@ translate ru TailorRoute1_b8057299:
 # TailorRoute1_808fa636 (line 30301)
 translate ru TailorRoute1_808fa636:
     # alf "Fine, if that old bastard agrees with it, you can be transferred."
-    alf ""
+    alf "Fine, if that old bastard agrees with it, you can be transferred."
 
 # TailorRoute1_c926f434 (line 30302)
 translate ru TailorRoute1_c926f434:
     # s "Thank you sir!"
-    s ""
+    s "Thank you sir!"
 
 # TailorRoute1_bdd80d6c (line 30303)
 translate ru TailorRoute1_bdd80d6c:
@@ -341,7 +341,7 @@ translate ru TailorRoute1_bdd80d6c:
 # TailorRoute1_4b6bae52 (line 30304)
 translate ru TailorRoute1_4b6bae52:
     # alf "Maybe thank me after."
-    alf ""
+    alf "Maybe thank me after."
 
 # TailorRoute1_44c7239c (line 30305)
 translate ru TailorRoute1_44c7239c:
@@ -351,7 +351,7 @@ translate ru TailorRoute1_44c7239c:
 # TailorRoute1_cb13df0f (line 30306)
 translate ru TailorRoute1_cb13df0f:
     # alf "Regardless, go ahead and collect your things."
-    alf ""
+    alf "Regardless, go ahead and collect your things."
 
 # TailorRoute1_82b696fa (line 30307)
 translate ru TailorRoute1_82b696fa:
@@ -361,7 +361,7 @@ translate ru TailorRoute1_82b696fa:
 # TailorRoute1_4f8ac5fc (line 30308)
 translate ru TailorRoute1_4f8ac5fc:
     # s "I...my things...sir?"
-    s ""
+    s "I...my things...sir?"
 
 # TailorRoute1_fe6fd8f6 (line 30309)
 translate ru TailorRoute1_fe6fd8f6:
@@ -371,17 +371,17 @@ translate ru TailorRoute1_fe6fd8f6:
 # TailorRoute1_e962e07d (line 30310)
 translate ru TailorRoute1_e962e07d:
     # alf "This is the servant quarter for the cleaning staff."
-    alf ""
+    alf "This is the servant quarter for the cleaning staff."
 
 # TailorRoute1_dc923ee0 (line 30311)
 translate ru TailorRoute1_dc923ee0:
     # alf "You'll have to report to the tailor quarters."
-    alf ""
+    alf "You'll have to report to the tailor quarters."
 
 # TailorRoute1_330f3750 (line 30312)
 translate ru TailorRoute1_330f3750:
     # s "Ooh...I see."
-    s ""
+    s "Ooh...I see."
 
 # TailorRoute1_5cacecad (line 30313)
 translate ru TailorRoute1_5cacecad:
@@ -391,27 +391,27 @@ translate ru TailorRoute1_5cacecad:
 # TailorRoute1_eed50b8d (line 30314)
 translate ru TailorRoute1_eed50b8d:
     # s "Sir?"
-    s ""
+    s "Sir?"
 
 # TailorRoute1_676ccb89 (line 30315)
 translate ru TailorRoute1_676ccb89:
     # alf "Yes, what is it this time?"
-    alf ""
+    alf "Yes, what is it this time?"
 
 # TailorRoute1_dd7e4e92 (line 30316)
 translate ru TailorRoute1_dd7e4e92:
     # s "The...tailor quarters...where are they exactly?"
-    s ""
+    s "The...tailor quarters...where are they exactly?"
 
 # TailorRoute1_3d6b17b0 (line 30317)
 translate ru TailorRoute1_3d6b17b0:
     # alf "Just head back to the tailoring workshop and ask Albert, he'll point you in the right direction."
-    alf ""
+    alf "Just head back to the tailoring workshop and ask Albert, he'll point you in the right direction."
 
 # TailorRoute1_db113b45 (line 30318)
 translate ru TailorRoute1_db113b45:
     # s "Okay..."
-    s ""
+    s "Okay..."
 
 # TailorRoute1_88211f1b (line 30319)
 translate ru TailorRoute1_88211f1b:
@@ -426,22 +426,22 @@ translate ru TailorRoute1_49beab43:
 # TailorRoute1_88650684 (line 30327)
 translate ru TailorRoute1_88650684:
     # s "Albert..."
-    s ""
+    s "Albert..."
 
 # TailorRoute1_d6217997 (line 30328)
 translate ru TailorRoute1_d6217997:
     # alb "Yes?"
-    alb ""
+    alb "Yes?"
 
 # TailorRoute1_eb571a9f (line 30329)
 translate ru TailorRoute1_eb571a9f:
     # s "The Headmaster said that I had to report to the tailor quarters for sleeping."
-    s ""
+    s "The Headmaster said that I had to report to the tailor quarters for sleeping."
 
 # TailorRoute1_057a23aa (line 30330)
 translate ru TailorRoute1_057a23aa:
     # s "He said you knew where that was?"
-    s ""
+    s "He said you knew where that was?"
 
 # TailorRoute1_874fc8b0 (line 30331)
 translate ru TailorRoute1_874fc8b0:
@@ -451,7 +451,7 @@ translate ru TailorRoute1_874fc8b0:
 # TailorRoute1_26ee353e (line 30332)
 translate ru TailorRoute1_26ee353e:
     # alb "Of course, it's right this way, just come along."
-    alb ""
+    alb "Of course, it's right this way, just come along."
 
 # TailorRoute1_a49c01a4 (line 30333)
 translate ru TailorRoute1_a49c01a4:
@@ -481,7 +481,7 @@ translate ru TailorRoute1_49667c2c:
 # TailorRoute1_d16c1220 (line 30345)
 translate ru TailorRoute1_d16c1220:
     # alb "Just put your things there."
-    alb ""
+    alb "Just put your things there."
 
 # TailorRoute1_7bf79e20 (line 30346)
 translate ru TailorRoute1_7bf79e20:
@@ -491,22 +491,22 @@ translate ru TailorRoute1_7bf79e20:
 # TailorRoute1_3755b8ca (line 30347)
 translate ru TailorRoute1_3755b8ca:
     # s "I...someone is already using that one."
-    s ""
+    s "I...someone is already using that one."
 
 # TailorRoute1_70f6187e (line 30348)
 translate ru TailorRoute1_70f6187e:
     # alb "Yeah, it's mine."
-    alb ""
+    alb "Yeah, it's mine."
 
 # TailorRoute1_0d4375de (line 30349)
 translate ru TailorRoute1_0d4375de:
     # alb "But you can sleep there for now."
-    alb ""
+    alb "But you can sleep there for now."
 
 # TailorRoute1_05e45340 (line 30350)
 translate ru TailorRoute1_05e45340:
     # alb "I'll see about getting an extra bed ordered from the Headmaster."
-    alb ""
+    alb "I'll see about getting an extra bed ordered from the Headmaster."
 
 # TailorRoute1_d7de2f4e (line 30351)
 translate ru TailorRoute1_d7de2f4e:
@@ -531,7 +531,7 @@ translate ru TailorRoute1_dcce69b5:
 # TailorRoute1_41165f50 (line 30355)
 translate ru TailorRoute1_41165f50:
     # s "I think it's time to sleep...I've been up all day."
-    s ""
+    s "I think it's time to sleep...I've been up all day."
 
 # TailorRoute1_9c76ada5 (line 30356)
 translate ru TailorRoute1_9c76ada5:
@@ -541,7 +541,7 @@ translate ru TailorRoute1_9c76ada5:
 # TailorRoute1_fd0cfe11 (line 30357)
 translate ru TailorRoute1_fd0cfe11:
     # alb "Great idea, let's get some sleep."
-    alb ""
+    alb "Great idea, let's get some sleep."
 
 # TailorRoute1_cfbb083a (line 30358)
 translate ru TailorRoute1_cfbb083a:
@@ -551,27 +551,27 @@ translate ru TailorRoute1_cfbb083a:
 # TailorRoute1_d955914d (line 30359)
 translate ru TailorRoute1_d955914d:
     # s "Hey!"
-    s ""
+    s "Hey!"
 
 # TailorRoute1_a51a76d4 (line 30360)
 translate ru TailorRoute1_a51a76d4:
     # s "What are you doing?"
-    s ""
+    s "What are you doing?"
 
 # TailorRoute1_8a0a3cff (line 30361)
 translate ru TailorRoute1_8a0a3cff:
     # alb "Well, it's time to sleep. Where else am I supposed to sleep?"
-    alb ""
+    alb "Well, it's time to sleep. Where else am I supposed to sleep?"
 
 # TailorRoute1_db68f76a (line 30362)
 translate ru TailorRoute1_db68f76a:
     # s "You said that I could use the bed!"
-    s ""
+    s "You said that I could use the bed!"
 
 # TailorRoute1_7e22a6a1 (line 30363)
 translate ru TailorRoute1_7e22a6a1:
     # alb "And you can."
-    alb ""
+    alb "And you can."
 
 # TailorRoute1_3df77075 (line 30364)
 translate ru TailorRoute1_3df77075:
@@ -581,7 +581,7 @@ translate ru TailorRoute1_3df77075:
 # TailorRoute1_8003524d (line 30365)
 translate ru TailorRoute1_8003524d:
     # alb "The bed is big enough for the two of us."
-    alb ""
+    alb "The bed is big enough for the two of us."
 
 # TailorRoute1_6d97dd98 (line 30366)
 translate ru TailorRoute1_6d97dd98:
@@ -591,12 +591,12 @@ translate ru TailorRoute1_6d97dd98:
 # TailorRoute1_ce3ae9fb (line 30367)
 translate ru TailorRoute1_ce3ae9fb:
     # s "But...I need my own bed!"
-    s ""
+    s "But...I need my own bed!"
 
 # TailorRoute1_2d9778cd (line 30368)
 translate ru TailorRoute1_2d9778cd:
     # alb "Don't worry girl."
-    alb ""
+    alb "Don't worry girl."
 
 # TailorRoute1_42bdc9d2 (line 30369)
 translate ru TailorRoute1_42bdc9d2:
@@ -616,32 +616,32 @@ translate ru TailorRoute1_08764028:
 # TailorRoute1_6f363b80 (line 30372)
 translate ru TailorRoute1_6f363b80:
     # alb "You'll get your own bed, but we have to get it ordered first."
-    alb ""
+    alb "You'll get your own bed, but we have to get it ordered first."
 
 # TailorRoute1_9f055074 (line 30373)
 translate ru TailorRoute1_9f055074:
     # alb "And what do you want me to do?"
-    alb ""
+    alb "And what do you want me to do?"
 
 # TailorRoute1_c27782ac (line 30374)
 translate ru TailorRoute1_c27782ac:
     # alb "Sleep on the floor?"
-    alb ""
+    alb "Sleep on the floor?"
 
 # TailorRoute1_644f619b (line 30375)
 translate ru TailorRoute1_644f619b:
     # alb "My back would never recover."
-    alb ""
+    alb "My back would never recover."
 
 # TailorRoute1_ae8197a5 (line 30376)
 translate ru TailorRoute1_ae8197a5:
     # s "But...we can't just..."
-    s ""
+    s "But...we can't just..."
 
 # TailorRoute1_61eaba43 (line 30377)
 translate ru TailorRoute1_61eaba43:
     # alb "What? Sleep in the same bed? We've done more already, girl."
-    alb ""
+    alb "What? Sleep in the same bed? We've done more already, girl."
 
 # TailorRoute1_2c820648 (line 30378)
 translate ru TailorRoute1_2c820648:
@@ -651,7 +651,7 @@ translate ru TailorRoute1_2c820648:
 # TailorRoute1_9e763f28 (line 30379)
 translate ru TailorRoute1_9e763f28:
     # s "Well...I could sleep somewhere else. Maybe somewhere in the workshop."
-    s ""
+    s "Well...I could sleep somewhere else. Maybe somewhere in the workshop."
 
 # TailorRoute1_138b68b2 (line 30380)
 translate ru TailorRoute1_138b68b2:
@@ -661,17 +661,17 @@ translate ru TailorRoute1_138b68b2:
 # TailorRoute1_51502015 (line 30381)
 translate ru TailorRoute1_51502015:
     # alb "Please, girl, don't bother."
-    alb ""
+    alb "Please, girl, don't bother."
 
 # TailorRoute1_3d993e54 (line 30382)
 translate ru TailorRoute1_3d993e54:
     # alb "We have a perfectly fine bed we can use. No need for either of us to mess up our backs."
-    alb ""
+    alb "We have a perfectly fine bed we can use. No need for either of us to mess up our backs."
 
 # TailorRoute1_31bef825 (line 30383)
 translate ru TailorRoute1_31bef825:
     # s "I'll just sleep in the workshop..."
-    s ""
+    s "I'll just sleep in the workshop..."
 
 # TailorRoute1_098e9132 (line 30384)
 translate ru TailorRoute1_098e9132:
@@ -696,17 +696,17 @@ translate ru TailorRoute1_652c880d:
 # TailorRoute1_b4c57c5b (line 30393)
 translate ru TailorRoute1_b4c57c5b:
     # alb "There you go."
-    alb ""
+    alb "There you go."
 
 # TailorRoute1_1a10bd8a (line 30394)
 translate ru TailorRoute1_1a10bd8a:
     # alb "Don't go causin trouble on your first day, alright?"
-    alb ""
+    alb "Don't go causin trouble on your first day, alright?"
 
 # TailorRoute1_adee6c63 (line 30395)
 translate ru TailorRoute1_adee6c63:
     # s "Hey!"
-    s ""
+    s "Hey!"
 
 # TailorRoute1_bccefd33 (line 30396)
 translate ru TailorRoute1_bccefd33:
@@ -726,12 +726,12 @@ translate ru TailorRoute1_dac1db22:
 # TailorRoute1_92f44f98 (line 30399)
 translate ru TailorRoute1_92f44f98:
     # alb "Last thing I wanna do is tell the Headmaster that this thing isn't working out."
-    alb ""
+    alb "Last thing I wanna do is tell the Headmaster that this thing isn't working out."
 
 # TailorRoute1_9eeae6f7 (line 30400)
 translate ru TailorRoute1_9eeae6f7:
     # alb "You'd be back on the streets, and neither of us want that, right?"
-    alb ""
+    alb "You'd be back on the streets, and neither of us want that, right?"
 
 # TailorRoute1_3481deec (line 30401)
 translate ru TailorRoute1_3481deec:
@@ -741,7 +741,7 @@ translate ru TailorRoute1_3481deec:
 # TailorRoute1_7a8fa226 (line 30402)
 translate ru TailorRoute1_7a8fa226:
     # s "I..."
-    s ""
+    s "I..."
 
 # TailorRoute1_ea174b57 (line 30403)
 translate ru TailorRoute1_ea174b57:
@@ -751,7 +751,7 @@ translate ru TailorRoute1_ea174b57:
 # TailorRoute1_b8ef7321 (line 30404)
 translate ru TailorRoute1_b8ef7321:
     # s "Fine. I'll sleep here in the bed."
-    s ""
+    s "Fine. I'll sleep here in the bed."
 
 # TailorRoute1_a0a71143 (line 30405)
 translate ru TailorRoute1_a0a71143:
@@ -761,7 +761,7 @@ translate ru TailorRoute1_a0a71143:
 # TailorRoute1_dc192094 (line 30406)
 translate ru TailorRoute1_dc192094:
     # alb "Good."
-    alb ""
+    alb "Good."
 
 # TailorRoute1_2b4bc81c (line 30407)
 translate ru TailorRoute1_2b4bc81c:
@@ -776,7 +776,7 @@ translate ru TailorRoute1_fb71f8cd:
 # TailorRoute1_162445af (line 30410)
 translate ru TailorRoute1_162445af:
     # s "Hey! What are you doing?!"
-    s ""
+    s "Hey! What are you doing?!"
 
 # TailorRoute1_03e13a3a (line 30411)
 translate ru TailorRoute1_03e13a3a:
@@ -786,22 +786,22 @@ translate ru TailorRoute1_03e13a3a:
 # TailorRoute1_59f8fc5c (line 30412)
 translate ru TailorRoute1_59f8fc5c:
     # alb "Come on, you need your sleep and you can't sleep like that."
-    alb ""
+    alb "Come on, you need your sleep and you can't sleep like that."
 
 # TailorRoute1_c305fc35 (line 30413)
 translate ru TailorRoute1_c305fc35:
     # s "Like what?"
-    s ""
+    s "Like what?"
 
 # TailorRoute1_573295ac (line 30414)
 translate ru TailorRoute1_573295ac:
     # alb "With your uniform on."
-    alb ""
+    alb "With your uniform on."
 
 # TailorRoute1_5bf4e4f3 (line 30415)
 translate ru TailorRoute1_5bf4e4f3:
     # alb "Go ahead, just take it off. Nothing I ain't seen before."
-    alb ""
+    alb "Go ahead, just take it off. Nothing I ain't seen before."
 
 # TailorRoute1_1610357e (line 30416)
 translate ru TailorRoute1_1610357e:
@@ -841,12 +841,12 @@ translate ru TailorRoute1_71c508b1:
 # TailorRoute1_5199fd7f (line 30429)
 translate ru TailorRoute1_5199fd7f:
     # s "Happy?"
-    s ""
+    s "Happy?"
 
 # TailorRoute1_981db86a (line 30430)
 translate ru TailorRoute1_981db86a:
     # alb "The sight of a pretty girl, all naked, will never not make me happy."
-    alb ""
+    alb "The sight of a pretty girl, all naked, will never not make me happy."
 
 # TailorRoute1_bb829d23 (line 30431)
 translate ru TailorRoute1_bb829d23:
@@ -861,7 +861,7 @@ translate ru TailorRoute1_937ae434:
 # TailorRoute1_23c572e5 (line 30433)
 translate ru TailorRoute1_23c572e5:
     # alb "How about you help me out with that?"
-    alb ""
+    alb "How about you help me out with that?"
 
 # TailorRoute1_139b3f2a (line 30434)
 translate ru TailorRoute1_139b3f2a:
@@ -871,17 +871,17 @@ translate ru TailorRoute1_139b3f2a:
 # TailorRoute1_57fb7316 (line 30435)
 translate ru TailorRoute1_57fb7316:
     # s "Shouldn't we get some sleep?"
-    s ""
+    s "Shouldn't we get some sleep?"
 
 # TailorRoute1_25b1763e (line 30436)
 translate ru TailorRoute1_25b1763e:
     # alb "You don't know much about men, do you? Ain't no way to get a good night sleep when you're hard."
-    alb ""
+    alb "You don't know much about men, do you? Ain't no way to get a good night sleep when you're hard."
 
 # TailorRoute1_beedda14 (line 30437)
 translate ru TailorRoute1_beedda14:
     # alb "And you are my assistant, so the least you can do is assist me."
-    alb ""
+    alb "And you are my assistant, so the least you can do is assist me."
 
 # TailorRoute1_2ec614e3 (line 30438)
 translate ru TailorRoute1_2ec614e3:
@@ -891,22 +891,22 @@ translate ru TailorRoute1_2ec614e3:
 # TailorRoute1_57348e7a (line 30439)
 translate ru TailorRoute1_57348e7a:
     # s "That's what all this is about? I thought you cared..."
-    s ""
+    s "That's what all this is about? I thought you cared..."
 
 # TailorRoute1_466f6c96 (line 30440)
 translate ru TailorRoute1_466f6c96:
     # alb "I do. And I didn't tell a single lie."
-    alb ""
+    alb "I do. And I didn't tell a single lie."
 
 # TailorRoute1_f0863c89 (line 30441)
 translate ru TailorRoute1_f0863c89:
     # alb "But the job isn't just sewing. You gotta go the extra mile, you know?"
-    alb ""
+    alb "But the job isn't just sewing. You gotta go the extra mile, you know?"
 
 # TailorRoute1_232a297c (line 30442)
 translate ru TailorRoute1_232a297c:
     # s "You didn't tell me when I signed up that I'd have to be your personal..."
-    s ""
+    s "You didn't tell me when I signed up that I'd have to be your personal..."
 
 # TailorRoute1_3ca27bd1 (line 30443)
 translate ru TailorRoute1_3ca27bd1:
@@ -916,12 +916,12 @@ translate ru TailorRoute1_3ca27bd1:
 # TailorRoute1_f70b4018 (line 30444)
 translate ru TailorRoute1_f70b4018:
     # alb "What?"
-    alb ""
+    alb "What?"
 
 # TailorRoute1_2f406fa7 (line 30445)
 translate ru TailorRoute1_2f406fa7:
     # alb "You think you got the job because you have so much tailoring experience?"
-    alb ""
+    alb "You think you got the job because you have so much tailoring experience?"
 
 # TailorRoute1_424f3e37 (line 30446)
 translate ru TailorRoute1_424f3e37:
@@ -931,32 +931,32 @@ translate ru TailorRoute1_424f3e37:
 # TailorRoute1_4eb6426e (line 30447)
 translate ru TailorRoute1_4eb6426e:
     # s "What...no, I just..."
-    s ""
+    s "What...no, I just..."
 
 # TailorRoute1_6171366f (line 30448)
 translate ru TailorRoute1_6171366f:
     # alb "That's right. You don't got any talents or skills."
-    alb ""
+    alb "That's right. You don't got any talents or skills."
 
 # TailorRoute1_37ef9a7d (line 30449)
 translate ru TailorRoute1_37ef9a7d:
     # alb "I'm actually willing to teach you. All I ask is you put in some extra effort."
-    alb ""
+    alb "I'm actually willing to teach you. All I ask is you put in some extra effort."
 
 # TailorRoute1_ed2aa8c3 (line 30450)
 translate ru TailorRoute1_ed2aa8c3:
     # alb "You sure didn't earn this job with your tailoring skills."
-    alb ""
+    alb "You sure didn't earn this job with your tailoring skills."
 
 # TailorRoute1_041d6030 (line 30451)
 translate ru TailorRoute1_041d6030:
     # alb "So how about you put the skills to use that actually got you this job?"
-    alb ""
+    alb "So how about you put the skills to use that actually got you this job?"
 
 # TailorRoute1_1ab039e2 (line 30452)
 translate ru TailorRoute1_1ab039e2:
     # alb "Or do I need to inform the Headmaster that this isn't going to work?"
-    alb ""
+    alb "Or do I need to inform the Headmaster that this isn't going to work?"
 
 # TailorRoute1_58b9509f (line 30453)
 translate ru TailorRoute1_58b9509f:
@@ -966,17 +966,17 @@ translate ru TailorRoute1_58b9509f:
 # TailorRoute1_f3e30795 (line 30454)
 translate ru TailorRoute1_f3e30795:
     # s "No..."
-    s ""
+    s "No..."
 
 # TailorRoute1_4b1d3c1a (line 30455)
 translate ru TailorRoute1_4b1d3c1a:
     # alb "Good. Then get to work."
-    alb ""
+    alb "Good. Then get to work."
 
 # TailorRoute1_18f78b6a (line 30456)
 translate ru TailorRoute1_18f78b6a:
     # alb "And I was gonna let you use your hands, but how about you use your mouth instead?"
-    alb ""
+    alb "And I was gonna let you use your hands, but how about you use your mouth instead?"
 
 # TailorRoute1_8ac2a218 (line 30457)
 translate ru TailorRoute1_8ac2a218:
@@ -1041,12 +1041,12 @@ translate ru TailorRoute1_2cd6d07b:
 # TailorRoute1_5965c03d (line 30475)
 translate ru TailorRoute1_5965c03d:
     # alb "Don't worry, girl."
-    alb ""
+    alb "Don't worry, girl."
 
 # TailorRoute1_f2274771 (line 30476)
 translate ru TailorRoute1_f2274771:
     # alb "You'll learn to handle it. It takes most girls a while to get their head around it."
-    alb ""
+    alb "You'll learn to handle it. It takes most girls a while to get their head around it."
 
 # TailorRoute1_9cd47e32 (line 30477)
 translate ru TailorRoute1_9cd47e32:
@@ -1056,7 +1056,7 @@ translate ru TailorRoute1_9cd47e32:
 # TailorRoute1_cd764b1f (line 30478)
 translate ru TailorRoute1_cd764b1f:
     # alb "You know, I'll be honest..."
-    alb ""
+    alb "You know, I'll be honest..."
 
 # TailorRoute1_c38da7ec (line 30479)
 translate ru TailorRoute1_c38da7ec:
@@ -1066,7 +1066,7 @@ translate ru TailorRoute1_c38da7ec:
 # TailorRoute1_701b3ed8 (line 30480)
 translate ru TailorRoute1_701b3ed8:
     # alb "I hadn't necessarily thought about taking you on as an apprentice..."
-    alb ""
+    alb "I hadn't necessarily thought about taking you on as an apprentice..."
 
 # TailorRoute1_f6a9fa05 (line 30481)
 translate ru TailorRoute1_f6a9fa05:
@@ -1081,12 +1081,12 @@ translate ru TailorRoute1_13fdcc9a:
 # TailorRoute1_6d672273 (line 30483)
 translate ru TailorRoute1_6d672273:
     # alb "But when you call me old...I don't know, it kind of set something off in me."
-    alb ""
+    alb "But when you call me old...I don't know, it kind of set something off in me."
 
 # TailorRoute1_330d9c7a (line 30484)
 translate ru TailorRoute1_330d9c7a:
     # alb "As if I'm used up, ready to be put out to pasture."
-    alb ""
+    alb "As if I'm used up, ready to be put out to pasture."
 
 # TailorRoute1_7f99b3b4 (line 30485)
 translate ru TailorRoute1_7f99b3b4:
@@ -1096,12 +1096,12 @@ translate ru TailorRoute1_7f99b3b4:
 # TailorRoute1_7a625c38 (line 30486)
 translate ru TailorRoute1_7a625c38:
     # alb "And I ain't used up. I got a few more good years in me."
-    alb ""
+    alb "And I ain't used up. I got a few more good years in me."
 
 # TailorRoute1_a29b4908 (line 30487)
 translate ru TailorRoute1_a29b4908:
     # alb "Don't I?"
-    alb ""
+    alb "Don't I?"
 
 # TailorRoute1_cb83f69e (line 30488)
 translate ru TailorRoute1_cb83f69e:
@@ -1116,7 +1116,7 @@ translate ru TailorRoute1_ca16ce16:
 # TailorRoute1_72901153 (line 30490)
 translate ru TailorRoute1_72901153:
     # alb "Answer me. You can keep my dick in your mouth."
-    alb ""
+    alb "Answer me. You can keep my dick in your mouth."
 
 # TailorRoute1_2d6268b2 (line 30491)
 translate ru TailorRoute1_2d6268b2:
@@ -1126,12 +1126,12 @@ translate ru TailorRoute1_2d6268b2:
 # TailorRoute1_a61356ef (line 30492)
 translate ru TailorRoute1_a61356ef:
     # alb "That's right."
-    alb ""
+    alb "That's right."
 
 # TailorRoute1_d47bb79b (line 30493)
 translate ru TailorRoute1_d47bb79b:
     # alb "Besides, some girls like old dick."
-    alb ""
+    alb "Besides, some girls like old dick."
 
 # TailorRoute1_2a1f67aa (line 30494)
 translate ru TailorRoute1_2a1f67aa:
@@ -1151,12 +1151,12 @@ translate ru TailorRoute1_b2537fe0:
 # TailorRoute1_f70fcecf (line 30497)
 translate ru TailorRoute1_f70fcecf:
     # s "Aah!"
-    s ""
+    s "Aah!"
 
 # TailorRoute1_b76090b9 (line 30498)
 translate ru TailorRoute1_b76090b9:
     # alb "Are you one of those girls that like old cock?"
-    alb ""
+    alb "Are you one of those girls that like old cock?"
 
 # TailorRoute1_98671775 (line 30499)
 translate ru TailorRoute1_98671775:
@@ -1201,27 +1201,27 @@ translate ru TailorRoute1_4091fe3d:
 # TailorRoute1_5ea57744 (line 30513)
 translate ru TailorRoute1_5ea57744:
     # alb "Let's get something straight."
-    alb ""
+    alb "Let's get something straight."
 
 # TailorRoute1_9025813c (line 30514)
 translate ru TailorRoute1_9025813c:
     # alb "I ain't your friend, I ain't your kindly grandfather either."
-    alb ""
+    alb "I ain't your friend, I ain't your kindly grandfather either."
 
 # TailorRoute1_eb5d87b1 (line 30515)
 translate ru TailorRoute1_eb5d87b1:
     # alb "You're my assistant."
-    alb ""
+    alb "You're my assistant."
 
 # TailorRoute1_f7d0fe21 (line 30516)
 translate ru TailorRoute1_f7d0fe21:
     # alb "When I ask you a question, you answer."
-    alb ""
+    alb "When I ask you a question, you answer."
 
 # TailorRoute1_d577faf2 (line 30517)
 translate ru TailorRoute1_d577faf2:
     # alb "This attitude of yours is the first thing we'll go about fixing, got that?"
-    alb ""
+    alb "This attitude of yours is the first thing we'll go about fixing, got that?"
 
 # TailorRoute1_a082354c (line 30518)
 translate ru TailorRoute1_a082354c:
@@ -1236,12 +1236,12 @@ translate ru TailorRoute1_609bf9f4:
 # TailorRoute1_440cc7d3 (line 30520)
 translate ru TailorRoute1_440cc7d3:
     # alb "Good, then apologize for giving me those angry eyes."
-    alb ""
+    alb "Good, then apologize for giving me those angry eyes."
 
 # TailorRoute1_70e4532d (line 30521)
 translate ru TailorRoute1_70e4532d:
     # s "I..."
-    s ""
+    s "I..."
 
 # TailorRoute1_88d14750 (line 30522)
 translate ru TailorRoute1_88d14750:
@@ -1251,12 +1251,12 @@ translate ru TailorRoute1_88d14750:
 # TailorRoute1_0c70a90e (line 30523)
 translate ru TailorRoute1_0c70a90e:
     # s "I'm sorry for giving you an angry look."
-    s ""
+    s "I'm sorry for giving you an angry look."
 
 # TailorRoute1_cd3e7a48 (line 30524)
 translate ru TailorRoute1_cd3e7a48:
     # alb "Good. Now answer the question. Are you one of those girls that like old cock?"
-    alb ""
+    alb "Good. Now answer the question. Are you one of those girls that like old cock?"
 
 # TailorRoute1_223c3f4c (line 30525)
 translate ru TailorRoute1_223c3f4c:
@@ -1266,17 +1266,17 @@ translate ru TailorRoute1_223c3f4c:
 # TailorRoute1_dcbd912f (line 30526)
 translate ru TailorRoute1_dcbd912f:
     # s "I...yes I like...old cock."
-    s ""
+    s "I...yes I like...old cock."
 
 # TailorRoute1_ae9f5531 (line 30527)
 translate ru TailorRoute1_ae9f5531:
     # alb "Good."
-    alb ""
+    alb "Good."
 
 # TailorRoute1_563a1f72 (line 30528)
 translate ru TailorRoute1_563a1f72:
     # alb "Now get back to work, and check that attitude or I'll give you another, got that?"
-    alb ""
+    alb "Now get back to work, and check that attitude or I'll give you another, got that?"
 
 # TailorRoute1_15b848d6 (line 30535)
 translate ru TailorRoute1_15b848d6:
@@ -1371,12 +1371,12 @@ translate ru TailorRoute1_f287dd20:
 # TailorRoute1_e2a500a2 (line 30563)
 translate ru TailorRoute1_e2a500a2:
     # alb "No!"
-    alb ""
+    alb "No!"
 
 # TailorRoute1_cc6617da (line 30564)
 translate ru TailorRoute1_cc6617da:
     # alb "Not like that!"
-    alb ""
+    alb "Not like that!"
 
 # TailorRoute1_fd05e4a2 (line 30566)
 translate ru TailorRoute1_fd05e4a2:
@@ -1386,7 +1386,7 @@ translate ru TailorRoute1_fd05e4a2:
 # TailorRoute1_05c01369 (line 30567)
 translate ru TailorRoute1_05c01369:
     # alb "Watch me do it."
-    alb ""
+    alb "Watch me do it."
 
 # TailorRoute1_7c6fb81c (line 30568)
 translate ru TailorRoute1_7c6fb81c:
@@ -1411,12 +1411,12 @@ translate ru TailorRoute1_78d87da6:
 # TailorRoute1_2d660ba5 (line 30572)
 translate ru TailorRoute1_2d660ba5:
     # alb "You slowed me down again today."
-    alb ""
+    alb "You slowed me down again today."
 
 # TailorRoute1_b23c74eb (line 30573)
 translate ru TailorRoute1_b23c74eb:
     # s "I'm sorry..."
-    s ""
+    s "I'm sorry..."
 
 # TailorRoute1_2c2465df (line 30574)
 translate ru TailorRoute1_2c2465df:
@@ -1426,12 +1426,12 @@ translate ru TailorRoute1_2c2465df:
 # TailorRoute1_849f29f1 (line 30575)
 translate ru TailorRoute1_849f29f1:
     # alb "How about you do the only thing you're actually good for?"
-    alb ""
+    alb "How about you do the only thing you're actually good for?"
 
 # TailorRoute1_d1563ef8 (line 30576)
 translate ru TailorRoute1_d1563ef8:
     # s "Yes..."
-    s ""
+    s "Yes..."
 
 # TailorRoute1_136b0b31 (line 30577)
 translate ru TailorRoute1_136b0b31:
@@ -1461,7 +1461,7 @@ translate ru TailorRoute1_98f96afc:
 # TailorRoute1_6ee9277e (line 30587)
 translate ru TailorRoute1_6ee9277e:
     # alb "Ah..."
-    alb ""
+    alb "Ah..."
 
 # TailorRoute1_cd0e3af7 (line 30588)
 translate ru TailorRoute1_cd0e3af7:
@@ -1471,7 +1471,7 @@ translate ru TailorRoute1_cd0e3af7:
 # TailorRoute1_f23af1cb (line 30589)
 translate ru TailorRoute1_f23af1cb:
     # alb "There you go..."
-    alb ""
+    alb "There you go..."
 
 # TailorRoute1_b8e09119 (line 30595)
 translate ru TailorRoute1_b8e09119:
@@ -1611,17 +1611,17 @@ translate ru TailorRoute1_72137a67:
 # TailorRoute1_ddccd892 (line 30628)
 translate ru TailorRoute1_ddccd892:
     # alb "Look, I call you my apprentice, but the truth it you have little talent for tailoring."
-    alb ""
+    alb "Look, I call you my apprentice, but the truth it you have little talent for tailoring."
 
 # TailorRoute1_c2c8b32c (line 30629)
 translate ru TailorRoute1_c2c8b32c:
     # alb "Had you been a real student, I would have fired you months ago."
-    alb ""
+    alb "Had you been a real student, I would have fired you months ago."
 
 # TailorRoute1_52c3e44b (line 30630)
 translate ru TailorRoute1_52c3e44b:
     # alb "You know why I keep you around."
-    alb ""
+    alb "You know why I keep you around."
 
 # TailorRoute1_edaa693d (line 30631)
 translate ru TailorRoute1_edaa693d:
@@ -1631,42 +1631,42 @@ translate ru TailorRoute1_edaa693d:
 # TailorRoute1_e29d9ae4 (line 30632)
 translate ru TailorRoute1_e29d9ae4:
     # alb "Good, then let's be honest."
-    alb ""
+    alb "Good, then let's be honest."
 
 # TailorRoute1_7f415bf8 (line 30633)
 translate ru TailorRoute1_7f415bf8:
     # alb "You're barely a step above a whore, and now you're carrying my child."
-    alb ""
+    alb "You're barely a step above a whore, and now you're carrying my child."
 
 # TailorRoute1_3ed059f9 (line 30634)
 translate ru TailorRoute1_3ed059f9:
     # alb "Either I throw you out to the streets today, or we make this proper."
-    alb ""
+    alb "Either I throw you out to the streets today, or we make this proper."
 
 # TailorRoute1_83f32f2f (line 30635)
 translate ru TailorRoute1_83f32f2f:
     # s "I...proper?"
-    s ""
+    s "I...proper?"
 
 # TailorRoute1_ac398a25 (line 30636)
 translate ru TailorRoute1_ac398a25:
     # alb "Yes. I will procure documents for marriage, shouldn't take more than a week."
-    alb ""
+    alb "Yes. I will procure documents for marriage, shouldn't take more than a week."
 
 # TailorRoute1_8fb4d59e (line 30637)
 translate ru TailorRoute1_8fb4d59e:
     # alb "I'll take you to my home in the city, and you can stay there."
-    alb ""
+    alb "I'll take you to my home in the city, and you can stay there."
 
 # TailorRoute1_d86561f5 (line 30638)
 translate ru TailorRoute1_d86561f5:
     # alb "Maybe you'll make a better housewife than a tailor."
-    alb ""
+    alb "Maybe you'll make a better housewife than a tailor."
 
 # TailorRoute1_853da4ca (line 30639)
 translate ru TailorRoute1_853da4ca:
     # alb "But make no mistake, I'll just as easily tell the Headmaster you were stealing and have you thrown to the street."
-    alb ""
+    alb "But make no mistake, I'll just as easily tell the Headmaster you were stealing and have you thrown to the street."
 
 # TailorRoute1_2a6b7be6 (line 30640)
 translate ru TailorRoute1_2a6b7be6:
@@ -1676,12 +1676,12 @@ translate ru TailorRoute1_2a6b7be6:
 # TailorRoute1_1e346be4 (line 30641)
 translate ru TailorRoute1_1e346be4:
     # alb "So, which will it be?"
-    alb ""
+    alb "So, which will it be?"
 
 # TailorRoute1_350809ba (line 30642)
 translate ru TailorRoute1_350809ba:
     # s "I..."
-    s ""
+    s "I..."
 
 # TailorRoute1_d71648e4 (line 30643)
 translate ru TailorRoute1_d71648e4:
@@ -1691,12 +1691,12 @@ translate ru TailorRoute1_d71648e4:
 # TailorRoute1_c348bdd2 (line 30644)
 translate ru TailorRoute1_c348bdd2:
     # s "I will marry you..."
-    s ""
+    s "I will marry you..."
 
 # TailorRoute1_ff8fe397 (line 30645)
 translate ru TailorRoute1_ff8fe397:
     # alb "Good girl."
-    alb ""
+    alb "Good girl."
 
 # TailorRoute1_c57089f7 (line 30646)
 translate ru TailorRoute1_c57089f7:
@@ -1721,7 +1721,7 @@ translate ru TailorRoute1_ea585526:
 # TailorRoute1_971f92ca (line 30650)
 translate ru TailorRoute1_971f92ca:
     # alb "Now, how about you show your future husband some gratitude?"
-    alb ""
+    alb "Now, how about you show your future husband some gratitude?"
 
 # TailorRoute1_57f034c5 (line 30651)
 translate ru TailorRoute1_57f034c5:

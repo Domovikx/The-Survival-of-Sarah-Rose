@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: WarriorQueen6Hinterlands
-# Total blocks: 191
+# Total blocks: 184
 
 # WarriorQueen6Hinterlands_885bfa84 (line 57773)
 translate ru WarriorQueen6Hinterlands_885bfa84:
@@ -171,7 +171,7 @@ translate ru WarriorQueen6Hinterlands_180a95d6:
 # WarriorQueen6Hinterlands_824854cc (line 57811)
 translate ru WarriorQueen6Hinterlands_824854cc:
     # s "Thank you."
-    s ""
+    s "Thank you."
 
 # WarriorQueen6Hinterlands_22a83163 (line 57812)
 translate ru WarriorQueen6Hinterlands_22a83163:
@@ -191,7 +191,7 @@ translate ru WarriorQueen6Hinterlands_ff3381a9:
 # WarriorQueen6Hinterlands_f02ae4b4 (line 57815)
 translate ru WarriorQueen6Hinterlands_f02ae4b4:
     # s "What is it?"
-    s ""
+    s "What is it?"
 
 # WarriorQueen6Hinterlands_dbb88a18 (line 57816)
 translate ru WarriorQueen6Hinterlands_dbb88a18:
@@ -326,7 +326,7 @@ translate ru WarriorQueen6Hinterlands_d80ca6d3:
 # WarriorQueen6Hinterlands_3984f1d2 (line 57852)
 translate ru WarriorQueen6Hinterlands_3984f1d2:
     # s "Fine, offer up your petition, but make it quick."
-    s ""
+    s "Fine, offer up your petition, but make it quick."
 
 # WarriorQueen6Hinterlands_f09f7f81 (line 57853)
 translate ru WarriorQueen6Hinterlands_f09f7f81:
@@ -351,7 +351,7 @@ translate ru WarriorQueen6Hinterlands_dd916cd6:
 # WarriorQueen6Hinterlands_c9392de1 (line 57857)
 translate ru WarriorQueen6Hinterlands_c9392de1:
     # s "Just say it."
-    s ""
+    s "Just say it."
 
 # WarriorQueen6Hinterlands_14e35924 (line 57858)
 translate ru WarriorQueen6Hinterlands_14e35924:
@@ -416,7 +416,7 @@ translate ru WarriorQueen6Hinterlands_f3d1da5f:
 # WarriorQueen6Hinterlands_cc0205bd (line 57870)
 translate ru WarriorQueen6Hinterlands_cc0205bd:
     # s "I understand what you're saying, but what is your petition?"
-    s ""
+    s "I understand what you're saying, but what is your petition?"
 
 # WarriorQueen6Hinterlands_ca7f101e (line 57871)
 translate ru WarriorQueen6Hinterlands_ca7f101e:
@@ -563,21 +563,6 @@ translate ru WarriorQueen6Hinterlands_e0cb2ed8:
     # "And the mob would likely not spare the girl their wrath."
     ""
 
-# WarriorQueen6Hinterlands_17ad8d55 (line 57909)
-translate ru WarriorQueen6Hinterlands_17ad8d55:
-    # "Set the mob loose, let them have their revenge"
-    "Set the mob loose, let them have their revenge" ""
-
-# WarriorQueen6Hinterlands_10d2b416 (line 57959)
-translate ru WarriorQueen6Hinterlands_10d2b416:
-    # "Tell the mob to disband"
-    "Tell the mob to disband" ""
-
-# WarriorQueen6Hinterlands_21112f96 (line 57988)
-translate ru WarriorQueen6Hinterlands_21112f96:
-    # "Enforce your own justice"
-    "Enforce your own justice" ""
-
 # WarriorQueen6Hinterlands_28ad2e6e (line 58046)
 translate ru WarriorQueen6Hinterlands_28ad2e6e:
     # "By early next morning, Sarah's army had returned on the march."
@@ -706,7 +691,7 @@ translate ru WarriorQueen6Hinterlands_b2131317:
 # WarriorQueen6Hinterlands_fedf497f (line 58076)
 translate ru WarriorQueen6Hinterlands_fedf497f:
     # s "Get ready!"
-    s ""
+    s "Get ready!"
 
 # WarriorQueen6Hinterlands_88fb6266 (line 58077)
 translate ru WarriorQueen6Hinterlands_88fb6266:
@@ -726,7 +711,7 @@ translate ru WarriorQueen6Hinterlands_413ec815:
 # WarriorQueen6Hinterlands_1d753bdb (line 58080)
 translate ru WarriorQueen6Hinterlands_1d753bdb:
     # s "Spearmen up first! Drop everything else!"
-    s ""
+    s "Spearmen up first! Drop everything else!"
 
 # WarriorQueen6Hinterlands_991c08d5 (line 58081)
 translate ru WarriorQueen6Hinterlands_991c08d5:
@@ -811,7 +796,7 @@ translate ru WarriorQueen6Hinterlands_143625be:
 # WarriorQueen6Hinterlands_17dfb637 (line 58097)
 translate ru WarriorQueen6Hinterlands_17dfb637:
     # s "Shields!"
-    s ""
+    s "Shields!"
 
 # WarriorQueen6Hinterlands_e9a58716 (line 58103)
 translate ru WarriorQueen6Hinterlands_e9a58716:
@@ -862,16 +847,6 @@ translate ru WarriorQueen6Hinterlands_045f9d97:
 translate ru WarriorQueen6Hinterlands_41829a81:
     # "If they held the line, they would be sitting targets. She had to do something."
     ""
-
-# WarriorQueen6Hinterlands_1415e294 (line 58118)
-translate ru WarriorQueen6Hinterlands_1415e294:
-    # "Send the spearmen forward"
-    "Send the spearmen forward" ""
-
-# WarriorQueen6Hinterlands_69c10cfd (line 58146)
-translate ru WarriorQueen6Hinterlands_69c10cfd:
-    # "Send in the knights"
-    "Send in the knights" ""
 
 # WarriorQueen6Hinterlands_cfda6c90 (line 58187)
 translate ru WarriorQueen6Hinterlands_cfda6c90:
@@ -947,14 +922,4 @@ translate ru WarriorQueen6Hinterlands_3b962f1a:
 translate ru WarriorQueen6Hinterlands_71745c76:
     # "You never entirely gained your strength back. Instead, you just did your best to survive and manage."
     ""
-
-# WarriorQueen6Hinterlands_cacee1ad (line 58670)
-translate ru WarriorQueen6Hinterlands_cacee1ad:
-    # "Let Kate Stay"
-    "Let Kate Stay" ""
-
-# WarriorQueen6Hinterlands_ece9c6c2 (line 58787)
-translate ru WarriorQueen6Hinterlands_ece9c6c2:
-    # "Send Kate Away"
-    "Send Kate Away" ""
 

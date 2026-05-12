@@ -321,7 +321,7 @@ translate ru UnionKingdom6_c72be087:
 # UnionKingdom6_b355f076 (line 9885)
 translate ru UnionKingdom6_b355f076:
     # s "Thank you, is she ready to receive me?"
-    s ""
+    s "Thank you, is she ready to receive me?"
 
 # UnionKingdom6_451f5c29 (line 9886)
 translate ru UnionKingdom6_451f5c29:
@@ -481,12 +481,12 @@ translate ru UnionKingdom6_b5af7b15:
 # UnionKingdom6_779ad13e (line 9953)
 translate ru UnionKingdom6_779ad13e:
     # mae "Be welcome at my court, Sarah Rose."
-    mae ""
+    mae "Be welcome at my court, Sarah Rose."
 
 # UnionKingdom6_6cd43b5f (line 9954)
 translate ru UnionKingdom6_6cd43b5f:
     # mae "I was most pleased when I received the news of you accepting my invitation to the Union Council."
-    mae ""
+    mae "I was most pleased when I received the news of you accepting my invitation to the Union Council."
 
 # UnionKingdom6_8f7d7017 (line 9955)
 translate ru UnionKingdom6_8f7d7017:
@@ -501,12 +501,12 @@ translate ru UnionKingdom6_ddf3c536:
 # UnionKingdom6_fb5efc09 (line 9957)
 translate ru UnionKingdom6_fb5efc09:
     # s "And I was much humbled to have received your invitation."
-    s ""
+    s "And I was much humbled to have received your invitation."
 
 # UnionKingdom6_ea3fa0b3 (line 9958)
 translate ru UnionKingdom6_ea3fa0b3:
     # s "Though I must admit I have received only the invitation, and know little of the topic of the council."
-    s ""
+    s "Though I must admit I have received only the invitation, and know little of the topic of the council."
 
 # UnionKingdom6_f2ccb1d5 (line 9959)
 translate ru UnionKingdom6_f2ccb1d5:
@@ -516,7 +516,7 @@ translate ru UnionKingdom6_f2ccb1d5:
 # UnionKingdom6_a40e9f89 (line 9960)
 translate ru UnionKingdom6_a40e9f89:
     # mae "Forgive me, I will depart with all the secrecy now that all of you have all gathered here."
-    mae ""
+    mae "Forgive me, I will depart with all the secrecy now that all of you have all gathered here."
 
 # UnionKingdom6_a9cf9f4f (line 9961)
 translate ru UnionKingdom6_a9cf9f4f:
@@ -526,12 +526,12 @@ translate ru UnionKingdom6_a9cf9f4f:
 # UnionKingdom6_94899971 (line 9962)
 translate ru UnionKingdom6_94899971:
     # s "All of us?"
-    s ""
+    s "All of us?"
 
 # UnionKingdom6_eb58c99d (line 9963)
 translate ru UnionKingdom6_eb58c99d:
     # mae "Yes, of course. You were the last to arrive, Marshal Edmond of Elarand and Duke Antonio of Medini arrived the day prior."
-    mae ""
+    mae "Yes, of course. You were the last to arrive, Marshal Edmond of Elarand and Duke Antonio of Medini arrived the day prior."
 
 # UnionKingdom6_5b4106c5 (line 9964)
 translate ru UnionKingdom6_5b4106c5:
@@ -581,12 +581,12 @@ translate ru UnionKingdom6_ce03db4a:
 # UnionKingdom6_c0aeb149 (line 9973)
 translate ru UnionKingdom6_c0aeb149:
     # s "I will be happy to meet with all of them."
-    s ""
+    s "I will be happy to meet with all of them."
 
 # UnionKingdom6_3b050633 (line 9974)
 translate ru UnionKingdom6_3b050633:
     # mae "Excellent, though we must put protocol before convenience."
-    mae ""
+    mae "Excellent, though we must put protocol before convenience."
 
 # UnionKingdom6_4d4655e9 (line 9975)
 translate ru UnionKingdom6_4d4655e9:
@@ -596,12 +596,12 @@ translate ru UnionKingdom6_4d4655e9:
 # UnionKingdom6_9bf3aac3 (line 9976)
 translate ru UnionKingdom6_9bf3aac3:
     # mae "There will be a great feast tonight. It is a rare fact to have every ruler of the Union Kingdoms under one roof."
-    mae ""
+    mae "There will be a great feast tonight. It is a rare fact to have every ruler of the Union Kingdoms under one roof."
 
 # UnionKingdom6_66a623e5 (line 9977)
 translate ru UnionKingdom6_66a623e5:
     # mae "Make easy tonight and we shall set the hard work out for tomorrow."
-    mae ""
+    mae "Make easy tonight and we shall set the hard work out for tomorrow."
 
 # UnionKingdom6_e8d187fc (line 9978)
 translate ru UnionKingdom6_e8d187fc:
@@ -616,7 +616,7 @@ translate ru UnionKingdom6_13f55594:
 # UnionKingdom6_80e180fd (line 9980)
 translate ru UnionKingdom6_80e180fd:
     # s "Thank you, Queen Maeiv, for your kind offer of a feast. I shall attend, as shall the most important members of my household."
-    s ""
+    s "Thank you, Queen Maeiv, for your kind offer of a feast. I shall attend, as shall the most important members of my household."
 
 # UnionKingdom6_fbbf4527 (line 9981)
 translate ru UnionKingdom6_fbbf4527:
@@ -626,7 +626,7 @@ translate ru UnionKingdom6_fbbf4527:
 # UnionKingdom6_99895dfa (line 9982)
 translate ru UnionKingdom6_99895dfa:
     # mae "You honour me with your presence, now please, allow my servants to escort you to your quarters."
-    mae ""
+    mae "You honour me with your presence, now please, allow my servants to escort you to your quarters."
 
 # UnionKingdom6_5173cc70 (line 9983)
 translate ru UnionKingdom6_5173cc70:

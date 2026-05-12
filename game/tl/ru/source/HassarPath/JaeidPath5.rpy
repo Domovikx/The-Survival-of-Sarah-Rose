@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: JaeidPath5
-# Total blocks: 75
+# Total blocks: 73
 
 # JaeidPath5_105b6e5e (line 21125)
 translate ru JaeidPath5_105b6e5e:
@@ -241,7 +241,7 @@ translate ru JaeidPath5_996af292:
 # JaeidPath5_878bc67a (line 21178)
 translate ru JaeidPath5_878bc67a:
     # s "Dahaehm...aeyah...khayin..."
-    s ""
+    s "Dahaehm...aeyah...khayin..."
 
 # JaeidPath5_86b19206 (line 21179)
 translate ru JaeidPath5_86b19206:
@@ -281,7 +281,7 @@ translate ru JaeidPath5_b4717130:
 # JaeidPath5_1bdb09e4 (line 21186)
 translate ru JaeidPath5_1bdb09e4:
     # s "Aaah!"
-    s ""
+    s "Aaah!"
 
 # JaeidPath5_3945fa37 (line 21193)
 translate ru JaeidPath5_3945fa37:
@@ -321,7 +321,7 @@ translate ru JaeidPath5_12f3deaf:
 # JaeidPath5_a91fb395 (line 21200)
 translate ru JaeidPath5_a91fb395:
     # s "I'm...sorry."
-    s ""
+    s "I'm...sorry."
 
 # JaeidPath5_001d9194 (line 21202)
 translate ru JaeidPath5_001d9194:
@@ -337,16 +337,6 @@ translate ru JaeidPath5_9dc15910:
 translate ru JaeidPath5_afc21a71:
     # "Sarah could feel him begin to pull her away from the market stall."
     ""
-
-# JaeidPath5_069250cd (line 21207)
-translate ru JaeidPath5_069250cd:
-    # "Invoke Jaeid's name"
-    "Invoke Jaeid's name" ""
-
-# JaeidPath5_65328f34 (line 21227)
-translate ru JaeidPath5_65328f34:
-    # "Say nothing"
-    "Say nothing" ""
 
 # JaeidPath5_f0c97c89 (line 21337)
 translate ru JaeidPath5_f0c97c89:

@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: FallOfLethram2
-# Total blocks: 477
+# Total blocks: 471
 
 # FallOfLethram2_96be0eba (line 86796)
 translate ru FallOfLethram2_96be0eba:
@@ -196,7 +196,7 @@ translate ru FallOfLethram2_c68a708f:
 # FallOfLethram2_946bd639 (line 86855)
 translate ru FallOfLethram2_946bd639:
     # s "Everyone!"
-    s ""
+    s "Everyone!"
 
 # FallOfLethram2_baa6eaf7 (line 86856)
 translate ru FallOfLethram2_baa6eaf7:
@@ -206,7 +206,7 @@ translate ru FallOfLethram2_baa6eaf7:
 # FallOfLethram2_a3b90288 (line 86857)
 translate ru FallOfLethram2_a3b90288:
     # s "Head to the docks, now!"
-    s ""
+    s "Head to the docks, now!"
 
 # FallOfLethram2_0d32ca1d (line 86858)
 translate ru FallOfLethram2_0d32ca1d:
@@ -236,7 +236,7 @@ translate ru FallOfLethram2_b37fcb73:
 # FallOfLethram2_040180a4 (line 86863)
 translate ru FallOfLethram2_040180a4:
     # s "Get to safety!!!"
-    s ""
+    s "Get to safety!!!"
 
 # FallOfLethram2_6c997b59 (line 86864)
 translate ru FallOfLethram2_6c997b59:
@@ -811,7 +811,7 @@ translate ru FallOfLethram2_be839e1a:
 # FallOfLethram2_3340b6ad (line 87013)
 translate ru FallOfLethram2_3340b6ad:
     # s "Grab my hand!"
-    s ""
+    s "Grab my hand!"
 
 # FallOfLethram2_b12e5c82 (line 87014)
 translate ru FallOfLethram2_b12e5c82:
@@ -831,7 +831,7 @@ translate ru FallOfLethram2_99237d8a:
 # FallOfLethram2_6b64350e (line 87017)
 translate ru FallOfLethram2_6b64350e:
     # s "Hold onto me, okay?"
-    s ""
+    s "Hold onto me, okay?"
 
 # FallOfLethram2_4151b370 (line 87018)
 translate ru FallOfLethram2_4151b370:
@@ -841,7 +841,7 @@ translate ru FallOfLethram2_4151b370:
 # FallOfLethram2_27f079cb (line 87019)
 translate ru FallOfLethram2_27f079cb:
     # s "Just keep looking at me. Don't look at them."
-    s ""
+    s "Just keep looking at me. Don't look at them."
 
 # FallOfLethram2_cde34fad (line 87020)
 translate ru FallOfLethram2_cde34fad:
@@ -851,7 +851,7 @@ translate ru FallOfLethram2_cde34fad:
 # FallOfLethram2_6a3b2fe1 (line 87021)
 translate ru FallOfLethram2_6a3b2fe1:
     # s "We're going to fly, so hold on."
-    s ""
+    s "We're going to fly, so hold on."
 
 # FallOfLethram2_ec3b7fb5 (line 87022)
 translate ru FallOfLethram2_ec3b7fb5:
@@ -916,7 +916,7 @@ translate ru FallOfLethram2_f167b34a:
 # FallOfLethram2_ee4333d4 (line 87034)
 translate ru FallOfLethram2_ee4333d4:
     # s "Are you okay?"
-    s ""
+    s "Are you okay?"
 
 # FallOfLethram2_d22ad473 (line 87035)
 translate ru FallOfLethram2_d22ad473:
@@ -926,7 +926,7 @@ translate ru FallOfLethram2_d22ad473:
 # FallOfLethram2_97da7f76 (line 87036)
 translate ru FallOfLethram2_97da7f76:
     # s "Okay, keep hanging on, we need to get to safety."
-    s ""
+    s "Okay, keep hanging on, we need to get to safety."
 
 # FallOfLethram2_127c8828 (line 87037)
 translate ru FallOfLethram2_127c8828:
@@ -961,7 +961,7 @@ translate ru FallOfLethram2_a83a8901:
 # FallOfLethram2_f52f77f5 (line 87043)
 translate ru FallOfLethram2_f52f77f5:
     # s "Listen to me."
-    s ""
+    s "Listen to me."
 
 # FallOfLethram2_5db38baa (line 87044)
 translate ru FallOfLethram2_5db38baa:
@@ -971,12 +971,12 @@ translate ru FallOfLethram2_5db38baa:
 # FallOfLethram2_ec3304e7 (line 87045)
 translate ru FallOfLethram2_ec3304e7:
     # s "You go down this street, straight down."
-    s ""
+    s "You go down this street, straight down."
 
 # FallOfLethram2_92c83c41 (line 87046)
 translate ru FallOfLethram2_92c83c41:
     # s "You don't take any side turns, you just keep going directly down this street until you reach the docks, got it?"
-    s ""
+    s "You don't take any side turns, you just keep going directly down this street until you reach the docks, got it?"
 
 # FallOfLethram2_e019d841 (line 87047)
 translate ru FallOfLethram2_e019d841:
@@ -986,12 +986,12 @@ translate ru FallOfLethram2_e019d841:
 # FallOfLethram2_4108beb4 (line 87048)
 translate ru FallOfLethram2_4108beb4:
     # s "Good."
-    s ""
+    s "Good."
 
 # FallOfLethram2_bc11a578 (line 87049)
 translate ru FallOfLethram2_bc11a578:
     # s "When you get there, don't stop until you're on one of the boats."
-    s ""
+    s "When you get there, don't stop until you're on one of the boats."
 
 # FallOfLethram2_b19fc479 (line 87050)
 translate ru FallOfLethram2_b19fc479:
@@ -1001,7 +1001,7 @@ translate ru FallOfLethram2_b19fc479:
 # FallOfLethram2_80d8d0e3 (line 87051)
 translate ru FallOfLethram2_80d8d0e3:
     # s "Go on, go now! Run!"
-    s ""
+    s "Go on, go now! Run!"
 
 # FallOfLethram2_6edc3efb (line 87052)
 translate ru FallOfLethram2_6edc3efb:
@@ -1416,7 +1416,7 @@ translate ru FallOfLethram2_9928310b:
 # FallOfLethram2_d87e50e3 (line 87149)
 translate ru FallOfLethram2_d87e50e3:
     # hec "Run, now! Get as many people onto those ships as you can!"
-    hec ""
+    hec "Run, now! Get as many people onto those ships as you can!"
 
 # FallOfLethram2_f9ceb3d6 (line 87150)
 translate ru FallOfLethram2_f9ceb3d6:
@@ -1446,7 +1446,7 @@ translate ru FallOfLethram2_c6d479ee:
 # FallOfLethram2_ec8d4cb1 (line 87155)
 translate ru FallOfLethram2_ec8d4cb1:
     # hec "Run!"
-    hec ""
+    hec "Run!"
 
 # FallOfLethram2_76d14a6a (line 87156)
 translate ru FallOfLethram2_76d14a6a:
@@ -1996,7 +1996,7 @@ translate ru FallOfLethram2_b8c39bcf:
 # FallOfLethram2_aabf29aa (line 87335)
 translate ru FallOfLethram2_aabf29aa:
     # s "Captain?"
-    s ""
+    s "Captain?"
 
 # FallOfLethram2_0e3d72fc (line 87336)
 translate ru FallOfLethram2_0e3d72fc:
@@ -2031,12 +2031,12 @@ translate ru FallOfLethram2_f2fbedf1:
 # FallOfLethram2_32ab1fb9 (line 87342)
 translate ru FallOfLethram2_32ab1fb9:
     # s "I understand."
-    s ""
+    s "I understand."
 
 # FallOfLethram2_e48af29d (line 87343)
 translate ru FallOfLethram2_e48af29d:
     # s "I just wanted to ask...where are we going now?"
-    s ""
+    s "I just wanted to ask...where are we going now?"
 
 # FallOfLethram2_3f83d14d (line 87344)
 translate ru FallOfLethram2_3f83d14d:
@@ -2056,7 +2056,7 @@ translate ru FallOfLethram2_d4a0341a:
 # FallOfLethram2_2fe671de (line 87347)
 translate ru FallOfLethram2_2fe671de:
     # s "I see."
-    s ""
+    s "I see."
 
 # FallOfLethram2_712762a3 (line 87348)
 translate ru FallOfLethram2_712762a3:
@@ -2086,7 +2086,7 @@ translate ru FallOfLethram2_c503a74a:
 # FallOfLethram2_88499635 (line 87353)
 translate ru FallOfLethram2_88499635:
     # s "So, the only option would be Rahayal."
-    s ""
+    s "So, the only option would be Rahayal."
 
 # FallOfLethram2_d2aa7702 (line 87354)
 translate ru FallOfLethram2_d2aa7702:
@@ -2101,7 +2101,7 @@ translate ru FallOfLethram2_7b67d592:
 # FallOfLethram2_fd049102 (line 87356)
 translate ru FallOfLethram2_fd049102:
     # s "You think they'll be receptive?"
-    s ""
+    s "You think they'll be receptive?"
 
 # FallOfLethram2_3a7fb3e5 (line 87357)
 translate ru FallOfLethram2_3a7fb3e5:
@@ -2126,7 +2126,7 @@ translate ru FallOfLethram2_5af546f6:
 # FallOfLethram2_5aba9ebc (line 87361)
 translate ru FallOfLethram2_5aba9ebc:
     # s "They?"
-    s ""
+    s "They?"
 
 # FallOfLethram2_8a5a434b (line 87362)
 translate ru FallOfLethram2_8a5a434b:
@@ -2211,7 +2211,7 @@ translate ru FallOfLethram2_4a0d3d2d:
 # FallOfLethram2_7674ddad (line 87378)
 translate ru FallOfLethram2_7674ddad:
     # s "Will your officer not mind?"
-    s ""
+    s "Will your officer not mind?"
 
 # FallOfLethram2_0e21be3c (line 87379)
 translate ru FallOfLethram2_0e21be3c:
@@ -2231,7 +2231,7 @@ translate ru FallOfLethram2_09606b29:
 # FallOfLethram2_eeda162c (line 87382)
 translate ru FallOfLethram2_eeda162c:
     # s "I understand. Thank you for the kindness."
-    s ""
+    s "I understand. Thank you for the kindness."
 
 # FallOfLethram2_3201184c (line 87383)
 translate ru FallOfLethram2_3201184c:
@@ -2357,34 +2357,4 @@ translate ru FallOfLethram2_79c18f86:
 translate ru FallOfLethram2_38137872:
     # "By now, it was starting to get dark."
     ""
-
-# FallOfLethram2_01aef846 (line 87930)
-translate ru FallOfLethram2_01aef846:
-    # "Meet with the Captain"
-    "Meet with the Captain" ""
-
-# FallOfLethram2_acc04534 (line 87988)
-translate ru FallOfLethram2_acc04534:
-    # "Accept, dine with the Captain"
-    "Accept, dine with the Captain" ""
-
-# FallOfLethram2_cdc074a8 (line 88028)
-translate ru FallOfLethram2_cdc074a8:
-    # "Keep Drinking"
-    "Keep Drinking" ""
-
-# FallOfLethram2_487b3fa5 (line 88261)
-translate ru FallOfLethram2_487b3fa5:
-    # "Call it a night"
-    "Call it a night" ""
-
-# FallOfLethram2_e36e1217 (line 88271)
-translate ru FallOfLethram2_e36e1217:
-    # "Refuse"
-    "Refuse" ""
-
-# FallOfLethram2_66c8d1d1 (line 88282)
-translate ru FallOfLethram2_66c8d1d1:
-    # "Stay alone in the cabin"
-    "Stay alone in the cabin" ""
 

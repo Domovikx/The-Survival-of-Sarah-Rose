@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TheHollowWorldMage6
-# Total blocks: 163
+# Total blocks: 159
 
 # TheHollowWorldMage6_5dbbd099 (line 74750)
 translate ru TheHollowWorldMage6_5dbbd099:
@@ -56,7 +56,7 @@ translate ru TheHollowWorldMage6_ce84c716:
 # TheHollowWorldMage6_ac53d10c (line 74762)
 translate ru TheHollowWorldMage6_ac53d10c:
     # r "Old friend..."
-    r ""
+    r "Old friend..."
 
 # TheHollowWorldMage6_30609f0a (line 74763)
 translate ru TheHollowWorldMage6_30609f0a:
@@ -66,7 +66,7 @@ translate ru TheHollowWorldMage6_30609f0a:
 # TheHollowWorldMage6_5b7836b4 (line 74764)
 translate ru TheHollowWorldMage6_5b7836b4:
     # s "Come to deliver more riddles? Or perhaps taunt me today?"
-    s ""
+    s "Come to deliver more riddles? Or perhaps taunt me today?"
 
 # TheHollowWorldMage6_4e38a9af (line 74765)
 translate ru TheHollowWorldMage6_4e38a9af:
@@ -76,12 +76,12 @@ translate ru TheHollowWorldMage6_4e38a9af:
 # TheHollowWorldMage6_80aa79b5 (line 74766)
 translate ru TheHollowWorldMage6_80aa79b5:
     # r "Rather the opposite."
-    r ""
+    r "Rather the opposite."
 
 # TheHollowWorldMage6_3ec1724b (line 74767)
 translate ru TheHollowWorldMage6_3ec1724b:
     # r "Answers, should you be in need of any."
-    r ""
+    r "Answers, should you be in need of any."
 
 # TheHollowWorldMage6_2b1b24c3 (line 74768)
 translate ru TheHollowWorldMage6_2b1b24c3:
@@ -91,17 +91,17 @@ translate ru TheHollowWorldMage6_2b1b24c3:
 # TheHollowWorldMage6_90006c10 (line 74769)
 translate ru TheHollowWorldMage6_90006c10:
     # s "Answers?"
-    s ""
+    s "Answers?"
 
 # TheHollowWorldMage6_a68fd6fd (line 74770)
 translate ru TheHollowWorldMage6_a68fd6fd:
     # r "That is, supposing you are still interested in learning more of the book."
-    r ""
+    r "That is, supposing you are still interested in learning more of the book."
 
 # TheHollowWorldMage6_17b23ac2 (line 74771)
 translate ru TheHollowWorldMage6_17b23ac2:
     # s "Yes!"
-    s ""
+    s "Yes!"
 
 # TheHollowWorldMage6_45d4ffa3 (line 74772)
 translate ru TheHollowWorldMage6_45d4ffa3:
@@ -111,7 +111,7 @@ translate ru TheHollowWorldMage6_45d4ffa3:
 # TheHollowWorldMage6_c6bd1f46 (line 74773)
 translate ru TheHollowWorldMage6_c6bd1f46:
     # r "I have considered the easiest way for you to make sense of the matter."
-    r ""
+    r "I have considered the easiest way for you to make sense of the matter."
 
 # TheHollowWorldMage6_7a057807 (line 74774)
 translate ru TheHollowWorldMage6_7a057807:
@@ -121,7 +121,7 @@ translate ru TheHollowWorldMage6_7a057807:
 # TheHollowWorldMage6_474c1297 (line 74775)
 translate ru TheHollowWorldMage6_474c1297:
     # r "You will need to consult a book titled 'A Brief Investigation on Ethics'."
-    r ""
+    r "You will need to consult a book titled 'A Brief Investigation on Ethics'."
 
 # TheHollowWorldMage6_5412d67d (line 74776)
 translate ru TheHollowWorldMage6_5412d67d:
@@ -131,17 +131,17 @@ translate ru TheHollowWorldMage6_5412d67d:
 # TheHollowWorldMage6_86169f52 (line 74777)
 translate ru TheHollowWorldMage6_86169f52:
     # s "You want me to read more books?"
-    s ""
+    s "You want me to read more books?"
 
 # TheHollowWorldMage6_61cd6842 (line 74778)
 translate ru TheHollowWorldMage6_61cd6842:
     # r "I told you that you would need a base of knowledge to even begin to understand the book you seek to grapple with."
-    r ""
+    r "I told you that you would need a base of knowledge to even begin to understand the book you seek to grapple with."
 
 # TheHollowWorldMage6_961d954d (line 74779)
 translate ru TheHollowWorldMage6_961d954d:
     # r "Or have you perhaps decided to begin your investigation yourself."
-    r ""
+    r "Or have you perhaps decided to begin your investigation yourself."
 
 # TheHollowWorldMage6_28ab43cf (line 74780)
 translate ru TheHollowWorldMage6_28ab43cf:
@@ -166,22 +166,22 @@ translate ru TheHollowWorldMage6_e2140f6a:
 # TheHollowWorldMage6_89e823bd (line 74784)
 translate ru TheHollowWorldMage6_89e823bd:
     # s "I'm willing to consider your approach."
-    s ""
+    s "I'm willing to consider your approach."
 
 # TheHollowWorldMage6_2cc33cfa (line 74785)
 translate ru TheHollowWorldMage6_2cc33cfa:
     # r "Excellent."
-    r ""
+    r "Excellent."
 
 # TheHollowWorldMage6_b8def549 (line 74786)
 translate ru TheHollowWorldMage6_b8def549:
     # s "But where can I find a copy of the book you mentioned?"
-    s ""
+    s "But where can I find a copy of the book you mentioned?"
 
 # TheHollowWorldMage6_41f8e878 (line 74787)
 translate ru TheHollowWorldMage6_41f8e878:
     # r "Well, it is quite a rare print. One could perhaps be found in the vault of Bagrad, but I suppose that is less of an option these days."
-    r ""
+    r "Well, it is quite a rare print. One could perhaps be found in the vault of Bagrad, but I suppose that is less of an option these days."
 
 # TheHollowWorldMage6_cd574351 (line 74788)
 translate ru TheHollowWorldMage6_cd574351:
@@ -191,27 +191,27 @@ translate ru TheHollowWorldMage6_cd574351:
 # TheHollowWorldMage6_3f50adb8 (line 74789)
 translate ru TheHollowWorldMage6_3f50adb8:
     # r "Then again, there is a perfectly functional library in this house."
-    r ""
+    r "Then again, there is a perfectly functional library in this house."
 
 # TheHollowWorldMage6_58f5d6ae (line 74790)
 translate ru TheHollowWorldMage6_58f5d6ae:
     # s "In here? I don't remember a book by that name."
-    s ""
+    s "In here? I don't remember a book by that name."
 
 # TheHollowWorldMage6_c62c384a (line 74791)
 translate ru TheHollowWorldMage6_c62c384a:
     # r "No, not this library. Nor his private study. You need to visit the central library."
-    r ""
+    r "No, not this library. Nor his private study. You need to visit the central library."
 
 # TheHollowWorldMage6_29fd88d1 (line 74792)
 translate ru TheHollowWorldMage6_29fd88d1:
     # s "The central library?"
-    s ""
+    s "The central library?"
 
 # TheHollowWorldMage6_c28e76ff (line 74793)
 translate ru TheHollowWorldMage6_c28e76ff:
     # r "Yes. I suspect Xan kept you from that room as well, but it is quite easy to find should you be willing enough to find it."
-    r ""
+    r "Yes. I suspect Xan kept you from that room as well, but it is quite easy to find should you be willing enough to find it."
 
 # TheHollowWorldMage6_30a47f43 (line 74794)
 translate ru TheHollowWorldMage6_30a47f43:
@@ -221,12 +221,12 @@ translate ru TheHollowWorldMage6_30a47f43:
 # TheHollowWorldMage6_54f349ce (line 74795)
 translate ru TheHollowWorldMage6_54f349ce:
     # s "Where would that be, exactly?"
-    s ""
+    s "Where would that be, exactly?"
 
 # TheHollowWorldMage6_7470e30c (line 74796)
 translate ru TheHollowWorldMage6_7470e30c:
     # r "Leave this room, turn down the hall, second door on your left."
-    r ""
+    r "Leave this room, turn down the hall, second door on your left."
 
 # TheHollowWorldMage6_7954d21d (line 74797)
 translate ru TheHollowWorldMage6_7954d21d:
@@ -236,12 +236,12 @@ translate ru TheHollowWorldMage6_7954d21d:
 # TheHollowWorldMage6_c9d33b5c (line 74798)
 translate ru TheHollowWorldMage6_c9d33b5c:
     # s "That's a storage room."
-    s ""
+    s "That's a storage room."
 
 # TheHollowWorldMage6_6db6ef57 (line 74799)
 translate ru TheHollowWorldMage6_6db6ef57:
     # r "It is whatever the master of the house wills it to be. What do you will it to be?"
-    r ""
+    r "It is whatever the master of the house wills it to be. What do you will it to be?"
 
 # TheHollowWorldMage6_a2da57d5 (line 74800)
 translate ru TheHollowWorldMage6_a2da57d5:
@@ -251,17 +251,17 @@ translate ru TheHollowWorldMage6_a2da57d5:
 # TheHollowWorldMage6_074e350b (line 74801)
 translate ru TheHollowWorldMage6_074e350b:
     # s "The central library..."
-    s ""
+    s "The central library..."
 
 # TheHollowWorldMage6_3870b53f (line 74802)
 translate ru TheHollowWorldMage6_3870b53f:
     # r "Then I suspect you will find it waiting for you."
-    r ""
+    r "Then I suspect you will find it waiting for you."
 
 # TheHollowWorldMage6_072b636d (line 74803)
 translate ru TheHollowWorldMage6_072b636d:
     # r "Go ahead and explore it. I suspect you'll find it most useful."
-    r ""
+    r "Go ahead and explore it. I suspect you'll find it most useful."
 
 # TheHollowWorldMage6_6fbade2a (line 74805)
 translate ru TheHollowWorldMage6_6fbade2a:
@@ -351,7 +351,7 @@ translate ru TheHollowWorldMage6_030af70c:
 # TheHollowWorldMage6_8a56c738 (line 74876)
 translate ru TheHollowWorldMage6_8a56c738:
     # s "I can't believe it..."
-    s ""
+    s "I can't believe it..."
 
 # TheHollowWorldMage6_a9d4ec25 (line 74887)
 translate ru TheHollowWorldMage6_a9d4ec25:
@@ -396,7 +396,7 @@ translate ru TheHollowWorldMage6_f8930234:
 # TheHollowWorldMage6_2edf72e3 (line 74900)
 translate ru TheHollowWorldMage6_2edf72e3:
     # s "Who are you?"
-    s ""
+    s "Who are you?"
 
 # TheHollowWorldMage6_745a6c22 (line 74901)
 translate ru TheHollowWorldMage6_745a6c22:
@@ -406,7 +406,7 @@ translate ru TheHollowWorldMage6_745a6c22:
 # TheHollowWorldMage6_af47794e (line 74902)
 translate ru TheHollowWorldMage6_af47794e:
     # s "But where are you?"
-    s ""
+    s "But where are you?"
 
 # TheHollowWorldMage6_0214c4ad (line 74903)
 translate ru TheHollowWorldMage6_0214c4ad:
@@ -421,7 +421,7 @@ translate ru TheHollowWorldMage6_9340f1c2:
 # TheHollowWorldMage6_c35c26f8 (line 74905)
 translate ru TheHollowWorldMage6_c35c26f8:
     # s "The master? Do you mean Xan?"
-    s ""
+    s "The master? Do you mean Xan?"
 
 # TheHollowWorldMage6_b57a5c63 (line 74906)
 translate ru TheHollowWorldMage6_b57a5c63:
@@ -446,7 +446,7 @@ translate ru TheHollowWorldMage6_041f1657:
 # TheHollowWorldMage6_0daad364 (line 74910)
 translate ru TheHollowWorldMage6_0daad364:
     # s "What...what can you do, exactly?"
-    s ""
+    s "What...what can you do, exactly?"
 
 # TheHollowWorldMage6_f89c0983 (line 74911)
 translate ru TheHollowWorldMage6_f89c0983:
@@ -486,7 +486,7 @@ translate ru TheHollowWorldMage6_e5d5e5f6:
 # TheHollowWorldMage6_0df219af (line 74918)
 translate ru TheHollowWorldMage6_0df219af:
     # s "Do you have a copy of 'The Hollow World?'"
-    s ""
+    s "Do you have a copy of 'The Hollow World?'"
 
 # TheHollowWorldMage6_c4348cd4 (line 74919)
 translate ru TheHollowWorldMage6_c4348cd4:
@@ -516,7 +516,7 @@ translate ru TheHollowWorldMage6_f6131628:
 # TheHollowWorldMage6_f00a5c7d (line 74924)
 translate ru TheHollowWorldMage6_f00a5c7d:
     # s "Do you have a copy of 'A Brief Investigation on Ethics?'"
-    s ""
+    s "Do you have a copy of 'A Brief Investigation on Ethics?'"
 
 # TheHollowWorldMage6_12015e26 (line 74925)
 translate ru TheHollowWorldMage6_12015e26:
@@ -566,7 +566,7 @@ translate ru TheHollowWorldMage6_4a9d6b8a:
 # TheHollowWorldMage6_eb6bd801 (line 74934)
 translate ru TheHollowWorldMage6_eb6bd801:
     # s "Yes...I think."
-    s ""
+    s "Yes...I think."
 
 # TheHollowWorldMage6_5bff49bb (line 74935)
 translate ru TheHollowWorldMage6_5bff49bb:
@@ -576,7 +576,7 @@ translate ru TheHollowWorldMage6_5bff49bb:
 # TheHollowWorldMage6_e10f185f (line 74936)
 translate ru TheHollowWorldMage6_e10f185f:
     # s "The...most recent one?"
-    s ""
+    s "The...most recent one?"
 
 # TheHollowWorldMage6_04deea03 (line 74937)
 translate ru TheHollowWorldMage6_04deea03:
@@ -621,7 +621,7 @@ translate ru TheHollowWorldMage6_2328fc97:
 # TheHollowWorldMage6_73c27a2a (line 74982)
 translate ru TheHollowWorldMage6_73c27a2a:
     # s "Surely there are better ways of bringing me a book than hurling it at my face?"
-    s ""
+    s "Surely there are better ways of bringing me a book than hurling it at my face?"
 
 # TheHollowWorldMage6_1b410c34 (line 74983)
 translate ru TheHollowWorldMage6_1b410c34:
@@ -797,24 +797,4 @@ translate ru TheHollowWorldMage6_61526ea7:
 translate ru TheHollowWorldMage6_ea28ea9c:
     # "The book offered plenty of questions, yet still few answers."
     ""
-
-# TheHollowWorldMage6_0e3ad519 (line 75180)
-translate ru TheHollowWorldMage6_0e3ad519:
-    # "Suggest sleeping with the spirit together"
-    "Suggest sleeping with the spirit together" ""
-
-# TheHollowWorldMage6_457a4d1f (line 75314)
-translate ru TheHollowWorldMage6_457a4d1f:
-    # "Rebuke Razaphel"
-    "Rebuke Razaphel" ""
-
-# TheHollowWorldMage6_fe4b49bf (line 75370)
-translate ru TheHollowWorldMage6_fe4b49bf:
-    # "Give yourself over to Razaphel"
-    "Give yourself over to Razaphel" ""
-
-# TheHollowWorldMage6_6beac69d (line 75480)
-translate ru TheHollowWorldMage6_6beac69d:
-    # "Rebuke the spirit"
-    "Rebuke the spirit" ""
 

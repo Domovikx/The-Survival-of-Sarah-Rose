@@ -194,8 +194,8 @@ class RenPyTextExtractor:
                     hash_input = f"{file_path}:{i+1}:menu_choice:{text}"
                     short_hash = hashlib.md5(hash_input.encode()).hexdigest()[:8]
                     block = TextBlock(
-                        id=f"{current_label}_{short_hash}",
-                        label=current_label,
+                        id=f"menu_{short_hash}",
+                        label="menu_choices",
                         source_file=str(file_path),
                         line_number=i + 1,
                         text_type='menu_choice',
@@ -203,7 +203,12 @@ class RenPyTextExtractor:
                         context_before=prev_lines,
                         context_after=next_lines
                     )
-                    self._add_block(block, current_scene, dialogue_blocks)
+                    # Menu choices НЕ добавляются в scene.blocks - они идут в screens.rpy
+                    if block.original_text.strip():
+                        key = f"{block.source_file}:{block.line_number}:{block.text_type}:{block.original_text}"
+                        if key not in self.seen_strings:
+                            self.seen_strings.add(key)
+                            self.ui_strings.append(block)  # Добавляем в ui_strings для old/new формата
 
             # === 4. UI строки: _("...") или _("...") ===
             ui_in_line = self._find_all_strings_in_line(line, str(file_path), i + 1, 'ui_string')
@@ -345,19 +350,73 @@ class RenPyTextExtractor:
         self._save_ui_strings()
         self._save_characters()
 
+    def _load_existing_translations(self, output_dir: Path) -> Dict[str, str]:
+        """Загружает существующие переводы из output_dir"""
+        existing = {}
+        if not output_dir.exists():
+            return existing
+
+        # Ищем все .rpy файлы в output
+        for rpy_file in output_dir.rglob("*.rpy"):
+            try:
+                with open(rpy_file, 'r', encoding='utf-8') as f:
+                    content = f.read()
+
+                # Паттерн для translate блоков с содержимым
+                block_pattern = re.compile(
+                    r'translate ru (\S+):\s*\n((?:[^\n]*\n)*?)(?=\ntranslate|\n#|\Z)',
+                    re.MULTILINE
+                )
+
+                for block_match in block_pattern.finditer(content):
+                    block_id = block_match.group(1)
+                    block_body = block_match.group(2)
+
+                    # dialogue format: character "translation"
+                    dialogue_pattern = re.compile(r'(\S+)\s+"((?:[^"\\]|\\.)*)"')
+                    # narration/plain format: "translation" or ""
+                    # Две группы: (1) для пустых кавычек (""), (2) для текста
+                    narration_pattern = re.compile(r'^(\s+""\s*)$|^(\s+"(.*?)"\s*)$', re.MULTILINE)
+
+                    for d_match in dialogue_pattern.finditer(block_body):
+                        char = d_match.group(1)
+                        translation = d_match.group(2)
+                        if translation:  # Не пустой перевод
+                            existing[f"{block_id}_{char}"] = f'"{translation}"'
+
+                    for n_match in narration_pattern.finditer(block_body):
+                        # Группа 1 - для пустых кавычек (""), Группа 2/3 - для текста
+                        if n_match.group(1) is not None:
+                            # Пустые кавычки - сохраняем пустую строку
+                            existing[block_id] = '""'
+                        elif n_match.group(3) is not None:
+                            # Текст в кавычках - сохраняем текст
+                            existing[block_id] = f'"{n_match.group(3)}"'
+
+            except Exception as e:
+                print(f"Warning: Could not read {rpy_file}: {e}")
+
+        return existing
+
     def _save_renpy_format(self):
-        """Сохраняет основные диалоги/нарратив"""
+        """Сохраняет основные диалоги/нарратив (НЕ menu choices!)
+        С сохраняет уже переведённые блоки"""
         output_dir = self.output_dir
         output_dir.mkdir(parents=True, exist_ok=True)
+
+        # Загружаем существующие переводы
+        existing_translations = self._load_existing_translations(output_dir)
 
         arcs = self.organize_into_arcs()
 
         manifest = {
             'extracted_at': datetime.now().isoformat(),
             'arcs': [],
-            'total_dialogue_blocks': len([t for t in self.texts if t.text_type in ['dialogue', 'narration', 'menu_choice']]),
+            'total_dialogue_blocks': len([t for t in self.texts if t.text_type in ['dialogue', 'narration']]),
             'total_ui_strings': len(self.ui_strings),
-            'total_character_names': len(self.character_names)
+            'total_character_names': len(self.character_names),
+            'total_menu_choices': len([t for t in self.texts if t.text_type == 'menu_choice']),
+            'preserved_translations': len(existing_translations)
         }
 
         for arc in arcs:
@@ -368,6 +427,12 @@ class RenPyTextExtractor:
 
             for scene in arc.scenes:
                 scene_file = arc_dir / f"{scene.name}.rpy"
+
+                # Читаем существующий файл если есть
+                existing_scene = {}
+                if scene_file.exists():
+                    existing_scene = self._load_existing_translations(scene_file.parent)
+
                 with open(scene_file, 'w', encoding='utf-8') as f:
                     f.write("# -*- encoding: utf-8 -*-\n")
                     f.write(f"# Extracted from: {scene.source_file}\n")
@@ -375,21 +440,29 @@ class RenPyTextExtractor:
                     f.write(f"# Total blocks: {len(scene.blocks)}\n\n")
 
                     for block in scene.blocks:
+                        # Menu choices НЕ попадают в этот файл
+                        if block.text_type == 'menu_choice':
+                            continue
+
+                        # Проверяем есть ли уже перевод
+                        if block.text_type == 'dialogue':
+                            key = f"{block.id}_{block.character}"
+                            existing_translation = existing_translations.get(key) or existing_scene.get(key)
+                        else:
+                            existing_translation = existing_translations.get(block.id) or existing_scene.get(block.id)
+
+                        translation = existing_translation if existing_translation else '""'
+
                         if block.text_type == 'dialogue':
                             f.write(f"# {block.id} (line {block.line_number})\n")
                             f.write(f"translate ru {block.id}:\n")
                             f.write(f"    # {block.character} \"{block.original_text}\"\n")
-                            f.write(f'    {block.character} ""\n\n')
-                        elif block.text_type == 'menu_choice':
-                            f.write(f"# {block.id} (line {block.line_number})\n")
-                            f.write(f"translate ru {block.id}:\n")
-                            f.write(f'    # "{block.original_text}"\n')
-                            f.write(f'    "{block.original_text}" ""\n\n')
+                            f.write(f'    {block.character} {translation}\n\n')
                         else:  # narration
                             f.write(f"# {block.id} (line {block.line_number})\n")
                             f.write(f"translate ru {block.id}:\n")
                             f.write(f'    # "{block.original_text}"\n')
-                            f.write(f'    ""\n\n')
+                            f.write(f'    {translation}\n\n')
 
                 arc_info['scenes'].append({
                     'name': scene.name,
@@ -404,17 +477,20 @@ class RenPyTextExtractor:
             json.dump(manifest, f, ensure_ascii=False, indent=2)
 
         print(f"Saved dialogue/narration to {output_dir}")
+        if existing_translations:
+            print(f"  Preserved {len(existing_translations)} existing translations")
 
     def _save_ui_strings(self):
-        """Сохраняет UI строки отдельно - в формате old/new"""
+        """Сохраняет UI строки и menu choices в формате old/new"""
         output_dir = self.output_dir / 'ui_strings'
         output_dir.mkdir(parents=True, exist_ok=True)
 
         ui_file = output_dir / 'screens.rpy'
         with open(ui_file, 'w', encoding='utf-8') as f:
             f.write("# -*- encoding: utf-8 -*-\n")
-            f.write("# UI Strings - Buttons, Menus, etc.\n")
-            f.write(f"# Total: {len(self.ui_strings)} strings\n\n")
+            f.write("# UI Strings & Menu Choices\n")
+            f.write("# Total: {} strings + {} menu choices\n\n".format(
+                len(self.ui_strings), len([t for t in self.texts if t.text_type == 'menu_choice'])))
 
             f.write("translate ru strings:\n\n")
 
@@ -422,7 +498,13 @@ class RenPyTextExtractor:
                 f.write(f'    old "{block.original_text}"\n')
                 f.write(f'    new "{block.original_text}"\n\n')
 
-        print(f"Saved UI strings to {ui_file}")
+            # Добавляем menu choices в тот же файл
+            menu_choices = [t for t in self.texts if t.text_type == 'menu_choice']
+            for block in menu_choices:
+                f.write(f'    old "{block.original_text}"\n')
+                f.write(f'    new "{block.original_text}"\n\n')
+
+        print(f"Saved UI strings ({len(self.ui_strings)}) and menu choices ({len(menu_choices)}) to {ui_file}")
 
     def _save_characters(self):
         """Сохраняет имена персонажей - в формате old/new"""
@@ -461,10 +543,11 @@ def main():
     print(f"Game dir: {game_dir}")
     print(f"Output dir: {output_dir}\n")
 
-    # Очищаем предыдущие результаты
-    if output_dir.exists():
+    # Очищаем предыдущие результаты ТОЛЬКО если передан флаг --clean
+    if '--clean' in sys.argv and output_dir.exists():
         import shutil
         shutil.rmtree(output_dir)
+        print("Cleaned output directory.\n")
 
     extractor = RenPyTextExtractor(str(game_dir), str(output_dir))
     extractor.extract_all()

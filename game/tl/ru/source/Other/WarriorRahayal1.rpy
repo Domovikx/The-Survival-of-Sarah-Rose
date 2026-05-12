@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: WarriorRahayal1
-# Total blocks: 208
+# Total blocks: 206
 
 # WarriorRahayal1_552de2ce (line 49658)
 translate ru WarriorRahayal1_552de2ce:
@@ -201,12 +201,12 @@ translate ru WarriorRahayal1_4cd78a72:
 # WarriorRahayal1_7a6d86ba (line 49766)
 translate ru WarriorRahayal1_7a6d86ba:
     # k "Let's hope there's going to be a town left after tonight."
-    k ""
+    k "Let's hope there's going to be a town left after tonight."
 
 # WarriorRahayal1_4bfcc1cd (line 49767)
 translate ru WarriorRahayal1_4bfcc1cd:
     # s "You think the men will be causing trouble?"
-    s ""
+    s "You think the men will be causing trouble?"
 
 # WarriorRahayal1_b9d9db5c (line 49768)
 translate ru WarriorRahayal1_b9d9db5c:
@@ -216,12 +216,12 @@ translate ru WarriorRahayal1_b9d9db5c:
 # WarriorRahayal1_9542a11e (line 49769)
 translate ru WarriorRahayal1_9542a11e:
     # k "Nothing the town can't handle."
-    k ""
+    k "Nothing the town can't handle."
 
 # WarriorRahayal1_15a93016 (line 49770)
 translate ru WarriorRahayal1_15a93016:
     # k "Might be a whole lot more kids running about nine-months from now."
-    k ""
+    k "Might be a whole lot more kids running about nine-months from now."
 
 # WarriorRahayal1_1b37c71b (line 49771)
 translate ru WarriorRahayal1_1b37c71b:
@@ -271,17 +271,17 @@ translate ru WarriorRahayal1_d93b2a7b:
 # WarriorRahayal1_8d6c6192 (line 49780)
 translate ru WarriorRahayal1_8d6c6192:
     # s "What about you?"
-    s ""
+    s "What about you?"
 
 # WarriorRahayal1_de2ff0ea (line 49781)
 translate ru WarriorRahayal1_de2ff0ea:
     # k "Me?"
-    k ""
+    k "Me?"
 
 # WarriorRahayal1_e96df8dc (line 49782)
 translate ru WarriorRahayal1_e96df8dc:
     # s "You up to any trouble?"
-    s ""
+    s "You up to any trouble?"
 
 # WarriorRahayal1_12083117 (line 49783)
 translate ru WarriorRahayal1_12083117:
@@ -291,12 +291,12 @@ translate ru WarriorRahayal1_12083117:
 # WarriorRahayal1_9e3263d9 (line 49784)
 translate ru WarriorRahayal1_9e3263d9:
     # k "You know I'm always on good behavior."
-    k ""
+    k "You know I'm always on good behavior."
 
 # WarriorRahayal1_915ce643 (line 49785)
 translate ru WarriorRahayal1_915ce643:
     # s "Want to get a drink with me later?"
-    s ""
+    s "Want to get a drink with me later?"
 
 # WarriorRahayal1_eb089f77 (line 49786)
 translate ru WarriorRahayal1_eb089f77:
@@ -306,12 +306,12 @@ translate ru WarriorRahayal1_eb089f77:
 # WarriorRahayal1_714fd2f7 (line 49787)
 translate ru WarriorRahayal1_714fd2f7:
     # k "I'd really like to, but I promised my own men I'd hang out with them."
-    k ""
+    k "I'd really like to, but I promised my own men I'd hang out with them."
 
 # WarriorRahayal1_8ee4e1a0 (line 49788)
 translate ru WarriorRahayal1_8ee4e1a0:
     # k "Besides, I can't be seen hanging about you too much you know. They're going to start thinking I'm your favorite."
-    k ""
+    k "Besides, I can't be seen hanging about you too much you know. They're going to start thinking I'm your favorite."
 
 # WarriorRahayal1_2bf6f65d (line 49789)
 translate ru WarriorRahayal1_2bf6f65d:
@@ -321,12 +321,12 @@ translate ru WarriorRahayal1_2bf6f65d:
 # WarriorRahayal1_3698528d (line 49790)
 translate ru WarriorRahayal1_3698528d:
     # s "Maybe you are my favorite."
-    s ""
+    s "Maybe you are my favorite."
 
 # WarriorRahayal1_53314027 (line 49791)
 translate ru WarriorRahayal1_53314027:
     # k "Ooh, definitely, but I don't want them to know that."
-    k ""
+    k "Ooh, definitely, but I don't want them to know that."
 
 # WarriorRahayal1_f7c790b7 (line 49792)
 translate ru WarriorRahayal1_f7c790b7:
@@ -411,12 +411,12 @@ translate ru WarriorRahayal1_95124184:
 # WarriorRahayal1_add13974 (line 49817)
 translate ru WarriorRahayal1_add13974:
     # s "Calm down!"
-    s ""
+    s "Calm down!"
 
 # WarriorRahayal1_e9dd5dc7 (line 49818)
 translate ru WarriorRahayal1_e9dd5dc7:
     # s "Tell me what is going on here."
-    s ""
+    s "Tell me what is going on here."
 
 # WarriorRahayal1_cdb9e733 (line 49819)
 translate ru WarriorRahayal1_cdb9e733:
@@ -426,7 +426,7 @@ translate ru WarriorRahayal1_cdb9e733:
 # WarriorRahayal1_0c442fa1 (line 49820)
 translate ru WarriorRahayal1_0c442fa1:
     # s "Help you?"
-    s ""
+    s "Help you?"
 
 # WarriorRahayal1_7e5637ba (line 49821)
 translate ru WarriorRahayal1_7e5637ba:
@@ -441,7 +441,7 @@ translate ru WarriorRahayal1_55ba947e:
 # WarriorRahayal1_0503d37a (line 49823)
 translate ru WarriorRahayal1_0503d37a:
     # s "What are you talking about?"
-    s ""
+    s "What are you talking about?"
 
 # WarriorRahayal1_0929b801 (line 49824)
 translate ru WarriorRahayal1_0929b801:
@@ -661,7 +661,7 @@ translate ru WarriorRahayal1_7f5441cf:
 # WarriorRahayal1_d3a7f0af (line 49883)
 translate ru WarriorRahayal1_d3a7f0af:
     # s "What happened?"
-    s ""
+    s "What happened?"
 
 # WarriorRahayal1_c128bf0a (line 49884)
 translate ru WarriorRahayal1_c128bf0a:
@@ -681,7 +681,7 @@ translate ru WarriorRahayal1_28522546:
 # WarriorRahayal1_d14a1ade (line 49887)
 translate ru WarriorRahayal1_d14a1ade:
     # s "Sarah. I'm the head of the mercenary company."
-    s ""
+    s "Sarah. I'm the head of the mercenary company."
 
 # WarriorRahayal1_c92544ef (line 49888)
 translate ru WarriorRahayal1_c92544ef:
@@ -701,7 +701,7 @@ translate ru WarriorRahayal1_3a0cef7d:
 # WarriorRahayal1_b6a76fbe (line 49891)
 translate ru WarriorRahayal1_b6a76fbe:
     # s "I've heard that before."
-    s ""
+    s "I've heard that before."
 
 # WarriorRahayal1_b3ad4b8d (line 49892)
 translate ru WarriorRahayal1_b3ad4b8d:
@@ -711,7 +711,7 @@ translate ru WarriorRahayal1_b3ad4b8d:
 # WarriorRahayal1_18498aed (line 49893)
 translate ru WarriorRahayal1_18498aed:
     # s "Who did that to that woman?"
-    s ""
+    s "Who did that to that woman?"
 
 # WarriorRahayal1_2ff87ce5 (line 49894)
 translate ru WarriorRahayal1_2ff87ce5:
@@ -736,7 +736,7 @@ translate ru WarriorRahayal1_abe0dfa5:
 # WarriorRahayal1_2b41ff43 (line 49898)
 translate ru WarriorRahayal1_2b41ff43:
     # s "You mean this has happened before?"
-    s ""
+    s "You mean this has happened before?"
 
 # WarriorRahayal1_1b199d01 (line 49899)
 translate ru WarriorRahayal1_1b199d01:
@@ -791,7 +791,7 @@ translate ru WarriorRahayal1_c1f0b4d5:
 # WarriorRahayal1_a880b326 (line 49909)
 translate ru WarriorRahayal1_a880b326:
     # s "The blacksmith said it was a beast...the injury, it looked like something a wild animal might inflict. Is that what this is?"
-    s ""
+    s "The blacksmith said it was a beast...the injury, it looked like something a wild animal might inflict. Is that what this is?"
 
 # WarriorRahayal1_e9bf64de (line 49910)
 translate ru WarriorRahayal1_e9bf64de:
@@ -826,7 +826,7 @@ translate ru WarriorRahayal1_859862ee:
 # WarriorRahayal1_5749367d (line 49916)
 translate ru WarriorRahayal1_5749367d:
     # s "What is being done about it?"
-    s ""
+    s "What is being done about it?"
 
 # WarriorRahayal1_5efb6993 (line 49917)
 translate ru WarriorRahayal1_5efb6993:
@@ -851,7 +851,7 @@ translate ru WarriorRahayal1_be8ba232:
 # WarriorRahayal1_8b58be02 (line 49921)
 translate ru WarriorRahayal1_8b58be02:
     # s "Nine?"
-    s ""
+    s "Nine?"
 
 # WarriorRahayal1_80de8e62 (line 49922)
 translate ru WarriorRahayal1_80de8e62:
@@ -871,7 +871,7 @@ translate ru WarriorRahayal1_6bf488c6:
 # WarriorRahayal1_ccbdcba6 (line 49925)
 translate ru WarriorRahayal1_ccbdcba6:
     # s "And?"
-    s ""
+    s "And?"
 
 # WarriorRahayal1_084bfd9c (line 49926)
 translate ru WarriorRahayal1_084bfd9c:
@@ -891,7 +891,7 @@ translate ru WarriorRahayal1_606828be:
 # WarriorRahayal1_514080f5 (line 49929)
 translate ru WarriorRahayal1_514080f5:
     # s "So it's hard to catch then."
-    s ""
+    s "So it's hard to catch then."
 
 # WarriorRahayal1_a27f15e4 (line 49930)
 translate ru WarriorRahayal1_a27f15e4:
@@ -926,12 +926,12 @@ translate ru WarriorRahayal1_6f42b39c:
 # WarriorRahayal1_5af4d41a (line 49936)
 translate ru WarriorRahayal1_5af4d41a:
     # s "What a wicked trouble."
-    s ""
+    s "What a wicked trouble."
 
 # WarriorRahayal1_cceb1379 (line 49937)
 translate ru WarriorRahayal1_cceb1379:
     # s "I wish there was something we could do for you. We can share any medical supplies you might need from our transport wagons."
-    s ""
+    s "I wish there was something we could do for you. We can share any medical supplies you might need from our transport wagons."
 
 # WarriorRahayal1_1f0b22b9 (line 49938)
 translate ru WarriorRahayal1_1f0b22b9:
@@ -976,7 +976,7 @@ translate ru WarriorRahayal1_71475e64:
 # WarriorRahayal1_921392e7 (line 49946)
 translate ru WarriorRahayal1_921392e7:
     # s "What are you asking?"
-    s ""
+    s "What are you asking?"
 
 # WarriorRahayal1_1e40f7e5 (line 49947)
 translate ru WarriorRahayal1_1e40f7e5:
@@ -1032,14 +1032,4 @@ translate ru WarriorRahayal1_d71eba04:
 translate ru WarriorRahayal1_9cc74029:
     # "If she hoped to regain her throne one day, how could she sit on it, knowing she let ordinary people suffer?"
     ""
-
-# WarriorRahayal1_8c023d9c (line 49960)
-translate ru WarriorRahayal1_8c023d9c:
-    # "Offer to help hunt the Beast"
-    "Offer to help hunt the Beast" ""
-
-# WarriorRahayal1_18dc8132 (line 49962)
-translate ru WarriorRahayal1_18dc8132:
-    # "Refuse, only give them medical supplies"
-    "Refuse, only give them medical supplies" ""
 

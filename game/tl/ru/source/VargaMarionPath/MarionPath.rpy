@@ -86,12 +86,12 @@ translate ru MarionPath_12f7d5b7:
 # MarionPath_ee7e7aef (line 16313)
 translate ru MarionPath_ee7e7aef:
     # s "Who is it?"
-    s ""
+    s "Who is it?"
 
 # MarionPath_cee5610e (line 16314)
 translate ru MarionPath_cee5610e:
     # t "It's me...can I come in?"
-    t ""
+    t "It's me...can I come in?"
 
 # MarionPath_ade2126a (line 16315)
 translate ru MarionPath_ade2126a:
@@ -101,7 +101,7 @@ translate ru MarionPath_ade2126a:
 # MarionPath_939b1e2b (line 16316)
 translate ru MarionPath_939b1e2b:
     # s "Of course, Thomas. Come in."
-    s ""
+    s "Of course, Thomas. Come in."
 
 # MarionPath_1c905a6e (line 16320)
 translate ru MarionPath_1c905a6e:
@@ -116,7 +116,7 @@ translate ru MarionPath_0c3d2c41:
 # MarionPath_756fff02 (line 16322)
 translate ru MarionPath_756fff02:
     # t "I just thought I'd come and see you before...well you know."
-    t ""
+    t "I just thought I'd come and see you before...well you know."
 
 # MarionPath_4041fc1f (line 16323)
 translate ru MarionPath_4041fc1f:
@@ -126,12 +126,12 @@ translate ru MarionPath_4041fc1f:
 # MarionPath_7d7e603b (line 16324)
 translate ru MarionPath_7d7e603b:
     # s "Thank you, Thomas. It's kind of you."
-    s ""
+    s "Thank you, Thomas. It's kind of you."
 
 # MarionPath_afe8c0a1 (line 16325)
 translate ru MarionPath_afe8c0a1:
     # s "And you know, a king doesn't have to ask if he can enter a room."
-    s ""
+    s "And you know, a king doesn't have to ask if he can enter a room."
 
 # MarionPath_b110a9cd (line 16326)
 translate ru MarionPath_b110a9cd:
@@ -141,7 +141,7 @@ translate ru MarionPath_b110a9cd:
 # MarionPath_b1a69e14 (line 16327)
 translate ru MarionPath_b1a69e14:
     # t "Maybe..."
-    t ""
+    t "Maybe..."
 
 # MarionPath_badb3e56 (line 16328)
 translate ru MarionPath_badb3e56:
@@ -151,7 +151,7 @@ translate ru MarionPath_badb3e56:
 # MarionPath_d0b98e04 (line 16329)
 translate ru MarionPath_d0b98e04:
     # t "I think I'm still getting used to it."
-    t ""
+    t "I think I'm still getting used to it."
 
 # MarionPath_2eed744c (line 16330)
 translate ru MarionPath_2eed744c:
@@ -161,7 +161,7 @@ translate ru MarionPath_2eed744c:
 # MarionPath_1c891203 (line 16331)
 translate ru MarionPath_1c891203:
     # t "You look beautiful."
-    t ""
+    t "You look beautiful."
 
 # MarionPath_1f36a46c (line 16332)
 translate ru MarionPath_1f36a46c:
@@ -171,7 +171,7 @@ translate ru MarionPath_1f36a46c:
 # MarionPath_e812af61 (line 16333)
 translate ru MarionPath_e812af61:
     # s "Thank you...a lot of servants put a lot of time and effort into this."
-    s ""
+    s "Thank you...a lot of servants put a lot of time and effort into this."
 
 # MarionPath_69462287 (line 16334)
 translate ru MarionPath_69462287:
@@ -181,7 +181,7 @@ translate ru MarionPath_69462287:
 # MarionPath_02584999 (line 16335)
 translate ru MarionPath_02584999:
     # t "Sarah..."
-    t ""
+    t "Sarah..."
 
 # MarionPath_b117a6a2 (line 16336)
 translate ru MarionPath_b117a6a2:
@@ -191,12 +191,12 @@ translate ru MarionPath_b117a6a2:
 # MarionPath_b58fe54c (line 16337)
 translate ru MarionPath_b58fe54c:
     # t "You know that...you don't have to do this right?"
-    t ""
+    t "You know that...you don't have to do this right?"
 
 # MarionPath_09dc8573 (line 16338)
 translate ru MarionPath_09dc8573:
     # t "Just ask me and I will go to the Great Hall and send everyone home."
-    t ""
+    t "Just ask me and I will go to the Great Hall and send everyone home."
 
 # MarionPath_2d38ac82 (line 16339)
 translate ru MarionPath_2d38ac82:
@@ -206,12 +206,12 @@ translate ru MarionPath_2d38ac82:
 # MarionPath_2a6306ca (line 16340)
 translate ru MarionPath_2a6306ca:
     # s "Don't be silly, Thomas."
-    s ""
+    s "Don't be silly, Thomas."
 
 # MarionPath_d9183f21 (line 16341)
 translate ru MarionPath_d9183f21:
     # t "But...you don't love him."
-    t ""
+    t "But...you don't love him."
 
 # MarionPath_bb172e12 (line 16342)
 translate ru MarionPath_bb172e12:
@@ -231,17 +231,17 @@ translate ru MarionPath_5fa80d06:
 # MarionPath_b54ebe5c (line 16345)
 translate ru MarionPath_b54ebe5c:
     # s "Thomas..."
-    s ""
+    s "Thomas..."
 
 # MarionPath_0027d93f (line 16346)
 translate ru MarionPath_0027d93f:
     # s "Love is...something children read about in the stories of knights and ladies that Father used to read to us."
-    s ""
+    s "Love is...something children read about in the stories of knights and ladies that Father used to read to us."
 
 # MarionPath_1c887c94 (line 16347)
 translate ru MarionPath_1c887c94:
     # s "They are not the way of the world."
-    s ""
+    s "They are not the way of the world."
 
 # MarionPath_f1f79028 (line 16348)
 translate ru MarionPath_f1f79028:
@@ -251,22 +251,22 @@ translate ru MarionPath_f1f79028:
 # MarionPath_9ec45812 (line 16349)
 translate ru MarionPath_9ec45812:
     # t "I am the king, and by my word alone, I can put an end to this."
-    t ""
+    t "I am the king, and by my word alone, I can put an end to this."
 
 # MarionPath_0c6b3373 (line 16350)
 translate ru MarionPath_0c6b3373:
     # s "Then what?"
-    s ""
+    s "Then what?"
 
 # MarionPath_bbfe92d0 (line 16351)
 translate ru MarionPath_bbfe92d0:
     # s "Have you given any thought to how Marion would take such an insult? How the other Old Houses would react?"
-    s ""
+    s "Have you given any thought to how Marion would take such an insult? How the other Old Houses would react?"
 
 # MarionPath_5de8ed82 (line 16352)
 translate ru MarionPath_5de8ed82:
     # t "But...they are loyal to me. To us."
-    t ""
+    t "But...they are loyal to me. To us."
 
 # MarionPath_da0a1d4d (line 16353)
 translate ru MarionPath_da0a1d4d:
@@ -276,37 +276,37 @@ translate ru MarionPath_da0a1d4d:
 # MarionPath_0902cbda (line 16354)
 translate ru MarionPath_0902cbda:
     # s "They are loyal to us, as the lesser lords are loyal to them, and as the peasants are loyal to them."
-    s ""
+    s "They are loyal to us, as the lesser lords are loyal to them, and as the peasants are loyal to them."
 
 # MarionPath_c77f69ed (line 16355)
 translate ru MarionPath_c77f69ed:
     # s "But they have their limits."
-    s ""
+    s "But they have their limits."
 
 # MarionPath_aa0e3d30 (line 16356)
 translate ru MarionPath_aa0e3d30:
     # s "Peasants, starved, will turn on their lords no matter their vows."
-    s ""
+    s "Peasants, starved, will turn on their lords no matter their vows."
 
 # MarionPath_d6a4ebbc (line 16357)
 translate ru MarionPath_d6a4ebbc:
     # s "And the Old Houses are no different."
-    s ""
+    s "And the Old Houses are no different."
 
 # MarionPath_6e148cf9 (line 16358)
 translate ru MarionPath_6e148cf9:
     # s "Except, they don't fear starvation."
-    s ""
+    s "Except, they don't fear starvation."
 
 # MarionPath_40b988be (line 16359)
 translate ru MarionPath_40b988be:
     # t "What then?"
-    t ""
+    t "What then?"
 
 # MarionPath_7a2fe436 (line 16360)
 translate ru MarionPath_7a2fe436:
     # s "Insult. Loss of status. Fearing the loss of their privileges."
-    s ""
+    s "Insult. Loss of status. Fearing the loss of their privileges."
 
 # MarionPath_ca5f14c1 (line 16361)
 translate ru MarionPath_ca5f14c1:
@@ -316,7 +316,7 @@ translate ru MarionPath_ca5f14c1:
 # MarionPath_33f27338 (line 16362)
 translate ru MarionPath_33f27338:
     # t "We have given them no reason to turn on us."
-    t ""
+    t "We have given them no reason to turn on us."
 
 # MarionPath_7a5ebe55 (line 16363)
 translate ru MarionPath_7a5ebe55:
@@ -326,32 +326,32 @@ translate ru MarionPath_7a5ebe55:
 # MarionPath_342fe5ec (line 16364)
 translate ru MarionPath_342fe5ec:
     # s "We asked much of them, in resisting the Tribes. Their armies suffered far greater losses than ours."
-    s ""
+    s "We asked much of them, in resisting the Tribes. Their armies suffered far greater losses than ours."
 
 # MarionPath_007e2538 (line 16365)
 translate ru MarionPath_007e2538:
     # s "They sacrificed much in wealth as well."
-    s ""
+    s "They sacrificed much in wealth as well."
 
 # MarionPath_e2d78a12 (line 16366)
 translate ru MarionPath_e2d78a12:
     # s "And as well, they see you and me for what we are."
-    s ""
+    s "And as well, they see you and me for what we are."
 
 # MarionPath_ae268777 (line 16367)
 translate ru MarionPath_ae268777:
     # t "What's that?"
-    t ""
+    t "What's that?"
 
 # MarionPath_736ae074 (line 16368)
 translate ru MarionPath_736ae074:
     # s "Young. Inexperienced."
-    s ""
+    s "Young. Inexperienced."
 
 # MarionPath_473eafd3 (line 16369)
 translate ru MarionPath_473eafd3:
     # s "Father...Father they respected. Us far less."
-    s ""
+    s "Father...Father they respected. Us far less."
 
 # MarionPath_809220a8 (line 16370)
 translate ru MarionPath_809220a8:
@@ -361,7 +361,7 @@ translate ru MarionPath_809220a8:
 # MarionPath_b578b37a (line 16371)
 translate ru MarionPath_b578b37a:
     # t "Then I will put them in their place. Just as I did the Tribesmen."
-    t ""
+    t "Then I will put them in their place. Just as I did the Tribesmen."
 
 # MarionPath_40f5183f (line 16372)
 translate ru MarionPath_40f5183f:
@@ -376,22 +376,22 @@ translate ru MarionPath_cd078ba4:
 # MarionPath_e7681017 (line 16374)
 translate ru MarionPath_e7681017:
     # s "No."
-    s ""
+    s "No."
 
 # MarionPath_8e8f1815 (line 16375)
 translate ru MarionPath_8e8f1815:
     # s "Even if we would win...imagine how many thousands would die."
-    s ""
+    s "Even if we would win...imagine how many thousands would die."
 
 # MarionPath_bcb7148f (line 16376)
 translate ru MarionPath_bcb7148f:
     # s "And for what?"
-    s ""
+    s "And for what?"
 
 # MarionPath_db7625bd (line 16377)
 translate ru MarionPath_db7625bd:
     # s "For love?"
-    s ""
+    s "For love?"
 
 # MarionPath_40d6be81 (line 16378)
 translate ru MarionPath_40d6be81:
@@ -401,22 +401,22 @@ translate ru MarionPath_40d6be81:
 # MarionPath_85bb4781 (line 16379)
 translate ru MarionPath_85bb4781:
     # s "My heart is not worth so much."
-    s ""
+    s "My heart is not worth so much."
 
 # MarionPath_d815be35 (line 16380)
 translate ru MarionPath_d815be35:
     # t "So you will marry him? Even if you don't love him?"
-    t ""
+    t "So you will marry him? Even if you don't love him?"
 
 # MarionPath_0429d690 (line 16381)
 translate ru MarionPath_0429d690:
     # s "You act as if it is such a strange idea."
-    s ""
+    s "You act as if it is such a strange idea."
 
 # MarionPath_8bf714f8 (line 16382)
 translate ru MarionPath_8bf714f8:
     # s "Most do not marry for love, Thomas."
-    s ""
+    s "Most do not marry for love, Thomas."
 
 # MarionPath_67f4d102 (line 16383)
 translate ru MarionPath_67f4d102:
@@ -426,17 +426,17 @@ translate ru MarionPath_67f4d102:
 # MarionPath_7ed13bca (line 16384)
 translate ru MarionPath_7ed13bca:
     # t "Well...they should."
-    t ""
+    t "Well...they should."
 
 # MarionPath_0b789783 (line 16385)
 translate ru MarionPath_0b789783:
     # s "When I marry Marion, it will give Rosanna the stability it needs."
-    s ""
+    s "When I marry Marion, it will give Rosanna the stability it needs."
 
 # MarionPath_ea3199ba (line 16386)
 translate ru MarionPath_ea3199ba:
     # s "Perhaps then you can build a nation where such things can be."
-    s ""
+    s "Perhaps then you can build a nation where such things can be."
 
 # MarionPath_21f43c85 (line 16387)
 translate ru MarionPath_21f43c85:
@@ -446,10 +446,10 @@ translate ru MarionPath_21f43c85:
 # MarionPath_05e5a142 (line 16388)
 translate ru MarionPath_05e5a142:
     # t "Yes..."
-    t ""
+    t "Yes..."
 
 # MarionPath_5ecafce1 (line 16389)
 translate ru MarionPath_5ecafce1:
     # t "But we will do it together."
-    t ""
+    t "But we will do it together."
 

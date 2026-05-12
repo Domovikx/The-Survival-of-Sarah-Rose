@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: ChoosingAMentor
-# Total blocks: 20
+# Total blocks: 17
 
 # ChoosingAMentor_9e3546b5 (line 25266)
 translate ru ChoosingAMentor_9e3546b5:
@@ -87,19 +87,4 @@ translate ru ChoosingAMentor_1555df4f:
 translate ru ChoosingAMentor_72a3ba48:
     # "In the quiet dark of her new home, Sarah thought about her decision."
     ""
-
-# ChoosingAMentor_d39b9cf1 (line 25286)
-translate ru ChoosingAMentor_d39b9cf1:
-    # "Ask Kate"
-    "Ask Kate" ""
-
-# ChoosingAMentor_dbbcb253 (line 25288)
-translate ru ChoosingAMentor_dbbcb253:
-    # "Ask Ephraim and Caleb."
-    "Ask Ephraim and Caleb." ""
-
-# ChoosingAMentor_ec5ded60 (line 25290)
-translate ru ChoosingAMentor_ec5ded60:
-    # "Ask Atilla, the orc."
-    "Ask Atilla, the orc." ""
 

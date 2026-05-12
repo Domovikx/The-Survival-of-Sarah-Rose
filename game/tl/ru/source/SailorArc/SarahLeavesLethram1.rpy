@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: SarahLeavesLethram1
-# Total blocks: 497
+# Total blocks: 493
 
 # SarahLeavesLethram1_905b4056 (line 62179)
 translate ru SarahLeavesLethram1_905b4056:
@@ -206,7 +206,7 @@ translate ru SarahLeavesLethram1_d1133141:
 # SarahLeavesLethram1_7e07f36b (line 62238)
 translate ru SarahLeavesLethram1_7e07f36b:
     # sig "Are you out of your damned mind, girl?"
-    sig ""
+    sig "Are you out of your damned mind, girl?"
 
 # SarahLeavesLethram1_527b4bb1 (line 62243)
 translate ru SarahLeavesLethram1_527b4bb1:
@@ -226,7 +226,7 @@ translate ru SarahLeavesLethram1_a686823a:
 # SarahLeavesLethram1_e223ad61 (line 62256)
 translate ru SarahLeavesLethram1_e223ad61:
     # sig "I asked you if you've lost your mind!"
-    sig ""
+    sig "I asked you if you've lost your mind!"
 
 # SarahLeavesLethram1_6bfe9fc3 (line 62257)
 translate ru SarahLeavesLethram1_6bfe9fc3:
@@ -236,7 +236,7 @@ translate ru SarahLeavesLethram1_6bfe9fc3:
 # SarahLeavesLethram1_d06561e7 (line 62258)
 translate ru SarahLeavesLethram1_d06561e7:
     # s "I...what did I..."
-    s ""
+    s "I...what did I..."
 
 # SarahLeavesLethram1_466a4351 (line 62259)
 translate ru SarahLeavesLethram1_466a4351:
@@ -256,7 +256,7 @@ translate ru SarahLeavesLethram1_2421a19b:
 # SarahLeavesLethram1_72bd5033 (line 62262)
 translate ru SarahLeavesLethram1_72bd5033:
     # sig "Tell me, girl, why are you out here?"
-    sig ""
+    sig "Tell me, girl, why are you out here?"
 
 # SarahLeavesLethram1_0bc94dfb (line 62263)
 translate ru SarahLeavesLethram1_0bc94dfb:
@@ -266,7 +266,7 @@ translate ru SarahLeavesLethram1_0bc94dfb:
 # SarahLeavesLethram1_80c36f9b (line 62264)
 translate ru SarahLeavesLethram1_80c36f9b:
     # s "I was...I was leaving Lethram. I'm heading out down the road to find...a place that I can stay."
-    s ""
+    s "I was...I was leaving Lethram. I'm heading out down the road to find...a place that I can stay."
 
 # SarahLeavesLethram1_60c53e76 (line 62265)
 translate ru SarahLeavesLethram1_60c53e76:
@@ -276,22 +276,22 @@ translate ru SarahLeavesLethram1_60c53e76:
 # SarahLeavesLethram1_0873d492 (line 62266)
 translate ru SarahLeavesLethram1_0873d492:
     # sig "This place is dangerous enough for just about anybody, girl."
-    sig ""
+    sig "This place is dangerous enough for just about anybody, girl."
 
 # SarahLeavesLethram1_516e865e (line 62267)
 translate ru SarahLeavesLethram1_516e865e:
     # sig "Someone like you wouldn't last a day out on the old road."
-    sig ""
+    sig "Someone like you wouldn't last a day out on the old road."
 
 # SarahLeavesLethram1_c71d143b (line 62268)
 translate ru SarahLeavesLethram1_c71d143b:
     # sig "I don't want to find your corpse in some ditch, your throat slashed by some bandit."
-    sig ""
+    sig "I don't want to find your corpse in some ditch, your throat slashed by some bandit."
 
 # SarahLeavesLethram1_10501851 (line 62269)
 translate ru SarahLeavesLethram1_10501851:
     # sig "Go back to the city, you'll be a lot safer there."
-    sig ""
+    sig "Go back to the city, you'll be a lot safer there."
 
 # SarahLeavesLethram1_62134de4 (line 62270)
 translate ru SarahLeavesLethram1_62134de4:
@@ -311,17 +311,17 @@ translate ru SarahLeavesLethram1_1af1c87c:
 # SarahLeavesLethram1_6ba10c3a (line 62273)
 translate ru SarahLeavesLethram1_6ba10c3a:
     # s "I was in that damned city!"
-    s ""
+    s "I was in that damned city!"
 
 # SarahLeavesLethram1_b488020b (line 62274)
 translate ru SarahLeavesLethram1_b488020b:
     # s "And it nearly cost me my life!"
-    s ""
+    s "And it nearly cost me my life!"
 
 # SarahLeavesLethram1_b372bccb (line 62275)
 translate ru SarahLeavesLethram1_b372bccb:
     # s "You talk about bandits out here? Some lowlife nearly killed me last night. There isn't anywhere in that city that's safe."
-    s ""
+    s "You talk about bandits out here? Some lowlife nearly killed me last night. There isn't anywhere in that city that's safe."
 
 # SarahLeavesLethram1_563c7068 (line 62276)
 translate ru SarahLeavesLethram1_563c7068:
@@ -331,7 +331,7 @@ translate ru SarahLeavesLethram1_563c7068:
 # SarahLeavesLethram1_7e3c3e94 (line 62277)
 translate ru SarahLeavesLethram1_7e3c3e94:
     # sig "Look, girl, I'll grant you Lethram ain't the safest place in the world, but trust me, whatever is out here is a hundred times worse."
-    sig ""
+    sig "Look, girl, I'll grant you Lethram ain't the safest place in the world, but trust me, whatever is out here is a hundred times worse."
 
 # SarahLeavesLethram1_877a8b92 (line 62278)
 translate ru SarahLeavesLethram1_877a8b92:
@@ -341,12 +341,12 @@ translate ru SarahLeavesLethram1_877a8b92:
 # SarahLeavesLethram1_bb107c57 (line 62284)
 translate ru SarahLeavesLethram1_bb107c57:
     # s "So what?"
-    s ""
+    s "So what?"
 
 # SarahLeavesLethram1_832a6984 (line 62285)
 translate ru SarahLeavesLethram1_832a6984:
     # s "I go back into that city and sleep on the streets till that bastard, or someone like him, finds me?"
-    s ""
+    s "I go back into that city and sleep on the streets till that bastard, or someone like him, finds me?"
 
 # SarahLeavesLethram1_b3c97818 (line 62286)
 translate ru SarahLeavesLethram1_b3c97818:
@@ -356,22 +356,22 @@ translate ru SarahLeavesLethram1_b3c97818:
 # SarahLeavesLethram1_387dbb00 (line 62287)
 translate ru SarahLeavesLethram1_387dbb00:
     # sig "I..."
-    sig ""
+    sig "I..."
 
 # SarahLeavesLethram1_3fa43227 (line 62288)
 translate ru SarahLeavesLethram1_3fa43227:
     # sig "Look. You're still young."
-    sig ""
+    sig "Look. You're still young."
 
 # SarahLeavesLethram1_0839982a (line 62289)
 translate ru SarahLeavesLethram1_0839982a:
     # sig "Whatever this is, just go back home and apologize to your parents, you don't want to be out here."
-    sig ""
+    sig "Whatever this is, just go back home and apologize to your parents, you don't want to be out here."
 
 # SarahLeavesLethram1_d95c6ae9 (line 62290)
 translate ru SarahLeavesLethram1_d95c6ae9:
     # s "I don't have any parents!"
-    s ""
+    s "I don't have any parents!"
 
 # SarahLeavesLethram1_bbc1a02e (line 62291)
 translate ru SarahLeavesLethram1_bbc1a02e:
@@ -386,12 +386,12 @@ translate ru SarahLeavesLethram1_5c033ec9:
 # SarahLeavesLethram1_f7a781f8 (line 62293)
 translate ru SarahLeavesLethram1_f7a781f8:
     # sig "I'm...sorry. I shouldn't have assumed."
-    sig ""
+    sig "I'm...sorry. I shouldn't have assumed."
 
 # SarahLeavesLethram1_dc2b2bbf (line 62294)
 translate ru SarahLeavesLethram1_dc2b2bbf:
     # sig "But you still can't be out here. It's too dangerous."
-    sig ""
+    sig "But you still can't be out here. It's too dangerous."
 
 # SarahLeavesLethram1_ed21b4df (line 62295)
 translate ru SarahLeavesLethram1_ed21b4df:
@@ -401,7 +401,7 @@ translate ru SarahLeavesLethram1_ed21b4df:
 # SarahLeavesLethram1_5a8931eb (line 62296)
 translate ru SarahLeavesLethram1_5a8931eb:
     # s "I'm not going back into that city, no matter what you try."
-    s ""
+    s "I'm not going back into that city, no matter what you try."
 
 # SarahLeavesLethram1_0971ec41 (line 62297)
 translate ru SarahLeavesLethram1_0971ec41:
@@ -411,27 +411,27 @@ translate ru SarahLeavesLethram1_0971ec41:
 # SarahLeavesLethram1_ed8b6f60 (line 62298)
 translate ru SarahLeavesLethram1_ed8b6f60:
     # sig "Look..."
-    sig ""
+    sig "Look..."
 
 # SarahLeavesLethram1_af504c11 (line 62299)
 translate ru SarahLeavesLethram1_af504c11:
     # sig "I'll tell you what."
-    sig ""
+    sig "I'll tell you what."
 
 # SarahLeavesLethram1_22b326e5 (line 62300)
 translate ru SarahLeavesLethram1_22b326e5:
     # sig "There is a small farming town about a day's ride up the old road, called Gallow Creek."
-    sig ""
+    sig "There is a small farming town about a day's ride up the old road, called Gallow Creek."
 
 # SarahLeavesLethram1_c62a3080 (line 62301)
 translate ru SarahLeavesLethram1_c62a3080:
     # sig "If you absolutely don't want to go back to the city, me and my men can take you there."
-    sig ""
+    sig "If you absolutely don't want to go back to the city, me and my men can take you there."
 
 # SarahLeavesLethram1_9516010d (line 62302)
 translate ru SarahLeavesLethram1_9516010d:
     # sig "It's a small community, but they're good people. You'll be safe there."
-    sig ""
+    sig "It's a small community, but they're good people. You'll be safe there."
 
 # SarahLeavesLethram1_c3307f27 (line 62303)
 translate ru SarahLeavesLethram1_c3307f27:
@@ -451,12 +451,12 @@ translate ru SarahLeavesLethram1_5f9cbae7:
 # SarahLeavesLethram1_38335c81 (line 62306)
 translate ru SarahLeavesLethram1_38335c81:
     # s "Alright."
-    s ""
+    s "Alright."
 
 # SarahLeavesLethram1_75202125 (line 62307)
 translate ru SarahLeavesLethram1_75202125:
     # s "I'll accept your offer."
-    s ""
+    s "I'll accept your offer."
 
 # SarahLeavesLethram1_5175e25e (line 62308)
 translate ru SarahLeavesLethram1_5175e25e:
@@ -466,7 +466,7 @@ translate ru SarahLeavesLethram1_5175e25e:
 # SarahLeavesLethram1_27bab7f5 (line 62309)
 translate ru SarahLeavesLethram1_27bab7f5:
     # sig "You're taking me, a total stranger, up on a ride to a town you don't even know is real?"
-    sig ""
+    sig "You're taking me, a total stranger, up on a ride to a town you don't even know is real?"
 
 # SarahLeavesLethram1_d1e90518 (line 62310)
 translate ru SarahLeavesLethram1_d1e90518:
@@ -476,7 +476,7 @@ translate ru SarahLeavesLethram1_d1e90518:
 # SarahLeavesLethram1_0401143b (line 62311)
 translate ru SarahLeavesLethram1_0401143b:
     # s "It's not real?"
-    s ""
+    s "It's not real?"
 
 # SarahLeavesLethram1_e7f4249e (line 62312)
 translate ru SarahLeavesLethram1_e7f4249e:
@@ -486,12 +486,12 @@ translate ru SarahLeavesLethram1_e7f4249e:
 # SarahLeavesLethram1_384cba97 (line 62313)
 translate ru SarahLeavesLethram1_384cba97:
     # sig "It is real. I just mean you're lucky that you ran into me."
-    sig ""
+    sig "It is real. I just mean you're lucky that you ran into me."
 
 # SarahLeavesLethram1_3e2eb315 (line 62314)
 translate ru SarahLeavesLethram1_3e2eb315:
     # sig "Just about every other bastard on the old road would have taken you two miles up the road, robbed you and left you behind, or worse."
-    sig ""
+    sig "Just about every other bastard on the old road would have taken you two miles up the road, robbed you and left you behind, or worse."
 
 # SarahLeavesLethram1_621777b0 (line 62315)
 translate ru SarahLeavesLethram1_621777b0:
@@ -501,12 +501,12 @@ translate ru SarahLeavesLethram1_621777b0:
 # SarahLeavesLethram1_8a9d2b20 (line 62316)
 translate ru SarahLeavesLethram1_8a9d2b20:
     # sig "You're too naive for city life, hell you might be too naive for small town life."
-    sig ""
+    sig "You're too naive for city life, hell you might be too naive for small town life."
 
 # SarahLeavesLethram1_1e74f41f (line 62317)
 translate ru SarahLeavesLethram1_1e74f41f:
     # sig "You really shouldn't be out here."
-    sig ""
+    sig "You really shouldn't be out here."
 
 # SarahLeavesLethram1_3923fe55 (line 62318)
 translate ru SarahLeavesLethram1_3923fe55:
@@ -516,7 +516,7 @@ translate ru SarahLeavesLethram1_3923fe55:
 # SarahLeavesLethram1_4b81e58e (line 62324)
 translate ru SarahLeavesLethram1_4b81e58e:
     # s "Well, I ain't going anywhere else."
-    s ""
+    s "Well, I ain't going anywhere else."
 
 # SarahLeavesLethram1_ba0979ff (line 62325)
 translate ru SarahLeavesLethram1_ba0979ff:
@@ -526,7 +526,7 @@ translate ru SarahLeavesLethram1_ba0979ff:
 # SarahLeavesLethram1_153d55b2 (line 62326)
 translate ru SarahLeavesLethram1_153d55b2:
     # sig "You got a spark to you, I'll give you that."
-    sig ""
+    sig "You got a spark to you, I'll give you that."
 
 # SarahLeavesLethram1_5abf615b (line 62332)
 translate ru SarahLeavesLethram1_5abf615b:
@@ -536,7 +536,7 @@ translate ru SarahLeavesLethram1_5abf615b:
 # SarahLeavesLethram1_9ead020e (line 62333)
 translate ru SarahLeavesLethram1_9ead020e:
     # sig "My name is Sigmund by the way, best you know my name before you get on my cart."
-    sig ""
+    sig "My name is Sigmund by the way, best you know my name before you get on my cart."
 
 # SarahLeavesLethram1_fa533016 (line 62334)
 translate ru SarahLeavesLethram1_fa533016:
@@ -551,17 +551,17 @@ translate ru SarahLeavesLethram1_7d41affd:
 # SarahLeavesLethram1_e8a4bc1c (line 62336)
 translate ru SarahLeavesLethram1_e8a4bc1c:
     # s "Sarah, nice to meet you."
-    s ""
+    s "Sarah, nice to meet you."
 
 # SarahLeavesLethram1_5e850a5c (line 62337)
 translate ru SarahLeavesLethram1_5e850a5c:
     # sig "Nice to meet you too, Sarah."
-    sig ""
+    sig "Nice to meet you too, Sarah."
 
 # SarahLeavesLethram1_9f0b7ad4 (line 62338)
 translate ru SarahLeavesLethram1_9f0b7ad4:
     # sig "Come along, follow me. My cart is just over there."
-    sig ""
+    sig "Come along, follow me. My cart is just over there."
 
 # SarahLeavesLethram1_aa9de8fb (line 62346)
 translate ru SarahLeavesLethram1_aa9de8fb:
@@ -581,7 +581,7 @@ translate ru SarahLeavesLethram1_afa5171f:
 # SarahLeavesLethram1_a7ee38c5 (line 62353)
 translate ru SarahLeavesLethram1_a7ee38c5:
     # sig "Sakar, Krip. We're taking a straggler along for a ride up to Gallow Creek."
-    sig ""
+    sig "Sakar, Krip. We're taking a straggler along for a ride up to Gallow Creek."
 
 # SarahLeavesLethram1_92e475d1 (line 62354)
 translate ru SarahLeavesLethram1_92e475d1:
@@ -591,17 +591,17 @@ translate ru SarahLeavesLethram1_92e475d1:
 # SarahLeavesLethram1_888699ef (line 62355)
 translate ru SarahLeavesLethram1_888699ef:
     # sak "We in the business of giving out free rides now?"
-    sak ""
+    sak "We in the business of giving out free rides now?"
 
 # SarahLeavesLethram1_9316693f (line 62356)
 translate ru SarahLeavesLethram1_9316693f:
     # sig "We're in the business of whatever I say we are."
-    sig ""
+    sig "We're in the business of whatever I say we are."
 
 # SarahLeavesLethram1_4a86ac4a (line 62357)
 translate ru SarahLeavesLethram1_4a86ac4a:
     # sig "Sarah, this man here is Sakar. He's a mean bastard, so just try to ignore whatever shit comes out of his mouth."
-    sig ""
+    sig "Sarah, this man here is Sakar. He's a mean bastard, so just try to ignore whatever shit comes out of his mouth."
 
 # SarahLeavesLethram1_f989105e (line 62358)
 translate ru SarahLeavesLethram1_f989105e:
@@ -611,12 +611,12 @@ translate ru SarahLeavesLethram1_f989105e:
 # SarahLeavesLethram1_067eb41b (line 62359)
 translate ru SarahLeavesLethram1_067eb41b:
     # sak "And Sigmund over here loves pretending to be better than he is."
-    sak ""
+    sak "And Sigmund over here loves pretending to be better than he is."
 
 # SarahLeavesLethram1_78b7bc4d (line 62360)
 translate ru SarahLeavesLethram1_78b7bc4d:
     # sak "Don't let him charm you, he's as much a bastard as the rest of us."
-    sak ""
+    sak "Don't let him charm you, he's as much a bastard as the rest of us."
 
 # SarahLeavesLethram1_27f4b6ba (line 62361)
 translate ru SarahLeavesLethram1_27f4b6ba:
@@ -626,7 +626,7 @@ translate ru SarahLeavesLethram1_27f4b6ba:
 # SarahLeavesLethram1_167260b2 (line 62362)
 translate ru SarahLeavesLethram1_167260b2:
     # sig "This is Krip. He isn't much for talking, but he swings an axe harder than any man I ever met, and out here on the old road that matters more than nice words."
-    sig ""
+    sig "This is Krip. He isn't much for talking, but he swings an axe harder than any man I ever met, and out here on the old road that matters more than nice words."
 
 # SarahLeavesLethram1_c5d5bc97 (line 62363)
 translate ru SarahLeavesLethram1_c5d5bc97:
@@ -661,12 +661,12 @@ translate ru SarahLeavesLethram1_1f84f5ef:
 # SarahLeavesLethram1_24fd1598 (line 62369)
 translate ru SarahLeavesLethram1_24fd1598:
     # s "A pleasure to meet all of you."
-    s ""
+    s "A pleasure to meet all of you."
 
 # SarahLeavesLethram1_2ba15a01 (line 62370)
 translate ru SarahLeavesLethram1_2ba15a01:
     # s "And I want to thank you for offering to bring me up the road."
-    s ""
+    s "And I want to thank you for offering to bring me up the road."
 
 # SarahLeavesLethram1_a937cb6c (line 62371)
 translate ru SarahLeavesLethram1_a937cb6c:
@@ -676,12 +676,12 @@ translate ru SarahLeavesLethram1_a937cb6c:
 # SarahLeavesLethram1_a9d1e486 (line 62372)
 translate ru SarahLeavesLethram1_a9d1e486:
     # sak "You're lucky Sigmund over here bothered to stop you."
-    sak ""
+    sak "You're lucky Sigmund over here bothered to stop you."
 
 # SarahLeavesLethram1_a4903f99 (line 62373)
 translate ru SarahLeavesLethram1_a4903f99:
     # sak "A girl like you wouldn't last a day on the old road by yourself."
-    sak ""
+    sak "A girl like you wouldn't last a day on the old road by yourself."
 
 # SarahLeavesLethram1_4e88aaa3 (line 62374)
 translate ru SarahLeavesLethram1_4e88aaa3:
@@ -691,12 +691,12 @@ translate ru SarahLeavesLethram1_4e88aaa3:
 # SarahLeavesLethram1_58a9c2db (line 62375)
 translate ru SarahLeavesLethram1_58a9c2db:
     # s "Yes, Sigmund told me it's a dangerous place."
-    s ""
+    s "Yes, Sigmund told me it's a dangerous place."
 
 # SarahLeavesLethram1_36e65abe (line 62376)
 translate ru SarahLeavesLethram1_36e65abe:
     # s "All the more reason why I am so thankful that you are willing to keep me safe."
-    s ""
+    s "All the more reason why I am so thankful that you are willing to keep me safe."
 
 # SarahLeavesLethram1_e953e0bf (line 62377)
 translate ru SarahLeavesLethram1_e953e0bf:
@@ -706,12 +706,12 @@ translate ru SarahLeavesLethram1_e953e0bf:
 # SarahLeavesLethram1_8f185630 (line 62378)
 translate ru SarahLeavesLethram1_8f185630:
     # sig "Right, enough pleasantries."
-    sig ""
+    sig "Right, enough pleasantries."
 
 # SarahLeavesLethram1_dbdbd558 (line 62379)
 translate ru SarahLeavesLethram1_dbdbd558:
     # sig "Rig up the horses, I don't wanna waste more time picking up strays!"
-    sig ""
+    sig "Rig up the horses, I don't wanna waste more time picking up strays!"
 
 # SarahLeavesLethram1_9e9d0b07 (line 62380)
 translate ru SarahLeavesLethram1_9e9d0b07:
@@ -731,12 +731,12 @@ translate ru SarahLeavesLethram1_49d91cd8:
 # SarahLeavesLethram1_3a3808ae (line 62385)
 translate ru SarahLeavesLethram1_3a3808ae:
     # sig "You get up front and ride with me, Sarah."
-    sig ""
+    sig "You get up front and ride with me, Sarah."
 
 # SarahLeavesLethram1_1dd5f838 (line 62386)
 translate ru SarahLeavesLethram1_1dd5f838:
     # sig "Sakar and Krip can ride on back."
-    sig ""
+    sig "Sakar and Krip can ride on back."
 
 # SarahLeavesLethram1_b0ec0b44 (line 62392)
 translate ru SarahLeavesLethram1_b0ec0b44:
@@ -816,7 +816,7 @@ translate ru SarahLeavesLethram1_94fcd99a:
 # SarahLeavesLethram1_350f265c (line 62408)
 translate ru SarahLeavesLethram1_350f265c:
     # sig "Be sure to hold onto something."
-    sig ""
+    sig "Be sure to hold onto something."
 
 # SarahLeavesLethram1_fa617495 (line 62409)
 translate ru SarahLeavesLethram1_fa617495:
@@ -826,7 +826,7 @@ translate ru SarahLeavesLethram1_fa617495:
 # SarahLeavesLethram1_bb465e7f (line 62410)
 translate ru SarahLeavesLethram1_bb465e7f:
     # sig "Hyaa!"
-    sig ""
+    sig "Hyaa!"
 
 # SarahLeavesLethram1_804f6b03 (line 62411)
 translate ru SarahLeavesLethram1_804f6b03:
@@ -871,7 +871,7 @@ translate ru SarahLeavesLethram1_69ac5d22:
 # SarahLeavesLethram1_1068f83d (line 62427)
 translate ru SarahLeavesLethram1_1068f83d:
     # s "It's so peaceful..."
-    s ""
+    s "It's so peaceful..."
 
 # SarahLeavesLethram1_459cc987 (line 62428)
 translate ru SarahLeavesLethram1_459cc987:
@@ -881,12 +881,12 @@ translate ru SarahLeavesLethram1_459cc987:
 # SarahLeavesLethram1_eb9f6918 (line 62429)
 translate ru SarahLeavesLethram1_eb9f6918:
     # sig "Yeah, we're still close to Lethram, but the further we get out from the city, the bolder the bandits tend to get."
-    sig ""
+    sig "Yeah, we're still close to Lethram, but the further we get out from the city, the bolder the bandits tend to get."
 
 # SarahLeavesLethram1_24b8c051 (line 62430)
 translate ru SarahLeavesLethram1_24b8c051:
     # sig "Up till Gallow's Creek nobody will mess with a cart like ours, but further up along the old road, there is no telling what can happen."
-    sig ""
+    sig "Up till Gallow's Creek nobody will mess with a cart like ours, but further up along the old road, there is no telling what can happen."
 
 # SarahLeavesLethram1_0f32fc78 (line 62431)
 translate ru SarahLeavesLethram1_0f32fc78:
@@ -906,7 +906,7 @@ translate ru SarahLeavesLethram1_1b1188eb:
 # SarahLeavesLethram1_83e87809 (line 62434)
 translate ru SarahLeavesLethram1_83e87809:
     # s "You've said that a few times now...what is that? The old road?"
-    s ""
+    s "You've said that a few times now...what is that? The old road?"
 
 # SarahLeavesLethram1_555cc6cf (line 62435)
 translate ru SarahLeavesLethram1_555cc6cf:
@@ -916,7 +916,7 @@ translate ru SarahLeavesLethram1_555cc6cf:
 # SarahLeavesLethram1_aa93c675 (line 62436)
 translate ru SarahLeavesLethram1_aa93c675:
     # sig "You're not from Lethram, are you?"
-    sig ""
+    sig "You're not from Lethram, are you?"
 
 # SarahLeavesLethram1_ce13a952 (line 62437)
 translate ru SarahLeavesLethram1_ce13a952:
@@ -926,17 +926,17 @@ translate ru SarahLeavesLethram1_ce13a952:
 # SarahLeavesLethram1_7a6961b8 (line 62438)
 translate ru SarahLeavesLethram1_7a6961b8:
     # sig "Sorry, I've been out here so long that I can end up forgetting that not everybody grew up on this side of the world."
-    sig ""
+    sig "Sorry, I've been out here so long that I can end up forgetting that not everybody grew up on this side of the world."
 
 # SarahLeavesLethram1_44c72ad7 (line 62439)
 translate ru SarahLeavesLethram1_44c72ad7:
     # sig "The old road is the road that stretches out from Lethram to Rahayal, the capital of Mythra."
-    sig ""
+    sig "The old road is the road that stretches out from Lethram to Rahayal, the capital of Mythra."
 
 # SarahLeavesLethram1_26a19185 (line 62440)
 translate ru SarahLeavesLethram1_26a19185:
     # sig "It's the only land route that still exists...somewhat."
-    sig ""
+    sig "It's the only land route that still exists...somewhat."
 
 # SarahLeavesLethram1_3a48adc0 (line 62441)
 translate ru SarahLeavesLethram1_3a48adc0:
@@ -951,32 +951,32 @@ translate ru SarahLeavesLethram1_70cb1327:
 # SarahLeavesLethram1_186f0fba (line 62443)
 translate ru SarahLeavesLethram1_186f0fba:
     # s "Why is it called the old road?"
-    s ""
+    s "Why is it called the old road?"
 
 # SarahLeavesLethram1_82f1d854 (line 62444)
 translate ru SarahLeavesLethram1_82f1d854:
     # sig "It's a long story, but it used to be simply called the imperial road."
-    sig ""
+    sig "It's a long story, but it used to be simply called the imperial road."
 
 # SarahLeavesLethram1_4d0a6b10 (line 62445)
 translate ru SarahLeavesLethram1_4d0a6b10:
     # sig "But after the wars of the central kingdoms, it became too dangerous for most merchants too keep using it."
-    sig ""
+    sig "But after the wars of the central kingdoms, it became too dangerous for most merchants too keep using it."
 
 # SarahLeavesLethram1_63cb5d5c (line 62446)
 translate ru SarahLeavesLethram1_63cb5d5c:
     # sig "Seeking a safer passage, most merchants began to rely on sea routes, and Lethram given its location was more than happy to encourage that."
-    sig ""
+    sig "Seeking a safer passage, most merchants began to rely on sea routes, and Lethram given its location was more than happy to encourage that."
 
 # SarahLeavesLethram1_6c1b4328 (line 62447)
 translate ru SarahLeavesLethram1_6c1b4328:
     # sig "And now...I think it's been more than a century since this road has seen any real trade."
-    sig ""
+    sig "And now...I think it's been more than a century since this road has seen any real trade."
 
 # SarahLeavesLethram1_16ed4eae (line 62448)
 translate ru SarahLeavesLethram1_16ed4eae:
     # sig "Now people just call it the old road."
-    sig ""
+    sig "Now people just call it the old road."
 
 # SarahLeavesLethram1_46491031 (line 62449)
 translate ru SarahLeavesLethram1_46491031:
@@ -991,7 +991,7 @@ translate ru SarahLeavesLethram1_f6895359:
 # SarahLeavesLethram1_77c72022 (line 62451)
 translate ru SarahLeavesLethram1_77c72022:
     # s "If it's so dangerous...why do you take it? Why not just take a ship like everybody else."
-    s ""
+    s "If it's so dangerous...why do you take it? Why not just take a ship like everybody else."
 
 # SarahLeavesLethram1_db9ee539 (line 62452)
 translate ru SarahLeavesLethram1_db9ee539:
@@ -1001,12 +1001,12 @@ translate ru SarahLeavesLethram1_db9ee539:
 # SarahLeavesLethram1_52839265 (line 62453)
 translate ru SarahLeavesLethram1_52839265:
     # sig "You would be right, except we make our money transporting Pyrrite."
-    sig ""
+    sig "You would be right, except we make our money transporting Pyrrite."
 
 # SarahLeavesLethram1_33fa60ed (line 62454)
 translate ru SarahLeavesLethram1_33fa60ed:
     # s "Pyrrite?"
-    s ""
+    s "Pyrrite?"
 
 # SarahLeavesLethram1_e1751582 (line 62455)
 translate ru SarahLeavesLethram1_e1751582:
@@ -1016,42 +1016,42 @@ translate ru SarahLeavesLethram1_e1751582:
 # SarahLeavesLethram1_98296171 (line 62456)
 translate ru SarahLeavesLethram1_98296171:
     # sig "It's a mineral used as a catalyst in certain alchemical reactions."
-    sig ""
+    sig "It's a mineral used as a catalyst in certain alchemical reactions."
 
 # SarahLeavesLethram1_7856e32b (line 62457)
 translate ru SarahLeavesLethram1_7856e32b:
     # sig "Mythra is a huge empire and pretty much taps its own mines dry of the stuff. Lethram doesn't use much of it, so they have mines to spare."
-    sig ""
+    sig "Mythra is a huge empire and pretty much taps its own mines dry of the stuff. Lethram doesn't use much of it, so they have mines to spare."
 
 # SarahLeavesLethram1_235747e4 (line 62458)
 translate ru SarahLeavesLethram1_235747e4:
     # sig "The only problem is that pyrrite has a strong chemical reaction when it comes into contact with water."
-    sig ""
+    sig "The only problem is that pyrrite has a strong chemical reaction when it comes into contact with water."
 
 # SarahLeavesLethram1_aad823c6 (line 62459)
 translate ru SarahLeavesLethram1_aad823c6:
     # s "A strong chemical reaction?"
-    s ""
+    s "A strong chemical reaction?"
 
 # SarahLeavesLethram1_21cfcc41 (line 62460)
 translate ru SarahLeavesLethram1_21cfcc41:
     # sig "It explodes."
-    sig ""
+    sig "It explodes."
 
 # SarahLeavesLethram1_85902976 (line 62461)
 translate ru SarahLeavesLethram1_85902976:
     # sig "Anything more than a few drops of water and pyrrite blow apart."
-    sig ""
+    sig "Anything more than a few drops of water and pyrrite blow apart."
 
 # SarahLeavesLethram1_d1b40938 (line 62462)
 translate ru SarahLeavesLethram1_d1b40938:
     # sig "If it's just a small crystal, the stuff isn't that dangerous, but if you're hauling a cart full of the stuff like we are, then the crystals an set off a chain-reaction."
-    sig ""
+    sig "If it's just a small crystal, the stuff isn't that dangerous, but if you're hauling a cart full of the stuff like we are, then the crystals an set off a chain-reaction."
 
 # SarahLeavesLethram1_c2120269 (line 62463)
 translate ru SarahLeavesLethram1_c2120269:
     # sig "Once that happens, the blast can be strong enough to put a hole in a fortress."
-    sig ""
+    sig "Once that happens, the blast can be strong enough to put a hole in a fortress."
 
 # SarahLeavesLethram1_30fddb9c (line 62464)
 translate ru SarahLeavesLethram1_30fddb9c:
@@ -1076,12 +1076,12 @@ translate ru SarahLeavesLethram1_1ec89996:
 # SarahLeavesLethram1_38e26b3b (line 62468)
 translate ru SarahLeavesLethram1_38e26b3b:
     # s "But that's...insane."
-    s ""
+    s "But that's...insane."
 
 # SarahLeavesLethram1_fb898797 (line 62469)
 translate ru SarahLeavesLethram1_fb898797:
     # s "What if it starts raining?"
-    s ""
+    s "What if it starts raining?"
 
 # SarahLeavesLethram1_3418f46d (line 62470)
 translate ru SarahLeavesLethram1_3418f46d:
@@ -1091,17 +1091,17 @@ translate ru SarahLeavesLethram1_3418f46d:
 # SarahLeavesLethram1_5f9d8d0c (line 62471)
 translate ru SarahLeavesLethram1_5f9d8d0c:
     # sig "The crates are sealed tight and the pyrrite is wrapped in three layers of coating, so long as it's just a bit of water we're safe."
-    sig ""
+    sig "The crates are sealed tight and the pyrrite is wrapped in three layers of coating, so long as it's just a bit of water we're safe."
 
 # SarahLeavesLethram1_989dbf3b (line 62472)
 translate ru SarahLeavesLethram1_989dbf3b:
     # sig "Besides, there are worse ways to die than in a pyritte explose."
-    sig ""
+    sig "Besides, there are worse ways to die than in a pyritte explose."
 
 # SarahLeavesLethram1_91a98a98 (line 62473)
 translate ru SarahLeavesLethram1_91a98a98:
     # sig "It would be so fast, you'd probably not even realize it."
-    sig ""
+    sig "It would be so fast, you'd probably not even realize it."
 
 # SarahLeavesLethram1_86e0e01c (line 62474)
 translate ru SarahLeavesLethram1_86e0e01c:
@@ -1121,7 +1121,7 @@ translate ru SarahLeavesLethram1_5f78ae99:
 # SarahLeavesLethram1_1013d33d (line 62477)
 translate ru SarahLeavesLethram1_1013d33d:
     # s "And so you take these crystals by land, all the way to Rahayal?"
-    s ""
+    s "And so you take these crystals by land, all the way to Rahayal?"
 
 # SarahLeavesLethram1_8dd91f25 (line 62478)
 translate ru SarahLeavesLethram1_8dd91f25:
@@ -1131,17 +1131,17 @@ translate ru SarahLeavesLethram1_8dd91f25:
 # SarahLeavesLethram1_911b0f6a (line 62479)
 translate ru SarahLeavesLethram1_911b0f6a:
     # sig "No matter how much you pay a sailor, they ain't gonna take a crate of pyrrite on board."
-    sig ""
+    sig "No matter how much you pay a sailor, they ain't gonna take a crate of pyrrite on board."
 
 # SarahLeavesLethram1_13cf6e90 (line 62480)
 translate ru SarahLeavesLethram1_13cf6e90:
     # sig "And because the demand for the stuff in Mythra is so great, the price you can fetch for a cart like this is worth the trip."
-    sig ""
+    sig "And because the demand for the stuff in Mythra is so great, the price you can fetch for a cart like this is worth the trip."
 
 # SarahLeavesLethram1_5280892b (line 62481)
 translate ru SarahLeavesLethram1_5280892b:
     # s "How much do you get for it?"
-    s ""
+    s "How much do you get for it?"
 
 # SarahLeavesLethram1_b8fe9f84 (line 62482)
 translate ru SarahLeavesLethram1_b8fe9f84:
@@ -1151,17 +1151,17 @@ translate ru SarahLeavesLethram1_b8fe9f84:
 # SarahLeavesLethram1_f5345066 (line 62483)
 translate ru SarahLeavesLethram1_f5345066:
     # sig "About...a house."
-    sig ""
+    sig "About...a house."
 
 # SarahLeavesLethram1_5dfce378 (line 62484)
 translate ru SarahLeavesLethram1_5dfce378:
     # s "A house?"
-    s ""
+    s "A house?"
 
 # SarahLeavesLethram1_96fcaac4 (line 62485)
 translate ru SarahLeavesLethram1_96fcaac4:
     # sig "Yeah. With the profits off this cart alone, you could probably pay for an entire house in Rahayal or Lethram."
-    sig ""
+    sig "Yeah. With the profits off this cart alone, you could probably pay for an entire house in Rahayal or Lethram."
 
 # SarahLeavesLethram1_33dbf7cd (line 62486)
 translate ru SarahLeavesLethram1_33dbf7cd:
@@ -1176,27 +1176,27 @@ translate ru SarahLeavesLethram1_ed5426bd:
 # SarahLeavesLethram1_8de5442a (line 62488)
 translate ru SarahLeavesLethram1_8de5442a:
     # sig "But don't go thinking we're all that rich."
-    sig ""
+    sig "But don't go thinking we're all that rich."
 
 # SarahLeavesLethram1_a4799957 (line 62489)
 translate ru SarahLeavesLethram1_a4799957:
     # sig "Trip like this can take a good while. Biggest chunk of the profits go to the bastards that own the cargo."
-    sig ""
+    sig "Trip like this can take a good while. Biggest chunk of the profits go to the bastards that own the cargo."
 
 # SarahLeavesLethram1_c86c4266 (line 62490)
 translate ru SarahLeavesLethram1_c86c4266:
     # sig "We're just the idiots that are crazy enough to transport it."
-    sig ""
+    sig "We're just the idiots that are crazy enough to transport it."
 
 # SarahLeavesLethram1_95af557c (line 62491)
 translate ru SarahLeavesLethram1_95af557c:
     # sig "And after we're done transporting, we still need to split whatever money is left three-ways."
-    sig ""
+    sig "And after we're done transporting, we still need to split whatever money is left three-ways."
 
 # SarahLeavesLethram1_f7f4bb06 (line 62492)
 translate ru SarahLeavesLethram1_f7f4bb06:
     # sig "All in all, the money isn't really worth it."
-    sig ""
+    sig "All in all, the money isn't really worth it."
 
 # SarahLeavesLethram1_e67da71b (line 62493)
 translate ru SarahLeavesLethram1_e67da71b:
@@ -1211,7 +1211,7 @@ translate ru SarahLeavesLethram1_a667b6a3:
 # SarahLeavesLethram1_87422956 (line 62495)
 translate ru SarahLeavesLethram1_87422956:
     # s "How often have you made the trip?"
-    s ""
+    s "How often have you made the trip?"
 
 # SarahLeavesLethram1_5f34cbeb (line 62496)
 translate ru SarahLeavesLethram1_5f34cbeb:
@@ -1221,12 +1221,12 @@ translate ru SarahLeavesLethram1_5f34cbeb:
 # SarahLeavesLethram1_0b98b6fc (line 62497)
 translate ru SarahLeavesLethram1_0b98b6fc:
     # sig "You know...I don't think I really remember."
-    sig ""
+    sig "You know...I don't think I really remember."
 
 # SarahLeavesLethram1_23d95723 (line 62498)
 translate ru SarahLeavesLethram1_23d95723:
     # sig "I tried to keep track of it all, the first few times, but you keep going up and down this road, at some point, the trips just start to blur together."
-    sig ""
+    sig "I tried to keep track of it all, the first few times, but you keep going up and down this road, at some point, the trips just start to blur together."
 
 # SarahLeavesLethram1_e7947345 (line 62499)
 translate ru SarahLeavesLethram1_e7947345:
@@ -1256,7 +1256,7 @@ translate ru SarahLeavesLethram1_b0dba741:
 # SarahLeavesLethram1_3d6eeb15 (line 62512)
 translate ru SarahLeavesLethram1_3d6eeb15:
     # sig "Alright, we'll pack up and set camp on the side of the road here."
-    sig ""
+    sig "Alright, we'll pack up and set camp on the side of the road here."
 
 # SarahLeavesLethram1_b54e34eb (line 62513)
 translate ru SarahLeavesLethram1_b54e34eb:
@@ -1276,7 +1276,7 @@ translate ru SarahLeavesLethram1_348380e0:
 # SarahLeavesLethram1_c377d50b (line 62516)
 translate ru SarahLeavesLethram1_c377d50b:
     # sig "Sakar, Krip, let's go. I want a fire up before it's full dark."
-    sig ""
+    sig "Sakar, Krip, let's go. I want a fire up before it's full dark."
 
 # SarahLeavesLethram1_932b98f9 (line 62517)
 translate ru SarahLeavesLethram1_932b98f9:
@@ -1296,7 +1296,7 @@ translate ru SarahLeavesLethram1_2b3f5eb4:
 # SarahLeavesLethram1_50a7f4e4 (line 62524)
 translate ru SarahLeavesLethram1_50a7f4e4:
     # krip "Wood? Where?"
-    krip ""
+    krip "Wood? Where?"
 
 # SarahLeavesLethram1_1091d926 (line 62525)
 translate ru SarahLeavesLethram1_1091d926:
@@ -1306,12 +1306,12 @@ translate ru SarahLeavesLethram1_1091d926:
 # SarahLeavesLethram1_afbb5767 (line 62526)
 translate ru SarahLeavesLethram1_afbb5767:
     # sak "Just follow me."
-    sak ""
+    sak "Just follow me."
 
 # SarahLeavesLethram1_6427578b (line 62527)
 translate ru SarahLeavesLethram1_6427578b:
     # sak "And bring that axe of yours, I don't wanna spend all night picking twigs off the ground."
-    sak ""
+    sak "And bring that axe of yours, I don't wanna spend all night picking twigs off the ground."
 
 # SarahLeavesLethram1_7a69e536 (line 62528)
 translate ru SarahLeavesLethram1_7a69e536:
@@ -1326,7 +1326,7 @@ translate ru SarahLeavesLethram1_fe7212c0:
 # SarahLeavesLethram1_b00ee5f2 (line 62532)
 translate ru SarahLeavesLethram1_b00ee5f2:
     # s "Should I help them?"
-    s ""
+    s "Should I help them?"
 
 # SarahLeavesLethram1_b959732e (line 62533)
 translate ru SarahLeavesLethram1_b959732e:
@@ -1336,22 +1336,22 @@ translate ru SarahLeavesLethram1_b959732e:
 # SarahLeavesLethram1_1c2c6c69 (line 62534)
 translate ru SarahLeavesLethram1_1c2c6c69:
     # sig "If you really want to help, you can cook the food when they get a fire started."
-    sig ""
+    sig "If you really want to help, you can cook the food when they get a fire started."
 
 # SarahLeavesLethram1_65609f0c (line 62535)
 translate ru SarahLeavesLethram1_65609f0c:
     # s "I just...I don't want to feel like I'm not doing anything."
-    s ""
+    s "I just...I don't want to feel like I'm not doing anything."
 
 # SarahLeavesLethram1_c66324e1 (line 62536)
 translate ru SarahLeavesLethram1_c66324e1:
     # sig "And you can help by cooking."
-    sig ""
+    sig "And you can help by cooking."
 
 # SarahLeavesLethram1_3844a6cc (line 62537)
 translate ru SarahLeavesLethram1_3844a6cc:
     # sig "I just don't want you to go off with them..."
-    sig ""
+    sig "I just don't want you to go off with them..."
 
 # SarahLeavesLethram1_ba8e3de4 (line 62538)
 translate ru SarahLeavesLethram1_ba8e3de4:
@@ -1361,7 +1361,7 @@ translate ru SarahLeavesLethram1_ba8e3de4:
 # SarahLeavesLethram1_b4413e1e (line 62539)
 translate ru SarahLeavesLethram1_b4413e1e:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # SarahLeavesLethram1_8c65bc0d (line 62540)
 translate ru SarahLeavesLethram1_8c65bc0d:
@@ -1371,27 +1371,27 @@ translate ru SarahLeavesLethram1_8c65bc0d:
 # SarahLeavesLethram1_d7a1f128 (line 62541)
 translate ru SarahLeavesLethram1_d7a1f128:
     # sig "Sarah, I told you that this road gets dangerous the further we get along."
-    sig ""
+    sig "Sarah, I told you that this road gets dangerous the further we get along."
 
 # SarahLeavesLethram1_98ab44a5 (line 62542)
 translate ru SarahLeavesLethram1_98ab44a5:
     # sig "The men I work with...I don't choose them because they're good men."
-    sig ""
+    sig "The men I work with...I don't choose them because they're good men."
 
 # SarahLeavesLethram1_e34a44b5 (line 62543)
 translate ru SarahLeavesLethram1_e34a44b5:
     # sig "I choose them because they're bastards who will put an axe in any man's head if the situation requires it."
-    sig ""
+    sig "I choose them because they're bastards who will put an axe in any man's head if the situation requires it."
 
 # SarahLeavesLethram1_7cd9d39e (line 62544)
 translate ru SarahLeavesLethram1_7cd9d39e:
     # sig "They're not good people."
-    sig ""
+    sig "They're not good people."
 
 # SarahLeavesLethram1_a7a34829 (line 62545)
 translate ru SarahLeavesLethram1_a7a34829:
     # sig "Hell, I'm not a good person."
-    sig ""
+    sig "Hell, I'm not a good person."
 
 # SarahLeavesLethram1_7a0f881d (line 62546)
 translate ru SarahLeavesLethram1_7a0f881d:
@@ -1401,7 +1401,7 @@ translate ru SarahLeavesLethram1_7a0f881d:
 # SarahLeavesLethram1_1d453cc4 (line 62547)
 translate ru SarahLeavesLethram1_1d453cc4:
     # sig "I can't guarantee your safety if you're alone with them. Do you understand?"
-    sig ""
+    sig "I can't guarantee your safety if you're alone with them. Do you understand?"
 
 # SarahLeavesLethram1_29bc125b (line 62548)
 translate ru SarahLeavesLethram1_29bc125b:
@@ -1426,7 +1426,7 @@ translate ru SarahLeavesLethram1_87f05e29:
 # SarahLeavesLethram1_f9c18fe2 (line 62552)
 translate ru SarahLeavesLethram1_f9c18fe2:
     # s "I...understand. I promise I won't be alone with them."
-    s ""
+    s "I...understand. I promise I won't be alone with them."
 
 # SarahLeavesLethram1_60b741d1 (line 62553)
 translate ru SarahLeavesLethram1_60b741d1:
@@ -1436,12 +1436,12 @@ translate ru SarahLeavesLethram1_60b741d1:
 # SarahLeavesLethram1_4e20f070 (line 62554)
 translate ru SarahLeavesLethram1_4e20f070:
     # sig "Thank you. That's all I wanted to hear."
-    sig ""
+    sig "Thank you. That's all I wanted to hear."
 
 # SarahLeavesLethram1_a421ee2c (line 62555)
 translate ru SarahLeavesLethram1_a421ee2c:
     # sig "We'll be in Gallow's Creek by tomorrow. After that, you won't have to worry about any of them, I promise."
-    sig ""
+    sig "We'll be in Gallow's Creek by tomorrow. After that, you won't have to worry about any of them, I promise."
 
 # SarahLeavesLethram1_5f7455a5 (line 62556)
 translate ru SarahLeavesLethram1_5f7455a5:
@@ -1486,7 +1486,7 @@ translate ru SarahLeavesLethram1_2fb9f93d:
 # SarahLeavesLethram1_329f4afa (line 62565)
 translate ru SarahLeavesLethram1_329f4afa:
     # sak "Well, this should be plenty of wood."
-    sak ""
+    sak "Well, this should be plenty of wood."
 
 # SarahLeavesLethram1_b5222112 (line 62566)
 translate ru SarahLeavesLethram1_b5222112:
@@ -1551,7 +1551,7 @@ translate ru SarahLeavesLethram1_4109f434:
 # SarahLeavesLethram1_e339036a (line 62580)
 translate ru SarahLeavesLethram1_e339036a:
     # sak "Don't suppose you know how to make a campfire?"
-    sak ""
+    sak "Don't suppose you know how to make a campfire?"
 
 # SarahLeavesLethram1_2386770c (line 62581)
 translate ru SarahLeavesLethram1_2386770c:
@@ -1561,17 +1561,17 @@ translate ru SarahLeavesLethram1_2386770c:
 # SarahLeavesLethram1_995402d9 (line 62582)
 translate ru SarahLeavesLethram1_995402d9:
     # s "No."
-    s ""
+    s "No."
 
 # SarahLeavesLethram1_663dd77a (line 62583)
 translate ru SarahLeavesLethram1_663dd77a:
     # sak "I'll teach you if you want."
-    sak ""
+    sak "I'll teach you if you want."
 
 # SarahLeavesLethram1_6ffd5a28 (line 62584)
 translate ru SarahLeavesLethram1_6ffd5a28:
     # s "No, I think I'm good."
-    s ""
+    s "No, I think I'm good."
 
 # SarahLeavesLethram1_26b218bc (line 62585)
 translate ru SarahLeavesLethram1_26b218bc:
@@ -1581,7 +1581,7 @@ translate ru SarahLeavesLethram1_26b218bc:
 # SarahLeavesLethram1_ceb6d29c (line 62586)
 translate ru SarahLeavesLethram1_ceb6d29c:
     # sak "That's alright, I was only offering."
-    sak ""
+    sak "That's alright, I was only offering."
 
 # SarahLeavesLethram1_ca163488 (line 62587)
 translate ru SarahLeavesLethram1_ca163488:
@@ -1591,7 +1591,7 @@ translate ru SarahLeavesLethram1_ca163488:
 # SarahLeavesLethram1_3af7a764 (line 62588)
 translate ru SarahLeavesLethram1_3af7a764:
     # sig "Sarah."
-    sig ""
+    sig "Sarah."
 
 # SarahLeavesLethram1_b81022a0 (line 62589)
 translate ru SarahLeavesLethram1_b81022a0:
@@ -1601,7 +1601,7 @@ translate ru SarahLeavesLethram1_b81022a0:
 # SarahLeavesLethram1_a2eea801 (line 62590)
 translate ru SarahLeavesLethram1_a2eea801:
     # sig "You can get started on cooking now if you want."
-    sig ""
+    sig "You can get started on cooking now if you want."
 
 # SarahLeavesLethram1_bd9b4f2c (line 62591)
 translate ru SarahLeavesLethram1_bd9b4f2c:
@@ -1611,12 +1611,12 @@ translate ru SarahLeavesLethram1_bd9b4f2c:
 # SarahLeavesLethram1_66a4e96d (line 62592)
 translate ru SarahLeavesLethram1_66a4e96d:
     # s "Of course! What do you want me to make?"
-    s ""
+    s "Of course! What do you want me to make?"
 
 # SarahLeavesLethram1_a5aa849e (line 62593)
 translate ru SarahLeavesLethram1_a5aa849e:
     # sig "You can just bake up a few eggs and some bacon, there should be some in the trunk of the cart."
-    sig ""
+    sig "You can just bake up a few eggs and some bacon, there should be some in the trunk of the cart."
 
 # SarahLeavesLethram1_43124bba (line 62594)
 translate ru SarahLeavesLethram1_43124bba:
@@ -1626,32 +1626,22 @@ translate ru SarahLeavesLethram1_43124bba:
 # SarahLeavesLethram1_f56b515e (line 62595)
 translate ru SarahLeavesLethram1_f56b515e:
     # sak "More fucking eggs?"
-    sak ""
+    sak "More fucking eggs?"
 
 # SarahLeavesLethram1_2303b719 (line 62596)
 translate ru SarahLeavesLethram1_2303b719:
     # sak "Are you serious? I've eaten nothing but eggs for weeks now."
-    sak ""
+    sak "Are you serious? I've eaten nothing but eggs for weeks now."
 
 # SarahLeavesLethram1_f662deb4 (line 62597)
 translate ru SarahLeavesLethram1_f662deb4:
     # sak "If it wasn't for our stop in Lethram I'd have gone insane by now."
-    sak ""
+    sak "If it wasn't for our stop in Lethram I'd have gone insane by now."
 
 # SarahLeavesLethram1_81f311a1 (line 62598)
 translate ru SarahLeavesLethram1_81f311a1:
     # sak "Listen, girly, go to the back of the cart and grab the vegetables and some of the pork. Make us a stew."
-    sak ""
-
-# SarahLeavesLethram1_0fbce466 (line 62601)
-translate ru SarahLeavesLethram1_0fbce466:
-    # "Make the eggs and bacon."
-    "Make the eggs and bacon." ""
-
-# SarahLeavesLethram1_229b0105 (line 62609)
-translate ru SarahLeavesLethram1_229b0105:
-    # "Make a stew"
-    "Make a stew" ""
+    sak "Listen, girly, go to the back of the cart and grab the vegetables and some of the pork. Make us a stew."
 
 # SarahLeavesLethram1_923cb2ab (line 62618)
 translate ru SarahLeavesLethram1_923cb2ab:
@@ -1701,7 +1691,7 @@ translate ru SarahLeavesLethram1_9ed25912:
 # SarahLeavesLethram1_adcf7f8d (line 62647)
 translate ru SarahLeavesLethram1_adcf7f8d:
     # s "You know, you kept saying this road is so dangerous, but so far I haven't seen anything."
-    s ""
+    s "You know, you kept saying this road is so dangerous, but so far I haven't seen anything."
 
 # SarahLeavesLethram1_3fc40a97 (line 62648)
 translate ru SarahLeavesLethram1_3fc40a97:
@@ -1711,7 +1701,7 @@ translate ru SarahLeavesLethram1_3fc40a97:
 # SarahLeavesLethram1_37288352 (line 62649)
 translate ru SarahLeavesLethram1_37288352:
     # s "Why is he laughing?"
-    s ""
+    s "Why is he laughing?"
 
 # SarahLeavesLethram1_3c0f1ce4 (line 62650)
 translate ru SarahLeavesLethram1_3c0f1ce4:
@@ -1721,7 +1711,7 @@ translate ru SarahLeavesLethram1_3c0f1ce4:
 # SarahLeavesLethram1_78825ab6 (line 62651)
 translate ru SarahLeavesLethram1_78825ab6:
     # sig "He's laughing because we passed through an ambush about eight miles back."
-    sig ""
+    sig "He's laughing because we passed through an ambush about eight miles back."
 
 # SarahLeavesLethram1_9e7c82f3 (line 62652)
 translate ru SarahLeavesLethram1_9e7c82f3:
@@ -1731,12 +1721,12 @@ translate ru SarahLeavesLethram1_9e7c82f3:
 # SarahLeavesLethram1_a4c3dea9 (line 62653)
 translate ru SarahLeavesLethram1_a4c3dea9:
     # s "No...that's not possible...I would have seen something."
-    s ""
+    s "No...that's not possible...I would have seen something."
 
 # SarahLeavesLethram1_72ccd35b (line 62654)
 translate ru SarahLeavesLethram1_72ccd35b:
     # sig "It was over by the bend in the road, where we passed the large tree."
-    sig ""
+    sig "It was over by the bend in the road, where we passed the large tree."
 
 # SarahLeavesLethram1_118110b4 (line 62655)
 translate ru SarahLeavesLethram1_118110b4:
@@ -1746,7 +1736,7 @@ translate ru SarahLeavesLethram1_118110b4:
 # SarahLeavesLethram1_5615186c (line 62656)
 translate ru SarahLeavesLethram1_5615186c:
     # s "There...were bandits there?"
-    s ""
+    s "There...were bandits there?"
 
 # SarahLeavesLethram1_1e748351 (line 62657)
 translate ru SarahLeavesLethram1_1e748351:
@@ -1756,22 +1746,22 @@ translate ru SarahLeavesLethram1_1e748351:
 # SarahLeavesLethram1_91e126d9 (line 62658)
 translate ru SarahLeavesLethram1_91e126d9:
     # sig "About three of em. They weren't very clever about it either, spotted them from a mile."
-    sig ""
+    sig "About three of em. They weren't very clever about it either, spotted them from a mile."
 
 # SarahLeavesLethram1_e6ac47d0 (line 62659)
 translate ru SarahLeavesLethram1_e6ac47d0:
     # sig "But they were amateurs. They take one look at me and they don't even bother."
-    sig ""
+    sig "But they were amateurs. They take one look at me and they don't even bother."
 
 # SarahLeavesLethram1_0bb6cb67 (line 62660)
 translate ru SarahLeavesLethram1_0bb6cb67:
     # sig "Most bandits are like that."
-    sig ""
+    sig "Most bandits are like that."
 
 # SarahLeavesLethram1_52dfb92f (line 62661)
 translate ru SarahLeavesLethram1_52dfb92f:
     # sig "They're not looking for a real fight, they're cowards. The only fights they want are when they outnumber their targets."
-    sig ""
+    sig "They're not looking for a real fight, they're cowards. The only fights they want are when they outnumber their targets."
 
 # SarahLeavesLethram1_10b43697 (line 62662)
 translate ru SarahLeavesLethram1_10b43697:
@@ -1781,7 +1771,7 @@ translate ru SarahLeavesLethram1_10b43697:
 # SarahLeavesLethram1_6abf7021 (line 62663)
 translate ru SarahLeavesLethram1_6abf7021:
     # sig "Robbing a lone farmer heading to the city. Women herding sheep. Disgusting cowards, the lot of em."
-    sig ""
+    sig "Robbing a lone farmer heading to the city. Women herding sheep. Disgusting cowards, the lot of em."
 
 # SarahLeavesLethram1_b7d71368 (line 62664)
 translate ru SarahLeavesLethram1_b7d71368:
@@ -1791,12 +1781,12 @@ translate ru SarahLeavesLethram1_b7d71368:
 # SarahLeavesLethram1_4b211434 (line 62665)
 translate ru SarahLeavesLethram1_4b211434:
     # sak "I think you best be counting your lucky stars you ran into us, girly."
-    sak ""
+    sak "I think you best be counting your lucky stars you ran into us, girly."
 
 # SarahLeavesLethram1_c974881b (line 62666)
 translate ru SarahLeavesLethram1_c974881b:
     # sak "You wouldn't have lasted a day out here on the old road."
-    sak ""
+    sak "You wouldn't have lasted a day out here on the old road."
 
 # SarahLeavesLethram1_f6b08426 (line 62667)
 translate ru SarahLeavesLethram1_f6b08426:
@@ -1906,7 +1896,7 @@ translate ru SarahLeavesLethram1_a5ba1644:
 # SarahLeavesLethram1_ec49b03e (line 62709)
 translate ru SarahLeavesLethram1_ec49b03e:
     # sak "Sorry, I hope I didn't scare you."
-    sak ""
+    sak "Sorry, I hope I didn't scare you."
 
 # SarahLeavesLethram1_a042594a (line 62710)
 translate ru SarahLeavesLethram1_a042594a:
@@ -1916,7 +1906,7 @@ translate ru SarahLeavesLethram1_a042594a:
 # SarahLeavesLethram1_6efdfc81 (line 62711)
 translate ru SarahLeavesLethram1_6efdfc81:
     # s "I...no, you didn't...I just wasn't expecting anyone."
-    s ""
+    s "I...no, you didn't...I just wasn't expecting anyone."
 
 # SarahLeavesLethram1_5bb2ada7 (line 62712)
 translate ru SarahLeavesLethram1_5bb2ada7:
@@ -1926,7 +1916,7 @@ translate ru SarahLeavesLethram1_5bb2ada7:
 # SarahLeavesLethram1_f03816d0 (line 62713)
 translate ru SarahLeavesLethram1_f03816d0:
     # sak "Enjoying the sunrise?"
-    sak ""
+    sak "Enjoying the sunrise?"
 
 # SarahLeavesLethram1_418e872d (line 62714)
 translate ru SarahLeavesLethram1_418e872d:
@@ -1936,7 +1926,7 @@ translate ru SarahLeavesLethram1_418e872d:
 # SarahLeavesLethram1_7d92e3ea (line 62715)
 translate ru SarahLeavesLethram1_7d92e3ea:
     # s "It's...beautiful."
-    s ""
+    s "It's...beautiful."
 
 # SarahLeavesLethram1_16c9fbcd (line 62716)
 translate ru SarahLeavesLethram1_16c9fbcd:
@@ -1946,22 +1936,22 @@ translate ru SarahLeavesLethram1_16c9fbcd:
 # SarahLeavesLethram1_c4fa3463 (line 62717)
 translate ru SarahLeavesLethram1_c4fa3463:
     # sak "It is."
-    sak ""
+    sak "It is."
 
 # SarahLeavesLethram1_f214722c (line 62718)
 translate ru SarahLeavesLethram1_f214722c:
     # sak "I never knew sunrises and sunsets could look like this until I worked the old road."
-    sak ""
+    sak "I never knew sunrises and sunsets could look like this until I worked the old road."
 
 # SarahLeavesLethram1_a271a667 (line 62719)
 translate ru SarahLeavesLethram1_a271a667:
     # sak "This is nothing compared to how it looks further up."
-    sak ""
+    sak "This is nothing compared to how it looks further up."
 
 # SarahLeavesLethram1_0dbdc097 (line 62720)
 translate ru SarahLeavesLethram1_0dbdc097:
     # sak "Deep into the bandit kingdoms, nature runs free in a way that you can't imagine unless you see it."
-    sak ""
+    sak "Deep into the bandit kingdoms, nature runs free in a way that you can't imagine unless you see it."
 
 # SarahLeavesLethram1_3a07e5fb (line 62721)
 translate ru SarahLeavesLethram1_3a07e5fb:
@@ -1971,7 +1961,7 @@ translate ru SarahLeavesLethram1_3a07e5fb:
 # SarahLeavesLethram1_bcdc5f93 (line 62722)
 translate ru SarahLeavesLethram1_bcdc5f93:
     # sak "Sad you won't see it. You're leaving us at Gallow's Creek was it?"
-    sak ""
+    sak "Sad you won't see it. You're leaving us at Gallow's Creek was it?"
 
 # SarahLeavesLethram1_7ad34eda (line 62723)
 translate ru SarahLeavesLethram1_7ad34eda:
@@ -1981,12 +1971,12 @@ translate ru SarahLeavesLethram1_7ad34eda:
 # SarahLeavesLethram1_57b80f7b (line 62724)
 translate ru SarahLeavesLethram1_57b80f7b:
     # sak "Was that his idea? Sigmund's?"
-    sak ""
+    sak "Was that his idea? Sigmund's?"
 
 # SarahLeavesLethram1_fb38a7fd (line 62725)
 translate ru SarahLeavesLethram1_fb38a7fd:
     # s "Yeah, he told me it's a safe town. It sounded like the kind of place I was looking for."
-    s ""
+    s "Yeah, he told me it's a safe town. It sounded like the kind of place I was looking for."
 
 # SarahLeavesLethram1_9635e803 (line 62726)
 translate ru SarahLeavesLethram1_9635e803:
@@ -1996,7 +1986,7 @@ translate ru SarahLeavesLethram1_9635e803:
 # SarahLeavesLethram1_2df76a15 (line 62727)
 translate ru SarahLeavesLethram1_2df76a15:
     # sak "He's right about that. Safe, secure. Definitely no bastards like you'll find out on the old road."
-    sak ""
+    sak "He's right about that. Safe, secure. Definitely no bastards like you'll find out on the old road."
 
 # SarahLeavesLethram1_8bd9eff4 (line 62728)
 translate ru SarahLeavesLethram1_8bd9eff4:
@@ -2006,17 +1996,17 @@ translate ru SarahLeavesLethram1_8bd9eff4:
 # SarahLeavesLethram1_35644a42 (line 62729)
 translate ru SarahLeavesLethram1_35644a42:
     # s "What?"
-    s ""
+    s "What?"
 
 # SarahLeavesLethram1_ef97343a (line 62730)
 translate ru SarahLeavesLethram1_ef97343a:
     # sak "I didn't say nothing."
-    sak ""
+    sak "I didn't say nothing."
 
 # SarahLeavesLethram1_62b24b27 (line 62731)
 translate ru SarahLeavesLethram1_62b24b27:
     # s "Well it sounds like you want to say something."
-    s ""
+    s "Well it sounds like you want to say something."
 
 # SarahLeavesLethram1_1a37d805 (line 62732)
 translate ru SarahLeavesLethram1_1a37d805:
@@ -2026,7 +2016,7 @@ translate ru SarahLeavesLethram1_1a37d805:
 # SarahLeavesLethram1_335c6b45 (line 62733)
 translate ru SarahLeavesLethram1_335c6b45:
     # sak "Well, all I'm saying is that it's...well it's a great place for some, let's leave it at that."
-    sak ""
+    sak "Well, all I'm saying is that it's...well it's a great place for some, let's leave it at that."
 
 # SarahLeavesLethram1_bdbd9a7c (line 62734)
 translate ru SarahLeavesLethram1_bdbd9a7c:
@@ -2036,7 +2026,7 @@ translate ru SarahLeavesLethram1_bdbd9a7c:
 # SarahLeavesLethram1_e4bf7e8b (line 62735)
 translate ru SarahLeavesLethram1_e4bf7e8b:
     # s "No, tell me. What's wrong with Gallow's Creek?"
-    s ""
+    s "No, tell me. What's wrong with Gallow's Creek?"
 
 # SarahLeavesLethram1_3745c6ed (line 62736)
 translate ru SarahLeavesLethram1_3745c6ed:
@@ -2046,32 +2036,32 @@ translate ru SarahLeavesLethram1_3745c6ed:
 # SarahLeavesLethram1_83de2245 (line 62737)
 translate ru SarahLeavesLethram1_83de2245:
     # sak "It's just...the kind of place where people go to die if you ask me."
-    sak ""
+    sak "It's just...the kind of place where people go to die if you ask me."
 
 # SarahLeavesLethram1_057830e5 (line 62738)
 translate ru SarahLeavesLethram1_057830e5:
     # sak "Sigmund's right, nothing happens there. But that's the whole thing...nothing ever fucking happens there."
-    sak ""
+    sak "Sigmund's right, nothing happens there. But that's the whole thing...nothing ever fucking happens there."
 
 # SarahLeavesLethram1_87c11787 (line 62739)
 translate ru SarahLeavesLethram1_87c11787:
     # sak "Some people can live like that, in a small town, same faces every day."
-    sak ""
+    sak "Some people can live like that, in a small town, same faces every day."
 
 # SarahLeavesLethram1_265d128f (line 62740)
 translate ru SarahLeavesLethram1_265d128f:
     # sak "But you ask me, I'd kill myself in less than a week if I had to live like that."
-    sak ""
+    sak "But you ask me, I'd kill myself in less than a week if I had to live like that."
 
 # SarahLeavesLethram1_65198ed2 (line 62741)
 translate ru SarahLeavesLethram1_65198ed2:
     # sak "Same yokels, working the field from dawn to dusk, only so they have enough food to survive the winter and then do it all over again."
-    sak ""
+    sak "Same yokels, working the field from dawn to dusk, only so they have enough food to survive the winter and then do it all over again."
 
 # SarahLeavesLethram1_6b6c41cc (line 62742)
 translate ru SarahLeavesLethram1_6b6c41cc:
     # sak "You can call that livin, I guess."
-    sak ""
+    sak "You can call that livin, I guess."
 
 # SarahLeavesLethram1_0eab8827 (line 62743)
 translate ru SarahLeavesLethram1_0eab8827:
@@ -2086,17 +2076,17 @@ translate ru SarahLeavesLethram1_50f63884:
 # SarahLeavesLethram1_bf6ab14a (line 62745)
 translate ru SarahLeavesLethram1_bf6ab14a:
     # s "Well...I wasn't planning on staying there forever."
-    s ""
+    s "Well...I wasn't planning on staying there forever."
 
 # SarahLeavesLethram1_32617f9d (line 62746)
 translate ru SarahLeavesLethram1_32617f9d:
     # sak "Sure. But how are you gonna leave, exactly?"
-    sak ""
+    sak "Sure. But how are you gonna leave, exactly?"
 
 # SarahLeavesLethram1_aba33fe6 (line 62747)
 translate ru SarahLeavesLethram1_aba33fe6:
     # sak "You go up or down the road from there without someone lookin out for you, that ain't gonna end well."
-    sak ""
+    sak "You go up or down the road from there without someone lookin out for you, that ain't gonna end well."
 
 # SarahLeavesLethram1_7f5afdd5 (line 62748)
 translate ru SarahLeavesLethram1_7f5afdd5:
@@ -2121,12 +2111,12 @@ translate ru SarahLeavesLethram1_6c2a5438:
 # SarahLeavesLethram1_fc6f7571 (line 62758)
 translate ru SarahLeavesLethram1_fc6f7571:
     # sig "Sakar!"
-    sig ""
+    sig "Sakar!"
 
 # SarahLeavesLethram1_94450936 (line 62759)
 translate ru SarahLeavesLethram1_94450936:
     # sig "What are you doing?!"
-    sig ""
+    sig "What are you doing?!"
 
 # SarahLeavesLethram1_d542b071 (line 62760)
 translate ru SarahLeavesLethram1_d542b071:
@@ -2136,17 +2126,17 @@ translate ru SarahLeavesLethram1_d542b071:
 # SarahLeavesLethram1_0e312414 (line 62761)
 translate ru SarahLeavesLethram1_0e312414:
     # sak "Just making conversation with our new traveling companion."
-    sak ""
+    sak "Just making conversation with our new traveling companion."
 
 # SarahLeavesLethram1_836cfe92 (line 62762)
 translate ru SarahLeavesLethram1_836cfe92:
     # sig "Go make yourself busy!"
-    sig ""
+    sig "Go make yourself busy!"
 
 # SarahLeavesLethram1_e18cc78e (line 62763)
 translate ru SarahLeavesLethram1_e18cc78e:
     # sak "Of course, boss."
-    sak ""
+    sak "Of course, boss."
 
 # SarahLeavesLethram1_67637893 (line 62764)
 translate ru SarahLeavesLethram1_67637893:
@@ -2156,7 +2146,7 @@ translate ru SarahLeavesLethram1_67637893:
 # SarahLeavesLethram1_dbc1b708 (line 62765)
 translate ru SarahLeavesLethram1_dbc1b708:
     # sak "Enjoy that sunset, girly."
-    sak ""
+    sak "Enjoy that sunset, girly."
 
 # SarahLeavesLethram1_6769ebf7 (line 62768)
 translate ru SarahLeavesLethram1_6769ebf7:
@@ -2166,12 +2156,12 @@ translate ru SarahLeavesLethram1_6769ebf7:
 # SarahLeavesLethram1_c0bac838 (line 62770)
 translate ru SarahLeavesLethram1_c0bac838:
     # sig "Sarah!"
-    sig ""
+    sig "Sarah!"
 
 # SarahLeavesLethram1_c93a330a (line 62773)
 translate ru SarahLeavesLethram1_c93a330a:
     # sig "I told you not to be alone with that man!"
-    sig ""
+    sig "I told you not to be alone with that man!"
 
 # SarahLeavesLethram1_660883c7 (line 62774)
 translate ru SarahLeavesLethram1_660883c7:
@@ -2181,17 +2171,17 @@ translate ru SarahLeavesLethram1_660883c7:
 # SarahLeavesLethram1_1bdf39f1 (line 62775)
 translate ru SarahLeavesLethram1_1bdf39f1:
     # s "I wasn't!"
-    s ""
+    s "I wasn't!"
 
 # SarahLeavesLethram1_63a4d612 (line 62776)
 translate ru SarahLeavesLethram1_63a4d612:
     # s "I woke up to the sunrise and I decided to climb up to this hill to get a better view."
-    s ""
+    s "I woke up to the sunrise and I decided to climb up to this hill to get a better view."
 
 # SarahLeavesLethram1_719b7ca1 (line 62777)
 translate ru SarahLeavesLethram1_719b7ca1:
     # s "He just happened to show up."
-    s ""
+    s "He just happened to show up."
 
 # SarahLeavesLethram1_3df6f697 (line 62778)
 translate ru SarahLeavesLethram1_3df6f697:
@@ -2201,7 +2191,7 @@ translate ru SarahLeavesLethram1_3df6f697:
 # SarahLeavesLethram1_44191795 (line 62779)
 translate ru SarahLeavesLethram1_44191795:
     # sig "He's dangerous, alright?"
-    sig ""
+    sig "He's dangerous, alright?"
 
 # SarahLeavesLethram1_85abeda3 (line 62780)
 translate ru SarahLeavesLethram1_85abeda3:
@@ -2216,17 +2206,17 @@ translate ru SarahLeavesLethram1_e13ffc8c:
 # SarahLeavesLethram1_5792844d (line 62782)
 translate ru SarahLeavesLethram1_5792844d:
     # s "Fine."
-    s ""
+    s "Fine."
 
 # SarahLeavesLethram1_a91815e7 (line 62783)
 translate ru SarahLeavesLethram1_a91815e7:
     # sig "Let's get back to the cart and prepare."
-    sig ""
+    sig "Let's get back to the cart and prepare."
 
 # SarahLeavesLethram1_a3621756 (line 62784)
 translate ru SarahLeavesLethram1_a3621756:
     # sig "If we leave now we can get to Gallow's creek before end of day."
-    sig ""
+    sig "If we leave now we can get to Gallow's creek before end of day."
 
 # SarahLeavesLethram1_cd4e22ab (line 62785)
 translate ru SarahLeavesLethram1_cd4e22ab:
@@ -2286,17 +2276,17 @@ translate ru SarahLeavesLethram1_905f3fdb:
 # SarahLeavesLethram1_587c1321 (line 62802)
 translate ru SarahLeavesLethram1_587c1321:
     # s "What's that?"
-    s ""
+    s "What's that?"
 
 # SarahLeavesLethram1_a19654dd (line 62803)
 translate ru SarahLeavesLethram1_a19654dd:
     # sig "That would be Gallow's Creek."
-    sig ""
+    sig "That would be Gallow's Creek."
 
 # SarahLeavesLethram1_7a1d277c (line 62804)
 translate ru SarahLeavesLethram1_7a1d277c:
     # sig "Their mill anyway, it's the tallest building for miles."
-    sig ""
+    sig "Their mill anyway, it's the tallest building for miles."
 
 # SarahLeavesLethram1_a1301131 (line 62805)
 translate ru SarahLeavesLethram1_a1301131:
@@ -2336,17 +2326,17 @@ translate ru SarahLeavesLethram1_f597ee29:
 # SarahLeavesLethram1_9f7a018a (line 62818)
 translate ru SarahLeavesLethram1_9f7a018a:
     # sig "Well, this is where we part our ways."
-    sig ""
+    sig "Well, this is where we part our ways."
 
 # SarahLeavesLethram1_333a43dd (line 62819)
 translate ru SarahLeavesLethram1_333a43dd:
     # sig "You just follow the road up here, no more than a few minutes walking."
-    sig ""
+    sig "You just follow the road up here, no more than a few minutes walking."
 
 # SarahLeavesLethram1_cf86a819 (line 62820)
 translate ru SarahLeavesLethram1_cf86a819:
     # sig "Ask around for help, they're always happy to give a hand to anyone in need."
-    sig ""
+    sig "Ask around for help, they're always happy to give a hand to anyone in need."
 
 # SarahLeavesLethram1_f4c4c92e (line 62821)
 translate ru SarahLeavesLethram1_f4c4c92e:
@@ -2411,7 +2401,7 @@ translate ru SarahLeavesLethram1_1e52a3a7:
 # SarahLeavesLethram1_48d7f4c8 (line 62838)
 translate ru SarahLeavesLethram1_48d7f4c8:
     # s "H-h-hello?"
-    s ""
+    s "H-h-hello?"
 
 # SarahLeavesLethram1_180bbf1d (line 62839)
 translate ru SarahLeavesLethram1_180bbf1d:
@@ -2451,7 +2441,7 @@ translate ru SarahLeavesLethram1_a894c37a:
 # SarahLeavesLethram1_4064f868 (line 62846)
 translate ru SarahLeavesLethram1_4064f868:
     # s "Who are you?"
-    s ""
+    s "Who are you?"
 
 # SarahLeavesLethram1_6de10447 (line 62847)
 translate ru SarahLeavesLethram1_6de10447:
@@ -2477,14 +2467,4 @@ translate ru SarahLeavesLethram1_6b550d5c:
 translate ru SarahLeavesLethram1_364dcb34:
     # "She shivered, the cold that ran through her body reminding her that what she had felt was real."
     ""
-
-# SarahLeavesLethram1_9ad57457 (line 62860)
-translate ru SarahLeavesLethram1_9ad57457:
-    # "Go to Rahayal"
-    "Go to Rahayal" ""
-
-# SarahLeavesLethram1_345b3114 (line 62862)
-translate ru SarahLeavesLethram1_345b3114:
-    # "Continue to Gallow's Creek"
-    "Continue to Gallow's Creek" ""
 

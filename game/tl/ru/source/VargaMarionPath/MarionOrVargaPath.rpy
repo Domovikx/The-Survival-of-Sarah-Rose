@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: MarionOrVargaPath
-# Total blocks: 12
+# Total blocks: 11
 
 # MarionOrVargaPath_3a808530 (line 4238)
 translate ru MarionOrVargaPath_3a808530:
@@ -31,7 +31,7 @@ translate ru MarionOrVargaPath_c162b7ee:
 # MarionOrVargaPath_35ab3463 (line 4243)
 translate ru MarionOrVargaPath_35ab3463:
     # t "I believe our honorable friend, Marion, has something he wanted to say to you."
-    t ""
+    t "I believe our honorable friend, Marion, has something he wanted to say to you."
 
 # MarionOrVargaPath_8c5d61c3 (line 4252)
 translate ru MarionOrVargaPath_8c5d61c3:
@@ -41,12 +41,12 @@ translate ru MarionOrVargaPath_8c5d61c3:
 # MarionOrVargaPath_5ee5876e (line 4253)
 translate ru MarionOrVargaPath_5ee5876e:
     # m "Sarah Rose, having given it serious consideration, I wish to pronounce in front of all these people, my love for you."
-    m ""
+    m "Sarah Rose, having given it serious consideration, I wish to pronounce in front of all these people, my love for you."
 
 # MarionOrVargaPath_2b702bbc (line 4254)
 translate ru MarionOrVargaPath_2b702bbc:
     # m "Please give me the honour of your hand, and I will swear to always be true."
-    m ""
+    m "Please give me the honour of your hand, and I will swear to always be true."
 
 # MarionOrVargaPath_615f988f (line 4255)
 translate ru MarionOrVargaPath_615f988f:
@@ -57,9 +57,4 @@ translate ru MarionOrVargaPath_615f988f:
 translate ru MarionOrVargaPath_ef18e953:
     # "The edges of her vision seemed to blur, and the ground under her feet began to shift."
     ""
-
-# MarionOrVargaPath_d1b554e2 (line 4270)
-translate ru MarionOrVargaPath_d1b554e2:
-    # "Reject Marion's proposal."
-    "Reject Marion's proposal." ""
 

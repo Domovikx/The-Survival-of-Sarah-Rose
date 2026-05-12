@@ -551,7 +551,7 @@ translate ru TheBlackMonolithMage1_8f3f1766:
 # TheBlackMonolithMage1_edd11cef (line 76736)
 translate ru TheBlackMonolithMage1_edd11cef:
     # s "Razaphel?"
-    s ""
+    s "Razaphel?"
 
 # TheBlackMonolithMage1_d7918fa3 (line 76737)
 translate ru TheBlackMonolithMage1_d7918fa3:
@@ -581,7 +581,7 @@ translate ru TheBlackMonolithMage1_fce8d4a5:
 # TheBlackMonolithMage1_80e50861 (line 76744)
 translate ru TheBlackMonolithMage1_80e50861:
     # s "What is this? More tricks?"
-    s ""
+    s "What is this? More tricks?"
 
 # TheBlackMonolithMage1_428bd489 (line 76745)
 translate ru TheBlackMonolithMage1_428bd489:
@@ -591,12 +591,12 @@ translate ru TheBlackMonolithMage1_428bd489:
 # TheBlackMonolithMage1_fda216b8 (line 76746)
 translate ru TheBlackMonolithMage1_fda216b8:
     # r "No, Sarah. No more tricks."
-    r ""
+    r "No, Sarah. No more tricks."
 
 # TheBlackMonolithMage1_1fc974aa (line 76747)
 translate ru TheBlackMonolithMage1_1fc974aa:
     # s "What then? You've lured me out here, to the edge of the world...for what?"
-    s ""
+    s "What then? You've lured me out here, to the edge of the world...for what?"
 
 # TheBlackMonolithMage1_a72b3846 (line 76748)
 translate ru TheBlackMonolithMage1_a72b3846:
@@ -606,7 +606,7 @@ translate ru TheBlackMonolithMage1_a72b3846:
 # TheBlackMonolithMage1_1271d83b (line 76749)
 translate ru TheBlackMonolithMage1_1271d83b:
     # r "Before this moment, we had not ever truly met."
-    r ""
+    r "Before this moment, we had not ever truly met."
 
 # TheBlackMonolithMage1_205c0ced (line 76750)
 translate ru TheBlackMonolithMage1_205c0ced:
@@ -626,7 +626,7 @@ translate ru TheBlackMonolithMage1_39b5ccaa:
 # TheBlackMonolithMage1_20b0cb6f (line 76753)
 translate ru TheBlackMonolithMage1_20b0cb6f:
     # s "Tell me what you mean."
-    s ""
+    s "Tell me what you mean."
 
 # TheBlackMonolithMage1_07f43e15 (line 76754)
 translate ru TheBlackMonolithMage1_07f43e15:
@@ -636,27 +636,27 @@ translate ru TheBlackMonolithMage1_07f43e15:
 # TheBlackMonolithMage1_568fd14b (line 76755)
 translate ru TheBlackMonolithMage1_568fd14b:
     # r "This is my true form. The other spaces in which we met...the mage's house...Bagrad...only echoes of myself."
-    r ""
+    r "This is my true form. The other spaces in which we met...the mage's house...Bagrad...only echoes of myself."
 
 # TheBlackMonolithMage1_a135bc65 (line 76756)
 translate ru TheBlackMonolithMage1_a135bc65:
     # s "Echoes?"
-    s ""
+    s "Echoes?"
 
 # TheBlackMonolithMage1_943d4d18 (line 76757)
 translate ru TheBlackMonolithMage1_943d4d18:
     # r "Suppose you were to fill up a cup with water and then pierced the bottom with a knife, several times."
-    r ""
+    r "Suppose you were to fill up a cup with water and then pierced the bottom with a knife, several times."
 
 # TheBlackMonolithMage1_b9e0de1a (line 76758)
 translate ru TheBlackMonolithMage1_b9e0de1a:
     # r "The water would pour out from different places, but it would all be the same water."
-    r ""
+    r "The water would pour out from different places, but it would all be the same water."
 
 # TheBlackMonolithMage1_035e6384 (line 76759)
 translate ru TheBlackMonolithMage1_035e6384:
     # r "This place here is my source."
-    r ""
+    r "This place here is my source."
 
 # TheBlackMonolithMage1_70cb7ef5 (line 76760)
 translate ru TheBlackMonolithMage1_70cb7ef5:
@@ -671,12 +671,12 @@ translate ru TheBlackMonolithMage1_87c7b0d1:
 # TheBlackMonolithMage1_00906d24 (line 76762)
 translate ru TheBlackMonolithMage1_00906d24:
     # s "And that?"
-    s ""
+    s "And that?"
 
 # TheBlackMonolithMage1_da6d6549 (line 76763)
 translate ru TheBlackMonolithMage1_da6d6549:
     # r "Perceptive."
-    r ""
+    r "Perceptive."
 
 # TheBlackMonolithMage1_dc1ba4d0 (line 76764)
 translate ru TheBlackMonolithMage1_dc1ba4d0:
@@ -691,12 +691,12 @@ translate ru TheBlackMonolithMage1_b9d2eea5:
 # TheBlackMonolithMage1_33427694 (line 76766)
 translate ru TheBlackMonolithMage1_33427694:
     # s "Give me answers or I will leave, Razaphel. You promised me truth, I won't stand your riddles again."
-    s ""
+    s "Give me answers or I will leave, Razaphel. You promised me truth, I won't stand your riddles again."
 
 # TheBlackMonolithMage1_281c26d2 (line 76767)
 translate ru TheBlackMonolithMage1_281c26d2:
     # r "Very well. Let us speak only truth then."
-    r ""
+    r "Very well. Let us speak only truth then."
 
 # TheBlackMonolithMage1_e37cb77b (line 76768)
 translate ru TheBlackMonolithMage1_e37cb77b:
@@ -706,7 +706,7 @@ translate ru TheBlackMonolithMage1_e37cb77b:
 # TheBlackMonolithMage1_94cedd3a (line 76769)
 translate ru TheBlackMonolithMage1_94cedd3a:
     # r "You know of how my kind came about in your world, do you not?"
-    r ""
+    r "You know of how my kind came about in your world, do you not?"
 
 # TheBlackMonolithMage1_50886442 (line 76770)
 translate ru TheBlackMonolithMage1_50886442:
@@ -721,17 +721,17 @@ translate ru TheBlackMonolithMage1_63f4773f:
 # TheBlackMonolithMage1_2c69c5c6 (line 76772)
 translate ru TheBlackMonolithMage1_2c69c5c6:
     # s "Empress Ayamari summoned your world into ours."
-    s ""
+    s "Empress Ayamari summoned your world into ours."
 
 # TheBlackMonolithMage1_7726556d (line 76773)
 translate ru TheBlackMonolithMage1_7726556d:
     # r "She did. Millenia ago."
-    r ""
+    r "She did. Millenia ago."
 
 # TheBlackMonolithMage1_6347fbb6 (line 76774)
 translate ru TheBlackMonolithMage1_6347fbb6:
     # r "But did the mage ever tell you why?"
-    r ""
+    r "But did the mage ever tell you why?"
 
 # TheBlackMonolithMage1_1952d861 (line 76775)
 translate ru TheBlackMonolithMage1_1952d861:
@@ -741,7 +741,7 @@ translate ru TheBlackMonolithMage1_1952d861:
 # TheBlackMonolithMage1_955b6b7e (line 76776)
 translate ru TheBlackMonolithMage1_955b6b7e:
     # s "Yes...she wanted to be immortal. To live forever."
-    s ""
+    s "Yes...she wanted to be immortal. To live forever."
 
 # TheBlackMonolithMage1_3eebef84 (line 76777)
 translate ru TheBlackMonolithMage1_3eebef84:
@@ -751,17 +751,17 @@ translate ru TheBlackMonolithMage1_3eebef84:
 # TheBlackMonolithMage1_7ef083d4 (line 76778)
 translate ru TheBlackMonolithMage1_7ef083d4:
     # r "So it was, but that does not answer the question of why."
-    r ""
+    r "So it was, but that does not answer the question of why."
 
 # TheBlackMonolithMage1_e63fadda (line 76779)
 translate ru TheBlackMonolithMage1_e63fadda:
     # s "Why what?"
-    s ""
+    s "Why what?"
 
 # TheBlackMonolithMage1_76663d01 (line 76780)
 translate ru TheBlackMonolithMage1_76663d01:
     # r "Why my world."
-    r ""
+    r "Why my world."
 
 # TheBlackMonolithMage1_2591f6c5 (line 76781)
 translate ru TheBlackMonolithMage1_2591f6c5:
@@ -771,7 +771,7 @@ translate ru TheBlackMonolithMage1_2591f6c5:
 # TheBlackMonolithMage1_efb5cc6c (line 76782)
 translate ru TheBlackMonolithMage1_efb5cc6c:
     # s "I suppose...I don't know."
-    s ""
+    s "I suppose...I don't know."
 
 # TheBlackMonolithMage1_313a620d (line 76783)
 translate ru TheBlackMonolithMage1_313a620d:
@@ -791,17 +791,17 @@ translate ru TheBlackMonolithMage1_ee2c8afd:
 # TheBlackMonolithMage1_5ede50cf (line 76786)
 translate ru TheBlackMonolithMage1_5ede50cf:
     # r "Gods are the spark that begin the birth of a world, but they are equally of that world."
-    r ""
+    r "Gods are the spark that begin the birth of a world, but they are equally of that world."
 
 # TheBlackMonolithMage1_b0e166b6 (line 76787)
 translate ru TheBlackMonolithMage1_b0e166b6:
     # r "There is a cyclical nature to they who create, and are in turn birthed from their own creation."
-    r ""
+    r "There is a cyclical nature to they who create, and are in turn birthed from their own creation."
 
 # TheBlackMonolithMage1_e6363df7 (line 76788)
 translate ru TheBlackMonolithMage1_e6363df7:
     # r "And like all craftsmen, they pour their own selves into their works."
-    r ""
+    r "And like all craftsmen, they pour their own selves into their works."
 
 # TheBlackMonolithMage1_be3b1551 (line 76789)
 translate ru TheBlackMonolithMage1_be3b1551:
@@ -811,47 +811,47 @@ translate ru TheBlackMonolithMage1_be3b1551:
 # TheBlackMonolithMage1_5fedbcc7 (line 76790)
 translate ru TheBlackMonolithMage1_5fedbcc7:
     # r "You imagine your world to be the way all worlds are, but this is not true."
-    r ""
+    r "You imagine your world to be the way all worlds are, but this is not true."
 
 # TheBlackMonolithMage1_45cbb2e2 (line 76791)
 translate ru TheBlackMonolithMage1_45cbb2e2:
     # r "In my world, there were not many Gods, but only three. They were called the Three Sisters."
-    r ""
+    r "In my world, there were not many Gods, but only three. They were called the Three Sisters."
 
 # TheBlackMonolithMage1_d17df0ec (line 76792)
 translate ru TheBlackMonolithMage1_d17df0ec:
     # r "Their divine mandate was one of growth and flourishing."
-    r ""
+    r "Their divine mandate was one of growth and flourishing."
 
 # TheBlackMonolithMage1_49bfa122 (line 76793)
 translate ru TheBlackMonolithMage1_49bfa122:
     # r "True immortality in your world is rare, a gift the Gods jealously guard for themselves..."
-    r ""
+    r "True immortality in your world is rare, a gift the Gods jealously guard for themselves..."
 
 # TheBlackMonolithMage1_4758d23b (line 76794)
 translate ru TheBlackMonolithMage1_4758d23b:
     # r "But in my world, it was abundant. The Three Sisters gave it freely to all who desired it."
-    r ""
+    r "But in my world, it was abundant. The Three Sisters gave it freely to all who desired it."
 
 # TheBlackMonolithMage1_6f992954 (line 76795)
 translate ru TheBlackMonolithMage1_6f992954:
     # r "There was no want. No famine. No disease. No age."
-    r ""
+    r "There was no want. No famine. No disease. No age."
 
 # TheBlackMonolithMage1_31637d94 (line 76796)
 translate ru TheBlackMonolithMage1_31637d94:
     # r "All lived for as long as they wished, free to pursue their own desires."
-    r ""
+    r "All lived for as long as they wished, free to pursue their own desires."
 
 # TheBlackMonolithMage1_2a26aeb8 (line 76797)
 translate ru TheBlackMonolithMage1_2a26aeb8:
     # r "Only when one was tired of life or had fulfilled all ambitions, did they freely go to the House of Dying."
-    r ""
+    r "Only when one was tired of life or had fulfilled all ambitions, did they freely go to the House of Dying."
 
 # TheBlackMonolithMage1_46fff8e0 (line 76798)
 translate ru TheBlackMonolithMage1_46fff8e0:
     # r "There, the Three Sisters held court, and held sway over life and death."
-    r ""
+    r "There, the Three Sisters held court, and held sway over life and death."
 
 # TheBlackMonolithMage1_4621cbc1 (line 76799)
 translate ru TheBlackMonolithMage1_4621cbc1:
@@ -861,27 +861,27 @@ translate ru TheBlackMonolithMage1_4621cbc1:
 # TheBlackMonolithMage1_893b02cc (line 76800)
 translate ru TheBlackMonolithMage1_893b02cc:
     # s "It sounds like a paradise...how can such a thing even be?"
-    s ""
+    s "It sounds like a paradise...how can such a thing even be?"
 
 # TheBlackMonolithMage1_79227eef (line 76801)
 translate ru TheBlackMonolithMage1_79227eef:
     # r "Because the Gods make the world in the image that they are themselves. The Three Sisters desired only to see the growth of their garden."
-    r ""
+    r "Because the Gods make the world in the image that they are themselves. The Three Sisters desired only to see the growth of their garden."
 
 # TheBlackMonolithMage1_2edaff7c (line 76802)
 translate ru TheBlackMonolithMage1_2edaff7c:
     # r "Your Gods are a vast Pantheon, forever squabling among one another like children. Envious. Greedy."
-    r ""
+    r "Your Gods are a vast Pantheon, forever squabling among one another like children. Envious. Greedy."
 
 # TheBlackMonolithMage1_f1a0b4d9 (line 76803)
 translate ru TheBlackMonolithMage1_f1a0b4d9:
     # r "The Pantheon of your Gods is a hierarchy of power. Those who sit at the top, and the many who sit at the bottom."
-    r ""
+    r "The Pantheon of your Gods is a hierarchy of power. Those who sit at the top, and the many who sit at the bottom."
 
 # TheBlackMonolithMage1_9b1a5ea9 (line 76804)
 translate ru TheBlackMonolithMage1_9b1a5ea9:
     # r "And just like your Gods, your own world is made in their image."
-    r ""
+    r "And just like your Gods, your own world is made in their image."
 
 # TheBlackMonolithMage1_fda35fc8 (line 76805)
 translate ru TheBlackMonolithMage1_fda35fc8:
@@ -891,17 +891,17 @@ translate ru TheBlackMonolithMage1_fda35fc8:
 # TheBlackMonolithMage1_7a1444ca (line 76806)
 translate ru TheBlackMonolithMage1_7a1444ca:
     # r "The Empress reached out to my world for its abundance, and she imagined the Sisters would have gladly given her the everlasting life she desired."
-    r ""
+    r "The Empress reached out to my world for its abundance, and she imagined the Sisters would have gladly given her the everlasting life she desired."
 
 # TheBlackMonolithMage1_8c22a2f3 (line 76807)
 translate ru TheBlackMonolithMage1_8c22a2f3:
     # r "But as you know, the nature of reality cannot tolerate the conjoining of worlds."
-    r ""
+    r "But as you know, the nature of reality cannot tolerate the conjoining of worlds."
 
 # TheBlackMonolithMage1_7f191f6a (line 76808)
 translate ru TheBlackMonolithMage1_7f191f6a:
     # r "My world as subsumed into yours, trapped beneath it."
-    r ""
+    r "My world as subsumed into yours, trapped beneath it."
 
 # TheBlackMonolithMage1_c73ea499 (line 76809)
 translate ru TheBlackMonolithMage1_c73ea499:
@@ -911,7 +911,7 @@ translate ru TheBlackMonolithMage1_c73ea499:
 # TheBlackMonolithMage1_d34999cb (line 76810)
 translate ru TheBlackMonolithMage1_d34999cb:
     # s "And then your race invaded our world."
-    s ""
+    s "And then your race invaded our world."
 
 # TheBlackMonolithMage1_43e22058 (line 76811)
 translate ru TheBlackMonolithMage1_43e22058:
@@ -926,37 +926,37 @@ translate ru TheBlackMonolithMage1_a4b84bca:
 # TheBlackMonolithMage1_2fe64d25 (line 76813)
 translate ru TheBlackMonolithMage1_2fe64d25:
     # r "Invade..."
-    r ""
+    r "Invade..."
 
 # TheBlackMonolithMage1_1bb09564 (line 76814)
 translate ru TheBlackMonolithMage1_1bb09564:
     # r "Wish that your kind had never drawn us in to begin with. We would gladly have left you to yourself."
-    r ""
+    r "Wish that your kind had never drawn us in to begin with. We would gladly have left you to yourself."
 
 # TheBlackMonolithMage1_62ee5834 (line 76815)
 translate ru TheBlackMonolithMage1_62ee5834:
     # r "But once we were trapped, there was nowhere to go."
-    r ""
+    r "But once we were trapped, there was nowhere to go."
 
 # TheBlackMonolithMage1_c05a8511 (line 76816)
 translate ru TheBlackMonolithMage1_c05a8511:
     # r "Your world was forever expanding, reasserting itself. Meanwhile, ours collapsed and was crushed beneath yours."
-    r ""
+    r "Your world was forever expanding, reasserting itself. Meanwhile, ours collapsed and was crushed beneath yours."
 
 # TheBlackMonolithMage1_8fbed2e0 (line 76817)
 translate ru TheBlackMonolithMage1_8fbed2e0:
     # r "Growing. Swelling. Expanding."
-    r ""
+    r "Growing. Swelling. Expanding."
 
 # TheBlackMonolithMage1_3fdef1db (line 76818)
 translate ru TheBlackMonolithMage1_3fdef1db:
     # r "Forever and ever, on and on."
-    r ""
+    r "Forever and ever, on and on."
 
 # TheBlackMonolithMage1_e6763720 (line 76819)
 translate ru TheBlackMonolithMage1_e6763720:
     # r "So our kind fled into your world, for what else could we do?"
-    r ""
+    r "So our kind fled into your world, for what else could we do?"
 
 # TheBlackMonolithMage1_36efefb5 (line 76820)
 translate ru TheBlackMonolithMage1_36efefb5:

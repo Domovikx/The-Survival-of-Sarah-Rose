@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: HyralGoblin
-# Total blocks: 50
+# Total blocks: 48
 
 # HyralGoblin_a16b5c34 (line 35730)
 translate ru HyralGoblin_a16b5c34:
@@ -16,7 +16,7 @@ translate ru HyralGoblin_a109ff07:
 # HyralGoblin_5dd8a36e (line 35732)
 translate ru HyralGoblin_5dd8a36e:
     # s "If you help me escape, I'll promise I'll make sure that the humans in the town won't hurt you."
-    s ""
+    s "If you help me escape, I'll promise I'll make sure that the humans in the town won't hurt you."
 
 # HyralGoblin_f6448232 (line 35733)
 translate ru HyralGoblin_f6448232:
@@ -31,7 +31,7 @@ translate ru HyralGoblin_27d3a90a:
 # HyralGoblin_6edd8a45 (line 35735)
 translate ru HyralGoblin_6edd8a45:
     # s "What is your name?"
-    s ""
+    s "What is your name?"
 
 # HyralGoblin_1539992f (line 35736)
 translate ru HyralGoblin_1539992f:
@@ -41,12 +41,12 @@ translate ru HyralGoblin_1539992f:
 # HyralGoblin_a5fb874f (line 35737)
 translate ru HyralGoblin_a5fb874f:
     # s "Sarah."
-    s ""
+    s "Sarah."
 
 # HyralGoblin_7ceb41f7 (line 35738)
 translate ru HyralGoblin_7ceb41f7:
     # s "Now...can you get me out of here?"
-    s ""
+    s "Now...can you get me out of here?"
 
 # HyralGoblin_4c764e44 (line 35739)
 translate ru HyralGoblin_4c764e44:
@@ -66,7 +66,7 @@ translate ru HyralGoblin_f3c2a5ea:
 # HyralGoblin_75ff6303 (line 35742)
 translate ru HyralGoblin_75ff6303:
     # s "When can we escape?"
-    s ""
+    s "When can we escape?"
 
 # HyralGoblin_08b05631 (line 35743)
 translate ru HyralGoblin_08b05631:
@@ -86,7 +86,7 @@ translate ru HyralGoblin_52f09fa3:
 # HyralGoblin_0efc6fd9 (line 35746)
 translate ru HyralGoblin_0efc6fd9:
     # s "Okay...I'll wait."
-    s ""
+    s "Okay...I'll wait."
 
 # HyralGoblin_10a72d85 (line 35747)
 translate ru HyralGoblin_10a72d85:
@@ -146,7 +146,7 @@ translate ru HyralGoblin_4fd72437:
 # HyralGoblin_56c0b334 (line 35768)
 translate ru HyralGoblin_56c0b334:
     # s "Raza! Are we ready to go?"
-    s ""
+    s "Raza! Are we ready to go?"
 
 # HyralGoblin_55979b4b (line 35769)
 translate ru HyralGoblin_55979b4b:
@@ -181,7 +181,7 @@ translate ru HyralGoblin_9352854c:
 # HyralGoblin_43e5ee30 (line 35775)
 translate ru HyralGoblin_43e5ee30:
     # s "How are we going to break this lock?"
-    s ""
+    s "How are we going to break this lock?"
 
 # HyralGoblin_156d0a99 (line 35776)
 translate ru HyralGoblin_156d0a99:
@@ -201,7 +201,7 @@ translate ru HyralGoblin_882eee52:
 # HyralGoblin_f0184958 (line 35779)
 translate ru HyralGoblin_f0184958:
     # s "What do you mean? We have to leave tonight, right?"
-    s ""
+    s "What do you mean? We have to leave tonight, right?"
 
 # HyralGoblin_7f3c3944 (line 35780)
 translate ru HyralGoblin_7f3c3944:
@@ -226,7 +226,7 @@ translate ru HyralGoblin_657795d5:
 # HyralGoblin_79d23d2a (line 35784)
 translate ru HyralGoblin_79d23d2a:
     # s "What...what are you doing?!"
-    s ""
+    s "What...what are you doing?!"
 
 # HyralGoblin_14047eeb (line 35785)
 translate ru HyralGoblin_14047eeb:
@@ -242,14 +242,4 @@ translate ru HyralGoblin_c47965dd:
 translate ru HyralGoblin_b7e07214:
     # "The creature poked its member through the bars, an impressive size given the creature's stature."
     ""
-
-# HyralGoblin_6573f600 (line 35791)
-translate ru HyralGoblin_6573f600:
-    # "Give into Raza's demand"
-    "Give into Raza's demand" ""
-
-# HyralGoblin_0117d351 (line 35793)
-translate ru HyralGoblin_0117d351:
-    # "Scold him"
-    "Scold him" ""
 

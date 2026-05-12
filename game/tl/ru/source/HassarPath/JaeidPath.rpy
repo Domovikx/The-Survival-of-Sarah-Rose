@@ -11,7 +11,7 @@ translate ru JaeidPath_1bb59330:
 # JaeidPath_e5505e7d (line 20322)
 translate ru JaeidPath_e5505e7d:
     # s "What was that?"
-    s ""
+    s "What was that?"
 
 # JaeidPath_68489b6d (line 20323)
 translate ru JaeidPath_68489b6d:
@@ -26,7 +26,7 @@ translate ru JaeidPath_befc93f2:
 # JaeidPath_49fd4ef1 (line 20325)
 translate ru JaeidPath_49fd4ef1:
     # s "Is that what this was all about?"
-    s ""
+    s "Is that what this was all about?"
 
 # JaeidPath_07e6d79d (line 20326)
 translate ru JaeidPath_07e6d79d:
@@ -41,7 +41,7 @@ translate ru JaeidPath_3db43863:
 # JaeidPath_de008604 (line 20328)
 translate ru JaeidPath_de008604:
     # s "You just wanted to claim me?"
-    s ""
+    s "You just wanted to claim me?"
 
 # JaeidPath_fb26bbf6 (line 20329)
 translate ru JaeidPath_fb26bbf6:
@@ -51,12 +51,12 @@ translate ru JaeidPath_fb26bbf6:
 # JaeidPath_9b6ed709 (line 20330)
 translate ru JaeidPath_9b6ed709:
     # s "You know, you could have taken me. Or let the soldiers take me. Whatever. It would have all been the same."
-    s ""
+    s "You know, you could have taken me. Or let the soldiers take me. Whatever. It would have all been the same."
 
 # JaeidPath_8ef05052 (line 20331)
 translate ru JaeidPath_8ef05052:
     # s "But tricking me as well? Why? You didn't need to do that. Just so you could make a fool out of me?"
-    s ""
+    s "But tricking me as well? Why? You didn't need to do that. Just so you could make a fool out of me?"
 
 # JaeidPath_433a9c08 (line 20332)
 translate ru JaeidPath_433a9c08:
@@ -66,7 +66,7 @@ translate ru JaeidPath_433a9c08:
 # JaeidPath_6c059786 (line 20333)
 translate ru JaeidPath_6c059786:
     # j "Are you done, Sarah?"
-    j ""
+    j "Are you done, Sarah?"
 
 # JaeidPath_86d15281 (line 20334)
 translate ru JaeidPath_86d15281:
@@ -76,7 +76,7 @@ translate ru JaeidPath_86d15281:
 # JaeidPath_7ae1e723 (line 20335)
 translate ru JaeidPath_7ae1e723:
     # s "What? Not happy your slave isn't servile enough?"
-    s ""
+    s "What? Not happy your slave isn't servile enough?"
 
 # JaeidPath_1a8e8696 (line 20336)
 translate ru JaeidPath_1a8e8696:
@@ -86,17 +86,17 @@ translate ru JaeidPath_1a8e8696:
 # JaeidPath_d10e32c4 (line 20337)
 translate ru JaeidPath_d10e32c4:
     # j "You're not my slave, Sarah."
-    j ""
+    j "You're not my slave, Sarah."
 
 # JaeidPath_72668435 (line 20338)
 translate ru JaeidPath_72668435:
     # s "I'm not?"
-    s ""
+    s "I'm not?"
 
 # JaeidPath_34ba81db (line 20339)
 translate ru JaeidPath_34ba81db:
     # s "Then what was all that just now?"
-    s ""
+    s "Then what was all that just now?"
 
 # JaeidPath_948724cc (line 20340)
 translate ru JaeidPath_948724cc:
@@ -106,27 +106,27 @@ translate ru JaeidPath_948724cc:
 # JaeidPath_dfb3a743 (line 20341)
 translate ru JaeidPath_dfb3a743:
     # j "Well...you are, officially, but I mean, between us, you're not my slave. I won't treat you as such, and I don't want to."
-    j ""
+    j "Well...you are, officially, but I mean, between us, you're not my slave. I won't treat you as such, and I don't want to."
 
 # JaeidPath_9c42fd85 (line 20342)
 translate ru JaeidPath_9c42fd85:
     # s "Then why did you do it? Why ask for me?"
-    s ""
+    s "Then why did you do it? Why ask for me?"
 
 # JaeidPath_0c754019 (line 20343)
 translate ru JaeidPath_0c754019:
     # j "I don't know..."
-    j ""
+    j "I don't know..."
 
 # JaeidPath_865798c0 (line 20344)
 translate ru JaeidPath_865798c0:
     # j "It just, it happened so fast. He said they would take you to the auction houses...and Sarah, I began to recall all these memories..."
-    j ""
+    j "It just, it happened so fast. He said they would take you to the auction houses...and Sarah, I began to recall all these memories..."
 
 # JaeidPath_e989aaac (line 20345)
 translate ru JaeidPath_e989aaac:
     # j "I began to remember when I was there, what it was like..."
-    j ""
+    j "I began to remember when I was there, what it was like..."
 
 # JaeidPath_22f90615 (line 20346)
 translate ru JaeidPath_22f90615:
@@ -136,12 +136,12 @@ translate ru JaeidPath_22f90615:
 # JaeidPath_9fe84920 (line 20347)
 translate ru JaeidPath_9fe84920:
     # j "I didn't want that for you. They break in new slaves, right there, in their backrooms. When I thought about you being there, it just seemed wrong."
-    j ""
+    j "I didn't want that for you. They break in new slaves, right there, in their backrooms. When I thought about you being there, it just seemed wrong."
 
 # JaeidPath_55c63662 (line 20348)
 translate ru JaeidPath_55c63662:
     # j "So I did the only thing I could think of. I claimed you before anyone else could."
-    j ""
+    j "So I did the only thing I could think of. I claimed you before anyone else could."
 
 # JaeidPath_cce0c881 (line 20349)
 translate ru JaeidPath_cce0c881:
@@ -151,7 +151,7 @@ translate ru JaeidPath_cce0c881:
 # JaeidPath_c89a496c (line 20350)
 translate ru JaeidPath_c89a496c:
     # j "Maybe that's not right either, but in the moment...I didn't know what else to do."
-    j ""
+    j "Maybe that's not right either, but in the moment...I didn't know what else to do."
 
 # JaeidPath_bbde2849 (line 20351)
 translate ru JaeidPath_bbde2849:
@@ -166,12 +166,12 @@ translate ru JaeidPath_ec3cef34:
 # JaeidPath_d2908e95 (line 20353)
 translate ru JaeidPath_d2908e95:
     # s "I'm sorry if I yelled at you, Jaeid."
-    s ""
+    s "I'm sorry if I yelled at you, Jaeid."
 
 # JaeidPath_0306ce47 (line 20354)
 translate ru JaeidPath_0306ce47:
     # s "You vowed to keep me safe and I'm seeing now that you were only keeping your word as best you could."
-    s ""
+    s "You vowed to keep me safe and I'm seeing now that you were only keeping your word as best you could."
 
 # JaeidPath_52a732d0 (line 20355)
 translate ru JaeidPath_52a732d0:
@@ -196,7 +196,7 @@ translate ru JaeidPath_ac77f63d:
 # JaeidPath_5a0dbef3 (line 20359)
 translate ru JaeidPath_5a0dbef3:
     # s "But...what now?"
-    s ""
+    s "But...what now?"
 
 # JaeidPath_0772e3bd (line 20360)
 translate ru JaeidPath_0772e3bd:
@@ -206,7 +206,7 @@ translate ru JaeidPath_0772e3bd:
 # JaeidPath_cc8c3420 (line 20361)
 translate ru JaeidPath_cc8c3420:
     # j "I...actually didn't think about that."
-    j ""
+    j "I...actually didn't think about that."
 
 # JaeidPath_ef8c531c (line 20362)
 translate ru JaeidPath_ef8c531c:
@@ -221,12 +221,12 @@ translate ru JaeidPath_845b4b48:
 # JaeidPath_ba207e15 (line 20364)
 translate ru JaeidPath_ba207e15:
     # s "We're a bit out in public here."
-    s ""
+    s "We're a bit out in public here."
 
 # JaeidPath_c5587597 (line 20365)
 translate ru JaeidPath_c5587597:
     # s "Do you have a place we can go? Somewhere where we're not being eyed by everyone?"
-    s ""
+    s "Do you have a place we can go? Somewhere where we're not being eyed by everyone?"
 
 # JaeidPath_6469594d (line 20366)
 translate ru JaeidPath_6469594d:
@@ -236,7 +236,7 @@ translate ru JaeidPath_6469594d:
 # JaeidPath_c869a729 (line 20367)
 translate ru JaeidPath_c869a729:
     # j "Yes, I do. Come, I'll take you there."
-    j ""
+    j "Yes, I do. Come, I'll take you there."
 
 # JaeidPath_7ae1796f (line 20368)
 translate ru JaeidPath_7ae1796f:

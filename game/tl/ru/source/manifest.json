@@ -1,5 +1,5 @@
 {
-  "extracted_at": "2026-05-11T21:07:12.268346",
+  "extracted_at": "2026-05-12T07:15:19.393594",
   "arcs": [
     {
       "name": "AlfredArc",
@@ -7,7 +7,7 @@
         {
           "name": "CampSlavePath",
           "file": "AlfredArc\\CampSlavePath.rpy",
-          "blocks": 26
+          "blocks": 24
         },
         {
           "name": "CampSlavePathOldSoldier",
@@ -17,7 +17,7 @@
         {
           "name": "CampSlavePathOldSoldier2",
           "file": "AlfredArc\\CampSlavePathOldSoldier2.rpy",
-          "blocks": 156
+          "blocks": 152
         },
         {
           "name": "CampSlavePathOldSoldier3",
@@ -42,7 +42,7 @@
         {
           "name": "MariusPath",
           "file": "AlfredArc\\MariusPath.rpy",
-          "blocks": 521
+          "blocks": 519
         },
         {
           "name": "Sakar1",
@@ -62,17 +62,17 @@
         {
           "name": "RazaphelQuestionsMage",
           "file": "BlackMonolith\\RazaphelQuestionsMage.rpy",
-          "blocks": 162
+          "blocks": 153
         },
         {
           "name": "RazaphelQuestionsWarrior",
           "file": "BlackMonolith\\RazaphelQuestionsWarrior.rpy",
-          "blocks": 117
+          "blocks": 114
         },
         {
           "name": "TheBlackMonolithMage10",
           "file": "BlackMonolith\\TheBlackMonolithMage10.rpy",
-          "blocks": 17
+          "blocks": 9
         },
         {
           "name": "TheBlackMonolithMage11",
@@ -82,12 +82,12 @@
         {
           "name": "TheBlackMonolithMage2",
           "file": "BlackMonolith\\TheBlackMonolithMage2.rpy",
-          "blocks": 5
+          "blocks": 3
         },
         {
           "name": "TheBlackMonolithMage3",
           "file": "BlackMonolith\\TheBlackMonolithMage3.rpy",
-          "blocks": 116
+          "blocks": 113
         },
         {
           "name": "TheBlackMonolithMage4",
@@ -95,24 +95,14 @@
           "blocks": 6
         },
         {
-          "name": "TheBlackMonolithMage5",
-          "file": "BlackMonolith\\TheBlackMonolithMage5.rpy",
-          "blocks": 4
-        },
-        {
           "name": "TheBlackMonolithMage6",
           "file": "BlackMonolith\\TheBlackMonolithMage6.rpy",
           "blocks": 20
         },
         {
-          "name": "TheBlackMonolithMage7",
-          "file": "BlackMonolith\\TheBlackMonolithMage7.rpy",
-          "blocks": 2
-        },
-        {
           "name": "TheBlackMonolithWarrior1",
           "file": "BlackMonolith\\TheBlackMonolithWarrior1.rpy",
-          "blocks": 165
+          "blocks": 161
         },
         {
           "name": "TheBlackMonolithWarrior1SleepWithSamayra",
@@ -122,12 +112,12 @@
         {
           "name": "TheBlackMonolithWarrior2",
           "file": "BlackMonolith\\TheBlackMonolithWarrior2.rpy",
-          "blocks": 628
+          "blocks": 620
         },
         {
           "name": "TheBlackMonolithWarrior3",
           "file": "BlackMonolith\\TheBlackMonolithWarrior3.rpy",
-          "blocks": 142
+          "blocks": 136
         },
         {
           "name": "TheHollowWorldMage8",
@@ -152,7 +142,7 @@
         {
           "name": "DemonArc2",
           "file": "DemonArc\\DemonArc2.rpy",
-          "blocks": 364
+          "blocks": 362
         },
         {
           "name": "MagePathCitadel1",
@@ -167,7 +157,7 @@
         {
           "name": "ArrivingInAlGahaem",
           "file": "HassarPath\\ArrivingInAlGahaem.rpy",
-          "blocks": 87
+          "blocks": 85
         },
         {
           "name": "HassarPath",
@@ -177,22 +167,22 @@
         {
           "name": "HassarPath2",
           "file": "HassarPath\\HassarPath2.rpy",
-          "blocks": 115
+          "blocks": 109
         },
         {
           "name": "HassarPath3",
           "file": "HassarPath\\HassarPath3.rpy",
-          "blocks": 192
+          "blocks": 188
         },
         {
           "name": "HassarPath4",
           "file": "HassarPath\\HassarPath4.rpy",
-          "blocks": 102
+          "blocks": 100
         },
         {
           "name": "HassarPath5",
           "file": "HassarPath\\HassarPath5.rpy",
-          "blocks": 165
+          "blocks": 159
         },
         {
           "name": "JaeidPath",
@@ -207,7 +197,7 @@
         {
           "name": "JaeidPath3",
           "file": "HassarPath\\JaeidPath3.rpy",
-          "blocks": 275
+          "blocks": 272
         },
         {
           "name": "JaeidPath4",
@@ -217,12 +207,12 @@
         {
           "name": "JaeidPath5",
           "file": "HassarPath\\JaeidPath5.rpy",
-          "blocks": 75
+          "blocks": 73
         },
         {
           "name": "JaeidPath6",
           "file": "HassarPath\\JaeidPath6.rpy",
-          "blocks": 459
+          "blocks": 451
         }
       ]
     },
@@ -232,7 +222,7 @@
         {
           "name": "MagePath12",
           "file": "HollowWorld\\MagePath12.rpy",
-          "blocks": 50
+          "blocks": 48
         },
         {
           "name": "TheHollowWorldMage1",
@@ -242,7 +232,7 @@
         {
           "name": "TheHollowWorldMage2",
           "file": "HollowWorld\\TheHollowWorldMage2.rpy",
-          "blocks": 85
+          "blocks": 83
         },
         {
           "name": "TheHollowWorldMage3",
@@ -252,22 +242,22 @@
         {
           "name": "TheHollowWorldMage4",
           "file": "HollowWorld\\TheHollowWorldMage4.rpy",
-          "blocks": 165
+          "blocks": 163
         },
         {
           "name": "TheHollowWorldMage5",
           "file": "HollowWorld\\TheHollowWorldMage5.rpy",
-          "blocks": 108
+          "blocks": 97
         },
         {
           "name": "TheHollowWorldMage6",
           "file": "HollowWorld\\TheHollowWorldMage6.rpy",
-          "blocks": 163
+          "blocks": 159
         },
         {
           "name": "TheHollowWorldMage7",
           "file": "HollowWorld\\TheHollowWorldMage7.rpy",
-          "blocks": 61
+          "blocks": 53
         },
         {
           "name": "TheHollowWorldWarrior1",
@@ -277,7 +267,7 @@
         {
           "name": "TheHollowWorldWarrior2",
           "file": "HollowWorld\\TheHollowWorldWarrior2.rpy",
-          "blocks": 140
+          "blocks": 136
         },
         {
           "name": "TheHollowWorldWarrior3",
@@ -287,7 +277,7 @@
         {
           "name": "TheHollowWorldWarrior4",
           "file": "HollowWorld\\TheHollowWorldWarrior4.rpy",
-          "blocks": 186
+          "blocks": 180
         },
         {
           "name": "TheHollowWorldWarrior5",
@@ -297,7 +287,7 @@
         {
           "name": "WarriorPath5",
           "file": "HollowWorld\\WarriorPath5.rpy",
-          "blocks": 339
+          "blocks": 335
         }
       ]
     },
@@ -307,7 +297,7 @@
         {
           "name": "HyralGoblin",
           "file": "HyralArc\\HyralGoblin.rpy",
-          "blocks": 50
+          "blocks": 48
         },
         {
           "name": "HyralGoblin2",
@@ -317,17 +307,17 @@
         {
           "name": "HyralOrc",
           "file": "HyralArc\\HyralOrc.rpy",
-          "blocks": 425
+          "blocks": 423
         },
         {
           "name": "HyralTown",
           "file": "HyralArc\\HyralTown.rpy",
-          "blocks": 156
+          "blocks": 154
         },
         {
           "name": "SarahAndNick1",
           "file": "HyralArc\\SarahAndNick1.rpy",
-          "blocks": 117
+          "blocks": 115
         }
       ]
     },
@@ -342,7 +332,7 @@
         {
           "name": "LifeInRahayal2",
           "file": "LifeInRahayal\\LifeInRahayal2.rpy",
-          "blocks": 100
+          "blocks": 98
         },
         {
           "name": "SailorPath10",
@@ -352,12 +342,12 @@
         {
           "name": "SailorPath3",
           "file": "LifeInRahayal\\SailorPath3.rpy",
-          "blocks": 156
+          "blocks": 152
         },
         {
           "name": "ServantOfGilead1",
           "file": "LifeInRahayal\\ServantOfGilead1.rpy",
-          "blocks": 589
+          "blocks": 577
         },
         {
           "name": "SpyOnCaliban1",
@@ -387,17 +377,17 @@
         {
           "name": "MageInTheRuins1",
           "file": "MagePath\\MageInTheRuins1.rpy",
-          "blocks": 92
+          "blocks": 90
         },
         {
           "name": "MageInTheRuins2",
           "file": "MagePath\\MageInTheRuins2.rpy",
-          "blocks": 806
+          "blocks": 798
         },
         {
           "name": "MageInTheRuins3",
           "file": "MagePath\\MageInTheRuins3.rpy",
-          "blocks": 174
+          "blocks": 167
         },
         {
           "name": "MageInTheRuinsOrc1",
@@ -427,17 +417,17 @@
         {
           "name": "MagePath11",
           "file": "MagePath\\MagePath11.rpy",
-          "blocks": 137
+          "blocks": 135
         },
         {
           "name": "MagePath2",
           "file": "MagePath\\MagePath2.rpy",
-          "blocks": 156
+          "blocks": 152
         },
         {
           "name": "MagePath3",
           "file": "MagePath\\MagePath3.rpy",
-          "blocks": 152
+          "blocks": 148
         },
         {
           "name": "MagePath4",
@@ -447,7 +437,7 @@
         {
           "name": "MagePath5",
           "file": "MagePath\\MagePath5.rpy",
-          "blocks": 155
+          "blocks": 153
         },
         {
           "name": "MagePath6",
@@ -457,17 +447,17 @@
         {
           "name": "MagePath7",
           "file": "MagePath\\MagePath7.rpy",
-          "blocks": 162
+          "blocks": 160
         },
         {
           "name": "MagePath8",
           "file": "MagePath\\MagePath8.rpy",
-          "blocks": 169
+          "blocks": 165
         },
         {
           "name": "MagePath9",
           "file": "MagePath\\MagePath9.rpy",
-          "blocks": 118
+          "blocks": 116
         },
         {
           "name": "TheBlackMonolithMage12",
@@ -492,22 +482,22 @@
         {
           "name": "CampSlavePathOldSoldier4",
           "file": "Other\\CampSlavePathOldSoldier4.rpy",
-          "blocks": 22
+          "blocks": 20
         },
         {
           "name": "CouncilMeeting2",
           "file": "Other\\CouncilMeeting2.rpy",
-          "blocks": 147
+          "blocks": 143
         },
         {
           "name": "DecisionsOutAtSea",
           "file": "Other\\DecisionsOutAtSea.rpy",
-          "blocks": 46
+          "blocks": 34
         },
         {
           "name": "DemonArc3",
           "file": "Other\\DemonArc3.rpy",
-          "blocks": 354
+          "blocks": 352
         },
         {
           "name": "Demonarc5",
@@ -517,32 +507,32 @@
         {
           "name": "FallOfLethram2",
           "file": "Other\\FallOfLethram2.rpy",
-          "blocks": 477
+          "blocks": 471
         },
         {
           "name": "FirstNightInTent",
           "file": "Other\\FirstNightInTent.rpy",
-          "blocks": 12
+          "blocks": 10
         },
         {
           "name": "GallowCreek1",
           "file": "Other\\GallowCreek1.rpy",
-          "blocks": 517
+          "blocks": 509
         },
         {
           "name": "HuntingTheBeast1",
           "file": "Other\\HuntingTheBeast1.rpy",
-          "blocks": 272
+          "blocks": 270
         },
         {
           "name": "HuntingTheBeast2",
           "file": "Other\\HuntingTheBeast2.rpy",
-          "blocks": 63
+          "blocks": 59
         },
         {
           "name": "HuntingTheBeast3",
           "file": "Other\\HuntingTheBeast3.rpy",
-          "blocks": 165
+          "blocks": 163
         },
         {
           "name": "JustBeforeBattleOfRahayal",
@@ -562,17 +552,17 @@
         {
           "name": "NeitherPath2",
           "file": "Other\\NeitherPath2.rpy",
-          "blocks": 76
+          "blocks": 73
         },
         {
           "name": "NeitherPath3",
           "file": "Other\\NeitherPath3.rpy",
-          "blocks": 17
+          "blocks": 12
         },
         {
           "name": "NeitherPath4",
           "file": "Other\\NeitherPath4.rpy",
-          "blocks": 132
+          "blocks": 126
         },
         {
           "name": "NeitherPath5",
@@ -582,17 +572,17 @@
         {
           "name": "NeitherPath6",
           "file": "Other\\NeitherPath6.rpy",
-          "blocks": 180
+          "blocks": 176
         },
         {
           "name": "OutsideAndAlone3",
           "file": "Other\\OutsideAndAlone3.rpy",
-          "blocks": 32
+          "blocks": 29
         },
         {
           "name": "PostRahayalApartmentNight",
           "file": "Other\\PostRahayalApartmentNight.rpy",
-          "blocks": 265
+          "blocks": 262
         },
         {
           "name": "SarahAndThomasSpeak",
@@ -607,12 +597,12 @@
         {
           "name": "ServantOfGilead2",
           "file": "Other\\ServantOfGilead2.rpy",
-          "blocks": 525
+          "blocks": 519
         },
         {
           "name": "TheBattleForTheCapital",
           "file": "Other\\TheBattleForTheCapital.rpy",
-          "blocks": 16
+          "blocks": 5
         },
         {
           "name": "TheBlackMonolithMage1",
@@ -627,12 +617,12 @@
         {
           "name": "TheBlackMonolithWarrior5",
           "file": "Other\\TheBlackMonolithWarrior5.rpy",
-          "blocks": 195
+          "blocks": 191
         },
         {
           "name": "TheBlackMonolithWarriorEpilogue",
           "file": "Other\\TheBlackMonolithWarriorEpilogue.rpy",
-          "blocks": 105
+          "blocks": 100
         },
         {
           "name": "TheExam",
@@ -642,7 +632,7 @@
         {
           "name": "TheHollowWorldWarrior6",
           "file": "Other\\TheHollowWorldWarrior6.rpy",
-          "blocks": 335
+          "blocks": 323
         },
         {
           "name": "TheOutsidePathBegins",
@@ -652,7 +642,7 @@
         {
           "name": "TheWarIsLost",
           "file": "Other\\TheWarIsLost.rpy",
-          "blocks": 17
+          "blocks": 9
         },
         {
           "name": "TheWarIsWon",
@@ -662,7 +652,7 @@
         {
           "name": "TrainingPathAtilla4",
           "file": "Other\\TrainingPathAtilla4.rpy",
-          "blocks": 121
+          "blocks": 119
         },
         {
           "name": "TrainingPathCaleb",
@@ -677,7 +667,7 @@
         {
           "name": "VargaPath",
           "file": "Other\\VargaPath.rpy",
-          "blocks": 14
+          "blocks": 12
         },
         {
           "name": "VargaPath10",
@@ -687,22 +677,17 @@
         {
           "name": "WanderingTheCamp",
           "file": "Other\\WanderingTheCamp.rpy",
-          "blocks": 85
+          "blocks": 83
         },
         {
           "name": "WarriorRahayal1",
           "file": "Other\\WarriorRahayal1.rpy",
-          "blocks": 208
+          "blocks": 206
         },
         {
           "name": "WarriorRahayal3",
           "file": "Other\\WarriorRahayal3.rpy",
-          "blocks": 303
-        },
-        {
-          "name": "WhoFightsVaelen",
-          "file": "Other\\WhoFightsVaelen.rpy",
-          "blocks": 4
+          "blocks": 300
         },
         {
           "name": "new_gallery",
@@ -717,7 +702,7 @@
         {
           "name": "postEscapeLethramShip",
           "file": "Other\\postEscapeLethramShip.rpy",
-          "blocks": 299
+          "blocks": 291
         },
         {
           "name": "prostitutealaric1",
@@ -742,12 +727,12 @@
         {
           "name": "OutsideAndAlone2",
           "file": "PrisonArc\\OutsideAndAlone2.rpy",
-          "blocks": 46
+          "blocks": 43
         },
         {
           "name": "PrisonPath1",
           "file": "PrisonArc\\PrisonPath1.rpy",
-          "blocks": 380
+          "blocks": 378
         },
         {
           "name": "PrisonPath2",
@@ -762,7 +747,7 @@
         {
           "name": "UnderworldPath2",
           "file": "PrisonArc\\UnderworldPath2.rpy",
-          "blocks": 233
+          "blocks": 229
         },
         {
           "name": "UnderworldPath3",
@@ -772,7 +757,7 @@
         {
           "name": "UnderworldPath4",
           "file": "PrisonArc\\UnderworldPath4.rpy",
-          "blocks": 116
+          "blocks": 112
         },
         {
           "name": "WarriorQueen7Capital",
@@ -792,12 +777,12 @@
         {
           "name": "OpeningSceneEvening",
           "file": "Prologue\\OpeningSceneEvening.rpy",
-          "blocks": 61
+          "blocks": 59
         },
         {
           "name": "OpeningSceneSequence2",
           "file": "Prologue\\OpeningSceneSequence2.rpy",
-          "blocks": 32
+          "blocks": 30
         },
         {
           "name": "start",
@@ -822,32 +807,32 @@
         {
           "name": "SarahLeavesLethram1",
           "file": "SailorArc\\SarahLeavesLethram1.rpy",
-          "blocks": 497
+          "blocks": 493
         },
         {
           "name": "TheOldRoad1",
           "file": "SailorArc\\TheOldRoad1.rpy",
-          "blocks": 287
+          "blocks": 281
         },
         {
           "name": "TheOldRoad2",
           "file": "SailorArc\\TheOldRoad2.rpy",
-          "blocks": 172
+          "blocks": 164
         },
         {
           "name": "TheOldRoad3",
           "file": "SailorArc\\TheOldRoad3.rpy",
-          "blocks": 104
+          "blocks": 98
         },
         {
           "name": "TheOldRoad4",
           "file": "SailorArc\\TheOldRoad4.rpy",
-          "blocks": 105
+          "blocks": 103
         },
         {
           "name": "TheOldRoad5",
           "file": "SailorArc\\TheOldRoad5.rpy",
-          "blocks": 80
+          "blocks": 78
         }
       ]
     },
@@ -882,17 +867,17 @@
         {
           "name": "SailorPath5",
           "file": "SailorPath\\SailorPath5.rpy",
-          "blocks": 386
+          "blocks": 384
         },
         {
           "name": "SailorPath6",
           "file": "SailorPath\\SailorPath6.rpy",
-          "blocks": 397
+          "blocks": 391
         },
         {
           "name": "SailorPath7",
           "file": "SailorPath\\SailorPath7.rpy",
-          "blocks": 101
+          "blocks": 97
         },
         {
           "name": "SailorPath8",
@@ -903,11 +888,6 @@
           "name": "SailorPath9",
           "file": "SailorPath\\SailorPath9.rpy",
           "blocks": 334
-        },
-        {
-          "name": "SarahBelmontFollowup",
-          "file": "SailorPath\\SarahBelmontFollowup.rpy",
-          "blocks": 6
         }
       ]
     },
@@ -917,7 +897,7 @@
         {
           "name": "TheOldRoad6",
           "file": "SakarPath\\TheOldRoad6.rpy",
-          "blocks": 93
+          "blocks": 92
         }
       ]
     },
@@ -927,12 +907,12 @@
         {
           "name": "ChooseThePath",
           "file": "StoryBeginnings\\ChooseThePath.rpy",
-          "blocks": 34
+          "blocks": 32
         },
         {
           "name": "CoronationDay",
           "file": "StoryBeginnings\\CoronationDay.rpy",
-          "blocks": 41
+          "blocks": 39
         },
         {
           "name": "DayOfTheFuneral",
@@ -957,7 +937,7 @@
         {
           "name": "SarahsBedroomAfterFuneral",
           "file": "StoryBeginnings\\SarahsBedroomAfterFuneral.rpy",
-          "blocks": 47
+          "blocks": 45
         },
         {
           "name": "SecondPartOfFuneral",
@@ -972,7 +952,7 @@
         {
           "name": "TheMorningAfterKate",
           "file": "StoryBeginnings\\TheMorningAfterKate.rpy",
-          "blocks": 156
+          "blocks": 150
         }
       ]
     },
@@ -982,7 +962,7 @@
         {
           "name": "ChoosingAMentor",
           "file": "Training\\ChoosingAMentor.rpy",
-          "blocks": 20
+          "blocks": 17
         },
         {
           "name": "GeneralPathBegins",
@@ -997,7 +977,7 @@
         {
           "name": "SarahMeetsVaelen",
           "file": "Training\\SarahMeetsVaelen.rpy",
-          "blocks": 71
+          "blocks": 69
         },
         {
           "name": "TrainingPathAtilla",
@@ -1017,7 +997,7 @@
         {
           "name": "TrainingPathCaleb2",
           "file": "Training\\TrainingPathCaleb2.rpy",
-          "blocks": 72
+          "blocks": 68
         },
         {
           "name": "TrainingPathCaleb3",
@@ -1050,24 +1030,19 @@
           "blocks": 14
         },
         {
-          "name": "UnionDecisionLoop",
-          "file": "UnionKingdom\\UnionDecisionLoop.rpy",
-          "blocks": 2
-        },
-        {
           "name": "UnionKingdom1",
           "file": "UnionKingdom\\UnionKingdom1.rpy",
-          "blocks": 90
+          "blocks": 86
         },
         {
           "name": "UnionKingdom10",
           "file": "UnionKingdom\\UnionKingdom10.rpy",
-          "blocks": 19
+          "blocks": 17
         },
         {
           "name": "UnionKingdom11",
           "file": "UnionKingdom\\UnionKingdom11.rpy",
-          "blocks": 69
+          "blocks": 66
         },
         {
           "name": "UnionKingdom12CouncilRule",
@@ -1077,12 +1052,12 @@
         {
           "name": "UnionKingdom12SupportAnother",
           "file": "UnionKingdom\\UnionKingdom12SupportAnother.rpy",
-          "blocks": 38
+          "blocks": 35
         },
         {
           "name": "UnionKingdom2",
           "file": "UnionKingdom\\UnionKingdom2.rpy",
-          "blocks": 149
+          "blocks": 146
         },
         {
           "name": "UnionKingdom3",
@@ -1092,7 +1067,7 @@
         {
           "name": "UnionKingdom4",
           "file": "UnionKingdom\\UnionKingdom4.rpy",
-          "blocks": 56
+          "blocks": 54
         },
         {
           "name": "UnionKingdom5",
@@ -1112,7 +1087,7 @@
         {
           "name": "UnionKingdom8",
           "file": "UnionKingdom\\UnionKingdom8.rpy",
-          "blocks": 232
+          "blocks": 230
         },
         {
           "name": "UnionKingdom9",
@@ -1122,17 +1097,17 @@
         {
           "name": "UnionLoop",
           "file": "UnionKingdom\\UnionLoop.rpy",
-          "blocks": 13
+          "blocks": 4
         },
         {
           "name": "UnionLoop2",
           "file": "UnionKingdom\\UnionLoop2.rpy",
-          "blocks": 13
+          "blocks": 4
         },
         {
           "name": "UnionLoop3",
           "file": "UnionKingdom\\UnionLoop3.rpy",
-          "blocks": 9
+          "blocks": 1
         }
       ]
     },
@@ -1142,7 +1117,7 @@
         {
           "name": "MarionOrVargaPath",
           "file": "VargaMarionPath\\MarionOrVargaPath.rpy",
-          "blocks": 12
+          "blocks": 11
         },
         {
           "name": "MarionPath",
@@ -1152,7 +1127,7 @@
         {
           "name": "MarionPath2",
           "file": "VargaMarionPath\\MarionPath2.rpy",
-          "blocks": 590
+          "blocks": 582
         },
         {
           "name": "MythranInvasion1",
@@ -1182,7 +1157,7 @@
         {
           "name": "VargaPath5",
           "file": "VargaMarionPath\\VargaPath5.rpy",
-          "blocks": 76
+          "blocks": 73
         },
         {
           "name": "VargaPath6",
@@ -1192,7 +1167,7 @@
         {
           "name": "VargaPath7",
           "file": "VargaMarionPath\\VargaPath7.rpy",
-          "blocks": 126
+          "blocks": 124
         },
         {
           "name": "VargaPath8",
@@ -1202,7 +1177,7 @@
         {
           "name": "VargaPath9",
           "file": "VargaMarionPath\\VargaPath9.rpy",
-          "blocks": 181
+          "blocks": 177
         }
       ]
     },
@@ -1212,12 +1187,12 @@
         {
           "name": "AThreatIsUttered",
           "file": "WarArc\\AThreatIsUttered.rpy",
-          "blocks": 103
+          "blocks": 101
         },
         {
           "name": "WarCouncil",
           "file": "WarArc\\WarCouncil.rpy",
-          "blocks": 94
+          "blocks": 92
         }
       ]
     },
@@ -1252,7 +1227,7 @@
         {
           "name": "WarriorPath2",
           "file": "WarriorPath\\WarriorPath2.rpy",
-          "blocks": 197
+          "blocks": 195
         },
         {
           "name": "WarriorPath3",
@@ -1262,7 +1237,7 @@
         {
           "name": "WarriorPath4",
           "file": "WarriorPath\\WarriorPath4.rpy",
-          "blocks": 185
+          "blocks": 171
         },
         {
           "name": "WarriorQueen1",
@@ -1272,32 +1247,27 @@
         {
           "name": "WarriorQueen2",
           "file": "WarriorPath\\WarriorQueen2.rpy",
-          "blocks": 43
+          "blocks": 39
         },
         {
           "name": "WarriorQueen3",
           "file": "WarriorPath\\WarriorQueen3.rpy",
-          "blocks": 328
-        },
-        {
-          "name": "WarriorQueen4ridgehaven",
-          "file": "WarriorPath\\WarriorQueen4ridgehaven.rpy",
-          "blocks": 2
+          "blocks": 326
         },
         {
           "name": "WarriorQueen5",
           "file": "WarriorPath\\WarriorQueen5.rpy",
-          "blocks": 64
+          "blocks": 62
         },
         {
           "name": "WarriorQueen6Calshure",
           "file": "WarriorPath\\WarriorQueen6Calshure.rpy",
-          "blocks": 91
+          "blocks": 81
         },
         {
           "name": "WarriorQueen6Hinterlands",
           "file": "WarriorPath\\WarriorQueen6Hinterlands.rpy",
-          "blocks": 191
+          "blocks": 184
         },
         {
           "name": "WarriorQueen7Calshure",
@@ -1312,12 +1282,14 @@
         {
           "name": "WarriorRahayal2",
           "file": "WarriorPath\\WarriorRahayal2.rpy",
-          "blocks": 433
+          "blocks": 428
         }
       ]
     }
   ],
-  "total_dialogue_blocks": 36909,
-  "total_ui_strings": 195,
-  "total_character_names": 68
+  "total_dialogue_blocks": 36371,
+  "total_ui_strings": 733,
+  "total_character_names": 68,
+  "total_menu_choices": 0,
+  "preserved_translations": 61013
 }

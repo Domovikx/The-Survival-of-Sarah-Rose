@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TheHollowWorldMage2
-# Total blocks: 85
+# Total blocks: 83
 
 # TheHollowWorldMage2_10debbff (line 73345)
 translate ru TheHollowWorldMage2_10debbff:
@@ -166,7 +166,7 @@ translate ru TheHollowWorldMage2_240b4120:
 # TheHollowWorldMage2_6bdfd562 (line 73379)
 translate ru TheHollowWorldMage2_6bdfd562:
     # r "You seem full of worry."
-    r ""
+    r "You seem full of worry."
 
 # TheHollowWorldMage2_075dfa6d (line 73380)
 translate ru TheHollowWorldMage2_075dfa6d:
@@ -176,12 +176,12 @@ translate ru TheHollowWorldMage2_075dfa6d:
 # TheHollowWorldMage2_942aad21 (line 73381)
 translate ru TheHollowWorldMage2_942aad21:
     # s "I have a lot to worry about."
-    s ""
+    s "I have a lot to worry about."
 
 # TheHollowWorldMage2_f91214b0 (line 73382)
 translate ru TheHollowWorldMage2_f91214b0:
     # r "I imagined you would have taken more favorably to your new freedom."
-    r ""
+    r "I imagined you would have taken more favorably to your new freedom."
 
 # TheHollowWorldMage2_7fd43cd7 (line 73383)
 translate ru TheHollowWorldMage2_7fd43cd7:
@@ -191,7 +191,7 @@ translate ru TheHollowWorldMage2_7fd43cd7:
 # TheHollowWorldMage2_71a32ff1 (line 73384)
 translate ru TheHollowWorldMage2_71a32ff1:
     # s "What we did to Xan..."
-    s ""
+    s "What we did to Xan..."
 
 # TheHollowWorldMage2_b1747fb8 (line 73387)
 translate ru TheHollowWorldMage2_b1747fb8:
@@ -201,12 +201,12 @@ translate ru TheHollowWorldMage2_b1747fb8:
 # TheHollowWorldMage2_e53fd84f (line 73388)
 translate ru TheHollowWorldMage2_e53fd84f:
     # r "Do not concern yourself with the fate of that mage."
-    r ""
+    r "Do not concern yourself with the fate of that mage."
 
 # TheHollowWorldMage2_67c63217 (line 73389)
 translate ru TheHollowWorldMage2_67c63217:
     # r "He received not a fraction of what was due to him, consider it mercy."
-    r ""
+    r "He received not a fraction of what was due to him, consider it mercy."
 
 # TheHollowWorldMage2_07675946 (line 73390)
 translate ru TheHollowWorldMage2_07675946:
@@ -216,7 +216,7 @@ translate ru TheHollowWorldMage2_07675946:
 # TheHollowWorldMage2_ed0083af (line 73391)
 translate ru TheHollowWorldMage2_ed0083af:
     # s "Mercy? We killed him."
-    s ""
+    s "Mercy? We killed him."
 
 # TheHollowWorldMage2_261f174d (line 73392)
 translate ru TheHollowWorldMage2_261f174d:
@@ -226,12 +226,12 @@ translate ru TheHollowWorldMage2_261f174d:
 # TheHollowWorldMage2_ae420dca (line 73393)
 translate ru TheHollowWorldMage2_ae420dca:
     # r "So, is that what we must do now, Sarah?"
-    r ""
+    r "So, is that what we must do now, Sarah?"
 
 # TheHollowWorldMage2_bc52f512 (line 73394)
 translate ru TheHollowWorldMage2_bc52f512:
     # r "Must we now perform the sad faces and the spilling of tears, so that we might imagine our conscience clean?"
-    r ""
+    r "Must we now perform the sad faces and the spilling of tears, so that we might imagine our conscience clean?"
 
 # TheHollowWorldMage2_f6c72fc7 (line 73395)
 translate ru TheHollowWorldMage2_f6c72fc7:
@@ -241,12 +241,12 @@ translate ru TheHollowWorldMage2_f6c72fc7:
 # TheHollowWorldMage2_391a47e2 (line 73396)
 translate ru TheHollowWorldMage2_391a47e2:
     # r "I will make no apologies for seeking to rid myself of his horrid presence."
-    r ""
+    r "I will make no apologies for seeking to rid myself of his horrid presence."
 
 # TheHollowWorldMage2_b09971ef (line 73397)
 translate ru TheHollowWorldMage2_b09971ef:
     # r "Nor should you make apologies for your part in securing your own freedom."
-    r ""
+    r "Nor should you make apologies for your part in securing your own freedom."
 
 # TheHollowWorldMage2_02fd37b6 (line 73398)
 translate ru TheHollowWorldMage2_02fd37b6:
@@ -256,7 +256,7 @@ translate ru TheHollowWorldMage2_02fd37b6:
 # TheHollowWorldMage2_b47f4e67 (line 73399)
 translate ru TheHollowWorldMage2_b47f4e67:
     # s "Let go of me, Razaphel."
-    s ""
+    s "Let go of me, Razaphel."
 
 # TheHollowWorldMage2_85ee5907 (line 73402)
 translate ru TheHollowWorldMage2_85ee5907:
@@ -266,27 +266,27 @@ translate ru TheHollowWorldMage2_85ee5907:
 # TheHollowWorldMage2_bd24db0e (line 73403)
 translate ru TheHollowWorldMage2_bd24db0e:
     # r "I imagine you might enjoy-"
-    r ""
+    r "I imagine you might enjoy-"
 
 # TheHollowWorldMage2_341d34d6 (line 73404)
 translate ru TheHollowWorldMage2_341d34d6:
     # s "You imagined wrong. I'm in no mood for anything, least of all that."
-    s ""
+    s "You imagined wrong. I'm in no mood for anything, least of all that."
 
 # TheHollowWorldMage2_739eb4c5 (line 73412)
 translate ru TheHollowWorldMage2_739eb4c5:
     # r "Go ahead, mourn that wicked man, your mentor..."
-    r ""
+    r "Go ahead, mourn that wicked man, your mentor..."
 
 # TheHollowWorldMage2_706ae504 (line 73413)
 translate ru TheHollowWorldMage2_706ae504:
     # r "But if you want, I shall tell you tales of what he did to me."
-    r ""
+    r "But if you want, I shall tell you tales of what he did to me."
 
 # TheHollowWorldMage2_7d1f2fed (line 73414)
 translate ru TheHollowWorldMage2_7d1f2fed:
     # r "His many tortures, seeking to draw out from me my secrets. I wonder, would you think of him the same if you knew?"
-    r ""
+    r "His many tortures, seeking to draw out from me my secrets. I wonder, would you think of him the same if you knew?"
 
 # TheHollowWorldMage2_e48184bd (line 73415)
 translate ru TheHollowWorldMage2_e48184bd:
@@ -296,12 +296,12 @@ translate ru TheHollowWorldMage2_e48184bd:
 # TheHollowWorldMage2_55d01f9d (line 73416)
 translate ru TheHollowWorldMage2_55d01f9d:
     # s "I don't have any illusions about him, but I do owe him for all he taught me."
-    s ""
+    s "I don't have any illusions about him, but I do owe him for all he taught me."
 
 # TheHollowWorldMage2_2ef738d6 (line 73417)
 translate ru TheHollowWorldMage2_2ef738d6:
     # s "Without him, I'd still be what I was...lost, powerless."
-    s ""
+    s "Without him, I'd still be what I was...lost, powerless."
 
 # TheHollowWorldMage2_7afb2667 (line 73418)
 translate ru TheHollowWorldMage2_7afb2667:
@@ -311,22 +311,12 @@ translate ru TheHollowWorldMage2_7afb2667:
 # TheHollowWorldMage2_0dc1576f (line 73419)
 translate ru TheHollowWorldMage2_0dc1576f:
     # r "Tell me, child of starlight..."
-    r ""
+    r "Tell me, child of starlight..."
 
 # TheHollowWorldMage2_9d09be76 (line 73420)
 translate ru TheHollowWorldMage2_9d09be76:
     # r "For what reason have you taken his blood on your hands? What did you hope to gain?"
-    r ""
-
-# TheHollowWorldMage2_3d31c548 (line 73424)
-translate ru TheHollowWorldMage2_3d31c548:
-    # "Power"
-    "Power" ""
-
-# TheHollowWorldMage2_e1c0d311 (line 73438)
-translate ru TheHollowWorldMage2_e1c0d311:
-    # "Freedom"
-    "Freedom" ""
+    r "For what reason have you taken his blood on your hands? What did you hope to gain?"
 
 # TheHollowWorldMage2_0bcf4b35 (line 73457)
 translate ru TheHollowWorldMage2_0bcf4b35:
@@ -336,12 +326,12 @@ translate ru TheHollowWorldMage2_0bcf4b35:
 # TheHollowWorldMage2_b31bf545 (line 73458)
 translate ru TheHollowWorldMage2_b31bf545:
     # s "Now what..."
-    s ""
+    s "Now what..."
 
 # TheHollowWorldMage2_904b5a44 (line 73459)
 translate ru TheHollowWorldMage2_904b5a44:
     # r "You want me to answer that for you?"
-    r ""
+    r "You want me to answer that for you?"
 
 # TheHollowWorldMage2_2024afe3 (line 73460)
 translate ru TheHollowWorldMage2_2024afe3:
@@ -351,17 +341,17 @@ translate ru TheHollowWorldMage2_2024afe3:
 # TheHollowWorldMage2_37a78a34 (line 73461)
 translate ru TheHollowWorldMage2_37a78a34:
     # s "I just...I need to understand what my place is now."
-    s ""
+    s "I just...I need to understand what my place is now."
 
 # TheHollowWorldMage2_4a0052f2 (line 73462)
 translate ru TheHollowWorldMage2_4a0052f2:
     # s "I freed myself from Xan but..."
-    s ""
+    s "I freed myself from Xan but..."
 
 # TheHollowWorldMage2_c76a3ee5 (line 73463)
 translate ru TheHollowWorldMage2_c76a3ee5:
     # r "You are free to do as you wish, but you fear that you do not yet know what that is..."
-    r ""
+    r "You are free to do as you wish, but you fear that you do not yet know what that is..."
 
 # TheHollowWorldMage2_b5c9ae39 (line 73464)
 translate ru TheHollowWorldMage2_b5c9ae39:
@@ -371,12 +361,12 @@ translate ru TheHollowWorldMage2_b5c9ae39:
 # TheHollowWorldMage2_d5ec4b5a (line 73465)
 translate ru TheHollowWorldMage2_d5ec4b5a:
     # s "I need to better understand my circumstances. My position."
-    s ""
+    s "I need to better understand my circumstances. My position."
 
 # TheHollowWorldMage2_81078144 (line 73466)
 translate ru TheHollowWorldMage2_81078144:
     # r "Should you wish council, I am available."
-    r ""
+    r "Should you wish council, I am available."
 
 # TheHollowWorldMage2_9cf78f68 (line 73467)
 translate ru TheHollowWorldMage2_9cf78f68:
@@ -396,7 +386,7 @@ translate ru TheHollowWorldMage2_0de4d289:
 # TheHollowWorldMage2_af22f992 (line 73470)
 translate ru TheHollowWorldMage2_af22f992:
     # s "Let me ponder it myself for a while."
-    s ""
+    s "Let me ponder it myself for a while."
 
 # TheHollowWorldMage2_a70d1a3c (line 73471)
 translate ru TheHollowWorldMage2_a70d1a3c:
@@ -406,7 +396,7 @@ translate ru TheHollowWorldMage2_a70d1a3c:
 # TheHollowWorldMage2_ba246b26 (line 73472)
 translate ru TheHollowWorldMage2_ba246b26:
     # r "Go, child, and enjoy your new found freedom."
-    r ""
+    r "Go, child, and enjoy your new found freedom."
 
 # TheHollowWorldMage2_e7b8361d (line 73473)
 translate ru TheHollowWorldMage2_e7b8361d:

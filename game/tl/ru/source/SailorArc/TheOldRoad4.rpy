@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TheOldRoad4
-# Total blocks: 105
+# Total blocks: 103
 
 # TheOldRoad4_b7814402 (line 64609)
 translate ru TheOldRoad4_b7814402:
@@ -121,22 +121,22 @@ translate ru TheOldRoad4_e8e1cd29:
 # TheOldRoad4_ee679ce4 (line 64665)
 translate ru TheOldRoad4_ee679ce4:
     # s "What is it?"
-    s ""
+    s "What is it?"
 
 # TheOldRoad4_b329b077 (line 64666)
 translate ru TheOldRoad4_b329b077:
     # sig "That ain't used to be there."
-    sig ""
+    sig "That ain't used to be there."
 
 # TheOldRoad4_5fbca97b (line 64667)
 translate ru TheOldRoad4_5fbca97b:
     # s "You mean the bridge?"
-    s ""
+    s "You mean the bridge?"
 
 # TheOldRoad4_4426bc0a (line 64668)
 translate ru TheOldRoad4_4426bc0a:
     # sig "Nah, I mean that blockade in front of it."
-    sig ""
+    sig "Nah, I mean that blockade in front of it."
 
 # TheOldRoad4_70ca7821 (line 64669)
 translate ru TheOldRoad4_70ca7821:
@@ -146,17 +146,17 @@ translate ru TheOldRoad4_70ca7821:
 # TheOldRoad4_3753d7ee (line 64670)
 translate ru TheOldRoad4_3753d7ee:
     # s "Can't we get past it?"
-    s ""
+    s "Can't we get past it?"
 
 # TheOldRoad4_3fa1b430 (line 64671)
 translate ru TheOldRoad4_3fa1b430:
     # sig "We can, but it ain't the obstacle that I worry about."
-    sig ""
+    sig "We can, but it ain't the obstacle that I worry about."
 
 # TheOldRoad4_8f744f5c (line 64672)
 translate ru TheOldRoad4_8f744f5c:
     # sig "It's whatever group of fuckers decided to build it, and whatever reason they had I doubt it's any good."
-    sig ""
+    sig "It's whatever group of fuckers decided to build it, and whatever reason they had I doubt it's any good."
 
 # TheOldRoad4_f8a261ff (line 64673)
 translate ru TheOldRoad4_f8a261ff:
@@ -166,7 +166,7 @@ translate ru TheOldRoad4_f8a261ff:
 # TheOldRoad4_57512d16 (line 64674)
 translate ru TheOldRoad4_57512d16:
     # sig "Sakar, Krip, gear up."
-    sig ""
+    sig "Sakar, Krip, gear up."
 
 # TheOldRoad4_7253f4b8 (line 64675)
 translate ru TheOldRoad4_7253f4b8:
@@ -261,7 +261,7 @@ translate ru TheOldRoad4_afdb043e:
 # TheOldRoad4_b10db5ab (line 64693)
 translate ru TheOldRoad4_b10db5ab:
     # sig "What's the meaning of this blockade?"
-    sig ""
+    sig "What's the meaning of this blockade?"
 
 # TheOldRoad4_7e26e59a (line 64694)
 translate ru TheOldRoad4_7e26e59a:
@@ -291,7 +291,7 @@ translate ru TheOldRoad4_b900cec3:
 # TheOldRoad4_60cb5f72 (line 64700)
 translate ru TheOldRoad4_60cb5f72:
     # sig "I've never heard of no fucking Elyian Kingdom and I don't quite imagine I care to learn."
-    sig ""
+    sig "I've never heard of no fucking Elyian Kingdom and I don't quite imagine I care to learn."
 
 # TheOldRoad4_c91ff4bd (line 64701)
 translate ru TheOldRoad4_c91ff4bd:
@@ -311,22 +311,22 @@ translate ru TheOldRoad4_0cbe1eac:
 # TheOldRoad4_6cfe50ee (line 64704)
 translate ru TheOldRoad4_6cfe50ee:
     # sig "I don't give a rat's ass about who rules over this heap of rocks."
-    sig ""
+    sig "I don't give a rat's ass about who rules over this heap of rocks."
 
 # TheOldRoad4_cd7a381a (line 64705)
 translate ru TheOldRoad4_cd7a381a:
     # sig "It was some other sorry bastard five months ago, and it will be another sorry bastard five months from now."
-    sig ""
+    sig "It was some other sorry bastard five months ago, and it will be another sorry bastard five months from now."
 
 # TheOldRoad4_f50236e5 (line 64706)
 translate ru TheOldRoad4_f50236e5:
     # sig "All I want is to get over this bridge and be on my way."
-    sig ""
+    sig "All I want is to get over this bridge and be on my way."
 
 # TheOldRoad4_2a833863 (line 64707)
 translate ru TheOldRoad4_2a833863:
     # sig "We don't mean no harm to you and yours, if you will just let us pass."
-    sig ""
+    sig "We don't mean no harm to you and yours, if you will just let us pass."
 
 # TheOldRoad4_a4e2dbbc (line 64708)
 translate ru TheOldRoad4_a4e2dbbc:
@@ -356,12 +356,12 @@ translate ru TheOldRoad4_edb80a29:
 # TheOldRoad4_838faeed (line 64713)
 translate ru TheOldRoad4_838faeed:
     # sig "Fine."
-    sig ""
+    sig "Fine."
 
 # TheOldRoad4_3ca27932 (line 64714)
 translate ru TheOldRoad4_3ca27932:
     # sig "How much do you want?"
-    sig ""
+    sig "How much do you want?"
 
 # TheOldRoad4_2442820b (line 64715)
 translate ru TheOldRoad4_2442820b:
@@ -371,7 +371,7 @@ translate ru TheOldRoad4_2442820b:
 # TheOldRoad4_44725a06 (line 64716)
 translate ru TheOldRoad4_44725a06:
     # sig "Is that any of your concern?"
-    sig ""
+    sig "Is that any of your concern?"
 
 # TheOldRoad4_b90d5fea (line 64717)
 translate ru TheOldRoad4_b90d5fea:
@@ -386,7 +386,7 @@ translate ru TheOldRoad4_43399392:
 # TheOldRoad4_5600450a (line 64719)
 translate ru TheOldRoad4_5600450a:
     # sig "I wouldn't do that."
-    sig ""
+    sig "I wouldn't do that."
 
 # TheOldRoad4_1719ff9b (line 64720)
 translate ru TheOldRoad4_1719ff9b:
@@ -396,7 +396,7 @@ translate ru TheOldRoad4_1719ff9b:
 # TheOldRoad4_6c77f438 (line 64721)
 translate ru TheOldRoad4_6c77f438:
     # sig "Because this wagon is loaded up with pyrrite. Enough of it to take out just about everyone and that bridge too."
-    sig ""
+    sig "Because this wagon is loaded up with pyrrite. Enough of it to take out just about everyone and that bridge too."
 
 # TheOldRoad4_6dfdcf0e (line 64722)
 translate ru TheOldRoad4_6dfdcf0e:
@@ -441,7 +441,7 @@ translate ru TheOldRoad4_c25033ac:
 # TheOldRoad4_7d2979ab (line 64730)
 translate ru TheOldRoad4_7d2979ab:
     # sig "Tell me what you want."
-    sig ""
+    sig "Tell me what you want."
 
 # TheOldRoad4_8788bc6f (line 64731)
 translate ru TheOldRoad4_8788bc6f:
@@ -456,7 +456,7 @@ translate ru TheOldRoad4_1ee033f7:
 # TheOldRoad4_fef5fe3e (line 64733)
 translate ru TheOldRoad4_fef5fe3e:
     # sig "Even if I had that much on me, I wouldn't give it to you. Name a fair price or fuck off."
-    sig ""
+    sig "Even if I had that much on me, I wouldn't give it to you. Name a fair price or fuck off."
 
 # TheOldRoad4_d00b67ea (line 64734)
 translate ru TheOldRoad4_d00b67ea:
@@ -471,7 +471,7 @@ translate ru TheOldRoad4_4248b27d:
 # TheOldRoad4_ee0241b6 (line 64736)
 translate ru TheOldRoad4_ee0241b6:
     # sig "Best I can do for you is a hundred Lethram Shillings. Maybe a hundred Mythran Denars on top of that, but that's all the cash we can spare."
-    sig ""
+    sig "Best I can do for you is a hundred Lethram Shillings. Maybe a hundred Mythran Denars on top of that, but that's all the cash we can spare."
 
 # TheOldRoad4_3640710b (line 64737)
 translate ru TheOldRoad4_3640710b:
@@ -486,7 +486,7 @@ translate ru TheOldRoad4_795bd44b:
 # TheOldRoad4_f6bd08c6 (line 64739)
 translate ru TheOldRoad4_f6bd08c6:
     # sig "Is it my concern how you feed your men?"
-    sig ""
+    sig "Is it my concern how you feed your men?"
 
 # TheOldRoad4_cb59de5e (line 64740)
 translate ru TheOldRoad4_cb59de5e:
@@ -517,14 +517,4 @@ translate ru TheOldRoad4_b634d350:
 translate ru TheOldRoad4_bf1f894a:
     # "Captain" "You hand her over to us for an evening, I bet she can pay off whatever the tax is."
     ""
-
-# TheOldRoad4_02881884 (line 64748)
-translate ru TheOldRoad4_02881884:
-    # "Give yourself over to the soldiers"
-    "Give yourself over to the soldiers" ""
-
-# TheOldRoad4_939ee121 (line 65106)
-translate ru TheOldRoad4_939ee121:
-    # "Ask Sigmund to protect you"
-    "Ask Sigmund to protect you" ""
 

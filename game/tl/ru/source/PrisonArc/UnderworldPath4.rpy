@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: UnderworldPath4
-# Total blocks: 116
+# Total blocks: 112
 
 # UnderworldPath4_c2930f5e (line 61300)
 translate ru UnderworldPath4_c2930f5e:
@@ -47,16 +47,6 @@ translate ru UnderworldPath4_953dab9d:
 translate ru UnderworldPath4_b963a44a:
     # "For now, this is where the story ends."
     ""
-
-# UnderworldPath4_e1175797 (line 61315)
-translate ru UnderworldPath4_e1175797:
-    # "Run"
-    "Run" ""
-
-# UnderworldPath4_aef11950 (line 61317)
-translate ru UnderworldPath4_aef11950:
-    # "Hide"
-    "Hide" ""
 
 # UnderworldPath4_d6ce066b (line 61320)
 translate ru UnderworldPath4_d6ce066b:
@@ -176,7 +166,7 @@ translate ru UnderworldPath4_90faf663:
 # UnderworldPath4_8aa708ca (line 61345)
 translate ru UnderworldPath4_8aa708ca:
     # s "Sir..."
-    s ""
+    s "Sir..."
 
 # UnderworldPath4_3f380854 (line 61346)
 translate ru UnderworldPath4_3f380854:
@@ -186,7 +176,7 @@ translate ru UnderworldPath4_3f380854:
 # UnderworldPath4_b977880b (line 61347)
 translate ru UnderworldPath4_b977880b:
     # s "I didn't do anything, I was just sleeping here, I swear that I-"
-    s ""
+    s "I didn't do anything, I was just sleeping here, I swear that I-"
 
 # UnderworldPath4_8bdd86d1 (line 61348)
 translate ru UnderworldPath4_8bdd86d1:
@@ -371,12 +361,12 @@ translate ru UnderworldPath4_e3f837ca:
 # UnderworldPath4_4ef52a06 (line 61395)
 translate ru UnderworldPath4_4ef52a06:
     # s "Sir!"
-    s ""
+    s "Sir!"
 
 # UnderworldPath4_b08a0718 (line 61396)
 translate ru UnderworldPath4_b08a0718:
     # s "I...I don't know what this is about, but I promise you, this is a mistake!"
-    s ""
+    s "I...I don't know what this is about, but I promise you, this is a mistake!"
 
 # UnderworldPath4_172958a9 (line 61397)
 translate ru UnderworldPath4_172958a9:
@@ -421,7 +411,7 @@ translate ru UnderworldPath4_b321de7b:
 # UnderworldPath4_0e2b56ec (line 61405)
 translate ru UnderworldPath4_0e2b56ec:
     # s "Please, captain, I-"
-    s ""
+    s "Please, captain, I-"
 
 # UnderworldPath4_327a8c61 (line 61406)
 translate ru UnderworldPath4_327a8c61:
@@ -446,7 +436,7 @@ translate ru UnderworldPath4_e01ca463:
 # UnderworldPath4_9b52e4a8 (line 61410)
 translate ru UnderworldPath4_9b52e4a8:
     # s "Yes...sir..."
-    s ""
+    s "Yes...sir..."
 
 # UnderworldPath4_d4dd66ca (line 61411)
 translate ru UnderworldPath4_d4dd66ca:
@@ -572,14 +562,4 @@ translate ru UnderworldPath4_b3417eee:
 translate ru UnderworldPath4_8bd53d8a:
     # "Guard Captain" "Well? You got an answer for me, girly?"
     ""
-
-# UnderworldPath4_978cd802 (line 61439)
-translate ru UnderworldPath4_978cd802:
-    # "Testify against Alaric"
-    "Testify against Alaric" ""
-
-# UnderworldPath4_68d72b47 (line 61443)
-translate ru UnderworldPath4_68d72b47:
-    # "Refuse to answer his questions"
-    "Refuse to answer his questions" ""
 

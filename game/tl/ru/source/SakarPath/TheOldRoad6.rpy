@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TheOldRoad6
-# Total blocks: 93
+# Total blocks: 92
 
 # TheOldRoad6_e0741f14 (line 65819)
 translate ru TheOldRoad6_e0741f14:
@@ -261,7 +261,7 @@ translate ru TheOldRoad6_7bdc3966:
 # TheOldRoad6_59ca079b (line 65870)
 translate ru TheOldRoad6_59ca079b:
     # s "What is that?"
-    s ""
+    s "What is that?"
 
 # TheOldRoad6_302a4fa9 (line 65871)
 translate ru TheOldRoad6_302a4fa9:
@@ -271,17 +271,17 @@ translate ru TheOldRoad6_302a4fa9:
 # TheOldRoad6_90995394 (line 65872)
 translate ru TheOldRoad6_90995394:
     # sig "That's the pyramid of Rahayal."
-    sig ""
+    sig "That's the pyramid of Rahayal."
 
 # TheOldRoad6_74b4a218 (line 65873)
 translate ru TheOldRoad6_74b4a218:
     # sig "That's where the Noctori live."
-    sig ""
+    sig "That's where the Noctori live."
 
 # TheOldRoad6_02f09e35 (line 65874)
 translate ru TheOldRoad6_02f09e35:
     # s "Noctori?"
-    s ""
+    s "Noctori?"
 
 # TheOldRoad6_0c3a1525 (line 65875)
 translate ru TheOldRoad6_0c3a1525:
@@ -291,7 +291,7 @@ translate ru TheOldRoad6_0c3a1525:
 # TheOldRoad6_ad5ea52f (line 65876)
 translate ru TheOldRoad6_ad5ea52f:
     # sig "You can read and write, you're educated enough, and you're telling me you don't know about them?"
-    sig ""
+    sig "You can read and write, you're educated enough, and you're telling me you don't know about them?"
 
 # TheOldRoad6_24ef0441 (line 65877)
 translate ru TheOldRoad6_24ef0441:
@@ -301,7 +301,7 @@ translate ru TheOldRoad6_24ef0441:
 # TheOldRoad6_ef853623 (line 65878)
 translate ru TheOldRoad6_ef853623:
     # sig "Did they never bother to teach you any history?"
-    sig ""
+    sig "Did they never bother to teach you any history?"
 
 # TheOldRoad6_d52d1787 (line 65879)
 translate ru TheOldRoad6_d52d1787:
@@ -316,22 +316,22 @@ translate ru TheOldRoad6_cea2623b:
 # TheOldRoad6_c4bd620b (line 65881)
 translate ru TheOldRoad6_c4bd620b:
     # s "Not about this place, no."
-    s ""
+    s "Not about this place, no."
 
 # TheOldRoad6_e9997066 (line 65882)
 translate ru TheOldRoad6_e9997066:
     # sig "Well, the Noctori are the ruling class of the Mythran empire, and that pyramid is where they hold court."
-    sig ""
+    sig "Well, the Noctori are the ruling class of the Mythran empire, and that pyramid is where they hold court."
 
 # TheOldRoad6_14f95e29 (line 65883)
 translate ru TheOldRoad6_14f95e29:
     # sig "The eternal court, they call it."
-    sig ""
+    sig "The eternal court, they call it."
 
 # TheOldRoad6_cd10a9dc (line 65884)
 translate ru TheOldRoad6_cd10a9dc:
     # s "The eternal court?"
-    s ""
+    s "The eternal court?"
 
 # TheOldRoad6_bf2dad10 (line 65885)
 translate ru TheOldRoad6_bf2dad10:
@@ -341,7 +341,7 @@ translate ru TheOldRoad6_bf2dad10:
 # TheOldRoad6_858fb4d0 (line 65886)
 translate ru TheOldRoad6_858fb4d0:
     # sig "Arrogant shit for arrogant folks. Nothin lasts forever, not even this place. But I guess they call it that, hopin to make it true."
-    sig ""
+    sig "Arrogant shit for arrogant folks. Nothin lasts forever, not even this place. But I guess they call it that, hopin to make it true."
 
 # TheOldRoad6_a81fed25 (line 65887)
 translate ru TheOldRoad6_a81fed25:
@@ -426,7 +426,7 @@ translate ru TheOldRoad6_a479be57:
 # TheOldRoad6_5db99430 (line 65910)
 translate ru TheOldRoad6_5db99430:
     # sig "Well, I suppose we've reached the end of our road."
-    sig ""
+    sig "Well, I suppose we've reached the end of our road."
 
 # TheOldRoad6_77cab25c (line 65911)
 translate ru TheOldRoad6_77cab25c:
@@ -441,12 +441,12 @@ translate ru TheOldRoad6_a18d1fd3:
 # TheOldRoad6_f23ad0ca (line 65913)
 translate ru TheOldRoad6_f23ad0ca:
     # s "Thank you, Sigmund. I really don't know what else to say."
-    s ""
+    s "Thank you, Sigmund. I really don't know what else to say."
 
 # TheOldRoad6_ca4bf8b7 (line 65914)
 translate ru TheOldRoad6_ca4bf8b7:
     # sig "Don't say nothing, child. You want to thank me? Just take good care of yourself, that's all I want for you."
-    sig ""
+    sig "Don't say nothing, child. You want to thank me? Just take good care of yourself, that's all I want for you."
 
 # TheOldRoad6_48b8693e (line 65915)
 translate ru TheOldRoad6_48b8693e:
@@ -456,12 +456,7 @@ translate ru TheOldRoad6_48b8693e:
 # TheOldRoad6_4c8a48be (line 65916)
 translate ru TheOldRoad6_4c8a48be:
     # s "I will, I promise."
-    s ""
-
-# TheOldRoad6_11f8d713 (line 65920)
-translate ru TheOldRoad6_11f8d713:
-    # "Enter Rahayal"
-    "Enter Rahayal" ""
+    s "I will, I promise."
 
 # TheOldRoad6_583bd553 (line 65931)
 translate ru TheOldRoad6_583bd553:

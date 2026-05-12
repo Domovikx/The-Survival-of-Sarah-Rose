@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: VargaPath5
-# Total blocks: 76
+# Total blocks: 73
 
 # VargaPath5_8ea94248 (line 15027)
 translate ru VargaPath5_8ea94248:
@@ -116,7 +116,7 @@ translate ru VargaPath5_a59b3d83:
 # VargaPath5_3d82dab6 (line 15049)
 translate ru VargaPath5_3d82dab6:
     # kr "Princess Sarah."
-    kr ""
+    kr "Princess Sarah."
 
 # VargaPath5_b6eb2ffc (line 15050)
 translate ru VargaPath5_b6eb2ffc:
@@ -126,12 +126,12 @@ translate ru VargaPath5_b6eb2ffc:
 # VargaPath5_550050c9 (line 15051)
 translate ru VargaPath5_550050c9:
     # s "Do you have news for me, spymaster?"
-    s ""
+    s "Do you have news for me, spymaster?"
 
 # VargaPath5_52f2ed6c (line 15052)
 translate ru VargaPath5_52f2ed6c:
     # kr "News of a sort, Princess."
-    kr ""
+    kr "News of a sort, Princess."
 
 # VargaPath5_1791396c (line 15053)
 translate ru VargaPath5_1791396c:
@@ -156,7 +156,7 @@ translate ru VargaPath5_12611c72:
 # VargaPath5_b4f8d910 (line 15060)
 translate ru VargaPath5_b4f8d910:
     # kr "We caught these people trying to sneak out of the capital."
-    kr ""
+    kr "We caught these people trying to sneak out of the capital."
 
 # VargaPath5_d769d156 (line 15061)
 translate ru VargaPath5_d769d156:
@@ -171,7 +171,7 @@ translate ru VargaPath5_673b9349:
 # VargaPath5_9d70d2a1 (line 15063)
 translate ru VargaPath5_9d70d2a1:
     # kr "They are members of the Highfield family."
-    kr ""
+    kr "They are members of the Highfield family."
 
 # VargaPath5_944984a0 (line 15064)
 translate ru VargaPath5_944984a0:
@@ -186,7 +186,7 @@ translate ru VargaPath5_dbec40eb:
 # VargaPath5_241a0f41 (line 15066)
 translate ru VargaPath5_241a0f41:
     # s "The Highfield family is led by five brothers. They don't have any sisters. So if this is the Highfield family, who is she?"
-    s ""
+    s "The Highfield family is led by five brothers. They don't have any sisters. So if this is the Highfield family, who is she?"
 
 # VargaPath5_17accc5a (line 15067)
 translate ru VargaPath5_17accc5a:
@@ -196,7 +196,7 @@ translate ru VargaPath5_17accc5a:
 # VargaPath5_851f3717 (line 15068)
 translate ru VargaPath5_851f3717:
     # kr "Well, uhm, Princess Sarah...they are-"
-    kr ""
+    kr "Well, uhm, Princess Sarah...they are-"
 
 # VargaPath5_182aab67 (line 15069)
 translate ru VargaPath5_182aab67:
@@ -206,7 +206,7 @@ translate ru VargaPath5_182aab67:
 # VargaPath5_2e5e4f9b (line 15070)
 translate ru VargaPath5_2e5e4f9b:
     # l "What your moronic spymaster is trying to tell you is that we're not Highfielders...well, not really."
-    l ""
+    l "What your moronic spymaster is trying to tell you is that we're not Highfielders...well, not really."
 
 # VargaPath5_fc2c59ee (line 15071)
 translate ru VargaPath5_fc2c59ee:
@@ -216,17 +216,17 @@ translate ru VargaPath5_fc2c59ee:
 # VargaPath5_dca4ae31 (line 15072)
 translate ru VargaPath5_dca4ae31:
     # s "What does she mean, Kravel?"
-    s ""
+    s "What does she mean, Kravel?"
 
 # VargaPath5_d9c172e2 (line 15073)
 translate ru VargaPath5_d9c172e2:
     # kr "Well, she is right, and wrong, in a way."
-    kr ""
+    kr "Well, she is right, and wrong, in a way."
 
 # VargaPath5_ca486672 (line 15074)
 translate ru VargaPath5_ca486672:
     # kr "Theirs is a minor branch of the Highfield family. The Highfield brothers have an uncle, whose second wife..."
-    kr ""
+    kr "Theirs is a minor branch of the Highfield family. The Highfield brothers have an uncle, whose second wife..."
 
 # VargaPath5_f82ef064 (line 15075)
 translate ru VargaPath5_f82ef064:
@@ -236,7 +236,7 @@ translate ru VargaPath5_f82ef064:
 # VargaPath5_8e02a003 (line 15076)
 translate ru VargaPath5_8e02a003:
     # s "Fine, I understand."
-    s ""
+    s "Fine, I understand."
 
 # VargaPath5_16f6aa2c (line 15077)
 translate ru VargaPath5_16f6aa2c:
@@ -246,17 +246,17 @@ translate ru VargaPath5_16f6aa2c:
 # VargaPath5_ef3f6d74 (line 15078)
 translate ru VargaPath5_ef3f6d74:
     # s "So why did you bring them here?"
-    s ""
+    s "So why did you bring them here?"
 
 # VargaPath5_a7a83255 (line 15079)
 translate ru VargaPath5_a7a83255:
     # kr "Princess Sarah, we can use these people as leverage."
-    kr ""
+    kr "Princess Sarah, we can use these people as leverage."
 
 # VargaPath5_bc4fe7e4 (line 15080)
 translate ru VargaPath5_bc4fe7e4:
     # kr "The Highfield family will not wish any harm come to them or their children. Just as they keep King Thomas as a hostage, we can keep them, to make certain nothing happens to your brother."
-    kr ""
+    kr "The Highfield family will not wish any harm come to them or their children. Just as they keep King Thomas as a hostage, we can keep them, to make certain nothing happens to your brother."
 
 # VargaPath5_0f69655a (line 15081)
 translate ru VargaPath5_0f69655a:
@@ -266,17 +266,17 @@ translate ru VargaPath5_0f69655a:
 # VargaPath5_672ba7a9 (line 15082)
 translate ru VargaPath5_672ba7a9:
     # l "You think my stupid fucking nephews give a shit about me or any of my brothers and sisters?"
-    l ""
+    l "You think my stupid fucking nephews give a shit about me or any of my brothers and sisters?"
 
 # VargaPath5_c960db60 (line 15083)
 translate ru VargaPath5_c960db60:
     # l "We're lucky to be invited once a year to their estate, hells, some year they even forget to invite us at all."
-    l ""
+    l "We're lucky to be invited once a year to their estate, hells, some year they even forget to invite us at all."
 
 # VargaPath5_cf1a4b6a (line 15084)
 translate ru VargaPath5_cf1a4b6a:
     # l "They're not going to give a damn if you hang us or not. Gods, they might actually thank you for getting rid of us!"
-    l ""
+    l "They're not going to give a damn if you hang us or not. Gods, they might actually thank you for getting rid of us!"
 
 # VargaPath5_0f3f44ed (line 15085)
 translate ru VargaPath5_0f3f44ed:
@@ -286,12 +286,12 @@ translate ru VargaPath5_0f3f44ed:
 # VargaPath5_7b5127f7 (line 15086)
 translate ru VargaPath5_7b5127f7:
     # kr "The girl will say whatever to keep her life. They are Highfielders; their lives hold value."
-    kr ""
+    kr "The girl will say whatever to keep her life. They are Highfielders; their lives hold value."
 
 # VargaPath5_5c8adf43 (line 15087)
 translate ru VargaPath5_5c8adf43:
     # kr "We can keep them in the dungeon and I will let our enemy know that we hold this leverage over them."
-    kr ""
+    kr "We can keep them in the dungeon and I will let our enemy know that we hold this leverage over them."
 
 # VargaPath5_11c0ace9 (line 15088)
 translate ru VargaPath5_11c0ace9:
@@ -301,32 +301,32 @@ translate ru VargaPath5_11c0ace9:
 # VargaPath5_62b647a0 (line 15089)
 translate ru VargaPath5_62b647a0:
     # l "Princess Sarah!"
-    l ""
+    l "Princess Sarah!"
 
 # VargaPath5_24324356 (line 15090)
 translate ru VargaPath5_24324356:
     # l "My name is Lily Highfield, and I swear on everything in heaven, here on earth and everything down in hell, that I knew nothing of my family and their dishonesty."
-    l ""
+    l "My name is Lily Highfield, and I swear on everything in heaven, here on earth and everything down in hell, that I knew nothing of my family and their dishonesty."
 
 # VargaPath5_2cfb5b56 (line 15091)
 translate ru VargaPath5_2cfb5b56:
     # l "They left me and my brothers and sisters behind in the capital to face a punishment for their crimes, but we are innocent."
-    l ""
+    l "They left me and my brothers and sisters behind in the capital to face a punishment for their crimes, but we are innocent."
 
 # VargaPath5_b9b723a4 (line 15092)
 translate ru VargaPath5_b9b723a4:
     # l "We have never met, but all the stories I have heard about you tell me that you are a kind and merciful ruler."
-    l ""
+    l "We have never met, but all the stories I have heard about you tell me that you are a kind and merciful ruler."
 
 # VargaPath5_8c93be24 (line 15093)
 translate ru VargaPath5_8c93be24:
     # l "I offer you my life!"
-    l ""
+    l "I offer you my life!"
 
 # VargaPath5_b75968e8 (line 15094)
 translate ru VargaPath5_b75968e8:
     # l "If you spare my brothers and sisters, I will bend my knee and serve you as a knight."
-    l ""
+    l "If you spare my brothers and sisters, I will bend my knee and serve you as a knight."
 
 # VargaPath5_bf7a4fd5 (line 15095)
 translate ru VargaPath5_bf7a4fd5:
@@ -357,21 +357,6 @@ translate ru VargaPath5_bafbc34e:
 translate ru VargaPath5_74d4d9d7:
     # "What was the point of victory, if she was no different than her enemies?"
     ""
-
-# VargaPath5_69c31516 (line 15104)
-translate ru VargaPath5_69c31516:
-    # "Let them go."
-    "Let them go." ""
-
-# VargaPath5_e8bd84dc (line 15131)
-translate ru VargaPath5_e8bd84dc:
-    # "Keep them as our hostages."
-    "Keep them as our hostages." ""
-
-# VargaPath5_6f5ebe77 (line 15145)
-translate ru VargaPath5_6f5ebe77:
-    # "Hang them. Send a message."
-    "Hang them. Send a message." ""
 
 # VargaPath5_53c4208c (line 15162)
 translate ru VargaPath5_53c4208c:

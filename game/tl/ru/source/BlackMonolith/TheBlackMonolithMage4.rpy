@@ -16,7 +16,7 @@ translate ru TheBlackMonolithMage4_45a5a2f1:
 # TheBlackMonolithMage4_58f8d1e6 (line 78319)
 translate ru TheBlackMonolithMage4_58f8d1e6:
     # s "Razaphel..."
-    s ""
+    s "Razaphel..."
 
 # TheBlackMonolithMage4_d6911661 (line 78320)
 translate ru TheBlackMonolithMage4_d6911661:
@@ -26,7 +26,7 @@ translate ru TheBlackMonolithMage4_d6911661:
 # TheBlackMonolithMage4_2b187b74 (line 78321)
 translate ru TheBlackMonolithMage4_2b187b74:
     # s "Razaphel!"
-    s ""
+    s "Razaphel!"
 
 # TheBlackMonolithMage4_9a2244a3 (line 78322)
 translate ru TheBlackMonolithMage4_9a2244a3:

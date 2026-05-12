@@ -76,7 +76,7 @@ translate ru UnionKingdom3_f99c1182:
 # UnionKingdom3_00af6a5e (line 8354)
 translate ru UnionKingdom3_00af6a5e:
     # s "Thank you all for gathering here so swiftly."
-    s ""
+    s "Thank you all for gathering here so swiftly."
 
 # UnionKingdom3_fb28eb3f (line 8355)
 translate ru UnionKingdom3_fb28eb3f:
@@ -86,12 +86,12 @@ translate ru UnionKingdom3_fb28eb3f:
 # UnionKingdom3_cb879df2 (line 8356)
 translate ru UnionKingdom3_cb879df2:
     # s "Earlier today, a royal messenger from Normandi was send here by orders of Queen Maeiv."
-    s ""
+    s "Earlier today, a royal messenger from Normandi was send here by orders of Queen Maeiv."
 
 # UnionKingdom3_47cd6445 (line 8357)
 translate ru UnionKingdom3_47cd6445:
     # s "He was instructed to ride as swiftly as he could and to deliver this message directly to me."
-    s ""
+    s "He was instructed to ride as swiftly as he could and to deliver this message directly to me."
 
 # UnionKingdom3_b7d3be1f (line 8358)
 translate ru UnionKingdom3_b7d3be1f:
@@ -101,7 +101,7 @@ translate ru UnionKingdom3_b7d3be1f:
 # UnionKingdom3_1f7657c0 (line 8359)
 translate ru UnionKingdom3_1f7657c0:
     # s "In this letter, Queen Maeiv calls for a Union Council."
-    s ""
+    s "In this letter, Queen Maeiv calls for a Union Council."
 
 # UnionKingdom3_74c5470d (line 8360)
 translate ru UnionKingdom3_74c5470d:
@@ -126,7 +126,7 @@ translate ru UnionKingdom3_2fa899cc:
 # UnionKingdom3_a02fe3aa (line 8364)
 translate ru UnionKingdom3_a02fe3aa:
     # kr "A Union Council hasn't been called in over a century..."
-    kr ""
+    kr "A Union Council hasn't been called in over a century..."
 
 # UnionKingdom3_6d725320 (line 8365)
 translate ru UnionKingdom3_6d725320:
@@ -296,12 +296,12 @@ translate ru UnionKingdom3_61ce57e9:
 # UnionKingdom3_d946707e (line 8398)
 translate ru UnionKingdom3_d946707e:
     # s "It has been over a century since the last Union Council, and yet, it does not change that I have received an invitation from Queen Maeiv."
-    s ""
+    s "It has been over a century since the last Union Council, and yet, it does not change that I have received an invitation from Queen Maeiv."
 
 # UnionKingdom3_1f5b6f34 (line 8399)
 translate ru UnionKingdom3_1f5b6f34:
     # s "The matter for which I have gathered all of you is...what do we do about it?"
-    s ""
+    s "The matter for which I have gathered all of you is...what do we do about it?"
 
 # UnionKingdom3_5c3502a0 (line 8400)
 translate ru UnionKingdom3_5c3502a0:
@@ -316,7 +316,7 @@ translate ru UnionKingdom3_994cea32:
 # UnionKingdom3_b3bc2f54 (line 8402)
 translate ru UnionKingdom3_b3bc2f54:
     # v "Ignore it."
-    v ""
+    v "Ignore it."
 
 # UnionKingdom3_6f634e97 (line 8403)
 translate ru UnionKingdom3_6f634e97:
@@ -326,17 +326,17 @@ translate ru UnionKingdom3_6f634e97:
 # UnionKingdom3_a020a348 (line 8404)
 translate ru UnionKingdom3_a020a348:
     # s "Just like that? Say nothing?"
-    s ""
+    s "Just like that? Say nothing?"
 
 # UnionKingdom3_7af698f2 (line 8405)
 translate ru UnionKingdom3_7af698f2:
     # v "The Union Council is an outdated system, belonging to an even more outdated era."
-    v ""
+    v "The Union Council is an outdated system, belonging to an even more outdated era."
 
 # UnionKingdom3_3577ddbe (line 8406)
 translate ru UnionKingdom3_3577ddbe:
     # v "To give any reaction at all is to treat it as a serious proposal."
-    v ""
+    v "To give any reaction at all is to treat it as a serious proposal."
 
 # UnionKingdom3_dcf65250 (line 8407)
 translate ru UnionKingdom3_dcf65250:
@@ -351,7 +351,7 @@ translate ru UnionKingdom3_99ff7561:
 # UnionKingdom3_89b3aba4 (line 8409)
 translate ru UnionKingdom3_89b3aba4:
     # kr "It is not so simple."
-    kr ""
+    kr "It is not so simple."
 
 # UnionKingdom3_07e74c95 (line 8410)
 translate ru UnionKingdom3_07e74c95:
@@ -366,7 +366,7 @@ translate ru UnionKingdom3_3420bffc:
 # UnionKingdom3_db2a96d4 (line 8412)
 translate ru UnionKingdom3_db2a96d4:
     # s "Go ahead, Spymaster Kravel."
-    s ""
+    s "Go ahead, Spymaster Kravel."
 
 # UnionKingdom3_850363d3 (line 8413)
 translate ru UnionKingdom3_850363d3:
@@ -376,22 +376,22 @@ translate ru UnionKingdom3_850363d3:
 # UnionKingdom3_c07a349b (line 8414)
 translate ru UnionKingdom3_c07a349b:
     # kr "As I was saying, it is not so simple that we can simply ignore her invitation."
-    kr ""
+    kr "As I was saying, it is not so simple that we can simply ignore her invitation."
 
 # UnionKingdom3_846146b9 (line 8415)
 translate ru UnionKingdom3_846146b9:
     # kr "A royal messenger has arrived. He will be expected to deliver Sarah's response back to Queen Maeiv."
-    kr ""
+    kr "A royal messenger has arrived. He will be expected to deliver Sarah's response back to Queen Maeiv."
 
 # UnionKingdom3_bbdd49bd (line 8416)
 translate ru UnionKingdom3_bbdd49bd:
     # kr "To send nothing at all will be perceived as a grave insult..."
-    kr ""
+    kr "To send nothing at all will be perceived as a grave insult..."
 
 # UnionKingdom3_21384132 (line 8417)
 translate ru UnionKingdom3_21384132:
     # v "So we are obligated to respond to this absurd request?"
-    v ""
+    v "So we are obligated to respond to this absurd request?"
 
 # UnionKingdom3_44065102 (line 8418)
 translate ru UnionKingdom3_44065102:
@@ -401,12 +401,12 @@ translate ru UnionKingdom3_44065102:
 # UnionKingdom3_df65e744 (line 8419)
 translate ru UnionKingdom3_df65e744:
     # kr "Obligated, no. But no answer at all could be read as an insult."
-    kr ""
+    kr "Obligated, no. But no answer at all could be read as an insult."
 
 # UnionKingdom3_f12c552e (line 8420)
 translate ru UnionKingdom3_f12c552e:
     # kr "Perhaps Queen Maeiv has extended this offer exactly for the reason that we might reject it."
-    kr ""
+    kr "Perhaps Queen Maeiv has extended this offer exactly for the reason that we might reject it."
 
 # UnionKingdom3_26f5d163 (line 8421)
 translate ru UnionKingdom3_26f5d163:
@@ -416,7 +416,7 @@ translate ru UnionKingdom3_26f5d163:
 # UnionKingdom3_69c22e74 (line 8422)
 translate ru UnionKingdom3_69c22e74:
     # s "You mean she extends it, knowing we might reject her, because she hopes to create a reason to take offense."
-    s ""
+    s "You mean she extends it, knowing we might reject her, because she hopes to create a reason to take offense."
 
 # UnionKingdom3_f0c509e2 (line 8423)
 translate ru UnionKingdom3_f0c509e2:
@@ -426,12 +426,12 @@ translate ru UnionKingdom3_f0c509e2:
 # UnionKingdom3_e94dbd91 (line 8424)
 translate ru UnionKingdom3_e94dbd91:
     # kr "And then who knows what she might do, claiming justification because of a perceived insult."
-    kr ""
+    kr "And then who knows what she might do, claiming justification because of a perceived insult."
 
 # UnionKingdom3_c1851529 (line 8425)
 translate ru UnionKingdom3_c1851529:
     # s "Do you really think she is searching for an excuse for war?"
-    s ""
+    s "Do you really think she is searching for an excuse for war?"
 
 # UnionKingdom3_4856700c (line 8426)
 translate ru UnionKingdom3_4856700c:
@@ -446,7 +446,7 @@ translate ru UnionKingdom3_dcfd8223:
 # UnionKingdom3_3ddecf22 (line 8428)
 translate ru UnionKingdom3_3ddecf22:
     # v "As Warmaster, I can only say I have received no reports hinting at a preparation for war from our neighbours in Normandi."
-    v ""
+    v "As Warmaster, I can only say I have received no reports hinting at a preparation for war from our neighbours in Normandi."
 
 # UnionKingdom3_bf7bcfcf (line 8429)
 translate ru UnionKingdom3_bf7bcfcf:
@@ -456,7 +456,7 @@ translate ru UnionKingdom3_bf7bcfcf:
 # UnionKingdom3_d541b47f (line 8430)
 translate ru UnionKingdom3_d541b47f:
     # kr "And I have read no reports from Normandi that suggest they make for war."
-    kr ""
+    kr "And I have read no reports from Normandi that suggest they make for war."
 
 # UnionKingdom3_f1fa5a58 (line 8431)
 translate ru UnionKingdom3_f1fa5a58:
@@ -466,7 +466,7 @@ translate ru UnionKingdom3_f1fa5a58:
 # UnionKingdom3_f0ddb80a (line 8432)
 translate ru UnionKingdom3_f0ddb80a:
     # c "Perhaps, but no information is perfect. We have been surprised before in the past."
-    c ""
+    c "Perhaps, but no information is perfect. We have been surprised before in the past."
 
 # UnionKingdom3_424965a0 (line 8433)
 translate ru UnionKingdom3_424965a0:
@@ -491,12 +491,12 @@ translate ru UnionKingdom3_2db6759b:
 # UnionKingdom3_365bd2c4 (line 8437)
 translate ru UnionKingdom3_365bd2c4:
     # s "So what then?"
-    s ""
+    s "So what then?"
 
 # UnionKingdom3_7cd515ed (line 8438)
 translate ru UnionKingdom3_7cd515ed:
     # s "Is it a trap or a genuine offer?"
-    s ""
+    s "Is it a trap or a genuine offer?"
 
 # UnionKingdom3_63fd1d7e (line 8439)
 translate ru UnionKingdom3_63fd1d7e:
@@ -511,7 +511,7 @@ translate ru UnionKingdom3_f7629271:
 # UnionKingdom3_b9dbc941 (line 8441)
 translate ru UnionKingdom3_b9dbc941:
     # c "Perhaps we should look at it in a different way."
-    c ""
+    c "Perhaps we should look at it in a different way."
 
 # UnionKingdom3_23b91902 (line 8442)
 translate ru UnionKingdom3_23b91902:
@@ -521,7 +521,7 @@ translate ru UnionKingdom3_23b91902:
 # UnionKingdom3_046ea507 (line 8443)
 translate ru UnionKingdom3_046ea507:
     # s "What do you mean, exactly?"
-    s ""
+    s "What do you mean, exactly?"
 
 # UnionKingdom3_b82410af (line 8444)
 translate ru UnionKingdom3_b82410af:
@@ -531,7 +531,7 @@ translate ru UnionKingdom3_b82410af:
 # UnionKingdom3_c5b1d26e (line 8445)
 translate ru UnionKingdom3_c5b1d26e:
     # c "We are discussing if it is a trap or not. But the truth is, we are discussing a question to which we have no answer."
-    c ""
+    c "We are discussing if it is a trap or not. But the truth is, we are discussing a question to which we have no answer."
 
 # UnionKingdom3_23dceb04 (line 8446)
 translate ru UnionKingdom3_23dceb04:
@@ -541,27 +541,27 @@ translate ru UnionKingdom3_23dceb04:
 # UnionKingdom3_7a64efef (line 8447)
 translate ru UnionKingdom3_7a64efef:
     # c "So perhaps we should instead consider not the question, but the potential outcomes and their associated risks."
-    c ""
+    c "So perhaps we should instead consider not the question, but the potential outcomes and their associated risks."
 
 # UnionKingdom3_31e15786 (line 8448)
 translate ru UnionKingdom3_31e15786:
     # s "Go on."
-    s ""
+    s "Go on."
 
 # UnionKingdom3_d5bc04c0 (line 8449)
 translate ru UnionKingdom3_d5bc04c0:
     # c "It is like a loan."
-    c ""
+    c "It is like a loan."
 
 # UnionKingdom3_31d8d0a9 (line 8450)
 translate ru UnionKingdom3_31d8d0a9:
     # c "If one knew in advance if it was to be repaid or not, then there would be no need for a banker to begin with."
-    c ""
+    c "If one knew in advance if it was to be repaid or not, then there would be no need for a banker to begin with."
 
 # UnionKingdom3_a4b34a24 (line 8451)
 translate ru UnionKingdom3_a4b34a24:
     # c "Rather, the banker does not seek to resolve the question of risk, but rather, to live with it and balance it."
-    c ""
+    c "Rather, the banker does not seek to resolve the question of risk, but rather, to live with it and balance it."
 
 # UnionKingdom3_56619e05 (line 8452)
 translate ru UnionKingdom3_56619e05:
@@ -571,12 +571,12 @@ translate ru UnionKingdom3_56619e05:
 # UnionKingdom3_88dbb2db (line 8453)
 translate ru UnionKingdom3_88dbb2db:
     # c "I suggest we consider the offer and its outcomes."
-    c ""
+    c "I suggest we consider the offer and its outcomes."
 
 # UnionKingdom3_95932d45 (line 8454)
 translate ru UnionKingdom3_95932d45:
     # c "Queen Maeiv has extended this invitation to you. You can attend, or not attend."
-    c ""
+    c "Queen Maeiv has extended this invitation to you. You can attend, or not attend."
 
 # UnionKingdom3_bc3a0227 (line 8455)
 translate ru UnionKingdom3_bc3a0227:
@@ -586,12 +586,12 @@ translate ru UnionKingdom3_bc3a0227:
 # UnionKingdom3_4d219617 (line 8456)
 translate ru UnionKingdom3_4d219617:
     # c "Should you go, it could prove a trap, or it could prove genuine."
-    c ""
+    c "Should you go, it could prove a trap, or it could prove genuine."
 
 # UnionKingdom3_7a47f890 (line 8457)
 translate ru UnionKingdom3_7a47f890:
     # c "Should you not go, you might avoid a trap but end up giving unintended offense, which could be the pretense she needs to act against you."
-    c ""
+    c "Should you not go, you might avoid a trap but end up giving unintended offense, which could be the pretense she needs to act against you."
 
 # UnionKingdom3_5b0f5012 (line 8458)
 translate ru UnionKingdom3_5b0f5012:
@@ -601,32 +601,32 @@ translate ru UnionKingdom3_5b0f5012:
 # UnionKingdom3_7ccfbadd (line 8459)
 translate ru UnionKingdom3_7ccfbadd:
     # s "So what do you suggest then?"
-    s ""
+    s "So what do you suggest then?"
 
 # UnionKingdom3_074e47d0 (line 8460)
 translate ru UnionKingdom3_074e47d0:
     # c "I suggest that if Queen Maeiv has ill will, it really doesn't matter if you go or not."
-    c ""
+    c "I suggest that if Queen Maeiv has ill will, it really doesn't matter if you go or not."
 
 # UnionKingdom3_d270b1e6 (line 8461)
 translate ru UnionKingdom3_d270b1e6:
     # c "But if her offer is genuine, you might accidentally give offense by refusing her invitation."
-    c ""
+    c "But if her offer is genuine, you might accidentally give offense by refusing her invitation."
 
 # UnionKingdom3_1c8ba537 (line 8462)
 translate ru UnionKingdom3_1c8ba537:
     # c "So if her intentions are dishonest, we are already under attack by her, no matter which decision we make."
-    c ""
+    c "So if her intentions are dishonest, we are already under attack by her, no matter which decision we make."
 
 # UnionKingdom3_41378287 (line 8463)
 translate ru UnionKingdom3_41378287:
     # c "The only true mistake we could make would be to refuse her invitation, when it is genuine."
-    c ""
+    c "The only true mistake we could make would be to refuse her invitation, when it is genuine."
 
 # UnionKingdom3_e0787b22 (line 8464)
 translate ru UnionKingdom3_e0787b22:
     # c "And so the only real option, is to attend the Union Council and hear her out."
-    c ""
+    c "And so the only real option, is to attend the Union Council and hear her out."
 
 # UnionKingdom3_e1520a14 (line 8465)
 translate ru UnionKingdom3_e1520a14:
@@ -636,7 +636,7 @@ translate ru UnionKingdom3_e1520a14:
 # UnionKingdom3_16beccd4 (line 8466)
 translate ru UnionKingdom3_16beccd4:
     # s "Perhaps you are right, but if it is a trap, it would be me who ends up imprisoned or killed, not you."
-    s ""
+    s "Perhaps you are right, but if it is a trap, it would be me who ends up imprisoned or killed, not you."
 
 # UnionKingdom3_15235d32 (line 8467)
 translate ru UnionKingdom3_15235d32:
@@ -646,22 +646,22 @@ translate ru UnionKingdom3_15235d32:
 # UnionKingdom3_8382c495 (line 8468)
 translate ru UnionKingdom3_8382c495:
     # c "True, but I would advise you to consider this matter from her perpective."
-    c ""
+    c "True, but I would advise you to consider this matter from her perpective."
 
 # UnionKingdom3_45f4c5c4 (line 8469)
 translate ru UnionKingdom3_45f4c5c4:
     # c "Queen Maeiv is not known as the Silent Queen for nothing."
-    c ""
+    c "Queen Maeiv is not known as the Silent Queen for nothing."
 
 # UnionKingdom3_eecbf861 (line 8470)
 translate ru UnionKingdom3_eecbf861:
     # c "She is famous for playing her hand slow. She has never been one for surprises, not even in the war where she won her crown."
-    c ""
+    c "She is famous for playing her hand slow. She has never been one for surprises, not even in the war where she won her crown."
 
 # UnionKingdom3_14c5c62c (line 8471)
 translate ru UnionKingdom3_14c5c62c:
     # c "Tradition protects any monarch in the Union Kingdoms. She will not be willing to insult that tradition."
-    c ""
+    c "Tradition protects any monarch in the Union Kingdoms. She will not be willing to insult that tradition."
 
 # UnionKingdom3_8161cbbb (line 8472)
 translate ru UnionKingdom3_8161cbbb:
@@ -671,7 +671,7 @@ translate ru UnionKingdom3_8161cbbb:
 # UnionKingdom3_4810fc95 (line 8473)
 translate ru UnionKingdom3_4810fc95:
     # c "At least, not for little gain, I imagine."
-    c ""
+    c "At least, not for little gain, I imagine."
 
 # UnionKingdom3_bf9b38f3 (line 8474)
 translate ru UnionKingdom3_bf9b38f3:
@@ -681,7 +681,7 @@ translate ru UnionKingdom3_bf9b38f3:
 # UnionKingdom3_2cad5820 (line 8475)
 translate ru UnionKingdom3_2cad5820:
     # s "And my death or capture is little gain?"
-    s ""
+    s "And my death or capture is little gain?"
 
 # UnionKingdom3_ba099a80 (line 8476)
 translate ru UnionKingdom3_ba099a80:
@@ -691,22 +691,22 @@ translate ru UnionKingdom3_ba099a80:
 # UnionKingdom3_5df9e46d (line 8477)
 translate ru UnionKingdom3_5df9e46d:
     # c "I mean no offense, of course to you such an outcome is a disaster, but for Queen Maeiv what would she gain?"
-    c ""
+    c "I mean no offense, of course to you such an outcome is a disaster, but for Queen Maeiv what would she gain?"
 
 # UnionKingdom3_69fca3fa (line 8478)
 translate ru UnionKingdom3_69fca3fa:
     # c "Your death or capture would simply result in a new ruler for Rosanna."
-    c ""
+    c "Your death or capture would simply result in a new ruler for Rosanna."
 
 # UnionKingdom3_e9cb32b3 (line 8479)
 translate ru UnionKingdom3_e9cb32b3:
     # c "And it would enrage the nobles and even the common folk."
-    c ""
+    c "And it would enrage the nobles and even the common folk."
 
 # UnionKingdom3_d46d0894 (line 8480)
 translate ru UnionKingdom3_d46d0894:
     # c "I cannot imagine this to be a trick. It makes no sense, given her character and given the strategy of it."
-    c ""
+    c "I cannot imagine this to be a trick. It makes no sense, given her character and given the strategy of it."
 
 # UnionKingdom3_403d8cc3 (line 8481)
 translate ru UnionKingdom3_403d8cc3:
@@ -726,5 +726,5 @@ translate ru UnionKingdom3_46ecc828:
 # UnionKingdom3_2d890d6c (line 8500)
 translate ru UnionKingdom3_2d890d6c:
     # s "Very well...I have decided."
-    s ""
+    s "Very well...I have decided."
 

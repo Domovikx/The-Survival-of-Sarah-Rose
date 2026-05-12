@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: SailorPath3
-# Total blocks: 156
+# Total blocks: 152
 
 # SailorPath3_a832e2f0 (line 27173)
 translate ru SailorPath3_a832e2f0:
@@ -131,22 +131,22 @@ translate ru SailorPath3_c0b06e46:
 # SailorPath3_e39df5cf (line 27209)
 translate ru SailorPath3_e39df5cf:
     # s "It's..."
-    s ""
+    s "It's..."
 
 # SailorPath3_42affb30 (line 27210)
 translate ru SailorPath3_42affb30:
     # cb "Yeah, took my breath away too first time I got here."
-    cb ""
+    cb "Yeah, took my breath away too first time I got here."
 
 # SailorPath3_5ad36c01 (line 27211)
 translate ru SailorPath3_5ad36c01:
     # s "It's beyond anything I ever saw."
-    s ""
+    s "It's beyond anything I ever saw."
 
 # SailorPath3_4aa89829 (line 27212)
 translate ru SailorPath3_4aa89829:
     # cb "You grew up in Rosanna, right?"
-    cb ""
+    cb "You grew up in Rosanna, right?"
 
 # SailorPath3_a80a0f6a (line 27213)
 translate ru SailorPath3_a80a0f6a:
@@ -156,22 +156,22 @@ translate ru SailorPath3_a80a0f6a:
 # SailorPath3_1b2f6f26 (line 27214)
 translate ru SailorPath3_1b2f6f26:
     # s "Yeah, in the capital, near the castle."
-    s ""
+    s "Yeah, in the capital, near the castle."
 
 # SailorPath3_c476f82f (line 27215)
 translate ru SailorPath3_c476f82f:
     # s "I always thought the castle in Rosanna was the greatest thing on this world, but you'd hardly notice it if it was in this city."
-    s ""
+    s "I always thought the castle in Rosanna was the greatest thing on this world, but you'd hardly notice it if it was in this city."
 
 # SailorPath3_788d47fe (line 27216)
 translate ru SailorPath3_788d47fe:
     # cb "Yeah, all kinds of people go around thinkin wherever they are is the center of the world."
-    cb ""
+    cb "Yeah, all kinds of people go around thinkin wherever they are is the center of the world."
 
 # SailorPath3_a50a7b0e (line 27217)
 translate ru SailorPath3_a50a7b0e:
     # cb "They forgettin there's all sorts of worlds out there."
-    cb ""
+    cb "They forgettin there's all sorts of worlds out there."
 
 # SailorPath3_591003ef (line 27218)
 translate ru SailorPath3_591003ef:
@@ -261,7 +261,7 @@ translate ru SailorPath3_87175e8c:
 # SailorPath3_064982fd (line 27243)
 translate ru SailorPath3_064982fd:
     # cb "There we go, nice and steady."
-    cb ""
+    cb "There we go, nice and steady."
 
 # SailorPath3_950a5053 (line 27244)
 translate ru SailorPath3_950a5053:
@@ -291,7 +291,7 @@ translate ru SailorPath3_623124c8:
 # SailorPath3_a2410627 (line 27255)
 translate ru SailorPath3_a2410627:
     # cb "Same for you. Thought you'd be retired since last time."
-    cb ""
+    cb "Same for you. Thought you'd be retired since last time."
 
 # SailorPath3_43cef45f (line 27256)
 translate ru SailorPath3_43cef45f:
@@ -301,7 +301,7 @@ translate ru SailorPath3_43cef45f:
 # SailorPath3_9cc21550 (line 27257)
 translate ru SailorPath3_9cc21550:
     # cb "And you let them order you around like that?"
-    cb ""
+    cb "And you let them order you around like that?"
 
 # SailorPath3_614aa339 (line 27258)
 translate ru SailorPath3_614aa339:
@@ -321,7 +321,7 @@ translate ru SailorPath3_60e6bf6b:
 # SailorPath3_e4ce7628 (line 27261)
 translate ru SailorPath3_e4ce7628:
     # cb "Always comes down to gold with your kind."
-    cb ""
+    cb "Always comes down to gold with your kind."
 
 # SailorPath3_43c56c09 (line 27262)
 translate ru SailorPath3_43c56c09:
@@ -336,7 +336,7 @@ translate ru SailorPath3_5ecff6a0:
 # SailorPath3_17745fc8 (line 27264)
 translate ru SailorPath3_17745fc8:
     # cb "Of course I do it for the money, but I don't act all fancy about it, like I'm above that sort of thing."
-    cb ""
+    cb "Of course I do it for the money, but I don't act all fancy about it, like I'm above that sort of thing."
 
 # SailorPath3_8a0d2d88 (line 27265)
 translate ru SailorPath3_8a0d2d88:
@@ -356,7 +356,7 @@ translate ru SailorPath3_7d4b9b2a:
 # SailorPath3_3572bfb0 (line 27268)
 translate ru SailorPath3_3572bfb0:
     # cb "Ooh, yeah, this is my new deck hand. Sarah."
-    cb ""
+    cb "Ooh, yeah, this is my new deck hand. Sarah."
 
 # SailorPath3_faf996bf (line 27269)
 translate ru SailorPath3_faf996bf:
@@ -366,7 +366,7 @@ translate ru SailorPath3_faf996bf:
 # SailorPath3_902a0e12 (line 27270)
 translate ru SailorPath3_902a0e12:
     # cb "Come on blondie, shake the man's hand."
-    cb ""
+    cb "Come on blondie, shake the man's hand."
 
 # SailorPath3_692cd33d (line 27271)
 translate ru SailorPath3_692cd33d:
@@ -376,7 +376,7 @@ translate ru SailorPath3_692cd33d:
 # SailorPath3_0300704e (line 27272)
 translate ru SailorPath3_0300704e:
     # s "Sarah."
-    s ""
+    s "Sarah."
 
 # SailorPath3_523766e5 (line 27273)
 translate ru SailorPath3_523766e5:
@@ -386,7 +386,7 @@ translate ru SailorPath3_523766e5:
 # SailorPath3_101f1017 (line 27274)
 translate ru SailorPath3_101f1017:
     # s "Just Sarah."
-    s ""
+    s "Just Sarah."
 
 # SailorPath3_a6ff017d (line 27275)
 translate ru SailorPath3_a6ff017d:
@@ -406,7 +406,7 @@ translate ru SailorPath3_aef59010:
 # SailorPath3_6000a36a (line 27278)
 translate ru SailorPath3_6000a36a:
     # cb "Don't let her fool ya. She can work plenty hard."
-    cb ""
+    cb "Don't let her fool ya. She can work plenty hard."
 
 # SailorPath3_5d830e89 (line 27279)
 translate ru SailorPath3_5d830e89:
@@ -476,7 +476,7 @@ translate ru SailorPath3_0c7346ca:
 # SailorPath3_0d03be55 (line 27297)
 translate ru SailorPath3_0d03be55:
     # s "What was that all about?"
-    s ""
+    s "What was that all about?"
 
 # SailorPath3_8dabc570 (line 27298)
 translate ru SailorPath3_8dabc570:
@@ -486,12 +486,12 @@ translate ru SailorPath3_8dabc570:
 # SailorPath3_7b6d1aa0 (line 27299)
 translate ru SailorPath3_7b6d1aa0:
     # cb "Old pal of mine, works for the Marionese family."
-    cb ""
+    cb "Old pal of mine, works for the Marionese family."
 
 # SailorPath3_fcbf5f6c (line 27300)
 translate ru SailorPath3_fcbf5f6c:
     # s "Marionese?"
-    s ""
+    s "Marionese?"
 
 # SailorPath3_5ff06ea2 (line 27301)
 translate ru SailorPath3_5ff06ea2:
@@ -501,17 +501,17 @@ translate ru SailorPath3_5ff06ea2:
 # SailorPath3_733df960 (line 27302)
 translate ru SailorPath3_733df960:
     # cb "Fancy family, very wealthy. Best not to tangle with those types."
-    cb ""
+    cb "Fancy family, very wealthy. Best not to tangle with those types."
 
 # SailorPath3_b5c20241 (line 27303)
 translate ru SailorPath3_b5c20241:
     # cb "I always say you make money to spend money. Never trust a type that makes money just to hoard it."
-    cb ""
+    cb "I always say you make money to spend money. Never trust a type that makes money just to hoard it."
 
 # SailorPath3_41d7f0e7 (line 27304)
 translate ru SailorPath3_41d7f0e7:
     # s "You don't want to be rich?"
-    s ""
+    s "You don't want to be rich?"
 
 # SailorPath3_2f34ff96 (line 27305)
 translate ru SailorPath3_2f34ff96:
@@ -521,12 +521,12 @@ translate ru SailorPath3_2f34ff96:
 # SailorPath3_d61a9eef (line 27306)
 translate ru SailorPath3_d61a9eef:
     # cb "I got my own ship. I get plenty of food in my belly. I have a fit girl like yourself."
-    cb ""
+    cb "I got my own ship. I get plenty of food in my belly. I have a fit girl like yourself."
 
 # SailorPath3_91982470 (line 27307)
 translate ru SailorPath3_91982470:
     # cb "In my book, that's rich."
-    cb ""
+    cb "In my book, that's rich."
 
 # SailorPath3_6c9e5b12 (line 27308)
 translate ru SailorPath3_6c9e5b12:
@@ -536,7 +536,7 @@ translate ru SailorPath3_6c9e5b12:
 # SailorPath3_a0e72e3d (line 27309)
 translate ru SailorPath3_a0e72e3d:
     # cb "Speaking of money..."
-    cb ""
+    cb "Speaking of money..."
 
 # SailorPath3_5e1e0df1 (line 27310)
 translate ru SailorPath3_5e1e0df1:
@@ -551,12 +551,12 @@ translate ru SailorPath3_6f7245c9:
 # SailorPath3_abddafa8 (line 27312)
 translate ru SailorPath3_abddafa8:
     # cb "Your pay, for two weeks work."
-    cb ""
+    cb "Your pay, for two weeks work."
 
 # SailorPath3_dc278856 (line 27313)
 translate ru SailorPath3_dc278856:
     # s "My pay?"
-    s ""
+    s "My pay?"
 
 # SailorPath3_5afdd799 (line 27314)
 translate ru SailorPath3_5afdd799:
@@ -566,7 +566,7 @@ translate ru SailorPath3_5afdd799:
 # SailorPath3_903ed7fe (line 27315)
 translate ru SailorPath3_903ed7fe:
     # cb "You worked my ship, good as could be expected. Fair work, fair pay."
-    cb ""
+    cb "You worked my ship, good as could be expected. Fair work, fair pay."
 
 # SailorPath3_bfc605cb (line 27316)
 translate ru SailorPath3_bfc605cb:
@@ -576,12 +576,12 @@ translate ru SailorPath3_bfc605cb:
 # SailorPath3_156ac201 (line 27317)
 translate ru SailorPath3_156ac201:
     # s "I...thank you, captain Belmont."
-    s ""
+    s "I...thank you, captain Belmont."
 
 # SailorPath3_af2cf22d (line 27318)
 translate ru SailorPath3_af2cf22d:
     # cb "Don't worry about it, blondie."
-    cb ""
+    cb "Don't worry about it, blondie."
 
 # SailorPath3_812d98b4 (line 27319)
 translate ru SailorPath3_812d98b4:
@@ -591,7 +591,7 @@ translate ru SailorPath3_812d98b4:
 # SailorPath3_8b0c07bf (line 27320)
 translate ru SailorPath3_8b0c07bf:
     # cb "So, any plans big plans yet?"
-    cb ""
+    cb "So, any plans big plans yet?"
 
 # SailorPath3_93f08680 (line 27321)
 translate ru SailorPath3_93f08680:
@@ -646,7 +646,7 @@ translate ru SailorPath3_21a068c0:
 # SailorPath3_c489fe99 (line 27336)
 translate ru SailorPath3_c489fe99:
     # s "H-h-hello?"
-    s ""
+    s "H-h-hello?"
 
 # SailorPath3_a0e77780 (line 27337)
 translate ru SailorPath3_a0e77780:
@@ -681,7 +681,7 @@ translate ru SailorPath3_9165d248:
 # SailorPath3_85c1af28 (line 27343)
 translate ru SailorPath3_85c1af28:
     # s "Who are you?"
-    s ""
+    s "Who are you?"
 
 # SailorPath3_7af32aac (line 27344)
 translate ru SailorPath3_7af32aac:
@@ -716,12 +716,12 @@ translate ru SailorPath3_62f6d9e6:
 # SailorPath3_3acd22e8 (line 27358)
 translate ru SailorPath3_3acd22e8:
     # cb "You ok blondie?"
-    cb ""
+    cb "You ok blondie?"
 
 # SailorPath3_340d1c56 (line 27359)
 translate ru SailorPath3_340d1c56:
     # cb "You lookin a bit paler than usual, which is sayin somethin."
-    cb ""
+    cb "You lookin a bit paler than usual, which is sayin somethin."
 
 # SailorPath3_b6fe3ab4 (line 27360)
 translate ru SailorPath3_b6fe3ab4:
@@ -736,7 +736,7 @@ translate ru SailorPath3_29fdad4d:
 # SailorPath3_00033485 (line 27362)
 translate ru SailorPath3_00033485:
     # s "I'm fine...thank you..."
-    s ""
+    s "I'm fine...thank you..."
 
 # SailorPath3_2e018b1c (line 27363)
 translate ru SailorPath3_2e018b1c:
@@ -762,24 +762,4 @@ translate ru SailorPath3_d8cba065:
 translate ru SailorPath3_9e2470b7:
     # "Sarah turned back to face captain Belmont."
     ""
-
-# SailorPath3_a52b70c6 (line 27370)
-translate ru SailorPath3_a52b70c6:
-    # "I'll find my way in the city"
-    "I'll find my way in the city" ""
-
-# SailorPath3_36a349e8 (line 27392)
-translate ru SailorPath3_36a349e8:
-    # "I have to leave"
-    "I have to leave" ""
-
-# SailorPath3_1ce73a92 (line 27401)
-translate ru SailorPath3_1ce73a92:
-    # "One drink can't hurt"
-    "One drink can't hurt" ""
-
-# SailorPath3_7c1f77cc (line 27525)
-translate ru SailorPath3_7c1f77cc:
-    # "I was thinking I might stay"
-    "I was thinking I might stay" ""
 

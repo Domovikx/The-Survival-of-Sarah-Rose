@@ -116,7 +116,7 @@ translate ru TrainingPathKate2_312b0719:
 # TrainingPathKate2_d9ff0092 (line 25489)
 translate ru TrainingPathKate2_d9ff0092:
     # s "Kate, are you ok?"
-    s ""
+    s "Kate, are you ok?"
 
 # TrainingPathKate2_e16d7132 (line 25490)
 translate ru TrainingPathKate2_e16d7132:
@@ -136,12 +136,12 @@ translate ru TrainingPathKate2_cad6f6f8:
 # TrainingPathKate2_768543d8 (line 25493)
 translate ru TrainingPathKate2_768543d8:
     # k "Sarah! Ooh I'm so happy to see you."
-    k ""
+    k "Sarah! Ooh I'm so happy to see you."
 
 # TrainingPathKate2_fa912491 (line 25494)
 translate ru TrainingPathKate2_fa912491:
     # k "We...we...had a session today, right? Wanna go train?"
-    k ""
+    k "We...we...had a session today, right? Wanna go train?"
 
 # TrainingPathKate2_ad93dbce (line 25495)
 translate ru TrainingPathKate2_ad93dbce:
@@ -151,7 +151,7 @@ translate ru TrainingPathKate2_ad93dbce:
 # TrainingPathKate2_1f066f15 (line 25496)
 translate ru TrainingPathKate2_1f066f15:
     # s "I think that's fine for today. I already did my training."
-    s ""
+    s "I think that's fine for today. I already did my training."
 
 # TrainingPathKate2_2ce73c11 (line 25497)
 translate ru TrainingPathKate2_2ce73c11:
@@ -161,7 +161,7 @@ translate ru TrainingPathKate2_2ce73c11:
 # TrainingPathKate2_322f33e6 (line 25498)
 translate ru TrainingPathKate2_322f33e6:
     # k "You're so good...you know that? Like...you're really good!"
-    k ""
+    k "You're so good...you know that? Like...you're really good!"
 
 # TrainingPathKate2_10dba570 (line 25499)
 translate ru TrainingPathKate2_10dba570:
@@ -171,7 +171,7 @@ translate ru TrainingPathKate2_10dba570:
 # TrainingPathKate2_194c2391 (line 25500)
 translate ru TrainingPathKate2_194c2391:
     # s "I'll take her out of here, ok? Better we let both sides cool off a bit."
-    s ""
+    s "I'll take her out of here, ok? Better we let both sides cool off a bit."
 
 # TrainingPathKate2_8d2f8a54 (line 25501)
 translate ru TrainingPathKate2_8d2f8a54:
@@ -211,7 +211,7 @@ translate ru TrainingPathKate2_1844813e:
 # TrainingPathKate2_24719165 (line 25518)
 translate ru TrainingPathKate2_24719165:
     # k "Huh...birds..."
-    k ""
+    k "Huh...birds..."
 
 # TrainingPathKate2_f2ee782a (line 25519)
 translate ru TrainingPathKate2_f2ee782a:
@@ -231,7 +231,7 @@ translate ru TrainingPathKate2_55ef083f:
 # TrainingPathKate2_3a1460b0 (line 25522)
 translate ru TrainingPathKate2_3a1460b0:
     # s "Kate..."
-    s ""
+    s "Kate..."
 
 # TrainingPathKate2_b512018a (line 25523)
 translate ru TrainingPathKate2_b512018a:
@@ -241,7 +241,7 @@ translate ru TrainingPathKate2_b512018a:
 # TrainingPathKate2_a80372b8 (line 25524)
 translate ru TrainingPathKate2_a80372b8:
     # s "I thought you had been doing better...with this..."
-    s ""
+    s "I thought you had been doing better...with this..."
 
 # TrainingPathKate2_4a7aa953 (line 25525)
 translate ru TrainingPathKate2_4a7aa953:
@@ -261,7 +261,7 @@ translate ru TrainingPathKate2_dd0f8875:
 # TrainingPathKate2_4d0a79dc (line 25528)
 translate ru TrainingPathKate2_4d0a79dc:
     # k "I was...I mean, I was still drinking, but I hadn't...not like this..."
-    k ""
+    k "I was...I mean, I was still drinking, but I hadn't...not like this..."
 
 # TrainingPathKate2_30528121 (line 25529)
 translate ru TrainingPathKate2_30528121:
@@ -271,7 +271,7 @@ translate ru TrainingPathKate2_30528121:
 # TrainingPathKate2_4d3ac6c6 (line 25530)
 translate ru TrainingPathKate2_4d3ac6c6:
     # s "But why...did anything happen?"
-    s ""
+    s "But why...did anything happen?"
 
 # TrainingPathKate2_7b8e52ca (line 25531)
 translate ru TrainingPathKate2_7b8e52ca:
@@ -281,32 +281,32 @@ translate ru TrainingPathKate2_7b8e52ca:
 # TrainingPathKate2_18a54784 (line 25532)
 translate ru TrainingPathKate2_18a54784:
     # k "It's not like that..."
-    k ""
+    k "It's not like that..."
 
 # TrainingPathKate2_f1e7e531 (line 25533)
 translate ru TrainingPathKate2_f1e7e531:
     # k "It's like an urge, like you're hungry. And you ignore it, and it kinda goes away for a bit, but then next time it shows up, and it's even worse..."
-    k ""
+    k "It's like an urge, like you're hungry. And you ignore it, and it kinda goes away for a bit, but then next time it shows up, and it's even worse..."
 
 # TrainingPathKate2_1a6e6e1c (line 25534)
 translate ru TrainingPathKate2_1a6e6e1c:
     # k "Then you push it away again, and it comes back worse again..."
-    k ""
+    k "Then you push it away again, and it comes back worse again..."
 
 # TrainingPathKate2_dfd7ef68 (line 25535)
 translate ru TrainingPathKate2_dfd7ef68:
     # k "I keep trying, I really am...but before I know it I find myself in some bar, knocking back a few drinks."
-    k ""
+    k "I keep trying, I really am...but before I know it I find myself in some bar, knocking back a few drinks."
 
 # TrainingPathKate2_7cd00323 (line 25536)
 translate ru TrainingPathKate2_7cd00323:
     # k "Then I say, sure I can handle the one, and I do another. One excuse, then another excuse, and by the end I think fuck it, I've drank this much..."
-    k ""
+    k "Then I say, sure I can handle the one, and I do another. One excuse, then another excuse, and by the end I think fuck it, I've drank this much..."
 
 # TrainingPathKate2_f3abfd26 (line 25537)
 translate ru TrainingPathKate2_f3abfd26:
     # k "That's when you found me..."
-    k ""
+    k "That's when you found me..."
 
 # TrainingPathKate2_009e6457 (line 25538)
 translate ru TrainingPathKate2_009e6457:
@@ -316,7 +316,7 @@ translate ru TrainingPathKate2_009e6457:
 # TrainingPathKate2_6d0e9be1 (line 25539)
 translate ru TrainingPathKate2_6d0e9be1:
     # s "I understand that you didn't have the easiest life, Kate, but I don't think doing this is what's gonna make you happy."
-    s ""
+    s "I understand that you didn't have the easiest life, Kate, but I don't think doing this is what's gonna make you happy."
 
 # TrainingPathKate2_d12a9c7d (line 25540)
 translate ru TrainingPathKate2_d12a9c7d:
@@ -326,12 +326,12 @@ translate ru TrainingPathKate2_d12a9c7d:
 # TrainingPathKate2_0d630550 (line 25541)
 translate ru TrainingPathKate2_0d630550:
     # k "Happy...I gave up on that a long time ago..."
-    k ""
+    k "Happy...I gave up on that a long time ago..."
 
 # TrainingPathKate2_0b3aa897 (line 25542)
 translate ru TrainingPathKate2_0b3aa897:
     # k "Vaelen...he gave me a purpose, made my life have meaning. He never said shit about being happy."
-    k ""
+    k "Vaelen...he gave me a purpose, made my life have meaning. He never said shit about being happy."
 
 # TrainingPathKate2_b9cdfd6f (line 25543)
 translate ru TrainingPathKate2_b9cdfd6f:
@@ -341,7 +341,7 @@ translate ru TrainingPathKate2_b9cdfd6f:
 # TrainingPathKate2_8ebf2dac (line 25544)
 translate ru TrainingPathKate2_8ebf2dac:
     # k "Survive, try to have more good days than bad days, what more can I ask for?"
-    k ""
+    k "Survive, try to have more good days than bad days, what more can I ask for?"
 
 # TrainingPathKate2_d1c86f50 (line 25545)
 translate ru TrainingPathKate2_d1c86f50:
@@ -356,7 +356,7 @@ translate ru TrainingPathKate2_27252b78:
 # TrainingPathKate2_654bb236 (line 25547)
 translate ru TrainingPathKate2_654bb236:
     # s "Kate...you go around beating yourself, drinking yourself into a stupor, all for what?"
-    s ""
+    s "Kate...you go around beating yourself, drinking yourself into a stupor, all for what?"
 
 # TrainingPathKate2_44d440d7 (line 25548)
 translate ru TrainingPathKate2_44d440d7:
@@ -366,22 +366,22 @@ translate ru TrainingPathKate2_44d440d7:
 # TrainingPathKate2_654cccb6 (line 25549)
 translate ru TrainingPathKate2_654cccb6:
     # s "So you'll be the saddest girl the world ever saw? So bards can sing songs about Kate the Depressed?"
-    s ""
+    s "So you'll be the saddest girl the world ever saw? So bards can sing songs about Kate the Depressed?"
 
 # TrainingPathKate2_e94c7631 (line 25550)
 translate ru TrainingPathKate2_e94c7631:
     # s "Life didn't give you a fair hand, but you survived. Not because of luck, not because someone gave it to you, but because you kept on fighting."
-    s ""
+    s "Life didn't give you a fair hand, but you survived. Not because of luck, not because someone gave it to you, but because you kept on fighting."
 
 # TrainingPathKate2_3ed7ea20 (line 25551)
 translate ru TrainingPathKate2_3ed7ea20:
     # s "You have a drive in you Kate, and it can't just all have been because you wanted to live a few days longer so you could drink a few days more."
-    s ""
+    s "You have a drive in you Kate, and it can't just all have been because you wanted to live a few days longer so you could drink a few days more."
 
 # TrainingPathKate2_ff472c25 (line 25552)
 translate ru TrainingPathKate2_ff472c25:
     # s "If all you wanted to do was survive, you would have stayed in Rosanna and never left."
-    s ""
+    s "If all you wanted to do was survive, you would have stayed in Rosanna and never left."
 
 # TrainingPathKate2_eb0f5744 (line 25553)
 translate ru TrainingPathKate2_eb0f5744:
@@ -391,17 +391,17 @@ translate ru TrainingPathKate2_eb0f5744:
 # TrainingPathKate2_9c9769d4 (line 25554)
 translate ru TrainingPathKate2_9c9769d4:
     # s "But you ran, exactly because you thought there could be more to life than just surviving."
-    s ""
+    s "But you ran, exactly because you thought there could be more to life than just surviving."
 
 # TrainingPathKate2_9e7bcc4d (line 25555)
 translate ru TrainingPathKate2_9e7bcc4d:
     # s "You ran towards something...and...maybe you got lost on the way..."
-    s ""
+    s "You ran towards something...and...maybe you got lost on the way..."
 
 # TrainingPathKate2_4858801b (line 25556)
 translate ru TrainingPathKate2_4858801b:
     # s "Maybe you struggled for so long that you forgot there was more to life than just the struggle, but you're here now..."
-    s ""
+    s "Maybe you struggled for so long that you forgot there was more to life than just the struggle, but you're here now..."
 
 # TrainingPathKate2_c4ed3c0d (line 25557)
 translate ru TrainingPathKate2_c4ed3c0d:
@@ -411,7 +411,7 @@ translate ru TrainingPathKate2_c4ed3c0d:
 # TrainingPathKate2_ae75610c (line 25558)
 translate ru TrainingPathKate2_ae75610c:
     # s "You're alive, you're a soldier...you have me..."
-    s ""
+    s "You're alive, you're a soldier...you have me..."
 
 # TrainingPathKate2_7dd0dced (line 25559)
 translate ru TrainingPathKate2_7dd0dced:
@@ -421,7 +421,7 @@ translate ru TrainingPathKate2_7dd0dced:
 # TrainingPathKate2_0bc4804d (line 25560)
 translate ru TrainingPathKate2_0bc4804d:
     # k "But I ruined that too...I hurt you, I hurt almost everyone I know..."
-    k ""
+    k "But I ruined that too...I hurt you, I hurt almost everyone I know..."
 
 # TrainingPathKate2_415acaa6 (line 25561)
 translate ru TrainingPathKate2_415acaa6:
@@ -431,7 +431,7 @@ translate ru TrainingPathKate2_415acaa6:
 # TrainingPathKate2_7823dd5f (line 25562)
 translate ru TrainingPathKate2_7823dd5f:
     # s "You didn't ruin anything. I'm still here. I'm not gonna let you chase me away."
-    s ""
+    s "You didn't ruin anything. I'm still here. I'm not gonna let you chase me away."
 
 # TrainingPathKate2_000fc281 (line 25563)
 translate ru TrainingPathKate2_000fc281:
@@ -441,12 +441,12 @@ translate ru TrainingPathKate2_000fc281:
 # TrainingPathKate2_b214fe35 (line 25564)
 translate ru TrainingPathKate2_b214fe35:
     # s "But this...Kate, you have to stop doing this to yourself."
-    s ""
+    s "But this...Kate, you have to stop doing this to yourself."
 
 # TrainingPathKate2_83bfb4c5 (line 25565)
 translate ru TrainingPathKate2_83bfb4c5:
     # s "You have to remember why you fought so hard to stay alive, why you left Rosanna in the first place."
-    s ""
+    s "You have to remember why you fought so hard to stay alive, why you left Rosanna in the first place."
 
 # TrainingPathKate2_b6e169d1 (line 25566)
 translate ru TrainingPathKate2_b6e169d1:
@@ -461,7 +461,7 @@ translate ru TrainingPathKate2_356467d7:
 # TrainingPathKate2_5b9a48b9 (line 25568)
 translate ru TrainingPathKate2_5b9a48b9:
     # k "What if I don't get better? What if I just keep messing everything up?"
-    k ""
+    k "What if I don't get better? What if I just keep messing everything up?"
 
 # TrainingPathKate2_2f33f114 (line 25569)
 translate ru TrainingPathKate2_2f33f114:
@@ -471,7 +471,7 @@ translate ru TrainingPathKate2_2f33f114:
 # TrainingPathKate2_f3c7275c (line 25570)
 translate ru TrainingPathKate2_f3c7275c:
     # s "Then I'll be here Kate. You just lean on me when things get rough, alright?"
-    s ""
+    s "Then I'll be here Kate. You just lean on me when things get rough, alright?"
 
 # TrainingPathKate2_5c41066d (line 25571)
 translate ru TrainingPathKate2_5c41066d:

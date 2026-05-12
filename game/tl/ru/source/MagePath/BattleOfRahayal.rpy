@@ -481,7 +481,7 @@ translate ru BattleOfRahayal_fadb4674:
 # BattleOfRahayal_5ca342c4 (line 91008)
 translate ru BattleOfRahayal_5ca342c4:
     # s "Why? You attacked first...what were we supposed to do?"
-    s ""
+    s "Why? You attacked first...what were we supposed to do?"
 
 # BattleOfRahayal_f0d96894 (line 91009)
 translate ru BattleOfRahayal_f0d96894:

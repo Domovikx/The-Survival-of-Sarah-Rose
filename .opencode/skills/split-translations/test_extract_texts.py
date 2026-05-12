@@ -101,8 +101,10 @@ class TestParsing:
     def test_parse_menu_choices(self, tmp_path, sample_script):
         extractor = RenPyTextExtractor(str(tmp_path), str(tmp_path))
         blocks = extractor.parse_file(sample_script)
+        extractor.parse_file_full(sample_script)
 
-        choices = [b for b in blocks if b.text_type == "menu_choice"]
+        # Menu choices now go to ui_strings (for old/new format)
+        choices = [b for b in extractor.ui_strings if b.text_type == "menu_choice"]
         assert len(choices) >= 2
 
     def test_scenes_created(self, tmp_path, sample_script):
@@ -252,7 +254,10 @@ class TestFullExtraction:
         types = set(b.text_type for b in extractor.texts)
         assert "dialogue" in types
         assert "narration" in types
-        assert "menu_choice" in types
+
+        # Menu choices go to ui_strings now
+        menu_in_ui = [b for b in extractor.ui_strings if b.text_type == "menu_choice"]
+        assert len(menu_in_ui) >= 2
 
     def test_save_format_creates_files(self, tmp_path):
         game_dir = tmp_path / "game"
@@ -282,6 +287,78 @@ class TestFullExtraction:
 
         char_dir = output_dir / "characters"
         assert char_dir.exists()
+
+    def test_menu_choices_go_to_ui_strings(self, tmp_path):
+        """Menu choices should be saved in screens.rpy with old/new format, not in scene files"""
+        game_dir = tmp_path / "game"
+        game_dir.mkdir()
+
+        script = game_dir / "script.rpy"
+        content = (
+            "label test_scene:\n"
+            '"Narration text."\n'
+            'menu choice_menu:\n'
+            '    "Choose"\n'
+            '    "Option A":\n'
+            '        s "Selected A"\n'
+            '    "Option B":\n'
+            '        s "Selected B"\n'
+        )
+        script.write_text(content, encoding='utf-8')
+
+        output_dir = tmp_path / "output"
+        output_dir.mkdir()
+
+        extractor = RenPyTextExtractor(str(game_dir), str(output_dir))
+        extractor.extract_all()
+        extractor.save_to_format()
+
+        ui_file = output_dir / "ui_strings" / "screens.rpy"
+        assert ui_file.exists()
+        content = ui_file.read_text(encoding='utf-8')
+        # "Choose" is filtered out, but "Option A" and "Option B" should be there
+        assert 'old "Option A"' in content
+        assert 'old "Option B"' in content
+
+    def test_preserves_existing_translations(self, tmp_path):
+        """Existing translations should be preserved when re-extracting"""
+        game_dir = tmp_path / "game"
+        game_dir.mkdir()
+
+        script = game_dir / "script.rpy"
+        content = (
+            "label test_scene:\n"
+            's "Hello world."\n'
+            '"Narration text."\n'
+        )
+        script.write_text(content, encoding='utf-8')
+
+        output_dir = tmp_path / "output"
+        output_dir.mkdir()
+
+        # First extraction
+        extractor = RenPyTextExtractor(str(game_dir), str(output_dir))
+        extractor.extract_all()
+        extractor.save_to_format()
+
+        # Modify one translation
+        arc_dir = output_dir / "Other"
+        if not arc_dir.exists():
+            arc_dir.mkdir()
+
+        scene_file = arc_dir / "test_scene.rpy"
+        scene_content = scene_file.read_text(encoding='utf-8')
+        scene_content = scene_content.replace('s ""', 's "Hello translated."')
+        scene_file.write_text(scene_content, encoding='utf-8')
+
+        # Re-extract (should preserve the translation)
+        extractor2 = RenPyTextExtractor(str(game_dir), str(output_dir))
+        extractor2.extract_all()
+        extractor2.save_to_format()
+
+        # Check translation was preserved
+        result = scene_file.read_text(encoding='utf-8')
+        assert 'Hello translated.' in result
 
 
 if __name__ == "__main__":

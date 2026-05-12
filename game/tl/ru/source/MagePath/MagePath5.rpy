@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: MagePath5
-# Total blocks: 155
+# Total blocks: 153
 
 # MagePath5_97e510d0 (line 70724)
 translate ru MagePath5_97e510d0:
@@ -126,7 +126,7 @@ translate ru MagePath5_93916b43:
 # MagePath5_1db1ff3e (line 70748)
 translate ru MagePath5_1db1ff3e:
     # s "Not fair. You're using new spells."
-    s ""
+    s "Not fair. You're using new spells."
 
 # MagePath5_b38d572c (line 70749)
 translate ru MagePath5_b38d572c:
@@ -136,12 +136,12 @@ translate ru MagePath5_b38d572c:
 # MagePath5_fb1593d8 (line 70750)
 translate ru MagePath5_fb1593d8:
     # x "Sorry, but I wasn't about to let my head get taken off for a practice lesson."
-    x ""
+    x "Sorry, but I wasn't about to let my head get taken off for a practice lesson."
 
 # MagePath5_0ef3ea2b (line 70751)
 translate ru MagePath5_0ef3ea2b:
     # s "You mean I was close."
-    s ""
+    s "You mean I was close."
 
 # MagePath5_8def0ebb (line 70752)
 translate ru MagePath5_8def0ebb:
@@ -151,7 +151,7 @@ translate ru MagePath5_8def0ebb:
 # MagePath5_e0c6038e (line 70753)
 translate ru MagePath5_e0c6038e:
     # x "My barrier would not have held much longer."
-    x ""
+    x "My barrier would not have held much longer."
 
 # MagePath5_c9837ef0 (line 70754)
 translate ru MagePath5_c9837ef0:
@@ -161,22 +161,22 @@ translate ru MagePath5_c9837ef0:
 # MagePath5_a132f584 (line 70755)
 translate ru MagePath5_a132f584:
     # s "So I almost defeated you?"
-    s ""
+    s "So I almost defeated you?"
 
 # MagePath5_d797274b (line 70756)
 translate ru MagePath5_d797274b:
     # x "Maybe, if I had kept up the barrier and done nothing else."
-    x ""
+    x "Maybe, if I had kept up the barrier and done nothing else."
 
 # MagePath5_91efa33b (line 70757)
 translate ru MagePath5_91efa33b:
     # x "But you'll have to understand that in a fight, a real fight, no magic user would just stand and absorb your hits like that."
-    x ""
+    x "But you'll have to understand that in a fight, a real fight, no magic user would just stand and absorb your hits like that."
 
 # MagePath5_b4c2c2fa (line 70758)
 translate ru MagePath5_b4c2c2fa:
     # x "In a real fight."
-    x ""
+    x "In a real fight."
 
 # MagePath5_200f59f8 (line 70759)
 translate ru MagePath5_200f59f8:
@@ -191,7 +191,7 @@ translate ru MagePath5_1c96a602:
 # MagePath5_07c2eb7e (line 70761)
 translate ru MagePath5_07c2eb7e:
     # x "A real mage would have been moving."
-    x ""
+    x "A real mage would have been moving."
 
 # MagePath5_559ae34e (line 70762)
 translate ru MagePath5_559ae34e:
@@ -206,7 +206,7 @@ translate ru MagePath5_5e2f54f9:
 # MagePath5_db3b36a3 (line 70764)
 translate ru MagePath5_db3b36a3:
     # x "And you're far from ready for that."
-    x ""
+    x "And you're far from ready for that."
 
 # MagePath5_18630e06 (line 70765)
 translate ru MagePath5_18630e06:
@@ -216,12 +216,12 @@ translate ru MagePath5_18630e06:
 # MagePath5_6937019f (line 70766)
 translate ru MagePath5_6937019f:
     # s "How did you..."
-    s ""
+    s "How did you..."
 
 # MagePath5_ed3db481 (line 70772)
 translate ru MagePath5_ed3db481:
     # x "Magic. That much should be obvious by now."
-    x ""
+    x "Magic. That much should be obvious by now."
 
 # MagePath5_18b289ac (line 70773)
 translate ru MagePath5_18b289ac:
@@ -231,17 +231,17 @@ translate ru MagePath5_18b289ac:
 # MagePath5_3c23d35e (line 70774)
 translate ru MagePath5_3c23d35e:
     # s "That's always your answer to everything."
-    s ""
+    s "That's always your answer to everything."
 
 # MagePath5_bc5c0e35 (line 70775)
 translate ru MagePath5_bc5c0e35:
     # x "And it's almost always true."
-    x ""
+    x "And it's almost always true."
 
 # MagePath5_dd347476 (line 70776)
 translate ru MagePath5_dd347476:
     # s "Still...how long before I can do that?"
-    s ""
+    s "Still...how long before I can do that?"
 
 # MagePath5_8bbe66ee (line 70777)
 translate ru MagePath5_8bbe66ee:
@@ -251,12 +251,12 @@ translate ru MagePath5_8bbe66ee:
 # MagePath5_11a13072 (line 70778)
 translate ru MagePath5_11a13072:
     # x "For most, I would say years, but for you Sarah, I don't know. Maybe months, maybe only weeks..."
-    x ""
+    x "For most, I would say years, but for you Sarah, I don't know. Maybe months, maybe only weeks..."
 
 # MagePath5_d37e028b (line 70779)
 translate ru MagePath5_d37e028b:
     # x "You're progressing so much faster than even I could have even dared to hope."
-    x ""
+    x "You're progressing so much faster than even I could have even dared to hope."
 
 # MagePath5_899251c2 (line 70780)
 translate ru MagePath5_899251c2:
@@ -271,7 +271,7 @@ translate ru MagePath5_e9d08539:
 # MagePath5_dfe71ab3 (line 70782)
 translate ru MagePath5_dfe71ab3:
     # s "A prodigy, huh?."
-    s ""
+    s "A prodigy, huh?."
 
 # MagePath5_7acaa5e6 (line 70783)
 translate ru MagePath5_7acaa5e6:
@@ -281,17 +281,17 @@ translate ru MagePath5_7acaa5e6:
 # MagePath5_f28bb538 (line 70784)
 translate ru MagePath5_f28bb538:
     # x "A natural aptitude, but such is no replacement for commitment. That's what's changed."
-    x ""
+    x "A natural aptitude, but such is no replacement for commitment. That's what's changed."
 
 # MagePath5_12128ace (line 70785)
 translate ru MagePath5_12128ace:
     # s "You think I wasn't trying before?"
-    s ""
+    s "You think I wasn't trying before?"
 
 # MagePath5_6124cbdc (line 70786)
 translate ru MagePath5_6124cbdc:
     # x "Maybe you were, but not like you've been working for the last few months."
-    x ""
+    x "Maybe you were, but not like you've been working for the last few months."
 
 # MagePath5_5593a4a8 (line 70787)
 translate ru MagePath5_5593a4a8:
@@ -316,7 +316,7 @@ translate ru MagePath5_79d7c999:
 # MagePath5_2df9807c (line 70791)
 translate ru MagePath5_2df9807c:
     # s "I think it just took some time to click for me, you know?"
-    s ""
+    s "I think it just took some time to click for me, you know?"
 
 # MagePath5_1e5b8a70 (line 70792)
 translate ru MagePath5_1e5b8a70:
@@ -331,12 +331,12 @@ translate ru MagePath5_df24126a:
 # MagePath5_3771ab7c (line 70794)
 translate ru MagePath5_3771ab7c:
     # x "Magic comes to each in their own speed. For you perhaps faster than most, but still, you should not push yourself too much. There is plenty of time."
-    x ""
+    x "Magic comes to each in their own speed. For you perhaps faster than most, but still, you should not push yourself too much. There is plenty of time."
 
 # MagePath5_d3c60376 (line 70795)
 translate ru MagePath5_d3c60376:
     # s "Plenty of time?"
-    s ""
+    s "Plenty of time?"
 
 # MagePath5_56663b9a (line 70796)
 translate ru MagePath5_56663b9a:
@@ -346,7 +346,7 @@ translate ru MagePath5_56663b9a:
 # MagePath5_280c098c (line 70797)
 translate ru MagePath5_280c098c:
     # x "Of course. You have a lifetime to master it."
-    x ""
+    x "Of course. You have a lifetime to master it."
 
 # MagePath5_e3fcdabf (line 70798)
 translate ru MagePath5_e3fcdabf:
@@ -361,7 +361,7 @@ translate ru MagePath5_a3f7e9a8:
 # MagePath5_4ebdf99d (line 70800)
 translate ru MagePath5_4ebdf99d:
     # s "So, now that I've mastered that spell, what comes next?"
-    s ""
+    s "So, now that I've mastered that spell, what comes next?"
 
 # MagePath5_c7a62d5b (line 70801)
 translate ru MagePath5_c7a62d5b:
@@ -371,17 +371,17 @@ translate ru MagePath5_c7a62d5b:
 # MagePath5_94fcb47c (line 70802)
 translate ru MagePath5_94fcb47c:
     # x "I hardly doubt you've mastered it."
-    x ""
+    x "I hardly doubt you've mastered it."
 
 # MagePath5_8ad167ab (line 70803)
 translate ru MagePath5_8ad167ab:
     # s "Fine, whatever, I can do it just fine. I want to know what comes next."
-    s ""
+    s "Fine, whatever, I can do it just fine. I want to know what comes next."
 
 # MagePath5_d710f5a1 (line 70804)
 translate ru MagePath5_d710f5a1:
     # x "Didn't I just say you shouldn't rush?"
-    x ""
+    x "Didn't I just say you shouldn't rush?"
 
 # MagePath5_5ec1b3c5 (line 70805)
 translate ru MagePath5_5ec1b3c5:
@@ -391,12 +391,12 @@ translate ru MagePath5_5ec1b3c5:
 # MagePath5_afd611f5 (line 70806)
 translate ru MagePath5_afd611f5:
     # s "I've barely broken a sweat. I can keep going."
-    s ""
+    s "I've barely broken a sweat. I can keep going."
 
 # MagePath5_143173b5 (line 70807)
 translate ru MagePath5_143173b5:
     # x "You, maybe, but I'm not as young as I may appear. Holding off those attacks takes a lot out of me."
-    x ""
+    x "You, maybe, but I'm not as young as I may appear. Holding off those attacks takes a lot out of me."
 
 # MagePath5_367da6ed (line 70808)
 translate ru MagePath5_367da6ed:
@@ -416,12 +416,12 @@ translate ru MagePath5_a5bab9b5:
 # MagePath5_9e74f224 (line 70811)
 translate ru MagePath5_9e74f224:
     # s "What comes after this?"
-    s ""
+    s "What comes after this?"
 
 # MagePath5_8081029c (line 70812)
 translate ru MagePath5_8081029c:
     # x "The next spell? Ooh, I'll have to see, I'm thinking your first transubstantion spell, that should prove a challenge."
-    x ""
+    x "The next spell? Ooh, I'll have to see, I'm thinking your first transubstantion spell, that should prove a challenge."
 
 # MagePath5_8964edd4 (line 70813)
 translate ru MagePath5_8964edd4:
@@ -431,12 +431,12 @@ translate ru MagePath5_8964edd4:
 # MagePath5_9fa246e9 (line 70814)
 translate ru MagePath5_9fa246e9:
     # s "No, I'm not talking about the next spell, or the spell after that."
-    s ""
+    s "No, I'm not talking about the next spell, or the spell after that."
 
 # MagePath5_9901391f (line 70815)
 translate ru MagePath5_9901391f:
     # s "I'm asking where this road leads to? In the long term."
-    s ""
+    s "I'm asking where this road leads to? In the long term."
 
 # MagePath5_36e4d9c1 (line 70816)
 translate ru MagePath5_36e4d9c1:
@@ -446,57 +446,47 @@ translate ru MagePath5_36e4d9c1:
 # MagePath5_10dc4f89 (line 70817)
 translate ru MagePath5_10dc4f89:
     # x "You'll be my apprentice for a few years more, until I decide you've learned enough."
-    x ""
+    x "You'll be my apprentice for a few years more, until I decide you've learned enough."
 
 # MagePath5_d4a9dffd (line 70818)
 translate ru MagePath5_d4a9dffd:
     # x "Then you'll be introduced to the masters in the citadel, who can decide whether you're ready."
-    x ""
+    x "Then you'll be introduced to the masters in the citadel, who can decide whether you're ready."
 
 # MagePath5_39e9c2c8 (line 70819)
 translate ru MagePath5_39e9c2c8:
     # x "If they allow it, you will be included into our order as a mage of the first tower."
-    x ""
+    x "If they allow it, you will be included into our order as a mage of the first tower."
 
 # MagePath5_0d8b4b56 (line 70820)
 translate ru MagePath5_0d8b4b56:
     # x "From there, you will continue your studies. Every few years you will advance, if you learn enough, to the ranks tower."
-    x ""
+    x "From there, you will continue your studies. Every few years you will advance, if you learn enough, to the ranks tower."
 
 # MagePath5_21b64369 (line 70821)
 translate ru MagePath5_21b64369:
     # x "When you're a mage of the fifth tower, you will be allowed to take on an apprentice."
-    x ""
+    x "When you're a mage of the fifth tower, you will be allowed to take on an apprentice."
 
 # MagePath5_9ddba0ec (line 70822)
 translate ru MagePath5_9ddba0ec:
     # x "Then you will teach them as I taught you."
-    x ""
+    x "Then you will teach them as I taught you."
 
 # MagePath5_f8334840 (line 70823)
 translate ru MagePath5_f8334840:
     # x "Maybe one day, centuries from now, you can retire to the elder circle, guide our order, and so on."
-    x ""
+    x "Maybe one day, centuries from now, you can retire to the elder circle, guide our order, and so on."
 
 # MagePath5_ae648a78 (line 70824)
 translate ru MagePath5_ae648a78:
     # "Sarah listened as Xan painted a picture of her life."
     ""
 
-# MagePath5_0c6250a5 (line 70827)
-translate ru MagePath5_0c6250a5:
-    # "That sounds nice."
-    "That sounds nice." ""
-
-# MagePath5_75d943f7 (line 70832)
-translate ru MagePath5_75d943f7:
-    # "That sounds horrible."
-    "That sounds horrible." ""
-
 # MagePath5_c73232e4 (line 70845)
 translate ru MagePath5_c73232e4:
     # s "But what about you?"
-    s ""
+    s "But what about you?"
 
 # MagePath5_f588278a (line 70851)
 translate ru MagePath5_f588278a:
@@ -506,22 +496,22 @@ translate ru MagePath5_f588278a:
 # MagePath5_e0430abd (line 70852)
 translate ru MagePath5_e0430abd:
     # x "What about me?"
-    x ""
+    x "What about me?"
 
 # MagePath5_21639694 (line 70853)
 translate ru MagePath5_21639694:
     # s "You're in here, out in the real world. You're not in the citadel, you're not studying in any tower."
-    s ""
+    s "You're in here, out in the real world. You're not in the citadel, you're not studying in any tower."
 
 # MagePath5_17ae32ee (line 70854)
 translate ru MagePath5_17ae32ee:
     # x "That's true, but I have my own labors to attend to."
-    x ""
+    x "That's true, but I have my own labors to attend to."
 
 # MagePath5_7f189b55 (line 70855)
 translate ru MagePath5_7f189b55:
     # s "Studying all alone in this house?"
-    s ""
+    s "Studying all alone in this house?"
 
 # MagePath5_54172821 (line 70856)
 translate ru MagePath5_54172821:
@@ -531,12 +521,12 @@ translate ru MagePath5_54172821:
 # MagePath5_6b1b0196 (line 70857)
 translate ru MagePath5_6b1b0196:
     # x "I get out, don't worry. Endless doors and rooms lead to ever corner of the world."
-    x ""
+    x "I get out, don't worry. Endless doors and rooms lead to ever corner of the world."
 
 # MagePath5_ef8ba681 (line 70858)
 translate ru MagePath5_ef8ba681:
     # x "Before I ran into you, I was quite busy."
-    x ""
+    x "Before I ran into you, I was quite busy."
 
 # MagePath5_a71ccccc (line 70859)
 translate ru MagePath5_a71ccccc:
@@ -546,22 +536,22 @@ translate ru MagePath5_a71ccccc:
 # MagePath5_73e87015 (line 70860)
 translate ru MagePath5_73e87015:
     # s "Doing what?"
-    s ""
+    s "Doing what?"
 
 # MagePath5_b9cbee52 (line 70861)
 translate ru MagePath5_b9cbee52:
     # x "My works."
-    x ""
+    x "My works."
 
 # MagePath5_70300d26 (line 70862)
 translate ru MagePath5_70300d26:
     # s "Which are."
-    s ""
+    s "Which are."
 
 # MagePath5_62b33dfd (line 70863)
 translate ru MagePath5_62b33dfd:
     # x "None of your concern, apprentice."
-    x ""
+    x "None of your concern, apprentice."
 
 # MagePath5_86687f27 (line 70864)
 translate ru MagePath5_86687f27:
@@ -571,12 +561,12 @@ translate ru MagePath5_86687f27:
 # MagePath5_d535efe6 (line 70865)
 translate ru MagePath5_d535efe6:
     # s "You do this a lot, you know. Keeping me in the dark..."
-    s ""
+    s "You do this a lot, you know. Keeping me in the dark..."
 
 # MagePath5_0862a1a9 (line 70866)
 translate ru MagePath5_0862a1a9:
     # x "I've taught you magic, isn't that enough?"
-    x ""
+    x "I've taught you magic, isn't that enough?"
 
 # MagePath5_93b2f1d3 (line 70867)
 translate ru MagePath5_93b2f1d3:
@@ -586,17 +576,17 @@ translate ru MagePath5_93b2f1d3:
 # MagePath5_13311571 (line 70868)
 translate ru MagePath5_13311571:
     # s "For all you've taught me, for all you've done for me, I still barely know you any better than when we first met."
-    s ""
+    s "For all you've taught me, for all you've done for me, I still barely know you any better than when we first met."
 
 # MagePath5_9683c0f6 (line 70869)
 translate ru MagePath5_9683c0f6:
     # x "Do teachers and students need to be friends?"
-    x ""
+    x "Do teachers and students need to be friends?"
 
 # MagePath5_0dbf7ed0 (line 70870)
 translate ru MagePath5_0dbf7ed0:
     # s "I'm not asking to be your friend. I just wish you'd let me understand what it is you do. It can't just be magic for magic's sake, I don't believe it."
-    s ""
+    s "I'm not asking to be your friend. I just wish you'd let me understand what it is you do. It can't just be magic for magic's sake, I don't believe it."
 
 # MagePath5_0e12e080 (line 70871)
 translate ru MagePath5_0e12e080:
@@ -606,12 +596,12 @@ translate ru MagePath5_0e12e080:
 # MagePath5_bf18baef (line 70872)
 translate ru MagePath5_bf18baef:
     # x "You're right, it's not."
-    x ""
+    x "You're right, it's not."
 
 # MagePath5_30ba3b11 (line 70873)
 translate ru MagePath5_30ba3b11:
     # x "We spoke of it, months ago when I took you to visit Rosanna."
-    x ""
+    x "We spoke of it, months ago when I took you to visit Rosanna."
 
 # MagePath5_0c192d64 (line 70874)
 translate ru MagePath5_0c192d64:
@@ -621,27 +611,27 @@ translate ru MagePath5_0c192d64:
 # MagePath5_e98d3cfb (line 70875)
 translate ru MagePath5_e98d3cfb:
     # x "As mages, we live very long lives. And as an order, we observe the world from far above."
-    x ""
+    x "As mages, we live very long lives. And as an order, we observe the world from far above."
 
 # MagePath5_18b20b0b (line 70876)
 translate ru MagePath5_18b20b0b:
     # x "But, while we observe, we do not only observe."
-    x ""
+    x "But, while we observe, we do not only observe."
 
 # MagePath5_1a0cfe4b (line 70877)
 translate ru MagePath5_1a0cfe4b:
     # x "The council has plans, designs, that it hopes can come about."
-    x ""
+    x "The council has plans, designs, that it hopes can come about."
 
 # MagePath5_df0f6093 (line 70878)
 translate ru MagePath5_df0f6093:
     # x "The council believes that with the proper guidance, we can steer this world towards peace, towards a future where the horrors of war, famine and all other tragedies can be done away with."
-    x ""
+    x "The council believes that with the proper guidance, we can steer this world towards peace, towards a future where the horrors of war, famine and all other tragedies can be done away with."
 
 # MagePath5_fe5466e2 (line 70879)
 translate ru MagePath5_fe5466e2:
     # x "A future where every soul, be it a king or a peasant, will be valued and safeguarded."
-    x ""
+    x "A future where every soul, be it a king or a peasant, will be valued and safeguarded."
 
 # MagePath5_73b21e7b (line 70880)
 translate ru MagePath5_73b21e7b:
@@ -651,27 +641,27 @@ translate ru MagePath5_73b21e7b:
 # MagePath5_ee5694ba (line 70881)
 translate ru MagePath5_ee5694ba:
     # s "It sounds like a fantasy."
-    s ""
+    s "It sounds like a fantasy."
 
 # MagePath5_54f689ed (line 70882)
 translate ru MagePath5_54f689ed:
     # x "Perhaps, and it certainly is for now. But you do not see as we have seen."
-    x ""
+    x "Perhaps, and it certainly is for now. But you do not see as we have seen."
 
 # MagePath5_ff05356d (line 70883)
 translate ru MagePath5_ff05356d:
     # x "The world is brutal, but it used to be much more so."
-    x ""
+    x "The world is brutal, but it used to be much more so."
 
 # MagePath5_b756996f (line 70884)
 translate ru MagePath5_b756996f:
     # x "That is what we offer. A steady hand. And that is what I do, and some others. We are agents of that steady hand, seeking to implement this project of peace."
-    x ""
+    x "That is what we offer. A steady hand. And that is what I do, and some others. We are agents of that steady hand, seeking to implement this project of peace."
 
 # MagePath5_7099874b (line 70885)
 translate ru MagePath5_7099874b:
     # s "You pretend to be everywhere, and yet, I barely saw a single mage in my entire life."
-    s ""
+    s "You pretend to be everywhere, and yet, I barely saw a single mage in my entire life."
 
 # MagePath5_574de4fc (line 70886)
 translate ru MagePath5_574de4fc:
@@ -681,47 +671,47 @@ translate ru MagePath5_574de4fc:
 # MagePath5_c33780f4 (line 70887)
 translate ru MagePath5_c33780f4:
     # x "And that's how the council likes it."
-    x ""
+    x "And that's how the council likes it."
 
 # MagePath5_0786158c (line 70888)
 translate ru MagePath5_0786158c:
     # x "We are powerful, but we are few. We cannot bend this world through brute force, even if we might have a lot of it."
-    x ""
+    x "We are powerful, but we are few. We cannot bend this world through brute force, even if we might have a lot of it."
 
 # MagePath5_1752d98a (line 70889)
 translate ru MagePath5_1752d98a:
     # x "This world needs a steady hand, but that hand must also be gentle."
-    x ""
+    x "This world needs a steady hand, but that hand must also be gentle."
 
 # MagePath5_ac5e1972 (line 70890)
 translate ru MagePath5_ac5e1972:
     # x "A nudge here, a tug there."
-    x ""
+    x "A nudge here, a tug there."
 
 # MagePath5_5a3323df (line 70891)
 translate ru MagePath5_5a3323df:
     # x "Slowly we help the world along, to bring about the paradise that must be."
-    x ""
+    x "Slowly we help the world along, to bring about the paradise that must be."
 
 # MagePath5_a0159739 (line 70892)
 translate ru MagePath5_a0159739:
     # s "And Rosanna? That's just a stepping stone towards that paradise?"
-    s ""
+    s "And Rosanna? That's just a stepping stone towards that paradise?"
 
 # MagePath5_84038b03 (line 70893)
 translate ru MagePath5_84038b03:
     # x "It will sound cruel, but I will be honest with you Sarah, yes."
-    x ""
+    x "It will sound cruel, but I will be honest with you Sarah, yes."
 
 # MagePath5_34318bc7 (line 70894)
 translate ru MagePath5_34318bc7:
     # x "Your nation held millions of people, but it is home to less than one-hundreth of the world's total population."
-    x ""
+    x "Your nation held millions of people, but it is home to less than one-hundreth of the world's total population."
 
 # MagePath5_14f3ae05 (line 70895)
 translate ru MagePath5_14f3ae05:
     # x "I know the names of nations long forgotten. I walked their streets and witnessed them fall into ruin. Do you weep for them?"
-    x ""
+    x "I know the names of nations long forgotten. I walked their streets and witnessed them fall into ruin. Do you weep for them?"
 
 # MagePath5_3a8b21d8 (line 70896)
 translate ru MagePath5_3a8b21d8:
@@ -731,12 +721,12 @@ translate ru MagePath5_3a8b21d8:
 # MagePath5_24d3c3fd (line 70897)
 translate ru MagePath5_24d3c3fd:
     # x "You don't, because they mean nothing to you, and Rosanna still means everything to you."
-    x ""
+    x "You don't, because they mean nothing to you, and Rosanna still means everything to you."
 
 # MagePath5_b4f74839 (line 70898)
 translate ru MagePath5_b4f74839:
     # x "But that is a flaw in your perspective, a flaw that you will learn to overcome in the years that follow."
-    x ""
+    x "But that is a flaw in your perspective, a flaw that you will learn to overcome in the years that follow."
 
 # MagePath5_c36bc4b6 (line 70899)
 translate ru MagePath5_c36bc4b6:

@@ -6,7 +6,7 @@
 # WarriorPath1_66fbeac4 (line 38566)
 translate ru WarriorPath1_66fbeac4:
     # "The battlements fell quickly as the rest of the vanguard's soldiers made their way up the ladder."
-    ""
+    "Бойницы пали быстро, когда остальные солдаты авангарда поднялись по лестнице."
 
 # WarriorPath1_3b3b038b (line 38567)
 translate ru WarriorPath1_3b3b038b:
@@ -66,7 +66,7 @@ translate ru WarriorPath1_1df49d5e:
 # WarriorPath1_b6c4e995 (line 38578)
 translate ru WarriorPath1_b6c4e995:
     # s "Gather up!"
-    s ""
+    s "Gather up!"
 
 # WarriorPath1_936d1f88 (line 38579)
 translate ru WarriorPath1_936d1f88:
@@ -91,12 +91,12 @@ translate ru WarriorPath1_a2487c17:
 # WarriorPath1_2a6fe906 (line 38583)
 translate ru WarriorPath1_2a6fe906:
     # s "Our only chance is if we keep our momentum!"
-    s ""
+    s "Our only chance is if we keep our momentum!"
 
 # WarriorPath1_247cec10 (line 38584)
 translate ru WarriorPath1_247cec10:
     # s "You straggle, you get left behind."
-    s ""
+    s "You straggle, you get left behind."
 
 # WarriorPath1_6dc3b009 (line 38585)
 translate ru WarriorPath1_6dc3b009:
@@ -106,7 +106,7 @@ translate ru WarriorPath1_6dc3b009:
 # WarriorPath1_f832d195 (line 38586)
 translate ru WarriorPath1_f832d195:
     # s "First one in the palace gets double their share of the loot!"
-    s ""
+    s "First one in the palace gets double their share of the loot!"
 
 # WarriorPath1_1148b0b6 (line 38587)
 translate ru WarriorPath1_1148b0b6:
@@ -176,7 +176,7 @@ translate ru WarriorPath1_a242be4c:
 # WarriorPath1_8d503c50 (line 38600)
 translate ru WarriorPath1_8d503c50:
     # s "Charge!"
-    s ""
+    s "Charge!"
 
 # WarriorPath1_62032082 (line 38601)
 translate ru WarriorPath1_62032082:
@@ -251,7 +251,7 @@ translate ru WarriorPath1_0e55b485:
 # WarriorPath1_37ceaae4 (line 38615)
 translate ru WarriorPath1_37ceaae4:
     # s "Let them go. They're running away from the palace, no use wasting time trying to hunt them down."
-    s ""
+    s "Let them go. They're running away from the palace, no use wasting time trying to hunt them down."
 
 # WarriorPath1_cb95aae8 (line 38616)
 translate ru WarriorPath1_cb95aae8:
@@ -261,7 +261,7 @@ translate ru WarriorPath1_cb95aae8:
 # WarriorPath1_2a8c7a3a (line 38617)
 translate ru WarriorPath1_2a8c7a3a:
     # s "Press on!"
-    s ""
+    s "Press on!"
 
 # WarriorPath1_5b27b3c4 (line 38618)
 translate ru WarriorPath1_5b27b3c4:
@@ -336,12 +336,12 @@ translate ru WarriorPath1_51888a6a:
 # WarriorPath1_42a20dbd (line 38637)
 translate ru WarriorPath1_42a20dbd:
     # k "Sarah!"
-    k ""
+    k "Sarah!"
 
 # WarriorPath1_2533d8bd (line 38638)
 translate ru WarriorPath1_2533d8bd:
     # k "Over here!"
-    k ""
+    k "Over here!"
 
 # WarriorPath1_4302c7dc (line 38642)
 translate ru WarriorPath1_4302c7dc:
@@ -356,7 +356,7 @@ translate ru WarriorPath1_c6e62969:
 # WarriorPath1_4d600a89 (line 38644)
 translate ru WarriorPath1_4d600a89:
     # s "Kate!"
-    s ""
+    s "Kate!"
 
 # WarriorPath1_ad53533a (line 38645)
 translate ru WarriorPath1_ad53533a:
@@ -371,22 +371,22 @@ translate ru WarriorPath1_521a22e2:
 # WarriorPath1_ef844540 (line 38647)
 translate ru WarriorPath1_ef844540:
     # s "What's the situation?"
-    s ""
+    s "What's the situation?"
 
 # WarriorPath1_5988ff73 (line 38648)
 translate ru WarriorPath1_5988ff73:
     # k "We faced minimal resistance coming up on the palace. We arrived here just a bit before you."
-    k ""
+    k "We faced minimal resistance coming up on the palace. We arrived here just a bit before you."
 
 # WarriorPath1_f45940b3 (line 38649)
 translate ru WarriorPath1_f45940b3:
     # s "What about the other units?"
-    s ""
+    s "What about the other units?"
 
 # WarriorPath1_fb0fb9c4 (line 38650)
 translate ru WarriorPath1_fb0fb9c4:
     # k "Some are still making their way, but Sarah..."
-    k ""
+    k "Some are still making their way, but Sarah..."
 
 # WarriorPath1_45646378 (line 38651)
 translate ru WarriorPath1_45646378:
@@ -401,12 +401,12 @@ translate ru WarriorPath1_d011d4d6:
 # WarriorPath1_ee2d66c9 (line 38653)
 translate ru WarriorPath1_ee2d66c9:
     # s "What is it Kate, tell me."
-    s ""
+    s "What is it Kate, tell me."
 
 # WarriorPath1_3d6fcf8a (line 38654)
 translate ru WarriorPath1_3d6fcf8a:
     # k "The units lead by Caleb and Ephraim had arrived here first. They were waiting when we arrived and they...they've already went in."
-    k ""
+    k "The units lead by Caleb and Ephraim had arrived here first. They were waiting when we arrived and they...they've already went in."
 
 # WarriorPath1_48b14188 (line 38655)
 translate ru WarriorPath1_48b14188:
@@ -416,22 +416,22 @@ translate ru WarriorPath1_48b14188:
 # WarriorPath1_90e740d0 (line 38656)
 translate ru WarriorPath1_90e740d0:
     # s "They knew they had to wait here, to gather up all our strength before pressing into the palace."
-    s ""
+    s "They knew they had to wait here, to gather up all our strength before pressing into the palace."
 
 # WarriorPath1_b446ab03 (line 38657)
 translate ru WarriorPath1_b446ab03:
     # k "I know. I told them as much, but they...they just didn't listen."
-    k ""
+    k "I know. I told them as much, but they...they just didn't listen."
 
 # WarriorPath1_0dd9e857 (line 38658)
 translate ru WarriorPath1_0dd9e857:
     # s "Idiots. If they think they're going to get credit for going in first, despite my instructions, they'll have another thing coming."
-    s ""
+    s "Idiots. If they think they're going to get credit for going in first, despite my instructions, they'll have another thing coming."
 
 # WarriorPath1_88d1ce67 (line 38659)
 translate ru WarriorPath1_88d1ce67:
     # k "So what do we do?"
-    k ""
+    k "So what do we do?"
 
 # WarriorPath1_b83a7bdb (line 38660)
 translate ru WarriorPath1_b83a7bdb:
@@ -441,17 +441,17 @@ translate ru WarriorPath1_b83a7bdb:
 # WarriorPath1_4921cd8b (line 38661)
 translate ru WarriorPath1_4921cd8b:
     # s "If they went in by themselves, we should move up as well."
-    s ""
+    s "If they went in by themselves, we should move up as well."
 
 # WarriorPath1_ff1f6e62 (line 38662)
 translate ru WarriorPath1_ff1f6e62:
     # s "We have most of the soldiers here now, the rest can catch up later."
-    s ""
+    s "We have most of the soldiers here now, the rest can catch up later."
 
 # WarriorPath1_08827e9f (line 38663)
 translate ru WarriorPath1_08827e9f:
     # s "I'm more worried that they've gotten themselves into trouble."
-    s ""
+    s "I'm more worried that they've gotten themselves into trouble."
 
 # WarriorPath1_aa6c2356 (line 38664)
 translate ru WarriorPath1_aa6c2356:
@@ -461,7 +461,7 @@ translate ru WarriorPath1_aa6c2356:
 # WarriorPath1_9f9caea7 (line 38665)
 translate ru WarriorPath1_9f9caea7:
     # k "Alright, you heard the commander! Rally up and get ready to move into the palace."
-    k ""
+    k "Alright, you heard the commander! Rally up and get ready to move into the palace."
 
 # WarriorPath1_5373e6a0 (line 38666)
 translate ru WarriorPath1_5373e6a0:
@@ -491,7 +491,7 @@ translate ru WarriorPath1_d504d074:
 # WarriorPath1_b4d7030e (line 38671)
 translate ru WarriorPath1_b4d7030e:
     # s "Advance!"
-    s ""
+    s "Advance!"
 
 # WarriorPath1_c6eb5f2f (line 38672)
 translate ru WarriorPath1_c6eb5f2f:
@@ -526,7 +526,7 @@ translate ru WarriorPath1_e3ef6ace:
 # WarriorPath1_49a6cff0 (line 38687)
 translate ru WarriorPath1_49a6cff0:
     # s "Keep advancing down the hallway. The entrance to the western wing should be nearby."
-    s ""
+    s "Keep advancing down the hallway. The entrance to the western wing should be nearby."
 
 # WarriorPath1_8dd08187 (line 38688)
 translate ru WarriorPath1_8dd08187:
@@ -546,7 +546,7 @@ translate ru WarriorPath1_feaa2542:
 # WarriorPath1_b19b0614 (line 38691)
 translate ru WarriorPath1_b19b0614:
     # s "Move up!"
-    s ""
+    s "Move up!"
 
 # WarriorPath1_9f2693a7 (line 38692)
 translate ru WarriorPath1_9f2693a7:
@@ -646,7 +646,7 @@ translate ru WarriorPath1_66677118:
 # WarriorPath1_319a6844 (line 38721)
 translate ru WarriorPath1_319a6844:
     # s "Mage!"
-    s ""
+    s "Mage!"
 
 # WarriorPath1_8cf45920 (line 38729)
 translate ru WarriorPath1_8cf45920:
@@ -686,7 +686,7 @@ translate ru WarriorPath1_161351c3:
 # WarriorPath1_bc6abbf5 (line 38736)
 translate ru WarriorPath1_bc6abbf5:
     # s "Advance!"
-    s ""
+    s "Advance!"
 
 # WarriorPath1_09193ab5 (line 38737)
 translate ru WarriorPath1_09193ab5:
@@ -701,7 +701,7 @@ translate ru WarriorPath1_1dd03cdc:
 # WarriorPath1_743fde2e (line 38739)
 translate ru WarriorPath1_743fde2e:
     # k "Here, take this."
-    k ""
+    k "Here, take this."
 
 # WarriorPath1_d62eff90 (line 38740)
 translate ru WarriorPath1_d62eff90:
@@ -711,7 +711,7 @@ translate ru WarriorPath1_d62eff90:
 # WarriorPath1_284af4d8 (line 38741)
 translate ru WarriorPath1_284af4d8:
     # s "Thanks."
-    s ""
+    s "Thanks."
 
 # WarriorPath1_54680592 (line 38742)
 translate ru WarriorPath1_54680592:
@@ -801,7 +801,7 @@ translate ru WarriorPath1_df6bdb8b:
 # WarriorPath1_e9da28c9 (line 38766)
 translate ru WarriorPath1_e9da28c9:
     # s "Keep advancing!"
-    s ""
+    s "Keep advancing!"
 
 # WarriorPath1_bab03af1 (line 38767)
 translate ru WarriorPath1_bab03af1:
@@ -891,7 +891,7 @@ translate ru WarriorPath1_47d44a70:
 # WarriorPath1_7761e6fe (line 38784)
 translate ru WarriorPath1_7761e6fe:
     # ca "You wanna fucking take someone on? How about you try me!"
-    ca ""
+    ca "You wanna fucking take someone on? How about you try me!"
 
 # WarriorPath1_5bc44c9d (line 38785)
 translate ru WarriorPath1_5bc44c9d:
@@ -941,7 +941,7 @@ translate ru WarriorPath1_d14ce9c2:
 # WarriorPath1_3463c199 (line 38795)
 translate ru WarriorPath1_3463c199:
     # ep "Caleb!!!"
-    ep ""
+    ep "Caleb!!!"
 
 # WarriorPath1_803f2940 (line 38796)
 translate ru WarriorPath1_803f2940:
@@ -1131,7 +1131,7 @@ translate ru WarriorPath1_15bf5af7:
 # WarriorPath1_25bd923e (line 38840)
 translate ru WarriorPath1_25bd923e:
     # x "I..."
-    x ""
+    x "I..."
 
 # WarriorPath1_fca859de (line 38841)
 translate ru WarriorPath1_fca859de:
@@ -1156,17 +1156,17 @@ translate ru WarriorPath1_59fa064f:
 # WarriorPath1_cc62be0f (line 38845)
 translate ru WarriorPath1_cc62be0f:
     # x "Where...where did you come from?"
-    x ""
+    x "Where...where did you come from?"
 
 # WarriorPath1_a31be159 (line 38846)
 translate ru WarriorPath1_a31be159:
     # x "Is this..."
-    x ""
+    x "Is this..."
 
 # WarriorPath1_a97cfa15 (line 38847)
 translate ru WarriorPath1_a97cfa15:
     # x "I don't...I don't understand..."
-    x ""
+    x "I don't...I don't understand..."
 
 # WarriorPath1_4e883035 (line 38848)
 translate ru WarriorPath1_4e883035:
@@ -1216,12 +1216,12 @@ translate ru WarriorPath1_8bd791ca:
 # WarriorPath1_fc0b0cc0 (line 38864)
 translate ru WarriorPath1_fc0b0cc0:
     # s "We celebrate after! Right now, I want every single one of you to continue on to the western wing!"
-    s ""
+    s "We celebrate after! Right now, I want every single one of you to continue on to the western wing!"
 
 # WarriorPath1_6ff8398e (line 38865)
 translate ru WarriorPath1_6ff8398e:
     # s "You want to honour me? Then honour me by bringing me my prize!"
-    s ""
+    s "You want to honour me? Then honour me by bringing me my prize!"
 
 # WarriorPath1_bc21dc31 (line 38866)
 translate ru WarriorPath1_bc21dc31:
@@ -1241,12 +1241,12 @@ translate ru WarriorPath1_78c0a489:
 # WarriorPath1_6db60637 (line 38876)
 translate ru WarriorPath1_6db60637:
     # k "Sarah!"
-    k ""
+    k "Sarah!"
 
 # WarriorPath1_f77203a9 (line 38877)
 translate ru WarriorPath1_f77203a9:
     # k "Are you alright?"
-    k ""
+    k "Are you alright?"
 
 # WarriorPath1_1679c90e (line 38878)
 translate ru WarriorPath1_1679c90e:
@@ -1256,27 +1256,27 @@ translate ru WarriorPath1_1679c90e:
 # WarriorPath1_ba5fb97c (line 38879)
 translate ru WarriorPath1_ba5fb97c:
     # s "Yeah, I think I am."
-    s ""
+    s "Yeah, I think I am."
 
 # WarriorPath1_b8fd7f32 (line 38880)
 translate ru WarriorPath1_b8fd7f32:
     # k "That was...how did you do that?"
-    k ""
+    k "That was...how did you do that?"
 
 # WarriorPath1_b67bdd86 (line 38881)
 translate ru WarriorPath1_b67bdd86:
     # s "I don't know. It wasn't anything I did, he just...he seemed not to notice me and when I got up he had his back to me and..."
-    s ""
+    s "I don't know. It wasn't anything I did, he just...he seemed not to notice me and when I got up he had his back to me and..."
 
 # WarriorPath1_d6637da7 (line 38882)
 translate ru WarriorPath1_d6637da7:
     # k "It was incredible!"
-    k ""
+    k "It was incredible!"
 
 # WarriorPath1_3535a07a (line 38883)
 translate ru WarriorPath1_3535a07a:
     # k "You killed a mage! You know how many people can say that?"
-    k ""
+    k "You killed a mage! You know how many people can say that?"
 
 # WarriorPath1_f28a0f2c (line 38884)
 translate ru WarriorPath1_f28a0f2c:
@@ -1306,12 +1306,12 @@ translate ru WarriorPath1_b6482b7f:
 # WarriorPath1_288a1a0a (line 38889)
 translate ru WarriorPath1_288a1a0a:
     # k "I was so scared. I really thought when he got that close to you that it was over..."
-    k ""
+    k "I was so scared. I really thought when he got that close to you that it was over..."
 
 # WarriorPath1_877220df (line 38890)
 translate ru WarriorPath1_877220df:
     # s "Yeah, me too."
-    s ""
+    s "Yeah, me too."
 
 # WarriorPath1_95c3ad64 (line 38902)
 translate ru WarriorPath1_95c3ad64:
@@ -1336,7 +1336,7 @@ translate ru WarriorPath1_3c198fe4:
 # WarriorPath1_cc5ea479 (line 38914)
 translate ru WarriorPath1_cc5ea479:
     # s "Ephraim..."
-    s ""
+    s "Ephraim..."
 
 # WarriorPath1_1ccfa02a (line 38915)
 translate ru WarriorPath1_1ccfa02a:
@@ -1346,12 +1346,12 @@ translate ru WarriorPath1_1ccfa02a:
 # WarriorPath1_5126c788 (line 38916)
 translate ru WarriorPath1_5126c788:
     # s "Ephraim...I saw what happened."
-    s ""
+    s "Ephraim...I saw what happened."
 
 # WarriorPath1_7add7ce7 (line 38917)
 translate ru WarriorPath1_7add7ce7:
     # s "Will Caleb be alright?"
-    s ""
+    s "Will Caleb be alright?"
 
 # WarriorPath1_06f9f388 (line 38918)
 translate ru WarriorPath1_06f9f388:
@@ -1366,7 +1366,7 @@ translate ru WarriorPath1_ea06efec:
 # WarriorPath1_8580c762 (line 38922)
 translate ru WarriorPath1_8580c762:
     # ep "The medics just took him away. They said he should be fine. Some light burn wounds and some head trauma."
-    ep ""
+    ep "The medics just took him away. They said he should be fine. Some light burn wounds and some head trauma."
 
 # WarriorPath1_71c61e86 (line 38923)
 translate ru WarriorPath1_71c61e86:
@@ -1376,17 +1376,17 @@ translate ru WarriorPath1_71c61e86:
 # WarriorPath1_6e410088 (line 38924)
 translate ru WarriorPath1_6e410088:
     # ep "Maybe me tackling him is going to end up having done the most damage to him."
-    ep ""
+    ep "Maybe me tackling him is going to end up having done the most damage to him."
 
 # WarriorPath1_02fb608e (line 38925)
 translate ru WarriorPath1_02fb608e:
     # s "Eph...if you hadn't stepped in, Caleb would have been dead."
-    s ""
+    s "Eph...if you hadn't stepped in, Caleb would have been dead."
 
 # WarriorPath1_0410dada (line 38927)
 translate ru WarriorPath1_0410dada:
     # ep "He just...he saw that this fucking mage was coming for me and then he..."
-    ep ""
+    ep "He just...he saw that this fucking mage was coming for me and then he..."
 
 # WarriorPath1_89dd8d58 (line 38928)
 translate ru WarriorPath1_89dd8d58:
@@ -1396,7 +1396,7 @@ translate ru WarriorPath1_89dd8d58:
 # WarriorPath1_c2c9ac68 (line 38929)
 translate ru WarriorPath1_c2c9ac68:
     # ep "I was so scared...Sarah"
-    ep ""
+    ep "I was so scared...Sarah"
 
 # WarriorPath1_47aaca72 (line 38930)
 translate ru WarriorPath1_47aaca72:
@@ -1406,17 +1406,17 @@ translate ru WarriorPath1_47aaca72:
 # WarriorPath1_7efaccdf (line 38931)
 translate ru WarriorPath1_7efaccdf:
     # s "He did what he did because...because he cared for you, Ephraim."
-    s ""
+    s "He did what he did because...because he cared for you, Ephraim."
 
 # WarriorPath1_6730b5d9 (line 38932)
 translate ru WarriorPath1_6730b5d9:
     # s "Caleb is the kind of guy that...he could never have lived with himself if he had stood by and watched someone he loved get hurt."
-    s ""
+    s "Caleb is the kind of guy that...he could never have lived with himself if he had stood by and watched someone he loved get hurt."
 
 # WarriorPath1_96d5987b (line 38933)
 translate ru WarriorPath1_96d5987b:
     # s "And he always acts before thinking."
-    s ""
+    s "And he always acts before thinking."
 
 # WarriorPath1_88ab04cb (line 38934)
 translate ru WarriorPath1_88ab04cb:
@@ -1426,12 +1426,12 @@ translate ru WarriorPath1_88ab04cb:
 # WarriorPath1_004d730e (line 38935)
 translate ru WarriorPath1_004d730e:
     # ep "Yeah...he really is like that."
-    ep ""
+    ep "Yeah...he really is like that."
 
 # WarriorPath1_a3d49c1c (line 38936)
 translate ru WarriorPath1_a3d49c1c:
     # ep "Why do I always have to love the foolish ones?"
-    ep ""
+    ep "Why do I always have to love the foolish ones?"
 
 # WarriorPath1_d791ad7d (line 38937)
 translate ru WarriorPath1_d791ad7d:
@@ -1441,7 +1441,7 @@ translate ru WarriorPath1_d791ad7d:
 # WarriorPath1_10a6ebd4 (line 38938)
 translate ru WarriorPath1_10a6ebd4:
     # ep "He and I, we've been doing this work ever since we left out village. Always side by side."
-    ep ""
+    ep "He and I, we've been doing this work ever since we left out village. Always side by side."
 
 # WarriorPath1_a898a535 (line 38939)
 translate ru WarriorPath1_a898a535:
@@ -1451,12 +1451,12 @@ translate ru WarriorPath1_a898a535:
 # WarriorPath1_f79e2d78 (line 38941)
 translate ru WarriorPath1_f79e2d78:
     # s "I know, Ephraim."
-    s ""
+    s "I know, Ephraim."
 
 # WarriorPath1_3fded5c4 (line 38942)
 translate ru WarriorPath1_3fded5c4:
     # s "I can't...I can't begin to think of what he means to you."
-    s ""
+    s "I can't...I can't begin to think of what he means to you."
 
 # WarriorPath1_60d9fd6d (line 38943)
 translate ru WarriorPath1_60d9fd6d:
@@ -1471,7 +1471,7 @@ translate ru WarriorPath1_397fce7b:
 # WarriorPath1_3586d6a5 (line 38947)
 translate ru WarriorPath1_3586d6a5:
     # s "Now Ephraim, look at me."
-    s ""
+    s "Now Ephraim, look at me."
 
 # WarriorPath1_d03ee156 (line 38948)
 translate ru WarriorPath1_d03ee156:
@@ -1481,17 +1481,17 @@ translate ru WarriorPath1_d03ee156:
 # WarriorPath1_ffa4a7e2 (line 38949)
 translate ru WarriorPath1_ffa4a7e2:
     # s "We're in the palace. This battle isn't over yet."
-    s ""
+    s "We're in the palace. This battle isn't over yet."
 
 # WarriorPath1_52687511 (line 38950)
 translate ru WarriorPath1_52687511:
     # s "We need to keep going. You need to keep going."
-    s ""
+    s "We need to keep going. You need to keep going."
 
 # WarriorPath1_b6190c21 (line 38951)
 translate ru WarriorPath1_b6190c21:
     # s "Don't stay here by yourself. If you die, him risking his life will have been for nothing."
-    s ""
+    s "Don't stay here by yourself. If you die, him risking his life will have been for nothing."
 
 # WarriorPath1_e605b2d9 (line 38952)
 translate ru WarriorPath1_e605b2d9:
@@ -1501,7 +1501,7 @@ translate ru WarriorPath1_e605b2d9:
 # WarriorPath1_ca301e89 (line 38953)
 translate ru WarriorPath1_ca301e89:
     # s "So get up."
-    s ""
+    s "So get up."
 
 # WarriorPath1_fafb708b (line 38954)
 translate ru WarriorPath1_fafb708b:
@@ -1516,7 +1516,7 @@ translate ru WarriorPath1_f8513aae:
 # WarriorPath1_13738fe0 (line 38956)
 translate ru WarriorPath1_13738fe0:
     # s "We're gonna teach these fuckers a lesson they won't soon forget."
-    s ""
+    s "We're gonna teach these fuckers a lesson they won't soon forget."
 
 # WarriorPath1_1b7bf484 (line 38963)
 translate ru WarriorPath1_1b7bf484:

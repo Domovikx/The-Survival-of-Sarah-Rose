@@ -341,7 +341,7 @@ translate ru LifeInRahayal1_6e4ac4b8:
 # LifeInRahayal1_456760e5 (line 27650)
 translate ru LifeInRahayal1_456760e5:
     # s "Ooh, hello. I...I'm sorry, am I taking up a spot?"
-    s ""
+    s "Ooh, hello. I...I'm sorry, am I taking up a spot?"
 
 # LifeInRahayal1_c634eed6 (line 27651)
 translate ru LifeInRahayal1_c634eed6:
@@ -386,7 +386,7 @@ translate ru LifeInRahayal1_85c4d9d9:
 # LifeInRahayal1_e6f1e8b9 (line 27659)
 translate ru LifeInRahayal1_e6f1e8b9:
     # s "That's...what is that smell?"
-    s ""
+    s "That's...what is that smell?"
 
 # LifeInRahayal1_325fc97c (line 27660)
 translate ru LifeInRahayal1_325fc97c:
@@ -396,7 +396,7 @@ translate ru LifeInRahayal1_325fc97c:
 # LifeInRahayal1_9136920e (line 27661)
 translate ru LifeInRahayal1_9136920e:
     # s "Dunstin?"
-    s ""
+    s "Dunstin?"
 
 # LifeInRahayal1_6b00def0 (line 27662)
 translate ru LifeInRahayal1_6b00def0:
@@ -406,17 +406,17 @@ translate ru LifeInRahayal1_6b00def0:
 # LifeInRahayal1_f599b121 (line 27663)
 translate ru LifeInRahayal1_f599b121:
     # s "Ramsey...Dunstin."
-    s ""
+    s "Ramsey...Dunstin."
 
 # LifeInRahayal1_136ad004 (line 27664)
 translate ru LifeInRahayal1_136ad004:
     # rams "That's right. Proud owner of this fine establishment."
-    rams ""
+    rams "That's right. Proud owner of this fine establishment."
 
 # LifeInRahayal1_a27faf1f (line 27665)
 translate ru LifeInRahayal1_a27faf1f:
     # rams "Got it from my parents, who got it from theirs. They say the Inn has been in our family for more than two centuries"
-    rams ""
+    rams "Got it from my parents, who got it from theirs. They say the Inn has been in our family for more than two centuries"
 
 # LifeInRahayal1_7cbd2648 (line 27666)
 translate ru LifeInRahayal1_7cbd2648:
@@ -436,17 +436,17 @@ translate ru LifeInRahayal1_ca08827d:
 # LifeInRahayal1_68fb2318 (line 27669)
 translate ru LifeInRahayal1_68fb2318:
     # s "That's very impressive."
-    s ""
+    s "That's very impressive."
 
 # LifeInRahayal1_7bd4c0ac (line 27670)
 translate ru LifeInRahayal1_7bd4c0ac:
     # rams "Thank you kindly for the compliment, but I'll have to share some of that credit."
-    rams ""
+    rams "Thank you kindly for the compliment, but I'll have to share some of that credit."
 
 # LifeInRahayal1_b4c65f47 (line 27671)
 translate ru LifeInRahayal1_b4c65f47:
     # s "Share it?"
-    s ""
+    s "Share it?"
 
 # LifeInRahayal1_7cccf7f6 (line 27672)
 translate ru LifeInRahayal1_7cccf7f6:
@@ -456,7 +456,7 @@ translate ru LifeInRahayal1_7cccf7f6:
 # LifeInRahayal1_07739698 (line 27673)
 translate ru LifeInRahayal1_07739698:
     # rams "This here is a family business, and I couldn't run it without my family."
-    rams ""
+    rams "This here is a family business, and I couldn't run it without my family."
 
 # LifeInRahayal1_4abe3ff9 (line 27679)
 translate ru LifeInRahayal1_4abe3ff9:
@@ -471,7 +471,7 @@ translate ru LifeInRahayal1_175c839a:
 # LifeInRahayal1_12dabb29 (line 27681)
 translate ru LifeInRahayal1_12dabb29:
     # rams "Thems my kids, Jacob and Elsa. Dunstin of course, gotta carry the family name."
-    rams ""
+    rams "Thems my kids, Jacob and Elsa. Dunstin of course, gotta carry the family name."
 
 # LifeInRahayal1_8b12cb73 (line 27682)
 translate ru LifeInRahayal1_8b12cb73:
@@ -486,27 +486,27 @@ translate ru LifeInRahayal1_573cbb77:
 # LifeInRahayal1_e7c6c18e (line 27684)
 translate ru LifeInRahayal1_e7c6c18e:
     # s "You have a beautiful family."
-    s ""
+    s "You have a beautiful family."
 
 # LifeInRahayal1_c1aa1c8d (line 27685)
 translate ru LifeInRahayal1_c1aa1c8d:
     # rams "Thank you kindly."
-    rams ""
+    rams "Thank you kindly."
 
 # LifeInRahayal1_3ab94604 (line 27686)
 translate ru LifeInRahayal1_3ab94604:
     # rams "But what about yourself? Not to be too intrusive, I know some guests like to keep to themselves, but we don't get a lot like you."
-    rams ""
+    rams "But what about yourself? Not to be too intrusive, I know some guests like to keep to themselves, but we don't get a lot like you."
 
 # LifeInRahayal1_65c73142 (line 27687)
 translate ru LifeInRahayal1_65c73142:
     # s "Like me?"
-    s ""
+    s "Like me?"
 
 # LifeInRahayal1_fbec59c5 (line 27688)
 translate ru LifeInRahayal1_fbec59c5:
     # rams "Pretty ladies travelling all by themselves."
-    rams ""
+    rams "Pretty ladies travelling all by themselves."
 
 # LifeInRahayal1_cb98f968 (line 27689)
 translate ru LifeInRahayal1_cb98f968:
@@ -516,27 +516,27 @@ translate ru LifeInRahayal1_cb98f968:
 # LifeInRahayal1_5f8b11b1 (line 27695)
 translate ru LifeInRahayal1_5f8b11b1:
     # s "I just arrived in the city...I hope it's not an issue."
-    s ""
+    s "I just arrived in the city...I hope it's not an issue."
 
 # LifeInRahayal1_e2ec2520 (line 27696)
 translate ru LifeInRahayal1_e2ec2520:
     # rams "An issue? By the Gods no, that ain't how I meant it."
-    rams ""
+    rams "An issue? By the Gods no, that ain't how I meant it."
 
 # LifeInRahayal1_e3dfeb96 (line 27697)
 translate ru LifeInRahayal1_e3dfeb96:
     # rams "Rahayal is just about the safest place in all the world. Even a lady by herself ain't got nothin to worry about."
-    rams ""
+    rams "Rahayal is just about the safest place in all the world. Even a lady by herself ain't got nothin to worry about."
 
 # LifeInRahayal1_a96719e6 (line 27698)
 translate ru LifeInRahayal1_a96719e6:
     # rams "It's just rare is all I'm sayin."
-    rams ""
+    rams "It's just rare is all I'm sayin."
 
 # LifeInRahayal1_da851b94 (line 27699)
 translate ru LifeInRahayal1_da851b94:
     # rams "But if I'm askin too many questions, just tell me to get lost. I sometimes forget myself and ramble on."
-    rams ""
+    rams "But if I'm askin too many questions, just tell me to get lost. I sometimes forget myself and ramble on."
 
 # LifeInRahayal1_57c2b617 (line 27700)
 translate ru LifeInRahayal1_57c2b617:
@@ -546,7 +546,7 @@ translate ru LifeInRahayal1_57c2b617:
 # LifeInRahayal1_19c3c4b8 (line 27701)
 translate ru LifeInRahayal1_19c3c4b8:
     # s "It's fine."
-    s ""
+    s "It's fine."
 
 # LifeInRahayal1_8a459975 (line 27702)
 translate ru LifeInRahayal1_8a459975:
@@ -556,12 +556,12 @@ translate ru LifeInRahayal1_8a459975:
 # LifeInRahayal1_014110eb (line 27703)
 translate ru LifeInRahayal1_014110eb:
     # s "I came in from Lethram, and I'm goin about seeing to finding some work."
-    s ""
+    s "I came in from Lethram, and I'm goin about seeing to finding some work."
 
 # LifeInRahayal1_0d55f2ed (line 27704)
 translate ru LifeInRahayal1_0d55f2ed:
     # s "Before that, I thought I might find a place to stay, so I came to this Inn."
-    s ""
+    s "Before that, I thought I might find a place to stay, so I came to this Inn."
 
 # LifeInRahayal1_41ad545e (line 27705)
 translate ru LifeInRahayal1_41ad545e:
@@ -571,17 +571,17 @@ translate ru LifeInRahayal1_41ad545e:
 # LifeInRahayal1_77ae9050 (line 27706)
 translate ru LifeInRahayal1_77ae9050:
     # rams "Well Gods, ain't no better Inn than the Dunstin Inn."
-    rams ""
+    rams "Well Gods, ain't no better Inn than the Dunstin Inn."
 
 # LifeInRahayal1_1fb4f515 (line 27707)
 translate ru LifeInRahayal1_1fb4f515:
     # rams "A fair price and we treat all our customers like family, not like those big places that just want your money."
-    rams ""
+    rams "A fair price and we treat all our customers like family, not like those big places that just want your money."
 
 # LifeInRahayal1_4130246a (line 27708)
 translate ru LifeInRahayal1_4130246a:
     # s "Ooh, so you have rooms to spare?"
-    s ""
+    s "Ooh, so you have rooms to spare?"
 
 # LifeInRahayal1_b887cfff (line 27709)
 translate ru LifeInRahayal1_b887cfff:
@@ -591,12 +591,12 @@ translate ru LifeInRahayal1_b887cfff:
 # LifeInRahayal1_46b8ee1d (line 27710)
 translate ru LifeInRahayal1_46b8ee1d:
     # rams "That we do. A few open actually, there is a nice one that has a view of the plaza outside."
-    rams ""
+    rams "That we do. A few open actually, there is a nice one that has a view of the plaza outside."
 
 # LifeInRahayal1_3cae3e60 (line 27711)
 translate ru LifeInRahayal1_3cae3e60:
     # s "And...the rate?"
-    s ""
+    s "And...the rate?"
 
 # LifeInRahayal1_ae56f629 (line 27712)
 translate ru LifeInRahayal1_ae56f629:
@@ -611,12 +611,12 @@ translate ru LifeInRahayal1_c0d1d4db:
 # LifeInRahayal1_e6289481 (line 27714)
 translate ru LifeInRahayal1_e6289481:
     # rams "Usual rate is about ten Mythrani to a night, but I can make you a discount."
-    rams ""
+    rams "Usual rate is about ten Mythrani to a night, but I can make you a discount."
 
 # LifeInRahayal1_38034c8b (line 27715)
 translate ru LifeInRahayal1_38034c8b:
     # s "A discount, really? Why?"
-    s ""
+    s "A discount, really? Why?"
 
 # LifeInRahayal1_73456e07 (line 27716)
 translate ru LifeInRahayal1_73456e07:
@@ -626,7 +626,7 @@ translate ru LifeInRahayal1_73456e07:
 # LifeInRahayal1_16409835 (line 27717)
 translate ru LifeInRahayal1_16409835:
     # rams "Keepin a pretty lady around is good for business."
-    rams ""
+    rams "Keepin a pretty lady around is good for business."
 
 # LifeInRahayal1_4cde54f5 (line 27718)
 translate ru LifeInRahayal1_4cde54f5:
@@ -661,7 +661,7 @@ translate ru LifeInRahayal1_a76b68d7:
 # LifeInRahayal1_3422335b (line 27724)
 translate ru LifeInRahayal1_3422335b:
     # s "Well, where I come from, turning down hospitality is considered poor manners, so I will take your discount."
-    s ""
+    s "Well, where I come from, turning down hospitality is considered poor manners, so I will take your discount."
 
 # LifeInRahayal1_40845a36 (line 27725)
 translate ru LifeInRahayal1_40845a36:
@@ -671,7 +671,7 @@ translate ru LifeInRahayal1_40845a36:
 # LifeInRahayal1_10b6b013 (line 27726)
 translate ru LifeInRahayal1_10b6b013:
     # rams "Excellent, I'll get my boy Jacob to fix you up a room. The one with the view."
-    rams ""
+    rams "Excellent, I'll get my boy Jacob to fix you up a room. The one with the view."
 
 # LifeInRahayal1_7037c1f6 (line 27727)
 translate ru LifeInRahayal1_7037c1f6:
@@ -681,12 +681,12 @@ translate ru LifeInRahayal1_7037c1f6:
 # LifeInRahayal1_b830a313 (line 27728)
 translate ru LifeInRahayal1_b830a313:
     # s "Thank you."
-    s ""
+    s "Thank you."
 
 # LifeInRahayal1_d30cc646 (line 27729)
 translate ru LifeInRahayal1_d30cc646:
     # s "Ooh, and one more thing."
-    s ""
+    s "Ooh, and one more thing."
 
 # LifeInRahayal1_4d83398e (line 27730)
 translate ru LifeInRahayal1_4d83398e:
@@ -696,12 +696,12 @@ translate ru LifeInRahayal1_4d83398e:
 # LifeInRahayal1_80c17c8f (line 27731)
 translate ru LifeInRahayal1_80c17c8f:
     # rams "Yes?"
-    rams ""
+    rams "Yes?"
 
 # LifeInRahayal1_0d1b5847 (line 27732)
 translate ru LifeInRahayal1_0d1b5847:
     # s "Might I ask for a bowl of that stew?"
-    s ""
+    s "Might I ask for a bowl of that stew?"
 
 # LifeInRahayal1_9ea7d3fd (line 27733)
 translate ru LifeInRahayal1_9ea7d3fd:
@@ -711,22 +711,22 @@ translate ru LifeInRahayal1_9ea7d3fd:
 # LifeInRahayal1_ec02356e (line 27734)
 translate ru LifeInRahayal1_ec02356e:
     # rams "Of course, first one is one the house."
-    rams ""
+    rams "Of course, first one is one the house."
 
 # LifeInRahayal1_db303f19 (line 27735)
 translate ru LifeInRahayal1_db303f19:
     # s "You're too kind."
-    s ""
+    s "You're too kind."
 
 # LifeInRahayal1_afe0aad9 (line 27736)
 translate ru LifeInRahayal1_afe0aad9:
     # rams "That ain't no kindness little lady."
-    rams ""
+    rams "That ain't no kindness little lady."
 
 # LifeInRahayal1_aefb5b3f (line 27737)
 translate ru LifeInRahayal1_aefb5b3f:
     # rams "Anybody that takes a bit from that stew is hooked."
-    rams ""
+    rams "Anybody that takes a bit from that stew is hooked."
 
 # LifeInRahayal1_c2c62fb2 (line 27739)
 translate ru LifeInRahayal1_c2c62fb2:
@@ -766,7 +766,7 @@ translate ru LifeInRahayal1_fb46ec30:
 # LifeInRahayal1_369ad1a8 (line 27746)
 translate ru LifeInRahayal1_369ad1a8:
     # s "What's in it?"
-    s ""
+    s "What's in it?"
 
 # LifeInRahayal1_9b87526b (line 27747)
 translate ru LifeInRahayal1_9b87526b:
@@ -776,7 +776,7 @@ translate ru LifeInRahayal1_9b87526b:
 # LifeInRahayal1_943243e3 (line 27748)
 translate ru LifeInRahayal1_943243e3:
     # rams "Old family secret, I'm afraid."
-    rams ""
+    rams "Old family secret, I'm afraid."
 
 # LifeInRahayal1_7b5e5da9 (line 27749)
 translate ru LifeInRahayal1_7b5e5da9:
@@ -811,7 +811,7 @@ translate ru LifeInRahayal1_56939a69:
 # LifeInRahayal1_bfabc13e (line 27760)
 translate ru LifeInRahayal1_bfabc13e:
     # jac "There we go."
-    jac ""
+    jac "There we go."
 
 # LifeInRahayal1_8f182065 (line 27761)
 translate ru LifeInRahayal1_8f182065:
@@ -821,7 +821,7 @@ translate ru LifeInRahayal1_8f182065:
 # LifeInRahayal1_8e46eda8 (line 27762)
 translate ru LifeInRahayal1_8e46eda8:
     # jac "This is the key to the room."
-    jac ""
+    jac "This is the key to the room."
 
 # LifeInRahayal1_8a11b360 (line 27763)
 translate ru LifeInRahayal1_8a11b360:
@@ -876,7 +876,7 @@ translate ru LifeInRahayal1_0b156988:
 # LifeInRahayal1_d5236178 (line 27773)
 translate ru LifeInRahayal1_d5236178:
     # j "If you have any questions, you can ask my dad, or me, or my sister Elsa."
-    j ""
+    j "If you have any questions, you can ask my dad, or me, or my sister Elsa."
 
 # LifeInRahayal1_3feac782 (line 27774)
 translate ru LifeInRahayal1_3feac782:
@@ -886,7 +886,7 @@ translate ru LifeInRahayal1_3feac782:
 # LifeInRahayal1_04b6dc95 (line 27775)
 translate ru LifeInRahayal1_04b6dc95:
     # s "It must be fun, running an Inn with your family."
-    s ""
+    s "It must be fun, running an Inn with your family."
 
 # LifeInRahayal1_768ea419 (line 27776)
 translate ru LifeInRahayal1_768ea419:
@@ -896,7 +896,7 @@ translate ru LifeInRahayal1_768ea419:
 # LifeInRahayal1_9a837c54 (line 27777)
 translate ru LifeInRahayal1_9a837c54:
     # j "I have to go back to work. Do you have any other questions?"
-    j ""
+    j "I have to go back to work. Do you have any other questions?"
 
 # LifeInRahayal1_6f450688 (line 27778)
 translate ru LifeInRahayal1_6f450688:

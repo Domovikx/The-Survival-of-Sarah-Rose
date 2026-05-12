@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: JaeidPath6
-# Total blocks: 459
+# Total blocks: 451
 
 # JaeidPath6_707f766f (line 21352)
 translate ru JaeidPath6_707f766f:
@@ -21,7 +21,7 @@ translate ru JaeidPath6_3d3e4cc9:
 # JaeidPath6_7108862f (line 21358)
 translate ru JaeidPath6_7108862f:
     # j "Aah, Sarah, there you are."
-    j ""
+    j "Aah, Sarah, there you are."
 
 # JaeidPath6_8dd0f686 (line 21359)
 translate ru JaeidPath6_8dd0f686:
@@ -31,7 +31,7 @@ translate ru JaeidPath6_8dd0f686:
 # JaeidPath6_32f7c81a (line 21360)
 translate ru JaeidPath6_32f7c81a:
     # s "Yes, I didn't have any other appointments today."
-    s ""
+    s "Yes, I didn't have any other appointments today."
 
 # JaeidPath6_34b46484 (line 21361)
 translate ru JaeidPath6_34b46484:
@@ -41,12 +41,12 @@ translate ru JaeidPath6_34b46484:
 # JaeidPath6_c9e327f1 (line 21362)
 translate ru JaeidPath6_c9e327f1:
     # s "How has your day been? I haven't seen much of you today. I was hoping we could have dinner together again."
-    s ""
+    s "How has your day been? I haven't seen much of you today. I was hoping we could have dinner together again."
 
 # JaeidPath6_5ab8aeac (line 21363)
 translate ru JaeidPath6_5ab8aeac:
     # j "That is actually why I came to see you."
-    j ""
+    j "That is actually why I came to see you."
 
 # JaeidPath6_b8c981e2 (line 21364)
 translate ru JaeidPath6_b8c981e2:
@@ -56,17 +56,17 @@ translate ru JaeidPath6_b8c981e2:
 # JaeidPath6_9cec5dd7 (line 21365)
 translate ru JaeidPath6_9cec5dd7:
     # j "The Khan has extended an invitation tonight."
-    j ""
+    j "The Khan has extended an invitation tonight."
 
 # JaeidPath6_8e545628 (line 21366)
 translate ru JaeidPath6_8e545628:
     # s "An invitation?"
-    s ""
+    s "An invitation?"
 
 # JaeidPath6_31f047f6 (line 21367)
 translate ru JaeidPath6_31f047f6:
     # j "To myself...and you as well."
-    j ""
+    j "To myself...and you as well."
 
 # JaeidPath6_988e6035 (line 21368)
 translate ru JaeidPath6_988e6035:
@@ -76,7 +76,7 @@ translate ru JaeidPath6_988e6035:
 # JaeidPath6_7ff644cf (line 21369)
 translate ru JaeidPath6_7ff644cf:
     # s "I...the Khan? Why does he want to see me?"
-    s ""
+    s "I...the Khan? Why does he want to see me?"
 
 # JaeidPath6_6c6f5205 (line 21370)
 translate ru JaeidPath6_6c6f5205:
@@ -86,7 +86,7 @@ translate ru JaeidPath6_6c6f5205:
 # JaeidPath6_12a244b7 (line 21371)
 translate ru JaeidPath6_12a244b7:
     # s "Am I in danger?"
-    s ""
+    s "Am I in danger?"
 
 # JaeidPath6_e6140565 (line 21372)
 translate ru JaeidPath6_e6140565:
@@ -101,12 +101,12 @@ translate ru JaeidPath6_4631baed:
 # JaeidPath6_72406a38 (line 21374)
 translate ru JaeidPath6_72406a38:
     # j "No, Sarah. I promise you, no harm will come to you."
-    j ""
+    j "No, Sarah. I promise you, no harm will come to you."
 
 # JaeidPath6_e328c547 (line 21375)
 translate ru JaeidPath6_e328c547:
     # s "Then why? If I am but a slave, what purpose does he have for me?"
-    s ""
+    s "Then why? If I am but a slave, what purpose does he have for me?"
 
 # JaeidPath6_28d67381 (line 21376)
 translate ru JaeidPath6_28d67381:
@@ -116,7 +116,7 @@ translate ru JaeidPath6_28d67381:
 # JaeidPath6_7867cd14 (line 21377)
 translate ru JaeidPath6_7867cd14:
     # j "The Khan...he is hosting a feast to celebrate our victory."
-    j ""
+    j "The Khan...he is hosting a feast to celebrate our victory."
 
 # JaeidPath6_8552b8dc (line 21378)
 translate ru JaeidPath6_8552b8dc:
@@ -126,7 +126,7 @@ translate ru JaeidPath6_8552b8dc:
 # JaeidPath6_05d9e5cd (line 21379)
 translate ru JaeidPath6_05d9e5cd:
     # s "Your victory...over Rosanna."
-    s ""
+    s "Your victory...over Rosanna."
 
 # JaeidPath6_18bd2f92 (line 21380)
 translate ru JaeidPath6_18bd2f92:
@@ -136,27 +136,27 @@ translate ru JaeidPath6_18bd2f92:
 # JaeidPath6_92f7ad85 (line 21381)
 translate ru JaeidPath6_92f7ad85:
     # j "Yes, Sarah. He wishes to celebrate the victory of the Tribes."
-    j ""
+    j "Yes, Sarah. He wishes to celebrate the victory of the Tribes."
 
 # JaeidPath6_75e8933b (line 21382)
 translate ru JaeidPath6_75e8933b:
     # s "What does that mean, exactly?"
-    s ""
+    s "What does that mean, exactly?"
 
 # JaeidPath6_9b8ee281 (line 21383)
 translate ru JaeidPath6_9b8ee281:
     # j "It means a feast for everyone of import that took part in the campaign."
-    j ""
+    j "It means a feast for everyone of import that took part in the campaign."
 
 # JaeidPath6_0751cf1d (line 21384)
 translate ru JaeidPath6_0751cf1d:
     # j "It means distributing loot."
-    j ""
+    j "It means distributing loot."
 
 # JaeidPath6_f612f873 (line 21385)
 translate ru JaeidPath6_f612f873:
     # s "Loot."
-    s ""
+    s "Loot."
 
 # JaeidPath6_28f868af (line 21386)
 translate ru JaeidPath6_28f868af:
@@ -176,7 +176,7 @@ translate ru JaeidPath6_e7e39592:
 # JaeidPath6_2128a730 (line 21389)
 translate ru JaeidPath6_2128a730:
     # j "They will distribute what has been conquered among those according to their rank."
-    j ""
+    j "They will distribute what has been conquered among those according to their rank."
 
 # JaeidPath6_589916e1 (line 21390)
 translate ru JaeidPath6_589916e1:
@@ -186,7 +186,7 @@ translate ru JaeidPath6_589916e1:
 # JaeidPath6_b08975c5 (line 21391)
 translate ru JaeidPath6_b08975c5:
     # s "Is that it?"
-    s ""
+    s "Is that it?"
 
 # JaeidPath6_0946c1a0 (line 21392)
 translate ru JaeidPath6_0946c1a0:
@@ -196,17 +196,17 @@ translate ru JaeidPath6_0946c1a0:
 # JaeidPath6_54d28220 (line 21393)
 translate ru JaeidPath6_54d28220:
     # j "Lastly, they will also crown a new governor."
-    j ""
+    j "Lastly, they will also crown a new governor."
 
 # JaeidPath6_443d93c1 (line 21394)
 translate ru JaeidPath6_443d93c1:
     # s "A governor?"
-    s ""
+    s "A governor?"
 
 # JaeidPath6_17c2fda2 (line 21395)
 translate ru JaeidPath6_17c2fda2:
     # j "For the new province."
-    j ""
+    j "For the new province."
 
 # JaeidPath6_3731a645 (line 21396)
 translate ru JaeidPath6_3731a645:
@@ -216,7 +216,7 @@ translate ru JaeidPath6_3731a645:
 # JaeidPath6_a42b6b50 (line 21397)
 translate ru JaeidPath6_a42b6b50:
     # s "Rosanna will be..."
-    s ""
+    s "Rosanna will be..."
 
 # JaeidPath6_932f4be6 (line 21398)
 translate ru JaeidPath6_932f4be6:
@@ -241,7 +241,7 @@ translate ru JaeidPath6_f6e1214f:
 # JaeidPath6_72a7aae2 (line 21402)
 translate ru JaeidPath6_72a7aae2:
     # s "I...who will it be?"
-    s ""
+    s "I...who will it be?"
 
 # JaeidPath6_2f51ea94 (line 21403)
 translate ru JaeidPath6_2f51ea94:
@@ -251,12 +251,12 @@ translate ru JaeidPath6_2f51ea94:
 # JaeidPath6_b606d1fd (line 21404)
 translate ru JaeidPath6_b606d1fd:
     # j "I do not know those details yet, only that the Khan has invited me to attend and wished for you to come as well."
-    j ""
+    j "I do not know those details yet, only that the Khan has invited me to attend and wished for you to come as well."
 
 # JaeidPath6_d7413d8d (line 21405)
 translate ru JaeidPath6_d7413d8d:
     # s "He asked for me explicitly?"
-    s ""
+    s "He asked for me explicitly?"
 
 # JaeidPath6_64e3e0bb (line 21406)
 translate ru JaeidPath6_64e3e0bb:
@@ -266,7 +266,7 @@ translate ru JaeidPath6_64e3e0bb:
 # JaeidPath6_cda6fb52 (line 21407)
 translate ru JaeidPath6_cda6fb52:
     # j "I would not expose you to this if I had a choice...but my Khan commands."
-    j ""
+    j "I would not expose you to this if I had a choice...but my Khan commands."
 
 # JaeidPath6_1106b018 (line 21408)
 translate ru JaeidPath6_1106b018:
@@ -281,7 +281,7 @@ translate ru JaeidPath6_80d24c03:
 # JaeidPath6_cf249264 (line 21410)
 translate ru JaeidPath6_cf249264:
     # s "But you're worried."
-    s ""
+    s "But you're worried."
 
 # JaeidPath6_e3926193 (line 21411)
 translate ru JaeidPath6_e3926193:
@@ -291,42 +291,42 @@ translate ru JaeidPath6_e3926193:
 # JaeidPath6_50d6fe9a (line 21412)
 translate ru JaeidPath6_50d6fe9a:
     # j "I am."
-    j ""
+    j "I am."
 
 # JaeidPath6_485a0306 (line 21413)
 translate ru JaeidPath6_485a0306:
     # s "Why?"
-    s ""
+    s "Why?"
 
 # JaeidPath6_5bc905d9 (line 21414)
 translate ru JaeidPath6_5bc905d9:
     # j "Because the Tribes...we are a people of conquest. Forged in the fires of war."
-    j ""
+    j "Because the Tribes...we are a people of conquest. Forged in the fires of war."
 
 # JaeidPath6_663413cd (line 21415)
 translate ru JaeidPath6_663413cd:
     # j "The Tribesmen enjoy conquering their enemies, but they also enjoy breaking them. Humiliating them."
-    j ""
+    j "The Tribesmen enjoy conquering their enemies, but they also enjoy breaking them. Humiliating them."
 
 # JaeidPath6_f0b97ec1 (line 21416)
 translate ru JaeidPath6_f0b97ec1:
     # s "Humiliating?"
-    s ""
+    s "Humiliating?"
 
 # JaeidPath6_a98e367e (line 21417)
 translate ru JaeidPath6_a98e367e:
     # j "Yes. They believe it is required for an effective conquest."
-    j ""
+    j "Yes. They believe it is required for an effective conquest."
 
 # JaeidPath6_3d10b010 (line 21418)
 translate ru JaeidPath6_3d10b010:
     # j "You must not only defeat your enemies physically, but also spiritually."
-    j ""
+    j "You must not only defeat your enemies physically, but also spiritually."
 
 # JaeidPath6_33bb1976 (line 21419)
 translate ru JaeidPath6_33bb1976:
     # j "So they play their games."
-    j ""
+    j "So they play their games."
 
 # JaeidPath6_69941f50 (line 21420)
 translate ru JaeidPath6_69941f50:
@@ -336,12 +336,12 @@ translate ru JaeidPath6_69941f50:
 # JaeidPath6_251ae8d0 (line 21421)
 translate ru JaeidPath6_251ae8d0:
     # j "Even your clothes...these are not designed by accident. They are made to degrade you."
-    j ""
+    j "Even your clothes...these are not designed by accident. They are made to degrade you."
 
 # JaeidPath6_7bded015 (line 21422)
 translate ru JaeidPath6_7bded015:
     # j "So that you might degrade yourself in your own mind. Break your own spirit and become the slave within as you are without."
-    j ""
+    j "So that you might degrade yourself in your own mind. Break your own spirit and become the slave within as you are without."
 
 # JaeidPath6_f3496170 (line 21423)
 translate ru JaeidPath6_f3496170:
@@ -351,7 +351,7 @@ translate ru JaeidPath6_f3496170:
 # JaeidPath6_d97cba62 (line 21424)
 translate ru JaeidPath6_d97cba62:
     # s "So you are afraid that they will hurt me?"
-    s ""
+    s "So you are afraid that they will hurt me?"
 
 # JaeidPath6_4f787e1e (line 21425)
 translate ru JaeidPath6_4f787e1e:
@@ -361,52 +361,52 @@ translate ru JaeidPath6_4f787e1e:
 # JaeidPath6_298c479b (line 21426)
 translate ru JaeidPath6_298c479b:
     # j "No...they cannot harm you directly."
-    j ""
+    j "No...they cannot harm you directly."
 
 # JaeidPath6_bf107b37 (line 21427)
 translate ru JaeidPath6_bf107b37:
     # s "Why not?"
-    s ""
+    s "Why not?"
 
 # JaeidPath6_495a0cec (line 21428)
 translate ru JaeidPath6_495a0cec:
     # j "Because on the one hand, you are mine and to do so would be an insult to me. They won't wish to do so."
-    j ""
+    j "Because on the one hand, you are mine and to do so would be an insult to me. They won't wish to do so."
 
 # JaeidPath6_2665d17a (line 21429)
 translate ru JaeidPath6_2665d17a:
     # j "Also, to hurt you directly would imply that you are of any value, and they will not wish to suggest that either."
-    j ""
+    j "Also, to hurt you directly would imply that you are of any value, and they will not wish to suggest that either."
 
 # JaeidPath6_22e27932 (line 21430)
 translate ru JaeidPath6_22e27932:
     # s "So what then?"
-    s ""
+    s "So what then?"
 
 # JaeidPath6_ef059abb (line 21431)
 translate ru JaeidPath6_ef059abb:
     # j "They will humiliate you. Rosanna. Your people."
-    j ""
+    j "They will humiliate you. Rosanna. Your people."
 
 # JaeidPath6_b588ce3a (line 21432)
 translate ru JaeidPath6_b588ce3a:
     # j "I think they might hope that you will break under the insults. That you will lash out in a moment of emotion."
-    j ""
+    j "I think they might hope that you will break under the insults. That you will lash out in a moment of emotion."
 
 # JaeidPath6_4efdc922 (line 21433)
 translate ru JaeidPath6_4efdc922:
     # j "And then they will have their excuse."
-    j ""
+    j "And then they will have their excuse."
 
 # JaeidPath6_6fc88a90 (line 21434)
 translate ru JaeidPath6_6fc88a90:
     # j "If you insult them, by words or by actions, they will have the excuse they need."
-    j ""
+    j "If you insult them, by words or by actions, they will have the excuse they need."
 
 # JaeidPath6_8800d905 (line 21435)
 translate ru JaeidPath6_8800d905:
     # s "The excuse...to hurt me?"
-    s ""
+    s "The excuse...to hurt me?"
 
 # JaeidPath6_98c2ca35 (line 21436)
 translate ru JaeidPath6_98c2ca35:
@@ -416,7 +416,7 @@ translate ru JaeidPath6_98c2ca35:
 # JaeidPath6_6f26ea6e (line 21437)
 translate ru JaeidPath6_6f26ea6e:
     # j "As I said before, if I could avoid it, I would not have put you in this position."
-    j ""
+    j "As I said before, if I could avoid it, I would not have put you in this position."
 
 # JaeidPath6_9429905e (line 21438)
 translate ru JaeidPath6_9429905e:
@@ -426,12 +426,12 @@ translate ru JaeidPath6_9429905e:
 # JaeidPath6_0e66492e (line 21439)
 translate ru JaeidPath6_0e66492e:
     # s "I understand. Thank you for warning me."
-    s ""
+    s "I understand. Thank you for warning me."
 
 # JaeidPath6_84f5db6f (line 21440)
 translate ru JaeidPath6_84f5db6f:
     # j "But Sarah, you must understand...you cannot give them a reason. None at all or they will punish you for it."
-    j ""
+    j "But Sarah, you must understand...you cannot give them a reason. None at all or they will punish you for it."
 
 # JaeidPath6_96ebdf3f (line 21441)
 translate ru JaeidPath6_96ebdf3f:
@@ -441,7 +441,7 @@ translate ru JaeidPath6_96ebdf3f:
 # JaeidPath6_07d62cee (line 21442)
 translate ru JaeidPath6_07d62cee:
     # s "Don't worry, Jaeid. Smiling and pretending like everything is fine is what I was taught to do from birth."
-    s ""
+    s "Don't worry, Jaeid. Smiling and pretending like everything is fine is what I was taught to do from birth."
 
 # JaeidPath6_1fa0c268 (line 21453)
 translate ru JaeidPath6_1fa0c268:
@@ -471,22 +471,12 @@ translate ru JaeidPath6_c45ad0e7:
 # JaeidPath6_bc4acef5 (line 21459)
 translate ru JaeidPath6_bc4acef5:
     # j "The Khan has invited us to sit upon the dais."
-    j ""
+    j "The Khan has invited us to sit upon the dais."
 
 # JaeidPath6_ddc4affc (line 21460)
 translate ru JaeidPath6_ddc4affc:
     # "Jaied gestured towards the far end of the room where the Khan sat, along with his family and closest advisors."
     ""
-
-# JaeidPath6_332e64d5 (line 21463)
-translate ru JaeidPath6_332e64d5:
-    # "Tell Jaeid about what happened at the market"
-    "Tell Jaeid about what happened at the market" ""
-
-# JaeidPath6_1ee0d9fd (line 21487)
-translate ru JaeidPath6_1ee0d9fd:
-    # "Say nothing"
-    "Say nothing" ""
 
 # JaeidPath6_fafe24b8 (line 21491)
 translate ru JaeidPath6_fafe24b8:
@@ -671,7 +661,7 @@ translate ru JaeidPath6_b5735924:
 # JaeidPath6_35f9aaa1 (line 21533)
 translate ru JaeidPath6_35f9aaa1:
     # j "Look ahead."
-    j ""
+    j "Look ahead."
 
 # JaeidPath6_fcae0468 (line 21534)
 translate ru JaeidPath6_fcae0468:
@@ -681,12 +671,12 @@ translate ru JaeidPath6_fcae0468:
 # JaeidPath6_54f88c8a (line 21535)
 translate ru JaeidPath6_54f88c8a:
     # j "We are near to the Khan."
-    j ""
+    j "We are near to the Khan."
 
 # JaeidPath6_e1283ae8 (line 21536)
 translate ru JaeidPath6_e1283ae8:
     # j "Do not forget to pay him the proper respects."
-    j ""
+    j "Do not forget to pay him the proper respects."
 
 # JaeidPath6_600bda51 (line 21537)
 translate ru JaeidPath6_600bda51:
@@ -701,7 +691,7 @@ translate ru JaeidPath6_f87d5f8a:
 # JaeidPath6_d42f1b1b (line 21545)
 translate ru JaeidPath6_d42f1b1b:
     # j "Hail, Khan Hassar."
-    j ""
+    j "Hail, Khan Hassar."
 
 # JaeidPath6_9e54e107 (line 21546)
 translate ru JaeidPath6_9e54e107:
@@ -711,7 +701,7 @@ translate ru JaeidPath6_9e54e107:
 # JaeidPath6_05723554 (line 21547)
 translate ru JaeidPath6_05723554:
     # h "Aah, Jaeid. I am glad to see you here tonight."
-    h ""
+    h "Aah, Jaeid. I am glad to see you here tonight."
 
 # JaeidPath6_f33f103a (line 21548)
 translate ru JaeidPath6_f33f103a:
@@ -726,12 +716,12 @@ translate ru JaeidPath6_ea94784b:
 # JaeidPath6_7a40bc31 (line 21550)
 translate ru JaeidPath6_7a40bc31:
     # h "And you have brought a guest as well."
-    h ""
+    h "And you have brought a guest as well."
 
 # JaeidPath6_df791cc6 (line 21551)
 translate ru JaeidPath6_df791cc6:
     # h "Princess Sarah Rose."
-    h ""
+    h "Princess Sarah Rose."
 
 # JaeidPath6_5b44d374 (line 21552)
 translate ru JaeidPath6_5b44d374:
@@ -751,17 +741,17 @@ translate ru JaeidPath6_b494118d:
 # JaeidPath6_8066dc29 (line 21555)
 translate ru JaeidPath6_8066dc29:
     # s "Ooh, great Khan, forgive me but I make claim to neither titles nor land."
-    s ""
+    s "Ooh, great Khan, forgive me but I make claim to neither titles nor land."
 
 # JaeidPath6_9e27a420 (line 21556)
 translate ru JaeidPath6_9e27a420:
     # s "I am a slave to your Tribe."
-    s ""
+    s "I am a slave to your Tribe."
 
 # JaeidPath6_841c71c1 (line 21557)
 translate ru JaeidPath6_841c71c1:
     # s "You honour me too much when you speak of me as a princess."
-    s ""
+    s "You honour me too much when you speak of me as a princess."
 
 # JaeidPath6_f6919e96 (line 21558)
 translate ru JaeidPath6_f6919e96:
@@ -771,12 +761,12 @@ translate ru JaeidPath6_f6919e96:
 # JaeidPath6_175def65 (line 21559)
 translate ru JaeidPath6_175def65:
     # h "Aah, of course. The slave Sarah Rose."
-    h ""
+    h "Aah, of course. The slave Sarah Rose."
 
 # JaeidPath6_2f705839 (line 21560)
 translate ru JaeidPath6_2f705839:
     # h "Perhaps my mind is wandering in my old age."
-    h ""
+    h "Perhaps my mind is wandering in my old age."
 
 # JaeidPath6_4eead837 (line 21561)
 translate ru JaeidPath6_4eead837:
@@ -786,17 +776,17 @@ translate ru JaeidPath6_4eead837:
 # JaeidPath6_a53feb75 (line 21562)
 translate ru JaeidPath6_a53feb75:
     # h "Regardless, for tonight you will carry the honours of your master Jaeid."
-    h ""
+    h "Regardless, for tonight you will carry the honours of your master Jaeid."
 
 # JaeidPath6_4f25abae (line 21563)
 translate ru JaeidPath6_4f25abae:
     # h "You will be allowed to sit here upon the dais among the exalted."
-    h ""
+    h "You will be allowed to sit here upon the dais among the exalted."
 
 # JaeidPath6_086a98cc (line 21564)
 translate ru JaeidPath6_086a98cc:
     # s "Great Khan, I trust in your wisdom to bestow onto me, whichever you imagine is right."
-    s ""
+    s "Great Khan, I trust in your wisdom to bestow onto me, whichever you imagine is right."
 
 # JaeidPath6_743457d4 (line 21565)
 translate ru JaeidPath6_743457d4:
@@ -811,7 +801,7 @@ translate ru JaeidPath6_80486ea5:
 # JaeidPath6_e1403d1c (line 21567)
 translate ru JaeidPath6_e1403d1c:
     # s "Did I do good?"
-    s ""
+    s "Did I do good?"
 
 # JaeidPath6_e7ca5ead (line 21568)
 translate ru JaeidPath6_e7ca5ead:
@@ -821,7 +811,7 @@ translate ru JaeidPath6_e7ca5ead:
 # JaeidPath6_c995a18a (line 21569)
 translate ru JaeidPath6_c995a18a:
     # j "You did perfect."
-    j ""
+    j "You did perfect."
 
 # JaeidPath6_0f20a407 (line 21570)
 translate ru JaeidPath6_0f20a407:
@@ -871,22 +861,22 @@ translate ru JaeidPath6_282cf552:
 # JaeidPath6_27709396 (line 21579)
 translate ru JaeidPath6_27709396:
     # j "Why are you smiling?"
-    j ""
+    j "Why are you smiling?"
 
 # JaeidPath6_5e07b554 (line 21580)
 translate ru JaeidPath6_5e07b554:
     # s "Those girls, they're gossiping."
-    s ""
+    s "Those girls, they're gossiping."
 
 # JaeidPath6_4a78a5b4 (line 21581)
 translate ru JaeidPath6_4a78a5b4:
     # j "So?"
-    j ""
+    j "So?"
 
 # JaeidPath6_9fff0543 (line 21582)
 translate ru JaeidPath6_9fff0543:
     # s "I just thought it was funny that some things are not so different between your people and mine."
-    s ""
+    s "I just thought it was funny that some things are not so different between your people and mine."
 
 # JaeidPath6_54a58b21 (line 21583)
 translate ru JaeidPath6_54a58b21:
@@ -896,7 +886,7 @@ translate ru JaeidPath6_54a58b21:
 # JaeidPath6_0a75d20f (line 21584)
 translate ru JaeidPath6_0a75d20f:
     # j "You are a strange one, Sarah Rose."
-    j ""
+    j "You are a strange one, Sarah Rose."
 
 # JaeidPath6_d27c6dd2 (line 21585)
 translate ru JaeidPath6_d27c6dd2:
@@ -906,17 +896,17 @@ translate ru JaeidPath6_d27c6dd2:
 # JaeidPath6_e78d642d (line 21586)
 translate ru JaeidPath6_e78d642d:
     # s "What is this?"
-    s ""
+    s "What is this?"
 
 # JaeidPath6_c5f99277 (line 21587)
 translate ru JaeidPath6_c5f99277:
     # j "Food."
-    j ""
+    j "Food."
 
 # JaeidPath6_b0405273 (line 21588)
 translate ru JaeidPath6_b0405273:
     # s "I know that but...why are you giving me this?"
-    s ""
+    s "I know that but...why are you giving me this?"
 
 # JaeidPath6_e2abd645 (line 21589)
 translate ru JaeidPath6_e2abd645:
@@ -926,7 +916,7 @@ translate ru JaeidPath6_e2abd645:
 # JaeidPath6_91d7cfe5 (line 21590)
 translate ru JaeidPath6_91d7cfe5:
     # j "I...just...forget it!"
-    j ""
+    j "I...just...forget it!"
 
 # JaeidPath6_13815147 (line 21591)
 translate ru JaeidPath6_13815147:
@@ -941,7 +931,7 @@ translate ru JaeidPath6_633597d7:
 # JaeidPath6_e1a68f53 (line 21593)
 translate ru JaeidPath6_e1a68f53:
     # s "I'm sorry!"
-    s ""
+    s "I'm sorry!"
 
 # JaeidPath6_a5baae73 (line 21594)
 translate ru JaeidPath6_a5baae73:
@@ -951,22 +941,22 @@ translate ru JaeidPath6_a5baae73:
 # JaeidPath6_fa740ac3 (line 21595)
 translate ru JaeidPath6_fa740ac3:
     # j "No, forget it, it is fine."
-    j ""
+    j "No, forget it, it is fine."
 
 # JaeidPath6_e634aad5 (line 21596)
 translate ru JaeidPath6_e634aad5:
     # s "Please, give me the plate, I'll try some, I promise."
-    s ""
+    s "Please, give me the plate, I'll try some, I promise."
 
 # JaeidPath6_ad536232 (line 21597)
 translate ru JaeidPath6_ad536232:
     # j "You don't have to just to spare me my feelings."
-    j ""
+    j "You don't have to just to spare me my feelings."
 
 # JaeidPath6_dc1ac044 (line 21598)
 translate ru JaeidPath6_dc1ac044:
     # s "But I want to."
-    s ""
+    s "But I want to."
 
 # JaeidPath6_99f9e39c (line 21599)
 translate ru JaeidPath6_99f9e39c:
@@ -976,7 +966,7 @@ translate ru JaeidPath6_99f9e39c:
 # JaeidPath6_79fd9f21 (line 21600)
 translate ru JaeidPath6_79fd9f21:
     # j "Sure, here."
-    j ""
+    j "Sure, here."
 
 # JaeidPath6_0a0c6312 (line 21601)
 translate ru JaeidPath6_0a0c6312:
@@ -1001,12 +991,12 @@ translate ru JaeidPath6_488e1661:
 # JaeidPath6_5a8bb9a6 (line 21605)
 translate ru JaeidPath6_5a8bb9a6:
     # s "This is incredible!"
-    s ""
+    s "This is incredible!"
 
 # JaeidPath6_9e1adb65 (line 21606)
 translate ru JaeidPath6_9e1adb65:
     # j "Yes...that is why I wanted to share it with you."
-    j ""
+    j "Yes...that is why I wanted to share it with you."
 
 # JaeidPath6_34a597a1 (line 21607)
 translate ru JaeidPath6_34a597a1:
@@ -1026,17 +1016,17 @@ translate ru JaeidPath6_f80cd955:
 # JaeidPath6_16bee400 (line 21616)
 translate ru JaeidPath6_16bee400:
     # j "Sarah...I..."
-    j ""
+    j "Sarah...I..."
 
 # JaeidPath6_3856506b (line 21617)
 translate ru JaeidPath6_3856506b:
     # s "You are a kind person, Jaeid."
-    s ""
+    s "You are a kind person, Jaeid."
 
 # JaeidPath6_44f79283 (line 21618)
 translate ru JaeidPath6_44f79283:
     # s "I want you to know that."
-    s ""
+    s "I want you to know that."
 
 # JaeidPath6_45d1ef6e (line 21619)
 translate ru JaeidPath6_45d1ef6e:
@@ -1056,12 +1046,12 @@ translate ru JaeidPath6_2cf53971:
 # JaeidPath6_3238586d (line 21622)
 translate ru JaeidPath6_3238586d:
     # j "How are you doing so far?"
-    j ""
+    j "How are you doing so far?"
 
 # JaeidPath6_d2079b68 (line 21623)
 translate ru JaeidPath6_d2079b68:
     # s "I'm fine now...when we entered and I saw the women...it was hard for a moment."
-    s ""
+    s "I'm fine now...when we entered and I saw the women...it was hard for a moment."
 
 # JaeidPath6_d6febc38 (line 21624)
 translate ru JaeidPath6_d6febc38:
@@ -1071,12 +1061,12 @@ translate ru JaeidPath6_d6febc38:
 # JaeidPath6_bf5488e0 (line 21625)
 translate ru JaeidPath6_bf5488e0:
     # j "Yes...all from Rosanna I imagine. Such is often tradition, that the conquered women organize the feast to celebrate their own defeat."
-    j ""
+    j "Yes...all from Rosanna I imagine. Such is often tradition, that the conquered women organize the feast to celebrate their own defeat."
 
 # JaeidPath6_ca1fc3e8 (line 21626)
 translate ru JaeidPath6_ca1fc3e8:
     # j "As I said, the Tribes enjoy their humiliation nearly as much as their conquest."
-    j ""
+    j "As I said, the Tribes enjoy their humiliation nearly as much as their conquest."
 
 # JaeidPath6_5c87cf4a (line 21627)
 translate ru JaeidPath6_5c87cf4a:
@@ -1086,7 +1076,7 @@ translate ru JaeidPath6_5c87cf4a:
 # JaeidPath6_f457bc76 (line 21628)
 translate ru JaeidPath6_f457bc76:
     # s "But it's fine...well, not this but...I think I can manage my emotions. At least for the night."
-    s ""
+    s "But it's fine...well, not this but...I think I can manage my emotions. At least for the night."
 
 # JaeidPath6_43d9dc3b (line 21629)
 translate ru JaeidPath6_43d9dc3b:
@@ -1096,7 +1086,7 @@ translate ru JaeidPath6_43d9dc3b:
 # JaeidPath6_a4837295 (line 21630)
 translate ru JaeidPath6_a4837295:
     # j "Still, stay on your guard. I doubt this is all they will try tonight."
-    j ""
+    j "Still, stay on your guard. I doubt this is all they will try tonight."
 
 # JaeidPath6_1110c056 (line 21631)
 translate ru JaeidPath6_1110c056:
@@ -1136,7 +1126,7 @@ translate ru JaeidPath6_a537b0b7:
 # JaeidPath6_5de085c1 (line 21638)
 translate ru JaeidPath6_5de085c1:
     # s "So, did it take you long to learn the language of the Union Kingdoms?"
-    s ""
+    s "So, did it take you long to learn the language of the Union Kingdoms?"
 
 # JaeidPath6_44787e03 (line 21639)
 translate ru JaeidPath6_44787e03:
@@ -1146,7 +1136,7 @@ translate ru JaeidPath6_44787e03:
 # JaeidPath6_1ea9560c (line 21640)
 translate ru JaeidPath6_1ea9560c:
     # j "Most of it I learned in about two weeks."
-    j ""
+    j "Most of it I learned in about two weeks."
 
 # JaeidPath6_4540212b (line 21641)
 translate ru JaeidPath6_4540212b:
@@ -1156,7 +1146,7 @@ translate ru JaeidPath6_4540212b:
 # JaeidPath6_144aa2f2 (line 21642)
 translate ru JaeidPath6_144aa2f2:
     # s "Two weeeks? To learn an entire new language?"
-    s ""
+    s "Two weeeks? To learn an entire new language?"
 
 # JaeidPath6_7aff78bc (line 21643)
 translate ru JaeidPath6_7aff78bc:
@@ -1166,7 +1156,7 @@ translate ru JaeidPath6_7aff78bc:
 # JaeidPath6_a9d6fbd5 (line 21644)
 translate ru JaeidPath6_a9d6fbd5:
     # j "Languages have always just...made sense to me. And when you have learned enough of them, you begin to detect patterns."
-    j ""
+    j "Languages have always just...made sense to me. And when you have learned enough of them, you begin to detect patterns."
 
 # JaeidPath6_bcdda695 (line 21645)
 translate ru JaeidPath6_bcdda695:
@@ -1176,7 +1166,7 @@ translate ru JaeidPath6_bcdda695:
 # JaeidPath6_d454c6f9 (line 21646)
 translate ru JaeidPath6_d454c6f9:
     # s "I don't speak any languages...other than my own."
-    s ""
+    s "I don't speak any languages...other than my own."
 
 # JaeidPath6_fe5e1b1d (line 21647)
 translate ru JaeidPath6_fe5e1b1d:
@@ -1186,7 +1176,7 @@ translate ru JaeidPath6_fe5e1b1d:
 # JaeidPath6_7f6b0923 (line 21648)
 translate ru JaeidPath6_7f6b0923:
     # s "Do you think you could teach me the language of the Tribes?"
-    s ""
+    s "Do you think you could teach me the language of the Tribes?"
 
 # JaeidPath6_bce348c9 (line 21649)
 translate ru JaeidPath6_bce348c9:
@@ -1196,7 +1186,7 @@ translate ru JaeidPath6_bce348c9:
 # JaeidPath6_ddc31fcd (line 21650)
 translate ru JaeidPath6_ddc31fcd:
     # j "Some learn it faster than others, but anyone can learn it with enough dedication."
-    j ""
+    j "Some learn it faster than others, but anyone can learn it with enough dedication."
 
 # JaeidPath6_6c3e3bd9 (line 21651)
 translate ru JaeidPath6_6c3e3bd9:
@@ -1206,7 +1196,7 @@ translate ru JaeidPath6_6c3e3bd9:
 # JaeidPath6_2db3f0f7 (line 21652)
 translate ru JaeidPath6_2db3f0f7:
     # s "And a good teacher."
-    s ""
+    s "And a good teacher."
 
 # JaeidPath6_bf87d6ad (line 21653)
 translate ru JaeidPath6_bf87d6ad:
@@ -1216,7 +1206,7 @@ translate ru JaeidPath6_bf87d6ad:
 # JaeidPath6_df3c4a37 (line 21654)
 translate ru JaeidPath6_df3c4a37:
     # j "You are cruel, Sarah."
-    j ""
+    j "You are cruel, Sarah."
 
 # JaeidPath6_a10f7a3c (line 21655)
 translate ru JaeidPath6_a10f7a3c:
@@ -1226,17 +1216,17 @@ translate ru JaeidPath6_a10f7a3c:
 # JaeidPath6_7ff28c40 (line 21656)
 translate ru JaeidPath6_7ff28c40:
     # s "Cruel? Me? I've been called many things, but never that."
-    s ""
+    s "Cruel? Me? I've been called many things, but never that."
 
 # JaeidPath6_31a86035 (line 21657)
 translate ru JaeidPath6_31a86035:
     # s "What is so cruel about me?"
-    s ""
+    s "What is so cruel about me?"
 
 # JaeidPath6_f71396f8 (line 21658)
 translate ru JaeidPath6_f71396f8:
     # j "You enjoy making me uncomfortable. It is a little too much fun for you, I suspect."
-    j ""
+    j "You enjoy making me uncomfortable. It is a little too much fun for you, I suspect."
 
 # JaeidPath6_ac3483de (line 21659)
 translate ru JaeidPath6_ac3483de:
@@ -1246,7 +1236,7 @@ translate ru JaeidPath6_ac3483de:
 # JaeidPath6_6ff27c00 (line 21660)
 translate ru JaeidPath6_6ff27c00:
     # s "Well, what is a girl to do in a place like this?"
-    s ""
+    s "Well, what is a girl to do in a place like this?"
 
 # JaeidPath6_dd57062e (line 21662)
 translate ru JaeidPath6_dd57062e:
@@ -1256,17 +1246,7 @@ translate ru JaeidPath6_dd57062e:
 # JaeidPath6_bc394671 (line 21663)
 translate ru JaeidPath6_bc394671:
     # j "Aah, so you admit, you torture me for your amusement?"
-    j ""
-
-# JaeidPath6_cf30471c (line 21666)
-translate ru JaeidPath6_cf30471c:
-    # "Flirt with him"
-    "Flirt with him" ""
-
-# JaeidPath6_0c74305a (line 21679)
-translate ru JaeidPath6_0c74305a:
-    # "Be friendly"
-    "Be friendly" ""
+    j "Aah, so you admit, you torture me for your amusement?"
 
 # JaeidPath6_ee38a5ed (line 21685)
 translate ru JaeidPath6_ee38a5ed:
@@ -1356,7 +1336,7 @@ translate ru JaeidPath6_f815b8ed:
 # JaeidPath6_cdae20f8 (line 21708)
 translate ru JaeidPath6_cdae20f8:
     # s "What is that?"
-    s ""
+    s "What is that?"
 
 # JaeidPath6_f293e213 (line 21709)
 translate ru JaeidPath6_f293e213:
@@ -1366,27 +1346,27 @@ translate ru JaeidPath6_f293e213:
 # JaeidPath6_0ce32784 (line 21710)
 translate ru JaeidPath6_0ce32784:
     # j "What do you mean?"
-    j ""
+    j "What do you mean?"
 
 # JaeidPath6_adc2524e (line 21711)
 translate ru JaeidPath6_adc2524e:
     # s "The thing...between their legs."
-    s ""
+    s "The thing...between their legs."
 
 # JaeidPath6_b7f0b604 (line 21712)
 translate ru JaeidPath6_b7f0b604:
     # j "Belts-of-binding. The Tribes use them to keep the male slaves in line."
-    j ""
+    j "Belts-of-binding. The Tribes use them to keep the male slaves in line."
 
 # JaeidPath6_35b390ea (line 21713)
 translate ru JaeidPath6_35b390ea:
     # j "They have no interest in sharing their spoils with those conquered, so the men are fixed with these belts to keep them in line."
-    j ""
+    j "They have no interest in sharing their spoils with those conquered, so the men are fixed with these belts to keep them in line."
 
 # JaeidPath6_8a799725 (line 21714)
 translate ru JaeidPath6_8a799725:
     # j "It prevents them from...well, you understand."
-    j ""
+    j "It prevents them from...well, you understand."
 
 # JaeidPath6_4c4c4d8e (line 21715)
 translate ru JaeidPath6_4c4c4d8e:
@@ -1396,52 +1376,52 @@ translate ru JaeidPath6_4c4c4d8e:
 # JaeidPath6_39a74a00 (line 21716)
 translate ru JaeidPath6_39a74a00:
     # s "Barbaric."
-    s ""
+    s "Barbaric."
 
 # JaeidPath6_0da71bd4 (line 21717)
 translate ru JaeidPath6_0da71bd4:
     # j "No, simply practical. The Tribes fix their issues in simple ways. They wish to keep the conquered stock in line."
-    j ""
+    j "No, simply practical. The Tribes fix their issues in simple ways. They wish to keep the conquered stock in line."
 
 # JaeidPath6_8236c180 (line 21718)
 translate ru JaeidPath6_8236c180:
     # s "Like animals."
-    s ""
+    s "Like animals."
 
 # JaeidPath6_ca7ea931 (line 21719)
 translate ru JaeidPath6_ca7ea931:
     # j "Like conquered people."
-    j ""
+    j "Like conquered people."
 
 # JaeidPath6_7d7d03ac (line 21720)
 translate ru JaeidPath6_7d7d03ac:
     # j "Kings and emperors hand down their decrees to those beneath them."
-    j ""
+    j "Kings and emperors hand down their decrees to those beneath them."
 
 # JaeidPath6_c86466b6 (line 21721)
 translate ru JaeidPath6_c86466b6:
     # j "This is the way of the world everywhere. Strength dictates who can decree and who must suffer."
-    j ""
+    j "This is the way of the world everywhere. Strength dictates who can decree and who must suffer."
 
 # JaeidPath6_e2450df6 (line 21722)
 translate ru JaeidPath6_e2450df6:
     # j "Then men of your nation have lost, and so, now they must suffer."
-    j ""
+    j "Then men of your nation have lost, and so, now they must suffer."
 
 # JaeidPath6_6c4d8123 (line 21723)
 translate ru JaeidPath6_6c4d8123:
     # s "And what if they had wives?"
-    s ""
+    s "And what if they had wives?"
 
 # JaeidPath6_3d23b0ab (line 21724)
 translate ru JaeidPath6_3d23b0ab:
     # j "Then they have lost those too."
-    j ""
+    j "Then they have lost those too."
 
 # JaeidPath6_117e3f52 (line 21725)
 translate ru JaeidPath6_117e3f52:
     # j "Besides, if she had a husband who could not protect her, did she ever truly have a man to begin with?"
-    j ""
+    j "Besides, if she had a husband who could not protect her, did she ever truly have a man to begin with?"
 
 # JaeidPath6_efe4341b (line 21726)
 translate ru JaeidPath6_efe4341b:
@@ -1456,7 +1436,7 @@ translate ru JaeidPath6_f379b23a:
 # JaeidPath6_aec807f4 (line 21728)
 translate ru JaeidPath6_aec807f4:
     # s "So what if someone would hurt your wife?"
-    s ""
+    s "So what if someone would hurt your wife?"
 
 # JaeidPath6_99d2d026 (line 21729)
 translate ru JaeidPath6_99d2d026:
@@ -1466,7 +1446,7 @@ translate ru JaeidPath6_99d2d026:
 # JaeidPath6_92ec3e3d (line 21730)
 translate ru JaeidPath6_92ec3e3d:
     # j "None who dared to even consider such, would live."
-    j ""
+    j "None who dared to even consider such, would live."
 
 # JaeidPath6_97430309 (line 21731)
 translate ru JaeidPath6_97430309:
@@ -1486,22 +1466,22 @@ translate ru JaeidPath6_bad23db3:
 # JaeidPath6_28424c74 (line 21734)
 translate ru JaeidPath6_28424c74:
     # j "You mean to say you are different?"
-    j ""
+    j "You mean to say you are different?"
 
 # JaeidPath6_a8882a05 (line 21735)
 translate ru JaeidPath6_a8882a05:
     # s "How so?"
-    s ""
+    s "How so?"
 
 # JaeidPath6_75a088e3 (line 21736)
 translate ru JaeidPath6_75a088e3:
     # j "What if a man failed to protect you? How could you ever respect such a man again."
-    j ""
+    j "What if a man failed to protect you? How could you ever respect such a man again."
 
 # JaeidPath6_711258d5 (line 21737)
 translate ru JaeidPath6_711258d5:
     # s "I...what if I loved him?"
-    s ""
+    s "I...what if I loved him?"
 
 # JaeidPath6_e1c90480 (line 21738)
 translate ru JaeidPath6_e1c90480:
@@ -1511,32 +1491,32 @@ translate ru JaeidPath6_e1c90480:
 # JaeidPath6_0212eca6 (line 21739)
 translate ru JaeidPath6_0212eca6:
     # j "Love? What is love."
-    j ""
+    j "Love? What is love."
 
 # JaeidPath6_483e96d5 (line 21740)
 translate ru JaeidPath6_483e96d5:
     # s "Love is..."
-    s ""
+    s "Love is..."
 
 # JaeidPath6_17d2adbc (line 21741)
 translate ru JaeidPath6_17d2adbc:
     # j "Would you not throw down your life for the person you loved?"
-    j ""
+    j "Would you not throw down your life for the person you loved?"
 
 # JaeidPath6_80616b49 (line 21742)
 translate ru JaeidPath6_80616b49:
     # s "Of course I would."
-    s ""
+    s "Of course I would."
 
 # JaeidPath6_83e89591 (line 21743)
 translate ru JaeidPath6_83e89591:
     # j "So a man who does not throw down his life for his woman, how can he be said to love her at all?"
-    j ""
+    j "So a man who does not throw down his life for his woman, how can he be said to love her at all?"
 
 # JaeidPath6_6db60b3e (line 21744)
 translate ru JaeidPath6_6db60b3e:
     # s "I...I don't know..."
-    s ""
+    s "I...I don't know..."
 
 # JaeidPath6_354f953f (line 21745)
 translate ru JaeidPath6_354f953f:
@@ -1546,27 +1526,27 @@ translate ru JaeidPath6_354f953f:
 # JaeidPath6_9aceaf9d (line 21746)
 translate ru JaeidPath6_9aceaf9d:
     # j "Those male slaves chose their lives and safety over their duty to their land and their people."
-    j ""
+    j "Those male slaves chose their lives and safety over their duty to their land and their people."
 
 # JaeidPath6_d11a15d6 (line 21747)
 translate ru JaeidPath6_d11a15d6:
     # j "Fine, say the Tribes."
-    j ""
+    j "Fine, say the Tribes."
 
 # JaeidPath6_195a5479 (line 21748)
 translate ru JaeidPath6_195a5479:
     # j "There they are, safe and alive, but they are not men."
-    j ""
+    j "There they are, safe and alive, but they are not men."
 
 # JaeidPath6_04b01955 (line 21749)
 translate ru JaeidPath6_04b01955:
     # j "And so we do not let them play at pretending to be men."
-    j ""
+    j "And so we do not let them play at pretending to be men."
 
 # JaeidPath6_61b4aceb (line 21750)
 translate ru JaeidPath6_61b4aceb:
     # j "The belt-of-binding is simply a physical reminder of what they know in their souls to be true."
-    j ""
+    j "The belt-of-binding is simply a physical reminder of what they know in their souls to be true."
 
 # JaeidPath6_544d8133 (line 21751)
 translate ru JaeidPath6_544d8133:
@@ -1686,12 +1666,12 @@ translate ru JaeidPath6_f336b104:
 # JaeidPath6_92974d67 (line 21780)
 translate ru JaeidPath6_92974d67:
     # h "Exalted!"
-    h ""
+    h "Exalted!"
 
 # JaeidPath6_91a9099c (line 21781)
 translate ru JaeidPath6_91a9099c:
     # h "Conquerors! Come and listen to you Khan!"
-    h ""
+    h "Conquerors! Come and listen to you Khan!"
 
 # JaeidPath6_e6456a88 (line 21782)
 translate ru JaeidPath6_e6456a88:
@@ -1701,12 +1681,12 @@ translate ru JaeidPath6_e6456a88:
 # JaeidPath6_040d2110 (line 21783)
 translate ru JaeidPath6_040d2110:
     # h "Tonight we celebrate one of the great conquests of my Horde."
-    h ""
+    h "Tonight we celebrate one of the great conquests of my Horde."
 
 # JaeidPath6_09950c61 (line 21784)
 translate ru JaeidPath6_09950c61:
     # h "We celebrate our victory, and we honour those who died in battle!"
-    h ""
+    h "We celebrate our victory, and we honour those who died in battle!"
 
 # JaeidPath6_6b89401e (line 21785)
 translate ru JaeidPath6_6b89401e:
@@ -1716,7 +1696,7 @@ translate ru JaeidPath6_6b89401e:
 # JaeidPath6_e358c4fd (line 21786)
 translate ru JaeidPath6_e358c4fd:
     # h "By the Gods, could we have only been so fortunate to have died such a great death!"
-    h ""
+    h "By the Gods, could we have only been so fortunate to have died such a great death!"
 
 # JaeidPath6_92f14af5 (line 21787)
 translate ru JaeidPath6_92f14af5:
@@ -1726,7 +1706,7 @@ translate ru JaeidPath6_92f14af5:
 # JaeidPath6_3b8dafe1 (line 21788)
 translate ru JaeidPath6_3b8dafe1:
     # h "Instead, we shall live on, and enjoy life in their place!"
-    h ""
+    h "Instead, we shall live on, and enjoy life in their place!"
 
 # JaeidPath6_19afac3e (line 21789)
 translate ru JaeidPath6_19afac3e:
@@ -1736,17 +1716,17 @@ translate ru JaeidPath6_19afac3e:
 # JaeidPath6_5d282eb8 (line 21790)
 translate ru JaeidPath6_5d282eb8:
     # h "Tonight, I share with you only a fraction of the spoils of our victory."
-    h ""
+    h "Tonight, I share with you only a fraction of the spoils of our victory."
 
 # JaeidPath6_8641ed25 (line 21791)
 translate ru JaeidPath6_8641ed25:
     # h "In the coming days, each man shall have more than they know what to do with."
-    h ""
+    h "In the coming days, each man shall have more than they know what to do with."
 
 # JaeidPath6_f86e6197 (line 21792)
 translate ru JaeidPath6_f86e6197:
     # h "Spend it wisely, or as I know some of you will, spend it unwisely!"
-    h ""
+    h "Spend it wisely, or as I know some of you will, spend it unwisely!"
 
 # JaeidPath6_1df91430 (line 21793)
 translate ru JaeidPath6_1df91430:
@@ -1756,7 +1736,7 @@ translate ru JaeidPath6_1df91430:
 # JaeidPath6_5c15de28 (line 21794)
 translate ru JaeidPath6_5c15de28:
     # h "Let me begin by granting each of you a first gift."
-    h ""
+    h "Let me begin by granting each of you a first gift."
 
 # JaeidPath6_7da404a0 (line 21795)
 translate ru JaeidPath6_7da404a0:
@@ -1766,7 +1746,7 @@ translate ru JaeidPath6_7da404a0:
 # JaeidPath6_60627635 (line 21796)
 translate ru JaeidPath6_60627635:
     # h "Each man gathered here shall have one slave of their choice!"
-    h ""
+    h "Each man gathered here shall have one slave of their choice!"
 
 # JaeidPath6_222d0ea6 (line 21797)
 translate ru JaeidPath6_222d0ea6:
@@ -1776,7 +1756,7 @@ translate ru JaeidPath6_222d0ea6:
 # JaeidPath6_858b705f (line 21798)
 translate ru JaeidPath6_858b705f:
     # h "Be patient! You can select your slave later tonight!"
-    h ""
+    h "Be patient! You can select your slave later tonight!"
 
 # JaeidPath6_511c33fa (line 21799)
 translate ru JaeidPath6_511c33fa:
@@ -1786,12 +1766,12 @@ translate ru JaeidPath6_511c33fa:
 # JaeidPath6_a6197273 (line 21800)
 translate ru JaeidPath6_a6197273:
     # h "Each of you fought valiantly, but as you all know, some have acted in the true spirit of our people."
-    h ""
+    h "Each of you fought valiantly, but as you all know, some have acted in the true spirit of our people."
 
 # JaeidPath6_85f542ae (line 21801)
 translate ru JaeidPath6_85f542ae:
     # h "True examplars of our values. The Exalted!"
-    h ""
+    h "True examplars of our values. The Exalted!"
 
 # JaeidPath6_b144fd8d (line 21802)
 translate ru JaeidPath6_b144fd8d:
@@ -1801,7 +1781,7 @@ translate ru JaeidPath6_b144fd8d:
 # JaeidPath6_e5885c31 (line 21803)
 translate ru JaeidPath6_e5885c31:
     # h "As is tradition, I shall crown from among you, one most Exalted. First among the Tribe!"
-    h ""
+    h "As is tradition, I shall crown from among you, one most Exalted. First among the Tribe!"
 
 # JaeidPath6_43a3f3d1 (line 21804)
 translate ru JaeidPath6_43a3f3d1:
@@ -1811,7 +1791,7 @@ translate ru JaeidPath6_43a3f3d1:
 # JaeidPath6_e9e8b1a0 (line 21805)
 translate ru JaeidPath6_e9e8b1a0:
     # h "High-General Kamal!"
-    h ""
+    h "High-General Kamal!"
 
 # JaeidPath6_5b07959b (line 21806)
 translate ru JaeidPath6_5b07959b:
@@ -1826,17 +1806,17 @@ translate ru JaeidPath6_6b59fe65:
 # JaeidPath6_a5ffc2c5 (line 21808)
 translate ru JaeidPath6_a5ffc2c5:
     # h "General Kamal, you have served as the leader of the campaign against Rosanna and brought home many victories."
-    h ""
+    h "General Kamal, you have served as the leader of the campaign against Rosanna and brought home many victories."
 
 # JaeidPath6_9c3bd2ac (line 21809)
 translate ru JaeidPath6_9c3bd2ac:
     # h "Our coffers overflow with gold, our markets are filled with slaves."
-    h ""
+    h "Our coffers overflow with gold, our markets are filled with slaves."
 
 # JaeidPath6_4531ad2b (line 21810)
 translate ru JaeidPath6_4531ad2b:
     # h "To you, go these honours!"
-    h ""
+    h "To you, go these honours!"
 
 # JaeidPath6_b44c82a3 (line 21811)
 translate ru JaeidPath6_b44c82a3:
@@ -1846,12 +1826,12 @@ translate ru JaeidPath6_b44c82a3:
 # JaeidPath6_5c7ee2eb (line 21812)
 translate ru JaeidPath6_5c7ee2eb:
     # h "For your conquest, I shall grant you the title worthy of a conqueror."
-    h ""
+    h "For your conquest, I shall grant you the title worthy of a conqueror."
 
 # JaeidPath6_263fbf91 (line 21813)
 translate ru JaeidPath6_263fbf91:
     # h "General Kamal, here, before this great Horde, I grant you as your Khan, the title of Governor of the province of Rosayi!"
-    h ""
+    h "General Kamal, here, before this great Horde, I grant you as your Khan, the title of Governor of the province of Rosayi!"
 
 # JaeidPath6_71e5e361 (line 21814)
 translate ru JaeidPath6_71e5e361:
@@ -1861,17 +1841,17 @@ translate ru JaeidPath6_71e5e361:
 # JaeidPath6_93ea5da2 (line 21815)
 translate ru JaeidPath6_93ea5da2:
     # kam "Great Khan, you honour me with your trust, as well as the granting of this title."
-    kam ""
+    kam "Great Khan, you honour me with your trust, as well as the granting of this title."
 
 # JaeidPath6_4e1be919 (line 21816)
 translate ru JaeidPath6_4e1be919:
     # kam "A gift such as this, I could not dare to have expected."
-    kam ""
+    kam "A gift such as this, I could not dare to have expected."
 
 # JaeidPath6_8b1944c9 (line 21817)
 translate ru JaeidPath6_8b1944c9:
     # kam "If you deem me worthy, ooh Great Khan, I shall accept!"
-    kam ""
+    kam "If you deem me worthy, ooh Great Khan, I shall accept!"
 
 # JaeidPath6_8e91ebee (line 21818)
 translate ru JaeidPath6_8e91ebee:
@@ -1886,7 +1866,7 @@ translate ru JaeidPath6_b7928bcb:
 # JaeidPath6_c3d9c25f (line 21820)
 translate ru JaeidPath6_c3d9c25f:
     # s "What is Rosayi?"
-    s ""
+    s "What is Rosayi?"
 
 # JaeidPath6_b53e1111 (line 21821)
 translate ru JaeidPath6_b53e1111:
@@ -1896,12 +1876,12 @@ translate ru JaeidPath6_b53e1111:
 # JaeidPath6_6654e156 (line 21822)
 translate ru JaeidPath6_6654e156:
     # j "It means Land of Roses in the language of the Tribes."
-    j ""
+    j "It means Land of Roses in the language of the Tribes."
 
 # JaeidPath6_ec86c3e2 (line 21823)
 translate ru JaeidPath6_ec86c3e2:
     # j "It is the name of the new province of the Khan's empire...the new name of your former homeland."
-    j ""
+    j "It is the name of the new province of the Khan's empire...the new name of your former homeland."
 
 # JaeidPath6_686a56bf (line 21824)
 translate ru JaeidPath6_686a56bf:
@@ -1936,17 +1916,17 @@ translate ru JaeidPath6_f73e26ec:
 # JaeidPath6_1ddb27bc (line 21830)
 translate ru JaeidPath6_1ddb27bc:
     # h "As you know, in my Horde, we value not the vanities of power that so many nations hold dear."
-    h ""
+    h "As you know, in my Horde, we value not the vanities of power that so many nations hold dear."
 
 # JaeidPath6_b8db6c24 (line 21831)
 translate ru JaeidPath6_b8db6c24:
     # h "We alone see the world for what it is!"
-    h ""
+    h "We alone see the world for what it is!"
 
 # JaeidPath6_d301734b (line 21832)
 translate ru JaeidPath6_d301734b:
     # h "One of strength!"
-    h ""
+    h "One of strength!"
 
 # JaeidPath6_0134e1f7 (line 21833)
 translate ru JaeidPath6_0134e1f7:
@@ -1961,7 +1941,7 @@ translate ru JaeidPath6_f4d45c2b:
 # JaeidPath6_315f28db (line 21835)
 translate ru JaeidPath6_315f28db:
     # h "But, I would find it improper if we did not at least somewhat respect tradition."
-    h ""
+    h "But, I would find it improper if we did not at least somewhat respect tradition."
 
 # JaeidPath6_10489eec (line 21836)
 translate ru JaeidPath6_10489eec:
@@ -1991,7 +1971,7 @@ translate ru JaeidPath6_b744a300:
 # JaeidPath6_4e179c1a (line 21847)
 translate ru JaeidPath6_4e179c1a:
     # s "I..."
-    s ""
+    s "I..."
 
 # JaeidPath6_c178a225 (line 21848)
 translate ru JaeidPath6_c178a225:
@@ -2021,7 +2001,7 @@ translate ru JaeidPath6_449834b4:
 # JaeidPath6_8895aa63 (line 21853)
 translate ru JaeidPath6_8895aa63:
     # s "What...what do you want me to do?"
-    s ""
+    s "What...what do you want me to do?"
 
 # JaeidPath6_595010a1 (line 21854)
 translate ru JaeidPath6_595010a1:
@@ -2036,7 +2016,7 @@ translate ru JaeidPath6_9003d77f:
 # JaeidPath6_234f7dfa (line 21856)
 translate ru JaeidPath6_234f7dfa:
     # h "Rise, Slave!"
-    h ""
+    h "Rise, Slave!"
 
 # JaeidPath6_ecbfcffc (line 21857)
 translate ru JaeidPath6_ecbfcffc:
@@ -2046,7 +2026,7 @@ translate ru JaeidPath6_ecbfcffc:
 # JaeidPath6_1e896fa0 (line 21864)
 translate ru JaeidPath6_1e896fa0:
     # h "Come before the throne of your Khan!"
-    h ""
+    h "Come before the throne of your Khan!"
 
 # JaeidPath6_aa62b4c1 (line 21865)
 translate ru JaeidPath6_aa62b4c1:
@@ -2076,22 +2056,22 @@ translate ru JaeidPath6_fb2930ab:
 # JaeidPath6_93279b41 (line 21880)
 translate ru JaeidPath6_93279b41:
     # h "Daughter of the Rose family, last of your line."
-    h ""
+    h "Daughter of the Rose family, last of your line."
 
 # JaeidPath6_2ad25ab0 (line 21881)
 translate ru JaeidPath6_2ad25ab0:
     # h "As is tradition in your backward nations, crowns pass from parent to child."
-    h ""
+    h "As is tradition in your backward nations, crowns pass from parent to child."
 
 # JaeidPath6_32c20cea (line 21882)
 translate ru JaeidPath6_32c20cea:
     # h "Let us put to rest such foolishness. Take the crown of your people and crown my new Governor Kamal."
-    h ""
+    h "Let us put to rest such foolishness. Take the crown of your people and crown my new Governor Kamal."
 
 # JaeidPath6_5fc11cc7 (line 21883)
 translate ru JaeidPath6_5fc11cc7:
     # h "The new steward to your former lands."
-    h ""
+    h "The new steward to your former lands."
 
 # JaeidPath6_576ccc09 (line 21889)
 translate ru JaeidPath6_576ccc09:
@@ -2106,12 +2086,12 @@ translate ru JaeidPath6_f52d3545:
 # JaeidPath6_636720b9 (line 21891)
 translate ru JaeidPath6_636720b9:
     # h "Sorry that it is only the crown, Kamal."
-    h ""
+    h "Sorry that it is only the crown, Kamal."
 
 # JaeidPath6_7a9451e0 (line 21892)
 translate ru JaeidPath6_7a9451e0:
     # h "I would have gladly given you her cunt as well, but Jaeid proved quicker and sneakier than you."
-    h ""
+    h "I would have gladly given you her cunt as well, but Jaeid proved quicker and sneakier than you."
 
 # JaeidPath6_70511e0c (line 21893)
 translate ru JaeidPath6_70511e0c:
@@ -2143,16 +2123,6 @@ translate ru JaeidPath6_32b84d4e:
     # "Her part to play in this sick imitation of a crowning."
     ""
 
-# JaeidPath6_0c711662 (line 21901)
-translate ru JaeidPath6_0c711662:
-    # "Crown Kamal"
-    "Crown Kamal" ""
-
-# JaeidPath6_82f327e6 (line 21961)
-translate ru JaeidPath6_82f327e6:
-    # "Place the crown on your own head"
-    "Place the crown on your own head" ""
-
 # JaeidPath6_834e13e6 (line 21990)
 translate ru JaeidPath6_834e13e6:
     # "Sarah was rushed back to her seat by Jaeid."
@@ -2171,7 +2141,7 @@ translate ru JaeidPath6_0bb2ec1a:
 # JaeidPath6_ebd36b2e (line 21993)
 translate ru JaeidPath6_ebd36b2e:
     # s "Thank you, thank you, thank you..."
-    s ""
+    s "Thank you, thank you, thank you..."
 
 # JaeidPath6_b0048a44 (line 21994)
 translate ru JaeidPath6_b0048a44:
@@ -2181,12 +2151,12 @@ translate ru JaeidPath6_b0048a44:
 # JaeidPath6_52ee4e92 (line 21995)
 translate ru JaeidPath6_52ee4e92:
     # j "Do not worry, Sarah."
-    j ""
+    j "Do not worry, Sarah."
 
 # JaeidPath6_33dd31c3 (line 21996)
 translate ru JaeidPath6_33dd31c3:
     # s "Thank you, thank you."
-    s ""
+    s "Thank you, thank you."
 
 # JaeidPath6_0d8fb563 (line 21997)
 translate ru JaeidPath6_0d8fb563:
@@ -2246,17 +2216,17 @@ translate ru JaeidPath6_338479da:
 # JaeidPath6_16a04714 (line 22017)
 translate ru JaeidPath6_16a04714:
     # s "You saved me..."
-    s ""
+    s "You saved me..."
 
 # JaeidPath6_8735376e (line 22018)
 translate ru JaeidPath6_8735376e:
     # j "I did no such thing."
-    j ""
+    j "I did no such thing."
 
 # JaeidPath6_43aefbe4 (line 22019)
 translate ru JaeidPath6_43aefbe4:
     # s "You did...he was going to give me to that man and you..."
-    s ""
+    s "You did...he was going to give me to that man and you..."
 
 # JaeidPath6_c21ca18b (line 22020)
 translate ru JaeidPath6_c21ca18b:
@@ -2266,35 +2236,25 @@ translate ru JaeidPath6_c21ca18b:
 # JaeidPath6_7ba8b1b2 (line 22022)
 translate ru JaeidPath6_7ba8b1b2:
     # j "I protected you. I did only the duty that is demanded of a man."
-    j ""
+    j "I protected you. I did only the duty that is demanded of a man."
 
 # JaeidPath6_dfe5a580 (line 22023)
 translate ru JaeidPath6_dfe5a580:
     # s "But the Khan...his anger...what if..."
-    s ""
+    s "But the Khan...his anger...what if..."
 
 # JaeidPath6_6df02443 (line 22024)
 translate ru JaeidPath6_6df02443:
     # j "What if he harmed me?"
-    j ""
+    j "What if he harmed me?"
 
 # JaeidPath6_ceb78ade (line 22026)
 translate ru JaeidPath6_ceb78ade:
     # j "Gladly that I suffer a thousand deaths in glory, than live one lifetime in shame."
-    j ""
+    j "Gladly that I suffer a thousand deaths in glory, than live one lifetime in shame."
 
 # JaeidPath6_99baeb60 (line 22033)
 translate ru JaeidPath6_99baeb60:
     # "Sarah threw her arms around him and kept him in an embrace."
     ""
-
-# JaeidPath6_9f233a8f (line 22036)
-translate ru JaeidPath6_9f233a8f:
-    # "Sleep with Jaeid"
-    "Sleep with Jaeid" ""
-
-# JaeidPath6_bd1e47b3 (line 22249)
-translate ru JaeidPath6_bd1e47b3:
-    # "Sleep alone"
-    "Sleep alone" ""
 

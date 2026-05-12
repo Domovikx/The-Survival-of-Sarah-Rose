@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: OutsideAndAlone3
-# Total blocks: 32
+# Total blocks: 29
 
 # OutsideAndAlone3_feb58228 (line 62076)
 translate ru OutsideAndAlone3_feb58228:
@@ -131,7 +131,7 @@ translate ru OutsideAndAlone3_63841bba:
 # OutsideAndAlone3_bf50fc5f (line 62125)
 translate ru OutsideAndAlone3_bf50fc5f:
     # s "No!"
-    s ""
+    s "No!"
 
 # OutsideAndAlone3_18aa44d2 (line 62130)
 translate ru OutsideAndAlone3_18aa44d2:
@@ -147,19 +147,4 @@ translate ru OutsideAndAlone3_ce1fac63:
 translate ru OutsideAndAlone3_4e2373b4:
     # "Sarah stood up and scanned her suroundings. It was time to make a decision."
     ""
-
-# OutsideAndAlone3_81b36c19 (line 62136)
-translate ru OutsideAndAlone3_81b36c19:
-    # "Explore the city"
-    "Explore the city" ""
-
-# OutsideAndAlone3_4b71661a (line 62142)
-translate ru OutsideAndAlone3_4b71661a:
-    # "Explore the docks"
-    "Explore the docks" ""
-
-# OutsideAndAlone3_33eed9be (line 62148)
-translate ru OutsideAndAlone3_33eed9be:
-    # "Leave Lethram"
-    "Leave Lethram" ""
 

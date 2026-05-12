@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: WarriorQueen5
-# Total blocks: 64
+# Total blocks: 62
 
 # WarriorQueen5_e5c92ee2 (line 55925)
 translate ru WarriorQueen5_e5c92ee2:
@@ -126,7 +126,7 @@ translate ru WarriorQueen5_4c66b9db:
 # WarriorQueen5_301291ba (line 55961)
 translate ru WarriorQueen5_301291ba:
     # s "Riders?"
-    s ""
+    s "Riders?"
 
 # WarriorQueen5_59c81e50 (line 55962)
 translate ru WarriorQueen5_59c81e50:
@@ -136,7 +136,7 @@ translate ru WarriorQueen5_59c81e50:
 # WarriorQueen5_bbf36161 (line 55963)
 translate ru WarriorQueen5_bbf36161:
     # s "Is there an attack?"
-    s ""
+    s "Is there an attack?"
 
 # WarriorQueen5_7e91a95c (line 55964)
 translate ru WarriorQueen5_7e91a95c:
@@ -156,7 +156,7 @@ translate ru WarriorQueen5_cf3859d9:
 # WarriorQueen5_87873bcc (line 55967)
 translate ru WarriorQueen5_87873bcc:
     # s "Thank you for the report, go back to your station."
-    s ""
+    s "Thank you for the report, go back to your station."
 
 # WarriorQueen5_9d36b1f4 (line 55968)
 translate ru WarriorQueen5_9d36b1f4:
@@ -312,14 +312,4 @@ translate ru WarriorQueen5_c2aa7440:
 translate ru WarriorQueen5_066e827d:
     # "But she could only make one decision."
     ""
-
-# WarriorQueen5_9b958808 (line 56524)
-translate ru WarriorQueen5_9b958808:
-    # "March on Calshure"
-    "March on Calshure" ""
-
-# WarriorQueen5_a37e40a2 (line 56528)
-translate ru WarriorQueen5_a37e40a2:
-    # "March through the Hinterlands"
-    "March through the Hinterlands" ""
 

@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TheBlackMonolithWarrior2
-# Total blocks: 628
+# Total blocks: 620
 
 # TheBlackMonolithWarrior2_a06905d7 (line 45504)
 translate ru TheBlackMonolithWarrior2_a06905d7:
@@ -46,7 +46,7 @@ translate ru TheBlackMonolithWarrior2_bb92c529:
 # TheBlackMonolithWarrior2_ad641dca (line 45519)
 translate ru TheBlackMonolithWarrior2_ad641dca:
     # cas "Hail, Rose knight."
-    cas ""
+    cas "Hail, Rose knight."
 
 # TheBlackMonolithWarrior2_4662c0a9 (line 45520)
 translate ru TheBlackMonolithWarrior2_4662c0a9:
@@ -56,7 +56,7 @@ translate ru TheBlackMonolithWarrior2_4662c0a9:
 # TheBlackMonolithWarrior2_6e968fc1 (line 45521)
 translate ru TheBlackMonolithWarrior2_6e968fc1:
     # s "Greetings."
-    s ""
+    s "Greetings."
 
 # TheBlackMonolithWarrior2_978c3cdc (line 45522)
 translate ru TheBlackMonolithWarrior2_978c3cdc:
@@ -66,7 +66,7 @@ translate ru TheBlackMonolithWarrior2_978c3cdc:
 # TheBlackMonolithWarrior2_6426882d (line 45523)
 translate ru TheBlackMonolithWarrior2_6426882d:
     # s "How do you know who I am?"
-    s ""
+    s "How do you know who I am?"
 
 # TheBlackMonolithWarrior2_e6e04206 (line 45524)
 translate ru TheBlackMonolithWarrior2_e6e04206:
@@ -76,12 +76,12 @@ translate ru TheBlackMonolithWarrior2_e6e04206:
 # TheBlackMonolithWarrior2_aea7df23 (line 45525)
 translate ru TheBlackMonolithWarrior2_aea7df23:
     # cas "Your reputation proceeds you."
-    cas ""
+    cas "Your reputation proceeds you."
 
 # TheBlackMonolithWarrior2_93e2d8d8 (line 45526)
 translate ru TheBlackMonolithWarrior2_93e2d8d8:
     # cas "And when I was told to seek out the Rose Knight, a beautiful woman with golden hair...well, there aren't a lot of those around."
-    cas ""
+    cas "And when I was told to seek out the Rose Knight, a beautiful woman with golden hair...well, there aren't a lot of those around."
 
 # TheBlackMonolithWarrior2_20336b57 (line 45527)
 translate ru TheBlackMonolithWarrior2_20336b57:
@@ -91,12 +91,12 @@ translate ru TheBlackMonolithWarrior2_20336b57:
 # TheBlackMonolithWarrior2_a0eec878 (line 45528)
 translate ru TheBlackMonolithWarrior2_a0eec878:
     # s "Where I come from, one introduces themselves before presuming to know the other."
-    s ""
+    s "Where I come from, one introduces themselves before presuming to know the other."
 
 # TheBlackMonolithWarrior2_eb6a861b (line 45529)
 translate ru TheBlackMonolithWarrior2_eb6a861b:
     # cas "My apologies, a humble slave such as myself is a stranger to your ways."
-    cas ""
+    cas "My apologies, a humble slave such as myself is a stranger to your ways."
 
 # TheBlackMonolithWarrior2_fb6aa6de (line 45530)
 translate ru TheBlackMonolithWarrior2_fb6aa6de:
@@ -106,12 +106,12 @@ translate ru TheBlackMonolithWarrior2_fb6aa6de:
 # TheBlackMonolithWarrior2_a2812227 (line 45531)
 translate ru TheBlackMonolithWarrior2_a2812227:
     # cas "I am Cassius, War-Brother to Dio, and slave to house Adamos."
-    cas ""
+    cas "I am Cassius, War-Brother to Dio, and slave to house Adamos."
 
 # TheBlackMonolithWarrior2_aea5ebec (line 45532)
 translate ru TheBlackMonolithWarrior2_aea5ebec:
     # cas "My master has requested your presence."
-    cas ""
+    cas "My master has requested your presence."
 
 # TheBlackMonolithWarrior2_926e79f1 (line 45533)
 translate ru TheBlackMonolithWarrior2_926e79f1:
@@ -121,12 +121,12 @@ translate ru TheBlackMonolithWarrior2_926e79f1:
 # TheBlackMonolithWarrior2_cb0278f9 (line 45534)
 translate ru TheBlackMonolithWarrior2_cb0278f9:
     # s "Your master?"
-    s ""
+    s "Your master?"
 
 # TheBlackMonolithWarrior2_8663cea7 (line 45535)
 translate ru TheBlackMonolithWarrior2_8663cea7:
     # cas "Yes, the overseer for this entire expedition in fact. They wish to meet with you."
-    cas ""
+    cas "Yes, the overseer for this entire expedition in fact. They wish to meet with you."
 
 # TheBlackMonolithWarrior2_bdf07177 (line 45536)
 translate ru TheBlackMonolithWarrior2_bdf07177:
@@ -136,7 +136,7 @@ translate ru TheBlackMonolithWarrior2_bdf07177:
 # TheBlackMonolithWarrior2_c28eeda5 (line 45537)
 translate ru TheBlackMonolithWarrior2_c28eeda5:
     # s "What if I don't want to meet with your master?"
-    s ""
+    s "What if I don't want to meet with your master?"
 
 # TheBlackMonolithWarrior2_358d0c4e (line 45538)
 translate ru TheBlackMonolithWarrior2_358d0c4e:
@@ -146,7 +146,7 @@ translate ru TheBlackMonolithWarrior2_358d0c4e:
 # TheBlackMonolithWarrior2_5a6f429b (line 45539)
 translate ru TheBlackMonolithWarrior2_5a6f429b:
     # cas "Then I shall report back as such. There is no force here."
-    cas ""
+    cas "Then I shall report back as such. There is no force here."
 
 # TheBlackMonolithWarrior2_4dcfa653 (line 45540)
 translate ru TheBlackMonolithWarrior2_4dcfa653:
@@ -156,12 +156,12 @@ translate ru TheBlackMonolithWarrior2_4dcfa653:
 # TheBlackMonolithWarrior2_ef17374d (line 45541)
 translate ru TheBlackMonolithWarrior2_ef17374d:
     # s "Fine, I will meet with your master, take me to him."
-    s ""
+    s "Fine, I will meet with your master, take me to him."
 
 # TheBlackMonolithWarrior2_f2108fb5 (line 45542)
 translate ru TheBlackMonolithWarrior2_f2108fb5:
     # cas "Excellent, follow me and I will take you to the master's tent."
-    cas ""
+    cas "Excellent, follow me and I will take you to the master's tent."
 
 # TheBlackMonolithWarrior2_959cbb06 (line 45543)
 translate ru TheBlackMonolithWarrior2_959cbb06:
@@ -186,7 +186,7 @@ translate ru TheBlackMonolithWarrior2_7b60a848:
 # TheBlackMonolithWarrior2_b4dbe879 (line 45547)
 translate ru TheBlackMonolithWarrior2_b4dbe879:
     # s "You said you are a slave?"
-    s ""
+    s "You said you are a slave?"
 
 # TheBlackMonolithWarrior2_812b7bb7 (line 45548)
 translate ru TheBlackMonolithWarrior2_812b7bb7:
@@ -196,7 +196,7 @@ translate ru TheBlackMonolithWarrior2_812b7bb7:
 # TheBlackMonolithWarrior2_edf50842 (line 45549)
 translate ru TheBlackMonolithWarrior2_edf50842:
     # s "You do not strike me as one."
-    s ""
+    s "You do not strike me as one."
 
 # TheBlackMonolithWarrior2_8ab20f3e (line 45550)
 translate ru TheBlackMonolithWarrior2_8ab20f3e:
@@ -206,17 +206,17 @@ translate ru TheBlackMonolithWarrior2_8ab20f3e:
 # TheBlackMonolithWarrior2_a451663d (line 45551)
 translate ru TheBlackMonolithWarrior2_a451663d:
     # cas "From birth, me and my War-Sister Dio have been raised in service to the Mythran empire."
-    cas ""
+    cas "From birth, me and my War-Sister Dio have been raised in service to the Mythran empire."
 
 # TheBlackMonolithWarrior2_c53b5d5b (line 45552)
 translate ru TheBlackMonolithWarrior2_c53b5d5b:
     # cas "We have been in service to various houses over the years, but house Adamos has treated us well these last six years."
-    cas ""
+    cas "We have been in service to various houses over the years, but house Adamos has treated us well these last six years."
 
 # TheBlackMonolithWarrior2_3991e6d7 (line 45553)
 translate ru TheBlackMonolithWarrior2_3991e6d7:
     # s "You carry yourself as a free man."
-    s ""
+    s "You carry yourself as a free man."
 
 # TheBlackMonolithWarrior2_286ffaa6 (line 45554)
 translate ru TheBlackMonolithWarrior2_286ffaa6:
@@ -226,17 +226,17 @@ translate ru TheBlackMonolithWarrior2_286ffaa6:
 # TheBlackMonolithWarrior2_a5be1ac5 (line 45555)
 translate ru TheBlackMonolithWarrior2_a5be1ac5:
     # cas "Perhaps. I have never known another life, and so perhaps I cannot envy a freedom I never had to begin with."
-    cas ""
+    cas "Perhaps. I have never known another life, and so perhaps I cannot envy a freedom I never had to begin with."
 
 # TheBlackMonolithWarrior2_35c91755 (line 45556)
 translate ru TheBlackMonolithWarrior2_35c91755:
     # cas "In Mythra, the nature of slavery is also not as crude as most parts of the world."
-    cas ""
+    cas "In Mythra, the nature of slavery is also not as crude as most parts of the world."
 
 # TheBlackMonolithWarrior2_09278c25 (line 45557)
 translate ru TheBlackMonolithWarrior2_09278c25:
     # cas "One can carve out a space for themselves, to a degree."
-    cas ""
+    cas "One can carve out a space for themselves, to a degree."
 
 # TheBlackMonolithWarrior2_24497764 (line 45558)
 translate ru TheBlackMonolithWarrior2_24497764:
@@ -251,7 +251,7 @@ translate ru TheBlackMonolithWarrior2_8adedaad:
 # TheBlackMonolithWarrior2_0b60937c (line 45560)
 translate ru TheBlackMonolithWarrior2_0b60937c:
     # s "Where I come from, there are no slaves."
-    s ""
+    s "Where I come from, there are no slaves."
 
 # TheBlackMonolithWarrior2_264dc15d (line 45561)
 translate ru TheBlackMonolithWarrior2_264dc15d:
@@ -261,17 +261,17 @@ translate ru TheBlackMonolithWarrior2_264dc15d:
 # TheBlackMonolithWarrior2_78945d83 (line 45562)
 translate ru TheBlackMonolithWarrior2_78945d83:
     # cas "Except for kings and emperors, we are all slaves to someone or something. All burdened with our own labors and tasks."
-    cas ""
+    cas "Except for kings and emperors, we are all slaves to someone or something. All burdened with our own labors and tasks."
 
 # TheBlackMonolithWarrior2_d531180d (line 45563)
 translate ru TheBlackMonolithWarrior2_d531180d:
     # cas "I have found mine to be to my suiting, so who am I to object?"
-    cas ""
+    cas "I have found mine to be to my suiting, so who am I to object?"
 
 # TheBlackMonolithWarrior2_8d7ec829 (line 45564)
 translate ru TheBlackMonolithWarrior2_8d7ec829:
     # s "And what are your labors, exactly?"
-    s ""
+    s "And what are your labors, exactly?"
 
 # TheBlackMonolithWarrior2_a9d41b93 (line 45565)
 translate ru TheBlackMonolithWarrior2_a9d41b93:
@@ -281,7 +281,7 @@ translate ru TheBlackMonolithWarrior2_a9d41b93:
 # TheBlackMonolithWarrior2_da7b8f03 (line 45566)
 translate ru TheBlackMonolithWarrior2_da7b8f03:
     # cas "A soldier, much like you I suppose."
-    cas ""
+    cas "A soldier, much like you I suppose."
 
 # TheBlackMonolithWarrior2_17b9d70b (line 45567)
 translate ru TheBlackMonolithWarrior2_17b9d70b:
@@ -291,7 +291,7 @@ translate ru TheBlackMonolithWarrior2_17b9d70b:
 # TheBlackMonolithWarrior2_d1175c91 (line 45568)
 translate ru TheBlackMonolithWarrior2_d1175c91:
     # cas "Oathsworn to my War-Sister. Together we've managed to make our way through life."
-    cas ""
+    cas "Oathsworn to my War-Sister. Together we've managed to make our way through life."
 
 # TheBlackMonolithWarrior2_73e8675a (line 45569)
 translate ru TheBlackMonolithWarrior2_73e8675a:
@@ -301,7 +301,7 @@ translate ru TheBlackMonolithWarrior2_73e8675a:
 # TheBlackMonolithWarrior2_916a9512 (line 45570)
 translate ru TheBlackMonolithWarrior2_916a9512:
     # s "What exactly is that? A...War-Brother, War-Sister?"
-    s ""
+    s "What exactly is that? A...War-Brother, War-Sister?"
 
 # TheBlackMonolithWarrior2_cc08e96e (line 45571)
 translate ru TheBlackMonolithWarrior2_cc08e96e:
@@ -311,7 +311,7 @@ translate ru TheBlackMonolithWarrior2_cc08e96e:
 # TheBlackMonolithWarrior2_c56ac0e2 (line 45572)
 translate ru TheBlackMonolithWarrior2_c56ac0e2:
     # cas "Aah, forgive me. I forget sometimes that not all hail from Mythra."
-    cas ""
+    cas "Aah, forgive me. I forget sometimes that not all hail from Mythra."
 
 # TheBlackMonolithWarrior2_360de570 (line 45573)
 translate ru TheBlackMonolithWarrior2_360de570:
@@ -321,7 +321,7 @@ translate ru TheBlackMonolithWarrior2_360de570:
 # TheBlackMonolithWarrior2_1dedc92d (line 45574)
 translate ru TheBlackMonolithWarrior2_1dedc92d:
     # cas "But I fear we are out of time, Rose Knight."
-    cas ""
+    cas "But I fear we are out of time, Rose Knight."
 
 # TheBlackMonolithWarrior2_62a23912 (line 45575)
 translate ru TheBlackMonolithWarrior2_62a23912:
@@ -331,7 +331,7 @@ translate ru TheBlackMonolithWarrior2_62a23912:
 # TheBlackMonolithWarrior2_a23de609 (line 45576)
 translate ru TheBlackMonolithWarrior2_a23de609:
     # s "Will you tell me another time?"
-    s ""
+    s "Will you tell me another time?"
 
 # TheBlackMonolithWarrior2_787fd8d1 (line 45577)
 translate ru TheBlackMonolithWarrior2_787fd8d1:
@@ -341,12 +341,12 @@ translate ru TheBlackMonolithWarrior2_787fd8d1:
 # TheBlackMonolithWarrior2_546ab7fc (line 45578)
 translate ru TheBlackMonolithWarrior2_546ab7fc:
     # cas "Should we chance to meet again."
-    cas ""
+    cas "Should we chance to meet again."
 
 # TheBlackMonolithWarrior2_0b128b19 (line 45579)
 translate ru TheBlackMonolithWarrior2_0b128b19:
     # cas "Now please, my master is waiting for you."
-    cas ""
+    cas "Now please, my master is waiting for you."
 
 # TheBlackMonolithWarrior2_be52dfcb (line 45580)
 translate ru TheBlackMonolithWarrior2_be52dfcb:
@@ -391,7 +391,7 @@ translate ru TheBlackMonolithWarrior2_fd588cc7:
 # TheBlackMonolithWarrior2_af4af934 (line 45594)
 translate ru TheBlackMonolithWarrior2_af4af934:
     # c "So it really is you."
-    c ""
+    c "So it really is you."
 
 # TheBlackMonolithWarrior2_0e94f282 (line 45595)
 translate ru TheBlackMonolithWarrior2_0e94f282:
@@ -426,7 +426,7 @@ translate ru TheBlackMonolithWarrior2_30dcddf6:
 # TheBlackMonolithWarrior2_b8d6ad83 (line 45603)
 translate ru TheBlackMonolithWarrior2_b8d6ad83:
     # c "A little roughed up here and there, but you still have your mother's beauty."
-    c ""
+    c "A little roughed up here and there, but you still have your mother's beauty."
 
 # TheBlackMonolithWarrior2_1a09a8f0 (line 45604)
 translate ru TheBlackMonolithWarrior2_1a09a8f0:
@@ -436,7 +436,7 @@ translate ru TheBlackMonolithWarrior2_1a09a8f0:
 # TheBlackMonolithWarrior2_155429fb (line 45605)
 translate ru TheBlackMonolithWarrior2_155429fb:
     # c "And now your father's strength as well, I see."
-    c ""
+    c "And now your father's strength as well, I see."
 
 # TheBlackMonolithWarrior2_dfe8231e (line 45606)
 translate ru TheBlackMonolithWarrior2_dfe8231e:
@@ -446,7 +446,7 @@ translate ru TheBlackMonolithWarrior2_dfe8231e:
 # TheBlackMonolithWarrior2_0ea2c897 (line 45607)
 translate ru TheBlackMonolithWarrior2_0ea2c897:
     # s "How did you..."
-    s ""
+    s "How did you..."
 
 # TheBlackMonolithWarrior2_ab0569a9 (line 45608)
 translate ru TheBlackMonolithWarrior2_ab0569a9:
@@ -456,22 +456,22 @@ translate ru TheBlackMonolithWarrior2_ab0569a9:
 # TheBlackMonolithWarrior2_a3ec961e (line 45609)
 translate ru TheBlackMonolithWarrior2_a3ec961e:
     # c "Survive?"
-    c ""
+    c "Survive?"
 
 # TheBlackMonolithWarrior2_731bde1e (line 45610)
 translate ru TheBlackMonolithWarrior2_731bde1e:
     # c "Ooh dear, my family has always played the odds of the market, and the odds of life."
-    c ""
+    c "Ooh dear, my family has always played the odds of the market, and the odds of life."
 
 # TheBlackMonolithWarrior2_67d73aba (line 45611)
 translate ru TheBlackMonolithWarrior2_67d73aba:
     # c "When you dissapeared, the reports of the advancing tribesmen increased with each passing day."
-    c ""
+    c "When you dissapeared, the reports of the advancing tribesmen increased with each passing day."
 
 # TheBlackMonolithWarrior2_fd3f42d6 (line 45612)
 translate ru TheBlackMonolithWarrior2_fd3f42d6:
     # c "We considered it a wise moment to...visit some distant relatives in Rahayal."
-    c ""
+    c "We considered it a wise moment to...visit some distant relatives in Rahayal."
 
 # TheBlackMonolithWarrior2_c866bf4f (line 45613)
 translate ru TheBlackMonolithWarrior2_c866bf4f:
@@ -481,17 +481,17 @@ translate ru TheBlackMonolithWarrior2_c866bf4f:
 # TheBlackMonolithWarrior2_175b1164 (line 45614)
 translate ru TheBlackMonolithWarrior2_175b1164:
     # c "My family made our fortune in banking. For us, we could make our money as easily in one place as another."
-    c ""
+    c "My family made our fortune in banking. For us, we could make our money as easily in one place as another."
 
 # TheBlackMonolithWarrior2_19b0a353 (line 45615)
 translate ru TheBlackMonolithWarrior2_19b0a353:
     # c "It was many of the other noble families that could not imagine running from all their holdings."
-    c ""
+    c "It was many of the other noble families that could not imagine running from all their holdings."
 
 # TheBlackMonolithWarrior2_6dad034d (line 45616)
 translate ru TheBlackMonolithWarrior2_6dad034d:
     # c "Many of them died trying to defend plots of land that now run barren. Such a waste of human life, that whole affair."
-    c ""
+    c "Many of them died trying to defend plots of land that now run barren. Such a waste of human life, that whole affair."
 
 # TheBlackMonolithWarrior2_65135009 (line 45617)
 translate ru TheBlackMonolithWarrior2_65135009:
@@ -506,37 +506,37 @@ translate ru TheBlackMonolithWarrior2_725cd70c:
 # TheBlackMonolithWarrior2_2705bdc4 (line 45619)
 translate ru TheBlackMonolithWarrior2_2705bdc4:
     # c "But tell me dear, I really should be asking you that question."
-    c ""
+    c "But tell me dear, I really should be asking you that question."
 
 # TheBlackMonolithWarrior2_8ef7eaa2 (line 45620)
 translate ru TheBlackMonolithWarrior2_8ef7eaa2:
     # s "What question?"
-    s ""
+    s "What question?"
 
 # TheBlackMonolithWarrior2_904b45e2 (line 45621)
 translate ru TheBlackMonolithWarrior2_904b45e2:
     # c "How you managed to survive at all. I thought you were dead for years."
-    c ""
+    c "How you managed to survive at all. I thought you were dead for years."
 
 # TheBlackMonolithWarrior2_33086606 (line 45622)
 translate ru TheBlackMonolithWarrior2_33086606:
     # s "Dead?"
-    s ""
+    s "Dead?"
 
 # TheBlackMonolithWarrior2_86ce2c85 (line 45623)
 translate ru TheBlackMonolithWarrior2_86ce2c85:
     # c "Well, you had vanished from the castle and not a soul seemed to have any hint of you."
-    c ""
+    c "Well, you had vanished from the castle and not a soul seemed to have any hint of you."
 
 # TheBlackMonolithWarrior2_5c339914 (line 45624)
 translate ru TheBlackMonolithWarrior2_5c339914:
     # c "Many of us first suspected your brother had send you away, to hide in some secret fort until the threat of the tribesmen had passed."
-    c ""
+    c "Many of us first suspected your brother had send you away, to hide in some secret fort until the threat of the tribesmen had passed."
 
 # TheBlackMonolithWarrior2_1bb59345 (line 45625)
 translate ru TheBlackMonolithWarrior2_1bb59345:
     # c "But your brother was always honest to a fault. We all quickly saw that the panic on his face was no pretend."
-    c ""
+    c "But your brother was always honest to a fault. We all quickly saw that the panic on his face was no pretend."
 
 # TheBlackMonolithWarrior2_5fd2031c (line 45626)
 translate ru TheBlackMonolithWarrior2_5fd2031c:
@@ -546,7 +546,7 @@ translate ru TheBlackMonolithWarrior2_5fd2031c:
 # TheBlackMonolithWarrior2_e2c7e7dc (line 45627)
 translate ru TheBlackMonolithWarrior2_e2c7e7dc:
     # s "Thomas...he...was afraid?"
-    s ""
+    s "Thomas...he...was afraid?"
 
 # TheBlackMonolithWarrior2_61f0225f (line 45628)
 translate ru TheBlackMonolithWarrior2_61f0225f:
@@ -556,17 +556,7 @@ translate ru TheBlackMonolithWarrior2_61f0225f:
 # TheBlackMonolithWarrior2_882f460d (line 45629)
 translate ru TheBlackMonolithWarrior2_882f460d:
     # c "Dear, do not torment yourself with the horrors of the past. What happened has happened, let it rest in the ground with the dead."
-    c ""
-
-# TheBlackMonolithWarrior2_1f61bfc5 (line 45632)
-translate ru TheBlackMonolithWarrior2_1f61bfc5:
-    # "Insist, ask Lady Carolyn about Thomas"
-    "Insist, ask Lady Carolyn about Thomas" ""
-
-# TheBlackMonolithWarrior2_8d193f9a (line 45649)
-translate ru TheBlackMonolithWarrior2_8d193f9a:
-    # "Relent, let the matter rest"
-    "Relent, let the matter rest" ""
+    c "Dear, do not torment yourself with the horrors of the past. What happened has happened, let it rest in the ground with the dead."
 
 # TheBlackMonolithWarrior2_715f6eb9 (line 45653)
 translate ru TheBlackMonolithWarrior2_715f6eb9:
@@ -581,7 +571,7 @@ translate ru TheBlackMonolithWarrior2_cfd709c6:
 # TheBlackMonolithWarrior2_f864190b (line 45655)
 translate ru TheBlackMonolithWarrior2_f864190b:
     # s "I...I was told to meet the master of the camp."
-    s ""
+    s "I...I was told to meet the master of the camp."
 
 # TheBlackMonolithWarrior2_4993d7fb (line 45656)
 translate ru TheBlackMonolithWarrior2_4993d7fb:
@@ -591,17 +581,17 @@ translate ru TheBlackMonolithWarrior2_4993d7fb:
 # TheBlackMonolithWarrior2_708df326 (line 45657)
 translate ru TheBlackMonolithWarrior2_708df326:
     # c "Ooh dear, I imagined you understood."
-    c ""
+    c "Ooh dear, I imagined you understood."
 
 # TheBlackMonolithWarrior2_0f2078a0 (line 45658)
 translate ru TheBlackMonolithWarrior2_0f2078a0:
     # s "Understood?"
-    s ""
+    s "Understood?"
 
 # TheBlackMonolithWarrior2_20065cd7 (line 45659)
 translate ru TheBlackMonolithWarrior2_20065cd7:
     # c "I am the master of the camp."
-    c ""
+    c "I am the master of the camp."
 
 # TheBlackMonolithWarrior2_904e9565 (line 45660)
 translate ru TheBlackMonolithWarrior2_904e9565:
@@ -611,7 +601,7 @@ translate ru TheBlackMonolithWarrior2_904e9565:
 # TheBlackMonolithWarrior2_66672154 (line 45661)
 translate ru TheBlackMonolithWarrior2_66672154:
     # s "But, how? This is a Mythran army, and you..."
-    s ""
+    s "But, how? This is a Mythran army, and you..."
 
 # TheBlackMonolithWarrior2_d3ee2322 (line 45662)
 translate ru TheBlackMonolithWarrior2_d3ee2322:
@@ -621,22 +611,22 @@ translate ru TheBlackMonolithWarrior2_d3ee2322:
 # TheBlackMonolithWarrior2_4b7eda26 (line 45663)
 translate ru TheBlackMonolithWarrior2_4b7eda26:
     # c "Mythra is a massive, sprawling empire. It had interests and concerns on every corner of the world."
-    c ""
+    c "Mythra is a massive, sprawling empire. It had interests and concerns on every corner of the world."
 
 # TheBlackMonolithWarrior2_54d06c41 (line 45664)
 translate ru TheBlackMonolithWarrior2_54d06c41:
     # c "You don't get to a place like that by only sticking to your own."
-    c ""
+    c "You don't get to a place like that by only sticking to your own."
 
 # TheBlackMonolithWarrior2_30217ad7 (line 45665)
 translate ru TheBlackMonolithWarrior2_30217ad7:
     # c "The Mythrans, they are not so concerned with who comes from where. They are rather a bit more practical."
-    c ""
+    c "The Mythrans, they are not so concerned with who comes from where. They are rather a bit more practical."
 
 # TheBlackMonolithWarrior2_cbea4363 (line 45666)
 translate ru TheBlackMonolithWarrior2_cbea4363:
     # c "And I do have some talents they valued."
-    c ""
+    c "And I do have some talents they valued."
 
 # TheBlackMonolithWarrior2_a4e91a77 (line 45667)
 translate ru TheBlackMonolithWarrior2_a4e91a77:
@@ -671,7 +661,7 @@ translate ru TheBlackMonolithWarrior2_c6d7f281:
 # TheBlackMonolithWarrior2_8444f5d3 (line 45673)
 translate ru TheBlackMonolithWarrior2_8444f5d3:
     # s "So you are a general now?"
-    s ""
+    s "So you are a general now?"
 
 # TheBlackMonolithWarrior2_1706a2d8 (line 45674)
 translate ru TheBlackMonolithWarrior2_1706a2d8:
@@ -681,7 +671,7 @@ translate ru TheBlackMonolithWarrior2_1706a2d8:
 # TheBlackMonolithWarrior2_f33edcc4 (line 45675)
 translate ru TheBlackMonolithWarrior2_f33edcc4:
     # c "Me, a general? Ooh dear, I fear that if I were to pick up a sword I'd be a danger to myself more than anyone else."
-    c ""
+    c "Me, a general? Ooh dear, I fear that if I were to pick up a sword I'd be a danger to myself more than anyone else."
 
 # TheBlackMonolithWarrior2_e4d41c9b (line 45676)
 translate ru TheBlackMonolithWarrior2_e4d41c9b:
@@ -691,17 +681,17 @@ translate ru TheBlackMonolithWarrior2_e4d41c9b:
 # TheBlackMonolithWarrior2_78fbf8d5 (line 45677)
 translate ru TheBlackMonolithWarrior2_78fbf8d5:
     # c "Not like you though."
-    c ""
+    c "Not like you though."
 
 # TheBlackMonolithWarrior2_4110331e (line 45678)
 translate ru TheBlackMonolithWarrior2_4110331e:
     # c "Look at that body, that stance. Every part of you screams the soldier."
-    c ""
+    c "Look at that body, that stance. Every part of you screams the soldier."
 
 # TheBlackMonolithWarrior2_3bb3a806 (line 45679)
 translate ru TheBlackMonolithWarrior2_3bb3a806:
     # c "It is that I see so much of your family in your face, or I would never have recognized you to be the girl from all those years ago."
-    c ""
+    c "It is that I see so much of your family in your face, or I would never have recognized you to be the girl from all those years ago."
 
 # TheBlackMonolithWarrior2_f3256f21 (line 45680)
 translate ru TheBlackMonolithWarrior2_f3256f21:
@@ -711,7 +701,7 @@ translate ru TheBlackMonolithWarrior2_f3256f21:
 # TheBlackMonolithWarrior2_9a4e7140 (line 45681)
 translate ru TheBlackMonolithWarrior2_9a4e7140:
     # s "I'm not that girl anymore."
-    s ""
+    s "I'm not that girl anymore."
 
 # TheBlackMonolithWarrior2_f6e1b9ed (line 45682)
 translate ru TheBlackMonolithWarrior2_f6e1b9ed:
@@ -721,7 +711,7 @@ translate ru TheBlackMonolithWarrior2_f6e1b9ed:
 # TheBlackMonolithWarrior2_91c21e61 (line 45683)
 translate ru TheBlackMonolithWarrior2_91c21e61:
     # c "You're right about that. Very much a woman now."
-    c ""
+    c "You're right about that. Very much a woman now."
 
 # TheBlackMonolithWarrior2_59806863 (line 45684)
 translate ru TheBlackMonolithWarrior2_59806863:
@@ -741,17 +731,17 @@ translate ru TheBlackMonolithWarrior2_abeb68c6:
 # TheBlackMonolithWarrior2_83a3ab8e (line 45687)
 translate ru TheBlackMonolithWarrior2_83a3ab8e:
     # s "What are you to the Mythrans then?"
-    s ""
+    s "What are you to the Mythrans then?"
 
 # TheBlackMonolithWarrior2_67082167 (line 45688)
 translate ru TheBlackMonolithWarrior2_67082167:
     # c "An agent."
-    c ""
+    c "An agent."
 
 # TheBlackMonolithWarrior2_b68979bd (line 45689)
 translate ru TheBlackMonolithWarrior2_b68979bd:
     # c "I made myself valuable in the capital, Rahayal, and after a while they saw my value, what I could bring. A certain degree of skill and discretion."
-    c ""
+    c "I made myself valuable in the capital, Rahayal, and after a while they saw my value, what I could bring. A certain degree of skill and discretion."
 
 # TheBlackMonolithWarrior2_3fecc14e (line 45690)
 translate ru TheBlackMonolithWarrior2_3fecc14e:
@@ -761,12 +751,12 @@ translate ru TheBlackMonolithWarrior2_3fecc14e:
 # TheBlackMonolithWarrior2_0a58e26b (line 45691)
 translate ru TheBlackMonolithWarrior2_0a58e26b:
     # c "Soldiers, generals. They're all good at smashing things up. And Mythran armies are certainly very good at that."
-    c ""
+    c "Soldiers, generals. They're all good at smashing things up. And Mythran armies are certainly very good at that."
 
 # TheBlackMonolithWarrior2_87ff01a3 (line 45692)
 translate ru TheBlackMonolithWarrior2_87ff01a3:
     # c "But sometimes, a softer touch is required. Not just someone who can use force, but someone who knows when to use it."
-    c ""
+    c "But sometimes, a softer touch is required. Not just someone who can use force, but someone who knows when to use it."
 
 # TheBlackMonolithWarrior2_05b65082 (line 45693)
 translate ru TheBlackMonolithWarrior2_05b65082:
@@ -776,7 +766,7 @@ translate ru TheBlackMonolithWarrior2_05b65082:
 # TheBlackMonolithWarrior2_653a0a65 (line 45694)
 translate ru TheBlackMonolithWarrior2_653a0a65:
     # s "So what is this army doing out here then?"
-    s ""
+    s "So what is this army doing out here then?"
 
 # TheBlackMonolithWarrior2_ee857354 (line 45695)
 translate ru TheBlackMonolithWarrior2_ee857354:
@@ -786,17 +776,7 @@ translate ru TheBlackMonolithWarrior2_ee857354:
 # TheBlackMonolithWarrior2_133a5582 (line 45696)
 translate ru TheBlackMonolithWarrior2_133a5582:
     # c "Aah, should I give up my secrets so easily to you?"
-    c ""
-
-# TheBlackMonolithWarrior2_2d7c55ec (line 45699)
-translate ru TheBlackMonolithWarrior2_2d7c55ec:
-    # "Assert yourself"
-    "Assert yourself" ""
-
-# TheBlackMonolithWarrior2_261a5aec (line 45715)
-translate ru TheBlackMonolithWarrior2_261a5aec:
-    # "Hold back"
-    "Hold back" ""
+    c "Aah, should I give up my secrets so easily to you?"
 
 # TheBlackMonolithWarrior2_bd50ecb1 (line 45724)
 translate ru TheBlackMonolithWarrior2_bd50ecb1:
@@ -806,17 +786,17 @@ translate ru TheBlackMonolithWarrior2_bd50ecb1:
 # TheBlackMonolithWarrior2_e50af481 (line 45725)
 translate ru TheBlackMonolithWarrior2_e50af481:
     # c "You bear a crown that none can see."
-    c ""
+    c "You bear a crown that none can see."
 
 # TheBlackMonolithWarrior2_9efef2dd (line 45726)
 translate ru TheBlackMonolithWarrior2_9efef2dd:
     # c "And I in turn bear my loyalties where none may see them."
-    c ""
+    c "And I in turn bear my loyalties where none may see them."
 
 # TheBlackMonolithWarrior2_af43d14d (line 45727)
 translate ru TheBlackMonolithWarrior2_af43d14d:
     # c "I am loyal to your family."
-    c ""
+    c "I am loyal to your family."
 
 # TheBlackMonolithWarrior2_b18bbe84 (line 45728)
 translate ru TheBlackMonolithWarrior2_b18bbe84:
@@ -831,7 +811,7 @@ translate ru TheBlackMonolithWarrior2_d0500b1b:
 # TheBlackMonolithWarrior2_8376544e (line 45730)
 translate ru TheBlackMonolithWarrior2_8376544e:
     # s "Good, then tell me why you are here. Why I am here."
-    s ""
+    s "Good, then tell me why you are here. Why I am here."
 
 # TheBlackMonolithWarrior2_865cd0b9 (line 45731)
 translate ru TheBlackMonolithWarrior2_865cd0b9:
@@ -841,12 +821,12 @@ translate ru TheBlackMonolithWarrior2_865cd0b9:
 # TheBlackMonolithWarrior2_f6cec516 (line 45732)
 translate ru TheBlackMonolithWarrior2_f6cec516:
     # c "The why of it will be a longer story, I fear, best saved for tonight."
-    c ""
+    c "The why of it will be a longer story, I fear, best saved for tonight."
 
 # TheBlackMonolithWarrior2_d13d6a70 (line 45733)
 translate ru TheBlackMonolithWarrior2_d13d6a70:
     # c "But you are here because I asked for you."
-    c ""
+    c "But you are here because I asked for you."
 
 # TheBlackMonolithWarrior2_aab3ee44 (line 45734)
 translate ru TheBlackMonolithWarrior2_aab3ee44:
@@ -856,47 +836,47 @@ translate ru TheBlackMonolithWarrior2_aab3ee44:
 # TheBlackMonolithWarrior2_b53a8db0 (line 45735)
 translate ru TheBlackMonolithWarrior2_b53a8db0:
     # s "You asked for me?"
-    s ""
+    s "You asked for me?"
 
 # TheBlackMonolithWarrior2_d8a1fc3a (line 45736)
 translate ru TheBlackMonolithWarrior2_d8a1fc3a:
     # c "Your reputation has grown and grown over the years. The stories of the Rose Knight, a blonde haired woman who fights like a demon."
-    c ""
+    c "Your reputation has grown and grown over the years. The stories of the Rose Knight, a blonde haired woman who fights like a demon."
 
 # TheBlackMonolithWarrior2_aa8208f1 (line 45737)
 translate ru TheBlackMonolithWarrior2_aa8208f1:
     # c "It was almost a year ago when I first heard the rumors and I began to suspect that you might still live."
-    c ""
+    c "It was almost a year ago when I first heard the rumors and I began to suspect that you might still live."
 
 # TheBlackMonolithWarrior2_ec692914 (line 45738)
 translate ru TheBlackMonolithWarrior2_ec692914:
     # c "I could not move too directly."
-    c ""
+    c "I could not move too directly."
 
 # TheBlackMonolithWarrior2_565fa0d8 (line 45739)
 translate ru TheBlackMonolithWarrior2_565fa0d8:
     # c "I was still in the capital of Rahayal. That city has more spies and wandering eyes than any other in the world."
-    c ""
+    c "I was still in the capital of Rahayal. That city has more spies and wandering eyes than any other in the world."
 
 # TheBlackMonolithWarrior2_34a81e62 (line 45740)
 translate ru TheBlackMonolithWarrior2_34a81e62:
     # c "If I had called on you, many wonder what business I had with a random mercenary."
-    c ""
+    c "If I had called on you, many wonder what business I had with a random mercenary."
 
 # TheBlackMonolithWarrior2_6c432158 (line 45741)
 translate ru TheBlackMonolithWarrior2_6c432158:
     # c "They would know that I came from Rosanna. They would know of you. And they would sooner put the two together."
-    c ""
+    c "They would know that I came from Rosanna. They would know of you. And they would sooner put the two together."
 
 # TheBlackMonolithWarrior2_f69aea76 (line 45742)
 translate ru TheBlackMonolithWarrior2_f69aea76:
     # c "In Rahayal, I have a measure of influence, but I am a small fish in a great pond of many sharks."
-    c ""
+    c "In Rahayal, I have a measure of influence, but I am a small fish in a great pond of many sharks."
 
 # TheBlackMonolithWarrior2_08170dcb (line 45743)
 translate ru TheBlackMonolithWarrior2_08170dcb:
     # c "I could not have protected you there."
-    c ""
+    c "I could not have protected you there."
 
 # TheBlackMonolithWarrior2_592b8e19 (line 45744)
 translate ru TheBlackMonolithWarrior2_592b8e19:
@@ -906,17 +886,17 @@ translate ru TheBlackMonolithWarrior2_592b8e19:
 # TheBlackMonolithWarrior2_314ed4c9 (line 45745)
 translate ru TheBlackMonolithWarrior2_314ed4c9:
     # c "So, I began to make preparations."
-    c ""
+    c "So, I began to make preparations."
 
 # TheBlackMonolithWarrior2_2d3129fa (line 45746)
 translate ru TheBlackMonolithWarrior2_2d3129fa:
     # c "A mission, far away from the reach of Mythra, of any power."
-    c ""
+    c "A mission, far away from the reach of Mythra, of any power."
 
 # TheBlackMonolithWarrior2_92f1a890 (line 45747)
 translate ru TheBlackMonolithWarrior2_92f1a890:
     # c "A place where I could meet the famous Rose Knight and test if she was who I suspected. And you proved to be so much more."
-    c ""
+    c "A place where I could meet the famous Rose Knight and test if she was who I suspected. And you proved to be so much more."
 
 # TheBlackMonolithWarrior2_80ebf11e (line 45748)
 translate ru TheBlackMonolithWarrior2_80ebf11e:
@@ -926,7 +906,7 @@ translate ru TheBlackMonolithWarrior2_80ebf11e:
 # TheBlackMonolithWarrior2_18e58bd5 (line 45749)
 translate ru TheBlackMonolithWarrior2_18e58bd5:
     # s "All this...for a meeting?"
-    s ""
+    s "All this...for a meeting?"
 
 # TheBlackMonolithWarrior2_6695a687 (line 45750)
 translate ru TheBlackMonolithWarrior2_6695a687:
@@ -936,17 +916,17 @@ translate ru TheBlackMonolithWarrior2_6695a687:
 # TheBlackMonolithWarrior2_b5878737 (line 45751)
 translate ru TheBlackMonolithWarrior2_b5878737:
     # c "No, much more, but as I said we have been here too long already."
-    c ""
+    c "No, much more, but as I said we have been here too long already."
 
 # TheBlackMonolithWarrior2_93e50ebd (line 45752)
 translate ru TheBlackMonolithWarrior2_93e50ebd:
     # c "I can explain a short meeting with a mercenary commander, I can't explain an hour long meeting."
-    c ""
+    c "I can explain a short meeting with a mercenary commander, I can't explain an hour long meeting."
 
 # TheBlackMonolithWarrior2_fdebee64 (line 45753)
 translate ru TheBlackMonolithWarrior2_fdebee64:
     # c "We must be careful. The soldiers here are loyal to me, but they are more loyal to Mythra. They will report back what they see."
-    c ""
+    c "We must be careful. The soldiers here are loyal to me, but they are more loyal to Mythra. They will report back what they see."
 
 # TheBlackMonolithWarrior2_da5bdaf3 (line 45754)
 translate ru TheBlackMonolithWarrior2_da5bdaf3:
@@ -956,17 +936,17 @@ translate ru TheBlackMonolithWarrior2_da5bdaf3:
 # TheBlackMonolithWarrior2_9db7558a (line 45755)
 translate ru TheBlackMonolithWarrior2_9db7558a:
     # s "I understand, we must be discreet, but I require my answers."
-    s ""
+    s "I understand, we must be discreet, but I require my answers."
 
 # TheBlackMonolithWarrior2_9732c30a (line 45756)
 translate ru TheBlackMonolithWarrior2_9732c30a:
     # c "And you will have them."
-    c ""
+    c "And you will have them."
 
 # TheBlackMonolithWarrior2_d68c13b0 (line 45757)
 translate ru TheBlackMonolithWarrior2_d68c13b0:
     # c "Tonight, I shall host you as a guest for dinner, along with various others. In the crowd, you will be one of many faces."
-    c ""
+    c "Tonight, I shall host you as a guest for dinner, along with various others. In the crowd, you will be one of many faces."
 
 # TheBlackMonolithWarrior2_1a692910 (line 45758)
 translate ru TheBlackMonolithWarrior2_1a692910:
@@ -976,17 +956,17 @@ translate ru TheBlackMonolithWarrior2_1a692910:
 # TheBlackMonolithWarrior2_27470aee (line 45759)
 translate ru TheBlackMonolithWarrior2_27470aee:
     # s "What about the slave you sent for me?"
-    s ""
+    s "What about the slave you sent for me?"
 
 # TheBlackMonolithWarrior2_158539f8 (line 45760)
 translate ru TheBlackMonolithWarrior2_158539f8:
     # c "Cassius? He and his sister Dio might be the only two people I can actually trust."
-    c ""
+    c "Cassius? He and his sister Dio might be the only two people I can actually trust."
 
 # TheBlackMonolithWarrior2_49300e0b (line 45761)
 translate ru TheBlackMonolithWarrior2_49300e0b:
     # c "I hold their contract and they will honour it."
-    c ""
+    c "I hold their contract and they will honour it."
 
 # TheBlackMonolithWarrior2_644bac9c (line 45762)
 translate ru TheBlackMonolithWarrior2_644bac9c:
@@ -996,12 +976,12 @@ translate ru TheBlackMonolithWarrior2_644bac9c:
 # TheBlackMonolithWarrior2_79db92d9 (line 45763)
 translate ru TheBlackMonolithWarrior2_79db92d9:
     # s "And why is that?"
-    s ""
+    s "And why is that?"
 
 # TheBlackMonolithWarrior2_7d631d85 (line 45764)
 translate ru TheBlackMonolithWarrior2_7d631d85:
     # c "Because I have promised them their freedom, and for as much as they play coy, each of them desires it greatly."
-    c ""
+    c "Because I have promised them their freedom, and for as much as they play coy, each of them desires it greatly."
 
 # TheBlackMonolithWarrior2_8443e55d (line 45765)
 translate ru TheBlackMonolithWarrior2_8443e55d:
@@ -1011,7 +991,7 @@ translate ru TheBlackMonolithWarrior2_8443e55d:
 # TheBlackMonolithWarrior2_1c07dd96 (line 45766)
 translate ru TheBlackMonolithWarrior2_1c07dd96:
     # s "Very well, we shall meet later tonight."
-    s ""
+    s "Very well, we shall meet later tonight."
 
 # TheBlackMonolithWarrior2_2b7d33bc (line 45767)
 translate ru TheBlackMonolithWarrior2_2b7d33bc:
@@ -1386,7 +1366,7 @@ translate ru TheBlackMonolithWarrior2_d25c0c8b:
 # TheBlackMonolithWarrior2_3449a272 (line 45859)
 translate ru TheBlackMonolithWarrior2_3449a272:
     # g "You're in a foul mood."
-    g ""
+    g "You're in a foul mood."
 
 # TheBlackMonolithWarrior2_26c4113b (line 45860)
 translate ru TheBlackMonolithWarrior2_26c4113b:
@@ -1396,17 +1376,17 @@ translate ru TheBlackMonolithWarrior2_26c4113b:
 # TheBlackMonolithWarrior2_8b0a78d3 (line 45861)
 translate ru TheBlackMonolithWarrior2_8b0a78d3:
     # s "Am I?"
-    s ""
+    s "Am I?"
 
 # TheBlackMonolithWarrior2_c3b3cc63 (line 45862)
 translate ru TheBlackMonolithWarrior2_c3b3cc63:
     # g "You're scowling."
-    g ""
+    g "You're scowling."
 
 # TheBlackMonolithWarrior2_8172b932 (line 45863)
 translate ru TheBlackMonolithWarrior2_8172b932:
     # s "Maybe that's just my regular face."
-    s ""
+    s "Maybe that's just my regular face."
 
 # TheBlackMonolithWarrior2_d2a6052e (line 45864)
 translate ru TheBlackMonolithWarrior2_d2a6052e:
@@ -1416,7 +1396,7 @@ translate ru TheBlackMonolithWarrior2_d2a6052e:
 # TheBlackMonolithWarrior2_4eadf62f (line 45865)
 translate ru TheBlackMonolithWarrior2_4eadf62f:
     # g "That it might just be. Still, you should be celebrating."
-    g ""
+    g "That it might just be. Still, you should be celebrating."
 
 # TheBlackMonolithWarrior2_57c02784 (line 45866)
 translate ru TheBlackMonolithWarrior2_57c02784:
@@ -1426,12 +1406,12 @@ translate ru TheBlackMonolithWarrior2_57c02784:
 # TheBlackMonolithWarrior2_78b73eb3 (line 45867)
 translate ru TheBlackMonolithWarrior2_78b73eb3:
     # g "Trust me, they can't wait to sing your praises."
-    g ""
+    g "Trust me, they can't wait to sing your praises."
 
 # TheBlackMonolithWarrior2_5070b9f8 (line 45868)
 translate ru TheBlackMonolithWarrior2_5070b9f8:
     # g "Rose knight. Demon killer. Now miracle-worker too."
-    g ""
+    g "Rose knight. Demon killer. Now miracle-worker too."
 
 # TheBlackMonolithWarrior2_0b151cfa (line 45869)
 translate ru TheBlackMonolithWarrior2_0b151cfa:
@@ -1441,7 +1421,7 @@ translate ru TheBlackMonolithWarrior2_0b151cfa:
 # TheBlackMonolithWarrior2_830ae47c (line 45870)
 translate ru TheBlackMonolithWarrior2_830ae47c:
     # g "I'm going to have to keep a list of all your titles."
-    g ""
+    g "I'm going to have to keep a list of all your titles."
 
 # TheBlackMonolithWarrior2_cdd19046 (line 45871)
 translate ru TheBlackMonolithWarrior2_cdd19046:
@@ -1451,12 +1431,12 @@ translate ru TheBlackMonolithWarrior2_cdd19046:
 # TheBlackMonolithWarrior2_471b4458 (line 45872)
 translate ru TheBlackMonolithWarrior2_471b4458:
     # s "I'd rather you didn't."
-    s ""
+    s "I'd rather you didn't."
 
 # TheBlackMonolithWarrior2_a3f07b6d (line 45873)
 translate ru TheBlackMonolithWarrior2_a3f07b6d:
     # s "Besides, how would any of them know what happened in Bagrad?"
-    s ""
+    s "Besides, how would any of them know what happened in Bagrad?"
 
 # TheBlackMonolithWarrior2_f119368d (line 45874)
 translate ru TheBlackMonolithWarrior2_f119368d:
@@ -1466,7 +1446,7 @@ translate ru TheBlackMonolithWarrior2_f119368d:
 # TheBlackMonolithWarrior2_742f8acd (line 45875)
 translate ru TheBlackMonolithWarrior2_742f8acd:
     # g "Maybe I told them."
-    g ""
+    g "Maybe I told them."
 
 # TheBlackMonolithWarrior2_95e0fa0c (line 45876)
 translate ru TheBlackMonolithWarrior2_95e0fa0c:
@@ -1481,7 +1461,7 @@ translate ru TheBlackMonolithWarrior2_2e9e2f2d:
 # TheBlackMonolithWarrior2_fec29580 (line 45878)
 translate ru TheBlackMonolithWarrior2_fec29580:
     # s "I'd rather you keep all of that to yourself. I don't need more trouble than I have."
-    s ""
+    s "I'd rather you keep all of that to yourself. I don't need more trouble than I have."
 
 # TheBlackMonolithWarrior2_ad9e6f8e (line 45879)
 translate ru TheBlackMonolithWarrior2_ad9e6f8e:
@@ -1491,22 +1471,12 @@ translate ru TheBlackMonolithWarrior2_ad9e6f8e:
 # TheBlackMonolithWarrior2_88ba8805 (line 45880)
 translate ru TheBlackMonolithWarrior2_88ba8805:
     # g "If it had been me, I'd make sure the whole world knew."
-    g ""
-
-# TheBlackMonolithWarrior2_5de63054 (line 45883)
-translate ru TheBlackMonolithWarrior2_5de63054:
-    # "Snap at him"
-    "Snap at him" ""
-
-# TheBlackMonolithWarrior2_e10fd103 (line 45889)
-translate ru TheBlackMonolithWarrior2_e10fd103:
-    # "Let it go"
-    "Let it go" ""
+    g "If it had been me, I'd make sure the whole world knew."
 
 # TheBlackMonolithWarrior2_a98b17f8 (line 45894)
 translate ru TheBlackMonolithWarrior2_a98b17f8:
     # g "Have you managed to settle in yet?"
-    g ""
+    g "Have you managed to settle in yet?"
 
 # TheBlackMonolithWarrior2_7fb62b82 (line 45895)
 translate ru TheBlackMonolithWarrior2_7fb62b82:
@@ -1516,7 +1486,7 @@ translate ru TheBlackMonolithWarrior2_7fb62b82:
 # TheBlackMonolithWarrior2_7b21e15a (line 45896)
 translate ru TheBlackMonolithWarrior2_7b21e15a:
     # s "Most of the camp preparations are finished. Got started on reinforcing the gates."
-    s ""
+    s "Most of the camp preparations are finished. Got started on reinforcing the gates."
 
 # TheBlackMonolithWarrior2_a8ccc856 (line 45897)
 translate ru TheBlackMonolithWarrior2_a8ccc856:
@@ -1526,12 +1496,12 @@ translate ru TheBlackMonolithWarrior2_a8ccc856:
 # TheBlackMonolithWarrior2_19e18c0d (line 45898)
 translate ru TheBlackMonolithWarrior2_19e18c0d:
     # g "Figured you'd work your men over hard."
-    g ""
+    g "Figured you'd work your men over hard."
 
 # TheBlackMonolithWarrior2_689d8cb4 (line 45899)
 translate ru TheBlackMonolithWarrior2_689d8cb4:
     # g "My camp still looks like shit. Most of them are too busy celebrating that they survived the desert."
-    g ""
+    g "My camp still looks like shit. Most of them are too busy celebrating that they survived the desert."
 
 # TheBlackMonolithWarrior2_3a69f5db (line 45900)
 translate ru TheBlackMonolithWarrior2_3a69f5db:
@@ -1541,7 +1511,7 @@ translate ru TheBlackMonolithWarrior2_3a69f5db:
 # TheBlackMonolithWarrior2_0da7d252 (line 45901)
 translate ru TheBlackMonolithWarrior2_0da7d252:
     # g "Honestly, I don't have the heart to tell them otherwise."
-    g ""
+    g "Honestly, I don't have the heart to tell them otherwise."
 
 # TheBlackMonolithWarrior2_c94547f6 (line 45902)
 translate ru TheBlackMonolithWarrior2_c94547f6:
@@ -1556,12 +1526,12 @@ translate ru TheBlackMonolithWarrior2_0266a92a:
 # TheBlackMonolithWarrior2_eee3e4f3 (line 45904)
 translate ru TheBlackMonolithWarrior2_eee3e4f3:
     # s "It's a balance."
-    s ""
+    s "It's a balance."
 
 # TheBlackMonolithWarrior2_8bca268d (line 45905)
 translate ru TheBlackMonolithWarrior2_8bca268d:
     # s "You can't work them too hard, but you can't let them just run wild. You need to maintain a degree of control."
-    s ""
+    s "You can't work them too hard, but you can't let them just run wild. You need to maintain a degree of control."
 
 # TheBlackMonolithWarrior2_c5cfb137 (line 45906)
 translate ru TheBlackMonolithWarrior2_c5cfb137:
@@ -1571,17 +1541,17 @@ translate ru TheBlackMonolithWarrior2_c5cfb137:
 # TheBlackMonolithWarrior2_c2e8fb57 (line 45907)
 translate ru TheBlackMonolithWarrior2_c2e8fb57:
     # g "Easy for you to say."
-    g ""
+    g "Easy for you to say."
 
 # TheBlackMonolithWarrior2_a3f69795 (line 45908)
 translate ru TheBlackMonolithWarrior2_a3f69795:
     # g "After that little stunt in Bagrad with that creature, and now with that water in the desert, most men are ready to declare you a saint."
-    g ""
+    g "After that little stunt in Bagrad with that creature, and now with that water in the desert, most men are ready to declare you a saint."
 
 # TheBlackMonolithWarrior2_31127037 (line 45909)
 translate ru TheBlackMonolithWarrior2_31127037:
     # g "I need to have men whipped just to get them to do their job."
-    g ""
+    g "I need to have men whipped just to get them to do their job."
 
 # TheBlackMonolithWarrior2_fea254ca (line 45910)
 translate ru TheBlackMonolithWarrior2_fea254ca:
@@ -1591,7 +1561,7 @@ translate ru TheBlackMonolithWarrior2_fea254ca:
 # TheBlackMonolithWarrior2_37dbfea0 (line 45911)
 translate ru TheBlackMonolithWarrior2_37dbfea0:
     # s "The only one whining about doing their job seems to be you."
-    s ""
+    s "The only one whining about doing their job seems to be you."
 
 # TheBlackMonolithWarrior2_5f4640da (line 45912)
 translate ru TheBlackMonolithWarrior2_5f4640da:
@@ -1601,7 +1571,7 @@ translate ru TheBlackMonolithWarrior2_5f4640da:
 # TheBlackMonolithWarrior2_8b169133 (line 45913)
 translate ru TheBlackMonolithWarrior2_8b169133:
     # g "So touchy."
-    g ""
+    g "So touchy."
 
 # TheBlackMonolithWarrior2_0fcca661 (line 45914)
 translate ru TheBlackMonolithWarrior2_0fcca661:
@@ -1611,12 +1581,12 @@ translate ru TheBlackMonolithWarrior2_0fcca661:
 # TheBlackMonolithWarrior2_bfc42be1 (line 45915)
 translate ru TheBlackMonolithWarrior2_bfc42be1:
     # s "Have you seen anything of Vaelen since we arrived?"
-    s ""
+    s "Have you seen anything of Vaelen since we arrived?"
 
 # TheBlackMonolithWarrior2_bdf562bb (line 45916)
 translate ru TheBlackMonolithWarrior2_bdf562bb:
     # g "He's right there."
-    g ""
+    g "He's right there."
 
 # TheBlackMonolithWarrior2_8c59f69f (line 45917)
 translate ru TheBlackMonolithWarrior2_8c59f69f:
@@ -1626,7 +1596,7 @@ translate ru TheBlackMonolithWarrior2_8c59f69f:
 # TheBlackMonolithWarrior2_dccb1a5c (line 45918)
 translate ru TheBlackMonolithWarrior2_dccb1a5c:
     # s "I know, but I mean, have you seen him before tonight?"
-    s ""
+    s "I know, but I mean, have you seen him before tonight?"
 
 # TheBlackMonolithWarrior2_aa418a30 (line 45919)
 translate ru TheBlackMonolithWarrior2_aa418a30:
@@ -1636,17 +1606,17 @@ translate ru TheBlackMonolithWarrior2_aa418a30:
 # TheBlackMonolithWarrior2_ff9f65e7 (line 45920)
 translate ru TheBlackMonolithWarrior2_ff9f65e7:
     # g "Can't say I've seen to much of him. Nobody has."
-    g ""
+    g "Can't say I've seen to much of him. Nobody has."
 
 # TheBlackMonolithWarrior2_59b72421 (line 45921)
 translate ru TheBlackMonolithWarrior2_59b72421:
     # g "They pitched his commander's tent, he dissapeared inside, and he hasn't come out since."
-    g ""
+    g "They pitched his commander's tent, he dissapeared inside, and he hasn't come out since."
 
 # TheBlackMonolithWarrior2_0a63db6c (line 45922)
 translate ru TheBlackMonolithWarrior2_0a63db6c:
     # g "To tell you the truth, I half expected he wouldn't be here tonight."
-    g ""
+    g "To tell you the truth, I half expected he wouldn't be here tonight."
 
 # TheBlackMonolithWarrior2_cc9145cf (line 45923)
 translate ru TheBlackMonolithWarrior2_cc9145cf:
@@ -1656,12 +1626,12 @@ translate ru TheBlackMonolithWarrior2_cc9145cf:
 # TheBlackMonolithWarrior2_b8041fe8 (line 45924)
 translate ru TheBlackMonolithWarrior2_b8041fe8:
     # s "You think he's just busy?"
-    s ""
+    s "You think he's just busy?"
 
 # TheBlackMonolithWarrior2_74c9528b (line 45925)
 translate ru TheBlackMonolithWarrior2_74c9528b:
     # g "Well, I haven't heard of any orders coming from him either, so whatever he's doing in there, it doesn't seem to do much for the company."
-    g ""
+    g "Well, I haven't heard of any orders coming from him either, so whatever he's doing in there, it doesn't seem to do much for the company."
 
 # TheBlackMonolithWarrior2_74c8ca43 (line 45926)
 translate ru TheBlackMonolithWarrior2_74c8ca43:
@@ -1671,7 +1641,7 @@ translate ru TheBlackMonolithWarrior2_74c8ca43:
 # TheBlackMonolithWarrior2_1be83f0b (line 45927)
 translate ru TheBlackMonolithWarrior2_1be83f0b:
     # g "If it had been any other man, I might have thought he'd be holed up there with one of the girls from Bagrad, but who knows what his appetites are."
-    g ""
+    g "If it had been any other man, I might have thought he'd be holed up there with one of the girls from Bagrad, but who knows what his appetites are."
 
 # TheBlackMonolithWarrior2_45b9488c (line 45928)
 translate ru TheBlackMonolithWarrior2_45b9488c:
@@ -1701,22 +1671,22 @@ translate ru TheBlackMonolithWarrior2_cafe5b9c:
 # TheBlackMonolithWarrior2_0545ed44 (line 45933)
 translate ru TheBlackMonolithWarrior2_0545ed44:
     # s "Don't start rumors."
-    s ""
+    s "Don't start rumors."
 
 # TheBlackMonolithWarrior2_4befcf25 (line 45934)
 translate ru TheBlackMonolithWarrior2_4befcf25:
     # g "You don't think it's weird?"
-    g ""
+    g "You don't think it's weird?"
 
 # TheBlackMonolithWarrior2_0120a244 (line 45935)
 translate ru TheBlackMonolithWarrior2_0120a244:
     # s "I think I don't know enough to talk one way or another, and whatever you do so, is just going to start trouble."
-    s ""
+    s "I think I don't know enough to talk one way or another, and whatever you do so, is just going to start trouble."
 
 # TheBlackMonolithWarrior2_b7e20cf4 (line 45936)
 translate ru TheBlackMonolithWarrior2_b7e20cf4:
     # s "Best to keep your mouth shut."
-    s ""
+    s "Best to keep your mouth shut."
 
 # TheBlackMonolithWarrior2_a7142f1b (line 45937)
 translate ru TheBlackMonolithWarrior2_a7142f1b:
@@ -1726,7 +1696,7 @@ translate ru TheBlackMonolithWarrior2_a7142f1b:
 # TheBlackMonolithWarrior2_bc179025 (line 45938)
 translate ru TheBlackMonolithWarrior2_bc179025:
     # g "My life would have been a lot easier if I had just learned to do that from a young age."
-    g ""
+    g "My life would have been a lot easier if I had just learned to do that from a young age."
 
 # TheBlackMonolithWarrior2_f75d021d (line 45939)
 translate ru TheBlackMonolithWarrior2_f75d021d:
@@ -1746,7 +1716,7 @@ translate ru TheBlackMonolithWarrior2_99ba27a3:
 # TheBlackMonolithWarrior2_be14de57 (line 45942)
 translate ru TheBlackMonolithWarrior2_be14de57:
     # g "I think I'm going to get a refill."
-    g ""
+    g "I think I'm going to get a refill."
 
 # TheBlackMonolithWarrior2_390901f5 (line 45944)
 translate ru TheBlackMonolithWarrior2_390901f5:
@@ -1821,7 +1791,7 @@ translate ru TheBlackMonolithWarrior2_6742c16c:
 # TheBlackMonolithWarrior2_12db4ca8 (line 45961)
 translate ru TheBlackMonolithWarrior2_12db4ca8:
     # c "Having fun, are we?"
-    c ""
+    c "Having fun, are we?"
 
 # TheBlackMonolithWarrior2_8f83b95c (line 45962)
 translate ru TheBlackMonolithWarrior2_8f83b95c:
@@ -1831,7 +1801,7 @@ translate ru TheBlackMonolithWarrior2_8f83b95c:
 # TheBlackMonolithWarrior2_1176c8da (line 45963)
 translate ru TheBlackMonolithWarrior2_1176c8da:
     # s "Not really my scene I think."
-    s ""
+    s "Not really my scene I think."
 
 # TheBlackMonolithWarrior2_e0d39009 (line 45964)
 translate ru TheBlackMonolithWarrior2_e0d39009:
@@ -1841,7 +1811,7 @@ translate ru TheBlackMonolithWarrior2_e0d39009:
 # TheBlackMonolithWarrior2_3fc06037 (line 45965)
 translate ru TheBlackMonolithWarrior2_3fc06037:
     # c "When I spotted you, I made you out right away. But the more I talk, the more I feel like you're not entirely the girl from back home."
-    c ""
+    c "When I spotted you, I made you out right away. But the more I talk, the more I feel like you're not entirely the girl from back home."
 
 # TheBlackMonolithWarrior2_4c87c707 (line 45966)
 translate ru TheBlackMonolithWarrior2_4c87c707:
@@ -1851,7 +1821,7 @@ translate ru TheBlackMonolithWarrior2_4c87c707:
 # TheBlackMonolithWarrior2_5dccf128 (line 45967)
 translate ru TheBlackMonolithWarrior2_5dccf128:
     # s "The years have changed me, as they have you, I suppose."
-    s ""
+    s "The years have changed me, as they have you, I suppose."
 
 # TheBlackMonolithWarrior2_93a9a6fb (line 45968)
 translate ru TheBlackMonolithWarrior2_93a9a6fb:
@@ -1861,12 +1831,12 @@ translate ru TheBlackMonolithWarrior2_93a9a6fb:
 # TheBlackMonolithWarrior2_9e4c9bd8 (line 45969)
 translate ru TheBlackMonolithWarrior2_9e4c9bd8:
     # c "Ooh dear, I'm at home in any place. I match myself to the room."
-    c ""
+    c "Ooh dear, I'm at home in any place. I match myself to the room."
 
 # TheBlackMonolithWarrior2_88484d72 (line 45970)
 translate ru TheBlackMonolithWarrior2_88484d72:
     # s "Let us pray your loyalties are less flexible."
-    s ""
+    s "Let us pray your loyalties are less flexible."
 
 # TheBlackMonolithWarrior2_1373eb39 (line 45971)
 translate ru TheBlackMonolithWarrior2_1373eb39:
@@ -1876,12 +1846,12 @@ translate ru TheBlackMonolithWarrior2_1373eb39:
 # TheBlackMonolithWarrior2_e8cb3cac (line 45972)
 translate ru TheBlackMonolithWarrior2_e8cb3cac:
     # c "Such a barbed girl you've become."
-    c ""
+    c "Such a barbed girl you've become."
 
 # TheBlackMonolithWarrior2_6445f2b3 (line 45973)
 translate ru TheBlackMonolithWarrior2_6445f2b3:
     # s "Woman."
-    s ""
+    s "Woman."
 
 # TheBlackMonolithWarrior2_b328fc20 (line 45974)
 translate ru TheBlackMonolithWarrior2_b328fc20:
@@ -1896,7 +1866,7 @@ translate ru TheBlackMonolithWarrior2_b0a7fc01:
 # TheBlackMonolithWarrior2_0758fc90 (line 45976)
 translate ru TheBlackMonolithWarrior2_0758fc90:
     # c "Yes, quite."
-    c ""
+    c "Yes, quite."
 
 # TheBlackMonolithWarrior2_cbe62849 (line 45977)
 translate ru TheBlackMonolithWarrior2_cbe62849:
@@ -1906,7 +1876,7 @@ translate ru TheBlackMonolithWarrior2_cbe62849:
 # TheBlackMonolithWarrior2_ba3c5155 (line 45978)
 translate ru TheBlackMonolithWarrior2_ba3c5155:
     # c "Would you like to continue our conversation, or shall we exchange some more insults?"
-    c ""
+    c "Would you like to continue our conversation, or shall we exchange some more insults?"
 
 # TheBlackMonolithWarrior2_fa2efa04 (line 45979)
 translate ru TheBlackMonolithWarrior2_fa2efa04:
@@ -1916,7 +1886,7 @@ translate ru TheBlackMonolithWarrior2_fa2efa04:
 # TheBlackMonolithWarrior2_3314bf43 (line 45980)
 translate ru TheBlackMonolithWarrior2_3314bf43:
     # s "You told me you would tell me about why we're here. Why you sought me out."
-    s ""
+    s "You told me you would tell me about why we're here. Why you sought me out."
 
 # TheBlackMonolithWarrior2_28a8ef0e (line 45981)
 translate ru TheBlackMonolithWarrior2_28a8ef0e:
@@ -1926,7 +1896,7 @@ translate ru TheBlackMonolithWarrior2_28a8ef0e:
 # TheBlackMonolithWarrior2_26ad5e74 (line 45982)
 translate ru TheBlackMonolithWarrior2_26ad5e74:
     # c "Well, I had told you that I was looking forward to meeting you ever since I first heard the rumors. Ever since I suspected you might still be alive."
-    c ""
+    c "Well, I had told you that I was looking forward to meeting you ever since I first heard the rumors. Ever since I suspected you might still be alive."
 
 # TheBlackMonolithWarrior2_57c85668 (line 45983)
 translate ru TheBlackMonolithWarrior2_57c85668:
@@ -1941,22 +1911,22 @@ translate ru TheBlackMonolithWarrior2_3486c1a7:
 # TheBlackMonolithWarrior2_2d2ceff9 (line 45985)
 translate ru TheBlackMonolithWarrior2_2d2ceff9:
     # c "You know that I am but a small agent on behalf of the Mythran empire."
-    c ""
+    c "You know that I am but a small agent on behalf of the Mythran empire."
 
 # TheBlackMonolithWarrior2_e8c5b488 (line 45986)
 translate ru TheBlackMonolithWarrior2_e8c5b488:
     # c "Well, the truth is that the Mythran empire, unified as it is on the outside, is in truth as fracticious on the inside as any other great nation."
-    c ""
+    c "Well, the truth is that the Mythran empire, unified as it is on the outside, is in truth as fracticious on the inside as any other great nation."
 
 # TheBlackMonolithWarrior2_744221f8 (line 45987)
 translate ru TheBlackMonolithWarrior2_744221f8:
     # c "Differing groups, feuding over different viewpoints, ideologies they like to see flourish or surpressed."
-    c ""
+    c "Differing groups, feuding over different viewpoints, ideologies they like to see flourish or surpressed."
 
 # TheBlackMonolithWarrior2_e392312a (line 45988)
 translate ru TheBlackMonolithWarrior2_e392312a:
     # c "I won't bore you too much, but the empire is dynamic in its differing goals."
-    c ""
+    c "I won't bore you too much, but the empire is dynamic in its differing goals."
 
 # TheBlackMonolithWarrior2_43400955 (line 45989)
 translate ru TheBlackMonolithWarrior2_43400955:
@@ -1966,7 +1936,7 @@ translate ru TheBlackMonolithWarrior2_43400955:
 # TheBlackMonolithWarrior2_eb7d8cb4 (line 45990)
 translate ru TheBlackMonolithWarrior2_eb7d8cb4:
     # s "So far, I don't see how this involves me. I have no care for the politics of their empire, one way or another."
-    s ""
+    s "So far, I don't see how this involves me. I have no care for the politics of their empire, one way or another."
 
 # TheBlackMonolithWarrior2_e493eed6 (line 45991)
 translate ru TheBlackMonolithWarrior2_e493eed6:
@@ -1976,7 +1946,7 @@ translate ru TheBlackMonolithWarrior2_e493eed6:
 # TheBlackMonolithWarrior2_e162349c (line 45992)
 translate ru TheBlackMonolithWarrior2_e162349c:
     # c "Well, the patron that has kept me safe ever since arriving in the empire, made sure that my status was recognized and my wealth protected is a Noctori, by the name of Gilead."
-    c ""
+    c "Well, the patron that has kept me safe ever since arriving in the empire, made sure that my status was recognized and my wealth protected is a Noctori, by the name of Gilead."
 
 # TheBlackMonolithWarrior2_a86ce5b2 (line 45993)
 translate ru TheBlackMonolithWarrior2_a86ce5b2:
@@ -1996,22 +1966,22 @@ translate ru TheBlackMonolithWarrior2_a90364f4:
 # TheBlackMonolithWarrior2_0a40ebb6 (line 45996)
 translate ru TheBlackMonolithWarrior2_0a40ebb6:
     # c "The Union Kingdoms have often proven to be a particularly difficult region of the world to gain a foothold in for the Mythrans."
-    c ""
+    c "The Union Kingdoms have often proven to be a particularly difficult region of the world to gain a foothold in for the Mythrans."
 
 # TheBlackMonolithWarrior2_917cf9ff (line 45997)
 translate ru TheBlackMonolithWarrior2_917cf9ff:
     # c "They don't understand the culture, how we fight among one another but still remain suspect of outsiders."
-    c ""
+    c "They don't understand the culture, how we fight among one another but still remain suspect of outsiders."
 
 # TheBlackMonolithWarrior2_099ff287 (line 45998)
 translate ru TheBlackMonolithWarrior2_099ff287:
     # c "They've tried blackmail, threats and bribery."
-    c ""
+    c "They've tried blackmail, threats and bribery."
 
 # TheBlackMonolithWarrior2_ff6de5f0 (line 45999)
 translate ru TheBlackMonolithWarrior2_ff6de5f0:
     # c "They would have even used their legions, had they not been tied down in other engagements."
-    c ""
+    c "They would have even used their legions, had they not been tied down in other engagements."
 
 # TheBlackMonolithWarrior2_a1565712 (line 46000)
 translate ru TheBlackMonolithWarrior2_a1565712:
@@ -2021,17 +1991,17 @@ translate ru TheBlackMonolithWarrior2_a1565712:
 # TheBlackMonolithWarrior2_f7a9f6fc (line 46001)
 translate ru TheBlackMonolithWarrior2_f7a9f6fc:
     # c "Gilead believes in a more soft approach."
-    c ""
+    c "Gilead believes in a more soft approach."
 
 # TheBlackMonolithWarrior2_3bde71b6 (line 46002)
 translate ru TheBlackMonolithWarrior2_3bde71b6:
     # c "He believes that the interests of the empire could be represented in the Union Kingdoms, without stepping on local cultural norms."
-    c ""
+    c "He believes that the interests of the empire could be represented in the Union Kingdoms, without stepping on local cultural norms."
 
 # TheBlackMonolithWarrior2_936cb84a (line 46003)
 translate ru TheBlackMonolithWarrior2_936cb84a:
     # c "The best person for such a role, one who can balance the needs of the people as well as the empire..."
-    c ""
+    c "The best person for such a role, one who can balance the needs of the people as well as the empire..."
 
 # TheBlackMonolithWarrior2_d810b7bf (line 46004)
 translate ru TheBlackMonolithWarrior2_d810b7bf:
@@ -2041,7 +2011,7 @@ translate ru TheBlackMonolithWarrior2_d810b7bf:
 # TheBlackMonolithWarrior2_285eefdc (line 46005)
 translate ru TheBlackMonolithWarrior2_285eefdc:
     # s "Would be me."
-    s ""
+    s "Would be me."
 
 # TheBlackMonolithWarrior2_89df3566 (line 46006)
 translate ru TheBlackMonolithWarrior2_89df3566:
@@ -2051,12 +2021,12 @@ translate ru TheBlackMonolithWarrior2_89df3566:
 # TheBlackMonolithWarrior2_f933b647 (line 46007)
 translate ru TheBlackMonolithWarrior2_f933b647:
     # c "I'm glad you see the wisdom of it."
-    c ""
+    c "I'm glad you see the wisdom of it."
 
 # TheBlackMonolithWarrior2_b4256f9d (line 46008)
 translate ru TheBlackMonolithWarrior2_b4256f9d:
     # s "I never said that I did. If you have brought me all this way, thinking you could make a puppet out of me, you're sorely mistaken."
-    s ""
+    s "I never said that I did. If you have brought me all this way, thinking you could make a puppet out of me, you're sorely mistaken."
 
 # TheBlackMonolithWarrior2_0db362d0 (line 46009)
 translate ru TheBlackMonolithWarrior2_0db362d0:
@@ -2066,12 +2036,12 @@ translate ru TheBlackMonolithWarrior2_0db362d0:
 # TheBlackMonolithWarrior2_d39c4541 (line 46010)
 translate ru TheBlackMonolithWarrior2_d39c4541:
     # c "No, princess Sarah, I never meant it as such."
-    c ""
+    c "No, princess Sarah, I never meant it as such."
 
 # TheBlackMonolithWarrior2_d994ff32 (line 46011)
 translate ru TheBlackMonolithWarrior2_d994ff32:
     # s "Then out with it. What are you suggesting?"
-    s ""
+    s "Then out with it. What are you suggesting?"
 
 # TheBlackMonolithWarrior2_0a725282 (line 46012)
 translate ru TheBlackMonolithWarrior2_0a725282:
@@ -2081,7 +2051,7 @@ translate ru TheBlackMonolithWarrior2_0a725282:
 # TheBlackMonolithWarrior2_19ea4d7e (line 46013)
 translate ru TheBlackMonolithWarrior2_19ea4d7e:
     # c "Are you familiar with the current situation in Rosanna?"
-    c ""
+    c "Are you familiar with the current situation in Rosanna?"
 
 # TheBlackMonolithWarrior2_5998fb42 (line 46014)
 translate ru TheBlackMonolithWarrior2_5998fb42:
@@ -2096,12 +2066,12 @@ translate ru TheBlackMonolithWarrior2_24f94f4a:
 # TheBlackMonolithWarrior2_aac076d2 (line 46016)
 translate ru TheBlackMonolithWarrior2_aac076d2:
     # c "The warlord Hassar has fallen, killed in some internal dispute among the tribesmen."
-    c ""
+    c "The warlord Hassar has fallen, killed in some internal dispute among the tribesmen."
 
 # TheBlackMonolithWarrior2_ceb24a34 (line 46017)
 translate ru TheBlackMonolithWarrior2_ceb24a34:
     # c "A new warlord has risen, or to be exact, several of them. Each claiming title to the horde, but each as spurious as the other."
-    c ""
+    c "A new warlord has risen, or to be exact, several of them. Each claiming title to the horde, but each as spurious as the other."
 
 # TheBlackMonolithWarrior2_99587d65 (line 46018)
 translate ru TheBlackMonolithWarrior2_99587d65:
@@ -2111,32 +2081,32 @@ translate ru TheBlackMonolithWarrior2_99587d65:
 # TheBlackMonolithWarrior2_cd8c69d0 (line 46019)
 translate ru TheBlackMonolithWarrior2_cd8c69d0:
     # c "The horde is splintering."
-    c ""
+    c "The horde is splintering."
 
 # TheBlackMonolithWarrior2_247cb631 (line 46020)
 translate ru TheBlackMonolithWarrior2_247cb631:
     # c "With a civil war brewing among the tribes, many of their forward occupying armies are splintering apart."
-    c ""
+    c "With a civil war brewing among the tribes, many of their forward occupying armies are splintering apart."
 
 # TheBlackMonolithWarrior2_6ae62f2c (line 46021)
 translate ru TheBlackMonolithWarrior2_6ae62f2c:
     # c "Soldiers, returning home to the desert to rejoin their tribe, pledge loyalty to whatever new warlord seeks the mantle of Khan."
-    c ""
+    c "Soldiers, returning home to the desert to rejoin their tribe, pledge loyalty to whatever new warlord seeks the mantle of Khan."
 
 # TheBlackMonolithWarrior2_363b88e2 (line 46022)
 translate ru TheBlackMonolithWarrior2_363b88e2:
     # c "The provincial governor of Rosanna, a greedy creature called Kamal, has thrown his own name into the ring."
-    c ""
+    c "The provincial governor of Rosanna, a greedy creature called Kamal, has thrown his own name into the ring."
 
 # TheBlackMonolithWarrior2_970452e4 (line 46023)
 translate ru TheBlackMonolithWarrior2_970452e4:
     # c "In truth, while he holds sway over Rosanna, he has little power beyond it."
-    c ""
+    c "In truth, while he holds sway over Rosanna, he has little power beyond it."
 
 # TheBlackMonolithWarrior2_b2034f04 (line 46024)
 translate ru TheBlackMonolithWarrior2_b2034f04:
     # c "His armies are dwindling as many soldiers flow back into the desert. Soon, the Mythrans believe he won't even have enough to maintain order."
-    c ""
+    c "His armies are dwindling as many soldiers flow back into the desert. Soon, the Mythrans believe he won't even have enough to maintain order."
 
 # TheBlackMonolithWarrior2_9c811ea5 (line 46025)
 translate ru TheBlackMonolithWarrior2_9c811ea5:
@@ -2151,17 +2121,17 @@ translate ru TheBlackMonolithWarrior2_f10a5611:
 # TheBlackMonolithWarrior2_74795186 (line 46027)
 translate ru TheBlackMonolithWarrior2_74795186:
     # c "He is growing weaker by the day. Soon, the moment will come when he will fall."
-    c ""
+    c "He is growing weaker by the day. Soon, the moment will come when he will fall."
 
 # TheBlackMonolithWarrior2_2aab8639 (line 46028)
 translate ru TheBlackMonolithWarrior2_2aab8639:
     # c "My master, Gilead, would like it to be you who delivers that fatal blow."
-    c ""
+    c "My master, Gilead, would like it to be you who delivers that fatal blow."
 
 # TheBlackMonolithWarrior2_5cf41d7f (line 46029)
 translate ru TheBlackMonolithWarrior2_5cf41d7f:
     # c "And he has offered you the use of one of his legions to do it."
-    c ""
+    c "And he has offered you the use of one of his legions to do it."
 
 # TheBlackMonolithWarrior2_d68a91b9 (line 46030)
 translate ru TheBlackMonolithWarrior2_d68a91b9:
@@ -2171,17 +2141,17 @@ translate ru TheBlackMonolithWarrior2_d68a91b9:
 # TheBlackMonolithWarrior2_e7e749cf (line 46031)
 translate ru TheBlackMonolithWarrior2_e7e749cf:
     # s "Why me?"
-    s ""
+    s "Why me?"
 
 # TheBlackMonolithWarrior2_c4326297 (line 46032)
 translate ru TheBlackMonolithWarrior2_c4326297:
     # s "If his grip on Rosanna is fading, why not wait and let the people rise up?"
-    s ""
+    s "If his grip on Rosanna is fading, why not wait and let the people rise up?"
 
 # TheBlackMonolithWarrior2_36b9af9e (line 46033)
 translate ru TheBlackMonolithWarrior2_36b9af9e:
     # c "Well, there is the matter of the other nations. Our neighbours of Normandi and Elarand."
-    c ""
+    c "Well, there is the matter of the other nations. Our neighbours of Normandi and Elarand."
 
 # TheBlackMonolithWarrior2_4435ac00 (line 46034)
 translate ru TheBlackMonolithWarrior2_4435ac00:
@@ -2191,17 +2161,17 @@ translate ru TheBlackMonolithWarrior2_4435ac00:
 # TheBlackMonolithWarrior2_4ddced56 (line 46035)
 translate ru TheBlackMonolithWarrior2_4ddced56:
     # c "Both of them are eying parts of Rosanna. For the moment, neither moves, fearing the other, but in time they will."
-    c ""
+    c "Both of them are eying parts of Rosanna. For the moment, neither moves, fearing the other, but in time they will."
 
 # TheBlackMonolithWarrior2_9d86a1ec (line 46036)
 translate ru TheBlackMonolithWarrior2_9d86a1ec:
     # c "You have a stronger claim than either of them."
-    c ""
+    c "You have a stronger claim than either of them."
 
 # TheBlackMonolithWarrior2_ebf45709 (line 46037)
 translate ru TheBlackMonolithWarrior2_ebf45709:
     # c "With your mercenaries, and the support of the legions of Mythra, you can reclaim Rosanna."
-    c ""
+    c "With your mercenaries, and the support of the legions of Mythra, you can reclaim Rosanna."
 
 # TheBlackMonolithWarrior2_cbd4e4ca (line 46038)
 translate ru TheBlackMonolithWarrior2_cbd4e4ca:
@@ -2211,7 +2181,7 @@ translate ru TheBlackMonolithWarrior2_cbd4e4ca:
 # TheBlackMonolithWarrior2_0fb7738c (line 46039)
 translate ru TheBlackMonolithWarrior2_0fb7738c:
     # s "And I would be a puppet on the throne, on behalf of some stranger I've never met, for an empire I have no sympathies for?"
-    s ""
+    s "And I would be a puppet on the throne, on behalf of some stranger I've never met, for an empire I have no sympathies for?"
 
 # TheBlackMonolithWarrior2_29d7863f (line 46040)
 translate ru TheBlackMonolithWarrior2_29d7863f:
@@ -2221,27 +2191,27 @@ translate ru TheBlackMonolithWarrior2_29d7863f:
 # TheBlackMonolithWarrior2_70457548 (line 46041)
 translate ru TheBlackMonolithWarrior2_70457548:
     # c "Tell them what they want to hear."
-    c ""
+    c "Tell them what they want to hear."
 
 # TheBlackMonolithWarrior2_e7ba91e1 (line 46042)
 translate ru TheBlackMonolithWarrior2_e7ba91e1:
     # c "Convince Gilead that you are what he wants you to be. Gain the support of his armies."
-    c ""
+    c "Convince Gilead that you are what he wants you to be. Gain the support of his armies."
 
 # TheBlackMonolithWarrior2_5b09ff32 (line 46043)
 translate ru TheBlackMonolithWarrior2_5b09ff32:
     # c "Once you have reclaimed your home, once you are back on the throne, it will be too late for them to remove you again."
-    c ""
+    c "Once you have reclaimed your home, once you are back on the throne, it will be too late for them to remove you again."
 
 # TheBlackMonolithWarrior2_86108ccb (line 46044)
 translate ru TheBlackMonolithWarrior2_86108ccb:
     # c "You can promise them anything, and deliver nothing."
-    c ""
+    c "You can promise them anything, and deliver nothing."
 
 # TheBlackMonolithWarrior2_c5c97b72 (line 46045)
 translate ru TheBlackMonolithWarrior2_c5c97b72:
     # c "The Mythrans are eager enough to gain a foothold in the Union Kingdoms that they will support your cause."
-    c ""
+    c "The Mythrans are eager enough to gain a foothold in the Union Kingdoms that they will support your cause."
 
 # TheBlackMonolithWarrior2_2128990b (line 46046)
 translate ru TheBlackMonolithWarrior2_2128990b:
@@ -2331,7 +2301,7 @@ translate ru TheBlackMonolithWarrior2_55b94e66:
 # TheBlackMonolithWarrior2_44662525 (line 46063)
 translate ru TheBlackMonolithWarrior2_44662525:
     # s "What is this Gilead offering, exactly?"
-    s ""
+    s "What is this Gilead offering, exactly?"
 
 # TheBlackMonolithWarrior2_dc4fffd7 (line 46064)
 translate ru TheBlackMonolithWarrior2_dc4fffd7:
@@ -2341,17 +2311,17 @@ translate ru TheBlackMonolithWarrior2_dc4fffd7:
 # TheBlackMonolithWarrior2_b3da0a37 (line 46065)
 translate ru TheBlackMonolithWarrior2_b3da0a37:
     # c "Two legions. One to land with you on the bay of Roses, near the captital."
-    c ""
+    c "Two legions. One to land with you on the bay of Roses, near the captital."
 
 # TheBlackMonolithWarrior2_7b81e0ce (line 46066)
 translate ru TheBlackMonolithWarrior2_7b81e0ce:
     # c "The other will land further east and secure the borders with the desert."
-    c ""
+    c "The other will land further east and secure the borders with the desert."
 
 # TheBlackMonolithWarrior2_8e3a6de2 (line 46067)
 translate ru TheBlackMonolithWarrior2_8e3a6de2:
     # c "Together, they will prove more than sufficient to drive out the tribesmen and restore your rule to the country."
-    c ""
+    c "Together, they will prove more than sufficient to drive out the tribesmen and restore your rule to the country."
 
 # TheBlackMonolithWarrior2_cd1a64c3 (line 46068)
 translate ru TheBlackMonolithWarrior2_cd1a64c3:
@@ -2366,7 +2336,7 @@ translate ru TheBlackMonolithWarrior2_b7341baa:
 # TheBlackMonolithWarrior2_e5cd5de6 (line 46070)
 translate ru TheBlackMonolithWarrior2_e5cd5de6:
     # s "You say that I will owe them nothing, once I have the throne, but their armies will still be there."
-    s ""
+    s "You say that I will owe them nothing, once I have the throne, but their armies will still be there."
 
 # TheBlackMonolithWarrior2_9bdf5e02 (line 46071)
 translate ru TheBlackMonolithWarrior2_9bdf5e02:
@@ -2376,12 +2346,12 @@ translate ru TheBlackMonolithWarrior2_9bdf5e02:
 # TheBlackMonolithWarrior2_1612cf58 (line 46072)
 translate ru TheBlackMonolithWarrior2_1612cf58:
     # c "They will, but the Mythran empire is always occupied in one place or another."
-    c ""
+    c "They will, but the Mythran empire is always occupied in one place or another."
 
 # TheBlackMonolithWarrior2_28da80fa (line 46073)
 translate ru TheBlackMonolithWarrior2_28da80fa:
     # c "It won't be long before their legions are recalled. All you will have to do is patiently play their game until they leave."
-    c ""
+    c "It won't be long before their legions are recalled. All you will have to do is patiently play their game until they leave."
 
 # TheBlackMonolithWarrior2_f1dbe80f (line 46074)
 translate ru TheBlackMonolithWarrior2_f1dbe80f:
@@ -2406,12 +2376,12 @@ translate ru TheBlackMonolithWarrior2_5d2e5349:
 # TheBlackMonolithWarrior2_026a4ed2 (line 46078)
 translate ru TheBlackMonolithWarrior2_026a4ed2:
     # c "Do not worry, you are not expected to decide now."
-    c ""
+    c "Do not worry, you are not expected to decide now."
 
 # TheBlackMonolithWarrior2_783c55c4 (line 46079)
 translate ru TheBlackMonolithWarrior2_783c55c4:
     # c "Gilead has asked for a meeting, in Rahayal. Do him the courtesy of accepting, and I promise you will find him convincing."
-    c ""
+    c "Gilead has asked for a meeting, in Rahayal. Do him the courtesy of accepting, and I promise you will find him convincing."
 
 # TheBlackMonolithWarrior2_7bbdcc9a (line 46080)
 translate ru TheBlackMonolithWarrior2_7bbdcc9a:
@@ -2426,7 +2396,7 @@ translate ru TheBlackMonolithWarrior2_9bde777e:
 # TheBlackMonolithWarrior2_9c6e5ab3 (line 46082)
 translate ru TheBlackMonolithWarrior2_9c6e5ab3:
     # s "I will meet with him, but no more than that."
-    s ""
+    s "I will meet with him, but no more than that."
 
 # TheBlackMonolithWarrior2_740b321a (line 46083)
 translate ru TheBlackMonolithWarrior2_740b321a:
@@ -2436,7 +2406,7 @@ translate ru TheBlackMonolithWarrior2_740b321a:
 # TheBlackMonolithWarrior2_a8dae135 (line 46084)
 translate ru TheBlackMonolithWarrior2_a8dae135:
     # c "I would ask no more of you, princess Sarah."
-    c ""
+    c "I would ask no more of you, princess Sarah."
 
 # TheBlackMonolithWarrior2_1a4de771 (line 46085)
 translate ru TheBlackMonolithWarrior2_1a4de771:
@@ -2448,16 +2418,6 @@ translate ru TheBlackMonolithWarrior2_8c4aaff2:
     # "It was strange to her how something that had once been so normal now sounded wrong to her."
     ""
 
-# TheBlackMonolithWarrior2_b65f5225 (line 46089)
-translate ru TheBlackMonolithWarrior2_b65f5225:
-    # "Ask Carolyn about Vaelen"
-    "Ask Carolyn about Vaelen" ""
-
-# TheBlackMonolithWarrior2_96c34bb4 (line 46126)
-translate ru TheBlackMonolithWarrior2_96c34bb4:
-    # "Say nothing"
-    "Say nothing" ""
-
 # TheBlackMonolithWarrior2_09717859 (line 46132)
 translate ru TheBlackMonolithWarrior2_09717859:
     # "Sarah faced Lady Carolyn."
@@ -2466,7 +2426,7 @@ translate ru TheBlackMonolithWarrior2_09717859:
 # TheBlackMonolithWarrior2_3e5c42be (line 46133)
 translate ru TheBlackMonolithWarrior2_3e5c42be:
     # s "So, when do you suppose I might have a chance to meet with this Gilead?"
-    s ""
+    s "So, when do you suppose I might have a chance to meet with this Gilead?"
 
 # TheBlackMonolithWarrior2_506e2f38 (line 46134)
 translate ru TheBlackMonolithWarrior2_506e2f38:
@@ -2476,22 +2436,22 @@ translate ru TheBlackMonolithWarrior2_506e2f38:
 # TheBlackMonolithWarrior2_d309e180 (line 46135)
 translate ru TheBlackMonolithWarrior2_d309e180:
     # c "We will need to finish up here, after that the army will march back to Rahayal to resupply."
-    c ""
+    c "We will need to finish up here, after that the army will march back to Rahayal to resupply."
 
 # TheBlackMonolithWarrior2_80d6665b (line 46136)
 translate ru TheBlackMonolithWarrior2_80d6665b:
     # c "You and the other mercenaries can march with us, it is not uncommon for mercenary units to be attached to legions."
-    c ""
+    c "You and the other mercenaries can march with us, it is not uncommon for mercenary units to be attached to legions."
 
 # TheBlackMonolithWarrior2_cd48f869 (line 46137)
 translate ru TheBlackMonolithWarrior2_cd48f869:
     # c "You will enter the city and nobody will think anything of you."
-    c ""
+    c "You will enter the city and nobody will think anything of you."
 
 # TheBlackMonolithWarrior2_e960d0b1 (line 46138)
 translate ru TheBlackMonolithWarrior2_e960d0b1:
     # c "This will allow us to conduct the meeting with the proper discretion."
-    c ""
+    c "This will allow us to conduct the meeting with the proper discretion."
 
 # TheBlackMonolithWarrior2_8e16c78f (line 46139)
 translate ru TheBlackMonolithWarrior2_8e16c78f:
@@ -2501,17 +2461,17 @@ translate ru TheBlackMonolithWarrior2_8e16c78f:
 # TheBlackMonolithWarrior2_43e5966b (line 46140)
 translate ru TheBlackMonolithWarrior2_43e5966b:
     # s "Why all this cloak-and-dagger anyway?"
-    s ""
+    s "Why all this cloak-and-dagger anyway?"
 
 # TheBlackMonolithWarrior2_3c998f8e (line 46141)
 translate ru TheBlackMonolithWarrior2_3c998f8e:
     # c "Not everyone in Mythra shares Gilead's belief that Rosanna is important."
-    c ""
+    c "Not everyone in Mythra shares Gilead's belief that Rosanna is important."
 
 # TheBlackMonolithWarrior2_29102832 (line 46142)
 translate ru TheBlackMonolithWarrior2_29102832:
     # c "There are those in the city that would prefer the legions of Mythra not be wasted on what they believe are, pardon the word, backwaters."
-    c ""
+    c "There are those in the city that would prefer the legions of Mythra not be wasted on what they believe are, pardon the word, backwaters."
 
 # TheBlackMonolithWarrior2_103dd098 (line 46143)
 translate ru TheBlackMonolithWarrior2_103dd098:
@@ -2536,7 +2496,7 @@ translate ru TheBlackMonolithWarrior2_fbb2555b:
 # TheBlackMonolithWarrior2_7cf7e037 (line 46147)
 translate ru TheBlackMonolithWarrior2_7cf7e037:
     # s "When will you be done here?"
-    s ""
+    s "When will you be done here?"
 
 # TheBlackMonolithWarrior2_5d896e32 (line 46148)
 translate ru TheBlackMonolithWarrior2_5d896e32:
@@ -2546,12 +2506,12 @@ translate ru TheBlackMonolithWarrior2_5d896e32:
 # TheBlackMonolithWarrior2_70e1aa11 (line 46149)
 translate ru TheBlackMonolithWarrior2_70e1aa11:
     # c "Depends on how fast we find something, I suppose."
-    c ""
+    c "Depends on how fast we find something, I suppose."
 
 # TheBlackMonolithWarrior2_aa6e9422 (line 46150)
 translate ru TheBlackMonolithWarrior2_aa6e9422:
     # s "Find what exactly?"
-    s ""
+    s "Find what exactly?"
 
 # TheBlackMonolithWarrior2_a64c9538 (line 46151)
 translate ru TheBlackMonolithWarrior2_a64c9538:
@@ -2561,12 +2521,12 @@ translate ru TheBlackMonolithWarrior2_a64c9538:
 # TheBlackMonolithWarrior2_6facfeb5 (line 46152)
 translate ru TheBlackMonolithWarrior2_6facfeb5:
     # c "Near the center of the city there is a dig site."
-    c ""
+    c "Near the center of the city there is a dig site."
 
 # TheBlackMonolithWarrior2_12dcbb47 (line 46153)
 translate ru TheBlackMonolithWarrior2_12dcbb47:
     # c "The entire reason for this army to be out here is to secure it and support the archeological staff from carrying out their excavations."
-    c ""
+    c "The entire reason for this army to be out here is to secure it and support the archeological staff from carrying out their excavations."
 
 # TheBlackMonolithWarrior2_7bb2b664 (line 46154)
 translate ru TheBlackMonolithWarrior2_7bb2b664:
@@ -2576,7 +2536,7 @@ translate ru TheBlackMonolithWarrior2_7bb2b664:
 # TheBlackMonolithWarrior2_171e519e (line 46155)
 translate ru TheBlackMonolithWarrior2_171e519e:
     # s "Digging for what exactly?"
-    s ""
+    s "Digging for what exactly?"
 
 # TheBlackMonolithWarrior2_836b639c (line 46156)
 translate ru TheBlackMonolithWarrior2_836b639c:
@@ -2586,12 +2546,12 @@ translate ru TheBlackMonolithWarrior2_836b639c:
 # TheBlackMonolithWarrior2_7921bb1b (line 46157)
 translate ru TheBlackMonolithWarrior2_7921bb1b:
     # c "Don't get too excited. The Mythrans have an obsession with old artifacts."
-    c ""
+    c "Don't get too excited. The Mythrans have an obsession with old artifacts."
 
 # TheBlackMonolithWarrior2_9494a8ea (line 46158)
 translate ru TheBlackMonolithWarrior2_9494a8ea:
     # c "Most of these expeditions end up producing not much more than a few shards of broken pottery."
-    c ""
+    c "Most of these expeditions end up producing not much more than a few shards of broken pottery."
 
 # TheBlackMonolithWarrior2_30fe2dbe (line 46159)
 translate ru TheBlackMonolithWarrior2_30fe2dbe:
@@ -2601,12 +2561,12 @@ translate ru TheBlackMonolithWarrior2_30fe2dbe:
 # TheBlackMonolithWarrior2_c10e2850 (line 46160)
 translate ru TheBlackMonolithWarrior2_c10e2850:
     # s "So, until the excavation is complete..."
-    s ""
+    s "So, until the excavation is complete..."
 
 # TheBlackMonolithWarrior2_01ecb334 (line 46161)
 translate ru TheBlackMonolithWarrior2_01ecb334:
     # c "Simpy be patient, dear. Make sure no tribesmen cause any trouble, and try to keep yourself from going mad with boredom."
-    c ""
+    c "Simpy be patient, dear. Make sure no tribesmen cause any trouble, and try to keep yourself from going mad with boredom."
 
 # TheBlackMonolithWarrior2_e4f1cd18 (line 46162)
 translate ru TheBlackMonolithWarrior2_e4f1cd18:
@@ -2621,7 +2581,7 @@ translate ru TheBlackMonolithWarrior2_1e75ff41:
 # TheBlackMonolithWarrior2_a40fe467 (line 46164)
 translate ru TheBlackMonolithWarrior2_a40fe467:
     # c "Anyway my dear, I have to continue to make the rounds."
-    c ""
+    c "Anyway my dear, I have to continue to make the rounds."
 
 # TheBlackMonolithWarrior2_7655d6b6 (line 46165)
 translate ru TheBlackMonolithWarrior2_7655d6b6:
@@ -2631,7 +2591,7 @@ translate ru TheBlackMonolithWarrior2_7655d6b6:
 # TheBlackMonolithWarrior2_e96fa56c (line 46166)
 translate ru TheBlackMonolithWarrior2_e96fa56c:
     # c "And please, try at least to pretend like you're having fun."
-    c ""
+    c "And please, try at least to pretend like you're having fun."
 
 # TheBlackMonolithWarrior2_ceb6bad5 (line 46167)
 translate ru TheBlackMonolithWarrior2_ceb6bad5:
@@ -2786,7 +2746,7 @@ translate ru TheBlackMonolithWarrior2_e053bae1:
 # TheBlackMonolithWarrior2_cbcb0464 (line 46205)
 translate ru TheBlackMonolithWarrior2_cbcb0464:
     # s "Vaelen! Wait!"
-    s ""
+    s "Vaelen! Wait!"
 
 # TheBlackMonolithWarrior2_6afffb2c (line 46206)
 translate ru TheBlackMonolithWarrior2_6afffb2c:
@@ -2806,7 +2766,7 @@ translate ru TheBlackMonolithWarrior2_b907bab8:
 # TheBlackMonolithWarrior2_ef8e931e (line 46209)
 translate ru TheBlackMonolithWarrior2_ef8e931e:
     # vae "Sarah."
-    vae ""
+    vae "Sarah."
 
 # TheBlackMonolithWarrior2_12da2d78 (line 46210)
 translate ru TheBlackMonolithWarrior2_12da2d78:
@@ -2821,12 +2781,12 @@ translate ru TheBlackMonolithWarrior2_b2c0be14:
 # TheBlackMonolithWarrior2_8c9d76dd (line 46212)
 translate ru TheBlackMonolithWarrior2_8c9d76dd:
     # s "I haven't seen you since we arrived here."
-    s ""
+    s "I haven't seen you since we arrived here."
 
 # TheBlackMonolithWarrior2_3a43a1ea (line 46213)
 translate ru TheBlackMonolithWarrior2_3a43a1ea:
     # s "You didn't speak a word to me in the tent."
-    s ""
+    s "You didn't speak a word to me in the tent."
 
 # TheBlackMonolithWarrior2_676e6051 (line 46214)
 translate ru TheBlackMonolithWarrior2_676e6051:
@@ -2836,7 +2796,7 @@ translate ru TheBlackMonolithWarrior2_676e6051:
 # TheBlackMonolithWarrior2_98f70b8a (line 46215)
 translate ru TheBlackMonolithWarrior2_98f70b8a:
     # vae "It appeared you were otherwise occupied."
-    vae ""
+    vae "It appeared you were otherwise occupied."
 
 # TheBlackMonolithWarrior2_a586c081 (line 46216)
 translate ru TheBlackMonolithWarrior2_a586c081:
@@ -2846,7 +2806,7 @@ translate ru TheBlackMonolithWarrior2_a586c081:
 # TheBlackMonolithWarrior2_0fbf522e (line 46217)
 translate ru TheBlackMonolithWarrior2_0fbf522e:
     # s "What is your problem?"
-    s ""
+    s "What is your problem?"
 
 # TheBlackMonolithWarrior2_4e2cd472 (line 46218)
 translate ru TheBlackMonolithWarrior2_4e2cd472:
@@ -2856,7 +2816,7 @@ translate ru TheBlackMonolithWarrior2_4e2cd472:
 # TheBlackMonolithWarrior2_f3c26c47 (line 46219)
 translate ru TheBlackMonolithWarrior2_f3c26c47:
     # vae "Don't forget yourself."
-    vae ""
+    vae "Don't forget yourself."
 
 # TheBlackMonolithWarrior2_6f93698c (line 46220)
 translate ru TheBlackMonolithWarrior2_6f93698c:
@@ -2866,22 +2826,22 @@ translate ru TheBlackMonolithWarrior2_6f93698c:
 # TheBlackMonolithWarrior2_1553fbc2 (line 46221)
 translate ru TheBlackMonolithWarrior2_1553fbc2:
     # vae "I am still your commander."
-    vae ""
+    vae "I am still your commander."
 
 # TheBlackMonolithWarrior2_f75dc47b (line 46222)
 translate ru TheBlackMonolithWarrior2_f75dc47b:
     # s "Then act like it."
-    s ""
+    s "Then act like it."
 
 # TheBlackMonolithWarrior2_22591a76 (line 46223)
 translate ru TheBlackMonolithWarrior2_22591a76:
     # s "Gideon told me you've been holed up in your tent ever since we got here."
-    s ""
+    s "Gideon told me you've been holed up in your tent ever since we got here."
 
 # TheBlackMonolithWarrior2_4aa26c6f (line 46224)
 translate ru TheBlackMonolithWarrior2_4aa26c6f:
     # vae "Neither of you get to tell me how to run my company, do you understand?!"
-    vae ""
+    vae "Neither of you get to tell me how to run my company, do you understand?!"
 
 # TheBlackMonolithWarrior2_f541c63a (line 46225)
 translate ru TheBlackMonolithWarrior2_f541c63a:
@@ -2891,27 +2851,27 @@ translate ru TheBlackMonolithWarrior2_f541c63a:
 # TheBlackMonolithWarrior2_bc383759 (line 46226)
 translate ru TheBlackMonolithWarrior2_bc383759:
     # s "If you don't give a fuck about what I have to say, fine, but listen to me when I tell you that the men are growing restless."
-    s ""
+    s "If you don't give a fuck about what I have to say, fine, but listen to me when I tell you that the men are growing restless."
 
 # TheBlackMonolithWarrior2_27efc3ef (line 46227)
 translate ru TheBlackMonolithWarrior2_27efc3ef:
     # vae "The men will do as I tell them to, as they always have."
-    vae ""
+    vae "The men will do as I tell them to, as they always have."
 
 # TheBlackMonolithWarrior2_c6f00caf (line 46228)
 translate ru TheBlackMonolithWarrior2_c6f00caf:
     # s "You pushed them too far!"
-    s ""
+    s "You pushed them too far!"
 
 # TheBlackMonolithWarrior2_bbb38554 (line 46229)
 translate ru TheBlackMonolithWarrior2_bbb38554:
     # s "They're on the edge of mutiny as it is."
-    s ""
+    s "They're on the edge of mutiny as it is."
 
 # TheBlackMonolithWarrior2_5e9d2b2f (line 46230)
 translate ru TheBlackMonolithWarrior2_5e9d2b2f:
     # s "If you don't stand up and start acting like a leader that's worth a damn, they will turn on you."
-    s ""
+    s "If you don't stand up and start acting like a leader that's worth a damn, they will turn on you."
 
 # TheBlackMonolithWarrior2_dde0f44d (line 46231)
 translate ru TheBlackMonolithWarrior2_dde0f44d:
@@ -2921,17 +2881,17 @@ translate ru TheBlackMonolithWarrior2_dde0f44d:
 # TheBlackMonolithWarrior2_10eb1734 (line 46232)
 translate ru TheBlackMonolithWarrior2_10eb1734:
     # vae "Is that so?"
-    vae ""
+    vae "Is that so?"
 
 # TheBlackMonolithWarrior2_bbd60dc8 (line 46233)
 translate ru TheBlackMonolithWarrior2_bbd60dc8:
     # vae "And what then, huh?"
-    vae ""
+    vae "And what then, huh?"
 
 # TheBlackMonolithWarrior2_853e979c (line 46234)
 translate ru TheBlackMonolithWarrior2_853e979c:
     # vae "You would take my place?"
-    vae ""
+    vae "You would take my place?"
 
 # TheBlackMonolithWarrior2_06acb728 (line 46235)
 translate ru TheBlackMonolithWarrior2_06acb728:
@@ -2941,17 +2901,17 @@ translate ru TheBlackMonolithWarrior2_06acb728:
 # TheBlackMonolithWarrior2_09b05d1f (line 46236)
 translate ru TheBlackMonolithWarrior2_09b05d1f:
     # s "When have I ever said that? I don't want to lead this company!"
-    s ""
+    s "When have I ever said that? I don't want to lead this company!"
 
 # TheBlackMonolithWarrior2_35302ab0 (line 46237)
 translate ru TheBlackMonolithWarrior2_35302ab0:
     # vae "You don't need to say a word when you wear it all on your face."
-    vae ""
+    vae "You don't need to say a word when you wear it all on your face."
 
 # TheBlackMonolithWarrior2_3188297b (line 46238)
 translate ru TheBlackMonolithWarrior2_3188297b:
     # vae "At every turn you disobey me. Even in there, you undermine me!"
-    vae ""
+    vae "At every turn you disobey me. Even in there, you undermine me!"
 
 # TheBlackMonolithWarrior2_25c156f9 (line 46239)
 translate ru TheBlackMonolithWarrior2_25c156f9:
@@ -2961,7 +2921,7 @@ translate ru TheBlackMonolithWarrior2_25c156f9:
 # TheBlackMonolithWarrior2_16a672b0 (line 46240)
 translate ru TheBlackMonolithWarrior2_16a672b0:
     # vae "Perhaps it is your upbringing. Perhaps you were never taught how to learn your place."
-    vae ""
+    vae "Perhaps it is your upbringing. Perhaps you were never taught how to learn your place."
 
 # TheBlackMonolithWarrior2_dfdf668c (line 46241)
 translate ru TheBlackMonolithWarrior2_dfdf668c:
@@ -2971,7 +2931,7 @@ translate ru TheBlackMonolithWarrior2_dfdf668c:
 # TheBlackMonolithWarrior2_de5b6cd7 (line 46242)
 translate ru TheBlackMonolithWarrior2_de5b6cd7:
     # s "What can I tell you to convince you? What can I say that will make you listen to my advice?"
-    s ""
+    s "What can I tell you to convince you? What can I say that will make you listen to my advice?"
 
 # TheBlackMonolithWarrior2_b93fa1b1 (line 46243)
 translate ru TheBlackMonolithWarrior2_b93fa1b1:
@@ -2981,17 +2941,17 @@ translate ru TheBlackMonolithWarrior2_b93fa1b1:
 # TheBlackMonolithWarrior2_9db3c566 (line 46244)
 translate ru TheBlackMonolithWarrior2_9db3c566:
     # vae "Nothing."
-    vae ""
+    vae "Nothing."
 
 # TheBlackMonolithWarrior2_a778a1ff (line 46245)
 translate ru TheBlackMonolithWarrior2_a778a1ff:
     # vae "None of this matters."
-    vae ""
+    vae "None of this matters."
 
 # TheBlackMonolithWarrior2_11a832a7 (line 46246)
 translate ru TheBlackMonolithWarrior2_11a832a7:
     # vae "I already know how this ends."
-    vae ""
+    vae "I already know how this ends."
 
 # TheBlackMonolithWarrior2_a92ded8b (line 46248)
 translate ru TheBlackMonolithWarrior2_a92ded8b:

@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: WarriorPath5
-# Total blocks: 339
+# Total blocks: 335
 
 # WarriorPath5_63a752b5 (line 41275)
 translate ru WarriorPath5_63a752b5:
@@ -21,7 +21,7 @@ translate ru WarriorPath5_347c888c:
 # WarriorPath5_b83151ed (line 41280)
 translate ru WarriorPath5_b83151ed:
     # vae "We need to talk."
-    vae ""
+    vae "We need to talk."
 
 # WarriorPath5_f3b7f48d (line 41281)
 translate ru WarriorPath5_f3b7f48d:
@@ -31,7 +31,7 @@ translate ru WarriorPath5_f3b7f48d:
 # WarriorPath5_0606d83c (line 41282)
 translate ru WarriorPath5_0606d83c:
     # s "Sure."
-    s ""
+    s "Sure."
 
 # WarriorPath5_04bad0dc (line 41283)
 translate ru WarriorPath5_04bad0dc:
@@ -51,7 +51,7 @@ translate ru WarriorPath5_7edc2a9c:
 # WarriorPath5_5ee8e3e4 (line 41286)
 translate ru WarriorPath5_5ee8e3e4:
     # vae "You enjoyed the celebrations?"
-    vae ""
+    vae "You enjoyed the celebrations?"
 
 # WarriorPath5_09b7a3c3 (line 41287)
 translate ru WarriorPath5_09b7a3c3:
@@ -61,7 +61,7 @@ translate ru WarriorPath5_09b7a3c3:
 # WarriorPath5_331e4e54 (line 41288)
 translate ru WarriorPath5_331e4e54:
     # s "I managed."
-    s ""
+    s "I managed."
 
 # WarriorPath5_dfcf3e4a (line 41289)
 translate ru WarriorPath5_dfcf3e4a:
@@ -86,7 +86,7 @@ translate ru WarriorPath5_a8e37832:
 # WarriorPath5_e02e8f79 (line 41293)
 translate ru WarriorPath5_e02e8f79:
     # vae "The Mythran camp is in a bit of chaos after their prince was...well, you know."
-    vae ""
+    vae "The Mythran camp is in a bit of chaos after their prince was...well, you know."
 
 # WarriorPath5_6ae1923d (line 41294)
 translate ru WarriorPath5_6ae1923d:
@@ -96,17 +96,17 @@ translate ru WarriorPath5_6ae1923d:
 # WarriorPath5_74d3588c (line 41295)
 translate ru WarriorPath5_74d3588c:
     # vae "Their commanders can't quite figure out whose supposed to be next in line for command."
-    vae ""
+    vae "Their commanders can't quite figure out whose supposed to be next in line for command."
 
 # WarriorPath5_c89d11ea (line 41296)
 translate ru WarriorPath5_c89d11ea:
     # vae "Rest the poor bastard's soul, but it's not entirely unfortunate for us."
-    vae ""
+    vae "Rest the poor bastard's soul, but it's not entirely unfortunate for us."
 
 # WarriorPath5_b52ad571 (line 41297)
 translate ru WarriorPath5_b52ad571:
     # vae "Now that they're too busy arguing amongst themselves, none of them have really found the time to press us about occupying the western wing."
-    vae ""
+    vae "Now that they're too busy arguing amongst themselves, none of them have really found the time to press us about occupying the western wing."
 
 # WarriorPath5_6725c500 (line 41298)
 translate ru WarriorPath5_6725c500:
@@ -121,22 +121,22 @@ translate ru WarriorPath5_bc2771f8:
 # WarriorPath5_e15c7f14 (line 41300)
 translate ru WarriorPath5_e15c7f14:
     # vae "But I don't know how long their discord will last, so I wanted to make our move now."
-    vae ""
+    vae "But I don't know how long their discord will last, so I wanted to make our move now."
 
 # WarriorPath5_253646ad (line 41301)
 translate ru WarriorPath5_253646ad:
     # s "Now?"
-    s ""
+    s "Now?"
 
 # WarriorPath5_6ad15748 (line 41302)
 translate ru WarriorPath5_6ad15748:
     # vae "Yes."
-    vae ""
+    vae "Yes."
 
 # WarriorPath5_76a53eae (line 41303)
 translate ru WarriorPath5_76a53eae:
     # s "You mean break open the royal vault?"
-    s ""
+    s "You mean break open the royal vault?"
 
 # WarriorPath5_69144c97 (line 41304)
 translate ru WarriorPath5_69144c97:
@@ -146,17 +146,17 @@ translate ru WarriorPath5_69144c97:
 # WarriorPath5_880c5ecc (line 41305)
 translate ru WarriorPath5_880c5ecc:
     # s "Wouldn't it be better to bring an entire unit of soldiers?"
-    s ""
+    s "Wouldn't it be better to bring an entire unit of soldiers?"
 
 # WarriorPath5_11fda10c (line 41306)
 translate ru WarriorPath5_11fda10c:
     # s "I mean, breaking it open alone is one thing, but carrying out all the valuables..."
-    s ""
+    s "I mean, breaking it open alone is one thing, but carrying out all the valuables..."
 
 # WarriorPath5_f75d95a6 (line 41307)
 translate ru WarriorPath5_f75d95a6:
     # s "Not exactly a job for two people."
-    s ""
+    s "Not exactly a job for two people."
 
 # WarriorPath5_97672a55 (line 41308)
 translate ru WarriorPath5_97672a55:
@@ -166,12 +166,12 @@ translate ru WarriorPath5_97672a55:
 # WarriorPath5_504ed153 (line 41309)
 translate ru WarriorPath5_504ed153:
     # vae "Sarah, this isn't about stealing some chests of gold from an old family vault."
-    vae ""
+    vae "Sarah, this isn't about stealing some chests of gold from an old family vault."
 
 # WarriorPath5_59170f24 (line 41310)
 translate ru WarriorPath5_59170f24:
     # vae "There is a particular item in that room that I'm after, and I don't need an entire army of soldiers stomping around."
-    vae ""
+    vae "There is a particular item in that room that I'm after, and I don't need an entire army of soldiers stomping around."
 
 # WarriorPath5_be22d57a (line 41311)
 translate ru WarriorPath5_be22d57a:
@@ -181,22 +181,22 @@ translate ru WarriorPath5_be22d57a:
 # WarriorPath5_bce6f6c1 (line 41312)
 translate ru WarriorPath5_bce6f6c1:
     # s "What is it then?"
-    s ""
+    s "What is it then?"
 
 # WarriorPath5_339b16d9 (line 41313)
 translate ru WarriorPath5_339b16d9:
     # vae "It's a gem. Or a jewel of a sort. In fact, I don't exactly know what it looks like."
-    vae ""
+    vae "It's a gem. Or a jewel of a sort. In fact, I don't exactly know what it looks like."
 
 # WarriorPath5_e4892b71 (line 41314)
 translate ru WarriorPath5_e4892b71:
     # s "If you don't know what it looks like, how will we know when we find it?"
-    s ""
+    s "If you don't know what it looks like, how will we know when we find it?"
 
 # WarriorPath5_26cf8930 (line 41315)
 translate ru WarriorPath5_26cf8930:
     # vae "Trust me, Sarah, when we find it you'll know. It has a very particular red glow to it. When you see it, you'll know."
-    vae ""
+    vae "Trust me, Sarah, when we find it you'll know. It has a very particular red glow to it. When you see it, you'll know."
 
 # WarriorPath5_b75742d0 (line 41316)
 translate ru WarriorPath5_b75742d0:
@@ -231,7 +231,7 @@ translate ru WarriorPath5_eb126900:
 # WarriorPath5_f5368aaa (line 41331)
 translate ru WarriorPath5_f5368aaa:
     # s "How did you know how to find it?"
-    s ""
+    s "How did you know how to find it?"
 
 # WarriorPath5_db13de55 (line 41332)
 translate ru WarriorPath5_db13de55:
@@ -241,22 +241,22 @@ translate ru WarriorPath5_db13de55:
 # WarriorPath5_e77f1879 (line 41333)
 translate ru WarriorPath5_e77f1879:
     # vae "I told you once before, a long time ago, that I know things."
-    vae ""
+    vae "I told you once before, a long time ago, that I know things."
 
 # WarriorPath5_ea9e458f (line 41334)
 translate ru WarriorPath5_ea9e458f:
     # vae "You ask me how I know them, I wish I knew any better than you."
-    vae ""
+    vae "You ask me how I know them, I wish I knew any better than you."
 
 # WarriorPath5_c22b73b8 (line 41335)
 translate ru WarriorPath5_c22b73b8:
     # vae "Sometimes, in my life, things appear to me so obvious that I don't wonder how I know them, only how anyone else couldn't."
-    vae ""
+    vae "Sometimes, in my life, things appear to me so obvious that I don't wonder how I know them, only how anyone else couldn't."
 
 # WarriorPath5_3dd2a0c9 (line 41336)
 translate ru WarriorPath5_3dd2a0c9:
     # vae "This pathway is one of them. The gemstone another."
-    vae ""
+    vae "This pathway is one of them. The gemstone another."
 
 # WarriorPath5_bca1b1bd (line 41337)
 translate ru WarriorPath5_bca1b1bd:
@@ -366,7 +366,7 @@ translate ru WarriorPath5_b87ef30f:
 # WarriorPath5_d3a958bd (line 41366)
 translate ru WarriorPath5_d3a958bd:
     # s "I don't think this is safe."
-    s ""
+    s "I don't think this is safe."
 
 # WarriorPath5_5bc76d5d (line 41367)
 translate ru WarriorPath5_5bc76d5d:
@@ -376,17 +376,17 @@ translate ru WarriorPath5_5bc76d5d:
 # WarriorPath5_e96d4fdd (line 41368)
 translate ru WarriorPath5_e96d4fdd:
     # vae "You're right, it's not."
-    vae ""
+    vae "You're right, it's not."
 
 # WarriorPath5_07fdc7a6 (line 41369)
 translate ru WarriorPath5_07fdc7a6:
     # vae "It's very old. One of the first rooms ever constructed, back when Bagrad was still a backwater village."
-    vae ""
+    vae "It's very old. One of the first rooms ever constructed, back when Bagrad was still a backwater village."
 
 # WarriorPath5_b750a873 (line 41370)
 translate ru WarriorPath5_b750a873:
     # vae "It will likely sit here till the end of days."
-    vae ""
+    vae "It will likely sit here till the end of days."
 
 # WarriorPath5_3f688423 (line 41371)
 translate ru WarriorPath5_3f688423:
@@ -401,17 +401,17 @@ translate ru WarriorPath5_f90978a1:
 # WarriorPath5_0aca9ce2 (line 41373)
 translate ru WarriorPath5_0aca9ce2:
     # s "What is it?"
-    s ""
+    s "What is it?"
 
 # WarriorPath5_adc207ac (line 41374)
 translate ru WarriorPath5_adc207ac:
     # vae "An old metal and an old language, each long lost to history. Even I don't know much more than that."
-    vae ""
+    vae "An old metal and an old language, each long lost to history. Even I don't know much more than that."
 
 # WarriorPath5_b0e9023c (line 41375)
 translate ru WarriorPath5_b0e9023c:
     # s "How do we open it?"
-    s ""
+    s "How do we open it?"
 
 # WarriorPath5_9c1cf2b0 (line 41376)
 translate ru WarriorPath5_9c1cf2b0:
@@ -421,7 +421,7 @@ translate ru WarriorPath5_9c1cf2b0:
 # WarriorPath5_bfb8bb75 (line 41377)
 translate ru WarriorPath5_bfb8bb75:
     # vae "For us, the door will open itself."
-    vae ""
+    vae "For us, the door will open itself."
 
 # WarriorPath5_b0397cf1 (line 41378)
 translate ru WarriorPath5_b0397cf1:
@@ -441,17 +441,17 @@ translate ru WarriorPath5_93ed250f:
 # WarriorPath5_d9c4a68f (line 41381)
 translate ru WarriorPath5_d9c4a68f:
     # s "How did you do that?"
-    s ""
+    s "How did you do that?"
 
 # WarriorPath5_37431b1c (line 41382)
 translate ru WarriorPath5_37431b1c:
     # vae "The gate only permits entry to those it wants."
-    vae ""
+    vae "The gate only permits entry to those it wants."
 
 # WarriorPath5_a3d4e01d (line 41383)
 translate ru WarriorPath5_a3d4e01d:
     # vae "Bagrad's royal family foolish believed that meant themselves, but the door has a mind of its own, and it decides itself who it grants entry."
-    vae ""
+    vae "Bagrad's royal family foolish believed that meant themselves, but the door has a mind of its own, and it decides itself who it grants entry."
 
 # WarriorPath5_32dbfbfd (line 41384)
 translate ru WarriorPath5_32dbfbfd:
@@ -496,17 +496,17 @@ translate ru WarriorPath5_30e73dde:
 # WarriorPath5_957b1264 (line 41399)
 translate ru WarriorPath5_957b1264:
     # s "How far does this go on for?"
-    s ""
+    s "How far does this go on for?"
 
 # WarriorPath5_5039777d (line 41400)
 translate ru WarriorPath5_5039777d:
     # vae "I have no idea, Sarah."
-    vae ""
+    vae "I have no idea, Sarah."
 
 # WarriorPath5_3f6fc00a (line 41401)
 translate ru WarriorPath5_3f6fc00a:
     # vae "Can you grab that?"
-    vae ""
+    vae "Can you grab that?"
 
 # WarriorPath5_cdfad1b5 (line 41402)
 translate ru WarriorPath5_cdfad1b5:
@@ -526,7 +526,7 @@ translate ru WarriorPath5_c432b855:
 # WarriorPath5_c44206d2 (line 41405)
 translate ru WarriorPath5_c44206d2:
     # vae "I'll go left here, you take the right side. Just keep going till you find the stone."
-    vae ""
+    vae "I'll go left here, you take the right side. Just keep going till you find the stone."
 
 # WarriorPath5_fd6f54c9 (line 41406)
 translate ru WarriorPath5_fd6f54c9:
@@ -536,7 +536,7 @@ translate ru WarriorPath5_fd6f54c9:
 # WarriorPath5_4346c617 (line 41407)
 translate ru WarriorPath5_4346c617:
     # s "And I'll know it when I see it?"
-    s ""
+    s "And I'll know it when I see it?"
 
 # WarriorPath5_e4f3e69b (line 41408)
 translate ru WarriorPath5_e4f3e69b:
@@ -546,7 +546,7 @@ translate ru WarriorPath5_e4f3e69b:
 # WarriorPath5_379b767c (line 41409)
 translate ru WarriorPath5_379b767c:
     # vae "When you find the stone, don't touch it. Call for me and I'll take care of the rest."
-    vae ""
+    vae "When you find the stone, don't touch it. Call for me and I'll take care of the rest."
 
 # WarriorPath5_d9c44442 (line 41410)
 translate ru WarriorPath5_d9c44442:
@@ -651,7 +651,7 @@ translate ru WarriorPath5_f25ee478:
 # WarriorPath5_0e5caebb (line 41431)
 translate ru WarriorPath5_0e5caebb:
     # s "How did you end up here..."
-    s ""
+    s "How did you end up here..."
 
 # WarriorPath5_832d4faf (line 41432)
 translate ru WarriorPath5_832d4faf:
@@ -751,7 +751,7 @@ translate ru WarriorPath5_531e2890:
 # WarriorPath5_bb409a76 (line 41458)
 translate ru WarriorPath5_bb409a76:
     # r "That won't work. My nature is not quite so similar."
-    r ""
+    r "That won't work. My nature is not quite so similar."
 
 # WarriorPath5_904ff16a (line 41459)
 translate ru WarriorPath5_904ff16a:
@@ -766,7 +766,7 @@ translate ru WarriorPath5_67850cac:
 # WarriorPath5_0614b1fd (line 41461)
 translate ru WarriorPath5_0614b1fd:
     # s "What...what are you?!"
-    s ""
+    s "What...what are you?!"
 
 # WarriorPath5_e13b4cc9 (line 41462)
 translate ru WarriorPath5_e13b4cc9:
@@ -776,17 +776,17 @@ translate ru WarriorPath5_e13b4cc9:
 # WarriorPath5_1e5ef11d (line 41463)
 translate ru WarriorPath5_1e5ef11d:
     # r "An old friend, Sarah."
-    r ""
+    r "An old friend, Sarah."
 
 # WarriorPath5_9df7c933 (line 41464)
 translate ru WarriorPath5_9df7c933:
     # s "How do you know my name?"
-    s ""
+    s "How do you know my name?"
 
 # WarriorPath5_f803faff (line 41465)
 translate ru WarriorPath5_f803faff:
     # r "You told me once, and I don't forget a name."
-    r ""
+    r "You told me once, and I don't forget a name."
 
 # WarriorPath5_074b93a7 (line 41466)
 translate ru WarriorPath5_074b93a7:
@@ -796,7 +796,7 @@ translate ru WarriorPath5_074b93a7:
 # WarriorPath5_8b8a23ae (line 41467)
 translate ru WarriorPath5_8b8a23ae:
     # s "I would have remembered meeting a demon like yourself."
-    s ""
+    s "I would have remembered meeting a demon like yourself."
 
 # WarriorPath5_7e31d7cd (line 41468)
 translate ru WarriorPath5_7e31d7cd:
@@ -806,12 +806,12 @@ translate ru WarriorPath5_7e31d7cd:
 # WarriorPath5_d576b43f (line 41469)
 translate ru WarriorPath5_d576b43f:
     # r "Not a demon. Merely a humble spirit."
-    r ""
+    r "Not a demon. Merely a humble spirit."
 
 # WarriorPath5_feaa789d (line 41470)
 translate ru WarriorPath5_feaa789d:
     # r "And you would be surprised what people in this world forget sometimes."
-    r ""
+    r "And you would be surprised what people in this world forget sometimes."
 
 # WarriorPath5_03fe6feb (line 41471)
 translate ru WarriorPath5_03fe6feb:
@@ -821,7 +821,7 @@ translate ru WarriorPath5_03fe6feb:
 # WarriorPath5_c4dec963 (line 41472)
 translate ru WarriorPath5_c4dec963:
     # s "Enough of your cryptic bullshit!"
-    s ""
+    s "Enough of your cryptic bullshit!"
 
 # WarriorPath5_2ba5d67d (line 41473)
 translate ru WarriorPath5_2ba5d67d:
@@ -831,22 +831,22 @@ translate ru WarriorPath5_2ba5d67d:
 # WarriorPath5_1d7c2dfd (line 41474)
 translate ru WarriorPath5_1d7c2dfd:
     # r "I must confess, I liked the other one more."
-    r ""
+    r "I must confess, I liked the other one more."
 
 # WarriorPath5_7bc795e1 (line 41475)
 translate ru WarriorPath5_7bc795e1:
     # r "Regardless, Sarah, we meet under auspicious conditions."
-    r ""
+    r "Regardless, Sarah, we meet under auspicious conditions."
 
 # WarriorPath5_f76443c0 (line 41476)
 translate ru WarriorPath5_f76443c0:
     # s "I didn't come here to commune with unholy beasts."
-    s ""
+    s "I didn't come here to commune with unholy beasts."
 
 # WarriorPath5_5cb73c75 (line 41477)
 translate ru WarriorPath5_5cb73c75:
     # r "Did you not come here seeking a stone of crimson?"
-    r ""
+    r "Did you not come here seeking a stone of crimson?"
 
 # WarriorPath5_c7cdf7ea (line 41478)
 translate ru WarriorPath5_c7cdf7ea:
@@ -856,7 +856,7 @@ translate ru WarriorPath5_c7cdf7ea:
 # WarriorPath5_edc697e4 (line 41479)
 translate ru WarriorPath5_edc697e4:
     # s "How did you know that?"
-    s ""
+    s "How did you know that?"
 
 # WarriorPath5_1fea9179 (line 41480)
 translate ru WarriorPath5_1fea9179:
@@ -866,7 +866,7 @@ translate ru WarriorPath5_1fea9179:
 # WarriorPath5_fb042679 (line 41481)
 translate ru WarriorPath5_fb042679:
     # r "You have found it."
-    r ""
+    r "You have found it."
 
 # WarriorPath5_4a55889a (line 41482)
 translate ru WarriorPath5_4a55889a:
@@ -876,17 +876,17 @@ translate ru WarriorPath5_4a55889a:
 # WarriorPath5_b8b361e2 (line 41483)
 translate ru WarriorPath5_b8b361e2:
     # r "But I come to you bearing a warning."
-    r ""
+    r "But I come to you bearing a warning."
 
 # WarriorPath5_06413515 (line 41484)
 translate ru WarriorPath5_06413515:
     # s "A warning?"
-    s ""
+    s "A warning?"
 
 # WarriorPath5_2a062b35 (line 41485)
 translate ru WarriorPath5_2a062b35:
     # r "Your master. The-one-who-calls-himself-Vaelen. He seeks the stone, but you must not give it to him."
-    r ""
+    r "Your master. The-one-who-calls-himself-Vaelen. He seeks the stone, but you must not give it to him."
 
 # WarriorPath5_c3a244b7 (line 41486)
 translate ru WarriorPath5_c3a244b7:
@@ -896,17 +896,17 @@ translate ru WarriorPath5_c3a244b7:
 # WarriorPath5_a55bfa6a (line 41487)
 translate ru WarriorPath5_a55bfa6a:
     # s "Why is that?"
-    s ""
+    s "Why is that?"
 
 # WarriorPath5_17f7b260 (line 41488)
 translate ru WarriorPath5_17f7b260:
     # r "Because this stone is what is called a fate stone. And the-one-who-calls-himself-Vaelen, he will seek to wield it against you."
-    r ""
+    r "Because this stone is what is called a fate stone. And the-one-who-calls-himself-Vaelen, he will seek to wield it against you."
 
 # WarriorPath5_1ec886fa (line 41489)
 translate ru WarriorPath5_1ec886fa:
     # s "Against me? Vaelen is my ally."
-    s ""
+    s "Against me? Vaelen is my ally."
 
 # WarriorPath5_f29996c0 (line 41490)
 translate ru WarriorPath5_f29996c0:
@@ -916,27 +916,27 @@ translate ru WarriorPath5_f29996c0:
 # WarriorPath5_13e95868 (line 41491)
 translate ru WarriorPath5_13e95868:
     # r "He is many things, but he is not your friend."
-    r ""
+    r "He is many things, but he is not your friend."
 
 # WarriorPath5_09414a72 (line 41492)
 translate ru WarriorPath5_09414a72:
     # s "And you are?"
-    s ""
+    s "And you are?"
 
 # WarriorPath5_fc43f01a (line 41493)
 translate ru WarriorPath5_fc43f01a:
     # r "We have been before. We can be again."
-    r ""
+    r "We have been before. We can be again."
 
 # WarriorPath5_d635a070 (line 41494)
 translate ru WarriorPath5_d635a070:
     # s "One more riddle out of you and I swear I'll find a way to hurt you, even if it means bringing down the palace on your head."
-    s ""
+    s "One more riddle out of you and I swear I'll find a way to hurt you, even if it means bringing down the palace on your head."
 
 # WarriorPath5_1b52db52 (line 41495)
 translate ru WarriorPath5_1b52db52:
     # r "Forgive me, Sarah."
-    r ""
+    r "Forgive me, Sarah."
 
 # WarriorPath5_18c3f3cb (line 41496)
 translate ru WarriorPath5_18c3f3cb:
@@ -946,52 +946,52 @@ translate ru WarriorPath5_18c3f3cb:
 # WarriorPath5_aa4a37f7 (line 41497)
 translate ru WarriorPath5_aa4a37f7:
     # s "Now tell me."
-    s ""
+    s "Now tell me."
 
 # WarriorPath5_2d2586e5 (line 41498)
 translate ru WarriorPath5_2d2586e5:
     # s "Why would I take the word of some vile spirit over that of my commander?"
-    s ""
+    s "Why would I take the word of some vile spirit over that of my commander?"
 
 # WarriorPath5_2ba200d3 (line 41499)
 translate ru WarriorPath5_2ba200d3:
     # r "Because your master has been gifted with sight-beyond-sight."
-    r ""
+    r "Because your master has been gifted with sight-beyond-sight."
 
 # WarriorPath5_6b84f84f (line 41500)
 translate ru WarriorPath5_6b84f84f:
     # r "And he fears what he has seen."
-    r ""
+    r "And he fears what he has seen."
 
 # WarriorPath5_da3e8a39 (line 41501)
 translate ru WarriorPath5_da3e8a39:
     # r "When he is alone, he weeps for what destiny has in store for him."
-    r ""
+    r "When he is alone, he weeps for what destiny has in store for him."
 
 # WarriorPath5_a268b022 (line 41502)
 translate ru WarriorPath5_a268b022:
     # r "He believes that the stone will save him from the pull of destiny."
-    r ""
+    r "He believes that the stone will save him from the pull of destiny."
 
 # WarriorPath5_0d0a9b9b (line 41503)
 translate ru WarriorPath5_0d0a9b9b:
     # s "What does the stone do?"
-    s ""
+    s "What does the stone do?"
 
 # WarriorPath5_7d2f0956 (line 41504)
 translate ru WarriorPath5_7d2f0956:
     # r "The stone permits him to break free from the chain of fate that drags him towards his inevitable end and the pit that awaits him."
-    r ""
+    r "The stone permits him to break free from the chain of fate that drags him towards his inevitable end and the pit that awaits him."
 
 # WarriorPath5_c01f26cd (line 41505)
 translate ru WarriorPath5_c01f26cd:
     # s "And why should I care for any of this?"
-    s ""
+    s "And why should I care for any of this?"
 
 # WarriorPath5_55496e4e (line 41506)
 translate ru WarriorPath5_55496e4e:
     # s "He is my friend, he has done nothing but support me when nobody else would. Why should I not help him?"
-    s ""
+    s "He is my friend, he has done nothing but support me when nobody else would. Why should I not help him?"
 
 # WarriorPath5_d35649ef (line 41507)
 translate ru WarriorPath5_d35649ef:
@@ -1001,7 +1001,7 @@ translate ru WarriorPath5_d35649ef:
 # WarriorPath5_1cb00eb7 (line 41508)
 translate ru WarriorPath5_1cb00eb7:
     # r "Because the blade he seeks to divert, is yours."
-    r ""
+    r "Because the blade he seeks to divert, is yours."
 
 # WarriorPath5_88148640 (line 41509)
 translate ru WarriorPath5_88148640:
@@ -1011,37 +1011,37 @@ translate ru WarriorPath5_88148640:
 # WarriorPath5_6240b53a (line 41510)
 translate ru WarriorPath5_6240b53a:
     # s "Lies."
-    s ""
+    s "Lies."
 
 # WarriorPath5_db349fe3 (line 41511)
 translate ru WarriorPath5_db349fe3:
     # s "You can't possibly know the future."
-    s ""
+    s "You can't possibly know the future."
 
 # WarriorPath5_de59014a (line 41512)
 translate ru WarriorPath5_de59014a:
     # r "And yet I do. As does Vaelen. The only one who is blind, is you. But you need not be."
-    r ""
+    r "And yet I do. As does Vaelen. The only one who is blind, is you. But you need not be."
 
 # WarriorPath5_755231ee (line 41513)
 translate ru WarriorPath5_755231ee:
     # r "Seize the stone, hide it from him."
-    r ""
+    r "Seize the stone, hide it from him."
 
 # WarriorPath5_0b039dfb (line 41514)
 translate ru WarriorPath5_0b039dfb:
     # s "And why would you tell me any of this? What game do you play at?"
-    s ""
+    s "And why would you tell me any of this? What game do you play at?"
 
 # WarriorPath5_8a7dfd55 (line 41515)
 translate ru WarriorPath5_8a7dfd55:
     # r "No game, Sarah."
-    r ""
+    r "No game, Sarah."
 
 # WarriorPath5_2fafda71 (line 41516)
 translate ru WarriorPath5_2fafda71:
     # r "I told you, we are old friends."
-    r ""
+    r "I told you, we are old friends."
 
 # WarriorPath5_1d0e8f28 (line 41517)
 translate ru WarriorPath5_1d0e8f28:
@@ -1051,7 +1051,7 @@ translate ru WarriorPath5_1d0e8f28:
 # WarriorPath5_002b8113 (line 41518)
 translate ru WarriorPath5_002b8113:
     # s "It doesn't matter. I can't just take the stone. If it's as important as you say it is, he won't stop searching for it."
-    s ""
+    s "It doesn't matter. I can't just take the stone. If it's as important as you say it is, he won't stop searching for it."
 
 # WarriorPath5_2dab60bb (line 41519)
 translate ru WarriorPath5_2dab60bb:
@@ -1061,7 +1061,7 @@ translate ru WarriorPath5_2dab60bb:
 # WarriorPath5_b94eb8bb (line 41520)
 translate ru WarriorPath5_b94eb8bb:
     # r "Take the real stone for yourself. Give the fake stone to the-one-who-calls-himself-Vaelen. He will not be able to discren the false stone from a true one."
-    r ""
+    r "Take the real stone for yourself. Give the fake stone to the-one-who-calls-himself-Vaelen. He will not be able to discren the false stone from a true one."
 
 # WarriorPath5_01fe1047 (line 41521)
 translate ru WarriorPath5_01fe1047:
@@ -1072,16 +1072,6 @@ translate ru WarriorPath5_01fe1047:
 translate ru WarriorPath5_91d08ab0:
     # "She carefully considered her choice."
     ""
-
-# WarriorPath5_8bfc309f (line 41525)
-translate ru WarriorPath5_8bfc309f:
-    # "Take the real stone for yourself."
-    "Take the real stone for yourself." ""
-
-# WarriorPath5_49bb268c (line 41538)
-translate ru WarriorPath5_49bb268c:
-    # "Give Vaelen the real stone."
-    "Give Vaelen the real stone." ""
 
 # WarriorPath5_4852cc20 (line 41558)
 translate ru WarriorPath5_4852cc20:
@@ -1101,7 +1091,7 @@ translate ru WarriorPath5_a935b7a4:
 # WarriorPath5_a80b5a35 (line 41561)
 translate ru WarriorPath5_a80b5a35:
     # s "Vaelen!"
-    s ""
+    s "Vaelen!"
 
 # WarriorPath5_e56d5200 (line 41562)
 translate ru WarriorPath5_e56d5200:
@@ -1111,7 +1101,7 @@ translate ru WarriorPath5_e56d5200:
 # WarriorPath5_edec665d (line 41563)
 translate ru WarriorPath5_edec665d:
     # s "Vaelen!!!"
-    s ""
+    s "Vaelen!!!"
 
 # WarriorPath5_0beb9412 (line 41564)
 translate ru WarriorPath5_0beb9412:
@@ -1126,7 +1116,7 @@ translate ru WarriorPath5_c48caf47:
 # WarriorPath5_6a961128 (line 41573)
 translate ru WarriorPath5_6a961128:
     # vae "Sarah! Did you find it?"
-    vae ""
+    vae "Sarah! Did you find it?"
 
 # WarriorPath5_f299ccb1 (line 41574)
 translate ru WarriorPath5_f299ccb1:
@@ -1136,7 +1126,7 @@ translate ru WarriorPath5_f299ccb1:
 # WarriorPath5_194f0d62 (line 41575)
 translate ru WarriorPath5_194f0d62:
     # s "There you go."
-    s ""
+    s "There you go."
 
 # WarriorPath5_d1d124b7 (line 41576)
 translate ru WarriorPath5_d1d124b7:
@@ -1151,22 +1141,22 @@ translate ru WarriorPath5_e1d3a2cc:
 # WarriorPath5_1d95217a (line 41578)
 translate ru WarriorPath5_1d95217a:
     # vae "Perfect!"
-    vae ""
+    vae "Perfect!"
 
 # WarriorPath5_9f1db5d3 (line 41579)
 translate ru WarriorPath5_9f1db5d3:
     # vae "You did well, Sarah."
-    vae ""
+    vae "You did well, Sarah."
 
 # WarriorPath5_115f9fd8 (line 41580)
 translate ru WarriorPath5_115f9fd8:
     # s "Can you tell me what it's for? The stone?"
-    s ""
+    s "Can you tell me what it's for? The stone?"
 
 # WarriorPath5_0c3c8323 (line 41581)
 translate ru WarriorPath5_0c3c8323:
     # vae "Of course, but not today. It's a long story."
-    vae ""
+    vae "Of course, but not today. It's a long story."
 
 # WarriorPath5_6ed632f5 (line 41582)
 translate ru WarriorPath5_6ed632f5:
@@ -1176,12 +1166,12 @@ translate ru WarriorPath5_6ed632f5:
 # WarriorPath5_3e70398a (line 41583)
 translate ru WarriorPath5_3e70398a:
     # s "Fine, can we get out of here then?"
-    s ""
+    s "Fine, can we get out of here then?"
 
 # WarriorPath5_58af8feb (line 41584)
 translate ru WarriorPath5_58af8feb:
     # s "This place is giving me the creeps."
-    s ""
+    s "This place is giving me the creeps."
 
 # WarriorPath5_8500445e (line 41585)
 translate ru WarriorPath5_8500445e:
@@ -1201,7 +1191,7 @@ translate ru WarriorPath5_bf2c237b:
 # WarriorPath5_b0697cbd (line 41595)
 translate ru WarriorPath5_b0697cbd:
     # vae "Sarah, I would appreciate if you could keep everything that you saw today private."
-    vae ""
+    vae "Sarah, I would appreciate if you could keep everything that you saw today private."
 
 # WarriorPath5_81b3c738 (line 41596)
 translate ru WarriorPath5_81b3c738:
@@ -1216,12 +1206,12 @@ translate ru WarriorPath5_11977c73:
 # WarriorPath5_1b225270 (line 41598)
 translate ru WarriorPath5_1b225270:
     # s "Sure, I won't tell anyone."
-    s ""
+    s "Sure, I won't tell anyone."
 
 # WarriorPath5_290db0be (line 41599)
 translate ru WarriorPath5_290db0be:
     # vae "Excellent."
-    vae ""
+    vae "Excellent."
 
 # WarriorPath5_236858e2 (line 41600)
 translate ru WarriorPath5_236858e2:
@@ -1231,22 +1221,22 @@ translate ru WarriorPath5_236858e2:
 # WarriorPath5_7040a136 (line 41601)
 translate ru WarriorPath5_7040a136:
     # vae "Now that the battle is over, I suspect it won't be long before the Mythrans cut our contract off."
-    vae ""
+    vae "Now that the battle is over, I suspect it won't be long before the Mythrans cut our contract off."
 
 # WarriorPath5_5f690940 (line 41602)
 translate ru WarriorPath5_5f690940:
     # vae "We'll need to start making preparations for leaving the city, likely within a week."
-    vae ""
+    vae "We'll need to start making preparations for leaving the city, likely within a week."
 
 # WarriorPath5_4c1597f5 (line 41603)
 translate ru WarriorPath5_4c1597f5:
     # s "Why a week?"
-    s ""
+    s "Why a week?"
 
 # WarriorPath5_67ba8d50 (line 41604)
 translate ru WarriorPath5_67ba8d50:
     # vae "That's about when the food stores will be running low, and I don't want to be here when this city starts starving."
-    vae ""
+    vae "That's about when the food stores will be running low, and I don't want to be here when this city starts starving."
 
 # WarriorPath5_a865b7a1 (line 41605)
 translate ru WarriorPath5_a865b7a1:
@@ -1261,17 +1251,17 @@ translate ru WarriorPath5_9328ccb8:
 # WarriorPath5_a93be257 (line 41607)
 translate ru WarriorPath5_a93be257:
     # s "Sure, I'll start preparing the men for departure tomorrow."
-    s ""
+    s "Sure, I'll start preparing the men for departure tomorrow."
 
 # WarriorPath5_38c729ba (line 41608)
 translate ru WarriorPath5_38c729ba:
     # vae "Why tomorrow, you have something better to do?"
-    vae ""
+    vae "Why tomorrow, you have something better to do?"
 
 # WarriorPath5_47563821 (line 41609)
 translate ru WarriorPath5_47563821:
     # s "In fact I do have something."
-    s ""
+    s "In fact I do have something."
 
 # WarriorPath5_4c9726ea (line 41610)
 translate ru WarriorPath5_4c9726ea:
@@ -1356,7 +1346,7 @@ translate ru WarriorPath5_eb5840a2:
 # WarriorPath5_b43bb518 (line 41634)
 translate ru WarriorPath5_b43bb518:
     # s "Ephraim."
-    s ""
+    s "Ephraim."
 
 # WarriorPath5_f2d4afa8 (line 41635)
 translate ru WarriorPath5_f2d4afa8:
@@ -1366,7 +1356,7 @@ translate ru WarriorPath5_f2d4afa8:
 # WarriorPath5_eb40ff4b (line 41636)
 translate ru WarriorPath5_eb40ff4b:
     # ep "Sarah..."
-    ep ""
+    ep "Sarah..."
 
 # WarriorPath5_81e1b1a2 (line 41637)
 translate ru WarriorPath5_81e1b1a2:
@@ -1451,7 +1441,7 @@ translate ru WarriorPath5_27950399:
 # WarriorPath5_05e9443b (line 41654)
 translate ru WarriorPath5_05e9443b:
     # s "You've found a nice spot."
-    s ""
+    s "You've found a nice spot."
 
 # WarriorPath5_e8c6f6b1 (line 41655)
 translate ru WarriorPath5_e8c6f6b1:
@@ -1461,7 +1451,7 @@ translate ru WarriorPath5_e8c6f6b1:
 # WarriorPath5_083603de (line 41657)
 translate ru WarriorPath5_083603de:
     # ep "So I thought maybe just in the desert but it all looked the same. Until I found this tree."
-    ep ""
+    ep "So I thought maybe just in the desert but it all looked the same. Until I found this tree."
 
 # WarriorPath5_f8707b0b (line 41658)
 translate ru WarriorPath5_f8707b0b:
@@ -1471,12 +1461,12 @@ translate ru WarriorPath5_f8707b0b:
 # WarriorPath5_dace6bf7 (line 41659)
 translate ru WarriorPath5_dace6bf7:
     # ep "I guess its as good a place as any."
-    ep ""
+    ep "I guess its as good a place as any."
 
 # WarriorPath5_e3b885c2 (line 41660)
 translate ru WarriorPath5_e3b885c2:
     # s "It's a lovely place."
-    s ""
+    s "It's a lovely place."
 
 # WarriorPath5_0a7239a4 (line 41661)
 translate ru WarriorPath5_0a7239a4:
@@ -1486,12 +1476,12 @@ translate ru WarriorPath5_0a7239a4:
 # WarriorPath5_bed7f462 (line 41662)
 translate ru WarriorPath5_bed7f462:
     # ep "Maybe."
-    ep ""
+    ep "Maybe."
 
 # WarriorPath5_fd3438a2 (line 41663)
 translate ru WarriorPath5_fd3438a2:
     # ep "What about Vaelen, he showing up?"
-    ep ""
+    ep "What about Vaelen, he showing up?"
 
 # WarriorPath5_59361ad3 (line 41664)
 translate ru WarriorPath5_59361ad3:
@@ -1506,7 +1496,7 @@ translate ru WarriorPath5_e17adb1a:
 # WarriorPath5_95ded088 (line 41666)
 translate ru WarriorPath5_95ded088:
     # s "No, Ephraim. He's currently busy with-"
-    s ""
+    s "No, Ephraim. He's currently busy with-"
 
 # WarriorPath5_6ec84de8 (line 41667)
 translate ru WarriorPath5_6ec84de8:
@@ -1516,7 +1506,7 @@ translate ru WarriorPath5_6ec84de8:
 # WarriorPath5_39823de7 (line 41668)
 translate ru WarriorPath5_39823de7:
     # ep "It's fine, Sarah. It's fine."
-    ep ""
+    ep "It's fine, Sarah. It's fine."
 
 # WarriorPath5_8f25f59f (line 41669)
 translate ru WarriorPath5_8f25f59f:
@@ -1526,7 +1516,7 @@ translate ru WarriorPath5_8f25f59f:
 # WarriorPath5_54b24adb (line 41671)
 translate ru WarriorPath5_54b24adb:
     # s "You're doing the best you can, Ephraim. Don't feel guilty."
-    s ""
+    s "You're doing the best you can, Ephraim. Don't feel guilty."
 
 # WarriorPath5_fb268297 (line 41672)
 translate ru WarriorPath5_fb268297:
@@ -1536,27 +1526,27 @@ translate ru WarriorPath5_fb268297:
 # WarriorPath5_7ac1dddd (line 41673)
 translate ru WarriorPath5_7ac1dddd:
     # ep "I don't know what to do, Sarah. About any of this."
-    ep ""
+    ep "I don't know what to do, Sarah. About any of this."
 
 # WarriorPath5_b3f238b6 (line 41674)
 translate ru WarriorPath5_b3f238b6:
     # ep "I throw out their ashes and then...that's it?"
-    ep ""
+    ep "I throw out their ashes and then...that's it?"
 
 # WarriorPath5_8541cf15 (line 41675)
 translate ru WarriorPath5_8541cf15:
     # s "You throw them to the wind, same as any would have done for you if you'd been the one to die."
-    s ""
+    s "You throw them to the wind, same as any would have done for you if you'd been the one to die."
 
 # WarriorPath5_d491934d (line 41676)
 translate ru WarriorPath5_d491934d:
     # s "That's all we can do really, Ephraim. Promise to do for each other what we wish we could do for ourselves."
-    s ""
+    s "That's all we can do really, Ephraim. Promise to do for each other what we wish we could do for ourselves."
 
 # WarriorPath5_a3d67f58 (line 41677)
 translate ru WarriorPath5_a3d67f58:
     # s "And see through on that promise."
-    s ""
+    s "And see through on that promise."
 
 # WarriorPath5_19560d5e (line 41678)
 translate ru WarriorPath5_19560d5e:
@@ -1566,12 +1556,12 @@ translate ru WarriorPath5_19560d5e:
 # WarriorPath5_702ab383 (line 41679)
 translate ru WarriorPath5_702ab383:
     # ep "It should have been me."
-    ep ""
+    ep "It should have been me."
 
 # WarriorPath5_63316b59 (line 41680)
 translate ru WarriorPath5_63316b59:
     # s "Don't say that."
-    s ""
+    s "Don't say that."
 
 # WarriorPath5_c3bc67c9 (line 41681)
 translate ru WarriorPath5_c3bc67c9:
@@ -1581,22 +1571,22 @@ translate ru WarriorPath5_c3bc67c9:
 # WarriorPath5_a18c1ad9 (line 41682)
 translate ru WarriorPath5_a18c1ad9:
     # ep "Why not? It's true!"
-    ep ""
+    ep "Why not? It's true!"
 
 # WarriorPath5_4a318e70 (line 41683)
 translate ru WarriorPath5_4a318e70:
     # ep "I never wanted any of this."
-    ep ""
+    ep "I never wanted any of this."
 
 # WarriorPath5_e1730b70 (line 41684)
 translate ru WarriorPath5_e1730b70:
     # ep "Life's been pretty miserable for as long as I can remember. Just an endless grind, hoping to stay alive...for what?"
-    ep ""
+    ep "Life's been pretty miserable for as long as I can remember. Just an endless grind, hoping to stay alive...for what?"
 
 # WarriorPath5_30f7bc65 (line 41687)
 translate ru WarriorPath5_30f7bc65:
     # ep "So what sense does it make that they die and I live on?"
-    ep ""
+    ep "So what sense does it make that they die and I live on?"
 
 # WarriorPath5_1aa62642 (line 41688)
 translate ru WarriorPath5_1aa62642:
@@ -1606,7 +1596,7 @@ translate ru WarriorPath5_1aa62642:
 # WarriorPath5_272ed03e (line 41689)
 translate ru WarriorPath5_272ed03e:
     # s "Maybe it doesn't make any sense, Ephraim."
-    s ""
+    s "Maybe it doesn't make any sense, Ephraim."
 
 # WarriorPath5_a7687e39 (line 41691)
 translate ru WarriorPath5_a7687e39:
@@ -1626,17 +1616,17 @@ translate ru WarriorPath5_c80ac7b6:
 # WarriorPath5_98f20898 (line 41701)
 translate ru WarriorPath5_98f20898:
     # s "I'm not saying you have to stay with the mercenary company."
-    s ""
+    s "I'm not saying you have to stay with the mercenary company."
 
 # WarriorPath5_b029728a (line 41702)
 translate ru WarriorPath5_b029728a:
     # s "But Ephraim, think about the life you still have left. The things you could do in their honour."
-    s ""
+    s "But Ephraim, think about the life you still have left. The things you could do in their honour."
 
 # WarriorPath5_09be05f1 (line 41703)
 translate ru WarriorPath5_09be05f1:
     # s "To throw that all away, because of this...don't be so foolish, Ephraim."
-    s ""
+    s "To throw that all away, because of this...don't be so foolish, Ephraim."
 
 # WarriorPath5_177aa47e (line 41704)
 translate ru WarriorPath5_177aa47e:
@@ -1676,22 +1666,12 @@ translate ru WarriorPath5_0d0c91d4:
 # WarriorPath5_02445e08 (line 41711)
 translate ru WarriorPath5_02445e08:
     # ep "What do I do now, Sarah?"
-    ep ""
-
-# WarriorPath5_2d3adc7e (line 41714)
-translate ru WarriorPath5_2d3adc7e:
-    # "Stay with the mercenary company"
-    "Stay with the mercenary company" ""
-
-# WarriorPath5_1ab41e82 (line 41723)
-translate ru WarriorPath5_1ab41e82:
-    # "Live your own life"
-    "Live your own life" ""
+    ep "What do I do now, Sarah?"
 
 # WarriorPath5_bdbbc58b (line 41774)
 translate ru WarriorPath5_bdbbc58b:
     # ep "I think it's about time for me to leave."
-    ep ""
+    ep "I think it's about time for me to leave."
 
 # WarriorPath5_69119aa2 (line 41775)
 translate ru WarriorPath5_69119aa2:

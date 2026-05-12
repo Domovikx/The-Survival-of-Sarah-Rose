@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TheHollowWorldWarrior2
-# Total blocks: 140
+# Total blocks: 136
 
 # TheHollowWorldWarrior2_104d1df3 (line 42010)
 translate ru TheHollowWorldWarrior2_104d1df3:
@@ -141,7 +141,7 @@ translate ru TheHollowWorldWarrior2_c4d99fa9:
 # TheHollowWorldWarrior2_e694385a (line 42044)
 translate ru TheHollowWorldWarrior2_e694385a:
     # k "You hanging in there?"
-    k ""
+    k "You hanging in there?"
 
 # TheHollowWorldWarrior2_93dd0553 (line 42045)
 translate ru TheHollowWorldWarrior2_93dd0553:
@@ -156,7 +156,7 @@ translate ru TheHollowWorldWarrior2_fef9762e:
 # TheHollowWorldWarrior2_b711b63b (line 42047)
 translate ru TheHollowWorldWarrior2_b711b63b:
     # s "It's only been a few hours since we've left."
-    s ""
+    s "It's only been a few hours since we've left."
 
 # TheHollowWorldWarrior2_0985d32f (line 42048)
 translate ru TheHollowWorldWarrior2_0985d32f:
@@ -166,7 +166,7 @@ translate ru TheHollowWorldWarrior2_0985d32f:
 # TheHollowWorldWarrior2_973f263e (line 42049)
 translate ru TheHollowWorldWarrior2_973f263e:
     # k "Yeah, but still."
-    k ""
+    k "Yeah, but still."
 
 # TheHollowWorldWarrior2_61595d8f (line 42050)
 translate ru TheHollowWorldWarrior2_61595d8f:
@@ -236,7 +236,7 @@ translate ru TheHollowWorldWarrior2_a342385b:
 # TheHollowWorldWarrior2_b28ee5d9 (line 42063)
 translate ru TheHollowWorldWarrior2_b28ee5d9:
     # s "My armor is fucking boiling me alive, I can tell you that much."
-    s ""
+    s "My armor is fucking boiling me alive, I can tell you that much."
 
 # TheHollowWorldWarrior2_83c2d5e3 (line 42084)
 translate ru TheHollowWorldWarrior2_83c2d5e3:
@@ -316,7 +316,7 @@ translate ru TheHollowWorldWarrior2_82621c7c:
 # TheHollowWorldWarrior2_b7777191 (line 42099)
 translate ru TheHollowWorldWarrior2_b7777191:
     # k "So, Vaelen tell you what's what?"
-    k ""
+    k "So, Vaelen tell you what's what?"
 
 # TheHollowWorldWarrior2_571ba87b (line 42100)
 translate ru TheHollowWorldWarrior2_571ba87b:
@@ -326,12 +326,12 @@ translate ru TheHollowWorldWarrior2_571ba87b:
 # TheHollowWorldWarrior2_859f38f4 (line 42101)
 translate ru TheHollowWorldWarrior2_859f38f4:
     # s "He tells me about the same as any other."
-    s ""
+    s "He tells me about the same as any other."
 
 # TheHollowWorldWarrior2_80ac3daf (line 42102)
 translate ru TheHollowWorldWarrior2_80ac3daf:
     # k "Bullshit."
-    k ""
+    k "Bullshit."
 
 # TheHollowWorldWarrior2_4089defc (line 42103)
 translate ru TheHollowWorldWarrior2_4089defc:
@@ -341,7 +341,7 @@ translate ru TheHollowWorldWarrior2_4089defc:
 # TheHollowWorldWarrior2_a91863d5 (line 42104)
 translate ru TheHollowWorldWarrior2_a91863d5:
     # k "Everybody knows you're his golden girl. If he'd tell anybody, it's you."
-    k ""
+    k "Everybody knows you're his golden girl. If he'd tell anybody, it's you."
 
 # TheHollowWorldWarrior2_efd0feff (line 42105)
 translate ru TheHollowWorldWarrior2_efd0feff:
@@ -351,7 +351,7 @@ translate ru TheHollowWorldWarrior2_efd0feff:
 # TheHollowWorldWarrior2_66822d85 (line 42106)
 translate ru TheHollowWorldWarrior2_66822d85:
     # s "He told me it's about going to a town called Nauyziri, but you know that too."
-    s ""
+    s "He told me it's about going to a town called Nauyziri, but you know that too."
 
 # TheHollowWorldWarrior2_f479d6ce (line 42107)
 translate ru TheHollowWorldWarrior2_f479d6ce:
@@ -361,12 +361,12 @@ translate ru TheHollowWorldWarrior2_f479d6ce:
 # TheHollowWorldWarrior2_cc734f70 (line 42108)
 translate ru TheHollowWorldWarrior2_cc734f70:
     # k "But he didn't tell you why? I mean...fuck...there ain't nothing out there."
-    k ""
+    k "But he didn't tell you why? I mean...fuck...there ain't nothing out there."
 
 # TheHollowWorldWarrior2_d9b5dc2c (line 42109)
 translate ru TheHollowWorldWarrior2_d9b5dc2c:
     # s "You're free to turn around."
-    s ""
+    s "You're free to turn around."
 
 # TheHollowWorldWarrior2_1af90c55 (line 42110)
 translate ru TheHollowWorldWarrior2_1af90c55:
@@ -376,12 +376,12 @@ translate ru TheHollowWorldWarrior2_1af90c55:
 # TheHollowWorldWarrior2_76610e38 (line 42111)
 translate ru TheHollowWorldWarrior2_76610e38:
     # k "I'd rather die out there with you than die by myself trying to get back."
-    k ""
+    k "I'd rather die out there with you than die by myself trying to get back."
 
 # TheHollowWorldWarrior2_99ce2821 (line 42112)
 translate ru TheHollowWorldWarrior2_99ce2821:
     # k "Not to mention, I don't wanna see what Bagrad is going to turn into over the next few days."
-    k ""
+    k "Not to mention, I don't wanna see what Bagrad is going to turn into over the next few days."
 
 # TheHollowWorldWarrior2_d3d16938 (line 42113)
 translate ru TheHollowWorldWarrior2_d3d16938:
@@ -421,17 +421,17 @@ translate ru TheHollowWorldWarrior2_1c5f1844:
 # TheHollowWorldWarrior2_0d1da37b (line 42120)
 translate ru TheHollowWorldWarrior2_0d1da37b:
     # s "Well, like I said, I don't know a damn thing more than you do."
-    s ""
+    s "Well, like I said, I don't know a damn thing more than you do."
 
 # TheHollowWorldWarrior2_094a1933 (line 42121)
 translate ru TheHollowWorldWarrior2_094a1933:
     # k "And that's fine with you?"
-    k ""
+    k "And that's fine with you?"
 
 # TheHollowWorldWarrior2_5e583a9c (line 42122)
 translate ru TheHollowWorldWarrior2_5e583a9c:
     # k "You don't mind riding further out than any soul should, all because Vaelen ordered us too?"
-    k ""
+    k "You don't mind riding further out than any soul should, all because Vaelen ordered us too?"
 
 # TheHollowWorldWarrior2_77231caf (line 42123)
 translate ru TheHollowWorldWarrior2_77231caf:
@@ -441,12 +441,12 @@ translate ru TheHollowWorldWarrior2_77231caf:
 # TheHollowWorldWarrior2_7013414b (line 42124)
 translate ru TheHollowWorldWarrior2_7013414b:
     # s "What do you want me to do about it? You know how he gets when he has these ideas..."
-    s ""
+    s "What do you want me to do about it? You know how he gets when he has these ideas..."
 
 # TheHollowWorldWarrior2_fa997263 (line 42125)
 translate ru TheHollowWorldWarrior2_fa997263:
     # s "Besides, if you don't trust him, go take it up with him."
-    s ""
+    s "Besides, if you don't trust him, go take it up with him."
 
 # TheHollowWorldWarrior2_52c0631a (line 42126)
 translate ru TheHollowWorldWarrior2_52c0631a:
@@ -456,7 +456,7 @@ translate ru TheHollowWorldWarrior2_52c0631a:
 # TheHollowWorldWarrior2_1f19470c (line 42127)
 translate ru TheHollowWorldWarrior2_1f19470c:
     # k "Nah, I trust him. And fuck it, even if I didn't trust him, I'd throw my life away for him too if he asked."
-    k ""
+    k "Nah, I trust him. And fuck it, even if I didn't trust him, I'd throw my life away for him too if he asked."
 
 # TheHollowWorldWarrior2_12bf2e29 (line 42128)
 translate ru TheHollowWorldWarrior2_12bf2e29:
@@ -466,12 +466,12 @@ translate ru TheHollowWorldWarrior2_12bf2e29:
 # TheHollowWorldWarrior2_05ab9854 (line 42129)
 translate ru TheHollowWorldWarrior2_05ab9854:
     # s "You don't mean that."
-    s ""
+    s "You don't mean that."
 
 # TheHollowWorldWarrior2_97cc6906 (line 42130)
 translate ru TheHollowWorldWarrior2_97cc6906:
     # k "Yeah, I do. Never met any person in the world that I can say that about."
-    k ""
+    k "Yeah, I do. Never met any person in the world that I can say that about."
 
 # TheHollowWorldWarrior2_400ed52d (line 42131)
 translate ru TheHollowWorldWarrior2_400ed52d:
@@ -481,12 +481,12 @@ translate ru TheHollowWorldWarrior2_400ed52d:
 # TheHollowWorldWarrior2_6529ae4c (line 42132)
 translate ru TheHollowWorldWarrior2_6529ae4c:
     # k "And maybe you too."
-    k ""
+    k "And maybe you too."
 
 # TheHollowWorldWarrior2_0c14d49f (line 42133)
 translate ru TheHollowWorldWarrior2_0c14d49f:
     # k "This world is filled to the brim with worthless people. Best we can do is try and look out for the handful of people that matter."
-    k ""
+    k "This world is filled to the brim with worthless people. Best we can do is try and look out for the handful of people that matter."
 
 # TheHollowWorldWarrior2_69c1d566 (line 42134)
 translate ru TheHollowWorldWarrior2_69c1d566:
@@ -496,7 +496,7 @@ translate ru TheHollowWorldWarrior2_69c1d566:
 # TheHollowWorldWarrior2_393f2643 (line 42135)
 translate ru TheHollowWorldWarrior2_393f2643:
     # s "Do you really think that?"
-    s ""
+    s "Do you really think that?"
 
 # TheHollowWorldWarrior2_819cc608 (line 42136)
 translate ru TheHollowWorldWarrior2_819cc608:
@@ -506,12 +506,12 @@ translate ru TheHollowWorldWarrior2_819cc608:
 # TheHollowWorldWarrior2_6f00c22c (line 42137)
 translate ru TheHollowWorldWarrior2_6f00c22c:
     # k "Yeah, I don't like most people."
-    k ""
+    k "Yeah, I don't like most people."
 
 # TheHollowWorldWarrior2_fc940ff2 (line 42138)
 translate ru TheHollowWorldWarrior2_fc940ff2:
     # s "Maybe you should give them a chance, not everybody is that bad."
-    s ""
+    s "Maybe you should give them a chance, not everybody is that bad."
 
 # TheHollowWorldWarrior2_ee9c4ce7 (line 42139)
 translate ru TheHollowWorldWarrior2_ee9c4ce7:
@@ -521,17 +521,17 @@ translate ru TheHollowWorldWarrior2_ee9c4ce7:
 # TheHollowWorldWarrior2_fa442b8e (line 42140)
 translate ru TheHollowWorldWarrior2_fa442b8e:
     # k "Easy for you to say, you grew up in a castle. People are nice to you if you live in a castle."
-    k ""
+    k "Easy for you to say, you grew up in a castle. People are nice to you if you live in a castle."
 
 # TheHollowWorldWarrior2_981d4170 (line 42141)
 translate ru TheHollowWorldWarrior2_981d4170:
     # k "People smile, and say please, and do whatever you ask them."
-    k ""
+    k "People smile, and say please, and do whatever you ask them."
 
 # TheHollowWorldWarrior2_08daa235 (line 42142)
 translate ru TheHollowWorldWarrior2_08daa235:
     # k "I remember almost starving, sitting in an alley, and still nobody would offer me a fucking piece of bread for free."
-    k ""
+    k "I remember almost starving, sitting in an alley, and still nobody would offer me a fucking piece of bread for free."
 
 # TheHollowWorldWarrior2_4f06183e (line 42143)
 translate ru TheHollowWorldWarrior2_4f06183e:
@@ -541,17 +541,17 @@ translate ru TheHollowWorldWarrior2_4f06183e:
 # TheHollowWorldWarrior2_51998a3d (line 42144)
 translate ru TheHollowWorldWarrior2_51998a3d:
     # k "You think the real world is people being nice and smiling."
-    k ""
+    k "You think the real world is people being nice and smiling."
 
 # TheHollowWorldWarrior2_08151c25 (line 42145)
 translate ru TheHollowWorldWarrior2_08151c25:
     # k "Well I've seen men trying to buy me for a night in exchange for some food and something to drink."
-    k ""
+    k "Well I've seen men trying to buy me for a night in exchange for some food and something to drink."
 
 # TheHollowWorldWarrior2_851bb7cc (line 42146)
 translate ru TheHollowWorldWarrior2_851bb7cc:
     # k "Then the next day, I see them walking down the streets with their families, wife and kids and everything, going to pray."
-    k ""
+    k "Then the next day, I see them walking down the streets with their families, wife and kids and everything, going to pray."
 
 # TheHollowWorldWarrior2_6fd3a512 (line 42147)
 translate ru TheHollowWorldWarrior2_6fd3a512:
@@ -561,7 +561,7 @@ translate ru TheHollowWorldWarrior2_6fd3a512:
 # TheHollowWorldWarrior2_5510c43c (line 42148)
 translate ru TheHollowWorldWarrior2_5510c43c:
     # k "Most of the world is just people putting up fronts."
-    k ""
+    k "Most of the world is just people putting up fronts."
 
 # TheHollowWorldWarrior2_f7e48686 (line 42149)
 translate ru TheHollowWorldWarrior2_f7e48686:
@@ -571,22 +571,22 @@ translate ru TheHollowWorldWarrior2_f7e48686:
 # TheHollowWorldWarrior2_f4535aa8 (line 42150)
 translate ru TheHollowWorldWarrior2_f4535aa8:
     # s "You're a cynic."
-    s ""
+    s "You're a cynic."
 
 # TheHollowWorldWarrior2_ebcff885 (line 42151)
 translate ru TheHollowWorldWarrior2_ebcff885:
     # k "Well, if I am, the fucking world made me one."
-    k ""
+    k "Well, if I am, the fucking world made me one."
 
 # TheHollowWorldWarrior2_1349129b (line 42152)
 translate ru TheHollowWorldWarrior2_1349129b:
     # k "If I'm going to give up my life for anyone, it's going to be for the handful of people that are worth it. Maybe they can make this world a slightly better place."
-    k ""
+    k "If I'm going to give up my life for anyone, it's going to be for the handful of people that are worth it. Maybe they can make this world a slightly better place."
 
 # TheHollowWorldWarrior2_791f982f (line 42153)
 translate ru TheHollowWorldWarrior2_791f982f:
     # k "The rest of it? Let it crumble like the monuments they build out here."
-    k ""
+    k "The rest of it? Let it crumble like the monuments they build out here."
 
 # TheHollowWorldWarrior2_30d578ce (line 42154)
 translate ru TheHollowWorldWarrior2_30d578ce:
@@ -596,7 +596,7 @@ translate ru TheHollowWorldWarrior2_30d578ce:
 # TheHollowWorldWarrior2_a4ee85a7 (line 42155)
 translate ru TheHollowWorldWarrior2_a4ee85a7:
     # k "You ever wonder how many slaves they worked to death, just to build these things?"
-    k ""
+    k "You ever wonder how many slaves they worked to death, just to build these things?"
 
 # TheHollowWorldWarrior2_1c5fe9e5 (line 42156)
 translate ru TheHollowWorldWarrior2_1c5fe9e5:
@@ -621,7 +621,7 @@ translate ru TheHollowWorldWarrior2_8143b734:
 # TheHollowWorldWarrior2_b31de6c3 (line 42167)
 translate ru TheHollowWorldWarrior2_b31de6c3:
     # k "I have to go help my men a few carts up ahead, but I'll see about finding you later."
-    k ""
+    k "I have to go help my men a few carts up ahead, but I'll see about finding you later."
 
 # TheHollowWorldWarrior2_843da53f (line 42169)
 translate ru TheHollowWorldWarrior2_843da53f:
@@ -682,24 +682,4 @@ translate ru TheHollowWorldWarrior2_6534738b:
 translate ru TheHollowWorldWarrior2_97535989:
     # "Sarah found that as a commander, most were either too scared to interact with her or too eager, each could be off putting in its own way."
     ""
-
-# TheHollowWorldWarrior2_2723479b (line 42268)
-translate ru TheHollowWorldWarrior2_2723479b:
-    # "Intervene and save the woman"
-    "Intervene and save the woman" ""
-
-# TheHollowWorldWarrior2_04342742 (line 42362)
-translate ru TheHollowWorldWarrior2_04342742:
-    # "Do nothing"
-    "Do nothing" ""
-
-# TheHollowWorldWarrior2_7fc37519 (line 42395)
-translate ru TheHollowWorldWarrior2_7fc37519:
-    # "Intervene and save the woman"
-    "Intervene and save the woman" ""
-
-# TheHollowWorldWarrior2_fe34feb4 (line 42476)
-translate ru TheHollowWorldWarrior2_fe34feb4:
-    # "Do nothing"
-    "Do nothing" ""
 

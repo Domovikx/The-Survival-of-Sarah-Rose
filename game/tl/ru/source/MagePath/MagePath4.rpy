@@ -46,12 +46,12 @@ translate ru MagePath4_66f55d48:
 # MagePath4_2bc6395e (line 70512)
 translate ru MagePath4_2bc6395e:
     # x "Again!"
-    x ""
+    x "Again!"
 
 # MagePath4_2902828b (line 70513)
 translate ru MagePath4_2902828b:
     # x "You need to move the hand diagonally, and stretch the palm backwards."
-    x ""
+    x "You need to move the hand diagonally, and stretch the palm backwards."
 
 # MagePath4_d47a4553 (line 70514)
 translate ru MagePath4_d47a4553:
@@ -61,7 +61,7 @@ translate ru MagePath4_d47a4553:
 # MagePath4_b339844b (line 70515)
 translate ru MagePath4_b339844b:
     # x "No, not like that, like this."
-    x ""
+    x "No, not like that, like this."
 
 # MagePath4_d3582099 (line 70516)
 translate ru MagePath4_d3582099:
@@ -141,7 +141,7 @@ translate ru MagePath4_1ffd2884:
 # MagePath4_5e1ea523 (line 70536)
 translate ru MagePath4_5e1ea523:
     # s "Xan..."
-    s ""
+    s "Xan..."
 
 # MagePath4_4d98a2ac (line 70537)
 translate ru MagePath4_4d98a2ac:
@@ -151,22 +151,22 @@ translate ru MagePath4_4d98a2ac:
 # MagePath4_9d9afa81 (line 70538)
 translate ru MagePath4_9d9afa81:
     # x "Yes, Sarah?"
-    x ""
+    x "Yes, Sarah?"
 
 # MagePath4_8a79bdb2 (line 70539)
 translate ru MagePath4_8a79bdb2:
     # s "I've been wondering for a while now. This house...it's odd, isn't it?"
-    s ""
+    s "I've been wondering for a while now. This house...it's odd, isn't it?"
 
 # MagePath4_b58679da (line 70540)
 translate ru MagePath4_b58679da:
     # x "Odd how?"
-    x ""
+    x "Odd how?"
 
 # MagePath4_90a480f9 (line 70541)
 translate ru MagePath4_90a480f9:
     # s "I mean, if a person walks past the front of it, you'd imagine it has maybe five rooms, but there are many more here. I keep discovering new ones, almost every day."
-    s ""
+    s "I mean, if a person walks past the front of it, you'd imagine it has maybe five rooms, but there are many more here. I keep discovering new ones, almost every day."
 
 # MagePath4_6659430c (line 70542)
 translate ru MagePath4_6659430c:
@@ -176,37 +176,37 @@ translate ru MagePath4_6659430c:
 # MagePath4_497c3968 (line 70543)
 translate ru MagePath4_497c3968:
     # x "Yes, it's true that this house does not abide by the rules of the world outside."
-    x ""
+    x "Yes, it's true that this house does not abide by the rules of the world outside."
 
 # MagePath4_545fe030 (line 70544)
 translate ru MagePath4_545fe030:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # MagePath4_a324576c (line 70545)
 translate ru MagePath4_a324576c:
     # x "I mean that the house itself is a magical artifact. Endless spells have been woven into it, for all manner of purposes."
-    x ""
+    x "I mean that the house itself is a magical artifact. Endless spells have been woven into it, for all manner of purposes."
 
 # MagePath4_5dac06c0 (line 70546)
 translate ru MagePath4_5dac06c0:
     # x "As a result, the house can adapt itself to the needs of those who inhabit it."
-    x ""
+    x "As a result, the house can adapt itself to the needs of those who inhabit it."
 
 # MagePath4_24c6d579 (line 70547)
 translate ru MagePath4_24c6d579:
     # s "You mean it's like a shifting maze?"
-    s ""
+    s "You mean it's like a shifting maze?"
 
 # MagePath4_dc29d24a (line 70548)
 translate ru MagePath4_dc29d24a:
     # x "Well, not exactly. It shifts and changes based on what we need or imagine we need. Before you came here, the house was very stable."
-    x ""
+    x "Well, not exactly. It shifts and changes based on what we need or imagine we need. Before you came here, the house was very stable."
 
 # MagePath4_5f3d1b16 (line 70549)
 translate ru MagePath4_5f3d1b16:
     # s "You mean those rooms were never here?"
-    s ""
+    s "You mean those rooms were never here?"
 
 # MagePath4_490f60fc (line 70550)
 translate ru MagePath4_490f60fc:
@@ -216,12 +216,12 @@ translate ru MagePath4_490f60fc:
 # MagePath4_9a49e1d1 (line 70551)
 translate ru MagePath4_9a49e1d1:
     # x "Most weren't. The house is attempting to find a balance between your needs and mine. It shifts and adapts. Eventually, I imagine, it will settle on a fixed state."
-    x ""
+    x "Most weren't. The house is attempting to find a balance between your needs and mine. It shifts and adapts. Eventually, I imagine, it will settle on a fixed state."
 
 # MagePath4_b5c6aa4a (line 70552)
 translate ru MagePath4_b5c6aa4a:
     # s "Doesn't that get confusing?"
-    s ""
+    s "Doesn't that get confusing?"
 
 # MagePath4_c367e546 (line 70553)
 translate ru MagePath4_c367e546:
@@ -231,7 +231,7 @@ translate ru MagePath4_c367e546:
 # MagePath4_954111a5 (line 70554)
 translate ru MagePath4_954111a5:
     # x "Not really. If there is ever something I need, the house provides that as well. A lost book never stays lost for long around here. It always just manages to be where you expect it."
-    x ""
+    x "Not really. If there is ever something I need, the house provides that as well. A lost book never stays lost for long around here. It always just manages to be where you expect it."
 
 # MagePath4_45468e6c (line 70555)
 translate ru MagePath4_45468e6c:
@@ -241,7 +241,7 @@ translate ru MagePath4_45468e6c:
 # MagePath4_94c7d2f8 (line 70556)
 translate ru MagePath4_94c7d2f8:
     # s "This is all so strange to get used to..."
-    s ""
+    s "This is all so strange to get used to..."
 
 # MagePath4_4348764c (line 70557)
 translate ru MagePath4_4348764c:
@@ -251,22 +251,22 @@ translate ru MagePath4_4348764c:
 # MagePath4_42302b2a (line 70558)
 translate ru MagePath4_42302b2a:
     # x "This is nothing, Sarah. A lot of things you imagine are fixed are maleable in this world."
-    x ""
+    x "This is nothing, Sarah. A lot of things you imagine are fixed are maleable in this world."
 
 # MagePath4_1d4d3311 (line 70559)
 translate ru MagePath4_1d4d3311:
     # x "If you really want to throw your mind for a trip, understand that some doors can even lead to places unconnected to here."
-    x ""
+    x "If you really want to throw your mind for a trip, understand that some doors can even lead to places unconnected to here."
 
 # MagePath4_27401378 (line 70560)
 translate ru MagePath4_27401378:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # MagePath4_edf77f15 (line 70561)
 translate ru MagePath4_edf77f15:
     # x "Well, there are doors here that can lead to the citadel, to Mythran, to Bagrad. Heck, once I opened a door and I ended up in the Hyral mountains. Can't recommend that one. Orc's aren't very friendly."
-    x ""
+    x "Well, there are doors here that can lead to the citadel, to Mythran, to Bagrad. Heck, once I opened a door and I ended up in the Hyral mountains. Can't recommend that one. Orc's aren't very friendly."
 
 # MagePath4_dca0d127 (line 70562)
 translate ru MagePath4_dca0d127:
@@ -276,7 +276,7 @@ translate ru MagePath4_dca0d127:
 # MagePath4_517a6e9d (line 70563)
 translate ru MagePath4_517a6e9d:
     # s "Is there a door that leads to Rosanna?"
-    s ""
+    s "Is there a door that leads to Rosanna?"
 
 # MagePath4_bc72c63d (line 70564)
 translate ru MagePath4_bc72c63d:
@@ -286,12 +286,12 @@ translate ru MagePath4_bc72c63d:
 # MagePath4_6a672c26 (line 70565)
 translate ru MagePath4_6a672c26:
     # x "Sarah..."
-    x ""
+    x "Sarah..."
 
 # MagePath4_eb04cc7f (line 70566)
 translate ru MagePath4_eb04cc7f:
     # x "Whatever you're thinking, trust me, you don't want to do that."
-    x ""
+    x "Whatever you're thinking, trust me, you don't want to do that."
 
 # MagePath4_ad42b948 (line 70572)
 translate ru MagePath4_ad42b948:
@@ -301,12 +301,12 @@ translate ru MagePath4_ad42b948:
 # MagePath4_7661bcf8 (line 70573)
 translate ru MagePath4_7661bcf8:
     # s "You just told me that I can walk through a door and see my home country again..."
-    s ""
+    s "You just told me that I can walk through a door and see my home country again..."
 
 # MagePath4_b225a84c (line 70574)
 translate ru MagePath4_b225a84c:
     # s "Now you're telling me not to go?"
-    s ""
+    s "Now you're telling me not to go?"
 
 # MagePath4_83d0f21d (line 70575)
 translate ru MagePath4_83d0f21d:
@@ -316,17 +316,17 @@ translate ru MagePath4_83d0f21d:
 # MagePath4_190d0320 (line 70576)
 translate ru MagePath4_190d0320:
     # s "Please...show me where it is. I just want to see my home again."
-    s ""
+    s "Please...show me where it is. I just want to see my home again."
 
 # MagePath4_ee7038a5 (line 70577)
 translate ru MagePath4_ee7038a5:
     # x "Sarah, it won't be like you remember it. The horde has ravaged the country...the capital..."
-    x ""
+    x "Sarah, it won't be like you remember it. The horde has ravaged the country...the capital..."
 
 # MagePath4_e5349f90 (line 70578)
 translate ru MagePath4_e5349f90:
     # x "You'll only hurt yourself by going there."
-    x ""
+    x "You'll only hurt yourself by going there."
 
 # MagePath4_69a6aef7 (line 70579)
 translate ru MagePath4_69a6aef7:
@@ -336,7 +336,7 @@ translate ru MagePath4_69a6aef7:
 # MagePath4_bbc70574 (line 70580)
 translate ru MagePath4_bbc70574:
     # s "I'm still a princess. It might not mean much in practice, without a kingdom or an army, but I still owe a duty to my people."
-    s ""
+    s "I'm still a princess. It might not mean much in practice, without a kingdom or an army, but I still owe a duty to my people."
 
 # MagePath4_abdd5b84 (line 70581)
 translate ru MagePath4_abdd5b84:
@@ -346,12 +346,12 @@ translate ru MagePath4_abdd5b84:
 # MagePath4_f3abfd22 (line 70582)
 translate ru MagePath4_f3abfd22:
     # x "You're not, Sarah. You're on a path to something different now, something greater."
-    x ""
+    x "You're not, Sarah. You're on a path to something different now, something greater."
 
 # MagePath4_a0ee9673 (line 70583)
 translate ru MagePath4_a0ee9673:
     # x "You can't go through life looking back."
-    x ""
+    x "You can't go through life looking back."
 
 # MagePath4_b0f7ed2c (line 70584)
 translate ru MagePath4_b0f7ed2c:
@@ -361,7 +361,7 @@ translate ru MagePath4_b0f7ed2c:
 # MagePath4_d2390af6 (line 70585)
 translate ru MagePath4_d2390af6:
     # s "Please, Xan, just let me see."
-    s ""
+    s "Please, Xan, just let me see."
 
 # MagePath4_7b119982 (line 70586)
 translate ru MagePath4_7b119982:
@@ -371,22 +371,22 @@ translate ru MagePath4_7b119982:
 # MagePath4_5ee7f267 (line 70587)
 translate ru MagePath4_5ee7f267:
     # x "Fine, we'll go, but promise me that you will stay close to me, and no matter what, never leave the house."
-    x ""
+    x "Fine, we'll go, but promise me that you will stay close to me, and no matter what, never leave the house."
 
 # MagePath4_63ce8826 (line 70588)
 translate ru MagePath4_63ce8826:
     # s "The house?"
-    s ""
+    s "The house?"
 
 # MagePath4_ecca2e1e (line 70589)
 translate ru MagePath4_ecca2e1e:
     # x "Yes, the house on the other side. It's warded, but beyond that I can't keep you safe."
-    x ""
+    x "Yes, the house on the other side. It's warded, but beyond that I can't keep you safe."
 
 # MagePath4_0dae38ec (line 70590)
 translate ru MagePath4_0dae38ec:
     # x "You think I'm so powerful, but I'm just one mage. Even I can't stave off all of Hassar's horde."
-    x ""
+    x "You think I'm so powerful, but I'm just one mage. Even I can't stave off all of Hassar's horde."
 
 # MagePath4_c5e06147 (line 70591)
 translate ru MagePath4_c5e06147:
@@ -406,7 +406,7 @@ translate ru MagePath4_9af10c1a:
 # MagePath4_9af3b51d (line 70599)
 translate ru MagePath4_9af3b51d:
     # x "Follow me."
-    x ""
+    x "Follow me."
 
 # MagePath4_2827e325 (line 70600)
 translate ru MagePath4_2827e325:
@@ -431,7 +431,7 @@ translate ru MagePath4_190e5995:
 # MagePath4_ed2016aa (line 70609)
 translate ru MagePath4_ed2016aa:
     # s "It's the same house?"
-    s ""
+    s "It's the same house?"
 
 # MagePath4_3a10faf6 (line 70610)
 translate ru MagePath4_3a10faf6:
@@ -441,37 +441,37 @@ translate ru MagePath4_3a10faf6:
 # MagePath4_7d1ccd37 (line 70611)
 translate ru MagePath4_7d1ccd37:
     # x "In a way, yes. All one big network of the same house, sprawling across the continents of the world."
-    x ""
+    x "In a way, yes. All one big network of the same house, sprawling across the continents of the world."
 
 # MagePath4_31f91330 (line 70612)
 translate ru MagePath4_31f91330:
     # s "Why?"
-    s ""
+    s "Why?"
 
 # MagePath4_d604c533 (line 70613)
 translate ru MagePath4_d604c533:
     # x "Easy to get around, easy to leave when things get unpleasant. And it serves as the hub for us to stay informed of the world."
-    x ""
+    x "Easy to get around, easy to leave when things get unpleasant. And it serves as the hub for us to stay informed of the world."
 
 # MagePath4_88696fd9 (line 70614)
 translate ru MagePath4_88696fd9:
     # s "Us?"
-    s ""
+    s "Us?"
 
 # MagePath4_2ca1fb77 (line 70615)
 translate ru MagePath4_2ca1fb77:
     # x "The order."
-    x ""
+    x "The order."
 
 # MagePath4_02e52057 (line 70616)
 translate ru MagePath4_02e52057:
     # x "We keep informed of the movements and changes of the world. Countless apprentices just like you spend their time writing up reports about some revolution here, or a war there."
-    x ""
+    x "We keep informed of the movements and changes of the world. Countless apprentices just like you spend their time writing up reports about some revolution here, or a war there."
 
 # MagePath4_edd46828 (line 70617)
 translate ru MagePath4_edd46828:
     # s "Then why are mages so rarely mentioned in history?"
-    s ""
+    s "Then why are mages so rarely mentioned in history?"
 
 # MagePath4_0d56c7ee (line 70618)
 translate ru MagePath4_0d56c7ee:
@@ -481,27 +481,27 @@ translate ru MagePath4_0d56c7ee:
 # MagePath4_07fafad0 (line 70619)
 translate ru MagePath4_07fafad0:
     # x "Perceptive. Putting your education to good use I see."
-    x ""
+    x "Perceptive. Putting your education to good use I see."
 
 # MagePath4_aa6594be (line 70620)
 translate ru MagePath4_aa6594be:
     # x "It's simple, we aren't mentioned much because we rarely leave a mark. We observe, we don't intercede."
-    x ""
+    x "It's simple, we aren't mentioned much because we rarely leave a mark. We observe, we don't intercede."
 
 # MagePath4_0c598ec0 (line 70621)
 translate ru MagePath4_0c598ec0:
     # x "There were times when mages tried to affect the world, but our magic, it's too strange for people. It's too unnatural."
-    x ""
+    x "There were times when mages tried to affect the world, but our magic, it's too strange for people. It's too unnatural."
 
 # MagePath4_f60d4dda (line 70622)
 translate ru MagePath4_f60d4dda:
     # x "Sooner or later, the world turns against us, and there aren't nearly enough of us to put up a fight."
-    x ""
+    x "Sooner or later, the world turns against us, and there aren't nearly enough of us to put up a fight."
 
 # MagePath4_e421046b (line 70623)
 translate ru MagePath4_e421046b:
     # x "So we try to pick our fights wisely."
-    x ""
+    x "So we try to pick our fights wisely."
 
 # MagePath4_ae3fd0d3 (line 70624)
 translate ru MagePath4_ae3fd0d3:
@@ -601,7 +601,7 @@ translate ru MagePath4_04b55b81:
 # MagePath4_cac87845 (line 70658)
 translate ru MagePath4_cac87845:
     # s "We need to help her."
-    s ""
+    s "We need to help her."
 
 # MagePath4_f4535c6a (line 70659)
 translate ru MagePath4_f4535c6a:
@@ -611,7 +611,7 @@ translate ru MagePath4_f4535c6a:
 # MagePath4_ab60e918 (line 70660)
 translate ru MagePath4_ab60e918:
     # x "Horrid, the things humans to do one another."
-    x ""
+    x "Horrid, the things humans to do one another."
 
 # MagePath4_15a7b812 (line 70661)
 translate ru MagePath4_15a7b812:
@@ -621,27 +621,27 @@ translate ru MagePath4_15a7b812:
 # MagePath4_181d57db (line 70662)
 translate ru MagePath4_181d57db:
     # s "Xan, you need to do something. You can save her!"
-    s ""
+    s "Xan, you need to do something. You can save her!"
 
 # MagePath4_de96c8dc (line 70663)
 translate ru MagePath4_de96c8dc:
     # x "Save her? What do you suggest I do, step out and snap my fingers, turn him to ash?"
-    x ""
+    x "Save her? What do you suggest I do, step out and snap my fingers, turn him to ash?"
 
 # MagePath4_3fd1a23e (line 70669)
 translate ru MagePath4_3fd1a23e:
     # s "You could!"
-    s ""
+    s "You could!"
 
 # MagePath4_59f303ee (line 70670)
 translate ru MagePath4_59f303ee:
     # x "Yes, and then what?"
-    x ""
+    x "Yes, and then what?"
 
 # MagePath4_ad70604a (line 70671)
 translate ru MagePath4_ad70604a:
     # x "Then the entire square of these degenerates wakes up and attacks me."
-    x ""
+    x "Then the entire square of these degenerates wakes up and attacks me."
 
 # MagePath4_78703d50 (line 70672)
 translate ru MagePath4_78703d50:
@@ -651,7 +651,7 @@ translate ru MagePath4_78703d50:
 # MagePath4_4ef8b211 (line 70673)
 translate ru MagePath4_4ef8b211:
     # s "Then you kill all of them! Don't tell me you're not strong enough."
-    s ""
+    s "Then you kill all of them! Don't tell me you're not strong enough."
 
 # MagePath4_0bfec5d1 (line 70674)
 translate ru MagePath4_0bfec5d1:
@@ -661,42 +661,42 @@ translate ru MagePath4_0bfec5d1:
 # MagePath4_9402a850 (line 70675)
 translate ru MagePath4_9402a850:
     # x "Think, Sarah. Suppose I survive the square, then what? They sound the alarm and soon the entire city garrison will descend on me."
-    x ""
+    x "Think, Sarah. Suppose I survive the square, then what? They sound the alarm and soon the entire city garrison will descend on me."
 
 # MagePath4_0e1f0f31 (line 70676)
 translate ru MagePath4_0e1f0f31:
     # x "And for what?"
-    x ""
+    x "And for what?"
 
 # MagePath4_06e318af (line 70677)
 translate ru MagePath4_06e318af:
     # x "So I can save her?"
-    x ""
+    x "So I can save her?"
 
 # MagePath4_c4a2ac16 (line 70678)
 translate ru MagePath4_c4a2ac16:
     # x "What about the others, do I save them too? Do I save the entire city?"
-    x ""
+    x "What about the others, do I save them too? Do I save the entire city?"
 
 # MagePath4_70307f6a (line 70679)
 translate ru MagePath4_70307f6a:
     # s "As many as you can!"
-    s ""
+    s "As many as you can!"
 
 # MagePath4_cf3bc404 (line 70680)
 translate ru MagePath4_cf3bc404:
     # x "You're still lost in the girl you were, Sarah. Becoming a mage is more than learning magic. It's also about adopting a greater view of the world."
-    x ""
+    x "You're still lost in the girl you were, Sarah. Becoming a mage is more than learning magic. It's also about adopting a greater view of the world."
 
 # MagePath4_c1fc21e8 (line 70681)
 translate ru MagePath4_c1fc21e8:
     # x "Do you think what's happening here is unique?"
-    x ""
+    x "Do you think what's happening here is unique?"
 
 # MagePath4_712adfa6 (line 70682)
 translate ru MagePath4_712adfa6:
     # x "I've lived a long time, Sarah. I've watched countless cities and nations rise and fall."
-    x ""
+    x "I've lived a long time, Sarah. I've watched countless cities and nations rise and fall."
 
 # MagePath4_685d7b17 (line 70683)
 translate ru MagePath4_685d7b17:
@@ -706,22 +706,22 @@ translate ru MagePath4_685d7b17:
 # MagePath4_3a544601 (line 70684)
 translate ru MagePath4_3a544601:
     # x "Every tragedy you see here has played out countless times before, and it will again. It's just human nature."
-    x ""
+    x "Every tragedy you see here has played out countless times before, and it will again. It's just human nature."
 
 # MagePath4_723b0e5a (line 70685)
 translate ru MagePath4_723b0e5a:
     # x "I can't stop every tragedy."
-    x ""
+    x "I can't stop every tragedy."
 
 # MagePath4_d9a6c980 (line 70686)
 translate ru MagePath4_d9a6c980:
     # s "But you can stop this one!"
-    s ""
+    s "But you can stop this one!"
 
 # MagePath4_f209c803 (line 70687)
 translate ru MagePath4_f209c803:
     # x "And why would I stop this one, and not the one before or the one after? What makes these people more special, more deserving of being saved than all the other victims of history?"
-    x ""
+    x "And why would I stop this one, and not the one before or the one after? What makes these people more special, more deserving of being saved than all the other victims of history?"
 
 # MagePath4_73956b19 (line 70688)
 translate ru MagePath4_73956b19:
@@ -731,7 +731,7 @@ translate ru MagePath4_73956b19:
 # MagePath4_846fc12a (line 70689)
 translate ru MagePath4_846fc12a:
     # s "Because they're my people..."
-    s ""
+    s "Because they're my people..."
 
 # MagePath4_fa35cc31 (line 70690)
 translate ru MagePath4_fa35cc31:
@@ -741,17 +741,17 @@ translate ru MagePath4_fa35cc31:
 # MagePath4_98494851 (line 70691)
 translate ru MagePath4_98494851:
     # x "They're not anymore, Sarah. They might have been once, but you're not their princess anymore."
-    x ""
+    x "They're not anymore, Sarah. They might have been once, but you're not their princess anymore."
 
 # MagePath4_e43190b7 (line 70692)
 translate ru MagePath4_e43190b7:
     # x "You're going to become so much more. You will rise above this world and see it from the high point. You can't continue to pretend that you're also a part of it."
-    x ""
+    x "You're going to become so much more. You will rise above this world and see it from the high point. You can't continue to pretend that you're also a part of it."
 
 # MagePath4_1408561d (line 70693)
 translate ru MagePath4_1408561d:
     # x "If you don't learn that, you'll burn out. You'll try to fix every injustice in the world, and it won't be long before you find yourself outmatched."
-    x ""
+    x "If you don't learn that, you'll burn out. You'll try to fix every injustice in the world, and it won't be long before you find yourself outmatched."
 
 # MagePath4_c3a5c3d9 (line 70694)
 translate ru MagePath4_c3a5c3d9:
@@ -761,12 +761,12 @@ translate ru MagePath4_c3a5c3d9:
 # MagePath4_69a21edb (line 70695)
 translate ru MagePath4_69a21edb:
     # x "We operate on the scope of the whole world, Sarah. We measure not the years but the centuries. Our duty is towards the whole of the human race."
-    x ""
+    x "We operate on the scope of the whole world, Sarah. We measure not the years but the centuries. Our duty is towards the whole of the human race."
 
 # MagePath4_f58aab4a (line 70696)
 translate ru MagePath4_f58aab4a:
     # x "We cannot allow ourselves to fail in that greatest of duty, and throw it away because of some random girl, however tragic her circumstance might be."
-    x ""
+    x "We cannot allow ourselves to fail in that greatest of duty, and throw it away because of some random girl, however tragic her circumstance might be."
 
 # MagePath4_ee12e257 (line 70697)
 translate ru MagePath4_ee12e257:
@@ -776,17 +776,17 @@ translate ru MagePath4_ee12e257:
 # MagePath4_d85b5e01 (line 70698)
 translate ru MagePath4_d85b5e01:
     # x "It pains me, same it does you. You might not believe it, but I'm human too."
-    x ""
+    x "It pains me, same it does you. You might not believe it, but I'm human too."
 
 # MagePath4_173c7713 (line 70699)
 translate ru MagePath4_173c7713:
     # x "But we have a great obligation, and we cannot stray from that. We must keep our eyes on the great mission."
-    x ""
+    x "But we have a great obligation, and we cannot stray from that. We must keep our eyes on the great mission."
 
 # MagePath4_3571f0f0 (line 70700)
 translate ru MagePath4_3571f0f0:
     # s "What is that? What is so important that we let this girl suffer?"
-    s ""
+    s "What is that? What is so important that we let this girl suffer?"
 
 # MagePath4_186d5a5e (line 70701)
 translate ru MagePath4_186d5a5e:
@@ -796,7 +796,7 @@ translate ru MagePath4_186d5a5e:
 # MagePath4_eaa70635 (line 70702)
 translate ru MagePath4_eaa70635:
     # x "It will come. One day, when you're ready, I will tell you. For now, I only ask that you trust me."
-    x ""
+    x "It will come. One day, when you're ready, I will tell you. For now, I only ask that you trust me."
 
 # MagePath4_234ad684 (line 70708)
 translate ru MagePath4_234ad684:

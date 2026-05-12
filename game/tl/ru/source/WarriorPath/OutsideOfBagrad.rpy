@@ -111,17 +111,17 @@ translate ru OutsideOfBagrad_a7f08758:
 # OutsideOfBagrad_adff4cc4 (line 38347)
 translate ru OutsideOfBagrad_adff4cc4:
     # vae "I didn't invite you here to repeat what you already know."
-    vae ""
+    vae "I didn't invite you here to repeat what you already know."
 
 # OutsideOfBagrad_9d5ac863 (line 38348)
 translate ru OutsideOfBagrad_9d5ac863:
     # vae "It is true that we will take the walls, and move into the city, but we will not be seizing these objectives."
-    vae ""
+    vae "It is true that we will take the walls, and move into the city, but we will not be seizing these objectives."
 
 # OutsideOfBagrad_b3071c13 (line 38349)
 translate ru OutsideOfBagrad_b3071c13:
     # vae "Once we breach the walls, Sarah will continue with the vanguard unit and press towards the palace."
-    vae ""
+    vae "Once we breach the walls, Sarah will continue with the vanguard unit and press towards the palace."
 
 # OutsideOfBagrad_d8d00be3 (line 38350)
 translate ru OutsideOfBagrad_d8d00be3:
@@ -131,12 +131,12 @@ translate ru OutsideOfBagrad_d8d00be3:
 # OutsideOfBagrad_6fbc1218 (line 38351)
 translate ru OutsideOfBagrad_6fbc1218:
     # vae "More important than anything else is that you manage to reach the palace before the Mythran army does."
-    vae ""
+    vae "More important than anything else is that you manage to reach the palace before the Mythran army does."
 
 # OutsideOfBagrad_719dbee8 (line 38352)
 translate ru OutsideOfBagrad_719dbee8:
     # vae "Speed will be essential, we might only have an hour or so on them."
-    vae ""
+    vae "Speed will be essential, we might only have an hour or so on them."
 
 # OutsideOfBagrad_f1039785 (line 38353)
 translate ru OutsideOfBagrad_f1039785:
@@ -146,17 +146,17 @@ translate ru OutsideOfBagrad_f1039785:
 # OutsideOfBagrad_01b99322 (line 38354)
 translate ru OutsideOfBagrad_01b99322:
     # s "So, once my unit gets to the palace first, then what?"
-    s ""
+    s "So, once my unit gets to the palace first, then what?"
 
 # OutsideOfBagrad_ea487baf (line 38355)
 translate ru OutsideOfBagrad_ea487baf:
     # vae "Most of the Bagrad army is stationed at the main gate, leaving the palace relatively thinly guarded."
-    vae ""
+    vae "Most of the Bagrad army is stationed at the main gate, leaving the palace relatively thinly guarded."
 
 # OutsideOfBagrad_273309a6 (line 38356)
 translate ru OutsideOfBagrad_273309a6:
     # vae "You will have to move in fast and seize control of the western wing of the palace."
-    vae ""
+    vae "You will have to move in fast and seize control of the western wing of the palace."
 
 # OutsideOfBagrad_96e68c0f (line 38357)
 translate ru OutsideOfBagrad_96e68c0f:
@@ -166,7 +166,7 @@ translate ru OutsideOfBagrad_96e68c0f:
 # OutsideOfBagrad_883aac17 (line 38358)
 translate ru OutsideOfBagrad_883aac17:
     # s "If the main army doesn't press on fast enough, we end up trapped without support inside the palace. All for...what exactly."
-    s ""
+    s "If the main army doesn't press on fast enough, we end up trapped without support inside the palace. All for...what exactly."
 
 # OutsideOfBagrad_71b6937a (line 38359)
 translate ru OutsideOfBagrad_71b6937a:
@@ -176,17 +176,17 @@ translate ru OutsideOfBagrad_71b6937a:
 # OutsideOfBagrad_c66662a5 (line 38360)
 translate ru OutsideOfBagrad_c66662a5:
     # vae "The access point to the royal vault is via the western wing."
-    vae ""
+    vae "The access point to the royal vault is via the western wing."
 
 # OutsideOfBagrad_82ddfd1f (line 38361)
 translate ru OutsideOfBagrad_82ddfd1f:
     # vae "Once we've taken the city, and with our head start, we can set up camp inside of the western part of the palace."
-    vae ""
+    vae "Once we've taken the city, and with our head start, we can set up camp inside of the western part of the palace."
 
 # OutsideOfBagrad_95328d9b (line 38362)
 translate ru OutsideOfBagrad_95328d9b:
     # vae "Then, instead of having to loot the scraps, we can get to the real valuables before anyone else."
-    vae ""
+    vae "Then, instead of having to loot the scraps, we can get to the real valuables before anyone else."
 
 # OutsideOfBagrad_26d0b7e8 (line 38363)
 translate ru OutsideOfBagrad_26d0b7e8:
@@ -241,7 +241,7 @@ translate ru OutsideOfBagrad_ca1cbbe5:
 # OutsideOfBagrad_2ca8387f (line 38384)
 translate ru OutsideOfBagrad_2ca8387f:
     # k "Sarah!"
-    k ""
+    k "Sarah!"
 
 # OutsideOfBagrad_d5cbe3b1 (line 38385)
 translate ru OutsideOfBagrad_d5cbe3b1:
@@ -256,12 +256,12 @@ translate ru OutsideOfBagrad_1f7d98d6:
 # OutsideOfBagrad_414a6644 (line 38387)
 translate ru OutsideOfBagrad_414a6644:
     # k "I was wondering where you were."
-    k ""
+    k "I was wondering where you were."
 
 # OutsideOfBagrad_ca68c659 (line 38388)
 translate ru OutsideOfBagrad_ca68c659:
     # s "Vaelen had called an early meeting, there's a change in plans."
-    s ""
+    s "Vaelen had called an early meeting, there's a change in plans."
 
 # OutsideOfBagrad_70d6cd9e (line 38389)
 translate ru OutsideOfBagrad_70d6cd9e:
@@ -271,7 +271,7 @@ translate ru OutsideOfBagrad_70d6cd9e:
 # OutsideOfBagrad_419c8162 (line 38390)
 translate ru OutsideOfBagrad_419c8162:
     # k "This late before the attack, he wants to change plans?"
-    k ""
+    k "This late before the attack, he wants to change plans?"
 
 # OutsideOfBagrad_a44ca83a (line 38391)
 translate ru OutsideOfBagrad_a44ca83a:
@@ -281,7 +281,7 @@ translate ru OutsideOfBagrad_a44ca83a:
 # OutsideOfBagrad_26381cdd (line 38392)
 translate ru OutsideOfBagrad_26381cdd:
     # s "We're going to be attacking the palace..."
-    s ""
+    s "We're going to be attacking the palace..."
 
 # OutsideOfBagrad_e1c60b6c (line 38393)
 translate ru OutsideOfBagrad_e1c60b6c:
@@ -291,12 +291,12 @@ translate ru OutsideOfBagrad_e1c60b6c:
 # OutsideOfBagrad_990fffc6 (line 38394)
 translate ru OutsideOfBagrad_990fffc6:
     # k "Fuck."
-    k ""
+    k "Fuck."
 
 # OutsideOfBagrad_596b79c7 (line 38395)
 translate ru OutsideOfBagrad_596b79c7:
     # k "I mean...if it's the plan, it's the plan, but that's going to put us right in the middle of the fight..."
-    k ""
+    k "I mean...if it's the plan, it's the plan, but that's going to put us right in the middle of the fight..."
 
 # OutsideOfBagrad_3bd1ef64 (line 38396)
 translate ru OutsideOfBagrad_3bd1ef64:
@@ -321,7 +321,7 @@ translate ru OutsideOfBagrad_33ee6734:
 # OutsideOfBagrad_e516051f (line 38436)
 translate ru OutsideOfBagrad_e516051f:
     # ep "Commanders."
-    ep ""
+    ep "Commanders."
 
 # OutsideOfBagrad_f680d331 (line 38437)
 translate ru OutsideOfBagrad_f680d331:
@@ -331,12 +331,12 @@ translate ru OutsideOfBagrad_f680d331:
 # OutsideOfBagrad_32536701 (line 38438)
 translate ru OutsideOfBagrad_32536701:
     # s "I keep telling you, just treat me like you always did."
-    s ""
+    s "I keep telling you, just treat me like you always did."
 
 # OutsideOfBagrad_1ce1f1cc (line 38439)
 translate ru OutsideOfBagrad_1ce1f1cc:
     # ep "Rank is rank, but, I'll do as you instruct me, Sarah."
-    ep ""
+    ep "Rank is rank, but, I'll do as you instruct me, Sarah."
 
 # OutsideOfBagrad_5a1ac9e4 (line 38440)
 translate ru OutsideOfBagrad_5a1ac9e4:
@@ -396,7 +396,7 @@ translate ru OutsideOfBagrad_21e99760:
 # OutsideOfBagrad_cf6fe2b4 (line 38451)
 translate ru OutsideOfBagrad_cf6fe2b4:
     # ca "So, Sarah, are we ready?"
-    ca ""
+    ca "So, Sarah, are we ready?"
 
 # OutsideOfBagrad_c21e400d (line 38452)
 translate ru OutsideOfBagrad_c21e400d:
@@ -406,7 +406,7 @@ translate ru OutsideOfBagrad_c21e400d:
 # OutsideOfBagrad_72ccbb56 (line 38453)
 translate ru OutsideOfBagrad_72ccbb56:
     # s "Change of plans, I'm afraid."
-    s ""
+    s "Change of plans, I'm afraid."
 
 # OutsideOfBagrad_fb536a2c (line 38454)
 translate ru OutsideOfBagrad_fb536a2c:
@@ -421,12 +421,12 @@ translate ru OutsideOfBagrad_a66b533e:
 # OutsideOfBagrad_2d5de86a (line 38456)
 translate ru OutsideOfBagrad_2d5de86a:
     # ep "It's dangerous, but, I think it's true that the palace is likely poorly guarded."
-    ep ""
+    ep "It's dangerous, but, I think it's true that the palace is likely poorly guarded."
 
 # OutsideOfBagrad_6a318b4d (line 38457)
 translate ru OutsideOfBagrad_6a318b4d:
     # ep "If we move as fast as you say we do, we might catch them by surprise."
-    ep ""
+    ep "If we move as fast as you say we do, we might catch them by surprise."
 
 # OutsideOfBagrad_9b0f6890 (line 38458)
 translate ru OutsideOfBagrad_9b0f6890:
@@ -436,27 +436,27 @@ translate ru OutsideOfBagrad_9b0f6890:
 # OutsideOfBagrad_d567a66e (line 38459)
 translate ru OutsideOfBagrad_d567a66e:
     # s "The map shows that there is only one real entrance into the western wing."
-    s ""
+    s "The map shows that there is only one real entrance into the western wing."
 
 # OutsideOfBagrad_45ef44ae (line 38460)
 translate ru OutsideOfBagrad_45ef44ae:
     # s "If we manage to break through and take it, we can fortify the way in and out."
-    s ""
+    s "If we manage to break through and take it, we can fortify the way in and out."
 
 # OutsideOfBagrad_6577a2e6 (line 38461)
 translate ru OutsideOfBagrad_6577a2e6:
     # s "We can lock ourselves inside."
-    s ""
+    s "We can lock ourselves inside."
 
 # OutsideOfBagrad_e949a8f0 (line 38462)
 translate ru OutsideOfBagrad_e949a8f0:
     # s "Once we take control of the entrance, we clear out whatever is left inside."
-    s ""
+    s "Once we take control of the entrance, we clear out whatever is left inside."
 
 # OutsideOfBagrad_10634f51 (line 38463)
 translate ru OutsideOfBagrad_10634f51:
     # s "With only one narrow way in and out, their numbers won't make a difference, and we can hold off long enough for reinforcement."
-    s ""
+    s "With only one narrow way in and out, their numbers won't make a difference, and we can hold off long enough for reinforcement."
 
 # OutsideOfBagrad_08b12717 (line 38464)
 translate ru OutsideOfBagrad_08b12717:
@@ -466,7 +466,7 @@ translate ru OutsideOfBagrad_08b12717:
 # OutsideOfBagrad_dd4c6c83 (line 38465)
 translate ru OutsideOfBagrad_dd4c6c83:
     # k "And once we have it, nobody can force us out."
-    k ""
+    k "And once we have it, nobody can force us out."
 
 # OutsideOfBagrad_a9954b4b (line 38466)
 translate ru OutsideOfBagrad_a9954b4b:
@@ -476,12 +476,12 @@ translate ru OutsideOfBagrad_a9954b4b:
 # OutsideOfBagrad_ce65fb41 (line 38467)
 translate ru OutsideOfBagrad_ce65fb41:
     # s "The Mythrans will likely demand access, we'll deny them, they'll negotiate with Vaelen, drag it out, buy ourselves time."
-    s ""
+    s "The Mythrans will likely demand access, we'll deny them, they'll negotiate with Vaelen, drag it out, buy ourselves time."
 
 # OutsideOfBagrad_d136e1ad (line 38468)
 translate ru OutsideOfBagrad_d136e1ad:
     # s "When we eventually let them in, there won't be a single thing of value left."
-    s ""
+    s "When we eventually let them in, there won't be a single thing of value left."
 
 # OutsideOfBagrad_abdfcc80 (line 38472)
 translate ru OutsideOfBagrad_abdfcc80:
@@ -646,7 +646,7 @@ translate ru OutsideOfBagrad_e862719d:
 # OutsideOfBagrad_9c8df150 (line 38516)
 translate ru OutsideOfBagrad_9c8df150:
     # s "Up the ladder, now!"
-    s ""
+    s "Up the ladder, now!"
 
 # OutsideOfBagrad_ab7aaef6 (line 38517)
 translate ru OutsideOfBagrad_ab7aaef6:
@@ -696,7 +696,7 @@ translate ru OutsideOfBagrad_02bcad5e:
 # OutsideOfBagrad_bf1dd999 (line 38526)
 translate ru OutsideOfBagrad_bf1dd999:
     # s "Up the ladder! Keep moving!"
-    s ""
+    s "Up the ladder! Keep moving!"
 
 # OutsideOfBagrad_fa7eeaea (line 38527)
 translate ru OutsideOfBagrad_fa7eeaea:

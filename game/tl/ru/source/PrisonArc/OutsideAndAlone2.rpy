@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: OutsideAndAlone2
-# Total blocks: 46
+# Total blocks: 43
 
 # OutsideAndAlone2_693a971b (line 60249)
 translate ru OutsideAndAlone2_693a971b:
@@ -121,7 +121,7 @@ translate ru OutsideAndAlone2_1675428a:
 # OutsideAndAlone2_57e18234 (line 60283)
 translate ru OutsideAndAlone2_57e18234:
     # s "No, good sir, I'm only resting for a moment."
-    s ""
+    s "No, good sir, I'm only resting for a moment."
 
 # OutsideAndAlone2_4ab942ee (line 60284)
 translate ru OutsideAndAlone2_4ab942ee:
@@ -176,7 +176,7 @@ translate ru OutsideAndAlone2_e419bc71:
 # OutsideAndAlone2_2ab472bd (line 60294)
 translate ru OutsideAndAlone2_2ab472bd:
     # s "I don't have any money, so I'll just leave."
-    s ""
+    s "I don't have any money, so I'll just leave."
 
 # OutsideAndAlone2_f8ccc7aa (line 60295)
 translate ru OutsideAndAlone2_f8ccc7aa:
@@ -201,7 +201,7 @@ translate ru OutsideAndAlone2_7077711c:
 # OutsideAndAlone2_ed024534 (line 60299)
 translate ru OutsideAndAlone2_ed024534:
     # s "I told you, I don't have any money."
-    s ""
+    s "I told you, I don't have any money."
 
 # OutsideAndAlone2_8969f0c2 (line 60300)
 translate ru OutsideAndAlone2_8969f0c2:
@@ -217,19 +217,4 @@ translate ru OutsideAndAlone2_88950b2d:
 translate ru OutsideAndAlone2_6246ae85:
     # "Sarah knew she was in danger."
     ""
-
-# OutsideAndAlone2_62c01f2d (line 60306)
-translate ru OutsideAndAlone2_62c01f2d:
-    # "Scream!"
-    "Scream!" ""
-
-# OutsideAndAlone2_8fbae9b2 (line 60317)
-translate ru OutsideAndAlone2_8fbae9b2:
-    # "Run away."
-    "Run away." ""
-
-# OutsideAndAlone2_1598843c (line 60319)
-translate ru OutsideAndAlone2_1598843c:
-    # "Do nothing."
-    "Do nothing." ""
 

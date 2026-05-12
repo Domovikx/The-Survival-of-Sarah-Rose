@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: SailorPath7
-# Total blocks: 101
+# Total blocks: 97
 
 # SailorPath7_1c5d0cb1 (line 32893)
 translate ru SailorPath7_1c5d0cb1:
@@ -141,7 +141,7 @@ translate ru SailorPath7_c57b49b1:
 # SailorPath7_f6435862 (line 32920)
 translate ru SailorPath7_f6435862:
     # nick "He needs to turn the boiler back on. It's insane. We're going to freeze to death."
-    nick ""
+    nick "He needs to turn the boiler back on. It's insane. We're going to freeze to death."
 
 # SailorPath7_e283a4ff (line 32921)
 translate ru SailorPath7_e283a4ff:
@@ -151,22 +151,22 @@ translate ru SailorPath7_e283a4ff:
 # SailorPath7_22b79312 (line 32922)
 translate ru SailorPath7_22b79312:
     # s "He says the wind will turn and when that happens, we should be able to get out of this cold front."
-    s ""
+    s "He says the wind will turn and when that happens, we should be able to get out of this cold front."
 
 # SailorPath7_203b83b0 (line 32923)
 translate ru SailorPath7_203b83b0:
     # nick "He doesn't know that."
-    nick ""
+    nick "He doesn't know that."
 
 # SailorPath7_d5306c03 (line 32924)
 translate ru SailorPath7_d5306c03:
     # s "I think he knows sailing better than you or me."
-    s ""
+    s "I think he knows sailing better than you or me."
 
 # SailorPath7_9f4f2e82 (line 32925)
 translate ru SailorPath7_9f4f2e82:
     # nick "Bullshit. He's been saying the weather will change for days now. At some point it will and then he's gonna pretend like he predicted it."
-    nick ""
+    nick "Bullshit. He's been saying the weather will change for days now. At some point it will and then he's gonna pretend like he predicted it."
 
 # SailorPath7_83f2e1b7 (line 32926)
 translate ru SailorPath7_83f2e1b7:
@@ -176,7 +176,7 @@ translate ru SailorPath7_83f2e1b7:
 # SailorPath7_6740700f (line 32927)
 translate ru SailorPath7_6740700f:
     # s "Yeah, that does sound like him."
-    s ""
+    s "Yeah, that does sound like him."
 
 # SailorPath7_70ed46d6 (line 32928)
 translate ru SailorPath7_70ed46d6:
@@ -196,7 +196,7 @@ translate ru SailorPath7_7038314b:
 # SailorPath7_71db41da (line 32931)
 translate ru SailorPath7_71db41da:
     # nick "Sarah, we got some time till the next shift. Why don't we warm up together under the blanket?"
-    nick ""
+    nick "Sarah, we got some time till the next shift. Why don't we warm up together under the blanket?"
 
 # SailorPath7_cbaa97fb (line 32932)
 translate ru SailorPath7_cbaa97fb:
@@ -211,17 +211,17 @@ translate ru SailorPath7_b67589ba:
 # SailorPath7_7d4e2d47 (line 32934)
 translate ru SailorPath7_7d4e2d47:
     # s "You know how he gets. He'd kill you if he found us like that."
-    s ""
+    s "You know how he gets. He'd kill you if he found us like that."
 
 # SailorPath7_b0dfec95 (line 32935)
 translate ru SailorPath7_b0dfec95:
     # nick "I'm working myself to the bone here Sarah."
-    nick ""
+    nick "I'm working myself to the bone here Sarah."
 
 # SailorPath7_3a0f67d2 (line 32936)
 translate ru SailorPath7_3a0f67d2:
     # nick "I didn't mean anything by it, I just want to feel warm for one forsaken minute."
-    nick ""
+    nick "I didn't mean anything by it, I just want to feel warm for one forsaken minute."
 
 # SailorPath7_5f54077b (line 32937)
 translate ru SailorPath7_5f54077b:
@@ -241,12 +241,12 @@ translate ru SailorPath7_19612f8d:
 # SailorPath7_fcc820d0 (line 32940)
 translate ru SailorPath7_fcc820d0:
     # s "I know, Nick, but it doesn't matter if you meant anything by it."
-    s ""
+    s "I know, Nick, but it doesn't matter if you meant anything by it."
 
 # SailorPath7_6f20d567 (line 32941)
 translate ru SailorPath7_6f20d567:
     # s "The captain is on edge enough as it is. If you give him a reason, he'll take it to punish you."
-    s ""
+    s "The captain is on edge enough as it is. If you give him a reason, he'll take it to punish you."
 
 # SailorPath7_f990e2ad (line 32942)
 translate ru SailorPath7_f990e2ad:
@@ -256,22 +256,22 @@ translate ru SailorPath7_f990e2ad:
 # SailorPath7_1a153ec2 (line 32943)
 translate ru SailorPath7_1a153ec2:
     # nick "Captain, captain, captain!"
-    nick ""
+    nick "Captain, captain, captain!"
 
 # SailorPath7_e4330b4a (line 32944)
 translate ru SailorPath7_e4330b4a:
     # nick "Every fucking day with that bastard."
-    nick ""
+    nick "Every fucking day with that bastard."
 
 # SailorPath7_0f869375 (line 32945)
 translate ru SailorPath7_0f869375:
     # nick "My skin is starting to fall off my hands because of this frost and I still gotta keep my head down around him."
-    nick ""
+    nick "My skin is starting to fall off my hands because of this frost and I still gotta keep my head down around him."
 
 # SailorPath7_7e07be3c (line 32946)
 translate ru SailorPath7_7e07be3c:
     # nick "And it's never enough. One insult after another."
-    nick ""
+    nick "And it's never enough. One insult after another."
 
 # SailorPath7_26bcd067 (line 32947)
 translate ru SailorPath7_26bcd067:
@@ -281,7 +281,7 @@ translate ru SailorPath7_26bcd067:
 # SailorPath7_0ed08185 (line 32948)
 translate ru SailorPath7_0ed08185:
     # nick "You might think I'm a joke, but I got my limits Sarah."
-    nick ""
+    nick "You might think I'm a joke, but I got my limits Sarah."
 
 # SailorPath7_71a4597e (line 32949)
 translate ru SailorPath7_71a4597e:
@@ -306,17 +306,17 @@ translate ru SailorPath7_d4482663:
 # SailorPath7_6012c4c8 (line 32953)
 translate ru SailorPath7_6012c4c8:
     # s "I don't think you're a joke, Nick, but you need to be careful. There isn't anyone else out here other than us. Nobody will help you if the captain turns on you."
-    s ""
+    s "I don't think you're a joke, Nick, but you need to be careful. There isn't anyone else out here other than us. Nobody will help you if the captain turns on you."
 
 # SailorPath7_fb193b06 (line 32954)
 translate ru SailorPath7_fb193b06:
     # nick "And nobody will help him if I turn on him."
-    nick ""
+    nick "And nobody will help him if I turn on him."
 
 # SailorPath7_777f83ff (line 32955)
 translate ru SailorPath7_777f83ff:
     # s "Nick!"
-    s ""
+    s "Nick!"
 
 # SailorPath7_0588737f (line 32956)
 translate ru SailorPath7_0588737f:
@@ -326,7 +326,7 @@ translate ru SailorPath7_0588737f:
 # SailorPath7_f7e93721 (line 32957)
 translate ru SailorPath7_f7e93721:
     # s "Watch yourself. That's exactly what I'm talking about. If he had heard you say that..."
-    s ""
+    s "Watch yourself. That's exactly what I'm talking about. If he had heard you say that..."
 
 # SailorPath7_9298a766 (line 32958)
 translate ru SailorPath7_9298a766:
@@ -341,7 +341,7 @@ translate ru SailorPath7_de4f1104:
 # SailorPath7_1d19ac93 (line 32960)
 translate ru SailorPath7_1d19ac93:
     # nick "I'm gonna steal the key back."
-    nick ""
+    nick "I'm gonna steal the key back."
 
 # SailorPath7_73bede38 (line 32961)
 translate ru SailorPath7_73bede38:
@@ -351,22 +351,22 @@ translate ru SailorPath7_73bede38:
 # SailorPath7_c71f3c2e (line 32962)
 translate ru SailorPath7_c71f3c2e:
     # s "What?!"
-    s ""
+    s "What?!"
 
 # SailorPath7_389f68ce (line 32963)
 translate ru SailorPath7_389f68ce:
     # nick "The key to this cage he put on me, I'm gonna steal it back from the vault."
-    nick ""
+    nick "The key to this cage he put on me, I'm gonna steal it back from the vault."
 
 # SailorPath7_685a5ca9 (line 32964)
 translate ru SailorPath7_685a5ca9:
     # s "Nick, you can't be serious."
-    s ""
+    s "Nick, you can't be serious."
 
 # SailorPath7_8bbcfcf8 (line 32965)
 translate ru SailorPath7_8bbcfcf8:
     # nick "I am. I've been watching him through a hole in the wall over there."
-    nick ""
+    nick "I am. I've been watching him through a hole in the wall over there."
 
 # SailorPath7_5bb8885c (line 32966)
 translate ru SailorPath7_5bb8885c:
@@ -376,37 +376,37 @@ translate ru SailorPath7_5bb8885c:
 # SailorPath7_209e4866 (line 32967)
 translate ru SailorPath7_209e4866:
     # nick "I'm pretty sure I know the code."
-    nick ""
+    nick "I'm pretty sure I know the code."
 
 # SailorPath7_4482a632 (line 32968)
 translate ru SailorPath7_4482a632:
     # nick "When he's up above deck tonight for the astral navigation, I'll make my move."
-    nick ""
+    nick "When he's up above deck tonight for the astral navigation, I'll make my move."
 
 # SailorPath7_546ce40a (line 32969)
 translate ru SailorPath7_546ce40a:
     # s "Are you insane?"
-    s ""
+    s "Are you insane?"
 
 # SailorPath7_249149f0 (line 32970)
 translate ru SailorPath7_249149f0:
     # s "If he catches you..."
-    s ""
+    s "If he catches you..."
 
 # SailorPath7_205b991f (line 32971)
 translate ru SailorPath7_205b991f:
     # nick "He won't."
-    nick ""
+    nick "He won't."
 
 # SailorPath7_eab30246 (line 32972)
 translate ru SailorPath7_eab30246:
     # s "If he does, he'll...Nick he might kill you over it."
-    s ""
+    s "If he does, he'll...Nick he might kill you over it."
 
 # SailorPath7_d3544e0b (line 32973)
 translate ru SailorPath7_d3544e0b:
     # s "All that, because of what? So you can feel like a man again?"
-    s ""
+    s "All that, because of what? So you can feel like a man again?"
 
 # SailorPath7_230dad25 (line 32974)
 translate ru SailorPath7_230dad25:
@@ -416,22 +416,22 @@ translate ru SailorPath7_230dad25:
 # SailorPath7_e350a47b (line 32975)
 translate ru SailorPath7_e350a47b:
     # nick "I am a man, and I got my limits!"
-    nick ""
+    nick "I am a man, and I got my limits!"
 
 # SailorPath7_5026d9a4 (line 32976)
 translate ru SailorPath7_5026d9a4:
     # nick "I gotta listen to him fucking you every night, meanwhile if I even so much as get a hard on the cage cuts into my dick!"
-    nick ""
+    nick "I gotta listen to him fucking you every night, meanwhile if I even so much as get a hard on the cage cuts into my dick!"
 
 # SailorPath7_a3d27281 (line 32977)
 translate ru SailorPath7_a3d27281:
     # s "So what, you're gonna risk your life so you can jerk off?"
-    s ""
+    s "So what, you're gonna risk your life so you can jerk off?"
 
 # SailorPath7_8176c6ba (line 32978)
 translate ru SailorPath7_8176c6ba:
     # nick "This thing is humiliating! I can't keep wearing it, I won't!"
-    nick ""
+    nick "This thing is humiliating! I can't keep wearing it, I won't!"
 
 # SailorPath7_ea58c852 (line 32979)
 translate ru SailorPath7_ea58c852:
@@ -441,7 +441,7 @@ translate ru SailorPath7_ea58c852:
 # SailorPath7_eb6cf270 (line 32980)
 translate ru SailorPath7_eb6cf270:
     # nick "And once it's off...we could..."
-    nick ""
+    nick "And once it's off...we could..."
 
 # SailorPath7_14a0725a (line 32981)
 translate ru SailorPath7_14a0725a:
@@ -451,27 +451,27 @@ translate ru SailorPath7_14a0725a:
 # SailorPath7_3ade6605 (line 32982)
 translate ru SailorPath7_3ade6605:
     # s "Don't go doing this cause of me!"
-    s ""
+    s "Don't go doing this cause of me!"
 
 # SailorPath7_8d839dcc (line 32983)
 translate ru SailorPath7_8d839dcc:
     # nick "You don't feel anything for me?"
-    nick ""
+    nick "You don't feel anything for me?"
 
 # SailorPath7_d9df9e1c (line 32984)
 translate ru SailorPath7_d9df9e1c:
     # s "Nick, it's not about that. It's about that I don't want your blood on your hand when he catches you."
-    s ""
+    s "Nick, it's not about that. It's about that I don't want your blood on your hand when he catches you."
 
 # SailorPath7_060002b5 (line 32985)
 translate ru SailorPath7_060002b5:
     # nick "He won't."
-    nick ""
+    nick "He won't."
 
 # SailorPath7_9945a38a (line 32986)
 translate ru SailorPath7_9945a38a:
     # s "How can you be so sure?"
-    s ""
+    s "How can you be so sure?"
 
 # SailorPath7_4ea1e171 (line 32987)
 translate ru SailorPath7_4ea1e171:
@@ -481,30 +481,10 @@ translate ru SailorPath7_4ea1e171:
 # SailorPath7_5eb70794 (line 32988)
 translate ru SailorPath7_5eb70794:
     # nick "You know what, Sarah, I'm gonna do this and I'm done trying to convince you."
-    nick ""
+    nick "You know what, Sarah, I'm gonna do this and I'm done trying to convince you."
 
 # SailorPath7_4db07893 (line 32989)
 translate ru SailorPath7_4db07893:
     # "Sarah thought of anything to say, but she could see Nick was done hearing any of it."
     ""
-
-# SailorPath7_1d3fa049 (line 32993)
-translate ru SailorPath7_1d3fa049:
-    # "Help Nick"
-    "Help Nick" ""
-
-# SailorPath7_a81a8385 (line 33136)
-translate ru SailorPath7_a81a8385:
-    # "Throw yourself at Belmont's feet"
-    "Throw yourself at Belmont's feet" ""
-
-# SailorPath7_2ec17741 (line 33159)
-translate ru SailorPath7_2ec17741:
-    # "It's pointless, keep your pride"
-    "It's pointless, keep your pride" ""
-
-# SailorPath7_787507eb (line 33316)
-translate ru SailorPath7_787507eb:
-    # "Betray Nick"
-    "Betray Nick" ""
 

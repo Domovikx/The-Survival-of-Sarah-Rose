@@ -71,7 +71,7 @@ translate ru UnionKingdom7_d472afc5:
 # UnionKingdom7_ea36fa12 (line 10039)
 translate ru UnionKingdom7_ea36fa12:
     # s "The room looks stunning."
-    s ""
+    s "The room looks stunning."
 
 # UnionKingdom7_3856c11c (line 10040)
 translate ru UnionKingdom7_3856c11c:
@@ -81,12 +81,12 @@ translate ru UnionKingdom7_3856c11c:
 # UnionKingdom7_d192751f (line 10041)
 translate ru UnionKingdom7_d192751f:
     # mae "The head-of-ceremony has been working in the castle for nearly eighty-years now."
-    mae ""
+    mae "The head-of-ceremony has been working in the castle for nearly eighty-years now."
 
 # UnionKingdom7_5cf0b48f (line 10042)
 translate ru UnionKingdom7_5cf0b48f:
     # mae "Likely no man in all the Union that can do better than him."
-    mae ""
+    mae "Likely no man in all the Union that can do better than him."
 
 # UnionKingdom7_1c6070c9 (line 10043)
 translate ru UnionKingdom7_1c6070c9:
@@ -96,7 +96,7 @@ translate ru UnionKingdom7_1c6070c9:
 # UnionKingdom7_2ebb3e57 (line 10044)
 translate ru UnionKingdom7_2ebb3e57:
     # s "Perhaps he should retire."
-    s ""
+    s "Perhaps he should retire."
 
 # UnionKingdom7_06d9db70 (line 10045)
 translate ru UnionKingdom7_06d9db70:
@@ -106,17 +106,17 @@ translate ru UnionKingdom7_06d9db70:
 # UnionKingdom7_70af8451 (line 10046)
 translate ru UnionKingdom7_70af8451:
     # mae "Oh, I've suggested as much. Even told him he could have a royal pension."
-    mae ""
+    mae "Oh, I've suggested as much. Even told him he could have a royal pension."
 
 # UnionKingdom7_58a685ac (line 10047)
 translate ru UnionKingdom7_58a685ac:
     # mae "But the man is inexhaustible. Lives for this."
-    mae ""
+    mae "But the man is inexhaustible. Lives for this."
 
 # UnionKingdom7_2874936b (line 10048)
 translate ru UnionKingdom7_2874936b:
     # mae "He jokes that he'd likely die the day that he stops working, and I suspect it is only partially a joke."
-    mae ""
+    mae "He jokes that he'd likely die the day that he stops working, and I suspect it is only partially a joke."
 
 # UnionKingdom7_7c71236c (line 10049)
 translate ru UnionKingdom7_7c71236c:
@@ -126,7 +126,7 @@ translate ru UnionKingdom7_7c71236c:
 # UnionKingdom7_6a6b4920 (line 10050)
 translate ru UnionKingdom7_6a6b4920:
     # mae "No, he means to die in the harness. There is a beauty in that, I suppose. To know for certain your own role to play in life."
-    mae ""
+    mae "No, he means to die in the harness. There is a beauty in that, I suppose. To know for certain your own role to play in life."
 
 # UnionKingdom7_965d8dca (line 10051)
 translate ru UnionKingdom7_965d8dca:
@@ -136,12 +136,12 @@ translate ru UnionKingdom7_965d8dca:
 # UnionKingdom7_7982eebd (line 10052)
 translate ru UnionKingdom7_7982eebd:
     # s "Yes, it is admirable. There are servants in Rosanna as well, that are older than myself, some even older than my father."
-    s ""
+    s "Yes, it is admirable. There are servants in Rosanna as well, that are older than myself, some even older than my father."
 
 # UnionKingdom7_db5ef8a1 (line 10053)
 translate ru UnionKingdom7_db5ef8a1:
     # s "The things they must have seen over the years..."
-    s ""
+    s "The things they must have seen over the years..."
 
 # UnionKingdom7_42aae7f5 (line 10054)
 translate ru UnionKingdom7_42aae7f5:
@@ -151,7 +151,7 @@ translate ru UnionKingdom7_42aae7f5:
 # UnionKingdom7_4b22cdbb (line 10055)
 translate ru UnionKingdom7_4b22cdbb:
     # mae "Your dear father. I had the pleasure of meeting him once, many years ago now."
-    mae ""
+    mae "Your dear father. I had the pleasure of meeting him once, many years ago now."
 
 # UnionKingdom7_cf3ad1d8 (line 10056)
 translate ru UnionKingdom7_cf3ad1d8:
@@ -161,7 +161,7 @@ translate ru UnionKingdom7_cf3ad1d8:
 # UnionKingdom7_36ebfa94 (line 10057)
 translate ru UnionKingdom7_36ebfa94:
     # s "You did?"
-    s ""
+    s "You did?"
 
 # UnionKingdom7_48c669b1 (line 10058)
 translate ru UnionKingdom7_48c669b1:
@@ -171,7 +171,7 @@ translate ru UnionKingdom7_48c669b1:
 # UnionKingdom7_8bb65499 (line 10059)
 translate ru UnionKingdom7_8bb65499:
     # mae "He attended court, back when I was still...well, not Queen."
-    mae ""
+    mae "He attended court, back when I was still...well, not Queen."
 
 # UnionKingdom7_8b570b48 (line 10060)
 translate ru UnionKingdom7_8b570b48:
@@ -181,7 +181,7 @@ translate ru UnionKingdom7_8b570b48:
 # UnionKingdom7_3f846736 (line 10061)
 translate ru UnionKingdom7_3f846736:
     # mae "I remember even as a little girl seeing him and thinking, that is what a king should look like."
-    mae ""
+    mae "I remember even as a little girl seeing him and thinking, that is what a king should look like."
 
 # UnionKingdom7_f90dad98 (line 10062)
 translate ru UnionKingdom7_f90dad98:
@@ -191,12 +191,12 @@ translate ru UnionKingdom7_f90dad98:
 # UnionKingdom7_fddfb434 (line 10063)
 translate ru UnionKingdom7_fddfb434:
     # s "Yes, that much is very true."
-    s ""
+    s "Yes, that much is very true."
 
 # UnionKingdom7_7bbe0714 (line 10064)
 translate ru UnionKingdom7_7bbe0714:
     # mae "Our king back then was...well, a bit less of your father, more Duke Antonio."
-    mae ""
+    mae "Our king back then was...well, a bit less of your father, more Duke Antonio."
 
 # UnionKingdom7_79d2ac44 (line 10065)
 translate ru UnionKingdom7_79d2ac44:
@@ -341,17 +341,17 @@ translate ru UnionKingdom7_64059460:
 # UnionKingdom7_04f0bd74 (line 10103)
 translate ru UnionKingdom7_04f0bd74:
     # s "Are all celebrations like this?"
-    s ""
+    s "Are all celebrations like this?"
 
 # UnionKingdom7_f1a398c4 (line 10104)
 translate ru UnionKingdom7_f1a398c4:
     # mae "Excuse me dear?"
-    mae ""
+    mae "Excuse me dear?"
 
 # UnionKingdom7_00ec6c44 (line 10105)
 translate ru UnionKingdom7_00ec6c44:
     # s "I mean, are all feasts in Normandi so...grand?"
-    s ""
+    s "I mean, are all feasts in Normandi so...grand?"
 
 # UnionKingdom7_ede70bab (line 10106)
 translate ru UnionKingdom7_ede70bab:
@@ -361,7 +361,7 @@ translate ru UnionKingdom7_ede70bab:
 # UnionKingdom7_6495b707 (line 10107)
 translate ru UnionKingdom7_6495b707:
     # mae "The people of Delphine are used to enjoying themselves."
-    mae ""
+    mae "The people of Delphine are used to enjoying themselves."
 
 # UnionKingdom7_e299f4d5 (line 10108)
 translate ru UnionKingdom7_e299f4d5:
@@ -371,7 +371,7 @@ translate ru UnionKingdom7_e299f4d5:
 # UnionKingdom7_981ec0a5 (line 10109)
 translate ru UnionKingdom7_981ec0a5:
     # s "You don't think this is...excessive?"
-    s ""
+    s "You don't think this is...excessive?"
 
 # UnionKingdom7_64a06224 (line 10110)
 translate ru UnionKingdom7_64a06224:
@@ -381,7 +381,7 @@ translate ru UnionKingdom7_64a06224:
 # UnionKingdom7_947d61de (line 10111)
 translate ru UnionKingdom7_947d61de:
     # mae "All the people in this room make up everyone that matters in Normandi."
-    mae ""
+    mae "All the people in this room make up everyone that matters in Normandi."
 
 # UnionKingdom7_c2be64d6 (line 10112)
 translate ru UnionKingdom7_c2be64d6:
@@ -391,7 +391,7 @@ translate ru UnionKingdom7_c2be64d6:
 # UnionKingdom7_28b7872b (line 10113)
 translate ru UnionKingdom7_28b7872b:
     # mae "He controls most of the lumber camps up north."
-    mae ""
+    mae "He controls most of the lumber camps up north."
 
 # UnionKingdom7_35161277 (line 10114)
 translate ru UnionKingdom7_35161277:
@@ -401,17 +401,17 @@ translate ru UnionKingdom7_35161277:
 # UnionKingdom7_0c5df09b (line 10115)
 translate ru UnionKingdom7_0c5df09b:
     # mae "She inherited several gem mines in the interior."
-    mae ""
+    mae "She inherited several gem mines in the interior."
 
 # UnionKingdom7_f4d83d8f (line 10116)
 translate ru UnionKingdom7_f4d83d8f:
     # mae "All put together, these are the people that make the country run."
-    mae ""
+    mae "All put together, these are the people that make the country run."
 
 # UnionKingdom7_5da66054 (line 10117)
 translate ru UnionKingdom7_5da66054:
     # mae "And do you see what they're up to?"
-    mae ""
+    mae "And do you see what they're up to?"
 
 # UnionKingdom7_f8883ec5 (line 10118)
 translate ru UnionKingdom7_f8883ec5:
@@ -426,17 +426,17 @@ translate ru UnionKingdom7_dfa7909e:
 # UnionKingdom7_cbeb7d12 (line 10120)
 translate ru UnionKingdom7_cbeb7d12:
     # mae "They're happy."
-    mae ""
+    mae "They're happy."
 
 # UnionKingdom7_d354f3d7 (line 10121)
 translate ru UnionKingdom7_d354f3d7:
     # mae "Happy little piggies eating at the trough."
-    mae ""
+    mae "Happy little piggies eating at the trough."
 
 # UnionKingdom7_5eab94c6 (line 10122)
 translate ru UnionKingdom7_5eab94c6:
     # mae "And happy piggies don't have a reason to complain or rebel."
-    mae ""
+    mae "And happy piggies don't have a reason to complain or rebel."
 
 # UnionKingdom7_13375487 (line 10123)
 translate ru UnionKingdom7_13375487:
@@ -446,7 +446,7 @@ translate ru UnionKingdom7_13375487:
 # UnionKingdom7_0d4f0a7d (line 10124)
 translate ru UnionKingdom7_0d4f0a7d:
     # mae "I imagined you of all people should understand the risk of unhappy noble families."
-    mae ""
+    mae "I imagined you of all people should understand the risk of unhappy noble families."
 
 # UnionKingdom7_17b5856a (line 10125)
 translate ru UnionKingdom7_17b5856a:
@@ -456,22 +456,22 @@ translate ru UnionKingdom7_17b5856a:
 # UnionKingdom7_7481e16f (line 10126)
 translate ru UnionKingdom7_7481e16f:
     # s "Perhaps so, but still...to have so much when there is so much poverty, isn't that-"
-    s ""
+    s "Perhaps so, but still...to have so much when there is so much poverty, isn't that-"
 
 # UnionKingdom7_09c821db (line 10127)
 translate ru UnionKingdom7_09c821db:
     # mae "Ooh dear, please."
-    mae ""
+    mae "Ooh dear, please."
 
 # UnionKingdom7_49e60896 (line 10128)
 translate ru UnionKingdom7_49e60896:
     # mae "Things like these keep the nobles fat and happy."
-    mae ""
+    mae "Things like these keep the nobles fat and happy."
 
 # UnionKingdom7_7b29da0d (line 10129)
 translate ru UnionKingdom7_7b29da0d:
     # mae "You think this is vile?"
-    mae ""
+    mae "You think this is vile?"
 
 # UnionKingdom7_c5aa98f1 (line 10130)
 translate ru UnionKingdom7_c5aa98f1:
@@ -481,7 +481,7 @@ translate ru UnionKingdom7_c5aa98f1:
 # UnionKingdom7_85679cc7 (line 10131)
 translate ru UnionKingdom7_85679cc7:
     # mae "When you broke the armies of that fool Marion, who do you think made up the bulk of those armies?"
-    mae ""
+    mae "When you broke the armies of that fool Marion, who do you think made up the bulk of those armies?"
 
 # UnionKingdom7_527d2323 (line 10132)
 translate ru UnionKingdom7_527d2323:
@@ -491,22 +491,22 @@ translate ru UnionKingdom7_527d2323:
 # UnionKingdom7_250ab4b1 (line 10133)
 translate ru UnionKingdom7_250ab4b1:
     # mae "So I indulge these people a bit. Let them live large. In turn they keep the peace."
-    mae ""
+    mae "So I indulge these people a bit. Let them live large. In turn they keep the peace."
 
 # UnionKingdom7_01f30421 (line 10134)
 translate ru UnionKingdom7_01f30421:
     # mae "Keep stability."
-    mae ""
+    mae "Keep stability."
 
 # UnionKingdom7_203fc477 (line 10135)
 translate ru UnionKingdom7_203fc477:
     # mae "I watched this country nearly ripped apart when these fools couldn't figure out who should sit on the throne."
-    mae ""
+    mae "I watched this country nearly ripped apart when these fools couldn't figure out who should sit on the throne."
 
 # UnionKingdom7_dacf5706 (line 10136)
 translate ru UnionKingdom7_dacf5706:
     # mae "And you know what?"
-    mae ""
+    mae "And you know what?"
 
 # UnionKingdom7_2665f6a6 (line 10137)
 translate ru UnionKingdom7_2665f6a6:
@@ -516,22 +516,22 @@ translate ru UnionKingdom7_2665f6a6:
 # UnionKingdom7_e5dc281b (line 10138)
 translate ru UnionKingdom7_e5dc281b:
     # mae "The truth is these idiots would do it all over again."
-    mae ""
+    mae "The truth is these idiots would do it all over again."
 
 # UnionKingdom7_8ed9532b (line 10139)
 translate ru UnionKingdom7_8ed9532b:
     # mae "All they want is an excuse. Some insult, some perceived slight, and they'd gather their swords again."
-    mae ""
+    mae "All they want is an excuse. Some insult, some perceived slight, and they'd gather their swords again."
 
 # UnionKingdom7_b92147f6 (line 10140)
 translate ru UnionKingdom7_b92147f6:
     # mae "And as most of the other countries in the Union prospered, we stagnated."
-    mae ""
+    mae "And as most of the other countries in the Union prospered, we stagnated."
 
 # UnionKingdom7_fb80bd46 (line 10141)
 translate ru UnionKingdom7_fb80bd46:
     # mae "They think because we have so much, we can never lose it. They don't see how everyone else is catching up to us already."
-    mae ""
+    mae "They think because we have so much, we can never lose it. They don't see how everyone else is catching up to us already."
 
 # UnionKingdom7_6c1bc4fe (line 10142)
 translate ru UnionKingdom7_6c1bc4fe:
@@ -551,7 +551,7 @@ translate ru UnionKingdom7_41a343bd:
 # UnionKingdom7_4d81f1a7 (line 10145)
 translate ru UnionKingdom7_4d81f1a7:
     # mae "Now forgive me, there are some particular fat piggies that require even more gladhanding."
-    mae ""
+    mae "Now forgive me, there are some particular fat piggies that require even more gladhanding."
 
 # UnionKingdom7_de5b491d (line 10146)
 translate ru UnionKingdom7_de5b491d:
@@ -591,7 +591,7 @@ translate ru UnionKingdom7_0e1b0ecc:
 # UnionKingdom7_5820b207 (line 10160)
 translate ru UnionKingdom7_5820b207:
     # ant "What a pleasure to finally meet with you in person."
-    ant ""
+    ant "What a pleasure to finally meet with you in person."
 
 # UnionKingdom7_7fb76d7a (line 10161)
 translate ru UnionKingdom7_7fb76d7a:
@@ -606,17 +606,17 @@ translate ru UnionKingdom7_6b876166:
 # UnionKingdom7_5d6989b2 (line 10163)
 translate ru UnionKingdom7_5d6989b2:
     # s "Duke Antonio, a pleasure to meet you as well in person. How did you know who I was?"
-    s ""
+    s "Duke Antonio, a pleasure to meet you as well in person. How did you know who I was?"
 
 # UnionKingdom7_0646c285 (line 10164)
 translate ru UnionKingdom7_0646c285:
     # ant "Oh, you're a striking image for your late father."
-    ant ""
+    ant "Oh, you're a striking image for your late father."
 
 # UnionKingdom7_7d98455b (line 10165)
 translate ru UnionKingdom7_7d98455b:
     # ant "More feminine, I suppose, but the traits are definitely there in your face."
-    ant ""
+    ant "More feminine, I suppose, but the traits are definitely there in your face."
 
 # UnionKingdom7_a05bb087 (line 10166)
 translate ru UnionKingdom7_a05bb087:
@@ -626,7 +626,7 @@ translate ru UnionKingdom7_a05bb087:
 # UnionKingdom7_7ac21151 (line 10167)
 translate ru UnionKingdom7_7ac21151:
     # s "I didn't know you had met my father."
-    s ""
+    s "I didn't know you had met my father."
 
 # UnionKingdom7_f9a627ea (line 10168)
 translate ru UnionKingdom7_f9a627ea:
@@ -636,7 +636,7 @@ translate ru UnionKingdom7_f9a627ea:
 # UnionKingdom7_63d3ea85 (line 10169)
 translate ru UnionKingdom7_63d3ea85:
     # ant "Many years ago now. I was still only a simple council member, not yet voted in."
-    ant ""
+    ant "Many years ago now. I was still only a simple council member, not yet voted in."
 
 # UnionKingdom7_cc1a1bb1 (line 10170)
 translate ru UnionKingdom7_cc1a1bb1:
@@ -686,7 +686,7 @@ translate ru UnionKingdom7_f9c79a64:
 # UnionKingdom7_50a6dd54 (line 10179)
 translate ru UnionKingdom7_50a6dd54:
     # s "I wish I had known that you met with my father."
-    s ""
+    s "I wish I had known that you met with my father."
 
 # UnionKingdom7_76cf2bf8 (line 10180)
 translate ru UnionKingdom7_76cf2bf8:
@@ -696,12 +696,12 @@ translate ru UnionKingdom7_76cf2bf8:
 # UnionKingdom7_ebeaedcb (line 10181)
 translate ru UnionKingdom7_ebeaedcb:
     # ant "Please, I don't suppose I made much of an impression on your father."
-    ant ""
+    ant "Please, I don't suppose I made much of an impression on your father."
 
 # UnionKingdom7_ed03898e (line 10182)
 translate ru UnionKingdom7_ed03898e:
     # ant "I think he thought most of us were pretentious merchants."
-    ant ""
+    ant "I think he thought most of us were pretentious merchants."
 
 # UnionKingdom7_58cea6b6 (line 10183)
 translate ru UnionKingdom7_58cea6b6:
@@ -711,7 +711,7 @@ translate ru UnionKingdom7_58cea6b6:
 # UnionKingdom7_60767d80 (line 10184)
 translate ru UnionKingdom7_60767d80:
     # s "No, my father deeply respected the Medini people, I don't think he would ever-"
-    s ""
+    s "No, my father deeply respected the Medini people, I don't think he would ever-"
 
 # UnionKingdom7_93678bfc (line 10185)
 translate ru UnionKingdom7_93678bfc:
@@ -721,12 +721,12 @@ translate ru UnionKingdom7_93678bfc:
 # UnionKingdom7_4331fe5c (line 10186)
 translate ru UnionKingdom7_4331fe5c:
     # ant "No need for flattery."
-    ant ""
+    ant "No need for flattery."
 
 # UnionKingdom7_7a0d0ea7 (line 10187)
 translate ru UnionKingdom7_7a0d0ea7:
     # ant "The accusation would have been true. Most of us are just overly serious merchants."
-    ant ""
+    ant "The accusation would have been true. Most of us are just overly serious merchants."
 
 # UnionKingdom7_82cde098 (line 10188)
 translate ru UnionKingdom7_82cde098:
@@ -736,7 +736,7 @@ translate ru UnionKingdom7_82cde098:
 # UnionKingdom7_27f2bc0c (line 10189)
 translate ru UnionKingdom7_27f2bc0c:
     # s "Well, regardless, I am glad to finally meet you in person."
-    s ""
+    s "Well, regardless, I am glad to finally meet you in person."
 
 # UnionKingdom7_3aa9f5e0 (line 10190)
 translate ru UnionKingdom7_3aa9f5e0:
@@ -746,22 +746,22 @@ translate ru UnionKingdom7_3aa9f5e0:
 # UnionKingdom7_ae3c9943 (line 10191)
 translate ru UnionKingdom7_ae3c9943:
     # ant "We have communicated through letters plenty, and I must say, I always look forward to each piece of state correspondence."
-    ant ""
+    ant "We have communicated through letters plenty, and I must say, I always look forward to each piece of state correspondence."
 
 # UnionKingdom7_b6b16a07 (line 10192)
 translate ru UnionKingdom7_b6b16a07:
     # ant "But I must admit, it always feels so dry."
-    ant ""
+    ant "But I must admit, it always feels so dry."
 
 # UnionKingdom7_25e14848 (line 10193)
 translate ru UnionKingdom7_25e14848:
     # ant "To meet and speak in person, so much better to form a relationship."
-    ant ""
+    ant "To meet and speak in person, so much better to form a relationship."
 
 # UnionKingdom7_59e54ef5 (line 10194)
 translate ru UnionKingdom7_59e54ef5:
     # ant "All the best trade deals are struck over a good meal and drink."
-    ant ""
+    ant "All the best trade deals are struck over a good meal and drink."
 
 # UnionKingdom7_930e43ec (line 10195)
 translate ru UnionKingdom7_930e43ec:
@@ -776,7 +776,7 @@ translate ru UnionKingdom7_3be744e0:
 # UnionKingdom7_ba87dee1 (line 10197)
 translate ru UnionKingdom7_ba87dee1:
     # s "No, thank you. I think I have had more than my share already. I can feel myself dizzy."
-    s ""
+    s "No, thank you. I think I have had more than my share already. I can feel myself dizzy."
 
 # UnionKingdom7_3bfad347 (line 10198)
 translate ru UnionKingdom7_3bfad347:
@@ -786,7 +786,7 @@ translate ru UnionKingdom7_3bfad347:
 # UnionKingdom7_027a2ad5 (line 10199)
 translate ru UnionKingdom7_027a2ad5:
     # ant "Ah, yes. I must admit, even I struggle to keep up with these Normandi folk, and we in Medini know how to throw a good party."
-    ant ""
+    ant "Ah, yes. I must admit, even I struggle to keep up with these Normandi folk, and we in Medini know how to throw a good party."
 
 # UnionKingdom7_96549c70 (line 10200)
 translate ru UnionKingdom7_96549c70:
@@ -796,17 +796,17 @@ translate ru UnionKingdom7_96549c70:
 # UnionKingdom7_139e1a29 (line 10201)
 translate ru UnionKingdom7_139e1a29:
     # s "Duke Antonio, if I may ask you..."
-    s ""
+    s "Duke Antonio, if I may ask you..."
 
 # UnionKingdom7_dd799ce2 (line 10202)
 translate ru UnionKingdom7_dd799ce2:
     # ant "Of course, ask me anything. I am at your disposal."
-    ant ""
+    ant "Of course, ask me anything. I am at your disposal."
 
 # UnionKingdom7_9cb3c20f (line 10203)
 translate ru UnionKingdom7_9cb3c20f:
     # s "Have you any notion of what this Union Council is concerning?"
-    s ""
+    s "Have you any notion of what this Union Council is concerning?"
 
 # UnionKingdom7_2dbae857 (line 10204)
 translate ru UnionKingdom7_2dbae857:
@@ -816,17 +816,17 @@ translate ru UnionKingdom7_2dbae857:
 # UnionKingdom7_154c5a04 (line 10205)
 translate ru UnionKingdom7_154c5a04:
     # ant "Business talk, and so soon."
-    ant ""
+    ant "Business talk, and so soon."
 
 # UnionKingdom7_1c00574e (line 10206)
 translate ru UnionKingdom7_1c00574e:
     # ant "But unfortunately, I must dissapoint you. I know little more than you do, it seems."
-    ant ""
+    ant "But unfortunately, I must dissapoint you. I know little more than you do, it seems."
 
 # UnionKingdom7_4c8e7656 (line 10207)
 translate ru UnionKingdom7_4c8e7656:
     # s "And still you came."
-    s ""
+    s "And still you came."
 
 # UnionKingdom7_8e412c97 (line 10208)
 translate ru UnionKingdom7_8e412c97:
@@ -836,7 +836,7 @@ translate ru UnionKingdom7_8e412c97:
 # UnionKingdom7_42c9cb2e (line 10209)
 translate ru UnionKingdom7_42c9cb2e:
     # ant "I suppose I did. Same reason as yourself, perhaps. A fascination with what this Silent Queen is up to."
-    ant ""
+    ant "I suppose I did. Same reason as yourself, perhaps. A fascination with what this Silent Queen is up to."
 
 # UnionKingdom7_59ca27bc (line 10210)
 translate ru UnionKingdom7_59ca27bc:
@@ -861,7 +861,7 @@ translate ru UnionKingdom7_a7e1025d:
 # UnionKingdom7_52cd1ea1 (line 10214)
 translate ru UnionKingdom7_52cd1ea1:
     # ant "Please forgive me, Sarah. It appears someone needs my assistance."
-    ant ""
+    ant "Please forgive me, Sarah. It appears someone needs my assistance."
 
 # UnionKingdom7_449a6787 (line 10215)
 translate ru UnionKingdom7_449a6787:
@@ -896,7 +896,7 @@ translate ru UnionKingdom7_dd2d344d:
 # UnionKingdom7_39f88942 (line 10226)
 translate ru UnionKingdom7_39f88942:
     # edm "Repulsive, really."
-    edm ""
+    edm "Repulsive, really."
 
 # UnionKingdom7_12739d7c (line 10227)
 translate ru UnionKingdom7_12739d7c:
@@ -916,7 +916,7 @@ translate ru UnionKingdom7_8b93c7d3:
 # UnionKingdom7_0f38ef42 (line 10230)
 translate ru UnionKingdom7_0f38ef42:
     # s "What was that, sir Edmond?"
-    s ""
+    s "What was that, sir Edmond?"
 
 # UnionKingdom7_1e662e44 (line 10231)
 translate ru UnionKingdom7_1e662e44:
@@ -926,12 +926,12 @@ translate ru UnionKingdom7_1e662e44:
 # UnionKingdom7_dd5947a4 (line 10232)
 translate ru UnionKingdom7_dd5947a4:
     # edm "I said it's repulsive."
-    edm ""
+    edm "I said it's repulsive."
 
 # UnionKingdom7_1b6d39a8 (line 10233)
 translate ru UnionKingdom7_1b6d39a8:
     # edm "A man of his age with a girl like that."
-    edm ""
+    edm "A man of his age with a girl like that."
 
 # UnionKingdom7_c56825a2 (line 10234)
 translate ru UnionKingdom7_c56825a2:
@@ -951,7 +951,7 @@ translate ru UnionKingdom7_3cb340cb:
 # UnionKingdom7_777d073d (line 10237)
 translate ru UnionKingdom7_777d073d:
     # s "Well, he enjoys life and all that it offers, I suppose."
-    s ""
+    s "Well, he enjoys life and all that it offers, I suppose."
 
 # UnionKingdom7_eca5214a (line 10238)
 translate ru UnionKingdom7_eca5214a:
@@ -961,7 +961,7 @@ translate ru UnionKingdom7_eca5214a:
 # UnionKingdom7_95e97fed (line 10239)
 translate ru UnionKingdom7_95e97fed:
     # edm "And the girl?"
-    edm ""
+    edm "And the girl?"
 
 # UnionKingdom7_30221008 (line 10240)
 translate ru UnionKingdom7_30221008:
@@ -971,17 +971,17 @@ translate ru UnionKingdom7_30221008:
 # UnionKingdom7_7aeaef3e (line 10241)
 translate ru UnionKingdom7_7aeaef3e:
     # s "What of her?"
-    s ""
+    s "What of her?"
 
 # UnionKingdom7_f510018e (line 10242)
 translate ru UnionKingdom7_f510018e:
     # edm "The servant girl. You think she enjoys life and all that it offers?"
-    edm ""
+    edm "The servant girl. You think she enjoys life and all that it offers?"
 
 # UnionKingdom7_11e28d90 (line 10243)
 translate ru UnionKingdom7_11e28d90:
     # edm "You think when she's beneath the bloated bastard tonight, the bed creaking as he's crushing her, you think she'll enjoy life?"
-    edm ""
+    edm "You think when she's beneath the bloated bastard tonight, the bed creaking as he's crushing her, you think she'll enjoy life?"
 
 # UnionKingdom7_3ae3f3a4 (line 10244)
 translate ru UnionKingdom7_3ae3f3a4:
@@ -991,22 +991,22 @@ translate ru UnionKingdom7_3ae3f3a4:
 # UnionKingdom7_4c8d6386 (line 10245)
 translate ru UnionKingdom7_4c8d6386:
     # s "I..."
-    s ""
+    s "I..."
 
 # UnionKingdom7_269e3e84 (line 10246)
 translate ru UnionKingdom7_269e3e84:
     # edm "Of course not."
-    edm ""
+    edm "Of course not."
 
 # UnionKingdom7_78d4826d (line 10247)
 translate ru UnionKingdom7_78d4826d:
     # edm "The only reason a girl like that gives a man like him a moment of attention is because she knows who he is."
-    edm ""
+    edm "The only reason a girl like that gives a man like him a moment of attention is because she knows who he is."
 
 # UnionKingdom7_4703510b (line 10248)
 translate ru UnionKingdom7_4703510b:
     # edm "And she knows that even a fraction of his wealth is more than she can earn in a lifetime."
-    edm ""
+    edm "And she knows that even a fraction of his wealth is more than she can earn in a lifetime."
 
 # UnionKingdom7_5aa73949 (line 10249)
 translate ru UnionKingdom7_5aa73949:
@@ -1016,17 +1016,17 @@ translate ru UnionKingdom7_5aa73949:
 # UnionKingdom7_1a67f6d8 (line 10250)
 translate ru UnionKingdom7_1a67f6d8:
     # edm "Funny, isn't that?"
-    edm ""
+    edm "Funny, isn't that?"
 
 # UnionKingdom7_2bc8e761 (line 10251)
 translate ru UnionKingdom7_2bc8e761:
     # edm "An amount of money that he probably wouldn't even miss, is enough to buy a girl's life, just like that."
-    edm ""
+    edm "An amount of money that he probably wouldn't even miss, is enough to buy a girl's life, just like that."
 
 # UnionKingdom7_8f668806 (line 10252)
 translate ru UnionKingdom7_8f668806:
     # s "I don't think he's looking to buy her life."
-    s ""
+    s "I don't think he's looking to buy her life."
 
 # UnionKingdom7_70050dd0 (line 10253)
 translate ru UnionKingdom7_70050dd0:
@@ -1036,7 +1036,7 @@ translate ru UnionKingdom7_70050dd0:
 # UnionKingdom7_171d32ec (line 10254)
 translate ru UnionKingdom7_171d32ec:
     # edm "Ah, so you do have claws."
-    edm ""
+    edm "Ah, so you do have claws."
 
 # UnionKingdom7_3871cf04 (line 10255)
 translate ru UnionKingdom7_3871cf04:
@@ -1046,12 +1046,12 @@ translate ru UnionKingdom7_3871cf04:
 # UnionKingdom7_c940cca1 (line 10256)
 translate ru UnionKingdom7_c940cca1:
     # s "I am not unaware of the matters that you hint at."
-    s ""
+    s "I am not unaware of the matters that you hint at."
 
 # UnionKingdom7_dd8e17f7 (line 10257)
 translate ru UnionKingdom7_dd8e17f7:
     # s "But the world won't change here tonight."
-    s ""
+    s "But the world won't change here tonight."
 
 # UnionKingdom7_1a435428 (line 10258)
 translate ru UnionKingdom7_1a435428:
@@ -1061,7 +1061,7 @@ translate ru UnionKingdom7_1a435428:
 # UnionKingdom7_4bd0a421 (line 10259)
 translate ru UnionKingdom7_4bd0a421:
     # edm "It might not tonight, but perhaps this week."
-    edm ""
+    edm "It might not tonight, but perhaps this week."
 
 # UnionKingdom7_16b6b5af (line 10260)
 translate ru UnionKingdom7_16b6b5af:
@@ -1071,7 +1071,7 @@ translate ru UnionKingdom7_16b6b5af:
 # UnionKingdom7_bb635315 (line 10261)
 translate ru UnionKingdom7_bb635315:
     # s "You know anything about the Union Council?"
-    s ""
+    s "You know anything about the Union Council?"
 
 # UnionKingdom7_7599e0a9 (line 10262)
 translate ru UnionKingdom7_7599e0a9:
@@ -1081,22 +1081,22 @@ translate ru UnionKingdom7_7599e0a9:
 # UnionKingdom7_2d24c4fe (line 10263)
 translate ru UnionKingdom7_2d24c4fe:
     # edm "Not too much, but I've heard some whispers here and there."
-    edm ""
+    edm "Not too much, but I've heard some whispers here and there."
 
 # UnionKingdom7_7412df66 (line 10264)
 translate ru UnionKingdom7_7412df66:
     # s "Such as..."
-    s ""
+    s "Such as..."
 
 # UnionKingdom7_78334cf7 (line 10265)
 translate ru UnionKingdom7_78334cf7:
     # edm "You would ask me to give away my secrets?"
-    edm ""
+    edm "You would ask me to give away my secrets?"
 
 # UnionKingdom7_03b445e3 (line 10266)
 translate ru UnionKingdom7_03b445e3:
     # s "You don't strike me as a man that enjoys keeping secrets and playing in shadows."
-    s ""
+    s "You don't strike me as a man that enjoys keeping secrets and playing in shadows."
 
 # UnionKingdom7_40780830 (line 10267)
 translate ru UnionKingdom7_40780830:
@@ -1106,7 +1106,7 @@ translate ru UnionKingdom7_40780830:
 # UnionKingdom7_c881cb92 (line 10268)
 translate ru UnionKingdom7_c881cb92:
     # edm "You don't really know me all that well, girl."
-    edm ""
+    edm "You don't really know me all that well, girl."
 
 # UnionKingdom7_ca13ed35 (line 10269)
 translate ru UnionKingdom7_ca13ed35:
@@ -1116,12 +1116,12 @@ translate ru UnionKingdom7_ca13ed35:
 # UnionKingdom7_530c8487 (line 10270)
 translate ru UnionKingdom7_530c8487:
     # s "I am not a girl, I am your peer, as I am that of Queen Maeiv and Duke Antonio."
-    s ""
+    s "I am not a girl, I am your peer, as I am that of Queen Maeiv and Duke Antonio."
 
 # UnionKingdom7_796720ef (line 10271)
 translate ru UnionKingdom7_796720ef:
     # s "And I imagined we might speak more plainly with one another."
-    s ""
+    s "And I imagined we might speak more plainly with one another."
 
 # UnionKingdom7_1ffb6389 (line 10272)
 translate ru UnionKingdom7_1ffb6389:
@@ -1131,12 +1131,12 @@ translate ru UnionKingdom7_1ffb6389:
 # UnionKingdom7_b6899c15 (line 10273)
 translate ru UnionKingdom7_b6899c15:
     # edm "And why would that be?"
-    edm ""
+    edm "And why would that be?"
 
 # UnionKingdom7_4843e7f5 (line 10274)
 translate ru UnionKingdom7_4843e7f5:
     # s "Because we share a similar concern, or so I have been told. A consideration for the plight of those who have less."
-    s ""
+    s "Because we share a similar concern, or so I have been told. A consideration for the plight of those who have less."
 
 # UnionKingdom7_ecdf7caa (line 10275)
 translate ru UnionKingdom7_ecdf7caa:
@@ -1146,12 +1146,12 @@ translate ru UnionKingdom7_ecdf7caa:
 # UnionKingdom7_4955a56a (line 10276)
 translate ru UnionKingdom7_4955a56a:
     # edm "It is true that Rosanna has done much to elevate the poor from their condition, these last few years."
-    edm ""
+    edm "It is true that Rosanna has done much to elevate the poor from their condition, these last few years."
 
 # UnionKingdom7_242af477 (line 10277)
 translate ru UnionKingdom7_242af477:
     # edm "But the systems of nobility of old still persist. You have done nothing to break that system."
-    edm ""
+    edm "But the systems of nobility of old still persist. You have done nothing to break that system."
 
 # UnionKingdom7_57e0ec43 (line 10278)
 translate ru UnionKingdom7_57e0ec43:
@@ -1166,12 +1166,12 @@ translate ru UnionKingdom7_4e4ed252:
 # UnionKingdom7_23bddce6 (line 10280)
 translate ru UnionKingdom7_23bddce6:
     # edm "Who says that your gifts to the poor are not simply bribes instead? Hoping to keep the peace by giving them morsels?"
-    edm ""
+    edm "Who says that your gifts to the poor are not simply bribes instead? Hoping to keep the peace by giving them morsels?"
 
 # UnionKingdom7_16360d5e (line 10281)
 translate ru UnionKingdom7_16360d5e:
     # edm "Hoping to avoid another insurection, this time from below?"
-    edm ""
+    edm "Hoping to avoid another insurection, this time from below?"
 
 # UnionKingdom7_e03bb377 (line 10282)
 translate ru UnionKingdom7_e03bb377:
@@ -1181,7 +1181,7 @@ translate ru UnionKingdom7_e03bb377:
 # UnionKingdom7_702649f0 (line 10283)
 translate ru UnionKingdom7_702649f0:
     # s "Perhaps, but even if I only pretend to help the poor, would you not say I had still done more than these others?"
-    s ""
+    s "Perhaps, but even if I only pretend to help the poor, would you not say I had still done more than these others?"
 
 # UnionKingdom7_dd99535a (line 10284)
 translate ru UnionKingdom7_dd99535a:
@@ -1191,12 +1191,12 @@ translate ru UnionKingdom7_dd99535a:
 # UnionKingdom7_08d207b2 (line 10285)
 translate ru UnionKingdom7_08d207b2:
     # edm "I suppose that is true."
-    edm ""
+    edm "I suppose that is true."
 
 # UnionKingdom7_94e01eb7 (line 10286)
 translate ru UnionKingdom7_94e01eb7:
     # s "And does a belly full of food feel any different to a poor child, whether it was gift or bribe?"
-    s ""
+    s "And does a belly full of food feel any different to a poor child, whether it was gift or bribe?"
 
 # UnionKingdom7_57be7d8e (line 10287)
 translate ru UnionKingdom7_57be7d8e:
@@ -1206,7 +1206,7 @@ translate ru UnionKingdom7_57be7d8e:
 # UnionKingdom7_b93838d7 (line 10288)
 translate ru UnionKingdom7_b93838d7:
     # edm "Fine, I will take you at your word for now."
-    edm ""
+    edm "Fine, I will take you at your word for now."
 
 # UnionKingdom7_7291fa69 (line 10289)
 translate ru UnionKingdom7_7291fa69:
@@ -1216,7 +1216,7 @@ translate ru UnionKingdom7_7291fa69:
 # UnionKingdom7_8b8e9109 (line 10290)
 translate ru UnionKingdom7_8b8e9109:
     # edm "From what I have been told, the Silent Queen intends to discuss a threat."
-    edm ""
+    edm "From what I have been told, the Silent Queen intends to discuss a threat."
 
 # UnionKingdom7_62d6b12c (line 10291)
 translate ru UnionKingdom7_62d6b12c:
@@ -1226,7 +1226,7 @@ translate ru UnionKingdom7_62d6b12c:
 # UnionKingdom7_6ac7d01d (line 10292)
 translate ru UnionKingdom7_6ac7d01d:
     # s "A threat?"
-    s ""
+    s "A threat?"
 
 # UnionKingdom7_6e5f90c3 (line 10293)
 translate ru UnionKingdom7_6e5f90c3:
@@ -1236,7 +1236,7 @@ translate ru UnionKingdom7_6e5f90c3:
 # UnionKingdom7_ae88285f (line 10294)
 translate ru UnionKingdom7_ae88285f:
     # s "What threat exactly?"
-    s ""
+    s "What threat exactly?"
 
 # UnionKingdom7_419b7d76 (line 10295)
 translate ru UnionKingdom7_419b7d76:
@@ -1246,7 +1246,7 @@ translate ru UnionKingdom7_419b7d76:
 # UnionKingdom7_5cfad49b (line 10296)
 translate ru UnionKingdom7_5cfad49b:
     # edm "None that I know of, but serious enough to call this council."
-    edm ""
+    edm "None that I know of, but serious enough to call this council."
 
 # UnionKingdom7_3da00947 (line 10297)
 translate ru UnionKingdom7_3da00947:
@@ -1256,7 +1256,7 @@ translate ru UnionKingdom7_3da00947:
 # UnionKingdom7_e7794e63 (line 10298)
 translate ru UnionKingdom7_e7794e63:
     # s "All the powers of the Union Kingdom are gathered here. What threat could possibly exist that isn't present in this room?"
-    s ""
+    s "All the powers of the Union Kingdom are gathered here. What threat could possibly exist that isn't present in this room?"
 
 # UnionKingdom7_66f771a3 (line 10299)
 translate ru UnionKingdom7_66f771a3:
@@ -1266,7 +1266,7 @@ translate ru UnionKingdom7_66f771a3:
 # UnionKingdom7_048b70e5 (line 10300)
 translate ru UnionKingdom7_048b70e5:
     # edm "The world is larger than just the Union Kingdoms."
-    edm ""
+    edm "The world is larger than just the Union Kingdoms."
 
 # UnionKingdom7_a1541939 (line 10301)
 translate ru UnionKingdom7_a1541939:
@@ -1276,7 +1276,7 @@ translate ru UnionKingdom7_a1541939:
 # UnionKingdom7_aefd72a0 (line 10302)
 translate ru UnionKingdom7_aefd72a0:
     # s "You suggest a threat from across the sea? Mythra?"
-    s ""
+    s "You suggest a threat from across the sea? Mythra?"
 
 # UnionKingdom7_ccd8a1a1 (line 10303)
 translate ru UnionKingdom7_ccd8a1a1:
@@ -1286,17 +1286,17 @@ translate ru UnionKingdom7_ccd8a1a1:
 # UnionKingdom7_e58acee2 (line 10304)
 translate ru UnionKingdom7_e58acee2:
     # edm "As you said, I don't particularly enjoy the games of shadows and secrets."
-    edm ""
+    edm "As you said, I don't particularly enjoy the games of shadows and secrets."
 
 # UnionKingdom7_c6cab2c8 (line 10305)
 translate ru UnionKingdom7_c6cab2c8:
     # edm "Had I known more than I do, I would have shared it with you. This is all that my spies have managed to uncover."
-    edm ""
+    edm "Had I known more than I do, I would have shared it with you. This is all that my spies have managed to uncover."
 
 # UnionKingdom7_a117ff8f (line 10306)
 translate ru UnionKingdom7_a117ff8f:
     # s "Then your spies have not uncovered much."
-    s ""
+    s "Then your spies have not uncovered much."
 
 # UnionKingdom7_c2259fb2 (line 10307)
 translate ru UnionKingdom7_c2259fb2:
@@ -1306,7 +1306,7 @@ translate ru UnionKingdom7_c2259fb2:
 # UnionKingdom7_802f63a1 (line 10308)
 translate ru UnionKingdom7_802f63a1:
     # edm "Did yours discover more?"
-    edm ""
+    edm "Did yours discover more?"
 
 # UnionKingdom7_ddced4c6 (line 10309)
 translate ru UnionKingdom7_ddced4c6:
@@ -1316,7 +1316,7 @@ translate ru UnionKingdom7_ddced4c6:
 # UnionKingdom7_f8fc9d4a (line 10310)
 translate ru UnionKingdom7_f8fc9d4a:
     # edm "Well, the hour has already drawn far too late for my taste. I will retire and we can speak on real matters tomorrow, during the council."
-    edm ""
+    edm "Well, the hour has already drawn far too late for my taste. I will retire and we can speak on real matters tomorrow, during the council."
 
 # UnionKingdom7_3ff032c5 (line 10311)
 translate ru UnionKingdom7_3ff032c5:
@@ -1326,7 +1326,7 @@ translate ru UnionKingdom7_3ff032c5:
 # UnionKingdom7_a1e371ed (line 10312)
 translate ru UnionKingdom7_a1e371ed:
     # s "Goodbye, sir Edmond. And thank you for what little you could share with me."
-    s ""
+    s "Goodbye, sir Edmond. And thank you for what little you could share with me."
 
 # UnionKingdom7_159acd3e (line 10313)
 translate ru UnionKingdom7_159acd3e:
@@ -1336,7 +1336,7 @@ translate ru UnionKingdom7_159acd3e:
 # UnionKingdom7_a1c71e24 (line 10314)
 translate ru UnionKingdom7_a1c71e24:
     # edm "I ask only that you return the favor when you learn anything."
-    edm ""
+    edm "I ask only that you return the favor when you learn anything."
 
 # UnionKingdom7_61a9de63 (line 10316)
 translate ru UnionKingdom7_61a9de63:

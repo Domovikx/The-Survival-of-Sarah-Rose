@@ -86,7 +86,7 @@ translate ru TheHollowWorldMage8_e8b9aad8:
 # TheHollowWorldMage8_7885d0ae (line 76366)
 translate ru TheHollowWorldMage8_7885d0ae:
     # r "You're back here again."
-    r ""
+    r "You're back here again."
 
 # TheHollowWorldMage8_2f4e3956 (line 76367)
 translate ru TheHollowWorldMage8_2f4e3956:
@@ -96,12 +96,12 @@ translate ru TheHollowWorldMage8_2f4e3956:
 # TheHollowWorldMage8_46baa5bf (line 76368)
 translate ru TheHollowWorldMage8_46baa5bf:
     # s "Round and round I go."
-    s ""
+    s "Round and round I go."
 
 # TheHollowWorldMage8_899281c9 (line 76369)
 translate ru TheHollowWorldMage8_899281c9:
     # s "But I never really seem to get anywhere with this."
-    s ""
+    s "But I never really seem to get anywhere with this."
 
 # TheHollowWorldMage8_4dd39441 (line 76370)
 translate ru TheHollowWorldMage8_4dd39441:
@@ -111,22 +111,22 @@ translate ru TheHollowWorldMage8_4dd39441:
 # TheHollowWorldMage8_f13c1754 (line 76371)
 translate ru TheHollowWorldMage8_f13c1754:
     # r "I wanted you to be prepared."
-    r ""
+    r "I wanted you to be prepared."
 
 # TheHollowWorldMage8_810e2009 (line 76372)
 translate ru TheHollowWorldMage8_810e2009:
     # s "Prepared."
-    s ""
+    s "Prepared."
 
 # TheHollowWorldMage8_948a26ef (line 76373)
 translate ru TheHollowWorldMage8_948a26ef:
     # r "For when you came to know of the knowledge within it."
-    r ""
+    r "For when you came to know of the knowledge within it."
 
 # TheHollowWorldMage8_d3607786 (line 76374)
 translate ru TheHollowWorldMage8_d3607786:
     # r "Hoping that you would be ready when the time came."
-    r ""
+    r "Hoping that you would be ready when the time came."
 
 # TheHollowWorldMage8_d6e43b17 (line 76375)
 translate ru TheHollowWorldMage8_d6e43b17:
@@ -136,17 +136,17 @@ translate ru TheHollowWorldMage8_d6e43b17:
 # TheHollowWorldMage8_65f9435b (line 76376)
 translate ru TheHollowWorldMage8_65f9435b:
     # s "Razaphel...I have done as you asked of me. As much as could be expected of anyone."
-    s ""
+    s "Razaphel...I have done as you asked of me. As much as could be expected of anyone."
 
 # TheHollowWorldMage8_1ca4dacf (line 76377)
 translate ru TheHollowWorldMage8_1ca4dacf:
     # s "And still you give me riddles."
-    s ""
+    s "And still you give me riddles."
 
 # TheHollowWorldMage8_976154de (line 76378)
 translate ru TheHollowWorldMage8_976154de:
     # s "I can't live like this. Always in the dark."
-    s ""
+    s "I can't live like this. Always in the dark."
 
 # TheHollowWorldMage8_9c8cf3a4 (line 76379)
 translate ru TheHollowWorldMage8_9c8cf3a4:
@@ -156,12 +156,12 @@ translate ru TheHollowWorldMage8_9c8cf3a4:
 # TheHollowWorldMage8_ba2dfb3e (line 76380)
 translate ru TheHollowWorldMage8_ba2dfb3e:
     # r "Perhaps I have been too harsh on you."
-    r ""
+    r "Perhaps I have been too harsh on you."
 
 # TheHollowWorldMage8_deccbad0 (line 76381)
 translate ru TheHollowWorldMage8_deccbad0:
     # r "Denied you answers that have long been owed to you."
-    r ""
+    r "Denied you answers that have long been owed to you."
 
 # TheHollowWorldMage8_ca2c52dc (line 76382)
 translate ru TheHollowWorldMage8_ca2c52dc:
@@ -171,7 +171,7 @@ translate ru TheHollowWorldMage8_ca2c52dc:
 # TheHollowWorldMage8_4cbde35d (line 76383)
 translate ru TheHollowWorldMage8_4cbde35d:
     # s "Then give them to me. Tell me the answers to the questions I don't even know how to ask."
-    s ""
+    s "Then give them to me. Tell me the answers to the questions I don't even know how to ask."
 
 # TheHollowWorldMage8_dbf34e6d (line 76384)
 translate ru TheHollowWorldMage8_dbf34e6d:
@@ -186,7 +186,7 @@ translate ru TheHollowWorldMage8_41c56512:
 # TheHollowWorldMage8_4f45f728 (line 76386)
 translate ru TheHollowWorldMage8_4f45f728:
     # r "I am afraid."
-    r ""
+    r "I am afraid."
 
 # TheHollowWorldMage8_568f36e1 (line 76387)
 translate ru TheHollowWorldMage8_568f36e1:
@@ -196,17 +196,17 @@ translate ru TheHollowWorldMage8_568f36e1:
 # TheHollowWorldMage8_c89ba717 (line 76388)
 translate ru TheHollowWorldMage8_c89ba717:
     # s "Afraid? I thought nothing scared you."
-    s ""
+    s "Afraid? I thought nothing scared you."
 
 # TheHollowWorldMage8_d30da603 (line 76389)
 translate ru TheHollowWorldMage8_d30da603:
     # r "You would be a fool to think so, Sarah. There are things that strike fear even in the likes of me."
-    r ""
+    r "You would be a fool to think so, Sarah. There are things that strike fear even in the likes of me."
 
 # TheHollowWorldMage8_4be51cb7 (line 76390)
 translate ru TheHollowWorldMage8_4be51cb7:
     # s "What are you afraid of?"
-    s ""
+    s "What are you afraid of?"
 
 # TheHollowWorldMage8_709e18ee (line 76391)
 translate ru TheHollowWorldMage8_709e18ee:
@@ -216,7 +216,7 @@ translate ru TheHollowWorldMage8_709e18ee:
 # TheHollowWorldMage8_4825cccd (line 76392)
 translate ru TheHollowWorldMage8_4825cccd:
     # r "You."
-    r ""
+    r "You."
 
 # TheHollowWorldMage8_a452416a (line 76393)
 translate ru TheHollowWorldMage8_a452416a:
@@ -226,7 +226,7 @@ translate ru TheHollowWorldMage8_a452416a:
 # TheHollowWorldMage8_5d690fab (line 76394)
 translate ru TheHollowWorldMage8_5d690fab:
     # s "You have nothing to fear from me, Razaphel. I hold no animus against you."
-    s ""
+    s "You have nothing to fear from me, Razaphel. I hold no animus against you."
 
 # TheHollowWorldMage8_99872c8e (line 76395)
 translate ru TheHollowWorldMage8_99872c8e:
@@ -236,17 +236,17 @@ translate ru TheHollowWorldMage8_99872c8e:
 # TheHollowWorldMage8_9acfc8f7 (line 76396)
 translate ru TheHollowWorldMage8_9acfc8f7:
     # r "I have moved in the shadows of your world for too long."
-    r ""
+    r "I have moved in the shadows of your world for too long."
 
 # TheHollowWorldMage8_bb14a643 (line 76397)
 translate ru TheHollowWorldMage8_bb14a643:
     # r "Long ago I imagined I could traverse this long arc, and often had I seen the path in is many fractious forms..."
-    r ""
+    r "Long ago I imagined I could traverse this long arc, and often had I seen the path in is many fractious forms..."
 
 # TheHollowWorldMage8_74279362 (line 76398)
 translate ru TheHollowWorldMage8_74279362:
     # r "Now, so close to the moment, I find my resolve to be as weak and soft as the day I started."
-    r ""
+    r "Now, so close to the moment, I find my resolve to be as weak and soft as the day I started."
 
 # TheHollowWorldMage8_1f681018 (line 76399)
 translate ru TheHollowWorldMage8_1f681018:
@@ -256,27 +256,27 @@ translate ru TheHollowWorldMage8_1f681018:
 # TheHollowWorldMage8_69bf1d01 (line 76400)
 translate ru TheHollowWorldMage8_69bf1d01:
     # s "You're not making any sense, Razaphel. We are friends, I promise I won't hurt you, ever."
-    s ""
+    s "You're not making any sense, Razaphel. We are friends, I promise I won't hurt you, ever."
 
 # TheHollowWorldMage8_04e16b73 (line 76401)
 translate ru TheHollowWorldMage8_04e16b73:
     # r "Forgive me."
-    r ""
+    r "Forgive me."
 
 # TheHollowWorldMage8_9219dda0 (line 76402)
 translate ru TheHollowWorldMage8_9219dda0:
     # r "You are right."
-    r ""
+    r "You are right."
 
 # TheHollowWorldMage8_53850538 (line 76403)
 translate ru TheHollowWorldMage8_53850538:
     # r "I have given you too many burdens, too many labors. The time for truth has come."
-    r ""
+    r "I have given you too many burdens, too many labors. The time for truth has come."
 
 # TheHollowWorldMage8_c0e020c8 (line 76404)
 translate ru TheHollowWorldMage8_c0e020c8:
     # r "Whichever direction the stone may fall, I shall know that I have prepared the earth as much as I could have."
-    r ""
+    r "Whichever direction the stone may fall, I shall know that I have prepared the earth as much as I could have."
 
 # TheHollowWorldMage8_89383d14 (line 76405)
 translate ru TheHollowWorldMage8_89383d14:
@@ -286,17 +286,17 @@ translate ru TheHollowWorldMage8_89383d14:
 # TheHollowWorldMage8_5158b414 (line 76406)
 translate ru TheHollowWorldMage8_5158b414:
     # r "Out in the desert, far in the east beyond the great city of Bagrad, lies a city by the name of Nauyziri."
-    r ""
+    r "Out in the desert, far in the east beyond the great city of Bagrad, lies a city by the name of Nauyziri."
 
 # TheHollowWorldMage8_732f04dd (line 76407)
 translate ru TheHollowWorldMage8_732f04dd:
     # r "Travel there, and we shall do away with this secrecy."
-    r ""
+    r "Travel there, and we shall do away with this secrecy."
 
 # TheHollowWorldMage8_5757e005 (line 76408)
 translate ru TheHollowWorldMage8_5757e005:
     # r "We will stand before one another as equals, and I shall hold back no more."
-    r ""
+    r "We will stand before one another as equals, and I shall hold back no more."
 
 # TheHollowWorldMage8_628e6e17 (line 76409)
 translate ru TheHollowWorldMage8_628e6e17:
@@ -306,27 +306,27 @@ translate ru TheHollowWorldMage8_628e6e17:
 # TheHollowWorldMage8_4901146a (line 76410)
 translate ru TheHollowWorldMage8_4901146a:
     # s "Nauyziri? I have never heard of that place."
-    s ""
+    s "Nauyziri? I have never heard of that place."
 
 # TheHollowWorldMage8_24b86dc3 (line 76411)
 translate ru TheHollowWorldMage8_24b86dc3:
     # r "It has long been forgotten, one of the first cities to fall to the advance of the desert, many centuries ago."
-    r ""
+    r "It has long been forgotten, one of the first cities to fall to the advance of the desert, many centuries ago."
 
 # TheHollowWorldMage8_f35673bd (line 76412)
 translate ru TheHollowWorldMage8_f35673bd:
     # r "None still live there, but a Mythran host now occupies it."
-    r ""
+    r "None still live there, but a Mythran host now occupies it."
 
 # TheHollowWorldMage8_2b36d67b (line 76413)
 translate ru TheHollowWorldMage8_2b36d67b:
     # s "A Mythran army? Why?"
-    s ""
+    s "A Mythran army? Why?"
 
 # TheHollowWorldMage8_3255238f (line 76414)
 translate ru TheHollowWorldMage8_3255238f:
     # r "They are looking for something, buried in the sands of the city. Something they have been searching for, for a long time now."
-    r ""
+    r "They are looking for something, buried in the sands of the city. Something they have been searching for, for a long time now."
 
 # TheHollowWorldMage8_83d47f90 (line 76415)
 translate ru TheHollowWorldMage8_83d47f90:
@@ -336,12 +336,12 @@ translate ru TheHollowWorldMage8_83d47f90:
 # TheHollowWorldMage8_9f9d71ce (line 76416)
 translate ru TheHollowWorldMage8_9f9d71ce:
     # s "How can I get there?"
-    s ""
+    s "How can I get there?"
 
 # TheHollowWorldMage8_8ca057ce (line 76417)
 translate ru TheHollowWorldMage8_8ca057ce:
     # r "There is a door in this house, and it will bring you there, same as it once brought you to Bagrad."
-    r ""
+    r "There is a door in this house, and it will bring you there, same as it once brought you to Bagrad."
 
 # TheHollowWorldMage8_c22534ab (line 76418)
 translate ru TheHollowWorldMage8_c22534ab:
@@ -351,17 +351,17 @@ translate ru TheHollowWorldMage8_c22534ab:
 # TheHollowWorldMage8_7319c268 (line 76419)
 translate ru TheHollowWorldMage8_7319c268:
     # s "What am I supposed to find when I go there?"
-    s ""
+    s "What am I supposed to find when I go there?"
 
 # TheHollowWorldMage8_b0a20062 (line 76420)
 translate ru TheHollowWorldMage8_b0a20062:
     # r "Go to Nauyziri. Buried beneath the sands you will find a black monolith."
-    r ""
+    r "Go to Nauyziri. Buried beneath the sands you will find a black monolith."
 
 # TheHollowWorldMage8_4ace3a74 (line 76421)
 translate ru TheHollowWorldMage8_4ace3a74:
     # r "Go there and we shall speak, free of riddles and obscurities."
-    r ""
+    r "Go there and we shall speak, free of riddles and obscurities."
 
 # TheHollowWorldMage8_41730365 (line 76422)
 translate ru TheHollowWorldMage8_41730365:
@@ -381,7 +381,7 @@ translate ru TheHollowWorldMage8_5391fadd:
 # TheHollowWorldMage8_873e117e (line 76425)
 translate ru TheHollowWorldMage8_873e117e:
     # s "Alright, I will go to this city, as you asked, but I won't be lead around again."
-    s ""
+    s "Alright, I will go to this city, as you asked, but I won't be lead around again."
 
 # TheHollowWorldMage8_88219b46 (line 76426)
 translate ru TheHollowWorldMage8_88219b46:
@@ -391,12 +391,12 @@ translate ru TheHollowWorldMage8_88219b46:
 # TheHollowWorldMage8_2fac9507 (line 76427)
 translate ru TheHollowWorldMage8_2fac9507:
     # s "No more games."
-    s ""
+    s "No more games."
 
 # TheHollowWorldMage8_6ecd79f0 (line 76428)
 translate ru TheHollowWorldMage8_6ecd79f0:
     # r "Only the truth."
-    r ""
+    r "Only the truth."
 
 # TheHollowWorldMage8_c61febb4 (line 76429)
 translate ru TheHollowWorldMage8_c61febb4:

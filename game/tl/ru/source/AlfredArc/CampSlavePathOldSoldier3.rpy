@@ -46,7 +46,7 @@ translate ru CampSlavePathOldSoldier3_f0ba6516:
 # CampSlavePathOldSoldier3_71d09704 (line 23259)
 translate ru CampSlavePathOldSoldier3_71d09704:
     # s "Did it take long for you to get used to living here? I mean, after growing up in Rosanna?"
-    s ""
+    s "Did it take long for you to get used to living here? I mean, after growing up in Rosanna?"
 
 # CampSlavePathOldSoldier3_7c3b238f (line 23260)
 translate ru CampSlavePathOldSoldier3_7c3b238f:
@@ -56,17 +56,17 @@ translate ru CampSlavePathOldSoldier3_7c3b238f:
 # CampSlavePathOldSoldier3_df0de8e0 (line 23261)
 translate ru CampSlavePathOldSoldier3_df0de8e0:
     # mary "At first it was hard. I thought about killing myself more often than I dared to admit."
-    mary ""
+    mary "At first it was hard. I thought about killing myself more often than I dared to admit."
 
 # CampSlavePathOldSoldier3_2f4d0b99 (line 23262)
 translate ru CampSlavePathOldSoldier3_2f4d0b99:
     # mary "But over time, I think a person can get used to just about anything."
-    mary ""
+    mary "But over time, I think a person can get used to just about anything."
 
 # CampSlavePathOldSoldier3_c76150e0 (line 23263)
 translate ru CampSlavePathOldSoldier3_c76150e0:
     # mary "Also, it's not always this...intense."
-    mary ""
+    mary "Also, it's not always this...intense."
 
 # CampSlavePathOldSoldier3_aa11932f (line 23264)
 translate ru CampSlavePathOldSoldier3_aa11932f:
@@ -81,22 +81,22 @@ translate ru CampSlavePathOldSoldier3_29ffd6e5:
 # CampSlavePathOldSoldier3_11b5a0ee (line 23266)
 translate ru CampSlavePathOldSoldier3_11b5a0ee:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # CampSlavePathOldSoldier3_cef6b66d (line 23267)
 translate ru CampSlavePathOldSoldier3_cef6b66d:
     # mary "Well, he's a soldier. So he goes from being out here to being on campaign."
-    mary ""
+    mary "Well, he's a soldier. So he goes from being out here to being on campaign."
 
 # CampSlavePathOldSoldier3_9492ce16 (line 23268)
 translate ru CampSlavePathOldSoldier3_9492ce16:
     # mary "Before he came back with you, he'd been gone for...maybe three months?"
-    mary ""
+    mary "Before he came back with you, he'd been gone for...maybe three months?"
 
 # CampSlavePathOldSoldier3_d8178ecf (line 23269)
 translate ru CampSlavePathOldSoldier3_d8178ecf:
     # mary "So I mean, he'll be here for a while, and when he's here, he wants to make up for the months out on the field, if you know what I mean."
-    mary ""
+    mary "So I mean, he'll be here for a while, and when he's here, he wants to make up for the months out on the field, if you know what I mean."
 
 # CampSlavePathOldSoldier3_8ad8afa8 (line 23270)
 translate ru CampSlavePathOldSoldier3_8ad8afa8:
@@ -111,7 +111,7 @@ translate ru CampSlavePathOldSoldier3_e0421a87:
 # CampSlavePathOldSoldier3_25634d63 (line 23272)
 translate ru CampSlavePathOldSoldier3_25634d63:
     # mary "And you're new, and young, so I think he's a bit obsessed with you."
-    mary ""
+    mary "And you're new, and young, so I think he's a bit obsessed with you."
 
 # CampSlavePathOldSoldier3_7e2e927e (line 23273)
 translate ru CampSlavePathOldSoldier3_7e2e927e:
@@ -121,7 +121,7 @@ translate ru CampSlavePathOldSoldier3_7e2e927e:
 # CampSlavePathOldSoldier3_34286902 (line 23274)
 translate ru CampSlavePathOldSoldier3_34286902:
     # s "Yeah, I guess."
-    s ""
+    s "Yeah, I guess."
 
 # CampSlavePathOldSoldier3_39d0e229 (line 23275)
 translate ru CampSlavePathOldSoldier3_39d0e229:
@@ -141,12 +141,12 @@ translate ru CampSlavePathOldSoldier3_e7a9b227:
 # CampSlavePathOldSoldier3_135c4ce0 (line 23278)
 translate ru CampSlavePathOldSoldier3_135c4ce0:
     # mary "Don't go falling in love now."
-    mary ""
+    mary "Don't go falling in love now."
 
 # CampSlavePathOldSoldier3_fd4115a2 (line 23279)
 translate ru CampSlavePathOldSoldier3_fd4115a2:
     # s "Don't be ridiculous!"
-    s ""
+    s "Don't be ridiculous!"
 
 # CampSlavePathOldSoldier3_ae709d55 (line 23280)
 translate ru CampSlavePathOldSoldier3_ae709d55:
@@ -156,12 +156,12 @@ translate ru CampSlavePathOldSoldier3_ae709d55:
 # CampSlavePathOldSoldier3_b0aab87c (line 23281)
 translate ru CampSlavePathOldSoldier3_b0aab87c:
     # mary "Still, it might not be love, but he and I, we made a relationship of some kind. A kind that works for each of us."
-    mary ""
+    mary "Still, it might not be love, but he and I, we made a relationship of some kind. A kind that works for each of us."
 
 # CampSlavePathOldSoldier3_3144ff50 (line 23282)
 translate ru CampSlavePathOldSoldier3_3144ff50:
     # mary "Trust me, there are worse existences out in this camp."
-    mary ""
+    mary "Trust me, there are worse existences out in this camp."
 
 # CampSlavePathOldSoldier3_563738fa (line 23283)
 translate ru CampSlavePathOldSoldier3_563738fa:
@@ -191,17 +191,17 @@ translate ru CampSlavePathOldSoldier3_6b9f1772:
 # CampSlavePathOldSoldier3_44c6ed24 (line 23288)
 translate ru CampSlavePathOldSoldier3_44c6ed24:
     # s "Mary..."
-    s ""
+    s "Mary..."
 
 # CampSlavePathOldSoldier3_d78db02c (line 23289)
 translate ru CampSlavePathOldSoldier3_d78db02c:
     # mary "Yes?"
-    mary ""
+    mary "Yes?"
 
 # CampSlavePathOldSoldier3_52a98cfe (line 23290)
 translate ru CampSlavePathOldSoldier3_52a98cfe:
     # s "Did you ever try to escape?"
-    s ""
+    s "Did you ever try to escape?"
 
 # CampSlavePathOldSoldier3_b249a498 (line 23291)
 translate ru CampSlavePathOldSoldier3_b249a498:
@@ -216,32 +216,32 @@ translate ru CampSlavePathOldSoldier3_5dddb3bb:
 # CampSlavePathOldSoldier3_127225ca (line 23293)
 translate ru CampSlavePathOldSoldier3_127225ca:
     # mary "Sarah...you go thinking like that and it's just gonna get you in trouble."
-    mary ""
+    mary "Sarah...you go thinking like that and it's just gonna get you in trouble."
 
 # CampSlavePathOldSoldier3_b2b4aabb (line 23294)
 translate ru CampSlavePathOldSoldier3_b2b4aabb:
     # mary "Outside of the city limits, there is nothing but desert for miles, stretching far beyond the horizon in each direction."
-    mary ""
+    mary "Outside of the city limits, there is nothing but desert for miles, stretching far beyond the horizon in each direction."
 
 # CampSlavePathOldSoldier3_59cada49 (line 23295)
 translate ru CampSlavePathOldSoldier3_59cada49:
     # mary "Even if you perfectly knew which direction to take, you still would never make it out alive without a horse."
-    mary ""
+    mary "Even if you perfectly knew which direction to take, you still would never make it out alive without a horse."
 
 # CampSlavePathOldSoldier3_7d50cceb (line 23296)
 translate ru CampSlavePathOldSoldier3_7d50cceb:
     # mary "And that's assuming they don't hunt you down, which they will."
-    mary ""
+    mary "And that's assuming they don't hunt you down, which they will."
 
 # CampSlavePathOldSoldier3_84146b63 (line 23297)
 translate ru CampSlavePathOldSoldier3_84146b63:
     # mary "And when they catch you...well, we can go down to the central market and you can see the corpses hanging from the gallows. That's what they do to the slaves that run."
-    mary ""
+    mary "And when they catch you...well, we can go down to the central market and you can see the corpses hanging from the gallows. That's what they do to the slaves that run."
 
 # CampSlavePathOldSoldier3_7b930259 (line 23298)
 translate ru CampSlavePathOldSoldier3_7b930259:
     # mary "I know this new situation is difficult, but running will only make things worse for you."
-    mary ""
+    mary "I know this new situation is difficult, but running will only make things worse for you."
 
 # CampSlavePathOldSoldier3_089d20bf (line 23299)
 translate ru CampSlavePathOldSoldier3_089d20bf:
@@ -251,27 +251,27 @@ translate ru CampSlavePathOldSoldier3_089d20bf:
 # CampSlavePathOldSoldier3_3cb2c5a0 (line 23300)
 translate ru CampSlavePathOldSoldier3_3cb2c5a0:
     # mary "You can make a life here. It might not be the one you dreamed of, but it's a life."
-    mary ""
+    mary "You can make a life here. It might not be the one you dreamed of, but it's a life."
 
 # CampSlavePathOldSoldier3_ce81bfd9 (line 23301)
 translate ru CampSlavePathOldSoldier3_ce81bfd9:
     # s "So I just stay here?"
-    s ""
+    s "So I just stay here?"
 
 # CampSlavePathOldSoldier3_7a11a0c0 (line 23302)
 translate ru CampSlavePathOldSoldier3_7a11a0c0:
     # s "I can still taste his cum in the back of my throat from earlier this morning. That's what you call a life?"
-    s ""
+    s "I can still taste his cum in the back of my throat from earlier this morning. That's what you call a life?"
 
 # CampSlavePathOldSoldier3_f98e3f73 (line 23303)
 translate ru CampSlavePathOldSoldier3_f98e3f73:
     # mary "I just don't want you to get hurt trying to do something foolish."
-    mary ""
+    mary "I just don't want you to get hurt trying to do something foolish."
 
 # CampSlavePathOldSoldier3_0706f0b4 (line 23304)
 translate ru CampSlavePathOldSoldier3_0706f0b4:
     # s "But if I stay, he'll mark me. And then it will be forever, even if I run, it will always be...on me."
-    s ""
+    s "But if I stay, he'll mark me. And then it will be forever, even if I run, it will always be...on me."
 
 # CampSlavePathOldSoldier3_a6d44fe3 (line 23305)
 translate ru CampSlavePathOldSoldier3_a6d44fe3:
@@ -281,12 +281,12 @@ translate ru CampSlavePathOldSoldier3_a6d44fe3:
 # CampSlavePathOldSoldier3_ef3d6cb5 (line 23306)
 translate ru CampSlavePathOldSoldier3_ef3d6cb5:
     # mary "Yes...I tried to speak to him about it, but he's set his mind on it."
-    mary ""
+    mary "Yes...I tried to speak to him about it, but he's set his mind on it."
 
 # CampSlavePathOldSoldier3_a34ee996 (line 23307)
 translate ru CampSlavePathOldSoldier3_a34ee996:
     # s "How long do I have before he does?"
-    s ""
+    s "How long do I have before he does?"
 
 # CampSlavePathOldSoldier3_f962bec2 (line 23308)
 translate ru CampSlavePathOldSoldier3_f962bec2:
@@ -296,22 +296,22 @@ translate ru CampSlavePathOldSoldier3_f962bec2:
 # CampSlavePathOldSoldier3_4300fe42 (line 23309)
 translate ru CampSlavePathOldSoldier3_4300fe42:
     # mary "I've stretched it out long enough. I was hoping I could push it back until he'd be send out on the next campaign, but that doesn't seem to be happening."
-    mary ""
+    mary "I've stretched it out long enough. I was hoping I could push it back until he'd be send out on the next campaign, but that doesn't seem to be happening."
 
 # CampSlavePathOldSoldier3_306b3b19 (line 23310)
 translate ru CampSlavePathOldSoldier3_306b3b19:
     # mary "He's told me to go to the upper market, he already reserved a batch of ink and needles, I only have to pick them up. I can't stretch it much longer."
-    mary ""
+    mary "He's told me to go to the upper market, he already reserved a batch of ink and needles, I only have to pick them up. I can't stretch it much longer."
 
 # CampSlavePathOldSoldier3_5876fff2 (line 23311)
 translate ru CampSlavePathOldSoldier3_5876fff2:
     # s "So how long do I have?"
-    s ""
+    s "So how long do I have?"
 
 # CampSlavePathOldSoldier3_cbb0d913 (line 23312)
 translate ru CampSlavePathOldSoldier3_cbb0d913:
     # mary "I think...only a few days from now."
-    mary ""
+    mary "I think...only a few days from now."
 
 # CampSlavePathOldSoldier3_bc3864df (line 23313)
 translate ru CampSlavePathOldSoldier3_bc3864df:
@@ -351,7 +351,7 @@ translate ru CampSlavePathOldSoldier3_504b5bbd:
 # CampSlavePathOldSoldier3_7ad54f8e (line 23320)
 translate ru CampSlavePathOldSoldier3_7ad54f8e:
     # s "What do I do?"
-    s ""
+    s "What do I do?"
 
 # CampSlavePathOldSoldier3_5aeaee33 (line 23321)
 translate ru CampSlavePathOldSoldier3_5aeaee33:

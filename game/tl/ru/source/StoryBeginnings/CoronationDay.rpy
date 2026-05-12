@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: CoronationDay
-# Total blocks: 41
+# Total blocks: 39
 
 # CoronationDay_eff132da (line 2133)
 translate ru CoronationDay_eff132da:
@@ -101,7 +101,7 @@ translate ru CoronationDay_f1309191:
 # CoronationDay_7893e052 (line 2182)
 translate ru CoronationDay_7893e052:
     # t "I do."
-    t ""
+    t "I do."
 
 # CoronationDay_bd06690e (line 2183)
 translate ru CoronationDay_bd06690e:
@@ -111,7 +111,7 @@ translate ru CoronationDay_bd06690e:
 # CoronationDay_bc60e357 (line 2184)
 translate ru CoronationDay_bc60e357:
     # t "Should I speak falsely, I pray that the gods strike me down as I stand."
-    t ""
+    t "Should I speak falsely, I pray that the gods strike me down as I stand."
 
 # CoronationDay_56fd0511 (line 2185)
 translate ru CoronationDay_56fd0511:
@@ -197,14 +197,4 @@ translate ru CoronationDay_c7fe94a7:
 translate ru CoronationDay_e2a2d561:
     # "On the other end, she saw Varga, kneeled down, speaking to the three children, too busy or unaware that he should be joining the horde of nobility swarming Thomas."
     ""
-
-# CoronationDay_599f80a9 (line 2210)
-translate ru CoronationDay_599f80a9:
-    # "Approach Marion."
-    "Approach Marion." ""
-
-# CoronationDay_3b2edd43 (line 2267)
-translate ru CoronationDay_3b2edd43:
-    # "Approach Varga."
-    "Approach Varga." ""
 

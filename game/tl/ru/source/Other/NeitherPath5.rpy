@@ -41,7 +41,7 @@ translate ru NeitherPath5_21a89f21:
 # NeitherPath5_cf7b73ef (line 6283)
 translate ru NeitherPath5_cf7b73ef:
     # kr "Princess Sarah, there has been a development..."
-    kr ""
+    kr "Princess Sarah, there has been a development..."
 
 # NeitherPath5_95712af0 (line 6284)
 translate ru NeitherPath5_95712af0:
@@ -56,17 +56,17 @@ translate ru NeitherPath5_b375af0f:
 # NeitherPath5_63abde46 (line 6286)
 translate ru NeitherPath5_63abde46:
     # s "Tell me, Kravel."
-    s ""
+    s "Tell me, Kravel."
 
 # NeitherPath5_12852759 (line 6287)
 translate ru NeitherPath5_12852759:
     # kr "Princess...I..."
-    kr ""
+    kr "Princess...I..."
 
 # NeitherPath5_0c8f826c (line 6288)
 translate ru NeitherPath5_0c8f826c:
     # s "Come on, don't hold back with me."
-    s ""
+    s "Come on, don't hold back with me."
 
 # NeitherPath5_3dde3e9d (line 6289)
 translate ru NeitherPath5_3dde3e9d:
@@ -76,7 +76,7 @@ translate ru NeitherPath5_3dde3e9d:
 # NeitherPath5_7277a368 (line 6290)
 translate ru NeitherPath5_7277a368:
     # kr "A message has arrived...from Marion."
-    kr ""
+    kr "A message has arrived...from Marion."
 
 # NeitherPath5_c0c8af97 (line 6291)
 translate ru NeitherPath5_c0c8af97:
@@ -91,22 +91,22 @@ translate ru NeitherPath5_11c8f7fc:
 # NeitherPath5_80de30b5 (line 6293)
 translate ru NeitherPath5_80de30b5:
     # s "What does it say?"
-    s ""
+    s "What does it say?"
 
 # NeitherPath5_b0f4ee75 (line 6294)
 translate ru NeitherPath5_b0f4ee75:
     # kr "Sarah, the message is...it's not the concern."
-    kr ""
+    kr "Sarah, the message is...it's not the concern."
 
 # NeitherPath5_dd2d5fce (line 6295)
 translate ru NeitherPath5_dd2d5fce:
     # kr "Accompanying the letter was...I struggle to speak of it, but I must..."
-    kr ""
+    kr "Accompanying the letter was...I struggle to speak of it, but I must..."
 
 # NeitherPath5_b53d2577 (line 6296)
 translate ru NeitherPath5_b53d2577:
     # kr "A finger, bearing a ring."
-    kr ""
+    kr "A finger, bearing a ring."
 
 # NeitherPath5_73801e64 (line 6297)
 translate ru NeitherPath5_73801e64:
@@ -116,7 +116,7 @@ translate ru NeitherPath5_73801e64:
 # NeitherPath5_828ea160 (line 6298)
 translate ru NeitherPath5_828ea160:
     # s "What...what do you mean..."
-    s ""
+    s "What...what do you mean..."
 
 # NeitherPath5_0ffff04b (line 6299)
 translate ru NeitherPath5_0ffff04b:
@@ -126,7 +126,7 @@ translate ru NeitherPath5_0ffff04b:
 # NeitherPath5_261ee83b (line 6300)
 translate ru NeitherPath5_261ee83b:
     # kr "My princess...it is your brother's finger and his seal ring."
-    kr ""
+    kr "My princess...it is your brother's finger and his seal ring."
 
 # NeitherPath5_4cc2c900 (line 6301)
 translate ru NeitherPath5_4cc2c900:
@@ -136,7 +136,7 @@ translate ru NeitherPath5_4cc2c900:
 # NeitherPath5_0c32a591 (line 6302)
 translate ru NeitherPath5_0c32a591:
     # kr "My heart breaks to tell you this, but I could no more keep it secret from you either."
-    kr ""
+    kr "My heart breaks to tell you this, but I could no more keep it secret from you either."
 
 # NeitherPath5_2d599333 (line 6303)
 translate ru NeitherPath5_2d599333:
@@ -166,32 +166,32 @@ translate ru NeitherPath5_6467285f:
 # NeitherPath5_89ae2ebd (line 6308)
 translate ru NeitherPath5_89ae2ebd:
     # s "So this is what he has fallen to? Torture?"
-    s ""
+    s "So this is what he has fallen to? Torture?"
 
 # NeitherPath5_99f261c0 (line 6309)
 translate ru NeitherPath5_99f261c0:
     # s "Thomas! My brother! Your king! They've abandoned any sense of honour or decency, for what!?"
-    s ""
+    s "Thomas! My brother! Your king! They've abandoned any sense of honour or decency, for what!?"
 
 # NeitherPath5_00af37da (line 6310)
 translate ru NeitherPath5_00af37da:
     # kr "Lady Sarah, he seeks to bait you."
-    kr ""
+    kr "Lady Sarah, he seeks to bait you."
 
 # NeitherPath5_a3d661f1 (line 6311)
 translate ru NeitherPath5_a3d661f1:
     # kr "Marion understands that his army holds a strong defensive advantage."
-    kr ""
+    kr "Marion understands that his army holds a strong defensive advantage."
 
 # NeitherPath5_44cb1f0f (line 6312)
 translate ru NeitherPath5_44cb1f0f:
     # kr "He wants to lure you into attacking his stronghold. It is the same reason he has carried out these raids."
-    kr ""
+    kr "He wants to lure you into attacking his stronghold. It is the same reason he has carried out these raids."
 
 # NeitherPath5_6e80d225 (line 6313)
 translate ru NeitherPath5_6e80d225:
     # kr "He wants to play on your better nature, seduce you into making a mistake."
-    kr ""
+    kr "He wants to play on your better nature, seduce you into making a mistake."
 
 # NeitherPath5_b27137b0 (line 6314)
 translate ru NeitherPath5_b27137b0:
@@ -201,22 +201,22 @@ translate ru NeitherPath5_b27137b0:
 # NeitherPath5_6045f9b4 (line 6315)
 translate ru NeitherPath5_6045f9b4:
     # s "Then he knows me well!"
-    s ""
+    s "Then he knows me well!"
 
 # NeitherPath5_782e2c7a (line 6316)
 translate ru NeitherPath5_782e2c7a:
     # s "This war cannot continue. The people will not bear it, nor will my brother."
-    s ""
+    s "This war cannot continue. The people will not bear it, nor will my brother."
 
 # NeitherPath5_d7c459fe (line 6317)
 translate ru NeitherPath5_d7c459fe:
     # s "What is the state of our army?"
-    s ""
+    s "What is the state of our army?"
 
 # NeitherPath5_93cfa2ac (line 6318)
 translate ru NeitherPath5_93cfa2ac:
     # kr "We are nearly finished with the final preparations. Perhaps three more weeks."
-    kr ""
+    kr "We are nearly finished with the final preparations. Perhaps three more weeks."
 
 # NeitherPath5_f1b5a939 (line 6319)
 translate ru NeitherPath5_f1b5a939:
@@ -226,7 +226,7 @@ translate ru NeitherPath5_f1b5a939:
 # NeitherPath5_74147461 (line 6320)
 translate ru NeitherPath5_74147461:
     # s "You have one! Have the army ready by then."
-    s ""
+    s "You have one! Have the army ready by then."
 
 # NeitherPath5_d6812f53 (line 6321)
 translate ru NeitherPath5_d6812f53:
@@ -236,7 +236,7 @@ translate ru NeitherPath5_d6812f53:
 # NeitherPath5_c1ac3142 (line 6322)
 translate ru NeitherPath5_c1ac3142:
     # kr "Yes, Princess. I will convene with Lord Varga and see to an expedited preparation."
-    kr ""
+    kr "Yes, Princess. I will convene with Lord Varga and see to an expedited preparation."
 
 # NeitherPath5_2a9472f4 (line 6323)
 translate ru NeitherPath5_2a9472f4:

@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: LifeInRahayal2
-# Total blocks: 100
+# Total blocks: 98
 
 # LifeInRahayal2_9534ca1e (line 27801)
 translate ru LifeInRahayal2_9534ca1e:
@@ -396,7 +396,7 @@ translate ru LifeInRahayal2_2be8c20d:
 # LifeInRahayal2_4a00e756 (line 27891)
 translate ru LifeInRahayal2_4a00e756:
     # s "Why are you leaving?"
-    s ""
+    s "Why are you leaving?"
 
 # LifeInRahayal2_dcf5d502 (line 27892)
 translate ru LifeInRahayal2_dcf5d502:
@@ -406,7 +406,7 @@ translate ru LifeInRahayal2_dcf5d502:
 # LifeInRahayal2_d7267da4 (line 27893)
 translate ru LifeInRahayal2_d7267da4:
     # s "Mad? Why?"
-    s ""
+    s "Mad? Why?"
 
 # LifeInRahayal2_8c02b299 (line 27894)
 translate ru LifeInRahayal2_8c02b299:
@@ -492,14 +492,4 @@ translate ru LifeInRahayal2_ba3cd9fe:
 translate ru LifeInRahayal2_285d2c88:
     # "Official" "How about it? We got kitchen work as well, I promise it will pay well!"
     ""
-
-# LifeInRahayal2_3b968afd (line 27913)
-translate ru LifeInRahayal2_3b968afd:
-    # "Take the servant job"
-    "Take the servant job" ""
-
-# LifeInRahayal2_3edcd939 (line 27915)
-translate ru LifeInRahayal2_3edcd939:
-    # "Refuse"
-    "Refuse" ""
 

@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: NeitherPath6
-# Total blocks: 180
+# Total blocks: 176
 
 # NeitherPath6_145c5213 (line 6358)
 translate ru NeitherPath6_145c5213:
@@ -121,12 +121,12 @@ translate ru NeitherPath6_362dcb2b:
 # NeitherPath6_12a34171 (line 6393)
 translate ru NeitherPath6_12a34171:
     # s "Hello, lord Varga."
-    s ""
+    s "Hello, lord Varga."
 
 # NeitherPath6_f0fd4b32 (line 6394)
 translate ru NeitherPath6_f0fd4b32:
     # v "How did you know it was me?"
-    v ""
+    v "How did you know it was me?"
 
 # NeitherPath6_6c29a286 (line 6395)
 translate ru NeitherPath6_6c29a286:
@@ -136,7 +136,7 @@ translate ru NeitherPath6_6c29a286:
 # NeitherPath6_9996c86d (line 6396)
 translate ru NeitherPath6_9996c86d:
     # s "Nobody else would be foolish enough to bother a brooding princess."
-    s ""
+    s "Nobody else would be foolish enough to bother a brooding princess."
 
 # NeitherPath6_e0f040c4 (line 6397)
 translate ru NeitherPath6_e0f040c4:
@@ -146,7 +146,7 @@ translate ru NeitherPath6_e0f040c4:
 # NeitherPath6_361641aa (line 6398)
 translate ru NeitherPath6_361641aa:
     # v "Ooh, am I in trouble?"
-    v ""
+    v "Ooh, am I in trouble?"
 
 # NeitherPath6_36e5c90d (line 6399)
 translate ru NeitherPath6_36e5c90d:
@@ -156,7 +156,7 @@ translate ru NeitherPath6_36e5c90d:
 # NeitherPath6_318d7250 (line 6400)
 translate ru NeitherPath6_318d7250:
     # s "Not if you win this war for me."
-    s ""
+    s "Not if you win this war for me."
 
 # NeitherPath6_c93fc252 (line 6401)
 translate ru NeitherPath6_c93fc252:
@@ -166,12 +166,12 @@ translate ru NeitherPath6_c93fc252:
 # NeitherPath6_b1a45c5d (line 6402)
 translate ru NeitherPath6_b1a45c5d:
     # v "Sarah. You know that I would do anything to keep you safe."
-    v ""
+    v "Sarah. You know that I would do anything to keep you safe."
 
 # NeitherPath6_2f13bdfc (line 6403)
 translate ru NeitherPath6_2f13bdfc:
     # v "So trust me, I wouldn't be leading the army today if I thought we would lose."
-    v ""
+    v "So trust me, I wouldn't be leading the army today if I thought we would lose."
 
 # NeitherPath6_2c652cb4 (line 6404)
 translate ru NeitherPath6_2c652cb4:
@@ -181,12 +181,12 @@ translate ru NeitherPath6_2c652cb4:
 # NeitherPath6_3b8f96f0 (line 6405)
 translate ru NeitherPath6_3b8f96f0:
     # s "So you think we can win?"
-    s ""
+    s "So you think we can win?"
 
 # NeitherPath6_5f5aaf76 (line 6406)
 translate ru NeitherPath6_5f5aaf76:
     # s "Have you seen that abomination of a fortress?"
-    s ""
+    s "Have you seen that abomination of a fortress?"
 
 # NeitherPath6_fe82e422 (line 6407)
 translate ru NeitherPath6_fe82e422:
@@ -196,32 +196,32 @@ translate ru NeitherPath6_fe82e422:
 # NeitherPath6_9b3ea742 (line 6408)
 translate ru NeitherPath6_9b3ea742:
     # v "You're right. It's like nothing I've ever seen before."
-    v ""
+    v "You're right. It's like nothing I've ever seen before."
 
 # NeitherPath6_c5cb5d30 (line 6409)
 translate ru NeitherPath6_c5cb5d30:
     # v "But it's also just a fort."
-    v ""
+    v "But it's also just a fort."
 
 # NeitherPath6_b34f9e87 (line 6410)
 translate ru NeitherPath6_b34f9e87:
     # v "They like to pretend that it has never been conquered since it was first constructed, but that's not true."
-    v ""
+    v "They like to pretend that it has never been conquered since it was first constructed, but that's not true."
 
 # NeitherPath6_59394b77 (line 6411)
 translate ru NeitherPath6_59394b77:
     # v "The history books show it's been conquered many times since, it's just that every family that drives out the other one, pretends that they've lived there forever."
-    v ""
+    v "The history books show it's been conquered many times since, it's just that every family that drives out the other one, pretends that they've lived there forever."
 
 # NeitherPath6_5b889a84 (line 6412)
 translate ru NeitherPath6_5b889a84:
     # v "Before the Achillea family took it, some other family did."
-    v ""
+    v "Before the Achillea family took it, some other family did."
 
 # NeitherPath6_e852d630 (line 6413)
 translate ru NeitherPath6_e852d630:
     # v "And after them, some other family will."
-    v ""
+    v "And after them, some other family will."
 
 # NeitherPath6_920914e7 (line 6414)
 translate ru NeitherPath6_920914e7:
@@ -231,7 +231,7 @@ translate ru NeitherPath6_920914e7:
 # NeitherPath6_246101cf (line 6415)
 translate ru NeitherPath6_246101cf:
     # s "You've taken to reading, have you?"
-    s ""
+    s "You've taken to reading, have you?"
 
 # NeitherPath6_2d5e6674 (line 6416)
 translate ru NeitherPath6_2d5e6674:
@@ -241,7 +241,7 @@ translate ru NeitherPath6_2d5e6674:
 # NeitherPath6_b318cebf (line 6417)
 translate ru NeitherPath6_b318cebf:
     # v "Maybe, a bit here and there. I dobut I can ever go back to living on a farm again."
-    v ""
+    v "Maybe, a bit here and there. I dobut I can ever go back to living on a farm again."
 
 # NeitherPath6_fdde2032 (line 6418)
 translate ru NeitherPath6_fdde2032:
@@ -251,12 +251,12 @@ translate ru NeitherPath6_fdde2032:
 # NeitherPath6_0867c6ee (line 6419)
 translate ru NeitherPath6_0867c6ee:
     # s "I know that you will have to take part in the battle..."
-    s ""
+    s "I know that you will have to take part in the battle..."
 
 # NeitherPath6_ce67f1d8 (line 6420)
 translate ru NeitherPath6_ce67f1d8:
     # s "But please, tell me that you will stay safe."
-    s ""
+    s "But please, tell me that you will stay safe."
 
 # NeitherPath6_0d17e421 (line 6421)
 translate ru NeitherPath6_0d17e421:
@@ -266,7 +266,7 @@ translate ru NeitherPath6_0d17e421:
 # NeitherPath6_314116d5 (line 6422)
 translate ru NeitherPath6_314116d5:
     # v "I'll survive, trust me on that too."
-    v ""
+    v "I'll survive, trust me on that too."
 
 # NeitherPath6_7ac2674b (line 6423)
 translate ru NeitherPath6_7ac2674b:
@@ -281,7 +281,7 @@ translate ru NeitherPath6_781c0360:
 # NeitherPath6_5d904bb5 (line 6425)
 translate ru NeitherPath6_5d904bb5:
     # s "So, have you settled the strategy yet?"
-    s ""
+    s "So, have you settled the strategy yet?"
 
 # NeitherPath6_0c0fbaa4 (line 6426)
 translate ru NeitherPath6_0c0fbaa4:
@@ -291,52 +291,52 @@ translate ru NeitherPath6_0c0fbaa4:
 # NeitherPath6_bb44289f (line 6427)
 translate ru NeitherPath6_bb44289f:
     # v "Almost. Some details are shifting, but that's always the case. The actual land always seems different from the maps, so we improvise."
-    v ""
+    v "Almost. Some details are shifting, but that's always the case. The actual land always seems different from the maps, so we improvise."
 
 # NeitherPath6_79efe640 (line 6428)
 translate ru NeitherPath6_79efe640:
     # v "A head-on assault on the fort would be a disaster."
-    v ""
+    v "A head-on assault on the fort would be a disaster."
 
 # NeitherPath6_a852232c (line 6429)
 translate ru NeitherPath6_a852232c:
     # v "Our troops would be stuck in the killing fields out front, their archers raining down endless arrows with nowhere to hide."
-    v ""
+    v "Our troops would be stuck in the killing fields out front, their archers raining down endless arrows with nowhere to hide."
 
 # NeitherPath6_773d1129 (line 6430)
 translate ru NeitherPath6_773d1129:
     # v "So we move up our artillery to the higher hills off to the side."
-    v ""
+    v "So we move up our artillery to the higher hills off to the side."
 
 # NeitherPath6_556eff39 (line 6431)
 translate ru NeitherPath6_556eff39:
     # v "The increased elevation, combined with new innovations for our siege weapons, will allow them to just barely reach the walls of the fortress."
-    v ""
+    v "The increased elevation, combined with new innovations for our siege weapons, will allow them to just barely reach the walls of the fortress."
 
 # NeitherPath6_eb537839 (line 6432)
 translate ru NeitherPath6_eb537839:
     # s "Then what?"
-    s ""
+    s "Then what?"
 
 # NeitherPath6_e027275e (line 6433)
 translate ru NeitherPath6_e027275e:
     # v "Then we hammer them. Day and night, all shots landing on the western walls."
-    v ""
+    v "Then we hammer them. Day and night, all shots landing on the western walls."
 
 # NeitherPath6_d5f27116 (line 6434)
 translate ru NeitherPath6_d5f27116:
     # v "Those have been the most poorly maintained, plus, that's where their supply room is."
-    v ""
+    v "Those have been the most poorly maintained, plus, that's where their supply room is."
 
 # NeitherPath6_654a2ecd (line 6435)
 translate ru NeitherPath6_654a2ecd:
     # v "Our spies inside the keep have told us that one of the store rooms is filled to the brim with oil, meant to pour down on our soldiers if we charge."
-    v ""
+    v "Our spies inside the keep have told us that one of the store rooms is filled to the brim with oil, meant to pour down on our soldiers if we charge."
 
 # NeitherPath6_67d6b9fd (line 6436)
 translate ru NeitherPath6_67d6b9fd:
     # v "But if we manage to score a clean hit with one of the cannons, it could turn the entire fortress into an inferno."
-    v ""
+    v "But if we manage to score a clean hit with one of the cannons, it could turn the entire fortress into an inferno."
 
 # NeitherPath6_57e1fa9f (line 6437)
 translate ru NeitherPath6_57e1fa9f:
@@ -346,12 +346,12 @@ translate ru NeitherPath6_57e1fa9f:
 # NeitherPath6_8c0c83df (line 6438)
 translate ru NeitherPath6_8c0c83df:
     # s "What about Thomas?"
-    s ""
+    s "What about Thomas?"
 
 # NeitherPath6_8494a9eb (line 6439)
 translate ru NeitherPath6_8494a9eb:
     # s "How can we keep him safe?"
-    s ""
+    s "How can we keep him safe?"
 
 # NeitherPath6_1df1fe04 (line 6440)
 translate ru NeitherPath6_1df1fe04:
@@ -361,22 +361,22 @@ translate ru NeitherPath6_1df1fe04:
 # NeitherPath6_c968c131 (line 6441)
 translate ru NeitherPath6_c968c131:
     # v "Well, we know they keep him somewhere near the royal quarters, down in the dungeons of their court room."
-    v ""
+    v "Well, we know they keep him somewhere near the royal quarters, down in the dungeons of their court room."
 
 # NeitherPath6_e8e440c3 (line 6442)
 translate ru NeitherPath6_e8e440c3:
     # v "It's the safest part of the entire fortress."
-    v ""
+    v "It's the safest part of the entire fortress."
 
 # NeitherPath6_f01c3b37 (line 6443)
 translate ru NeitherPath6_f01c3b37:
     # v "Our siege will last some time, and we don't have enough men on the inside to stage an escape."
-    v ""
+    v "Our siege will last some time, and we don't have enough men on the inside to stage an escape."
 
 # NeitherPath6_5939bb04 (line 6444)
 translate ru NeitherPath6_5939bb04:
     # v "I wish I could be more optimistic, but the truth is, what happens to Thomas depends on how desperate Marion will get."
-    v ""
+    v "I wish I could be more optimistic, but the truth is, what happens to Thomas depends on how desperate Marion will get."
 
 # NeitherPath6_b3aa14c6 (line 6445)
 translate ru NeitherPath6_b3aa14c6:
@@ -396,12 +396,12 @@ translate ru NeitherPath6_f6efd48a:
 # NeitherPath6_978cd4bf (line 6448)
 translate ru NeitherPath6_978cd4bf:
     # s "Go, see to the army. I'll be fine here."
-    s ""
+    s "Go, see to the army. I'll be fine here."
 
 # NeitherPath6_3d79b699 (line 6449)
 translate ru NeitherPath6_3d79b699:
     # v "Are you sure?"
-    v ""
+    v "Are you sure?"
 
 # NeitherPath6_40a6140a (line 6450)
 translate ru NeitherPath6_40a6140a:
@@ -411,7 +411,7 @@ translate ru NeitherPath6_40a6140a:
 # NeitherPath6_e2aa3cfc (line 6451)
 translate ru NeitherPath6_e2aa3cfc:
     # s "I can stand the cold."
-    s ""
+    s "I can stand the cold."
 
 # NeitherPath6_3a7a0e25 (line 6452)
 translate ru NeitherPath6_3a7a0e25:
@@ -591,7 +591,7 @@ translate ru NeitherPath6_a1d74b12:
 # NeitherPath6_14ff7127 (line 6501)
 translate ru NeitherPath6_14ff7127:
     # s "Stay safe."
-    s ""
+    s "Stay safe."
 
 # NeitherPath6_624fb3ca (line 6502)
 translate ru NeitherPath6_624fb3ca:
@@ -736,12 +736,12 @@ translate ru NeitherPath6_c3ee2a6a:
 # NeitherPath6_a3878151 (line 6562)
 translate ru NeitherPath6_a3878151:
     # m "Where is she!"
-    m ""
+    m "Where is she!"
 
 # NeitherPath6_e1500382 (line 6563)
 translate ru NeitherPath6_e1500382:
     # m "Where is Sarah?!"
-    m ""
+    m "Where is Sarah?!"
 
 # NeitherPath6_3dde6065 (line 6564)
 translate ru NeitherPath6_3dde6065:
@@ -756,17 +756,17 @@ translate ru NeitherPath6_f20022ee:
 # NeitherPath6_0e39bc5e (line 6566)
 translate ru NeitherPath6_0e39bc5e:
     # m "There you are!"
-    m ""
+    m "There you are!"
 
 # NeitherPath6_0e729217 (line 6567)
 translate ru NeitherPath6_0e729217:
     # s "Hello Marion."
-    s ""
+    s "Hello Marion."
 
 # NeitherPath6_c01599cc (line 6568)
 translate ru NeitherPath6_c01599cc:
     # m "If your fucking soldiers so much as make a move at me, I'll pull this blade through his neck up to his spine."
-    m ""
+    m "If your fucking soldiers so much as make a move at me, I'll pull this blade through his neck up to his spine."
 
 # NeitherPath6_591be385 (line 6569)
 translate ru NeitherPath6_591be385:
@@ -776,7 +776,7 @@ translate ru NeitherPath6_591be385:
 # NeitherPath6_84d0e8d7 (line 6570)
 translate ru NeitherPath6_84d0e8d7:
     # t "Sis..."
-    t ""
+    t "Sis..."
 
 # NeitherPath6_4f73ec09 (line 6571)
 translate ru NeitherPath6_4f73ec09:
@@ -791,7 +791,7 @@ translate ru NeitherPath6_644d81c6:
 # NeitherPath6_5dc00ac9 (line 6573)
 translate ru NeitherPath6_5dc00ac9:
     # m "Shut the fuck up."
-    m ""
+    m "Shut the fuck up."
 
 # NeitherPath6_2e484710 (line 6575)
 translate ru NeitherPath6_2e484710:
@@ -811,12 +811,12 @@ translate ru NeitherPath6_e9cc5d1d:
 # NeitherPath6_c157e042 (line 6578)
 translate ru NeitherPath6_c157e042:
     # s "Marion, it's over."
-    s ""
+    s "Marion, it's over."
 
 # NeitherPath6_7fb64a9f (line 6579)
 translate ru NeitherPath6_7fb64a9f:
     # s "If you hurt my brother, it won't end well for you."
-    s ""
+    s "If you hurt my brother, it won't end well for you."
 
 # NeitherPath6_57f0b111 (line 6580)
 translate ru NeitherPath6_57f0b111:
@@ -826,17 +826,17 @@ translate ru NeitherPath6_57f0b111:
 # NeitherPath6_b16dd5cd (line 6581)
 translate ru NeitherPath6_b16dd5cd:
     # m "You and your family have exploited my family for centuries."
-    m ""
+    m "You and your family have exploited my family for centuries."
 
 # NeitherPath6_5ba1dda7 (line 6582)
 translate ru NeitherPath6_5ba1dda7:
     # m "Why do you think it was so easy to convince the other old houses to take up arms against you?"
-    m ""
+    m "Why do you think it was so easy to convince the other old houses to take up arms against you?"
 
 # NeitherPath6_0ee5a8c2 (line 6583)
 translate ru NeitherPath6_0ee5a8c2:
     # m "You don't respect anything that this country was built on. You use us, our noble houses, our resources, but you don't respect the institutions that held this country together."
-    m ""
+    m "You don't respect anything that this country was built on. You use us, our noble houses, our resources, but you don't respect the institutions that held this country together."
 
 # NeitherPath6_e2a76b0b (line 6584)
 translate ru NeitherPath6_e2a76b0b:
@@ -846,12 +846,12 @@ translate ru NeitherPath6_e2a76b0b:
 # NeitherPath6_ed45e80c (line 6585)
 translate ru NeitherPath6_ed45e80c:
     # m "All your ancestors knew they had greater obligation, to their nation, but you only think about yourself."
-    m ""
+    m "All your ancestors knew they had greater obligation, to their nation, but you only think about yourself."
 
 # NeitherPath6_91690627 (line 6586)
 translate ru NeitherPath6_91690627:
     # m "Even now, all this, the countless dead, what did you do it all for? For country? Or because you wanted to save your brother."
-    m ""
+    m "Even now, all this, the countless dead, what did you do it all for? For country? Or because you wanted to save your brother."
 
 # NeitherPath6_12a1c417 (line 6587)
 translate ru NeitherPath6_12a1c417:
@@ -871,32 +871,12 @@ translate ru NeitherPath6_4c268598:
 # NeitherPath6_b560a825 (line 6590)
 translate ru NeitherPath6_b560a825:
     # m "So maybe if I can't win, at least I'll make sure your victory is worthless."
-    m ""
+    m "So maybe if I can't win, at least I'll make sure your victory is worthless."
 
 # NeitherPath6_9cbed32a (line 6591)
 translate ru NeitherPath6_9cbed32a:
     # "Sarah watched as he drew the dagger closer to her brother's neck."
     ""
-
-# NeitherPath6_a79b70aa (line 6595)
-translate ru NeitherPath6_a79b70aa:
-    # "Reason with him"
-    "Reason with him" ""
-
-# NeitherPath6_9a59857c (line 6614)
-translate ru NeitherPath6_9a59857c:
-    # "Offer him mercy."
-    "Offer him mercy." ""
-
-# NeitherPath6_365f4f35 (line 6673)
-translate ru NeitherPath6_365f4f35:
-    # "Threaten him."
-    "Threaten him." ""
-
-# NeitherPath6_6c67db58 (line 6737)
-translate ru NeitherPath6_6c67db58:
-    # "Threaten him."
-    "Threaten him." ""
 
 # NeitherPath6_ebc42c75 (line 6801)
 translate ru NeitherPath6_ebc42c75:

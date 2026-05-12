@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: UnionKingdom1
-# Total blocks: 90
+# Total blocks: 86
 
 # UnionKingdom1_d4e6515a (line 6942)
 translate ru UnionKingdom1_d4e6515a:
@@ -67,16 +67,6 @@ translate ru UnionKingdom1_5ca5282c:
 translate ru UnionKingdom1_5213f1eb:
     # "Then again, she had more than enough work to do as well."
     ""
-
-# UnionKingdom1_00678b4f (line 6962)
-translate ru UnionKingdom1_00678b4f:
-    # "Go pray in the chapel later"
-    "Go pray in the chapel later" ""
-
-# UnionKingdom1_074940f6 (line 6966)
-translate ru UnionKingdom1_074940f6:
-    # "Get some more rest"
-    "Get some more rest" ""
 
 # UnionKingdom1_2b17f3d2 (line 6970)
 translate ru UnionKingdom1_2b17f3d2:
@@ -146,7 +136,7 @@ translate ru UnionKingdom1_bf1756b1:
 # UnionKingdom1_1cab6f60 (line 7003)
 translate ru UnionKingdom1_1cab6f60:
     # v "Are you alright?"
-    v ""
+    v "Are you alright?"
 
 # UnionKingdom1_707b83bf (line 7004)
 translate ru UnionKingdom1_707b83bf:
@@ -156,7 +146,7 @@ translate ru UnionKingdom1_707b83bf:
 # UnionKingdom1_949a7fa7 (line 7005)
 translate ru UnionKingdom1_949a7fa7:
     # s "Ooh...yes. Was I acting strange?"
-    s ""
+    s "Ooh...yes. Was I acting strange?"
 
 # UnionKingdom1_a39d1e87 (line 7006)
 translate ru UnionKingdom1_a39d1e87:
@@ -166,7 +156,7 @@ translate ru UnionKingdom1_a39d1e87:
 # UnionKingdom1_96c96a3e (line 7007)
 translate ru UnionKingdom1_96c96a3e:
     # v "No stranger than usual."
-    v ""
+    v "No stranger than usual."
 
 # UnionKingdom1_986664bd (line 7008)
 translate ru UnionKingdom1_986664bd:
@@ -213,16 +203,6 @@ translate ru UnionKingdom1_69ed9bcf:
     # "Slowly making her way towards one of the side doors, hoping for an escape."
     ""
 
-# UnionKingdom1_cac82ed7 (line 7164)
-translate ru UnionKingdom1_cac82ed7:
-    # "Ask her to sneak away with you"
-    "Ask her to sneak away with you" ""
-
-# UnionKingdom1_4c0928eb (line 7179)
-translate ru UnionKingdom1_4c0928eb:
-    # "Let the matter rest"
-    "Let the matter rest" ""
-
 # UnionKingdom1_d14986e1 (line 7190)
 translate ru UnionKingdom1_d14986e1:
     # "Smiling, waving, turning, spinning."
@@ -266,7 +246,7 @@ translate ru UnionKingdom1_79464c0d:
 # UnionKingdom1_a39c3000 (line 7219)
 translate ru UnionKingdom1_a39c3000:
     # c "You never did do well with those crowds."
-    c ""
+    c "You never did do well with those crowds."
 
 # UnionKingdom1_961c47ae (line 7220)
 translate ru UnionKingdom1_961c47ae:
@@ -276,7 +256,7 @@ translate ru UnionKingdom1_961c47ae:
 # UnionKingdom1_ff05d1e6 (line 7221)
 translate ru UnionKingdom1_ff05d1e6:
     # s "Why do you enjoy lurking in the shadows so much?"
-    s ""
+    s "Why do you enjoy lurking in the shadows so much?"
 
 # UnionKingdom1_e2620445 (line 7222)
 translate ru UnionKingdom1_e2620445:
@@ -286,7 +266,7 @@ translate ru UnionKingdom1_e2620445:
 # UnionKingdom1_00e7b963 (line 7223)
 translate ru UnionKingdom1_00e7b963:
     # c "All the best things happen in the dark, don't you know?"
-    c ""
+    c "All the best things happen in the dark, don't you know?"
 
 # UnionKingdom1_3e06012c (line 7224)
 translate ru UnionKingdom1_3e06012c:
@@ -296,7 +276,7 @@ translate ru UnionKingdom1_3e06012c:
 # UnionKingdom1_5c11cc05 (line 7246)
 translate ru UnionKingdom1_5c11cc05:
     # s "Well, shouldn't you be inside? Entertaining our guests?"
-    s ""
+    s "Well, shouldn't you be inside? Entertaining our guests?"
 
 # UnionKingdom1_bd53d014 (line 7247)
 translate ru UnionKingdom1_bd53d014:
@@ -306,12 +286,12 @@ translate ru UnionKingdom1_bd53d014:
 # UnionKingdom1_94ef041b (line 7248)
 translate ru UnionKingdom1_94ef041b:
     # c "I should be inside. You should be inside."
-    c ""
+    c "I should be inside. You should be inside."
 
 # UnionKingdom1_af036165 (line 7249)
 translate ru UnionKingdom1_af036165:
     # c "Yet here we are, both poorly doing our jobs."
-    c ""
+    c "Yet here we are, both poorly doing our jobs."
 
 # UnionKingdom1_716c0fc5 (line 7250)
 translate ru UnionKingdom1_716c0fc5:
@@ -321,12 +301,12 @@ translate ru UnionKingdom1_716c0fc5:
 # UnionKingdom1_cabface7 (line 7251)
 translate ru UnionKingdom1_cabface7:
     # s "Yes, I suppose you're right that I don't have much of a leg to stand on."
-    s ""
+    s "Yes, I suppose you're right that I don't have much of a leg to stand on."
 
 # UnionKingdom1_71a61393 (line 7252)
 translate ru UnionKingdom1_71a61393:
     # c "Well, you are the ruler of our fair nation. The truth is you don't really owe an explanation to anyone."
-    c ""
+    c "Well, you are the ruler of our fair nation. The truth is you don't really owe an explanation to anyone."
 
 # UnionKingdom1_c3a8dc68 (line 7253)
 translate ru UnionKingdom1_c3a8dc68:
@@ -336,12 +316,12 @@ translate ru UnionKingdom1_c3a8dc68:
 # UnionKingdom1_ab1e87e4 (line 7254)
 translate ru UnionKingdom1_ab1e87e4:
     # s "I wish that was the case. That's what I thought growing up, that Father could do whatever he wanted."
-    s ""
+    s "I wish that was the case. That's what I thought growing up, that Father could do whatever he wanted."
 
 # UnionKingdom1_bf41d7bb (line 7255)
 translate ru UnionKingdom1_bf41d7bb:
     # s "Now I see that instead you're bound by all the people you rule over."
-    s ""
+    s "Now I see that instead you're bound by all the people you rule over."
 
 # UnionKingdom1_d87e7e69 (line 7256)
 translate ru UnionKingdom1_d87e7e69:
@@ -351,12 +331,12 @@ translate ru UnionKingdom1_d87e7e69:
 # UnionKingdom1_55f94f9b (line 7257)
 translate ru UnionKingdom1_55f94f9b:
     # c "Yes, the higher up we go in the world, the more obligations we seem to gather along the way."
-    c ""
+    c "Yes, the higher up we go in the world, the more obligations we seem to gather along the way."
 
 # UnionKingdom1_ce091887 (line 7258)
 translate ru UnionKingdom1_ce091887:
     # c "Still, I think your father would have been proud to see what has become of you."
-    c ""
+    c "Still, I think your father would have been proud to see what has become of you."
 
 # UnionKingdom1_ed0452e5 (line 7259)
 translate ru UnionKingdom1_ed0452e5:
@@ -366,17 +346,17 @@ translate ru UnionKingdom1_ed0452e5:
 # UnionKingdom1_5edcdda0 (line 7260)
 translate ru UnionKingdom1_5edcdda0:
     # s "Thank you. It means a lot to hear that from someone like you. Someone who knew my father better than most."
-    s ""
+    s "Thank you. It means a lot to hear that from someone like you. Someone who knew my father better than most."
 
 # UnionKingdom1_a54cede5 (line 7261)
 translate ru UnionKingdom1_a54cede5:
     # s "It used to be that in the days after his death, you would hear people whisper his name everywhere you went."
-    s ""
+    s "It used to be that in the days after his death, you would hear people whisper his name everywhere you went."
 
 # UnionKingdom1_2795133f (line 7262)
 translate ru UnionKingdom1_2795133f:
     # s "Now it seems rare for anyone to remember him."
-    s ""
+    s "Now it seems rare for anyone to remember him."
 
 # UnionKingdom1_30327365 (line 7263)
 translate ru UnionKingdom1_30327365:
@@ -386,17 +366,17 @@ translate ru UnionKingdom1_30327365:
 # UnionKingdom1_b2ff56ef (line 7264)
 translate ru UnionKingdom1_b2ff56ef:
     # c "Your father was a great man. But he produced a great daughter too."
-    c ""
+    c "Your father was a great man. But he produced a great daughter too."
 
 # UnionKingdom1_051a0a7c (line 7265)
 translate ru UnionKingdom1_051a0a7c:
     # c "There is no crime in enjoying your own success. He never wanted anything more than for his children to thrive."
-    c ""
+    c "There is no crime in enjoying your own success. He never wanted anything more than for his children to thrive."
 
 # UnionKingdom1_045ca018 (line 7266)
 translate ru UnionKingdom1_045ca018:
     # c "Remember the past, but don't stay trapped in it."
-    c ""
+    c "Remember the past, but don't stay trapped in it."
 
 # UnionKingdom1_8190c791 (line 7267)
 translate ru UnionKingdom1_8190c791:
@@ -406,7 +386,7 @@ translate ru UnionKingdom1_8190c791:
 # UnionKingdom1_818dbf56 (line 7268)
 translate ru UnionKingdom1_818dbf56:
     # s "I am glad for your counsel. All these years...it has been invaluable to me."
-    s ""
+    s "I am glad for your counsel. All these years...it has been invaluable to me."
 
 # UnionKingdom1_92baa071 (line 7269)
 translate ru UnionKingdom1_92baa071:
@@ -416,7 +396,7 @@ translate ru UnionKingdom1_92baa071:
 # UnionKingdom1_e3a35911 (line 7270)
 translate ru UnionKingdom1_e3a35911:
     # c "Please, Sarah. I only live to serve. I quite enjoy what I do."
-    c ""
+    c "Please, Sarah. I only live to serve. I quite enjoy what I do."
 
 # UnionKingdom1_b6a7ad49 (line 7277)
 translate ru UnionKingdom1_b6a7ad49:
@@ -426,7 +406,7 @@ translate ru UnionKingdom1_b6a7ad49:
 # UnionKingdom1_c9f31f3c (line 7278)
 translate ru UnionKingdom1_c9f31f3c:
     # s "I think I'll go ahead and walk a bit more."
-    s ""
+    s "I think I'll go ahead and walk a bit more."
 
 # UnionKingdom1_fd55ee4e (line 7279)
 translate ru UnionKingdom1_fd55ee4e:
@@ -436,7 +416,7 @@ translate ru UnionKingdom1_fd55ee4e:
 # UnionKingdom1_c8d7b61b (line 7280)
 translate ru UnionKingdom1_c8d7b61b:
     # c "Of course. I, more than most, can appreciate the value of being alone."
-    c ""
+    c "Of course. I, more than most, can appreciate the value of being alone."
 
 # UnionKingdom1_1ff64910 (line 7281)
 translate ru UnionKingdom1_1ff64910:

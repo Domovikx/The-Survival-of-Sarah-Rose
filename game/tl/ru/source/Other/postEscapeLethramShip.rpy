@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: postEscapeLethramShip
-# Total blocks: 299
+# Total blocks: 291
 
 # postEscapeLethramShip_75880cbb (line 88319)
 translate ru postEscapeLethramShip_75880cbb:
@@ -321,7 +321,7 @@ translate ru postEscapeLethramShip_aab3db0c:
 # postEscapeLethramShip_42f9b193 (line 88421)
 translate ru postEscapeLethramShip_42f9b193:
     # s "Yes?"
-    s ""
+    s "Yes?"
 
 # postEscapeLethramShip_ac75f7e6 (line 88422)
 translate ru postEscapeLethramShip_ac75f7e6:
@@ -341,7 +341,7 @@ translate ru postEscapeLethramShip_76e6c00b:
 # postEscapeLethramShip_a95e21f0 (line 88425)
 translate ru postEscapeLethramShip_a95e21f0:
     # s "Who is asking?"
-    s ""
+    s "Who is asking?"
 
 # postEscapeLethramShip_cc0b6d23 (line 88426)
 translate ru postEscapeLethramShip_cc0b6d23:
@@ -351,7 +351,7 @@ translate ru postEscapeLethramShip_cc0b6d23:
 # postEscapeLethramShip_b73b677f (line 88427)
 translate ru postEscapeLethramShip_b73b677f:
     # s "Gilead..."
-    s ""
+    s "Gilead..."
 
 # postEscapeLethramShip_2b231f3d (line 88428)
 translate ru postEscapeLethramShip_2b231f3d:
@@ -376,7 +376,7 @@ translate ru postEscapeLethramShip_817667a3:
 # postEscapeLethramShip_2bdbb4d9 (line 88432)
 translate ru postEscapeLethramShip_2bdbb4d9:
     # s "I don't know your Master, nor do I much appreciate being ambushed like this."
-    s ""
+    s "I don't know your Master, nor do I much appreciate being ambushed like this."
 
 # postEscapeLethramShip_8455fdf4 (line 88433)
 translate ru postEscapeLethramShip_8455fdf4:
@@ -401,7 +401,7 @@ translate ru postEscapeLethramShip_15db8d10:
 # postEscapeLethramShip_c2e4572f (line 88437)
 translate ru postEscapeLethramShip_c2e4572f:
     # s "What does he know of my cause?"
-    s ""
+    s "What does he know of my cause?"
 
 # postEscapeLethramShip_3ae8ae59 (line 88438)
 translate ru postEscapeLethramShip_3ae8ae59:
@@ -806,7 +806,7 @@ translate ru postEscapeLethramShip_2533ed10:
 # postEscapeLethramShip_ad656040 (line 88691)
 translate ru postEscapeLethramShip_ad656040:
     # s "I hear you have summoned me."
-    s ""
+    s "I hear you have summoned me."
 
 # postEscapeLethramShip_d344da6f (line 88692)
 translate ru postEscapeLethramShip_d344da6f:
@@ -816,12 +816,12 @@ translate ru postEscapeLethramShip_d344da6f:
 # postEscapeLethramShip_25e1274f (line 88693)
 translate ru postEscapeLethramShip_25e1274f:
     # gil "Summon? No, I would call it an invitation."
-    gil ""
+    gil "Summon? No, I would call it an invitation."
 
 # postEscapeLethramShip_02f6de2a (line 88694)
 translate ru postEscapeLethramShip_02f6de2a:
     # s "Different names. Same thing."
-    s ""
+    s "Different names. Same thing."
 
 # postEscapeLethramShip_dd0852c7 (line 88695)
 translate ru postEscapeLethramShip_dd0852c7:
@@ -831,7 +831,7 @@ translate ru postEscapeLethramShip_dd0852c7:
 # postEscapeLethramShip_95c1d1c1 (line 88696)
 translate ru postEscapeLethramShip_95c1d1c1:
     # gil "Perhaps. Though I hope by the end of our conversation, you will consider me a friend."
-    gil ""
+    gil "Perhaps. Though I hope by the end of our conversation, you will consider me a friend."
 
 # postEscapeLethramShip_93436e0b (line 88697)
 translate ru postEscapeLethramShip_93436e0b:
@@ -841,7 +841,7 @@ translate ru postEscapeLethramShip_93436e0b:
 # postEscapeLethramShip_22140909 (line 88698)
 translate ru postEscapeLethramShip_22140909:
     # s "I have given you the respect of showing up here today. Return the favor and speak honestly."
-    s ""
+    s "I have given you the respect of showing up here today. Return the favor and speak honestly."
 
 # postEscapeLethramShip_cc560399 (line 88699)
 translate ru postEscapeLethramShip_cc560399:
@@ -856,12 +856,12 @@ translate ru postEscapeLethramShip_189f7d66:
 # postEscapeLethramShip_826cbd66 (line 88701)
 translate ru postEscapeLethramShip_826cbd66:
     # gil "You fled here, bringing in tow, legions seeking refuge in our great city. Our great Empire."
-    gil ""
+    gil "You fled here, bringing in tow, legions seeking refuge in our great city. Our great Empire."
 
 # postEscapeLethramShip_1ceb3ade (line 88702)
 translate ru postEscapeLethramShip_1ceb3ade:
     # gil "Already, the city breathes whispers of the horrors your people claim to see in Lethram."
-    gil ""
+    gil "Already, the city breathes whispers of the horrors your people claim to see in Lethram."
 
 # postEscapeLethramShip_0918b454 (line 88703)
 translate ru postEscapeLethramShip_0918b454:
@@ -871,7 +871,7 @@ translate ru postEscapeLethramShip_0918b454:
 # postEscapeLethramShip_266cdfb0 (line 88704)
 translate ru postEscapeLethramShip_266cdfb0:
     # s "All true. And whatever stories they tell of the horrors, believe me when I saw it falls short of the truth."
-    s ""
+    s "All true. And whatever stories they tell of the horrors, believe me when I saw it falls short of the truth."
 
 # postEscapeLethramShip_c3c75537 (line 88705)
 translate ru postEscapeLethramShip_c3c75537:
@@ -881,12 +881,12 @@ translate ru postEscapeLethramShip_c3c75537:
 # postEscapeLethramShip_8b664241 (line 88706)
 translate ru postEscapeLethramShip_8b664241:
     # gil "I do not doubt their stories, or yours."
-    gil ""
+    gil "I do not doubt their stories, or yours."
 
 # postEscapeLethramShip_87a8fc7b (line 88707)
 translate ru postEscapeLethramShip_87a8fc7b:
     # gil "But I imagine you have come here, seeking our aid. The aid of the Eternal Court."
-    gil ""
+    gil "But I imagine you have come here, seeking our aid. The aid of the Eternal Court."
 
 # postEscapeLethramShip_f87177cc (line 88708)
 translate ru postEscapeLethramShip_f87177cc:
@@ -901,12 +901,12 @@ translate ru postEscapeLethramShip_27c35772:
 # postEscapeLethramShip_0cfd940b (line 88710)
 translate ru postEscapeLethramShip_0cfd940b:
     # s "It is true that I am seeking allies to help push back against this void incursion."
-    s ""
+    s "It is true that I am seeking allies to help push back against this void incursion."
 
 # postEscapeLethramShip_c4022fc5 (line 88711)
 translate ru postEscapeLethramShip_c4022fc5:
     # s "And the Mythran Empire is home to the most powerful armies and wisest of rulers."
-    s ""
+    s "And the Mythran Empire is home to the most powerful armies and wisest of rulers."
 
 # postEscapeLethramShip_2b104ac7 (line 88712)
 translate ru postEscapeLethramShip_2b104ac7:
@@ -916,7 +916,7 @@ translate ru postEscapeLethramShip_2b104ac7:
 # postEscapeLethramShip_4263de85 (line 88713)
 translate ru postEscapeLethramShip_4263de85:
     # gil "Save any flattery you might have for my fellow council members. I have long grown immune to it."
-    gil ""
+    gil "Save any flattery you might have for my fellow council members. I have long grown immune to it."
 
 # postEscapeLethramShip_484b26a8 (line 88714)
 translate ru postEscapeLethramShip_484b26a8:
@@ -926,12 +926,12 @@ translate ru postEscapeLethramShip_484b26a8:
 # postEscapeLethramShip_5c14f6f4 (line 88715)
 translate ru postEscapeLethramShip_5c14f6f4:
     # gil "But you are right."
-    gil ""
+    gil "But you are right."
 
 # postEscapeLethramShip_7d6ff61d (line 88716)
 translate ru postEscapeLethramShip_7d6ff61d:
     # gil "If you are to have any hope of stopping these creatures, you would need our aid."
-    gil ""
+    gil "If you are to have any hope of stopping these creatures, you would need our aid."
 
 # postEscapeLethramShip_5c4a25c1 (line 88717)
 translate ru postEscapeLethramShip_5c4a25c1:
@@ -941,12 +941,12 @@ translate ru postEscapeLethramShip_5c4a25c1:
 # postEscapeLethramShip_09835ba4 (line 88718)
 translate ru postEscapeLethramShip_09835ba4:
     # s "Understand me well. The threat these creatures pose is so vast, it threatens all of us."
-    s ""
+    s "Understand me well. The threat these creatures pose is so vast, it threatens all of us."
 
 # postEscapeLethramShip_2567d31b (line 88719)
 translate ru postEscapeLethramShip_2567d31b:
     # s "You, me, all of us, need one another, or we will all die to their horde."
-    s ""
+    s "You, me, all of us, need one another, or we will all die to their horde."
 
 # postEscapeLethramShip_be58a912 (line 88720)
 translate ru postEscapeLethramShip_be58a912:
@@ -956,27 +956,27 @@ translate ru postEscapeLethramShip_be58a912:
 # postEscapeLethramShip_07da5e78 (line 88721)
 translate ru postEscapeLethramShip_07da5e78:
     # gil "That is most likely true."
-    gil ""
+    gil "That is most likely true."
 
 # postEscapeLethramShip_0a00a052 (line 88722)
 translate ru postEscapeLethramShip_0a00a052:
     # gil "It is also true, that if all the people of all the world, shared their wealthy equally, this world would be a paradise."
-    gil ""
+    gil "It is also true, that if all the people of all the world, shared their wealthy equally, this world would be a paradise."
 
 # postEscapeLethramShip_ba9b3061 (line 88723)
 translate ru postEscapeLethramShip_ba9b3061:
     # gil "And yet..."
-    gil ""
+    gil "And yet..."
 
 # postEscapeLethramShip_49fd5353 (line 88724)
 translate ru postEscapeLethramShip_49fd5353:
     # gil "When have you ever known people to sacrifice their own interests for the greater good?"
-    gil ""
+    gil "When have you ever known people to sacrifice their own interests for the greater good?"
 
 # postEscapeLethramShip_cc8590f5 (line 88725)
 translate ru postEscapeLethramShip_cc8590f5:
     # gil "We may very well all die together, fools until the end."
-    gil ""
+    gil "We may very well all die together, fools until the end."
 
 # postEscapeLethramShip_4c88cf29 (line 88726)
 translate ru postEscapeLethramShip_4c88cf29:
@@ -1001,12 +1001,12 @@ translate ru postEscapeLethramShip_f905e39a:
 # postEscapeLethramShip_faf8a2fd (line 88730)
 translate ru postEscapeLethramShip_faf8a2fd:
     # s "Why have you called me here then? To complain about the nature of Men?"
-    s ""
+    s "Why have you called me here then? To complain about the nature of Men?"
 
 # postEscapeLethramShip_9330d0d1 (line 88731)
 translate ru postEscapeLethramShip_9330d0d1:
     # gil "To give you everything you want and more."
-    gil ""
+    gil "To give you everything you want and more."
 
 # postEscapeLethramShip_d68cb671 (line 88732)
 translate ru postEscapeLethramShip_d68cb671:
@@ -1016,22 +1016,22 @@ translate ru postEscapeLethramShip_d68cb671:
 # postEscapeLethramShip_7eabce5a (line 88733)
 translate ru postEscapeLethramShip_7eabce5a:
     # s "Meaning what?"
-    s ""
+    s "Meaning what?"
 
 # postEscapeLethramShip_fe0aeb4c (line 88734)
 translate ru postEscapeLethramShip_fe0aeb4c:
     # gil "Meaning that I will bring you to the Eternal Court, allow you to plead your case, and help you sway our Empire to your cause."
-    gil ""
+    gil "Meaning that I will bring you to the Eternal Court, allow you to plead your case, and help you sway our Empire to your cause."
 
 # postEscapeLethramShip_ff1d6775 (line 88735)
 translate ru postEscapeLethramShip_ff1d6775:
     # gil "We will raise up swords and spears, and the Legions of our Empire will march, more than a million strong."
-    gil ""
+    gil "We will raise up swords and spears, and the Legions of our Empire will march, more than a million strong."
 
 # postEscapeLethramShip_306ba765 (line 88736)
 translate ru postEscapeLethramShip_306ba765:
     # gil "And as allies, we will save all of existence."
-    gil ""
+    gil "And as allies, we will save all of existence."
 
 # postEscapeLethramShip_9958144f (line 88737)
 translate ru postEscapeLethramShip_9958144f:
@@ -1041,7 +1041,7 @@ translate ru postEscapeLethramShip_9958144f:
 # postEscapeLethramShip_742e2642 (line 88738)
 translate ru postEscapeLethramShip_742e2642:
     # s "Why?"
-    s ""
+    s "Why?"
 
 # postEscapeLethramShip_a3345a90 (line 88739)
 translate ru postEscapeLethramShip_a3345a90:
@@ -1051,17 +1051,17 @@ translate ru postEscapeLethramShip_a3345a90:
 # postEscapeLethramShip_fd949b34 (line 88740)
 translate ru postEscapeLethramShip_fd949b34:
     # gil "I must say, you are a troublesome woman. I have never met someone before that got everything they wanted, and was still so hostile."
-    gil ""
+    gil "I must say, you are a troublesome woman. I have never met someone before that got everything they wanted, and was still so hostile."
 
 # postEscapeLethramShip_cd12a1f3 (line 88741)
 translate ru postEscapeLethramShip_cd12a1f3:
     # s "I am not hostile."
-    s ""
+    s "I am not hostile."
 
 # postEscapeLethramShip_37301324 (line 88742)
 translate ru postEscapeLethramShip_37301324:
     # s "Merely suspicious of why you would offer all of this up so freely."
-    s ""
+    s "Merely suspicious of why you would offer all of this up so freely."
 
 # postEscapeLethramShip_684b3832 (line 88743)
 translate ru postEscapeLethramShip_684b3832:
@@ -1071,12 +1071,12 @@ translate ru postEscapeLethramShip_684b3832:
 # postEscapeLethramShip_55f5da46 (line 88744)
 translate ru postEscapeLethramShip_55f5da46:
     # gil "Two reasons. The first is as you stated, all living creation shares in this struggle agains the Void."
-    gil ""
+    gil "Two reasons. The first is as you stated, all living creation shares in this struggle agains the Void."
 
 # postEscapeLethramShip_5b04e33d (line 88745)
 translate ru postEscapeLethramShip_5b04e33d:
     # gil "The second, however, you are wrong. This offer is not free."
-    gil ""
+    gil "The second, however, you are wrong. This offer is not free."
 
 # postEscapeLethramShip_cfcf6c67 (line 88746)
 translate ru postEscapeLethramShip_cfcf6c67:
@@ -1086,7 +1086,7 @@ translate ru postEscapeLethramShip_cfcf6c67:
 # postEscapeLethramShip_d1226ff0 (line 88747)
 translate ru postEscapeLethramShip_d1226ff0:
     # s "Tell me then. What would you want from me."
-    s ""
+    s "Tell me then. What would you want from me."
 
 # postEscapeLethramShip_e2a90d81 (line 88748)
 translate ru postEscapeLethramShip_e2a90d81:
@@ -1096,7 +1096,7 @@ translate ru postEscapeLethramShip_e2a90d81:
 # postEscapeLethramShip_24f3844a (line 88749)
 translate ru postEscapeLethramShip_24f3844a:
     # gil "You are a mage."
-    gil ""
+    gil "You are a mage."
 
 # postEscapeLethramShip_0506e325 (line 88750)
 translate ru postEscapeLethramShip_0506e325:
@@ -1106,12 +1106,12 @@ translate ru postEscapeLethramShip_0506e325:
 # postEscapeLethramShip_2172aad9 (line 88751)
 translate ru postEscapeLethramShip_2172aad9:
     # gil "How close are you to your Order?"
-    gil ""
+    gil "How close are you to your Order?"
 
 # postEscapeLethramShip_9789ca07 (line 88752)
 translate ru postEscapeLethramShip_9789ca07:
     # s "Not very. After my teacher passed away, I was never properly brought into the fold."
-    s ""
+    s "Not very. After my teacher passed away, I was never properly brought into the fold."
 
 # postEscapeLethramShip_b3090f2f (line 88753)
 translate ru postEscapeLethramShip_b3090f2f:
@@ -1121,12 +1121,12 @@ translate ru postEscapeLethramShip_b3090f2f:
 # postEscapeLethramShip_06f2b887 (line 88754)
 translate ru postEscapeLethramShip_06f2b887:
     # gil "All the better."
-    gil ""
+    gil "All the better."
 
 # postEscapeLethramShip_bc3b67d0 (line 88755)
 translate ru postEscapeLethramShip_bc3b67d0:
     # gil "See, to gain the support of our Empire, all I ask is that you aid me in a plot."
-    gil ""
+    gil "See, to gain the support of our Empire, all I ask is that you aid me in a plot."
 
 # postEscapeLethramShip_d9e07913 (line 88756)
 translate ru postEscapeLethramShip_d9e07913:
@@ -1136,7 +1136,7 @@ translate ru postEscapeLethramShip_d9e07913:
 # postEscapeLethramShip_157202ea (line 88757)
 translate ru postEscapeLethramShip_157202ea:
     # gil "I need you to help me kill the mage Order. Every last one of them."
-    gil ""
+    gil "I need you to help me kill the mage Order. Every last one of them."
 
 # postEscapeLethramShip_238486f1 (line 88758)
 translate ru postEscapeLethramShip_238486f1:
@@ -1146,12 +1146,12 @@ translate ru postEscapeLethramShip_238486f1:
 # postEscapeLethramShip_14b166c9 (line 88759)
 translate ru postEscapeLethramShip_14b166c9:
     # s "W...why would you ask me that?"
-    s ""
+    s "W...why would you ask me that?"
 
 # postEscapeLethramShip_ff8702d7 (line 88760)
 translate ru postEscapeLethramShip_ff8702d7:
     # s "The Order would be an invaluable ally against these creatures."
-    s ""
+    s "The Order would be an invaluable ally against these creatures."
 
 # postEscapeLethramShip_8739e99a (line 88761)
 translate ru postEscapeLethramShip_8739e99a:
@@ -1161,22 +1161,22 @@ translate ru postEscapeLethramShip_8739e99a:
 # postEscapeLethramShip_3cd42c9d (line 88762)
 translate ru postEscapeLethramShip_3cd42c9d:
     # gil "I ask you, because there happens to be a particular opportunity that I want to exploit, and that requires someone like yourself."
-    gil ""
+    gil "I ask you, because there happens to be a particular opportunity that I want to exploit, and that requires someone like yourself."
 
 # postEscapeLethramShip_56c9fc48 (line 88763)
 translate ru postEscapeLethramShip_56c9fc48:
     # gil "Someone with the right access."
-    gil ""
+    gil "Someone with the right access."
 
 # postEscapeLethramShip_32ae2b35 (line 88764)
 translate ru postEscapeLethramShip_32ae2b35:
     # gil "As for why I would rather see them dead then make allies of them, that is my concern not yours."
-    gil ""
+    gil "As for why I would rather see them dead then make allies of them, that is my concern not yours."
 
 # postEscapeLethramShip_4a9485f6 (line 88765)
 translate ru postEscapeLethramShip_4a9485f6:
     # s "You make it my concern when you ask me to kill them!"
-    s ""
+    s "You make it my concern when you ask me to kill them!"
 
 # postEscapeLethramShip_d4d952ee (line 88766)
 translate ru postEscapeLethramShip_d4d952ee:
@@ -1191,17 +1191,17 @@ translate ru postEscapeLethramShip_3acebcd3:
 # postEscapeLethramShip_6abbc25a (line 88768)
 translate ru postEscapeLethramShip_6abbc25a:
     # gil "You have killed before."
-    gil ""
+    gil "You have killed before."
 
 # postEscapeLethramShip_dbfed43c (line 88769)
 translate ru postEscapeLethramShip_dbfed43c:
     # gil "In this case, you will save countless souls by killing a few. The mathematics of it are clear."
-    gil ""
+    gil "In this case, you will save countless souls by killing a few. The mathematics of it are clear."
 
 # postEscapeLethramShip_6166ef76 (line 88770)
 translate ru postEscapeLethramShip_6166ef76:
     # gil "With the Empire unified behind you, you will prevail."
-    gil ""
+    gil "With the Empire unified behind you, you will prevail."
 
 # postEscapeLethramShip_b9db460e (line 88771)
 translate ru postEscapeLethramShip_b9db460e:
@@ -1211,52 +1211,52 @@ translate ru postEscapeLethramShip_b9db460e:
 # postEscapeLethramShip_45afe5d1 (line 88772)
 translate ru postEscapeLethramShip_45afe5d1:
     # s "And what if I refuse?"
-    s ""
+    s "And what if I refuse?"
 
 # postEscapeLethramShip_3040d0c6 (line 88773)
 translate ru postEscapeLethramShip_3040d0c6:
     # s "What if I don't help you?"
-    s ""
+    s "What if I don't help you?"
 
 # postEscapeLethramShip_f6c23230 (line 88774)
 translate ru postEscapeLethramShip_f6c23230:
     # gil "Then the gates to the Black Pyramid will remain shut to you."
-    gil ""
+    gil "Then the gates to the Black Pyramid will remain shut to you."
 
 # postEscapeLethramShip_ce9ea2ae (line 88775)
 translate ru postEscapeLethramShip_ce9ea2ae:
     # s "I can find another."
-    s ""
+    s "I can find another."
 
 # postEscapeLethramShip_1492581a (line 88776)
 translate ru postEscapeLethramShip_1492581a:
     # gil "No, you cannot."
-    gil ""
+    gil "No, you cannot."
 
 # postEscapeLethramShip_f5faddfc (line 88777)
 translate ru postEscapeLethramShip_f5faddfc:
     # gil "I bring you this offer, not simply on my behalf, but on that of my own master."
-    gil ""
+    gil "I bring you this offer, not simply on my behalf, but on that of my own master."
 
 # postEscapeLethramShip_b9371470 (line 88778)
 translate ru postEscapeLethramShip_b9371470:
     # gil "He who sits a the center of the Black Pyramid."
-    gil ""
+    gil "He who sits a the center of the Black Pyramid."
 
 # postEscapeLethramShip_c3c267d0 (line 88779)
 translate ru postEscapeLethramShip_c3c267d0:
     # gil "And his will binds all of those in the Eternal Court."
-    gil ""
+    gil "And his will binds all of those in the Eternal Court."
 
 # postEscapeLethramShip_2479f731 (line 88780)
 translate ru postEscapeLethramShip_2479f731:
     # gil "Refuse me, and you will find that no other will take your petitions."
-    gil ""
+    gil "Refuse me, and you will find that no other will take your petitions."
 
 # postEscapeLethramShip_382b0aa9 (line 88781)
 translate ru postEscapeLethramShip_382b0aa9:
     # gil "And the Empire will draw up its walls and gates, and we will weather this storm by ourselves and leave the rest of the world to take the brunt of the pain."
-    gil ""
+    gil "And the Empire will draw up its walls and gates, and we will weather this storm by ourselves and leave the rest of the world to take the brunt of the pain."
 
 # postEscapeLethramShip_bde43537 (line 88782)
 translate ru postEscapeLethramShip_bde43537:
@@ -1271,7 +1271,7 @@ translate ru postEscapeLethramShip_0c92c333:
 # postEscapeLethramShip_6394612e (line 88784)
 translate ru postEscapeLethramShip_6394612e:
     # s "How...would this even work?"
-    s ""
+    s "How...would this even work?"
 
 # postEscapeLethramShip_1710de6d (line 88785)
 translate ru postEscapeLethramShip_1710de6d:
@@ -1281,22 +1281,22 @@ translate ru postEscapeLethramShip_1710de6d:
 # postEscapeLethramShip_fae8925c (line 88786)
 translate ru postEscapeLethramShip_fae8925c:
     # gil "Your Order gathers in our city, under cloak of stealth."
-    gil ""
+    gil "Your Order gathers in our city, under cloak of stealth."
 
 # postEscapeLethramShip_df085b4d (line 88787)
 translate ru postEscapeLethramShip_df085b4d:
     # gil "They think themselves clever and believe that we do not know that they gather."
-    gil ""
+    gil "They think themselves clever and believe that we do not know that they gather."
 
 # postEscapeLethramShip_49ce468a (line 88788)
 translate ru postEscapeLethramShip_49ce468a:
     # gil "However, if we were to send one of our own agents, your Order would uncover them without any trouble."
-    gil ""
+    gil "However, if we were to send one of our own agents, your Order would uncover them without any trouble."
 
 # postEscapeLethramShip_c16c5dd9 (line 88789)
 translate ru postEscapeLethramShip_c16c5dd9:
     # gil "But you..."
-    gil ""
+    gil "But you..."
 
 # postEscapeLethramShip_8a82c663 (line 88790)
 translate ru postEscapeLethramShip_8a82c663:
@@ -1306,17 +1306,17 @@ translate ru postEscapeLethramShip_8a82c663:
 # postEscapeLethramShip_7ad009ec (line 88791)
 translate ru postEscapeLethramShip_7ad009ec:
     # gil "You would be familiar to them. And a mage, like them. They would grant you access to their meeting."
-    gil ""
+    gil "You would be familiar to them. And a mage, like them. They would grant you access to their meeting."
 
 # postEscapeLethramShip_0aea7133 (line 88792)
 translate ru postEscapeLethramShip_0aea7133:
     # s "I'm just one mage. A student at that."
-    s ""
+    s "I'm just one mage. A student at that."
 
 # postEscapeLethramShip_af90aede (line 88793)
 translate ru postEscapeLethramShip_af90aede:
     # s "Even if I did what you asked, I would stand no chance against the entire Order."
-    s ""
+    s "Even if I did what you asked, I would stand no chance against the entire Order."
 
 # postEscapeLethramShip_7e3b21de (line 88794)
 translate ru postEscapeLethramShip_7e3b21de:
@@ -1326,17 +1326,17 @@ translate ru postEscapeLethramShip_7e3b21de:
 # postEscapeLethramShip_a15e31a9 (line 88795)
 translate ru postEscapeLethramShip_a15e31a9:
     # gil "True, but my Master has crafted a relic."
-    gil ""
+    gil "True, but my Master has crafted a relic."
 
 # postEscapeLethramShip_da12125a (line 88796)
 translate ru postEscapeLethramShip_da12125a:
     # gil "A weapon you can use, one to which your mage Kin are blind."
-    gil ""
+    gil "A weapon you can use, one to which your mage Kin are blind."
 
 # postEscapeLethramShip_2a56b80b (line 88797)
 translate ru postEscapeLethramShip_2a56b80b:
     # gil "Smuggle it into the meeting and you will be able to kill the lot of them."
-    gil ""
+    gil "Smuggle it into the meeting and you will be able to kill the lot of them."
 
 # postEscapeLethramShip_da7c194a (line 88798)
 translate ru postEscapeLethramShip_da7c194a:
@@ -1377,16 +1377,6 @@ translate ru postEscapeLethramShip_819a0ba7:
 translate ru postEscapeLethramShip_3031a718:
     # "And with the fate of millions at stake, could she afford to refuse him? All to protect an Order that meant nothing to her."
     ""
-
-# postEscapeLethramShip_eabe32bf (line 88809)
-translate ru postEscapeLethramShip_eabe32bf:
-    # "Join his plot and kill the mages"
-    "Join his plot and kill the mages" ""
-
-# postEscapeLethramShip_a1bf72fc (line 88831)
-translate ru postEscapeLethramShip_a1bf72fc:
-    # "Refuse"
-    "Refuse" ""
 
 # postEscapeLethramShip_68ce15bb (line 88854)
 translate ru postEscapeLethramShip_68ce15bb:
@@ -1467,34 +1457,4 @@ translate ru postEscapeLethramShip_c7228c95:
 translate ru postEscapeLethramShip_f331b442:
     # "She arrived back at her apartment, having made sure nobody was following her."
     ""
-
-# postEscapeLethramShip_a72bfdda (line 88901)
-translate ru postEscapeLethramShip_a72bfdda:
-    # "Invite Alaric in"
-    "Invite Alaric in" ""
-
-# postEscapeLethramShip_5358bb35 (line 88903)
-translate ru postEscapeLethramShip_5358bb35:
-    # "Turn him down"
-    "Turn him down" ""
-
-# postEscapeLethramShip_193cb32b (line 89363)
-translate ru postEscapeLethramShip_193cb32b:
-    # "Go out and try to forget"
-    "Go out and try to forget" ""
-
-# postEscapeLethramShip_657f30d2 (line 89539)
-translate ru postEscapeLethramShip_657f30d2:
-    # "Go home alone"
-    "Go home alone" ""
-
-# postEscapeLethramShip_3085c005 (line 89550)
-translate ru postEscapeLethramShip_3085c005:
-    # "Take his hand and leave with Sigmund"
-    "Take his hand and leave with Sigmund" ""
-
-# postEscapeLethramShip_ac79a0b6 (line 89670)
-translate ru postEscapeLethramShip_ac79a0b6:
-    # "Stay alone with your thoughts"
-    "Stay alone with your thoughts" ""
 

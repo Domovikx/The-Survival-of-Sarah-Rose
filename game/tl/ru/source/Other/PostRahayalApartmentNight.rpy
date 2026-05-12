@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: PostRahayalApartmentNight
-# Total blocks: 265
+# Total blocks: 262
 
 # PostRahayalApartmentNight_46428178 (line 89691)
 translate ru PostRahayalApartmentNight_46428178:
@@ -206,7 +206,7 @@ translate ru PostRahayalApartmentNight_c3a38b75:
 # PostRahayalApartmentNight_7c435b9e (line 89785)
 translate ru PostRahayalApartmentNight_7c435b9e:
     # s "Hello, uhh...I'm expected."
-    s ""
+    s "Hello, uhh...I'm expected."
 
 # PostRahayalApartmentNight_3a4ba228 (line 89786)
 translate ru PostRahayalApartmentNight_3a4ba228:
@@ -351,7 +351,7 @@ translate ru PostRahayalApartmentNight_7ce83883:
 # PostRahayalApartmentNight_4d44a883 (line 89824)
 translate ru PostRahayalApartmentNight_4d44a883:
     # s "Hey, Hecate, good to see you again."
-    s ""
+    s "Hey, Hecate, good to see you again."
 
 # PostRahayalApartmentNight_ba2a7ee5 (line 89825)
 translate ru PostRahayalApartmentNight_ba2a7ee5:
@@ -376,7 +376,7 @@ translate ru PostRahayalApartmentNight_18c9d343:
 # PostRahayalApartmentNight_374f58e0 (line 89829)
 translate ru PostRahayalApartmentNight_374f58e0:
     # s "I'm all good."
-    s ""
+    s "I'm all good."
 
 # PostRahayalApartmentNight_c3bc7e4f (line 89830)
 translate ru PostRahayalApartmentNight_c3bc7e4f:
@@ -411,7 +411,7 @@ translate ru PostRahayalApartmentNight_b41c6852:
 # PostRahayalApartmentNight_f6d4d372 (line 89836)
 translate ru PostRahayalApartmentNight_f6d4d372:
     # s "Really, I'm doing quite well."
-    s ""
+    s "Really, I'm doing quite well."
 
 # PostRahayalApartmentNight_fcf6b3fc (line 89837)
 translate ru PostRahayalApartmentNight_fcf6b3fc:
@@ -496,7 +496,7 @@ translate ru PostRahayalApartmentNight_911eb108:
 # PostRahayalApartmentNight_c68591c2 (line 89853)
 translate ru PostRahayalApartmentNight_c68591c2:
     # s "A founder?"
-    s ""
+    s "A founder?"
 
 # PostRahayalApartmentNight_b85b3a06 (line 89854)
 translate ru PostRahayalApartmentNight_b85b3a06:
@@ -546,7 +546,7 @@ translate ru PostRahayalApartmentNight_c9a3cb9d:
 # PostRahayalApartmentNight_894d0696 (line 89863)
 translate ru PostRahayalApartmentNight_894d0696:
     # s "Really?"
-    s ""
+    s "Really?"
 
 # PostRahayalApartmentNight_18acdca5 (line 89864)
 translate ru PostRahayalApartmentNight_18acdca5:
@@ -581,7 +581,7 @@ translate ru PostRahayalApartmentNight_5c26d5b0:
 # PostRahayalApartmentNight_a726effd (line 89870)
 translate ru PostRahayalApartmentNight_a726effd:
     # s "The Will?"
-    s ""
+    s "The Will?"
 
 # PostRahayalApartmentNight_f52b93ed (line 89871)
 translate ru PostRahayalApartmentNight_f52b93ed:
@@ -596,7 +596,7 @@ translate ru PostRahayalApartmentNight_ba3ab132:
 # PostRahayalApartmentNight_3dcef4e6 (line 89873)
 translate ru PostRahayalApartmentNight_3dcef4e6:
     # s "Plan?"
-    s ""
+    s "Plan?"
 
 # PostRahayalApartmentNight_aee6e9d5 (line 89874)
 translate ru PostRahayalApartmentNight_aee6e9d5:
@@ -626,7 +626,7 @@ translate ru PostRahayalApartmentNight_e0c5c9b9:
 # PostRahayalApartmentNight_b1770bb3 (line 89879)
 translate ru PostRahayalApartmentNight_b1770bb3:
     # s "And what is it?"
-    s ""
+    s "And what is it?"
 
 # PostRahayalApartmentNight_fc1a0ff2 (line 89880)
 translate ru PostRahayalApartmentNight_fc1a0ff2:
@@ -666,7 +666,7 @@ translate ru PostRahayalApartmentNight_3aca904d:
 # PostRahayalApartmentNight_41b30f30 (line 89887)
 translate ru PostRahayalApartmentNight_41b30f30:
     # s "So...you just do what they say?"
-    s ""
+    s "So...you just do what they say?"
 
 # PostRahayalApartmentNight_d6055b76 (line 89888)
 translate ru PostRahayalApartmentNight_d6055b76:
@@ -811,7 +811,7 @@ translate ru PostRahayalApartmentNight_f9ff02a5:
 # PostRahayalApartmentNight_6e2c02cf (line 89921)
 translate ru PostRahayalApartmentNight_6e2c02cf:
     # s "What is he talking about?"
-    s ""
+    s "What is he talking about?"
 
 # PostRahayalApartmentNight_86879133 (line 89922)
 translate ru PostRahayalApartmentNight_86879133:
@@ -821,7 +821,7 @@ translate ru PostRahayalApartmentNight_86879133:
 # PostRahayalApartmentNight_9d03966c (line 89928)
 translate ru PostRahayalApartmentNight_9d03966c:
     # s "The void...I mean, that is the enemy, right? What is he talking about?"
-    s ""
+    s "The void...I mean, that is the enemy, right? What is he talking about?"
 
 # PostRahayalApartmentNight_26773607 (line 89929)
 translate ru PostRahayalApartmentNight_26773607:
@@ -836,7 +836,7 @@ translate ru PostRahayalApartmentNight_d86fc566:
 # PostRahayalApartmentNight_e804d5a2 (line 89931)
 translate ru PostRahayalApartmentNight_e804d5a2:
     # s "What enemies?"
-    s ""
+    s "What enemies?"
 
 # PostRahayalApartmentNight_2a3eced7 (line 89932)
 translate ru PostRahayalApartmentNight_2a3eced7:
@@ -851,7 +851,7 @@ translate ru PostRahayalApartmentNight_ef0acd06:
 # PostRahayalApartmentNight_23f8307f (line 89934)
 translate ru PostRahayalApartmentNight_23f8307f:
     # s "Why?"
-    s ""
+    s "Why?"
 
 # PostRahayalApartmentNight_84dbf4f1 (line 89935)
 translate ru PostRahayalApartmentNight_84dbf4f1:
@@ -886,22 +886,22 @@ translate ru PostRahayalApartmentNight_3c891279:
 # PostRahayalApartmentNight_48b36cd8 (line 89946)
 translate ru PostRahayalApartmentNight_48b36cd8:
     # s "Destroy each other?"
-    s ""
+    s "Destroy each other?"
 
 # PostRahayalApartmentNight_a2681bd5 (line 89947)
 translate ru PostRahayalApartmentNight_a2681bd5:
     # s "You say this as if there aren't millions of people living in this very city."
-    s ""
+    s "You say this as if there aren't millions of people living in this very city."
 
 # PostRahayalApartmentNight_78a8f17b (line 89948)
 translate ru PostRahayalApartmentNight_78a8f17b:
     # s "I've seen what those creatures did to Lethram."
-    s ""
+    s "I've seen what those creatures did to Lethram."
 
 # PostRahayalApartmentNight_97dd36b4 (line 89949)
 translate ru PostRahayalApartmentNight_97dd36b4:
     # s "If they break through the gates...the slaughter would be beyond...anything."
-    s ""
+    s "If they break through the gates...the slaughter would be beyond...anything."
 
 # PostRahayalApartmentNight_bcaf0e71 (line 89950)
 translate ru PostRahayalApartmentNight_bcaf0e71:
@@ -946,12 +946,12 @@ translate ru PostRahayalApartmentNight_9ee2f525:
 # PostRahayalApartmentNight_6e83177e (line 89958)
 translate ru PostRahayalApartmentNight_6e83177e:
     # s "Small lives?"
-    s ""
+    s "Small lives?"
 
 # PostRahayalApartmentNight_00e7dd4c (line 89959)
 translate ru PostRahayalApartmentNight_00e7dd4c:
     # s "Easy for you to say. You're not going to be left helpless in a city, waiting for these fiends."
-    s ""
+    s "Easy for you to say. You're not going to be left helpless in a city, waiting for these fiends."
 
 # PostRahayalApartmentNight_017a7a7c (line 89960)
 translate ru PostRahayalApartmentNight_017a7a7c:
@@ -961,7 +961,7 @@ translate ru PostRahayalApartmentNight_017a7a7c:
 # PostRahayalApartmentNight_d4dddb28 (line 89961)
 translate ru PostRahayalApartmentNight_d4dddb28:
     # s "I thought you weren't a true believer."
-    s ""
+    s "I thought you weren't a true believer."
 
 # PostRahayalApartmentNight_f8044dd0 (line 89962)
 translate ru PostRahayalApartmentNight_f8044dd0:
@@ -976,7 +976,7 @@ translate ru PostRahayalApartmentNight_ca8dca91:
 # PostRahayalApartmentNight_2eb9b360 (line 89964)
 translate ru PostRahayalApartmentNight_2eb9b360:
     # s "But..."
-    s ""
+    s "But..."
 
 # PostRahayalApartmentNight_3e1d14a2 (line 89965)
 translate ru PostRahayalApartmentNight_3e1d14a2:
@@ -1051,7 +1051,7 @@ translate ru PostRahayalApartmentNight_38a2eaee:
 # PostRahayalApartmentNight_e00252f9 (line 89984)
 translate ru PostRahayalApartmentNight_e00252f9:
     # s "How...do you know my name?"
-    s ""
+    s "How...do you know my name?"
 
 # PostRahayalApartmentNight_4fc5b5e9 (line 89985)
 translate ru PostRahayalApartmentNight_4fc5b5e9:
@@ -1081,7 +1081,7 @@ translate ru PostRahayalApartmentNight_4a7acfe0:
 # PostRahayalApartmentNight_0634d85f (line 89990)
 translate ru PostRahayalApartmentNight_0634d85f:
     # s "Who...who are you?"
-    s ""
+    s "Who...who are you?"
 
 # PostRahayalApartmentNight_f473ae72 (line 89991)
 translate ru PostRahayalApartmentNight_f473ae72:
@@ -1106,7 +1106,7 @@ translate ru PostRahayalApartmentNight_8f22a752:
 # PostRahayalApartmentNight_b139ba6e (line 89995)
 translate ru PostRahayalApartmentNight_b139ba6e:
     # s "You...you knew my father?"
-    s ""
+    s "You...you knew my father?"
 
 # PostRahayalApartmentNight_575b8806 (line 89996)
 translate ru PostRahayalApartmentNight_575b8806:
@@ -1146,7 +1146,7 @@ translate ru PostRahayalApartmentNight_87a3e4cd:
 # PostRahayalApartmentNight_255a53b0 (line 90003)
 translate ru PostRahayalApartmentNight_255a53b0:
     # s "My father never mentioned you. Ever."
-    s ""
+    s "My father never mentioned you. Ever."
 
 # PostRahayalApartmentNight_dd2f059e (line 90004)
 translate ru PostRahayalApartmentNight_dd2f059e:
@@ -1176,12 +1176,12 @@ translate ru PostRahayalApartmentNight_2d0ecd9f:
 # PostRahayalApartmentNight_e978d5cd (line 90009)
 translate ru PostRahayalApartmentNight_e978d5cd:
     # s "You...you say you're an ally of my family? Then why did you do nothing to help us?"
-    s ""
+    s "You...you say you're an ally of my family? Then why did you do nothing to help us?"
 
 # PostRahayalApartmentNight_6a47034d (line 90010)
 translate ru PostRahayalApartmentNight_6a47034d:
     # s "If...if we had magic...when the Tribesmen attacked...we...we could have..."
-    s ""
+    s "If...if we had magic...when the Tribesmen attacked...we...we could have..."
 
 # PostRahayalApartmentNight_1aee9de8 (line 90011)
 translate ru PostRahayalApartmentNight_1aee9de8:
@@ -1206,7 +1206,7 @@ translate ru PostRahayalApartmentNight_48424dc7:
 # PostRahayalApartmentNight_d7147a25 (line 90015)
 translate ru PostRahayalApartmentNight_d7147a25:
     # s "What do you mean to what end? To save my family! My kingdom! My people! My...my brother!!!"
-    s ""
+    s "What do you mean to what end? To save my family! My kingdom! My people! My...my brother!!!"
 
 # PostRahayalApartmentNight_b3c08cfb (line 90016)
 translate ru PostRahayalApartmentNight_b3c08cfb:
@@ -1231,7 +1231,7 @@ translate ru PostRahayalApartmentNight_a2b9d3f9:
 # PostRahayalApartmentNight_5e3243d2 (line 90020)
 translate ru PostRahayalApartmentNight_5e3243d2:
     # s "Yes, Hecate told me, your stupid Will, or whatever story you tell yourself to justify what you do."
-    s ""
+    s "Yes, Hecate told me, your stupid Will, or whatever story you tell yourself to justify what you do."
 
 # PostRahayalApartmentNight_61bd6d83 (line 90021)
 translate ru PostRahayalApartmentNight_61bd6d83:
@@ -1271,7 +1271,7 @@ translate ru PostRahayalApartmentNight_24964f38:
 # PostRahayalApartmentNight_4a5a37a1 (line 90028)
 translate ru PostRahayalApartmentNight_4a5a37a1:
     # s "People! People lived their lives there! And they didn't deserve this..."
-    s ""
+    s "People! People lived their lives there! And they didn't deserve this..."
 
 # PostRahayalApartmentNight_d781a618 (line 90029)
 translate ru PostRahayalApartmentNight_d781a618:
@@ -1311,20 +1311,5 @@ translate ru PostRahayalApartmentNight_addc8950:
 # PostRahayalApartmentNight_892eb108 (line 90036)
 translate ru PostRahayalApartmentNight_892eb108:
     # s "I hope I never see the world the way you do."
-    s ""
-
-# PostRahayalApartmentNight_2f304c42 (line 90387)
-translate ru PostRahayalApartmentNight_2f304c42:
-    # "Join forces with the mage Order"
-    "Join forces with the mage Order" ""
-
-# PostRahayalApartmentNight_d8f2a776 (line 90563)
-translate ru PostRahayalApartmentNight_d8f2a776:
-    # "Spend the Night with them"
-    "Spend the Night with them" ""
-
-# PostRahayalApartmentNight_39aeebb0 (line 90676)
-translate ru PostRahayalApartmentNight_39aeebb0:
-    # "Go home alone"
-    "Go home alone" ""
+    s "I hope I never see the world the way you do."
 

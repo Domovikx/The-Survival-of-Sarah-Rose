@@ -156,7 +156,7 @@ translate ru SailorPath9_fcf2e246:
 # SailorPath9_8ea41c73 (line 33917)
 translate ru SailorPath9_8ea41c73:
     # cb "Blondie, don't forget to clean up."
-    cb ""
+    cb "Blondie, don't forget to clean up."
 
 # SailorPath9_892d535e (line 33918)
 translate ru SailorPath9_892d535e:
@@ -166,7 +166,7 @@ translate ru SailorPath9_892d535e:
 # SailorPath9_b5dae3cd (line 33919)
 translate ru SailorPath9_b5dae3cd:
     # s "Of course, captain, I'm sorry."
-    s ""
+    s "Of course, captain, I'm sorry."
 
 # SailorPath9_95f97abb (line 33920)
 translate ru SailorPath9_95f97abb:
@@ -196,7 +196,7 @@ translate ru SailorPath9_dc9f8f60:
 # SailorPath9_bbd8b8f3 (line 33925)
 translate ru SailorPath9_bbd8b8f3:
     # cb "There there, Blondie. That's enough. Don't need you givin me another hard on."
-    cb ""
+    cb "There there, Blondie. That's enough. Don't need you givin me another hard on."
 
 # SailorPath9_1fd7a2d3 (line 33926)
 translate ru SailorPath9_1fd7a2d3:
@@ -211,7 +211,7 @@ translate ru SailorPath9_54fe91d9:
 # SailorPath9_36230db8 (line 33928)
 translate ru SailorPath9_36230db8:
     # cb "We'll be arriving in Northam pretty soon."
-    cb ""
+    cb "We'll be arriving in Northam pretty soon."
 
 # SailorPath9_dd235824 (line 33929)
 translate ru SailorPath9_dd235824:
@@ -221,17 +221,17 @@ translate ru SailorPath9_dd235824:
 # SailorPath9_15394d00 (line 33930)
 translate ru SailorPath9_15394d00:
     # s "How soon?"
-    s ""
+    s "How soon?"
 
 # SailorPath9_5a798167 (line 33931)
 translate ru SailorPath9_5a798167:
     # cb "Maybe tomorrow, if the wind is favorable."
-    cb ""
+    cb "Maybe tomorrow, if the wind is favorable."
 
 # SailorPath9_40a38937 (line 33932)
 translate ru SailorPath9_40a38937:
     # s "That's good, right?"
-    s ""
+    s "That's good, right?"
 
 # SailorPath9_8092c1c9 (line 33933)
 translate ru SailorPath9_8092c1c9:
@@ -241,12 +241,12 @@ translate ru SailorPath9_8092c1c9:
 # SailorPath9_78ff09f2 (line 33934)
 translate ru SailorPath9_78ff09f2:
     # cb "We lost a few days there, but I'll still make a killing off the contract."
-    cb ""
+    cb "We lost a few days there, but I'll still make a killing off the contract."
 
 # SailorPath9_cf961325 (line 33935)
 translate ru SailorPath9_cf961325:
     # cb "Tell me blondie, you gonna miss our new friend Nick?"
-    cb ""
+    cb "Tell me blondie, you gonna miss our new friend Nick?"
 
 # SailorPath9_d2dcd9c3 (line 33936)
 translate ru SailorPath9_d2dcd9c3:
@@ -256,7 +256,7 @@ translate ru SailorPath9_d2dcd9c3:
 # SailorPath9_6ba03567 (line 33937)
 translate ru SailorPath9_6ba03567:
     # s "I think I'll miss what he was able to teach me."
-    s ""
+    s "I think I'll miss what he was able to teach me."
 
 # SailorPath9_a59834cc (line 33938)
 translate ru SailorPath9_a59834cc:
@@ -266,7 +266,7 @@ translate ru SailorPath9_a59834cc:
 # SailorPath9_692bb500 (line 33939)
 translate ru SailorPath9_692bb500:
     # cb "Sure, but you and him were making eyes at each other when we first left. Even an old captain can see that much."
-    cb ""
+    cb "Sure, but you and him were making eyes at each other when we first left. Even an old captain can see that much."
 
 # SailorPath9_f742e769 (line 33940)
 translate ru SailorPath9_f742e769:
@@ -276,12 +276,12 @@ translate ru SailorPath9_f742e769:
 # SailorPath9_199c9c3e (line 33941)
 translate ru SailorPath9_199c9c3e:
     # s "That was just...foolishness, captain."
-    s ""
+    s "That was just...foolishness, captain."
 
 # SailorPath9_2a08092c (line 33942)
 translate ru SailorPath9_2a08092c:
     # cb "You sure?"
-    cb ""
+    cb "You sure?"
 
 # SailorPath9_79e1b212 (line 33943)
 translate ru SailorPath9_79e1b212:
@@ -291,12 +291,12 @@ translate ru SailorPath9_79e1b212:
 # SailorPath9_25a4efa3 (line 33944)
 translate ru SailorPath9_25a4efa3:
     # cb "Because I can go fetch him from the stocking room, untie him. Let you and him have a little fun."
-    cb ""
+    cb "Because I can go fetch him from the stocking room, untie him. Let you and him have a little fun."
 
 # SailorPath9_13044f05 (line 33945)
 translate ru SailorPath9_13044f05:
     # cb "Before I go and make an honest woman out of you in Northam."
-    cb ""
+    cb "Before I go and make an honest woman out of you in Northam."
 
 # SailorPath9_554a0ca5 (line 33946)
 translate ru SailorPath9_554a0ca5:
@@ -306,7 +306,7 @@ translate ru SailorPath9_554a0ca5:
 # SailorPath9_22287145 (line 33947)
 translate ru SailorPath9_22287145:
     # s "If I wanted to get off, I think I'd need something bigger than what he has to offer. Maybe your pinky."
-    s ""
+    s "If I wanted to get off, I think I'd need something bigger than what he has to offer. Maybe your pinky."
 
 # SailorPath9_d7ad7798 (line 33948)
 translate ru SailorPath9_d7ad7798:
@@ -331,12 +331,12 @@ translate ru SailorPath9_6c9ca192:
 # SailorPath9_3e88a6b5 (line 33952)
 translate ru SailorPath9_3e88a6b5:
     # cb "Good, that's my girl."
-    cb ""
+    cb "Good, that's my girl."
 
 # SailorPath9_974a3b93 (line 33953)
 translate ru SailorPath9_974a3b93:
     # cb "Cause once I put that ring on you, you're mine forever, got that blondie?"
-    cb ""
+    cb "Cause once I put that ring on you, you're mine forever, got that blondie?"
 
 # SailorPath9_b6c62fd3 (line 33954)
 translate ru SailorPath9_b6c62fd3:
@@ -346,12 +346,12 @@ translate ru SailorPath9_b6c62fd3:
 # SailorPath9_735a578f (line 33955)
 translate ru SailorPath9_735a578f:
     # cb "I'll treat you right, but you gotta treat me right, ya know?"
-    cb ""
+    cb "I'll treat you right, but you gotta treat me right, ya know?"
 
 # SailorPath9_d3afbe75 (line 33956)
 translate ru SailorPath9_d3afbe75:
     # cb "Keep a nice house. Bear my children. Raise them. Take care of me whenever I'm in port."
-    cb ""
+    cb "Keep a nice house. Bear my children. Raise them. Take care of me whenever I'm in port."
 
 # SailorPath9_17fea75d (line 33957)
 translate ru SailorPath9_17fea75d:
@@ -361,17 +361,17 @@ translate ru SailorPath9_17fea75d:
 # SailorPath9_8b33d6b2 (line 33958)
 translate ru SailorPath9_8b33d6b2:
     # s "Yes captain, I know a wife's duties."
-    s ""
+    s "Yes captain, I know a wife's duties."
 
 # SailorPath9_49997e4d (line 33959)
 translate ru SailorPath9_49997e4d:
     # cb "You think you'll like all that?"
-    cb ""
+    cb "You think you'll like all that?"
 
 # SailorPath9_e36f6a37 (line 33960)
 translate ru SailorPath9_e36f6a37:
     # s "Yes, captain."
-    s ""
+    s "Yes, captain."
 
 # SailorPath9_213b77e9 (line 33961)
 translate ru SailorPath9_213b77e9:
@@ -461,7 +461,7 @@ translate ru SailorPath9_1277040d:
 # SailorPath9_b7d82417 (line 33978)
 translate ru SailorPath9_b7d82417:
     # cb "What is it blondie?"
-    cb ""
+    cb "What is it blondie?"
 
 # SailorPath9_ee8ddea9 (line 33979)
 translate ru SailorPath9_ee8ddea9:
@@ -491,17 +491,17 @@ translate ru SailorPath9_a1fa6362:
 # SailorPath9_2713e2e6 (line 33984)
 translate ru SailorPath9_2713e2e6:
     # s "I was just...daydreaming, I'm sorry."
-    s ""
+    s "I was just...daydreaming, I'm sorry."
 
 # SailorPath9_4d8138ef (line 33985)
 translate ru SailorPath9_4d8138ef:
     # cb "About what?"
-    cb ""
+    cb "About what?"
 
 # SailorPath9_9506f1c4 (line 33986)
 translate ru SailorPath9_9506f1c4:
     # s "Would you believe me if I said your cock?"
-    s ""
+    s "Would you believe me if I said your cock?"
 
 # SailorPath9_22b51741 (line 33987)
 translate ru SailorPath9_22b51741:
@@ -511,7 +511,7 @@ translate ru SailorPath9_22b51741:
 # SailorPath9_c553ed9a (line 33988)
 translate ru SailorPath9_c553ed9a:
     # cb "Sure, it's been known to leave an impression on most women."
-    cb ""
+    cb "Sure, it's been known to leave an impression on most women."
 
 # SailorPath9_b5b53350 (line 33989)
 translate ru SailorPath9_b5b53350:
@@ -521,7 +521,7 @@ translate ru SailorPath9_b5b53350:
 # SailorPath9_d2371cfd (line 33990)
 translate ru SailorPath9_d2371cfd:
     # s "Already?"
-    s ""
+    s "Already?"
 
 # SailorPath9_321d7254 (line 33991)
 translate ru SailorPath9_321d7254:
@@ -531,7 +531,7 @@ translate ru SailorPath9_321d7254:
 # SailorPath9_a8c5e375 (line 33992)
 translate ru SailorPath9_a8c5e375:
     # cb "What can I say, you bring it out in me."
-    cb ""
+    cb "What can I say, you bring it out in me."
 
 # SailorPath9_756e8c13 (line 33993)
 translate ru SailorPath9_756e8c13:
@@ -666,7 +666,7 @@ translate ru SailorPath9_cd074a03:
 # SailorPath9_1101b2b8 (line 34031)
 translate ru SailorPath9_1101b2b8:
     # s "Fair that you treated him right in the end."
-    s ""
+    s "Fair that you treated him right in the end."
 
 # SailorPath9_057cdeaf (line 34032)
 translate ru SailorPath9_057cdeaf:
@@ -676,22 +676,22 @@ translate ru SailorPath9_057cdeaf:
 # SailorPath9_fd0e923e (line 34033)
 translate ru SailorPath9_fd0e923e:
     # cb "Fair?"
-    cb ""
+    cb "Fair?"
 
 # SailorPath9_b3d6faa2 (line 34034)
 translate ru SailorPath9_b3d6faa2:
     # cb "If it was up to me that pecker would be roped up for mutiny, but I don't need more trouble than I got."
-    cb ""
+    cb "If it was up to me that pecker would be roped up for mutiny, but I don't need more trouble than I got."
 
 # SailorPath9_d95f3e68 (line 34035)
 translate ru SailorPath9_d95f3e68:
     # cb "He walks into town naked as the day he was born with some cage on his cock, the authorities are gonna be askin me questions till I die of old age."
-    cb ""
+    cb "He walks into town naked as the day he was born with some cage on his cock, the authorities are gonna be askin me questions till I die of old age."
 
 # SailorPath9_0141945d (line 34036)
 translate ru SailorPath9_0141945d:
     # cb "I just made sure that if he starts blabbering, ain't nobody got a reason to believe him."
-    cb ""
+    cb "I just made sure that if he starts blabbering, ain't nobody got a reason to believe him."
 
 # SailorPath9_ad810985 (line 34037)
 translate ru SailorPath9_ad810985:
@@ -706,7 +706,7 @@ translate ru SailorPath9_ec4a1f5a:
 # SailorPath9_8637a359 (line 34039)
 translate ru SailorPath9_8637a359:
     # cb "Don't go tellin me you got sympathy for the kid?"
-    cb ""
+    cb "Don't go tellin me you got sympathy for the kid?"
 
 # SailorPath9_0784f6ab (line 34040)
 translate ru SailorPath9_0784f6ab:
@@ -716,7 +716,7 @@ translate ru SailorPath9_0784f6ab:
 # SailorPath9_ca736d7b (line 34041)
 translate ru SailorPath9_ca736d7b:
     # s "He tried to commit mutiny. A punishment was fair."
-    s ""
+    s "He tried to commit mutiny. A punishment was fair."
 
 # SailorPath9_e9b3c383 (line 34042)
 translate ru SailorPath9_e9b3c383:
@@ -726,12 +726,12 @@ translate ru SailorPath9_e9b3c383:
 # SailorPath9_466c4a7c (line 34043)
 translate ru SailorPath9_466c4a7c:
     # cb "That's right, now stop hovering. Day's work only just started."
-    cb ""
+    cb "That's right, now stop hovering. Day's work only just started."
 
 # SailorPath9_2a259c8f (line 34044)
 translate ru SailorPath9_2a259c8f:
     # s "Yes captain!"
-    s ""
+    s "Yes captain!"
 
 # SailorPath9_80925191 (line 34050)
 translate ru SailorPath9_80925191:
@@ -831,12 +831,12 @@ translate ru SailorPath9_83e2f74b:
 # SailorPath9_620a726b (line 34074)
 translate ru SailorPath9_620a726b:
     # cb "Good work today, blondie."
-    cb ""
+    cb "Good work today, blondie."
 
 # SailorPath9_81f548e6 (line 34075)
 translate ru SailorPath9_81f548e6:
     # cb "Whatever you lack in muscle, you make up with that brain of yours."
-    cb ""
+    cb "Whatever you lack in muscle, you make up with that brain of yours."
 
 # SailorPath9_a0c1c41e (line 34076)
 translate ru SailorPath9_a0c1c41e:
@@ -846,7 +846,7 @@ translate ru SailorPath9_a0c1c41e:
 # SailorPath9_b1697862 (line 34077)
 translate ru SailorPath9_b1697862:
     # s "Thank you, captain."
-    s ""
+    s "Thank you, captain."
 
 # SailorPath9_60751f98 (line 34078)
 translate ru SailorPath9_60751f98:
@@ -856,7 +856,7 @@ translate ru SailorPath9_60751f98:
 # SailorPath9_bc7fb54c (line 34079)
 translate ru SailorPath9_bc7fb54c:
     # cb "Ya think our kids will inherit some of those brains for you?"
-    cb ""
+    cb "Ya think our kids will inherit some of those brains for you?"
 
 # SailorPath9_39152620 (line 34080)
 translate ru SailorPath9_39152620:
@@ -881,17 +881,17 @@ translate ru SailorPath9_a56e6ce4:
 # SailorPath9_bb1d15b9 (line 34084)
 translate ru SailorPath9_bb1d15b9:
     # s "Are you...serious?"
-    s ""
+    s "Are you...serious?"
 
 # SailorPath9_2156627f (line 34085)
 translate ru SailorPath9_2156627f:
     # cb "Watch how you speak to your captain, blondie."
-    cb ""
+    cb "Watch how you speak to your captain, blondie."
 
 # SailorPath9_1a22ea18 (line 34086)
 translate ru SailorPath9_1a22ea18:
     # s "I'm sorry, captain Belmont, but...I wasn't sure you meant it."
-    s ""
+    s "I'm sorry, captain Belmont, but...I wasn't sure you meant it."
 
 # SailorPath9_e950e257 (line 34087)
 translate ru SailorPath9_e950e257:
@@ -901,7 +901,7 @@ translate ru SailorPath9_e950e257:
 # SailorPath9_576f2e95 (line 34088)
 translate ru SailorPath9_576f2e95:
     # cb "You think I would joke about a thing like that? I ain't that evil, blondie."
-    cb ""
+    cb "You think I would joke about a thing like that? I ain't that evil, blondie."
 
 # SailorPath9_709ed485 (line 34089)
 translate ru SailorPath9_709ed485:
@@ -911,17 +911,17 @@ translate ru SailorPath9_709ed485:
 # SailorPath9_57d79bf2 (line 34090)
 translate ru SailorPath9_57d79bf2:
     # s "I'm sorry, I didn't mean to suggest you were."
-    s ""
+    s "I'm sorry, I didn't mean to suggest you were."
 
 # SailorPath9_90b1e2af (line 34091)
 translate ru SailorPath9_90b1e2af:
     # cb "Good."
-    cb ""
+    cb "Good."
 
 # SailorPath9_8540430f (line 34092)
 translate ru SailorPath9_8540430f:
     # cb "Come next morning, I'll go have a chat with the priest in town and see about whether the chapel is available."
-    cb ""
+    cb "Come next morning, I'll go have a chat with the priest in town and see about whether the chapel is available."
 
 # SailorPath9_8eeeb7a9 (line 34093)
 translate ru SailorPath9_8eeeb7a9:
@@ -931,7 +931,7 @@ translate ru SailorPath9_8eeeb7a9:
 # SailorPath9_30f40423 (line 34094)
 translate ru SailorPath9_30f40423:
     # s "What about the house you promised?"
-    s ""
+    s "What about the house you promised?"
 
 # SailorPath9_7921200d (line 34095)
 translate ru SailorPath9_7921200d:
@@ -941,12 +941,12 @@ translate ru SailorPath9_7921200d:
 # SailorPath9_c1291813 (line 34096)
 translate ru SailorPath9_c1291813:
     # cb "Yeah, I'll get to seein about that too."
-    cb ""
+    cb "Yeah, I'll get to seein about that too."
 
 # SailorPath9_ed7217bc (line 34097)
 translate ru SailorPath9_ed7217bc:
     # cb "Then we're not gonna leave the house for a week."
-    cb ""
+    cb "Then we're not gonna leave the house for a week."
 
 # SailorPath9_01a2ee4f (line 34098)
 translate ru SailorPath9_01a2ee4f:
@@ -956,7 +956,7 @@ translate ru SailorPath9_01a2ee4f:
 # SailorPath9_3e5155f9 (line 34099)
 translate ru SailorPath9_3e5155f9:
     # s "And...you really want to have kids?"
-    s ""
+    s "And...you really want to have kids?"
 
 # SailorPath9_291ebba9 (line 34100)
 translate ru SailorPath9_291ebba9:
@@ -966,12 +966,12 @@ translate ru SailorPath9_291ebba9:
 # SailorPath9_fb19daa4 (line 34101)
 translate ru SailorPath9_fb19daa4:
     # cb "I ain't never given it too much thought."
-    cb ""
+    cb "I ain't never given it too much thought."
 
 # SailorPath9_407f4295 (line 34102)
 translate ru SailorPath9_407f4295:
     # cb "Hell I fucked and screwed my way across the world, no doubt I got a couple of kids somewhere."
-    cb ""
+    cb "Hell I fucked and screwed my way across the world, no doubt I got a couple of kids somewhere."
 
 # SailorPath9_16c3bff1 (line 34103)
 translate ru SailorPath9_16c3bff1:
@@ -981,17 +981,17 @@ translate ru SailorPath9_16c3bff1:
 # SailorPath9_d7c11e05 (line 34104)
 translate ru SailorPath9_d7c11e05:
     # cb "But I'm gettin older, I ain't blind to that."
-    cb ""
+    cb "But I'm gettin older, I ain't blind to that."
 
 # SailorPath9_96e24fef (line 34105)
 translate ru SailorPath9_96e24fef:
     # cb "Some day soon I'll be wanting to sell my ship, retire off what I got."
-    cb ""
+    cb "Some day soon I'll be wanting to sell my ship, retire off what I got."
 
 # SailorPath9_e2eb3cf8 (line 34106)
 translate ru SailorPath9_e2eb3cf8:
     # cb "I've worked long and hard all my life. I'd like to give this whole family life a try."
-    cb ""
+    cb "I've worked long and hard all my life. I'd like to give this whole family life a try."
 
 # SailorPath9_c88afe33 (line 34107)
 translate ru SailorPath9_c88afe33:
@@ -1001,12 +1001,12 @@ translate ru SailorPath9_c88afe33:
 # SailorPath9_291bc8d1 (line 34108)
 translate ru SailorPath9_291bc8d1:
     # cb "Like I said, I got my fair share of women, but I don't need some illiterate ship whore to be havin my kids."
-    cb ""
+    cb "Like I said, I got my fair share of women, but I don't need some illiterate ship whore to be havin my kids."
 
 # SailorPath9_f8519954 (line 34109)
 translate ru SailorPath9_f8519954:
     # cb "But you, blondie..."
-    cb ""
+    cb "But you, blondie..."
 
 # SailorPath9_433a6b01 (line 34110)
 translate ru SailorPath9_433a6b01:
@@ -1016,7 +1016,7 @@ translate ru SailorPath9_433a6b01:
 # SailorPath9_5292e72b (line 34111)
 translate ru SailorPath9_5292e72b:
     # cb "You got the looks and the brains. You're proper. You're the kinda woman that can give me a proper legacy."
-    cb ""
+    cb "You got the looks and the brains. You're proper. You're the kinda woman that can give me a proper legacy."
 
 # SailorPath9_f7cc738a (line 34112)
 translate ru SailorPath9_f7cc738a:
@@ -1031,22 +1031,22 @@ translate ru SailorPath9_87a43b62:
 # SailorPath9_aff7da49 (line 34114)
 translate ru SailorPath9_aff7da49:
     # s "So that's it then?"
-    s ""
+    s "So that's it then?"
 
 # SailorPath9_f05e72b4 (line 34115)
 translate ru SailorPath9_f05e72b4:
     # s "Marriage. House. Kids."
-    s ""
+    s "Marriage. House. Kids."
 
 # SailorPath9_9bcf1251 (line 34116)
 translate ru SailorPath9_9bcf1251:
     # cb "Most would be happy to have any of those, blondie, what's the problem?"
-    cb ""
+    cb "Most would be happy to have any of those, blondie, what's the problem?"
 
 # SailorPath9_844e3c89 (line 34117)
 translate ru SailorPath9_844e3c89:
     # cb "You still got in your brain that we don't fit?"
-    cb ""
+    cb "You still got in your brain that we don't fit?"
 
 # SailorPath9_7ff87f97 (line 34118)
 translate ru SailorPath9_7ff87f97:
@@ -1056,7 +1056,7 @@ translate ru SailorPath9_7ff87f97:
 # SailorPath9_3c85f950 (line 34119)
 translate ru SailorPath9_3c85f950:
     # s "Well, we make an odd pair, wouldn't you say?"
-    s ""
+    s "Well, we make an odd pair, wouldn't you say?"
 
 # SailorPath9_1c80f6c3 (line 34120)
 translate ru SailorPath9_1c80f6c3:
@@ -1066,17 +1066,17 @@ translate ru SailorPath9_1c80f6c3:
 # SailorPath9_06158e95 (line 34121)
 translate ru SailorPath9_06158e95:
     # cb "Who gives a fuck what the world thinks."
-    cb ""
+    cb "Who gives a fuck what the world thinks."
 
 # SailorPath9_e5d5e7ff (line 34122)
 translate ru SailorPath9_e5d5e7ff:
     # cb "Sure, I'm old, and I know I ain't exactly the type that a girl like you ought to marry, but so what."
-    cb ""
+    cb "Sure, I'm old, and I know I ain't exactly the type that a girl like you ought to marry, but so what."
 
 # SailorPath9_82afa522 (line 34123)
 translate ru SailorPath9_82afa522:
     # cb "I'll make sure you provided for. Make sure you safe. And if my cock stops workin I'll divorce you myself."
-    cb ""
+    cb "I'll make sure you provided for. Make sure you safe. And if my cock stops workin I'll divorce you myself."
 
 # SailorPath9_21400b66 (line 34124)
 translate ru SailorPath9_21400b66:
@@ -1086,7 +1086,7 @@ translate ru SailorPath9_21400b66:
 # SailorPath9_ad3d4d07 (line 34125)
 translate ru SailorPath9_ad3d4d07:
     # s "I think your heart will give out before your cock will."
-    s ""
+    s "I think your heart will give out before your cock will."
 
 # SailorPath9_5ceaeafb (line 34126)
 translate ru SailorPath9_5ceaeafb:
@@ -1121,7 +1121,7 @@ translate ru SailorPath9_7b937107:
 # SailorPath9_0864e361 (line 34132)
 translate ru SailorPath9_0864e361:
     # cb "Come along, blondie."
-    cb ""
+    cb "Come along, blondie."
 
 # SailorPath9_a99d001e (line 34133)
 translate ru SailorPath9_a99d001e:
@@ -1321,7 +1321,7 @@ translate ru SailorPath9_de321495:
 # SailorPath9_af35e1ae (line 34187)
 translate ru SailorPath9_af35e1ae:
     # s "I love you..."
-    s ""
+    s "I love you..."
 
 # SailorPath9_75e88e82 (line 34188)
 translate ru SailorPath9_75e88e82:
@@ -1346,7 +1346,7 @@ translate ru SailorPath9_64a46f95:
 # SailorPath9_f780f876 (line 34192)
 translate ru SailorPath9_f780f876:
     # s "I love you!"
-    s ""
+    s "I love you!"
 
 # SailorPath9_762fa622 (line 34193)
 translate ru SailorPath9_762fa622:
@@ -1411,7 +1411,7 @@ translate ru SailorPath9_752a6700:
 # SailorPath9_108a0fcd (line 34205)
 translate ru SailorPath9_108a0fcd:
     # cb "I love you too, blondie."
-    cb ""
+    cb "I love you too, blondie."
 
 # SailorPath9_a10b8b53 (line 34206)
 translate ru SailorPath9_a10b8b53:
@@ -1426,17 +1426,17 @@ translate ru SailorPath9_6c49a177:
 # SailorPath9_473bf5a7 (line 34213)
 translate ru SailorPath9_473bf5a7:
     # cb "Are you ok?"
-    cb ""
+    cb "Are you ok?"
 
 # SailorPath9_57af686c (line 34214)
 translate ru SailorPath9_57af686c:
     # s "Yes!"
-    s ""
+    s "Yes!"
 
 # SailorPath9_0d8a9ad3 (line 34215)
 translate ru SailorPath9_0d8a9ad3:
     # s "Keep going!"
-    s ""
+    s "Keep going!"
 
 # SailorPath9_f33a4e46 (line 34216)
 translate ru SailorPath9_f33a4e46:
@@ -1451,7 +1451,7 @@ translate ru SailorPath9_ee4ed3e8:
 # SailorPath9_aecd47b0 (line 34218)
 translate ru SailorPath9_aecd47b0:
     # s "I love you!!!"
-    s ""
+    s "I love you!!!"
 
 # SailorPath9_47f2431f (line 34219)
 translate ru SailorPath9_47f2431f:
@@ -1496,7 +1496,7 @@ translate ru SailorPath9_d14b3740:
 # SailorPath9_94c6a4dc (line 34232)
 translate ru SailorPath9_94c6a4dc:
     # s "I'll...I'll do it..."
-    s ""
+    s "I'll...I'll do it..."
 
 # SailorPath9_14327b51 (line 34233)
 translate ru SailorPath9_14327b51:
@@ -1511,12 +1511,12 @@ translate ru SailorPath9_88241e88:
 # SailorPath9_4c1600c9 (line 34235)
 translate ru SailorPath9_4c1600c9:
     # cb "Do what?"
-    cb ""
+    cb "Do what?"
 
 # SailorPath9_c05fe40a (line 34236)
 translate ru SailorPath9_c05fe40a:
     # s "All of it!"
-    s ""
+    s "All of it!"
 
 # SailorPath9_a9cd9f82 (line 34237)
 translate ru SailorPath9_a9cd9f82:
@@ -1526,7 +1526,7 @@ translate ru SailorPath9_a9cd9f82:
 # SailorPath9_54e88c43 (line 34238)
 translate ru SailorPath9_54e88c43:
     # s "The house...the marriage...the family...I'll do all of it!"
-    s ""
+    s "The house...the marriage...the family...I'll do all of it!"
 
 # SailorPath9_5a35ccd4 (line 34239)
 translate ru SailorPath9_5a35ccd4:
@@ -1546,7 +1546,7 @@ translate ru SailorPath9_1def422a:
 # SailorPath9_085410d8 (line 34242)
 translate ru SailorPath9_085410d8:
     # cb "I'm gonna put a baby in there."
-    cb ""
+    cb "I'm gonna put a baby in there."
 
 # SailorPath9_4bee2966 (line 34248)
 translate ru SailorPath9_4bee2966:
@@ -1556,7 +1556,7 @@ translate ru SailorPath9_4bee2966:
 # SailorPath9_efed59af (line 34249)
 translate ru SailorPath9_efed59af:
     # s "Yes!"
-    s ""
+    s "Yes!"
 
 # SailorPath9_a05302be (line 34250)
 translate ru SailorPath9_a05302be:
@@ -1566,7 +1566,7 @@ translate ru SailorPath9_a05302be:
 # SailorPath9_ec459aa6 (line 34251)
 translate ru SailorPath9_ec459aa6:
     # s "Get me pregnant!"
-    s ""
+    s "Get me pregnant!"
 
 # SailorPath9_bb311707 (line 34252)
 translate ru SailorPath9_bb311707:
@@ -1636,7 +1636,7 @@ translate ru SailorPath9_2e909eff:
 # SailorPath9_44267ceb (line 34270)
 translate ru SailorPath9_44267ceb:
     # cb "Do you..."
-    cb ""
+    cb "Do you..."
 
 # SailorPath9_ca76d386 (line 34271)
 translate ru SailorPath9_ca76d386:
@@ -1646,7 +1646,7 @@ translate ru SailorPath9_ca76d386:
 # SailorPath9_145b8001 (line 34272)
 translate ru SailorPath9_145b8001:
     # cb "Do you think it will work?"
-    cb ""
+    cb "Do you think it will work?"
 
 # SailorPath9_adffa9da (line 34273)
 translate ru SailorPath9_adffa9da:
@@ -1656,12 +1656,12 @@ translate ru SailorPath9_adffa9da:
 # SailorPath9_b36c9834 (line 34274)
 translate ru SailorPath9_b36c9834:
     # s "Of course. I know it will."
-    s ""
+    s "Of course. I know it will."
 
 # SailorPath9_77a60d2f (line 34275)
 translate ru SailorPath9_77a60d2f:
     # cb "How can you know?"
-    cb ""
+    cb "How can you know?"
 
 # SailorPath9_2feb37ca (line 34276)
 translate ru SailorPath9_2feb37ca:
@@ -1671,5 +1671,5 @@ translate ru SailorPath9_2feb37ca:
 # SailorPath9_d447ef64 (line 34277)
 translate ru SailorPath9_d447ef64:
     # s "Call it a woman's intuition."
-    s ""
+    s "Call it a woman's intuition."
 

@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: WarriorQueen6Calshure
-# Total blocks: 91
+# Total blocks: 81
 
 # WarriorQueen6Calshure_9d3b332b (line 56544)
 translate ru WarriorQueen6Calshure_9d3b332b:
@@ -216,7 +216,7 @@ translate ru WarriorQueen6Calshure_f68a1235:
 # WarriorQueen6Calshure_7acea315 (line 56599)
 translate ru WarriorQueen6Calshure_7acea315:
     # s "Report?"
-    s ""
+    s "Report?"
 
 # WarriorQueen6Calshure_be430df1 (line 56600)
 translate ru WarriorQueen6Calshure_be430df1:
@@ -276,7 +276,7 @@ translate ru WarriorQueen6Calshure_d3bbff7a:
 # WarriorQueen6Calshure_2053c108 (line 56611)
 translate ru WarriorQueen6Calshure_2053c108:
     # s "Anything else?"
-    s ""
+    s "Anything else?"
 
 # WarriorQueen6Calshure_08b6fc20 (line 56612)
 translate ru WarriorQueen6Calshure_08b6fc20:
@@ -291,7 +291,7 @@ translate ru WarriorQueen6Calshure_780221db:
 # WarriorQueen6Calshure_3de2cdb0 (line 56614)
 translate ru WarriorQueen6Calshure_3de2cdb0:
     # s "Just say it."
-    s ""
+    s "Just say it."
 
 # WarriorQueen6Calshure_5b7231c4 (line 56615)
 translate ru WarriorQueen6Calshure_5b7231c4:
@@ -306,7 +306,7 @@ translate ru WarriorQueen6Calshure_ed874c47:
 # WarriorQueen6Calshure_9d692bef (line 56617)
 translate ru WarriorQueen6Calshure_9d692bef:
     # s "A voice?"
-    s ""
+    s "A voice?"
 
 # WarriorQueen6Calshure_8451efb7 (line 56618)
 translate ru WarriorQueen6Calshure_8451efb7:
@@ -321,7 +321,7 @@ translate ru WarriorQueen6Calshure_ee087683:
 # WarriorQueen6Calshure_bcd0053a (line 56620)
 translate ru WarriorQueen6Calshure_bcd0053a:
     # s "What did he say?"
-    s ""
+    s "What did he say?"
 
 # WarriorQueen6Calshure_5135bf95 (line 56621)
 translate ru WarriorQueen6Calshure_5135bf95:
@@ -331,12 +331,12 @@ translate ru WarriorQueen6Calshure_5135bf95:
 # WarriorQueen6Calshure_bb25c5a8 (line 56622)
 translate ru WarriorQueen6Calshure_bb25c5a8:
     # s "A meeting?"
-    s ""
+    s "A meeting?"
 
 # WarriorQueen6Calshure_cb9f8425 (line 56623)
 translate ru WarriorQueen6Calshure_cb9f8425:
     # s "Did he say what about?"
-    s ""
+    s "Did he say what about?"
 
 # WarriorQueen6Calshure_3c43877e (line 56624)
 translate ru WarriorQueen6Calshure_3c43877e:
@@ -361,7 +361,7 @@ translate ru WarriorQueen6Calshure_c6ccce8a:
 # WarriorQueen6Calshure_aead0ec9 (line 56628)
 translate ru WarriorQueen6Calshure_aead0ec9:
     # s "Thank you, that's all. Good work."
-    s ""
+    s "Thank you, that's all. Good work."
 
 # WarriorQueen6Calshure_938407c7 (line 56629)
 translate ru WarriorQueen6Calshure_938407c7:
@@ -407,54 +407,4 @@ translate ru WarriorQueen6Calshure_2680a928:
 translate ru WarriorQueen6Calshure_29dcf61d:
     # "Sarah considered her options."
     ""
-
-# WarriorQueen6Calshure_e292e82b (line 56643)
-translate ru WarriorQueen6Calshure_e292e82b:
-    # "Meet with the Tribesman"
-    "Meet with the Tribesman" ""
-
-# WarriorQueen6Calshure_9e062847 (line 56772)
-translate ru WarriorQueen6Calshure_9e062847:
-    # "Enter Calshure with him"
-    "Enter Calshure with him" ""
-
-# WarriorQueen6Calshure_00086439 (line 56978)
-translate ru WarriorQueen6Calshure_00086439:
-    # "Sleep with the Old Tribesman"
-    "Sleep with the Old Tribesman" ""
-
-# WarriorQueen6Calshure_63d1046d (line 57158)
-translate ru WarriorQueen6Calshure_63d1046d:
-    # "Only let him touch you"
-    "Only let him touch you" ""
-
-# WarriorQueen6Calshure_3cba0f35 (line 57188)
-translate ru WarriorQueen6Calshure_3cba0f35:
-    # "Surrender to all of them"
-    "Surrender to all of them" ""
-
-# WarriorQueen6Calshure_801b6bd7 (line 57247)
-translate ru WarriorQueen6Calshure_801b6bd7:
-    # "Offer more gold"
-    "Offer more gold" ""
-
-# WarriorQueen6Calshure_9d6f38a1 (line 57272)
-translate ru WarriorQueen6Calshure_9d6f38a1:
-    # "Refuse, start the siege"
-    "Refuse, start the siege" ""
-
-# WarriorQueen6Calshure_90631830 (line 57284)
-translate ru WarriorQueen6Calshure_90631830:
-    # "Ignore his request, prepare the siege"
-    "Ignore his request, prepare the siege" ""
-
-# WarriorQueen6Calshure_882a8c7a (line 57336)
-translate ru WarriorQueen6Calshure_882a8c7a:
-    # "Start the siege"
-    "Start the siege" ""
-
-# WarriorQueen6Calshure_a16c991f (line 57453)
-translate ru WarriorQueen6Calshure_a16c991f:
-    # "Delay the siege, send scouts"
-    "Delay the siege, send scouts" ""
 

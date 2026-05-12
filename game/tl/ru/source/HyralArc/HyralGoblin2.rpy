@@ -366,7 +366,7 @@ translate ru HyralGoblin2_41b7d72d:
 # HyralGoblin2_170d6f94 (line 35909)
 translate ru HyralGoblin2_170d6f94:
     # s "Let's keep going."
-    s ""
+    s "Let's keep going."
 
 # HyralGoblin2_2679e8e5 (line 35910)
 translate ru HyralGoblin2_2679e8e5:
@@ -426,7 +426,7 @@ translate ru HyralGoblin2_449e40d1:
 # HyralGoblin2_ed89ab0d (line 35926)
 translate ru HyralGoblin2_ed89ab0d:
     # s "We...we can rest here?"
-    s ""
+    s "We...we can rest here?"
 
 # HyralGoblin2_7046446f (line 35927)
 translate ru HyralGoblin2_7046446f:
@@ -546,7 +546,7 @@ translate ru HyralGoblin2_885b9033:
 # HyralGoblin2_faa28c16 (line 35950)
 translate ru HyralGoblin2_faa28c16:
     # s "I wanted to thank you...for saving me."
-    s ""
+    s "I wanted to thank you...for saving me."
 
 # HyralGoblin2_b981734c (line 35951)
 translate ru HyralGoblin2_b981734c:
@@ -561,7 +561,7 @@ translate ru HyralGoblin2_29da1303:
 # HyralGoblin2_82243e57 (line 35953)
 translate ru HyralGoblin2_82243e57:
     # s "Can I thank you...properly?"
-    s ""
+    s "Can I thank you...properly?"
 
 # HyralGoblin2_9eeaf05b (line 35959)
 translate ru HyralGoblin2_9eeaf05b:
@@ -751,7 +751,7 @@ translate ru HyralGoblin2_0ba98859:
 # HyralGoblin2_c8e1e594 (line 36001)
 translate ru HyralGoblin2_c8e1e594:
     # s "Aaah!!"
-    s ""
+    s "Aaah!!"
 
 # HyralGoblin2_4e51c86b (line 36002)
 translate ru HyralGoblin2_4e51c86b:
@@ -766,7 +766,7 @@ translate ru HyralGoblin2_8c5f008c:
 # HyralGoblin2_c2126a62 (line 36004)
 translate ru HyralGoblin2_c2126a62:
     # s "Wait..."
-    s ""
+    s "Wait..."
 
 # HyralGoblin2_29f3cdda (line 36005)
 translate ru HyralGoblin2_29f3cdda:
@@ -776,7 +776,7 @@ translate ru HyralGoblin2_29f3cdda:
 # HyralGoblin2_05f33ffd (line 36006)
 translate ru HyralGoblin2_05f33ffd:
     # s "Slow...slow down..."
-    s ""
+    s "Slow...slow down..."
 
 # HyralGoblin2_0a36dde4 (line 36007)
 translate ru HyralGoblin2_0a36dde4:
@@ -801,7 +801,7 @@ translate ru HyralGoblin2_1d225516:
 # HyralGoblin2_3ae11726 (line 36011)
 translate ru HyralGoblin2_3ae11726:
     # s "Aah...aah..."
-    s ""
+    s "Aah...aah..."
 
 # HyralGoblin2_539c2e25 (line 36012)
 translate ru HyralGoblin2_539c2e25:
@@ -871,7 +871,7 @@ translate ru HyralGoblin2_715e6807:
 # HyralGoblin2_04176cde (line 36025)
 translate ru HyralGoblin2_04176cde:
     # s "Aaaah!"
-    s ""
+    s "Aaaah!"
 
 # HyralGoblin2_9d965f55 (line 36026)
 translate ru HyralGoblin2_9d965f55:
@@ -931,7 +931,7 @@ translate ru HyralGoblin2_f63c28db:
 # HyralGoblin2_ed6df15b (line 36037)
 translate ru HyralGoblin2_ed6df15b:
     # s "Aaah! Aaah! Aaah!!"
-    s ""
+    s "Aaah! Aaah! Aaah!!"
 
 # HyralGoblin2_c3ac052b (line 36038)
 translate ru HyralGoblin2_c3ac052b:
@@ -1131,7 +1131,7 @@ translate ru HyralGoblin2_3c8071fd:
 # HyralGoblin2_cf30a5a9 (line 36087)
 translate ru HyralGoblin2_cf30a5a9:
     # s "Where is the rest of the town?"
-    s ""
+    s "Where is the rest of the town?"
 
 # HyralGoblin2_257f5187 (line 36088)
 translate ru HyralGoblin2_257f5187:
@@ -1146,7 +1146,7 @@ translate ru HyralGoblin2_0933f251:
 # HyralGoblin2_2e60079b (line 36090)
 translate ru HyralGoblin2_2e60079b:
     # s "Yeah. The human settlement."
-    s ""
+    s "Yeah. The human settlement."
 
 # HyralGoblin2_15a2b6fb (line 36091)
 translate ru HyralGoblin2_15a2b6fb:
@@ -1176,7 +1176,7 @@ translate ru HyralGoblin2_aa6063a7:
 # HyralGoblin2_a071ed4a (line 36096)
 translate ru HyralGoblin2_a071ed4a:
     # s "What are you saying?"
-    s ""
+    s "What are you saying?"
 
 # HyralGoblin2_378123bb (line 36097)
 translate ru HyralGoblin2_378123bb:
@@ -1196,7 +1196,7 @@ translate ru HyralGoblin2_a99553a2:
 # HyralGoblin2_a3727e89 (line 36100)
 translate ru HyralGoblin2_a3727e89:
     # s "You...you lied?"
-    s ""
+    s "You...you lied?"
 
 # HyralGoblin2_083bc121 (line 36101)
 translate ru HyralGoblin2_083bc121:
@@ -1216,7 +1216,7 @@ translate ru HyralGoblin2_50490e09:
 # HyralGoblin2_8cb685cc (line 36104)
 translate ru HyralGoblin2_8cb685cc:
     # s "You...you said you would..."
-    s ""
+    s "You...you said you would..."
 
 # HyralGoblin2_0cb2e627 (line 36105)
 translate ru HyralGoblin2_0cb2e627:
@@ -1236,7 +1236,7 @@ translate ru HyralGoblin2_72211bf6:
 # HyralGoblin2_bd3d5ad2 (line 36108)
 translate ru HyralGoblin2_bd3d5ad2:
     # s "No! Of course not, but..."
-    s ""
+    s "No! Of course not, but..."
 
 # HyralGoblin2_d5392f65 (line 36109)
 translate ru HyralGoblin2_d5392f65:
@@ -1246,7 +1246,7 @@ translate ru HyralGoblin2_d5392f65:
 # HyralGoblin2_de37fa5d (line 36110)
 translate ru HyralGoblin2_de37fa5d:
     # s "What...what is this place."
-    s ""
+    s "What...what is this place."
 
 # HyralGoblin2_8f778542 (line 36111)
 translate ru HyralGoblin2_8f778542:
@@ -1316,7 +1316,7 @@ translate ru HyralGoblin2_7130af9f:
 # HyralGoblin2_fd2286c8 (line 36124)
 translate ru HyralGoblin2_fd2286c8:
     # s "My...new home?!"
-    s ""
+    s "My...new home?!"
 
 # HyralGoblin2_b7c73a99 (line 36125)
 translate ru HyralGoblin2_b7c73a99:
@@ -1326,12 +1326,12 @@ translate ru HyralGoblin2_b7c73a99:
 # HyralGoblin2_857fabdd (line 36126)
 translate ru HyralGoblin2_857fabdd:
     # s "I don't want to live here!"
-    s ""
+    s "I don't want to live here!"
 
 # HyralGoblin2_ebc3b8ac (line 36127)
 translate ru HyralGoblin2_ebc3b8ac:
     # s "You promised you would take me to the human town! Now take me there, or else!"
-    s ""
+    s "You promised you would take me to the human town! Now take me there, or else!"
 
 # HyralGoblin2_031b429b (line 36128)
 translate ru HyralGoblin2_031b429b:
@@ -1366,7 +1366,7 @@ translate ru HyralGoblin2_3a26653c:
 # HyralGoblin2_40b49d67 (line 36134)
 translate ru HyralGoblin2_40b49d67:
     # s "You promised you would-"
-    s ""
+    s "You promised you would-"
 
 # HyralGoblin2_ce944402 (line 36135)
 translate ru HyralGoblin2_ce944402:
@@ -1391,7 +1391,7 @@ translate ru HyralGoblin2_3181fe40:
 # HyralGoblin2_2a90ffe3 (line 36139)
 translate ru HyralGoblin2_2a90ffe3:
     # s "You...you actually..."
-    s ""
+    s "You...you actually..."
 
 # HyralGoblin2_6c200b31 (line 36140)
 translate ru HyralGoblin2_6c200b31:
@@ -1431,7 +1431,7 @@ translate ru HyralGoblin2_a1367290:
 # HyralGoblin2_4ce1aa2d (line 36152)
 translate ru HyralGoblin2_4ce1aa2d:
     # s "Wait!"
-    s ""
+    s "Wait!"
 
 # HyralGoblin2_f8514e06 (line 36153)
 translate ru HyralGoblin2_f8514e06:
@@ -1451,7 +1451,7 @@ translate ru HyralGoblin2_91d2b1ba:
 # HyralGoblin2_5452ed59 (line 36156)
 translate ru HyralGoblin2_5452ed59:
     # s "Aaah!"
-    s ""
+    s "Aaah!"
 
 # HyralGoblin2_8449fff4 (line 36157)
 translate ru HyralGoblin2_8449fff4:
@@ -1471,7 +1471,7 @@ translate ru HyralGoblin2_4d36a120:
 # HyralGoblin2_71c57bbd (line 36165)
 translate ru HyralGoblin2_71c57bbd:
     # s "Aah! Aaah!"
-    s ""
+    s "Aah! Aaah!"
 
 # HyralGoblin2_3fc3e6bc (line 36166)
 translate ru HyralGoblin2_3fc3e6bc:
@@ -1541,12 +1541,12 @@ translate ru HyralGoblin2_5ee9b85d:
 # HyralGoblin2_4fc8b5dc (line 36179)
 translate ru HyralGoblin2_4fc8b5dc:
     # s "Aah! Aaah!"
-    s ""
+    s "Aah! Aaah!"
 
 # HyralGoblin2_0ad0db0d (line 36180)
 translate ru HyralGoblin2_0ad0db0d:
     # s "I'll...be...your...whore..."
-    s ""
+    s "I'll...be...your...whore..."
 
 # HyralGoblin2_55232a4a (line 36181)
 translate ru HyralGoblin2_55232a4a:

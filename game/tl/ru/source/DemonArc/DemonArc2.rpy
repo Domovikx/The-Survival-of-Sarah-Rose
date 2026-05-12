@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: DemonArc2
-# Total blocks: 364
+# Total blocks: 362
 
 # DemonArc2_ca6ce509 (line 91504)
 translate ru DemonArc2_ca6ce509:
@@ -71,7 +71,7 @@ translate ru DemonArc2_71ca511b:
 # DemonArc2_b63eb13c (line 91518)
 translate ru DemonArc2_b63eb13c:
     # dae "Come to me."
-    dae ""
+    dae "Come to me."
 
 # DemonArc2_8f31975e (line 91519)
 translate ru DemonArc2_8f31975e:
@@ -91,7 +91,7 @@ translate ru DemonArc2_dd70d2f6:
 # DemonArc2_79413722 (line 91522)
 translate ru DemonArc2_79413722:
     # dae "Service me while I speak to you."
-    dae ""
+    dae "Service me while I speak to you."
 
 # DemonArc2_97d3c45c (line 91523)
 translate ru DemonArc2_97d3c45c:
@@ -136,7 +136,7 @@ translate ru DemonArc2_8c74fcfb:
 # DemonArc2_16cf387d (line 91537)
 translate ru DemonArc2_16cf387d:
     # dae "Very good."
-    dae ""
+    dae "Very good."
 
 # DemonArc2_a65653a3 (line 91538)
 translate ru DemonArc2_a65653a3:
@@ -156,7 +156,7 @@ translate ru DemonArc2_4eabb18f:
 # DemonArc2_2c0512a4 (line 91541)
 translate ru DemonArc2_2c0512a4:
     # dae "You are confused in this place."
-    dae ""
+    dae "You are confused in this place."
 
 # DemonArc2_f387b269 (line 91542)
 translate ru DemonArc2_f387b269:
@@ -171,12 +171,12 @@ translate ru DemonArc2_19378c68:
 # DemonArc2_a53b8efe (line 91544)
 translate ru DemonArc2_a53b8efe:
     # dae "You are confused because when you came here, you were one thing."
-    dae ""
+    dae "You are confused because when you came here, you were one thing."
 
 # DemonArc2_de282e90 (line 91545)
 translate ru DemonArc2_de282e90:
     # dae "And in this new place, you will be another."
-    dae ""
+    dae "And in this new place, you will be another."
 
 # DemonArc2_f9c89a36 (line 91546)
 translate ru DemonArc2_f9c89a36:
@@ -196,17 +196,17 @@ translate ru DemonArc2_dc906f7b:
 # DemonArc2_3e349e50 (line 91549)
 translate ru DemonArc2_3e349e50:
     # dae "I have no need of who you think you were."
-    dae ""
+    dae "I have no need of who you think you were."
 
 # DemonArc2_4f36068e (line 91550)
 translate ru DemonArc2_4f36068e:
     # dae "I rule these halls and the lands that stretch beyond it for miles."
-    dae ""
+    dae "I rule these halls and the lands that stretch beyond it for miles."
 
 # DemonArc2_0cdf15ee (line 91551)
 translate ru DemonArc2_0cdf15ee:
     # dae "Bearing the mark that I gave you, you cannot stray even a fraction beyond the borders of the land that I control."
-    dae ""
+    dae "Bearing the mark that I gave you, you cannot stray even a fraction beyond the borders of the land that I control."
 
 # DemonArc2_861d1147 (line 91552)
 translate ru DemonArc2_861d1147:
@@ -216,12 +216,12 @@ translate ru DemonArc2_861d1147:
 # DemonArc2_0ed4d59e (line 91553)
 translate ru DemonArc2_0ed4d59e:
     # dae "And even if you could run, the land is dead anywhere you go."
-    dae ""
+    dae "And even if you could run, the land is dead anywhere you go."
 
 # DemonArc2_515f17da (line 91554)
 translate ru DemonArc2_515f17da:
     # dae "There are no peoples nor nature that can sustain you."
-    dae ""
+    dae "There are no peoples nor nature that can sustain you."
 
 # DemonArc2_3ece93d1 (line 91555)
 translate ru DemonArc2_3ece93d1:
@@ -236,17 +236,17 @@ translate ru DemonArc2_7250174c:
 # DemonArc2_d4bb1afb (line 91557)
 translate ru DemonArc2_d4bb1afb:
     # dae "You can struggle against this place, but this place is like the bars on your cell."
-    dae ""
+    dae "You can struggle against this place, but this place is like the bars on your cell."
 
 # DemonArc2_e72c11ef (line 91558)
 translate ru DemonArc2_e72c11ef:
     # dae "Solid and unbending."
-    dae ""
+    dae "Solid and unbending."
 
 # DemonArc2_58b4b883 (line 91559)
 translate ru DemonArc2_58b4b883:
     # dae "Only in adapting is there hope for you."
-    dae ""
+    dae "Only in adapting is there hope for you."
 
 # DemonArc2_8fd7a73a (line 91560)
 translate ru DemonArc2_8fd7a73a:
@@ -256,17 +256,17 @@ translate ru DemonArc2_8fd7a73a:
 # DemonArc2_233e6369 (line 91561)
 translate ru DemonArc2_233e6369:
     # s "Adapt...to what?"
-    s ""
+    s "Adapt...to what?"
 
 # DemonArc2_6e148335 (line 91562)
 translate ru DemonArc2_6e148335:
     # dae "Master."
-    dae ""
+    dae "Master."
 
 # DemonArc2_27a79db2 (line 91563)
 translate ru DemonArc2_27a79db2:
     # s "Master."
-    s ""
+    s "Master."
 
 # DemonArc2_0b62fc53 (line 91564)
 translate ru DemonArc2_0b62fc53:
@@ -276,12 +276,12 @@ translate ru DemonArc2_0b62fc53:
 # DemonArc2_de0aa8d7 (line 91565)
 translate ru DemonArc2_de0aa8d7:
     # dae "You are mine to use. Your body is what I have need of. All the rest is secondary."
-    dae ""
+    dae "You are mine to use. Your body is what I have need of. All the rest is secondary."
 
 # DemonArc2_81ffbfab (line 91566)
 translate ru DemonArc2_81ffbfab:
     # s "I..."
-    s ""
+    s "I..."
 
 # DemonArc2_06de8dc0 (line 91567)
 translate ru DemonArc2_06de8dc0:
@@ -291,7 +291,7 @@ translate ru DemonArc2_06de8dc0:
 # DemonArc2_e6a8f8e3 (line 91568)
 translate ru DemonArc2_e6a8f8e3:
     # s "Dalia said that there were privileges..."
-    s ""
+    s "Dalia said that there were privileges..."
 
 # DemonArc2_a27152ef (line 91569)
 translate ru DemonArc2_a27152ef:
@@ -301,7 +301,7 @@ translate ru DemonArc2_a27152ef:
 # DemonArc2_8bdf71d1 (line 91570)
 translate ru DemonArc2_8bdf71d1:
     # dae "Should you learn to behave, there is a place for you in this castle."
-    dae ""
+    dae "Should you learn to behave, there is a place for you in this castle."
 
 # DemonArc2_9916f5f1 (line 91571)
 translate ru DemonArc2_9916f5f1:
@@ -311,12 +311,12 @@ translate ru DemonArc2_9916f5f1:
 # DemonArc2_a6971f62 (line 91572)
 translate ru DemonArc2_a6971f62:
     # dae "Dalia is further along than you. She no longer pretends she isn't the whore that she is."
-    dae ""
+    dae "Dalia is further along than you. She no longer pretends she isn't the whore that she is."
 
 # DemonArc2_26435f44 (line 91573)
 translate ru DemonArc2_26435f44:
     # dae "Proper behavior comes with proper reward."
-    dae ""
+    dae "Proper behavior comes with proper reward."
 
 # DemonArc2_16b1a003 (line 91574)
 translate ru DemonArc2_16b1a003:
@@ -326,7 +326,7 @@ translate ru DemonArc2_16b1a003:
 # DemonArc2_49b5973d (line 91575)
 translate ru DemonArc2_49b5973d:
     # dae "Good. Then finish me off and we can see about improving your situation."
-    dae ""
+    dae "Good. Then finish me off and we can see about improving your situation."
 
 # DemonArc2_fb208c78 (line 91576)
 translate ru DemonArc2_fb208c78:
@@ -451,7 +451,7 @@ translate ru DemonArc2_17682b25:
 # DemonArc2_57f51df8 (line 91600)
 translate ru DemonArc2_57f51df8:
     # dae "Clean the last of that up. My seed is not to be wasted. Understood?"
-    dae ""
+    dae "Clean the last of that up. My seed is not to be wasted. Understood?"
 
 # DemonArc2_5b225484 (line 91601)
 translate ru DemonArc2_5b225484:
@@ -461,7 +461,7 @@ translate ru DemonArc2_5b225484:
 # DemonArc2_d9f0686e (line 91602)
 translate ru DemonArc2_d9f0686e:
     # s "Yes, Master..."
-    s ""
+    s "Yes, Master..."
 
 # DemonArc2_fc067040 (line 91603)
 translate ru DemonArc2_fc067040:
@@ -476,12 +476,12 @@ translate ru DemonArc2_a1087793:
 # DemonArc2_4554d20e (line 91611)
 translate ru DemonArc2_4554d20e:
     # dae "Good. Now follow me, I will take you to your chambers."
-    dae ""
+    dae "Good. Now follow me, I will take you to your chambers."
 
 # DemonArc2_83868bb4 (line 91612)
 translate ru DemonArc2_83868bb4:
     # dae "Dalia can instruct you on the castle."
-    dae ""
+    dae "Dalia can instruct you on the castle."
 
 # DemonArc2_db47522c (line 91613)
 translate ru DemonArc2_db47522c:
@@ -606,7 +606,7 @@ translate ru DemonArc2_1adfa036:
 # DemonArc2_e9f18346 (line 91643)
 translate ru DemonArc2_e9f18346:
     # dae "Perhaps if you were too thick to understand before, you understand now?"
-    dae ""
+    dae "Perhaps if you were too thick to understand before, you understand now?"
 
 # DemonArc2_b8b2c340 (line 91644)
 translate ru DemonArc2_b8b2c340:
@@ -616,12 +616,12 @@ translate ru DemonArc2_b8b2c340:
 # DemonArc2_3134807b (line 91645)
 translate ru DemonArc2_3134807b:
     # s "Everything is..."
-    s ""
+    s "Everything is..."
 
 # DemonArc2_e48ec5d1 (line 91646)
 translate ru DemonArc2_e48ec5d1:
     # dae "Ruins. Ashes. There is no other place for you to run."
-    dae ""
+    dae "Ruins. Ashes. There is no other place for you to run."
 
 # DemonArc2_57da4d5a (line 91647)
 translate ru DemonArc2_57da4d5a:
@@ -631,7 +631,7 @@ translate ru DemonArc2_57da4d5a:
 # DemonArc2_f043e346 (line 91648)
 translate ru DemonArc2_f043e346:
     # dae "Remember that, should you be feeling particularly rebelious in the future."
-    dae ""
+    dae "Remember that, should you be feeling particularly rebelious in the future."
 
 # DemonArc2_3fe9a241 (line 91649)
 translate ru DemonArc2_3fe9a241:
@@ -641,7 +641,7 @@ translate ru DemonArc2_3fe9a241:
 # DemonArc2_06b2a2ed (line 91650)
 translate ru DemonArc2_06b2a2ed:
     # dae "And let that mark work as a reminder."
-    dae ""
+    dae "And let that mark work as a reminder."
 
 # DemonArc2_c7f0dd1a (line 91651)
 translate ru DemonArc2_c7f0dd1a:
@@ -651,22 +651,22 @@ translate ru DemonArc2_c7f0dd1a:
 # DemonArc2_46c969f5 (line 91652)
 translate ru DemonArc2_46c969f5:
     # s "How...how did this happen."
-    s ""
+    s "How...how did this happen."
 
 # DemonArc2_64414706 (line 91653)
 translate ru DemonArc2_64414706:
     # dae "What does the cow think of abstract mathematics?"
-    dae ""
+    dae "What does the cow think of abstract mathematics?"
 
 # DemonArc2_46de6ded (line 91654)
 translate ru DemonArc2_46de6ded:
     # s "I...what?"
-    s ""
+    s "I...what?"
 
 # DemonArc2_4e4c6a1b (line 91655)
 translate ru DemonArc2_4e4c6a1b:
     # dae "What does a pig, think of the composition of the stars?"
-    dae ""
+    dae "What does a pig, think of the composition of the stars?"
 
 # DemonArc2_58c745cd (line 91656)
 translate ru DemonArc2_58c745cd:
@@ -676,22 +676,22 @@ translate ru DemonArc2_58c745cd:
 # DemonArc2_f05bda33 (line 91657)
 translate ru DemonArc2_f05bda33:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # DemonArc2_7e21d626 (line 91658)
 translate ru DemonArc2_7e21d626:
     # dae "I mean, a farm animal does not concern itself with such questions. Nor do we care for what it thinks about such matters."
-    dae ""
+    dae "I mean, a farm animal does not concern itself with such questions. Nor do we care for what it thinks about such matters."
 
 # DemonArc2_7202f2db (line 91659)
 translate ru DemonArc2_7202f2db:
     # dae "We only care for a cow because it gives milk. Only care for a pig because it gives meat."
-    dae ""
+    dae "We only care for a cow because it gives milk. Only care for a pig because it gives meat."
 
 # DemonArc2_a2f47b81 (line 91660)
 translate ru DemonArc2_a2f47b81:
     # dae "And you..."
-    dae ""
+    dae "And you..."
 
 # DemonArc2_eb5bc4b9 (line 91661)
 translate ru DemonArc2_eb5bc4b9:
@@ -701,17 +701,17 @@ translate ru DemonArc2_eb5bc4b9:
 # DemonArc2_59f69270 (line 91662)
 translate ru DemonArc2_59f69270:
     # dae "You are livestock."
-    dae ""
+    dae "You are livestock."
 
 # DemonArc2_768fb910 (line 91663)
 translate ru DemonArc2_768fb910:
     # dae "I don't care what you think or wonder about."
-    dae ""
+    dae "I don't care what you think or wonder about."
 
 # DemonArc2_52c5eb12 (line 91664)
 translate ru DemonArc2_52c5eb12:
     # dae "Be a good farm animal and give up what I need from you. That's all that I need from you."
-    dae ""
+    dae "Be a good farm animal and give up what I need from you. That's all that I need from you."
 
 # DemonArc2_76750531 (line 91665)
 translate ru DemonArc2_76750531:
@@ -741,12 +741,12 @@ translate ru DemonArc2_9f5cac99:
 # DemonArc2_16566d1d (line 91676)
 translate ru DemonArc2_16566d1d:
     # dae "Go ahead."
-    dae ""
+    dae "Go ahead."
 
 # DemonArc2_1575e120 (line 91677)
 translate ru DemonArc2_1575e120:
     # s "Please..."
-    s ""
+    s "Please..."
 
 # DemonArc2_2f225f06 (line 91678)
 translate ru DemonArc2_2f225f06:
@@ -756,17 +756,17 @@ translate ru DemonArc2_2f225f06:
 # DemonArc2_4110ba20 (line 91679)
 translate ru DemonArc2_4110ba20:
     # dae "I see your clenched fist. Your resistance."
-    dae ""
+    dae "I see your clenched fist. Your resistance."
 
 # DemonArc2_289267f6 (line 91680)
 translate ru DemonArc2_289267f6:
     # dae "So go ahead."
-    dae ""
+    dae "So go ahead."
 
 # DemonArc2_f35bd308 (line 91681)
 translate ru DemonArc2_f35bd308:
     # dae "Strike me. Kick me. Try to cast your little magics."
-    dae ""
+    dae "Strike me. Kick me. Try to cast your little magics."
 
 # DemonArc2_92856d6b (line 91682)
 translate ru DemonArc2_92856d6b:
@@ -796,12 +796,12 @@ translate ru DemonArc2_28829bc7:
 # DemonArc2_d5c47742 (line 91687)
 translate ru DemonArc2_d5c47742:
     # dae "What?"
-    dae ""
+    dae "What?"
 
 # DemonArc2_632a7013 (line 91688)
 translate ru DemonArc2_632a7013:
     # dae "Where have those defiant eyes gone now?"
-    dae ""
+    dae "Where have those defiant eyes gone now?"
 
 # DemonArc2_bbe9352a (line 91689)
 translate ru DemonArc2_bbe9352a:
@@ -811,12 +811,12 @@ translate ru DemonArc2_bbe9352a:
 # DemonArc2_52b50699 (line 91690)
 translate ru DemonArc2_52b50699:
     # dae "Maybe another few weeks in the dungeon?"
-    dae ""
+    dae "Maybe another few weeks in the dungeon?"
 
 # DemonArc2_ab2ec04c (line 91691)
 translate ru DemonArc2_ab2ec04c:
     # s "No! Please!"
-    s ""
+    s "No! Please!"
 
 # DemonArc2_cc6ea003 (line 91692)
 translate ru DemonArc2_cc6ea003:
@@ -831,12 +831,12 @@ translate ru DemonArc2_8bcae0c5:
 # DemonArc2_0aed4584 (line 91694)
 translate ru DemonArc2_0aed4584:
     # dae "Good. So you understand your place?"
-    dae ""
+    dae "Good. So you understand your place?"
 
 # DemonArc2_39694b38 (line 91695)
 translate ru DemonArc2_39694b38:
     # s "Yes! I'm sorry..."
-    s ""
+    s "Yes! I'm sorry..."
 
 # DemonArc2_329d6b06 (line 91696)
 translate ru DemonArc2_329d6b06:
@@ -846,12 +846,12 @@ translate ru DemonArc2_329d6b06:
 # DemonArc2_caf6d9fc (line 91697)
 translate ru DemonArc2_caf6d9fc:
     # dae "Good. I will let this defiance slide. But do not test my temper."
-    dae ""
+    dae "Good. I will let this defiance slide. But do not test my temper."
 
 # DemonArc2_69210acf (line 91698)
 translate ru DemonArc2_69210acf:
     # s "I won't! I won't! Please..."
-    s ""
+    s "I won't! I won't! Please..."
 
 # DemonArc2_2eeb4020 (line 91699)
 translate ru DemonArc2_2eeb4020:
@@ -861,7 +861,7 @@ translate ru DemonArc2_2eeb4020:
 # DemonArc2_cadbd469 (line 91700)
 translate ru DemonArc2_cadbd469:
     # dae "You will make it up to me, tonight."
-    dae ""
+    dae "You will make it up to me, tonight."
 
 # DemonArc2_fdcb8e3e (line 91701)
 translate ru DemonArc2_fdcb8e3e:
@@ -871,37 +871,37 @@ translate ru DemonArc2_fdcb8e3e:
 # DemonArc2_14d54eda (line 91702)
 translate ru DemonArc2_14d54eda:
     # dae "Won't you?"
-    dae ""
+    dae "Won't you?"
 
 # DemonArc2_cd52e330 (line 91703)
 translate ru DemonArc2_cd52e330:
     # s "I...yes...I will..."
-    s ""
+    s "I...yes...I will..."
 
 # DemonArc2_75a31e4a (line 91704)
 translate ru DemonArc2_75a31e4a:
     # dae "Good."
-    dae ""
+    dae "Good."
 
 # DemonArc2_dd76a4ef (line 91705)
 translate ru DemonArc2_dd76a4ef:
     # dae "Tonight, before you go to sleep, come back here to the ramparts."
-    dae ""
+    dae "Tonight, before you go to sleep, come back here to the ramparts."
 
 # DemonArc2_5d823c92 (line 91706)
 translate ru DemonArc2_5d823c92:
     # dae "You will kneel down before me and cease this petulant defiance."
-    dae ""
+    dae "You will kneel down before me and cease this petulant defiance."
 
 # DemonArc2_23b19fcd (line 91707)
 translate ru DemonArc2_23b19fcd:
     # s "I...I will..."
-    s ""
+    s "I...I will..."
 
 # DemonArc2_df7a254f (line 91708)
 translate ru DemonArc2_df7a254f:
     # dae "You will sit here, on your knees, and I will spray my seed across your face."
-    dae ""
+    dae "You will sit here, on your knees, and I will spray my seed across your face."
 
 # DemonArc2_4e11fba3 (line 91709)
 translate ru DemonArc2_4e11fba3:
@@ -911,7 +911,7 @@ translate ru DemonArc2_4e11fba3:
 # DemonArc2_65e68674 (line 91710)
 translate ru DemonArc2_65e68674:
     # s "Yes...Master..."
-    s ""
+    s "Yes...Master..."
 
 # DemonArc2_33c897dc (line 91711)
 translate ru DemonArc2_33c897dc:
@@ -921,12 +921,12 @@ translate ru DemonArc2_33c897dc:
 # DemonArc2_cb256387 (line 91712)
 translate ru DemonArc2_cb256387:
     # dae "Good. You're starting to understand."
-    dae ""
+    dae "Good. You're starting to understand."
 
 # DemonArc2_755ae914 (line 91713)
 translate ru DemonArc2_755ae914:
     # dae "Now, go in there."
-    dae ""
+    dae "Now, go in there."
 
 # DemonArc2_36314631 (line 91714)
 translate ru DemonArc2_36314631:
@@ -936,7 +936,7 @@ translate ru DemonArc2_36314631:
 # DemonArc2_b1900900 (line 91715)
 translate ru DemonArc2_b1900900:
     # dae "Speak with Dalia, she will help you get settled."
-    dae ""
+    dae "Speak with Dalia, she will help you get settled."
 
 # DemonArc2_ba84c44d (line 91716)
 translate ru DemonArc2_ba84c44d:
@@ -1016,7 +1016,7 @@ translate ru DemonArc2_6c74b9d1:
 # DemonArc2_5d1427a4 (line 91743)
 translate ru DemonArc2_5d1427a4:
     # dalia "Master finally let you go!"
-    dalia ""
+    dalia "Master finally let you go!"
 
 # DemonArc2_0d7abcf4 (line 91744)
 translate ru DemonArc2_0d7abcf4:
@@ -1026,12 +1026,12 @@ translate ru DemonArc2_0d7abcf4:
 # DemonArc2_b9f35b76 (line 91745)
 translate ru DemonArc2_b9f35b76:
     # s "I...hey, Dalia..."
-    s ""
+    s "I...hey, Dalia..."
 
 # DemonArc2_fedc61d7 (line 91746)
 translate ru DemonArc2_fedc61d7:
     # dalia "Sarah, was it?"
-    dalia ""
+    dalia "Sarah, was it?"
 
 # DemonArc2_a869d519 (line 91747)
 translate ru DemonArc2_a869d519:
@@ -1041,7 +1041,7 @@ translate ru DemonArc2_a869d519:
 # DemonArc2_1993c64d (line 91748)
 translate ru DemonArc2_1993c64d:
     # s "The...Master send me here."
-    s ""
+    s "The...Master send me here."
 
 # DemonArc2_01bde7ab (line 91749)
 translate ru DemonArc2_01bde7ab:
@@ -1061,17 +1061,17 @@ translate ru DemonArc2_a203cf3b:
 # DemonArc2_290c979e (line 91752)
 translate ru DemonArc2_290c979e:
     # dalia "The Master wants us to be roommates!"
-    dalia ""
+    dalia "The Master wants us to be roommates!"
 
 # DemonArc2_8dfbfa0a (line 91753)
 translate ru DemonArc2_8dfbfa0a:
     # s "I..."
-    s ""
+    s "I..."
 
 # DemonArc2_2d913913 (line 91754)
 translate ru DemonArc2_2d913913:
     # s "I think he asked you to help me settle in..."
-    s ""
+    s "I think he asked you to help me settle in..."
 
 # DemonArc2_f80e7087 (line 91755)
 translate ru DemonArc2_f80e7087:
@@ -1081,12 +1081,12 @@ translate ru DemonArc2_f80e7087:
 # DemonArc2_218e05d9 (line 91756)
 translate ru DemonArc2_218e05d9:
     # dalia "Oh!"
-    dalia ""
+    dalia "Oh!"
 
 # DemonArc2_0d024c8c (line 91757)
 translate ru DemonArc2_0d024c8c:
     # dalia "He wants me to help teach you, of course!"
-    dalia ""
+    dalia "He wants me to help teach you, of course!"
 
 # DemonArc2_69ff35d5 (line 91758)
 translate ru DemonArc2_69ff35d5:
@@ -1096,7 +1096,7 @@ translate ru DemonArc2_69ff35d5:
 # DemonArc2_c8985838 (line 91759)
 translate ru DemonArc2_c8985838:
     # s "Teach? What...exactly do you mean?"
-    s ""
+    s "Teach? What...exactly do you mean?"
 
 # DemonArc2_20b6d465 (line 91760)
 translate ru DemonArc2_20b6d465:
@@ -1111,17 +1111,17 @@ translate ru DemonArc2_fb3335d8:
 # DemonArc2_23c2f804 (line 91762)
 translate ru DemonArc2_23c2f804:
     # dalia "Oops!"
-    dalia ""
+    dalia "Oops!"
 
 # DemonArc2_17033040 (line 91763)
 translate ru DemonArc2_17033040:
     # s "Huh?"
-    s ""
+    s "Huh?"
 
 # DemonArc2_9cca5bc4 (line 91764)
 translate ru DemonArc2_9cca5bc4:
     # dalia "Oh, nothing. You just had a little cum left on you."
-    dalia ""
+    dalia "Oh, nothing. You just had a little cum left on you."
 
 # DemonArc2_a96596e2 (line 91765)
 translate ru DemonArc2_a96596e2:
@@ -1131,7 +1131,7 @@ translate ru DemonArc2_a96596e2:
 # DemonArc2_54351beb (line 91766)
 translate ru DemonArc2_54351beb:
     # s "I...that's because..."
-    s ""
+    s "I...that's because..."
 
 # DemonArc2_5652b1f3 (line 91767)
 translate ru DemonArc2_5652b1f3:
@@ -1141,17 +1141,17 @@ translate ru DemonArc2_5652b1f3:
 # DemonArc2_a8b49a96 (line 91768)
 translate ru DemonArc2_a8b49a96:
     # dalia "It's okay!"
-    dalia ""
+    dalia "It's okay!"
 
 # DemonArc2_230345bf (line 91769)
 translate ru DemonArc2_230345bf:
     # dalia "The Master can be strict, but if you behave, he can be kind too!"
-    dalia ""
+    dalia "The Master can be strict, but if you behave, he can be kind too!"
 
 # DemonArc2_a91d1512 (line 91770)
 translate ru DemonArc2_a91d1512:
     # dalia "And he's only strict on us because we need it."
-    dalia ""
+    dalia "And he's only strict on us because we need it."
 
 # DemonArc2_165162e8 (line 91771)
 translate ru DemonArc2_165162e8:
@@ -1171,7 +1171,7 @@ translate ru DemonArc2_36f048f2:
 # DemonArc2_436a3f29 (line 91774)
 translate ru DemonArc2_436a3f29:
     # s "We need him to be strict on us?"
-    s ""
+    s "We need him to be strict on us?"
 
 # DemonArc2_eb5854b4 (line 91775)
 translate ru DemonArc2_eb5854b4:
@@ -1181,17 +1181,17 @@ translate ru DemonArc2_eb5854b4:
 # DemonArc2_d90db8d1 (line 91776)
 translate ru DemonArc2_d90db8d1:
     # dalia "You saw the world out there, right?"
-    dalia ""
+    dalia "You saw the world out there, right?"
 
 # DemonArc2_7cd31811 (line 91777)
 translate ru DemonArc2_7cd31811:
     # dalia "Trust me, you don't wanna get lost beyond these walls. Nothing good out there."
-    dalia ""
+    dalia "Trust me, you don't wanna get lost beyond these walls. Nothing good out there."
 
 # DemonArc2_4fa98153 (line 91778)
 translate ru DemonArc2_4fa98153:
     # s "I saw it from the ramparts...it's all dead."
-    s ""
+    s "I saw it from the ramparts...it's all dead."
 
 # DemonArc2_c930746f (line 91779)
 translate ru DemonArc2_c930746f:
@@ -1201,22 +1201,22 @@ translate ru DemonArc2_c930746f:
 # DemonArc2_3037017e (line 91780)
 translate ru DemonArc2_3037017e:
     # dalia "It's all dead, and the parts that aren't dead are even worse."
-    dalia ""
+    dalia "It's all dead, and the parts that aren't dead are even worse."
 
 # DemonArc2_764100cc (line 91781)
 translate ru DemonArc2_764100cc:
     # s "Worse than dead?"
-    s ""
+    s "Worse than dead?"
 
 # DemonArc2_83c38e68 (line 91782)
 translate ru DemonArc2_83c38e68:
     # dalia "Yeah...the only life that can exist on a planet this barren...well only the strongest creatures survived."
-    dalia ""
+    dalia "Yeah...the only life that can exist on a planet this barren...well only the strongest creatures survived."
 
 # DemonArc2_ad548168 (line 91783)
 translate ru DemonArc2_ad548168:
     # dalia "Roaming packs of hellhounds, and worse..."
-    dalia ""
+    dalia "Roaming packs of hellhounds, and worse..."
 
 # DemonArc2_d4e968b7 (line 91784)
 translate ru DemonArc2_d4e968b7:
@@ -1236,22 +1236,22 @@ translate ru DemonArc2_05e15ba3:
 # DemonArc2_24bb77f9 (line 91787)
 translate ru DemonArc2_24bb77f9:
     # dalia "Hey, don't worry."
-    dalia ""
+    dalia "Hey, don't worry."
 
 # DemonArc2_c5d8ad46 (line 91788)
 translate ru DemonArc2_c5d8ad46:
     # dalia "The Master is far too powerful for some Hellhounds to come and bother us."
-    dalia ""
+    dalia "The Master is far too powerful for some Hellhounds to come and bother us."
 
 # DemonArc2_479ac707 (line 91789)
 translate ru DemonArc2_479ac707:
     # dalia "You stay here, inside the castle, and you'll be safe."
-    dalia ""
+    dalia "You stay here, inside the castle, and you'll be safe."
 
 # DemonArc2_c9d76556 (line 91790)
 translate ru DemonArc2_c9d76556:
     # s "And if I run..."
-    s ""
+    s "And if I run..."
 
 # DemonArc2_8cbc115b (line 91791)
 translate ru DemonArc2_8cbc115b:
@@ -1261,17 +1261,17 @@ translate ru DemonArc2_8cbc115b:
 # DemonArc2_92322cc7 (line 91792)
 translate ru DemonArc2_92322cc7:
     # dalia "Don't say silly things, okay?"
-    dalia ""
+    dalia "Don't say silly things, okay?"
 
 # DemonArc2_55f89583 (line 91793)
 translate ru DemonArc2_55f89583:
     # dalia "Just...be happy the Master found you first."
-    dalia ""
+    dalia "Just...be happy the Master found you first."
 
 # DemonArc2_af39bbfb (line 91794)
 translate ru DemonArc2_af39bbfb:
     # dalia "If a pack of Hellhounds had gotten to you first..."
-    dalia ""
+    dalia "If a pack of Hellhounds had gotten to you first..."
 
 # DemonArc2_d3026f41 (line 91795)
 translate ru DemonArc2_d3026f41:
@@ -1286,7 +1286,7 @@ translate ru DemonArc2_966b646d:
 # DemonArc2_134a8913 (line 91797)
 translate ru DemonArc2_134a8913:
     # dalia "But don't worry! You're here! You're safe!"
-    dalia ""
+    dalia "But don't worry! You're here! You're safe!"
 
 # DemonArc2_59cf76eb (line 91798)
 translate ru DemonArc2_59cf76eb:
@@ -1301,12 +1301,12 @@ translate ru DemonArc2_ed6d7e62:
 # DemonArc2_f5d51356 (line 91800)
 translate ru DemonArc2_f5d51356:
     # dalia "Anyway, let's stop thinking about all that awful stuff."
-    dalia ""
+    dalia "Anyway, let's stop thinking about all that awful stuff."
 
 # DemonArc2_4a138cc6 (line 91801)
 translate ru DemonArc2_4a138cc6:
     # dalia "You said the Master told you to to come here, right?"
-    dalia ""
+    dalia "You said the Master told you to to come here, right?"
 
 # DemonArc2_5f5fe73b (line 91802)
 translate ru DemonArc2_5f5fe73b:
@@ -1316,17 +1316,17 @@ translate ru DemonArc2_5f5fe73b:
 # DemonArc2_9d87bdd0 (line 91803)
 translate ru DemonArc2_9d87bdd0:
     # dalia "Right, so this is my room."
-    dalia ""
+    dalia "Right, so this is my room."
 
 # DemonArc2_f0612fac (line 91804)
 translate ru DemonArc2_f0612fac:
     # dalia "Or, I guess our room, from now on."
-    dalia ""
+    dalia "Or, I guess our room, from now on."
 
 # DemonArc2_b7458743 (line 91805)
 translate ru DemonArc2_b7458743:
     # s "You don't mind me being here?"
-    s ""
+    s "You don't mind me being here?"
 
 # DemonArc2_26f24f79 (line 91806)
 translate ru DemonArc2_26f24f79:
@@ -1336,7 +1336,7 @@ translate ru DemonArc2_26f24f79:
 # DemonArc2_d0173163 (line 91807)
 translate ru DemonArc2_d0173163:
     # dalia "Not at all! I'm happy you're here."
-    dalia ""
+    dalia "Not at all! I'm happy you're here."
 
 # DemonArc2_93bf3346 (line 91808)
 translate ru DemonArc2_93bf3346:
@@ -1346,7 +1346,7 @@ translate ru DemonArc2_93bf3346:
 # DemonArc2_75a2f26c (line 91809)
 translate ru DemonArc2_75a2f26c:
     # dalia "I think it will be nice having someone else here. Besides the Master."
-    dalia ""
+    dalia "I think it will be nice having someone else here. Besides the Master."
 
 # DemonArc2_f84751a1 (line 91810)
 translate ru DemonArc2_f84751a1:
@@ -1356,12 +1356,12 @@ translate ru DemonArc2_f84751a1:
 # DemonArc2_4c260e09 (line 91811)
 translate ru DemonArc2_4c260e09:
     # dalia "This is my bed."
-    dalia ""
+    dalia "This is my bed."
 
 # DemonArc2_fa287376 (line 91812)
 translate ru DemonArc2_fa287376:
     # dalia "I can ask the Master if we maybe have a spare bed for you."
-    dalia ""
+    dalia "I can ask the Master if we maybe have a spare bed for you."
 
 # DemonArc2_9983380f (line 91813)
 translate ru DemonArc2_9983380f:
@@ -1371,7 +1371,7 @@ translate ru DemonArc2_9983380f:
 # DemonArc2_62503c52 (line 91814)
 translate ru DemonArc2_62503c52:
     # dalia "Not sure though, the castle is a little short on...well everything."
-    dalia ""
+    dalia "Not sure though, the castle is a little short on...well everything."
 
 # DemonArc2_7078bb89 (line 91815)
 translate ru DemonArc2_7078bb89:
@@ -1381,12 +1381,12 @@ translate ru DemonArc2_7078bb89:
 # DemonArc2_c5626e4d (line 91816)
 translate ru DemonArc2_c5626e4d:
     # dalia "During the night we can stay here, and during the day we do work around the castle."
-    dalia ""
+    dalia "During the night we can stay here, and during the day we do work around the castle."
 
 # DemonArc2_9e02c9db (line 91817)
 translate ru DemonArc2_9e02c9db:
     # s "Work? Like what?"
-    s ""
+    s "Work? Like what?"
 
 # DemonArc2_2ed6f4b6 (line 91818)
 translate ru DemonArc2_2ed6f4b6:
@@ -1396,17 +1396,17 @@ translate ru DemonArc2_2ed6f4b6:
 # DemonArc2_3dec3eb7 (line 91819)
 translate ru DemonArc2_3dec3eb7:
     # dalia "Anything the Mater orders us too. Cleaning, serving food, things like that."
-    dalia ""
+    dalia "Anything the Mater orders us too. Cleaning, serving food, things like that."
 
 # DemonArc2_586e6716 (line 91820)
 translate ru DemonArc2_586e6716:
     # dalia "Sometimes he tells me to go out and gather firewood."
-    dalia ""
+    dalia "Sometimes he tells me to go out and gather firewood."
 
 # DemonArc2_3dba308c (line 91821)
 translate ru DemonArc2_3dba308c:
     # s "That's it?"
-    s ""
+    s "That's it?"
 
 # DemonArc2_cbdab597 (line 91822)
 translate ru DemonArc2_cbdab597:
@@ -1416,7 +1416,7 @@ translate ru DemonArc2_cbdab597:
 # DemonArc2_ad4a17ab (line 91823)
 translate ru DemonArc2_ad4a17ab:
     # dalia "Well, we have other duties for the Master as well of course."
-    dalia ""
+    dalia "Well, we have other duties for the Master as well of course."
 
 # DemonArc2_2655bc4c (line 91824)
 translate ru DemonArc2_2655bc4c:
@@ -1426,7 +1426,7 @@ translate ru DemonArc2_2655bc4c:
 # DemonArc2_1ae9b114 (line 91825)
 translate ru DemonArc2_1ae9b114:
     # s "How often does he..."
-    s ""
+    s "How often does he..."
 
 # DemonArc2_42c6342f (line 91826)
 translate ru DemonArc2_42c6342f:
@@ -1441,12 +1441,12 @@ translate ru DemonArc2_2eed25fe:
 # DemonArc2_f947653b (line 91828)
 translate ru DemonArc2_f947653b:
     # dalia "The Master has a lot of appetites. I think I spend more nights with him than by myself here."
-    dalia ""
+    dalia "The Master has a lot of appetites. I think I spend more nights with him than by myself here."
 
 # DemonArc2_c15f2ce0 (line 91829)
 translate ru DemonArc2_c15f2ce0:
     # dalia "And since you're new..."
-    dalia ""
+    dalia "And since you're new..."
 
 # DemonArc2_6628701f (line 91830)
 translate ru DemonArc2_6628701f:
@@ -1456,12 +1456,12 @@ translate ru DemonArc2_6628701f:
 # DemonArc2_79d4c355 (line 91831)
 translate ru DemonArc2_79d4c355:
     # s "Yeah...he already told me to..."
-    s ""
+    s "Yeah...he already told me to..."
 
 # DemonArc2_fdee703a (line 91832)
 translate ru DemonArc2_fdee703a:
     # dalia "To what?"
-    dalia ""
+    dalia "To what?"
 
 # DemonArc2_443ca3f0 (line 91833)
 translate ru DemonArc2_443ca3f0:
@@ -1471,7 +1471,7 @@ translate ru DemonArc2_443ca3f0:
 # DemonArc2_e2fd68c4 (line 91834)
 translate ru DemonArc2_e2fd68c4:
     # s "He wanted me to kneel before him tonight and...he wanted to finish...on my face."
-    s ""
+    s "He wanted me to kneel before him tonight and...he wanted to finish...on my face."
 
 # DemonArc2_18015d69 (line 91835)
 translate ru DemonArc2_18015d69:
@@ -1481,17 +1481,17 @@ translate ru DemonArc2_18015d69:
 # DemonArc2_3ff215c1 (line 91836)
 translate ru DemonArc2_3ff215c1:
     # dalia "So long as you do what he wants...the Master is kind."
-    dalia ""
+    dalia "So long as you do what he wants...the Master is kind."
 
 # DemonArc2_f99f75bb (line 91837)
 translate ru DemonArc2_f99f75bb:
     # dalia "If he gave you an order...I suggest you do as he asks."
-    dalia ""
+    dalia "If he gave you an order...I suggest you do as he asks."
 
 # DemonArc2_f3b48365 (line 91838)
 translate ru DemonArc2_f3b48365:
     # dalia "He hates if anyone defies him."
-    dalia ""
+    dalia "He hates if anyone defies him."
 
 # DemonArc2_984fc9fe (line 91839)
 translate ru DemonArc2_984fc9fe:
@@ -1501,7 +1501,7 @@ translate ru DemonArc2_984fc9fe:
 # DemonArc2_ed4d4e98 (line 91840)
 translate ru DemonArc2_ed4d4e98:
     # dalia "But don't worry. It's not so bad."
-    dalia ""
+    dalia "But don't worry. It's not so bad."
 
 # DemonArc2_ff0d511a (line 91841)
 translate ru DemonArc2_ff0d511a:
@@ -1511,22 +1511,22 @@ translate ru DemonArc2_ff0d511a:
 # DemonArc2_9ec757f1 (line 91842)
 translate ru DemonArc2_9ec757f1:
     # s "Not so bad? We're trapped here on this world and..."
-    s ""
+    s "Not so bad? We're trapped here on this world and..."
 
 # DemonArc2_05daec11 (line 91843)
 translate ru DemonArc2_05daec11:
     # dalia "Sure, but we're safe inside these walls. We're still alive. And if you give into it, sleeping with the Master can be rewarding for you too."
-    dalia ""
+    dalia "Sure, but we're safe inside these walls. We're still alive. And if you give into it, sleeping with the Master can be rewarding for you too."
 
 # DemonArc2_b79d023c (line 91844)
 translate ru DemonArc2_b79d023c:
     # s "Rewarding? You mean that you..."
-    s ""
+    s "Rewarding? You mean that you..."
 
 # DemonArc2_45d99739 (line 91845)
 translate ru DemonArc2_45d99739:
     # dalia "He's rough...but you can learn to enjoy it."
-    dalia ""
+    dalia "He's rough...but you can learn to enjoy it."
 
 # DemonArc2_2e7811cb (line 91846)
 translate ru DemonArc2_2e7811cb:
@@ -1536,12 +1536,12 @@ translate ru DemonArc2_2e7811cb:
 # DemonArc2_63d7e0e6 (line 91847)
 translate ru DemonArc2_63d7e0e6:
     # s "Gods..."
-    s ""
+    s "Gods..."
 
 # DemonArc2_84619ae9 (line 91848)
 translate ru DemonArc2_84619ae9:
     # s "Are you sure there isn't a way out of here?"
-    s ""
+    s "Are you sure there isn't a way out of here?"
 
 # DemonArc2_7a1165fa (line 91849)
 translate ru DemonArc2_7a1165fa:
@@ -1551,12 +1551,12 @@ translate ru DemonArc2_7a1165fa:
 # DemonArc2_9a1fb421 (line 91850)
 translate ru DemonArc2_9a1fb421:
     # dalia "Don't talk like that."
-    dalia ""
+    dalia "Don't talk like that."
 
 # DemonArc2_78b93c0e (line 91851)
 translate ru DemonArc2_78b93c0e:
     # dalia "There isn't a way out. And if you try to escape, the Master will..."
-    dalia ""
+    dalia "There isn't a way out. And if you try to escape, the Master will..."
 
 # DemonArc2_e4dcd58a (line 91852)
 translate ru DemonArc2_e4dcd58a:
@@ -1566,7 +1566,7 @@ translate ru DemonArc2_e4dcd58a:
 # DemonArc2_55bf5999 (line 91853)
 translate ru DemonArc2_55bf5999:
     # dalia "Just accept the situation. The sooner you do, the sooner things will get better for you."
-    dalia ""
+    dalia "Just accept the situation. The sooner you do, the sooner things will get better for you."
 
 # DemonArc2_2d6994bb (line 91854)
 translate ru DemonArc2_2d6994bb:
@@ -1576,7 +1576,7 @@ translate ru DemonArc2_2d6994bb:
 # DemonArc2_19815037 (line 91855)
 translate ru DemonArc2_19815037:
     # dalia "And...you're not alone. We're here, together. We can support each other. It won't have to be all bad..."
-    dalia ""
+    dalia "And...you're not alone. We're here, together. We can support each other. It won't have to be all bad..."
 
 # DemonArc2_13a64dc5 (line 91856)
 translate ru DemonArc2_13a64dc5:
@@ -1586,7 +1586,7 @@ translate ru DemonArc2_13a64dc5:
 # DemonArc2_23222057 (line 91857)
 translate ru DemonArc2_23222057:
     # s "Yeah...maybe..."
-    s ""
+    s "Yeah...maybe..."
 
 # DemonArc2_cfb63829 (line 91858)
 translate ru DemonArc2_cfb63829:
@@ -1596,7 +1596,7 @@ translate ru DemonArc2_cfb63829:
 # DemonArc2_1a8ad361 (line 91859)
 translate ru DemonArc2_1a8ad361:
     # dalia "Good! Now, let's get you dressed up."
-    dalia ""
+    dalia "Good! Now, let's get you dressed up."
 
 # DemonArc2_e6fe532c (line 91860)
 translate ru DemonArc2_e6fe532c:
@@ -1606,7 +1606,7 @@ translate ru DemonArc2_e6fe532c:
 # DemonArc2_19dbf1d1 (line 91861)
 translate ru DemonArc2_19dbf1d1:
     # s "Dressed up?"
-    s ""
+    s "Dressed up?"
 
 # DemonArc2_8d01de8c (line 91862)
 translate ru DemonArc2_8d01de8c:
@@ -1616,7 +1616,7 @@ translate ru DemonArc2_8d01de8c:
 # DemonArc2_dd474f21 (line 91863)
 translate ru DemonArc2_dd474f21:
     # dalia "We should have an extra uniform around here."
-    dalia ""
+    dalia "We should have an extra uniform around here."
 
 # DemonArc2_43f11bbd (line 91864)
 translate ru DemonArc2_43f11bbd:
@@ -1626,7 +1626,7 @@ translate ru DemonArc2_43f11bbd:
 # DemonArc2_ba168c9a (line 91871)
 translate ru DemonArc2_ba168c9a:
     # dalia "Here, put this on!"
-    dalia ""
+    dalia "Here, put this on!"
 
 # DemonArc2_d734c4d8 (line 91872)
 translate ru DemonArc2_d734c4d8:
@@ -1651,7 +1651,7 @@ translate ru DemonArc2_bd7769b1:
 # DemonArc2_e1a44060 (line 91876)
 translate ru DemonArc2_e1a44060:
     # dalia "There! Fits like a glove."
-    dalia ""
+    dalia "There! Fits like a glove."
 
 # DemonArc2_1c093e55 (line 91877)
 translate ru DemonArc2_1c093e55:
@@ -1661,7 +1661,7 @@ translate ru DemonArc2_1c093e55:
 # DemonArc2_06ceac05 (line 91878)
 translate ru DemonArc2_06ceac05:
     # s "He...wants us to wear this?"
-    s ""
+    s "He...wants us to wear this?"
 
 # DemonArc2_45cce2c2 (line 91879)
 translate ru DemonArc2_45cce2c2:
@@ -1671,12 +1671,12 @@ translate ru DemonArc2_45cce2c2:
 # DemonArc2_1c84699e (line 91880)
 translate ru DemonArc2_1c84699e:
     # dalia "He told me that centuries ago, when this world wasn't as ruined as it is now, this castle had hundreds of servants."
-    dalia ""
+    dalia "He told me that centuries ago, when this world wasn't as ruined as it is now, this castle had hundreds of servants."
 
 # DemonArc2_5e611a9e (line 91881)
 translate ru DemonArc2_5e611a9e:
     # dalia "And all the servants had to wear this outfit."
-    dalia ""
+    dalia "And all the servants had to wear this outfit."
 
 # DemonArc2_544d68e2 (line 91882)
 translate ru DemonArc2_544d68e2:
@@ -1686,7 +1686,7 @@ translate ru DemonArc2_544d68e2:
 # DemonArc2_4efe23ee (line 91883)
 translate ru DemonArc2_4efe23ee:
     # dalia "I think it makes him remember better times."
-    dalia ""
+    dalia "I think it makes him remember better times."
 
 # DemonArc2_9f7044b4 (line 91884)
 translate ru DemonArc2_9f7044b4:
@@ -1701,7 +1701,7 @@ translate ru DemonArc2_a207a0d1:
 # DemonArc2_59a8f1df (line 91886)
 translate ru DemonArc2_59a8f1df:
     # dalia "I'll help you out the first few days, learning the layout of the castle and whatnot."
-    dalia ""
+    dalia "I'll help you out the first few days, learning the layout of the castle and whatnot."
 
 # DemonArc2_da71fab9 (line 91887)
 translate ru DemonArc2_da71fab9:
@@ -1711,7 +1711,7 @@ translate ru DemonArc2_da71fab9:
 # DemonArc2_1a62db5c (line 91888)
 translate ru DemonArc2_1a62db5c:
     # s "Thanks."
-    s ""
+    s "Thanks."
 
 # DemonArc2_c7ca01e0 (line 91889)
 translate ru DemonArc2_c7ca01e0:
@@ -1731,12 +1731,12 @@ translate ru DemonArc2_548f9c2c:
 # DemonArc2_b62c23d3 (line 91892)
 translate ru DemonArc2_b62c23d3:
     # dalia "Now, I think it's best if you go back to him."
-    dalia ""
+    dalia "Now, I think it's best if you go back to him."
 
 # DemonArc2_e85cc059 (line 91893)
 translate ru DemonArc2_e85cc059:
     # s "I thought I could wait until he calls on me...maybe he forgets..."
-    s ""
+    s "I thought I could wait until he calls on me...maybe he forgets..."
 
 # DemonArc2_0aedafd5 (line 91894)
 translate ru DemonArc2_0aedafd5:
@@ -1746,17 +1746,17 @@ translate ru DemonArc2_0aedafd5:
 # DemonArc2_f8dabbfb (line 91895)
 translate ru DemonArc2_f8dabbfb:
     # dalia "He won't forget."
-    dalia ""
+    dalia "He won't forget."
 
 # DemonArc2_7b13b5ee (line 91896)
 translate ru DemonArc2_7b13b5ee:
     # dalia "He'll want to make an example of you. See if you defy him again."
-    dalia ""
+    dalia "He'll want to make an example of you. See if you defy him again."
 
 # DemonArc2_69674ffc (line 91897)
 translate ru DemonArc2_69674ffc:
     # dalia "Don't give him a reason to punish you again."
-    dalia ""
+    dalia "Don't give him a reason to punish you again."
 
 # DemonArc2_43497c44 (line 91898)
 translate ru DemonArc2_43497c44:
@@ -1766,7 +1766,7 @@ translate ru DemonArc2_43497c44:
 # DemonArc2_dfadf340 (line 91899)
 translate ru DemonArc2_dfadf340:
     # s "Okay...I'll go."
-    s ""
+    s "Okay...I'll go."
 
 # DemonArc2_16cb6ca3 (line 91900)
 translate ru DemonArc2_16cb6ca3:
@@ -1781,7 +1781,7 @@ translate ru DemonArc2_45597741:
 # DemonArc2_9682c356 (line 91908)
 translate ru DemonArc2_9682c356:
     # dae "Dalia helped you get dressed up, I see."
-    dae ""
+    dae "Dalia helped you get dressed up, I see."
 
 # DemonArc2_a0277f56 (line 91909)
 translate ru DemonArc2_a0277f56:
@@ -1791,17 +1791,17 @@ translate ru DemonArc2_a0277f56:
 # DemonArc2_06b39778 (line 91910)
 translate ru DemonArc2_06b39778:
     # s "She's helping me get settled."
-    s ""
+    s "She's helping me get settled."
 
 # DemonArc2_23d9d49d (line 91911)
 translate ru DemonArc2_23d9d49d:
     # dae "Good."
-    dae ""
+    dae "Good."
 
 # DemonArc2_eeb822c4 (line 91912)
 translate ru DemonArc2_eeb822c4:
     # dae "Dalia is further along than you are, but if you learn from her, you'll adapt soon enough."
-    dae ""
+    dae "Dalia is further along than you are, but if you learn from her, you'll adapt soon enough."
 
 # DemonArc2_302df5b2 (line 91913)
 translate ru DemonArc2_302df5b2:
@@ -1811,15 +1811,5 @@ translate ru DemonArc2_302df5b2:
 # DemonArc2_9e8f17ab (line 91914)
 translate ru DemonArc2_9e8f17ab:
     # dae "Now...I had given you an instruction."
-    dae ""
-
-# DemonArc2_75e05b9a (line 91917)
-translate ru DemonArc2_75e05b9a:
-    # "Submit to the Master"
-    "Submit to the Master" ""
-
-# DemonArc2_9ab40f31 (line 91997)
-translate ru DemonArc2_9ab40f31:
-    # "Defy the Master"
-    "Defy the Master" ""
+    dae "Now...I had given you an instruction."
 

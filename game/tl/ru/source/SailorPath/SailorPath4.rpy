@@ -6,7 +6,7 @@
 # SailorPath4_6c5e1da5 (line 30927)
 translate ru SailorPath4_6c5e1da5:
     # cb "You wanna come work for me?"
-    cb ""
+    cb "You wanna come work for me?"
 
 # SailorPath4_434174e8 (line 30928)
 translate ru SailorPath4_434174e8:
@@ -16,12 +16,12 @@ translate ru SailorPath4_434174e8:
 # SailorPath4_08d4a9b3 (line 30929)
 translate ru SailorPath4_08d4a9b3:
     # s "You need a deck hand, and you're always looking for one, I thought, why not just hire me full time?"
-    s ""
+    s "You need a deck hand, and you're always looking for one, I thought, why not just hire me full time?"
 
 # SailorPath4_95c839f6 (line 30930)
 translate ru SailorPath4_95c839f6:
     # cb "What about your big plans of living in this city?"
-    cb ""
+    cb "What about your big plans of living in this city?"
 
 # SailorPath4_82c4b78f (line 30931)
 translate ru SailorPath4_82c4b78f:
@@ -31,17 +31,17 @@ translate ru SailorPath4_82c4b78f:
 # SailorPath4_676895ed (line 30932)
 translate ru SailorPath4_676895ed:
     # s "Why live here? What is waiting for me in a city where I don't know anybody?"
-    s ""
+    s "Why live here? What is waiting for me in a city where I don't know anybody?"
 
 # SailorPath4_f7c6f8cf (line 30933)
 translate ru SailorPath4_f7c6f8cf:
     # s "I'm starting to realize that, more than anything, I just wanted to get away from Lethram. Get away from everything that was keeping me there."
-    s ""
+    s "I'm starting to realize that, more than anything, I just wanted to get away from Lethram. Get away from everything that was keeping me there."
 
 # SailorPath4_c14a4ba1 (line 30934)
 translate ru SailorPath4_c14a4ba1:
     # s "Out there, on the sea, it was like nothing I ever saw before. I think maybe that's where I'm supposed to be, out on the open ocean."
-    s ""
+    s "Out there, on the sea, it was like nothing I ever saw before. I think maybe that's where I'm supposed to be, out on the open ocean."
 
 # SailorPath4_07fa934e (line 30935)
 translate ru SailorPath4_07fa934e:
@@ -76,7 +76,7 @@ translate ru SailorPath4_49c07cb5:
 # SailorPath4_89efe427 (line 30941)
 translate ru SailorPath4_89efe427:
     # cb "You can't rig a sail, couldn't tie a proper knot if your life depended on it and if I let you navigate we'd be lost at sea in under a day."
-    cb ""
+    cb "You can't rig a sail, couldn't tie a proper knot if your life depended on it and if I let you navigate we'd be lost at sea in under a day."
 
 # SailorPath4_b6d246cb (line 30942)
 translate ru SailorPath4_b6d246cb:
@@ -86,7 +86,7 @@ translate ru SailorPath4_b6d246cb:
 # SailorPath4_8677eda8 (line 30943)
 translate ru SailorPath4_8677eda8:
     # cb "But, you can scrub a deck and you're not all bad at sucking my cock."
-    cb ""
+    cb "But, you can scrub a deck and you're not all bad at sucking my cock."
 
 # SailorPath4_65270f5e (line 30944)
 translate ru SailorPath4_65270f5e:
@@ -96,12 +96,12 @@ translate ru SailorPath4_65270f5e:
 # SailorPath4_16f5e288 (line 30945)
 translate ru SailorPath4_16f5e288:
     # cb "So I suppose I could take you on."
-    cb ""
+    cb "So I suppose I could take you on."
 
 # SailorPath4_fe5623ec (line 30946)
 translate ru SailorPath4_fe5623ec:
     # s "Thank you, captain Belmont! I promise I'll earn my keep."
-    s ""
+    s "Thank you, captain Belmont! I promise I'll earn my keep."
 
 # SailorPath4_64f68be8 (line 30947)
 translate ru SailorPath4_64f68be8:
@@ -116,42 +116,42 @@ translate ru SailorPath4_f8b6a6b7:
 # SailorPath4_fe3b5e2c (line 30949)
 translate ru SailorPath4_fe3b5e2c:
     # cb "This ain't no charity, blondie."
-    cb ""
+    cb "This ain't no charity, blondie."
 
 # SailorPath4_589c4961 (line 30950)
 translate ru SailorPath4_589c4961:
     # s "I understand."
-    s ""
+    s "I understand."
 
 # SailorPath4_f678269e (line 30951)
 translate ru SailorPath4_f678269e:
     # cb "No, you don't."
-    cb ""
+    cb "No, you don't."
 
 # SailorPath4_4385f4ff (line 30952)
 translate ru SailorPath4_4385f4ff:
     # cb "This trip was one thing, but if you wanna be my deck hand, you're gonna have to learn how to work a ship proper."
-    cb ""
+    cb "This trip was one thing, but if you wanna be my deck hand, you're gonna have to learn how to work a ship proper."
 
 # SailorPath4_133c5dc3 (line 30953)
 translate ru SailorPath4_133c5dc3:
     # s "I will. I promise I'll do better."
-    s ""
+    s "I will. I promise I'll do better."
 
 # SailorPath4_cf19b36f (line 30954)
 translate ru SailorPath4_cf19b36f:
     # cb "That means I'll take you on as an apprentice."
-    cb ""
+    cb "That means I'll take you on as an apprentice."
 
 # SailorPath4_4dc8a122 (line 30955)
 translate ru SailorPath4_4dc8a122:
     # s "Of course!"
-    s ""
+    s "Of course!"
 
 # SailorPath4_c378d481 (line 30956)
 translate ru SailorPath4_c378d481:
     # cb "And that means you get the pay of an apprentice."
-    cb ""
+    cb "And that means you get the pay of an apprentice."
 
 # SailorPath4_dba4fb26 (line 30957)
 translate ru SailorPath4_dba4fb26:
@@ -161,12 +161,12 @@ translate ru SailorPath4_dba4fb26:
 # SailorPath4_b8defeba (line 30958)
 translate ru SailorPath4_b8defeba:
     # s "Yes, that's fair."
-    s ""
+    s "Yes, that's fair."
 
 # SailorPath4_f732585a (line 30959)
 translate ru SailorPath4_f732585a:
     # cb "Alright then, let's make this official, follow me."
-    cb ""
+    cb "Alright then, let's make this official, follow me."
 
 # SailorPath4_8e2e328f (line 30960)
 translate ru SailorPath4_8e2e328f:
@@ -201,7 +201,7 @@ translate ru SailorPath4_77756478:
 # SailorPath4_c68225a9 (line 30976)
 translate ru SailorPath4_c68225a9:
     # cb "Strip!"
-    cb ""
+    cb "Strip!"
 
 # SailorPath4_46a63dbf (line 30977)
 translate ru SailorPath4_46a63dbf:
@@ -256,7 +256,7 @@ translate ru SailorPath4_1503e688:
 # SailorPath4_47ac7e3e (line 30996)
 translate ru SailorPath4_47ac7e3e:
     # s "What do you want to do?"
-    s ""
+    s "What do you want to do?"
 
 # SailorPath4_696556a9 (line 30997)
 translate ru SailorPath4_696556a9:
@@ -266,7 +266,7 @@ translate ru SailorPath4_696556a9:
 # SailorPath4_d78914be (line 30998)
 translate ru SailorPath4_d78914be:
     # cb "Look blondie, I know you're a little cock crazy, but I do actually run a business."
-    cb ""
+    cb "Look blondie, I know you're a little cock crazy, but I do actually run a business."
 
 # SailorPath4_01d589bf (line 30999)
 translate ru SailorPath4_01d589bf:
@@ -276,17 +276,17 @@ translate ru SailorPath4_01d589bf:
 # SailorPath4_f28dd5a4 (line 31000)
 translate ru SailorPath4_f28dd5a4:
     # s "I thought you wanted to..."
-    s ""
+    s "I thought you wanted to..."
 
 # SailorPath4_41a60030 (line 31001)
 translate ru SailorPath4_41a60030:
     # cb "Sure, blame good old captain Belmont."
-    cb ""
+    cb "Sure, blame good old captain Belmont."
 
 # SailorPath4_078cd247 (line 31002)
 translate ru SailorPath4_078cd247:
     # cb "Try not to always have cock on your brain."
-    cb ""
+    cb "Try not to always have cock on your brain."
 
 # SailorPath4_4d328f59 (line 31003)
 translate ru SailorPath4_4d328f59:
@@ -301,7 +301,7 @@ translate ru SailorPath4_e4dd214c:
 # SailorPath4_f7a41854 (line 31005)
 translate ru SailorPath4_f7a41854:
     # cb "There's a chest over there. Go ahead and open it."
-    cb ""
+    cb "There's a chest over there. Go ahead and open it."
 
 # SailorPath4_2e8c6525 (line 31006)
 translate ru SailorPath4_2e8c6525:
@@ -321,17 +321,17 @@ translate ru SailorPath4_a67d02b7:
 # SailorPath4_61d738a7 (line 31009)
 translate ru SailorPath4_61d738a7:
     # cb "Real ship work gets you well and dirty. If not the grime of the ship then the sweat of the work will do it."
-    cb ""
+    cb "Real ship work gets you well and dirty. If not the grime of the ship then the sweat of the work will do it."
 
 # SailorPath4_ffc2de3b (line 31010)
 translate ru SailorPath4_ffc2de3b:
     # cb "You can't go around prancing my ship in a dress, not if you're gonna be a real deck hand."
-    cb ""
+    cb "You can't go around prancing my ship in a dress, not if you're gonna be a real deck hand."
 
 # SailorPath4_6c4b27fe (line 31011)
 translate ru SailorPath4_6c4b27fe:
     # cb "So, put that on and see if it fits."
-    cb ""
+    cb "So, put that on and see if it fits."
 
 # SailorPath4_f5391b10 (line 31012)
 translate ru SailorPath4_f5391b10:
@@ -381,7 +381,7 @@ translate ru SailorPath4_9e4b6226:
 # SailorPath4_f28658a8 (line 31026)
 translate ru SailorPath4_f28658a8:
     # cb "That seems to fit."
-    cb ""
+    cb "That seems to fit."
 
 # SailorPath4_69b7dbe2 (line 31027)
 translate ru SailorPath4_69b7dbe2:
@@ -396,7 +396,7 @@ translate ru SailorPath4_3ea478c2:
 # SailorPath4_78f59d73 (line 31029)
 translate ru SailorPath4_78f59d73:
     # cb "Can you move?"
-    cb ""
+    cb "Can you move?"
 
 # SailorPath4_ea74efd3 (line 31030)
 translate ru SailorPath4_ea74efd3:
@@ -406,17 +406,17 @@ translate ru SailorPath4_ea74efd3:
 # SailorPath4_0ff99b56 (line 31031)
 translate ru SailorPath4_0ff99b56:
     # s "Yeah, I think so."
-    s ""
+    s "Yeah, I think so."
 
 # SailorPath4_1a109423 (line 31032)
 translate ru SailorPath4_1a109423:
     # s "Thank you, for the clothes."
-    s ""
+    s "Thank you, for the clothes."
 
 # SailorPath4_fb6c5945 (line 31033)
 translate ru SailorPath4_fb6c5945:
     # s "I'm gonna prove to you that I can do the work."
-    s ""
+    s "I'm gonna prove to you that I can do the work."
 
 # SailorPath4_d48a2e6e (line 31034)
 translate ru SailorPath4_d48a2e6e:
@@ -431,7 +431,7 @@ translate ru SailorPath4_15643bb8:
 # SailorPath4_935849d3 (line 31036)
 translate ru SailorPath4_935849d3:
     # cb "Keep all that sweet talk to yourself. Just show me by doing the work."
-    cb ""
+    cb "Keep all that sweet talk to yourself. Just show me by doing the work."
 
 # SailorPath4_b0d34ee3 (line 31037)
 translate ru SailorPath4_b0d34ee3:
@@ -441,7 +441,7 @@ translate ru SailorPath4_b0d34ee3:
 # SailorPath4_2d75ff03 (line 31038)
 translate ru SailorPath4_2d75ff03:
     # cb "Pick those up."
-    cb ""
+    cb "Pick those up."
 
 # SailorPath4_daac3098 (line 31039)
 translate ru SailorPath4_daac3098:
@@ -456,7 +456,7 @@ translate ru SailorPath4_40482604:
 # SailorPath4_ff6ff7fe (line 31041)
 translate ru SailorPath4_ff6ff7fe:
     # cb "Now, rip those up and throw them in the boiler, we can use the fuel."
-    cb ""
+    cb "Now, rip those up and throw them in the boiler, we can use the fuel."
 
 # SailorPath4_f4123d48 (line 31042)
 translate ru SailorPath4_f4123d48:
@@ -466,17 +466,17 @@ translate ru SailorPath4_f4123d48:
 # SailorPath4_d7e0c80f (line 31043)
 translate ru SailorPath4_d7e0c80f:
     # s "I...but...why?"
-    s ""
+    s "I...but...why?"
 
 # SailorPath4_74cf9c4d (line 31044)
 translate ru SailorPath4_74cf9c4d:
     # cb "Because I told you to, blondie. Now rip them up."
-    cb ""
+    cb "Because I told you to, blondie. Now rip them up."
 
 # SailorPath4_14d57091 (line 31045)
 translate ru SailorPath4_14d57091:
     # s "But...we can...put them in my trunk or I can sell them, they're still good."
-    s ""
+    s "But...we can...put them in my trunk or I can sell them, they're still good."
 
 # SailorPath4_8caff821 (line 31046)
 translate ru SailorPath4_8caff821:
@@ -486,27 +486,27 @@ translate ru SailorPath4_8caff821:
 # SailorPath4_ab0e0790 (line 31047)
 translate ru SailorPath4_ab0e0790:
     # cb "On my ship, you don't need no fancy dress."
-    cb ""
+    cb "On my ship, you don't need no fancy dress."
 
 # SailorPath4_8821e64f (line 31048)
 translate ru SailorPath4_8821e64f:
     # cb "And if you wanna work my ship, there ain't no halfways about it."
-    cb ""
+    cb "And if you wanna work my ship, there ain't no halfways about it."
 
 # SailorPath4_0a025342 (line 31049)
 translate ru SailorPath4_0a025342:
     # cb "You work it or you don't."
-    cb ""
+    cb "You work it or you don't."
 
 # SailorPath4_8cdb2aee (line 31050)
 translate ru SailorPath4_8cdb2aee:
     # cb "Only reason to keep that dress is if you think you might change your mind."
-    cb ""
+    cb "Only reason to keep that dress is if you think you might change your mind."
 
 # SailorPath4_288221ca (line 31051)
 translate ru SailorPath4_288221ca:
     # cb "You gonna change your mind blondie?"
-    cb ""
+    cb "You gonna change your mind blondie?"
 
 # SailorPath4_11a24b82 (line 31052)
 translate ru SailorPath4_11a24b82:
@@ -516,7 +516,7 @@ translate ru SailorPath4_11a24b82:
 # SailorPath4_4d0a5246 (line 31053)
 translate ru SailorPath4_4d0a5246:
     # cb "Then rip it up. Now!"
-    cb ""
+    cb "Then rip it up. Now!"
 
 # SailorPath4_f8042593 (line 31054)
 translate ru SailorPath4_f8042593:
@@ -526,7 +526,7 @@ translate ru SailorPath4_f8042593:
 # SailorPath4_375b45ec (line 31055)
 translate ru SailorPath4_375b45ec:
     # s "Yes, captain Belmont."
-    s ""
+    s "Yes, captain Belmont."
 
 # SailorPath4_fed225d0 (line 31056)
 translate ru SailorPath4_fed225d0:
@@ -576,7 +576,7 @@ translate ru SailorPath4_1caf32d3:
 # SailorPath4_f824b5c5 (line 31065)
 translate ru SailorPath4_f824b5c5:
     # cb "Turn around."
-    cb ""
+    cb "Turn around."
 
 # SailorPath4_0157bc3f (line 31066)
 translate ru SailorPath4_0157bc3f:
@@ -586,7 +586,7 @@ translate ru SailorPath4_0157bc3f:
 # SailorPath4_190537d3 (line 31067)
 translate ru SailorPath4_190537d3:
     # cb "Put your hands behind your back."
-    cb ""
+    cb "Put your hands behind your back."
 
 # SailorPath4_471cf45d (line 31068)
 translate ru SailorPath4_471cf45d:
@@ -651,17 +651,17 @@ translate ru SailorPath4_fc695cd4:
 # SailorPath4_1b9ca0c9 (line 31080)
 translate ru SailorPath4_1b9ca0c9:
     # s "Captain Belmont...I..."
-    s ""
+    s "Captain Belmont...I..."
 
 # SailorPath4_263899eb (line 31081)
 translate ru SailorPath4_263899eb:
     # cb "What, blondie?"
-    cb ""
+    cb "What, blondie?"
 
 # SailorPath4_4620baba (line 31082)
 translate ru SailorPath4_4620baba:
     # s "Nothing, sir."
-    s ""
+    s "Nothing, sir."
 
 # SailorPath4_289d40f0 (line 31083)
 translate ru SailorPath4_289d40f0:
@@ -671,12 +671,12 @@ translate ru SailorPath4_289d40f0:
 # SailorPath4_c5988008 (line 31084)
 translate ru SailorPath4_c5988008:
     # cb "That's what I thought, blondie."
-    cb ""
+    cb "That's what I thought, blondie."
 
 # SailorPath4_68989b68 (line 31085)
 translate ru SailorPath4_68989b68:
     # cb "Or did you really think you were just gonna be workin my ship?"
-    cb ""
+    cb "Or did you really think you were just gonna be workin my ship?"
 
 # SailorPath4_7da0749e (line 31086)
 translate ru SailorPath4_7da0749e:
@@ -686,7 +686,7 @@ translate ru SailorPath4_7da0749e:
 # SailorPath4_4ca6e660 (line 31087)
 translate ru SailorPath4_4ca6e660:
     # s "No, captain Belmont."
-    s ""
+    s "No, captain Belmont."
 
 # SailorPath4_4b94a871 (line 31088)
 translate ru SailorPath4_4b94a871:
@@ -716,7 +716,7 @@ translate ru SailorPath4_aefe396d:
 # SailorPath4_c3293791 (line 31093)
 translate ru SailorPath4_c3293791:
     # cb "You know, blondie..."
-    cb ""
+    cb "You know, blondie..."
 
 # SailorPath4_de95ae8f (line 31094)
 translate ru SailorPath4_de95ae8f:
@@ -731,12 +731,12 @@ translate ru SailorPath4_17f62580:
 # SailorPath4_d01e2f1e (line 31096)
 translate ru SailorPath4_d01e2f1e:
     # cb "This port is a proper port, not meant for cock crazed whores like you."
-    cb ""
+    cb "This port is a proper port, not meant for cock crazed whores like you."
 
 # SailorPath4_8042e1e2 (line 31097)
 translate ru SailorPath4_8042e1e2:
     # cb "I think we'll need to figure something out so I don't get a fine for public nuisance."
-    cb ""
+    cb "I think we'll need to figure something out so I don't get a fine for public nuisance."
 
 # SailorPath4_52f6f21a (line 31098)
 translate ru SailorPath4_52f6f21a:
@@ -986,7 +986,7 @@ translate ru SailorPath4_27091e16:
 # SailorPath4_e8a7bf5f (line 31147)
 translate ru SailorPath4_e8a7bf5f:
     # cb "I don't think I'll ever get tired of your pussy, blondie."
-    cb ""
+    cb "I don't think I'll ever get tired of your pussy, blondie."
 
 # SailorPath4_ca1809a2 (line 31148)
 translate ru SailorPath4_ca1809a2:
@@ -1006,7 +1006,7 @@ translate ru SailorPath4_61222121:
 # SailorPath4_07f226fb (line 31151)
 translate ru SailorPath4_07f226fb:
     # cb "What's that blondie, no response?"
-    cb ""
+    cb "What's that blondie, no response?"
 
 # SailorPath4_3259b2fc (line 31152)
 translate ru SailorPath4_3259b2fc:
@@ -1046,7 +1046,7 @@ translate ru SailorPath4_24999efc:
 # SailorPath4_e0d7897f (line 31159)
 translate ru SailorPath4_e0d7897f:
     # cb "Hold on blondie, let me take this off."
-    cb ""
+    cb "Hold on blondie, let me take this off."
 
 # SailorPath4_436f4c0b (line 31160)
 translate ru SailorPath4_436f4c0b:
@@ -1066,7 +1066,7 @@ translate ru SailorPath4_e12e6b2b:
 # SailorPath4_80f86a17 (line 31163)
 translate ru SailorPath4_80f86a17:
     # s "Pwease..."
-    s ""
+    s "Pwease..."
 
 # SailorPath4_e0670d66 (line 31164)
 translate ru SailorPath4_e0670d66:
@@ -1116,7 +1116,7 @@ translate ru SailorPath4_0f67fd16:
 # SailorPath4_d79a2eb8 (line 31173)
 translate ru SailorPath4_d79a2eb8:
     # cb "Don't forget to burn those."
-    cb ""
+    cb "Don't forget to burn those."
 
 # SailorPath4_d390e660 (line 31174)
 translate ru SailorPath4_d390e660:

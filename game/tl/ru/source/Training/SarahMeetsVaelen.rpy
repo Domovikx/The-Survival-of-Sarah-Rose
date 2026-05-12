@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: SarahMeetsVaelen
-# Total blocks: 71
+# Total blocks: 69
 
 # SarahMeetsVaelen_42312c2c (line 25091)
 translate ru SarahMeetsVaelen_42312c2c:
@@ -91,7 +91,7 @@ translate ru SarahMeetsVaelen_400f8c39:
 # SarahMeetsVaelen_e8f06d06 (line 25145)
 translate ru SarahMeetsVaelen_e8f06d06:
     # vae "Please, princess Sarah, come."
-    vae ""
+    vae "Please, princess Sarah, come."
 
 # SarahMeetsVaelen_a0b97afa (line 25146)
 translate ru SarahMeetsVaelen_a0b97afa:
@@ -106,7 +106,7 @@ translate ru SarahMeetsVaelen_f313a774:
 # SarahMeetsVaelen_83e4053d (line 25148)
 translate ru SarahMeetsVaelen_83e4053d:
     # vae "Go ahead, take a seat."
-    vae ""
+    vae "Go ahead, take a seat."
 
 # SarahMeetsVaelen_c1271c08 (line 25149)
 translate ru SarahMeetsVaelen_c1271c08:
@@ -121,12 +121,12 @@ translate ru SarahMeetsVaelen_9a04d9a9:
 # SarahMeetsVaelen_95462dd5 (line 25152)
 translate ru SarahMeetsVaelen_95462dd5:
     # vae "I've called on you here today to discuss your...situation. Kate has informed me to some degree."
-    vae ""
+    vae "I've called on you here today to discuss your...situation. Kate has informed me to some degree."
 
 # SarahMeetsVaelen_62f6bfb7 (line 25153)
 translate ru SarahMeetsVaelen_62f6bfb7:
     # vae "I hope you've enjoyed your stay so far?"
-    vae ""
+    vae "I hope you've enjoyed your stay so far?"
 
 # SarahMeetsVaelen_87d7f82c (line 25154)
 translate ru SarahMeetsVaelen_87d7f82c:
@@ -136,22 +136,22 @@ translate ru SarahMeetsVaelen_87d7f82c:
 # SarahMeetsVaelen_96875734 (line 25155)
 translate ru SarahMeetsVaelen_96875734:
     # s "Yes, commander Vaelen. You have been very kind to host me for these last few weeks."
-    s ""
+    s "Yes, commander Vaelen. You have been very kind to host me for these last few weeks."
 
 # SarahMeetsVaelen_14a89402 (line 25156)
 translate ru SarahMeetsVaelen_14a89402:
     # s "But it is my wish, my desire, above all, to return back home. Back to Rosanna."
-    s ""
+    s "But it is my wish, my desire, above all, to return back home. Back to Rosanna."
 
 # SarahMeetsVaelen_fe6d077f (line 25157)
 translate ru SarahMeetsVaelen_fe6d077f:
     # s "Given the current circumstances, it is difficult for me to afford the voyage back home."
-    s ""
+    s "Given the current circumstances, it is difficult for me to afford the voyage back home."
 
 # SarahMeetsVaelen_8531197c (line 25158)
 translate ru SarahMeetsVaelen_8531197c:
     # s "However, as the princess of Rosanna, I vow to you, should you return me safely to Castle Reinmeer, my brother, King Thomas, will see you well rewarded."
-    s ""
+    s "However, as the princess of Rosanna, I vow to you, should you return me safely to Castle Reinmeer, my brother, King Thomas, will see you well rewarded."
 
 # SarahMeetsVaelen_26d54a23 (line 25160)
 translate ru SarahMeetsVaelen_26d54a23:
@@ -161,7 +161,7 @@ translate ru SarahMeetsVaelen_26d54a23:
 # SarahMeetsVaelen_56ba0521 (line 25161)
 translate ru SarahMeetsVaelen_56ba0521:
     # vae "Yes, it is as I feared..."
-    vae ""
+    vae "Yes, it is as I feared..."
 
 # SarahMeetsVaelen_39bc68b7 (line 25162)
 translate ru SarahMeetsVaelen_39bc68b7:
@@ -171,7 +171,7 @@ translate ru SarahMeetsVaelen_39bc68b7:
 # SarahMeetsVaelen_d5e66d7f (line 25163)
 translate ru SarahMeetsVaelen_d5e66d7f:
     # vae "You see, princess Sarah, I fear that I must be the first to inform you."
-    vae ""
+    vae "You see, princess Sarah, I fear that I must be the first to inform you."
 
 # SarahMeetsVaelen_3525fe35 (line 25164)
 translate ru SarahMeetsVaelen_3525fe35:
@@ -181,7 +181,7 @@ translate ru SarahMeetsVaelen_3525fe35:
 # SarahMeetsVaelen_b8a8388d (line 25165)
 translate ru SarahMeetsVaelen_b8a8388d:
     # s "Inform me of what?"
-    s ""
+    s "Inform me of what?"
 
 # SarahMeetsVaelen_1fa077f0 (line 25166)
 translate ru SarahMeetsVaelen_1fa077f0:
@@ -191,12 +191,12 @@ translate ru SarahMeetsVaelen_1fa077f0:
 # SarahMeetsVaelen_f07c4ee2 (line 25167)
 translate ru SarahMeetsVaelen_f07c4ee2:
     # vae "The situation in Rosanna, it is not as you left it, princess..."
-    vae ""
+    vae "The situation in Rosanna, it is not as you left it, princess..."
 
 # SarahMeetsVaelen_f5bbc252 (line 25168)
 translate ru SarahMeetsVaelen_f5bbc252:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # SarahMeetsVaelen_40f43e1a (line 25170)
 translate ru SarahMeetsVaelen_40f43e1a:
@@ -206,7 +206,7 @@ translate ru SarahMeetsVaelen_40f43e1a:
 # SarahMeetsVaelen_c672230e (line 25171)
 translate ru SarahMeetsVaelen_c672230e:
     # vae "In the weeks after you left, and the time you spend in our camp, your country...it has been attacked."
-    vae ""
+    vae "In the weeks after you left, and the time you spend in our camp, your country...it has been attacked."
 
 # SarahMeetsVaelen_e3eb4a8f (line 25172)
 translate ru SarahMeetsVaelen_e3eb4a8f:
@@ -216,22 +216,22 @@ translate ru SarahMeetsVaelen_e3eb4a8f:
 # SarahMeetsVaelen_bb8845d7 (line 25173)
 translate ru SarahMeetsVaelen_bb8845d7:
     # s "Attacked? I don't understand..."
-    s ""
+    s "Attacked? I don't understand..."
 
 # SarahMeetsVaelen_e5841654 (line 25174)
 translate ru SarahMeetsVaelen_e5841654:
     # vae "Coming from the east, an army, larger than any ever seen, under the leadership of a man named Hassar, swept into Rosanna."
-    vae ""
+    vae "Coming from the east, an army, larger than any ever seen, under the leadership of a man named Hassar, swept into Rosanna."
 
 # SarahMeetsVaelen_6204c6a6 (line 25175)
 translate ru SarahMeetsVaelen_6204c6a6:
     # vae "Your brother, King Thomas, rallied his forces to meet them on the battlefield..."
-    vae ""
+    vae "Your brother, King Thomas, rallied his forces to meet them on the battlefield..."
 
 # SarahMeetsVaelen_5b9203d0 (line 25176)
 translate ru SarahMeetsVaelen_5b9203d0:
     # vae "But I regret to inform you...that your brother..."
-    vae ""
+    vae "But I regret to inform you...that your brother..."
 
 # SarahMeetsVaelen_3ce10061 (line 25177)
 translate ru SarahMeetsVaelen_3ce10061:
@@ -241,12 +241,12 @@ translate ru SarahMeetsVaelen_3ce10061:
 # SarahMeetsVaelen_57e6c3cc (line 25178)
 translate ru SarahMeetsVaelen_57e6c3cc:
     # vae "He died, in battle. Most of the royal army was routed and Hassar's soldiers entered the capital."
-    vae ""
+    vae "He died, in battle. Most of the royal army was routed and Hassar's soldiers entered the capital."
 
 # SarahMeetsVaelen_5e79d36a (line 25179)
 translate ru SarahMeetsVaelen_5e79d36a:
     # vae "Last we have heard, the capital is still being looted."
-    vae ""
+    vae "Last we have heard, the capital is still being looted."
 
 # SarahMeetsVaelen_e0c122e0 (line 25181)
 translate ru SarahMeetsVaelen_e0c122e0:
@@ -271,12 +271,12 @@ translate ru SarahMeetsVaelen_9cc978d9:
 # SarahMeetsVaelen_52954032 (line 25185)
 translate ru SarahMeetsVaelen_52954032:
     # s "Then I am a princess of nothing..."
-    s ""
+    s "Then I am a princess of nothing..."
 
 # SarahMeetsVaelen_34448dc7 (line 25186)
 translate ru SarahMeetsVaelen_34448dc7:
     # s "I have lost my family...my land...there is no place in this world for me to go back to."
-    s ""
+    s "I have lost my family...my land...there is no place in this world for me to go back to."
 
 # SarahMeetsVaelen_69baa70e (line 25187)
 translate ru SarahMeetsVaelen_69baa70e:
@@ -286,7 +286,7 @@ translate ru SarahMeetsVaelen_69baa70e:
 # SarahMeetsVaelen_b66f6c1c (line 25189)
 translate ru SarahMeetsVaelen_b66f6c1c:
     # vae "Princess, let me call you that, even still, Sarah."
-    vae ""
+    vae "Princess, let me call you that, even still, Sarah."
 
 # SarahMeetsVaelen_18a24663 (line 25190)
 translate ru SarahMeetsVaelen_18a24663:
@@ -296,7 +296,7 @@ translate ru SarahMeetsVaelen_18a24663:
 # SarahMeetsVaelen_909e58f4 (line 25191)
 translate ru SarahMeetsVaelen_909e58f4:
     # vae "You have more than you imagine. Your life. Your friend. And you do have a home, here, in this camp."
-    vae ""
+    vae "You have more than you imagine. Your life. Your friend. And you do have a home, here, in this camp."
 
 # SarahMeetsVaelen_1f2cdf9b (line 25192)
 translate ru SarahMeetsVaelen_1f2cdf9b:
@@ -306,7 +306,7 @@ translate ru SarahMeetsVaelen_1f2cdf9b:
 # SarahMeetsVaelen_f9d84669 (line 25193)
 translate ru SarahMeetsVaelen_f9d84669:
     # vae "Barbarians have attacked your home, but all they have is an army. Rosanna is still yours, by birthright."
-    vae ""
+    vae "Barbarians have attacked your home, but all they have is an army. Rosanna is still yours, by birthright."
 
 # SarahMeetsVaelen_156adbae (line 25194)
 translate ru SarahMeetsVaelen_156adbae:
@@ -316,17 +316,17 @@ translate ru SarahMeetsVaelen_156adbae:
 # SarahMeetsVaelen_ba8015a2 (line 25195)
 translate ru SarahMeetsVaelen_ba8015a2:
     # vae "Commit yourself. Set yourself on a path to reclaim what is yours, and you can restore order to this world."
-    vae ""
+    vae "Commit yourself. Set yourself on a path to reclaim what is yours, and you can restore order to this world."
 
 # SarahMeetsVaelen_eb75e2cb (line 25196)
 translate ru SarahMeetsVaelen_eb75e2cb:
     # vae "So long as you draw breath, the people of Rosanna will know that hope still burns."
-    vae ""
+    vae "So long as you draw breath, the people of Rosanna will know that hope still burns."
 
 # SarahMeetsVaelen_ed84ea01 (line 25197)
 translate ru SarahMeetsVaelen_ed84ea01:
     # vae "And if it's vengeance you want, then burn the image of that barbarian king's head into your mind, and will it into reality."
-    vae ""
+    vae "And if it's vengeance you want, then burn the image of that barbarian king's head into your mind, and will it into reality."
 
 # SarahMeetsVaelen_a4e9dd5a (line 25199)
 translate ru SarahMeetsVaelen_a4e9dd5a:
@@ -341,20 +341,10 @@ translate ru SarahMeetsVaelen_f8f06a9f:
 # SarahMeetsVaelen_3bc9494b (line 25201)
 translate ru SarahMeetsVaelen_3bc9494b:
     # vae "Princess Sarah, in this moment of crisis that the Rose family finds itself, allow me to swear my allegiance to your house."
-    vae ""
+    vae "Princess Sarah, in this moment of crisis that the Rose family finds itself, allow me to swear my allegiance to your house."
 
 # SarahMeetsVaelen_64f707b5 (line 25202)
 translate ru SarahMeetsVaelen_64f707b5:
     # vae "Join the Brothers of Providence, and you will always have a home in this world."
-    vae ""
-
-# SarahMeetsVaelen_356cff2c (line 25206)
-translate ru SarahMeetsVaelen_356cff2c:
-    # "I will join the Brothers of Providence and reclaim Rosanna."
-    "I will join the Brothers of Providence and reclaim Rosanna." ""
-
-# SarahMeetsVaelen_1148673d (line 25208)
-translate ru SarahMeetsVaelen_1148673d:
-    # "There is no place for me here."
-    "There is no place for me here." ""
+    vae "Join the Brothers of Providence, and you will always have a home in this world."
 

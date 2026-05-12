@@ -61,7 +61,7 @@ translate ru UnderworldPath3_9598ddb9:
 # UnderworldPath3_29f0a8d0 (line 60957)
 translate ru UnderworldPath3_29f0a8d0:
     # s "Ooh...fuck..."
-    s ""
+    s "Ooh...fuck..."
 
 # UnderworldPath3_4ad845a8 (line 60958)
 translate ru UnderworldPath3_4ad845a8:
@@ -101,37 +101,37 @@ translate ru UnderworldPath3_5218e6e6:
 # UnderworldPath3_14ce27f2 (line 60965)
 translate ru UnderworldPath3_14ce27f2:
     # s "Please...Alaric...finish...I'm gonna faint."
-    s ""
+    s "Please...Alaric...finish...I'm gonna faint."
 
 # UnderworldPath3_e6c4a1a3 (line 60966)
 translate ru UnderworldPath3_e6c4a1a3:
     # al "Who has the best cock in all of Lethram?"
-    al ""
+    al "Who has the best cock in all of Lethram?"
 
 # UnderworldPath3_ad9befaf (line 60967)
 translate ru UnderworldPath3_ad9befaf:
     # s "You do!"
-    s ""
+    s "You do!"
 
 # UnderworldPath3_66cca9b9 (line 60968)
 translate ru UnderworldPath3_66cca9b9:
     # al "You do what?"
-    al ""
+    al "You do what?"
 
 # UnderworldPath3_7e7fea27 (line 60969)
 translate ru UnderworldPath3_7e7fea27:
     # s "You have the best cock in all of Lethram!"
-    s ""
+    s "You have the best cock in all of Lethram!"
 
 # UnderworldPath3_1a8ea2d0 (line 60970)
 translate ru UnderworldPath3_1a8ea2d0:
     # s "Please Alaric!"
-    s ""
+    s "Please Alaric!"
 
 # UnderworldPath3_3a128b1c (line 60971)
 translate ru UnderworldPath3_3a128b1c:
     # al "That's what I thought."
-    al ""
+    al "That's what I thought."
 
 # UnderworldPath3_5e1c83ef (line 60972)
 translate ru UnderworldPath3_5e1c83ef:
@@ -171,7 +171,7 @@ translate ru UnderworldPath3_b1a4d038:
 # UnderworldPath3_284e1a20 (line 60979)
 translate ru UnderworldPath3_284e1a20:
     # s "Ooh god!"
-    s ""
+    s "Ooh god!"
 
 # UnderworldPath3_e9fefcc4 (line 60980)
 translate ru UnderworldPath3_e9fefcc4:
@@ -201,7 +201,7 @@ translate ru UnderworldPath3_891eb472:
 # UnderworldPath3_b98e9105 (line 60985)
 translate ru UnderworldPath3_b98e9105:
     # al "Fuck Sarah, you turn into such a mess when you're a slut."
-    al ""
+    al "Fuck Sarah, you turn into such a mess when you're a slut."
 
 # UnderworldPath3_4f0c9f55 (line 60986)
 translate ru UnderworldPath3_4f0c9f55:
@@ -231,7 +231,7 @@ translate ru UnderworldPath3_8491c637:
 # UnderworldPath3_d077aa3f (line 60991)
 translate ru UnderworldPath3_d077aa3f:
     # al "Sarah...I'm sorry, I thought you liked it when I called you that..."
-    al ""
+    al "Sarah...I'm sorry, I thought you liked it when I called you that..."
 
 # UnderworldPath3_231eec5d (line 60992)
 translate ru UnderworldPath3_231eec5d:
@@ -241,7 +241,7 @@ translate ru UnderworldPath3_231eec5d:
 # UnderworldPath3_f7effc10 (line 60993)
 translate ru UnderworldPath3_f7effc10:
     # s "It's not that, Alaric. It's just..."
-    s ""
+    s "It's not that, Alaric. It's just..."
 
 # UnderworldPath3_5ebf3589 (line 60994)
 translate ru UnderworldPath3_5ebf3589:
@@ -281,12 +281,12 @@ translate ru UnderworldPath3_0818df45:
 # UnderworldPath3_6955a074 (line 61001)
 translate ru UnderworldPath3_6955a074:
     # s "I'm just exhausted. You've exhausted me, and now I'm crying, cause I've lost my mind."
-    s ""
+    s "I'm just exhausted. You've exhausted me, and now I'm crying, cause I've lost my mind."
 
 # UnderworldPath3_5e0784df (line 61002)
 translate ru UnderworldPath3_5e0784df:
     # s "Just let me be."
-    s ""
+    s "Just let me be."
 
 # UnderworldPath3_8e8dd4dc (line 61003)
 translate ru UnderworldPath3_8e8dd4dc:
@@ -296,12 +296,12 @@ translate ru UnderworldPath3_8e8dd4dc:
 # UnderworldPath3_298b580b (line 61004)
 translate ru UnderworldPath3_298b580b:
     # al "You came four times, guess I shoulda gone easier on you."
-    al ""
+    al "You came four times, guess I shoulda gone easier on you."
 
 # UnderworldPath3_8208ad15 (line 61005)
 translate ru UnderworldPath3_8208ad15:
     # al "But sometimes I just like to fuck you, for you, ya know?"
-    al ""
+    al "But sometimes I just like to fuck you, for you, ya know?"
 
 # UnderworldPath3_e596a851 (line 61006)
 translate ru UnderworldPath3_e596a851:
@@ -311,7 +311,7 @@ translate ru UnderworldPath3_e596a851:
 # UnderworldPath3_f2f7455b (line 61007)
 translate ru UnderworldPath3_f2f7455b:
     # s "Please stop talking. I can't keep a conversation right now."
-    s ""
+    s "Please stop talking. I can't keep a conversation right now."
 
 # UnderworldPath3_41820831 (line 61008)
 translate ru UnderworldPath3_41820831:
@@ -386,22 +386,22 @@ translate ru UnderworldPath3_008dc885:
 # UnderworldPath3_77fbf59a (line 61022)
 translate ru UnderworldPath3_77fbf59a:
     # al "You know, Sarah...I've had days like those too."
-    al ""
+    al "You know, Sarah...I've had days like those too."
 
 # UnderworldPath3_0dc1d07b (line 61023)
 translate ru UnderworldPath3_0dc1d07b:
     # al "This city, hell maybe this world, it's all kinda ways fucked up for people like you and me."
-    al ""
+    al "This city, hell maybe this world, it's all kinda ways fucked up for people like you and me."
 
 # UnderworldPath3_25a7834a (line 61024)
 translate ru UnderworldPath3_25a7834a:
     # al "I got scars on top of scars, so I forget that this is all new to you sometimes."
-    al ""
+    al "I got scars on top of scars, so I forget that this is all new to you sometimes."
 
 # UnderworldPath3_194ff214 (line 61025)
 translate ru UnderworldPath3_194ff214:
     # al "I won't call you girly or slut or whatever..."
-    al ""
+    al "I won't call you girly or slut or whatever..."
 
 # UnderworldPath3_6324f24d (line 61026)
 translate ru UnderworldPath3_6324f24d:
@@ -411,7 +411,7 @@ translate ru UnderworldPath3_6324f24d:
 # UnderworldPath3_5e2f88c6 (line 61027)
 translate ru UnderworldPath3_5e2f88c6:
     # s "Sucking you off is about the only fifteen minutes when I don't have to think about how miserable I feel, so you can call me whatever that makes me."
-    s ""
+    s "Sucking you off is about the only fifteen minutes when I don't have to think about how miserable I feel, so you can call me whatever that makes me."
 
 # UnderworldPath3_f6d8d5ba (line 61028)
 translate ru UnderworldPath3_f6d8d5ba:
@@ -421,7 +421,7 @@ translate ru UnderworldPath3_f6d8d5ba:
 # UnderworldPath3_6389a551 (line 61029)
 translate ru UnderworldPath3_6389a551:
     # al "Fifteen minutes? It's gotta be more than that."
-    al ""
+    al "Fifteen minutes? It's gotta be more than that."
 
 # UnderworldPath3_c4add5ef (line 61030)
 translate ru UnderworldPath3_c4add5ef:
@@ -451,7 +451,7 @@ translate ru UnderworldPath3_1bf0d526:
 # UnderworldPath3_18d81a18 (line 61035)
 translate ru UnderworldPath3_18d81a18:
     # al "Let's get going, gotta add to our pile of money."
-    al ""
+    al "Let's get going, gotta add to our pile of money."
 
 # UnderworldPath3_26bf4229 (line 61036)
 translate ru UnderworldPath3_26bf4229:
@@ -466,7 +466,7 @@ translate ru UnderworldPath3_86cd7b12:
 # UnderworldPath3_dffae700 (line 61038)
 translate ru UnderworldPath3_dffae700:
     # al "Slut."
-    al ""
+    al "Slut."
 
 # UnderworldPath3_a41221de (line 61039)
 translate ru UnderworldPath3_a41221de:
@@ -516,7 +516,7 @@ translate ru UnderworldPath3_d4df8730:
 # UnderworldPath3_0d2a3a24 (line 61054)
 translate ru UnderworldPath3_0d2a3a24:
     # al "Fuck, that's a lot of city guards."
-    al ""
+    al "Fuck, that's a lot of city guards."
 
 # UnderworldPath3_94ba30e9 (line 61055)
 translate ru UnderworldPath3_94ba30e9:
@@ -531,22 +531,22 @@ translate ru UnderworldPath3_a60787c1:
 # UnderworldPath3_6f09b71c (line 61057)
 translate ru UnderworldPath3_6f09b71c:
     # s "We play it safe, don't stay too long, hit a few stalls hard and fast, get out before anyone knows anything."
-    s ""
+    s "We play it safe, don't stay too long, hit a few stalls hard and fast, get out before anyone knows anything."
 
 # UnderworldPath3_ef765926 (line 61058)
 translate ru UnderworldPath3_ef765926:
     # al "Easy for you to say."
-    al ""
+    al "Easy for you to say."
 
 # UnderworldPath3_351a25ac (line 61059)
 translate ru UnderworldPath3_351a25ac:
     # al "You don't got a face that screams criminal. Things go bad, I'm the first fucker they pull out of the crowd."
-    al ""
+    al "You don't got a face that screams criminal. Things go bad, I'm the first fucker they pull out of the crowd."
 
 # UnderworldPath3_f75cc6f3 (line 61060)
 translate ru UnderworldPath3_f75cc6f3:
     # s "So what? We go back and sit in the alley all day while I play with your dick?"
-    s ""
+    s "So what? We go back and sit in the alley all day while I play with your dick?"
 
 # UnderworldPath3_1c3032fe (line 61061)
 translate ru UnderworldPath3_1c3032fe:
@@ -556,17 +556,17 @@ translate ru UnderworldPath3_1c3032fe:
 # UnderworldPath3_a862c35e (line 61062)
 translate ru UnderworldPath3_a862c35e:
     # al "I've heard worse plans."
-    al ""
+    al "I've heard worse plans."
 
 # UnderworldPath3_fddad5a1 (line 61063)
 translate ru UnderworldPath3_fddad5a1:
     # s "Get serious. We're making good money. We knew the guards would show up, just gotta learn to move around them."
-    s ""
+    s "Get serious. We're making good money. We knew the guards would show up, just gotta learn to move around them."
 
 # UnderworldPath3_a022acb4 (line 61064)
 translate ru UnderworldPath3_a022acb4:
     # s "Same as we always do, I'll go in, you follow up when the crowd is distracted."
-    s ""
+    s "Same as we always do, I'll go in, you follow up when the crowd is distracted."
 
 # UnderworldPath3_aebac37c (line 61065)
 translate ru UnderworldPath3_aebac37c:
@@ -706,7 +706,7 @@ translate ru UnderworldPath3_04aba27d:
 # UnderworldPath3_a9edb530 (line 61098)
 translate ru UnderworldPath3_a9edb530:
     # s "Please...this is a mistake!"
-    s ""
+    s "Please...this is a mistake!"
 
 # UnderworldPath3_fdcb7150 (line 61099)
 translate ru UnderworldPath3_fdcb7150:
@@ -736,7 +736,7 @@ translate ru UnderworldPath3_1f7a3406:
 # UnderworldPath3_4fc6d144 (line 61106)
 translate ru UnderworldPath3_4fc6d144:
     # al "Run!"
-    al ""
+    al "Run!"
 
 # UnderworldPath3_cb512779 (line 61112)
 translate ru UnderworldPath3_cb512779:
@@ -801,22 +801,22 @@ translate ru UnderworldPath3_9c82d439:
 # UnderworldPath3_220c6c36 (line 61124)
 translate ru UnderworldPath3_220c6c36:
     # al "Fuck, that was way too close."
-    al ""
+    al "Fuck, that was way too close."
 
 # UnderworldPath3_1398735b (line 61125)
 translate ru UnderworldPath3_1398735b:
     # s "I'm sorry, I messed up. The merchant, it was the one from before, he made me."
-    s ""
+    s "I'm sorry, I messed up. The merchant, it was the one from before, he made me."
 
 # UnderworldPath3_fc979fd2 (line 61126)
 translate ru UnderworldPath3_fc979fd2:
     # s "And then in the confusion, that guard grabbed me...I thought it was all over."
-    s ""
+    s "And then in the confusion, that guard grabbed me...I thought it was all over."
 
 # UnderworldPath3_c1f823fd (line 61127)
 translate ru UnderworldPath3_c1f823fd:
     # al "It would have been if I hadn't gotten that loose brick."
-    al ""
+    al "It would have been if I hadn't gotten that loose brick."
 
 # UnderworldPath3_70f8ef44 (line 61128)
 translate ru UnderworldPath3_70f8ef44:
@@ -826,7 +826,7 @@ translate ru UnderworldPath3_70f8ef44:
 # UnderworldPath3_1fcd159f (line 61129)
 translate ru UnderworldPath3_1fcd159f:
     # s "Thank you. Really, you saved me."
-    s ""
+    s "Thank you. Really, you saved me."
 
 # UnderworldPath3_ada0f8f8 (line 61130)
 translate ru UnderworldPath3_ada0f8f8:
@@ -836,7 +836,7 @@ translate ru UnderworldPath3_ada0f8f8:
 # UnderworldPath3_55f3103b (line 61131)
 translate ru UnderworldPath3_55f3103b:
     # s "Did we even make anything?"
-    s ""
+    s "Did we even make anything?"
 
 # UnderworldPath3_97fbfbf2 (line 61132)
 translate ru UnderworldPath3_97fbfbf2:
@@ -866,12 +866,12 @@ translate ru UnderworldPath3_31997a03:
 # UnderworldPath3_92e36d6a (line 61137)
 translate ru UnderworldPath3_92e36d6a:
     # s "Wow."
-    s ""
+    s "Wow."
 
 # UnderworldPath3_4afec904 (line 61138)
 translate ru UnderworldPath3_4afec904:
     # al "Yeah, we made out pretty well. Woulda been even better if...ya know, but still."
-    al ""
+    al "Yeah, we made out pretty well. Woulda been even better if...ya know, but still."
 
 # UnderworldPath3_6cdac13f (line 61139)
 translate ru UnderworldPath3_6cdac13f:
@@ -886,17 +886,17 @@ translate ru UnderworldPath3_1446f661:
 # UnderworldPath3_1c4fda51 (line 61141)
 translate ru UnderworldPath3_1c4fda51:
     # al "I don't know though, it's a lot of money, but I don't think we're gonna be able to do what we did for a while."
-    al ""
+    al "I don't know though, it's a lot of money, but I don't think we're gonna be able to do what we did for a while."
 
 # UnderworldPath3_51993f46 (line 61142)
 translate ru UnderworldPath3_51993f46:
     # al "If you thought the guards were bad today, you ain't seen nothing yet."
-    al ""
+    al "If you thought the guards were bad today, you ain't seen nothing yet."
 
 # UnderworldPath3_5af5134f (line 61143)
 translate ru UnderworldPath3_5af5134f:
     # al "They're gonna park an army on every market in Lethram for a month."
-    al ""
+    al "They're gonna park an army on every market in Lethram for a month."
 
 # UnderworldPath3_258c1ef3 (line 61149)
 translate ru UnderworldPath3_258c1ef3:
@@ -906,12 +906,12 @@ translate ru UnderworldPath3_258c1ef3:
 # UnderworldPath3_66b5b592 (line 61150)
 translate ru UnderworldPath3_66b5b592:
     # s "So we can't make any money for a month..."
-    s ""
+    s "So we can't make any money for a month..."
 
 # UnderworldPath3_961e29b5 (line 61151)
 translate ru UnderworldPath3_961e29b5:
     # s "Or at least, not how we used to do it."
-    s ""
+    s "Or at least, not how we used to do it."
 
 # UnderworldPath3_be058b1b (line 61152)
 translate ru UnderworldPath3_be058b1b:
@@ -921,7 +921,7 @@ translate ru UnderworldPath3_be058b1b:
 # UnderworldPath3_32f45611 (line 61153)
 translate ru UnderworldPath3_32f45611:
     # s "Is it enough to live off, for a while, the money?"
-    s ""
+    s "Is it enough to live off, for a while, the money?"
 
 # UnderworldPath3_26801486 (line 61154)
 translate ru UnderworldPath3_26801486:
@@ -931,17 +931,17 @@ translate ru UnderworldPath3_26801486:
 # UnderworldPath3_d6b35a79 (line 61155)
 translate ru UnderworldPath3_d6b35a79:
     # al "Easy. We can stretch this out for...a year if we were smart."
-    al ""
+    al "Easy. We can stretch this out for...a year if we were smart."
 
 # UnderworldPath3_f9b88778 (line 61156)
 translate ru UnderworldPath3_f9b88778:
     # s "A year?"
-    s ""
+    s "A year?"
 
 # UnderworldPath3_89d9aac0 (line 61157)
 translate ru UnderworldPath3_89d9aac0:
     # al "Yeah. Live is pretty cheap livin out here."
-    al ""
+    al "Yeah. Live is pretty cheap livin out here."
 
 # UnderworldPath3_1e539ceb (line 61158)
 translate ru UnderworldPath3_1e539ceb:
@@ -951,12 +951,12 @@ translate ru UnderworldPath3_1e539ceb:
 # UnderworldPath3_c746f551 (line 61159)
 translate ru UnderworldPath3_c746f551:
     # s "I was thinking we could use the money to maybe move up a bit."
-    s ""
+    s "I was thinking we could use the money to maybe move up a bit."
 
 # UnderworldPath3_e5a0b589 (line 61160)
 translate ru UnderworldPath3_e5a0b589:
     # al "Ooh, too good to be fucked in an alley are we?"
-    al ""
+    al "Ooh, too good to be fucked in an alley are we?"
 
 # UnderworldPath3_3453f97c (line 61161)
 translate ru UnderworldPath3_3453f97c:
@@ -966,17 +966,17 @@ translate ru UnderworldPath3_3453f97c:
 # UnderworldPath3_05e30348 (line 61162)
 translate ru UnderworldPath3_05e30348:
     # s "My back won't survive a year sleeping on these streets. And a little privacy might be nice."
-    s ""
+    s "My back won't survive a year sleeping on these streets. And a little privacy might be nice."
 
 # UnderworldPath3_e0ff5329 (line 61163)
 translate ru UnderworldPath3_e0ff5329:
     # al "An apartment...I hadn't even thought about it."
-    al ""
+    al "An apartment...I hadn't even thought about it."
 
 # UnderworldPath3_ea6bc303 (line 61164)
 translate ru UnderworldPath3_ea6bc303:
     # s "We could actually get off the street, lay low."
-    s ""
+    s "We could actually get off the street, lay low."
 
 # UnderworldPath3_834f8861 (line 61165)
 translate ru UnderworldPath3_834f8861:
@@ -991,7 +991,7 @@ translate ru UnderworldPath3_15c28b1e:
 # UnderworldPath3_d55aedb7 (line 61167)
 translate ru UnderworldPath3_d55aedb7:
     # s "Don't you wanna play house with me?"
-    s ""
+    s "Don't you wanna play house with me?"
 
 # UnderworldPath3_8f8cf5dd (line 61168)
 translate ru UnderworldPath3_8f8cf5dd:
@@ -1001,7 +1001,7 @@ translate ru UnderworldPath3_8f8cf5dd:
 # UnderworldPath3_3eda055b (line 61169)
 translate ru UnderworldPath3_3eda055b:
     # al "I don't think you'd make much of a wife."
-    al ""
+    al "I don't think you'd make much of a wife."
 
 # UnderworldPath3_e8b19ab0 (line 61170)
 translate ru UnderworldPath3_e8b19ab0:
@@ -1011,12 +1011,12 @@ translate ru UnderworldPath3_e8b19ab0:
 # UnderworldPath3_d10ef6a8 (line 61171)
 translate ru UnderworldPath3_d10ef6a8:
     # s "Why not?"
-    s ""
+    s "Why not?"
 
 # UnderworldPath3_8a268fb1 (line 61172)
 translate ru UnderworldPath3_8a268fb1:
     # al "A wife is homely, fixes the house, keeps the kids calm, ya know. I don't see you doin any of that any time soon."
-    al ""
+    al "A wife is homely, fixes the house, keeps the kids calm, ya know. I don't see you doin any of that any time soon."
 
 # UnderworldPath3_cad70f19 (line 61173)
 translate ru UnderworldPath3_cad70f19:
@@ -1026,12 +1026,12 @@ translate ru UnderworldPath3_cad70f19:
 # UnderworldPath3_78370f5c (line 61174)
 translate ru UnderworldPath3_78370f5c:
     # s "Maybe not, but a wife won't let you stick it up their back end."
-    s ""
+    s "Maybe not, but a wife won't let you stick it up their back end."
 
 # UnderworldPath3_3a479b1d (line 61175)
 translate ru UnderworldPath3_3a479b1d:
     # al "Neither will you."
-    al ""
+    al "Neither will you."
 
 # UnderworldPath3_66ca582c (line 61176)
 translate ru UnderworldPath3_66ca582c:
@@ -1041,7 +1041,7 @@ translate ru UnderworldPath3_66ca582c:
 # UnderworldPath3_1137b5fc (line 61177)
 translate ru UnderworldPath3_1137b5fc:
     # al "Ooh...OOH!"
-    al ""
+    al "Ooh...OOH!"
 
 # UnderworldPath3_4dcc0015 (line 61183)
 translate ru UnderworldPath3_4dcc0015:
@@ -1066,12 +1066,12 @@ translate ru UnderworldPath3_a2c0da68:
 # UnderworldPath3_d25f55f4 (line 61187)
 translate ru UnderworldPath3_d25f55f4:
     # s "Don't go thinking you can do me like this every night..."
-    s ""
+    s "Don't go thinking you can do me like this every night..."
 
 # UnderworldPath3_783df826 (line 61188)
 translate ru UnderworldPath3_783df826:
     # s "But you did save my life...so..."
-    s ""
+    s "But you did save my life...so..."
 
 # UnderworldPath3_27b44851 (line 61189)
 translate ru UnderworldPath3_27b44851:
@@ -1086,7 +1086,7 @@ translate ru UnderworldPath3_a4343bde:
 # UnderworldPath3_812d0b80 (line 61191)
 translate ru UnderworldPath3_812d0b80:
     # s "Fuck!"
-    s ""
+    s "Fuck!"
 
 # UnderworldPath3_c9abb916 (line 61192)
 translate ru UnderworldPath3_c9abb916:
@@ -1116,17 +1116,17 @@ translate ru UnderworldPath3_c8bddc46:
 # UnderworldPath3_303d6d1d (line 61197)
 translate ru UnderworldPath3_303d6d1d:
     # s "Please, it's not going to fit otherwise."
-    s ""
+    s "Please, it's not going to fit otherwise."
 
 # UnderworldPath3_38dd3f4e (line 61198)
 translate ru UnderworldPath3_38dd3f4e:
     # al "Too big huh?"
-    al ""
+    al "Too big huh?"
 
 # UnderworldPath3_6a7bbc57 (line 61199)
 translate ru UnderworldPath3_6a7bbc57:
     # s "Don't be so pleased with yourself. Just put some on."
-    s ""
+    s "Don't be so pleased with yourself. Just put some on."
 
 # UnderworldPath3_9b7b4823 (line 61200)
 translate ru UnderworldPath3_9b7b4823:
@@ -1151,7 +1151,7 @@ translate ru UnderworldPath3_ac4362ba:
 # UnderworldPath3_c0be2360 (line 61204)
 translate ru UnderworldPath3_c0be2360:
     # al "Fuck Sarah, your ass is amazing."
-    al ""
+    al "Fuck Sarah, your ass is amazing."
 
 # UnderworldPath3_e08630d9 (line 61205)
 translate ru UnderworldPath3_e08630d9:
@@ -1241,7 +1241,7 @@ translate ru UnderworldPath3_d5630027:
 # UnderworldPath3_2d2f6a7d (line 61222)
 translate ru UnderworldPath3_2d2f6a7d:
     # al "I thought you were a proper girl."
-    al ""
+    al "I thought you were a proper girl."
 
 # UnderworldPath3_558b3259 (line 61223)
 translate ru UnderworldPath3_558b3259:
@@ -1251,7 +1251,7 @@ translate ru UnderworldPath3_558b3259:
 # UnderworldPath3_57d8498a (line 61224)
 translate ru UnderworldPath3_57d8498a:
     # al "But really, even some street girls don't give their ass up so easy."
-    al ""
+    al "But really, even some street girls don't give their ass up so easy."
 
 # UnderworldPath3_146e4836 (line 61225)
 translate ru UnderworldPath3_146e4836:
@@ -1261,7 +1261,7 @@ translate ru UnderworldPath3_146e4836:
 # UnderworldPath3_77eb8ca1 (line 61226)
 translate ru UnderworldPath3_77eb8ca1:
     # al "You're more like a bitch in heat."
-    al ""
+    al "You're more like a bitch in heat."
 
 # UnderworldPath3_8e937749 (line 61227)
 translate ru UnderworldPath3_8e937749:
@@ -1271,12 +1271,12 @@ translate ru UnderworldPath3_8e937749:
 # UnderworldPath3_6ec92f64 (line 61228)
 translate ru UnderworldPath3_6ec92f64:
     # al "You'll do anything to get off, won't you?"
-    al ""
+    al "You'll do anything to get off, won't you?"
 
 # UnderworldPath3_58be1d26 (line 61229)
 translate ru UnderworldPath3_58be1d26:
     # s "Y...Ye....Yes!"
-    s ""
+    s "Y...Ye....Yes!"
 
 # UnderworldPath3_91cd334c (line 61230)
 translate ru UnderworldPath3_91cd334c:
@@ -1416,7 +1416,7 @@ translate ru UnderworldPath3_62977eba:
 # UnderworldPath3_19c5f63c (line 61257)
 translate ru UnderworldPath3_19c5f63c:
     # al "You're right though..."
-    al ""
+    al "You're right though..."
 
 # UnderworldPath3_b10ea058 (line 61258)
 translate ru UnderworldPath3_b10ea058:
@@ -1426,27 +1426,27 @@ translate ru UnderworldPath3_b10ea058:
 # UnderworldPath3_10b403eb (line 61259)
 translate ru UnderworldPath3_10b403eb:
     # s "Right about what?"
-    s ""
+    s "Right about what?"
 
 # UnderworldPath3_2a686b36 (line 61260)
 translate ru UnderworldPath3_2a686b36:
     # al "We can't stay on the street. Not after what happened today. They're going to be turning over every street corner and flooding every alley to find us."
-    al ""
+    al "We can't stay on the street. Not after what happened today. They're going to be turning over every street corner and flooding every alley to find us."
 
 # UnderworldPath3_2094aa42 (line 61261)
 translate ru UnderworldPath3_2094aa42:
     # al "But with the money we have, we can lay low for a while."
-    al ""
+    al "But with the money we have, we can lay low for a while."
 
 # UnderworldPath3_b6cdba00 (line 61262)
 translate ru UnderworldPath3_b6cdba00:
     # al "At least long enough so they forget us or get worked up over something else."
-    al ""
+    al "At least long enough so they forget us or get worked up over something else."
 
 # UnderworldPath3_49c2dc83 (line 61263)
 translate ru UnderworldPath3_49c2dc83:
     # s "You think they'll move on?"
-    s ""
+    s "You think they'll move on?"
 
 # UnderworldPath3_469ae690 (line 61264)
 translate ru UnderworldPath3_469ae690:
@@ -1456,17 +1456,17 @@ translate ru UnderworldPath3_469ae690:
 # UnderworldPath3_50def4a5 (line 61265)
 translate ru UnderworldPath3_50def4a5:
     # al "They always do, sooner or later."
-    al ""
+    al "They always do, sooner or later."
 
 # UnderworldPath3_dbf406b0 (line 61266)
 translate ru UnderworldPath3_dbf406b0:
     # al "This city moves fast. Too fast to hold onto grudges."
-    al ""
+    al "This city moves fast. Too fast to hold onto grudges."
 
 # UnderworldPath3_fb05f851 (line 61267)
 translate ru UnderworldPath3_fb05f851:
     # al "Except the guard I hit, maybe, but if I threw it hard enough he might not even remember my face or yours."
-    al ""
+    al "Except the guard I hit, maybe, but if I threw it hard enough he might not even remember my face or yours."
 
 # UnderworldPath3_60f3618b (line 61268)
 translate ru UnderworldPath3_60f3618b:
@@ -1476,17 +1476,17 @@ translate ru UnderworldPath3_60f3618b:
 # UnderworldPath3_f416cb90 (line 61269)
 translate ru UnderworldPath3_f416cb90:
     # s "And it would be nice to sleep under a roof."
-    s ""
+    s "And it would be nice to sleep under a roof."
 
 # UnderworldPath3_4d8a5b8a (line 61270)
 translate ru UnderworldPath3_4d8a5b8a:
     # al "I guess..."
-    al ""
+    al "I guess..."
 
 # UnderworldPath3_27643eb8 (line 61271)
 translate ru UnderworldPath3_27643eb8:
     # al "Honestly, I've been out here so long, it hardly make a difference anymore. But I guess it could be nice for a change."
-    al ""
+    al "Honestly, I've been out here so long, it hardly make a difference anymore. But I guess it could be nice for a change."
 
 # UnderworldPath3_628afc6c (line 61272)
 translate ru UnderworldPath3_628afc6c:
@@ -1496,12 +1496,12 @@ translate ru UnderworldPath3_628afc6c:
 # UnderworldPath3_3f499686 (line 61273)
 translate ru UnderworldPath3_3f499686:
     # s "Thank you."
-    s ""
+    s "Thank you."
 
 # UnderworldPath3_1bc2ca8c (line 61274)
 translate ru UnderworldPath3_1bc2ca8c:
     # al "For fucking you up the ass? Any time."
-    al ""
+    al "For fucking you up the ass? Any time."
 
 # UnderworldPath3_b8e5bc2c (line 61275)
 translate ru UnderworldPath3_b8e5bc2c:
@@ -1511,17 +1511,17 @@ translate ru UnderworldPath3_b8e5bc2c:
 # UnderworldPath3_64872f75 (line 61276)
 translate ru UnderworldPath3_64872f75:
     # s "Don't be disgusting.."
-    s ""
+    s "Don't be disgusting.."
 
 # UnderworldPath3_fe5a8339 (line 61277)
 translate ru UnderworldPath3_fe5a8339:
     # s "I meant for everything since we met. Helping me learn about the streets, saving my life, just..."
-    s ""
+    s "I meant for everything since we met. Helping me learn about the streets, saving my life, just..."
 
 # UnderworldPath3_b8777407 (line 61278)
 translate ru UnderworldPath3_b8777407:
     # s "I was alone when we met, and I don't feel so alone anymore."
-    s ""
+    s "I was alone when we met, and I don't feel so alone anymore."
 
 # UnderworldPath3_a4c1e98d (line 61279)
 translate ru UnderworldPath3_a4c1e98d:
@@ -1546,12 +1546,12 @@ translate ru UnderworldPath3_d88ca186:
 # UnderworldPath3_6d93c9d8 (line 61283)
 translate ru UnderworldPath3_6d93c9d8:
     # al "You got me. I got you. I think we're like, lucky charms for one another."
-    al ""
+    al "You got me. I got you. I think we're like, lucky charms for one another."
 
 # UnderworldPath3_82d3601f (line 61284)
 translate ru UnderworldPath3_82d3601f:
     # al "If we stick together, each our luck is gonna turn for the better, I just know it."
-    al ""
+    al "If we stick together, each our luck is gonna turn for the better, I just know it."
 
 # UnderworldPath3_1de7465f (line 61285)
 translate ru UnderworldPath3_1de7465f:
@@ -1566,12 +1566,12 @@ translate ru UnderworldPath3_a3999d73:
 # UnderworldPath3_27dcce09 (line 61287)
 translate ru UnderworldPath3_27dcce09:
     # al "I'll go out tomorrow, see some people about a spot we might be able to get."
-    al ""
+    al "I'll go out tomorrow, see some people about a spot we might be able to get."
 
 # UnderworldPath3_e5116198 (line 61288)
 translate ru UnderworldPath3_e5116198:
     # al "Can't promise it's up to your standards, but it will be enough for us to lay low."
-    al ""
+    al "Can't promise it's up to your standards, but it will be enough for us to lay low."
 
 # UnderworldPath3_1f299202 (line 61289)
 translate ru UnderworldPath3_1f299202:

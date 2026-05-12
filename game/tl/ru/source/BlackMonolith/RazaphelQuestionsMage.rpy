@@ -1,12 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: RazaphelQuestionsMage
-# Total blocks: 162
-
-# RazaphelQuestionsMage_83045efc (line 76920)
-translate ru RazaphelQuestionsMage_83045efc:
-    # "I have asked all that I need to know"
-    "I have asked all that I need to know" ""
+# Total blocks: 153
 
 # RazaphelQuestionsMage_784c7566 (line 76925)
 translate ru RazaphelQuestionsMage_784c7566:
@@ -16,7 +11,7 @@ translate ru RazaphelQuestionsMage_784c7566:
 # RazaphelQuestionsMage_1afa22b5 (line 76926)
 translate ru RazaphelQuestionsMage_1afa22b5:
     # r "You have asked me all you wish to know, but one question still remains to you."
-    r ""
+    r "You have asked me all you wish to know, but one question still remains to you."
 
 # RazaphelQuestionsMage_5029cd7a (line 76927)
 translate ru RazaphelQuestionsMage_5029cd7a:
@@ -26,17 +21,17 @@ translate ru RazaphelQuestionsMage_5029cd7a:
 # RazaphelQuestionsMage_1181da78 (line 76928)
 translate ru RazaphelQuestionsMage_1181da78:
     # s "I have not yet asked you what this has to do with me. Why I should concern myself with ancient history."
-    s ""
+    s "I have not yet asked you what this has to do with me. Why I should concern myself with ancient history."
 
 # RazaphelQuestionsMage_78911dab (line 76929)
 translate ru RazaphelQuestionsMage_78911dab:
     # s "Or why you have brought me here."
-    s ""
+    s "Or why you have brought me here."
 
 # RazaphelQuestionsMage_ac614c02 (line 76930)
 translate ru RazaphelQuestionsMage_ac614c02:
     # r "I shall keep my word to you and speak only truth."
-    r ""
+    r "I shall keep my word to you and speak only truth."
 
 # RazaphelQuestionsMage_6f3167c5 (line 76931)
 translate ru RazaphelQuestionsMage_6f3167c5:
@@ -46,27 +41,27 @@ translate ru RazaphelQuestionsMage_6f3167c5:
 # RazaphelQuestionsMage_dc5e2667 (line 76932)
 translate ru RazaphelQuestionsMage_dc5e2667:
     # r "When the Gods of your world fled, wounded and fearful, there was no place where they might seek refuge."
-    r ""
+    r "When the Gods of your world fled, wounded and fearful, there was no place where they might seek refuge."
 
 # RazaphelQuestionsMage_4c6fa21c (line 76933)
 translate ru RazaphelQuestionsMage_4c6fa21c:
     # r "No place where the Three Sisters would not know to find them."
-    r ""
+    r "No place where the Three Sisters would not know to find them."
 
 # RazaphelQuestionsMage_57712c35 (line 76934)
 translate ru RazaphelQuestionsMage_57712c35:
     # r "So in turn, the Gods of your world blinded themselves even to their own nature."
-    r ""
+    r "So in turn, the Gods of your world blinded themselves even to their own nature."
 
 # RazaphelQuestionsMage_1a0b5099 (line 76935)
 translate ru RazaphelQuestionsMage_1a0b5099:
     # r "They hid away in a void beyond where anyone could reach them. A place from which they themselves did not even know to return."
-    r ""
+    r "They hid away in a void beyond where anyone could reach them. A place from which they themselves did not even know to return."
 
 # RazaphelQuestionsMage_1f1d68b8 (line 76936)
 translate ru RazaphelQuestionsMage_1f1d68b8:
     # r "And even now, they wander there, blinded to the world."
-    r ""
+    r "And even now, they wander there, blinded to the world."
 
 # RazaphelQuestionsMage_649f5197 (line 76937)
 translate ru RazaphelQuestionsMage_649f5197:
@@ -76,47 +71,47 @@ translate ru RazaphelQuestionsMage_649f5197:
 # RazaphelQuestionsMage_5375b841 (line 76938)
 translate ru RazaphelQuestionsMage_5375b841:
     # r "Before they ran, they created their ultimate weapon."
-    r ""
+    r "Before they ran, they created their ultimate weapon."
 
 # RazaphelQuestionsMage_9256295c (line 76939)
 translate ru RazaphelQuestionsMage_9256295c:
     # r "The Golden Path."
-    r ""
+    r "The Golden Path."
 
 # RazaphelQuestionsMage_ad4b0a56 (line 76940)
 translate ru RazaphelQuestionsMage_ad4b0a56:
     # r "Hidden away, they could not affect the world. Instead, they drafted the very story of their own return."
-    r ""
+    r "Hidden away, they could not affect the world. Instead, they drafted the very story of their own return."
 
 # RazaphelQuestionsMage_253cab47 (line 76941)
 translate ru RazaphelQuestionsMage_253cab47:
     # r "Gathered in their sacred halls, your Pantheon gathered up all their might and foresaw all the possible movements of the world."
-    r ""
+    r "Gathered in their sacred halls, your Pantheon gathered up all their might and foresaw all the possible movements of the world."
 
 # RazaphelQuestionsMage_06c47b31 (line 76942)
 translate ru RazaphelQuestionsMage_06c47b31:
     # r "From every mountain, down to every blade of grass, and ensnaring every living soul, they authored the Golden Path."
-    r ""
+    r "From every mountain, down to every blade of grass, and ensnaring every living soul, they authored the Golden Path."
 
 # RazaphelQuestionsMage_dff4d4b6 (line 76943)
 translate ru RazaphelQuestionsMage_dff4d4b6:
     # r "Ever since their departure, all of this world's history has been little more than a play."
-    r ""
+    r "Ever since their departure, all of this world's history has been little more than a play."
 
 # RazaphelQuestionsMage_80092498 (line 76944)
 translate ru RazaphelQuestionsMage_80092498:
     # r "Each thing playing its part, each soul living out its life in accordance to the design."
-    r ""
+    r "Each thing playing its part, each soul living out its life in accordance to the design."
 
 # RazaphelQuestionsMage_9b31a43f (line 76945)
 translate ru RazaphelQuestionsMage_9b31a43f:
     # r "Kingdoms rising and falling, all by careful design."
-    r ""
+    r "Kingdoms rising and falling, all by careful design."
 
 # RazaphelQuestionsMage_b5649b45 (line 76946)
 translate ru RazaphelQuestionsMage_b5649b45:
     # r "A design in which every path bends towards the same desination."
-    r ""
+    r "A design in which every path bends towards the same desination."
 
 # RazaphelQuestionsMage_62dd59ca (line 76947)
 translate ru RazaphelQuestionsMage_62dd59ca:
@@ -126,7 +121,7 @@ translate ru RazaphelQuestionsMage_62dd59ca:
 # RazaphelQuestionsMage_d056d12c (line 76948)
 translate ru RazaphelQuestionsMage_d056d12c:
     # r "Emanation."
-    r ""
+    r "Emanation."
 
 # RazaphelQuestionsMage_031207a7 (line 76949)
 translate ru RazaphelQuestionsMage_031207a7:
@@ -136,17 +131,17 @@ translate ru RazaphelQuestionsMage_031207a7:
 # RazaphelQuestionsMage_b713a50f (line 76950)
 translate ru RazaphelQuestionsMage_b713a50f:
     # s "Emanation?"
-    s ""
+    s "Emanation?"
 
 # RazaphelQuestionsMage_1634664c (line 76951)
 translate ru RazaphelQuestionsMage_1634664c:
     # r "Yes, their great return."
-    r ""
+    r "Yes, their great return."
 
 # RazaphelQuestionsMage_835a6606 (line 76952)
 translate ru RazaphelQuestionsMage_835a6606:
     # r "When the beacon that will guide them back to this world is lit. When they will sweep back and resume their dominion over the world."
-    r ""
+    r "When the beacon that will guide them back to this world is lit. When they will sweep back and resume their dominion over the world."
 
 # RazaphelQuestionsMage_cfa66998 (line 76953)
 translate ru RazaphelQuestionsMage_cfa66998:
@@ -156,12 +151,12 @@ translate ru RazaphelQuestionsMage_cfa66998:
 # RazaphelQuestionsMage_72548ce9 (line 76954)
 translate ru RazaphelQuestionsMage_72548ce9:
     # s "So all of history...every creature, every human...has been like a puppet? That can't be so."
-    s ""
+    s "So all of history...every creature, every human...has been like a puppet? That can't be so."
 
 # RazaphelQuestionsMage_9c9b58c7 (line 76955)
 translate ru RazaphelQuestionsMage_9c9b58c7:
     # s "I am in control of my own life, I make my own decisions. I know that much."
-    s ""
+    s "I am in control of my own life, I make my own decisions. I know that much."
 
 # RazaphelQuestionsMage_bdcd9d4e (line 76956)
 translate ru RazaphelQuestionsMage_bdcd9d4e:
@@ -171,62 +166,62 @@ translate ru RazaphelQuestionsMage_bdcd9d4e:
 # RazaphelQuestionsMage_624834e9 (line 76957)
 translate ru RazaphelQuestionsMage_624834e9:
     # r "This is the subtlety of their craft, to make their thoughts come to you as your own."
-    r ""
+    r "This is the subtlety of their craft, to make their thoughts come to you as your own."
 
 # RazaphelQuestionsMage_39372dda (line 76958)
 translate ru RazaphelQuestionsMage_39372dda:
     # r "But you are true that it is not so crude that only one path unfolds itself."
-    r ""
+    r "But you are true that it is not so crude that only one path unfolds itself."
 
 # RazaphelQuestionsMage_557b01fe (line 76959)
 translate ru RazaphelQuestionsMage_557b01fe:
     # r "Even the Gods of your world cannot control so accurately every atom. Not while they are hidden, at least."
-    r ""
+    r "Even the Gods of your world cannot control so accurately every atom. Not while they are hidden, at least."
 
 # RazaphelQuestionsMage_8613cc02 (line 76960)
 translate ru RazaphelQuestionsMage_8613cc02:
     # r "Their plan is like a bridge, on which they stand on each side."
-    r ""
+    r "Their plan is like a bridge, on which they stand on each side."
 
 # RazaphelQuestionsMage_02c798af (line 76961)
 translate ru RazaphelQuestionsMage_02c798af:
     # r "You can cross the bridge in any way you wish or feel, but it will change nothing."
-    r ""
+    r "You can cross the bridge in any way you wish or feel, but it will change nothing."
 
 # RazaphelQuestionsMage_4b547b2c (line 76962)
 translate ru RazaphelQuestionsMage_4b547b2c:
     # r "They dominate the beginning and the end."
-    r ""
+    r "They dominate the beginning and the end."
 
 # RazaphelQuestionsMage_3c44986e (line 76963)
 translate ru RazaphelQuestionsMage_3c44986e:
     # s "And people are just mindless creatures, used by them?"
-    s ""
+    s "And people are just mindless creatures, used by them?"
 
 # RazaphelQuestionsMage_246e8143 (line 76964)
 translate ru RazaphelQuestionsMage_246e8143:
     # r "Some, but not all."
-    r ""
+    r "Some, but not all."
 
 # RazaphelQuestionsMage_848c5992 (line 76965)
 translate ru RazaphelQuestionsMage_848c5992:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # RazaphelQuestionsMage_f5bc041c (line 76966)
 translate ru RazaphelQuestionsMage_f5bc041c:
     # r "Not all souls have been crafted equally by them."
-    r ""
+    r "Not all souls have been crafted equally by them."
 
 # RazaphelQuestionsMage_e846cd96 (line 76967)
 translate ru RazaphelQuestionsMage_e846cd96:
     # r "Those most essential to their designs are souls of a greater size, and the greater soul dominates the lesser soul."
-    r ""
+    r "Those most essential to their designs are souls of a greater size, and the greater soul dominates the lesser soul."
 
 # RazaphelQuestionsMage_7ebea2c7 (line 76968)
 translate ru RazaphelQuestionsMage_7ebea2c7:
     # r "Those gifted with such divine purpose, find the world often bending to their own will. Their own purpose."
-    r ""
+    r "Those gifted with such divine purpose, find the world often bending to their own will. Their own purpose."
 
 # RazaphelQuestionsMage_706294a8 (line 76969)
 translate ru RazaphelQuestionsMage_706294a8:
@@ -236,32 +231,32 @@ translate ru RazaphelQuestionsMage_706294a8:
 # RazaphelQuestionsMage_04535dc6 (line 76970)
 translate ru RazaphelQuestionsMage_04535dc6:
     # s "What are you suggesting?"
-    s ""
+    s "What are you suggesting?"
 
 # RazaphelQuestionsMage_8db54420 (line 76971)
 translate ru RazaphelQuestionsMage_8db54420:
     # r "Over centuries...millenia...I have worked to unravel their schemes and their plans."
-    r ""
+    r "Over centuries...millenia...I have worked to unravel their schemes and their plans."
 
 # RazaphelQuestionsMage_66773b47 (line 76972)
 translate ru RazaphelQuestionsMage_66773b47:
     # r "As a creature from the other world, their sight over me was limited."
-    r ""
+    r "As a creature from the other world, their sight over me was limited."
 
 # RazaphelQuestionsMage_48771c85 (line 76973)
 translate ru RazaphelQuestionsMage_48771c85:
     # r "From beneath this world, I could see the cycles of the world unfold, how again and again my race was broken as your Gods returned."
-    r ""
+    r "From beneath this world, I could see the cycles of the world unfold, how again and again my race was broken as your Gods returned."
 
 # RazaphelQuestionsMage_1be7cfe2 (line 76974)
 translate ru RazaphelQuestionsMage_1be7cfe2:
     # r "Again and again, I watched them burn in divine flame, undying yet forever lost."
-    r ""
+    r "Again and again, I watched them burn in divine flame, undying yet forever lost."
 
 # RazaphelQuestionsMage_d42b59a4 (line 76975)
 translate ru RazaphelQuestionsMage_d42b59a4:
     # r "And though each cycle carried with it the same conclusion, I witnessed many different faces who brought about our ruin."
-    r ""
+    r "And though each cycle carried with it the same conclusion, I witnessed many different faces who brought about our ruin."
 
 # RazaphelQuestionsMage_6a940f9d (line 76976)
 translate ru RazaphelQuestionsMage_6a940f9d:
@@ -271,27 +266,27 @@ translate ru RazaphelQuestionsMage_6a940f9d:
 # RazaphelQuestionsMage_e093c90f (line 76977)
 translate ru RazaphelQuestionsMage_e093c90f:
     # r "Seven."
-    r ""
+    r "Seven."
 
 # RazaphelQuestionsMage_deb6402e (line 76978)
 translate ru RazaphelQuestionsMage_deb6402e:
     # s "Seven?"
-    s ""
+    s "Seven?"
 
 # RazaphelQuestionsMage_5ecd4909 (line 76979)
 translate ru RazaphelQuestionsMage_5ecd4909:
     # r "Yes. There are by my estimation only seven people, whose souls were made so uniquely that they would bring about the ultimate victory for the Gods."
-    r ""
+    r "Yes. There are by my estimation only seven people, whose souls were made so uniquely that they would bring about the ultimate victory for the Gods."
 
 # RazaphelQuestionsMage_6c0d8bbb (line 76980)
 translate ru RazaphelQuestionsMage_6c0d8bbb:
     # r "Seven people who lit the beacon and filled up the world with blinding light."
-    r ""
+    r "Seven people who lit the beacon and filled up the world with blinding light."
 
 # RazaphelQuestionsMage_015c2d52 (line 76981)
 translate ru RazaphelQuestionsMage_015c2d52:
     # r "You are one of them, I have seen it in my dreams."
-    r ""
+    r "You are one of them, I have seen it in my dreams."
 
 # RazaphelQuestionsMage_8574e939 (line 76982)
 translate ru RazaphelQuestionsMage_8574e939:
@@ -301,17 +296,17 @@ translate ru RazaphelQuestionsMage_8574e939:
 # RazaphelQuestionsMage_6c2fa274 (line 76983)
 translate ru RazaphelQuestionsMage_6c2fa274:
     # s "You have seen me...in your dreams?"
-    s ""
+    s "You have seen me...in your dreams?"
 
 # RazaphelQuestionsMage_84ad894c (line 76984)
 translate ru RazaphelQuestionsMage_84ad894c:
     # r "Yes. Full of fire, your soul so bright it poured out of you like light from the stars, your hair blazing flame."
-    r ""
+    r "Yes. Full of fire, your soul so bright it poured out of you like light from the stars, your hair blazing flame."
 
 # RazaphelQuestionsMage_0a9b3758 (line 76985)
 translate ru RazaphelQuestionsMage_0a9b3758:
     # r "And my race, broken and defeated, cast into the eternal pit. This time, without escape."
-    r ""
+    r "And my race, broken and defeated, cast into the eternal pit. This time, without escape."
 
 # RazaphelQuestionsMage_7bd5c74f (line 76986)
 translate ru RazaphelQuestionsMage_7bd5c74f:
@@ -321,47 +316,47 @@ translate ru RazaphelQuestionsMage_7bd5c74f:
 # RazaphelQuestionsMage_56e7f40b (line 76987)
 translate ru RazaphelQuestionsMage_56e7f40b:
     # s "So...that is my destiny?"
-    s ""
+    s "So...that is my destiny?"
 
 # RazaphelQuestionsMage_e0b701a3 (line 76988)
 translate ru RazaphelQuestionsMage_e0b701a3:
     # r "It need not be."
-    r ""
+    r "It need not be."
 
 # RazaphelQuestionsMage_16f6cd16 (line 76989)
 translate ru RazaphelQuestionsMage_16f6cd16:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # RazaphelQuestionsMage_bd4a496f (line 76990)
 translate ru RazaphelQuestionsMage_bd4a496f:
     # r "I can break the bond that binds you to their design."
-    r ""
+    r "I can break the bond that binds you to their design."
 
 # RazaphelQuestionsMage_b20f8d5a (line 76991)
 translate ru RazaphelQuestionsMage_b20f8d5a:
     # r "I can shatter the link between yourself and the divine."
-    r ""
+    r "I can shatter the link between yourself and the divine."
 
 # RazaphelQuestionsMage_f17485f6 (line 76992)
 translate ru RazaphelQuestionsMage_f17485f6:
     # s "Why would I want that?"
-    s ""
+    s "Why would I want that?"
 
 # RazaphelQuestionsMage_77dfd25a (line 76993)
 translate ru RazaphelQuestionsMage_77dfd25a:
     # r "Because ever since you left your homeland, you have yearned to be free."
-    r ""
+    r "Because ever since you left your homeland, you have yearned to be free."
 
 # RazaphelQuestionsMage_e986474d (line 76994)
 translate ru RazaphelQuestionsMage_e986474d:
     # r "Free from fear. Free from threats of violence. Free to control your own fate."
-    r ""
+    r "Free from fear. Free from threats of violence. Free to control your own fate."
 
 # RazaphelQuestionsMage_5bbe8d6d (line 76995)
 translate ru RazaphelQuestionsMage_5bbe8d6d:
     # r "Does it not enrage you that you are but a puppet in their designs?"
-    r ""
+    r "Does it not enrage you that you are but a puppet in their designs?"
 
 # RazaphelQuestionsMage_752ba464 (line 76996)
 translate ru RazaphelQuestionsMage_752ba464:
@@ -376,32 +371,32 @@ translate ru RazaphelQuestionsMage_643b9f6a:
 # RazaphelQuestionsMage_79e7c850 (line 76998)
 translate ru RazaphelQuestionsMage_79e7c850:
     # r "You will never truly be free, for as long as you walk in their design."
-    r ""
+    r "You will never truly be free, for as long as you walk in their design."
 
 # RazaphelQuestionsMage_e15102f9 (line 76999)
 translate ru RazaphelQuestionsMage_e15102f9:
     # s "What then? What option do I have?"
-    s ""
+    s "What then? What option do I have?"
 
 # RazaphelQuestionsMage_fed2049b (line 77000)
 translate ru RazaphelQuestionsMage_fed2049b:
     # r "When the barrier between the world was put up and my race was thrown underneath, I managed to escape."
-    r ""
+    r "When the barrier between the world was put up and my race was thrown underneath, I managed to escape."
 
 # RazaphelQuestionsMage_b3d2a795 (line 77001)
 translate ru RazaphelQuestionsMage_b3d2a795:
     # r "I carried with me this monolith, a fragment of a relic from my world."
-    r ""
+    r "I carried with me this monolith, a fragment of a relic from my world."
 
 # RazaphelQuestionsMage_49572992 (line 77002)
 translate ru RazaphelQuestionsMage_49572992:
     # r "The fate stones are small fragments, but this monolith does in full what they only do in part."
-    r ""
+    r "The fate stones are small fragments, but this monolith does in full what they only do in part."
 
 # RazaphelQuestionsMage_db66927e (line 77003)
 translate ru RazaphelQuestionsMage_db66927e:
     # r "It makes the Gods blind to the the space around it."
-    r ""
+    r "It makes the Gods blind to the the space around it."
 
 # RazaphelQuestionsMage_1eff49b1 (line 77004)
 translate ru RazaphelQuestionsMage_1eff49b1:
@@ -411,22 +406,22 @@ translate ru RazaphelQuestionsMage_1eff49b1:
 # RazaphelQuestionsMage_74196537 (line 77005)
 translate ru RazaphelQuestionsMage_74196537:
     # r "Lay your hand upon its surface and I will infuse its essence with your own."
-    r ""
+    r "Lay your hand upon its surface and I will infuse its essence with your own."
 
 # RazaphelQuestionsMage_40dc2669 (line 77006)
 translate ru RazaphelQuestionsMage_40dc2669:
     # r "You will be a creature of two worlds. Possessing the same golden soul, but lost to the sight of the Gods."
-    r ""
+    r "You will be a creature of two worlds. Possessing the same golden soul, but lost to the sight of the Gods."
 
 # RazaphelQuestionsMage_44f48388 (line 77007)
 translate ru RazaphelQuestionsMage_44f48388:
     # r "Invisible to them, you can move against their designs."
-    r ""
+    r "Invisible to them, you can move against their designs."
 
 # RazaphelQuestionsMage_d64a28ea (line 77008)
 translate ru RazaphelQuestionsMage_d64a28ea:
     # r "You can move, truly free."
-    r ""
+    r "You can move, truly free."
 
 # RazaphelQuestionsMage_e6dfd897 (line 77009)
 translate ru RazaphelQuestionsMage_e6dfd897:
@@ -457,16 +452,6 @@ translate ru RazaphelQuestionsMage_0fc79b0c:
 translate ru RazaphelQuestionsMage_0c749783:
     # "Bound to some design that had been imposed upon her before she'd even been born? Was all her life to be a fool's performance?"
     ""
-
-# RazaphelQuestionsMage_31d832a2 (line 77018)
-translate ru RazaphelQuestionsMage_31d832a2:
-    # "Place your hands upon the monolith"
-    "Place your hands upon the monolith" ""
-
-# RazaphelQuestionsMage_fd822acc (line 77115)
-translate ru RazaphelQuestionsMage_fd822acc:
-    # "Reject Razaphel's offer"
-    "Reject Razaphel's offer" ""
 
 # RazaphelQuestionsMage_9beea8e0 (line 77142)
 translate ru RazaphelQuestionsMage_9beea8e0:
@@ -541,7 +526,7 @@ translate ru RazaphelQuestionsMage_c2400324:
 # RazaphelQuestionsMage_c53fc75a (line 77163)
 translate ru RazaphelQuestionsMage_c53fc75a:
     # s "I'm fine, I'm fine! Please, give me some space."
-    s ""
+    s "I'm fine, I'm fine! Please, give me some space."
 
 # RazaphelQuestionsMage_f38832cc (line 77164)
 translate ru RazaphelQuestionsMage_f38832cc:
@@ -782,34 +767,4 @@ translate ru RazaphelQuestionsMage_7df1273e:
 translate ru RazaphelQuestionsMage_e48b2807:
     # "She was afraid of what she would have to do to them."
     ""
-
-# RazaphelQuestionsMage_38ef1006 (line 77231)
-translate ru RazaphelQuestionsMage_38ef1006:
-    # "Fight your way out"
-    "Fight your way out" ""
-
-# RazaphelQuestionsMage_3c061f2b (line 77286)
-translate ru RazaphelQuestionsMage_3c061f2b:
-    # "Stay hidden"
-    "Stay hidden" ""
-
-# RazaphelQuestionsMage_75a08f4d (line 77295)
-translate ru RazaphelQuestionsMage_75a08f4d:
-    # "Run"
-    "Run" ""
-
-# RazaphelQuestionsMage_e51d8f67 (line 77316)
-translate ru RazaphelQuestionsMage_e51d8f67:
-    # "Wait longer"
-    "Wait longer" ""
-
-# RazaphelQuestionsMage_56790a5c (line 77345)
-translate ru RazaphelQuestionsMage_56790a5c:
-    # "Kill the soldiers"
-    "Kill the soldiers" ""
-
-# RazaphelQuestionsMage_3ea2254a (line 77384)
-translate ru RazaphelQuestionsMage_3ea2254a:
-    # "Let them have their way"
-    "Let them have their way" ""
 

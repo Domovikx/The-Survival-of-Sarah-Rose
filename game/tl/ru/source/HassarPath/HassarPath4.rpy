@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: HassarPath4
-# Total blocks: 102
+# Total blocks: 100
 
 # HassarPath4_f7b9a8e0 (line 19619)
 translate ru HassarPath4_f7b9a8e0:
@@ -331,7 +331,7 @@ translate ru HassarPath4_8caa20ec:
 # HassarPath4_2b0c91df (line 19704)
 translate ru HassarPath4_2b0c91df:
     # h "Sarah? Where are you?"
-    h ""
+    h "Sarah? Where are you?"
 
 # HassarPath4_41568622 (line 19705)
 translate ru HassarPath4_41568622:
@@ -396,7 +396,7 @@ translate ru HassarPath4_19344a77:
 # HassarPath4_5fca6648 (line 19727)
 translate ru HassarPath4_5fca6648:
     # s "Aah, Khan Hassar, I thought I heard you."
-    s ""
+    s "Aah, Khan Hassar, I thought I heard you."
 
 # HassarPath4_309bc0cd (line 19728)
 translate ru HassarPath4_309bc0cd:
@@ -411,7 +411,7 @@ translate ru HassarPath4_afae718c:
 # HassarPath4_a3178821 (line 19730)
 translate ru HassarPath4_a3178821:
     # h "I went to look for you, but none of the others had seen you."
-    h ""
+    h "I went to look for you, but none of the others had seen you."
 
 # HassarPath4_8244990b (line 19731)
 translate ru HassarPath4_8244990b:
@@ -421,12 +421,12 @@ translate ru HassarPath4_8244990b:
 # HassarPath4_6bb2c58a (line 19732)
 translate ru HassarPath4_6bb2c58a:
     # s "I wanted to be alone today, I thought I would retire to the library."
-    s ""
+    s "I wanted to be alone today, I thought I would retire to the library."
 
 # HassarPath4_e7c55d8c (line 19733)
 translate ru HassarPath4_e7c55d8c:
     # s "I hope that I haven't made you upset?"
-    s ""
+    s "I hope that I haven't made you upset?"
 
 # HassarPath4_fdbc1c25 (line 19734)
 translate ru HassarPath4_fdbc1c25:
@@ -441,7 +441,7 @@ translate ru HassarPath4_ae6795b0:
 # HassarPath4_dc8dff12 (line 19736)
 translate ru HassarPath4_dc8dff12:
     # h "Of course not. You must feel free to explore the sanctum. It was build for you and the others."
-    h ""
+    h "Of course not. You must feel free to explore the sanctum. It was build for you and the others."
 
 # HassarPath4_cac9157e (line 19737)
 translate ru HassarPath4_cac9157e:
@@ -451,7 +451,7 @@ translate ru HassarPath4_cac9157e:
 # HassarPath4_3fb14387 (line 19738)
 translate ru HassarPath4_3fb14387:
     # s "Thank you, Khan Hassar."
-    s ""
+    s "Thank you, Khan Hassar."
 
 # HassarPath4_5ba57fe4 (line 19739)
 translate ru HassarPath4_5ba57fe4:
@@ -466,12 +466,12 @@ translate ru HassarPath4_746d6901:
 # HassarPath4_e9f9bae3 (line 19741)
 translate ru HassarPath4_e9f9bae3:
     # h "I see you have been making good use of the library."
-    h ""
+    h "I see you have been making good use of the library."
 
 # HassarPath4_a260581c (line 19742)
 translate ru HassarPath4_a260581c:
     # h "I'm glad, I don't think it's seen much use since it was first build."
-    h ""
+    h "I'm glad, I don't think it's seen much use since it was first build."
 
 # HassarPath4_4adea334 (line 19743)
 translate ru HassarPath4_4adea334:
@@ -496,20 +496,10 @@ translate ru HassarPath4_1bb64bde:
 # HassarPath4_67484f10 (line 19747)
 translate ru HassarPath4_67484f10:
     # h "Tell me, what book were you searching for back there?"
-    h ""
+    h "Tell me, what book were you searching for back there?"
 
 # HassarPath4_a295972d (line 19748)
 translate ru HassarPath4_a295972d:
     # "The Khan gestured towards where Sarah had come from. Where the secret door was."
     ""
-
-# HassarPath4_122b3b81 (line 19752)
-translate ru HassarPath4_122b3b81:
-    # "Tell a lie"
-    "Tell a lie" ""
-
-# HassarPath4_80ac7237 (line 19772)
-translate ru HassarPath4_80ac7237:
-    # "Distract him with your body"
-    "Distract him with your body" ""
 

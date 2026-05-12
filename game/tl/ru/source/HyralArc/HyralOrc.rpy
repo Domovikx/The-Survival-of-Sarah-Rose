@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: HyralOrc
-# Total blocks: 425
+# Total blocks: 423
 
 # HyralOrc_e1d98a49 (line 35203)
 translate ru HyralOrc_e1d98a49:
@@ -11,12 +11,12 @@ translate ru HyralOrc_e1d98a49:
 # HyralOrc_7060b01d (line 35204)
 translate ru HyralOrc_7060b01d:
     # s "Yes...a fire..."
-    s ""
+    s "Yes...a fire..."
 
 # HyralOrc_e129cc7f (line 35205)
 translate ru HyralOrc_e129cc7f:
     # s "Anything to drive this blasted cold from our bodies."
-    s ""
+    s "Anything to drive this blasted cold from our bodies."
 
 # HyralOrc_2a355a9f (line 35206)
 translate ru HyralOrc_2a355a9f:
@@ -26,7 +26,7 @@ translate ru HyralOrc_2a355a9f:
 # HyralOrc_5e73f956 (line 35207)
 translate ru HyralOrc_5e73f956:
     # nick "I'll gather up some wood."
-    nick ""
+    nick "I'll gather up some wood."
 
 # HyralOrc_06aef77b (line 35213)
 translate ru HyralOrc_06aef77b:
@@ -46,7 +46,7 @@ translate ru HyralOrc_42171ced:
 # HyralOrc_295ad6af (line 35216)
 translate ru HyralOrc_295ad6af:
     # nick "Took these from the cave. Figured we might need them."
-    nick ""
+    nick "Took these from the cave. Figured we might need them."
 
 # HyralOrc_c9fc3adf (line 35217)
 translate ru HyralOrc_c9fc3adf:
@@ -56,7 +56,7 @@ translate ru HyralOrc_c9fc3adf:
 # HyralOrc_26ae0298 (line 35218)
 translate ru HyralOrc_26ae0298:
     # s "Good thinking."
-    s ""
+    s "Good thinking."
 
 # HyralOrc_516b0bca (line 35219)
 translate ru HyralOrc_516b0bca:
@@ -126,12 +126,12 @@ translate ru HyralOrc_2345bd85:
 # HyralOrc_efe2045d (line 35232)
 translate ru HyralOrc_efe2045d:
     # s "You were right."
-    s ""
+    s "You were right."
 
 # HyralOrc_7a485502 (line 35233)
 translate ru HyralOrc_7a485502:
     # s "This was a good idea."
-    s ""
+    s "This was a good idea."
 
 # HyralOrc_2c76d820 (line 35234)
 translate ru HyralOrc_2c76d820:
@@ -141,12 +141,12 @@ translate ru HyralOrc_2c76d820:
 # HyralOrc_1bf35221 (line 35235)
 translate ru HyralOrc_1bf35221:
     # nick "I have a few, every now and again."
-    nick ""
+    nick "I have a few, every now and again."
 
 # HyralOrc_64a281df (line 35236)
 translate ru HyralOrc_64a281df:
     # nick "Just remember that next time you-"
-    nick ""
+    nick "Just remember that next time you-"
 
 # HyralOrc_a1222480 (line 35237)
 translate ru HyralOrc_a1222480:
@@ -161,7 +161,7 @@ translate ru HyralOrc_7845f75c:
 # HyralOrc_b4c79606 (line 35239)
 translate ru HyralOrc_b4c79606:
     # nick "Sarah, we need to-"
-    nick ""
+    nick "Sarah, we need to-"
 
 # HyralOrc_fd652b02 (line 35245)
 translate ru HyralOrc_fd652b02:
@@ -221,12 +221,12 @@ translate ru HyralOrc_cd6184df:
 # HyralOrc_9f74e814 (line 35256)
 translate ru HyralOrc_9f74e814:
     # s "Nick..."
-    s ""
+    s "Nick..."
 
 # HyralOrc_e4b522b1 (line 35257)
 translate ru HyralOrc_e4b522b1:
     # s "We...we have to..."
-    s ""
+    s "We...we have to..."
 
 # HyralOrc_628c0ddc (line 35258)
 translate ru HyralOrc_628c0ddc:
@@ -236,7 +236,7 @@ translate ru HyralOrc_628c0ddc:
 # HyralOrc_1b6b309f (line 35259)
 translate ru HyralOrc_1b6b309f:
     # s "Grab something...anything...a weapon...or else..."
-    s ""
+    s "Grab something...anything...a weapon...or else..."
 
 # HyralOrc_98c054e9 (line 35265)
 translate ru HyralOrc_98c054e9:
@@ -301,7 +301,7 @@ translate ru HyralOrc_747769db:
 # HyralOrc_98a61719 (line 35282)
 translate ru HyralOrc_98a61719:
     # s "Aah!"
-    s ""
+    s "Aah!"
 
 # HyralOrc_5d1d5720 (line 35283)
 translate ru HyralOrc_5d1d5720:
@@ -376,7 +376,7 @@ translate ru HyralOrc_33a830c0:
 # HyralOrc_b87c15d0 (line 35297)
 translate ru HyralOrc_b87c15d0:
     # s "No, wait-"
-    s ""
+    s "No, wait-"
 
 # HyralOrc_93362002 (line 35298)
 translate ru HyralOrc_93362002:
@@ -671,12 +671,12 @@ translate ru HyralOrc_dbc75132:
 # HyralOrc_b1d70b0b (line 35366)
 translate ru HyralOrc_b1d70b0b:
     # s "Hey!"
-    s ""
+    s "Hey!"
 
 # HyralOrc_2b8e7832 (line 35367)
 translate ru HyralOrc_2b8e7832:
     # s "Wait! Nick!"
-    s ""
+    s "Wait! Nick!"
 
 # HyralOrc_ee2feb43 (line 35373)
 translate ru HyralOrc_ee2feb43:
@@ -746,12 +746,12 @@ translate ru HyralOrc_c86c13e4:
 # HyralOrc_351ba070 (line 35391)
 translate ru HyralOrc_351ba070:
     # s "No!"
-    s ""
+    s "No!"
 
 # HyralOrc_b9cdf53c (line 35392)
 translate ru HyralOrc_b9cdf53c:
     # s "Wait!"
-    s ""
+    s "Wait!"
 
 # HyralOrc_c57cba67 (line 35393)
 translate ru HyralOrc_c57cba67:
@@ -886,7 +886,7 @@ translate ru HyralOrc_04a85d0e:
 # HyralOrc_926cc9ba (line 35424)
 translate ru HyralOrc_926cc9ba:
     # s "No! Wait!"
-    s ""
+    s "No! Wait!"
 
 # HyralOrc_d3bb9a79 (line 35425)
 translate ru HyralOrc_d3bb9a79:
@@ -951,7 +951,7 @@ translate ru HyralOrc_82d0d2d3:
 # HyralOrc_129055c7 (line 35437)
 translate ru HyralOrc_129055c7:
     # s "Fuck!"
-    s ""
+    s "Fuck!"
 
 # HyralOrc_3bf63e69 (line 35438)
 translate ru HyralOrc_3bf63e69:
@@ -1221,12 +1221,12 @@ translate ru HyralOrc_b870c604:
 # HyralOrc_1663b6aa (line 35496)
 translate ru HyralOrc_1663b6aa:
     # s "No...sir...lord...mister...no, really!"
-    s ""
+    s "No...sir...lord...mister...no, really!"
 
 # HyralOrc_a3abde29 (line 35497)
 translate ru HyralOrc_a3abde29:
     # s "This was a mistake! We didn't mean to-"
-    s ""
+    s "This was a mistake! We didn't mean to-"
 
 # HyralOrc_80462a8e (line 35498)
 translate ru HyralOrc_80462a8e:
@@ -1251,7 +1251,7 @@ translate ru HyralOrc_38379939:
 # HyralOrc_e728d4ff (line 35502)
 translate ru HyralOrc_e728d4ff:
     # s "We were cold and lost...we were trying to make a fire and..."
-    s ""
+    s "We were cold and lost...we were trying to make a fire and..."
 
 # HyralOrc_b64bee63 (line 35503)
 translate ru HyralOrc_b64bee63:
@@ -1286,7 +1286,7 @@ translate ru HyralOrc_fc554387:
 # HyralOrc_c824d464 (line 35509)
 translate ru HyralOrc_c824d464:
     # s "I...pro...property..."
-    s ""
+    s "I...pro...property..."
 
 # HyralOrc_5179fbde (line 35510)
 translate ru HyralOrc_5179fbde:
@@ -1346,7 +1346,7 @@ translate ru HyralOrc_3d337c1d:
 # HyralOrc_02a1cb70 (line 35526)
 translate ru HyralOrc_02a1cb70:
     # s "No! I never thought that!"
-    s ""
+    s "No! I never thought that!"
 
 # HyralOrc_c5f47a07 (line 35527)
 translate ru HyralOrc_c5f47a07:
@@ -1361,7 +1361,7 @@ translate ru HyralOrc_db0115b2:
 # HyralOrc_600e1db7 (line 35529)
 translate ru HyralOrc_600e1db7:
     # s "Aaaah!"
-    s ""
+    s "Aaaah!"
 
 # HyralOrc_babc975f (line 35530)
 translate ru HyralOrc_babc975f:
@@ -1381,7 +1381,7 @@ translate ru HyralOrc_8f42310c:
 # HyralOrc_f807cf24 (line 35533)
 translate ru HyralOrc_f807cf24:
     # s "No! Aah! Please!!"
-    s ""
+    s "No! Aah! Please!!"
 
 # HyralOrc_bffbeab2 (line 35534)
 translate ru HyralOrc_bffbeab2:
@@ -1401,7 +1401,7 @@ translate ru HyralOrc_e3106989:
 # HyralOrc_5a1bb08e (line 35537)
 translate ru HyralOrc_5a1bb08e:
     # s "Please!"
-    s ""
+    s "Please!"
 
 # HyralOrc_42fd5192 (line 35538)
 translate ru HyralOrc_42fd5192:
@@ -1426,7 +1426,7 @@ translate ru HyralOrc_856805ae:
 # HyralOrc_d0b8a315 (line 35542)
 translate ru HyralOrc_d0b8a315:
     # s "Aaah! Yes! Yes! I promise!"
-    s ""
+    s "Aaah! Yes! Yes! I promise!"
 
 # HyralOrc_fde89776 (line 35543)
 translate ru HyralOrc_fde89776:
@@ -1446,7 +1446,7 @@ translate ru HyralOrc_e379cdc7:
 # HyralOrc_53bd5986 (line 35546)
 translate ru HyralOrc_53bd5986:
     # s "Yes! Yes!"
-    s ""
+    s "Yes! Yes!"
 
 # HyralOrc_cd6f1019 (line 35547)
 translate ru HyralOrc_cd6f1019:
@@ -1466,7 +1466,7 @@ translate ru HyralOrc_98ab0e36:
 # HyralOrc_3f4baeeb (line 35550)
 translate ru HyralOrc_3f4baeeb:
     # s "I promise! I'll be a good whore! I promise!"
-    s ""
+    s "I promise! I'll be a good whore! I promise!"
 
 # HyralOrc_88631895 (line 35551)
 translate ru HyralOrc_88631895:
@@ -1546,7 +1546,7 @@ translate ru HyralOrc_48b28bc5:
 # HyralOrc_0e1a2539 (line 35566)
 translate ru HyralOrc_0e1a2539:
     # s "Sorry...if I go...slow..."
-    s ""
+    s "Sorry...if I go...slow..."
 
 # HyralOrc_409ae97c (line 35567)
 translate ru HyralOrc_409ae97c:
@@ -1556,7 +1556,7 @@ translate ru HyralOrc_409ae97c:
 # HyralOrc_02fd6ec6 (line 35568)
 translate ru HyralOrc_02fd6ec6:
     # s "You...you are so big..."
-    s ""
+    s "You...you are so big..."
 
 # HyralOrc_30b2c8cf (line 35569)
 translate ru HyralOrc_30b2c8cf:
@@ -1581,7 +1581,7 @@ translate ru HyralOrc_841c186a:
 # HyralOrc_fc4cae25 (line 35573)
 translate ru HyralOrc_fc4cae25:
     # s "Aah!!!"
-    s ""
+    s "Aah!!!"
 
 # HyralOrc_3ef55f2a (line 35574)
 translate ru HyralOrc_3ef55f2a:
@@ -1641,7 +1641,7 @@ translate ru HyralOrc_92cbfe2b:
 # HyralOrc_bdb9831b (line 35585)
 translate ru HyralOrc_bdb9831b:
     # s "Aah!"
-    s ""
+    s "Aah!"
 
 # HyralOrc_5ae41061 (line 35586)
 translate ru HyralOrc_5ae41061:
@@ -1821,7 +1821,7 @@ translate ru HyralOrc_ef09f30f:
 # HyralOrc_e7809005 (line 35636)
 translate ru HyralOrc_e7809005:
     # s "Hey there."
-    s ""
+    s "Hey there."
 
 # HyralOrc_b0e9f138 (line 35637)
 translate ru HyralOrc_b0e9f138:
@@ -1861,7 +1861,7 @@ translate ru HyralOrc_8159946b:
 # HyralOrc_d450736f (line 35649)
 translate ru HyralOrc_d450736f:
     # s "Thank you."
-    s ""
+    s "Thank you."
 
 # HyralOrc_0c4de22b (line 35650)
 translate ru HyralOrc_0c4de22b:
@@ -1871,7 +1871,7 @@ translate ru HyralOrc_0c4de22b:
 # HyralOrc_fd85cef7 (line 35651)
 translate ru HyralOrc_fd85cef7:
     # s "You're very kind."
-    s ""
+    s "You're very kind."
 
 # HyralOrc_75af9d7c (line 35652)
 translate ru HyralOrc_75af9d7c:
@@ -1886,7 +1886,7 @@ translate ru HyralOrc_cf64fc0f:
 # HyralOrc_5c7a911d (line 35654)
 translate ru HyralOrc_5c7a911d:
     # s "Job?"
-    s ""
+    s "Job?"
 
 # HyralOrc_03d561b4 (line 35660)
 translate ru HyralOrc_03d561b4:
@@ -1916,7 +1916,7 @@ translate ru HyralOrc_94856a76:
 # HyralOrc_831408b5 (line 35665)
 translate ru HyralOrc_831408b5:
     # s "I understand. Still...thank you for the food, I was very hungry."
-    s ""
+    s "I understand. Still...thank you for the food, I was very hungry."
 
 # HyralOrc_651ab028 (line 35666)
 translate ru HyralOrc_651ab028:
@@ -1936,7 +1936,7 @@ translate ru HyralOrc_bfac03da:
 # HyralOrc_a414cf4b (line 35669)
 translate ru HyralOrc_a414cf4b:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # HyralOrc_386e80ed (line 35670)
 translate ru HyralOrc_386e80ed:
@@ -1956,17 +1956,17 @@ translate ru HyralOrc_de3187a0:
 # HyralOrc_7bffa766 (line 35673)
 translate ru HyralOrc_7bffa766:
     # s "They caught me."
-    s ""
+    s "They caught me."
 
 # HyralOrc_533ab760 (line 35674)
 translate ru HyralOrc_533ab760:
     # s "Me and my friend, we ended up on the shores here, and we tried to travl through the mountains back to safety."
-    s ""
+    s "Me and my friend, we ended up on the shores here, and we tried to travl through the mountains back to safety."
 
 # HyralOrc_8a4f67cc (line 35675)
 translate ru HyralOrc_8a4f67cc:
     # s "We made a campfire and that's when they spotted us."
-    s ""
+    s "We made a campfire and that's when they spotted us."
 
 # HyralOrc_e0d15425 (line 35676)
 translate ru HyralOrc_e0d15425:
@@ -1986,7 +1986,7 @@ translate ru HyralOrc_5ddbf80c:
 # HyralOrc_c994024e (line 35679)
 translate ru HyralOrc_c994024e:
     # s "It was stupid, but my friend he...convinced me."
-    s ""
+    s "It was stupid, but my friend he...convinced me."
 
 # HyralOrc_ac5b42c0 (line 35680)
 translate ru HyralOrc_ac5b42c0:
@@ -2001,7 +2001,7 @@ translate ru HyralOrc_133a24bd:
 # HyralOrc_5ed0e728 (line 35682)
 translate ru HyralOrc_5ed0e728:
     # s "Maybe you're right about that."
-    s ""
+    s "Maybe you're right about that."
 
 # HyralOrc_6592f840 (line 35683)
 translate ru HyralOrc_6592f840:
@@ -2016,7 +2016,7 @@ translate ru HyralOrc_65d4457b:
 # HyralOrc_cc76616d (line 35685)
 translate ru HyralOrc_cc76616d:
     # s "What?"
-    s ""
+    s "What?"
 
 # HyralOrc_af393410 (line 35686)
 translate ru HyralOrc_af393410:
@@ -2036,12 +2036,12 @@ translate ru HyralOrc_87908eb1:
 # HyralOrc_75c73837 (line 35689)
 translate ru HyralOrc_75c73837:
     # s "Really?"
-    s ""
+    s "Really?"
 
 # HyralOrc_0226ff81 (line 35690)
 translate ru HyralOrc_0226ff81:
     # s "How do I get there?"
-    s ""
+    s "How do I get there?"
 
 # HyralOrc_0267e228 (line 35691)
 translate ru HyralOrc_0267e228:
@@ -2061,7 +2061,7 @@ translate ru HyralOrc_c782d543:
 # HyralOrc_158cdc23 (line 35694)
 translate ru HyralOrc_158cdc23:
     # s "You...you would help me escape? Why?"
-    s ""
+    s "You...you would help me escape? Why?"
 
 # HyralOrc_95e21915 (line 35695)
 translate ru HyralOrc_95e21915:
@@ -2117,14 +2117,4 @@ translate ru HyralOrc_dc88c98f:
 translate ru HyralOrc_ba07117e:
     # "Sarah suddenly grew nervous."
     ""
-
-# HyralOrc_8688d084 (line 35709)
-translate ru HyralOrc_8688d084:
-    # "Escape with the goblin"
-    "Escape with the goblin" ""
-
-# HyralOrc_fdb98648 (line 35711)
-translate ru HyralOrc_fdb98648:
-    # "Stay in the camp"
-    "Stay in the camp" ""
 

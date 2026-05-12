@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: NeitherPath4
-# Total blocks: 132
+# Total blocks: 126
 
 # NeitherPath4_1b43cc9d (line 5280)
 translate ru NeitherPath4_1b43cc9d:
@@ -91,22 +91,22 @@ translate ru NeitherPath4_b90cf7d3:
 # NeitherPath4_f9f6a04a (line 5299)
 translate ru NeitherPath4_f9f6a04a:
     # s "How much longer?"
-    s ""
+    s "How much longer?"
 
 # NeitherPath4_53679132 (line 5300)
 translate ru NeitherPath4_53679132:
     # v "Sarah, the units from the furthest provinces have arrived today."
-    v ""
+    v "Sarah, the units from the furthest provinces have arrived today."
 
 # NeitherPath4_7acfcc02 (line 5301)
 translate ru NeitherPath4_7acfcc02:
     # v "But they have not yet been equipped. Hells, they haven't even begun to their basic training."
-    v ""
+    v "But they have not yet been equipped. Hells, they haven't even begun to their basic training."
 
 # NeitherPath4_69740f6e (line 5302)
 translate ru NeitherPath4_69740f6e:
     # v "If we send them out now, they'll serve as little more than bodies to absorb arrows."
-    v ""
+    v "If we send them out now, they'll serve as little more than bodies to absorb arrows."
 
 # NeitherPath4_0e0c1195 (line 5303)
 translate ru NeitherPath4_0e0c1195:
@@ -116,12 +116,12 @@ translate ru NeitherPath4_0e0c1195:
 # NeitherPath4_d38b1001 (line 5304)
 translate ru NeitherPath4_d38b1001:
     # v "If anything, they might actually weaken the army."
-    v ""
+    v "If anything, they might actually weaken the army."
 
 # NeitherPath4_59daaa03 (line 5305)
 translate ru NeitherPath4_59daaa03:
     # v "Their morale is low, we've called them away from the fields during harvest season, many fear that their year's work will wither before they see home again."
-    v ""
+    v "Their morale is low, we've called them away from the fields during harvest season, many fear that their year's work will wither before they see home again."
 
 # NeitherPath4_31c92ad0 (line 5306)
 translate ru NeitherPath4_31c92ad0:
@@ -131,12 +131,12 @@ translate ru NeitherPath4_31c92ad0:
 # NeitherPath4_ddb57c10 (line 5307)
 translate ru NeitherPath4_ddb57c10:
     # s "Yes, lord Varga, I am aware."
-    s ""
+    s "Yes, lord Varga, I am aware."
 
 # NeitherPath4_4b8aefaf (line 5308)
 translate ru NeitherPath4_4b8aefaf:
     # s "Every decision I make seems to sow a thousand new disasters."
-    s ""
+    s "Every decision I make seems to sow a thousand new disasters."
 
 # NeitherPath4_bb606433 (line 5309)
 translate ru NeitherPath4_bb606433:
@@ -146,7 +146,7 @@ translate ru NeitherPath4_bb606433:
 # NeitherPath4_973cae34 (line 5310)
 translate ru NeitherPath4_973cae34:
     # v "Lady Sarah, that is not how I meant it."
-    v ""
+    v "Lady Sarah, that is not how I meant it."
 
 # NeitherPath4_02f548b6 (line 5311)
 translate ru NeitherPath4_02f548b6:
@@ -156,12 +156,12 @@ translate ru NeitherPath4_02f548b6:
 # NeitherPath4_e983bda9 (line 5312)
 translate ru NeitherPath4_e983bda9:
     # s "Please, spare me the soft and kind words."
-    s ""
+    s "Please, spare me the soft and kind words."
 
 # NeitherPath4_c69d8ce4 (line 5313)
 translate ru NeitherPath4_c69d8ce4:
     # s "When this war is won and over with, you can tell me all the kind things you want. For now I only want the truth."
-    s ""
+    s "When this war is won and over with, you can tell me all the kind things you want. For now I only want the truth."
 
 # NeitherPath4_fbfe02a0 (line 5314)
 translate ru NeitherPath4_fbfe02a0:
@@ -171,27 +171,27 @@ translate ru NeitherPath4_fbfe02a0:
 # NeitherPath4_a9c1f958 (line 5315)
 translate ru NeitherPath4_a9c1f958:
     # v "Very well, then let me be honest."
-    v ""
+    v "Very well, then let me be honest."
 
 # NeitherPath4_500ca60e (line 5316)
 translate ru NeitherPath4_500ca60e:
     # v "There is a brief window available to us."
-    v ""
+    v "There is a brief window available to us."
 
 # NeitherPath4_a2e6bf78 (line 5317)
 translate ru NeitherPath4_a2e6bf78:
     # v "A brief window where our troops will be ready to attack Marion's position, but where we might still end the uprising in time to spare the outer provinces from a wasted harvest."
-    v ""
+    v "A brief window where our troops will be ready to attack Marion's position, but where we might still end the uprising in time to spare the outer provinces from a wasted harvest."
 
 # NeitherPath4_047bae0d (line 5318)
 translate ru NeitherPath4_047bae0d:
     # v "We have to manage that tightrope."
-    v ""
+    v "We have to manage that tightrope."
 
 # NeitherPath4_47561dc6 (line 5319)
 translate ru NeitherPath4_47561dc6:
     # v "They will not be as ready as they perhaps could have been, but they'll be as ready as we can make them, before our window closes."
-    v ""
+    v "They will not be as ready as they perhaps could have been, but they'll be as ready as we can make them, before our window closes."
 
 # NeitherPath4_c7aac056 (line 5320)
 translate ru NeitherPath4_c7aac056:
@@ -201,7 +201,7 @@ translate ru NeitherPath4_c7aac056:
 # NeitherPath4_5c936ac9 (line 5321)
 translate ru NeitherPath4_5c936ac9:
     # s "Yes..."
-    s ""
+    s "Yes..."
 
 # NeitherPath4_739a308a (line 5322)
 translate ru NeitherPath4_739a308a:
@@ -211,7 +211,7 @@ translate ru NeitherPath4_739a308a:
 # NeitherPath4_51d896cb (line 5323)
 translate ru NeitherPath4_51d896cb:
     # s "Everything that I have available to you, every resource, I offer it to you. Just get the army ready in time."
-    s ""
+    s "Everything that I have available to you, every resource, I offer it to you. Just get the army ready in time."
 
 # NeitherPath4_dce9e055 (line 5324)
 translate ru NeitherPath4_dce9e055:
@@ -221,7 +221,7 @@ translate ru NeitherPath4_dce9e055:
 # NeitherPath4_03965bbf (line 5331)
 translate ru NeitherPath4_03965bbf:
     # v "I will move heaven and earth, lady Sarah."
-    v ""
+    v "I will move heaven and earth, lady Sarah."
 
 # NeitherPath4_0dc43b6c (line 5332)
 translate ru NeitherPath4_0dc43b6c:
@@ -261,7 +261,7 @@ translate ru NeitherPath4_447af840:
 # NeitherPath4_6ffd55f6 (line 5343)
 translate ru NeitherPath4_6ffd55f6:
     # s "Lord Varga, please resume your duties, this matter won't concern you."
-    s ""
+    s "Lord Varga, please resume your duties, this matter won't concern you."
 
 # NeitherPath4_7bbb9243 (line 5344)
 translate ru NeitherPath4_7bbb9243:
@@ -301,7 +301,7 @@ translate ru NeitherPath4_ff3f2b4f:
 # NeitherPath4_2e0a3983 (line 5366)
 translate ru NeitherPath4_2e0a3983:
     # s "Tell me, what is this about?"
-    s ""
+    s "Tell me, what is this about?"
 
 # NeitherPath4_f4b63204 (line 5367)
 translate ru NeitherPath4_f4b63204:
@@ -326,7 +326,7 @@ translate ru NeitherPath4_fb9c9b93:
 # NeitherPath4_2dd200f4 (line 5371)
 translate ru NeitherPath4_2dd200f4:
     # s "What happened, exactly?"
-    s ""
+    s "What happened, exactly?"
 
 # NeitherPath4_a56a9811 (line 5372)
 translate ru NeitherPath4_a56a9811:
@@ -346,7 +346,7 @@ translate ru NeitherPath4_780d49ec:
 # NeitherPath4_b20ca9f5 (line 5375)
 translate ru NeitherPath4_b20ca9f5:
     # s "Is this true?"
-    s ""
+    s "Is this true?"
 
 # NeitherPath4_c99b161c (line 5376)
 translate ru NeitherPath4_c99b161c:
@@ -361,7 +361,7 @@ translate ru NeitherPath4_dcab499d:
 # NeitherPath4_48fd8705 (line 5378)
 translate ru NeitherPath4_48fd8705:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # NeitherPath4_145928fb (line 5379)
 translate ru NeitherPath4_145928fb:
@@ -371,7 +371,7 @@ translate ru NeitherPath4_145928fb:
 # NeitherPath4_be3267cf (line 5380)
 translate ru NeitherPath4_be3267cf:
     # s "Are servants supposed to rob the food storage rooms?"
-    s ""
+    s "Are servants supposed to rob the food storage rooms?"
 
 # NeitherPath4_129ab32b (line 5381)
 translate ru NeitherPath4_129ab32b:
@@ -391,7 +391,7 @@ translate ru NeitherPath4_564eacdf:
 # NeitherPath4_80954447 (line 5384)
 translate ru NeitherPath4_80954447:
     # s "Out with it, please."
-    s ""
+    s "Out with it, please."
 
 # NeitherPath4_969b83de (line 5385)
 translate ru NeitherPath4_969b83de:
@@ -401,7 +401,7 @@ translate ru NeitherPath4_969b83de:
 # NeitherPath4_fed92407 (line 5386)
 translate ru NeitherPath4_fed92407:
     # s "If you work as a servant, you are paid a fair wage, are you not?"
-    s ""
+    s "If you work as a servant, you are paid a fair wage, are you not?"
 
 # NeitherPath4_8326066c (line 5387)
 translate ru NeitherPath4_8326066c:
@@ -411,7 +411,7 @@ translate ru NeitherPath4_8326066c:
 # NeitherPath4_50727ea1 (line 5388)
 translate ru NeitherPath4_50727ea1:
     # s "Then couldn't you use your wages to buy food at the market."
-    s ""
+    s "Then couldn't you use your wages to buy food at the market."
 
 # NeitherPath4_fc59cf5a (line 5389)
 translate ru NeitherPath4_fc59cf5a:
@@ -481,32 +481,32 @@ translate ru NeitherPath4_e5cf47ca:
 # NeitherPath4_1d25009f (line 5402)
 translate ru NeitherPath4_1d25009f:
     # c "Sarah, I understand that her story plays on your soft nature."
-    c ""
+    c "Sarah, I understand that her story plays on your soft nature."
 
 # NeitherPath4_b56a4a15 (line 5403)
 translate ru NeitherPath4_b56a4a15:
     # c "For as long as I've know you, you've had a kind heart."
-    c ""
+    c "For as long as I've know you, you've had a kind heart."
 
 # NeitherPath4_b333f7b8 (line 5404)
 translate ru NeitherPath4_b333f7b8:
     # c "But things are different now."
-    c ""
+    c "But things are different now."
 
 # NeitherPath4_0d62d7a8 (line 5405)
 translate ru NeitherPath4_0d62d7a8:
     # c "If the girl walks away, she will tell stories of what happened here today."
-    c ""
+    c "If the girl walks away, she will tell stories of what happened here today."
 
 # NeitherPath4_e2c7db7d (line 5406)
 translate ru NeitherPath4_e2c7db7d:
     # c "And so will the guard."
-    c ""
+    c "And so will the guard."
 
 # NeitherPath4_bbf38d20 (line 5407)
 translate ru NeitherPath4_bbf38d20:
     # c "It won't be long before every servant in the castle will know that with a tear and a beg, they can stuff their faces full of food."
-    c ""
+    c "It won't be long before every servant in the castle will know that with a tear and a beg, they can stuff their faces full of food."
 
 # NeitherPath4_bb7d5319 (line 5408)
 translate ru NeitherPath4_bb7d5319:
@@ -516,27 +516,27 @@ translate ru NeitherPath4_bb7d5319:
 # NeitherPath4_e2285169 (line 5409)
 translate ru NeitherPath4_e2285169:
     # c "And once the food goes, soon will the rest. Silver, trinkets, relics."
-    c ""
+    c "And once the food goes, soon will the rest. Silver, trinkets, relics."
 
 # NeitherPath4_562793a3 (line 5410)
 translate ru NeitherPath4_562793a3:
     # c "A castle is only as strong as the morale that rules it."
-    c ""
+    c "A castle is only as strong as the morale that rules it."
 
 # NeitherPath4_ffd97262 (line 5411)
 translate ru NeitherPath4_ffd97262:
     # c "You're not a little girl anymore, you sit on the throne that your father once sat on."
-    c ""
+    c "You're not a little girl anymore, you sit on the throne that your father once sat on."
 
 # NeitherPath4_69ae0a4d (line 5412)
 translate ru NeitherPath4_69ae0a4d:
     # c "That means you must govern not just from your heart, but also from what is right for the country."
-    c ""
+    c "That means you must govern not just from your heart, but also from what is right for the country."
 
 # NeitherPath4_4243e6f7 (line 5413)
 translate ru NeitherPath4_4243e6f7:
     # c "If this was not a time of war, perhaps you could give into your soft nature, but for now I council that you remain strong."
-    c ""
+    c "If this was not a time of war, perhaps you could give into your soft nature, but for now I council that you remain strong."
 
 # NeitherPath4_83cc997d (line 5414)
 translate ru NeitherPath4_83cc997d:
@@ -546,7 +546,7 @@ translate ru NeitherPath4_83cc997d:
 # NeitherPath4_a331caba (line 5415)
 translate ru NeitherPath4_a331caba:
     # s "So what would you have me do? Throw this poor girl in prison?"
-    s ""
+    s "So what would you have me do? Throw this poor girl in prison?"
 
 # NeitherPath4_5410ab53 (line 5416)
 translate ru NeitherPath4_5410ab53:
@@ -556,32 +556,22 @@ translate ru NeitherPath4_5410ab53:
 # NeitherPath4_a1a447f1 (line 5417)
 translate ru NeitherPath4_a1a447f1:
     # c "Nothing so drastic."
-    c ""
+    c "Nothing so drastic."
 
 # NeitherPath4_7f62e67f (line 5418)
 translate ru NeitherPath4_7f62e67f:
     # c "A few lashes will sort her out, and it will tell a different story to all the others that will think of stealing."
-    c ""
+    c "A few lashes will sort her out, and it will tell a different story to all the others that will think of stealing."
 
 # NeitherPath4_cd80ac9d (line 5433)
 translate ru NeitherPath4_cd80ac9d:
     # "Sarah leaned back into the throne and began to contemplate."
     ""
 
-# NeitherPath4_1f88b40a (line 5436)
-translate ru NeitherPath4_1f88b40a:
-    # "She needs to be made an example of"
-    "She needs to be made an example of" ""
-
-# NeitherPath4_11c85167 (line 5484)
-translate ru NeitherPath4_11c85167:
-    # "It was a small mistake, let it go"
-    "It was a small mistake, let it go" ""
-
 # NeitherPath4_868fa541 (line 5510)
 translate ru NeitherPath4_868fa541:
     # s "Well, now that we've settled that matter of great state importance, let's get started on that budget meeting."
-    s ""
+    s "Well, now that we've settled that matter of great state importance, let's get started on that budget meeting."
 
 # NeitherPath4_2399ac34 (line 5511)
 translate ru NeitherPath4_2399ac34:
@@ -642,24 +632,4 @@ translate ru NeitherPath4_f01b8f1c:
 translate ru NeitherPath4_dc0b7f64:
     # "Lady Carolyn finally stood up after several hours."
     ""
-
-# NeitherPath4_fc3f2035 (line 6046)
-translate ru NeitherPath4_fc3f2035:
-    # "Retire for the evening"
-    "Retire for the evening" ""
-
-# NeitherPath4_cab47850 (line 6058)
-translate ru NeitherPath4_cab47850:
-    # "Invite Lily in"
-    "Invite Lily in" ""
-
-# NeitherPath4_cf6d49ce (line 6142)
-translate ru NeitherPath4_cf6d49ce:
-    # "Kiss Lily"
-    "Kiss Lily" ""
-
-# NeitherPath4_25655db1 (line 6203)
-translate ru NeitherPath4_25655db1:
-    # "Push her back"
-    "Push her back" ""
 

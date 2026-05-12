@@ -11,7 +11,7 @@ translate ru TheOutsidePathBegins_ef2868e9:
 # TheOutsidePathBegins_dd27229a (line 23966)
 translate ru TheOutsidePathBegins_dd27229a:
     # s "I trust you."
-    s ""
+    s "I trust you."
 
 # TheOutsidePathBegins_f29b5888 (line 23967)
 translate ru TheOutsidePathBegins_f29b5888:
@@ -21,7 +21,7 @@ translate ru TheOutsidePathBegins_f29b5888:
 # TheOutsidePathBegins_731d0596 (line 23968)
 translate ru TheOutsidePathBegins_731d0596:
     # k "We need to move fast. Pack enough clothes to last you a few days."
-    k ""
+    k "We need to move fast. Pack enough clothes to last you a few days."
 
 # TheOutsidePathBegins_7bab1407 (line 23969)
 translate ru TheOutsidePathBegins_7bab1407:
@@ -31,7 +31,7 @@ translate ru TheOutsidePathBegins_7bab1407:
 # TheOutsidePathBegins_07a10935 (line 23970)
 translate ru TheOutsidePathBegins_07a10935:
     # k "Also, grab anything of value, your jewelry, that sort of thing. We might need money along our route."
-    k ""
+    k "Also, grab anything of value, your jewelry, that sort of thing. We might need money along our route."
 
 # TheOutsidePathBegins_dac204f3 (line 23971)
 translate ru TheOutsidePathBegins_dac204f3:
@@ -56,7 +56,7 @@ translate ru TheOutsidePathBegins_e95e1049:
 # TheOutsidePathBegins_212fda6f (line 23975)
 translate ru TheOutsidePathBegins_212fda6f:
     # s "I'm ready...I think."
-    s ""
+    s "I'm ready...I think."
 
 # TheOutsidePathBegins_fadb2271 (line 23976)
 translate ru TheOutsidePathBegins_fadb2271:
@@ -66,7 +66,7 @@ translate ru TheOutsidePathBegins_fadb2271:
 # TheOutsidePathBegins_8b8b6f05 (line 23977)
 translate ru TheOutsidePathBegins_8b8b6f05:
     # k "We need to keep moving."
-    k ""
+    k "We need to keep moving."
 
 # TheOutsidePathBegins_a48f4ab6 (line 23978)
 translate ru TheOutsidePathBegins_a48f4ab6:
@@ -126,7 +126,7 @@ translate ru TheOutsidePathBegins_4d568189:
 # TheOutsidePathBegins_0974f386 (line 23994)
 translate ru TheOutsidePathBegins_0974f386:
     # k "Keep up."
-    k ""
+    k "Keep up."
 
 # TheOutsidePathBegins_b9349090 (line 23995)
 translate ru TheOutsidePathBegins_b9349090:
@@ -166,7 +166,7 @@ translate ru TheOutsidePathBegins_cef37e86:
 # TheOutsidePathBegins_153407ba (line 24002)
 translate ru TheOutsidePathBegins_153407ba:
     # k "Wait here, I'll be right back."
-    k ""
+    k "Wait here, I'll be right back."
 
 # TheOutsidePathBegins_54f5e3e4 (line 24003)
 translate ru TheOutsidePathBegins_54f5e3e4:
@@ -206,7 +206,7 @@ translate ru TheOutsidePathBegins_1f7289bb:
 # TheOutsidePathBegins_13846492 (line 24015)
 translate ru TheOutsidePathBegins_13846492:
     # k "Come, let's go. The ship is waiting for us."
-    k ""
+    k "Come, let's go. The ship is waiting for us."
 
 # TheOutsidePathBegins_c7e53863 (line 24016)
 translate ru TheOutsidePathBegins_c7e53863:
@@ -241,12 +241,12 @@ translate ru TheOutsidePathBegins_cfeb3ca5:
 # TheOutsidePathBegins_5ab33fa3 (line 24022)
 translate ru TheOutsidePathBegins_5ab33fa3:
     # k "We're ready, captain Belmont!"
-    k ""
+    k "We're ready, captain Belmont!"
 
 # TheOutsidePathBegins_5ba14895 (line 24023)
 translate ru TheOutsidePathBegins_5ba14895:
     # cb "Then we set sail! Draw up the anchor!"
-    cb ""
+    cb "Then we set sail! Draw up the anchor!"
 
 # TheOutsidePathBegins_422c4726 (line 24024)
 translate ru TheOutsidePathBegins_422c4726:

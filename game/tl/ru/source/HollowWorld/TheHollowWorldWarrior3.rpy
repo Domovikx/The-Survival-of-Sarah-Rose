@@ -91,7 +91,7 @@ translate ru TheHollowWorldWarrior3_3f6defd1:
 # TheHollowWorldWarrior3_0e3650ee (line 42510)
 translate ru TheHollowWorldWarrior3_0e3650ee:
     # s "Yes?"
-    s ""
+    s "Yes?"
 
 # TheHollowWorldWarrior3_364b4e2e (line 42511)
 translate ru TheHollowWorldWarrior3_364b4e2e:
@@ -101,7 +101,7 @@ translate ru TheHollowWorldWarrior3_364b4e2e:
 # TheHollowWorldWarrior3_79f5aa46 (line 42512)
 translate ru TheHollowWorldWarrior3_79f5aa46:
     # s "Did he say what it was about?"
-    s ""
+    s "Did he say what it was about?"
 
 # TheHollowWorldWarrior3_c3b50ae5 (line 42513)
 translate ru TheHollowWorldWarrior3_c3b50ae5:
@@ -121,7 +121,7 @@ translate ru TheHollowWorldWarrior3_8cec1106:
 # TheHollowWorldWarrior3_a182f1c8 (line 42516)
 translate ru TheHollowWorldWarrior3_a182f1c8:
     # s "I understand. I'll be there in a moment."
-    s ""
+    s "I understand. I'll be there in a moment."
 
 # TheHollowWorldWarrior3_c773136e (line 42524)
 translate ru TheHollowWorldWarrior3_c773136e:
@@ -136,7 +136,7 @@ translate ru TheHollowWorldWarrior3_045feb1d:
 # TheHollowWorldWarrior3_d9888841 (line 42526)
 translate ru TheHollowWorldWarrior3_d9888841:
     # s "What is going on?"
-    s ""
+    s "What is going on?"
 
 # TheHollowWorldWarrior3_739c2c1a (line 42527)
 translate ru TheHollowWorldWarrior3_739c2c1a:
@@ -146,12 +146,12 @@ translate ru TheHollowWorldWarrior3_739c2c1a:
 # TheHollowWorldWarrior3_dd12d336 (line 42528)
 translate ru TheHollowWorldWarrior3_dd12d336:
     # vae "Good, you're here."
-    vae ""
+    vae "Good, you're here."
 
 # TheHollowWorldWarrior3_6ae539dd (line 42529)
 translate ru TheHollowWorldWarrior3_6ae539dd:
     # vae "We have a problem."
-    vae ""
+    vae "We have a problem."
 
 # TheHollowWorldWarrior3_1df53e50 (line 42530)
 translate ru TheHollowWorldWarrior3_1df53e50:
@@ -166,7 +166,7 @@ translate ru TheHollowWorldWarrior3_c0456e82:
 # TheHollowWorldWarrior3_2269dac2 (line 42532)
 translate ru TheHollowWorldWarrior3_2269dac2:
     # s "The road..."
-    s ""
+    s "The road..."
 
 # TheHollowWorldWarrior3_810aae76 (line 42533)
 translate ru TheHollowWorldWarrior3_810aae76:
@@ -196,22 +196,22 @@ translate ru TheHollowWorldWarrior3_fe54383b:
 # TheHollowWorldWarrior3_d57ed000 (line 42538)
 translate ru TheHollowWorldWarrior3_d57ed000:
     # s "I'll order the men to begin preparations."
-    s ""
+    s "I'll order the men to begin preparations."
 
 # TheHollowWorldWarrior3_3c0150bf (line 42539)
 translate ru TheHollowWorldWarrior3_3c0150bf:
     # s "Our supplies will last us the way back and we can hope there remains anything to re-stock in Bagrad."
-    s ""
+    s "Our supplies will last us the way back and we can hope there remains anything to re-stock in Bagrad."
 
 # TheHollowWorldWarrior3_633e1378 (line 42540)
 translate ru TheHollowWorldWarrior3_633e1378:
     # s "Otherwise, we'll have to ration beyond that point, I think the nearest city we can expect to restock is-"
-    s ""
+    s "Otherwise, we'll have to ration beyond that point, I think the nearest city we can expect to restock is-"
 
 # TheHollowWorldWarrior3_ed576e9c (line 42541)
 translate ru TheHollowWorldWarrior3_ed576e9c:
     # vae "NO!"
-    vae ""
+    vae "NO!"
 
 # TheHollowWorldWarrior3_93de4300 (line 42542)
 translate ru TheHollowWorldWarrior3_93de4300:
@@ -221,7 +221,7 @@ translate ru TheHollowWorldWarrior3_93de4300:
 # TheHollowWorldWarrior3_313319cd (line 42543)
 translate ru TheHollowWorldWarrior3_313319cd:
     # vae "We do not turn around."
-    vae ""
+    vae "We do not turn around."
 
 # TheHollowWorldWarrior3_1da5c841 (line 42544)
 translate ru TheHollowWorldWarrior3_1da5c841:
@@ -231,7 +231,7 @@ translate ru TheHollowWorldWarrior3_1da5c841:
 # TheHollowWorldWarrior3_84bdcd33 (line 42545)
 translate ru TheHollowWorldWarrior3_84bdcd33:
     # s "Are you mad?"
-    s ""
+    s "Are you mad?"
 
 # TheHollowWorldWarrior3_4145520d (line 42546)
 translate ru TheHollowWorldWarrior3_4145520d:
@@ -241,12 +241,12 @@ translate ru TheHollowWorldWarrior3_4145520d:
 # TheHollowWorldWarrior3_caf55f6f (line 42547)
 translate ru TheHollowWorldWarrior3_caf55f6f:
     # s "There is no road."
-    s ""
+    s "There is no road."
 
 # TheHollowWorldWarrior3_073a5dcb (line 42548)
 translate ru TheHollowWorldWarrior3_073a5dcb:
     # s "The wagons will sink into the sand, the men won't be able to walk even a quarter of a regular day's march."
-    s ""
+    s "The wagons will sink into the sand, the men won't be able to walk even a quarter of a regular day's march."
 
 # TheHollowWorldWarrior3_165592af (line 42549)
 translate ru TheHollowWorldWarrior3_165592af:
@@ -256,7 +256,7 @@ translate ru TheHollowWorldWarrior3_165592af:
 # TheHollowWorldWarrior3_66c4d559 (line 42550)
 translate ru TheHollowWorldWarrior3_66c4d559:
     # vae "I didn't ask you to come here and tell me how this is impossible. I need you to tell me how it is possible."
-    vae ""
+    vae "I didn't ask you to come here and tell me how this is impossible. I need you to tell me how it is possible."
 
 # TheHollowWorldWarrior3_737f5142 (line 42551)
 translate ru TheHollowWorldWarrior3_737f5142:
@@ -281,7 +281,7 @@ translate ru TheHollowWorldWarrior3_d49cbfe7:
 # TheHollowWorldWarrior3_734d40ec (line 42558)
 translate ru TheHollowWorldWarrior3_734d40ec:
     # g "Having trouble, are we?"
-    g ""
+    g "Having trouble, are we?"
 
 # TheHollowWorldWarrior3_2dd84618 (line 42559)
 translate ru TheHollowWorldWarrior3_2dd84618:
@@ -296,7 +296,7 @@ translate ru TheHollowWorldWarrior3_89d114af:
 # TheHollowWorldWarrior3_d743b08e (line 42561)
 translate ru TheHollowWorldWarrior3_d743b08e:
     # s "Yes, in fact, we are."
-    s ""
+    s "Yes, in fact, we are."
 
 # TheHollowWorldWarrior3_1e0ba0f0 (line 42562)
 translate ru TheHollowWorldWarrior3_1e0ba0f0:
@@ -306,7 +306,7 @@ translate ru TheHollowWorldWarrior3_1e0ba0f0:
 # TheHollowWorldWarrior3_ef7bd4f7 (line 42563)
 translate ru TheHollowWorldWarrior3_ef7bd4f7:
     # s "You need to speak sense to him, he won't listen to me."
-    s ""
+    s "You need to speak sense to him, he won't listen to me."
 
 # TheHollowWorldWarrior3_d2673232 (line 42564)
 translate ru TheHollowWorldWarrior3_d2673232:
@@ -316,7 +316,7 @@ translate ru TheHollowWorldWarrior3_d2673232:
 # TheHollowWorldWarrior3_5b13e3ad (line 42565)
 translate ru TheHollowWorldWarrior3_5b13e3ad:
     # g "Well, Vaelen, you know my usual advice is to just listen to Sarah."
-    g ""
+    g "Well, Vaelen, you know my usual advice is to just listen to Sarah."
 
 # TheHollowWorldWarrior3_2b7c1524 (line 42566)
 translate ru TheHollowWorldWarrior3_2b7c1524:
@@ -326,7 +326,7 @@ translate ru TheHollowWorldWarrior3_2b7c1524:
 # TheHollowWorldWarrior3_b2bdcf6c (line 42567)
 translate ru TheHollowWorldWarrior3_b2bdcf6c:
     # g "She can be a pain, but at least she'll give you the truth."
-    g ""
+    g "She can be a pain, but at least she'll give you the truth."
 
 # TheHollowWorldWarrior3_d2c83271 (line 42568)
 translate ru TheHollowWorldWarrior3_d2c83271:
@@ -336,22 +336,22 @@ translate ru TheHollowWorldWarrior3_d2c83271:
 # TheHollowWorldWarrior3_c3b350f3 (line 42569)
 translate ru TheHollowWorldWarrior3_c3b350f3:
     # vae "I didn't invite her to tell me the truth, nor did I invite you here to gang up with her."
-    vae ""
+    vae "I didn't invite her to tell me the truth, nor did I invite you here to gang up with her."
 
 # TheHollowWorldWarrior3_5c19f8da (line 42570)
 translate ru TheHollowWorldWarrior3_5c19f8da:
     # vae "Sarah is in charge of the vanguard unit and you manage the core."
-    vae ""
+    vae "Sarah is in charge of the vanguard unit and you manage the core."
 
 # TheHollowWorldWarrior3_5417b579 (line 42571)
 translate ru TheHollowWorldWarrior3_5417b579:
     # vae "Together, you oversee more than half of the entire army."
-    vae ""
+    vae "Together, you oversee more than half of the entire army."
 
 # TheHollowWorldWarrior3_3c36fee4 (line 42572)
 translate ru TheHollowWorldWarrior3_3c36fee4:
     # vae "I invited you here because together you know better than anyone what our capabilities are, and what our options are."
-    vae ""
+    vae "I invited you here because together you know better than anyone what our capabilities are, and what our options are."
 
 # TheHollowWorldWarrior3_b3c5d794 (line 42573)
 translate ru TheHollowWorldWarrior3_b3c5d794:
@@ -361,27 +361,27 @@ translate ru TheHollowWorldWarrior3_b3c5d794:
 # TheHollowWorldWarrior3_8be5f067 (line 42574)
 translate ru TheHollowWorldWarrior3_8be5f067:
     # g "Options?"
-    g ""
+    g "Options?"
 
 # TheHollowWorldWarrior3_04c14784 (line 42575)
 translate ru TheHollowWorldWarrior3_04c14784:
     # s "He wants to keep marching further into the desert."
-    s ""
+    s "He wants to keep marching further into the desert."
 
 # TheHollowWorldWarrior3_de85e0f2 (line 42576)
 translate ru TheHollowWorldWarrior3_de85e0f2:
     # g "But the road stops here."
-    g ""
+    g "But the road stops here."
 
 # TheHollowWorldWarrior3_ef3c6911 (line 42577)
 translate ru TheHollowWorldWarrior3_ef3c6911:
     # s "Exactly."
-    s ""
+    s "Exactly."
 
 # TheHollowWorldWarrior3_0bcc50be (line 42578)
 translate ru TheHollowWorldWarrior3_0bcc50be:
     # s "But he won't listen to reason. Maybe he's been out in the sun for too long."
-    s ""
+    s "But he won't listen to reason. Maybe he's been out in the sun for too long."
 
 # TheHollowWorldWarrior3_1a8f82bd (line 42579)
 translate ru TheHollowWorldWarrior3_1a8f82bd:
@@ -391,17 +391,17 @@ translate ru TheHollowWorldWarrior3_1a8f82bd:
 # TheHollowWorldWarrior3_16f65307 (line 42580)
 translate ru TheHollowWorldWarrior3_16f65307:
     # vae "Go ahead, say whatever you want, but let me make this clear."
-    vae ""
+    vae "Go ahead, say whatever you want, but let me make this clear."
 
 # TheHollowWorldWarrior3_9156ea22 (line 42581)
 translate ru TheHollowWorldWarrior3_9156ea22:
     # vae "We are going to march on towards our destination, and the two of you will figure out the best way for the army to continue."
-    vae ""
+    vae "We are going to march on towards our destination, and the two of you will figure out the best way for the army to continue."
 
 # TheHollowWorldWarrior3_c17f9fea (line 42582)
 translate ru TheHollowWorldWarrior3_c17f9fea:
     # vae "Should you fail to find me an answer, I'll whip them into the desert naked if I have to."
-    vae ""
+    vae "Should you fail to find me an answer, I'll whip them into the desert naked if I have to."
 
 # TheHollowWorldWarrior3_c9cee56a (line 42583)
 translate ru TheHollowWorldWarrior3_c9cee56a:
@@ -411,7 +411,7 @@ translate ru TheHollowWorldWarrior3_c9cee56a:
 # TheHollowWorldWarrior3_ab1b50f7 (line 42584)
 translate ru TheHollowWorldWarrior3_ab1b50f7:
     # vae "Bring me a report when you're done, and don't make it more than an hour."
-    vae ""
+    vae "Bring me a report when you're done, and don't make it more than an hour."
 
 # TheHollowWorldWarrior3_dc105f31 (line 42585)
 translate ru TheHollowWorldWarrior3_dc105f31:
@@ -426,7 +426,7 @@ translate ru TheHollowWorldWarrior3_f2f013a3:
 # TheHollowWorldWarrior3_ee50d38d (line 42588)
 translate ru TheHollowWorldWarrior3_ee50d38d:
     # s "Gideon...you know Vaelen, you know how he gets...but something is wrong with him."
-    s ""
+    s "Gideon...you know Vaelen, you know how he gets...but something is wrong with him."
 
 # TheHollowWorldWarrior3_325d78de (line 42589)
 translate ru TheHollowWorldWarrior3_325d78de:
@@ -436,12 +436,12 @@ translate ru TheHollowWorldWarrior3_325d78de:
 # TheHollowWorldWarrior3_4ba2b54c (line 42590)
 translate ru TheHollowWorldWarrior3_4ba2b54c:
     # g "I don't think you're wrong about that...but he's still the boss."
-    g ""
+    g "I don't think you're wrong about that...but he's still the boss."
 
 # TheHollowWorldWarrior3_3869a69d (line 42591)
 translate ru TheHollowWorldWarrior3_3869a69d:
     # s "But we're his advisors. Isn't it our job to keep him from making a mistake like this?"
-    s ""
+    s "But we're his advisors. Isn't it our job to keep him from making a mistake like this?"
 
 # TheHollowWorldWarrior3_81f53303 (line 42592)
 translate ru TheHollowWorldWarrior3_81f53303:
@@ -451,12 +451,12 @@ translate ru TheHollowWorldWarrior3_81f53303:
 # TheHollowWorldWarrior3_b7299bf2 (line 42593)
 translate ru TheHollowWorldWarrior3_b7299bf2:
     # g "Sure, but only if he's actually willing to listen to reason."
-    g ""
+    g "Sure, but only if he's actually willing to listen to reason."
 
 # TheHollowWorldWarrior3_8b375423 (line 42594)
 translate ru TheHollowWorldWarrior3_8b375423:
     # g "If he's going to order the army to march into the desert regardless...best we can do is limit the pain."
-    g ""
+    g "If he's going to order the army to march into the desert regardless...best we can do is limit the pain."
 
 # TheHollowWorldWarrior3_248f3d06 (line 42595)
 translate ru TheHollowWorldWarrior3_248f3d06:
@@ -466,22 +466,22 @@ translate ru TheHollowWorldWarrior3_248f3d06:
 # TheHollowWorldWarrior3_cb887093 (line 42596)
 translate ru TheHollowWorldWarrior3_cb887093:
     # s "Limit the pain..."
-    s ""
+    s "Limit the pain..."
 
 # TheHollowWorldWarrior3_de3df835 (line 42597)
 translate ru TheHollowWorldWarrior3_de3df835:
     # s "We march our men into that desert, there is no telling how many will die."
-    s ""
+    s "We march our men into that desert, there is no telling how many will die."
 
 # TheHollowWorldWarrior3_1e292e72 (line 42598)
 translate ru TheHollowWorldWarrior3_1e292e72:
     # s "We'll make no progress at all, on foot we can't bring most of our supplies, and that's even assuming our destination has supplies to support us."
-    s ""
+    s "We'll make no progress at all, on foot we can't bring most of our supplies, and that's even assuming our destination has supplies to support us."
 
 # TheHollowWorldWarrior3_32fa7f66 (line 42599)
 translate ru TheHollowWorldWarrior3_32fa7f66:
     # s "If we cross that desert and there is nothing on the other side..."
-    s ""
+    s "If we cross that desert and there is nothing on the other side..."
 
 # TheHollowWorldWarrior3_9abfaf09 (line 42600)
 translate ru TheHollowWorldWarrior3_9abfaf09:
@@ -491,7 +491,7 @@ translate ru TheHollowWorldWarrior3_9abfaf09:
 # TheHollowWorldWarrior3_2cc1e3f9 (line 42601)
 translate ru TheHollowWorldWarrior3_2cc1e3f9:
     # g "We're fucked, yeah, that much is true."
-    g ""
+    g "We're fucked, yeah, that much is true."
 
 # TheHollowWorldWarrior3_ba8a2ba3 (line 42602)
 translate ru TheHollowWorldWarrior3_ba8a2ba3:
@@ -531,7 +531,7 @@ translate ru TheHollowWorldWarrior3_b3a6423a:
 # TheHollowWorldWarrior3_aa0802d8 (line 42609)
 translate ru TheHollowWorldWarrior3_aa0802d8:
     # s "So, any ideas, cause the only one I see is suicide, and I'm not about to suggest that."
-    s ""
+    s "So, any ideas, cause the only one I see is suicide, and I'm not about to suggest that."
 
 # TheHollowWorldWarrior3_5833e126 (line 42610)
 translate ru TheHollowWorldWarrior3_5833e126:
@@ -541,7 +541,7 @@ translate ru TheHollowWorldWarrior3_5833e126:
 # TheHollowWorldWarrior3_d83ce326 (line 42611)
 translate ru TheHollowWorldWarrior3_d83ce326:
     # g "True, but we can't go and tell him to fuck off either."
-    g ""
+    g "True, but we can't go and tell him to fuck off either."
 
 # TheHollowWorldWarrior3_2787fff1 (line 42612)
 translate ru TheHollowWorldWarrior3_2787fff1:
@@ -551,7 +551,7 @@ translate ru TheHollowWorldWarrior3_2787fff1:
 # TheHollowWorldWarrior3_bcfb9b7f (line 42613)
 translate ru TheHollowWorldWarrior3_bcfb9b7f:
     # g "So what if we convince him to call it off himself?"
-    g ""
+    g "So what if we convince him to call it off himself?"
 
 # TheHollowWorldWarrior3_5b1b9e5e (line 42614)
 translate ru TheHollowWorldWarrior3_5b1b9e5e:
@@ -561,12 +561,12 @@ translate ru TheHollowWorldWarrior3_5b1b9e5e:
 # TheHollowWorldWarrior3_377c7d4f (line 42615)
 translate ru TheHollowWorldWarrior3_377c7d4f:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # TheHollowWorldWarrior3_eee606b0 (line 42616)
 translate ru TheHollowWorldWarrior3_eee606b0:
     # g "Well, what if we go back to him with a plan, a real enough plan that makes it sound like we actually thought it over, but simultaneously a bad plan."
-    g ""
+    g "Well, what if we go back to him with a plan, a real enough plan that makes it sound like we actually thought it over, but simultaneously a bad plan."
 
 # TheHollowWorldWarrior3_19b1d4b3 (line 42617)
 translate ru TheHollowWorldWarrior3_19b1d4b3:
@@ -576,17 +576,17 @@ translate ru TheHollowWorldWarrior3_19b1d4b3:
 # TheHollowWorldWarrior3_84e14390 (line 42618)
 translate ru TheHollowWorldWarrior3_84e14390:
     # s "We give him an option, but it's so fucked he'll draw his own conclusions."
-    s ""
+    s "We give him an option, but it's so fucked he'll draw his own conclusions."
 
 # TheHollowWorldWarrior3_040bd6e9 (line 42619)
 translate ru TheHollowWorldWarrior3_040bd6e9:
     # g "Exactly."
-    g ""
+    g "Exactly."
 
 # TheHollowWorldWarrior3_5b27ef5d (line 42620)
 translate ru TheHollowWorldWarrior3_5b27ef5d:
     # g "He's happy we actually did our jobs, we're happy we won't be marching to death in a desert."
-    g ""
+    g "He's happy we actually did our jobs, we're happy we won't be marching to death in a desert."
 
 # TheHollowWorldWarrior3_e9d266f9 (line 42621)
 translate ru TheHollowWorldWarrior3_e9d266f9:
@@ -616,7 +616,7 @@ translate ru TheHollowWorldWarrior3_b76b27ef:
 # TheHollowWorldWarrior3_1d686097 (line 42635)
 translate ru TheHollowWorldWarrior3_1d686097:
     # vae "Have you found me the answer I'm looking for?"
-    vae ""
+    vae "Have you found me the answer I'm looking for?"
 
 # TheHollowWorldWarrior3_0fe89975 (line 42636)
 translate ru TheHollowWorldWarrior3_0fe89975:
@@ -626,7 +626,7 @@ translate ru TheHollowWorldWarrior3_0fe89975:
 # TheHollowWorldWarrior3_81f0c88d (line 42637)
 translate ru TheHollowWorldWarrior3_81f0c88d:
     # s "Yes, we have."
-    s ""
+    s "Yes, we have."
 
 # TheHollowWorldWarrior3_e13b317e (line 42638)
 translate ru TheHollowWorldWarrior3_e13b317e:
@@ -636,7 +636,7 @@ translate ru TheHollowWorldWarrior3_e13b317e:
 # TheHollowWorldWarrior3_720d6e51 (line 42639)
 translate ru TheHollowWorldWarrior3_720d6e51:
     # vae "Well, out with it then."
-    vae ""
+    vae "Well, out with it then."
 
 # TheHollowWorldWarrior3_85abbbf0 (line 42640)
 translate ru TheHollowWorldWarrior3_85abbbf0:
@@ -646,12 +646,12 @@ translate ru TheHollowWorldWarrior3_85abbbf0:
 # TheHollowWorldWarrior3_ed9a1b62 (line 42641)
 translate ru TheHollowWorldWarrior3_ed9a1b62:
     # s "With the condition of the road going forward, our wagons will simply be inoperable."
-    s ""
+    s "With the condition of the road going forward, our wagons will simply be inoperable."
 
 # TheHollowWorldWarrior3_4d8ff0af (line 42642)
 translate ru TheHollowWorldWarrior3_4d8ff0af:
     # s "The alternative would be to proceed on foot, but this would mean leaving behind the majority of our supplies."
-    s ""
+    s "The alternative would be to proceed on foot, but this would mean leaving behind the majority of our supplies."
 
 # TheHollowWorldWarrior3_4219b1cd (line 42643)
 translate ru TheHollowWorldWarrior3_4219b1cd:
@@ -661,32 +661,32 @@ translate ru TheHollowWorldWarrior3_4219b1cd:
 # TheHollowWorldWarrior3_bc666beb (line 42644)
 translate ru TheHollowWorldWarrior3_bc666beb:
     # s "The only viable option would be to break the wheels on some of the wagons and re-build them with a sort of sled-like construction."
-    s ""
+    s "The only viable option would be to break the wheels on some of the wagons and re-build them with a sort of sled-like construction."
 
 # TheHollowWorldWarrior3_01ec3023 (line 42645)
 translate ru TheHollowWorldWarrior3_01ec3023:
     # s "This will allow them to be pulled across the sand."
-    s ""
+    s "This will allow them to be pulled across the sand."
 
 # TheHollowWorldWarrior3_84cd722e (line 42646)
 translate ru TheHollowWorldWarrior3_84cd722e:
     # s "However, our horses are barely suited for the road as it is, and they won't serve us much further into the desert."
-    s ""
+    s "However, our horses are barely suited for the road as it is, and they won't serve us much further into the desert."
 
 # TheHollowWorldWarrior3_8575702d (line 42647)
 translate ru TheHollowWorldWarrior3_8575702d:
     # s "This means that soldiers will have to pull the converted wagons, and we don't have enough soldiers to bring all the wagons."
-    s ""
+    s "This means that soldiers will have to pull the converted wagons, and we don't have enough soldiers to bring all the wagons."
 
 # TheHollowWorldWarrior3_0fe00e5b (line 42648)
 translate ru TheHollowWorldWarrior3_0fe00e5b:
     # s "And so that will mean still having to abandon close to eighty-percent of our current wagons."
-    s ""
+    s "And so that will mean still having to abandon close to eighty-percent of our current wagons."
 
 # TheHollowWorldWarrior3_7343520f (line 42649)
 translate ru TheHollowWorldWarrior3_7343520f:
     # s "We will have to prioritize wagons containing water and food, so in essence...we would have to abandon nearly all war loot from Bagrad."
-    s ""
+    s "We will have to prioritize wagons containing water and food, so in essence...we would have to abandon nearly all war loot from Bagrad."
 
 # TheHollowWorldWarrior3_14b0fdf0 (line 42650)
 translate ru TheHollowWorldWarrior3_14b0fdf0:
@@ -706,12 +706,12 @@ translate ru TheHollowWorldWarrior3_1ed71693:
 # TheHollowWorldWarrior3_90f981f6 (line 42653)
 translate ru TheHollowWorldWarrior3_90f981f6:
     # vae "Very well."
-    vae ""
+    vae "Very well."
 
 # TheHollowWorldWarrior3_d2e00628 (line 42654)
 translate ru TheHollowWorldWarrior3_d2e00628:
     # vae "I'll draft the orders right away. We need to be moving before nightfall, I want us to make up for lost time."
-    vae ""
+    vae "I'll draft the orders right away. We need to be moving before nightfall, I want us to make up for lost time."
 
 # TheHollowWorldWarrior3_89bf7f05 (line 42655)
 translate ru TheHollowWorldWarrior3_89bf7f05:
@@ -736,22 +736,22 @@ translate ru TheHollowWorldWarrior3_61b770f7:
 # TheHollowWorldWarrior3_65e8fa71 (line 42659)
 translate ru TheHollowWorldWarrior3_65e8fa71:
     # g "Sir, you understand that-"
-    g ""
+    g "Sir, you understand that-"
 
 # TheHollowWorldWarrior3_80dd6056 (line 42660)
 translate ru TheHollowWorldWarrior3_80dd6056:
     # vae "I do. I understand the demands I am making, and that they will not be easy."
-    vae ""
+    vae "I do. I understand the demands I am making, and that they will not be easy."
 
 # TheHollowWorldWarrior3_fabd2e89 (line 42661)
 translate ru TheHollowWorldWarrior3_fabd2e89:
     # g "Sir, this goes beyond that."
-    g ""
+    g "Sir, this goes beyond that."
 
 # TheHollowWorldWarrior3_d65aa431 (line 42662)
 translate ru TheHollowWorldWarrior3_d65aa431:
     # g "If we ask the men to abandon their loot..."
-    g ""
+    g "If we ask the men to abandon their loot..."
 
 # TheHollowWorldWarrior3_ac03456e (line 42663)
 translate ru TheHollowWorldWarrior3_ac03456e:
@@ -761,7 +761,7 @@ translate ru TheHollowWorldWarrior3_ac03456e:
 # TheHollowWorldWarrior3_ab08567f (line 42664)
 translate ru TheHollowWorldWarrior3_ab08567f:
     # vae "I will sign the order, in my name. There won't be a soldier in the camp that will disobey such a direct order."
-    vae ""
+    vae "I will sign the order, in my name. There won't be a soldier in the camp that will disobey such a direct order."
 
 # TheHollowWorldWarrior3_201b0b91 (line 42665)
 translate ru TheHollowWorldWarrior3_201b0b91:
@@ -776,12 +776,12 @@ translate ru TheHollowWorldWarrior3_4e8b7b9e:
 # TheHollowWorldWarrior3_7c84636c (line 42667)
 translate ru TheHollowWorldWarrior3_7c84636c:
     # vae "Go, make the preparations."
-    vae ""
+    vae "Go, make the preparations."
 
 # TheHollowWorldWarrior3_f6dd2185 (line 42668)
 translate ru TheHollowWorldWarrior3_f6dd2185:
     # vae "Get this convoy moving. You find anyone objecting, feel free to have them whipped."
-    vae ""
+    vae "Get this convoy moving. You find anyone objecting, feel free to have them whipped."
 
 # TheHollowWorldWarrior3_7ef6be36 (line 42669)
 translate ru TheHollowWorldWarrior3_7ef6be36:
@@ -796,17 +796,17 @@ translate ru TheHollowWorldWarrior3_ac0d21cc:
 # TheHollowWorldWarrior3_8f5aec48 (line 42680)
 translate ru TheHollowWorldWarrior3_8f5aec48:
     # s "This is insane. We can't go through with this."
-    s ""
+    s "This is insane. We can't go through with this."
 
 # TheHollowWorldWarrior3_229ea467 (line 42681)
 translate ru TheHollowWorldWarrior3_229ea467:
     # g "I agree, but we don't have a choice. He's going to go through with this no matter what."
-    g ""
+    g "I agree, but we don't have a choice. He's going to go through with this no matter what."
 
 # TheHollowWorldWarrior3_4c8770ee (line 42682)
 translate ru TheHollowWorldWarrior3_4c8770ee:
     # s "So what then? We just march our men into certain death?"
-    s ""
+    s "So what then? We just march our men into certain death?"
 
 # TheHollowWorldWarrior3_541a5b7f (line 42683)
 translate ru TheHollowWorldWarrior3_541a5b7f:
@@ -816,7 +816,7 @@ translate ru TheHollowWorldWarrior3_541a5b7f:
 # TheHollowWorldWarrior3_669bae28 (line 42684)
 translate ru TheHollowWorldWarrior3_669bae28:
     # g "We've done all we can in terms of talking sense into him. If he won't listen, I don't know what else there is left to do."
-    g ""
+    g "We've done all we can in terms of talking sense into him. If he won't listen, I don't know what else there is left to do."
 
 # TheHollowWorldWarrior3_d29210cc (line 42685)
 translate ru TheHollowWorldWarrior3_d29210cc:
@@ -831,7 +831,7 @@ translate ru TheHollowWorldWarrior3_accd95ed:
 # TheHollowWorldWarrior3_f08b1b09 (line 42687)
 translate ru TheHollowWorldWarrior3_f08b1b09:
     # s "A lot of people are going to die if we do this. Our people, the ones we're supposed to be responsible for."
-    s ""
+    s "A lot of people are going to die if we do this. Our people, the ones we're supposed to be responsible for."
 
 # TheHollowWorldWarrior3_8122e360 (line 42688)
 translate ru TheHollowWorldWarrior3_8122e360:
@@ -841,17 +841,17 @@ translate ru TheHollowWorldWarrior3_8122e360:
 # TheHollowWorldWarrior3_d47a267a (line 42689)
 translate ru TheHollowWorldWarrior3_d47a267a:
     # g "I'm not any happier about this than you."
-    g ""
+    g "I'm not any happier about this than you."
 
 # TheHollowWorldWarrior3_10a27a4d (line 42690)
 translate ru TheHollowWorldWarrior3_10a27a4d:
     # s "And still we press on?"
-    s ""
+    s "And still we press on?"
 
 # TheHollowWorldWarrior3_a393d9a2 (line 42691)
 translate ru TheHollowWorldWarrior3_a393d9a2:
     # g "We...we'll just have to trust that he has a plan. Who knows, maybe it will all work out like it always does."
-    g ""
+    g "We...we'll just have to trust that he has a plan. Who knows, maybe it will all work out like it always does."
 
 # TheHollowWorldWarrior3_3fc7d5f8 (line 42692)
 translate ru TheHollowWorldWarrior3_3fc7d5f8:

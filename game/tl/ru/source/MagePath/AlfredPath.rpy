@@ -31,12 +31,12 @@ translate ru AlfredPath_62f5357a:
 # AlfredPath_af672851 (line 68678)
 translate ru AlfredPath_af672851:
     # s "Alfred..."
-    s ""
+    s "Alfred..."
 
 # AlfredPath_2091d1a7 (line 68679)
 translate ru AlfredPath_2091d1a7:
     # alf "Shhh."
-    alf ""
+    alf "Shhh."
 
 # AlfredPath_9f779a76 (line 68680)
 translate ru AlfredPath_9f779a76:
@@ -51,7 +51,7 @@ translate ru AlfredPath_175ccca5:
 # AlfredPath_f75f8804 (line 68682)
 translate ru AlfredPath_f75f8804:
     # alf "I don't want you to wake my son."
-    alf ""
+    alf "I don't want you to wake my son."
 
 # AlfredPath_454047f5 (line 68683)
 translate ru AlfredPath_454047f5:
@@ -66,7 +66,7 @@ translate ru AlfredPath_5feae63c:
 # AlfredPath_5cdaaa82 (line 68685)
 translate ru AlfredPath_5cdaaa82:
     # alf "I couldn't stop thinking about you."
-    alf ""
+    alf "I couldn't stop thinking about you."
 
 # AlfredPath_ee4d5774 (line 68686)
 translate ru AlfredPath_ee4d5774:
@@ -116,7 +116,7 @@ translate ru AlfredPath_4df70fab:
 # AlfredPath_a0900491 (line 68700)
 translate ru AlfredPath_a0900491:
     # alf "Help me out with this, would you?"
-    alf ""
+    alf "Help me out with this, would you?"
 
 # AlfredPath_4b90e6c5 (line 68701)
 translate ru AlfredPath_4b90e6c5:
@@ -126,17 +126,17 @@ translate ru AlfredPath_4b90e6c5:
 # AlfredPath_7a2c5b65 (line 68702)
 translate ru AlfredPath_7a2c5b65:
     # s "I..."
-    s ""
+    s "I..."
 
 # AlfredPath_432f8fce (line 68703)
 translate ru AlfredPath_432f8fce:
     # alf "Come on. You're the reason I'm like this. The least you can do is solve it for me."
-    alf ""
+    alf "Come on. You're the reason I'm like this. The least you can do is solve it for me."
 
 # AlfredPath_a90292fb (line 68704)
 translate ru AlfredPath_a90292fb:
     # alf "I can't sleep...I keep thinking of you...I need you..."
-    alf ""
+    alf "I can't sleep...I keep thinking of you...I need you..."
 
 # AlfredPath_ee704452 (line 68705)
 translate ru AlfredPath_ee704452:
@@ -231,7 +231,7 @@ translate ru AlfredPath_965851d6:
 # AlfredPath_be333071 (line 68723)
 translate ru AlfredPath_be333071:
     # alf "Aah..."
-    alf ""
+    alf "Aah..."
 
 # AlfredPath_278a641d (line 68724)
 translate ru AlfredPath_278a641d:
@@ -241,7 +241,7 @@ translate ru AlfredPath_278a641d:
 # AlfredPath_5daa32c6 (line 68725)
 translate ru AlfredPath_5daa32c6:
     # alf "Good girl..."
-    alf ""
+    alf "Good girl..."
 
 # AlfredPath_a9145568 (line 68726)
 translate ru AlfredPath_a9145568:
@@ -401,7 +401,7 @@ translate ru AlfredPath_00887e22:
 # AlfredPath_29fcb016 (line 68757)
 translate ru AlfredPath_29fcb016:
     # alf "I'm going to finish..."
-    alf ""
+    alf "I'm going to finish..."
 
 # AlfredPath_89449ed6 (line 68758)
 translate ru AlfredPath_89449ed6:
@@ -411,7 +411,7 @@ translate ru AlfredPath_89449ed6:
 # AlfredPath_097ab38e (line 68759)
 translate ru AlfredPath_097ab38e:
     # alf "Swallow me..."
-    alf ""
+    alf "Swallow me..."
 
 # AlfredPath_eaa05078 (line 68760)
 translate ru AlfredPath_eaa05078:
@@ -421,7 +421,7 @@ translate ru AlfredPath_eaa05078:
 # AlfredPath_97017111 (line 68761)
 translate ru AlfredPath_97017111:
     # s "Uhuh..."
-    s ""
+    s "Uhuh..."
 
 # AlfredPath_7ef9a9ce (line 68762)
 translate ru AlfredPath_7ef9a9ce:
@@ -506,7 +506,7 @@ translate ru AlfredPath_abbf972b:
 # AlfredPath_860fbca8 (line 68778)
 translate ru AlfredPath_860fbca8:
     # alf "Good girl."
-    alf ""
+    alf "Good girl."
 
 # AlfredPath_6fc56eaf (line 68779)
 translate ru AlfredPath_6fc56eaf:
@@ -531,7 +531,7 @@ translate ru AlfredPath_7e997cfe:
 # AlfredPath_117e480e (line 68788)
 translate ru AlfredPath_117e480e:
     # s "Wait..."
-    s ""
+    s "Wait..."
 
 # AlfredPath_5333f2e6 (line 68789)
 translate ru AlfredPath_5333f2e6:
@@ -571,7 +571,7 @@ translate ru AlfredPath_77f5bb07:
 # AlfredPath_f8fa8e7e (line 68796)
 translate ru AlfredPath_f8fa8e7e:
     # s "Fuck..."
-    s ""
+    s "Fuck..."
 
 # AlfredPath_6aa460a8 (line 68797)
 translate ru AlfredPath_6aa460a8:
@@ -696,12 +696,12 @@ translate ru AlfredPath_03a5d859:
 # AlfredPath_c3b80598 (line 68826)
 translate ru AlfredPath_c3b80598:
     # alf "Can't get enough of this old cock, can you?"
-    alf ""
+    alf "Can't get enough of this old cock, can you?"
 
 # AlfredPath_7594f2ae (line 68827)
 translate ru AlfredPath_7594f2ae:
     # s "Shut up..."
-    s ""
+    s "Shut up..."
 
 # AlfredPath_71e5ca5e (line 68828)
 translate ru AlfredPath_71e5ca5e:
@@ -716,12 +716,12 @@ translate ru AlfredPath_375a3c62:
 # AlfredPath_054aa0af (line 68830)
 translate ru AlfredPath_054aa0af:
     # alf "I'm older than your own father."
-    alf ""
+    alf "I'm older than your own father."
 
 # AlfredPath_27485d82 (line 68831)
 translate ru AlfredPath_27485d82:
     # s "Shut up..."
-    s ""
+    s "Shut up..."
 
 # AlfredPath_a99809d6 (line 68832)
 translate ru AlfredPath_a99809d6:
@@ -731,42 +731,42 @@ translate ru AlfredPath_a99809d6:
 # AlfredPath_785e12ee (line 68833)
 translate ru AlfredPath_785e12ee:
     # alf "Look how eager you are, even when I'm not here."
-    alf ""
+    alf "Look how eager you are, even when I'm not here."
 
 # AlfredPath_e089b80e (line 68834)
 translate ru AlfredPath_e089b80e:
     # alf "Slut."
-    alf ""
+    alf "Slut."
 
 # AlfredPath_fcaeea79 (line 68835)
 translate ru AlfredPath_fcaeea79:
     # s "Shut...up..."
-    s ""
+    s "Shut...up..."
 
 # AlfredPath_d36cca6d (line 68836)
 translate ru AlfredPath_d36cca6d:
     # alf "You're gonna let it happen again, and again."
-    alf ""
+    alf "You're gonna let it happen again, and again."
 
 # AlfredPath_5b895e0b (line 68837)
 translate ru AlfredPath_5b895e0b:
     # s "No...never..."
-    s ""
+    s "No...never..."
 
 # AlfredPath_a523eed4 (line 68838)
 translate ru AlfredPath_a523eed4:
     # alf "Because you want it."
-    alf ""
+    alf "Because you want it."
 
 # AlfredPath_ca02befb (line 68839)
 translate ru AlfredPath_ca02befb:
     # s "I...don't..."
-    s ""
+    s "I...don't..."
 
 # AlfredPath_03351694 (line 68840)
 translate ru AlfredPath_03351694:
     # alf "Then why did you scream when you came in the yard?"
-    alf ""
+    alf "Then why did you scream when you came in the yard?"
 
 # AlfredPath_1e40b1d7 (line 68841)
 translate ru AlfredPath_1e40b1d7:
@@ -781,7 +781,7 @@ translate ru AlfredPath_4c689260:
 # AlfredPath_f1f1c7ab (line 68843)
 translate ru AlfredPath_f1f1c7ab:
     # s "Aah!!"
-    s ""
+    s "Aah!!"
 
 # AlfredPath_782a1d4b (line 68844)
 translate ru AlfredPath_782a1d4b:
@@ -791,7 +791,7 @@ translate ru AlfredPath_782a1d4b:
 # AlfredPath_870eaf0e (line 68845)
 translate ru AlfredPath_870eaf0e:
     # s "You're disgusting."
-    s ""
+    s "You're disgusting."
 
 # AlfredPath_536af492 (line 68846)
 translate ru AlfredPath_536af492:
@@ -801,7 +801,7 @@ translate ru AlfredPath_536af492:
 # AlfredPath_14af1a2c (line 68847)
 translate ru AlfredPath_14af1a2c:
     # s "I hate you..."
-    s ""
+    s "I hate you..."
 
 # AlfredPath_b491a2ea (line 68848)
 translate ru AlfredPath_b491a2ea:
@@ -816,7 +816,7 @@ translate ru AlfredPath_0412f090:
 # AlfredPath_54f17c5a (line 68850)
 translate ru AlfredPath_54f17c5a:
     # alf "Stupid slut, giving it up to a man that could be your grandfather, just so you have a place to sleep, a place to stay."
-    alf ""
+    alf "Stupid slut, giving it up to a man that could be your grandfather, just so you have a place to sleep, a place to stay."
 
 # AlfredPath_13e6712b (line 68851)
 translate ru AlfredPath_13e6712b:
@@ -986,7 +986,7 @@ translate ru AlfredPath_0490f67c:
 # AlfredPath_0462b3d7 (line 68895)
 translate ru AlfredPath_0462b3d7:
     # alf "Gods, I thought he'd never leave..."
-    alf ""
+    alf "Gods, I thought he'd never leave..."
 
 # AlfredPath_28ce25d6 (line 68896)
 translate ru AlfredPath_28ce25d6:
@@ -1076,7 +1076,7 @@ translate ru AlfredPath_e67cd583:
 # AlfredPath_2b3003d1 (line 68913)
 translate ru AlfredPath_2b3003d1:
     # s "Aaah!"
-    s ""
+    s "Aaah!"
 
 # AlfredPath_868eef00 (line 68914)
 translate ru AlfredPath_868eef00:
@@ -1121,7 +1121,7 @@ translate ru AlfredPath_6db37a02:
 # AlfredPath_66b7a722 (line 68922)
 translate ru AlfredPath_66b7a722:
     # s "Aaah!"
-    s ""
+    s "Aaah!"
 
 # AlfredPath_f61d2fd0 (line 68923)
 translate ru AlfredPath_f61d2fd0:
@@ -1386,7 +1386,7 @@ translate ru AlfredPath_04520f28:
 # AlfredPath_5108ed5c (line 68975)
 translate ru AlfredPath_5108ed5c:
     # s "Aaah!!"
-    s ""
+    s "Aaah!!"
 
 # AlfredPath_41665a89 (line 68976)
 translate ru AlfredPath_41665a89:
@@ -1416,17 +1416,17 @@ translate ru AlfredPath_0ebbf89a:
 # AlfredPath_250b0bff (line 68981)
 translate ru AlfredPath_250b0bff:
     # s "Aaah!"
-    s ""
+    s "Aaah!"
 
 # AlfredPath_a5b2d618 (line 68982)
 translate ru AlfredPath_a5b2d618:
     # s "Fuck! Aaah!"
-    s ""
+    s "Fuck! Aaah!"
 
 # AlfredPath_fb41a0e5 (line 68983)
 translate ru AlfredPath_fb41a0e5:
     # s "Alfred...aaa!! Fuck!!"
-    s ""
+    s "Alfred...aaa!! Fuck!!"
 
 # AlfredPath_2cf9bd8b (line 68984)
 translate ru AlfredPath_2cf9bd8b:
@@ -1506,7 +1506,7 @@ translate ru AlfredPath_edb1f4f2:
 # AlfredPath_e5e3fd24 (line 68999)
 translate ru AlfredPath_e5e3fd24:
     # s "Aaaaaaaah!! Fuck!!!"
-    s ""
+    s "Aaaaaaaah!! Fuck!!!"
 
 # AlfredPath_3c2282c8 (line 69000)
 translate ru AlfredPath_3c2282c8:
@@ -1576,7 +1576,7 @@ translate ru AlfredPath_eed6a3a0:
 # AlfredPath_a280940a (line 69018)
 translate ru AlfredPath_a280940a:
     # mar "What...what are...what are you..."
-    mar ""
+    mar "What...what are...what are you..."
 
 # AlfredPath_98aac1c7 (line 69019)
 translate ru AlfredPath_98aac1c7:
@@ -1586,7 +1586,7 @@ translate ru AlfredPath_98aac1c7:
 # AlfredPath_196d60f8 (line 69020)
 translate ru AlfredPath_196d60f8:
     # s "Marius! It's not...it's not..."
-    s ""
+    s "Marius! It's not...it's not..."
 
 # AlfredPath_f4dde7bd (line 69021)
 translate ru AlfredPath_f4dde7bd:
@@ -1606,7 +1606,7 @@ translate ru AlfredPath_6ef52576:
 # AlfredPath_2f81fb4e (line 69024)
 translate ru AlfredPath_2f81fb4e:
     # alf "Look, boy..."
-    alf ""
+    alf "Look, boy..."
 
 # AlfredPath_01446123 (line 69025)
 translate ru AlfredPath_01446123:
@@ -1626,32 +1626,32 @@ translate ru AlfredPath_1435ba7a:
 # AlfredPath_0646d16f (line 69028)
 translate ru AlfredPath_0646d16f:
     # alf "I know you're shocked."
-    alf ""
+    alf "I know you're shocked."
 
 # AlfredPath_e502e659 (line 69029)
 translate ru AlfredPath_e502e659:
     # alf "I tells you what, you go out there, finish the work day, and be back again tonight, okay?"
-    alf ""
+    alf "I tells you what, you go out there, finish the work day, and be back again tonight, okay?"
 
 # AlfredPath_d8ffff3a (line 69030)
 translate ru AlfredPath_d8ffff3a:
     # mar "I..."
-    mar ""
+    mar "I..."
 
 # AlfredPath_acd0a8f9 (line 69031)
 translate ru AlfredPath_acd0a8f9:
     # alf "Listen to me, boy. I'm your father and I'm telling you how it's gonna be."
-    alf ""
+    alf "Listen to me, boy. I'm your father and I'm telling you how it's gonna be."
 
 # AlfredPath_427821cc (line 69032)
 translate ru AlfredPath_427821cc:
     # alf "Go out into those fields, work, and clear your head."
-    alf ""
+    alf "Go out into those fields, work, and clear your head."
 
 # AlfredPath_a7c4b31e (line 69033)
 translate ru AlfredPath_a7c4b31e:
     # alf "We'll talk about this tonight."
-    alf ""
+    alf "We'll talk about this tonight."
 
 # AlfredPath_5db694ab (line 69034)
 translate ru AlfredPath_5db694ab:
@@ -1686,7 +1686,7 @@ translate ru AlfredPath_790582ef:
 # AlfredPath_ca2bfaf5 (line 69045)
 translate ru AlfredPath_ca2bfaf5:
     # s "Fuck...fuck...fuck..."
-    s ""
+    s "Fuck...fuck...fuck..."
 
 # AlfredPath_0811906c (line 69046)
 translate ru AlfredPath_0811906c:
@@ -1696,7 +1696,7 @@ translate ru AlfredPath_0811906c:
 # AlfredPath_1023c226 (line 69047)
 translate ru AlfredPath_1023c226:
     # s "What are we gonna do?!"
-    s ""
+    s "What are we gonna do?!"
 
 # AlfredPath_65d1247e (line 69048)
 translate ru AlfredPath_65d1247e:
@@ -1711,7 +1711,7 @@ translate ru AlfredPath_0df262c3:
 # AlfredPath_cd664b17 (line 69050)
 translate ru AlfredPath_cd664b17:
     # alf "Listen, girly. It ain't gonna be a problem, okay?"
-    alf ""
+    alf "Listen, girly. It ain't gonna be a problem, okay?"
 
 # AlfredPath_10ebab1d (line 69051)
 translate ru AlfredPath_10ebab1d:
@@ -1736,17 +1736,17 @@ translate ru AlfredPath_6e1e4094:
 # AlfredPath_33d141e0 (line 69055)
 translate ru AlfredPath_33d141e0:
     # alf "I know you're worried."
-    alf ""
+    alf "I know you're worried."
 
 # AlfredPath_b80e7fa4 (line 69056)
 translate ru AlfredPath_b80e7fa4:
     # alf "But I know my boy, okay?"
-    alf ""
+    alf "But I know my boy, okay?"
 
 # AlfredPath_491fd8f5 (line 69057)
 translate ru AlfredPath_491fd8f5:
     # alf "He'll need a bit of talking to, but he'll come to understand."
-    alf ""
+    alf "He'll need a bit of talking to, but he'll come to understand."
 
 # AlfredPath_73984813 (line 69058)
 translate ru AlfredPath_73984813:
@@ -1756,22 +1756,22 @@ translate ru AlfredPath_73984813:
 # AlfredPath_8283cdab (line 69059)
 translate ru AlfredPath_8283cdab:
     # s "But he's going to be angry!"
-    s ""
+    s "But he's going to be angry!"
 
 # AlfredPath_c3d2b8bc (line 69060)
 translate ru AlfredPath_c3d2b8bc:
     # alf "Of course he is."
-    alf ""
+    alf "Of course he is."
 
 # AlfredPath_147ea358 (line 69061)
 translate ru AlfredPath_147ea358:
     # alf "He's a young buck, he'll shout and scream and thrash about. But he bark more than he bite, okay?"
-    alf ""
+    alf "He's a young buck, he'll shout and scream and thrash about. But he bark more than he bite, okay?"
 
 # AlfredPath_de95e2ff (line 69062)
 translate ru AlfredPath_de95e2ff:
     # alf "Come here."
-    alf ""
+    alf "Come here."
 
 # AlfredPath_20467acb (line 69063)
 translate ru AlfredPath_20467acb:
@@ -1796,7 +1796,7 @@ translate ru AlfredPath_bd7316d9:
 # AlfredPath_ed8ecc88 (line 69067)
 translate ru AlfredPath_ed8ecc88:
     # s "Why are you smiling? This is a huge problem..."
-    s ""
+    s "Why are you smiling? This is a huge problem..."
 
 # AlfredPath_8797fb7b (line 69068)
 translate ru AlfredPath_8797fb7b:
@@ -1806,7 +1806,7 @@ translate ru AlfredPath_8797fb7b:
 # AlfredPath_3dcf2fc8 (line 69069)
 translate ru AlfredPath_3dcf2fc8:
     # alf "A man my age can only be so angry when he's just finished fucking a girl like you."
-    alf ""
+    alf "A man my age can only be so angry when he's just finished fucking a girl like you."
 
 # AlfredPath_db593473 (line 69070)
 translate ru AlfredPath_db593473:
@@ -1816,27 +1816,27 @@ translate ru AlfredPath_db593473:
 # AlfredPath_4b1332cd (line 69071)
 translate ru AlfredPath_4b1332cd:
     # s "Come on, be serious!"
-    s ""
+    s "Come on, be serious!"
 
 # AlfredPath_4d470a39 (line 69072)
 translate ru AlfredPath_4d470a39:
     # alf "I am."
-    alf ""
+    alf "I am."
 
 # AlfredPath_49294e88 (line 69073)
 translate ru AlfredPath_49294e88:
     # alf "Trust me. My boy will get over it. I'll sort him out."
-    alf ""
+    alf "Trust me. My boy will get over it. I'll sort him out."
 
 # AlfredPath_a7de4ec5 (line 69074)
 translate ru AlfredPath_a7de4ec5:
     # alf "You don't go about breaking your head over trouble like that, okay?"
-    alf ""
+    alf "You don't go about breaking your head over trouble like that, okay?"
 
 # AlfredPath_64b5f3b1 (line 69075)
 translate ru AlfredPath_64b5f3b1:
     # alf "I promise. I'll make everything okay."
-    alf ""
+    alf "I promise. I'll make everything okay."
 
 # AlfredPath_3a390a45 (line 69076)
 translate ru AlfredPath_3a390a45:
@@ -1846,7 +1846,7 @@ translate ru AlfredPath_3a390a45:
 # AlfredPath_7fdeb532 (line 69077)
 translate ru AlfredPath_7fdeb532:
     # s "So...now what do we do?"
-    s ""
+    s "So...now what do we do?"
 
 # AlfredPath_a55b9274 (line 69078)
 translate ru AlfredPath_a55b9274:
@@ -1856,7 +1856,7 @@ translate ru AlfredPath_a55b9274:
 # AlfredPath_e2b5485b (line 69079)
 translate ru AlfredPath_e2b5485b:
     # alf "Laundry is a good place to start. Those clothes got dirt on the floor, and we got a pile more."
-    alf ""
+    alf "Laundry is a good place to start. Those clothes got dirt on the floor, and we got a pile more."
 
 # AlfredPath_1bfab165 (line 69080)
 translate ru AlfredPath_1bfab165:
@@ -1866,7 +1866,7 @@ translate ru AlfredPath_1bfab165:
 # AlfredPath_b244e5e4 (line 69081)
 translate ru AlfredPath_b244e5e4:
     # s "This is my only outfit. What am I gonna wear if it's drying out?"
-    s ""
+    s "This is my only outfit. What am I gonna wear if it's drying out?"
 
 # AlfredPath_ede3bdae (line 69082)
 translate ru AlfredPath_ede3bdae:
@@ -1876,7 +1876,7 @@ translate ru AlfredPath_ede3bdae:
 # AlfredPath_7d2111b6 (line 69083)
 translate ru AlfredPath_7d2111b6:
     # alf "Well now, that will be a sight to see."
-    alf ""
+    alf "Well now, that will be a sight to see."
 
 # AlfredPath_c5667a1e (line 69084)
 translate ru AlfredPath_c5667a1e:
@@ -1966,7 +1966,7 @@ translate ru AlfredPath_1fef26fa:
 # AlfredPath_18ad7c8b (line 69102)
 translate ru AlfredPath_18ad7c8b:
     # s "He's coming."
-    s ""
+    s "He's coming."
 
 # AlfredPath_9b482f63 (line 69103)
 translate ru AlfredPath_9b482f63:
@@ -2016,7 +2016,7 @@ translate ru AlfredPath_4e6bd9a9:
 # AlfredPath_90f62c6d (line 69112)
 translate ru AlfredPath_90f62c6d:
     # alf "You're home."
-    alf ""
+    alf "You're home."
 
 # AlfredPath_14051a51 (line 69113)
 translate ru AlfredPath_14051a51:
@@ -2026,7 +2026,7 @@ translate ru AlfredPath_14051a51:
 # AlfredPath_043c9239 (line 69119)
 translate ru AlfredPath_043c9239:
     # alf "Take a seat. Sarah is making dinner."
-    alf ""
+    alf "Take a seat. Sarah is making dinner."
 
 # AlfredPath_eff98c24 (line 69120)
 translate ru AlfredPath_eff98c24:
@@ -2036,7 +2036,7 @@ translate ru AlfredPath_eff98c24:
 # AlfredPath_e04287f8 (line 69121)
 translate ru AlfredPath_e04287f8:
     # mar "I'll take my dinner in the yard."
-    mar ""
+    mar "I'll take my dinner in the yard."
 
 # AlfredPath_ed58a6db (line 69122)
 translate ru AlfredPath_ed58a6db:
@@ -2046,17 +2046,17 @@ translate ru AlfredPath_ed58a6db:
 # AlfredPath_c3ddff35 (line 69123)
 translate ru AlfredPath_c3ddff35:
     # alf "No, you won't."
-    alf ""
+    alf "No, you won't."
 
 # AlfredPath_e3e71464 (line 69124)
 translate ru AlfredPath_e3e71464:
     # alf "Now listen to me, boy, I said we'd talk and I meant it."
-    alf ""
+    alf "Now listen to me, boy, I said we'd talk and I meant it."
 
 # AlfredPath_c07beab8 (line 69125)
 translate ru AlfredPath_c07beab8:
     # alf "We got some things to get square, so sit your ass down in that chair."
-    alf ""
+    alf "We got some things to get square, so sit your ass down in that chair."
 
 # AlfredPath_8be6714f (line 69126)
 translate ru AlfredPath_8be6714f:
@@ -2091,12 +2091,12 @@ translate ru AlfredPath_2246f615:
 # AlfredPath_c581ae7e (line 69132)
 translate ru AlfredPath_c581ae7e:
     # mar "What is there to talk?"
-    mar ""
+    mar "What is there to talk?"
 
 # AlfredPath_7dbb4192 (line 69133)
 translate ru AlfredPath_7dbb4192:
     # mar "The both of you came up with some lie? You can't convince me that I didn't see what I saw."
-    mar ""
+    mar "The both of you came up with some lie? You can't convince me that I didn't see what I saw."
 
 # AlfredPath_fab49e5b (line 69134)
 translate ru AlfredPath_fab49e5b:
@@ -2111,7 +2111,7 @@ translate ru AlfredPath_f0ef6ca2:
 # AlfredPath_730492ae (line 69136)
 translate ru AlfredPath_730492ae:
     # alf "Sarah, dinner please."
-    alf ""
+    alf "Sarah, dinner please."
 
 # AlfredPath_4eee21ce (line 69137)
 translate ru AlfredPath_4eee21ce:
@@ -2136,7 +2136,7 @@ translate ru AlfredPath_c5e4fbcd:
 # AlfredPath_845dc15d (line 69141)
 translate ru AlfredPath_845dc15d:
     # alf "Good, now listen..."
-    alf ""
+    alf "Good, now listen..."
 
 # AlfredPath_957e2c95 (line 69142)
 translate ru AlfredPath_957e2c95:
@@ -2146,7 +2146,7 @@ translate ru AlfredPath_957e2c95:
 # AlfredPath_8db9ddb2 (line 69143)
 translate ru AlfredPath_8db9ddb2:
     # alf "You're not wrong about what you saw."
-    alf ""
+    alf "You're not wrong about what you saw."
 
 # AlfredPath_150f7e8f (line 69144)
 translate ru AlfredPath_150f7e8f:
@@ -2156,7 +2156,7 @@ translate ru AlfredPath_150f7e8f:
 # AlfredPath_f4e3b913 (line 69145)
 translate ru AlfredPath_f4e3b913:
     # alf "Sarah and I, we have been together ever since she first came here."
-    alf ""
+    alf "Sarah and I, we have been together ever since she first came here."
 
 # AlfredPath_b299337a (line 69146)
 translate ru AlfredPath_b299337a:
@@ -2166,12 +2166,12 @@ translate ru AlfredPath_b299337a:
 # AlfredPath_e21dbecd (line 69147)
 translate ru AlfredPath_e21dbecd:
     # mar "All this time you've been lying to my face?!"
-    mar ""
+    mar "All this time you've been lying to my face?!"
 
 # AlfredPath_e4b6f0e4 (line 69148)
 translate ru AlfredPath_e4b6f0e4:
     # alf "Watch your tone with me, boy!"
-    alf ""
+    alf "Watch your tone with me, boy!"
 
 # AlfredPath_e61c5239 (line 69154)
 translate ru AlfredPath_e61c5239:
@@ -2191,12 +2191,12 @@ translate ru AlfredPath_19939b05:
 # AlfredPath_1fb083b6 (line 69157)
 translate ru AlfredPath_1fb083b6:
     # alf "Now, as I was saying, Sarah and I have been together."
-    alf ""
+    alf "Now, as I was saying, Sarah and I have been together."
 
 # AlfredPath_ec8d0998 (line 69158)
 translate ru AlfredPath_ec8d0998:
     # alf "It started when we were talking late at night, about your mother, and what her loss meant to me."
-    alf ""
+    alf "It started when we were talking late at night, about your mother, and what her loss meant to me."
 
 # AlfredPath_bf45e999 (line 69159)
 translate ru AlfredPath_bf45e999:
@@ -2206,7 +2206,7 @@ translate ru AlfredPath_bf45e999:
 # AlfredPath_86a99828 (line 69160)
 translate ru AlfredPath_86a99828:
     # alf "You know how much the loss of your mother hurt me."
-    alf ""
+    alf "You know how much the loss of your mother hurt me."
 
 # AlfredPath_35d9b3cd (line 69161)
 translate ru AlfredPath_35d9b3cd:
@@ -2216,12 +2216,12 @@ translate ru AlfredPath_35d9b3cd:
 # AlfredPath_2ab62d64 (line 69162)
 translate ru AlfredPath_2ab62d64:
     # alf "Well, one thing led to another, and before we knew it, we had ended up in bed together."
-    alf ""
+    alf "Well, one thing led to another, and before we knew it, we had ended up in bed together."
 
 # AlfredPath_97fb7d75 (line 69163)
 translate ru AlfredPath_97fb7d75:
     # alf "I know, it wasn't proper of me, but it happened before I could think better of it."
-    alf ""
+    alf "I know, it wasn't proper of me, but it happened before I could think better of it."
 
 # AlfredPath_1353cd46 (line 69164)
 translate ru AlfredPath_1353cd46:
@@ -2231,12 +2231,12 @@ translate ru AlfredPath_1353cd46:
 # AlfredPath_64420bf2 (line 69165)
 translate ru AlfredPath_64420bf2:
     # alf "After that, we wanted to tell you, but we were trying to find the proper words for it."
-    alf ""
+    alf "After that, we wanted to tell you, but we were trying to find the proper words for it."
 
 # AlfredPath_f3a1777a (line 69166)
 translate ru AlfredPath_f3a1777a:
     # alf "We wanted to plan a wedding, make it official."
-    alf ""
+    alf "We wanted to plan a wedding, make it official."
 
 # AlfredPath_f82ae64b (line 69167)
 translate ru AlfredPath_f82ae64b:
@@ -2271,17 +2271,17 @@ translate ru AlfredPath_ca86d905:
 # AlfredPath_812d8fdc (line 69173)
 translate ru AlfredPath_812d8fdc:
     # mar "Marriage?!"
-    mar ""
+    mar "Marriage?!"
 
 # AlfredPath_e0e4646b (line 69174)
 translate ru AlfredPath_e0e4646b:
     # mar "Father! You know that I have been searching for someone to take as a wife for years!"
-    mar ""
+    mar "Father! You know that I have been searching for someone to take as a wife for years!"
 
 # AlfredPath_81c1c484 (line 69175)
 translate ru AlfredPath_81c1c484:
     # mar "Then, just as she appears as if by fate, you...you...defile her!"
-    mar ""
+    mar "Then, just as she appears as if by fate, you...you...defile her!"
 
 # AlfredPath_861c1b53 (line 69176)
 translate ru AlfredPath_861c1b53:
@@ -2291,7 +2291,7 @@ translate ru AlfredPath_861c1b53:
 # AlfredPath_7a619d5a (line 69177)
 translate ru AlfredPath_7a619d5a:
     # s "Defile?!"
-    s ""
+    s "Defile?!"
 
 # AlfredPath_5670c582 (line 69183)
 translate ru AlfredPath_5670c582:
@@ -2306,17 +2306,17 @@ translate ru AlfredPath_cdded9a7:
 # AlfredPath_26783ac2 (line 69185)
 translate ru AlfredPath_26783ac2:
     # s "I am a woman, all my own!"
-    s ""
+    s "I am a woman, all my own!"
 
 # AlfredPath_0d67a58b (line 69186)
 translate ru AlfredPath_0d67a58b:
     # mar "I...of course...I understand but-"
-    mar ""
+    mar "I...of course...I understand but-"
 
 # AlfredPath_a252d1f2 (line 69187)
 translate ru AlfredPath_a252d1f2:
     # s "You understand nothing!"
-    s ""
+    s "You understand nothing!"
 
 # AlfredPath_7a0067f9 (line 69188)
 translate ru AlfredPath_7a0067f9:
@@ -2331,22 +2331,22 @@ translate ru AlfredPath_cb3aab66:
 # AlfredPath_ef8a48bb (line 69190)
 translate ru AlfredPath_ef8a48bb:
     # s "You think that because you came across me by the side of the road, that I am your property?"
-    s ""
+    s "You think that because you came across me by the side of the road, that I am your property?"
 
 # AlfredPath_0d7a994e (line 69191)
 translate ru AlfredPath_0d7a994e:
     # mar "No! I would never..."
-    mar ""
+    mar "No! I would never..."
 
 # AlfredPath_281da343 (line 69192)
 translate ru AlfredPath_281da343:
     # s "What then?!"
-    s ""
+    s "What then?!"
 
 # AlfredPath_07fba489 (line 69193)
 translate ru AlfredPath_07fba489:
     # s "What obligation to you have I violated?"
-    s ""
+    s "What obligation to you have I violated?"
 
 # AlfredPath_0a94926d (line 69194)
 translate ru AlfredPath_0a94926d:
@@ -2356,7 +2356,7 @@ translate ru AlfredPath_0a94926d:
 # AlfredPath_ad4d3b67 (line 69195)
 translate ru AlfredPath_ad4d3b67:
     # s "Your father and I..."
-    s ""
+    s "Your father and I..."
 
 # AlfredPath_8166e6c2 (line 69196)
 translate ru AlfredPath_8166e6c2:
@@ -2366,12 +2366,12 @@ translate ru AlfredPath_8166e6c2:
 # AlfredPath_2cd5176c (line 69197)
 translate ru AlfredPath_2cd5176c:
     # s "It...it happened as he said. We began talking on the first night."
-    s ""
+    s "It...it happened as he said. We began talking on the first night."
 
 # AlfredPath_469a87bd (line 69198)
 translate ru AlfredPath_469a87bd:
     # s "And the more we talked, the closer we grew, and then we...laid together."
-    s ""
+    s "And the more we talked, the closer we grew, and then we...laid together."
 
 # AlfredPath_6db5d367 (line 69199)
 translate ru AlfredPath_6db5d367:
@@ -2386,7 +2386,7 @@ translate ru AlfredPath_20ef4c6c:
 # AlfredPath_13215213 (line 69201)
 translate ru AlfredPath_13215213:
     # s "Now...I...I love...I love your father..."
-    s ""
+    s "Now...I...I love...I love your father..."
 
 # AlfredPath_6deb8cd5 (line 69202)
 translate ru AlfredPath_6deb8cd5:
@@ -2401,22 +2401,22 @@ translate ru AlfredPath_6fa99817:
 # AlfredPath_39fe51c0 (line 69204)
 translate ru AlfredPath_39fe51c0:
     # s "I understand that this is hard for you...for the ideas you had...or hoped could be..."
-    s ""
+    s "I understand that this is hard for you...for the ideas you had...or hoped could be..."
 
 # AlfredPath_c70d395b (line 69205)
 translate ru AlfredPath_c70d395b:
     # s "But this is the truth."
-    s ""
+    s "But this is the truth."
 
 # AlfredPath_e1bb4c7f (line 69206)
 translate ru AlfredPath_e1bb4c7f:
     # s "Your father and I...we are in love, and we will marry and that will be the end of it."
-    s ""
+    s "Your father and I...we are in love, and we will marry and that will be the end of it."
 
 # AlfredPath_802190d5 (line 69207)
 translate ru AlfredPath_802190d5:
     # mar "But...you're..."
-    mar ""
+    mar "But...you're..."
 
 # AlfredPath_ce9be170 (line 69208)
 translate ru AlfredPath_ce9be170:
@@ -2426,17 +2426,17 @@ translate ru AlfredPath_ce9be170:
 # AlfredPath_ea0326d1 (line 69209)
 translate ru AlfredPath_ea0326d1:
     # alf "What? Too old?"
-    alf ""
+    alf "What? Too old?"
 
 # AlfredPath_ba31237a (line 69210)
 translate ru AlfredPath_ba31237a:
     # alf "I know, we make an odd pair, but between us, there is real love."
-    alf ""
+    alf "I know, we make an odd pair, but between us, there is real love."
 
 # AlfredPath_cb53684e (line 69211)
 translate ru AlfredPath_cb53684e:
     # alf "And isn't that all that matters?"
-    alf ""
+    alf "And isn't that all that matters?"
 
 # AlfredPath_b47bedc1 (line 69212)
 translate ru AlfredPath_b47bedc1:
@@ -2446,22 +2446,22 @@ translate ru AlfredPath_b47bedc1:
 # AlfredPath_14c03d40 (line 69213)
 translate ru AlfredPath_14c03d40:
     # alf "Now, son. I can understand your anger, and even forgive you for speaking out of turn or raising your voice."
-    alf ""
+    alf "Now, son. I can understand your anger, and even forgive you for speaking out of turn or raising your voice."
 
 # AlfredPath_bc6860ae (line 69214)
 translate ru AlfredPath_bc6860ae:
     # alf "But I will not let you cast a dark cloud over this house."
-    alf ""
+    alf "But I will not let you cast a dark cloud over this house."
 
 # AlfredPath_debd3fbf (line 69215)
 translate ru AlfredPath_debd3fbf:
     # alf "So I ask you here and now to bury your grief."
-    alf ""
+    alf "So I ask you here and now to bury your grief."
 
 # AlfredPath_f309a848 (line 69216)
 translate ru AlfredPath_f309a848:
     # alf "And if you cannot bring yourself to move past this, then I want you to get up and leave this house now."
-    alf ""
+    alf "And if you cannot bring yourself to move past this, then I want you to get up and leave this house now."
 
 # AlfredPath_cfb567d9 (line 69217)
 translate ru AlfredPath_cfb567d9:
@@ -2471,12 +2471,12 @@ translate ru AlfredPath_cfb567d9:
 # AlfredPath_2c28019e (line 69218)
 translate ru AlfredPath_2c28019e:
     # mar "You...will throw me out?"
-    mar ""
+    mar "You...will throw me out?"
 
 # AlfredPath_3918a96f (line 69219)
 translate ru AlfredPath_3918a96f:
     # mar "After all that I have done to keep this place running?!"
-    mar ""
+    mar "After all that I have done to keep this place running?!"
 
 # AlfredPath_ba9efba5 (line 69220)
 translate ru AlfredPath_ba9efba5:
@@ -2486,22 +2486,22 @@ translate ru AlfredPath_ba9efba5:
 # AlfredPath_5d8ef67e (line 69221)
 translate ru AlfredPath_5d8ef67e:
     # alf "No."
-    alf ""
+    alf "No."
 
 # AlfredPath_e5acf07f (line 69222)
 translate ru AlfredPath_e5acf07f:
     # alf "You can stay. But you cannot poison our new marriage by walking about the house in constant resentment."
-    alf ""
+    alf "You can stay. But you cannot poison our new marriage by walking about the house in constant resentment."
 
 # AlfredPath_f4db5e30 (line 69223)
 translate ru AlfredPath_f4db5e30:
     # alf "If you stay, you must learn to live with it."
-    alf ""
+    alf "If you stay, you must learn to live with it."
 
 # AlfredPath_c4f58b45 (line 69224)
 translate ru AlfredPath_c4f58b45:
     # alf "Understood?"
-    alf ""
+    alf "Understood?"
 
 # AlfredPath_fb0eb24d (line 69225)
 translate ru AlfredPath_fb0eb24d:
@@ -2531,17 +2531,17 @@ translate ru AlfredPath_341ed122:
 # AlfredPath_557fd60f (line 69230)
 translate ru AlfredPath_557fd60f:
     # mar "Yes..."
-    mar ""
+    mar "Yes..."
 
 # AlfredPath_fed658ae (line 69231)
 translate ru AlfredPath_fed658ae:
     # alf "Yes, what?"
-    alf ""
+    alf "Yes, what?"
 
 # AlfredPath_17f27ee5 (line 69232)
 translate ru AlfredPath_17f27ee5:
     # mar "Yes...sir...I will...learn to live with it."
-    mar ""
+    mar "Yes...sir...I will...learn to live with it."
 
 # AlfredPath_32d36573 (line 69233)
 translate ru AlfredPath_32d36573:
@@ -2551,7 +2551,7 @@ translate ru AlfredPath_32d36573:
 # AlfredPath_e6e6a6de (line 69234)
 translate ru AlfredPath_e6e6a6de:
     # alf "Good boy."
-    alf ""
+    alf "Good boy."
 
 # AlfredPath_d71ed791 (line 69235)
 translate ru AlfredPath_d71ed791:
@@ -2561,7 +2561,7 @@ translate ru AlfredPath_d71ed791:
 # AlfredPath_56697917 (line 69236)
 translate ru AlfredPath_56697917:
     # mar "I...will sleep out in the barn tonight...I...need some space..."
-    mar ""
+    mar "I...will sleep out in the barn tonight...I...need some space..."
 
 # AlfredPath_8de7fdad (line 69237)
 translate ru AlfredPath_8de7fdad:
@@ -2571,7 +2571,7 @@ translate ru AlfredPath_8de7fdad:
 # AlfredPath_7da62188 (line 69238)
 translate ru AlfredPath_7da62188:
     # alf "I understand, take some time, my boy."
-    alf ""
+    alf "I understand, take some time, my boy."
 
 # AlfredPath_b8f7110f (line 69239)
 translate ru AlfredPath_b8f7110f:
@@ -2586,12 +2586,12 @@ translate ru AlfredPath_d90ca463:
 # AlfredPath_6b43afb2 (line 69246)
 translate ru AlfredPath_6b43afb2:
     # s "He..."
-    s ""
+    s "He..."
 
 # AlfredPath_1f04961c (line 69247)
 translate ru AlfredPath_1f04961c:
     # s "He didn't get violent."
-    s ""
+    s "He didn't get violent."
 
 # AlfredPath_93f05133 (line 69248)
 translate ru AlfredPath_93f05133:
@@ -2601,17 +2601,17 @@ translate ru AlfredPath_93f05133:
 # AlfredPath_ff33da21 (line 69249)
 translate ru AlfredPath_ff33da21:
     # alf "I told you. I know my boy."
-    alf ""
+    alf "I told you. I know my boy."
 
 # AlfredPath_fbf0d206 (line 69250)
 translate ru AlfredPath_fbf0d206:
     # alf "He's build like an ox, but he's soft on the inside."
-    alf ""
+    alf "He's build like an ox, but he's soft on the inside."
 
 # AlfredPath_199c9f02 (line 69251)
 translate ru AlfredPath_199c9f02:
     # alf "Got that from his mother, I imagine."
-    alf ""
+    alf "Got that from his mother, I imagine."
 
 # AlfredPath_44ea771c (line 69252)
 translate ru AlfredPath_44ea771c:
@@ -2651,17 +2651,17 @@ translate ru AlfredPath_c255108c:
 # AlfredPath_d2eacc9e (line 69259)
 translate ru AlfredPath_d2eacc9e:
     # alf "What?"
-    alf ""
+    alf "What?"
 
 # AlfredPath_dbb003c9 (line 69260)
 translate ru AlfredPath_dbb003c9:
     # s "Nothing."
-    s ""
+    s "Nothing."
 
 # AlfredPath_974a6763 (line 69261)
 translate ru AlfredPath_974a6763:
     # alf "Then why are you staring."
-    alf ""
+    alf "Then why are you staring."
 
 # AlfredPath_8021d397 (line 69262)
 translate ru AlfredPath_8021d397:
@@ -2671,12 +2671,12 @@ translate ru AlfredPath_8021d397:
 # AlfredPath_b6019766 (line 69263)
 translate ru AlfredPath_b6019766:
     # s "It's about what you said..."
-    s ""
+    s "It's about what you said..."
 
 # AlfredPath_6bac5c8b (line 69264)
 translate ru AlfredPath_6bac5c8b:
     # alf "What? How we met? Well, I had to massage the truth a little bit."
-    alf ""
+    alf "What? How we met? Well, I had to massage the truth a little bit."
 
 # AlfredPath_6a0c6dc2 (line 69265)
 translate ru AlfredPath_6a0c6dc2:
@@ -2686,17 +2686,17 @@ translate ru AlfredPath_6a0c6dc2:
 # AlfredPath_22fecc68 (line 69266)
 translate ru AlfredPath_22fecc68:
     # s "No, not that..."
-    s ""
+    s "No, not that..."
 
 # AlfredPath_19ca5a92 (line 69267)
 translate ru AlfredPath_19ca5a92:
     # s "The thing about...marriage."
-    s ""
+    s "The thing about...marriage."
 
 # AlfredPath_b5102331 (line 69268)
 translate ru AlfredPath_b5102331:
     # alf "Oh..."
-    alf ""
+    alf "Oh..."
 
 # AlfredPath_12b19ed8 (line 69269)
 translate ru AlfredPath_12b19ed8:
@@ -2706,7 +2706,7 @@ translate ru AlfredPath_12b19ed8:
 # AlfredPath_2fde63a8 (line 69270)
 translate ru AlfredPath_2fde63a8:
     # alf "Did I surprise you with that?"
-    alf ""
+    alf "Did I surprise you with that?"
 
 # AlfredPath_5bd3dd7e (line 69271)
 translate ru AlfredPath_5bd3dd7e:
@@ -2716,17 +2716,17 @@ translate ru AlfredPath_5bd3dd7e:
 # AlfredPath_e47b42ba (line 69272)
 translate ru AlfredPath_e47b42ba:
     # alf "I had been thinking of it, these last few days."
-    alf ""
+    alf "I had been thinking of it, these last few days."
 
 # AlfredPath_f5c6f6d4 (line 69273)
 translate ru AlfredPath_f5c6f6d4:
     # alf "I am not the man I used to be. And honestly, I had given up believing there was much more for me to do but wait and die."
-    alf ""
+    alf "I am not the man I used to be. And honestly, I had given up believing there was much more for me to do but wait and die."
 
 # AlfredPath_1978bcaf (line 69274)
 translate ru AlfredPath_1978bcaf:
     # alf "But you..."
-    alf ""
+    alf "But you..."
 
 # AlfredPath_46169439 (line 69275)
 translate ru AlfredPath_46169439:
@@ -2736,7 +2736,7 @@ translate ru AlfredPath_46169439:
 # AlfredPath_0ffbdab1 (line 69276)
 translate ru AlfredPath_0ffbdab1:
     # alf "You have made me feel like I'm young again."
-    alf ""
+    alf "You have made me feel like I'm young again."
 
 # AlfredPath_3dd2a11c (line 69277)
 translate ru AlfredPath_3dd2a11c:
@@ -2746,7 +2746,7 @@ translate ru AlfredPath_3dd2a11c:
 # AlfredPath_34099fc0 (line 69278)
 translate ru AlfredPath_34099fc0:
     # s "I won't lie..."
-    s ""
+    s "I won't lie..."
 
 # AlfredPath_56d86bc2 (line 69279)
 translate ru AlfredPath_56d86bc2:
@@ -2756,17 +2756,17 @@ translate ru AlfredPath_56d86bc2:
 # AlfredPath_f723d42a (line 69280)
 translate ru AlfredPath_f723d42a:
     # s "You and me...we have found each other through strange circumstances."
-    s ""
+    s "You and me...we have found each other through strange circumstances."
 
 # AlfredPath_494ebceb (line 69281)
 translate ru AlfredPath_494ebceb:
     # s "And you were not the man that I dreamed of marrying."
-    s ""
+    s "And you were not the man that I dreamed of marrying."
 
 # AlfredPath_4ffd8edb (line 69282)
 translate ru AlfredPath_4ffd8edb:
     # alf "So you reject it?"
-    alf ""
+    alf "So you reject it?"
 
 # AlfredPath_56f26106 (line 69283)
 translate ru AlfredPath_56f26106:
@@ -2776,7 +2776,7 @@ translate ru AlfredPath_56f26106:
 # AlfredPath_0f57fa28 (line 69284)
 translate ru AlfredPath_0f57fa28:
     # s "No...I do not reject the proposal, should you make one."
-    s ""
+    s "No...I do not reject the proposal, should you make one."
 
 # AlfredPath_29433580 (line 69285)
 translate ru AlfredPath_29433580:
@@ -2786,7 +2786,7 @@ translate ru AlfredPath_29433580:
 # AlfredPath_719934b6 (line 69286)
 translate ru AlfredPath_719934b6:
     # s "But...there are conditions."
-    s ""
+    s "But...there are conditions."
 
 # AlfredPath_a1a3a1ba (line 69287)
 translate ru AlfredPath_a1a3a1ba:
@@ -2796,32 +2796,32 @@ translate ru AlfredPath_a1a3a1ba:
 # AlfredPath_c3b1c1cf (line 69288)
 translate ru AlfredPath_c3b1c1cf:
     # alf "Conditions? Like what?"
-    alf ""
+    alf "Conditions? Like what?"
 
 # AlfredPath_5edb34ed (line 69289)
 translate ru AlfredPath_5edb34ed:
     # s "I..."
-    s ""
+    s "I..."
 
 # AlfredPath_eb01a1bf (line 69290)
 translate ru AlfredPath_eb01a1bf:
     # s "I've been on the run for a while now."
-    s ""
+    s "I've been on the run for a while now."
 
 # AlfredPath_230ec3aa (line 69291)
 translate ru AlfredPath_230ec3aa:
     # s "And I'm tired. More tired than you can begin to imagine."
-    s ""
+    s "And I'm tired. More tired than you can begin to imagine."
 
 # AlfredPath_3da218b4 (line 69292)
 translate ru AlfredPath_3da218b4:
     # s "I want to start a new life. That's why I came here."
-    s ""
+    s "I want to start a new life. That's why I came here."
 
 # AlfredPath_bed86bbf (line 69293)
 translate ru AlfredPath_bed86bbf:
     # s "And I want to feel safe again. Gods, I want to feel safe."
-    s ""
+    s "And I want to feel safe again. Gods, I want to feel safe."
 
 # AlfredPath_e28c0f33 (line 69294)
 translate ru AlfredPath_e28c0f33:
@@ -2831,12 +2831,12 @@ translate ru AlfredPath_e28c0f33:
 # AlfredPath_74e3f55a (line 69295)
 translate ru AlfredPath_74e3f55a:
     # s "So...my demands are the following."
-    s ""
+    s "So...my demands are the following."
 
 # AlfredPath_f1e50a0a (line 69296)
 translate ru AlfredPath_f1e50a0a:
     # s "We won't ever speak of my life before I came here. That chapter of my life is dead and gone."
-    s ""
+    s "We won't ever speak of my life before I came here. That chapter of my life is dead and gone."
 
 # AlfredPath_f1726be5 (line 69297)
 translate ru AlfredPath_f1726be5:
@@ -2846,7 +2846,7 @@ translate ru AlfredPath_f1726be5:
 # AlfredPath_2813a793 (line 69298)
 translate ru AlfredPath_2813a793:
     # alf "That's fair. Any other?"
-    alf ""
+    alf "That's fair. Any other?"
 
 # AlfredPath_e3a764bc (line 69299)
 translate ru AlfredPath_e3a764bc:
@@ -2856,17 +2856,17 @@ translate ru AlfredPath_e3a764bc:
 # AlfredPath_f97b67ab (line 69300)
 translate ru AlfredPath_f97b67ab:
     # s "Yes...I want...need...safety. Security."
-    s ""
+    s "Yes...I want...need...safety. Security."
 
 # AlfredPath_cac35ab3 (line 69301)
 translate ru AlfredPath_cac35ab3:
     # s "You are older than me. A lot older. We don't have to pretend otherwise."
-    s ""
+    s "You are older than me. A lot older. We don't have to pretend otherwise."
 
 # AlfredPath_6fd85c11 (line 69302)
 translate ru AlfredPath_6fd85c11:
     # s "Even if you remain in good health, you will die long before me."
-    s ""
+    s "Even if you remain in good health, you will die long before me."
 
 # AlfredPath_d8f8866a (line 69303)
 translate ru AlfredPath_d8f8866a:
@@ -2876,22 +2876,22 @@ translate ru AlfredPath_d8f8866a:
 # AlfredPath_12d2e5ff (line 69304)
 translate ru AlfredPath_12d2e5ff:
     # s "I...I cannot live my life, counting down the days until you die and I am once again made homeless."
-    s ""
+    s "I...I cannot live my life, counting down the days until you die and I am once again made homeless."
 
 # AlfredPath_945a7197 (line 69305)
 translate ru AlfredPath_945a7197:
     # s "This house will pass to your son, and while you might think he has forgiven you, I cannot rely only on hope."
-    s ""
+    s "This house will pass to your son, and while you might think he has forgiven you, I cannot rely only on hope."
 
 # AlfredPath_5a765966 (line 69306)
 translate ru AlfredPath_5a765966:
     # s "I need to survive."
-    s ""
+    s "I need to survive."
 
 # AlfredPath_825a10d8 (line 69307)
 translate ru AlfredPath_825a10d8:
     # s "So..."
-    s ""
+    s "So..."
 
 # AlfredPath_2902e106 (line 69308)
 translate ru AlfredPath_2902e106:
@@ -2901,17 +2901,17 @@ translate ru AlfredPath_2902e106:
 # AlfredPath_115afdde (line 69309)
 translate ru AlfredPath_115afdde:
     # s "I want you to grant the deed of the house to me on your passing."
-    s ""
+    s "I want you to grant the deed of the house to me on your passing."
 
 # AlfredPath_e647076a (line 69310)
 translate ru AlfredPath_e647076a:
     # s "That way, no matter what, I will be safe."
-    s ""
+    s "That way, no matter what, I will be safe."
 
 # AlfredPath_f2d3dbe6 (line 69311)
 translate ru AlfredPath_f2d3dbe6:
     # s "I will always have a home."
-    s ""
+    s "I will always have a home."
 
 # AlfredPath_bfc772f3 (line 69312)
 translate ru AlfredPath_bfc772f3:
@@ -2926,7 +2926,7 @@ translate ru AlfredPath_b987bf64:
 # AlfredPath_70ebe3e1 (line 69314)
 translate ru AlfredPath_70ebe3e1:
     # alf "Smart girl."
-    alf ""
+    alf "Smart girl."
 
 # AlfredPath_02cb50f3 (line 69315)
 translate ru AlfredPath_02cb50f3:
@@ -2941,17 +2941,17 @@ translate ru AlfredPath_eb4f11ee:
 # AlfredPath_47e303da (line 69317)
 translate ru AlfredPath_47e303da:
     # alf "This house and this land is all I own."
-    alf ""
+    alf "This house and this land is all I own."
 
 # AlfredPath_37cbec17 (line 69318)
 translate ru AlfredPath_37cbec17:
     # alf "And you want to rob my only son of his inheritance?"
-    alf ""
+    alf "And you want to rob my only son of his inheritance?"
 
 # AlfredPath_7e2685a7 (line 69319)
 translate ru AlfredPath_7e2685a7:
     # alf "You've got a nice cunt, but there's a lot of whores that sell theirs for less."
-    alf ""
+    alf "You've got a nice cunt, but there's a lot of whores that sell theirs for less."
 
 # AlfredPath_e967cef2 (line 69320)
 translate ru AlfredPath_e967cef2:
@@ -2966,22 +2966,22 @@ translate ru AlfredPath_04b3a89a:
 # AlfredPath_8e4e0a8c (line 69322)
 translate ru AlfredPath_8e4e0a8c:
     # s "Marius is your only son."
-    s ""
+    s "Marius is your only son."
 
 # AlfredPath_0d12876c (line 69323)
 translate ru AlfredPath_0d12876c:
     # s "But tonight, we both saw what kind of a man he is."
-    s ""
+    s "But tonight, we both saw what kind of a man he is."
 
 # AlfredPath_4c61dc62 (line 69324)
 translate ru AlfredPath_4c61dc62:
     # s "If you leave him this land, it will only be a matter of years before someone cons him out of it."
-    s ""
+    s "If you leave him this land, it will only be a matter of years before someone cons him out of it."
 
 # AlfredPath_55b3eabf (line 69325)
 translate ru AlfredPath_55b3eabf:
     # s "He has a good heart, but he's weak. Soft, like you said."
-    s ""
+    s "He has a good heart, but he's weak. Soft, like you said."
 
 # AlfredPath_2a93906c (line 69326)
 translate ru AlfredPath_2a93906c:
@@ -2991,12 +2991,12 @@ translate ru AlfredPath_2a93906c:
 # AlfredPath_7584294d (line 69327)
 translate ru AlfredPath_7584294d:
     # alf "Perhaps you're right, but it should be his to squander."
-    alf ""
+    alf "Perhaps you're right, but it should be his to squander."
 
 # AlfredPath_63c79957 (line 69328)
 translate ru AlfredPath_63c79957:
     # alf "To leave my only child without an inheritance? You're asking too much."
-    alf ""
+    alf "To leave my only child without an inheritance? You're asking too much."
 
 # AlfredPath_839a25dd (line 69329)
 translate ru AlfredPath_839a25dd:
@@ -3011,7 +3011,7 @@ translate ru AlfredPath_7dd5e263:
 # AlfredPath_0a92a4ec (line 69331)
 translate ru AlfredPath_0a92a4ec:
     # s "Why need he be your only child?"
-    s ""
+    s "Why need he be your only child?"
 
 # AlfredPath_06e0722a (line 69332)
 translate ru AlfredPath_06e0722a:
@@ -3021,12 +3021,12 @@ translate ru AlfredPath_06e0722a:
 # AlfredPath_8e673cc7 (line 69333)
 translate ru AlfredPath_8e673cc7:
     # alf "What do you mean? He is..."
-    alf ""
+    alf "What do you mean? He is..."
 
 # AlfredPath_b1bcd246 (line 69334)
 translate ru AlfredPath_b1bcd246:
     # alf "Oh..."
-    alf ""
+    alf "Oh..."
 
 # AlfredPath_65c56d5e (line 69335)
 translate ru AlfredPath_65c56d5e:
@@ -3036,12 +3036,12 @@ translate ru AlfredPath_65c56d5e:
 # AlfredPath_93a53dea (line 69336)
 translate ru AlfredPath_93a53dea:
     # alf "I see."
-    alf ""
+    alf "I see."
 
 # AlfredPath_bb63eabd (line 69337)
 translate ru AlfredPath_bb63eabd:
     # alf "You're a very clever girl, Sarah."
-    alf ""
+    alf "You're a very clever girl, Sarah."
 
 # AlfredPath_62100713 (line 69338)
 translate ru AlfredPath_62100713:
@@ -3066,7 +3066,7 @@ translate ru AlfredPath_81d15c77:
 # AlfredPath_0617b3af (line 69342)
 translate ru AlfredPath_0617b3af:
     # alf "But who is to say that I could get you pregnant? I'm an old man as you said."
-    alf ""
+    alf "But who is to say that I could get you pregnant? I'm an old man as you said."
 
 # AlfredPath_fab70008 (line 69343)
 translate ru AlfredPath_fab70008:
@@ -3081,12 +3081,12 @@ translate ru AlfredPath_4199ec81:
 # AlfredPath_a2d8461b (line 69345)
 translate ru AlfredPath_a2d8461b:
     # s "Well, I suspect you're virile enough."
-    s ""
+    s "Well, I suspect you're virile enough."
 
 # AlfredPath_5d562a65 (line 69346)
 translate ru AlfredPath_5d562a65:
     # s "And if it takes a little longer than with a younger man, I suppose we could simply try more frequently."
-    s ""
+    s "And if it takes a little longer than with a younger man, I suppose we could simply try more frequently."
 
 # AlfredPath_78b9496e (line 69347)
 translate ru AlfredPath_78b9496e:
@@ -3096,7 +3096,7 @@ translate ru AlfredPath_78b9496e:
 # AlfredPath_5eb7256d (line 69348)
 translate ru AlfredPath_5eb7256d:
     # alf "How can any man say no to this?"
-    alf ""
+    alf "How can any man say no to this?"
 
 # AlfredPath_f31a672f (line 69349)
 translate ru AlfredPath_f31a672f:
@@ -3106,22 +3106,22 @@ translate ru AlfredPath_f31a672f:
 # AlfredPath_e9740368 (line 69350)
 translate ru AlfredPath_e9740368:
     # alf "Very well then, Sarah."
-    alf ""
+    alf "Very well then, Sarah."
 
 # AlfredPath_003162fa (line 69351)
 translate ru AlfredPath_003162fa:
     # alf "I offer you marriage, and I acknowledge all your demands."
-    alf ""
+    alf "I offer you marriage, and I acknowledge all your demands."
 
 # AlfredPath_7b5e8736 (line 69352)
 translate ru AlfredPath_7b5e8736:
     # alf "From this day forward, I will promise to never speak or ask about your life before you came here."
-    alf ""
+    alf "From this day forward, I will promise to never speak or ask about your life before you came here."
 
 # AlfredPath_0c58d25c (line 69353)
 translate ru AlfredPath_0c58d25c:
     # alf "And the day that we are to be married, I will have a new will drafted, leaving you the sole heir to my house and lands."
-    alf ""
+    alf "And the day that we are to be married, I will have a new will drafted, leaving you the sole heir to my house and lands."
 
 # AlfredPath_5d41cee1 (line 69354)
 translate ru AlfredPath_5d41cee1:
@@ -3131,7 +3131,7 @@ translate ru AlfredPath_5d41cee1:
 # AlfredPath_1edf95ee (line 69355)
 translate ru AlfredPath_1edf95ee:
     # s "And I will vow to be a good and loving wife, eager and forthcoming in all the duties that are to be expected of one."
-    s ""
+    s "And I will vow to be a good and loving wife, eager and forthcoming in all the duties that are to be expected of one."
 
 # AlfredPath_3dc45e75 (line 69356)
 translate ru AlfredPath_3dc45e75:
@@ -3141,7 +3141,7 @@ translate ru AlfredPath_3dc45e75:
 # AlfredPath_c7339f89 (line 69357)
 translate ru AlfredPath_c7339f89:
     # alf "Good, then we have an understanding."
-    alf ""
+    alf "Good, then we have an understanding."
 
 # AlfredPath_2a988680 (line 69358)
 translate ru AlfredPath_2a988680:
@@ -3151,12 +3151,12 @@ translate ru AlfredPath_2a988680:
 # AlfredPath_40f5be5c (line 69359)
 translate ru AlfredPath_40f5be5c:
     # s "What, no rings?"
-    s ""
+    s "What, no rings?"
 
 # AlfredPath_e6b7b3ef (line 69360)
 translate ru AlfredPath_e6b7b3ef:
     # alf "Trust me, I will let the smith craft them as soon as possible."
-    alf ""
+    alf "Trust me, I will let the smith craft them as soon as possible."
 
 # AlfredPath_5efa604a (line 69361)
 translate ru AlfredPath_5efa604a:
@@ -3166,7 +3166,7 @@ translate ru AlfredPath_5efa604a:
 # AlfredPath_568a31ad (line 69362)
 translate ru AlfredPath_568a31ad:
     # alf "Now, would you forgive an impatient fiancé and give him a small advance on his wedding night?"
-    alf ""
+    alf "Now, would you forgive an impatient fiancé and give him a small advance on his wedding night?"
 
 # AlfredPath_3542b651 (line 69368)
 translate ru AlfredPath_3542b651:
@@ -3266,7 +3266,7 @@ translate ru AlfredPath_f985c1f0:
 # AlfredPath_0c5b239a (line 69387)
 translate ru AlfredPath_0c5b239a:
     # alf "Gods, what I've done to deserve a beauty like yours..."
-    alf ""
+    alf "Gods, what I've done to deserve a beauty like yours..."
 
 # AlfredPath_da234e3d (line 69388)
 translate ru AlfredPath_da234e3d:
@@ -3276,7 +3276,7 @@ translate ru AlfredPath_da234e3d:
 # AlfredPath_eceefb96 (line 69389)
 translate ru AlfredPath_eceefb96:
     # s "Your wife."
-    s ""
+    s "Your wife."
 
 # AlfredPath_46d5f34a (line 69390)
 translate ru AlfredPath_46d5f34a:
@@ -3286,7 +3286,7 @@ translate ru AlfredPath_46d5f34a:
 # AlfredPath_275e240f (line 69391)
 translate ru AlfredPath_275e240f:
     # alf "Come over here."
-    alf ""
+    alf "Come over here."
 
 # AlfredPath_4d43aa75 (line 69392)
 translate ru AlfredPath_4d43aa75:
@@ -3316,7 +3316,7 @@ translate ru AlfredPath_314398d8:
 # AlfredPath_532f9efa (line 69397)
 translate ru AlfredPath_532f9efa:
     # alf "Gods, to think I was almost done with life."
-    alf ""
+    alf "Gods, to think I was almost done with life."
 
 # AlfredPath_c08eb7fc (line 69398)
 translate ru AlfredPath_c08eb7fc:
@@ -3361,12 +3361,12 @@ translate ru AlfredPath_a5ad3db5:
 # AlfredPath_8d872e77 (line 69406)
 translate ru AlfredPath_8d872e77:
     # s "Stop pretending you're old and weak."
-    s ""
+    s "Stop pretending you're old and weak."
 
 # AlfredPath_3903e73b (line 69407)
 translate ru AlfredPath_3903e73b:
     # s "I can feel you're still a man with life left in him."
-    s ""
+    s "I can feel you're still a man with life left in him."
 
 # AlfredPath_92834789 (line 69408)
 translate ru AlfredPath_92834789:
@@ -3386,7 +3386,7 @@ translate ru AlfredPath_145c57c5:
 # AlfredPath_dc2b604a (line 69411)
 translate ru AlfredPath_dc2b604a:
     # alf "I will..."
-    alf ""
+    alf "I will..."
 
 # AlfredPath_3dc85e7d (line 69412)
 translate ru AlfredPath_3dc85e7d:
@@ -3401,7 +3401,7 @@ translate ru AlfredPath_adfde4d3:
 # AlfredPath_a44a30ec (line 69414)
 translate ru AlfredPath_a44a30ec:
     # alf "I'm going to make up for all the things I left undone."
-    alf ""
+    alf "I'm going to make up for all the things I left undone."
 
 # AlfredPath_25988e92 (line 69415)
 translate ru AlfredPath_25988e92:
@@ -3416,32 +3416,32 @@ translate ru AlfredPath_c822c561:
 # AlfredPath_5250840e (line 69417)
 translate ru AlfredPath_5250840e:
     # alf "Gods, all these days I've wasted...no more..."
-    alf ""
+    alf "Gods, all these days I've wasted...no more..."
 
 # AlfredPath_fec3a486 (line 69418)
 translate ru AlfredPath_fec3a486:
     # alf "I will work again..."
-    alf ""
+    alf "I will work again..."
 
 # AlfredPath_e117c30d (line 69419)
 translate ru AlfredPath_e117c30d:
     # alf "I will grow my lands..."
-    alf ""
+    alf "I will grow my lands..."
 
 # AlfredPath_e43e0480 (line 69420)
 translate ru AlfredPath_e43e0480:
     # alf "Each morning and night I will fuck you."
-    alf ""
+    alf "Each morning and night I will fuck you."
 
 # AlfredPath_feff644c (line 69421)
 translate ru AlfredPath_feff644c:
     # alf "Gods, I will fuck you till the day I die."
-    alf ""
+    alf "Gods, I will fuck you till the day I die."
 
 # AlfredPath_ff8de775 (line 69422)
 translate ru AlfredPath_ff8de775:
     # s "Promise."
-    s ""
+    s "Promise."
 
 # AlfredPath_d5fae064 (line 69423)
 translate ru AlfredPath_d5fae064:
@@ -3451,7 +3451,7 @@ translate ru AlfredPath_d5fae064:
 # AlfredPath_12db04ce (line 69424)
 translate ru AlfredPath_12db04ce:
     # s "Promise you will be my bull."
-    s ""
+    s "Promise you will be my bull."
 
 # AlfredPath_f96d609d (line 69425)
 translate ru AlfredPath_f96d609d:
@@ -3571,7 +3571,7 @@ translate ru AlfredPath_e15499b9:
 # AlfredPath_acf0ed21 (line 69453)
 translate ru AlfredPath_acf0ed21:
     # alf "Gods, that mouth of yours..."
-    alf ""
+    alf "Gods, that mouth of yours..."
 
 # AlfredPath_6ee1f2d0 (line 69454)
 translate ru AlfredPath_6ee1f2d0:
@@ -4011,7 +4011,7 @@ translate ru AlfredPath_1cfb1303:
 # AlfredPath_cfcdcb9c (line 69554)
 translate ru AlfredPath_cfcdcb9c:
     # s "Are you okay, Marius?"
-    s ""
+    s "Are you okay, Marius?"
 
 # AlfredPath_89ed7717 (line 69555)
 translate ru AlfredPath_89ed7717:
@@ -4061,12 +4061,12 @@ translate ru AlfredPath_713417c2:
 # AlfredPath_6a3c4d7b (line 69564)
 translate ru AlfredPath_6a3c4d7b:
     # s "Give him a minute. Let him be alone. He needs to rest."
-    s ""
+    s "Give him a minute. Let him be alone. He needs to rest."
 
 # AlfredPath_00250814 (line 69565)
 translate ru AlfredPath_00250814:
     # s "His father just passed."
-    s ""
+    s "His father just passed."
 
 # AlfredPath_e5aa5a0c (line 69566)
 translate ru AlfredPath_e5aa5a0c:

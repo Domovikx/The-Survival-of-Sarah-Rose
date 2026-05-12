@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TheBlackMonolithWarrior1
-# Total blocks: 165
+# Total blocks: 161
 
 # TheBlackMonolithWarrior1_c0f624e1 (line 44936)
 translate ru TheBlackMonolithWarrior1_c0f624e1:
@@ -181,7 +181,7 @@ translate ru TheBlackMonolithWarrior1_ebcc73a4:
 # TheBlackMonolithWarrior1_eab13535 (line 44977)
 translate ru TheBlackMonolithWarrior1_eab13535:
     # s "Yes, we're the mercenary company, unless you were expecting anybody else out here on the other side of the world."
-    s ""
+    s "Yes, we're the mercenary company, unless you were expecting anybody else out here on the other side of the world."
 
 # TheBlackMonolithWarrior1_d4fdb979 (line 44978)
 translate ru TheBlackMonolithWarrior1_d4fdb979:
@@ -206,7 +206,7 @@ translate ru TheBlackMonolithWarrior1_93b25a5e:
 # TheBlackMonolithWarrior1_735db821 (line 44982)
 translate ru TheBlackMonolithWarrior1_735db821:
     # s "No, but I'm high up enough you might as well talk to me. I'll relay it back to our commander."
-    s ""
+    s "No, but I'm high up enough you might as well talk to me. I'll relay it back to our commander."
 
 # TheBlackMonolithWarrior1_d6b1781a (line 44983)
 translate ru TheBlackMonolithWarrior1_d6b1781a:
@@ -226,7 +226,7 @@ translate ru TheBlackMonolithWarrior1_f9dd5faa:
 # TheBlackMonolithWarrior1_c96fc055 (line 44986)
 translate ru TheBlackMonolithWarrior1_c96fc055:
     # s "Tell me, no that I'll pass up on free money or anything, but what exactly are we doing all the way out here?"
-    s ""
+    s "Tell me, no that I'll pass up on free money or anything, but what exactly are we doing all the way out here?"
 
 # TheBlackMonolithWarrior1_f8e273dc (line 44987)
 translate ru TheBlackMonolithWarrior1_f8e273dc:
@@ -261,7 +261,7 @@ translate ru TheBlackMonolithWarrior1_b0ad8d4a:
 # TheBlackMonolithWarrior1_3b3ffe73 (line 44993)
 translate ru TheBlackMonolithWarrior1_3b3ffe73:
     # s "Tribesmen? On this side of the ocean?"
-    s ""
+    s "Tribesmen? On this side of the ocean?"
 
 # TheBlackMonolithWarrior1_6b47d75f (line 44994)
 translate ru TheBlackMonolithWarrior1_6b47d75f:
@@ -276,7 +276,7 @@ translate ru TheBlackMonolithWarrior1_b7ae9bed:
 # TheBlackMonolithWarrior1_19a892a8 (line 44996)
 translate ru TheBlackMonolithWarrior1_19a892a8:
     # s "Heard what?"
-    s ""
+    s "Heard what?"
 
 # TheBlackMonolithWarrior1_2c077f97 (line 44997)
 translate ru TheBlackMonolithWarrior1_2c077f97:
@@ -286,7 +286,7 @@ translate ru TheBlackMonolithWarrior1_2c077f97:
 # TheBlackMonolithWarrior1_a42409eb (line 44998)
 translate ru TheBlackMonolithWarrior1_a42409eb:
     # s "Hassar."
-    s ""
+    s "Hassar."
 
 # TheBlackMonolithWarrior1_cec51cc6 (line 44999)
 translate ru TheBlackMonolithWarrior1_cec51cc6:
@@ -341,7 +341,7 @@ translate ru TheBlackMonolithWarrior1_d00cf1bc:
 # TheBlackMonolithWarrior1_85eac2dc (line 45009)
 translate ru TheBlackMonolithWarrior1_85eac2dc:
     # s "What about Rosanna?"
-    s ""
+    s "What about Rosanna?"
 
 # TheBlackMonolithWarrior1_7d03e027 (line 45010)
 translate ru TheBlackMonolithWarrior1_7d03e027:
@@ -356,7 +356,7 @@ translate ru TheBlackMonolithWarrior1_afed01d6:
 # TheBlackMonolithWarrior1_63d11087 (line 45012)
 translate ru TheBlackMonolithWarrior1_63d11087:
     # s "Yes...is it safe?"
-    s ""
+    s "Yes...is it safe?"
 
 # TheBlackMonolithWarrior1_c1752550 (line 45013)
 translate ru TheBlackMonolithWarrior1_c1752550:
@@ -376,7 +376,7 @@ translate ru TheBlackMonolithWarrior1_a7c79760:
 # TheBlackMonolithWarrior1_9065f077 (line 45016)
 translate ru TheBlackMonolithWarrior1_9065f077:
     # s "I was only wondering."
-    s ""
+    s "I was only wondering."
 
 # TheBlackMonolithWarrior1_e32ab3cb (line 45017)
 translate ru TheBlackMonolithWarrior1_e32ab3cb:
@@ -416,7 +416,7 @@ translate ru TheBlackMonolithWarrior1_e829c38d:
 # TheBlackMonolithWarrior1_a81c5897 (line 45024)
 translate ru TheBlackMonolithWarrior1_a81c5897:
     # s "Sure, I'll discuss it with my commander, but we'll manage to get that done by the end of the day."
-    s ""
+    s "Sure, I'll discuss it with my commander, but we'll manage to get that done by the end of the day."
 
 # TheBlackMonolithWarrior1_168e4c60 (line 45025)
 translate ru TheBlackMonolithWarrior1_168e4c60:
@@ -498,16 +498,6 @@ translate ru TheBlackMonolithWarrior1_016f4327:
     # "The creature from the void. The spirit that spoke in riddles."
     ""
 
-# TheBlackMonolithWarrior1_c900ce26 (line 45104)
-translate ru TheBlackMonolithWarrior1_c900ce26:
-    # "Take Samayra back to your tent"
-    "Take Samayra back to your tent" ""
-
-# TheBlackMonolithWarrior1_4e916ea2 (line 45106)
-translate ru TheBlackMonolithWarrior1_4e916ea2:
-    # "Tell her to sleep it off"
-    "Tell her to sleep it off" ""
-
 # TheBlackMonolithWarrior1_680ebe11 (line 45119)
 translate ru TheBlackMonolithWarrior1_680ebe11:
     # "The hours passed, the night grew deeper, when Sarah suddenly saw a familiar face passing by the campfire."
@@ -516,7 +506,7 @@ translate ru TheBlackMonolithWarrior1_680ebe11:
 # TheBlackMonolithWarrior1_372827ec (line 45122)
 translate ru TheBlackMonolithWarrior1_372827ec:
     # k "Hey there, been lookin about for you."
-    k ""
+    k "Hey there, been lookin about for you."
 
 # TheBlackMonolithWarrior1_6de404ad (line 45123)
 translate ru TheBlackMonolithWarrior1_6de404ad:
@@ -536,7 +526,7 @@ translate ru TheBlackMonolithWarrior1_ed7fb59c:
 # TheBlackMonolithWarrior1_f8cbfcfc (line 45126)
 translate ru TheBlackMonolithWarrior1_f8cbfcfc:
     # s "I thought maybe you were still floating in that water in the desert."
-    s ""
+    s "I thought maybe you were still floating in that water in the desert."
 
 # TheBlackMonolithWarrior1_f617f9f3 (line 45127)
 translate ru TheBlackMonolithWarrior1_f617f9f3:
@@ -546,12 +536,12 @@ translate ru TheBlackMonolithWarrior1_f617f9f3:
 # TheBlackMonolithWarrior1_530a2b06 (line 45128)
 translate ru TheBlackMonolithWarrior1_530a2b06:
     # k "Honestly, crossed my mind for half a second."
-    k ""
+    k "Honestly, crossed my mind for half a second."
 
 # TheBlackMonolithWarrior1_7fa26018 (line 45129)
 translate ru TheBlackMonolithWarrior1_7fa26018:
     # k "Leave all this bullshit to the rest of you. But what can I say, I'm a glutton for punishment."
-    k ""
+    k "Leave all this bullshit to the rest of you. But what can I say, I'm a glutton for punishment."
 
 # TheBlackMonolithWarrior1_11d47988 (line 45130)
 translate ru TheBlackMonolithWarrior1_11d47988:
@@ -561,7 +551,7 @@ translate ru TheBlackMonolithWarrior1_11d47988:
 # TheBlackMonolithWarrior1_bfaef491 (line 45131)
 translate ru TheBlackMonolithWarrior1_bfaef491:
     # k "Speaking of bullshit, what are we doing out here anyway?"
-    k ""
+    k "Speaking of bullshit, what are we doing out here anyway?"
 
 # TheBlackMonolithWarrior1_ab4cac51 (line 45132)
 translate ru TheBlackMonolithWarrior1_ab4cac51:
@@ -571,12 +561,12 @@ translate ru TheBlackMonolithWarrior1_ab4cac51:
 # TheBlackMonolithWarrior1_f059c308 (line 45133)
 translate ru TheBlackMonolithWarrior1_f059c308:
     # s "Security. That's about all they told me. About all they're going to tell me as well, I think."
-    s ""
+    s "Security. That's about all they told me. About all they're going to tell me as well, I think."
 
 # TheBlackMonolithWarrior1_43ca1d8a (line 45134)
 translate ru TheBlackMonolithWarrior1_43ca1d8a:
     # k "What about Vaelen? Hasn't he told you anything?"
-    k ""
+    k "What about Vaelen? Hasn't he told you anything?"
 
 # TheBlackMonolithWarrior1_63f5b457 (line 45135)
 translate ru TheBlackMonolithWarrior1_63f5b457:
@@ -586,7 +576,7 @@ translate ru TheBlackMonolithWarrior1_63f5b457:
 # TheBlackMonolithWarrior1_7635d19b (line 45136)
 translate ru TheBlackMonolithWarrior1_7635d19b:
     # s "Not much more than that either. Haven't even seen him since we got here. Who knows where he's off to."
-    s ""
+    s "Not much more than that either. Haven't even seen him since we got here. Who knows where he's off to."
 
 # TheBlackMonolithWarrior1_48fe254b (line 45137)
 translate ru TheBlackMonolithWarrior1_48fe254b:
@@ -596,17 +586,17 @@ translate ru TheBlackMonolithWarrior1_48fe254b:
 # TheBlackMonolithWarrior1_5aefd2da (line 45138)
 translate ru TheBlackMonolithWarrior1_5aefd2da:
     # k "I think he's just laying down for a bit."
-    k ""
+    k "I think he's just laying down for a bit."
 
 # TheBlackMonolithWarrior1_ef766f19 (line 45139)
 translate ru TheBlackMonolithWarrior1_ef766f19:
     # s "Why do you think that?"
-    s ""
+    s "Why do you think that?"
 
 # TheBlackMonolithWarrior1_3ca961e7 (line 45140)
 translate ru TheBlackMonolithWarrior1_3ca961e7:
     # k "Well, he ain't exactly popular with most of the men."
-    k ""
+    k "Well, he ain't exactly popular with most of the men."
 
 # TheBlackMonolithWarrior1_d10739ee (line 45141)
 translate ru TheBlackMonolithWarrior1_d10739ee:
@@ -616,7 +606,7 @@ translate ru TheBlackMonolithWarrior1_d10739ee:
 # TheBlackMonolithWarrior1_1d86efb7 (line 45142)
 translate ru TheBlackMonolithWarrior1_1d86efb7:
     # s "What have you heard?"
-    s ""
+    s "What have you heard?"
 
 # TheBlackMonolithWarrior1_2313b190 (line 45143)
 translate ru TheBlackMonolithWarrior1_2313b190:
@@ -626,7 +616,7 @@ translate ru TheBlackMonolithWarrior1_2313b190:
 # TheBlackMonolithWarrior1_4c7dfded (line 45144)
 translate ru TheBlackMonolithWarrior1_4c7dfded:
     # k "I don't want to start anything."
-    k ""
+    k "I don't want to start anything."
 
 # TheBlackMonolithWarrior1_4d481460 (line 45145)
 translate ru TheBlackMonolithWarrior1_4d481460:
@@ -636,7 +626,7 @@ translate ru TheBlackMonolithWarrior1_4d481460:
 # TheBlackMonolithWarrior1_c1201a79 (line 45146)
 translate ru TheBlackMonolithWarrior1_c1201a79:
     # s "We're just talking, friends."
-    s ""
+    s "We're just talking, friends."
 
 # TheBlackMonolithWarrior1_e6938978 (line 45147)
 translate ru TheBlackMonolithWarrior1_e6938978:
@@ -646,27 +636,27 @@ translate ru TheBlackMonolithWarrior1_e6938978:
 # TheBlackMonolithWarrior1_6fd27db9 (line 45148)
 translate ru TheBlackMonolithWarrior1_6fd27db9:
     # k "You're a terrible liar. But fine."
-    k ""
+    k "You're a terrible liar. But fine."
 
 # TheBlackMonolithWarrior1_03baca83 (line 45149)
 translate ru TheBlackMonolithWarrior1_03baca83:
     # k "Most of the men were riding high after the victory on Bagrad. Hell, most of them kept it up as we marched on into the desert."
-    k ""
+    k "Most of the men were riding high after the victory on Bagrad. Hell, most of them kept it up as we marched on into the desert."
 
 # TheBlackMonolithWarrior1_e15a6c57 (line 45150)
 translate ru TheBlackMonolithWarrior1_e15a6c57:
     # k "But it really started when they were ordered to leave their loot behind."
-    k ""
+    k "But it really started when they were ordered to leave their loot behind."
 
 # TheBlackMonolithWarrior1_51ec9a19 (line 45151)
 translate ru TheBlackMonolithWarrior1_51ec9a19:
     # k "For most of them, it was more money than they'd ever seen in their lives."
-    k ""
+    k "For most of them, it was more money than they'd ever seen in their lives."
 
 # TheBlackMonolithWarrior1_f3db7653 (line 45152)
 translate ru TheBlackMonolithWarrior1_f3db7653:
     # k "I've been soldiering for a while now, and even I can't recall a haul that good."
-    k ""
+    k "I've been soldiering for a while now, and even I can't recall a haul that good."
 
 # TheBlackMonolithWarrior1_8c86e2fc (line 45153)
 translate ru TheBlackMonolithWarrior1_8c86e2fc:
@@ -676,22 +666,22 @@ translate ru TheBlackMonolithWarrior1_8c86e2fc:
 # TheBlackMonolithWarrior1_b3d83c3e (line 45154)
 translate ru TheBlackMonolithWarrior1_b3d83c3e:
     # k "Well, after that order the rumors started. People saying he'd lost it. Small stuff at first..."
-    k ""
+    k "Well, after that order the rumors started. People saying he'd lost it. Small stuff at first..."
 
 # TheBlackMonolithWarrior1_e33bcbff (line 45155)
 translate ru TheBlackMonolithWarrior1_e33bcbff:
     # k "But as it went on and on, and the food ran out, and the wagons broke down and...well you remember."
-    k ""
+    k "But as it went on and on, and the food ran out, and the wagons broke down and...well you remember."
 
 # TheBlackMonolithWarrior1_64f11d8d (line 45156)
 translate ru TheBlackMonolithWarrior1_64f11d8d:
     # k "It all just kept piling up."
-    k ""
+    k "It all just kept piling up."
 
 # TheBlackMonolithWarrior1_35e776bc (line 45157)
 translate ru TheBlackMonolithWarrior1_35e776bc:
     # k "By the end of it, some people, and I'm not going to name names and I'll deny this if you ever try to tell someone, but they were openly talking about killing him."
-    k ""
+    k "By the end of it, some people, and I'm not going to name names and I'll deny this if you ever try to tell someone, but they were openly talking about killing him."
 
 # TheBlackMonolithWarrior1_35113eea (line 45158)
 translate ru TheBlackMonolithWarrior1_35113eea:
@@ -701,7 +691,7 @@ translate ru TheBlackMonolithWarrior1_35113eea:
 # TheBlackMonolithWarrior1_bc67ad99 (line 45159)
 translate ru TheBlackMonolithWarrior1_bc67ad99:
     # s "They said that?"
-    s ""
+    s "They said that?"
 
 # TheBlackMonolithWarrior1_e2efa51d (line 45160)
 translate ru TheBlackMonolithWarrior1_e2efa51d:
@@ -711,12 +701,12 @@ translate ru TheBlackMonolithWarrior1_e2efa51d:
 # TheBlackMonolithWarrior1_5ef1661e (line 45161)
 translate ru TheBlackMonolithWarrior1_5ef1661e:
     # k "A few, the dumbest of the lot, but still. This shit always starts from the bottom and rises up."
-    k ""
+    k "A few, the dumbest of the lot, but still. This shit always starts from the bottom and rises up."
 
 # TheBlackMonolithWarrior1_db260ba4 (line 45162)
 translate ru TheBlackMonolithWarrior1_db260ba4:
     # k "Honestly, if we had still been out there a week from now, I figure we actually would have had a mutiny."
-    k ""
+    k "Honestly, if we had still been out there a week from now, I figure we actually would have had a mutiny."
 
 # TheBlackMonolithWarrior1_e65b2c7a (line 45163)
 translate ru TheBlackMonolithWarrior1_e65b2c7a:
@@ -731,12 +721,12 @@ translate ru TheBlackMonolithWarrior1_bbab3b68:
 # TheBlackMonolithWarrior1_c5f61545 (line 45165)
 translate ru TheBlackMonolithWarrior1_c5f61545:
     # s "I think I understand."
-    s ""
+    s "I think I understand."
 
 # TheBlackMonolithWarrior1_ef236627 (line 45166)
 translate ru TheBlackMonolithWarrior1_ef236627:
     # s "Thank the gods we managed to reach this place before it all broke down."
-    s ""
+    s "Thank the gods we managed to reach this place before it all broke down."
 
 # TheBlackMonolithWarrior1_502b2434 (line 45167)
 translate ru TheBlackMonolithWarrior1_502b2434:
@@ -746,7 +736,7 @@ translate ru TheBlackMonolithWarrior1_502b2434:
 # TheBlackMonolithWarrior1_8b9d0c50 (line 45168)
 translate ru TheBlackMonolithWarrior1_8b9d0c50:
     # k "Some food, some drink, and all these people plotting suddenly forget they ever said anything."
-    k ""
+    k "Some food, some drink, and all these people plotting suddenly forget they ever said anything."
 
 # TheBlackMonolithWarrior1_d86845e3 (line 45169)
 translate ru TheBlackMonolithWarrior1_d86845e3:
@@ -756,7 +746,7 @@ translate ru TheBlackMonolithWarrior1_d86845e3:
 # TheBlackMonolithWarrior1_ab561434 (line 45170)
 translate ru TheBlackMonolithWarrior1_ab561434:
     # s "You think it's really all behind us?"
-    s ""
+    s "You think it's really all behind us?"
 
 # TheBlackMonolithWarrior1_9ae1fd68 (line 45171)
 translate ru TheBlackMonolithWarrior1_9ae1fd68:
@@ -766,17 +756,17 @@ translate ru TheBlackMonolithWarrior1_9ae1fd68:
 # TheBlackMonolithWarrior1_61fcc2a3 (line 45172)
 translate ru TheBlackMonolithWarrior1_61fcc2a3:
     # k "I wish I knew. All I know is that some wounds don't heal, and some thoughts can't be undone."
-    k ""
+    k "I wish I knew. All I know is that some wounds don't heal, and some thoughts can't be undone."
 
 # TheBlackMonolithWarrior1_d497b30d (line 45173)
 translate ru TheBlackMonolithWarrior1_d497b30d:
     # k "The things people said, if only for a moment...they were there. And they're always going to be there, under the surface."
-    k ""
+    k "The things people said, if only for a moment...they were there. And they're always going to be there, under the surface."
 
 # TheBlackMonolithWarrior1_c6da909a (line 45174)
 translate ru TheBlackMonolithWarrior1_c6da909a:
     # k "And next time things get hard, they'll bubble up faster than before."
-    k ""
+    k "And next time things get hard, they'll bubble up faster than before."
 
 # TheBlackMonolithWarrior1_7815637d (line 45175)
 translate ru TheBlackMonolithWarrior1_7815637d:
@@ -817,14 +807,4 @@ translate ru TheBlackMonolithWarrior1_303261e4:
 translate ru TheBlackMonolithWarrior1_18871e00:
     # "They could speak without words."
     ""
-
-# TheBlackMonolithWarrior1_e01d0635 (line 45185)
-translate ru TheBlackMonolithWarrior1_e01d0635:
-    # "Go with Kate to her tent"
-    "Go with Kate to her tent" ""
-
-# TheBlackMonolithWarrior1_d210f047 (line 45376)
-translate ru TheBlackMonolithWarrior1_d210f047:
-    # "Stay by the campfire, alone"
-    "Stay by the campfire, alone" ""
 

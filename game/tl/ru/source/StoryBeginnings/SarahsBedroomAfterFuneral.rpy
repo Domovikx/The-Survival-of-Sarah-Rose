@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: SarahsBedroomAfterFuneral
-# Total blocks: 47
+# Total blocks: 45
 
 # SarahsBedroomAfterFuneral_625e7d5a (line 1409)
 translate ru SarahsBedroomAfterFuneral_625e7d5a:
@@ -86,12 +86,12 @@ translate ru SarahsBedroomAfterFuneral_e9aa7206:
 # SarahsBedroomAfterFuneral_e17e9d37 (line 1435)
 translate ru SarahsBedroomAfterFuneral_e17e9d37:
     # s "Kate, are you crazy? I almost had a heart attack!"
-    s ""
+    s "Kate, are you crazy? I almost had a heart attack!"
 
 # SarahsBedroomAfterFuneral_8d3b2752 (line 1436)
 translate ru SarahsBedroomAfterFuneral_8d3b2752:
     # k "Sorry, sorry."
-    k ""
+    k "Sorry, sorry."
 
 # SarahsBedroomAfterFuneral_b2853479 (line 1437)
 translate ru SarahsBedroomAfterFuneral_b2853479:
@@ -116,17 +116,17 @@ translate ru SarahsBedroomAfterFuneral_36d735d0:
 # SarahsBedroomAfterFuneral_9e949e13 (line 1446)
 translate ru SarahsBedroomAfterFuneral_9e949e13:
     # s "You've been having fun."
-    s ""
+    s "You've been having fun."
 
 # SarahsBedroomAfterFuneral_bf5722ee (line 1447)
 translate ru SarahsBedroomAfterFuneral_bf5722ee:
     # k "I came across the wine cellar, and it didn't look like you'd miss one bottle."
-    k ""
+    k "I came across the wine cellar, and it didn't look like you'd miss one bottle."
 
 # SarahsBedroomAfterFuneral_3f3c5fdb (line 1448)
 translate ru SarahsBedroomAfterFuneral_3f3c5fdb:
     # s "Maybe not one, but what about the others?"
-    s ""
+    s "Maybe not one, but what about the others?"
 
 # SarahsBedroomAfterFuneral_6a6fad81 (line 1449)
 translate ru SarahsBedroomAfterFuneral_6a6fad81:
@@ -136,7 +136,7 @@ translate ru SarahsBedroomAfterFuneral_6a6fad81:
 # SarahsBedroomAfterFuneral_4f24c3a7 (line 1450)
 translate ru SarahsBedroomAfterFuneral_4f24c3a7:
     # k "Sorry, I'll pay you back, promise."
-    k ""
+    k "Sorry, I'll pay you back, promise."
 
 # SarahsBedroomAfterFuneral_44ba04b3 (line 1451)
 translate ru SarahsBedroomAfterFuneral_44ba04b3:
@@ -146,7 +146,7 @@ translate ru SarahsBedroomAfterFuneral_44ba04b3:
 # SarahsBedroomAfterFuneral_b6532b2e (line 1452)
 translate ru SarahsBedroomAfterFuneral_b6532b2e:
     # s "It's fine Kate, but it's late. Why are you here?"
-    s ""
+    s "It's fine Kate, but it's late. Why are you here?"
 
 # SarahsBedroomAfterFuneral_654f4b60 (line 1453)
 translate ru SarahsBedroomAfterFuneral_654f4b60:
@@ -156,7 +156,7 @@ translate ru SarahsBedroomAfterFuneral_654f4b60:
 # SarahsBedroomAfterFuneral_2a5dbc51 (line 1454)
 translate ru SarahsBedroomAfterFuneral_2a5dbc51:
     # k "You said to come visit you after the funeral, didn't you?"
-    k ""
+    k "You said to come visit you after the funeral, didn't you?"
 
 # SarahsBedroomAfterFuneral_8bdcc119 (line 1455)
 translate ru SarahsBedroomAfterFuneral_8bdcc119:
@@ -166,7 +166,7 @@ translate ru SarahsBedroomAfterFuneral_8bdcc119:
 # SarahsBedroomAfterFuneral_901d09bf (line 1456)
 translate ru SarahsBedroomAfterFuneral_901d09bf:
     # s "I meant more like something in the morning."
-    s ""
+    s "I meant more like something in the morning."
 
 # SarahsBedroomAfterFuneral_2c5a9aeb (line 1457)
 translate ru SarahsBedroomAfterFuneral_2c5a9aeb:
@@ -176,12 +176,12 @@ translate ru SarahsBedroomAfterFuneral_2c5a9aeb:
 # SarahsBedroomAfterFuneral_509a487a (line 1458)
 translate ru SarahsBedroomAfterFuneral_509a487a:
     # k "Well, you can't put that on me, Sarah. I'm drunk, what's your excuse?"
-    k ""
+    k "Well, you can't put that on me, Sarah. I'm drunk, what's your excuse?"
 
 # SarahsBedroomAfterFuneral_7b77ec8c (line 1459)
 translate ru SarahsBedroomAfterFuneral_7b77ec8c:
     # s "I didn't know I needed one, in my castle. In my own bedroom."
-    s ""
+    s "I didn't know I needed one, in my castle. In my own bedroom."
 
 # SarahsBedroomAfterFuneral_49956393 (line 1460)
 translate ru SarahsBedroomAfterFuneral_49956393:
@@ -191,7 +191,7 @@ translate ru SarahsBedroomAfterFuneral_49956393:
 # SarahsBedroomAfterFuneral_e6bf2d3c (line 1461)
 translate ru SarahsBedroomAfterFuneral_e6bf2d3c:
     # k "And what a bedroom it is."
-    k ""
+    k "And what a bedroom it is."
 
 # SarahsBedroomAfterFuneral_55bbdcc6 (line 1462)
 translate ru SarahsBedroomAfterFuneral_55bbdcc6:
@@ -206,7 +206,7 @@ translate ru SarahsBedroomAfterFuneral_50c29ffb:
 # SarahsBedroomAfterFuneral_2e363234 (line 1469)
 translate ru SarahsBedroomAfterFuneral_2e363234:
     # k "Ooh, feeling shy?"
-    k ""
+    k "Ooh, feeling shy?"
 
 # SarahsBedroomAfterFuneral_91df33bc (line 1470)
 translate ru SarahsBedroomAfterFuneral_91df33bc:
@@ -221,20 +221,10 @@ translate ru SarahsBedroomAfterFuneral_c688db5a:
 # SarahsBedroomAfterFuneral_00e93d45 (line 1472)
 translate ru SarahsBedroomAfterFuneral_00e93d45:
     # k "What's the matter, Sarah? You're not sleeping naked under the blankets, are you?"
-    k ""
+    k "What's the matter, Sarah? You're not sleeping naked under the blankets, are you?"
 
 # SarahsBedroomAfterFuneral_6e01cd9b (line 1473)
 translate ru SarahsBedroomAfterFuneral_6e01cd9b:
     # "Sarah felt a rush to her head, turning her red."
     ""
-
-# SarahsBedroomAfterFuneral_5b1a87b4 (line 1477)
-translate ru SarahsBedroomAfterFuneral_5b1a87b4:
-    # "Don't stop Kate."
-    "Don't stop Kate." ""
-
-# SarahsBedroomAfterFuneral_f9b14c91 (line 1606)
-translate ru SarahsBedroomAfterFuneral_f9b14c91:
-    # "You're drunk. Go back to your room."
-    "You're drunk. Go back to your room." ""
 

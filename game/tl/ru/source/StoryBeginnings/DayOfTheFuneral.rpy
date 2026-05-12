@@ -31,7 +31,7 @@ translate ru DayOfTheFuneral_9ee6d5b8:
 # DayOfTheFuneral_0f883900 (line 955)
 translate ru DayOfTheFuneral_0f883900:
     # t "Sarah..."
-    t ""
+    t "Sarah..."
 
 # DayOfTheFuneral_a4e18443 (line 961)
 translate ru DayOfTheFuneral_a4e18443:
@@ -41,7 +41,7 @@ translate ru DayOfTheFuneral_a4e18443:
 # DayOfTheFuneral_ac516b19 (line 962)
 translate ru DayOfTheFuneral_ac516b19:
     # t "Who would have wanted to hurt Dad?"
-    t ""
+    t "Who would have wanted to hurt Dad?"
 
 # DayOfTheFuneral_420212e4 (line 963)
 translate ru DayOfTheFuneral_420212e4:
@@ -51,12 +51,12 @@ translate ru DayOfTheFuneral_420212e4:
 # DayOfTheFuneral_23cd4d1d (line 964)
 translate ru DayOfTheFuneral_23cd4d1d:
     # s "It's okay Thomas, we just need to get through today. Let those questions rest for another day."
-    s ""
+    s "It's okay Thomas, we just need to get through today. Let those questions rest for another day."
 
 # DayOfTheFuneral_b84560ae (line 965)
 translate ru DayOfTheFuneral_b84560ae:
     # t "Then what?"
-    t ""
+    t "Then what?"
 
 # DayOfTheFuneral_54c6ac1f (line 966)
 translate ru DayOfTheFuneral_54c6ac1f:
@@ -66,7 +66,7 @@ translate ru DayOfTheFuneral_54c6ac1f:
 # DayOfTheFuneral_82d9a3ad (line 967)
 translate ru DayOfTheFuneral_82d9a3ad:
     # s "Then another day. Coronation. Another day. On and on, Thomas. We just need to keep moving forward. Dad might not be here anymore, but he's watching over us."
-    s ""
+    s "Then another day. Coronation. Another day. On and on, Thomas. We just need to keep moving forward. Dad might not be here anymore, but he's watching over us."
 
 # DayOfTheFuneral_96023e7e (line 968)
 translate ru DayOfTheFuneral_96023e7e:
@@ -76,7 +76,7 @@ translate ru DayOfTheFuneral_96023e7e:
 # DayOfTheFuneral_87ac2b31 (line 969)
 translate ru DayOfTheFuneral_87ac2b31:
     # s "We need to make him proud now. Remember: composure."
-    s ""
+    s "We need to make him proud now. Remember: composure."
 
 # DayOfTheFuneral_f27e645a (line 970)
 translate ru DayOfTheFuneral_f27e645a:
@@ -146,7 +146,7 @@ translate ru DayOfTheFuneral_e824e59d:
 # DayOfTheFuneral_15a85aa4 (line 993)
 translate ru DayOfTheFuneral_15a85aa4:
     # s "Thomas, I need to take a moment, please carry on without me."
-    s ""
+    s "Thomas, I need to take a moment, please carry on without me."
 
 # DayOfTheFuneral_94b1006e (line 999)
 translate ru DayOfTheFuneral_94b1006e:

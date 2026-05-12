@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TheWarIsLost
-# Total blocks: 17
+# Total blocks: 9
 
 # TheWarIsLost_acce53e3 (line 17677)
 translate ru TheWarIsLost_acce53e3:
@@ -47,44 +47,4 @@ translate ru TheWarIsLost_104043c0:
 translate ru TheWarIsLost_b6511a05:
     # "The wagon suddenly stopped, causing Sarah to roll around the wooden floor."
     ""
-
-# TheWarIsLost_7627555b (line 17768)
-translate ru TheWarIsLost_7627555b:
-    # "The hunger is too much, dance for the food."
-    "The hunger is too much, dance for the food." ""
-
-# TheWarIsLost_f0d98071 (line 17804)
-translate ru TheWarIsLost_f0d98071:
-    # "Accept the bowl of food and sit on the old soldier's lap."
-    "Accept the bowl of food and sit on the old soldier's lap." ""
-
-# TheWarIsLost_9464d1c1 (line 17820)
-translate ru TheWarIsLost_9464d1c1:
-    # "Push it further."
-    "Push it further." ""
-
-# TheWarIsLost_1a3ebd26 (line 17880)
-translate ru TheWarIsLost_1a3ebd26:
-    # "This is enough."
-    "This is enough." ""
-
-# TheWarIsLost_43c1aeb5 (line 17891)
-translate ru TheWarIsLost_43c1aeb5:
-    # "Accept the bowl of food."
-    "Accept the bowl of food." ""
-
-# TheWarIsLost_d14297b0 (line 17908)
-translate ru TheWarIsLost_d14297b0:
-    # "Sarah has her pride, refuse to perform."
-    "Sarah has her pride, refuse to perform." ""
-
-# TheWarIsLost_7ac50c79 (line 17993)
-translate ru TheWarIsLost_7ac50c79:
-    # "Motion for Jaeid to go into the water."
-    "Motion for Jaeid to go into the water." ""
-
-# TheWarIsLost_055ca28e (line 18100)
-translate ru TheWarIsLost_055ca28e:
-    # "Do nothing."
-    "Do nothing." ""
 

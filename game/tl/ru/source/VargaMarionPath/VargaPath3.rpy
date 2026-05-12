@@ -81,7 +81,7 @@ translate ru VargaPath3_94721f3e:
 # VargaPath3_9df188ef (line 14567)
 translate ru VargaPath3_9df188ef:
     # s "I hope you're watching me, Mom."
-    s ""
+    s "I hope you're watching me, Mom."
 
 # VargaPath3_c05d1e49 (line 14568)
 translate ru VargaPath3_c05d1e49:
@@ -101,17 +101,17 @@ translate ru VargaPath3_467182c2:
 # VargaPath3_6719d197 (line 14571)
 translate ru VargaPath3_6719d197:
     # s "Who is it?"
-    s ""
+    s "Who is it?"
 
 # VargaPath3_b1028c4d (line 14572)
 translate ru VargaPath3_b1028c4d:
     # t "It's me, can I enter?"
-    t ""
+    t "It's me, can I enter?"
 
 # VargaPath3_209b9b07 (line 14573)
 translate ru VargaPath3_209b9b07:
     # s "Of course Thomas, come in."
-    s ""
+    s "Of course Thomas, come in."
 
 # VargaPath3_aca80259 (line 14574)
 translate ru VargaPath3_aca80259:
@@ -126,7 +126,7 @@ translate ru VargaPath3_a172109e:
 # VargaPath3_358ed927 (line 14580)
 translate ru VargaPath3_358ed927:
     # t "Sarah...wow, you look incredible."
-    t ""
+    t "Sarah...wow, you look incredible."
 
 # VargaPath3_99e7c327 (line 14581)
 translate ru VargaPath3_99e7c327:
@@ -136,7 +136,7 @@ translate ru VargaPath3_99e7c327:
 # VargaPath3_aa0283c3 (line 14582)
 translate ru VargaPath3_aa0283c3:
     # s "Still just same old me, Thomas."
-    s ""
+    s "Still just same old me, Thomas."
 
 # VargaPath3_dcce89ad (line 14583)
 translate ru VargaPath3_dcce89ad:
@@ -146,12 +146,12 @@ translate ru VargaPath3_dcce89ad:
 # VargaPath3_ed36140a (line 14584)
 translate ru VargaPath3_ed36140a:
     # t "The great hall is full, it's brimming with people, I mean, more than any I've ever seen. Even the festivals don't draw a crowd like this."
-    t ""
+    t "The great hall is full, it's brimming with people, I mean, more than any I've ever seen. Even the festivals don't draw a crowd like this."
 
 # VargaPath3_9e0de178 (line 14585)
 translate ru VargaPath3_9e0de178:
     # s "Yeah, speaking of that, shouldn't you be out there, taking your seat? I know you dislike these public events, but it's still important that you show yourself."
-    s ""
+    s "Yeah, speaking of that, shouldn't you be out there, taking your seat? I know you dislike these public events, but it's still important that you show yourself."
 
 # VargaPath3_8728ed71 (line 14586)
 translate ru VargaPath3_8728ed71:
@@ -161,17 +161,17 @@ translate ru VargaPath3_8728ed71:
 # VargaPath3_1a30f9ea (line 14587)
 translate ru VargaPath3_1a30f9ea:
     # t "Yeah...about that Sarah."
-    t ""
+    t "Yeah...about that Sarah."
 
 # VargaPath3_aa9e78c4 (line 14588)
 translate ru VargaPath3_aa9e78c4:
     # t "I was thinking, on account of Dad not being around anymore...I figured..."
-    t ""
+    t "I was thinking, on account of Dad not being around anymore...I figured..."
 
 # VargaPath3_9c00fdd8 (line 14589)
 translate ru VargaPath3_9c00fdd8:
     # t "I could walk you down the aisle."
-    t ""
+    t "I could walk you down the aisle."
 
 # VargaPath3_4035c65e (line 14590)
 translate ru VargaPath3_4035c65e:
@@ -196,7 +196,7 @@ translate ru VargaPath3_52f8ca58:
 # VargaPath3_bf33792a (line 14594)
 translate ru VargaPath3_bf33792a:
     # s "I would love that, Thomas."
-    s ""
+    s "I would love that, Thomas."
 
 # VargaPath3_a16ee09d (line 14595)
 translate ru VargaPath3_a16ee09d:
@@ -206,12 +206,12 @@ translate ru VargaPath3_a16ee09d:
 # VargaPath3_f1545579 (line 14596)
 translate ru VargaPath3_f1545579:
     # s "Ooh, and if you step on my dress, I'll bury you somewhere in the garden where nobody will ever find your body."
-    s ""
+    s "Ooh, and if you step on my dress, I'll bury you somewhere in the garden where nobody will ever find your body."
 
 # VargaPath3_97b98002 (line 14597)
 translate ru VargaPath3_97b98002:
     # t "Gods help me. What did I sign up for?"
-    t ""
+    t "Gods help me. What did I sign up for?"
 
 # VargaPath3_34f4c15e (line 14606)
 translate ru VargaPath3_34f4c15e:
@@ -421,12 +421,12 @@ translate ru VargaPath3_6e485dd2:
 # VargaPath3_c8c82925 (line 14673)
 translate ru VargaPath3_c8c82925:
     # m "Princess Sarah, Lord Varga. My warmest congratulations to both of you."
-    m ""
+    m "Princess Sarah, Lord Varga. My warmest congratulations to both of you."
 
 # VargaPath3_d7a1d551 (line 14674)
 translate ru VargaPath3_d7a1d551:
     # m "May this union last for as long as you live."
-    m ""
+    m "May this union last for as long as you live."
 
 # VargaPath3_cb0eae31 (line 14675)
 translate ru VargaPath3_cb0eae31:
@@ -446,7 +446,7 @@ translate ru VargaPath3_66b1735a:
 # VargaPath3_7514a105 (line 14678)
 translate ru VargaPath3_7514a105:
     # s "Thank you, Marion, my brother and I were very happy when we heard you would attend."
-    s ""
+    s "Thank you, Marion, my brother and I were very happy when we heard you would attend."
 
 # VargaPath3_92a7db2c (line 14679)
 translate ru VargaPath3_92a7db2c:
@@ -456,22 +456,22 @@ translate ru VargaPath3_92a7db2c:
 # VargaPath3_3c925559 (line 14680)
 translate ru VargaPath3_3c925559:
     # m "Ooh, I wouldn't miss it."
-    m ""
+    m "Ooh, I wouldn't miss it."
 
 # VargaPath3_303c3921 (line 14681)
 translate ru VargaPath3_303c3921:
     # m "A match like this one doesn't come around very often. True love, what a miracle."
-    m ""
+    m "A match like this one doesn't come around very often. True love, what a miracle."
 
 # VargaPath3_2727988c (line 14682)
 translate ru VargaPath3_2727988c:
     # v "Quite."
-    v ""
+    v "Quite."
 
 # VargaPath3_a787d36f (line 14683)
 translate ru VargaPath3_a787d36f:
     # m "Aah, look, he says words like 'quite' now. You'll make a civilized man out of this one yet."
-    m ""
+    m "Aah, look, he says words like 'quite' now. You'll make a civilized man out of this one yet."
 
 # VargaPath3_0e95dd4a (line 14684)
 translate ru VargaPath3_0e95dd4a:
@@ -481,7 +481,7 @@ translate ru VargaPath3_0e95dd4a:
 # VargaPath3_e645b465 (line 14685)
 translate ru VargaPath3_e645b465:
     # s "Marion, don't forget yourself."
-    s ""
+    s "Marion, don't forget yourself."
 
 # VargaPath3_f8e13247 (line 14686)
 translate ru VargaPath3_f8e13247:
@@ -491,7 +491,7 @@ translate ru VargaPath3_f8e13247:
 # VargaPath3_e3dceace (line 14687)
 translate ru VargaPath3_e3dceace:
     # m "Apologies if I caused any offense, but the alcohol and the sight of true love, it makes even someone as me a bit foggy."
-    m ""
+    m "Apologies if I caused any offense, but the alcohol and the sight of true love, it makes even someone as me a bit foggy."
 
 # VargaPath3_c19168eb (line 14688)
 translate ru VargaPath3_c19168eb:
@@ -501,7 +501,7 @@ translate ru VargaPath3_c19168eb:
 # VargaPath3_12c1c494 (line 14689)
 translate ru VargaPath3_12c1c494:
     # m "To the happy couple."
-    m ""
+    m "To the happy couple."
 
 # VargaPath3_29bff852 (line 14690)
 translate ru VargaPath3_29bff852:
@@ -516,17 +516,17 @@ translate ru VargaPath3_5702f1a0:
 # VargaPath3_35620d2e (line 14693)
 translate ru VargaPath3_35620d2e:
     # v "He thinks he's too clever by a half. His little jabs and insults. I should have just punched him."
-    v ""
+    v "He thinks he's too clever by a half. His little jabs and insults. I should have just punched him."
 
 # VargaPath3_a875e972 (line 14694)
 translate ru VargaPath3_a875e972:
     # s "And I'm sure you could have, but don't give him the satisfaction."
-    s ""
+    s "And I'm sure you could have, but don't give him the satisfaction."
 
 # VargaPath3_40c426dc (line 14695)
 translate ru VargaPath3_40c426dc:
     # s "Besides, as someone who did hit him, I can tell you, it doesn't make you feel as good as you'd think."
-    s ""
+    s "Besides, as someone who did hit him, I can tell you, it doesn't make you feel as good as you'd think."
 
 # VargaPath3_b00d7d8d (line 14696)
 translate ru VargaPath3_b00d7d8d:
@@ -611,7 +611,7 @@ translate ru VargaPath3_da914d48:
 # VargaPath3_2b244dcc (line 14723)
 translate ru VargaPath3_2b244dcc:
     # v "So...my wife...what now?"
-    v ""
+    v "So...my wife...what now?"
 
 # VargaPath3_01ef2a00 (line 14724)
 translate ru VargaPath3_01ef2a00:
@@ -621,7 +621,7 @@ translate ru VargaPath3_01ef2a00:
 # VargaPath3_16af2486 (line 14725)
 translate ru VargaPath3_16af2486:
     # s "Ooh, I would have no idea. Perhaps I should go get the priest, I've been told they can help instruct new couples on how...this...all works."
-    s ""
+    s "Ooh, I would have no idea. Perhaps I should go get the priest, I've been told they can help instruct new couples on how...this...all works."
 
 # VargaPath3_3e09b0c3 (line 14726)
 translate ru VargaPath3_3e09b0c3:
@@ -631,7 +631,7 @@ translate ru VargaPath3_3e09b0c3:
 # VargaPath3_2db66d86 (line 14727)
 translate ru VargaPath3_2db66d86:
     # v "I think we ought to give it a try ourselves before we go asking for help. I'm sure we'll figure it out."
-    v ""
+    v "I think we ought to give it a try ourselves before we go asking for help. I'm sure we'll figure it out."
 
 # VargaPath3_5c117500 (line 14728)
 translate ru VargaPath3_5c117500:
@@ -641,7 +641,7 @@ translate ru VargaPath3_5c117500:
 # VargaPath3_c0c61c8b (line 14729)
 translate ru VargaPath3_c0c61c8b:
     # v "In fact, figuring it out might be half the fun."
-    v ""
+    v "In fact, figuring it out might be half the fun."
 
 # VargaPath3_6c465def (line 14730)
 translate ru VargaPath3_6c465def:
@@ -651,12 +651,12 @@ translate ru VargaPath3_6c465def:
 # VargaPath3_8e55df16 (line 14731)
 translate ru VargaPath3_8e55df16:
     # s "Well, we might have another problem."
-    s ""
+    s "Well, we might have another problem."
 
 # VargaPath3_6a9136b7 (line 14732)
 translate ru VargaPath3_6a9136b7:
     # s "It took nearly a dozen servants to get me into this dress, I'm not so sure I'll manage to get myself out of it."
-    s ""
+    s "It took nearly a dozen servants to get me into this dress, I'm not so sure I'll manage to get myself out of it."
 
 # VargaPath3_cc7c37c0 (line 14733)
 translate ru VargaPath3_cc7c37c0:
@@ -666,7 +666,7 @@ translate ru VargaPath3_cc7c37c0:
 # VargaPath3_ff367a4f (line 14734)
 translate ru VargaPath3_ff367a4f:
     # v "I never imagined my wedding night with a dozen servants involved."
-    v ""
+    v "I never imagined my wedding night with a dozen servants involved."
 
 # VargaPath3_c85e1552 (line 14735)
 translate ru VargaPath3_c85e1552:
@@ -676,7 +676,7 @@ translate ru VargaPath3_c85e1552:
 # VargaPath3_9021da53 (line 14736)
 translate ru VargaPath3_9021da53:
     # s "You're vile."
-    s ""
+    s "You're vile."
 
 # VargaPath3_3ca15a8c (line 14737)
 translate ru VargaPath3_3ca15a8c:
@@ -686,7 +686,7 @@ translate ru VargaPath3_3ca15a8c:
 # VargaPath3_345fdf88 (line 14738)
 translate ru VargaPath3_345fdf88:
     # v "Aah, the dozen servants will have to wait for another time."
-    v ""
+    v "Aah, the dozen servants will have to wait for another time."
 
 # VargaPath3_29e88883 (line 14739)
 translate ru VargaPath3_29e88883:
@@ -726,7 +726,7 @@ translate ru VargaPath3_1998a8ef:
 # VargaPath3_49809462 (line 14759)
 translate ru VargaPath3_49809462:
     # v "I was worried you might have been too tired. It was a pretty exhausting day."
-    v ""
+    v "I was worried you might have been too tired. It was a pretty exhausting day."
 
 # VargaPath3_65228256 (line 14760)
 translate ru VargaPath3_65228256:
@@ -736,12 +736,12 @@ translate ru VargaPath3_65228256:
 # VargaPath3_9b52bf40 (line 14761)
 translate ru VargaPath3_9b52bf40:
     # s "I thought the same of you."
-    s ""
+    s "I thought the same of you."
 
 # VargaPath3_756c157f (line 14762)
 translate ru VargaPath3_756c157f:
     # v "I don't tire easy, you might come to learn."
-    v ""
+    v "I don't tire easy, you might come to learn."
 
 # VargaPath3_d2301820 (line 14763)
 translate ru VargaPath3_d2301820:
@@ -806,7 +806,7 @@ translate ru VargaPath3_bcfe99f7:
 # VargaPath3_48f1e1b3 (line 14775)
 translate ru VargaPath3_48f1e1b3:
     # s "Take me already."
-    s ""
+    s "Take me already."
 
 # VargaPath3_6aed88bd (line 14776)
 translate ru VargaPath3_6aed88bd:
@@ -816,7 +816,7 @@ translate ru VargaPath3_6aed88bd:
 # VargaPath3_87c2c6dc (line 14777)
 translate ru VargaPath3_87c2c6dc:
     # v "So impatient..."
-    v ""
+    v "So impatient..."
 
 # VargaPath3_5a3a5466 (line 14778)
 translate ru VargaPath3_5a3a5466:
@@ -1006,7 +1006,7 @@ translate ru VargaPath3_678f37ee:
 # VargaPath3_904523cb (line 14831)
 translate ru VargaPath3_904523cb:
     # s "How did I ever live without you?"
-    s ""
+    s "How did I ever live without you?"
 
 # VargaPath3_38de8e3c (line 14832)
 translate ru VargaPath3_38de8e3c:
@@ -1016,17 +1016,17 @@ translate ru VargaPath3_38de8e3c:
 # VargaPath3_11a7bec2 (line 14833)
 translate ru VargaPath3_11a7bec2:
     # v "I love you Sarah. I did from the moment I first saw you."
-    v ""
+    v "I love you Sarah. I did from the moment I first saw you."
 
 # VargaPath3_9b22c468 (line 14834)
 translate ru VargaPath3_9b22c468:
     # v "But I also told myself I was a fool for dreaming that we could ever be together."
-    v ""
+    v "But I also told myself I was a fool for dreaming that we could ever be together."
 
 # VargaPath3_2cc4e05b (line 14835)
 translate ru VargaPath3_2cc4e05b:
     # v "Holding you here now, I'm still scared. Scared I'm going to wake up and that this was all just a dream."
-    v ""
+    v "Holding you here now, I'm still scared. Scared I'm going to wake up and that this was all just a dream."
 
 # VargaPath3_3069d371 (line 14836)
 translate ru VargaPath3_3069d371:
@@ -1036,7 +1036,7 @@ translate ru VargaPath3_3069d371:
 # VargaPath3_ba53048f (line 14837)
 translate ru VargaPath3_ba53048f:
     # s "I'm not going anywhere."
-    s ""
+    s "I'm not going anywhere."
 
 # VargaPath3_7b3f8fe8 (line 14838)
 translate ru VargaPath3_7b3f8fe8:
@@ -1056,7 +1056,7 @@ translate ru VargaPath3_1d2995bf:
 # VargaPath3_c6d91a50 (line 14841)
 translate ru VargaPath3_c6d91a50:
     # s "Really? Already?"
-    s ""
+    s "Really? Already?"
 
 # VargaPath3_8661627a (line 14842)
 translate ru VargaPath3_8661627a:
@@ -1076,5 +1076,5 @@ translate ru VargaPath3_252bc52b:
 # VargaPath3_b11859c0 (line 14845)
 translate ru VargaPath3_b11859c0:
     # v "I told you I don't tire easy."
-    v ""
+    v "I told you I don't tire easy."
 

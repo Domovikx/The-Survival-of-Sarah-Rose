@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TrainingPathAtilla4
-# Total blocks: 121
+# Total blocks: 119
 
 # TrainingPathAtilla4_8aba87bc (line 37750)
 translate ru TrainingPathAtilla4_8aba87bc:
@@ -106,7 +106,7 @@ translate ru TrainingPathAtilla4_a2bbcd45:
 # TrainingPathAtilla4_5a0c107d (line 37775)
 translate ru TrainingPathAtilla4_5a0c107d:
     # a "Good morning to you too, Sarah."
-    a ""
+    a "Good morning to you too, Sarah."
 
 # TrainingPathAtilla4_954ad211 (line 37776)
 translate ru TrainingPathAtilla4_954ad211:
@@ -346,7 +346,7 @@ translate ru TrainingPathAtilla4_aaed879b:
 # TrainingPathAtilla4_af9f2584 (line 37828)
 translate ru TrainingPathAtilla4_af9f2584:
     # s "I love you..."
-    s ""
+    s "I love you..."
 
 # TrainingPathAtilla4_4d0ff25b (line 37829)
 translate ru TrainingPathAtilla4_4d0ff25b:
@@ -356,7 +356,7 @@ translate ru TrainingPathAtilla4_4d0ff25b:
 # TrainingPathAtilla4_59454d87 (line 37830)
 translate ru TrainingPathAtilla4_59454d87:
     # a "I love you too, Sarah."
-    a ""
+    a "I love you too, Sarah."
 
 # TrainingPathAtilla4_0396f129 (line 37831)
 translate ru TrainingPathAtilla4_0396f129:
@@ -416,7 +416,7 @@ translate ru TrainingPathAtilla4_e0615c8b:
 # TrainingPathAtilla4_89fb49c0 (line 37851)
 translate ru TrainingPathAtilla4_89fb49c0:
     # s "Remember that?"
-    s ""
+    s "Remember that?"
 
 # TrainingPathAtilla4_0cca089a (line 37852)
 translate ru TrainingPathAtilla4_0cca089a:
@@ -431,7 +431,7 @@ translate ru TrainingPathAtilla4_8a6a766e:
 # TrainingPathAtilla4_fa62c1df (line 37854)
 translate ru TrainingPathAtilla4_fa62c1df:
     # a "You should have been born an orc woman, Sarah. It would have suited you better than being a rich girl."
-    a ""
+    a "You should have been born an orc woman, Sarah. It would have suited you better than being a rich girl."
 
 # TrainingPathAtilla4_8e596a4d (line 37855)
 translate ru TrainingPathAtilla4_8e596a4d:
@@ -446,7 +446,7 @@ translate ru TrainingPathAtilla4_c5f1bdb9:
 # TrainingPathAtilla4_6d67ef70 (line 37857)
 translate ru TrainingPathAtilla4_6d67ef70:
     # s "Atilla...do you think...am I ready for the exam?"
-    s ""
+    s "Atilla...do you think...am I ready for the exam?"
 
 # TrainingPathAtilla4_9cd231ea (line 37858)
 translate ru TrainingPathAtilla4_9cd231ea:
@@ -456,7 +456,7 @@ translate ru TrainingPathAtilla4_9cd231ea:
 # TrainingPathAtilla4_0e361836 (line 37859)
 translate ru TrainingPathAtilla4_0e361836:
     # a "I have no doubt. You're exceptional Sarah, and not merely for a human female...you have real potential."
-    a ""
+    a "I have no doubt. You're exceptional Sarah, and not merely for a human female...you have real potential."
 
 # TrainingPathAtilla4_87481221 (line 37860)
 translate ru TrainingPathAtilla4_87481221:
@@ -466,7 +466,7 @@ translate ru TrainingPathAtilla4_87481221:
 # TrainingPathAtilla4_22f373c2 (line 37861)
 translate ru TrainingPathAtilla4_22f373c2:
     # s "I just keep thinking there is so much more to learn..."
-    s ""
+    s "I just keep thinking there is so much more to learn..."
 
 # TrainingPathAtilla4_5ccee675 (line 37862)
 translate ru TrainingPathAtilla4_5ccee675:
@@ -476,17 +476,17 @@ translate ru TrainingPathAtilla4_5ccee675:
 # TrainingPathAtilla4_f3342ee6 (line 37863)
 translate ru TrainingPathAtilla4_f3342ee6:
     # a "And you will...but there are limits to what you can learn in training. In the end, there is no replacement for real combat experience."
-    a ""
+    a "And you will...but there are limits to what you can learn in training. In the end, there is no replacement for real combat experience."
 
 # TrainingPathAtilla4_bfd45205 (line 37864)
 translate ru TrainingPathAtilla4_bfd45205:
     # a "What comes next, you must learn out there, facing down men and women that would cut you down, watch how people turn to animals when they feel like their life hangs in the balance."
-    a ""
+    a "What comes next, you must learn out there, facing down men and women that would cut you down, watch how people turn to animals when they feel like their life hangs in the balance."
 
 # TrainingPathAtilla4_26b545d1 (line 37865)
 translate ru TrainingPathAtilla4_26b545d1:
     # a "Nothing is more dangerous than a person close to death."
-    a ""
+    a "Nothing is more dangerous than a person close to death."
 
 # TrainingPathAtilla4_e959185f (line 37866)
 translate ru TrainingPathAtilla4_e959185f:
@@ -496,7 +496,7 @@ translate ru TrainingPathAtilla4_e959185f:
 # TrainingPathAtilla4_7b89f5a8 (line 37867)
 translate ru TrainingPathAtilla4_7b89f5a8:
     # s "But what does that mean for us...if I don't need the training anymore?"
-    s ""
+    s "But what does that mean for us...if I don't need the training anymore?"
 
 # TrainingPathAtilla4_bb4492c9 (line 37868)
 translate ru TrainingPathAtilla4_bb4492c9:
@@ -506,7 +506,7 @@ translate ru TrainingPathAtilla4_bb4492c9:
 # TrainingPathAtilla4_a149724e (line 37869)
 translate ru TrainingPathAtilla4_a149724e:
     # a "Sarah..."
-    a ""
+    a "Sarah..."
 
 # TrainingPathAtilla4_fd1205e9 (line 37870)
 translate ru TrainingPathAtilla4_fd1205e9:
@@ -516,7 +516,7 @@ translate ru TrainingPathAtilla4_fd1205e9:
 # TrainingPathAtilla4_ec95162a (line 37871)
 translate ru TrainingPathAtilla4_ec95162a:
     # a "When this is over between us...I think you must learn to let me go..."
-    a ""
+    a "When this is over between us...I think you must learn to let me go..."
 
 # TrainingPathAtilla4_9900584b (line 37872)
 translate ru TrainingPathAtilla4_9900584b:
@@ -526,12 +526,12 @@ translate ru TrainingPathAtilla4_9900584b:
 # TrainingPathAtilla4_279eedba (line 37873)
 translate ru TrainingPathAtilla4_279eedba:
     # a "I am older than you...far older. You're still young, you're going to have a long life, full of many things."
-    a ""
+    a "I am older than you...far older. You're still young, you're going to have a long life, full of many things."
 
 # TrainingPathAtilla4_8f98c245 (line 37874)
 translate ru TrainingPathAtilla4_8f98c245:
     # a "It's not right for me to keep you back, to ask you to stay with me."
-    a ""
+    a "It's not right for me to keep you back, to ask you to stay with me."
 
 # TrainingPathAtilla4_5d00a5bd (line 37875)
 translate ru TrainingPathAtilla4_5d00a5bd:
@@ -541,7 +541,7 @@ translate ru TrainingPathAtilla4_5d00a5bd:
 # TrainingPathAtilla4_90c36422 (line 37876)
 translate ru TrainingPathAtilla4_90c36422:
     # s "You're not asking me, I'm asking you...stay with me...please. Nobody else in this world has ever been so true a friend to me...more than a friend."
-    s ""
+    s "You're not asking me, I'm asking you...stay with me...please. Nobody else in this world has ever been so true a friend to me...more than a friend."
 
 # TrainingPathAtilla4_bdd2ffb7 (line 37877)
 translate ru TrainingPathAtilla4_bdd2ffb7:
@@ -551,17 +551,17 @@ translate ru TrainingPathAtilla4_bdd2ffb7:
 # TrainingPathAtilla4_6fe6b5f0 (line 37878)
 translate ru TrainingPathAtilla4_6fe6b5f0:
     # a "Sarah, I had one great love in my life. To have met you and found another, it is more than I could have ever asked for..."
-    a ""
+    a "Sarah, I had one great love in my life. To have met you and found another, it is more than I could have ever asked for..."
 
 # TrainingPathAtilla4_baef3c00 (line 37879)
 translate ru TrainingPathAtilla4_baef3c00:
     # a "But I can't be greedy, not with your life."
-    a ""
+    a "But I can't be greedy, not with your life."
 
 # TrainingPathAtilla4_87fab519 (line 37880)
 translate ru TrainingPathAtilla4_87fab519:
     # a "I love you, I don't deny that, but that is why I cannot keep you."
-    a ""
+    a "I love you, I don't deny that, but that is why I cannot keep you."
 
 # TrainingPathAtilla4_999e2d1c (line 37881)
 translate ru TrainingPathAtilla4_999e2d1c:
@@ -571,7 +571,7 @@ translate ru TrainingPathAtilla4_999e2d1c:
 # TrainingPathAtilla4_71e6d864 (line 37882)
 translate ru TrainingPathAtilla4_71e6d864:
     # a "If we stay together, we will be lost to one another. Don't deny that truth."
-    a ""
+    a "If we stay together, we will be lost to one another. Don't deny that truth."
 
 # TrainingPathAtilla4_f3c7c628 (line 37883)
 translate ru TrainingPathAtilla4_f3c7c628:
@@ -597,14 +597,4 @@ translate ru TrainingPathAtilla4_6aae6f0a:
 translate ru TrainingPathAtilla4_8edce21a:
     # "Wasn't that enough...Sarah silently wondered to herself?"
     ""
-
-# TrainingPathAtilla4_2027bebb (line 37891)
-translate ru TrainingPathAtilla4_2027bebb:
-    # "Sarah knows that Atilla is right, something breaks between them."
-    "Sarah knows that Atilla is right, something breaks between them." ""
-
-# TrainingPathAtilla4_8f3cc902 (line 37924)
-translate ru TrainingPathAtilla4_8f3cc902:
-    # "Sarah's heart is lost to Atilla, she cannot turn away from him."
-    "Sarah's heart is lost to Atilla, she cannot turn away from him." ""
 

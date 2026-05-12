@@ -71,7 +71,7 @@ translate ru MythranArcWarrior1_1c0e1df3:
 # MythranArcWarrior1_0dfa3457 (line 49588)
 translate ru MythranArcWarrior1_0dfa3457:
     # s "I think I'm going to need a secretary if I want to keep doing this."
-    s ""
+    s "I think I'm going to need a secretary if I want to keep doing this."
 
 # MythranArcWarrior1_e6b2266c (line 49589)
 translate ru MythranArcWarrior1_e6b2266c:
@@ -81,7 +81,7 @@ translate ru MythranArcWarrior1_e6b2266c:
 # MythranArcWarrior1_bfad1704 (line 49590)
 translate ru MythranArcWarrior1_bfad1704:
     # k "Well, I'd love to play secretary with you, but I can't read or write for shit."
-    k ""
+    k "Well, I'd love to play secretary with you, but I can't read or write for shit."
 
 # MythranArcWarrior1_97754dc7 (line 49591)
 translate ru MythranArcWarrior1_97754dc7:
@@ -121,12 +121,12 @@ translate ru MythranArcWarrior1_0ff3c6de:
 # MythranArcWarrior1_e71eb014 (line 49621)
 translate ru MythranArcWarrior1_e71eb014:
     # c "Your army looks in tip top shape."
-    c ""
+    c "Your army looks in tip top shape."
 
 # MythranArcWarrior1_f7c2c3e4 (line 49622)
 translate ru MythranArcWarrior1_f7c2c3e4:
     # s "You've been making the rounds?"
-    s ""
+    s "You've been making the rounds?"
 
 # MythranArcWarrior1_df36a89b (line 49623)
 translate ru MythranArcWarrior1_df36a89b:
@@ -136,12 +136,12 @@ translate ru MythranArcWarrior1_df36a89b:
 # MythranArcWarrior1_2a814235 (line 49624)
 translate ru MythranArcWarrior1_2a814235:
     # c "Reading the reports. I don't do well walking long distances in my heels."
-    c ""
+    c "Reading the reports. I don't do well walking long distances in my heels."
 
 # MythranArcWarrior1_6dadde61 (line 49625)
 translate ru MythranArcWarrior1_6dadde61:
     # s "Have you ever considered not wearing heels when out on campaign?"
-    s ""
+    s "Have you ever considered not wearing heels when out on campaign?"
 
 # MythranArcWarrior1_0866dc1d (line 49626)
 translate ru MythranArcWarrior1_0866dc1d:
@@ -151,17 +151,17 @@ translate ru MythranArcWarrior1_0866dc1d:
 # MythranArcWarrior1_8b808f24 (line 49627)
 translate ru MythranArcWarrior1_8b808f24:
     # c "What if I happened to die on a campaign?"
-    c ""
+    c "What if I happened to die on a campaign?"
 
 # MythranArcWarrior1_8d857c4f (line 49628)
 translate ru MythranArcWarrior1_8d857c4f:
     # c "They'd find my body dressed in military rags and ugly shoes?"
-    c ""
+    c "They'd find my body dressed in military rags and ugly shoes?"
 
 # MythranArcWarrior1_7f3a1c21 (line 49629)
 translate ru MythranArcWarrior1_7f3a1c21:
     # c "Gods, I'd rather just suffer the inconvenience."
-    c ""
+    c "Gods, I'd rather just suffer the inconvenience."
 
 # MythranArcWarrior1_e1279098 (line 49630)
 translate ru MythranArcWarrior1_e1279098:
@@ -171,12 +171,12 @@ translate ru MythranArcWarrior1_e1279098:
 # MythranArcWarrior1_49df2a2f (line 49631)
 translate ru MythranArcWarrior1_49df2a2f:
     # s "Anyway, you're right. We're almost ready to set out."
-    s ""
+    s "Anyway, you're right. We're almost ready to set out."
 
 # MythranArcWarrior1_36871ef6 (line 49632)
 translate ru MythranArcWarrior1_36871ef6:
     # c "Good, good. Can't wait to leave this horrid place behind me."
-    c ""
+    c "Good, good. Can't wait to leave this horrid place behind me."
 
 # MythranArcWarrior1_15b8bfd0 (line 49633)
 translate ru MythranArcWarrior1_15b8bfd0:
@@ -186,7 +186,7 @@ translate ru MythranArcWarrior1_15b8bfd0:
 # MythranArcWarrior1_95b12bd2 (line 49634)
 translate ru MythranArcWarrior1_95b12bd2:
     # s "You dislike this place too?"
-    s ""
+    s "You dislike this place too?"
 
 # MythranArcWarrior1_d1857d22 (line 49635)
 translate ru MythranArcWarrior1_d1857d22:
@@ -196,7 +196,7 @@ translate ru MythranArcWarrior1_d1857d22:
 # MythranArcWarrior1_b4c87a30 (line 49636)
 translate ru MythranArcWarrior1_b4c87a30:
     # c "I miss the civilized world. A place like this, only the scholars can enjoy."
-    c ""
+    c "I miss the civilized world. A place like this, only the scholars can enjoy."
 
 # MythranArcWarrior1_ee8b1842 (line 49637)
 translate ru MythranArcWarrior1_ee8b1842:
@@ -206,7 +206,7 @@ translate ru MythranArcWarrior1_ee8b1842:
 # MythranArcWarrior1_4fa23bc2 (line 49638)
 translate ru MythranArcWarrior1_4fa23bc2:
     # s "Great, then I'll issue the final orders and we can set out."
-    s ""
+    s "Great, then I'll issue the final orders and we can set out."
 
 # MythranArcWarrior1_7e06e072 (line 49639)
 translate ru MythranArcWarrior1_7e06e072:

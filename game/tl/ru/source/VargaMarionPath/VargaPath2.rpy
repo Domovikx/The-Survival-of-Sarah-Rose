@@ -26,7 +26,7 @@ translate ru VargaPath2_6b6c63d2:
 # VargaPath2_8f8684ca (line 14490)
 translate ru VargaPath2_8f8684ca:
     # t "Sarah, you know that officially, you need my blessing for the marriage."
-    t ""
+    t "Sarah, you know that officially, you need my blessing for the marriage."
 
 # VargaPath2_94dca3a7 (line 14491)
 translate ru VargaPath2_94dca3a7:
@@ -36,7 +36,7 @@ translate ru VargaPath2_94dca3a7:
 # VargaPath2_8105e2f5 (line 14492)
 translate ru VargaPath2_8105e2f5:
     # s "But I imagine that's little more than a formality, right?"
-    s ""
+    s "But I imagine that's little more than a formality, right?"
 
 # VargaPath2_2ccbc464 (line 14493)
 translate ru VargaPath2_2ccbc464:
@@ -46,12 +46,12 @@ translate ru VargaPath2_2ccbc464:
 # VargaPath2_6251836d (line 14494)
 translate ru VargaPath2_6251836d:
     # t "It is. You can marry anyone you want, you know that. I'd never object. It's just, you know, I would only want to know that you were happy."
-    t ""
+    t "It is. You can marry anyone you want, you know that. I'd never object. It's just, you know, I would only want to know that you were happy."
 
 # VargaPath2_662ecd67 (line 14495)
 translate ru VargaPath2_662ecd67:
     # s "It's kind of you to worry about me Thomas, but as the older sister, that should really be my job."
-    s ""
+    s "It's kind of you to worry about me Thomas, but as the older sister, that should really be my job."
 
 # VargaPath2_05af3e7d (line 14496)
 translate ru VargaPath2_05af3e7d:
@@ -61,7 +61,7 @@ translate ru VargaPath2_05af3e7d:
 # VargaPath2_fb4badd9 (line 14497)
 translate ru VargaPath2_fb4badd9:
     # s "And in case you wonder, he does make me happy."
-    s ""
+    s "And in case you wonder, he does make me happy."
 
 # VargaPath2_9747a4ca (line 14498)
 translate ru VargaPath2_9747a4ca:
@@ -161,7 +161,7 @@ translate ru VargaPath2_33794c01:
 # VargaPath2_ab664504 (line 14517)
 translate ru VargaPath2_ab664504:
     # t "Then I just want you to know that I'll give you my blessing, Sarah. Always."
-    t ""
+    t "Then I just want you to know that I'll give you my blessing, Sarah. Always."
 
 # VargaPath2_1a328108 (line 14518)
 translate ru VargaPath2_1a328108:
@@ -171,12 +171,12 @@ translate ru VargaPath2_1a328108:
 # VargaPath2_0494b3fa (line 14519)
 translate ru VargaPath2_0494b3fa:
     # t "You should have seen the nobles, lined out the door begging me to forbid the marriage."
-    t ""
+    t "You should have seen the nobles, lined out the door begging me to forbid the marriage."
 
 # VargaPath2_4a5597fc (line 14520)
 translate ru VargaPath2_4a5597fc:
     # t "I bet they all had their little designs. Serves them right, always creeping and plotting in the shadows."
-    t ""
+    t "I bet they all had their little designs. Serves them right, always creeping and plotting in the shadows."
 
 # VargaPath2_32407970 (line 14521)
 translate ru VargaPath2_32407970:
@@ -201,7 +201,7 @@ translate ru VargaPath2_4a504329:
 # VargaPath2_59c46376 (line 14525)
 translate ru VargaPath2_59c46376:
     # s "Thank you for standing up for me, Thomas. I know it isn't easy."
-    s ""
+    s "Thank you for standing up for me, Thomas. I know it isn't easy."
 
 # VargaPath2_1f6488f7 (line 14526)
 translate ru VargaPath2_1f6488f7:
@@ -211,17 +211,17 @@ translate ru VargaPath2_1f6488f7:
 # VargaPath2_573843a6 (line 14527)
 translate ru VargaPath2_573843a6:
     # t "I'd be lying if I said I didn't enjoy watching them squirm just a little. But I do think I'll have to come up with a way to fix the bridges you've burned."
-    t ""
+    t "I'd be lying if I said I didn't enjoy watching them squirm just a little. But I do think I'll have to come up with a way to fix the bridges you've burned."
 
 # VargaPath2_e0c35633 (line 14528)
 translate ru VargaPath2_e0c35633:
     # t "Marion, especially. I mean, I know you didn't speak of it, nor did I, but someone did."
-    t ""
+    t "Marion, especially. I mean, I know you didn't speak of it, nor did I, but someone did."
 
 # VargaPath2_b3055577 (line 14529)
 translate ru VargaPath2_b3055577:
     # t "Everyone will deny they heard the story, but by now it's the hottest piece of gossip in the capital, probably the nation."
-    t ""
+    t "Everyone will deny they heard the story, but by now it's the hottest piece of gossip in the capital, probably the nation."
 
 # VargaPath2_41fb5b02 (line 14530)
 translate ru VargaPath2_41fb5b02:
@@ -231,7 +231,7 @@ translate ru VargaPath2_41fb5b02:
 # VargaPath2_9d9b4af2 (line 14531)
 translate ru VargaPath2_9d9b4af2:
     # t "I overhead someone telling the story, and in that version, you knocked him unconscious."
-    t ""
+    t "I overhead someone telling the story, and in that version, you knocked him unconscious."
 
 # VargaPath2_c269226c (line 14532)
 translate ru VargaPath2_c269226c:
@@ -241,12 +241,12 @@ translate ru VargaPath2_c269226c:
 # VargaPath2_d6ce5d1d (line 14533)
 translate ru VargaPath2_d6ce5d1d:
     # s "You're right though, Thomas. I should have thought more before I did what I did. I just got so angry..."
-    s ""
+    s "You're right though, Thomas. I should have thought more before I did what I did. I just got so angry..."
 
 # VargaPath2_4a0ceccf (line 14534)
 translate ru VargaPath2_4a0ceccf:
     # s "It's so unlike me to let myself be carried away, but when he did that...I just lost it."
-    s ""
+    s "It's so unlike me to let myself be carried away, but when he did that...I just lost it."
 
 # VargaPath2_bdafa4bf (line 14535)
 translate ru VargaPath2_bdafa4bf:
@@ -256,12 +256,12 @@ translate ru VargaPath2_bdafa4bf:
 # VargaPath2_3dafbd65 (line 14536)
 translate ru VargaPath2_3dafbd65:
     # t "Like I said, Sarah, it will work itself out. Marion can sulk, and I'll throw him a feast or a maybe gift him some new fancy title."
-    t ""
+    t "Like I said, Sarah, it will work itself out. Marion can sulk, and I'll throw him a feast or a maybe gift him some new fancy title."
 
 # VargaPath2_4df1f8ef (line 14537)
 translate ru VargaPath2_4df1f8ef:
     # t "We'll all pretend it never happened, happy ever after."
-    t ""
+    t "We'll all pretend it never happened, happy ever after."
 
 # VargaPath2_4b56787f (line 14538)
 translate ru VargaPath2_4b56787f:

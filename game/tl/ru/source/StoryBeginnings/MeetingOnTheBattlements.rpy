@@ -66,7 +66,7 @@ translate ru MeetingOnTheBattlements_6e24af3b:
 # MeetingOnTheBattlements_eb0cfb58 (line 1026)
 translate ru MeetingOnTheBattlements_eb0cfb58:
     # s "Dad...do you think we're ready?"
-    s ""
+    s "Dad...do you think we're ready?"
 
 # MeetingOnTheBattlements_d3736fac (line 1027)
 translate ru MeetingOnTheBattlements_d3736fac:
@@ -76,7 +76,7 @@ translate ru MeetingOnTheBattlements_d3736fac:
 # MeetingOnTheBattlements_d0d6f9b0 (line 1028)
 translate ru MeetingOnTheBattlements_d0d6f9b0:
     # v "Excuse me, but can I offer you my cloak?"
-    v ""
+    v "Excuse me, but can I offer you my cloak?"
 
 # MeetingOnTheBattlements_96e51aaf (line 1029)
 translate ru MeetingOnTheBattlements_96e51aaf:
@@ -86,7 +86,7 @@ translate ru MeetingOnTheBattlements_96e51aaf:
 # MeetingOnTheBattlements_43a7587f (line 1035)
 translate ru MeetingOnTheBattlements_43a7587f:
     # v "It's too cold for you to be out here in nothing more than a dress."
-    v ""
+    v "It's too cold for you to be out here in nothing more than a dress."
 
 # MeetingOnTheBattlements_fa16ce4a (line 1036)
 translate ru MeetingOnTheBattlements_fa16ce4a:
@@ -96,12 +96,12 @@ translate ru MeetingOnTheBattlements_fa16ce4a:
 # MeetingOnTheBattlements_795b189b (line 1041)
 translate ru MeetingOnTheBattlements_795b189b:
     # s "It's okay, I don't mind the cold. I like it."
-    s ""
+    s "It's okay, I don't mind the cold. I like it."
 
 # MeetingOnTheBattlements_b632927a (line 1042)
 translate ru MeetingOnTheBattlements_b632927a:
     # v "I understand, but it's colder than you think. Hypothermia can sneak up on you."
-    v ""
+    v "I understand, but it's colder than you think. Hypothermia can sneak up on you."
 
 # MeetingOnTheBattlements_b28d2f88 (line 1047)
 translate ru MeetingOnTheBattlements_b28d2f88:
@@ -116,12 +116,12 @@ translate ru MeetingOnTheBattlements_699c1853:
 # MeetingOnTheBattlements_86cd2d81 (line 1049)
 translate ru MeetingOnTheBattlements_86cd2d81:
     # s "Thank you, kind sir."
-    s ""
+    s "Thank you, kind sir."
 
 # MeetingOnTheBattlements_1dafc6f9 (line 1050)
 translate ru MeetingOnTheBattlements_1dafc6f9:
     # v "No problem at all, uhm, my lady. My liege? Princess?"
-    v ""
+    v "No problem at all, uhm, my lady. My liege? Princess?"
 
 # MeetingOnTheBattlements_2c2fd8c6 (line 1051)
 translate ru MeetingOnTheBattlements_2c2fd8c6:
@@ -136,12 +136,12 @@ translate ru MeetingOnTheBattlements_427fd5fb:
 # MeetingOnTheBattlements_1de31b9a (line 1053)
 translate ru MeetingOnTheBattlements_1de31b9a:
     # s "It's ok, kind sir, don't mind the formalities. My name is Sarah Rose."
-    s ""
+    s "It's ok, kind sir, don't mind the formalities. My name is Sarah Rose."
 
 # MeetingOnTheBattlements_45d0af3e (line 1054)
 translate ru MeetingOnTheBattlements_45d0af3e:
     # v "I know who you are."
-    v ""
+    v "I know who you are."
 
 # MeetingOnTheBattlements_8560497b (line 1055)
 translate ru MeetingOnTheBattlements_8560497b:
@@ -151,7 +151,7 @@ translate ru MeetingOnTheBattlements_8560497b:
 # MeetingOnTheBattlements_f7bb99d5 (line 1056)
 translate ru MeetingOnTheBattlements_f7bb99d5:
     # s "And...you are?"
-    s ""
+    s "And...you are?"
 
 # MeetingOnTheBattlements_59cd3898 (line 1057)
 translate ru MeetingOnTheBattlements_59cd3898:
@@ -161,7 +161,7 @@ translate ru MeetingOnTheBattlements_59cd3898:
 # MeetingOnTheBattlements_45840d92 (line 1058)
 translate ru MeetingOnTheBattlements_45840d92:
     # v "I'm so sorry, of course, my name is Varga. Varga Northwood."
-    v ""
+    v "I'm so sorry, of course, my name is Varga. Varga Northwood."
 
 # MeetingOnTheBattlements_66fd13c2 (line 1059)
 translate ru MeetingOnTheBattlements_66fd13c2:
@@ -181,7 +181,7 @@ translate ru MeetingOnTheBattlements_c411ca83:
 # MeetingOnTheBattlements_7391dbc0 (line 1062)
 translate ru MeetingOnTheBattlements_7391dbc0:
     # s "Sir Northwood...I can't say I'm familiar with that family name. What part of Rosanna do you hail from?"
-    s ""
+    s "Sir Northwood...I can't say I'm familiar with that family name. What part of Rosanna do you hail from?"
 
 # MeetingOnTheBattlements_71ad6ec7 (line 1063)
 translate ru MeetingOnTheBattlements_71ad6ec7:
@@ -191,7 +191,7 @@ translate ru MeetingOnTheBattlements_71ad6ec7:
 # MeetingOnTheBattlements_67493e30 (line 1064)
 translate ru MeetingOnTheBattlements_67493e30:
     # v "Well...the woods up north, actually. Mine is what you could call a more recent addition to the noble families."
-    v ""
+    v "Well...the woods up north, actually. Mine is what you could call a more recent addition to the noble families."
 
 # MeetingOnTheBattlements_a2d4f8ee (line 1065)
 translate ru MeetingOnTheBattlements_a2d4f8ee:
@@ -201,12 +201,12 @@ translate ru MeetingOnTheBattlements_a2d4f8ee:
 # MeetingOnTheBattlements_b90807f0 (line 1066)
 translate ru MeetingOnTheBattlements_b90807f0:
     # v "I'm sorry if I'm messing this up, it's my first time at such a formal event."
-    v ""
+    v "I'm sorry if I'm messing this up, it's my first time at such a formal event."
 
 # MeetingOnTheBattlements_85e90408 (line 1067)
 translate ru MeetingOnTheBattlements_85e90408:
     # s "It's alright."
-    s ""
+    s "It's alright."
 
 # MeetingOnTheBattlements_5facbbc4 (line 1072)
 translate ru MeetingOnTheBattlements_5facbbc4:
@@ -216,7 +216,7 @@ translate ru MeetingOnTheBattlements_5facbbc4:
 # MeetingOnTheBattlements_268b33fd (line 1073)
 translate ru MeetingOnTheBattlements_268b33fd:
     # s "Forget all those silly rules. Even I mess them up sometimes, and I've lived with them all my life."
-    s ""
+    s "Forget all those silly rules. Even I mess them up sometimes, and I've lived with them all my life."
 
 # MeetingOnTheBattlements_40a87a96 (line 1074)
 translate ru MeetingOnTheBattlements_40a87a96:
@@ -226,12 +226,12 @@ translate ru MeetingOnTheBattlements_40a87a96:
 # MeetingOnTheBattlements_3791152f (line 1075)
 translate ru MeetingOnTheBattlements_3791152f:
     # s "Tell me, how did your family earn their title?"
-    s ""
+    s "Tell me, how did your family earn their title?"
 
 # MeetingOnTheBattlements_5314c245 (line 1076)
 translate ru MeetingOnTheBattlements_5314c245:
     # v "Do you remember the insurrection at North Chapel?"
-    v ""
+    v "Do you remember the insurrection at North Chapel?"
 
 # MeetingOnTheBattlements_06de4e92 (line 1077)
 translate ru MeetingOnTheBattlements_06de4e92:
@@ -256,12 +256,12 @@ translate ru MeetingOnTheBattlements_4f81ec9a:
 # MeetingOnTheBattlements_16fcae54 (line 1081)
 translate ru MeetingOnTheBattlements_16fcae54:
     # s "Yes, I believe I do remember."
-    s ""
+    s "Yes, I believe I do remember."
 
 # MeetingOnTheBattlements_df107c2c (line 1082)
 translate ru MeetingOnTheBattlements_df107c2c:
     # v "Well, I was the commander that broke the insurrectionist army."
-    v ""
+    v "Well, I was the commander that broke the insurrectionist army."
 
 # MeetingOnTheBattlements_c779cba8 (line 1083)
 translate ru MeetingOnTheBattlements_c779cba8:
@@ -276,7 +276,7 @@ translate ru MeetingOnTheBattlements_987f58a4:
 # MeetingOnTheBattlements_72654b8a (line 1089)
 translate ru MeetingOnTheBattlements_72654b8a:
     # s "Are you being honest with me?"
-    s ""
+    s "Are you being honest with me?"
 
 # MeetingOnTheBattlements_335cc487 (line 1090)
 translate ru MeetingOnTheBattlements_335cc487:
@@ -286,17 +286,17 @@ translate ru MeetingOnTheBattlements_335cc487:
 # MeetingOnTheBattlements_1c2eec60 (line 1091)
 translate ru MeetingOnTheBattlements_1c2eec60:
     # v "Why would I lie?"
-    v ""
+    v "Why would I lie?"
 
 # MeetingOnTheBattlements_5fd41d05 (line 1092)
 translate ru MeetingOnTheBattlements_5fd41d05:
     # s "It's just, you seem so young...and that insurrection was years ago, you would have been..."
-    s ""
+    s "It's just, you seem so young...and that insurrection was years ago, you would have been..."
 
 # MeetingOnTheBattlements_814bb8c8 (line 1093)
 translate ru MeetingOnTheBattlements_814bb8c8:
     # v "Sixteen"
-    v ""
+    v "Sixteen"
 
 # MeetingOnTheBattlements_b88ed49c (line 1094)
 translate ru MeetingOnTheBattlements_b88ed49c:
@@ -306,7 +306,7 @@ translate ru MeetingOnTheBattlements_b88ed49c:
 # MeetingOnTheBattlements_a63b7796 (line 1095)
 translate ru MeetingOnTheBattlements_a63b7796:
     # v "Yeah, I was pretty young when I did it, I suppose."
-    v ""
+    v "Yeah, I was pretty young when I did it, I suppose."
 
 # MeetingOnTheBattlements_a1280eec (line 1096)
 translate ru MeetingOnTheBattlements_a1280eec:
@@ -316,7 +316,7 @@ translate ru MeetingOnTheBattlements_a1280eec:
 # MeetingOnTheBattlements_19a19de4 (line 1097)
 translate ru MeetingOnTheBattlements_19a19de4:
     # v "They call me a military prodigy, but I don't know about all that."
-    v ""
+    v "They call me a military prodigy, but I don't know about all that."
 
 # MeetingOnTheBattlements_78588f4e (line 1098)
 translate ru MeetingOnTheBattlements_78588f4e:
@@ -326,7 +326,7 @@ translate ru MeetingOnTheBattlements_78588f4e:
 # MeetingOnTheBattlements_e370c82b (line 1099)
 translate ru MeetingOnTheBattlements_e370c82b:
     # s "Well, Sir Varga..."
-    s ""
+    s "Well, Sir Varga..."
 
 # MeetingOnTheBattlements_7b4f7c66 (line 1105)
 translate ru MeetingOnTheBattlements_7b4f7c66:
@@ -336,12 +336,12 @@ translate ru MeetingOnTheBattlements_7b4f7c66:
 # MeetingOnTheBattlements_f33aed23 (line 1106)
 translate ru MeetingOnTheBattlements_f33aed23:
     # s "It has been a pleasure to make your acquaintance."
-    s ""
+    s "It has been a pleasure to make your acquaintance."
 
 # MeetingOnTheBattlements_073e2069 (line 1107)
 translate ru MeetingOnTheBattlements_073e2069:
     # v "Aah, uhm, yes and yours as well, Princess."
-    v ""
+    v "Aah, uhm, yes and yours as well, Princess."
 
 # MeetingOnTheBattlements_1867ef4b (line 1108)
 translate ru MeetingOnTheBattlements_1867ef4b:
@@ -361,12 +361,12 @@ translate ru MeetingOnTheBattlements_4bc0d3e7:
 # MeetingOnTheBattlements_6a1b68f4 (line 1116)
 translate ru MeetingOnTheBattlements_6a1b68f4:
     # v "Please, Princess, keep it. I insist. I'll come back for it later."
-    v ""
+    v "Please, Princess, keep it. I insist. I'll come back for it later."
 
 # MeetingOnTheBattlements_644f70e5 (line 1117)
 translate ru MeetingOnTheBattlements_644f70e5:
     # s "Thank you, really. It's been nice to talk to someone for a while and not have it be about...well, you know."
-    s ""
+    s "Thank you, really. It's been nice to talk to someone for a while and not have it be about...well, you know."
 
 # MeetingOnTheBattlements_e75d8166 (line 1123)
 translate ru MeetingOnTheBattlements_e75d8166:

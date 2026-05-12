@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TheBlackMonolithWarriorEpilogue
-# Total blocks: 105
+# Total blocks: 100
 
 # TheBlackMonolithWarriorEpilogue_e6ab59fc (line 48872)
 translate ru TheBlackMonolithWarriorEpilogue_e6ab59fc:
@@ -56,7 +56,7 @@ translate ru TheBlackMonolithWarriorEpilogue_e7fe12a0:
 # TheBlackMonolithWarriorEpilogue_9bb79e14 (line 48882)
 translate ru TheBlackMonolithWarriorEpilogue_9bb79e14:
     # c "Not bad."
-    c ""
+    c "Not bad."
 
 # TheBlackMonolithWarriorEpilogue_662ecfbb (line 48883)
 translate ru TheBlackMonolithWarriorEpilogue_662ecfbb:
@@ -66,17 +66,17 @@ translate ru TheBlackMonolithWarriorEpilogue_662ecfbb:
 # TheBlackMonolithWarriorEpilogue_bce45088 (line 48884)
 translate ru TheBlackMonolithWarriorEpilogue_bce45088:
     # s "The men seem to agree."
-    s ""
+    s "The men seem to agree."
 
 # TheBlackMonolithWarriorEpilogue_21e0d319 (line 48885)
 translate ru TheBlackMonolithWarriorEpilogue_21e0d319:
     # c "Well, that too, but it also makes the whole business...cleaner. I was wondering what I'd have to do to get that fellow to play along."
-    c ""
+    c "Well, that too, but it also makes the whole business...cleaner. I was wondering what I'd have to do to get that fellow to play along."
 
 # TheBlackMonolithWarriorEpilogue_2fce559f (line 48886)
 translate ru TheBlackMonolithWarriorEpilogue_2fce559f:
     # c "Vaelen...was it?"
-    c ""
+    c "Vaelen...was it?"
 
 # TheBlackMonolithWarriorEpilogue_a387cd0e (line 48887)
 translate ru TheBlackMonolithWarriorEpilogue_a387cd0e:
@@ -86,7 +86,7 @@ translate ru TheBlackMonolithWarriorEpilogue_a387cd0e:
 # TheBlackMonolithWarriorEpilogue_5ab8e151 (line 48888)
 translate ru TheBlackMonolithWarriorEpilogue_5ab8e151:
     # c "Well, good it played out the way that it did."
-    c ""
+    c "Well, good it played out the way that it did."
 
 # TheBlackMonolithWarriorEpilogue_6a88c4c3 (line 48889)
 translate ru TheBlackMonolithWarriorEpilogue_6a88c4c3:
@@ -121,7 +121,7 @@ translate ru TheBlackMonolithWarriorEpilogue_9e0e9be1:
 # TheBlackMonolithWarriorEpilogue_c3e498ee (line 48895)
 translate ru TheBlackMonolithWarriorEpilogue_c3e498ee:
     # s "I didn't enjoy it..."
-    s ""
+    s "I didn't enjoy it..."
 
 # TheBlackMonolithWarriorEpilogue_975d90f4 (line 48896)
 translate ru TheBlackMonolithWarriorEpilogue_975d90f4:
@@ -131,22 +131,22 @@ translate ru TheBlackMonolithWarriorEpilogue_975d90f4:
 # TheBlackMonolithWarriorEpilogue_68d60a95 (line 48897)
 translate ru TheBlackMonolithWarriorEpilogue_68d60a95:
     # c "What's that dear?"
-    c ""
+    c "What's that dear?"
 
 # TheBlackMonolithWarriorEpilogue_7e2bd270 (line 48898)
 translate ru TheBlackMonolithWarriorEpilogue_7e2bd270:
     # s "I didn't enjoy winning out over Vaelen. His death."
-    s ""
+    s "I didn't enjoy winning out over Vaelen. His death."
 
 # TheBlackMonolithWarriorEpilogue_b02e4858 (line 48899)
 translate ru TheBlackMonolithWarriorEpilogue_b02e4858:
     # s "He had been a friend for many years. Without him, I would have ended up on the streets of Lethram, or worse."
-    s ""
+    s "He had been a friend for many years. Without him, I would have ended up on the streets of Lethram, or worse."
 
 # TheBlackMonolithWarriorEpilogue_56b7c895 (line 48900)
 translate ru TheBlackMonolithWarriorEpilogue_56b7c895:
     # s "When everyone else in my life was gone, he alone extended a hand."
-    s ""
+    s "When everyone else in my life was gone, he alone extended a hand."
 
 # TheBlackMonolithWarriorEpilogue_a06e386e (line 48901)
 translate ru TheBlackMonolithWarriorEpilogue_a06e386e:
@@ -156,7 +156,7 @@ translate ru TheBlackMonolithWarriorEpilogue_a06e386e:
 # TheBlackMonolithWarriorEpilogue_c2c00be9 (line 48902)
 translate ru TheBlackMonolithWarriorEpilogue_c2c00be9:
     # c "That's a good thing."
-    c ""
+    c "That's a good thing."
 
 # TheBlackMonolithWarriorEpilogue_e92f9e16 (line 48903)
 translate ru TheBlackMonolithWarriorEpilogue_e92f9e16:
@@ -166,17 +166,17 @@ translate ru TheBlackMonolithWarriorEpilogue_e92f9e16:
 # TheBlackMonolithWarriorEpilogue_29444bdf (line 48904)
 translate ru TheBlackMonolithWarriorEpilogue_29444bdf:
     # c "A good thing you don't enjoy this sort of thing, I mean."
-    c ""
+    c "A good thing you don't enjoy this sort of thing, I mean."
 
 # TheBlackMonolithWarriorEpilogue_748320fb (line 48905)
 translate ru TheBlackMonolithWarriorEpilogue_748320fb:
     # c "I've quarrelled with my fair share of nobles, both in Rosanna and in Mythra."
-    c ""
+    c "I've quarrelled with my fair share of nobles, both in Rosanna and in Mythra."
 
 # TheBlackMonolithWarriorEpilogue_a4549774 (line 48906)
 translate ru TheBlackMonolithWarriorEpilogue_a4549774:
     # c "The ones that love the carnage, the cruelty, they're often the worst of them."
-    c ""
+    c "The ones that love the carnage, the cruelty, they're often the worst of them."
 
 # TheBlackMonolithWarriorEpilogue_44f8b8cf (line 48907)
 translate ru TheBlackMonolithWarriorEpilogue_44f8b8cf:
@@ -186,7 +186,7 @@ translate ru TheBlackMonolithWarriorEpilogue_44f8b8cf:
 # TheBlackMonolithWarriorEpilogue_8fa152ae (line 48908)
 translate ru TheBlackMonolithWarriorEpilogue_8fa152ae:
     # c "You're a bit of a fool at this game, but I suppose that is better than one too practiced in it."
-    c ""
+    c "You're a bit of a fool at this game, but I suppose that is better than one too practiced in it."
 
 # TheBlackMonolithWarriorEpilogue_00b59dae (line 48909)
 translate ru TheBlackMonolithWarriorEpilogue_00b59dae:
@@ -196,7 +196,7 @@ translate ru TheBlackMonolithWarriorEpilogue_00b59dae:
 # TheBlackMonolithWarriorEpilogue_60525a8f (line 48910)
 translate ru TheBlackMonolithWarriorEpilogue_60525a8f:
     # s "You're calling your future queen a fool? People have been hanged for less."
-    s ""
+    s "You're calling your future queen a fool? People have been hanged for less."
 
 # TheBlackMonolithWarriorEpilogue_2b501c7d (line 48911)
 translate ru TheBlackMonolithWarriorEpilogue_2b501c7d:
@@ -206,7 +206,7 @@ translate ru TheBlackMonolithWarriorEpilogue_2b501c7d:
 # TheBlackMonolithWarriorEpilogue_f9fa1c70 (line 48912)
 translate ru TheBlackMonolithWarriorEpilogue_f9fa1c70:
     # c "I called your father a fool many a times."
-    c ""
+    c "I called your father a fool many a times."
 
 # TheBlackMonolithWarriorEpilogue_3bd7e4aa (line 48913)
 translate ru TheBlackMonolithWarriorEpilogue_3bd7e4aa:
@@ -216,7 +216,7 @@ translate ru TheBlackMonolithWarriorEpilogue_3bd7e4aa:
 # TheBlackMonolithWarriorEpilogue_939e1b3a (line 48914)
 translate ru TheBlackMonolithWarriorEpilogue_939e1b3a:
     # s "I would have given anything to have seen you do that."
-    s ""
+    s "I would have given anything to have seen you do that."
 
 # TheBlackMonolithWarriorEpilogue_ee2f2171 (line 48915)
 translate ru TheBlackMonolithWarriorEpilogue_ee2f2171:
@@ -226,12 +226,12 @@ translate ru TheBlackMonolithWarriorEpilogue_ee2f2171:
 # TheBlackMonolithWarriorEpilogue_9665f4dc (line 48916)
 translate ru TheBlackMonolithWarriorEpilogue_9665f4dc:
     # c "Your father appreciated it, I think. Sometimes."
-    c ""
+    c "Your father appreciated it, I think. Sometimes."
 
 # TheBlackMonolithWarriorEpilogue_47fae46b (line 48917)
 translate ru TheBlackMonolithWarriorEpilogue_47fae46b:
     # c "Other times, he called me a fool right back. We had a special relationship that way."
-    c ""
+    c "Other times, he called me a fool right back. We had a special relationship that way."
 
 # TheBlackMonolithWarriorEpilogue_188e981c (line 48918)
 translate ru TheBlackMonolithWarriorEpilogue_188e981c:
@@ -241,7 +241,7 @@ translate ru TheBlackMonolithWarriorEpilogue_188e981c:
 # TheBlackMonolithWarriorEpilogue_5aa67254 (line 48919)
 translate ru TheBlackMonolithWarriorEpilogue_5aa67254:
     # s "You don't mean..."
-    s ""
+    s "You don't mean..."
 
 # TheBlackMonolithWarriorEpilogue_949869f5 (line 48920)
 translate ru TheBlackMonolithWarriorEpilogue_949869f5:
@@ -251,17 +251,17 @@ translate ru TheBlackMonolithWarriorEpilogue_949869f5:
 # TheBlackMonolithWarriorEpilogue_2cd60454 (line 48921)
 translate ru TheBlackMonolithWarriorEpilogue_2cd60454:
     # c "Ooh, Gods no, Sarah. Your father and I went back a long way. But we never saw one another like that."
-    c ""
+    c "Ooh, Gods no, Sarah. Your father and I went back a long way. But we never saw one another like that."
 
 # TheBlackMonolithWarriorEpilogue_06d28cf7 (line 48922)
 translate ru TheBlackMonolithWarriorEpilogue_06d28cf7:
     # c "Your father he...had something tragic about him. After the death of your mother, I don't think he ever took another woman, not even in passing."
-    c ""
+    c "Your father he...had something tragic about him. After the death of your mother, I don't think he ever took another woman, not even in passing."
 
 # TheBlackMonolithWarriorEpilogue_17966250 (line 48923)
 translate ru TheBlackMonolithWarriorEpilogue_17966250:
     # c "And my spies were many, so I would have heard whispers if he'd so much as taken an eye to a servant girl. Nothing."
-    c ""
+    c "And my spies were many, so I would have heard whispers if he'd so much as taken an eye to a servant girl. Nothing."
 
 # TheBlackMonolithWarriorEpilogue_c0d452c0 (line 48924)
 translate ru TheBlackMonolithWarriorEpilogue_c0d452c0:
@@ -271,32 +271,32 @@ translate ru TheBlackMonolithWarriorEpilogue_c0d452c0:
 # TheBlackMonolithWarriorEpilogue_83cca439 (line 48925)
 translate ru TheBlackMonolithWarriorEpilogue_83cca439:
     # c "No, our relationship was special because we could argue. We could fight, I mean, really fight...and still at the end of the day we respected each other."
-    c ""
+    c "No, our relationship was special because we could argue. We could fight, I mean, really fight...and still at the end of the day we respected each other."
 
 # TheBlackMonolithWarriorEpilogue_95f6c113 (line 48926)
 translate ru TheBlackMonolithWarriorEpilogue_95f6c113:
     # c "In a council meeting, we fought and gave as hard as we could, but as soon as it was over, he never held it against me."
-    c ""
+    c "In a council meeting, we fought and gave as hard as we could, but as soon as it was over, he never held it against me."
 
 # TheBlackMonolithWarriorEpilogue_79b08454 (line 48927)
 translate ru TheBlackMonolithWarriorEpilogue_79b08454:
     # c "The world that I live in is one of endless politics."
-    c ""
+    c "The world that I live in is one of endless politics."
 
 # TheBlackMonolithWarriorEpilogue_dac32569 (line 48928)
 translate ru TheBlackMonolithWarriorEpilogue_dac32569:
     # c "Always considering who cares for what. Always managing the ego's of sad little men addicted to power they often never earned."
-    c ""
+    c "Always considering who cares for what. Always managing the ego's of sad little men addicted to power they often never earned."
 
 # TheBlackMonolithWarriorEpilogue_6f9ce3e0 (line 48929)
 translate ru TheBlackMonolithWarriorEpilogue_6f9ce3e0:
     # c "Your father was different."
-    c ""
+    c "Your father was different."
 
 # TheBlackMonolithWarriorEpilogue_ce3e141e (line 48930)
 translate ru TheBlackMonolithWarriorEpilogue_ce3e141e:
     # c "He was one of the few men I've ever truly respected."
-    c ""
+    c "He was one of the few men I've ever truly respected."
 
 # TheBlackMonolithWarriorEpilogue_1aa84cba (line 48931)
 translate ru TheBlackMonolithWarriorEpilogue_1aa84cba:
@@ -316,17 +316,17 @@ translate ru TheBlackMonolithWarriorEpilogue_3f20fdf1:
 # TheBlackMonolithWarriorEpilogue_e65e6d11 (line 48934)
 translate ru TheBlackMonolithWarriorEpilogue_e65e6d11:
     # c "Ooh dear..."
-    c ""
+    c "Ooh dear..."
 
 # TheBlackMonolithWarriorEpilogue_0a12f2eb (line 48935)
 translate ru TheBlackMonolithWarriorEpilogue_0a12f2eb:
     # c "I must have had more than I thought."
-    c ""
+    c "I must have had more than I thought."
 
 # TheBlackMonolithWarriorEpilogue_f2202501 (line 48936)
 translate ru TheBlackMonolithWarriorEpilogue_f2202501:
     # c "That's my fault for depressing you with my stories. I always drink too much when I'm sad."
-    c ""
+    c "That's my fault for depressing you with my stories. I always drink too much when I'm sad."
 
 # TheBlackMonolithWarriorEpilogue_e428e338 (line 48937)
 translate ru TheBlackMonolithWarriorEpilogue_e428e338:
@@ -336,12 +336,12 @@ translate ru TheBlackMonolithWarriorEpilogue_e428e338:
 # TheBlackMonolithWarriorEpilogue_fbd47c3c (line 48938)
 translate ru TheBlackMonolithWarriorEpilogue_fbd47c3c:
     # s "No, I liked hearing about my father."
-    s ""
+    s "No, I liked hearing about my father."
 
 # TheBlackMonolithWarriorEpilogue_02bcd328 (line 48939)
 translate ru TheBlackMonolithWarriorEpilogue_02bcd328:
     # s "I only ever saw him as my dad, but I never really saw him as a king. It's nice to know that he had others he could rely on."
-    s ""
+    s "I only ever saw him as my dad, but I never really saw him as a king. It's nice to know that he had others he could rely on."
 
 # TheBlackMonolithWarriorEpilogue_180bd4d8 (line 48940)
 translate ru TheBlackMonolithWarriorEpilogue_180bd4d8:
@@ -351,7 +351,7 @@ translate ru TheBlackMonolithWarriorEpilogue_180bd4d8:
 # TheBlackMonolithWarriorEpilogue_a33b8a98 (line 48941)
 translate ru TheBlackMonolithWarriorEpilogue_a33b8a98:
     # c "Gods...whenever I look in your face it's like I can see hints of him."
-    c ""
+    c "Gods...whenever I look in your face it's like I can see hints of him."
 
 # TheBlackMonolithWarriorEpilogue_b3577544 (line 48942)
 translate ru TheBlackMonolithWarriorEpilogue_b3577544:
@@ -361,12 +361,12 @@ translate ru TheBlackMonolithWarriorEpilogue_b3577544:
 # TheBlackMonolithWarriorEpilogue_70335f3b (line 48943)
 translate ru TheBlackMonolithWarriorEpilogue_70335f3b:
     # c "Enough, let's settle business."
-    c ""
+    c "Enough, let's settle business."
 
 # TheBlackMonolithWarriorEpilogue_2b8aa05a (line 48944)
 translate ru TheBlackMonolithWarriorEpilogue_2b8aa05a:
     # s "Business?"
-    s ""
+    s "Business?"
 
 # TheBlackMonolithWarriorEpilogue_34a64afd (line 48945)
 translate ru TheBlackMonolithWarriorEpilogue_34a64afd:
@@ -376,17 +376,17 @@ translate ru TheBlackMonolithWarriorEpilogue_34a64afd:
 # TheBlackMonolithWarriorEpilogue_411bea2c (line 48946)
 translate ru TheBlackMonolithWarriorEpilogue_411bea2c:
     # c "These here are all the legal work we need to get sorted before we get to Mythra."
-    c ""
+    c "These here are all the legal work we need to get sorted before we get to Mythra."
 
 # TheBlackMonolithWarriorEpilogue_da8e0e2c (line 48947)
 translate ru TheBlackMonolithWarriorEpilogue_da8e0e2c:
     # c "It's paperwork showing ownership over the mercenary company. All the equipment. The money. The contracts."
-    c ""
+    c "It's paperwork showing ownership over the mercenary company. All the equipment. The money. The contracts."
 
 # TheBlackMonolithWarriorEpilogue_57c36e6e (line 48948)
 translate ru TheBlackMonolithWarriorEpilogue_57c36e6e:
     # c "Your fella was pretty efficient for a mercenary, so the paperwork is in surprising good order."
-    c ""
+    c "Your fella was pretty efficient for a mercenary, so the paperwork is in surprising good order."
 
 # TheBlackMonolithWarriorEpilogue_036e9989 (line 48949)
 translate ru TheBlackMonolithWarriorEpilogue_036e9989:
@@ -396,12 +396,12 @@ translate ru TheBlackMonolithWarriorEpilogue_036e9989:
 # TheBlackMonolithWarriorEpilogue_a0ad72a6 (line 48950)
 translate ru TheBlackMonolithWarriorEpilogue_a0ad72a6:
     # s "It's all just...mine?"
-    s ""
+    s "It's all just...mine?"
 
 # TheBlackMonolithWarriorEpilogue_b38268ef (line 48951)
 translate ru TheBlackMonolithWarriorEpilogue_b38268ef:
     # c "Legally? That's a tough question, but if we get all this paperwork done with and pretend like it's yours, I doubt anyone will raise much of an issue."
-    c ""
+    c "Legally? That's a tough question, but if we get all this paperwork done with and pretend like it's yours, I doubt anyone will raise much of an issue."
 
 # TheBlackMonolithWarriorEpilogue_ca6dfe7c (line 48952)
 translate ru TheBlackMonolithWarriorEpilogue_ca6dfe7c:
@@ -411,12 +411,12 @@ translate ru TheBlackMonolithWarriorEpilogue_ca6dfe7c:
 # TheBlackMonolithWarriorEpilogue_15118abd (line 48953)
 translate ru TheBlackMonolithWarriorEpilogue_15118abd:
     # c "Those are transit papers, covering all the required documentation to get you and your soldiers to Mythra."
-    c ""
+    c "Those are transit papers, covering all the required documentation to get you and your soldiers to Mythra."
 
 # TheBlackMonolithWarriorEpilogue_dfed0a94 (line 48954)
 translate ru TheBlackMonolithWarriorEpilogue_dfed0a94:
     # c "We'll head back any day now, travel to Lethram, then put the army on ships. Mythra has enough ships to ferry your men along."
-    c ""
+    c "We'll head back any day now, travel to Lethram, then put the army on ships. Mythra has enough ships to ferry your men along."
 
 # TheBlackMonolithWarriorEpilogue_15276038 (line 48955)
 translate ru TheBlackMonolithWarriorEpilogue_15276038:
@@ -426,12 +426,12 @@ translate ru TheBlackMonolithWarriorEpilogue_15276038:
 # TheBlackMonolithWarriorEpilogue_697120fe (line 48956)
 translate ru TheBlackMonolithWarriorEpilogue_697120fe:
     # c "And then here, the final pieces of paperwork. The contract to Cassius and Dio."
-    c ""
+    c "And then here, the final pieces of paperwork. The contract to Cassius and Dio."
 
 # TheBlackMonolithWarriorEpilogue_cd4e0515 (line 48957)
 translate ru TheBlackMonolithWarriorEpilogue_cd4e0515:
     # c "They're capable soldiers and you need the kinds of guards you can trust with your life."
-    c ""
+    c "They're capable soldiers and you need the kinds of guards you can trust with your life."
 
 # TheBlackMonolithWarriorEpilogue_65526ae4 (line 48958)
 translate ru TheBlackMonolithWarriorEpilogue_65526ae4:
@@ -441,7 +441,7 @@ translate ru TheBlackMonolithWarriorEpilogue_65526ae4:
 # TheBlackMonolithWarriorEpilogue_d555e583 (line 48959)
 translate ru TheBlackMonolithWarriorEpilogue_d555e583:
     # s "I intent to release them."
-    s ""
+    s "I intent to release them."
 
 # TheBlackMonolithWarriorEpilogue_ad787556 (line 48960)
 translate ru TheBlackMonolithWarriorEpilogue_ad787556:
@@ -451,12 +451,12 @@ translate ru TheBlackMonolithWarriorEpilogue_ad787556:
 # TheBlackMonolithWarriorEpilogue_28afe8ae (line 48961)
 translate ru TheBlackMonolithWarriorEpilogue_28afe8ae:
     # c "Of course you are, a fool like your father."
-    c ""
+    c "Of course you are, a fool like your father."
 
 # TheBlackMonolithWarriorEpilogue_6e3faa5d (line 48962)
 translate ru TheBlackMonolithWarriorEpilogue_6e3faa5d:
     # c "Regardless, I can't tell you what to do. They're yours, whether you want them or not."
-    c ""
+    c "Regardless, I can't tell you what to do. They're yours, whether you want them or not."
 
 # TheBlackMonolithWarriorEpilogue_7542dbbe (line 48963)
 translate ru TheBlackMonolithWarriorEpilogue_7542dbbe:
@@ -476,7 +476,7 @@ translate ru TheBlackMonolithWarriorEpilogue_2ee0b974:
 # TheBlackMonolithWarriorEpilogue_abe26e57 (line 48966)
 translate ru TheBlackMonolithWarriorEpilogue_abe26e57:
     # s "So, do you have a quill for me?"
-    s ""
+    s "So, do you have a quill for me?"
 
 # TheBlackMonolithWarriorEpilogue_9d6ff3a6 (line 48967)
 translate ru TheBlackMonolithWarriorEpilogue_9d6ff3a6:
@@ -486,45 +486,20 @@ translate ru TheBlackMonolithWarriorEpilogue_9d6ff3a6:
 # TheBlackMonolithWarriorEpilogue_25ff7f5f (line 48968)
 translate ru TheBlackMonolithWarriorEpilogue_25ff7f5f:
     # c "Ooh dear, please. Enjoy your victory, if only for a moment."
-    c ""
+    c "Ooh dear, please. Enjoy your victory, if only for a moment."
 
 # TheBlackMonolithWarriorEpilogue_dafaff17 (line 48969)
 translate ru TheBlackMonolithWarriorEpilogue_dafaff17:
     # c "There will be plenty of days to work on the paperwork when we travel back to Mythra. No need to get it all done tonight."
-    c ""
+    c "There will be plenty of days to work on the paperwork when we travel back to Mythra. No need to get it all done tonight."
 
 # TheBlackMonolithWarriorEpilogue_9f0610da (line 48970)
 translate ru TheBlackMonolithWarriorEpilogue_9f0610da:
     # c "Come, take off some armor and relax. Have a drink with me."
-    c ""
+    c "Come, take off some armor and relax. Have a drink with me."
 
 # TheBlackMonolithWarriorEpilogue_022c8ed8 (line 48971)
 translate ru TheBlackMonolithWarriorEpilogue_022c8ed8:
     # "Sarah watched as Lady Carolyn sauntered away, slowly disrobing. Her intentions were obvious."
     ""
-
-# TheBlackMonolithWarriorEpilogue_cd6847cd (line 48974)
-translate ru TheBlackMonolithWarriorEpilogue_cd6847cd:
-    # "Sleep with Lady Carolyn"
-    "Sleep with Lady Carolyn" ""
-
-# TheBlackMonolithWarriorEpilogue_bfc2df93 (line 49045)
-translate ru TheBlackMonolithWarriorEpilogue_bfc2df93:
-    # "Leave the tent"
-    "Leave the tent" ""
-
-# TheBlackMonolithWarriorEpilogue_d170407d (line 49073)
-translate ru TheBlackMonolithWarriorEpilogue_d170407d:
-    # "Visit Kate"
-    "Visit Kate" ""
-
-# TheBlackMonolithWarriorEpilogue_f1c14bf1 (line 49156)
-translate ru TheBlackMonolithWarriorEpilogue_f1c14bf1:
-    # "Visit Cassius and Dio"
-    "Visit Cassius and Dio" ""
-
-# TheBlackMonolithWarriorEpilogue_927a8465 (line 49374)
-translate ru TheBlackMonolithWarriorEpilogue_927a8465:
-    # "Walk alone"
-    "Walk alone" ""
 

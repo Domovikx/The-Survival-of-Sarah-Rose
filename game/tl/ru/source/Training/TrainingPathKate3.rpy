@@ -111,7 +111,7 @@ translate ru TrainingPathKate3_fc2ca12a:
 # TrainingPathKate3_0524aa5c (line 25613)
 translate ru TrainingPathKate3_0524aa5c:
     # k "Surrender, surrender!"
-    k ""
+    k "Surrender, surrender!"
 
 # TrainingPathKate3_91f2909d (line 25614)
 translate ru TrainingPathKate3_91f2909d:
@@ -121,12 +121,12 @@ translate ru TrainingPathKate3_91f2909d:
 # TrainingPathKate3_16cfe6ce (line 25615)
 translate ru TrainingPathKate3_16cfe6ce:
     # s "Not bad, huh?"
-    s ""
+    s "Not bad, huh?"
 
 # TrainingPathKate3_6e071b34 (line 25616)
 translate ru TrainingPathKate3_6e071b34:
     # k "Honestly, Sarah, I can't believe it. I've been at this for years, and you're almost as good as me."
-    k ""
+    k "Honestly, Sarah, I can't believe it. I've been at this for years, and you're almost as good as me."
 
 # TrainingPathKate3_bf5d2fe2 (line 25617)
 translate ru TrainingPathKate3_bf5d2fe2:
@@ -136,7 +136,7 @@ translate ru TrainingPathKate3_bf5d2fe2:
 # TrainingPathKate3_2241fbdf (line 25618)
 translate ru TrainingPathKate3_2241fbdf:
     # s "Almost as good? I think I've bested you..."
-    s ""
+    s "Almost as good? I think I've bested you..."
 
 # TrainingPathKate3_a771e076 (line 25619)
 translate ru TrainingPathKate3_a771e076:
@@ -146,7 +146,7 @@ translate ru TrainingPathKate3_a771e076:
 # TrainingPathKate3_9d2f2261 (line 25620)
 translate ru TrainingPathKate3_9d2f2261:
     # k "I admit defeat."
-    k ""
+    k "I admit defeat."
 
 # TrainingPathKate3_92b1a03c (line 25621)
 translate ru TrainingPathKate3_92b1a03c:
@@ -166,7 +166,7 @@ translate ru TrainingPathKate3_632b4025:
 # TrainingPathKate3_0d9a0e9a (line 25624)
 translate ru TrainingPathKate3_0d9a0e9a:
     # s "So...what will I do with my captive?"
-    s ""
+    s "So...what will I do with my captive?"
 
 # TrainingPathKate3_b818a7eb (line 25625)
 translate ru TrainingPathKate3_b818a7eb:
@@ -176,12 +176,12 @@ translate ru TrainingPathKate3_b818a7eb:
 # TrainingPathKate3_b70176fc (line 25626)
 translate ru TrainingPathKate3_b70176fc:
     # k "Ooh, please, mighty Sarah...spare me, and I'll make it worth your while..."
-    k ""
+    k "Ooh, please, mighty Sarah...spare me, and I'll make it worth your while..."
 
 # TrainingPathKate3_a2fa560c (line 25627)
 translate ru TrainingPathKate3_a2fa560c:
     # s "Will you now?"
-    s ""
+    s "Will you now?"
 
 # TrainingPathKate3_f6303ec6 (line 25628)
 translate ru TrainingPathKate3_f6303ec6:
@@ -246,7 +246,7 @@ translate ru TrainingPathKate3_d6454e8b:
 # TrainingPathKate3_f3c80ac7 (line 25654)
 translate ru TrainingPathKate3_f3c80ac7:
     # s "So...I was deciding your fate, was it?"
-    s ""
+    s "So...I was deciding your fate, was it?"
 
 # TrainingPathKate3_3c443b8d (line 25655)
 translate ru TrainingPathKate3_3c443b8d:
@@ -256,12 +256,12 @@ translate ru TrainingPathKate3_3c443b8d:
 # TrainingPathKate3_2a84eaf0 (line 25656)
 translate ru TrainingPathKate3_2a84eaf0:
     # k "Ooh yes, absolutely, if you let me live, I'll do anything for you."
-    k ""
+    k "Ooh yes, absolutely, if you let me live, I'll do anything for you."
 
 # TrainingPathKate3_1997bfb0 (line 25657)
 translate ru TrainingPathKate3_1997bfb0:
     # s "Anything? I can work with that."
-    s ""
+    s "Anything? I can work with that."
 
 # TrainingPathKate3_947c63cc (line 25658)
 translate ru TrainingPathKate3_947c63cc:
@@ -456,7 +456,7 @@ translate ru TrainingPathKate3_2693a1f0:
 # TrainingPathKate3_ad9ce807 (line 25703)
 translate ru TrainingPathKate3_ad9ce807:
     # s "Kate...do you think I'm ready? For the exam?"
-    s ""
+    s "Kate...do you think I'm ready? For the exam?"
 
 # TrainingPathKate3_00429237 (line 25704)
 translate ru TrainingPathKate3_00429237:
@@ -466,7 +466,7 @@ translate ru TrainingPathKate3_00429237:
 # TrainingPathKate3_136e9e33 (line 25705)
 translate ru TrainingPathKate3_136e9e33:
     # k "You'll pass, I'm certain. You're a lot stronger than I was when I passed it. If you remember the basics, you'll get through."
-    k ""
+    k "You'll pass, I'm certain. You're a lot stronger than I was when I passed it. If you remember the basics, you'll get through."
 
 # TrainingPathKate3_29411ee3 (line 25706)
 translate ru TrainingPathKate3_29411ee3:
@@ -481,17 +481,17 @@ translate ru TrainingPathKate3_b623bf2c:
 # TrainingPathKate3_ef21a66d (line 25708)
 translate ru TrainingPathKate3_ef21a66d:
     # s "And after?"
-    s ""
+    s "And after?"
 
 # TrainingPathKate3_50ee649d (line 25709)
 translate ru TrainingPathKate3_50ee649d:
     # k "What do you mean?"
-    k ""
+    k "What do you mean?"
 
 # TrainingPathKate3_916b8ca5 (line 25710)
 translate ru TrainingPathKate3_916b8ca5:
     # s "Well, I'll pass the exam, and then I'll join...but...what then?"
-    s ""
+    s "Well, I'll pass the exam, and then I'll join...but...what then?"
 
 # TrainingPathKate3_082de38f (line 25711)
 translate ru TrainingPathKate3_082de38f:
@@ -501,32 +501,32 @@ translate ru TrainingPathKate3_082de38f:
 # TrainingPathKate3_d837a944 (line 25712)
 translate ru TrainingPathKate3_d837a944:
     # k "You'll be a soldier, same as me. We'll actually be equals. We'll fight on every corner of the world if we have to, side by side."
-    k ""
+    k "You'll be a soldier, same as me. We'll actually be equals. We'll fight on every corner of the world if we have to, side by side."
 
 # TrainingPathKate3_bd1322cf (line 25713)
 translate ru TrainingPathKate3_bd1322cf:
     # s "And what about us?"
-    s ""
+    s "And what about us?"
 
 # TrainingPathKate3_84a0e57e (line 25714)
 translate ru TrainingPathKate3_84a0e57e:
     # k "What do you mean?"
-    k ""
+    k "What do you mean?"
 
 # TrainingPathKate3_97856217 (line 25715)
 translate ru TrainingPathKate3_97856217:
     # s "I mean...what happend at the castle...what's been happening here in the camp..."
-    s ""
+    s "I mean...what happend at the castle...what's been happening here in the camp..."
 
 # TrainingPathKate3_a737020f (line 25716)
 translate ru TrainingPathKate3_a737020f:
     # s "I want to know what this means to you, because Kate..."
-    s ""
+    s "I want to know what this means to you, because Kate..."
 
 # TrainingPathKate3_40cc2483 (line 25717)
 translate ru TrainingPathKate3_40cc2483:
     # s "I love you."
-    s ""
+    s "I love you."
 
 # TrainingPathKate3_04d092da (line 25718)
 translate ru TrainingPathKate3_04d092da:
@@ -541,7 +541,7 @@ translate ru TrainingPathKate3_d410b580:
 # TrainingPathKate3_81ff525a (line 25720)
 translate ru TrainingPathKate3_81ff525a:
     # k "I love you too, Sarah."
-    k ""
+    k "I love you too, Sarah."
 
 # TrainingPathKate3_6fcbafa8 (line 25721)
 translate ru TrainingPathKate3_6fcbafa8:

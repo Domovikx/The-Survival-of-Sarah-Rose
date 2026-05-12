@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TheHollowWorldMage5
-# Total blocks: 108
+# Total blocks: 97
 
 # TheHollowWorldMage5_2c4a9824 (line 74145)
 translate ru TheHollowWorldMage5_2c4a9824:
@@ -12,16 +12,6 @@ translate ru TheHollowWorldMage5_2c4a9824:
 translate ru TheHollowWorldMage5_d14563f7:
     # "For a moment, Sarah convinced herself that she had imagined the sound and nearly returned to bed."
     ""
-
-# TheHollowWorldMage5_b8daaaa9 (line 74155)
-translate ru TheHollowWorldMage5_b8daaaa9:
-    # "Investigate the sound"
-    "Investigate the sound" ""
-
-# TheHollowWorldMage5_13e14dcc (line 74157)
-translate ru TheHollowWorldMage5_13e14dcc:
-    # "Let it go, it's nothing"
-    "Let it go, it's nothing" ""
 
 # TheHollowWorldMage5_e7df8459 (line 74162)
 translate ru TheHollowWorldMage5_e7df8459:
@@ -146,7 +136,7 @@ translate ru TheHollowWorldMage5_85ebfcaa:
 # TheHollowWorldMage5_5936e26d (line 74211)
 translate ru TheHollowWorldMage5_5936e26d:
     # s "Show yourself!"
-    s ""
+    s "Show yourself!"
 
 # TheHollowWorldMage5_5a93141d (line 74212)
 translate ru TheHollowWorldMage5_5a93141d:
@@ -196,7 +186,7 @@ translate ru TheHollowWorldMage5_e5ad925d:
 # TheHollowWorldMage5_15db1ec9 (line 74224)
 translate ru TheHollowWorldMage5_15db1ec9:
     # s "Wrong turn, huh?"
-    s ""
+    s "Wrong turn, huh?"
 
 # TheHollowWorldMage5_97aff35e (line 74225)
 translate ru TheHollowWorldMage5_97aff35e:
@@ -211,7 +201,7 @@ translate ru TheHollowWorldMage5_14ffd506:
 # TheHollowWorldMage5_7bbae69f (line 74227)
 translate ru TheHollowWorldMage5_7bbae69f:
     # s "Ooh, I think you caused me more than a bit of that."
-    s ""
+    s "Ooh, I think you caused me more than a bit of that."
 
 # TheHollowWorldMage5_c68e0ea0 (line 74228)
 translate ru TheHollowWorldMage5_c68e0ea0:
@@ -226,7 +216,7 @@ translate ru TheHollowWorldMage5_1d269bca:
 # TheHollowWorldMage5_9dff8053 (line 74230)
 translate ru TheHollowWorldMage5_9dff8053:
     # s "Yes, I think we do. And I don't think you're all that lost."
-    s ""
+    s "Yes, I think we do. And I don't think you're all that lost."
 
 # TheHollowWorldMage5_9999e3b1 (line 74231)
 translate ru TheHollowWorldMage5_9999e3b1:
@@ -241,7 +231,7 @@ translate ru TheHollowWorldMage5_141eb23a:
 # TheHollowWorldMage5_d1b96411 (line 74233)
 translate ru TheHollowWorldMage5_d1b96411:
     # s "You held a knife to my throat."
-    s ""
+    s "You held a knife to my throat."
 
 # TheHollowWorldMage5_d9f5d207 (line 74234)
 translate ru TheHollowWorldMage5_d9f5d207:
@@ -261,7 +251,7 @@ translate ru TheHollowWorldMage5_9ea7d157:
 # TheHollowWorldMage5_186d8a98 (line 74237)
 translate ru TheHollowWorldMage5_186d8a98:
     # s "We met here, in fact. This very alley."
-    s ""
+    s "We met here, in fact. This very alley."
 
 # TheHollowWorldMage5_51b5b74e (line 74238)
 translate ru TheHollowWorldMage5_51b5b74e:
@@ -281,7 +271,7 @@ translate ru TheHollowWorldMage5_66edea5e:
 # TheHollowWorldMage5_6cec452a (line 74241)
 translate ru TheHollowWorldMage5_6cec452a:
     # s "Your alley? Maybe I was naive enough to think that all those years ago. Now I know what you really are."
-    s ""
+    s "Your alley? Maybe I was naive enough to think that all those years ago. Now I know what you really are."
 
 # TheHollowWorldMage5_e539bf89 (line 74242)
 translate ru TheHollowWorldMage5_e539bf89:
@@ -291,7 +281,7 @@ translate ru TheHollowWorldMage5_e539bf89:
 # TheHollowWorldMage5_2e28033b (line 74243)
 translate ru TheHollowWorldMage5_2e28033b:
     # s "A lowlife. A criminal that feeds on those too vulnerable to defend themselves."
-    s ""
+    s "A lowlife. A criminal that feeds on those too vulnerable to defend themselves."
 
 # TheHollowWorldMage5_9dd0b769 (line 74244)
 translate ru TheHollowWorldMage5_9dd0b769:
@@ -306,7 +296,7 @@ translate ru TheHollowWorldMage5_4e3745ad:
 # TheHollowWorldMage5_487b9b62 (line 74246)
 translate ru TheHollowWorldMage5_487b9b62:
     # s "Don't call me girly."
-    s ""
+    s "Don't call me girly."
 
 # TheHollowWorldMage5_c4cb8bd4 (line 74249)
 translate ru TheHollowWorldMage5_c4cb8bd4:
@@ -336,7 +326,7 @@ translate ru TheHollowWorldMage5_3328e23d:
 # TheHollowWorldMage5_41ecfe78 (line 74255)
 translate ru TheHollowWorldMage5_41ecfe78:
     # s "Not a law, but I suppose you'd still do good to reconsider."
-    s ""
+    s "Not a law, but I suppose you'd still do good to reconsider."
 
 # TheHollowWorldMage5_0e8b558e (line 74258)
 translate ru TheHollowWorldMage5_0e8b558e:
@@ -371,7 +361,7 @@ translate ru TheHollowWorldMage5_8759a713:
 # TheHollowWorldMage5_df37e535 (line 74264)
 translate ru TheHollowWorldMage5_df37e535:
     # s "You seem to haven't changed much at all."
-    s ""
+    s "You seem to haven't changed much at all."
 
 # TheHollowWorldMage5_a58851ca (line 74265)
 translate ru TheHollowWorldMage5_a58851ca:
@@ -391,7 +381,7 @@ translate ru TheHollowWorldMage5_981db3ef:
 # TheHollowWorldMage5_53a91ba9 (line 74268)
 translate ru TheHollowWorldMage5_53a91ba9:
     # s "Really now, and you know you're a criminal?"
-    s ""
+    s "Really now, and you know you're a criminal?"
 
 # TheHollowWorldMage5_d138871e (line 74269)
 translate ru TheHollowWorldMage5_d138871e:
@@ -401,7 +391,7 @@ translate ru TheHollowWorldMage5_d138871e:
 # TheHollowWorldMage5_ff53086a (line 74270)
 translate ru TheHollowWorldMage5_ff53086a:
     # al "The name's Alaric, and I knew since I was a kid I wasn't ever gonna be one much more than this."
-    al ""
+    al "The name's Alaric, and I knew since I was a kid I wasn't ever gonna be one much more than this."
 
 # TheHollowWorldMage5_cae486ee (line 74271)
 translate ru TheHollowWorldMage5_cae486ee:
@@ -411,17 +401,17 @@ translate ru TheHollowWorldMage5_cae486ee:
 # TheHollowWorldMage5_efca3552 (line 74272)
 translate ru TheHollowWorldMage5_efca3552:
     # s "Really?"
-    s ""
+    s "Really?"
 
 # TheHollowWorldMage5_1b834a57 (line 74273)
 translate ru TheHollowWorldMage5_1b834a57:
     # al "What?"
-    al ""
+    al "What?"
 
 # TheHollowWorldMage5_eda84243 (line 74274)
 translate ru TheHollowWorldMage5_eda84243:
     # s "You're going to try and tell me your sob story of a life that led you to trying to rape me in an alley?"
-    s ""
+    s "You're going to try and tell me your sob story of a life that led you to trying to rape me in an alley?"
 
 # TheHollowWorldMage5_f3ca50c3 (line 74275)
 translate ru TheHollowWorldMage5_f3ca50c3:
@@ -431,17 +421,17 @@ translate ru TheHollowWorldMage5_f3ca50c3:
 # TheHollowWorldMage5_afd4fd30 (line 74276)
 translate ru TheHollowWorldMage5_afd4fd30:
     # al "Fine, don't listen then."
-    al ""
+    al "Fine, don't listen then."
 
 # TheHollowWorldMage5_d3fcf5f5 (line 74277)
 translate ru TheHollowWorldMage5_d3fcf5f5:
     # al "And trust me, if you had gotten a taste of this dick, you wouldn't have thought it was rape."
-    al ""
+    al "And trust me, if you had gotten a taste of this dick, you wouldn't have thought it was rape."
 
 # TheHollowWorldMage5_7c601e58 (line 74278)
 translate ru TheHollowWorldMage5_7c601e58:
     # al "I'd have you moaning like a whore."
-    al ""
+    al "I'd have you moaning like a whore."
 
 # TheHollowWorldMage5_f735b21d (line 74283)
 translate ru TheHollowWorldMage5_f735b21d:
@@ -451,12 +441,12 @@ translate ru TheHollowWorldMage5_f735b21d:
 # TheHollowWorldMage5_a41aee22 (line 74288)
 translate ru TheHollowWorldMage5_a41aee22:
     # s "Watch how you fucking talk to me. I'm not gonna keep warning you."
-    s ""
+    s "Watch how you fucking talk to me. I'm not gonna keep warning you."
 
 # TheHollowWorldMage5_91496641 (line 74289)
 translate ru TheHollowWorldMage5_91496641:
     # s "I'm not the weak little girl you met all those years ago."
-    s ""
+    s "I'm not the weak little girl you met all those years ago."
 
 # TheHollowWorldMage5_a491d661 (line 74290)
 translate ru TheHollowWorldMage5_a491d661:
@@ -466,7 +456,7 @@ translate ru TheHollowWorldMage5_a491d661:
 # TheHollowWorldMage5_1fb35951 (line 74291)
 translate ru TheHollowWorldMage5_1fb35951:
     # al "No, I can see that much..."
-    al ""
+    al "No, I can see that much..."
 
 # TheHollowWorldMage5_6809ce9a (line 74292)
 translate ru TheHollowWorldMage5_6809ce9a:
@@ -476,7 +466,7 @@ translate ru TheHollowWorldMage5_6809ce9a:
 # TheHollowWorldMage5_7554af72 (line 74293)
 translate ru TheHollowWorldMage5_7554af72:
     # al "If you promise not to call the guards, I'll promise I'll be out of your hair."
-    al ""
+    al "If you promise not to call the guards, I'll promise I'll be out of your hair."
 
 # TheHollowWorldMage5_4cca5ade (line 74294)
 translate ru TheHollowWorldMage5_4cca5ade:
@@ -486,7 +476,7 @@ translate ru TheHollowWorldMage5_4cca5ade:
 # TheHollowWorldMage5_64cabca7 (line 74300)
 translate ru TheHollowWorldMage5_64cabca7:
     # s "What were you doing here anyway?"
-    s ""
+    s "What were you doing here anyway?"
 
 # TheHollowWorldMage5_6e32d564 (line 74301)
 translate ru TheHollowWorldMage5_6e32d564:
@@ -496,50 +486,5 @@ translate ru TheHollowWorldMage5_6e32d564:
 # TheHollowWorldMage5_5e020378 (line 74302)
 translate ru TheHollowWorldMage5_5e020378:
     # al "Look, less you know, easier this all goes down, aight? I promise, ain't gonna cost you nothin."
-    al ""
-
-# TheHollowWorldMage5_b899de3d (line 74306)
-translate ru TheHollowWorldMage5_b899de3d:
-    # "Press the issue"
-    "Press the issue" ""
-
-# TheHollowWorldMage5_770685a8 (line 74339)
-translate ru TheHollowWorldMage5_770685a8:
-    # "Help Alaric"
-    "Help Alaric" ""
-
-# TheHollowWorldMage5_fcf49e73 (line 74372)
-translate ru TheHollowWorldMage5_fcf49e73:
-    # "Share a drink with him"
-    "Share a drink with him" ""
-
-# TheHollowWorldMage5_f5116fb6 (line 74403)
-translate ru TheHollowWorldMage5_f5116fb6:
-    # "Keep drinking"
-    "Keep drinking" ""
-
-# TheHollowWorldMage5_0bb75079 (line 74640)
-translate ru TheHollowWorldMage5_0bb75079:
-    # "Call it a night"
-    "Call it a night" ""
-
-# TheHollowWorldMage5_dc487075 (line 74651)
-translate ru TheHollowWorldMage5_dc487075:
-    # "Refuse"
-    "Refuse" ""
-
-# TheHollowWorldMage5_0113f57d (line 74662)
-translate ru TheHollowWorldMage5_0113f57d:
-    # "Go back home"
-    "Go back home" ""
-
-# TheHollowWorldMage5_53771d13 (line 74673)
-translate ru TheHollowWorldMage5_53771d13:
-    # "Let it rest"
-    "Let it rest" ""
-
-# TheHollowWorldMage5_f8ef5167 (line 74683)
-translate ru TheHollowWorldMage5_f8ef5167:
-    # "Make him pay for what did all those years ago"
-    "Make him pay for what did all those years ago" ""
+    al "Look, less you know, easier this all goes down, aight? I promise, ain't gonna cost you nothin."
 

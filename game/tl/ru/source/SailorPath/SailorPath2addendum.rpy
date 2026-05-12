@@ -86,7 +86,7 @@ translate ru SailorPath2addendum_fd018e68:
 # SailorPath2addendum_8412edb9 (line 26966)
 translate ru SailorPath2addendum_8412edb9:
     # cb "Hey!"
-    cb ""
+    cb "Hey!"
 
 # SailorPath2addendum_973d88e1 (line 26967)
 translate ru SailorPath2addendum_973d88e1:
@@ -96,7 +96,7 @@ translate ru SailorPath2addendum_973d88e1:
 # SailorPath2addendum_38247e9f (line 26971)
 translate ru SailorPath2addendum_38247e9f:
     # cb "Be gentle with those crates. That's how I make my money."
-    cb ""
+    cb "Be gentle with those crates. That's how I make my money."
 
 # SailorPath2addendum_06f4306e (line 26972)
 translate ru SailorPath2addendum_06f4306e:
@@ -106,7 +106,7 @@ translate ru SailorPath2addendum_06f4306e:
 # SailorPath2addendum_a7b398ed (line 26973)
 translate ru SailorPath2addendum_a7b398ed:
     # s "Hello Captain, I'm sorry about the crate. I'll promise to treat the cargo better."
-    s ""
+    s "Hello Captain, I'm sorry about the crate. I'll promise to treat the cargo better."
 
 # SailorPath2addendum_22dc2449 (line 26974)
 translate ru SailorPath2addendum_22dc2449:
@@ -116,12 +116,12 @@ translate ru SailorPath2addendum_22dc2449:
 # SailorPath2addendum_432c34ab (line 26975)
 translate ru SailorPath2addendum_432c34ab:
     # cb "Well go on then. I didn't tell you to stop working."
-    cb ""
+    cb "Well go on then. I didn't tell you to stop working."
 
 # SailorPath2addendum_ce077abe (line 26976)
 translate ru SailorPath2addendum_ce077abe:
     # s "Yes, captain!"
-    s ""
+    s "Yes, captain!"
 
 # SailorPath2addendum_25b1f328 (line 26977)
 translate ru SailorPath2addendum_25b1f328:
@@ -131,7 +131,7 @@ translate ru SailorPath2addendum_25b1f328:
 # SailorPath2addendum_528c0fe4 (line 26978)
 translate ru SailorPath2addendum_528c0fe4:
     # cb "Hold on."
-    cb ""
+    cb "Hold on."
 
 # SailorPath2addendum_4a1dab8e (line 26979)
 translate ru SailorPath2addendum_4a1dab8e:
@@ -141,7 +141,7 @@ translate ru SailorPath2addendum_4a1dab8e:
 # SailorPath2addendum_909a18d7 (line 26980)
 translate ru SailorPath2addendum_909a18d7:
     # cb "Take off your dress."
-    cb ""
+    cb "Take off your dress."
 
 # SailorPath2addendum_54642551 (line 26981)
 translate ru SailorPath2addendum_54642551:
@@ -151,22 +151,22 @@ translate ru SailorPath2addendum_54642551:
 # SailorPath2addendum_2b7ceb09 (line 26982)
 translate ru SailorPath2addendum_2b7ceb09:
     # s "Why?"
-    s ""
+    s "Why?"
 
 # SailorPath2addendum_07736daf (line 26983)
 translate ru SailorPath2addendum_07736daf:
     # cb "I guess I could give you some reason about not gettin your clothes dirty."
-    cb ""
+    cb "I guess I could give you some reason about not gettin your clothes dirty."
 
 # SailorPath2addendum_3dd7120a (line 26984)
 translate ru SailorPath2addendum_3dd7120a:
     # cb "But truth is I just like to watch your ass and tits."
-    cb ""
+    cb "But truth is I just like to watch your ass and tits."
 
 # SailorPath2addendum_7f60c145 (line 26985)
 translate ru SailorPath2addendum_7f60c145:
     # cb "Helps me focus."
-    cb ""
+    cb "Helps me focus."
 
 # SailorPath2addendum_91847037 (line 26986)
 translate ru SailorPath2addendum_91847037:
@@ -191,12 +191,12 @@ translate ru SailorPath2addendum_768ddbbe:
 # SailorPath2addendum_fc5183da (line 26994)
 translate ru SailorPath2addendum_fc5183da:
     # cb "Come on, Blondie."
-    cb ""
+    cb "Come on, Blondie."
 
 # SailorPath2addendum_c8a6b2de (line 26995)
 translate ru SailorPath2addendum_c8a6b2de:
     # cb "Don't be actin like a shy whore now. All of it."
-    cb ""
+    cb "Don't be actin like a shy whore now. All of it."
 
 # SailorPath2addendum_e141bb4a (line 26996)
 translate ru SailorPath2addendum_e141bb4a:
@@ -206,7 +206,7 @@ translate ru SailorPath2addendum_e141bb4a:
 # SailorPath2addendum_54dfead4 (line 26997)
 translate ru SailorPath2addendum_54dfead4:
     # s "I'm not a whore."
-    s ""
+    s "I'm not a whore."
 
 # SailorPath2addendum_fe9fea85 (line 26998)
 translate ru SailorPath2addendum_fe9fea85:
@@ -216,7 +216,7 @@ translate ru SailorPath2addendum_fe9fea85:
 # SailorPath2addendum_d4b2a7a5 (line 26999)
 translate ru SailorPath2addendum_d4b2a7a5:
     # cb "That's right. A whore would be gettin paid to fuck me. You just do it for free."
-    cb ""
+    cb "That's right. A whore would be gettin paid to fuck me. You just do it for free."
 
 # SailorPath2addendum_0afec33a (line 27004)
 translate ru SailorPath2addendum_0afec33a:
@@ -226,7 +226,7 @@ translate ru SailorPath2addendum_0afec33a:
 # SailorPath2addendum_574f0d13 (line 27005)
 translate ru SailorPath2addendum_574f0d13:
     # s "Happy?"
-    s ""
+    s "Happy?"
 
 # SailorPath2addendum_93004f66 (line 27006)
 translate ru SailorPath2addendum_93004f66:
@@ -236,7 +236,7 @@ translate ru SailorPath2addendum_93004f66:
 # SailorPath2addendum_68ad1bf2 (line 27007)
 translate ru SailorPath2addendum_68ad1bf2:
     # cb "Very happy."
-    cb ""
+    cb "Very happy."
 
 # SailorPath2addendum_96a11685 (line 27008)
 translate ru SailorPath2addendum_96a11685:
@@ -246,7 +246,7 @@ translate ru SailorPath2addendum_96a11685:
 # SailorPath2addendum_52108c43 (line 27009)
 translate ru SailorPath2addendum_52108c43:
     # cb "Go ahead now. Don't stop on my account."
-    cb ""
+    cb "Go ahead now. Don't stop on my account."
 
 # SailorPath2addendum_4939ceb7 (line 27010)
 translate ru SailorPath2addendum_4939ceb7:
@@ -281,7 +281,7 @@ translate ru SailorPath2addendum_737ed438:
 # SailorPath2addendum_e029670a (line 27016)
 translate ru SailorPath2addendum_e029670a:
     # cb "You're a bit flabby..."
-    cb ""
+    cb "You're a bit flabby..."
 
 # SailorPath2addendum_f6a5f123 (line 27017)
 translate ru SailorPath2addendum_f6a5f123:
@@ -301,7 +301,7 @@ translate ru SailorPath2addendum_67cfa818:
 # SailorPath2addendum_f4ced812 (line 27020)
 translate ru SailorPath2addendum_f4ced812:
     # cb "But you got decent work ethic. With enough practice, you might actually get the hang of this."
-    cb ""
+    cb "But you got decent work ethic. With enough practice, you might actually get the hang of this."
 
 # SailorPath2addendum_7ed7c114 (line 27021)
 translate ru SailorPath2addendum_7ed7c114:
@@ -311,12 +311,12 @@ translate ru SailorPath2addendum_7ed7c114:
 # SailorPath2addendum_77d69523 (line 27022)
 translate ru SailorPath2addendum_77d69523:
     # s "Thank you, Captain."
-    s ""
+    s "Thank you, Captain."
 
 # SailorPath2addendum_e3831499 (line 27023)
 translate ru SailorPath2addendum_e3831499:
     # cb "Don't forget those."
-    cb ""
+    cb "Don't forget those."
 
 # SailorPath2addendum_58943257 (line 27024)
 translate ru SailorPath2addendum_58943257:
@@ -331,17 +331,17 @@ translate ru SailorPath2addendum_3860666b:
 # SailorPath2addendum_f8d307f1 (line 27026)
 translate ru SailorPath2addendum_f8d307f1:
     # cb "You know what, Blondie?"
-    cb ""
+    cb "You know what, Blondie?"
 
 # SailorPath2addendum_bd5a20f4 (line 27027)
 translate ru SailorPath2addendum_bd5a20f4:
     # s "What, Captain Belmont?"
-    s ""
+    s "What, Captain Belmont?"
 
 # SailorPath2addendum_67cb69b3 (line 27028)
 translate ru SailorPath2addendum_67cb69b3:
     # cb "I think when you're all done with your work, I'm gonna fuck you."
-    cb ""
+    cb "I think when you're all done with your work, I'm gonna fuck you."
 
 # SailorPath2addendum_fac56398 (line 27029)
 translate ru SailorPath2addendum_fac56398:
@@ -356,7 +356,7 @@ translate ru SailorPath2addendum_067b30e7:
 # SailorPath2addendum_fb025e85 (line 27031)
 translate ru SailorPath2addendum_fb025e85:
     # s "Perhaps I could freshen up first, Captain?"
-    s ""
+    s "Perhaps I could freshen up first, Captain?"
 
 # SailorPath2addendum_c9821dca (line 27032)
 translate ru SailorPath2addendum_c9821dca:
@@ -366,12 +366,12 @@ translate ru SailorPath2addendum_c9821dca:
 # SailorPath2addendum_e4bd55a7 (line 27033)
 translate ru SailorPath2addendum_e4bd55a7:
     # cb "Please, Blondie."
-    cb ""
+    cb "Please, Blondie."
 
 # SailorPath2addendum_d9268607 (line 27034)
 translate ru SailorPath2addendum_d9268607:
     # cb "The type of girls I usually fuck are a lot less clean than you. You just keep workin."
-    cb ""
+    cb "The type of girls I usually fuck are a lot less clean than you. You just keep workin."
 
 # SailorPath2addendum_2466e2e8 (line 27035)
 translate ru SailorPath2addendum_2466e2e8:
@@ -401,7 +401,7 @@ translate ru SailorPath2addendum_4bd6cbaa:
 # SailorPath2addendum_a4f38c4b (line 27040)
 translate ru SailorPath2addendum_a4f38c4b:
     # s "Yes, Captain..."
-    s ""
+    s "Yes, Captain..."
 
 # SailorPath2addendum_78289406 (line 27041)
 translate ru SailorPath2addendum_78289406:
@@ -426,7 +426,7 @@ translate ru SailorPath2addendum_5d9374ba:
 # SailorPath2addendum_df1e0071 (line 27045)
 translate ru SailorPath2addendum_df1e0071:
     # cb "Get over here."
-    cb ""
+    cb "Get over here."
 
 # SailorPath2addendum_7484847d (line 27046)
 translate ru SailorPath2addendum_7484847d:
@@ -481,17 +481,17 @@ translate ru SailorPath2addendum_2f363593:
 # SailorPath2addendum_69d7c979 (line 27060)
 translate ru SailorPath2addendum_69d7c979:
     # cb "What is it, Blondie? Struck mute by my cock?"
-    cb ""
+    cb "What is it, Blondie? Struck mute by my cock?"
 
 # SailorPath2addendum_bb8d8c0d (line 27061)
 translate ru SailorPath2addendum_bb8d8c0d:
     # s "I...no, I was just..."
-    s ""
+    s "I...no, I was just..."
 
 # SailorPath2addendum_d9a27088 (line 27062)
 translate ru SailorPath2addendum_d9a27088:
     # cb "It's fine, Blondie. You ain't the first gal to lose herself over it. It's a great cock isn't it?"
-    cb ""
+    cb "It's fine, Blondie. You ain't the first gal to lose herself over it. It's a great cock isn't it?"
 
 # SailorPath2addendum_f0a55155 (line 27063)
 translate ru SailorPath2addendum_f0a55155:
@@ -501,12 +501,12 @@ translate ru SailorPath2addendum_f0a55155:
 # SailorPath2addendum_a2bab4ee (line 27064)
 translate ru SailorPath2addendum_a2bab4ee:
     # cb "Come on, you told me you loved it once."
-    cb ""
+    cb "Come on, you told me you loved it once."
 
 # SailorPath2addendum_110295ab (line 27065)
 translate ru SailorPath2addendum_110295ab:
     # cb "Let me hear it."
-    cb ""
+    cb "Let me hear it."
 
 # SailorPath2addendum_15f97bad (line 27066)
 translate ru SailorPath2addendum_15f97bad:
@@ -516,7 +516,7 @@ translate ru SailorPath2addendum_15f97bad:
 # SailorPath2addendum_62b335c5 (line 27067)
 translate ru SailorPath2addendum_62b335c5:
     # s "I love your cock...captain Belmont."
-    s ""
+    s "I love your cock...captain Belmont."
 
 # SailorPath2addendum_38ab3c19 (line 27068)
 translate ru SailorPath2addendum_38ab3c19:
@@ -526,7 +526,7 @@ translate ru SailorPath2addendum_38ab3c19:
 # SailorPath2addendum_d04eaaeb (line 27069)
 translate ru SailorPath2addendum_d04eaaeb:
     # cb "That's my Blondie, now get on all fours."
-    cb ""
+    cb "That's my Blondie, now get on all fours."
 
 # SailorPath2addendum_fabc3a15 (line 27075)
 translate ru SailorPath2addendum_fabc3a15:
@@ -556,7 +556,7 @@ translate ru SailorPath2addendum_48c5623a:
 # SailorPath2addendum_f1c84831 (line 27080)
 translate ru SailorPath2addendum_f1c84831:
     # cb "Look at you, your cunt is dripping."
-    cb ""
+    cb "Look at you, your cunt is dripping."
 
 # SailorPath2addendum_d6f24cc6 (line 27081)
 translate ru SailorPath2addendum_d6f24cc6:
@@ -601,12 +601,12 @@ translate ru SailorPath2addendum_7feece44:
 # SailorPath2addendum_fd5a4906 (line 27089)
 translate ru SailorPath2addendum_fd5a4906:
     # cb "You feel that, Blondie?"
-    cb ""
+    cb "You feel that, Blondie?"
 
 # SailorPath2addendum_76940aea (line 27090)
 translate ru SailorPath2addendum_76940aea:
     # cb "Reach down."
-    cb ""
+    cb "Reach down."
 
 # SailorPath2addendum_613877e8 (line 27091)
 translate ru SailorPath2addendum_613877e8:
@@ -626,12 +626,12 @@ translate ru SailorPath2addendum_c2a3b38d:
 # SailorPath2addendum_4edaf3b4 (line 27094)
 translate ru SailorPath2addendum_4edaf3b4:
     # cb "I've been stressed out all day charting our course, adjusting for the weather."
-    cb ""
+    cb "I've been stressed out all day charting our course, adjusting for the weather."
 
 # SailorPath2addendum_057ba9dd (line 27095)
 translate ru SailorPath2addendum_057ba9dd:
     # cb "But it's moments like these that remind me why I do all this shit."
-    cb ""
+    cb "But it's moments like these that remind me why I do all this shit."
 
 # SailorPath2addendum_9930f3a4 (line 27096)
 translate ru SailorPath2addendum_9930f3a4:
@@ -641,22 +641,22 @@ translate ru SailorPath2addendum_9930f3a4:
 # SailorPath2addendum_a105e416 (line 27097)
 translate ru SailorPath2addendum_a105e416:
     # cb "You feel them?"
-    cb ""
+    cb "You feel them?"
 
 # SailorPath2addendum_d5bb861e (line 27098)
 translate ru SailorPath2addendum_d5bb861e:
     # s "Yes..."
-    s ""
+    s "Yes..."
 
 # SailorPath2addendum_189b68bd (line 27099)
 translate ru SailorPath2addendum_189b68bd:
     # cb "Tonight, I'm gonna drain my balls of every drop, and you're gonna help me, got that?"
-    cb ""
+    cb "Tonight, I'm gonna drain my balls of every drop, and you're gonna help me, got that?"
 
 # SailorPath2addendum_40557e34 (line 27100)
 translate ru SailorPath2addendum_40557e34:
     # s "Yes...Captain."
-    s ""
+    s "Yes...Captain."
 
 # SailorPath2addendum_24ee090b (line 27101)
 translate ru SailorPath2addendum_24ee090b:
@@ -666,22 +666,22 @@ translate ru SailorPath2addendum_24ee090b:
 # SailorPath2addendum_b838309c (line 27102)
 translate ru SailorPath2addendum_b838309c:
     # cb "Don't fucking whisper it!"
-    cb ""
+    cb "Don't fucking whisper it!"
 
 # SailorPath2addendum_1d983454 (line 27103)
 translate ru SailorPath2addendum_1d983454:
     # s "Sorry Captain!"
-    s ""
+    s "Sorry Captain!"
 
 # SailorPath2addendum_86c58d74 (line 27104)
 translate ru SailorPath2addendum_86c58d74:
     # s "I'll...help you!"
-    s ""
+    s "I'll...help you!"
 
 # SailorPath2addendum_584ef825 (line 27105)
 translate ru SailorPath2addendum_584ef825:
     # cb "Good, now hold on to something, cause I wanna break you in tonight."
-    cb ""
+    cb "Good, now hold on to something, cause I wanna break you in tonight."
 
 # SailorPath2addendum_60784eb6 (line 27106)
 translate ru SailorPath2addendum_60784eb6:
@@ -711,7 +711,7 @@ translate ru SailorPath2addendum_d7da8ee0:
 # SailorPath2addendum_0d5ba9d3 (line 27111)
 translate ru SailorPath2addendum_0d5ba9d3:
     # s "Ooh Gods!!!"
-    s ""
+    s "Ooh Gods!!!"
 
 # SailorPath2addendum_45a58865 (line 27112)
 translate ru SailorPath2addendum_45a58865:
@@ -746,7 +746,7 @@ translate ru SailorPath2addendum_937346ab:
 # SailorPath2addendum_7840d0f9 (line 27118)
 translate ru SailorPath2addendum_7840d0f9:
     # s "Gods!"
-    s ""
+    s "Gods!"
 
 # SailorPath2addendum_6f93ebd1 (line 27119)
 translate ru SailorPath2addendum_6f93ebd1:
@@ -886,12 +886,12 @@ translate ru SailorPath2addendum_4cce6d9d:
 # SailorPath2addendum_be8714c8 (line 27146)
 translate ru SailorPath2addendum_be8714c8:
     # cb "Who has the best cock in the world?"
-    cb ""
+    cb "Who has the best cock in the world?"
 
 # SailorPath2addendum_6a29b2ab (line 27147)
 translate ru SailorPath2addendum_6a29b2ab:
     # s "Captain Belmont!"
-    s ""
+    s "Captain Belmont!"
 
 # SailorPath2addendum_aadbb027 (line 27148)
 translate ru SailorPath2addendum_aadbb027:

@@ -186,7 +186,7 @@ translate ru SailorPath8_56e5eb11:
 # SailorPath8_af48833b (line 33749)
 translate ru SailorPath8_af48833b:
     # s "What do we do with this crankshaft?"
-    s ""
+    s "What do we do with this crankshaft?"
 
 # SailorPath8_b618375a (line 33750)
 translate ru SailorPath8_b618375a:
@@ -196,7 +196,7 @@ translate ru SailorPath8_b618375a:
 # SailorPath8_8553cd98 (line 33751)
 translate ru SailorPath8_8553cd98:
     # nick "That's for spinning up the back valve, it can let the ship load on water in the lower hull. Slows the speed, but when the ocean gets rowdy, it makes the ship more stable."
-    nick ""
+    nick "That's for spinning up the back valve, it can let the ship load on water in the lower hull. Slows the speed, but when the ocean gets rowdy, it makes the ship more stable."
 
 # SailorPath8_df728027 (line 33752)
 translate ru SailorPath8_df728027:
@@ -231,12 +231,12 @@ translate ru SailorPath8_ef9999c5:
 # SailorPath8_16ca257e (line 33767)
 translate ru SailorPath8_16ca257e:
     # s "Ooh...captain, I..."
-    s ""
+    s "Ooh...captain, I..."
 
 # SailorPath8_7542c96f (line 33768)
 translate ru SailorPath8_7542c96f:
     # s "I was just reporting for end of shift, I'll go put Nick away and-"
-    s ""
+    s "I was just reporting for end of shift, I'll go put Nick away and-"
 
 # SailorPath8_200427bc (line 33769)
 translate ru SailorPath8_200427bc:
@@ -246,17 +246,17 @@ translate ru SailorPath8_200427bc:
 # SailorPath8_c1a60c6a (line 33770)
 translate ru SailorPath8_c1a60c6a:
     # cb "No blondie, stay."
-    cb ""
+    cb "No blondie, stay."
 
 # SailorPath8_55d10a2e (line 33771)
 translate ru SailorPath8_55d10a2e:
     # s "Captain?"
-    s ""
+    s "Captain?"
 
 # SailorPath8_57f429f0 (line 33772)
 translate ru SailorPath8_57f429f0:
     # cb "I told you to stay, am I not clear?"
-    cb ""
+    cb "I told you to stay, am I not clear?"
 
 # SailorPath8_a352e671 (line 33773)
 translate ru SailorPath8_a352e671:
@@ -266,7 +266,7 @@ translate ru SailorPath8_a352e671:
 # SailorPath8_b082fa77 (line 33774)
 translate ru SailorPath8_b082fa77:
     # s "Of course, captain. My apologies."
-    s ""
+    s "Of course, captain. My apologies."
 
 # SailorPath8_1795fbe1 (line 33775)
 translate ru SailorPath8_1795fbe1:
@@ -276,7 +276,7 @@ translate ru SailorPath8_1795fbe1:
 # SailorPath8_f82ad452 (line 33776)
 translate ru SailorPath8_f82ad452:
     # cb "It's been a hard day's work. I need to lose some stress. You know what to do."
-    cb ""
+    cb "It's been a hard day's work. I need to lose some stress. You know what to do."
 
 # SailorPath8_3a989e15 (line 33777)
 translate ru SailorPath8_3a989e15:
@@ -356,22 +356,22 @@ translate ru SailorPath8_83d7fd9c:
 # SailorPath8_4f302060 (line 33797)
 translate ru SailorPath8_4f302060:
     # cb "You see that, my boy?"
-    cb ""
+    cb "You see that, my boy?"
 
 # SailorPath8_acbb43b6 (line 33798)
 translate ru SailorPath8_acbb43b6:
     # cb "She don't just suck this dick cause its her job."
-    cb ""
+    cb "She don't just suck this dick cause its her job."
 
 # SailorPath8_13615127 (line 33799)
 translate ru SailorPath8_13615127:
     # cb "She sucks it like its the only thing in the world she's good for."
-    cb ""
+    cb "She sucks it like its the only thing in the world she's good for."
 
 # SailorPath8_2c7629c4 (line 33800)
 translate ru SailorPath8_2c7629c4:
     # cb "Ain't that right, blondie?"
-    cb ""
+    cb "Ain't that right, blondie?"
 
 # SailorPath8_19dd7677 (line 33801)
 translate ru SailorPath8_19dd7677:
@@ -381,7 +381,7 @@ translate ru SailorPath8_19dd7677:
 # SailorPath8_014db776 (line 33802)
 translate ru SailorPath8_014db776:
     # cb "Come over here, get a better look."
-    cb ""
+    cb "Come over here, get a better look."
 
 # SailorPath8_b2c0461a (line 33803)
 translate ru SailorPath8_b2c0461a:
@@ -411,12 +411,12 @@ translate ru SailorPath8_6d2b0e88:
 # SailorPath8_2e671863 (line 33808)
 translate ru SailorPath8_2e671863:
     # cb "I'll tell ya boy, she knows how to work a dick."
-    cb ""
+    cb "I'll tell ya boy, she knows how to work a dick."
 
 # SailorPath8_eb60f990 (line 33809)
 translate ru SailorPath8_eb60f990:
     # cb "Sad really you'll never get to enjoy it, but that's life, ain't it?"
-    cb ""
+    cb "Sad really you'll never get to enjoy it, but that's life, ain't it?"
 
 # SailorPath8_cf84250b (line 33810)
 translate ru SailorPath8_cf84250b:
@@ -426,12 +426,12 @@ translate ru SailorPath8_cf84250b:
 # SailorPath8_b30a26dd (line 33811)
 translate ru SailorPath8_b30a26dd:
     # cb "Answer me boy, or Gods forgive me I'll castrate your worthless pecker right here!"
-    cb ""
+    cb "Answer me boy, or Gods forgive me I'll castrate your worthless pecker right here!"
 
 # SailorPath8_c68ec566 (line 33812)
 translate ru SailorPath8_c68ec566:
     # nick "Yes...captain Belmont...that's life..."
-    nick ""
+    nick "Yes...captain Belmont...that's life..."
 
 # SailorPath8_dfc1da26 (line 33813)
 translate ru SailorPath8_dfc1da26:
@@ -441,17 +441,17 @@ translate ru SailorPath8_dfc1da26:
 # SailorPath8_4fc76e6c (line 33814)
 translate ru SailorPath8_4fc76e6c:
     # cb "Look at those lips too. She uses her tongue and everything."
-    cb ""
+    cb "Look at those lips too. She uses her tongue and everything."
 
 # SailorPath8_0240b0bd (line 33815)
 translate ru SailorPath8_0240b0bd:
     # cb "Rest of her ain't bad to look at neither."
-    cb ""
+    cb "Rest of her ain't bad to look at neither."
 
 # SailorPath8_ed27ef75 (line 33816)
 translate ru SailorPath8_ed27ef75:
     # cb "And she swallows it all, Gods, how she swallows!"
-    cb ""
+    cb "And she swallows it all, Gods, how she swallows!"
 
 # SailorPath8_7c59f084 (line 33817)
 translate ru SailorPath8_7c59f084:
@@ -461,12 +461,12 @@ translate ru SailorPath8_7c59f084:
 # SailorPath8_ed7f5d96 (line 33818)
 translate ru SailorPath8_ed7f5d96:
     # cb "You know, Nick, I figured I must have lost track by how often she's drained my balls."
-    cb ""
+    cb "You know, Nick, I figured I must have lost track by how often she's drained my balls."
 
 # SailorPath8_9f92fef2 (line 33819)
 translate ru SailorPath8_9f92fef2:
     # cb "Do you know, blondie?"
-    cb ""
+    cb "Do you know, blondie?"
 
 # SailorPath8_76841abf (line 33820)
 translate ru SailorPath8_76841abf:
@@ -481,12 +481,12 @@ translate ru SailorPath8_22043533:
 # SailorPath8_269595bb (line 33822)
 translate ru SailorPath8_269595bb:
     # cb "And that's who you wanted to run away with?"
-    cb ""
+    cb "And that's who you wanted to run away with?"
 
 # SailorPath8_6f441040 (line 33823)
 translate ru SailorPath8_6f441040:
     # cb "A cheap ship whore who will suck my dick the moment I order her to?"
-    cb ""
+    cb "A cheap ship whore who will suck my dick the moment I order her to?"
 
 # SailorPath8_7ef872a5 (line 33824)
 translate ru SailorPath8_7ef872a5:
@@ -496,17 +496,17 @@ translate ru SailorPath8_7ef872a5:
 # SailorPath8_7a547c5b (line 33825)
 translate ru SailorPath8_7a547c5b:
     # cb "Really, my boy, I'm doin you a favor here."
-    cb ""
+    cb "Really, my boy, I'm doin you a favor here."
 
 # SailorPath8_bcf97b07 (line 33826)
 translate ru SailorPath8_bcf97b07:
     # cb "This is who Blondie really is."
-    cb ""
+    cb "This is who Blondie really is."
 
 # SailorPath8_2e51ea5f (line 33827)
 translate ru SailorPath8_2e51ea5f:
     # cb "I know she can wink and flirt like some proper girl, but this right here, with my cock in her mouth, that's the real her. Got that?"
-    cb ""
+    cb "I know she can wink and flirt like some proper girl, but this right here, with my cock in her mouth, that's the real her. Got that?"
 
 # SailorPath8_dd0a5947 (line 33828)
 translate ru SailorPath8_dd0a5947:
@@ -516,22 +516,22 @@ translate ru SailorPath8_dd0a5947:
 # SailorPath8_9372024a (line 33829)
 translate ru SailorPath8_9372024a:
     # nick "Yes...Captain..."
-    nick ""
+    nick "Yes...Captain..."
 
 # SailorPath8_32168db5 (line 33830)
 translate ru SailorPath8_32168db5:
     # cb "Ya see, boy, I got a soft spot for strays like this."
-    cb ""
+    cb "Ya see, boy, I got a soft spot for strays like this."
 
 # SailorPath8_0a16955f (line 33831)
 translate ru SailorPath8_0a16955f:
     # cb "That's my kind heart."
-    cb ""
+    cb "That's my kind heart."
 
 # SailorPath8_8515ae37 (line 33832)
 translate ru SailorPath8_8515ae37:
     # cb "But you should just get yourself a real nice girl, not one of these ship whores."
-    cb ""
+    cb "But you should just get yourself a real nice girl, not one of these ship whores."
 
 # SailorPath8_8dbc7c75 (line 33833)
 translate ru SailorPath8_8dbc7c75:
@@ -541,22 +541,22 @@ translate ru SailorPath8_8dbc7c75:
 # SailorPath8_2bfb21c0 (line 33834)
 translate ru SailorPath8_2bfb21c0:
     # cb "I'll do my best for this one, try and make a proper woman of her."
-    cb ""
+    cb "I'll do my best for this one, try and make a proper woman of her."
 
 # SailorPath8_575c5214 (line 33835)
 translate ru SailorPath8_575c5214:
     # cb "When we get to our destination I'll buy her a nice small house."
-    cb ""
+    cb "When we get to our destination I'll buy her a nice small house."
 
 # SailorPath8_899e68c2 (line 33836)
 translate ru SailorPath8_899e68c2:
     # cb "Put a couple of babies in her belly, make sure I get myself a legacy ya know."
-    cb ""
+    cb "Put a couple of babies in her belly, make sure I get myself a legacy ya know."
 
 # SailorPath8_b1781eb6 (line 33837)
 translate ru SailorPath8_b1781eb6:
     # cb "You'd like that, Blondie?"
-    cb ""
+    cb "You'd like that, Blondie?"
 
 # SailorPath8_a0f1ab2f (line 33838)
 translate ru SailorPath8_a0f1ab2f:
@@ -586,7 +586,7 @@ translate ru SailorPath8_8286b9e3:
 # SailorPath8_dae09f3c (line 33843)
 translate ru SailorPath8_dae09f3c:
     # s "Yes..."
-    s ""
+    s "Yes..."
 
 # SailorPath8_02c6662c (line 33844)
 translate ru SailorPath8_02c6662c:
@@ -596,7 +596,7 @@ translate ru SailorPath8_02c6662c:
 # SailorPath8_83b1f7c9 (line 33845)
 translate ru SailorPath8_83b1f7c9:
     # s "I would like that very much, captain Belmont."
-    s ""
+    s "I would like that very much, captain Belmont."
 
 # SailorPath8_3a4e3ff6 (line 33846)
 translate ru SailorPath8_3a4e3ff6:
@@ -606,12 +606,12 @@ translate ru SailorPath8_3a4e3ff6:
 # SailorPath8_b4e9a096 (line 33847)
 translate ru SailorPath8_b4e9a096:
     # cb "You think she'll make a good mother, Nick?"
-    cb ""
+    cb "You think she'll make a good mother, Nick?"
 
 # SailorPath8_7adb31ca (line 33848)
 translate ru SailorPath8_7adb31ca:
     # nick "Yes captain, I think she's made for it."
-    nick ""
+    nick "Yes captain, I think she's made for it."
 
 # SailorPath8_e7e614fa (line 33849)
 translate ru SailorPath8_e7e614fa:

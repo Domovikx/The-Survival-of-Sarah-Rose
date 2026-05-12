@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TheOldRoad1
-# Total blocks: 287
+# Total blocks: 281
 
 # TheOldRoad1_323b6e67 (line 62869)
 translate ru TheOldRoad1_323b6e67:
@@ -11,27 +11,27 @@ translate ru TheOldRoad1_323b6e67:
 # TheOldRoad1_d9d5cd5e (line 62870)
 translate ru TheOldRoad1_d9d5cd5e:
     # s "I..."
-    s ""
+    s "I..."
 
 # TheOldRoad1_065dcfde (line 62871)
 translate ru TheOldRoad1_065dcfde:
     # sig "What is it?"
-    sig ""
+    sig "What is it?"
 
 # TheOldRoad1_a36102e0 (line 62872)
 translate ru TheOldRoad1_a36102e0:
     # s "I can't go here."
-    s ""
+    s "I can't go here."
 
 # TheOldRoad1_c0757e21 (line 62873)
 translate ru TheOldRoad1_c0757e21:
     # sig "What do you mean?"
-    sig ""
+    sig "What do you mean?"
 
 # TheOldRoad1_47c04f4a (line 62874)
 translate ru TheOldRoad1_47c04f4a:
     # s "I can't go to Gallow's creek...I need to go to Rahayal."
-    s ""
+    s "I can't go to Gallow's creek...I need to go to Rahayal."
 
 # TheOldRoad1_311fd5cd (line 62877)
 translate ru TheOldRoad1_311fd5cd:
@@ -41,12 +41,12 @@ translate ru TheOldRoad1_311fd5cd:
 # TheOldRoad1_19cc30dc (line 62878)
 translate ru TheOldRoad1_19cc30dc:
     # sig "Rahayal?"
-    sig ""
+    sig "Rahayal?"
 
 # TheOldRoad1_1723adf7 (line 62879)
 translate ru TheOldRoad1_1723adf7:
     # sig "Have you lost your mind?"
-    sig ""
+    sig "Have you lost your mind?"
 
 # TheOldRoad1_b1fdc45b (line 62880)
 translate ru TheOldRoad1_b1fdc45b:
@@ -56,17 +56,17 @@ translate ru TheOldRoad1_b1fdc45b:
 # TheOldRoad1_52f67e91 (line 62881)
 translate ru TheOldRoad1_52f67e91:
     # sig "You go up those roads and you'll be dead in a week, and that's if you're lucky."
-    sig ""
+    sig "You go up those roads and you'll be dead in a week, and that's if you're lucky."
 
 # TheOldRoad1_00628916 (line 62882)
 translate ru TheOldRoad1_00628916:
     # sig "If you're unlucky they got fates worse than death."
-    sig ""
+    sig "If you're unlucky they got fates worse than death."
 
 # TheOldRoad1_ba566c22 (line 62883)
 translate ru TheOldRoad1_ba566c22:
     # sig "Turn back around, go up the road, find a nice family that will take you in and be safe."
-    sig ""
+    sig "Turn back around, go up the road, find a nice family that will take you in and be safe."
 
 # TheOldRoad1_32a12510 (line 62884)
 translate ru TheOldRoad1_32a12510:
@@ -76,12 +76,12 @@ translate ru TheOldRoad1_32a12510:
 # TheOldRoad1_06947d7b (line 62885)
 translate ru TheOldRoad1_06947d7b:
     # s "No."
-    s ""
+    s "No."
 
 # TheOldRoad1_a80e30e3 (line 62886)
 translate ru TheOldRoad1_a80e30e3:
     # s "I need to go to Rahayal."
-    s ""
+    s "I need to go to Rahayal."
 
 # TheOldRoad1_16b22d1a (line 62887)
 translate ru TheOldRoad1_16b22d1a:
@@ -91,12 +91,12 @@ translate ru TheOldRoad1_16b22d1a:
 # TheOldRoad1_f2933361 (line 62888)
 translate ru TheOldRoad1_f2933361:
     # sig "Why?"
-    sig ""
+    sig "Why?"
 
 # TheOldRoad1_9523bc54 (line 62889)
 translate ru TheOldRoad1_9523bc54:
     # sig "Tell me why you would need to go there?"
-    sig ""
+    sig "Tell me why you would need to go there?"
 
 # TheOldRoad1_80509463 (line 62890)
 translate ru TheOldRoad1_80509463:
@@ -106,7 +106,7 @@ translate ru TheOldRoad1_80509463:
 # TheOldRoad1_ae530373 (line 62891)
 translate ru TheOldRoad1_ae530373:
     # s "I...I can't tell you. I just know that I'm supposed to go there."
-    s ""
+    s "I...I can't tell you. I just know that I'm supposed to go there."
 
 # TheOldRoad1_2fee25c1 (line 62892)
 translate ru TheOldRoad1_2fee25c1:
@@ -116,12 +116,12 @@ translate ru TheOldRoad1_2fee25c1:
 # TheOldRoad1_ee422843 (line 62893)
 translate ru TheOldRoad1_ee422843:
     # sig "Well, you're fucked out of luck then, Sarah."
-    sig ""
+    sig "Well, you're fucked out of luck then, Sarah."
 
 # TheOldRoad1_36083fe7 (line 62894)
 translate ru TheOldRoad1_36083fe7:
     # sig "Cause I ain't gonna help you kill yourself."
-    sig ""
+    sig "Cause I ain't gonna help you kill yourself."
 
 # TheOldRoad1_4e9b2c66 (line 62895)
 translate ru TheOldRoad1_4e9b2c66:
@@ -131,7 +131,7 @@ translate ru TheOldRoad1_4e9b2c66:
 # TheOldRoad1_b4027c2c (line 62896)
 translate ru TheOldRoad1_b4027c2c:
     # s "Then I'll walk the old road by myself."
-    s ""
+    s "Then I'll walk the old road by myself."
 
 # TheOldRoad1_9c06b77d (line 62897)
 translate ru TheOldRoad1_9c06b77d:
@@ -161,12 +161,12 @@ translate ru TheOldRoad1_bfe2d804:
 # TheOldRoad1_aa35d1cc (line 62902)
 translate ru TheOldRoad1_aa35d1cc:
     # sig "Sarah...you don't know what's out there."
-    sig ""
+    sig "Sarah...you don't know what's out there."
 
 # TheOldRoad1_c8ac16c4 (line 62903)
 translate ru TheOldRoad1_c8ac16c4:
     # sig "Please, stay here."
-    sig ""
+    sig "Please, stay here."
 
 # TheOldRoad1_1de22893 (line 62904)
 translate ru TheOldRoad1_1de22893:
@@ -176,17 +176,17 @@ translate ru TheOldRoad1_1de22893:
 # TheOldRoad1_00d36fbf (line 62905)
 translate ru TheOldRoad1_00d36fbf:
     # s "No."
-    s ""
+    s "No."
 
 # TheOldRoad1_c248f7a1 (line 62906)
 translate ru TheOldRoad1_c248f7a1:
     # s "I will go to Rahayal."
-    s ""
+    s "I will go to Rahayal."
 
 # TheOldRoad1_21b75812 (line 62907)
 translate ru TheOldRoad1_21b75812:
     # s "If I can, I want to travel with you. But if you won't take me, I'll walk myself."
-    s ""
+    s "If I can, I want to travel with you. But if you won't take me, I'll walk myself."
 
 # TheOldRoad1_c4d9df5b (line 62909)
 translate ru TheOldRoad1_c4d9df5b:
@@ -196,7 +196,7 @@ translate ru TheOldRoad1_c4d9df5b:
 # TheOldRoad1_04a887b8 (line 62910)
 translate ru TheOldRoad1_04a887b8:
     # sig "Fuck!"
-    sig ""
+    sig "Fuck!"
 
 # TheOldRoad1_57118f81 (line 62911)
 translate ru TheOldRoad1_57118f81:
@@ -211,12 +211,12 @@ translate ru TheOldRoad1_1d3c4df1:
 # TheOldRoad1_8a123a3a (line 62914)
 translate ru TheOldRoad1_8a123a3a:
     # sak "You gotta hand it to the girl, she's got a spark about her."
-    sak ""
+    sak "You gotta hand it to the girl, she's got a spark about her."
 
 # TheOldRoad1_adfc6a19 (line 62915)
 translate ru TheOldRoad1_adfc6a19:
     # sak "Not to mention, she got you by the balls Sigmund."
-    sak ""
+    sak "Not to mention, she got you by the balls Sigmund."
 
 # TheOldRoad1_85b25f32 (line 62918)
 translate ru TheOldRoad1_85b25f32:
@@ -226,7 +226,7 @@ translate ru TheOldRoad1_85b25f32:
 # TheOldRoad1_3dc7b3ef (line 62919)
 translate ru TheOldRoad1_3dc7b3ef:
     # sig "Shut your mouth if you know what's good for you!"
-    sig ""
+    sig "Shut your mouth if you know what's good for you!"
 
 # TheOldRoad1_15b65c99 (line 62920)
 translate ru TheOldRoad1_15b65c99:
@@ -241,22 +241,22 @@ translate ru TheOldRoad1_e2018d74:
 # TheOldRoad1_07a1bfc6 (line 62924)
 translate ru TheOldRoad1_07a1bfc6:
     # sig "You wanted this, Sarah."
-    sig ""
+    sig "You wanted this, Sarah."
 
 # TheOldRoad1_e25cddc5 (line 62925)
 translate ru TheOldRoad1_e25cddc5:
     # sig "Fine, you can have it."
-    sig ""
+    sig "Fine, you can have it."
 
 # TheOldRoad1_6c899a87 (line 62926)
 translate ru TheOldRoad1_6c899a87:
     # sig "You ride with us."
-    sig ""
+    sig "You ride with us."
 
 # TheOldRoad1_b5822f7a (line 62927)
 translate ru TheOldRoad1_b5822f7a:
     # sig "But know that the only reason I'm doing this is because you might survive, and without us, you'd be dead for sure."
-    sig ""
+    sig "But know that the only reason I'm doing this is because you might survive, and without us, you'd be dead for sure."
 
 # TheOldRoad1_41df1254 (line 62932)
 translate ru TheOldRoad1_41df1254:
@@ -266,7 +266,7 @@ translate ru TheOldRoad1_41df1254:
 # TheOldRoad1_6e6e3c11 (line 62933)
 translate ru TheOldRoad1_6e6e3c11:
     # s "Thank you. I promise I won't be a burden."
-    s ""
+    s "Thank you. I promise I won't be a burden."
 
 # TheOldRoad1_c5581e98 (line 62934)
 translate ru TheOldRoad1_c5581e98:
@@ -276,17 +276,17 @@ translate ru TheOldRoad1_c5581e98:
 # TheOldRoad1_47c0fb5b (line 62939)
 translate ru TheOldRoad1_47c0fb5b:
     # sig "You'll be a burden. You'll slow us down. You'll cause untold trouble for us."
-    sig ""
+    sig "You'll be a burden. You'll slow us down. You'll cause untold trouble for us."
 
 # TheOldRoad1_e68c634f (line 62940)
 translate ru TheOldRoad1_e68c634f:
     # sig "But hell if I'm gonna have your blood on my hands."
-    sig ""
+    sig "But hell if I'm gonna have your blood on my hands."
 
 # TheOldRoad1_1291f72a (line 62941)
 translate ru TheOldRoad1_1291f72a:
     # sig "If I die and go to the afterlife, the gods can say Sigmund Falraad was a fucking idiot, but at least he always did the right thing."
-    sig ""
+    sig "If I die and go to the afterlife, the gods can say Sigmund Falraad was a fucking idiot, but at least he always did the right thing."
 
 # TheOldRoad1_45d9c602 (line 62942)
 translate ru TheOldRoad1_45d9c602:
@@ -296,17 +296,17 @@ translate ru TheOldRoad1_45d9c602:
 # TheOldRoad1_9b1e44e2 (line 62943)
 translate ru TheOldRoad1_9b1e44e2:
     # sig "Well get on the wagon then."
-    sig ""
+    sig "Well get on the wagon then."
 
 # TheOldRoad1_b1d0891a (line 62944)
 translate ru TheOldRoad1_b1d0891a:
     # sig "We need to make good time."
-    sig ""
+    sig "We need to make good time."
 
 # TheOldRoad1_346be882 (line 62945)
 translate ru TheOldRoad1_346be882:
     # s "Yes, I'm coming!"
-    s ""
+    s "Yes, I'm coming!"
 
 # TheOldRoad1_9ffc9a7a (line 62946)
 translate ru TheOldRoad1_9ffc9a7a:
@@ -336,7 +336,7 @@ translate ru TheOldRoad1_8d151827:
 # TheOldRoad1_81edd7ad (line 62957)
 translate ru TheOldRoad1_81edd7ad:
     # sig "If you're going to be with us on this trip, you're gonna have to pull your weight."
-    sig ""
+    sig "If you're going to be with us on this trip, you're gonna have to pull your weight."
 
 # TheOldRoad1_52215a09 (line 62958)
 translate ru TheOldRoad1_52215a09:
@@ -346,7 +346,7 @@ translate ru TheOldRoad1_52215a09:
 # TheOldRoad1_25c9655b (line 62959)
 translate ru TheOldRoad1_25c9655b:
     # s "Of course."
-    s ""
+    s "Of course."
 
 # TheOldRoad1_bc046541 (line 62960)
 translate ru TheOldRoad1_bc046541:
@@ -356,22 +356,22 @@ translate ru TheOldRoad1_bc046541:
 # TheOldRoad1_ee03d6fe (line 62961)
 translate ru TheOldRoad1_ee03d6fe:
     # sig "You're on cooking duty till we reach Rahayal, and if you burn anything, you're paying for it."
-    sig ""
+    sig "You're on cooking duty till we reach Rahayal, and if you burn anything, you're paying for it."
 
 # TheOldRoad1_bcbad101 (line 62962)
 translate ru TheOldRoad1_bcbad101:
     # sig "And out here on the old road, I don't give a damn what you feel or don't feel like."
-    sig ""
+    sig "And out here on the old road, I don't give a damn what you feel or don't feel like."
 
 # TheOldRoad1_d7a47911 (line 62963)
 translate ru TheOldRoad1_d7a47911:
     # sig "When I give you an order, it gets followed. That goes for you, same as it goes for them."
-    sig ""
+    sig "When I give you an order, it gets followed. That goes for you, same as it goes for them."
 
 # TheOldRoad1_3ec0c08e (line 62964)
 translate ru TheOldRoad1_3ec0c08e:
     # s "I promise I'll follow your orders, sir!"
-    s ""
+    s "I promise I'll follow your orders, sir!"
 
 # TheOldRoad1_40e65bf2 (line 62965)
 translate ru TheOldRoad1_40e65bf2:
@@ -381,17 +381,17 @@ translate ru TheOldRoad1_40e65bf2:
 # TheOldRoad1_b43d14bf (line 62966)
 translate ru TheOldRoad1_b43d14bf:
     # sig "Don't start with that sir shit, I ain't your daddy. Just do what I tell you."
-    sig ""
+    sig "Don't start with that sir shit, I ain't your daddy. Just do what I tell you."
 
 # TheOldRoad1_4162946f (line 62967)
 translate ru TheOldRoad1_4162946f:
     # s "Of course...uhh...Sigmund."
-    s ""
+    s "Of course...uhh...Sigmund."
 
 # TheOldRoad1_2d43cf20 (line 62968)
 translate ru TheOldRoad1_2d43cf20:
     # sig "You can start by setting up the campsite, put up some logs to sit on, a circle for the fire, get food going."
-    sig ""
+    sig "You can start by setting up the campsite, put up some logs to sit on, a circle for the fire, get food going."
 
 # TheOldRoad1_cc9b0737 (line 62969)
 translate ru TheOldRoad1_cc9b0737:
@@ -426,7 +426,7 @@ translate ru TheOldRoad1_e887a2b5:
 # TheOldRoad1_b61b88cd (line 62977)
 translate ru TheOldRoad1_b61b88cd:
     # krip "Fire?"
-    krip ""
+    krip "Fire?"
 
 # TheOldRoad1_50739aaf (line 62978)
 translate ru TheOldRoad1_50739aaf:
@@ -436,7 +436,7 @@ translate ru TheOldRoad1_50739aaf:
 # TheOldRoad1_f2901a02 (line 62979)
 translate ru TheOldRoad1_f2901a02:
     # s "No, I...I don't know how to make a camp fire."
-    s ""
+    s "No, I...I don't know how to make a camp fire."
 
 # TheOldRoad1_f40fdea8 (line 62980)
 translate ru TheOldRoad1_f40fdea8:
@@ -446,7 +446,7 @@ translate ru TheOldRoad1_f40fdea8:
 # TheOldRoad1_8f59e3c5 (line 62981)
 translate ru TheOldRoad1_8f59e3c5:
     # sak "Don't worry, I can make it."
-    sak ""
+    sak "Don't worry, I can make it."
 
 # TheOldRoad1_2aef8f01 (line 62982)
 translate ru TheOldRoad1_2aef8f01:
@@ -461,17 +461,17 @@ translate ru TheOldRoad1_f0d20d24:
 # TheOldRoad1_3f22418f (line 62984)
 translate ru TheOldRoad1_3f22418f:
     # s "Thank you."
-    s ""
+    s "Thank you."
 
 # TheOldRoad1_67786bcf (line 62985)
 translate ru TheOldRoad1_67786bcf:
     # sak "You know, if you want to survive out here, knowing how to make a fire is a pretty basic skill."
-    sak ""
+    sak "You know, if you want to survive out here, knowing how to make a fire is a pretty basic skill."
 
 # TheOldRoad1_1bb50f4f (line 62986)
 translate ru TheOldRoad1_1bb50f4f:
     # sak "Not a lot of fancy restaurants that will do the cooking for you."
-    sak ""
+    sak "Not a lot of fancy restaurants that will do the cooking for you."
 
 # TheOldRoad1_c3d450ce (line 62987)
 translate ru TheOldRoad1_c3d450ce:
@@ -481,17 +481,7 @@ translate ru TheOldRoad1_c3d450ce:
 # TheOldRoad1_acff4d3a (line 62988)
 translate ru TheOldRoad1_acff4d3a:
     # sak "I can teach you how it's done, if you want."
-    sak ""
-
-# TheOldRoad1_55fa8894 (line 62992)
-translate ru TheOldRoad1_55fa8894:
-    # "I would love to learn"
-    "I would love to learn" ""
-
-# TheOldRoad1_cacd4783 (line 63001)
-translate ru TheOldRoad1_cacd4783:
-    # "I think I'm good"
-    "I think I'm good" ""
+    sak "I can teach you how it's done, if you want."
 
 # TheOldRoad1_67bd4118 (line 63009)
 translate ru TheOldRoad1_67bd4118:
@@ -521,7 +511,7 @@ translate ru TheOldRoad1_dcb89b38:
 # TheOldRoad1_5bf69ba6 (line 63014)
 translate ru TheOldRoad1_5bf69ba6:
     # s "So far so good, right?"
-    s ""
+    s "So far so good, right?"
 
 # TheOldRoad1_df4c9bd4 (line 63015)
 translate ru TheOldRoad1_df4c9bd4:
@@ -531,12 +521,12 @@ translate ru TheOldRoad1_df4c9bd4:
 # TheOldRoad1_ec5e94cc (line 63016)
 translate ru TheOldRoad1_ec5e94cc:
     # sak "What do you mean?"
-    sak ""
+    sak "What do you mean?"
 
 # TheOldRoad1_47f307e6 (line 63017)
 translate ru TheOldRoad1_47f307e6:
     # s "I mean...no trouble so far yet."
-    s ""
+    s "I mean...no trouble so far yet."
 
 # TheOldRoad1_5d5948f4 (line 63018)
 translate ru TheOldRoad1_5d5948f4:
@@ -546,7 +536,7 @@ translate ru TheOldRoad1_5d5948f4:
 # TheOldRoad1_5a510860 (line 63019)
 translate ru TheOldRoad1_5a510860:
     # sak "Well, obviously."
-    sak ""
+    sak "Well, obviously."
 
 # TheOldRoad1_9554f6c7 (line 63020)
 translate ru TheOldRoad1_9554f6c7:
@@ -556,7 +546,7 @@ translate ru TheOldRoad1_9554f6c7:
 # TheOldRoad1_132941f6 (line 63021)
 translate ru TheOldRoad1_132941f6:
     # s "What does he mean?"
-    s ""
+    s "What does he mean?"
 
 # TheOldRoad1_ebc23c46 (line 63022)
 translate ru TheOldRoad1_ebc23c46:
@@ -566,17 +556,17 @@ translate ru TheOldRoad1_ebc23c46:
 # TheOldRoad1_2876dded (line 63023)
 translate ru TheOldRoad1_2876dded:
     # sig "He means we ain't got much trouble because we ain't up that far on the old road yet."
-    sig ""
+    sig "He means we ain't got much trouble because we ain't up that far on the old road yet."
 
 # TheOldRoad1_a6983b39 (line 63024)
 translate ru TheOldRoad1_a6983b39:
     # sig "This part, so far, it's mostly just the Lethram hinterlands."
-    sig ""
+    sig "This part, so far, it's mostly just the Lethram hinterlands."
 
 # TheOldRoad1_21655633 (line 63025)
 translate ru TheOldRoad1_21655633:
     # sig "It's not safe compared to most of the world, but the city guards will occasionally patrol the roads if they notice too many bandits."
-    sig ""
+    sig "It's not safe compared to most of the world, but the city guards will occasionally patrol the roads if they notice too many bandits."
 
 # TheOldRoad1_a37bce6e (line 63026)
 translate ru TheOldRoad1_a37bce6e:
@@ -586,17 +576,17 @@ translate ru TheOldRoad1_a37bce6e:
 # TheOldRoad1_5537b600 (line 63027)
 translate ru TheOldRoad1_5537b600:
     # sig "Up ahead and we'll be hitting the edge of the Korval forest."
-    sig ""
+    sig "Up ahead and we'll be hitting the edge of the Korval forest."
 
 # TheOldRoad1_92ebfcb1 (line 63028)
 translate ru TheOldRoad1_92ebfcb1:
     # sig "No guards go past that point."
-    sig ""
+    sig "No guards go past that point."
 
 # TheOldRoad1_2c999a7e (line 63029)
 translate ru TheOldRoad1_2c999a7e:
     # s "What's beyond there?"
-    s ""
+    s "What's beyond there?"
 
 # TheOldRoad1_e03261ae (line 63030)
 translate ru TheOldRoad1_e03261ae:
@@ -606,17 +596,17 @@ translate ru TheOldRoad1_e03261ae:
 # TheOldRoad1_2aa045ba (line 63031)
 translate ru TheOldRoad1_2aa045ba:
     # sig "The forest itself is dense."
-    sig ""
+    sig "The forest itself is dense."
 
 # TheOldRoad1_84347fcf (line 63032)
 translate ru TheOldRoad1_84347fcf:
     # sig "You could bring five armies and you wouldn't have enough men to search every corner of it."
-    sig ""
+    sig "You could bring five armies and you wouldn't have enough men to search every corner of it."
 
 # TheOldRoad1_e1c23394 (line 63033)
 translate ru TheOldRoad1_e1c23394:
     # sig "So anybody who doesn't like to be found, likes to live there."
-    sig ""
+    sig "So anybody who doesn't like to be found, likes to live there."
 
 # TheOldRoad1_e9a23805 (line 63034)
 translate ru TheOldRoad1_e9a23805:
@@ -626,17 +616,17 @@ translate ru TheOldRoad1_e9a23805:
 # TheOldRoad1_eae70808 (line 63035)
 translate ru TheOldRoad1_eae70808:
     # s "Bandits..."
-    s ""
+    s "Bandits..."
 
 # TheOldRoad1_fd276c8f (line 63036)
 translate ru TheOldRoad1_fd276c8f:
     # sig "Bandits, sure. Other scum."
-    sig ""
+    sig "Bandits, sure. Other scum."
 
 # TheOldRoad1_228f12c7 (line 63037)
 translate ru TheOldRoad1_228f12c7:
     # s "And after? What comes after the Korval forest?"
-    s ""
+    s "And after? What comes after the Korval forest?"
 
 # TheOldRoad1_65ccab37 (line 63038)
 translate ru TheOldRoad1_65ccab37:
@@ -646,12 +636,12 @@ translate ru TheOldRoad1_65ccab37:
 # TheOldRoad1_6fde5fe6 (line 63039)
 translate ru TheOldRoad1_6fde5fe6:
     # sig "Well, after the forest we hit the plains of the bandit kingdoms."
-    sig ""
+    sig "Well, after the forest we hit the plains of the bandit kingdoms."
 
 # TheOldRoad1_f903e214 (line 63040)
 translate ru TheOldRoad1_f903e214:
     # s "The bandit kingdoms?"
-    s ""
+    s "The bandit kingdoms?"
 
 # TheOldRoad1_9a7d956d (line 63041)
 translate ru TheOldRoad1_9a7d956d:
@@ -661,7 +651,7 @@ translate ru TheOldRoad1_9a7d956d:
 # TheOldRoad1_c5c61c79 (line 63042)
 translate ru TheOldRoad1_c5c61c79:
     # s "I never read anything about that."
-    s ""
+    s "I never read anything about that."
 
 # TheOldRoad1_23187ae0 (line 63043)
 translate ru TheOldRoad1_23187ae0:
@@ -671,7 +661,7 @@ translate ru TheOldRoad1_23187ae0:
 # TheOldRoad1_527ec4d5 (line 63044)
 translate ru TheOldRoad1_527ec4d5:
     # sak "So, you can read?"
-    sak ""
+    sak "So, you can read?"
 
 # TheOldRoad1_2999f83d (line 63045)
 translate ru TheOldRoad1_2999f83d:
@@ -686,7 +676,7 @@ translate ru TheOldRoad1_af6d1856:
 # TheOldRoad1_01eb0274 (line 63047)
 translate ru TheOldRoad1_01eb0274:
     # s "Yes, my...my family insisted that I learn."
-    s ""
+    s "Yes, my...my family insisted that I learn."
 
 # TheOldRoad1_2a122e5e (line 63048)
 translate ru TheOldRoad1_2a122e5e:
@@ -696,17 +686,17 @@ translate ru TheOldRoad1_2a122e5e:
 # TheOldRoad1_ebfe9fae (line 63049)
 translate ru TheOldRoad1_ebfe9fae:
     # sig "Whatever."
-    sig ""
+    sig "Whatever."
 
 # TheOldRoad1_a846bf6b (line 63050)
 translate ru TheOldRoad1_a846bf6b:
     # sig "The bandit kingdoms are...well they used to be called the central kingdoms."
-    sig ""
+    sig "The bandit kingdoms are...well they used to be called the central kingdoms."
 
 # TheOldRoad1_fdb4f1d7 (line 63051)
 translate ru TheOldRoad1_fdb4f1d7:
     # sig "You ever heard of the Union Kingdoms?"
-    sig ""
+    sig "You ever heard of the Union Kingdoms?"
 
 # TheOldRoad1_a7c40594 (line 63052)
 translate ru TheOldRoad1_a7c40594:
@@ -716,22 +706,22 @@ translate ru TheOldRoad1_a7c40594:
 # TheOldRoad1_7ca3b724 (line 63053)
 translate ru TheOldRoad1_7ca3b724:
     # sig "Well, the central kingdoms used to be like that too."
-    sig ""
+    sig "Well, the central kingdoms used to be like that too."
 
 # TheOldRoad1_8fa3760c (line 63054)
 translate ru TheOldRoad1_8fa3760c:
     # sig "A collection of smaller kingdoms that managed to keep the other powers out by working together whenever it served them."
-    sig ""
+    sig "A collection of smaller kingdoms that managed to keep the other powers out by working together whenever it served them."
 
 # TheOldRoad1_37bf9b88 (line 63055)
 translate ru TheOldRoad1_37bf9b88:
     # sig "But over time, as the central kingdoms began to fall apart, there was one revolution after the other."
-    sig ""
+    sig "But over time, as the central kingdoms began to fall apart, there was one revolution after the other."
 
 # TheOldRoad1_1ba902bc (line 63056)
 translate ru TheOldRoad1_1ba902bc:
     # sig "Sometimes it was a rival prince. Sometimes an ambitious general. Hell, sometimes just a peasant revolutionairy that saw a chance."
-    sig ""
+    sig "Sometimes it was a rival prince. Sometimes an ambitious general. Hell, sometimes just a peasant revolutionairy that saw a chance."
 
 # TheOldRoad1_82e5ed45 (line 63057)
 translate ru TheOldRoad1_82e5ed45:
@@ -741,22 +731,22 @@ translate ru TheOldRoad1_82e5ed45:
 # TheOldRoad1_48555855 (line 63058)
 translate ru TheOldRoad1_48555855:
     # sig "But the only thing they all had in common was that only a few years after they made their move, someone else made a move against them."
-    sig ""
+    sig "But the only thing they all had in common was that only a few years after they made their move, someone else made a move against them."
 
 # TheOldRoad1_1b7c66d7 (line 63059)
 translate ru TheOldRoad1_1b7c66d7:
     # sig "As the kingdoms grew more and more fragmented, power at the top meant less and less."
-    sig ""
+    sig "As the kingdoms grew more and more fragmented, power at the top meant less and less."
 
 # TheOldRoad1_e3550b83 (line 63060)
 translate ru TheOldRoad1_e3550b83:
     # sig "Before long, the leaders of each of the kingdoms were essentially only the rulers of the capital cities."
-    sig ""
+    sig "Before long, the leaders of each of the kingdoms were essentially only the rulers of the capital cities."
 
 # TheOldRoad1_10564958 (line 63061)
 translate ru TheOldRoad1_10564958:
     # sig "Beyond the walls of the capital, the reach of the state dissapeared."
-    sig ""
+    sig "Beyond the walls of the capital, the reach of the state dissapeared."
 
 # TheOldRoad1_1ab7d6f0 (line 63062)
 translate ru TheOldRoad1_1ab7d6f0:
@@ -766,17 +756,17 @@ translate ru TheOldRoad1_1ab7d6f0:
 # TheOldRoad1_13a52c27 (line 63063)
 translate ru TheOldRoad1_13a52c27:
     # sig "Without a central authority, the only rule about who was in power, became about how had the strength. How was most merciless."
-    sig ""
+    sig "Without a central authority, the only rule about who was in power, became about how had the strength. How was most merciless."
 
 # TheOldRoad1_0743b054 (line 63064)
 translate ru TheOldRoad1_0743b054:
     # sig "And when it comes to being merciless, there ain't nobody who was willing to go further than the bandit lords."
-    sig ""
+    sig "And when it comes to being merciless, there ain't nobody who was willing to go further than the bandit lords."
 
 # TheOldRoad1_c9f63f5f (line 63065)
 translate ru TheOldRoad1_c9f63f5f:
     # sig "They were the only ones who understood, really understood, that strength was the only power that mattered in this new age."
-    sig ""
+    sig "They were the only ones who understood, really understood, that strength was the only power that mattered in this new age."
 
 # TheOldRoad1_02018826 (line 63066)
 translate ru TheOldRoad1_02018826:
@@ -786,37 +776,37 @@ translate ru TheOldRoad1_02018826:
 # TheOldRoad1_f3236143 (line 63067)
 translate ru TheOldRoad1_f3236143:
     # sig "As the bandit lords terrorized the countryside, the farmers living there began to pack up and flee towards places that still had stability, like Mytrha and Lethram."
-    sig ""
+    sig "As the bandit lords terrorized the countryside, the farmers living there began to pack up and flee towards places that still had stability, like Mytrha and Lethram."
 
 # TheOldRoad1_3d8c8158 (line 63068)
 translate ru TheOldRoad1_3d8c8158:
     # sig "When the farmers left, the food started to run short."
-    sig ""
+    sig "When the farmers left, the food started to run short."
 
 # TheOldRoad1_c03e80e0 (line 63069)
 translate ru TheOldRoad1_c03e80e0:
     # sig "Before long, the cities, even the capital cities, were starving."
-    sig ""
+    sig "Before long, the cities, even the capital cities, were starving."
 
 # TheOldRoad1_53feeca3 (line 63070)
 translate ru TheOldRoad1_53feeca3:
     # sig "As the people starved, the central kingdoms were like a tinderbox, waiting for an excuse to go off."
-    sig ""
+    sig "As the people starved, the central kingdoms were like a tinderbox, waiting for an excuse to go off."
 
 # TheOldRoad1_673b8278 (line 63071)
 translate ru TheOldRoad1_673b8278:
     # sig "When the violence finally began, it was more like a madness than any revolution."
-    sig ""
+    sig "When the violence finally began, it was more like a madness than any revolution."
 
 # TheOldRoad1_2b5d62cf (line 63072)
 translate ru TheOldRoad1_2b5d62cf:
     # sig "People ripped others apart, murdered for the smallest of reasons, sometimes no reason at all."
-    sig ""
+    sig "People ripped others apart, murdered for the smallest of reasons, sometimes no reason at all."
 
 # TheOldRoad1_833f0fe6 (line 63073)
 translate ru TheOldRoad1_833f0fe6:
     # sig "A bloodlust seemed to take over, and by the end of it, nothing of the old regimes or histories remained."
-    sig ""
+    sig "A bloodlust seemed to take over, and by the end of it, nothing of the old regimes or histories remained."
 
 # TheOldRoad1_356bd3bd (line 63074)
 translate ru TheOldRoad1_356bd3bd:
@@ -826,37 +816,37 @@ translate ru TheOldRoad1_356bd3bd:
 # TheOldRoad1_4d3d8259 (line 63075)
 translate ru TheOldRoad1_4d3d8259:
     # sig "After that, the countries of the central kingdoms were so deprived of people and wealth, that they could no longer sustain themselves."
-    sig ""
+    sig "After that, the countries of the central kingdoms were so deprived of people and wealth, that they could no longer sustain themselves."
 
 # TheOldRoad1_a2f61acc (line 63076)
 translate ru TheOldRoad1_a2f61acc:
     # sig "Their cities had become empty ghost towns. The countryside was empty too."
-    sig ""
+    sig "Their cities had become empty ghost towns. The countryside was empty too."
 
 # TheOldRoad1_04e514ce (line 63077)
 translate ru TheOldRoad1_04e514ce:
     # sig "With no real economy left, the only way to make money was robbing merchants."
-    sig ""
+    sig "With no real economy left, the only way to make money was robbing merchants."
 
 # TheOldRoad1_e8cb5742 (line 63078)
 translate ru TheOldRoad1_e8cb5742:
     # sig "But the more they robbed merchants, the less merchants took to the old road, deciding to instead travel by sea."
-    sig ""
+    sig "But the more they robbed merchants, the less merchants took to the old road, deciding to instead travel by sea."
 
 # TheOldRoad1_da4bbf1d (line 63079)
 translate ru TheOldRoad1_da4bbf1d:
     # sig "And that killed the last of it."
-    sig ""
+    sig "And that killed the last of it."
 
 # TheOldRoad1_c9646e0a (line 63080)
 translate ru TheOldRoad1_c9646e0a:
     # sig "Ever since, it's been groups of bandits, fighting one another to control scraps of land that few people even care about."
-    sig ""
+    sig "Ever since, it's been groups of bandits, fighting one another to control scraps of land that few people even care about."
 
 # TheOldRoad1_aa23e2ed (line 63081)
 translate ru TheOldRoad1_aa23e2ed:
     # sig "At any point, you'll find some new bastard in power somewhere, calling himself whatever fancy title he can come up with, until another drives a dagger into his back."
-    sig ""
+    sig "At any point, you'll find some new bastard in power somewhere, calling himself whatever fancy title he can come up with, until another drives a dagger into his back."
 
 # TheOldRoad1_705ecee8 (line 63082)
 translate ru TheOldRoad1_705ecee8:
@@ -866,12 +856,12 @@ translate ru TheOldRoad1_705ecee8:
 # TheOldRoad1_20730eb3 (line 63083)
 translate ru TheOldRoad1_20730eb3:
     # sig "Now you know what we're heading into."
-    sig ""
+    sig "Now you know what we're heading into."
 
 # TheOldRoad1_024382c1 (line 63084)
 translate ru TheOldRoad1_024382c1:
     # sig "Never say I didn't warn you, Sarah."
-    sig ""
+    sig "Never say I didn't warn you, Sarah."
 
 # TheOldRoad1_19e14620 (line 63085)
 translate ru TheOldRoad1_19e14620:
@@ -1046,7 +1036,7 @@ translate ru TheOldRoad1_b6bdb964:
 # TheOldRoad1_7337d1c0 (line 63125)
 translate ru TheOldRoad1_7337d1c0:
     # sak "Hey there."
-    sak ""
+    sak "Hey there."
 
 # TheOldRoad1_36d1bfc6 (line 63126)
 translate ru TheOldRoad1_36d1bfc6:
@@ -1056,17 +1046,17 @@ translate ru TheOldRoad1_36d1bfc6:
 # TheOldRoad1_b6722ba8 (line 63127)
 translate ru TheOldRoad1_b6722ba8:
     # s "Do you think you're funny?"
-    s ""
+    s "Do you think you're funny?"
 
 # TheOldRoad1_70054846 (line 63128)
 translate ru TheOldRoad1_70054846:
     # sak "Funny?"
-    sak ""
+    sak "Funny?"
 
 # TheOldRoad1_cb501cd5 (line 63129)
 translate ru TheOldRoad1_cb501cd5:
     # s "Sneaking up on me all the time."
-    s ""
+    s "Sneaking up on me all the time."
 
 # TheOldRoad1_8dc9d992 (line 63130)
 translate ru TheOldRoad1_8dc9d992:
@@ -1076,7 +1066,7 @@ translate ru TheOldRoad1_8dc9d992:
 # TheOldRoad1_20c0cc0a (line 63131)
 translate ru TheOldRoad1_20c0cc0a:
     # sak "What can I say? I have light feet."
-    sak ""
+    sak "What can I say? I have light feet."
 
 # TheOldRoad1_ea1a83ff (line 63132)
 translate ru TheOldRoad1_ea1a83ff:
@@ -1091,22 +1081,22 @@ translate ru TheOldRoad1_80fa0c60:
 # TheOldRoad1_58917d14 (line 63134)
 translate ru TheOldRoad1_58917d14:
     # s "Well, you shouldn't sneak up on girls, it's not polite."
-    s ""
+    s "Well, you shouldn't sneak up on girls, it's not polite."
 
 # TheOldRoad1_364855ea (line 63135)
 translate ru TheOldRoad1_364855ea:
     # sak "Aah, my apologies."
-    sak ""
+    sak "Aah, my apologies."
 
 # TheOldRoad1_2d6b388d (line 63136)
 translate ru TheOldRoad1_2d6b388d:
     # sak "We don't usually take women along on the old road. Too dangerous."
-    sak ""
+    sak "We don't usually take women along on the old road. Too dangerous."
 
 # TheOldRoad1_9d01bbbf (line 63137)
 translate ru TheOldRoad1_9d01bbbf:
     # sak "I suppose I must have grown to forget my manners."
-    sak ""
+    sak "I suppose I must have grown to forget my manners."
 
 # TheOldRoad1_dec9e066 (line 63138)
 translate ru TheOldRoad1_dec9e066:
@@ -1116,7 +1106,7 @@ translate ru TheOldRoad1_dec9e066:
 # TheOldRoad1_8407c0d1 (line 63139)
 translate ru TheOldRoad1_8407c0d1:
     # s "Well...stop doing it."
-    s ""
+    s "Well...stop doing it."
 
 # TheOldRoad1_eb88a71e (line 63140)
 translate ru TheOldRoad1_eb88a71e:
@@ -1126,7 +1116,7 @@ translate ru TheOldRoad1_eb88a71e:
 # TheOldRoad1_e2ca8263 (line 63141)
 translate ru TheOldRoad1_e2ca8263:
     # sak "But of course."
-    sak ""
+    sak "But of course."
 
 # TheOldRoad1_e1d866e8 (line 63142)
 translate ru TheOldRoad1_e1d866e8:
@@ -1136,22 +1126,22 @@ translate ru TheOldRoad1_e1d866e8:
 # TheOldRoad1_35391ea8 (line 63143)
 translate ru TheOldRoad1_35391ea8:
     # sak "I just noticed you slipping out from the safety of our camp, and I was worried."
-    sak ""
+    sak "I just noticed you slipping out from the safety of our camp, and I was worried."
 
 # TheOldRoad1_97e8b171 (line 63144)
 translate ru TheOldRoad1_97e8b171:
     # s "Worried?"
-    s ""
+    s "Worried?"
 
 # TheOldRoad1_4b4719c0 (line 63145)
 translate ru TheOldRoad1_4b4719c0:
     # sak "It's a dangerous place out here. Shouldn't wander off alone like this."
-    sak ""
+    sak "It's a dangerous place out here. Shouldn't wander off alone like this."
 
 # TheOldRoad1_e75d3cd2 (line 63146)
 translate ru TheOldRoad1_e75d3cd2:
     # sak "Who knows who might come across you."
-    sak ""
+    sak "Who knows who might come across you."
 
 # TheOldRoad1_6b0d2f9e (line 63147)
 translate ru TheOldRoad1_6b0d2f9e:
@@ -1161,32 +1151,32 @@ translate ru TheOldRoad1_6b0d2f9e:
 # TheOldRoad1_9dfa6638 (line 63148)
 translate ru TheOldRoad1_9dfa6638:
     # s "I couldn't sleep."
-    s ""
+    s "I couldn't sleep."
 
 # TheOldRoad1_b254efdc (line 63149)
 translate ru TheOldRoad1_b254efdc:
     # sak "Aah."
-    sak ""
+    sak "Aah."
 
 # TheOldRoad1_48093d22 (line 63150)
 translate ru TheOldRoad1_48093d22:
     # sak "That sounds familiar."
-    sak ""
+    sak "That sounds familiar."
 
 # TheOldRoad1_41f9d78b (line 63151)
 translate ru TheOldRoad1_41f9d78b:
     # s "Why?"
-    s ""
+    s "Why?"
 
 # TheOldRoad1_2a8e34cb (line 63152)
 translate ru TheOldRoad1_2a8e34cb:
     # sak "I can remember my first trip on the old road."
-    sak ""
+    sak "I can remember my first trip on the old road."
 
 # TheOldRoad1_e53ee978 (line 63153)
 translate ru TheOldRoad1_e53ee978:
     # sak "I think I didn't sleep for almost a week, until exhaustion forced me to."
-    sak ""
+    sak "I think I didn't sleep for almost a week, until exhaustion forced me to."
 
 # TheOldRoad1_f1afbb97 (line 63154)
 translate ru TheOldRoad1_f1afbb97:
@@ -1196,27 +1186,27 @@ translate ru TheOldRoad1_f1afbb97:
 # TheOldRoad1_f56b3e90 (line 63155)
 translate ru TheOldRoad1_f56b3e90:
     # s "Does it get easier?"
-    s ""
+    s "Does it get easier?"
 
 # TheOldRoad1_649e3b59 (line 63156)
 translate ru TheOldRoad1_649e3b59:
     # sak "The sleeping? Eventually. But not because it gets any safer."
-    sak ""
+    sak "The sleeping? Eventually. But not because it gets any safer."
 
 # TheOldRoad1_ed3a6e8c (line 63157)
 translate ru TheOldRoad1_ed3a6e8c:
     # sak "At some point you just get used to it, and learn to live with it."
-    sak ""
+    sak "At some point you just get used to it, and learn to live with it."
 
 # TheOldRoad1_de35ef48 (line 63158)
 translate ru TheOldRoad1_de35ef48:
     # sak "Humans have a way of adjusting to whatever misery they find themselves in."
-    sak ""
+    sak "Humans have a way of adjusting to whatever misery they find themselves in."
 
 # TheOldRoad1_e22628f9 (line 63159)
 translate ru TheOldRoad1_e22628f9:
     # s "Is it really that bad out here?"
-    s ""
+    s "Is it really that bad out here?"
 
 # TheOldRoad1_c9d152d9 (line 63160)
 translate ru TheOldRoad1_c9d152d9:
@@ -1226,12 +1216,12 @@ translate ru TheOldRoad1_c9d152d9:
 # TheOldRoad1_67e307d6 (line 63161)
 translate ru TheOldRoad1_67e307d6:
     # sak "Some of it."
-    sak ""
+    sak "Some of it."
 
 # TheOldRoad1_91b79ece (line 63162)
 translate ru TheOldRoad1_91b79ece:
     # sak "But Sigmund can only see the worst of it."
-    sak ""
+    sak "But Sigmund can only see the worst of it."
 
 # TheOldRoad1_d785c818 (line 63163)
 translate ru TheOldRoad1_d785c818:
@@ -1246,12 +1236,12 @@ translate ru TheOldRoad1_9274e41e:
 # TheOldRoad1_d05a4ab8 (line 63165)
 translate ru TheOldRoad1_d05a4ab8:
     # sak "The air out here..."
-    sak ""
+    sak "The air out here..."
 
 # TheOldRoad1_069d6745 (line 63166)
 translate ru TheOldRoad1_069d6745:
     # sak "I don't think I could ever live in a place like Lethram again."
-    sak ""
+    sak "I don't think I could ever live in a place like Lethram again."
 
 # TheOldRoad1_31a83862 (line 63167)
 translate ru TheOldRoad1_31a83862:
@@ -1261,12 +1251,12 @@ translate ru TheOldRoad1_31a83862:
 # TheOldRoad1_00051f64 (line 63168)
 translate ru TheOldRoad1_00051f64:
     # s "Yeah, it's nice..."
-    s ""
+    s "Yeah, it's nice..."
 
 # TheOldRoad1_46139ef4 (line 63169)
 translate ru TheOldRoad1_46139ef4:
     # sak "Tell me, why did you want to leave Lethram that badly again? Anything bad happen?"
-    sak ""
+    sak "Tell me, why did you want to leave Lethram that badly again? Anything bad happen?"
 
 # TheOldRoad1_c17b8718 (line 63170)
 translate ru TheOldRoad1_c17b8718:
@@ -1276,12 +1266,12 @@ translate ru TheOldRoad1_c17b8718:
 # TheOldRoad1_8e2c78ec (line 63171)
 translate ru TheOldRoad1_8e2c78ec:
     # s "I don't want to talk about that."
-    s ""
+    s "I don't want to talk about that."
 
 # TheOldRoad1_ce09ef86 (line 63172)
 translate ru TheOldRoad1_ce09ef86:
     # sak "And yet here we are. Talking."
-    sak ""
+    sak "And yet here we are. Talking."
 
 # TheOldRoad1_279ee12e (line 63173)
 translate ru TheOldRoad1_279ee12e:
@@ -1296,7 +1286,7 @@ translate ru TheOldRoad1_ef103f86:
 # TheOldRoad1_9c486a3a (line 63175)
 translate ru TheOldRoad1_9c486a3a:
     # s "Yeah, we are talking, and if you keep being rude to me, I'll just walk back to camp."
-    s ""
+    s "Yeah, we are talking, and if you keep being rude to me, I'll just walk back to camp."
 
 # TheOldRoad1_c69cf318 (line 63176)
 translate ru TheOldRoad1_c69cf318:
@@ -1306,12 +1296,12 @@ translate ru TheOldRoad1_c69cf318:
 # TheOldRoad1_b6f1c6b3 (line 63177)
 translate ru TheOldRoad1_b6f1c6b3:
     # sak "Sorry, I just wanted to get to know my new travel companion."
-    sak ""
+    sak "Sorry, I just wanted to get to know my new travel companion."
 
 # TheOldRoad1_d8e0add1 (line 63178)
 translate ru TheOldRoad1_d8e0add1:
     # s "Well...maybe I don't want to get to know you..."
-    s ""
+    s "Well...maybe I don't want to get to know you..."
 
 # TheOldRoad1_f4d80736 (line 63179)
 translate ru TheOldRoad1_f4d80736:
@@ -1321,12 +1311,12 @@ translate ru TheOldRoad1_f4d80736:
 # TheOldRoad1_ba1548a6 (line 63180)
 translate ru TheOldRoad1_ba1548a6:
     # sak "And why would that be?"
-    sak ""
+    sak "And why would that be?"
 
 # TheOldRoad1_1ed37a62 (line 63181)
 translate ru TheOldRoad1_1ed37a62:
     # s "Because Sigmund warned me about you."
-    s ""
+    s "Because Sigmund warned me about you."
 
 # TheOldRoad1_b2e10892 (line 63182)
 translate ru TheOldRoad1_b2e10892:
@@ -1336,22 +1326,22 @@ translate ru TheOldRoad1_b2e10892:
 # TheOldRoad1_af8c58e5 (line 63183)
 translate ru TheOldRoad1_af8c58e5:
     # sak "Ooh, did he now? What did he say?"
-    sak ""
+    sak "Ooh, did he now? What did he say?"
 
 # TheOldRoad1_cef3a7db (line 63184)
 translate ru TheOldRoad1_cef3a7db:
     # s "That you were dangerous."
-    s ""
+    s "That you were dangerous."
 
 # TheOldRoad1_775960e0 (line 63185)
 translate ru TheOldRoad1_775960e0:
     # sak "Ah! Well, Sarah, a bit of advice from me to you."
-    sak ""
+    sak "Ah! Well, Sarah, a bit of advice from me to you."
 
 # TheOldRoad1_2dfd3bfe (line 63186)
 translate ru TheOldRoad1_2dfd3bfe:
     # sak "You might want to consider how well you know that fellow at all."
-    sak ""
+    sak "You might want to consider how well you know that fellow at all."
 
 # TheOldRoad1_2a084651 (line 63189)
 translate ru TheOldRoad1_2a084651:
@@ -1361,12 +1351,12 @@ translate ru TheOldRoad1_2a084651:
 # TheOldRoad1_0cb05580 (line 63190)
 translate ru TheOldRoad1_0cb05580:
     # sak "I'm not going to pretend I haven't killed my share of people."
-    sak ""
+    sak "I'm not going to pretend I haven't killed my share of people."
 
 # TheOldRoad1_027b3d13 (line 63191)
 translate ru TheOldRoad1_027b3d13:
     # sak "But the blood on my hands wouldn't be a drop compared to the oceans on his."
-    sak ""
+    sak "But the blood on my hands wouldn't be a drop compared to the oceans on his."
 
 # TheOldRoad1_2645ffda (line 63192)
 translate ru TheOldRoad1_2645ffda:
@@ -1386,7 +1376,7 @@ translate ru TheOldRoad1_f046ec72:
 # TheOldRoad1_2947dc7a (line 63195)
 translate ru TheOldRoad1_2947dc7a:
     # s "What...what did he do?"
-    s ""
+    s "What...what did he do?"
 
 # TheOldRoad1_c56728a7 (line 63196)
 translate ru TheOldRoad1_c56728a7:
@@ -1396,12 +1386,12 @@ translate ru TheOldRoad1_c56728a7:
 # TheOldRoad1_9f0d2d96 (line 63197)
 translate ru TheOldRoad1_9f0d2d96:
     # sak "That's not my story to tell, Sarah. If I did, he'd kill me."
-    sak ""
+    sak "That's not my story to tell, Sarah. If I did, he'd kill me."
 
 # TheOldRoad1_8e83006d (line 63198)
 translate ru TheOldRoad1_8e83006d:
     # sak "Or try to, anyway."
-    sak ""
+    sak "Or try to, anyway."
 
 # TheOldRoad1_f55bf5c2 (line 63199)
 translate ru TheOldRoad1_f55bf5c2:
@@ -1411,30 +1401,10 @@ translate ru TheOldRoad1_f55bf5c2:
 # TheOldRoad1_8659c4bf (line 63200)
 translate ru TheOldRoad1_8659c4bf:
     # sak "Anyway."
-    sak ""
+    sak "Anyway."
 
 # TheOldRoad1_77d223e0 (line 63201)
 translate ru TheOldRoad1_77d223e0:
     # sak "It's already late. We should head back to camp."
-    sak ""
-
-# TheOldRoad1_11803b69 (line 63204)
-translate ru TheOldRoad1_11803b69:
-    # "I'm not tired yet"
-    "I'm not tired yet" ""
-
-# TheOldRoad1_3f348383 (line 63251)
-translate ru TheOldRoad1_3f348383:
-    # "Tell him the truth"
-    "Tell him the truth" ""
-
-# TheOldRoad1_192e2895 (line 63304)
-translate ru TheOldRoad1_192e2895:
-    # "Don't tell him"
-    "Don't tell him" ""
-
-# TheOldRoad1_b9e0ca4c (line 63327)
-translate ru TheOldRoad1_b9e0ca4c:
-    # "Let's head back"
-    "Let's head back" ""
+    sak "It's already late. We should head back to camp."
 

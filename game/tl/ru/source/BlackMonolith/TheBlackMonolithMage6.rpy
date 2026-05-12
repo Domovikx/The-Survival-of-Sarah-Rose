@@ -66,7 +66,7 @@ translate ru TheBlackMonolithMage6_86a97a00:
 # TheBlackMonolithMage6_8adaf2f8 (line 79260)
 translate ru TheBlackMonolithMage6_8adaf2f8:
     # s "Hey."
-    s ""
+    s "Hey."
 
 # TheBlackMonolithMage6_2fce6e92 (line 79261)
 translate ru TheBlackMonolithMage6_2fce6e92:
@@ -76,7 +76,7 @@ translate ru TheBlackMonolithMage6_2fce6e92:
 # TheBlackMonolithMage6_4be744ee (line 79262)
 translate ru TheBlackMonolithMage6_4be744ee:
     # met "Ooh, hey there Sarah. I didn't see you come in."
-    met ""
+    met "Ooh, hey there Sarah. I didn't see you come in."
 
 # TheBlackMonolithMage6_ffac89a4 (line 79263)
 translate ru TheBlackMonolithMage6_ffac89a4:
@@ -91,7 +91,7 @@ translate ru TheBlackMonolithMage6_a6fb471a:
 # TheBlackMonolithMage6_9778efaf (line 79265)
 translate ru TheBlackMonolithMage6_9778efaf:
     # met "So, you're ready to get started?"
-    met ""
+    met "So, you're ready to get started?"
 
 # TheBlackMonolithMage6_abee7677 (line 79266)
 translate ru TheBlackMonolithMage6_abee7677:
@@ -101,5 +101,5 @@ translate ru TheBlackMonolithMage6_abee7677:
 # TheBlackMonolithMage6_57996687 (line 79267)
 translate ru TheBlackMonolithMage6_57996687:
     # met "Excellent. Well, we can start with the basics."
-    met ""
+    met "Excellent. Well, we can start with the basics."
 

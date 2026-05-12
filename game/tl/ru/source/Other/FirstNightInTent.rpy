@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: FirstNightInTent
-# Total blocks: 12
+# Total blocks: 10
 
 # FirstNightInTent_47adc668 (line 24810)
 translate ru FirstNightInTent_47adc668:
@@ -52,14 +52,4 @@ translate ru FirstNightInTent_a30b20ef:
 translate ru FirstNightInTent_526ca2f8:
     # "The shuffling was followed by a series of differing noises, confusing Sarah."
     ""
-
-# FirstNightInTent_cdc57fe5 (line 24824)
-translate ru FirstNightInTent_cdc57fe5:
-    # "Turn around to see the source of the sound."
-    "Turn around to see the source of the sound." ""
-
-# FirstNightInTent_52e071da (line 24858)
-translate ru FirstNightInTent_52e071da:
-    # "Ignore it, try to get some sleep."
-    "Ignore it, try to get some sleep." ""
 

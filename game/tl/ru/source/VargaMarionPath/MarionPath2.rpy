@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: MarionPath2
-# Total blocks: 590
+# Total blocks: 582
 
 # MarionPath2_fe20b89e (line 16400)
 translate ru MarionPath2_fe20b89e:
@@ -281,7 +281,7 @@ translate ru MarionPath2_b5a1203e:
 # MarionPath2_0ff953bb (line 16467)
 translate ru MarionPath2_0ff953bb:
     # m "I do."
-    m ""
+    m "I do."
 
 # MarionPath2_e3a3e14b (line 16468)
 translate ru MarionPath2_e3a3e14b:
@@ -306,7 +306,7 @@ translate ru MarionPath2_297d70d3:
 # MarionPath2_65c1ad12 (line 16472)
 translate ru MarionPath2_65c1ad12:
     # s "I do."
-    s ""
+    s "I do."
 
 # MarionPath2_ecd6e2ee (line 16478)
 translate ru MarionPath2_ecd6e2ee:
@@ -371,17 +371,17 @@ translate ru MarionPath2_fc6bdd9e:
 # MarionPath2_05fb9f8e (line 16496)
 translate ru MarionPath2_05fb9f8e:
     # s "Quite the turn out."
-    s ""
+    s "Quite the turn out."
 
 # MarionPath2_2dd1b764 (line 16497)
 translate ru MarionPath2_2dd1b764:
     # m "I would have hoped so."
-    m ""
+    m "I would have hoped so."
 
 # MarionPath2_775cc6fd (line 16498)
 translate ru MarionPath2_775cc6fd:
     # m "All the Old Houses showed, that's good."
-    m ""
+    m "All the Old Houses showed, that's good."
 
 # MarionPath2_353fcaa2 (line 16499)
 translate ru MarionPath2_353fcaa2:
@@ -391,17 +391,17 @@ translate ru MarionPath2_353fcaa2:
 # MarionPath2_3cb56576 (line 16500)
 translate ru MarionPath2_3cb56576:
     # s "I thought everyone would be here."
-    s ""
+    s "I thought everyone would be here."
 
 # MarionPath2_a0da192d (line 16501)
 translate ru MarionPath2_a0da192d:
     # m "A few did not attend."
-    m ""
+    m "A few did not attend."
 
 # MarionPath2_6ea4e8a5 (line 16502)
 translate ru MarionPath2_6ea4e8a5:
     # s "Anything we need to worry about?"
-    s ""
+    s "Anything we need to worry about?"
 
 # MarionPath2_6c60e17a (line 16503)
 translate ru MarionPath2_6c60e17a:
@@ -411,12 +411,12 @@ translate ru MarionPath2_6c60e17a:
 # MarionPath2_b7abd9d5 (line 16504)
 translate ru MarionPath2_b7abd9d5:
     # m "No, some small houses, eager to make a statement I think."
-    m ""
+    m "No, some small houses, eager to make a statement I think."
 
 # MarionPath2_a75324a8 (line 16505)
 translate ru MarionPath2_a75324a8:
     # m "We have the Old Houses, most of the Great Lords and even most of the Provincial Lords."
-    m ""
+    m "We have the Old Houses, most of the Great Lords and even most of the Provincial Lords."
 
 # MarionPath2_8ea61a60 (line 16506)
 translate ru MarionPath2_8ea61a60:
@@ -426,12 +426,12 @@ translate ru MarionPath2_8ea61a60:
 # MarionPath2_d6527e57 (line 16507)
 translate ru MarionPath2_d6527e57:
     # s "You're..."
-    s ""
+    s "You're..."
 
 # MarionPath2_ca491686 (line 16508)
 translate ru MarionPath2_ca491686:
     # s "Quite perceptive."
-    s ""
+    s "Quite perceptive."
 
 # MarionPath2_3e66345f (line 16509)
 translate ru MarionPath2_3e66345f:
@@ -441,12 +441,12 @@ translate ru MarionPath2_3e66345f:
 # MarionPath2_e6be6e9a (line 16510)
 translate ru MarionPath2_e6be6e9a:
     # m "Well, when you get raised to look at those noble faces all day, you develop a talent I suppose."
-    m ""
+    m "Well, when you get raised to look at those noble faces all day, you develop a talent I suppose."
 
 # MarionPath2_aab9ffa7 (line 16511)
 translate ru MarionPath2_aab9ffa7:
     # m "You're not that different, I imagine?"
-    m ""
+    m "You're not that different, I imagine?"
 
 # MarionPath2_8b4d7fe4 (line 16512)
 translate ru MarionPath2_8b4d7fe4:
@@ -456,17 +456,17 @@ translate ru MarionPath2_8b4d7fe4:
 # MarionPath2_cd803cfe (line 16513)
 translate ru MarionPath2_cd803cfe:
     # s "We're missing...Greytower...Riverbend...and..."
-    s ""
+    s "We're missing...Greytower...Riverbend...and..."
 
 # MarionPath2_f3870cce (line 16514)
 translate ru MarionPath2_f3870cce:
     # m "It's fine, you can say it."
-    m ""
+    m "It's fine, you can say it."
 
 # MarionPath2_a3a4c68a (line 16515)
 translate ru MarionPath2_a3a4c68a:
     # s "Northwood."
-    s ""
+    s "Northwood."
 
 # MarionPath2_fa8b2e4a (line 16516)
 translate ru MarionPath2_fa8b2e4a:
@@ -481,7 +481,7 @@ translate ru MarionPath2_b4b813eb:
 # MarionPath2_23cffae3 (line 16518)
 translate ru MarionPath2_23cffae3:
     # m "As I said. Small houses, each with their petty grievances."
-    m ""
+    m "As I said. Small houses, each with their petty grievances."
 
 # MarionPath2_fd0edc9e (line 16519)
 translate ru MarionPath2_fd0edc9e:
@@ -491,7 +491,7 @@ translate ru MarionPath2_fd0edc9e:
 # MarionPath2_916a27b1 (line 16520)
 translate ru MarionPath2_916a27b1:
     # s "I didn't know they had complaints..."
-    s ""
+    s "I didn't know they had complaints..."
 
 # MarionPath2_b8ed2940 (line 16521)
 translate ru MarionPath2_b8ed2940:
@@ -501,52 +501,52 @@ translate ru MarionPath2_b8ed2940:
 # MarionPath2_0833aba9 (line 16522)
 translate ru MarionPath2_0833aba9:
     # m "Land disputes. Some arguments about trading rights. The usual squable."
-    m ""
+    m "Land disputes. Some arguments about trading rights. The usual squable."
 
 # MarionPath2_d8702791 (line 16523)
 translate ru MarionPath2_d8702791:
     # m "As for Varga, well...I suppose he's very busy with his new promotion."
-    m ""
+    m "As for Varga, well...I suppose he's very busy with his new promotion."
 
 # MarionPath2_fc548019 (line 16524)
 translate ru MarionPath2_fc548019:
     # s "New promotion?"
-    s ""
+    s "New promotion?"
 
 # MarionPath2_e4d86aac (line 16525)
 translate ru MarionPath2_e4d86aac:
     # m "Yes. We suffered the invasion from the Tribes, and we were victorious only by the luck of the Gods."
-    m ""
+    m "Yes. We suffered the invasion from the Tribes, and we were victorious only by the luck of the Gods."
 
 # MarionPath2_4466d82d (line 16526)
 translate ru MarionPath2_4466d82d:
     # m "But we won in so far as that we are not all in chains."
-    m ""
+    m "But we won in so far as that we are not all in chains."
 
 # MarionPath2_e9c867ab (line 16527)
 translate ru MarionPath2_e9c867ab:
     # m "The Eastern provinces...well, the first reports we're getting are quite dire."
-    m ""
+    m "The Eastern provinces...well, the first reports we're getting are quite dire."
 
 # MarionPath2_b3c9148e (line 16528)
 translate ru MarionPath2_b3c9148e:
     # s "But we drove them back."
-    s ""
+    s "But we drove them back."
 
 # MarionPath2_90d50e6d (line 16529)
 translate ru MarionPath2_90d50e6d:
     # m "Yes, but all the small villages between the borders and the Capital were not so lucky."
-    m ""
+    m "Yes, but all the small villages between the borders and the Capital were not so lucky."
 
 # MarionPath2_f13218d3 (line 16530)
 translate ru MarionPath2_f13218d3:
     # m "They razed them, enslaved the people."
-    m ""
+    m "They razed them, enslaved the people."
 
 # MarionPath2_423bbb76 (line 16531)
 translate ru MarionPath2_423bbb76:
     # s "It's horrible."
-    s ""
+    s "It's horrible."
 
 # MarionPath2_d9de81ab (line 16532)
 translate ru MarionPath2_d9de81ab:
@@ -556,22 +556,22 @@ translate ru MarionPath2_d9de81ab:
 # MarionPath2_de4906c2 (line 16533)
 translate ru MarionPath2_de4906c2:
     # m "That is why I issued an order to replace the current Governor for the Eastern Provinces."
-    m ""
+    m "That is why I issued an order to replace the current Governor for the Eastern Provinces."
 
 # MarionPath2_42dc1bf9 (line 16534)
 translate ru MarionPath2_42dc1bf9:
     # m "He's an old fool who should have retired years ago."
-    m ""
+    m "He's an old fool who should have retired years ago."
 
 # MarionPath2_f12b52f8 (line 16535)
 translate ru MarionPath2_f12b52f8:
     # m "Varga...regardless of my disagreements with the man, he knows how to organize a defense."
-    m ""
+    m "Varga...regardless of my disagreements with the man, he knows how to organize a defense."
 
 # MarionPath2_825a18cd (line 16536)
 translate ru MarionPath2_825a18cd:
     # m "And the peasants seem to like him, so he'll go a long way towards restoring order in the Eastern Provinces."
-    m ""
+    m "And the peasants seem to like him, so he'll go a long way towards restoring order in the Eastern Provinces."
 
 # MarionPath2_68cd6681 (line 16537)
 translate ru MarionPath2_68cd6681:
@@ -601,17 +601,17 @@ translate ru MarionPath2_10a585f4:
 # MarionPath2_372dc119 (line 16542)
 translate ru MarionPath2_372dc119:
     # s "It's clever."
-    s ""
+    s "It's clever."
 
 # MarionPath2_be940d68 (line 16543)
 translate ru MarionPath2_be940d68:
     # m "Ah, you approve of my decision?"
-    m ""
+    m "Ah, you approve of my decision?"
 
 # MarionPath2_59f843f0 (line 16544)
 translate ru MarionPath2_59f843f0:
     # m "I thought you would be mad with me."
-    m ""
+    m "I thought you would be mad with me."
 
 # MarionPath2_c0e56c67 (line 16545)
 translate ru MarionPath2_c0e56c67:
@@ -621,12 +621,12 @@ translate ru MarionPath2_c0e56c67:
 # MarionPath2_eaf16898 (line 16546)
 translate ru MarionPath2_eaf16898:
     # s "Mad? For what reason?"
-    s ""
+    s "Mad? For what reason?"
 
 # MarionPath2_b3bdc986 (line 16547)
 translate ru MarionPath2_b3bdc986:
     # m "Well, you and Varga were quite close, no?"
-    m ""
+    m "Well, you and Varga were quite close, no?"
 
 # MarionPath2_da8a43db (line 16548)
 translate ru MarionPath2_da8a43db:
@@ -636,12 +636,12 @@ translate ru MarionPath2_da8a43db:
 # MarionPath2_4abdeec6 (line 16549)
 translate ru MarionPath2_4abdeec6:
     # s "We were friends."
-    s ""
+    s "We were friends."
 
 # MarionPath2_283a78e7 (line 16550)
 translate ru MarionPath2_283a78e7:
     # s "I'm sure you have friends."
-    s ""
+    s "I'm sure you have friends."
 
 # MarionPath2_29930b36 (line 16551)
 translate ru MarionPath2_29930b36:
@@ -651,22 +651,22 @@ translate ru MarionPath2_29930b36:
 # MarionPath2_a4cdbc70 (line 16552)
 translate ru MarionPath2_a4cdbc70:
     # m "I do."
-    m ""
+    m "I do."
 
 # MarionPath2_f50ea2bf (line 16553)
 translate ru MarionPath2_f50ea2bf:
     # m "But let me be clear with you as well."
-    m ""
+    m "But let me be clear with you as well."
 
 # MarionPath2_0fddd20f (line 16554)
 translate ru MarionPath2_0fddd20f:
     # m "Our marriage will mark a new time in each of our lives."
-    m ""
+    m "Our marriage will mark a new time in each of our lives."
 
 # MarionPath2_a2191afe (line 16555)
 translate ru MarionPath2_a2191afe:
     # m "We cannot keep playing at childishness."
-    m ""
+    m "We cannot keep playing at childishness."
 
 # MarionPath2_b22bf2ba (line 16556)
 translate ru MarionPath2_b22bf2ba:
@@ -676,27 +676,27 @@ translate ru MarionPath2_b22bf2ba:
 # MarionPath2_7354b875 (line 16557)
 translate ru MarionPath2_7354b875:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # MarionPath2_28ee2014 (line 16558)
 translate ru MarionPath2_28ee2014:
     # m "I mean that we must be proper in our conduct, as well as our appearance."
-    m ""
+    m "I mean that we must be proper in our conduct, as well as our appearance."
 
 # MarionPath2_f0ddbfc5 (line 16559)
 translate ru MarionPath2_f0ddbfc5:
     # m "Friends...well, I think it would be better for you to keep the kinds of friends that are proper for a wife."
-    m ""
+    m "Friends...well, I think it would be better for you to keep the kinds of friends that are proper for a wife."
 
 # MarionPath2_04dc7384 (line 16560)
 translate ru MarionPath2_04dc7384:
     # s "Proper?"
-    s ""
+    s "Proper?"
 
 # MarionPath2_47a7e840 (line 16561)
 translate ru MarionPath2_47a7e840:
     # m "Yes. No need to give these vultures any reason to gossip. They do enough of that on their own."
-    m ""
+    m "Yes. No need to give these vultures any reason to gossip. They do enough of that on their own."
 
 # MarionPath2_dfc669ab (line 16562)
 translate ru MarionPath2_dfc669ab:
@@ -741,7 +741,7 @@ translate ru MarionPath2_915ead0e:
 # MarionPath2_9ff494fc (line 16570)
 translate ru MarionPath2_9ff494fc:
     # s "Yes, you're right. We should each commit ourselves to our new roles."
-    s ""
+    s "Yes, you're right. We should each commit ourselves to our new roles."
 
 # MarionPath2_737b155e (line 16571)
 translate ru MarionPath2_737b155e:
@@ -751,12 +751,12 @@ translate ru MarionPath2_737b155e:
 # MarionPath2_25ef229e (line 16572)
 translate ru MarionPath2_25ef229e:
     # m "With that said, perhaps the evening has gone on long enough..."
-    m ""
+    m "With that said, perhaps the evening has gone on long enough..."
 
 # MarionPath2_cb371543 (line 16573)
 translate ru MarionPath2_cb371543:
     # m "Perhaps time we play all the parts of our new roles."
-    m ""
+    m "Perhaps time we play all the parts of our new roles."
 
 # MarionPath2_17bf4198 (line 16574)
 translate ru MarionPath2_17bf4198:
@@ -781,17 +781,17 @@ translate ru MarionPath2_0eb418f3:
 # MarionPath2_6dfa1ab5 (line 16578)
 translate ru MarionPath2_6dfa1ab5:
     # m "Friends, kin, I welcome all your kind words, but I fear to admit I have had my fill."
-    m ""
+    m "Friends, kin, I welcome all your kind words, but I fear to admit I have had my fill."
 
 # MarionPath2_fcf0c295 (line 16579)
 translate ru MarionPath2_fcf0c295:
     # m "My fill of food and my fill of kindness."
-    m ""
+    m "My fill of food and my fill of kindness."
 
 # MarionPath2_32897fab (line 16580)
 translate ru MarionPath2_32897fab:
     # m "Please, I beg of you all, forgive a newly married man for wanting to eagerly depart and get to other business with his new wife."
-    m ""
+    m "Please, I beg of you all, forgive a newly married man for wanting to eagerly depart and get to other business with his new wife."
 
 # MarionPath2_53ed5e6f (line 16581)
 translate ru MarionPath2_53ed5e6f:
@@ -846,17 +846,17 @@ translate ru MarionPath2_d1c7391a:
 # MarionPath2_43371986 (line 16597)
 translate ru MarionPath2_43371986:
     # m "So..."
-    m ""
+    m "So..."
 
 # MarionPath2_e12cf354 (line 16598)
 translate ru MarionPath2_e12cf354:
     # s "So..."
-    s ""
+    s "So..."
 
 # MarionPath2_ee2d9043 (line 16599)
 translate ru MarionPath2_ee2d9043:
     # m "I imagine that you know the basics of this?"
-    m ""
+    m "I imagine that you know the basics of this?"
 
 # MarionPath2_ff4a674f (line 16600)
 translate ru MarionPath2_ff4a674f:
@@ -871,12 +871,12 @@ translate ru MarionPath2_65bd3cdd:
 # MarionPath2_8204b1f6 (line 16602)
 translate ru MarionPath2_8204b1f6:
     # s "I was told...enough."
-    s ""
+    s "I was told...enough."
 
 # MarionPath2_4c5b347c (line 16603)
 translate ru MarionPath2_4c5b347c:
     # m "Don't worry, I have enough experience for the both of us."
-    m ""
+    m "Don't worry, I have enough experience for the both of us."
 
 # MarionPath2_8c91a88d (line 16604)
 translate ru MarionPath2_8c91a88d:
@@ -921,7 +921,7 @@ translate ru MarionPath2_18babbd9:
 # MarionPath2_487c6e16 (line 16612)
 translate ru MarionPath2_487c6e16:
     # m "Go ahead."
-    m ""
+    m "Go ahead."
 
 # MarionPath2_c7c00835 (line 16613)
 translate ru MarionPath2_c7c00835:
@@ -931,7 +931,7 @@ translate ru MarionPath2_c7c00835:
 # MarionPath2_305c9440 (line 16614)
 translate ru MarionPath2_305c9440:
     # m "Take your clothes off."
-    m ""
+    m "Take your clothes off."
 
 # MarionPath2_20d8430f (line 16615)
 translate ru MarionPath2_20d8430f:
@@ -1016,7 +1016,7 @@ translate ru MarionPath2_f03742b8:
 # MarionPath2_2ed8407a (line 16643)
 translate ru MarionPath2_2ed8407a:
     # m "You're beautiful."
-    m ""
+    m "You're beautiful."
 
 # MarionPath2_451712c3 (line 16644)
 translate ru MarionPath2_451712c3:
@@ -1031,7 +1031,7 @@ translate ru MarionPath2_ef6abeb5:
 # MarionPath2_ff51d27e (line 16646)
 translate ru MarionPath2_ff51d27e:
     # s "Thank you..."
-    s ""
+    s "Thank you..."
 
 # MarionPath2_807414f6 (line 16647)
 translate ru MarionPath2_807414f6:
@@ -1041,12 +1041,12 @@ translate ru MarionPath2_807414f6:
 # MarionPath2_3ddb57d5 (line 16648)
 translate ru MarionPath2_3ddb57d5:
     # m "Go on."
-    m ""
+    m "Go on."
 
 # MarionPath2_fb3789b7 (line 16649)
 translate ru MarionPath2_fb3789b7:
     # m "Take the rest off."
-    m ""
+    m "Take the rest off."
 
 # MarionPath2_5638c6c0 (line 16650)
 translate ru MarionPath2_5638c6c0:
@@ -1096,12 +1096,12 @@ translate ru MarionPath2_9087145b:
 # MarionPath2_2f01296f (line 16665)
 translate ru MarionPath2_2f01296f:
     # m "Gods..."
-    m ""
+    m "Gods..."
 
 # MarionPath2_a8066895 (line 16666)
 translate ru MarionPath2_a8066895:
     # s "What is it?"
-    s ""
+    s "What is it?"
 
 # MarionPath2_0cd488ec (line 16667)
 translate ru MarionPath2_0cd488ec:
@@ -1111,7 +1111,7 @@ translate ru MarionPath2_0cd488ec:
 # MarionPath2_2d8cd20f (line 16668)
 translate ru MarionPath2_2d8cd20f:
     # m "You're just...perfect."
-    m ""
+    m "You're just...perfect."
 
 # MarionPath2_c8e1e690 (line 16669)
 translate ru MarionPath2_c8e1e690:
@@ -1121,12 +1121,12 @@ translate ru MarionPath2_c8e1e690:
 # MarionPath2_0085bf9a (line 16670)
 translate ru MarionPath2_0085bf9a:
     # s "Well..."
-    s ""
+    s "Well..."
 
 # MarionPath2_b35e58af (line 16671)
 translate ru MarionPath2_b35e58af:
     # s "How about you?"
-    s ""
+    s "How about you?"
 
 # MarionPath2_7aabb0cb (line 16672)
 translate ru MarionPath2_7aabb0cb:
@@ -1136,12 +1136,12 @@ translate ru MarionPath2_7aabb0cb:
 # MarionPath2_4211c93b (line 16673)
 translate ru MarionPath2_4211c93b:
     # m "Aah, eager to see your husband, are you?"
-    m ""
+    m "Aah, eager to see your husband, are you?"
 
 # MarionPath2_67e69488 (line 16674)
 translate ru MarionPath2_67e69488:
     # s "Well...if a wife has a duty, so too does a husband, no?"
-    s ""
+    s "Well...if a wife has a duty, so too does a husband, no?"
 
 # MarionPath2_eaa76f71 (line 16675)
 translate ru MarionPath2_eaa76f71:
@@ -1151,7 +1151,7 @@ translate ru MarionPath2_eaa76f71:
 # MarionPath2_4b3d3ec9 (line 16676)
 translate ru MarionPath2_4b3d3ec9:
     # m "Right you are."
-    m ""
+    m "Right you are."
 
 # MarionPath2_bbd8c0c7 (line 16683)
 translate ru MarionPath2_bbd8c0c7:
@@ -1166,12 +1166,12 @@ translate ru MarionPath2_80547d19:
 # MarionPath2_2c3e4f96 (line 16685)
 translate ru MarionPath2_2c3e4f96:
     # m "Have you ever seen a man naked before?"
-    m ""
+    m "Have you ever seen a man naked before?"
 
 # MarionPath2_674e0ce7 (line 16686)
 translate ru MarionPath2_674e0ce7:
     # s "Pictures. Books."
-    s ""
+    s "Pictures. Books."
 
 # MarionPath2_7d8cd5fa (line 16687)
 translate ru MarionPath2_7d8cd5fa:
@@ -1181,7 +1181,7 @@ translate ru MarionPath2_7d8cd5fa:
 # MarionPath2_ef1a1697 (line 16688)
 translate ru MarionPath2_ef1a1697:
     # m "Well, let's hope I do better than the pictures."
-    m ""
+    m "Well, let's hope I do better than the pictures."
 
 # MarionPath2_86801707 (line 16695)
 translate ru MarionPath2_86801707:
@@ -1246,7 +1246,7 @@ translate ru MarionPath2_c61676d0:
 # MarionPath2_2dc072c9 (line 16707)
 translate ru MarionPath2_2dc072c9:
     # m "You're staring."
-    m ""
+    m "You're staring."
 
 # MarionPath2_58455b17 (line 16708)
 translate ru MarionPath2_58455b17:
@@ -1256,17 +1256,17 @@ translate ru MarionPath2_58455b17:
 # MarionPath2_21149de5 (line 16709)
 translate ru MarionPath2_21149de5:
     # s "No, I..."
-    s ""
+    s "No, I..."
 
 # MarionPath2_02dc2787 (line 16710)
 translate ru MarionPath2_02dc2787:
     # m "It's fine."
-    m ""
+    m "It's fine."
 
 # MarionPath2_6d052283 (line 16711)
 translate ru MarionPath2_6d052283:
     # m "I'd rather a wife who burns than one who belongs to a convent."
-    m ""
+    m "I'd rather a wife who burns than one who belongs to a convent."
 
 # MarionPath2_b03950e1 (line 16712)
 translate ru MarionPath2_b03950e1:
@@ -1286,7 +1286,7 @@ translate ru MarionPath2_39c6c9d2:
 # MarionPath2_aef9eb2e (line 16715)
 translate ru MarionPath2_aef9eb2e:
     # s "What about the rest?"
-    s ""
+    s "What about the rest?"
 
 # MarionPath2_1a944d51 (line 16716)
 translate ru MarionPath2_1a944d51:
@@ -1296,7 +1296,7 @@ translate ru MarionPath2_1a944d51:
 # MarionPath2_39382302 (line 16717)
 translate ru MarionPath2_39382302:
     # m "Eager, are we?"
-    m ""
+    m "Eager, are we?"
 
 # MarionPath2_317f5cfd (line 16724)
 translate ru MarionPath2_317f5cfd:
@@ -1321,12 +1321,12 @@ translate ru MarionPath2_cbf8b3ae:
 # MarionPath2_35700019 (line 16728)
 translate ru MarionPath2_35700019:
     # m "Is that the face of a happy wife?"
-    m ""
+    m "Is that the face of a happy wife?"
 
 # MarionPath2_db14f74e (line 16729)
 translate ru MarionPath2_db14f74e:
     # s "I just..."
-    s ""
+    s "I just..."
 
 # MarionPath2_38bc6dfa (line 16730)
 translate ru MarionPath2_38bc6dfa:
@@ -1351,7 +1351,7 @@ translate ru MarionPath2_8ed07860:
 # MarionPath2_77d6a198 (line 16740)
 translate ru MarionPath2_77d6a198:
     # m "Sarah..."
-    m ""
+    m "Sarah..."
 
 # MarionPath2_ba83b57a (line 16741)
 translate ru MarionPath2_ba83b57a:
@@ -1361,17 +1361,17 @@ translate ru MarionPath2_ba83b57a:
 # MarionPath2_ebb0f90d (line 16742)
 translate ru MarionPath2_ebb0f90d:
     # m "I know this marriage isn't perhaps what you imagined."
-    m ""
+    m "I know this marriage isn't perhaps what you imagined."
 
 # MarionPath2_e34bb6fd (line 16743)
 translate ru MarionPath2_e34bb6fd:
     # m "But love..."
-    m ""
+    m "But love..."
 
 # MarionPath2_55f91b53 (line 16744)
 translate ru MarionPath2_55f91b53:
     # m "Perhaps it can grow."
-    m ""
+    m "Perhaps it can grow."
 
 # MarionPath2_9b82f89d (line 16745)
 translate ru MarionPath2_9b82f89d:
@@ -1801,7 +1801,7 @@ translate ru MarionPath2_542ab49e:
 # MarionPath2_f6f7aec9 (line 16844)
 translate ru MarionPath2_f6f7aec9:
     # m "You're awake."
-    m ""
+    m "You're awake."
 
 # MarionPath2_4e4f49ed (line 16845)
 translate ru MarionPath2_4e4f49ed:
@@ -1811,12 +1811,12 @@ translate ru MarionPath2_4e4f49ed:
 # MarionPath2_facd17eb (line 16846)
 translate ru MarionPath2_facd17eb:
     # m "Good."
-    m ""
+    m "Good."
 
 # MarionPath2_495938a0 (line 16847)
 translate ru MarionPath2_495938a0:
     # m "We should prepare."
-    m ""
+    m "We should prepare."
 
 # MarionPath2_efc99fb9 (line 16848)
 translate ru MarionPath2_efc99fb9:
@@ -1836,12 +1836,12 @@ translate ru MarionPath2_bc518330:
 # MarionPath2_14897d5d (line 16851)
 translate ru MarionPath2_14897d5d:
     # s "Why should we prepare, again?"
-    s ""
+    s "Why should we prepare, again?"
 
 # MarionPath2_58883626 (line 16852)
 translate ru MarionPath2_58883626:
     # m "We have a council meeting later today."
-    m ""
+    m "We have a council meeting later today."
 
 # MarionPath2_0bcf14da (line 16853)
 translate ru MarionPath2_0bcf14da:
@@ -1851,7 +1851,7 @@ translate ru MarionPath2_0bcf14da:
 # MarionPath2_f9108a74 (line 16854)
 translate ru MarionPath2_f9108a74:
     # s "We do?"
-    s ""
+    s "We do?"
 
 # MarionPath2_16caf9b3 (line 16855)
 translate ru MarionPath2_16caf9b3:
@@ -1861,7 +1861,7 @@ translate ru MarionPath2_16caf9b3:
 # MarionPath2_c4eac9c1 (line 16856)
 translate ru MarionPath2_c4eac9c1:
     # m "Some urgent news was delivered today."
-    m ""
+    m "Some urgent news was delivered today."
 
 # MarionPath2_9f739afe (line 16857)
 translate ru MarionPath2_9f739afe:
@@ -1871,7 +1871,7 @@ translate ru MarionPath2_9f739afe:
 # MarionPath2_64a02676 (line 16858)
 translate ru MarionPath2_64a02676:
     # s "Urgent news? More attacks from the Tribes?"
-    s ""
+    s "Urgent news? More attacks from the Tribes?"
 
 # MarionPath2_e9746f2a (line 16859)
 translate ru MarionPath2_e9746f2a:
@@ -1951,7 +1951,7 @@ translate ru MarionPath2_080d803b:
 # MarionPath2_3e03471f (line 16874)
 translate ru MarionPath2_3e03471f:
     # s "This..."
-    s ""
+    s "This..."
 
 # MarionPath2_8704082e (line 16875)
 translate ru MarionPath2_8704082e:
@@ -1961,32 +1961,32 @@ translate ru MarionPath2_8704082e:
 # MarionPath2_0a983802 (line 16876)
 translate ru MarionPath2_0a983802:
     # m "Sarah..."
-    m ""
+    m "Sarah..."
 
 # MarionPath2_aaf0c3b6 (line 16877)
 translate ru MarionPath2_aaf0c3b6:
     # m "We are only just married. Too early for lies. So let me speak as plainly as I can."
-    m ""
+    m "We are only just married. Too early for lies. So let me speak as plainly as I can."
 
 # MarionPath2_71337148 (line 16878)
 translate ru MarionPath2_71337148:
     # m "I understand that you were hesitant for this marriage...but it is now fact."
-    m ""
+    m "I understand that you were hesitant for this marriage...but it is now fact."
 
 # MarionPath2_0dac4b2f (line 16879)
 translate ru MarionPath2_0dac4b2f:
     # m "The strength of our union comes from our united front."
-    m ""
+    m "The strength of our union comes from our united front."
 
 # MarionPath2_734b505e (line 16880)
 translate ru MarionPath2_734b505e:
     # m "I do not want a wife that simply nods along to me, you're much too clever for that."
-    m ""
+    m "I do not want a wife that simply nods along to me, you're much too clever for that."
 
 # MarionPath2_dd18d61e (line 16881)
 translate ru MarionPath2_dd18d61e:
     # m "But we cannot be seen disagreeing in public."
-    m ""
+    m "But we cannot be seen disagreeing in public."
 
 # MarionPath2_07fa746a (line 16882)
 translate ru MarionPath2_07fa746a:
@@ -2006,7 +2006,7 @@ translate ru MarionPath2_476892ef:
 # MarionPath2_e201c69c (line 16885)
 translate ru MarionPath2_e201c69c:
     # s "I understand...but I have a mind of my own. I owe my brother the best council I can give him."
-    s ""
+    s "I understand...but I have a mind of my own. I owe my brother the best council I can give him."
 
 # MarionPath2_a0ccc3d6 (line 16886)
 translate ru MarionPath2_a0ccc3d6:
@@ -2016,17 +2016,17 @@ translate ru MarionPath2_a0ccc3d6:
 # MarionPath2_65ab53ea (line 16887)
 translate ru MarionPath2_65ab53ea:
     # m "I understand your concern as well."
-    m ""
+    m "I understand your concern as well."
 
 # MarionPath2_ce973f89 (line 16888)
 translate ru MarionPath2_ce973f89:
     # m "All I ask is that at the council meeting...we represent a united front."
-    m ""
+    m "All I ask is that at the council meeting...we represent a united front."
 
 # MarionPath2_a8684f13 (line 16889)
 translate ru MarionPath2_a8684f13:
     # m "Our disagreements, as far as they exist...let us do our best to keep them private."
-    m ""
+    m "Our disagreements, as far as they exist...let us do our best to keep them private."
 
 # MarionPath2_0ed819b4 (line 16890)
 translate ru MarionPath2_0ed819b4:
@@ -2036,12 +2036,12 @@ translate ru MarionPath2_0ed819b4:
 # MarionPath2_3f6ca187 (line 16891)
 translate ru MarionPath2_3f6ca187:
     # s "So...when will the council begin?"
-    s ""
+    s "So...when will the council begin?"
 
 # MarionPath2_8747c46b (line 16892)
 translate ru MarionPath2_8747c46b:
     # m "In an hour."
-    m ""
+    m "In an hour."
 
 # MarionPath2_5508d9f7 (line 16893)
 translate ru MarionPath2_5508d9f7:
@@ -2051,12 +2051,12 @@ translate ru MarionPath2_5508d9f7:
 # MarionPath2_24146de2 (line 16894)
 translate ru MarionPath2_24146de2:
     # s "An hour?!"
-    s ""
+    s "An hour?!"
 
 # MarionPath2_e385a6ae (line 16895)
 translate ru MarionPath2_e385a6ae:
     # s "But I have to get ready, and..."
-    s ""
+    s "But I have to get ready, and..."
 
 # MarionPath2_237982c1 (line 16896)
 translate ru MarionPath2_237982c1:
@@ -2066,17 +2066,17 @@ translate ru MarionPath2_237982c1:
 # MarionPath2_b2e1bdb9 (line 16897)
 translate ru MarionPath2_b2e1bdb9:
     # m "Don't worry."
-    m ""
+    m "Don't worry."
 
 # MarionPath2_f647698a (line 16898)
 translate ru MarionPath2_f647698a:
     # m "I have called for the servants to come help you get prepared."
-    m ""
+    m "I have called for the servants to come help you get prepared."
 
 # MarionPath2_3bcd2cf0 (line 16899)
 translate ru MarionPath2_3bcd2cf0:
     # m "I suppose I would have gladly helped my new wife to get dressed, but I fear I have only experience in taking women's clothes off."
-    m ""
+    m "I suppose I would have gladly helped my new wife to get dressed, but I fear I have only experience in taking women's clothes off."
 
 # MarionPath2_83be3ac0 (line 16900)
 translate ru MarionPath2_83be3ac0:
@@ -2086,12 +2086,12 @@ translate ru MarionPath2_83be3ac0:
 # MarionPath2_a28fefef (line 16901)
 translate ru MarionPath2_a28fefef:
     # m "I will go and get some dinner myself."
-    m ""
+    m "I will go and get some dinner myself."
 
 # MarionPath2_e6ad79fd (line 16902)
 translate ru MarionPath2_e6ad79fd:
     # m "We will meet again at the council chambers."
-    m ""
+    m "We will meet again at the council chambers."
 
 # MarionPath2_8a0054f7 (line 16903)
 translate ru MarionPath2_8a0054f7:
@@ -2151,12 +2151,12 @@ translate ru MarionPath2_fefc6b1f:
 # MarionPath2_e2bf1b4f (line 16931)
 translate ru MarionPath2_e2bf1b4f:
     # t "Sarah! You're here!"
-    t ""
+    t "Sarah! You're here!"
 
 # MarionPath2_96d7fa50 (line 16932)
 translate ru MarionPath2_96d7fa50:
     # t "Come, you should hear Marion's joke."
-    t ""
+    t "Come, you should hear Marion's joke."
 
 # MarionPath2_415fc3aa (line 16933)
 translate ru MarionPath2_415fc3aa:
@@ -2166,7 +2166,7 @@ translate ru MarionPath2_415fc3aa:
 # MarionPath2_597b4c7f (line 16934)
 translate ru MarionPath2_597b4c7f:
     # m "Well, Thomas, perhaps not a joke fit for a lady's ears."
-    m ""
+    m "Well, Thomas, perhaps not a joke fit for a lady's ears."
 
 # MarionPath2_ee91af95 (line 16935)
 translate ru MarionPath2_ee91af95:
@@ -2176,12 +2176,12 @@ translate ru MarionPath2_ee91af95:
 # MarionPath2_989ec0bc (line 16936)
 translate ru MarionPath2_989ec0bc:
     # t "No, I guess that's true."
-    t ""
+    t "No, I guess that's true."
 
 # MarionPath2_be19c53f (line 16937)
 translate ru MarionPath2_be19c53f:
     # t "Forget it, come sit with me sis!"
-    t ""
+    t "Forget it, come sit with me sis!"
 
 # MarionPath2_fd18e573 (line 16938)
 translate ru MarionPath2_fd18e573:
@@ -2221,12 +2221,12 @@ translate ru MarionPath2_bff6445a:
 # MarionPath2_b2b556f3 (line 16945)
 translate ru MarionPath2_b2b556f3:
     # t "We..."
-    t ""
+    t "We..."
 
 # MarionPath2_bb5c5508 (line 16946)
 translate ru MarionPath2_bb5c5508:
     # t "We're here on an account of a recently received missive."
-    t ""
+    t "We're here on an account of a recently received missive."
 
 # MarionPath2_29566385 (line 16947)
 translate ru MarionPath2_29566385:
@@ -2246,7 +2246,7 @@ translate ru MarionPath2_985cf615:
 # MarionPath2_eff52476 (line 16950)
 translate ru MarionPath2_eff52476:
     # t "Spymaster Kravel...could you speak more to it?"
-    t ""
+    t "Spymaster Kravel...could you speak more to it?"
 
 # MarionPath2_3361c0a6 (line 16951)
 translate ru MarionPath2_3361c0a6:
@@ -2256,17 +2256,17 @@ translate ru MarionPath2_3361c0a6:
 # MarionPath2_3faaca57 (line 16952)
 translate ru MarionPath2_3faaca57:
     # kr "Yes, my Lord, it arrived in the dead of night."
-    kr ""
+    kr "Yes, my Lord, it arrived in the dead of night."
 
 # MarionPath2_1717b0a1 (line 16953)
 translate ru MarionPath2_1717b0a1:
     # kr "Given the...festivities I had assumed we could have postponed most council business for a few days."
-    kr ""
+    kr "Given the...festivities I had assumed we could have postponed most council business for a few days."
 
 # MarionPath2_afbd797f (line 16954)
 translate ru MarionPath2_afbd797f:
     # kr "But the nature of this letter...left me rather disturbed."
-    kr ""
+    kr "But the nature of this letter...left me rather disturbed."
 
 # MarionPath2_199d9199 (line 16955)
 translate ru MarionPath2_199d9199:
@@ -2281,12 +2281,12 @@ translate ru MarionPath2_a521f735:
 # MarionPath2_a5c4f216 (line 16957)
 translate ru MarionPath2_a5c4f216:
     # kr "The letter describes the attack on the merchants by supposed bandits, but that part of the country does not have much banditry at all."
-    kr ""
+    kr "The letter describes the attack on the merchants by supposed bandits, but that part of the country does not have much banditry at all."
 
 # MarionPath2_73348358 (line 16958)
 translate ru MarionPath2_73348358:
     # kr "Let alone any groups brave enough to attack a prominent merchant boat like this one."
-    kr ""
+    kr "Let alone any groups brave enough to attack a prominent merchant boat like this one."
 
 # MarionPath2_7705a84c (line 16959)
 translate ru MarionPath2_7705a84c:
@@ -2296,7 +2296,7 @@ translate ru MarionPath2_7705a84c:
 # MarionPath2_6a432669 (line 16960)
 translate ru MarionPath2_6a432669:
     # kr "The letter itself was well crafted. I suspect a political friend of the merchant helped him draft it."
-    kr ""
+    kr "The letter itself was well crafted. I suspect a political friend of the merchant helped him draft it."
 
 # MarionPath2_1a44c31b (line 16961)
 translate ru MarionPath2_1a44c31b:
@@ -2306,17 +2306,17 @@ translate ru MarionPath2_1a44c31b:
 # MarionPath2_bdb1b9ce (line 16962)
 translate ru MarionPath2_bdb1b9ce:
     # t "Why do you say so?"
-    t ""
+    t "Why do you say so?"
 
 # MarionPath2_a73904dd (line 16963)
 translate ru MarionPath2_a73904dd:
     # kr "Well, the description in the letter is both specific and vague at the same time."
-    kr ""
+    kr "Well, the description in the letter is both specific and vague at the same time."
 
 # MarionPath2_e74618cb (line 16964)
 translate ru MarionPath2_e74618cb:
     # kr "The only suspect in the attack that famously matches this description...is Oliver Greytower, son of Lord Greytower."
-    kr ""
+    kr "The only suspect in the attack that famously matches this description...is Oliver Greytower, son of Lord Greytower."
 
 # MarionPath2_78714122 (line 16965)
 translate ru MarionPath2_78714122:
@@ -2326,7 +2326,7 @@ translate ru MarionPath2_78714122:
 # MarionPath2_69f28a0b (line 16966)
 translate ru MarionPath2_69f28a0b:
     # kr "But the letter is clever enough to avoid mentioning the boy by name."
-    kr ""
+    kr "But the letter is clever enough to avoid mentioning the boy by name."
 
 # MarionPath2_d1cc79f1 (line 16967)
 translate ru MarionPath2_d1cc79f1:
@@ -2336,7 +2336,7 @@ translate ru MarionPath2_d1cc79f1:
 # MarionPath2_7b4e43c4 (line 16968)
 translate ru MarionPath2_7b4e43c4:
     # t "Why is that clever?"
-    t ""
+    t "Why is that clever?"
 
 # MarionPath2_2ce8c923 (line 16969)
 translate ru MarionPath2_2ce8c923:
@@ -2346,22 +2346,22 @@ translate ru MarionPath2_2ce8c923:
 # MarionPath2_7261f6d4 (line 16970)
 translate ru MarionPath2_7261f6d4:
     # m "Because, Thomas, if the merchant directly names Oliver as the responsible party, he has made a very grave claim."
-    m ""
+    m "Because, Thomas, if the merchant directly names Oliver as the responsible party, he has made a very grave claim."
 
 # MarionPath2_05a49bca (line 16971)
 translate ru MarionPath2_05a49bca:
     # m "A claim that Oliver could use as a pretext to take offense."
-    m ""
+    m "A claim that Oliver could use as a pretext to take offense."
 
 # MarionPath2_03a34c4c (line 16972)
 translate ru MarionPath2_03a34c4c:
     # m "The merchant is asking us for aid in resolving this dispute, but if you decide against him...the claim would ring hollow."
-    m ""
+    m "The merchant is asking us for aid in resolving this dispute, but if you decide against him...the claim would ring hollow."
 
 # MarionPath2_6b45f948 (line 16973)
 translate ru MarionPath2_6b45f948:
     # m "And Oliver would have every ground to treat this letter as an insult, and to seek revenge on the man that wrote it."
-    m ""
+    m "And Oliver would have every ground to treat this letter as an insult, and to seek revenge on the man that wrote it."
 
 # MarionPath2_68eae8aa (line 16974)
 translate ru MarionPath2_68eae8aa:
@@ -2371,17 +2371,17 @@ translate ru MarionPath2_68eae8aa:
 # MarionPath2_cdfb3549 (line 16975)
 translate ru MarionPath2_cdfb3549:
     # m "By being vague enough in his description, the merchant is anticipating both outcomes."
-    m ""
+    m "By being vague enough in his description, the merchant is anticipating both outcomes."
 
 # MarionPath2_fb8542d1 (line 16976)
 translate ru MarionPath2_fb8542d1:
     # m "If you support his claim that Oliver attacked his transport, then he can depend on the protection of the Crown."
-    m ""
+    m "If you support his claim that Oliver attacked his transport, then he can depend on the protection of the Crown."
 
 # MarionPath2_dbce4c1e (line 16977)
 translate ru MarionPath2_dbce4c1e:
     # m "But if you reject his claim, he can pretend that he never named Oliver at all, and then Oliver will have less grounds to be offended."
-    m ""
+    m "But if you reject his claim, he can pretend that he never named Oliver at all, and then Oliver will have less grounds to be offended."
 
 # MarionPath2_50498b86 (line 16978)
 translate ru MarionPath2_50498b86:
@@ -2391,27 +2391,27 @@ translate ru MarionPath2_50498b86:
 # MarionPath2_95309a2e (line 16979)
 translate ru MarionPath2_95309a2e:
     # t "So...he's afraid that Oliver would kill him?"
-    t ""
+    t "So...he's afraid that Oliver would kill him?"
 
 # MarionPath2_476dfe13 (line 16980)
 translate ru MarionPath2_476dfe13:
     # m "Perhaps. But there is also the matter of the trading rights."
-    m ""
+    m "Perhaps. But there is also the matter of the trading rights."
 
 # MarionPath2_41c7ad05 (line 16981)
 translate ru MarionPath2_41c7ad05:
     # m "Oliver is the eldest son of Lord Greytower. Lord Greytower holds dominion over the province where this river runs."
-    m ""
+    m "Oliver is the eldest son of Lord Greytower. Lord Greytower holds dominion over the province where this river runs."
 
 # MarionPath2_27830356 (line 16982)
 translate ru MarionPath2_27830356:
     # m "A lot of trade goes through it, and he taxes it."
-    m ""
+    m "A lot of trade goes through it, and he taxes it."
 
 # MarionPath2_8f30cf70 (line 16983)
 translate ru MarionPath2_8f30cf70:
     # m "But he can also withdraw trading rights entirely. The merchant is likely afraid of that outcome as well as the potential for violence."
-    m ""
+    m "But he can also withdraw trading rights entirely. The merchant is likely afraid of that outcome as well as the potential for violence."
 
 # MarionPath2_20ed737b (line 16984)
 translate ru MarionPath2_20ed737b:
@@ -2421,17 +2421,17 @@ translate ru MarionPath2_20ed737b:
 # MarionPath2_c981af47 (line 16985)
 translate ru MarionPath2_c981af47:
     # t "I see..."
-    t ""
+    t "I see..."
 
 # MarionPath2_bfea1d74 (line 16986)
 translate ru MarionPath2_bfea1d74:
     # t "So...do we believe the merchant?"
-    t ""
+    t "So...do we believe the merchant?"
 
 # MarionPath2_4274a222 (line 16987)
 translate ru MarionPath2_4274a222:
     # t "Do we think Oliver Greytower would have carried out this attack?"
-    t ""
+    t "Do we think Oliver Greytower would have carried out this attack?"
 
 # MarionPath2_bd2da928 (line 16988)
 translate ru MarionPath2_bd2da928:
@@ -2441,7 +2441,7 @@ translate ru MarionPath2_bd2da928:
 # MarionPath2_3392abf7 (line 16989)
 translate ru MarionPath2_3392abf7:
     # c "My lord...if I my pose my position..."
-    c ""
+    c "My lord...if I my pose my position..."
 
 # MarionPath2_04621092 (line 16990)
 translate ru MarionPath2_04621092:
@@ -2451,32 +2451,32 @@ translate ru MarionPath2_04621092:
 # MarionPath2_fbcacfe1 (line 16991)
 translate ru MarionPath2_fbcacfe1:
     # t "Please."
-    t ""
+    t "Please."
 
 # MarionPath2_61734330 (line 16992)
 translate ru MarionPath2_61734330:
     # c "As Master of the Accounts, I must plead that we act."
-    c ""
+    c "As Master of the Accounts, I must plead that we act."
 
 # MarionPath2_961ed1fd (line 16993)
 translate ru MarionPath2_961ed1fd:
     # c "Trade is of vital importance, and the trade-routes that run through that part of the country in particular are very imporant."
-    c ""
+    c "Trade is of vital importance, and the trade-routes that run through that part of the country in particular are very imporant."
 
 # MarionPath2_7fd57893 (line 16994)
 translate ru MarionPath2_7fd57893:
     # c "They deliver most of our coal and iron."
-    c ""
+    c "They deliver most of our coal and iron."
 
 # MarionPath2_c0a304d1 (line 16995)
 translate ru MarionPath2_c0a304d1:
     # c "If the merchants fear for their safety and their wares, they will stop trading there entirely."
-    c ""
+    c "If the merchants fear for their safety and their wares, they will stop trading there entirely."
 
 # MarionPath2_882eeb72 (line 16996)
 translate ru MarionPath2_882eeb72:
     # c "The Crown must guarentee their safety, even if the danger comes from a noble house."
-    c ""
+    c "The Crown must guarentee their safety, even if the danger comes from a noble house."
 
 # MarionPath2_3b9dd843 (line 16997)
 translate ru MarionPath2_3b9dd843:
@@ -2486,17 +2486,17 @@ translate ru MarionPath2_3b9dd843:
 # MarionPath2_882a1311 (line 16998)
 translate ru MarionPath2_882a1311:
     # c "Not to mention, Oliver Greytower's reputation is well known."
-    c ""
+    c "Not to mention, Oliver Greytower's reputation is well known."
 
 # MarionPath2_e8606520 (line 16999)
 translate ru MarionPath2_e8606520:
     # c "The boy has a penchant for violence and is reckless."
-    c ""
+    c "The boy has a penchant for violence and is reckless."
 
 # MarionPath2_7038cd09 (line 17000)
 translate ru MarionPath2_7038cd09:
     # c "It will do the Crown well to be rid of such a troublemaker."
-    c ""
+    c "It will do the Crown well to be rid of such a troublemaker."
 
 # MarionPath2_8e795479 (line 17001)
 translate ru MarionPath2_8e795479:
@@ -2506,7 +2506,7 @@ translate ru MarionPath2_8e795479:
 # MarionPath2_157ea434 (line 17002)
 translate ru MarionPath2_157ea434:
     # t "I see your position, Lady Carolyn."
-    t ""
+    t "I see your position, Lady Carolyn."
 
 # MarionPath2_9d36c6f9 (line 17003)
 translate ru MarionPath2_9d36c6f9:
@@ -2516,7 +2516,7 @@ translate ru MarionPath2_9d36c6f9:
 # MarionPath2_673961e7 (line 17004)
 translate ru MarionPath2_673961e7:
     # t "What about you, Master Kravel?"
-    t ""
+    t "What about you, Master Kravel?"
 
 # MarionPath2_63d7ab6f (line 17005)
 translate ru MarionPath2_63d7ab6f:
@@ -2526,12 +2526,12 @@ translate ru MarionPath2_63d7ab6f:
 # MarionPath2_16ad86a2 (line 17006)
 translate ru MarionPath2_16ad86a2:
     # kr "While I understand the position of my friend and dear fellow member of the council..."
-    kr ""
+    kr "While I understand the position of my friend and dear fellow member of the council..."
 
 # MarionPath2_86dec03a (line 17007)
 translate ru MarionPath2_86dec03a:
     # kr "I cannot agree with her."
-    kr ""
+    kr "I cannot agree with her."
 
 # MarionPath2_96bd444c (line 17008)
 translate ru MarionPath2_96bd444c:
@@ -2541,52 +2541,52 @@ translate ru MarionPath2_96bd444c:
 # MarionPath2_e48ede65 (line 17009)
 translate ru MarionPath2_e48ede65:
     # kr "While it is true that banditry will undermine the commercial activities in the region, this is only one attack."
-    kr ""
+    kr "While it is true that banditry will undermine the commercial activities in the region, this is only one attack."
 
 # MarionPath2_ebc69e76 (line 17010)
 translate ru MarionPath2_ebc69e76:
     # kr "One attack is hardly a pattern, and most merchants understand that losing the occasional transport is a risk of their vocation."
-    kr ""
+    kr "One attack is hardly a pattern, and most merchants understand that losing the occasional transport is a risk of their vocation."
 
 # MarionPath2_c9e4d732 (line 17011)
 translate ru MarionPath2_c9e4d732:
     # kr "Oliver, however, is the eldest son and heir to the Greytower name."
-    kr ""
+    kr "Oliver, however, is the eldest son and heir to the Greytower name."
 
 # MarionPath2_3b7a9e73 (line 17012)
 translate ru MarionPath2_3b7a9e73:
     # kr "He will one day be among the Higher Lords of this country."
-    kr ""
+    kr "He will one day be among the Higher Lords of this country."
 
 # MarionPath2_313a0e4c (line 17013)
 translate ru MarionPath2_313a0e4c:
     # kr "His reputation may very well be true, but that does not mean you can simply kill him and be done with him."
-    kr ""
+    kr "His reputation may very well be true, but that does not mean you can simply kill him and be done with him."
 
 # MarionPath2_008e40b1 (line 17014)
 translate ru MarionPath2_008e40b1:
     # kr "His father has been a loyal ally to your House."
-    kr ""
+    kr "His father has been a loyal ally to your House."
 
 # MarionPath2_2a4cd058 (line 17015)
 translate ru MarionPath2_2a4cd058:
     # kr "The death of his son, especially by your hand, would not be something he takes lightly."
-    kr ""
+    kr "The death of his son, especially by your hand, would not be something he takes lightly."
 
 # MarionPath2_45d56199 (line 17016)
 translate ru MarionPath2_45d56199:
     # kr "Especially because other than his son, Lord Greytower only has daughters."
-    kr ""
+    kr "Especially because other than his son, Lord Greytower only has daughters."
 
 # MarionPath2_74cd93f4 (line 17017)
 translate ru MarionPath2_74cd93f4:
     # kr "The death of his son, or the ruin of his reputation, would essentially mean the end of his male line."
-    kr ""
+    kr "The death of his son, or the ruin of his reputation, would essentially mean the end of his male line."
 
 # MarionPath2_c0d82611 (line 17018)
 translate ru MarionPath2_c0d82611:
     # kr "Lord Greytower is a reasonable man, but I knew few men who would endure such an insult."
-    kr ""
+    kr "Lord Greytower is a reasonable man, but I knew few men who would endure such an insult."
 
 # MarionPath2_1b231b11 (line 17019)
 translate ru MarionPath2_1b231b11:
@@ -2596,7 +2596,7 @@ translate ru MarionPath2_1b231b11:
 # MarionPath2_08f81f6b (line 17020)
 translate ru MarionPath2_08f81f6b:
     # m "Whichever Thomas decides, they will have to learn to endure."
-    m ""
+    m "Whichever Thomas decides, they will have to learn to endure."
 
 # MarionPath2_2bce750c (line 17021)
 translate ru MarionPath2_2bce750c:
@@ -2606,12 +2606,12 @@ translate ru MarionPath2_2bce750c:
 # MarionPath2_09835af7 (line 17022)
 translate ru MarionPath2_09835af7:
     # kr "True. The word of our King will be final in this matter."
-    kr ""
+    kr "True. The word of our King will be final in this matter."
 
 # MarionPath2_be5fbb4b (line 17023)
 translate ru MarionPath2_be5fbb4b:
     # kr "But a King who rules, thinking he needs no allies, is a King that often does not rule for long."
-    kr ""
+    kr "But a King who rules, thinking he needs no allies, is a King that often does not rule for long."
 
 # MarionPath2_20be16c3 (line 17024)
 translate ru MarionPath2_20be16c3:
@@ -2621,32 +2621,32 @@ translate ru MarionPath2_20be16c3:
 # MarionPath2_b9a015e3 (line 17025)
 translate ru MarionPath2_b9a015e3:
     # m "The country needs stability."
-    m ""
+    m "The country needs stability."
 
 # MarionPath2_4108f4fa (line 17026)
 translate ru MarionPath2_4108f4fa:
     # m "We cannot have rogue lords playing bandit at the expense of the country."
-    m ""
+    m "We cannot have rogue lords playing bandit at the expense of the country."
 
 # MarionPath2_a3131145 (line 17027)
 translate ru MarionPath2_a3131145:
     # m "Oliver flaunted the laws, and he has made mockery of his elevated station."
-    m ""
+    m "Oliver flaunted the laws, and he has made mockery of his elevated station."
 
 # MarionPath2_6d0ea18e (line 17028)
 translate ru MarionPath2_6d0ea18e:
     # m "You must bring the hammer down on him."
-    m ""
+    m "You must bring the hammer down on him."
 
 # MarionPath2_09977dd7 (line 17029)
 translate ru MarionPath2_09977dd7:
     # m "Send a unit of the Royal Army down to the River Province and deliver a message, summoning Oliver Greytower to court."
-    m ""
+    m "Send a unit of the Royal Army down to the River Province and deliver a message, summoning Oliver Greytower to court."
 
 # MarionPath2_e72650d7 (line 17030)
 translate ru MarionPath2_e72650d7:
     # m "Here, he will receive a fair trial."
-    m ""
+    m "Here, he will receive a fair trial."
 
 # MarionPath2_3e619c29 (line 17031)
 translate ru MarionPath2_3e619c29:
@@ -2661,7 +2661,7 @@ translate ru MarionPath2_20ad617b:
 # MarionPath2_88cf1b99 (line 17033)
 translate ru MarionPath2_88cf1b99:
     # t "Sarah...what do you think of this?"
-    t ""
+    t "Sarah...what do you think of this?"
 
 # MarionPath2_4b1f465d (line 17034)
 translate ru MarionPath2_4b1f465d:
@@ -2673,16 +2673,6 @@ translate ru MarionPath2_3a0578ec:
     # "What would be the best course of action?"
     ""
 
-# MarionPath2_b3e34021 (line 17041)
-translate ru MarionPath2_b3e34021:
-    # "Summon Oliver to court"
-    "Summon Oliver to court" ""
-
-# MarionPath2_8582436c (line 17054)
-translate ru MarionPath2_8582436c:
-    # "Do not punish Oliver"
-    "Do not punish Oliver" ""
-
 # MarionPath2_d71e97e8 (line 17067)
 translate ru MarionPath2_d71e97e8:
     # "Thomas stood up."
@@ -2691,7 +2681,7 @@ translate ru MarionPath2_d71e97e8:
 # MarionPath2_ecb1384f (line 17068)
 translate ru MarionPath2_ecb1384f:
     # t "Very well then, the matter is settled."
-    t ""
+    t "Very well then, the matter is settled."
 
 # MarionPath2_f40d5aac (line 17075)
 translate ru MarionPath2_f40d5aac:
@@ -2701,7 +2691,7 @@ translate ru MarionPath2_f40d5aac:
 # MarionPath2_1b33b553 (line 17076)
 translate ru MarionPath2_1b33b553:
     # t "I believe that is the only pressing matter for today, yes?"
-    t ""
+    t "I believe that is the only pressing matter for today, yes?"
 
 # MarionPath2_deb0403a (line 17077)
 translate ru MarionPath2_deb0403a:
@@ -2711,7 +2701,7 @@ translate ru MarionPath2_deb0403a:
 # MarionPath2_a43a8544 (line 17078)
 translate ru MarionPath2_a43a8544:
     # kr "There are some matters regarding land disputes that-"
-    kr ""
+    kr "There are some matters regarding land disputes that-"
 
 # MarionPath2_54f32232 (line 17079)
 translate ru MarionPath2_54f32232:
@@ -2721,22 +2711,22 @@ translate ru MarionPath2_54f32232:
 # MarionPath2_b7ce278e (line 17080)
 translate ru MarionPath2_b7ce278e:
     # t "Another day."
-    t ""
+    t "Another day."
 
 # MarionPath2_313caefd (line 17081)
 translate ru MarionPath2_313caefd:
     # t "Please, give me one week to enjoy some time off."
-    t ""
+    t "Please, give me one week to enjoy some time off."
 
 # MarionPath2_af69a2c9 (line 17082)
 translate ru MarionPath2_af69a2c9:
     # t "Not to mention, my newly married sister, equally deserves some time to herself."
-    t ""
+    t "Not to mention, my newly married sister, equally deserves some time to herself."
 
 # MarionPath2_75eb3105 (line 17083)
 translate ru MarionPath2_75eb3105:
     # t "Land disputes can be dealt with next week."
-    t ""
+    t "Land disputes can be dealt with next week."
 
 # MarionPath2_a6255290 (line 17084)
 translate ru MarionPath2_a6255290:
@@ -2746,7 +2736,7 @@ translate ru MarionPath2_a6255290:
 # MarionPath2_b1bee908 (line 17085)
 translate ru MarionPath2_b1bee908:
     # t "I shall be in the library, should any pressing matters arise."
-    t ""
+    t "I shall be in the library, should any pressing matters arise."
 
 # MarionPath2_fa486afe (line 17086)
 translate ru MarionPath2_fa486afe:
@@ -2761,22 +2751,22 @@ translate ru MarionPath2_b401753d:
 # MarionPath2_3ce78843 (line 17096)
 translate ru MarionPath2_3ce78843:
     # c "I had been meaning to congratulate you on your new match."
-    c ""
+    c "I had been meaning to congratulate you on your new match."
 
 # MarionPath2_3a405d82 (line 17097)
 translate ru MarionPath2_3a405d82:
     # s "Thank you, Lady Carolyn."
-    s ""
+    s "Thank you, Lady Carolyn."
 
 # MarionPath2_2f2be586 (line 17098)
 translate ru MarionPath2_2f2be586:
     # c "The ceremony was a marvel."
-    c ""
+    c "The ceremony was a marvel."
 
 # MarionPath2_e91c0fdd (line 17099)
 translate ru MarionPath2_e91c0fdd:
     # c "Truly, you struck the image of the perfect Rosannian bride."
-    c ""
+    c "Truly, you struck the image of the perfect Rosannian bride."
 
 # MarionPath2_a996b8d0 (line 17100)
 translate ru MarionPath2_a996b8d0:
@@ -2786,12 +2776,12 @@ translate ru MarionPath2_a996b8d0:
 # MarionPath2_8b992ab1 (line 17101)
 translate ru MarionPath2_8b992ab1:
     # s "Thank you, though most of the credit goes to the servants that did all the work."
-    s ""
+    s "Thank you, though most of the credit goes to the servants that did all the work."
 
 # MarionPath2_ecc3e43f (line 17102)
 translate ru MarionPath2_ecc3e43f:
     # c "True, the painter must have his due, but with a canvas like yours..."
-    c ""
+    c "True, the painter must have his due, but with a canvas like yours..."
 
 # MarionPath2_4cd43db2 (line 17103)
 translate ru MarionPath2_4cd43db2:
@@ -2801,7 +2791,7 @@ translate ru MarionPath2_4cd43db2:
 # MarionPath2_70e1f154 (line 17104)
 translate ru MarionPath2_70e1f154:
     # c "Regardless, as I said, I wished to give you my compliments and I was hoping to give you a gift."
-    c ""
+    c "Regardless, as I said, I wished to give you my compliments and I was hoping to give you a gift."
 
 # MarionPath2_75b0c152 (line 17105)
 translate ru MarionPath2_75b0c152:
@@ -2811,22 +2801,22 @@ translate ru MarionPath2_75b0c152:
 # MarionPath2_d38313fc (line 17106)
 translate ru MarionPath2_d38313fc:
     # s "A gift?"
-    s ""
+    s "A gift?"
 
 # MarionPath2_daa08075 (line 17107)
 translate ru MarionPath2_daa08075:
     # c "Yes, I gave something at the wedding, but that was a small thing."
-    c ""
+    c "Yes, I gave something at the wedding, but that was a small thing."
 
 # MarionPath2_0ce81762 (line 17108)
 translate ru MarionPath2_0ce81762:
     # c "I was hoping perhaps you could come and join me for a weekend at the my estate."
-    c ""
+    c "I was hoping perhaps you could come and join me for a weekend at the my estate."
 
 # MarionPath2_100e00a5 (line 17109)
 translate ru MarionPath2_100e00a5:
     # s "Your estate?"
-    s ""
+    s "Your estate?"
 
 # MarionPath2_a5af54b5 (line 17110)
 translate ru MarionPath2_a5af54b5:
@@ -2836,27 +2826,17 @@ translate ru MarionPath2_a5af54b5:
 # MarionPath2_6aaec5fe (line 17111)
 translate ru MarionPath2_6aaec5fe:
     # c "Yes, it is only a few hours out from the Capital."
-    c ""
+    c "Yes, it is only a few hours out from the Capital."
 
 # MarionPath2_227d9573 (line 17113)
 translate ru MarionPath2_227d9573:
     # c "A lovely spot, surrounded by vineyards."
-    c ""
-
-# MarionPath2_6008bba9 (line 17117)
-translate ru MarionPath2_6008bba9:
-    # "Accept her invitation"
-    "Accept her invitation" ""
-
-# MarionPath2_c79e4770 (line 17125)
-translate ru MarionPath2_c79e4770:
-    # "Reject her invitation"
-    "Reject her invitation" ""
+    c "A lovely spot, surrounded by vineyards."
 
 # MarionPath2_a0105dcf (line 17133)
 translate ru MarionPath2_a0105dcf:
     # m "Sarah, can I speak with you in your room?"
-    m ""
+    m "Sarah, can I speak with you in your room?"
 
 # MarionPath2_82557324 (line 17134)
 translate ru MarionPath2_82557324:
@@ -2866,7 +2846,7 @@ translate ru MarionPath2_82557324:
 # MarionPath2_f574cc07 (line 17135)
 translate ru MarionPath2_f574cc07:
     # c "Young husbands, be careful, they will take up all your time."
-    c ""
+    c "Young husbands, be careful, they will take up all your time."
 
 # MarionPath2_31bd6b44 (line 17136)
 translate ru MarionPath2_31bd6b44:
@@ -2876,7 +2856,7 @@ translate ru MarionPath2_31bd6b44:
 # MarionPath2_40175af5 (line 17137)
 translate ru MarionPath2_40175af5:
     # s "Yes, Marion, I'm coming."
-    s ""
+    s "Yes, Marion, I'm coming."
 
 # MarionPath2_a3a0cfff (line 17138)
 translate ru MarionPath2_a3a0cfff:
@@ -2887,16 +2867,6 @@ translate ru MarionPath2_a3a0cfff:
 translate ru MarionPath2_ec1b67d7:
     # "Back in her room, Sarah saw Marion standing opposite of her."
     ""
-
-# MarionPath2_de9a7b3f (line 17219)
-translate ru MarionPath2_de9a7b3f:
-    # "Stand up to him"
-    "Stand up to him" ""
-
-# MarionPath2_12e54a27 (line 17246)
-translate ru MarionPath2_12e54a27:
-    # "Lower your gaze"
-    "Lower your gaze" ""
 
 # MarionPath2_980b6b2e (line 17272)
 translate ru MarionPath2_980b6b2e:
@@ -2942,14 +2912,4 @@ translate ru MarionPath2_553487b2:
 translate ru MarionPath2_074d8fb9:
     # "And as her husband, he had a right to her bed. Her body."
     ""
-
-# MarionPath2_b846301c (line 17499)
-translate ru MarionPath2_b846301c:
-    # "Submit to Marion"
-    "Submit to Marion" ""
-
-# MarionPath2_c4922d16 (line 17573)
-translate ru MarionPath2_c4922d16:
-    # "Resist Marion"
-    "Resist Marion" ""
 

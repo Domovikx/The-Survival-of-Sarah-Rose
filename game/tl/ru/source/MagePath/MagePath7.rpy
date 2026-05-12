@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: MagePath7
-# Total blocks: 162
+# Total blocks: 160
 
 # MagePath7_a3bba1df (line 71144)
 translate ru MagePath7_a3bba1df:
@@ -21,7 +21,7 @@ translate ru MagePath7_51da1f7c:
 # MagePath7_62dd75aa (line 71147)
 translate ru MagePath7_62dd75aa:
     # s "Hey."
-    s ""
+    s "Hey."
 
 # MagePath7_74797b6f (line 71148)
 translate ru MagePath7_74797b6f:
@@ -31,12 +31,12 @@ translate ru MagePath7_74797b6f:
 # MagePath7_0aa10e4b (line 71149)
 translate ru MagePath7_0aa10e4b:
     # sa "Ooh, uhm, hello?"
-    sa ""
+    sa "Ooh, uhm, hello?"
 
 # MagePath7_71eda620 (line 71150)
 translate ru MagePath7_71eda620:
     # s "My name's Sarah."
-    s ""
+    s "My name's Sarah."
 
 # MagePath7_43d6951d (line 71151)
 translate ru MagePath7_43d6951d:
@@ -46,7 +46,7 @@ translate ru MagePath7_43d6951d:
 # MagePath7_4ae3cec3 (line 71157)
 translate ru MagePath7_4ae3cec3:
     # s "You're Samayra, right?"
-    s ""
+    s "You're Samayra, right?"
 
 # MagePath7_88fe3f2b (line 71158)
 translate ru MagePath7_88fe3f2b:
@@ -56,22 +56,22 @@ translate ru MagePath7_88fe3f2b:
 # MagePath7_415a30c9 (line 71159)
 translate ru MagePath7_415a30c9:
     # sa "How did you know?"
-    sa ""
+    sa "How did you know?"
 
 # MagePath7_58607df2 (line 71160)
 translate ru MagePath7_58607df2:
     # s "I was just here, with the mage, I heard your father mention your name."
-    s ""
+    s "I was just here, with the mage, I heard your father mention your name."
 
 # MagePath7_b29720bf (line 71161)
 translate ru MagePath7_b29720bf:
     # sa "Ooh, I'm sorry, I didn't pay much attention."
-    sa ""
+    sa "Ooh, I'm sorry, I didn't pay much attention."
 
 # MagePath7_fbedbbb5 (line 71162)
 translate ru MagePath7_fbedbbb5:
     # sa "If you're looking for my father, he's gone off to his war room."
-    sa ""
+    sa "If you're looking for my father, he's gone off to his war room."
 
 # MagePath7_3eac9026 (line 71163)
 translate ru MagePath7_3eac9026:
@@ -81,7 +81,7 @@ translate ru MagePath7_3eac9026:
 # MagePath7_0e134a74 (line 71164)
 translate ru MagePath7_0e134a74:
     # s "That's fine, I was really hoping to talk to you."
-    s ""
+    s "That's fine, I was really hoping to talk to you."
 
 # MagePath7_6f03b814 (line 71165)
 translate ru MagePath7_6f03b814:
@@ -91,12 +91,12 @@ translate ru MagePath7_6f03b814:
 # MagePath7_b304812d (line 71166)
 translate ru MagePath7_b304812d:
     # sa "Me? Why would you want to talk to me?"
-    sa ""
+    sa "Me? Why would you want to talk to me?"
 
 # MagePath7_713fcf95 (line 71167)
 translate ru MagePath7_713fcf95:
     # s "Yeah. I've never been to Bagrad palace before, and I was just feeling, I don't know, lonely?"
-    s ""
+    s "Yeah. I've never been to Bagrad palace before, and I was just feeling, I don't know, lonely?"
 
 # MagePath7_e124cfc6 (line 71168)
 translate ru MagePath7_e124cfc6:
@@ -106,22 +106,22 @@ translate ru MagePath7_e124cfc6:
 # MagePath7_b912ae48 (line 71169)
 translate ru MagePath7_b912ae48:
     # sa "Yes, it can be a lonely place."
-    sa ""
+    sa "Yes, it can be a lonely place."
 
 # MagePath7_0ef2cff3 (line 71170)
 translate ru MagePath7_0ef2cff3:
     # s "The rooms haven't been prepared yet, and I keep getting lost in these hallways. I was hoping maybe you could show me around?"
-    s ""
+    s "The rooms haven't been prepared yet, and I keep getting lost in these hallways. I was hoping maybe you could show me around?"
 
 # MagePath7_6ccb0aa6 (line 71171)
 translate ru MagePath7_6ccb0aa6:
     # sa "Uhm...I could ask one of the servants, maybe..."
-    sa ""
+    sa "Uhm...I could ask one of the servants, maybe..."
 
 # MagePath7_299e4599 (line 71172)
 translate ru MagePath7_299e4599:
     # s "But I'd like it to be you."
-    s ""
+    s "But I'd like it to be you."
 
 # MagePath7_a2a48534 (line 71173)
 translate ru MagePath7_a2a48534:
@@ -131,7 +131,7 @@ translate ru MagePath7_a2a48534:
 # MagePath7_442a7446 (line 71174)
 translate ru MagePath7_442a7446:
     # sa "Ooh...sure, yes, I could do that, I know every spot in the palace. Where do you want to go?"
-    sa ""
+    sa "Ooh...sure, yes, I could do that, I know every spot in the palace. Where do you want to go?"
 
 # MagePath7_b43790f5 (line 71175)
 translate ru MagePath7_b43790f5:
@@ -146,7 +146,7 @@ translate ru MagePath7_bda011d9:
 # MagePath7_e7666c78 (line 71177)
 translate ru MagePath7_e7666c78:
     # s "The gardens, perhaps? I heard they're beautiful."
-    s ""
+    s "The gardens, perhaps? I heard they're beautiful."
 
 # MagePath7_55f88c11 (line 71178)
 translate ru MagePath7_55f88c11:
@@ -156,7 +156,7 @@ translate ru MagePath7_55f88c11:
 # MagePath7_a7aa4c03 (line 71179)
 translate ru MagePath7_a7aa4c03:
     # sa "They are! Here, follow me and I'll take you there."
-    sa ""
+    sa "They are! Here, follow me and I'll take you there."
 
 # MagePath7_c5c35f95 (line 71180)
 translate ru MagePath7_c5c35f95:
@@ -166,17 +166,17 @@ translate ru MagePath7_c5c35f95:
 # MagePath7_aa1655b6 (line 71186)
 translate ru MagePath7_aa1655b6:
     # sa "The gardens of Bagrad palace are really famous. We use special airducts and waterways to create specific environments for the plants to thrive in."
-    sa ""
+    sa "The gardens of Bagrad palace are really famous. We use special airducts and waterways to create specific environments for the plants to thrive in."
 
 # MagePath7_fb37bd1c (line 71187)
 translate ru MagePath7_fb37bd1c:
     # sa "The goal is to mimic the plant's natural environment."
-    sa ""
+    sa "The goal is to mimic the plant's natural environment."
 
 # MagePath7_cf0b4956 (line 71188)
 translate ru MagePath7_cf0b4956:
     # sa "You'll see plants here that don't grow anywhere else in the world."
-    sa ""
+    sa "You'll see plants here that don't grow anywhere else in the world."
 
 # MagePath7_1f5f5b80 (line 71189)
 translate ru MagePath7_1f5f5b80:
@@ -196,12 +196,12 @@ translate ru MagePath7_bf5deca1:
 # MagePath7_2cdc9ada (line 71192)
 translate ru MagePath7_2cdc9ada:
     # sa "We don't get many visitors, so it's always nice when I get a chance to show them off."
-    sa ""
+    sa "We don't get many visitors, so it's always nice when I get a chance to show them off."
 
 # MagePath7_db7021b0 (line 71193)
 translate ru MagePath7_db7021b0:
     # sa "Otherwise it's mostly just me and father who get to appreciate them."
-    sa ""
+    sa "Otherwise it's mostly just me and father who get to appreciate them."
 
 # MagePath7_1f2dbd1a (line 71194)
 translate ru MagePath7_1f2dbd1a:
@@ -211,12 +211,12 @@ translate ru MagePath7_1f2dbd1a:
 # MagePath7_cdc5d149 (line 71195)
 translate ru MagePath7_cdc5d149:
     # s "Doesn't anyone visit?"
-    s ""
+    s "Doesn't anyone visit?"
 
 # MagePath7_e26c192b (line 71196)
 translate ru MagePath7_e26c192b:
     # sa "Ooh, they do, sometimes, but it's not like it used to be. Father told me that when he was young there used to be visitors every day, but they've stopped coming. Now we maybe get visitors every month."
-    sa ""
+    sa "Ooh, they do, sometimes, but it's not like it used to be. Father told me that when he was young there used to be visitors every day, but they've stopped coming. Now we maybe get visitors every month."
 
 # MagePath7_4af1c980 (line 71197)
 translate ru MagePath7_4af1c980:
@@ -241,17 +241,17 @@ translate ru MagePath7_ee67d9fa:
 # MagePath7_77fd1e86 (line 71201)
 translate ru MagePath7_77fd1e86:
     # s "You said earlier that the palace can be a lonely place. Are you?"
-    s ""
+    s "You said earlier that the palace can be a lonely place. Are you?"
 
 # MagePath7_0003ebf0 (line 71202)
 translate ru MagePath7_0003ebf0:
     # sa "Am I what?"
-    sa ""
+    sa "Am I what?"
 
 # MagePath7_2e3e6485 (line 71203)
 translate ru MagePath7_2e3e6485:
     # s "Lonely."
-    s ""
+    s "Lonely."
 
 # MagePath7_19f73ad9 (line 71204)
 translate ru MagePath7_19f73ad9:
@@ -261,7 +261,7 @@ translate ru MagePath7_19f73ad9:
 # MagePath7_a642c53a (line 71205)
 translate ru MagePath7_a642c53a:
     # sa "Maybe, sometimes. But I'm the princess of Bagrad. Our family stands apart from everyone else. We're meant to be alone."
-    sa ""
+    sa "Maybe, sometimes. But I'm the princess of Bagrad. Our family stands apart from everyone else. We're meant to be alone."
 
 # MagePath7_17262001 (line 71206)
 translate ru MagePath7_17262001:
@@ -271,7 +271,7 @@ translate ru MagePath7_17262001:
 # MagePath7_6b00058e (line 71207)
 translate ru MagePath7_6b00058e:
     # s "Did your father tell you that?"
-    s ""
+    s "Did your father tell you that?"
 
 # MagePath7_50c8f132 (line 71208)
 translate ru MagePath7_50c8f132:
@@ -281,27 +281,27 @@ translate ru MagePath7_50c8f132:
 # MagePath7_1290d97c (line 71209)
 translate ru MagePath7_1290d97c:
     # sa "How did you know?"
-    sa ""
+    sa "How did you know?"
 
 # MagePath7_52ba73db (line 71210)
 translate ru MagePath7_52ba73db:
     # s "It didn't really sound like you believed it yourself."
-    s ""
+    s "It didn't really sound like you believed it yourself."
 
 # MagePath7_bb405b22 (line 71211)
 translate ru MagePath7_bb405b22:
     # sa "Maybe, I don't know..."
-    sa ""
+    sa "Maybe, I don't know..."
 
 # MagePath7_9febf89e (line 71212)
 translate ru MagePath7_9febf89e:
     # sa "Father tells me a lot of things, and I try to listen. He knows a lot about a lot."
-    sa ""
+    sa "Father tells me a lot of things, and I try to listen. He knows a lot about a lot."
 
 # MagePath7_3c1c81f6 (line 71213)
 translate ru MagePath7_3c1c81f6:
     # s "I'm sure you're educated, right?"
-    s ""
+    s "I'm sure you're educated, right?"
 
 # MagePath7_1dd45c77 (line 71214)
 translate ru MagePath7_1dd45c77:
@@ -311,7 +311,7 @@ translate ru MagePath7_1dd45c77:
 # MagePath7_aa7efbcc (line 71215)
 translate ru MagePath7_aa7efbcc:
     # sa "I am, of course, but it's different. My father has seen so much of the world, and I've never even left the palace."
-    sa ""
+    sa "I am, of course, but it's different. My father has seen so much of the world, and I've never even left the palace."
 
 # MagePath7_338a35f0 (line 71216)
 translate ru MagePath7_338a35f0:
@@ -331,7 +331,7 @@ translate ru MagePath7_ba781053:
 # MagePath7_b727c260 (line 71219)
 translate ru MagePath7_b727c260:
     # s "You've never left?"
-    s ""
+    s "You've never left?"
 
 # MagePath7_82bb6419 (line 71220)
 translate ru MagePath7_82bb6419:
@@ -341,7 +341,7 @@ translate ru MagePath7_82bb6419:
 # MagePath7_3409a825 (line 71221)
 translate ru MagePath7_3409a825:
     # sa "Never. Everything I need is in here, and everything that isn't can be brought to me. Why should I ever leave?"
-    sa ""
+    sa "Never. Everything I need is in here, and everything that isn't can be brought to me. Why should I ever leave?"
 
 # MagePath7_44bc5228 (line 71222)
 translate ru MagePath7_44bc5228:
@@ -351,22 +351,22 @@ translate ru MagePath7_44bc5228:
 # MagePath7_bf8eb68c (line 71223)
 translate ru MagePath7_bf8eb68c:
     # s "Don't you want to see the world?"
-    s ""
+    s "Don't you want to see the world?"
 
 # MagePath7_a2c02763 (line 71224)
 translate ru MagePath7_a2c02763:
     # sa "Maybe. I've tried talking to father about it, but he won't listen. He says it's much too dangerous."
-    sa ""
+    sa "Maybe. I've tried talking to father about it, but he won't listen. He says it's much too dangerous."
 
 # MagePath7_93da62be (line 71225)
 translate ru MagePath7_93da62be:
     # sa "But who knows, look where we are now..."
-    sa ""
+    sa "But who knows, look where we are now..."
 
 # MagePath7_e8925afa (line 71226)
 translate ru MagePath7_e8925afa:
     # sa "An army of outsiders is camped outside of our gates."
-    sa ""
+    sa "An army of outsiders is camped outside of our gates."
 
 # MagePath7_ef908bc5 (line 71227)
 translate ru MagePath7_ef908bc5:
@@ -376,7 +376,7 @@ translate ru MagePath7_ef908bc5:
 # MagePath7_7c6f9c49 (line 71228)
 translate ru MagePath7_7c6f9c49:
     # sa "I've spend all my life hiding here to stay safe from the outside world, and now the outside world has come to my doorstep."
-    sa ""
+    sa "I've spend all my life hiding here to stay safe from the outside world, and now the outside world has come to my doorstep."
 
 # MagePath7_5336082b (line 71229)
 translate ru MagePath7_5336082b:
@@ -386,17 +386,17 @@ translate ru MagePath7_5336082b:
 # MagePath7_c4b4a796 (line 71230)
 translate ru MagePath7_c4b4a796:
     # s "Samayra..."
-    s ""
+    s "Samayra..."
 
 # MagePath7_29cec5c4 (line 71231)
 translate ru MagePath7_29cec5c4:
     # sa "Please, you're a mage, you have incredible power..."
-    sa ""
+    sa "Please, you're a mage, you have incredible power..."
 
 # MagePath7_ba63d08c (line 71232)
 translate ru MagePath7_ba63d08c:
     # sa "Will you keep me and my father safe if the army...if they get inside the city?"
-    sa ""
+    sa "Will you keep me and my father safe if the army...if they get inside the city?"
 
 # MagePath7_1494f36f (line 71233)
 translate ru MagePath7_1494f36f:
@@ -411,7 +411,7 @@ translate ru MagePath7_dd951dc6:
 # MagePath7_8ca6df9b (line 71235)
 translate ru MagePath7_8ca6df9b:
     # s "I promise you, I'll do everything in my power to protect your family."
-    s ""
+    s "I promise you, I'll do everything in my power to protect your family."
 
 # MagePath7_e2e39822 (line 71236)
 translate ru MagePath7_e2e39822:
@@ -421,7 +421,7 @@ translate ru MagePath7_e2e39822:
 # MagePath7_d9d35e79 (line 71237)
 translate ru MagePath7_d9d35e79:
     # sa "Thank you."
-    sa ""
+    sa "Thank you."
 
 # MagePath7_da82850a (line 71238)
 translate ru MagePath7_da82850a:
@@ -466,12 +466,12 @@ translate ru MagePath7_1f558b98:
 # MagePath7_b1d84a78 (line 71251)
 translate ru MagePath7_b1d84a78:
     # sa "This is my favorite place in the entire palace."
-    sa ""
+    sa "This is my favorite place in the entire palace."
 
 # MagePath7_a5fccae1 (line 71252)
 translate ru MagePath7_a5fccae1:
     # sa "When I'm here, I can almost kind of imagine what the world outside must look like."
-    sa ""
+    sa "When I'm here, I can almost kind of imagine what the world outside must look like."
 
 # MagePath7_f5731ef6 (line 71253)
 translate ru MagePath7_f5731ef6:
@@ -481,12 +481,12 @@ translate ru MagePath7_f5731ef6:
 # MagePath7_de5374ac (line 71254)
 translate ru MagePath7_de5374ac:
     # s "I get that, but I've been all over the world, and I've never seen a place like this before."
-    s ""
+    s "I get that, but I've been all over the world, and I've never seen a place like this before."
 
 # MagePath7_809b95c6 (line 71255)
 translate ru MagePath7_809b95c6:
     # s "It's incredible."
-    s ""
+    s "It's incredible."
 
 # MagePath7_7e5776b9 (line 71256)
 translate ru MagePath7_7e5776b9:
@@ -496,7 +496,7 @@ translate ru MagePath7_7e5776b9:
 # MagePath7_d1a21794 (line 71257)
 translate ru MagePath7_d1a21794:
     # sa "Here, follow me!"
-    sa ""
+    sa "Here, follow me!"
 
 # MagePath7_4a0da435 (line 71258)
 translate ru MagePath7_4a0da435:
@@ -521,7 +521,7 @@ translate ru MagePath7_e34ea9d5:
 # MagePath7_0685c787 (line 71267)
 translate ru MagePath7_0685c787:
     # sa "This is where I go when I want to be alone. It's so hidden, I don't think even my father knows about it."
-    sa ""
+    sa "This is where I go when I want to be alone. It's so hidden, I don't think even my father knows about it."
 
 # MagePath7_184ac802 (line 71268)
 translate ru MagePath7_184ac802:
@@ -536,7 +536,7 @@ translate ru MagePath7_139b8573:
 # MagePath7_77cee39c (line 71270)
 translate ru MagePath7_77cee39c:
     # sa "You're so pretty."
-    sa ""
+    sa "You're so pretty."
 
 # MagePath7_df3dbd4f (line 71271)
 translate ru MagePath7_df3dbd4f:
@@ -546,7 +546,7 @@ translate ru MagePath7_df3dbd4f:
 # MagePath7_fd8b2bab (line 71272)
 translate ru MagePath7_fd8b2bab:
     # s "What are you talking about."
-    s ""
+    s "What are you talking about."
 
 # MagePath7_8fbad134 (line 71273)
 translate ru MagePath7_8fbad134:
@@ -556,17 +556,17 @@ translate ru MagePath7_8fbad134:
 # MagePath7_5154fe6f (line 71274)
 translate ru MagePath7_5154fe6f:
     # sa "Ooh, sorry..."
-    sa ""
+    sa "Ooh, sorry..."
 
 # MagePath7_2bf8b5a8 (line 71275)
 translate ru MagePath7_2bf8b5a8:
     # sa "I mean, we don't get a lot of people here who look like you. Your blonde hair, I just, I meant..."
-    sa ""
+    sa "I mean, we don't get a lot of people here who look like you. Your blonde hair, I just, I meant..."
 
 # MagePath7_2569e927 (line 71276)
 translate ru MagePath7_2569e927:
     # sa "I'm sorry, I'm rambling, I don't know why I said that."
-    sa ""
+    sa "I'm sorry, I'm rambling, I don't know why I said that."
 
 # MagePath7_1391c9d7 (line 71277)
 translate ru MagePath7_1391c9d7:
@@ -576,7 +576,7 @@ translate ru MagePath7_1391c9d7:
 # MagePath7_9369fef9 (line 71278)
 translate ru MagePath7_9369fef9:
     # s "It's ok. You're very pretty too."
-    s ""
+    s "It's ok. You're very pretty too."
 
 # MagePath7_552abdf1 (line 71279)
 translate ru MagePath7_552abdf1:
@@ -586,12 +586,12 @@ translate ru MagePath7_552abdf1:
 # MagePath7_007a215d (line 71280)
 translate ru MagePath7_007a215d:
     # sa "Where are you from, anyway?"
-    sa ""
+    sa "Where are you from, anyway?"
 
 # MagePath7_eda7721e (line 71281)
 translate ru MagePath7_eda7721e:
     # s "I live in Lethram now, but I was born in Rosanna."
-    s ""
+    s "I live in Lethram now, but I was born in Rosanna."
 
 # MagePath7_65f94fe0 (line 71282)
 translate ru MagePath7_65f94fe0:
@@ -616,7 +616,7 @@ translate ru MagePath7_9134cc16:
 # MagePath7_664ec294 (line 71286)
 translate ru MagePath7_664ec294:
     # sa "I'm so sorry for you, I heard about what happened there. It's horrible."
-    sa ""
+    sa "I'm so sorry for you, I heard about what happened there. It's horrible."
 
 # MagePath7_a0ce6dae (line 71287)
 translate ru MagePath7_a0ce6dae:
@@ -626,7 +626,7 @@ translate ru MagePath7_a0ce6dae:
 # MagePath7_ab33a4fb (line 71288)
 translate ru MagePath7_ab33a4fb:
     # s "Don't worry. It's been many years, I've managed to move on."
-    s ""
+    s "Don't worry. It's been many years, I've managed to move on."
 
 # MagePath7_67370748 (line 71289)
 translate ru MagePath7_67370748:
@@ -676,22 +676,22 @@ translate ru MagePath7_57f39f37:
 # MagePath7_7bb26df0 (line 71298)
 translate ru MagePath7_7bb26df0:
     # s "I'm sorry about that, I don't know what happened."
-    s ""
+    s "I'm sorry about that, I don't know what happened."
 
 # MagePath7_911db498 (line 71299)
 translate ru MagePath7_911db498:
     # sa "It's ok."
-    sa ""
+    sa "It's ok."
 
 # MagePath7_a93ab1a5 (line 71300)
 translate ru MagePath7_a93ab1a5:
     # sa "I cry too, sometimes."
-    sa ""
+    sa "I cry too, sometimes."
 
 # MagePath7_3d6584d1 (line 71301)
 translate ru MagePath7_3d6584d1:
     # s "Yeah?"
-    s ""
+    s "Yeah?"
 
 # MagePath7_b6d3ac5e (line 71302)
 translate ru MagePath7_b6d3ac5e:
@@ -701,17 +701,17 @@ translate ru MagePath7_b6d3ac5e:
 # MagePath7_3c12566c (line 71303)
 translate ru MagePath7_3c12566c:
     # sa "Sometimes father would go on far away visits, and I would be here all alone, and it just felt so lonely."
-    sa ""
+    sa "Sometimes father would go on far away visits, and I would be here all alone, and it just felt so lonely."
 
 # MagePath7_ca0c6a80 (line 71304)
 translate ru MagePath7_ca0c6a80:
     # sa "I would just come here and cry till I felt better."
-    sa ""
+    sa "I would just come here and cry till I felt better."
 
 # MagePath7_859170df (line 71305)
 translate ru MagePath7_859170df:
     # sa "I think it helps, in a way, you know? Letting all the emotions out so they don't stay inside of you."
-    sa ""
+    sa "I think it helps, in a way, you know? Letting all the emotions out so they don't stay inside of you."
 
 # MagePath7_b5c90682 (line 71306)
 translate ru MagePath7_b5c90682:
@@ -721,7 +721,7 @@ translate ru MagePath7_b5c90682:
 # MagePath7_56214191 (line 71307)
 translate ru MagePath7_56214191:
     # s "Yeah, maybe that's true. It's been a long time since I cried like that though."
-    s ""
+    s "Yeah, maybe that's true. It's been a long time since I cried like that though."
 
 # MagePath7_0a1863c7 (line 71308)
 translate ru MagePath7_0a1863c7:
@@ -731,7 +731,7 @@ translate ru MagePath7_0a1863c7:
 # MagePath7_bdce6ecc (line 71309)
 translate ru MagePath7_bdce6ecc:
     # sa "Well, if you get too sad, it's easy. You just have to throw all the emotions out."
-    sa ""
+    sa "Well, if you get too sad, it's easy. You just have to throw all the emotions out."
 
 # MagePath7_9d29c932 (line 71310)
 translate ru MagePath7_9d29c932:
@@ -741,12 +741,12 @@ translate ru MagePath7_9d29c932:
 # MagePath7_c6bc3dea (line 71311)
 translate ru MagePath7_c6bc3dea:
     # s "Throw them out?"
-    s ""
+    s "Throw them out?"
 
 # MagePath7_1b169271 (line 71312)
 translate ru MagePath7_1b169271:
     # sa "Yeah, like this!"
-    sa ""
+    sa "Yeah, like this!"
 
 # MagePath7_4bdc5741 (line 71318)
 translate ru MagePath7_4bdc5741:
@@ -802,14 +802,4 @@ translate ru MagePath7_ab246013:
 translate ru MagePath7_e0e1f2c0:
     # "Sarah suddenly recognized herself in Samayra in a way she had not yet before."
     ""
-
-# MagePath7_e3b9a177 (line 71332)
-translate ru MagePath7_e3b9a177:
-    # "Join and dance."
-    "Join and dance." ""
-
-# MagePath7_84fb6979 (line 71399)
-translate ru MagePath7_84fb6979:
-    # "Sit still and observe"
-    "Sit still and observe" ""
 

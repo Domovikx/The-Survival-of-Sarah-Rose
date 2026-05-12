@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: DemonArc3
-# Total blocks: 354
+# Total blocks: 352
 
 # DemonArc3_85d84418 (line 92051)
 translate ru DemonArc3_85d84418:
@@ -86,7 +86,7 @@ translate ru DemonArc3_18e1d734:
 # DemonArc3_d3d383a3 (line 92070)
 translate ru DemonArc3_d3d383a3:
     # dalia "Hey..."
-    dalia ""
+    dalia "Hey..."
 
 # DemonArc3_099371c4 (line 92071)
 translate ru DemonArc3_099371c4:
@@ -106,12 +106,12 @@ translate ru DemonArc3_746ee7ed:
 # DemonArc3_9bc3b6ac (line 92074)
 translate ru DemonArc3_9bc3b6ac:
     # s "Oh...hey..."
-    s ""
+    s "Oh...hey..."
 
 # DemonArc3_3d8d51af (line 92075)
 translate ru DemonArc3_3d8d51af:
     # dalia "Did you get some sleep? I didn't hear you come in."
-    dalia ""
+    dalia "Did you get some sleep? I didn't hear you come in."
 
 # DemonArc3_694c5efe (line 92076)
 translate ru DemonArc3_694c5efe:
@@ -121,7 +121,7 @@ translate ru DemonArc3_694c5efe:
 # DemonArc3_cf827e84 (line 92077)
 translate ru DemonArc3_cf827e84:
     # s "Yeah, as good as I could get, all things considered."
-    s ""
+    s "Yeah, as good as I could get, all things considered."
 
 # DemonArc3_0a8fff4b (line 92078)
 translate ru DemonArc3_0a8fff4b:
@@ -131,12 +131,12 @@ translate ru DemonArc3_0a8fff4b:
 # DemonArc3_e650927a (line 92079)
 translate ru DemonArc3_e650927a:
     # dalia "Yeah, sorry about the hay...that was all I could find for now."
-    dalia ""
+    dalia "Yeah, sorry about the hay...that was all I could find for now."
 
 # DemonArc3_17546f24 (line 92080)
 translate ru DemonArc3_17546f24:
     # dalia "I'm sure we'll find you a real bed soon."
-    dalia ""
+    dalia "I'm sure we'll find you a real bed soon."
 
 # DemonArc3_02543961 (line 92081)
 translate ru DemonArc3_02543961:
@@ -151,7 +151,7 @@ translate ru DemonArc3_f1ed0842:
 # DemonArc3_6597a27d (line 92083)
 translate ru DemonArc3_6597a27d:
     # dalia "Come on, let's get going."
-    dalia ""
+    dalia "Come on, let's get going."
 
 # DemonArc3_7090a6a0 (line 92084)
 translate ru DemonArc3_7090a6a0:
@@ -161,22 +161,22 @@ translate ru DemonArc3_7090a6a0:
 # DemonArc3_4282512e (line 92085)
 translate ru DemonArc3_4282512e:
     # s "Where are we going?"
-    s ""
+    s "Where are we going?"
 
 # DemonArc3_93bc8dff (line 92086)
 translate ru DemonArc3_93bc8dff:
     # dalia "It's early. The Master sleeps in later."
-    dalia ""
+    dalia "It's early. The Master sleeps in later."
 
 # DemonArc3_529ba2d2 (line 92087)
 translate ru DemonArc3_529ba2d2:
     # dalia "I usually take the time to get started on the chores."
-    dalia ""
+    dalia "I usually take the time to get started on the chores."
 
 # DemonArc3_71f5670e (line 92088)
 translate ru DemonArc3_71f5670e:
     # s "Chores?"
-    s ""
+    s "Chores?"
 
 # DemonArc3_e735876e (line 92089)
 translate ru DemonArc3_e735876e:
@@ -186,12 +186,12 @@ translate ru DemonArc3_e735876e:
 # DemonArc3_a5642b25 (line 92090)
 translate ru DemonArc3_a5642b25:
     # dalia "Come, let's go."
-    dalia ""
+    dalia "Come, let's go."
 
 # DemonArc3_576d7202 (line 92091)
 translate ru DemonArc3_576d7202:
     # dalia "I'll show you."
-    dalia ""
+    dalia "I'll show you."
 
 # DemonArc3_636f8b9f (line 92092)
 translate ru DemonArc3_636f8b9f:
@@ -216,7 +216,7 @@ translate ru DemonArc3_d2c91606:
 # DemonArc3_47c6038d (line 92098)
 translate ru DemonArc3_47c6038d:
     # s "Is the whole castle in this state?"
-    s ""
+    s "Is the whole castle in this state?"
 
 # DemonArc3_bed51136 (line 92099)
 translate ru DemonArc3_bed51136:
@@ -226,7 +226,7 @@ translate ru DemonArc3_bed51136:
 # DemonArc3_b6522c45 (line 92100)
 translate ru DemonArc3_b6522c45:
     # dalia "Mostly, yeah. There are a few parts that have been kept in better condition, but most of it is like this."
-    dalia ""
+    dalia "Mostly, yeah. There are a few parts that have been kept in better condition, but most of it is like this."
 
 # DemonArc3_52fddc67 (line 92101)
 translate ru DemonArc3_52fddc67:
@@ -251,7 +251,7 @@ translate ru DemonArc3_342d99b0:
 # DemonArc3_c8e01d2b (line 92105)
 translate ru DemonArc3_c8e01d2b:
     # s "How old is it?"
-    s ""
+    s "How old is it?"
 
 # DemonArc3_e9f14737 (line 92106)
 translate ru DemonArc3_e9f14737:
@@ -261,7 +261,7 @@ translate ru DemonArc3_e9f14737:
 # DemonArc3_d5d1b2f2 (line 92107)
 translate ru DemonArc3_d5d1b2f2:
     # dalia "Several centuries at least, the Master told me that much."
-    dalia ""
+    dalia "Several centuries at least, the Master told me that much."
 
 # DemonArc3_68bd8ba5 (line 92108)
 translate ru DemonArc3_68bd8ba5:
@@ -276,7 +276,7 @@ translate ru DemonArc3_0bfe8d63:
 # DemonArc3_6edcd3e2 (line 92110)
 translate ru DemonArc3_6edcd3e2:
     # dalia "Here, you can get started on this end, I'll work from there."
-    dalia ""
+    dalia "Here, you can get started on this end, I'll work from there."
 
 # DemonArc3_1dd73c8f (line 92111)
 translate ru DemonArc3_1dd73c8f:
@@ -306,7 +306,7 @@ translate ru DemonArc3_4e8fab6f:
 # DemonArc3_ea14b383 (line 92116)
 translate ru DemonArc3_ea14b383:
     # s "You said the Master told you that the castle was centuries old?"
-    s ""
+    s "You said the Master told you that the castle was centuries old?"
 
 # DemonArc3_ea3fde1b (line 92117)
 translate ru DemonArc3_ea3fde1b:
@@ -316,12 +316,12 @@ translate ru DemonArc3_ea3fde1b:
 # DemonArc3_a57515dc (line 92118)
 translate ru DemonArc3_a57515dc:
     # dalia "Yeah, the Master himself lived here all that time. He's older still."
-    dalia ""
+    dalia "Yeah, the Master himself lived here all that time. He's older still."
 
 # DemonArc3_534cec3b (line 92119)
 translate ru DemonArc3_534cec3b:
     # s "How old?"
-    s ""
+    s "How old?"
 
 # DemonArc3_bbacd23f (line 92120)
 translate ru DemonArc3_bbacd23f:
@@ -331,12 +331,12 @@ translate ru DemonArc3_bbacd23f:
 # DemonArc3_aac0f3a7 (line 92121)
 translate ru DemonArc3_aac0f3a7:
     # dalia "A millenium, maybe more."
-    dalia ""
+    dalia "A millenium, maybe more."
 
 # DemonArc3_8f8d5236 (line 92122)
 translate ru DemonArc3_8f8d5236:
     # s "That's...how is that even possible."
-    s ""
+    s "That's...how is that even possible."
 
 # DemonArc3_5b67192a (line 92123)
 translate ru DemonArc3_5b67192a:
@@ -346,17 +346,17 @@ translate ru DemonArc3_5b67192a:
 # DemonArc3_9b635802 (line 92124)
 translate ru DemonArc3_9b635802:
     # dalia "I wasn't born in this world, I ended up here the same way you did I imagine."
-    dalia ""
+    dalia "I wasn't born in this world, I ended up here the same way you did I imagine."
 
 # DemonArc3_19bca423 (line 92125)
 translate ru DemonArc3_19bca423:
     # dalia "So all I can really say is what the Master told me."
-    dalia ""
+    dalia "So all I can really say is what the Master told me."
 
 # DemonArc3_cbf2dd35 (line 92126)
 translate ru DemonArc3_cbf2dd35:
     # s "What did he tell you?"
-    s ""
+    s "What did he tell you?"
 
 # DemonArc3_aa732cae (line 92127)
 translate ru DemonArc3_aa732cae:
@@ -366,37 +366,37 @@ translate ru DemonArc3_aa732cae:
 # DemonArc3_603268af (line 92128)
 translate ru DemonArc3_603268af:
     # dalia "He told me that this world didn't used to be all that different from most of the worlds."
-    dalia ""
+    dalia "He told me that this world didn't used to be all that different from most of the worlds."
 
 # DemonArc3_48282d9b (line 92129)
 translate ru DemonArc3_48282d9b:
     # dalia "It had a few Gods, and there lived people that were not very different from Humans."
-    dalia ""
+    dalia "It had a few Gods, and there lived people that were not very different from Humans."
 
 # DemonArc3_46932f03 (line 92130)
 translate ru DemonArc3_46932f03:
     # dalia "There were wars and conflict, but nothing crazy. Nothing like what the world looks like now."
-    dalia ""
+    dalia "There were wars and conflict, but nothing crazy. Nothing like what the world looks like now."
 
 # DemonArc3_f7337677 (line 92131)
 translate ru DemonArc3_f7337677:
     # dalia "It changed when one of the Gods went to war against one of the other Gods."
-    dalia ""
+    dalia "It changed when one of the Gods went to war against one of the other Gods."
 
 # DemonArc3_bc4ec0c1 (line 92132)
 translate ru DemonArc3_bc4ec0c1:
     # dalia "Slowly, the rest of them were all pulled into the war, until the whole of the world was dragged into one great war."
-    dalia ""
+    dalia "Slowly, the rest of them were all pulled into the war, until the whole of the world was dragged into one great war."
 
 # DemonArc3_41bfc93c (line 92133)
 translate ru DemonArc3_41bfc93c:
     # dalia "All the empires and all the nations of the world, locked into war."
-    dalia ""
+    dalia "All the empires and all the nations of the world, locked into war."
 
 # DemonArc3_af2d27a9 (line 92134)
 translate ru DemonArc3_af2d27a9:
     # dalia "For their God. Against another. Who even knew by the end."
-    dalia ""
+    dalia "For their God. Against another. Who even knew by the end."
 
 # DemonArc3_cad9ee05 (line 92135)
 translate ru DemonArc3_cad9ee05:
@@ -406,42 +406,42 @@ translate ru DemonArc3_cad9ee05:
 # DemonArc3_6d6481bd (line 92136)
 translate ru DemonArc3_6d6481bd:
     # dalia "But at the root, this world was still the same, just more conflict."
-    dalia ""
+    dalia "But at the root, this world was still the same, just more conflict."
 
 # DemonArc3_f0b89b5e (line 92137)
 translate ru DemonArc3_f0b89b5e:
     # dalia "The real change happened when one of the Gods decided to shift the balance of power."
-    dalia ""
+    dalia "The real change happened when one of the Gods decided to shift the balance of power."
 
 # DemonArc3_f64258bc (line 92138)
 translate ru DemonArc3_f64258bc:
     # dalia "He taught his followers Magic, and his armies became the most powerful armies in the world."
-    dalia ""
+    dalia "He taught his followers Magic, and his armies became the most powerful armies in the world."
 
 # DemonArc3_958c1e3d (line 92139)
 translate ru DemonArc3_958c1e3d:
     # dalia "But it wasn't long before the other Gods likewise decided to cross that line."
-    dalia ""
+    dalia "But it wasn't long before the other Gods likewise decided to cross that line."
 
 # DemonArc3_3206c202 (line 92140)
 translate ru DemonArc3_3206c202:
     # dalia "Soon, every army in the world had mages."
-    dalia ""
+    dalia "Soon, every army in the world had mages."
 
 # DemonArc3_1da52a90 (line 92141)
 translate ru DemonArc3_1da52a90:
     # dalia "And once mages had entered the battlefield, regular soldiers became worthless."
-    dalia ""
+    dalia "And once mages had entered the battlefield, regular soldiers became worthless."
 
 # DemonArc3_cd63ae43 (line 92142)
 translate ru DemonArc3_cd63ae43:
     # dalia "Before the world had been overrun by soldiers, now it was overrun with mages."
-    dalia ""
+    dalia "Before the world had been overrun by soldiers, now it was overrun with mages."
 
 # DemonArc3_e2bb16cf (line 92143)
 translate ru DemonArc3_e2bb16cf:
     # dalia "And they ripped apart the very earth as they waged battle against each other."
-    dalia ""
+    dalia "And they ripped apart the very earth as they waged battle against each other."
 
 # DemonArc3_546d964b (line 92144)
 translate ru DemonArc3_546d964b:
@@ -451,32 +451,32 @@ translate ru DemonArc3_546d964b:
 # DemonArc3_814b82da (line 92145)
 translate ru DemonArc3_814b82da:
     # dalia "And then, one of the Gods committed the ultimate sin."
-    dalia ""
+    dalia "And then, one of the Gods committed the ultimate sin."
 
 # DemonArc3_5fc8d731 (line 92146)
 translate ru DemonArc3_5fc8d731:
     # dalia "They taught their followers to use magic that could harm a God."
-    dalia ""
+    dalia "They taught their followers to use magic that could harm a God."
 
 # DemonArc3_ef1a9e6f (line 92147)
 translate ru DemonArc3_ef1a9e6f:
     # dalia "And just like before, for a moment, it turned the tide."
-    dalia ""
+    dalia "And just like before, for a moment, it turned the tide."
 
 # DemonArc3_d53410e0 (line 92148)
 translate ru DemonArc3_d53410e0:
     # dalia "They lashed out and killed many of the rival Gods."
-    dalia ""
+    dalia "They lashed out and killed many of the rival Gods."
 
 # DemonArc3_e374431d (line 92149)
 translate ru DemonArc3_e374431d:
     # dalia "But the Gods that were left, quickly learned and adapted."
-    dalia ""
+    dalia "But the Gods that were left, quickly learned and adapted."
 
 # DemonArc3_b00e7045 (line 92150)
 translate ru DemonArc3_b00e7045:
     # dalia "They began to teach their followers how to wield God killing magic as well."
-    dalia ""
+    dalia "They began to teach their followers how to wield God killing magic as well."
 
 # DemonArc3_492b5dff (line 92151)
 translate ru DemonArc3_492b5dff:
@@ -486,17 +486,17 @@ translate ru DemonArc3_492b5dff:
 # DemonArc3_4c5e1503 (line 92152)
 translate ru DemonArc3_4c5e1503:
     # dalia "After that, it was just a matter of time before the Gods started dying, one by one."
-    dalia ""
+    dalia "After that, it was just a matter of time before the Gods started dying, one by one."
 
 # DemonArc3_c17865c6 (line 92153)
 translate ru DemonArc3_c17865c6:
     # dalia "And when the last God remained, his followers eventually turned on him as well."
-    dalia ""
+    dalia "And when the last God remained, his followers eventually turned on him as well."
 
 # DemonArc3_4438a5ee (line 92154)
 translate ru DemonArc3_4438a5ee:
     # s "Why did they kill him if they had won the war?"
-    s ""
+    s "Why did they kill him if they had won the war?"
 
 # DemonArc3_d4f83cec (line 92155)
 translate ru DemonArc3_d4f83cec:
@@ -506,57 +506,57 @@ translate ru DemonArc3_d4f83cec:
 # DemonArc3_a1215b37 (line 92156)
 translate ru DemonArc3_a1215b37:
     # dalia "The Master didn't tell me, but why bother to serve a God that you can kill?"
-    dalia ""
+    dalia "The Master didn't tell me, but why bother to serve a God that you can kill?"
 
 # DemonArc3_b56e3306 (line 92157)
 translate ru DemonArc3_b56e3306:
     # dalia "Gods are immortal. You take that away from them, what are they then? Just another rival."
-    dalia ""
+    dalia "Gods are immortal. You take that away from them, what are they then? Just another rival."
 
 # DemonArc3_d8749071 (line 92158)
 translate ru DemonArc3_d8749071:
     # dalia "The last of the Gods fell, and the Mages seized power."
-    dalia ""
+    dalia "The last of the Gods fell, and the Mages seized power."
 
 # DemonArc3_f4cf7804 (line 92159)
 translate ru DemonArc3_f4cf7804:
     # dalia "But the Gods were like the rivers that fed the world. Without them, no new energy flowed into the world."
-    dalia ""
+    dalia "But the Gods were like the rivers that fed the world. Without them, no new energy flowed into the world."
 
 # DemonArc3_d814017c (line 92160)
 translate ru DemonArc3_d814017c:
     # dalia "The only energy that was left was the energy already contained within this sphere."
-    dalia ""
+    dalia "The only energy that was left was the energy already contained within this sphere."
 
 # DemonArc3_367e1ed1 (line 92161)
 translate ru DemonArc3_367e1ed1:
     # dalia "And once the Mages realized that, they began to fight one another."
-    dalia ""
+    dalia "And once the Mages realized that, they began to fight one another."
 
 # DemonArc3_46cb88b5 (line 92162)
 translate ru DemonArc3_46cb88b5:
     # dalia "Everything had become zero sum."
-    dalia ""
+    dalia "Everything had become zero sum."
 
 # DemonArc3_555020e0 (line 92163)
 translate ru DemonArc3_555020e0:
     # dalia "And so they fought and fought and fought."
-    dalia ""
+    dalia "And so they fought and fought and fought."
 
 # DemonArc3_3c4bfff8 (line 92164)
 translate ru DemonArc3_3c4bfff8:
     # dalia "The lands died. The cities collapsed. The population dwindled."
-    dalia ""
+    dalia "The lands died. The cities collapsed. The population dwindled."
 
 # DemonArc3_c9b2e14b (line 92165)
 translate ru DemonArc3_c9b2e14b:
     # dalia "Before long, there was barely anything of a civilization left."
-    dalia ""
+    dalia "Before long, there was barely anything of a civilization left."
 
 # DemonArc3_c7d9b392 (line 92166)
 translate ru DemonArc3_c7d9b392:
     # dalia "Once these Mage Kings had ruled over entire Empires, now even the most powerful of them barely control a household."
-    dalia ""
+    dalia "Once these Mage Kings had ruled over entire Empires, now even the most powerful of them barely control a household."
 
 # DemonArc3_f5f79a76 (line 92167)
 translate ru DemonArc3_f5f79a76:
@@ -566,22 +566,22 @@ translate ru DemonArc3_f5f79a76:
 # DemonArc3_4f0e00eb (line 92168)
 translate ru DemonArc3_4f0e00eb:
     # s "And...the Master?"
-    s ""
+    s "And...the Master?"
 
 # DemonArc3_fb2b8eca (line 92169)
 translate ru DemonArc3_fb2b8eca:
     # dalia "He was powerful...is powerful...but you can see what he has."
-    dalia ""
+    dalia "He was powerful...is powerful...but you can see what he has."
 
 # DemonArc3_034ce2ad (line 92170)
 translate ru DemonArc3_034ce2ad:
     # dalia "You. Me. A ruined castle."
-    dalia ""
+    dalia "You. Me. A ruined castle."
 
 # DemonArc3_a255e3bc (line 92171)
 translate ru DemonArc3_a255e3bc:
     # dalia "This is all that he has. And still he clings to it. Desperate to let even a crumb slip from his fingers."
-    dalia ""
+    dalia "This is all that he has. And still he clings to it. Desperate to let even a crumb slip from his fingers."
 
 # DemonArc3_11c79f20 (line 92172)
 translate ru DemonArc3_11c79f20:
@@ -591,32 +591,32 @@ translate ru DemonArc3_11c79f20:
 # DemonArc3_9ac72b93 (line 92173)
 translate ru DemonArc3_9ac72b93:
     # s "But...if there were mages...why did they stay?"
-    s ""
+    s "But...if there were mages...why did they stay?"
 
 # DemonArc3_aad1b809 (line 92174)
 translate ru DemonArc3_aad1b809:
     # dalia "Stay?"
-    dalia ""
+    dalia "Stay?"
 
 # DemonArc3_18da3abb (line 92175)
 translate ru DemonArc3_18da3abb:
     # s "Yes. Why did they not use their magic to dissapear into other worlds? Escape this dying sphere?"
-    s ""
+    s "Yes. Why did they not use their magic to dissapear into other worlds? Escape this dying sphere?"
 
 # DemonArc3_2f136367 (line 92176)
 translate ru DemonArc3_2f136367:
     # dalia "Some did."
-    dalia ""
+    dalia "Some did."
 
 # DemonArc3_97da2b7d (line 92177)
 translate ru DemonArc3_97da2b7d:
     # dalia "But what was the first thing you noticed when you came to this world?"
-    dalia ""
+    dalia "But what was the first thing you noticed when you came to this world?"
 
 # DemonArc3_1a674e9f (line 92178)
 translate ru DemonArc3_1a674e9f:
     # s "I..."
-    s ""
+    s "I..."
 
 # DemonArc3_272f8ef4 (line 92179)
 translate ru DemonArc3_272f8ef4:
@@ -626,27 +626,27 @@ translate ru DemonArc3_272f8ef4:
 # DemonArc3_b2c4bee2 (line 92180)
 translate ru DemonArc3_b2c4bee2:
     # s "My magic...it was gone."
-    s ""
+    s "My magic...it was gone."
 
 # DemonArc3_b2635b59 (line 92181)
 translate ru DemonArc3_b2635b59:
     # dalia "Exactly."
-    dalia ""
+    dalia "Exactly."
 
 # DemonArc3_9f3f0871 (line 92182)
 translate ru DemonArc3_9f3f0871:
     # dalia "A person's connection to magic is tied to the world itself."
-    dalia ""
+    dalia "A person's connection to magic is tied to the world itself."
 
 # DemonArc3_f29a0c67 (line 92183)
 translate ru DemonArc3_f29a0c67:
     # dalia "Leave that world and you're nothing more than any other common person."
-    dalia ""
+    dalia "Leave that world and you're nothing more than any other common person."
 
 # DemonArc3_04dbaf36 (line 92184)
 translate ru DemonArc3_04dbaf36:
     # dalia "And these Mage Kings...they'd rather fight to the death with their magic than become ordinary in a different world."
-    dalia ""
+    dalia "And these Mage Kings...they'd rather fight to the death with their magic than become ordinary in a different world."
 
 # DemonArc3_ff2685b3 (line 92185)
 translate ru DemonArc3_ff2685b3:
@@ -696,7 +696,7 @@ translate ru DemonArc3_02447b7b:
 # DemonArc3_45992a8e (line 92194)
 translate ru DemonArc3_45992a8e:
     # s "What about you?"
-    s ""
+    s "What about you?"
 
 # DemonArc3_c1ba0e45 (line 92195)
 translate ru DemonArc3_c1ba0e45:
@@ -706,12 +706,12 @@ translate ru DemonArc3_c1ba0e45:
 # DemonArc3_6e63c22a (line 92196)
 translate ru DemonArc3_6e63c22a:
     # dalia "I...me?"
-    dalia ""
+    dalia "I...me?"
 
 # DemonArc3_e0725ac1 (line 92197)
 translate ru DemonArc3_e0725ac1:
     # s "Yeah, what's your story? How did you end up here?"
-    s ""
+    s "Yeah, what's your story? How did you end up here?"
 
 # DemonArc3_04d63312 (line 92198)
 translate ru DemonArc3_04d63312:
@@ -721,7 +721,7 @@ translate ru DemonArc3_04d63312:
 # DemonArc3_4c86d451 (line 92199)
 translate ru DemonArc3_4c86d451:
     # dalia "Huh, I just realized that nobody every really asked me..."
-    dalia ""
+    dalia "Huh, I just realized that nobody every really asked me..."
 
 # DemonArc3_4692f088 (line 92200)
 translate ru DemonArc3_4692f088:
@@ -731,12 +731,12 @@ translate ru DemonArc3_4692f088:
 # DemonArc3_82dd2119 (line 92201)
 translate ru DemonArc3_82dd2119:
     # dalia "Well, like I said, I'm not sure on the time exactly...maybe three years, or four?"
-    dalia ""
+    dalia "Well, like I said, I'm not sure on the time exactly...maybe three years, or four?"
 
 # DemonArc3_144701e8 (line 92202)
 translate ru DemonArc3_144701e8:
     # dalia "That's when I first came here."
-    dalia ""
+    dalia "That's when I first came here."
 
 # DemonArc3_8973fb75 (line 92203)
 translate ru DemonArc3_8973fb75:
@@ -751,7 +751,7 @@ translate ru DemonArc3_551f669e:
 # DemonArc3_548bf49b (line 92205)
 translate ru DemonArc3_548bf49b:
     # s "How did you end up here?"
-    s ""
+    s "How did you end up here?"
 
 # DemonArc3_24611490 (line 92206)
 translate ru DemonArc3_24611490:
@@ -761,12 +761,12 @@ translate ru DemonArc3_24611490:
 # DemonArc3_4c625c9b (line 92207)
 translate ru DemonArc3_4c625c9b:
     # dalia "Same way as you, I imagine."
-    dalia ""
+    dalia "Same way as you, I imagine."
 
 # DemonArc3_ca7026ad (line 92208)
 translate ru DemonArc3_ca7026ad:
     # dalia "I was a mage before...same world as you I think. Did you also have a Mythran Empire?"
-    dalia ""
+    dalia "I was a mage before...same world as you I think. Did you also have a Mythran Empire?"
 
 # DemonArc3_f1fb117a (line 92209)
 translate ru DemonArc3_f1fb117a:
@@ -776,72 +776,72 @@ translate ru DemonArc3_f1fb117a:
 # DemonArc3_fe5b5d80 (line 92210)
 translate ru DemonArc3_fe5b5d80:
     # dalia "Well, I took to magic early and was recruited to join the Circle."
-    dalia ""
+    dalia "Well, I took to magic early and was recruited to join the Circle."
 
 # DemonArc3_a005a7ab (line 92211)
 translate ru DemonArc3_a005a7ab:
     # dalia "I was doing pretty well, and so my master had decided to send me to The Citadel to complete my training."
-    dalia ""
+    dalia "I was doing pretty well, and so my master had decided to send me to The Citadel to complete my training."
 
 # DemonArc3_ea422575 (line 92212)
 translate ru DemonArc3_ea422575:
     # dalia "And I was so happy...I wanted to make him proud."
-    dalia ""
+    dalia "And I was so happy...I wanted to make him proud."
 
 # DemonArc3_6b9d6d83 (line 92213)
 translate ru DemonArc3_6b9d6d83:
     # dalia "So I started studying...everything."
-    dalia ""
+    dalia "So I started studying...everything."
 
 # DemonArc3_98c6ae5e (line 92214)
 translate ru DemonArc3_98c6ae5e:
     # dalia "Every class, but even after classes, I just kept studying."
-    dalia ""
+    dalia "Every class, but even after classes, I just kept studying."
 
 # DemonArc3_d327244e (line 92215)
 translate ru DemonArc3_d327244e:
     # dalia "I went through every book I could get my hands on."
-    dalia ""
+    dalia "I went through every book I could get my hands on."
 
 # DemonArc3_cb215714 (line 92216)
 translate ru DemonArc3_cb215714:
     # dalia "And then I started pushing myself even more. I started practicing advanced magic without a teacher. All self taught."
-    dalia ""
+    dalia "And then I started pushing myself even more. I started practicing advanced magic without a teacher. All self taught."
 
 # DemonArc3_0580a8ff (line 92217)
 translate ru DemonArc3_0580a8ff:
     # dalia "For a while, it worked."
-    dalia ""
+    dalia "For a while, it worked."
 
 # DemonArc3_d3c8ffc0 (line 92218)
 translate ru DemonArc3_d3c8ffc0:
     # dalia "I was the best, most advanced student in my year."
-    dalia ""
+    dalia "I was the best, most advanced student in my year."
 
 # DemonArc3_9f76a767 (line 92219)
 translate ru DemonArc3_9f76a767:
     # dalia "Then...one night, someone told me that there was a branch of magic called Daemonology."
-    dalia ""
+    dalia "Then...one night, someone told me that there was a branch of magic called Daemonology."
 
 # DemonArc3_486e409d (line 92220)
 translate ru DemonArc3_486e409d:
     # dalia "About...how you could learn to walk between worlds..."
-    dalia ""
+    dalia "About...how you could learn to walk between worlds..."
 
 # DemonArc3_58c4c3fb (line 92221)
 translate ru DemonArc3_58c4c3fb:
     # dalia "And I thought it was the most incredible thing that I had ever heard."
-    dalia ""
+    dalia "And I thought it was the most incredible thing that I had ever heard."
 
 # DemonArc3_402be4cf (line 92222)
 translate ru DemonArc3_402be4cf:
     # dalia "They also said it was the most advanced form of magic, and that only the greatest mages could master it."
-    dalia ""
+    dalia "They also said it was the most advanced form of magic, and that only the greatest mages could master it."
 
 # DemonArc3_9e149be9 (line 92223)
 translate ru DemonArc3_9e149be9:
     # dalia "So, of course..."
-    dalia ""
+    dalia "So, of course..."
 
 # DemonArc3_6c2e4424 (line 92224)
 translate ru DemonArc3_6c2e4424:
@@ -851,32 +851,32 @@ translate ru DemonArc3_6c2e4424:
 # DemonArc3_bfcc1169 (line 92225)
 translate ru DemonArc3_bfcc1169:
     # dalia "Of course I tried it."
-    dalia ""
+    dalia "Of course I tried it."
 
 # DemonArc3_bde687fa (line 92226)
 translate ru DemonArc3_bde687fa:
     # dalia "And the first few times, I slipped out from our world, and I drifted in between all these incredible worlds."
-    dalia ""
+    dalia "And the first few times, I slipped out from our world, and I drifted in between all these incredible worlds."
 
 # DemonArc3_dc4f6073 (line 92227)
 translate ru DemonArc3_dc4f6073:
     # dalia "It kept working, so I thought I was so incredible..."
-    dalia ""
+    dalia "It kept working, so I thought I was so incredible..."
 
 # DemonArc3_56937281 (line 92228)
 translate ru DemonArc3_56937281:
     # dalia "Then, one time, no different than any other before, I just happened to hear the voice."
-    dalia ""
+    dalia "Then, one time, no different than any other before, I just happened to hear the voice."
 
 # DemonArc3_948cfe8d (line 92229)
 translate ru DemonArc3_948cfe8d:
     # dalia "His voice."
-    dalia ""
+    dalia "His voice."
 
 # DemonArc3_2793d8a2 (line 92230)
 translate ru DemonArc3_2793d8a2:
     # dalia "And I followed it, and...before I knew it, I was here."
-    dalia ""
+    dalia "And I followed it, and...before I knew it, I was here."
 
 # DemonArc3_a610e93e (line 92231)
 translate ru DemonArc3_a610e93e:
@@ -886,17 +886,17 @@ translate ru DemonArc3_a610e93e:
 # DemonArc3_11e249b2 (line 92232)
 translate ru DemonArc3_11e249b2:
     # dalia "When I first arrived, a pack of Hellhounds attacked me, and the Master stepped in just in time."
-    dalia ""
+    dalia "When I first arrived, a pack of Hellhounds attacked me, and the Master stepped in just in time."
 
 # DemonArc3_83f98ab2 (line 92233)
 translate ru DemonArc3_83f98ab2:
     # dalia "I remember being so happy when he saved me..."
-    dalia ""
+    dalia "I remember being so happy when he saved me..."
 
 # DemonArc3_9f1e8c8e (line 92234)
 translate ru DemonArc3_9f1e8c8e:
     # dalia "He chased the creatures away, and then he turned on me and he...well, you know how he is."
-    dalia ""
+    dalia "He chased the creatures away, and then he turned on me and he...well, you know how he is."
 
 # DemonArc3_79d1f21e (line 92235)
 translate ru DemonArc3_79d1f21e:
@@ -906,22 +906,22 @@ translate ru DemonArc3_79d1f21e:
 # DemonArc3_aa281adb (line 92236)
 translate ru DemonArc3_aa281adb:
     # dalia "He brought me back to this castle and for so long I was foolish..."
-    dalia ""
+    dalia "He brought me back to this castle and for so long I was foolish..."
 
 # DemonArc3_d099c606 (line 92237)
 translate ru DemonArc3_d099c606:
     # dalia "I kept fighting him. Kept arguing with him. Trying to escape."
-    dalia ""
+    dalia "I kept fighting him. Kept arguing with him. Trying to escape."
 
 # DemonArc3_ed25308d (line 92238)
 translate ru DemonArc3_ed25308d:
     # dalia "Only after months did I finally accept the situation."
-    dalia ""
+    dalia "Only after months did I finally accept the situation."
 
 # DemonArc3_eb4a9bed (line 92239)
 translate ru DemonArc3_eb4a9bed:
     # dalia "After that, things got easier."
-    dalia ""
+    dalia "After that, things got easier."
 
 # DemonArc3_a855165a (line 92240)
 translate ru DemonArc3_a855165a:
@@ -931,7 +931,7 @@ translate ru DemonArc3_a855165a:
 # DemonArc3_28b7ea4a (line 92241)
 translate ru DemonArc3_28b7ea4a:
     # s "You actually think this is better?"
-    s ""
+    s "You actually think this is better?"
 
 # DemonArc3_cd215693 (line 92242)
 translate ru DemonArc3_cd215693:
@@ -941,17 +941,17 @@ translate ru DemonArc3_cd215693:
 # DemonArc3_a7c193d8 (line 92243)
 translate ru DemonArc3_a7c193d8:
     # dalia "That's why it's good that you're here with me."
-    dalia ""
+    dalia "That's why it's good that you're here with me."
 
 # DemonArc3_84ccbd7b (line 92244)
 translate ru DemonArc3_84ccbd7b:
     # dalia "You can learn from me, like the Master said, and not make the same mistakes that I did."
-    dalia ""
+    dalia "You can learn from me, like the Master said, and not make the same mistakes that I did."
 
 # DemonArc3_cf0c3b70 (line 92245)
 translate ru DemonArc3_cf0c3b70:
     # dalia "Not waste time on pointless resistance."
-    dalia ""
+    dalia "Not waste time on pointless resistance."
 
 # DemonArc3_1b94d8b6 (line 92246)
 translate ru DemonArc3_1b94d8b6:
@@ -961,7 +961,7 @@ translate ru DemonArc3_1b94d8b6:
 # DemonArc3_6da5ee02 (line 92247)
 translate ru DemonArc3_6da5ee02:
     # dalia "Really, he...he can be kind in his own way...you just have to learn to accept your place. Our place."
-    dalia ""
+    dalia "Really, he...he can be kind in his own way...you just have to learn to accept your place. Our place."
 
 # DemonArc3_32bdc2a4 (line 92248)
 translate ru DemonArc3_32bdc2a4:
@@ -976,7 +976,7 @@ translate ru DemonArc3_a9b7dd54:
 # DemonArc3_da913aab (line 92250)
 translate ru DemonArc3_da913aab:
     # s "I...I will..."
-    s ""
+    s "I...I will..."
 
 # DemonArc3_a7323e07 (line 92251)
 translate ru DemonArc3_a7323e07:
@@ -986,12 +986,12 @@ translate ru DemonArc3_a7323e07:
 # DemonArc3_b4d60122 (line 92252)
 translate ru DemonArc3_b4d60122:
     # dalia "I know you will!"
-    dalia ""
+    dalia "I know you will!"
 
 # DemonArc3_2ebc2770 (line 92253)
 translate ru DemonArc3_2ebc2770:
     # dalia "Now, come on, let's get this job done! The Master will probably wake up soon."
-    dalia ""
+    dalia "Now, come on, let's get this job done! The Master will probably wake up soon."
 
 # DemonArc3_d947fc12 (line 92254)
 translate ru DemonArc3_d947fc12:
@@ -1016,7 +1016,7 @@ translate ru DemonArc3_ee41cf9c:
 # DemonArc3_6d063066 (line 92258)
 translate ru DemonArc3_6d063066:
     # dae "COME!!!"
-    dae ""
+    dae "COME!!!"
 
 # DemonArc3_fc132d18 (line 92259)
 translate ru DemonArc3_fc132d18:
@@ -1026,7 +1026,7 @@ translate ru DemonArc3_fc132d18:
 # DemonArc3_09e1647a (line 92260)
 translate ru DemonArc3_09e1647a:
     # dalia "Follow me!"
-    dalia ""
+    dalia "Follow me!"
 
 # DemonArc3_29d9d0e0 (line 92261)
 translate ru DemonArc3_29d9d0e0:
@@ -1066,12 +1066,12 @@ translate ru DemonArc3_ed4dab3c:
 # DemonArc3_6143a574 (line 92274)
 translate ru DemonArc3_6143a574:
     # dae "There you are."
-    dae ""
+    dae "There you are."
 
 # DemonArc3_e5a4021e (line 92275)
 translate ru DemonArc3_e5a4021e:
     # dae "I almost thought I'd have to summon you a second time."
-    dae ""
+    dae "I almost thought I'd have to summon you a second time."
 
 # DemonArc3_8bc229be (line 92276)
 translate ru DemonArc3_8bc229be:
@@ -1081,12 +1081,12 @@ translate ru DemonArc3_8bc229be:
 # DemonArc3_84f368c1 (line 92277)
 translate ru DemonArc3_84f368c1:
     # dalia "No, of course not, Master."
-    dalia ""
+    dalia "No, of course not, Master."
 
 # DemonArc3_9e004ee4 (line 92278)
 translate ru DemonArc3_9e004ee4:
     # dalia "I am sorry if we were delayed, I was showing Sarah her duties in the castle."
-    dalia ""
+    dalia "I am sorry if we were delayed, I was showing Sarah her duties in the castle."
 
 # DemonArc3_16f4a992 (line 92279)
 translate ru DemonArc3_16f4a992:
@@ -1096,22 +1096,22 @@ translate ru DemonArc3_16f4a992:
 # DemonArc3_ec4f7ee8 (line 92280)
 translate ru DemonArc3_ec4f7ee8:
     # dae "Very well."
-    dae ""
+    dae "Very well."
 
 # DemonArc3_14e263cc (line 92281)
 translate ru DemonArc3_14e263cc:
     # dae "And how is that going?"
-    dae ""
+    dae "And how is that going?"
 
 # DemonArc3_09abea82 (line 92282)
 translate ru DemonArc3_09abea82:
     # dalia "Sarah is a quick study, Master!"
-    dalia ""
+    dalia "Sarah is a quick study, Master!"
 
 # DemonArc3_207eb851 (line 92283)
 translate ru DemonArc3_207eb851:
     # dalia "She'll be a good servant to you in no time. I'll make sure of it."
-    dalia ""
+    dalia "She'll be a good servant to you in no time. I'll make sure of it."
 
 # DemonArc3_cae8f3fd (line 92284)
 translate ru DemonArc3_cae8f3fd:
@@ -1126,17 +1126,17 @@ translate ru DemonArc3_283536fe:
 # DemonArc3_f843cfbd (line 92286)
 translate ru DemonArc3_f843cfbd:
     # dae "Good."
-    dae ""
+    dae "Good."
 
 # DemonArc3_57203e88 (line 92287)
 translate ru DemonArc3_57203e88:
     # dae "Sarah is still new here, and I am sure she had much to learn."
-    dae ""
+    dae "Sarah is still new here, and I am sure she had much to learn."
 
 # DemonArc3_d1c1f109 (line 92288)
 translate ru DemonArc3_d1c1f109:
     # dae "So...any mistakes would not be hers."
-    dae ""
+    dae "So...any mistakes would not be hers."
 
 # DemonArc3_27e5d703 (line 92289)
 translate ru DemonArc3_27e5d703:
@@ -1146,27 +1146,27 @@ translate ru DemonArc3_27e5d703:
 # DemonArc3_bf1034af (line 92290)
 translate ru DemonArc3_bf1034af:
     # dalia "I...of course, Master. If you grant her your indulgence, she will-"
-    dalia ""
+    dalia "I...of course, Master. If you grant her your indulgence, she will-"
 
 # DemonArc3_c4774055 (line 92291)
 translate ru DemonArc3_c4774055:
     # dae "No."
-    dae ""
+    dae "No."
 
 # DemonArc3_72652f28 (line 92292)
 translate ru DemonArc3_72652f28:
     # dae "I do not mean to tolerate her failures."
-    dae ""
+    dae "I do not mean to tolerate her failures."
 
 # DemonArc3_82673b93 (line 92293)
 translate ru DemonArc3_82673b93:
     # dae "I mean that if she does not behave properly, it will be your mistake in training her, Dalia."
-    dae ""
+    dae "I mean that if she does not behave properly, it will be your mistake in training her, Dalia."
 
 # DemonArc3_43de7f9b (line 92294)
 translate ru DemonArc3_43de7f9b:
     # dae "And you will suffer her punishments."
-    dae ""
+    dae "And you will suffer her punishments."
 
 # DemonArc3_5dd875f2 (line 92295)
 translate ru DemonArc3_5dd875f2:
@@ -1176,7 +1176,7 @@ translate ru DemonArc3_5dd875f2:
 # DemonArc3_231463fe (line 92296)
 translate ru DemonArc3_231463fe:
     # dalia "I...of course, Master. I will bear the responsibility for both of us."
-    dalia ""
+    dalia "I...of course, Master. I will bear the responsibility for both of us."
 
 # DemonArc3_e7027b9c (line 92297)
 translate ru DemonArc3_e7027b9c:
@@ -1186,7 +1186,7 @@ translate ru DemonArc3_e7027b9c:
 # DemonArc3_f75f1343 (line 92298)
 translate ru DemonArc3_f75f1343:
     # dae "Good."
-    dae ""
+    dae "Good."
 
 # DemonArc3_c75f3010 (line 92299)
 translate ru DemonArc3_c75f3010:
@@ -1246,12 +1246,12 @@ translate ru DemonArc3_837c4dfe:
 # DemonArc3_14e6478d (line 92310)
 translate ru DemonArc3_14e6478d:
     # dae "Now, with this business settled, how about my meal?"
-    dae ""
+    dae "Now, with this business settled, how about my meal?"
 
 # DemonArc3_4116ff04 (line 92311)
 translate ru DemonArc3_4116ff04:
     # dalia "Of course, Master!"
-    dalia ""
+    dalia "Of course, Master!"
 
 # DemonArc3_0a61d90f (line 92312)
 translate ru DemonArc3_0a61d90f:
@@ -1321,12 +1321,12 @@ translate ru DemonArc3_2b0e69e9:
 # DemonArc3_c33e1439 (line 92325)
 translate ru DemonArc3_c33e1439:
     # dae "Well done, Dalia, as always."
-    dae ""
+    dae "Well done, Dalia, as always."
 
 # DemonArc3_4aa9d056 (line 92326)
 translate ru DemonArc3_4aa9d056:
     # dalia "Thank you, Master."
-    dalia ""
+    dalia "Thank you, Master."
 
 # DemonArc3_343df087 (line 92327)
 translate ru DemonArc3_343df087:
@@ -1336,7 +1336,7 @@ translate ru DemonArc3_343df087:
 # DemonArc3_72c929dd (line 92328)
 translate ru DemonArc3_72c929dd:
     # dae "Sarah, here."
-    dae ""
+    dae "Sarah, here."
 
 # DemonArc3_6dfa87a4 (line 92329)
 translate ru DemonArc3_6dfa87a4:
@@ -1361,22 +1361,12 @@ translate ru DemonArc3_a8b26b49:
 # DemonArc3_1147b7c5 (line 92340)
 translate ru DemonArc3_1147b7c5:
     # dae "Now, bend over."
-    dae ""
+    dae "Now, bend over."
 
 # DemonArc3_2f104d8d (line 92341)
 translate ru DemonArc3_2f104d8d:
     # "Sarah's eyes went wide."
     ""
-
-# DemonArc3_522e813d (line 92348)
-translate ru DemonArc3_522e813d:
-    # "Refuse him"
-    "Refuse him" ""
-
-# DemonArc3_dd2e94b0 (line 92520)
-translate ru DemonArc3_dd2e94b0:
-    # "Obey him"
-    "Obey him" ""
 
 # DemonArc3_30047795 (line 92664)
 translate ru DemonArc3_30047795:
@@ -1391,12 +1381,12 @@ translate ru DemonArc3_18d578f7:
 # DemonArc3_38c439bf (line 92666)
 translate ru DemonArc3_38c439bf:
     # s "I...where am I..."
-    s ""
+    s "I...where am I..."
 
 # DemonArc3_2eb5de63 (line 92667)
 translate ru DemonArc3_2eb5de63:
     # dalia "Stay still."
-    dalia ""
+    dalia "Stay still."
 
 # DemonArc3_2432bb03 (line 92668)
 translate ru DemonArc3_2432bb03:
@@ -1416,22 +1406,22 @@ translate ru DemonArc3_4528b18e:
 # DemonArc3_751e984c (line 92671)
 translate ru DemonArc3_751e984c:
     # s "Gods...it's cold..."
-    s ""
+    s "Gods...it's cold..."
 
 # DemonArc3_1fd5bbec (line 92672)
 translate ru DemonArc3_1fd5bbec:
     # dalia "Yeah, it is."
-    dalia ""
+    dalia "Yeah, it is."
 
 # DemonArc3_a367137d (line 92673)
 translate ru DemonArc3_a367137d:
     # dalia "But you were a mess. You need to get cleaned up."
-    dalia ""
+    dalia "But you were a mess. You need to get cleaned up."
 
 # DemonArc3_cde50633 (line 92674)
 translate ru DemonArc3_cde50633:
     # dalia "Here."
-    dalia ""
+    dalia "Here."
 
 # DemonArc3_07c5bb21 (line 92675)
 translate ru DemonArc3_07c5bb21:
@@ -1451,22 +1441,22 @@ translate ru DemonArc3_3b129a42:
 # DemonArc3_158b1209 (line 92678)
 translate ru DemonArc3_158b1209:
     # s "I...Gods...what did I do...what did I say..."
-    s ""
+    s "I...Gods...what did I do...what did I say..."
 
 # DemonArc3_253058e8 (line 92679)
 translate ru DemonArc3_253058e8:
     # dalia "Don't feel bad about it."
-    dalia ""
+    dalia "Don't feel bad about it."
 
 # DemonArc3_02eb0865 (line 92680)
 translate ru DemonArc3_02eb0865:
     # dalia "His mark...his magic...you can't resist it."
-    dalia ""
+    dalia "His mark...his magic...you can't resist it."
 
 # DemonArc3_33aa626b (line 92681)
 translate ru DemonArc3_33aa626b:
     # s "I..."
-    s ""
+    s "I..."
 
 # DemonArc3_37f28de3 (line 92682)
 translate ru DemonArc3_37f28de3:
@@ -1481,17 +1471,17 @@ translate ru DemonArc3_3cadade3:
 # DemonArc3_254ee203 (line 92684)
 translate ru DemonArc3_254ee203:
     # dalia "He uses that mark in more ways than just controlling where you can go."
-    dalia ""
+    dalia "He uses that mark in more ways than just controlling where you can go."
 
 # DemonArc3_ba8052e6 (line 92685)
 translate ru DemonArc3_ba8052e6:
     # dalia "It's also designed to make you want him."
-    dalia ""
+    dalia "It's also designed to make you want him."
 
 # DemonArc3_ae997b2d (line 92686)
 translate ru DemonArc3_ae997b2d:
     # dalia "To turn you into his personal whore."
-    dalia ""
+    dalia "To turn you into his personal whore."
 
 # DemonArc3_f80e56c1 (line 92687)
 translate ru DemonArc3_f80e56c1:
@@ -1511,7 +1501,7 @@ translate ru DemonArc3_aa1013a7:
 # DemonArc3_5776636e (line 92690)
 translate ru DemonArc3_5776636e:
     # s "The mark..."
-    s ""
+    s "The mark..."
 
 # DemonArc3_3ff37474 (line 92691)
 translate ru DemonArc3_3ff37474:
@@ -1531,17 +1521,17 @@ translate ru DemonArc3_4172db04:
 # DemonArc3_6c73ffe0 (line 92694)
 translate ru DemonArc3_6c73ffe0:
     # dalia "Don't feel bad. It does the same to me."
-    dalia ""
+    dalia "Don't feel bad. It does the same to me."
 
 # DemonArc3_66463441 (line 92695)
 translate ru DemonArc3_66463441:
     # dalia "When he fucks you...it's like nothing else in the world."
-    dalia ""
+    dalia "When he fucks you...it's like nothing else in the world."
 
 # DemonArc3_4298f75b (line 92696)
 translate ru DemonArc3_4298f75b:
     # dalia "And each time, the mark cuts deeper, and burns brighter."
-    dalia ""
+    dalia "And each time, the mark cuts deeper, and burns brighter."
 
 # DemonArc3_2878b8df (line 92697)
 translate ru DemonArc3_2878b8df:
@@ -1556,7 +1546,7 @@ translate ru DemonArc3_27aa1425:
 # DemonArc3_26d1165e (line 92699)
 translate ru DemonArc3_26d1165e:
     # s "The mark does the same to you?"
-    s ""
+    s "The mark does the same to you?"
 
 # DemonArc3_970cd09a (line 92700)
 translate ru DemonArc3_970cd09a:
@@ -1566,22 +1556,22 @@ translate ru DemonArc3_970cd09a:
 # DemonArc3_0aa25a67 (line 92701)
 translate ru DemonArc3_0aa25a67:
     # dalia "Don't be mistaken, when he fucks me, I'll look no different than you. Worse almost."
-    dalia ""
+    dalia "Don't be mistaken, when he fucks me, I'll look no different than you. Worse almost."
 
 # DemonArc3_ea64306f (line 92702)
 translate ru DemonArc3_ea64306f:
     # dalia "When he fucks me...I'm lost. Utterly."
-    dalia ""
+    dalia "When he fucks me...I'm lost. Utterly."
 
 # DemonArc3_bb243a5f (line 92703)
 translate ru DemonArc3_bb243a5f:
     # dalia "His magic has been cutting into me for years now."
-    dalia ""
+    dalia "His magic has been cutting into me for years now."
 
 # DemonArc3_742bec4b (line 92704)
 translate ru DemonArc3_742bec4b:
     # dalia "In the moment...there's nothing I won't say or do for him."
-    dalia ""
+    dalia "In the moment...there's nothing I won't say or do for him."
 
 # DemonArc3_8735dcf3 (line 92705)
 translate ru DemonArc3_8735dcf3:
@@ -1591,22 +1581,22 @@ translate ru DemonArc3_8735dcf3:
 # DemonArc3_2a8084f3 (line 92706)
 translate ru DemonArc3_2a8084f3:
     # dalia "Remember that."
-    dalia ""
+    dalia "Remember that."
 
 # DemonArc3_8671f842 (line 92707)
 translate ru DemonArc3_8671f842:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # DemonArc3_5750ca84 (line 92708)
 translate ru DemonArc3_5750ca84:
     # dalia "I mean that if you have any dreams of there being some kind of an alliance between us, don't."
-    dalia ""
+    dalia "I mean that if you have any dreams of there being some kind of an alliance between us, don't."
 
 # DemonArc3_5b03e5e6 (line 92709)
 translate ru DemonArc3_5b03e5e6:
     # dalia "Put that to rest, right now."
-    dalia ""
+    dalia "Put that to rest, right now."
 
 # DemonArc3_2474a5c2 (line 92710)
 translate ru DemonArc3_2474a5c2:
@@ -1616,22 +1606,22 @@ translate ru DemonArc3_2474a5c2:
 # DemonArc3_17db8110 (line 92711)
 translate ru DemonArc3_17db8110:
     # s "Why not?"
-    s ""
+    s "Why not?"
 
 # DemonArc3_96de56e2 (line 92712)
 translate ru DemonArc3_96de56e2:
     # dalia "Because you've felt it now too. And it will only get worse."
-    dalia ""
+    dalia "Because you've felt it now too. And it will only get worse."
 
 # DemonArc3_7195eb12 (line 92713)
 translate ru DemonArc3_7195eb12:
     # dalia "And soon, you'll be just like me, and you'll moan and say and do anything for him."
-    dalia ""
+    dalia "And soon, you'll be just like me, and you'll moan and say and do anything for him."
 
 # DemonArc3_635e150c (line 92714)
 translate ru DemonArc3_635e150c:
     # dalia "You can't imagine it now, but in the moment...you'll betray anyone."
-    dalia ""
+    dalia "You can't imagine it now, but in the moment...you'll betray anyone."
 
 # DemonArc3_d39f9b1e (line 92715)
 translate ru DemonArc3_d39f9b1e:
@@ -1646,22 +1636,22 @@ translate ru DemonArc3_30c1b41d:
 # DemonArc3_1ddb90c8 (line 92717)
 translate ru DemonArc3_1ddb90c8:
     # dalia "Grab that sponge and clean yourself."
-    dalia ""
+    dalia "Grab that sponge and clean yourself."
 
 # DemonArc3_04786bb3 (line 92718)
 translate ru DemonArc3_04786bb3:
     # s "I'm doing that."
-    s ""
+    s "I'm doing that."
 
 # DemonArc3_1ed7451c (line 92719)
 translate ru DemonArc3_1ed7451c:
     # dalia "No, really clean yourself. I mean, up inside too."
-    dalia ""
+    dalia "No, really clean yourself. I mean, up inside too."
 
 # DemonArc3_f9eb28c3 (line 92720)
 translate ru DemonArc3_f9eb28c3:
     # dalia "The last thing you need is to get pregnant in this world. So wash him out of you."
-    dalia ""
+    dalia "The last thing you need is to get pregnant in this world. So wash him out of you."
 
 # DemonArc3_17ba9d76 (line 92721)
 translate ru DemonArc3_17ba9d76:
@@ -1691,12 +1681,12 @@ translate ru DemonArc3_791fcd6b:
 # DemonArc3_eab883dd (line 92726)
 translate ru DemonArc3_eab883dd:
     # s "So that's it then?"
-    s ""
+    s "So that's it then?"
 
 # DemonArc3_ab2448a3 (line 92727)
 translate ru DemonArc3_ab2448a3:
     # s "We're just...always going to be at odds with each other?"
-    s ""
+    s "We're just...always going to be at odds with each other?"
 
 # DemonArc3_1c46ffc9 (line 92728)
 translate ru DemonArc3_1c46ffc9:
@@ -1706,27 +1696,27 @@ translate ru DemonArc3_1c46ffc9:
 # DemonArc3_5c9474d8 (line 92729)
 translate ru DemonArc3_5c9474d8:
     # dalia "No...we can be friends..."
-    dalia ""
+    dalia "No...we can be friends..."
 
 # DemonArc3_e33c731e (line 92730)
 translate ru DemonArc3_e33c731e:
     # dalia "But you need to hide whatever you feel in your heart. Don't tell me any secrets. Don't plot with me. Don't scheme with me."
-    dalia ""
+    dalia "But you need to hide whatever you feel in your heart. Don't tell me any secrets. Don't plot with me. Don't scheme with me."
 
 # DemonArc3_b825a7f2 (line 92731)
 translate ru DemonArc3_b825a7f2:
     # dalia "Or he'll know."
-    dalia ""
+    dalia "Or he'll know."
 
 # DemonArc3_5ec7d3db (line 92732)
 translate ru DemonArc3_5ec7d3db:
     # dalia "You...me...we'll turn on each other when he takes us..."
-    dalia ""
+    dalia "You...me...we'll turn on each other when he takes us..."
 
 # DemonArc3_f13fe5bb (line 92733)
 translate ru DemonArc3_f13fe5bb:
     # dalia "It's not our fault...the magic..."
-    dalia ""
+    dalia "It's not our fault...the magic..."
 
 # DemonArc3_4043679e (line 92734)
 translate ru DemonArc3_4043679e:
@@ -1741,7 +1731,7 @@ translate ru DemonArc3_16c1cfd5:
 # DemonArc3_5cabe1fd (line 92736)
 translate ru DemonArc3_5cabe1fd:
     # s "I...understand."
-    s ""
+    s "I...understand."
 
 # DemonArc3_d5d9c953 (line 92737)
 translate ru DemonArc3_d5d9c953:

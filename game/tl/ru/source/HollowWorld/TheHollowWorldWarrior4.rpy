@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TheHollowWorldWarrior4
-# Total blocks: 186
+# Total blocks: 180
 
 # TheHollowWorldWarrior4_b6ff5770 (line 42742)
 translate ru TheHollowWorldWarrior4_b6ff5770:
@@ -126,7 +126,7 @@ translate ru TheHollowWorldWarrior4_397e4a14:
 # TheHollowWorldWarrior4_687d9a79 (line 42860)
 translate ru TheHollowWorldWarrior4_687d9a79:
     # k "Lonely?"
-    k ""
+    k "Lonely?"
 
 # TheHollowWorldWarrior4_2161c537 (line 42861)
 translate ru TheHollowWorldWarrior4_2161c537:
@@ -136,7 +136,7 @@ translate ru TheHollowWorldWarrior4_2161c537:
 # TheHollowWorldWarrior4_abfc3520 (line 42862)
 translate ru TheHollowWorldWarrior4_abfc3520:
     # s "I have an abundance of friends, don't you know?"
-    s ""
+    s "I have an abundance of friends, don't you know?"
 
 # TheHollowWorldWarrior4_c11599bc (line 42866)
 translate ru TheHollowWorldWarrior4_c11599bc:
@@ -146,12 +146,12 @@ translate ru TheHollowWorldWarrior4_c11599bc:
 # TheHollowWorldWarrior4_165801e1 (line 42867)
 translate ru TheHollowWorldWarrior4_165801e1:
     # k "Pretty sure I'm the only friend you have."
-    k ""
+    k "Pretty sure I'm the only friend you have."
 
 # TheHollowWorldWarrior4_9545a062 (line 42884)
 translate ru TheHollowWorldWarrior4_9545a062:
     # k "Now, tell me, where were you headed right about now?"
-    k ""
+    k "Now, tell me, where were you headed right about now?"
 
 # TheHollowWorldWarrior4_ec0435e1 (line 42885)
 translate ru TheHollowWorldWarrior4_ec0435e1:
@@ -161,12 +161,12 @@ translate ru TheHollowWorldWarrior4_ec0435e1:
 # TheHollowWorldWarrior4_9fc4cfc8 (line 42889)
 translate ru TheHollowWorldWarrior4_9fc4cfc8:
     # s "Just wandering really."
-    s ""
+    s "Just wandering really."
 
 # TheHollowWorldWarrior4_5dd47bcf (line 42890)
 translate ru TheHollowWorldWarrior4_5dd47bcf:
     # s "Thought about drinking myself into a stupor, but I haven't the energy for it."
-    s ""
+    s "Thought about drinking myself into a stupor, but I haven't the energy for it."
 
 # TheHollowWorldWarrior4_0db38a13 (line 42891)
 translate ru TheHollowWorldWarrior4_0db38a13:
@@ -176,7 +176,7 @@ translate ru TheHollowWorldWarrior4_0db38a13:
 # TheHollowWorldWarrior4_121c7e2e (line 42892)
 translate ru TheHollowWorldWarrior4_121c7e2e:
     # k "You know, I started drinking less since we met and you started drinking more. Maybe I'm having a bad influence on you."
-    k ""
+    k "You know, I started drinking less since we met and you started drinking more. Maybe I'm having a bad influence on you."
 
 # TheHollowWorldWarrior4_c77930fa (line 42893)
 translate ru TheHollowWorldWarrior4_c77930fa:
@@ -186,7 +186,7 @@ translate ru TheHollowWorldWarrior4_c77930fa:
 # TheHollowWorldWarrior4_7b15a056 (line 42894)
 translate ru TheHollowWorldWarrior4_7b15a056:
     # s "You never had much of a good influence on me."
-    s ""
+    s "You never had much of a good influence on me."
 
 # TheHollowWorldWarrior4_3dd6a244 (line 42895)
 translate ru TheHollowWorldWarrior4_3dd6a244:
@@ -196,7 +196,7 @@ translate ru TheHollowWorldWarrior4_3dd6a244:
 # TheHollowWorldWarrior4_305bfaf6 (line 42896)
 translate ru TheHollowWorldWarrior4_305bfaf6:
     # k "How can you say that? I was such a good friend to you growing up!"
-    k ""
+    k "How can you say that? I was such a good friend to you growing up!"
 
 # TheHollowWorldWarrior4_e21fd2c9 (line 42897)
 translate ru TheHollowWorldWarrior4_e21fd2c9:
@@ -206,17 +206,17 @@ translate ru TheHollowWorldWarrior4_e21fd2c9:
 # TheHollowWorldWarrior4_70d10574 (line 42898)
 translate ru TheHollowWorldWarrior4_70d10574:
     # s "Are you kidding me? My dad would constantly scold me for playing with you."
-    s ""
+    s "Are you kidding me? My dad would constantly scold me for playing with you."
 
 # TheHollowWorldWarrior4_b7dc8e06 (line 42899)
 translate ru TheHollowWorldWarrior4_b7dc8e06:
     # s "Each time I came back to the castle, it would be late, and my dress would be a mess."
-    s ""
+    s "Each time I came back to the castle, it would be late, and my dress would be a mess."
 
 # TheHollowWorldWarrior4_4a9c48e2 (line 42900)
 translate ru TheHollowWorldWarrior4_4a9c48e2:
     # s "One time, he almost pulled an entire bird's nest out of my hair."
-    s ""
+    s "One time, he almost pulled an entire bird's nest out of my hair."
 
 # TheHollowWorldWarrior4_529e7e65 (line 42901)
 translate ru TheHollowWorldWarrior4_529e7e65:
@@ -226,12 +226,12 @@ translate ru TheHollowWorldWarrior4_529e7e65:
 # TheHollowWorldWarrior4_2d0a6fc6 (line 42902)
 translate ru TheHollowWorldWarrior4_2d0a6fc6:
     # k "Ooh yeah, I think we'd gone hunting for sparrow eggs that day."
-    k ""
+    k "Ooh yeah, I think we'd gone hunting for sparrow eggs that day."
 
 # TheHollowWorldWarrior4_829aeb47 (line 42903)
 translate ru TheHollowWorldWarrior4_829aeb47:
     # s "Only because you told me you had seen a sparrow egg that size of a human head, and I told you I didn't believe you!"
-    s ""
+    s "Only because you told me you had seen a sparrow egg that size of a human head, and I told you I didn't believe you!"
 
 # TheHollowWorldWarrior4_24be5cd0 (line 42904)
 translate ru TheHollowWorldWarrior4_24be5cd0:
@@ -241,7 +241,7 @@ translate ru TheHollowWorldWarrior4_24be5cd0:
 # TheHollowWorldWarrior4_ed51781f (line 42905)
 translate ru TheHollowWorldWarrior4_ed51781f:
     # k "Cause I did! I did see it!"
-    k ""
+    k "Cause I did! I did see it!"
 
 # TheHollowWorldWarrior4_812a6f32 (line 42906)
 translate ru TheHollowWorldWarrior4_812a6f32:
@@ -251,17 +251,17 @@ translate ru TheHollowWorldWarrior4_812a6f32:
 # TheHollowWorldWarrior4_25cefb4d (line 42907)
 translate ru TheHollowWorldWarrior4_25cefb4d:
     # s "You're a liar."
-    s ""
+    s "You're a liar."
 
 # TheHollowWorldWarrior4_c6e3e4d6 (line 42908)
 translate ru TheHollowWorldWarrior4_c6e3e4d6:
     # k "Nah! I swear, an egg as big as a human head."
-    k ""
+    k "Nah! I swear, an egg as big as a human head."
 
 # TheHollowWorldWarrior4_edb573e7 (line 42909)
 translate ru TheHollowWorldWarrior4_edb573e7:
     # k "Maybe it wasn't no sparrow egg, but I swear I saw it."
-    k ""
+    k "Maybe it wasn't no sparrow egg, but I swear I saw it."
 
 # TheHollowWorldWarrior4_41478a30 (line 42910)
 translate ru TheHollowWorldWarrior4_41478a30:
@@ -271,12 +271,12 @@ translate ru TheHollowWorldWarrior4_41478a30:
 # TheHollowWorldWarrior4_7db546fd (line 42911)
 translate ru TheHollowWorldWarrior4_7db546fd:
     # s "Sure you did."
-    s ""
+    s "Sure you did."
 
 # TheHollowWorldWarrior4_a374040c (line 42912)
 translate ru TheHollowWorldWarrior4_a374040c:
     # s "You just wanted an excuse for us to run around the woods again."
-    s ""
+    s "You just wanted an excuse for us to run around the woods again."
 
 # TheHollowWorldWarrior4_83c83a69 (line 42913)
 translate ru TheHollowWorldWarrior4_83c83a69:
@@ -286,7 +286,7 @@ translate ru TheHollowWorldWarrior4_83c83a69:
 # TheHollowWorldWarrior4_f7b194eb (line 42914)
 translate ru TheHollowWorldWarrior4_f7b194eb:
     # k "Fine, don't believe me, but I swear I saw an egg that big."
-    k ""
+    k "Fine, don't believe me, but I swear I saw an egg that big."
 
 # TheHollowWorldWarrior4_4e7c1673 (line 42915)
 translate ru TheHollowWorldWarrior4_4e7c1673:
@@ -296,17 +296,17 @@ translate ru TheHollowWorldWarrior4_4e7c1673:
 # TheHollowWorldWarrior4_4fa83577 (line 42916)
 translate ru TheHollowWorldWarrior4_4fa83577:
     # s "Sure, one day we'll find an egg that big."
-    s ""
+    s "Sure, one day we'll find an egg that big."
 
 # TheHollowWorldWarrior4_23644d20 (line 42917)
 translate ru TheHollowWorldWarrior4_23644d20:
     # k "And then you're gonna apologize to me."
-    k ""
+    k "And then you're gonna apologize to me."
 
 # TheHollowWorldWarrior4_9e67d060 (line 42918)
 translate ru TheHollowWorldWarrior4_9e67d060:
     # s "We'll see about that."
-    s ""
+    s "We'll see about that."
 
 # TheHollowWorldWarrior4_8cb5c479 (line 42919)
 translate ru TheHollowWorldWarrior4_8cb5c479:
@@ -316,7 +316,7 @@ translate ru TheHollowWorldWarrior4_8cb5c479:
 # TheHollowWorldWarrior4_0ac978e9 (line 42920)
 translate ru TheHollowWorldWarrior4_0ac978e9:
     # k "I didn't miss much of my old life, but I'll say, those days out in the forest with you...I missed those."
-    k ""
+    k "I didn't miss much of my old life, but I'll say, those days out in the forest with you...I missed those."
 
 # TheHollowWorldWarrior4_9c2280b2 (line 42921)
 translate ru TheHollowWorldWarrior4_9c2280b2:
@@ -326,22 +326,22 @@ translate ru TheHollowWorldWarrior4_9c2280b2:
 # TheHollowWorldWarrior4_ffd01676 (line 42922)
 translate ru TheHollowWorldWarrior4_ffd01676:
     # s "Yeah..."
-    s ""
+    s "Yeah..."
 
 # TheHollowWorldWarrior4_c5f2381f (line 42923)
 translate ru TheHollowWorldWarrior4_c5f2381f:
     # s "I remember I begged my mom and dad for a sister."
-    s ""
+    s "I remember I begged my mom and dad for a sister."
 
 # TheHollowWorldWarrior4_55920d9c (line 42924)
 translate ru TheHollowWorldWarrior4_55920d9c:
     # s "I was so small when Thomas was born, but I remember getting really angry that he wasn't a little sister."
-    s ""
+    s "I was so small when Thomas was born, but I remember getting really angry that he wasn't a little sister."
 
 # TheHollowWorldWarrior4_2011b7b2 (line 42925)
 translate ru TheHollowWorldWarrior4_2011b7b2:
     # s "But then my mom scolded me, she said that I was now a big sister and that I had to act like it..."
-    s ""
+    s "But then my mom scolded me, she said that I was now a big sister and that I had to act like it..."
 
 # TheHollowWorldWarrior4_ad3ec35f (line 42926)
 translate ru TheHollowWorldWarrior4_ad3ec35f:
@@ -351,7 +351,7 @@ translate ru TheHollowWorldWarrior4_ad3ec35f:
 # TheHollowWorldWarrior4_519af178 (line 42927)
 translate ru TheHollowWorldWarrior4_519af178:
     # s "I guess he turned out alright..."
-    s ""
+    s "I guess he turned out alright..."
 
 # TheHollowWorldWarrior4_dc884269 (line 42928)
 translate ru TheHollowWorldWarrior4_dc884269:
@@ -361,7 +361,7 @@ translate ru TheHollowWorldWarrior4_dc884269:
 # TheHollowWorldWarrior4_3d9bbff5 (line 42929)
 translate ru TheHollowWorldWarrior4_3d9bbff5:
     # k "I know..."
-    k ""
+    k "I know..."
 
 # TheHollowWorldWarrior4_467854bc (line 42930)
 translate ru TheHollowWorldWarrior4_467854bc:
@@ -371,7 +371,7 @@ translate ru TheHollowWorldWarrior4_467854bc:
 # TheHollowWorldWarrior4_daa92edc (line 42931)
 translate ru TheHollowWorldWarrior4_daa92edc:
     # s "You're not gonna tell me he's in a better place? Everyone else always tries to tell me some nice story like that."
-    s ""
+    s "You're not gonna tell me he's in a better place? Everyone else always tries to tell me some nice story like that."
 
 # TheHollowWorldWarrior4_0c96e9d9 (line 42932)
 translate ru TheHollowWorldWarrior4_0c96e9d9:
@@ -381,17 +381,17 @@ translate ru TheHollowWorldWarrior4_0c96e9d9:
 # TheHollowWorldWarrior4_70cdd542 (line 42933)
 translate ru TheHollowWorldWarrior4_70cdd542:
     # k "The rest of em can bullshit you. I'll just be honest."
-    k ""
+    k "The rest of em can bullshit you. I'll just be honest."
 
 # TheHollowWorldWarrior4_775e5d49 (line 42934)
 translate ru TheHollowWorldWarrior4_775e5d49:
     # k "I don't believe in much of anything like that."
-    k ""
+    k "I don't believe in much of anything like that."
 
 # TheHollowWorldWarrior4_f2469c32 (line 42935)
 translate ru TheHollowWorldWarrior4_f2469c32:
     # k "I believe...you loved your brother, and you remember him. That's a way he lives on, I guess, through you."
-    k ""
+    k "I believe...you loved your brother, and you remember him. That's a way he lives on, I guess, through you."
 
 # TheHollowWorldWarrior4_2b03d1d8 (line 42936)
 translate ru TheHollowWorldWarrior4_2b03d1d8:
@@ -401,7 +401,7 @@ translate ru TheHollowWorldWarrior4_2b03d1d8:
 # TheHollowWorldWarrior4_f0f0e7b4 (line 42937)
 translate ru TheHollowWorldWarrior4_f0f0e7b4:
     # s "That's a nice thought."
-    s ""
+    s "That's a nice thought."
 
 # TheHollowWorldWarrior4_87309e52 (line 42938)
 translate ru TheHollowWorldWarrior4_87309e52:
@@ -411,7 +411,7 @@ translate ru TheHollowWorldWarrior4_87309e52:
 # TheHollowWorldWarrior4_d16f9e67 (line 42939)
 translate ru TheHollowWorldWarrior4_d16f9e67:
     # k "Yeah, surprise surprise, Kate can be a nice person sometimes. I know I come across heartless and all that."
-    k ""
+    k "Yeah, surprise surprise, Kate can be a nice person sometimes. I know I come across heartless and all that."
 
 # TheHollowWorldWarrior4_1d555194 (line 42940)
 translate ru TheHollowWorldWarrior4_1d555194:
@@ -421,7 +421,7 @@ translate ru TheHollowWorldWarrior4_1d555194:
 # TheHollowWorldWarrior4_adcaa1e0 (line 42941)
 translate ru TheHollowWorldWarrior4_adcaa1e0:
     # s "Nah, I know you're actually a softie."
-    s ""
+    s "Nah, I know you're actually a softie."
 
 # TheHollowWorldWarrior4_7d1eaec3 (line 42942)
 translate ru TheHollowWorldWarrior4_7d1eaec3:
@@ -431,7 +431,7 @@ translate ru TheHollowWorldWarrior4_7d1eaec3:
 # TheHollowWorldWarrior4_ee64006a (line 42943)
 translate ru TheHollowWorldWarrior4_ee64006a:
     # k "You ever tell that secret to anyone here, I'll beat the shit out of you."
-    k ""
+    k "You ever tell that secret to anyone here, I'll beat the shit out of you."
 
 # TheHollowWorldWarrior4_5a76341e (line 42944)
 translate ru TheHollowWorldWarrior4_5a76341e:
@@ -486,7 +486,7 @@ translate ru TheHollowWorldWarrior4_fcfbdec3:
 # TheHollowWorldWarrior4_ddffc2aa (line 42977)
 translate ru TheHollowWorldWarrior4_ddffc2aa:
     # g "Hey."
-    g ""
+    g "Hey."
 
 # TheHollowWorldWarrior4_ff17e4f3 (line 42978)
 translate ru TheHollowWorldWarrior4_ff17e4f3:
@@ -496,27 +496,27 @@ translate ru TheHollowWorldWarrior4_ff17e4f3:
 # TheHollowWorldWarrior4_c996f80c (line 42979)
 translate ru TheHollowWorldWarrior4_c996f80c:
     # g "You thinking about giving him a piece of your mind?"
-    g ""
+    g "You thinking about giving him a piece of your mind?"
 
 # TheHollowWorldWarrior4_687fc0d8 (line 42980)
 translate ru TheHollowWorldWarrior4_687fc0d8:
     # s "Is it that obvious?"
-    s ""
+    s "Is it that obvious?"
 
 # TheHollowWorldWarrior4_291d09b6 (line 42981)
 translate ru TheHollowWorldWarrior4_291d09b6:
     # g "I've been outside his tent a few times too, thinking the same things."
-    g ""
+    g "I've been outside his tent a few times too, thinking the same things."
 
 # TheHollowWorldWarrior4_4db88671 (line 42982)
 translate ru TheHollowWorldWarrior4_4db88671:
     # g "Save yourself the trouble."
-    g ""
+    g "Save yourself the trouble."
 
 # TheHollowWorldWarrior4_7c2be986 (line 42983)
 translate ru TheHollowWorldWarrior4_7c2be986:
     # g "You're not gonna do it any more than I am."
-    g ""
+    g "You're not gonna do it any more than I am."
 
 # TheHollowWorldWarrior4_049ff457 (line 42984)
 translate ru TheHollowWorldWarrior4_049ff457:
@@ -526,7 +526,7 @@ translate ru TheHollowWorldWarrior4_049ff457:
 # TheHollowWorldWarrior4_ec8112a9 (line 42985)
 translate ru TheHollowWorldWarrior4_ec8112a9:
     # g "Follow me, get a drink."
-    g ""
+    g "Follow me, get a drink."
 
 # TheHollowWorldWarrior4_e91aca29 (line 42986)
 translate ru TheHollowWorldWarrior4_e91aca29:
@@ -536,7 +536,7 @@ translate ru TheHollowWorldWarrior4_e91aca29:
 # TheHollowWorldWarrior4_f2b8179f (line 42987)
 translate ru TheHollowWorldWarrior4_f2b8179f:
     # s "This is where you sit all by yourself?"
-    s ""
+    s "This is where you sit all by yourself?"
 
 # TheHollowWorldWarrior4_5f7a062c (line 42988)
 translate ru TheHollowWorldWarrior4_5f7a062c:
@@ -546,12 +546,12 @@ translate ru TheHollowWorldWarrior4_5f7a062c:
 # TheHollowWorldWarrior4_889a946e (line 42989)
 translate ru TheHollowWorldWarrior4_889a946e:
     # g "Sometimes."
-    g ""
+    g "Sometimes."
 
 # TheHollowWorldWarrior4_6c7371d1 (line 42990)
 translate ru TheHollowWorldWarrior4_6c7371d1:
     # g "I get days where I can't be alone, and then I get days where I can't stand to be around people."
-    g ""
+    g "I get days where I can't be alone, and then I get days where I can't stand to be around people."
 
 # TheHollowWorldWarrior4_56fa2618 (line 42991)
 translate ru TheHollowWorldWarrior4_56fa2618:
@@ -561,7 +561,7 @@ translate ru TheHollowWorldWarrior4_56fa2618:
 # TheHollowWorldWarrior4_126e13e4 (line 42992)
 translate ru TheHollowWorldWarrior4_126e13e4:
     # s "Don't you want to be alone now then?"
-    s ""
+    s "Don't you want to be alone now then?"
 
 # TheHollowWorldWarrior4_ed2c49cc (line 42993)
 translate ru TheHollowWorldWarrior4_ed2c49cc:
@@ -571,7 +571,7 @@ translate ru TheHollowWorldWarrior4_ed2c49cc:
 # TheHollowWorldWarrior4_fb39b2c0 (line 42994)
 translate ru TheHollowWorldWarrior4_fb39b2c0:
     # g "Maybe, but you don't really seem to count in my mind, for some reason."
-    g ""
+    g "Maybe, but you don't really seem to count in my mind, for some reason."
 
 # TheHollowWorldWarrior4_d95c79d2 (line 42995)
 translate ru TheHollowWorldWarrior4_d95c79d2:
@@ -581,7 +581,7 @@ translate ru TheHollowWorldWarrior4_d95c79d2:
 # TheHollowWorldWarrior4_80f9e81e (line 42996)
 translate ru TheHollowWorldWarrior4_80f9e81e:
     # g "So, what's got you troubled?"
-    g ""
+    g "So, what's got you troubled?"
 
 # TheHollowWorldWarrior4_6d256ca7 (line 42997)
 translate ru TheHollowWorldWarrior4_6d256ca7:
@@ -591,22 +591,22 @@ translate ru TheHollowWorldWarrior4_6d256ca7:
 # TheHollowWorldWarrior4_12efee70 (line 42998)
 translate ru TheHollowWorldWarrior4_12efee70:
     # s "Whose to say I got trouble?"
-    s ""
+    s "Whose to say I got trouble?"
 
 # TheHollowWorldWarrior4_874a9055 (line 42999)
 translate ru TheHollowWorldWarrior4_874a9055:
     # g "Well, first of all, you're walking all about the camp sulking and alone, so that's a pretty good hint."
-    g ""
+    g "Well, first of all, you're walking all about the camp sulking and alone, so that's a pretty good hint."
 
 # TheHollowWorldWarrior4_c9cfb420 (line 43000)
 translate ru TheHollowWorldWarrior4_c9cfb420:
     # s "Fair."
-    s ""
+    s "Fair."
 
 # TheHollowWorldWarrior4_36d2dadb (line 43001)
 translate ru TheHollowWorldWarrior4_36d2dadb:
     # g "And second, you're always troubled by something."
-    g ""
+    g "And second, you're always troubled by something."
 
 # TheHollowWorldWarrior4_83999894 (line 43002)
 translate ru TheHollowWorldWarrior4_83999894:
@@ -616,17 +616,17 @@ translate ru TheHollowWorldWarrior4_83999894:
 # TheHollowWorldWarrior4_a9fade3f (line 43003)
 translate ru TheHollowWorldWarrior4_a9fade3f:
     # s "You make me sound morose."
-    s ""
+    s "You make me sound morose."
 
 # TheHollowWorldWarrior4_00585ef1 (line 43004)
 translate ru TheHollowWorldWarrior4_00585ef1:
     # g "Call it...contemplative."
-    g ""
+    g "Call it...contemplative."
 
 # TheHollowWorldWarrior4_2f5b04dc (line 43005)
 translate ru TheHollowWorldWarrior4_2f5b04dc:
     # s "That's just a polite way of saying morose."
-    s ""
+    s "That's just a polite way of saying morose."
 
 # TheHollowWorldWarrior4_c3a27f97 (line 43006)
 translate ru TheHollowWorldWarrior4_c3a27f97:
@@ -636,7 +636,7 @@ translate ru TheHollowWorldWarrior4_c3a27f97:
 # TheHollowWorldWarrior4_280f7a36 (line 43007)
 translate ru TheHollowWorldWarrior4_280f7a36:
     # g "Yeah, I guess that's true."
-    g ""
+    g "Yeah, I guess that's true."
 
 # TheHollowWorldWarrior4_f608ba49 (line 43008)
 translate ru TheHollowWorldWarrior4_f608ba49:
@@ -646,7 +646,7 @@ translate ru TheHollowWorldWarrior4_f608ba49:
 # TheHollowWorldWarrior4_d43ef739 (line 43009)
 translate ru TheHollowWorldWarrior4_d43ef739:
     # s "You made peace with all this yet?"
-    s ""
+    s "You made peace with all this yet?"
 
 # TheHollowWorldWarrior4_32814634 (line 43010)
 translate ru TheHollowWorldWarrior4_32814634:
@@ -656,12 +656,12 @@ translate ru TheHollowWorldWarrior4_32814634:
 # TheHollowWorldWarrior4_a192e3af (line 43011)
 translate ru TheHollowWorldWarrior4_a192e3af:
     # g "This foolish expedition? Nah, still as stupid as the day we got off the road, but..."
-    g ""
+    g "This foolish expedition? Nah, still as stupid as the day we got off the road, but..."
 
 # TheHollowWorldWarrior4_85204c67 (line 43012)
 translate ru TheHollowWorldWarrior4_85204c67:
     # g "What's the point in worrying now, I guess."
-    g ""
+    g "What's the point in worrying now, I guess."
 
 # TheHollowWorldWarrior4_02344281 (line 43013)
 translate ru TheHollowWorldWarrior4_02344281:
@@ -671,7 +671,7 @@ translate ru TheHollowWorldWarrior4_02344281:
 # TheHollowWorldWarrior4_381c300f (line 43014)
 translate ru TheHollowWorldWarrior4_381c300f:
     # s "How much longer do you think it will be till we get to Nauyziri?"
-    s ""
+    s "How much longer do you think it will be till we get to Nauyziri?"
 
 # TheHollowWorldWarrior4_37954eda (line 43015)
 translate ru TheHollowWorldWarrior4_37954eda:
@@ -681,7 +681,7 @@ translate ru TheHollowWorldWarrior4_37954eda:
 # TheHollowWorldWarrior4_87c8bb19 (line 43016)
 translate ru TheHollowWorldWarrior4_87c8bb19:
     # g "A week if we're lucky, two if we're off course....fuck it, maybe we got turned around somewhere and we're closer to Bagrad."
-    g ""
+    g "A week if we're lucky, two if we're off course....fuck it, maybe we got turned around somewhere and we're closer to Bagrad."
 
 # TheHollowWorldWarrior4_1a9dc57d (line 43017)
 translate ru TheHollowWorldWarrior4_1a9dc57d:
@@ -691,12 +691,12 @@ translate ru TheHollowWorldWarrior4_1a9dc57d:
 # TheHollowWorldWarrior4_3e1e36ce (line 43018)
 translate ru TheHollowWorldWarrior4_3e1e36ce:
     # g "I don't really wanna talk about that anymore."
-    g ""
+    g "I don't really wanna talk about that anymore."
 
 # TheHollowWorldWarrior4_2f5ad6fd (line 43019)
 translate ru TheHollowWorldWarrior4_2f5ad6fd:
     # g "I waste enough time on that shit when we're actually marching."
-    g ""
+    g "I waste enough time on that shit when we're actually marching."
 
 # TheHollowWorldWarrior4_4ed5cad5 (line 43020)
 translate ru TheHollowWorldWarrior4_4ed5cad5:
@@ -706,7 +706,7 @@ translate ru TheHollowWorldWarrior4_4ed5cad5:
 # TheHollowWorldWarrior4_e40279d3 (line 43021)
 translate ru TheHollowWorldWarrior4_e40279d3:
     # s "So, what do you wanna talk about then?"
-    s ""
+    s "So, what do you wanna talk about then?"
 
 # TheHollowWorldWarrior4_266c68c1 (line 43022)
 translate ru TheHollowWorldWarrior4_266c68c1:
@@ -716,12 +716,12 @@ translate ru TheHollowWorldWarrior4_266c68c1:
 # TheHollowWorldWarrior4_23585828 (line 43023)
 translate ru TheHollowWorldWarrior4_23585828:
     # g "Hmm, how about..."
-    g ""
+    g "Hmm, how about..."
 
 # TheHollowWorldWarrior4_a955a049 (line 43024)
 translate ru TheHollowWorldWarrior4_a955a049:
     # g "Two lies and a truth."
-    g ""
+    g "Two lies and a truth."
 
 # TheHollowWorldWarrior4_5c38cb32 (line 43025)
 translate ru TheHollowWorldWarrior4_5c38cb32:
@@ -731,12 +731,12 @@ translate ru TheHollowWorldWarrior4_5c38cb32:
 # TheHollowWorldWarrior4_e56849aa (line 43026)
 translate ru TheHollowWorldWarrior4_e56849aa:
     # s "What's that?"
-    s ""
+    s "What's that?"
 
 # TheHollowWorldWarrior4_a68ada93 (line 43027)
 translate ru TheHollowWorldWarrior4_a68ada93:
     # g "You never played?"
-    g ""
+    g "You never played?"
 
 # TheHollowWorldWarrior4_b45b04f3 (line 43028)
 translate ru TheHollowWorldWarrior4_b45b04f3:
@@ -746,7 +746,7 @@ translate ru TheHollowWorldWarrior4_b45b04f3:
 # TheHollowWorldWarrior4_77c2d4c7 (line 43029)
 translate ru TheHollowWorldWarrior4_77c2d4c7:
     # g "Well, I'll tell you two lies about myself, and one truth, and you can guess which is the truth."
-    g ""
+    g "Well, I'll tell you two lies about myself, and one truth, and you can guess which is the truth."
 
 # TheHollowWorldWarrior4_a5e15c96 (line 43030)
 translate ru TheHollowWorldWarrior4_a5e15c96:
@@ -756,7 +756,7 @@ translate ru TheHollowWorldWarrior4_a5e15c96:
 # TheHollowWorldWarrior4_97bf43ad (line 43031)
 translate ru TheHollowWorldWarrior4_97bf43ad:
     # s "Sure, let's play."
-    s ""
+    s "Sure, let's play."
 
 # TheHollowWorldWarrior4_0d6f268d (line 43032)
 translate ru TheHollowWorldWarrior4_0d6f268d:
@@ -771,7 +771,7 @@ translate ru TheHollowWorldWarrior4_81443c8b:
 # TheHollowWorldWarrior4_8f2c5194 (line 43034)
 translate ru TheHollowWorldWarrior4_8f2c5194:
     # g "I got it, you ready?"
-    g ""
+    g "I got it, you ready?"
 
 # TheHollowWorldWarrior4_322109e8 (line 43035)
 translate ru TheHollowWorldWarrior4_322109e8:
@@ -781,52 +781,37 @@ translate ru TheHollowWorldWarrior4_322109e8:
 # TheHollowWorldWarrior4_f44131f6 (line 43036)
 translate ru TheHollowWorldWarrior4_f44131f6:
     # g "Ok, here we go..."
-    g ""
+    g "Ok, here we go..."
 
 # TheHollowWorldWarrior4_2ea671eb (line 43037)
 translate ru TheHollowWorldWarrior4_2ea671eb:
     # g "I am a wanted man in Mythra."
-    g ""
+    g "I am a wanted man in Mythra."
 
 # TheHollowWorldWarrior4_31a83768 (line 43038)
 translate ru TheHollowWorldWarrior4_31a83768:
     # g "I have fucked more men than women."
-    g ""
+    g "I have fucked more men than women."
 
 # TheHollowWorldWarrior4_17ff529e (line 43039)
 translate ru TheHollowWorldWarrior4_17ff529e:
     # g "I have a sister who can't stand me."
-    g ""
+    g "I have a sister who can't stand me."
 
 # TheHollowWorldWarrior4_78f23917 (line 43040)
 translate ru TheHollowWorldWarrior4_78f23917:
     # "Sarah scratched the back of her head, trying to figure out the answer...which one was the truth."
     ""
 
-# TheHollowWorldWarrior4_e018ded9 (line 43043)
-translate ru TheHollowWorldWarrior4_e018ded9:
-    # "The truth is you're a wanted man"
-    "The truth is you're a wanted man" ""
-
-# TheHollowWorldWarrior4_9cce3695 (line 43050)
-translate ru TheHollowWorldWarrior4_9cce3695:
-    # "The truth is you fucked more men than women"
-    "The truth is you fucked more men than women" ""
-
-# TheHollowWorldWarrior4_e9a4e9e9 (line 43057)
-translate ru TheHollowWorldWarrior4_e9a4e9e9:
-    # "The truth is that you have a sister who can't stand you"
-    "The truth is that you have a sister who can't stand you" ""
-
 # TheHollowWorldWarrior4_e18143db (line 43078)
 translate ru TheHollowWorldWarrior4_e18143db:
     # g "Anyway!"
-    g ""
+    g "Anyway!"
 
 # TheHollowWorldWarrior4_41a3e071 (line 43079)
 translate ru TheHollowWorldWarrior4_41a3e071:
     # g "Now it's my turn, time you tell me your truths and a lie."
-    g ""
+    g "Now it's my turn, time you tell me your truths and a lie."
 
 # TheHollowWorldWarrior4_e51045cc (line 43080)
 translate ru TheHollowWorldWarrior4_e51045cc:
@@ -836,37 +821,22 @@ translate ru TheHollowWorldWarrior4_e51045cc:
 # TheHollowWorldWarrior4_85368d73 (line 43081)
 translate ru TheHollowWorldWarrior4_85368d73:
     # s "Alright..."
-    s ""
+    s "Alright..."
 
 # TheHollowWorldWarrior4_32cad43d (line 43082)
 translate ru TheHollowWorldWarrior4_32cad43d:
     # s "I was once invited to study magic..."
-    s ""
+    s "I was once invited to study magic..."
 
 # TheHollowWorldWarrior4_42274a6a (line 43083)
 translate ru TheHollowWorldWarrior4_42274a6a:
     # s "I have three sisters..."
-    s ""
+    s "I have three sisters..."
 
 # TheHollowWorldWarrior4_756092f8 (line 43084)
 translate ru TheHollowWorldWarrior4_756092f8:
     # s "And..."
-    s ""
-
-# TheHollowWorldWarrior4_78f364cb (line 43088)
-translate ru TheHollowWorldWarrior4_78f364cb:
-    # "I'm a princess of noble birth."
-    "I'm a princess of noble birth." ""
-
-# TheHollowWorldWarrior4_baa9ce43 (line 43112)
-translate ru TheHollowWorldWarrior4_baa9ce43:
-    # "I was born in Rosanna"
-    "I was born in Rosanna" ""
-
-# TheHollowWorldWarrior4_506d5582 (line 43130)
-translate ru TheHollowWorldWarrior4_506d5582:
-    # "I killed a young man"
-    "I killed a young man" ""
+    s "And..."
 
 # TheHollowWorldWarrior4_1be13d5a (line 43176)
 translate ru TheHollowWorldWarrior4_1be13d5a:
@@ -881,17 +851,17 @@ translate ru TheHollowWorldWarrior4_7567e74f:
 # TheHollowWorldWarrior4_c726b1e8 (line 43178)
 translate ru TheHollowWorldWarrior4_c726b1e8:
     # s "I think that's enough fun for tonight."
-    s ""
+    s "I think that's enough fun for tonight."
 
 # TheHollowWorldWarrior4_5502d90d (line 43179)
 translate ru TheHollowWorldWarrior4_5502d90d:
     # g "Really? We only played one round."
-    g ""
+    g "Really? We only played one round."
 
 # TheHollowWorldWarrior4_35f7e864 (line 43180)
 translate ru TheHollowWorldWarrior4_35f7e864:
     # s "Well, less we die out in this forsaken desert, I'm sure you'll get a chance for a re-match."
-    s ""
+    s "Well, less we die out in this forsaken desert, I'm sure you'll get a chance for a re-match."
 
 # TheHollowWorldWarrior4_aad0b720 (line 43181)
 translate ru TheHollowWorldWarrior4_aad0b720:
@@ -901,7 +871,7 @@ translate ru TheHollowWorldWarrior4_aad0b720:
 # TheHollowWorldWarrior4_6f80bfba (line 43182)
 translate ru TheHollowWorldWarrior4_6f80bfba:
     # g "Sure, but I promise I'm gonna win."
-    g ""
+    g "Sure, but I promise I'm gonna win."
 
 # TheHollowWorldWarrior4_2e7007dc (line 43183)
 translate ru TheHollowWorldWarrior4_2e7007dc:
@@ -911,12 +881,12 @@ translate ru TheHollowWorldWarrior4_2e7007dc:
 # TheHollowWorldWarrior4_b3eef7bf (line 43184)
 translate ru TheHollowWorldWarrior4_b3eef7bf:
     # s "Sure, but this was just a warm-up round. Next time we wager on it."
-    s ""
+    s "Sure, but this was just a warm-up round. Next time we wager on it."
 
 # TheHollowWorldWarrior4_85c13edb (line 43185)
 translate ru TheHollowWorldWarrior4_85c13edb:
     # g "Deal."
-    g ""
+    g "Deal."
 
 # TheHollowWorldWarrior4_6059adbe (line 43186)
 translate ru TheHollowWorldWarrior4_6059adbe:

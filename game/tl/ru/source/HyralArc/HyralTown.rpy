@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: HyralTown
-# Total blocks: 156
+# Total blocks: 154
 
 # HyralTown_d3fa8f69 (line 34812)
 translate ru HyralTown_d3fa8f69:
@@ -11,7 +11,7 @@ translate ru HyralTown_d3fa8f69:
 # HyralTown_f69aa224 (line 34813)
 translate ru HyralTown_f69aa224:
     # s "No...we can't make a fire."
-    s ""
+    s "No...we can't make a fire."
 
 # HyralTown_ec79deb9 (line 34814)
 translate ru HyralTown_ec79deb9:
@@ -21,22 +21,22 @@ translate ru HyralTown_ec79deb9:
 # HyralTown_406d4ca2 (line 34815)
 translate ru HyralTown_406d4ca2:
     # nick "What?"
-    nick ""
+    nick "What?"
 
 # HyralTown_bd3c53d8 (line 34816)
 translate ru HyralTown_bd3c53d8:
     # s "It will be night soon."
-    s ""
+    s "It will be night soon."
 
 # HyralTown_43280e75 (line 34817)
 translate ru HyralTown_43280e75:
     # s "A fire will stand out in the dark."
-    s ""
+    s "A fire will stand out in the dark."
 
 # HyralTown_4375bdd7 (line 34818)
 translate ru HyralTown_4375bdd7:
     # s "This mountain is crawling with Orc tribes. We might as well just surrender ourselves now."
-    s ""
+    s "This mountain is crawling with Orc tribes. We might as well just surrender ourselves now."
 
 # HyralTown_8bf1d3a3 (line 34819)
 translate ru HyralTown_8bf1d3a3:
@@ -46,27 +46,27 @@ translate ru HyralTown_8bf1d3a3:
 # HyralTown_03ee00cd (line 34820)
 translate ru HyralTown_03ee00cd:
     # s "No...we will rest under the trees, shielded from the worst of the storm."
-    s ""
+    s "No...we will rest under the trees, shielded from the worst of the storm."
 
 # HyralTown_4ef0a951 (line 34821)
 translate ru HyralTown_4ef0a951:
     # s "And we will keep our bodies closer for heat."
-    s ""
+    s "And we will keep our bodies closer for heat."
 
 # HyralTown_bfd58fa9 (line 34822)
 translate ru HyralTown_bfd58fa9:
     # nick "That won't be enough!"
-    nick ""
+    nick "That won't be enough!"
 
 # HyralTown_dd6443d3 (line 34823)
 translate ru HyralTown_dd6443d3:
     # s "Well it's the only option we have."
-    s ""
+    s "Well it's the only option we have."
 
 # HyralTown_0bb74f25 (line 34824)
 translate ru HyralTown_0bb74f25:
     # s "Making a fire is suicide. End of discussion!"
-    s ""
+    s "Making a fire is suicide. End of discussion!"
 
 # HyralTown_c2d9bb7b (line 34830)
 translate ru HyralTown_c2d9bb7b:
@@ -156,7 +156,7 @@ translate ru HyralTown_6cf74892:
 # HyralTown_27197a5c (line 34847)
 translate ru HyralTown_27197a5c:
     # s "Come, we need to press on."
-    s ""
+    s "Come, we need to press on."
 
 # HyralTown_d783d471 (line 34848)
 translate ru HyralTown_d783d471:
@@ -226,7 +226,7 @@ translate ru HyralTown_6994e476:
 # HyralTown_4452e2bb (line 34866)
 translate ru HyralTown_4452e2bb:
     # s "Nick..."
-    s ""
+    s "Nick..."
 
 # HyralTown_567b73a5 (line 34867)
 translate ru HyralTown_567b73a5:
@@ -236,7 +236,7 @@ translate ru HyralTown_567b73a5:
 # HyralTown_d1a6ffd6 (line 34868)
 translate ru HyralTown_d1a6ffd6:
     # s "Nick! Look!"
-    s ""
+    s "Nick! Look!"
 
 # HyralTown_93a1ce40 (line 34869)
 translate ru HyralTown_93a1ce40:
@@ -246,7 +246,7 @@ translate ru HyralTown_93a1ce40:
 # HyralTown_5b63db4b (line 34870)
 translate ru HyralTown_5b63db4b:
     # s "Look! The town!"
-    s ""
+    s "Look! The town!"
 
 # HyralTown_c10215f2 (line 34871)
 translate ru HyralTown_c10215f2:
@@ -261,7 +261,7 @@ translate ru HyralTown_5f207e17:
 # HyralTown_0e8a5976 (line 34873)
 translate ru HyralTown_0e8a5976:
     # nick "The...the town..."
-    nick ""
+    nick "The...the town..."
 
 # HyralTown_9b8f76d5 (line 34874)
 translate ru HyralTown_9b8f76d5:
@@ -311,7 +311,7 @@ translate ru HyralTown_a686962a:
 # HyralTown_d170b299 (line 34888)
 translate ru HyralTown_d170b299:
     # s "Ship...ship..."
-    s ""
+    s "Ship...ship..."
 
 # HyralTown_aa51f99c (line 34889)
 translate ru HyralTown_aa51f99c:
@@ -466,7 +466,7 @@ translate ru HyralTown_c0fbf1e1:
 # HyralTown_5b6e6817 (line 34924)
 translate ru HyralTown_5b6e6817:
     # s "I heard...I'm just glad we avoided them."
-    s ""
+    s "I heard...I'm just glad we avoided them."
 
 # HyralTown_d45a7cce (line 34925)
 translate ru HyralTown_d45a7cce:
@@ -481,7 +481,7 @@ translate ru HyralTown_c5d02988:
 # HyralTown_f7eeb3e1 (line 34927)
 translate ru HyralTown_f7eeb3e1:
     # nick "Are we safe here?"
-    nick ""
+    nick "Are we safe here?"
 
 # HyralTown_fce8c0d2 (line 34928)
 translate ru HyralTown_fce8c0d2:
@@ -711,7 +711,7 @@ translate ru HyralTown_c5a9082b:
 # HyralTown_8e1d2c39 (line 34983)
 translate ru HyralTown_8e1d2c39:
     # nick "Hey."
-    nick ""
+    nick "Hey."
 
 # HyralTown_3e6a63d4 (line 34984)
 translate ru HyralTown_3e6a63d4:
@@ -721,7 +721,7 @@ translate ru HyralTown_3e6a63d4:
 # HyralTown_8cf4e1f9 (line 34985)
 translate ru HyralTown_8cf4e1f9:
     # s "Hey."
-    s ""
+    s "Hey."
 
 # HyralTown_5fe8767d (line 34986)
 translate ru HyralTown_5fe8767d:
@@ -731,7 +731,7 @@ translate ru HyralTown_5fe8767d:
 # HyralTown_07dd5ec4 (line 34987)
 translate ru HyralTown_07dd5ec4:
     # nick "Get any sleep?"
-    nick ""
+    nick "Get any sleep?"
 
 # HyralTown_87a4fe15 (line 34988)
 translate ru HyralTown_87a4fe15:
@@ -741,12 +741,12 @@ translate ru HyralTown_87a4fe15:
 # HyralTown_b36f0f0f (line 34989)
 translate ru HyralTown_b36f0f0f:
     # s "I think I did...but I can't remember."
-    s ""
+    s "I think I did...but I can't remember."
 
 # HyralTown_be081f3d (line 34990)
 translate ru HyralTown_be081f3d:
     # s "Honestly, all of this still feels...unreal."
-    s ""
+    s "Honestly, all of this still feels...unreal."
 
 # HyralTown_d9e2d5c9 (line 34991)
 translate ru HyralTown_d9e2d5c9:
@@ -756,12 +756,12 @@ translate ru HyralTown_d9e2d5c9:
 # HyralTown_54d28b45 (line 34992)
 translate ru HyralTown_54d28b45:
     # nick "I know what you meant."
-    nick ""
+    nick "I know what you meant."
 
 # HyralTown_3784ebf3 (line 34993)
 translate ru HyralTown_3784ebf3:
     # nick "I didn't want to say anything when we were out there...but I was sure we would die."
-    nick ""
+    nick "I didn't want to say anything when we were out there...but I was sure we would die."
 
 # HyralTown_37677994 (line 34994)
 translate ru HyralTown_37677994:
@@ -771,15 +771,5 @@ translate ru HyralTown_37677994:
 # HyralTown_401aef58 (line 34995)
 translate ru HyralTown_401aef58:
     # nick "So...given any thought to what we do now?"
-    nick ""
-
-# HyralTown_f1bcda82 (line 34998)
-translate ru HyralTown_f1bcda82:
-    # "There is no us"
-    "There is no us" ""
-
-# HyralTown_371367f4 (line 35104)
-translate ru HyralTown_371367f4:
-    # "Maybe we could make a life here"
-    "Maybe we could make a life here" ""
+    nick "So...given any thought to what we do now?"
 

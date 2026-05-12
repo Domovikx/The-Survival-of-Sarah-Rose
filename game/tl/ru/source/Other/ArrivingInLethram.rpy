@@ -51,7 +51,7 @@ translate ru ArrivingInLethram_be333bf2:
 # ArrivingInLethram_e9037866 (line 24586)
 translate ru ArrivingInLethram_e9037866:
     # k "Don't let go, Lethram is a big city, and you don't want to end up lost."
-    k ""
+    k "Don't let go, Lethram is a big city, and you don't want to end up lost."
 
 # ArrivingInLethram_94f71b61 (line 24587)
 translate ru ArrivingInLethram_94f71b61:
@@ -81,12 +81,12 @@ translate ru ArrivingInLethram_04585668:
 # ArrivingInLethram_dd7d0678 (line 24592)
 translate ru ArrivingInLethram_dd7d0678:
     # s "How much farther is it?"
-    s ""
+    s "How much farther is it?"
 
 # ArrivingInLethram_b779fdc1 (line 24593)
 translate ru ArrivingInLethram_b779fdc1:
     # k "It's not much further. The camp is set up in one of the old marketplaces."
-    k ""
+    k "It's not much further. The camp is set up in one of the old marketplaces."
 
 # ArrivingInLethram_14162b37 (line 24594)
 translate ru ArrivingInLethram_14162b37:
@@ -96,7 +96,7 @@ translate ru ArrivingInLethram_14162b37:
 # ArrivingInLethram_556be596 (line 24595)
 translate ru ArrivingInLethram_556be596:
     # k "It's just up this road and off to the left."
-    k ""
+    k "It's just up this road and off to the left."
 
 # ArrivingInLethram_a351836f (line 24596)
 translate ru ArrivingInLethram_a351836f:
@@ -126,7 +126,7 @@ translate ru ArrivingInLethram_81a3e350:
 # ArrivingInLethram_a4814428 (line 24601)
 translate ru ArrivingInLethram_a4814428:
     # k "We're here."
-    k ""
+    k "We're here."
 
 # ArrivingInLethram_5a108265 (line 24609)
 translate ru ArrivingInLethram_5a108265:
@@ -231,7 +231,7 @@ translate ru ArrivingInLethram_dc5d1a1a:
 # ArrivingInLethram_ee029628 (line 24635)
 translate ru ArrivingInLethram_ee029628:
     # k "Don't worry. Keep to yourself and everyone will treat you just fine."
-    k ""
+    k "Don't worry. Keep to yourself and everyone will treat you just fine."
 
 # ArrivingInLethram_526aa6d3 (line 24636)
 translate ru ArrivingInLethram_526aa6d3:
@@ -261,7 +261,7 @@ translate ru ArrivingInLethram_0744d0c2:
 # ArrivingInLethram_ea99590f (line 24648)
 translate ru ArrivingInLethram_ea99590f:
     # k "We made it..."
-    k ""
+    k "We made it..."
 
 # ArrivingInLethram_a4409e7a (line 24649)
 translate ru ArrivingInLethram_a4409e7a:
@@ -276,7 +276,7 @@ translate ru ArrivingInLethram_9a6d72c7:
 # ArrivingInLethram_1a645450 (line 24651)
 translate ru ArrivingInLethram_1a645450:
     # s "This is where I'll be safe?"
-    s ""
+    s "This is where I'll be safe?"
 
 # ArrivingInLethram_7b8cfbeb (line 24652)
 translate ru ArrivingInLethram_7b8cfbeb:
@@ -291,22 +291,22 @@ translate ru ArrivingInLethram_d161aec9:
 # ArrivingInLethram_25c46a06 (line 24654)
 translate ru ArrivingInLethram_25c46a06:
     # k "I know it looks like...well...what it looks like, but trust me, these people will keep you safe...just like they kept me safe when they found me all those years ago."
-    k ""
+    k "I know it looks like...well...what it looks like, but trust me, these people will keep you safe...just like they kept me safe when they found me all those years ago."
 
 # ArrivingInLethram_b3ff207a (line 24655)
 translate ru ArrivingInLethram_b3ff207a:
     # s "So what do I do? Just wait here until I can go back home?"
-    s ""
+    s "So what do I do? Just wait here until I can go back home?"
 
 # ArrivingInLethram_c8cbfe9f (line 24656)
 translate ru ArrivingInLethram_c8cbfe9f:
     # k "For now, I'm trying to get you a meeting with Vaelen, he's the leader of the mercenary company. He'll tell you how we can keep you safe, and when you can go home."
-    k ""
+    k "For now, I'm trying to get you a meeting with Vaelen, he's the leader of the mercenary company. He'll tell you how we can keep you safe, and when you can go home."
 
 # ArrivingInLethram_1864aeb1 (line 24657)
 translate ru ArrivingInLethram_1864aeb1:
     # s "Didn't my father tell you what the danger was, though?"
-    s ""
+    s "Didn't my father tell you what the danger was, though?"
 
 # ArrivingInLethram_07857682 (line 24658)
 translate ru ArrivingInLethram_07857682:
@@ -316,7 +316,7 @@ translate ru ArrivingInLethram_07857682:
 # ArrivingInLethram_d6e16944 (line 24659)
 translate ru ArrivingInLethram_d6e16944:
     # k "Sarah...just have faith...ok? It will all work out."
-    k ""
+    k "Sarah...just have faith...ok? It will all work out."
 
 # ArrivingInLethram_cefcdeff (line 24660)
 translate ru ArrivingInLethram_cefcdeff:
@@ -326,7 +326,7 @@ translate ru ArrivingInLethram_cefcdeff:
 # ArrivingInLethram_02dafc36 (line 24661)
 translate ru ArrivingInLethram_02dafc36:
     # k "I need to get some things sorted. You stay here, in the tent, where you're safe. I'll be back soon when I know more, ok?"
-    k ""
+    k "I need to get some things sorted. You stay here, in the tent, where you're safe. I'll be back soon when I know more, ok?"
 
 # ArrivingInLethram_c5f2ff3e (line 24662)
 translate ru ArrivingInLethram_c5f2ff3e:

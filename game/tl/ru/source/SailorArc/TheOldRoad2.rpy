@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TheOldRoad2
-# Total blocks: 172
+# Total blocks: 164
 
 # TheOldRoad2_b28aadb6 (line 63346)
 translate ru TheOldRoad2_b28aadb6:
@@ -11,7 +11,7 @@ translate ru TheOldRoad2_b28aadb6:
 # TheOldRoad2_f10434a7 (line 63348)
 translate ru TheOldRoad2_f10434a7:
     # sig "Time to wake up. We need to make good time."
-    sig ""
+    sig "Time to wake up. We need to make good time."
 
 # TheOldRoad2_d974d2ca (line 63349)
 translate ru TheOldRoad2_d974d2ca:
@@ -26,32 +26,32 @@ translate ru TheOldRoad2_732da8fd:
 # TheOldRoad2_a66fefbe (line 63351)
 translate ru TheOldRoad2_a66fefbe:
     # s "Sigmund."
-    s ""
+    s "Sigmund."
 
 # TheOldRoad2_ab35b15f (line 63352)
 translate ru TheOldRoad2_ab35b15f:
     # sig "What is it?"
-    sig ""
+    sig "What is it?"
 
 # TheOldRoad2_2dd8c20a (line 63353)
 translate ru TheOldRoad2_2dd8c20a:
     # s "I want to help."
-    s ""
+    s "I want to help."
 
 # TheOldRoad2_9b609454 (line 63354)
 translate ru TheOldRoad2_9b609454:
     # sig "I know, Sarah. We talked about what you can do."
-    sig ""
+    sig "I know, Sarah. We talked about what you can do."
 
 # TheOldRoad2_67d6e07d (line 63355)
 translate ru TheOldRoad2_67d6e07d:
     # s "I know...but I mean, I don't want to feel like I'm holding you all back."
-    s ""
+    s "I know...but I mean, I don't want to feel like I'm holding you all back."
 
 # TheOldRoad2_86e6e269 (line 63356)
 translate ru TheOldRoad2_86e6e269:
     # s "You can wake me up, same time as the others. I can carry boxes, I can help rig the cart...you just need to give me a chance."
-    s ""
+    s "You can wake me up, same time as the others. I can carry boxes, I can help rig the cart...you just need to give me a chance."
 
 # TheOldRoad2_1dfd1b31 (line 63357)
 translate ru TheOldRoad2_1dfd1b31:
@@ -61,12 +61,12 @@ translate ru TheOldRoad2_1dfd1b31:
 # TheOldRoad2_ed769408 (line 63358)
 translate ru TheOldRoad2_ed769408:
     # sig "Sure, Sarah. I promise I'll treat you like the others."
-    sig ""
+    sig "Sure, Sarah. I promise I'll treat you like the others."
 
 # TheOldRoad2_03fe49e1 (line 63359)
 translate ru TheOldRoad2_03fe49e1:
     # s "Thank you. That's all I want."
-    s ""
+    s "Thank you. That's all I want."
 
 # TheOldRoad2_92553728 (line 63360)
 translate ru TheOldRoad2_92553728:
@@ -76,7 +76,7 @@ translate ru TheOldRoad2_92553728:
 # TheOldRoad2_2c0289e5 (line 63361)
 translate ru TheOldRoad2_2c0289e5:
     # sig "Start by loading that onto the wagon."
-    sig ""
+    sig "Start by loading that onto the wagon."
 
 # TheOldRoad2_3a129991 (line 63362)
 translate ru TheOldRoad2_3a129991:
@@ -96,12 +96,12 @@ translate ru TheOldRoad2_4d79bde1:
 # TheOldRoad2_e6efebba (line 63365)
 translate ru TheOldRoad2_e6efebba:
     # sig "Trouble?"
-    sig ""
+    sig "Trouble?"
 
 # TheOldRoad2_27d327f9 (line 63366)
 translate ru TheOldRoad2_27d327f9:
     # s "No...none...at all..."
-    s ""
+    s "No...none...at all..."
 
 # TheOldRoad2_1a933eeb (line 63367)
 translate ru TheOldRoad2_1a933eeb:
@@ -301,7 +301,7 @@ translate ru TheOldRoad2_b9a8bfc0:
 # TheOldRoad2_a91a0e69 (line 63422)
 translate ru TheOldRoad2_a91a0e69:
     # sig "We're not looking for trouble."
-    sig ""
+    sig "We're not looking for trouble."
 
 # TheOldRoad2_795e4983 (line 63423)
 translate ru TheOldRoad2_795e4983:
@@ -316,7 +316,7 @@ translate ru TheOldRoad2_e904b6af:
 # TheOldRoad2_3f250ce2 (line 63425)
 translate ru TheOldRoad2_3f250ce2:
     # sig "You step off aside, we'll be on our way and nobody needs to get hurt."
-    sig ""
+    sig "You step off aside, we'll be on our way and nobody needs to get hurt."
 
 # TheOldRoad2_3b82945e (line 63426)
 translate ru TheOldRoad2_3b82945e:
@@ -356,12 +356,12 @@ translate ru TheOldRoad2_ebbcf88b:
 # TheOldRoad2_6dd92649 (line 63437)
 translate ru TheOldRoad2_6dd92649:
     # sig "Last offer boys."
-    sig ""
+    sig "Last offer boys."
 
 # TheOldRoad2_b7ba63cf (line 63438)
 translate ru TheOldRoad2_b7ba63cf:
     # sig "Fuck off back into the forest, or we'll do this the other way."
-    sig ""
+    sig "Fuck off back into the forest, or we'll do this the other way."
 
 # TheOldRoad2_cecb4fa1 (line 63439)
 translate ru TheOldRoad2_cecb4fa1:
@@ -511,12 +511,12 @@ translate ru TheOldRoad2_72382b82:
 # TheOldRoad2_ba89482c (line 63494)
 translate ru TheOldRoad2_ba89482c:
     # sak "What?"
-    sak ""
+    sak "What?"
 
 # TheOldRoad2_a394e8ed (line 63495)
 translate ru TheOldRoad2_a394e8ed:
     # sak "You already took care of them?"
-    sak ""
+    sak "You already took care of them?"
 
 # TheOldRoad2_c422947d (line 63496)
 translate ru TheOldRoad2_c422947d:
@@ -526,12 +526,12 @@ translate ru TheOldRoad2_c422947d:
 # TheOldRoad2_4c0c1a7b (line 63497)
 translate ru TheOldRoad2_4c0c1a7b:
     # sig "Just two idiots."
-    sig ""
+    sig "Just two idiots."
 
 # TheOldRoad2_569cf098 (line 63498)
 translate ru TheOldRoad2_569cf098:
     # sig "Not even worth the effort to call for help."
-    sig ""
+    sig "Not even worth the effort to call for help."
 
 # TheOldRoad2_c6c7d2e9 (line 63499)
 translate ru TheOldRoad2_c6c7d2e9:
@@ -541,12 +541,12 @@ translate ru TheOldRoad2_c6c7d2e9:
 # TheOldRoad2_d041bfa2 (line 63500)
 translate ru TheOldRoad2_d041bfa2:
     # sak "You know, Krip and me are out back there, bored out of our mind."
-    sak ""
+    sak "You know, Krip and me are out back there, bored out of our mind."
 
 # TheOldRoad2_afca7774 (line 63501)
 translate ru TheOldRoad2_afca7774:
     # sak "Least you could have done was let us have this one."
-    sak ""
+    sak "Least you could have done was let us have this one."
 
 # TheOldRoad2_b3b8745e (line 63502)
 translate ru TheOldRoad2_b3b8745e:
@@ -556,7 +556,7 @@ translate ru TheOldRoad2_b3b8745e:
 # TheOldRoad2_5f93a04f (line 63503)
 translate ru TheOldRoad2_5f93a04f:
     # sig "You can have the next one."
-    sig ""
+    sig "You can have the next one."
 
 # TheOldRoad2_ffa1e1e9 (line 63504)
 translate ru TheOldRoad2_ffa1e1e9:
@@ -566,7 +566,7 @@ translate ru TheOldRoad2_ffa1e1e9:
 # TheOldRoad2_d2325dd6 (line 63505)
 translate ru TheOldRoad2_d2325dd6:
     # sak "Fine, old man, I'm gonna keep you to that."
-    sak ""
+    sak "Fine, old man, I'm gonna keep you to that."
 
 # TheOldRoad2_861473a1 (line 63506)
 translate ru TheOldRoad2_861473a1:
@@ -591,7 +591,7 @@ translate ru TheOldRoad2_95b9e66f:
 # TheOldRoad2_6ac743a4 (line 63512)
 translate ru TheOldRoad2_6ac743a4:
     # s "You...you weren't afraid?"
-    s ""
+    s "You...you weren't afraid?"
 
 # TheOldRoad2_189d80b9 (line 63513)
 translate ru TheOldRoad2_189d80b9:
@@ -601,12 +601,12 @@ translate ru TheOldRoad2_189d80b9:
 # TheOldRoad2_93f3f11d (line 63514)
 translate ru TheOldRoad2_93f3f11d:
     # sig "If they had been serious, maybe."
-    sig ""
+    sig "If they had been serious, maybe."
 
 # TheOldRoad2_82333521 (line 63515)
 translate ru TheOldRoad2_82333521:
     # sig "But those were idiots. Too stupid to realize what or who they were dealing with."
-    sig ""
+    sig "But those were idiots. Too stupid to realize what or who they were dealing with."
 
 # TheOldRoad2_02ad1faf (line 63516)
 translate ru TheOldRoad2_02ad1faf:
@@ -616,12 +616,12 @@ translate ru TheOldRoad2_02ad1faf:
 # TheOldRoad2_23aecdb9 (line 63517)
 translate ru TheOldRoad2_23aecdb9:
     # sig "Out here you got all types, Sarah."
-    sig ""
+    sig "Out here you got all types, Sarah."
 
 # TheOldRoad2_ac4cdfb8 (line 63518)
 translate ru TheOldRoad2_ac4cdfb8:
     # sig "You got real mean bastards, but you also got the morons like those two."
-    sig ""
+    sig "You got real mean bastards, but you also got the morons like those two."
 
 # TheOldRoad2_98588182 (line 63519)
 translate ru TheOldRoad2_98588182:
@@ -631,7 +631,7 @@ translate ru TheOldRoad2_98588182:
 # TheOldRoad2_3ca8b20e (line 63520)
 translate ru TheOldRoad2_3ca8b20e:
     # s "Don't you feel bad about killing them?"
-    s ""
+    s "Don't you feel bad about killing them?"
 
 # TheOldRoad2_0fa70a27 (line 63521)
 translate ru TheOldRoad2_0fa70a27:
@@ -641,7 +641,7 @@ translate ru TheOldRoad2_0fa70a27:
 # TheOldRoad2_8b48c215 (line 63522)
 translate ru TheOldRoad2_8b48c215:
     # sig "Look at me, Sarah."
-    sig ""
+    sig "Look at me, Sarah."
 
 # TheOldRoad2_a70f9768 (line 63523)
 translate ru TheOldRoad2_a70f9768:
@@ -651,32 +651,32 @@ translate ru TheOldRoad2_a70f9768:
 # TheOldRoad2_c81eb4ed (line 63524)
 translate ru TheOldRoad2_c81eb4ed:
     # sig "Those two sons-of-bitches would not have thought twice about dragging you into the forest and raping you."
-    sig ""
+    sig "Those two sons-of-bitches would not have thought twice about dragging you into the forest and raping you."
 
 # TheOldRoad2_b996f8a9 (line 63525)
 translate ru TheOldRoad2_b996f8a9:
     # sig "You go around feeling sorry for people out here, you're the one whose gonna end up being sorry."
-    sig ""
+    sig "You go around feeling sorry for people out here, you're the one whose gonna end up being sorry."
 
 # TheOldRoad2_68b61b49 (line 63526)
 translate ru TheOldRoad2_68b61b49:
     # sig "This isn't like where you're from."
-    sig ""
+    sig "This isn't like where you're from."
 
 # TheOldRoad2_7ae8ddd7 (line 63527)
 translate ru TheOldRoad2_7ae8ddd7:
     # sig "People will use whatever they can to get one over on you."
-    sig ""
+    sig "People will use whatever they can to get one over on you."
 
 # TheOldRoad2_c53b1a71 (line 63528)
 translate ru TheOldRoad2_c53b1a71:
     # sig "They'll use force if they can, if not, they play on your emotions."
-    sig ""
+    sig "They'll use force if they can, if not, they play on your emotions."
 
 # TheOldRoad2_40f823d7 (line 63529)
 translate ru TheOldRoad2_40f823d7:
     # sig "You give them any sign of weakness, they pounce on it. You understand me?"
-    sig ""
+    sig "You give them any sign of weakness, they pounce on it. You understand me?"
 
 # TheOldRoad2_0677b2e7 (line 63530)
 translate ru TheOldRoad2_0677b2e7:
@@ -771,7 +771,7 @@ translate ru TheOldRoad2_0f372f41:
 # TheOldRoad2_5bfc593a (line 63556)
 translate ru TheOldRoad2_5bfc593a:
     # sak "Your cooking is improving."
-    sak ""
+    sak "Your cooking is improving."
 
 # TheOldRoad2_119bc862 (line 63557)
 translate ru TheOldRoad2_119bc862:
@@ -786,12 +786,12 @@ translate ru TheOldRoad2_2e18f9a6:
 # TheOldRoad2_1e8337d1 (line 63559)
 translate ru TheOldRoad2_1e8337d1:
     # s "Thank you."
-    s ""
+    s "Thank you."
 
 # TheOldRoad2_a134609d (line 63560)
 translate ru TheOldRoad2_a134609d:
     # s "I'm trying my best, but it's not as easy as I first thought."
-    s ""
+    s "I'm trying my best, but it's not as easy as I first thought."
 
 # TheOldRoad2_7484ae98 (line 63561)
 translate ru TheOldRoad2_7484ae98:
@@ -801,12 +801,12 @@ translate ru TheOldRoad2_7484ae98:
 # TheOldRoad2_87ea0626 (line 63562)
 translate ru TheOldRoad2_87ea0626:
     # sak "I'm used to Sigmund or Krip cooking."
-    sak ""
+    sak "I'm used to Sigmund or Krip cooking."
 
 # TheOldRoad2_14b7a4b4 (line 63563)
 translate ru TheOldRoad2_14b7a4b4:
     # sak "Be thankful you haven't been subjected to any of that yet."
-    sak ""
+    sak "Be thankful you haven't been subjected to any of that yet."
 
 # TheOldRoad2_4dd19ad5 (line 63564)
 translate ru TheOldRoad2_4dd19ad5:
@@ -816,50 +816,10 @@ translate ru TheOldRoad2_4dd19ad5:
 # TheOldRoad2_3a100b4f (line 63565)
 translate ru TheOldRoad2_3a100b4f:
     # sak "I'm going to head out for a small walk."
-    sak ""
+    sak "I'm going to head out for a small walk."
 
 # TheOldRoad2_e34d3f3e (line 63566)
 translate ru TheOldRoad2_e34d3f3e:
     # sak "Care to join me?"
-    sak ""
-
-# TheOldRoad2_6af4f5fa (line 63569)
-translate ru TheOldRoad2_6af4f5fa:
-    # "Join Sakar on his walk"
-    "Join Sakar on his walk" ""
-
-# TheOldRoad2_56e0953a (line 63661)
-translate ru TheOldRoad2_56e0953a:
-    # "Stay and watch"
-    "Stay and watch" ""
-
-# TheOldRoad2_25347940 (line 63713)
-translate ru TheOldRoad2_25347940:
-    # "Strip your clothes"
-    "Strip your clothes" ""
-
-# TheOldRoad2_b6e7f3b4 (line 63755)
-translate ru TheOldRoad2_b6e7f3b4:
-    # "Obey Sakar"
-    "Obey Sakar" ""
-
-# TheOldRoad2_883c4296 (line 63839)
-translate ru TheOldRoad2_883c4296:
-    # "Refuse him"
-    "Refuse him" ""
-
-# TheOldRoad2_60bab73b (line 63897)
-translate ru TheOldRoad2_60bab73b:
-    # "Refuse his request"
-    "Refuse his request" ""
-
-# TheOldRoad2_2472b1b8 (line 63956)
-translate ru TheOldRoad2_2472b1b8:
-    # "Go back to camp"
-    "Go back to camp" ""
-
-# TheOldRoad2_407fef90 (line 63978)
-translate ru TheOldRoad2_407fef90:
-    # "Stay at the camp"
-    "Stay at the camp" ""
+    sak "Care to join me?"
 

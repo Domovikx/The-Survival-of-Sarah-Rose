@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: WarriorRahayal2
-# Total blocks: 433
+# Total blocks: 428
 
 # WarriorRahayal2_c9669d7e (line 51537)
 translate ru WarriorRahayal2_c9669d7e:
@@ -151,7 +151,7 @@ translate ru WarriorRahayal2_2dfe0755:
 # WarriorRahayal2_61c313cf (line 51578)
 translate ru WarriorRahayal2_61c313cf:
     # c "It takes about a dozen servants, just to keep the whole thing from falling apart."
-    c ""
+    c "It takes about a dozen servants, just to keep the whole thing from falling apart."
 
 # WarriorRahayal2_22084b50 (line 51579)
 translate ru WarriorRahayal2_22084b50:
@@ -161,7 +161,7 @@ translate ru WarriorRahayal2_22084b50:
 # WarriorRahayal2_f59dcdce (line 51580)
 translate ru WarriorRahayal2_f59dcdce:
     # s "That many?"
-    s ""
+    s "That many?"
 
 # WarriorRahayal2_7db5baa8 (line 51581)
 translate ru WarriorRahayal2_7db5baa8:
@@ -171,12 +171,12 @@ translate ru WarriorRahayal2_7db5baa8:
 # WarriorRahayal2_28c7364b (line 51582)
 translate ru WarriorRahayal2_28c7364b:
     # c "And with you and all your other guests, I've even had to increase the staff beyond that."
-    c ""
+    c "And with you and all your other guests, I've even had to increase the staff beyond that."
 
 # WarriorRahayal2_8336bd56 (line 51583)
 translate ru WarriorRahayal2_8336bd56:
     # s "How...do you even pay for all that?"
-    s ""
+    s "How...do you even pay for all that?"
 
 # WarriorRahayal2_cd0cf179 (line 51584)
 translate ru WarriorRahayal2_cd0cf179:
@@ -186,37 +186,37 @@ translate ru WarriorRahayal2_cd0cf179:
 # WarriorRahayal2_4e220dd9 (line 51585)
 translate ru WarriorRahayal2_4e220dd9:
     # c "Many noble families were ruined after the fall of Rosanna."
-    c ""
+    c "Many noble families were ruined after the fall of Rosanna."
 
 # WarriorRahayal2_151a6c28 (line 51586)
 translate ru WarriorRahayal2_151a6c28:
     # c "Their wealth was in lands, farms and mines."
-    c ""
+    c "Their wealth was in lands, farms and mines."
 
 # WarriorRahayal2_b62f0e25 (line 51587)
 translate ru WarriorRahayal2_b62f0e25:
     # c "When the hordes of the Tribes came, there was little more than some gems and gold that they could smuggle."
-    c ""
+    c "When the hordes of the Tribes came, there was little more than some gems and gold that they could smuggle."
 
 # WarriorRahayal2_ed44e98a (line 51588)
 translate ru WarriorRahayal2_ed44e98a:
     # c "And you can't eat gold or gems."
-    c ""
+    c "And you can't eat gold or gems."
 
 # WarriorRahayal2_4d16aeb5 (line 51589)
 translate ru WarriorRahayal2_4d16aeb5:
     # c "So they were all eager to sell their belongings for money."
-    c ""
+    c "So they were all eager to sell their belongings for money."
 
 # WarriorRahayal2_3f248a54 (line 51590)
 translate ru WarriorRahayal2_3f248a54:
     # c "But the merchants of Rahayal are no fools. They saw how desperate the nobles were."
-    c ""
+    c "But the merchants of Rahayal are no fools. They saw how desperate the nobles were."
 
 # WarriorRahayal2_c0de70dd (line 51591)
 translate ru WarriorRahayal2_c0de70dd:
     # c "Most sold their already diminished belongings for less than a third of what they were worth."
-    c ""
+    c "Most sold their already diminished belongings for less than a third of what they were worth."
 
 # WarriorRahayal2_f7d815af (line 51592)
 translate ru WarriorRahayal2_f7d815af:
@@ -226,17 +226,17 @@ translate ru WarriorRahayal2_f7d815af:
 # WarriorRahayal2_c388da2e (line 51593)
 translate ru WarriorRahayal2_c388da2e:
     # c "But my family has always made its money in banking."
-    c ""
+    c "But my family has always made its money in banking."
 
 # WarriorRahayal2_21225de4 (line 51594)
 translate ru WarriorRahayal2_21225de4:
     # c "So while we lost some in the fall, most of our assets had been diversified, and we already held sizeable holdings in Rahayal."
-    c ""
+    c "So while we lost some in the fall, most of our assets had been diversified, and we already held sizeable holdings in Rahayal."
 
 # WarriorRahayal2_b6bdbafb (line 51595)
 translate ru WarriorRahayal2_b6bdbafb:
     # c "In the end, I was better protected from the losses than most."
-    c ""
+    c "In the end, I was better protected from the losses than most."
 
 # WarriorRahayal2_94147ccd (line 51596)
 translate ru WarriorRahayal2_94147ccd:
@@ -251,7 +251,7 @@ translate ru WarriorRahayal2_67518f52:
 # WarriorRahayal2_8035436e (line 51598)
 translate ru WarriorRahayal2_8035436e:
     # s "So you're one of the lucky ones?"
-    s ""
+    s "So you're one of the lucky ones?"
 
 # WarriorRahayal2_0792b505 (line 51599)
 translate ru WarriorRahayal2_0792b505:
@@ -261,47 +261,47 @@ translate ru WarriorRahayal2_0792b505:
 # WarriorRahayal2_ba7d88fd (line 51600)
 translate ru WarriorRahayal2_ba7d88fd:
     # c "That, and my connections to Gilead have managed to make sure that I can afford to maintain a place like this."
-    c ""
+    c "That, and my connections to Gilead have managed to make sure that I can afford to maintain a place like this."
 
 # WarriorRahayal2_fd7f51cc (line 51601)
 translate ru WarriorRahayal2_fd7f51cc:
     # c "Many of the other nobles were less fortunate."
-    c ""
+    c "Many of the other nobles were less fortunate."
 
 # WarriorRahayal2_fc6adac8 (line 51602)
 translate ru WarriorRahayal2_fc6adac8:
     # s "I see."
-    s ""
+    s "I see."
 
 # WarriorRahayal2_8f0b60c6 (line 51603)
 translate ru WarriorRahayal2_8f0b60c6:
     # c "Honestly, part of it was their own fault."
-    c ""
+    c "Honestly, part of it was their own fault."
 
 # WarriorRahayal2_b55b4523 (line 51604)
 translate ru WarriorRahayal2_b55b4523:
     # c "So many of them imagined that the fall of Rosanna was a temporary thing."
-    c ""
+    c "So many of them imagined that the fall of Rosanna was a temporary thing."
 
 # WarriorRahayal2_2ad71de3 (line 51605)
 translate ru WarriorRahayal2_2ad71de3:
     # c "They kept living as if they would return home to their holdings in a few months."
-    c ""
+    c "They kept living as if they would return home to their holdings in a few months."
 
 # WarriorRahayal2_6edfd3f5 (line 51606)
 translate ru WarriorRahayal2_6edfd3f5:
     # c "So their money ran out quickly."
-    c ""
+    c "So their money ran out quickly."
 
 # WarriorRahayal2_26962c96 (line 51607)
 translate ru WarriorRahayal2_26962c96:
     # c "The common folk, by contrast, were smarter. They always knew they had to work for their money."
-    c ""
+    c "The common folk, by contrast, were smarter. They always knew they had to work for their money."
 
 # WarriorRahayal2_2075936b (line 51608)
 translate ru WarriorRahayal2_2075936b:
     # c "Working here in Rahayal or working in Rosanna, it was all much the same to them."
-    c ""
+    c "Working here in Rahayal or working in Rosanna, it was all much the same to them."
 
 # WarriorRahayal2_c3007851 (line 51609)
 translate ru WarriorRahayal2_c3007851:
@@ -311,17 +311,17 @@ translate ru WarriorRahayal2_c3007851:
 # WarriorRahayal2_2afe3f13 (line 51610)
 translate ru WarriorRahayal2_2afe3f13:
     # c "But please, don't let me bore you with all this history."
-    c ""
+    c "But please, don't let me bore you with all this history."
 
 # WarriorRahayal2_0947c881 (line 51611)
 translate ru WarriorRahayal2_0947c881:
     # c "Go and make yourself at home first."
-    c ""
+    c "Go and make yourself at home first."
 
 # WarriorRahayal2_c3175be0 (line 51612)
 translate ru WarriorRahayal2_c3175be0:
     # c "We can have dinner later tonight."
-    c ""
+    c "We can have dinner later tonight."
 
 # WarriorRahayal2_883b78d6 (line 51613)
 translate ru WarriorRahayal2_883b78d6:
@@ -331,7 +331,7 @@ translate ru WarriorRahayal2_883b78d6:
 # WarriorRahayal2_2bb9e788 (line 51614)
 translate ru WarriorRahayal2_2bb9e788:
     # s "It's been a long journey, I look forward to taking a moment to myself."
-    s ""
+    s "It's been a long journey, I look forward to taking a moment to myself."
 
 # WarriorRahayal2_b70cc610 (line 51615)
 translate ru WarriorRahayal2_b70cc610:
@@ -341,17 +341,17 @@ translate ru WarriorRahayal2_b70cc610:
 # WarriorRahayal2_e19c6aa7 (line 51616)
 translate ru WarriorRahayal2_e19c6aa7:
     # c "I have had the servants prepare the best room for you."
-    c ""
+    c "I have had the servants prepare the best room for you."
 
 # WarriorRahayal2_70351fb4 (line 51617)
 translate ru WarriorRahayal2_70351fb4:
     # c "Also, the servant quarters have been converted into improvised baracks for your soldiers."
-    c ""
+    c "Also, the servant quarters have been converted into improvised baracks for your soldiers."
 
 # WarriorRahayal2_87fdbc77 (line 51618)
 translate ru WarriorRahayal2_87fdbc77:
     # c "And your most trusted friends will of course been seen to as well, each a room fitting of their station."
-    c ""
+    c "And your most trusted friends will of course been seen to as well, each a room fitting of their station."
 
 # WarriorRahayal2_1994685c (line 51619)
 translate ru WarriorRahayal2_1994685c:
@@ -361,12 +361,12 @@ translate ru WarriorRahayal2_1994685c:
 # WarriorRahayal2_798dfb20 (line 51620)
 translate ru WarriorRahayal2_798dfb20:
     # s "Thank you, Carolyn."
-    s ""
+    s "Thank you, Carolyn."
 
 # WarriorRahayal2_a4d398f9 (line 51621)
 translate ru WarriorRahayal2_a4d398f9:
     # s "Your help means a lot to me."
-    s ""
+    s "Your help means a lot to me."
 
 # WarriorRahayal2_0fbca29e (line 51622)
 translate ru WarriorRahayal2_0fbca29e:
@@ -376,22 +376,22 @@ translate ru WarriorRahayal2_0fbca29e:
 # WarriorRahayal2_84953108 (line 51623)
 translate ru WarriorRahayal2_84953108:
     # c "It means nothing, dear."
-    c ""
+    c "It means nothing, dear."
 
 # WarriorRahayal2_3207fdfc (line 51624)
 translate ru WarriorRahayal2_3207fdfc:
     # c "If together, we can restore our homeland, all of this will have been worth it a hundred times over."
-    c ""
+    c "If together, we can restore our homeland, all of this will have been worth it a hundred times over."
 
 # WarriorRahayal2_392cbfdf (line 51625)
 translate ru WarriorRahayal2_392cbfdf:
     # c "Now go, settle in."
-    c ""
+    c "Now go, settle in."
 
 # WarriorRahayal2_ea3f8e33 (line 51626)
 translate ru WarriorRahayal2_ea3f8e33:
     # c "We will speak later tonight."
-    c ""
+    c "We will speak later tonight."
 
 # WarriorRahayal2_fee14f1c (line 51633)
 translate ru WarriorRahayal2_fee14f1c:
@@ -561,12 +561,12 @@ translate ru WarriorRahayal2_41a77cb4:
 # WarriorRahayal2_c250e665 (line 51671)
 translate ru WarriorRahayal2_c250e665:
     # s "Father..."
-    s ""
+    s "Father..."
 
 # WarriorRahayal2_0cb102ca (line 51672)
 translate ru WarriorRahayal2_0cb102ca:
     # s "What should I do?"
-    s ""
+    s "What should I do?"
 
 # WarriorRahayal2_a0fce0f8 (line 51673)
 translate ru WarriorRahayal2_a0fce0f8:
@@ -596,7 +596,7 @@ translate ru WarriorRahayal2_5d34c47d:
 # WarriorRahayal2_e6d62803 (line 51683)
 translate ru WarriorRahayal2_e6d62803:
     # s "Of course. Can you escort me there?"
-    s ""
+    s "Of course. Can you escort me there?"
 
 # WarriorRahayal2_aafb589d (line 51684)
 translate ru WarriorRahayal2_aafb589d:
@@ -621,7 +621,7 @@ translate ru WarriorRahayal2_993f14c9:
 # WarriorRahayal2_b07d5775 (line 51688)
 translate ru WarriorRahayal2_b07d5775:
     # s "I don't understand."
-    s ""
+    s "I don't understand."
 
 # WarriorRahayal2_1b5d3386 (line 51689)
 translate ru WarriorRahayal2_1b5d3386:
@@ -642,16 +642,6 @@ translate ru WarriorRahayal2_88ddd55e:
 translate ru WarriorRahayal2_60b7e156:
     # "It had been years since she wore anything like this."
     ""
-
-# WarriorRahayal2_67ee8083 (line 51697)
-translate ru WarriorRahayal2_67ee8083:
-    # "Wear the dress"
-    "Wear the dress" ""
-
-# WarriorRahayal2_686739c8 (line 51735)
-translate ru WarriorRahayal2_686739c8:
-    # "Keep on your armor"
-    "Keep on your armor" ""
 
 # WarriorRahayal2_0ca5ca15 (line 51753)
 translate ru WarriorRahayal2_0ca5ca15:
@@ -676,12 +666,12 @@ translate ru WarriorRahayal2_441adf60:
 # WarriorRahayal2_42525168 (line 51759)
 translate ru WarriorRahayal2_42525168:
     # c "Aah, welcome Sarah."
-    c ""
+    c "Aah, welcome Sarah."
 
 # WarriorRahayal2_a5d4f51e (line 51775)
 translate ru WarriorRahayal2_a5d4f51e:
     # c "Please."
-    c ""
+    c "Please."
 
 # WarriorRahayal2_06c63d48 (line 51776)
 translate ru WarriorRahayal2_06c63d48:
@@ -691,7 +681,7 @@ translate ru WarriorRahayal2_06c63d48:
 # WarriorRahayal2_881f5df1 (line 51777)
 translate ru WarriorRahayal2_881f5df1:
     # c "Have a seat."
-    c ""
+    c "Have a seat."
 
 # WarriorRahayal2_aaed8cb9 (line 51787)
 translate ru WarriorRahayal2_aaed8cb9:
@@ -701,7 +691,7 @@ translate ru WarriorRahayal2_aaed8cb9:
 # WarriorRahayal2_8ee0128f (line 51788)
 translate ru WarriorRahayal2_8ee0128f:
     # c "My chef here is a delight. I don't think even Castle Reinmeer had one like him."
-    c ""
+    c "My chef here is a delight. I don't think even Castle Reinmeer had one like him."
 
 # WarriorRahayal2_5477c5fe (line 51789)
 translate ru WarriorRahayal2_5477c5fe:
@@ -716,7 +706,7 @@ translate ru WarriorRahayal2_b504c267:
 # WarriorRahayal2_5f2664b6 (line 51791)
 translate ru WarriorRahayal2_5f2664b6:
     # s "I didn't exactly come here for the food."
-    s ""
+    s "I didn't exactly come here for the food."
 
 # WarriorRahayal2_9332781b (line 51792)
 translate ru WarriorRahayal2_9332781b:
@@ -726,12 +716,12 @@ translate ru WarriorRahayal2_9332781b:
 # WarriorRahayal2_4526e870 (line 51793)
 translate ru WarriorRahayal2_4526e870:
     # c "You know, dear, I used to think you were a bit dull, but you've grown a lot in your years of absence."
-    c ""
+    c "You know, dear, I used to think you were a bit dull, but you've grown a lot in your years of absence."
 
 # WarriorRahayal2_1cfd6ebe (line 51794)
 translate ru WarriorRahayal2_1cfd6ebe:
     # c "But you're right. Let's get to the point."
-    c ""
+    c "But you're right. Let's get to the point."
 
 # WarriorRahayal2_dcc32f5d (line 51795)
 translate ru WarriorRahayal2_dcc32f5d:
@@ -741,12 +731,12 @@ translate ru WarriorRahayal2_dcc32f5d:
 # WarriorRahayal2_370c2680 (line 51796)
 translate ru WarriorRahayal2_370c2680:
     # c "Ever since the Fall, I have gone quite far in maintaining the old structures of Rosanna."
-    c ""
+    c "Ever since the Fall, I have gone quite far in maintaining the old structures of Rosanna."
 
 # WarriorRahayal2_831c415e (line 51797)
 translate ru WarriorRahayal2_831c415e:
     # s "Structures?"
-    s ""
+    s "Structures?"
 
 # WarriorRahayal2_53fe74a1 (line 51798)
 translate ru WarriorRahayal2_53fe74a1:
@@ -756,37 +746,37 @@ translate ru WarriorRahayal2_53fe74a1:
 # WarriorRahayal2_c51fffac (line 51799)
 translate ru WarriorRahayal2_c51fffac:
     # c "I have kept the most important noble families provided for, made sure they did not become destitute."
-    c ""
+    c "I have kept the most important noble families provided for, made sure they did not become destitute."
 
 # WarriorRahayal2_d2afc8e7 (line 51800)
 translate ru WarriorRahayal2_d2afc8e7:
     # c "I have employed most of the officers from the Rosannan army as guards in my estate."
-    c ""
+    c "I have employed most of the officers from the Rosannan army as guards in my estate."
 
 # WarriorRahayal2_4fec4209 (line 51801)
 translate ru WarriorRahayal2_4fec4209:
     # c "And I have even made sure to cultivate connections with leaders among the common folk."
-    c ""
+    c "And I have even made sure to cultivate connections with leaders among the common folk."
 
 # WarriorRahayal2_eb488141 (line 51802)
 translate ru WarriorRahayal2_eb488141:
     # c "I have the ear of all the most important people in Rosannan society, living in exile here in Rahayal."
-    c ""
+    c "I have the ear of all the most important people in Rosannan society, living in exile here in Rahayal."
 
 # WarriorRahayal2_519b0201 (line 51803)
 translate ru WarriorRahayal2_519b0201:
     # c "And you..."
-    c ""
+    c "And you..."
 
 # WarriorRahayal2_1c800708 (line 51804)
 translate ru WarriorRahayal2_1c800708:
     # c "You, my dear, are the final piece to the puzzle."
-    c ""
+    c "You, my dear, are the final piece to the puzzle."
 
 # WarriorRahayal2_bd0aea72 (line 51805)
 translate ru WarriorRahayal2_bd0aea72:
     # c "A leader around whom everyone can gather."
-    c ""
+    c "A leader around whom everyone can gather."
 
 # WarriorRahayal2_aa4d25ea (line 51806)
 translate ru WarriorRahayal2_aa4d25ea:
@@ -806,12 +796,12 @@ translate ru WarriorRahayal2_280929bb:
 # WarriorRahayal2_61ae54d3 (line 51809)
 translate ru WarriorRahayal2_61ae54d3:
     # c "Gilead has pledged two legions to support your claim."
-    c ""
+    c "Gilead has pledged two legions to support your claim."
 
 # WarriorRahayal2_0365b5b5 (line 51810)
 translate ru WarriorRahayal2_0365b5b5:
     # c "Add those to your band of mercenaries, and you have an army that the Tribesmen cannot defeat."
-    c ""
+    c "Add those to your band of mercenaries, and you have an army that the Tribesmen cannot defeat."
 
 # WarriorRahayal2_d4dc3423 (line 51811)
 translate ru WarriorRahayal2_d4dc3423:
@@ -821,12 +811,12 @@ translate ru WarriorRahayal2_d4dc3423:
 # WarriorRahayal2_c437fc4e (line 51812)
 translate ru WarriorRahayal2_c437fc4e:
     # s "And this Gilead..."
-    s ""
+    s "And this Gilead..."
 
 # WarriorRahayal2_dbf74cea (line 51813)
 translate ru WarriorRahayal2_dbf74cea:
     # s "Why would he offer such a thing?"
-    s ""
+    s "Why would he offer such a thing?"
 
 # WarriorRahayal2_eb717276 (line 51814)
 translate ru WarriorRahayal2_eb717276:
@@ -836,12 +826,12 @@ translate ru WarriorRahayal2_eb717276:
 # WarriorRahayal2_83145983 (line 51815)
 translate ru WarriorRahayal2_83145983:
     # c "The Mythran Empire is vast, and even inside of the Empire, it is divided against itself."
-    c ""
+    c "The Mythran Empire is vast, and even inside of the Empire, it is divided against itself."
 
 # WarriorRahayal2_e633e91e (line 51816)
 translate ru WarriorRahayal2_e633e91e:
     # c "Gilead is a man whose hour draws short. He seeks to become relevant again."
-    c ""
+    c "Gilead is a man whose hour draws short. He seeks to become relevant again."
 
 # WarriorRahayal2_ef9ff0ab (line 51817)
 translate ru WarriorRahayal2_ef9ff0ab:
@@ -851,7 +841,7 @@ translate ru WarriorRahayal2_ef9ff0ab:
 # WarriorRahayal2_12415d80 (line 51818)
 translate ru WarriorRahayal2_12415d80:
     # s "So all of this is vanity for him?"
-    s ""
+    s "So all of this is vanity for him?"
 
 # WarriorRahayal2_c0b7ff65 (line 51819)
 translate ru WarriorRahayal2_c0b7ff65:
@@ -861,7 +851,7 @@ translate ru WarriorRahayal2_c0b7ff65:
 # WarriorRahayal2_86216ce4 (line 51820)
 translate ru WarriorRahayal2_86216ce4:
     # c "Gilead is a Noctori, you know this much, yes?"
-    c ""
+    c "Gilead is a Noctori, you know this much, yes?"
 
 # WarriorRahayal2_134f664b (line 51821)
 translate ru WarriorRahayal2_134f664b:
@@ -876,22 +866,22 @@ translate ru WarriorRahayal2_bb4f531a:
 # WarriorRahayal2_82593682 (line 51823)
 translate ru WarriorRahayal2_82593682:
     # c "The Noctori are different from you and I."
-    c ""
+    c "The Noctori are different from you and I."
 
 # WarriorRahayal2_5387007e (line 51824)
 translate ru WarriorRahayal2_5387007e:
     # s "Different?"
-    s ""
+    s "Different?"
 
 # WarriorRahayal2_51eee7b4 (line 51825)
 translate ru WarriorRahayal2_51eee7b4:
     # c "They were born human, but they have undergone a transformation."
-    c ""
+    c "They were born human, but they have undergone a transformation."
 
 # WarriorRahayal2_ebb969a7 (line 51826)
 translate ru WarriorRahayal2_ebb969a7:
     # s "What kind of a transformation?"
-    s ""
+    s "What kind of a transformation?"
 
 # WarriorRahayal2_b6ce2cf2 (line 51827)
 translate ru WarriorRahayal2_b6ce2cf2:
@@ -901,12 +891,12 @@ translate ru WarriorRahayal2_b6ce2cf2:
 # WarriorRahayal2_958a5122 (line 51828)
 translate ru WarriorRahayal2_958a5122:
     # c "What I tell you now is a secret that few know."
-    c ""
+    c "What I tell you now is a secret that few know."
 
 # WarriorRahayal2_dda61513 (line 51829)
 translate ru WarriorRahayal2_dda61513:
     # c "And to even utter it is grounds for execution."
-    c ""
+    c "And to even utter it is grounds for execution."
 
 # WarriorRahayal2_44deebf3 (line 51830)
 translate ru WarriorRahayal2_44deebf3:
@@ -916,22 +906,22 @@ translate ru WarriorRahayal2_44deebf3:
 # WarriorRahayal2_f83b4cb8 (line 51831)
 translate ru WarriorRahayal2_f83b4cb8:
     # c "Each of the Noctori were born human, same as you and I."
-    c ""
+    c "Each of the Noctori were born human, same as you and I."
 
 # WarriorRahayal2_a2423305 (line 51832)
 translate ru WarriorRahayal2_a2423305:
     # c "But each of them has also achieved a great victory in their life. Some historic act of importance that advanced the interests of the Mythran Empire."
-    c ""
+    c "But each of them has also achieved a great victory in their life. Some historic act of importance that advanced the interests of the Mythran Empire."
 
 # WarriorRahayal2_858200cd (line 51833)
 translate ru WarriorRahayal2_858200cd:
     # c "Upon securing this glory, they are elevated from their human form to that of Noctori."
-    c ""
+    c "Upon securing this glory, they are elevated from their human form to that of Noctori."
 
 # WarriorRahayal2_2cf978ec (line 51834)
 translate ru WarriorRahayal2_2cf978ec:
     # c "Creatures possessing a long lifespan, immunity to disease, significant physical strength...and even some occult powers."
-    c ""
+    c "Creatures possessing a long lifespan, immunity to disease, significant physical strength...and even some occult powers."
 
 # WarriorRahayal2_7e4ea0e9 (line 51835)
 translate ru WarriorRahayal2_7e4ea0e9:
@@ -946,12 +936,12 @@ translate ru WarriorRahayal2_907521ab:
 # WarriorRahayal2_7d418031 (line 51837)
 translate ru WarriorRahayal2_7d418031:
     # c "This process of advancement...it is a gift to the Noctori, but it is a curse as well."
-    c ""
+    c "This process of advancement...it is a gift to the Noctori, but it is a curse as well."
 
 # WarriorRahayal2_b4b131d5 (line 51838)
 translate ru WarriorRahayal2_b4b131d5:
     # s "A curse?"
-    s ""
+    s "A curse?"
 
 # WarriorRahayal2_385ede73 (line 51839)
 translate ru WarriorRahayal2_385ede73:
@@ -961,22 +951,22 @@ translate ru WarriorRahayal2_385ede73:
 # WarriorRahayal2_7754c30b (line 51840)
 translate ru WarriorRahayal2_7754c30b:
     # c "Their lives are extended through a dark magic, but the gift of that magic can be withdrawn as instantly as it is given."
-    c ""
+    c "Their lives are extended through a dark magic, but the gift of that magic can be withdrawn as instantly as it is given."
 
 # WarriorRahayal2_fac1c1de (line 51841)
 translate ru WarriorRahayal2_fac1c1de:
     # c "These Noctori live long lives, but only in so far as that they are granted this longevity by this source of power."
-    c ""
+    c "These Noctori live long lives, but only in so far as that they are granted this longevity by this source of power."
 
 # WarriorRahayal2_7f8da10f (line 51842)
 translate ru WarriorRahayal2_7f8da10f:
     # c "So long as the gift is extended, the Noctori can live...possibly forever."
-    c ""
+    c "So long as the gift is extended, the Noctori can live...possibly forever."
 
 # WarriorRahayal2_70e1bfa6 (line 51843)
 translate ru WarriorRahayal2_70e1bfa6:
     # c "But the second the gift is withdrawn, they fade away in mere days."
-    c ""
+    c "But the second the gift is withdrawn, they fade away in mere days."
 
 # WarriorRahayal2_a28985c5 (line 51844)
 translate ru WarriorRahayal2_a28985c5:
@@ -986,42 +976,42 @@ translate ru WarriorRahayal2_a28985c5:
 # WarriorRahayal2_4df9924f (line 51845)
 translate ru WarriorRahayal2_4df9924f:
     # s "So the Noctori..."
-    s ""
+    s "So the Noctori..."
 
 # WarriorRahayal2_b0e594f8 (line 51846)
 translate ru WarriorRahayal2_b0e594f8:
     # c "They are the leaders of the Mythran Empire, yes, but they are in their own way enslaved."
-    c ""
+    c "They are the leaders of the Mythran Empire, yes, but they are in their own way enslaved."
 
 # WarriorRahayal2_85231b31 (line 51847)
 translate ru WarriorRahayal2_85231b31:
     # c "Enslaved to the source of their longevity."
-    c ""
+    c "Enslaved to the source of their longevity."
 
 # WarriorRahayal2_8031ff63 (line 51848)
 translate ru WarriorRahayal2_8031ff63:
     # c "The Dark Fountain."
-    c ""
+    c "The Dark Fountain."
 
 # WarriorRahayal2_86d4b10d (line 51849)
 translate ru WarriorRahayal2_86d4b10d:
     # c "The smartest, strongest, most driven humans are promoted to the ranks of the Noctori."
-    c ""
+    c "The smartest, strongest, most driven humans are promoted to the ranks of the Noctori."
 
 # WarriorRahayal2_b5e0627c (line 51850)
 translate ru WarriorRahayal2_b5e0627c:
     # c "But once there, they are trapped."
-    c ""
+    c "But once there, they are trapped."
 
 # WarriorRahayal2_13504eb6 (line 51851)
 translate ru WarriorRahayal2_13504eb6:
     # c "Trapped, because they must continue to serve the Empire and advance its cause, or otherwise lose the favor of the Dark Fountain."
-    c ""
+    c "Trapped, because they must continue to serve the Empire and advance its cause, or otherwise lose the favor of the Dark Fountain."
 
 # WarriorRahayal2_576f2e67 (line 51852)
 translate ru WarriorRahayal2_576f2e67:
     # c "And if they lose its favor, their lives are swiftly undone."
-    c ""
+    c "And if they lose its favor, their lives are swiftly undone."
 
 # WarriorRahayal2_bf83bf43 (line 51853)
 translate ru WarriorRahayal2_bf83bf43:
@@ -1031,17 +1021,17 @@ translate ru WarriorRahayal2_bf83bf43:
 # WarriorRahayal2_0db8581c (line 51854)
 translate ru WarriorRahayal2_0db8581c:
     # c "This is why Gilead is so eager to start this new war and gain a foothold in the Union."
-    c ""
+    c "This is why Gilead is so eager to start this new war and gain a foothold in the Union."
 
 # WarriorRahayal2_0704d63f (line 51855)
 translate ru WarriorRahayal2_0704d63f:
     # c "He is close to losing favor with the Dark Fountain, he can feel the boon begin to slip."
-    c ""
+    c "He is close to losing favor with the Dark Fountain, he can feel the boon begin to slip."
 
 # WarriorRahayal2_79329b76 (line 51856)
 translate ru WarriorRahayal2_79329b76:
     # c "He is convinced that if he can start a new war, a campaign that might last decades, that he can buy himself a longer life."
-    c ""
+    c "He is convinced that if he can start a new war, a campaign that might last decades, that he can buy himself a longer life."
 
 # WarriorRahayal2_0effc961 (line 51857)
 translate ru WarriorRahayal2_0effc961:
@@ -1051,7 +1041,7 @@ translate ru WarriorRahayal2_0effc961:
 # WarriorRahayal2_215bffbf (line 51858)
 translate ru WarriorRahayal2_215bffbf:
     # s "He wants to start a war...so that he can live longer?"
-    s ""
+    s "He wants to start a war...so that he can live longer?"
 
 # WarriorRahayal2_5a16924b (line 51859)
 translate ru WarriorRahayal2_5a16924b:
@@ -1061,22 +1051,22 @@ translate ru WarriorRahayal2_5a16924b:
 # WarriorRahayal2_4ea5b4be (line 51860)
 translate ru WarriorRahayal2_4ea5b4be:
     # c "These Noctori...they are all quite selfish in the end."
-    c ""
+    c "These Noctori...they are all quite selfish in the end."
 
 # WarriorRahayal2_1e14207c (line 51861)
 translate ru WarriorRahayal2_1e14207c:
     # c "Especially when they feel the desperation of death draw near."
-    c ""
+    c "Especially when they feel the desperation of death draw near."
 
 # WarriorRahayal2_0b249e35 (line 51862)
 translate ru WarriorRahayal2_0b249e35:
     # c "Two legions, countless dead, a long drawn out campaign. These mean nothing to him, if he can buy a few more years."
-    c ""
+    c "Two legions, countless dead, a long drawn out campaign. These mean nothing to him, if he can buy a few more years."
 
 # WarriorRahayal2_5936c659 (line 51863)
 translate ru WarriorRahayal2_5936c659:
     # c "And the Dark Fountain will likely grant him these, if he stands at the helm of this new warfront."
-    c ""
+    c "And the Dark Fountain will likely grant him these, if he stands at the helm of this new warfront."
 
 # WarriorRahayal2_82dd0bfb (line 51864)
 translate ru WarriorRahayal2_82dd0bfb:
@@ -1086,7 +1076,7 @@ translate ru WarriorRahayal2_82dd0bfb:
 # WarriorRahayal2_81d3d7ea (line 51865)
 translate ru WarriorRahayal2_81d3d7ea:
     # s "How can one man be so depraved..."
-    s ""
+    s "How can one man be so depraved..."
 
 # WarriorRahayal2_672512d4 (line 51866)
 translate ru WarriorRahayal2_672512d4:
@@ -1096,17 +1086,17 @@ translate ru WarriorRahayal2_672512d4:
 # WarriorRahayal2_2b50a89b (line 51867)
 translate ru WarriorRahayal2_2b50a89b:
     # c "Yes, he may very well be depraved, but that is the angle that affords us his support."
-    c ""
+    c "Yes, he may very well be depraved, but that is the angle that affords us his support."
 
 # WarriorRahayal2_4847de08 (line 51868)
 translate ru WarriorRahayal2_4847de08:
     # c "He can gain the extra life he desperately clings to, and we can gain the support of his armies."
-    c ""
+    c "He can gain the extra life he desperately clings to, and we can gain the support of his armies."
 
 # WarriorRahayal2_5a1b9b01 (line 51869)
 translate ru WarriorRahayal2_5a1b9b01:
     # c "Two Mythran Legions, enough to retake Rosanna."
-    c ""
+    c "Two Mythran Legions, enough to retake Rosanna."
 
 # WarriorRahayal2_47e1e19f (line 51870)
 translate ru WarriorRahayal2_47e1e19f:
@@ -1116,22 +1106,22 @@ translate ru WarriorRahayal2_47e1e19f:
 # WarriorRahayal2_79d60322 (line 51871)
 translate ru WarriorRahayal2_79d60322:
     # s "Yes, retake Rosanna."
-    s ""
+    s "Yes, retake Rosanna."
 
 # WarriorRahayal2_14fcb9ae (line 51872)
 translate ru WarriorRahayal2_14fcb9ae:
     # s "And then plunge us into a deeper conflict with all the other Union Kingdoms."
-    s ""
+    s "And then plunge us into a deeper conflict with all the other Union Kingdoms."
 
 # WarriorRahayal2_7928ea8d (line 51873)
 translate ru WarriorRahayal2_7928ea8d:
     # s "A massive conflict that could drag out for decades."
-    s ""
+    s "A massive conflict that could drag out for decades."
 
 # WarriorRahayal2_d36ab536 (line 51874)
 translate ru WarriorRahayal2_d36ab536:
     # s "And once his Legions are on my homeland, I will be a ruler in name only."
-    s ""
+    s "And once his Legions are on my homeland, I will be a ruler in name only."
 
 # WarriorRahayal2_73e7e9ab (line 51875)
 translate ru WarriorRahayal2_73e7e9ab:
@@ -1141,27 +1131,27 @@ translate ru WarriorRahayal2_73e7e9ab:
 # WarriorRahayal2_16149ea1 (line 51876)
 translate ru WarriorRahayal2_16149ea1:
     # c "No!"
-    c ""
+    c "No!"
 
 # WarriorRahayal2_0f1113f9 (line 51877)
 translate ru WarriorRahayal2_0f1113f9:
     # c "The people love you, Sarah."
-    c ""
+    c "The people love you, Sarah."
 
 # WarriorRahayal2_a96861b6 (line 51878)
 translate ru WarriorRahayal2_a96861b6:
     # c "Once you are restored to the throne, we can regain control over the entire country."
-    c ""
+    c "Once you are restored to the throne, we can regain control over the entire country."
 
 # WarriorRahayal2_69231307 (line 51879)
 translate ru WarriorRahayal2_69231307:
     # c "Yes...Gilead will have some measure of control. But once you are crowned, you will have more power to resist him than ever before."
-    c ""
+    c "Yes...Gilead will have some measure of control. But once you are crowned, you will have more power to resist him than ever before."
 
 # WarriorRahayal2_581a5dd2 (line 51880)
 translate ru WarriorRahayal2_581a5dd2:
     # s "Or I will owe him a debt that I cannot get out of."
-    s ""
+    s "Or I will owe him a debt that I cannot get out of."
 
 # WarriorRahayal2_b921520c (line 51881)
 translate ru WarriorRahayal2_b921520c:
@@ -1171,17 +1161,17 @@ translate ru WarriorRahayal2_b921520c:
 # WarriorRahayal2_4ccc9930 (line 51882)
 translate ru WarriorRahayal2_4ccc9930:
     # s "And...what if I reject him?"
-    s ""
+    s "And...what if I reject him?"
 
 # WarriorRahayal2_09bff2cd (line 51883)
 translate ru WarriorRahayal2_09bff2cd:
     # c "Reject?"
-    c ""
+    c "Reject?"
 
 # WarriorRahayal2_86d7bb65 (line 51884)
 translate ru WarriorRahayal2_86d7bb65:
     # s "What if I sail back home with my own army, forget his offer?"
-    s ""
+    s "What if I sail back home with my own army, forget his offer?"
 
 # WarriorRahayal2_12b0986f (line 51885)
 translate ru WarriorRahayal2_12b0986f:
@@ -1191,27 +1181,27 @@ translate ru WarriorRahayal2_12b0986f:
 # WarriorRahayal2_38be0e62 (line 51886)
 translate ru WarriorRahayal2_38be0e62:
     # c "The Tribes are weakened. The death of their Khan has left them divided."
-    c ""
+    c "The Tribes are weakened. The death of their Khan has left them divided."
 
 # WarriorRahayal2_b31f450e (line 51887)
 translate ru WarriorRahayal2_b31f450e:
     # c "The man that rules over Rosanna, Kamal, is fat and has little interest in things beyond simple pleasures."
-    c ""
+    c "The man that rules over Rosanna, Kamal, is fat and has little interest in things beyond simple pleasures."
 
 # WarriorRahayal2_085145fd (line 51888)
 translate ru WarriorRahayal2_085145fd:
     # c "But his not a fool."
-    c ""
+    c "But his not a fool."
 
 # WarriorRahayal2_1e8562f8 (line 51889)
 translate ru WarriorRahayal2_1e8562f8:
     # c "In his earlier days, he was a skilled warlord in his own right."
-    c ""
+    c "In his earlier days, he was a skilled warlord in his own right."
 
 # WarriorRahayal2_5355da5a (line 51890)
 translate ru WarriorRahayal2_5355da5a:
     # c "Even with his diminished armies, he may very well prove a dangerous foe."
-    c ""
+    c "Even with his diminished armies, he may very well prove a dangerous foe."
 
 # WarriorRahayal2_4d25ad37 (line 51891)
 translate ru WarriorRahayal2_4d25ad37:
@@ -1221,12 +1211,12 @@ translate ru WarriorRahayal2_4d25ad37:
 # WarriorRahayal2_218f5fa2 (line 51892)
 translate ru WarriorRahayal2_218f5fa2:
     # s "How dangerous?"
-    s ""
+    s "How dangerous?"
 
 # WarriorRahayal2_9dbc2f5f (line 51893)
 translate ru WarriorRahayal2_9dbc2f5f:
     # c "If it's just your army, without any support from the Mythran Legions?"
-    c ""
+    c "If it's just your army, without any support from the Mythran Legions?"
 
 # WarriorRahayal2_37bc1b3d (line 51894)
 translate ru WarriorRahayal2_37bc1b3d:
@@ -1236,17 +1226,17 @@ translate ru WarriorRahayal2_37bc1b3d:
 # WarriorRahayal2_dd5e8b1c (line 51895)
 translate ru WarriorRahayal2_dd5e8b1c:
     # c "It could go either way."
-    c ""
+    c "It could go either way."
 
 # WarriorRahayal2_48501b1a (line 51896)
 translate ru WarriorRahayal2_48501b1a:
     # c "With the support of Mythra, your victory is certain."
-    c ""
+    c "With the support of Mythra, your victory is certain."
 
 # WarriorRahayal2_989dea41 (line 51897)
 translate ru WarriorRahayal2_989dea41:
     # c "Without it...I cannot be so certain."
-    c ""
+    c "Without it...I cannot be so certain."
 
 # WarriorRahayal2_df6f28b3 (line 51898)
 translate ru WarriorRahayal2_df6f28b3:
@@ -1291,22 +1281,22 @@ translate ru WarriorRahayal2_c4c61d3c:
 # WarriorRahayal2_32edb0a0 (line 51906)
 translate ru WarriorRahayal2_32edb0a0:
     # s "You've given me a lot to consider..."
-    s ""
+    s "You've given me a lot to consider..."
 
 # WarriorRahayal2_136ef2e0 (line 51907)
 translate ru WarriorRahayal2_136ef2e0:
     # c "Yes, and though it pains me...I must ask that you consider quickly."
-    c ""
+    c "Yes, and though it pains me...I must ask that you consider quickly."
 
 # WarriorRahayal2_fc7bbc8b (line 51908)
 translate ru WarriorRahayal2_fc7bbc8b:
     # c "Gilead has invited us to to discuss this matter."
-    c ""
+    c "Gilead has invited us to to discuss this matter."
 
 # WarriorRahayal2_3dae46f6 (line 51909)
 translate ru WarriorRahayal2_3dae46f6:
     # c "And he will be demanding an answer. One way or another."
-    c ""
+    c "And he will be demanding an answer. One way or another."
 
 # WarriorRahayal2_d9260e0a (line 51910)
 translate ru WarriorRahayal2_d9260e0a:
@@ -1316,7 +1306,7 @@ translate ru WarriorRahayal2_d9260e0a:
 # WarriorRahayal2_5c06b5df (line 51911)
 translate ru WarriorRahayal2_5c06b5df:
     # s "I understand."
-    s ""
+    s "I understand."
 
 # WarriorRahayal2_e9a593f3 (line 51912)
 translate ru WarriorRahayal2_e9a593f3:
@@ -1331,7 +1321,7 @@ translate ru WarriorRahayal2_03be7247:
 # WarriorRahayal2_ad24fd46 (line 51914)
 translate ru WarriorRahayal2_ad24fd46:
     # s "I think I will need to think about this by myself for a bit."
-    s ""
+    s "I think I will need to think about this by myself for a bit."
 
 # WarriorRahayal2_f66c6320 (line 51915)
 translate ru WarriorRahayal2_f66c6320:
@@ -1341,12 +1331,12 @@ translate ru WarriorRahayal2_f66c6320:
 # WarriorRahayal2_5a67cc8f (line 51916)
 translate ru WarriorRahayal2_5a67cc8f:
     # c "Of course. Take the evening to yourself."
-    c ""
+    c "Of course. Take the evening to yourself."
 
 # WarriorRahayal2_524ca342 (line 51917)
 translate ru WarriorRahayal2_524ca342:
     # c "The whole of the estate is available to you."
-    c ""
+    c "The whole of the estate is available to you."
 
 # WarriorRahayal2_dc2693bf (line 51918)
 translate ru WarriorRahayal2_dc2693bf:
@@ -1391,7 +1381,7 @@ translate ru WarriorRahayal2_c6f7cd78:
 # WarriorRahayal2_dfc9953b (line 52077)
 translate ru WarriorRahayal2_dfc9953b:
     # s "Hey."
-    s ""
+    s "Hey."
 
 # WarriorRahayal2_21180fd5 (line 52078)
 translate ru WarriorRahayal2_21180fd5:
@@ -1401,12 +1391,12 @@ translate ru WarriorRahayal2_21180fd5:
 # WarriorRahayal2_306a6ebb (line 52079)
 translate ru WarriorRahayal2_306a6ebb:
     # k "Ooh, hey..."
-    k ""
+    k "Ooh, hey..."
 
 # WarriorRahayal2_41a02667 (line 52080)
 translate ru WarriorRahayal2_41a02667:
     # k "Done meeting with that hag?"
-    k ""
+    k "Done meeting with that hag?"
 
 # WarriorRahayal2_cebc298f (line 52081)
 translate ru WarriorRahayal2_cebc298f:
@@ -1416,7 +1406,7 @@ translate ru WarriorRahayal2_cebc298f:
 # WarriorRahayal2_6a8e26ea (line 52082)
 translate ru WarriorRahayal2_6a8e26ea:
     # s "You shouldn't call her that. She's a loyal ally."
-    s ""
+    s "You shouldn't call her that. She's a loyal ally."
 
 # WarriorRahayal2_f20e1eee (line 52083)
 translate ru WarriorRahayal2_f20e1eee:
@@ -1426,7 +1416,7 @@ translate ru WarriorRahayal2_f20e1eee:
 # WarriorRahayal2_905f6880 (line 52084)
 translate ru WarriorRahayal2_905f6880:
     # k "Ally, huh..."
-    k ""
+    k "Ally, huh..."
 
 # WarriorRahayal2_28a41a79 (line 52085)
 translate ru WarriorRahayal2_28a41a79:
@@ -1436,12 +1426,12 @@ translate ru WarriorRahayal2_28a41a79:
 # WarriorRahayal2_96c36a8a (line 52086)
 translate ru WarriorRahayal2_96c36a8a:
     # s "I'd almost say you're in a bad mood."
-    s ""
+    s "I'd almost say you're in a bad mood."
 
 # WarriorRahayal2_4c795a85 (line 52087)
 translate ru WarriorRahayal2_4c795a85:
     # s "Then again, you're usually in a sour mood, so it can be hard to tell sometimes."
-    s ""
+    s "Then again, you're usually in a sour mood, so it can be hard to tell sometimes."
 
 # WarriorRahayal2_ff7e0c45 (line 52088)
 translate ru WarriorRahayal2_ff7e0c45:
@@ -1451,7 +1441,7 @@ translate ru WarriorRahayal2_ff7e0c45:
 # WarriorRahayal2_2dae1baf (line 52089)
 translate ru WarriorRahayal2_2dae1baf:
     # k "You try having a good time without a drink."
-    k ""
+    k "You try having a good time without a drink."
 
 # WarriorRahayal2_0259bafa (line 52090)
 translate ru WarriorRahayal2_0259bafa:
@@ -1461,7 +1451,7 @@ translate ru WarriorRahayal2_0259bafa:
 # WarriorRahayal2_3a0faf64 (line 52091)
 translate ru WarriorRahayal2_3a0faf64:
     # s "Kate, you know that-"
-    s ""
+    s "Kate, you know that-"
 
 # WarriorRahayal2_986ef874 (line 52092)
 translate ru WarriorRahayal2_986ef874:
@@ -1471,7 +1461,7 @@ translate ru WarriorRahayal2_986ef874:
 # WarriorRahayal2_b0e7b40d (line 52093)
 translate ru WarriorRahayal2_b0e7b40d:
     # k "I know, I was just making a joke. It's not actually about drinking."
-    k ""
+    k "I know, I was just making a joke. It's not actually about drinking."
 
 # WarriorRahayal2_585cd03f (line 52094)
 translate ru WarriorRahayal2_585cd03f:
@@ -1481,7 +1471,7 @@ translate ru WarriorRahayal2_585cd03f:
 # WarriorRahayal2_7990c4c1 (line 52095)
 translate ru WarriorRahayal2_7990c4c1:
     # s "I don't understand..."
-    s ""
+    s "I don't understand..."
 
 # WarriorRahayal2_fb0091a9 (line 52096)
 translate ru WarriorRahayal2_fb0091a9:
@@ -1491,12 +1481,12 @@ translate ru WarriorRahayal2_fb0091a9:
 # WarriorRahayal2_bce00b79 (line 52097)
 translate ru WarriorRahayal2_bce00b79:
     # k "It's all this..."
-    k ""
+    k "It's all this..."
 
 # WarriorRahayal2_bd6bbf85 (line 52098)
 translate ru WarriorRahayal2_bd6bbf85:
     # k "Allies...plots...kingdoms..."
-    k ""
+    k "Allies...plots...kingdoms..."
 
 # WarriorRahayal2_d7dd32ac (line 52099)
 translate ru WarriorRahayal2_d7dd32ac:
@@ -1506,7 +1496,7 @@ translate ru WarriorRahayal2_d7dd32ac:
 # WarriorRahayal2_99ed8dea (line 52100)
 translate ru WarriorRahayal2_99ed8dea:
     # k "Life felt a lot simpler not that long ago."
-    k ""
+    k "Life felt a lot simpler not that long ago."
 
 # WarriorRahayal2_4178de44 (line 52101)
 translate ru WarriorRahayal2_4178de44:
@@ -1521,7 +1511,7 @@ translate ru WarriorRahayal2_58fb40d2:
 # WarriorRahayal2_b5b85288 (line 52103)
 translate ru WarriorRahayal2_b5b85288:
     # s "When I first joined with you and Vaelen...you knew why I did it."
-    s ""
+    s "When I first joined with you and Vaelen...you knew why I did it."
 
 # WarriorRahayal2_19960622 (line 52104)
 translate ru WarriorRahayal2_19960622:
@@ -1531,17 +1521,17 @@ translate ru WarriorRahayal2_19960622:
 # WarriorRahayal2_a05f2ced (line 52105)
 translate ru WarriorRahayal2_a05f2ced:
     # k "I knew, but I thought maybe the years had changed something."
-    k ""
+    k "I knew, but I thought maybe the years had changed something."
 
 # WarriorRahayal2_47f37fea (line 52106)
 translate ru WarriorRahayal2_47f37fea:
     # s "So what then?"
-    s ""
+    s "So what then?"
 
 # WarriorRahayal2_aa569950 (line 52107)
 translate ru WarriorRahayal2_aa569950:
     # s "You're afraid?"
-    s ""
+    s "You're afraid?"
 
 # WarriorRahayal2_3f465915 (line 52108)
 translate ru WarriorRahayal2_3f465915:
@@ -1551,7 +1541,7 @@ translate ru WarriorRahayal2_3f465915:
 # WarriorRahayal2_d9f31eb7 (line 52109)
 translate ru WarriorRahayal2_d9f31eb7:
     # k "Nah."
-    k ""
+    k "Nah."
 
 # WarriorRahayal2_f7475ae3 (line 52110)
 translate ru WarriorRahayal2_f7475ae3:
@@ -1561,37 +1551,37 @@ translate ru WarriorRahayal2_f7475ae3:
 # WarriorRahayal2_267eb53b (line 52111)
 translate ru WarriorRahayal2_267eb53b:
     # k "It's the opposite."
-    k ""
+    k "It's the opposite."
 
 # WarriorRahayal2_b9f91b5f (line 52112)
 translate ru WarriorRahayal2_b9f91b5f:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # WarriorRahayal2_eef392de (line 52113)
 translate ru WarriorRahayal2_eef392de:
     # k "I mean that I think you'll win."
-    k ""
+    k "I mean that I think you'll win."
 
 # WarriorRahayal2_7dca226a (line 52114)
 translate ru WarriorRahayal2_7dca226a:
     # k "You'll ride out across the sea, back home...back where you belong."
-    k ""
+    k "You'll ride out across the sea, back home...back where you belong."
 
 # WarriorRahayal2_a5645ea7 (line 52115)
 translate ru WarriorRahayal2_a5645ea7:
     # k "You'll take back your throne and you'll rule..."
-    k ""
+    k "You'll take back your throne and you'll rule..."
 
 # WarriorRahayal2_931b8167 (line 52116)
 translate ru WarriorRahayal2_931b8167:
     # k "Gods...you'll probably even be good at that too."
-    k ""
+    k "Gods...you'll probably even be good at that too."
 
 # WarriorRahayal2_fbb7a3ce (line 52117)
 translate ru WarriorRahayal2_fbb7a3ce:
     # s "So what's the problem?"
-    s ""
+    s "So what's the problem?"
 
 # WarriorRahayal2_376b6165 (line 52118)
 translate ru WarriorRahayal2_376b6165:
@@ -1601,12 +1591,12 @@ translate ru WarriorRahayal2_376b6165:
 # WarriorRahayal2_45fba980 (line 52119)
 translate ru WarriorRahayal2_45fba980:
     # k "It's just that no matter what or how I imagine your story...I don't see much of of a part for me to play in it."
-    k ""
+    k "It's just that no matter what or how I imagine your story...I don't see much of of a part for me to play in it."
 
 # WarriorRahayal2_fa2b62b9 (line 52120)
 translate ru WarriorRahayal2_fa2b62b9:
     # s "Kate..."
-    s ""
+    s "Kate..."
 
 # WarriorRahayal2_4e9991ad (line 52121)
 translate ru WarriorRahayal2_4e9991ad:
@@ -1616,37 +1606,37 @@ translate ru WarriorRahayal2_4e9991ad:
 # WarriorRahayal2_721cc5ab (line 52122)
 translate ru WarriorRahayal2_721cc5ab:
     # k "It's fine, Sarah."
-    k ""
+    k "It's fine, Sarah."
 
 # WarriorRahayal2_9f65aa1f (line 52123)
 translate ru WarriorRahayal2_9f65aa1f:
     # k "You have obligations that are bigger than me."
-    k ""
+    k "You have obligations that are bigger than me."
 
 # WarriorRahayal2_5a7d65aa (line 52124)
 translate ru WarriorRahayal2_5a7d65aa:
     # k "It's just that...I guess I never realized our time together was going to end."
-    k ""
+    k "It's just that...I guess I never realized our time together was going to end."
 
 # WarriorRahayal2_28a785c1 (line 52125)
 translate ru WarriorRahayal2_28a785c1:
     # s "It won't."
-    s ""
+    s "It won't."
 
 # WarriorRahayal2_46a821cb (line 52126)
 translate ru WarriorRahayal2_46a821cb:
     # k "But it will. Things are already changing, after you took over from Vaelen."
-    k ""
+    k "But it will. Things are already changing, after you took over from Vaelen."
 
 # WarriorRahayal2_0f6d4782 (line 52127)
 translate ru WarriorRahayal2_0f6d4782:
     # s "Yeah, but-"
-    s ""
+    s "Yeah, but-"
 
 # WarriorRahayal2_85e640b2 (line 52128)
 translate ru WarriorRahayal2_85e640b2:
     # k "But what? You think when you take back Rosanna, things will be less busy?"
-    k ""
+    k "But what? You think when you take back Rosanna, things will be less busy?"
 
 # WarriorRahayal2_599775e1 (line 52129)
 translate ru WarriorRahayal2_599775e1:
@@ -1666,7 +1656,7 @@ translate ru WarriorRahayal2_098e6a50:
 # WarriorRahayal2_712c88c5 (line 52132)
 translate ru WarriorRahayal2_712c88c5:
     # s "Do you think I shouldn't?"
-    s ""
+    s "Do you think I shouldn't?"
 
 # WarriorRahayal2_523220e0 (line 52133)
 translate ru WarriorRahayal2_523220e0:
@@ -1676,22 +1666,22 @@ translate ru WarriorRahayal2_523220e0:
 # WarriorRahayal2_8f36be3b (line 52134)
 translate ru WarriorRahayal2_8f36be3b:
     # k "You can't not return home..."
-    k ""
+    k "You can't not return home..."
 
 # WarriorRahayal2_d49f4bb3 (line 52135)
 translate ru WarriorRahayal2_d49f4bb3:
     # s "I could."
-    s ""
+    s "I could."
 
 # WarriorRahayal2_8167acaa (line 52136)
 translate ru WarriorRahayal2_8167acaa:
     # s "We could sail...anywhere we wanted to."
-    s ""
+    s "We could sail...anywhere we wanted to."
 
 # WarriorRahayal2_2451a83f (line 52137)
 translate ru WarriorRahayal2_2451a83f:
     # s "Keep living as we did. Taking on contracts."
-    s ""
+    s "Keep living as we did. Taking on contracts."
 
 # WarriorRahayal2_4d3812e0 (line 52138)
 translate ru WarriorRahayal2_4d3812e0:
@@ -1701,12 +1691,12 @@ translate ru WarriorRahayal2_4d3812e0:
 # WarriorRahayal2_2eb10b21 (line 52139)
 translate ru WarriorRahayal2_2eb10b21:
     # k "I love you too much to ask that of you, Sarah."
-    k ""
+    k "I love you too much to ask that of you, Sarah."
 
 # WarriorRahayal2_2f6b4076 (line 52140)
 translate ru WarriorRahayal2_2f6b4076:
     # k "I'm a selfish bitch, I know that better than most, but even I can't ask you to throw it all away for me."
-    k ""
+    k "I'm a selfish bitch, I know that better than most, but even I can't ask you to throw it all away for me."
 
 # WarriorRahayal2_f99d83cc (line 52141)
 translate ru WarriorRahayal2_f99d83cc:
@@ -1716,17 +1706,17 @@ translate ru WarriorRahayal2_f99d83cc:
 # WarriorRahayal2_8cd01508 (line 52142)
 translate ru WarriorRahayal2_8cd01508:
     # k "Besides. I'm not that important, all things considered."
-    k ""
+    k "Besides. I'm not that important, all things considered."
 
 # WarriorRahayal2_8c1f6ce0 (line 52143)
 translate ru WarriorRahayal2_8c1f6ce0:
     # k "You have a people that wait for your return."
-    k ""
+    k "You have a people that wait for your return."
 
 # WarriorRahayal2_4a57d31e (line 52144)
 translate ru WarriorRahayal2_4a57d31e:
     # k "I'm just...some servant girl that took a few wrong turns in her life."
-    k ""
+    k "I'm just...some servant girl that took a few wrong turns in her life."
 
 # WarriorRahayal2_28dc3c1e (line 52145)
 translate ru WarriorRahayal2_28dc3c1e:
@@ -1741,17 +1731,17 @@ translate ru WarriorRahayal2_2813baac:
 # WarriorRahayal2_5c35eafb (line 52147)
 translate ru WarriorRahayal2_5c35eafb:
     # s "You'll come along with me, back to Rosanna."
-    s ""
+    s "You'll come along with me, back to Rosanna."
 
 # WarriorRahayal2_7eb87b5c (line 52148)
 translate ru WarriorRahayal2_7eb87b5c:
     # s "You'll fight and help restore the country to what it was."
-    s ""
+    s "You'll fight and help restore the country to what it was."
 
 # WarriorRahayal2_fca73261 (line 52149)
 translate ru WarriorRahayal2_fca73261:
     # s "You'll be a hero. You'll be whatever you want to be."
-    s ""
+    s "You'll be a hero. You'll be whatever you want to be."
 
 # WarriorRahayal2_ca8fffab (line 52150)
 translate ru WarriorRahayal2_ca8fffab:
@@ -1761,7 +1751,7 @@ translate ru WarriorRahayal2_ca8fffab:
 # WarriorRahayal2_1bc6141e (line 52151)
 translate ru WarriorRahayal2_1bc6141e:
     # k "And us?"
-    k ""
+    k "And us?"
 
 # WarriorRahayal2_753279b6 (line 52197)
 translate ru WarriorRahayal2_753279b6:
@@ -1771,7 +1761,7 @@ translate ru WarriorRahayal2_753279b6:
 # WarriorRahayal2_62e69ff4 (line 52198)
 translate ru WarriorRahayal2_62e69ff4:
     # k "So, you've made up your mind yet? About this Gilead fella?"
-    k ""
+    k "So, you've made up your mind yet? About this Gilead fella?"
 
 # WarriorRahayal2_d69b5476 (line 52199)
 translate ru WarriorRahayal2_d69b5476:
@@ -1781,12 +1771,12 @@ translate ru WarriorRahayal2_d69b5476:
 # WarriorRahayal2_d29f7bd9 (line 52200)
 translate ru WarriorRahayal2_d29f7bd9:
     # s "Still processing. It's a lot."
-    s ""
+    s "Still processing. It's a lot."
 
 # WarriorRahayal2_fa46def9 (line 52201)
 translate ru WarriorRahayal2_fa46def9:
     # s "What do you think?"
-    s ""
+    s "What do you think?"
 
 # WarriorRahayal2_ebc8432d (line 52202)
 translate ru WarriorRahayal2_ebc8432d:
@@ -1796,22 +1786,22 @@ translate ru WarriorRahayal2_ebc8432d:
 # WarriorRahayal2_08f5baa6 (line 52203)
 translate ru WarriorRahayal2_08f5baa6:
     # k "I know few things in this life come free."
-    k ""
+    k "I know few things in this life come free."
 
 # WarriorRahayal2_b48a8fa9 (line 52204)
 translate ru WarriorRahayal2_b48a8fa9:
     # k "Even the shit that seems free."
-    k ""
+    k "Even the shit that seems free."
 
 # WarriorRahayal2_b14654ad (line 52205)
 translate ru WarriorRahayal2_b14654ad:
     # k "He ain't giving you anything without expecting something for it."
-    k ""
+    k "He ain't giving you anything without expecting something for it."
 
 # WarriorRahayal2_32fce73b (line 52206)
 translate ru WarriorRahayal2_32fce73b:
     # k "If he ain't asking for it now, he'll ask for it later."
-    k ""
+    k "If he ain't asking for it now, he'll ask for it later."
 
 # WarriorRahayal2_5b70bff3 (line 52207)
 translate ru WarriorRahayal2_5b70bff3:
@@ -1826,7 +1816,7 @@ translate ru WarriorRahayal2_be2609a2:
 # WarriorRahayal2_be265407 (line 52209)
 translate ru WarriorRahayal2_be265407:
     # k "Honestly, I don't envy you."
-    k ""
+    k "Honestly, I don't envy you."
 
 # WarriorRahayal2_885a69cf (line 52210)
 translate ru WarriorRahayal2_885a69cf:
@@ -1836,7 +1826,7 @@ translate ru WarriorRahayal2_885a69cf:
 # WarriorRahayal2_33ad6bb5 (line 52211)
 translate ru WarriorRahayal2_33ad6bb5:
     # s "I need to walk. Think."
-    s ""
+    s "I need to walk. Think."
 
 # WarriorRahayal2_ea0582b0 (line 52212)
 translate ru WarriorRahayal2_ea0582b0:
@@ -1891,7 +1881,7 @@ translate ru WarriorRahayal2_1c2e4ebe:
 # WarriorRahayal2_696811e8 (line 52236)
 translate ru WarriorRahayal2_696811e8:
     # cas "Hail, Rose Knight."
-    cas ""
+    cas "Hail, Rose Knight."
 
 # WarriorRahayal2_24d5b6df (line 52237)
 translate ru WarriorRahayal2_24d5b6df:
@@ -1901,7 +1891,7 @@ translate ru WarriorRahayal2_24d5b6df:
 # WarriorRahayal2_be42ba09 (line 52238)
 translate ru WarriorRahayal2_be42ba09:
     # cas "Or is it Commander? Or Demon Slayer?"
-    cas ""
+    cas "Or is it Commander? Or Demon Slayer?"
 
 # WarriorRahayal2_99241980 (line 52239)
 translate ru WarriorRahayal2_99241980:
@@ -1911,7 +1901,7 @@ translate ru WarriorRahayal2_99241980:
 # WarriorRahayal2_d0a54d55 (line 52240)
 translate ru WarriorRahayal2_d0a54d55:
     # s "Sarah will do just fine, Cassius."
-    s ""
+    s "Sarah will do just fine, Cassius."
 
 # WarriorRahayal2_deb2bbc8 (line 52241)
 translate ru WarriorRahayal2_deb2bbc8:
@@ -1921,22 +1911,22 @@ translate ru WarriorRahayal2_deb2bbc8:
 # WarriorRahayal2_6d490f2a (line 52242)
 translate ru WarriorRahayal2_6d490f2a:
     # s "Where is your War-Sister?"
-    s ""
+    s "Where is your War-Sister?"
 
 # WarriorRahayal2_77300422 (line 52243)
 translate ru WarriorRahayal2_77300422:
     # cas "Dio has taken leave on our arrival in the city."
-    cas ""
+    cas "Dio has taken leave on our arrival in the city."
 
 # WarriorRahayal2_74a6a739 (line 52244)
 translate ru WarriorRahayal2_74a6a739:
     # cas "I managed to get her an appointment with the doctor that is familiar with her disease."
-    cas ""
+    cas "I managed to get her an appointment with the doctor that is familiar with her disease."
 
 # WarriorRahayal2_5a3b55a5 (line 52245)
 translate ru WarriorRahayal2_5a3b55a5:
     # s "So quickly?"
-    s ""
+    s "So quickly?"
 
 # WarriorRahayal2_70cd49b5 (line 52246)
 translate ru WarriorRahayal2_70cd49b5:
@@ -1946,7 +1936,7 @@ translate ru WarriorRahayal2_70cd49b5:
 # WarriorRahayal2_5700484d (line 52247)
 translate ru WarriorRahayal2_5700484d:
     # cas "I can be very convincing when I need to be."
-    cas ""
+    cas "I can be very convincing when I need to be."
 
 # WarriorRahayal2_8fac0ae8 (line 52248)
 translate ru WarriorRahayal2_8fac0ae8:
@@ -1956,7 +1946,7 @@ translate ru WarriorRahayal2_8fac0ae8:
 # WarriorRahayal2_1cdbeff0 (line 52249)
 translate ru WarriorRahayal2_1cdbeff0:
     # s "Don't tell me you're causing me trouble."
-    s ""
+    s "Don't tell me you're causing me trouble."
 
 # WarriorRahayal2_f4b1f44a (line 52250)
 translate ru WarriorRahayal2_f4b1f44a:
@@ -1966,12 +1956,12 @@ translate ru WarriorRahayal2_f4b1f44a:
 # WarriorRahayal2_cf6ad954 (line 52251)
 translate ru WarriorRahayal2_cf6ad954:
     # cas "Trouble? For you? Never."
-    cas ""
+    cas "Trouble? For you? Never."
 
 # WarriorRahayal2_bf525fe3 (line 52264)
 translate ru WarriorRahayal2_bf525fe3:
     # s "Anyway, don't let yourself be held up on my account."
-    s ""
+    s "Anyway, don't let yourself be held up on my account."
 
 # WarriorRahayal2_ef82f33a (line 52265)
 translate ru WarriorRahayal2_ef82f33a:
@@ -1981,7 +1971,7 @@ translate ru WarriorRahayal2_ef82f33a:
 # WarriorRahayal2_f4b927e4 (line 52266)
 translate ru WarriorRahayal2_f4b927e4:
     # cas "Anything I can help you with?"
-    cas ""
+    cas "Anything I can help you with?"
 
 # WarriorRahayal2_95268e5c (line 52267)
 translate ru WarriorRahayal2_95268e5c:
@@ -1991,7 +1981,7 @@ translate ru WarriorRahayal2_95268e5c:
 # WarriorRahayal2_95ae2e7a (line 52268)
 translate ru WarriorRahayal2_95ae2e7a:
     # s "It's just...a decision I have to make."
-    s ""
+    s "It's just...a decision I have to make."
 
 # WarriorRahayal2_65266e43 (line 52269)
 translate ru WarriorRahayal2_65266e43:
@@ -2001,27 +1991,27 @@ translate ru WarriorRahayal2_65266e43:
 # WarriorRahayal2_be6d73bd (line 52270)
 translate ru WarriorRahayal2_be6d73bd:
     # cas "Yes."
-    cas ""
+    cas "Yes."
 
 # WarriorRahayal2_5d75fce8 (line 52271)
 translate ru WarriorRahayal2_5d75fce8:
     # cas "I'm afraid I can't be of too much help for you there."
-    cas ""
+    cas "I'm afraid I can't be of too much help for you there."
 
 # WarriorRahayal2_a137ee85 (line 52272)
 translate ru WarriorRahayal2_a137ee85:
     # cas "I'm a warrior."
-    cas ""
+    cas "I'm a warrior."
 
 # WarriorRahayal2_cf357ecc (line 52273)
 translate ru WarriorRahayal2_cf357ecc:
     # cas "Point me in a direction and I'll cut my way from point A to B."
-    cas ""
+    cas "Point me in a direction and I'll cut my way from point A to B."
 
 # WarriorRahayal2_78e473ec (line 52274)
 translate ru WarriorRahayal2_78e473ec:
     # cas "But the big decisions...I leave those up to the important people."
-    cas ""
+    cas "But the big decisions...I leave those up to the important people."
 
 # WarriorRahayal2_ad94a9c0 (line 52275)
 translate ru WarriorRahayal2_ad94a9c0:
@@ -2031,7 +2021,7 @@ translate ru WarriorRahayal2_ad94a9c0:
 # WarriorRahayal2_7ccde042 (line 52276)
 translate ru WarriorRahayal2_7ccde042:
     # s "It's funny. Kate said something quite similar."
-    s ""
+    s "It's funny. Kate said something quite similar."
 
 # WarriorRahayal2_6c361e38 (line 52277)
 translate ru WarriorRahayal2_6c361e38:
@@ -2041,27 +2031,27 @@ translate ru WarriorRahayal2_6c361e38:
 # WarriorRahayal2_53ded301 (line 52278)
 translate ru WarriorRahayal2_53ded301:
     # cas "Then perhaps Kate is as wise as myself."
-    cas ""
+    cas "Then perhaps Kate is as wise as myself."
 
 # WarriorRahayal2_b24f0094 (line 52279)
 translate ru WarriorRahayal2_b24f0094:
     # s "Ever humble."
-    s ""
+    s "Ever humble."
 
 # WarriorRahayal2_a4dfee87 (line 52280)
 translate ru WarriorRahayal2_a4dfee87:
     # cas "Life is brief. Best to enjoy it, rather than go about in self-pity."
-    cas ""
+    cas "Life is brief. Best to enjoy it, rather than go about in self-pity."
 
 # WarriorRahayal2_c0bb19f6 (line 52281)
 translate ru WarriorRahayal2_c0bb19f6:
     # cas "As for yourself, you would do well to be a little less critical."
-    cas ""
+    cas "As for yourself, you would do well to be a little less critical."
 
 # WarriorRahayal2_37b8d059 (line 52282)
 translate ru WarriorRahayal2_37b8d059:
     # s "Less critical?"
-    s ""
+    s "Less critical?"
 
 # WarriorRahayal2_62c1b90a (line 52283)
 translate ru WarriorRahayal2_62c1b90a:
@@ -2071,12 +2061,12 @@ translate ru WarriorRahayal2_62c1b90a:
 # WarriorRahayal2_57372f8a (line 52284)
 translate ru WarriorRahayal2_57372f8a:
     # cas "You have a good heart. A good head."
-    cas ""
+    cas "You have a good heart. A good head."
 
 # WarriorRahayal2_98e2bdf9 (line 52285)
 translate ru WarriorRahayal2_98e2bdf9:
     # cas "You'll make the choice that is right."
-    cas ""
+    cas "You'll make the choice that is right."
 
 # WarriorRahayal2_e438868a (line 52286)
 translate ru WarriorRahayal2_e438868a:
@@ -2152,19 +2142,4 @@ translate ru WarriorRahayal2_5db20bec:
 translate ru WarriorRahayal2_6e77caf8:
     # "Would she know in the moment?"
     ""
-
-# WarriorRahayal2_8cd3694d (line 52573)
-translate ru WarriorRahayal2_8cd3694d:
-    # "Meet with Kate"
-    "Meet with Kate" ""
-
-# WarriorRahayal2_4b0c11cd (line 53423)
-translate ru WarriorRahayal2_4b0c11cd:
-    # "Meet with Cassius"
-    "Meet with Cassius" ""
-
-# WarriorRahayal2_dd6f2f95 (line 53433)
-translate ru WarriorRahayal2_dd6f2f95:
-    # "Stay alone"
-    "Stay alone" ""
 

@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: SarahAndNick1
-# Total blocks: 117
+# Total blocks: 115
 
 # SarahAndNick1_b0fc38bc (line 34677)
 translate ru SarahAndNick1_b0fc38bc:
@@ -226,7 +226,7 @@ translate ru SarahAndNick1_c6f1b749:
 # SarahAndNick1_4b650640 (line 34721)
 translate ru SarahAndNick1_4b650640:
     # nick "Hey."
-    nick ""
+    nick "Hey."
 
 # SarahAndNick1_52b93bca (line 34722)
 translate ru SarahAndNick1_52b93bca:
@@ -236,7 +236,7 @@ translate ru SarahAndNick1_52b93bca:
 # SarahAndNick1_dbb9d2a4 (line 34723)
 translate ru SarahAndNick1_dbb9d2a4:
     # s "Hey. Did you get any good sleep?"
-    s ""
+    s "Hey. Did you get any good sleep?"
 
 # SarahAndNick1_cf788ba3 (line 34724)
 translate ru SarahAndNick1_cf788ba3:
@@ -246,7 +246,7 @@ translate ru SarahAndNick1_cf788ba3:
 # SarahAndNick1_babf7a26 (line 34725)
 translate ru SarahAndNick1_babf7a26:
     # nick "I think I did."
-    nick ""
+    nick "I think I did."
 
 # SarahAndNick1_2c075f17 (line 34726)
 translate ru SarahAndNick1_2c075f17:
@@ -256,12 +256,12 @@ translate ru SarahAndNick1_2c075f17:
 # SarahAndNick1_7581fe2c (line 34727)
 translate ru SarahAndNick1_7581fe2c:
     # nick "We're so screwed..."
-    nick ""
+    nick "We're so screwed..."
 
 # SarahAndNick1_bc3351e4 (line 34728)
 translate ru SarahAndNick1_bc3351e4:
     # s "Don't say that. We'll need to keep our hopes of if we want any chance of getting out of here."
-    s ""
+    s "Don't say that. We'll need to keep our hopes of if we want any chance of getting out of here."
 
 # SarahAndNick1_6897f740 (line 34729)
 translate ru SarahAndNick1_6897f740:
@@ -271,7 +271,7 @@ translate ru SarahAndNick1_6897f740:
 # SarahAndNick1_bd1721ab (line 34730)
 translate ru SarahAndNick1_bd1721ab:
     # nick "Getting out of here? We're in the middle of the Hyral mountains. Better if we'd have just drowned."
-    nick ""
+    nick "Getting out of here? We're in the middle of the Hyral mountains. Better if we'd have just drowned."
 
 # SarahAndNick1_14a7e230 (line 34731)
 translate ru SarahAndNick1_14a7e230:
@@ -281,7 +281,7 @@ translate ru SarahAndNick1_14a7e230:
 # SarahAndNick1_aca1f070 (line 34732)
 translate ru SarahAndNick1_aca1f070:
     # s "Well, if you want, go ahead and dive in then. I'm going to try and get out of here, alive."
-    s ""
+    s "Well, if you want, go ahead and dive in then. I'm going to try and get out of here, alive."
 
 # SarahAndNick1_11495a99 (line 34733)
 translate ru SarahAndNick1_11495a99:
@@ -291,12 +291,12 @@ translate ru SarahAndNick1_11495a99:
 # SarahAndNick1_d8683542 (line 34734)
 translate ru SarahAndNick1_d8683542:
     # nick "Sorry, I just thought...our odds aren't exactly good."
-    nick ""
+    nick "Sorry, I just thought...our odds aren't exactly good."
 
 # SarahAndNick1_8a3f3b58 (line 34735)
 translate ru SarahAndNick1_8a3f3b58:
     # s "Trust me, I know that."
-    s ""
+    s "Trust me, I know that."
 
 # SarahAndNick1_c454e7c8 (line 34736)
 translate ru SarahAndNick1_c454e7c8:
@@ -316,7 +316,7 @@ translate ru SarahAndNick1_99d632f6:
 # SarahAndNick1_16793f29 (line 34739)
 translate ru SarahAndNick1_16793f29:
     # s "Right, so we agree? We'll need to leave. Today."
-    s ""
+    s "Right, so we agree? We'll need to leave. Today."
 
 # SarahAndNick1_19388c75 (line 34740)
 translate ru SarahAndNick1_19388c75:
@@ -351,7 +351,7 @@ translate ru SarahAndNick1_969a43b6:
 # SarahAndNick1_95eb8fbb (line 34746)
 translate ru SarahAndNick1_95eb8fbb:
     # s "Let's get packing."
-    s ""
+    s "Let's get packing."
 
 # SarahAndNick1_198efc35 (line 34747)
 translate ru SarahAndNick1_198efc35:
@@ -506,7 +506,7 @@ translate ru SarahAndNick1_e6f3d5f5:
 # SarahAndNick1_648fa1e0 (line 34784)
 translate ru SarahAndNick1_648fa1e0:
     # nick "I can't feel my feet...my hands...my...anything..."
-    nick ""
+    nick "I can't feel my feet...my hands...my...anything..."
 
 # SarahAndNick1_fd4eaa12 (line 34785)
 translate ru SarahAndNick1_fd4eaa12:
@@ -516,12 +516,12 @@ translate ru SarahAndNick1_fd4eaa12:
 # SarahAndNick1_73bb2db1 (line 34786)
 translate ru SarahAndNick1_73bb2db1:
     # s "Just a bit more."
-    s ""
+    s "Just a bit more."
 
 # SarahAndNick1_02f2192f (line 34787)
 translate ru SarahAndNick1_02f2192f:
     # s "I think...I see a spot up that hill where we can rest."
-    s ""
+    s "I think...I see a spot up that hill where we can rest."
 
 # SarahAndNick1_96e5921e (line 34788)
 translate ru SarahAndNick1_96e5921e:
@@ -531,12 +531,12 @@ translate ru SarahAndNick1_96e5921e:
 # SarahAndNick1_11792f19 (line 34789)
 translate ru SarahAndNick1_11792f19:
     # nick "Finally..."
-    nick ""
+    nick "Finally..."
 
 # SarahAndNick1_09ce1837 (line 34790)
 translate ru SarahAndNick1_09ce1837:
     # nick "Some rest...a fire..."
-    nick ""
+    nick "Some rest...a fire..."
 
 # SarahAndNick1_cfdad55f (line 34791)
 translate ru SarahAndNick1_cfdad55f:
@@ -577,14 +577,4 @@ translate ru SarahAndNick1_ae38021b:
 translate ru SarahAndNick1_b38bb150:
     # "Sarah wasn't sure what the best option was."
     ""
-
-# SarahAndNick1_3cf2f390 (line 34802)
-translate ru SarahAndNick1_3cf2f390:
-    # "Make a fire"
-    "Make a fire" ""
-
-# SarahAndNick1_2d78714d (line 34805)
-translate ru SarahAndNick1_2d78714d:
-    # "Hug together for warmth"
-    "Hug together for warmth" ""
 

@@ -41,7 +41,7 @@ translate ru VargaPath8_03ab8703:
 # VargaPath8_fc0d2cef (line 15609)
 translate ru VargaPath8_fc0d2cef:
     # kr "Princess Sarah, there has been a development..."
-    kr ""
+    kr "Princess Sarah, there has been a development..."
 
 # VargaPath8_7641e9f6 (line 15610)
 translate ru VargaPath8_7641e9f6:
@@ -56,17 +56,17 @@ translate ru VargaPath8_eb6992d2:
 # VargaPath8_c647f6ab (line 15612)
 translate ru VargaPath8_c647f6ab:
     # s "Tell me, Kravel."
-    s ""
+    s "Tell me, Kravel."
 
 # VargaPath8_35383698 (line 15613)
 translate ru VargaPath8_35383698:
     # kr "Princess...I..."
-    kr ""
+    kr "Princess...I..."
 
 # VargaPath8_573da1ea (line 15614)
 translate ru VargaPath8_573da1ea:
     # s "Come on, don't hold back with me."
-    s ""
+    s "Come on, don't hold back with me."
 
 # VargaPath8_44d8b320 (line 15615)
 translate ru VargaPath8_44d8b320:
@@ -76,7 +76,7 @@ translate ru VargaPath8_44d8b320:
 # VargaPath8_9bd4e22b (line 15616)
 translate ru VargaPath8_9bd4e22b:
     # kr "A message has arrived...from Marion."
-    kr ""
+    kr "A message has arrived...from Marion."
 
 # VargaPath8_c40ba072 (line 15617)
 translate ru VargaPath8_c40ba072:
@@ -91,22 +91,22 @@ translate ru VargaPath8_85f1fbd0:
 # VargaPath8_4ed81e8a (line 15619)
 translate ru VargaPath8_4ed81e8a:
     # s "What does it say?"
-    s ""
+    s "What does it say?"
 
 # VargaPath8_2427ada3 (line 15620)
 translate ru VargaPath8_2427ada3:
     # kr "Sarah, the message is...it's not the concern."
-    kr ""
+    kr "Sarah, the message is...it's not the concern."
 
 # VargaPath8_c5528686 (line 15621)
 translate ru VargaPath8_c5528686:
     # kr "Accompanying the letter was...I struggle to speak of it, but I must..."
-    kr ""
+    kr "Accompanying the letter was...I struggle to speak of it, but I must..."
 
 # VargaPath8_13765074 (line 15622)
 translate ru VargaPath8_13765074:
     # kr "A finger, bearing a ring."
-    kr ""
+    kr "A finger, bearing a ring."
 
 # VargaPath8_1bbf9dc0 (line 15623)
 translate ru VargaPath8_1bbf9dc0:
@@ -116,7 +116,7 @@ translate ru VargaPath8_1bbf9dc0:
 # VargaPath8_38d0e3c7 (line 15624)
 translate ru VargaPath8_38d0e3c7:
     # s "What...what do you mean..."
-    s ""
+    s "What...what do you mean..."
 
 # VargaPath8_aea02c29 (line 15625)
 translate ru VargaPath8_aea02c29:
@@ -126,7 +126,7 @@ translate ru VargaPath8_aea02c29:
 # VargaPath8_d902ce85 (line 15626)
 translate ru VargaPath8_d902ce85:
     # kr "My princess...it is your brother's finger and his seal ring."
-    kr ""
+    kr "My princess...it is your brother's finger and his seal ring."
 
 # VargaPath8_46f80512 (line 15627)
 translate ru VargaPath8_46f80512:
@@ -136,7 +136,7 @@ translate ru VargaPath8_46f80512:
 # VargaPath8_97ec9e71 (line 15628)
 translate ru VargaPath8_97ec9e71:
     # kr "My heart breaks to tell you this, but I could no more keep it secret from you either."
-    kr ""
+    kr "My heart breaks to tell you this, but I could no more keep it secret from you either."
 
 # VargaPath8_88e40443 (line 15629)
 translate ru VargaPath8_88e40443:
@@ -166,32 +166,32 @@ translate ru VargaPath8_97944a87:
 # VargaPath8_bbaa68d7 (line 15634)
 translate ru VargaPath8_bbaa68d7:
     # s "So this is what he has fallen to? Torture?"
-    s ""
+    s "So this is what he has fallen to? Torture?"
 
 # VargaPath8_e1df085a (line 15635)
 translate ru VargaPath8_e1df085a:
     # s "Thomas! My brother! Your king! They've abandoned any sense of honour or decency, for what!?"
-    s ""
+    s "Thomas! My brother! Your king! They've abandoned any sense of honour or decency, for what!?"
 
 # VargaPath8_4adc0fee (line 15636)
 translate ru VargaPath8_4adc0fee:
     # kr "Sarah, he seeks to bait you."
-    kr ""
+    kr "Sarah, he seeks to bait you."
 
 # VargaPath8_c198a293 (line 15637)
 translate ru VargaPath8_c198a293:
     # kr "Marion understands that his army holds a strong defensive advantage."
-    kr ""
+    kr "Marion understands that his army holds a strong defensive advantage."
 
 # VargaPath8_84e95e39 (line 15638)
 translate ru VargaPath8_84e95e39:
     # kr "He wants to lure you into attacking his stronghold. It is the same reason he has carried out these raids."
-    kr ""
+    kr "He wants to lure you into attacking his stronghold. It is the same reason he has carried out these raids."
 
 # VargaPath8_e4ea1852 (line 15639)
 translate ru VargaPath8_e4ea1852:
     # kr "He wants to play on your better nature, seduce you into making a mistake."
-    kr ""
+    kr "He wants to play on your better nature, seduce you into making a mistake."
 
 # VargaPath8_63a92e81 (line 15640)
 translate ru VargaPath8_63a92e81:
@@ -201,22 +201,22 @@ translate ru VargaPath8_63a92e81:
 # VargaPath8_e117a28f (line 15641)
 translate ru VargaPath8_e117a28f:
     # s "Then he knows me well!"
-    s ""
+    s "Then he knows me well!"
 
 # VargaPath8_a6bf7dd9 (line 15642)
 translate ru VargaPath8_a6bf7dd9:
     # s "This war cannot continue. The people will not bear it, nor will my brother."
-    s ""
+    s "This war cannot continue. The people will not bear it, nor will my brother."
 
 # VargaPath8_3950f003 (line 15643)
 translate ru VargaPath8_3950f003:
     # s "What is the state of our army?"
-    s ""
+    s "What is the state of our army?"
 
 # VargaPath8_0ddfc508 (line 15644)
 translate ru VargaPath8_0ddfc508:
     # kr "We are nearly finished with the final preparations. Perhaps three more weeks."
-    kr ""
+    kr "We are nearly finished with the final preparations. Perhaps three more weeks."
 
 # VargaPath8_4d20ce5d (line 15645)
 translate ru VargaPath8_4d20ce5d:
@@ -226,7 +226,7 @@ translate ru VargaPath8_4d20ce5d:
 # VargaPath8_2618df49 (line 15646)
 translate ru VargaPath8_2618df49:
     # s "You have one! Have the army ready by then."
-    s ""
+    s "You have one! Have the army ready by then."
 
 # VargaPath8_b26859f5 (line 15647)
 translate ru VargaPath8_b26859f5:
@@ -236,7 +236,7 @@ translate ru VargaPath8_b26859f5:
 # VargaPath8_54ec3ff4 (line 15648)
 translate ru VargaPath8_54ec3ff4:
     # kr "Yes, Princess. I will convene with Lord Varga and see to an expedited preparation."
-    kr ""
+    kr "Yes, Princess. I will convene with Lord Varga and see to an expedited preparation."
 
 # VargaPath8_b53d4b4e (line 15649)
 translate ru VargaPath8_b53d4b4e:

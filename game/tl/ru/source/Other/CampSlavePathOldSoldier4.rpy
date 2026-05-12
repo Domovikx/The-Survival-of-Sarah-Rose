@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: CampSlavePathOldSoldier4
-# Total blocks: 22
+# Total blocks: 20
 
 # CampSlavePathOldSoldier4_cbc363ee (line 23734)
 translate ru CampSlavePathOldSoldier4_cbc363ee:
@@ -36,7 +36,7 @@ translate ru CampSlavePathOldSoldier4_2e5938aa:
 # CampSlavePathOldSoldier4_b393da0e (line 23740)
 translate ru CampSlavePathOldSoldier4_b393da0e:
     # mary "Sarah, be very quiet."
-    mary ""
+    mary "Sarah, be very quiet."
 
 # CampSlavePathOldSoldier4_355659d0 (line 23741)
 translate ru CampSlavePathOldSoldier4_355659d0:
@@ -46,27 +46,27 @@ translate ru CampSlavePathOldSoldier4_355659d0:
 # CampSlavePathOldSoldier4_09595bbc (line 23742)
 translate ru CampSlavePathOldSoldier4_09595bbc:
     # mary "There is a cart waiting near the markets. We need to go now, I'll guide you."
-    mary ""
+    mary "There is a cart waiting near the markets. We need to go now, I'll guide you."
 
 # CampSlavePathOldSoldier4_9bb5500e (line 23743)
 translate ru CampSlavePathOldSoldier4_9bb5500e:
     # s "A cart? What...what are you talking about?"
-    s ""
+    s "A cart? What...what are you talking about?"
 
 # CampSlavePathOldSoldier4_fb6cee3b (line 23744)
 translate ru CampSlavePathOldSoldier4_fb6cee3b:
     # mary "When I was out buying the materials for the ritual, I met a merchant who is willing to help you."
-    mary ""
+    mary "When I was out buying the materials for the ritual, I met a merchant who is willing to help you."
 
 # CampSlavePathOldSoldier4_e267b689 (line 23745)
 translate ru CampSlavePathOldSoldier4_e267b689:
     # mary "He's a merchant from Rosanna and when I told him your story, he offered to help."
-    mary ""
+    mary "He's a merchant from Rosanna and when I told him your story, he offered to help."
 
 # CampSlavePathOldSoldier4_a6703dcf (line 23746)
 translate ru CampSlavePathOldSoldier4_a6703dcf:
     # mary "But we need to leave tonight."
-    mary ""
+    mary "But we need to leave tonight."
 
 # CampSlavePathOldSoldier4_22e1759e (line 23747)
 translate ru CampSlavePathOldSoldier4_22e1759e:
@@ -97,16 +97,6 @@ translate ru CampSlavePathOldSoldier4_6fb3ea9d:
 translate ru CampSlavePathOldSoldier4_8ff59523:
     # "Every nightmarish scenario ran through her head, and a voice began to whisper for her to stay. Don't risk your life."
     ""
-
-# CampSlavePathOldSoldier4_af267dcd (line 23756)
-translate ru CampSlavePathOldSoldier4_af267dcd:
-    # "Escape"
-    "Escape" ""
-
-# CampSlavePathOldSoldier4_180421b1 (line 23761)
-translate ru CampSlavePathOldSoldier4_180421b1:
-    # "Stay here"
-    "Stay here" ""
 
 # CampSlavePathOldSoldier4_2134db03 (line 23953)
 translate ru CampSlavePathOldSoldier4_2134db03:

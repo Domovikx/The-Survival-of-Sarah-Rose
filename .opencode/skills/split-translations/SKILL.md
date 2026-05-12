@@ -53,13 +53,33 @@ python extract_texts.py
 python extract_texts.py /path/to/game /path/to/output
 ```
 
-### Выходной формат: Ren'Py
+### Выходной формат
 
-```
-tl/raw/renpy_format/{ArcName}/{SceneName}.rpy
+#### 1. Диалоги и нарратив (`{Arc}/{Scene}.rpy`)
+```rpy
+translate ru {id}:
+    # character "Original text"
+    character "Translated text"
 ```
 
-Пример файла:
+#### 2. UI строки и Menu choices (`ui_strings/screens.rpy`)
+```rpy
+translate ru strings:
+
+    old "Original text"
+    new "Translated text"
+```
+**Важно:** Menu choices (текст вариантов меню) должны переводиться через `translate ru strings`, а не через `translate ru {id}`!
+
+#### 3. Имена персонажей (`characters/character_names.rpy`)
+```rpy
+translate ru strings:
+
+    old "Sarah"
+    new "Сара"
+```
+
+### Пример файла диалога
 
 ```rpy
 # -*- encoding: utf-8 -*-
@@ -70,12 +90,33 @@ tl/raw/renpy_format/{ArcName}/{SceneName}.rpy
 # OpeningScene_5c73d663 (line 333)
 translate ru OpeningScene_5c73d663:
     # "King Orwell has returned from his travels..."
-    ""
+    "Король Орвелл вернулся из путешествия..."
 
 # OpeningScene_ddeb1da1 (line 336)
 translate ru OpeningScene_ddeb1da1:
     # ko "Finally, home again."
-    ko ""
+    ko "Наконец-то дома."
+```
+
+### Пример файла UI/Menu
+
+```rpy
+# -*- encoding: utf-8 -*-
+# UI Strings & Menu Choices
+
+translate ru strings:
+
+    old "Save"
+    new "Сохранить"
+
+    old "Load"
+    new "Загрузить"
+
+    old "Pressure him."
+    new "Надавить на него."
+
+    old "Let it be."
+    new "Оставить как есть."
 ```
 
 ### Структура арок
@@ -107,10 +148,40 @@ translate ru OpeningScene_ddeb1da1:
 ## Workflow
 
 ```
-1. extract_texts.py → Извлечение оригинала в game/tl/ru/raw/renpy_format/
-2. Переводчики работают с файлами .rpy в arc/сценах
-3. Перевод подставляется в пустые кавычки ""
-4. Финальные файлы копируются в game/tl/ru/script/split/
+1. extract_texts.py → Извлечение текстов в game/tl/ru/source/
+   - Диалоги/нарратив → {Arc}/{Scene}.rpy (translate ru {id})
+   - UI/Menu choices → ui_strings/screens.rpy (translate ru strings)
+   - Имена персонажей → characters/character_names.rpy
+
+2. Переводчики работают с файлами:
+   - Диалоги: заполняют пустые кавычки в {id} блоках
+   - UI/Menu: заполняют "new" в old/new парах
+   - Персонажи: заполняют "new" для имён
+
+3. Очистка кэша перед тестом:
+   del game/*.rpyc game/*.rpyb
+```
+
+## Важные правила перевода
+
+### Menu choices — ТОЛЬКО через old/new
+```rpy
+# НЕПРАВИЛЬНО (не работает для меню):
+translate ru menu_choice_id:
+    "Pressure him."
+    "Надавить на него."
+
+# ПРАВИЛЬНО:
+translate ru strings:
+    old "Pressure him."
+    new "Надавить на него."
+```
+
+### Диалоги — через translate ru {id}
+```rpy
+translate ru OpeningScene_abc12345:
+    # ko "Text"
+    ko "Переведённый текст"
 ```
 
 ## Проверка консистентности (TODO)

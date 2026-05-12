@@ -326,12 +326,12 @@ translate ru MageInTheRuinsOrc1_55e98c9d:
 # MageInTheRuinsOrc1_933de38f (line 82602)
 translate ru MageInTheRuinsOrc1_933de38f:
     # s "Hey!"
-    s ""
+    s "Hey!"
 
 # MageInTheRuinsOrc1_09e723c5 (line 82603)
 translate ru MageInTheRuinsOrc1_09e723c5:
     # s "Stop that!"
-    s ""
+    s "Stop that!"
 
 # MageInTheRuinsOrc1_7f4ca473 (line 82604)
 translate ru MageInTheRuinsOrc1_7f4ca473:
@@ -436,7 +436,7 @@ translate ru MageInTheRuinsOrc1_7e0ae40c:
 # MageInTheRuinsOrc1_02c62606 (line 82624)
 translate ru MageInTheRuinsOrc1_02c62606:
     # s "Get away!"
-    s ""
+    s "Get away!"
 
 # MageInTheRuinsOrc1_efc75f33 (line 82625)
 translate ru MageInTheRuinsOrc1_efc75f33:
@@ -466,7 +466,7 @@ translate ru MageInTheRuinsOrc1_20931f0d:
 # MageInTheRuinsOrc1_bab57414 (line 82635)
 translate ru MageInTheRuinsOrc1_bab57414:
     # s "Don't come any closer or I'll burn you!"
-    s ""
+    s "Don't come any closer or I'll burn you!"
 
 # MageInTheRuinsOrc1_3de3d635 (line 82636)
 translate ru MageInTheRuinsOrc1_3de3d635:
@@ -551,7 +551,7 @@ translate ru MageInTheRuinsOrc1_d533d646:
 # MageInTheRuinsOrc1_2d563051 (line 82654)
 translate ru MageInTheRuinsOrc1_2d563051:
     # s "Get back!"
-    s ""
+    s "Get back!"
 
 # MageInTheRuinsOrc1_521a84f6 (line 82655)
 translate ru MageInTheRuinsOrc1_521a84f6:
@@ -766,7 +766,7 @@ translate ru MageInTheRuinsOrc1_f148e379:
 # MageInTheRuinsOrc1_e04f5256 (line 82719)
 translate ru MageInTheRuinsOrc1_e04f5256:
     # s "Wait!"
-    s ""
+    s "Wait!"
 
 # MageInTheRuinsOrc1_6453aae0 (line 82720)
 translate ru MageInTheRuinsOrc1_6453aae0:
@@ -1321,7 +1321,7 @@ translate ru MageInTheRuinsOrc1_5eb0452a:
 # MageInTheRuinsOrc1_c5b53bc0 (line 82848)
 translate ru MageInTheRuinsOrc1_c5b53bc0:
     # s "Wait!"
-    s ""
+    s "Wait!"
 
 # MageInTheRuinsOrc1_0f71bbca (line 82849)
 translate ru MageInTheRuinsOrc1_0f71bbca:
@@ -1346,7 +1346,7 @@ translate ru MageInTheRuinsOrc1_f30ba2d7:
 # MageInTheRuinsOrc1_a11bb702 (line 82853)
 translate ru MageInTheRuinsOrc1_a11bb702:
     # s "Aah!"
-    s ""
+    s "Aah!"
 
 # MageInTheRuinsOrc1_d25139fa (line 82854)
 translate ru MageInTheRuinsOrc1_d25139fa:

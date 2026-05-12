@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: UnderworldPath2
-# Total blocks: 233
+# Total blocks: 229
 
 # UnderworldPath2_d84861db (line 60560)
 translate ru UnderworldPath2_d84861db:
@@ -56,7 +56,7 @@ translate ru UnderworldPath2_f63e83ed:
 # UnderworldPath2_786e0c1b (line 60570)
 translate ru UnderworldPath2_786e0c1b:
     # s "Morning."
-    s ""
+    s "Morning."
 
 # UnderworldPath2_f3a0eb56 (line 60571)
 translate ru UnderworldPath2_f3a0eb56:
@@ -106,27 +106,7 @@ translate ru UnderworldPath2_62263048:
 # UnderworldPath2_41a54762 (line 60585)
 translate ru UnderworldPath2_41a54762:
     # al "New day. I think that means rent is due."
-    al ""
-
-# UnderworldPath2_9ffa92f3 (line 60590)
-translate ru UnderworldPath2_9ffa92f3:
-    # "Give him what he wants."
-    "Give him what he wants." ""
-
-# UnderworldPath2_70a385a4 (line 60625)
-translate ru UnderworldPath2_70a385a4:
-    # "Agree, don't finish inside."
-    "Agree, don't finish inside." ""
-
-# UnderworldPath2_fad0ffc9 (line 60647)
-translate ru UnderworldPath2_fad0ffc9:
-    # "Ignore, just finish."
-    "Ignore, just finish." ""
-
-# UnderworldPath2_ce8e5096 (line 60661)
-translate ru UnderworldPath2_ce8e5096:
-    # "Hold him off."
-    "Hold him off." ""
+    al "New day. I think that means rent is due."
 
 # UnderworldPath2_b0c4c249 (line 60689)
 translate ru UnderworldPath2_b0c4c249:
@@ -136,22 +116,22 @@ translate ru UnderworldPath2_b0c4c249:
 # UnderworldPath2_850b9c2b (line 60690)
 translate ru UnderworldPath2_850b9c2b:
     # s "So, what are we going to do?"
-    s ""
+    s "So, what are we going to do?"
 
 # UnderworldPath2_be16c8c8 (line 60691)
 translate ru UnderworldPath2_be16c8c8:
     # al "We?"
-    al ""
+    al "We?"
 
 # UnderworldPath2_b4b57e14 (line 60692)
 translate ru UnderworldPath2_b4b57e14:
     # s "Yeah. I need someone who can help me navigate these streets."
-    s ""
+    s "Yeah. I need someone who can help me navigate these streets."
 
 # UnderworldPath2_d4bf8881 (line 60693)
 translate ru UnderworldPath2_d4bf8881:
     # al "Sorry, I work alone. I don't need some amateur chasing me around all day."
-    al ""
+    al "Sorry, I work alone. I don't need some amateur chasing me around all day."
 
 # UnderworldPath2_32520fbe (line 60694)
 translate ru UnderworldPath2_32520fbe:
@@ -161,7 +141,7 @@ translate ru UnderworldPath2_32520fbe:
 # UnderworldPath2_a4ee97e8 (line 60695)
 translate ru UnderworldPath2_a4ee97e8:
     # s "Then I'll go find someone who will help me, and you can go back to jerking off in alleyways."
-    s ""
+    s "Then I'll go find someone who will help me, and you can go back to jerking off in alleyways."
 
 # UnderworldPath2_285b3e19 (line 60696)
 translate ru UnderworldPath2_285b3e19:
@@ -171,12 +151,12 @@ translate ru UnderworldPath2_285b3e19:
 # UnderworldPath2_6d9fea95 (line 60697)
 translate ru UnderworldPath2_6d9fea95:
     # al "Fine, I'll drag you along. I think better when I can get my rocks off anyway."
-    al ""
+    al "Fine, I'll drag you along. I think better when I can get my rocks off anyway."
 
 # UnderworldPath2_648e2c67 (line 60698)
 translate ru UnderworldPath2_648e2c67:
     # al "But I'll be collecting on this tonight, believe that."
-    al ""
+    al "But I'll be collecting on this tonight, believe that."
 
 # UnderworldPath2_6145dfb4 (line 60699)
 translate ru UnderworldPath2_6145dfb4:
@@ -191,7 +171,7 @@ translate ru UnderworldPath2_22dfd12e:
 # UnderworldPath2_92459b77 (line 60701)
 translate ru UnderworldPath2_92459b77:
     # al "Let's go then, and don't drag me down."
-    al ""
+    al "Let's go then, and don't drag me down."
 
 # UnderworldPath2_5c07ad78 (line 60702)
 translate ru UnderworldPath2_5c07ad78:
@@ -206,22 +186,22 @@ translate ru UnderworldPath2_59227d5e:
 # UnderworldPath2_3747bd4e (line 60711)
 translate ru UnderworldPath2_3747bd4e:
     # al "Places like these are great. Lots of folk wandering around, too busy looking at the wares to pay any mind to their wallets."
-    al ""
+    al "Places like these are great. Lots of folk wandering around, too busy looking at the wares to pay any mind to their wallets."
 
 # UnderworldPath2_9d5d184d (line 60712)
 translate ru UnderworldPath2_9d5d184d:
     # al "I get in there, snatch any wallet I can, easy as is."
-    al ""
+    al "I get in there, snatch any wallet I can, easy as is."
 
 # UnderworldPath2_5ecc08ae (line 60713)
 translate ru UnderworldPath2_5ecc08ae:
     # al "If the guards happen to notice me, I just run off through the crowd, it's perfect."
-    al ""
+    al "If the guards happen to notice me, I just run off through the crowd, it's perfect."
 
 # UnderworldPath2_e4aacea9 (line 60714)
 translate ru UnderworldPath2_e4aacea9:
     # al "Watch me, I'll show you girly."
-    al ""
+    al "Watch me, I'll show you girly."
 
 # UnderworldPath2_2feb0428 (line 60715)
 translate ru UnderworldPath2_2feb0428:
@@ -231,7 +211,7 @@ translate ru UnderworldPath2_2feb0428:
 # UnderworldPath2_30e4fdd7 (line 60716)
 translate ru UnderworldPath2_30e4fdd7:
     # s "Don't call me that."
-    s ""
+    s "Don't call me that."
 
 # UnderworldPath2_b5650b0c (line 60717)
 translate ru UnderworldPath2_b5650b0c:
@@ -306,12 +286,12 @@ translate ru UnderworldPath2_a0bc5d27:
 # UnderworldPath2_83d4bed6 (line 60739)
 translate ru UnderworldPath2_83d4bed6:
     # al "See, told you it was easy."
-    al ""
+    al "See, told you it was easy."
 
 # UnderworldPath2_8cf71e09 (line 60740)
 translate ru UnderworldPath2_8cf71e09:
     # al "But probably shouldn't stay too long, or the guards start to take notice."
-    al ""
+    al "But probably shouldn't stay too long, or the guards start to take notice."
 
 # UnderworldPath2_0d234368 (line 60741)
 translate ru UnderworldPath2_0d234368:
@@ -321,7 +301,7 @@ translate ru UnderworldPath2_0d234368:
 # UnderworldPath2_5f86416d (line 60742)
 translate ru UnderworldPath2_5f86416d:
     # s "That's it? This everything you earn in a day?"
-    s ""
+    s "That's it? This everything you earn in a day?"
 
 # UnderworldPath2_e923d731 (line 60743)
 translate ru UnderworldPath2_e923d731:
@@ -331,17 +311,17 @@ translate ru UnderworldPath2_e923d731:
 # UnderworldPath2_0aed071c (line 60744)
 translate ru UnderworldPath2_0aed071c:
     # s "This is less than a day worker makes down the docks. Why even bother stealing it at all?"
-    s ""
+    s "This is less than a day worker makes down the docks. Why even bother stealing it at all?"
 
 # UnderworldPath2_f6f7b1a3 (line 60745)
 translate ru UnderworldPath2_f6f7b1a3:
     # al "Look, this is a good haul, ok?"
-    al ""
+    al "Look, this is a good haul, ok?"
 
 # UnderworldPath2_eb2539cb (line 60746)
 translate ru UnderworldPath2_eb2539cb:
     # al "People are all on guard, you can't just steal whatever."
-    al ""
+    al "People are all on guard, you can't just steal whatever."
 
 # UnderworldPath2_3fa53c1c (line 60747)
 translate ru UnderworldPath2_3fa53c1c:
@@ -361,7 +341,7 @@ translate ru UnderworldPath2_1151b10f:
 # UnderworldPath2_65a721cd (line 60750)
 translate ru UnderworldPath2_65a721cd:
     # s "Tell you what, I'm gonna go in first, then you come up after on the same stall, ok?"
-    s ""
+    s "Tell you what, I'm gonna go in first, then you come up after on the same stall, ok?"
 
 # UnderworldPath2_ed9a324c (line 60751)
 translate ru UnderworldPath2_ed9a324c:
@@ -396,7 +376,7 @@ translate ru UnderworldPath2_4cec27be:
 # UnderworldPath2_7356aa31 (line 60758)
 translate ru UnderworldPath2_7356aa31:
     # s "Wow, this is incredible stuff."
-    s ""
+    s "Wow, this is incredible stuff."
 
 # UnderworldPath2_2885c8ff (line 60759)
 translate ru UnderworldPath2_2885c8ff:
@@ -406,7 +386,7 @@ translate ru UnderworldPath2_2885c8ff:
 # UnderworldPath2_3428d5ff (line 60760)
 translate ru UnderworldPath2_3428d5ff:
     # s "How much is this?"
-    s ""
+    s "How much is this?"
 
 # UnderworldPath2_860cfd77 (line 60761)
 translate ru UnderworldPath2_860cfd77:
@@ -426,7 +406,7 @@ translate ru UnderworldPath2_6ed40810:
 # UnderworldPath2_b94347d0 (line 60764)
 translate ru UnderworldPath2_b94347d0:
     # s "You're a flirt, I'll give you that, but at those prices I'd go broke. How about forty?"
-    s ""
+    s "You're a flirt, I'll give you that, but at those prices I'd go broke. How about forty?"
 
 # UnderworldPath2_3dd04e72 (line 60765)
 translate ru UnderworldPath2_3dd04e72:
@@ -481,7 +461,7 @@ translate ru UnderworldPath2_90ecd068:
 # UnderworldPath2_f4470ea9 (line 60775)
 translate ru UnderworldPath2_f4470ea9:
     # s "These prices, I can't work with them, I'll go find a real merchant with a real price."
-    s ""
+    s "These prices, I can't work with them, I'll go find a real merchant with a real price."
 
 # UnderworldPath2_bf32aad6 (line 60776)
 translate ru UnderworldPath2_bf32aad6:
@@ -506,12 +486,12 @@ translate ru UnderworldPath2_2f8c433c:
 # UnderworldPath2_73313678 (line 60782)
 translate ru UnderworldPath2_73313678:
     # al "It was like they didn't even notice me."
-    al ""
+    al "It was like they didn't even notice me."
 
 # UnderworldPath2_adb406b2 (line 60783)
 translate ru UnderworldPath2_adb406b2:
     # al "I was just snatching wallet after wallet, and nobody seemed to care..."
-    al ""
+    al "I was just snatching wallet after wallet, and nobody seemed to care..."
 
 # UnderworldPath2_4890554f (line 60784)
 translate ru UnderworldPath2_4890554f:
@@ -521,17 +501,17 @@ translate ru UnderworldPath2_4890554f:
 # UnderworldPath2_c79eda7c (line 60785)
 translate ru UnderworldPath2_c79eda7c:
     # al "This is more than I normally steal in a week, hell, maybe a month!"
-    al ""
+    al "This is more than I normally steal in a week, hell, maybe a month!"
 
 # UnderworldPath2_934d0c3c (line 60786)
 translate ru UnderworldPath2_934d0c3c:
     # s "Told you it would work."
-    s ""
+    s "Told you it would work."
 
 # UnderworldPath2_22d4fffa (line 60787)
 translate ru UnderworldPath2_22d4fffa:
     # s "You draw too much attention on your own, but with me as a distraction, they don't notice you."
-    s ""
+    s "You draw too much attention on your own, but with me as a distraction, they don't notice you."
 
 # UnderworldPath2_a98f7282 (line 60788)
 translate ru UnderworldPath2_a98f7282:
@@ -551,7 +531,7 @@ translate ru UnderworldPath2_9b031ec9:
 # UnderworldPath2_a6fd0e90 (line 60791)
 translate ru UnderworldPath2_a6fd0e90:
     # al "We need to go, before anyone calls the guards!"
-    al ""
+    al "We need to go, before anyone calls the guards!"
 
 # UnderworldPath2_47f11444 (line 60792)
 translate ru UnderworldPath2_47f11444:
@@ -596,7 +576,7 @@ translate ru UnderworldPath2_d0a98f92:
 # UnderworldPath2_385ca6b8 (line 60807)
 translate ru UnderworldPath2_385ca6b8:
     # s "This is a lot of money, isn't it?"
-    s ""
+    s "This is a lot of money, isn't it?"
 
 # UnderworldPath2_d401eceb (line 60808)
 translate ru UnderworldPath2_d401eceb:
@@ -606,7 +586,7 @@ translate ru UnderworldPath2_d401eceb:
 # UnderworldPath2_d3ec0a1f (line 60809)
 translate ru UnderworldPath2_d3ec0a1f:
     # al "More than I ever got in a day's work."
-    al ""
+    al "More than I ever got in a day's work."
 
 # UnderworldPath2_44509c34 (line 60810)
 translate ru UnderworldPath2_44509c34:
@@ -616,7 +596,7 @@ translate ru UnderworldPath2_44509c34:
 # UnderworldPath2_03396ca5 (line 60811)
 translate ru UnderworldPath2_03396ca5:
     # al "Fuck, you might just be my lucky charm, girly."
-    al ""
+    al "Fuck, you might just be my lucky charm, girly."
 
 # UnderworldPath2_24afd7d5 (line 60812)
 translate ru UnderworldPath2_24afd7d5:
@@ -626,7 +606,7 @@ translate ru UnderworldPath2_24afd7d5:
 # UnderworldPath2_c18e4a12 (line 60813)
 translate ru UnderworldPath2_c18e4a12:
     # s "I told you to stop calling me that."
-    s ""
+    s "I told you to stop calling me that."
 
 # UnderworldPath2_09a9cd72 (line 60814)
 translate ru UnderworldPath2_09a9cd72:
@@ -636,17 +616,17 @@ translate ru UnderworldPath2_09a9cd72:
 # UnderworldPath2_85d428d9 (line 60815)
 translate ru UnderworldPath2_85d428d9:
     # al "Come over here, girly. And take off those clothes."
-    al ""
+    al "Come over here, girly. And take off those clothes."
 
 # UnderworldPath2_836b3571 (line 60816)
 translate ru UnderworldPath2_836b3571:
     # s "Why?"
-    s ""
+    s "Why?"
 
 # UnderworldPath2_3cfb0ff6 (line 60817)
 translate ru UnderworldPath2_3cfb0ff6:
     # al "Cause I like to watch your tits and ass while you suck me off."
-    al ""
+    al "Cause I like to watch your tits and ass while you suck me off."
 
 # UnderworldPath2_46bf416d (line 60818)
 translate ru UnderworldPath2_46bf416d:
@@ -666,12 +646,12 @@ translate ru UnderworldPath2_0a81b36b:
 # UnderworldPath2_cdfc141f (line 60825)
 translate ru UnderworldPath2_cdfc141f:
     # s "Happy?"
-    s ""
+    s "Happy?"
 
 # UnderworldPath2_98fb8ba5 (line 60826)
 translate ru UnderworldPath2_98fb8ba5:
     # al "Not till I feel those lips around my cock."
-    al ""
+    al "Not till I feel those lips around my cock."
 
 # UnderworldPath2_9d3bf78f (line 60827)
 translate ru UnderworldPath2_9d3bf78f:
@@ -731,7 +711,7 @@ translate ru UnderworldPath2_2c0a75ec:
 # UnderworldPath2_5f222186 (line 60844)
 translate ru UnderworldPath2_5f222186:
     # al "Just look at me..."
-    al ""
+    al "Just look at me..."
 
 # UnderworldPath2_23eb3513 (line 60845)
 translate ru UnderworldPath2_23eb3513:
@@ -741,7 +721,7 @@ translate ru UnderworldPath2_23eb3513:
 # UnderworldPath2_c7baa233 (line 60846)
 translate ru UnderworldPath2_c7baa233:
     # al "Life has been pretty awful for me, but I think my luck might be turning."
-    al ""
+    al "Life has been pretty awful for me, but I think my luck might be turning."
 
 # UnderworldPath2_a2a01725 (line 60847)
 translate ru UnderworldPath2_a2a01725:
@@ -751,7 +731,7 @@ translate ru UnderworldPath2_a2a01725:
 # UnderworldPath2_2dac2220 (line 60848)
 translate ru UnderworldPath2_2dac2220:
     # al "I got some money. A hot girl sucking my cock."
-    al ""
+    al "I got some money. A hot girl sucking my cock."
 
 # UnderworldPath2_5bd01f3b (line 60849)
 translate ru UnderworldPath2_5bd01f3b:
@@ -761,7 +741,7 @@ translate ru UnderworldPath2_5bd01f3b:
 # UnderworldPath2_9fe93aa9 (line 60850)
 translate ru UnderworldPath2_9fe93aa9:
     # al "Wouldn't you agree things are looking up for me?"
-    al ""
+    al "Wouldn't you agree things are looking up for me?"
 
 # UnderworldPath2_d2d3c278 (line 60851)
 translate ru UnderworldPath2_d2d3c278:
@@ -791,7 +771,7 @@ translate ru UnderworldPath2_1971d907:
 # UnderworldPath2_0c6ea5bb (line 60856)
 translate ru UnderworldPath2_0c6ea5bb:
     # al "I'm almost there."
-    al ""
+    al "I'm almost there."
 
 # UnderworldPath2_e895c08f (line 60857)
 translate ru UnderworldPath2_e895c08f:
@@ -801,7 +781,7 @@ translate ru UnderworldPath2_e895c08f:
 # UnderworldPath2_51fd6476 (line 60858)
 translate ru UnderworldPath2_51fd6476:
     # al "When I cum, you're gonna swallow all of it."
-    al ""
+    al "When I cum, you're gonna swallow all of it."
 
 # UnderworldPath2_9aeaabfb (line 60859)
 translate ru UnderworldPath2_9aeaabfb:
@@ -811,7 +791,7 @@ translate ru UnderworldPath2_9aeaabfb:
 # UnderworldPath2_9748e9fd (line 60860)
 translate ru UnderworldPath2_9748e9fd:
     # al "Do you got that?! Answer me!"
-    al ""
+    al "Do you got that?! Answer me!"
 
 # UnderworldPath2_deba17c6 (line 60861)
 translate ru UnderworldPath2_deba17c6:
@@ -911,17 +891,17 @@ translate ru UnderworldPath2_6a26764a:
 # UnderworldPath2_870f8a58 (line 60880)
 translate ru UnderworldPath2_870f8a58:
     # al "Show me."
-    al ""
+    al "Show me."
 
 # UnderworldPath2_47361119 (line 60881)
 translate ru UnderworldPath2_47361119:
     # s "What?"
-    s ""
+    s "What?"
 
 # UnderworldPath2_50ad989c (line 60882)
 translate ru UnderworldPath2_50ad989c:
     # al "I wanna see if you got it all down."
-    al ""
+    al "I wanna see if you got it all down."
 
 # UnderworldPath2_fbf47084 (line 60883)
 translate ru UnderworldPath2_fbf47084:
@@ -941,7 +921,7 @@ translate ru UnderworldPath2_dd3550a7:
 # UnderworldPath2_18ffa238 (line 60886)
 translate ru UnderworldPath2_18ffa238:
     # al "Good job."
-    al ""
+    al "Good job."
 
 # UnderworldPath2_001531e5 (line 60887)
 translate ru UnderworldPath2_001531e5:
@@ -966,17 +946,17 @@ translate ru UnderworldPath2_870fc2da:
 # UnderworldPath2_f0e3c080 (line 60891)
 translate ru UnderworldPath2_f0e3c080:
     # s "What about me?"
-    s ""
+    s "What about me?"
 
 # UnderworldPath2_468b181e (line 60892)
 translate ru UnderworldPath2_468b181e:
     # al "What about you?"
-    al ""
+    al "What about you?"
 
 # UnderworldPath2_cdd9c661 (line 60893)
 translate ru UnderworldPath2_cdd9c661:
     # s "You're not gonna let me finish?"
-    s ""
+    s "You're not gonna let me finish?"
 
 # UnderworldPath2_66dc1d4b (line 60894)
 translate ru UnderworldPath2_66dc1d4b:
@@ -986,22 +966,22 @@ translate ru UnderworldPath2_66dc1d4b:
 # UnderworldPath2_ce380b22 (line 60895)
 translate ru UnderworldPath2_ce380b22:
     # al "Sorry girly, but I already came. Won't be much use in me for a while."
-    al ""
+    al "Sorry girly, but I already came. Won't be much use in me for a while."
 
 # UnderworldPath2_28ce7357 (line 60896)
 translate ru UnderworldPath2_28ce7357:
     # al "Tell you what though, why don't you give me a show?"
-    al ""
+    al "Tell you what though, why don't you give me a show?"
 
 # UnderworldPath2_b4a6d855 (line 60897)
 translate ru UnderworldPath2_b4a6d855:
     # s "A show?"
-    s ""
+    s "A show?"
 
 # UnderworldPath2_034acea2 (line 60898)
 translate ru UnderworldPath2_034acea2:
     # al "Yeah. You know how to finish yourself, right?"
-    al ""
+    al "Yeah. You know how to finish yourself, right?"
 
 # UnderworldPath2_6d1342be (line 60899)
 translate ru UnderworldPath2_6d1342be:
@@ -1096,7 +1076,7 @@ translate ru UnderworldPath2_bb8d1f3a:
 # UnderworldPath2_d2ef6174 (line 60917)
 translate ru UnderworldPath2_d2ef6174:
     # s "Ow!"
-    s ""
+    s "Ow!"
 
 # UnderworldPath2_637a4bb3 (line 60918)
 translate ru UnderworldPath2_637a4bb3:
@@ -1106,7 +1086,7 @@ translate ru UnderworldPath2_637a4bb3:
 # UnderworldPath2_5a977ad8 (line 60919)
 translate ru UnderworldPath2_5a977ad8:
     # al "You put on quiet a show. Fuck, watching that I'm already nearly hard again."
-    al ""
+    al "You put on quiet a show. Fuck, watching that I'm already nearly hard again."
 
 # UnderworldPath2_cf036f33 (line 60920)
 translate ru UnderworldPath2_cf036f33:
@@ -1116,12 +1096,12 @@ translate ru UnderworldPath2_cf036f33:
 # UnderworldPath2_82c58cf9 (line 60921)
 translate ru UnderworldPath2_82c58cf9:
     # s "I...I just...I can't..."
-    s ""
+    s "I...I just...I can't..."
 
 # UnderworldPath2_a6b5e620 (line 60922)
 translate ru UnderworldPath2_a6b5e620:
     # al "So you put on that little show, and I'm just left with blue balls?"
-    al ""
+    al "So you put on that little show, and I'm just left with blue balls?"
 
 # UnderworldPath2_2a70ffaa (line 60923)
 translate ru UnderworldPath2_2a70ffaa:
@@ -1136,7 +1116,7 @@ translate ru UnderworldPath2_643c0064:
 # UnderworldPath2_da944e0e (line 60925)
 translate ru UnderworldPath2_da944e0e:
     # s "You can finish on me."
-    s ""
+    s "You can finish on me."
 
 # UnderworldPath2_3333989b (line 60926)
 translate ru UnderworldPath2_3333989b:

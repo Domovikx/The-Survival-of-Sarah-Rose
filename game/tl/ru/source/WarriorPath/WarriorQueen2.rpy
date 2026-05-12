@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: WarriorQueen2
-# Total blocks: 43
+# Total blocks: 39
 
 # WarriorQueen2_81d2445a (line 54366)
 translate ru WarriorQueen2_81d2445a:
@@ -61,7 +61,7 @@ translate ru WarriorQueen2_0fdc6726:
 # WarriorQueen2_7d37239b (line 54378)
 translate ru WarriorQueen2_7d37239b:
     # s "What?"
-    s ""
+    s "What?"
 
 # WarriorQueen2_7536ed14 (line 54381)
 translate ru WarriorQueen2_7536ed14:
@@ -81,7 +81,7 @@ translate ru WarriorQueen2_7ad525db:
 # WarriorQueen2_7e81c9fd (line 54384)
 translate ru WarriorQueen2_7e81c9fd:
     # s "Yes?"
-    s ""
+    s "Yes?"
 
 # WarriorQueen2_a1a9e018 (line 54385)
 translate ru WarriorQueen2_a1a9e018:
@@ -96,7 +96,7 @@ translate ru WarriorQueen2_5099df3b:
 # WarriorQueen2_d6216a30 (line 54387)
 translate ru WarriorQueen2_d6216a30:
     # s "The captain? Is something wrong with the ship?"
-    s ""
+    s "The captain? Is something wrong with the ship?"
 
 # WarriorQueen2_8d1f6917 (line 54388)
 translate ru WarriorQueen2_8d1f6917:
@@ -126,12 +126,12 @@ translate ru WarriorQueen2_5498afa9:
 # WarriorQueen2_9374652d (line 54393)
 translate ru WarriorQueen2_9374652d:
     # s "No, it's fine."
-    s ""
+    s "No, it's fine."
 
 # WarriorQueen2_60c806d2 (line 54394)
 translate ru WarriorQueen2_60c806d2:
     # s "Send him in."
-    s ""
+    s "Send him in."
 
 # WarriorQueen2_1d4fbd14 (line 54395)
 translate ru WarriorQueen2_1d4fbd14:
@@ -151,7 +151,7 @@ translate ru WarriorQueen2_bdbefa66:
 # WarriorQueen2_ff775fb4 (line 54400)
 translate ru WarriorQueen2_ff775fb4:
     # cb "Thank ya boy, you can leave us now."
-    cb ""
+    cb "Thank ya boy, you can leave us now."
 
 # WarriorQueen2_5c73290b (line 54401)
 translate ru WarriorQueen2_5c73290b:
@@ -161,12 +161,12 @@ translate ru WarriorQueen2_5c73290b:
 # WarriorQueen2_ef0a34a0 (line 54402)
 translate ru WarriorQueen2_ef0a34a0:
     # cb "I ain't ever heard of a Captain having to ask permission on his own ship."
-    cb ""
+    cb "I ain't ever heard of a Captain having to ask permission on his own ship."
 
 # WarriorQueen2_87639574 (line 54403)
 translate ru WarriorQueen2_87639574:
     # cb "At least your gold is good, or I'd be a lot more angry."
-    cb ""
+    cb "At least your gold is good, or I'd be a lot more angry."
 
 # WarriorQueen2_b7991229 (line 54404)
 translate ru WarriorQueen2_b7991229:
@@ -176,7 +176,7 @@ translate ru WarriorQueen2_b7991229:
 # WarriorQueen2_32812dc4 (line 54406)
 translate ru WarriorQueen2_32812dc4:
     # s "I..."
-    s ""
+    s "I..."
 
 # WarriorQueen2_c02c436e (line 54407)
 translate ru WarriorQueen2_c02c436e:
@@ -186,7 +186,7 @@ translate ru WarriorQueen2_c02c436e:
 # WarriorQueen2_3dcf3018 (line 54408)
 translate ru WarriorQueen2_3dcf3018:
     # s "I know you..."
-    s ""
+    s "I know you..."
 
 # WarriorQueen2_48ac4246 (line 54409)
 translate ru WarriorQueen2_48ac4246:
@@ -196,25 +196,5 @@ translate ru WarriorQueen2_48ac4246:
 # WarriorQueen2_aff65e99 (line 54410)
 translate ru WarriorQueen2_aff65e99:
     # cb "Ay, Blondie. That you do."
-    cb ""
-
-# WarriorQueen2_ccc9b041 (line 54478)
-translate ru WarriorQueen2_ccc9b041:
-    # "Kill Belmont"
-    "Kill Belmont" ""
-
-# WarriorQueen2_55c4fd1a (line 54530)
-translate ru WarriorQueen2_55c4fd1a:
-    # "Sleep with Belmont"
-    "Sleep with Belmont" ""
-
-# WarriorQueen2_25a24173 (line 54853)
-translate ru WarriorQueen2_25a24173:
-    # "Give Belmont a loan"
-    "Give Belmont a loan" ""
-
-# WarriorQueen2_2d075ee8 (line 54872)
-translate ru WarriorQueen2_2d075ee8:
-    # "Refuse Belmont a loan"
-    "Refuse Belmont a loan" ""
+    cb "Ay, Blondie. That you do."
 

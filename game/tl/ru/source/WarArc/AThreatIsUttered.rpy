@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: AThreatIsUttered
-# Total blocks: 103
+# Total blocks: 101
 
 # AThreatIsUttered_ab6f5132 (line 2808)
 translate ru AThreatIsUttered_ab6f5132:
@@ -41,7 +41,7 @@ translate ru AThreatIsUttered_4d749645:
 # AThreatIsUttered_53ff029a (line 2820)
 translate ru AThreatIsUttered_53ff029a:
     # s "We're happy to host you."
-    s ""
+    s "We're happy to host you."
 
 # AThreatIsUttered_8550dcda (line 2821)
 translate ru AThreatIsUttered_8550dcda:
@@ -96,7 +96,7 @@ translate ru AThreatIsUttered_47e7a6bf:
 # AThreatIsUttered_641192bb (line 2846)
 translate ru AThreatIsUttered_641192bb:
     # t "Everyone here?"
-    t ""
+    t "Everyone here?"
 
 # AThreatIsUttered_43f46a5d (line 2847)
 translate ru AThreatIsUttered_43f46a5d:
@@ -106,12 +106,12 @@ translate ru AThreatIsUttered_43f46a5d:
 # AThreatIsUttered_2fe03c38 (line 2848)
 translate ru AThreatIsUttered_2fe03c38:
     # s "Anyone who isn't here yet is probably not important enough to wait on."
-    s ""
+    s "Anyone who isn't here yet is probably not important enough to wait on."
 
 # AThreatIsUttered_83c8deb7 (line 2849)
 translate ru AThreatIsUttered_83c8deb7:
     # t "Alright, shall I begin then?"
-    t ""
+    t "Alright, shall I begin then?"
 
 # AThreatIsUttered_a6fa57c7 (line 2850)
 translate ru AThreatIsUttered_a6fa57c7:
@@ -136,27 +136,27 @@ translate ru AThreatIsUttered_0e36b5af:
 # AThreatIsUttered_c076f609 (line 2859)
 translate ru AThreatIsUttered_c076f609:
     # t "Let me begin by welcoming all of you to this year's winter grace festival."
-    t ""
+    t "Let me begin by welcoming all of you to this year's winter grace festival."
 
 # AThreatIsUttered_030374bf (line 2860)
 translate ru AThreatIsUttered_030374bf:
     # t "I stand here, happy to see so many friendly faces, and to see this great hall sing with a joy that can only come from good friends and good food."
-    t ""
+    t "I stand here, happy to see so many friendly faces, and to see this great hall sing with a joy that can only come from good friends and good food."
 
 # AThreatIsUttered_4e34da1d (line 2861)
 translate ru AThreatIsUttered_4e34da1d:
     # t "But there is also a pain in my heart. An absence that I feel, as surely as all of you."
-    t ""
+    t "But there is also a pain in my heart. An absence that I feel, as surely as all of you."
 
 # AThreatIsUttered_ef75042f (line 2862)
 translate ru AThreatIsUttered_ef75042f:
     # t "My father presided over countless of these gatherings, but for me, this is a first."
-    t ""
+    t "My father presided over countless of these gatherings, but for me, this is a first."
 
 # AThreatIsUttered_f1384d78 (line 2863)
 translate ru AThreatIsUttered_f1384d78:
     # t "Even now, I find myself instinctively looking at the door, waiting for him to walk through. A winter festival without him, almost seems, wrong."
-    t ""
+    t "Even now, I find myself instinctively looking at the door, waiting for him to walk through. A winter festival without him, almost seems, wrong."
 
 # AThreatIsUttered_8a659e98 (line 2864)
 translate ru AThreatIsUttered_8a659e98:
@@ -166,7 +166,7 @@ translate ru AThreatIsUttered_8a659e98:
 # AThreatIsUttered_381e6ff8 (line 2865)
 translate ru AThreatIsUttered_381e6ff8:
     # t "The winter grace festival is about togetherness, so how do we celebrate that, when we are still mourning a loss that has separated us?"
-    t ""
+    t "The winter grace festival is about togetherness, so how do we celebrate that, when we are still mourning a loss that has separated us?"
 
 # AThreatIsUttered_46ee0e87 (line 2866)
 translate ru AThreatIsUttered_46ee0e87:
@@ -176,17 +176,17 @@ translate ru AThreatIsUttered_46ee0e87:
 # AThreatIsUttered_d0fa067f (line 2867)
 translate ru AThreatIsUttered_d0fa067f:
     # t "We used to celebrate it with my father, but I propose, that this year, we instead celebrate in honour of him."
-    t ""
+    t "We used to celebrate it with my father, but I propose, that this year, we instead celebrate in honour of him."
 
 # AThreatIsUttered_d99d0c52 (line 2868)
 translate ru AThreatIsUttered_d99d0c52:
     # t "Those of you who had the privilege of truly knowing my father, knew how much he enjoyed the winter grace festival."
-    t ""
+    t "Those of you who had the privilege of truly knowing my father, knew how much he enjoyed the winter grace festival."
 
 # AThreatIsUttered_f34429ea (line 2869)
 translate ru AThreatIsUttered_f34429ea:
     # t "The company, the decorations, the food...the beer."
-    t ""
+    t "The company, the decorations, the food...the beer."
 
 # AThreatIsUttered_794b1b14 (line 2870)
 translate ru AThreatIsUttered_794b1b14:
@@ -196,7 +196,7 @@ translate ru AThreatIsUttered_794b1b14:
 # AThreatIsUttered_ed944dff (line 2871)
 translate ru AThreatIsUttered_ed944dff:
     # t "So let us honour my father, by keeping his memory alive and celebrating this year's winter grace festival in the way that he would have wanted us to."
-    t ""
+    t "So let us honour my father, by keeping his memory alive and celebrating this year's winter grace festival in the way that he would have wanted us to."
 
 # AThreatIsUttered_cd71c517 (line 2872)
 translate ru AThreatIsUttered_cd71c517:
@@ -206,7 +206,7 @@ translate ru AThreatIsUttered_cd71c517:
 # AThreatIsUttered_7cc80d63 (line 2877)
 translate ru AThreatIsUttered_7cc80d63:
     # t "To my father, a king without equal."
-    t ""
+    t "To my father, a king without equal."
 
 # AThreatIsUttered_8683bdd0 (line 2878)
 translate ru AThreatIsUttered_8683bdd0:
@@ -226,7 +226,7 @@ translate ru AThreatIsUttered_cf57fb20:
 # AThreatIsUttered_419c0af7 (line 2886)
 translate ru AThreatIsUttered_419c0af7:
     # t "How did I do?"
-    t ""
+    t "How did I do?"
 
 # AThreatIsUttered_e56bdbdb (line 2887)
 translate ru AThreatIsUttered_e56bdbdb:
@@ -236,12 +236,12 @@ translate ru AThreatIsUttered_e56bdbdb:
 # AThreatIsUttered_35a63da0 (line 2888)
 translate ru AThreatIsUttered_35a63da0:
     # s "You were incredible, Thomas."
-    s ""
+    s "You were incredible, Thomas."
 
 # AThreatIsUttered_89fc7918 (line 2889)
 translate ru AThreatIsUttered_89fc7918:
     # t "You think so? I spend all night writing and memorizing it."
-    t ""
+    t "You think so? I spend all night writing and memorizing it."
 
 # AThreatIsUttered_6791e644 (line 2890)
 translate ru AThreatIsUttered_6791e644:
@@ -326,7 +326,7 @@ translate ru AThreatIsUttered_1b3bfb4c:
 # AThreatIsUttered_3db03260 (line 2926)
 translate ru AThreatIsUttered_3db03260:
     # t "Please rise, visitor."
-    t ""
+    t "Please rise, visitor."
 
 # AThreatIsUttered_6c906c02 (line 2931)
 translate ru AThreatIsUttered_6c906c02:
@@ -361,7 +361,7 @@ translate ru AThreatIsUttered_fe695cf3:
 # AThreatIsUttered_867b6673 (line 2937)
 translate ru AThreatIsUttered_867b6673:
     # t "A gift?"
-    t ""
+    t "A gift?"
 
 # AThreatIsUttered_e4358a92 (line 2938)
 translate ru AThreatIsUttered_e4358a92:
@@ -507,14 +507,4 @@ translate ru AThreatIsUttered_39bac891:
 translate ru AThreatIsUttered_807339c3:
     # "Looking down at him, she whispered her instruction."
     ""
-
-# AThreatIsUttered_ae68f815 (line 2985)
-translate ru AThreatIsUttered_ae68f815:
-    # "None may threaten Rosanna; make an example of him!"
-    "None may threaten Rosanna; make an example of him!" ""
-
-# AThreatIsUttered_f96ee5d1 (line 3034)
-translate ru AThreatIsUttered_f96ee5d1:
-    # "Send him back to the deserts he crawled out of."
-    "Send him back to the deserts he crawled out of." ""
 

@@ -51,17 +51,17 @@ translate ru WarriorQueen7Calshure_afbbcd5d:
 # WarriorQueen7Calshure_08118530 (line 57598)
 translate ru WarriorQueen7Calshure_08118530:
     # s "Cassius."
-    s ""
+    s "Cassius."
 
 # WarriorQueen7Calshure_69b00eaf (line 57599)
 translate ru WarriorQueen7Calshure_69b00eaf:
     # cas "I wondered where you might be."
-    cas ""
+    cas "I wondered where you might be."
 
 # WarriorQueen7Calshure_03a3526e (line 57600)
 translate ru WarriorQueen7Calshure_03a3526e:
     # cas "The people are eager to meet you. It's all they talk about."
-    cas ""
+    cas "The people are eager to meet you. It's all they talk about."
 
 # WarriorQueen7Calshure_3de00e84 (line 57601)
 translate ru WarriorQueen7Calshure_3de00e84:
@@ -71,7 +71,7 @@ translate ru WarriorQueen7Calshure_3de00e84:
 # WarriorQueen7Calshure_cf164ae6 (line 57602)
 translate ru WarriorQueen7Calshure_cf164ae6:
     # s "I'll be down in a moment. I'm just...taking a breather."
-    s ""
+    s "I'll be down in a moment. I'm just...taking a breather."
 
 # WarriorQueen7Calshure_88101a88 (line 57603)
 translate ru WarriorQueen7Calshure_88101a88:
@@ -81,12 +81,12 @@ translate ru WarriorQueen7Calshure_88101a88:
 # WarriorQueen7Calshure_d1e90259 (line 57604)
 translate ru WarriorQueen7Calshure_d1e90259:
     # cas "No rush. They'll wait up all day if they have to, just to catch a glimpse."
-    cas ""
+    cas "No rush. They'll wait up all day if they have to, just to catch a glimpse."
 
 # WarriorQueen7Calshure_e33a3d7f (line 57605)
 translate ru WarriorQueen7Calshure_e33a3d7f:
     # cas "Their great liberator."
-    cas ""
+    cas "Their great liberator."
 
 # WarriorQueen7Calshure_864ecdf6 (line 57606)
 translate ru WarriorQueen7Calshure_864ecdf6:
@@ -96,7 +96,7 @@ translate ru WarriorQueen7Calshure_864ecdf6:
 # WarriorQueen7Calshure_2f0d460e (line 57607)
 translate ru WarriorQueen7Calshure_2f0d460e:
     # s "Is that what they're saying?"
-    s ""
+    s "Is that what they're saying?"
 
 # WarriorQueen7Calshure_dad1e8cf (line 57608)
 translate ru WarriorQueen7Calshure_dad1e8cf:
@@ -106,17 +106,17 @@ translate ru WarriorQueen7Calshure_dad1e8cf:
 # WarriorQueen7Calshure_a25e8cc2 (line 57609)
 translate ru WarriorQueen7Calshure_a25e8cc2:
     # cas "Yeah."
-    cas ""
+    cas "Yeah."
 
 # WarriorQueen7Calshure_4d121664 (line 57610)
 translate ru WarriorQueen7Calshure_4d121664:
     # cas "I've been out among the citizens for a bit. Heard some stories of what it was like."
-    cas ""
+    cas "I've been out among the citizens for a bit. Heard some stories of what it was like."
 
 # WarriorQueen7Calshure_46f6edc3 (line 57611)
 translate ru WarriorQueen7Calshure_46f6edc3:
     # cas "If even half of it was true, then I can't blame them for being happy to be rid of the Tribesmen."
-    cas ""
+    cas "If even half of it was true, then I can't blame them for being happy to be rid of the Tribesmen."
 
 # WarriorQueen7Calshure_d2dad0e9 (line 57612)
 translate ru WarriorQueen7Calshure_d2dad0e9:
@@ -126,12 +126,12 @@ translate ru WarriorQueen7Calshure_d2dad0e9:
 # WarriorQueen7Calshure_3d6b95c4 (line 57613)
 translate ru WarriorQueen7Calshure_3d6b95c4:
     # cas "Savage creatures."
-    cas ""
+    cas "Savage creatures."
 
 # WarriorQueen7Calshure_67bf84cc (line 57638)
 translate ru WarriorQueen7Calshure_67bf84cc:
     # cas "Anyway, I just thought I'd let you know that they're ready for you in the main square."
-    cas ""
+    cas "Anyway, I just thought I'd let you know that they're ready for you in the main square."
 
 # WarriorQueen7Calshure_dcf69c48 (line 57639)
 translate ru WarriorQueen7Calshure_dcf69c48:
@@ -141,7 +141,7 @@ translate ru WarriorQueen7Calshure_dcf69c48:
 # WarriorQueen7Calshure_462893cd (line 57640)
 translate ru WarriorQueen7Calshure_462893cd:
     # s "Thanks. I'll be down in just a bit."
-    s ""
+    s "Thanks. I'll be down in just a bit."
 
 # WarriorQueen7Calshure_09a90805 (line 57641)
 translate ru WarriorQueen7Calshure_09a90805:
@@ -286,17 +286,17 @@ translate ru WarriorQueen7Calshure_36381861:
 # WarriorQueen7Calshure_66cfe325 (line 57681)
 translate ru WarriorQueen7Calshure_66cfe325:
     # s "People of Calshure!"
-    s ""
+    s "People of Calshure!"
 
 # WarriorQueen7Calshure_f0d11aa5 (line 57682)
 translate ru WarriorQueen7Calshure_f0d11aa5:
     # s "People of Rosanna!"
-    s ""
+    s "People of Rosanna!"
 
 # WarriorQueen7Calshure_54f873f6 (line 57683)
 translate ru WarriorQueen7Calshure_54f873f6:
     # s "The tyranny of the Tribes is over!"
-    s ""
+    s "The tyranny of the Tribes is over!"
 
 # WarriorQueen7Calshure_4cd2396c (line 57684)
 translate ru WarriorQueen7Calshure_4cd2396c:
@@ -306,22 +306,22 @@ translate ru WarriorQueen7Calshure_4cd2396c:
 # WarriorQueen7Calshure_b537cbc0 (line 57685)
 translate ru WarriorQueen7Calshure_b537cbc0:
     # s "Before today, most of you had never seen me."
-    s ""
+    s "Before today, most of you had never seen me."
 
 # WarriorQueen7Calshure_15d84628 (line 57686)
 translate ru WarriorQueen7Calshure_15d84628:
     # s "But you have heard my name."
-    s ""
+    s "But you have heard my name."
 
 # WarriorQueen7Calshure_df78311a (line 57687)
 translate ru WarriorQueen7Calshure_df78311a:
     # s "You have heard the name of my family."
-    s ""
+    s "You have heard the name of my family."
 
 # WarriorQueen7Calshure_fddc2440 (line 57688)
 translate ru WarriorQueen7Calshure_fddc2440:
     # s "Rose."
-    s ""
+    s "Rose."
 
 # WarriorQueen7Calshure_5659d36d (line 57689)
 translate ru WarriorQueen7Calshure_5659d36d:
@@ -331,17 +331,17 @@ translate ru WarriorQueen7Calshure_5659d36d:
 # WarriorQueen7Calshure_016b92b7 (line 57690)
 translate ru WarriorQueen7Calshure_016b92b7:
     # s "I come before you, not to demand loyalty like kings of old, but to ask for your aid."
-    s ""
+    s "I come before you, not to demand loyalty like kings of old, but to ask for your aid."
 
 # WarriorQueen7Calshure_3a28e85c (line 57691)
 translate ru WarriorQueen7Calshure_3a28e85c:
     # s "We have won a great victory today, but this war is not yet over."
-    s ""
+    s "We have won a great victory today, but this war is not yet over."
 
 # WarriorQueen7Calshure_3fa20fbb (line 57692)
 translate ru WarriorQueen7Calshure_3fa20fbb:
     # s "Not while a foreign warlord sits upon the Throne of my family."
-    s ""
+    s "Not while a foreign warlord sits upon the Throne of my family."
 
 # WarriorQueen7Calshure_b29b0ec0 (line 57693)
 translate ru WarriorQueen7Calshure_b29b0ec0:
@@ -351,22 +351,22 @@ translate ru WarriorQueen7Calshure_b29b0ec0:
 # WarriorQueen7Calshure_ebe5c875 (line 57694)
 translate ru WarriorQueen7Calshure_ebe5c875:
     # s "Oaths of loyalty are easily sworn, and we speak them sometimes without thinking."
-    s ""
+    s "Oaths of loyalty are easily sworn, and we speak them sometimes without thinking."
 
 # WarriorQueen7Calshure_5151a8e6 (line 57695)
 translate ru WarriorQueen7Calshure_5151a8e6:
     # s "But it is in times of great crisis, like the one we find ourselves in, that we are forced to confront the simple truths."
-    s ""
+    s "But it is in times of great crisis, like the one we find ourselves in, that we are forced to confront the simple truths."
 
 # WarriorQueen7Calshure_32863f92 (line 57696)
 translate ru WarriorQueen7Calshure_32863f92:
     # s "Who has sworn oaths whose words weigh less than air."
-    s ""
+    s "Who has sworn oaths whose words weigh less than air."
 
 # WarriorQueen7Calshure_4a5b5c87 (line 57697)
 translate ru WarriorQueen7Calshure_4a5b5c87:
     # s "And who here, by uttering their oaths, have wedded themselves to Nation and People, as surely as vows of marriage wed two souls to one another?"
-    s ""
+    s "And who here, by uttering their oaths, have wedded themselves to Nation and People, as surely as vows of marriage wed two souls to one another?"
 
 # WarriorQueen7Calshure_1443d551 (line 57698)
 translate ru WarriorQueen7Calshure_1443d551:
@@ -376,17 +376,17 @@ translate ru WarriorQueen7Calshure_1443d551:
 # WarriorQueen7Calshure_cdb34b9f (line 57699)
 translate ru WarriorQueen7Calshure_cdb34b9f:
     # s "Then I say to all of you today, with this war not yet won; I shall demand none of you to fight by threat of conscription."
-    s ""
+    s "Then I say to all of you today, with this war not yet won; I shall demand none of you to fight by threat of conscription."
 
 # WarriorQueen7Calshure_425aa7ef (line 57700)
 translate ru WarriorQueen7Calshure_425aa7ef:
     # s "I ask only..."
-    s ""
+    s "I ask only..."
 
 # WarriorQueen7Calshure_eaa058aa (line 57701)
 translate ru WarriorQueen7Calshure_eaa058aa:
     # s "Whom here pledges their lives willingly?"
-    s ""
+    s "Whom here pledges their lives willingly?"
 
 # WarriorQueen7Calshure_9ead7f07 (line 57702)
 translate ru WarriorQueen7Calshure_9ead7f07:

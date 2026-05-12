@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: OpeningSceneEvening
-# Total blocks: 61
+# Total blocks: 59
 
 # OpeningSceneEvening_9858579d (line 516)
 translate ru OpeningSceneEvening_9858579d:
@@ -291,20 +291,10 @@ translate ru OpeningSceneEvening_2b7b9914:
 # OpeningSceneEvening_368a24cd (line 628)
 translate ru OpeningSceneEvening_368a24cd:
     # s "Yeah, when we were six. We're not kids anymore, it's not appropriate."
-    s ""
+    s "Да, когда нам было по шесть. Мы уже не дети, это неуместно."
 
 # OpeningSceneEvening_3ef9b96c (line 629)
 translate ru OpeningSceneEvening_3ef9b96c:
     # t "Pleeeeeease."
-    t ""
-
-# OpeningSceneEvening_edeaba1a (line 633)
-translate ru OpeningSceneEvening_edeaba1a:
-    # "Okay, just this once."
-    "Okay, just this once." ""
-
-# OpeningSceneEvening_a0432b85 (line 645)
-translate ru OpeningSceneEvening_a0432b85:
-    # "Grow up, little brother."
-    "Grow up, little brother." ""
+    t "Пожааааалуйста."
 

@@ -11,7 +11,7 @@ translate ru SarahFightsVaelen_64f98d95:
 # SarahFightsVaelen_8ee85ad1 (line 48116)
 translate ru SarahFightsVaelen_8ee85ad1:
     # s "You're a fool for making me do this."
-    s ""
+    s "You're a fool for making me do this."
 
 # SarahFightsVaelen_515df45c (line 48117)
 translate ru SarahFightsVaelen_515df45c:
@@ -21,7 +21,7 @@ translate ru SarahFightsVaelen_515df45c:
 # SarahFightsVaelen_7f4f6c53 (line 48118)
 translate ru SarahFightsVaelen_7f4f6c53:
     # vae "I was hoping you'd say that."
-    vae ""
+    vae "I was hoping you'd say that."
 
 # SarahFightsVaelen_5438744f (line 48119)
 translate ru SarahFightsVaelen_5438744f:
@@ -36,7 +36,7 @@ translate ru SarahFightsVaelen_ab3606b6:
 # SarahFightsVaelen_3ce00e7d (line 48332)
 translate ru SarahFightsVaelen_3ce00e7d:
     # s "It's not too late."
-    s ""
+    s "It's not too late."
 
 # SarahFightsVaelen_d64e3c54 (line 48333)
 translate ru SarahFightsVaelen_d64e3c54:
@@ -46,12 +46,12 @@ translate ru SarahFightsVaelen_d64e3c54:
 # SarahFightsVaelen_ef9b4d13 (line 48334)
 translate ru SarahFightsVaelen_ef9b4d13:
     # vae "You still don't get it. It's not a question of time."
-    vae ""
+    vae "You still don't get it. It's not a question of time."
 
 # SarahFightsVaelen_6bdddc0e (line 48335)
 translate ru SarahFightsVaelen_6bdddc0e:
     # vae "We were always going to end up here, Sarah."
-    vae ""
+    vae "We were always going to end up here, Sarah."
 
 # SarahFightsVaelen_372d87fb (line 48336)
 translate ru SarahFightsVaelen_372d87fb:
@@ -61,7 +61,7 @@ translate ru SarahFightsVaelen_372d87fb:
 # SarahFightsVaelen_3282ed61 (line 48337)
 translate ru SarahFightsVaelen_3282ed61:
     # s "You don't know that. You're in charge of your own life, same as me."
-    s ""
+    s "You don't know that. You're in charge of your own life, same as me."
 
 # SarahFightsVaelen_2cbdb020 (line 48338)
 translate ru SarahFightsVaelen_2cbdb020:
@@ -71,17 +71,17 @@ translate ru SarahFightsVaelen_2cbdb020:
 # SarahFightsVaelen_9902a6f1 (line 48339)
 translate ru SarahFightsVaelen_9902a6f1:
     # vae "No. I saw this a long time ago. I saw it before I even know who you were."
-    vae ""
+    vae "No. I saw this a long time ago. I saw it before I even know who you were."
 
 # SarahFightsVaelen_68dc5c7c (line 48340)
 translate ru SarahFightsVaelen_68dc5c7c:
     # vae "All the fracticious roads of my mind, all merged back to this moment."
-    vae ""
+    vae "All the fracticious roads of my mind, all merged back to this moment."
 
 # SarahFightsVaelen_783d41e2 (line 48341)
 translate ru SarahFightsVaelen_783d41e2:
     # vae "Here."
-    vae ""
+    vae "Here."
 
 # SarahFightsVaelen_301e6aa6 (line 48342)
 translate ru SarahFightsVaelen_301e6aa6:
@@ -91,7 +91,7 @@ translate ru SarahFightsVaelen_301e6aa6:
 # SarahFightsVaelen_83c7ac7a (line 48343)
 translate ru SarahFightsVaelen_83c7ac7a:
     # s "You can walk away."
-    s ""
+    s "You can walk away."
 
 # SarahFightsVaelen_8d1027ba (line 48344)
 translate ru SarahFightsVaelen_8d1027ba:
@@ -101,12 +101,12 @@ translate ru SarahFightsVaelen_8d1027ba:
 # SarahFightsVaelen_3c2b3645 (line 48345)
 translate ru SarahFightsVaelen_3c2b3645:
     # vae "No more than you can."
-    vae ""
+    vae "No more than you can."
 
 # SarahFightsVaelen_f3ae456d (line 48346)
 translate ru SarahFightsVaelen_f3ae456d:
     # s "I can. And so can you."
-    s ""
+    s "I can. And so can you."
 
 # SarahFightsVaelen_3c9e6563 (line 48347)
 translate ru SarahFightsVaelen_3c9e6563:
@@ -116,7 +116,7 @@ translate ru SarahFightsVaelen_3c9e6563:
 # SarahFightsVaelen_d5bd5e54 (line 48348)
 translate ru SarahFightsVaelen_d5bd5e54:
     # vae "Then leave. Fall to your knees, pledge loyalty to me, and walk away back into the crowd."
-    vae ""
+    vae "Then leave. Fall to your knees, pledge loyalty to me, and walk away back into the crowd."
 
 # SarahFightsVaelen_a0c240a2 (line 48349)
 translate ru SarahFightsVaelen_a0c240a2:
@@ -131,12 +131,12 @@ translate ru SarahFightsVaelen_edfe576b:
 # SarahFightsVaelen_fbccddc8 (line 48351)
 translate ru SarahFightsVaelen_fbccddc8:
     # s "I won't walk away."
-    s ""
+    s "I won't walk away."
 
 # SarahFightsVaelen_4e8dfe5a (line 48352)
 translate ru SarahFightsVaelen_4e8dfe5a:
     # vae "Then you see we're not free. Quite the opposite, neither of us could change if we wanted to."
-    vae ""
+    vae "Then you see we're not free. Quite the opposite, neither of us could change if we wanted to."
 
 # SarahFightsVaelen_1d7b772e (line 48353)
 translate ru SarahFightsVaelen_1d7b772e:
@@ -156,7 +156,7 @@ translate ru SarahFightsVaelen_0254c5ce:
 # SarahFightsVaelen_8cbc0f4a (line 48360)
 translate ru SarahFightsVaelen_8cbc0f4a:
     # s "What did you see?"
-    s ""
+    s "What did you see?"
 
 # SarahFightsVaelen_35c11f19 (line 48361)
 translate ru SarahFightsVaelen_35c11f19:
@@ -166,12 +166,12 @@ translate ru SarahFightsVaelen_35c11f19:
 # SarahFightsVaelen_cb0f3974 (line 48362)
 translate ru SarahFightsVaelen_cb0f3974:
     # vae "I..."
-    vae ""
+    vae "I..."
 
 # SarahFightsVaelen_d5164c76 (line 48363)
 translate ru SarahFightsVaelen_d5164c76:
     # s "We were friends once, Vaelen. Weren't we?"
-    s ""
+    s "We were friends once, Vaelen. Weren't we?"
 
 # SarahFightsVaelen_b69a59e0 (line 48364)
 translate ru SarahFightsVaelen_b69a59e0:
@@ -181,12 +181,12 @@ translate ru SarahFightsVaelen_b69a59e0:
 # SarahFightsVaelen_10118789 (line 48365)
 translate ru SarahFightsVaelen_10118789:
     # vae "We were, for a time."
-    vae ""
+    vae "We were, for a time."
 
 # SarahFightsVaelen_1680e70a (line 48366)
 translate ru SarahFightsVaelen_1680e70a:
     # vae "But I saw this moment a long time ago. And I saw the many ways the path unfolds and corrects itself. Bending back towards..."
-    vae ""
+    vae "But I saw this moment a long time ago. And I saw the many ways the path unfolds and corrects itself. Bending back towards..."
 
 # SarahFightsVaelen_3dd87d81 (line 48367)
 translate ru SarahFightsVaelen_3dd87d81:
@@ -196,27 +196,27 @@ translate ru SarahFightsVaelen_3dd87d81:
 # SarahFightsVaelen_17eeca47 (line 48368)
 translate ru SarahFightsVaelen_17eeca47:
     # s "Towards what?"
-    s ""
+    s "Towards what?"
 
 # SarahFightsVaelen_78fe6e6b (line 48369)
 translate ru SarahFightsVaelen_78fe6e6b:
     # vae "A great war. A bright future."
-    vae ""
+    vae "A great war. A bright future."
 
 # SarahFightsVaelen_16acd130 (line 48370)
 translate ru SarahFightsVaelen_16acd130:
     # vae "And I can see it's you, or I can see that it is me. But I cannot see the both of us."
-    vae ""
+    vae "And I can see it's you, or I can see that it is me. But I cannot see the both of us."
 
 # SarahFightsVaelen_22152660 (line 48371)
 translate ru SarahFightsVaelen_22152660:
     # vae "Here, in the desert, one soul dies and another rises."
-    vae ""
+    vae "Here, in the desert, one soul dies and another rises."
 
 # SarahFightsVaelen_5068285c (line 48372)
 translate ru SarahFightsVaelen_5068285c:
     # vae "The road ahead it...won't tolerate more of us. The culling has already begun."
-    vae ""
+    vae "The road ahead it...won't tolerate more of us. The culling has already begun."
 
 # SarahFightsVaelen_24964278 (line 48373)
 translate ru SarahFightsVaelen_24964278:
@@ -226,7 +226,7 @@ translate ru SarahFightsVaelen_24964278:
 # SarahFightsVaelen_671b834a (line 48374)
 translate ru SarahFightsVaelen_671b834a:
     # s "Then we are both fools for this."
-    s ""
+    s "Then we are both fools for this."
 
 # SarahFightsVaelen_577c75d8 (line 48375)
 translate ru SarahFightsVaelen_577c75d8:
@@ -236,7 +236,7 @@ translate ru SarahFightsVaelen_577c75d8:
 # SarahFightsVaelen_ab26ac4b (line 48376)
 translate ru SarahFightsVaelen_ab26ac4b:
     # vae "Perhaps on that, we can agree."
-    vae ""
+    vae "Perhaps on that, we can agree."
 
 # SarahFightsVaelen_51f83cd5 (line 48377)
 translate ru SarahFightsVaelen_51f83cd5:
@@ -256,22 +256,22 @@ translate ru SarahFightsVaelen_b2902652:
 # SarahFightsVaelen_dff9b5c9 (line 48380)
 translate ru SarahFightsVaelen_dff9b5c9:
     # vae "Come now, daughter of the Rose."
-    vae ""
+    vae "Come now, daughter of the Rose."
 
 # SarahFightsVaelen_678f6661 (line 48381)
 translate ru SarahFightsVaelen_678f6661:
     # vae "Forget these fools around us whose destinies are unbound."
-    vae ""
+    vae "Forget these fools around us whose destinies are unbound."
 
 # SarahFightsVaelen_6340a7e6 (line 48382)
 translate ru SarahFightsVaelen_6340a7e6:
     # vae "We are favored by the Gods, champions of their divine cause."
-    vae ""
+    vae "We are favored by the Gods, champions of their divine cause."
 
 # SarahFightsVaelen_8b473987 (line 48383)
 translate ru SarahFightsVaelen_8b473987:
     # vae "Today, we perform for them, and we shall win their glory."
-    vae ""
+    vae "Today, we perform for them, and we shall win their glory."
 
 # SarahFightsVaelen_87469cae (line 48384)
 translate ru SarahFightsVaelen_87469cae:
@@ -281,17 +281,17 @@ translate ru SarahFightsVaelen_87469cae:
 # SarahFightsVaelen_194b1909 (line 48385)
 translate ru SarahFightsVaelen_194b1909:
     # s "I find no joy in any of this."
-    s ""
+    s "I find no joy in any of this."
 
 # SarahFightsVaelen_4728c788 (line 48386)
 translate ru SarahFightsVaelen_4728c788:
     # vae "The Gods have never cared for our joy. They plant tragedy and harvest worship."
-    vae ""
+    vae "The Gods have never cared for our joy. They plant tragedy and harvest worship."
 
 # SarahFightsVaelen_b9bffc04 (line 48387)
 translate ru SarahFightsVaelen_b9bffc04:
     # vae "So come now, Sarah, and let us reap this bounty."
-    vae ""
+    vae "So come now, Sarah, and let us reap this bounty."
 
 # SarahFightsVaelen_0899d560 (line 48395)
 translate ru SarahFightsVaelen_0899d560:
@@ -671,12 +671,12 @@ translate ru SarahFightsVaelen_d3085b6a:
 # SarahFightsVaelen_3a66c6d5 (line 48472)
 translate ru SarahFightsVaelen_3a66c6d5:
     # s "Is this what you saw in your dreams?"
-    s ""
+    s "Is this what you saw in your dreams?"
 
 # SarahFightsVaelen_918afe76 (line 48473)
 translate ru SarahFightsVaelen_918afe76:
     # vae "Shut up!"
-    vae ""
+    vae "Shut up!"
 
 # SarahFightsVaelen_6757cbac (line 48474)
 translate ru SarahFightsVaelen_6757cbac:
@@ -701,12 +701,12 @@ translate ru SarahFightsVaelen_4faedeea:
 # SarahFightsVaelen_e8b4f02f (line 48478)
 translate ru SarahFightsVaelen_e8b4f02f:
     # s "Surrender, and I will let you live."
-    s ""
+    s "Surrender, and I will let you live."
 
 # SarahFightsVaelen_d83657ef (line 48479)
 translate ru SarahFightsVaelen_d83657ef:
     # vae "Shut up you fucking cunt!"
-    vae ""
+    vae "Shut up you fucking cunt!"
 
 # SarahFightsVaelen_b6c6c60f (line 48480)
 translate ru SarahFightsVaelen_b6c6c60f:
@@ -951,17 +951,17 @@ translate ru SarahFightsVaelen_5d165461:
 # SarahFightsVaelen_7c2d74c7 (line 48534)
 translate ru SarahFightsVaelen_7c2d74c7:
     # s "Do you yield?"
-    s ""
+    s "Do you yield?"
 
 # SarahFightsVaelen_347f70e3 (line 48535)
 translate ru SarahFightsVaelen_347f70e3:
     # vae "I...this wasn't supposed to happen...you were..."
-    vae ""
+    vae "I...this wasn't supposed to happen...you were..."
 
 # SarahFightsVaelen_576f5432 (line 48536)
 translate ru SarahFightsVaelen_576f5432:
     # vae "I saw it..."
-    vae ""
+    vae "I saw it..."
 
 # SarahFightsVaelen_0bdf5eff (line 48537)
 translate ru SarahFightsVaelen_0bdf5eff:
@@ -971,7 +971,7 @@ translate ru SarahFightsVaelen_0bdf5eff:
 # SarahFightsVaelen_cc899e9b (line 48538)
 translate ru SarahFightsVaelen_cc899e9b:
     # s "We can still get you a doctor. If you just yield."
-    s ""
+    s "We can still get you a doctor. If you just yield."
 
 # SarahFightsVaelen_e8be7351 (line 48539)
 translate ru SarahFightsVaelen_e8be7351:
@@ -1001,7 +1001,7 @@ translate ru SarahFightsVaelen_4769a2a8:
 # SarahFightsVaelen_04963e01 (line 48544)
 translate ru SarahFightsVaelen_04963e01:
     # s "I will ask you one final time..."
-    s ""
+    s "I will ask you one final time..."
 
 # SarahFightsVaelen_e4bfdd37 (line 48545)
 translate ru SarahFightsVaelen_e4bfdd37:
@@ -1016,7 +1016,7 @@ translate ru SarahFightsVaelen_d3624a24:
 # SarahFightsVaelen_3383397d (line 48547)
 translate ru SarahFightsVaelen_3383397d:
     # s "Yield!"
-    s ""
+    s "Yield!"
 
 # SarahFightsVaelen_dc0e9796 (line 48548)
 translate ru SarahFightsVaelen_dc0e9796:
@@ -1026,7 +1026,7 @@ translate ru SarahFightsVaelen_dc0e9796:
 # SarahFightsVaelen_bfa69157 (line 48549)
 translate ru SarahFightsVaelen_bfa69157:
     # vae "No..."
-    vae ""
+    vae "No..."
 
 # SarahFightsVaelen_cc7ca77a (line 48550)
 translate ru SarahFightsVaelen_cc7ca77a:
@@ -1136,7 +1136,7 @@ translate ru SarahFightsVaelen_4840938b:
 # SarahFightsVaelen_671ba8c6 (line 48588)
 translate ru SarahFightsVaelen_671ba8c6:
     # s "Soldiers!"
-    s ""
+    s "Soldiers!"
 
 # SarahFightsVaelen_5100b436 (line 48589)
 translate ru SarahFightsVaelen_5100b436:
@@ -1146,12 +1146,12 @@ translate ru SarahFightsVaelen_5100b436:
 # SarahFightsVaelen_18347ea2 (line 48590)
 translate ru SarahFightsVaelen_18347ea2:
     # s "Let all men and women know that I never sought this."
-    s ""
+    s "Let all men and women know that I never sought this."
 
 # SarahFightsVaelen_a224f83d (line 48591)
 translate ru SarahFightsVaelen_a224f83d:
     # s "But it was by fate and foolishness that Vaelen drove me to this moment."
-    s ""
+    s "But it was by fate and foolishness that Vaelen drove me to this moment."
 
 # SarahFightsVaelen_7f921b75 (line 48592)
 translate ru SarahFightsVaelen_7f921b75:
@@ -1171,12 +1171,12 @@ translate ru SarahFightsVaelen_3df825a4:
 # SarahFightsVaelen_841fa564 (line 48595)
 translate ru SarahFightsVaelen_841fa564:
     # s "But what has been done, is done."
-    s ""
+    s "But what has been done, is done."
 
 # SarahFightsVaelen_e46fe571 (line 48596)
 translate ru SarahFightsVaelen_e46fe571:
     # s "Those of you who cannot bear my command, I give you my word as a princess of the Rose family, that no harm will come to you."
-    s ""
+    s "Those of you who cannot bear my command, I give you my word as a princess of the Rose family, that no harm will come to you."
 
 # SarahFightsVaelen_7be63ba8 (line 48597)
 translate ru SarahFightsVaelen_7be63ba8:
@@ -1191,17 +1191,17 @@ translate ru SarahFightsVaelen_0ce53787:
 # SarahFightsVaelen_44d9336f (line 48599)
 translate ru SarahFightsVaelen_44d9336f:
     # s "But to those of you who remain..."
-    s ""
+    s "But to those of you who remain..."
 
 # SarahFightsVaelen_e4ecce7a (line 48600)
 translate ru SarahFightsVaelen_e4ecce7a:
     # s "To those of you who have shown me your loyalty, not in word, but in spilled blood..."
-    s ""
+    s "To those of you who have shown me your loyalty, not in word, but in spilled blood..."
 
 # SarahFightsVaelen_8dd64b0e (line 48601)
 translate ru SarahFightsVaelen_8dd64b0e:
     # s "To you, I say, I have witnessed your souls of steel, tested by the elements of this world!"
-    s ""
+    s "To you, I say, I have witnessed your souls of steel, tested by the elements of this world!"
 
 # SarahFightsVaelen_13f4a6cd (line 48602)
 translate ru SarahFightsVaelen_13f4a6cd:
@@ -1211,27 +1211,27 @@ translate ru SarahFightsVaelen_13f4a6cd:
 # SarahFightsVaelen_4400f520 (line 48603)
 translate ru SarahFightsVaelen_4400f520:
     # s "Each of you hails from a different corner of the world. Rich, poor. Firstborns, lowborns. Sons, daughters."
-    s ""
+    s "Each of you hails from a different corner of the world. Rich, poor. Firstborns, lowborns. Sons, daughters."
 
 # SarahFightsVaelen_fa5a6118 (line 48604)
 translate ru SarahFightsVaelen_fa5a6118:
     # s "Every continent."
-    s ""
+    s "Every continent."
 
 # SarahFightsVaelen_f0c807cf (line 48605)
 translate ru SarahFightsVaelen_f0c807cf:
     # s "Orphans, all of us, one way or another."
-    s ""
+    s "Orphans, all of us, one way or another."
 
 # SarahFightsVaelen_f5890f83 (line 48606)
 translate ru SarahFightsVaelen_f5890f83:
     # s "But orphans no more!"
-    s ""
+    s "But orphans no more!"
 
 # SarahFightsVaelen_41f2ef08 (line 48607)
 translate ru SarahFightsVaelen_41f2ef08:
     # s "Today, by right as sovereign, I decree the formation of the first new Rosannan army."
-    s ""
+    s "Today, by right as sovereign, I decree the formation of the first new Rosannan army."
 
 # SarahFightsVaelen_bd12a3fd (line 48608)
 translate ru SarahFightsVaelen_bd12a3fd:
@@ -1241,12 +1241,12 @@ translate ru SarahFightsVaelen_bd12a3fd:
 # SarahFightsVaelen_9e1cac17 (line 48609)
 translate ru SarahFightsVaelen_9e1cac17:
     # s "Kneel, pledge fealty, and you will rise. Not as vagrants of the world, not as sellswords with no dreams, but as men and women of the Rose!"
-    s ""
+    s "Kneel, pledge fealty, and you will rise. Not as vagrants of the world, not as sellswords with no dreams, but as men and women of the Rose!"
 
 # SarahFightsVaelen_d7cfec8a (line 48610)
 translate ru SarahFightsVaelen_d7cfec8a:
     # s "Rise as the soldiers that will usher in a new dawn for Rosanna, and I promise each of you will be a lord and lady in a new world!"
-    s ""
+    s "Rise as the soldiers that will usher in a new dawn for Rosanna, and I promise each of you will be a lord and lady in a new world!"
 
 # SarahFightsVaelen_a9ae2f4e (line 48611)
 translate ru SarahFightsVaelen_a9ae2f4e:
@@ -1256,7 +1256,7 @@ translate ru SarahFightsVaelen_a9ae2f4e:
 # SarahFightsVaelen_f51a03b2 (line 48612)
 translate ru SarahFightsVaelen_f51a03b2:
     # s "Who among you will take the vow?"
-    s ""
+    s "Who among you will take the vow?"
 
 # SarahFightsVaelen_824a9b90 (line 48613)
 translate ru SarahFightsVaelen_824a9b90:

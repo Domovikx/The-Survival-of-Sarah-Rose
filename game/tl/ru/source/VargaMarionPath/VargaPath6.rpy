@@ -71,7 +71,7 @@ translate ru VargaPath6_fb9828eb:
 # VargaPath6_4d45cbe1 (line 15194)
 translate ru VargaPath6_4d45cbe1:
     # v "Sarah! By the gods!"
-    v ""
+    v "Sarah! By the gods!"
 
 # VargaPath6_00134d74 (line 15195)
 translate ru VargaPath6_00134d74:
@@ -81,17 +81,17 @@ translate ru VargaPath6_00134d74:
 # VargaPath6_47bd454b (line 15196)
 translate ru VargaPath6_47bd454b:
     # s "Wow, you really do scare easy."
-    s ""
+    s "Wow, you really do scare easy."
 
 # VargaPath6_ee2b1ab9 (line 15197)
 translate ru VargaPath6_ee2b1ab9:
     # v "That's not funny."
-    v ""
+    v "That's not funny."
 
 # VargaPath6_1caed88b (line 15198)
 translate ru VargaPath6_1caed88b:
     # v "Who knows if Marion has agents crawling around this castle!"
-    v ""
+    v "Who knows if Marion has agents crawling around this castle!"
 
 # VargaPath6_5edd75d5 (line 15199)
 translate ru VargaPath6_5edd75d5:
@@ -101,7 +101,7 @@ translate ru VargaPath6_5edd75d5:
 # VargaPath6_ddd47c9f (line 15200)
 translate ru VargaPath6_ddd47c9f:
     # s "Don't worry, I barely go anywhere these days without my guards. They're right outside."
-    s ""
+    s "Don't worry, I barely go anywhere these days without my guards. They're right outside."
 
 # VargaPath6_5e16d710 (line 15201)
 translate ru VargaPath6_5e16d710:
@@ -111,7 +111,7 @@ translate ru VargaPath6_5e16d710:
 # VargaPath6_3859017f (line 15202)
 translate ru VargaPath6_3859017f:
     # s "And you're right here, so I think we're perfectly safe."
-    s ""
+    s "And you're right here, so I think we're perfectly safe."
 
 # VargaPath6_eac0497b (line 15203)
 translate ru VargaPath6_eac0497b:
@@ -121,7 +121,7 @@ translate ru VargaPath6_eac0497b:
 # VargaPath6_8e548284 (line 15204)
 translate ru VargaPath6_8e548284:
     # v "Any reason for you to be here?"
-    v ""
+    v "Any reason for you to be here?"
 
 # VargaPath6_6eeec4c2 (line 15205)
 translate ru VargaPath6_6eeec4c2:
@@ -131,7 +131,7 @@ translate ru VargaPath6_6eeec4c2:
 # VargaPath6_65663243 (line 15206)
 translate ru VargaPath6_65663243:
     # s "I didn't know a wife needed a reason to visit her husband."
-    s ""
+    s "I didn't know a wife needed a reason to visit her husband."
 
 # VargaPath6_86de79c8 (line 15207)
 translate ru VargaPath6_86de79c8:
@@ -141,12 +141,12 @@ translate ru VargaPath6_86de79c8:
 # VargaPath6_39668fa7 (line 15208)
 translate ru VargaPath6_39668fa7:
     # v "That's not how I meant it."
-    v ""
+    v "That's not how I meant it."
 
 # VargaPath6_35c4c639 (line 15209)
 translate ru VargaPath6_35c4c639:
     # v "I mean, we've been so busy ever since Marion betrayed us, I thought maybe you had some questions about the state of the military."
-    v ""
+    v "I mean, we've been so busy ever since Marion betrayed us, I thought maybe you had some questions about the state of the military."
 
 # VargaPath6_213e7544 (line 15210)
 translate ru VargaPath6_213e7544:
@@ -156,7 +156,7 @@ translate ru VargaPath6_213e7544:
 # VargaPath6_fc647ebf (line 15211)
 translate ru VargaPath6_fc647ebf:
     # s "No, thank you 'General' Varga, I'm quite up to date on the state of our military."
-    s ""
+    s "No, thank you 'General' Varga, I'm quite up to date on the state of our military."
 
 # VargaPath6_885d67b9 (line 15212)
 translate ru VargaPath6_885d67b9:
@@ -166,7 +166,7 @@ translate ru VargaPath6_885d67b9:
 # VargaPath6_722928a0 (line 15213)
 translate ru VargaPath6_722928a0:
     # s "If possible, I'd like to arrange a meeting with my husband, not my general."
-    s ""
+    s "If possible, I'd like to arrange a meeting with my husband, not my general."
 
 # VargaPath6_2fa03d94 (line 15214)
 translate ru VargaPath6_2fa03d94:
@@ -176,7 +176,7 @@ translate ru VargaPath6_2fa03d94:
 # VargaPath6_d6659e2e (line 15215)
 translate ru VargaPath6_d6659e2e:
     # v "Can't I be both?"
-    v ""
+    v "Can't I be both?"
 
 # VargaPath6_f69530eb (line 15216)
 translate ru VargaPath6_f69530eb:
@@ -191,12 +191,12 @@ translate ru VargaPath6_da0b4daa:
 # VargaPath6_62408c98 (line 15218)
 translate ru VargaPath6_62408c98:
     # s "Well, I'm not really looking for you to fulfill your general's duties..."
-    s ""
+    s "Well, I'm not really looking for you to fulfill your general's duties..."
 
 # VargaPath6_e65c3528 (line 15219)
 translate ru VargaPath6_e65c3528:
     # v "Sarah, there's so much work..."
-    v ""
+    v "Sarah, there's so much work..."
 
 # VargaPath6_76af166c (line 15220)
 translate ru VargaPath6_76af166c:
@@ -251,7 +251,7 @@ translate ru VargaPath6_93501c70:
 # VargaPath6_16843870 (line 15238)
 translate ru VargaPath6_16843870:
     # s "Now what am I going to wear?"
-    s ""
+    s "Now what am I going to wear?"
 
 # VargaPath6_eef15ff9 (line 15239)
 translate ru VargaPath6_eef15ff9:
@@ -261,7 +261,7 @@ translate ru VargaPath6_eef15ff9:
 # VargaPath6_7e47b10f (line 15240)
 translate ru VargaPath6_7e47b10f:
     # v "That's your problem."
-    v ""
+    v "That's your problem."
 
 # VargaPath6_24c113f3 (line 15241)
 translate ru VargaPath6_24c113f3:
@@ -431,7 +431,7 @@ translate ru VargaPath6_2a58d677:
 # VargaPath6_2d1d7f53 (line 15292)
 translate ru VargaPath6_2d1d7f53:
     # s "I swear, if you let another few weeks go by without taking me, I'll have you thrown in the dungeon."
-    s ""
+    s "I swear, if you let another few weeks go by without taking me, I'll have you thrown in the dungeon."
 
 # VargaPath6_213c4b8b (line 15293)
 translate ru VargaPath6_213c4b8b:
@@ -441,7 +441,7 @@ translate ru VargaPath6_213c4b8b:
 # VargaPath6_96183583 (line 15294)
 translate ru VargaPath6_96183583:
     # v "Yeah? What good will I be down there?"
-    v ""
+    v "Yeah? What good will I be down there?"
 
 # VargaPath6_ba0aa406 (line 15295)
 translate ru VargaPath6_ba0aa406:
@@ -451,7 +451,7 @@ translate ru VargaPath6_ba0aa406:
 # VargaPath6_ed233a04 (line 15296)
 translate ru VargaPath6_ed233a04:
     # s "Maybe I'll just have them imprison you in my room then. Keep you there just for this."
-    s ""
+    s "Maybe I'll just have them imprison you in my room then. Keep you there just for this."
 
 # VargaPath6_82926c2b (line 15297)
 translate ru VargaPath6_82926c2b:
@@ -461,7 +461,7 @@ translate ru VargaPath6_82926c2b:
 # VargaPath6_33dc13a6 (line 15298)
 translate ru VargaPath6_33dc13a6:
     # v "And who's going to run the army then?"
-    v ""
+    v "And who's going to run the army then?"
 
 # VargaPath6_60be1c2e (line 15299)
 translate ru VargaPath6_60be1c2e:
@@ -471,7 +471,7 @@ translate ru VargaPath6_60be1c2e:
 # VargaPath6_4c3ad474 (line 15300)
 translate ru VargaPath6_4c3ad474:
     # s "Ugh, always so serious."
-    s ""
+    s "Ugh, always so serious."
 
 # VargaPath6_ce160efe (line 15301)
 translate ru VargaPath6_ce160efe:
@@ -491,12 +491,12 @@ translate ru VargaPath6_6cb0ea1f:
 # VargaPath6_7ee44bd6 (line 15304)
 translate ru VargaPath6_7ee44bd6:
     # s "Just promise that we don't lose sight of each other in the middle of all this."
-    s ""
+    s "Just promise that we don't lose sight of each other in the middle of all this."
 
 # VargaPath6_201579d1 (line 15305)
 translate ru VargaPath6_201579d1:
     # v "Never, Sarah."
-    v ""
+    v "Never, Sarah."
 
 # VargaPath6_679a32e6 (line 15306)
 translate ru VargaPath6_679a32e6:

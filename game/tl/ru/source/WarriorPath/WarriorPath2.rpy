@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: WarriorPath2
-# Total blocks: 197
+# Total blocks: 195
 
 # WarriorPath2_a3fd19b5 (line 38979)
 translate ru WarriorPath2_a3fd19b5:
@@ -26,12 +26,12 @@ translate ru WarriorPath2_58bf32a0:
 # WarriorPath2_d97d3121 (line 38983)
 translate ru WarriorPath2_d97d3121:
     # k "Poor bastards were guarding the entrance."
-    k ""
+    k "Poor bastards were guarding the entrance."
 
 # WarriorPath2_c284740e (line 38984)
 translate ru WarriorPath2_c284740e:
     # s "Brave of them to stay at their post."
-    s ""
+    s "Brave of them to stay at their post."
 
 # WarriorPath2_74d64ef0 (line 38985)
 translate ru WarriorPath2_74d64ef0:
@@ -41,37 +41,27 @@ translate ru WarriorPath2_74d64ef0:
 # WarriorPath2_165bbe7b (line 38986)
 translate ru WarriorPath2_165bbe7b:
     # k "Brave or just stupid?"
-    k ""
+    k "Brave or just stupid?"
 
 # WarriorPath2_233cb1cc (line 38987)
 translate ru WarriorPath2_233cb1cc:
     # k "They threw their lives away, three of them trying hold off five-hundred of us. They didn't even hold us off for more than a second."
-    k ""
+    k "They threw their lives away, three of them trying hold off five-hundred of us. They didn't even hold us off for more than a second."
 
 # WarriorPath2_d7f23549 (line 38988)
 translate ru WarriorPath2_d7f23549:
     # k "And for what?"
-    k ""
+    k "And for what?"
 
 # WarriorPath2_f0a4a6c2 (line 38989)
 translate ru WarriorPath2_f0a4a6c2:
     # k "You think the asshole that owns this palace will even remember their names?"
-    k ""
+    k "You think the asshole that owns this palace will even remember their names?"
 
 # WarriorPath2_49ac643c (line 38990)
 translate ru WarriorPath2_49ac643c:
     # "Sarah looked at their bodies."
     ""
-
-# WarriorPath2_5d839502 (line 38994)
-translate ru WarriorPath2_5d839502:
-    # "Agree with Kate"
-    "Agree with Kate" ""
-
-# WarriorPath2_5c3fed0b (line 39006)
-translate ru WarriorPath2_5c3fed0b:
-    # "Disagree with Kate"
-    "Disagree with Kate" ""
 
 # WarriorPath2_ebbd2b54 (line 39018)
 translate ru WarriorPath2_ebbd2b54:
@@ -96,7 +86,7 @@ translate ru WarriorPath2_a6e3c445:
 # WarriorPath2_31dbe6db (line 39027)
 translate ru WarriorPath2_31dbe6db:
     # s "Shouldn't you be out there with the rest of them?"
-    s ""
+    s "Shouldn't you be out there with the rest of them?"
 
 # WarriorPath2_f10808e8 (line 39028)
 translate ru WarriorPath2_f10808e8:
@@ -106,12 +96,12 @@ translate ru WarriorPath2_f10808e8:
 # WarriorPath2_827db04d (line 39029)
 translate ru WarriorPath2_827db04d:
     # k "My men know they gotta kick back a share of what they find to me."
-    k ""
+    k "My men know they gotta kick back a share of what they find to me."
 
 # WarriorPath2_dff08960 (line 39030)
 translate ru WarriorPath2_dff08960:
     # k "They can do the grunt work of ripping open drawers, hoping to find a necklace. Gods know I did that shit long enough."
-    k ""
+    k "They can do the grunt work of ripping open drawers, hoping to find a necklace. Gods know I did that shit long enough."
 
 # WarriorPath2_5d21a8a4 (line 39031)
 translate ru WarriorPath2_5d21a8a4:
@@ -151,7 +141,7 @@ translate ru WarriorPath2_c6edeb97:
 # WarriorPath2_9e166642 (line 39038)
 translate ru WarriorPath2_9e166642:
     # s "You see anything you like?"
-    s ""
+    s "You see anything you like?"
 
 # WarriorPath2_159ddb0a (line 39039)
 translate ru WarriorPath2_159ddb0a:
@@ -166,12 +156,12 @@ translate ru WarriorPath2_43cb63d6:
 # WarriorPath2_36376203 (line 39041)
 translate ru WarriorPath2_36376203:
     # k "Not really my style I'm afraid."
-    k ""
+    k "Not really my style I'm afraid."
 
 # WarriorPath2_b4439b31 (line 39042)
 translate ru WarriorPath2_b4439b31:
     # k "But I'd like to see you try them on."
-    k ""
+    k "But I'd like to see you try them on."
 
 # WarriorPath2_760ce9f2 (line 39043)
 translate ru WarriorPath2_760ce9f2:
@@ -181,7 +171,7 @@ translate ru WarriorPath2_760ce9f2:
 # WarriorPath2_a0c832b3 (line 39044)
 translate ru WarriorPath2_a0c832b3:
     # s "Yeah, I bet you would like that."
-    s ""
+    s "Yeah, I bet you would like that."
 
 # WarriorPath2_cd13ca0a (line 39045)
 translate ru WarriorPath2_cd13ca0a:
@@ -191,7 +181,7 @@ translate ru WarriorPath2_cd13ca0a:
 # WarriorPath2_cd8e9df9 (line 39046)
 translate ru WarriorPath2_cd8e9df9:
     # s "Tell me, is it just gold so far or..."
-    s ""
+    s "Tell me, is it just gold so far or..."
 
 # WarriorPath2_cdf37e0b (line 39047)
 translate ru WarriorPath2_cdf37e0b:
@@ -201,22 +191,22 @@ translate ru WarriorPath2_cdf37e0b:
 # WarriorPath2_4e7a6c6d (line 39048)
 translate ru WarriorPath2_4e7a6c6d:
     # k "Most of it, but there have been a few servants that were hiding."
-    k ""
+    k "Most of it, but there have been a few servants that were hiding."
 
 # WarriorPath2_ee075011 (line 39049)
 translate ru WarriorPath2_ee075011:
     # k "I told them to round up the children in the side room over there, keep them from seeing the worst of it."
-    k ""
+    k "I told them to round up the children in the side room over there, keep them from seeing the worst of it."
 
 # WarriorPath2_0e7ed804 (line 39050)
 translate ru WarriorPath2_0e7ed804:
     # k "There are a few bodies in the rooms, male servants that were trying to hide."
-    k ""
+    k "There are a few bodies in the rooms, male servants that were trying to hide."
 
 # WarriorPath2_a7277e2f (line 39051)
 translate ru WarriorPath2_a7277e2f:
     # k "I think six or so female servants, they're...well off in that room."
-    k ""
+    k "I think six or so female servants, they're...well off in that room."
 
 # WarriorPath2_62f68ba7 (line 39052)
 translate ru WarriorPath2_62f68ba7:
@@ -326,12 +316,12 @@ translate ru WarriorPath2_892ae9e8:
 # WarriorPath2_9035ea11 (line 39073)
 translate ru WarriorPath2_9035ea11:
     # s "Kate, gather up some men and instruct them to gather up materials to build a barricade."
-    s ""
+    s "Kate, gather up some men and instruct them to gather up materials to build a barricade."
 
 # WarriorPath2_6d8c6a5e (line 39074)
 translate ru WarriorPath2_6d8c6a5e:
     # k "Yes, commander!"
-    k ""
+    k "Yes, commander!"
 
 # WarriorPath2_d58ded9f (line 39075)
 translate ru WarriorPath2_d58ded9f:
@@ -571,7 +561,7 @@ translate ru WarriorPath2_53c22b37:
 # WarriorPath2_a065daca (line 39128)
 translate ru WarriorPath2_a065daca:
     # s "Any news?"
-    s ""
+    s "Any news?"
 
 # WarriorPath2_5b5fbc5b (line 39129)
 translate ru WarriorPath2_5b5fbc5b:
@@ -581,7 +571,7 @@ translate ru WarriorPath2_5b5fbc5b:
 # WarriorPath2_49e08850 (line 39130)
 translate ru WarriorPath2_49e08850:
     # s "He's not a lord."
-    s ""
+    s "He's not a lord."
 
 # WarriorPath2_d52577f0 (line 39131)
 translate ru WarriorPath2_d52577f0:
@@ -596,7 +586,7 @@ translate ru WarriorPath2_698e1986:
 # WarriorPath2_5a6cbd0a (line 39133)
 translate ru WarriorPath2_5a6cbd0a:
     # s "Forget it. I'll go see him. Thank you for informing me."
-    s ""
+    s "Forget it. I'll go see him. Thank you for informing me."
 
 # WarriorPath2_8edf6a30 (line 39134)
 translate ru WarriorPath2_8edf6a30:
@@ -616,12 +606,12 @@ translate ru WarriorPath2_52e794fa:
 # WarriorPath2_eb39199c (line 39137)
 translate ru WarriorPath2_eb39199c:
     # s "Well, if it isn't our brave leader."
-    s ""
+    s "Well, if it isn't our brave leader."
 
 # WarriorPath2_1692e59a (line 39138)
 translate ru WarriorPath2_1692e59a:
     # s "Hope you haven't come to take some of my glory?"
-    s ""
+    s "Hope you haven't come to take some of my glory?"
 
 # WarriorPath2_bde1a95c (line 39139)
 translate ru WarriorPath2_bde1a95c:
@@ -631,7 +621,7 @@ translate ru WarriorPath2_bde1a95c:
 # WarriorPath2_540e20ae (line 39140)
 translate ru WarriorPath2_540e20ae:
     # vae "I wouldn't dream of it."
-    vae ""
+    vae "I wouldn't dream of it."
 
 # WarriorPath2_669742ed (line 39141)
 translate ru WarriorPath2_669742ed:
@@ -641,7 +631,7 @@ translate ru WarriorPath2_669742ed:
 # WarriorPath2_8e83d496 (line 39142)
 translate ru WarriorPath2_8e83d496:
     # vae "Seems like you've done alright for yourself."
-    vae ""
+    vae "Seems like you've done alright for yourself."
 
 # WarriorPath2_bfa71474 (line 39143)
 translate ru WarriorPath2_bfa71474:
@@ -651,12 +641,12 @@ translate ru WarriorPath2_bfa71474:
 # WarriorPath2_a679205b (line 39144)
 translate ru WarriorPath2_a679205b:
     # s "Captured and secured, just as you instructed."
-    s ""
+    s "Captured and secured, just as you instructed."
 
 # WarriorPath2_5f06ebaf (line 39145)
 translate ru WarriorPath2_5f06ebaf:
     # vae "I knew I could count on you."
-    vae ""
+    vae "I knew I could count on you."
 
 # WarriorPath2_881a0565 (line 39146)
 translate ru WarriorPath2_881a0565:
@@ -666,7 +656,7 @@ translate ru WarriorPath2_881a0565:
 # WarriorPath2_a0c602dd (line 39147)
 translate ru WarriorPath2_a0c602dd:
     # vae "What is this I heard about a mage?"
-    vae ""
+    vae "What is this I heard about a mage?"
 
 # WarriorPath2_a611d3ff (line 39148)
 translate ru WarriorPath2_a611d3ff:
@@ -676,7 +666,7 @@ translate ru WarriorPath2_a611d3ff:
 # WarriorPath2_2c894243 (line 39149)
 translate ru WarriorPath2_2c894243:
     # s "Ooh, I killed a mage. No big deal, really. You never killed a mage before?"
-    s ""
+    s "Ooh, I killed a mage. No big deal, really. You never killed a mage before?"
 
 # WarriorPath2_820981c6 (line 39150)
 translate ru WarriorPath2_820981c6:
@@ -686,7 +676,7 @@ translate ru WarriorPath2_820981c6:
 # WarriorPath2_8c87a351 (line 39151)
 translate ru WarriorPath2_8c87a351:
     # vae "No, Sarah, as a matter of fact I never have, and I think very few people in this world can say that they have."
-    vae ""
+    vae "No, Sarah, as a matter of fact I never have, and I think very few people in this world can say that they have."
 
 # WarriorPath2_77f44b9c (line 39152)
 translate ru WarriorPath2_77f44b9c:
@@ -696,12 +686,12 @@ translate ru WarriorPath2_77f44b9c:
 # WarriorPath2_38c6f17a (line 39153)
 translate ru WarriorPath2_38c6f17a:
     # vae "I am happy that my faith in you has proven to be well placed."
-    vae ""
+    vae "I am happy that my faith in you has proven to be well placed."
 
 # WarriorPath2_6afb09b0 (line 39154)
 translate ru WarriorPath2_6afb09b0:
     # vae "You did good work today. Not just with the mage, but also this."
-    vae ""
+    vae "You did good work today. Not just with the mage, but also this."
 
 # WarriorPath2_28138faa (line 39155)
 translate ru WarriorPath2_28138faa:
@@ -711,7 +701,7 @@ translate ru WarriorPath2_28138faa:
 # WarriorPath2_783d6b45 (line 39156)
 translate ru WarriorPath2_783d6b45:
     # s "Well, we lost a few men today, so it's a bit hard to celebrate."
-    s ""
+    s "Well, we lost a few men today, so it's a bit hard to celebrate."
 
 # WarriorPath2_3730a2d7 (line 39157)
 translate ru WarriorPath2_3730a2d7:
@@ -721,17 +711,17 @@ translate ru WarriorPath2_3730a2d7:
 # WarriorPath2_b05ab13a (line 39160)
 translate ru WarriorPath2_b05ab13a:
     # vae "Good soldiers dying is always a tragedy."
-    vae ""
+    vae "Good soldiers dying is always a tragedy."
 
 # WarriorPath2_9768903f (line 39161)
 translate ru WarriorPath2_9768903f:
     # vae "It's gruesome business, soldiering. But as much as we try to turn our hearts to stone, we still feel every loss."
-    vae ""
+    vae "It's gruesome business, soldiering. But as much as we try to turn our hearts to stone, we still feel every loss."
 
 # WarriorPath2_ebc14e6f (line 39162)
 translate ru WarriorPath2_ebc14e6f:
     # vae "But maybe that's better. Reminds us that we're still human, despite everything."
-    vae ""
+    vae "But maybe that's better. Reminds us that we're still human, despite everything."
 
 # WarriorPath2_228b0547 (line 39163)
 translate ru WarriorPath2_228b0547:
@@ -741,17 +731,17 @@ translate ru WarriorPath2_228b0547:
 # WarriorPath2_052c708b (line 39164)
 translate ru WarriorPath2_052c708b:
     # s "I'm surprised."
-    s ""
+    s "I'm surprised."
 
 # WarriorPath2_a6559f33 (line 39165)
 translate ru WarriorPath2_a6559f33:
     # vae "About what? That I have emotions?"
-    vae ""
+    vae "About what? That I have emotions?"
 
 # WarriorPath2_103c2f7c (line 39166)
 translate ru WarriorPath2_103c2f7c:
     # s "A little bit."
-    s ""
+    s "A little bit."
 
 # WarriorPath2_a0d426ab (line 39167)
 translate ru WarriorPath2_a0d426ab:
@@ -761,22 +751,22 @@ translate ru WarriorPath2_a0d426ab:
 # WarriorPath2_8c5c39fd (line 39168)
 translate ru WarriorPath2_8c5c39fd:
     # vae "Look, Sarah, I don't wear mine on my sleeves, but it hurts me too."
-    vae ""
+    vae "Look, Sarah, I don't wear mine on my sleeves, but it hurts me too."
 
 # WarriorPath2_9cfd18bb (line 39169)
 translate ru WarriorPath2_9cfd18bb:
     # vae "I have thousands of men under my command. Men that rely on me to keep them safe and employed."
-    vae ""
+    vae "I have thousands of men under my command. Men that rely on me to keep them safe and employed."
 
 # WarriorPath2_f28ba57a (line 39170)
 translate ru WarriorPath2_f28ba57a:
     # vae "If I broke down at every death, I would never have been able to get to where I am today."
-    vae ""
+    vae "If I broke down at every death, I would never have been able to get to where I am today."
 
 # WarriorPath2_eb72641a (line 39171)
 translate ru WarriorPath2_eb72641a:
     # vae "But that doesn't mean I don't care about them."
-    vae ""
+    vae "But that doesn't mean I don't care about them."
 
 # WarriorPath2_f85e4c76 (line 39172)
 translate ru WarriorPath2_f85e4c76:
@@ -786,12 +776,12 @@ translate ru WarriorPath2_f85e4c76:
 # WarriorPath2_a379cc3d (line 39173)
 translate ru WarriorPath2_a379cc3d:
     # s "Yeah, I know. I didn't mean anything by it."
-    s ""
+    s "Yeah, I know. I didn't mean anything by it."
 
 # WarriorPath2_8d3194a0 (line 39174)
 translate ru WarriorPath2_8d3194a0:
     # vae "Of course, and I take no offense."
-    vae ""
+    vae "Of course, and I take no offense."
 
 # WarriorPath2_f5eda535 (line 39175)
 translate ru WarriorPath2_f5eda535:
@@ -801,12 +791,12 @@ translate ru WarriorPath2_f5eda535:
 # WarriorPath2_7375690d (line 39176)
 translate ru WarriorPath2_7375690d:
     # vae "Just know that I'm proud of you today. When the day is over and we celebrate those that survived, you will be honoured, trust me."
-    vae ""
+    vae "Just know that I'm proud of you today. When the day is over and we celebrate those that survived, you will be honoured, trust me."
 
 # WarriorPath2_95f711fa (line 39177)
 translate ru WarriorPath2_95f711fa:
     # s "Thank you Vaelen."
-    s ""
+    s "Thank you Vaelen."
 
 # WarriorPath2_cd3e6053 (line 39178)
 translate ru WarriorPath2_cd3e6053:
@@ -816,22 +806,22 @@ translate ru WarriorPath2_cd3e6053:
 # WarriorPath2_7c8809c3 (line 39179)
 translate ru WarriorPath2_7c8809c3:
     # s "What about this?"
-    s ""
+    s "What about this?"
 
 # WarriorPath2_15291685 (line 39180)
 translate ru WarriorPath2_15291685:
     # vae "Keep it up."
-    vae ""
+    vae "Keep it up."
 
 # WarriorPath2_56b8a591 (line 39181)
 translate ru WarriorPath2_56b8a591:
     # vae "We want to keep the Mythrans out as much as the remnants of the Bagrad army."
-    vae ""
+    vae "We want to keep the Mythrans out as much as the remnants of the Bagrad army."
 
 # WarriorPath2_7085fa97 (line 39182)
 translate ru WarriorPath2_7085fa97:
     # vae "Unless I give you an explicit order, this stays up and nobody goes inside without my express permission, understand?"
-    vae ""
+    vae "Unless I give you an explicit order, this stays up and nobody goes inside without my express permission, understand?"
 
 # WarriorPath2_4155adb4 (line 39183)
 translate ru WarriorPath2_4155adb4:
@@ -841,7 +831,7 @@ translate ru WarriorPath2_4155adb4:
 # WarriorPath2_994bfb33 (line 39184)
 translate ru WarriorPath2_994bfb33:
     # s "Yes sir, not a soul."
-    s ""
+    s "Yes sir, not a soul."
 
 # WarriorPath2_78da9214 (line 39185)
 translate ru WarriorPath2_78da9214:
@@ -851,7 +841,7 @@ translate ru WarriorPath2_78da9214:
 # WarriorPath2_2eab3984 (line 39186)
 translate ru WarriorPath2_2eab3984:
     # vae "I wish all my commanders were as reliable as you."
-    vae ""
+    vae "I wish all my commanders were as reliable as you."
 
 # WarriorPath2_19efdb92 (line 39187)
 translate ru WarriorPath2_19efdb92:
@@ -861,12 +851,12 @@ translate ru WarriorPath2_19efdb92:
 # WarriorPath2_dfe822f6 (line 39188)
 translate ru WarriorPath2_dfe822f6:
     # s "Wouldn't be much work left for you if everyone did their jobs as well as I do mine, right?"
-    s ""
+    s "Wouldn't be much work left for you if everyone did their jobs as well as I do mine, right?"
 
 # WarriorPath2_fddc08cd (line 39189)
 translate ru WarriorPath2_fddc08cd:
     # vae "I suppose that's true."
-    vae ""
+    vae "I suppose that's true."
 
 # WarriorPath2_495e37ee (line 39190)
 translate ru WarriorPath2_495e37ee:
@@ -876,27 +866,27 @@ translate ru WarriorPath2_495e37ee:
 # WarriorPath2_bc94ca9f (line 39191)
 translate ru WarriorPath2_bc94ca9f:
     # vae "Anyway, Sarah, I didn't just come here to talk."
-    vae ""
+    vae "Anyway, Sarah, I didn't just come here to talk."
 
 # WarriorPath2_1596efa9 (line 39192)
 translate ru WarriorPath2_1596efa9:
     # vae "I wanted to let you know that the last of the Bagrad forces have collapsed. We're now cleaning up small pockets of resistance, but the battle is over."
-    vae ""
+    vae "I wanted to let you know that the last of the Bagrad forces have collapsed. We're now cleaning up small pockets of resistance, but the battle is over."
 
 # WarriorPath2_8b2acecd (line 39193)
 translate ru WarriorPath2_8b2acecd:
     # vae "The Mythran prince has entered the city and he's drawing closer to the palace."
-    vae ""
+    vae "The Mythran prince has entered the city and he's drawing closer to the palace."
 
 # WarriorPath2_a478dbba (line 39194)
 translate ru WarriorPath2_a478dbba:
     # vae "Once he gets here, he will demand that the Shah surrender himself and his family."
-    vae ""
+    vae "Once he gets here, he will demand that the Shah surrender himself and his family."
 
 # WarriorPath2_5681d691 (line 39195)
 translate ru WarriorPath2_5681d691:
     # s "They haven't done so yet?"
-    s ""
+    s "They haven't done so yet?"
 
 # WarriorPath2_ab4ad1fa (line 39196)
 translate ru WarriorPath2_ab4ad1fa:
@@ -906,27 +896,27 @@ translate ru WarriorPath2_ab4ad1fa:
 # WarriorPath2_2817def4 (line 39197)
 translate ru WarriorPath2_2817def4:
     # vae "They're still barricaded up in the throne room, back in the royal quarters."
-    vae ""
+    vae "They're still barricaded up in the throne room, back in the royal quarters."
 
 # WarriorPath2_0922976c (line 39198)
 translate ru WarriorPath2_0922976c:
     # vae "I came here to ask you to join me."
-    vae ""
+    vae "I came here to ask you to join me."
 
 # WarriorPath2_3bd5bb62 (line 39199)
 translate ru WarriorPath2_3bd5bb62:
     # s "Join you?"
-    s ""
+    s "Join you?"
 
 # WarriorPath2_88a67e73 (line 39200)
 translate ru WarriorPath2_88a67e73:
     # vae "Yes. I want you to be there with me when the Mythran army hands over their demand for surrender."
-    vae ""
+    vae "Yes. I want you to be there with me when the Mythran army hands over their demand for surrender."
 
 # WarriorPath2_1f65d8e4 (line 39201)
 translate ru WarriorPath2_1f65d8e4:
     # s "You think the Bagrad royal family will resist?"
-    s ""
+    s "You think the Bagrad royal family will resist?"
 
 # WarriorPath2_60cbc6ed (line 39202)
 translate ru WarriorPath2_60cbc6ed:
@@ -936,17 +926,17 @@ translate ru WarriorPath2_60cbc6ed:
 # WarriorPath2_1762b6d4 (line 39203)
 translate ru WarriorPath2_1762b6d4:
     # vae "Their army is broken. Their guards have abandoned their posts. The city is lost."
-    vae ""
+    vae "Their army is broken. Their guards have abandoned their posts. The city is lost."
 
 # WarriorPath2_0a001659 (line 39204)
 translate ru WarriorPath2_0a001659:
     # vae "It's just...a tense moment."
-    vae ""
+    vae "It's just...a tense moment."
 
 # WarriorPath2_e1e92714 (line 39205)
 translate ru WarriorPath2_e1e92714:
     # vae "If not for you, I would be the only one from the Brothers of Providence. I'd like to have more friendly faces in the room. Just in case."
-    vae ""
+    vae "If not for you, I would be the only one from the Brothers of Providence. I'd like to have more friendly faces in the room. Just in case."
 
 # WarriorPath2_f2fcefee (line 39206)
 translate ru WarriorPath2_f2fcefee:
@@ -956,12 +946,12 @@ translate ru WarriorPath2_f2fcefee:
 # WarriorPath2_82a984e0 (line 39207)
 translate ru WarriorPath2_82a984e0:
     # s "Sure, I'll come along. I'll bring a handful of soldiers too, just in case."
-    s ""
+    s "Sure, I'll come along. I'll bring a handful of soldiers too, just in case."
 
 # WarriorPath2_bdb51a16 (line 39208)
 translate ru WarriorPath2_bdb51a16:
     # vae "Excellent. We'll need to move soon, their army is going to be entering the throne room any moment."
-    vae ""
+    vae "Excellent. We'll need to move soon, their army is going to be entering the throne room any moment."
 
 # WarriorPath2_7a42b956 (line 39209)
 translate ru WarriorPath2_7a42b956:

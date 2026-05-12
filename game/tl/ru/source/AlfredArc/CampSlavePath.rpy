@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: CampSlavePath
-# Total blocks: 26
+# Total blocks: 24
 
 # CampSlavePath_fdc9dcac (line 22289)
 translate ru CampSlavePath_fdc9dcac:
@@ -122,14 +122,4 @@ translate ru CampSlavePath_6ba53370:
 translate ru CampSlavePath_a8b13016:
     # "And yet, this is what has become of her situation."
     ""
-
-# CampSlavePath_facc28a5 (line 22333)
-translate ru CampSlavePath_facc28a5:
-    # "Sarah begins to sing."
-    "Sarah begins to sing." ""
-
-# CampSlavePath_d3543b35 (line 22483)
-translate ru CampSlavePath_d3543b35:
-    # "Sarah stays quiet."
-    "Sarah stays quiet." ""
 

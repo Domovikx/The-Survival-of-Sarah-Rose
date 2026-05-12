@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TrainingPathCaleb2
-# Total blocks: 72
+# Total blocks: 68
 
 # TrainingPathCaleb2_cd206c15 (line 36532)
 translate ru TrainingPathCaleb2_cd206c15:
@@ -41,7 +41,7 @@ translate ru TrainingPathCaleb2_4cba5db7:
 # TrainingPathCaleb2_897ba5c2 (line 36539)
 translate ru TrainingPathCaleb2_897ba5c2:
     # ep "Footwork!"
-    ep ""
+    ep "Footwork!"
 
 # TrainingPathCaleb2_873a0655 (line 36540)
 translate ru TrainingPathCaleb2_873a0655:
@@ -96,12 +96,12 @@ translate ru TrainingPathCaleb2_d11a5816:
 # TrainingPathCaleb2_a7123ed9 (line 36550)
 translate ru TrainingPathCaleb2_a7123ed9:
     # ca "Sarah! Are you ok?"
-    ca ""
+    ca "Sarah! Are you ok?"
 
 # TrainingPathCaleb2_cc9ddd1a (line 36551)
 translate ru TrainingPathCaleb2_cc9ddd1a:
     # ep "That looked like a nasty fall."
-    ep ""
+    ep "That looked like a nasty fall."
 
 # TrainingPathCaleb2_9b0f2d73 (line 36552)
 translate ru TrainingPathCaleb2_9b0f2d73:
@@ -111,7 +111,7 @@ translate ru TrainingPathCaleb2_9b0f2d73:
 # TrainingPathCaleb2_16878dac (line 36553)
 translate ru TrainingPathCaleb2_16878dac:
     # s "It's ok, I just, I messed it up."
-    s ""
+    s "It's ok, I just, I messed it up."
 
 # TrainingPathCaleb2_108675b9 (line 36554)
 translate ru TrainingPathCaleb2_108675b9:
@@ -121,7 +121,7 @@ translate ru TrainingPathCaleb2_108675b9:
 # TrainingPathCaleb2_3fac6afe (line 36555)
 translate ru TrainingPathCaleb2_3fac6afe:
     # s "Ouch!"
-    s ""
+    s "Ouch!"
 
 # TrainingPathCaleb2_85539056 (line 36556)
 translate ru TrainingPathCaleb2_85539056:
@@ -131,7 +131,7 @@ translate ru TrainingPathCaleb2_85539056:
 # TrainingPathCaleb2_f21cdc38 (line 36557)
 translate ru TrainingPathCaleb2_f21cdc38:
     # ep "Don't stand on it, you probably sprained it, Caleb, help her up."
-    ep ""
+    ep "Don't stand on it, you probably sprained it, Caleb, help her up."
 
 # TrainingPathCaleb2_46c63a2a (line 36558)
 translate ru TrainingPathCaleb2_46c63a2a:
@@ -141,7 +141,7 @@ translate ru TrainingPathCaleb2_46c63a2a:
 # TrainingPathCaleb2_986b6446 (line 36559)
 translate ru TrainingPathCaleb2_986b6446:
     # s "Really, I'm fine, it's ok."
-    s ""
+    s "Really, I'm fine, it's ok."
 
 # TrainingPathCaleb2_74064b79 (line 36560)
 translate ru TrainingPathCaleb2_74064b79:
@@ -166,7 +166,7 @@ translate ru TrainingPathCaleb2_0af31002:
 # TrainingPathCaleb2_d5d4cbed (line 36564)
 translate ru TrainingPathCaleb2_d5d4cbed:
     # ca "Don't worry, Ephraim knows a thing or two about this sort of stuff. He's not a doctor, but on the battlefield, he's as good as you're gonna get."
-    ca ""
+    ca "Don't worry, Ephraim knows a thing or two about this sort of stuff. He's not a doctor, but on the battlefield, he's as good as you're gonna get."
 
 # TrainingPathCaleb2_0cbb5d62 (line 36565)
 translate ru TrainingPathCaleb2_0cbb5d62:
@@ -176,7 +176,7 @@ translate ru TrainingPathCaleb2_0cbb5d62:
 # TrainingPathCaleb2_649536a4 (line 36566)
 translate ru TrainingPathCaleb2_649536a4:
     # ep "You're lucky, it's not sprained, it should heal up in a few minutes."
-    ep ""
+    ep "You're lucky, it's not sprained, it should heal up in a few minutes."
 
 # TrainingPathCaleb2_48ab3ec8 (line 36567)
 translate ru TrainingPathCaleb2_48ab3ec8:
@@ -186,7 +186,7 @@ translate ru TrainingPathCaleb2_48ab3ec8:
 # TrainingPathCaleb2_5ba1968e (line 36568)
 translate ru TrainingPathCaleb2_5ba1968e:
     # ca "You have to be careful with those jumps. You're pretty good, but one slip up and it can mean the end."
-    ca ""
+    ca "You have to be careful with those jumps. You're pretty good, but one slip up and it can mean the end."
 
 # TrainingPathCaleb2_2953a8ca (line 36569)
 translate ru TrainingPathCaleb2_2953a8ca:
@@ -196,12 +196,12 @@ translate ru TrainingPathCaleb2_2953a8ca:
 # TrainingPathCaleb2_8f05f474 (line 36570)
 translate ru TrainingPathCaleb2_8f05f474:
     # s "Yeah, sorry, I just got distracted..."
-    s ""
+    s "Yeah, sorry, I just got distracted..."
 
 # TrainingPathCaleb2_a7d1c5d4 (line 36571)
 translate ru TrainingPathCaleb2_a7d1c5d4:
     # ep "By what?"
-    ep ""
+    ep "By what?"
 
 # TrainingPathCaleb2_e74ae177 (line 36572)
 translate ru TrainingPathCaleb2_e74ae177:
@@ -211,7 +211,7 @@ translate ru TrainingPathCaleb2_e74ae177:
 # TrainingPathCaleb2_222d3c23 (line 36573)
 translate ru TrainingPathCaleb2_222d3c23:
     # s "Nothing, it's just, it was no big deal."
-    s ""
+    s "Nothing, it's just, it was no big deal."
 
 # TrainingPathCaleb2_a5aa351b (line 36574)
 translate ru TrainingPathCaleb2_a5aa351b:
@@ -221,7 +221,7 @@ translate ru TrainingPathCaleb2_a5aa351b:
 # TrainingPathCaleb2_e20f791b (line 36575)
 translate ru TrainingPathCaleb2_e20f791b:
     # ca "Huh, did we do anything?"
-    ca ""
+    ca "Huh, did we do anything?"
 
 # TrainingPathCaleb2_0325abf4 (line 36576)
 translate ru TrainingPathCaleb2_0325abf4:
@@ -231,7 +231,7 @@ translate ru TrainingPathCaleb2_0325abf4:
 # TrainingPathCaleb2_c66773b4 (line 36577)
 translate ru TrainingPathCaleb2_c66773b4:
     # ep "I think she was distracted by us, Caleb. Then again, we were being pretty distracting."
-    ep ""
+    ep "I think she was distracted by us, Caleb. Then again, we were being pretty distracting."
 
 # TrainingPathCaleb2_2ddec7c4 (line 36578)
 translate ru TrainingPathCaleb2_2ddec7c4:
@@ -246,7 +246,7 @@ translate ru TrainingPathCaleb2_ab821d8c:
 # TrainingPathCaleb2_f1da9342 (line 36580)
 translate ru TrainingPathCaleb2_f1da9342:
     # s "Forget it!"
-    s ""
+    s "Forget it!"
 
 # TrainingPathCaleb2_dfb1bf62 (line 36581)
 translate ru TrainingPathCaleb2_dfb1bf62:
@@ -306,17 +306,17 @@ translate ru TrainingPathCaleb2_37c2aee9:
 # TrainingPathCaleb2_f8ebae45 (line 36599)
 translate ru TrainingPathCaleb2_f8ebae45:
     # s "What?"
-    s ""
+    s "What?"
 
 # TrainingPathCaleb2_8568c55c (line 36600)
 translate ru TrainingPathCaleb2_8568c55c:
     # ep "Ooh, it's nothing."
-    ep ""
+    ep "Ooh, it's nothing."
 
 # TrainingPathCaleb2_097f3c06 (line 36601)
 translate ru TrainingPathCaleb2_097f3c06:
     # ca "Well, not nothing..."
-    ca ""
+    ca "Well, not nothing..."
 
 # TrainingPathCaleb2_ff71b835 (line 36602)
 translate ru TrainingPathCaleb2_ff71b835:
@@ -326,7 +326,7 @@ translate ru TrainingPathCaleb2_ff71b835:
 # TrainingPathCaleb2_d2f63db5 (line 36603)
 translate ru TrainingPathCaleb2_d2f63db5:
     # s "Nobody ever taught you its impolite to whisper in company?"
-    s ""
+    s "Nobody ever taught you its impolite to whisper in company?"
 
 # TrainingPathCaleb2_c2c0bb03 (line 36604)
 translate ru TrainingPathCaleb2_c2c0bb03:
@@ -336,30 +336,10 @@ translate ru TrainingPathCaleb2_c2c0bb03:
 # TrainingPathCaleb2_b590fff1 (line 36605)
 translate ru TrainingPathCaleb2_b590fff1:
     # ep "Well, if you must know, Caleb was talking to me about what he wanted to do tonight."
-    ep ""
+    ep "Well, if you must know, Caleb was talking to me about what he wanted to do tonight."
 
 # TrainingPathCaleb2_18ae49b5 (line 36606)
 translate ru TrainingPathCaleb2_18ae49b5:
     # ep "But, speaking of polite, I'm not sure present company wants to hear..."
-    ep ""
-
-# TrainingPathCaleb2_55a844be (line 36610)
-translate ru TrainingPathCaleb2_55a844be:
-    # "Tell me."
-    "Tell me." ""
-
-# TrainingPathCaleb2_5691ba73 (line 36638)
-translate ru TrainingPathCaleb2_5691ba73:
-    # "Accept Ephraim and Caleb's proposal."
-    "Accept Ephraim and Caleb's proposal." ""
-
-# TrainingPathCaleb2_fa3ac317 (line 36716)
-translate ru TrainingPathCaleb2_fa3ac317:
-    # "We don't do that in Rosanna."
-    "We don't do that in Rosanna." ""
-
-# TrainingPathCaleb2_bf979dce (line 36725)
-translate ru TrainingPathCaleb2_bf979dce:
-    # "Fine, play your little games."
-    "Fine, play your little games." ""
+    ep "But, speaking of polite, I'm not sure present company wants to hear..."
 

@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: WarriorQueen3
-# Total blocks: 328
+# Total blocks: 326
 
 # WarriorQueen3_df989213 (line 54901)
 translate ru WarriorQueen3_df989213:
@@ -321,7 +321,7 @@ translate ru WarriorQueen3_26d527e0:
 # WarriorQueen3_cccf103c (line 54984)
 translate ru WarriorQueen3_cccf103c:
     # s "Excellent, take me there immediately."
-    s ""
+    s "Excellent, take me there immediately."
 
 # WarriorQueen3_a91e4a53 (line 54990)
 translate ru WarriorQueen3_a91e4a53:
@@ -401,7 +401,7 @@ translate ru WarriorQueen3_9ad9f5f3:
 # WarriorQueen3_63618786 (line 55011)
 translate ru WarriorQueen3_63618786:
     # s "Catch me up, has anything changed since we left Rahayal?"
-    s ""
+    s "Catch me up, has anything changed since we left Rahayal?"
 
 # WarriorQueen3_53ffb77e (line 55012)
 translate ru WarriorQueen3_53ffb77e:
@@ -431,7 +431,7 @@ translate ru WarriorQueen3_1ddb5a51:
 # WarriorQueen3_ef63082e (line 55022)
 translate ru WarriorQueen3_ef63082e:
     # g "We've nearly finished setting up camp."
-    g ""
+    g "We've nearly finished setting up camp."
 
 # WarriorQueen3_e7d80e73 (line 55023)
 translate ru WarriorQueen3_e7d80e73:
@@ -441,7 +441,7 @@ translate ru WarriorQueen3_e7d80e73:
 # WarriorQueen3_a74239ba (line 55024)
 translate ru WarriorQueen3_a74239ba:
     # g "We've not been able to move out too much into the interior. We still need a lot of the men to help unloading the ships."
-    g ""
+    g "We've not been able to move out too much into the interior. We still need a lot of the men to help unloading the ships."
 
 # WarriorQueen3_2de4822d (line 55025)
 translate ru WarriorQueen3_2de4822d:
@@ -476,12 +476,12 @@ translate ru WarriorQueen3_2f0e1956:
 # WarriorQueen3_c558c409 (line 55031)
 translate ru WarriorQueen3_c558c409:
     # s "What about the Tribesmen?"
-    s ""
+    s "What about the Tribesmen?"
 
 # WarriorQueen3_6c787cd4 (line 55032)
 translate ru WarriorQueen3_6c787cd4:
     # s "Have we spotted any yet?"
-    s ""
+    s "Have we spotted any yet?"
 
 # WarriorQueen3_f21005f0 (line 55035)
 translate ru WarriorQueen3_f21005f0:
@@ -491,7 +491,7 @@ translate ru WarriorQueen3_f21005f0:
 # WarriorQueen3_b40f856b (line 55036)
 translate ru WarriorQueen3_b40f856b:
     # g "We've sound out a few forward scouts."
-    g ""
+    g "We've sound out a few forward scouts."
 
 # WarriorQueen3_ba7ef513 (line 55037)
 translate ru WarriorQueen3_ba7ef513:
@@ -501,7 +501,7 @@ translate ru WarriorQueen3_ba7ef513:
 # WarriorQueen3_247c0664 (line 55038)
 translate ru WarriorQueen3_247c0664:
     # g "They've taken position on nearby hills, but so far, they report nothing."
-    g ""
+    g "They've taken position on nearby hills, but so far, they report nothing."
 
 # WarriorQueen3_f1ce672f (line 55039)
 translate ru WarriorQueen3_f1ce672f:
@@ -526,7 +526,7 @@ translate ru WarriorQueen3_f1005f59:
 # WarriorQueen3_339e32c9 (line 55043)
 translate ru WarriorQueen3_339e32c9:
     # s "Any signs that we've been detected?"
-    s ""
+    s "Any signs that we've been detected?"
 
 # WarriorQueen3_b95264ea (line 55044)
 translate ru WarriorQueen3_b95264ea:
@@ -536,12 +536,12 @@ translate ru WarriorQueen3_b95264ea:
 # WarriorQueen3_effd414f (line 55047)
 translate ru WarriorQueen3_effd414f:
     # g "So far, nothing."
-    g ""
+    g "So far, nothing."
 
 # WarriorQueen3_7f671d77 (line 55048)
 translate ru WarriorQueen3_7f671d77:
     # g "We haven't spotted any Tribesmen patrols, but then again, we have been keeping quite close to the shore."
-    g ""
+    g "We haven't spotted any Tribesmen patrols, but then again, we have been keeping quite close to the shore."
 
 # WarriorQueen3_2075a031 (line 55049)
 translate ru WarriorQueen3_2075a031:
@@ -561,7 +561,7 @@ translate ru WarriorQueen3_d75092f5:
 # WarriorQueen3_67f5461d (line 55052)
 translate ru WarriorQueen3_67f5461d:
     # s "What about Ridgehaven? What has been the report there?"
-    s ""
+    s "What about Ridgehaven? What has been the report there?"
 
 # WarriorQueen3_7db7c475 (line 55053)
 translate ru WarriorQueen3_7db7c475:
@@ -571,7 +571,7 @@ translate ru WarriorQueen3_7db7c475:
 # WarriorQueen3_ff2d7878 (line 55054)
 translate ru WarriorQueen3_ff2d7878:
     # g "We don't know."
-    g ""
+    g "We don't know."
 
 # WarriorQueen3_4bab4d41 (line 55055)
 translate ru WarriorQueen3_4bab4d41:
@@ -581,12 +581,12 @@ translate ru WarriorQueen3_4bab4d41:
 # WarriorQueen3_9a095f2e (line 55056)
 translate ru WarriorQueen3_9a095f2e:
     # s "You don't know?"
-    s ""
+    s "You don't know?"
 
 # WarriorQueen3_12d2e8f0 (line 55057)
 translate ru WarriorQueen3_12d2e8f0:
     # g "No. So far, we've held back. Our main priority has been to avoid detection, so we held back. Even the scouts were told to stay near camp."
-    g ""
+    g "No. So far, we've held back. Our main priority has been to avoid detection, so we held back. Even the scouts were told to stay near camp."
 
 # WarriorQueen3_b62bd652 (line 55060)
 translate ru WarriorQueen3_b62bd652:
@@ -616,7 +616,7 @@ translate ru WarriorQueen3_791461f9:
 # WarriorQueen3_612f820a (line 55065)
 translate ru WarriorQueen3_612f820a:
     # s "We could send a scout party up the road to Ridgehaven. See what is going on there."
-    s ""
+    s "We could send a scout party up the road to Ridgehaven. See what is going on there."
 
 # WarriorQueen3_d54dc885 (line 55066)
 translate ru WarriorQueen3_d54dc885:
@@ -626,7 +626,7 @@ translate ru WarriorQueen3_d54dc885:
 # WarriorQueen3_2d5ef605 (line 55067)
 translate ru WarriorQueen3_2d5ef605:
     # g "We could, but if there are Tribesmen loyalists or spies, they might report back to the capital."
-    g ""
+    g "We could, but if there are Tribesmen loyalists or spies, they might report back to the capital."
 
 # WarriorQueen3_c6820179 (line 55068)
 translate ru WarriorQueen3_c6820179:
@@ -683,16 +683,6 @@ translate ru WarriorQueen3_c12ee236:
     # "But if they were discovered, it could mean they'd be detected."
     ""
 
-# WarriorQueen3_8b82a5e0 (line 55085)
-translate ru WarriorQueen3_8b82a5e0:
-    # "Send a scout party to infiltrate Ridgehaven"
-    "Send a scout party to infiltrate Ridgehaven" ""
-
-# WarriorQueen3_40ce0be2 (line 55094)
-translate ru WarriorQueen3_40ce0be2:
-    # "Tell the scouts to stay near camp"
-    "Tell the scouts to stay near camp" ""
-
 # WarriorQueen3_f92464d9 (line 55104)
 translate ru WarriorQueen3_f92464d9:
     # "Sarah looked at the map again."
@@ -701,7 +691,7 @@ translate ru WarriorQueen3_f92464d9:
 # WarriorQueen3_9280660d (line 55105)
 translate ru WarriorQueen3_9280660d:
     # s "Well, that settles the most pressing issue, but what about the longer term goals?"
-    s ""
+    s "Well, that settles the most pressing issue, but what about the longer term goals?"
 
 # WarriorQueen3_7e84aabf (line 55106)
 translate ru WarriorQueen3_7e84aabf:
@@ -711,17 +701,17 @@ translate ru WarriorQueen3_7e84aabf:
 # WarriorQueen3_b175c53c (line 55107)
 translate ru WarriorQueen3_b175c53c:
     # g "We expect to finish preparin the last defenses in the coming days."
-    g ""
+    g "We expect to finish preparin the last defenses in the coming days."
 
 # WarriorQueen3_31a49f43 (line 55108)
 translate ru WarriorQueen3_31a49f43:
     # g "A few more days after that, we expect most of your remaining troops to have landed and begun preparing."
-    g ""
+    g "A few more days after that, we expect most of your remaining troops to have landed and begun preparing."
 
 # WarriorQueen3_d6aa5e37 (line 55109)
 translate ru WarriorQueen3_d6aa5e37:
     # g "It will take a while to gear everyone up and hand down orders, but after that, we should be ready to move."
-    g ""
+    g "It will take a while to gear everyone up and hand down orders, but after that, we should be ready to move."
 
 # WarriorQueen3_56a1666c (line 55110)
 translate ru WarriorQueen3_56a1666c:
@@ -731,7 +721,7 @@ translate ru WarriorQueen3_56a1666c:
 # WarriorQueen3_b0c1bd36 (line 55111)
 translate ru WarriorQueen3_b0c1bd36:
     # s "So at best...a week or so?"
-    s ""
+    s "So at best...a week or so?"
 
 # WarriorQueen3_93bdba67 (line 55112)
 translate ru WarriorQueen3_93bdba67:
@@ -741,7 +731,7 @@ translate ru WarriorQueen3_93bdba67:
 # WarriorQueen3_a2b8c818 (line 55113)
 translate ru WarriorQueen3_a2b8c818:
     # g "We hope so."
-    g ""
+    g "We hope so."
 
 # WarriorQueen3_a229ce07 (line 55114)
 translate ru WarriorQueen3_a229ce07:
@@ -751,12 +741,12 @@ translate ru WarriorQueen3_a229ce07:
 # WarriorQueen3_7d19d58e (line 55115)
 translate ru WarriorQueen3_7d19d58e:
     # g "This here is the main road that runs closest from our current position."
-    g ""
+    g "This here is the main road that runs closest from our current position."
 
 # WarriorQueen3_ffca7edc (line 55116)
 translate ru WarriorQueen3_ffca7edc:
     # g "It runs along Ridgehaven, deeper into the interior of Rosanna, all the way up to the capital."
-    g ""
+    g "It runs along Ridgehaven, deeper into the interior of Rosanna, all the way up to the capital."
 
 # WarriorQueen3_51b76718 (line 55117)
 translate ru WarriorQueen3_51b76718:
@@ -766,12 +756,12 @@ translate ru WarriorQueen3_51b76718:
 # WarriorQueen3_72f560ed (line 55118)
 translate ru WarriorQueen3_72f560ed:
     # g "Most of this area is grassland, the occasional small farmstead."
-    g ""
+    g "Most of this area is grassland, the occasional small farmstead."
 
 # WarriorQueen3_63c319e9 (line 55119)
 translate ru WarriorQueen3_63c319e9:
     # g "We can move some units through it, but only the main road is going to be developed enough for us to move a real army across."
-    g ""
+    g "We can move some units through it, but only the main road is going to be developed enough for us to move a real army across."
 
 # WarriorQueen3_ad851f1e (line 55120)
 translate ru WarriorQueen3_ad851f1e:
@@ -796,7 +786,7 @@ translate ru WarriorQueen3_70feaa4a:
 # WarriorQueen3_1cc0e4b9 (line 55124)
 translate ru WarriorQueen3_1cc0e4b9:
     # s "If the road is cut-off, we'll be stuck."
-    s ""
+    s "If the road is cut-off, we'll be stuck."
 
 # WarriorQueen3_bcfe8ce5 (line 55125)
 translate ru WarriorQueen3_bcfe8ce5:
@@ -806,12 +796,12 @@ translate ru WarriorQueen3_bcfe8ce5:
 # WarriorQueen3_ce3e9455 (line 55126)
 translate ru WarriorQueen3_ce3e9455:
     # g "Yes, and with the season turning, we expect snow to be falling soon. Likely within days."
-    g ""
+    g "Yes, and with the season turning, we expect snow to be falling soon. Likely within days."
 
 # WarriorQueen3_1e9f5b4f (line 55127)
 translate ru WarriorQueen3_1e9f5b4f:
     # g "That will likely slow us down."
-    g ""
+    g "That will likely slow us down."
 
 # WarriorQueen3_d5bfd9c7 (line 55128)
 translate ru WarriorQueen3_d5bfd9c7:
@@ -821,22 +811,22 @@ translate ru WarriorQueen3_d5bfd9c7:
 # WarriorQueen3_d826b219 (line 55129)
 translate ru WarriorQueen3_d826b219:
     # s "What about the Tribesmen?"
-    s ""
+    s "What about the Tribesmen?"
 
 # WarriorQueen3_2e283144 (line 55130)
 translate ru WarriorQueen3_2e283144:
     # g "Their army relies heavily on horses, so we suspect the snow will harm them just as much, if not more."
-    g ""
+    g "Their army relies heavily on horses, so we suspect the snow will harm them just as much, if not more."
 
 # WarriorQueen3_5f2fbe50 (line 55131)
 translate ru WarriorQueen3_5f2fbe50:
     # g "But they've also been here for a few years."
-    g ""
+    g "But they've also been here for a few years."
 
 # WarriorQueen3_db17a1d0 (line 55132)
 translate ru WarriorQueen3_db17a1d0:
     # g "They know the seasons as well as anyone by now. It's possible that they've adapted."
-    g ""
+    g "They know the seasons as well as anyone by now. It's possible that they've adapted."
 
 # WarriorQueen3_4edc1b1e (line 55133)
 translate ru WarriorQueen3_4edc1b1e:
@@ -846,7 +836,7 @@ translate ru WarriorQueen3_4edc1b1e:
 # WarriorQueen3_b27fd88a (line 55134)
 translate ru WarriorQueen3_b27fd88a:
     # s "It's equally possible they've locked themselves into the cities and grown fat from their looting, having learned nothing about our land."
-    s ""
+    s "It's equally possible they've locked themselves into the cities and grown fat from their looting, having learned nothing about our land."
 
 # WarriorQueen3_abed6f17 (line 55135)
 translate ru WarriorQueen3_abed6f17:
@@ -856,7 +846,7 @@ translate ru WarriorQueen3_abed6f17:
 # WarriorQueen3_17cd4bee (line 55136)
 translate ru WarriorQueen3_17cd4bee:
     # g "Yes, that too is possible, but we can't say either way."
-    g ""
+    g "Yes, that too is possible, but we can't say either way."
 
 # WarriorQueen3_5eaad51e (line 55137)
 translate ru WarriorQueen3_5eaad51e:
@@ -866,7 +856,7 @@ translate ru WarriorQueen3_5eaad51e:
 # WarriorQueen3_3987e8b0 (line 55138)
 translate ru WarriorQueen3_3987e8b0:
     # s "This will be what matters most on our advance."
-    s ""
+    s "This will be what matters most on our advance."
 
 # WarriorQueen3_b4c334e7 (line 55139)
 translate ru WarriorQueen3_b4c334e7:
@@ -876,7 +866,7 @@ translate ru WarriorQueen3_b4c334e7:
 # WarriorQueen3_16ac428a (line 55140)
 translate ru WarriorQueen3_16ac428a:
     # s "If we capture it early, it secures our road to the capital. If we fail and end up in a long siege..."
-    s ""
+    s "If we capture it early, it secures our road to the capital. If we fail and end up in a long siege..."
 
 # WarriorQueen3_1a97ad04 (line 55141)
 translate ru WarriorQueen3_1a97ad04:
@@ -886,12 +876,12 @@ translate ru WarriorQueen3_1a97ad04:
 # WarriorQueen3_c1ace87a (line 55142)
 translate ru WarriorQueen3_c1ace87a:
     # g "Yes. Calshure is a hub for all the medium and small towns in the area. All the farmsteads converge there for their trading."
-    g ""
+    g "Yes. Calshure is a hub for all the medium and small towns in the area. All the farmsteads converge there for their trading."
 
 # WarriorQueen3_9053ecb3 (line 55143)
 translate ru WarriorQueen3_9053ecb3:
     # g "If we take it, we secure food for your army and a road straight to the capital."
-    g ""
+    g "If we take it, we secure food for your army and a road straight to the capital."
 
 # WarriorQueen3_e4fccb3f (line 55144)
 translate ru WarriorQueen3_e4fccb3f:
@@ -901,17 +891,17 @@ translate ru WarriorQueen3_e4fccb3f:
 # WarriorQueen3_2701771d (line 55145)
 translate ru WarriorQueen3_2701771d:
     # g "But it is equally possible the enemy knows this."
-    g ""
+    g "But it is equally possible the enemy knows this."
 
 # WarriorQueen3_80a1ceb9 (line 55146)
 translate ru WarriorQueen3_80a1ceb9:
     # g "If they shut the gates, we could be looking at a long siege."
-    g ""
+    g "If they shut the gates, we could be looking at a long siege."
 
 # WarriorQueen3_6314fd05 (line 55147)
 translate ru WarriorQueen3_6314fd05:
     # g "And that would just be Calshure. All cities beyond, the capital included, would likely be reinforced by the time we take Calshure."
-    g ""
+    g "And that would just be Calshure. All cities beyond, the capital included, would likely be reinforced by the time we take Calshure."
 
 # WarriorQueen3_1b7905e6 (line 55148)
 translate ru WarriorQueen3_1b7905e6:
@@ -926,12 +916,12 @@ translate ru WarriorQueen3_9c04edb6:
 # WarriorQueen3_4e39fc8a (line 55150)
 translate ru WarriorQueen3_4e39fc8a:
     # s "What if we don't?"
-    s ""
+    s "What if we don't?"
 
 # WarriorQueen3_a4adbc61 (line 55151)
 translate ru WarriorQueen3_a4adbc61:
     # g "What do you mean?"
-    g ""
+    g "What do you mean?"
 
 # WarriorQueen3_6598e002 (line 55152)
 translate ru WarriorQueen3_6598e002:
@@ -941,22 +931,22 @@ translate ru WarriorQueen3_6598e002:
 # WarriorQueen3_22f54676 (line 55153)
 translate ru WarriorQueen3_22f54676:
     # s "What if we avoid the city by moving along this road?"
-    s ""
+    s "What if we avoid the city by moving along this road?"
 
 # WarriorQueen3_e7a21e74 (line 55154)
 translate ru WarriorQueen3_e7a21e74:
     # g "That's a side branch to the main road."
-    g ""
+    g "That's a side branch to the main road."
 
 # WarriorQueen3_ebfa54ae (line 55155)
 translate ru WarriorQueen3_ebfa54ae:
     # g "It's less developped and not as wide as the main road. Moving across it would slow our army, but it would allow us to avoid Calshure."
-    g ""
+    g "It's less developped and not as wide as the main road. Moving across it would slow our army, but it would allow us to avoid Calshure."
 
 # WarriorQueen3_39b71658 (line 55156)
 translate ru WarriorQueen3_39b71658:
     # g "However, that would also mean we would lose out on having Calshure as a source of supplies for the army."
-    g ""
+    g "However, that would also mean we would lose out on having Calshure as a source of supplies for the army."
 
 # WarriorQueen3_cdd65dcb (line 55157)
 translate ru WarriorQueen3_cdd65dcb:
@@ -966,22 +956,22 @@ translate ru WarriorQueen3_cdd65dcb:
 # WarriorQueen3_57422dfd (line 55158)
 translate ru WarriorQueen3_57422dfd:
     # g "However, it would create for an interesting chance."
-    g ""
+    g "However, it would create for an interesting chance."
 
 # WarriorQueen3_05e7e58a (line 55159)
 translate ru WarriorQueen3_05e7e58a:
     # g "We move through the hinterlands and come out on the western side of the capital."
-    g ""
+    g "We move through the hinterlands and come out on the western side of the capital."
 
 # WarriorQueen3_2331fa68 (line 55160)
 translate ru WarriorQueen3_2331fa68:
     # g "If we succeed, we have the element of surprise."
-    g ""
+    g "If we succeed, we have the element of surprise."
 
 # WarriorQueen3_20d29458 (line 55161)
 translate ru WarriorQueen3_20d29458:
     # g "If we fail, we lose many precious days, are low on supplies, and we attack the capital from an inferior direction."
-    g ""
+    g "If we fail, we lose many precious days, are low on supplies, and we attack the capital from an inferior direction."
 
 # WarriorQueen3_e49bb4c4 (line 55162)
 translate ru WarriorQueen3_e49bb4c4:
@@ -991,12 +981,12 @@ translate ru WarriorQueen3_e49bb4c4:
 # WarriorQueen3_340a06f4 (line 55163)
 translate ru WarriorQueen3_340a06f4:
     # g "Yet...if we take them by surprise, it might make up for the layout of the land."
-    g ""
+    g "Yet...if we take them by surprise, it might make up for the layout of the land."
 
 # WarriorQueen3_19d9cc41 (line 55164)
 translate ru WarriorQueen3_19d9cc41:
     # g "And we don't risk getting stuck on the city of Calshure."
-    g ""
+    g "And we don't risk getting stuck on the city of Calshure."
 
 # WarriorQueen3_aabe8a10 (line 55165)
 translate ru WarriorQueen3_aabe8a10:
@@ -1006,12 +996,12 @@ translate ru WarriorQueen3_aabe8a10:
 # WarriorQueen3_49515d1a (line 55166)
 translate ru WarriorQueen3_49515d1a:
     # s "I will have to consider this."
-    s ""
+    s "I will have to consider this."
 
 # WarriorQueen3_d7683fd0 (line 55167)
 translate ru WarriorQueen3_d7683fd0:
     # g "Of course. We don't need to make a decision right away, we still have a week or so before we are set to march."
-    g ""
+    g "Of course. We don't need to make a decision right away, we still have a week or so before we are set to march."
 
 # WarriorQueen3_2bd5d883 (line 55168)
 translate ru WarriorQueen3_2bd5d883:
@@ -1026,12 +1016,12 @@ translate ru WarriorQueen3_82da49f3:
 # WarriorQueen3_839a2b77 (line 55170)
 translate ru WarriorQueen3_839a2b77:
     # s "Well done for now, Gideon."
-    s ""
+    s "Well done for now, Gideon."
 
 # WarriorQueen3_7bb98030 (line 55171)
 translate ru WarriorQueen3_7bb98030:
     # s "Go oversee the continued construction of the camp."
-    s ""
+    s "Go oversee the continued construction of the camp."
 
 # WarriorQueen3_281f7a1a (line 55172)
 translate ru WarriorQueen3_281f7a1a:
@@ -1041,7 +1031,7 @@ translate ru WarriorQueen3_281f7a1a:
 # WarriorQueen3_c0d8a01a (line 55173)
 translate ru WarriorQueen3_c0d8a01a:
     # s "The rest of you, go to your men and continue preparing. We march not a day later."
-    s ""
+    s "The rest of you, go to your men and continue preparing. We march not a day later."
 
 # WarriorQueen3_44eeee76 (line 55174)
 translate ru WarriorQueen3_44eeee76:
@@ -1076,7 +1066,7 @@ translate ru WarriorQueen3_a244fa5a:
 # WarriorQueen3_701bbf73 (line 55186)
 translate ru WarriorQueen3_701bbf73:
     # k "You really need to work on your situational awareness."
-    k ""
+    k "You really need to work on your situational awareness."
 
 # WarriorQueen3_29969a2b (line 55187)
 translate ru WarriorQueen3_29969a2b:
@@ -1086,12 +1076,12 @@ translate ru WarriorQueen3_29969a2b:
 # WarriorQueen3_050c51c8 (line 55191)
 translate ru WarriorQueen3_050c51c8:
     # s "Kate! You scared me."
-    s ""
+    s "Kate! You scared me."
 
 # WarriorQueen3_bc637327 (line 55192)
 translate ru WarriorQueen3_bc637327:
     # k "Hey, you're the big chief now. Everyone is going to be out for your head."
-    k ""
+    k "Hey, you're the big chief now. Everyone is going to be out for your head."
 
 # WarriorQueen3_35916a06 (line 55193)
 translate ru WarriorQueen3_35916a06:
@@ -1101,27 +1091,27 @@ translate ru WarriorQueen3_35916a06:
 # WarriorQueen3_13d85756 (line 55195)
 translate ru WarriorQueen3_13d85756:
     # s "I don't think it's that bad. I have plenty of allies."
-    s ""
+    s "I don't think it's that bad. I have plenty of allies."
 
 # WarriorQueen3_2b51ec9c (line 55196)
 translate ru WarriorQueen3_2b51ec9c:
     # k "For now."
-    k ""
+    k "For now."
 
 # WarriorQueen3_16464cdb (line 55197)
 translate ru WarriorQueen3_16464cdb:
     # k "Only cause we got a common enemy."
-    k ""
+    k "Only cause we got a common enemy."
 
 # WarriorQueen3_829f651a (line 55198)
 translate ru WarriorQueen3_829f651a:
     # k "Trust me, the second we put those Tribesmen bastards in the ground, everyone is going to remember that we all used to hate each other."
-    k ""
+    k "Trust me, the second we put those Tribesmen bastards in the ground, everyone is going to remember that we all used to hate each other."
 
 # WarriorQueen3_19ce53df (line 55199)
 translate ru WarriorQueen3_19ce53df:
     # k "Every little lord and peasant is going to be squabling over land rights and whatnot."
-    k ""
+    k "Every little lord and peasant is going to be squabling over land rights and whatnot."
 
 # WarriorQueen3_fab89fb2 (line 55200)
 translate ru WarriorQueen3_fab89fb2:
@@ -1131,12 +1121,12 @@ translate ru WarriorQueen3_fab89fb2:
 # WarriorQueen3_610c4e90 (line 55201)
 translate ru WarriorQueen3_610c4e90:
     # s "You're cynical."
-    s ""
+    s "You're cynical."
 
 # WarriorQueen3_b231794b (line 55202)
 translate ru WarriorQueen3_b231794b:
     # k "You should be wondering if I'm right."
-    k ""
+    k "You should be wondering if I'm right."
 
 # WarriorQueen3_0e4c2579 (line 55203)
 translate ru WarriorQueen3_0e4c2579:
@@ -1146,7 +1136,7 @@ translate ru WarriorQueen3_0e4c2579:
 # WarriorQueen3_25ff748d (line 55204)
 translate ru WarriorQueen3_25ff748d:
     # s "Let me kill one enemy before you cloud my mind with a dozen more, yes?"
-    s ""
+    s "Let me kill one enemy before you cloud my mind with a dozen more, yes?"
 
 # WarriorQueen3_5991f531 (line 55205)
 translate ru WarriorQueen3_5991f531:
@@ -1156,7 +1146,7 @@ translate ru WarriorQueen3_5991f531:
 # WarriorQueen3_427cbcee (line 55206)
 translate ru WarriorQueen3_427cbcee:
     # k "Sorry."
-    k ""
+    k "Sorry."
 
 # WarriorQueen3_810a89d6 (line 55207)
 translate ru WarriorQueen3_810a89d6:
@@ -1171,7 +1161,7 @@ translate ru WarriorQueen3_0ef7dd2a:
 # WarriorQueen3_b2a7d745 (line 55209)
 translate ru WarriorQueen3_b2a7d745:
     # k "Do you remember...just before I left?"
-    k ""
+    k "Do you remember...just before I left?"
 
 # WarriorQueen3_eccfa529 (line 55210)
 translate ru WarriorQueen3_eccfa529:
@@ -1181,12 +1171,12 @@ translate ru WarriorQueen3_eccfa529:
 # WarriorQueen3_1cd99c31 (line 55212)
 translate ru WarriorQueen3_1cd99c31:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # WarriorQueen3_7aece00a (line 55213)
 translate ru WarriorQueen3_7aece00a:
     # k "Like...the last few months, before I ran away from home."
-    k ""
+    k "Like...the last few months, before I ran away from home."
 
 # WarriorQueen3_dec0d51d (line 55214)
 translate ru WarriorQueen3_dec0d51d:
@@ -1196,12 +1186,12 @@ translate ru WarriorQueen3_dec0d51d:
 # WarriorQueen3_b7d3ed1c (line 55215)
 translate ru WarriorQueen3_b7d3ed1c:
     # s "I remember some of it..."
-    s ""
+    s "I remember some of it..."
 
 # WarriorQueen3_a0ac929a (line 55216)
 translate ru WarriorQueen3_a0ac929a:
     # k "Some?"
-    k ""
+    k "Some?"
 
 # WarriorQueen3_7fb54cdb (line 55217)
 translate ru WarriorQueen3_7fb54cdb:
@@ -1211,17 +1201,17 @@ translate ru WarriorQueen3_7fb54cdb:
 # WarriorQueen3_00ba8303 (line 55218)
 translate ru WarriorQueen3_00ba8303:
     # s "Yeah."
-    s ""
+    s "Yeah."
 
 # WarriorQueen3_0b994197 (line 55219)
 translate ru WarriorQueen3_0b994197:
     # s "For me it felt like...any other time in my life."
-    s ""
+    s "For me it felt like...any other time in my life."
 
 # WarriorQueen3_2e4964bb (line 55220)
 translate ru WarriorQueen3_2e4964bb:
     # s "Only after you suddenly left did I start to wonder if I had missed something."
-    s ""
+    s "Only after you suddenly left did I start to wonder if I had missed something."
 
 # WarriorQueen3_617e333d (line 55221)
 translate ru WarriorQueen3_617e333d:
@@ -1231,12 +1221,12 @@ translate ru WarriorQueen3_617e333d:
 # WarriorQueen3_12d6d891 (line 55222)
 translate ru WarriorQueen3_12d6d891:
     # k "Yeah...I guess that makes sense."
-    k ""
+    k "Yeah...I guess that makes sense."
 
 # WarriorQueen3_7a9fe3c3 (line 55223)
 translate ru WarriorQueen3_7a9fe3c3:
     # k "I had been planning it for a while in secret, so I guess it felt different to me."
-    k ""
+    k "I had been planning it for a while in secret, so I guess it felt different to me."
 
 # WarriorQueen3_887034d4 (line 55224)
 translate ru WarriorQueen3_887034d4:
@@ -1246,12 +1236,12 @@ translate ru WarriorQueen3_887034d4:
 # WarriorQueen3_24b26b7a (line 55225)
 translate ru WarriorQueen3_24b26b7a:
     # s "Looking back I understood something had been going on...I just didn't know what."
-    s ""
+    s "Looking back I understood something had been going on...I just didn't know what."
 
 # WarriorQueen3_698e02f8 (line 55226)
 translate ru WarriorQueen3_698e02f8:
     # s "I thought you had just been sad for a while...you know, how you could get."
-    s ""
+    s "I thought you had just been sad for a while...you know, how you could get."
 
 # WarriorQueen3_3d168f5b (line 55227)
 translate ru WarriorQueen3_3d168f5b:
@@ -1261,7 +1251,7 @@ translate ru WarriorQueen3_3d168f5b:
 # WarriorQueen3_85e3b903 (line 55228)
 translate ru WarriorQueen3_85e3b903:
     # k "Yeah...sorry for not telling you."
-    k ""
+    k "Yeah...sorry for not telling you."
 
 # WarriorQueen3_9ae17c0d (line 55229)
 translate ru WarriorQueen3_9ae17c0d:
@@ -1271,22 +1261,22 @@ translate ru WarriorQueen3_9ae17c0d:
 # WarriorQueen3_40e00072 (line 55230)
 translate ru WarriorQueen3_40e00072:
     # s "I understand. We have such different lives back then."
-    s ""
+    s "I understand. We have such different lives back then."
 
 # WarriorQueen3_e36e00ca (line 55231)
 translate ru WarriorQueen3_e36e00ca:
     # k "I almost did, you know."
-    k ""
+    k "I almost did, you know."
 
 # WarriorQueen3_1f500eba (line 55232)
 translate ru WarriorQueen3_1f500eba:
     # s "What?"
-    s ""
+    s "What?"
 
 # WarriorQueen3_aca516d8 (line 55233)
 translate ru WarriorQueen3_aca516d8:
     # k "I almost told you..."
-    k ""
+    k "I almost told you..."
 
 # WarriorQueen3_2c397dfe (line 55234)
 translate ru WarriorQueen3_2c397dfe:
@@ -1296,7 +1286,7 @@ translate ru WarriorQueen3_2c397dfe:
 # WarriorQueen3_5f6beadf (line 55235)
 translate ru WarriorQueen3_5f6beadf:
     # s "When?"
-    s ""
+    s "When?"
 
 # WarriorQueen3_ebe332aa (line 55236)
 translate ru WarriorQueen3_ebe332aa:
@@ -1306,27 +1296,27 @@ translate ru WarriorQueen3_ebe332aa:
 # WarriorQueen3_e3457fac (line 55237)
 translate ru WarriorQueen3_e3457fac:
     # k "It was maybe a week or two before I left."
-    k ""
+    k "It was maybe a week or two before I left."
 
 # WarriorQueen3_0f26b072 (line 55238)
 translate ru WarriorQueen3_0f26b072:
     # k "I had made the last preparations, gathered what little stuff I could bring. A bag, some food."
-    k ""
+    k "I had made the last preparations, gathered what little stuff I could bring. A bag, some food."
 
 # WarriorQueen3_d7384c0b (line 55239)
 translate ru WarriorQueen3_d7384c0b:
     # k "But winter was still going on and I was hoping I could maybe wait it out till spring."
-    k ""
+    k "But winter was still going on and I was hoping I could maybe wait it out till spring."
 
 # WarriorQueen3_3cae4ab5 (line 55240)
 translate ru WarriorQueen3_3cae4ab5:
     # k "And we were sitting in your dad's study."
-    k ""
+    k "And we were sitting in your dad's study."
 
 # WarriorQueen3_4ff1e197 (line 55241)
 translate ru WarriorQueen3_4ff1e197:
     # k "You had told me we couldn't be in there, but I had begged you to sneak in any way."
-    k ""
+    k "You had told me we couldn't be in there, but I had begged you to sneak in any way."
 
 # WarriorQueen3_803d1c59 (line 55242)
 translate ru WarriorQueen3_803d1c59:
@@ -1336,12 +1326,12 @@ translate ru WarriorQueen3_803d1c59:
 # WarriorQueen3_0ef07c3e (line 55243)
 translate ru WarriorQueen3_0ef07c3e:
     # s "Getting be in trouble, that sound familiar."
-    s ""
+    s "Getting be in trouble, that sound familiar."
 
 # WarriorQueen3_e349ffb5 (line 55244)
 translate ru WarriorQueen3_e349ffb5:
     # k "And then when we were in there, you decided to make a fire. Remember?"
-    k ""
+    k "And then when we were in there, you decided to make a fire. Remember?"
 
 # WarriorQueen3_06557428 (line 55245)
 translate ru WarriorQueen3_06557428:
@@ -1351,17 +1341,17 @@ translate ru WarriorQueen3_06557428:
 # WarriorQueen3_8864e074 (line 55252)
 translate ru WarriorQueen3_8864e074:
     # k "We sat in front of that fire for hours...just talking."
-    k ""
+    k "We sat in front of that fire for hours...just talking."
 
 # WarriorQueen3_9c48ed33 (line 55253)
 translate ru WarriorQueen3_9c48ed33:
     # s "I remember..."
-    s ""
+    s "I remember..."
 
 # WarriorQueen3_69d058e7 (line 55254)
 translate ru WarriorQueen3_69d058e7:
     # k "And I told you...I told you everything that I wanted to tell you, because I didn't know when I'd get the chance."
-    k ""
+    k "And I told you...I told you everything that I wanted to tell you, because I didn't know when I'd get the chance."
 
 # WarriorQueen3_fd1fce05 (line 55255)
 translate ru WarriorQueen3_fd1fce05:
@@ -1376,12 +1366,12 @@ translate ru WarriorQueen3_7f677387:
 # WarriorQueen3_36467470 (line 55257)
 translate ru WarriorQueen3_36467470:
     # k "And the more I talked, the more I wanted to just...to just tell you what I was planning."
-    k ""
+    k "And the more I talked, the more I wanted to just...to just tell you what I was planning."
 
 # WarriorQueen3_973a3474 (line 55258)
 translate ru WarriorQueen3_973a3474:
     # k "I think that some part of me hoped you'd stop me, or save me, or..."
-    k ""
+    k "I think that some part of me hoped you'd stop me, or save me, or..."
 
 # WarriorQueen3_f80bcbdf (line 55259)
 translate ru WarriorQueen3_f80bcbdf:
@@ -1391,12 +1381,12 @@ translate ru WarriorQueen3_f80bcbdf:
 # WarriorQueen3_b0826145 (line 55260)
 translate ru WarriorQueen3_b0826145:
     # s "We were just kids back then."
-    s ""
+    s "We were just kids back then."
 
 # WarriorQueen3_170f4d81 (line 55261)
 translate ru WarriorQueen3_170f4d81:
     # s "But I still should have seen you were in trouble."
-    s ""
+    s "But I still should have seen you were in trouble."
 
 # WarriorQueen3_18f2d138 (line 55262)
 translate ru WarriorQueen3_18f2d138:
@@ -1411,27 +1401,27 @@ translate ru WarriorQueen3_f88c0799:
 # WarriorQueen3_4aff3fe2 (line 55266)
 translate ru WarriorQueen3_4aff3fe2:
     # k "No, Sarah, don't blame yourself."
-    k ""
+    k "No, Sarah, don't blame yourself."
 
 # WarriorQueen3_4acffaee (line 55267)
 translate ru WarriorQueen3_4acffaee:
     # k "We were kids, and...there was nothing you could have done."
-    k ""
+    k "We were kids, and...there was nothing you could have done."
 
 # WarriorQueen3_00cd0145 (line 55268)
 translate ru WarriorQueen3_00cd0145:
     # s "I could have helped."
-    s ""
+    s "I could have helped."
 
 # WarriorQueen3_0c3f9e77 (line 55269)
 translate ru WarriorQueen3_0c3f9e77:
     # s "I could have asked my Father to..."
-    s ""
+    s "I could have asked my Father to..."
 
 # WarriorQueen3_5b3cb144 (line 55270)
 translate ru WarriorQueen3_5b3cb144:
     # k "To do what?"
-    k ""
+    k "To do what?"
 
 # WarriorQueen3_5fea9c1f (line 55271)
 translate ru WarriorQueen3_5fea9c1f:
@@ -1441,17 +1431,17 @@ translate ru WarriorQueen3_5fea9c1f:
 # WarriorQueen3_0c60b6ef (line 55272)
 translate ru WarriorQueen3_0c60b6ef:
     # k "My parents were marrying me off to a man with money."
-    k ""
+    k "My parents were marrying me off to a man with money."
 
 # WarriorQueen3_82708b33 (line 55273)
 translate ru WarriorQueen3_82708b33:
     # k "You think your dad was going to put a stop to that? What was he going to do, stop every poor girl from getting married?"
-    k ""
+    k "You think your dad was going to put a stop to that? What was he going to do, stop every poor girl from getting married?"
 
 # WarriorQueen3_bdc848f6 (line 55274)
 translate ru WarriorQueen3_bdc848f6:
     # k "Compared to most peasant girls, I should have counted myself lucky. Most get a lot worse than a rich man..."
-    k ""
+    k "Compared to most peasant girls, I should have counted myself lucky. Most get a lot worse than a rich man..."
 
 # WarriorQueen3_e93a537e (line 55275)
 translate ru WarriorQueen3_e93a537e:
@@ -1461,22 +1451,22 @@ translate ru WarriorQueen3_e93a537e:
 # WarriorQueen3_2c792dee (line 55276)
 translate ru WarriorQueen3_2c792dee:
     # s "But it wasn't right, that man was-"
-    s ""
+    s "But it wasn't right, that man was-"
 
 # WarriorQueen3_b56e0cad (line 55277)
 translate ru WarriorQueen3_b56e0cad:
     # k "I know."
-    k ""
+    k "I know."
 
 # WarriorQueen3_986e8070 (line 55278)
 translate ru WarriorQueen3_986e8070:
     # k "But I just want you to know that I don't blame you, or your dad."
-    k ""
+    k "But I just want you to know that I don't blame you, or your dad."
 
 # WarriorQueen3_1ec78c38 (line 55279)
 translate ru WarriorQueen3_1ec78c38:
     # k "This is the world we're born into."
-    k ""
+    k "This is the world we're born into."
 
 # WarriorQueen3_c9576125 (line 55280)
 translate ru WarriorQueen3_c9576125:
@@ -1486,7 +1476,7 @@ translate ru WarriorQueen3_c9576125:
 # WarriorQueen3_e59ffc78 (line 55281)
 translate ru WarriorQueen3_e59ffc78:
     # s "It shouldn't be."
-    s ""
+    s "It shouldn't be."
 
 # WarriorQueen3_3a8369bd (line 55282)
 translate ru WarriorQueen3_3a8369bd:
@@ -1496,17 +1486,17 @@ translate ru WarriorQueen3_3a8369bd:
 # WarriorQueen3_a5344124 (line 55283)
 translate ru WarriorQueen3_a5344124:
     # k "No, you're right about that. It shouldn't be."
-    k ""
+    k "No, you're right about that. It shouldn't be."
 
 # WarriorQueen3_acae77c5 (line 55284)
 translate ru WarriorQueen3_acae77c5:
     # k "And who knows, if you win this, you might actually change a thing or two."
-    k ""
+    k "And who knows, if you win this, you might actually change a thing or two."
 
 # WarriorQueen3_fa7fd040 (line 55285)
 translate ru WarriorQueen3_fa7fd040:
     # s "I promise I will."
-    s ""
+    s "I promise I will."
 
 # WarriorQueen3_5319a275 (line 55286)
 translate ru WarriorQueen3_5319a275:
@@ -1516,12 +1506,12 @@ translate ru WarriorQueen3_5319a275:
 # WarriorQueen3_de17d530 (line 55287)
 translate ru WarriorQueen3_de17d530:
     # k "Look at what you've done to me, Sarah!"
-    k ""
+    k "Look at what you've done to me, Sarah!"
 
 # WarriorQueen3_ee6d65dc (line 55288)
 translate ru WarriorQueen3_ee6d65dc:
     # k "I used to not give a shit about anything and now you've got me caring about saving this shit country that never did anything for me."
-    k ""
+    k "I used to not give a shit about anything and now you've got me caring about saving this shit country that never did anything for me."
 
 # WarriorQueen3_8b5c21e8 (line 55289)
 translate ru WarriorQueen3_8b5c21e8:
@@ -1531,12 +1521,12 @@ translate ru WarriorQueen3_8b5c21e8:
 # WarriorQueen3_f4d64098 (line 55290)
 translate ru WarriorQueen3_f4d64098:
     # s "That's not true."
-    s ""
+    s "That's not true."
 
 # WarriorQueen3_7db504fd (line 55291)
 translate ru WarriorQueen3_7db504fd:
     # s "Back when I knew you...you did care. It was one of my favorite things about you."
-    s ""
+    s "Back when I knew you...you did care. It was one of my favorite things about you."
 
 # WarriorQueen3_bbce6ead (line 55292)
 translate ru WarriorQueen3_bbce6ead:
@@ -1546,12 +1536,12 @@ translate ru WarriorQueen3_bbce6ead:
 # WarriorQueen3_8f439f98 (line 55293)
 translate ru WarriorQueen3_8f439f98:
     # k "I did?"
-    k ""
+    k "I did?"
 
 # WarriorQueen3_4b8ceed8 (line 55294)
 translate ru WarriorQueen3_4b8ceed8:
     # s "Yeah, you don't remember? You used to get so passionate about the smallest stuff. You cared too much almost."
-    s ""
+    s "Yeah, you don't remember? You used to get so passionate about the smallest stuff. You cared too much almost."
 
 # WarriorQueen3_83914d60 (line 55295)
 translate ru WarriorQueen3_83914d60:
@@ -1561,7 +1551,7 @@ translate ru WarriorQueen3_83914d60:
 # WarriorQueen3_acac3249 (line 55296)
 translate ru WarriorQueen3_acac3249:
     # k "I...don't remember that."
-    k ""
+    k "I...don't remember that."
 
 # WarriorQueen3_2900798e (line 55297)
 translate ru WarriorQueen3_2900798e:
@@ -1576,12 +1566,12 @@ translate ru WarriorQueen3_8a9cab07:
 # WarriorQueen3_381189f2 (line 55299)
 translate ru WarriorQueen3_381189f2:
     # s "Do you want to stay the night here?"
-    s ""
+    s "Do you want to stay the night here?"
 
 # WarriorQueen3_641a6075 (line 55300)
 translate ru WarriorQueen3_641a6075:
     # s "We can talk like old times?"
-    s ""
+    s "We can talk like old times?"
 
 # WarriorQueen3_5388fdbc (line 55301)
 translate ru WarriorQueen3_5388fdbc:
@@ -1591,12 +1581,12 @@ translate ru WarriorQueen3_5388fdbc:
 # WarriorQueen3_7f679f6d (line 55302)
 translate ru WarriorQueen3_7f679f6d:
     # k "I'd like to...but not tonight. I have too much work to do."
-    k ""
+    k "I'd like to...but not tonight. I have too much work to do."
 
 # WarriorQueen3_68c31d8f (line 55303)
 translate ru WarriorQueen3_68c31d8f:
     # k "The same goes for you, I'd imagine."
-    k ""
+    k "The same goes for you, I'd imagine."
 
 # WarriorQueen3_101f1ef2 (line 55304)
 translate ru WarriorQueen3_101f1ef2:
@@ -1611,7 +1601,7 @@ translate ru WarriorQueen3_7c2d483c:
 # WarriorQueen3_59f631a6 (line 55336)
 translate ru WarriorQueen3_59f631a6:
     # k "Anyway, like I said, busy, busy."
-    k ""
+    k "Anyway, like I said, busy, busy."
 
 # WarriorQueen3_315b6f4b (line 55337)
 translate ru WarriorQueen3_315b6f4b:
@@ -1621,7 +1611,7 @@ translate ru WarriorQueen3_315b6f4b:
 # WarriorQueen3_2c3d92ee (line 55338)
 translate ru WarriorQueen3_2c3d92ee:
     # s "Back to work for the both of us."
-    s ""
+    s "Back to work for the both of us."
 
 # WarriorQueen3_35b27ba3 (line 55339)
 translate ru WarriorQueen3_35b27ba3:

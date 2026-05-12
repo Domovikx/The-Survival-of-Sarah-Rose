@@ -311,7 +311,7 @@ translate ru MageInTheRuinsOrc2_5eee1ebe:
 # MageInTheRuinsOrc2_aa5b7beb (line 83003)
 translate ru MageInTheRuinsOrc2_aa5b7beb:
     # s "I'm...sorry..."
-    s ""
+    s "I'm...sorry..."
 
 # MageInTheRuinsOrc2_46819a9f (line 83004)
 translate ru MageInTheRuinsOrc2_46819a9f:
@@ -541,7 +541,7 @@ translate ru MageInTheRuinsOrc2_9fbf8e03:
 # MageInTheRuinsOrc2_871d8a96 (line 83072)
 translate ru MageInTheRuinsOrc2_871d8a96:
     # s "I...what's..."
-    s ""
+    s "I...what's..."
 
 # MageInTheRuinsOrc2_def1ef16 (line 83073)
 translate ru MageInTheRuinsOrc2_def1ef16:
@@ -601,7 +601,7 @@ translate ru MageInTheRuinsOrc2_1df06d73:
 # MageInTheRuinsOrc2_2f8bfa3c (line 83084)
 translate ru MageInTheRuinsOrc2_2f8bfa3c:
     # s "Was...in....drink..."
-    s ""
+    s "Was...in....drink..."
 
 # MageInTheRuinsOrc2_5821dd11 (line 83085)
 translate ru MageInTheRuinsOrc2_5821dd11:
@@ -626,7 +626,7 @@ translate ru MageInTheRuinsOrc2_fdabc4a3:
 # MageInTheRuinsOrc2_1461c3a0 (line 83089)
 translate ru MageInTheRuinsOrc2_1461c3a0:
     # s "Hey..."
-    s ""
+    s "Hey..."
 
 # MageInTheRuinsOrc2_3f0f9cb2 (line 83090)
 translate ru MageInTheRuinsOrc2_3f0f9cb2:
@@ -701,7 +701,7 @@ translate ru MageInTheRuinsOrc2_cf6e6de5:
 # MageInTheRuinsOrc2_2d597df7 (line 83116)
 translate ru MageInTheRuinsOrc2_2d597df7:
     # s "Lucky...goblin...ladies..."
-    s ""
+    s "Lucky...goblin...ladies..."
 
 # MageInTheRuinsOrc2_1206c4eb (line 83117)
 translate ru MageInTheRuinsOrc2_1206c4eb:
@@ -771,7 +771,7 @@ translate ru MageInTheRuinsOrc2_62983e3b:
 # MageInTheRuinsOrc2_422b459e (line 83130)
 translate ru MageInTheRuinsOrc2_422b459e:
     # s "Saw...sawry..."
-    s ""
+    s "Saw...sawry..."
 
 # MageInTheRuinsOrc2_5e75e8e3 (line 83131)
 translate ru MageInTheRuinsOrc2_5e75e8e3:
@@ -991,7 +991,7 @@ translate ru MageInTheRuinsOrc2_a2f46cd2:
 # MageInTheRuinsOrc2_985e393f (line 83192)
 translate ru MageInTheRuinsOrc2_985e393f:
     # s "T-t-ank...u..."
-    s ""
+    s "T-t-ank...u..."
 
 # MageInTheRuinsOrc2_86cbc234 (line 83193)
 translate ru MageInTheRuinsOrc2_86cbc234:
@@ -1061,7 +1061,7 @@ translate ru MageInTheRuinsOrc2_7bdbb714:
 # MageInTheRuinsOrc2_ec03a38b (line 83212)
 translate ru MageInTheRuinsOrc2_ec03a38b:
     # s "Ha....ha...."
-    s ""
+    s "Ha....ha...."
 
 # MageInTheRuinsOrc2_f86e9254 (line 83213)
 translate ru MageInTheRuinsOrc2_f86e9254:
@@ -1086,7 +1086,7 @@ translate ru MageInTheRuinsOrc2_56902f56:
 # MageInTheRuinsOrc2_081b4d86 (line 83223)
 translate ru MageInTheRuinsOrc2_081b4d86:
     # s "So...big..."
-    s ""
+    s "So...big..."
 
 # MageInTheRuinsOrc2_a5be676e (line 83224)
 translate ru MageInTheRuinsOrc2_a5be676e:
@@ -1116,7 +1116,7 @@ translate ru MageInTheRuinsOrc2_858250d4:
 # MageInTheRuinsOrc2_0161e03a (line 83229)
 translate ru MageInTheRuinsOrc2_0161e03a:
     # s "Aah!!!"
-    s ""
+    s "Aah!!!"
 
 # MageInTheRuinsOrc2_9cf91d69 (line 83230)
 translate ru MageInTheRuinsOrc2_9cf91d69:

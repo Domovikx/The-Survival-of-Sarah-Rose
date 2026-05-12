@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: MagePath9
-# Total blocks: 118
+# Total blocks: 116
 
 # MagePath9_0dced643 (line 72026)
 translate ru MagePath9_0dced643:
@@ -186,12 +186,12 @@ translate ru MagePath9_7dd49dfb:
 # MagePath9_dc7dbee0 (line 72067)
 translate ru MagePath9_dc7dbee0:
     # ca "Everyone, into the throne room!"
-    ca ""
+    ca "Everyone, into the throne room!"
 
 # MagePath9_b0eea1fe (line 72068)
 translate ru MagePath9_b0eea1fe:
     # ep "Keep pushing, the path to western wing should be close."
-    ep ""
+    ep "Keep pushing, the path to western wing should be close."
 
 # MagePath9_29a79177 (line 72069)
 translate ru MagePath9_29a79177:
@@ -311,7 +311,7 @@ translate ru MagePath9_10bd13ea:
 # MagePath9_147e2929 (line 72098)
 translate ru MagePath9_147e2929:
     # ep "Caleb! NOOO!"
-    ep ""
+    ep "Caleb! NOOO!"
 
 # MagePath9_979e0160 (line 72099)
 translate ru MagePath9_979e0160:
@@ -371,7 +371,7 @@ translate ru MagePath9_711b60d7:
 # MagePath9_77460e3b (line 72112)
 translate ru MagePath9_77460e3b:
     # k "SARAH!!!"
-    k ""
+    k "SARAH!!!"
 
 # MagePath9_b7da4211 (line 72113)
 translate ru MagePath9_b7da4211:
@@ -391,12 +391,12 @@ translate ru MagePath9_e8c4a28b:
 # MagePath9_85920188 (line 72121)
 translate ru MagePath9_85920188:
     # s "Kate..."
-    s ""
+    s "Kate..."
 
 # MagePath9_bc166774 (line 72122)
 translate ru MagePath9_bc166774:
     # k "Sarah...what did you do..."
-    k ""
+    k "Sarah...what did you do..."
 
 # MagePath9_6b33b7ee (line 72123)
 translate ru MagePath9_6b33b7ee:
@@ -426,7 +426,7 @@ translate ru MagePath9_8bda7b2d:
 # MagePath9_f46bfce2 (line 72128)
 translate ru MagePath9_f46bfce2:
     # s "Who do you think you are to question me about anything?"
-    s ""
+    s "Who do you think you are to question me about anything?"
 
 # MagePath9_12111ff1 (line 72129)
 translate ru MagePath9_12111ff1:
@@ -441,17 +441,17 @@ translate ru MagePath9_d8d22ec4:
 # MagePath9_67a7d4fa (line 72131)
 translate ru MagePath9_67a7d4fa:
     # k "Sarah...why did you do that?"
-    k ""
+    k "Sarah...why did you do that?"
 
 # MagePath9_6b59af8b (line 72132)
 translate ru MagePath9_6b59af8b:
     # s "Because I am here on a mission. To guard this place from low-lives that would seek to loot it."
-    s ""
+    s "Because I am here on a mission. To guard this place from low-lives that would seek to loot it."
 
 # MagePath9_6e6707c0 (line 72133)
 translate ru MagePath9_6e6707c0:
     # k "You killed Caleb...and Ephraim..."
-    k ""
+    k "You killed Caleb...and Ephraim..."
 
 # MagePath9_781a50d9 (line 72134)
 translate ru MagePath9_781a50d9:
@@ -461,17 +461,17 @@ translate ru MagePath9_781a50d9:
 # MagePath9_f0c50ec1 (line 72135)
 translate ru MagePath9_f0c50ec1:
     # s "And who are they to me?"
-    s ""
+    s "And who are they to me?"
 
 # MagePath9_5c0b9a07 (line 72136)
 translate ru MagePath9_5c0b9a07:
     # s "Nobodies. People that I might have known years ago."
-    s ""
+    s "Nobodies. People that I might have known years ago."
 
 # MagePath9_7ebfaf53 (line 72137)
 translate ru MagePath9_7ebfaf53:
     # s "A lot has changed, as you might notice."
-    s ""
+    s "A lot has changed, as you might notice."
 
 # MagePath9_3621df72 (line 72138)
 translate ru MagePath9_3621df72:
@@ -481,7 +481,7 @@ translate ru MagePath9_3621df72:
 # MagePath9_8399287c (line 72139)
 translate ru MagePath9_8399287c:
     # k "You're a freak..."
-    k ""
+    k "You're a freak..."
 
 # MagePath9_58e9e72c (line 72140)
 translate ru MagePath9_58e9e72c:
@@ -491,32 +491,22 @@ translate ru MagePath9_58e9e72c:
 # MagePath9_932f6caa (line 72141)
 translate ru MagePath9_932f6caa:
     # s "Maybe. But it took me a long time to find my way back to myself after what you did to me. When you stabbed me in the back."
-    s ""
+    s "Maybe. But it took me a long time to find my way back to myself after what you did to me. When you stabbed me in the back."
 
 # MagePath9_ddf531ae (line 72142)
 translate ru MagePath9_ddf531ae:
     # k "Sarah...I..."
-    k ""
+    k "Sarah...I..."
 
 # MagePath9_107fce8b (line 72143)
 translate ru MagePath9_107fce8b:
     # s "Don't deny it, Kate. Save yourself and myself the disgrace of lying."
-    s ""
+    s "Don't deny it, Kate. Save yourself and myself the disgrace of lying."
 
 # MagePath9_37dd1848 (line 72144)
 translate ru MagePath9_37dd1848:
     # "Sarah could see Kate struggle to find the words."
     ""
-
-# MagePath9_d947a4f3 (line 72148)
-translate ru MagePath9_d947a4f3:
-    # "Kill Kate"
-    "Kill Kate" ""
-
-# MagePath9_68ad5e08 (line 72169)
-translate ru MagePath9_68ad5e08:
-    # "Spare Kate"
-    "Spare Kate" ""
 
 # MagePath9_13f583b1 (line 72180)
 translate ru MagePath9_13f583b1:

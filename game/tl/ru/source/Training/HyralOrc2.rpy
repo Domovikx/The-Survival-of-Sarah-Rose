@@ -76,7 +76,7 @@ translate ru HyralOrc2_802f7687:
 # HyralOrc2_b1302215 (line 36264)
 translate ru HyralOrc2_b1302215:
     # nick "Agh...Ugh.."
-    nick ""
+    nick "Agh...Ugh.."
 
 # HyralOrc2_fc03a101 (line 36265)
 translate ru HyralOrc2_fc03a101:
@@ -206,7 +206,7 @@ translate ru HyralOrc2_069c6de3:
 # HyralOrc2_70011e94 (line 36295)
 translate ru HyralOrc2_70011e94:
     # s "Nick..."
-    s ""
+    s "Nick..."
 
 # HyralOrc2_309fe049 (line 36296)
 translate ru HyralOrc2_309fe049:
@@ -216,7 +216,7 @@ translate ru HyralOrc2_309fe049:
 # HyralOrc2_7abd9252 (line 36297)
 translate ru HyralOrc2_7abd9252:
     # s "Nick..."
-    s ""
+    s "Nick..."
 
 # HyralOrc2_bfd78f23 (line 36298)
 translate ru HyralOrc2_bfd78f23:
@@ -506,7 +506,7 @@ translate ru HyralOrc2_6ece0355:
 # HyralOrc2_b6cdefad (line 36370)
 translate ru HyralOrc2_b6cdefad:
     # s "Honored? What...what do you mean?"
-    s ""
+    s "Honored? What...what do you mean?"
 
 # HyralOrc2_4c59fbfd (line 36371)
 translate ru HyralOrc2_4c59fbfd:
@@ -771,7 +771,7 @@ translate ru HyralOrc2_01c0ad54:
 # HyralOrc2_825b6ee5 (line 36443)
 translate ru HyralOrc2_825b6ee5:
     # s "Aah!!"
-    s ""
+    s "Aah!!"
 
 # HyralOrc2_86656c3e (line 36444)
 translate ru HyralOrc2_86656c3e:
@@ -841,7 +841,7 @@ translate ru HyralOrc2_a60cfece:
 # HyralOrc2_0f9a23bf (line 36462)
 translate ru HyralOrc2_0f9a23bf:
     # s "Aaah!!"
-    s ""
+    s "Aaah!!"
 
 # HyralOrc2_8cd9eb34 (line 36463)
 translate ru HyralOrc2_8cd9eb34:
@@ -906,7 +906,7 @@ translate ru HyralOrc2_3f3782bc:
 # HyralOrc2_8bef9d62 (line 36480)
 translate ru HyralOrc2_8bef9d62:
     # s "Aaah!"
-    s ""
+    s "Aaah!"
 
 # HyralOrc2_e6cd4966 (line 36481)
 translate ru HyralOrc2_e6cd4966:

@@ -146,7 +146,7 @@ translate ru HassarPath_cdae34ac:
 # HassarPath_d1b88dc6 (line 18526)
 translate ru HassarPath_d1b88dc6:
     # sop "Aah!!!"
-    sop ""
+    sop "Aah!!!"
 
 # HassarPath_883360e2 (line 18527)
 translate ru HassarPath_883360e2:
@@ -161,12 +161,12 @@ translate ru HassarPath_a580dbfe:
 # HassarPath_c59b944b (line 18529)
 translate ru HassarPath_c59b944b:
     # sop "You're really here! A new arrival!"
-    sop ""
+    sop "You're really here! A new arrival!"
 
 # HassarPath_b1341cad (line 18530)
 translate ru HassarPath_b1341cad:
     # s "Who are you? What's going on?"
-    s ""
+    s "Who are you? What's going on?"
 
 # HassarPath_4958c6d0 (line 18531)
 translate ru HassarPath_4958c6d0:
@@ -191,12 +191,12 @@ translate ru HassarPath_c044ce93:
 # HassarPath_92718bed (line 18535)
 translate ru HassarPath_92718bed:
     # sop "I'm Sophia, nice to meet you!"
-    sop ""
+    sop "I'm Sophia, nice to meet you!"
 
 # HassarPath_ba2449cd (line 18536)
 translate ru HassarPath_ba2449cd:
     # sop "What's your name?"
-    sop ""
+    sop "What's your name?"
 
 # HassarPath_528049ba (line 18537)
 translate ru HassarPath_528049ba:
@@ -211,17 +211,17 @@ translate ru HassarPath_34c6e4b7:
 # HassarPath_710f617c (line 18539)
 translate ru HassarPath_710f617c:
     # s "My name is Sarah..."
-    s ""
+    s "My name is Sarah..."
 
 # HassarPath_a04a847b (line 18540)
 translate ru HassarPath_a04a847b:
     # sop "Ooh, Sarah! That's a pretty name."
-    sop ""
+    sop "Ooh, Sarah! That's a pretty name."
 
 # HassarPath_ab75670e (line 18541)
 translate ru HassarPath_ab75670e:
     # s "I...thank you."
-    s ""
+    s "I...thank you."
 
 # HassarPath_4be6aaa6 (line 18542)
 translate ru HassarPath_4be6aaa6:
@@ -231,7 +231,7 @@ translate ru HassarPath_4be6aaa6:
 # HassarPath_46716fc5 (line 18543)
 translate ru HassarPath_46716fc5:
     # s "Can you tell me...where I am?"
-    s ""
+    s "Can you tell me...where I am?"
 
 # HassarPath_48e6042e (line 18544)
 translate ru HassarPath_48e6042e:
@@ -241,12 +241,12 @@ translate ru HassarPath_48e6042e:
 # HassarPath_3881dcb6 (line 18545)
 translate ru HassarPath_3881dcb6:
     # sop "This is the sanctum."
-    sop ""
+    sop "This is the sanctum."
 
 # HassarPath_48e7b28a (line 18546)
 translate ru HassarPath_48e7b28a:
     # s "Are we still in the palace?"
-    s ""
+    s "Are we still in the palace?"
 
 # HassarPath_b79d25a7 (line 18547)
 translate ru HassarPath_b79d25a7:
@@ -256,12 +256,12 @@ translate ru HassarPath_b79d25a7:
 # HassarPath_d6fa87cf (line 18548)
 translate ru HassarPath_d6fa87cf:
     # sop "Yeah, the sanctum is Hassar's private retreat from the rest of the world."
-    sop ""
+    sop "Yeah, the sanctum is Hassar's private retreat from the rest of the world."
 
 # HassarPath_310c000f (line 18549)
 translate ru HassarPath_310c000f:
     # sop "His life is very taxing. Many meetings, sometimes he even rides out to war."
-    sop ""
+    sop "His life is very taxing. Many meetings, sometimes he even rides out to war."
 
 # HassarPath_850fc1fb (line 18550)
 translate ru HassarPath_850fc1fb:
@@ -271,7 +271,7 @@ translate ru HassarPath_850fc1fb:
 # HassarPath_a266c84a (line 18551)
 translate ru HassarPath_a266c84a:
     # sop "So this is a place for him to get away from all that. A chance to relax, and let all the awful stuff out there, slip away."
-    sop ""
+    sop "So this is a place for him to get away from all that. A chance to relax, and let all the awful stuff out there, slip away."
 
 # HassarPath_a8d221ad (line 18552)
 translate ru HassarPath_a8d221ad:
@@ -281,17 +281,17 @@ translate ru HassarPath_a8d221ad:
 # HassarPath_fc5f08a1 (line 18553)
 translate ru HassarPath_fc5f08a1:
     # s "These are his private quarters?"
-    s ""
+    s "These are his private quarters?"
 
 # HassarPath_f8b2d23e (line 18554)
 translate ru HassarPath_f8b2d23e:
     # sop "Exactly!"
-    sop ""
+    sop "Exactly!"
 
 # HassarPath_a9ce2e10 (line 18555)
 translate ru HassarPath_a9ce2e10:
     # sop "But nobody is allowed in here."
-    sop ""
+    sop "But nobody is allowed in here."
 
 # HassarPath_5d639b4e (line 18556)
 translate ru HassarPath_5d639b4e:
@@ -301,17 +301,17 @@ translate ru HassarPath_5d639b4e:
 # HassarPath_c6fa2f73 (line 18557)
 translate ru HassarPath_c6fa2f73:
     # s "Except for you and me."
-    s ""
+    s "Except for you and me."
 
 # HassarPath_b736b311 (line 18558)
 translate ru HassarPath_b736b311:
     # sop "You, me, and the others of course."
-    sop ""
+    sop "You, me, and the others of course."
 
 # HassarPath_a3814220 (line 18559)
 translate ru HassarPath_a3814220:
     # s "The others?"
-    s ""
+    s "The others?"
 
 # HassarPath_2ec6782f (line 18560)
 translate ru HassarPath_2ec6782f:
@@ -321,12 +321,12 @@ translate ru HassarPath_2ec6782f:
 # HassarPath_5fe40560 (line 18561)
 translate ru HassarPath_5fe40560:
     # sop "Yeah...I don't see them yet, but the should be around here somewhere."
-    sop ""
+    sop "Yeah...I don't see them yet, but the should be around here somewhere."
 
 # HassarPath_cab51cfd (line 18562)
 translate ru HassarPath_cab51cfd:
     # sop "It's a pretty big place."
-    sop ""
+    sop "It's a pretty big place."
 
 # HassarPath_070f4656 (line 18563)
 translate ru HassarPath_070f4656:
@@ -336,12 +336,12 @@ translate ru HassarPath_070f4656:
 # HassarPath_78d06a1f (line 18564)
 translate ru HassarPath_78d06a1f:
     # s "Who...who are the others, exactly?"
-    s ""
+    s "Who...who are the others, exactly?"
 
 # HassarPath_d7c6d6d8 (line 18565)
 translate ru HassarPath_d7c6d6d8:
     # sop "The other members of the harem, you'll meet them soon enough."
-    sop ""
+    sop "The other members of the harem, you'll meet them soon enough."
 
 # HassarPath_7e01c537 (line 18566)
 translate ru HassarPath_7e01c537:
@@ -356,7 +356,7 @@ translate ru HassarPath_3fe50810:
 # HassarPath_b4e5dff3 (line 18568)
 translate ru HassarPath_b4e5dff3:
     # s "What...what do you mean, harem?"
-    s ""
+    s "What...what do you mean, harem?"
 
 # HassarPath_19fde49c (line 18569)
 translate ru HassarPath_19fde49c:
@@ -366,7 +366,7 @@ translate ru HassarPath_19fde49c:
 # HassarPath_03b5ab56 (line 18570)
 translate ru HassarPath_03b5ab56:
     # sop "Well...Hassar comes here to relax and it's our job to help him relax, in any way we can."
-    sop ""
+    sop "Well...Hassar comes here to relax and it's our job to help him relax, in any way we can."
 
 # HassarPath_8160a987 (line 18571)
 translate ru HassarPath_8160a987:
@@ -376,7 +376,7 @@ translate ru HassarPath_8160a987:
 # HassarPath_0d1b41d5 (line 18572)
 translate ru HassarPath_0d1b41d5:
     # s "You mean he's going to rape me?!"
-    s ""
+    s "You mean he's going to rape me?!"
 
 # HassarPath_abc6e7ee (line 18573)
 translate ru HassarPath_abc6e7ee:
@@ -386,7 +386,7 @@ translate ru HassarPath_abc6e7ee:
 # HassarPath_1a9e12c1 (line 18574)
 translate ru HassarPath_1a9e12c1:
     # sop "Ooh no! Not at all!"
-    sop ""
+    sop "Ooh no! Not at all!"
 
 # HassarPath_caaa6a9a (line 18575)
 translate ru HassarPath_caaa6a9a:
@@ -396,7 +396,7 @@ translate ru HassarPath_caaa6a9a:
 # HassarPath_764bbf92 (line 18576)
 translate ru HassarPath_764bbf92:
     # s "I thought you meant he...had sex with you."
-    s ""
+    s "I thought you meant he...had sex with you."
 
 # HassarPath_1ef7ea37 (line 18577)
 translate ru HassarPath_1ef7ea37:
@@ -406,12 +406,12 @@ translate ru HassarPath_1ef7ea37:
 # HassarPath_4c3c19c3 (line 18578)
 translate ru HassarPath_4c3c19c3:
     # sop "Yeah, he does. With all of us. But it's not like...what you said!"
-    sop ""
+    sop "Yeah, he does. With all of us. But it's not like...what you said!"
 
 # HassarPath_1ca92873 (line 18579)
 translate ru HassarPath_1ca92873:
     # sop "We do it because we want to. Because he's our Khan. And he provides for all of us, really."
-    sop ""
+    sop "We do it because we want to. Because he's our Khan. And he provides for all of us, really."
 
 # HassarPath_455c31a1 (line 18580)
 translate ru HassarPath_455c31a1:
@@ -421,7 +421,7 @@ translate ru HassarPath_455c31a1:
 # HassarPath_b00480a5 (line 18581)
 translate ru HassarPath_b00480a5:
     # s "He didn't force himself on you?"
-    s ""
+    s "He didn't force himself on you?"
 
 # HassarPath_784f2143 (line 18582)
 translate ru HassarPath_784f2143:
@@ -431,22 +431,22 @@ translate ru HassarPath_784f2143:
 # HassarPath_e25ee11c (line 18583)
 translate ru HassarPath_e25ee11c:
     # sop "No, never!"
-    sop ""
+    sop "No, never!"
 
 # HassarPath_cd321c12 (line 18584)
 translate ru HassarPath_cd321c12:
     # sop "I mean...when I first came here, I was scared, and I think I had some of the same fears as you had."
-    sop ""
+    sop "I mean...when I first came here, I was scared, and I think I had some of the same fears as you had."
 
 # HassarPath_8a4205f6 (line 18585)
 translate ru HassarPath_8a4205f6:
     # sop "But on the first night, Hassar came to me and he told me he'd never do anything I didn't want to do."
-    sop ""
+    sop "But on the first night, Hassar came to me and he told me he'd never do anything I didn't want to do."
 
 # HassarPath_64945c5d (line 18586)
 translate ru HassarPath_64945c5d:
     # sop "Instead, he only asked me if there was anything he could do for me to make my stay here more comfortable."
-    sop ""
+    sop "Instead, he only asked me if there was anything he could do for me to make my stay here more comfortable."
 
 # HassarPath_e4d77480 (line 18587)
 translate ru HassarPath_e4d77480:
@@ -456,12 +456,12 @@ translate ru HassarPath_e4d77480:
 # HassarPath_e55ee2e5 (line 18588)
 translate ru HassarPath_e55ee2e5:
     # sop "So I told him I wanted a picture book from Lethram, the kind I had when I was growing up."
-    sop ""
+    sop "So I told him I wanted a picture book from Lethram, the kind I had when I was growing up."
 
 # HassarPath_7957d68a (line 18589)
 translate ru HassarPath_7957d68a:
     # sop "And I swear, in only a few days, he had it here for me!"
-    sop ""
+    sop "And I swear, in only a few days, he had it here for me!"
 
 # HassarPath_ab55d439 (line 18590)
 translate ru HassarPath_ab55d439:
@@ -471,17 +471,17 @@ translate ru HassarPath_ab55d439:
 # HassarPath_d933b992 (line 18591)
 translate ru HassarPath_d933b992:
     # sop "Then I got my own room, and more stuff, and he never did anything. He was so nice!"
-    sop ""
+    sop "Then I got my own room, and more stuff, and he never did anything. He was so nice!"
 
 # HassarPath_f0695a63 (line 18592)
 translate ru HassarPath_f0695a63:
     # sop "We walked around the gardens a bit, and he told me all about his life and...well, I kind of just...fell in love with him."
-    sop ""
+    sop "We walked around the gardens a bit, and he told me all about his life and...well, I kind of just...fell in love with him."
 
 # HassarPath_145a3d28 (line 18593)
 translate ru HassarPath_145a3d28:
     # sop "He's not at all as mean as people think he is. He's actually a big softie under it all."
-    sop ""
+    sop "He's not at all as mean as people think he is. He's actually a big softie under it all."
 
 # HassarPath_678d8bd8 (line 18594)
 translate ru HassarPath_678d8bd8:
@@ -506,7 +506,7 @@ translate ru HassarPath_b5913b9b:
 # HassarPath_1e6c2697 (line 18598)
 translate ru HassarPath_1e6c2697:
     # s "No, that's not possible..."
-    s ""
+    s "No, that's not possible..."
 
 # HassarPath_d8f32e1a (line 18599)
 translate ru HassarPath_d8f32e1a:
@@ -516,7 +516,7 @@ translate ru HassarPath_d8f32e1a:
 # HassarPath_a2c3ec83 (line 18600)
 translate ru HassarPath_a2c3ec83:
     # sop "You'll see. I'm sure he'll come by soon enough, and I promise he won't even lay a finger on you. He's really not the person you think he is."
-    sop ""
+    sop "You'll see. I'm sure he'll come by soon enough, and I promise he won't even lay a finger on you. He's really not the person you think he is."
 
 # HassarPath_d9bc5d72 (line 18601)
 translate ru HassarPath_d9bc5d72:
@@ -526,17 +526,17 @@ translate ru HassarPath_d9bc5d72:
 # HassarPath_f2dbc74b (line 18602)
 translate ru HassarPath_f2dbc74b:
     # s "He conquered my people!"
-    s ""
+    s "He conquered my people!"
 
 # HassarPath_56714ac2 (line 18603)
 translate ru HassarPath_56714ac2:
     # sop "Well...he is the Khan, after all."
-    sop ""
+    sop "Well...he is the Khan, after all."
 
 # HassarPath_0c58a1e9 (line 18604)
 translate ru HassarPath_0c58a1e9:
     # s "That...that doesn't justify any of it!"
-    s ""
+    s "That...that doesn't justify any of it!"
 
 # HassarPath_d9c22940 (line 18605)
 translate ru HassarPath_d9c22940:
@@ -546,17 +546,17 @@ translate ru HassarPath_d9c22940:
 # HassarPath_3635eca3 (line 18606)
 translate ru HassarPath_3635eca3:
     # sop "Look, a lot of people here in Al'Gahaem have it a lot worse than those of us in the harem."
-    sop ""
+    sop "Look, a lot of people here in Al'Gahaem have it a lot worse than those of us in the harem."
 
 # HassarPath_5632866d (line 18607)
 translate ru HassarPath_5632866d:
     # sop "You should feel lucky that he likes you enough to invite you here."
-    sop ""
+    sop "You should feel lucky that he likes you enough to invite you here."
 
 # HassarPath_a7352f25 (line 18608)
 translate ru HassarPath_a7352f25:
     # sop "I'm sure after a while, you'll learn to see how different he is!"
-    sop ""
+    sop "I'm sure after a while, you'll learn to see how different he is!"
 
 # HassarPath_8ef83404 (line 18609)
 translate ru HassarPath_8ef83404:
@@ -566,7 +566,7 @@ translate ru HassarPath_8ef83404:
 # HassarPath_bea3af73 (line 18615)
 translate ru HassarPath_bea3af73:
     # nay "Sophia, why are you making a racket?"
-    nay ""
+    nay "Sophia, why are you making a racket?"
 
 # HassarPath_fc3035fa (line 18616)
 translate ru HassarPath_fc3035fa:
@@ -581,7 +581,7 @@ translate ru HassarPath_8c21e830:
 # HassarPath_e1049a08 (line 18618)
 translate ru HassarPath_e1049a08:
     # nay "Ooh, a visitor?"
-    nay ""
+    nay "Ooh, a visitor?"
 
 # HassarPath_4a4c827c (line 18619)
 translate ru HassarPath_4a4c827c:
@@ -591,7 +591,7 @@ translate ru HassarPath_4a4c827c:
 # HassarPath_d3ee171e (line 18620)
 translate ru HassarPath_d3ee171e:
     # nay "I can see why he'd like you."
-    nay ""
+    nay "I can see why he'd like you."
 
 # HassarPath_3afab858 (line 18621)
 translate ru HassarPath_3afab858:
@@ -601,7 +601,7 @@ translate ru HassarPath_3afab858:
 # HassarPath_d146fb77 (line 18622)
 translate ru HassarPath_d146fb77:
     # s "I'm Sarah."
-    s ""
+    s "I'm Sarah."
 
 # HassarPath_23a99973 (line 18623)
 translate ru HassarPath_23a99973:
@@ -611,22 +611,22 @@ translate ru HassarPath_23a99973:
 # HassarPath_3b62579f (line 18624)
 translate ru HassarPath_3b62579f:
     # nay "Sarah...that's a lovely name."
-    nay ""
+    nay "Sarah...that's a lovely name."
 
 # HassarPath_9183a1a8 (line 18625)
 translate ru HassarPath_9183a1a8:
     # nay "My name is Naydeen, pleasure to meet you."
-    nay ""
+    nay "My name is Naydeen, pleasure to meet you."
 
 # HassarPath_3873ef0b (line 18626)
 translate ru HassarPath_3873ef0b:
     # nay "I hope Sophia here wasn't talking your ears off."
-    nay ""
+    nay "I hope Sophia here wasn't talking your ears off."
 
 # HassarPath_2e5c0183 (line 18627)
 translate ru HassarPath_2e5c0183:
     # sop "Hey! I don't do that!"
-    sop ""
+    sop "Hey! I don't do that!"
 
 # HassarPath_a8a9a35d (line 18628)
 translate ru HassarPath_a8a9a35d:
@@ -636,7 +636,7 @@ translate ru HassarPath_a8a9a35d:
 # HassarPath_d192c9dd (line 18629)
 translate ru HassarPath_d192c9dd:
     # nay "Don't worry, Sophia, without you this place would be a bore."
-    nay ""
+    nay "Don't worry, Sophia, without you this place would be a bore."
 
 # HassarPath_057435f3 (line 18630)
 translate ru HassarPath_057435f3:
@@ -646,12 +646,12 @@ translate ru HassarPath_057435f3:
 # HassarPath_8e1b35a1 (line 18631)
 translate ru HassarPath_8e1b35a1:
     # nay "Anyway, Sarah was it? Come with me, I'll take you to your room."
-    nay ""
+    nay "Anyway, Sarah was it? Come with me, I'll take you to your room."
 
 # HassarPath_10551206 (line 18632)
 translate ru HassarPath_10551206:
     # s "My room?"
-    s ""
+    s "My room?"
 
 # HassarPath_a8817a2e (line 18633)
 translate ru HassarPath_a8817a2e:
@@ -661,12 +661,12 @@ translate ru HassarPath_a8817a2e:
 # HassarPath_7d71f446 (line 18634)
 translate ru HassarPath_7d71f446:
     # nay "Everyone here has a private quarters where they can retreat if they want to be alone."
-    nay ""
+    nay "Everyone here has a private quarters where they can retreat if they want to be alone."
 
 # HassarPath_a4c97e32 (line 18635)
 translate ru HassarPath_a4c97e32:
     # nay "And sometimes where Hassar can visit if he only wants to speak to one of us."
-    nay ""
+    nay "And sometimes where Hassar can visit if he only wants to speak to one of us."
 
 # HassarPath_cf3ad195 (line 18636)
 translate ru HassarPath_cf3ad195:
@@ -681,7 +681,7 @@ translate ru HassarPath_47efa29a:
 # HassarPath_d54a2212 (line 18638)
 translate ru HassarPath_d54a2212:
     # nay "Be a dear, Sophia, and gather some warm water for our friend so she can bathe herself, I think she's been through an awful lot."
-    nay ""
+    nay "Be a dear, Sophia, and gather some warm water for our friend so she can bathe herself, I think she's been through an awful lot."
 
 # HassarPath_c0b213ae (line 18640)
 translate ru HassarPath_c0b213ae:
@@ -701,7 +701,7 @@ translate ru HassarPath_b9fd2735:
 # HassarPath_5372db55 (line 18643)
 translate ru HassarPath_5372db55:
     # nay "I imagine the girl's talked a whole lot without saying much."
-    nay ""
+    nay "I imagine the girl's talked a whole lot without saying much."
 
 # HassarPath_d0134ea8 (line 18644)
 translate ru HassarPath_d0134ea8:
@@ -711,17 +711,17 @@ translate ru HassarPath_d0134ea8:
 # HassarPath_df1effa2 (line 18645)
 translate ru HassarPath_df1effa2:
     # s "Yeah, I'm still confused about this place..."
-    s ""
+    s "Yeah, I'm still confused about this place..."
 
 # HassarPath_7afe5c93 (line 18646)
 translate ru HassarPath_7afe5c93:
     # nay "That's fine, it took quite a while for all of us to settle here, but in time we made it work."
-    nay ""
+    nay "That's fine, it took quite a while for all of us to settle here, but in time we made it work."
 
 # HassarPath_fdb61da3 (line 18647)
 translate ru HassarPath_fdb61da3:
     # s "So this is...the Khan's private harem?"
-    s ""
+    s "So this is...the Khan's private harem?"
 
 # HassarPath_ef55c7e4 (line 18648)
 translate ru HassarPath_ef55c7e4:
@@ -731,27 +731,27 @@ translate ru HassarPath_ef55c7e4:
 # HassarPath_bb2460e6 (line 18649)
 translate ru HassarPath_bb2460e6:
     # nay "Yes, this is his sanctum, where we are kept safe and away from the rest of the city. The world, really."
-    nay ""
+    nay "Yes, this is his sanctum, where we are kept safe and away from the rest of the city. The world, really."
 
 # HassarPath_e811cbd6 (line 18650)
 translate ru HassarPath_e811cbd6:
     # nay "But don't think of it like a prison."
-    nay ""
+    nay "But don't think of it like a prison."
 
 # HassarPath_f897baef (line 18651)
 translate ru HassarPath_f897baef:
     # nay "There is nothing you want that you can't get, all you need to do is ask for it and they'll deliver it as soon as they can."
-    nay ""
+    nay "There is nothing you want that you can't get, all you need to do is ask for it and they'll deliver it as soon as they can."
 
 # HassarPath_00a5072d (line 18652)
 translate ru HassarPath_00a5072d:
     # nay "If it's in the city, you'll likely get it the same day. Other items can take a while, but Hassar has always come through on any request."
-    nay ""
+    nay "If it's in the city, you'll likely get it the same day. Other items can take a while, but Hassar has always come through on any request."
 
 # HassarPath_cfb1db57 (line 18653)
 translate ru HassarPath_cfb1db57:
     # s "But I don't understand...he's a conquerer...he destroyed my country."
-    s ""
+    s "But I don't understand...he's a conquerer...he destroyed my country."
 
 # HassarPath_0acf8c50 (line 18654)
 translate ru HassarPath_0acf8c50:
@@ -761,27 +761,27 @@ translate ru HassarPath_0acf8c50:
 # HassarPath_5243c9f2 (line 18655)
 translate ru HassarPath_5243c9f2:
     # nay "And that's awful."
-    nay ""
+    nay "And that's awful."
 
 # HassarPath_76ec2e3f (line 18656)
 translate ru HassarPath_76ec2e3f:
     # nay "But it's the way of the world, I'm afraid."
-    nay ""
+    nay "But it's the way of the world, I'm afraid."
 
 # HassarPath_f97aea99 (line 18657)
 translate ru HassarPath_f97aea99:
     # nay "Strength dictates all, and Hassar is the strongest man I've ever met."
-    nay ""
+    nay "Strength dictates all, and Hassar is the strongest man I've ever met."
 
 # HassarPath_5e3b833e (line 18658)
 translate ru HassarPath_5e3b833e:
     # nay "Yours is not the first nation he broke and I suspect it won't be the last."
-    nay ""
+    nay "Yours is not the first nation he broke and I suspect it won't be the last."
 
 # HassarPath_db34a164 (line 18659)
 translate ru HassarPath_db34a164:
     # nay "Tell me...was it Rosanna?"
-    nay ""
+    nay "Tell me...was it Rosanna?"
 
 # HassarPath_94d6fef8 (line 18660)
 translate ru HassarPath_94d6fef8:
@@ -791,27 +791,27 @@ translate ru HassarPath_94d6fef8:
 # HassarPath_e1599f49 (line 18661)
 translate ru HassarPath_e1599f49:
     # s "How did you know?"
-    s ""
+    s "How did you know?"
 
 # HassarPath_f455fb22 (line 18662)
 translate ru HassarPath_f455fb22:
     # nay "We are isolated here, but we are not in a prison. Whispers, rumors, they make their way even inside this place."
-    nay ""
+    nay "We are isolated here, but we are not in a prison. Whispers, rumors, they make their way even inside this place."
 
 # HassarPath_d3858b5c (line 18663)
 translate ru HassarPath_d3858b5c:
     # nay "I had heard that the campaign against your country had begun. I had not yet heard how it was going."
-    nay ""
+    nay "I had heard that the campaign against your country had begun. I had not yet heard how it was going."
 
 # HassarPath_86ae0aa4 (line 18664)
 translate ru HassarPath_86ae0aa4:
     # nay "But suspecting you're here, I imagine it went quite well...for the tribesmen."
-    nay ""
+    nay "But suspecting you're here, I imagine it went quite well...for the tribesmen."
 
 # HassarPath_9d4b3670 (line 18665)
 translate ru HassarPath_9d4b3670:
     # s "Yes...our armies were crushed, our capital sacked...I..."
-    s ""
+    s "Yes...our armies were crushed, our capital sacked...I..."
 
 # HassarPath_521a1efc (line 18666)
 translate ru HassarPath_521a1efc:
@@ -821,7 +821,7 @@ translate ru HassarPath_521a1efc:
 # HassarPath_9827511a (line 18667)
 translate ru HassarPath_9827511a:
     # nay "Let me guess, you were a noble lady?"
-    nay ""
+    nay "Let me guess, you were a noble lady?"
 
 # HassarPath_1768ed22 (line 18668)
 translate ru HassarPath_1768ed22:
@@ -831,37 +831,37 @@ translate ru HassarPath_1768ed22:
 # HassarPath_5618ad80 (line 18669)
 translate ru HassarPath_5618ad80:
     # s "I was the princess of Rosanna..."
-    s ""
+    s "I was the princess of Rosanna..."
 
 # HassarPath_16a0f7bc (line 18670)
 translate ru HassarPath_16a0f7bc:
     # nay "I see..."
-    nay ""
+    nay "I see..."
 
 # HassarPath_97f3eba1 (line 18671)
 translate ru HassarPath_97f3eba1:
     # s "How did you know?"
-    s ""
+    s "How did you know?"
 
 # HassarPath_f20d367a (line 18672)
 translate ru HassarPath_f20d367a:
     # nay "Your body. It's soft and unblemished. No commoner would have gotten to your age without some scars or muscle."
-    nay ""
+    nay "Your body. It's soft and unblemished. No commoner would have gotten to your age without some scars or muscle."
 
 # HassarPath_a016c450 (line 18673)
 translate ru HassarPath_a016c450:
     # s "Ooh...I never knew it was that obvious..."
-    s ""
+    s "Ooh...I never knew it was that obvious..."
 
 # HassarPath_5e9b1832 (line 18674)
 translate ru HassarPath_5e9b1832:
     # nay "I understand that you must find this new situation quite confusing, but I promise you that there is something to be happy about."
-    nay ""
+    nay "I understand that you must find this new situation quite confusing, but I promise you that there is something to be happy about."
 
 # HassarPath_be1fc71f (line 18675)
 translate ru HassarPath_be1fc71f:
     # s "Happy? In this place?"
-    s ""
+    s "Happy? In this place?"
 
 # HassarPath_949171c2 (line 18676)
 translate ru HassarPath_949171c2:
@@ -871,12 +871,12 @@ translate ru HassarPath_949171c2:
 # HassarPath_20f8c2e7 (line 18677)
 translate ru HassarPath_20f8c2e7:
     # nay "You will be provided for here. The Khan is a strong and powerful man."
-    nay ""
+    nay "You will be provided for here. The Khan is a strong and powerful man."
 
 # HassarPath_93004af6 (line 18678)
 translate ru HassarPath_93004af6:
     # nay "We live under his protection, but he values us for what we can offer him return. A softness. A gentleness."
-    nay ""
+    nay "We live under his protection, but he values us for what we can offer him return. A softness. A gentleness."
 
 # HassarPath_5d9eaf22 (line 18679)
 translate ru HassarPath_5d9eaf22:
@@ -886,7 +886,7 @@ translate ru HassarPath_5d9eaf22:
 # HassarPath_c2f2f0f9 (line 18680)
 translate ru HassarPath_c2f2f0f9:
     # s "Sex...you mean."
-    s ""
+    s "Sex...you mean."
 
 # HassarPath_59c8d12d (line 18681)
 translate ru HassarPath_59c8d12d:
@@ -896,17 +896,17 @@ translate ru HassarPath_59c8d12d:
 # HassarPath_d0df1ad3 (line 18682)
 translate ru HassarPath_d0df1ad3:
     # nay "I won't lie and say that's not part of it."
-    nay ""
+    nay "I won't lie and say that's not part of it."
 
 # HassarPath_6e4be69c (line 18683)
 translate ru HassarPath_6e4be69c:
     # nay "But he listens to us, speaks to us as people. He is not as brutish as he appears to the outside world."
-    nay ""
+    nay "But he listens to us, speaks to us as people. He is not as brutish as he appears to the outside world."
 
 # HassarPath_7f8abd89 (line 18684)
 translate ru HassarPath_7f8abd89:
     # nay "And as for the sex, he cares for our pleasures as much as his own, a rare trait in this place."
-    nay ""
+    nay "And as for the sex, he cares for our pleasures as much as his own, a rare trait in this place."
 
 # HassarPath_a53745bb (line 18685)
 translate ru HassarPath_a53745bb:
@@ -916,7 +916,7 @@ translate ru HassarPath_a53745bb:
 # HassarPath_f39b3212 (line 18686)
 translate ru HassarPath_f39b3212:
     # nay "What do you know of such things, anyway?"
-    nay ""
+    nay "What do you know of such things, anyway?"
 
 # HassarPath_c023c4f7 (line 18687)
 translate ru HassarPath_c023c4f7:
@@ -926,12 +926,12 @@ translate ru HassarPath_c023c4f7:
 # HassarPath_95298351 (line 18688)
 translate ru HassarPath_95298351:
     # s "I..."
-    s ""
+    s "I..."
 
 # HassarPath_e7a61fea (line 18689)
 translate ru HassarPath_e7a61fea:
     # nay "Didn't your mother ever tell you anything of such things?"
-    nay ""
+    nay "Didn't your mother ever tell you anything of such things?"
 
 # HassarPath_6364a7d5 (line 18690)
 translate ru HassarPath_6364a7d5:
@@ -941,7 +941,7 @@ translate ru HassarPath_6364a7d5:
 # HassarPath_c2a9d800 (line 18691)
 translate ru HassarPath_c2a9d800:
     # s "No!"
-    s ""
+    s "No!"
 
 # HassarPath_69d6a91f (line 18692)
 translate ru HassarPath_69d6a91f:
@@ -951,17 +951,17 @@ translate ru HassarPath_69d6a91f:
 # HassarPath_39d1a96d (line 18693)
 translate ru HassarPath_39d1a96d:
     # nay "It's alright."
-    nay ""
+    nay "It's alright."
 
 # HassarPath_1f86e2f4 (line 18694)
 translate ru HassarPath_1f86e2f4:
     # nay "Khan Hassar is gentle."
-    nay ""
+    nay "Khan Hassar is gentle."
 
 # HassarPath_895a30ba (line 18695)
 translate ru HassarPath_895a30ba:
     # s "Sophia said he...would not force me."
-    s ""
+    s "Sophia said he...would not force me."
 
 # HassarPath_532bb30d (line 18696)
 translate ru HassarPath_532bb30d:
@@ -971,47 +971,47 @@ translate ru HassarPath_532bb30d:
 # HassarPath_cb4a56fa (line 18697)
 translate ru HassarPath_cb4a56fa:
     # nay "There are four girls here, five with you now."
-    nay ""
+    nay "There are four girls here, five with you now."
 
 # HassarPath_cdcbd096 (line 18698)
 translate ru HassarPath_cdcbd096:
     # nay "He has never forced himself on any of us."
-    nay ""
+    nay "He has never forced himself on any of us."
 
 # HassarPath_4b3280cb (line 18699)
 translate ru HassarPath_4b3280cb:
     # nay "Not in the beginning, not ever since."
-    nay ""
+    nay "Not in the beginning, not ever since."
 
 # HassarPath_d2d143f5 (line 18700)
 translate ru HassarPath_d2d143f5:
     # nay "Each of us gave ourselves willing to him in time, when we came to see him for the man he was."
-    nay ""
+    nay "Each of us gave ourselves willing to him in time, when we came to see him for the man he was."
 
 # HassarPath_9f07b4b9 (line 18701)
 translate ru HassarPath_9f07b4b9:
     # s "But he could...couldn't he?"
-    s ""
+    s "But he could...couldn't he?"
 
 # HassarPath_5723156b (line 18702)
 translate ru HassarPath_5723156b:
     # nay "Physically? By right? Of course, but he is simply no such man."
-    nay ""
+    nay "Physically? By right? Of course, but he is simply no such man."
 
 # HassarPath_aa5cf695 (line 18703)
 translate ru HassarPath_aa5cf695:
     # nay "He can have thousands of women brought before him, each eager to serve him."
-    nay ""
+    nay "He can have thousands of women brought before him, each eager to serve him."
 
 # HassarPath_8d0c1f51 (line 18704)
 translate ru HassarPath_8d0c1f51:
     # nay "What need would he have to force himself on a girl?"
-    nay ""
+    nay "What need would he have to force himself on a girl?"
 
 # HassarPath_72c187de (line 18705)
 translate ru HassarPath_72c187de:
     # nay "And why would such a man, who can have a girl willingly, otherwise take one by force?"
-    nay ""
+    nay "And why would such a man, who can have a girl willingly, otherwise take one by force?"
 
 # HassarPath_aea4871a (line 18706)
 translate ru HassarPath_aea4871a:
@@ -1021,7 +1021,7 @@ translate ru HassarPath_aea4871a:
 # HassarPath_16ddef3d (line 18707)
 translate ru HassarPath_16ddef3d:
     # s "So...he won't..."
-    s ""
+    s "So...he won't..."
 
 # HassarPath_81e51117 (line 18708)
 translate ru HassarPath_81e51117:
@@ -1031,7 +1031,7 @@ translate ru HassarPath_81e51117:
 # HassarPath_cd4caa4d (line 18709)
 translate ru HassarPath_cd4caa4d:
     # nay "No more than you yourself want."
-    nay ""
+    nay "No more than you yourself want."
 
 # HassarPath_4ca282ef (line 18710)
 translate ru HassarPath_4ca282ef:
@@ -1041,7 +1041,7 @@ translate ru HassarPath_4ca282ef:
 # HassarPath_cdeec611 (line 18711)
 translate ru HassarPath_cdeec611:
     # nay "But you will find him tempting, in time, and if you have had him, ooh trust me, you'll curse yourself for every day you wasted denying him."
-    nay ""
+    nay "But you will find him tempting, in time, and if you have had him, ooh trust me, you'll curse yourself for every day you wasted denying him."
 
 # HassarPath_13fea855 (line 18712)
 translate ru HassarPath_13fea855:
@@ -1076,7 +1076,7 @@ translate ru HassarPath_b1f2d521:
 # HassarPath_6a910511 (line 18723)
 translate ru HassarPath_6a910511:
     # s "It's..."
-    s ""
+    s "It's..."
 
 # HassarPath_68c64597 (line 18724)
 translate ru HassarPath_68c64597:
@@ -1091,37 +1091,37 @@ translate ru HassarPath_46c3d2d6:
 # HassarPath_e709c0d3 (line 18726)
 translate ru HassarPath_e709c0d3:
     # nay "Yes, it took my breath away the first time too."
-    nay ""
+    nay "Yes, it took my breath away the first time too."
 
 # HassarPath_13db5c8c (line 18727)
 translate ru HassarPath_13db5c8c:
     # nay "But don't worry, this is just how the room is now."
-    nay ""
+    nay "But don't worry, this is just how the room is now."
 
 # HassarPath_30593edb (line 18728)
 translate ru HassarPath_30593edb:
     # nay "It's all yours, you can let it be adjusted to whatever style you like."
-    nay ""
+    nay "It's all yours, you can let it be adjusted to whatever style you like."
 
 # HassarPath_c98a8757 (line 18729)
 translate ru HassarPath_c98a8757:
     # nay "I think Ayaka had her room redone in the style of the eastern kingdoms, reminds her of home she says."
-    nay ""
+    nay "I think Ayaka had her room redone in the style of the eastern kingdoms, reminds her of home she says."
 
 # HassarPath_369982f3 (line 18730)
 translate ru HassarPath_369982f3:
     # s "Ayaka?"
-    s ""
+    s "Ayaka?"
 
 # HassarPath_d3d9ce2c (line 18731)
 translate ru HassarPath_d3d9ce2c:
     # nay "Ooh, one of the other girls, you'll meet her soon enough I imagine."
-    nay ""
+    nay "Ooh, one of the other girls, you'll meet her soon enough I imagine."
 
 # HassarPath_ca074b13 (line 18732)
 translate ru HassarPath_ca074b13:
     # nay "I'll let you stay here to get comfortable. Sophia will be here shortly with some warm water to clean yourself."
-    nay ""
+    nay "I'll let you stay here to get comfortable. Sophia will be here shortly with some warm water to clean yourself."
 
 # HassarPath_520b1b03 (line 18733)
 translate ru HassarPath_520b1b03:
@@ -1131,17 +1131,17 @@ translate ru HassarPath_520b1b03:
 # HassarPath_f0a38629 (line 18734)
 translate ru HassarPath_f0a38629:
     # nay "Sarah, I understand you have your reservations. It is only natural."
-    nay ""
+    nay "Sarah, I understand you have your reservations. It is only natural."
 
 # HassarPath_6f02ab0e (line 18735)
 translate ru HassarPath_6f02ab0e:
     # nay "But the Khan...he is our master, and he demands and is entitled to a certain degree of respect."
-    nay ""
+    nay "But the Khan...he is our master, and he demands and is entitled to a certain degree of respect."
 
 # HassarPath_11fd7469 (line 18736)
 translate ru HassarPath_11fd7469:
     # nay "You must at least give him that much, do you understand? Present yourself clean before him."
-    nay ""
+    nay "You must at least give him that much, do you understand? Present yourself clean before him."
 
 # HassarPath_4b92c785 (line 18737)
 translate ru HassarPath_4b92c785:
@@ -1166,7 +1166,7 @@ translate ru HassarPath_e006cfc8:
 # HassarPath_2add651f (line 18741)
 translate ru HassarPath_2add651f:
     # nay "The Khan will come and visit you tonight."
-    nay ""
+    nay "The Khan will come and visit you tonight."
 
 # HassarPath_f0de5ac2 (line 18742)
 translate ru HassarPath_f0de5ac2:
@@ -1176,7 +1176,7 @@ translate ru HassarPath_f0de5ac2:
 # HassarPath_33105f6d (line 18743)
 translate ru HassarPath_33105f6d:
     # s "Tonight?"
-    s ""
+    s "Tonight?"
 
 # HassarPath_00b66266 (line 18744)
 translate ru HassarPath_00b66266:
@@ -1186,12 +1186,12 @@ translate ru HassarPath_00b66266:
 # HassarPath_12c3b88b (line 18745)
 translate ru HassarPath_12c3b88b:
     # nay "Yes, but he will expect nothing of you. He always comes to check up on a new arrival. Make certain they are seen to."
-    nay ""
+    nay "Yes, but he will expect nothing of you. He always comes to check up on a new arrival. Make certain they are seen to."
 
 # HassarPath_abf197df (line 18746)
 translate ru HassarPath_abf197df:
     # s "He won't..."
-    s ""
+    s "He won't..."
 
 # HassarPath_c25bf615 (line 18747)
 translate ru HassarPath_c25bf615:
@@ -1201,7 +1201,7 @@ translate ru HassarPath_c25bf615:
 # HassarPath_bb03fcfd (line 18748)
 translate ru HassarPath_bb03fcfd:
     # nay "No. I can't be certain, but our Khan has his rhythms. Tonight he will likely spend with me and Sophia."
-    nay ""
+    nay "No. I can't be certain, but our Khan has his rhythms. Tonight he will likely spend with me and Sophia."
 
 # HassarPath_dd80f182 (line 18749)
 translate ru HassarPath_dd80f182:
@@ -1211,7 +1211,7 @@ translate ru HassarPath_dd80f182:
 # HassarPath_8a7f5bf2 (line 18750)
 translate ru HassarPath_8a7f5bf2:
     # s "You...and her?"
-    s ""
+    s "You...and her?"
 
 # HassarPath_ed49b9cb (line 18751)
 translate ru HassarPath_ed49b9cb:
@@ -1221,17 +1221,17 @@ translate ru HassarPath_ed49b9cb:
 # HassarPath_82b4c2e4 (line 18752)
 translate ru HassarPath_82b4c2e4:
     # nay "Our Khan does not simply keep so many women for fear of boredom."
-    nay ""
+    nay "Our Khan does not simply keep so many women for fear of boredom."
 
 # HassarPath_27c299a9 (line 18753)
 translate ru HassarPath_27c299a9:
     # nay "His stamina is quite legendary, both in battle and...well, you understand."
-    nay ""
+    nay "His stamina is quite legendary, both in battle and...well, you understand."
 
 # HassarPath_00f3869e (line 18754)
 translate ru HassarPath_00f3869e:
     # nay "Me and Sophia might outnumber him, but I fear it is we who will be broken by the end of the night."
-    nay ""
+    nay "Me and Sophia might outnumber him, but I fear it is we who will be broken by the end of the night."
 
 # HassarPath_b36d544e (line 18755)
 translate ru HassarPath_b36d544e:
@@ -1251,7 +1251,7 @@ translate ru HassarPath_94331f6c:
 # HassarPath_eb92659f (line 18758)
 translate ru HassarPath_eb92659f:
     # nay "Keep your head up, girl. Be strong. You can have a life here, one that is still filled with great things."
-    nay ""
+    nay "Keep your head up, girl. Be strong. You can have a life here, one that is still filled with great things."
 
 # HassarPath_63a66d76 (line 18759)
 translate ru HassarPath_63a66d76:
@@ -1261,12 +1261,12 @@ translate ru HassarPath_63a66d76:
 # HassarPath_da42f04b (line 18760)
 translate ru HassarPath_da42f04b:
     # nay "And if you are ever unsure or have questions about the matters between men and women, come and ask me."
-    nay ""
+    nay "And if you are ever unsure or have questions about the matters between men and women, come and ask me."
 
 # HassarPath_b1fe51b3 (line 18761)
 translate ru HassarPath_b1fe51b3:
     # nay "I can answer all the questions your mother never did."
-    nay ""
+    nay "I can answer all the questions your mother never did."
 
 # HassarPath_e70b4d48 (line 18762)
 translate ru HassarPath_e70b4d48:

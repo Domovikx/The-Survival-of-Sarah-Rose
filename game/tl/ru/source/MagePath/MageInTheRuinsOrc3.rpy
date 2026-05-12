@@ -166,7 +166,7 @@ translate ru MageInTheRuinsOrc3_76df6ad7:
 # MageInTheRuinsOrc3_583aa923 (line 83309)
 translate ru MageInTheRuinsOrc3_583aa923:
     # s "Me..."
-    s ""
+    s "Me..."
 
 # MageInTheRuinsOrc3_c2629093 (line 83310)
 translate ru MageInTheRuinsOrc3_c2629093:
@@ -181,7 +181,7 @@ translate ru MageInTheRuinsOrc3_7a798096:
 # MageInTheRuinsOrc3_ec3cc6d6 (line 83312)
 translate ru MageInTheRuinsOrc3_ec3cc6d6:
     # s "Me use word...make fire...with word...me...."
-    s ""
+    s "Me use word...make fire...with word...me...."
 
 # MageInTheRuinsOrc3_208f010e (line 83313)
 translate ru MageInTheRuinsOrc3_208f010e:
@@ -191,7 +191,7 @@ translate ru MageInTheRuinsOrc3_208f010e:
 # MageInTheRuinsOrc3_2f871517 (line 83314)
 translate ru MageInTheRuinsOrc3_2f871517:
     # s "Me pow...power...p-p-p-p..."
-    s ""
+    s "Me pow...power...p-p-p-p..."
 
 # MageInTheRuinsOrc3_da6450b9 (line 83315)
 translate ru MageInTheRuinsOrc3_da6450b9:
@@ -201,7 +201,7 @@ translate ru MageInTheRuinsOrc3_da6450b9:
 # MageInTheRuinsOrc3_38442225 (line 83316)
 translate ru MageInTheRuinsOrc3_38442225:
     # s "Me...stro...strong...."
-    s ""
+    s "Me...stro...strong...."
 
 # MageInTheRuinsOrc3_8d9eb25f (line 83317)
 translate ru MageInTheRuinsOrc3_8d9eb25f:
@@ -361,7 +361,7 @@ translate ru MageInTheRuinsOrc3_f880b003:
 # MageInTheRuinsOrc3_7b2a0f39 (line 83354)
 translate ru MageInTheRuinsOrc3_7b2a0f39:
     # s "Me...do good...?"
-    s ""
+    s "Me...do good...?"
 
 # MageInTheRuinsOrc3_746904af (line 83355)
 translate ru MageInTheRuinsOrc3_746904af:

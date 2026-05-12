@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: WarriorPath4
-# Total blocks: 185
+# Total blocks: 171
 
 # WarriorPath4_942e728e (line 39480)
 translate ru WarriorPath4_942e728e:
@@ -76,7 +76,7 @@ translate ru WarriorPath4_e02974ee:
 # WarriorPath4_a76f31fd (line 39502)
 translate ru WarriorPath4_a76f31fd:
     # k "Hey there."
-    k ""
+    k "Hey there."
 
 # WarriorPath4_959521c4 (line 39503)
 translate ru WarriorPath4_959521c4:
@@ -86,12 +86,12 @@ translate ru WarriorPath4_959521c4:
 # WarriorPath4_4927ecc1 (line 39504)
 translate ru WarriorPath4_4927ecc1:
     # s "Hey. Thought I missed you out here."
-    s ""
+    s "Hey. Thought I missed you out here."
 
 # WarriorPath4_a8a8c7ca (line 39505)
 translate ru WarriorPath4_a8a8c7ca:
     # k "Miss a chance to see the great hero that killed a demon? I'd never."
-    k ""
+    k "Miss a chance to see the great hero that killed a demon? I'd never."
 
 # WarriorPath4_f8c4e5db (line 39506)
 translate ru WarriorPath4_f8c4e5db:
@@ -101,12 +101,12 @@ translate ru WarriorPath4_f8c4e5db:
 # WarriorPath4_759c713d (line 39507)
 translate ru WarriorPath4_759c713d:
     # s "I didn't kill a demon."
-    s ""
+    s "I didn't kill a demon."
 
 # WarriorPath4_3f1775b5 (line 39508)
 translate ru WarriorPath4_3f1775b5:
     # k "Maybe. Whose to say it wasn't. You know what a demon looks like?"
-    k ""
+    k "Maybe. Whose to say it wasn't. You know what a demon looks like?"
 
 # WarriorPath4_39a07933 (line 39509)
 translate ru WarriorPath4_39a07933:
@@ -116,7 +116,7 @@ translate ru WarriorPath4_39a07933:
 # WarriorPath4_9484696c (line 39510)
 translate ru WarriorPath4_9484696c:
     # s "Whatever. If you're here to shove another compliment up my ass, know that I've had my fill."
-    s ""
+    s "Whatever. If you're here to shove another compliment up my ass, know that I've had my fill."
 
 # WarriorPath4_694215ec (line 39511)
 translate ru WarriorPath4_694215ec:
@@ -126,7 +126,7 @@ translate ru WarriorPath4_694215ec:
 # WarriorPath4_8badd094 (line 39512)
 translate ru WarriorPath4_8badd094:
     # k "Ooh, your ass is stuffed huh?"
-    k ""
+    k "Ooh, your ass is stuffed huh?"
 
 # WarriorPath4_bb669751 (line 39513)
 translate ru WarriorPath4_bb669751:
@@ -136,7 +136,7 @@ translate ru WarriorPath4_bb669751:
 # WarriorPath4_b97a7cc1 (line 39514)
 translate ru WarriorPath4_b97a7cc1:
     # s "You're vile Kate, you really are."
-    s ""
+    s "You're vile Kate, you really are."
 
 # WarriorPath4_d1105946 (line 39515)
 translate ru WarriorPath4_d1105946:
@@ -146,22 +146,22 @@ translate ru WarriorPath4_d1105946:
 # WarriorPath4_0dd1e076 (line 39516)
 translate ru WarriorPath4_0dd1e076:
     # k "Whatever."
-    k ""
+    k "Whatever."
 
 # WarriorPath4_627fe7a8 (line 39517)
 translate ru WarriorPath4_627fe7a8:
     # k "I know you longer than just about anyone else here."
-    k ""
+    k "I know you longer than just about anyone else here."
 
 # WarriorPath4_816f4e9a (line 39518)
 translate ru WarriorPath4_816f4e9a:
     # k "I remember the girl that started crying because she got her head stuck in a rabbit's burrow and couldn't get it out."
-    k ""
+    k "I remember the girl that started crying because she got her head stuck in a rabbit's burrow and couldn't get it out."
 
 # WarriorPath4_f2b14c8f (line 39519)
 translate ru WarriorPath4_f2b14c8f:
     # s "That wasn't funny!"
-    s ""
+    s "That wasn't funny!"
 
 # WarriorPath4_4aa51ae0 (line 39520)
 translate ru WarriorPath4_4aa51ae0:
@@ -171,17 +171,17 @@ translate ru WarriorPath4_4aa51ae0:
 # WarriorPath4_156eadeb (line 39521)
 translate ru WarriorPath4_156eadeb:
     # k "I think it was."
-    k ""
+    k "I think it was."
 
 # WarriorPath4_7210f71a (line 39522)
 translate ru WarriorPath4_7210f71a:
     # s "You've always been the one to get me into trouble."
-    s ""
+    s "You've always been the one to get me into trouble."
 
 # WarriorPath4_39c8e52a (line 39523)
 translate ru WarriorPath4_39c8e52a:
     # k "Maybe. But I was also the one to pull you out of that burrow, remember? So I guess it even out."
-    k ""
+    k "Maybe. But I was also the one to pull you out of that burrow, remember? So I guess it even out."
 
 # WarriorPath4_ed01fa5a (line 39524)
 translate ru WarriorPath4_ed01fa5a:
@@ -191,7 +191,7 @@ translate ru WarriorPath4_ed01fa5a:
 # WarriorPath4_2e4cadaa (line 39525)
 translate ru WarriorPath4_2e4cadaa:
     # s "Well, I managed to get myself into plenty of trouble lately. But the thing from today that was..."
-    s ""
+    s "Well, I managed to get myself into plenty of trouble lately. But the thing from today that was..."
 
 # WarriorPath4_12ba4a1d (line 39526)
 translate ru WarriorPath4_12ba4a1d:
@@ -201,22 +201,22 @@ translate ru WarriorPath4_12ba4a1d:
 # WarriorPath4_0a019175 (line 39527)
 translate ru WarriorPath4_0a019175:
     # k "Sarah, I...when I heard the screams coming from the throne room, I thought I'd lose you..."
-    k ""
+    k "Sarah, I...when I heard the screams coming from the throne room, I thought I'd lose you..."
 
 # WarriorPath4_398a4304 (line 39528)
 translate ru WarriorPath4_398a4304:
     # s "Everything has just been a blur since then...I've barely had time to process it."
-    s ""
+    s "Everything has just been a blur since then...I've barely had time to process it."
 
 # WarriorPath4_382233cf (line 39529)
 translate ru WarriorPath4_382233cf:
     # s "Hell, that thing still doesn't seem real..."
-    s ""
+    s "Hell, that thing still doesn't seem real..."
 
 # WarriorPath4_e70b4b6e (line 39530)
 translate ru WarriorPath4_e70b4b6e:
     # k "You have any idea what it was?"
-    k ""
+    k "You have any idea what it was?"
 
 # WarriorPath4_79f33312 (line 39531)
 translate ru WarriorPath4_79f33312:
@@ -226,17 +226,17 @@ translate ru WarriorPath4_79f33312:
 # WarriorPath4_334e920d (line 39532)
 translate ru WarriorPath4_334e920d:
     # s "Never seen anything like it. Never even read about anything like it. All I know is that the Shah summoned it, somehow."
-    s ""
+    s "Never seen anything like it. Never even read about anything like it. All I know is that the Shah summoned it, somehow."
 
 # WarriorPath4_c27e0ce9 (line 39533)
 translate ru WarriorPath4_c27e0ce9:
     # k "He summoned it?"
-    k ""
+    k "He summoned it?"
 
 # WarriorPath4_5223875b (line 39534)
 translate ru WarriorPath4_5223875b:
     # s "He was using some kind of...dagger. I don't know. It all happened so fast."
-    s ""
+    s "He was using some kind of...dagger. I don't know. It all happened so fast."
 
 # WarriorPath4_cfabc367 (line 39535)
 translate ru WarriorPath4_cfabc367:
@@ -246,12 +246,12 @@ translate ru WarriorPath4_cfabc367:
 # WarriorPath4_5b46488c (line 39536)
 translate ru WarriorPath4_5b46488c:
     # k "Whatever. I find it best not to worry too long about shit that's way beyond my ability to understand, and you shouldn't either."
-    k ""
+    k "Whatever. I find it best not to worry too long about shit that's way beyond my ability to understand, and you shouldn't either."
 
 # WarriorPath4_db109fd1 (line 39537)
 translate ru WarriorPath4_db109fd1:
     # k "As for the Shah, he got what he deserved for playing with dark magic."
-    k ""
+    k "As for the Shah, he got what he deserved for playing with dark magic."
 
 # WarriorPath4_8ccb589e (line 39538)
 translate ru WarriorPath4_8ccb589e:
@@ -301,12 +301,12 @@ translate ru WarriorPath4_10bae180:
 # WarriorPath4_5859fe5b (line 39547)
 translate ru WarriorPath4_5859fe5b:
     # s "Yeah, he got what he deserved."
-    s ""
+    s "Yeah, he got what he deserved."
 
 # WarriorPath4_4a0fb892 (line 39548)
 translate ru WarriorPath4_4a0fb892:
     # k "Wish I'd been there to see it though. The stories people are telling, sounds like you were incredible."
-    k ""
+    k "Wish I'd been there to see it though. The stories people are telling, sounds like you were incredible."
 
 # WarriorPath4_b101cdda (line 39549)
 translate ru WarriorPath4_b101cdda:
@@ -316,12 +316,12 @@ translate ru WarriorPath4_b101cdda:
 # WarriorPath4_de536e80 (line 39550)
 translate ru WarriorPath4_de536e80:
     # s "Don't believe everything they tell you. Soldier's can be worse than midwives when it comes to telling tall tales."
-    s ""
+    s "Don't believe everything they tell you. Soldier's can be worse than midwives when it comes to telling tall tales."
 
 # WarriorPath4_00eca01a (line 39551)
 translate ru WarriorPath4_00eca01a:
     # k "Ain't that the truth."
-    k ""
+    k "Ain't that the truth."
 
 # WarriorPath4_584d4b4c (line 39552)
 translate ru WarriorPath4_584d4b4c:
@@ -332,16 +332,6 @@ translate ru WarriorPath4_584d4b4c:
 translate ru WarriorPath4_88790a29:
     # "Sarah could feel there was more that Kate wanted to say."
     ""
-
-# WarriorPath4_d76de826 (line 39556)
-translate ru WarriorPath4_d76de826:
-    # "Ask Kate to come to your room tonight"
-    "Ask Kate to come to your room tonight" ""
-
-# WarriorPath4_532eb670 (line 39568)
-translate ru WarriorPath4_532eb670:
-    # "Don't say anything to Kate"
-    "Don't say anything to Kate" ""
 
 # WarriorPath4_50b9437c (line 39586)
 translate ru WarriorPath4_50b9437c:
@@ -471,7 +461,7 @@ translate ru WarriorPath4_8cc8c10c:
 # WarriorPath4_09f3facc (line 39618)
 translate ru WarriorPath4_09f3facc:
     # vae "Ladies and gentlemen!"
-    vae ""
+    vae "Ladies and gentlemen!"
 
 # WarriorPath4_96d121ed (line 39619)
 translate ru WarriorPath4_96d121ed:
@@ -486,7 +476,7 @@ translate ru WarriorPath4_f3e0a928:
 # WarriorPath4_9ac56242 (line 39621)
 translate ru WarriorPath4_9ac56242:
     # vae "I promise I won't hold up the celebrations for long!"
-    vae ""
+    vae "I promise I won't hold up the celebrations for long!"
 
 # WarriorPath4_63dd644a (line 39622)
 translate ru WarriorPath4_63dd644a:
@@ -496,7 +486,7 @@ translate ru WarriorPath4_63dd644a:
 # WarriorPath4_6f7d8904 (line 39623)
 translate ru WarriorPath4_6f7d8904:
     # vae "Today, the Mythran army has succeeded in doing what no other empire or nation ever could, bring down the dynasty of Bagrad!"
-    vae ""
+    vae "Today, the Mythran army has succeeded in doing what no other empire or nation ever could, bring down the dynasty of Bagrad!"
 
 # WarriorPath4_e07219d0 (line 39624)
 translate ru WarriorPath4_e07219d0:
@@ -506,7 +496,7 @@ translate ru WarriorPath4_e07219d0:
 # WarriorPath4_0308eb97 (line 39625)
 translate ru WarriorPath4_0308eb97:
     # vae "For me and my company, it was an honour simply to fight besides you!"
-    vae ""
+    vae "For me and my company, it was an honour simply to fight besides you!"
 
 # WarriorPath4_e53cf38e (line 39626)
 translate ru WarriorPath4_e53cf38e:
@@ -521,17 +511,17 @@ translate ru WarriorPath4_64d1e048:
 # WarriorPath4_ff8e50ad (line 39628)
 translate ru WarriorPath4_ff8e50ad:
     # vae "But the reason I'm up here now is to ask you all to take a moment."
-    vae ""
+    vae "But the reason I'm up here now is to ask you all to take a moment."
 
 # WarriorPath4_f7fa885e (line 39629)
 translate ru WarriorPath4_f7fa885e:
     # vae "Take a moment and join me in honouring a very special person."
-    vae ""
+    vae "Take a moment and join me in honouring a very special person."
 
 # WarriorPath4_41ad3849 (line 39630)
 translate ru WarriorPath4_41ad3849:
     # vae "One of my commanders, known to some of you as the Rose knight, but perhaps more recently as voidslayer!"
-    vae ""
+    vae "One of my commanders, known to some of you as the Rose knight, but perhaps more recently as voidslayer!"
 
 # WarriorPath4_7cebdd97 (line 39631)
 translate ru WarriorPath4_7cebdd97:
@@ -541,12 +531,12 @@ translate ru WarriorPath4_7cebdd97:
 # WarriorPath4_d470c1e7 (line 39632)
 translate ru WarriorPath4_d470c1e7:
     # vae "She's got so many titles and names, it's hard to keep track!"
-    vae ""
+    vae "She's got so many titles and names, it's hard to keep track!"
 
 # WarriorPath4_d100a012 (line 39633)
 translate ru WarriorPath4_d100a012:
     # vae "The one and only, Sarah Rose!"
-    vae ""
+    vae "The one and only, Sarah Rose!"
 
 # WarriorPath4_08b733eb (line 39634)
 translate ru WarriorPath4_08b733eb:
@@ -576,12 +566,12 @@ translate ru WarriorPath4_5b22df12:
 # WarriorPath4_059100bf (line 39639)
 translate ru WarriorPath4_059100bf:
     # vae "I won't ask her to come up here and give a speech, I know she's not much for that, but I just wanted everyone to remember our hero!"
-    vae ""
+    vae "I won't ask her to come up here and give a speech, I know she's not much for that, but I just wanted everyone to remember our hero!"
 
 # WarriorPath4_4003ff66 (line 39640)
 translate ru WarriorPath4_4003ff66:
     # vae "The one who killed a monster, a demon!"
-    vae ""
+    vae "The one who killed a monster, a demon!"
 
 # WarriorPath4_3a7b7da8 (line 39641)
 translate ru WarriorPath4_3a7b7da8:
@@ -596,7 +586,7 @@ translate ru WarriorPath4_6e238596:
 # WarriorPath4_2a91fd30 (line 39643)
 translate ru WarriorPath4_2a91fd30:
     # vae "Well, that's enough everyone, let's not embarrass her any further."
-    vae ""
+    vae "Well, that's enough everyone, let's not embarrass her any further."
 
 # WarriorPath4_62c47c8b (line 39644)
 translate ru WarriorPath4_62c47c8b:
@@ -606,17 +596,17 @@ translate ru WarriorPath4_62c47c8b:
 # WarriorPath4_b4d7c8be (line 39645)
 translate ru WarriorPath4_b4d7c8be:
     # vae "Now, before we resume the party, I also wanted to leave you all with a gift!"
-    vae ""
+    vae "Now, before we resume the party, I also wanted to leave you all with a gift!"
 
 # WarriorPath4_444222ac (line 39646)
 translate ru WarriorPath4_444222ac:
     # vae "A token of my generosity! A token of my gratitude! This is from me, Vaelen, to all of you!"
-    vae ""
+    vae "A token of my generosity! A token of my gratitude! This is from me, Vaelen, to all of you!"
 
 # WarriorPath4_e6cb92eb (line 39647)
 translate ru WarriorPath4_e6cb92eb:
     # vae "Tonight it doesn't matter if you're one of my men or a loyal Mythran soldier, tonight we all share in the spoils!"
-    vae ""
+    vae "Tonight it doesn't matter if you're one of my men or a loyal Mythran soldier, tonight we all share in the spoils!"
 
 # WarriorPath4_13fddccb (line 39648)
 translate ru WarriorPath4_13fddccb:
@@ -661,7 +651,7 @@ translate ru WarriorPath4_9206687b:
 # WarriorPath4_f6f42678 (line 39656)
 translate ru WarriorPath4_f6f42678:
     # vae "These women here, my fine friends, aren't just any ladies."
-    vae ""
+    vae "These women here, my fine friends, aren't just any ladies."
 
 # WarriorPath4_480b4e39 (line 39657)
 translate ru WarriorPath4_480b4e39:
@@ -681,17 +671,17 @@ translate ru WarriorPath4_491460e8:
 # WarriorPath4_1b76960b (line 39660)
 translate ru WarriorPath4_1b76960b:
     # vae "These women are fine and proper royal ladies of the court of Bagrad."
-    vae ""
+    vae "These women are fine and proper royal ladies of the court of Bagrad."
 
 # WarriorPath4_f5573a09 (line 39661)
 translate ru WarriorPath4_f5573a09:
     # vae "Nobles, daughters of long and ancient bloodlines, accustomed to wearing the finest clothes!"
-    vae ""
+    vae "Nobles, daughters of long and ancient bloodlines, accustomed to wearing the finest clothes!"
 
 # WarriorPath4_1da1661f (line 39662)
 translate ru WarriorPath4_1da1661f:
     # vae "Although, they seem to be without them for the moment!"
-    vae ""
+    vae "Although, they seem to be without them for the moment!"
 
 # WarriorPath4_37fdd8b8 (line 39663)
 translate ru WarriorPath4_37fdd8b8:
@@ -701,17 +691,17 @@ translate ru WarriorPath4_37fdd8b8:
 # WarriorPath4_b55a3901 (line 39664)
 translate ru WarriorPath4_b55a3901:
     # vae "This is my gift to you, my friends!"
-    vae ""
+    vae "This is my gift to you, my friends!"
 
 # WarriorPath4_f8e118eb (line 39665)
 translate ru WarriorPath4_f8e118eb:
     # vae "Once these ladies would have considered you too low to even look you in the eyes!"
-    vae ""
+    vae "Once these ladies would have considered you too low to even look you in the eyes!"
 
 # WarriorPath4_356d95c4 (line 39666)
 translate ru WarriorPath4_356d95c4:
     # vae "But tonight, they will worship you like the heroes you are! Like the warriors you are! Like the conquerors of history that you are!"
-    vae ""
+    vae "But tonight, they will worship you like the heroes you are! Like the warriors you are! Like the conquerors of history that you are!"
 
 # WarriorPath4_b6b3efcf (line 39667)
 translate ru WarriorPath4_b6b3efcf:
@@ -771,7 +761,7 @@ translate ru WarriorPath4_4b633c04:
 # WarriorPath4_f6c9c66d (line 39678)
 translate ru WarriorPath4_f6c9c66d:
     # vae "But there is one more thing!"
-    vae ""
+    vae "But there is one more thing!"
 
 # WarriorPath4_a4bd68ef (line 39679)
 translate ru WarriorPath4_a4bd68ef:
@@ -781,12 +771,12 @@ translate ru WarriorPath4_a4bd68ef:
 # WarriorPath4_a6315beb (line 39680)
 translate ru WarriorPath4_a6315beb:
     # vae "A very special prize!"
-    vae ""
+    vae "A very special prize!"
 
 # WarriorPath4_067dc76e (line 39681)
 translate ru WarriorPath4_067dc76e:
     # vae "Bring her out!"
-    vae ""
+    vae "Bring her out!"
 
 # WarriorPath4_ea156b7d (line 39682)
 translate ru WarriorPath4_ea156b7d:
@@ -811,12 +801,12 @@ translate ru WarriorPath4_c56d3913:
 # WarriorPath4_58ee3992 (line 39688)
 translate ru WarriorPath4_58ee3992:
     # vae "Soldiers!"
-    vae ""
+    vae "Soldiers!"
 
 # WarriorPath4_87b1ad67 (line 39689)
 translate ru WarriorPath4_87b1ad67:
     # vae "Behold, the last daughter of a dead dynasty! Shah Mahda's daughter, Samayra!"
-    vae ""
+    vae "Behold, the last daughter of a dead dynasty! Shah Mahda's daughter, Samayra!"
 
 # WarriorPath4_8547c5b7 (line 39690)
 translate ru WarriorPath4_8547c5b7:
@@ -826,12 +816,12 @@ translate ru WarriorPath4_8547c5b7:
 # WarriorPath4_d201c63d (line 39691)
 translate ru WarriorPath4_d201c63d:
     # vae "The last of her lineage!"
-    vae ""
+    vae "The last of her lineage!"
 
 # WarriorPath4_33034a8d (line 39692)
 translate ru WarriorPath4_33034a8d:
     # vae "And did I mention, a virgin?"
-    vae ""
+    vae "And did I mention, a virgin?"
 
 # WarriorPath4_fd0d1118 (line 39693)
 translate ru WarriorPath4_fd0d1118:
@@ -841,12 +831,12 @@ translate ru WarriorPath4_fd0d1118:
 # WarriorPath4_00db8c1d (line 39694)
 translate ru WarriorPath4_00db8c1d:
     # vae "The other ladies of the court are my gift to you, but for this one, I'm afraid, I must charge a price."
-    vae ""
+    vae "The other ladies of the court are my gift to you, but for this one, I'm afraid, I must charge a price."
 
 # WarriorPath4_bcc7b7db (line 39695)
 translate ru WarriorPath4_bcc7b7db:
     # vae "Tell me, is there anyone out there who wants to start the bidding?"
-    vae ""
+    vae "Tell me, is there anyone out there who wants to start the bidding?"
 
 # WarriorPath4_b3f8ad14 (line 39696)
 translate ru WarriorPath4_b3f8ad14:
@@ -867,64 +857,4 @@ translate ru WarriorPath4_6a9e39da:
 translate ru WarriorPath4_40922db3:
     # "Sarah felt as though she was sitting on the dais with her."
     ""
-
-# WarriorPath4_272a1a85 (line 39702)
-translate ru WarriorPath4_272a1a85:
-    # "Save Samayra, intercede"
-    "Save Samayra, intercede" ""
-
-# WarriorPath4_8da0e1a8 (line 39950)
-translate ru WarriorPath4_8da0e1a8:
-    # "Play along with Kate, tease Samayra"
-    "Play along with Kate, tease Samayra" ""
-
-# WarriorPath4_ad43f76e (line 40054)
-translate ru WarriorPath4_ad43f76e:
-    # "Tell Kate to stop it, seriously"
-    "Tell Kate to stop it, seriously" ""
-
-# WarriorPath4_de2c8fc3 (line 40096)
-translate ru WarriorPath4_de2c8fc3:
-    # "Seduce Samayra"
-    "Seduce Samayra" ""
-
-# WarriorPath4_881e0821 (line 40151)
-translate ru WarriorPath4_881e0821:
-    # "Go to sleep"
-    "Go to sleep" ""
-
-# WarriorPath4_cfd056e5 (line 40166)
-translate ru WarriorPath4_cfd056e5:
-    # "Masturbate"
-    "Masturbate" ""
-
-# WarriorPath4_9021c28c (line 40278)
-translate ru WarriorPath4_9021c28c:
-    # "It's not your fight, don't do anything"
-    "It's not your fight, don't do anything" ""
-
-# WarriorPath4_d4047b5b (line 40874)
-translate ru WarriorPath4_d4047b5b:
-    # "Go back to your room"
-    "Go back to your room" ""
-
-# WarriorPath4_0b698682 (line 41095)
-translate ru WarriorPath4_0b698682:
-    # "I love you too, Kate!"
-    "I love you too, Kate!" ""
-
-# WarriorPath4_e51364ab (line 41106)
-translate ru WarriorPath4_e51364ab:
-    # "We can't be more than this."
-    "We can't be more than this." ""
-
-# WarriorPath4_2b6d4b09 (line 41156)
-translate ru WarriorPath4_2b6d4b09:
-    # "Masturbate"
-    "Masturbate" ""
-
-# WarriorPath4_57be9749 (line 41257)
-translate ru WarriorPath4_57be9749:
-    # "Go to sleep"
-    "Go to sleep" ""
 

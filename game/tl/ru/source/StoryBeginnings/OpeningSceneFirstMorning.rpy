@@ -31,7 +31,7 @@ translate ru OpeningSceneFirstMorning_2fad5e88:
 # OpeningSceneFirstMorning_d3280918 (line 799)
 translate ru OpeningSceneFirstMorning_d3280918:
     # t "So busy."
-    t ""
+    t "So busy."
 
 # OpeningSceneFirstMorning_0e476787 (line 800)
 translate ru OpeningSceneFirstMorning_0e476787:
@@ -41,22 +41,22 @@ translate ru OpeningSceneFirstMorning_0e476787:
 # OpeningSceneFirstMorning_db4975ce (line 801)
 translate ru OpeningSceneFirstMorning_db4975ce:
     # s "At least you managed to get here in time."
-    s ""
+    s "At least you managed to get here in time."
 
 # OpeningSceneFirstMorning_2884d784 (line 802)
 translate ru OpeningSceneFirstMorning_2884d784:
     # t "Yes, a certain someone gave me some advice. Said I should put in more of an effort."
-    t ""
+    t "Yes, a certain someone gave me some advice. Said I should put in more of an effort."
 
 # OpeningSceneFirstMorning_b3d80aa6 (line 803)
 translate ru OpeningSceneFirstMorning_b3d80aa6:
     # s "Sounds like a smart person."
-    s ""
+    s "Sounds like a smart person."
 
 # OpeningSceneFirstMorning_f14457ae (line 804)
 translate ru OpeningSceneFirstMorning_f14457ae:
     # t "She likes to think she is."
-    t ""
+    t "She likes to think she is."
 
 # OpeningSceneFirstMorning_3ebcfdb6 (line 805)
 translate ru OpeningSceneFirstMorning_3ebcfdb6:
@@ -121,7 +121,7 @@ translate ru OpeningSceneFirstMorning_aa679935:
 # OpeningSceneFirstMorning_5c62e1ac (line 830)
 translate ru OpeningSceneFirstMorning_5c62e1ac:
     # m "Prince Thomas, Princess Sarah."
-    m ""
+    m "Prince Thomas, Princess Sarah."
 
 # OpeningSceneFirstMorning_2a1c123f (line 831)
 translate ru OpeningSceneFirstMorning_2a1c123f:
@@ -136,7 +136,7 @@ translate ru OpeningSceneFirstMorning_82abc82d:
 # OpeningSceneFirstMorning_1c248923 (line 834)
 translate ru OpeningSceneFirstMorning_1c248923:
     # s "Good to see you, Marion. I hope your travels went well."
-    s ""
+    s "Good to see you, Marion. I hope your travels went well."
 
 # OpeningSceneFirstMorning_c4486279 (line 835)
 translate ru OpeningSceneFirstMorning_c4486279:
@@ -146,22 +146,22 @@ translate ru OpeningSceneFirstMorning_c4486279:
 # OpeningSceneFirstMorning_75874051 (line 836)
 translate ru OpeningSceneFirstMorning_75874051:
     # m "As well as was to be expected. I'm just glad to be back here in the capital. Travelling with your father to the Eastern districts has been exhausting."
-    m ""
+    m "As well as was to be expected. I'm just glad to be back here in the capital. Travelling with your father to the Eastern districts has been exhausting."
 
 # OpeningSceneFirstMorning_230a3d1b (line 837)
 translate ru OpeningSceneFirstMorning_230a3d1b:
     # s "How so?"
-    s ""
+    s "How so?"
 
 # OpeningSceneFirstMorning_9c11562a (line 839)
 translate ru OpeningSceneFirstMorning_9c11562a:
     # m "Every day, the same endless stream of meetings. Everyone wanting something. Just one dull face after the other. It makes you feel like a bookkeeper."
-    m ""
+    m "Every day, the same endless stream of meetings. Everyone wanting something. Just one dull face after the other. It makes you feel like a bookkeeper."
 
 # OpeningSceneFirstMorning_6b27cc31 (line 840)
 translate ru OpeningSceneFirstMorning_6b27cc31:
     # m "Not to mention, after months of being on the road, you begin to miss the luxuries of the capital. You wouldn't serve up their idea of fine dining to a dog. But, we manage."
-    m ""
+    m "Not to mention, after months of being on the road, you begin to miss the luxuries of the capital. You wouldn't serve up their idea of fine dining to a dog. But, we manage."
 
 # OpeningSceneFirstMorning_02d5404b (line 841)
 translate ru OpeningSceneFirstMorning_02d5404b:
@@ -176,7 +176,7 @@ translate ru OpeningSceneFirstMorning_7ba3680b:
 # OpeningSceneFirstMorning_f0c47810 (line 847)
 translate ru OpeningSceneFirstMorning_f0c47810:
     # m "Excuse me, Prince, Princess. Duty calls."
-    m ""
+    m "Excuse me, Prince, Princess. Duty calls."
 
 # OpeningSceneFirstMorning_6a04b6db (line 848)
 translate ru OpeningSceneFirstMorning_6a04b6db:
@@ -186,7 +186,7 @@ translate ru OpeningSceneFirstMorning_6a04b6db:
 # OpeningSceneFirstMorning_659721c5 (line 850)
 translate ru OpeningSceneFirstMorning_659721c5:
     # t "Ugh, I can't stand the guy."
-    t ""
+    t "Ugh, I can't stand the guy."
 
 # OpeningSceneFirstMorning_ed657773 (line 856)
 translate ru OpeningSceneFirstMorning_ed657773:
@@ -196,22 +196,22 @@ translate ru OpeningSceneFirstMorning_ed657773:
 # OpeningSceneFirstMorning_943f6582 (line 857)
 translate ru OpeningSceneFirstMorning_943f6582:
     # s "He can be a bit much, but his family is important, so that makes him important."
-    s ""
+    s "He can be a bit much, but his family is important, so that makes him important."
 
 # OpeningSceneFirstMorning_45b2c66b (line 858)
 translate ru OpeningSceneFirstMorning_45b2c66b:
     # s "You should remember to keep him as a friend."
-    s ""
+    s "You should remember to keep him as a friend."
 
 # OpeningSceneFirstMorning_919da979 (line 859)
 translate ru OpeningSceneFirstMorning_919da979:
     # t "When I'm king, shouldn't he want to be my friend?"
-    t ""
+    t "When I'm king, shouldn't he want to be my friend?"
 
 # OpeningSceneFirstMorning_c81d6968 (line 860)
 translate ru OpeningSceneFirstMorning_c81d6968:
     # s "You'll only be king when enough people like him agree that you are. A king sits atop a mountain. Only when the base holds, does the peak."
-    s ""
+    s "You'll only be king when enough people like him agree that you are. A king sits atop a mountain. Only when the base holds, does the peak."
 
 # OpeningSceneFirstMorning_1b0ce863 (line 861)
 translate ru OpeningSceneFirstMorning_1b0ce863:
@@ -221,17 +221,17 @@ translate ru OpeningSceneFirstMorning_1b0ce863:
 # OpeningSceneFirstMorning_b461f110 (line 862)
 translate ru OpeningSceneFirstMorning_b461f110:
     # t "You sound like Father."
-    t ""
+    t "You sound like Father."
 
 # OpeningSceneFirstMorning_0cae847c (line 863)
 translate ru OpeningSceneFirstMorning_0cae847c:
     # s "That doesn't mean I'm not right."
-    s ""
+    s "That doesn't mean I'm not right."
 
 # OpeningSceneFirstMorning_2627eaa0 (line 864)
 translate ru OpeningSceneFirstMorning_2627eaa0:
     # s "Besides, have you seen Father yet?"
-    s ""
+    s "Besides, have you seen Father yet?"
 
 # OpeningSceneFirstMorning_b1d8d66b (line 865)
 translate ru OpeningSceneFirstMorning_b1d8d66b:
@@ -321,7 +321,7 @@ translate ru OpeningSceneFirstMorning_8192237e:
 # OpeningSceneFirstMorning_a9296d9f (line 914)
 translate ru OpeningSceneFirstMorning_a9296d9f:
     # s "Father..."
-    s ""
+    s "Father..."
 
 # OpeningSceneFirstMorning_bff00620 (line 915)
 translate ru OpeningSceneFirstMorning_bff00620:
@@ -351,7 +351,7 @@ translate ru OpeningSceneFirstMorning_6b3808bf:
 # OpeningSceneFirstMorning_d2c8d276 (line 925)
 translate ru OpeningSceneFirstMorning_d2c8d276:
     # s "Wake up Father, please."
-    s ""
+    s "Wake up Father, please."
 
 # OpeningSceneFirstMorning_ffe929c9 (line 926)
 translate ru OpeningSceneFirstMorning_ffe929c9:

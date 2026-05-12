@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TheHollowWorldWarrior6
-# Total blocks: 335
+# Total blocks: 323
 
 # TheHollowWorldWarrior6_cd06159c (line 43541)
 translate ru TheHollowWorldWarrior6_cd06159c:
@@ -131,7 +131,7 @@ translate ru TheHollowWorldWarrior6_9defc51f:
 # TheHollowWorldWarrior6_e6f8f5b8 (line 43579)
 translate ru TheHollowWorldWarrior6_e6f8f5b8:
     # s "Commander Vaelen."
-    s ""
+    s "Commander Vaelen."
 
 # TheHollowWorldWarrior6_b3d4abf8 (line 43580)
 translate ru TheHollowWorldWarrior6_b3d4abf8:
@@ -141,7 +141,7 @@ translate ru TheHollowWorldWarrior6_b3d4abf8:
 # TheHollowWorldWarrior6_1e049a3b (line 43581)
 translate ru TheHollowWorldWarrior6_1e049a3b:
     # vae "You're here, finally. Give me the status on our supplies."
-    vae ""
+    vae "You're here, finally. Give me the status on our supplies."
 
 # TheHollowWorldWarrior6_52e45376 (line 43582)
 translate ru TheHollowWorldWarrior6_52e45376:
@@ -151,7 +151,7 @@ translate ru TheHollowWorldWarrior6_52e45376:
 # TheHollowWorldWarrior6_debd9393 (line 43583)
 translate ru TheHollowWorldWarrior6_debd9393:
     # s "We've handed down orders to further reduce rations, but the most recent reports seem to suggest these are not having much of an effect."
-    s ""
+    s "We've handed down orders to further reduce rations, but the most recent reports seem to suggest these are not having much of an effect."
 
 # TheHollowWorldWarrior6_4f2c9f2a (line 43584)
 translate ru TheHollowWorldWarrior6_4f2c9f2a:
@@ -161,7 +161,7 @@ translate ru TheHollowWorldWarrior6_4f2c9f2a:
 # TheHollowWorldWarrior6_7b2c7c83 (line 43585)
 translate ru TheHollowWorldWarrior6_7b2c7c83:
     # vae "How do you mean? How can the reduced rations have no effect?"
-    vae ""
+    vae "How do you mean? How can the reduced rations have no effect?"
 
 # TheHollowWorldWarrior6_af70d7a5 (line 43586)
 translate ru TheHollowWorldWarrior6_af70d7a5:
@@ -171,12 +171,12 @@ translate ru TheHollowWorldWarrior6_af70d7a5:
 # TheHollowWorldWarrior6_814f6f51 (line 43587)
 translate ru TheHollowWorldWarrior6_814f6f51:
     # s "The most likely cause is a further collapse of discipline."
-    s ""
+    s "The most likely cause is a further collapse of discipline."
 
 # TheHollowWorldWarrior6_42113c69 (line 43588)
 translate ru TheHollowWorldWarrior6_42113c69:
     # s "We've begun to suspect that officers are refusing to carry out accurate supply counts, handing out more rations than instructed while fabricating their reports to us."
-    s ""
+    s "We've begun to suspect that officers are refusing to carry out accurate supply counts, handing out more rations than instructed while fabricating their reports to us."
 
 # TheHollowWorldWarrior6_0b69d79e (line 43589)
 translate ru TheHollowWorldWarrior6_0b69d79e:
@@ -186,12 +186,12 @@ translate ru TheHollowWorldWarrior6_0b69d79e:
 # TheHollowWorldWarrior6_bed72625 (line 43590)
 translate ru TheHollowWorldWarrior6_bed72625:
     # vae "Then have them whipped if that's what it takes."
-    vae ""
+    vae "Then have them whipped if that's what it takes."
 
 # TheHollowWorldWarrior6_c1617d12 (line 43591)
 translate ru TheHollowWorldWarrior6_c1617d12:
     # vae "We're in the middle of a desert. If we allow morale to breakdown here, it's all over."
-    vae ""
+    vae "We're in the middle of a desert. If we allow morale to breakdown here, it's all over."
 
 # TheHollowWorldWarrior6_de28e0eb (line 43592)
 translate ru TheHollowWorldWarrior6_de28e0eb:
@@ -201,7 +201,7 @@ translate ru TheHollowWorldWarrior6_de28e0eb:
 # TheHollowWorldWarrior6_0354ae08 (line 43593)
 translate ru TheHollowWorldWarrior6_0354ae08:
     # s "I understand, but that's exactly what the officers are trying to do."
-    s ""
+    s "I understand, but that's exactly what the officers are trying to do."
 
 # TheHollowWorldWarrior6_645eb559 (line 43594)
 translate ru TheHollowWorldWarrior6_645eb559:
@@ -211,32 +211,32 @@ translate ru TheHollowWorldWarrior6_645eb559:
 # TheHollowWorldWarrior6_1d7b46cc (line 43595)
 translate ru TheHollowWorldWarrior6_1d7b46cc:
     # vae "How do you mean?"
-    vae ""
+    vae "How do you mean?"
 
 # TheHollowWorldWarrior6_512f571d (line 43596)
 translate ru TheHollowWorldWarrior6_512f571d:
     # s "They officers work most directly with their own units. They see their own men every day."
-    s ""
+    s "They officers work most directly with their own units. They see their own men every day."
 
 # TheHollowWorldWarrior6_3a17b67d (line 43597)
 translate ru TheHollowWorldWarrior6_3a17b67d:
     # s "They understand that morale is breaking down as a result of forced marches and increasingly strict rations."
-    s ""
+    s "They understand that morale is breaking down as a result of forced marches and increasingly strict rations."
 
 # TheHollowWorldWarrior6_549e30d9 (line 43598)
 translate ru TheHollowWorldWarrior6_549e30d9:
     # s "They want to maintain good relations with their soldiers, so they break the rules and give out more than they should."
-    s ""
+    s "They want to maintain good relations with their soldiers, so they break the rules and give out more than they should."
 
 # TheHollowWorldWarrior6_2a4334af (line 43599)
 translate ru TheHollowWorldWarrior6_2a4334af:
     # s "We can snap the whip on them, force them to follow the new guidelines, but this won't increase morale. It is likely to the opposite."
-    s ""
+    s "We can snap the whip on them, force them to follow the new guidelines, but this won't increase morale. It is likely to the opposite."
 
 # TheHollowWorldWarrior6_ee322619 (line 43600)
 translate ru TheHollowWorldWarrior6_ee322619:
     # s "The men are already close to starving, and not only that, we are still forcing them on long daily marches that require the opposite of rations. The men should be eating more than usual."
-    s ""
+    s "The men are already close to starving, and not only that, we are still forcing them on long daily marches that require the opposite of rations. The men should be eating more than usual."
 
 # TheHollowWorldWarrior6_9bc03846 (line 43601)
 translate ru TheHollowWorldWarrior6_9bc03846:
@@ -246,12 +246,12 @@ translate ru TheHollowWorldWarrior6_9bc03846:
 # TheHollowWorldWarrior6_8af37b7c (line 43602)
 translate ru TheHollowWorldWarrior6_8af37b7c:
     # vae "And if we give them more, and we run out, we'll all starve out here."
-    vae ""
+    vae "And if we give them more, and we run out, we'll all starve out here."
 
 # TheHollowWorldWarrior6_9df95a49 (line 43603)
 translate ru TheHollowWorldWarrior6_9df95a49:
     # s "That wouldn't have been a problem if we had reached our destination by now."
-    s ""
+    s "That wouldn't have been a problem if we had reached our destination by now."
 
 # TheHollowWorldWarrior6_0e861f6e (line 43604)
 translate ru TheHollowWorldWarrior6_0e861f6e:
@@ -261,7 +261,7 @@ translate ru TheHollowWorldWarrior6_0e861f6e:
 # TheHollowWorldWarrior6_603b2672 (line 43605)
 translate ru TheHollowWorldWarrior6_603b2672:
     # vae "You mean to suggest anything, Sarah?"
-    vae ""
+    vae "You mean to suggest anything, Sarah?"
 
 # TheHollowWorldWarrior6_01bdc823 (line 43606)
 translate ru TheHollowWorldWarrior6_01bdc823:
@@ -271,17 +271,17 @@ translate ru TheHollowWorldWarrior6_01bdc823:
 # TheHollowWorldWarrior6_0cc74d73 (line 43607)
 translate ru TheHollowWorldWarrior6_0cc74d73:
     # s "No, commander, but the truth is that even by the most negative estimates...we should have arrived by now."
-    s ""
+    s "No, commander, but the truth is that even by the most negative estimates...we should have arrived by now."
 
 # TheHollowWorldWarrior6_aa1ca513 (line 43608)
 translate ru TheHollowWorldWarrior6_aa1ca513:
     # s "Perhaps we have been marching off course....perhaps we have marched past the city...I don't know, but we should have come across it by now."
-    s ""
+    s "Perhaps we have been marching off course....perhaps we have marched past the city...I don't know, but we should have come across it by now."
 
 # TheHollowWorldWarrior6_04c0f68e (line 43609)
 translate ru TheHollowWorldWarrior6_04c0f68e:
     # s "That city...the Mythran army there, they are our only real way out of this mess."
-    s ""
+    s "That city...the Mythran army there, they are our only real way out of this mess."
 
 # TheHollowWorldWarrior6_205866af (line 43610)
 translate ru TheHollowWorldWarrior6_205866af:
@@ -291,12 +291,12 @@ translate ru TheHollowWorldWarrior6_205866af:
 # TheHollowWorldWarrior6_391a5671 (line 43611)
 translate ru TheHollowWorldWarrior6_391a5671:
     # vae "Yes, I am aware."
-    vae ""
+    vae "Yes, I am aware."
 
 # TheHollowWorldWarrior6_01499128 (line 43612)
 translate ru TheHollowWorldWarrior6_01499128:
     # vae "But the map..."
-    vae ""
+    vae "But the map..."
 
 # TheHollowWorldWarrior6_316ba404 (line 43613)
 translate ru TheHollowWorldWarrior6_316ba404:
@@ -306,12 +306,12 @@ translate ru TheHollowWorldWarrior6_316ba404:
 # TheHollowWorldWarrior6_5dc75777 (line 43614)
 translate ru TheHollowWorldWarrior6_5dc75777:
     # vae "We should reach it...soon."
-    vae ""
+    vae "We should reach it...soon."
 
 # TheHollowWorldWarrior6_07bd4753 (line 43615)
 translate ru TheHollowWorldWarrior6_07bd4753:
     # s "How certain can we be?"
-    s ""
+    s "How certain can we be?"
 
 # TheHollowWorldWarrior6_ab9e7897 (line 43616)
 translate ru TheHollowWorldWarrior6_ab9e7897:
@@ -321,7 +321,7 @@ translate ru TheHollowWorldWarrior6_ab9e7897:
 # TheHollowWorldWarrior6_bc87dfad (line 43617)
 translate ru TheHollowWorldWarrior6_bc87dfad:
     # vae "It's...one...perhaps two weeks, at most."
-    vae ""
+    vae "It's...one...perhaps two weeks, at most."
 
 # TheHollowWorldWarrior6_f8810cfc (line 43618)
 translate ru TheHollowWorldWarrior6_f8810cfc:
@@ -331,17 +331,17 @@ translate ru TheHollowWorldWarrior6_f8810cfc:
 # TheHollowWorldWarrior6_32c66a58 (line 43619)
 translate ru TheHollowWorldWarrior6_32c66a58:
     # g "That's not possible, commander."
-    g ""
+    g "That's not possible, commander."
 
 # TheHollowWorldWarrior6_1f9dd785 (line 43620)
 translate ru TheHollowWorldWarrior6_1f9dd785:
     # g "Our food supplies are low, but with the recent disaster on our water cart, the water supplies are even lower."
-    g ""
+    g "Our food supplies are low, but with the recent disaster on our water cart, the water supplies are even lower."
 
 # TheHollowWorldWarrior6_c2524c0b (line 43621)
 translate ru TheHollowWorldWarrior6_c2524c0b:
     # g "We have days left of water, not weeks."
-    g ""
+    g "We have days left of water, not weeks."
 
 # TheHollowWorldWarrior6_67169891 (line 43622)
 translate ru TheHollowWorldWarrior6_67169891:
@@ -351,12 +351,12 @@ translate ru TheHollowWorldWarrior6_67169891:
 # TheHollowWorldWarrior6_b81f4e45 (line 43623)
 translate ru TheHollowWorldWarrior6_b81f4e45:
     # vae "Your job is to solve my problems, not regurgitate them back to me."
-    vae ""
+    vae "Your job is to solve my problems, not regurgitate them back to me."
 
 # TheHollowWorldWarrior6_edf6c43f (line 43624)
 translate ru TheHollowWorldWarrior6_edf6c43f:
     # vae "You've handed down the orders, not see to it that they are enforced. By whatever means necessary."
-    vae ""
+    vae "You've handed down the orders, not see to it that they are enforced. By whatever means necessary."
 
 # TheHollowWorldWarrior6_63d2a7f6 (line 43625)
 translate ru TheHollowWorldWarrior6_63d2a7f6:
@@ -366,7 +366,7 @@ translate ru TheHollowWorldWarrior6_63d2a7f6:
 # TheHollowWorldWarrior6_5191bbd8 (line 43626)
 translate ru TheHollowWorldWarrior6_5191bbd8:
     # g "Yes, commander."
-    g ""
+    g "Yes, commander."
 
 # TheHollowWorldWarrior6_d84ff3d3 (line 43627)
 translate ru TheHollowWorldWarrior6_d84ff3d3:
@@ -376,7 +376,7 @@ translate ru TheHollowWorldWarrior6_d84ff3d3:
 # TheHollowWorldWarrior6_3a2e6119 (line 43629)
 translate ru TheHollowWorldWarrior6_3a2e6119:
     # s "You should know that he does his best, given the circumstances."
-    s ""
+    s "You should know that he does his best, given the circumstances."
 
 # TheHollowWorldWarrior6_0e07e98e (line 43630)
 translate ru TheHollowWorldWarrior6_0e07e98e:
@@ -386,7 +386,7 @@ translate ru TheHollowWorldWarrior6_0e07e98e:
 # TheHollowWorldWarrior6_f551ea50 (line 43631)
 translate ru TheHollowWorldWarrior6_f551ea50:
     # vae "He's a man, if he wants to complain about how I run things, he can talk to me myself. He doesn't need you to speak for him."
-    vae ""
+    vae "He's a man, if he wants to complain about how I run things, he can talk to me myself. He doesn't need you to speak for him."
 
 # TheHollowWorldWarrior6_bf38a81f (line 43632)
 translate ru TheHollowWorldWarrior6_bf38a81f:
@@ -406,17 +406,17 @@ translate ru TheHollowWorldWarrior6_712f3d5a:
 # TheHollowWorldWarrior6_a9144ced (line 43635)
 translate ru TheHollowWorldWarrior6_a9144ced:
     # s "You had best start paying attention to the world outside of your maps and reports."
-    s ""
+    s "You had best start paying attention to the world outside of your maps and reports."
 
 # TheHollowWorldWarrior6_b0b1f85d (line 43636)
 translate ru TheHollowWorldWarrior6_b0b1f85d:
     # s "This company is coming apart at the seams, and the only instruction you're able to hand down is to whip people until they do as you say."
-    s ""
+    s "This company is coming apart at the seams, and the only instruction you're able to hand down is to whip people until they do as you say."
 
 # TheHollowWorldWarrior6_f8624702 (line 43637)
 translate ru TheHollowWorldWarrior6_f8624702:
     # s "You used to know what it took to lead, but ever since Bagrad you've become distracted."
-    s ""
+    s "You used to know what it took to lead, but ever since Bagrad you've become distracted."
 
 # TheHollowWorldWarrior6_a14babe2 (line 43638)
 translate ru TheHollowWorldWarrior6_a14babe2:
@@ -426,27 +426,27 @@ translate ru TheHollowWorldWarrior6_a14babe2:
 # TheHollowWorldWarrior6_b023f71a (line 43639)
 translate ru TheHollowWorldWarrior6_b023f71a:
     # vae "Are you questioning my leadership as well now?"
-    vae ""
+    vae "Are you questioning my leadership as well now?"
 
 # TheHollowWorldWarrior6_e8c5bb1e (line 43640)
 translate ru TheHollowWorldWarrior6_e8c5bb1e:
     # vae "Because there have been others before you, and there will be others after you if you continue this."
-    vae ""
+    vae "Because there have been others before you, and there will be others after you if you continue this."
 
 # TheHollowWorldWarrior6_7efd8504 (line 43641)
 translate ru TheHollowWorldWarrior6_7efd8504:
     # vae "This company is at the most critical moment in its existence."
-    vae ""
+    vae "This company is at the most critical moment in its existence."
 
 # TheHollowWorldWarrior6_d739a389 (line 43642)
 translate ru TheHollowWorldWarrior6_d739a389:
     # vae "We either come apart here and lose everything, or we hold on, just for a moment longer, and reach the other side of this desert."
-    vae ""
+    vae "We either come apart here and lose everything, or we hold on, just for a moment longer, and reach the other side of this desert."
 
 # TheHollowWorldWarrior6_b71a4907 (line 43643)
 translate ru TheHollowWorldWarrior6_b71a4907:
     # vae "And once we do, all these problems that people are making out to be so big, will fade away."
-    vae ""
+    vae "And once we do, all these problems that people are making out to be so big, will fade away."
 
 # TheHollowWorldWarrior6_a9dd8600 (line 43644)
 translate ru TheHollowWorldWarrior6_a9dd8600:
@@ -456,12 +456,12 @@ translate ru TheHollowWorldWarrior6_a9dd8600:
 # TheHollowWorldWarrior6_2194005e (line 43645)
 translate ru TheHollowWorldWarrior6_2194005e:
     # vae "Now, go out there, and find whatever way you need to get this company moving tomorrow, and the day after, until we get to our destination."
-    vae ""
+    vae "Now, go out there, and find whatever way you need to get this company moving tomorrow, and the day after, until we get to our destination."
 
 # TheHollowWorldWarrior6_097aabae (line 43646)
 translate ru TheHollowWorldWarrior6_097aabae:
     # vae "Am I clear enough?"
-    vae ""
+    vae "Am I clear enough?"
 
 # TheHollowWorldWarrior6_2cc81582 (line 43647)
 translate ru TheHollowWorldWarrior6_2cc81582:
@@ -476,7 +476,7 @@ translate ru TheHollowWorldWarrior6_37175cf9:
 # TheHollowWorldWarrior6_b5c0b61a (line 43649)
 translate ru TheHollowWorldWarrior6_b5c0b61a:
     # s "Yes, commander."
-    s ""
+    s "Yes, commander."
 
 # TheHollowWorldWarrior6_7cf76c08 (line 43650)
 translate ru TheHollowWorldWarrior6_7cf76c08:
@@ -491,7 +491,7 @@ translate ru TheHollowWorldWarrior6_442d157f:
 # TheHollowWorldWarrior6_9bd819f7 (line 43661)
 translate ru TheHollowWorldWarrior6_9bd819f7:
     # s "Shouldn't you be doing as you were told?"
-    s ""
+    s "Shouldn't you be doing as you were told?"
 
 # TheHollowWorldWarrior6_3a0842a5 (line 43662)
 translate ru TheHollowWorldWarrior6_3a0842a5:
@@ -501,7 +501,7 @@ translate ru TheHollowWorldWarrior6_3a0842a5:
 # TheHollowWorldWarrior6_9666fea0 (line 43663)
 translate ru TheHollowWorldWarrior6_9666fea0:
     # g "About as much as you should be doing as you were told."
-    g ""
+    g "About as much as you should be doing as you were told."
 
 # TheHollowWorldWarrior6_ab869065 (line 43664)
 translate ru TheHollowWorldWarrior6_ab869065:
@@ -511,12 +511,12 @@ translate ru TheHollowWorldWarrior6_ab869065:
 # TheHollowWorldWarrior6_c334008e (line 43665)
 translate ru TheHollowWorldWarrior6_c334008e:
     # s "Treason, Gideon, treason."
-    s ""
+    s "Treason, Gideon, treason."
 
 # TheHollowWorldWarrior6_20448ba4 (line 43666)
 translate ru TheHollowWorldWarrior6_20448ba4:
     # g "Sure, mayba you're right. Let's go for a walk before I get the rope."
-    g ""
+    g "Sure, mayba you're right. Let's go for a walk before I get the rope."
 
 # TheHollowWorldWarrior6_d76e7ce1 (line 43667)
 translate ru TheHollowWorldWarrior6_d76e7ce1:
@@ -526,7 +526,7 @@ translate ru TheHollowWorldWarrior6_d76e7ce1:
 # TheHollowWorldWarrior6_15fcc30f (line 43668)
 translate ru TheHollowWorldWarrior6_15fcc30f:
     # s "Sure, let's walk."
-    s ""
+    s "Sure, let's walk."
 
 # TheHollowWorldWarrior6_e395dfae (line 43675)
 translate ru TheHollowWorldWarrior6_e395dfae:
@@ -561,7 +561,7 @@ translate ru TheHollowWorldWarrior6_cce325cc:
 # TheHollowWorldWarrior6_547cb454 (line 43681)
 translate ru TheHollowWorldWarrior6_547cb454:
     # g "So, what do we do?"
-    g ""
+    g "So, what do we do?"
 
 # TheHollowWorldWarrior6_f58d936e (line 43682)
 translate ru TheHollowWorldWarrior6_f58d936e:
@@ -571,7 +571,7 @@ translate ru TheHollowWorldWarrior6_f58d936e:
 # TheHollowWorldWarrior6_30622f58 (line 43683)
 translate ru TheHollowWorldWarrior6_30622f58:
     # s "Probably what he told us to do..."
-    s ""
+    s "Probably what he told us to do..."
 
 # TheHollowWorldWarrior6_9cab5179 (line 43684)
 translate ru TheHollowWorldWarrior6_9cab5179:
@@ -581,12 +581,12 @@ translate ru TheHollowWorldWarrior6_9cab5179:
 # TheHollowWorldWarrior6_da51192a (line 43685)
 translate ru TheHollowWorldWarrior6_da51192a:
     # g "This is bullshit."
-    g ""
+    g "This is bullshit."
 
 # TheHollowWorldWarrior6_322fbc93 (line 43686)
 translate ru TheHollowWorldWarrior6_322fbc93:
     # g "If I press down on my men any harder, they're going to turn on me."
-    g ""
+    g "If I press down on my men any harder, they're going to turn on me."
 
 # TheHollowWorldWarrior6_5b5e4f16 (line 43687)
 translate ru TheHollowWorldWarrior6_5b5e4f16:
@@ -596,7 +596,7 @@ translate ru TheHollowWorldWarrior6_5b5e4f16:
 # TheHollowWorldWarrior6_af1c1687 (line 43688)
 translate ru TheHollowWorldWarrior6_af1c1687:
     # g "He's lost it, don't tell me I'm the only one that sees it."
-    g ""
+    g "He's lost it, don't tell me I'm the only one that sees it."
 
 # TheHollowWorldWarrior6_a26d1db8 (line 43689)
 translate ru TheHollowWorldWarrior6_a26d1db8:
@@ -606,12 +606,12 @@ translate ru TheHollowWorldWarrior6_a26d1db8:
 # TheHollowWorldWarrior6_2a079988 (line 43690)
 translate ru TheHollowWorldWarrior6_2a079988:
     # s "You're not wrong, but he's still the one in charge of this company."
-    s ""
+    s "You're not wrong, but he's still the one in charge of this company."
 
 # TheHollowWorldWarrior6_f2a987f3 (line 43691)
 translate ru TheHollowWorldWarrior6_f2a987f3:
     # g "Well, maybe that should change."
-    g ""
+    g "Well, maybe that should change."
 
 # TheHollowWorldWarrior6_77c16909 (line 43692)
 translate ru TheHollowWorldWarrior6_77c16909:
@@ -621,7 +621,7 @@ translate ru TheHollowWorldWarrior6_77c16909:
 # TheHollowWorldWarrior6_6115ceab (line 43693)
 translate ru TheHollowWorldWarrior6_6115ceab:
     # s "Don't ever repeat that to anyone, do you understand?"
-    s ""
+    s "Don't ever repeat that to anyone, do you understand?"
 
 # TheHollowWorldWarrior6_053a322f (line 43694)
 translate ru TheHollowWorldWarrior6_053a322f:
@@ -631,17 +631,17 @@ translate ru TheHollowWorldWarrior6_053a322f:
 # TheHollowWorldWarrior6_910ff58a (line 43695)
 translate ru TheHollowWorldWarrior6_910ff58a:
     # g "I was just talking."
-    g ""
+    g "I was just talking."
 
 # TheHollowWorldWarrior6_b2a14da3 (line 43696)
 translate ru TheHollowWorldWarrior6_b2a14da3:
     # s "Well, that's the kind of talk that gets you killed. And don't think he's not the kind of man to do it either."
-    s ""
+    s "Well, that's the kind of talk that gets you killed. And don't think he's not the kind of man to do it either."
 
 # TheHollowWorldWarrior6_529ada4f (line 43697)
 translate ru TheHollowWorldWarrior6_529ada4f:
     # s "There have been others over the years, too ambitious, too hungry, and they've all met the same fate."
-    s ""
+    s "There have been others over the years, too ambitious, too hungry, and they've all met the same fate."
 
 # TheHollowWorldWarrior6_8a4f2a5d (line 43698)
 translate ru TheHollowWorldWarrior6_8a4f2a5d:
@@ -651,12 +651,12 @@ translate ru TheHollowWorldWarrior6_8a4f2a5d:
 # TheHollowWorldWarrior6_cba4e6f2 (line 43699)
 translate ru TheHollowWorldWarrior6_cba4e6f2:
     # g "So what?"
-    g ""
+    g "So what?"
 
 # TheHollowWorldWarrior6_4bd7de8f (line 43700)
 translate ru TheHollowWorldWarrior6_4bd7de8f:
     # g "Just keep marching till we die?"
-    g ""
+    g "Just keep marching till we die?"
 
 # TheHollowWorldWarrior6_9f3b4d69 (line 43701)
 translate ru TheHollowWorldWarrior6_9f3b4d69:
@@ -666,12 +666,12 @@ translate ru TheHollowWorldWarrior6_9f3b4d69:
 # TheHollowWorldWarrior6_873d9a49 (line 43702)
 translate ru TheHollowWorldWarrior6_873d9a49:
     # s "What else do you suggest we do?"
-    s ""
+    s "What else do you suggest we do?"
 
 # TheHollowWorldWarrior6_ae46cd09 (line 43703)
 translate ru TheHollowWorldWarrior6_ae46cd09:
     # s "Turning back now...we don't have the supplies to survive the trip back. Even if we did, we have no idea what would even be left of Bagrad."
-    s ""
+    s "Turning back now...we don't have the supplies to survive the trip back. Even if we did, we have no idea what would even be left of Bagrad."
 
 # TheHollowWorldWarrior6_4b51638a (line 43704)
 translate ru TheHollowWorldWarrior6_4b51638a:
@@ -681,17 +681,17 @@ translate ru TheHollowWorldWarrior6_4b51638a:
 # TheHollowWorldWarrior6_3df5b5ec (line 43705)
 translate ru TheHollowWorldWarrior6_3df5b5ec:
     # s "The only chance we have is reaching Nauyziri. If there really is a Mythran outpost there...with food and water...we stand a chance."
-    s ""
+    s "The only chance we have is reaching Nauyziri. If there really is a Mythran outpost there...with food and water...we stand a chance."
 
 # TheHollowWorldWarrior6_e85dcb8b (line 43706)
 translate ru TheHollowWorldWarrior6_e85dcb8b:
     # g "And what if its all bullshit?"
-    g ""
+    g "And what if its all bullshit?"
 
 # TheHollowWorldWarrior6_5c55c3bb (line 43707)
 translate ru TheHollowWorldWarrior6_5c55c3bb:
     # g "What if nothing is out there?"
-    g ""
+    g "What if nothing is out there?"
 
 # TheHollowWorldWarrior6_5e3d237c (line 43708)
 translate ru TheHollowWorldWarrior6_5e3d237c:
@@ -701,7 +701,7 @@ translate ru TheHollowWorldWarrior6_5e3d237c:
 # TheHollowWorldWarrior6_c04cbf22 (line 43709)
 translate ru TheHollowWorldWarrior6_c04cbf22:
     # s "I have to believe that there is. It's our only hope."
-    s ""
+    s "I have to believe that there is. It's our only hope."
 
 # TheHollowWorldWarrior6_455c908b (line 43710)
 translate ru TheHollowWorldWarrior6_455c908b:
@@ -711,12 +711,12 @@ translate ru TheHollowWorldWarrior6_455c908b:
 # TheHollowWorldWarrior6_4dbb8f7a (line 43711)
 translate ru TheHollowWorldWarrior6_4dbb8f7a:
     # g "Great."
-    g ""
+    g "Great."
 
 # TheHollowWorldWarrior6_3cc46bf2 (line 43712)
 translate ru TheHollowWorldWarrior6_3cc46bf2:
     # g "So that's what it's all come down to. Hope and a prayer."
-    g ""
+    g "So that's what it's all come down to. Hope and a prayer."
 
 # TheHollowWorldWarrior6_618a461b (line 43713)
 translate ru TheHollowWorldWarrior6_618a461b:
@@ -726,7 +726,7 @@ translate ru TheHollowWorldWarrior6_618a461b:
 # TheHollowWorldWarrior6_bba88660 (line 43714)
 translate ru TheHollowWorldWarrior6_bba88660:
     # s "I've had worse."
-    s ""
+    s "I've had worse."
 
 # TheHollowWorldWarrior6_fe03e96c (line 43715)
 translate ru TheHollowWorldWarrior6_fe03e96c:
@@ -736,7 +736,7 @@ translate ru TheHollowWorldWarrior6_fe03e96c:
 # TheHollowWorldWarrior6_bbfd6bf5 (line 43716)
 translate ru TheHollowWorldWarrior6_bbfd6bf5:
     # g "I like to think that I have a good read on most people, but I'll be honest, I don't think I've ever figured you out."
-    g ""
+    g "I like to think that I have a good read on most people, but I'll be honest, I don't think I've ever figured you out."
 
 # TheHollowWorldWarrior6_ed8eaab0 (line 43717)
 translate ru TheHollowWorldWarrior6_ed8eaab0:
@@ -746,7 +746,7 @@ translate ru TheHollowWorldWarrior6_ed8eaab0:
 # TheHollowWorldWarrior6_2bdb3730 (line 43718)
 translate ru TheHollowWorldWarrior6_2bdb3730:
     # s "Maybe you're not as clever as you think."
-    s ""
+    s "Maybe you're not as clever as you think."
 
 # TheHollowWorldWarrior6_4785fd34 (line 43719)
 translate ru TheHollowWorldWarrior6_4785fd34:
@@ -756,22 +756,22 @@ translate ru TheHollowWorldWarrior6_4785fd34:
 # TheHollowWorldWarrior6_d475a49f (line 43720)
 translate ru TheHollowWorldWarrior6_d475a49f:
     # g "That's definitely true."
-    g ""
+    g "That's definitely true."
 
 # TheHollowWorldWarrior6_f31f9feb (line 43721)
 translate ru TheHollowWorldWarrior6_f31f9feb:
     # g "But why are you so loyal to him?"
-    g ""
+    g "But why are you so loyal to him?"
 
 # TheHollowWorldWarrior6_8da67208 (line 43722)
 translate ru TheHollowWorldWarrior6_8da67208:
     # s "Because when I met him, I was in a very bad place."
-    s ""
+    s "Because when I met him, I was in a very bad place."
 
 # TheHollowWorldWarrior6_ca1ea569 (line 43723)
 translate ru TheHollowWorldWarrior6_ca1ea569:
     # s "And out of all the people in this world that sought to take advantage of me, he was the only that ever offered me a real chance."
-    s ""
+    s "And out of all the people in this world that sought to take advantage of me, he was the only that ever offered me a real chance."
 
 # TheHollowWorldWarrior6_0d66f407 (line 43724)
 translate ru TheHollowWorldWarrior6_0d66f407:
@@ -781,42 +781,42 @@ translate ru TheHollowWorldWarrior6_0d66f407:
 # TheHollowWorldWarrior6_31cb440f (line 43725)
 translate ru TheHollowWorldWarrior6_31cb440f:
     # g "I've known tough times, don't mean I'm indebted to any asshole that gives me a hand."
-    g ""
+    g "I've known tough times, don't mean I'm indebted to any asshole that gives me a hand."
 
 # TheHollowWorldWarrior6_2a70688f (line 43726)
 translate ru TheHollowWorldWarrior6_2a70688f:
     # s "It's different for you and me."
-    s ""
+    s "It's different for you and me."
 
 # TheHollowWorldWarrior6_5207f21f (line 43727)
 translate ru TheHollowWorldWarrior6_5207f21f:
     # g "How's that?"
-    g ""
+    g "How's that?"
 
 # TheHollowWorldWarrior6_c6587a49 (line 43728)
 translate ru TheHollowWorldWarrior6_c6587a49:
     # s "I'm a woman."
-    s ""
+    s "I'm a woman."
 
 # TheHollowWorldWarrior6_5928df6d (line 43729)
 translate ru TheHollowWorldWarrior6_5928df6d:
     # s "You can say it shouldn't matter, but it does."
-    s ""
+    s "You can say it shouldn't matter, but it does."
 
 # TheHollowWorldWarrior6_f2a93af5 (line 43730)
 translate ru TheHollowWorldWarrior6_f2a93af5:
     # s "When I ended up losing just about everything I ever had, I saw what this world thought of me."
-    s ""
+    s "When I ended up losing just about everything I ever had, I saw what this world thought of me."
 
 # TheHollowWorldWarrior6_eb62113b (line 43731)
 translate ru TheHollowWorldWarrior6_eb62113b:
     # s "I mean...really thought of me."
-    s ""
+    s "I mean...really thought of me."
 
 # TheHollowWorldWarrior6_5e6bbac1 (line 43732)
 translate ru TheHollowWorldWarrior6_5e6bbac1:
     # s "Without my titles. My wealth. My status. All I was to them a body they could prey on."
-    s ""
+    s "Without my titles. My wealth. My status. All I was to them a body they could prey on."
 
 # TheHollowWorldWarrior6_e91e7d53 (line 43733)
 translate ru TheHollowWorldWarrior6_e91e7d53:
@@ -826,7 +826,7 @@ translate ru TheHollowWorldWarrior6_e91e7d53:
 # TheHollowWorldWarrior6_dded7293 (line 43734)
 translate ru TheHollowWorldWarrior6_dded7293:
     # s "Do you know what it's like to walk around a city and see every set of eyes prey on you?"
-    s ""
+    s "Do you know what it's like to walk around a city and see every set of eyes prey on you?"
 
 # TheHollowWorldWarrior6_99c8853b (line 43735)
 translate ru TheHollowWorldWarrior6_99c8853b:
@@ -836,12 +836,12 @@ translate ru TheHollowWorldWarrior6_99c8853b:
 # TheHollowWorldWarrior6_9653b8bd (line 43736)
 translate ru TheHollowWorldWarrior6_9653b8bd:
     # g "Well, I never had all the things you lost to begin with, and instead of eyes preying on me, I had the opposite."
-    g ""
+    g "Well, I never had all the things you lost to begin with, and instead of eyes preying on me, I had the opposite."
 
 # TheHollowWorldWarrior6_5f1116bf (line 43737)
 translate ru TheHollowWorldWarrior6_5f1116bf:
     # g "Everywhere I went, people turned away from me like I was less than the shit on their shoes."
-    g ""
+    g "Everywhere I went, people turned away from me like I was less than the shit on their shoes."
 
 # TheHollowWorldWarrior6_191065c8 (line 43738)
 translate ru TheHollowWorldWarrior6_191065c8:
@@ -851,27 +851,27 @@ translate ru TheHollowWorldWarrior6_191065c8:
 # TheHollowWorldWarrior6_f342f3aa (line 43739)
 translate ru TheHollowWorldWarrior6_f342f3aa:
     # s "Sure, you probably didn't have it very easy either."
-    s ""
+    s "Sure, you probably didn't have it very easy either."
 
 # TheHollowWorldWarrior6_44437f71 (line 43740)
 translate ru TheHollowWorldWarrior6_44437f71:
     # s "But this world makes poor men soldiers, and poor women whores."
-    s ""
+    s "But this world makes poor men soldiers, and poor women whores."
 
 # TheHollowWorldWarrior6_a0f8da91 (line 43741)
 translate ru TheHollowWorldWarrior6_a0f8da91:
     # s "You don't know how close I got to falling off the edge entirely, dissapearing into some pit never to come back out."
-    s ""
+    s "You don't know how close I got to falling off the edge entirely, dissapearing into some pit never to come back out."
 
 # TheHollowWorldWarrior6_6abb49ce (line 43742)
 translate ru TheHollowWorldWarrior6_6abb49ce:
     # s "If not for Vaelen, I don't want to think of were I would have ended up."
-    s ""
+    s "If not for Vaelen, I don't want to think of were I would have ended up."
 
 # TheHollowWorldWarrior6_99eb5ce8 (line 43743)
 translate ru TheHollowWorldWarrior6_99eb5ce8:
     # s "So no, forgive me if I don't turn on him so easily."
-    s ""
+    s "So no, forgive me if I don't turn on him so easily."
 
 # TheHollowWorldWarrior6_055d722e (line 43744)
 translate ru TheHollowWorldWarrior6_055d722e:
@@ -881,7 +881,7 @@ translate ru TheHollowWorldWarrior6_055d722e:
 # TheHollowWorldWarrior6_7741a3e1 (line 43745)
 translate ru TheHollowWorldWarrior6_7741a3e1:
     # g "Fine, forget I ever said anything."
-    g ""
+    g "Fine, forget I ever said anything."
 
 # TheHollowWorldWarrior6_fe9988da (line 43746)
 translate ru TheHollowWorldWarrior6_fe9988da:
@@ -891,12 +891,12 @@ translate ru TheHollowWorldWarrior6_fe9988da:
 # TheHollowWorldWarrior6_96bbdcdf (line 43747)
 translate ru TheHollowWorldWarrior6_96bbdcdf:
     # s "I didn't mean to insult you, Gideon. It's just...we're so vulnerable out here."
-    s ""
+    s "I didn't mean to insult you, Gideon. It's just...we're so vulnerable out here."
 
 # TheHollowWorldWarrior6_e0e95a1e (line 43748)
 translate ru TheHollowWorldWarrior6_e0e95a1e:
     # s "If we break...just a little...we're all dead. Only if we stick together, only if we keep this company moving, do we even have a dream of getting out."
-    s ""
+    s "If we break...just a little...we're all dead. Only if we stick together, only if we keep this company moving, do we even have a dream of getting out."
 
 # TheHollowWorldWarrior6_9a650b23 (line 43749)
 translate ru TheHollowWorldWarrior6_9a650b23:
@@ -906,12 +906,12 @@ translate ru TheHollowWorldWarrior6_9a650b23:
 # TheHollowWorldWarrior6_1ccc72a4 (line 43750)
 translate ru TheHollowWorldWarrior6_1ccc72a4:
     # g "So..."
-    g ""
+    g "So..."
 
 # TheHollowWorldWarrior6_b721beac (line 43751)
 translate ru TheHollowWorldWarrior6_b721beac:
     # g "We're really going to keep marching?"
-    g ""
+    g "We're really going to keep marching?"
 
 # TheHollowWorldWarrior6_3503016a (line 43752)
 translate ru TheHollowWorldWarrior6_3503016a:
@@ -921,7 +921,7 @@ translate ru TheHollowWorldWarrior6_3503016a:
 # TheHollowWorldWarrior6_f6498a92 (line 43753)
 translate ru TheHollowWorldWarrior6_f6498a92:
     # s "It's our only chance, fucked as that might sound."
-    s ""
+    s "It's our only chance, fucked as that might sound."
 
 # TheHollowWorldWarrior6_8eda2f3c (line 43759)
 translate ru TheHollowWorldWarrior6_8eda2f3c:
@@ -1196,7 +1196,7 @@ translate ru TheHollowWorldWarrior6_f71329d5:
 # TheHollowWorldWarrior6_628bb983 (line 43820)
 translate ru TheHollowWorldWarrior6_628bb983:
     # s "Who are you?"
-    s ""
+    s "Who are you?"
 
 # TheHollowWorldWarrior6_3aa0f071 (line 43821)
 translate ru TheHollowWorldWarrior6_3aa0f071:
@@ -1211,7 +1211,7 @@ translate ru TheHollowWorldWarrior6_475e3978:
 # TheHollowWorldWarrior6_d0b7000b (line 43823)
 translate ru TheHollowWorldWarrior6_d0b7000b:
     # s "Tell me when this torture will end."
-    s ""
+    s "Tell me when this torture will end."
 
 # TheHollowWorldWarrior6_33780c62 (line 43824)
 translate ru TheHollowWorldWarrior6_33780c62:
@@ -1231,7 +1231,7 @@ translate ru TheHollowWorldWarrior6_0f33c5af:
 # TheHollowWorldWarrior6_dc92597c (line 43827)
 translate ru TheHollowWorldWarrior6_dc92597c:
     # s "Why?"
-    s ""
+    s "Why?"
 
 # TheHollowWorldWarrior6_a707d208 (line 43828)
 translate ru TheHollowWorldWarrior6_a707d208:
@@ -1246,7 +1246,7 @@ translate ru TheHollowWorldWarrior6_fd4c1d00:
 # TheHollowWorldWarrior6_0b9aad66 (line 43830)
 translate ru TheHollowWorldWarrior6_0b9aad66:
     # s "What...what hand?"
-    s ""
+    s "What...what hand?"
 
 # TheHollowWorldWarrior6_5170e824 (line 43831)
 translate ru TheHollowWorldWarrior6_5170e824:
@@ -1256,7 +1256,7 @@ translate ru TheHollowWorldWarrior6_5170e824:
 # TheHollowWorldWarrior6_3946f7d1 (line 43832)
 translate ru TheHollowWorldWarrior6_3946f7d1:
     # s "I don't understand..."
-    s ""
+    s "I don't understand..."
 
 # TheHollowWorldWarrior6_c5442079 (line 43833)
 translate ru TheHollowWorldWarrior6_c5442079:
@@ -1617,64 +1617,4 @@ translate ru TheHollowWorldWarrior6_dee1704b:
 translate ru TheHollowWorldWarrior6_8df1fb3d:
     # "Sarah looked around the edges of the water."
     ""
-
-# TheHollowWorldWarrior6_c64b9610 (line 43941)
-translate ru TheHollowWorldWarrior6_c64b9610:
-    # "Go talk to Kate"
-    "Go talk to Kate" ""
-
-# TheHollowWorldWarrior6_ddcf5528 (line 44002)
-translate ru TheHollowWorldWarrior6_ddcf5528:
-    # "What are we waiting for?"
-    "What are we waiting for?" ""
-
-# TheHollowWorldWarrior6_7e621792 (line 44147)
-translate ru TheHollowWorldWarrior6_7e621792:
-    # "Not tonight"
-    "Not tonight" ""
-
-# TheHollowWorldWarrior6_06542f80 (line 44237)
-translate ru TheHollowWorldWarrior6_06542f80:
-    # "Tell Samayra about Thomas"
-    "Tell Samayra about Thomas" ""
-
-# TheHollowWorldWarrior6_d77e5334 (line 44273)
-translate ru TheHollowWorldWarrior6_d77e5334:
-    # "Tell her to forget it"
-    "Tell her to forget it" ""
-
-# TheHollowWorldWarrior6_a5a9c0c9 (line 44384)
-translate ru TheHollowWorldWarrior6_a5a9c0c9:
-    # "Go somewhere more privately with Gideon"
-    "Go somewhere more privately with Gideon" ""
-
-# TheHollowWorldWarrior6_19cfc1ae (line 44425)
-translate ru TheHollowWorldWarrior6_19cfc1ae:
-    # "Take charge"
-    "Take charge" ""
-
-# TheHollowWorldWarrior6_1a852f99 (line 44510)
-translate ru TheHollowWorldWarrior6_1a852f99:
-    # "Tell him to take charge"
-    "Tell him to take charge" ""
-
-# TheHollowWorldWarrior6_57bcd8e5 (line 44585)
-translate ru TheHollowWorldWarrior6_57bcd8e5:
-    # "Refuse him; I don't see you like that"
-    "Refuse him; I don't see you like that" ""
-
-# TheHollowWorldWarrior6_4f17f1aa (line 44683)
-translate ru TheHollowWorldWarrior6_4f17f1aa:
-    # "Join them"
-    "Join them" ""
-
-# TheHollowWorldWarrior6_f7dcc62b (line 44790)
-translate ru TheHollowWorldWarrior6_f7dcc62b:
-    # "Refuse"
-    "Refuse" ""
-
-# TheHollowWorldWarrior6_c72b8f65 (line 44804)
-translate ru TheHollowWorldWarrior6_c72b8f65:
-    # "Stay by yourself"
-    "Stay by yourself" ""
 

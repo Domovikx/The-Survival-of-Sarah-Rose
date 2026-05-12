@@ -46,7 +46,7 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_7aa3884b:
 # TheBlackMonolithWarrior1SleepWithSamayra_f77133b6 (line 45417)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_f77133b6:
     # s "I didn't know you were a dancer."
-    s ""
+    s "I didn't know you were a dancer."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_eb475263 (line 45418)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_eb475263:
@@ -56,12 +56,12 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_eb475263:
 # TheBlackMonolithWarrior1SleepWithSamayra_e2ce56db (line 45419)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_e2ce56db:
     # sa "There's a lot you don't know about me."
-    sa ""
+    sa "There's a lot you don't know about me."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_4eaef0a2 (line 45420)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_4eaef0a2:
     # s "Ooh really?"
-    s ""
+    s "Ooh really?"
 
 # TheBlackMonolithWarrior1SleepWithSamayra_6d2485a0 (line 45421)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_6d2485a0:
@@ -71,7 +71,7 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_6d2485a0:
 # TheBlackMonolithWarrior1SleepWithSamayra_6b766a3f (line 45422)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_6b766a3f:
     # s "Tell me, did you ever drink before?"
-    s ""
+    s "Tell me, did you ever drink before?"
 
 # TheBlackMonolithWarrior1SleepWithSamayra_0dbbbbf4 (line 45423)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_0dbbbbf4:
@@ -81,12 +81,12 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_0dbbbbf4:
 # TheBlackMonolithWarrior1SleepWithSamayra_c27224a3 (line 45424)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_c27224a3:
     # sa "Two...two cups, father always said. No more. Not lady like. But I'm free now..."
-    sa ""
+    sa "Two...two cups, father always said. No more. Not lady like. But I'm free now..."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_21fe3772 (line 45425)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_21fe3772:
     # sa "So I drank..."
-    sa ""
+    sa "So I drank..."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_0193e2f0 (line 45426)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_0193e2f0:
@@ -96,7 +96,7 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_0193e2f0:
 # TheBlackMonolithWarrior1SleepWithSamayra_66fcc322 (line 45427)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_66fcc322:
     # sa "That many."
-    sa ""
+    sa "That many."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_e8cdbb5b (line 45428)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_e8cdbb5b:
@@ -106,12 +106,12 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_e8cdbb5b:
 # TheBlackMonolithWarrior1SleepWithSamayra_950fd972 (line 45429)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_950fd972:
     # s "You do know that mercenaries and soldiers lace their wine with harsher stuff, right?"
-    s ""
+    s "You do know that mercenaries and soldiers lace their wine with harsher stuff, right?"
 
 # TheBlackMonolithWarrior1SleepWithSamayra_f3dfffd8 (line 45430)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_f3dfffd8:
     # s "Because they like the kick but can't afford the good stuff."
-    s ""
+    s "Because they like the kick but can't afford the good stuff."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_f01b1ea9 (line 45431)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_f01b1ea9:
@@ -121,7 +121,7 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_f01b1ea9:
 # TheBlackMonolithWarrior1SleepWithSamayra_30083b1e (line 45432)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_30083b1e:
     # sa "I...did not know that."
-    sa ""
+    sa "I...did not know that."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_66c50784 (line 45433)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_66c50784:
@@ -136,22 +136,22 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_78c4fe3c:
 # TheBlackMonolithWarrior1SleepWithSamayra_dbc0be34 (line 45435)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_dbc0be34:
     # s "You know, I used to take dancing classes too."
-    s ""
+    s "You know, I used to take dancing classes too."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_4bbc9afb (line 45436)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_4bbc9afb:
     # sa "Really?"
-    sa ""
+    sa "Really?"
 
 # TheBlackMonolithWarrior1SleepWithSamayra_8faa48d4 (line 45437)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_8faa48d4:
     # s "Yeah. Back in Rosanna, before...well all of that happened."
-    s ""
+    s "Yeah. Back in Rosanna, before...well all of that happened."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_e02afbc6 (line 45438)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_e02afbc6:
     # s "I guess despite everything, some things are the same no matter where you go in the world."
-    s ""
+    s "I guess despite everything, some things are the same no matter where you go in the world."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_b7998cdf (line 45439)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_b7998cdf:
@@ -161,7 +161,7 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_b7998cdf:
 # TheBlackMonolithWarrior1SleepWithSamayra_9210b751 (line 45440)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_9210b751:
     # sa "Were you any good?"
-    sa ""
+    sa "Were you any good?"
 
 # TheBlackMonolithWarrior1SleepWithSamayra_e1329098 (line 45441)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_e1329098:
@@ -171,12 +171,12 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_e1329098:
 # TheBlackMonolithWarrior1SleepWithSamayra_8c077980 (line 45442)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_8c077980:
     # s "Maybe. Some girls were better, but I did well enough to not embarrass myself."
-    s ""
+    s "Maybe. Some girls were better, but I did well enough to not embarrass myself."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_05cc6590 (line 45443)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_05cc6590:
     # s "I did always like to dance."
-    s ""
+    s "I did always like to dance."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_530ac9b4 (line 45444)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_530ac9b4:
@@ -186,17 +186,17 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_530ac9b4:
 # TheBlackMonolithWarrior1SleepWithSamayra_ee495321 (line 45445)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_ee495321:
     # s "My father...I'd show him whenever I had learned a new routine and he'd always stop doing whatever it was."
-    s ""
+    s "My father...I'd show him whenever I had learned a new routine and he'd always stop doing whatever it was."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_4b53e73f (line 45446)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_4b53e73f:
     # s "He liked to say that my mother would have been proud, they said she could dance like no other."
-    s ""
+    s "He liked to say that my mother would have been proud, they said she could dance like no other."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_fc082a20 (line 45447)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_fc082a20:
     # sa "Did she teach you?"
-    sa ""
+    sa "Did she teach you?"
 
 # TheBlackMonolithWarrior1SleepWithSamayra_610d3366 (line 45448)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_610d3366:
@@ -206,7 +206,7 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_610d3366:
 # TheBlackMonolithWarrior1SleepWithSamayra_812db985 (line 45449)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_812db985:
     # s "My mother died before I started taking my lessons..."
-    s ""
+    s "My mother died before I started taking my lessons..."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_460b6441 (line 45450)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_460b6441:
@@ -216,7 +216,7 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_460b6441:
 # TheBlackMonolithWarrior1SleepWithSamayra_2e24627b (line 45451)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_2e24627b:
     # sa "Sarah...I'm sorry."
-    sa ""
+    sa "Sarah...I'm sorry."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_6c6804fa (line 45452)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_6c6804fa:
@@ -226,7 +226,7 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_6c6804fa:
 # TheBlackMonolithWarrior1SleepWithSamayra_a765ba16 (line 45453)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_a765ba16:
     # s "Forget I said anything. It's been a long time. Whatever pain was there is long gone."
-    s ""
+    s "Forget I said anything. It's been a long time. Whatever pain was there is long gone."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_aabe433a (line 45454)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_aabe433a:
@@ -241,7 +241,7 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_4f018fd2:
 # TheBlackMonolithWarrior1SleepWithSamayra_85033818 (line 45456)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_85033818:
     # sa "You know, you're pretty tough, but it's ok to cry sometimes. I do it."
-    sa ""
+    sa "You know, you're pretty tough, but it's ok to cry sometimes. I do it."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_da17be7f (line 45457)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_da17be7f:
@@ -256,7 +256,7 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_bf579642:
 # TheBlackMonolithWarrior1SleepWithSamayra_c1aaea55 (line 45459)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_c1aaea55:
     # s "Did you cry when Bagrad fell?"
-    s ""
+    s "Did you cry when Bagrad fell?"
 
 # TheBlackMonolithWarrior1SleepWithSamayra_d0e72769 (line 45460)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_d0e72769:
@@ -266,7 +266,7 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_d0e72769:
 # TheBlackMonolithWarrior1SleepWithSamayra_fa64db43 (line 45461)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_fa64db43:
     # sa "I did...but life goes on. And now I got to meet you."
-    sa ""
+    sa "I did...but life goes on. And now I got to meet you."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_6202d9e3 (line 45462)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_6202d9e3:
@@ -276,17 +276,17 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_6202d9e3:
 # TheBlackMonolithWarrior1SleepWithSamayra_69110f9e (line 45463)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_69110f9e:
     # s "But it was me..."
-    s ""
+    s "But it was me..."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_52112cae (line 45464)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_52112cae:
     # s "Me and all these others did that to you. To your family."
-    s ""
+    s "Me and all these others did that to you. To your family."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_32d243ba (line 45465)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_32d243ba:
     # s "Don't you hate me for that?"
-    s ""
+    s "Don't you hate me for that?"
 
 # TheBlackMonolithWarrior1SleepWithSamayra_449c729f (line 45472)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_449c729f:
@@ -306,7 +306,7 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_a2b9c416:
 # TheBlackMonolithWarrior1SleepWithSamayra_3224ee60 (line 45475)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_3224ee60:
     # sa "Would I have done that if I hated you?"
-    sa ""
+    sa "Would I have done that if I hated you?"
 
 # TheBlackMonolithWarrior1SleepWithSamayra_a9cc40f1 (line 45476)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_a9cc40f1:
@@ -316,7 +316,7 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_a9cc40f1:
 # TheBlackMonolithWarrior1SleepWithSamayra_c8824317 (line 45477)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_c8824317:
     # s "I've...done more. Worse."
-    s ""
+    s "I've...done more. Worse."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_2423d1c8 (line 45478)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_2423d1c8:
@@ -336,7 +336,7 @@ translate ru TheBlackMonolithWarrior1SleepWithSamayra_8948e298:
 # TheBlackMonolithWarrior1SleepWithSamayra_34d40797 (line 45481)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_34d40797:
     # sa "Tell me. Tell me all of it and I'll still be here."
-    sa ""
+    sa "Tell me. Tell me all of it and I'll still be here."
 
 # TheBlackMonolithWarrior1SleepWithSamayra_2b4cb289 (line 45482)
 translate ru TheBlackMonolithWarrior1SleepWithSamayra_2b4cb289:

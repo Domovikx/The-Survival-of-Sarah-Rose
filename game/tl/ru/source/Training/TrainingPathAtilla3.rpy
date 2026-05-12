@@ -66,7 +66,7 @@ translate ru TrainingPathAtilla3_496f71dc:
 # TrainingPathAtilla3_414d867d (line 37511)
 translate ru TrainingPathAtilla3_414d867d:
     # a "Again!"
-    a ""
+    a "Again!"
 
 # TrainingPathAtilla3_15c461a5 (line 37517)
 translate ru TrainingPathAtilla3_15c461a5:
@@ -176,12 +176,12 @@ translate ru TrainingPathAtilla3_6034f824:
 # TrainingPathAtilla3_02dfcb6c (line 37539)
 translate ru TrainingPathAtilla3_02dfcb6c:
     # a "A clever move, girl, but you need to think."
-    a ""
+    a "A clever move, girl, but you need to think."
 
 # TrainingPathAtilla3_b118a64a (line 37540)
 translate ru TrainingPathAtilla3_b118a64a:
     # a "You can't just seize an opportunity, you need to think what comes after."
-    a ""
+    a "You can't just seize an opportunity, you need to think what comes after."
 
 # TrainingPathAtilla3_0b740938 (line 37541)
 translate ru TrainingPathAtilla3_0b740938:
@@ -191,7 +191,7 @@ translate ru TrainingPathAtilla3_0b740938:
 # TrainingPathAtilla3_b11d540d (line 37542)
 translate ru TrainingPathAtilla3_b11d540d:
     # s "What do you mean? I got you, right in the stomach."
-    s ""
+    s "What do you mean? I got you, right in the stomach."
 
 # TrainingPathAtilla3_1595716f (line 37543)
 translate ru TrainingPathAtilla3_1595716f:
@@ -201,12 +201,12 @@ translate ru TrainingPathAtilla3_1595716f:
 # TrainingPathAtilla3_a520fac0 (line 37544)
 translate ru TrainingPathAtilla3_a520fac0:
     # a "No girl, my hip at best. Sure, it would hurt, maybe leave a scar, but it would heal in a week for me."
-    a ""
+    a "No girl, my hip at best. Sure, it would hurt, maybe leave a scar, but it would heal in a week for me."
 
 # TrainingPathAtilla3_1c8623fc (line 37545)
 translate ru TrainingPathAtilla3_1c8623fc:
     # a "You, on the other hand..."
-    a ""
+    a "You, on the other hand..."
 
 # TrainingPathAtilla3_52655ee5 (line 37546)
 translate ru TrainingPathAtilla3_52655ee5:
@@ -216,7 +216,7 @@ translate ru TrainingPathAtilla3_52655ee5:
 # TrainingPathAtilla3_27f6da6e (line 37547)
 translate ru TrainingPathAtilla3_27f6da6e:
     # a "I could crush you easily."
-    a ""
+    a "I could crush you easily."
 
 # TrainingPathAtilla3_6484387b (line 37548)
 translate ru TrainingPathAtilla3_6484387b:
@@ -226,7 +226,7 @@ translate ru TrainingPathAtilla3_6484387b:
 # TrainingPathAtilla3_3c9ca3fd (line 37549)
 translate ru TrainingPathAtilla3_3c9ca3fd:
     # s "Not fair!"
-    s ""
+    s "Not fair!"
 
 # TrainingPathAtilla3_da69ab5b (line 37550)
 translate ru TrainingPathAtilla3_da69ab5b:
@@ -336,7 +336,7 @@ translate ru TrainingPathAtilla3_a22fbfec:
 # TrainingPathAtilla3_f4d63e48 (line 37581)
 translate ru TrainingPathAtilla3_f4d63e48:
     # a "Why did you do that?!"
-    a ""
+    a "Why did you do that?!"
 
 # TrainingPathAtilla3_6c5a5a2b (line 37582)
 translate ru TrainingPathAtilla3_6c5a5a2b:
@@ -351,7 +351,7 @@ translate ru TrainingPathAtilla3_498a976a:
 # TrainingPathAtilla3_5794d6ee (line 37584)
 translate ru TrainingPathAtilla3_5794d6ee:
     # s "I-I-I just wa-wanted t-to see..."
-    s ""
+    s "I-I-I just wa-wanted t-to see..."
 
 # TrainingPathAtilla3_be1f1cae (line 37585)
 translate ru TrainingPathAtilla3_be1f1cae:
@@ -366,7 +366,7 @@ translate ru TrainingPathAtilla3_6892d85e:
 # TrainingPathAtilla3_c023ff03 (line 37587)
 translate ru TrainingPathAtilla3_c023ff03:
     # a "Sarah...I'm sorry that I yelled at you."
-    a ""
+    a "Sarah...I'm sorry that I yelled at you."
 
 # TrainingPathAtilla3_34d6d811 (line 37588)
 translate ru TrainingPathAtilla3_34d6d811:
@@ -386,7 +386,7 @@ translate ru TrainingPathAtilla3_0b07f5ef:
 # TrainingPathAtilla3_46a1139b (line 37591)
 translate ru TrainingPathAtilla3_46a1139b:
     # s "Atilla..."
-    s ""
+    s "Atilla..."
 
 # TrainingPathAtilla3_347a198f (line 37592)
 translate ru TrainingPathAtilla3_347a198f:
@@ -401,7 +401,7 @@ translate ru TrainingPathAtilla3_cf246c3c:
 # TrainingPathAtilla3_b022ed39 (line 37594)
 translate ru TrainingPathAtilla3_b022ed39:
     # s "I'm sorry that I went into the tent. I'll leave, I promise."
-    s ""
+    s "I'm sorry that I went into the tent. I'll leave, I promise."
 
 # TrainingPathAtilla3_f29ea09d (line 37595)
 translate ru TrainingPathAtilla3_f29ea09d:
@@ -411,7 +411,7 @@ translate ru TrainingPathAtilla3_f29ea09d:
 # TrainingPathAtilla3_4be7d821 (line 37601)
 translate ru TrainingPathAtilla3_4be7d821:
     # a "No, stay."
-    a ""
+    a "No, stay."
 
 # TrainingPathAtilla3_a4a102eb (line 37602)
 translate ru TrainingPathAtilla3_a4a102eb:
@@ -441,7 +441,7 @@ translate ru TrainingPathAtilla3_8976545f:
 # TrainingPathAtilla3_7bb3ac3f (line 37607)
 translate ru TrainingPathAtilla3_7bb3ac3f:
     # s "Atilla...did I hurt you?"
-    s ""
+    s "Atilla...did I hurt you?"
 
 # TrainingPathAtilla3_803fc1da (line 37608)
 translate ru TrainingPathAtilla3_803fc1da:
@@ -451,7 +451,7 @@ translate ru TrainingPathAtilla3_803fc1da:
 # TrainingPathAtilla3_c8d0f644 (line 37609)
 translate ru TrainingPathAtilla3_c8d0f644:
     # a "A small thing like you?"
-    a ""
+    a "A small thing like you?"
 
 # TrainingPathAtilla3_dbb106b4 (line 37610)
 translate ru TrainingPathAtilla3_dbb106b4:
@@ -461,7 +461,7 @@ translate ru TrainingPathAtilla3_dbb106b4:
 # TrainingPathAtilla3_1aef5ae4 (line 37611)
 translate ru TrainingPathAtilla3_1aef5ae4:
     # s "Could you tell me what it was that made you so angry with me? I promise I never meant it..."
-    s ""
+    s "Could you tell me what it was that made you so angry with me? I promise I never meant it..."
 
 # TrainingPathAtilla3_26da7a2e (line 37612)
 translate ru TrainingPathAtilla3_26da7a2e:
@@ -481,7 +481,7 @@ translate ru TrainingPathAtilla3_74cb384a:
 # TrainingPathAtilla3_a416e044 (line 37615)
 translate ru TrainingPathAtilla3_a416e044:
     # a "This tent, it is like a sacred place to me. It has been a very long time, decades, since anyone was in here."
-    a ""
+    a "This tent, it is like a sacred place to me. It has been a very long time, decades, since anyone was in here."
 
 # TrainingPathAtilla3_3850f4d9 (line 37616)
 translate ru TrainingPathAtilla3_3850f4d9:
@@ -491,7 +491,7 @@ translate ru TrainingPathAtilla3_3850f4d9:
 # TrainingPathAtilla3_a93369f5 (line 37617)
 translate ru TrainingPathAtilla3_a93369f5:
     # a "You know a little about orcs, correct?"
-    a ""
+    a "You know a little about orcs, correct?"
 
 # TrainingPathAtilla3_f287cc63 (line 37618)
 translate ru TrainingPathAtilla3_f287cc63:
@@ -501,12 +501,12 @@ translate ru TrainingPathAtilla3_f287cc63:
 # TrainingPathAtilla3_79beecf4 (line 37619)
 translate ru TrainingPathAtilla3_79beecf4:
     # a "Then you know we live in clans, out in the Hyral mountains. We do not venture this far, nor do we travel alone."
-    a ""
+    a "Then you know we live in clans, out in the Hyral mountains. We do not venture this far, nor do we travel alone."
 
 # TrainingPathAtilla3_4264c9ef (line 37620)
 translate ru TrainingPathAtilla3_4264c9ef:
     # a "Knowing this, did you never wonder why I was here, alone?"
-    a ""
+    a "Knowing this, did you never wonder why I was here, alone?"
 
 # TrainingPathAtilla3_8dfb2df8 (line 37621)
 translate ru TrainingPathAtilla3_8dfb2df8:
@@ -521,12 +521,12 @@ translate ru TrainingPathAtilla3_afb98974:
 # TrainingPathAtilla3_873146fa (line 37623)
 translate ru TrainingPathAtilla3_873146fa:
     # a "A long time ago, when I was still young, I met a woman, an orc like myself. She was everything to me. Fierce, strong, an equal."
-    a ""
+    a "A long time ago, when I was still young, I met a woman, an orc like myself. She was everything to me. Fierce, strong, an equal."
 
 # TrainingPathAtilla3_5bc93f19 (line 37624)
 translate ru TrainingPathAtilla3_5bc93f19:
     # a "Mere days after we met, I vowed myself to her and she vowed herself to me."
-    a ""
+    a "Mere days after we met, I vowed myself to her and she vowed herself to me."
 
 # TrainingPathAtilla3_52a5fe5e (line 37625)
 translate ru TrainingPathAtilla3_52a5fe5e:
@@ -536,7 +536,7 @@ translate ru TrainingPathAtilla3_52a5fe5e:
 # TrainingPathAtilla3_43dd384a (line 37626)
 translate ru TrainingPathAtilla3_43dd384a:
     # a "We laid together every night, and soon after, she was expecting a child. A son, the shamans told us."
-    a ""
+    a "We laid together every night, and soon after, she was expecting a child. A son, the shamans told us."
 
 # TrainingPathAtilla3_79962f8d (line 37627)
 translate ru TrainingPathAtilla3_79962f8d:
@@ -546,17 +546,17 @@ translate ru TrainingPathAtilla3_79962f8d:
 # TrainingPathAtilla3_15d0bb63 (line 37628)
 translate ru TrainingPathAtilla3_15d0bb63:
     # a "I felt a hapiness that I have never felt since."
-    a ""
+    a "I felt a hapiness that I have never felt since."
 
 # TrainingPathAtilla3_ec2d0445 (line 37629)
 translate ru TrainingPathAtilla3_ec2d0445:
     # a "But fate played me for a fool."
-    a ""
+    a "But fate played me for a fool."
 
 # TrainingPathAtilla3_540f812b (line 37630)
 translate ru TrainingPathAtilla3_540f812b:
     # a "Another orc, son of a chieftain from a rival clan, attacked my wife. She fought back, and for this, he killed her."
-    a ""
+    a "Another orc, son of a chieftain from a rival clan, attacked my wife. She fought back, and for this, he killed her."
 
 # TrainingPathAtilla3_bae2cfff (line 37631)
 translate ru TrainingPathAtilla3_bae2cfff:
@@ -566,17 +566,17 @@ translate ru TrainingPathAtilla3_bae2cfff:
 # TrainingPathAtilla3_34b95e5a (line 37632)
 translate ru TrainingPathAtilla3_34b95e5a:
     # a "I went to my chieftain, and demanded he declare a blood feud between me and this orc, so that I might be allowed to kill him on sight."
-    a ""
+    a "I went to my chieftain, and demanded he declare a blood feud between me and this orc, so that I might be allowed to kill him on sight."
 
 # TrainingPathAtilla3_c8202e8d (line 37633)
 translate ru TrainingPathAtilla3_c8202e8d:
     # a "My chieftain discussed this, but the other chieftain made an offer. An offer of gold and steel and slaves. He offered up so much, to save his son."
-    a ""
+    a "My chieftain discussed this, but the other chieftain made an offer. An offer of gold and steel and slaves. He offered up so much, to save his son."
 
 # TrainingPathAtilla3_6dbf59fa (line 37634)
 translate ru TrainingPathAtilla3_6dbf59fa:
     # a "And so, my chieftain accepted this offer. He gave me my share. More gold than I had ever seen."
-    a ""
+    a "And so, my chieftain accepted this offer. He gave me my share. More gold than I had ever seen."
 
 # TrainingPathAtilla3_08ebebe4 (line 37635)
 translate ru TrainingPathAtilla3_08ebebe4:
@@ -586,17 +586,17 @@ translate ru TrainingPathAtilla3_08ebebe4:
 # TrainingPathAtilla3_3731c2ed (line 37636)
 translate ru TrainingPathAtilla3_3731c2ed:
     # a "But it was blood money to me. I sought out the orc that had killed my wife, and I bashed in his head with his father's gold."
-    a ""
+    a "But it was blood money to me. I sought out the orc that had killed my wife, and I bashed in his head with his father's gold."
 
 # TrainingPathAtilla3_fc59e7e2 (line 37637)
 translate ru TrainingPathAtilla3_fc59e7e2:
     # a "I had gotten my revenge, but I had disrespected my chieftain."
-    a ""
+    a "I had gotten my revenge, but I had disrespected my chieftain."
 
 # TrainingPathAtilla3_83969bb7 (line 37638)
 translate ru TrainingPathAtilla3_83969bb7:
     # a "In my society, only one punishment would fit. Exile."
-    a ""
+    a "In my society, only one punishment would fit. Exile."
 
 # TrainingPathAtilla3_8deb52eb (line 37639)
 translate ru TrainingPathAtilla3_8deb52eb:
@@ -606,17 +606,17 @@ translate ru TrainingPathAtilla3_8deb52eb:
 # TrainingPathAtilla3_e68663a1 (line 37640)
 translate ru TrainingPathAtilla3_e68663a1:
     # a "Exile, almost always, meant death in the mountains. I wandered, alone for weeks."
-    a ""
+    a "Exile, almost always, meant death in the mountains. I wandered, alone for weeks."
 
 # TrainingPathAtilla3_425bc060 (line 37641)
 translate ru TrainingPathAtilla3_425bc060:
     # a "But I was strong, Sarah. I hunted, I foraged, and I tracked my way out. Before long I was on the open plains."
-    a ""
+    a "But I was strong, Sarah. I hunted, I foraged, and I tracked my way out. Before long I was on the open plains."
 
 # TrainingPathAtilla3_391cf7dc (line 37642)
 translate ru TrainingPathAtilla3_391cf7dc:
     # a "The one thing that kept me safe from the elements was this."
-    a ""
+    a "The one thing that kept me safe from the elements was this."
 
 # TrainingPathAtilla3_a9b4718c (line 37643)
 translate ru TrainingPathAtilla3_a9b4718c:
@@ -626,17 +626,17 @@ translate ru TrainingPathAtilla3_a9b4718c:
 # TrainingPathAtilla3_3fbd619e (line 37644)
 translate ru TrainingPathAtilla3_3fbd619e:
     # a "After that, I could never return to my people, and so I wandered the world."
-    a ""
+    a "After that, I could never return to my people, and so I wandered the world."
 
 # TrainingPathAtilla3_8dce86d4 (line 37645)
 translate ru TrainingPathAtilla3_8dce86d4:
     # a "As an orc, I was never short in mercenary contracts. I fought, first because I needed the money, but then, over the years, because I had little else."
-    a ""
+    a "As an orc, I was never short in mercenary contracts. I fought, first because I needed the money, but then, over the years, because I had little else."
 
 # TrainingPathAtilla3_270c1d7e (line 37646)
 translate ru TrainingPathAtilla3_270c1d7e:
     # a "The only thing that I still have from home is this tent. It had been a gift I bought for my wife and soon to be born child."
-    a ""
+    a "The only thing that I still have from home is this tent. It had been a gift I bought for my wife and soon to be born child."
 
 # TrainingPathAtilla3_4891e3de (line 37647)
 translate ru TrainingPathAtilla3_4891e3de:
@@ -646,7 +646,7 @@ translate ru TrainingPathAtilla3_4891e3de:
 # TrainingPathAtilla3_37dd523a (line 37648)
 translate ru TrainingPathAtilla3_37dd523a:
     # a "Nobody has ever been inside this tent, other than myself and my wife...and now you."
-    a ""
+    a "Nobody has ever been inside this tent, other than myself and my wife...and now you."
 
 # TrainingPathAtilla3_16922905 (line 37649)
 translate ru TrainingPathAtilla3_16922905:
@@ -661,7 +661,7 @@ translate ru TrainingPathAtilla3_83e40ab4:
 # TrainingPathAtilla3_b3f253cc (line 37651)
 translate ru TrainingPathAtilla3_b3f253cc:
     # s "Atilla...if I had know...I'm so sorry."
-    s ""
+    s "Atilla...if I had know...I'm so sorry."
 
 # TrainingPathAtilla3_90d7566e (line 37652)
 translate ru TrainingPathAtilla3_90d7566e:
@@ -671,7 +671,7 @@ translate ru TrainingPathAtilla3_90d7566e:
 # TrainingPathAtilla3_18300849 (line 37653)
 translate ru TrainingPathAtilla3_18300849:
     # a "It's ok. You couldn't have known, and you did not deserve what I did."
-    a ""
+    a "It's ok. You couldn't have known, and you did not deserve what I did."
 
 # TrainingPathAtilla3_cc411d45 (line 37654)
 translate ru TrainingPathAtilla3_cc411d45:
@@ -681,7 +681,7 @@ translate ru TrainingPathAtilla3_cc411d45:
 # TrainingPathAtilla3_5cbffc1d (line 37655)
 translate ru TrainingPathAtilla3_5cbffc1d:
     # s "I'll give you your space back, and I promise I won't go in again."
-    s ""
+    s "I'll give you your space back, and I promise I won't go in again."
 
 # TrainingPathAtilla3_90692ebf (line 37656)
 translate ru TrainingPathAtilla3_90692ebf:
@@ -691,7 +691,7 @@ translate ru TrainingPathAtilla3_90692ebf:
 # TrainingPathAtilla3_d50b2e99 (line 37657)
 translate ru TrainingPathAtilla3_d50b2e99:
     # a "Sarah...stay."
-    a ""
+    a "Sarah...stay."
 
 # TrainingPathAtilla3_4552cb7b (line 37658)
 translate ru TrainingPathAtilla3_4552cb7b:

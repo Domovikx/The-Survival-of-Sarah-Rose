@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: MagePath2
-# Total blocks: 156
+# Total blocks: 152
 
 # MagePath2_bb05b222 (line 69737)
 translate ru MagePath2_bb05b222:
@@ -126,12 +126,12 @@ translate ru MagePath2_8d7db938:
 # MagePath2_4b19aebe (line 69771)
 translate ru MagePath2_4b19aebe:
     # r "What now, mage?"
-    r ""
+    r "What now, mage?"
 
 # MagePath2_c782e0e4 (line 69772)
 translate ru MagePath2_c782e0e4:
     # r "Can't you let me be?"
-    r ""
+    r "Can't you let me be?"
 
 # MagePath2_75c7e855 (line 69773)
 translate ru MagePath2_75c7e855:
@@ -146,7 +146,7 @@ translate ru MagePath2_b077c7da:
 # MagePath2_2145c4fc (line 69775)
 translate ru MagePath2_2145c4fc:
     # r "You're not that decrepit wizard..."
-    r ""
+    r "You're not that decrepit wizard..."
 
 # MagePath2_db887fe6 (line 69776)
 translate ru MagePath2_db887fe6:
@@ -161,7 +161,7 @@ translate ru MagePath2_8649bd91:
 # MagePath2_144d9b1d (line 69778)
 translate ru MagePath2_144d9b1d:
     # r "Who are you?"
-    r ""
+    r "Who are you?"
 
 # MagePath2_1388d791 (line 69779)
 translate ru MagePath2_1388d791:
@@ -176,12 +176,12 @@ translate ru MagePath2_a41737eb:
 # MagePath2_936a5d94 (line 69781)
 translate ru MagePath2_936a5d94:
     # s "I...I'm...Sarah..."
-    s ""
+    s "I...I'm...Sarah..."
 
 # MagePath2_1efee45e (line 69782)
 translate ru MagePath2_1efee45e:
     # r "Sarah..."
-    r ""
+    r "Sarah..."
 
 # MagePath2_5c01d92e (line 69783)
 translate ru MagePath2_5c01d92e:
@@ -191,12 +191,12 @@ translate ru MagePath2_5c01d92e:
 # MagePath2_5289449c (line 69784)
 translate ru MagePath2_5289449c:
     # r "I can see why he likes you."
-    r ""
+    r "I can see why he likes you."
 
 # MagePath2_09324145 (line 69785)
 translate ru MagePath2_09324145:
     # r "It's been a long time since he's let anyone into his house."
-    r ""
+    r "It's been a long time since he's let anyone into his house."
 
 # MagePath2_1700f2c9 (line 69786)
 translate ru MagePath2_1700f2c9:
@@ -211,7 +211,7 @@ translate ru MagePath2_66ec0788:
 # MagePath2_db9ae4a0 (line 69788)
 translate ru MagePath2_db9ae4a0:
     # s "What are you talking about?"
-    s ""
+    s "What are you talking about?"
 
 # MagePath2_95650b8d (line 69789)
 translate ru MagePath2_95650b8d:
@@ -221,22 +221,22 @@ translate ru MagePath2_95650b8d:
 # MagePath2_bfd0d5fc (line 69790)
 translate ru MagePath2_bfd0d5fc:
     # r "You can't be blind to how men look at you."
-    r ""
+    r "You can't be blind to how men look at you."
 
 # MagePath2_40ff1b44 (line 69791)
 translate ru MagePath2_40ff1b44:
     # r "I imagine you've had to suffer their eyes all your life."
-    r ""
+    r "I imagine you've had to suffer their eyes all your life."
 
 # MagePath2_d30523d4 (line 69792)
 translate ru MagePath2_d30523d4:
     # r "Always being seen for your body, so rarely for who you are..."
-    r ""
+    r "Always being seen for your body, so rarely for who you are..."
 
 # MagePath2_2729e409 (line 69793)
 translate ru MagePath2_2729e409:
     # r "Tell me, Sarah, are you anything at all?"
-    r ""
+    r "Tell me, Sarah, are you anything at all?"
 
 # MagePath2_c86fe193 (line 69794)
 translate ru MagePath2_c86fe193:
@@ -246,12 +246,12 @@ translate ru MagePath2_c86fe193:
 # MagePath2_f2ebdae2 (line 69795)
 translate ru MagePath2_f2ebdae2:
     # s "I am..."
-    s ""
+    s "I am..."
 
 # MagePath2_fe2d2973 (line 69796)
 translate ru MagePath2_fe2d2973:
     # r "What are you?"
-    r ""
+    r "What are you?"
 
 # MagePath2_6d5e6086 (line 69797)
 translate ru MagePath2_6d5e6086:
@@ -261,12 +261,12 @@ translate ru MagePath2_6d5e6086:
 # MagePath2_eb8863e0 (line 69798)
 translate ru MagePath2_eb8863e0:
     # s "I'm a princess..."
-    s ""
+    s "I'm a princess..."
 
 # MagePath2_23d92706 (line 69799)
 translate ru MagePath2_23d92706:
     # r "You were one..."
-    r ""
+    r "You were one..."
 
 # MagePath2_1c929ca6 (line 69800)
 translate ru MagePath2_1c929ca6:
@@ -276,7 +276,7 @@ translate ru MagePath2_1c929ca6:
 # MagePath2_2b1cebcb (line 69801)
 translate ru MagePath2_2b1cebcb:
     # r "Also, that's merely a title, easily won or lost. Tell me truly...what are you?"
-    r ""
+    r "Also, that's merely a title, easily won or lost. Tell me truly...what are you?"
 
 # MagePath2_cf1c417c (line 69802)
 translate ru MagePath2_cf1c417c:
@@ -286,7 +286,7 @@ translate ru MagePath2_cf1c417c:
 # MagePath2_ee21c454 (line 69803)
 translate ru MagePath2_ee21c454:
     # s "I don't have to answer you."
-    s ""
+    s "I don't have to answer you."
 
 # MagePath2_747cd81a (line 69804)
 translate ru MagePath2_747cd81a:
@@ -296,12 +296,12 @@ translate ru MagePath2_747cd81a:
 # MagePath2_2b6a6220 (line 69805)
 translate ru MagePath2_2b6a6220:
     # r "This is true. You owe me no answer. I'm just a simple spirit, bored and happy to meet a new friend."
-    r ""
+    r "This is true. You owe me no answer. I'm just a simple spirit, bored and happy to meet a new friend."
 
 # MagePath2_a4bbdb8e (line 69806)
 translate ru MagePath2_a4bbdb8e:
     # r "I know what I am..."
-    r ""
+    r "I know what I am..."
 
 # MagePath2_213ae251 (line 69807)
 translate ru MagePath2_213ae251:
@@ -311,7 +311,7 @@ translate ru MagePath2_213ae251:
 # MagePath2_bf8c3e2c (line 69808)
 translate ru MagePath2_bf8c3e2c:
     # r "Do you know what Xanthippe is?"
-    r ""
+    r "Do you know what Xanthippe is?"
 
 # MagePath2_793420f5 (line 69809)
 translate ru MagePath2_793420f5:
@@ -326,32 +326,32 @@ translate ru MagePath2_3189fe4a:
 # MagePath2_12c14d1d (line 69811)
 translate ru MagePath2_12c14d1d:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # MagePath2_55febcfa (line 69812)
 translate ru MagePath2_55febcfa:
     # r "Sneaky..."
-    r ""
+    r "Sneaky..."
 
 # MagePath2_55744a95 (line 69813)
 translate ru MagePath2_55744a95:
     # s "Tell me."
-    s ""
+    s "Tell me."
 
 # MagePath2_4d92f321 (line 69814)
 translate ru MagePath2_4d92f321:
     # r "He comes near!"
-    r ""
+    r "He comes near!"
 
 # MagePath2_550a9055 (line 69815)
 translate ru MagePath2_550a9055:
     # r "He's heard us!"
-    r ""
+    r "He's heard us!"
 
 # MagePath2_82cceaba (line 69816)
 translate ru MagePath2_82cceaba:
     # r "Come to me tonight and I will tell you!"
-    r ""
+    r "Come to me tonight and I will tell you!"
 
 # MagePath2_5e8e3ea2 (line 69817)
 translate ru MagePath2_5e8e3ea2:
@@ -376,12 +376,12 @@ translate ru MagePath2_8443e6e0:
 # MagePath2_e7ef3259 (line 69827)
 translate ru MagePath2_e7ef3259:
     # x "Enough!"
-    x ""
+    x "Enough!"
 
 # MagePath2_4f2f40fb (line 69828)
 translate ru MagePath2_4f2f40fb:
     # x "Go back, Razaphel, go back into your flask or I swear I'll give you a thrasing that you will remember for a thousand years."
-    x ""
+    x "Go back, Razaphel, go back into your flask or I swear I'll give you a thrasing that you will remember for a thousand years."
 
 # MagePath2_d16f54f7 (line 69829)
 translate ru MagePath2_d16f54f7:
@@ -391,12 +391,12 @@ translate ru MagePath2_d16f54f7:
 # MagePath2_21634c7d (line 69830)
 translate ru MagePath2_21634c7d:
     # r "Forgive me, master. I have only sought to make the acquaintance of our new visitor."
-    r ""
+    r "Forgive me, master. I have only sought to make the acquaintance of our new visitor."
 
 # MagePath2_e42f0679 (line 69831)
 translate ru MagePath2_e42f0679:
     # x "Back into your flask, now!"
-    x ""
+    x "Back into your flask, now!"
 
 # MagePath2_c55cbde2 (line 69833)
 translate ru MagePath2_c55cbde2:
@@ -416,7 +416,7 @@ translate ru MagePath2_73a258f7:
 # MagePath2_d92a4c5a (line 69841)
 translate ru MagePath2_d92a4c5a:
     # x "Are you fine? Did he say anything?"
-    x ""
+    x "Are you fine? Did he say anything?"
 
 # MagePath2_f61d59b8 (line 69842)
 translate ru MagePath2_f61d59b8:
@@ -426,7 +426,7 @@ translate ru MagePath2_f61d59b8:
 # MagePath2_264e9e88 (line 69843)
 translate ru MagePath2_264e9e88:
     # s "I'm fine...it just...wanted to talk."
-    s ""
+    s "I'm fine...it just...wanted to talk."
 
 # MagePath2_0ff059d1 (line 69844)
 translate ru MagePath2_0ff059d1:
@@ -436,12 +436,12 @@ translate ru MagePath2_0ff059d1:
 # MagePath2_06a1d548 (line 69845)
 translate ru MagePath2_06a1d548:
     # x "Yeah, he likes to do that, talk. He'll talk all day if you let him."
-    x ""
+    x "Yeah, he likes to do that, talk. He'll talk all day if you let him."
 
 # MagePath2_f7af6d60 (line 69846)
 translate ru MagePath2_f7af6d60:
     # s "What...what is it? I've never seen anything like it before."
-    s ""
+    s "What...what is it? I've never seen anything like it before."
 
 # MagePath2_32697eed (line 69847)
 translate ru MagePath2_32697eed:
@@ -451,22 +451,22 @@ translate ru MagePath2_32697eed:
 # MagePath2_19b01c6c (line 69848)
 translate ru MagePath2_19b01c6c:
     # x "You're right that you've never seen such a thing. They're rare, in our world anyway, I can't imagine there are more than a dozen in the entire world."
-    x ""
+    x "You're right that you've never seen such a thing. They're rare, in our world anyway, I can't imagine there are more than a dozen in the entire world."
 
 # MagePath2_7063934a (line 69849)
 translate ru MagePath2_7063934a:
     # s "But...what is it, exactly?"
-    s ""
+    s "But...what is it, exactly?"
 
 # MagePath2_80e58bb6 (line 69850)
 translate ru MagePath2_80e58bb6:
     # x "They're called a lot of things, but my order, we call them voidlings."
-    x ""
+    x "They're called a lot of things, but my order, we call them voidlings."
 
 # MagePath2_6c1ac821 (line 69851)
 translate ru MagePath2_6c1ac821:
     # x "They are creatures of the void, born out of the shadows in the under realm."
-    x ""
+    x "They are creatures of the void, born out of the shadows in the under realm."
 
 # MagePath2_5a0ee6ae (line 69852)
 translate ru MagePath2_5a0ee6ae:
@@ -481,47 +481,47 @@ translate ru MagePath2_0f37a563:
 # MagePath2_ef969094 (line 69854)
 translate ru MagePath2_ef969094:
     # x "I'll tell you the story as briefly as I can."
-    x ""
+    x "I'll tell you the story as briefly as I can."
 
 # MagePath2_470a3ad7 (line 69855)
 translate ru MagePath2_470a3ad7:
     # x "Many millenia ago, this world didn't have the many different kingdoms it has today."
-    x ""
+    x "Many millenia ago, this world didn't have the many different kingdoms it has today."
 
 # MagePath2_1e6c688e (line 69856)
 translate ru MagePath2_1e6c688e:
     # x "There was only one great empire, and it ruled all the world. There wasn't much of a world to rule, but in a savage time, they were the only real civilization."
-    x ""
+    x "There was only one great empire, and it ruled all the world. There wasn't much of a world to rule, but in a savage time, they were the only real civilization."
 
 # MagePath2_8cb67d75 (line 69857)
 translate ru MagePath2_8cb67d75:
     # x "They worshipped a pantheon of gods, and the rulers of this civilization could speak to them directly, as easily as you or I can speak to each other."
-    x ""
+    x "They worshipped a pantheon of gods, and the rulers of this civilization could speak to them directly, as easily as you or I can speak to each other."
 
 # MagePath2_08ed7de5 (line 69858)
 translate ru MagePath2_08ed7de5:
     # x "For centuries, this allowed them to guide humanity to its earliest forms of progress."
-    x ""
+    x "For centuries, this allowed them to guide humanity to its earliest forms of progress."
 
 # MagePath2_5435b75e (line 69859)
 translate ru MagePath2_5435b75e:
     # x "All of this continued until the rule of empress Ayamari."
-    x ""
+    x "All of this continued until the rule of empress Ayamari."
 
 # MagePath2_9ae7e926 (line 69860)
 translate ru MagePath2_9ae7e926:
     # x "Empress Ayamari was more gifted than any who had come before her. Brilliant in ways the world had not yet seen before."
-    x ""
+    x "Empress Ayamari was more gifted than any who had come before her. Brilliant in ways the world had not yet seen before."
 
 # MagePath2_b37c4840 (line 69861)
 translate ru MagePath2_b37c4840:
     # x "As gifted as she was in knowledge and wisdom, so gifted was she too in her beauty."
-    x ""
+    x "As gifted as she was in knowledge and wisdom, so gifted was she too in her beauty."
 
 # MagePath2_f8f909c0 (line 69862)
 translate ru MagePath2_f8f909c0:
     # x "Everyone longed to serve her, if only to to be in the presence of her grace."
-    x ""
+    x "Everyone longed to serve her, if only to to be in the presence of her grace."
 
 # MagePath2_60e6e66f (line 69863)
 translate ru MagePath2_60e6e66f:
@@ -531,77 +531,77 @@ translate ru MagePath2_60e6e66f:
 # MagePath2_db10f9fa (line 69864)
 translate ru MagePath2_db10f9fa:
     # x "She ruled for a long time, and the empire reached its peak. But then, as is the fate of all humans, age came for her."
-    x ""
+    x "She ruled for a long time, and the empire reached its peak. But then, as is the fate of all humans, age came for her."
 
 # MagePath2_847d02c9 (line 69865)
 translate ru MagePath2_847d02c9:
     # x "She grew older and more sickly, and all the empire wept, but above all, empress Ayamari herself wept."
-    x ""
+    x "She grew older and more sickly, and all the empire wept, but above all, empress Ayamari herself wept."
 
 # MagePath2_eae016e6 (line 69866)
 translate ru MagePath2_eae016e6:
     # x "She cried for the empire that she would leave behind, and she feared what would become of her people once she was gone."
-    x ""
+    x "She cried for the empire that she would leave behind, and she feared what would become of her people once she was gone."
 
 # MagePath2_c5c029a3 (line 69867)
 translate ru MagePath2_c5c029a3:
     # x "This fear and this love for her people and her empire, caused her to reach out to the gods."
-    x ""
+    x "This fear and this love for her people and her empire, caused her to reach out to the gods."
 
 # MagePath2_0fc0f9ed (line 69868)
 translate ru MagePath2_0fc0f9ed:
     # x "As they had always done, they reached back down and spoke to her."
-    x ""
+    x "As they had always done, they reached back down and spoke to her."
 
 # MagePath2_81e7ae38 (line 69869)
 translate ru MagePath2_81e7ae38:
     # x "She called out and said that she was the fairest and wisest ruler the empire had ever seen."
-    x ""
+    x "She called out and said that she was the fairest and wisest ruler the empire had ever seen."
 
 # MagePath2_672b6b5f (line 69870)
 translate ru MagePath2_672b6b5f:
     # x "To this, the gods agreed."
-    x ""
+    x "To this, the gods agreed."
 
 # MagePath2_150eab00 (line 69871)
 translate ru MagePath2_150eab00:
     # x "And so, she said, the gods should allow her to live forever. Let her live as long as the gods themselves and rule her empire with wisdom and kindness for all time."
-    x ""
+    x "And so, she said, the gods should allow her to live forever. Let her live as long as the gods themselves and rule her empire with wisdom and kindness for all time."
 
 # MagePath2_a7dce776 (line 69872)
 translate ru MagePath2_a7dce776:
     # x "But to this, the gods did not agree."
-    x ""
+    x "But to this, the gods did not agree."
 
 # MagePath2_51257651 (line 69873)
 translate ru MagePath2_51257651:
     # x "Only the gods live forever, and so, they scolded her for her ambitions, and did not grant her desire."
-    x ""
+    x "Only the gods live forever, and so, they scolded her for her ambitions, and did not grant her desire."
 
 # MagePath2_a60757ee (line 69874)
 translate ru MagePath2_a60757ee:
     # x "Empress Ayamari fell into a great despair, feeling that death would soon come for her, leaving the empire without her guidance."
-    x ""
+    x "Empress Ayamari fell into a great despair, feeling that death would soon come for her, leaving the empire without her guidance."
 
 # MagePath2_201b3f23 (line 69875)
 translate ru MagePath2_201b3f23:
     # x "Not the gods, nor any science they had, could offer her eternal life. She wept most every day."
-    x ""
+    x "Not the gods, nor any science they had, could offer her eternal life. She wept most every day."
 
 # MagePath2_70cd4641 (line 69876)
 translate ru MagePath2_70cd4641:
     # x "That was, until a thought came to her."
-    x ""
+    x "That was, until a thought came to her."
 
 # MagePath2_cbe7db43 (line 69877)
 translate ru MagePath2_cbe7db43:
     # x "A thought that perhaps, if these gods would not grant her request, she ought to ask the gods of another world."
-    x ""
+    x "A thought that perhaps, if these gods would not grant her request, she ought to ask the gods of another world."
 
 # MagePath2_e04b4962 (line 69878)
 translate ru MagePath2_e04b4962:
     # x "Empress Ayamari believed there must be many worlds out there, who each had their own gods. In such a great universe, surely, one would answer her desire and let her save her people?"
-    x ""
+    x "Empress Ayamari believed there must be many worlds out there, who each had their own gods. In such a great universe, surely, one would answer her desire and let her save her people?"
 
 # MagePath2_e1dd69bb (line 69879)
 translate ru MagePath2_e1dd69bb:
@@ -611,67 +611,67 @@ translate ru MagePath2_e1dd69bb:
 # MagePath2_977f7bb6 (line 69880)
 translate ru MagePath2_977f7bb6:
     # x "The research began and soon a suitable ritual was found."
-    x ""
+    x "The research began and soon a suitable ritual was found."
 
 # MagePath2_7c9ba2ed (line 69881)
 translate ru MagePath2_7c9ba2ed:
     # x "After months of preparation, the ritual was carried out and another world was summoned into ours."
-    x ""
+    x "After months of preparation, the ritual was carried out and another world was summoned into ours."
 
 # MagePath2_1487dbcb (line 69882)
 translate ru MagePath2_1487dbcb:
     # x "But the spell did not stay true."
-    x ""
+    x "But the spell did not stay true."
 
 # MagePath2_385b5ccf (line 69883)
 translate ru MagePath2_385b5ccf:
     # x "This new world was summoned into ours, but all of existence covers all of existence."
-    x ""
+    x "This new world was summoned into ours, but all of existence covers all of existence."
 
 # MagePath2_30845cbe (line 69884)
 translate ru MagePath2_30845cbe:
     # x "There is no space for two worlds, in one world."
-    x ""
+    x "There is no space for two worlds, in one world."
 
 # MagePath2_0c9d2a0d (line 69885)
 translate ru MagePath2_0c9d2a0d:
     # x "And so, our plane of existence collapsed onto this new world which had been summoned, trapping their existence underneath ours."
-    x ""
+    x "And so, our plane of existence collapsed onto this new world which had been summoned, trapping their existence underneath ours."
 
 # MagePath2_84e39ba3 (line 69886)
 translate ru MagePath2_84e39ba3:
     # x "So violent was this merger, that all across our world, rips and tears spawned, and from them, hordes of these voidlings spawned forth."
-    x ""
+    x "So violent was this merger, that all across our world, rips and tears spawned, and from them, hordes of these voidlings spawned forth."
 
 # MagePath2_b6f3084a (line 69887)
 translate ru MagePath2_b6f3084a:
     # x "The empire fell into chaos as it sacrificed everything to fight back against the tide."
-    x ""
+    x "The empire fell into chaos as it sacrificed everything to fight back against the tide."
 
 # MagePath2_003ec3f8 (line 69888)
 translate ru MagePath2_003ec3f8:
     # x "The pantheon of gods became silent, and no longer answered the calls of humanity."
-    x ""
+    x "The pantheon of gods became silent, and no longer answered the calls of humanity."
 
 # MagePath2_de5ec496 (line 69889)
 translate ru MagePath2_de5ec496:
     # x "By the end, the voidlings had been either destroyed or thrown back into their world, and the last of the scars of reality were closed."
-    x ""
+    x "By the end, the voidlings had been either destroyed or thrown back into their world, and the last of the scars of reality were closed."
 
 # MagePath2_4cba031c (line 69890)
 translate ru MagePath2_4cba031c:
     # x "But the empire was ruined. All across, warlords and other men of ambition seized on their chance, and it splintered."
-    x ""
+    x "But the empire was ruined. All across, warlords and other men of ambition seized on their chance, and it splintered."
 
 # MagePath2_4b39cbb3 (line 69891)
 translate ru MagePath2_4b39cbb3:
     # x "The portals between the world were seperated, but the fundamental relation has remained the same ever since."
-    x ""
+    x "The portals between the world were seperated, but the fundamental relation has remained the same ever since."
 
 # MagePath2_7041ea4e (line 69892)
 translate ru MagePath2_7041ea4e:
     # x "Our world sits balanced atop their world, which runs underneath ours."
-    x ""
+    x "Our world sits balanced atop their world, which runs underneath ours."
 
 # MagePath2_e301c81f (line 69893)
 translate ru MagePath2_e301c81f:
@@ -686,7 +686,7 @@ translate ru MagePath2_8257498c:
 # MagePath2_339b3d08 (line 69895)
 translate ru MagePath2_339b3d08:
     # s "But, if our worlds are seperate, how can this creature exist here?"
-    s ""
+    s "But, if our worlds are seperate, how can this creature exist here?"
 
 # MagePath2_e105c759 (line 69896)
 translate ru MagePath2_e105c759:
@@ -696,7 +696,7 @@ translate ru MagePath2_e105c759:
 # MagePath2_13aad4cd (line 69897)
 translate ru MagePath2_13aad4cd:
     # x "That's perhaps a story best left for another time."
-    x ""
+    x "That's perhaps a story best left for another time."
 
 # MagePath2_3f2bd2c0 (line 69898)
 translate ru MagePath2_3f2bd2c0:
@@ -711,17 +711,17 @@ translate ru MagePath2_fb3bde77:
 # MagePath2_094dad8a (line 69900)
 translate ru MagePath2_094dad8a:
     # s "That's fine, Xan. Thank you for telling me all this. I've never heard of it before."
-    s ""
+    s "That's fine, Xan. Thank you for telling me all this. I've never heard of it before."
 
 # MagePath2_5ce1c060 (line 69901)
 translate ru MagePath2_5ce1c060:
     # x "Yes, it's so long ago, and so many empires rose and fell, the story has been lost to most people, except for my order."
-    x ""
+    x "Yes, it's so long ago, and so many empires rose and fell, the story has been lost to most people, except for my order."
 
 # MagePath2_147ffd53 (line 69902)
 translate ru MagePath2_147ffd53:
     # x "Come, let's retreat back to the living room, it's almost time for dinner."
-    x ""
+    x "Come, let's retreat back to the living room, it's almost time for dinner."
 
 # MagePath2_e055e9bf (line 69903)
 translate ru MagePath2_e055e9bf:
@@ -762,24 +762,4 @@ translate ru MagePath2_bc858093:
 translate ru MagePath2_a0815f40:
     # "She had enjoyed the simplicity that came with housekeeping, but now she once again found her world filling with complexities."
     ""
-
-# MagePath2_d9912936 (line 69920)
-translate ru MagePath2_d9912936:
-    # "Sneak out and visit the spirit."
-    "Sneak out and visit the spirit." ""
-
-# MagePath2_6c2644f0 (line 69986)
-translate ru MagePath2_6c2644f0:
-    # "Take off your clothes."
-    "Take off your clothes." ""
-
-# MagePath2_d11af51e (line 70117)
-translate ru MagePath2_d11af51e:
-    # "Ignore, turn around and leave."
-    "Ignore, turn around and leave." ""
-
-# MagePath2_40c5cdea (line 70127)
-translate ru MagePath2_40c5cdea:
-    # "Try to get some sleep."
-    "Try to get some sleep." ""
 

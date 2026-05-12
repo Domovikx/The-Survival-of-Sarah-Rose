@@ -126,7 +126,7 @@ translate ru WarriorQueen7Capital_ffbead8e:
 # WarriorQueen7Capital_5c4ea059 (line 58891)
 translate ru WarriorQueen7Capital_5c4ea059:
     # k "Hey."
-    k ""
+    k "Hey."
 
 # WarriorQueen7Capital_6c836268 (line 58892)
 translate ru WarriorQueen7Capital_6c836268:
@@ -136,7 +136,7 @@ translate ru WarriorQueen7Capital_6c836268:
 # WarriorQueen7Capital_94c970e1 (line 58893)
 translate ru WarriorQueen7Capital_94c970e1:
     # s "Hey. Are your men ready?"
-    s ""
+    s "Hey. Are your men ready?"
 
 # WarriorQueen7Capital_171ee295 (line 58894)
 translate ru WarriorQueen7Capital_171ee295:
@@ -146,7 +146,7 @@ translate ru WarriorQueen7Capital_171ee295:
 # WarriorQueen7Capital_662f8c8e (line 58895)
 translate ru WarriorQueen7Capital_662f8c8e:
     # k "You know they are."
-    k ""
+    k "You know they are."
 
 # WarriorQueen7Capital_ac21b48f (line 58896)
 translate ru WarriorQueen7Capital_ac21b48f:
@@ -156,7 +156,7 @@ translate ru WarriorQueen7Capital_ac21b48f:
 # WarriorQueen7Capital_b83bcd5e (line 58897)
 translate ru WarriorQueen7Capital_b83bcd5e:
     # s "Of course. Just asking out of habit I guess."
-    s ""
+    s "Of course. Just asking out of habit I guess."
 
 # WarriorQueen7Capital_6c45118f (line 58898)
 translate ru WarriorQueen7Capital_6c45118f:
@@ -171,17 +171,17 @@ translate ru WarriorQueen7Capital_3baa1226:
 # WarriorQueen7Capital_bbfc3ab6 (line 58900)
 translate ru WarriorQueen7Capital_bbfc3ab6:
     # k "Does it feel weird? Being home?"
-    k ""
+    k "Does it feel weird? Being home?"
 
 # WarriorQueen7Capital_e54a5348 (line 58901)
 translate ru WarriorQueen7Capital_e54a5348:
     # s "I've been home for a while now."
-    s ""
+    s "I've been home for a while now."
 
 # WarriorQueen7Capital_2a5d48eb (line 58902)
 translate ru WarriorQueen7Capital_2a5d48eb:
     # k "Yeah...but that's where all your memories took place. Just about everything before you left..."
-    k ""
+    k "Yeah...but that's where all your memories took place. Just about everything before you left..."
 
 # WarriorQueen7Capital_2ef91304 (line 58903)
 translate ru WarriorQueen7Capital_2ef91304:
@@ -201,7 +201,7 @@ translate ru WarriorQueen7Capital_8c579339:
 # WarriorQueen7Capital_d5bbf30d (line 58906)
 translate ru WarriorQueen7Capital_d5bbf30d:
     # s "Don't feel bad about it. The lying, I mean."
-    s ""
+    s "Don't feel bad about it. The lying, I mean."
 
 # WarriorQueen7Capital_b1b8d7a4 (line 58907)
 translate ru WarriorQueen7Capital_b1b8d7a4:
@@ -211,7 +211,7 @@ translate ru WarriorQueen7Capital_b1b8d7a4:
 # WarriorQueen7Capital_6545b808 (line 58908)
 translate ru WarriorQueen7Capital_6545b808:
     # k "I can't help it..."
-    k ""
+    k "I can't help it..."
 
 # WarriorQueen7Capital_01dc6913 (line 58909)
 translate ru WarriorQueen7Capital_01dc6913:
@@ -221,12 +221,12 @@ translate ru WarriorQueen7Capital_01dc6913:
 # WarriorQueen7Capital_06001205 (line 58910)
 translate ru WarriorQueen7Capital_06001205:
     # k "You were my only friend...and I betrayed even you."
-    k ""
+    k "You were my only friend...and I betrayed even you."
 
 # WarriorQueen7Capital_3a5069dd (line 58911)
 translate ru WarriorQueen7Capital_3a5069dd:
     # k "What does that say about a person?"
-    k ""
+    k "What does that say about a person?"
 
 # WarriorQueen7Capital_cfe412d5 (line 58912)
 translate ru WarriorQueen7Capital_cfe412d5:
@@ -236,12 +236,12 @@ translate ru WarriorQueen7Capital_cfe412d5:
 # WarriorQueen7Capital_b97b08ad (line 58913)
 translate ru WarriorQueen7Capital_b97b08ad:
     # s "You did do that. You did plenty of other things."
-    s ""
+    s "You did do that. You did plenty of other things."
 
 # WarriorQueen7Capital_2bdb3032 (line 58914)
 translate ru WarriorQueen7Capital_2bdb3032:
     # s "The thing about you Kate, and you've been like this even when we were kids..."
-    s ""
+    s "The thing about you Kate, and you've been like this even when we were kids..."
 
 # WarriorQueen7Capital_1a5e48e5 (line 58915)
 translate ru WarriorQueen7Capital_1a5e48e5:
@@ -251,12 +251,12 @@ translate ru WarriorQueen7Capital_1a5e48e5:
 # WarriorQueen7Capital_f5f470ff (line 58916)
 translate ru WarriorQueen7Capital_f5f470ff:
     # s "You let the bad things lay on you, and all the good slips off."
-    s ""
+    s "You let the bad things lay on you, and all the good slips off."
 
 # WarriorQueen7Capital_74f9fce9 (line 58917)
 translate ru WarriorQueen7Capital_74f9fce9:
     # s "You forget every kindness you ever showed me, yet you remember forever the one time you hurt me."
-    s ""
+    s "You forget every kindness you ever showed me, yet you remember forever the one time you hurt me."
 
 # WarriorQueen7Capital_e065278a (line 58918)
 translate ru WarriorQueen7Capital_e065278a:
@@ -276,17 +276,17 @@ translate ru WarriorQueen7Capital_88653413:
 # WarriorQueen7Capital_b9a2fd1c (line 58921)
 translate ru WarriorQueen7Capital_b9a2fd1c:
     # s "I'm here today in no small part because of you."
-    s ""
+    s "I'm here today in no small part because of you."
 
 # WarriorQueen7Capital_00254e9a (line 58922)
 translate ru WarriorQueen7Capital_00254e9a:
     # s "Yes, in part of what you did to me all those years ago...but your kindness too."
-    s ""
+    s "Yes, in part of what you did to me all those years ago...but your kindness too."
 
 # WarriorQueen7Capital_38707cb6 (line 58923)
 translate ru WarriorQueen7Capital_38707cb6:
     # s "Your betrayal...it doesn't weigh on me. So don't let it weigh on you."
-    s ""
+    s "Your betrayal...it doesn't weigh on me. So don't let it weigh on you."
 
 # WarriorQueen7Capital_5f2e7520 (line 58924)
 translate ru WarriorQueen7Capital_5f2e7520:
@@ -296,7 +296,7 @@ translate ru WarriorQueen7Capital_5f2e7520:
 # WarriorQueen7Capital_6a380cb3 (line 58925)
 translate ru WarriorQueen7Capital_6a380cb3:
     # k "Sarah...I..."
-    k ""
+    k "Sarah...I..."
 
 # WarriorQueen7Capital_43a7f9d8 (line 58926)
 translate ru WarriorQueen7Capital_43a7f9d8:
@@ -306,12 +306,12 @@ translate ru WarriorQueen7Capital_43a7f9d8:
 # WarriorQueen7Capital_8e0145c3 (line 58927)
 translate ru WarriorQueen7Capital_8e0145c3:
     # s "Come, clear your head."
-    s ""
+    s "Come, clear your head."
 
 # WarriorQueen7Capital_85f8c345 (line 58928)
 translate ru WarriorQueen7Capital_85f8c345:
     # s "We have a battle to fight."
-    s ""
+    s "We have a battle to fight."
 
 # WarriorQueen7Capital_16e1691e (line 58929)
 translate ru WarriorQueen7Capital_16e1691e:
@@ -321,7 +321,7 @@ translate ru WarriorQueen7Capital_16e1691e:
 # WarriorQueen7Capital_c6d95a55 (line 58930)
 translate ru WarriorQueen7Capital_c6d95a55:
     # k "You're right."
-    k ""
+    k "You're right."
 
 # WarriorQueen7Capital_68d09275 (line 58931)
 translate ru WarriorQueen7Capital_68d09275:
@@ -331,12 +331,12 @@ translate ru WarriorQueen7Capital_68d09275:
 # WarriorQueen7Capital_6195f2f8 (line 58932)
 translate ru WarriorQueen7Capital_6195f2f8:
     # s "That's home. Yeah, for me that's what I think of when I remembered Rosanna all those years."
-    s ""
+    s "That's home. Yeah, for me that's what I think of when I remembered Rosanna all those years."
 
 # WarriorQueen7Capital_4acbad24 (line 58933)
 translate ru WarriorQueen7Capital_4acbad24:
     # s "Those halls...my room...the throne...seeing my father and..."
-    s ""
+    s "Those halls...my room...the throne...seeing my father and..."
 
 # WarriorQueen7Capital_51012939 (line 58934)
 translate ru WarriorQueen7Capital_51012939:
@@ -346,32 +346,32 @@ translate ru WarriorQueen7Capital_51012939:
 # WarriorQueen7Capital_92967a5f (line 58935)
 translate ru WarriorQueen7Capital_92967a5f:
     # s "I lived a whole life in those halls, believing I'd play a role that I never got to play."
-    s ""
+    s "I lived a whole life in those halls, believing I'd play a role that I never got to play."
 
 # WarriorQueen7Capital_4eaa16cb (line 58936)
 translate ru WarriorQueen7Capital_4eaa16cb:
     # s "But instead..."
-    s ""
+    s "But instead..."
 
 # WarriorQueen7Capital_ac70a739 (line 58937)
 translate ru WarriorQueen7Capital_ac70a739:
     # s "I'm here now."
-    s ""
+    s "I'm here now."
 
 # WarriorQueen7Capital_50a9f590 (line 58938)
 translate ru WarriorQueen7Capital_50a9f590:
     # s "And I'm done, crying and worrying over what my life should have been, or could have been."
-    s ""
+    s "And I'm done, crying and worrying over what my life should have been, or could have been."
 
 # WarriorQueen7Capital_71cc0251 (line 58939)
 translate ru WarriorQueen7Capital_71cc0251:
     # s "We all only get this one life."
-    s ""
+    s "We all only get this one life."
 
 # WarriorQueen7Capital_94854832 (line 58940)
 translate ru WarriorQueen7Capital_94854832:
     # s "Let neither of us waste it on regret."
-    s ""
+    s "Let neither of us waste it on regret."
 
 # WarriorQueen7Capital_aebc0600 (line 58941)
 translate ru WarriorQueen7Capital_aebc0600:
@@ -581,7 +581,7 @@ translate ru WarriorQueen7Capital_e221c9c2:
 # WarriorQueen7Capital_26ff4f25 (line 59110)
 translate ru WarriorQueen7Capital_26ff4f25:
     # s "Fire!"
-    s ""
+    s "Fire!"
 
 # WarriorQueen7Capital_27add407 (line 59116)
 translate ru WarriorQueen7Capital_27add407:
@@ -646,7 +646,7 @@ translate ru WarriorQueen7Capital_0460548b:
 # WarriorQueen7Capital_1ec3f0c9 (line 59133)
 translate ru WarriorQueen7Capital_1ec3f0c9:
     # s "Advance!"
-    s ""
+    s "Advance!"
 
 # WarriorQueen7Capital_77e4be30 (line 59134)
 translate ru WarriorQueen7Capital_77e4be30:
@@ -811,7 +811,7 @@ translate ru WarriorQueen7Capital_b41d6cb0:
 # WarriorQueen7Capital_65b16cbe (line 59173)
 translate ru WarriorQueen7Capital_65b16cbe:
     # s "Rally around me!"
-    s ""
+    s "Rally around me!"
 
 # WarriorQueen7Capital_9e17dbe7 (line 59174)
 translate ru WarriorQueen7Capital_9e17dbe7:
@@ -866,7 +866,7 @@ translate ru WarriorQueen7Capital_24c12dd3:
 # WarriorQueen7Capital_0edf33fb (line 59184)
 translate ru WarriorQueen7Capital_0edf33fb:
     # s "Move up these units, shore up the core and-"
-    s ""
+    s "Move up these units, shore up the core and-"
 
 # WarriorQueen7Capital_7eb6afc2 (line 59191)
 translate ru WarriorQueen7Capital_7eb6afc2:
@@ -941,7 +941,7 @@ translate ru WarriorQueen7Capital_eb5bde38:
 # WarriorQueen7Capital_5d6c72ff (line 59211)
 translate ru WarriorQueen7Capital_5d6c72ff:
     # s "Where are they?!"
-    s ""
+    s "Where are they?!"
 
 # WarriorQueen7Capital_5be27f1c (line 59212)
 translate ru WarriorQueen7Capital_5be27f1c:
@@ -1226,7 +1226,7 @@ translate ru WarriorQueen7Capital_aa54e376:
 # WarriorQueen7Capital_81a0fe08 (line 59431)
 translate ru WarriorQueen7Capital_81a0fe08:
     # s "Let me through!"
-    s ""
+    s "Let me through!"
 
 # WarriorQueen7Capital_88b23e1f (line 59432)
 translate ru WarriorQueen7Capital_88b23e1f:
@@ -1251,7 +1251,7 @@ translate ru WarriorQueen7Capital_8d53bad4:
 # WarriorQueen7Capital_10d6a99e (line 59436)
 translate ru WarriorQueen7Capital_10d6a99e:
     # s "Horse!"
-    s ""
+    s "Horse!"
 
 # WarriorQueen7Capital_0d3cdb35 (line 59437)
 translate ru WarriorQueen7Capital_0d3cdb35:
@@ -1261,7 +1261,7 @@ translate ru WarriorQueen7Capital_0d3cdb35:
 # WarriorQueen7Capital_0d027d7e (line 59438)
 translate ru WarriorQueen7Capital_0d027d7e:
     # s "Get me a fucking horse, now!"
-    s ""
+    s "Get me a fucking horse, now!"
 
 # WarriorQueen7Capital_53472f62 (line 59439)
 translate ru WarriorQueen7Capital_53472f62:
@@ -1276,7 +1276,7 @@ translate ru WarriorQueen7Capital_23c375a6:
 # WarriorQueen7Capital_d224c2e1 (line 59441)
 translate ru WarriorQueen7Capital_d224c2e1:
     # s "Your horse, now!"
-    s ""
+    s "Your horse, now!"
 
 # WarriorQueen7Capital_8e308e24 (line 59442)
 translate ru WarriorQueen7Capital_8e308e24:
@@ -1316,7 +1316,7 @@ translate ru WarriorQueen7Capital_f49f9b33:
 # WarriorQueen7Capital_92c69933 (line 59455)
 translate ru WarriorQueen7Capital_92c69933:
     # s "You!"
-    s ""
+    s "You!"
 
 # WarriorQueen7Capital_b2831af4 (line 59456)
 translate ru WarriorQueen7Capital_b2831af4:
@@ -1326,12 +1326,12 @@ translate ru WarriorQueen7Capital_b2831af4:
 # WarriorQueen7Capital_6901a224 (line 59457)
 translate ru WarriorQueen7Capital_6901a224:
     # s "Ride up along the right flank, tell them to advance!"
-    s ""
+    s "Ride up along the right flank, tell them to advance!"
 
 # WarriorQueen7Capital_8c9b1239 (line 59458)
 translate ru WarriorQueen7Capital_8c9b1239:
     # s "Tell them to close up the gap, prevent the Tribesman from falling back!"
-    s ""
+    s "Tell them to close up the gap, prevent the Tribesman from falling back!"
 
 # WarriorQueen7Capital_d523336b (line 59459)
 translate ru WarriorQueen7Capital_d523336b:
@@ -1341,7 +1341,7 @@ translate ru WarriorQueen7Capital_d523336b:
 # WarriorQueen7Capital_85da93b5 (line 59460)
 translate ru WarriorQueen7Capital_85da93b5:
     # s "You!"
-    s ""
+    s "You!"
 
 # WarriorQueen7Capital_cefc7ac5 (line 59461)
 translate ru WarriorQueen7Capital_cefc7ac5:
@@ -1351,7 +1351,7 @@ translate ru WarriorQueen7Capital_cefc7ac5:
 # WarriorQueen7Capital_8340d597 (line 59462)
 translate ru WarriorQueen7Capital_8340d597:
     # s "Report the same to the left flank, move!"
-    s ""
+    s "Report the same to the left flank, move!"
 
 # WarriorQueen7Capital_54ecec14 (line 59463)
 translate ru WarriorQueen7Capital_54ecec14:
@@ -1481,7 +1481,7 @@ translate ru WarriorQueen7Capital_3c20276e:
 # WarriorQueen7Capital_4c5e3335 (line 59493)
 translate ru WarriorQueen7Capital_4c5e3335:
     # s "You!"
-    s ""
+    s "You!"
 
 # WarriorQueen7Capital_4f3d3296 (line 59494)
 translate ru WarriorQueen7Capital_4f3d3296:
@@ -1491,12 +1491,12 @@ translate ru WarriorQueen7Capital_4f3d3296:
 # WarriorQueen7Capital_17b9a584 (line 59495)
 translate ru WarriorQueen7Capital_17b9a584:
     # s "Report along the line, finish up the last of the Tribesmen, then reposition to move on the capital."
-    s ""
+    s "Report along the line, finish up the last of the Tribesmen, then reposition to move on the capital."
 
 # WarriorQueen7Capital_6c292580 (line 59496)
 translate ru WarriorQueen7Capital_6c292580:
     # s "Also, instruct the engineers to keep firing, I want to see the city wall crumble."
-    s ""
+    s "Also, instruct the engineers to keep firing, I want to see the city wall crumble."
 
 # WarriorQueen7Capital_3225bf19 (line 59497)
 translate ru WarriorQueen7Capital_3225bf19:
@@ -1566,7 +1566,7 @@ translate ru WarriorQueen7Capital_88fdccf4:
 # WarriorQueen7Capital_701c967e (line 59510)
 translate ru WarriorQueen7Capital_701c967e:
     # s "What is the situation with the Tribesmen?"
-    s ""
+    s "What is the situation with the Tribesmen?"
 
 # WarriorQueen7Capital_2dd4c097 (line 59511)
 translate ru WarriorQueen7Capital_2dd4c097:
@@ -1581,7 +1581,7 @@ translate ru WarriorQueen7Capital_c49ae365:
 # WarriorQueen7Capital_546dc23d (line 59513)
 translate ru WarriorQueen7Capital_546dc23d:
     # s "How many remain?"
-    s ""
+    s "How many remain?"
 
 # WarriorQueen7Capital_f9dd035d (line 59514)
 translate ru WarriorQueen7Capital_f9dd035d:
@@ -1881,7 +1881,7 @@ translate ru WarriorQueen7Capital_9eb7b996:
 # WarriorQueen7Capital_6c737298 (line 59585)
 translate ru WarriorQueen7Capital_6c737298:
     # s "Send up the vanguard, have them take the castle gates. Once they're open, move up the rest of our forces."
-    s ""
+    s "Send up the vanguard, have them take the castle gates. Once they're open, move up the rest of our forces."
 
 # WarriorQueen7Capital_5db669a5 (line 59586)
 translate ru WarriorQueen7Capital_5db669a5:
@@ -2136,7 +2136,7 @@ translate ru WarriorQueen7Capital_20e0f4ba:
 # WarriorQueen7Capital_00f3cc73 (line 59648)
 translate ru WarriorQueen7Capital_00f3cc73:
     # s "You look different than I had imagined."
-    s ""
+    s "You look different than I had imagined."
 
 # WarriorQueen7Capital_6e468a74 (line 59649)
 translate ru WarriorQueen7Capital_6e468a74:
@@ -2146,22 +2146,22 @@ translate ru WarriorQueen7Capital_6e468a74:
 # WarriorQueen7Capital_8b75f0b9 (line 59650)
 translate ru WarriorQueen7Capital_8b75f0b9:
     # kam "You..."
-    kam ""
+    kam "You..."
 
 # WarriorQueen7Capital_19c39686 (line 59651)
 translate ru WarriorQueen7Capital_19c39686:
     # s "Yes, me."
-    s ""
+    s "Yes, me."
 
 # WarriorQueen7Capital_42ee843c (line 59652)
 translate ru WarriorQueen7Capital_42ee843c:
     # kam "Princess Sarah Rose, I-"
-    kam ""
+    kam "Princess Sarah Rose, I-"
 
 # WarriorQueen7Capital_276e3b6d (line 59653)
 translate ru WarriorQueen7Capital_276e3b6d:
     # s "Oh."
-    s ""
+    s "Oh."
 
 # WarriorQueen7Capital_d433b7d5 (line 59654)
 translate ru WarriorQueen7Capital_d433b7d5:
@@ -2171,27 +2171,27 @@ translate ru WarriorQueen7Capital_d433b7d5:
 # WarriorQueen7Capital_cc0f69bc (line 59655)
 translate ru WarriorQueen7Capital_cc0f69bc:
     # s "I'm a Princess, again?"
-    s ""
+    s "I'm a Princess, again?"
 
 # WarriorQueen7Capital_3c0e91c2 (line 59656)
 translate ru WarriorQueen7Capital_3c0e91c2:
     # s "From what I've gathered you used quite a lot of flowery language to describe me in the last few years."
-    s ""
+    s "From what I've gathered you used quite a lot of flowery language to describe me in the last few years."
 
 # WarriorQueen7Capital_8970cdae (line 59657)
 translate ru WarriorQueen7Capital_8970cdae:
     # s "See, I've read reports that told me your favorite name for me was the Blonde Whore."
-    s ""
+    s "See, I've read reports that told me your favorite name for me was the Blonde Whore."
 
 # WarriorQueen7Capital_9ad22397 (line 59658)
 translate ru WarriorQueen7Capital_9ad22397:
     # kam "No! I would never, I-"
-    kam ""
+    kam "No! I would never, I-"
 
 # WarriorQueen7Capital_04d65ade (line 59659)
 translate ru WarriorQueen7Capital_04d65ade:
     # s "And one report said that during a particularly debauched feast, you went on a long description of what you would do to me, once you captured me."
-    s ""
+    s "And one report said that during a particularly debauched feast, you went on a long description of what you would do to me, once you captured me."
 
 # WarriorQueen7Capital_b16cbc45 (line 59660)
 translate ru WarriorQueen7Capital_b16cbc45:
@@ -2206,22 +2206,22 @@ translate ru WarriorQueen7Capital_c098d940:
 # WarriorQueen7Capital_e2d96380 (line 59662)
 translate ru WarriorQueen7Capital_e2d96380:
     # s "Come on, Governor Kamal."
-    s ""
+    s "Come on, Governor Kamal."
 
 # WarriorQueen7Capital_ff883502 (line 59663)
 translate ru WarriorQueen7Capital_ff883502:
     # s "I was told you were such an amusing person. Always up for a feast, a party, a joke."
-    s ""
+    s "I was told you were such an amusing person. Always up for a feast, a party, a joke."
 
 # WarriorQueen7Capital_5576b098 (line 59664)
 translate ru WarriorQueen7Capital_5576b098:
     # s "And now all I find in my Throne Room is a slobbering, crying, pig-of-a-man."
-    s ""
+    s "And now all I find in my Throne Room is a slobbering, crying, pig-of-a-man."
 
 # WarriorQueen7Capital_058b2ead (line 59665)
 translate ru WarriorQueen7Capital_058b2ead:
     # s "You're not really living up to the image of a Tribesman, I must admit."
-    s ""
+    s "You're not really living up to the image of a Tribesman, I must admit."
 
 # WarriorQueen7Capital_d8b17ecb (line 59666)
 translate ru WarriorQueen7Capital_d8b17ecb:
@@ -2231,7 +2231,7 @@ translate ru WarriorQueen7Capital_d8b17ecb:
 # WarriorQueen7Capital_23273083 (line 59667)
 translate ru WarriorQueen7Capital_23273083:
     # kam "I...I have heard reports of you as well, Lady Rose!"
-    kam ""
+    kam "I...I have heard reports of you as well, Lady Rose!"
 
 # WarriorQueen7Capital_efe0770d (line 59668)
 translate ru WarriorQueen7Capital_efe0770d:
@@ -2241,12 +2241,12 @@ translate ru WarriorQueen7Capital_efe0770d:
 # WarriorQueen7Capital_f2e8457b (line 59669)
 translate ru WarriorQueen7Capital_f2e8457b:
     # s "Did you? And what did they say?"
-    s ""
+    s "Did you? And what did they say?"
 
 # WarriorQueen7Capital_46a81de9 (line 59670)
 translate ru WarriorQueen7Capital_46a81de9:
     # kam "That you are just! You are rightious and kind! You will do what is right!"
-    kam ""
+    kam "That you are just! You are rightious and kind! You will do what is right!"
 
 # WarriorQueen7Capital_facac0bd (line 59671)
 translate ru WarriorQueen7Capital_facac0bd:
@@ -2256,22 +2256,22 @@ translate ru WarriorQueen7Capital_facac0bd:
 # WarriorQueen7Capital_e7fc189a (line 59672)
 translate ru WarriorQueen7Capital_e7fc189a:
     # s "And you think this means I will spare you?"
-    s ""
+    s "And you think this means I will spare you?"
 
 # WarriorQueen7Capital_6ba83d43 (line 59673)
 translate ru WarriorQueen7Capital_6ba83d43:
     # kam "My...my life is in your hands...I beg you..."
-    kam ""
+    kam "My...my life is in your hands...I beg you..."
 
 # WarriorQueen7Capital_26b3ca30 (line 59674)
 translate ru WarriorQueen7Capital_26b3ca30:
     # s "Beg?"
-    s ""
+    s "Beg?"
 
 # WarriorQueen7Capital_bbb9725d (line 59675)
 translate ru WarriorQueen7Capital_bbb9725d:
     # s "Did my Brother get a chance to beg?"
-    s ""
+    s "Did my Brother get a chance to beg?"
 
 # WarriorQueen7Capital_623dface (line 59676)
 translate ru WarriorQueen7Capital_623dface:
@@ -2281,17 +2281,17 @@ translate ru WarriorQueen7Capital_623dface:
 # WarriorQueen7Capital_447bb8e4 (line 59677)
 translate ru WarriorQueen7Capital_447bb8e4:
     # s "I know you were in charge of the army that invaded Rosanna all those years ago."
-    s ""
+    s "I know you were in charge of the army that invaded Rosanna all those years ago."
 
 # WarriorQueen7Capital_d0ebb055 (line 59678)
 translate ru WarriorQueen7Capital_d0ebb055:
     # s "Your Khan might have given the order, but you led the army."
-    s ""
+    s "Your Khan might have given the order, but you led the army."
 
 # WarriorQueen7Capital_7f1f24a4 (line 59679)
 translate ru WarriorQueen7Capital_7f1f24a4:
     # s "And while you left destruction in your wake, you sat yourself up on my Throne, and lived large."
-    s ""
+    s "And while you left destruction in your wake, you sat yourself up on my Throne, and lived large."
 
 # WarriorQueen7Capital_7b2bae09 (line 59680)
 translate ru WarriorQueen7Capital_7b2bae09:
@@ -2301,7 +2301,7 @@ translate ru WarriorQueen7Capital_7b2bae09:
 # WarriorQueen7Capital_610e4a68 (line 59681)
 translate ru WarriorQueen7Capital_610e4a68:
     # s "Living quite large, I see."
-    s ""
+    s "Living quite large, I see."
 
 # WarriorQueen7Capital_89bf0e2d (line 59682)
 translate ru WarriorQueen7Capital_89bf0e2d:
@@ -2311,42 +2311,42 @@ translate ru WarriorQueen7Capital_89bf0e2d:
 # WarriorQueen7Capital_3f4104c3 (line 59683)
 translate ru WarriorQueen7Capital_3f4104c3:
     # kam "Please! I can..."
-    kam ""
+    kam "Please! I can..."
 
 # WarriorQueen7Capital_0f66a287 (line 59684)
 translate ru WarriorQueen7Capital_0f66a287:
     # s "Can what?"
-    s ""
+    s "Can what?"
 
 # WarriorQueen7Capital_1fb3f26b (line 59685)
 translate ru WarriorQueen7Capital_1fb3f26b:
     # kam "I can leave!"
-    kam ""
+    kam "I can leave!"
 
 # WarriorQueen7Capital_95baf29b (line 59686)
 translate ru WarriorQueen7Capital_95baf29b:
     # kam "I will take what is left of my men and I will leave your lands!"
-    kam ""
+    kam "I will take what is left of my men and I will leave your lands!"
 
 # WarriorQueen7Capital_94546d94 (line 59687)
 translate ru WarriorQueen7Capital_94546d94:
     # kam "I will go far into the desert and I will tell everyone who will hear of your victory!"
-    kam ""
+    kam "I will go far into the desert and I will tell everyone who will hear of your victory!"
 
 # WarriorQueen7Capital_706aa9e1 (line 59688)
 translate ru WarriorQueen7Capital_706aa9e1:
     # kam "Nobody...nobody will doubt that you have reclaimed your land when I spread the word that I surrendered to you."
-    kam ""
+    kam "Nobody...nobody will doubt that you have reclaimed your land when I spread the word that I surrendered to you."
 
 # WarriorQueen7Capital_76c9e68b (line 59689)
 translate ru WarriorQueen7Capital_76c9e68b:
     # kam "And...and they will know of your kindness!"
-    kam ""
+    kam "And...and they will know of your kindness!"
 
 # WarriorQueen7Capital_5a007ce8 (line 59690)
 translate ru WarriorQueen7Capital_5a007ce8:
     # kam "A woman so gracious that she could forgive even the likes of me!"
-    kam ""
+    kam "A woman so gracious that she could forgive even the likes of me!"
 
 # WarriorQueen7Capital_30360aa7 (line 59691)
 translate ru WarriorQueen7Capital_30360aa7:
@@ -2356,12 +2356,12 @@ translate ru WarriorQueen7Capital_30360aa7:
 # WarriorQueen7Capital_7629f1a7 (line 59692)
 translate ru WarriorQueen7Capital_7629f1a7:
     # s "It's a nice idea, and I'll give you credit for trying."
-    s ""
+    s "It's a nice idea, and I'll give you credit for trying."
 
 # WarriorQueen7Capital_f3360108 (line 59693)
 translate ru WarriorQueen7Capital_f3360108:
     # s "But I think I have other ways of sending a message to people."
-    s ""
+    s "But I think I have other ways of sending a message to people."
 
 # WarriorQueen7Capital_5925888b (line 59694)
 translate ru WarriorQueen7Capital_5925888b:
@@ -2371,12 +2371,12 @@ translate ru WarriorQueen7Capital_5925888b:
 # WarriorQueen7Capital_49d394d5 (line 59695)
 translate ru WarriorQueen7Capital_49d394d5:
     # s "Men, hold him down."
-    s ""
+    s "Men, hold him down."
 
 # WarriorQueen7Capital_b41ceff5 (line 59696)
 translate ru WarriorQueen7Capital_b41ceff5:
     # kam "NOOO!!!!"
-    kam ""
+    kam "NOOO!!!!"
 
 # WarriorQueen7Capital_b970342d (line 59697)
 translate ru WarriorQueen7Capital_b970342d:
@@ -2391,7 +2391,7 @@ translate ru WarriorQueen7Capital_7a6947d7:
 # WarriorQueen7Capital_6a67fac4 (line 59699)
 translate ru WarriorQueen7Capital_6a67fac4:
     # s "Come now, Kamal."
-    s ""
+    s "Come now, Kamal."
 
 # WarriorQueen7Capital_0deabb0e (line 59700)
 translate ru WarriorQueen7Capital_0deabb0e:
@@ -2406,12 +2406,12 @@ translate ru WarriorQueen7Capital_dfd5ce84:
 # WarriorQueen7Capital_485b4093 (line 59702)
 translate ru WarriorQueen7Capital_485b4093:
     # s "You're going to die."
-    s ""
+    s "You're going to die."
 
 # WarriorQueen7Capital_20487f45 (line 59703)
 translate ru WarriorQueen7Capital_20487f45:
     # kam "NOOO!!! WAIT!!!"
-    kam ""
+    kam "NOOO!!! WAIT!!!"
 
 # WarriorQueen7Capital_1e39da88 (line 59704)
 translate ru WarriorQueen7Capital_1e39da88:
@@ -2421,7 +2421,7 @@ translate ru WarriorQueen7Capital_1e39da88:
 # WarriorQueen7Capital_6a80aecf (line 59705)
 translate ru WarriorQueen7Capital_6a80aecf:
     # s "The least you can do is go out with a little dignity."
-    s ""
+    s "The least you can do is go out with a little dignity."
 
 # WarriorQueen7Capital_a15058db (line 59706)
 translate ru WarriorQueen7Capital_a15058db:
@@ -2471,12 +2471,12 @@ translate ru WarriorQueen7Capital_ab70b310:
 # WarriorQueen7Capital_7793d246 (line 59721)
 translate ru WarriorQueen7Capital_7793d246:
     # s "Get rid of his body."
-    s ""
+    s "Get rid of his body."
 
 # WarriorQueen7Capital_43bc8397 (line 59722)
 translate ru WarriorQueen7Capital_43bc8397:
     # s "As for the head, put that up on a spike with the others."
-    s ""
+    s "As for the head, put that up on a spike with the others."
 
 # WarriorQueen7Capital_f1cefa4f (line 59723)
 translate ru WarriorQueen7Capital_f1cefa4f:
@@ -2571,7 +2571,7 @@ translate ru WarriorQueen7Capital_43b5ae16:
 # WarriorQueen7Capital_61aad3a4 (line 59747)
 translate ru WarriorQueen7Capital_61aad3a4:
     # s "It should have been you..."
-    s ""
+    s "It should have been you..."
 
 # WarriorQueen7Capital_5f941102 (line 59748)
 translate ru WarriorQueen7Capital_5f941102:
@@ -2976,7 +2976,7 @@ translate ru WarriorQueen7Capital_88d14b7d:
 # WarriorQueen7Capital_2bb69328 (line 60140)
 translate ru WarriorQueen7Capital_2bb69328:
     # s "I do."
-    s ""
+    s "I do."
 
 # WarriorQueen7Capital_7bab1084 (line 60141)
 translate ru WarriorQueen7Capital_7bab1084:
@@ -3051,12 +3051,12 @@ translate ru WarriorQueen7Capital_e361916e:
 # WarriorQueen7Capital_5d4a5932 (line 60160)
 translate ru WarriorQueen7Capital_5d4a5932:
     # ko "Do not be afraid of the weight of the crown."
-    ko ""
+    ko "Do not be afraid of the weight of the crown."
 
 # WarriorQueen7Capital_216d4463 (line 60161)
 translate ru WarriorQueen7Capital_216d4463:
     # ko "You will carry it well."
-    ko ""
+    ko "You will carry it well."
 
 # WarriorQueen7Capital_d1aa72ba (line 60162)
 translate ru WarriorQueen7Capital_d1aa72ba:
@@ -3066,17 +3066,17 @@ translate ru WarriorQueen7Capital_d1aa72ba:
 # WarriorQueen7Capital_e72ac9e9 (line 60163)
 translate ru WarriorQueen7Capital_e72ac9e9:
     # s "What if I'm not worthy?"
-    s ""
+    s "What if I'm not worthy?"
 
 # WarriorQueen7Capital_50218bdd (line 60164)
 translate ru WarriorQueen7Capital_50218bdd:
     # ko "Who can be, of such an inhuman burden?"
-    ko ""
+    ko "Who can be, of such an inhuman burden?"
 
 # WarriorQueen7Capital_395f153d (line 60165)
 translate ru WarriorQueen7Capital_395f153d:
     # s "You were..."
-    s ""
+    s "You were..."
 
 # WarriorQueen7Capital_6b6cd5b7 (line 60166)
 translate ru WarriorQueen7Capital_6b6cd5b7:
@@ -3086,27 +3086,27 @@ translate ru WarriorQueen7Capital_6b6cd5b7:
 # WarriorQueen7Capital_e270e51c (line 60167)
 translate ru WarriorQueen7Capital_e270e51c:
     # ko "You saw me and gave me your trust."
-    ko ""
+    ko "You saw me and gave me your trust."
 
 # WarriorQueen7Capital_ebd0a433 (line 60168)
 translate ru WarriorQueen7Capital_ebd0a433:
     # ko "Just as they now do the same for you."
-    ko ""
+    ko "Just as they now do the same for you."
 
 # WarriorQueen7Capital_d7dd9c64 (line 60169)
 translate ru WarriorQueen7Capital_d7dd9c64:
     # s "And if I mess it up? What if I don't know what to do?"
-    s ""
+    s "And if I mess it up? What if I don't know what to do?"
 
 # WarriorQueen7Capital_e26b5396 (line 60170)
 translate ru WarriorQueen7Capital_e26b5396:
     # ko "You have your mother's heart."
-    ko ""
+    ko "You have your mother's heart."
 
 # WarriorQueen7Capital_7d71c2d7 (line 60171)
 translate ru WarriorQueen7Capital_7d71c2d7:
     # ko "What better compass could you ask for?"
-    ko ""
+    ko "What better compass could you ask for?"
 
 # WarriorQueen7Capital_e0d77a5c (line 60172)
 translate ru WarriorQueen7Capital_e0d77a5c:

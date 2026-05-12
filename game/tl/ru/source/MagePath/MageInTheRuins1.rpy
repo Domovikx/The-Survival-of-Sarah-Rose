@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: MageInTheRuins1
-# Total blocks: 92
+# Total blocks: 90
 
 # MageInTheRuins1_176dd1cb (line 82298)
 translate ru MageInTheRuins1_176dd1cb:
@@ -452,14 +452,4 @@ translate ru MageInTheRuins1_1dbb6496:
 translate ru MageInTheRuins1_037b302e:
     # "The orcs advanced to keep her distracted, while the goblins prepared the only real weapon they had."
     ""
-
-# MageInTheRuins1_968a7622 (line 82509)
-translate ru MageInTheRuins1_968a7622:
-    # "Attack the goblins"
-    "Attack the goblins" ""
-
-# MageInTheRuins1_d0d369c4 (line 82512)
-translate ru MageInTheRuins1_d0d369c4:
-    # "Keep defending against the orcs"
-    "Keep defending against the orcs" ""
 

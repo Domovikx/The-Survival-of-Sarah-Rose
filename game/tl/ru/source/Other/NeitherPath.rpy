@@ -86,7 +86,7 @@ translate ru NeitherPath_f2da0c4d:
 # NeitherPath_7e2bfbe5 (line 4529)
 translate ru NeitherPath_7e2bfbe5:
     # b "Princess Sarah Rose..."
-    b ""
+    b "Princess Sarah Rose..."
 
 # NeitherPath_1ef6b7e9 (line 4530)
 translate ru NeitherPath_1ef6b7e9:
@@ -96,12 +96,12 @@ translate ru NeitherPath_1ef6b7e9:
 # NeitherPath_aab723ed (line 4531)
 translate ru NeitherPath_aab723ed:
     # b "By order of the Rosanna Interim Committee, I place you under arrest on suspicion of treason."
-    b ""
+    b "By order of the Rosanna Interim Committee, I place you under arrest on suspicion of treason."
 
 # NeitherPath_0aede0d3 (line 4532)
 translate ru NeitherPath_0aede0d3:
     # b "These soldiers will take you back to your room until further order."
-    b ""
+    b "These soldiers will take you back to your room until further order."
 
 # NeitherPath_4686f039 (line 4533)
 translate ru NeitherPath_4686f039:
@@ -121,7 +121,7 @@ translate ru NeitherPath_8efdae4e:
 # NeitherPath_f1279320 (line 4536)
 translate ru NeitherPath_f1279320:
     # s "Where is Thomas?!"
-    s ""
+    s "Where is Thomas?!"
 
 # NeitherPath_a799a189 (line 4537)
 translate ru NeitherPath_a799a189:
@@ -131,7 +131,7 @@ translate ru NeitherPath_a799a189:
 # NeitherPath_a8697f27 (line 4538)
 translate ru NeitherPath_a8697f27:
     # b "That's not your concern, my lady. Please, allow these men to escort you back to your room. I promise no harm will come to you."
-    b ""
+    b "That's not your concern, my lady. Please, allow these men to escort you back to your room. I promise no harm will come to you."
 
 # NeitherPath_5ea08e85 (line 4539)
 translate ru NeitherPath_5ea08e85:
@@ -141,7 +141,7 @@ translate ru NeitherPath_5ea08e85:
 # NeitherPath_187398bb (line 4540)
 translate ru NeitherPath_187398bb:
     # v "Whomever so much as moves to put a hand on her, prepare to lose it!"
-    v ""
+    v "Whomever so much as moves to put a hand on her, prepare to lose it!"
 
 # NeitherPath_bd95ec5e (line 4541)
 translate ru NeitherPath_bd95ec5e:
@@ -151,12 +151,12 @@ translate ru NeitherPath_bd95ec5e:
 # NeitherPath_9aea04f0 (line 4542)
 translate ru NeitherPath_9aea04f0:
     # b "You want to try your luck at fighting off five of Rosanna's finest soldiers? Fine."
-    b ""
+    b "You want to try your luck at fighting off five of Rosanna's finest soldiers? Fine."
 
 # NeitherPath_a6fb4ec8 (line 4543)
 translate ru NeitherPath_a6fb4ec8:
     # b "Soldiers! Seize the princess, and if this lowborn creature tries to stop you, do what you must."
-    b ""
+    b "Soldiers! Seize the princess, and if this lowborn creature tries to stop you, do what you must."
 
 # NeitherPath_4f86187e (line 4544)
 translate ru NeitherPath_4f86187e:
@@ -201,7 +201,7 @@ translate ru NeitherPath_dc9b0fe7:
 # NeitherPath_643573a6 (line 4554)
 translate ru NeitherPath_643573a6:
     # kr "I'm sorry, old friend."
-    kr ""
+    kr "I'm sorry, old friend."
 
 # NeitherPath_7c43abd7 (line 4555)
 translate ru NeitherPath_7c43abd7:
@@ -211,7 +211,7 @@ translate ru NeitherPath_7c43abd7:
 # NeitherPath_4d743e9d (line 4556)
 translate ru NeitherPath_4d743e9d:
     # kr "Your soldiers have been inconvenienced on their way here. These ones happen to be mine."
-    kr ""
+    kr "Your soldiers have been inconvenienced on their way here. These ones happen to be mine."
 
 # NeitherPath_da147910 (line 4557)
 translate ru NeitherPath_da147910:
@@ -226,12 +226,12 @@ translate ru NeitherPath_ddabf8ca:
 # NeitherPath_8669a64b (line 4559)
 translate ru NeitherPath_8669a64b:
     # kr "Princess Sarah, there is an uprising under way. Your enemies are making their move."
-    kr ""
+    kr "Princess Sarah, there is an uprising under way. Your enemies are making their move."
 
 # NeitherPath_c4bdd511 (line 4560)
 translate ru NeitherPath_c4bdd511:
     # s "My...enemies?"
-    s ""
+    s "My...enemies?"
 
 # NeitherPath_85cc76af (line 4561)
 translate ru NeitherPath_85cc76af:
@@ -241,7 +241,7 @@ translate ru NeitherPath_85cc76af:
 # NeitherPath_04e12227 (line 4562)
 translate ru NeitherPath_04e12227:
     # kr "The old houses, under the leadership of Marion Achillea, have risen their banners against you."
-    kr ""
+    kr "The old houses, under the leadership of Marion Achillea, have risen their banners against you."
 
 # NeitherPath_7e05e45c (line 4563)
 translate ru NeitherPath_7e05e45c:
@@ -261,22 +261,22 @@ translate ru NeitherPath_f2d8c6b2:
 # NeitherPath_60e1595f (line 4566)
 translate ru NeitherPath_60e1595f:
     # s "What was Barion's part in all this?"
-    s ""
+    s "What was Barion's part in all this?"
 
 # NeitherPath_5063f5dd (line 4567)
 translate ru NeitherPath_5063f5dd:
     # kr "Barion has been loyal to your family and Rosanna for all this life, but he has always seen the value of the noble families and their guiding hand."
-    kr ""
+    kr "Barion has been loyal to your family and Rosanna for all this life, but he has always seen the value of the noble families and their guiding hand."
 
 # NeitherPath_3720a5ff (line 4568)
 translate ru NeitherPath_3720a5ff:
     # kr "I fear that Marion has managed to seduce him, convincing him that betraying you and your family would be for the greater good of the nation."
-    kr ""
+    kr "I fear that Marion has managed to seduce him, convincing him that betraying you and your family would be for the greater good of the nation."
 
 # NeitherPath_767b8a4a (line 4569)
 translate ru NeitherPath_767b8a4a:
     # kr "Foolishly, he believed Marion."
-    kr ""
+    kr "Foolishly, he believed Marion."
 
 # NeitherPath_82584c74 (line 4570)
 translate ru NeitherPath_82584c74:
@@ -291,22 +291,22 @@ translate ru NeitherPath_6b7485e1:
 # NeitherPath_a26d4fd9 (line 4572)
 translate ru NeitherPath_a26d4fd9:
     # s "When did you first learn this?"
-    s ""
+    s "When did you first learn this?"
 
 # NeitherPath_da8cbf5d (line 4573)
 translate ru NeitherPath_da8cbf5d:
     # kr "Only earlier this morning."
-    kr ""
+    kr "Only earlier this morning."
 
 # NeitherPath_00db9e50 (line 4574)
 translate ru NeitherPath_00db9e50:
     # kr "They had kept their plans well hidden, but Barion saw me as a friend, and he confided in me shortly before the meeting began."
-    kr ""
+    kr "They had kept their plans well hidden, but Barion saw me as a friend, and he confided in me shortly before the meeting began."
 
 # NeitherPath_e8211372 (line 4575)
 translate ru NeitherPath_e8211372:
     # s "He told you about their plans to betray me and my family?"
-    s ""
+    s "He told you about their plans to betray me and my family?"
 
 # NeitherPath_ccb8ff5d (line 4576)
 translate ru NeitherPath_ccb8ff5d:
@@ -316,12 +316,12 @@ translate ru NeitherPath_ccb8ff5d:
 # NeitherPath_c09419ef (line 4577)
 translate ru NeitherPath_c09419ef:
     # kr "Yes. There was only so much time, I moved as quickly as I could to dispatch my own soldiers to intercept his, but..."
-    kr ""
+    kr "Yes. There was only so much time, I moved as quickly as I could to dispatch my own soldiers to intercept his, but..."
 
 # NeitherPath_b5a0aa9f (line 4578)
 translate ru NeitherPath_b5a0aa9f:
     # s "But what?"
-    s ""
+    s "But what?"
 
 # NeitherPath_00550d5b (line 4579)
 translate ru NeitherPath_00550d5b:
@@ -331,17 +331,17 @@ translate ru NeitherPath_00550d5b:
 # NeitherPath_2cd84498 (line 4580)
 translate ru NeitherPath_2cd84498:
     # kr "I also send out a unit of soldiers towards the hunting woods, but I fear they won't arrive in time."
-    kr ""
+    kr "I also send out a unit of soldiers towards the hunting woods, but I fear they won't arrive in time."
 
 # NeitherPath_6184fbe3 (line 4581)
 translate ru NeitherPath_6184fbe3:
     # s "In time for what?"
-    s ""
+    s "In time for what?"
 
 # NeitherPath_430925bb (line 4582)
 translate ru NeitherPath_430925bb:
     # kr "In time to prevent them from seizing king Thomas."
-    kr ""
+    kr "In time to prevent them from seizing king Thomas."
 
 # NeitherPath_f00bcaaa (line 4583)
 translate ru NeitherPath_f00bcaaa:
@@ -351,17 +351,17 @@ translate ru NeitherPath_f00bcaaa:
 # NeitherPath_213c1484 (line 4584)
 translate ru NeitherPath_213c1484:
     # s "Thomas...what...what are they going to do?"
-    s ""
+    s "Thomas...what...what are they going to do?"
 
 # NeitherPath_edf19eed (line 4585)
 translate ru NeitherPath_edf19eed:
     # kr "I only know what Barion told me, but from what I gathered it was Marion's plan to lure your brother out from the castle and capture him."
-    kr ""
+    kr "I only know what Barion told me, but from what I gathered it was Marion's plan to lure your brother out from the castle and capture him."
 
 # NeitherPath_4aeb5928 (line 4586)
 translate ru NeitherPath_4aeb5928:
     # kr "They believed that with you and your brother under arrest, they could take over the country with little bloodshed."
-    kr ""
+    kr "They believed that with you and your brother under arrest, they could take over the country with little bloodshed."
 
 # NeitherPath_e7caf498 (line 4587)
 translate ru NeitherPath_e7caf498:
@@ -386,12 +386,12 @@ translate ru NeitherPath_d3fb4b78:
 # NeitherPath_018d0148 (line 4591)
 translate ru NeitherPath_018d0148:
     # s "They have failed, at the very least to seize me."
-    s ""
+    s "They have failed, at the very least to seize me."
 
 # NeitherPath_ef4269c6 (line 4592)
 translate ru NeitherPath_ef4269c6:
     # s "As soon as the soldiers return from the hunting woods, I want to know what happened to Thomas."
-    s ""
+    s "As soon as the soldiers return from the hunting woods, I want to know what happened to Thomas."
 
 # NeitherPath_3897c98a (line 4593)
 translate ru NeitherPath_3897c98a:
@@ -401,7 +401,7 @@ translate ru NeitherPath_3897c98a:
 # NeitherPath_f8a74506 (line 4594)
 translate ru NeitherPath_f8a74506:
     # kr "Of course, Princess Sarah."
-    kr ""
+    kr "Of course, Princess Sarah."
 
 # NeitherPath_163ec16a (line 4595)
 translate ru NeitherPath_163ec16a:
@@ -411,12 +411,12 @@ translate ru NeitherPath_163ec16a:
 # NeitherPath_53032c9e (line 4596)
 translate ru NeitherPath_53032c9e:
     # s "Varga, you will immediately take command of all of Rosanna's armed forces. There isn't a moment to waste."
-    s ""
+    s "Varga, you will immediately take command of all of Rosanna's armed forces. There isn't a moment to waste."
 
 # NeitherPath_54fc1426 (line 4597)
 translate ru NeitherPath_54fc1426:
     # s "Go and gather the commanders, see which are still loyal and which we have lost. We need a complete account of our remaining forces."
-    s ""
+    s "Go and gather the commanders, see which are still loyal and which we have lost. We need a complete account of our remaining forces."
 
 # NeitherPath_64bd5ac2 (line 4598)
 translate ru NeitherPath_64bd5ac2:
@@ -426,7 +426,7 @@ translate ru NeitherPath_64bd5ac2:
 # NeitherPath_cd361171 (line 4599)
 translate ru NeitherPath_cd361171:
     # v "I'll go right away."
-    v ""
+    v "I'll go right away."
 
 # NeitherPath_ee57dc5a (line 4600)
 translate ru NeitherPath_ee57dc5a:
@@ -441,7 +441,7 @@ translate ru NeitherPath_222f297c:
 # NeitherPath_36054c68 (line 4603)
 translate ru NeitherPath_36054c68:
     # s "Begin by taking account of all our remaining finances. See if they haven't looted those too."
-    s ""
+    s "Begin by taking account of all our remaining finances. See if they haven't looted those too."
 
 # NeitherPath_449b0616 (line 4604)
 translate ru NeitherPath_449b0616:
@@ -451,12 +451,12 @@ translate ru NeitherPath_449b0616:
 # NeitherPath_a6ebaf03 (line 4605)
 translate ru NeitherPath_a6ebaf03:
     # s "Also, give me a list of all the assets of the old houses that are in the capital."
-    s ""
+    s "Also, give me a list of all the assets of the old houses that are in the capital."
 
 # NeitherPath_e4aca5ea (line 4606)
 translate ru NeitherPath_e4aca5ea:
     # c "Of course, Princess Sarah."
-    c ""
+    c "Of course, Princess Sarah."
 
 # NeitherPath_8541a388 (line 4607)
 translate ru NeitherPath_8541a388:
@@ -471,12 +471,12 @@ translate ru NeitherPath_5a30545f:
 # NeitherPath_950d5c37 (line 4610)
 translate ru NeitherPath_950d5c37:
     # s "You must tell me everything you know about this plot, every little detail that Barion entrusted you with."
-    s ""
+    s "You must tell me everything you know about this plot, every little detail that Barion entrusted you with."
 
 # NeitherPath_2505c685 (line 4611)
 translate ru NeitherPath_2505c685:
     # s "I must get a hold on what is happening, and I must begin to take back control."
-    s ""
+    s "I must get a hold on what is happening, and I must begin to take back control."
 
 # NeitherPath_033f54c5 (line 4612)
 translate ru NeitherPath_033f54c5:
@@ -486,12 +486,12 @@ translate ru NeitherPath_033f54c5:
 # NeitherPath_aa99f468 (line 4613)
 translate ru NeitherPath_aa99f468:
     # kr "Very well, princess Sarah."
-    kr ""
+    kr "Very well, princess Sarah."
 
 # NeitherPath_881ae7da (line 4614)
 translate ru NeitherPath_881ae7da:
     # s "The most important thing is getting Thomas back alive."
-    s ""
+    s "The most important thing is getting Thomas back alive."
 
 # NeitherPath_b2d2e5d1 (line 4615)
 translate ru NeitherPath_b2d2e5d1:
@@ -526,7 +526,7 @@ translate ru NeitherPath_ebde5732:
 # NeitherPath_5dbc7d45 (line 4621)
 translate ru NeitherPath_5dbc7d45:
     # s "Perhaps I should have been kinder to him when I said no..."
-    s ""
+    s "Perhaps I should have been kinder to him when I said no..."
 
 # NeitherPath_701669a1 (line 4622)
 translate ru NeitherPath_701669a1:
@@ -536,22 +536,22 @@ translate ru NeitherPath_701669a1:
 # NeitherPath_9d63b8c2 (line 4623)
 translate ru NeitherPath_9d63b8c2:
     # kr "Perhaps, Princess, but don't hold it against yourself."
-    kr ""
+    kr "Perhaps, Princess, but don't hold it against yourself."
 
 # NeitherPath_1ef9535b (line 4624)
 translate ru NeitherPath_1ef9535b:
     # kr "Many men propose, only to be told no. Very few of them go on to lead an insurrection because of it."
-    kr ""
+    kr "Many men propose, only to be told no. Very few of them go on to lead an insurrection because of it."
 
 # NeitherPath_4dbb9d5d (line 4625)
 translate ru NeitherPath_4dbb9d5d:
     # kr "Whatever Marion is doing, I don't doubt that he must have been carrying these plans around for a long time."
-    kr ""
+    kr "Whatever Marion is doing, I don't doubt that he must have been carrying these plans around for a long time."
 
 # NeitherPath_9a79be01 (line 4626)
 translate ru NeitherPath_9a79be01:
     # kr "Your refusal is most likely just a simple excuse for him to do what was already in his heart."
-    kr ""
+    kr "Your refusal is most likely just a simple excuse for him to do what was already in his heart."
 
 # NeitherPath_00c64b52 (line 4627)
 translate ru NeitherPath_00c64b52:
@@ -561,12 +561,12 @@ translate ru NeitherPath_00c64b52:
 # NeitherPath_9b0503d7 (line 4628)
 translate ru NeitherPath_9b0503d7:
     # s "Perhaps you're right..."
-    s ""
+    s "Perhaps you're right..."
 
 # NeitherPath_8267596c (line 4629)
 translate ru NeitherPath_8267596c:
     # s "But it doesn't matter. What matters is putting a stop to this insurrection and getting Thomas back."
-    s ""
+    s "But it doesn't matter. What matters is putting a stop to this insurrection and getting Thomas back."
 
 # NeitherPath_b18d6121 (line 4630)
 translate ru NeitherPath_b18d6121:
@@ -581,22 +581,22 @@ translate ru NeitherPath_421cd62e:
 # NeitherPath_28aacec5 (line 4632)
 translate ru NeitherPath_28aacec5:
     # s "What?"
-    s ""
+    s "What?"
 
 # NeitherPath_f600fb10 (line 4633)
 translate ru NeitherPath_f600fb10:
     # kr "One of my men came back from the hunting woods."
-    kr ""
+    kr "One of my men came back from the hunting woods."
 
 # NeitherPath_b954abf4 (line 4634)
 translate ru NeitherPath_b954abf4:
     # kr "He informs us that they came across Marion's party and gave chase. They tried to pursue them, but his entourage escaped and managed to join up with an Achillea army unit."
-    kr ""
+    kr "He informs us that they came across Marion's party and gave chase. They tried to pursue them, but his entourage escaped and managed to join up with an Achillea army unit."
 
 # NeitherPath_cfe149f2 (line 4635)
 translate ru NeitherPath_cfe149f2:
     # kr "My men, they're only a small scouting party. They were no match for Marion's soldiers, and so they retreated."
-    kr ""
+    kr "My men, they're only a small scouting party. They were no match for Marion's soldiers, and so they retreated."
 
 # NeitherPath_b6bffbfe (line 4636)
 translate ru NeitherPath_b6bffbfe:
@@ -606,7 +606,7 @@ translate ru NeitherPath_b6bffbfe:
 # NeitherPath_b8bd09d3 (line 4637)
 translate ru NeitherPath_b8bd09d3:
     # kr "They have found no trace of Thomas..."
-    kr ""
+    kr "They have found no trace of Thomas..."
 
 # NeitherPath_c042ccd7 (line 4638)
 translate ru NeitherPath_c042ccd7:
@@ -616,7 +616,7 @@ translate ru NeitherPath_c042ccd7:
 # NeitherPath_315de080 (line 4639)
 translate ru NeitherPath_315de080:
     # s "Is he dead?"
-    s ""
+    s "Is he dead?"
 
 # NeitherPath_ca564b54 (line 4640)
 translate ru NeitherPath_ca564b54:
@@ -626,7 +626,7 @@ translate ru NeitherPath_ca564b54:
 # NeitherPath_b5341ef0 (line 4641)
 translate ru NeitherPath_b5341ef0:
     # kr "No sign means no body. Most likely, Marion and his men captured Thomas and brought him along. If that's the case, we must assume he's in their custody."
-    kr ""
+    kr "No sign means no body. Most likely, Marion and his men captured Thomas and brought him along. If that's the case, we must assume he's in their custody."
 
 # NeitherPath_ae42df36 (line 4642)
 translate ru NeitherPath_ae42df36:
@@ -636,12 +636,12 @@ translate ru NeitherPath_ae42df36:
 # NeitherPath_2c038e89 (line 4643)
 translate ru NeitherPath_2c038e89:
     # s "That fucking snake!"
-    s ""
+    s "That fucking snake!"
 
 # NeitherPath_26e48eeb (line 4644)
 translate ru NeitherPath_26e48eeb:
     # s "If I get my hands on Marion, he'll regret ever being born."
-    s ""
+    s "If I get my hands on Marion, he'll regret ever being born."
 
 # NeitherPath_24edbf1b (line 4645)
 translate ru NeitherPath_24edbf1b:
@@ -651,32 +651,32 @@ translate ru NeitherPath_24edbf1b:
 # NeitherPath_352b121a (line 4646)
 translate ru NeitherPath_352b121a:
     # kr "My lady, while I understand your anger in the moment, let me actually live up to my title as advisor."
-    kr ""
+    kr "My lady, while I understand your anger in the moment, let me actually live up to my title as advisor."
 
 # NeitherPath_8e9a8284 (line 4647)
 translate ru NeitherPath_8e9a8284:
     # kr "King Thomas is most likely their hostage."
-    kr ""
+    kr "King Thomas is most likely their hostage."
 
 # NeitherPath_a00dcbfc (line 4648)
 translate ru NeitherPath_a00dcbfc:
     # kr "They will bring him to one of their forts, surrounded by soldiers loyal to their noble houses."
-    kr ""
+    kr "They will bring him to one of their forts, surrounded by soldiers loyal to their noble houses."
 
 # NeitherPath_729a9d46 (line 4649)
 translate ru NeitherPath_729a9d46:
     # kr "If we wish to have any chance of bringing him back alive, we will have to act with extreme caution."
-    kr ""
+    kr "If we wish to have any chance of bringing him back alive, we will have to act with extreme caution."
 
 # NeitherPath_21a2c1a2 (line 4650)
 translate ru NeitherPath_21a2c1a2:
     # s "What's your point?"
-    s ""
+    s "What's your point?"
 
 # NeitherPath_d1a7093c (line 4651)
 translate ru NeitherPath_d1a7093c:
     # kr "My point is that force and revenge alone won't be enough to guarantee your brother's safe return. When it comes to it, you might have to be willing to treat your enemies with mercy."
-    kr ""
+    kr "My point is that force and revenge alone won't be enough to guarantee your brother's safe return. When it comes to it, you might have to be willing to treat your enemies with mercy."
 
 # NeitherPath_7d199c19 (line 4652)
 translate ru NeitherPath_7d199c19:
@@ -686,10 +686,10 @@ translate ru NeitherPath_7d199c19:
 # NeitherPath_10e6bb0f (line 4653)
 translate ru NeitherPath_10e6bb0f:
     # s "Perhaps..."
-    s ""
+    s "Perhaps..."
 
 # NeitherPath_f51fbd0d (line 4654)
 translate ru NeitherPath_f51fbd0d:
     # s "But let's catch this snake before we decide what to do with him."
-    s ""
+    s "But let's catch this snake before we decide what to do with him."
 

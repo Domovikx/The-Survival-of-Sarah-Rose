@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: ServantOfGilead1
-# Total blocks: 589
+# Total blocks: 577
 
 # ServantOfGilead1_eac2a3db (line 27941)
 translate ru ServantOfGilead1_eac2a3db:
@@ -11,7 +11,7 @@ translate ru ServantOfGilead1_eac2a3db:
 # ServantOfGilead1_62997640 (line 27942)
 translate ru ServantOfGilead1_62997640:
     # s "I'll take the job...but what exactly will I have to do?"
-    s ""
+    s "I'll take the job...but what exactly will I have to do?"
 
 # ServantOfGilead1_1755a77f (line 27943)
 translate ru ServantOfGilead1_1755a77f:
@@ -61,7 +61,7 @@ translate ru ServantOfGilead1_6c2e1f60:
 # ServantOfGilead1_7f43b149 (line 27952)
 translate ru ServantOfGilead1_7f43b149:
     # s "Right now?"
-    s ""
+    s "Right now?"
 
 # ServantOfGilead1_e58d8411 (line 27953)
 translate ru ServantOfGilead1_e58d8411:
@@ -136,7 +136,7 @@ translate ru ServantOfGilead1_888595f9:
 # ServantOfGilead1_7ca12251 (line 27972)
 translate ru ServantOfGilead1_7ca12251:
     # s "This..."
-    s ""
+    s "This..."
 
 # ServantOfGilead1_44170f0d (line 27973)
 translate ru ServantOfGilead1_44170f0d:
@@ -221,7 +221,7 @@ translate ru ServantOfGilead1_4ac365cc:
 # ServantOfGilead1_227fd100 (line 27999)
 translate ru ServantOfGilead1_227fd100:
     # alf "Are these sorry lot the new recruits?"
-    alf ""
+    alf "Are these sorry lot the new recruits?"
 
 # ServantOfGilead1_236e95d6 (line 28000)
 translate ru ServantOfGilead1_236e95d6:
@@ -231,7 +231,7 @@ translate ru ServantOfGilead1_236e95d6:
 # ServantOfGilead1_d90f2eab (line 28001)
 translate ru ServantOfGilead1_d90f2eab:
     # alf "Can any of them even cook or clean?"
-    alf ""
+    alf "Can any of them even cook or clean?"
 
 # ServantOfGilead1_c1d7753d (line 28002)
 translate ru ServantOfGilead1_c1d7753d:
@@ -251,7 +251,7 @@ translate ru ServantOfGilead1_f2f03cdb:
 # ServantOfGilead1_353ac2bf (line 28005)
 translate ru ServantOfGilead1_353ac2bf:
     # alf "Fine, I'll take it from here."
-    alf ""
+    alf "Fine, I'll take it from here."
 
 # ServantOfGilead1_5cf3debb (line 28006)
 translate ru ServantOfGilead1_5cf3debb:
@@ -261,17 +261,17 @@ translate ru ServantOfGilead1_5cf3debb:
 # ServantOfGilead1_48ebc3f2 (line 28008)
 translate ru ServantOfGilead1_48ebc3f2:
     # alf "Alright, what we got here. Three women and two men."
-    alf ""
+    alf "Alright, what we got here. Three women and two men."
 
 # ServantOfGilead1_7f869715 (line 28009)
 translate ru ServantOfGilead1_7f869715:
     # alf "I asked for more men, but I guess we'll need to do with what we got."
-    alf ""
+    alf "I asked for more men, but I guess we'll need to do with what we got."
 
 # ServantOfGilead1_95efb629 (line 28010)
 translate ru ServantOfGilead1_95efb629:
     # alf "How many of you have any service experience?"
-    alf ""
+    alf "How many of you have any service experience?"
 
 # ServantOfGilead1_18a741a9 (line 28011)
 translate ru ServantOfGilead1_18a741a9:
@@ -286,42 +286,42 @@ translate ru ServantOfGilead1_54032f9c:
 # ServantOfGilead1_76678f62 (line 28013)
 translate ru ServantOfGilead1_76678f62:
     # alf "Fine, you report to the head chef, you report to the head of housekeeping."
-    alf ""
+    alf "Fine, you report to the head chef, you report to the head of housekeeping."
 
 # ServantOfGilead1_bf0895c1 (line 28014)
 translate ru ServantOfGilead1_bf0895c1:
     # alf "The rest of you, pay attention."
-    alf ""
+    alf "The rest of you, pay attention."
 
 # ServantOfGilead1_cb569d08 (line 28015)
 translate ru ServantOfGilead1_cb569d08:
     # alf "This is the Estate of master Gilead."
-    alf ""
+    alf "This is the Estate of master Gilead."
 
 # ServantOfGilead1_c0f0aade (line 28016)
 translate ru ServantOfGilead1_c0f0aade:
     # alf "As the Headmaster of this Estate, I oversee everything that involves the running of the household."
-    alf ""
+    alf "As the Headmaster of this Estate, I oversee everything that involves the running of the household."
 
 # ServantOfGilead1_c3fae98c (line 28017)
 translate ru ServantOfGilead1_c3fae98c:
     # alf "I take pride in that and I won't have any of you disrespecting that work."
-    alf ""
+    alf "I take pride in that and I won't have any of you disrespecting that work."
 
 # ServantOfGilead1_b5087ea0 (line 28018)
 translate ru ServantOfGilead1_b5087ea0:
     # alf "I expect you to be here on time and put in the work. If you work hard, I can teach you everything you need to know."
-    alf ""
+    alf "I expect you to be here on time and put in the work. If you work hard, I can teach you everything you need to know."
 
 # ServantOfGilead1_4cfe9a8e (line 28019)
 translate ru ServantOfGilead1_4cfe9a8e:
     # alf "If you're lazy, you'll be out next pay day."
-    alf ""
+    alf "If you're lazy, you'll be out next pay day."
 
 # ServantOfGilead1_f33274a7 (line 28020)
 translate ru ServantOfGilead1_f33274a7:
     # alf "Do I make myself clear?"
-    alf ""
+    alf "Do I make myself clear?"
 
 # ServantOfGilead1_005e58de (line 28021)
 translate ru ServantOfGilead1_005e58de:
@@ -346,22 +346,22 @@ translate ru ServantOfGilead1_f34d0b8e:
 # ServantOfGilead1_232d89c4 (line 28025)
 translate ru ServantOfGilead1_232d89c4:
     # alf "Show me your hands."
-    alf ""
+    alf "Show me your hands."
 
 # ServantOfGilead1_7f7a13c3 (line 28026)
 translate ru ServantOfGilead1_7f7a13c3:
     # s "My...hands?"
-    s ""
+    s "My...hands?"
 
 # ServantOfGilead1_e9d84486 (line 28027)
 translate ru ServantOfGilead1_e9d84486:
     # alf "Don't second guess me girl. You're lucky enough to get a job, given that you have no experience at all."
-    alf ""
+    alf "Don't second guess me girl. You're lucky enough to get a job, given that you have no experience at all."
 
 # ServantOfGilead1_57c717ff (line 28028)
 translate ru ServantOfGilead1_57c717ff:
     # alf "Your only words should be yes, and sir. Got that?"
-    alf ""
+    alf "Your only words should be yes, and sir. Got that?"
 
 # ServantOfGilead1_458de95e (line 28029)
 translate ru ServantOfGilead1_458de95e:
@@ -376,12 +376,12 @@ translate ru ServantOfGilead1_8fcafeb4:
 # ServantOfGilead1_ba56e396 (line 28031)
 translate ru ServantOfGilead1_ba56e396:
     # s "I...yes...sir."
-    s ""
+    s "I...yes...sir."
 
 # ServantOfGilead1_6a6ecf6a (line 28032)
 translate ru ServantOfGilead1_6a6ecf6a:
     # alf "Good, now show me your hands."
-    alf ""
+    alf "Good, now show me your hands."
 
 # ServantOfGilead1_c5d274a0 (line 28033)
 translate ru ServantOfGilead1_c5d274a0:
@@ -391,17 +391,17 @@ translate ru ServantOfGilead1_c5d274a0:
 # ServantOfGilead1_e4187c48 (line 28034)
 translate ru ServantOfGilead1_e4187c48:
     # alf "Like I thought."
-    alf ""
+    alf "Like I thought."
 
 # ServantOfGilead1_860187bd (line 28035)
 translate ru ServantOfGilead1_860187bd:
     # alf "Ain't got a callous on there."
-    alf ""
+    alf "Ain't got a callous on there."
 
 # ServantOfGilead1_a7bfeb13 (line 28036)
 translate ru ServantOfGilead1_a7bfeb13:
     # alf "You ever did any real hard work?"
-    alf ""
+    alf "You ever did any real hard work?"
 
 # ServantOfGilead1_bd57fd0f (line 28037)
 translate ru ServantOfGilead1_bd57fd0f:
@@ -411,7 +411,7 @@ translate ru ServantOfGilead1_bd57fd0f:
 # ServantOfGilead1_1fdbfb3c (line 28038)
 translate ru ServantOfGilead1_1fdbfb3c:
     # s "No sir."
-    s ""
+    s "No sir."
 
 # ServantOfGilead1_84b4e540 (line 28039)
 translate ru ServantOfGilead1_84b4e540:
@@ -421,7 +421,7 @@ translate ru ServantOfGilead1_84b4e540:
 # ServantOfGilead1_273e6ded (line 28040)
 translate ru ServantOfGilead1_273e6ded:
     # alf "Gods, the quality of people that I get these days..."
-    alf ""
+    alf "Gods, the quality of people that I get these days..."
 
 # ServantOfGilead1_06ed825c (line 28041)
 translate ru ServantOfGilead1_06ed825c:
@@ -431,17 +431,17 @@ translate ru ServantOfGilead1_06ed825c:
 # ServantOfGilead1_a4e843ba (line 28042)
 translate ru ServantOfGilead1_a4e843ba:
     # alf "Well, if I look at you, I doubt you got the stamina to work a real kitchen."
-    alf ""
+    alf "Well, if I look at you, I doubt you got the stamina to work a real kitchen."
 
 # ServantOfGilead1_bbb07cc7 (line 28043)
 translate ru ServantOfGilead1_bbb07cc7:
     # alf "But even you can tell a clean room from a dirty one."
-    alf ""
+    alf "But even you can tell a clean room from a dirty one."
 
 # ServantOfGilead1_4a9b1846 (line 28044)
 translate ru ServantOfGilead1_4a9b1846:
     # alf "I'll put you on housekeeping for now."
-    alf ""
+    alf "I'll put you on housekeeping for now."
 
 # ServantOfGilead1_bed8fced (line 28045)
 translate ru ServantOfGilead1_bed8fced:
@@ -451,12 +451,12 @@ translate ru ServantOfGilead1_bed8fced:
 # ServantOfGilead1_b2ae19dd (line 28046)
 translate ru ServantOfGilead1_b2ae19dd:
     # s "Thank you...sir."
-    s ""
+    s "Thank you...sir."
 
 # ServantOfGilead1_72e69ba5 (line 28047)
 translate ru ServantOfGilead1_72e69ba5:
     # alf "Don't thank me yet. It's hard work. And you either pick it up quick, or you're out for another."
-    alf ""
+    alf "Don't thank me yet. It's hard work. And you either pick it up quick, or you're out for another."
 
 # ServantOfGilead1_6f75c0d8 (line 28048)
 translate ru ServantOfGilead1_6f75c0d8:
@@ -466,27 +466,27 @@ translate ru ServantOfGilead1_6f75c0d8:
 # ServantOfGilead1_ce0b759c (line 28049)
 translate ru ServantOfGilead1_ce0b759c:
     # s "I understand."
-    s ""
+    s "I understand."
 
 # ServantOfGilead1_ac88cf9b (line 28050)
 translate ru ServantOfGilead1_ac88cf9b:
     # alf "Good."
-    alf ""
+    alf "Good."
 
 # ServantOfGilead1_4cce27f5 (line 28051)
 translate ru ServantOfGilead1_4cce27f5:
     # alf "You'll need to get tailored for a uniform, after that, you can report for your first shift."
-    alf ""
+    alf "You'll need to get tailored for a uniform, after that, you can report for your first shift."
 
 # ServantOfGilead1_fe1a7986 (line 28052)
 translate ru ServantOfGilead1_fe1a7986:
     # alf "When you're finished with your shift, you'll sleep in Unit Seven."
-    alf ""
+    alf "When you're finished with your shift, you'll sleep in Unit Seven."
 
 # ServantOfGilead1_68a139ed (line 28053)
 translate ru ServantOfGilead1_68a139ed:
     # s "I...unit seven, sir?"
-    s ""
+    s "I...unit seven, sir?"
 
 # ServantOfGilead1_d7d19aa5 (line 28054)
 translate ru ServantOfGilead1_d7d19aa5:
@@ -496,22 +496,22 @@ translate ru ServantOfGilead1_d7d19aa5:
 # ServantOfGilead1_d42895bc (line 28055)
 translate ru ServantOfGilead1_d42895bc:
     # alf "All staff sleeps on the Estate grounds. You'll bunk with the other cleaning staff."
-    alf ""
+    alf "All staff sleeps on the Estate grounds. You'll bunk with the other cleaning staff."
 
 # ServantOfGilead1_338feae9 (line 28056)
 translate ru ServantOfGilead1_338feae9:
     # alf "You are expected to be available, even when not on your shift."
-    alf ""
+    alf "You are expected to be available, even when not on your shift."
 
 # ServantOfGilead1_e6bc313a (line 28057)
 translate ru ServantOfGilead1_e6bc313a:
     # alf "In the weekends, you can have one day off to leave the Estate grounds."
-    alf ""
+    alf "In the weekends, you can have one day off to leave the Estate grounds."
 
 # ServantOfGilead1_2d22a7b4 (line 28058)
 translate ru ServantOfGilead1_2d22a7b4:
     # alf "Other than that, you will be here and present, understood?"
-    alf ""
+    alf "Other than that, you will be here and present, understood?"
 
 # ServantOfGilead1_6a280f2e (line 28059)
 translate ru ServantOfGilead1_6a280f2e:
@@ -531,27 +531,27 @@ translate ru ServantOfGilead1_73b72876:
 # ServantOfGilead1_e25104a6 (line 28062)
 translate ru ServantOfGilead1_e25104a6:
     # s "I understand, sir. Unit Seven."
-    s ""
+    s "I understand, sir. Unit Seven."
 
 # ServantOfGilead1_5ca9df77 (line 28063)
 translate ru ServantOfGilead1_5ca9df77:
     # alf "Good, now go down the hall, fourth door on the right, report to the tailor."
-    alf ""
+    alf "Good, now go down the hall, fourth door on the right, report to the tailor."
 
 # ServantOfGilead1_eba8865f (line 28064)
 translate ru ServantOfGilead1_eba8865f:
     # alf "He'll get you suited for a uniform."
-    alf ""
+    alf "He'll get you suited for a uniform."
 
 # ServantOfGilead1_676a1f7f (line 28065)
 translate ru ServantOfGilead1_676a1f7f:
     # alf "After that, report back, and we'll start your first shift."
-    alf ""
+    alf "After that, report back, and we'll start your first shift."
 
 # ServantOfGilead1_fb9d91c0 (line 28066)
 translate ru ServantOfGilead1_fb9d91c0:
     # alf "Payment is by the end of every week. If you can't make it a full week, don't bother trying to collect any pay."
-    alf ""
+    alf "Payment is by the end of every week. If you can't make it a full week, don't bother trying to collect any pay."
 
 # ServantOfGilead1_467c28c5 (line 28067)
 translate ru ServantOfGilead1_467c28c5:
@@ -601,7 +601,7 @@ translate ru ServantOfGilead1_92a8f004:
 # ServantOfGilead1_f8bf07f4 (line 28081)
 translate ru ServantOfGilead1_f8bf07f4:
     # s "Excuse me."
-    s ""
+    s "Excuse me."
 
 # ServantOfGilead1_a6164007 (line 28082)
 translate ru ServantOfGilead1_a6164007:
@@ -616,7 +616,7 @@ translate ru ServantOfGilead1_378cefda:
 # ServantOfGilead1_fe94dee2 (line 28084)
 translate ru ServantOfGilead1_fe94dee2:
     # s "No I...was supposed to start today."
-    s ""
+    s "No I...was supposed to start today."
 
 # ServantOfGilead1_57afc45a (line 28085)
 translate ru ServantOfGilead1_57afc45a:
@@ -631,7 +631,7 @@ translate ru ServantOfGilead1_465aabb4:
 # ServantOfGilead1_c5f11390 (line 28087)
 translate ru ServantOfGilead1_c5f11390:
     # s "Housekeeping."
-    s ""
+    s "Housekeeping."
 
 # ServantOfGilead1_6e0dd3fa (line 28088)
 translate ru ServantOfGilead1_6e0dd3fa:
@@ -646,7 +646,7 @@ translate ru ServantOfGilead1_c5da0fb5:
 # ServantOfGilead1_d801c76b (line 28090)
 translate ru ServantOfGilead1_d801c76b:
     # s "Strip...down?"
-    s ""
+    s "Strip...down?"
 
 # ServantOfGilead1_0dbdf230 (line 28091)
 translate ru ServantOfGilead1_0dbdf230:
@@ -661,7 +661,7 @@ translate ru ServantOfGilead1_e56ce8fc:
 # ServantOfGilead1_63017083 (line 28093)
 translate ru ServantOfGilead1_63017083:
     # s "I..."
-    s ""
+    s "I..."
 
 # ServantOfGilead1_7b999809 (line 28094)
 translate ru ServantOfGilead1_7b999809:
@@ -711,7 +711,7 @@ translate ru ServantOfGilead1_b158de9b:
 # ServantOfGilead1_f7acdb99 (line 28109)
 translate ru ServantOfGilead1_f7acdb99:
     # s "I just did."
-    s ""
+    s "I just did."
 
 # ServantOfGilead1_1119f742 (line 28110)
 translate ru ServantOfGilead1_1119f742:
@@ -731,7 +731,7 @@ translate ru ServantOfGilead1_dc5f7387:
 # ServantOfGilead1_ce100678 (line 28113)
 translate ru ServantOfGilead1_ce100678:
     # s "You don't need that to take my measurements!"
-    s ""
+    s "You don't need that to take my measurements!"
 
 # ServantOfGilead1_ab206adc (line 28114)
 translate ru ServantOfGilead1_ab206adc:
@@ -741,7 +741,7 @@ translate ru ServantOfGilead1_ab206adc:
 # ServantOfGilead1_bb561737 (line 28115)
 translate ru ServantOfGilead1_bb561737:
     # s "I-"
-    s ""
+    s "I-"
 
 # ServantOfGilead1_d11d6420 (line 28116)
 translate ru ServantOfGilead1_d11d6420:
@@ -763,16 +763,6 @@ translate ru ServantOfGilead1_2db8be25:
     # "Tailor" "So yes, please, take off all of it."
     ""
 
-# ServantOfGilead1_6945022f (line 28123)
-translate ru ServantOfGilead1_6945022f:
-    # "Strip completely naked"
-    "Strip completely naked" ""
-
-# ServantOfGilead1_a63bcd23 (line 28216)
-translate ru ServantOfGilead1_a63bcd23:
-    # "Refuse"
-    "Refuse" ""
-
 # ServantOfGilead1_f0e8b1cf (line 28311)
 translate ru ServantOfGilead1_f0e8b1cf:
     # "Sarah quickly turned to leave the workshop."
@@ -786,7 +776,7 @@ translate ru ServantOfGilead1_9ec87936:
 # ServantOfGilead1_181b0686 (line 28319)
 translate ru ServantOfGilead1_181b0686:
     # s "I'm finished."
-    s ""
+    s "I'm finished."
 
 # ServantOfGilead1_d6061b19 (line 28320)
 translate ru ServantOfGilead1_d6061b19:
@@ -796,17 +786,17 @@ translate ru ServantOfGilead1_d6061b19:
 # ServantOfGilead1_abe2f9b7 (line 28321)
 translate ru ServantOfGilead1_abe2f9b7:
     # alf "That looks decent enough."
-    alf ""
+    alf "That looks decent enough."
 
 # ServantOfGilead1_27855105 (line 28322)
 translate ru ServantOfGilead1_27855105:
     # alf "Did he give you any trouble?"
-    alf ""
+    alf "Did he give you any trouble?"
 
 # ServantOfGilead1_4ee45915 (line 28323)
 translate ru ServantOfGilead1_4ee45915:
     # s "The tailor?"
-    s ""
+    s "The tailor?"
 
 # ServantOfGilead1_ca584171 (line 28324)
 translate ru ServantOfGilead1_ca584171:
@@ -816,7 +806,7 @@ translate ru ServantOfGilead1_ca584171:
 # ServantOfGilead1_a5c252dc (line 28325)
 translate ru ServantOfGilead1_a5c252dc:
     # alf "He can be a bit of trouble with new girls. If he wasn't so good at his job, I'd gotten rid of him a long time ago."
-    alf ""
+    alf "He can be a bit of trouble with new girls. If he wasn't so good at his job, I'd gotten rid of him a long time ago."
 
 # ServantOfGilead1_09cd6b62 (line 28326)
 translate ru ServantOfGilead1_09cd6b62:
@@ -826,22 +816,22 @@ translate ru ServantOfGilead1_09cd6b62:
 # ServantOfGilead1_919f6f29 (line 28327)
 translate ru ServantOfGilead1_919f6f29:
     # s "Nothing that I couldn't handle."
-    s ""
+    s "Nothing that I couldn't handle."
 
 # ServantOfGilead1_c63ac737 (line 28328)
 translate ru ServantOfGilead1_c63ac737:
     # alf "Good."
-    alf ""
+    alf "Good."
 
 # ServantOfGilead1_3e584612 (line 28329)
 translate ru ServantOfGilead1_3e584612:
     # alf "Well then, let's get you started with the first shift."
-    alf ""
+    alf "Well then, let's get you started with the first shift."
 
 # ServantOfGilead1_302fc37b (line 28330)
 translate ru ServantOfGilead1_302fc37b:
     # alf "Follow me."
-    alf ""
+    alf "Follow me."
 
 # ServantOfGilead1_f266fe59 (line 28331)
 translate ru ServantOfGilead1_f266fe59:
@@ -901,37 +891,37 @@ translate ru ServantOfGilead1_1cbf2aeb:
 # ServantOfGilead1_2f3de7ac (line 28348)
 translate ru ServantOfGilead1_2f3de7ac:
     # alf "It's fine to look about. Everyone is impressed the first time."
-    alf ""
+    alf "It's fine to look about. Everyone is impressed the first time."
 
 # ServantOfGilead1_370a2af8 (line 28349)
 translate ru ServantOfGilead1_370a2af8:
     # alf "But I'll give you a word of warning."
-    alf ""
+    alf "But I'll give you a word of warning."
 
 # ServantOfGilead1_42672ea5 (line 28350)
 translate ru ServantOfGilead1_42672ea5:
     # alf "You may think that there is so much wealth here, that nobody will care if you steal a plate or a cup."
-    alf ""
+    alf "You may think that there is so much wealth here, that nobody will care if you steal a plate or a cup."
 
 # ServantOfGilead1_2818b27e (line 28351)
 translate ru ServantOfGilead1_2818b27e:
     # alf "Let me tell you very clearly, there isn't a fork in this place that isn't meticulously considered and counted."
-    alf ""
+    alf "Let me tell you very clearly, there isn't a fork in this place that isn't meticulously considered and counted."
 
 # ServantOfGilead1_c2d01055 (line 28352)
 translate ru ServantOfGilead1_c2d01055:
     # alf "If a cup goes missing, or even a single piece of cuttlery, it will be noted."
-    alf ""
+    alf "If a cup goes missing, or even a single piece of cuttlery, it will be noted."
 
 # ServantOfGilead1_e8a6a327 (line 28353)
 translate ru ServantOfGilead1_e8a6a327:
     # alf "And if you are found in possession of it, you will be dealt with."
-    alf ""
+    alf "And if you are found in possession of it, you will be dealt with."
 
 # ServantOfGilead1_676a4810 (line 28354)
 translate ru ServantOfGilead1_676a4810:
     # alf "Foolish girls have lost a hand for it. Don't make that mistake."
-    alf ""
+    alf "Foolish girls have lost a hand for it. Don't make that mistake."
 
 # ServantOfGilead1_b9dcfde2 (line 28355)
 translate ru ServantOfGilead1_b9dcfde2:
@@ -946,32 +936,32 @@ translate ru ServantOfGilead1_31f85176:
 # ServantOfGilead1_fc2bcb42 (line 28357)
 translate ru ServantOfGilead1_fc2bcb42:
     # s "I'm no thief, I promise."
-    s ""
+    s "I'm no thief, I promise."
 
 # ServantOfGilead1_ede8719f (line 28358)
 translate ru ServantOfGilead1_ede8719f:
     # alf "Good."
-    alf ""
+    alf "Good."
 
 # ServantOfGilead1_dec12fe1 (line 28359)
 translate ru ServantOfGilead1_dec12fe1:
     # alf "So, for your first day, a good place to start is this hall."
-    alf ""
+    alf "So, for your first day, a good place to start is this hall."
 
 # ServantOfGilead1_d8e586aa (line 28360)
 translate ru ServantOfGilead1_d8e586aa:
     # alf "This is one of the hallways that leads to the Eastern wing of the Estate."
-    alf ""
+    alf "This is one of the hallways that leads to the Eastern wing of the Estate."
 
 # ServantOfGilead1_0585d75e (line 28361)
 translate ru ServantOfGilead1_0585d75e:
     # alf "It sees some usage, but it's never too busy."
-    alf ""
+    alf "It sees some usage, but it's never too busy."
 
 # ServantOfGilead1_93e46a45 (line 28362)
 translate ru ServantOfGilead1_93e46a45:
     # alf "Keep your head down, do good work, and you'll be okay."
-    alf ""
+    alf "Keep your head down, do good work, and you'll be okay."
 
 # ServantOfGilead1_f2a2e6f4 (line 28363)
 translate ru ServantOfGilead1_f2a2e6f4:
@@ -981,7 +971,7 @@ translate ru ServantOfGilead1_f2a2e6f4:
 # ServantOfGilead1_5c6cbb89 (line 28364)
 translate ru ServantOfGilead1_5c6cbb89:
     # alf "There are some cleaning supplies in that closet there, you can use those."
-    alf ""
+    alf "There are some cleaning supplies in that closet there, you can use those."
 
 # ServantOfGilead1_27e2ffbf (line 28365)
 translate ru ServantOfGilead1_27e2ffbf:
@@ -991,17 +981,17 @@ translate ru ServantOfGilead1_27e2ffbf:
 # ServantOfGilead1_3cfc2572 (line 28366)
 translate ru ServantOfGilead1_3cfc2572:
     # alf "Oh, and one more thing."
-    alf ""
+    alf "Oh, and one more thing."
 
 # ServantOfGilead1_160ea31f (line 28367)
 translate ru ServantOfGilead1_160ea31f:
     # alf "Try not to make any eye-contact with anyone other than staff."
-    alf ""
+    alf "Try not to make any eye-contact with anyone other than staff."
 
 # ServantOfGilead1_49a9d54f (line 28368)
 translate ru ServantOfGilead1_49a9d54f:
     # alf "It's only going to get you in trouble."
-    alf ""
+    alf "It's only going to get you in trouble."
 
 # ServantOfGilead1_d83f0f10 (line 28369)
 translate ru ServantOfGilead1_d83f0f10:
@@ -1011,17 +1001,17 @@ translate ru ServantOfGilead1_d83f0f10:
 # ServantOfGilead1_e3d334bf (line 28370)
 translate ru ServantOfGilead1_e3d334bf:
     # s "Of course. I'll keep my head down and work, as you said."
-    s ""
+    s "Of course. I'll keep my head down and work, as you said."
 
 # ServantOfGilead1_147755d2 (line 28371)
 translate ru ServantOfGilead1_147755d2:
     # alf "Great."
-    alf ""
+    alf "Great."
 
 # ServantOfGilead1_255ccacd (line 28372)
 translate ru ServantOfGilead1_255ccacd:
     # alf "I'll pick you up when you shift is over and show you to your sleeping quarters."
-    alf ""
+    alf "I'll pick you up when you shift is over and show you to your sleeping quarters."
 
 # ServantOfGilead1_2d981f25 (line 28373)
 translate ru ServantOfGilead1_2d981f25:
@@ -1041,7 +1031,7 @@ translate ru ServantOfGilead1_d10d28fa:
 # ServantOfGilead1_78b0c195 (line 28376)
 translate ru ServantOfGilead1_78b0c195:
     # s "Alright, let's get to work."
-    s ""
+    s "Alright, let's get to work."
 
 # ServantOfGilead1_05016eda (line 28377)
 translate ru ServantOfGilead1_05016eda:
@@ -1166,7 +1156,7 @@ translate ru ServantOfGilead1_118f3570:
 # ServantOfGilead1_60173127 (line 28413)
 translate ru ServantOfGilead1_60173127:
     # alf "Still working."
-    alf ""
+    alf "Still working."
 
 # ServantOfGilead1_efb73dfc (line 28414)
 translate ru ServantOfGilead1_efb73dfc:
@@ -1176,17 +1166,17 @@ translate ru ServantOfGilead1_efb73dfc:
 # ServantOfGilead1_dd38ed02 (line 28415)
 translate ru ServantOfGilead1_dd38ed02:
     # s "I'm almost done."
-    s ""
+    s "I'm almost done."
 
 # ServantOfGilead1_ef5cf518 (line 28416)
 translate ru ServantOfGilead1_ef5cf518:
     # alf "Good."
-    alf ""
+    alf "Good."
 
 # ServantOfGilead1_1903c15f (line 28417)
 translate ru ServantOfGilead1_1903c15f:
     # alf "You'll have to learn to pick up the pace, but I can see you actually put some work in today."
-    alf ""
+    alf "You'll have to learn to pick up the pace, but I can see you actually put some work in today."
 
 # ServantOfGilead1_45024bd5 (line 28418)
 translate ru ServantOfGilead1_45024bd5:
@@ -1196,12 +1186,12 @@ translate ru ServantOfGilead1_45024bd5:
 # ServantOfGilead1_cb857e8f (line 28419)
 translate ru ServantOfGilead1_cb857e8f:
     # s "Thank you, sir."
-    s ""
+    s "Thank you, sir."
 
 # ServantOfGilead1_bba69f32 (line 28420)
 translate ru ServantOfGilead1_bba69f32:
     # alf "Come, the night shift will finish this up."
-    alf ""
+    alf "Come, the night shift will finish this up."
 
 # ServantOfGilead1_baf9ff6c (line 28421)
 translate ru ServantOfGilead1_baf9ff6c:
@@ -1226,7 +1216,7 @@ translate ru ServantOfGilead1_f4d0b6a5:
 # ServantOfGilead1_792f627a (line 28431)
 translate ru ServantOfGilead1_792f627a:
     # alf "You'll be sleeping here, along with the other servants."
-    alf ""
+    alf "You'll be sleeping here, along with the other servants."
 
 # ServantOfGilead1_ad850b7e (line 28432)
 translate ru ServantOfGilead1_ad850b7e:
@@ -1236,17 +1226,17 @@ translate ru ServantOfGilead1_ad850b7e:
 # ServantOfGilead1_0d3ea3ac (line 28433)
 translate ru ServantOfGilead1_0d3ea3ac:
     # s "These are all the servants?"
-    s ""
+    s "These are all the servants?"
 
 # ServantOfGilead1_9702cfe7 (line 28434)
 translate ru ServantOfGilead1_9702cfe7:
     # alf "No, this is just one unit. Running the entire Estate requires a good few more."
-    alf ""
+    alf "No, this is just one unit. Running the entire Estate requires a good few more."
 
 # ServantOfGilead1_054b2109 (line 28435)
 translate ru ServantOfGilead1_054b2109:
     # alf "But these are all mostly other cleaning staff, so you'd do good to get along with them."
-    alf ""
+    alf "But these are all mostly other cleaning staff, so you'd do good to get along with them."
 
 # ServantOfGilead1_90a107b8 (line 28436)
 translate ru ServantOfGilead1_90a107b8:
@@ -1256,12 +1246,12 @@ translate ru ServantOfGilead1_90a107b8:
 # ServantOfGilead1_a91903c2 (line 28437)
 translate ru ServantOfGilead1_a91903c2:
     # s "I will."
-    s ""
+    s "I will."
 
 # ServantOfGilead1_dbd96a79 (line 28438)
 translate ru ServantOfGilead1_dbd96a79:
     # alf "Good. Your bunk is that one over there."
-    alf ""
+    alf "Good. Your bunk is that one over there."
 
 # ServantOfGilead1_b274d7bb (line 28439)
 translate ru ServantOfGilead1_b274d7bb:
@@ -1271,7 +1261,7 @@ translate ru ServantOfGilead1_b274d7bb:
 # ServantOfGilead1_aef16554 (line 28440)
 translate ru ServantOfGilead1_aef16554:
     # alf "Get some sleep. You'll be on the next shift tomorrow again."
-    alf ""
+    alf "Get some sleep. You'll be on the next shift tomorrow again."
 
 # ServantOfGilead1_ea87ae13 (line 28442)
 translate ru ServantOfGilead1_ea87ae13:
@@ -1316,7 +1306,7 @@ translate ru ServantOfGilead1_f12ce39a:
 # ServantOfGilead1_85bd1767 (line 28455)
 translate ru ServantOfGilead1_85bd1767:
     # s "Hello..."
-    s ""
+    s "Hello..."
 
 # ServantOfGilead1_5bdf671c (line 28456)
 translate ru ServantOfGilead1_5bdf671c:
@@ -1326,22 +1316,22 @@ translate ru ServantOfGilead1_5bdf671c:
 # ServantOfGilead1_e88838e1 (line 28457)
 translate ru ServantOfGilead1_e88838e1:
     # kim "I'm Kim. And you?"
-    kim ""
+    kim "I'm Kim. And you?"
 
 # ServantOfGilead1_6702b8f4 (line 28458)
 translate ru ServantOfGilead1_6702b8f4:
     # s "Sarah."
-    s ""
+    s "Sarah."
 
 # ServantOfGilead1_0a39fe4c (line 28459)
 translate ru ServantOfGilead1_0a39fe4c:
     # kim "Looks like we're going to be neighbours."
-    kim ""
+    kim "Looks like we're going to be neighbours."
 
 # ServantOfGilead1_85d4faa4 (line 28460)
 translate ru ServantOfGilead1_85d4faa4:
     # s "Huh?"
-    s ""
+    s "Huh?"
 
 # ServantOfGilead1_0d918fa8 (line 28461)
 translate ru ServantOfGilead1_0d918fa8:
@@ -1351,7 +1341,7 @@ translate ru ServantOfGilead1_0d918fa8:
 # ServantOfGilead1_5df40c01 (line 28462)
 translate ru ServantOfGilead1_5df40c01:
     # kim "This one is mine."
-    kim ""
+    kim "This one is mine."
 
 # ServantOfGilead1_3cc4d226 (line 28463)
 translate ru ServantOfGilead1_3cc4d226:
@@ -1361,7 +1351,7 @@ translate ru ServantOfGilead1_3cc4d226:
 # ServantOfGilead1_acd0f3c4 (line 28464)
 translate ru ServantOfGilead1_acd0f3c4:
     # kim "They had it empty for a while after the last girl decided to run away."
-    kim ""
+    kim "They had it empty for a while after the last girl decided to run away."
 
 # ServantOfGilead1_03b3d60f (line 28465)
 translate ru ServantOfGilead1_03b3d60f:
@@ -1371,7 +1361,7 @@ translate ru ServantOfGilead1_03b3d60f:
 # ServantOfGilead1_97a99cfa (line 28466)
 translate ru ServantOfGilead1_97a99cfa:
     # s "Run away?"
-    s ""
+    s "Run away?"
 
 # ServantOfGilead1_1b4a4971 (line 28467)
 translate ru ServantOfGilead1_1b4a4971:
@@ -1381,27 +1371,27 @@ translate ru ServantOfGilead1_1b4a4971:
 # ServantOfGilead1_a5fd4d67 (line 28468)
 translate ru ServantOfGilead1_a5fd4d67:
     # kim "It's a tough job. Not everybody can do it."
-    kim ""
+    kim "It's a tough job. Not everybody can do it."
 
 # ServantOfGilead1_9dc33c5e (line 28469)
 translate ru ServantOfGilead1_9dc33c5e:
     # kim "Lot of people show up, work a few months, then decide to just run off."
-    kim ""
+    kim "Lot of people show up, work a few months, then decide to just run off."
 
 # ServantOfGilead1_3e553c64 (line 28470)
 translate ru ServantOfGilead1_3e553c64:
     # kim "Always a lot of new faces."
-    kim ""
+    kim "Always a lot of new faces."
 
 # ServantOfGilead1_870de574 (line 28471)
 translate ru ServantOfGilead1_870de574:
     # s "What was her name?"
-    s ""
+    s "What was her name?"
 
 # ServantOfGilead1_1e35c7c6 (line 28472)
 translate ru ServantOfGilead1_1e35c7c6:
     # kim "Who? The previous girl?"
-    kim ""
+    kim "Who? The previous girl?"
 
 # ServantOfGilead1_95a2728d (line 28473)
 translate ru ServantOfGilead1_95a2728d:
@@ -1411,7 +1401,7 @@ translate ru ServantOfGilead1_95a2728d:
 # ServantOfGilead1_aefec726 (line 28474)
 translate ru ServantOfGilead1_aefec726:
     # kim "Honestly, she was here so shortly...I don't know..."
-    kim ""
+    kim "Honestly, she was here so shortly...I don't know..."
 
 # ServantOfGilead1_1f163979 (line 28475)
 translate ru ServantOfGilead1_1f163979:
@@ -1421,12 +1411,12 @@ translate ru ServantOfGilead1_1f163979:
 # ServantOfGilead1_511beb58 (line 28476)
 translate ru ServantOfGilead1_511beb58:
     # kim "HEY!!!"
-    kim ""
+    kim "HEY!!!"
 
 # ServantOfGilead1_444bc912 (line 28477)
 translate ru ServantOfGilead1_444bc912:
     # kim "NATHAN!!!"
-    kim ""
+    kim "NATHAN!!!"
 
 # ServantOfGilead1_d1b5d0cd (line 28478)
 translate ru ServantOfGilead1_d1b5d0cd:
@@ -1436,12 +1426,12 @@ translate ru ServantOfGilead1_d1b5d0cd:
 # ServantOfGilead1_b0195fdf (line 28484)
 translate ru ServantOfGilead1_b0195fdf:
     # nat "What?"
-    nat ""
+    nat "What?"
 
 # ServantOfGilead1_050b3ef2 (line 28485)
 translate ru ServantOfGilead1_050b3ef2:
     # kim "You know that last girl that was in the bunk next to me?"
-    kim ""
+    kim "You know that last girl that was in the bunk next to me?"
 
 # ServantOfGilead1_c9197f14 (line 28486)
 translate ru ServantOfGilead1_c9197f14:
@@ -1451,17 +1441,17 @@ translate ru ServantOfGilead1_c9197f14:
 # ServantOfGilead1_471d8d2d (line 28487)
 translate ru ServantOfGilead1_471d8d2d:
     # nat "Yeah. What about her?"
-    nat ""
+    nat "Yeah. What about her?"
 
 # ServantOfGilead1_2a04f44a (line 28488)
 translate ru ServantOfGilead1_2a04f44a:
     # kim "Do you remember her name?"
-    kim ""
+    kim "Do you remember her name?"
 
 # ServantOfGilead1_6fd861b3 (line 28489)
 translate ru ServantOfGilead1_6fd861b3:
     # nat "Her name? Wasn't she gone after like...two weeks?"
-    nat ""
+    nat "Her name? Wasn't she gone after like...two weeks?"
 
 # ServantOfGilead1_6f3e81e8 (line 28490)
 translate ru ServantOfGilead1_6f3e81e8:
@@ -1471,12 +1461,12 @@ translate ru ServantOfGilead1_6f3e81e8:
 # ServantOfGilead1_2b0eb256 (line 28491)
 translate ru ServantOfGilead1_2b0eb256:
     # nat "It was something short...I think."
-    nat ""
+    nat "It was something short...I think."
 
 # ServantOfGilead1_493987b6 (line 28492)
 translate ru ServantOfGilead1_493987b6:
     # nat "Why are you asking?"
-    nat ""
+    nat "Why are you asking?"
 
 # ServantOfGilead1_bea9a067 (line 28493)
 translate ru ServantOfGilead1_bea9a067:
@@ -1486,7 +1476,7 @@ translate ru ServantOfGilead1_bea9a067:
 # ServantOfGilead1_60414ae3 (line 28494)
 translate ru ServantOfGilead1_60414ae3:
     # kim "I'm not, but the new girl is."
-    kim ""
+    kim "I'm not, but the new girl is."
 
 # ServantOfGilead1_b1126970 (line 28495)
 translate ru ServantOfGilead1_b1126970:
@@ -1496,7 +1486,7 @@ translate ru ServantOfGilead1_b1126970:
 # ServantOfGilead1_0aae1697 (line 28496)
 translate ru ServantOfGilead1_0aae1697:
     # kim "This is Nathan. Nathan, this is Sarah."
-    kim ""
+    kim "This is Nathan. Nathan, this is Sarah."
 
 # ServantOfGilead1_8e381497 (line 28497)
 translate ru ServantOfGilead1_8e381497:
@@ -1506,7 +1496,7 @@ translate ru ServantOfGilead1_8e381497:
 # ServantOfGilead1_200c9f15 (line 28498)
 translate ru ServantOfGilead1_200c9f15:
     # s "Nice to meet you, Nathan."
-    s ""
+    s "Nice to meet you, Nathan."
 
 # ServantOfGilead1_65652e58 (line 28499)
 translate ru ServantOfGilead1_65652e58:
@@ -1516,17 +1506,17 @@ translate ru ServantOfGilead1_65652e58:
 # ServantOfGilead1_a81ff6a4 (line 28500)
 translate ru ServantOfGilead1_a81ff6a4:
     # nat "Nice to meet you too."
-    nat ""
+    nat "Nice to meet you too."
 
 # ServantOfGilead1_0baee290 (line 28501)
 translate ru ServantOfGilead1_0baee290:
     # nat "Do try to stick around longer than a week though."
-    nat ""
+    nat "Do try to stick around longer than a week though."
 
 # ServantOfGilead1_b243e9d9 (line 28502)
 translate ru ServantOfGilead1_b243e9d9:
     # nat "I swear, I'm barely done training the new staff before they're already gone again."
-    nat ""
+    nat "I swear, I'm barely done training the new staff before they're already gone again."
 
 # ServantOfGilead1_e60f376e (line 28503)
 translate ru ServantOfGilead1_e60f376e:
@@ -1536,7 +1526,7 @@ translate ru ServantOfGilead1_e60f376e:
 # ServantOfGilead1_38c23b32 (line 28504)
 translate ru ServantOfGilead1_38c23b32:
     # kim "Nathan is a senior. He's been here longer than most. A few years by now, right?"
-    kim ""
+    kim "Nathan is a senior. He's been here longer than most. A few years by now, right?"
 
 # ServantOfGilead1_c9201e67 (line 28505)
 translate ru ServantOfGilead1_c9201e67:
@@ -1546,7 +1536,7 @@ translate ru ServantOfGilead1_c9201e67:
 # ServantOfGilead1_5e082ddf (line 28506)
 translate ru ServantOfGilead1_5e082ddf:
     # s "Years? Wow, you must have seen every part of the Estate."
-    s ""
+    s "Years? Wow, you must have seen every part of the Estate."
 
 # ServantOfGilead1_d456ec14 (line 28507)
 translate ru ServantOfGilead1_d456ec14:
@@ -1556,22 +1546,22 @@ translate ru ServantOfGilead1_d456ec14:
 # ServantOfGilead1_416bbc2e (line 28508)
 translate ru ServantOfGilead1_416bbc2e:
     # nat "You start to lose the appreciation for the place after you spend all day staring at the floor, scrubbing."
-    nat ""
+    nat "You start to lose the appreciation for the place after you spend all day staring at the floor, scrubbing."
 
 # ServantOfGilead1_71e6726c (line 28509)
 translate ru ServantOfGilead1_71e6726c:
     # nat "But it's better than most."
-    nat ""
+    nat "But it's better than most."
 
 # ServantOfGilead1_804a6bbf (line 28510)
 translate ru ServantOfGilead1_804a6bbf:
     # nat "If you work hard, they treat you fairly. Most of the time, anyway."
-    nat ""
+    nat "If you work hard, they treat you fairly. Most of the time, anyway."
 
 # ServantOfGilead1_aa5fbef5 (line 28511)
 translate ru ServantOfGilead1_aa5fbef5:
     # s "I just finished my first work day."
-    s ""
+    s "I just finished my first work day."
 
 # ServantOfGilead1_44e16265 (line 28512)
 translate ru ServantOfGilead1_44e16265:
@@ -1581,7 +1571,7 @@ translate ru ServantOfGilead1_44e16265:
 # ServantOfGilead1_c3961266 (line 28513)
 translate ru ServantOfGilead1_c3961266:
     # kim "I can remember that. You must be exhausted!"
-    kim ""
+    kim "I can remember that. You must be exhausted!"
 
 # ServantOfGilead1_76ea57e2 (line 28514)
 translate ru ServantOfGilead1_76ea57e2:
@@ -1591,7 +1581,7 @@ translate ru ServantOfGilead1_76ea57e2:
 # ServantOfGilead1_10182f5d (line 28515)
 translate ru ServantOfGilead1_10182f5d:
     # s "Sorry, I don't mean to be rude, but I did want to try to get some sleep."
-    s ""
+    s "Sorry, I don't mean to be rude, but I did want to try to get some sleep."
 
 # ServantOfGilead1_2687b32a (line 28516)
 translate ru ServantOfGilead1_2687b32a:
@@ -1601,12 +1591,12 @@ translate ru ServantOfGilead1_2687b32a:
 # ServantOfGilead1_3401fb5f (line 28517)
 translate ru ServantOfGilead1_3401fb5f:
     # kim "Don't even worry about it."
-    kim ""
+    kim "Don't even worry about it."
 
 # ServantOfGilead1_1fffdd9a (line 28518)
 translate ru ServantOfGilead1_1fffdd9a:
     # kim "Go ahead, we can catch up more on another day."
-    kim ""
+    kim "Go ahead, we can catch up more on another day."
 
 # ServantOfGilead1_9c048b1a (line 28525)
 translate ru ServantOfGilead1_9c048b1a:
@@ -1681,7 +1671,7 @@ translate ru ServantOfGilead1_da582ef6:
 # ServantOfGilead1_317d4b69 (line 28547)
 translate ru ServantOfGilead1_317d4b69:
     # kim "Be quiet..."
-    kim ""
+    kim "Be quiet..."
 
 # ServantOfGilead1_f5ee791c (line 28548)
 translate ru ServantOfGilead1_f5ee791c:
@@ -1691,32 +1681,12 @@ translate ru ServantOfGilead1_f5ee791c:
 # ServantOfGilead1_999acd38 (line 28550)
 translate ru ServantOfGilead1_999acd38:
     # nat "You're one to talk. You're gonna wake up everybody."
-    nat ""
+    nat "You're one to talk. You're gonna wake up everybody."
 
 # ServantOfGilead1_1d93dcfc (line 28551)
 translate ru ServantOfGilead1_1d93dcfc:
     # kim "Whose fault is that?"
-    kim ""
-
-# ServantOfGilead1_651180bf (line 28554)
-translate ru ServantOfGilead1_651180bf:
-    # "Look at the bed next to you"
-    "Look at the bed next to you" ""
-
-# ServantOfGilead1_ca8d274a (line 28587)
-translate ru ServantOfGilead1_ca8d274a:
-    # "Sarah is aroused"
-    "Sarah is aroused" ""
-
-# ServantOfGilead1_0549f79f (line 28626)
-translate ru ServantOfGilead1_0549f79f:
-    # "Sarah is disgusted"
-    "Sarah is disgusted" ""
-
-# ServantOfGilead1_18ce7232 (line 28631)
-translate ru ServantOfGilead1_18ce7232:
-    # "Ignore it, go back to sleep"
-    "Ignore it, go back to sleep" ""
+    kim "Whose fault is that?"
 
 # ServantOfGilead1_a0e227d1 (line 28642)
 translate ru ServantOfGilead1_a0e227d1:
@@ -1736,7 +1706,7 @@ translate ru ServantOfGilead1_f3f3efa5:
 # ServantOfGilead1_d4dedee7 (line 28650)
 translate ru ServantOfGilead1_d4dedee7:
     # kim "Hey!"
-    kim ""
+    kim "Hey!"
 
 # ServantOfGilead1_e648c600 (line 28651)
 translate ru ServantOfGilead1_e648c600:
@@ -1746,22 +1716,22 @@ translate ru ServantOfGilead1_e648c600:
 # ServantOfGilead1_c6815280 (line 28652)
 translate ru ServantOfGilead1_c6815280:
     # s "Ooh, hey."
-    s ""
+    s "Ooh, hey."
 
 # ServantOfGilead1_8f303c27 (line 28653)
 translate ru ServantOfGilead1_8f303c27:
     # kim "They assigned us to work the same shift."
-    kim ""
+    kim "They assigned us to work the same shift."
 
 # ServantOfGilead1_02e0328d (line 28654)
 translate ru ServantOfGilead1_02e0328d:
     # kim "They thought I could teach you a thing or two."
-    kim ""
+    kim "They thought I could teach you a thing or two."
 
 # ServantOfGilead1_f01b4ba7 (line 28655)
 translate ru ServantOfGilead1_f01b4ba7:
     # s "Ooh, that's nice. I worked alone yesterday and...this place can be a bit lonely."
-    s ""
+    s "Ooh, that's nice. I worked alone yesterday and...this place can be a bit lonely."
 
 # ServantOfGilead1_8fa9aae1 (line 28656)
 translate ru ServantOfGilead1_8fa9aae1:
@@ -1771,17 +1741,17 @@ translate ru ServantOfGilead1_8fa9aae1:
 # ServantOfGilead1_f02a8152 (line 28657)
 translate ru ServantOfGilead1_f02a8152:
     # kim "Yeah, it's way too big if you ask me, but then again, if it wasn't I wouldn't have a job."
-    kim ""
+    kim "Yeah, it's way too big if you ask me, but then again, if it wasn't I wouldn't have a job."
 
 # ServantOfGilead1_7314ba0a (line 28658)
 translate ru ServantOfGilead1_7314ba0a:
     # kim "But don't go thinking I got much to teach you."
-    kim ""
+    kim "But don't go thinking I got much to teach you."
 
 # ServantOfGilead1_6f341adc (line 28659)
 translate ru ServantOfGilead1_6f341adc:
     # s "No?"
-    s ""
+    s "No?"
 
 # ServantOfGilead1_52ea2c2a (line 28660)
 translate ru ServantOfGilead1_52ea2c2a:
@@ -1791,17 +1761,17 @@ translate ru ServantOfGilead1_52ea2c2a:
 # ServantOfGilead1_9e3d7ba8 (line 28661)
 translate ru ServantOfGilead1_9e3d7ba8:
     # kim "No, honestly, I just do the work and get on with my day."
-    kim ""
+    kim "No, honestly, I just do the work and get on with my day."
 
 # ServantOfGilead1_10171738 (line 28662)
 translate ru ServantOfGilead1_10171738:
     # kim "Some of the girls here work miracles with how they clean, but I just do enough not to get fired."
-    kim ""
+    kim "Some of the girls here work miracles with how they clean, but I just do enough not to get fired."
 
 # ServantOfGilead1_5d006fca (line 28663)
 translate ru ServantOfGilead1_5d006fca:
     # s "Really? You don't feel bad about that?"
-    s ""
+    s "Really? You don't feel bad about that?"
 
 # ServantOfGilead1_f371efdc (line 28664)
 translate ru ServantOfGilead1_f371efdc:
@@ -1811,27 +1781,27 @@ translate ru ServantOfGilead1_f371efdc:
 # ServantOfGilead1_a8cc7232 (line 28665)
 translate ru ServantOfGilead1_a8cc7232:
     # kim "Nah."
-    kim ""
+    kim "Nah."
 
 # ServantOfGilead1_bfaadc90 (line 28666)
 translate ru ServantOfGilead1_bfaadc90:
     # kim "You work yourself to death every day, what is that gonna get you?"
-    kim ""
+    kim "You work yourself to death every day, what is that gonna get you?"
 
 # ServantOfGilead1_87cd4599 (line 28667)
 translate ru ServantOfGilead1_87cd4599:
     # kim "See, you work like I do, you pace yourself, then you can hold out for years."
-    kim ""
+    kim "See, you work like I do, you pace yourself, then you can hold out for years."
 
 # ServantOfGilead1_c41b993c (line 28668)
 translate ru ServantOfGilead1_c41b993c:
     # kim "It's the other ones that work too hard, they burn out."
-    kim ""
+    kim "It's the other ones that work too hard, they burn out."
 
 # ServantOfGilead1_75da6229 (line 28669)
 translate ru ServantOfGilead1_75da6229:
     # kim "So really, if you think about it, I might end up doing more work, just because I don't burn myself out early."
-    kim ""
+    kim "So really, if you think about it, I might end up doing more work, just because I don't burn myself out early."
 
 # ServantOfGilead1_b969b5b7 (line 28670)
 translate ru ServantOfGilead1_b969b5b7:
@@ -1841,12 +1811,12 @@ translate ru ServantOfGilead1_b969b5b7:
 # ServantOfGilead1_88fd2688 (line 28671)
 translate ru ServantOfGilead1_88fd2688:
     # s "I guess that's one way to look at it."
-    s ""
+    s "I guess that's one way to look at it."
 
 # ServantOfGilead1_bf4b0d7b (line 28672)
 translate ru ServantOfGilead1_bf4b0d7b:
     # kim "Here, we'll start from this side together, then we work our way back."
-    kim ""
+    kim "Here, we'll start from this side together, then we work our way back."
 
 # ServantOfGilead1_974a13e1 (line 28673)
 translate ru ServantOfGilead1_974a13e1:
@@ -1871,12 +1841,12 @@ translate ru ServantOfGilead1_d15d8b33:
 # ServantOfGilead1_cafc4131 (line 28682)
 translate ru ServantOfGilead1_cafc4131:
     # s "Wow..."
-    s ""
+    s "Wow..."
 
 # ServantOfGilead1_96b91962 (line 28683)
 translate ru ServantOfGilead1_96b91962:
     # s "You're so fast."
-    s ""
+    s "You're so fast."
 
 # ServantOfGilead1_d4cda8bf (line 28684)
 translate ru ServantOfGilead1_d4cda8bf:
@@ -1886,17 +1856,17 @@ translate ru ServantOfGilead1_d4cda8bf:
 # ServantOfGilead1_8649859c (line 28685)
 translate ru ServantOfGilead1_8649859c:
     # kim "You'll learn."
-    kim ""
+    kim "You'll learn."
 
 # ServantOfGilead1_b66d4f60 (line 28686)
 translate ru ServantOfGilead1_b66d4f60:
     # kim "That's the problem with most new girls. They show up, they're excited to work for a bit, then they burn out."
-    kim ""
+    kim "That's the problem with most new girls. They show up, they're excited to work for a bit, then they burn out."
 
 # ServantOfGilead1_29e29aaa (line 28687)
 translate ru ServantOfGilead1_29e29aaa:
     # s "Huh..."
-    s ""
+    s "Huh..."
 
 # ServantOfGilead1_c7ec9ef9 (line 28688)
 translate ru ServantOfGilead1_c7ec9ef9:
@@ -1931,7 +1901,7 @@ translate ru ServantOfGilead1_e01cd276:
 # ServantOfGilead1_65c47bce (line 28694)
 translate ru ServantOfGilead1_65c47bce:
     # kim "It's fine, I can see in you that you're made of stronger stuff."
-    kim ""
+    kim "It's fine, I can see in you that you're made of stronger stuff."
 
 # ServantOfGilead1_4ca04d80 (line 28695)
 translate ru ServantOfGilead1_4ca04d80:
@@ -1941,17 +1911,17 @@ translate ru ServantOfGilead1_4ca04d80:
 # ServantOfGilead1_7a12b90c (line 28696)
 translate ru ServantOfGilead1_7a12b90c:
     # s "Really?"
-    s ""
+    s "Really?"
 
 # ServantOfGilead1_8438ef56 (line 28697)
 translate ru ServantOfGilead1_8438ef56:
     # kim "Yeah...I mean, not yet, but I think you got potential."
-    kim ""
+    kim "Yeah...I mean, not yet, but I think you got potential."
 
 # ServantOfGilead1_719014c2 (line 28698)
 translate ru ServantOfGilead1_719014c2:
     # s "Thanks."
-    s ""
+    s "Thanks."
 
 # ServantOfGilead1_e04a01da (line 28750)
 translate ru ServantOfGilead1_e04a01da:
@@ -1961,7 +1931,7 @@ translate ru ServantOfGilead1_e04a01da:
 # ServantOfGilead1_a3529a59 (line 28751)
 translate ru ServantOfGilead1_a3529a59:
     # s "It's a lot faster together."
-    s ""
+    s "It's a lot faster together."
 
 # ServantOfGilead1_2d99761f (line 28752)
 translate ru ServantOfGilead1_2d99761f:
@@ -1976,7 +1946,7 @@ translate ru ServantOfGilead1_28d4575b:
 # ServantOfGilead1_06f94162 (line 28754)
 translate ru ServantOfGilead1_06f94162:
     # s "So, should we report back to the Headmaster for our next task?"
-    s ""
+    s "So, should we report back to the Headmaster for our next task?"
 
 # ServantOfGilead1_fbd30490 (line 28755)
 translate ru ServantOfGilead1_fbd30490:
@@ -1986,32 +1956,32 @@ translate ru ServantOfGilead1_fbd30490:
 # ServantOfGilead1_4f98dff6 (line 28756)
 translate ru ServantOfGilead1_4f98dff6:
     # kim "Are you crazy?"
-    kim ""
+    kim "Are you crazy?"
 
 # ServantOfGilead1_7f4d2c01 (line 28757)
 translate ru ServantOfGilead1_7f4d2c01:
     # s "Why? We finished our work...right?"
-    s ""
+    s "Why? We finished our work...right?"
 
 # ServantOfGilead1_4526e038 (line 28758)
 translate ru ServantOfGilead1_4526e038:
     # kim "Right."
-    kim ""
+    kim "Right."
 
 # ServantOfGilead1_0f8590c0 (line 28759)
 translate ru ServantOfGilead1_0f8590c0:
     # kim "He gave us one job for the day. We did that job."
-    kim ""
+    kim "He gave us one job for the day. We did that job."
 
 # ServantOfGilead1_074755f1 (line 28760)
 translate ru ServantOfGilead1_074755f1:
     # kim "Why would you go and ask for more work? You think we get paid by the room?"
-    kim ""
+    kim "Why would you go and ask for more work? You think we get paid by the room?"
 
 # ServantOfGilead1_563200dd (line 28761)
 translate ru ServantOfGilead1_563200dd:
     # s "I..."
-    s ""
+    s "I..."
 
 # ServantOfGilead1_e60ae32a (line 28762)
 translate ru ServantOfGilead1_e60ae32a:
@@ -2021,7 +1991,7 @@ translate ru ServantOfGilead1_e60ae32a:
 # ServantOfGilead1_04b4c3dd (line 28763)
 translate ru ServantOfGilead1_04b4c3dd:
     # kim "Look, we got our task, we did our task."
-    kim ""
+    kim "Look, we got our task, we did our task."
 
 # ServantOfGilead1_bf7114b6 (line 28764)
 translate ru ServantOfGilead1_bf7114b6:
@@ -2031,7 +2001,7 @@ translate ru ServantOfGilead1_bf7114b6:
 # ServantOfGilead1_c164b080 (line 28765)
 translate ru ServantOfGilead1_c164b080:
     # kim "See, Sarah, that's why those new girls burn out. They don't know how to pace themselves."
-    kim ""
+    kim "See, Sarah, that's why those new girls burn out. They don't know how to pace themselves."
 
 # ServantOfGilead1_d6d2051e (line 28766)
 translate ru ServantOfGilead1_d6d2051e:
@@ -2041,7 +2011,7 @@ translate ru ServantOfGilead1_d6d2051e:
 # ServantOfGilead1_b5c86265 (line 28767)
 translate ru ServantOfGilead1_b5c86265:
     # kim "Stick with me and you're gonna be golden, alright?"
-    kim ""
+    kim "Stick with me and you're gonna be golden, alright?"
 
 # ServantOfGilead1_c1430084 (line 28768)
 translate ru ServantOfGilead1_c1430084:
@@ -2066,7 +2036,7 @@ translate ru ServantOfGilead1_61cd2666:
 # ServantOfGilead1_b84f461b (line 28772)
 translate ru ServantOfGilead1_b84f461b:
     # s "Wow..."
-    s ""
+    s "Wow..."
 
 # ServantOfGilead1_602c42e7 (line 28773)
 translate ru ServantOfGilead1_602c42e7:
@@ -2076,17 +2046,17 @@ translate ru ServantOfGilead1_602c42e7:
 # ServantOfGilead1_704a8c34 (line 28774)
 translate ru ServantOfGilead1_704a8c34:
     # kim "This is one of the secret gardens. The Estate has dozens of em."
-    kim ""
+    kim "This is one of the secret gardens. The Estate has dozens of em."
 
 # ServantOfGilead1_2415a538 (line 28775)
 translate ru ServantOfGilead1_2415a538:
     # kim "I like to hide out here when I have my work done."
-    kim ""
+    kim "I like to hide out here when I have my work done."
 
 # ServantOfGilead1_a98d5ee4 (line 28776)
 translate ru ServantOfGilead1_a98d5ee4:
     # kim "Come, sit."
-    kim ""
+    kim "Come, sit."
 
 # ServantOfGilead1_d83d3929 (line 28777)
 translate ru ServantOfGilead1_d83d3929:
@@ -2106,22 +2076,22 @@ translate ru ServantOfGilead1_6cfab43e:
 # ServantOfGilead1_a1ee11b0 (line 28786)
 translate ru ServantOfGilead1_a1ee11b0:
     # kim "It's peaceful here. Down in the servant quarters it's always something."
-    kim ""
+    kim "It's peaceful here. Down in the servant quarters it's always something."
 
 # ServantOfGilead1_ed9c8852 (line 28787)
 translate ru ServantOfGilead1_ed9c8852:
     # kim "Plus...we don't get to see the sky down there."
-    kim ""
+    kim "Plus...we don't get to see the sky down there."
 
 # ServantOfGilead1_21172ca5 (line 28788)
 translate ru ServantOfGilead1_21172ca5:
     # kim "I think that's important. People weren't made to live in tunnels for so long."
-    kim ""
+    kim "I think that's important. People weren't made to live in tunnels for so long."
 
 # ServantOfGilead1_366b941c (line 28789)
 translate ru ServantOfGilead1_366b941c:
     # kim "Some girls go crazy over it."
-    kim ""
+    kim "Some girls go crazy over it."
 
 # ServantOfGilead1_605f897b (line 28790)
 translate ru ServantOfGilead1_605f897b:
@@ -2131,7 +2101,7 @@ translate ru ServantOfGilead1_605f897b:
 # ServantOfGilead1_59340e26 (line 28791)
 translate ru ServantOfGilead1_59340e26:
     # kim "I'm sorry, it's mean to laugh..."
-    kim ""
+    kim "I'm sorry, it's mean to laugh..."
 
 # ServantOfGilead1_710765a6 (line 28792)
 translate ru ServantOfGilead1_710765a6:
@@ -2141,32 +2111,22 @@ translate ru ServantOfGilead1_710765a6:
 # ServantOfGilead1_49bb8fcb (line 28793)
 translate ru ServantOfGilead1_49bb8fcb:
     # kim "What's your story, anyway?"
-    kim ""
+    kim "What's your story, anyway?"
 
 # ServantOfGilead1_b9e28626 (line 28794)
 translate ru ServantOfGilead1_b9e28626:
     # s "Me?"
-    s ""
+    s "Me?"
 
 # ServantOfGilead1_383e8eac (line 28795)
 translate ru ServantOfGilead1_383e8eac:
     # kim "Yeah...we get a lot of girls coming through this place. Not a whole lot that look like...well you."
-    kim ""
+    kim "Yeah...we get a lot of girls coming through this place. Not a whole lot that look like...well you."
 
 # ServantOfGilead1_7ac5aea0 (line 28797)
 translate ru ServantOfGilead1_7ac5aea0:
     # "Sarah looked at a particularly bright coloured flower, as she thought."
     ""
-
-# ServantOfGilead1_4b23c1b0 (line 28800)
-translate ru ServantOfGilead1_4b23c1b0:
-    # "Tell her the truth"
-    "Tell her the truth" ""
-
-# ServantOfGilead1_6d36adb1 (line 28830)
-translate ru ServantOfGilead1_6d36adb1:
-    # "Lie to her"
-    "Lie to her" ""
 
 # ServantOfGilead1_621aa364 (line 28849)
 translate ru ServantOfGilead1_621aa364:
@@ -2176,12 +2136,12 @@ translate ru ServantOfGilead1_621aa364:
 # ServantOfGilead1_d4d89731 (line 28850)
 translate ru ServantOfGilead1_d4d89731:
     # kim "Best we get moving."
-    kim ""
+    kim "Best we get moving."
 
 # ServantOfGilead1_e5ba8741 (line 28851)
 translate ru ServantOfGilead1_e5ba8741:
     # kim "The Headmaster has some patience, but we shouldn't hide away for too long."
-    kim ""
+    kim "The Headmaster has some patience, but we shouldn't hide away for too long."
 
 # ServantOfGilead1_3ab9188a (line 28852)
 translate ru ServantOfGilead1_3ab9188a:
@@ -2211,12 +2171,12 @@ translate ru ServantOfGilead1_0850367a:
 # ServantOfGilead1_fc74b354 (line 28863)
 translate ru ServantOfGilead1_fc74b354:
     # kim "Hold onto me."
-    kim ""
+    kim "Hold onto me."
 
 # ServantOfGilead1_4619433b (line 28864)
 translate ru ServantOfGilead1_4619433b:
     # kim "These tunnels can be a bitch if you get lost."
-    kim ""
+    kim "These tunnels can be a bitch if you get lost."
 
 # ServantOfGilead1_86630644 (line 28865)
 translate ru ServantOfGilead1_86630644:
@@ -2346,7 +2306,7 @@ translate ru ServantOfGilead1_ec2c3ae8:
 # ServantOfGilead1_3c9cca74 (line 28903)
 translate ru ServantOfGilead1_3c9cca74:
     # gil "Which of them have rejected the proposal?"
-    gil ""
+    gil "Which of them have rejected the proposal?"
 
 # ServantOfGilead1_13e9c1c3 (line 28904)
 translate ru ServantOfGilead1_13e9c1c3:
@@ -2366,12 +2326,12 @@ translate ru ServantOfGilead1_756e8285:
 # ServantOfGilead1_99df0e66 (line 28907)
 translate ru ServantOfGilead1_99df0e66:
     # gil "All of them?"
-    gil ""
+    gil "All of them?"
 
 # ServantOfGilead1_c6d665e7 (line 28908)
 translate ru ServantOfGilead1_c6d665e7:
     # gil "Is this a joke?"
-    gil ""
+    gil "Is this a joke?"
 
 # ServantOfGilead1_96c96c04 (line 28909)
 translate ru ServantOfGilead1_96c96c04:
@@ -2401,7 +2361,7 @@ translate ru ServantOfGilead1_626d923a:
 # ServantOfGilead1_9a4d1609 (line 28914)
 translate ru ServantOfGilead1_9a4d1609:
     # gil "This is that fool Caliban's doing."
-    gil ""
+    gil "This is that fool Caliban's doing."
 
 # ServantOfGilead1_7b5d4f96 (line 28915)
 translate ru ServantOfGilead1_7b5d4f96:
@@ -2421,12 +2381,12 @@ translate ru ServantOfGilead1_564f73c9:
 # ServantOfGilead1_d9eead37 (line 28918)
 translate ru ServantOfGilead1_d9eead37:
     # gil "Ambitious?"
-    gil ""
+    gil "Ambitious?"
 
 # ServantOfGilead1_a9f7f13c (line 28919)
 translate ru ServantOfGilead1_a9f7f13c:
     # gil "Was this Empire of ours not build on men of vision? Must we now instead be ruled by cowards that squable over meaningless frontiers?"
-    gil ""
+    gil "Was this Empire of ours not build on men of vision? Must we now instead be ruled by cowards that squable over meaningless frontiers?"
 
 # ServantOfGilead1_56f1e691 (line 28920)
 translate ru ServantOfGilead1_56f1e691:
@@ -2441,7 +2401,7 @@ translate ru ServantOfGilead1_aa558a8b:
 # ServantOfGilead1_a3aebbec (line 28922)
 translate ru ServantOfGilead1_a3aebbec:
     # gil "This Orc threat? The Orcs have done nothing for decades now. They are an excuse."
-    gil ""
+    gil "This Orc threat? The Orcs have done nothing for decades now. They are an excuse."
 
 # ServantOfGilead1_68fac8d8 (line 28923)
 translate ru ServantOfGilead1_68fac8d8:
@@ -2456,7 +2416,7 @@ translate ru ServantOfGilead1_59162ad9:
 # ServantOfGilead1_f8f2b5fd (line 28925)
 translate ru ServantOfGilead1_f8f2b5fd:
     # gil "Organize a masquerade."
-    gil ""
+    gil "Organize a masquerade."
 
 # ServantOfGilead1_96efb1bc (line 28926)
 translate ru ServantOfGilead1_96efb1bc:
@@ -2466,17 +2426,17 @@ translate ru ServantOfGilead1_96efb1bc:
 # ServantOfGilead1_77f47884 (line 28927)
 translate ru ServantOfGilead1_77f47884:
     # gil "Yes."
-    gil ""
+    gil "Yes."
 
 # ServantOfGilead1_d46ab209 (line 28928)
 translate ru ServantOfGilead1_d46ab209:
     # gil "If I am correct, and this has been that worm Caliban's doing, then we must delay my proposal for now."
-    gil ""
+    gil "If I am correct, and this has been that worm Caliban's doing, then we must delay my proposal for now."
 
 # ServantOfGilead1_7a499c34 (line 28929)
 translate ru ServantOfGilead1_7a499c34:
     # gil "Instead, we should begin anew. Win allies to our side, then push for the proposal when we have more support."
-    gil ""
+    gil "Instead, we should begin anew. Win allies to our side, then push for the proposal when we have more support."
 
 # ServantOfGilead1_e2937bb1 (line 28930)
 translate ru ServantOfGilead1_e2937bb1:
@@ -2486,12 +2446,12 @@ translate ru ServantOfGilead1_e2937bb1:
 # ServantOfGilead1_fd075cc1 (line 28931)
 translate ru ServantOfGilead1_fd075cc1:
     # gil "Not enough, but it will be the start."
-    gil ""
+    gil "Not enough, but it will be the start."
 
 # ServantOfGilead1_49cf34d1 (line 28932)
 translate ru ServantOfGilead1_49cf34d1:
     # gil "Be certain that we invite some of those refugees as well."
-    gil ""
+    gil "Be certain that we invite some of those refugees as well."
 
 # ServantOfGilead1_bf9ec67b (line 28933)
 translate ru ServantOfGilead1_bf9ec67b:
@@ -2501,12 +2461,12 @@ translate ru ServantOfGilead1_bf9ec67b:
 # ServantOfGilead1_1e2bc254 (line 28934)
 translate ru ServantOfGilead1_1e2bc254:
     # gil "Legitimacy. Let me play the champion to their cause, and we can begin to build the momentum we need."
-    gil ""
+    gil "Legitimacy. Let me play the champion to their cause, and we can begin to build the momentum we need."
 
 # ServantOfGilead1_b60f8877 (line 28935)
 translate ru ServantOfGilead1_b60f8877:
     # gil "For now...it is too early."
-    gil ""
+    gil "For now...it is too early."
 
 # ServantOfGilead1_85e0c14d (line 28936)
 translate ru ServantOfGilead1_85e0c14d:
@@ -2536,7 +2496,7 @@ translate ru ServantOfGilead1_ffcf9271:
 # ServantOfGilead1_8e4a45d2 (line 28948)
 translate ru ServantOfGilead1_8e4a45d2:
     # gil "You."
-    gil ""
+    gil "You."
 
 # ServantOfGilead1_fd6314b7 (line 28949)
 translate ru ServantOfGilead1_fd6314b7:
@@ -2556,7 +2516,7 @@ translate ru ServantOfGilead1_edcc814d:
 # ServantOfGilead1_d86706fa (line 28952)
 translate ru ServantOfGilead1_d86706fa:
     # s "I...I'm so sorry, I wasn't..."
-    s ""
+    s "I...I'm so sorry, I wasn't..."
 
 # ServantOfGilead1_217b9966 (line 28953)
 translate ru ServantOfGilead1_217b9966:
@@ -2566,12 +2526,12 @@ translate ru ServantOfGilead1_217b9966:
 # ServantOfGilead1_56e32dc5 (line 28954)
 translate ru ServantOfGilead1_56e32dc5:
     # gil "You were..."
-    gil ""
+    gil "You were..."
 
 # ServantOfGilead1_a913b4cc (line 28955)
 translate ru ServantOfGilead1_a913b4cc:
     # gil "You were listening!"
-    gil ""
+    gil "You were listening!"
 
 # ServantOfGilead1_8dd65a61 (line 28956)
 translate ru ServantOfGilead1_8dd65a61:
@@ -2591,22 +2551,22 @@ translate ru ServantOfGilead1_254786fb:
 # ServantOfGilead1_08c1bb91 (line 28959)
 translate ru ServantOfGilead1_08c1bb91:
     # gil "Do not play the fool, girl."
-    gil ""
+    gil "Do not play the fool, girl."
 
 # ServantOfGilead1_c54480cd (line 28960)
 translate ru ServantOfGilead1_c54480cd:
     # gil "Tell me, are you one of Caliban's whores?"
-    gil ""
+    gil "Tell me, are you one of Caliban's whores?"
 
 # ServantOfGilead1_703b19bb (line 28961)
 translate ru ServantOfGilead1_703b19bb:
     # s "I...I don't know who that is! I swear!"
-    s ""
+    s "I...I don't know who that is! I swear!"
 
 # ServantOfGilead1_26bf59d3 (line 28962)
 translate ru ServantOfGilead1_26bf59d3:
     # s "I was just cleaning the hallway! I'm one of the new servants, I-"
-    s ""
+    s "I was just cleaning the hallway! I'm one of the new servants, I-"
 
 # ServantOfGilead1_728fa232 (line 28969)
 translate ru ServantOfGilead1_728fa232:
@@ -2631,7 +2591,7 @@ translate ru ServantOfGilead1_980e96de:
 # ServantOfGilead1_0b2b3521 (line 28973)
 translate ru ServantOfGilead1_0b2b3521:
     # gil "Look at me!"
-    gil ""
+    gil "Look at me!"
 
 # ServantOfGilead1_1bf9aac1 (line 28974)
 translate ru ServantOfGilead1_1bf9aac1:
@@ -2641,17 +2601,17 @@ translate ru ServantOfGilead1_1bf9aac1:
 # ServantOfGilead1_d12459be (line 28975)
 translate ru ServantOfGilead1_d12459be:
     # gil "Do not lie to me again, girl."
-    gil ""
+    gil "Do not lie to me again, girl."
 
 # ServantOfGilead1_4f71bc47 (line 28976)
 translate ru ServantOfGilead1_4f71bc47:
     # gil "I could bash your head against this wall until you are nothing but pulp, and nothing would come of it."
-    gil ""
+    gil "I could bash your head against this wall until you are nothing but pulp, and nothing would come of it."
 
 # ServantOfGilead1_7e7b2b80 (line 28977)
 translate ru ServantOfGilead1_7e7b2b80:
     # gil "Do you understand."
-    gil ""
+    gil "Do you understand."
 
 # ServantOfGilead1_fb6ab912 (line 28978)
 translate ru ServantOfGilead1_fb6ab912:
@@ -2666,17 +2626,17 @@ translate ru ServantOfGilead1_dbbb0e50:
 # ServantOfGilead1_720c41ea (line 28980)
 translate ru ServantOfGilead1_720c41ea:
     # gil "Are you a spy?"
-    gil ""
+    gil "Are you a spy?"
 
 # ServantOfGilead1_98b8cd76 (line 28981)
 translate ru ServantOfGilead1_98b8cd76:
     # s "No!"
-    s ""
+    s "No!"
 
 # ServantOfGilead1_c4a9d236 (line 28982)
 translate ru ServantOfGilead1_c4a9d236:
     # s "I swear! I'm just a servant."
-    s ""
+    s "I swear! I'm just a servant."
 
 # ServantOfGilead1_a4b700d4 (line 28983)
 translate ru ServantOfGilead1_a4b700d4:
@@ -2691,12 +2651,12 @@ translate ru ServantOfGilead1_0a982b4b:
 # ServantOfGilead1_884c3331 (line 28985)
 translate ru ServantOfGilead1_884c3331:
     # gil "There are other ways to make you speak the truth."
-    gil ""
+    gil "There are other ways to make you speak the truth."
 
 # ServantOfGilead1_2446dae0 (line 28986)
 translate ru ServantOfGilead1_2446dae0:
     # gil "Tell me..."
-    gil ""
+    gil "Tell me..."
 
 # ServantOfGilead1_42285ae6 (line 28987)
 translate ru ServantOfGilead1_42285ae6:
@@ -2711,7 +2671,7 @@ translate ru ServantOfGilead1_1f969fb4:
 # ServantOfGilead1_e96c2f61 (line 28989)
 translate ru ServantOfGilead1_e96c2f61:
     # gil "Do you know..."
-    gil ""
+    gil "Do you know..."
 
 # ServantOfGilead1_5aa8de90 (line 28990)
 translate ru ServantOfGilead1_5aa8de90:
@@ -2736,7 +2696,7 @@ translate ru ServantOfGilead1_6aee7314:
 # ServantOfGilead1_357b2c7e (line 28994)
 translate ru ServantOfGilead1_357b2c7e:
     # gil "Who Caliban is..."
-    gil ""
+    gil "Who Caliban is..."
 
 # ServantOfGilead1_430e3ada (line 28995)
 translate ru ServantOfGilead1_430e3ada:
@@ -2771,7 +2731,7 @@ translate ru ServantOfGilead1_2e5b9ca7:
 # ServantOfGilead1_ef935fdb (line 29001)
 translate ru ServantOfGilead1_ef935fdb:
     # s "I don't know who that is!"
-    s ""
+    s "I don't know who that is!"
 
 # ServantOfGilead1_064a77e6 (line 29002)
 translate ru ServantOfGilead1_064a77e6:
@@ -2786,17 +2746,17 @@ translate ru ServantOfGilead1_4278273b:
 # ServantOfGilead1_98aab23e (line 29011)
 translate ru ServantOfGilead1_98aab23e:
     # gil "Who brought you here?"
-    gil ""
+    gil "Who brought you here?"
 
 # ServantOfGilead1_e3339326 (line 29012)
 translate ru ServantOfGilead1_e3339326:
     # s "I just...took a job. They were recruiting at the square, I swear I'm not a spy!"
-    s ""
+    s "I just...took a job. They were recruiting at the square, I swear I'm not a spy!"
 
 # ServantOfGilead1_3e844076 (line 29013)
 translate ru ServantOfGilead1_3e844076:
     # s "Please believe me!"
-    s ""
+    s "Please believe me!"
 
 # ServantOfGilead1_7c825733 (line 29014)
 translate ru ServantOfGilead1_7c825733:
@@ -2806,12 +2766,12 @@ translate ru ServantOfGilead1_7c825733:
 # ServantOfGilead1_b1d54f81 (line 29015)
 translate ru ServantOfGilead1_b1d54f81:
     # gil "Calm yourself, girl."
-    gil ""
+    gil "Calm yourself, girl."
 
 # ServantOfGilead1_9a261524 (line 29016)
 translate ru ServantOfGilead1_9a261524:
     # gil "I believe you."
-    gil ""
+    gil "I believe you."
 
 # ServantOfGilead1_f6c03544 (line 29017)
 translate ru ServantOfGilead1_f6c03544:
@@ -2821,7 +2781,7 @@ translate ru ServantOfGilead1_f6c03544:
 # ServantOfGilead1_bc71c14d (line 29018)
 translate ru ServantOfGilead1_bc71c14d:
     # gil "Resume your duties."
-    gil ""
+    gil "Resume your duties."
 
 # ServantOfGilead1_5e1ff862 (line 29019)
 translate ru ServantOfGilead1_5e1ff862:
@@ -2831,7 +2791,7 @@ translate ru ServantOfGilead1_5e1ff862:
 # ServantOfGilead1_c6e67c79 (line 29020)
 translate ru ServantOfGilead1_c6e67c79:
     # gil "Do not have me catch you being a fool again, girl."
-    gil ""
+    gil "Do not have me catch you being a fool again, girl."
 
 # ServantOfGilead1_ac9e69a7 (line 29021)
 translate ru ServantOfGilead1_ac9e69a7:
@@ -2841,7 +2801,7 @@ translate ru ServantOfGilead1_ac9e69a7:
 # ServantOfGilead1_cc5dbca5 (line 29022)
 translate ru ServantOfGilead1_cc5dbca5:
     # s "Yes...Master Gilead, I'm so sorry."
-    s ""
+    s "Yes...Master Gilead, I'm so sorry."
 
 # ServantOfGilead1_097ba4cc (line 29024)
 translate ru ServantOfGilead1_097ba4cc:
@@ -2896,7 +2856,7 @@ translate ru ServantOfGilead1_673494fe:
 # ServantOfGilead1_35241b60 (line 29044)
 translate ru ServantOfGilead1_35241b60:
     # s "Gods...when did this happen."
-    s ""
+    s "Gods...when did this happen."
 
 # ServantOfGilead1_357feb25 (line 29045)
 translate ru ServantOfGilead1_357feb25:
@@ -2923,28 +2883,8 @@ translate ru ServantOfGilead1_6bfd161d:
     # "But her last encounter had made her hestitant to ask him for help."
     ""
 
-# ServantOfGilead1_93f5d638 (line 29053)
-translate ru ServantOfGilead1_93f5d638:
-    # "Fix the dress yourself"
-    "Fix the dress yourself" ""
-
-# ServantOfGilead1_4ac0d42a (line 29065)
-translate ru ServantOfGilead1_4ac0d42a:
-    # "Ask the tailor for help"
-    "Ask the tailor for help" ""
-
 # ServantOfGilead1_026a5bc3 (line 29276)
 translate ru ServantOfGilead1_026a5bc3:
     # "Laying back in her bed, Sarah was eager to fall asleep and forget about this day."
     ""
-
-# ServantOfGilead1_5fdba765 (line 29393)
-translate ru ServantOfGilead1_5fdba765:
-    # "Accept job as tailor's apprentice"
-    "Accept job as tailor's apprentice" ""
-
-# ServantOfGilead1_7717376d (line 29399)
-translate ru ServantOfGilead1_7717376d:
-    # "Refuse the job"
-    "Refuse the job" ""
 

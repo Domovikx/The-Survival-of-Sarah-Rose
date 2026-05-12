@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: NeitherPath2
-# Total blocks: 76
+# Total blocks: 73
 
 # NeitherPath2_96b68414 (line 4666)
 translate ru NeitherPath2_96b68414:
@@ -116,7 +116,7 @@ translate ru NeitherPath2_12b2e450:
 # NeitherPath2_6416bb26 (line 4688)
 translate ru NeitherPath2_6416bb26:
     # kr "Princess Sarah."
-    kr ""
+    kr "Princess Sarah."
 
 # NeitherPath2_c3294b80 (line 4689)
 translate ru NeitherPath2_c3294b80:
@@ -126,12 +126,12 @@ translate ru NeitherPath2_c3294b80:
 # NeitherPath2_bd06f5b6 (line 4690)
 translate ru NeitherPath2_bd06f5b6:
     # s "Do you have news for me, spymaster?"
-    s ""
+    s "Do you have news for me, spymaster?"
 
 # NeitherPath2_ee1e8b89 (line 4691)
 translate ru NeitherPath2_ee1e8b89:
     # kr "News of a sort, Princess."
-    kr ""
+    kr "News of a sort, Princess."
 
 # NeitherPath2_f692b3f3 (line 4692)
 translate ru NeitherPath2_f692b3f3:
@@ -156,7 +156,7 @@ translate ru NeitherPath2_fbcfd2fc:
 # NeitherPath2_49696ebb (line 4699)
 translate ru NeitherPath2_49696ebb:
     # kr "We caught these people trying to sneak out of the capital."
-    kr ""
+    kr "We caught these people trying to sneak out of the capital."
 
 # NeitherPath2_0bfc9e8f (line 4700)
 translate ru NeitherPath2_0bfc9e8f:
@@ -171,7 +171,7 @@ translate ru NeitherPath2_3e3be0d6:
 # NeitherPath2_ad9b41c4 (line 4702)
 translate ru NeitherPath2_ad9b41c4:
     # kr "They are members of the Highfield family."
-    kr ""
+    kr "They are members of the Highfield family."
 
 # NeitherPath2_383ad17a (line 4703)
 translate ru NeitherPath2_383ad17a:
@@ -186,7 +186,7 @@ translate ru NeitherPath2_4b765d17:
 # NeitherPath2_6392e478 (line 4705)
 translate ru NeitherPath2_6392e478:
     # s "The Highfield family is led by five brothers. They don't have any sisters. So if this is the Highfield family, who is she?"
-    s ""
+    s "The Highfield family is led by five brothers. They don't have any sisters. So if this is the Highfield family, who is she?"
 
 # NeitherPath2_38b1a1f1 (line 4706)
 translate ru NeitherPath2_38b1a1f1:
@@ -196,7 +196,7 @@ translate ru NeitherPath2_38b1a1f1:
 # NeitherPath2_f7ab6af2 (line 4707)
 translate ru NeitherPath2_f7ab6af2:
     # kr "Well, uhm, Princess Sarah...they are-"
-    kr ""
+    kr "Well, uhm, Princess Sarah...they are-"
 
 # NeitherPath2_2d70d8a1 (line 4708)
 translate ru NeitherPath2_2d70d8a1:
@@ -206,7 +206,7 @@ translate ru NeitherPath2_2d70d8a1:
 # NeitherPath2_ae82b17b (line 4709)
 translate ru NeitherPath2_ae82b17b:
     # l "What your moronic spymaster is trying to tell you is that we're not Highfielders...well, not really."
-    l ""
+    l "What your moronic spymaster is trying to tell you is that we're not Highfielders...well, not really."
 
 # NeitherPath2_4eae043b (line 4710)
 translate ru NeitherPath2_4eae043b:
@@ -216,17 +216,17 @@ translate ru NeitherPath2_4eae043b:
 # NeitherPath2_624545a2 (line 4711)
 translate ru NeitherPath2_624545a2:
     # s "What does she mean, Kravel?"
-    s ""
+    s "What does she mean, Kravel?"
 
 # NeitherPath2_c33d9fc1 (line 4712)
 translate ru NeitherPath2_c33d9fc1:
     # kr "Well, she is right, and wrong, in a way."
-    kr ""
+    kr "Well, she is right, and wrong, in a way."
 
 # NeitherPath2_23a005f5 (line 4713)
 translate ru NeitherPath2_23a005f5:
     # kr "Theirs is a minor branch of the Highfield family. The Highfield brothers have an uncle, whose second wife..."
-    kr ""
+    kr "Theirs is a minor branch of the Highfield family. The Highfield brothers have an uncle, whose second wife..."
 
 # NeitherPath2_06641d4f (line 4714)
 translate ru NeitherPath2_06641d4f:
@@ -236,7 +236,7 @@ translate ru NeitherPath2_06641d4f:
 # NeitherPath2_6001dd47 (line 4715)
 translate ru NeitherPath2_6001dd47:
     # s "Fine, I understand."
-    s ""
+    s "Fine, I understand."
 
 # NeitherPath2_ad2f555e (line 4716)
 translate ru NeitherPath2_ad2f555e:
@@ -246,17 +246,17 @@ translate ru NeitherPath2_ad2f555e:
 # NeitherPath2_e70fdc56 (line 4717)
 translate ru NeitherPath2_e70fdc56:
     # s "So why did you bring them here?"
-    s ""
+    s "So why did you bring them here?"
 
 # NeitherPath2_11fdacb8 (line 4718)
 translate ru NeitherPath2_11fdacb8:
     # kr "Princess Sarah, we can use these people as leverage."
-    kr ""
+    kr "Princess Sarah, we can use these people as leverage."
 
 # NeitherPath2_30dda490 (line 4719)
 translate ru NeitherPath2_30dda490:
     # kr "The Highfield family will not wish any harm come to them or their children. Just as they keep King Thomas as a hostage, we can keep them, to make certain nothing happens to your brother."
-    kr ""
+    kr "The Highfield family will not wish any harm come to them or their children. Just as they keep King Thomas as a hostage, we can keep them, to make certain nothing happens to your brother."
 
 # NeitherPath2_03df886a (line 4720)
 translate ru NeitherPath2_03df886a:
@@ -266,17 +266,17 @@ translate ru NeitherPath2_03df886a:
 # NeitherPath2_6717b2f3 (line 4721)
 translate ru NeitherPath2_6717b2f3:
     # l "You think my stupid fucking nephews give a shit about me or any of my brothers and sisters?"
-    l ""
+    l "You think my stupid fucking nephews give a shit about me or any of my brothers and sisters?"
 
 # NeitherPath2_87a8be90 (line 4722)
 translate ru NeitherPath2_87a8be90:
     # l "We're lucky to be invited once a year to their estate, hells, some year they even forget to invite us at all."
-    l ""
+    l "We're lucky to be invited once a year to their estate, hells, some year they even forget to invite us at all."
 
 # NeitherPath2_fecabd06 (line 4723)
 translate ru NeitherPath2_fecabd06:
     # l "They're not going to give a damn if you hang us or not. Gods, they might actually thank you for getting rid of us!"
-    l ""
+    l "They're not going to give a damn if you hang us or not. Gods, they might actually thank you for getting rid of us!"
 
 # NeitherPath2_3691ed45 (line 4724)
 translate ru NeitherPath2_3691ed45:
@@ -286,12 +286,12 @@ translate ru NeitherPath2_3691ed45:
 # NeitherPath2_ccb61219 (line 4725)
 translate ru NeitherPath2_ccb61219:
     # kr "The girl will say whatever to keep her life. They are Highfielders; their lives hold value."
-    kr ""
+    kr "The girl will say whatever to keep her life. They are Highfielders; their lives hold value."
 
 # NeitherPath2_3713c040 (line 4726)
 translate ru NeitherPath2_3713c040:
     # kr "We can keep them in the dungeon and I will let our enemy know that we hold this leverage over them."
-    kr ""
+    kr "We can keep them in the dungeon and I will let our enemy know that we hold this leverage over them."
 
 # NeitherPath2_75d826f2 (line 4727)
 translate ru NeitherPath2_75d826f2:
@@ -301,32 +301,32 @@ translate ru NeitherPath2_75d826f2:
 # NeitherPath2_6b960869 (line 4728)
 translate ru NeitherPath2_6b960869:
     # l "Princess Sarah!"
-    l ""
+    l "Princess Sarah!"
 
 # NeitherPath2_06fd126b (line 4729)
 translate ru NeitherPath2_06fd126b:
     # l "My name is Lily Highfield, and I swear on everything in heaven, here on earth and everything down in hell, that I knew nothing of my family and their dishonesty."
-    l ""
+    l "My name is Lily Highfield, and I swear on everything in heaven, here on earth and everything down in hell, that I knew nothing of my family and their dishonesty."
 
 # NeitherPath2_c79e2ba0 (line 4730)
 translate ru NeitherPath2_c79e2ba0:
     # l "They left me and my brothers and sisters behind in the capital to face a punishment for their crimes, but we are innocent."
-    l ""
+    l "They left me and my brothers and sisters behind in the capital to face a punishment for their crimes, but we are innocent."
 
 # NeitherPath2_bb73912f (line 4731)
 translate ru NeitherPath2_bb73912f:
     # l "We have never met, but all the stories I have heard about you tell me that you are a kind and merciful ruler."
-    l ""
+    l "We have never met, but all the stories I have heard about you tell me that you are a kind and merciful ruler."
 
 # NeitherPath2_9cc4e68f (line 4732)
 translate ru NeitherPath2_9cc4e68f:
     # l "I offer you my life!"
-    l ""
+    l "I offer you my life!"
 
 # NeitherPath2_1f89210f (line 4733)
 translate ru NeitherPath2_1f89210f:
     # l "If you spare my brothers and sisters, I will bend my knee and serve you as a knight."
-    l ""
+    l "If you spare my brothers and sisters, I will bend my knee and serve you as a knight."
 
 # NeitherPath2_c8d8b922 (line 4734)
 translate ru NeitherPath2_c8d8b922:
@@ -357,21 +357,6 @@ translate ru NeitherPath2_883b8e9c:
 translate ru NeitherPath2_71b6ca09:
     # "What was the point of victory, if she was no different than her enemies?"
     ""
-
-# NeitherPath2_31e7e118 (line 4743)
-translate ru NeitherPath2_31e7e118:
-    # "Let them go."
-    "Let them go." ""
-
-# NeitherPath2_40a41aa3 (line 4770)
-translate ru NeitherPath2_40a41aa3:
-    # "Keep them as our hostages."
-    "Keep them as our hostages." ""
-
-# NeitherPath2_71dae413 (line 4784)
-translate ru NeitherPath2_71dae413:
-    # "Hang them. Send a message."
-    "Hang them. Send a message." ""
 
 # NeitherPath2_07c72ec6 (line 4801)
 translate ru NeitherPath2_07c72ec6:

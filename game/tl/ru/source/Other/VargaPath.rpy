@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: VargaPath
-# Total blocks: 14
+# Total blocks: 12
 
 # VargaPath_538a0bce (line 4313)
 translate ru VargaPath_538a0bce:
@@ -31,7 +31,7 @@ translate ru VargaPath_54fa2186:
 # VargaPath_3ffd5333 (line 4318)
 translate ru VargaPath_3ffd5333:
     # s "That idiot!"
-    s ""
+    s "That idiot!"
 
 # VargaPath_8f611203 (line 4319)
 translate ru VargaPath_8f611203:
@@ -51,7 +51,7 @@ translate ru VargaPath_683684aa:
 # VargaPath_cd55321c (line 4322)
 translate ru VargaPath_cd55321c:
     # v "Sarah, it's me."
-    v ""
+    v "Sarah, it's me."
 
 # VargaPath_e7776f78 (line 4327)
 translate ru VargaPath_e7776f78:
@@ -61,15 +61,5 @@ translate ru VargaPath_e7776f78:
 # VargaPath_346512f9 (line 4328)
 translate ru VargaPath_346512f9:
     # v "We don't have to talk, but, could you just let me know that you're doing alright?"
-    v ""
-
-# VargaPath_aa90b8bc (line 4332)
-translate ru VargaPath_aa90b8bc:
-    # "Let Varga in"
-    "Let Varga in" ""
-
-# VargaPath_7cf23499 (line 4483)
-translate ru VargaPath_7cf23499:
-    # "Turn Varga away"
-    "Turn Varga away" ""
+    v "We don't have to talk, but, could you just let me know that you're doing alright?"
 

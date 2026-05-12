@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: VargaPath7
-# Total blocks: 126
+# Total blocks: 124
 
 # VargaPath7_15c66d2c (line 15329)
 translate ru VargaPath7_15c66d2c:
@@ -116,7 +116,7 @@ translate ru VargaPath7_4d6acaa4:
 # VargaPath7_a64f6ceb (line 15351)
 translate ru VargaPath7_a64f6ceb:
     # s "What's this town called?"
-    s ""
+    s "What's this town called?"
 
 # VargaPath7_bc94635d (line 15352)
 translate ru VargaPath7_bc94635d:
@@ -126,17 +126,17 @@ translate ru VargaPath7_bc94635d:
 # VargaPath7_bd5441c7 (line 15353)
 translate ru VargaPath7_bd5441c7:
     # v "It's Duskcreek."
-    v ""
+    v "It's Duskcreek."
 
 # VargaPath7_3287701d (line 15354)
 translate ru VargaPath7_3287701d:
     # v "A small town, maybe two-hundred people, if that. Mostly farmers, and a few families that work the local river for fish."
-    v ""
+    v "A small town, maybe two-hundred people, if that. Mostly farmers, and a few families that work the local river for fish."
 
 # VargaPath7_19e12197 (line 15355)
 translate ru VargaPath7_19e12197:
     # s "Have they been safe so far?"
-    s ""
+    s "Have they been safe so far?"
 
 # VargaPath7_45cd0190 (line 15356)
 translate ru VargaPath7_45cd0190:
@@ -146,32 +146,32 @@ translate ru VargaPath7_45cd0190:
 # VargaPath7_572ac80a (line 15357)
 translate ru VargaPath7_572ac80a:
     # v "They've been spared the worst of it."
-    v ""
+    v "They've been spared the worst of it."
 
 # VargaPath7_d387605c (line 15358)
 translate ru VargaPath7_d387605c:
     # s "That's good."
-    s ""
+    s "That's good."
 
 # VargaPath7_efd5afb6 (line 15359)
 translate ru VargaPath7_efd5afb6:
     # v "Don't expect too friendly a welcome though."
-    v ""
+    v "Don't expect too friendly a welcome though."
 
 # VargaPath7_f782356d (line 15360)
 translate ru VargaPath7_f782356d:
     # s "Why is that?"
-    s ""
+    s "Why is that?"
 
 # VargaPath7_d865e260 (line 15361)
 translate ru VargaPath7_d865e260:
     # v "Harvest season will be here in a few months and they're short on young men to haul in the crops."
-    v ""
+    v "Harvest season will be here in a few months and they're short on young men to haul in the crops."
 
 # VargaPath7_d34e5f57 (line 15362)
 translate ru VargaPath7_d34e5f57:
     # s "Where did they go?"
-    s ""
+    s "Where did they go?"
 
 # VargaPath7_d498f243 (line 15363)
 translate ru VargaPath7_d498f243:
@@ -181,22 +181,22 @@ translate ru VargaPath7_d498f243:
 # VargaPath7_1d1f8a5c (line 15364)
 translate ru VargaPath7_1d1f8a5c:
     # v "Your army."
-    v ""
+    v "Your army."
 
 # VargaPath7_1065fc76 (line 15365)
 translate ru VargaPath7_1065fc76:
     # v "We had to call upon the nobles to raise their armies. The nobles, in turn, raise their armies from the common folk."
-    v ""
+    v "We had to call upon the nobles to raise their armies. The nobles, in turn, raise their armies from the common folk."
 
 # VargaPath7_4c8f7acb (line 15366)
 translate ru VargaPath7_4c8f7acb:
     # v "They get paid, sure, and if they survive they'll win some glory, but for the most part it leaves the economies of these small towns in shambles."
-    v ""
+    v "They get paid, sure, and if they survive they'll win some glory, but for the most part it leaves the economies of these small towns in shambles."
 
 # VargaPath7_a8a8ec6a (line 15367)
 translate ru VargaPath7_a8a8ec6a:
     # v "Without young men to work the field, at least a good part of the crops will rot in the field."
-    v ""
+    v "Without young men to work the field, at least a good part of the crops will rot in the field."
 
 # VargaPath7_a25f3e8e (line 15368)
 translate ru VargaPath7_a25f3e8e:
@@ -211,22 +211,22 @@ translate ru VargaPath7_90fb0d45:
 # VargaPath7_a7237161 (line 15370)
 translate ru VargaPath7_a7237161:
     # s "I see..."
-    s ""
+    s "I see..."
 
 # VargaPath7_4e6443f2 (line 15371)
 translate ru VargaPath7_4e6443f2:
     # v "Most of them don't know it yet, but months from now there will be a shortage of food, possibly even a famine, depending on how long the war drags on for."
-    v ""
+    v "Most of them don't know it yet, but months from now there will be a shortage of food, possibly even a famine, depending on how long the war drags on for."
 
 # VargaPath7_89c83540 (line 15372)
 translate ru VargaPath7_89c83540:
     # s "A famine? That's horrible...we can't allow that to happen."
-    s ""
+    s "A famine? That's horrible...we can't allow that to happen."
 
 # VargaPath7_f67047d8 (line 15373)
 translate ru VargaPath7_f67047d8:
     # v "If we win the war before then, we can use the royal treasury to import food, but if the war is still going on by then..."
-    v ""
+    v "If we win the war before then, we can use the royal treasury to import food, but if the war is still going on by then..."
 
 # VargaPath7_d8937c9a (line 15374)
 translate ru VargaPath7_d8937c9a:
@@ -241,7 +241,7 @@ translate ru VargaPath7_c56964b5:
 # VargaPath7_50b0834d (line 15376)
 translate ru VargaPath7_50b0834d:
     # s "I wonder if Marion knows how much suffering he's causing."
-    s ""
+    s "I wonder if Marion knows how much suffering he's causing."
 
 # VargaPath7_ebc10f53 (line 15377)
 translate ru VargaPath7_ebc10f53:
@@ -251,32 +251,32 @@ translate ru VargaPath7_ebc10f53:
 # VargaPath7_18e8ccfd (line 15378)
 translate ru VargaPath7_18e8ccfd:
     # v "I doubt he ever thinks much of anyone else other than his noble friends."
-    v ""
+    v "I doubt he ever thinks much of anyone else other than his noble friends."
 
 # VargaPath7_ca2a9b72 (line 15379)
 translate ru VargaPath7_ca2a9b72:
     # s "You sound confident."
-    s ""
+    s "You sound confident."
 
 # VargaPath7_c4fb6db0 (line 15380)
 translate ru VargaPath7_c4fb6db0:
     # v "I grew up in a town not so different from this one. Our noble lord left us to rot as soon as it was convenient to him."
-    v ""
+    v "I grew up in a town not so different from this one. Our noble lord left us to rot as soon as it was convenient to him."
 
 # VargaPath7_1c980b8f (line 15381)
 translate ru VargaPath7_1c980b8f:
     # v "Every year when it was time to pay our taxes, he loved to talk about what our role was and what his role was."
-    v ""
+    v "Every year when it was time to pay our taxes, he loved to talk about what our role was and what his role was."
 
 # VargaPath7_a0bd6611 (line 15382)
 translate ru VargaPath7_a0bd6611:
     # v "He'd talk about how important the nobles were, to govern the land, to keep us safe. But when the townspeople revolted, he all but begged the army to put them down."
-    v ""
+    v "He'd talk about how important the nobles were, to govern the land, to keep us safe. But when the townspeople revolted, he all but begged the army to put them down."
 
 # VargaPath7_1da0a3ee (line 15383)
 translate ru VargaPath7_1da0a3ee:
     # s "Did you ever consider joining them? In the uprising, I mean."
-    s ""
+    s "Did you ever consider joining them? In the uprising, I mean."
 
 # VargaPath7_eaaf8106 (line 15384)
 translate ru VargaPath7_eaaf8106:
@@ -291,87 +291,87 @@ translate ru VargaPath7_632df2f7:
 # VargaPath7_e40044d3 (line 15386)
 translate ru VargaPath7_e40044d3:
     # v "Sarah...I..."
-    v ""
+    v "Sarah...I..."
 
 # VargaPath7_11e11c73 (line 15387)
 translate ru VargaPath7_11e11c73:
     # v "I organized the defense, I put down the rebellion...but I won't lie and say that I didn't understand why they took up arms."
-    v ""
+    v "I organized the defense, I put down the rebellion...but I won't lie and say that I didn't understand why they took up arms."
 
 # VargaPath7_460df168 (line 15388)
 translate ru VargaPath7_460df168:
     # s "Then why did you not join them?"
-    s ""
+    s "Then why did you not join them?"
 
 # VargaPath7_aa44f136 (line 15389)
 translate ru VargaPath7_aa44f136:
     # v "It was strategy. Same reason I defeated them."
-    v ""
+    v "It was strategy. Same reason I defeated them."
 
 # VargaPath7_ab7ca100 (line 15390)
 translate ru VargaPath7_ab7ca100:
     # v "I could see from the start that they would lose. Not that same day, or even that same week, but I could see months in the future."
-    v ""
+    v "I could see from the start that they would lose. Not that same day, or even that same week, but I could see months in the future."
 
 # VargaPath7_b50ac009 (line 15391)
 translate ru VargaPath7_b50ac009:
     # v "They were done the moment they picked up their weapons."
-    v ""
+    v "They were done the moment they picked up their weapons."
 
 # VargaPath7_40496815 (line 15392)
 translate ru VargaPath7_40496815:
     # v "But that's the problem with people. They rarely see beyond their immediate moment."
-    v ""
+    v "But that's the problem with people. They rarely see beyond their immediate moment."
 
 # VargaPath7_88909c22 (line 15393)
 translate ru VargaPath7_88909c22:
     # v "The peasants that took part in the uprising had great success in their first weeks, so they all but imagined their victory was certain."
-    v ""
+    v "The peasants that took part in the uprising had great success in their first weeks, so they all but imagined their victory was certain."
 
 # VargaPath7_966a7c82 (line 15394)
 translate ru VargaPath7_966a7c82:
     # v "But unlike them, my father had taken me to the provincial capital."
-    v ""
+    v "But unlike them, my father had taken me to the provincial capital."
 
 # VargaPath7_acafb14c (line 15395)
 translate ru VargaPath7_acafb14c:
     # v "I had seen the armies of Rosanna. The heavy cladded steel knights, horses tall enough to tower over a man."
-    v ""
+    v "I had seen the armies of Rosanna. The heavy cladded steel knights, horses tall enough to tower over a man."
 
 # VargaPath7_10a325e4 (line 15396)
 translate ru VargaPath7_10a325e4:
     # v "I just knew it was only a matter of time before they'd get crushed, and so I picked the smarter strategy."
-    v ""
+    v "I just knew it was only a matter of time before they'd get crushed, and so I picked the smarter strategy."
 
 # VargaPath7_e0d62242 (line 15397)
 translate ru VargaPath7_e0d62242:
     # v "That's also why I don't really like to talk about it."
-    v ""
+    v "That's also why I don't really like to talk about it."
 
 # VargaPath7_8a4a7593 (line 15398)
 translate ru VargaPath7_8a4a7593:
     # v "It makes for a fine story of heroism to most in the capital, but for me, it meant slaughtering the people that were my friends."
-    v ""
+    v "It makes for a fine story of heroism to most in the capital, but for me, it meant slaughtering the people that were my friends."
 
 # VargaPath7_17f266b8 (line 15399)
 translate ru VargaPath7_17f266b8:
     # v "Some of the very same people I put into the ground, only a season prior, had celebrated the annual harvest festival with me."
-    v ""
+    v "Some of the very same people I put into the ground, only a season prior, had celebrated the annual harvest festival with me."
 
 # VargaPath7_44603be3 (line 15400)
 translate ru VargaPath7_44603be3:
     # v "After that, they gave me my title, and I never looked back."
-    v ""
+    v "After that, they gave me my title, and I never looked back."
 
 # VargaPath7_0722bf4e (line 15401)
 translate ru VargaPath7_0722bf4e:
     # v "The peace returned, but nobody could really forgive me for what I had done. They'd never say anything, but you could see it in their eyes."
-    v ""
+    v "The peace returned, but nobody could really forgive me for what I had done. They'd never say anything, but you could see it in their eyes."
 
 # VargaPath7_083c6851 (line 15402)
 translate ru VargaPath7_083c6851:
     # v "I had sided against them, and even in defeat, they would never forgive that."
-    v ""
+    v "I had sided against them, and even in defeat, they would never forgive that."
 
 # VargaPath7_e3630f81 (line 15403)
 translate ru VargaPath7_e3630f81:
@@ -381,17 +381,17 @@ translate ru VargaPath7_e3630f81:
 # VargaPath7_7efb3863 (line 15404)
 translate ru VargaPath7_7efb3863:
     # s "Well..."
-    s ""
+    s "Well..."
 
 # VargaPath7_e0f993cb (line 15405)
 translate ru VargaPath7_e0f993cb:
     # s "It brought you to the capital. To Castle Reinmeer..."
-    s ""
+    s "It brought you to the capital. To Castle Reinmeer..."
 
 # VargaPath7_71850acd (line 15406)
 translate ru VargaPath7_71850acd:
     # s "To me."
-    s ""
+    s "To me."
 
 # VargaPath7_7f12c1ec (line 15407)
 translate ru VargaPath7_7f12c1ec:
@@ -401,7 +401,7 @@ translate ru VargaPath7_7f12c1ec:
 # VargaPath7_4cc6bace (line 15408)
 translate ru VargaPath7_4cc6bace:
     # v "Yes, I suppose I shouldn't go around in pity for myself. I'm sorry."
-    v ""
+    v "Yes, I suppose I shouldn't go around in pity for myself. I'm sorry."
 
 # VargaPath7_4e073bcc (line 15409)
 translate ru VargaPath7_4e073bcc:
@@ -411,7 +411,7 @@ translate ru VargaPath7_4e073bcc:
 # VargaPath7_a310f204 (line 15410)
 translate ru VargaPath7_a310f204:
     # s "Don't apologize. I always love learning more about you."
-    s ""
+    s "Don't apologize. I always love learning more about you."
 
 # VargaPath7_6f412874 (line 15421)
 translate ru VargaPath7_6f412874:
@@ -536,7 +536,7 @@ translate ru VargaPath7_651399e7:
 # VargaPath7_3c04821f (line 15458)
 translate ru VargaPath7_3c04821f:
     # s "Is that true?"
-    s ""
+    s "Is that true?"
 
 # VargaPath7_cda4ea2c (line 15459)
 translate ru VargaPath7_cda4ea2c:
@@ -546,7 +546,7 @@ translate ru VargaPath7_cda4ea2c:
 # VargaPath7_afb30335 (line 15460)
 translate ru VargaPath7_afb30335:
     # s "Why did you do that?"
-    s ""
+    s "Why did you do that?"
 
 # VargaPath7_3dab39df (line 15461)
 translate ru VargaPath7_3dab39df:
@@ -578,16 +578,6 @@ translate ru VargaPath7_1f0248ce:
     # "This woman had attacked them, admitted it even. The soldiers would lose respect for her if she let her get away with it."
     ""
 
-# VargaPath7_9a16ef69 (line 15470)
-translate ru VargaPath7_9a16ef69:
-    # "Let her go with a warning."
-    "Let her go with a warning." ""
-
-# VargaPath7_a146baab (line 15490)
-translate ru VargaPath7_a146baab:
-    # "Make an example out of her."
-    "Make an example out of her." ""
-
 # VargaPath7_0c60efad (line 15561)
 translate ru VargaPath7_0c60efad:
     # "Sarah turned to Varga."
@@ -596,7 +586,7 @@ translate ru VargaPath7_0c60efad:
 # VargaPath7_6b6cad03 (line 15562)
 translate ru VargaPath7_6b6cad03:
     # s "Let's go back to Castle Reinmeer. I've seen enough of the real world for a while."
-    s ""
+    s "Let's go back to Castle Reinmeer. I've seen enough of the real world for a while."
 
 # VargaPath7_6b9326f7 (line 15563)
 translate ru VargaPath7_6b9326f7:
@@ -606,17 +596,17 @@ translate ru VargaPath7_6b9326f7:
 # VargaPath7_3b198d26 (line 15564)
 translate ru VargaPath7_3b198d26:
     # v "I understand you, Sarah."
-    v ""
+    v "I understand you, Sarah."
 
 # VargaPath7_a63777aa (line 15565)
 translate ru VargaPath7_a63777aa:
     # v "But try to remember this place. These people."
-    v ""
+    v "But try to remember this place. These people."
 
 # VargaPath7_9541d7e6 (line 15566)
 translate ru VargaPath7_9541d7e6:
     # v "They make up the country as much as all nobles do."
-    v ""
+    v "They make up the country as much as all nobles do."
 
 # VargaPath7_313118e0 (line 15567)
 translate ru VargaPath7_313118e0:
@@ -626,10 +616,10 @@ translate ru VargaPath7_313118e0:
 # VargaPath7_0f1b34f4 (line 15568)
 translate ru VargaPath7_0f1b34f4:
     # s "I will put this country back together, Varga."
-    s ""
+    s "I will put this country back together, Varga."
 
 # VargaPath7_aa83dec8 (line 15569)
 translate ru VargaPath7_aa83dec8:
     # s "But first I'll have to win it back."
-    s ""
+    s "But first I'll have to win it back."
 

@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TheBlackMonolithWarrior3
-# Total blocks: 142
+# Total blocks: 136
 
 # TheBlackMonolithWarrior3_d929e48c (line 46285)
 translate ru TheBlackMonolithWarrior3_d929e48c:
@@ -56,7 +56,7 @@ translate ru TheBlackMonolithWarrior3_a4fd4832:
 # TheBlackMonolithWarrior3_5333b3c1 (line 46297)
 translate ru TheBlackMonolithWarrior3_5333b3c1:
     # k "Hey!"
-    k ""
+    k "Hey!"
 
 # TheBlackMonolithWarrior3_70f0552e (line 46298)
 translate ru TheBlackMonolithWarrior3_70f0552e:
@@ -66,12 +66,12 @@ translate ru TheBlackMonolithWarrior3_70f0552e:
 # TheBlackMonolithWarrior3_f682c3ae (line 46299)
 translate ru TheBlackMonolithWarrior3_f682c3ae:
     # k "I was looking all over for you last night."
-    k ""
+    k "I was looking all over for you last night."
 
 # TheBlackMonolithWarrior3_c67a0c88 (line 46300)
 translate ru TheBlackMonolithWarrior3_c67a0c88:
     # k "Looks like you had a good night."
-    k ""
+    k "Looks like you had a good night."
 
 # TheBlackMonolithWarrior3_96bb76e2 (line 46301)
 translate ru TheBlackMonolithWarrior3_96bb76e2:
@@ -81,12 +81,12 @@ translate ru TheBlackMonolithWarrior3_96bb76e2:
 # TheBlackMonolithWarrior3_d28df8dd (line 46302)
 translate ru TheBlackMonolithWarrior3_d28df8dd:
     # s "My back is all fucked up."
-    s ""
+    s "My back is all fucked up."
 
 # TheBlackMonolithWarrior3_f64bf0a6 (line 46303)
 translate ru TheBlackMonolithWarrior3_f64bf0a6:
     # k "That good huh?"
-    k ""
+    k "That good huh?"
 
 # TheBlackMonolithWarrior3_932bd2e9 (line 46304)
 translate ru TheBlackMonolithWarrior3_932bd2e9:
@@ -96,7 +96,7 @@ translate ru TheBlackMonolithWarrior3_932bd2e9:
 # TheBlackMonolithWarrior3_c6b1f0ea (line 46305)
 translate ru TheBlackMonolithWarrior3_c6b1f0ea:
     # s "Very funny."
-    s ""
+    s "Very funny."
 
 # TheBlackMonolithWarrior3_37d258da (line 46307)
 translate ru TheBlackMonolithWarrior3_37d258da:
@@ -106,12 +106,12 @@ translate ru TheBlackMonolithWarrior3_37d258da:
 # TheBlackMonolithWarrior3_6a029b3f (line 46308)
 translate ru TheBlackMonolithWarrior3_6a029b3f:
     # k "You're getting to old for stuff like that, Sarah."
-    k ""
+    k "You're getting to old for stuff like that, Sarah."
 
 # TheBlackMonolithWarrior3_d4dcdf9a (line 46309)
 translate ru TheBlackMonolithWarrior3_d4dcdf9a:
     # s "Old? I'm not even thirty."
-    s ""
+    s "Old? I'm not even thirty."
 
 # TheBlackMonolithWarrior3_ac56dc89 (line 46310)
 translate ru TheBlackMonolithWarrior3_ac56dc89:
@@ -121,12 +121,12 @@ translate ru TheBlackMonolithWarrior3_ac56dc89:
 # TheBlackMonolithWarrior3_7a6e0d4c (line 46311)
 translate ru TheBlackMonolithWarrior3_7a6e0d4c:
     # k "Well, you gotta count those princess days as double. Easy living weakens the bones."
-    k ""
+    k "Well, you gotta count those princess days as double. Easy living weakens the bones."
 
 # TheBlackMonolithWarrior3_e49eb7da (line 46312)
 translate ru TheBlackMonolithWarrior3_e49eb7da:
     # s "I don't think it works that way."
-    s ""
+    s "I don't think it works that way."
 
 # TheBlackMonolithWarrior3_2af39649 (line 46313)
 translate ru TheBlackMonolithWarrior3_2af39649:
@@ -136,17 +136,17 @@ translate ru TheBlackMonolithWarrior3_2af39649:
 # TheBlackMonolithWarrior3_b100fc03 (line 46314)
 translate ru TheBlackMonolithWarrior3_b100fc03:
     # s "Anyway, shouldn't you be...I don't really know what you should be doing."
-    s ""
+    s "Anyway, shouldn't you be...I don't really know what you should be doing."
 
 # TheBlackMonolithWarrior3_dd3783ec (line 46315)
 translate ru TheBlackMonolithWarrior3_dd3783ec:
     # k "Guarding the south gate? Yeah, they needed twenty hands so I send half my unit there, but there really isn't much more to do than that."
-    k ""
+    k "Guarding the south gate? Yeah, they needed twenty hands so I send half my unit there, but there really isn't much more to do than that."
 
 # TheBlackMonolithWarrior3_b8051ffa (line 46316)
 translate ru TheBlackMonolithWarrior3_b8051ffa:
     # k "If you're asking me, I don't even really know why the Mythrans need us here."
-    k ""
+    k "If you're asking me, I don't even really know why the Mythrans need us here."
 
 # TheBlackMonolithWarrior3_42c0acf0 (line 46317)
 translate ru TheBlackMonolithWarrior3_42c0acf0:
@@ -161,17 +161,17 @@ translate ru TheBlackMonolithWarrior3_f4eadbf4:
 # TheBlackMonolithWarrior3_df44b04d (line 46319)
 translate ru TheBlackMonolithWarrior3_df44b04d:
     # s "So, I guess if you don't have anything else to do, you're free to help me out."
-    s ""
+    s "So, I guess if you don't have anything else to do, you're free to help me out."
 
 # TheBlackMonolithWarrior3_06539398 (line 46320)
 translate ru TheBlackMonolithWarrior3_06539398:
     # k "What do you need a hand with?"
-    k ""
+    k "What do you need a hand with?"
 
 # TheBlackMonolithWarrior3_480539e4 (line 46321)
 translate ru TheBlackMonolithWarrior3_480539e4:
     # s "Well it's been a while since I've drawn my sword, and it's getting rusty."
-    s ""
+    s "Well it's been a while since I've drawn my sword, and it's getting rusty."
 
 # TheBlackMonolithWarrior3_b78a1c46 (line 46322)
 translate ru TheBlackMonolithWarrior3_b78a1c46:
@@ -181,7 +181,7 @@ translate ru TheBlackMonolithWarrior3_b78a1c46:
 # TheBlackMonolithWarrior3_21ba514c (line 46323)
 translate ru TheBlackMonolithWarrior3_21ba514c:
     # k "You wanna spar? Fuck me, it's been a while. What was the score again, twenty-three against nineteen, my way?"
-    k ""
+    k "You wanna spar? Fuck me, it's been a while. What was the score again, twenty-three against nineteen, my way?"
 
 # TheBlackMonolithWarrior3_732ca32a (line 46324)
 translate ru TheBlackMonolithWarrior3_732ca32a:
@@ -191,7 +191,7 @@ translate ru TheBlackMonolithWarrior3_732ca32a:
 # TheBlackMonolithWarrior3_861190b7 (line 46325)
 translate ru TheBlackMonolithWarrior3_861190b7:
     # s "That's not how I recall it. Wasn't it the other way around?"
-    s ""
+    s "That's not how I recall it. Wasn't it the other way around?"
 
 # TheBlackMonolithWarrior3_5378c144 (line 46326)
 translate ru TheBlackMonolithWarrior3_5378c144:
@@ -201,7 +201,7 @@ translate ru TheBlackMonolithWarrior3_5378c144:
 # TheBlackMonolithWarrior3_dd368ebe (line 46327)
 translate ru TheBlackMonolithWarrior3_dd368ebe:
     # k "Well, tell you what. I'm gonna beat you so hard you're gonna be begging me to stop keepin score."
-    k ""
+    k "Well, tell you what. I'm gonna beat you so hard you're gonna be begging me to stop keepin score."
 
 # TheBlackMonolithWarrior3_9eac76b2 (line 46328)
 translate ru TheBlackMonolithWarrior3_9eac76b2:
@@ -216,7 +216,7 @@ translate ru TheBlackMonolithWarrior3_bbae0650:
 # TheBlackMonolithWarrior3_73e0f4d9 (line 46330)
 translate ru TheBlackMonolithWarrior3_73e0f4d9:
     # k "Training swords? Really?"
-    k ""
+    k "Training swords? Really?"
 
 # TheBlackMonolithWarrior3_822a977b (line 46331)
 translate ru TheBlackMonolithWarrior3_822a977b:
@@ -231,7 +231,7 @@ translate ru TheBlackMonolithWarrior3_add1aaa9:
 # TheBlackMonolithWarrior3_2275f870 (line 46333)
 translate ru TheBlackMonolithWarrior3_2275f870:
     # s "Of course training swords. I don't wanna put you into the medic tent."
-    s ""
+    s "Of course training swords. I don't wanna put you into the medic tent."
 
 # TheBlackMonolithWarrior3_08f4f91c (line 46334)
 translate ru TheBlackMonolithWarrior3_08f4f91c:
@@ -241,12 +241,12 @@ translate ru TheBlackMonolithWarrior3_08f4f91c:
 # TheBlackMonolithWarrior3_8a4e0661 (line 46335)
 translate ru TheBlackMonolithWarrior3_8a4e0661:
     # k "Promise me, if I have to go to what we call a medic tent, just do me a favor and put me out of my misery."
-    k ""
+    k "Promise me, if I have to go to what we call a medic tent, just do me a favor and put me out of my misery."
 
 # TheBlackMonolithWarrior3_2cc071fd (line 46336)
 translate ru TheBlackMonolithWarrior3_2cc071fd:
     # k "Our camp doctor is like ninty years old and blind as a bat."
-    k ""
+    k "Our camp doctor is like ninty years old and blind as a bat."
 
 # TheBlackMonolithWarrior3_27f6684e (line 46337)
 translate ru TheBlackMonolithWarrior3_27f6684e:
@@ -256,7 +256,7 @@ translate ru TheBlackMonolithWarrior3_27f6684e:
 # TheBlackMonolithWarrior3_d59f4dde (line 46338)
 translate ru TheBlackMonolithWarrior3_d59f4dde:
     # s "Send him my regards when I drop you off there."
-    s ""
+    s "Send him my regards when I drop you off there."
 
 # TheBlackMonolithWarrior3_992fb3c9 (line 46339)
 translate ru TheBlackMonolithWarrior3_992fb3c9:
@@ -331,7 +331,7 @@ translate ru TheBlackMonolithWarrior3_2ba8d8aa:
 # TheBlackMonolithWarrior3_e207255c (line 46359)
 translate ru TheBlackMonolithWarrior3_e207255c:
     # s "You alright?"
-    s ""
+    s "You alright?"
 
 # TheBlackMonolithWarrior3_809b41f4 (line 46360)
 translate ru TheBlackMonolithWarrior3_809b41f4:
@@ -341,7 +341,7 @@ translate ru TheBlackMonolithWarrior3_809b41f4:
 # TheBlackMonolithWarrior3_4597909a (line 46361)
 translate ru TheBlackMonolithWarrior3_4597909a:
     # k "Lucky shot is all. I'm just holding back cause I don't wanna fuck up your pretty face."
-    k ""
+    k "Lucky shot is all. I'm just holding back cause I don't wanna fuck up your pretty face."
 
 # TheBlackMonolithWarrior3_cff4c7cc (line 46362)
 translate ru TheBlackMonolithWarrior3_cff4c7cc:
@@ -351,12 +351,12 @@ translate ru TheBlackMonolithWarrior3_cff4c7cc:
 # TheBlackMonolithWarrior3_f9028ec7 (line 46363)
 translate ru TheBlackMonolithWarrior3_f9028ec7:
     # s "Well, that's why I don't have to hold back from your face."
-    s ""
+    s "Well, that's why I don't have to hold back from your face."
 
 # TheBlackMonolithWarrior3_a1e3710f (line 46364)
 translate ru TheBlackMonolithWarrior3_a1e3710f:
     # k "Funny."
-    k ""
+    k "Funny."
 
 # TheBlackMonolithWarrior3_3666bd96 (line 46365)
 translate ru TheBlackMonolithWarrior3_3666bd96:
@@ -438,16 +438,6 @@ translate ru TheBlackMonolithWarrior3_4d982b43:
     # "Kate was not going to let up, she was keeping the pressure on her."
     ""
 
-# TheBlackMonolithWarrior3_5fbb1e93 (line 46383)
-translate ru TheBlackMonolithWarrior3_5fbb1e93:
-    # "Meet Kate head-on"
-    "Meet Kate head-on" ""
-
-# TheBlackMonolithWarrior3_0f8d3151 (line 46425)
-translate ru TheBlackMonolithWarrior3_0f8d3151:
-    # "Try to outmanoeuvre her"
-    "Try to outmanoeuvre her" ""
-
 # TheBlackMonolithWarrior3_935c3df7 (line 46459)
 translate ru TheBlackMonolithWarrior3_935c3df7:
     # "The sound of clapping hands rang out across the sparring field."
@@ -466,7 +456,7 @@ translate ru TheBlackMonolithWarrior3_82a15f84:
 # TheBlackMonolithWarrior3_6c572943 (line 46471)
 translate ru TheBlackMonolithWarrior3_6c572943:
     # cas "A very admirable showing."
-    cas ""
+    cas "A very admirable showing."
 
 # TheBlackMonolithWarrior3_b7077299 (line 46472)
 translate ru TheBlackMonolithWarrior3_b7077299:
@@ -476,7 +466,7 @@ translate ru TheBlackMonolithWarrior3_b7077299:
 # TheBlackMonolithWarrior3_899fd809 (line 46477)
 translate ru TheBlackMonolithWarrior3_899fd809:
     # k "And who the fuck are you?"
-    k ""
+    k "And who the fuck are you?"
 
 # TheBlackMonolithWarrior3_03eecb65 (line 46478)
 translate ru TheBlackMonolithWarrior3_03eecb65:
@@ -486,7 +476,7 @@ translate ru TheBlackMonolithWarrior3_03eecb65:
 # TheBlackMonolithWarrior3_72d701c3 (line 46479)
 translate ru TheBlackMonolithWarrior3_72d701c3:
     # s "His name is Cassius. A slave."
-    s ""
+    s "His name is Cassius. A slave."
 
 # TheBlackMonolithWarrior3_1e806a5a (line 46480)
 translate ru TheBlackMonolithWarrior3_1e806a5a:
@@ -496,7 +486,7 @@ translate ru TheBlackMonolithWarrior3_1e806a5a:
 # TheBlackMonolithWarrior3_3acb3864 (line 46481)
 translate ru TheBlackMonolithWarrior3_3acb3864:
     # k "I ain't no fucking Mythran, and I'll be damned if I adress anyone as a slave."
-    k ""
+    k "I ain't no fucking Mythran, and I'll be damned if I adress anyone as a slave."
 
 # TheBlackMonolithWarrior3_69a9ea45 (line 46482)
 translate ru TheBlackMonolithWarrior3_69a9ea45:
@@ -511,12 +501,12 @@ translate ru TheBlackMonolithWarrior3_597fc366:
 # TheBlackMonolithWarrior3_08a1b563 (line 46484)
 translate ru TheBlackMonolithWarrior3_08a1b563:
     # cas "A rock is a rock. A river a river. And a slave a slave."
-    cas ""
+    cas "A rock is a rock. A river a river. And a slave a slave."
 
 # TheBlackMonolithWarrior3_70f67bf6 (line 46485)
 translate ru TheBlackMonolithWarrior3_70f67bf6:
     # cas "To spend time worrying about one's own nature, what a waste."
-    cas ""
+    cas "To spend time worrying about one's own nature, what a waste."
 
 # TheBlackMonolithWarrior3_67a61e5c (line 46486)
 translate ru TheBlackMonolithWarrior3_67a61e5c:
@@ -526,12 +516,12 @@ translate ru TheBlackMonolithWarrior3_67a61e5c:
 # TheBlackMonolithWarrior3_57a37d1a (line 46487)
 translate ru TheBlackMonolithWarrior3_57a37d1a:
     # k "Whatever, I still ain't callin you a slave. What else are you?"
-    k ""
+    k "Whatever, I still ain't callin you a slave. What else are you?"
 
 # TheBlackMonolithWarrior3_ab7ac325 (line 46488)
 translate ru TheBlackMonolithWarrior3_ab7ac325:
     # cas "Cassius. First among equals. War-Brother to Dio."
-    cas ""
+    cas "Cassius. First among equals. War-Brother to Dio."
 
 # TheBlackMonolithWarrior3_a077af74 (line 46489)
 translate ru TheBlackMonolithWarrior3_a077af74:
@@ -541,7 +531,7 @@ translate ru TheBlackMonolithWarrior3_a077af74:
 # TheBlackMonolithWarrior3_cbebb3f4 (line 46490)
 translate ru TheBlackMonolithWarrior3_cbebb3f4:
     # k "Yeah, whatever. Is that like a fancy way of saying soldier in Mythran?"
-    k ""
+    k "Yeah, whatever. Is that like a fancy way of saying soldier in Mythran?"
 
 # TheBlackMonolithWarrior3_db7f64ac (line 46491)
 translate ru TheBlackMonolithWarrior3_db7f64ac:
@@ -551,12 +541,12 @@ translate ru TheBlackMonolithWarrior3_db7f64ac:
 # TheBlackMonolithWarrior3_c21beffa (line 46492)
 translate ru TheBlackMonolithWarrior3_c21beffa:
     # cas "I suppose that's close enough."
-    cas ""
+    cas "I suppose that's close enough."
 
 # TheBlackMonolithWarrior3_0585c533 (line 46493)
 translate ru TheBlackMonolithWarrior3_0585c533:
     # k "And you had something to say about that show back there?"
-    k ""
+    k "And you had something to say about that show back there?"
 
 # TheBlackMonolithWarrior3_7c18995c (line 46494)
 translate ru TheBlackMonolithWarrior3_7c18995c:
@@ -566,7 +556,7 @@ translate ru TheBlackMonolithWarrior3_7c18995c:
 # TheBlackMonolithWarrior3_4b4c59f6 (line 46519)
 translate ru TheBlackMonolithWarrior3_4b4c59f6:
     # k "What are you doing here, anyway?"
-    k ""
+    k "What are you doing here, anyway?"
 
 # TheBlackMonolithWarrior3_a73fd186 (line 46520)
 translate ru TheBlackMonolithWarrior3_a73fd186:
@@ -576,7 +566,7 @@ translate ru TheBlackMonolithWarrior3_a73fd186:
 # TheBlackMonolithWarrior3_aa23bbc6 (line 46521)
 translate ru TheBlackMonolithWarrior3_aa23bbc6:
     # cas "I've come to extend an invitation to Sarah. And friends, of course."
-    cas ""
+    cas "I've come to extend an invitation to Sarah. And friends, of course."
 
 # TheBlackMonolithWarrior3_b1712b98 (line 46522)
 translate ru TheBlackMonolithWarrior3_b1712b98:
@@ -586,7 +576,7 @@ translate ru TheBlackMonolithWarrior3_b1712b98:
 # TheBlackMonolithWarrior3_83bda423 (line 46523)
 translate ru TheBlackMonolithWarrior3_83bda423:
     # s "An invitation?"
-    s ""
+    s "An invitation?"
 
 # TheBlackMonolithWarrior3_8fe49f72 (line 46524)
 translate ru TheBlackMonolithWarrior3_8fe49f72:
@@ -596,17 +586,17 @@ translate ru TheBlackMonolithWarrior3_8fe49f72:
 # TheBlackMonolithWarrior3_a96483b0 (line 46525)
 translate ru TheBlackMonolithWarrior3_a96483b0:
     # cas "I told my War-Sister, Dio about meeting you, and she insisted that I invite you to break bread with us tonight."
-    cas ""
+    cas "I told my War-Sister, Dio about meeting you, and she insisted that I invite you to break bread with us tonight."
 
 # TheBlackMonolithWarrior3_23663141 (line 46526)
 translate ru TheBlackMonolithWarrior3_23663141:
     # cas "It will be in the slave quarter, so I fear the usual luxuries might be absent."
-    cas ""
+    cas "It will be in the slave quarter, so I fear the usual luxuries might be absent."
 
 # TheBlackMonolithWarrior3_c365e86f (line 46527)
 translate ru TheBlackMonolithWarrior3_c365e86f:
     # cas "But I promise you will be well entertained."
-    cas ""
+    cas "But I promise you will be well entertained."
 
 # TheBlackMonolithWarrior3_400d1769 (line 46528)
 translate ru TheBlackMonolithWarrior3_400d1769:
@@ -616,22 +606,12 @@ translate ru TheBlackMonolithWarrior3_400d1769:
 # TheBlackMonolithWarrior3_37362c37 (line 46529)
 translate ru TheBlackMonolithWarrior3_37362c37:
     # cas "And your friend is more than welcome, or any other friends you might have."
-    cas ""
-
-# TheBlackMonolithWarrior3_a252c8a2 (line 46532)
-translate ru TheBlackMonolithWarrior3_a252c8a2:
-    # "Accept Cassius' invitation"
-    "Accept Cassius' invitation" ""
-
-# TheBlackMonolithWarrior3_701b04de (line 46542)
-translate ru TheBlackMonolithWarrior3_701b04de:
-    # "Reject his invitation"
-    "Reject his invitation" ""
+    cas "And your friend is more than welcome, or any other friends you might have."
 
 # TheBlackMonolithWarrior3_cc5fac22 (line 46552)
 translate ru TheBlackMonolithWarrior3_cc5fac22:
     # cas "Well, I feel that I have taken up enough of your time."
-    cas ""
+    cas "Well, I feel that I have taken up enough of your time."
 
 # TheBlackMonolithWarrior3_3ded6faf (line 46553)
 translate ru TheBlackMonolithWarrior3_3ded6faf:
@@ -651,7 +631,7 @@ translate ru TheBlackMonolithWarrior3_98116958:
 # TheBlackMonolithWarrior3_8f259afb (line 46570)
 translate ru TheBlackMonolithWarrior3_8f259afb:
     # k "Speaking of rancid, I smell like shit."
-    k ""
+    k "Speaking of rancid, I smell like shit."
 
 # TheBlackMonolithWarrior3_b3d11be9 (line 46571)
 translate ru TheBlackMonolithWarrior3_b3d11be9:
@@ -661,7 +641,7 @@ translate ru TheBlackMonolithWarrior3_b3d11be9:
 # TheBlackMonolithWarrior3_a9a4d09a (line 46572)
 translate ru TheBlackMonolithWarrior3_a9a4d09a:
     # s "You always have a way with words."
-    s ""
+    s "You always have a way with words."
 
 # TheBlackMonolithWarrior3_b17aacfe (line 46573)
 translate ru TheBlackMonolithWarrior3_b17aacfe:
@@ -671,17 +651,17 @@ translate ru TheBlackMonolithWarrior3_b17aacfe:
 # TheBlackMonolithWarrior3_f51d3c6d (line 46574)
 translate ru TheBlackMonolithWarrior3_f51d3c6d:
     # k "Ugh, you're not smellin too great yourself."
-    k ""
+    k "Ugh, you're not smellin too great yourself."
 
 # TheBlackMonolithWarrior3_e085a761 (line 46575)
 translate ru TheBlackMonolithWarrior3_e085a761:
     # s "Hey!"
-    s ""
+    s "Hey!"
 
 # TheBlackMonolithWarrior3_4dd6b258 (line 46576)
 translate ru TheBlackMonolithWarrior3_4dd6b258:
     # k "When is the last time you've taken a shower?"
-    k ""
+    k "When is the last time you've taken a shower?"
 
 # TheBlackMonolithWarrior3_384e8edd (line 46577)
 translate ru TheBlackMonolithWarrior3_384e8edd:
@@ -696,20 +676,10 @@ translate ru TheBlackMonolithWarrior3_1913a29e:
 # TheBlackMonolithWarrior3_5f3db3ca (line 46579)
 translate ru TheBlackMonolithWarrior3_5f3db3ca:
     # s "It's been a while, I'll grant you that."
-    s ""
+    s "It's been a while, I'll grant you that."
 
 # TheBlackMonolithWarrior3_d14b416a (line 46580)
 translate ru TheBlackMonolithWarrior3_d14b416a:
     # k "Come on, let's go shower."
-    k ""
-
-# TheBlackMonolithWarrior3_e16bc004 (line 46583)
-translate ru TheBlackMonolithWarrior3_e16bc004:
-    # "Shower with Kate"
-    "Shower with Kate" ""
-
-# TheBlackMonolithWarrior3_cf6347c3 (line 46681)
-translate ru TheBlackMonolithWarrior3_cf6347c3:
-    # "Shower later"
-    "Shower later" ""
+    k "Come on, let's go shower."
 

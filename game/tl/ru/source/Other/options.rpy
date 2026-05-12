@@ -6,5 +6,5 @@
 # ui_a6326f2e (line 15)
 translate ru ui_a6326f2e:
     # "The Survival of Sarah Rose"
-    "Выживание Сары Роуз"
+    ""
 

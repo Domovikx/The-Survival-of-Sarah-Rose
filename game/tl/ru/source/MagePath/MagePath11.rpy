@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: MagePath11
-# Total blocks: 137
+# Total blocks: 135
 
 # MagePath11_2e8a2c56 (line 72599)
 translate ru MagePath11_2e8a2c56:
@@ -101,17 +101,17 @@ translate ru MagePath11_b1e75938:
 # MagePath11_a54dd874 (line 72632)
 translate ru MagePath11_a54dd874:
     # x "Greetings, great prince of Mythran. My name is Xanthippe. I am here on behalf of my order, and I have vowed to safeguard the Bagrad royal family."
-    x ""
+    x "Greetings, great prince of Mythran. My name is Xanthippe. I am here on behalf of my order, and I have vowed to safeguard the Bagrad royal family."
 
 # MagePath11_1a8f69ae (line 72633)
 translate ru MagePath11_1a8f69ae:
     # x "I would wish to speak with you about a peaceful surrender, one that acknowledges your great victory here, but one that also sees that the royal family will come to no harm."
-    x ""
+    x "I would wish to speak with you about a peaceful surrender, one that acknowledges your great victory here, but one that also sees that the royal family will come to no harm."
 
 # MagePath11_b466b48c (line 72634)
 translate ru MagePath11_b466b48c:
     # x "The reputation of your people tells me you are a civilized folk, one that has no love for brutality, so I urge you, allow the royal family dignity in their defeat."
-    x ""
+    x "The reputation of your people tells me you are a civilized folk, one that has no love for brutality, so I urge you, allow the royal family dignity in their defeat."
 
 # MagePath11_d54569d0 (line 72635)
 translate ru MagePath11_d54569d0:
@@ -131,7 +131,7 @@ translate ru MagePath11_f99e913b:
 # MagePath11_32c2af82 (line 72638)
 translate ru MagePath11_32c2af82:
     # x "The royal family of Bagrad has been true friends to our order for centuries, and so we wish to facilitate a graceful surrender."
-    x ""
+    x "The royal family of Bagrad has been true friends to our order for centuries, and so we wish to facilitate a graceful surrender."
 
 # MagePath11_1702f0bd (line 72639)
 translate ru MagePath11_1702f0bd:
@@ -166,7 +166,7 @@ translate ru MagePath11_4abd6223:
 # MagePath11_65583dbf (line 72645)
 translate ru MagePath11_65583dbf:
     # x "I warn you, if you try to do so, you leave me no choice but to intercede."
-    x ""
+    x "I warn you, if you try to do so, you leave me no choice but to intercede."
 
 # MagePath11_d486efb1 (line 72646)
 translate ru MagePath11_d486efb1:
@@ -226,32 +226,32 @@ translate ru MagePath11_2d35486c:
 # MagePath11_4e271563 (line 72657)
 translate ru MagePath11_4e271563:
     # x "Let's go."
-    x ""
+    x "Let's go."
 
 # MagePath11_8f1b937d (line 72658)
 translate ru MagePath11_8f1b937d:
     # s "What?!"
-    s ""
+    s "What?!"
 
 # MagePath11_4e87d03e (line 72659)
 translate ru MagePath11_4e87d03e:
     # x "We need to leave, while we still can..."
-    x ""
+    x "We need to leave, while we still can..."
 
 # MagePath11_0873bea4 (line 72660)
 translate ru MagePath11_0873bea4:
     # s "Xan...you can't do that...we promised them..."
-    s ""
+    s "Xan...you can't do that...we promised them..."
 
 # MagePath11_4c74f166 (line 72661)
 translate ru MagePath11_4c74f166:
     # x "And they'll be dead soon. What does it matter if we keep a promise to a dead man?"
-    x ""
+    x "And they'll be dead soon. What does it matter if we keep a promise to a dead man?"
 
 # MagePath11_20878bce (line 72662)
 translate ru MagePath11_20878bce:
     # s "They don't deserve this...she doesn't deserve this..."
-    s ""
+    s "They don't deserve this...she doesn't deserve this..."
 
 # MagePath11_10d7f99f (line 72663)
 translate ru MagePath11_10d7f99f:
@@ -261,12 +261,12 @@ translate ru MagePath11_10d7f99f:
 # MagePath11_20865384 (line 72664)
 translate ru MagePath11_20865384:
     # x "So what do you want me to do? He's right, if we fight them, we'll die. What good will that do?"
-    x ""
+    x "So what do you want me to do? He's right, if we fight them, we'll die. What good will that do?"
 
 # MagePath11_bfc34eb1 (line 72665)
 translate ru MagePath11_bfc34eb1:
     # x "Admit it. We lost, it happens sometimes. We stil have what we came here for, as for the royal family...whatever happens, happens."
-    x ""
+    x "Admit it. We lost, it happens sometimes. We stil have what we came here for, as for the royal family...whatever happens, happens."
 
 # MagePath11_ffcbf7c6 (line 72666)
 translate ru MagePath11_ffcbf7c6:
@@ -296,7 +296,7 @@ translate ru MagePath11_cf842504:
 # MagePath11_02ada335 (line 72671)
 translate ru MagePath11_02ada335:
     # x "Sarah! Come, immediately."
-    x ""
+    x "Sarah! Come, immediately."
 
 # MagePath11_c0d6d0a9 (line 72672)
 translate ru MagePath11_c0d6d0a9:
@@ -306,7 +306,7 @@ translate ru MagePath11_c0d6d0a9:
 # MagePath11_901ff35e (line 72673)
 translate ru MagePath11_901ff35e:
     # shah "As I suspected."
-    shah ""
+    shah "As I suspected."
 
 # MagePath11_d524d824 (line 72674)
 translate ru MagePath11_d524d824:
@@ -326,7 +326,7 @@ translate ru MagePath11_abd973bd:
 # MagePath11_c7f92b99 (line 72677)
 translate ru MagePath11_c7f92b99:
     # shah "You offered your word to me mage, and now we see what it is worth. Now everyone can see."
-    shah ""
+    shah "You offered your word to me mage, and now we see what it is worth. Now everyone can see."
 
 # MagePath11_e6e309aa (line 72678)
 translate ru MagePath11_e6e309aa:
@@ -336,12 +336,12 @@ translate ru MagePath11_e6e309aa:
 # MagePath11_7c7a025a (line 72679)
 translate ru MagePath11_7c7a025a:
     # x "We did all we could for you, Shah Mahda, but these events are now out of our control."
-    x ""
+    x "We did all we could for you, Shah Mahda, but these events are now out of our control."
 
 # MagePath11_848b0a96 (line 72680)
 translate ru MagePath11_848b0a96:
     # x "You have our sympathies."
-    x ""
+    x "You have our sympathies."
 
 # MagePath11_45a6ac35 (line 72681)
 translate ru MagePath11_45a6ac35:
@@ -351,12 +351,12 @@ translate ru MagePath11_45a6ac35:
 # MagePath11_3e91459c (line 72682)
 translate ru MagePath11_3e91459c:
     # shah "Your sympathies..."
-    shah ""
+    shah "Your sympathies..."
 
 # MagePath11_b0014404 (line 72683)
 translate ru MagePath11_b0014404:
     # shah "That seems to be about all I ever purchased from you, despite everything."
-    shah ""
+    shah "That seems to be about all I ever purchased from you, despite everything."
 
 # MagePath11_d88a49a6 (line 72684)
 translate ru MagePath11_d88a49a6:
@@ -366,7 +366,7 @@ translate ru MagePath11_d88a49a6:
 # MagePath11_d1c684c7 (line 72685)
 translate ru MagePath11_d1c684c7:
     # x "Sarah, we need to leave, now!"
-    x ""
+    x "Sarah, we need to leave, now!"
 
 # MagePath11_2d1070b4 (line 72686)
 translate ru MagePath11_2d1070b4:
@@ -416,12 +416,12 @@ translate ru MagePath11_1f98b6ab:
 # MagePath11_cf303fa0 (line 72695)
 translate ru MagePath11_cf303fa0:
     # shah "I suppose it was my mistake, believing that I could ally myself with a mage."
-    shah ""
+    shah "I suppose it was my mistake, believing that I could ally myself with a mage."
 
 # MagePath11_80397288 (line 72696)
 translate ru MagePath11_80397288:
     # x "Sarah! Let's go!"
-    x ""
+    x "Sarah! Let's go!"
 
 # MagePath11_cd931648 (line 72697)
 translate ru MagePath11_cd931648:
@@ -431,7 +431,7 @@ translate ru MagePath11_cd931648:
 # MagePath11_45f769cf (line 72698)
 translate ru MagePath11_45f769cf:
     # shah "But you see, my dynasty hails back centuries, and we have more allies than your decrepit order."
-    shah ""
+    shah "But you see, my dynasty hails back centuries, and we have more allies than your decrepit order."
 
 # MagePath11_2dc27ea3 (line 72699)
 translate ru MagePath11_2dc27ea3:
@@ -521,7 +521,7 @@ translate ru MagePath11_27ee4836:
 # MagePath11_74623ec5 (line 72731)
 translate ru MagePath11_74623ec5:
     # x "We leave, now!"
-    x ""
+    x "We leave, now!"
 
 # MagePath11_bf12bd3e (line 72732)
 translate ru MagePath11_bf12bd3e:
@@ -626,7 +626,7 @@ translate ru MagePath11_d928b074:
 # MagePath11_0a7cfccf (line 72753)
 translate ru MagePath11_0a7cfccf:
     # x "Ok, this will get us out, we need to get to the warp point that takes us back to the house, alright?"
-    x ""
+    x "Ok, this will get us out, we need to get to the warp point that takes us back to the house, alright?"
 
 # MagePath11_0d42d2b3 (line 72754)
 translate ru MagePath11_0d42d2b3:
@@ -636,12 +636,12 @@ translate ru MagePath11_0d42d2b3:
 # MagePath11_a57ad6d4 (line 72755)
 translate ru MagePath11_a57ad6d4:
     # x "Listen to me Sarah, we need to keep moving, we can't afford a single mistake right now."
-    x ""
+    x "Listen to me Sarah, we need to keep moving, we can't afford a single mistake right now."
 
 # MagePath11_f4965dc6 (line 72756)
 translate ru MagePath11_f4965dc6:
     # x "Back to the house, alright?"
-    x ""
+    x "Back to the house, alright?"
 
 # MagePath11_b5222baa (line 72757)
 translate ru MagePath11_b5222baa:
@@ -656,7 +656,7 @@ translate ru MagePath11_0827b407:
 # MagePath11_79138690 (line 72759)
 translate ru MagePath11_79138690:
     # s "Ok, I understand."
-    s ""
+    s "Ok, I understand."
 
 # MagePath11_f765fb72 (line 72760)
 translate ru MagePath11_f765fb72:
@@ -677,14 +677,4 @@ translate ru MagePath11_46b6f5cf:
 translate ru MagePath11_8002814f:
     # "Among the chaos, everyone, even her father, had forgotten about her."
     ""
-
-# MagePath11_0bf473e1 (line 72766)
-translate ru MagePath11_0bf473e1:
-    # "Save Samayra."
-    "Save Samayra." ""
-
-# MagePath11_0dc227f0 (line 72896)
-translate ru MagePath11_0dc227f0:
-    # "Leave her behind."
-    "Leave her behind." ""
 

@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TheMorningAfterKate
-# Total blocks: 156
+# Total blocks: 150
 
 # TheMorningAfterKate_fbe07d74 (line 1727)
 translate ru TheMorningAfterKate_fbe07d74:
@@ -36,7 +36,7 @@ translate ru TheMorningAfterKate_a1556ac5:
 # TheMorningAfterKate_f8060201 (line 1738)
 translate ru TheMorningAfterKate_f8060201:
     # s "Ready for the meeting?"
-    s ""
+    s "Ready for the meeting?"
 
 # TheMorningAfterKate_00097ea2 (line 1739)
 translate ru TheMorningAfterKate_00097ea2:
@@ -46,7 +46,7 @@ translate ru TheMorningAfterKate_00097ea2:
 # TheMorningAfterKate_84e23ab8 (line 1740)
 translate ru TheMorningAfterKate_84e23ab8:
     # t "Ooh, I didn't hear you come in."
-    t ""
+    t "Ooh, I didn't hear you come in."
 
 # TheMorningAfterKate_10a454a9 (line 1741)
 translate ru TheMorningAfterKate_10a454a9:
@@ -66,7 +66,7 @@ translate ru TheMorningAfterKate_5127fbb8:
 # TheMorningAfterKate_d9c7885c (line 1744)
 translate ru TheMorningAfterKate_d9c7885c:
     # s "Thomas, did you manage to get any sleep last night?"
-    s ""
+    s "Thomas, did you manage to get any sleep last night?"
 
 # TheMorningAfterKate_a4ddfa5f (line 1745)
 translate ru TheMorningAfterKate_a4ddfa5f:
@@ -76,7 +76,7 @@ translate ru TheMorningAfterKate_a4ddfa5f:
 # TheMorningAfterKate_3260e295 (line 1746)
 translate ru TheMorningAfterKate_3260e295:
     # t "I just...I couldnt..."
-    t ""
+    t "I just...I couldnt..."
 
 # TheMorningAfterKate_44b2c765 (line 1747)
 translate ru TheMorningAfterKate_44b2c765:
@@ -86,12 +86,12 @@ translate ru TheMorningAfterKate_44b2c765:
 # TheMorningAfterKate_72b2f1a3 (line 1748)
 translate ru TheMorningAfterKate_72b2f1a3:
     # t "I lie in bed, and I just stare up at the ceiling. I walk around the castle at night. I sat out in the courtyard."
-    t ""
+    t "I lie in bed, and I just stare up at the ceiling. I walk around the castle at night. I sat out in the courtyard."
 
 # TheMorningAfterKate_79bc6af2 (line 1749)
 translate ru TheMorningAfterKate_79bc6af2:
     # t "But the sleep doesn't come to me. No matter what I do."
-    t ""
+    t "But the sleep doesn't come to me. No matter what I do."
 
 # TheMorningAfterKate_8a36029f (line 1750)
 translate ru TheMorningAfterKate_8a36029f:
@@ -101,7 +101,7 @@ translate ru TheMorningAfterKate_8a36029f:
 # TheMorningAfterKate_24f0b26f (line 1751)
 translate ru TheMorningAfterKate_24f0b26f:
     # t "I keep thinking about Dad. And when I'm not thinking about him, I think about all of this..."
-    t ""
+    t "I keep thinking about Dad. And when I'm not thinking about him, I think about all of this..."
 
 # TheMorningAfterKate_a0f01ad0 (line 1752)
 translate ru TheMorningAfterKate_a0f01ad0:
@@ -111,7 +111,7 @@ translate ru TheMorningAfterKate_a0f01ad0:
 # TheMorningAfterKate_36972fcc (line 1753)
 translate ru TheMorningAfterKate_36972fcc:
     # t "People come up to me. They keep asking me endless questions, expecting me to have the answer."
-    t ""
+    t "People come up to me. They keep asking me endless questions, expecting me to have the answer."
 
 # TheMorningAfterKate_24431f33 (line 1754)
 translate ru TheMorningAfterKate_24431f33:
@@ -121,12 +121,12 @@ translate ru TheMorningAfterKate_24431f33:
 # TheMorningAfterKate_0ea82b8d (line 1755)
 translate ru TheMorningAfterKate_0ea82b8d:
     # t "I don't have them Sarah. They're asking me for solutions to problems I didn't even know we had."
-    t ""
+    t "I don't have them Sarah. They're asking me for solutions to problems I didn't even know we had."
 
 # TheMorningAfterKate_53f85f78 (line 1756)
 translate ru TheMorningAfterKate_53f85f78:
     # t "And the advisors, they bring me stacks of reports. I can't even read half of them before they bring me more."
-    t ""
+    t "And the advisors, they bring me stacks of reports. I can't even read half of them before they bring me more."
 
 # TheMorningAfterKate_84a32985 (line 1757)
 translate ru TheMorningAfterKate_84a32985:
@@ -146,17 +146,17 @@ translate ru TheMorningAfterKate_b15fdfa8:
 # TheMorningAfterKate_f2c7a7e0 (line 1760)
 translate ru TheMorningAfterKate_f2c7a7e0:
     # s "Perhaps, Thomas, I can help you?"
-    s ""
+    s "Perhaps, Thomas, I can help you?"
 
 # TheMorningAfterKate_f4906db4 (line 1761)
 translate ru TheMorningAfterKate_f4906db4:
     # t "How?"
-    t ""
+    t "How?"
 
 # TheMorningAfterKate_4ec858f2 (line 1762)
 translate ru TheMorningAfterKate_4ec858f2:
     # s "We could divide some of the reports. You read half, and I read the other half. Then we can inform each other of what is important. Share the burden."
-    s ""
+    s "We could divide some of the reports. You read half, and I read the other half. Then we can inform each other of what is important. Share the burden."
 
 # TheMorningAfterKate_a76253b2 (line 1763)
 translate ru TheMorningAfterKate_a76253b2:
@@ -166,12 +166,12 @@ translate ru TheMorningAfterKate_a76253b2:
 # TheMorningAfterKate_ecc44b2e (line 1764)
 translate ru TheMorningAfterKate_ecc44b2e:
     # t "You're right. But...would you do that for me, Sarah? I mean, I will be king. This should be my burden."
-    t ""
+    t "You're right. But...would you do that for me, Sarah? I mean, I will be king. This should be my burden."
 
 # TheMorningAfterKate_e32e5d6c (line 1765)
 translate ru TheMorningAfterKate_e32e5d6c:
     # s "Thomas, when did I ever let you carry your burdens alone?"
-    s ""
+    s "Thomas, when did I ever let you carry your burdens alone?"
 
 # TheMorningAfterKate_f634787c (line 1766)
 translate ru TheMorningAfterKate_f634787c:
@@ -181,17 +181,17 @@ translate ru TheMorningAfterKate_f634787c:
 # TheMorningAfterKate_a9c9b5c1 (line 1767)
 translate ru TheMorningAfterKate_a9c9b5c1:
     # t "Never."
-    t ""
+    t "Never."
 
 # TheMorningAfterKate_1c4d9e9f (line 1768)
 translate ru TheMorningAfterKate_1c4d9e9f:
     # s "That's right. It's going to be just as before, when I would read father's books, and tell you the important parts. Working together, as a brother and sister should."
-    s ""
+    s "That's right. It's going to be just as before, when I would read father's books, and tell you the important parts. Working together, as a brother and sister should."
 
 # TheMorningAfterKate_e93a9218 (line 1769)
 translate ru TheMorningAfterKate_e93a9218:
     # t "I would like that. Thank you Sarah."
-    t ""
+    t "I would like that. Thank you Sarah."
 
 # TheMorningAfterKate_da723935 (line 1770)
 translate ru TheMorningAfterKate_da723935:
@@ -201,7 +201,7 @@ translate ru TheMorningAfterKate_da723935:
 # TheMorningAfterKate_0746eb1a (line 1771)
 translate ru TheMorningAfterKate_0746eb1a:
     # s "A good king needs good advisors, and do you know anyone smarter than me?"
-    s ""
+    s "A good king needs good advisors, and do you know anyone smarter than me?"
 
 # TheMorningAfterKate_a8af79e1 (line 1772)
 translate ru TheMorningAfterKate_a8af79e1:
@@ -216,7 +216,7 @@ translate ru TheMorningAfterKate_3f5572f4:
 # TheMorningAfterKate_b158601b (line 1774)
 translate ru TheMorningAfterKate_b158601b:
     # t "Thank you."
-    t ""
+    t "Thank you."
 
 # TheMorningAfterKate_f79ddb8b (line 1775)
 translate ru TheMorningAfterKate_f79ddb8b:
@@ -291,7 +291,7 @@ translate ru TheMorningAfterKate_5ea9a014:
 # TheMorningAfterKate_68afd50e (line 1799)
 translate ru TheMorningAfterKate_68afd50e:
     # t "Ouch! AAH, uhm, yes, thank you for attending this meeting."
-    t ""
+    t "Ouch! AAH, uhm, yes, thank you for attending this meeting."
 
 # TheMorningAfterKate_29251214 (line 1800)
 translate ru TheMorningAfterKate_29251214:
@@ -301,7 +301,7 @@ translate ru TheMorningAfterKate_29251214:
 # TheMorningAfterKate_da976aad (line 1801)
 translate ru TheMorningAfterKate_da976aad:
     # b "Of course, my liege."
-    b ""
+    b "Of course, my liege."
 
 # TheMorningAfterKate_0b83870f (line 1802)
 translate ru TheMorningAfterKate_0b83870f:
@@ -316,12 +316,12 @@ translate ru TheMorningAfterKate_8540b360:
 # TheMorningAfterKate_76a58724 (line 1804)
 translate ru TheMorningAfterKate_76a58724:
     # t "This is the first meeting of the council since my father's death."
-    t ""
+    t "This is the first meeting of the council since my father's death."
 
 # TheMorningAfterKate_7e7e9029 (line 1805)
 translate ru TheMorningAfterKate_7e7e9029:
     # t "There is a lot that needs to be done. I expect from each of you, the loyalty that you showed my father."
-    t ""
+    t "There is a lot that needs to be done. I expect from each of you, the loyalty that you showed my father."
 
 # TheMorningAfterKate_bc74f2e5 (line 1806)
 translate ru TheMorningAfterKate_bc74f2e5:
@@ -331,7 +331,7 @@ translate ru TheMorningAfterKate_bc74f2e5:
 # TheMorningAfterKate_89b31a66 (line 1807)
 translate ru TheMorningAfterKate_89b31a66:
     # c "Prince Thomas, let me assure you, it was my greatest pleasure to serve your father, and I pray that I may only be so fortunate as you honor him by serving you."
-    c ""
+    c "Prince Thomas, let me assure you, it was my greatest pleasure to serve your father, and I pray that I may only be so fortunate as you honor him by serving you."
 
 # TheMorningAfterKate_7e16e3a3 (line 1808)
 translate ru TheMorningAfterKate_7e16e3a3:
@@ -346,7 +346,7 @@ translate ru TheMorningAfterKate_ac79ad58:
 # TheMorningAfterKate_5689dc45 (line 1810)
 translate ru TheMorningAfterKate_5689dc45:
     # t "Good, I'm glad to hear that."
-    t ""
+    t "Good, I'm glad to hear that."
 
 # TheMorningAfterKate_fa82c641 (line 1811)
 translate ru TheMorningAfterKate_fa82c641:
@@ -356,7 +356,7 @@ translate ru TheMorningAfterKate_fa82c641:
 # TheMorningAfterKate_36d8ce96 (line 1817)
 translate ru TheMorningAfterKate_36d8ce96:
     # t "Now, Kravel, as the first item for this meeting, I want to know if you have any ideas on the murder of my father."
-    t ""
+    t "Now, Kravel, as the first item for this meeting, I want to know if you have any ideas on the murder of my father."
 
 # TheMorningAfterKate_efe2854e (line 1818)
 translate ru TheMorningAfterKate_efe2854e:
@@ -366,12 +366,12 @@ translate ru TheMorningAfterKate_efe2854e:
 # TheMorningAfterKate_584e4fce (line 1819)
 translate ru TheMorningAfterKate_584e4fce:
     # kr "So far, my liege, I fear that we do not know very much at all."
-    kr ""
+    kr "So far, my liege, I fear that we do not know very much at all."
 
 # TheMorningAfterKate_a4c1a406 (line 1820)
 translate ru TheMorningAfterKate_a4c1a406:
     # kr "It has not been the first time that there was a plot against your father, but the odd thing is, we always picked up rumors whenever there were plans for an assassination."
-    kr ""
+    kr "It has not been the first time that there was a plot against your father, but the odd thing is, we always picked up rumors whenever there were plans for an assassination."
 
 # TheMorningAfterKate_76d157eb (line 1821)
 translate ru TheMorningAfterKate_76d157eb:
@@ -381,12 +381,12 @@ translate ru TheMorningAfterKate_76d157eb:
 # TheMorningAfterKate_b15dab84 (line 1822)
 translate ru TheMorningAfterKate_b15dab84:
     # kr "This time, however, I must confess, I have heard not so much as a whisper."
-    kr ""
+    kr "This time, however, I must confess, I have heard not so much as a whisper."
 
 # TheMorningAfterKate_06745b60 (line 1823)
 translate ru TheMorningAfterKate_06745b60:
     # kr "Additionally, we would usually expect to see an assassination followed by some kind of follow up. A foreign enemy invading, plotters trying to seize the capital."
-    kr ""
+    kr "Additionally, we would usually expect to see an assassination followed by some kind of follow up. A foreign enemy invading, plotters trying to seize the capital."
 
 # TheMorningAfterKate_8c3f3835 (line 1824)
 translate ru TheMorningAfterKate_8c3f3835:
@@ -396,12 +396,12 @@ translate ru TheMorningAfterKate_8c3f3835:
 # TheMorningAfterKate_7378f2bd (line 1825)
 translate ru TheMorningAfterKate_7378f2bd:
     # kr "And yet, we see nothing. No force inside or outside the kingdom has sought to seize on this moment. Our alliances remain strong. Only kind words have made their way here."
-    kr ""
+    kr "And yet, we see nothing. No force inside or outside the kingdom has sought to seize on this moment. Our alliances remain strong. Only kind words have made their way here."
 
 # TheMorningAfterKate_463c8cac (line 1826)
 translate ru TheMorningAfterKate_463c8cac:
     # kr "At the very least, I believe it safe to conclude that there is no larger plot being carried out."
-    kr ""
+    kr "At the very least, I believe it safe to conclude that there is no larger plot being carried out."
 
 # TheMorningAfterKate_ca8ba1ef (line 1827)
 translate ru TheMorningAfterKate_ca8ba1ef:
@@ -411,7 +411,7 @@ translate ru TheMorningAfterKate_ca8ba1ef:
 # TheMorningAfterKate_f3945e28 (line 1828)
 translate ru TheMorningAfterKate_f3945e28:
     # b "And how could you be so certain? You didn't see this attack coming. Maybe you're missing the next."
-    b ""
+    b "And how could you be so certain? You didn't see this attack coming. Maybe you're missing the next."
 
 # TheMorningAfterKate_1e826844 (line 1829)
 translate ru TheMorningAfterKate_1e826844:
@@ -421,12 +421,12 @@ translate ru TheMorningAfterKate_1e826844:
 # TheMorningAfterKate_1552b4e0 (line 1830)
 translate ru TheMorningAfterKate_1552b4e0:
     # kr "One can miss a single assassin in the dead of night, but I would notice an army on the move. We see nothing of the kind."
-    kr ""
+    kr "One can miss a single assassin in the dead of night, but I would notice an army on the move. We see nothing of the kind."
 
 # TheMorningAfterKate_6a53d0b9 (line 1831)
 translate ru TheMorningAfterKate_6a53d0b9:
     # b "What then of Hassar?"
-    b ""
+    b "What then of Hassar?"
 
 # TheMorningAfterKate_91967704 (line 1832)
 translate ru TheMorningAfterKate_91967704:
@@ -436,7 +436,7 @@ translate ru TheMorningAfterKate_91967704:
 # TheMorningAfterKate_e83821d9 (line 1833)
 translate ru TheMorningAfterKate_e83821d9:
     # kr "That is a different topic."
-    kr ""
+    kr "That is a different topic."
 
 # TheMorningAfterKate_678ac3d9 (line 1834)
 translate ru TheMorningAfterKate_678ac3d9:
@@ -446,12 +446,12 @@ translate ru TheMorningAfterKate_678ac3d9:
 # TheMorningAfterKate_5840cc75 (line 1835)
 translate ru TheMorningAfterKate_5840cc75:
     # t "Hassar?"
-    t ""
+    t "Hassar?"
 
 # TheMorningAfterKate_3fc89251 (line 1836)
 translate ru TheMorningAfterKate_3fc89251:
     # kr "He is a barbarian, little more, an upstart really. He hails from the eastern desert."
-    kr ""
+    kr "He is a barbarian, little more, an upstart really. He hails from the eastern desert."
 
 # TheMorningAfterKate_07271306 (line 1837)
 translate ru TheMorningAfterKate_07271306:
@@ -461,7 +461,7 @@ translate ru TheMorningAfterKate_07271306:
 # TheMorningAfterKate_6cb56f07 (line 1838)
 translate ru TheMorningAfterKate_6cb56f07:
     # b "He is more than that, Prince Thomas, he has conquered the desert tribes and forged them into a single force."
-    b ""
+    b "He is more than that, Prince Thomas, he has conquered the desert tribes and forged them into a single force."
 
 # TheMorningAfterKate_3b41e244 (line 1839)
 translate ru TheMorningAfterKate_3b41e244:
@@ -471,12 +471,12 @@ translate ru TheMorningAfterKate_3b41e244:
 # TheMorningAfterKate_e813fa8c (line 1840)
 translate ru TheMorningAfterKate_e813fa8c:
     # kr "Those are the rumors, my lord. We do not yet have enough evidence to suggest that he has truly united them."
-    kr ""
+    kr "Those are the rumors, my lord. We do not yet have enough evidence to suggest that he has truly united them."
 
 # TheMorningAfterKate_a3dbfeb3 (line 1841)
 translate ru TheMorningAfterKate_a3dbfeb3:
     # kr "High General Barion is an army man, so he loves to imagine every enemy an existential threat to our nation. It makes him feel needed."
-    kr ""
+    kr "High General Barion is an army man, so he loves to imagine every enemy an existential threat to our nation. It makes him feel needed."
 
 # TheMorningAfterKate_ada30023 (line 1842)
 translate ru TheMorningAfterKate_ada30023:
@@ -491,17 +491,7 @@ translate ru TheMorningAfterKate_40771c1a:
 # TheMorningAfterKate_500dd09a (line 1849)
 translate ru TheMorningAfterKate_500dd09a:
     # t "What do you think, Sarah?"
-    t ""
-
-# TheMorningAfterKate_0c390925 (line 1853)
-translate ru TheMorningAfterKate_0c390925:
-    # "He could be a serious threat."
-    "He could be a serious threat." ""
-
-# TheMorningAfterKate_814bfac9 (line 1857)
-translate ru TheMorningAfterKate_814bfac9:
-    # "Let's not get carried away by mere rumors."
-    "Let's not get carried away by mere rumors." ""
+    t "What do you think, Sarah?"
 
 # TheMorningAfterKate_4671532b (line 1877)
 translate ru TheMorningAfterKate_4671532b:
@@ -511,7 +501,7 @@ translate ru TheMorningAfterKate_4671532b:
 # TheMorningAfterKate_3a82d08b (line 1878)
 translate ru TheMorningAfterKate_3a82d08b:
     # t "That settles the matter of Hassar and the desert tribes. What is left on the agenda for today?"
-    t ""
+    t "That settles the matter of Hassar and the desert tribes. What is left on the agenda for today?"
 
 # TheMorningAfterKate_60a4294e (line 1879)
 translate ru TheMorningAfterKate_60a4294e:
@@ -521,7 +511,7 @@ translate ru TheMorningAfterKate_60a4294e:
 # TheMorningAfterKate_b7b7656c (line 1880)
 translate ru TheMorningAfterKate_b7b7656c:
     # c "My prince, there is the matter of your coronation."
-    c ""
+    c "My prince, there is the matter of your coronation."
 
 # TheMorningAfterKate_7ad577f1 (line 1881)
 translate ru TheMorningAfterKate_7ad577f1:
@@ -541,12 +531,12 @@ translate ru TheMorningAfterKate_93b08bbe:
 # TheMorningAfterKate_620a4c9f (line 1884)
 translate ru TheMorningAfterKate_620a4c9f:
     # t "Aah, yes, well said Lady Carolyn. My coronation..."
-    t ""
+    t "Aah, yes, well said Lady Carolyn. My coronation..."
 
 # TheMorningAfterKate_27aa0fd8 (line 1885)
 translate ru TheMorningAfterKate_27aa0fd8:
     # c "We need to decide on the...practicalities. Who to invite, the meals, the city's festivities. A lot to consider."
-    c ""
+    c "We need to decide on the...practicalities. Who to invite, the meals, the city's festivities. A lot to consider."
 
 # TheMorningAfterKate_804586d4 (line 1886)
 translate ru TheMorningAfterKate_804586d4:
@@ -556,22 +546,22 @@ translate ru TheMorningAfterKate_804586d4:
 # TheMorningAfterKate_e1152e5d (line 1887)
 translate ru TheMorningAfterKate_e1152e5d:
     # t "Is such a large event really neccesary?"
-    t ""
+    t "Is such a large event really neccesary?"
 
 # TheMorningAfterKate_7f065ba8 (line 1888)
 translate ru TheMorningAfterKate_7f065ba8:
     # c "Well, my prince, we need to consider appearances. Events like this only come along very rarely."
-    c ""
+    c "Well, my prince, we need to consider appearances. Events like this only come along very rarely."
 
 # TheMorningAfterKate_7cfbea71 (line 1889)
 translate ru TheMorningAfterKate_7cfbea71:
     # c "The nobility will expect something impressive. A show of our nation's prosperity."
-    c ""
+    c "The nobility will expect something impressive. A show of our nation's prosperity."
 
 # TheMorningAfterKate_9ac571c2 (line 1890)
 translate ru TheMorningAfterKate_9ac571c2:
     # c "They might consider a small coronation to be a sign of weakness."
-    c ""
+    c "They might consider a small coronation to be a sign of weakness."
 
 # TheMorningAfterKate_98f571b0 (line 1896)
 translate ru TheMorningAfterKate_98f571b0:
@@ -581,17 +571,7 @@ translate ru TheMorningAfterKate_98f571b0:
 # TheMorningAfterKate_95ad0488 (line 1897)
 translate ru TheMorningAfterKate_95ad0488:
     # t "What do you think we should do?"
-    t ""
-
-# TheMorningAfterKate_42b8d07e (line 1901)
-translate ru TheMorningAfterKate_42b8d07e:
-    # "Go for a big coronation."
-    "Go for a big coronation." ""
-
-# TheMorningAfterKate_74ba6e8e (line 1909)
-translate ru TheMorningAfterKate_74ba6e8e:
-    # "Keep things modest."
-    "Keep things modest." ""
+    t "What do you think we should do?"
 
 # TheMorningAfterKate_8fb64617 (line 1921)
 translate ru TheMorningAfterKate_8fb64617:
@@ -601,7 +581,7 @@ translate ru TheMorningAfterKate_8fb64617:
 # TheMorningAfterKate_35091719 (line 1922)
 translate ru TheMorningAfterKate_35091719:
     # t "Alright, what's next?"
-    t ""
+    t "Alright, what's next?"
 
 # TheMorningAfterKate_ee75ea53 (line 1924)
 translate ru TheMorningAfterKate_ee75ea53:
@@ -626,7 +606,7 @@ translate ru TheMorningAfterKate_138875c5:
 # TheMorningAfterKate_43b23d91 (line 1928)
 translate ru TheMorningAfterKate_43b23d91:
     # s "My lords, my lady."
-    s ""
+    s "My lords, my lady."
 
 # TheMorningAfterKate_a707a1f4 (line 1929)
 translate ru TheMorningAfterKate_a707a1f4:
@@ -636,12 +616,12 @@ translate ru TheMorningAfterKate_a707a1f4:
 # TheMorningAfterKate_3d29b582 (line 1930)
 translate ru TheMorningAfterKate_3d29b582:
     # s "My brother has many more issues that need to be resolved, but he and I will continue that matter in private."
-    s ""
+    s "My brother has many more issues that need to be resolved, but he and I will continue that matter in private."
 
 # TheMorningAfterKate_00026086 (line 1931)
 translate ru TheMorningAfterKate_00026086:
     # s "We trust each of you enough to find a suitable name for the bridge."
-    s ""
+    s "We trust each of you enough to find a suitable name for the bridge."
 
 # TheMorningAfterKate_9c18e7f9 (line 1932)
 translate ru TheMorningAfterKate_9c18e7f9:
@@ -651,7 +631,7 @@ translate ru TheMorningAfterKate_9c18e7f9:
 # TheMorningAfterKate_3dd06044 (line 1933)
 translate ru TheMorningAfterKate_3dd06044:
     # s "We will see you at the next meeting."
-    s ""
+    s "We will see you at the next meeting."
 
 # TheMorningAfterKate_caa65596 (line 1939)
 translate ru TheMorningAfterKate_caa65596:
@@ -666,7 +646,7 @@ translate ru TheMorningAfterKate_5bd69c7d:
 # TheMorningAfterKate_f2e9969c (line 1941)
 translate ru TheMorningAfterKate_f2e9969c:
     # t "We need to have another conversation?"
-    t ""
+    t "We need to have another conversation?"
 
 # TheMorningAfterKate_f5e3ed10 (line 1942)
 translate ru TheMorningAfterKate_f5e3ed10:
@@ -676,12 +656,12 @@ translate ru TheMorningAfterKate_f5e3ed10:
 # TheMorningAfterKate_1b6aef94 (line 1943)
 translate ru TheMorningAfterKate_1b6aef94:
     # s "I was lying, you idiot."
-    s ""
+    s "I was lying, you idiot."
 
 # TheMorningAfterKate_74e6b590 (line 1944)
 translate ru TheMorningAfterKate_74e6b590:
     # t "Ooh."
-    t ""
+    t "Ooh."
 
 # TheMorningAfterKate_aed16e11 (line 1945)
 translate ru TheMorningAfterKate_aed16e11:
@@ -691,7 +671,7 @@ translate ru TheMorningAfterKate_aed16e11:
 # TheMorningAfterKate_5b7d68f6 (line 1946)
 translate ru TheMorningAfterKate_5b7d68f6:
     # s "Honestly, you look like you're about to pass out. Go back to your room and get some rest. You did great today."
-    s ""
+    s "Honestly, you look like you're about to pass out. Go back to your room and get some rest. You did great today."
 
 # TheMorningAfterKate_15e5258e (line 1947)
 translate ru TheMorningAfterKate_15e5258e:
@@ -701,12 +681,12 @@ translate ru TheMorningAfterKate_15e5258e:
 # TheMorningAfterKate_04c4ce6c (line 1948)
 translate ru TheMorningAfterKate_04c4ce6c:
     # t "I did?"
-    t ""
+    t "I did?"
 
 # TheMorningAfterKate_ad52c850 (line 1949)
 translate ru TheMorningAfterKate_ad52c850:
     # s "Yes, Father would have been proud."
-    s ""
+    s "Yes, Father would have been proud."
 
 # TheMorningAfterKate_2c77e4ba (line 1950)
 translate ru TheMorningAfterKate_2c77e4ba:
@@ -716,7 +696,7 @@ translate ru TheMorningAfterKate_2c77e4ba:
 # TheMorningAfterKate_d1f651e8 (line 1951)
 translate ru TheMorningAfterKate_d1f651e8:
     # t "I don't think I could have done it without you, Sis. You were right, we need to stick together. I'll make sure you get your half of those reports."
-    t ""
+    t "I don't think I could have done it without you, Sis. You were right, we need to stick together. I'll make sure you get your half of those reports."
 
 # TheMorningAfterKate_b3bf7301 (line 1952)
 translate ru TheMorningAfterKate_b3bf7301:
@@ -726,7 +706,7 @@ translate ru TheMorningAfterKate_b3bf7301:
 # TheMorningAfterKate_79b9abe1 (line 1953)
 translate ru TheMorningAfterKate_79b9abe1:
     # s "Good, now stop wasting time and go get some sleep."
-    s ""
+    s "Good, now stop wasting time and go get some sleep."
 
 # TheMorningAfterKate_fc7489ad (line 1954)
 translate ru TheMorningAfterKate_fc7489ad:
@@ -772,14 +752,4 @@ translate ru TheMorningAfterKate_a24849a5:
 translate ru TheMorningAfterKate_18b5b422:
     # "She loved how even in the large castle there were pockets where she could be alone and think."
     ""
-
-# TheMorningAfterKate_77b242ef (line 1994)
-translate ru TheMorningAfterKate_77b242ef:
-    # "Don't stop Kate."
-    "Don't stop Kate." ""
-
-# TheMorningAfterKate_6683545f (line 2111)
-translate ru TheMorningAfterKate_6683545f:
-    # "Push Kate away."
-    "Push Kate away." ""
 

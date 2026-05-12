@@ -351,7 +351,7 @@ translate ru prostitutealaric1_c2cd90b9:
 # prostitutealaric1_57b8bc3a (line 74)
 translate ru prostitutealaric1_57b8bc3a:
     # al "Hey!"
-    al ""
+    al "Hey!"
 
 # prostitutealaric1_967504d1 (line 75)
 translate ru prostitutealaric1_967504d1:
@@ -361,7 +361,7 @@ translate ru prostitutealaric1_967504d1:
 # prostitutealaric1_cc3c3631 (line 76)
 translate ru prostitutealaric1_cc3c3631:
     # al "Get off the streets, moron!"
-    al ""
+    al "Get off the streets, moron!"
 
 # prostitutealaric1_470372b3 (line 77)
 translate ru prostitutealaric1_470372b3:
@@ -371,12 +371,12 @@ translate ru prostitutealaric1_470372b3:
 # prostitutealaric1_d6d9ae3b (line 78)
 translate ru prostitutealaric1_d6d9ae3b:
     # s "Don't call me a moron!"
-    s ""
+    s "Don't call me a moron!"
 
 # prostitutealaric1_1299a2cd (line 79)
 translate ru prostitutealaric1_1299a2cd:
     # al "Whatever, just come here."
-    al ""
+    al "Whatever, just come here."
 
 # prostitutealaric1_e5d38e0c (line 80)
 translate ru prostitutealaric1_e5d38e0c:
@@ -386,12 +386,12 @@ translate ru prostitutealaric1_e5d38e0c:
 # prostitutealaric1_6c811471 (line 81)
 translate ru prostitutealaric1_6c811471:
     # s "Hey!"
-    s ""
+    s "Hey!"
 
 # prostitutealaric1_e90a24fe (line 82)
 translate ru prostitutealaric1_e90a24fe:
     # s "Don't be so rough!"
-    s ""
+    s "Don't be so rough!"
 
 # prostitutealaric1_e947e43f (line 83)
 translate ru prostitutealaric1_e947e43f:
@@ -401,22 +401,22 @@ translate ru prostitutealaric1_e947e43f:
 # prostitutealaric1_30401314 (line 84)
 translate ru prostitutealaric1_30401314:
     # al "Were you followed?"
-    al ""
+    al "Were you followed?"
 
 # prostitutealaric1_aabd7875 (line 85)
 translate ru prostitutealaric1_aabd7875:
     # s "What? No! I managed to ditch them."
-    s ""
+    s "What? No! I managed to ditch them."
 
 # prostitutealaric1_b2d3a8d1 (line 86)
 translate ru prostitutealaric1_b2d3a8d1:
     # al "Are you sure?"
-    al ""
+    al "Are you sure?"
 
 # prostitutealaric1_96611319 (line 87)
 translate ru prostitutealaric1_96611319:
     # s "Obviously! If they had followed me, I would have spotted them."
-    s ""
+    s "Obviously! If they had followed me, I would have spotted them."
 
 # prostitutealaric1_42fe1c88 (line 88)
 translate ru prostitutealaric1_42fe1c88:
@@ -426,17 +426,17 @@ translate ru prostitutealaric1_42fe1c88:
 # prostitutealaric1_b93a2a4a (line 89)
 translate ru prostitutealaric1_b93a2a4a:
     # al "Yeah?"
-    al ""
+    al "Yeah?"
 
 # prostitutealaric1_3ad96cec (line 90)
 translate ru prostitutealaric1_3ad96cec:
     # al "Because I followed you when you fled. Did you spot me?"
-    al ""
+    al "Because I followed you when you fled. Did you spot me?"
 
 # prostitutealaric1_2ee812ee (line 91)
 translate ru prostitutealaric1_2ee812ee:
     # s "I..."
-    s ""
+    s "I..."
 
 # prostitutealaric1_107709bc (line 92)
 translate ru prostitutealaric1_107709bc:
@@ -446,17 +446,17 @@ translate ru prostitutealaric1_107709bc:
 # prostitutealaric1_1f1bf2c7 (line 93)
 translate ru prostitutealaric1_1f1bf2c7:
     # s "No...I didn't..."
-    s ""
+    s "No...I didn't..."
 
 # prostitutealaric1_93f7a029 (line 94)
 translate ru prostitutealaric1_93f7a029:
     # al "Whatever, it's fine. I know how to stalk people without getting caught."
-    al ""
+    al "Whatever, it's fine. I know how to stalk people without getting caught."
 
 # prostitutealaric1_e3361538 (line 95)
 translate ru prostitutealaric1_e3361538:
     # al "You're probably right, if those dipshits from the guard were still on you, we'd hear them."
-    al ""
+    al "You're probably right, if those dipshits from the guard were still on you, we'd hear them."
 
 # prostitutealaric1_fd6ee20b (line 96)
 translate ru prostitutealaric1_fd6ee20b:
@@ -471,7 +471,7 @@ translate ru prostitutealaric1_4b3ca2ec:
 # prostitutealaric1_ac43f5aa (line 98)
 translate ru prostitutealaric1_ac43f5aa:
     # s "We're safe?"
-    s ""
+    s "We're safe?"
 
 # prostitutealaric1_a7b20573 (line 99)
 translate ru prostitutealaric1_a7b20573:
@@ -481,22 +481,22 @@ translate ru prostitutealaric1_a7b20573:
 # prostitutealaric1_034ab85c (line 100)
 translate ru prostitutealaric1_034ab85c:
     # al "Hardly."
-    al ""
+    al "Hardly."
 
 # prostitutealaric1_7482f1f3 (line 101)
 translate ru prostitutealaric1_7482f1f3:
     # al "I think we made a mistake."
-    al ""
+    al "I think we made a mistake."
 
 # prostitutealaric1_cdc246b4 (line 102)
 translate ru prostitutealaric1_cdc246b4:
     # s "A mistake?"
-    s ""
+    s "A mistake?"
 
 # prostitutealaric1_002d9071 (line 103)
 translate ru prostitutealaric1_002d9071:
     # al "Yeah. I thought they'd let it rest after a day or so, but these fuckers are really putting in the time."
-    al ""
+    al "Yeah. I thought they'd let it rest after a day or so, but these fuckers are really putting in the time."
 
 # prostitutealaric1_81bd4930 (line 104)
 translate ru prostitutealaric1_81bd4930:
@@ -506,12 +506,12 @@ translate ru prostitutealaric1_81bd4930:
 # prostitutealaric1_802c5fb9 (line 105)
 translate ru prostitutealaric1_802c5fb9:
     # al "They're usually never this hard workin."
-    al ""
+    al "They're usually never this hard workin."
 
 # prostitutealaric1_5322e611 (line 106)
 translate ru prostitutealaric1_5322e611:
     # s "Are...they really going to keep chasing us?"
-    s ""
+    s "Are...they really going to keep chasing us?"
 
 # prostitutealaric1_24caaecb (line 107)
 translate ru prostitutealaric1_24caaecb:
@@ -521,22 +521,22 @@ translate ru prostitutealaric1_24caaecb:
 # prostitutealaric1_08df83ad (line 108)
 translate ru prostitutealaric1_08df83ad:
     # al "I don't know. Maybe..."
-    al ""
+    al "I don't know. Maybe..."
 
 # prostitutealaric1_1c78f83c (line 109)
 translate ru prostitutealaric1_1c78f83c:
     # al "Maybe we fucked with a merchant that had more connections than I figured."
-    al ""
+    al "Maybe we fucked with a merchant that had more connections than I figured."
 
 # prostitutealaric1_cc1d675f (line 110)
 translate ru prostitutealaric1_cc1d675f:
     # al "Whatever the reason, we're too hot right now."
-    al ""
+    al "Whatever the reason, we're too hot right now."
 
 # prostitutealaric1_2a042078 (line 111)
 translate ru prostitutealaric1_2a042078:
     # al "We gotta lay low for a bit."
-    al ""
+    al "We gotta lay low for a bit."
 
 # prostitutealaric1_01726f64 (line 112)
 translate ru prostitutealaric1_01726f64:
@@ -551,7 +551,7 @@ translate ru prostitutealaric1_854371e8:
 # prostitutealaric1_315ee2f9 (line 114)
 translate ru prostitutealaric1_315ee2f9:
     # s "Do you have a place?"
-    s ""
+    s "Do you have a place?"
 
 # prostitutealaric1_5c68fb4b (line 115)
 translate ru prostitutealaric1_5c68fb4b:
@@ -561,17 +561,17 @@ translate ru prostitutealaric1_5c68fb4b:
 # prostitutealaric1_a5bdbf75 (line 116)
 translate ru prostitutealaric1_a5bdbf75:
     # al "Used to have a few spots, but if they're really chasin me down, odds are they might go lookin for us there too."
-    al ""
+    al "Used to have a few spots, but if they're really chasin me down, odds are they might go lookin for us there too."
 
 # prostitutealaric1_11713f7a (line 117)
 translate ru prostitutealaric1_11713f7a:
     # al "And if they start to put up posters..."
-    al ""
+    al "And if they start to put up posters..."
 
 # prostitutealaric1_c05361eb (line 118)
 translate ru prostitutealaric1_c05361eb:
     # al "Fuck!"
-    al ""
+    al "Fuck!"
 
 # prostitutealaric1_016fa704 (line 119)
 translate ru prostitutealaric1_016fa704:
@@ -581,7 +581,7 @@ translate ru prostitutealaric1_016fa704:
 # prostitutealaric1_751d8152 (line 120)
 translate ru prostitutealaric1_751d8152:
     # al "We gotta get off the streets, let the heat die down."
-    al ""
+    al "We gotta get off the streets, let the heat die down."
 
 # prostitutealaric1_47238ac9 (line 121)
 translate ru prostitutealaric1_47238ac9:
@@ -591,22 +591,22 @@ translate ru prostitutealaric1_47238ac9:
 # prostitutealaric1_2373d657 (line 122)
 translate ru prostitutealaric1_2373d657:
     # al "This is your fault, you know that?"
-    al ""
+    al "This is your fault, you know that?"
 
 # prostitutealaric1_d64b8518 (line 123)
 translate ru prostitutealaric1_d64b8518:
     # s "My fault?!"
-    s ""
+    s "My fault?!"
 
 # prostitutealaric1_7c06ecbb (line 124)
 translate ru prostitutealaric1_7c06ecbb:
     # al "Yeah. You got sloppy. Tipped your hand."
-    al ""
+    al "Yeah. You got sloppy. Tipped your hand."
 
 # prostitutealaric1_ebb8ace0 (line 125)
 translate ru prostitutealaric1_ebb8ace0:
     # s "I..."
-    s ""
+    s "I..."
 
 # prostitutealaric1_c277f0c4 (line 126)
 translate ru prostitutealaric1_c277f0c4:
@@ -616,12 +616,12 @@ translate ru prostitutealaric1_c277f0c4:
 # prostitutealaric1_a330c70c (line 127)
 translate ru prostitutealaric1_a330c70c:
     # s "I'm sorry..."
-    s ""
+    s "I'm sorry..."
 
 # prostitutealaric1_9e6071cf (line 128)
 translate ru prostitutealaric1_9e6071cf:
     # al "Whatever."
-    al ""
+    al "Whatever."
 
 # prostitutealaric1_588cc6f4 (line 129)
 translate ru prostitutealaric1_588cc6f4:
@@ -631,7 +631,7 @@ translate ru prostitutealaric1_588cc6f4:
 # prostitutealaric1_bc139a3c (line 130)
 translate ru prostitutealaric1_bc139a3c:
     # al "Okay...think..."
-    al ""
+    al "Okay...think..."
 
 # prostitutealaric1_89bbc77f (line 131)
 translate ru prostitutealaric1_89bbc77f:
@@ -651,12 +651,12 @@ translate ru prostitutealaric1_1fd5874b:
 # prostitutealaric1_21b78e4f (line 134)
 translate ru prostitutealaric1_21b78e4f:
     # al "We can..."
-    al ""
+    al "We can..."
 
 # prostitutealaric1_015be0ea (line 135)
 translate ru prostitutealaric1_015be0ea:
     # al "Fuck...not ideal, but we could..."
-    al ""
+    al "Fuck...not ideal, but we could..."
 
 # prostitutealaric1_03450bad (line 136)
 translate ru prostitutealaric1_03450bad:
@@ -666,37 +666,37 @@ translate ru prostitutealaric1_03450bad:
 # prostitutealaric1_0904ad18 (line 137)
 translate ru prostitutealaric1_0904ad18:
     # s "What?"
-    s ""
+    s "What?"
 
 # prostitutealaric1_1031b19a (line 138)
 translate ru prostitutealaric1_1031b19a:
     # al "We can't go back to my part of town. They go askin around, they're sure to find my usual spots."
-    al ""
+    al "We can't go back to my part of town. They go askin around, they're sure to find my usual spots."
 
 # prostitutealaric1_8747ed92 (line 139)
 translate ru prostitutealaric1_8747ed92:
     # al "Can't really go up north, I ain't got too many friends there..."
-    al ""
+    al "Can't really go up north, I ain't got too many friends there..."
 
 # prostitutealaric1_9a2b5c20 (line 140)
 translate ru prostitutealaric1_9a2b5c20:
     # al "Docks are always swarmin with guards..."
-    al ""
+    al "Docks are always swarmin with guards..."
 
 # prostitutealaric1_858525be (line 141)
 translate ru prostitutealaric1_858525be:
     # al "And in the western rich part, I'm gonna stand out like a fuckin sore."
-    al ""
+    al "And in the western rich part, I'm gonna stand out like a fuckin sore."
 
 # prostitutealaric1_04e474e4 (line 142)
 translate ru prostitutealaric1_04e474e4:
     # al "So..."
-    al ""
+    al "So..."
 
 # prostitutealaric1_ed98b522 (line 143)
 translate ru prostitutealaric1_ed98b522:
     # al "We go East Lethram."
-    al ""
+    al "We go East Lethram."
 
 # prostitutealaric1_5cc6ddbc (line 144)
 translate ru prostitutealaric1_5cc6ddbc:
@@ -706,17 +706,17 @@ translate ru prostitutealaric1_5cc6ddbc:
 # prostitutealaric1_38d96e8f (line 145)
 translate ru prostitutealaric1_38d96e8f:
     # s "East?"
-    s ""
+    s "East?"
 
 # prostitutealaric1_e8ccd341 (line 146)
 translate ru prostitutealaric1_e8ccd341:
     # al "Yeah. I got a few friends there...they might be able to put us up."
-    al ""
+    al "Yeah. I got a few friends there...they might be able to put us up."
 
 # prostitutealaric1_8967baa8 (line 147)
 translate ru prostitutealaric1_8967baa8:
     # s "Okay...is it far?"
-    s ""
+    s "Okay...is it far?"
 
 # prostitutealaric1_7c5349ad (line 148)
 translate ru prostitutealaric1_7c5349ad:
@@ -726,12 +726,12 @@ translate ru prostitutealaric1_7c5349ad:
 # prostitutealaric1_63945b91 (line 149)
 translate ru prostitutealaric1_63945b91:
     # al "We can make it, sticking to the alleys."
-    al ""
+    al "We can make it, sticking to the alleys."
 
 # prostitutealaric1_bc3e54ff (line 150)
 translate ru prostitutealaric1_bc3e54ff:
     # al "But best we travel by night."
-    al ""
+    al "But best we travel by night."
 
 # prostitutealaric1_3563cf18 (line 151)
 translate ru prostitutealaric1_3563cf18:
@@ -796,7 +796,7 @@ translate ru prostitutealaric1_d1480b8b:
 # prostitutealaric1_36e831d3 (line 163)
 translate ru prostitutealaric1_36e831d3:
     # al "You still good?"
-    al ""
+    al "You still good?"
 
 # prostitutealaric1_b1048237 (line 164)
 translate ru prostitutealaric1_b1048237:
@@ -806,7 +806,7 @@ translate ru prostitutealaric1_b1048237:
 # prostitutealaric1_a65e59eb (line 165)
 translate ru prostitutealaric1_a65e59eb:
     # s "Yeah. Let's keep going."
-    s ""
+    s "Yeah. Let's keep going."
 
 # prostitutealaric1_af38d66c (line 166)
 translate ru prostitutealaric1_af38d66c:
@@ -861,7 +861,7 @@ translate ru prostitutealaric1_18ff34c8:
 # prostitutealaric1_f48bb662 (line 176)
 translate ru prostitutealaric1_f48bb662:
     # al "You still good?"
-    al ""
+    al "You still good?"
 
 # prostitutealaric1_538285d1 (line 177)
 translate ru prostitutealaric1_538285d1:
@@ -871,7 +871,7 @@ translate ru prostitutealaric1_538285d1:
 # prostitutealaric1_e0b250bc (line 178)
 translate ru prostitutealaric1_e0b250bc:
     # al "Good. Because we're here."
-    al ""
+    al "Good. Because we're here."
 
 # prostitutealaric1_8f17e99a (line 179)
 translate ru prostitutealaric1_8f17e99a:
@@ -881,7 +881,7 @@ translate ru prostitutealaric1_8f17e99a:
 # prostitutealaric1_5b392cef (line 180)
 translate ru prostitutealaric1_5b392cef:
     # s "Here?"
-    s ""
+    s "Here?"
 
 # prostitutealaric1_8b27208a (line 181)
 translate ru prostitutealaric1_8b27208a:
@@ -896,7 +896,7 @@ translate ru prostitutealaric1_9df8dff8:
 # prostitutealaric1_6e9b97c5 (line 183)
 translate ru prostitutealaric1_6e9b97c5:
     # al "Yeah...this is the spot."
-    al ""
+    al "Yeah...this is the spot."
 
 # prostitutealaric1_aea71471 (line 184)
 translate ru prostitutealaric1_aea71471:
@@ -906,7 +906,7 @@ translate ru prostitutealaric1_aea71471:
 # prostitutealaric1_344cd20b (line 185)
 translate ru prostitutealaric1_344cd20b:
     # al "This...is The Den."
-    al ""
+    al "This...is The Den."
 
 # prostitutealaric1_1ab3891f (line 186)
 translate ru prostitutealaric1_1ab3891f:
@@ -921,7 +921,7 @@ translate ru prostitutealaric1_da32ac6f:
 # prostitutealaric1_09ce9229 (line 188)
 translate ru prostitutealaric1_09ce9229:
     # s "What's...The Den?"
-    s ""
+    s "What's...The Den?"
 
 # prostitutealaric1_8b72fd8e (line 189)
 translate ru prostitutealaric1_8b72fd8e:
@@ -931,72 +931,72 @@ translate ru prostitutealaric1_8b72fd8e:
 # prostitutealaric1_a93e066b (line 190)
 translate ru prostitutealaric1_a93e066b:
     # al "Back in the day, Lethram was smaller. Before it got rich off trade and shippin."
-    al ""
+    al "Back in the day, Lethram was smaller. Before it got rich off trade and shippin."
 
 # prostitutealaric1_06b3cf78 (line 191)
 translate ru prostitutealaric1_06b3cf78:
     # al "When it suddenly got all that cash, it needed hands to build all the mansions and expand the docks."
-    al ""
+    al "When it suddenly got all that cash, it needed hands to build all the mansions and expand the docks."
 
 # prostitutealaric1_b883bb36 (line 192)
 translate ru prostitutealaric1_b883bb36:
     # al "Them folk needed a place to sleep too, so they build the East of Lethram, the poor part of town."
-    al ""
+    al "Them folk needed a place to sleep too, so they build the East of Lethram, the poor part of town."
 
 # prostitutealaric1_43bf0ea8 (line 193)
 translate ru prostitutealaric1_43bf0ea8:
     # al "They didn't give a fuck, so they simply constructed these large housing blocks."
-    al ""
+    al "They didn't give a fuck, so they simply constructed these large housing blocks."
 
 # prostitutealaric1_a3df2da9 (line 194)
 translate ru prostitutealaric1_a3df2da9:
     # al "But after the work was done and the people were still here, ain't much legal work left to be done for the poor masses."
-    al ""
+    al "But after the work was done and the people were still here, ain't much legal work left to be done for the poor masses."
 
 # prostitutealaric1_16d1f446 (line 195)
 translate ru prostitutealaric1_16d1f446:
     # al "That's when the city guard realized the housing blocks were like tiny forts."
-    al ""
+    al "That's when the city guard realized the housing blocks were like tiny forts."
 
 # prostitutealaric1_cac84ef8 (line 196)
 translate ru prostitutealaric1_cac84ef8:
     # al "One way in. One way out. High walls."
-    al ""
+    al "One way in. One way out. High walls."
 
 # prostitutealaric1_6e974017 (line 197)
 translate ru prostitutealaric1_6e974017:
     # al "Impossible to patrol or control."
-    al ""
+    al "Impossible to patrol or control."
 
 # prostitutealaric1_1accfdfa (line 198)
 translate ru prostitutealaric1_1accfdfa:
     # al "So crime grew wild, and the city almost collapsed under all the murders and theft."
-    al ""
+    al "So crime grew wild, and the city almost collapsed under all the murders and theft."
 
 # prostitutealaric1_5c3fb486 (line 199)
 translate ru prostitutealaric1_5c3fb486:
     # al "That's when they started the Ghetto War."
-    al ""
+    al "That's when they started the Ghetto War."
 
 # prostitutealaric1_609fefc3 (line 200)
 translate ru prostitutealaric1_609fefc3:
     # al "Block-by-block, the City Guard took control of East Lethram."
-    al ""
+    al "Block-by-block, the City Guard took control of East Lethram."
 
 # prostitutealaric1_34a811e3 (line 201)
 translate ru prostitutealaric1_34a811e3:
     # al "You either surrendered or they straight up killed you, no trial or nothin."
-    al ""
+    al "You either surrendered or they straight up killed you, no trial or nothin."
 
 # prostitutealaric1_66570cc5 (line 202)
 translate ru prostitutealaric1_66570cc5:
     # al "Then, each block they took, they tore the housing blocks down."
-    al ""
+    al "Then, each block they took, they tore the housing blocks down."
 
 # prostitutealaric1_8ded8e49 (line 203)
 translate ru prostitutealaric1_8ded8e49:
     # al "One, by one, each block a massacre."
-    al ""
+    al "One, by one, each block a massacre."
 
 # prostitutealaric1_71dc10e8 (line 204)
 translate ru prostitutealaric1_71dc10e8:
@@ -1006,52 +1006,52 @@ translate ru prostitutealaric1_71dc10e8:
 # prostitutealaric1_cf5b9d15 (line 205)
 translate ru prostitutealaric1_cf5b9d15:
     # al "But there were plenty of deaths on both sides. And near the end, even the City Guard wanted to end the conflict."
-    al ""
+    al "But there were plenty of deaths on both sides. And near the end, even the City Guard wanted to end the conflict."
 
 # prostitutealaric1_5c5151fd (line 206)
 translate ru prostitutealaric1_5c5151fd:
     # al "So they struck a deal."
-    al ""
+    al "So they struck a deal."
 
 # prostitutealaric1_2ee51c7d (line 207)
 translate ru prostitutealaric1_2ee51c7d:
     # s "A deal?"
-    s ""
+    s "A deal?"
 
 # prostitutealaric1_45d8084d (line 208)
 translate ru prostitutealaric1_45d8084d:
     # al "Yeah, with the first Underboss."
-    al ""
+    al "Yeah, with the first Underboss."
 
 # prostitutealaric1_857a936e (line 209)
 translate ru prostitutealaric1_857a936e:
     # al "He was a fella that had enough muscle and rep to hold down all the other gangs."
-    al ""
+    al "He was a fella that had enough muscle and rep to hold down all the other gangs."
 
 # prostitutealaric1_416b5d83 (line 210)
 translate ru prostitutealaric1_416b5d83:
     # al "And he said if the City Guard let him keep his blocks and pulled out, the war would be over."
-    al ""
+    al "And he said if the City Guard let him keep his blocks and pulled out, the war would be over."
 
 # prostitutealaric1_378ace13 (line 211)
 translate ru prostitutealaric1_378ace13:
     # al "The City Guard agreed."
-    al ""
+    al "The City Guard agreed."
 
 # prostitutealaric1_080b25f3 (line 212)
 translate ru prostitutealaric1_080b25f3:
     # al "In the years after, East Lethram recovered, but instead of housing blocks, we got sprawling slums."
-    al ""
+    al "In the years after, East Lethram recovered, but instead of housing blocks, we got sprawling slums."
 
 # prostitutealaric1_0b596bcb (line 213)
 translate ru prostitutealaric1_0b596bcb:
     # al "Worse to live in, but easier to police."
-    al ""
+    al "Worse to live in, but easier to police."
 
 # prostitutealaric1_e809c1a5 (line 214)
 translate ru prostitutealaric1_e809c1a5:
     # al "All except for one part of town."
-    al ""
+    al "All except for one part of town."
 
 # prostitutealaric1_c57f47e0 (line 215)
 translate ru prostitutealaric1_c57f47e0:
@@ -1061,37 +1061,37 @@ translate ru prostitutealaric1_c57f47e0:
 # prostitutealaric1_de0dd5ba (line 216)
 translate ru prostitutealaric1_de0dd5ba:
     # al "That there is the last housing block that is still standing."
-    al ""
+    al "That there is the last housing block that is still standing."
 
 # prostitutealaric1_6f4d5a53 (line 217)
 translate ru prostitutealaric1_6f4d5a53:
     # al "A practical fortress in the heart of East Lethram."
-    al ""
+    al "A practical fortress in the heart of East Lethram."
 
 # prostitutealaric1_7e97a186 (line 218)
 translate ru prostitutealaric1_7e97a186:
     # al "The Den."
-    al ""
+    al "The Den."
 
 # prostitutealaric1_ffe46d5c (line 219)
 translate ru prostitutealaric1_ffe46d5c:
     # al "It's one way in and one way out."
-    al ""
+    al "It's one way in and one way out."
 
 # prostitutealaric1_d77a32d2 (line 220)
 translate ru prostitutealaric1_d77a32d2:
     # al "And it's still ruled over by the Underboss."
-    al ""
+    al "And it's still ruled over by the Underboss."
 
 # prostitutealaric1_a9af7799 (line 221)
 translate ru prostitutealaric1_a9af7799:
     # al "Not the same guy as all those years ago, but same title."
-    al ""
+    al "Not the same guy as all those years ago, but same title."
 
 # prostitutealaric1_db00f479 (line 222)
 translate ru prostitutealaric1_db00f479:
     # al "This here is pretty much the Palace of Crime in Lethram."
-    al ""
+    al "This here is pretty much the Palace of Crime in Lethram."
 
 # prostitutealaric1_b8f6067f (line 223)
 translate ru prostitutealaric1_b8f6067f:
@@ -1101,17 +1101,17 @@ translate ru prostitutealaric1_b8f6067f:
 # prostitutealaric1_4d9da447 (line 224)
 translate ru prostitutealaric1_4d9da447:
     # s "Why...are you telling me all of this?"
-    s ""
+    s "Why...are you telling me all of this?"
 
 # prostitutealaric1_f675e684 (line 225)
 translate ru prostitutealaric1_f675e684:
     # al "Because when we step in there, I'll do what I can, but even I can't control what happens in there."
-    al ""
+    al "Because when we step in there, I'll do what I can, but even I can't control what happens in there."
 
 # prostitutealaric1_c9926104 (line 226)
 translate ru prostitutealaric1_c9926104:
     # al "There are people in there...dangerous people..."
-    al ""
+    al "There are people in there...dangerous people..."
 
 # prostitutealaric1_060f12c7 (line 227)
 translate ru prostitutealaric1_060f12c7:
@@ -1121,17 +1121,17 @@ translate ru prostitutealaric1_060f12c7:
 # prostitutealaric1_5d891ae9 (line 228)
 translate ru prostitutealaric1_5d891ae9:
     # s "Can't we go anywhere else?"
-    s ""
+    s "Can't we go anywhere else?"
 
 # prostitutealaric1_967fb6a3 (line 229)
 translate ru prostitutealaric1_967fb6a3:
     # al "We could...but this...this is the only place in Lethram where the City Guard never comes."
-    al ""
+    al "We could...but this...this is the only place in Lethram where the City Guard never comes."
 
 # prostitutealaric1_19e5c4a5 (line 230)
 translate ru prostitutealaric1_19e5c4a5:
     # al "The only place we can be sure we won't be found."
-    al ""
+    al "The only place we can be sure we won't be found."
 
 # prostitutealaric1_8531fa1c (line 231)
 translate ru prostitutealaric1_8531fa1c:
@@ -1141,7 +1141,7 @@ translate ru prostitutealaric1_8531fa1c:
 # prostitutealaric1_e492ffa7 (line 232)
 translate ru prostitutealaric1_e492ffa7:
     # s "I...understand."
-    s ""
+    s "I...understand."
 
 # prostitutealaric1_1e700187 (line 233)
 translate ru prostitutealaric1_1e700187:
@@ -1151,12 +1151,12 @@ translate ru prostitutealaric1_1e700187:
 # prostitutealaric1_5205f0b8 (line 234)
 translate ru prostitutealaric1_5205f0b8:
     # s "Let's go."
-    s ""
+    s "Let's go."
 
 # prostitutealaric1_8d9b120b (line 235)
 translate ru prostitutealaric1_8d9b120b:
     # al "Are you sure?"
-    al ""
+    al "Are you sure?"
 
 # prostitutealaric1_328bdb09 (line 236)
 translate ru prostitutealaric1_328bdb09:
@@ -1166,7 +1166,7 @@ translate ru prostitutealaric1_328bdb09:
 # prostitutealaric1_f5f18211 (line 237)
 translate ru prostitutealaric1_f5f18211:
     # s "If the Guard gets us, we're fucked...at least in there we got a chance, right?"
-    s ""
+    s "If the Guard gets us, we're fucked...at least in there we got a chance, right?"
 
 # prostitutealaric1_20d408f5 (line 238)
 translate ru prostitutealaric1_20d408f5:
@@ -1176,7 +1176,7 @@ translate ru prostitutealaric1_20d408f5:
 # prostitutealaric1_639f780b (line 239)
 translate ru prostitutealaric1_639f780b:
     # al "Good."
-    al ""
+    al "Good."
 
 # prostitutealaric1_d8e74d6a (line 240)
 translate ru prostitutealaric1_d8e74d6a:
@@ -1201,7 +1201,7 @@ translate ru prostitutealaric1_279b3af7:
 # prostitutealaric1_4eb593c0 (line 244)
 translate ru prostitutealaric1_4eb593c0:
     # al "Alaric."
-    al ""
+    al "Alaric."
 
 # prostitutealaric1_7a3e8a8a (line 245)
 translate ru prostitutealaric1_7a3e8a8a:
@@ -1211,7 +1211,7 @@ translate ru prostitutealaric1_7a3e8a8a:
 # prostitutealaric1_3fe8b895 (line 246)
 translate ru prostitutealaric1_3fe8b895:
     # al "Ain't none of your business. Just lookin for passage into The Den."
-    al ""
+    al "Ain't none of your business. Just lookin for passage into The Den."
 
 # prostitutealaric1_dc3724aa (line 247)
 translate ru prostitutealaric1_dc3724aa:
@@ -1221,7 +1221,7 @@ translate ru prostitutealaric1_dc3724aa:
 # prostitutealaric1_75f5bf44 (line 248)
 translate ru prostitutealaric1_75f5bf44:
     # al "Me? You know I never do."
-    al ""
+    al "Me? You know I never do."
 
 # prostitutealaric1_dca3d1a4 (line 249)
 translate ru prostitutealaric1_dca3d1a4:
@@ -1236,7 +1236,7 @@ translate ru prostitutealaric1_bf262530:
 # prostitutealaric1_577c9443 (line 251)
 translate ru prostitutealaric1_577c9443:
     # al "Just a girl I picked up."
-    al ""
+    al "Just a girl I picked up."
 
 # prostitutealaric1_c0cc9759 (line 252)
 translate ru prostitutealaric1_c0cc9759:
@@ -1246,12 +1246,12 @@ translate ru prostitutealaric1_c0cc9759:
 # prostitutealaric1_1e45509a (line 253)
 translate ru prostitutealaric1_1e45509a:
     # al "She ain't none of that."
-    al ""
+    al "She ain't none of that."
 
 # prostitutealaric1_38ec3600 (line 254)
 translate ru prostitutealaric1_38ec3600:
     # al "She's my...associate."
-    al ""
+    al "She's my...associate."
 
 # prostitutealaric1_ef6f5d48 (line 255)
 translate ru prostitutealaric1_ef6f5d48:
@@ -1266,7 +1266,7 @@ translate ru prostitutealaric1_8b026323:
 # prostitutealaric1_289ef44d (line 257)
 translate ru prostitutealaric1_289ef44d:
     # al "I know that."
-    al ""
+    al "I know that."
 
 # prostitutealaric1_69783481 (line 258)
 translate ru prostitutealaric1_69783481:
@@ -1276,7 +1276,7 @@ translate ru prostitutealaric1_69783481:
 # prostitutealaric1_7417932b (line 259)
 translate ru prostitutealaric1_7417932b:
     # al "I know that too."
-    al ""
+    al "I know that too."
 
 # prostitutealaric1_1e38ddb9 (line 260)
 translate ru prostitutealaric1_1e38ddb9:
@@ -1286,7 +1286,7 @@ translate ru prostitutealaric1_1e38ddb9:
 # prostitutealaric1_a7bc6464 (line 261)
 translate ru prostitutealaric1_a7bc6464:
     # al "I accept that risk."
-    al ""
+    al "I accept that risk."
 
 # prostitutealaric1_615920b8 (line 262)
 translate ru prostitutealaric1_615920b8:
@@ -1336,7 +1336,7 @@ translate ru prostitutealaric1_05e62c7d:
 # prostitutealaric1_1de69045 (line 271)
 translate ru prostitutealaric1_1de69045:
     # al "Stick close to me."
-    al ""
+    al "Stick close to me."
 
 # prostitutealaric1_c2e22996 (line 272)
 translate ru prostitutealaric1_c2e22996:
@@ -1521,7 +1521,7 @@ translate ru prostitutealaric1_422a5d09:
 # prostitutealaric1_fd94bd94 (line 308)
 translate ru prostitutealaric1_fd94bd94:
     # al "We're here."
-    al ""
+    al "We're here."
 
 # prostitutealaric1_c6e37890 (line 309)
 translate ru prostitutealaric1_c6e37890:
@@ -1546,7 +1546,7 @@ translate ru prostitutealaric1_318ef579:
 # prostitutealaric1_b5731c7d (line 313)
 translate ru prostitutealaric1_b5731c7d:
     # al "It's me."
-    al ""
+    al "It's me."
 
 # prostitutealaric1_4dce41c5 (line 314)
 translate ru prostitutealaric1_4dce41c5:
@@ -1556,7 +1556,7 @@ translate ru prostitutealaric1_4dce41c5:
 # prostitutealaric1_a9a43e0e (line 315)
 translate ru prostitutealaric1_a9a43e0e:
     # al "Fuck you, you know who I am."
-    al ""
+    al "Fuck you, you know who I am."
 
 # prostitutealaric1_777f3f12 (line 316)
 translate ru prostitutealaric1_777f3f12:
@@ -1591,17 +1591,17 @@ translate ru prostitutealaric1_fa9a08ff:
 # prostitutealaric1_efbc64b5 (line 322)
 translate ru prostitutealaric1_efbc64b5:
     # al "Damian...it's been a minute."
-    al ""
+    al "Damian...it's been a minute."
 
 # prostitutealaric1_35bb1afe (line 323)
 translate ru prostitutealaric1_35bb1afe:
     # dam "More than a minute."
-    dam ""
+    dam "More than a minute."
 
 # prostitutealaric1_fcc667a9 (line 324)
 translate ru prostitutealaric1_fcc667a9:
     # al "Look, I was meanin to drop by sooner, but I just-"
-    al ""
+    al "Look, I was meanin to drop by sooner, but I just-"
 
 # prostitutealaric1_5d9ef3bc (line 325)
 translate ru prostitutealaric1_5d9ef3bc:
@@ -1611,22 +1611,22 @@ translate ru prostitutealaric1_5d9ef3bc:
 # prostitutealaric1_5f09ab99 (line 326)
 translate ru prostitutealaric1_5f09ab99:
     # dam "If you're just gonna wind me up with promises, how bout I save us both the trouble, huh?"
-    dam ""
+    dam "If you're just gonna wind me up with promises, how bout I save us both the trouble, huh?"
 
 # prostitutealaric1_dcd36743 (line 327)
 translate ru prostitutealaric1_dcd36743:
     # al "No, it's not just promises, I seriously had your money, but-"
-    al ""
+    al "No, it's not just promises, I seriously had your money, but-"
 
 # prostitutealaric1_1f28ec2e (line 328)
 translate ru prostitutealaric1_1f28ec2e:
     # dam "Ah, but. But! But!"
-    dam ""
+    dam "Ah, but. But! But!"
 
 # prostitutealaric1_ed27578c (line 329)
 translate ru prostitutealaric1_ed27578c:
     # dam "You know, Alaric..."
-    dam ""
+    dam "You know, Alaric..."
 
 # prostitutealaric1_e6e0fac5 (line 330)
 translate ru prostitutealaric1_e6e0fac5:
@@ -1636,22 +1636,22 @@ translate ru prostitutealaric1_e6e0fac5:
 # prostitutealaric1_7c52198a (line 331)
 translate ru prostitutealaric1_7c52198a:
     # dam "I don't give a damn if you had half of Lethram."
-    dam ""
+    dam "I don't give a damn if you had half of Lethram."
 
 # prostitutealaric1_6f9fefa8 (line 332)
 translate ru prostitutealaric1_6f9fefa8:
     # dam "I only know two kinds of money."
-    dam ""
+    dam "I only know two kinds of money."
 
 # prostitutealaric1_367b6431 (line 333)
 translate ru prostitutealaric1_367b6431:
     # dam "The money I got and the money I don't got."
-    dam ""
+    dam "The money I got and the money I don't got."
 
 # prostitutealaric1_0c7f6d19 (line 334)
 translate ru prostitutealaric1_0c7f6d19:
     # dam "And from the sound of it, you're talkin about all the money I don't got."
-    dam ""
+    dam "And from the sound of it, you're talkin about all the money I don't got."
 
 # prostitutealaric1_abb4cb97 (line 335)
 translate ru prostitutealaric1_abb4cb97:
@@ -1671,17 +1671,17 @@ translate ru prostitutealaric1_421e789d:
 # prostitutealaric1_f17fad99 (line 338)
 translate ru prostitutealaric1_f17fad99:
     # al "I know I owe you. And I know I'm standin here, short on my promise."
-    al ""
+    al "I know I owe you. And I know I'm standin here, short on my promise."
 
 # prostitutealaric1_1b880c73 (line 339)
 translate ru prostitutealaric1_1b880c73:
     # al "You say you don't wanna hear how I got it and lost it, sure, whatever."
-    al ""
+    al "You say you don't wanna hear how I got it and lost it, sure, whatever."
 
 # prostitutealaric1_4435e87c (line 340)
 translate ru prostitutealaric1_4435e87c:
     # al "But I'm here with an ask..."
-    al ""
+    al "But I'm here with an ask..."
 
 # prostitutealaric1_5e88c2cc (line 341)
 translate ru prostitutealaric1_5e88c2cc:
@@ -1691,22 +1691,22 @@ translate ru prostitutealaric1_5e88c2cc:
 # prostitutealaric1_c6892db4 (line 342)
 translate ru prostitutealaric1_c6892db4:
     # dam "That's rich."
-    dam ""
+    dam "That's rich."
 
 # prostitutealaric1_343d2dd4 (line 343)
 translate ru prostitutealaric1_343d2dd4:
     # dam "Not only do you show up, short on what you owe, but you actually wanna add to your tab with another ask?"
-    dam ""
+    dam "Not only do you show up, short on what you owe, but you actually wanna add to your tab with another ask?"
 
 # prostitutealaric1_e7d1d3cb (line 344)
 translate ru prostitutealaric1_e7d1d3cb:
     # al "Listen, Damian..."
-    al ""
+    al "Listen, Damian..."
 
 # prostitutealaric1_8d42db5f (line 345)
 translate ru prostitutealaric1_8d42db5f:
     # al "I wouldn't be askin if it wasn't big. Life or death shit."
-    al ""
+    al "I wouldn't be askin if it wasn't big. Life or death shit."
 
 # prostitutealaric1_6c247052 (line 346)
 translate ru prostitutealaric1_6c247052:
@@ -1716,22 +1716,22 @@ translate ru prostitutealaric1_6c247052:
 # prostitutealaric1_74be1b8b (line 347)
 translate ru prostitutealaric1_74be1b8b:
     # dam "Life or death?"
-    dam ""
+    dam "Life or death?"
 
 # prostitutealaric1_02d5c589 (line 348)
 translate ru prostitutealaric1_02d5c589:
     # dam "Fuck you got yourself into, boy?"
-    dam ""
+    dam "Fuck you got yourself into, boy?"
 
 # prostitutealaric1_0b0f1ced (line 349)
 translate ru prostitutealaric1_0b0f1ced:
     # al "Let us in and I can explain."
-    al ""
+    al "Let us in and I can explain."
 
 # prostitutealaric1_80aabc29 (line 350)
 translate ru prostitutealaric1_80aabc29:
     # dam "Us?"
-    dam ""
+    dam "Us?"
 
 # prostitutealaric1_0db93873 (line 351)
 translate ru prostitutealaric1_0db93873:
@@ -1751,12 +1751,12 @@ translate ru prostitutealaric1_4535bbaa:
 # prostitutealaric1_ccd58a80 (line 354)
 translate ru prostitutealaric1_ccd58a80:
     # dam "Pleasure to meet you, missy."
-    dam ""
+    dam "Pleasure to meet you, missy."
 
 # prostitutealaric1_cf0f406c (line 355)
 translate ru prostitutealaric1_cf0f406c:
     # s "Good day, sir."
-    s ""
+    s "Good day, sir."
 
 # prostitutealaric1_395a52e1 (line 356)
 translate ru prostitutealaric1_395a52e1:
@@ -1766,7 +1766,7 @@ translate ru prostitutealaric1_395a52e1:
 # prostitutealaric1_a2fdca90 (line 357)
 translate ru prostitutealaric1_a2fdca90:
     # dam "Sir...I can't been called all proper like that in years."
-    dam ""
+    dam "Sir...I can't been called all proper like that in years."
 
 # prostitutealaric1_8462ab12 (line 358)
 translate ru prostitutealaric1_8462ab12:
@@ -1776,12 +1776,12 @@ translate ru prostitutealaric1_8462ab12:
 # prostitutealaric1_abc17010 (line 359)
 translate ru prostitutealaric1_abc17010:
     # dam "Don't tell me you kidnapped this broad. I don't need that kind of heat on me."
-    dam ""
+    dam "Don't tell me you kidnapped this broad. I don't need that kind of heat on me."
 
 # prostitutealaric1_13043ca1 (line 360)
 translate ru prostitutealaric1_13043ca1:
     # al "Like I said, let us in and I can explain."
-    al ""
+    al "Like I said, let us in and I can explain."
 
 # prostitutealaric1_939a7685 (line 361)
 translate ru prostitutealaric1_939a7685:
@@ -1791,17 +1791,17 @@ translate ru prostitutealaric1_939a7685:
 # prostitutealaric1_e7a43dcf (line 362)
 translate ru prostitutealaric1_e7a43dcf:
     # dam "Tell me, and swear on what little honor you got..."
-    dam ""
+    dam "Tell me, and swear on what little honor you got..."
 
 # prostitutealaric1_fe78b202 (line 363)
 translate ru prostitutealaric1_fe78b202:
     # dam "If I let you in, tell me this ain't the kind of trouble that blows back on me."
-    dam ""
+    dam "If I let you in, tell me this ain't the kind of trouble that blows back on me."
 
 # prostitutealaric1_04d1c68e (line 364)
 translate ru prostitutealaric1_04d1c68e:
     # al "I swear. We're in trouble, but it ain't the kind that will get you in trouble for helpin us."
-    al ""
+    al "I swear. We're in trouble, but it ain't the kind that will get you in trouble for helpin us."
 
 # prostitutealaric1_38609968 (line 365)
 translate ru prostitutealaric1_38609968:
@@ -1811,7 +1811,7 @@ translate ru prostitutealaric1_38609968:
 # prostitutealaric1_23df7a5d (line 366)
 translate ru prostitutealaric1_23df7a5d:
     # dam "Fuck...I must be the stupidest fuckin idiot in the world."
-    dam ""
+    dam "Fuck...I must be the stupidest fuckin idiot in the world."
 
 # prostitutealaric1_1c463d48 (line 367)
 translate ru prostitutealaric1_1c463d48:
@@ -1821,12 +1821,12 @@ translate ru prostitutealaric1_1c463d48:
 # prostitutealaric1_8a2f6592 (line 368)
 translate ru prostitutealaric1_8a2f6592:
     # dam "Get in here then."
-    dam ""
+    dam "Get in here then."
 
 # prostitutealaric1_f01d6131 (line 369)
 translate ru prostitutealaric1_f01d6131:
     # dam "But you better have a damn good story."
-    dam ""
+    dam "But you better have a damn good story."
 
 # prostitutealaric1_bffb79bc (line 370)
 translate ru prostitutealaric1_bffb79bc:
@@ -1856,7 +1856,7 @@ translate ru prostitutealaric1_e5ed629f:
 # prostitutealaric1_8e325c55 (line 375)
 translate ru prostitutealaric1_8e325c55:
     # dam "I got some tea on, you both get comfortable in the livin room, I'll be right over."
-    dam ""
+    dam "I got some tea on, you both get comfortable in the livin room, I'll be right over."
 
 # prostitutealaric1_866c2731 (line 376)
 translate ru prostitutealaric1_866c2731:
@@ -1876,37 +1876,37 @@ translate ru prostitutealaric1_9bf9054d:
 # prostitutealaric1_c5f98598 (line 379)
 translate ru prostitutealaric1_c5f98598:
     # al "Thank fuck he let us in."
-    al ""
+    al "Thank fuck he let us in."
 
 # prostitutealaric1_97f0174a (line 380)
 translate ru prostitutealaric1_97f0174a:
     # s "Who is he?"
-    s ""
+    s "Who is he?"
 
 # prostitutealaric1_05cc70f7 (line 381)
 translate ru prostitutealaric1_05cc70f7:
     # al "Damian. And old friend."
-    al ""
+    al "Damian. And old friend."
 
 # prostitutealaric1_9b5ab50d (line 382)
 translate ru prostitutealaric1_9b5ab50d:
     # s "A friend?"
-    s ""
+    s "A friend?"
 
 # prostitutealaric1_6a54a08d (line 383)
 translate ru prostitutealaric1_6a54a08d:
     # al "Well, more like an acquaintance."
-    al ""
+    al "Well, more like an acquaintance."
 
 # prostitutealaric1_d87cedb1 (line 384)
 translate ru prostitutealaric1_d87cedb1:
     # al "He used to help me out, back in the day, when I first was runnin out on the streets."
-    al ""
+    al "He used to help me out, back in the day, when I first was runnin out on the streets."
 
 # prostitutealaric1_af37e42b (line 385)
 translate ru prostitutealaric1_af37e42b:
     # s "He seems nice."
-    s ""
+    s "He seems nice."
 
 # prostitutealaric1_95092eb4 (line 386)
 translate ru prostitutealaric1_95092eb4:
@@ -1916,27 +1916,27 @@ translate ru prostitutealaric1_95092eb4:
 # prostitutealaric1_e03200a8 (line 387)
 translate ru prostitutealaric1_e03200a8:
     # al "Don't be an idiot, Sarah."
-    al ""
+    al "Don't be an idiot, Sarah."
 
 # prostitutealaric1_9302d6bd (line 388)
 translate ru prostitutealaric1_9302d6bd:
     # al "Ain't nobody livin in The Den that's nice."
-    al ""
+    al "Ain't nobody livin in The Den that's nice."
 
 # prostitutealaric1_32f88251 (line 389)
 translate ru prostitutealaric1_32f88251:
     # al "People all smiles cause it don't cost them shit, but when it comes down to it, people are out for themselves."
-    al ""
+    al "People all smiles cause it don't cost them shit, but when it comes down to it, people are out for themselves."
 
 # prostitutealaric1_0d69fd4d (line 390)
 translate ru prostitutealaric1_0d69fd4d:
     # al "Even Damian."
-    al ""
+    al "Even Damian."
 
 # prostitutealaric1_0d15dedd (line 391)
 translate ru prostitutealaric1_0d15dedd:
     # dam "Someone talkin bout me?"
-    dam ""
+    dam "Someone talkin bout me?"
 
 # prostitutealaric1_38834d89 (line 392)
 translate ru prostitutealaric1_38834d89:
@@ -1951,7 +1951,7 @@ translate ru prostitutealaric1_f0a9df05:
 # prostitutealaric1_b5d8dd00 (line 394)
 translate ru prostitutealaric1_b5d8dd00:
     # dam "Go on, have a seat."
-    dam ""
+    dam "Go on, have a seat."
 
 # prostitutealaric1_a3db2c76 (line 395)
 translate ru prostitutealaric1_a3db2c76:
@@ -1966,7 +1966,7 @@ translate ru prostitutealaric1_854fdb59:
 # prostitutealaric1_34a3d3d0 (line 397)
 translate ru prostitutealaric1_34a3d3d0:
     # al "Thanks again for letting us stay here."
-    al ""
+    al "Thanks again for letting us stay here."
 
 # prostitutealaric1_8efc7664 (line 398)
 translate ru prostitutealaric1_8efc7664:
@@ -1976,17 +1976,17 @@ translate ru prostitutealaric1_8efc7664:
 # prostitutealaric1_95f2a9d6 (line 399)
 translate ru prostitutealaric1_95f2a9d6:
     # dam "I ain't made up my mind on that just yet."
-    dam ""
+    dam "I ain't made up my mind on that just yet."
 
 # prostitutealaric1_2563c181 (line 400)
 translate ru prostitutealaric1_2563c181:
     # dam "You owe me a story I believe."
-    dam ""
+    dam "You owe me a story I believe."
 
 # prostitutealaric1_5d25a3c8 (line 401)
 translate ru prostitutealaric1_5d25a3c8:
     # dam "Or were you gonna short me on that too?"
-    dam ""
+    dam "Or were you gonna short me on that too?"
 
 # prostitutealaric1_57b7dcc4 (line 402)
 translate ru prostitutealaric1_57b7dcc4:
@@ -2001,7 +2001,7 @@ translate ru prostitutealaric1_e739e635:
 # prostitutealaric1_d86a337e (line 404)
 translate ru prostitutealaric1_d86a337e:
     # al "Fine, like you said, I owe you a story..."
-    al ""
+    al "Fine, like you said, I owe you a story..."
 
 # prostitutealaric1_85ddef2f (line 405)
 translate ru prostitutealaric1_85ddef2f:
@@ -2036,12 +2036,12 @@ translate ru prostitutealaric1_af8da615:
 # prostitutealaric1_ca164ff5 (line 411)
 translate ru prostitutealaric1_ca164ff5:
     # dam "Damn, boy."
-    dam ""
+    dam "Damn, boy."
 
 # prostitutealaric1_0180ccfc (line 412)
 translate ru prostitutealaric1_0180ccfc:
     # dam "You promised a story and you delivered."
-    dam ""
+    dam "You promised a story and you delivered."
 
 # prostitutealaric1_6135bff9 (line 413)
 translate ru prostitutealaric1_6135bff9:
@@ -2051,12 +2051,12 @@ translate ru prostitutealaric1_6135bff9:
 # prostitutealaric1_59aad489 (line 414)
 translate ru prostitutealaric1_59aad489:
     # dam "All that true?"
-    dam ""
+    dam "All that true?"
 
 # prostitutealaric1_b5395336 (line 415)
 translate ru prostitutealaric1_b5395336:
     # dam "He really had the money and ya'll lost it?"
-    dam ""
+    dam "He really had the money and ya'll lost it?"
 
 # prostitutealaric1_89b86e9b (line 416)
 translate ru prostitutealaric1_89b86e9b:
@@ -2066,12 +2066,12 @@ translate ru prostitutealaric1_89b86e9b:
 # prostitutealaric1_ef61426d (line 417)
 translate ru prostitutealaric1_ef61426d:
     # s "It's true what he said. All of it."
-    s ""
+    s "It's true what he said. All of it."
 
 # prostitutealaric1_0e6f1518 (line 418)
 translate ru prostitutealaric1_0e6f1518:
     # dam "Well, ya know Alaric, I know I can be rough on ya, but I'm happy you ain't dead."
-    dam ""
+    dam "Well, ya know Alaric, I know I can be rough on ya, but I'm happy you ain't dead."
 
 # prostitutealaric1_de0524f2 (line 419)
 translate ru prostitutealaric1_de0524f2:
@@ -2081,32 +2081,32 @@ translate ru prostitutealaric1_de0524f2:
 # prostitutealaric1_b4cb578b (line 420)
 translate ru prostitutealaric1_b4cb578b:
     # dam "So, what do ya need from me exactly?"
-    dam ""
+    dam "So, what do ya need from me exactly?"
 
 # prostitutealaric1_24702484 (line 421)
 translate ru prostitutealaric1_24702484:
     # al "Well..."
-    al ""
+    al "Well..."
 
 # prostitutealaric1_e4052880 (line 422)
 translate ru prostitutealaric1_e4052880:
     # al "I was hoping we could stay here."
-    al ""
+    al "I was hoping we could stay here."
 
 # prostitutealaric1_d07bb3fb (line 423)
 translate ru prostitutealaric1_d07bb3fb:
     # dam "Stay here? For a day?"
-    dam ""
+    dam "Stay here? For a day?"
 
 # prostitutealaric1_0c3d7e14 (line 424)
 translate ru prostitutealaric1_0c3d7e14:
     # al "More until the heat dies down."
-    al ""
+    al "More until the heat dies down."
 
 # prostitutealaric1_63e59bb7 (line 425)
 translate ru prostitutealaric1_63e59bb7:
     # dam "The heat? That could be weeks."
-    dam ""
+    dam "The heat? That could be weeks."
 
 # prostitutealaric1_d3e4828f (line 426)
 translate ru prostitutealaric1_d3e4828f:
@@ -2116,7 +2116,7 @@ translate ru prostitutealaric1_d3e4828f:
 # prostitutealaric1_8305f1fc (line 427)
 translate ru prostitutealaric1_8305f1fc:
     # al "Yeah...I know that I'm askin a lot..."
-    al ""
+    al "Yeah...I know that I'm askin a lot..."
 
 # prostitutealaric1_36a5e2b8 (line 428)
 translate ru prostitutealaric1_36a5e2b8:
@@ -2126,17 +2126,17 @@ translate ru prostitutealaric1_36a5e2b8:
 # prostitutealaric1_7634cd17 (line 429)
 translate ru prostitutealaric1_7634cd17:
     # dam "Cost of stayin here. Make that double, since I'm coverin for two fugitives."
-    dam ""
+    dam "Cost of stayin here. Make that double, since I'm coverin for two fugitives."
 
 # prostitutealaric1_1a400e82 (line 430)
 translate ru prostitutealaric1_1a400e82:
     # dam "Add onto that what you already owed me from what ya borrowed."
-    dam ""
+    dam "Add onto that what you already owed me from what ya borrowed."
 
 # prostitutealaric1_68540b75 (line 431)
 translate ru prostitutealaric1_68540b75:
     # dam "Then add the interest..."
-    dam ""
+    dam "Then add the interest..."
 
 # prostitutealaric1_5cf98532 (line 432)
 translate ru prostitutealaric1_5cf98532:
@@ -2146,27 +2146,27 @@ translate ru prostitutealaric1_5cf98532:
 # prostitutealaric1_0b833ad0 (line 433)
 translate ru prostitutealaric1_0b833ad0:
     # dam "That comes out to a big bundle."
-    dam ""
+    dam "That comes out to a big bundle."
 
 # prostitutealaric1_76235713 (line 434)
 translate ru prostitutealaric1_76235713:
     # al "I know. I'll owe you."
-    al ""
+    al "I know. I'll owe you."
 
 # prostitutealaric1_8c65b52d (line 435)
 translate ru prostitutealaric1_8c65b52d:
     # dam "You already owe me."
-    dam ""
+    dam "You already owe me."
 
 # prostitutealaric1_c2ef8e91 (line 436)
 translate ru prostitutealaric1_c2ef8e91:
     # dam "Add onto what you're askin, you're gonna be in the kind of debt you can't rob and steal your way out of."
-    dam ""
+    dam "Add onto what you're askin, you're gonna be in the kind of debt you can't rob and steal your way out of."
 
 # prostitutealaric1_52d3214e (line 437)
 translate ru prostitutealaric1_52d3214e:
     # al "I thought, seein as we're old friends-"
-    al ""
+    al "I thought, seein as we're old friends-"
 
 # prostitutealaric1_ecba377c (line 438)
 translate ru prostitutealaric1_ecba377c:
@@ -2176,22 +2176,22 @@ translate ru prostitutealaric1_ecba377c:
 # prostitutealaric1_80b7cd10 (line 439)
 translate ru prostitutealaric1_80b7cd10:
     # dam "Don't be playin that friend shit on me, boy."
-    dam ""
+    dam "Don't be playin that friend shit on me, boy."
 
 # prostitutealaric1_0172c8f1 (line 440)
 translate ru prostitutealaric1_0172c8f1:
     # dam "Friends don't come askin for a free handout. Friends don't abuse the good nature of their friends."
-    dam ""
+    dam "Friends don't come askin for a free handout. Friends don't abuse the good nature of their friends."
 
 # prostitutealaric1_d5b76f0f (line 441)
 translate ru prostitutealaric1_d5b76f0f:
     # dam "And friends definitely don't duck out on a debt."
-    dam ""
+    dam "And friends definitely don't duck out on a debt."
 
 # prostitutealaric1_d6b5be0f (line 442)
 translate ru prostitutealaric1_d6b5be0f:
     # al "I didn't duck out! I was trying to-"
-    al ""
+    al "I didn't duck out! I was trying to-"
 
 # prostitutealaric1_544d1638 (line 443)
 translate ru prostitutealaric1_544d1638:
@@ -2201,12 +2201,12 @@ translate ru prostitutealaric1_544d1638:
 # prostitutealaric1_448f7d78 (line 444)
 translate ru prostitutealaric1_448f7d78:
     # dam "Try, try, try. I told you what I think about that."
-    dam ""
+    dam "Try, try, try. I told you what I think about that."
 
 # prostitutealaric1_7d7939a0 (line 445)
 translate ru prostitutealaric1_7d7939a0:
     # dam "Now, like I said, I can cut you a deal and let the both of you stay here, but the debt is a problem..."
-    dam ""
+    dam "Now, like I said, I can cut you a deal and let the both of you stay here, but the debt is a problem..."
 
 # prostitutealaric1_60ebf933 (line 446)
 translate ru prostitutealaric1_60ebf933:
@@ -2216,17 +2216,17 @@ translate ru prostitutealaric1_60ebf933:
 # prostitutealaric1_a08ea8ce (line 447)
 translate ru prostitutealaric1_a08ea8ce:
     # dam "Now..."
-    dam ""
+    dam "Now..."
 
 # prostitutealaric1_8f4763e8 (line 448)
 translate ru prostitutealaric1_8f4763e8:
     # dam "Seein as you can't make the payment..."
-    dam ""
+    dam "Seein as you can't make the payment..."
 
 # prostitutealaric1_1a1e1d88 (line 449)
 translate ru prostitutealaric1_1a1e1d88:
     # dam "Maybe missy over here could front some of it..."
-    dam ""
+    dam "Maybe missy over here could front some of it..."
 
 # prostitutealaric1_38272ecc (line 450)
 translate ru prostitutealaric1_38272ecc:
@@ -2236,12 +2236,12 @@ translate ru prostitutealaric1_38272ecc:
 # prostitutealaric1_a2072711 (line 451)
 translate ru prostitutealaric1_a2072711:
     # s "I don't have any money either, sir. I'm sorry."
-    s ""
+    s "I don't have any money either, sir. I'm sorry."
 
 # prostitutealaric1_4dcb32fe (line 452)
 translate ru prostitutealaric1_4dcb32fe:
     # al "Idiot..."
-    al ""
+    al "Idiot..."
 
 # prostitutealaric1_3cf74853 (line 453)
 translate ru prostitutealaric1_3cf74853:
@@ -2251,17 +2251,17 @@ translate ru prostitutealaric1_3cf74853:
 # prostitutealaric1_b67eb7af (line 454)
 translate ru prostitutealaric1_b67eb7af:
     # s "What?"
-    s ""
+    s "What?"
 
 # prostitutealaric1_9a71e53d (line 455)
 translate ru prostitutealaric1_9a71e53d:
     # al "He's not askin for your money."
-    al ""
+    al "He's not askin for your money."
 
 # prostitutealaric1_43f59f1f (line 456)
 translate ru prostitutealaric1_43f59f1f:
     # al "He wants to fuck you."
-    al ""
+    al "He wants to fuck you."
 
 # prostitutealaric1_960186b2 (line 457)
 translate ru prostitutealaric1_960186b2:
@@ -2271,17 +2271,17 @@ translate ru prostitutealaric1_960186b2:
 # prostitutealaric1_ba3cbdc2 (line 458)
 translate ru prostitutealaric1_ba3cbdc2:
     # s "I...no, sir...I think that..."
-    s ""
+    s "I...no, sir...I think that..."
 
 # prostitutealaric1_9076d20c (line 459)
 translate ru prostitutealaric1_9076d20c:
     # dam "What?"
-    dam ""
+    dam "What?"
 
 # prostitutealaric1_9de70903 (line 460)
 translate ru prostitutealaric1_9de70903:
     # dam "I ain't that ugly, am I? You call me ugly in my own home?"
-    dam ""
+    dam "I ain't that ugly, am I? You call me ugly in my own home?"
 
 # prostitutealaric1_978f652a (line 461)
 translate ru prostitutealaric1_978f652a:
@@ -2291,47 +2291,47 @@ translate ru prostitutealaric1_978f652a:
 # prostitutealaric1_187b7d92 (line 462)
 translate ru prostitutealaric1_187b7d92:
     # s "No, sir, of course not. I didn't mean to give offense."
-    s ""
+    s "No, sir, of course not. I didn't mean to give offense."
 
 # prostitutealaric1_ac9e663e (line 463)
 translate ru prostitutealaric1_ac9e663e:
     # s "I was just saying that, I don't think that..."
-    s ""
+    s "I was just saying that, I don't think that..."
 
 # prostitutealaric1_97762a3c (line 464)
 translate ru prostitutealaric1_97762a3c:
     # dam "Come on now."
-    dam ""
+    dam "Come on now."
 
 # prostitutealaric1_c195644d (line 465)
 translate ru prostitutealaric1_c195644d:
     # dam "You in The Den."
-    dam ""
+    dam "You in The Den."
 
 # prostitutealaric1_895159ee (line 466)
 translate ru prostitutealaric1_895159ee:
     # dam "I don't doubt you saw plenty a ladies turnin an honest trick for a food and a bed."
-    dam ""
+    dam "I don't doubt you saw plenty a ladies turnin an honest trick for a food and a bed."
 
 # prostitutealaric1_07036b4b (line 467)
 translate ru prostitutealaric1_07036b4b:
     # dam "You sayin you better than them?"
-    dam ""
+    dam "You sayin you better than them?"
 
 # prostitutealaric1_917f0b36 (line 468)
 translate ru prostitutealaric1_917f0b36:
     # s "No!"
-    s ""
+    s "No!"
 
 # prostitutealaric1_358faf9c (line 469)
 translate ru prostitutealaric1_358faf9c:
     # s "I just, I don't think...if...we can just come to...a different understanding then..."
-    s ""
+    s "I just, I don't think...if...we can just come to...a different understanding then..."
 
 # prostitutealaric1_66bc8f15 (line 470)
 translate ru prostitutealaric1_66bc8f15:
     # dam "What?"
-    dam ""
+    dam "What?"
 
 # prostitutealaric1_006122fc (line 471)
 translate ru prostitutealaric1_006122fc:
@@ -2341,17 +2341,17 @@ translate ru prostitutealaric1_006122fc:
 # prostitutealaric1_d071de51 (line 472)
 translate ru prostitutealaric1_d071de51:
     # dam "I take any payment you got."
-    dam ""
+    dam "I take any payment you got."
 
 # prostitutealaric1_555ebdb9 (line 473)
 translate ru prostitutealaric1_555ebdb9:
     # dam "You got a stash of coins or jewels that I don't know about?"
-    dam ""
+    dam "You got a stash of coins or jewels that I don't know about?"
 
 # prostitutealaric1_13357513 (line 474)
 translate ru prostitutealaric1_13357513:
     # dam "Hand em over and you and ya boy can sleep here for a year."
-    dam ""
+    dam "Hand em over and you and ya boy can sleep here for a year."
 
 # prostitutealaric1_10fc7a97 (line 475)
 translate ru prostitutealaric1_10fc7a97:
@@ -2361,17 +2361,17 @@ translate ru prostitutealaric1_10fc7a97:
 # prostitutealaric1_302b0bff (line 476)
 translate ru prostitutealaric1_302b0bff:
     # s "We don't...we don't have that kind of money..."
-    s ""
+    s "We don't...we don't have that kind of money..."
 
 # prostitutealaric1_8809b0eb (line 477)
 translate ru prostitutealaric1_8809b0eb:
     # dam "Exactly."
-    dam ""
+    dam "Exactly."
 
 # prostitutealaric1_a320be4f (line 478)
 translate ru prostitutealaric1_a320be4f:
     # dam "You ain't got a dime, so I'm doin the honest and friendly thing. I'm lettin you pay the other way."
-    dam ""
+    dam "You ain't got a dime, so I'm doin the honest and friendly thing. I'm lettin you pay the other way."
 
 # prostitutealaric1_720e4c0f (line 479)
 translate ru prostitutealaric1_720e4c0f:
@@ -2396,7 +2396,7 @@ translate ru prostitutealaric1_5144e6a1:
 # prostitutealaric1_d5c1fcd9 (line 483)
 translate ru prostitutealaric1_d5c1fcd9:
     # s "We...we could just go somewhere else if it's any trouble..."
-    s ""
+    s "We...we could just go somewhere else if it's any trouble..."
 
 # prostitutealaric1_10bfc314 (line 484)
 translate ru prostitutealaric1_10bfc314:
@@ -2406,47 +2406,47 @@ translate ru prostitutealaric1_10bfc314:
 # prostitutealaric1_0095049c (line 485)
 translate ru prostitutealaric1_0095049c:
     # dam "That dress of yours is worth a decent penny."
-    dam ""
+    dam "That dress of yours is worth a decent penny."
 
 # prostitutealaric1_de736710 (line 486)
 translate ru prostitutealaric1_de736710:
     # dam "You sleep on the streets in The Den, more than a few that will slit your throat just to take it off you."
-    dam ""
+    dam "You sleep on the streets in The Den, more than a few that will slit your throat just to take it off you."
 
 # prostitutealaric1_74ec9714 (line 487)
 translate ru prostitutealaric1_74ec9714:
     # dam "At least here you can sleep under a roof."
-    dam ""
+    dam "At least here you can sleep under a roof."
 
 # prostitutealaric1_0ab87427 (line 488)
 translate ru prostitutealaric1_0ab87427:
     # dam "A warm meal."
-    dam ""
+    dam "A warm meal."
 
 # prostitutealaric1_a77162ba (line 489)
 translate ru prostitutealaric1_a77162ba:
     # dam "Keep your dress."
-    dam ""
+    dam "Keep your dress."
 
 # prostitutealaric1_3c249f1d (line 490)
 translate ru prostitutealaric1_3c249f1d:
     # dam "And hell, even keep that pretty throat in one piece."
-    dam ""
+    dam "And hell, even keep that pretty throat in one piece."
 
 # prostitutealaric1_aa0441dc (line 491)
 translate ru prostitutealaric1_aa0441dc:
     # dam "Honestly, missy, I'm doin you and ya boy a favor. You keep refusin me, and I might just take offense and throw you both out."
-    dam ""
+    dam "Honestly, missy, I'm doin you and ya boy a favor. You keep refusin me, and I might just take offense and throw you both out."
 
 # prostitutealaric1_5c4e77a2 (line 492)
 translate ru prostitutealaric1_5c4e77a2:
     # dam "Insultin a man in his own home? That ain't no proper way to treat a host."
-    dam ""
+    dam "Insultin a man in his own home? That ain't no proper way to treat a host."
 
 # prostitutealaric1_efcc5ecc (line 493)
 translate ru prostitutealaric1_efcc5ecc:
     # s "No!"
-    s ""
+    s "No!"
 
 # prostitutealaric1_28066211 (line 494)
 translate ru prostitutealaric1_28066211:
@@ -2456,7 +2456,7 @@ translate ru prostitutealaric1_28066211:
 # prostitutealaric1_a61ade78 (line 495)
 translate ru prostitutealaric1_a61ade78:
     # s "No, we didn't...I didn't..."
-    s ""
+    s "No, we didn't...I didn't..."
 
 # prostitutealaric1_f2b2f8d7 (line 496)
 translate ru prostitutealaric1_f2b2f8d7:
@@ -2471,7 +2471,7 @@ translate ru prostitutealaric1_ae325f14:
 # prostitutealaric1_9ed322a8 (line 498)
 translate ru prostitutealaric1_9ed322a8:
     # s "I..."
-    s ""
+    s "I..."
 
 # prostitutealaric1_2bda376f (line 499)
 translate ru prostitutealaric1_2bda376f:
@@ -2481,7 +2481,7 @@ translate ru prostitutealaric1_2bda376f:
 # prostitutealaric1_c825c2a6 (line 500)
 translate ru prostitutealaric1_c825c2a6:
     # s "I...Okay..."
-    s ""
+    s "I...Okay..."
 
 # prostitutealaric1_c91fd204 (line 501)
 translate ru prostitutealaric1_c91fd204:
@@ -2491,7 +2491,7 @@ translate ru prostitutealaric1_c91fd204:
 # prostitutealaric1_dbc42988 (line 502)
 translate ru prostitutealaric1_dbc42988:
     # dam "Seems like we got a deal, missy."
-    dam ""
+    dam "Seems like we got a deal, missy."
 
 # prostitutealaric1_bc000733 (line 503)
 translate ru prostitutealaric1_bc000733:
@@ -2501,12 +2501,12 @@ translate ru prostitutealaric1_bc000733:
 # prostitutealaric1_64be3bde (line 504)
 translate ru prostitutealaric1_64be3bde:
     # dam "I should be thankin ya, boy."
-    dam ""
+    dam "I should be thankin ya, boy."
 
 # prostitutealaric1_6f9f72ba (line 505)
 translate ru prostitutealaric1_6f9f72ba:
     # dam "My night was gonna be pretty borin before you showed up with this piece."
-    dam ""
+    dam "My night was gonna be pretty borin before you showed up with this piece."
 
 # prostitutealaric1_0a2457d4 (line 506)
 translate ru prostitutealaric1_0a2457d4:
@@ -2516,12 +2516,12 @@ translate ru prostitutealaric1_0a2457d4:
 # prostitutealaric1_07b8c71f (line 507)
 translate ru prostitutealaric1_07b8c71f:
     # dam "Okay then."
-    dam ""
+    dam "Okay then."
 
 # prostitutealaric1_e356cbe0 (line 508)
 translate ru prostitutealaric1_e356cbe0:
     # dam "You, missy."
-    dam ""
+    dam "You, missy."
 
 # prostitutealaric1_7613196b (line 509)
 translate ru prostitutealaric1_7613196b:
@@ -2531,12 +2531,12 @@ translate ru prostitutealaric1_7613196b:
 # prostitutealaric1_604d4882 (line 510)
 translate ru prostitutealaric1_604d4882:
     # dam "You come with me, you'll be spendin ya night in my room."
-    dam ""
+    dam "You come with me, you'll be spendin ya night in my room."
 
 # prostitutealaric1_be3660bc (line 511)
 translate ru prostitutealaric1_be3660bc:
     # dam "You, boy..."
-    dam ""
+    dam "You, boy..."
 
 # prostitutealaric1_92ccd313 (line 512)
 translate ru prostitutealaric1_92ccd313:
@@ -2546,7 +2546,7 @@ translate ru prostitutealaric1_92ccd313:
 # prostitutealaric1_2f83d491 (line 513)
 translate ru prostitutealaric1_2f83d491:
     # dam "Go drink your tea. Sleep on the couch. Play with your dick or somethin, I really don't care."
-    dam ""
+    dam "Go drink your tea. Sleep on the couch. Play with your dick or somethin, I really don't care."
 
 # prostitutealaric1_384b0378 (line 514)
 translate ru prostitutealaric1_384b0378:

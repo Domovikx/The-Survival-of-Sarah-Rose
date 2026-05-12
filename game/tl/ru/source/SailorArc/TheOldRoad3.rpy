@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TheOldRoad3
-# Total blocks: 104
+# Total blocks: 98
 
 # TheOldRoad3_5aa90b4c (line 64051)
 translate ru TheOldRoad3_5aa90b4c:
@@ -81,7 +81,7 @@ translate ru TheOldRoad3_da7ff25c:
 # TheOldRoad3_a51decdb (line 64084)
 translate ru TheOldRoad3_a51decdb:
     # s "What is that?"
-    s ""
+    s "What is that?"
 
 # TheOldRoad3_15215c74 (line 64085)
 translate ru TheOldRoad3_15215c74:
@@ -91,12 +91,12 @@ translate ru TheOldRoad3_15215c74:
 # TheOldRoad3_cbace226 (line 64086)
 translate ru TheOldRoad3_cbace226:
     # sig "That's the bridge of the three sisters."
-    sig ""
+    sig "That's the bridge of the three sisters."
 
 # TheOldRoad3_e9298f7f (line 64087)
 translate ru TheOldRoad3_e9298f7f:
     # sig "Old. Older than maybe even these roads. The only way across the ravine."
-    sig ""
+    sig "Old. Older than maybe even these roads. The only way across the ravine."
 
 # TheOldRoad3_8c718ca0 (line 64088)
 translate ru TheOldRoad3_8c718ca0:
@@ -106,7 +106,7 @@ translate ru TheOldRoad3_8c718ca0:
 # TheOldRoad3_fb261af7 (line 64089)
 translate ru TheOldRoad3_fb261af7:
     # sig "Looks clear enough."
-    sig ""
+    sig "Looks clear enough."
 
 # TheOldRoad3_ddf00578 (line 64090)
 translate ru TheOldRoad3_ddf00578:
@@ -166,7 +166,7 @@ translate ru TheOldRoad3_7b0ca00e:
 # TheOldRoad3_cc4f30c8 (line 64107)
 translate ru TheOldRoad3_cc4f30c8:
     # s "What...what are they?"
-    s ""
+    s "What...what are they?"
 
 # TheOldRoad3_93eae7d1 (line 64108)
 translate ru TheOldRoad3_93eae7d1:
@@ -176,12 +176,12 @@ translate ru TheOldRoad3_93eae7d1:
 # TheOldRoad3_0b01c870 (line 64109)
 translate ru TheOldRoad3_0b01c870:
     # sig "Those are the three sisters."
-    sig ""
+    sig "Those are the three sisters."
 
 # TheOldRoad3_cc9af3aa (line 64110)
 translate ru TheOldRoad3_cc9af3aa:
     # s "But...what are they..."
-    s ""
+    s "But...what are they..."
 
 # TheOldRoad3_3d93333e (line 64111)
 translate ru TheOldRoad3_3d93333e:
@@ -191,27 +191,27 @@ translate ru TheOldRoad3_3d93333e:
 # TheOldRoad3_ff5b3d75 (line 64112)
 translate ru TheOldRoad3_ff5b3d75:
     # sig "Fuck if I know."
-    sig ""
+    sig "Fuck if I know."
 
 # TheOldRoad3_97e0be20 (line 64113)
 translate ru TheOldRoad3_97e0be20:
     # sig "People been asking that question for as long as I can remember."
-    sig ""
+    sig "People been asking that question for as long as I can remember."
 
 # TheOldRoad3_14433736 (line 64114)
 translate ru TheOldRoad3_14433736:
     # sig "Heard a hundred different stories but I don't know if a single one of em is true."
-    sig ""
+    sig "Heard a hundred different stories but I don't know if a single one of em is true."
 
 # TheOldRoad3_b1d2690c (line 64115)
 translate ru TheOldRoad3_b1d2690c:
     # sig "All I know is they were here before even the central kingdoms were."
-    sig ""
+    sig "All I know is they were here before even the central kingdoms were."
 
 # TheOldRoad3_a0a63d9f (line 64116)
 translate ru TheOldRoad3_a0a63d9f:
     # sig "Couldn't tell you who build them or why."
-    sig ""
+    sig "Couldn't tell you who build them or why."
 
 # TheOldRoad3_0361427d (line 64117)
 translate ru TheOldRoad3_0361427d:
@@ -251,7 +251,7 @@ translate ru TheOldRoad3_557332d1:
 # TheOldRoad3_8298d60d (line 64124)
 translate ru TheOldRoad3_8298d60d:
     # s "Why are we stopping?"
-    s ""
+    s "Why are we stopping?"
 
 # TheOldRoad3_f827fcbb (line 64125)
 translate ru TheOldRoad3_f827fcbb:
@@ -261,7 +261,7 @@ translate ru TheOldRoad3_f827fcbb:
 # TheOldRoad3_21daf7b2 (line 64126)
 translate ru TheOldRoad3_21daf7b2:
     # sig "Only for a moment. Just something I need to do."
-    sig ""
+    sig "Only for a moment. Just something I need to do."
 
 # TheOldRoad3_11b82009 (line 64127)
 translate ru TheOldRoad3_11b82009:
@@ -281,7 +281,7 @@ translate ru TheOldRoad3_debc204e:
 # TheOldRoad3_a14baba7 (line 64130)
 translate ru TheOldRoad3_a14baba7:
     # sak "Don't worry, he's not gonna jump."
-    sak ""
+    sak "Don't worry, he's not gonna jump."
 
 # TheOldRoad3_a01cdc68 (line 64131)
 translate ru TheOldRoad3_a01cdc68:
@@ -291,17 +291,17 @@ translate ru TheOldRoad3_a01cdc68:
 # TheOldRoad3_1cee9b44 (line 64132)
 translate ru TheOldRoad3_1cee9b44:
     # s "I wasn't thinking that."
-    s ""
+    s "I wasn't thinking that."
 
 # TheOldRoad3_26a95f65 (line 64133)
 translate ru TheOldRoad3_26a95f65:
     # sak "Aah."
-    sak ""
+    sak "Aah."
 
 # TheOldRoad3_c6505ccc (line 64134)
 translate ru TheOldRoad3_c6505ccc:
     # sak "But you're not curious what he's up to?"
-    sak ""
+    sak "But you're not curious what he's up to?"
 
 # TheOldRoad3_cbf614f1 (line 64135)
 translate ru TheOldRoad3_cbf614f1:
@@ -311,7 +311,7 @@ translate ru TheOldRoad3_cbf614f1:
 # TheOldRoad3_565839cf (line 64136)
 translate ru TheOldRoad3_565839cf:
     # s "What is he doing?"
-    s ""
+    s "What is he doing?"
 
 # TheOldRoad3_38c1e05f (line 64137)
 translate ru TheOldRoad3_38c1e05f:
@@ -321,12 +321,12 @@ translate ru TheOldRoad3_38c1e05f:
 # TheOldRoad3_157fec23 (line 64138)
 translate ru TheOldRoad3_157fec23:
     # sak "He always does this."
-    sak ""
+    sak "He always does this."
 
 # TheOldRoad3_0a94899b (line 64139)
 translate ru TheOldRoad3_0a94899b:
     # sak "Stops halfway on the bridge, walks over there, tosses a few coins down into the waters below."
-    sak ""
+    sak "Stops halfway on the bridge, walks over there, tosses a few coins down into the waters below."
 
 # TheOldRoad3_df3c152c (line 64140)
 translate ru TheOldRoad3_df3c152c:
@@ -336,12 +336,12 @@ translate ru TheOldRoad3_df3c152c:
 # TheOldRoad3_83534dea (line 64141)
 translate ru TheOldRoad3_83534dea:
     # s "But why?"
-    s ""
+    s "But why?"
 
 # TheOldRoad3_e22618bd (line 64142)
 translate ru TheOldRoad3_e22618bd:
     # sak "Well, if I tell you I'm pretty sure he's going to run me through with his sword, so I'd rather not."
-    sak ""
+    sak "Well, if I tell you I'm pretty sure he's going to run me through with his sword, so I'd rather not."
 
 # TheOldRoad3_a1c13ba7 (line 64143)
 translate ru TheOldRoad3_a1c13ba7:
@@ -351,7 +351,7 @@ translate ru TheOldRoad3_a1c13ba7:
 # TheOldRoad3_92fce781 (line 64144)
 translate ru TheOldRoad3_92fce781:
     # s "So you're just gonna annoy me?"
-    s ""
+    s "So you're just gonna annoy me?"
 
 # TheOldRoad3_169b6c11 (line 64145)
 translate ru TheOldRoad3_169b6c11:
@@ -361,12 +361,12 @@ translate ru TheOldRoad3_169b6c11:
 # TheOldRoad3_3f8cb9ed (line 64146)
 translate ru TheOldRoad3_3f8cb9ed:
     # sak "That's the idea."
-    sak ""
+    sak "That's the idea."
 
 # TheOldRoad3_88f87fbf (line 64147)
 translate ru TheOldRoad3_88f87fbf:
     # s "Seriously, can't you tell me?"
-    s ""
+    s "Seriously, can't you tell me?"
 
 # TheOldRoad3_c3e39439 (line 64148)
 translate ru TheOldRoad3_c3e39439:
@@ -376,17 +376,17 @@ translate ru TheOldRoad3_c3e39439:
 # TheOldRoad3_1279de98 (line 64149)
 translate ru TheOldRoad3_1279de98:
     # sak "Honestly, if you want to get the story out of him, your best bet is to get him drunk."
-    sak ""
+    sak "Honestly, if you want to get the story out of him, your best bet is to get him drunk."
 
 # TheOldRoad3_51117b6c (line 64150)
 translate ru TheOldRoad3_51117b6c:
     # sak "That's just about the only time he ever talks about himself."
-    sak ""
+    sak "That's just about the only time he ever talks about himself."
 
 # TheOldRoad3_2e5e50b4 (line 64151)
 translate ru TheOldRoad3_2e5e50b4:
     # sak "Ooh, I think he's coming back."
-    sak ""
+    sak "Ooh, I think he's coming back."
 
 # TheOldRoad3_77ef0c27 (line 64152)
 translate ru TheOldRoad3_77ef0c27:
@@ -411,7 +411,7 @@ translate ru TheOldRoad3_5557a8fa:
 # TheOldRoad3_e733ef12 (line 64156)
 translate ru TheOldRoad3_e733ef12:
     # s "What was that about?"
-    s ""
+    s "What was that about?"
 
 # TheOldRoad3_6bafb3c4 (line 64157)
 translate ru TheOldRoad3_6bafb3c4:
@@ -421,7 +421,7 @@ translate ru TheOldRoad3_6bafb3c4:
 # TheOldRoad3_6216c263 (line 64158)
 translate ru TheOldRoad3_6216c263:
     # sig "Forget it. Just the ritual of a superstitious old fool."
-    sig ""
+    sig "Forget it. Just the ritual of a superstitious old fool."
 
 # TheOldRoad3_61212617 (line 64159)
 translate ru TheOldRoad3_61212617:
@@ -451,7 +451,7 @@ translate ru TheOldRoad3_7f62f56e:
 # TheOldRoad3_43e6d2c5 (line 64170)
 translate ru TheOldRoad3_43e6d2c5:
     # sig "We'll make camp here before nightfall. I want us well rested before we move on."
-    sig ""
+    sig "We'll make camp here before nightfall. I want us well rested before we move on."
 
 # TheOldRoad3_c7ff80e5 (line 64171)
 translate ru TheOldRoad3_c7ff80e5:
@@ -492,34 +492,4 @@ translate ru TheOldRoad3_777969e0:
 translate ru TheOldRoad3_de1d2d3d:
     # "If he was drunk enough, he might tell her."
     ""
-
-# TheOldRoad3_973ef92c (line 64193)
-translate ru TheOldRoad3_973ef92c:
-    # "Get Sigmund drunk"
-    "Get Sigmund drunk" ""
-
-# TheOldRoad3_49676b99 (line 64268)
-translate ru TheOldRoad3_49676b99:
-    # "Sure, clear my head"
-    "Sure, clear my head" ""
-
-# TheOldRoad3_68a1a2db (line 64307)
-translate ru TheOldRoad3_68a1a2db:
-    # "Please, I'll do anything"
-    "Please, I'll do anything" ""
-
-# TheOldRoad3_510f4ab4 (line 64560)
-translate ru TheOldRoad3_510f4ab4:
-    # "Agree, let the matter rest"
-    "Agree, let the matter rest" ""
-
-# TheOldRoad3_908db59e (line 64575)
-translate ru TheOldRoad3_908db59e:
-    # "Leave me alone"
-    "Leave me alone" ""
-
-# TheOldRoad3_09869c91 (line 64586)
-translate ru TheOldRoad3_09869c91:
-    # "Leave it be"
-    "Leave it be" ""
 

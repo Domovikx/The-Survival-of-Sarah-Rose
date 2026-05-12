@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: GallowCreek1
-# Total blocks: 517
+# Total blocks: 509
 
 # GallowCreek1_387183ec (line 65950)
 translate ru GallowCreek1_387183ec:
@@ -146,7 +146,7 @@ translate ru GallowCreek1_2986c7ba:
 # GallowCreek1_b4c1b007 (line 65984)
 translate ru GallowCreek1_b4c1b007:
     # s "Hey there, my name is Sarah, uhm...is this Gallow's Creek?"
-    s ""
+    s "Hey there, my name is Sarah, uhm...is this Gallow's Creek?"
 
 # GallowCreek1_b0441b5f (line 65985)
 translate ru GallowCreek1_b0441b5f:
@@ -166,7 +166,7 @@ translate ru GallowCreek1_b5d9e50b:
 # GallowCreek1_36c70ebc (line 65988)
 translate ru GallowCreek1_36c70ebc:
     # s "Well...uhm...this might sound odd but I was brought here by a man named Sigmund."
-    s ""
+    s "Well...uhm...this might sound odd but I was brought here by a man named Sigmund."
 
 # GallowCreek1_57a4ccb8 (line 65989)
 translate ru GallowCreek1_57a4ccb8:
@@ -176,17 +176,17 @@ translate ru GallowCreek1_57a4ccb8:
 # GallowCreek1_c09b13e2 (line 65990)
 translate ru GallowCreek1_c09b13e2:
     # s "Yes, in a way."
-    s ""
+    s "Yes, in a way."
 
 # GallowCreek1_cbc2ec6e (line 65991)
 translate ru GallowCreek1_cbc2ec6e:
     # s "This is all...difficult to explain, but he said that this place was a good place, with good people."
-    s ""
+    s "This is all...difficult to explain, but he said that this place was a good place, with good people."
 
 # GallowCreek1_f8236b7e (line 65992)
 translate ru GallowCreek1_f8236b7e:
     # s "And that if I needed shelter, I could find it here. That's why I came."
-    s ""
+    s "And that if I needed shelter, I could find it here. That's why I came."
 
 # GallowCreek1_4ac1c4e2 (line 65993)
 translate ru GallowCreek1_4ac1c4e2:
@@ -206,7 +206,7 @@ translate ru GallowCreek1_a0b6c25a:
 # GallowCreek1_ee596a1a (line 65996)
 translate ru GallowCreek1_ee596a1a:
     # s "Shady?"
-    s ""
+    s "Shady?"
 
 # GallowCreek1_b3d2298c (line 65997)
 translate ru GallowCreek1_b3d2298c:
@@ -236,17 +236,17 @@ translate ru GallowCreek1_6637f5bf:
 # GallowCreek1_9e76ebba (line 66002)
 translate ru GallowCreek1_9e76ebba:
     # mar "The name's Marius, by the way."
-    mar ""
+    mar "The name's Marius, by the way."
 
 # GallowCreek1_8e220fbb (line 66003)
 translate ru GallowCreek1_8e220fbb:
     # s "Nice to meet you, Marius."
-    s ""
+    s "Nice to meet you, Marius."
 
 # GallowCreek1_e3970544 (line 66004)
 translate ru GallowCreek1_e3970544:
     # mar "Nice to meet you as well, Sarah was it?"
-    mar ""
+    mar "Nice to meet you as well, Sarah was it?"
 
 # GallowCreek1_c85bd2cb (line 66005)
 translate ru GallowCreek1_c85bd2cb:
@@ -256,17 +256,17 @@ translate ru GallowCreek1_c85bd2cb:
 # GallowCreek1_2d94fdb7 (line 66006)
 translate ru GallowCreek1_2d94fdb7:
     # mar "Well, luck's on your side I suppose, you came here just the right time."
-    mar ""
+    mar "Well, luck's on your side I suppose, you came here just the right time."
 
 # GallowCreek1_90d54003 (line 66007)
 translate ru GallowCreek1_90d54003:
     # s "How so?"
-    s ""
+    s "How so?"
 
 # GallowCreek1_89135e5a (line 66008)
 translate ru GallowCreek1_89135e5a:
     # mar "Harvest season has only just begun. Ain't never got enough hands for all the work that need be doing."
-    mar ""
+    mar "Harvest season has only just begun. Ain't never got enough hands for all the work that need be doing."
 
 # GallowCreek1_373e9626 (line 66009)
 translate ru GallowCreek1_373e9626:
@@ -276,12 +276,12 @@ translate ru GallowCreek1_373e9626:
 # GallowCreek1_db1399e0 (line 66010)
 translate ru GallowCreek1_db1399e0:
     # s "Really? That's great! If I can have shelter here, I'll be sure to do my part."
-    s ""
+    s "Really? That's great! If I can have shelter here, I'll be sure to do my part."
 
 # GallowCreek1_52e7098c (line 66011)
 translate ru GallowCreek1_52e7098c:
     # s "Though, I don't know too much about farming..."
-    s ""
+    s "Though, I don't know too much about farming..."
 
 # GallowCreek1_5acd69e6 (line 66012)
 translate ru GallowCreek1_5acd69e6:
@@ -296,7 +296,7 @@ translate ru GallowCreek1_faa13047:
 # GallowCreek1_b310ac98 (line 66014)
 translate ru GallowCreek1_b310ac98:
     # mar "Yeah, I didn't take you for much of a farmer, wearin that fancy dress of yours."
-    mar ""
+    mar "Yeah, I didn't take you for much of a farmer, wearin that fancy dress of yours."
 
 # GallowCreek1_f7f2ebfb (line 66015)
 translate ru GallowCreek1_f7f2ebfb:
@@ -306,7 +306,7 @@ translate ru GallowCreek1_f7f2ebfb:
 # GallowCreek1_03d72f31 (line 66016)
 translate ru GallowCreek1_03d72f31:
     # mar "Still, plenty of other work to be done. Basket weavin for takin in the harvest, feedin animals, all that sort of work. Some cookin too."
-    mar ""
+    mar "Still, plenty of other work to be done. Basket weavin for takin in the harvest, feedin animals, all that sort of work. Some cookin too."
 
 # GallowCreek1_235fed95 (line 66017)
 translate ru GallowCreek1_235fed95:
@@ -321,27 +321,27 @@ translate ru GallowCreek1_a361ca2c:
 # GallowCreek1_ea705089 (line 66019)
 translate ru GallowCreek1_ea705089:
     # mar "I got a place you can stay at. As good as any house you'll find here in town. Then we can see about you gettin a job."
-    mar ""
+    mar "I got a place you can stay at. As good as any house you'll find here in town. Then we can see about you gettin a job."
 
 # GallowCreek1_5b5a2244 (line 66020)
 translate ru GallowCreek1_5b5a2244:
     # s "Really? You'd do that for me?"
-    s ""
+    s "Really? You'd do that for me?"
 
 # GallowCreek1_76679e3f (line 66021)
 translate ru GallowCreek1_76679e3f:
     # mar "Ay, why not."
-    mar ""
+    mar "Ay, why not."
 
 # GallowCreek1_0f882aa5 (line 66022)
 translate ru GallowCreek1_0f882aa5:
     # mar "We might not have all too much here, but that never meant we turn down a stranger in need."
-    mar ""
+    mar "We might not have all too much here, but that never meant we turn down a stranger in need."
 
 # GallowCreek1_025e95db (line 66023)
 translate ru GallowCreek1_025e95db:
     # s "Thank you so much!"
-    s ""
+    s "Thank you so much!"
 
 # GallowCreek1_7f97b452 (line 66024)
 translate ru GallowCreek1_7f97b452:
@@ -351,7 +351,7 @@ translate ru GallowCreek1_7f97b452:
 # GallowCreek1_3a8ba0e6 (line 66025)
 translate ru GallowCreek1_3a8ba0e6:
     # mar "Follow along then."
-    mar ""
+    mar "Follow along then."
 
 # GallowCreek1_34ae397e (line 66026)
 translate ru GallowCreek1_34ae397e:
@@ -366,7 +366,7 @@ translate ru GallowCreek1_9388e478:
 # GallowCreek1_fe565aea (line 66028)
 translate ru GallowCreek1_fe565aea:
     # mar "That over there was the town square, but you might a figured that out."
-    mar ""
+    mar "That over there was the town square, but you might a figured that out."
 
 # GallowCreek1_f74cc27d (line 66029)
 translate ru GallowCreek1_f74cc27d:
@@ -376,7 +376,7 @@ translate ru GallowCreek1_f74cc27d:
 # GallowCreek1_c58e34e3 (line 66030)
 translate ru GallowCreek1_c58e34e3:
     # mar "We gather there for important decisions, or when we have a festival, that sort of thing."
-    mar ""
+    mar "We gather there for important decisions, or when we have a festival, that sort of thing."
 
 # GallowCreek1_75377901 (line 66031)
 translate ru GallowCreek1_75377901:
@@ -386,12 +386,12 @@ translate ru GallowCreek1_75377901:
 # GallowCreek1_34973d04 (line 66032)
 translate ru GallowCreek1_34973d04:
     # mar "Them fields are up first in the harvest season, then we all work together and go about a circle, till we bring in all the crops."
-    mar ""
+    mar "Them fields are up first in the harvest season, then we all work together and go about a circle, till we bring in all the crops."
 
 # GallowCreek1_cb3b0347 (line 66033)
 translate ru GallowCreek1_cb3b0347:
     # mar "Takes a good few weeks or so."
-    mar ""
+    mar "Takes a good few weeks or so."
 
 # GallowCreek1_79293f9a (line 66034)
 translate ru GallowCreek1_79293f9a:
@@ -401,17 +401,17 @@ translate ru GallowCreek1_79293f9a:
 # GallowCreek1_a52c0e90 (line 66035)
 translate ru GallowCreek1_a52c0e90:
     # mar "Some families over there, and in the other direction couple more."
-    mar ""
+    mar "Some families over there, and in the other direction couple more."
 
 # GallowCreek1_b212e046 (line 66036)
 translate ru GallowCreek1_b212e046:
     # mar "All in all, I figure we got some forty families that live up here in town."
-    mar ""
+    mar "All in all, I figure we got some forty families that live up here in town."
 
 # GallowCreek1_7c538d16 (line 66037)
 translate ru GallowCreek1_7c538d16:
     # s "Huh..."
-    s ""
+    s "Huh..."
 
 # GallowCreek1_8a0b13a0 (line 66038)
 translate ru GallowCreek1_8a0b13a0:
@@ -441,7 +441,7 @@ translate ru GallowCreek1_e23094a8:
 # GallowCreek1_57ef00de (line 66043)
 translate ru GallowCreek1_57ef00de:
     # mar "That's my home, right over there."
-    mar ""
+    mar "That's my home, right over there."
 
 # GallowCreek1_6a7343e1 (line 66044)
 translate ru GallowCreek1_6a7343e1:
@@ -456,7 +456,7 @@ translate ru GallowCreek1_bd9eee1a:
 # GallowCreek1_8cd7335f (line 66046)
 translate ru GallowCreek1_8cd7335f:
     # s "It looks amazing."
-    s ""
+    s "It looks amazing."
 
 # GallowCreek1_ccce9abc (line 66047)
 translate ru GallowCreek1_ccce9abc:
@@ -466,7 +466,7 @@ translate ru GallowCreek1_ccce9abc:
 # GallowCreek1_aa9b41af (line 66048)
 translate ru GallowCreek1_aa9b41af:
     # mar "No need to butter me up. I know it ain't much, but it's home."
-    mar ""
+    mar "No need to butter me up. I know it ain't much, but it's home."
 
 # GallowCreek1_81b2f10f (line 66049)
 translate ru GallowCreek1_81b2f10f:
@@ -526,7 +526,7 @@ translate ru GallowCreek1_e8dd9d63:
 # GallowCreek1_7a019196 (line 66065)
 translate ru GallowCreek1_7a019196:
     # mar "Sorry if it's a bit of a mess. I been meaning to clean up for a while now, but...you know, harvest season."
-    mar ""
+    mar "Sorry if it's a bit of a mess. I been meaning to clean up for a while now, but...you know, harvest season."
 
 # GallowCreek1_84738070 (line 66066)
 translate ru GallowCreek1_84738070:
@@ -536,7 +536,7 @@ translate ru GallowCreek1_84738070:
 # GallowCreek1_479ee208 (line 66067)
 translate ru GallowCreek1_479ee208:
     # s "No, don't worry...it's perfect."
-    s ""
+    s "No, don't worry...it's perfect."
 
 # GallowCreek1_488e21dd (line 66068)
 translate ru GallowCreek1_488e21dd:
@@ -556,7 +556,7 @@ translate ru GallowCreek1_e32eb713:
 # GallowCreek1_d5ebcd08 (line 66071)
 translate ru GallowCreek1_d5ebcd08:
     # mar "No worries, just me dad!"
-    mar ""
+    mar "No worries, just me dad!"
 
 # GallowCreek1_e24cc76f (line 66072)
 translate ru GallowCreek1_e24cc76f:
@@ -566,7 +566,7 @@ translate ru GallowCreek1_e24cc76f:
 # GallowCreek1_fbdceb0a (line 66073)
 translate ru GallowCreek1_fbdceb0a:
     # mar "Sorry, forgot to mention, I live here with my dad."
-    mar ""
+    mar "Sorry, forgot to mention, I live here with my dad."
 
 # GallowCreek1_24962e03 (line 66074)
 translate ru GallowCreek1_24962e03:
@@ -586,7 +586,7 @@ translate ru GallowCreek1_6858b13c:
 # GallowCreek1_402180a5 (line 66077)
 translate ru GallowCreek1_402180a5:
     # s "Hello, sir!"
-    s ""
+    s "Hello, sir!"
 
 # GallowCreek1_0f6e8208 (line 66078)
 translate ru GallowCreek1_0f6e8208:
@@ -606,7 +606,7 @@ translate ru GallowCreek1_d7f04c90:
 # GallowCreek1_a6dd6a4d (line 66081)
 translate ru GallowCreek1_a6dd6a4d:
     # mar "Sorry, dad. But it wasn't my fault. She just wandered into town."
-    mar ""
+    mar "Sorry, dad. But it wasn't my fault. She just wandered into town."
 
 # GallowCreek1_9c5441db (line 66082)
 translate ru GallowCreek1_9c5441db:
@@ -616,7 +616,7 @@ translate ru GallowCreek1_9c5441db:
 # GallowCreek1_68887db6 (line 66083)
 translate ru GallowCreek1_68887db6:
     # alf "Wonder into town did ya? Well, you can call me Alfred, and I see you already met my boy, Marius."
-    alf ""
+    alf "Wonder into town did ya? Well, you can call me Alfred, and I see you already met my boy, Marius."
 
 # GallowCreek1_aa814355 (line 66084)
 translate ru GallowCreek1_aa814355:
@@ -626,7 +626,7 @@ translate ru GallowCreek1_aa814355:
 # GallowCreek1_794b7ad5 (line 66085)
 translate ru GallowCreek1_794b7ad5:
     # s "He's been very welcoming so far!"
-    s ""
+    s "He's been very welcoming so far!"
 
 # GallowCreek1_d5958e09 (line 66086)
 translate ru GallowCreek1_d5958e09:
@@ -636,17 +636,17 @@ translate ru GallowCreek1_d5958e09:
 # GallowCreek1_2da9e4e4 (line 66087)
 translate ru GallowCreek1_2da9e4e4:
     # alf "Yeah, I bet he has been."
-    alf ""
+    alf "Yeah, I bet he has been."
 
 # GallowCreek1_ba6f451e (line 66088)
 translate ru GallowCreek1_ba6f451e:
     # mar "She's looking for shelter and I promised she could stay here with us."
-    mar ""
+    mar "She's looking for shelter and I promised she could stay here with us."
 
 # GallowCreek1_a2e5931d (line 66089)
 translate ru GallowCreek1_a2e5931d:
     # mar "If that's fine with you, of course, sir."
-    mar ""
+    mar "If that's fine with you, of course, sir."
 
 # GallowCreek1_edc67262 (line 66090)
 translate ru GallowCreek1_edc67262:
@@ -656,12 +656,12 @@ translate ru GallowCreek1_edc67262:
 # GallowCreek1_7576c66c (line 66091)
 translate ru GallowCreek1_7576c66c:
     # alf "Fine, she can stay."
-    alf ""
+    alf "Fine, she can stay."
 
 # GallowCreek1_f65dee05 (line 66092)
 translate ru GallowCreek1_f65dee05:
     # alf "But ain't nobody stayin here for nothin."
-    alf ""
+    alf "But ain't nobody stayin here for nothin."
 
 # GallowCreek1_7663e31e (line 66093)
 translate ru GallowCreek1_7663e31e:
@@ -671,7 +671,7 @@ translate ru GallowCreek1_7663e31e:
 # GallowCreek1_a4b7c714 (line 66094)
 translate ru GallowCreek1_a4b7c714:
     # alf "Maybe a womanly touch can do this place good. You clean up this mess and do the cook work, you can earn a spot."
-    alf ""
+    alf "Maybe a womanly touch can do this place good. You clean up this mess and do the cook work, you can earn a spot."
 
 # GallowCreek1_f5469ee4 (line 66095)
 translate ru GallowCreek1_f5469ee4:
@@ -681,7 +681,7 @@ translate ru GallowCreek1_f5469ee4:
 # GallowCreek1_45e42e40 (line 66096)
 translate ru GallowCreek1_45e42e40:
     # s "Thank you, sir! I will!"
-    s ""
+    s "Thank you, sir! I will!"
 
 # GallowCreek1_9a09c336 (line 66097)
 translate ru GallowCreek1_9a09c336:
@@ -696,22 +696,22 @@ translate ru GallowCreek1_4cb9f779:
 # GallowCreek1_5093c12e (line 66099)
 translate ru GallowCreek1_5093c12e:
     # alf "Mind yourself though!"
-    alf ""
+    alf "Mind yourself though!"
 
 # GallowCreek1_1041aed0 (line 66100)
 translate ru GallowCreek1_1041aed0:
     # alf "This place might look like a mess, but I know every knife and fork and what not."
-    alf ""
+    alf "This place might look like a mess, but I know every knife and fork and what not."
 
 # GallowCreek1_8ea5f9df (line 66101)
 translate ru GallowCreek1_8ea5f9df:
     # alf "If a thing goes missin, you'll be in trouble. And in this town, we don't do no complicated city justice."
-    alf ""
+    alf "If a thing goes missin, you'll be in trouble. And in this town, we don't do no complicated city justice."
 
 # GallowCreek1_b513c105 (line 66102)
 translate ru GallowCreek1_b513c105:
     # alf "Thieves get a lashing and get run out of town."
-    alf ""
+    alf "Thieves get a lashing and get run out of town."
 
 # GallowCreek1_f9e581ee (line 66103)
 translate ru GallowCreek1_f9e581ee:
@@ -721,12 +721,12 @@ translate ru GallowCreek1_f9e581ee:
 # GallowCreek1_c82dcb29 (line 66104)
 translate ru GallowCreek1_c82dcb29:
     # s "Of course sir, but I'm no thief, I promise!"
-    s ""
+    s "Of course sir, but I'm no thief, I promise!"
 
 # GallowCreek1_defab772 (line 66105)
 translate ru GallowCreek1_defab772:
     # alf "Best not be."
-    alf ""
+    alf "Best not be."
 
 # GallowCreek1_a90fab9b (line 66106)
 translate ru GallowCreek1_a90fab9b:
@@ -736,7 +736,7 @@ translate ru GallowCreek1_a90fab9b:
 # GallowCreek1_a9c84449 (line 66107)
 translate ru GallowCreek1_a9c84449:
     # alf "Go on now, boy. Get our guest settled and show her the chores."
-    alf ""
+    alf "Go on now, boy. Get our guest settled and show her the chores."
 
 # GallowCreek1_6580249d (line 66108)
 translate ru GallowCreek1_6580249d:
@@ -746,7 +746,7 @@ translate ru GallowCreek1_6580249d:
 # GallowCreek1_d16926e3 (line 66109)
 translate ru GallowCreek1_d16926e3:
     # mar "Of course, sir."
-    mar ""
+    mar "Of course, sir."
 
 # GallowCreek1_957cc5d6 (line 66110)
 translate ru GallowCreek1_957cc5d6:
@@ -756,12 +756,12 @@ translate ru GallowCreek1_957cc5d6:
 # GallowCreek1_b9469a71 (line 66111)
 translate ru GallowCreek1_b9469a71:
     # mar "Sorry bout my dad."
-    mar ""
+    mar "Sorry bout my dad."
 
 # GallowCreek1_ac3d04e2 (line 66112)
 translate ru GallowCreek1_ac3d04e2:
     # s "Oh, no worries. He seems nice."
-    s ""
+    s "Oh, no worries. He seems nice."
 
 # GallowCreek1_e54b6cd0 (line 66113)
 translate ru GallowCreek1_e54b6cd0:
@@ -771,7 +771,7 @@ translate ru GallowCreek1_e54b6cd0:
 # GallowCreek1_1c30fde7 (line 66114)
 translate ru GallowCreek1_1c30fde7:
     # mar "He's been cranky for a good few years now. Ever since mom died."
-    mar ""
+    mar "He's been cranky for a good few years now. Ever since mom died."
 
 # GallowCreek1_9dd2a6a7 (line 66115)
 translate ru GallowCreek1_9dd2a6a7:
@@ -781,7 +781,7 @@ translate ru GallowCreek1_9dd2a6a7:
 # GallowCreek1_46a55e40 (line 66116)
 translate ru GallowCreek1_46a55e40:
     # s "Oh, I didn't...I'm sorry."
-    s ""
+    s "Oh, I didn't...I'm sorry."
 
 # GallowCreek1_e4d02cbb (line 66117)
 translate ru GallowCreek1_e4d02cbb:
@@ -791,7 +791,7 @@ translate ru GallowCreek1_e4d02cbb:
 # GallowCreek1_738fcae6 (line 66118)
 translate ru GallowCreek1_738fcae6:
     # mar "It's fine. Been a while now. You learn to move on."
-    mar ""
+    mar "It's fine. Been a while now. You learn to move on."
 
 # GallowCreek1_ca9c255a (line 66119)
 translate ru GallowCreek1_ca9c255a:
@@ -801,7 +801,7 @@ translate ru GallowCreek1_ca9c255a:
 # GallowCreek1_2f30efbb (line 66120)
 translate ru GallowCreek1_2f30efbb:
     # s "I get it."
-    s ""
+    s "I get it."
 
 # GallowCreek1_112abe6e (line 66121)
 translate ru GallowCreek1_112abe6e:
@@ -811,12 +811,12 @@ translate ru GallowCreek1_112abe6e:
 # GallowCreek1_244ba3f7 (line 66122)
 translate ru GallowCreek1_244ba3f7:
     # mar "You do? Why is that?"
-    mar ""
+    mar "You do? Why is that?"
 
 # GallowCreek1_d894b156 (line 66123)
 translate ru GallowCreek1_d894b156:
     # s "I..."
-    s ""
+    s "I..."
 
 # GallowCreek1_00b7301f (line 66124)
 translate ru GallowCreek1_00b7301f:
@@ -826,12 +826,12 @@ translate ru GallowCreek1_00b7301f:
 # GallowCreek1_adb2c797 (line 66125)
 translate ru GallowCreek1_adb2c797:
     # s "It's nothing, maybe we can talk about that another time. I, uhh...you're dad told you to show me the chores, right?"
-    s ""
+    s "It's nothing, maybe we can talk about that another time. I, uhh...you're dad told you to show me the chores, right?"
 
 # GallowCreek1_0bf815f7 (line 66126)
 translate ru GallowCreek1_0bf815f7:
     # mar "Oh, yeah, I almost forgot."
-    mar ""
+    mar "Oh, yeah, I almost forgot."
 
 # GallowCreek1_c9e70a56 (line 66127)
 translate ru GallowCreek1_c9e70a56:
@@ -841,7 +841,7 @@ translate ru GallowCreek1_c9e70a56:
 # GallowCreek1_d38c8efe (line 66128)
 translate ru GallowCreek1_d38c8efe:
     # mar "This here is the stove. Neither me nor my dad can cook to save our lives. So if you could give it a try, that be amazin."
-    mar ""
+    mar "This here is the stove. Neither me nor my dad can cook to save our lives. So if you could give it a try, that be amazin."
 
 # GallowCreek1_6cc6327b (line 66129)
 translate ru GallowCreek1_6cc6327b:
@@ -861,12 +861,12 @@ translate ru GallowCreek1_92dad154:
 # GallowCreek1_8e2a29c4 (line 66132)
 translate ru GallowCreek1_8e2a29c4:
     # mar "The rest of the house, as you can see, is a mess."
-    mar ""
+    mar "The rest of the house, as you can see, is a mess."
 
 # GallowCreek1_17023989 (line 66133)
 translate ru GallowCreek1_17023989:
     # mar "So like my dad said, maybe you can clean it up a bit. You women got better eyes for that sort of stuff, no?"
-    mar ""
+    mar "So like my dad said, maybe you can clean it up a bit. You women got better eyes for that sort of stuff, no?"
 
 # GallowCreek1_7932bf6c (line 66134)
 translate ru GallowCreek1_7932bf6c:
@@ -886,12 +886,12 @@ translate ru GallowCreek1_6c52d9d7:
 # GallowCreek1_60316bf2 (line 66137)
 translate ru GallowCreek1_60316bf2:
     # s "Well...I guess I'll get started then."
-    s ""
+    s "Well...I guess I'll get started then."
 
 # GallowCreek1_1f05574f (line 66138)
 translate ru GallowCreek1_1f05574f:
     # mar "Wait, hang on a moment."
-    mar ""
+    mar "Wait, hang on a moment."
 
 # GallowCreek1_ea61bcd5 (line 66139)
 translate ru GallowCreek1_ea61bcd5:
@@ -901,7 +901,7 @@ translate ru GallowCreek1_ea61bcd5:
 # GallowCreek1_045b1e18 (line 66140)
 translate ru GallowCreek1_045b1e18:
     # mar "I mean, you don't have to...but..."
-    mar ""
+    mar "I mean, you don't have to...but..."
 
 # GallowCreek1_276fb07d (line 66141)
 translate ru GallowCreek1_276fb07d:
@@ -911,12 +911,12 @@ translate ru GallowCreek1_276fb07d:
 # GallowCreek1_3c51aed2 (line 66142)
 translate ru GallowCreek1_3c51aed2:
     # mar "I just figured, your dress is so expensive looking, you probably don't want to get it dirty with cleaning."
-    mar ""
+    mar "I just figured, your dress is so expensive looking, you probably don't want to get it dirty with cleaning."
 
 # GallowCreek1_70069d71 (line 66143)
 translate ru GallowCreek1_70069d71:
     # mar "This is one of my mom's old dresses, but I think it's the same size. Maybe you can use this?"
-    mar ""
+    mar "This is one of my mom's old dresses, but I think it's the same size. Maybe you can use this?"
 
 # GallowCreek1_47ed395c (line 66144)
 translate ru GallowCreek1_47ed395c:
@@ -931,7 +931,7 @@ translate ru GallowCreek1_232d56b5:
 # GallowCreek1_30146d06 (line 66146)
 translate ru GallowCreek1_30146d06:
     # s "Thank you, I will."
-    s ""
+    s "Thank you, I will."
 
 # GallowCreek1_eb333101 (line 66147)
 translate ru GallowCreek1_eb333101:
@@ -941,7 +941,7 @@ translate ru GallowCreek1_eb333101:
 # GallowCreek1_5ac20a6b (line 66148)
 translate ru GallowCreek1_5ac20a6b:
     # s "So..."
-    s ""
+    s "So..."
 
 # GallowCreek1_f42c6f8c (line 66149)
 translate ru GallowCreek1_f42c6f8c:
@@ -951,7 +951,7 @@ translate ru GallowCreek1_f42c6f8c:
 # GallowCreek1_7e8d69e7 (line 66150)
 translate ru GallowCreek1_7e8d69e7:
     # s "I mean..."
-    s ""
+    s "I mean..."
 
 # GallowCreek1_060607a0 (line 66151)
 translate ru GallowCreek1_060607a0:
@@ -961,12 +961,12 @@ translate ru GallowCreek1_060607a0:
 # GallowCreek1_7d2534ce (line 66152)
 translate ru GallowCreek1_7d2534ce:
     # s "Is there anywhere for me to get...changed?"
-    s ""
+    s "Is there anywhere for me to get...changed?"
 
 # GallowCreek1_a57a1d58 (line 66153)
 translate ru GallowCreek1_a57a1d58:
     # mar "Oh!!!"
-    mar ""
+    mar "Oh!!!"
 
 # GallowCreek1_198eb0be (line 66154)
 translate ru GallowCreek1_198eb0be:
@@ -976,7 +976,7 @@ translate ru GallowCreek1_198eb0be:
 # GallowCreek1_dcc89a75 (line 66155)
 translate ru GallowCreek1_dcc89a75:
     # mar "Of course, I'm so stupid!"
-    mar ""
+    mar "Of course, I'm so stupid!"
 
 # GallowCreek1_3ed9815b (line 66156)
 translate ru GallowCreek1_3ed9815b:
@@ -986,12 +986,12 @@ translate ru GallowCreek1_3ed9815b:
 # GallowCreek1_8c3da38f (line 66157)
 translate ru GallowCreek1_8c3da38f:
     # s "It's fine, just any room will do."
-    s ""
+    s "It's fine, just any room will do."
 
 # GallowCreek1_773bf8db (line 66158)
 translate ru GallowCreek1_773bf8db:
     # mar "Yeah, of course, no problem!"
-    mar ""
+    mar "Yeah, of course, no problem!"
 
 # GallowCreek1_59f51f9e (line 66159)
 translate ru GallowCreek1_59f51f9e:
@@ -1001,12 +1001,12 @@ translate ru GallowCreek1_59f51f9e:
 # GallowCreek1_de4d4c24 (line 66160)
 translate ru GallowCreek1_de4d4c24:
     # mar "That's the storage closet. You can get changed in there."
-    mar ""
+    mar "That's the storage closet. You can get changed in there."
 
 # GallowCreek1_b966f3d3 (line 66161)
 translate ru GallowCreek1_b966f3d3:
     # s "Thank you."
-    s ""
+    s "Thank you."
 
 # GallowCreek1_c793a3ec (line 66167)
 translate ru GallowCreek1_c793a3ec:
@@ -1101,7 +1101,7 @@ translate ru GallowCreek1_94073258:
 # GallowCreek1_8e93629a (line 66185)
 translate ru GallowCreek1_8e93629a:
     # s "How do I look?"
-    s ""
+    s "How do I look?"
 
 # GallowCreek1_9019f1da (line 66186)
 translate ru GallowCreek1_9019f1da:
@@ -1111,7 +1111,7 @@ translate ru GallowCreek1_9019f1da:
 # GallowCreek1_feebc7cf (line 66187)
 translate ru GallowCreek1_feebc7cf:
     # mar "It's..."
-    mar ""
+    mar "It's..."
 
 # GallowCreek1_854e912f (line 66188)
 translate ru GallowCreek1_854e912f:
@@ -1126,7 +1126,7 @@ translate ru GallowCreek1_90ba049d:
 # GallowCreek1_de026818 (line 66190)
 translate ru GallowCreek1_de026818:
     # mar "You...look amazing."
-    mar ""
+    mar "You...look amazing."
 
 # GallowCreek1_fbca05da (line 66191)
 translate ru GallowCreek1_fbca05da:
@@ -1136,7 +1136,7 @@ translate ru GallowCreek1_fbca05da:
 # GallowCreek1_372eac41 (line 66192)
 translate ru GallowCreek1_372eac41:
     # s "Thank you."
-    s ""
+    s "Thank you."
 
 # GallowCreek1_4acf4c63 (line 66198)
 translate ru GallowCreek1_4acf4c63:
@@ -1146,17 +1146,17 @@ translate ru GallowCreek1_4acf4c63:
 # GallowCreek1_cb920e9b (line 66199)
 translate ru GallowCreek1_cb920e9b:
     # s "Shall I get started then? I mean, it is almost time for dinner, right?"
-    s ""
+    s "Shall I get started then? I mean, it is almost time for dinner, right?"
 
 # GallowCreek1_3d6f4912 (line 66200)
 translate ru GallowCreek1_3d6f4912:
     # mar "Oh, yeah of course."
-    mar ""
+    mar "Oh, yeah of course."
 
 # GallowCreek1_5a6b67aa (line 66201)
 translate ru GallowCreek1_5a6b67aa:
     # mar "You can use whatever you need from the storage closet."
-    mar ""
+    mar "You can use whatever you need from the storage closet."
 
 # GallowCreek1_944833ed (line 66202)
 translate ru GallowCreek1_944833ed:
@@ -1231,7 +1231,7 @@ translate ru GallowCreek1_c9460a14:
 # GallowCreek1_8ca1293a (line 66221)
 translate ru GallowCreek1_8ca1293a:
     # mar "That smells amazing!"
-    mar ""
+    mar "That smells amazing!"
 
 # GallowCreek1_92c1c7cf (line 66222)
 translate ru GallowCreek1_92c1c7cf:
@@ -1241,7 +1241,7 @@ translate ru GallowCreek1_92c1c7cf:
 # GallowCreek1_be98d212 (line 66223)
 translate ru GallowCreek1_be98d212:
     # alf "Thank you, missy."
-    alf ""
+    alf "Thank you, missy."
 
 # GallowCreek1_440b9fda (line 66224)
 translate ru GallowCreek1_440b9fda:
@@ -1261,7 +1261,7 @@ translate ru GallowCreek1_16123f71:
 # GallowCreek1_7dd7158b (line 66227)
 translate ru GallowCreek1_7dd7158b:
     # alf "Wow! This is incredible!"
-    alf ""
+    alf "Wow! This is incredible!"
 
 # GallowCreek1_a2695fd7 (line 66228)
 translate ru GallowCreek1_a2695fd7:
@@ -1271,7 +1271,7 @@ translate ru GallowCreek1_a2695fd7:
 # GallowCreek1_23f8fd21 (line 66229)
 translate ru GallowCreek1_23f8fd21:
     # alf "I ain't had a meal like this in a long while!"
-    alf ""
+    alf "I ain't had a meal like this in a long while!"
 
 # GallowCreek1_7ff418b7 (line 66230)
 translate ru GallowCreek1_7ff418b7:
@@ -1281,12 +1281,12 @@ translate ru GallowCreek1_7ff418b7:
 # GallowCreek1_be4db8a2 (line 66231)
 translate ru GallowCreek1_be4db8a2:
     # mar "It's great, Sarah."
-    mar ""
+    mar "It's great, Sarah."
 
 # GallowCreek1_af58a2f0 (line 66232)
 translate ru GallowCreek1_af58a2f0:
     # s "Really?"
-    s ""
+    s "Really?"
 
 # GallowCreek1_7e8de425 (line 66233)
 translate ru GallowCreek1_7e8de425:
@@ -1501,7 +1501,7 @@ translate ru GallowCreek1_bf256925:
 # GallowCreek1_e65ca2a4 (line 66275)
 translate ru GallowCreek1_e65ca2a4:
     # s "Thank you again. You've been so kind."
-    s ""
+    s "Thank you again. You've been so kind."
 
 # GallowCreek1_c9e09770 (line 66276)
 translate ru GallowCreek1_c9e09770:
@@ -1511,12 +1511,12 @@ translate ru GallowCreek1_c9e09770:
 # GallowCreek1_bc4bc485 (line 66277)
 translate ru GallowCreek1_bc4bc485:
     # mar "Don't worry about it."
-    mar ""
+    mar "Don't worry about it."
 
 # GallowCreek1_a2049d9d (line 66278)
 translate ru GallowCreek1_a2049d9d:
     # mar "We look out for one another in this place. I promise."
-    mar ""
+    mar "We look out for one another in this place. I promise."
 
 # GallowCreek1_4e88ab67 (line 66279)
 translate ru GallowCreek1_4e88ab67:
@@ -1561,12 +1561,12 @@ translate ru GallowCreek1_65867675:
 # GallowCreek1_df0f1726 (line 66293)
 translate ru GallowCreek1_df0f1726:
     # s "Is something the matter, sir?"
-    s ""
+    s "Is something the matter, sir?"
 
 # GallowCreek1_321bc414 (line 66294)
 translate ru GallowCreek1_321bc414:
     # alf "Nothin at all, missy."
-    alf ""
+    alf "Nothin at all, missy."
 
 # GallowCreek1_6cd17175 (line 66295)
 translate ru GallowCreek1_6cd17175:
@@ -1586,7 +1586,7 @@ translate ru GallowCreek1_71396128:
 # GallowCreek1_93067c5a (line 66298)
 translate ru GallowCreek1_93067c5a:
     # alf "I just wanted to tell you what a pleasure it's been havin a proper lady under the roof again."
-    alf ""
+    alf "I just wanted to tell you what a pleasure it's been havin a proper lady under the roof again."
 
 # GallowCreek1_9c3d0321 (line 66299)
 translate ru GallowCreek1_9c3d0321:
@@ -1596,12 +1596,12 @@ translate ru GallowCreek1_9c3d0321:
 # GallowCreek1_3fcb9b93 (line 66300)
 translate ru GallowCreek1_3fcb9b93:
     # alf "Ain't been none but me and my boy for a good few years now."
-    alf ""
+    alf "Ain't been none but me and my boy for a good few years now."
 
 # GallowCreek1_3428feec (line 66301)
 translate ru GallowCreek1_3428feec:
     # alf "But to see you walkin about here, wearin my late wife's clothes..."
-    alf ""
+    alf "But to see you walkin about here, wearin my late wife's clothes..."
 
 # GallowCreek1_3030aaf8 (line 66302)
 translate ru GallowCreek1_3030aaf8:
@@ -1611,17 +1611,17 @@ translate ru GallowCreek1_3030aaf8:
 # GallowCreek1_f1f10472 (line 66303)
 translate ru GallowCreek1_f1f10472:
     # alf "Gosh, it's like she's walking around here, all the same."
-    alf ""
+    alf "Gosh, it's like she's walking around here, all the same."
 
 # GallowCreek1_331868a4 (line 66304)
 translate ru GallowCreek1_331868a4:
     # s "I'm glad you're happy that I'm here."
-    s ""
+    s "I'm glad you're happy that I'm here."
 
 # GallowCreek1_58150739 (line 66305)
 translate ru GallowCreek1_58150739:
     # s "It has been very kind of you to let me stay here."
-    s ""
+    s "It has been very kind of you to let me stay here."
 
 # GallowCreek1_f30c45bf (line 66306)
 translate ru GallowCreek1_f30c45bf:
@@ -1631,7 +1631,7 @@ translate ru GallowCreek1_f30c45bf:
 # GallowCreek1_279c3014 (line 66308)
 translate ru GallowCreek1_279c3014:
     # alf "Of course I'd let you stay under my roof."
-    alf ""
+    alf "Of course I'd let you stay under my roof."
 
 # GallowCreek1_e45f527c (line 66309)
 translate ru GallowCreek1_e45f527c:
@@ -1641,7 +1641,7 @@ translate ru GallowCreek1_e45f527c:
 # GallowCreek1_0802fe38 (line 66310)
 translate ru GallowCreek1_0802fe38:
     # alf "Gods, just look at you. You look like the spittin image of my wife when she was your age."
-    alf ""
+    alf "Gods, just look at you. You look like the spittin image of my wife when she was your age."
 
 # GallowCreek1_0f2435cc (line 66311)
 translate ru GallowCreek1_0f2435cc:
@@ -1652,16 +1652,6 @@ translate ru GallowCreek1_0f2435cc:
 translate ru GallowCreek1_3204cb24:
     # "His hand softly touched around her naked ankle."
     ""
-
-# GallowCreek1_c37904a8 (line 66315)
-translate ru GallowCreek1_c37904a8:
-    # "Stop Alfred"
-    "Stop Alfred" ""
-
-# GallowCreek1_370df7c0 (line 66341)
-translate ru GallowCreek1_370df7c0:
-    # "Say nothing"
-    "Say nothing" ""
 
 # GallowCreek1_25c90a09 (line 66476)
 translate ru GallowCreek1_25c90a09:
@@ -1701,7 +1691,7 @@ translate ru GallowCreek1_e5572ff8:
 # GallowCreek1_cc2e1d6f (line 66515)
 translate ru GallowCreek1_cc2e1d6f:
     # mar "Mornin, Sarah!"
-    mar ""
+    mar "Mornin, Sarah!"
 
 # GallowCreek1_2c5f6064 (line 66516)
 translate ru GallowCreek1_2c5f6064:
@@ -1736,12 +1726,12 @@ translate ru GallowCreek1_b37bbc97:
 # GallowCreek1_2b376d61 (line 66522)
 translate ru GallowCreek1_2b376d61:
     # mar "I hate to ask so quickly, but could you fetch me up some breakfast?"
-    mar ""
+    mar "I hate to ask so quickly, but could you fetch me up some breakfast?"
 
 # GallowCreek1_61601c5d (line 66523)
 translate ru GallowCreek1_61601c5d:
     # mar "Harvest season, so work starts early and goes on long."
-    mar ""
+    mar "Harvest season, so work starts early and goes on long."
 
 # GallowCreek1_648fb5b5 (line 66524)
 translate ru GallowCreek1_648fb5b5:
@@ -1751,7 +1741,7 @@ translate ru GallowCreek1_648fb5b5:
 # GallowCreek1_014f5dd8 (line 66525)
 translate ru GallowCreek1_014f5dd8:
     # s "Of course!"
-    s ""
+    s "Of course!"
 
 # GallowCreek1_3058f98a (line 66526)
 translate ru GallowCreek1_3058f98a:
@@ -1771,7 +1761,7 @@ translate ru GallowCreek1_37765dea:
 # GallowCreek1_a79b6f9e (line 66529)
 translate ru GallowCreek1_a79b6f9e:
     # mar "Wow!"
-    mar ""
+    mar "Wow!"
 
 # GallowCreek1_903dd983 (line 66530)
 translate ru GallowCreek1_903dd983:
@@ -1781,7 +1771,7 @@ translate ru GallowCreek1_903dd983:
 # GallowCreek1_05a2d053 (line 66531)
 translate ru GallowCreek1_05a2d053:
     # mar "This is even better than yesterday! You're a natural!"
-    mar ""
+    mar "This is even better than yesterday! You're a natural!"
 
 # GallowCreek1_55bfc137 (line 66532)
 translate ru GallowCreek1_55bfc137:
@@ -1791,7 +1781,7 @@ translate ru GallowCreek1_55bfc137:
 # GallowCreek1_faf5d31d (line 66533)
 translate ru GallowCreek1_faf5d31d:
     # alf "Finally, some good food in this house."
-    alf ""
+    alf "Finally, some good food in this house."
 
 # GallowCreek1_468cc2d5 (line 66534)
 translate ru GallowCreek1_468cc2d5:
@@ -1806,12 +1796,12 @@ translate ru GallowCreek1_2d3573e4:
 # GallowCreek1_490a5f9d (line 66536)
 translate ru GallowCreek1_490a5f9d:
     # mar "Well, I'll be off then."
-    mar ""
+    mar "Well, I'll be off then."
 
 # GallowCreek1_8937f054 (line 66537)
 translate ru GallowCreek1_8937f054:
     # s "Is there still a lot of work to do out in the field?"
-    s ""
+    s "Is there still a lot of work to do out in the field?"
 
 # GallowCreek1_1cfe3b38 (line 66538)
 translate ru GallowCreek1_1cfe3b38:
@@ -1821,17 +1811,17 @@ translate ru GallowCreek1_1cfe3b38:
 # GallowCreek1_bbc47d2e (line 66539)
 translate ru GallowCreek1_bbc47d2e:
     # mar "Gonna be at least a week more of this."
-    mar ""
+    mar "Gonna be at least a week more of this."
 
 # GallowCreek1_45bda7ae (line 66540)
 translate ru GallowCreek1_45bda7ae:
     # mar "But after harvest time, it always slows down a bit."
-    mar ""
+    mar "But after harvest time, it always slows down a bit."
 
 # GallowCreek1_847a7e38 (line 66541)
 translate ru GallowCreek1_847a7e38:
     # mar "Maybe then I can show you the town a bit more?"
-    mar ""
+    mar "Maybe then I can show you the town a bit more?"
 
 # GallowCreek1_86bd45bf (line 66542)
 translate ru GallowCreek1_86bd45bf:
@@ -1846,12 +1836,12 @@ translate ru GallowCreek1_0aadd335:
 # GallowCreek1_feafd64d (line 66544)
 translate ru GallowCreek1_feafd64d:
     # s "I'd like that."
-    s ""
+    s "I'd like that."
 
 # GallowCreek1_89db2949 (line 66545)
 translate ru GallowCreek1_89db2949:
     # mar "Great. Until then, just help my dad out around the house, he knows what needs to be done."
-    mar ""
+    mar "Great. Until then, just help my dad out around the house, he knows what needs to be done."
 
 # GallowCreek1_3f6a44ae (line 66546)
 translate ru GallowCreek1_3f6a44ae:
@@ -1866,7 +1856,7 @@ translate ru GallowCreek1_7e05b826:
 # GallowCreek1_58324b8b (line 66553)
 translate ru GallowCreek1_58324b8b:
     # alf "That's right, you get on now lad. Ain't nothin worse than someone whose late or lazy."
-    alf ""
+    alf "That's right, you get on now lad. Ain't nothin worse than someone whose late or lazy."
 
 # GallowCreek1_ebddcc2e (line 66554)
 translate ru GallowCreek1_ebddcc2e:
@@ -1891,12 +1881,12 @@ translate ru GallowCreek1_a516aa1a:
 # GallowCreek1_56aca345 (line 66558)
 translate ru GallowCreek1_56aca345:
     # alf "Well, good work on the breakfast."
-    alf ""
+    alf "Well, good work on the breakfast."
 
 # GallowCreek1_092d4139 (line 66559)
 translate ru GallowCreek1_092d4139:
     # alf "You go on and clean those dishes. Got some laundry that need doin after."
-    alf ""
+    alf "You go on and clean those dishes. Got some laundry that need doin after."
 
 # GallowCreek1_ab1645c4 (line 66560)
 translate ru GallowCreek1_ab1645c4:
@@ -2076,12 +2066,12 @@ translate ru GallowCreek1_6a0077d4:
 # GallowCreek1_8ac437ce (line 66601)
 translate ru GallowCreek1_8ac437ce:
     # s "Oh..."
-    s ""
+    s "Oh..."
 
 # GallowCreek1_b117843d (line 66602)
 translate ru GallowCreek1_b117843d:
     # s "Hello, sir."
-    s ""
+    s "Hello, sir."
 
 # GallowCreek1_4ec5d4ef (line 66603)
 translate ru GallowCreek1_4ec5d4ef:
@@ -2096,7 +2086,7 @@ translate ru GallowCreek1_cd958ade:
 # GallowCreek1_5ddcea75 (line 66605)
 translate ru GallowCreek1_5ddcea75:
     # alf "Work's done, I see."
-    alf ""
+    alf "Work's done, I see."
 
 # GallowCreek1_b5cf605e (line 66606)
 translate ru GallowCreek1_b5cf605e:
@@ -2107,16 +2097,6 @@ translate ru GallowCreek1_b5cf605e:
 translate ru GallowCreek1_f89db63d:
     # "The facts of the night before still lingered between them, poisoning any conversation they could have with this awkwardness."
     ""
-
-# GallowCreek1_a3dfb0f1 (line 66651)
-translate ru GallowCreek1_a3dfb0f1:
-    # "You will tell Marius everything"
-    "You will tell Marius everything" ""
-
-# GallowCreek1_03252d23 (line 66665)
-translate ru GallowCreek1_03252d23:
-    # "I won't tell Marius anything"
-    "I won't tell Marius anything" ""
 
 # GallowCreek1_ee781568 (line 66965)
 translate ru GallowCreek1_ee781568:
@@ -2146,7 +2126,7 @@ translate ru GallowCreek1_133e2435:
 # GallowCreek1_6c0489ec (line 66975)
 translate ru GallowCreek1_6c0489ec:
     # s "Hey!"
-    s ""
+    s "Hey!"
 
 # GallowCreek1_ea1e5416 (line 66976)
 translate ru GallowCreek1_ea1e5416:
@@ -2156,12 +2136,12 @@ translate ru GallowCreek1_ea1e5416:
 # GallowCreek1_eb24815c (line 66977)
 translate ru GallowCreek1_eb24815c:
     # mar "Sorry I was gone so long."
-    mar ""
+    mar "Sorry I was gone so long."
 
 # GallowCreek1_5a64c669 (line 66978)
 translate ru GallowCreek1_5a64c669:
     # mar "Hard day."
-    mar ""
+    mar "Hard day."
 
 # GallowCreek1_930e98bc (line 66979)
 translate ru GallowCreek1_930e98bc:
@@ -2176,7 +2156,7 @@ translate ru GallowCreek1_93c56dff:
 # GallowCreek1_6114e670 (line 66981)
 translate ru GallowCreek1_6114e670:
     # s "You look exhausted."
-    s ""
+    s "You look exhausted."
 
 # GallowCreek1_1ab15565 (line 66982)
 translate ru GallowCreek1_1ab15565:
@@ -2191,17 +2171,17 @@ translate ru GallowCreek1_4e7fb41c:
 # GallowCreek1_f620221c (line 66984)
 translate ru GallowCreek1_f620221c:
     # mar "Yeah. We took in five fields today."
-    mar ""
+    mar "Yeah. We took in five fields today."
 
 # GallowCreek1_b26a7aab (line 66985)
 translate ru GallowCreek1_b26a7aab:
     # mar "Should have been one fewer, but they're having talks of the weather changing up soon."
-    mar ""
+    mar "Should have been one fewer, but they're having talks of the weather changing up soon."
 
 # GallowCreek1_6cc78c8c (line 66986)
 translate ru GallowCreek1_6cc78c8c:
     # mar "Everyone wants to bring in the harvest as soon as possible."
-    mar ""
+    mar "Everyone wants to bring in the harvest as soon as possible."
 
 # GallowCreek1_84406ada (line 66987)
 translate ru GallowCreek1_84406ada:
@@ -2211,7 +2191,7 @@ translate ru GallowCreek1_84406ada:
 # GallowCreek1_d832dbb3 (line 66988)
 translate ru GallowCreek1_d832dbb3:
     # s "Really? You think the weather will change soon?"
-    s ""
+    s "Really? You think the weather will change soon?"
 
 # GallowCreek1_fa8809b7 (line 66989)
 translate ru GallowCreek1_fa8809b7:
@@ -2221,17 +2201,17 @@ translate ru GallowCreek1_fa8809b7:
 # GallowCreek1_1793e560 (line 66990)
 translate ru GallowCreek1_1793e560:
     # mar "Honest, I doubt it. But now the idea is out, so everyone is spooked."
-    mar ""
+    mar "Honest, I doubt it. But now the idea is out, so everyone is spooked."
 
 # GallowCreek1_fe21f598 (line 66991)
 translate ru GallowCreek1_fe21f598:
     # mar "And then nobody wants to be last to haul in their harvest, so we all have to pull double shifts."
-    mar ""
+    mar "And then nobody wants to be last to haul in their harvest, so we all have to pull double shifts."
 
 # GallowCreek1_f06d1f38 (line 66992)
 translate ru GallowCreek1_f06d1f38:
     # mar "It is what it is, I suppose."
-    mar ""
+    mar "It is what it is, I suppose."
 
 # GallowCreek1_980cddbf (line 66993)
 translate ru GallowCreek1_980cddbf:
@@ -2261,7 +2241,7 @@ translate ru GallowCreek1_c1c53b75:
 # GallowCreek1_4e3e3329 (line 66998)
 translate ru GallowCreek1_4e3e3329:
     # alf "Boy! Bring in the water while you're at it. We'll need it for the cooking."
-    alf ""
+    alf "Boy! Bring in the water while you're at it. We'll need it for the cooking."
 
 # GallowCreek1_47325368 (line 66999)
 translate ru GallowCreek1_47325368:
@@ -2286,17 +2266,17 @@ translate ru GallowCreek1_41de5265:
 # GallowCreek1_b650a930 (line 67003)
 translate ru GallowCreek1_b650a930:
     # mar "Hate to ask this again so soon, Sarah, but..."
-    mar ""
+    mar "Hate to ask this again so soon, Sarah, but..."
 
 # GallowCreek1_01800ac7 (line 67004)
 translate ru GallowCreek1_01800ac7:
     # s "Yeah?"
-    s ""
+    s "Yeah?"
 
 # GallowCreek1_2beffacf (line 67005)
 translate ru GallowCreek1_2beffacf:
     # mar "I barely ate a bite all day...I'm starving."
-    mar ""
+    mar "I barely ate a bite all day...I'm starving."
 
 # GallowCreek1_3b1bd7d0 (line 67006)
 translate ru GallowCreek1_3b1bd7d0:
@@ -2306,7 +2286,7 @@ translate ru GallowCreek1_3b1bd7d0:
 # GallowCreek1_a8eacbd4 (line 67012)
 translate ru GallowCreek1_a8eacbd4:
     # s "Of course! I'll get right on it."
-    s ""
+    s "Of course! I'll get right on it."
 
 # GallowCreek1_cf7350f2 (line 67013)
 translate ru GallowCreek1_cf7350f2:
@@ -2366,7 +2346,7 @@ translate ru GallowCreek1_25d5f948:
 # GallowCreek1_c35a39ba (line 67036)
 translate ru GallowCreek1_c35a39ba:
     # mar "It's amazing!"
-    mar ""
+    mar "It's amazing!"
 
 # GallowCreek1_21309c32 (line 67037)
 translate ru GallowCreek1_21309c32:
@@ -2376,7 +2356,7 @@ translate ru GallowCreek1_21309c32:
 # GallowCreek1_a3a5ada9 (line 67038)
 translate ru GallowCreek1_a3a5ada9:
     # alf "You're a great cook."
-    alf ""
+    alf "You're a great cook."
 
 # GallowCreek1_373dfb02 (line 67039)
 translate ru GallowCreek1_373dfb02:
@@ -2386,7 +2366,7 @@ translate ru GallowCreek1_373dfb02:
 # GallowCreek1_ed45caeb (line 67040)
 translate ru GallowCreek1_ed45caeb:
     # s "Thank you. I'm just glad I can be useful around here."
-    s ""
+    s "Thank you. I'm just glad I can be useful around here."
 
 # GallowCreek1_85d165b0 (line 67046)
 translate ru GallowCreek1_85d165b0:
@@ -2416,12 +2396,12 @@ translate ru GallowCreek1_6233b31c:
 # GallowCreek1_a8888bfb (line 67051)
 translate ru GallowCreek1_a8888bfb:
     # s "Wow..."
-    s ""
+    s "Wow..."
 
 # GallowCreek1_233c2af2 (line 67052)
 translate ru GallowCreek1_233c2af2:
     # s "You're a very hard worker."
-    s ""
+    s "You're a very hard worker."
 
 # GallowCreek1_697757fb (line 67053)
 translate ru GallowCreek1_697757fb:
@@ -2431,12 +2411,12 @@ translate ru GallowCreek1_697757fb:
 # GallowCreek1_9868863f (line 67054)
 translate ru GallowCreek1_9868863f:
     # mar "Thanks."
-    mar ""
+    mar "Thanks."
 
 # GallowCreek1_c6f9887c (line 67055)
 translate ru GallowCreek1_c6f9887c:
     # mar "I have to be. I gotta provide for my dad as well."
-    mar ""
+    mar "I have to be. I gotta provide for my dad as well."
 
 # GallowCreek1_f38fdbdc (line 67056)
 translate ru GallowCreek1_f38fdbdc:
@@ -2446,7 +2426,7 @@ translate ru GallowCreek1_f38fdbdc:
 # GallowCreek1_c16a9c72 (line 67057)
 translate ru GallowCreek1_c16a9c72:
     # s "Really?"
-    s ""
+    s "Really?"
 
 # GallowCreek1_9f3615f8 (line 67058)
 translate ru GallowCreek1_9f3615f8:
@@ -2456,12 +2436,12 @@ translate ru GallowCreek1_9f3615f8:
 # GallowCreek1_b3f0240f (line 67059)
 translate ru GallowCreek1_b3f0240f:
     # mar "Yeah. When I was growing up, he worked these same shifts, day in and day out."
-    mar ""
+    mar "Yeah. When I was growing up, he worked these same shifts, day in and day out."
 
 # GallowCreek1_355854ca (line 67060)
 translate ru GallowCreek1_355854ca:
     # mar "Least a good son can do is take care of his father in old age."
-    mar ""
+    mar "Least a good son can do is take care of his father in old age."
 
 # GallowCreek1_3a5712e1 (line 67061)
 translate ru GallowCreek1_3a5712e1:
@@ -2486,7 +2466,7 @@ translate ru GallowCreek1_0a760089:
 # GallowCreek1_357c57aa (line 67065)
 translate ru GallowCreek1_357c57aa:
     # s "You're a good son."
-    s ""
+    s "You're a good son."
 
 # GallowCreek1_61537ce6 (line 67066)
 translate ru GallowCreek1_61537ce6:
@@ -2496,7 +2476,7 @@ translate ru GallowCreek1_61537ce6:
 # GallowCreek1_6db489a8 (line 67067)
 translate ru GallowCreek1_6db489a8:
     # alf "He is."
-    alf ""
+    alf "He is."
 
 # GallowCreek1_8039760c (line 67068)
 translate ru GallowCreek1_8039760c:
@@ -2506,12 +2486,12 @@ translate ru GallowCreek1_8039760c:
 # GallowCreek1_7653ff50 (line 67069)
 translate ru GallowCreek1_7653ff50:
     # mar "Gosh, I'm just taking over the entire conversation."
-    mar ""
+    mar "Gosh, I'm just taking over the entire conversation."
 
 # GallowCreek1_33966707 (line 67070)
 translate ru GallowCreek1_33966707:
     # mar "What about you?"
-    mar ""
+    mar "What about you?"
 
 # GallowCreek1_66b67690 (line 67071)
 translate ru GallowCreek1_66b67690:
@@ -2521,17 +2501,17 @@ translate ru GallowCreek1_66b67690:
 # GallowCreek1_3821bf7a (line 67072)
 translate ru GallowCreek1_3821bf7a:
     # s "I...me?"
-    s ""
+    s "I...me?"
 
 # GallowCreek1_7b88658b (line 67073)
 translate ru GallowCreek1_7b88658b:
     # mar "Yeah."
-    mar ""
+    mar "Yeah."
 
 # GallowCreek1_310bf485 (line 67074)
 translate ru GallowCreek1_310bf485:
     # mar "You and my dad getting along alright? I know he can be a bit demanding."
-    mar ""
+    mar "You and my dad getting along alright? I know he can be a bit demanding."
 
 # GallowCreek1_37f34adc (line 67075)
 translate ru GallowCreek1_37f34adc:
@@ -2567,24 +2547,4 @@ translate ru GallowCreek1_13581a57:
 translate ru GallowCreek1_1fbf40b8:
     # "All of it happened in the blink of an eye."
     ""
-
-# GallowCreek1_84f9fe52 (line 67087)
-translate ru GallowCreek1_84f9fe52:
-    # "Tell Marius the truth of what happened"
-    "Tell Marius the truth of what happened" ""
-
-# GallowCreek1_b79ed93d (line 67265)
-translate ru GallowCreek1_b79ed93d:
-    # "Run away"
-    "Run away" ""
-
-# GallowCreek1_488c4039 (line 67291)
-translate ru GallowCreek1_488c4039:
-    # "Accept the marriage"
-    "Accept the marriage" ""
-
-# GallowCreek1_cf7e584f (line 67480)
-translate ru GallowCreek1_cf7e584f:
-    # "Lie to Marius about his father"
-    "Lie to Marius about his father" ""
 

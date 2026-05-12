@@ -101,7 +101,7 @@ translate ru WarriorPath3_f8207c90:
 # WarriorPath3_67c7d4ae (line 39252)
 translate ru WarriorPath3_67c7d4ae:
     # shah "I see your mercenary lapdogs are here."
-    shah ""
+    shah "I see your mercenary lapdogs are here."
 
 # WarriorPath3_bd9babd4 (line 39253)
 translate ru WarriorPath3_bd9babd4:
@@ -116,7 +116,7 @@ translate ru WarriorPath3_397a660c:
 # WarriorPath3_11ea972f (line 39255)
 translate ru WarriorPath3_11ea972f:
     # shah "A worm like you won't make me cower."
-    shah ""
+    shah "A worm like you won't make me cower."
 
 # WarriorPath3_f6166862 (line 39256)
 translate ru WarriorPath3_f6166862:
@@ -141,27 +141,27 @@ translate ru WarriorPath3_f697b0b3:
 # WarriorPath3_04b01422 (line 39260)
 translate ru WarriorPath3_04b01422:
     # s "There's something wrong."
-    s ""
+    s "There's something wrong."
 
 # WarriorPath3_dfd3e743 (line 39261)
 translate ru WarriorPath3_dfd3e743:
     # vae "What do you mean?"
-    vae ""
+    vae "What do you mean?"
 
 # WarriorPath3_d7e44891 (line 39262)
 translate ru WarriorPath3_d7e44891:
     # s "Why...why is he out here?"
-    s ""
+    s "Why...why is he out here?"
 
 # WarriorPath3_7803ea9e (line 39263)
 translate ru WarriorPath3_7803ea9e:
     # vae "To surrender, what else?"
-    vae ""
+    vae "To surrender, what else?"
 
 # WarriorPath3_da9298fe (line 39264)
 translate ru WarriorPath3_da9298fe:
     # s "Does he look like someone that is about to surrender?"
-    s ""
+    s "Does he look like someone that is about to surrender?"
 
 # WarriorPath3_59a75233 (line 39265)
 translate ru WarriorPath3_59a75233:
@@ -186,7 +186,7 @@ translate ru WarriorPath3_4f9b125f:
 # WarriorPath3_d5a406bd (line 39269)
 translate ru WarriorPath3_d5a406bd:
     # shah "Not all my allies have abandoned my house."
-    shah ""
+    shah "Not all my allies have abandoned my house."
 
 # WarriorPath3_bd4f14e0 (line 39270)
 translate ru WarriorPath3_bd4f14e0:
@@ -236,12 +236,12 @@ translate ru WarriorPath3_cf440de0:
 # WarriorPath3_f21d732b (line 39279)
 translate ru WarriorPath3_f21d732b:
     # shah "My family hails back centuries. Millenia."
-    shah ""
+    shah "My family hails back centuries. Millenia."
 
 # WarriorPath3_9a4c3de7 (line 39280)
 translate ru WarriorPath3_9a4c3de7:
     # shah "My allies on this side have failed me, but my allies on the other side won't!"
-    shah ""
+    shah "My allies on this side have failed me, but my allies on the other side won't!"
 
 # WarriorPath3_78a5c654 (line 39281)
 translate ru WarriorPath3_78a5c654:
@@ -356,7 +356,7 @@ translate ru WarriorPath3_0ef150ac:
 # WarriorPath3_0994f45c (line 39318)
 translate ru WarriorPath3_0994f45c:
     # s "We need to leave!"
-    s ""
+    s "We need to leave!"
 
 # WarriorPath3_c78982bb (line 39319)
 translate ru WarriorPath3_c78982bb:
@@ -371,12 +371,12 @@ translate ru WarriorPath3_a3d96877:
 # WarriorPath3_4a669e65 (line 39321)
 translate ru WarriorPath3_4a669e65:
     # s "Now! Or that thing is gonna kill us all!"
-    s ""
+    s "Now! Or that thing is gonna kill us all!"
 
 # WarriorPath3_c34c8b93 (line 39322)
 translate ru WarriorPath3_c34c8b93:
     # vae "Yes...yes! Run!"
-    vae ""
+    vae "Yes...yes! Run!"
 
 # WarriorPath3_1beea016 (line 39323)
 translate ru WarriorPath3_1beea016:
@@ -526,17 +526,17 @@ translate ru WarriorPath3_3eaa26d0:
 # WarriorPath3_2905c042 (line 39352)
 translate ru WarriorPath3_2905c042:
     # s "Stay here!"
-    s ""
+    s "Stay here!"
 
 # WarriorPath3_c42b9136 (line 39353)
 translate ru WarriorPath3_c42b9136:
     # vae "What are you going to do?"
-    vae ""
+    vae "What are you going to do?"
 
 # WarriorPath3_bc373b4e (line 39354)
 translate ru WarriorPath3_bc373b4e:
     # s "Just stay here and no matter what, don't try to make a run for the door."
-    s ""
+    s "Just stay here and no matter what, don't try to make a run for the door."
 
 # WarriorPath3_c78e065b (line 39363)
 translate ru WarriorPath3_c78e065b:
@@ -566,7 +566,7 @@ translate ru WarriorPath3_e41cb64d:
 # WarriorPath3_9ee4217e (line 39375)
 translate ru WarriorPath3_9ee4217e:
     # s "Come!"
-    s ""
+    s "Come!"
 
 # WarriorPath3_a497cb38 (line 39376)
 translate ru WarriorPath3_a497cb38:

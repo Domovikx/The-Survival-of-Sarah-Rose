@@ -66,7 +66,7 @@ translate ru MagePath_d06721ba:
 # MagePath_2409ffbd (line 69607)
 translate ru MagePath_2409ffbd:
     # x "What is going on here?"
-    x ""
+    x "What is going on here?"
 
 # MagePath_eacd9112 (line 69608)
 translate ru MagePath_eacd9112:
@@ -81,7 +81,7 @@ translate ru MagePath_c4d2be1b:
 # MagePath_7f7503c3 (line 69610)
 translate ru MagePath_7f7503c3:
     # x "I wasn't asking you, I was asking the lady."
-    x ""
+    x "I wasn't asking you, I was asking the lady."
 
 # MagePath_e7761ab5 (line 69611)
 translate ru MagePath_e7761ab5:
@@ -91,7 +91,7 @@ translate ru MagePath_e7761ab5:
 # MagePath_48de62b9 (line 69612)
 translate ru MagePath_48de62b9:
     # s "Help me! He's attacking me!"
-    s ""
+    s "Help me! He's attacking me!"
 
 # MagePath_8926f72a (line 69613)
 translate ru MagePath_8926f72a:
@@ -101,7 +101,7 @@ translate ru MagePath_8926f72a:
 # MagePath_ee414566 (line 69614)
 translate ru MagePath_ee414566:
     # x "Let go of her."
-    x ""
+    x "Let go of her."
 
 # MagePath_e10e3cb1 (line 69615)
 translate ru MagePath_e10e3cb1:
@@ -121,7 +121,7 @@ translate ru MagePath_b409585d:
 # MagePath_586cad40 (line 69619)
 translate ru MagePath_586cad40:
     # x "I won't warn you again, let go of her."
-    x ""
+    x "I won't warn you again, let go of her."
 
 # MagePath_ecba9399 (line 69620)
 translate ru MagePath_ecba9399:
@@ -151,7 +151,7 @@ translate ru MagePath_6a4bff6b:
 # MagePath_89524401 (line 69625)
 translate ru MagePath_89524401:
     # x "Are you alright?"
-    x ""
+    x "Are you alright?"
 
 # MagePath_beb894be (line 69631)
 translate ru MagePath_beb894be:
@@ -166,7 +166,7 @@ translate ru MagePath_8335e6c1:
 # MagePath_166bbff7 (line 69633)
 translate ru MagePath_166bbff7:
     # x "Did he hurt you?"
-    x ""
+    x "Did he hurt you?"
 
 # MagePath_3a22ca2e (line 69634)
 translate ru MagePath_3a22ca2e:
@@ -181,12 +181,12 @@ translate ru MagePath_f2068a97:
 # MagePath_4f239b6e (line 69636)
 translate ru MagePath_4f239b6e:
     # x "Thank god that you screamed, I got here just in time."
-    x ""
+    x "Thank god that you screamed, I got here just in time."
 
 # MagePath_4b6408f4 (line 69637)
 translate ru MagePath_4b6408f4:
     # x "What were you doing out here alone? Even I don't like to walk the streets of Lethram at night."
-    x ""
+    x "What were you doing out here alone? Even I don't like to walk the streets of Lethram at night."
 
 # MagePath_6a23146d (line 69638)
 translate ru MagePath_6a23146d:
@@ -226,7 +226,7 @@ translate ru MagePath_210193fb:
 # MagePath_878838fe (line 69645)
 translate ru MagePath_878838fe:
     # s "I was...I was trying to sleep here, in the alley, but he threatend me, and he tried to attack me. He said it was his alley, I didn't know..."
-    s ""
+    s "I was...I was trying to sleep here, in the alley, but he threatend me, and he tried to attack me. He said it was his alley, I didn't know..."
 
 # MagePath_742ced66 (line 69646)
 translate ru MagePath_742ced66:
@@ -236,17 +236,17 @@ translate ru MagePath_742ced66:
 # MagePath_aebf1e7b (line 69647)
 translate ru MagePath_aebf1e7b:
     # x "Not his alley, no, just a violent creep that stalks the streets. This city is full of them, sadly."
-    x ""
+    x "Not his alley, no, just a violent creep that stalks the streets. This city is full of them, sadly."
 
 # MagePath_a3b94092 (line 69648)
 translate ru MagePath_a3b94092:
     # s "How do you know?"
-    s ""
+    s "How do you know?"
 
 # MagePath_32a6e42e (line 69649)
 translate ru MagePath_32a6e42e:
     # x "Because this is my alley, actually. This right here is my house."
-    x ""
+    x "Because this is my alley, actually. This right here is my house."
 
 # MagePath_6fa90203 (line 69650)
 translate ru MagePath_6fa90203:
@@ -256,22 +256,22 @@ translate ru MagePath_6fa90203:
 # MagePath_bf12d967 (line 69651)
 translate ru MagePath_bf12d967:
     # x "I was still up, studying, when suddenly I heard your scream. I rushed outside and I found you."
-    x ""
+    x "I was still up, studying, when suddenly I heard your scream. I rushed outside and I found you."
 
 # MagePath_c253144a (line 69652)
 translate ru MagePath_c253144a:
     # s "Thank you for saving me. Really, I don't want to think about what he would have done to me."
-    s ""
+    s "Thank you for saving me. Really, I don't want to think about what he would have done to me."
 
 # MagePath_8660a9f8 (line 69653)
 translate ru MagePath_8660a9f8:
     # x "I wouldn't forgive myself if I hadn't."
-    x ""
+    x "I wouldn't forgive myself if I hadn't."
 
 # MagePath_edb83971 (line 69654)
 translate ru MagePath_edb83971:
     # x "Anyway, did I hear you correctly? You said you were sleeping out here?"
-    x ""
+    x "Anyway, did I hear you correctly? You said you were sleeping out here?"
 
 # MagePath_ccd8f1ab (line 69655)
 translate ru MagePath_ccd8f1ab:
@@ -281,12 +281,12 @@ translate ru MagePath_ccd8f1ab:
 # MagePath_7d10ab0c (line 69656)
 translate ru MagePath_7d10ab0c:
     # x "You don't strike me as very poor..."
-    x ""
+    x "You don't strike me as very poor..."
 
 # MagePath_6ceb010b (line 69657)
 translate ru MagePath_6ceb010b:
     # x "You really don't have a place you can stay?"
-    x ""
+    x "You really don't have a place you can stay?"
 
 # MagePath_433d158b (line 69658)
 translate ru MagePath_433d158b:
@@ -296,12 +296,12 @@ translate ru MagePath_433d158b:
 # MagePath_26b56ea5 (line 69659)
 translate ru MagePath_26b56ea5:
     # s "It's a long story, but no, I don't have anywhere to go."
-    s ""
+    s "It's a long story, but no, I don't have anywhere to go."
 
 # MagePath_6d681ea8 (line 69660)
 translate ru MagePath_6d681ea8:
     # s "If you would let me sleep here, I would be forever grateful."
-    s ""
+    s "If you would let me sleep here, I would be forever grateful."
 
 # MagePath_ee4b053b (line 69661)
 translate ru MagePath_ee4b053b:
@@ -311,22 +311,22 @@ translate ru MagePath_ee4b053b:
 # MagePath_df955fa0 (line 69662)
 translate ru MagePath_df955fa0:
     # x "Don't be ridiculous."
-    x ""
+    x "Don't be ridiculous."
 
 # MagePath_b6c521ef (line 69663)
 translate ru MagePath_b6c521ef:
     # x "I'm not going to let you sleep out here on the street."
-    x ""
+    x "I'm not going to let you sleep out here on the street."
 
 # MagePath_8b35c741 (line 69664)
 translate ru MagePath_8b35c741:
     # x "This city is so full of criminals, another one would come across you in no time."
-    x ""
+    x "This city is so full of criminals, another one would come across you in no time."
 
 # MagePath_1637a4a7 (line 69665)
 translate ru MagePath_1637a4a7:
     # x "Come, follow me."
-    x ""
+    x "Come, follow me."
 
 # MagePath_4bdbd288 (line 69666)
 translate ru MagePath_4bdbd288:
@@ -356,12 +356,12 @@ translate ru MagePath_15443cdd:
 # MagePath_effc8e42 (line 69676)
 translate ru MagePath_effc8e42:
     # x "I've got more space than I need, so you're free to spend the night here."
-    x ""
+    x "I've got more space than I need, so you're free to spend the night here."
 
 # MagePath_67c108ae (line 69677)
 translate ru MagePath_67c108ae:
     # s "You're being so kind..."
-    s ""
+    s "You're being so kind..."
 
 # MagePath_d7c23df1 (line 69678)
 translate ru MagePath_d7c23df1:
@@ -371,7 +371,7 @@ translate ru MagePath_d7c23df1:
 # MagePath_4fe9f4b6 (line 69679)
 translate ru MagePath_4fe9f4b6:
     # x "Don't worry about it. I know what it's like to not have a lot. If I can give back a little, I'm always happy to."
-    x ""
+    x "Don't worry about it. I know what it's like to not have a lot. If I can give back a little, I'm always happy to."
 
 # MagePath_13581b67 (line 69680)
 translate ru MagePath_13581b67:
@@ -381,12 +381,12 @@ translate ru MagePath_13581b67:
 # MagePath_b5b910c4 (line 69681)
 translate ru MagePath_b5b910c4:
     # x "Ooh, where are my manners."
-    x ""
+    x "Ooh, where are my manners."
 
 # MagePath_736dfd79 (line 69682)
 translate ru MagePath_736dfd79:
     # x "I haven't even introduced myself."
-    x ""
+    x "I haven't even introduced myself."
 
 # MagePath_27b0169c (line 69683)
 translate ru MagePath_27b0169c:
@@ -396,7 +396,7 @@ translate ru MagePath_27b0169c:
 # MagePath_83906515 (line 69684)
 translate ru MagePath_83906515:
     # x "My name is Xanthippe, but you can call me Xan. Most everyone does."
-    x ""
+    x "My name is Xanthippe, but you can call me Xan. Most everyone does."
 
 # MagePath_25b49a74 (line 69685)
 translate ru MagePath_25b49a74:
@@ -406,7 +406,7 @@ translate ru MagePath_25b49a74:
 # MagePath_32b6fba7 (line 69686)
 translate ru MagePath_32b6fba7:
     # s "Xant...Xanthiff...Xanthir..."
-    s ""
+    s "Xant...Xanthiff...Xanthir..."
 
 # MagePath_a83c566a (line 69687)
 translate ru MagePath_a83c566a:
@@ -416,12 +416,12 @@ translate ru MagePath_a83c566a:
 # MagePath_fb2e7fbc (line 69688)
 translate ru MagePath_fb2e7fbc:
     # x "Like I said, just call me Xan, nobody ever manages to pronounce it."
-    x ""
+    x "Like I said, just call me Xan, nobody ever manages to pronounce it."
 
 # MagePath_8c1bcd1e (line 69689)
 translate ru MagePath_8c1bcd1e:
     # s "Ok, thank you Xan. Not just for saving me, but also letting me stay here. I wouldn't have known what to do. I don't have anywhere else to go."
-    s ""
+    s "Ok, thank you Xan. Not just for saving me, but also letting me stay here. I wouldn't have known what to do. I don't have anywhere else to go."
 
 # MagePath_ebf62ab8 (line 69690)
 translate ru MagePath_ebf62ab8:
@@ -431,17 +431,17 @@ translate ru MagePath_ebf62ab8:
 # MagePath_7ec11e80 (line 69691)
 translate ru MagePath_7ec11e80:
     # x "Yeah...about that."
-    x ""
+    x "Yeah...about that."
 
 # MagePath_c237d07d (line 69692)
 translate ru MagePath_c237d07d:
     # x "I've come across all sorts of people, in all sorts of trouble, but you..."
-    x ""
+    x "I've come across all sorts of people, in all sorts of trouble, but you..."
 
 # MagePath_4ea4ef4d (line 69693)
 translate ru MagePath_4ea4ef4d:
     # x "You're dressed like royalty, but you're sleeping out in the streets? That's a new one for me."
-    x ""
+    x "You're dressed like royalty, but you're sleeping out in the streets? That's a new one for me."
 
 # MagePath_6bd13f25 (line 69694)
 translate ru MagePath_6bd13f25:
@@ -461,7 +461,7 @@ translate ru MagePath_abb238e6:
 # MagePath_362769b9 (line 69697)
 translate ru MagePath_362769b9:
     # s "I'll tell you. Everything."
-    s ""
+    s "I'll tell you. Everything."
 
 # MagePath_d1a20cfe (line 69698)
 translate ru MagePath_d1a20cfe:
@@ -496,17 +496,17 @@ translate ru MagePath_bed80960:
 # MagePath_61d83a0a (line 69704)
 translate ru MagePath_61d83a0a:
     # x "It's quite the story, Sarah."
-    x ""
+    x "It's quite the story, Sarah."
 
 # MagePath_0360dd24 (line 69705)
 translate ru MagePath_0360dd24:
     # x "But I'm happy it didn't end in tragedy."
-    x ""
+    x "But I'm happy it didn't end in tragedy."
 
 # MagePath_fd7faf9b (line 69706)
 translate ru MagePath_fd7faf9b:
     # x "You really shouldn't be sleeping out on the streets though. Certainly not in Lethram, it's too dangerous."
-    x ""
+    x "You really shouldn't be sleeping out on the streets though. Certainly not in Lethram, it's too dangerous."
 
 # MagePath_c69c6692 (line 69707)
 translate ru MagePath_c69c6692:
@@ -516,12 +516,12 @@ translate ru MagePath_c69c6692:
 # MagePath_7a2c2aec (line 69708)
 translate ru MagePath_7a2c2aec:
     # s "I promise, I won't do it again."
-    s ""
+    s "I promise, I won't do it again."
 
 # MagePath_1c49fce4 (line 69709)
 translate ru MagePath_1c49fce4:
     # x "You can stay here for as long as you like."
-    x ""
+    x "You can stay here for as long as you like."
 
 # MagePath_15bba52e (line 69710)
 translate ru MagePath_15bba52e:
@@ -541,17 +541,17 @@ translate ru MagePath_6abad4a9:
 # MagePath_8934e5e7 (line 69713)
 translate ru MagePath_8934e5e7:
     # s "I wouldn't want to impose."
-    s ""
+    s "I wouldn't want to impose."
 
 # MagePath_46e44ccd (line 69714)
 translate ru MagePath_46e44ccd:
     # x "Not at all. If you feel like you want to earn your keep, you can do some cleaning around the house."
-    x ""
+    x "Not at all. If you feel like you want to earn your keep, you can do some cleaning around the house."
 
 # MagePath_4349e690 (line 69715)
 translate ru MagePath_4349e690:
     # x "Honestly, it's far too large for me, and I don't even use all the rooms. It's a hassle just to keep it from falling apart on me."
-    x ""
+    x "Honestly, it's far too large for me, and I don't even use all the rooms. It's a hassle just to keep it from falling apart on me."
 
 # MagePath_f0bc4cd1 (line 69716)
 translate ru MagePath_f0bc4cd1:
@@ -571,7 +571,7 @@ translate ru MagePath_bef4801e:
 # MagePath_02314d4a (line 69719)
 translate ru MagePath_02314d4a:
     # s "Thank you, and I will."
-    s ""
+    s "Thank you, and I will."
 
 # MagePath_5713c5fa (line 69720)
 translate ru MagePath_5713c5fa:
@@ -581,7 +581,7 @@ translate ru MagePath_5713c5fa:
 # MagePath_6602df28 (line 69721)
 translate ru MagePath_6602df28:
     # s "Anyway, if you'll excuse me, I'm very tired. I'm going to try to get some sleep."
-    s ""
+    s "Anyway, if you'll excuse me, I'm very tired. I'm going to try to get some sleep."
 
 # MagePath_df39f257 (line 69722)
 translate ru MagePath_df39f257:
@@ -591,7 +591,7 @@ translate ru MagePath_df39f257:
 # MagePath_e6fc2126 (line 69723)
 translate ru MagePath_e6fc2126:
     # x "Of course, just use any of the empty rooms. I'll be in here for a bit more, studying, in case you need anything."
-    x ""
+    x "Of course, just use any of the empty rooms. I'll be in here for a bit more, studying, in case you need anything."
 
 # MagePath_a1a61539 (line 69724)
 translate ru MagePath_a1a61539:

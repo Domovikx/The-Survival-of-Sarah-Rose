@@ -156,32 +156,32 @@ translate ru JaeidPath4_4699f609:
 # JaeidPath4_c296ce8b (line 20979)
 translate ru JaeidPath4_c296ce8b:
     # j "Wow..."
-    j ""
+    j "Wow..."
 
 # JaeidPath4_40d13be2 (line 20980)
 translate ru JaeidPath4_40d13be2:
     # s "Ooh, you're home already."
-    s ""
+    s "Ooh, you're home already."
 
 # JaeidPath4_7e4e7dca (line 20981)
 translate ru JaeidPath4_7e4e7dca:
     # j "Sorry that it became so late. My meeting with the Khan ran late."
-    j ""
+    j "Sorry that it became so late. My meeting with the Khan ran late."
 
 # JaeidPath4_a34790b0 (line 20982)
 translate ru JaeidPath4_a34790b0:
     # j "But it seems you've made yourself busy."
-    j ""
+    j "But it seems you've made yourself busy."
 
 # JaeidPath4_4a6a3dc3 (line 20983)
 translate ru JaeidPath4_4a6a3dc3:
     # s "You like it?"
-    s ""
+    s "You like it?"
 
 # JaeidPath4_ff5a899b (line 20984)
 translate ru JaeidPath4_ff5a899b:
     # s "I think I got carried away after a while..."
-    s ""
+    s "I think I got carried away after a while..."
 
 # JaeidPath4_4233f04a (line 20985)
 translate ru JaeidPath4_4233f04a:
@@ -191,17 +191,17 @@ translate ru JaeidPath4_4233f04a:
 # JaeidPath4_e366ec77 (line 20986)
 translate ru JaeidPath4_e366ec77:
     # j "Perhaps I am more shocked."
-    j ""
+    j "Perhaps I am more shocked."
 
 # JaeidPath4_3469c53b (line 20987)
 translate ru JaeidPath4_3469c53b:
     # s "Shocked?"
-    s ""
+    s "Shocked?"
 
 # JaeidPath4_9db72427 (line 20988)
 translate ru JaeidPath4_9db72427:
     # j "Yes, I never knew the house could look like this."
-    j ""
+    j "Yes, I never knew the house could look like this."
 
 # JaeidPath4_f63b2f79 (line 20989)
 translate ru JaeidPath4_f63b2f79:
@@ -211,12 +211,12 @@ translate ru JaeidPath4_f63b2f79:
 # JaeidPath4_a7d34b63 (line 20990)
 translate ru JaeidPath4_a7d34b63:
     # s "I also cleaned out the spare room, if that is okay."
-    s ""
+    s "I also cleaned out the spare room, if that is okay."
 
 # JaeidPath4_fdae7df4 (line 20991)
 translate ru JaeidPath4_fdae7df4:
     # s "I thought I could use it?"
-    s ""
+    s "I thought I could use it?"
 
 # JaeidPath4_e58b59f8 (line 20992)
 translate ru JaeidPath4_e58b59f8:
@@ -226,7 +226,7 @@ translate ru JaeidPath4_e58b59f8:
 # JaeidPath4_cf95ce2b (line 20993)
 translate ru JaeidPath4_cf95ce2b:
     # j "Of course. I don't think me or Jasmine used it for much of anything."
-    j ""
+    j "Of course. I don't think me or Jasmine used it for much of anything."
 
 # JaeidPath4_07af880c (line 20994)
 translate ru JaeidPath4_07af880c:
@@ -241,17 +241,17 @@ translate ru JaeidPath4_5b79b026:
 # JaeidPath4_274f633b (line 20996)
 translate ru JaeidPath4_274f633b:
     # j "Speaking of her, where is Jasmine?"
-    j ""
+    j "Speaking of her, where is Jasmine?"
 
 # JaeidPath4_41af6278 (line 20997)
 translate ru JaeidPath4_41af6278:
     # s "Working. I helped her buy supplies earlier."
-    s ""
+    s "Working. I helped her buy supplies earlier."
 
 # JaeidPath4_4a6feb13 (line 20998)
 translate ru JaeidPath4_4a6feb13:
     # s "You want me to go get her?"
-    s ""
+    s "You want me to go get her?"
 
 # JaeidPath4_d7fa2ff6 (line 20999)
 translate ru JaeidPath4_d7fa2ff6:
@@ -261,12 +261,12 @@ translate ru JaeidPath4_d7fa2ff6:
 # JaeidPath4_5fa9296a (line 21000)
 translate ru JaeidPath4_5fa9296a:
     # j "Best not to disturb her. When she gets into her work, she doesn't take well to being interrupted."
-    j ""
+    j "Best not to disturb her. When she gets into her work, she doesn't take well to being interrupted."
 
 # JaeidPath4_a63876cd (line 21001)
 translate ru JaeidPath4_a63876cd:
     # s "I see."
-    s ""
+    s "I see."
 
 # JaeidPath4_62c6603a (line 21002)
 translate ru JaeidPath4_62c6603a:
@@ -281,7 +281,7 @@ translate ru JaeidPath4_2b14d216:
 # JaeidPath4_8dff9650 (line 21004)
 translate ru JaeidPath4_8dff9650:
     # j "Are you hungry?"
-    j ""
+    j "Are you hungry?"
 
 # JaeidPath4_935193d1 (line 21005)
 translate ru JaeidPath4_935193d1:
@@ -291,12 +291,12 @@ translate ru JaeidPath4_935193d1:
 # JaeidPath4_fb05091d (line 21006)
 translate ru JaeidPath4_fb05091d:
     # s "I am actually...I haven't eaten all day."
-    s ""
+    s "I am actually...I haven't eaten all day."
 
 # JaeidPath4_5d7e0296 (line 21007)
 translate ru JaeidPath4_5d7e0296:
     # s "Do you want me to cook? I'm not really good at it, but I can try..."
-    s ""
+    s "Do you want me to cook? I'm not really good at it, but I can try..."
 
 # JaeidPath4_079fecb6 (line 21008)
 translate ru JaeidPath4_079fecb6:
@@ -306,12 +306,12 @@ translate ru JaeidPath4_079fecb6:
 # JaeidPath4_f7398381 (line 21009)
 translate ru JaeidPath4_f7398381:
     # j "No, it is fine. I'll get us something to eat."
-    j ""
+    j "No, it is fine. I'll get us something to eat."
 
 # JaeidPath4_dd1bff7e (line 21010)
 translate ru JaeidPath4_dd1bff7e:
     # j "The night markets are overflowing with food stalls."
-    j ""
+    j "The night markets are overflowing with food stalls."
 
 # JaeidPath4_90ab595c (line 21011)
 translate ru JaeidPath4_90ab595c:
@@ -321,7 +321,7 @@ translate ru JaeidPath4_90ab595c:
 # JaeidPath4_6119c162 (line 21018)
 translate ru JaeidPath4_6119c162:
     # j "I just bought a few different things. I wasn't really sure what you liked."
-    j ""
+    j "I just bought a few different things. I wasn't really sure what you liked."
 
 # JaeidPath4_e6b06183 (line 21019)
 translate ru JaeidPath4_e6b06183:
@@ -336,7 +336,7 @@ translate ru JaeidPath4_0615fc09:
 # JaeidPath4_ee0c0bcb (line 21021)
 translate ru JaeidPath4_ee0c0bcb:
     # s "That's fine, I'm not a difficult eater."
-    s ""
+    s "That's fine, I'm not a difficult eater."
 
 # JaeidPath4_43d05825 (line 21022)
 translate ru JaeidPath4_43d05825:
@@ -366,7 +366,7 @@ translate ru JaeidPath4_29805b91:
 # JaeidPath4_fef0485b (line 21027)
 translate ru JaeidPath4_fef0485b:
     # s "Wow, I've never had anything like this before."
-    s ""
+    s "Wow, I've never had anything like this before."
 
 # JaeidPath4_c76ff13f (line 21028)
 translate ru JaeidPath4_c76ff13f:
@@ -376,7 +376,7 @@ translate ru JaeidPath4_c76ff13f:
 # JaeidPath4_1ce7c19b (line 21029)
 translate ru JaeidPath4_1ce7c19b:
     # j "I'm glad you like it."
-    j ""
+    j "I'm glad you like it."
 
 # JaeidPath4_37bfdd4b (line 21030)
 translate ru JaeidPath4_37bfdd4b:
@@ -401,7 +401,7 @@ translate ru JaeidPath4_b390585c:
 # JaeidPath4_c80e819a (line 21034)
 translate ru JaeidPath4_c80e819a:
     # j "I'm sorry, Sarah. Here, drink this."
-    j ""
+    j "I'm sorry, Sarah. Here, drink this."
 
 # JaeidPath4_355f145b (line 21035)
 translate ru JaeidPath4_355f145b:
@@ -416,17 +416,17 @@ translate ru JaeidPath4_1785bf42:
 # JaeidPath4_ca66681a (line 21037)
 translate ru JaeidPath4_ca66681a:
     # s "What was that!"
-    s ""
+    s "What was that!"
 
 # JaeidPath4_b2705466 (line 21038)
 translate ru JaeidPath4_b2705466:
     # j "The food here is different, both the dishes but also the ingredients themselves."
-    j ""
+    j "The food here is different, both the dishes but also the ingredients themselves."
 
 # JaeidPath4_d4256ef0 (line 21039)
 translate ru JaeidPath4_d4256ef0:
     # j "Some of the spices that are popular...well, it can take a bit to get used to."
-    j ""
+    j "Some of the spices that are popular...well, it can take a bit to get used to."
 
 # JaeidPath4_019327dd (line 21040)
 translate ru JaeidPath4_019327dd:
@@ -441,7 +441,7 @@ translate ru JaeidPath4_9c3db43e:
 # JaeidPath4_7320867e (line 21042)
 translate ru JaeidPath4_7320867e:
     # s "Well...it did taste good. But I think I'll go a bit slower."
-    s ""
+    s "Well...it did taste good. But I think I'll go a bit slower."
 
 # JaeidPath4_cb7780c5 (line 21043)
 translate ru JaeidPath4_cb7780c5:
@@ -456,22 +456,22 @@ translate ru JaeidPath4_3de1ac79:
 # JaeidPath4_915dc940 (line 21045)
 translate ru JaeidPath4_915dc940:
     # s "What?"
-    s ""
+    s "What?"
 
 # JaeidPath4_69a8901e (line 21046)
 translate ru JaeidPath4_69a8901e:
     # j "Nothing."
-    j ""
+    j "Nothing."
 
 # JaeidPath4_43390764 (line 21047)
 translate ru JaeidPath4_43390764:
     # s "You're staring at me."
-    s ""
+    s "You're staring at me."
 
 # JaeidPath4_c1621fd0 (line 21048)
 translate ru JaeidPath4_c1621fd0:
     # j "I'm just happy to see you happy."
-    j ""
+    j "I'm just happy to see you happy."
 
 # JaeidPath4_c2cebefd (line 21049)
 translate ru JaeidPath4_c2cebefd:
@@ -486,7 +486,7 @@ translate ru JaeidPath4_b7af4a09:
 # JaeidPath4_19dd264f (line 21051)
 translate ru JaeidPath4_19dd264f:
     # s "You are being nice to me. You and Jasmine both. It is more than I deserve."
-    s ""
+    s "You are being nice to me. You and Jasmine both. It is more than I deserve."
 
 # JaeidPath4_5044514f (line 21052)
 translate ru JaeidPath4_5044514f:
@@ -496,7 +496,7 @@ translate ru JaeidPath4_5044514f:
 # JaeidPath4_41db906b (line 21053)
 translate ru JaeidPath4_41db906b:
     # j "Sarah..."
-    j ""
+    j "Sarah..."
 
 # JaeidPath4_dfe79bb4 (line 21054)
 translate ru JaeidPath4_dfe79bb4:
@@ -506,7 +506,7 @@ translate ru JaeidPath4_dfe79bb4:
 # JaeidPath4_5eebc370 (line 21055)
 translate ru JaeidPath4_5eebc370:
     # j "It might sound strange to you, but I see some of myself in you."
-    j ""
+    j "It might sound strange to you, but I see some of myself in you."
 
 # JaeidPath4_02d3cdfb (line 21056)
 translate ru JaeidPath4_02d3cdfb:
@@ -516,22 +516,22 @@ translate ru JaeidPath4_02d3cdfb:
 # JaeidPath4_867547f0 (line 21057)
 translate ru JaeidPath4_867547f0:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # JaeidPath4_ae4576a5 (line 21058)
 translate ru JaeidPath4_ae4576a5:
     # j "I told you of my old life and how I survived when I first came here as a slave."
-    j ""
+    j "I told you of my old life and how I survived when I first came here as a slave."
 
 # JaeidPath4_d63f3ea7 (line 21059)
 translate ru JaeidPath4_d63f3ea7:
     # j "I spoke of the good things, but the truth is that there was plenty of pain there as well."
-    j ""
+    j "I spoke of the good things, but the truth is that there was plenty of pain there as well."
 
 # JaeidPath4_e4da449c (line 21060)
 translate ru JaeidPath4_e4da449c:
     # j "In a way, I think I wanted to give you a better experience than I had myself when I first came here."
-    j ""
+    j "In a way, I think I wanted to give you a better experience than I had myself when I first came here."
 
 # JaeidPath4_c686278d (line 21061)
 translate ru JaeidPath4_c686278d:
@@ -541,7 +541,7 @@ translate ru JaeidPath4_c686278d:
 # JaeidPath4_19830558 (line 21062)
 translate ru JaeidPath4_19830558:
     # s "As a slave."
-    s ""
+    s "As a slave."
 
 # JaeidPath4_18c7225a (line 21063)
 translate ru JaeidPath4_18c7225a:
@@ -551,22 +551,22 @@ translate ru JaeidPath4_18c7225a:
 # JaeidPath4_9e6a5de0 (line 21064)
 translate ru JaeidPath4_9e6a5de0:
     # j "Yes."
-    j ""
+    j "Yes."
 
 # JaeidPath4_2920415d (line 21065)
 translate ru JaeidPath4_2920415d:
     # j "I know that you think your life is over, but the truth is that you have many decades more to live."
-    j ""
+    j "I know that you think your life is over, but the truth is that you have many decades more to live."
 
 # JaeidPath4_2dd8ca57 (line 21066)
 translate ru JaeidPath4_2dd8ca57:
     # j "And you can build a life in this place, same as I managed."
-    j ""
+    j "And you can build a life in this place, same as I managed."
 
 # JaeidPath4_591d2f00 (line 21067)
 translate ru JaeidPath4_591d2f00:
     # s "So I should just bow down?"
-    s ""
+    s "So I should just bow down?"
 
 # JaeidPath4_0d1b09e7 (line 21068)
 translate ru JaeidPath4_0d1b09e7:
@@ -576,47 +576,47 @@ translate ru JaeidPath4_0d1b09e7:
 # JaeidPath4_120ef04f (line 21069)
 translate ru JaeidPath4_120ef04f:
     # j "You should recognize the truth of the world."
-    j ""
+    j "You should recognize the truth of the world."
 
 # JaeidPath4_9c053948 (line 21070)
 translate ru JaeidPath4_9c053948:
     # s "And what is that?"
-    s ""
+    s "And what is that?"
 
 # JaeidPath4_18848f85 (line 21071)
 translate ru JaeidPath4_18848f85:
     # j "You are a people conquered."
-    j ""
+    j "You are a people conquered."
 
 # JaeidPath4_e6a6541e (line 21072)
 translate ru JaeidPath4_e6a6541e:
     # j "You may dispute that as you like, but it won't change the reality of your situation."
-    j ""
+    j "You may dispute that as you like, but it won't change the reality of your situation."
 
 # JaeidPath4_6a753ca3 (line 21073)
 translate ru JaeidPath4_6a753ca3:
     # j "When I was captured, there were hundreds of others who sat down and cried about their lives."
-    j ""
+    j "When I was captured, there were hundreds of others who sat down and cried about their lives."
 
 # JaeidPath4_bd11a35f (line 21074)
 translate ru JaeidPath4_bd11a35f:
     # j "They threw up their hands and prayed to the Gods."
-    j ""
+    j "They threw up their hands and prayed to the Gods."
 
 # JaeidPath4_e52529b9 (line 21075)
 translate ru JaeidPath4_e52529b9:
     # j "Why, they cried out."
-    j ""
+    j "Why, they cried out."
 
 # JaeidPath4_fea4d53c (line 21076)
 translate ru JaeidPath4_fea4d53c:
     # j "Why me? What have I done? Save me from this fate."
-    j ""
+    j "Why me? What have I done? Save me from this fate."
 
 # JaeidPath4_c1989808 (line 21077)
 translate ru JaeidPath4_c1989808:
     # j "Over and over."
-    j ""
+    j "Over and over."
 
 # JaeidPath4_5f1403ee (line 21078)
 translate ru JaeidPath4_5f1403ee:
@@ -626,7 +626,7 @@ translate ru JaeidPath4_5f1403ee:
 # JaeidPath4_b47784f8 (line 21079)
 translate ru JaeidPath4_b47784f8:
     # j "What do you think became of them? Do you think the Gods reached down and pulled them out?"
-    j ""
+    j "What do you think became of them? Do you think the Gods reached down and pulled them out?"
 
 # JaeidPath4_d820d681 (line 21080)
 translate ru JaeidPath4_d820d681:
@@ -636,17 +636,17 @@ translate ru JaeidPath4_d820d681:
 # JaeidPath4_e68c4956 (line 21081)
 translate ru JaeidPath4_e68c4956:
     # j "That's right."
-    j ""
+    j "That's right."
 
 # JaeidPath4_7e1b240c (line 21082)
 translate ru JaeidPath4_7e1b240c:
     # j "They failed to see the world for what it was, and so instead they fell into despair."
-    j ""
+    j "They failed to see the world for what it was, and so instead they fell into despair."
 
 # JaeidPath4_c253317f (line 21083)
 translate ru JaeidPath4_c253317f:
     # j "Their bodies were plenty strong. They could have worked themselves up. But they allowed their minds to falter."
-    j ""
+    j "Their bodies were plenty strong. They could have worked themselves up. But they allowed their minds to falter."
 
 # JaeidPath4_c3a0b505 (line 21084)
 translate ru JaeidPath4_c3a0b505:
@@ -656,32 +656,32 @@ translate ru JaeidPath4_c3a0b505:
 # JaeidPath4_771e61ea (line 21085)
 translate ru JaeidPath4_771e61ea:
     # j "I just don't want that to happen to you."
-    j ""
+    j "I just don't want that to happen to you."
 
 # JaeidPath4_80419e90 (line 21086)
 translate ru JaeidPath4_80419e90:
     # j "I don't deny that what has happened to you, your people, is not a tragedy."
-    j ""
+    j "I don't deny that what has happened to you, your people, is not a tragedy."
 
 # JaeidPath4_c7aa73e3 (line 21087)
 translate ru JaeidPath4_c7aa73e3:
     # j "But I want you to know that your life need not be over."
-    j ""
+    j "But I want you to know that your life need not be over."
 
 # JaeidPath4_55141604 (line 21088)
 translate ru JaeidPath4_55141604:
     # j "Like Jasmine, like myself, you can find a place in this society."
-    j ""
+    j "Like Jasmine, like myself, you can find a place in this society."
 
 # JaeidPath4_839e74d1 (line 21089)
 translate ru JaeidPath4_839e74d1:
     # s "Live among the very people that destroyed my nation?"
-    s ""
+    s "Live among the very people that destroyed my nation?"
 
 # JaeidPath4_4d76ead9 (line 21090)
 translate ru JaeidPath4_4d76ead9:
     # j "Your nation was destroyed. But you survived. Who will you make glad when you destroy yourself too?"
-    j ""
+    j "Your nation was destroyed. But you survived. Who will you make glad when you destroy yourself too?"
 
 # JaeidPath4_1882b14c (line 21091)
 translate ru JaeidPath4_1882b14c:
@@ -706,17 +706,17 @@ translate ru JaeidPath4_1c0328f9:
 # JaeidPath4_dfd4ef1c (line 21095)
 translate ru JaeidPath4_dfd4ef1c:
     # s "And what of the others?"
-    s ""
+    s "And what of the others?"
 
 # JaeidPath4_437ad0e0 (line 21096)
 translate ru JaeidPath4_437ad0e0:
     # j "The others?"
-    j ""
+    j "The others?"
 
 # JaeidPath4_6dd6901c (line 21097)
 translate ru JaeidPath4_6dd6901c:
     # s "The people from my country."
-    s ""
+    s "The people from my country."
 
 # JaeidPath4_9ccf9528 (line 21098)
 translate ru JaeidPath4_9ccf9528:
@@ -726,12 +726,12 @@ translate ru JaeidPath4_9ccf9528:
 # JaeidPath4_b2b26d36 (line 21099)
 translate ru JaeidPath4_b2b26d36:
     # j "The truth is, some will suffer, some will prosper."
-    j ""
+    j "The truth is, some will suffer, some will prosper."
 
 # JaeidPath4_44d68551 (line 21100)
 translate ru JaeidPath4_44d68551:
     # j "If your plan is to set all of the world right, perhaps best you start that journey with yourself."
-    j ""
+    j "If your plan is to set all of the world right, perhaps best you start that journey with yourself."
 
 # JaeidPath4_9b65c286 (line 21101)
 translate ru JaeidPath4_9b65c286:
@@ -771,22 +771,22 @@ translate ru JaeidPath4_60b89af3:
 # JaeidPath4_a091bf7c (line 21108)
 translate ru JaeidPath4_a091bf7c:
     # s "You have given me a lot to think about."
-    s ""
+    s "You have given me a lot to think about."
 
 # JaeidPath4_0412599d (line 21109)
 translate ru JaeidPath4_0412599d:
     # j "I am sorry if I sound harsh. I didn't mean to be."
-    j ""
+    j "I am sorry if I sound harsh. I didn't mean to be."
 
 # JaeidPath4_8b546f75 (line 21110)
 translate ru JaeidPath4_8b546f75:
     # s "It is fine."
-    s ""
+    s "It is fine."
 
 # JaeidPath4_9cd45c03 (line 21111)
 translate ru JaeidPath4_9cd45c03:
     # s "Better you speak honestly than tell me soft lies."
-    s ""
+    s "Better you speak honestly than tell me soft lies."
 
 # JaeidPath4_f4042e0a (line 21112)
 translate ru JaeidPath4_f4042e0a:

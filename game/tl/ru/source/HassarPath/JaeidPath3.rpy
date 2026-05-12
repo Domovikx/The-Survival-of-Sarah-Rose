@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: JaeidPath3
-# Total blocks: 275
+# Total blocks: 272
 
 # JaeidPath3_8fc160df (line 20586)
 translate ru JaeidPath3_8fc160df:
@@ -91,7 +91,7 @@ translate ru JaeidPath3_2161cdf3:
 # JaeidPath3_4f6545b5 (line 20614)
 translate ru JaeidPath3_4f6545b5:
     # jas "You really should be careful."
-    jas ""
+    jas "You really should be careful."
 
 # JaeidPath3_b4b0afe2 (line 20616)
 translate ru JaeidPath3_b4b0afe2:
@@ -101,17 +101,17 @@ translate ru JaeidPath3_b4b0afe2:
 # JaeidPath3_53ec49fc (line 20617)
 translate ru JaeidPath3_53ec49fc:
     # s "I'm sorry, I was just..."
-    s ""
+    s "I'm sorry, I was just..."
 
 # JaeidPath3_0dbb321e (line 20618)
 translate ru JaeidPath3_0dbb321e:
     # jas "Maybe Jaeid gave you the wrong impression when he claimed you, but this city is not as safe as you may be used to."
-    jas ""
+    jas "Maybe Jaeid gave you the wrong impression when he claimed you, but this city is not as safe as you may be used to."
 
 # JaeidPath3_f814295b (line 20619)
 translate ru JaeidPath3_f814295b:
     # s "He said he didn't claim me."
-    s ""
+    s "He said he didn't claim me."
 
 # JaeidPath3_9ec55d90 (line 20620)
 translate ru JaeidPath3_9ec55d90:
@@ -121,7 +121,7 @@ translate ru JaeidPath3_9ec55d90:
 # JaeidPath3_5cd12f08 (line 20621)
 translate ru JaeidPath3_5cd12f08:
     # jas "Jaeid can say a lot of things. He doesn't always live in the real world."
-    jas ""
+    jas "Jaeid can say a lot of things. He doesn't always live in the real world."
 
 # JaeidPath3_bb9f95bb (line 20622)
 translate ru JaeidPath3_bb9f95bb:
@@ -131,27 +131,27 @@ translate ru JaeidPath3_bb9f95bb:
 # JaeidPath3_50e179bf (line 20623)
 translate ru JaeidPath3_50e179bf:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # JaeidPath3_1753f680 (line 20624)
 translate ru JaeidPath3_1753f680:
     # jas "I mean that this place...this is the capital of the Tribes."
-    jas ""
+    jas "I mean that this place...this is the capital of the Tribes."
 
 # JaeidPath3_e9443646 (line 20625)
 translate ru JaeidPath3_e9443646:
     # jas "Their culture rules every part of it. If you walk around here thinking you're still in Rosanna, things won't end well for you."
-    jas ""
+    jas "Their culture rules every part of it. If you walk around here thinking you're still in Rosanna, things won't end well for you."
 
 # JaeidPath3_009a7bb0 (line 20626)
 translate ru JaeidPath3_009a7bb0:
     # jas "And Jaeid might have saved you, but he isn't Khan."
-    jas ""
+    jas "And Jaeid might have saved you, but he isn't Khan."
 
 # JaeidPath3_ad74837a (line 20627)
 translate ru JaeidPath3_ad74837a:
     # jas "When he says he won't treat you like a slave, that's what that means. He, and he alone, won't treat you like one."
-    jas ""
+    jas "When he says he won't treat you like a slave, that's what that means. He, and he alone, won't treat you like one."
 
 # JaeidPath3_6367089d (line 20628)
 translate ru JaeidPath3_6367089d:
@@ -161,27 +161,27 @@ translate ru JaeidPath3_6367089d:
 # JaeidPath3_24e2597a (line 20629)
 translate ru JaeidPath3_24e2597a:
     # jas "Out there, no matter what Jaeid says, you are a slave. Property. A prize won."
-    jas ""
+    jas "Out there, no matter what Jaeid says, you are a slave. Property. A prize won."
 
 # JaeidPath3_d43318b2 (line 20630)
 translate ru JaeidPath3_d43318b2:
     # jas "If you forget that, you invite only danger."
-    jas ""
+    jas "If you forget that, you invite only danger."
 
 # JaeidPath3_97d8f507 (line 20631)
 translate ru JaeidPath3_97d8f507:
     # s "So I am still a slave..."
-    s ""
+    s "So I am still a slave..."
 
 # JaeidPath3_851a7e9f (line 20632)
 translate ru JaeidPath3_851a7e9f:
     # jas "Not within these walls. But the second you step outside, that is what you are."
-    jas ""
+    jas "Not within these walls. But the second you step outside, that is what you are."
 
 # JaeidPath3_f9c57114 (line 20633)
 translate ru JaeidPath3_f9c57114:
     # s "So it's dangerous for me to go outside?"
-    s ""
+    s "So it's dangerous for me to go outside?"
 
 # JaeidPath3_fab9ecf9 (line 20634)
 translate ru JaeidPath3_fab9ecf9:
@@ -191,17 +191,17 @@ translate ru JaeidPath3_fab9ecf9:
 # JaeidPath3_13a60e05 (line 20635)
 translate ru JaeidPath3_13a60e05:
     # jas "Like I said, this place has its own culture. Its own rules. If you learn them, you'll do fine."
-    jas ""
+    jas "Like I said, this place has its own culture. Its own rules. If you learn them, you'll do fine."
 
 # JaeidPath3_26e815f8 (line 20636)
 translate ru JaeidPath3_26e815f8:
     # s "Rules like what?"
-    s ""
+    s "Rules like what?"
 
 # JaeidPath3_c8ce894e (line 20637)
 translate ru JaeidPath3_c8ce894e:
     # jas "Well, take for example when Jaied brought you here."
-    jas ""
+    jas "Well, take for example when Jaied brought you here."
 
 # JaeidPath3_a5c45998 (line 20638)
 translate ru JaeidPath3_a5c45998:
@@ -211,7 +211,7 @@ translate ru JaeidPath3_a5c45998:
 # JaeidPath3_e6819eda (line 20639)
 translate ru JaeidPath3_e6819eda:
     # jas "Did you notice how nobody did anything to you? How you walked around safe wearing just about nothing?"
-    jas ""
+    jas "Did you notice how nobody did anything to you? How you walked around safe wearing just about nothing?"
 
 # JaeidPath3_fa8bc25c (line 20640)
 translate ru JaeidPath3_fa8bc25c:
@@ -221,7 +221,7 @@ translate ru JaeidPath3_fa8bc25c:
 # JaeidPath3_9a2b2816 (line 20641)
 translate ru JaeidPath3_9a2b2816:
     # jas "Why do you think that is? Because they value women around here?"
-    jas ""
+    jas "Why do you think that is? Because they value women around here?"
 
 # JaeidPath3_d9ee9136 (line 20642)
 translate ru JaeidPath3_d9ee9136:
@@ -231,12 +231,12 @@ translate ru JaeidPath3_d9ee9136:
 # JaeidPath3_8cf68d90 (line 20643)
 translate ru JaeidPath3_8cf68d90:
     # s "No..."
-    s ""
+    s "No..."
 
 # JaeidPath3_6400f5c5 (line 20644)
 translate ru JaeidPath3_6400f5c5:
     # jas "So why do you think you could go about unmolested then?"
-    jas ""
+    jas "So why do you think you could go about unmolested then?"
 
 # JaeidPath3_b006fb9f (line 20645)
 translate ru JaeidPath3_b006fb9f:
@@ -246,37 +246,37 @@ translate ru JaeidPath3_b006fb9f:
 # JaeidPath3_ef823bd1 (line 20646)
 translate ru JaeidPath3_ef823bd1:
     # s "Because I am his..."
-    s ""
+    s "Because I am his..."
 
 # JaeidPath3_5b993570 (line 20647)
 translate ru JaeidPath3_5b993570:
     # jas "Exactly."
-    jas ""
+    jas "Exactly."
 
 # JaeidPath3_05345884 (line 20648)
 translate ru JaeidPath3_05345884:
     # jas "Your his slave. Your no different in their eyes than the shoes he wears."
-    jas ""
+    jas "Your his slave. Your no different in their eyes than the shoes he wears."
 
 # JaeidPath3_1dc0ad9a (line 20649)
 translate ru JaeidPath3_1dc0ad9a:
     # jas "You wouldn't disrespect a man by stealing his shoes. So too, you wouldn't disrespect a man by harming his slave."
-    jas ""
+    jas "You wouldn't disrespect a man by stealing his shoes. So too, you wouldn't disrespect a man by harming his slave."
 
 # JaeidPath3_656304cb (line 20650)
 translate ru JaeidPath3_656304cb:
     # jas "They don't worry about hurting you. They worry about hurting his pride."
-    jas ""
+    jas "They don't worry about hurting you. They worry about hurting his pride."
 
 # JaeidPath3_e9379665 (line 20651)
 translate ru JaeidPath3_e9379665:
     # jas "And Jaeid is well respected around these parts."
-    jas ""
+    jas "And Jaeid is well respected around these parts."
 
 # JaeidPath3_66e83d60 (line 20652)
 translate ru JaeidPath3_66e83d60:
     # s "I see..."
-    s ""
+    s "I see..."
 
 # JaeidPath3_0f4a5eff (line 20653)
 translate ru JaeidPath3_0f4a5eff:
@@ -286,42 +286,42 @@ translate ru JaeidPath3_0f4a5eff:
 # JaeidPath3_a63b6e4a (line 20654)
 translate ru JaeidPath3_a63b6e4a:
     # s "So if I walk out there..."
-    s ""
+    s "So if I walk out there..."
 
 # JaeidPath3_58625526 (line 20655)
 translate ru JaeidPath3_58625526:
     # jas "You will be safe, so far as people understand what you are. A slave that belongs to someone."
-    jas ""
+    jas "You will be safe, so far as people understand what you are. A slave that belongs to someone."
 
 # JaeidPath3_24faa635 (line 20656)
 translate ru JaeidPath3_24faa635:
     # jas "But still, this city being what it is..."
-    jas ""
+    jas "But still, this city being what it is..."
 
 # JaeidPath3_f0edd76f (line 20657)
 translate ru JaeidPath3_f0edd76f:
     # jas "The truth is there are men who don't even respect that much. There are still dangers out there."
-    jas ""
+    jas "The truth is there are men who don't even respect that much. There are still dangers out there."
 
 # JaeidPath3_12013862 (line 20658)
 translate ru JaeidPath3_12013862:
     # s "Can I call upon the guards?"
-    s ""
+    s "Can I call upon the guards?"
 
 # JaeidPath3_e31c6e24 (line 20659)
 translate ru JaeidPath3_e31c6e24:
     # jas "Sure, but this is not Rosanna. The guards are mostly bored warriors who prefer to be gambling and drinking."
-    jas ""
+    jas "Sure, but this is not Rosanna. The guards are mostly bored warriors who prefer to be gambling and drinking."
 
 # JaeidPath3_27950276 (line 20660)
 translate ru JaeidPath3_27950276:
     # jas "And the truth is, a slave being used is hardly anything they worry much over."
-    jas ""
+    jas "And the truth is, a slave being used is hardly anything they worry much over."
 
 # JaeidPath3_895fe976 (line 20661)
 translate ru JaeidPath3_895fe976:
     # jas "At most, if they even find the man guilty of it, he would be sentenced to paying Jaeid some coin as an apology."
-    jas ""
+    jas "At most, if they even find the man guilty of it, he would be sentenced to paying Jaeid some coin as an apology."
 
 # JaeidPath3_05a418f1 (line 20662)
 translate ru JaeidPath3_05a418f1:
@@ -341,22 +341,22 @@ translate ru JaeidPath3_76045836:
 # JaeidPath3_d652213d (line 20668)
 translate ru JaeidPath3_d652213d:
     # j "Jasmine!"
-    j ""
+    j "Jasmine!"
 
 # JaeidPath3_ec526b13 (line 20669)
 translate ru JaeidPath3_ec526b13:
     # jas "What?"
-    jas ""
+    jas "What?"
 
 # JaeidPath3_fe463239 (line 20670)
 translate ru JaeidPath3_fe463239:
     # j "Look at her! You're scaring the poor girl."
-    j ""
+    j "Look at her! You're scaring the poor girl."
 
 # JaeidPath3_c926614d (line 20671)
 translate ru JaeidPath3_c926614d:
     # jas "Scaring? I'm just preparing her for the real world."
-    jas ""
+    jas "Scaring? I'm just preparing her for the real world."
 
 # JaeidPath3_ffe3d4b0 (line 20672)
 translate ru JaeidPath3_ffe3d4b0:
@@ -376,17 +376,17 @@ translate ru JaeidPath3_ac2e3944:
 # JaeidPath3_f1a6f226 (line 20675)
 translate ru JaeidPath3_f1a6f226:
     # s "I..."
-    s ""
+    s "I..."
 
 # JaeidPath3_2a148449 (line 20676)
 translate ru JaeidPath3_2a148449:
     # j "Yes? What is it, Sarah?"
-    j ""
+    j "Yes? What is it, Sarah?"
 
 # JaeidPath3_64daf5ca (line 20677)
 translate ru JaeidPath3_64daf5ca:
     # s "I was wondering if perhaps...there was something to be done about...this?"
-    s ""
+    s "I was wondering if perhaps...there was something to be done about...this?"
 
 # JaeidPath3_85d10f96 (line 20678)
 translate ru JaeidPath3_85d10f96:
@@ -406,7 +406,7 @@ translate ru JaeidPath3_e56e160a:
 # JaeidPath3_d9cab7eb (line 20681)
 translate ru JaeidPath3_d9cab7eb:
     # j "Ooh...yes...I..."
-    j ""
+    j "Ooh...yes...I..."
 
 # JaeidPath3_9029a764 (line 20682)
 translate ru JaeidPath3_9029a764:
@@ -416,27 +416,27 @@ translate ru JaeidPath3_9029a764:
 # JaeidPath3_6b4da888 (line 20683)
 translate ru JaeidPath3_6b4da888:
     # j "Do you think if we gave her a tunic it would-"
-    j ""
+    j "Do you think if we gave her a tunic it would-"
 
 # JaeidPath3_786d63dc (line 20684)
 translate ru JaeidPath3_786d63dc:
     # jas "What are you trying to do?! Get us both killed?"
-    jas ""
+    jas "What are you trying to do?! Get us both killed?"
 
 # JaeidPath3_449f0885 (line 20685)
 translate ru JaeidPath3_449f0885:
     # j "I just mean, nobody knows that-"
-    j ""
+    j "I just mean, nobody knows that-"
 
 # JaeidPath3_892cc205 (line 20686)
 translate ru JaeidPath3_892cc205:
     # jas "They will! Someone saw her through the window. They saw you walk the streets with her. People aren't fools, Jaeid."
-    jas ""
+    jas "They will! Someone saw her through the window. They saw you walk the streets with her. People aren't fools, Jaeid."
 
 # JaeidPath3_eaa270e6 (line 20687)
 translate ru JaeidPath3_eaa270e6:
     # jas "They know what she is, and you know the laws."
-    jas ""
+    jas "They know what she is, and you know the laws."
 
 # JaeidPath3_5acb51ba (line 20688)
 translate ru JaeidPath3_5acb51ba:
@@ -446,7 +446,7 @@ translate ru JaeidPath3_5acb51ba:
 # JaeidPath3_ae914325 (line 20689)
 translate ru JaeidPath3_ae914325:
     # j "So what then?"
-    j ""
+    j "So what then?"
 
 # JaeidPath3_fbe2e5f3 (line 20690)
 translate ru JaeidPath3_fbe2e5f3:
@@ -456,12 +456,12 @@ translate ru JaeidPath3_fbe2e5f3:
 # JaeidPath3_b54c68e4 (line 20691)
 translate ru JaeidPath3_b54c68e4:
     # jas "Well...I still have my old uniform from when you first claimed me."
-    jas ""
+    jas "Well...I still have my old uniform from when you first claimed me."
 
 # JaeidPath3_da0475f2 (line 20692)
 translate ru JaeidPath3_da0475f2:
     # jas "She can have that."
-    jas ""
+    jas "She can have that."
 
 # JaeidPath3_21956d18 (line 20693)
 translate ru JaeidPath3_21956d18:
@@ -471,17 +471,17 @@ translate ru JaeidPath3_21956d18:
 # JaeidPath3_20884b05 (line 20694)
 translate ru JaeidPath3_20884b05:
     # j "You still have that?"
-    j ""
+    j "You still have that?"
 
 # JaeidPath3_08d2488b (line 20695)
 translate ru JaeidPath3_08d2488b:
     # jas "Yeah, maybe I thought it would come in handy one day when you proved to be an idiot again."
-    jas ""
+    jas "Yeah, maybe I thought it would come in handy one day when you proved to be an idiot again."
 
 # JaeidPath3_ffc0c368 (line 20696)
 translate ru JaeidPath3_ffc0c368:
     # j "Maybe I was an idiot the day I claimed you."
-    j ""
+    j "Maybe I was an idiot the day I claimed you."
 
 # JaeidPath3_688e8b82 (line 20697)
 translate ru JaeidPath3_688e8b82:
@@ -491,7 +491,7 @@ translate ru JaeidPath3_688e8b82:
 # JaeidPath3_a7614183 (line 20698)
 translate ru JaeidPath3_a7614183:
     # jas "That much is probably true. I'll go and see about uniform, give me a moment."
-    jas ""
+    jas "That much is probably true. I'll go and see about uniform, give me a moment."
 
 # JaeidPath3_f996b4a0 (line 20699)
 translate ru JaeidPath3_f996b4a0:
@@ -506,37 +506,37 @@ translate ru JaeidPath3_191a925e:
 # JaeidPath3_4e8630b4 (line 20701)
 translate ru JaeidPath3_4e8630b4:
     # s "What...is that?"
-    s ""
+    s "What...is that?"
 
 # JaeidPath3_7434af5c (line 20702)
 translate ru JaeidPath3_7434af5c:
     # jas "Clothes."
-    jas ""
+    jas "Clothes."
 
 # JaeidPath3_70bd2755 (line 20703)
 translate ru JaeidPath3_70bd2755:
     # s "Those are not...they are barely undergarments, let alone clothes!"
-    s ""
+    s "Those are not...they are barely undergarments, let alone clothes!"
 
 # JaeidPath3_9963a114 (line 20704)
 translate ru JaeidPath3_9963a114:
     # s "Surely you must have something more...decent?"
-    s ""
+    s "Surely you must have something more...decent?"
 
 # JaeidPath3_7a94e04b (line 20705)
 translate ru JaeidPath3_7a94e04b:
     # jas "Ooh, trust me, we do. But there are laws."
-    jas ""
+    jas "Ooh, trust me, we do. But there are laws."
 
 # JaeidPath3_dba7dfec (line 20706)
 translate ru JaeidPath3_dba7dfec:
     # s "Laws?"
-    s ""
+    s "Laws?"
 
 # JaeidPath3_b07d23cd (line 20707)
 translate ru JaeidPath3_b07d23cd:
     # jas "You want to to tell her, Jaeid?"
-    jas ""
+    jas "You want to to tell her, Jaeid?"
 
 # JaeidPath3_cc4078d8 (line 20708)
 translate ru JaeidPath3_cc4078d8:
@@ -546,12 +546,12 @@ translate ru JaeidPath3_cc4078d8:
 # JaeidPath3_f4e5f6ea (line 20709)
 translate ru JaeidPath3_f4e5f6ea:
     # j "The laws dictate that a slave must be...easily visible as such."
-    j ""
+    j "The laws dictate that a slave must be...easily visible as such."
 
 # JaeidPath3_8b11af9e (line 20710)
 translate ru JaeidPath3_8b11af9e:
     # j "And in practice that means...well a slave uniform."
-    j ""
+    j "And in practice that means...well a slave uniform."
 
 # JaeidPath3_82767eb2 (line 20711)
 translate ru JaeidPath3_82767eb2:
@@ -561,7 +561,7 @@ translate ru JaeidPath3_82767eb2:
 # JaeidPath3_0ab8112e (line 20712)
 translate ru JaeidPath3_0ab8112e:
     # s "You...want me to wear that?"
-    s ""
+    s "You...want me to wear that?"
 
 # JaeidPath3_ce612fe8 (line 20713)
 translate ru JaeidPath3_ce612fe8:
@@ -571,7 +571,7 @@ translate ru JaeidPath3_ce612fe8:
 # JaeidPath3_325a02cb (line 20714)
 translate ru JaeidPath3_325a02cb:
     # j "Trust me, if I could give you a tunic, I would, but the laws are strict on this matter..."
-    j ""
+    j "Trust me, if I could give you a tunic, I would, but the laws are strict on this matter..."
 
 # JaeidPath3_fbedaa65 (line 20715)
 translate ru JaeidPath3_fbedaa65:
@@ -601,7 +601,7 @@ translate ru JaeidPath3_0d2da896:
 # JaeidPath3_0842d291 (line 20724)
 translate ru JaeidPath3_0842d291:
     # s "How do I...look?"
-    s ""
+    s "How do I...look?"
 
 # JaeidPath3_51d9676e (line 20725)
 translate ru JaeidPath3_51d9676e:
@@ -611,7 +611,7 @@ translate ru JaeidPath3_51d9676e:
 # JaeidPath3_71b95d6d (line 20726)
 translate ru JaeidPath3_71b95d6d:
     # jas "You look the part of a slave. Mister proper here probably can't stand to look at you though."
-    jas ""
+    jas "You look the part of a slave. Mister proper here probably can't stand to look at you though."
 
 # JaeidPath3_011a23b4 (line 20727)
 translate ru JaeidPath3_011a23b4:
@@ -621,22 +621,22 @@ translate ru JaeidPath3_011a23b4:
 # JaeidPath3_c4190ce6 (line 20728)
 translate ru JaeidPath3_c4190ce6:
     # jas "Don't worry, he was like that with me too when I first came here."
-    jas ""
+    jas "Don't worry, he was like that with me too when I first came here."
 
 # JaeidPath3_4da6f33d (line 20729)
 translate ru JaeidPath3_4da6f33d:
     # j "Jasmine! Enough!"
-    j ""
+    j "Jasmine! Enough!"
 
 # JaeidPath3_0b669d62 (line 20730)
 translate ru JaeidPath3_0b669d62:
     # jas "What? It's true. He's more shy than he likes to show."
-    jas ""
+    jas "What? It's true. He's more shy than he likes to show."
 
 # JaeidPath3_0ca9316d (line 20731)
 translate ru JaeidPath3_0ca9316d:
     # s "But you can wear a tunic now?"
-    s ""
+    s "But you can wear a tunic now?"
 
 # JaeidPath3_c80da180 (line 20732)
 translate ru JaeidPath3_c80da180:
@@ -646,7 +646,7 @@ translate ru JaeidPath3_c80da180:
 # JaeidPath3_88478f62 (line 20733)
 translate ru JaeidPath3_88478f62:
     # jas "There are ways to free oneself. Earn the right to stop wearing...well that."
-    jas ""
+    jas "There are ways to free oneself. Earn the right to stop wearing...well that."
 
 # JaeidPath3_ca3ed1ad (line 20734)
 translate ru JaeidPath3_ca3ed1ad:
@@ -656,7 +656,7 @@ translate ru JaeidPath3_ca3ed1ad:
 # JaeidPath3_f010c828 (line 20735)
 translate ru JaeidPath3_f010c828:
     # s "Can't you just free me then?"
-    s ""
+    s "Can't you just free me then?"
 
 # JaeidPath3_5127d8d7 (line 20736)
 translate ru JaeidPath3_5127d8d7:
@@ -666,37 +666,37 @@ translate ru JaeidPath3_5127d8d7:
 # JaeidPath3_57a982c8 (line 20737)
 translate ru JaeidPath3_57a982c8:
     # j "No...I fear not."
-    j ""
+    j "No...I fear not."
 
 # JaeidPath3_e0184405 (line 20738)
 translate ru JaeidPath3_e0184405:
     # s "Why?"
-    s ""
+    s "Why?"
 
 # JaeidPath3_91a5c37f (line 20739)
 translate ru JaeidPath3_91a5c37f:
     # jas "Because the Tribes respect a slave that learns their place. Works to integrate into the Tribes. Become a member by submitting."
-    jas ""
+    jas "Because the Tribes respect a slave that learns their place. Works to integrate into the Tribes. Become a member by submitting."
 
 # JaeidPath3_70ace7e0 (line 20740)
 translate ru JaeidPath3_70ace7e0:
     # jas "They allow masters to set their slaves free, but they are no fools."
-    jas ""
+    jas "They allow masters to set their slaves free, but they are no fools."
 
 # JaeidPath3_f441587f (line 20741)
 translate ru JaeidPath3_f441587f:
     # jas "They deeply believe in the system of slavery, and so anything done to overturn that is looked upon with suspicion."
-    jas ""
+    jas "They deeply believe in the system of slavery, and so anything done to overturn that is looked upon with suspicion."
 
 # JaeidPath3_78620f88 (line 20742)
 translate ru JaeidPath3_78620f88:
     # jas "If Jaeid claimed you one day and set you free the next day, they would know you had never earned your freedom."
-    jas ""
+    jas "If Jaeid claimed you one day and set you free the next day, they would know you had never earned your freedom."
 
 # JaeidPath3_a1627747 (line 20743)
 translate ru JaeidPath3_a1627747:
     # jas "And they would look at Jaeid with suspicion for undermining the institution."
-    jas ""
+    jas "And they would look at Jaeid with suspicion for undermining the institution."
 
 # JaeidPath3_d43978da (line 20744)
 translate ru JaeidPath3_d43978da:
@@ -706,7 +706,7 @@ translate ru JaeidPath3_d43978da:
 # JaeidPath3_8eaf3912 (line 20745)
 translate ru JaeidPath3_8eaf3912:
     # jas "Also, they would simply never respect him as a man again."
-    jas ""
+    jas "Also, they would simply never respect him as a man again."
 
 # JaeidPath3_334ff178 (line 20746)
 translate ru JaeidPath3_334ff178:
@@ -716,12 +716,12 @@ translate ru JaeidPath3_334ff178:
 # JaeidPath3_3cc944b7 (line 20747)
 translate ru JaeidPath3_3cc944b7:
     # s "What do you mean?"
-    s ""
+    s "What do you mean?"
 
 # JaeidPath3_f7ae17c1 (line 20748)
 translate ru JaeidPath3_f7ae17c1:
     # jas "Because no proper Tribesman would ever let a girl like you go free without putting half a dozen babies in you."
-    jas ""
+    jas "Because no proper Tribesman would ever let a girl like you go free without putting half a dozen babies in you."
 
 # JaeidPath3_721dcd37 (line 20749)
 translate ru JaeidPath3_721dcd37:
@@ -731,12 +731,12 @@ translate ru JaeidPath3_721dcd37:
 # JaeidPath3_0919a05c (line 20750)
 translate ru JaeidPath3_0919a05c:
     # j "Jasmine, stop scaring her."
-    j ""
+    j "Jasmine, stop scaring her."
 
 # JaeidPath3_adbd93ba (line 20751)
 translate ru JaeidPath3_adbd93ba:
     # jas "What? I'm not. Are you going to try and tell her they don't go nuts for girls like her?"
-    jas ""
+    jas "What? I'm not. Are you going to try and tell her they don't go nuts for girls like her?"
 
 # JaeidPath3_6244dd8e (line 20752)
 translate ru JaeidPath3_6244dd8e:
@@ -746,12 +746,12 @@ translate ru JaeidPath3_6244dd8e:
 # JaeidPath3_e2e92473 (line 20753)
 translate ru JaeidPath3_e2e92473:
     # jas "To you, all of this must seem exotic. But to them, you're the one that is exotic."
-    jas ""
+    jas "To you, all of this must seem exotic. But to them, you're the one that is exotic."
 
 # JaeidPath3_4668b1ce (line 20754)
 translate ru JaeidPath3_4668b1ce:
     # jas "Just keep your wits about you, is all I'm saying."
-    jas ""
+    jas "Just keep your wits about you, is all I'm saying."
 
 # JaeidPath3_8129c83e (line 20755)
 translate ru JaeidPath3_8129c83e:
@@ -761,42 +761,42 @@ translate ru JaeidPath3_8129c83e:
 # JaeidPath3_afde074b (line 20756)
 translate ru JaeidPath3_afde074b:
     # jas "Well, if we're all done with this, how about I show Sarah about?"
-    jas ""
+    jas "Well, if we're all done with this, how about I show Sarah about?"
 
 # JaeidPath3_91bc9d39 (line 20757)
 translate ru JaeidPath3_91bc9d39:
     # j "Is that wise? She would be safer here."
-    j ""
+    j "Is that wise? She would be safer here."
 
 # JaeidPath3_64f43956 (line 20758)
 translate ru JaeidPath3_64f43956:
     # jas "Of course she would be."
-    jas ""
+    jas "Of course she would be."
 
 # JaeidPath3_f9e7001b (line 20759)
 translate ru JaeidPath3_f9e7001b:
     # jas "Hell, go buy her a crate and we can lock her up in it and nobody will ever harm her."
-    jas ""
+    jas "Hell, go buy her a crate and we can lock her up in it and nobody will ever harm her."
 
 # JaeidPath3_77625324 (line 20760)
 translate ru JaeidPath3_77625324:
     # j "Jasmine, I-"
-    j ""
+    j "Jasmine, I-"
 
 # JaeidPath3_3ece289a (line 20761)
 translate ru JaeidPath3_3ece289a:
     # jas "Look, Jaeid, this is her new life. The sooner she gets used to it and learns the rules, the better."
-    jas ""
+    jas "Look, Jaeid, this is her new life. The sooner she gets used to it and learns the rules, the better."
 
 # JaeidPath3_f85824b2 (line 20762)
 translate ru JaeidPath3_f85824b2:
     # jas "Besides, I need new supplies for my work today, and she can help carry them."
-    jas ""
+    jas "Besides, I need new supplies for my work today, and she can help carry them."
 
 # JaeidPath3_ce92537b (line 20763)
 translate ru JaeidPath3_ce92537b:
     # j "Jasmine! She is not our slave!"
-    j ""
+    j "Jasmine! She is not our slave!"
 
 # JaeidPath3_fbe4ee9c (line 20764)
 translate ru JaeidPath3_fbe4ee9c:
@@ -806,7 +806,7 @@ translate ru JaeidPath3_fbe4ee9c:
 # JaeidPath3_43d7218b (line 20765)
 translate ru JaeidPath3_43d7218b:
     # s "It's okay, Jaeid. If I can be useful...I'd like to be. I think it's right what she says. It will help me learn about this place."
-    s ""
+    s "It's okay, Jaeid. If I can be useful...I'd like to be. I think it's right what she says. It will help me learn about this place."
 
 # JaeidPath3_2af2ebeb (line 20766)
 translate ru JaeidPath3_2af2ebeb:
@@ -821,12 +821,12 @@ translate ru JaeidPath3_6204ddcc:
 # JaeidPath3_04582aa4 (line 20768)
 translate ru JaeidPath3_04582aa4:
     # j "Fine, but be careful then."
-    j ""
+    j "Fine, but be careful then."
 
 # JaeidPath3_b0da5e93 (line 20769)
 translate ru JaeidPath3_b0da5e93:
     # j "I have business at the palace."
-    j ""
+    j "I have business at the palace."
 
 # JaeidPath3_5ad98631 (line 20770)
 translate ru JaeidPath3_5ad98631:
@@ -846,7 +846,7 @@ translate ru JaeidPath3_a72e0173:
 # JaeidPath3_da5fda45 (line 20781)
 translate ru JaeidPath3_da5fda45:
     # jas "Keep up."
-    jas ""
+    jas "Keep up."
 
 # JaeidPath3_abd31785 (line 20782)
 translate ru JaeidPath3_abd31785:
@@ -861,17 +861,17 @@ translate ru JaeidPath3_033ac9e2:
 # JaeidPath3_a88ee5b7 (line 20784)
 translate ru JaeidPath3_a88ee5b7:
     # jas "Sorry if I go a bit fast, but I like to walk the market early."
-    jas ""
+    jas "Sorry if I go a bit fast, but I like to walk the market early."
 
 # JaeidPath3_77af0783 (line 20785)
 translate ru JaeidPath3_77af0783:
     # jas "Before long, its going to be more crowded than anything you've ever seen."
-    jas ""
+    jas "Before long, its going to be more crowded than anything you've ever seen."
 
 # JaeidPath3_1ccd0e06 (line 20786)
 translate ru JaeidPath3_1ccd0e06:
     # jas "Better to do your shopping early and be gone befor the rush."
-    jas ""
+    jas "Better to do your shopping early and be gone befor the rush."
 
 # JaeidPath3_e9fddff3 (line 20787)
 translate ru JaeidPath3_e9fddff3:
@@ -881,17 +881,17 @@ translate ru JaeidPath3_e9fddff3:
 # JaeidPath3_728b7f32 (line 20788)
 translate ru JaeidPath3_728b7f32:
     # s "I see."
-    s ""
+    s "I see."
 
 # JaeidPath3_454255c7 (line 20789)
 translate ru JaeidPath3_454255c7:
     # s "What are we looking for, exactly?"
-    s ""
+    s "What are we looking for, exactly?"
 
 # JaeidPath3_39478074 (line 20790)
 translate ru JaeidPath3_39478074:
     # jas "Ink. A particular kind, Pale Eclipse, they call it."
-    jas ""
+    jas "Ink. A particular kind, Pale Eclipse, they call it."
 
 # JaeidPath3_c263c257 (line 20791)
 translate ru JaeidPath3_c263c257:
@@ -901,47 +901,47 @@ translate ru JaeidPath3_c263c257:
 # JaeidPath3_4d08c7cb (line 20792)
 translate ru JaeidPath3_4d08c7cb:
     # jas "You better learn to get over that."
-    jas ""
+    jas "You better learn to get over that."
 
 # JaeidPath3_30c428a2 (line 20793)
 translate ru JaeidPath3_30c428a2:
     # s "What?"
-    s ""
+    s "What?"
 
 # JaeidPath3_151d756e (line 20794)
 translate ru JaeidPath3_151d756e:
     # jas "That awkwardness. It might be cute in Rosanna, but here, it just signals weakness. And weakness invites troublemakers."
-    jas ""
+    jas "That awkwardness. It might be cute in Rosanna, but here, it just signals weakness. And weakness invites troublemakers."
 
 # JaeidPath3_8028039b (line 20795)
 translate ru JaeidPath3_8028039b:
     # s "So what do I do then?"
-    s ""
+    s "So what do I do then?"
 
 # JaeidPath3_49769cf5 (line 20796)
 translate ru JaeidPath3_49769cf5:
     # jas "Don't even make eye contact with them. You are Jaeid's property, and so by extension, you are beyond them."
-    jas ""
+    jas "Don't even make eye contact with them. You are Jaeid's property, and so by extension, you are beyond them."
 
 # JaeidPath3_30ba7578 (line 20797)
 translate ru JaeidPath3_30ba7578:
     # s "Is Jaeid that important?"
-    s ""
+    s "Is Jaeid that important?"
 
 # JaeidPath3_29bf7efa (line 20798)
 translate ru JaeidPath3_29bf7efa:
     # jas "Well, compared to the Khan or one of his captains, he isn't much."
-    jas ""
+    jas "Well, compared to the Khan or one of his captains, he isn't much."
 
 # JaeidPath3_8d706ee6 (line 20799)
 translate ru JaeidPath3_8d706ee6:
     # jas "But he has the Khan's ear and has proven himself on the battlefield."
-    jas ""
+    jas "But he has the Khan's ear and has proven himself on the battlefield."
 
 # JaeidPath3_d3d7f178 (line 20800)
 translate ru JaeidPath3_d3d7f178:
     # jas "For a former slave, he's done quite well for himself."
-    jas ""
+    jas "For a former slave, he's done quite well for himself."
 
 # JaeidPath3_465fc891 (line 20801)
 translate ru JaeidPath3_465fc891:
@@ -951,22 +951,7 @@ translate ru JaeidPath3_465fc891:
 # JaeidPath3_56a38e21 (line 20802)
 translate ru JaeidPath3_56a38e21:
     # jas "That is one of the Ink merchants, let's go ahead and see if he as what I need."
-    jas ""
-
-# JaeidPath3_83dbb783 (line 20805)
-translate ru JaeidPath3_83dbb783:
-    # "You're looking for Pale Eclipse Ink"
-    "You're looking for Pale Eclipse Ink" ""
-
-# JaeidPath3_e832629f (line 20822)
-translate ru JaeidPath3_e832629f:
-    # "You're looking for White Moonfall Ink"
-    "You're looking for White Moonfall Ink" ""
-
-# JaeidPath3_a5196377 (line 20826)
-translate ru JaeidPath3_a5196377:
-    # "You're looking for Faded Stars Ink"
-    "You're looking for Faded Stars Ink" ""
+    jas "That is one of the Ink merchants, let's go ahead and see if he as what I need."
 
 # JaeidPath3_46ec3f7c (line 20831)
 translate ru JaeidPath3_46ec3f7c:
@@ -981,17 +966,17 @@ translate ru JaeidPath3_5b511dbc:
 # JaeidPath3_c0fc62a2 (line 20833)
 translate ru JaeidPath3_c0fc62a2:
     # s "It's...all ink."
-    s ""
+    s "It's...all ink."
 
 # JaeidPath3_c58804b4 (line 20834)
 translate ru JaeidPath3_c58804b4:
     # jas "Well, yeah. It is an ink merchant, after all."
-    jas ""
+    jas "Well, yeah. It is an ink merchant, after all."
 
 # JaeidPath3_be3a0c1b (line 20835)
 translate ru JaeidPath3_be3a0c1b:
     # s "But I mean...what difference does it make?"
-    s ""
+    s "But I mean...what difference does it make?"
 
 # JaeidPath3_fd296129 (line 20836)
 translate ru JaeidPath3_fd296129:
@@ -1001,12 +986,12 @@ translate ru JaeidPath3_fd296129:
 # JaeidPath3_20465731 (line 20837)
 translate ru JaeidPath3_20465731:
     # jas "Colour wise, there are some subtle differences."
-    jas ""
+    jas "Colour wise, there are some subtle differences."
 
 # JaeidPath3_a23d503b (line 20838)
 translate ru JaeidPath3_a23d503b:
     # jas "Those are typical black, but those others turn a dark purple after a few days."
-    jas ""
+    jas "Those are typical black, but those others turn a dark purple after a few days."
 
 # JaeidPath3_8cdb5509 (line 20839)
 translate ru JaeidPath3_8cdb5509:
@@ -1016,27 +1001,27 @@ translate ru JaeidPath3_8cdb5509:
 # JaeidPath3_b2e51ad5 (line 20840)
 translate ru JaeidPath3_b2e51ad5:
     # jas "That there is Pale Eclips, what I use for my cartography."
-    jas ""
+    jas "That there is Pale Eclips, what I use for my cartography."
 
 # JaeidPath3_7a78add7 (line 20841)
 translate ru JaeidPath3_7a78add7:
     # s "Why? If it's all black anyway?"
-    s ""
+    s "Why? If it's all black anyway?"
 
 # JaeidPath3_4c64e894 (line 20842)
 translate ru JaeidPath3_4c64e894:
     # jas "It binds the easiest with the paper I use."
-    jas ""
+    jas "It binds the easiest with the paper I use."
 
 # JaeidPath3_1830b10d (line 20843)
 translate ru JaeidPath3_1830b10d:
     # jas "The maps I make are mostly used for war campaigns, so they are a tougher parchment made from a particular tree from this region."
-    jas ""
+    jas "The maps I make are mostly used for war campaigns, so they are a tougher parchment made from a particular tree from this region."
 
 # JaeidPath3_b2cfd2bc (line 20844)
 translate ru JaeidPath3_b2cfd2bc:
     # jas "Regular ink doesn't bind well, the maps get faded, and before you know it the army is marching in the wrong direction."
-    jas ""
+    jas "Regular ink doesn't bind well, the maps get faded, and before you know it the army is marching in the wrong direction."
 
 # JaeidPath3_515388cd (line 20845)
 translate ru JaeidPath3_515388cd:
@@ -1046,32 +1031,32 @@ translate ru JaeidPath3_515388cd:
 # JaeidPath3_3affc32d (line 20846)
 translate ru JaeidPath3_3affc32d:
     # s "What?"
-    s ""
+    s "What?"
 
 # JaeidPath3_8a3c3539 (line 20847)
 translate ru JaeidPath3_8a3c3539:
     # jas "One time I sold a map that was a bit poorer in quality."
-    jas ""
+    jas "One time I sold a map that was a bit poorer in quality."
 
 # JaeidPath3_e1a44615 (line 20848)
 translate ru JaeidPath3_e1a44615:
     # jas "They ended up looting the wrong city near one of the borders."
-    jas ""
+    jas "They ended up looting the wrong city near one of the borders."
 
 # JaeidPath3_738ab8ac (line 20849)
 translate ru JaeidPath3_738ab8ac:
     # jas "Can you imagine?"
-    jas ""
+    jas "Can you imagine?"
 
 # JaeidPath3_93e698e7 (line 20850)
 translate ru JaeidPath3_93e698e7:
     # jas "Your whole family killed. Your home burned. Turned into a slave."
-    jas ""
+    jas "Your whole family killed. Your home burned. Turned into a slave."
 
 # JaeidPath3_619c7331 (line 20851)
 translate ru JaeidPath3_619c7331:
     # jas "All because some girl you never met forgot to use the proper ink and sold a faded map to a raiding party."
-    jas ""
+    jas "All because some girl you never met forgot to use the proper ink and sold a faded map to a raiding party."
 
 # JaeidPath3_7e988751 (line 20852)
 translate ru JaeidPath3_7e988751:
@@ -1081,7 +1066,7 @@ translate ru JaeidPath3_7e988751:
 # JaeidPath3_40e0201c (line 20853)
 translate ru JaeidPath3_40e0201c:
     # s "That's horrible."
-    s ""
+    s "That's horrible."
 
 # JaeidPath3_29282271 (line 20854)
 translate ru JaeidPath3_29282271:
@@ -1091,12 +1076,12 @@ translate ru JaeidPath3_29282271:
 # JaeidPath3_519335b9 (line 20855)
 translate ru JaeidPath3_519335b9:
     # jas "What?"
-    jas ""
+    jas "What?"
 
 # JaeidPath3_782dc466 (line 20856)
 translate ru JaeidPath3_782dc466:
     # s "I can't believe you would laugh at something like that."
-    s ""
+    s "I can't believe you would laugh at something like that."
 
 # JaeidPath3_97019fd5 (line 20857)
 translate ru JaeidPath3_97019fd5:
@@ -1106,12 +1091,12 @@ translate ru JaeidPath3_97019fd5:
 # JaeidPath3_fa3b35b4 (line 20858)
 translate ru JaeidPath3_fa3b35b4:
     # jas "I..."
-    jas ""
+    jas "I..."
 
 # JaeidPath3_4f868dae (line 20859)
 translate ru JaeidPath3_4f868dae:
     # jas "Sorry."
-    jas ""
+    jas "Sorry."
 
 # JaeidPath3_8f5f64e2 (line 20860)
 translate ru JaeidPath3_8f5f64e2:
@@ -1121,17 +1106,17 @@ translate ru JaeidPath3_8f5f64e2:
 # JaeidPath3_5e60764e (line 20861)
 translate ru JaeidPath3_5e60764e:
     # jas "I forget myself sometimes. With Jaeid, I can joke because he understands where I come from."
-    jas ""
+    jas "I forget myself sometimes. With Jaeid, I can joke because he understands where I come from."
 
 # JaeidPath3_895599a2 (line 20862)
 translate ru JaeidPath3_895599a2:
     # jas "I have to get used to you being here now."
-    jas ""
+    jas "I have to get used to you being here now."
 
 # JaeidPath3_2c39ff6e (line 20863)
 translate ru JaeidPath3_2c39ff6e:
     # jas "I laugh about all this because...well the alternative is that I cry about it all day, and I can't do that."
-    jas ""
+    jas "I laugh about all this because...well the alternative is that I cry about it all day, and I can't do that."
 
 # JaeidPath3_1b081e8d (line 20864)
 translate ru JaeidPath3_1b081e8d:
@@ -1141,12 +1126,12 @@ translate ru JaeidPath3_1b081e8d:
 # JaeidPath3_66dd6bff (line 20865)
 translate ru JaeidPath3_66dd6bff:
     # s "Sorry if I was too harsh...I just, this is all still new to me. Laughing about it seems..."
-    s ""
+    s "Sorry if I was too harsh...I just, this is all still new to me. Laughing about it seems..."
 
 # JaeidPath3_9d59dcbf (line 20866)
 translate ru JaeidPath3_9d59dcbf:
     # jas "Cruel. I get that."
-    jas ""
+    jas "Cruel. I get that."
 
 # JaeidPath3_1ef8f1ce (line 20867)
 translate ru JaeidPath3_1ef8f1ce:
@@ -1161,22 +1146,22 @@ translate ru JaeidPath3_2d714b3a:
 # JaeidPath3_9c02a8a0 (line 20869)
 translate ru JaeidPath3_9c02a8a0:
     # s "That is...you speak the language of the Tribes?"
-    s ""
+    s "That is...you speak the language of the Tribes?"
 
 # JaeidPath3_cf1bbb20 (line 20870)
 translate ru JaeidPath3_cf1bbb20:
     # jas "Ooh yeah, picked it up years back. I'm not as good as Jaeid, but I can make myself understood."
-    jas ""
+    jas "Ooh yeah, picked it up years back. I'm not as good as Jaeid, but I can make myself understood."
 
 # JaeidPath3_096c2696 (line 20871)
 translate ru JaeidPath3_096c2696:
     # jas "You should probably study up on it too."
-    jas ""
+    jas "You should probably study up on it too."
 
 # JaeidPath3_2a447162 (line 20872)
 translate ru JaeidPath3_2a447162:
     # s "You think so?"
-    s ""
+    s "You think so?"
 
 # JaeidPath3_5f25ca80 (line 20873)
 translate ru JaeidPath3_5f25ca80:
@@ -1186,17 +1171,17 @@ translate ru JaeidPath3_5f25ca80:
 # JaeidPath3_615fb0f7 (line 20874)
 translate ru JaeidPath3_615fb0f7:
     # jas "The Tribesmen appreciate any slave that learns their language. And Gods know they won't learn any other language."
-    jas ""
+    jas "The Tribesmen appreciate any slave that learns their language. And Gods know they won't learn any other language."
 
 # JaeidPath3_735efcb3 (line 20875)
 translate ru JaeidPath3_735efcb3:
     # jas "If you ever want to have any hope of being freed, speaking their language is pretty much a requirement."
-    jas ""
+    jas "If you ever want to have any hope of being freed, speaking their language is pretty much a requirement."
 
 # JaeidPath3_e83b4ea0 (line 20876)
 translate ru JaeidPath3_e83b4ea0:
     # s "I see..."
-    s ""
+    s "I see..."
 
 # JaeidPath3_ced60890 (line 20877)
 translate ru JaeidPath3_ced60890:
@@ -1206,7 +1191,7 @@ translate ru JaeidPath3_ced60890:
 # JaeidPath3_61764238 (line 20878)
 translate ru JaeidPath3_61764238:
     # jas "Here, hold these."
-    jas ""
+    jas "Here, hold these."
 
 # JaeidPath3_6834d8d3 (line 20879)
 translate ru JaeidPath3_6834d8d3:
@@ -1216,12 +1201,12 @@ translate ru JaeidPath3_6834d8d3:
 # JaeidPath3_6bd74178 (line 20880)
 translate ru JaeidPath3_6bd74178:
     # s "This is a lot..."
-    s ""
+    s "This is a lot..."
 
 # JaeidPath3_0578e19c (line 20881)
 translate ru JaeidPath3_0578e19c:
     # jas "Sure, it's usually a pain for me to carry all of this, but now I got you."
-    jas ""
+    jas "Sure, it's usually a pain for me to carry all of this, but now I got you."
 
 # JaeidPath3_6772d833 (line 20882)
 translate ru JaeidPath3_6772d833:
@@ -1236,12 +1221,12 @@ translate ru JaeidPath3_5c200211:
 # JaeidPath3_62689ca6 (line 20884)
 translate ru JaeidPath3_62689ca6:
     # s "What is that?"
-    s ""
+    s "What is that?"
 
 # JaeidPath3_096ca036 (line 20885)
 translate ru JaeidPath3_096ca036:
     # jas "Huh?"
-    jas ""
+    jas "Huh?"
 
 # JaeidPath3_8a779e36 (line 20886)
 translate ru JaeidPath3_8a779e36:
@@ -1251,7 +1236,7 @@ translate ru JaeidPath3_8a779e36:
 # JaeidPath3_2cb4723f (line 20887)
 translate ru JaeidPath3_2cb4723f:
     # jas "Ooh, that's a marking kit."
-    jas ""
+    jas "Ooh, that's a marking kit."
 
 # JaeidPath3_4b82dda5 (line 20888)
 translate ru JaeidPath3_4b82dda5:
@@ -1261,17 +1246,17 @@ translate ru JaeidPath3_4b82dda5:
 # JaeidPath3_51225dc4 (line 20889)
 translate ru JaeidPath3_51225dc4:
     # s "A marking kit?"
-    s ""
+    s "A marking kit?"
 
 # JaeidPath3_95e2bb8b (line 20890)
 translate ru JaeidPath3_95e2bb8b:
     # jas "Yeah, some like to use it for their slaves."
-    jas ""
+    jas "Yeah, some like to use it for their slaves."
 
 # JaeidPath3_a97595f0 (line 20891)
 translate ru JaeidPath3_a97595f0:
     # jas "They tattoo their names, or their family sigils on their slaves."
-    jas ""
+    jas "They tattoo their names, or their family sigils on their slaves."
 
 # JaeidPath3_48f17785 (line 20892)
 translate ru JaeidPath3_48f17785:
@@ -1281,22 +1266,22 @@ translate ru JaeidPath3_48f17785:
 # JaeidPath3_000aaea2 (line 20893)
 translate ru JaeidPath3_000aaea2:
     # s "I..."
-    s ""
+    s "I..."
 
 # JaeidPath3_557f0f4a (line 20894)
 translate ru JaeidPath3_557f0f4a:
     # jas "Ooh don't worry."
-    jas ""
+    jas "Ooh don't worry."
 
 # JaeidPath3_a007690d (line 20895)
 translate ru JaeidPath3_a007690d:
     # jas "Jaeid isn't into all that."
-    jas ""
+    jas "Jaeid isn't into all that."
 
 # JaeidPath3_4916a6c7 (line 20896)
 translate ru JaeidPath3_4916a6c7:
     # s "But others..."
-    s ""
+    s "But others..."
 
 # JaeidPath3_ffaa0e0e (line 20897)
 translate ru JaeidPath3_ffaa0e0e:
@@ -1341,7 +1326,7 @@ translate ru JaeidPath3_ac90897c:
 # JaeidPath3_c6a31383 (line 20917)
 translate ru JaeidPath3_c6a31383:
     # jas "Hey!"
-    jas ""
+    jas "Hey!"
 
 # JaeidPath3_5f69fd3a (line 20918)
 translate ru JaeidPath3_5f69fd3a:
@@ -1351,12 +1336,12 @@ translate ru JaeidPath3_5f69fd3a:
 # JaeidPath3_3deaf549 (line 20919)
 translate ru JaeidPath3_3deaf549:
     # s "What?"
-    s ""
+    s "What?"
 
 # JaeidPath3_96a9065f (line 20920)
 translate ru JaeidPath3_96a9065f:
     # jas "Keep your wits on you here, alright? Don't go day dreamin."
-    jas ""
+    jas "Keep your wits on you here, alright? Don't go day dreamin."
 
 # JaeidPath3_48ca8320 (line 20921)
 translate ru JaeidPath3_48ca8320:
@@ -1366,7 +1351,7 @@ translate ru JaeidPath3_48ca8320:
 # JaeidPath3_5793482b (line 20922)
 translate ru JaeidPath3_5793482b:
     # jas "Let's go and head back. I have work to do."
-    jas ""
+    jas "Let's go and head back. I have work to do."
 
 # JaeidPath3_1bcf20a0 (line 20923)
 translate ru JaeidPath3_1bcf20a0:

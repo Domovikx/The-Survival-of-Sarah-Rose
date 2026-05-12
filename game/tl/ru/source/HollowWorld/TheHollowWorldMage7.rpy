@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Extracted from: C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\script.rpy
 # Scene: TheHollowWorldMage7
-# Total blocks: 61
+# Total blocks: 53
 
 # TheHollowWorldMage7_22595b8f (line 75502)
 translate ru TheHollowWorldMage7_22595b8f:
@@ -61,7 +61,7 @@ translate ru TheHollowWorldMage7_164daa46:
 # TheHollowWorldMage7_1ebc17a6 (line 75515)
 translate ru TheHollowWorldMage7_1ebc17a6:
     # r "This is a book on non-native flora growth patterns."
-    r ""
+    r "This is a book on non-native flora growth patterns."
 
 # TheHollowWorldMage7_19a741f7 (line 75516)
 translate ru TheHollowWorldMage7_19a741f7:
@@ -71,12 +71,12 @@ translate ru TheHollowWorldMage7_19a741f7:
 # TheHollowWorldMage7_e751b05c (line 75517)
 translate ru TheHollowWorldMage7_e751b05c:
     # s "Are you ever going to explain why I have to read all this?"
-    s ""
+    s "Are you ever going to explain why I have to read all this?"
 
 # TheHollowWorldMage7_a4cd0bbc (line 75518)
 translate ru TheHollowWorldMage7_a4cd0bbc:
     # r "You know why. If you want to understand their order, you must broaden the context of your understanding."
-    r ""
+    r "You know why. If you want to understand their order, you must broaden the context of your understanding."
 
 # TheHollowWorldMage7_f8bd0bb1 (line 75519)
 translate ru TheHollowWorldMage7_f8bd0bb1:
@@ -86,7 +86,7 @@ translate ru TheHollowWorldMage7_f8bd0bb1:
 # TheHollowWorldMage7_65f720bc (line 75520)
 translate ru TheHollowWorldMage7_65f720bc:
     # s "And a book on plants is going to do that?"
-    s ""
+    s "And a book on plants is going to do that?"
 
 # TheHollowWorldMage7_daaad87d (line 75521)
 translate ru TheHollowWorldMage7_daaad87d:
@@ -96,12 +96,12 @@ translate ru TheHollowWorldMage7_daaad87d:
 # TheHollowWorldMage7_58a79a18 (line 75522)
 translate ru TheHollowWorldMage7_58a79a18:
     # r "I understand that you are frustrated."
-    r ""
+    r "I understand that you are frustrated."
 
 # TheHollowWorldMage7_5b0f4657 (line 75523)
 translate ru TheHollowWorldMage7_5b0f4657:
     # r "Will you trust me that in time, very soon, I can explain everything to you?"
-    r ""
+    r "Will you trust me that in time, very soon, I can explain everything to you?"
 
 # TheHollowWorldMage7_8e8a78f2 (line 75524)
 translate ru TheHollowWorldMage7_8e8a78f2:
@@ -117,16 +117,6 @@ translate ru TheHollowWorldMage7_7cd1cdc0:
 translate ru TheHollowWorldMage7_903ee55a:
     # "Then again, Sarah knew she had very few friends left that could help her with subjects of magic."
     ""
-
-# TheHollowWorldMage7_98cd44f5 (line 75530)
-translate ru TheHollowWorldMage7_98cd44f5:
-    # "Say you trust the spirit"
-    "Say you trust the spirit" ""
-
-# TheHollowWorldMage7_450a22d6 (line 75535)
-translate ru TheHollowWorldMage7_450a22d6:
-    # "Say you don't trust the spirit"
-    "Say you don't trust the spirit" ""
 
 # TheHollowWorldMage7_59011d8a (line 75544)
 translate ru TheHollowWorldMage7_59011d8a:
@@ -277,34 +267,4 @@ translate ru TheHollowWorldMage7_736712b8:
 translate ru TheHollowWorldMage7_f62f816e:
     # "Sarah sat down at one of the tables."
     ""
-
-# TheHollowWorldMage7_39b7bcc4 (line 75828)
-translate ru TheHollowWorldMage7_39b7bcc4:
-    # "Do what he wants"
-    "Do what he wants" ""
-
-# TheHollowWorldMage7_e2902f9d (line 75962)
-translate ru TheHollowWorldMage7_e2902f9d:
-    # "Refuse"
-    "Refuse" ""
-
-# TheHollowWorldMage7_e0287811 (line 76137)
-translate ru TheHollowWorldMage7_e0287811:
-    # "Convince Alaric"
-    "Convince Alaric" ""
-
-# TheHollowWorldMage7_f66b9c59 (line 76165)
-translate ru TheHollowWorldMage7_f66b9c59:
-    # "Agree"
-    "Agree" ""
-
-# TheHollowWorldMage7_b1d41d22 (line 76280)
-translate ru TheHollowWorldMage7_b1d41d22:
-    # "Scold him"
-    "Scold him" ""
-
-# TheHollowWorldMage7_c9bea94c (line 76305)
-translate ru TheHollowWorldMage7_c9bea94c:
-    # "Don't bother arguing with him"
-    "Don't bother arguing with him" ""
 

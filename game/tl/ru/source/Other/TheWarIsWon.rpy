@@ -61,7 +61,7 @@ translate ru TheWarIsWon_a0384b0d:
 # TheWarIsWon_5030c7a4 (line 4095)
 translate ru TheWarIsWon_5030c7a4:
     # s "I think the celebrations have come to an end. Time you all got some much-needed rest."
-    s ""
+    s "I think the celebrations have come to an end. Time you all got some much-needed rest."
 
 # TheWarIsWon_a7894a67 (line 4096)
 translate ru TheWarIsWon_a7894a67:
@@ -76,7 +76,7 @@ translate ru TheWarIsWon_d59274eb:
 # TheWarIsWon_cb5f4242 (line 4098)
 translate ru TheWarIsWon_cb5f4242:
     # s "Enjoying yourself, I see?"
-    s ""
+    s "Enjoying yourself, I see?"
 
 # TheWarIsWon_7bb374a6 (line 4099)
 translate ru TheWarIsWon_7bb374a6:
@@ -86,17 +86,17 @@ translate ru TheWarIsWon_7bb374a6:
 # TheWarIsWon_610873c8 (line 4100)
 translate ru TheWarIsWon_610873c8:
     # t "It was quite something, Sis, I'll tell you that."
-    t ""
+    t "It was quite something, Sis, I'll tell you that."
 
 # TheWarIsWon_75d76128 (line 4101)
 translate ru TheWarIsWon_75d76128:
     # t "I hadn't even noticed it was already day again."
-    t ""
+    t "I hadn't even noticed it was already day again."
 
 # TheWarIsWon_2354678d (line 4102)
 translate ru TheWarIsWon_2354678d:
     # s "I think you'd probably do well to get some rest. Your head is going to feel like it's splitting open soon enough."
-    s ""
+    s "I think you'd probably do well to get some rest. Your head is going to feel like it's splitting open soon enough."
 
 # TheWarIsWon_10d9211a (line 4103)
 translate ru TheWarIsWon_10d9211a:
@@ -106,7 +106,7 @@ translate ru TheWarIsWon_10d9211a:
 # TheWarIsWon_209e01ce (line 4104)
 translate ru TheWarIsWon_209e01ce:
     # t "Or maybe that means I should just carry on, skip all the headache."
-    t ""
+    t "Or maybe that means I should just carry on, skip all the headache."
 
 # TheWarIsWon_ca9952cf (line 4105)
 translate ru TheWarIsWon_ca9952cf:
@@ -116,12 +116,12 @@ translate ru TheWarIsWon_ca9952cf:
 # TheWarIsWon_110584ed (line 4106)
 translate ru TheWarIsWon_110584ed:
     # s "You might be king, but you're also my little brother, and unlike those sycophants, you can trust me to tell you what you actually need, not just what you want to hear."
-    s ""
+    s "You might be king, but you're also my little brother, and unlike those sycophants, you can trust me to tell you what you actually need, not just what you want to hear."
 
 # TheWarIsWon_83c4c2da (line 4107)
 translate ru TheWarIsWon_83c4c2da:
     # s "And you need to rest."
-    s ""
+    s "And you need to rest."
 
 # TheWarIsWon_22cd00b5 (line 4108)
 translate ru TheWarIsWon_22cd00b5:
@@ -131,7 +131,7 @@ translate ru TheWarIsWon_22cd00b5:
 # TheWarIsWon_acd33582 (line 4109)
 translate ru TheWarIsWon_acd33582:
     # t "You're right, you're right. Just give me a moment."
-    t ""
+    t "You're right, you're right. Just give me a moment."
 
 # TheWarIsWon_338812c7 (line 4110)
 translate ru TheWarIsWon_338812c7:
@@ -141,7 +141,7 @@ translate ru TheWarIsWon_338812c7:
 # TheWarIsWon_04a14590 (line 4111)
 translate ru TheWarIsWon_04a14590:
     # s "You know, Thomas, you were very brave yesterday. But if you ever want to talk to me about that day, I mean, really talk, you know you can right?"
-    s ""
+    s "You know, Thomas, you were very brave yesterday. But if you ever want to talk to me about that day, I mean, really talk, you know you can right?"
 
 # TheWarIsWon_5a84e2da (line 4137)
 translate ru TheWarIsWon_5a84e2da:
@@ -161,12 +161,12 @@ translate ru TheWarIsWon_f86dc8f5:
 # TheWarIsWon_f4a94097 (line 4140)
 translate ru TheWarIsWon_f4a94097:
     # t "Ugh, I really am worse off than I thought."
-    t ""
+    t "Ugh, I really am worse off than I thought."
 
 # TheWarIsWon_8526929a (line 4141)
 translate ru TheWarIsWon_8526929a:
     # s "I'll trust you can make it back to your room by yourself, or do I need to get one of the servants to carry you?"
-    s ""
+    s "I'll trust you can make it back to your room by yourself, or do I need to get one of the servants to carry you?"
 
 # TheWarIsWon_f62ce0e8 (line 4142)
 translate ru TheWarIsWon_f62ce0e8:
@@ -176,7 +176,7 @@ translate ru TheWarIsWon_f62ce0e8:
 # TheWarIsWon_046d3d82 (line 4143)
 translate ru TheWarIsWon_046d3d82:
     # t "Either I'll make it, or you'll find my asleep somewhere in the hallways. Either way, I'll get some rest."
-    t ""
+    t "Either I'll make it, or you'll find my asleep somewhere in the hallways. Either way, I'll get some rest."
 
 # TheWarIsWon_b6cfd1e8 (line 4145)
 translate ru TheWarIsWon_b6cfd1e8:
