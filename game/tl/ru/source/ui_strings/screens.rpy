@@ -37,8 +37,6 @@ translate ru strings:
     old "Start"
     new "Start"
 
-    old "Save"
-    new "Save"
 
     old "Load"
     new "Load"
@@ -58,8 +56,6 @@ translate ru strings:
     old "Return"
     new "Return"
 
-    old "Return"
-    new "Return"
 
     old "About"
     new "About"
@@ -70,11 +66,7 @@ translate ru strings:
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
     new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
-    old "Save"
-    new "Save"
 
-    old "Load"
-    new "Load"
 
     old "Page {}"
     new "Page {}"
@@ -208,23 +200,13 @@ translate ru strings:
     old "Voice Volume"
     new "Voice Volume"
 
-    old "Test"
-    new "Test"
 
     old "Mute All"
     new "Mute All"
 
-    old "Return"
-    new "Return"
 
-    old "Return"
-    new "Return"
 
-    old "Settings"
-    new "Settings"
 
-    old "History"
-    new "History"
 
     old "The dialogue history is empty."
     new "The dialogue history is empty."
@@ -301,68 +283,46 @@ translate ru strings:
     old "Left Click"
     new "Left Click"
 
-    old "Advances dialogue and activates the interface."
-    new "Advances dialogue and activates the interface."
 
     old "Middle Click"
     new "Middle Click"
 
-    old "Hides the user interface."
-    new "Hides the user interface."
 
     old "Right Click"
     new "Right Click"
 
-    old "Accesses the game menu."
-    new "Accesses the game menu."
 
     old "Mouse Wheel Up\nClick Rollback Side"
     new "Mouse Wheel Up\nClick Rollback Side"
 
-    old "Rolls back to earlier dialogue."
-    new "Rolls back to earlier dialogue."
 
     old "Mouse Wheel Down"
     new "Mouse Wheel Down"
 
-    old "Rolls forward to later dialogue."
-    new "Rolls forward to later dialogue."
 
     old "Right Trigger\nA/Bottom Button"
     new "Right Trigger\nA/Bottom Button"
 
-    old "Advances dialogue and activates the interface."
-    new "Advances dialogue and activates the interface."
 
     old "Left Trigger\nLeft Shoulder"
     new "Left Trigger\nLeft Shoulder"
 
-    old "Rolls back to earlier dialogue."
-    new "Rolls back to earlier dialogue."
 
     old "Right Shoulder"
     new "Right Shoulder"
 
-    old "Rolls forward to later dialogue."
-    new "Rolls forward to later dialogue."
 
     old "D-Pad, Sticks"
     new "D-Pad, Sticks"
 
-    old "Navigate the interface."
-    new "Navigate the interface."
 
     old "Start, Guide"
     new "Start, Guide"
 
-    old "Accesses the game menu."
-    new "Accesses the game menu."
 
     old "Y/Top Button"
     new "Y/Top Button"
 
-    old "Hides the user interface."
-    new "Hides the user interface."
 
     old "Calibrate"
     new "Calibrate"
@@ -373,26 +333,14 @@ translate ru strings:
     old "No"
     new "No"
 
-    old "Skipping"
-    new "Skipping"
 
     old "▸"
     new "▸"
 
-    old "▸"
-    new "▸"
 
-    old "▸"
-    new "▸"
 
-    old "Back"
-    new "Back"
 
-    old "Skip"
-    new "Skip"
 
-    old "Auto"
-    new "Auto"
 
     old "Menu"
     new "Menu"
@@ -619,8 +567,6 @@ translate ru strings:
     old "Keep things modest."
     new "Keep things modest."
 
-    old "Don't stop Kate."
-    new "Don't stop Kate."
 
     old "Push Kate away."
     new "Push Kate away."
@@ -754,8 +700,6 @@ translate ru strings:
     old "Threaten him."
     new "Threaten him."
 
-    old "Threaten him."
-    new "Threaten him."
 
     old "Go pray in the chapel later"
     new "Go pray in the chapel later"
@@ -811,11 +755,7 @@ translate ru strings:
     old "Do not let him bait you, convince him"
     new "Do not let him bait you, convince him"
 
-    old "Strip for him"
-    new "Strip for him"
 
-    old "Refuse, scold him"
-    new "Refuse, scold him"
 
     old "Trade votes with Edmond, gain his support"
     new "Trade votes with Edmond, gain his support"
@@ -898,14 +838,8 @@ translate ru strings:
     old "Support Antonio"
     new "Support Antonio"
 
-    old "Let them go."
-    new "Let them go."
 
-    old "Keep them as our hostages."
-    new "Keep them as our hostages."
 
-    old "Hang them. Send a message."
-    new "Hang them. Send a message."
 
     old "Let her go with a warning."
     new "Let her go with a warning."
@@ -919,11 +853,7 @@ translate ru strings:
     old "Offer him mercy"
     new "Offer him mercy"
 
-    old "Threaten him."
-    new "Threaten him."
 
-    old "Threaten him."
-    new "Threaten him."
 
     old "Summon Oliver to court"
     new "Summon Oliver to court"
@@ -1030,8 +960,6 @@ translate ru strings:
     old "Refuse, go to the library"
     new "Refuse, go to the library"
 
-    old "Refuse"
-    new "Refuse"
 
     old "You're looking for Pale Eclipse Ink"
     new "You're looking for Pale Eclipse Ink"
@@ -1045,14 +973,10 @@ translate ru strings:
     old "Invoke Jaeid's name"
     new "Invoke Jaeid's name"
 
-    old "Say nothing"
-    new "Say nothing"
 
     old "Tell Jaeid about what happened at the market"
     new "Tell Jaeid about what happened at the market"
 
-    old "Say nothing"
-    new "Say nothing"
 
     old "Flirt with him"
     new "Flirt with him"
@@ -1090,8 +1014,6 @@ translate ru strings:
     old "Get back to work"
     new "Get back to work"
 
-    old "Escape"
-    new "Escape"
 
     old "Stay here"
     new "Stay here"
@@ -1171,8 +1093,6 @@ translate ru strings:
     old "Leave the ship"
     new "Leave the ship"
 
-    old "Leave the ship"
-    new "Leave the ship"
 
     old "Ignore him"
     new "Ignore him"
@@ -1192,14 +1112,10 @@ translate ru strings:
     old "Take the servant job"
     new "Take the servant job"
 
-    old "Refuse"
-    new "Refuse"
 
     old "Strip completely naked"
     new "Strip completely naked"
 
-    old "Refuse"
-    new "Refuse"
 
     old "Look at the bed next to you"
     new "Look at the bed next to you"
@@ -1369,11 +1285,7 @@ translate ru strings:
     old "We can't be more than this."
     new "We can't be more than this."
 
-    old "Masturbate"
-    new "Masturbate"
 
-    old "Go to sleep"
-    new "Go to sleep"
 
     old "Take the real stone for yourself."
     new "Take the real stone for yourself."
@@ -1393,11 +1305,7 @@ translate ru strings:
     old "Do nothing"
     new "Do nothing"
 
-    old "Intervene and save the woman"
-    new "Intervene and save the woman"
 
-    old "Do nothing"
-    new "Do nothing"
 
     old "The truth is you're a wanted man"
     new "The truth is you're a wanted man"
@@ -1447,8 +1355,6 @@ translate ru strings:
     old "Join them"
     new "Join them"
 
-    old "Refuse"
-    new "Refuse"
 
     old "Stay by yourself"
     new "Stay by yourself"
@@ -1474,20 +1380,14 @@ translate ru strings:
     old "Assert yourself"
     new "Assert yourself"
 
-    old "Hold back"
-    new "Hold back"
 
     old "Snap at him"
     new "Snap at him"
 
-    old "Let it go"
-    new "Let it go"
 
     old "Ask Carolyn about Vaelen"
     new "Ask Carolyn about Vaelen"
 
-    old "Say nothing"
-    new "Say nothing"
 
     old "Meet Kate head-on"
     new "Meet Kate head-on"
@@ -1519,8 +1419,6 @@ translate ru strings:
     old "Join Carolyn in the bath"
     new "Join Carolyn in the bath"
 
-    old "Refuse"
-    new "Refuse"
 
     old "Call upon Razaphel"
     new "Call upon Razaphel"
@@ -1573,11 +1471,7 @@ translate ru strings:
     old "Sleep with Garret"
     new "Sleep with Garret"
 
-    old "Go to sleep"
-    new "Go to sleep"
 
-    old "Go to sleep"
-    new "Go to sleep"
 
     old "Do as he asks, kill him"
     new "Do as he asks, kill him"
@@ -1696,8 +1590,6 @@ translate ru strings:
     old "Run away."
     new "Run away."
 
-    old "Do nothing."
-    new "Do nothing."
 
     old "Give him what he wants."
     new "Give him what he wants."
@@ -1783,8 +1675,6 @@ translate ru strings:
     old "Refuse him"
     new "Refuse him"
 
-    old "Refuse his request"
-    new "Refuse his request"
 
     old "Go back to camp"
     new "Go back to camp"
@@ -1828,8 +1718,6 @@ translate ru strings:
     old "Stop Alfred"
     new "Stop Alfred"
 
-    old "Say nothing"
-    new "Say nothing"
 
     old "You will tell Marius everything"
     new "You will tell Marius everything"
@@ -1900,8 +1788,6 @@ translate ru strings:
     old "Push Samayra"
     new "Push Samayra"
 
-    old "Stay here"
-    new "Stay here"
 
     old "Kill Kate"
     new "Kill Kate"
@@ -1939,8 +1825,6 @@ translate ru strings:
     old "Let it go, it's nothing"
     new "Let it go, it's nothing"
 
-    old "Press the issue"
-    new "Press the issue"
 
     old "Help Alaric"
     new "Help Alaric"
@@ -1954,8 +1838,6 @@ translate ru strings:
     old "Call it a night"
     new "Call it a night"
 
-    old "Refuse"
-    new "Refuse"
 
     old "Go back home"
     new "Go back home"
@@ -1987,8 +1869,6 @@ translate ru strings:
     old "Do what he wants"
     new "Do what he wants"
 
-    old "Refuse"
-    new "Refuse"
 
     old "Convince Alaric"
     new "Convince Alaric"
@@ -1996,20 +1876,12 @@ translate ru strings:
     old "Agree"
     new "Agree"
 
-    old "Scold him"
-    new "Scold him"
 
     old "Don't bother arguing with him"
     new "Don't bother arguing with him"
 
-    old "I have asked all that I need to know"
-    new "I have asked all that I need to know"
 
-    old "Place your hands upon the monolith"
-    new "Place your hands upon the monolith"
 
-    old "Reject Razaphel's offer"
-    new "Reject Razaphel's offer"
 
     old "Fight your way out"
     new "Fight your way out"
@@ -2017,8 +1889,6 @@ translate ru strings:
     old "Stay hidden"
     new "Stay hidden"
 
-    old "Run"
-    new "Run"
 
     old "Wait longer"
     new "Wait longer"
@@ -2032,8 +1902,6 @@ translate ru strings:
     old "Of course"
     new "Of course"
 
-    old "Not tonight"
-    new "Not tonight"
 
     old "Study Botany"
     new "Study Botany"
@@ -2044,8 +1912,6 @@ translate ru strings:
     old "Study Daemonology"
     new "Study Daemonology"
 
-    old "Help Alaric"
-    new "Help Alaric"
 
     old "Sleep with Alaric"
     new "Sleep with Alaric"
@@ -2074,8 +1940,6 @@ translate ru strings:
     old "Yell at her to leave"
     new "Yell at her to leave"
 
-    old "Say nothing"
-    new "Say nothing"
 
     old "Remember Metis' warning"
     new "Remember Metis' warning"
@@ -2104,14 +1968,10 @@ translate ru strings:
     old "Try to reason with them"
     new "Try to reason with them"
 
-    old "Break free"
-    new "Break free"
 
     old "Try to speak to them"
     new "Try to speak to them"
 
-    old "Break free"
-    new "Break free"
 
     old "Hold on, try to to speak"
     new "Hold on, try to to speak"
@@ -2146,11 +2006,7 @@ translate ru strings:
     old "Keep Drinking"
     new "Keep Drinking"
 
-    old "Call it a night"
-    new "Call it a night"
 
-    old "Refuse"
-    new "Refuse"
 
     old "Stay alone in the cabin"
     new "Stay alone in the cabin"
@@ -2158,8 +2014,6 @@ translate ru strings:
     old "Join his plot and kill the mages"
     new "Join his plot and kill the mages"
 
-    old "Refuse"
-    new "Refuse"
 
     old "Invite Alaric in"
     new "Invite Alaric in"
@@ -2185,8 +2039,6 @@ translate ru strings:
     old "Spend the Night with them"
     new "Spend the Night with them"
 
-    old "Go home alone"
-    new "Go home alone"
 
     old "Submit to the Master"
     new "Submit to the Master"
@@ -2194,12 +2046,8 @@ translate ru strings:
     old "Defy the Master"
     new "Defy the Master"
 
-    old "Refuse him"
-    new "Refuse him"
 
     old "Obey him"
     new "Obey him"
 
-    old "Sleep alone"
-    new "Sleep alone"
 
