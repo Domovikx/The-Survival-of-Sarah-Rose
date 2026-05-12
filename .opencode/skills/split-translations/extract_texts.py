@@ -272,6 +272,11 @@ class RenPyTextExtractor:
         if current_scene.blocks:
             self.scenes[current_label] = current_scene
 
+        # Сохраняем в экземпляре для доступа через extractor.ui_strings
+        self.ui_strings.extend(ui_blocks)
+        self.texts.extend(dialogue_blocks)
+        self.character_names.extend(character_blocks)
+
         return dialogue_blocks, ui_blocks, character_blocks
 
     def parse_file(self, file_path: Path) -> List[TextBlock]:
