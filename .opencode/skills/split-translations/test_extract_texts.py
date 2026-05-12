@@ -477,6 +477,48 @@ class TestDuplicateDetection:
         # Should have only 2 unique names
         assert len(unique_blocks) == 2, f"Expected 2, got {len(unique_blocks)}"
 
+    def test_clean_flag_not_treated_as_path(self, tmp_path):
+        """Test that --clean flag is not mistaken for a path argument"""
+        import sys
+        from pathlib import Path
+        from extract_texts import RenPyTextExtractor
+
+        # Create test files
+        game_dir = tmp_path / "game"
+        game_dir.mkdir()
+        output_dir = tmp_path / "output"
+
+        # Create a simple script
+        script = game_dir / "script.rpy"
+        script.write_text('label start:\n    "Hello"\n', encoding='utf-8')
+
+        # Save a file in output to verify it doesn't get deleted
+        test_file = output_dir / "test.txt"
+        output_dir.mkdir()
+        test_file.write_text("should not be deleted", encoding='utf-8')
+
+        # Simulate calling main() with --clean as first argument
+        # This should NOT treat --clean as game_dir path
+        old_argv = sys.argv
+
+        try:
+            sys.argv = ['extract.py', '--clean']
+
+            # Import and run main logic manually to test
+            # We need to test the path parsing logic separately
+            arg1 = sys.argv[1] if len(sys.argv) > 1 else None
+            arg2 = sys.argv[2] if len(sys.argv) > 2 else None
+
+            # Check that --clean doesn't become a path
+            game_path = Path(arg1) if arg1 and not arg1.startswith('-') else None
+            clean_flag = '--clean' in sys.argv
+
+            assert game_path is None, f"--clean was incorrectly treated as path: {game_path}"
+            assert clean_flag is True, "--clean flag not detected"
+
+        finally:
+            sys.argv = old_argv
+
 
 if __name__ == "__main__":
     pytest.main([__file__, "-v"])

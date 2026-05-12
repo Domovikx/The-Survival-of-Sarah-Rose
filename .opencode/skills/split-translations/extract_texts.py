@@ -561,17 +561,27 @@ def main():
     game_dir = project_root / 'game'
     output_dir = project_root / 'game' / 'tl' / 'ru' / 'source'
 
+    # Обрабатываем аргументы правильно - флаги (--clean) не должны становиться путями
+    clean_mode = False
     if len(sys.argv) > 1:
-        game_dir = Path(sys.argv[1])
+        arg1 = sys.argv[1]
+        if not arg1.startswith('-'):  # Не флаг
+            game_dir = Path(arg1)
     if len(sys.argv) > 2:
-        output_dir = Path(sys.argv[2])
+        arg2 = sys.argv[2]
+        if not arg2.startswith('-'):  # Не флаг
+            output_dir = Path(arg2)
+
+    # Проверяем флаги после путей
+    clean_mode = '--clean' in sys.argv
 
     print(f"Project root: {project_root}")
     print(f"Game dir: {game_dir}")
-    print(f"Output dir: {output_dir}\n")
+    print(f"Output dir: {output_dir}")
+    print(f"Clean mode: {clean_mode}\n")
 
     # Очищаем предыдущие результаты ТОЛЬКО если передан флаг --clean
-    if '--clean' in sys.argv and output_dir.exists():
+    if clean_mode and output_dir.exists():
         import shutil
         shutil.rmtree(output_dir)
         print("Cleaned output directory.\n")
