@@ -6,22 +6,22 @@
 # start_ee6d4238 (line 34)
 translate ru start_ee6d4238:
     # "The Survival of Sarah Rose is an epic fantasy game. Production on TSSR is still ongoing."
-    ""
+    "«Выживание Сары Роуз» — это эпическое фэнтези. Производство TSSR всё ещё продолжается."
 
 # start_38795c09 (line 35)
 translate ru start_38795c09:
     # "What you are about to play is a work-in-progress."
-    ""
+    "То, во что вы собираетесь играть — это незавершённая работа."
 
 # start_1c997148 (line 36)
 translate ru start_1c997148:
     # "TSSR takes place in a dark fantasy setting."
-    ""
+    "Действие TSSR разворачивается в мрачном фэнтезийном мире."
 
 # start_843a3746 (line 37)
 translate ru start_843a3746:
     # "The events and stories depicted within, while fictional, may be triggering to some audiences."
-    ""
+    "События и истории, представленные здесь, хотя и являются вымышленными, могут быть травмирующими для некоторых игроков."
 
 # char_affe8800 (line 38)
 translate ru char_affe8800:
@@ -686,70 +686,70 @@ translate ru char_1e5de489:
 # start_a340419e (line 309)
 translate ru start_a340419e:
     # "Castle Reinmeer"
-    ""
+    "Замок Рейнмир"
 
 # start_41471430 (line 311)
 translate ru start_41471430:
     # "The great castle rests at the heart of the nation of Rosanna."
-    ""
+    "Великий замок возвышается в самом сердце государства Розанны."
 
 # start_0a60b091 (line 312)
 translate ru start_0a60b091:
     # "For centuries, it has been the home of the Rose family."
-    ""
+    "На протяжении веков он был домом семьи Роуз."
 
 # start_c5d1faae (line 313)
 translate ru start_c5d1faae:
     # "Ruling with both wisdom and strength, the Rose family ensured centuries of prosperity for the nation of Rosanna."
-    ""
+    "Правя с мудростью и силой, семья Роуз обеспечила века процветания государству Розанны."
 
 # start_d39acc5c (line 314)
 translate ru start_d39acc5c:
     # "But nothing lasts forever and rumors of new dangers have begun to spread."
-    ""
+    "Но ничто не длится вечно, и слухи о новых опасностях начали расползаться."
 
 # start_b64e7391 (line 315)
 translate ru start_b64e7391:
     # "An ambitious warlord to the east threatens war."
-    ""
+    "Амбициозный полководец на востоке угрожает войной."
 
 # start_d19436fd (line 316)
 translate ru start_d19436fd:
     # "Something has begun to stir the hearts of all creatures wicked."
-    ""
+    "Что-то начало будить зло в сердцах всех тварей."
 
 # start_094e7901 (line 317)
 translate ru start_094e7901:
     # "But perhaps most dangerous of all, enemies are rising from within Rosanna."
-    ""
+    "Но, возможно, самое опасное — враги поднимаются изнутри Розанны."
 
 # start_6766a47f (line 318)
 translate ru start_6766a47f:
     # "Some wear their threats on their sleeves, whilst others hide their intentions behind smiling faces."
-    ""
+    "Некоторые не скрывают своих угроз, в то время как другие прячут свои намерения за улыбающимися лицами."
 
 # start_2d01bc70 (line 319)
 translate ru start_2d01bc70:
     # "The Rose family can feel it in the air..."
-    ""
+    "Семья Роуз чувствует это в воздухе..."
 
 # start_c5e33146 (line 320)
 translate ru start_c5e33146:
     # "Danger."
-    ""
+    "Опасность."
 
 # start_90deaa6c (line 321)
 translate ru start_90deaa6c:
     # "Amidst these many dangers, Sarah Rose, eldest daughter of the Rose clan, must walk her path."
-    ""
+    "Среди этих многих опасностей Сара Роуз, старшая дочь клана Роуз, должна пройти свой путь."
 
 # start_a0fc46eb (line 322)
 translate ru start_a0fc46eb:
     # "She will need to learn who she can trust, who would seek to betray her, how to keep her nation safe, but above all..."
-    ""
+    "Ей нужно будет научиться, кому можно доверять, кто ищет предать её, как защитить своё государство, но прежде всего..."
 
 # start_ea9134c9 (line 323)
 translate ru start_ea9134c9:
     # "She must survive."
-    ""
+    "Она должна выжить."
 

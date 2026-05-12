@@ -7,18 +7,6 @@ translate ru strings:
     old "Sarah"
     new "Sarah"
 
-    old "Sarah"
-    new "Sarah"
-
-    old "Sarah"
-    new "Sarah"
-
-    old "Sarah"
-    new "Sarah"
-
-    old "Sarah"
-    new "Sarah"
-
     old "King Orwell Rose"
     new "King Orwell Rose"
 

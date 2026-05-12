@@ -214,7 +214,11 @@ class RenPyTextExtractor:
             ui_in_line = self._find_all_strings_in_line(line, str(file_path), i + 1, 'ui_string')
             for block in ui_in_line:
                 self._add_block(block, current_scene, ui_blocks)
-                self.ui_strings.append(block)
+                # Проверка на дубликаты для UI-строк
+                key = f"{block.source_file}:{block.line_number}:{block.text_type}:{block.original_text}"
+                if key not in self.seen_strings:
+                    self.seen_strings.add(key)
+                    self.ui_strings.append(block)
 
             # === 5. Character definitions: Character(_("Name"), ...) ===
             # Ищем в текущей и следующих строках
@@ -485,41 +489,59 @@ class RenPyTextExtractor:
         output_dir = self.output_dir / 'ui_strings'
         output_dir.mkdir(parents=True, exist_ok=True)
 
+        # Дедупликация: собираем все уникальные строки
+        seen_texts = set()
+        unique_strings = []
+
+        # Добавляем UI-строки
+        for block in self.ui_strings:
+            if block.original_text not in seen_texts:
+                seen_texts.add(block.original_text)
+                unique_strings.append(block.original_text)
+
+        # Добавляем menu choices (тоже дедуплицируем)
+        menu_choices = [t for t in self.texts if t.text_type == 'menu_choice']
+        for block in menu_choices:
+            if block.original_text not in seen_texts:
+                seen_texts.add(block.original_text)
+                unique_strings.append(block.original_text)
+
         ui_file = output_dir / 'screens.rpy'
         with open(ui_file, 'w', encoding='utf-8') as f:
             f.write("# -*- encoding: utf-8 -*-\n")
             f.write("# UI Strings & Menu Choices\n")
-            f.write("# Total: {} strings + {} menu choices\n\n".format(
-                len(self.ui_strings), len([t for t in self.texts if t.text_type == 'menu_choice'])))
+            f.write(f"# Total: {len(unique_strings)} strings\n\n")
 
             f.write("translate ru strings:\n\n")
 
-            for block in self.ui_strings:
-                f.write(f'    old "{block.original_text}"\n')
-                f.write(f'    new "{block.original_text}"\n\n')
+            for text in unique_strings:
+                f.write(f'    old "{text}"\n')
+                f.write(f'    new "{text}"\n\n')
 
-            # Добавляем menu choices в тот же файл
-            menu_choices = [t for t in self.texts if t.text_type == 'menu_choice']
-            for block in menu_choices:
-                f.write(f'    old "{block.original_text}"\n')
-                f.write(f'    new "{block.original_text}"\n\n')
-
-        print(f"Saved UI strings ({len(self.ui_strings)}) and menu choices ({len(menu_choices)}) to {ui_file}")
+        print(f"Saved {len(unique_strings)} unique UI strings and menu choices to {ui_file}")
 
     def _save_characters(self):
         """Сохраняет имена персонажей - в формате old/new"""
         output_dir = self.output_dir / 'characters'
         output_dir.mkdir(parents=True, exist_ok=True)
 
+        # Дедупликация имён персонажей
+        seen_names = set()
+        unique_blocks = []
+        for block in self.character_names:
+            if block.original_text not in seen_names:
+                seen_names.add(block.original_text)
+                unique_blocks.append(block)
+
         char_file = output_dir / 'character_names.rpy'
         with open(char_file, 'w', encoding='utf-8') as f:
             f.write("# -*- encoding: utf-8 -*-\n")
             f.write("# Character Names\n")
-            f.write(f"# Total: {len(self.character_names)} names\n\n")
+            f.write(f"# Total: {len(unique_blocks)} names\n\n")
 
             f.write("translate ru strings:\n\n")
 
-            for block in self.character_names:
+            for block in unique_blocks:
                 f.write(f'    old "{block.original_text}"\n')
                 f.write(f'    new "{block.original_text}"\n\n')
 

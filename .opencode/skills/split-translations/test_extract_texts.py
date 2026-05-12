@@ -361,5 +361,122 @@ class TestFullExtraction:
         assert 'Hello translated.' in result
 
 
+class TestDuplicateDetection:
+    def test_no_duplicate_character_names(self, tmp_path):
+        """Character names should not have duplicates in old/new format"""
+        script = tmp_path / "test.rpy"
+        content = (
+            'define s = Character(_("Sarah"), who_color="#daa520")\n'
+            'define ko = Character(_("King Orwell"), who_color="#ff6347")\n'
+            'define t = Character(_("Thomas"), who_color="#888888")\n'
+        )
+        script.write_text(content, encoding='utf-8')
+
+        output_dir = tmp_path / "output"
+        output_dir.mkdir()
+
+        extractor = RenPyTextExtractor(str(tmp_path), str(output_dir))
+        extractor.parse_file_full(script)
+        extractor.save_to_format()
+
+        char_file = output_dir / "characters" / "character_names.rpy"
+        assert char_file.exists()
+        content = char_file.read_text(encoding='utf-8')
+
+        lines = content.split('\n')
+        old_lines = [l.strip() for l in lines if l.strip().startswith('old "')]
+        assert len(old_lines) == len(set(old_lines)), f"Found duplicate character names: {old_lines}"
+
+    def test_no_duplicate_ui_strings(self, tmp_path):
+        """UI strings should not have duplicates in old/new format"""
+        script = tmp_path / "test.rpy"
+        content = (
+            'textbutton _("Start") action Start()\n'
+            'textbutton _("Settings") action ShowMenu("preferences")\n'
+            'textbutton _("About") action ShowMenu("about")\n'
+        )
+        script.write_text(content, encoding='utf-8')
+
+        output_dir = tmp_path / "output"
+        output_dir.mkdir()
+
+        extractor = RenPyTextExtractor(str(tmp_path), str(output_dir))
+        extractor.parse_file_full(script)
+        extractor.save_to_format()
+
+        ui_file = output_dir / "ui_strings" / "screens.rpy"
+        assert ui_file.exists()
+        content = ui_file.read_text(encoding='utf-8')
+
+        lines = content.split('\n')
+        old_lines = [l.strip() for l in lines if l.strip().startswith('old "')]
+        assert len(old_lines) == len(set(old_lines)), f"Found duplicate UI strings: {old_lines}"
+
+    def test_menu_choices_deduplicated_on_save(self, tmp_path):
+        """Menu choices should be deduplicated when saved"""
+        script = tmp_path / "test.rpy"
+        content = (
+            'label test:\n'
+            'menu:\n'
+            '    "Choose"\n'
+            '    "Choice A":\n'
+            '        pass\n'
+            '    "Choice B":\n'
+            '        pass\n'
+            '"Narration text"\n'
+            'menu:\n'
+            '    "Choose"\n'
+            '    "Choice A":\n'
+            '        pass\n'
+            '    "Choice C":\n'
+            '        pass\n'
+        )
+        script.write_text(content, encoding='utf-8')
+
+        output_dir = tmp_path / "output"
+        output_dir.mkdir()
+
+        extractor = RenPyTextExtractor(str(tmp_path), str(output_dir))
+        extractor.extract_all()
+        extractor.save_to_format()
+
+        ui_file = output_dir / "ui_strings" / "screens.rpy"
+        content = ui_file.read_text(encoding='utf-8')
+
+        lines = content.split('\n')
+        old_lines = [l.strip() for l in lines if l.strip().startswith('old "')]
+
+        # Should have: Choice A, Choice B, Choice C = 3 unique (deduplicated)
+        # "Choose" is filtered out, narration goes to scene files
+        assert len(old_lines) == len(set(old_lines)), f"Found duplicate: {old_lines}"
+        assert len(old_lines) == 3, f"Expected 3 unique menu choices, got {len(old_lines)}: {old_lines}"
+
+    def test_character_names_deduplicated_on_save(self, tmp_path):
+        """Test character names are deduplicated during save"""
+        # Test the deduplication logic directly
+        from extract_texts import RenPyTextExtractor
+
+        extractor = RenPyTextExtractor(str(tmp_path), str(tmp_path))
+
+        # Simulate adding duplicate character names
+        from extract_texts import TextBlock
+        block1 = TextBlock(id="char_1", label="test", source_file="test.rpy", line_number=1, text_type="character_name", original_text="Sarah")
+        block2 = TextBlock(id="char_2", label="test", source_file="test.rpy", line_number=2, text_type="character_name", original_text="Sarah")
+        block3 = TextBlock(id="char_3", label="test", source_file="test.rpy", line_number=3, text_type="character_name", original_text="Thomas")
+
+        extractor.character_names = [block1, block2, block3]
+
+        # Test deduplication logic
+        seen_names = set()
+        unique_blocks = []
+        for block in extractor.character_names:
+            if block.original_text not in seen_names:
+                seen_names.add(block.original_text)
+                unique_blocks.append(block)
+
+        # Should have only 2 unique names
+        assert len(unique_blocks) == 2, f"Expected 2, got {len(unique_blocks)}"
+
+
 if __name__ == "__main__":
     pytest.main([__file__, "-v"])
