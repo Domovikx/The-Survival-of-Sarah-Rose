@@ -1,11 +1,12 @@
 ---
 name: renpy-clear-cache
-description: Удаление файлов кэша Ren'Py (*.rpyc, __pycache__, *.log)
+description: Удаление файлов кэша Ren'Py (*.rpyc, __pycache__, *.log). Используй когда нужно почистить кэш, сбросить компиляцию, удалить rpyc, обновить перевод в игре, исправить ошибку с устаревшим кодом.
 license: MIT
 compatibility: opencode
 metadata:
   engine: renpy
   task: maintenance
+  source: https://www.renpy.org/doc/html/translation.html
 ---
 
 ## Overview
