@@ -328,9 +328,6 @@ translate ru strings:
     old "She might send Alaric to prison for no reason at all, just because she got scared."
     new "She might send Alaric to prison for no reason at all, just because she got scared."
 
-    old "Sarah's mind raced."
-    new "Sarah's mind raced."
-
     old "Guard Captain\" \"Well? You got an answer for me, girly?"
     new "Guard Captain\" \"Well? You got an answer for me, girly?"
 

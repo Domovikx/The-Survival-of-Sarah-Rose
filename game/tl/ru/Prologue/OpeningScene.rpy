@@ -32,10 +32,10 @@ translate ru strings:
     new "Ты стала старше, но, кажется, не повзрослела."
 
     old "So mean!"
-    new "Какой злой!"
+    new "Злюка!"
 
     old "Speaking of growing up, have you seen..."
-    new "Кстати о взрослении, ты не видел..."
+    new "Кстати о взрослении, ты не видела..."
 
     old "DAD!"
     new "ПАПА!"

@@ -305,7 +305,7 @@ translate ru strings:
     new "Позади она слышит, как брат входит в комнату и кричит."
 
     old "She listens as the servants drag him away, kicking and screaming until he is too far to hear."
-    new "Она слышит, как слуги утаскивают его, брыкающегося и кричащего, пока его не перестаёт быть слышно."
+    new "Она слышит, как слуги утаскивают его, брыкающегося и кричащего, пока его голос не затихает вдали."
 
     old "Sarah stays with her father, holding his hand."
     new "Сара остаётся с отцом, держа его за руку."

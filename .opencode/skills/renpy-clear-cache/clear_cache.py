@@ -16,6 +16,10 @@ import sys
 import argparse
 from pathlib import Path
 
+# Fix Unicode output on Windows consoles with cp1251 encoding
+if sys.platform == 'win32' and sys.stdout.encoding and sys.stdout.encoding.lower() in ('cp1251', 'cp866'):
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+
 
 VERSION = 1
 
@@ -103,7 +107,7 @@ def clear_cache(game_dir: Path, dry_run: bool = False, verbose: bool = False) ->
     }
 
     if not cache_files and not cache_dirs:
-        print("Кэш не найден — всё чисто! ✓")
+        print("Кэш не найден — всё чисто! [OK]")
         return results
 
     print(f"\n{'='*50}")
