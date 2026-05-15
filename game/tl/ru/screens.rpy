@@ -130,13 +130,13 @@ translate ru strings:
     new "Левый клик"
 
     old "Left Trigger\\nLeft Shoulder"
-    new "Левый триггер\\nЛевое плечо"
+    new "Left Trigger\\nLeft Shoulder"
 
     old "Load"
     new "Загрузить"
 
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\\n\\n[renpy.license!t]"
-    new "Создано на {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\\n\\n[renpy.license!t]"
+    new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\\n\\n[renpy.license!t]"
 
     old "Main Menu"
     new "Главное меню"
@@ -154,7 +154,7 @@ translate ru strings:
     new "Колёсико вниз"
 
     old "Mouse Wheel Up\\nClick Rollback Side"
-    new "Колёсико вверх\\nНажмите сторону отката"
+    new "Mouse Wheel Up\\nClick Rollback Side"
 
     old "Music Volume"
     new "Громкость музыки"
@@ -208,7 +208,7 @@ translate ru strings:
     new "Правый бампер"
 
     old "Right Trigger\\nA/Bottom Button"
-    new "Правый триггер\\nКнопка A / Нижняя кнопка"
+    new "Right Trigger\\nA/Bottom Button"
 
     old "Rollback Side"
     new "Сторона отката"
@@ -280,7 +280,7 @@ translate ru strings:
     new "Не прочитанный текст"
 
     old "Version [config.version!t]\\n"
-    new "Версия [config.version!t]\\n"
+    new "Version [config.version!t]\\n"
 
     old "Voice Volume"
     new "Громкость голоса"

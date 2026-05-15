@@ -370,8 +370,8 @@ translate ru strings:
     old "It was such, sitting and waiting, that Sarah was finally approached by one of the soldiers that worked as a messenger."
     new "It was such, sitting and waiting, that Sarah was finally approached by one of the soldiers that worked as a messenger."
 
-    old "Soldier\" \"Commander!"
-    new "Soldier\" \"Commander!"
+    old "Commander!"
+    new "Commander!"
 
     old "He saluted her."
     new "He saluted her."
@@ -379,14 +379,11 @@ translate ru strings:
     old "Any news?"
     new "Any news?"
 
-    old "Soldier\" \"Yes, commander Rose. Lord Vaelen has arrived at the barricade and has requested your presence."
-    new "Soldier\" \"Yes, commander Rose. Lord Vaelen has arrived at the barricade and has requested your presence."
+    old "Yes, commander Rose. Lord Vaelen has arrived at the barricade and has requested your presence."
+    new "Yes, commander Rose. Lord Vaelen has arrived at the barricade and has requested your presence."
 
     old "He's not a lord."
     new "He's not a lord."
-
-    old "Soldier\" \"Excuse me?"
-    new "Soldier\" \"Excuse me?"
 
     old "Sarah waved her hand, dismissing the matter."
     new "Sarah waved her hand, dismissing the matter."

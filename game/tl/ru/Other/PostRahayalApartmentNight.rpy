@@ -184,8 +184,8 @@ translate ru strings:
     old "Near the front door stood a man, carrying a large axe. So large it seemed impossible that any man could comfortably swing it."
     new "Near the front door stood a man, carrying a large axe. So large it seemed impossible that any man could comfortably swing it."
 
-    old "Guard\" \"Hail."
-    new "Guard\" \"Hail."
+    old "Hail."
+    new "Hail."
 
     old "He greeted her with a deep voice."
     new "He greeted her with a deep voice."
@@ -196,8 +196,8 @@ translate ru strings:
     old "Sarah spoke with some hesitation."
     new "Sarah spoke with some hesitation."
 
-    old "Guard\" \"Letter."
-    new "Guard\" \"Letter."
+    old "Letter."
+    new "Letter."
 
     old "The man's voice boomed."
     new "The man's voice boomed."
@@ -208,8 +208,8 @@ translate ru strings:
     old "For a moment, the guard inspected it."
     new "For a moment, the guard inspected it."
 
-    old "Guard\" \"Welcome."
-    new "Guard\" \"Welcome."
+    old "Welcome."
+    new "Welcome."
 
     old "His voice boomed again, no more or less friendly than before."
     new "His voice boomed again, no more or less friendly than before."
@@ -259,14 +259,11 @@ translate ru strings:
     old "Her eyes turned wide and a bright smile came on her face."
     new "Her eyes turned wide and a bright smile came on her face."
 
-    old "Hecate\" \"Sarah!"
-    new "Hecate\" \"Sarah!"
-
     old "Sarah watched as the woman made her way across the room, passing through dozens of groups of mages."
     new "Sarah watched as the woman made her way across the room, passing through dozens of groups of mages."
 
-    old "Hecate\" \"They told me they had send you an invitation but I wasn't sure you'd actually show!"
-    new "Hecate\" \"They told me they had send you an invitation but I wasn't sure you'd actually show!"
+    old "They told me they had send you an invitation but I wasn't sure you'd actually show!"
+    new "They told me they had send you an invitation but I wasn't sure you'd actually show!"
 
     old "The woman grasped her into a sudden hug."
     new "The woman grasped her into a sudden hug."
@@ -280,89 +277,83 @@ translate ru strings:
     old "Hey, Hecate, good to see you again."
     new "Hey, Hecate, good to see you again."
 
-    old "Hecate\" \"You as well!"
-    new "Hecate\" \"You as well!"
+    old "You as well!"
+    new "You as well!"
 
     old "She ran her hand across Sarah's arm."
     new "She ran her hand across Sarah's arm."
 
-    old "Hecate\" \"I see you're recovering well though, from our little trip in the ruins."
-    new "Hecate\" \"I see you're recovering well though, from our little trip in the ruins."
+    old "I see you're recovering well though, from our little trip in the ruins."
+    new "I see you're recovering well though, from our little trip in the ruins."
 
     old "I'm all good."
     new "I'm all good."
 
-    old "Hecate\" \"Yes, benefits of youth and all that."
-    new "Hecate\" \"Yes, benefits of youth and all that."
+    old "Yes, benefits of youth and all that."
+    new "Yes, benefits of youth and all that."
 
-    old "Hecate\" \"I used to be out on the roads for years on end, not a spit of trouble."
-    new "Hecate\" \"I used to be out on the roads for years on end, not a spit of trouble."
+    old "I used to be out on the roads for years on end, not a spit of trouble."
+    new "I used to be out on the roads for years on end, not a spit of trouble."
 
-    old "Hecate\" \"These days, if I'm on the road for more than a week, I can feel it in my bones."
-    new "Hecate\" \"These days, if I'm on the road for more than a week, I can feel it in my bones."
+    old "These days, if I'm on the road for more than a week, I can feel it in my bones."
+    new "These days, if I'm on the road for more than a week, I can feel it in my bones."
 
-    old "Hecate\" \"Still, nothing a little magic and relaxation can't fix."
-    new "Hecate\" \"Still, nothing a little magic and relaxation can't fix."
+    old "Still, nothing a little magic and relaxation can't fix."
+    new "Still, nothing a little magic and relaxation can't fix."
 
-    old "Hecate\" \"I'm glad you're doing well though."
-    new "Hecate\" \"I'm glad you're doing well though."
+    old "I'm glad you're doing well though."
+    new "I'm glad you're doing well though."
 
-    old "Hecate\" \"Those jungles are full of nasty spores, goblins love to grow their mushrooms there, vile things."
-    new "Hecate\" \"Those jungles are full of nasty spores, goblins love to grow their mushrooms there, vile things."
+    old "Those jungles are full of nasty spores, goblins love to grow their mushrooms there, vile things."
+    new "Those jungles are full of nasty spores, goblins love to grow their mushrooms there, vile things."
 
     old "Really, I'm doing quite well."
     new "Really, I'm doing quite well."
 
-    old "Hecate\" \"Good, good."
-    new "Hecate\" \"Good, good."
-
     old "Hecate turned and looked across the room."
     new "Hecate turned and looked across the room."
 
-    old "Hecate\" \"So, first time attending, are you?"
-    new "Hecate\" \"So, first time attending, are you?"
+    old "So, first time attending, are you?"
+    new "So, first time attending, are you?"
 
-    old "Hecate\" \"Well, don't worry. Stick with me and you'll make it through just fine."
-    new "Hecate\" \"Well, don't worry. Stick with me and you'll make it through just fine."
+    old "Well, don't worry. Stick with me and you'll make it through just fine."
+    new "Well, don't worry. Stick with me and you'll make it through just fine."
 
     old "She gestured at a large group of men, gathered about an older man, performing a series of magical spells in quick succession."
     new "She gestured at a large group of men, gathered about an older man, performing a series of magical spells in quick succession."
 
-    old "Hecate\" \"You see their robes?"
-    new "Hecate\" \"You see their robes?"
+    old "You see their robes?"
+    new "You see their robes?"
 
-    old "Hecate\" \"Those are elders, but don't feel too intimidated by them."
-    new "Hecate\" \"Those are elders, but don't feel too intimidated by them."
+    old "Those are elders, but don't feel too intimidated by them."
+    new "Those are elders, but don't feel too intimidated by them."
 
-    old "Hecate\" \"It's more of a political title than a reflection of their actual powers."
-    new "Hecate\" \"It's more of a political title than a reflection of their actual powers."
+    old "It's more of a political title than a reflection of their actual powers."
+    new "It's more of a political title than a reflection of their actual powers."
 
-    old "Hecate\" \"They manage the day to day affairs for our Order."
-    new "Hecate\" \"They manage the day to day affairs for our Order."
+    old "They manage the day to day affairs for our Order."
+    new "They manage the day to day affairs for our Order."
 
     old "Her finger slowly glided across the room."
     new "Her finger slowly glided across the room."
 
-    old "Hecate\" \"There."
-    new "Hecate\" \"There."
-
     old "She pointed out a man wearing a white robe with golden weavings."
     new "She pointed out a man wearing a white robe with golden weavings."
 
-    old "Hecate\" \"Anyone who wears one of those is a founder."
-    new "Hecate\" \"Anyone who wears one of those is a founder."
+    old "Anyone who wears one of those is a founder."
+    new "Anyone who wears one of those is a founder."
 
     old "A founder?"
     new "A founder?"
 
-    old "Hecate\" \"That means they were there when the old Empire fell."
-    new "Hecate\" \"That means they were there when the old Empire fell."
+    old "That means they were there when the old Empire fell."
+    new "That means they were there when the old Empire fell."
 
-    old "Hecate\" \"The only ones that actually remember what the world was like."
-    new "Hecate\" \"The only ones that actually remember what the world was like."
+    old "The only ones that actually remember what the world was like."
+    new "The only ones that actually remember what the world was like."
 
-    old "Hecate\" \"The only ones that remember the faces of the Gods."
-    new "Hecate\" \"The only ones that remember the faces of the Gods."
+    old "The only ones that remember the faces of the Gods."
+    new "The only ones that remember the faces of the Gods."
 
     old "It seemed like an absurdity, and yet Hecate spoke it so casually."
     new "It seemed like an absurdity, and yet Hecate spoke it so casually."
@@ -373,20 +364,20 @@ translate ru strings:
     old "To have seen and known the Gods, not as ideas, but as living things."
     new "To have seen and known the Gods, not as ideas, but as living things."
 
-    old "Hecate\" \"They form the council that send people out on missions. They're the ones that send me off to the ruins, in fact."
-    new "Hecate\" \"They form the council that send people out on missions. They're the ones that send me off to the ruins, in fact."
+    old "They form the council that send people out on missions. They're the ones that send me off to the ruins, in fact."
+    new "They form the council that send people out on missions. They're the ones that send me off to the ruins, in fact."
 
-    old "Hecate\" \"We have a lot of freedom, but sometimes we're called upon to work on behalf of the Order."
-    new "Hecate\" \"We have a lot of freedom, but sometimes we're called upon to work on behalf of the Order."
+    old "We have a lot of freedom, but sometimes we're called upon to work on behalf of the Order."
+    new "We have a lot of freedom, but sometimes we're called upon to work on behalf of the Order."
 
-    old "Hecate\" \"Trust me, I wouldn't spend my free time exploring that goblin infested pit."
-    new "Hecate\" \"Trust me, I wouldn't spend my free time exploring that goblin infested pit."
+    old "Trust me, I wouldn't spend my free time exploring that goblin infested pit."
+    new "Trust me, I wouldn't spend my free time exploring that goblin infested pit."
 
-    old "Hecate\" \"But if the council asks..."
-    new "Hecate\" \"But if the council asks..."
+    old "But if the council asks..."
+    new "But if the council asks..."
 
-    old "Hecate\" \"who are we too question those that know the Will?"
-    new "Hecate\" \"who are we too question those that know the Will?"
+    old "who are we too question those that know the Will?"
+    new "who are we too question those that know the Will?"
 
     old "The Will?"
     new "The Will?"
@@ -394,41 +385,41 @@ translate ru strings:
     old "Hecate eyed Sarah for a moment, pausing, as if to consider her words carefully."
     new "Hecate eyed Sarah for a moment, pausing, as if to consider her words carefully."
 
-    old "Hecate\" \"That's what they call it. Their plan, or whatever it is."
-    new "Hecate\" \"That's what they call it. Their plan, or whatever it is."
+    old "That's what they call it. Their plan, or whatever it is."
+    new "That's what they call it. Their plan, or whatever it is."
 
     old "Plan?"
     new "Plan?"
 
-    old "Hecate\" \"Poor you, Xan really did a bad job teaching you."
-    new "Hecate\" \"Poor you, Xan really did a bad job teaching you."
+    old "Poor you, Xan really did a bad job teaching you."
+    new "Poor you, Xan really did a bad job teaching you."
 
     old "She gestured at the man in the white robe with her head."
     new "She gestured at the man in the white robe with her head."
 
-    old "Hecate\" \"The founders say that the Gods told them a plan, before they left."
-    new "Hecate\" \"The founders say that the Gods told them a plan, before they left."
+    old "The founders say that the Gods told them a plan, before they left."
+    new "The founders say that the Gods told them a plan, before they left."
 
-    old "Hecate\" \"And so everything they do, or ask of others, is in service of that plan."
-    new "Hecate\" \"And so everything they do, or ask of others, is in service of that plan."
+    old "And so everything they do, or ask of others, is in service of that plan."
+    new "And so everything they do, or ask of others, is in service of that plan."
 
     old "And what is it?"
     new "And what is it?"
 
-    old "Hecate\" \"The plan?"
-    new "Hecate\" \"The plan?"
+    old "The plan?"
+    new "The plan?"
 
     old "Hecate just shrugged."
     new "Hecate just shrugged."
 
-    old "Hecate\" \"Who knows. They certainly don't tell the rest of us."
-    new "Hecate\" \"Who knows. They certainly don't tell the rest of us."
+    old "Who knows. They certainly don't tell the rest of us."
+    new "Who knows. They certainly don't tell the rest of us."
 
-    old "Hecate\" \"But whenever they ask us to do something we don't understand, they just say that it's the Will."
-    new "Hecate\" \"But whenever they ask us to do something we don't understand, they just say that it's the Will."
+    old "But whenever they ask us to do something we don't understand, they just say that it's the Will."
+    new "But whenever they ask us to do something we don't understand, they just say that it's the Will."
 
-    old "Hecate\" \"And I guess, who are we to argue with people that walked with Gods?"
-    new "Hecate\" \"And I guess, who are we to argue with people that walked with Gods?"
+    old "And I guess, who are we to argue with people that walked with Gods?"
+    new "And I guess, who are we to argue with people that walked with Gods?"
 
     old "Sarah felt her head spinning."
     new "Sarah felt her head spinning."
@@ -439,14 +430,14 @@ translate ru strings:
     old "So...you just do what they say?"
     new "So...you just do what they say?"
 
-    old "Hecate\" \"I could pretend that I'm a true believer, but the truth is that the council also controls the promotions."
-    new "Hecate\" \"I could pretend that I'm a true believer, but the truth is that the council also controls the promotions."
+    old "I could pretend that I'm a true believer, but the truth is that the council also controls the promotions."
+    new "I could pretend that I'm a true believer, but the truth is that the council also controls the promotions."
 
-    old "Hecate\" \"So if you ever want to be anyone of rank, you'd best do as they say."
-    new "Hecate\" \"So if you ever want to be anyone of rank, you'd best do as they say."
+    old "So if you ever want to be anyone of rank, you'd best do as they say."
+    new "So if you ever want to be anyone of rank, you'd best do as they say."
 
-    old "Hecate\" \"So in the end, what does it really matter anyway?"
-    new "Hecate\" \"So in the end, what does it really matter anyway?"
+    old "So in the end, what does it really matter anyway?"
+    new "So in the end, what does it really matter anyway?"
 
     old "Sarah frowned, it seemed rather cynical, even if she could understand the logic of it."
     new "Sarah frowned, it seemed rather cynical, even if she could understand the logic of it."
@@ -460,11 +451,11 @@ translate ru strings:
     old "Hecate nudged Sarah."
     new "Hecate nudged Sarah."
 
-    old "Hecate\" \"This is where it gets good."
-    new "Hecate\" \"This is where it gets good."
+    old "This is where it gets good."
+    new "This is where it gets good."
 
-    old "Founder\" \"Brothers, Sisters!"
-    new "Founder\" \"Brothers, Sisters!"
+    old "Brothers, Sisters!"
+    new "Brothers, Sisters!"
 
     old "The man held out his arms, urging the room to be quiet."
     new "The man held out his arms, urging the room to be quiet."
@@ -472,47 +463,47 @@ translate ru strings:
     old "Slowly, all the chattering died out."
     new "Slowly, all the chattering died out."
 
-    old "Founder\" \"I cannot tell you how much it gladdens my heart to see so many of you gathered here today."
-    new "Founder\" \"I cannot tell you how much it gladdens my heart to see so many of you gathered here today."
+    old "I cannot tell you how much it gladdens my heart to see so many of you gathered here today."
+    new "I cannot tell you how much it gladdens my heart to see so many of you gathered here today."
 
-    old "Founder\" \"I know that this gathering was announced quite late, but the reasons for us gathering, could not be more dire."
-    new "Founder\" \"I know that this gathering was announced quite late, but the reasons for us gathering, could not be more dire."
+    old "I know that this gathering was announced quite late, but the reasons for us gathering, could not be more dire."
+    new "I know that this gathering was announced quite late, but the reasons for us gathering, could not be more dire."
 
     old "A few voices rose in nervous whispers."
     new "A few voices rose in nervous whispers."
 
-    old "Founder\" \"As some of you may have already heard, the rumors are true."
-    new "Founder\" \"As some of you may have already heard, the rumors are true."
+    old "As some of you may have already heard, the rumors are true."
+    new "As some of you may have already heard, the rumors are true."
 
-    old "Founder\" \"Our great enemy, the Void, has returned."
-    new "Founder\" \"Our great enemy, the Void, has returned."
+    old "Our great enemy, the Void, has returned."
+    new "Our great enemy, the Void, has returned."
 
-    old "Founder\" \"And the city of Lethram, has been wiped from the earth, along with countless dead."
-    new "Founder\" \"And the city of Lethram, has been wiped from the earth, along with countless dead."
+    old "And the city of Lethram, has been wiped from the earth, along with countless dead."
+    new "And the city of Lethram, has been wiped from the earth, along with countless dead."
 
     old "Now, more voices rose up. It was clear not everyone had yet heard or believed it."
     new "Now, more voices rose up. It was clear not everyone had yet heard or believed it."
 
-    old "Founder\" \"Even as we gather, our enemy floods through the rift, pouring out obscenities and horrors."
-    new "Founder\" \"Even as we gather, our enemy floods through the rift, pouring out obscenities and horrors."
+    old "Even as we gather, our enemy floods through the rift, pouring out obscenities and horrors."
+    new "Even as we gather, our enemy floods through the rift, pouring out obscenities and horrors."
 
-    old "Founder\" \"Our reports show that our enemy is already spreading."
-    new "Founder\" \"Our reports show that our enemy is already spreading."
+    old "Our reports show that our enemy is already spreading."
+    new "Our reports show that our enemy is already spreading."
 
-    old "Founder\" \"But the main body of their host is moving towards this very city."
-    new "Founder\" \"But the main body of their host is moving towards this very city."
+    old "But the main body of their host is moving towards this very city."
+    new "But the main body of their host is moving towards this very city."
 
-    old "Founder\" \"Just as we predicted, they mean to destroy the Mythran empire first."
-    new "Founder\" \"Just as we predicted, they mean to destroy the Mythran empire first."
+    old "Just as we predicted, they mean to destroy the Mythran empire first."
+    new "Just as we predicted, they mean to destroy the Mythran empire first."
 
     old "More voices murmured, but to Sarah's surprise, there was not much shock."
     new "More voices murmured, but to Sarah's surprise, there was not much shock."
 
-    old "Founder\" \"This moment is the very chance that we have been working towards for centuries now."
-    new "Founder\" \"This moment is the very chance that we have been working towards for centuries now."
+    old "This moment is the very chance that we have been working towards for centuries now."
+    new "This moment is the very chance that we have been working towards for centuries now."
 
-    old "Founder\" \"The chance to strike a mortal wound at both of our great foes, and to undo them both at the same time."
-    new "Founder\" \"The chance to strike a mortal wound at both of our great foes, and to undo them both at the same time."
+    old "The chance to strike a mortal wound at both of our great foes, and to undo them both at the same time."
+    new "The chance to strike a mortal wound at both of our great foes, and to undo them both at the same time."
 
     old "More approving murmuring."
     new "More approving murmuring."
@@ -523,32 +514,29 @@ translate ru strings:
     old "What is he talking about?"
     new "What is he talking about?"
 
-    old "Hecate\" \"Huh?"
-    new "Hecate\" \"Huh?"
-
     old "The void...I mean, that is the enemy, right? What is he talking about?"
     new "The void...I mean, that is the enemy, right? What is he talking about?"
 
-    old "Hecate\" \"The void is dangerous, but our Order has more enemies than just them."
-    new "Hecate\" \"The void is dangerous, but our Order has more enemies than just them."
+    old "The void is dangerous, but our Order has more enemies than just them."
+    new "The void is dangerous, but our Order has more enemies than just them."
 
     old "What enemies?"
     new "What enemies?"
 
-    old "Hecate\" \"The Mythran Empire itself, of course."
-    new "Hecate\" \"The Mythran Empire itself, of course."
+    old "The Mythran Empire itself, of course."
+    new "The Mythran Empire itself, of course."
 
-    old "Hecate\" \"They hate our Order. Always have. Why, I don't know."
-    new "Hecate\" \"They hate our Order. Always have. Why, I don't know."
+    old "They hate our Order. Always have. Why, I don't know."
+    new "They hate our Order. Always have. Why, I don't know."
 
-    old "Hecate\" \"But according to the Founders, the Empire is just as dangerous as the Void."
-    new "Hecate\" \"But according to the Founders, the Empire is just as dangerous as the Void."
+    old "But according to the Founders, the Empire is just as dangerous as the Void."
+    new "But according to the Founders, the Empire is just as dangerous as the Void."
 
-    old "Hecate\" \"This could be a perfect opporunity to deal with both at the same time."
-    new "Hecate\" \"This could be a perfect opporunity to deal with both at the same time."
+    old "This could be a perfect opporunity to deal with both at the same time."
+    new "This could be a perfect opporunity to deal with both at the same time."
 
-    old "Hecate\" \"Let them destroy each other, and we deal with the rest."
-    new "Hecate\" \"Let them destroy each other, and we deal with the rest."
+    old "Let them destroy each other, and we deal with the rest."
+    new "Let them destroy each other, and we deal with the rest."
 
     old "Sarah felt heart race."
     new "Sarah felt heart race."
@@ -568,23 +556,23 @@ translate ru strings:
     old "To her surprise, Sarah just saw Hecate frown."
     new "To her surprise, Sarah just saw Hecate frown."
 
-    old "Hecate\" \"Sarah, don't get hysterical now."
-    new "Hecate\" \"Sarah, don't get hysterical now."
+    old "Sarah, don't get hysterical now."
+    new "Sarah, don't get hysterical now."
 
-    old "Hecate\" \"Our Order deals with the long and broad strokes of history, not every single trivial life."
-    new "Hecate\" \"Our Order deals with the long and broad strokes of history, not every single trivial life."
+    old "Our Order deals with the long and broad strokes of history, not every single trivial life."
+    new "Our Order deals with the long and broad strokes of history, not every single trivial life."
 
-    old "Hecate\" \"People die, they always do."
-    new "Hecate\" \"People die, they always do."
+    old "People die, they always do."
+    new "People die, they always do."
 
-    old "Hecate\" \"Empires rise, empires fall, entire civilizations vanish."
-    new "Hecate\" \"Empires rise, empires fall, entire civilizations vanish."
+    old "Empires rise, empires fall, entire civilizations vanish."
+    new "Empires rise, empires fall, entire civilizations vanish."
 
-    old "Hecate\" \"And then new ones come around. If you've been alive for long enough, you can see the movement of history."
-    new "Hecate\" \"And then new ones come around. If you've been alive for long enough, you can see the movement of history."
+    old "And then new ones come around. If you've been alive for long enough, you can see the movement of history."
+    new "And then new ones come around. If you've been alive for long enough, you can see the movement of history."
 
-    old "Hecate\" \"Don't be distracted by the small lives."
-    new "Hecate\" \"Don't be distracted by the small lives."
+    old "Don't be distracted by the small lives."
+    new "Don't be distracted by the small lives."
 
     old "Sarah felt her fist clench."
     new "Sarah felt her fist clench."
@@ -595,17 +583,17 @@ translate ru strings:
     old "Easy for you to say. You're not going to be left helpless in a city, waiting for these fiends."
     new "Easy for you to say. You're not going to be left helpless in a city, waiting for these fiends."
 
-    old "Hecate\" \"I'm not happy about it, but if the founders say that-"
-    new "Hecate\" \"I'm not happy about it, but if the founders say that-"
+    old "I'm not happy about it, but if the founders say that-"
+    new "I'm not happy about it, but if the founders say that-"
 
     old "I thought you weren't a true believer."
     new "I thought you weren't a true believer."
 
-    old "Hecate\" \"I'm not a rebel either. If they say this is the Will, than I won't argue."
-    new "Hecate\" \"I'm not a rebel either. If they say this is the Will, than I won't argue."
+    old "I'm not a rebel either. If they say this is the Will, than I won't argue."
+    new "I'm not a rebel either. If they say this is the Will, than I won't argue."
 
-    old "Voice\" \"Sarah Rose!"
-    new "Voice\" \"Sarah Rose!"
+    old "Sarah Rose!"
+    new "Sarah Rose!"
 
     old "A loud voice rang out across the gathering."
     new "A loud voice rang out across the gathering."
@@ -616,8 +604,8 @@ translate ru strings:
     old "How did he even know her name?"
     new "How did he even know her name?"
 
-    old "Founder\" \"Please, come!"
-    new "Founder\" \"Please, come!"
+    old "Please, come!"
+    new "Please, come!"
 
     old "He waved again."
     new "He waved again."
@@ -625,8 +613,8 @@ translate ru strings:
     old "Hecate nudged her."
     new "Hecate nudged her."
 
-    old "Hecate\" \"Go no, don't leave him waiting. We'll catch up after."
-    new "Hecate\" \"Go no, don't leave him waiting. We'll catch up after."
+    old "Go no, don't leave him waiting. We'll catch up after."
+    new "Go no, don't leave him waiting. We'll catch up after."
 
     old "Sarah felt Hecate's hand on her back, softly but firmly pushing her forward."
     new "Sarah felt Hecate's hand on her back, softly but firmly pushing her forward."
@@ -637,8 +625,8 @@ translate ru strings:
     old "Up close, the intricate golden weave of his tunic was even more impressive."
     new "Up close, the intricate golden weave of his tunic was even more impressive."
 
-    old "Founder\" \"Ah...I cannot tell you enough how much it gladdens me to see you here today."
-    new "Founder\" \"Ah...I cannot tell you enough how much it gladdens me to see you here today."
+    old "Ah...I cannot tell you enough how much it gladdens me to see you here today."
+    new "Ah...I cannot tell you enough how much it gladdens me to see you here today."
 
     old "So close, Sarah could feel the powerful magics that this man had wrapped himself in."
     new "So close, Sarah could feel the powerful magics that this man had wrapped himself in."
@@ -652,8 +640,8 @@ translate ru strings:
     old "He smiled, softly."
     new "He smiled, softly."
 
-    old "Founder\" \"Sarah Rose, long lost heir to the throne of Rosanna."
-    new "Founder\" \"Sarah Rose, long lost heir to the throne of Rosanna."
+    old "Sarah Rose, long lost heir to the throne of Rosanna."
+    new "Sarah Rose, long lost heir to the throne of Rosanna."
 
     old "Sarah felt pinned to the ground."
     new "Sarah felt pinned to the ground."
@@ -670,11 +658,11 @@ translate ru strings:
     old "He smiled again."
     new "He smiled again."
 
-    old "Founder\" \"An old friend of your father."
-    new "Founder\" \"An old friend of your father."
+    old "An old friend of your father."
+    new "An old friend of your father."
 
-    old "Founder\" \"But I recall you as well, though I doubt you were old enough to remember."
-    new "Founder\" \"But I recall you as well, though I doubt you were old enough to remember."
+    old "But I recall you as well, though I doubt you were old enough to remember."
+    new "But I recall you as well, though I doubt you were old enough to remember."
 
     old "Sarah felt her head spinning..."
     new "Sarah felt her head spinning..."
@@ -682,23 +670,23 @@ translate ru strings:
     old "You...you knew my father?"
     new "You...you knew my father?"
 
-    old "Founder\" \"And his father before, and several others along your family line."
-    new "Founder\" \"And his father before, and several others along your family line."
+    old "And his father before, and several others along your family line."
+    new "And his father before, and several others along your family line."
 
-    old "Founder\" \"Most just names to you, though."
-    new "Founder\" \"Most just names to you, though."
+    old "Most just names to you, though."
+    new "Most just names to you, though."
 
-    old "Founder\" \"Your family line has always been strong allies to our cause."
-    new "Founder\" \"Your family line has always been strong allies to our cause."
+    old "Your family line has always been strong allies to our cause."
+    new "Your family line has always been strong allies to our cause."
 
-    old "Founder\" \"Though I must admit, you are the first of your lineage to express any magical potency."
-    new "Founder\" \"Though I must admit, you are the first of your lineage to express any magical potency."
+    old "Though I must admit, you are the first of your lineage to express any magical potency."
+    new "Though I must admit, you are the first of your lineage to express any magical potency."
 
     old "He suddenly laid his hand on her shoulder."
     new "He suddenly laid his hand on her shoulder."
 
-    old "Founder\" \"But forgive me my manners, my name is Oryon."
-    new "Founder\" \"But forgive me my manners, my name is Oryon."
+    old "But forgive me my manners, my name is Oryon."
+    new "But forgive me my manners, my name is Oryon."
 
     old "Sarah had never heard the name before."
     new "Sarah had never heard the name before."
@@ -706,17 +694,17 @@ translate ru strings:
     old "My father never mentioned you. Ever."
     new "My father never mentioned you. Ever."
 
-    old "Oryon\" \"Good. We prefer to keep our alliances with the royal houses of the world, discreet."
-    new "Oryon\" \"Good. We prefer to keep our alliances with the royal houses of the world, discreet."
+    old "Good. We prefer to keep our alliances with the royal houses of the world, discreet."
+    new "Good. We prefer to keep our alliances with the royal houses of the world, discreet."
 
-    old "Oryon\" \"I am sure, when you had been ready, your father would have told you everything."
-    new "Oryon\" \"I am sure, when you had been ready, your father would have told you everything."
+    old "I am sure, when you had been ready, your father would have told you everything."
+    new "I am sure, when you had been ready, your father would have told you everything."
 
-    old "Oryon\" \"But of course, history takes twists and turns, and that never came to pass."
-    new "Oryon\" \"But of course, history takes twists and turns, and that never came to pass."
+    old "But of course, history takes twists and turns, and that never came to pass."
+    new "But of course, history takes twists and turns, and that never came to pass."
 
-    old "Oryon\" \"Tragedy, what happened to your father....and everything after that."
-    new "Oryon\" \"Tragedy, what happened to your father....and everything after that."
+    old "Tragedy, what happened to your father....and everything after that."
+    new "Tragedy, what happened to your father....and everything after that."
 
     old "Sarah was still reeling from how much the man seemed to know."
     new "Sarah was still reeling from how much the man seemed to know."
@@ -730,14 +718,14 @@ translate ru strings:
     old "She saw him look at her with a paternal sadness."
     new "She saw him look at her with a paternal sadness."
 
-    old "Oryon\" \"Could have what?"
-    new "Oryon\" \"Could have what?"
+    old "Could have what?"
+    new "Could have what?"
 
-    old "Oryon\" \"Used our magic to sway the course of battle?"
-    new "Oryon\" \"Used our magic to sway the course of battle?"
+    old "Used our magic to sway the course of battle?"
+    new "Used our magic to sway the course of battle?"
 
-    old "Oryon\" \"Perhaps, but to what end?"
-    new "Oryon\" \"Perhaps, but to what end?"
+    old "Perhaps, but to what end?"
+    new "Perhaps, but to what end?"
 
     old "What do you mean to what end? To save my family! My kingdom! My people! My...my brother!!!"
     new "What do you mean to what end? To save my family! My kingdom! My people! My...my brother!!!"
@@ -745,32 +733,32 @@ translate ru strings:
     old "Sarah wanted to scream."
     new "Sarah wanted to scream."
 
-    old "Oryon\" \"I understand your anger and why you feel it."
-    new "Oryon\" \"I understand your anger and why you feel it."
+    old "I understand your anger and why you feel it."
+    new "I understand your anger and why you feel it."
 
-    old "Oryon\" \"But myself and this Order, we are tasked with something far beyond the momentary lives of people."
-    new "Oryon\" \"But myself and this Order, we are tasked with something far beyond the momentary lives of people."
+    old "But myself and this Order, we are tasked with something far beyond the momentary lives of people."
+    new "But myself and this Order, we are tasked with something far beyond the momentary lives of people."
 
     old "Yes, Hecate told me, your stupid Will, or whatever story you tell yourself to justify what you do."
     new "Yes, Hecate told me, your stupid Will, or whatever story you tell yourself to justify what you do."
 
-    old "Oryon\" \"It is not just a story, Sarah."
-    new "Oryon\" \"It is not just a story, Sarah."
+    old "It is not just a story, Sarah."
+    new "It is not just a story, Sarah."
 
-    old "Oryon\" \"I was there when the first Empire ruled, and I lived through the greatest Era our species had ever seen."
-    new "Oryon\" \"I was there when the first Empire ruled, and I lived through the greatest Era our species had ever seen."
+    old "I was there when the first Empire ruled, and I lived through the greatest Era our species had ever seen."
+    new "I was there when the first Empire ruled, and I lived through the greatest Era our species had ever seen."
 
-    old "Oryon\" \"We used to build cities that made places like this seem like dung heaps."
-    new "Oryon\" \"We used to build cities that made places like this seem like dung heaps."
+    old "We used to build cities that made places like this seem like dung heaps."
+    new "We used to build cities that made places like this seem like dung heaps."
 
-    old "Oryon\" \"We occupied ourselves with studies of the stars, and uncovering the laws that govern all nature."
-    new "Oryon\" \"We occupied ourselves with studies of the stars, and uncovering the laws that govern all nature."
+    old "We occupied ourselves with studies of the stars, and uncovering the laws that govern all nature."
+    new "We occupied ourselves with studies of the stars, and uncovering the laws that govern all nature."
 
-    old "Oryon\" \"You ask, why did we not save your kingdom?"
-    new "Oryon\" \"You ask, why did we not save your kingdom?"
+    old "You ask, why did we not save your kingdom?"
+    new "You ask, why did we not save your kingdom?"
 
-    old "Oryon\" \"Because on the full measure of history, what did it ever really amount to?"
-    new "Oryon\" \"Because on the full measure of history, what did it ever really amount to?"
+    old "Because on the full measure of history, what did it ever really amount to?"
+    new "Because on the full measure of history, what did it ever really amount to?"
 
     old "Sarah clenched her fists again."
     new "Sarah clenched her fists again."
@@ -778,23 +766,23 @@ translate ru strings:
     old "People! People lived their lives there! And they didn't deserve this..."
     new "People! People lived their lives there! And they didn't deserve this..."
 
-    old "Oryon\" \"Sarah, within a little more than a hundred years, every man or woman alive today, will have died of old age."
-    new "Oryon\" \"Sarah, within a little more than a hundred years, every man or woman alive today, will have died of old age."
+    old "Sarah, within a little more than a hundred years, every man or woman alive today, will have died of old age."
+    new "Sarah, within a little more than a hundred years, every man or woman alive today, will have died of old age."
 
-    old "Oryon\" \"Every single person on the face of the planet, dead and gone, replaced by some new generation."
-    new "Oryon\" \"Every single person on the face of the planet, dead and gone, replaced by some new generation."
+    old "Every single person on the face of the planet, dead and gone, replaced by some new generation."
+    new "Every single person on the face of the planet, dead and gone, replaced by some new generation."
 
-    old "Oryon\" \"And a hundred years after, that generation will be gone, replaced by another."
-    new "Oryon\" \"And a hundred years after, that generation will be gone, replaced by another."
+    old "And a hundred years after, that generation will be gone, replaced by another."
+    new "And a hundred years after, that generation will be gone, replaced by another."
 
-    old "Oryon\" \"What looks to you like people, are to me, simple cycles."
-    new "Oryon\" \"What looks to you like people, are to me, simple cycles."
+    old "What looks to you like people, are to me, simple cycles."
+    new "What looks to you like people, are to me, simple cycles."
 
-    old "Oryon\" \"What you call saving a life, to me, is extending the flickering of a candle by a few more seconds."
-    new "Oryon\" \"What you call saving a life, to me, is extending the flickering of a candle by a few more seconds."
+    old "What you call saving a life, to me, is extending the flickering of a candle by a few more seconds."
+    new "What you call saving a life, to me, is extending the flickering of a candle by a few more seconds."
 
-    old "Oryon\" \"Once you measure time in centuries, the world looks very different."
-    new "Oryon\" \"Once you measure time in centuries, the world looks very different."
+    old "Once you measure time in centuries, the world looks very different."
+    new "Once you measure time in centuries, the world looks very different."
 
     old "I hope I never see the world the way you do."
     new "I hope I never see the world the way you do."
@@ -834,9 +822,6 @@ translate ru strings:
 
     old "She felt her breath quickening, realizing that she had set something in motion that could not be undone."
     new "She felt her breath quickening, realizing that she had set something in motion that could not be undone."
-
-    old "Oryon\" \"Are you okay?"
-    new "Oryon\" \"Are you okay?"
 
     old "Sarah snapped from her daze and saw him looking at her, a strange sense of concern on his face."
     new "Sarah snapped from her daze and saw him looking at her, a strange sense of concern on his face."
@@ -1216,23 +1201,20 @@ translate ru strings:
     old "To her own surprise, the realization did not frighten her."
     new "To her own surprise, the realization did not frighten her."
 
-    old "Voice\" \"You are here."
-    new "Voice\" \"You are here."
+    old "You are here."
+    new "You are here."
 
     old "I came."
     new "I came."
 
-    old "Voice\" \"Just as I asked of you."
-    new "Voice\" \"Just as I asked of you."
+    old "Just as I asked of you."
+    new "Just as I asked of you."
 
     old "You never did."
     new "You never did."
 
-    old "Voice\" \"Not in this life."
-    new "Voice\" \"Not in this life."
-
-    old "Voice\" \"Another."
-    new "Voice\" \"Another."
+    old "Not in this life."
+    new "Not in this life."
 
     old "Sarah felt the edges of the room fade away as she approached the edge of the fountain."
     new "Sarah felt the edges of the room fade away as she approached the edge of the fountain."
@@ -1255,8 +1237,8 @@ translate ru strings:
     old "Some border into a world not quite her own."
     new "Some border into a world not quite her own."
 
-    old "Voice\" \"But you came to me, still, by wandering way and turning road."
-    new "Voice\" \"But you came to me, still, by wandering way and turning road."
+    old "But you came to me, still, by wandering way and turning road."
+    new "But you came to me, still, by wandering way and turning road."
 
     old "Sarah felt herself wobble to the pulsing sound of the voice, that echoed from inside her head."
     new "Sarah felt herself wobble to the pulsing sound of the voice, that echoed from inside her head."
@@ -1264,14 +1246,14 @@ translate ru strings:
     old "Who...are you..."
     new "Who...are you..."
 
-    old "Voice\" \"Who."
-    new "Voice\" \"Who."
+    old "Who."
+    new "Who."
 
-    old "Voice\" \"Many names. Titles."
-    new "Voice\" \"Many names. Titles."
+    old "Many names. Titles."
+    new "Many names. Titles."
 
-    old "Voice\" \"What you wish to know is what is my nature."
-    new "Voice\" \"What you wish to know is what is my nature."
+    old "What you wish to know is what is my nature."
+    new "What you wish to know is what is my nature."
 
     old "Sarah nodded as she felt herself entranced by the bloodied hand, moving, motioning."
     new "Sarah nodded as she felt herself entranced by the bloodied hand, moving, motioning."
@@ -1279,11 +1261,11 @@ translate ru strings:
     old "Soft ripples disturbed the bloodied waters."
     new "Soft ripples disturbed the bloodied waters."
 
-    old "Voice\" \"A God."
-    new "Voice\" \"A God."
+    old "A God."
+    new "A God."
 
-    old "Voice\" \"One your kind once worshipped."
-    new "Voice\" \"One your kind once worshipped."
+    old "One your kind once worshipped."
+    new "One your kind once worshipped."
 
     old "Sarah felt a truth in the voice that felt beyond argument. Its declaration, absurd as if sounded, was true beyond question."
     new "Sarah felt a truth in the voice that felt beyond argument. Its declaration, absurd as if sounded, was true beyond question."
@@ -1291,14 +1273,11 @@ translate ru strings:
     old "I thought they all left..."
     new "I thought they all left..."
 
-    old "Voice\" \"All did."
-    new "Voice\" \"All did."
+    old "But not me."
+    new "But not me."
 
-    old "Voice\" \"But not me."
-    new "Voice\" \"But not me."
-
-    old "Voice\" \"I alone remained."
-    new "Voice\" \"I alone remained."
+    old "I alone remained."
+    new "I alone remained."
 
     old "You...you rule the Mythran Empire? A god?"
     new "You...you rule the Mythran Empire? A god?"
@@ -1306,26 +1285,23 @@ translate ru strings:
     old "The waters twisted, as if something swam just beneath the surface."
     new "The waters twisted, as if something swam just beneath the surface."
 
-    old "Voice\" \"Once I was a God."
-    new "Voice\" \"Once I was a God."
+    old "Once I was a God."
+    new "Once I was a God."
 
-    old "Voice\" \"But once I was one of many."
-    new "Voice\" \"But once I was one of many."
+    old "But once I was one of many."
+    new "But once I was one of many."
 
-    old "Voice\" \"Now I am alone, and I am not as I was."
-    new "Voice\" \"Now I am alone, and I am not as I was."
+    old "Now I am alone, and I am not as I was."
+    new "Now I am alone, and I am not as I was."
 
-    old "Voice\" \"In the abscence of my brothers and sisters, I have diminished."
-    new "Voice\" \"In the abscence of my brothers and sisters, I have diminished."
+    old "In the abscence of my brothers and sisters, I have diminished."
+    new "In the abscence of my brothers and sisters, I have diminished."
 
-    old "Voice\" \"Now..."
-    new "Voice\" \"Now..."
+    old "Every day, I am lesser of heaven, and more of this earth."
+    new "Every day, I am lesser of heaven, and more of this earth."
 
-    old "Voice\" \"Every day, I am lesser of heaven, and more of this earth."
-    new "Voice\" \"Every day, I am lesser of heaven, and more of this earth."
-
-    old "Voice\" \"Once I floated among the stars, now I am entombed in this dirt and mud."
-    new "Voice\" \"Once I floated among the stars, now I am entombed in this dirt and mud."
+    old "Once I floated among the stars, now I am entombed in this dirt and mud."
+    new "Once I floated among the stars, now I am entombed in this dirt and mud."
 
     old "Sarah could feel the vibration of the thing's voice, through her bones."
     new "Sarah could feel the vibration of the thing's voice, through her bones."
@@ -1333,17 +1309,17 @@ translate ru strings:
     old "What...do you want from me?"
     new "What...do you want from me?"
 
-    old "Voice\" \"To live."
-    new "Voice\" \"To live."
+    old "To live."
+    new "To live."
 
-    old "Voice\" \"The beasts from the Void seek to devour me."
-    new "Voice\" \"The beasts from the Void seek to devour me."
+    old "The beasts from the Void seek to devour me."
+    new "The beasts from the Void seek to devour me."
 
-    old "Voice\" \"Your mage Order...wished to put me to the flame."
-    new "Voice\" \"Your mage Order...wished to put me to the flame."
+    old "Your mage Order...wished to put me to the flame."
+    new "Your mage Order...wished to put me to the flame."
 
-    old "Voice\" \"All I seek...is to survive."
-    new "Voice\" \"All I seek...is to survive."
+    old "All I seek...is to survive."
+    new "All I seek...is to survive."
 
     old "Sarah leaned closer to the surface of the fountain."
     new "Sarah leaned closer to the surface of the fountain."
@@ -1360,44 +1336,38 @@ translate ru strings:
     old "What is this..."
     new "What is this..."
 
-    old "Voice\" \"My blessing."
-    new "Voice\" \"My blessing."
+    old "My blessing."
+    new "My blessing."
 
-    old "Voice\" \"You are special, Sarah."
-    new "Voice\" \"You are special, Sarah."
+    old "You are special, Sarah."
+    new "You are special, Sarah."
 
     old "No...I'm just...a girl..."
     new "No...I'm just...a girl..."
 
-    old "Voice\" \"No."
-    new "Voice\" \"No."
+    old "All souls are not made alike."
+    new "All souls are not made alike."
 
-    old "Voice\" \"All souls are not made alike."
-    new "Voice\" \"All souls are not made alike."
+    old "Buried within yours, fragments of my brothers and sisters."
+    new "Buried within yours, fragments of my brothers and sisters."
 
-    old "Voice\" \"Buried within yours, fragments of my brothers and sisters."
-    new "Voice\" \"Buried within yours, fragments of my brothers and sisters."
+    old "Holy."
+    new "Holy."
 
-    old "Voice\" \"Holy."
-    new "Voice\" \"Holy."
+    old "There are so very few like you."
+    new "There are so very few like you."
 
-    old "Voice\" \"There are so very few like you."
-    new "Voice\" \"There are so very few like you."
+    old "Those who can walk outside the ordained paths of history."
+    new "Those who can walk outside the ordained paths of history."
 
-    old "Voice\" \"Those who can walk outside the ordained paths of history."
-    new "Voice\" \"Those who can walk outside the ordained paths of history."
+    old "Those who shape the world, rather than be shaped by it."
+    new "Those who shape the world, rather than be shaped by it."
 
-    old "Voice\" \"Those who shape the world, rather than be shaped by it."
-    new "Voice\" \"Those who shape the world, rather than be shaped by it."
+    old "You can stop them all."
+    new "You can stop them all."
 
-    old "Voice\" \"You..."
-    new "Voice\" \"You..."
-
-    old "Voice\" \"You can stop them all."
-    new "Voice\" \"You can stop them all."
-
-    old "Voice\" \"The Void. The mages. My brothers and sisters..."
-    new "Voice\" \"The Void. The mages. My brothers and sisters..."
+    old "The Void. The mages. My brothers and sisters..."
+    new "The Void. The mages. My brothers and sisters..."
 
     old "Sarah leaned further in, so close that her face nearly touched the waters."
     new "Sarah leaned further in, so close that her face nearly touched the waters."
@@ -1405,47 +1375,41 @@ translate ru strings:
     old "There was something there."
     new "There was something there."
 
-    old "Voice\" \"Because I can give you all you desire and more."
-    new "Voice\" \"Because I can give you all you desire and more."
+    old "Because I can give you all you desire and more."
+    new "Because I can give you all you desire and more."
 
-    old "Voice\" \"I am not as I once was, but I am still charged with powers beyond any other on this earth."
-    new "Voice\" \"I am not as I once was, but I am still charged with powers beyond any other on this earth."
+    old "I am not as I once was, but I am still charged with powers beyond any other on this earth."
+    new "I am not as I once was, but I am still charged with powers beyond any other on this earth."
 
-    old "Voice\" \"Your father...your brother..."
-    new "Voice\" \"Your father...your brother..."
+    old "Your father...your brother..."
+    new "Your father...your brother..."
 
-    old "Voice\" \"I can make the dead walk again."
-    new "Voice\" \"I can make the dead walk again."
+    old "I can make the dead walk again."
+    new "I can make the dead walk again."
 
     old "A childish hope, that she had long ago allowed to die, returned."
     new "A childish hope, that she had long ago allowed to die, returned."
 
-    old "Voice\" \"Yes!"
-    new "Voice\" \"Yes!"
-
     old "The voice hissed, sharply."
     new "The voice hissed, sharply."
 
-    old "Voice\" \"You have killed your Order. Aid me in eradicating the Void scourge, and I will work miracles for you."
-    new "Voice\" \"You have killed your Order. Aid me in eradicating the Void scourge, and I will work miracles for you."
+    old "You have killed your Order. Aid me in eradicating the Void scourge, and I will work miracles for you."
+    new "You have killed your Order. Aid me in eradicating the Void scourge, and I will work miracles for you."
 
-    old "Voice\" \"You can save millions, and have all the love that this world denied you."
-    new "Voice\" \"You can save millions, and have all the love that this world denied you."
+    old "You can save millions, and have all the love that this world denied you."
+    new "You can save millions, and have all the love that this world denied you."
 
-    old "Voice\" \"All can be as it should have been."
-    new "Voice\" \"All can be as it should have been."
+    old "All can be as it should have been."
+    new "All can be as it should have been."
 
     old "She felt tears building in her eyes, an intoxicating dream, too tempting to resist."
     new "She felt tears building in her eyes, an intoxicating dream, too tempting to resist."
 
-    old "Voice\" \"Drink from my waters."
-    new "Voice\" \"Drink from my waters."
+    old "Drink from my waters."
+    new "Drink from my waters."
 
-    old "Voice\" \"And we will be wed."
-    new "Voice\" \"And we will be wed."
-
-    old "Voice\" \"Forever."
-    new "Voice\" \"Forever."
+    old "And we will be wed."
+    new "And we will be wed."
 
     old "Sarah reached out with her hand, cupping the blood."
     new "Sarah reached out with her hand, cupping the blood."
@@ -1513,9 +1477,6 @@ translate ru strings:
     old "And its voice."
     new "And its voice."
 
-    old "Voice\" \"It is done."
-    new "Voice\" \"It is done."
-
     old "She wondered if she had heard the voice."
     new "She wondered if she had heard the voice."
 
@@ -1525,11 +1486,11 @@ translate ru strings:
     old "Or if there was any difference anymore."
     new "Or if there was any difference anymore."
 
-    old "Voice\" \"The blighted Void marches on the city."
-    new "Voice\" \"The blighted Void marches on the city."
+    old "The blighted Void marches on the city."
+    new "The blighted Void marches on the city."
 
-    old "Voice\" \"You shall meet them on the field of battle and all the hosts of the Empire will stand besides you."
-    new "Voice\" \"You shall meet them on the field of battle and all the hosts of the Empire will stand besides you."
+    old "You shall meet them on the field of battle and all the hosts of the Empire will stand besides you."
+    new "You shall meet them on the field of battle and all the hosts of the Empire will stand besides you."
 
     old "Sarah rose back to her feet."
     new "Sarah rose back to her feet."
@@ -1540,23 +1501,23 @@ translate ru strings:
     old "Oryon smiled."
     new "Oryon smiled."
 
-    old "Oryon\" \"I suspect you're right about that. Too much heart in you."
-    new "Oryon\" \"I suspect you're right about that. Too much heart in you."
+    old "I suspect you're right about that. Too much heart in you."
+    new "I suspect you're right about that. Too much heart in you."
 
-    old "Oryon\" \"Xan warned me about that."
-    new "Oryon\" \"Xan warned me about that."
+    old "Xan warned me about that."
+    new "Xan warned me about that."
 
     old "Xan did...what..."
     new "Xan did...what..."
 
-    old "Oryon\" \"You think he did not inform me of the new student that he took on?"
-    new "Oryon\" \"You think he did not inform me of the new student that he took on?"
+    old "You think he did not inform me of the new student that he took on?"
+    new "You think he did not inform me of the new student that he took on?"
 
-    old "Oryon\" \"Or her unique heritage?"
-    new "Oryon\" \"Or her unique heritage?"
+    old "Or her unique heritage?"
+    new "Or her unique heritage?"
 
-    old "Oryon\" \"Altough, for all his insight, it didn't save him from what you did to him."
-    new "Oryon\" \"Altough, for all his insight, it didn't save him from what you did to him."
+    old "Altough, for all his insight, it didn't save him from what you did to him."
+    new "Altough, for all his insight, it didn't save him from what you did to him."
 
     old "Sarah felt the room spin around her."
     new "Sarah felt the room spin around her."
@@ -1564,47 +1525,47 @@ translate ru strings:
     old "What...what are you saying..."
     new "What...what are you saying..."
 
-    old "Oryon\" \"That you murdered Xan."
-    new "Oryon\" \"That you murdered Xan."
+    old "That you murdered Xan."
+    new "That you murdered Xan."
 
     old "No...I...I didn't..."
     new "No...I...I didn't..."
 
-    old "Oryon\" \"Don't worry, it's not an accusation, simply a statement of fact. I know that you did."
-    new "Oryon\" \"Don't worry, it's not an accusation, simply a statement of fact. I know that you did."
+    old "Don't worry, it's not an accusation, simply a statement of fact. I know that you did."
+    new "Don't worry, it's not an accusation, simply a statement of fact. I know that you did."
 
-    old "Oryon\" \"And while the loss of the house was regretable, Xan himself knew well enough the fire he played with."
-    new "Oryon\" \"And while the loss of the house was regretable, Xan himself knew well enough the fire he played with."
+    old "And while the loss of the house was regretable, Xan himself knew well enough the fire he played with."
+    new "And while the loss of the house was regretable, Xan himself knew well enough the fire he played with."
 
     old "But the gathering seemed to carry on as it always did."
     new "But the gathering seemed to carry on as it always did."
 
-    old "Oryon\" \"I had told him to hand you over, but he was rather protective of his new student."
-    new "Oryon\" \"I had told him to hand you over, but he was rather protective of his new student."
+    old "I had told him to hand you over, but he was rather protective of his new student."
+    new "I had told him to hand you over, but he was rather protective of his new student."
 
-    old "Oryon\" \"So when he suddenly dissapeared, it wasn't too difficult to conclude what had happened."
-    new "Oryon\" \"So when he suddenly dissapeared, it wasn't too difficult to conclude what had happened."
+    old "So when he suddenly dissapeared, it wasn't too difficult to conclude what had happened."
+    new "So when he suddenly dissapeared, it wasn't too difficult to conclude what had happened."
 
-    old "Oryon\" \"Though how you did it, well...I look forward to hearing that story some day."
-    new "Oryon\" \"Though how you did it, well...I look forward to hearing that story some day."
+    old "Though how you did it, well...I look forward to hearing that story some day."
+    new "Though how you did it, well...I look forward to hearing that story some day."
 
     old "You...you're not going to..."
     new "You...you're not going to..."
 
-    old "Oryon\" \"What? Arrest you? Please, why would I share what I know about you if I meant any ill will?"
-    new "Oryon\" \"What? Arrest you? Please, why would I share what I know about you if I meant any ill will?"
+    old "What? Arrest you? Please, why would I share what I know about you if I meant any ill will?"
+    new "What? Arrest you? Please, why would I share what I know about you if I meant any ill will?"
 
     old "But...you said he was your friend...aren't you...mad?"
     new "But...you said he was your friend...aren't you...mad?"
 
-    old "Oryon\" \"Didn't you listen to a word I said?"
-    new "Oryon\" \"Didn't you listen to a word I said?"
+    old "Didn't you listen to a word I said?"
+    new "Didn't you listen to a word I said?"
 
-    old "Oryon\" \"A single life, no matter how dear, is meaningless compared to the Will."
-    new "Oryon\" \"A single life, no matter how dear, is meaningless compared to the Will."
+    old "A single life, no matter how dear, is meaningless compared to the Will."
+    new "A single life, no matter how dear, is meaningless compared to the Will."
 
-    old "Oryon\" \"And Xan knew the risk he took when he took you on as his apprentice."
-    new "Oryon\" \"And Xan knew the risk he took when he took you on as his apprentice."
+    old "And Xan knew the risk he took when he took you on as his apprentice."
+    new "And Xan knew the risk he took when he took you on as his apprentice."
 
     old "You've said that...before..."
     new "You've said that...before..."
@@ -1612,8 +1573,8 @@ translate ru strings:
     old "That he knew the risk about me? What...are you talking about?"
     new "That he knew the risk about me? What...are you talking about?"
 
-    old "Oryon\" \"I thought you called the Will, a...what was it? Stupid story or excuse? Having a change of heart?"
-    new "Oryon\" \"I thought you called the Will, a...what was it? Stupid story or excuse? Having a change of heart?"
+    old "I thought you called the Will, a...what was it? Stupid story or excuse? Having a change of heart?"
+    new "I thought you called the Will, a...what was it? Stupid story or excuse? Having a change of heart?"
 
     old "Please...tell me."
     new "Please...tell me."
@@ -1621,65 +1582,62 @@ translate ru strings:
     old "Oryon nodded."
     new "Oryon nodded."
 
-    old "Oryon\" \"Very well."
-    new "Oryon\" \"Very well."
+    old "Xan was old, much like myself and the other founders, he was alive during the First Empire."
+    new "Xan was old, much like myself and the other founders, he was alive during the First Empire."
 
-    old "Oryon\" \"Xan was old, much like myself and the other founders, he was alive during the First Empire."
-    new "Oryon\" \"Xan was old, much like myself and the other founders, he was alive during the First Empire."
-
-    old "Oryon\" \"Back then, the Gods of our world still walked in living flesh among us."
-    new "Oryon\" \"Back then, the Gods of our world still walked in living flesh among us."
+    old "Back then, the Gods of our world still walked in living flesh among us."
+    new "Back then, the Gods of our world still walked in living flesh among us."
 
     old "Hecate...she said the same...that the Gods were still...real back then?"
     new "Hecate...she said the same...that the Gods were still...real back then?"
 
-    old "Oryon\" \"No belief or faith was required. They were as real as me standing here before you."
-    new "Oryon\" \"No belief or faith was required. They were as real as me standing here before you."
+    old "No belief or faith was required. They were as real as me standing here before you."
+    new "No belief or faith was required. They were as real as me standing here before you."
 
-    old "Oryon\" \"They spoke to us, freely, teaching us, instructing us, raising up our species from the mud."
-    new "Oryon\" \"They spoke to us, freely, teaching us, instructing us, raising up our species from the mud."
+    old "They spoke to us, freely, teaching us, instructing us, raising up our species from the mud."
+    new "They spoke to us, freely, teaching us, instructing us, raising up our species from the mud."
 
-    old "Oryon\" \"And for a while, we lived in a paradise."
-    new "Oryon\" \"And for a while, we lived in a paradise."
+    old "And for a while, we lived in a paradise."
+    new "And for a while, we lived in a paradise."
 
-    old "Oryon\" \"Then, as you also know, our world ended when our Empress reached out and drew the Voidling world into ours."
-    new "Oryon\" \"Then, as you also know, our world ended when our Empress reached out and drew the Voidling world into ours."
+    old "Then, as you also know, our world ended when our Empress reached out and drew the Voidling world into ours."
+    new "Then, as you also know, our world ended when our Empress reached out and drew the Voidling world into ours."
 
-    old "Oryon\" \"For the first time, our Gods learned that they could be wounded, and worse, die."
-    new "Oryon\" \"For the first time, our Gods learned that they could be wounded, and worse, die."
+    old "For the first time, our Gods learned that they could be wounded, and worse, die."
+    new "For the first time, our Gods learned that they could be wounded, and worse, die."
 
-    old "Oryon\" \"They fought the Voidlings and their three-sister demons to a stalemate."
-    new "Oryon\" \"They fought the Voidlings and their three-sister demons to a stalemate."
+    old "They fought the Voidlings and their three-sister demons to a stalemate."
+    new "They fought the Voidlings and their three-sister demons to a stalemate."
 
-    old "Oryon\" \"A war that had not been won or lost by either side."
-    new "Oryon\" \"A war that had not been won or lost by either side."
+    old "A war that had not been won or lost by either side."
+    new "A war that had not been won or lost by either side."
 
-    old "Oryon\" \"The Gods have sight beyond sight, they can see the many futures, and how the world unfolds with perfect accuracy."
-    new "Oryon\" \"The Gods have sight beyond sight, they can see the many futures, and how the world unfolds with perfect accuracy."
+    old "The Gods have sight beyond sight, they can see the many futures, and how the world unfolds with perfect accuracy."
+    new "The Gods have sight beyond sight, they can see the many futures, and how the world unfolds with perfect accuracy."
 
-    old "Oryon\" \"They knew the path that would lead to a final victory."
-    new "Oryon\" \"They knew the path that would lead to a final victory."
+    old "They knew the path that would lead to a final victory."
+    new "They knew the path that would lead to a final victory."
 
-    old "Oryon\" \"A brutal war between them and the Void that would see countless of them dead."
-    new "Oryon\" \"A brutal war between them and the Void that would see countless of them dead."
+    old "A brutal war between them and the Void that would see countless of them dead."
+    new "A brutal war between them and the Void that would see countless of them dead."
 
-    old "Oryon\" \"And our Gods could not accept this."
-    new "Oryon\" \"And our Gods could not accept this."
+    old "And our Gods could not accept this."
+    new "And our Gods could not accept this."
 
-    old "Oryon\" \"So instead, they fled from our world into a space beyond, where we could not reach them."
-    new "Oryon\" \"So instead, they fled from our world into a space beyond, where we could not reach them."
+    old "So instead, they fled from our world into a space beyond, where we could not reach them."
+    new "So instead, they fled from our world into a space beyond, where we could not reach them."
 
-    old "Oryon\" \"But not before leaving those of us who remained behind with the means to save them."
-    new "Oryon\" \"But not before leaving those of us who remained behind with the means to save them."
+    old "But not before leaving those of us who remained behind with the means to save them."
+    new "But not before leaving those of us who remained behind with the means to save them."
 
     old "Save them?"
     new "Save them?"
 
-    old "Oryon\" \"The Gods did not wish to abandon us forever, only hide while the war raged and until the Void was vanquished."
-    new "Oryon\" \"The Gods did not wish to abandon us forever, only hide while the war raged and until the Void was vanquished."
+    old "The Gods did not wish to abandon us forever, only hide while the war raged and until the Void was vanquished."
+    new "The Gods did not wish to abandon us forever, only hide while the war raged and until the Void was vanquished."
 
-    old "Oryon\" \"So they gave us the tools we needed, our magic, and they gave us their plan. The Will."
-    new "Oryon\" \"So they gave us the tools we needed, our magic, and they gave us their plan. The Will."
+    old "So they gave us the tools we needed, our magic, and they gave us their plan. The Will."
+    new "So they gave us the tools we needed, our magic, and they gave us their plan. The Will."
 
     old "Sarah looked at him, skeptically."
     new "Sarah looked at him, skeptically."
@@ -1687,32 +1645,32 @@ translate ru strings:
     old "A plan?"
     new "A plan?"
 
-    old "Oryon\" \"Yes, as I mentioned, the Gods know the unfolding of future events with perfect accuracy."
-    new "Oryon\" \"Yes, as I mentioned, the Gods know the unfolding of future events with perfect accuracy."
+    old "Yes, as I mentioned, the Gods know the unfolding of future events with perfect accuracy."
+    new "Yes, as I mentioned, the Gods know the unfolding of future events with perfect accuracy."
 
-    old "Oryon\" \"So the Gods gathered and wrote down the twisting paths of history."
-    new "Oryon\" \"So the Gods gathered and wrote down the twisting paths of history."
+    old "So the Gods gathered and wrote down the twisting paths of history."
+    new "So the Gods gathered and wrote down the twisting paths of history."
 
     old "They...wrote down history? You mean...everything that is going to happen?"
     new "They...wrote down history? You mean...everything that is going to happen?"
 
-    old "Oryon\" \"Not quite so simple."
-    new "Oryon\" \"Not quite so simple."
+    old "Not quite so simple."
+    new "Not quite so simple."
 
-    old "Oryon\" \"There is no singular path of history. The choices that people make, shape the direction of history."
-    new "Oryon\" \"There is no singular path of history. The choices that people make, shape the direction of history."
+    old "There is no singular path of history. The choices that people make, shape the direction of history."
+    new "There is no singular path of history. The choices that people make, shape the direction of history."
 
-    old "Oryon\" \"But there are not infinite potential paths."
-    new "Oryon\" \"But there are not infinite potential paths."
+    old "But there are not infinite potential paths."
+    new "But there are not infinite potential paths."
 
-    old "Oryon\" \"With careful pruning, the branches of history can be guided and reduced. Controlled."
-    new "Oryon\" \"With careful pruning, the branches of history can be guided and reduced. Controlled."
+    old "With careful pruning, the branches of history can be guided and reduced. Controlled."
+    new "With careful pruning, the branches of history can be guided and reduced. Controlled."
 
-    old "Oryon\" \"With their instructions, we knew how to shape the path of humanity, to bring about the conditions of victory."
-    new "Oryon\" \"With their instructions, we knew how to shape the path of humanity, to bring about the conditions of victory."
+    old "With their instructions, we knew how to shape the path of humanity, to bring about the conditions of victory."
+    new "With their instructions, we knew how to shape the path of humanity, to bring about the conditions of victory."
 
-    old "Oryon\" \"Victory over the Void. And then, the safe return of the Gods."
-    new "Oryon\" \"Victory over the Void. And then, the safe return of the Gods."
+    old "Victory over the Void. And then, the safe return of the Gods."
+    new "Victory over the Void. And then, the safe return of the Gods."
 
     old "The scope of his confession was enough to make her dizzy."
     new "The scope of his confession was enough to make her dizzy."
@@ -1723,38 +1681,38 @@ translate ru strings:
     old "So...everything we do..."
     new "So...everything we do..."
 
-    old "Oryon\" \"All of it leads towards the same outcome."
-    new "Oryon\" \"All of it leads towards the same outcome."
+    old "All of it leads towards the same outcome."
+    new "All of it leads towards the same outcome."
 
-    old "Oryon\" \"Or...at least...it was supposed to."
-    new "Oryon\" \"Or...at least...it was supposed to."
+    old "Or...at least...it was supposed to."
+    new "Or...at least...it was supposed to."
 
-    old "Oryon\" \"The Gods could see everything, predict every path, consider every potential outcome."
-    new "Oryon\" \"The Gods could see everything, predict every path, consider every potential outcome."
+    old "The Gods could see everything, predict every path, consider every potential outcome."
+    new "The Gods could see everything, predict every path, consider every potential outcome."
 
-    old "Oryon\" \"But they were blind to one fact."
-    new "Oryon\" \"But they were blind to one fact."
+    old "But they were blind to one fact."
+    new "But they were blind to one fact."
 
-    old "Oryon\" \"That a God, can deceive a God."
-    new "Oryon\" \"That a God, can deceive a God."
+    old "That a God, can deceive a God."
+    new "That a God, can deceive a God."
 
-    old "Oryon\" \"Just as the Gods caried out their plan to flee, there was one among them that betrayed all the others."
-    new "Oryon\" \"Just as the Gods caried out their plan to flee, there was one among them that betrayed all the others."
+    old "Just as the Gods caried out their plan to flee, there was one among them that betrayed all the others."
+    new "Just as the Gods caried out their plan to flee, there was one among them that betrayed all the others."
 
-    old "Oryon\" \"The Trickster God."
-    new "Oryon\" \"The Trickster God."
+    old "The Trickster God."
+    new "The Trickster God."
 
-    old "Oryon\" \"The last of the Gods to flee, he closed the path behind them, preventing the others from returning back to our world."
-    new "Oryon\" \"The last of the Gods to flee, he closed the path behind them, preventing the others from returning back to our world."
+    old "The last of the Gods to flee, he closed the path behind them, preventing the others from returning back to our world."
+    new "The last of the Gods to flee, he closed the path behind them, preventing the others from returning back to our world."
 
-    old "Oryon\" \"That is why our world has remained in such a state of decline."
-    new "Oryon\" \"That is why our world has remained in such a state of decline."
+    old "That is why our world has remained in such a state of decline."
+    new "That is why our world has remained in such a state of decline."
 
-    old "Oryon\" \"We struggle to root out the Void, and the Betrayer blocks the path back home for our Gods."
-    new "Oryon\" \"We struggle to root out the Void, and the Betrayer blocks the path back home for our Gods."
+    old "We struggle to root out the Void, and the Betrayer blocks the path back home for our Gods."
+    new "We struggle to root out the Void, and the Betrayer blocks the path back home for our Gods."
 
-    old "Oryon\" \"We are strong enough to hold on, too weak to bring about final victory."
-    new "Oryon\" \"We are strong enough to hold on, too weak to bring about final victory."
+    old "We are strong enough to hold on, too weak to bring about final victory."
+    new "We are strong enough to hold on, too weak to bring about final victory."
 
     old "So what do we do then?"
     new "So what do we do then?"
@@ -1762,65 +1720,62 @@ translate ru strings:
     old "The Void is here now! I saw what they did to Lethram...if they do that same here..."
     new "The Void is here now! I saw what they did to Lethram...if they do that same here..."
 
-    old "Oryon\" \"I understand what you feel, it is only human."
-    new "Oryon\" \"I understand what you feel, it is only human."
+    old "I understand what you feel, it is only human."
+    new "I understand what you feel, it is only human."
 
-    old "Oryon\" \"But this place...this Empire, this city..."
-    new "Oryon\" \"But this place...this Empire, this city..."
+    old "But this place...this Empire, this city..."
+    new "But this place...this Empire, this city..."
 
-    old "Oryon\" \"Sarah..."
-    new "Oryon\" \"Sarah..."
-
-    old "Oryon\" \"Did you never wonder how or why the Mythran Empire stood so far above and beyond all other nations?"
-    new "Oryon\" \"Did you never wonder how or why the Mythran Empire stood so far above and beyond all other nations?"
+    old "Did you never wonder how or why the Mythran Empire stood so far above and beyond all other nations?"
+    new "Did you never wonder how or why the Mythran Empire stood so far above and beyond all other nations?"
 
     old "Hasn't there always been a nation that stands above the others?"
     new "Hasn't there always been a nation that stands above the others?"
 
-    old "Oryon\" \"Yes, in history, nations and empires, come and go like all cycles."
-    new "Oryon\" \"Yes, in history, nations and empires, come and go like all cycles."
+    old "Yes, in history, nations and empires, come and go like all cycles."
+    new "Yes, in history, nations and empires, come and go like all cycles."
 
-    old "Oryon\" \"But the Mythran Empire is unique. It has only advanced its position, and it never recedes. It never declines."
-    new "Oryon\" \"But the Mythran Empire is unique. It has only advanced its position, and it never recedes. It never declines."
+    old "But the Mythran Empire is unique. It has only advanced its position, and it never recedes. It never declines."
+    new "But the Mythran Empire is unique. It has only advanced its position, and it never recedes. It never declines."
 
-    old "Oryon\" \"The reason for it should be obvious to you now."
-    new "Oryon\" \"The reason for it should be obvious to you now."
+    old "The reason for it should be obvious to you now."
+    new "The reason for it should be obvious to you now."
 
     old "You mean that..."
     new "You mean that..."
 
-    old "Oryon\" \"This Empire is blessed, or cursed if you might."
-    new "Oryon\" \"This Empire is blessed, or cursed if you might."
+    old "This Empire is blessed, or cursed if you might."
+    new "This Empire is blessed, or cursed if you might."
 
-    old "Oryon\" \"Because it is ruled by the only God that remains in our world. The Betrayer."
-    new "Oryon\" \"Because it is ruled by the only God that remains in our world. The Betrayer."
+    old "Because it is ruled by the only God that remains in our world. The Betrayer."
+    new "Because it is ruled by the only God that remains in our world. The Betrayer."
 
-    old "Oryon\" \"At the heart of this city, in the depths of the Black Pyramid, the vile thing festers."
-    new "Oryon\" \"At the heart of this city, in the depths of the Black Pyramid, the vile thing festers."
+    old "At the heart of this city, in the depths of the Black Pyramid, the vile thing festers."
+    new "At the heart of this city, in the depths of the Black Pyramid, the vile thing festers."
 
-    old "Oryon\" \"Like a spreading cancer, it drives out all possibility for healthy life, leaving only corruption."
-    new "Oryon\" \"Like a spreading cancer, it drives out all possibility for healthy life, leaving only corruption."
+    old "Like a spreading cancer, it drives out all possibility for healthy life, leaving only corruption."
+    new "Like a spreading cancer, it drives out all possibility for healthy life, leaving only corruption."
 
-    old "Oryon\" \"And if we allow it, it will place the whole of the world in a state of permanent decay."
-    new "Oryon\" \"And if we allow it, it will place the whole of the world in a state of permanent decay."
+    old "And if we allow it, it will place the whole of the world in a state of permanent decay."
+    new "And if we allow it, it will place the whole of the world in a state of permanent decay."
 
-    old "Oryon\" \"An endless struggle with the Void that can never be won, a world forever denied the light of our Gods and their return."
-    new "Oryon\" \"An endless struggle with the Void that can never be won, a world forever denied the light of our Gods and their return."
+    old "An endless struggle with the Void that can never be won, a world forever denied the light of our Gods and their return."
+    new "An endless struggle with the Void that can never be won, a world forever denied the light of our Gods and their return."
 
     old "He suddenly leaned closer."
     new "He suddenly leaned closer."
 
-    old "Oryon\" \"Now you understand."
-    new "Oryon\" \"Now you understand."
+    old "Now you understand."
+    new "Now you understand."
 
-    old "Oryon\" \"Yes, we must stop the void. But not too soon. Only after they have weakened the Betrayer."
-    new "Oryon\" \"Yes, we must stop the void. But not too soon. Only after they have weakened the Betrayer."
+    old "Yes, we must stop the void. But not too soon. Only after they have weakened the Betrayer."
+    new "Yes, we must stop the void. But not too soon. Only after they have weakened the Betrayer."
 
-    old "Oryon\" \"Then, when both sides have weakened one another, we shall end the both of them."
-    new "Oryon\" \"Then, when both sides have weakened one another, we shall end the both of them."
+    old "Then, when both sides have weakened one another, we shall end the both of them."
+    new "Then, when both sides have weakened one another, we shall end the both of them."
 
-    old "Oryon\" \"And then, the path for our Gods will be restored, and the world can be as it should have been."
-    new "Oryon\" \"And then, the path for our Gods will be restored, and the world can be as it should have been."
+    old "And then, the path for our Gods will be restored, and the world can be as it should have been."
+    new "And then, the path for our Gods will be restored, and the world can be as it should have been."
 
     old "For the first time, she detected a hint of emotion in his voice, however faint."
     new "For the first time, she detected a hint of emotion in his voice, however faint."
@@ -1828,17 +1783,17 @@ translate ru strings:
     old "But...how many will die?"
     new "But...how many will die?"
 
-    old "Oryon\" \"Millions."
-    new "Oryon\" \"Millions."
+    old "Millions."
+    new "Millions."
 
-    old "Oryon\" \"But how many more will live in paradise after?"
-    new "Oryon\" \"But how many more will live in paradise after?"
+    old "But how many more will live in paradise after?"
+    new "But how many more will live in paradise after?"
 
-    old "Oryon\" \"Freed from these cruel and petty lives, instead, to live lives charged with meaning?"
-    new "Oryon\" \"Freed from these cruel and petty lives, instead, to live lives charged with meaning?"
+    old "Freed from these cruel and petty lives, instead, to live lives charged with meaning?"
+    new "Freed from these cruel and petty lives, instead, to live lives charged with meaning?"
 
-    old "Oryon\" \"We shall lose millions, but we will save our race."
-    new "Oryon\" \"We shall lose millions, but we will save our race."
+    old "We shall lose millions, but we will save our race."
+    new "We shall lose millions, but we will save our race."
 
     old "Sarah felt the weight of everything he told her, hitting her all at once."
     new "Sarah felt the weight of everything he told her, hitting her all at once."
@@ -1846,17 +1801,17 @@ translate ru strings:
     old "She stumbled, reaching for balance."
     new "She stumbled, reaching for balance."
 
-    old "Oryon\" \"I know I have told you much, and I wish that I could have found a better moment to tell you all of this."
-    new "Oryon\" \"I know I have told you much, and I wish that I could have found a better moment to tell you all of this."
+    old "I know I have told you much, and I wish that I could have found a better moment to tell you all of this."
+    new "I know I have told you much, and I wish that I could have found a better moment to tell you all of this."
 
-    old "Oryon\" \"But not a word of what I told you has been a lie."
-    new "Oryon\" \"But not a word of what I told you has been a lie."
+    old "But not a word of what I told you has been a lie."
+    new "But not a word of what I told you has been a lie."
 
-    old "Oryon\" \"Go, take a moment to process everything if you need to."
-    new "Oryon\" \"Go, take a moment to process everything if you need to."
+    old "Go, take a moment to process everything if you need to."
+    new "Go, take a moment to process everything if you need to."
 
-    old "Oryon\" \"But soon, the Void will descend on this city, and you will need to be ready."
-    new "Oryon\" \"But soon, the Void will descend on this city, and you will need to be ready."
+    old "But soon, the Void will descend on this city, and you will need to be ready."
+    new "But soon, the Void will descend on this city, and you will need to be ready."
 
     old "Sarah stumbled away from him."
     new "Sarah stumbled away from him."
@@ -1864,14 +1819,11 @@ translate ru strings:
     old "She didn't make it more than a few paces before Hecate grabbed her."
     new "She didn't make it more than a few paces before Hecate grabbed her."
 
-    old "Hecate\" \"Hey, Sarah!"
-    new "Hecate\" \"Hey, Sarah!"
+    old "Wow...you look like you've seen a ghost! You're so pale!"
+    new "Wow...you look like you've seen a ghost! You're so pale!"
 
-    old "Hecate\" \"Wow...you look like you've seen a ghost! You're so pale!"
-    new "Hecate\" \"Wow...you look like you've seen a ghost! You're so pale!"
-
-    old "Hecate\" \"Are you...okay?"
-    new "Hecate\" \"Are you...okay?"
+    old "Are you...okay?"
+    new "Are you...okay?"
 
     old "No...not at all..."
     new "No...not at all..."
@@ -1879,8 +1831,8 @@ translate ru strings:
     old "Hecate grabbed her and pulled her towards a nearby couch."
     new "Hecate grabbed her and pulled her towards a nearby couch."
 
-    old "Hecate\" \"Hey, take a moment. Breathe. Come on."
-    new "Hecate\" \"Hey, take a moment. Breathe. Come on."
+    old "Hey, take a moment. Breathe. Come on."
+    new "Hey, take a moment. Breathe. Come on."
 
     old "Sarah sat there, until she finally feel her breathing come down, her heart settle."
     new "Sarah sat there, until she finally feel her breathing come down, her heart settle."
@@ -1888,11 +1840,11 @@ translate ru strings:
     old "Gods...that..."
     new "Gods...that..."
 
-    old "Hecate\" \"He told you, huh? Everything?"
-    new "Hecate\" \"He told you, huh? Everything?"
+    old "He told you, huh? Everything?"
+    new "He told you, huh? Everything?"
 
-    old "Hecate\" \"Yeah...it's a lot."
-    new "Hecate\" \"Yeah...it's a lot."
+    old "Yeah...it's a lot."
+    new "Yeah...it's a lot."
 
     old "A moment of silence between them, as if there were no words that could be meaningfully spoken."
     new "A moment of silence between them, as if there were no words that could be meaningfully spoken."

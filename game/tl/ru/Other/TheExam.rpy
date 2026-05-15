@@ -115,11 +115,11 @@ translate ru strings:
     old "Still, she wanted to."
     new "Still, she wanted to."
 
-    old "Examinator\" \"Next participant, Sarah Rose..."
-    new "Examinator\" \"Next participant, Sarah Rose..."
+    old "Next participant, Sarah Rose..."
+    new "Next participant, Sarah Rose..."
 
-    old "Examinator\" \"Are you ready?"
-    new "Examinator\" \"Are you ready?"
+    old "Are you ready?"
+    new "Are you ready?"
 
     old "Sarah unsheated her sword. With both hands wrapped around the handle, she held it up in front of herself."
     new "Sarah unsheated her sword. With both hands wrapped around the handle, she held it up in front of herself."

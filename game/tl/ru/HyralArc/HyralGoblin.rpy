@@ -4,48 +4,6 @@
 
 translate ru strings:
 
-    old "Raza"
-    new "Раза"
-
-    old "Good. Good."
-    new "Хорошо. Хорошо."
-
-    old "They call me Raza. What is your name?"
-    new "Меня зовут Раза. А тебя как зовут?"
-
-    old "No. Not now. Too many orc around. They will hear."
-    new "Нет. Не сейчас. Слишком много орков. Услышат."
-
-    old "Orc have feast tonight."
-    new "У орков пир сегодня ночью."
-
-    old "I serve them extra strong wine. Then we escape."
-    new "Я подам им особо крепкое вино. Потом сбежим."
-
-    old "Eat. You need strength for tonight."
-    new "Ешь. Нужны силы на сегодняшнюю ночь."
-
-    old "Travel will be hard."
-    new "Путь будет трудным."
-
-    old "Sarah, you wake!"
-    new "Сара, ты проснулась!"
-
-    old "I gave strong wine. Orcs don't know which way is up."
-    new "Я дал крепкое вино. Орки не знают, где верх."
-
-    old "I brought clothes. Food. We ready to go."
-    new "Я принёс одежду. Еду. Мы готовы идти."
-
-    old "No. Not yet."
-    new "Нет. Ещё нет."
-
-    old "Yes."
-    new "Да."
-
-    old "Raza help Sarah. Sarah help Raza."
-    new "Раза поможет Саре. Сара поможет Разе."
-
     old "Sarah leaned closer towards the goblin."
     new "Сара наклонилась ближе к гоблину."
 
@@ -55,8 +13,14 @@ translate ru strings:
     old "If you help me escape, I'll promise I'll make sure that the humans in the town won't hurt you."
     new "Если поможешь мне сбежать, обещаю, люди в городе не тронут тебя."
 
+    old "Good. Good."
+    new "Хорошо. Хорошо."
+
     old "What is your name?"
     new "Как тебя зовут?"
+
+    old "They call me Raza. What is your name?"
+    new "Меня зовут Раза. А тебя как зовут?"
 
     old "Now...can you get me out of here?"
     new "Теперь... ты можешь вытащить меня отсюда?"
@@ -64,11 +28,20 @@ translate ru strings:
     old "Raza shook his head."
     new "Раза покачал головой."
 
+    old "No. Not now. Too many orc around. They will hear."
+    new "Нет. Не сейчас. Слишком много орков. Услышат."
+
     old "Sarah felt her heart sink. How much longer would she be trapped here?"
     new "Сердце Сары упало. Сколько ещё она будет здесь заперта?"
 
     old "When can we escape?"
     new "Когда мы сможем сбежать?"
+
+    old "Orc have feast tonight."
+    new "У орков пир сегодня ночью."
+
+    old "I serve them extra strong wine. Then we escape."
+    new "Я подам им особо крепкое вино. Потом сбежим."
 
     old "The idea of escaping her tonight made her heart rush."
     new "Мысль о побеге сегодня вечером заставила сердце биться быстрее."
@@ -78,6 +51,12 @@ translate ru strings:
 
     old "The goblin handed her an extra piece of bread."
     new "Гоблин протянул ей лишний кусок хлеба."
+
+    old "Eat. You need strength for tonight."
+    new "Ешь. Нужны силы на сегодняшнюю ночь."
+
+    old "Travel will be hard."
+    new "Путь будет трудным."
 
     old "Sarah nodded as she eagerly accepted the second piece of bread."
     new "Сара кивнула, с готовностью принимая второй кусок."
@@ -94,6 +73,9 @@ translate ru strings:
     old "When she looked up, she saw the goblin had returned, as promised."
     new "Подняв взгляд, она увидела, что гоблин вернулся, как обещал."
 
+    old "Sarah, you wake!"
+    new "Сара, ты проснулась!"
+
     old "It voice was sharp."
     new "Голос был резким."
 
@@ -103,8 +85,14 @@ translate ru strings:
     old "Raza! Are we ready to go?"
     new "Раза! Мы готовы?"
 
+    old "I gave strong wine. Orcs don't know which way is up."
+    new "Я дал крепкое вино. Орки не знают, где верх."
+
     old "He held up a small bag."
     new "Он поднял маленькую сумку."
+
+    old "I brought clothes. Food. We ready to go."
+    new "Я принёс одежду. Еду. Мы готовы идти."
 
     old "She couldn't believe that this tiny goblin would prove to be her salvation."
     new "Она не могла поверить, что этот крошечный гоблин окажется её спасением."
@@ -114,6 +102,9 @@ translate ru strings:
 
     old "The goblin suddenly shook its head."
     new "Гоблин внезапно покачал головой."
+
+    old "No. Not yet."
+    new "Нет. Ещё нет."
 
     old "What do you mean? We have to leave tonight, right?"
     new "Что значит? Мы должны уйти сегодня вечером, да?"
@@ -129,6 +120,9 @@ translate ru strings:
 
     old "She couldn't help her voice from rising, so great was the shock."
     new "Она не могла сдержать голос — так силён был шок."
+
+    old "Raza help Sarah. Sarah help Raza."
+    new "Раза поможет Саре. Сара поможет Разе."
 
     old "The creature poked its member through the bars, an impressive size given the creature's stature."
     new "Существо просунуло член сквозь прутья — внушительный размер для его роста."
@@ -159,3 +153,4 @@ translate ru strings:
 
     old "That's what they all did."
     new "Так они все и делают."
+

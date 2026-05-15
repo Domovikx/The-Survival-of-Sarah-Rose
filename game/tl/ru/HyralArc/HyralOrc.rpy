@@ -247,8 +247,8 @@ translate ru strings:
     old "A rough pull on the rope attached to her bindings caused her to stumble forward."
     new "A rough pull on the rope attached to her bindings caused her to stumble forward."
 
-    old "Orc\" \"Walk!"
-    new "Orc\" \"Walk!"
+    old "Walk!"
+    new "Walk!"
 
     old "The creature barked the word at her."
     new "The creature barked the word at her."
@@ -412,8 +412,8 @@ translate ru strings:
     old "The creature was large, but now, it towered over her and seemed itself like a mountain."
     new "The creature was large, but now, it towered over her and seemed itself like a mountain."
 
-    old "Orc\" \"Human whore!"
-    new "Orc\" \"Human whore!"
+    old "Human whore!"
+    new "Human whore!"
 
     old "It spat out the words in its guttural voice."
     new "It spat out the words in its guttural voice."
@@ -424,8 +424,8 @@ translate ru strings:
     old "It's large clawed hand reached down and grabbed her shirt."
     new "It's large clawed hand reached down and grabbed her shirt."
 
-    old "Orc\" \"You not listen! You feel!"
-    new "Orc\" \"You not listen! You feel!"
+    old "You not listen! You feel!"
+    new "You not listen! You feel!"
 
     old "It one motion, it tore the fabric from her body."
     new "It one motion, it tore the fabric from her body."
@@ -520,8 +520,8 @@ translate ru strings:
     old "Again, the vile orc just grinned."
     new "Again, the vile orc just grinned."
 
-    old "Orc\" \"You stay. You learn."
-    new "Orc\" \"You stay. You learn."
+    old "You stay. You learn."
+    new "You stay. You learn."
 
     old "With little else to say, he turned and walked away."
     new "With little else to say, he turned and walked away."
@@ -649,8 +649,8 @@ translate ru strings:
     old "It was a different one than the orc before, but she had trouble telling them apart."
     new "It was a different one than the orc before, but she had trouble telling them apart."
 
-    old "Orc\" \"You. Come."
-    new "Orc\" \"You. Come."
+    old "You. Come."
+    new "You. Come."
 
     old "He spoke in brute, quick words."
     new "He spoke in brute, quick words."
@@ -667,14 +667,14 @@ translate ru strings:
     old "Before she could properly orient herself, she heard a deep voice."
     new "Before she could properly orient herself, she heard a deep voice."
 
-    old "Gorak\" \"You! Whore!"
-    new "Gorak\" \"You! Whore!"
+    old "You! Whore!"
+    new "You! Whore!"
 
     old "Sarah trembled as she raised her head."
     new "Sarah trembled as she raised her head."
 
-    old "Gorak\" \"Head down!"
-    new "Gorak\" \"Head down!"
+    old "Head down!"
+    new "Head down!"
 
     old "His voice was like a whip and Sarah quickly pressed her face down to the ground in submission."
     new "His voice was like a whip and Sarah quickly pressed her face down to the ground in submission."
@@ -691,14 +691,14 @@ translate ru strings:
     old "Older than humans, she assumed by their vitality."
     new "Older than humans, she assumed by their vitality."
 
-    old "Gorak\" \"I am Gorak, chieftain of this clan."
-    new "Gorak\" \"I am Gorak, chieftain of this clan."
+    old "I am Gorak, chieftain of this clan."
+    new "I am Gorak, chieftain of this clan."
 
     old "His voice was harsh, but unlike the others, he seemed to speak the human language with some skill."
     new "His voice was harsh, but unlike the others, he seemed to speak the human language with some skill."
 
-    old "Gorak\" \"You invade our lands?!"
-    new "Gorak\" \"You invade our lands?!"
+    old "You invade our lands?!"
+    new "You invade our lands?!"
 
     old "Sarah shook her head as she kept her face pressed to the ground."
     new "Sarah shook her head as she kept her face pressed to the ground."
@@ -712,11 +712,8 @@ translate ru strings:
     old "He stomped his feet."
     new "He stomped his feet."
 
-    old "Gorak\" \"Enough!"
-    new "Gorak\" \"Enough!"
-
-    old "Gorak\" \"You invade! My hunters found you on our land, stealing flint! Stealing wood!"
-    new "Gorak\" \"You invade! My hunters found you on our land, stealing flint! Stealing wood!"
+    old "You invade! My hunters found you on our land, stealing flint! Stealing wood!"
+    new "You invade! My hunters found you on our land, stealing flint! Stealing wood!"
 
     old "Sarah felt her body tremble."
     new "Sarah felt her body tremble."
@@ -727,26 +724,26 @@ translate ru strings:
     old "She tried to find the words to get away, but doubted that there were any that would save her."
     new "She tried to find the words to get away, but doubted that there were any that would save her."
 
-    old "Gorak\" \"Silence, human whore!"
-    new "Gorak\" \"Silence, human whore!"
+    old "Silence, human whore!"
+    new "Silence, human whore!"
 
-    old "Gorak\" \"I am Gorak, chieftain. I am Gorak, judge!"
-    new "Gorak\" \"I am Gorak, chieftain. I am Gorak, judge!"
+    old "I am Gorak, chieftain. I am Gorak, judge!"
+    new "I am Gorak, chieftain. I am Gorak, judge!"
 
-    old "Gorak\" \"I say you guilty, you are guilty. That is the end."
-    new "Gorak\" \"I say you guilty, you are guilty. That is the end."
+    old "I say you guilty, you are guilty. That is the end."
+    new "I say you guilty, you are guilty. That is the end."
 
     old "Sarah nodded her head, afraid to anger the orc any further."
     new "Sarah nodded her head, afraid to anger the orc any further."
 
-    old "Gorak\" \"I sentence you! You are property of my clan now."
-    new "Gorak\" \"I sentence you! You are property of my clan now."
+    old "I sentence you! You are property of my clan now."
+    new "I sentence you! You are property of my clan now."
 
     old "I...pro...property..."
     new "I...pro...property..."
 
-    old "Gorak\" \"Slave! Come here!"
-    new "Gorak\" \"Slave! Come here!"
+    old "Slave! Come here!"
+    new "Slave! Come here!"
 
     old "His voice boomed with rage."
     new "His voice boomed with rage."
@@ -769,20 +766,20 @@ translate ru strings:
     old "He held her firm by her wrist, and grabbed the collar around her neck with his other hand."
     new "He held her firm by her wrist, and grabbed the collar around her neck with his other hand."
 
-    old "Gorak\" \"Human whore."
-    new "Gorak\" \"Human whore."
+    old "Human whore."
+    new "Human whore."
 
     old "His voice was like a hiss in her ear."
     new "His voice was like a hiss in her ear."
 
-    old "Gorak\" \"Your kind think you better than us."
-    new "Gorak\" \"Your kind think you better than us."
+    old "Your kind think you better than us."
+    new "Your kind think you better than us."
 
     old "No! I never thought that!"
     new "No! I never thought that!"
 
-    old "Gorak\" \"Who better now, whore?!"
-    new "Gorak\" \"Who better now, whore?!"
+    old "Who better now, whore?!"
+    new "Who better now, whore?!"
 
     old "He roughly pulled her down on his massive cock, nearly impaling her with it."
     new "He roughly pulled her down on his massive cock, nearly impaling her with it."
@@ -793,8 +790,8 @@ translate ru strings:
     old "Orcs seemed to enjoy violence in all things, even their sex."
     new "Orcs seemed to enjoy violence in all things, even their sex."
 
-    old "Gorak\" \"Maybe I kill you after I'm done."
-    new "Gorak\" \"Maybe I kill you after I'm done."
+    old "Maybe I kill you after I'm done."
+    new "Maybe I kill you after I'm done."
 
     old "No! Aah! Please!!"
     new "No! Aah! Please!!"
@@ -814,11 +811,8 @@ translate ru strings:
     old "The orc chieftain just laughed, clearly enjoying her panic."
     new "The orc chieftain just laughed, clearly enjoying her panic."
 
-    old "Gorak\" \"Good."
-    new "Gorak\" \"Good."
-
-    old "Gorak\" \"You promise to serve?"
-    new "Gorak\" \"You promise to serve?"
+    old "You promise to serve?"
+    new "You promise to serve?"
 
     old "Sarah felt the orc's cock press into her again."
     new "Sarah felt the orc's cock press into her again."
@@ -832,14 +826,14 @@ translate ru strings:
     old "Sarah realized how easy it would be for him to end her."
     new "Sarah realized how easy it would be for him to end her."
 
-    old "Gorak\" \"You promise to be good whore?"
-    new "Gorak\" \"You promise to be good whore?"
+    old "You promise to be good whore?"
+    new "You promise to be good whore?"
 
     old "The chieftain's grip on her throat tightend."
     new "The chieftain's grip on her throat tightend."
 
-    old "Gorak\" \"Say it!"
-    new "Gorak\" \"Say it!"
+    old "Say it!"
+    new "Say it!"
 
     old "His voice roared like thunder."
     new "His voice roared like thunder."
@@ -859,8 +853,8 @@ translate ru strings:
     old "Content with her submission, the orc chieftain released his grip on her throat."
     new "Content with her submission, the orc chieftain released his grip on her throat."
 
-    old "Gorak\" \"Work, whore!"
-    new "Gorak\" \"Work, whore!"
+    old "Work, whore!"
+    new "Work, whore!"
 
     old "Sarah quickly nodded and began to move her hips."
     new "Sarah quickly nodded and began to move her hips."
@@ -886,8 +880,8 @@ translate ru strings:
     old "She felt his eager hands exploring her body, clearly approving of her."
     new "She felt his eager hands exploring her body, clearly approving of her."
 
-    old "Gorak\" \"See, you human females...make good whores..."
-    new "Gorak\" \"See, you human females...make good whores..."
+    old "See, you human females...make good whores..."
+    new "See, you human females...make good whores..."
 
     old "He grunted between the words as Sarah continued to ride him."
     new "He grunted between the words as Sarah continued to ride him."
@@ -907,14 +901,14 @@ translate ru strings:
     old "The orc grunted again, clearly approving of this as well."
     new "The orc grunted again, clearly approving of this as well."
 
-    old "Gorak\" \"You used to small human cock."
-    new "Gorak\" \"You used to small human cock."
+    old "You used to small human cock."
+    new "You used to small human cock."
 
     old "He thrusted deeper into her, as if to make a point."
     new "He thrusted deeper into her, as if to make a point."
 
-    old "Gorak\" \"You will learn...orc are real men."
-    new "Gorak\" \"You will learn...orc are real men."
+    old "You will learn...orc are real men."
+    new "You will learn...orc are real men."
 
     old "Sarah threw back her head as she continued to ride him."
     new "Sarah threw back her head as she continued to ride him."
@@ -958,11 +952,11 @@ translate ru strings:
     old "Only when he was fully finished did he push her off him."
     new "Only when he was fully finished did he push her off him."
 
-    old "Gorak\" \"Guard!"
-    new "Gorak\" \"Guard!"
+    old "Guard!"
+    new "Guard!"
 
-    old "Gorak\" \"Take this whore back to her cage."
-    new "Gorak\" \"Take this whore back to her cage."
+    old "Take this whore back to her cage."
+    new "Take this whore back to her cage."
 
     old "Before Sarah could even properly register what was happening, one of the orc guards was dragging her back."
     new "Before Sarah could even properly register what was happening, one of the orc guards was dragging her back."
@@ -1060,8 +1054,8 @@ translate ru strings:
     old "To her surprise, it returned the wave."
     new "To her surprise, it returned the wave."
 
-    old "Raza\" \"Hello."
-    new "Raza\" \"Hello."
+    old "Hello."
+    new "Hello."
 
     old "It's voice was softer than that of the orcs, but still clearly not human."
     new "It's voice was softer than that of the orcs, but still clearly not human."
@@ -1069,8 +1063,8 @@ translate ru strings:
     old "It reached its hands into her cage, holding up a piece of stale bread."
     new "It reached its hands into her cage, holding up a piece of stale bread."
 
-    old "Raza\" \"Food for you."
-    new "Raza\" \"Food for you."
+    old "Food for you."
+    new "Food for you."
 
     old "Sarah gratefully accepted it. Any food was valuable right now."
     new "Sarah gratefully accepted it. Any food was valuable right now."
@@ -1084,8 +1078,8 @@ translate ru strings:
     old "The goblin shook its head."
     new "The goblin shook its head."
 
-    old "Raza\" \"No, not kind. I do job."
-    new "Raza\" \"No, not kind. I do job."
+    old "No, not kind. I do job."
+    new "No, not kind. I do job."
 
     old "Job?"
     new "Job?"
@@ -1093,14 +1087,14 @@ translate ru strings:
     old "The goblin held up one of its arms, a shackle around his wrist."
     new "The goblin held up one of its arms, a shackle around his wrist."
 
-    old "Raza\" \"Me slave, just like you."
-    new "Raza\" \"Me slave, just like you."
+    old "Me slave, just like you."
+    new "Me slave, just like you."
 
     old "Sarah was surprised at how well the goblin seemed to understand her and speak her language."
     new "Sarah was surprised at how well the goblin seemed to understand her and speak her language."
 
-    old "Raza\" \"They tell me, feed slave, I feed slave."
-    new "Raza\" \"They tell me, feed slave, I feed slave."
+    old "They tell me, feed slave, I feed slave."
+    new "They tell me, feed slave, I feed slave."
 
     old "I understand. Still...thank you for the food, I was very hungry."
     new "I understand. Still...thank you for the food, I was very hungry."
@@ -1108,14 +1102,14 @@ translate ru strings:
     old "The goblin looked around, when it was sure there was nobody else, it moved closer."
     new "The goblin looked around, when it was sure there was nobody else, it moved closer."
 
-    old "Raza\" \"They catch you or buy you?"
-    new "Raza\" \"They catch you or buy you?"
+    old "They catch you or buy you?"
+    new "They catch you or buy you?"
 
-    old "Raza\" \"Slavers trade in these mountains."
-    new "Raza\" \"Slavers trade in these mountains."
+    old "Slavers trade in these mountains."
+    new "Slavers trade in these mountains."
 
-    old "Raza\" \"Orcs catch slaves. Sometimes buy slaves. Which are you?"
-    new "Raza\" \"Orcs catch slaves. Sometimes buy slaves. Which are you?"
+    old "Orcs catch slaves. Sometimes buy slaves. Which are you?"
+    new "Orcs catch slaves. Sometimes buy slaves. Which are you?"
 
     old "Sarah took a bite from the bread. Stale."
     new "Sarah took a bite from the bread. Stale."
@@ -1129,8 +1123,8 @@ translate ru strings:
     old "We made a campfire and that's when they spotted us."
     new "We made a campfire and that's when they spotted us."
 
-    old "Raza\" \"You stupid? Why you make fire?"
-    new "Raza\" \"You stupid? Why you make fire?"
+    old "You stupid? Why you make fire?"
+    new "You stupid? Why you make fire?"
 
     old "Sarah felt insulted, but it was hard to get angry when the goblin was right."
     new "Sarah felt insulted, but it was hard to get angry when the goblin was right."
@@ -1138,14 +1132,14 @@ translate ru strings:
     old "It was stupid, but my friend he...convinced me."
     new "It was stupid, but my friend he...convinced me."
 
-    old "Raza\" \"Then your friend stupid."
-    new "Raza\" \"Then your friend stupid."
+    old "Then your friend stupid."
+    new "Then your friend stupid."
 
     old "Maybe you're right about that."
     new "Maybe you're right about that."
 
-    old "Raza\" \"You know, human town not too far from here."
-    new "Raza\" \"You know, human town not too far from here."
+    old "You know, human town not too far from here."
+    new "You know, human town not too far from here."
 
     old "Sarah suddenly lunged forward to the bars of the cage."
     new "Sarah suddenly lunged forward to the bars of the cage."
@@ -1153,8 +1147,8 @@ translate ru strings:
     old "The goblin nodded."
     new "The goblin nodded."
 
-    old "Raza\" \"Human town, maybe three day travel, I know the way."
-    new "Raza\" \"Human town, maybe three day travel, I know the way."
+    old "Human town, maybe three day travel, I know the way."
+    new "Human town, maybe three day travel, I know the way."
 
     old "Sarah felt her heart begin to race."
     new "Sarah felt her heart begin to race."
@@ -1162,8 +1156,8 @@ translate ru strings:
     old "How do I get there?"
     new "How do I get there?"
 
-    old "Raza\" \"Path through mountains, you could not learn from your head. You need guide. You need me."
-    new "Raza\" \"Path through mountains, you could not learn from your head. You need guide. You need me."
+    old "Path through mountains, you could not learn from your head. You need guide. You need me."
+    new "Path through mountains, you could not learn from your head. You need guide. You need me."
 
     old "You...you would help me escape? Why?"
     new "You...you would help me escape? Why?"
@@ -1171,11 +1165,11 @@ translate ru strings:
     old "The goblin stepped closer and began to speak in whispers."
     new "The goblin stepped closer and began to speak in whispers."
 
-    old "Raza\" \"Human hate orc. Human hate goblin too. They see me, they kill me."
-    new "Raza\" \"Human hate orc. Human hate goblin too. They see me, they kill me."
+    old "Human hate orc. Human hate goblin too. They see me, they kill me."
+    new "Human hate orc. Human hate goblin too. They see me, they kill me."
 
-    old "Raza\" \"If I bring you, you convince them to protect me. We both safe. Deal?"
-    new "Raza\" \"If I bring you, you convince them to protect me. We both safe. Deal?"
+    old "If I bring you, you convince them to protect me. We both safe. Deal?"
+    new "If I bring you, you convince them to protect me. We both safe. Deal?"
 
     old "Sarah listened closely."
     new "Sarah listened closely."
@@ -1216,8 +1210,8 @@ translate ru strings:
     old "The goblin frowned."
     new "The goblin frowned."
 
-    old "Raza\" \"You yell! Raza leave you here!"
-    new "Raza\" \"You yell! Raza leave you here!"
+    old "You yell! Raza leave you here!"
+    new "You yell! Raza leave you here!"
 
     old "I don't care!"
     new "I don't care!"
@@ -1231,8 +1225,8 @@ translate ru strings:
     old "The goblin spat on the ground."
     new "The goblin spat on the ground."
 
-    old "Raza\" \"Stupid human whore."
-    new "Raza\" \"Stupid human whore."
+    old "Stupid human whore."
+    new "Stupid human whore."
 
     old "He leaved as quickly as he appeared."
     new "He leaved as quickly as he appeared."

@@ -78,3 +78,4 @@ translate ru strings:
 
     old "And then we'll be soldiers, together."
     new "И тогда мы будем солдатами, вместе."
+

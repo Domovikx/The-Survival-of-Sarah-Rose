@@ -499,9 +499,6 @@ translate ru strings:
     old "I am here."
     new "I am here."
 
-    old "Where?"
-    new "Where?"
-
     old "Where you are."
     new "Where you are."
 
@@ -631,11 +628,11 @@ translate ru strings:
     old "On the edges of her body, she felt the shifting sands. Then the eager hands."
     new "On the edges of her body, she felt the shifting sands. Then the eager hands."
 
-    old "Voice\" \"We found her!"
-    new "Voice\" \"We found her!"
+    old "We found her!"
+    new "We found her!"
 
-    old "Voice\" \"Hurry up, dig her out!"
-    new "Voice\" \"Hurry up, dig her out!"
+    old "Hurry up, dig her out!"
+    new "Hurry up, dig her out!"
 
     old "Slowly, the world regained its forms and colours."
     new "Slowly, the world regained its forms and colours."

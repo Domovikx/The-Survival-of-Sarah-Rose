@@ -133,26 +133,23 @@ translate ru strings:
     old "One of the scouts that had been send ahead to investigate the city, rode to meet her."
     new "One of the scouts that had been send ahead to investigate the city, rode to meet her."
 
-    old "Scout\" \"Commander!"
-    new "Scout\" \"Commander!"
-
     old "Sarah turned to face the scout."
     new "Sarah turned to face the scout."
 
     old "Report?"
     new "Report?"
 
-    old "Scout\" \"The city is in the hands of the Tribesmen."
-    new "Scout\" \"The city is in the hands of the Tribesmen."
+    old "The city is in the hands of the Tribesmen."
+    new "The city is in the hands of the Tribesmen."
 
-    old "Scout\" \"A regiment of Tribesmen soldiers is in control of they city, and they're out in force."
-    new "Scout\" \"A regiment of Tribesmen soldiers is in control of they city, and they're out in force."
+    old "A regiment of Tribesmen soldiers is in control of they city, and they're out in force."
+    new "A regiment of Tribesmen soldiers is in control of they city, and they're out in force."
 
     old "A regiment wasn't too bad in terms of numbers. Still, they had the advantage of holding the city walls."
     new "A regiment wasn't too bad in terms of numbers. Still, they had the advantage of holding the city walls."
 
-    old "Scout\" \"They've shut the gates to the city and they've drafted the city militia to help secure the fortifications."
-    new "Scout\" \"They've shut the gates to the city and they've drafted the city militia to help secure the fortifications."
+    old "They've shut the gates to the city and they've drafted the city militia to help secure the fortifications."
+    new "They've shut the gates to the city and they've drafted the city militia to help secure the fortifications."
 
     old "The town militia likely had little love for the Tribesmen, but they were inside, trapped with them."
     new "The town militia likely had little love for the Tribesmen, but they were inside, trapped with them."
@@ -175,26 +172,26 @@ translate ru strings:
     old "The scout nodded."
     new "The scout nodded."
 
-    old "Scout\" \"Yes, commander...I..."
-    new "Scout\" \"Yes, commander...I..."
+    old "Yes, commander...I..."
+    new "Yes, commander...I..."
 
     old "Just say it."
     new "Just say it."
 
-    old "Scout\" \"I...approached the city gates as close as I dared."
-    new "Scout\" \"I...approached the city gates as close as I dared."
+    old "I...approached the city gates as close as I dared."
+    new "I...approached the city gates as close as I dared."
 
-    old "Scout\" \"When I finally turned to leave, I heard a voice call out to me."
-    new "Scout\" \"When I finally turned to leave, I heard a voice call out to me."
+    old "When I finally turned to leave, I heard a voice call out to me."
+    new "When I finally turned to leave, I heard a voice call out to me."
 
     old "A voice?"
     new "A voice?"
 
-    old "Scout\" \"It was a Tribesman soldier. He identified himself as the leader of the regiment."
-    new "Scout\" \"It was a Tribesman soldier. He identified himself as the leader of the regiment."
+    old "It was a Tribesman soldier. He identified himself as the leader of the regiment."
+    new "It was a Tribesman soldier. He identified himself as the leader of the regiment."
 
-    old "Scout\" \"He...requested a meeting with you."
-    new "Scout\" \"He...requested a meeting with you."
+    old "He...requested a meeting with you."
+    new "He...requested a meeting with you."
 
     old "A meeting?"
     new "A meeting?"
@@ -205,11 +202,11 @@ translate ru strings:
     old "The scout shook his head."
     new "The scout shook his head."
 
-    old "Scout\" \"No, only that he would ride out by sunset to meet you on the open field outside of Calshure."
-    new "Scout\" \"No, only that he would ride out by sunset to meet you on the open field outside of Calshure."
+    old "No, only that he would ride out by sunset to meet you on the open field outside of Calshure."
+    new "No, only that he would ride out by sunset to meet you on the open field outside of Calshure."
 
-    old "Scout\" \"And that if you wanted to meet, to be there."
-    new "Scout\" \"And that if you wanted to meet, to be there."
+    old "And that if you wanted to meet, to be there."
+    new "And that if you wanted to meet, to be there."
 
     old "Thank you, that's all. Good work."
     new "Thank you, that's all. Good work."
@@ -292,38 +289,32 @@ translate ru strings:
     old "As he neared closer to her, she was surprised at his age. Older than she had expected."
     new "As he neared closer to her, she was surprised at his age. Older than she had expected."
 
-    old "Tribesman\" \"Hail, Sarah Rose."
-    new "Tribesman\" \"Hail, Sarah Rose."
-
-    old "Tribesman\" \"Brave of you to come here alone."
-    new "Tribesman\" \"Brave of you to come here alone."
+    old "Brave of you to come here alone."
+    new "Brave of you to come here alone."
 
     old "Brave? You're just one man."
     new "Brave? You're just one man."
 
-    old "Tribesman\" \"I'm glad to see the stories they tell of you are true."
-    new "Tribesman\" \"I'm glad to see the stories they tell of you are true."
+    old "I'm glad to see the stories they tell of you are true."
+    new "I'm glad to see the stories they tell of you are true."
 
     old "What stories what those be?"
     new "What stories what those be?"
 
-    old "Tribesman\" \"Those speaking of your beauty, of course."
-    new "Tribesman\" \"Those speaking of your beauty, of course."
-
-    old "Ah, I see."
-    new "Ah, I see."
+    old "Those speaking of your beauty, of course."
+    new "Those speaking of your beauty, of course."
 
     old "Perhaps you've not yet heard the stories of killing demons and mages yet."
     new "Perhaps you've not yet heard the stories of killing demons and mages yet."
 
-    old "Tribesman\" \"Yes, I have heard those too."
-    new "Tribesman\" \"Yes, I have heard those too."
+    old "Yes, I have heard those too."
+    new "Yes, I have heard those too."
 
-    old "Tribesman\" \"The woman that ended the old city of Bagrad."
-    new "Tribesman\" \"The woman that ended the old city of Bagrad."
+    old "The woman that ended the old city of Bagrad."
+    new "The woman that ended the old city of Bagrad."
 
-    old "Tribesman\" \"A glory many of us Tribesman would have wished to seize. You must have made a pretty fortune off what you took there."
-    new "Tribesman\" \"A glory many of us Tribesman would have wished to seize. You must have made a pretty fortune off what you took there."
+    old "A glory many of us Tribesman would have wished to seize. You must have made a pretty fortune off what you took there."
+    new "A glory many of us Tribesman would have wished to seize. You must have made a pretty fortune off what you took there."
 
     old "I am not in want of wealth."
     new "I am not in want of wealth."
@@ -331,11 +322,11 @@ translate ru strings:
     old "Nor am I in want of suitors, so you can keep your flattery to yourself."
     new "Nor am I in want of suitors, so you can keep your flattery to yourself."
 
-    old "Tribesman\" \"Truly, you seem in want of so little."
-    new "Tribesman\" \"Truly, you seem in want of so little."
+    old "Truly, you seem in want of so little."
+    new "Truly, you seem in want of so little."
 
-    old "Tribesman\" \"Tell me then, what brings a woman to these lands when she has all she can wish for."
-    new "Tribesman\" \"Tell me then, what brings a woman to these lands when she has all she can wish for."
+    old "Tell me then, what brings a woman to these lands when she has all she can wish for."
+    new "Tell me then, what brings a woman to these lands when she has all she can wish for."
 
     old "Sarah eyed the Tribesman. Confident, but there something about him, a hint of nervousness?"
     new "Sarah eyed the Tribesman. Confident, but there something about him, a hint of nervousness?"
@@ -346,11 +337,11 @@ translate ru strings:
     old "The Tribesman frowned."
     new "The Tribesman frowned."
 
-    old "Tribesman\" \"Yours?"
-    new "Tribesman\" \"Yours?"
+    old "Yours?"
+    new "Yours?"
 
-    old "Tribesman\" \"I seem to find you and your army outside in the cold, while my men sit warmly inside the gates. To whom does this city belong, really?"
-    new "Tribesman\" \"I seem to find you and your army outside in the cold, while my men sit warmly inside the gates. To whom does this city belong, really?"
+    old "I seem to find you and your army outside in the cold, while my men sit warmly inside the gates. To whom does this city belong, really?"
+    new "I seem to find you and your army outside in the cold, while my men sit warmly inside the gates. To whom does this city belong, really?"
 
     old "It belongs to me."
     new "It belongs to me."
@@ -361,59 +352,59 @@ translate ru strings:
     old "The Tribesman sat firmly in his own saddle, eyeing her."
     new "The Tribesman sat firmly in his own saddle, eyeing her."
 
-    old "Tribesman\" \"You are the first woman to ever threaten me."
-    new "Tribesman\" \"You are the first woman to ever threaten me."
+    old "You are the first woman to ever threaten me."
+    new "You are the first woman to ever threaten me."
 
     old "Be wise and leave the city with your men, so I won't be the last."
     new "Be wise and leave the city with your men, so I won't be the last."
 
-    old "Tribesman\" \"I cannot."
-    new "Tribesman\" \"I cannot."
+    old "I cannot."
+    new "I cannot."
 
     old "The Tribesman sighed."
     new "The Tribesman sighed."
 
-    old "Tribesman\" \"I am far from the city. Beyond the ability of my men to hear me speak, so I shall speak plainly."
-    new "Tribesman\" \"I am far from the city. Beyond the ability of my men to hear me speak, so I shall speak plainly."
+    old "I am far from the city. Beyond the ability of my men to hear me speak, so I shall speak plainly."
+    new "I am far from the city. Beyond the ability of my men to hear me speak, so I shall speak plainly."
 
-    old "Tribesman\" \"My men are eager for the fight."
-    new "Tribesman\" \"My men are eager for the fight."
+    old "My men are eager for the fight."
+    new "My men are eager for the fight."
 
-    old "Tribesman\" \"They are disciplined, strong, experienced."
-    new "Tribesman\" \"They are disciplined, strong, experienced."
+    old "They are disciplined, strong, experienced."
+    new "They are disciplined, strong, experienced."
 
-    old "Tribesman\" \"With the advantage of the city walls, I expect we can extract a heavy toll on your troops."
-    new "Tribesman\" \"With the advantage of the city walls, I expect we can extract a heavy toll on your troops."
+    old "With the advantage of the city walls, I expect we can extract a heavy toll on your troops."
+    new "With the advantage of the city walls, I expect we can extract a heavy toll on your troops."
 
-    old "Tribesman\" \"Perhaps not enough to keep the city, but enough to hurt your army. To weaken it for the real fight that awaits you at the capital. With Governor Kamal."
-    new "Tribesman\" \"Perhaps not enough to keep the city, but enough to hurt your army. To weaken it for the real fight that awaits you at the capital. With Governor Kamal."
+    old "Perhaps not enough to keep the city, but enough to hurt your army. To weaken it for the real fight that awaits you at the capital. With Governor Kamal."
+    new "Perhaps not enough to keep the city, but enough to hurt your army. To weaken it for the real fight that awaits you at the capital. With Governor Kamal."
 
     old "Sarah listened intently. There was some truth to what he was saying. Even a victory here could be a painful one."
     new "Sarah listened intently. There was some truth to what he was saying. Even a victory here could be a painful one."
 
-    old "Tribesman\" \"But my men...they are young."
-    new "Tribesman\" \"But my men...they are young."
+    old "But my men...they are young."
+    new "But my men...they are young."
 
-    old "Tribesman\" \"They have grown up on victory and conquest and known nothing of defeat."
-    new "Tribesman\" \"They have grown up on victory and conquest and known nothing of defeat."
+    old "They have grown up on victory and conquest and known nothing of defeat."
+    new "They have grown up on victory and conquest and known nothing of defeat."
 
     old "And you? What are you then?"
     new "And you? What are you then?"
 
-    old "Tribesman\" \"An old soldier. Too wise to throw away my life on a lost cause."
-    new "Tribesman\" \"An old soldier. Too wise to throw away my life on a lost cause."
+    old "An old soldier. Too wise to throw away my life on a lost cause."
+    new "An old soldier. Too wise to throw away my life on a lost cause."
 
     old "Good. You see wisdom then. Yield. Open the gates and leave with your men, I shall let them live. You have my word."
     new "Good. You see wisdom then. Yield. Open the gates and leave with your men, I shall let them live. You have my word."
 
-    old "Tribesman\" \"It cannot be so simple."
-    new "Tribesman\" \"It cannot be so simple."
+    old "It cannot be so simple."
+    new "It cannot be so simple."
 
-    old "Tribesman\" \"As I told you. My men are young and eager. They want to fight, even if I warn them that it will cost them their lives."
-    new "Tribesman\" \"As I told you. My men are young and eager. They want to fight, even if I warn them that it will cost them their lives."
+    old "As I told you. My men are young and eager. They want to fight, even if I warn them that it will cost them their lives."
+    new "As I told you. My men are young and eager. They want to fight, even if I warn them that it will cost them their lives."
 
-    old "Tribesman\" \"If anything, the thought of a great final battle excites them more than anything."
-    new "Tribesman\" \"If anything, the thought of a great final battle excites them more than anything."
+    old "If anything, the thought of a great final battle excites them more than anything."
+    new "If anything, the thought of a great final battle excites them more than anything."
 
     old "That is it then? Bloodshed, all for your people's pride?"
     new "That is it then? Bloodshed, all for your people's pride?"
@@ -421,20 +412,17 @@ translate ru strings:
     old "The Tribesman shook his head."
     new "The Tribesman shook his head."
 
-    old "Tribesman\" \"No..."
-    new "Tribesman\" \"No..."
+    old "What I say now is almost treason among my people."
+    new "What I say now is almost treason among my people."
 
-    old "Tribesman\" \"What I say now is almost treason among my people."
-    new "Tribesman\" \"What I say now is almost treason among my people."
+    old "I want to withdraw...but if I do so, my own men will consider it weakness."
+    new "I want to withdraw...but if I do so, my own men will consider it weakness."
 
-    old "Tribesman\" \"I want to withdraw...but if I do so, my own men will consider it weakness."
-    new "Tribesman\" \"I want to withdraw...but if I do so, my own men will consider it weakness."
+    old "If they don't rebel in the city, they will challenge me to a duel when we ride back for the desert."
+    new "If they don't rebel in the city, they will challenge me to a duel when we ride back for the desert."
 
-    old "Tribesman\" \"If they don't rebel in the city, they will challenge me to a duel when we ride back for the desert."
-    new "Tribesman\" \"If they don't rebel in the city, they will challenge me to a duel when we ride back for the desert."
-
-    old "Tribesman\" \"If I withdraw...I must be shown to do so in strength."
-    new "Tribesman\" \"If I withdraw...I must be shown to do so in strength."
+    old "If I withdraw...I must be shown to do so in strength."
+    new "If I withdraw...I must be shown to do so in strength."
 
     old "You want to retreat...yet have it be seen as an act of strength?"
     new "You want to retreat...yet have it be seen as an act of strength?"
@@ -442,44 +430,44 @@ translate ru strings:
     old "The Tribesman nodded."
     new "The Tribesman nodded."
 
-    old "Tribesman\" \"I cannot be allowed to be seen as weak. If I am...I might as well risk the fight here and now."
-    new "Tribesman\" \"I cannot be allowed to be seen as weak. If I am...I might as well risk the fight here and now."
+    old "I cannot be allowed to be seen as weak. If I am...I might as well risk the fight here and now."
+    new "I cannot be allowed to be seen as weak. If I am...I might as well risk the fight here and now."
 
     old "Wealth then. I will pay you and your men a price for a peaceful withdrawal. You can take your spoils and ride back to the desert."
     new "Wealth then. I will pay you and your men a price for a peaceful withdrawal. You can take your spoils and ride back to the desert."
 
-    old "Tribesman\" \"A payment will go a long way in easing their concerns...but I must insist on another."
-    new "Tribesman\" \"A payment will go a long way in easing their concerns...but I must insist on another."
+    old "A payment will go a long way in easing their concerns...but I must insist on another."
+    new "A payment will go a long way in easing their concerns...but I must insist on another."
 
     old "What do you propose then?"
     new "What do you propose then?"
 
-    old "Tribesman\" \"My people know of a ritual. Ahk'Tahar."
-    new "Tribesman\" \"My people know of a ritual. Ahk'Tahar."
+    old "My people know of a ritual. Ahk'Tahar."
+    new "My people know of a ritual. Ahk'Tahar."
 
     old "I don't know your culture. Speak to me plainly."
     new "I don't know your culture. Speak to me plainly."
 
-    old "Tribesman\" \"You will ride into the city...alone. You will meet with us under my sworn protection."
-    new "Tribesman\" \"You will ride into the city...alone. You will meet with us under my sworn protection."
+    old "You will ride into the city...alone. You will meet with us under my sworn protection."
+    new "You will ride into the city...alone. You will meet with us under my sworn protection."
 
-    old "Tribesman\" \"You will dine with me as a guest of honour and we shall perform the rituals."
-    new "Tribesman\" \"You will dine with me as a guest of honour and we shall perform the rituals."
+    old "You will dine with me as a guest of honour and we shall perform the rituals."
+    new "You will dine with me as a guest of honour and we shall perform the rituals."
 
     old "What rituals?"
     new "What rituals?"
 
-    old "Tribesman\" \"Shared food. Shared drink. And the exchange of vows."
-    new "Tribesman\" \"Shared food. Shared drink. And the exchange of vows."
+    old "Shared food. Shared drink. And the exchange of vows."
+    new "Shared food. Shared drink. And the exchange of vows."
 
-    old "Tribesman\" \"This is a ritual known for settling wars, among our people."
-    new "Tribesman\" \"This is a ritual known for settling wars, among our people."
+    old "This is a ritual known for settling wars, among our people."
+    new "This is a ritual known for settling wars, among our people."
 
-    old "Tribesman\" \"If we perform this...in the eyes of my people, you will not be an enemy anymore."
-    new "Tribesman\" \"If we perform this...in the eyes of my people, you will not be an enemy anymore."
+    old "If we perform this...in the eyes of my people, you will not be an enemy anymore."
+    new "If we perform this...in the eyes of my people, you will not be an enemy anymore."
 
-    old "Tribesman\" \"And if you are not an enemy, then leaving the city is not a retreat...it is merely us returning home."
-    new "Tribesman\" \"And if you are not an enemy, then leaving the city is not a retreat...it is merely us returning home."
+    old "And if you are not an enemy, then leaving the city is not a retreat...it is merely us returning home."
+    new "And if you are not an enemy, then leaving the city is not a retreat...it is merely us returning home."
 
     old "Sarah wanted to laugh at the absurdity."
     new "Sarah wanted to laugh at the absurdity."
@@ -490,35 +478,32 @@ translate ru strings:
     old "And all I will have is your word?"
     new "And all I will have is your word?"
 
-    old "Tribesman\" \"Yes."
-    new "Tribesman\" \"Yes."
+    old "But you ask me to withdraw, leave the city, and trust that you don't attack me as I leave. All on your word as well."
+    new "But you ask me to withdraw, leave the city, and trust that you don't attack me as I leave. All on your word as well."
 
-    old "Tribesman\" \"But you ask me to withdraw, leave the city, and trust that you don't attack me as I leave. All on your word as well."
-    new "Tribesman\" \"But you ask me to withdraw, leave the city, and trust that you don't attack me as I leave. All on your word as well."
-
-    old "Tribesman\" \"My word is binding. If I vow to keep you safe, none will dare to harm you."
-    new "Tribesman\" \"My word is binding. If I vow to keep you safe, none will dare to harm you."
+    old "My word is binding. If I vow to keep you safe, none will dare to harm you."
+    new "My word is binding. If I vow to keep you safe, none will dare to harm you."
 
     old "It's insane."
     new "It's insane."
 
-    old "Tribesman\" \"Insane?"
-    new "Tribesman\" \"Insane?"
+    old "Insane?"
+    new "Insane?"
 
-    old "Tribesman\" \"Think of what we will each spare the other."
-    new "Tribesman\" \"Think of what we will each spare the other."
+    old "Think of what we will each spare the other."
+    new "Think of what we will each spare the other."
 
-    old "Tribesman\" \"Your precious city of Calshure. How many do you think will die in the siege? Not just your soldiers, but townsfolk?"
-    new "Tribesman\" \"Your precious city of Calshure. How many do you think will die in the siege? Not just your soldiers, but townsfolk?"
+    old "Your precious city of Calshure. How many do you think will die in the siege? Not just your soldiers, but townsfolk?"
+    new "Your precious city of Calshure. How many do you think will die in the siege? Not just your soldiers, but townsfolk?"
 
     old "What do you care for my people?"
     new "What do you care for my people?"
 
-    old "Tribesman\" \"I don't, but I care for my own. Give me the excuse I need, and I can save their lives and the lives of your people."
-    new "Tribesman\" \"I don't, but I care for my own. Give me the excuse I need, and I can save their lives and the lives of your people."
+    old "I don't, but I care for my own. Give me the excuse I need, and I can save their lives and the lives of your people."
+    new "I don't, but I care for my own. Give me the excuse I need, and I can save their lives and the lives of your people."
 
-    old "Tribesman\" \"All I ask is for your trust. Meet. Speak the words. Nobody needs to die."
-    new "Tribesman\" \"All I ask is for your trust. Meet. Speak the words. Nobody needs to die."
+    old "All I ask is for your trust. Meet. Speak the words. Nobody needs to die."
+    new "All I ask is for your trust. Meet. Speak the words. Nobody needs to die."
 
     old "The proposal was insane...and yet, Sarah began to consider it."
     new "The proposal was insane...and yet, Sarah began to consider it."
@@ -544,8 +529,8 @@ translate ru strings:
     old "If you give me your word, I will enter the city with you and settle this peacefully."
     new "If you give me your word, I will enter the city with you and settle this peacefully."
 
-    old "Tribesman\" \"You are even braver than the stories."
-    new "Tribesman\" \"You are even braver than the stories."
+    old "You are even braver than the stories."
+    new "You are even braver than the stories."
 
     old "Sarah rode back to camp and gave word of her decision."
     new "Sarah rode back to camp and gave word of her decision."
@@ -634,8 +619,8 @@ translate ru strings:
     old "The Tribesman looked at her, frowning."
     new "The Tribesman looked at her, frowning."
 
-    old "Tribesman\" \"You have?"
-    new "Tribesman\" \"You have?"
+    old "You have?"
+    new "You have?"
 
     old "My father he..."
     new "My father he..."
@@ -661,8 +646,8 @@ translate ru strings:
     old "I came here when I was young to visit the family that lives here."
     new "I came here when I was young to visit the family that lives here."
 
-    old "Tribesman\" \"Lived."
-    new "Tribesman\" \"Lived."
+    old "Lived."
+    new "Lived."
 
     old "He corrected her."
     new "He corrected her."
@@ -676,17 +661,17 @@ translate ru strings:
     old "The old Tribesman shook his head."
     new "The old Tribesman shook his head."
 
-    old "Tribesman\" \"Their father did, meeting our forces on the battlefield."
-    new "Tribesman\" \"Their father did, meeting our forces on the battlefield."
+    old "Their father did, meeting our forces on the battlefield."
+    new "Their father did, meeting our forces on the battlefield."
 
-    old "Tribesman\" \"Brave. Foolish, but brave."
-    new "Tribesman\" \"Brave. Foolish, but brave."
+    old "Brave. Foolish, but brave."
+    new "Brave. Foolish, but brave."
 
-    old "Tribesman\" \"After we crushed his forces outside, we prepared to siege the city."
-    new "Tribesman\" \"After we crushed his forces outside, we prepared to siege the city."
+    old "After we crushed his forces outside, we prepared to siege the city."
+    new "After we crushed his forces outside, we prepared to siege the city."
 
-    old "Tribesman\" \"His son had remained behind the walls with the remainder of his army."
-    new "Tribesman\" \"His son had remained behind the walls with the remainder of his army."
+    old "His son had remained behind the walls with the remainder of his army."
+    new "His son had remained behind the walls with the remainder of his army."
 
     old "They kept walking along the hallway."
     new "They kept walking along the hallway."
@@ -694,11 +679,11 @@ translate ru strings:
     old "The old Tribesman smiled."
     new "The old Tribesman smiled."
 
-    old "Tribesman\" \"He rode out to offer us a deal."
-    new "Tribesman\" \"He rode out to offer us a deal."
+    old "He rode out to offer us a deal."
+    new "He rode out to offer us a deal."
 
-    old "Tribesman\" \"He wanted to surrender his forces. Open the gates. Yield the city. In exchange, he wished to serve as a vassal."
-    new "Tribesman\" \"He wanted to surrender his forces. Open the gates. Yield the city. In exchange, he wished to serve as a vassal."
+    old "He wanted to surrender his forces. Open the gates. Yield the city. In exchange, he wished to serve as a vassal."
+    new "He wanted to surrender his forces. Open the gates. Yield the city. In exchange, he wished to serve as a vassal."
 
     old "Coward, Sarah thought to herself."
     new "Coward, Sarah thought to herself."
@@ -706,11 +691,11 @@ translate ru strings:
     old "I don't see him around, so I assume you didn't agree?"
     new "I don't see him around, so I assume you didn't agree?"
 
-    old "Tribesman\" \"Oh, we agreed. We promised him everything he wanted."
-    new "Tribesman\" \"Oh, we agreed. We promised him everything he wanted."
+    old "Oh, we agreed. We promised him everything he wanted."
+    new "Oh, we agreed. We promised him everything he wanted."
 
-    old "Tribesman\" \"Then the moment he opened the gates, we sacked the city."
-    new "Tribesman\" \"Then the moment he opened the gates, we sacked the city."
+    old "Then the moment he opened the gates, we sacked the city."
+    new "Then the moment he opened the gates, we sacked the city."
 
     old "You...lied to him?"
     new "You...lied to him?"
@@ -718,17 +703,17 @@ translate ru strings:
     old "The old Tribesman nodded."
     new "The old Tribesman nodded."
 
-    old "Tribesman\" \"I told a foolish man a lie and spared my army countless dead."
-    new "Tribesman\" \"I told a foolish man a lie and spared my army countless dead."
+    old "I told a foolish man a lie and spared my army countless dead."
+    new "I told a foolish man a lie and spared my army countless dead."
 
-    old "Tribesman\" \"That young man was no warrior. He would have died regardless. Now he lives."
-    new "Tribesman\" \"That young man was no warrior. He would have died regardless. Now he lives."
+    old "That young man was no warrior. He would have died regardless. Now he lives."
+    new "That young man was no warrior. He would have died regardless. Now he lives."
 
     old "He...lives?"
     new "He...lives?"
 
-    old "Tribesman\" \"Yes, he and his three sisters were spared the blade. As much a kindness as he deserved."
-    new "Tribesman\" \"Yes, he and his three sisters were spared the blade. As much a kindness as he deserved."
+    old "Yes, he and his three sisters were spared the blade. As much a kindness as he deserved."
+    new "Yes, he and his three sisters were spared the blade. As much a kindness as he deserved."
 
     old "Then...where are they?"
     new "Then...where are they?"
@@ -736,17 +721,17 @@ translate ru strings:
     old "The old Tribesman shrugged."
     new "The old Tribesman shrugged."
 
-    old "Tribesman\" \"Who knows."
-    new "Tribesman\" \"Who knows."
+    old "Who knows."
+    new "Who knows."
 
     old "What do you mean who knows? You defeated him, didn't you?"
     new "What do you mean who knows? You defeated him, didn't you?"
 
-    old "Tribesman\" \"I did, and then I took him, his sisters and whatever other spoils of war that were mine by right."
-    new "Tribesman\" \"I did, and then I took him, his sisters and whatever other spoils of war that were mine by right."
+    old "I did, and then I took him, his sisters and whatever other spoils of war that were mine by right."
+    new "I did, and then I took him, his sisters and whatever other spoils of war that were mine by right."
 
-    old "Tribesman\" \"After we took the city, we send thousands to Al'Gahaem."
-    new "Tribesman\" \"After we took the city, we send thousands to Al'Gahaem."
+    old "After we took the city, we send thousands to Al'Gahaem."
+    new "After we took the city, we send thousands to Al'Gahaem."
 
     old "Al'Gahaem, the desert capital of the Tribes. Seat of the Khan, whenever there was one."
     new "Al'Gahaem, the desert capital of the Tribes. Seat of the Khan, whenever there was one."
@@ -757,14 +742,14 @@ translate ru strings:
     old "The Tribesman nodded. He admitted to it as casually as if she had asked him about the weather."
     new "The Tribesman nodded. He admitted to it as casually as if she had asked him about the weather."
 
-    old "Tribesman\" \"Him, his sisters, and thousands of others. They were conquered. A defeated people must suffer their defeat."
-    new "Tribesman\" \"Him, his sisters, and thousands of others. They were conquered. A defeated people must suffer their defeat."
+    old "Him, his sisters, and thousands of others. They were conquered. A defeated people must suffer their defeat."
+    new "Him, his sisters, and thousands of others. They were conquered. A defeated people must suffer their defeat."
 
-    old "Tribesman\" \"The merchant that took them off my hand paid well for them."
-    new "Tribesman\" \"The merchant that took them off my hand paid well for them."
+    old "The merchant that took them off my hand paid well for them."
+    new "The merchant that took them off my hand paid well for them."
 
-    old "Tribesman\" \"Some enjoy paying more for the slaves that use to have status."
-    new "Tribesman\" \"Some enjoy paying more for the slaves that use to have status."
+    old "Some enjoy paying more for the slaves that use to have status."
+    new "Some enjoy paying more for the slaves that use to have status."
 
     old "If she had been here during the Fall...would she have been among them? Or would she have died?"
     new "If she had been here during the Fall...would she have been among them? Or would she have died?"
@@ -772,11 +757,11 @@ translate ru strings:
     old "She didn't want to think about it for too long."
     new "She didn't want to think about it for too long."
 
-    old "Tribesman\" \"He had no nature for war, but he had clearly never worked a day in his life. Soft features."
-    new "Tribesman\" \"He had no nature for war, but he had clearly never worked a day in his life. Soft features."
+    old "He had no nature for war, but he had clearly never worked a day in his life. Soft features."
+    new "He had no nature for war, but he had clearly never worked a day in his life. Soft features."
 
-    old "Tribesman\" \"He is likely a plaything for someone with too much coin to spare."
-    new "Tribesman\" \"He is likely a plaything for someone with too much coin to spare."
+    old "He is likely a plaything for someone with too much coin to spare."
+    new "He is likely a plaything for someone with too much coin to spare."
 
     old "The old Tribesman chuckled at his own remark."
     new "The old Tribesman chuckled at his own remark."
@@ -787,14 +772,14 @@ translate ru strings:
     old "A Rosannan man would never..."
     new "A Rosannan man would never..."
 
-    old "Tribesman\" \"What? Suck cock? Be taken like a woman?"
-    new "Tribesman\" \"What? Suck cock? Be taken like a woman?"
+    old "What? Suck cock? Be taken like a woman?"
+    new "What? Suck cock? Be taken like a woman?"
 
-    old "Tribesman\" \"I have returned to Al'Gahaem, three times."
-    new "Tribesman\" \"I have returned to Al'Gahaem, three times."
+    old "I have returned to Al'Gahaem, three times."
+    new "I have returned to Al'Gahaem, three times."
 
-    old "Tribesman\" \"Each time I found your peoples more broken. Things unthinkable, become quickly real when their lives depend on it."
-    new "Tribesman\" \"Each time I found your peoples more broken. Things unthinkable, become quickly real when their lives depend on it."
+    old "Each time I found your peoples more broken. Things unthinkable, become quickly real when their lives depend on it."
+    new "Each time I found your peoples more broken. Things unthinkable, become quickly real when their lives depend on it."
 
     old "Sarah didn't want to imagine it...yet perhaps it was true."
     new "Sarah didn't want to imagine it...yet perhaps it was true."
@@ -802,11 +787,11 @@ translate ru strings:
     old "Even the most noble of her people could be reduced like that...willing to do anything to survive."
     new "Even the most noble of her people could be reduced like that...willing to do anything to survive."
 
-    old "Tribesman\" \"But what do I know, perhaps he works in the mines. Finally some calluses on those hands."
-    new "Tribesman\" \"But what do I know, perhaps he works in the mines. Finally some calluses on those hands."
+    old "But what do I know, perhaps he works in the mines. Finally some calluses on those hands."
+    new "But what do I know, perhaps he works in the mines. Finally some calluses on those hands."
 
-    old "Tribesman\" \"He is beneath my concern. As he should be for you."
-    new "Tribesman\" \"He is beneath my concern. As he should be for you."
+    old "He is beneath my concern. As he should be for you."
+    new "He is beneath my concern. As he should be for you."
 
     old "With that, the man seemed to have settled the discussion."
     new "With that, the man seemed to have settled the discussion."
@@ -820,32 +805,29 @@ translate ru strings:
     old "The old Tribesman frowned as he looked at her."
     new "The old Tribesman frowned as he looked at her."
 
-    old "Tribesman\" \"What do you mean?"
-    new "Tribesman\" \"What do you mean?"
-
     old "Are the...Tribes open to a negotiation? To return them to Rosanna?"
     new "Are the...Tribes open to a negotiation? To return them to Rosanna?"
 
     old "The Tribesman laughed and shook his head."
     new "The Tribesman laughed and shook his head."
 
-    old "Tribesman\" \"We conquered them. Sold them. Traded them. They are ours by right, or no longer ours at all."
-    new "Tribesman\" \"We conquered them. Sold them. Traded them. They are ours by right, or no longer ours at all."
+    old "We conquered them. Sold them. Traded them. They are ours by right, or no longer ours at all."
+    new "We conquered them. Sold them. Traded them. They are ours by right, or no longer ours at all."
 
-    old "Tribesman\" \"Waste no time on them. Your nation will be stronger without them."
-    new "Tribesman\" \"Waste no time on them. Your nation will be stronger without them."
+    old "Waste no time on them. Your nation will be stronger without them."
+    new "Waste no time on them. Your nation will be stronger without them."
 
     old "They are my people!"
     new "They are my people!"
 
-    old "Tribesman\" \"Then ride your armies into the desert and claim them back, just as we rode into your lands and claimed them."
-    new "Tribesman\" \"Then ride your armies into the desert and claim them back, just as we rode into your lands and claimed them."
+    old "Then ride your armies into the desert and claim them back, just as we rode into your lands and claimed them."
+    new "Then ride your armies into the desert and claim them back, just as we rode into your lands and claimed them."
 
-    old "Tribesman\" \"Ah, what is that?"
-    new "Tribesman\" \"Ah, what is that?"
+    old "Ah, what is that?"
+    new "Ah, what is that?"
 
-    old "Tribesman\" \"You won't waste your armies on a mad pursuit to save them?"
-    new "Tribesman\" \"You won't waste your armies on a mad pursuit to save them?"
+    old "You won't waste your armies on a mad pursuit to save them?"
+    new "You won't waste your armies on a mad pursuit to save them?"
 
     old "Sarah knew she wouldn't."
     new "Sarah knew she wouldn't."
@@ -856,14 +838,14 @@ translate ru strings:
     old "It was suicide."
     new "It was suicide."
 
-    old "Tribesman\" \"That is what I thought."
-    new "Tribesman\" \"That is what I thought."
+    old "That is what I thought."
+    new "That is what I thought."
 
-    old "Tribesman\" \"Listen, Princess, you hold strong cards to retake your land."
-    new "Tribesman\" \"Listen, Princess, you hold strong cards to retake your land."
+    old "Listen, Princess, you hold strong cards to retake your land."
+    new "Listen, Princess, you hold strong cards to retake your land."
 
-    old "Tribesman\" \"But you cannoy undo every defeat. Forget the people you have lost. Focus on those you can yet save."
-    new "Tribesman\" \"But you cannoy undo every defeat. Forget the people you have lost. Focus on those you can yet save."
+    old "But you cannoy undo every defeat. Forget the people you have lost. Focus on those you can yet save."
+    new "But you cannoy undo every defeat. Forget the people you have lost. Focus on those you can yet save."
 
     old "Wise words, Sarah thought, coming from an enemy of all places."
     new "Wise words, Sarah thought, coming from an enemy of all places."
@@ -1750,11 +1732,8 @@ translate ru strings:
     old "Don't take me for a fool. I will not risk my life on your word alone, Tribesman."
     new "Don't take me for a fool. I will not risk my life on your word alone, Tribesman."
 
-    old "Tribesman\" \"Very well."
-    new "Tribesman\" \"Very well."
-
-    old "Tribesman\" \"If we are to die, let us make it a memorable death."
-    new "Tribesman\" \"If we are to die, let us make it a memorable death."
+    old "If we are to die, let us make it a memorable death."
+    new "If we are to die, let us make it a memorable death."
 
     old "He pulled the reins on his horse and rode away swiftly."
     new "He pulled the reins on his horse and rode away swiftly."

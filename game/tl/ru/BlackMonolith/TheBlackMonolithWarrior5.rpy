@@ -160,8 +160,8 @@ translate ru strings:
     old "Suddenly, a new voice ran out through the tent."
     new "Suddenly, a new voice ran out through the tent."
 
-    old "Servant\" \"My lady, the bath is ready."
-    new "Servant\" \"My lady, the bath is ready."
+    old "My lady, the bath is ready."
+    new "My lady, the bath is ready."
 
     old "Thank you, that will be all."
     new "Thank you, that will be all."

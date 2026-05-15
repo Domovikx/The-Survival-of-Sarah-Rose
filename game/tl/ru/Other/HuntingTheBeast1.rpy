@@ -13,20 +13,20 @@ translate ru strings:
     old "She saw a smile come across the man's face."
     new "She saw a smile come across the man's face."
 
-    old "Mayor\" \"Really? You'll actually help us?"
-    new "Mayor\" \"Really? You'll actually help us?"
+    old "Really? You'll actually help us?"
+    new "Really? You'll actually help us?"
 
-    old "Mayor\" \"I had almost feared to even ask..."
-    new "Mayor\" \"I had almost feared to even ask..."
+    old "I had almost feared to even ask..."
+    new "I had almost feared to even ask..."
 
-    old "Mayor\" \"Most soldiers are not know for their kindness to common folk."
-    new "Mayor\" \"Most soldiers are not know for their kindness to common folk."
+    old "Most soldiers are not know for their kindness to common folk."
+    new "Most soldiers are not know for their kindness to common folk."
 
     old "Perhaps. But when I grew up my father showed me the importance of helping those who are in need."
     new "Perhaps. But when I grew up my father showed me the importance of helping those who are in need."
 
-    old "Mayor\" \"Your father sounds like a kind man."
-    new "Mayor\" \"Your father sounds like a kind man."
+    old "Your father sounds like a kind man."
+    new "Your father sounds like a kind man."
 
     old "He was."
     new "He was."
@@ -34,17 +34,17 @@ translate ru strings:
     old "The Mayor stood up."
     new "The Mayor stood up."
 
-    old "Mayor\" \"I think the best place for you to start is to speak with Garret."
-    new "Mayor\" \"I think the best place for you to start is to speak with Garret."
+    old "I think the best place for you to start is to speak with Garret."
+    new "I think the best place for you to start is to speak with Garret."
 
     old "Garret?"
     new "Garret?"
 
-    old "Mayor\" \"He is the town's Huntsman. He has spend more time tracking the beast than any other."
-    new "Mayor\" \"He is the town's Huntsman. He has spend more time tracking the beast than any other."
+    old "He is the town's Huntsman. He has spend more time tracking the beast than any other."
+    new "He is the town's Huntsman. He has spend more time tracking the beast than any other."
 
-    old "Mayor\" \"He also knows the land better than anyone. He can help you get started."
-    new "Mayor\" \"He also knows the land better than anyone. He can help you get started."
+    old "He also knows the land better than anyone. He can help you get started."
+    new "He also knows the land better than anyone. He can help you get started."
 
     old "Thank you, I'll go speak with him and see about resolving this matter."
     new "Thank you, I'll go speak with him and see about resolving this matter."
@@ -52,8 +52,8 @@ translate ru strings:
     old "The Mayor grabbed her hands just before she left."
     new "The Mayor grabbed her hands just before she left."
 
-    old "Mayor\" \"Thank you...truly."
-    new "Mayor\" \"Thank you...truly."
+    old "Thank you...truly."
+    new "Thank you...truly."
 
     old "Leaving the tavern, Sarah walk through the streest of Hillstown, following the directions to the Huntman's hut."
     new "Leaving the tavern, Sarah walk through the streest of Hillstown, following the directions to the Huntman's hut."

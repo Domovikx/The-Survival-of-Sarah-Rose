@@ -201,3 +201,4 @@ translate ru strings:
 
     old "Thomas storms off, angrily muttering to himself."
     new "Томас уходит, сердито бормоча себе под нос."
+

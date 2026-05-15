@@ -106,30 +106,107 @@ translate ru strings:
     old "The goblin held out its hand."
     new "Гоблин протянул руку."
 
-
     old "You come. We run now."
     new "Ты идти. Мы бежать сейчас."
 
+    old "They rushed out from the cell into the cold dark."
+    new "They rushed out from the cell into the cold dark."
+
+    old "Sarah felt the snow burn on her naked feet but was almost glad for it."
+    new "Sarah felt the snow burn on her naked feet but was almost glad for it."
+
+    old "Whatever humiliation she had suffered...she would die free."
+    new "Whatever humiliation she had suffered...she would die free."
 
     old "Take this!"
     new "Возьми это!"
 
+    old "The goblin pulled out a cloak from its bag."
+    new "The goblin pulled out a cloak from its bag."
+
+    old "Sarah eagerly put it on."
+    new "Sarah eagerly put it on."
 
     old "Took from supply store. Orc so stupid."
     new "Взял со склада. Орки такие глупые."
 
+    old "Sarah felt an instant warmth as she was now shielded from the cold."
+    new "Sarah felt an instant warmth as she was now shielded from the cold."
+
+    old "The goblin crawled through the dark, guiding their way in the camp."
+    new "The goblin crawled through the dark, guiding their way in the camp."
 
     old "Hush! No speak!"
     new "Тсс! Не говорить!"
 
+    old "Sarah nodded as they silently moved about."
+    new "Sarah nodded as they silently moved about."
+
+    old "Save for a few orc guards, the camp seemed almost deserted."
+    new "Save for a few orc guards, the camp seemed almost deserted."
 
     old "They feast. All drunk. Stupid!"
     new "Они пируют. Все пьяные. Глупые!"
 
+    old "The goblin repeated, as if to make sure she understood."
+    new "The goblin repeated, as if to make sure she understood."
+
+    old "Each time, the goblin snuck ahead, making nearly no sounds and leaving no tracks."
+    new "Each time, the goblin snuck ahead, making nearly no sounds and leaving no tracks."
+
+    old "Then, if the coast was clear, it would return to get her."
+    new "Then, if the coast was clear, it would return to get her."
+
+    old "They moved slowly, but steadily."
+    new "They moved slowly, but steadily."
+
+    old "And true to its word, they managed to evade discovery."
+    new "And true to its word, they managed to evade discovery."
+
+    old "Finally, the goblin brought them up to the edge of the camp."
+    new "Finally, the goblin brought them up to the edge of the camp."
+
+    old "Hidden behind a series of crates, there was a small gap in the pallisade walls."
+    new "Hidden behind a series of crates, there was a small gap in the pallisade walls."
 
     old "Hole in wall. Orcs never fix. So stupid!"
     new "Дыра в стене. Орки никогда не чинят. Так глупо!"
 
+    old "The goblin crawled through easily."
+    new "The goblin crawled through easily."
+
+    old "Sarah, on hands and knees, crawled after him."
+    new "Sarah, on hands and knees, crawled after him."
+
+    old "The hole was small, almost too small, but she managed with a bit of help from the goblin."
+    new "The hole was small, almost too small, but she managed with a bit of help from the goblin."
+
+    old "Finally on the other side, Sarah saw the endless white void of the Hyral mountain range."
+    new "Finally on the other side, Sarah saw the endless white void of the Hyral mountain range."
+
+    old "That same brutal winter landscape that had ruined her last time."
+    new "That same brutal winter landscape that had ruined her last time."
+
+    old "She felt anxious, looking out over it again."
+    new "She felt anxious, looking out over it again."
+
+    old "What if they noticed she was gone? What if they hunted them again?"
+    new "What if they noticed she was gone? What if they hunted them again?"
+
+    old "Would this all be for nothing?"
+    new "Would this all be for nothing?"
+
+    old "Or worse? Would they punish her more harshly for trying to escape?"
+    new "Or worse? Would they punish her more harshly for trying to escape?"
+
+    old "Maybe...maybe she should go back..."
+    new "Maybe...maybe she should go back..."
+
+    old "Her hands trembled."
+    new "Her hands trembled."
+
+    old "Suddenly, she felt the goblin's hands in hers."
+    new "Suddenly, she felt the goblin's hands in hers."
 
     old "You safe. Stay with Raza. We make it to town."
     new "Ты в безопасности. Оставайся с Разой. Доберёмся до города."

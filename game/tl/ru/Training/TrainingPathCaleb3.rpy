@@ -465,3 +465,4 @@ translate ru strings:
 
     old "The wine guaranteed them easy dreams."
     new "Вино обеспечило лёгкие сны."
+

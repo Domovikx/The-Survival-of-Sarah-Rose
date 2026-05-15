@@ -82,8 +82,8 @@ translate ru strings:
     old "Behind her, the ever approaching voices and sounds of the city guard."
     new "Behind her, the ever approaching voices and sounds of the city guard."
 
-    old "Guards\" \"Stop! Thief!"
-    new "Guards\" \"Stop! Thief!"
+    old "Stop! Thief!"
+    new "Stop! Thief!"
 
     old "Sounds of their blades being drawn."
     new "Sounds of their blades being drawn."
@@ -703,20 +703,20 @@ translate ru strings:
     old "For a brief moment, nothing happened, then a slot in the door opened up."
     new "For a brief moment, nothing happened, then a slot in the door opened up."
 
-    old "Man\" \"Who the fuck's there?"
-    new "Man\" \"Who the fuck's there?"
+    old "Who the fuck's there?"
+    new "Who the fuck's there?"
 
     old "Alaric."
     new "Alaric."
 
-    old "Man\" \"Alaric? Fuck you doin this side of town?"
-    new "Man\" \"Alaric? Fuck you doin this side of town?"
+    old "Alaric? Fuck you doin this side of town?"
+    new "Alaric? Fuck you doin this side of town?"
 
     old "Ain't none of your business. Just lookin for passage into The Den."
     new "Ain't none of your business. Just lookin for passage into The Den."
 
-    old "Man\" \"You plannin to cause trouble?"
-    new "Man\" \"You plannin to cause trouble?"
+    old "You plannin to cause trouble?"
+    new "You plannin to cause trouble?"
 
     old "Me? You know I never do."
     new "Me? You know I never do."
@@ -724,14 +724,14 @@ translate ru strings:
     old "The man sighed."
     new "The man sighed."
 
-    old "Man\" \"Fine, but whose the broad?"
-    new "Man\" \"Fine, but whose the broad?"
+    old "Fine, but whose the broad?"
+    new "Fine, but whose the broad?"
 
     old "Just a girl I picked up."
     new "Just a girl I picked up."
 
-    old "Man\" \"This ain't no place for your girlfriend."
-    new "Man\" \"This ain't no place for your girlfriend."
+    old "This ain't no place for your girlfriend."
+    new "This ain't no place for your girlfriend."
 
     old "She ain't none of that."
     new "She ain't none of that."
@@ -742,20 +742,20 @@ translate ru strings:
     old "The man laughed with a gravel voice."
     new "The man laughed with a gravel voice."
 
-    old "Man\" \"Fine, but she ain't sworn in like you is."
-    new "Man\" \"Fine, but she ain't sworn in like you is."
+    old "Fine, but she ain't sworn in like you is."
+    new "Fine, but she ain't sworn in like you is."
 
     old "I know that."
     new "I know that."
 
-    old "Man\" \"Good, cause that also means whatever she do, that's on you."
-    new "Man\" \"Good, cause that also means whatever she do, that's on you."
+    old "Good, cause that also means whatever she do, that's on you."
+    new "Good, cause that also means whatever she do, that's on you."
 
     old "I know that too."
     new "I know that too."
 
-    old "Man\" \"Fine, if you carries the risk, she goes in under your wing."
-    new "Man\" \"Fine, if you carries the risk, she goes in under your wing."
+    old "Fine, if you carries the risk, she goes in under your wing."
+    new "Fine, if you carries the risk, she goes in under your wing."
 
     old "I accept that risk."
     new "I accept that risk."
@@ -766,8 +766,8 @@ translate ru strings:
     old "Then, with creaking metal, the door slowly swung open."
     new "Then, with creaking metal, the door slowly swung open."
 
-    old "Man\" \"In ya go, both of ya, and be quick about it!"
-    new "Man\" \"In ya go, both of ya, and be quick about it!"
+    old "In ya go, both of ya, and be quick about it!"
+    new "In ya go, both of ya, and be quick about it!"
 
     old "Alaric stepped in through the metal door, and Sarah quickly followed."
     new "Alaric stepped in through the metal door, and Sarah quickly followed."
@@ -775,8 +775,8 @@ translate ru strings:
     old "She heard it fall shut behind her, the lock slammed close."
     new "She heard it fall shut behind her, the lock slammed close."
 
-    old "Man\" \"Don't make me regret this, Alaric."
-    new "Man\" \"Don't make me regret this, Alaric."
+    old "Don't make me regret this, Alaric."
+    new "Don't make me regret this, Alaric."
 
     old "Locked in."
     new "Locked in."
@@ -910,14 +910,11 @@ translate ru strings:
     old "He repeated it a few times, until finally, they heard sounds on the other end of the door."
     new "He repeated it a few times, until finally, they heard sounds on the other end of the door."
 
-    old "Voice\" \"What?"
-    new "Voice\" \"What?"
-
     old "It's me."
     new "It's me."
 
-    old "Voice\" \"Whose me?"
-    new "Voice\" \"Whose me?"
+    old "Whose me?"
+    new "Whose me?"
 
     old "Fuck you, you know who I am."
     new "Fuck you, you know who I am."
@@ -925,8 +922,8 @@ translate ru strings:
     old "A soft laughter."
     new "A soft laughter."
 
-    old "Voice\" \"My old friend."
-    new "Voice\" \"My old friend."
+    old "My old friend."
+    new "My old friend."
 
     old "The door opened and a man stood in the doorway."
     new "The door opened and a man stood in the doorway."
@@ -937,8 +934,8 @@ translate ru strings:
     old "Sometimes you just knew with people."
     new "Sometimes you just knew with people."
 
-    old "Man\" \"Alaric...long time no see."
-    new "Man\" \"Alaric...long time no see."
+    old "Alaric...long time no see."
+    new "Alaric...long time no see."
 
     old "Damian...it's been a minute."
     new "Damian...it's been a minute."

@@ -391,9 +391,6 @@ translate ru strings:
     old "I thought I'd put in a little extra effort for the festival."
     new "I thought I'd put in a little extra effort for the festival."
 
-    old "Are you ready?"
-    new "Are you ready?"
-
     old "But now I feel bad. I'm underdress."
     new "But now I feel bad. I'm underdress."
 

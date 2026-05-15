@@ -133,14 +133,14 @@ translate ru strings:
     old "The girl had a scared expression on her face."
     new "The girl had a scared expression on her face."
 
-    old "Guard\" \"Lady Rose!"
-    new "Guard\" \"Lady Rose!"
+    old "Lady Rose!"
+    new "Lady Rose!"
 
     old "The guard shoved the woman forward, causing her to near stumble down onto her feet."
     new "The guard shoved the woman forward, causing her to near stumble down onto her feet."
 
-    old "Guard\" \"We caught this spy undermining the castle."
-    new "Guard\" \"We caught this spy undermining the castle."
+    old "We caught this spy undermining the castle."
+    new "We caught this spy undermining the castle."
 
     old "Sarah rubbed her temples, more problems, just what she needed."
     new "Sarah rubbed her temples, more problems, just what she needed."
@@ -178,8 +178,8 @@ translate ru strings:
     old "Tell me, what is this about?"
     new "Tell me, what is this about?"
 
-    old "Guard\" \"We found this...spy, infiltrating the castle supply room."
-    new "Guard\" \"We found this...spy, infiltrating the castle supply room."
+    old "We found this...spy, infiltrating the castle supply room."
+    new "We found this...spy, infiltrating the castle supply room."
 
     old "Peasant girl\" \"I'm not a spy!"
     new "Peasant girl\" \"I'm not a spy!"
@@ -193,11 +193,11 @@ translate ru strings:
     old "What happened, exactly?"
     new "What happened, exactly?"
 
-    old "Guard\" \"During a routine patrol, we came upon the kitchens, which were supposed to be empty at this time of the day."
-    new "Guard\" \"During a routine patrol, we came upon the kitchens, which were supposed to be empty at this time of the day."
+    old "During a routine patrol, we came upon the kitchens, which were supposed to be empty at this time of the day."
+    new "During a routine patrol, we came upon the kitchens, which were supposed to be empty at this time of the day."
 
-    old "Guard\" \"Responding to strange sounds, my men checked the cupboard where we found this individual, trying to steal as much food as she could carry."
-    new "Guard\" \"Responding to strange sounds, my men checked the cupboard where we found this individual, trying to steal as much food as she could carry."
+    old "Responding to strange sounds, my men checked the cupboard where we found this individual, trying to steal as much food as she could carry."
+    new "Responding to strange sounds, my men checked the cupboard where we found this individual, trying to steal as much food as she could carry."
 
     old "Sarah turned her eyes towards the girl."
     new "Sarah turned her eyes towards the girl."
@@ -382,8 +382,8 @@ translate ru strings:
     old "But it was too late for pleading now. The sentence had been spoken and there would be no going back."
     new "But it was too late for pleading now. The sentence had been spoken and there would be no going back."
 
-    old "Guard\" \"Gladly, my lady!"
-    new "Guard\" \"Gladly, my lady!"
+    old "Gladly, my lady!"
+    new "Gladly, my lady!"
 
     old "The guard seized the peasant girl by the arm and began to drag her away."
     new "The guard seized the peasant girl by the arm and began to drag her away."
@@ -444,9 +444,6 @@ translate ru strings:
 
     old "Guard, let her get back to work."
     new "Guard, let her get back to work."
-
-    old "Guard\" \"Of course, my lady."
-    new "Guard\" \"Of course, my lady."
 
     old "The guard seemed dissapointed that this was all that the matter would come to."
     new "The guard seemed dissapointed that this was all that the matter would come to."

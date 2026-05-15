@@ -3,6 +3,9 @@
 
 translate ru strings:
 
+    old "Advisor"
+    new "Advisor"
+
     old "Alaric"
     new "Аларик"
 
@@ -11,6 +14,12 @@ translate ru strings:
 
     old "Alfred"
     new "Альфред"
+
+    old "Ambassador"
+    new "Ambassador"
+
+    old "Announcer"
+    new "Announcer"
 
     old "Arthur"
     new "Артур"
@@ -27,11 +36,35 @@ translate ru strings:
     old "Barion"
     new "Барион"
 
+    old "Barkeep"
+    new "Barkeep"
+
+    old "Barkeeper"
+    new "Barkeeper"
+
+    old "Barman"
+    new "Barman"
+
+    old "Basilisk"
+    new "Basilisk"
+
+    old "Blacksmith"
+    new "Blacksmith"
+
+    old "Both"
+    new "Both"
+
     old "Bran"
     new "Бран"
 
+    old "Brigand"
+    new "Brigand"
+
     old "Caleb"
     new "Калеб"
+
+    old "Captain"
+    new "Captain"
 
     old "Captain Belmont"
     new "Капитан Бельмонт"
@@ -41,6 +74,12 @@ translate ru strings:
 
     old "Cassius"
     new "Кассий"
+
+    old "Courier"
+    new "Courier"
+
+    old "Curator"
+    new "Curator"
 
     old "Daemon"
     new "Демон"
@@ -60,6 +99,18 @@ translate ru strings:
     old "Elsa"
     new "Эльза"
 
+    old "Emissary"
+    new "Emissary"
+
+    old "Emmissary"
+    new "Emmissary"
+
+    old "Engineer"
+    new "Engineer"
+
+    old "Engineers"
+    new "Engineers"
+
     old "Enya"
     new "Эня"
 
@@ -68,6 +119,12 @@ translate ru strings:
 
     old "Eula"
     new "Юла"
+
+    old "Examinator"
+    new "Examinator"
+
+    old "Founder"
+    new "Founder"
 
     old "Gabriel"
     new "Габриэль"
@@ -81,11 +138,23 @@ translate ru strings:
     old "Gilead"
     new "Гилэад"
 
+    old "Gorak"
+    new "Горак"
+
+    old "Guard"
+    new "Guard"
+
+    old "Guards"
+    new "Guards"
+
     old "Hassar"
     new "Хассар"
 
     old "Hecate"
     new "Геката"
+
+    old "Innkeeper"
+    new "Innkeeper"
 
     old "Jacob"
     new "Яков"
@@ -95,6 +164,9 @@ translate ru strings:
 
     old "Jasmine"
     new "Джазмин"
+
+    old "Judge"
+    new "Judge"
 
     old "Kamal"
     new "Камал"
@@ -120,6 +192,9 @@ translate ru strings:
     old "Maeiv"
     new "Маив"
 
+    old "Man"
+    new "Man"
+
     old "Marion"
     new "Марион"
 
@@ -132,8 +207,17 @@ translate ru strings:
     old "Mary"
     new "Мэри"
 
+    old "Master"
+    new "Master"
+
     old "Matthew"
     new "Мэтью"
+
+    old "Mayor"
+    new "Mayor"
+
+    old "Merchant"
+    new "Merchant"
 
     old "Metis"
     new "Метис"
@@ -150,11 +234,35 @@ translate ru strings:
     old "Nickolas"
     new "Николас"
 
+    old "Nobleman"
+    new "Nobleman"
+
+    old "Noblewoman"
+    new "Noblewoman"
+
+    old "Officer"
+    new "Officer"
+
+    old "Official"
+    new "Official"
+
+    old "Orc"
+    new "Орк"
+
     old "Orwen"
     new "Оруэн"
 
+    old "Oryon"
+    new "Oryon"
+
     old "Page {}"
     new "Страница {}"
+
+    old "People"
+    new "People"
+
+    old "Priest"
+    new "Priest"
 
     old "Quick saves"
     new "Быстрые сохранения"
@@ -162,8 +270,17 @@ translate ru strings:
     old "Ramsey"
     new "Рамзи"
 
+    old "Raza"
+    new "Раза"
+
     old "Razaphel"
     new "Разафель"
+
+    old "Robber"
+    new "Robber"
+
+    old "Sailor"
+    new "Sailor"
 
     old "Sakar"
     new "Сакар"
@@ -174,17 +291,47 @@ translate ru strings:
     old "Sarah"
     new "Сара"
 
+    old "Scholar"
+    new "Scholar"
+
+    old "Scout"
+    new "Scout"
+
+    old "Servant"
+    new "Servant"
+
+    old "Servants"
+    new "Servants"
+
     old "Shah Mahda"
     new "Шах-Махда"
 
     old "Sigmund"
     new "Зигмунд"
 
+    old "Slave"
+    new "Slave"
+
+    old "Soldier"
+    new "Soldier"
+
+    old "Soldiers"
+    new "Soldiers"
+
     old "Sophia"
     new "Софья"
 
+    old "Spearmen"
+    new "Spearmen"
+
+    old "Squire"
+    new "Squire"
+
     old "Synara"
     new "Синара"
+
+    old "Tailor"
+    new "Tailor"
 
     old "The Survival of Sarah Rose"
     new "Выживание Сары Роуз"
@@ -198,11 +345,23 @@ translate ru strings:
     old "Took"
     new "Тук"
 
+    old "Tribesman"
+    new "Tribesman"
+
     old "Vaelen"
     new "Ваэлен"
 
     old "Varga"
     new "Варга"
+
+    old "Voice"
+    new "Голос"
+
+    old "Voidling"
+    new "Voidling"
+
+    old "Woman"
+    new "Woman"
 
     old "Xanthippe"
     new "Ксантиппа"

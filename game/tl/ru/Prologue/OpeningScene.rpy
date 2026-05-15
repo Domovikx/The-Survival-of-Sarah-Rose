@@ -58,11 +58,8 @@ translate ru strings:
     old "King Orwell looks sternly at his daughter."
     new "Король Орвелл строго смотрит на дочь."
 
-    old "Sarah and Thomas in unison"
-    new "Сара и Томас хором"
-
-    old "Yes Father."
-    new "Да, отец."
+    old "Sarah and Thomas in unison\" \"Yes Father."
+    new "Sarah and Thomas in unison\" \"Yes Father."
 
     old "Good. Now, where is the royal assistant? I need begin drafting letters immediately."
     new "Хорошо. Где королевский помощник? Мне нужно немедленно начать писать письма."
@@ -75,3 +72,4 @@ translate ru strings:
 
     old "Yes, Father."
     new "Да, отец."
+

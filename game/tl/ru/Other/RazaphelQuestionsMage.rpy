@@ -178,11 +178,8 @@ translate ru strings:
     old "She saw the frightened faces of scholars surrounding her."
     new "She saw the frightened faces of scholars surrounding her."
 
-    old "Scholar\" \"Are you alright?"
-    new "Scholar\" \"Are you alright?"
-
-    old "Scholar\" \"Did the scaffolding break? What happened?"
-    new "Scholar\" \"Did the scaffolding break? What happened?"
+    old "Did the scaffolding break? What happened?"
+    new "Did the scaffolding break? What happened?"
 
     old "Sarah waved her hand and pushed them away from herself."
     new "Sarah waved her hand and pushed them away from herself."
@@ -217,11 +214,8 @@ translate ru strings:
     old "Behind her, she could hear their voices. First calm, then swiftly rising."
     new "Behind her, she could hear their voices. First calm, then swiftly rising."
 
-    old "Scholar\" \"Hey!"
-    new "Scholar\" \"Hey!"
-
-    old "Scholar\" \"Stop her!"
-    new "Scholar\" \"Stop her!"
+    old "Stop her!"
+    new "Stop her!"
 
     old "Sarah was already halfway up the scaffolding, her feet racing."
     new "Sarah was already halfway up the scaffolding, her feet racing."
@@ -514,9 +508,6 @@ translate ru strings:
     old "Sarah began to move, but only one step outside of her hiding place, and a voice rang out."
     new "Sarah began to move, but only one step outside of her hiding place, and a voice rang out."
 
-    old "Soldier\" \"Hey!"
-    new "Soldier\" \"Hey!"
-
     old "Sarah turned towards the voice."
     new "Sarah turned towards the voice."
 
@@ -532,17 +523,17 @@ translate ru strings:
     old "Sarah cursed herself for having waited too long."
     new "Sarah cursed herself for having waited too long."
 
-    old "Soldier\" \"You know, we were havin a pretty good night before they pulled us out from the party and told us to go on patrol duty."
-    new "Soldier\" \"You know, we were havin a pretty good night before they pulled us out from the party and told us to go on patrol duty."
+    old "You know, we were havin a pretty good night before they pulled us out from the party and told us to go on patrol duty."
+    new "You know, we were havin a pretty good night before they pulled us out from the party and told us to go on patrol duty."
 
-    old "Soldier\" \"And they say go look for some blonde girl causin trouble down at the digsite."
-    new "Soldier\" \"And they say go look for some blonde girl causin trouble down at the digsite."
+    old "And they say go look for some blonde girl causin trouble down at the digsite."
+    new "And they say go look for some blonde girl causin trouble down at the digsite."
 
     old "He eyed her up and down."
     new "He eyed her up and down."
 
-    old "Soldier\" \"You don't seem like the type that can cause much trouble."
-    new "Soldier\" \"You don't seem like the type that can cause much trouble."
+    old "You don't seem like the type that can cause much trouble."
+    new "You don't seem like the type that can cause much trouble."
 
     old "Sarah's eyes drifted from one soldier to the other."
     new "Sarah's eyes drifted from one soldier to the other."
@@ -559,8 +550,8 @@ translate ru strings:
     old "How many more would she have to kill on her way out?"
     new "How many more would she have to kill on her way out?"
 
-    old "Soldier\" \"Now, my buddy and I here caught you, so I guess we'll be doin the interrogation. Sounds fair?"
-    new "Soldier\" \"Now, my buddy and I here caught you, so I guess we'll be doin the interrogation. Sounds fair?"
+    old "Now, my buddy and I here caught you, so I guess we'll be doin the interrogation. Sounds fair?"
+    new "Now, my buddy and I here caught you, so I guess we'll be doin the interrogation. Sounds fair?"
 
     old "Kill the soldiers"
     new "Kill the soldiers"
@@ -610,23 +601,23 @@ translate ru strings:
     old "Seeing their faces, they seemed close to her own age. Fools, but they really deserve to die over that?"
     new "Seeing their faces, they seemed close to her own age. Fools, but they really deserve to die over that?"
 
-    old "Soldier\" \"So, tell me, what you up to here?"
-    new "Soldier\" \"So, tell me, what you up to here?"
+    old "So, tell me, what you up to here?"
+    new "So, tell me, what you up to here?"
 
     old "Nothing. I was just travelling through."
     new "Nothing. I was just travelling through."
 
-    old "Soldier\" \"Travelling? Here? There ain't nothin out here for hundreds of miles."
-    new "Soldier\" \"Travelling? Here? There ain't nothin out here for hundreds of miles."
+    old "Travelling? Here? There ain't nothin out here for hundreds of miles."
+    new "Travelling? Here? There ain't nothin out here for hundreds of miles."
 
     old "Sarah sighed. She knew she didn't have any good excuse that would get her out of here."
     new "Sarah sighed. She knew she didn't have any good excuse that would get her out of here."
 
-    old "Soldier\" \"But tell you what, you look honest enough."
-    new "Soldier\" \"But tell you what, you look honest enough."
+    old "But tell you what, you look honest enough."
+    new "But tell you what, you look honest enough."
 
-    old "Soldier\" \"You tell me you're not up to no good and I'll believe."
-    new "Soldier\" \"You tell me you're not up to no good and I'll believe."
+    old "You tell me you're not up to no good and I'll believe."
+    new "You tell me you're not up to no good and I'll believe."
 
     old "Sarah forced herself to keep his gaze."
     new "Sarah forced herself to keep his gaze."
@@ -637,14 +628,14 @@ translate ru strings:
     old "The soldier smiled."
     new "The soldier smiled."
 
-    old "Soldier\" \"Good girl. See, I trust ya."
-    new "Soldier\" \"Good girl. See, I trust ya."
+    old "Good girl. See, I trust ya."
+    new "Good girl. See, I trust ya."
 
     old "He turned to his fellow soldier."
     new "He turned to his fellow soldier."
 
-    old "Soldier\" \"You trust her?"
-    new "Soldier\" \"You trust her?"
+    old "You trust her?"
+    new "You trust her?"
 
     old "The other soldier nodded."
     new "The other soldier nodded."
@@ -652,35 +643,35 @@ translate ru strings:
     old "Good. You trust me. So can I go now?"
     new "Good. You trust me. So can I go now?"
 
-    old "Soldier\" \"Well, hang on now."
-    new "Soldier\" \"Well, hang on now."
+    old "Well, hang on now."
+    new "Well, hang on now."
 
     old "He put one hand in front of her."
     new "He put one hand in front of her."
 
-    old "Soldier\" \"This here is an official Mythran excavation."
-    new "Soldier\" \"This here is an official Mythran excavation."
+    old "This here is an official Mythran excavation."
+    new "This here is an official Mythran excavation."
 
-    old "Soldier\" \"Lot of criminals and such would love to steal a few valuable artifacts."
-    new "Soldier\" \"Lot of criminals and such would love to steal a few valuable artifacts."
+    old "Lot of criminals and such would love to steal a few valuable artifacts."
+    new "Lot of criminals and such would love to steal a few valuable artifacts."
 
-    old "Soldier\" \"Now you don't look like the criminal type to me, you know, we trust you an all that."
-    new "Soldier\" \"Now you don't look like the criminal type to me, you know, we trust you an all that."
+    old "Now you don't look like the criminal type to me, you know, we trust you an all that."
+    new "Now you don't look like the criminal type to me, you know, we trust you an all that."
 
-    old "Soldier\" \"But I still gotta do my job."
-    new "Soldier\" \"But I still gotta do my job."
+    old "But I still gotta do my job."
+    new "But I still gotta do my job."
 
-    old "Soldier\" \"See if you're not smuggling anything out of our camp."
-    new "Soldier\" \"See if you're not smuggling anything out of our camp."
+    old "See if you're not smuggling anything out of our camp."
+    new "See if you're not smuggling anything out of our camp."
 
-    old "Soldier\" \"Good, then if you ain't got nothing to hide, let's get this over with."
-    new "Soldier\" \"Good, then if you ain't got nothing to hide, let's get this over with."
+    old "Good, then if you ain't got nothing to hide, let's get this over with."
+    new "Good, then if you ain't got nothing to hide, let's get this over with."
 
     old "He pointed towards the wall."
     new "He pointed towards the wall."
 
-    old "Soldier\" \"Hands up against the wall."
-    new "Soldier\" \"Hands up against the wall."
+    old "Hands up against the wall."
+    new "Hands up against the wall."
 
     old "Sarah held back her rage, planting her hands against the wall."
     new "Sarah held back her rage, planting her hands against the wall."
@@ -694,8 +685,8 @@ translate ru strings:
     old "Suddenly, he reached around grabbing both of her breasts."
     new "Suddenly, he reached around grabbing both of her breasts."
 
-    old "Soldier\" \"Sorry, you never know where people try to hide stuff."
-    new "Soldier\" \"Sorry, you never know where people try to hide stuff."
+    old "Sorry, you never know where people try to hide stuff."
+    new "Sorry, you never know where people try to hide stuff."
 
     old "His hands moved away, down to her waist."
     new "His hands moved away, down to her waist."
@@ -718,20 +709,17 @@ translate ru strings:
     old "Unexpected, Sarah nearly stumbled from the surprise."
     new "Unexpected, Sarah nearly stumbled from the surprise."
 
-    old "Soldier\" \"Just doin my job."
-    new "Soldier\" \"Just doin my job."
+    old "Just doin my job."
+    new "Just doin my job."
 
     old "She doubted very much that any of this had anything to do with professionalism."
     new "She doubted very much that any of this had anything to do with professionalism."
 
-    old "Soldier\" \"Okay then."
-    new "Soldier\" \"Okay then."
-
     old "Sarah turned back around."
     new "Sarah turned back around."
 
-    old "Soldier\" \"Well, unfortunately during the search I hit on some suspicious areas, so we're going to have to do a more thorough search."
-    new "Soldier\" \"Well, unfortunately during the search I hit on some suspicious areas, so we're going to have to do a more thorough search."
+    old "Well, unfortunately during the search I hit on some suspicious areas, so we're going to have to do a more thorough search."
+    new "Well, unfortunately during the search I hit on some suspicious areas, so we're going to have to do a more thorough search."
 
     old "Sarah bit her lip to keep from yelling out."
     new "Sarah bit her lip to keep from yelling out."
@@ -739,8 +727,8 @@ translate ru strings:
     old "That's bullshit."
     new "That's bullshit."
 
-    old "Soldier\" \"No, right here."
-    new "Soldier\" \"No, right here."
+    old "No, right here."
+    new "No, right here."
 
     old "He pointed at her breasts."
     new "He pointed at her breasts."
@@ -748,11 +736,11 @@ translate ru strings:
     old "Those are my breasts!"
     new "Those are my breasts!"
 
-    old "Soldier\" \"Maybe, but they seem awfully big for someone your size. Gotta make sure you ain't smugglin anything out of camp."
-    new "Soldier\" \"Maybe, but they seem awfully big for someone your size. Gotta make sure you ain't smugglin anything out of camp."
+    old "Maybe, but they seem awfully big for someone your size. Gotta make sure you ain't smugglin anything out of camp."
+    new "Maybe, but they seem awfully big for someone your size. Gotta make sure you ain't smugglin anything out of camp."
 
-    old "Soldier\" \"Now, strip!"
-    new "Soldier\" \"Now, strip!"
+    old "Now, strip!"
+    new "Now, strip!"
 
     old "He barked his last command."
     new "He barked his last command."
@@ -778,8 +766,8 @@ translate ru strings:
     old "She looked up at the soldier, defiant."
     new "She looked up at the soldier, defiant."
 
-    old "Soldier\" \"Gettin there, but I said strip."
-    new "Soldier\" \"Gettin there, but I said strip."
+    old "Gettin there, but I said strip."
+    new "Gettin there, but I said strip."
 
     old "He motioned at the last of her clothes."
     new "He motioned at the last of her clothes."
@@ -790,8 +778,8 @@ translate ru strings:
     old "He pushed her back."
     new "He pushed her back."
 
-    old "Soldier\" \"I wasn't negotiating. Strip!"
-    new "Soldier\" \"I wasn't negotiating. Strip!"
+    old "I wasn't negotiating. Strip!"
+    new "I wasn't negotiating. Strip!"
 
     old "Sarah sighed, slipped her hands under the straps of her underwear, and undid even those last parts."
     new "Sarah sighed, slipped her hands under the straps of her underwear, and undid even those last parts."
@@ -802,20 +790,20 @@ translate ru strings:
     old "His eyes went all over her body."
     new "His eyes went all over her body."
 
-    old "Soldier\" \"Well...looks clear to me."
-    new "Soldier\" \"Well...looks clear to me."
+    old "Well...looks clear to me."
+    new "Well...looks clear to me."
 
-    old "Soldier\" \"What do you say?"
-    new "Soldier\" \"What do you say?"
+    old "What do you say?"
+    new "What do you say?"
 
-    old "Soldier\" \"Looks good to me too."
-    new "Soldier\" \"Looks good to me too."
+    old "Looks good to me too."
+    new "Looks good to me too."
 
     old "The soldier faced her again."
     new "The soldier faced her again."
 
-    old "Soldier\" \"You hear that, girly? You're all clear."
-    new "Soldier\" \"You hear that, girly? You're all clear."
+    old "You hear that, girly? You're all clear."
+    new "You hear that, girly? You're all clear."
 
     old "Sarah looked at him, her eyes shooting fire."
     new "Sarah looked at him, her eyes shooting fire."
@@ -829,17 +817,17 @@ translate ru strings:
     old "Sarah tried to reach for her clothes, but before she could, she felt the soldier's grip on her wrist."
     new "Sarah tried to reach for her clothes, but before she could, she felt the soldier's grip on her wrist."
 
-    old "Soldier\" \"Hang on a moment."
-    new "Soldier\" \"Hang on a moment."
+    old "Hang on a moment."
+    new "Hang on a moment."
 
-    old "Soldier\" \"I just said you were clear."
-    new "Soldier\" \"I just said you were clear."
+    old "I just said you were clear."
+    new "I just said you were clear."
 
     old "Yes? And?"
     new "Yes? And?"
 
-    old "Soldier\" \"Well, that just means we're off the clock now. Don't you think we treated you nice?"
-    new "Soldier\" \"Well, that just means we're off the clock now. Don't you think we treated you nice?"
+    old "Well, that just means we're off the clock now. Don't you think we treated you nice?"
+    new "Well, that just means we're off the clock now. Don't you think we treated you nice?"
 
     old "Sarah forced herself to swallow what she really wanted to say."
     new "Sarah forced herself to swallow what she really wanted to say."
@@ -847,11 +835,11 @@ translate ru strings:
     old "Yes, you treated me very well..."
     new "Yes, you treated me very well..."
 
-    old "Soldier\" \"Right, so now that me and my friend are off the clock, why don't you join us?"
-    new "Soldier\" \"Right, so now that me and my friend are off the clock, why don't you join us?"
+    old "Right, so now that me and my friend are off the clock, why don't you join us?"
+    new "Right, so now that me and my friend are off the clock, why don't you join us?"
 
-    old "Soldier\" \"Yeah, we're gonna go back to celebrating I think. We caught the intruder, determined there was no risk. Job done."
-    new "Soldier\" \"Yeah, we're gonna go back to celebrating I think. We caught the intruder, determined there was no risk. Job done."
+    old "Yeah, we're gonna go back to celebrating I think. We caught the intruder, determined there was no risk. Job done."
+    new "Yeah, we're gonna go back to celebrating I think. We caught the intruder, determined there was no risk. Job done."
 
     old "The soldier sat down against the wall of the ruined house."
     new "The soldier sat down against the wall of the ruined house."
@@ -862,8 +850,8 @@ translate ru strings:
     old "Sarah tried to struggle, but his grip on her waist was strong enough that her struggle only entertained him."
     new "Sarah tried to struggle, but his grip on her waist was strong enough that her struggle only entertained him."
 
-    old "Soldier\" \"You can wriggle on my lap all you like, I don't mind."
-    new "Soldier\" \"You can wriggle on my lap all you like, I don't mind."
+    old "You can wriggle on my lap all you like, I don't mind."
+    new "You can wriggle on my lap all you like, I don't mind."
 
     old "Sarah stopped moving."
     new "Sarah stopped moving."
@@ -874,29 +862,29 @@ translate ru strings:
     old "The soldier pulled a wine bottle from his backpack."
     new "The soldier pulled a wine bottle from his backpack."
 
-    old "Soldier\" \"See, before you went and caused a whole lotta trouble, my buddy and I were havin a grand old time."
-    new "Soldier\" \"See, before you went and caused a whole lotta trouble, my buddy and I were havin a grand old time."
+    old "See, before you went and caused a whole lotta trouble, my buddy and I were havin a grand old time."
+    new "See, before you went and caused a whole lotta trouble, my buddy and I were havin a grand old time."
 
     old "Sarah sat naked on his lap, forced to listen to him prattle on."
     new "Sarah sat naked on his lap, forced to listen to him prattle on."
 
-    old "Soldier\" \"And we were havin some real good luck before they forced us on patrol. Had a girl with some tits...Gods almost as good as yours."
-    new "Soldier\" \"And we were havin some real good luck before they forced us on patrol. Had a girl with some tits...Gods almost as good as yours."
+    old "And we were havin some real good luck before they forced us on patrol. Had a girl with some tits...Gods almost as good as yours."
+    new "And we were havin some real good luck before they forced us on patrol. Had a girl with some tits...Gods almost as good as yours."
 
-    old "Soldier\" \"She was ready for it, beggin me to give it to her."
-    new "Soldier\" \"She was ready for it, beggin me to give it to her."
+    old "She was ready for it, beggin me to give it to her."
+    new "She was ready for it, beggin me to give it to her."
 
-    old "Soldier\" \"Ain't that right?"
-    new "Soldier\" \"Ain't that right?"
+    old "Ain't that right?"
+    new "Ain't that right?"
 
     old "Sarah watched the other soldier nod along."
     new "Sarah watched the other soldier nod along."
 
-    old "Soldier\" \"Then right before I close the deal, my commander pulls me out and tells me to go walk circles in this shithole of a city."
-    new "Soldier\" \"Then right before I close the deal, my commander pulls me out and tells me to go walk circles in this shithole of a city."
+    old "Then right before I close the deal, my commander pulls me out and tells me to go walk circles in this shithole of a city."
+    new "Then right before I close the deal, my commander pulls me out and tells me to go walk circles in this shithole of a city."
 
-    old "Soldier\" \"You know how that feels for a guy? To get all worked up and then no release?"
-    new "Soldier\" \"You know how that feels for a guy? To get all worked up and then no release?"
+    old "You know how that feels for a guy? To get all worked up and then no release?"
+    new "You know how that feels for a guy? To get all worked up and then no release?"
 
     old "She felt him grab her hand and forced it down between his legs."
     new "She felt him grab her hand and forced it down between his legs."
@@ -904,11 +892,8 @@ translate ru strings:
     old "She could feel his erection pressing through his pants."
     new "She could feel his erection pressing through his pants."
 
-    old "Soldier\" \"That's your fault."
-    new "Soldier\" \"That's your fault."
-
-    old "Soldier\" \"Least you can do is make up for it by havin a drink with me and my buddy."
-    new "Soldier\" \"Least you can do is make up for it by havin a drink with me and my buddy."
+    old "Least you can do is make up for it by havin a drink with me and my buddy."
+    new "Least you can do is make up for it by havin a drink with me and my buddy."
 
     old "He pushed the bottle up to her face."
     new "He pushed the bottle up to her face."
@@ -919,8 +904,8 @@ translate ru strings:
     old "The wine was decent enough for what a soldier would drink."
     new "The wine was decent enough for what a soldier would drink."
 
-    old "Soldier\" \"Gods, the girl can drink. Who knew, you looked so uptight with your clothes on."
-    new "Soldier\" \"Gods, the girl can drink. Who knew, you looked so uptight with your clothes on."
+    old "Gods, the girl can drink. Who knew, you looked so uptight with your clothes on."
+    new "Gods, the girl can drink. Who knew, you looked so uptight with your clothes on."
 
     old "She'd rather be drunk if she was going to be doing this."
     new "She'd rather be drunk if she was going to be doing this."
@@ -934,8 +919,8 @@ translate ru strings:
     old "He smiled at her sudden initiative."
     new "He smiled at her sudden initiative."
 
-    old "Soldier\" \"That would be a good start."
-    new "Soldier\" \"That would be a good start."
+    old "That would be a good start."
+    new "That would be a good start."
 
     old "Sarah leaned in close and pressed her lips close to his ear."
     new "Sarah leaned in close and pressed her lips close to his ear."
@@ -943,8 +928,8 @@ translate ru strings:
     old "But what if I was...really sorry."
     new "But what if I was...really sorry."
 
-    old "Soldier\" \"Well, I imagine there might a few ways you could make it up to us."
-    new "Soldier\" \"Well, I imagine there might a few ways you could make it up to us."
+    old "Well, I imagine there might a few ways you could make it up to us."
+    new "Well, I imagine there might a few ways you could make it up to us."
 
     old "Sarah looked at him, then at his friend."
     new "Sarah looked at him, then at his friend."
@@ -967,8 +952,8 @@ translate ru strings:
     old "Sarah them exchange glances, trying to negotiate an agreement."
     new "Sarah them exchange glances, trying to negotiate an agreement."
 
-    old "Soldier\" \"Well what? I found her! I get first."
-    new "Soldier\" \"Well what? I found her! I get first."
+    old "Well what? I found her! I get first."
+    new "Well what? I found her! I get first."
 
     old "The other one looked annoyed."
     new "The other one looked annoyed."
@@ -979,8 +964,8 @@ translate ru strings:
     old "She saw the soldier on whose lap she was sitting grin like an idiot."
     new "She saw the soldier on whose lap she was sitting grin like an idiot."
 
-    old "Soldier\" \"See? Lady made up her mind."
-    new "Soldier\" \"See? Lady made up her mind."
+    old "See? Lady made up her mind."
+    new "See? Lady made up her mind."
 
     old "And like that, each began to move."
     new "And like that, each began to move."
@@ -1018,8 +1003,8 @@ translate ru strings:
     old "They caught her staring."
     new "They caught her staring."
 
-    old "Soldier\" \"Don't worry, you're not the only girl to have that reaction."
-    new "Soldier\" \"Don't worry, you're not the only girl to have that reaction."
+    old "Don't worry, you're not the only girl to have that reaction."
+    new "Don't worry, you're not the only girl to have that reaction."
 
     old "Sarah felt surprised to be embarrassed, despite everything they were going to do."
     new "Sarah felt surprised to be embarrassed, despite everything they were going to do."
@@ -1057,8 +1042,8 @@ translate ru strings:
     old "Behind her, she heard the other soldier laugh."
     new "Behind her, she heard the other soldier laugh."
 
-    old "Soldier\" \"Sorry buddy, I think she just likes me."
-    new "Soldier\" \"Sorry buddy, I think she just likes me."
+    old "Sorry buddy, I think she just likes me."
+    new "Sorry buddy, I think she just likes me."
 
     old "Sarah felt his strong hands wrap around her waist. He angled himself, and then she felt him enter her."
     new "Sarah felt his strong hands wrap around her waist. He angled himself, and then she felt him enter her."
@@ -1084,8 +1069,8 @@ translate ru strings:
     old "He was already inside of her, and perhaps in some part, enjoyed her favoritism to him."
     new "He was already inside of her, and perhaps in some part, enjoyed her favoritism to him."
 
-    old "Soldier\" \"Don't you think he'd be sad?"
-    new "Soldier\" \"Don't you think he'd be sad?"
+    old "Don't you think he'd be sad?"
+    new "Don't you think he'd be sad?"
 
     old "Sarah felt her body rock back and forth as the soldier began to pick up the pace."
     new "Sarah felt her body rock back and forth as the soldier began to pick up the pace."
@@ -1096,8 +1081,8 @@ translate ru strings:
     old "She saw more hatred flash in the other man's eyes. He didn't enjoy the humiliation, but also knew he wouldn't force himself on her."
     new "She saw more hatred flash in the other man's eyes. He didn't enjoy the humiliation, but also knew he wouldn't force himself on her."
 
-    old "Soldier\" \"You're funny, but I think you need to be nice to my buddy, okay?"
-    new "Soldier\" \"You're funny, but I think you need to be nice to my buddy, okay?"
+    old "You're funny, but I think you need to be nice to my buddy, okay?"
+    new "You're funny, but I think you need to be nice to my buddy, okay?"
 
     old "Sarah felt a swift slap on her ass, as if being reprimanded."
     new "Sarah felt a swift slap on her ass, as if being reprimanded."
@@ -1162,14 +1147,14 @@ translate ru strings:
     old "The moans of her orgasm were stiffled on the other man's cock, but the twisting of her body made it clear enough what had happened."
     new "The moans of her orgasm were stiffled on the other man's cock, but the twisting of her body made it clear enough what had happened."
 
-    old "Soldier\" \"Fuck, I think she really likes it."
-    new "Soldier\" \"Fuck, I think she really likes it."
+    old "Fuck, I think she really likes it."
+    new "Fuck, I think she really likes it."
 
     old "Both soldiers laughed."
     new "Both soldiers laughed."
 
-    old "Soldier\" \"Not a lot of girls in this camp can take two dicks, you ever considered becoming a whore?"
-    new "Soldier\" \"Not a lot of girls in this camp can take two dicks, you ever considered becoming a whore?"
+    old "Not a lot of girls in this camp can take two dicks, you ever considered becoming a whore?"
+    new "Not a lot of girls in this camp can take two dicks, you ever considered becoming a whore?"
 
     old "Sarah tried to ignore their taunts, but felt her face burn."
     new "Sarah tried to ignore their taunts, but felt her face burn."
@@ -1252,8 +1237,8 @@ translate ru strings:
     old "The one soldier that had first caught, smiled at her."
     new "The one soldier that had first caught, smiled at her."
 
-    old "Soldier\" \"You know, stay out of trouble next time."
-    new "Soldier\" \"You know, stay out of trouble next time."
+    old "You know, stay out of trouble next time."
+    new "You know, stay out of trouble next time."
 
     old "Sarah smiled back as she put on the last of her clothes."
     new "Sarah smiled back as she put on the last of her clothes."

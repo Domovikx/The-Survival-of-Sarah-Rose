@@ -106,14 +106,14 @@ translate ru strings:
     old "Something stirred in the alley, and suddenly, a face emerged."
     new "Something stirred in the alley, and suddenly, a face emerged."
 
-    old "Brigand\" \"Excuse me, I think I must have gotten lost. Taken a wrong turn somewhere."
-    new "Brigand\" \"Excuse me, I think I must have gotten lost. Taken a wrong turn somewhere."
+    old "Excuse me, I think I must have gotten lost. Taken a wrong turn somewhere."
+    new "Excuse me, I think I must have gotten lost. Taken a wrong turn somewhere."
 
     old "The man was holding his hands up in the air."
     new "The man was holding his hands up in the air."
 
-    old "Brigand\" \"Do you think you could point me towards the wharf district? This city is like a maze."
-    new "Brigand\" \"Do you think you could point me towards the wharf district? This city is like a maze."
+    old "Do you think you could point me towards the wharf district? This city is like a maze."
+    new "Do you think you could point me towards the wharf district? This city is like a maze."
 
     old "The man was a stranger, and yet, he felt awfully familiar."
     new "The man was a stranger, and yet, he felt awfully familiar."
@@ -124,8 +124,8 @@ translate ru strings:
     old "Wrong turn, huh?"
     new "Wrong turn, huh?"
 
-    old "Brigand\" \"Yes, yes. It happens, all these narrow streets and alleys. I'll just be on my way, apologies if I caused you any trouble."
-    new "Brigand\" \"Yes, yes. It happens, all these narrow streets and alleys. I'll just be on my way, apologies if I caused you any trouble."
+    old "Yes, yes. It happens, all these narrow streets and alleys. I'll just be on my way, apologies if I caused you any trouble."
+    new "Yes, yes. It happens, all these narrow streets and alleys. I'll just be on my way, apologies if I caused you any trouble."
 
     old "Ooh, I think you caused me more than a bit of that."
     new "Ooh, I think you caused me more than a bit of that."
@@ -133,8 +133,8 @@ translate ru strings:
     old "She saw confusion on the man's face."
     new "She saw confusion on the man's face."
 
-    old "Brigand\" \"I'm sorry, do we know each other?"
-    new "Brigand\" \"I'm sorry, do we know each other?"
+    old "I'm sorry, do we know each other?"
+    new "I'm sorry, do we know each other?"
 
     old "Yes, I think we do. And I don't think you're all that lost."
     new "Yes, I think we do. And I don't think you're all that lost."
@@ -142,8 +142,8 @@ translate ru strings:
     old "The man's face dropped. He stopped pretending to be anything he wasn't."
     new "The man's face dropped. He stopped pretending to be anything he wasn't."
 
-    old "Brigand\" \"Well, girly, do tell me how we know each other."
-    new "Brigand\" \"Well, girly, do tell me how we know each other."
+    old "Well, girly, do tell me how we know each other."
+    new "Well, girly, do tell me how we know each other."
 
     old "You held a knife to my throat."
     new "You held a knife to my throat."
@@ -151,8 +151,8 @@ translate ru strings:
     old "He smiled at her, his teeth slightly crooked, his smile seemed more menacing than anything else."
     new "He smiled at her, his teeth slightly crooked, his smile seemed more menacing than anything else."
 
-    old "Brigand\" \"For most people, that would be a pretty decent hint, but I'm afraid for me that doesn't narrow it down very much."
-    new "Brigand\" \"For most people, that would be a pretty decent hint, but I'm afraid for me that doesn't narrow it down very much."
+    old "For most people, that would be a pretty decent hint, but I'm afraid for me that doesn't narrow it down very much."
+    new "For most people, that would be a pretty decent hint, but I'm afraid for me that doesn't narrow it down very much."
 
     old "Sarah knocked the wall."
     new "Sarah knocked the wall."
@@ -163,20 +163,17 @@ translate ru strings:
     old "She saw a spark of recognition in his eyes."
     new "She saw a spark of recognition in his eyes."
 
-    old "Brigand\" \"Aah...the girl sleeping in my alley."
-    new "Brigand\" \"Aah...the girl sleeping in my alley."
+    old "Aah...the girl sleeping in my alley."
+    new "Aah...the girl sleeping in my alley."
 
     old "Your alley? Maybe I was naive enough to think that all those years ago. Now I know what you really are."
     new "Your alley? Maybe I was naive enough to think that all those years ago. Now I know what you really are."
 
-    old "Brigand\" \"And what's that?"
-    new "Brigand\" \"And what's that?"
-
     old "A lowlife. A criminal that feeds on those too vulnerable to defend themselves."
     new "A lowlife. A criminal that feeds on those too vulnerable to defend themselves."
 
-    old "Brigand\" \"Can't much deny that charge, girly."
-    new "Brigand\" \"Can't much deny that charge, girly."
+    old "Can't much deny that charge, girly."
+    new "Can't much deny that charge, girly."
 
     old "Don't call me girly."
     new "Don't call me girly."
@@ -184,8 +181,8 @@ translate ru strings:
     old "The man took a step forward, clearly meant to intimidate her."
     new "The man took a step forward, clearly meant to intimidate her."
 
-    old "Brigand\" \"Why, there a law against it, girly?"
-    new "Brigand\" \"Why, there a law against it, girly?"
+    old "Why, there a law against it, girly?"
+    new "Why, there a law against it, girly?"
 
     old "Sarah snapped her finger."
     new "Sarah snapped her finger."
@@ -202,14 +199,14 @@ translate ru strings:
     old "The man threw up his hands and took a step back."
     new "The man threw up his hands and took a step back."
 
-    old "Brigand\" \"Sorry, didn't mean nothin by it."
-    new "Brigand\" \"Sorry, didn't mean nothin by it."
+    old "Sorry, didn't mean nothin by it."
+    new "Sorry, didn't mean nothin by it."
 
     old "Sarah, having made her point, shook off the fire."
     new "Sarah, having made her point, shook off the fire."
 
-    old "Brigand\" \"Still, seems like you done alright for yaself. Not really the scared girl I met back then."
-    new "Brigand\" \"Still, seems like you done alright for yaself. Not really the scared girl I met back then."
+    old "Still, seems like you done alright for yaself. Not really the scared girl I met back then."
+    new "Still, seems like you done alright for yaself. Not really the scared girl I met back then."
 
     old "Sarah eyed the man up and down."
     new "Sarah eyed the man up and down."
@@ -220,8 +217,8 @@ translate ru strings:
     old "You seem to haven't changed much at all."
     new "You seem to haven't changed much at all."
 
-    old "Brigand\" \"Some people just know themselves, and I'm one of those people."
-    new "Brigand\" \"Some people just know themselves, and I'm one of those people."
+    old "Some people just know themselves, and I'm one of those people."
+    new "Some people just know themselves, and I'm one of those people."
 
     old "Really now, and you know you're a criminal?"
     new "Really now, and you know you're a criminal?"

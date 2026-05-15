@@ -52,8 +52,8 @@ translate ru strings:
     old "The engineer nodded."
     new "The engineer nodded."
 
-    old "Engineer\" \"Yes, Commander. On your order."
-    new "Engineer\" \"Yes, Commander. On your order."
+    old "Yes, Commander. On your order."
+    new "Yes, Commander. On your order."
 
     old "Sarah looked at the walls of Calshure again."
     new "Sarah looked at the walls of Calshure again."
@@ -106,8 +106,8 @@ translate ru strings:
     old "Were they truly so foolish as to surrender that by hiding behind walls?"
     new "Were they truly so foolish as to surrender that by hiding behind walls?"
 
-    old "Engineer\" \"Commander? Are we ready?"
-    new "Engineer\" \"Commander? Are we ready?"
+    old "Commander? Are we ready?"
+    new "Commander? Are we ready?"
 
     old "Or was she just seeing ghosts."
     new "Or was she just seeing ghosts."
@@ -427,8 +427,8 @@ translate ru strings:
     old "Delay the siege, send scouts"
     new "Delay the siege, send scouts"
 
-    old "Engineer\" \"I...commander?"
-    new "Engineer\" \"I...commander?"
+    old "I...commander?"
+    new "I...commander?"
 
     old "I said wait. Do not fire yet."
     new "I said wait. Do not fire yet."
@@ -607,11 +607,11 @@ translate ru strings:
     old "Caught up in the frenzy of victory, her men shouted war cries at the Tribesmen."
     new "Caught up in the frenzy of victory, her men shouted war cries at the Tribesmen."
 
-    old "Spearmen\" \"Sons of war!"
-    new "Spearmen\" \"Sons of war!"
+    old "Sons of war!"
+    new "Sons of war!"
 
-    old "Spearmen\" \"Come and learn from us!"
-    new "Spearmen\" \"Come and learn from us!"
+    old "Come and learn from us!"
+    new "Come and learn from us!"
 
     old "Sarah watched on as stunned Tribesmen, fallen from their horses, tried to attack the solid formation."
     new "Sarah watched on as stunned Tribesmen, fallen from their horses, tried to attack the solid formation."
@@ -684,9 +684,6 @@ translate ru strings:
 
     old "Engineers, hold the siege weapons!"
     new "Engineers, hold the siege weapons!"
-
-    old "Engineers\" \"Yes, commander."
-    new "Engineers\" \"Yes, commander."
 
     old "Sarah laughed as she rode towards the city on her horse."
     new "Sarah laughed as she rode towards the city on her horse."

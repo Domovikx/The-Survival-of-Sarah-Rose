@@ -148,9 +148,6 @@ translate ru strings:
     old "Why ain't you start here?"
     new "Why ain't you start here?"
 
-    old "Sure."
-    new "Sure."
-
     old "My kids are a great help, but as you can see, we got more customers than we can handle."
     new "My kids are a great help, but as you can see, we got more customers than we can handle."
 

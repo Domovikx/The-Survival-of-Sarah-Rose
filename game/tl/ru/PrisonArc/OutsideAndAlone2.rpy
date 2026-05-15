@@ -67,8 +67,8 @@ translate ru strings:
     old "The voice sounded rough. Sarah felt her heart beat in her chest, the man's voice alerted her."
     new "The voice sounded rough. Sarah felt her heart beat in her chest, the man's voice alerted her."
 
-    old "Brigand\" \"I asked you something girly, you lost?"
-    new "Brigand\" \"I asked you something girly, you lost?"
+    old "I asked you something girly, you lost?"
+    new "I asked you something girly, you lost?"
 
     old "Sarah could now make out the man, leaning against the wall close to her."
     new "Sarah could now make out the man, leaning against the wall close to her."
@@ -76,26 +76,26 @@ translate ru strings:
     old "No, good sir, I'm only resting for a moment."
     new "No, good sir, I'm only resting for a moment."
 
-    old "Brigand\" \"Aah, I see. That's fine, you can rest here if you want."
-    new "Brigand\" \"Aah, I see. That's fine, you can rest here if you want."
+    old "Aah, I see. That's fine, you can rest here if you want."
+    new "Aah, I see. That's fine, you can rest here if you want."
 
     old "There was a pause."
     new "There was a pause."
 
-    old "Brigand\" \"But you see, there is just a small problem."
-    new "Brigand\" \"But you see, there is just a small problem."
+    old "But you see, there is just a small problem."
+    new "But you see, there is just a small problem."
 
-    old "Brigand\" \"This here is my alley, I own it, and I can't just let anybody and everybody sleep here."
-    new "Brigand\" \"This here is my alley, I own it, and I can't just let anybody and everybody sleep here."
+    old "This here is my alley, I own it, and I can't just let anybody and everybody sleep here."
+    new "This here is my alley, I own it, and I can't just let anybody and everybody sleep here."
 
-    old "Brigand\" \"If I let you sleep here for free, soon everybody will want to sleep here, and before long the city guards will come knocking."
-    new "Brigand\" \"If I let you sleep here for free, soon everybody will want to sleep here, and before long the city guards will come knocking."
+    old "If I let you sleep here for free, soon everybody will want to sleep here, and before long the city guards will come knocking."
+    new "If I let you sleep here for free, soon everybody will want to sleep here, and before long the city guards will come knocking."
 
-    old "Brigand\" \"Can't have that, can't have that at all."
-    new "Brigand\" \"Can't have that, can't have that at all."
+    old "Can't have that, can't have that at all."
+    new "Can't have that, can't have that at all."
 
-    old "Brigand\" \"So I'm afraid, I'll need you to spare some coin."
-    new "Brigand\" \"So I'm afraid, I'll need you to spare some coin."
+    old "So I'm afraid, I'll need you to spare some coin."
+    new "So I'm afraid, I'll need you to spare some coin."
 
     old "The man held out his hand, clawing for some money to pass hands."
     new "The man held out his hand, clawing for some money to pass hands."
@@ -112,11 +112,11 @@ translate ru strings:
     old "Suddenly, the man pushed himself away from the wall and came up closer to Sarah, blocking her into the corner behind the crate."
     new "Suddenly, the man pushed himself away from the wall and came up closer to Sarah, blocking her into the corner behind the crate."
 
-    old "Brigand\" \"Sure, you can leave..."
-    new "Brigand\" \"Sure, you can leave..."
+    old "Sure, you can leave..."
+    new "Sure, you can leave..."
 
-    old "Brigand\" \"But you already used my alley, so you already owe me some coin for tonight."
-    new "Brigand\" \"But you already used my alley, so you already owe me some coin for tonight."
+    old "But you already used my alley, so you already owe me some coin for tonight."
+    new "But you already used my alley, so you already owe me some coin for tonight."
 
     old "Sarah felt her heart beat faster still."
     new "Sarah felt her heart beat faster still."
@@ -124,8 +124,8 @@ translate ru strings:
     old "I told you, I don't have any money."
     new "I told you, I don't have any money."
 
-    old "Brigand\" \"Well, maybe I've been unclear. You need to pay me. That can be in coin...or some other way..."
-    new "Brigand\" \"Well, maybe I've been unclear. You need to pay me. That can be in coin...or some other way..."
+    old "Well, maybe I've been unclear. You need to pay me. That can be in coin...or some other way..."
+    new "Well, maybe I've been unclear. You need to pay me. That can be in coin...or some other way..."
 
     old "The man's eyes drifted across her body as he said the words."
     new "The man's eyes drifted across her body as he said the words."

@@ -886,50 +886,129 @@ translate ru strings:
     old "Sarah felt a soft, lace texture inside of her mouth, pressing on her tongue."
     new "Сара почувствовала мягкую кружевную текстуру во рту, давящую на язык."
 
-    old "It was her underwear, Sarah realized. Kate had stuffed her underwear into her mouth to quiet her moans."
-    new "Это было её бельё, поняла Сара. Кейт засунула ей в рот трусики, чтобы заглушить стоны."
+    old "Kate had shoved Sarah's underwear into her mouth as an improvised gag."
+    new "Kate had shoved Sarah's underwear into her mouth as an improvised gag."
 
-    old "The humiliation made Sarah even wetter."
-    new "Унижение возбудило Сару ещё сильнее."
+    old "The realization drove Sarah mad. Combined with Kate's continued fingering, and being free to moan wildly; Sarah lost herself completely."
+    new "The realization drove Sarah mad. Combined with Kate's continued fingering, and being free to moan wildly; Sarah lost herself completely."
 
-    old "Kate managed to grab Sarah's underwear from the floor and stuff it into her mouth."
-    new "Кейт удалось подхватить бельё Сары с пола и засунуть ей в рот."
+    old "The feeling that had been building between her legs now exploded throughout her whole body."
+    new "The feeling that had been building between her legs now exploded throughout her whole body."
 
-    old "Now, completely silenced, Sarah could only focus on the feeling of Kate's fingers entering her, again and again."
-    new "Теперь, полностью заставленная молчать, Сара могла сосредоточиться лишь на ощущении пальцев Кейт, входящих в неё снова и снова."
+    old "Sarah felt her legs give in. Falling to her knees, her breasts pushed up against the wall. She moaned loudly into her own underwear."
+    new "Sarah felt her legs give in. Falling to her knees, her breasts pushed up against the wall. She moaned loudly into her own underwear."
 
-    old "Sarah felt her climax building, rapidly, this time it felt even more intense than before."
-    new "Сара чувствовала, как приближается кульминация, стремительно, на этот раз ещё более интенсивно, чем раньше."
+    old "Kate, for her part, moved swiftly down with Sarah, and kept fingering her."
+    new "Kate, for her part, moved swiftly down with Sarah, and kept fingering her."
 
-    old "Orgasm grabber Sarah as if from nowhere, taking her completely by surprise."
-    new "Оргазм захватил Сару будто из ниоткуда, застав полностью врасплох."
+    old "Sarah was on her knees, her nails clawing into the wall, as the orgasm rolled over her body, seemingly a second time."
+    new "Sarah was on her knees, her nails clawing into the wall, as the orgasm rolled over her body, seemingly a second time."
 
-    old "Her entire body went stiff, her back arched rigidly, and she experienced a pleasure deeper than she had ever known."
-    new "Всё её тело застыло, спина выгнулась дугой, и она испытала удовольствие глубже, чем когда-либо знала."
+    old "When it slowly subsided, she fell over backwards, into her own pile of clothes."
+    new "When it slowly subsided, she fell over backwards, into her own pile of clothes."
 
-    old "She felt her underwear fall out of her mouth, as her jaw went slack."
-    new "Она почувствовала, как бельё выпало изо рта, когда челюсть расслабилась."
+    old "Kate kneeled down, looming over her. She placed her hand across Sarah's mouth, pulling the underwear out of her mouth."
+    new "Kate kneeled down, looming over her. She placed her hand across Sarah's mouth, pulling the underwear out of her mouth."
 
-    old "Kate held her still as the orgasm passed through her."
-    new "Кейт держала её, пока оргазм проходил сквозь неё."
+    old "Sorry about that."
+    new "Sorry about that."
 
-    old "When it ended, Sarah collapsed onto the cold stone floor, breathing heavily."
-    new "Когда всё закончилось, Сара рухнула на холодный каменный пол, тяжело дыша."
+    old "Kate seemed actually remorseful."
+    new "Kate seemed actually remorseful."
 
-    old "Kate, standing over her, pulled up her hand and wiped Sarah's juices off on the wall."
-    new "Кейт, стоя над ней, подняла руку и вытерла соки Сары о стену."
+    old "But you were going so loud, you even had me worried."
+    new "But you were going so loud, you even had me worried."
 
-    old "Sarah could see, as if from a distance, Kate redressing and fixing her hair."
-    new "Сара видела, будто издалека, как Кейт одевается и поправляет волосы."
+    old "Sarah, still laying on the ground, looked up, loudly panting in the aftermath of her climax."
+    new "Sarah, still laying on the ground, looked up, loudly panting in the aftermath of her climax."
 
-    old "Kate began to walk away, but paused."
-    new "Кейт уже собралась уходить, но остановилась."
+    old "Unable to say anything, she just stared at Kate, hoping her eyes would communicate her gratitude."
+    new "Unable to say anything, she just stared at Kate, hoping her eyes would communicate her gratitude."
 
-    old "I'll be in my room, if you want to come find me later. But I understand if you're busy with your...kingdom."
-    new "Я буду в своей комнате, если захочешь зайти позже. Но пойму, если ты занята своим... королевством."
+    old "Kate leaned down and kissed Sarah on her lips, softly this time."
+    new "Kate leaned down and kissed Sarah on her lips, softly this time."
 
-    old "Kate's voice carried a clear hint of mockery at the last word."
-    new "В голосе Кейт слышалась явная насмешка над последним словом."
+    old "Something sparked inside of Sarah. Something neither quite lust nor friendship. She felt herself falling into Sarah's large, blue eyes."
+    new "Something sparked inside of Sarah. Something neither quite lust nor friendship. She felt herself falling into Sarah's large, blue eyes."
 
-    old "Sarah watched her friend walk away. Even as Sarah tried to pick herself up off the floor, she knew she would not be able to get up for a long time."
-    new "Сара смотрела, как уходит подруга. Даже пытаясь подняться с пола, она знала, что не сможет встать ещё долго."
+    old "Kate, realizing Sarah was not about to be able to get up, grabbed her under her arms and pulled her up."
+    new "Kate, realizing Sarah was not about to be able to get up, grabbed her under her arms and pulled her up."
+
+    old "Sarah complained by making inarticulate noises."
+    new "Sarah complained by making inarticulate noises."
+
+    old "Sorry."
+    new "Sorry."
+
+    old "Kate apologized again."
+    new "Kate apologized again."
+
+    old "But you're going to need to get dressed."
+    new "But you're going to need to get dressed."
+
+    old "Sarah limply attempted to assist in dressing herself, but in the end, Kate had to do most of the work in getting Sarah back in her dress."
+    new "Sarah limply attempted to assist in dressing herself, but in the end, Kate had to do most of the work in getting Sarah back in her dress."
+
+    old "Kate reached out, fixing Sarah's hair as best she could."
+    new "Kate reached out, fixing Sarah's hair as best she could."
+
+    old "There, looking like a princess again."
+    new "There, looking like a princess again."
+
+    old "Sarah felt an odd sensation, presing between her thighs, and only now realized she was wearing no underwear."
+    new "Sarah felt an odd sensation, presing between her thighs, and only now realized she was wearing no underwear."
+
+    old "Kate flashed a quick grin, holding up Sarah's underwear."
+    new "Kate flashed a quick grin, holding up Sarah's underwear."
+
+    old "Sarah felt embarrasement turning her face red."
+    new "Sarah felt embarrasement turning her face red."
+
+    old "She tried to grab the underwear, but Kate easily kept it out of reach."
+    new "She tried to grab the underwear, but Kate easily kept it out of reach."
+
+    old "Give that back!"
+    new "Give that back!"
+
+    old "Kate shook her head, easily holding the still fatigued Sarah off with one hand."
+    new "Kate shook her head, easily holding the still fatigued Sarah off with one hand."
+
+    old "Kate shoved Sarah's underwear into her pocket."
+    new "Kate shoved Sarah's underwear into her pocket."
+
+    old "I'll promise to come by tonight to return these."
+    new "I'll promise to come by tonight to return these."
+
+    old "Kate winked and took off down the hallway."
+    new "Kate winked and took off down the hallway."
+
+    old "Sarah was left behind, leaning against the wall, still exhausted and in no condition to give chase."
+    new "Sarah was left behind, leaning against the wall, still exhausted and in no condition to give chase."
+
+    old "She knew that Kate would make good on that promise."
+    new "She knew that Kate would make good on that promise."
+
+    old "Push Kate away."
+    new "Push Kate away."
+
+    old "This is too dangerous. We need to be discreet. Anyone could walk by and see us."
+    new "This is too dangerous. We need to be discreet. Anyone could walk by and see us."
+
+    old "Kate sneaked Sarah a quick kiss."
+    new "Kate sneaked Sarah a quick kiss."
+
+    old "You're no fun."
+    new "You're no fun."
+
+    old "we'll catch up on this later."
+    new "we'll catch up on this later."
+
+    old "Kate winked and took off down the hallway, leaving Sarah behind."
+    new "Kate winked and took off down the hallway, leaving Sarah behind."
+
+    old "Sarah watched Kate leave and sat down in the hallway, listening to the silence."
+    new "Sarah watched Kate leave and sat down in the hallway, listening to the silence."
+
+    old "Sarah sat down in the hallway, listening to the silence."
+    new "Sarah sat down in the hallway, listening to the silence."
+

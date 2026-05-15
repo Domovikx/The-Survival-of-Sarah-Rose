@@ -1309,14 +1309,14 @@ translate ru strings:
     old "A panicked scout ran over."
     new "A panicked scout ran over."
 
-    old "Scout\" \"Commander! Are you-"
-    new "Scout\" \"Commander! Are you-"
+    old "Commander! Are you-"
+    new "Commander! Are you-"
 
     old "Your horse, now!"
     new "Your horse, now!"
 
-    old "Scout\" \"I...of course!"
-    new "Scout\" \"I...of course!"
+    old "I...of course!"
+    new "I...of course!"
 
     old "The young man dismounted, giving his horse to her."
     new "The young man dismounted, giving his horse to her."
@@ -1441,8 +1441,8 @@ translate ru strings:
     old "Also, instruct the engineers to keep firing, I want to see the city wall crumble."
     new "Also, instruct the engineers to keep firing, I want to see the city wall crumble."
 
-    old "Scout\" \"Yes, Commander!"
-    new "Scout\" \"Yes, Commander!"
+    old "Yes, Commander!"
+    new "Yes, Commander!"
 
     old "The young man rushed off along the length of the line, spreading her instructions as fast as he could manage."
     new "The young man rushed off along the length of the line, spreading her instructions as fast as he could manage."
@@ -1483,17 +1483,17 @@ translate ru strings:
     old "What is the situation with the Tribesmen?"
     new "What is the situation with the Tribesmen?"
 
-    old "Officer\" \"This attack was a large portion of their forces, but it wasn't all of them."
-    new "Officer\" \"This attack was a large portion of their forces, but it wasn't all of them."
+    old "This attack was a large portion of their forces, but it wasn't all of them."
+    new "This attack was a large portion of their forces, but it wasn't all of them."
 
     old "How many remain?"
     new "How many remain?"
 
-    old "Officer\" \"Hard to say, they're hiding behind their walls."
-    new "Officer\" \"Hard to say, they're hiding behind their walls."
+    old "Hard to say, they're hiding behind their walls."
+    new "Hard to say, they're hiding behind their walls."
 
-    old "Officer\" \"Best estimate, maybe less than five-thousand."
-    new "Officer\" \"Best estimate, maybe less than five-thousand."
+    old "Best estimate, maybe less than five-thousand."
+    new "Best estimate, maybe less than five-thousand."
 
     old "A sizeable force, but far fewer than she had in her own army."
     new "A sizeable force, but far fewer than she had in her own army."
@@ -2131,8 +2131,8 @@ translate ru strings:
     old "Something sacred had transpired, and all had become possessed by it."
     new "Something sacred had transpired, and all had become possessed by it."
 
-    old "Soldiers\" \"Hail, Sarah Rose!"
-    new "Soldiers\" \"Hail, Sarah Rose!"
+    old "Hail, Sarah Rose!"
+    new "Hail, Sarah Rose!"
 
     old "They cried out their loyalty all at once."
     new "They cried out their loyalty all at once."
@@ -3007,8 +3007,8 @@ translate ru strings:
     old "So loud, the sounds echoed from the wall, shaking the coloured glass that covered the windows."
     new "So loud, the sounds echoed from the wall, shaking the coloured glass that covered the windows."
 
-    old "People\" \"Hail, Queen Sarah Rose!"
-    new "People\" \"Hail, Queen Sarah Rose!"
+    old "Hail, Queen Sarah Rose!"
+    new "Hail, Queen Sarah Rose!"
 
     old "They cried out her name, louder and louder."
     new "They cried out her name, louder and louder."

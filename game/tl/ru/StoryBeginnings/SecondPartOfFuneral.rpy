@@ -135,3 +135,4 @@ translate ru strings:
 
     old "Sparing one last glance, Sarah turned around and walked away, knowing this was the last time she would ever see her father."
     new "Бросив последний взгляд, Сара развернулась и ушла, зная, что видит отца в последний раз."
+

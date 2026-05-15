@@ -324,3 +324,4 @@ translate ru strings:
 
     old "The two siblings continued to hug each other, as disaster drew nearer."
     new "Брат с сестрой продолжали обниматься, пока катастрофа приближалась."
+

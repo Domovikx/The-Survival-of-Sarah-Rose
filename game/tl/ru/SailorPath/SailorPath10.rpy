@@ -274,8 +274,8 @@ translate ru strings:
     old "Back and forth, back and forth, as if trying to understand how this man ended up with her, or the other way around."
     new "Back and forth, back and forth, as if trying to understand how this man ended up with her, or the other way around."
 
-    old "Priest\" \"Today, we are here to witness the union of these two-"
-    new "Priest\" \"Today, we are here to witness the union of these two-"
+    old "Today, we are here to witness the union of these two-"
+    new "Today, we are here to witness the union of these two-"
 
     old "Belmont leaned in towards the priest."
     new "Belmont leaned in towards the priest."
@@ -286,8 +286,8 @@ translate ru strings:
     old "The priest seemed offended, but otherwise carried on."
     new "The priest seemed offended, but otherwise carried on."
 
-    old "Priest\" \"Here, before the gods, do you vow to take this woman as your wife?"
-    new "Priest\" \"Here, before the gods, do you vow to take this woman as your wife?"
+    old "Here, before the gods, do you vow to take this woman as your wife?"
+    new "Here, before the gods, do you vow to take this woman as your wife?"
 
     old "That I do."
     new "That I do."
@@ -295,8 +295,8 @@ translate ru strings:
     old "The priest turned to Sarah. Was it pity in his eyes she detected?"
     new "The priest turned to Sarah. Was it pity in his eyes she detected?"
 
-    old "Priest\" \"And you, do you take this...man as you husband?"
-    new "Priest\" \"And you, do you take this...man as you husband?"
+    old "And you, do you take this...man as you husband?"
+    new "And you, do you take this...man as you husband?"
 
     old "Sarah gracefully bowed her head."
     new "Sarah gracefully bowed her head."
@@ -307,8 +307,8 @@ translate ru strings:
     old "The priest waved his hands in ceremony."
     new "The priest waved his hands in ceremony."
 
-    old "Priest\" \"Then before me, as a representative of the gods, I declare you husband and wife."
-    new "Priest\" \"Then before me, as a representative of the gods, I declare you husband and wife."
+    old "Then before me, as a representative of the gods, I declare you husband and wife."
+    new "Then before me, as a representative of the gods, I declare you husband and wife."
 
     old "Absent an audience, there were no cheers."
     new "Absent an audience, there were no cheers."

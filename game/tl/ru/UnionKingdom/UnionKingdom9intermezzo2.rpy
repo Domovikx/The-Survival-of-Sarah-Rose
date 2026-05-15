@@ -31,8 +31,8 @@ translate ru strings:
     old "She pulled the covers closer, as if this might somehow guard her."
     new "She pulled the covers closer, as if this might somehow guard her."
 
-    old "Voice\" \"An assassin..."
-    new "Voice\" \"An assassin..."
+    old "An assassin..."
+    new "An assassin..."
 
     old "Sarah instantly felt herself calm down again, for it was a voice she very much recognized."
     new "Sarah instantly felt herself calm down again, for it was a voice she very much recognized."

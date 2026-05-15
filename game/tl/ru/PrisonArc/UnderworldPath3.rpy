@@ -367,8 +367,8 @@ translate ru strings:
     old "Fuck. They had hit this stall before."
     new "Fuck. They had hit this stall before."
 
-    old "Merchant\" \"Guards! That's her! That's the thief!"
-    new "Merchant\" \"Guards! That's her! That's the thief!"
+    old "Guards! That's her! That's the thief!"
+    new "Guards! That's her! That's the thief!"
 
     old "The crowd began to shift. Confusion made it unclear who the merchant was talking about, and nobody liked the idea that there was a thief among them."
     new "The crowd began to shift. Confusion made it unclear who the merchant was talking about, and nobody liked the idea that there was a thief among them."
@@ -397,20 +397,20 @@ translate ru strings:
     old "Angry eyes and an angry smile."
     new "Angry eyes and an angry smile."
 
-    old "Guard\" \"Got you, you thieving whore!"
-    new "Guard\" \"Got you, you thieving whore!"
+    old "Got you, you thieving whore!"
+    new "Got you, you thieving whore!"
 
     old "Sarah tried to wrestle free, but the difference in power was so great, her efforts didn't even move him. She was close to nothing compared to him."
     new "Sarah tried to wrestle free, but the difference in power was so great, her efforts didn't even move him. She was close to nothing compared to him."
 
-    old "Guard\" \"We're gonna have you fuckin hang here till the crows rip you up so every other bitch will think twice before thieving."
-    new "Guard\" \"We're gonna have you fuckin hang here till the crows rip you up so every other bitch will think twice before thieving."
+    old "We're gonna have you fuckin hang here till the crows rip you up so every other bitch will think twice before thieving."
+    new "We're gonna have you fuckin hang here till the crows rip you up so every other bitch will think twice before thieving."
 
     old "Please...this is a mistake!"
     new "Please...this is a mistake!"
 
-    old "Guard\" \"Nah, ain't no mistake. You match the description, that's plenty to hang you on."
-    new "Guard\" \"Nah, ain't no mistake. You match the description, that's plenty to hang you on."
+    old "Nah, ain't no mistake. You match the description, that's plenty to hang you on."
+    new "Nah, ain't no mistake. You match the description, that's plenty to hang you on."
 
     old "Blood spattered across Sarah's face."
     new "Blood spattered across Sarah's face."

@@ -40,23 +40,23 @@ translate ru strings:
     old "The door opened and one of the soldiers stood in the opening."
     new "The door opened and one of the soldiers stood in the opening."
 
-    old "Soldier\" \"Princess Rose."
-    new "Soldier\" \"Princess Rose."
+    old "Princess Rose."
+    new "Princess Rose."
 
     old "She still had to get used to that title coming back."
     new "She still had to get used to that title coming back."
 
-    old "Soldier\" \"The captain requested a word with you."
-    new "Soldier\" \"The captain requested a word with you."
+    old "The captain requested a word with you."
+    new "The captain requested a word with you."
 
     old "The captain? Is something wrong with the ship?"
     new "The captain? Is something wrong with the ship?"
 
-    old "Soldier\" \"No, commander, he only requested to speak with you..."
-    new "Soldier\" \"No, commander, he only requested to speak with you..."
+    old "No, commander, he only requested to speak with you..."
+    new "No, commander, he only requested to speak with you..."
 
-    old "Soldier\" \"Should I tell him to go away?"
-    new "Soldier\" \"Should I tell him to go away?"
+    old "Should I tell him to go away?"
+    new "Should I tell him to go away?"
 
     old "Sarah sighed and cleaned up some of the documents."
     new "Sarah sighed and cleaned up some of the documents."
@@ -73,8 +73,8 @@ translate ru strings:
     old "The soldier nodded, and turned."
     new "The soldier nodded, and turned."
 
-    old "Soldier\" \"You can go in."
-    new "Soldier\" \"You can go in."
+    old "You can go in."
+    new "You can go in."
 
     old "Sarah watched as a large, fat man stumbled into the room."
     new "Sarah watched as a large, fat man stumbled into the room."

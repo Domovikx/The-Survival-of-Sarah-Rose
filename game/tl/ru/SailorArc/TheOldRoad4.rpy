@@ -211,8 +211,8 @@ translate ru strings:
     old "His posture seemed to suggest he was the one in charge."
     new "His posture seemed to suggest he was the one in charge."
 
-    old "Captain\" \"This here bridge belongs to the Elyian Kingdom."
-    new "Captain\" \"This here bridge belongs to the Elyian Kingdom."
+    old "This here bridge belongs to the Elyian Kingdom."
+    new "This here bridge belongs to the Elyian Kingdom."
 
     old "I've never heard of no fucking Elyian Kingdom and I don't quite imagine I care to learn."
     new "I've never heard of no fucking Elyian Kingdom and I don't quite imagine I care to learn."
@@ -220,8 +220,8 @@ translate ru strings:
     old "The captain didn't seem much fazed by Sigmund either."
     new "The captain didn't seem much fazed by Sigmund either."
 
-    old "Captain\" \"The Elyian Kingdom was proclaimed five months ago by King Nathaniel Elyian, Lord of the northern hills, ruler of-"
-    new "Captain\" \"The Elyian Kingdom was proclaimed five months ago by King Nathaniel Elyian, Lord of the northern hills, ruler of-"
+    old "The Elyian Kingdom was proclaimed five months ago by King Nathaniel Elyian, Lord of the northern hills, ruler of-"
+    new "The Elyian Kingdom was proclaimed five months ago by King Nathaniel Elyian, Lord of the northern hills, ruler of-"
 
     old "Sigmund interrupted the man."
     new "Sigmund interrupted the man."
@@ -244,11 +244,11 @@ translate ru strings:
     old "She could feel his eyes linger on her."
     new "She could feel his eyes linger on her."
 
-    old "Captain\" \"Well, I suppose that puts us a bit at odds here."
-    new "Captain\" \"Well, I suppose that puts us a bit at odds here."
+    old "Well, I suppose that puts us a bit at odds here."
+    new "Well, I suppose that puts us a bit at odds here."
 
-    old "Captain\" \"Because you see, the king insists everyone who passes here pays a travel tax."
-    new "Captain\" \"Because you see, the king insists everyone who passes here pays a travel tax."
+    old "Because you see, the king insists everyone who passes here pays a travel tax."
+    new "Because you see, the king insists everyone who passes here pays a travel tax."
 
     old "Sarah could see Sigmund shift in his seat. His blade was not far from his side."
     new "Sarah could see Sigmund shift in his seat. His blade was not far from his side."
@@ -256,8 +256,8 @@ translate ru strings:
     old "How much do you want?"
     new "How much do you want?"
 
-    old "Captain\" \"What are you transporting, anyway?"
-    new "Captain\" \"What are you transporting, anyway?"
+    old "What are you transporting, anyway?"
+    new "What are you transporting, anyway?"
 
     old "Is that any of your concern?"
     new "Is that any of your concern?"
@@ -265,14 +265,11 @@ translate ru strings:
     old "Sarah could see the man get frustrated."
     new "Sarah could see the man get frustrated."
 
-    old "Captain\" \"Out here, whatever I want to be my concern, is my concern. So tell me what is in the wagon before I have my men turn it upside over."
-    new "Captain\" \"Out here, whatever I want to be my concern, is my concern. So tell me what is in the wagon before I have my men turn it upside over."
+    old "Out here, whatever I want to be my concern, is my concern. So tell me what is in the wagon before I have my men turn it upside over."
+    new "Out here, whatever I want to be my concern, is my concern. So tell me what is in the wagon before I have my men turn it upside over."
 
     old "I wouldn't do that."
     new "I wouldn't do that."
-
-    old "Captain\" \"Why not?"
-    new "Captain\" \"Why not?"
 
     old "Because this wagon is loaded up with pyrrite. Enough of it to take out just about everyone and that bridge too."
     new "Because this wagon is loaded up with pyrrite. Enough of it to take out just about everyone and that bridge too."
@@ -289,20 +286,20 @@ translate ru strings:
     old "Passing the ore from hand to hand, and holding it up to the light, Sarah could see the captain was slowly becoming convinced."
     new "Passing the ore from hand to hand, and holding it up to the light, Sarah could see the captain was slowly becoming convinced."
 
-    old "Captain\" \"It sure looks like pyrrite enough to me."
-    new "Captain\" \"It sure looks like pyrrite enough to me."
+    old "It sure looks like pyrrite enough to me."
+    new "It sure looks like pyrrite enough to me."
 
     old "He turned back to face them."
     new "He turned back to face them."
 
-    old "Captain\" \"Still, can't let you just pass by without paying a tax. Orders of the king and all."
-    new "Captain\" \"Still, can't let you just pass by without paying a tax. Orders of the king and all."
+    old "Still, can't let you just pass by without paying a tax. Orders of the king and all."
+    new "Still, can't let you just pass by without paying a tax. Orders of the king and all."
 
     old "Tell me what you want."
     new "Tell me what you want."
 
-    old "Captain\" \"Ten-thousand Lethram shillings."
-    new "Captain\" \"Ten-thousand Lethram shillings."
+    old "Ten-thousand Lethram shillings."
+    new "Ten-thousand Lethram shillings."
 
     old "Even if I had that much on me, I wouldn't give it to you. Name a fair price or fuck off."
     new "Even if I had that much on me, I wouldn't give it to you. Name a fair price or fuck off."
@@ -310,8 +307,8 @@ translate ru strings:
     old "The captain was now getting visibly frustrated."
     new "The captain was now getting visibly frustrated."
 
-    old "Captain\" \"Listen here you vagrant. This is my bridge, and these are my men. You want to get past it, you pay the tax."
-    new "Captain\" \"Listen here you vagrant. This is my bridge, and these are my men. You want to get past it, you pay the tax."
+    old "Listen here you vagrant. This is my bridge, and these are my men. You want to get past it, you pay the tax."
+    new "Listen here you vagrant. This is my bridge, and these are my men. You want to get past it, you pay the tax."
 
     old "Best I can do for you is a hundred Lethram Shillings. Maybe a hundred Mythran Denars on top of that, but that's all the cash we can spare."
     new "Best I can do for you is a hundred Lethram Shillings. Maybe a hundred Mythran Denars on top of that, but that's all the cash we can spare."
@@ -319,8 +316,8 @@ translate ru strings:
     old "Now the captain laughed."
     new "Now the captain laughed."
 
-    old "Captain\" \"That barely pays for me, let alone my men. How am I supposed to feed them if I let you and every other miserable son-of-a-bitch pass for a price like that?"
-    new "Captain\" \"That barely pays for me, let alone my men. How am I supposed to feed them if I let you and every other miserable son-of-a-bitch pass for a price like that?"
+    old "That barely pays for me, let alone my men. How am I supposed to feed them if I let you and every other miserable son-of-a-bitch pass for a price like that?"
+    new "That barely pays for me, let alone my men. How am I supposed to feed them if I let you and every other miserable son-of-a-bitch pass for a price like that?"
 
     old "Is it my concern how you feed your men?"
     new "Is it my concern how you feed your men?"
@@ -328,20 +325,20 @@ translate ru strings:
     old "The man suddenly lowered his voice."
     new "The man suddenly lowered his voice."
 
-    old "Captain\" \"Look, if I take that price, my men will think I'm weak."
-    new "Captain\" \"Look, if I take that price, my men will think I'm weak."
+    old "Look, if I take that price, my men will think I'm weak."
+    new "Look, if I take that price, my men will think I'm weak."
 
-    old "Captain\" \"I'd rather just let them kill you here than take that little money and lose my reputation."
-    new "Captain\" \"I'd rather just let them kill you here than take that little money and lose my reputation."
+    old "I'd rather just let them kill you here than take that little money and lose my reputation."
+    new "I'd rather just let them kill you here than take that little money and lose my reputation."
 
     old "The captain gestured at Sarah."
     new "The captain gestured at Sarah."
 
-    old "Captain\" \"How about the girl?"
-    new "Captain\" \"How about the girl?"
+    old "How about the girl?"
+    new "How about the girl?"
 
-    old "Captain\" \"You hand her over to us for an evening, I bet she can pay off whatever the tax is."
-    new "Captain\" \"You hand her over to us for an evening, I bet she can pay off whatever the tax is."
+    old "You hand her over to us for an evening, I bet she can pay off whatever the tax is."
+    new "You hand her over to us for an evening, I bet she can pay off whatever the tax is."
 
     old "Give yourself over to the soldiers"
     new "Give yourself over to the soldiers"
@@ -397,8 +394,8 @@ translate ru strings:
     old "The captain nods."
     new "The captain nods."
 
-    old "Captain\" \"You got my word on that, girly."
-    new "Captain\" \"You got my word on that, girly."
+    old "You got my word on that, girly."
+    new "You got my word on that, girly."
 
     old "Sarah didn't know if his word was worth much at all, but she had little choice other than to trust him."
     new "Sarah didn't know if his word was worth much at all, but she had little choice other than to trust him."
@@ -415,8 +412,8 @@ translate ru strings:
     old "The man pushed her into one of the larger tents."
     new "The man pushed her into one of the larger tents."
 
-    old "Captain\" \"How about you start by showing me what I just bought?"
-    new "Captain\" \"How about you start by showing me what I just bought?"
+    old "How about you start by showing me what I just bought?"
+    new "How about you start by showing me what I just bought?"
 
     old "She had offered it to him, sure enough, but now the promise suddenly felt very real."
     new "She had offered it to him, sure enough, but now the promise suddenly felt very real."
@@ -427,20 +424,17 @@ translate ru strings:
     old "She saw the man roll his eyes."
     new "She saw the man roll his eyes."
 
-    old "Captain\" \"It will be night soon."
-    new "Captain\" \"It will be night soon."
-
     old "She faced him down."
     new "She faced him down."
 
     old "Soon isn't now."
     new "Soon isn't now."
 
-    old "Captain\" \"Fine, I can be patient till nightfall."
-    new "Captain\" \"Fine, I can be patient till nightfall."
+    old "Fine, I can be patient till nightfall."
+    new "Fine, I can be patient till nightfall."
 
-    old "Captain\" \"But I'm gonna fuck this attitude right out of you."
-    new "Captain\" \"But I'm gonna fuck this attitude right out of you."
+    old "But I'm gonna fuck this attitude right out of you."
+    new "But I'm gonna fuck this attitude right out of you."
 
     old "Sarah watched the man storm out of the tent before she could even respond."
     new "Sarah watched the man storm out of the tent before she could even respond."
@@ -577,8 +571,8 @@ translate ru strings:
     old "The captain walked back into the tent."
     new "The captain walked back into the tent."
 
-    old "Captain\" \"Well, girly, last rays of sun just vanished behind the horizon. Time to pay up."
-    new "Captain\" \"Well, girly, last rays of sun just vanished behind the horizon. Time to pay up."
+    old "Well, girly, last rays of sun just vanished behind the horizon. Time to pay up."
+    new "Well, girly, last rays of sun just vanished behind the horizon. Time to pay up."
 
     old "She saw him realize that she was already naked, his eyes going wide as they roamed across her body."
     new "She saw him realize that she was already naked, his eyes going wide as they roamed across her body."
@@ -589,17 +583,17 @@ translate ru strings:
     old "Sarah turned her eyes low."
     new "Sarah turned her eyes low."
 
-    old "Captain\" \"You can spare me the vain little act."
-    new "Captain\" \"You can spare me the vain little act."
+    old "You can spare me the vain little act."
+    new "You can spare me the vain little act."
 
     old "He walked up closer to her, grabbing her by the chin and forcing her to make eye contact with him."
     new "He walked up closer to her, grabbing her by the chin and forcing her to make eye contact with him."
 
-    old "Captain\" \"Just a few hours ago you were giving me all that lip."
-    new "Captain\" \"Just a few hours ago you were giving me all that lip."
+    old "Just a few hours ago you were giving me all that lip."
+    new "Just a few hours ago you were giving me all that lip."
 
-    old "Captain\" \"Now whose in charge?"
-    new "Captain\" \"Now whose in charge?"
+    old "Now whose in charge?"
+    new "Now whose in charge?"
 
     old "You are..."
     new "You are..."
@@ -607,8 +601,8 @@ translate ru strings:
     old "Sarah softly admitted the truth of her situation to him."
     new "Sarah softly admitted the truth of her situation to him."
 
-    old "Captain\" \"That's right, and I promised I was gonna fuck that attitude out of you. Didn't I?"
-    new "Captain\" \"That's right, and I promised I was gonna fuck that attitude out of you. Didn't I?"
+    old "That's right, and I promised I was gonna fuck that attitude out of you. Didn't I?"
+    new "That's right, and I promised I was gonna fuck that attitude out of you. Didn't I?"
 
     old "A crack rang out across the tent."
     new "A crack rang out across the tent."
@@ -616,8 +610,8 @@ translate ru strings:
     old "Sarah stumbled from the slap that he had delivered across her face."
     new "Sarah stumbled from the slap that he had delivered across her face."
 
-    old "Captain\" \"Answer me when I talk to you."
-    new "Captain\" \"Answer me when I talk to you."
+    old "Answer me when I talk to you."
+    new "Answer me when I talk to you."
 
     old "She felt her cheeks begin to burn."
     new "She felt her cheeks begin to burn."
@@ -625,17 +619,17 @@ translate ru strings:
     old "Yes...yes captain..."
     new "Yes...yes captain..."
 
-    old "Captain\" \"Good, now try and reserve your strength."
-    new "Captain\" \"Good, now try and reserve your strength."
+    old "Good, now try and reserve your strength."
+    new "Good, now try and reserve your strength."
 
     old "Sarah watched as he began taking off his clothes. He was quickly naked, already hard."
     new "Sarah watched as he began taking off his clothes. He was quickly naked, already hard."
 
-    old "Captain\" \"I promised all the boys they'd get a swing at you, and I'm a man of my word."
-    new "Captain\" \"I promised all the boys they'd get a swing at you, and I'm a man of my word."
+    old "I promised all the boys they'd get a swing at you, and I'm a man of my word."
+    new "I promised all the boys they'd get a swing at you, and I'm a man of my word."
 
-    old "Captain\" \"You ever taken thirty cocks in one night?"
-    new "Captain\" \"You ever taken thirty cocks in one night?"
+    old "You ever taken thirty cocks in one night?"
+    new "You ever taken thirty cocks in one night?"
 
     old "Sarah felt her face turn red, but she knew she had to answer him."
     new "Sarah felt her face turn red, but she knew she had to answer him."
@@ -643,14 +637,14 @@ translate ru strings:
     old "No...captain..."
     new "No...captain..."
 
-    old "Captain\" \"Well, guess you'll be one experience richer by the end of tonight then."
-    new "Captain\" \"Well, guess you'll be one experience richer by the end of tonight then."
+    old "Well, guess you'll be one experience richer by the end of tonight then."
+    new "Well, guess you'll be one experience richer by the end of tonight then."
 
     old "He snapped his fingers and pointed towards the ground."
     new "He snapped his fingers and pointed towards the ground."
 
-    old "Captain\" \"Now, get on your hands and knees."
-    new "Captain\" \"Now, get on your hands and knees."
+    old "Now, get on your hands and knees."
+    new "Now, get on your hands and knees."
 
     old "Sarah obeyed his instructions."
     new "Sarah obeyed his instructions."
@@ -667,14 +661,14 @@ translate ru strings:
     old "Pulling on her waist, she could feel him pull her onto the tip of his cock, pressing it up against the entrance of her pussy."
     new "Pulling on her waist, she could feel him pull her onto the tip of his cock, pressing it up against the entrance of her pussy."
 
-    old "Captain\" \"The boys promised me first crack at you for delivering them to you tonight."
-    new "Captain\" \"The boys promised me first crack at you for delivering them to you tonight."
+    old "The boys promised me first crack at you for delivering them to you tonight."
+    new "The boys promised me first crack at you for delivering them to you tonight."
 
     old "She felt him rub the tip of his cock up against her folds."
     new "She felt him rub the tip of his cock up against her folds."
 
-    old "Captain\" \"Don't you think that's fair, girly, that I get to pump you full of cum first?"
-    new "Captain\" \"Don't you think that's fair, girly, that I get to pump you full of cum first?"
+    old "Don't you think that's fair, girly, that I get to pump you full of cum first?"
+    new "Don't you think that's fair, girly, that I get to pump you full of cum first?"
 
     old "Yes...captain..."
     new "Yes...captain..."
@@ -685,9 +679,6 @@ translate ru strings:
     old "Another crack rang out and Sarah winced as she felt her ass begin to burn from the spanking."
     new "Another crack rang out and Sarah winced as she felt her ass begin to burn from the spanking."
 
-    old "Captain\" \"Yes what?"
-    new "Captain\" \"Yes what?"
-
     old "Yes, I think it's fair that you take me first...sir."
     new "Yes, I think it's fair that you take me first...sir."
 
@@ -696,9 +687,6 @@ translate ru strings:
 
     old "She felt a softer slap on her ass."
     new "She felt a softer slap on her ass."
-
-    old "Captain\" \"That's my girl."
-    new "Captain\" \"That's my girl."
 
     old "With a single, powerful thrust, Sarah felt him bury his cock into her."
     new "With a single, powerful thrust, Sarah felt him bury his cock into her."
@@ -730,23 +718,23 @@ translate ru strings:
     old "He was strong. A lot stronger than her, she realized. He kept her extactly in the position that he wanted her to be in."
     new "He was strong. A lot stronger than her, she realized. He kept her extactly in the position that he wanted her to be in."
 
-    old "Captain\" \"Look at you..."
-    new "Captain\" \"Look at you..."
+    old "Look at you..."
+    new "Look at you..."
 
     old "He spoke in between heavy breaths as he continued to thrust into her."
     new "He spoke in between heavy breaths as he continued to thrust into her."
 
-    old "Captain\" \"Where's all that lip gone, huh?"
-    new "Captain\" \"Where's all that lip gone, huh?"
+    old "Where's all that lip gone, huh?"
+    new "Where's all that lip gone, huh?"
 
     old "Sarah felt her ass burn from another spanking. The pain and fire mixed with what she now felt between her legs."
     new "Sarah felt her ass burn from another spanking. The pain and fire mixed with what she now felt between her legs."
 
-    old "Captain\" \"You lost your tongue now?"
-    new "Captain\" \"You lost your tongue now?"
+    old "You lost your tongue now?"
+    new "You lost your tongue now?"
 
-    old "Captain\" \"You were so tough just a few hours ago. My cock make you forget how to talk back?"
-    new "Captain\" \"You were so tough just a few hours ago. My cock make you forget how to talk back?"
+    old "You were so tough just a few hours ago. My cock make you forget how to talk back?"
+    new "You were so tough just a few hours ago. My cock make you forget how to talk back?"
 
     old "She would bear his insults, same as she would bear his use of her body. She could endure."
     new "She would bear his insults, same as she would bear his use of her body. She could endure."
@@ -757,17 +745,17 @@ translate ru strings:
     old "Looking down past her body, she could only see his balls, slapping up against her body with each thrust, the rest of him already inside her."
     new "Looking down past her body, she could only see his balls, slapping up against her body with each thrust, the rest of him already inside her."
 
-    old "Captain\" \"If you wanna tell me anything, I suggest you get it off your chest now."
-    new "Captain\" \"If you wanna tell me anything, I suggest you get it off your chest now."
+    old "If you wanna tell me anything, I suggest you get it off your chest now."
+    new "If you wanna tell me anything, I suggest you get it off your chest now."
 
-    old "Captain\" \"Before long, that mouth of yours is gonna be busy."
-    new "Captain\" \"Before long, that mouth of yours is gonna be busy."
+    old "Before long, that mouth of yours is gonna be busy."
+    new "Before long, that mouth of yours is gonna be busy."
 
     old "Sarah ignored him as best she could."
     new "Sarah ignored him as best she could."
 
-    old "Captain\" \"How about you tell me you love my cock?"
-    new "Captain\" \"How about you tell me you love my cock?"
+    old "How about you tell me you love my cock?"
+    new "How about you tell me you love my cock?"
 
     old "Sarah knew she was never going to say something like that to the man."
     new "Sarah knew she was never going to say something like that to the man."
@@ -787,9 +775,6 @@ translate ru strings:
     old "With each slap, the pain on her ass burned deeper and deeper, echoing out across the rest of her body."
     new "With each slap, the pain on her ass burned deeper and deeper, echoing out across the rest of her body."
 
-    old "Captain\" \"Say it!"
-    new "Captain\" \"Say it!"
-
     old "For a moment more, Sarah tolerated the spankings and the building pain, but each slap grew and grew in intensity."
     new "For a moment more, Sarah tolerated the spankings and the building pain, but each slap grew and grew in intensity."
 
@@ -808,14 +793,8 @@ translate ru strings:
     old "Reactively, Sarah thanked the man in her mind, only to hate herself for ever thinking it."
     new "Reactively, Sarah thanked the man in her mind, only to hate herself for ever thinking it."
 
-    old "Captain\" \"There we go."
-    new "Captain\" \"There we go."
-
-    old "Captain\" \"The night's gonna go a lot easier if you stop with the attitude."
-    new "Captain\" \"The night's gonna go a lot easier if you stop with the attitude."
-
-    old "Captain\" \"Got that?"
-    new "Captain\" \"Got that?"
+    old "The night's gonna go a lot easier if you stop with the attitude."
+    new "The night's gonna go a lot easier if you stop with the attitude."
 
     old "Sarah offered up the words as meekly as she could. Submission, that was what he wanted, and that was what she had to give him."
     new "Sarah offered up the words as meekly as she could. Submission, that was what he wanted, and that was what she had to give him."
@@ -850,11 +829,11 @@ translate ru strings:
     old "She felt her ass burn as he gropped it."
     new "She felt her ass burn as he gropped it."
 
-    old "Captain\" \"Not gonna lie, you're a pretty good fuck."
-    new "Captain\" \"Not gonna lie, you're a pretty good fuck."
+    old "Not gonna lie, you're a pretty good fuck."
+    new "Not gonna lie, you're a pretty good fuck."
 
-    old "Captain\" \"Maybe by the end of the night we can convince you to stay with us."
-    new "Captain\" \"Maybe by the end of the night we can convince you to stay with us."
+    old "Maybe by the end of the night we can convince you to stay with us."
+    new "Maybe by the end of the night we can convince you to stay with us."
 
     old "Sarah shook her head. She knew she had her limits."
     new "Sarah shook her head. She knew she had her limits."
@@ -862,11 +841,11 @@ translate ru strings:
     old "We promised tonight...only tonight..."
     new "We promised tonight...only tonight..."
 
-    old "Captain\" \"Fine. Tonight it is then."
-    new "Captain\" \"Fine. Tonight it is then."
+    old "Fine. Tonight it is then."
+    new "Fine. Tonight it is then."
 
-    old "Captain\" \"In that case, I should make sure to use each of your holes before we part ways."
-    new "Captain\" \"In that case, I should make sure to use each of your holes before we part ways."
+    old "In that case, I should make sure to use each of your holes before we part ways."
+    new "In that case, I should make sure to use each of your holes before we part ways."
 
     old "Sarah cried out as she felt his thumb dig into her asshole."
     new "Sarah cried out as she felt his thumb dig into her asshole."
@@ -874,8 +853,8 @@ translate ru strings:
     old "She felt him twist and bend his finger, Sarah's body twisting in response to his every motion."
     new "She felt him twist and bend his finger, Sarah's body twisting in response to his every motion."
 
-    old "Captain\" \"You'd like that, girly? My cock up your ass?"
-    new "Captain\" \"You'd like that, girly? My cock up your ass?"
+    old "You'd like that, girly? My cock up your ass?"
+    new "You'd like that, girly? My cock up your ass?"
 
     old "Y-y-yes...cap-captain..."
     new "Y-y-yes...cap-captain..."
@@ -886,17 +865,17 @@ translate ru strings:
     old "As suddenly as he had pushed his finger in in, she felt him pull it out again."
     new "As suddenly as he had pushed his finger in in, she felt him pull it out again."
 
-    old "Captain\" \"But, we can see to that later."
-    new "Captain\" \"But, we can see to that later."
+    old "But, we can see to that later."
+    new "But, we can see to that later."
 
-    old "Captain\" \"After all, I've got a taste of you. And knowing what I know about your grade-A cunt, I'd be a terrible captain if I denied my men the same."
-    new "Captain\" \"After all, I've got a taste of you. And knowing what I know about your grade-A cunt, I'd be a terrible captain if I denied my men the same."
+    old "After all, I've got a taste of you. And knowing what I know about your grade-A cunt, I'd be a terrible captain if I denied my men the same."
+    new "After all, I've got a taste of you. And knowing what I know about your grade-A cunt, I'd be a terrible captain if I denied my men the same."
 
     old "Sarah heard him clap his hands."
     new "Sarah heard him clap his hands."
 
-    old "Captain\" \"Men! She's good and ready."
-    new "Captain\" \"Men! She's good and ready."
+    old "Men! She's good and ready."
+    new "Men! She's good and ready."
 
     old "Almost instantly after his command, Sarah saw the entrance to the tent get pulled back."
     new "Almost instantly after his command, Sarah saw the entrance to the tent get pulled back."
@@ -1180,11 +1159,8 @@ translate ru strings:
     old "The captain began to stroke his chin."
     new "The captain began to stroke his chin."
 
-    old "Captain\" \"Huh..."
-    new "Captain\" \"Huh..."
-
-    old "Captain\" \"You know, that might actually work..."
-    new "Captain\" \"You know, that might actually work..."
+    old "You know, that might actually work..."
+    new "You know, that might actually work..."
 
     old "He gestured at some of the other soldiers, ordering them to approach the cart."
     new "He gestured at some of the other soldiers, ordering them to approach the cart."
@@ -1195,14 +1171,14 @@ translate ru strings:
     old "After the captain finished his accounting, he nodded, approvingly."
     new "After the captain finished his accounting, he nodded, approvingly."
 
-    old "Captain\" \"This seems fair."
-    new "Captain\" \"This seems fair."
+    old "This seems fair."
+    new "This seems fair."
 
     old "He waved towards the other men atop the baricade."
     new "He waved towards the other men atop the baricade."
 
-    old "Captain\" \"You can go ahead now, they shouldn't give you no trouble."
-    new "Captain\" \"You can go ahead now, they shouldn't give you no trouble."
+    old "You can go ahead now, they shouldn't give you no trouble."
+    new "You can go ahead now, they shouldn't give you no trouble."
 
     old "Sigmund didn't bother to answer the man, instead forcing the horses back into a trot."
     new "Sigmund didn't bother to answer the man, instead forcing the horses back into a trot."

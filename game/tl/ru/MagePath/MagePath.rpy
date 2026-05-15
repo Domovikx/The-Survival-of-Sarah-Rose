@@ -7,17 +7,17 @@ translate ru strings:
     old "Sarah feels the man's hand snatch her across the mouth, clamping it shut."
     new "Sarah feels the man's hand snatch her across the mouth, clamping it shut."
 
-    old "Brigand\" \"You stupid whore!"
-    new "Brigand\" \"You stupid whore!"
+    old "You stupid whore!"
+    new "You stupid whore!"
 
-    old "Brigand\" \"The city guard barely patrols this part of town."
-    new "Brigand\" \"The city guard barely patrols this part of town."
+    old "The city guard barely patrols this part of town."
+    new "The city guard barely patrols this part of town."
 
-    old "Brigand\" \"Nobody is gonna save you."
-    new "Brigand\" \"Nobody is gonna save you."
+    old "Nobody is gonna save you."
+    new "Nobody is gonna save you."
 
-    old "Brigand\" \"I was gonna be nice to you, but now I think I'll just rape you up against this wall, slit your throat and leave your body for the rats to find."
-    new "Brigand\" \"I was gonna be nice to you, but now I think I'll just rape you up against this wall, slit your throat and leave your body for the rats to find."
+    old "I was gonna be nice to you, but now I think I'll just rape you up against this wall, slit your throat and leave your body for the rats to find."
+    new "I was gonna be nice to you, but now I think I'll just rape you up against this wall, slit your throat and leave your body for the rats to find."
 
     old "Sarah feels herself spun around and violently pushed up against the wall."
     new "Sarah feels herself spun around and violently pushed up against the wall."
@@ -40,8 +40,8 @@ translate ru strings:
     old "What is going on here?"
     new "What is going on here?"
 
-    old "Brigand\" \"None of your business. Get lost if you know what's good for you."
-    new "Brigand\" \"None of your business. Get lost if you know what's good for you."
+    old "None of your business. Get lost if you know what's good for you."
+    new "None of your business. Get lost if you know what's good for you."
 
     old "The man keeps Sarah pinned against the wall."
     new "The man keeps Sarah pinned against the wall."
@@ -61,8 +61,8 @@ translate ru strings:
     old "Let go of her."
     new "Let go of her."
 
-    old "Brigand\" \"Get lost, or I'll knife you too!"
-    new "Brigand\" \"Get lost, or I'll knife you too!"
+    old "Get lost, or I'll knife you too!"
+    new "Get lost, or I'll knife you too!"
 
     old "Suddenly, a bright light cuts through the darkness."
     new "Suddenly, a bright light cuts through the darkness."
@@ -73,8 +73,8 @@ translate ru strings:
     old "I won't warn you again, let go of her."
     new "I won't warn you again, let go of her."
 
-    old "Brigand\" \"You...you're a...fuck this..."
-    new "Brigand\" \"You...you're a...fuck this..."
+    old "You...you're a...fuck this..."
+    new "You...you're a...fuck this..."
 
     old "Sarah feels the man's entire pressure dissapear and hears metal clattering as his dagger falls to the ground."
     new "Sarah feels the man's entire pressure dissapear and hears metal clattering as his dagger falls to the ground."

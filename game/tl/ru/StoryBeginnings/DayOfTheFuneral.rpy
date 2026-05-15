@@ -73,14 +73,14 @@ translate ru strings:
     old "Not before long, Sarah and Thomas found themselves in the middle of the great hall, walking in linked arms, floating from one group of nobles to the next."
     new "Вскоре Сара и Томас оказались в центре большого зала, идя под руку, переходя от одной группы знати к другой."
 
-    old "Nobleman\" \"Our condolences."
-    new "Дворянин\" \"Наши соболезнования."
+    old "Our condolences."
+    new "Our condolences."
 
-    old "Noblewoman\" \"He was a great man."
-    new "Дворянка\" \"Он был великим человеком."
+    old "He was a great man."
+    new "He was a great man."
 
-    old "Ambassador\" \"He will be missed."
-    new "Посол\" \"Его будет не хватать."
+    old "He will be missed."
+    new "He will be missed."
 
     old "Sarah didn't want to sound cynical, she was sure that many of them truly meant what they said. It just seemed like words, not just these words but all words, seemed so empty right now."
     new "Сара не хотела звучать цинично — она была уверена, что многие из них действительно так думали. Просто слова, не только эти, но любые слова, казались сейчас такими пустыми."
@@ -96,3 +96,4 @@ translate ru strings:
 
     old "Fresh air, that's what she needed."
     new "Свежий воздух — вот что ей было нужно."
+

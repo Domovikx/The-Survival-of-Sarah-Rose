@@ -229,8 +229,8 @@ translate ru strings:
     old "With her hands on her hips, she slid them past her body, pulling off her panties."
     new "Опустив руки к бёдрам, она скользнула ими по телу, стягивая трусики."
 
-    old "As she did so, she watched the of the orc's member, already impressive, grow even larger."
-    new "Делая это, она видела, как член орка, уже внушительный, становится ещё больше."
+    old "As she did so, she watched the orc's member, already impressive, grow even larger."
+    new "As she did so, she watched the orc's member, already impressive, grow even larger."
 
     old "Naked, she approach Atilla. She walked close enough to where she could reach out and touch his cock."
     new "Обнажённая, она подошла к Атилле — достаточно близко, чтобы протянуть руку и коснуться его члена."
@@ -516,3 +516,4 @@ translate ru strings:
 
     old "Sarah studiously followed him and absorbed his lessons."
     new "Сара прилежно следовала за ним и впитывала его уроки."
+

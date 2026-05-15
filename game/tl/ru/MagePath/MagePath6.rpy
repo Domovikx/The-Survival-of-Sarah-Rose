@@ -241,11 +241,11 @@ translate ru strings:
     old "Sarah had never seen the Shah Mahda before, but she could deduce from the man's posture that he must be the one."
     new "Sarah had never seen the Shah Mahda before, but she could deduce from the man's posture that he must be the one."
 
-    old "Servant\" \"All rise!"
-    new "Servant\" \"All rise!"
+    old "All rise!"
+    new "All rise!"
 
-    old "Servant\" \"You stand in the presence of the avatar of the singular god. Eldest in the line of Bagrad. Shah Mahda!"
-    new "Servant\" \"You stand in the presence of the avatar of the singular god. Eldest in the line of Bagrad. Shah Mahda!"
+    old "You stand in the presence of the avatar of the singular god. Eldest in the line of Bagrad. Shah Mahda!"
+    new "You stand in the presence of the avatar of the singular god. Eldest in the line of Bagrad. Shah Mahda!"
 
     old "Several other servants struck drums to put force to the announcement."
     new "Several other servants struck drums to put force to the announcement."
@@ -508,8 +508,8 @@ translate ru strings:
     old "A servant came running up."
     new "A servant came running up."
 
-    old "Servant\" \"Esteemed guest, your presence is request in the council room."
-    new "Servant\" \"Esteemed guest, your presence is request in the council room."
+    old "Esteemed guest, your presence is request in the council room."
+    new "Esteemed guest, your presence is request in the council room."
 
     old "Xan nodded in acknowledgement."
     new "Xan nodded in acknowledgement."

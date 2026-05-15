@@ -619,8 +619,8 @@ translate ru strings:
     old "It wasn't long before she could hear the voices."
     new "It wasn't long before she could hear the voices."
 
-    old "Soldier\" \"Watch it. I feel teeth again and you'll regret it."
-    new "Soldier\" \"Watch it. I feel teeth again and you'll regret it."
+    old "Watch it. I feel teeth again and you'll regret it."
+    new "Watch it. I feel teeth again and you'll regret it."
 
     old "Sarah walked up towards where she heard the voices."
     new "Sarah walked up towards where she heard the voices."
@@ -634,8 +634,8 @@ translate ru strings:
     old "Her head bobbed up and down, leaving little confusion in Sarah's mind as to what was going on here."
     new "Her head bobbed up and down, leaving little confusion in Sarah's mind as to what was going on here."
 
-    old "Soldier\" \"Who the fuck is that?"
-    new "Soldier\" \"Who the fuck is that?"
+    old "Who the fuck is that?"
+    new "Who the fuck is that?"
 
     old "The slave woman tried to turn her head, but the soldier kept his grip on her hair, forcing her in place."
     new "The slave woman tried to turn her head, but the soldier kept his grip on her hair, forcing her in place."
@@ -646,20 +646,20 @@ translate ru strings:
     old "Sarah knew that as one of only very few female commanders, she didn't need an introduction."
     new "Sarah knew that as one of only very few female commanders, she didn't need an introduction."
 
-    old "Soldier\" \"Commander...I...you seem to have caught me with my pants down."
-    new "Soldier\" \"Commander...I...you seem to have caught me with my pants down."
+    old "Commander...I...you seem to have caught me with my pants down."
+    new "Commander...I...you seem to have caught me with my pants down."
 
     old "Yes, I can see that. You think this is fitting of a soldier in our company?"
     new "Yes, I can see that. You think this is fitting of a soldier in our company?"
 
-    old "Soldier\" \"Commander...it's just some fun with one of the girls from Bagrad. Nothing serious."
-    new "Soldier\" \"Commander...it's just some fun with one of the girls from Bagrad. Nothing serious."
+    old "Commander...it's just some fun with one of the girls from Bagrad. Nothing serious."
+    new "Commander...it's just some fun with one of the girls from Bagrad. Nothing serious."
 
     old "She saw him turn his attention back to the woman."
     new "She saw him turn his attention back to the woman."
 
-    old "Soldier\" \"And I didn't tell you to stop, did I? Get back to it."
-    new "Soldier\" \"And I didn't tell you to stop, did I? Get back to it."
+    old "And I didn't tell you to stop, did I? Get back to it."
+    new "And I didn't tell you to stop, did I? Get back to it."
 
     old "The slave woman dutifully followed his order. By now, she likely had long stopped resisting. It was easier that way."
     new "The slave woman dutifully followed his order. By now, she likely had long stopped resisting. It was easier that way."
@@ -670,14 +670,14 @@ translate ru strings:
     old "The soldier looked at her, genuinely confused."
     new "The soldier looked at her, genuinely confused."
 
-    old "Soldier\" \"Is...this a joke, commander, cause I don't get it."
-    new "Soldier\" \"Is...this a joke, commander, cause I don't get it."
+    old "Is...this a joke, commander, cause I don't get it."
+    new "Is...this a joke, commander, cause I don't get it."
 
     old "This isn't a joke, let the woman go."
     new "This isn't a joke, let the woman go."
 
-    old "Soldier\" \"She's a slave, I found and caught her myself. This is my right, no less than I have a right to any loot I can get."
-    new "Soldier\" \"She's a slave, I found and caught her myself. This is my right, no less than I have a right to any loot I can get."
+    old "She's a slave, I found and caught her myself. This is my right, no less than I have a right to any loot I can get."
+    new "She's a slave, I found and caught her myself. This is my right, no less than I have a right to any loot I can get."
 
     old "No, she isn't. She's a person, and we don't permit slavery in this mercenary company."
     new "No, she isn't. She's a person, and we don't permit slavery in this mercenary company."
@@ -685,8 +685,8 @@ translate ru strings:
     old "The soldier laughed."
     new "The soldier laughed."
 
-    old "Soldier\" \"Have you walked around the camp? There's plenty of girls out there like this one."
-    new "Soldier\" \"Have you walked around the camp? There's plenty of girls out there like this one."
+    old "Have you walked around the camp? There's plenty of girls out there like this one."
+    new "Have you walked around the camp? There's plenty of girls out there like this one."
 
     old "Sarah took another step forward."
     new "Sarah took another step forward."
@@ -697,8 +697,8 @@ translate ru strings:
     old "The soldier grunted."
     new "The soldier grunted."
 
-    old "Soldier\" \"But...she already got me rock hard. Can't you at least let her finish the job she started?"
-    new "Soldier\" \"But...she already got me rock hard. Can't you at least let her finish the job she started?"
+    old "But...she already got me rock hard. Can't you at least let her finish the job she started?"
+    new "But...she already got me rock hard. Can't you at least let her finish the job she started?"
 
     old "Sarah grabbed the soldier by his collar and pulled him down."
     new "Sarah grabbed the soldier by his collar and pulled him down."
@@ -709,8 +709,8 @@ translate ru strings:
     old "Your dick is the least of my trouble. You wanna get off, go find and fuck a hole in the ground, you're done here, understand?"
     new "Your dick is the least of my trouble. You wanna get off, go find and fuck a hole in the ground, you're done here, understand?"
 
-    old "Soldier\" \"Y-y-yes, commander!"
-    new "Soldier\" \"Y-y-yes, commander!"
+    old "Y-y-yes, commander!"
+    new "Y-y-yes, commander!"
 
     old "The soldier stumbled and crawled as he made his way back to the camp."
     new "The soldier stumbled and crawled as he made his way back to the camp."
@@ -811,14 +811,14 @@ translate ru strings:
     old "Sarah stepped forward, closer."
     new "Sarah stepped forward, closer."
 
-    old "Soldier\" \"Commander...it's just some fun with one of the girls from Bagrad. Nothing to worry about."
-    new "Soldier\" \"Commander...it's just some fun with one of the girls from Bagrad. Nothing to worry about."
+    old "Commander...it's just some fun with one of the girls from Bagrad. Nothing to worry about."
+    new "Commander...it's just some fun with one of the girls from Bagrad. Nothing to worry about."
 
-    old "Soldier\" \"Have you walked around the camp? There's a hundred girls out there like this one."
-    new "Soldier\" \"Have you walked around the camp? There's a hundred girls out there like this one."
+    old "Have you walked around the camp? There's a hundred girls out there like this one."
+    new "Have you walked around the camp? There's a hundred girls out there like this one."
 
-    old "Soldier\" \"But...my cock's already rock hard. Can't you at least let her finish the job?"
-    new "Soldier\" \"But...my cock's already rock hard. Can't you at least let her finish the job?"
+    old "But...my cock's already rock hard. Can't you at least let her finish the job?"
+    new "But...my cock's already rock hard. Can't you at least let her finish the job?"
 
     old "As Sarah returned to the campfire and sat back down, she saw hollow faces looking back at her."
     new "As Sarah returned to the campfire and sat back down, she saw hollow faces looking back at her."

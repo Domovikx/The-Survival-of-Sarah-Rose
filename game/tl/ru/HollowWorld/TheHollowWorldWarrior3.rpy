@@ -52,8 +52,8 @@ translate ru strings:
     old "Sarah leaned to the edge of the wagon."
     new "Sarah leaned to the edge of the wagon."
 
-    old "Soldier\" \"General Vaelen requests your immediate presence at the front of the convoy."
-    new "Soldier\" \"General Vaelen requests your immediate presence at the front of the convoy."
+    old "General Vaelen requests your immediate presence at the front of the convoy."
+    new "General Vaelen requests your immediate presence at the front of the convoy."
 
     old "Did he say what it was about?"
     new "Did he say what it was about?"
@@ -61,8 +61,8 @@ translate ru strings:
     old "The soldier shook his head."
     new "The soldier shook his head."
 
-    old "Soldier\" \"No, commander, I was only instructed to inform you."
-    new "Soldier\" \"No, commander, I was only instructed to inform you."
+    old "No, commander, I was only instructed to inform you."
+    new "No, commander, I was only instructed to inform you."
 
     old "I understand. I'll be there in a moment."
     new "I understand. I'll be there in a moment."

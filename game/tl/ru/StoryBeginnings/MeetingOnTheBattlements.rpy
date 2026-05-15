@@ -222,3 +222,4 @@ translate ru strings:
 
     old "Sarah turned and took her leave."
     new "Сара развернулась и ушла."
+

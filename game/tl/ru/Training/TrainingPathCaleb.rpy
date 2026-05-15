@@ -201,3 +201,4 @@ translate ru strings:
 
     old "Walking back to the tent, the three found themselves lost in deep conversation."
     new "Возвращаясь в палатку, все трое увлеклись глубоким разговором."
+

@@ -7,8 +7,8 @@ translate ru strings:
     old "Sarah woke early the next morning at the sound of guard calls."
     new "Sarah woke early the next morning at the sound of guard calls."
 
-    old "Guard\" \"WAKE UP! BREAKFAST TIME!"
-    new "Guard\" \"WAKE UP! BREAKFAST TIME!"
+    old "WAKE UP! BREAKFAST TIME!"
+    new "WAKE UP! BREAKFAST TIME!"
 
     old "If not for the fact that the guard had announced the time, Sarah doubted she would have known the time at all."
     new "If not for the fact that the guard had announced the time, Sarah doubted she would have known the time at all."

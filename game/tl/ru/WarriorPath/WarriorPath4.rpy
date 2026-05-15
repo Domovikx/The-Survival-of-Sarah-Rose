@@ -325,8 +325,8 @@ translate ru strings:
     old "For me and my company, it was an honour simply to fight besides you!"
     new "For me and my company, it was an honour simply to fight besides you!"
 
-    old "Soldier\" \"We did most of the real fighting!"
-    new "Soldier\" \"We did most of the real fighting!"
+    old "We did most of the real fighting!"
+    new "We did most of the real fighting!"
 
     old "Some laughter broke out, but Vaelen didn't let the interruption break his flow."
     new "Some laughter broke out, but Vaelen didn't let the interruption break his flow."

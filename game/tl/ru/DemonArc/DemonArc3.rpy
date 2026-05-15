@@ -67,8 +67,8 @@ translate ru strings:
     old "Did you get some sleep? I didn't hear you come in."
     new "Ты поспала? Я не слышала, как ты вошла."
 
-    old "Yeah, as good as I could get, all things considering."
-    new "Да, насколько это было возможно, учитывая обстоятельства."
+    old "Yeah, as good as I could get, all things considered."
+    new "Yeah, as good as I could get, all things considered."
 
     old "Yeah, sorry about the hay...that was all I could find for now."
     new "Да, прости за сено... это всё, что я смогла найти."
@@ -729,3 +729,4 @@ translate ru strings:
 
     old "Now, bend over."
     new "А теперь нагнись."
+

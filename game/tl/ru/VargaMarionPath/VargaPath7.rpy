@@ -286,8 +286,8 @@ translate ru strings:
     old "The soldiers threw the girl down in front of her and Varga, landing in the mud, the young woman's clothes were caked in it."
     new "The soldiers threw the girl down in front of her and Varga, landing in the mud, the young woman's clothes were caked in it."
 
-    old "Soldier\" \"Your highness, we caught this one after she just hurled a rock at us. What do you want us to do with her?"
-    new "Soldier\" \"Your highness, we caught this one after she just hurled a rock at us. What do you want us to do with her?"
+    old "Your highness, we caught this one after she just hurled a rock at us. What do you want us to do with her?"
+    new "Your highness, we caught this one after she just hurled a rock at us. What do you want us to do with her?"
 
     old "Sarah could hear the murmurs spread through the crowd."
     new "Sarah could hear the murmurs spread through the crowd."
@@ -340,8 +340,8 @@ translate ru strings:
     old "Release her."
     new "Release her."
 
-    old "Soldier\" \"Yes, Princess."
-    new "Soldier\" \"Yes, Princess."
+    old "Yes, Princess."
+    new "Yes, Princess."
 
     old "They honored her command, but Sarah could see she had lost some of their respect."
     new "They honored her command, but Sarah could see she had lost some of their respect."
@@ -400,14 +400,14 @@ translate ru strings:
     old "Armsman!"
     new "Armsman!"
 
-    old "Soldier\" \"Yes, Princess?"
-    new "Soldier\" \"Yes, Princess?"
+    old "Yes, Princess?"
+    new "Yes, Princess?"
 
     old "Strip this woman, tie her to a pole, and flog her in the square."
     new "Strip this woman, tie her to a pole, and flog her in the square."
 
-    old "Soldier\" \"As you command!"
-    new "Soldier\" \"As you command!"
+    old "As you command!"
+    new "As you command!"
 
     old "Sarah could see the attitude of her soldiers shift. They saw her as having their backs."
     new "Sarah could see the attitude of her soldiers shift. They saw her as having their backs."
@@ -484,8 +484,8 @@ translate ru strings:
     old "Take her down and mend her wounds."
     new "Take her down and mend her wounds."
 
-    old "Soldier\" \"At once, my princess!"
-    new "Soldier\" \"At once, my princess!"
+    old "At once, my princess!"
+    new "At once, my princess!"
 
     old "Moving as one, the soldiers easily untied the young woman and carefully placed her on a stretcher, applying bandages to the very wounds they had just caused."
     new "Moving as one, the soldiers easily untied the young woman and carefully placed her on a stretcher, applying bandages to the very wounds they had just caused."

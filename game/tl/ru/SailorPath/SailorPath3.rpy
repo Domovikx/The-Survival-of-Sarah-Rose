@@ -379,9 +379,6 @@ translate ru strings:
     old "Her voice echoed out across the void."
     new "Her voice echoed out across the void."
 
-    old "Voice\" \"Sarah..."
-    new "Voice\" \"Sarah..."
-
     old "A voice called out to her from where the docks were."
     new "A voice called out to her from where the docks were."
 
@@ -391,8 +388,8 @@ translate ru strings:
     old "She found herself in equal measure entranced and afraid."
     new "She found herself in equal measure entranced and afraid."
 
-    old "Voice\" \"In Rahayal, I wait for you."
-    new "Voice\" \"In Rahayal, I wait for you."
+    old "In Rahayal, I wait for you."
+    new "In Rahayal, I wait for you."
 
     old "Who are you?"
     new "Who are you?"
@@ -400,8 +397,8 @@ translate ru strings:
     old "Only silence answered her."
     new "Only silence answered her."
 
-    old "Voice\" \"I will wait for you by the dark fountain."
-    new "Voice\" \"I will wait for you by the dark fountain."
+    old "I will wait for you by the dark fountain."
+    new "I will wait for you by the dark fountain."
 
     old "As sudden as the world had been drained of life, so quickly did it now rush full of it."
     new "As sudden as the world had been drained of life, so quickly did it now rush full of it."

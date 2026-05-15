@@ -262,9 +262,6 @@ translate ru strings:
     old "Solid, despite their seeming rust."
     new "Крепкие, несмотря на кажущуюся ржавчину."
 
-    old "Voice"
-    new "Голос"
-
     old "No need to bother with that. Nothing your or I can do will break those bars."
     new "Не стоит беспокоиться. Ни ты, ни я не сможем сломать эти прутья."
 

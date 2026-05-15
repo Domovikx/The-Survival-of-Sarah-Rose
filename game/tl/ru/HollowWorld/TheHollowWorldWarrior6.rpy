@@ -679,56 +679,56 @@ translate ru strings:
     old "And the world went black."
     new "And the world went black."
 
-    old "Voice\" \"You're close."
-    new "Voice\" \"You're close."
+    old "You're close."
+    new "You're close."
 
-    old "Voice\" \"You know me already."
-    new "Voice\" \"You know me already."
+    old "You know me already."
+    new "You know me already."
 
-    old "Voice\" \"You are so very close now."
-    new "Voice\" \"You are so very close now."
+    old "You are so very close now."
+    new "You are so very close now."
 
     old "Tell me when this torture will end."
     new "Tell me when this torture will end."
 
-    old "Voice\" \"So very soon."
-    new "Voice\" \"So very soon."
+    old "So very soon."
+    new "So very soon."
 
-    old "Voice\" \"I have carried them to me, and they have carried you to me."
-    new "Voice\" \"I have carried them to me, and they have carried you to me."
+    old "I have carried them to me, and they have carried you to me."
+    new "I have carried them to me, and they have carried you to me."
 
-    old "Voice\" \"By the torture of the desert, I have broken them, and they are so near to madness."
-    new "Voice\" \"By the torture of the desert, I have broken them, and they are so near to madness."
+    old "By the torture of the desert, I have broken them, and they are so near to madness."
+    new "By the torture of the desert, I have broken them, and they are so near to madness."
 
-    old "Voice\" \"For only when they break, will they be ready."
-    new "Voice\" \"For only when they break, will they be ready."
+    old "For only when they break, will they be ready."
+    new "For only when they break, will they be ready."
 
-    old "Voice\" \"Ready to pass from one hand to another."
-    new "Voice\" \"Ready to pass from one hand to another."
+    old "Ready to pass from one hand to another."
+    new "Ready to pass from one hand to another."
 
     old "What...what hand?"
     new "What...what hand?"
 
-    old "Voice\" \"Yours..."
-    new "Voice\" \"Yours..."
+    old "Yours..."
+    new "Yours..."
 
     old "I don't understand..."
     new "I don't understand..."
 
-    old "Voice\" \"Nor will you have to."
-    new "Voice\" \"Nor will you have to."
+    old "Nor will you have to."
+    new "Nor will you have to."
 
-    old "Voice\" \"Seize upon the blade in your scabbard."
-    new "Voice\" \"Seize upon the blade in your scabbard."
+    old "Seize upon the blade in your scabbard."
+    new "Seize upon the blade in your scabbard."
 
-    old "Voice\" \"Tread forward upon the broken soil ahead of you, and plunge the blade into the earth."
-    new "Voice\" \"Tread forward upon the broken soil ahead of you, and plunge the blade into the earth."
+    old "Tread forward upon the broken soil ahead of you, and plunge the blade into the earth."
+    new "Tread forward upon the broken soil ahead of you, and plunge the blade into the earth."
 
-    old "Voice\" \"I have readied the land and the people for your miracle, and they shall bear witness and their minds shall make you holy."
-    new "Voice\" \"I have readied the land and the people for your miracle, and they shall bear witness and their minds shall make you holy."
+    old "I have readied the land and the people for your miracle, and they shall bear witness and their minds shall make you holy."
+    new "I have readied the land and the people for your miracle, and they shall bear witness and their minds shall make you holy."
 
-    old "Voice\" \"And then they shall pass from his hands to yours, willingly."
-    new "Voice\" \"And then they shall pass from his hands to yours, willingly."
+    old "And then they shall pass from his hands to yours, willingly."
+    new "And then they shall pass from his hands to yours, willingly."
 
     old "Sarah felt tears streak past her face."
     new "Sarah felt tears streak past her face."
@@ -736,8 +736,8 @@ translate ru strings:
     old "Perhaps she had gone mad. She wouldn't have been the first."
     new "Perhaps she had gone mad. She wouldn't have been the first."
 
-    old "Voice\" \"SEIZE THE SWORD AND GORE THE EARTH!!!"
-    new "Voice\" \"SEIZE THE SWORD AND GORE THE EARTH!!!"
+    old "SEIZE THE SWORD AND GORE THE EARTH!!!"
+    new "SEIZE THE SWORD AND GORE THE EARTH!!!"
 
     old "As the voice rushed into her mind, pounding in her head as loudly as a thunderstorm, the world followed."
     new "As the voice rushed into her mind, pounding in her head as loudly as a thunderstorm, the world followed."

@@ -55,8 +55,8 @@ translate ru strings:
     old "The violent sounds grew louder and louder as they came nearer."
     new "The violent sounds grew louder and louder as they came nearer."
 
-    old "Guard\" \"Sir!"
-    new "Guard\" \"Sir!"
+    old "Sir!"
+    new "Sir!"
 
     old "Sarah could hear his voice so close, as if he was right next to her."
     new "Sarah could hear his voice so close, as if he was right next to her."
@@ -67,8 +67,8 @@ translate ru strings:
     old "This had been a mistake."
     new "This had been a mistake."
 
-    old "Guard\" \"There's a tent here!"
-    new "Guard\" \"There's a tent here!"
+    old "There's a tent here!"
+    new "There's a tent here!"
 
     old "The sounds of more plated boots, drawing closer."
     new "The sounds of more plated boots, drawing closer."
@@ -133,14 +133,14 @@ translate ru strings:
     old "With unstoppable force, Sarah felt herself pinned up against the ground."
     new "With unstoppable force, Sarah felt herself pinned up against the ground."
 
-    old "Guard\" \"Struggle some more and I'll break you arm, rat!"
-    new "Guard\" \"Struggle some more and I'll break you arm, rat!"
+    old "Struggle some more and I'll break you arm, rat!"
+    new "Struggle some more and I'll break you arm, rat!"
 
     old "She could feel the breath escape her lungs as he pushed her harder up against the wall."
     new "She could feel the breath escape her lungs as he pushed her harder up against the wall."
 
-    old "Guard\" \"They're gonna hang you for this, thief."
-    new "Guard\" \"They're gonna hang you for this, thief."
+    old "They're gonna hang you for this, thief."
+    new "They're gonna hang you for this, thief."
 
     old "Sarah wanted to scream. Cry. Beg."
     new "Sarah wanted to scream. Cry. Beg."
@@ -210,9 +210,6 @@ translate ru strings:
 
     old "Guard Captain\" \"You're in a lot of trouble."
     new "Guard Captain\" \"You're in a lot of trouble."
-
-    old "Sir!"
-    new "Sir!"
 
     old "I...I don't know what this is about, but I promise you, this is a mistake!"
     new "I...I don't know what this is about, but I promise you, this is a mistake!"
@@ -327,6 +324,9 @@ translate ru strings:
 
     old "She might send Alaric to prison for no reason at all, just because she got scared."
     new "She might send Alaric to prison for no reason at all, just because she got scared."
+
+    old "Sarah's mind raced."
+    new "Мысли Сары метались."
 
     old "Guard Captain\" \"Well? You got an answer for me, girly?"
     new "Guard Captain\" \"Well? You got an answer for me, girly?"

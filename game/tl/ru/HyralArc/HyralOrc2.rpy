@@ -91,9 +91,6 @@ translate ru strings:
     old "Whatever the reason, she could not deny the fact of what she saw."
     new "Какова бы ни была причина, она не могла отрицать того, что видела."
 
-    old "Orc"
-    new "Орк"
-
     old "Mouth! Mouth!"
     new "Рот! Рот!"
 
@@ -163,7 +160,6 @@ translate ru strings:
     old "A large orc stood near the cage, hitting the bars with a stick."
     new "Большой орк стоял у клетки, ударяя по прутьям палкой."
 
-
     old "You! Come!"
     new "Ты! Иди!"
 
@@ -190,7 +186,6 @@ translate ru strings:
 
     old "The orc that had fetched her, pushed a plate into her hand."
     new "Орк, что привёл её, всунул ей в руку тарелку."
-
 
     old "You. Serve."
     new "Ты. Обслуживать."
@@ -297,9 +292,6 @@ translate ru strings:
     old "Gorak leaned close and suddenly spoke to her in a harsh whisper."
     new "Горак наклонился и заговорил с ней резким шёпотом."
 
-    old "Gorak"
-    new "Горак"
-
     old "You should feel honored."
     new "Ты должна чувствовать честь."
 
@@ -309,10 +301,8 @@ translate ru strings:
     old "Honored? What...what do you mean?"
     new "Честь? Что... ты имеешь в виду?"
 
-
     old "You are a valuable prize. Our clan has grown weak these years and we do not often have spoils from raids."
     new "Ты ценный приз. Наш клан ослабел, и у нас редко бывают трофеи."
-
 
     old "You are a rare exception."
     new "Ты редкое исключение."
@@ -320,14 +310,11 @@ translate ru strings:
     old "He gestured at the roaring orc crowd."
     new "Он указал на ревущую толпу орков."
 
-
     old "I could have taken you for myself, but a good chieftain must share in his wealth."
     new "Я мог взять тебя себе, но хороший вождь должен делиться богатством."
 
-
     old "I have organized a tournament in your name."
     new "Я организовал турнир в твою честь."
-
 
     old "The winner will have you as his wife."
     new "Победитель получит тебя в жёны."

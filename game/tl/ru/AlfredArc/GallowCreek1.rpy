@@ -73,8 +73,8 @@ translate ru strings:
     old "Just as she was taking it all in, she heard a voice."
     new "Just as she was taking it all in, she heard a voice."
 
-    old "Voice\" \"Oy!"
-    new "Voice\" \"Oy!"
+    old "Oy!"
+    new "Oy!"
 
     old "Sarah turned, startled."
     new "Sarah turned, startled."
@@ -310,11 +310,11 @@ translate ru strings:
     old "Suddenly, another voice called out."
     new "Suddenly, another voice called out."
 
-    old "Voice\" \"Who is that?"
-    new "Voice\" \"Who is that?"
+    old "Who is that?"
+    new "Who is that?"
 
-    old "Voice\" \"That you, Marius?"
-    new "Voice\" \"That you, Marius?"
+    old "That you, Marius?"
+    new "That you, Marius?"
 
     old "No worries, just me dad!"
     new "No worries, just me dad!"

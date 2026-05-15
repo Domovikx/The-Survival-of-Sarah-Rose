@@ -136,8 +136,8 @@ translate ru strings:
     old "A voice broke snapped Sarah from her stunned condition."
     new "A voice broke snapped Sarah from her stunned condition."
 
-    old "Official\" \"Work! Work!"
-    new "Official\" \"Work! Work!"
+    old "Work! Work!"
+    new "Work! Work!"
 
     old "Sarah turned to look at the man shouting."
     new "Sarah turned to look at the man shouting."
@@ -151,14 +151,14 @@ translate ru strings:
     old "Sarah walked towards them."
     new "Sarah walked towards them."
 
-    old "Official\" \"We're looking for workers, you got a pair of hands that work, we got work!"
-    new "Official\" \"We're looking for workers, you got a pair of hands that work, we got work!"
+    old "We're looking for workers, you got a pair of hands that work, we got work!"
+    new "We're looking for workers, you got a pair of hands that work, we got work!"
 
     old "Sarah pressed through the crowd to get closer to the man."
     new "Sarah pressed through the crowd to get closer to the man."
 
-    old "Slave\" \"I can work!"
-    new "Slave\" \"I can work!"
+    old "I can work!"
+    new "I can work!"
 
     old "She heard a man, bound in iron, call out."
     new "She heard a man, bound in iron, call out."
@@ -166,23 +166,23 @@ translate ru strings:
     old "The official shook his head."
     new "The official shook his head."
 
-    old "Official\" \"No slaves, not for this job. Freemen and Freewomen only."
-    new "Official\" \"No slaves, not for this job. Freemen and Freewomen only."
+    old "No slaves, not for this job. Freemen and Freewomen only."
+    new "No slaves, not for this job. Freemen and Freewomen only."
 
-    old "Woman\" \"What's the work?"
-    new "Woman\" \"What's the work?"
+    old "What's the work?"
+    new "What's the work?"
 
     old "More voices called out, asking questions."
     new "More voices called out, asking questions."
 
-    old "Official\" \"One at a time, please!"
-    new "Official\" \"One at a time, please!"
+    old "One at a time, please!"
+    new "One at a time, please!"
 
     old "The crowd seemed to quiet down a bit."
     new "The crowd seemed to quiet down a bit."
 
-    old "Official\" \"I'm looking for people able to do servant work. House cleaning, cooking, basic skills."
-    new "Official\" \"I'm looking for people able to do servant work. House cleaning, cooking, basic skills."
+    old "I'm looking for people able to do servant work. House cleaning, cooking, basic skills."
+    new "I'm looking for people able to do servant work. House cleaning, cooking, basic skills."
 
     old "Sarah thought about it."
     new "Sarah thought about it."
@@ -193,23 +193,23 @@ translate ru strings:
     old "Then again, she did imagine she'd able to learn it quickly enough."
     new "Then again, she did imagine she'd able to learn it quickly enough."
 
-    old "Man\" \"What's the catch?"
-    new "Man\" \"What's the catch?"
+    old "What's the catch?"
+    new "What's the catch?"
 
     old "The official seemed to suddenly become nervous."
     new "The official seemed to suddenly become nervous."
 
-    old "Official\" \"No catch at all. Fair work for fair pay!"
-    new "Official\" \"No catch at all. Fair work for fair pay!"
+    old "No catch at all. Fair work for fair pay!"
+    new "No catch at all. Fair work for fair pay!"
 
-    old "Woman\" \"Where?"
-    new "Woman\" \"Where?"
+    old "Where?"
+    new "Where?"
 
-    old "Official\" \"Where? What does that matter! A servant in one house is a servant in another, no?!"
-    new "Official\" \"Where? What does that matter! A servant in one house is a servant in another, no?!"
+    old "Where? What does that matter! A servant in one house is a servant in another, no?!"
+    new "Where? What does that matter! A servant in one house is a servant in another, no?!"
 
-    old "Official\" \"It shouldn't matter where!"
-    new "Official\" \"It shouldn't matter where!"
+    old "It shouldn't matter where!"
+    new "It shouldn't matter where!"
 
     old "The crowd become more unruly, sensing that something was up."
     new "The crowd become more unruly, sensing that something was up."
@@ -220,11 +220,8 @@ translate ru strings:
     old "The official threw up hands hands."
     new "The official threw up hands hands."
 
-    old "Official\" \"Fine!"
-    new "Official\" \"Fine!"
-
-    old "Official\" \"The positions open are for servants at the Estate of the honourable Gilead."
-    new "Official\" \"The positions open are for servants at the Estate of the honourable Gilead."
+    old "The positions open are for servants at the Estate of the honourable Gilead."
+    new "The positions open are for servants at the Estate of the honourable Gilead."
 
     old "Hearing the last word, the crowd seemed to explode in yelling and cursing."
     new "Hearing the last word, the crowd seemed to explode in yelling and cursing."
@@ -241,20 +238,20 @@ translate ru strings:
     old "Why are you leaving?"
     new "Why are you leaving?"
 
-    old "Woman\" \"Cause you'd be mad to be workin at that freak's Estate."
-    new "Woman\" \"Cause you'd be mad to be workin at that freak's Estate."
+    old "Cause you'd be mad to be workin at that freak's Estate."
+    new "Cause you'd be mad to be workin at that freak's Estate."
 
     old "Mad? Why?"
     new "Mad? Why?"
 
-    old "Woman\" \"Trust me, somethin twisted goes up on there."
-    new "Woman\" \"Trust me, somethin twisted goes up on there."
+    old "Trust me, somethin twisted goes up on there."
+    new "Trust me, somethin twisted goes up on there."
 
-    old "Woman\" \"Servants go missin and each week the tryin to sucker new fools workin there."
-    new "Woman\" \"Servants go missin and each week the tryin to sucker new fools workin there."
+    old "Servants go missin and each week the tryin to sucker new fools workin there."
+    new "Servants go missin and each week the tryin to sucker new fools workin there."
 
-    old "Woman\" \"You value your life, don't go there."
-    new "Woman\" \"You value your life, don't go there."
+    old "You value your life, don't go there."
+    new "You value your life, don't go there."
 
     old "The woman pulled away from Sarah and stormed off."
     new "The woman pulled away from Sarah and stormed off."
@@ -271,20 +268,20 @@ translate ru strings:
     old "The official sighed."
     new "The official sighed."
 
-    old "Official\" \"Well, forget about them. And don't believe the rumors they peddle either!"
-    new "Official\" \"Well, forget about them. And don't believe the rumors they peddle either!"
+    old "Well, forget about them. And don't believe the rumors they peddle either!"
+    new "Well, forget about them. And don't believe the rumors they peddle either!"
 
-    old "Man\" \"Rumors?"
-    new "Man\" \"Rumors?"
+    old "Rumors?"
+    new "Rumors?"
 
     old "The official smiled."
     new "The official smiled."
 
-    old "Official\" \"Nothing. Forget I said anything."
-    new "Official\" \"Nothing. Forget I said anything."
+    old "Nothing. Forget I said anything."
+    new "Nothing. Forget I said anything."
 
-    old "Official\" \"Instead, how about that job? If you can do a hard day's work, it's all yours! And the pay is very fair!"
-    new "Official\" \"Instead, how about that job? If you can do a hard day's work, it's all yours! And the pay is very fair!"
+    old "Instead, how about that job? If you can do a hard day's work, it's all yours! And the pay is very fair!"
+    new "Instead, how about that job? If you can do a hard day's work, it's all yours! And the pay is very fair!"
 
     old "One by one, the men and the women stepped forward and began signing the working contracts."
     new "One by one, the men and the women stepped forward and began signing the working contracts."
@@ -292,11 +289,11 @@ translate ru strings:
     old "When the last of them had signed, the official suddenly pointed directly at Sarah."
     new "When the last of them had signed, the official suddenly pointed directly at Sarah."
 
-    old "Official\" \"You there, girly."
-    new "Official\" \"You there, girly."
+    old "You there, girly."
+    new "You there, girly."
 
-    old "Official\" \"How about it? We got kitchen work as well, I promise it will pay well!"
-    new "Official\" \"How about it? We got kitchen work as well, I promise it will pay well!"
+    old "How about it? We got kitchen work as well, I promise it will pay well!"
+    new "How about it? We got kitchen work as well, I promise it will pay well!"
 
     old "Take the servant job"
     new "Take the servant job"
@@ -310,8 +307,8 @@ translate ru strings:
     old "The official spat on the ground."
     new "The official spat on the ground."
 
-    old "Official\" \"Fine, go ahead. See if anyone else will take you, but I won't be here when you come crawling back for a job!"
-    new "Official\" \"Fine, go ahead. See if anyone else will take you, but I won't be here when you come crawling back for a job!"
+    old "Fine, go ahead. See if anyone else will take you, but I won't be here when you come crawling back for a job!"
+    new "Fine, go ahead. See if anyone else will take you, but I won't be here when you come crawling back for a job!"
 
     old "With that, the official gathered the others that had signed on for a job and walked away."
     new "With that, the official gathered the others that had signed on for a job and walked away."

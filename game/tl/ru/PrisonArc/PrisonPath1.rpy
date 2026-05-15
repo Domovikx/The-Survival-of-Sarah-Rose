@@ -142,11 +142,11 @@ translate ru strings:
     old "They sat her down on the front bench, still tied up."
     new "They sat her down on the front bench, still tied up."
 
-    old "Judge\" \"We begin case 27442-yz, theft and conspiracy, each one count."
-    new "Judge\" \"We begin case 27442-yz, theft and conspiracy, each one count."
+    old "We begin case 27442-yz, theft and conspiracy, each one count."
+    new "We begin case 27442-yz, theft and conspiracy, each one count."
 
-    old "Judge\" \"What evidence does the city guard offer up?"
-    new "Judge\" \"What evidence does the city guard offer up?"
+    old "What evidence does the city guard offer up?"
+    new "What evidence does the city guard offer up?"
 
     old "The guard captain stepped forward."
     new "The guard captain stepped forward."
@@ -163,8 +163,8 @@ translate ru strings:
     old "After a moment of deliberation, he finally spoke."
     new "After a moment of deliberation, he finally spoke."
 
-    old "Judge\" \"The court of Lethram finds this evidene compelling. Does the defendant wish to offer up any counter evidence?"
-    new "Judge\" \"The court of Lethram finds this evidene compelling. Does the defendant wish to offer up any counter evidence?"
+    old "The court of Lethram finds this evidene compelling. Does the defendant wish to offer up any counter evidence?"
+    new "The court of Lethram finds this evidene compelling. Does the defendant wish to offer up any counter evidence?"
 
     old "Sarah was pulled up to her feet by a guard."
     new "Sarah was pulled up to her feet by a guard."
@@ -175,11 +175,11 @@ translate ru strings:
     old "The judge waved his hands, silencing her."
     new "The judge waved his hands, silencing her."
 
-    old "Judge\" \"Please, the current state of prosecution does not permit oral testimony."
-    new "Judge\" \"Please, the current state of prosecution does not permit oral testimony."
+    old "Please, the current state of prosecution does not permit oral testimony."
+    new "Please, the current state of prosecution does not permit oral testimony."
 
-    old "Judge\" \"Do you offer up any concrete evidence for this court to review?"
-    new "Judge\" \"Do you offer up any concrete evidence for this court to review?"
+    old "Do you offer up any concrete evidence for this court to review?"
+    new "Do you offer up any concrete evidence for this court to review?"
 
     old "I...your honour...I didn't have time to-"
     new "I...your honour...I didn't have time to-"
@@ -187,17 +187,17 @@ translate ru strings:
     old "Again, he bade her to be silent with a gesture."
     new "Again, he bade her to be silent with a gesture."
 
-    old "Judge\" \"Very well, then this court has seen enough."
-    new "Judge\" \"Very well, then this court has seen enough."
+    old "Very well, then this court has seen enough."
+    new "Very well, then this court has seen enough."
 
-    old "Judge\" \"The totality of the evidence leans towards guilt, and so the court finds defendant guilty of one count of theft and one count of conspiracy."
-    new "Judge\" \"The totality of the evidence leans towards guilt, and so the court finds defendant guilty of one count of theft and one count of conspiracy."
+    old "The totality of the evidence leans towards guilt, and so the court finds defendant guilty of one count of theft and one count of conspiracy."
+    new "The totality of the evidence leans towards guilt, and so the court finds defendant guilty of one count of theft and one count of conspiracy."
 
-    old "Judge\" \"Punishment for each count is three years, for a total of six years in prison."
-    new "Judge\" \"Punishment for each count is three years, for a total of six years in prison."
+    old "Punishment for each count is three years, for a total of six years in prison."
+    new "Punishment for each count is three years, for a total of six years in prison."
 
-    old "Judge\" \"Given that this is defendants first criminal account, we shall strike one year from the total sentence, for a total of five years in prison."
-    new "Judge\" \"Given that this is defendants first criminal account, we shall strike one year from the total sentence, for a total of five years in prison."
+    old "Given that this is defendants first criminal account, we shall strike one year from the total sentence, for a total of five years in prison."
+    new "Given that this is defendants first criminal account, we shall strike one year from the total sentence, for a total of five years in prison."
 
     old "The judge grabbed his gavel."
     new "The judge grabbed his gavel."
@@ -205,11 +205,11 @@ translate ru strings:
     old "Then he brought it down with a hard strike against the bench."
     new "Then he brought it down with a hard strike against the bench."
 
-    old "Judge\" \"Verdict has been rendered and spoken."
-    new "Judge\" \"Verdict has been rendered and spoken."
+    old "Verdict has been rendered and spoken."
+    new "Verdict has been rendered and spoken."
 
-    old "Judge\" \"Guards, you may enact the pronounced punishment effective immediatly. Please take the defendant to the Lethram women's prison."
-    new "Judge\" \"Guards, you may enact the pronounced punishment effective immediatly. Please take the defendant to the Lethram women's prison."
+    old "Guards, you may enact the pronounced punishment effective immediatly. Please take the defendant to the Lethram women's prison."
+    new "Guards, you may enact the pronounced punishment effective immediatly. Please take the defendant to the Lethram women's prison."
 
     old "Sarah felt her body shake as they seized her upper arms and dragged her along."
     new "Sarah felt her body shake as they seized her upper arms and dragged her along."
@@ -898,8 +898,8 @@ translate ru strings:
     old "Sarah could understand what Eula was saying. She wanted to hit herself in the head for not realizing it sooner."
     new "Sarah could understand what Eula was saying. She wanted to hit herself in the head for not realizing it sooner."
 
-    old "Guard\" \"LOCKDOWN IN FIVE!"
-    new "Guard\" \"LOCKDOWN IN FIVE!"
+    old "LOCKDOWN IN FIVE!"
+    new "LOCKDOWN IN FIVE!"
 
     old "A man's voice could be heard roaring through the hall."
     new "A man's voice could be heard roaring through the hall."

@@ -2197,35 +2197,35 @@ translate ru strings:
     old "He didn't need to read aloud on her account, she could read, but Marius could not."
     new "He didn't need to read aloud on her account, she could read, but Marius could not."
 
-    old "Judge\" \"Hereby, I, the late Alfred, leave the full and total sum of my estate to my wife and the love of my life, Sarah."
-    new "Judge\" \"Hereby, I, the late Alfred, leave the full and total sum of my estate to my wife and the love of my life, Sarah."
+    old "Hereby, I, the late Alfred, leave the full and total sum of my estate to my wife and the love of my life, Sarah."
+    new "Hereby, I, the late Alfred, leave the full and total sum of my estate to my wife and the love of my life, Sarah."
 
-    old "Judge\" \"Sarah, I thought myself dead before I met you."
-    new "Judge\" \"Sarah, I thought myself dead before I met you."
+    old "Sarah, I thought myself dead before I met you."
+    new "Sarah, I thought myself dead before I met you."
 
-    old "Judge\" \"You gave me more than I could ever have asked for."
-    new "Judge\" \"You gave me more than I could ever have asked for."
+    old "You gave me more than I could ever have asked for."
+    new "You gave me more than I could ever have asked for."
 
-    old "Judge\" \"I only hope that I proved worthy of your life in the years that were afforded to me."
-    new "Judge\" \"I only hope that I proved worthy of your life in the years that were afforded to me."
+    old "I only hope that I proved worthy of your life in the years that were afforded to me."
+    new "I only hope that I proved worthy of your life in the years that were afforded to me."
 
     old "The judge cleared his throat."
     new "The judge cleared his throat."
 
-    old "Judge\" \"As for Marius, my son. You were my pride and joy."
-    new "Judge\" \"As for Marius, my son. You were my pride and joy."
+    old "As for Marius, my son. You were my pride and joy."
+    new "As for Marius, my son. You were my pride and joy."
 
-    old "Judge\" \"I hope that you understand my decision to entrust Sarah with the full estate."
-    new "Judge\" \"I hope that you understand my decision to entrust Sarah with the full estate."
+    old "I hope that you understand my decision to entrust Sarah with the full estate."
+    new "I hope that you understand my decision to entrust Sarah with the full estate."
 
-    old "Judge\" \"And I hope that you will commit yourself to working on behalf of your new siblings, who no doubt can learn from your great work ethic."
-    new "Judge\" \"And I hope that you will commit yourself to working on behalf of your new siblings, who no doubt can learn from your great work ethic."
+    old "And I hope that you will commit yourself to working on behalf of your new siblings, who no doubt can learn from your great work ethic."
+    new "And I hope that you will commit yourself to working on behalf of your new siblings, who no doubt can learn from your great work ethic."
 
     old "The judge rolled up the paper."
     new "The judge rolled up the paper."
 
-    old "Judge\" \"So it is written, so it shall be. I hereby declare the contents of this will as binding and final."
-    new "Judge\" \"So it is written, so it shall be. I hereby declare the contents of this will as binding and final."
+    old "So it is written, so it shall be. I hereby declare the contents of this will as binding and final."
+    new "So it is written, so it shall be. I hereby declare the contents of this will as binding and final."
 
     old "Sarah casually turned her head towards Marius."
     new "Sarah casually turned her head towards Marius."

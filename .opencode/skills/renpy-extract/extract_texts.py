@@ -178,7 +178,37 @@ class RenPyExtractor:
                     )
                 continue
 
-            # ── 2. Нарратив: "text" ──
+            # ── 2. Диалог в кавычках: "Character" "text" ──
+            m = re.match(r'^"([a-zA-Z_][a-zA-Z0-9_]*)"\s+"(.+)"\s*$', stripped)
+            if m:
+                char = m.group(1)
+                text = m.group(2)
+                if text and not text.startswith('#'):
+                    self._add_to_arc(
+                        arc_name=self._get_arc(current_label),
+                        scene_name=current_label,
+                        source_file=source_file,
+                        source_line=i + 1,
+                        original=text,
+                        block_type='dialogue',
+                        character=char,
+                    )
+                if char:
+                    dk = self._dedup_key(char)
+                    if dk not in self._seen_originals:
+                        self._seen_originals.add(dk)
+                        self.character_blocks[dk] = {
+                            'id': f"char_{_hash(f'{source_file}:{i+1}:char:{char}')}",
+                            'original': char,
+                            'translated': self._existing(char),
+                            'type': 'character_name',
+                            'character': None,
+                            'source_file': source_file,
+                            'source_line': i + 1,
+                        }
+                continue
+
+            # ── 3. Нарратив: "text" ──
             m = re.match(r'^"(.+)"\s*$', stripped)
             if m and not stripped.startswith('menu'):
                 text = m.group(1)
@@ -193,7 +223,7 @@ class RenPyExtractor:
                 )
                 continue
 
-            # ── 3. Menu choice: "Choice": ──
+            # ── 4. Menu choice: "Choice": ──
             m = re.match(r'^\s*"(.+?)"\s*:\s*$', stripped)
             if m and in_menu:
                 text = m.group(1).strip()
@@ -209,7 +239,7 @@ class RenPyExtractor:
                     )
                 continue
 
-            # ── 4. Character definition: define s = Character(_("Name"), ...) ──
+            # ── 5. Character definition: define s = Character(_("Name"), ...) ──
             combined = stripped
             for j in range(i + 1, min(i + 5, len(lines))):
                 nxt = lines[j].strip()
@@ -235,7 +265,7 @@ class RenPyExtractor:
                     }
                 continue
 
-            # ── 5. Define: define config.name = _("text") ──
+            # ── 6. Define: define config.name = _("text") ──
             # (до UI, чтобы не перехватывать _("..."))
             if re.match(r'^(define|default)\s+', stripped):
                 # Важно: на одной строке может быть несколько _() вызовов,
@@ -262,7 +292,7 @@ class RenPyExtractor:
                 # Пропускаем UI-обработку для define/default строк
                 continue
 
-            # ── 6. UI: _("text") — catch-all ──
+            # ── 7. UI: _("text") — catch-all ──
             for m in re.finditer(r'_\("([^"]+)"\)', stripped):
                 text = m.group(1)
                 if text:

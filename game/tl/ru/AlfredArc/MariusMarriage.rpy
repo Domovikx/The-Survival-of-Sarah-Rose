@@ -163,17 +163,17 @@ translate ru strings:
     old "Appearing before her husband-to-be, the priest motioned for the crowd to be silent."
     new "Appearing before her husband-to-be, the priest motioned for the crowd to be silent."
 
-    old "Priest\" \"Welcome, friends and family, to this most blessed day."
-    new "Priest\" \"Welcome, friends and family, to this most blessed day."
+    old "Welcome, friends and family, to this most blessed day."
+    new "Welcome, friends and family, to this most blessed day."
 
-    old "Priest\" \"We are gathered to bless this union, between Marius and Sarah."
-    new "Priest\" \"We are gathered to bless this union, between Marius and Sarah."
+    old "We are gathered to bless this union, between Marius and Sarah."
+    new "We are gathered to bless this union, between Marius and Sarah."
 
     old "He turned towards Marius."
     new "He turned towards Marius."
 
-    old "Priest\" \"Marius, do you take Sarah as your wife?"
-    new "Priest\" \"Marius, do you take Sarah as your wife?"
+    old "Marius, do you take Sarah as your wife?"
+    new "Marius, do you take Sarah as your wife?"
 
     old "Yes...I do..."
     new "Yes...I do..."
@@ -184,17 +184,14 @@ translate ru strings:
     old "The priest turned to her."
     new "The priest turned to her."
 
-    old "Priest\" \"Sarah..."
-    new "Priest\" \"Sarah..."
-
-    old "Priest\" \"Do you take Marius as your husband, and promise to be faithful and obey his every word?"
-    new "Priest\" \"Do you take Marius as your husband, and promise to be faithful and obey his every word?"
+    old "Do you take Marius as your husband, and promise to be faithful and obey his every word?"
+    new "Do you take Marius as your husband, and promise to be faithful and obey his every word?"
 
     old "The priest threw up his hands."
     new "The priest threw up his hands."
 
-    old "Priest\" \"Then I declare this union, sealed!"
-    new "Priest\" \"Then I declare this union, sealed!"
+    old "Then I declare this union, sealed!"
+    new "Then I declare this union, sealed!"
 
     old "The crowd exploded into a rapturous cheer."
     new "The crowd exploded into a rapturous cheer."

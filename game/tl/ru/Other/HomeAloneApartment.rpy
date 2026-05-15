@@ -136,8 +136,8 @@ translate ru strings:
     old "Best wine you have on tap."
     new "Best wine you have on tap."
 
-    old "Barman\" \"Best we got still won't be much good."
-    new "Barman\" \"Best we got still won't be much good."
+    old "Best we got still won't be much good."
+    new "Best we got still won't be much good."
 
     old "Whatever you have then."
     new "Whatever you have then."
@@ -151,23 +151,23 @@ translate ru strings:
     old "You weren't lying."
     new "You weren't lying."
 
-    old "Barman\" \"Told you it was bad wine. Maybe a beer would suit you better?"
-    new "Barman\" \"Told you it was bad wine. Maybe a beer would suit you better?"
+    old "Told you it was bad wine. Maybe a beer would suit you better?"
+    new "Told you it was bad wine. Maybe a beer would suit you better?"
 
     old "Sarah frowned, she wasn't much for beer, even poor wine suited her better. But this was like drinking poison."
     new "Sarah frowned, she wasn't much for beer, even poor wine suited her better. But this was like drinking poison."
 
-    old "Man\" \"Here, try some of this."
-    new "Man\" \"Here, try some of this."
+    old "Here, try some of this."
+    new "Here, try some of this."
 
     old "Sarah watched as a man with a large gray beard walked up and poured her a glass from his own bottle."
     new "Sarah watched as a man with a large gray beard walked up and poured her a glass from his own bottle."
 
-    old "Man\" \"The stuff they serve here is only good for polishing out oil stains."
-    new "Man\" \"The stuff they serve here is only good for polishing out oil stains."
+    old "The stuff they serve here is only good for polishing out oil stains."
+    new "The stuff they serve here is only good for polishing out oil stains."
 
-    old "Man\" \"That there is a proper glass of wine. Or at least as proper as you're going to find in these here slums."
-    new "Man\" \"That there is a proper glass of wine. Or at least as proper as you're going to find in these here slums."
+    old "That there is a proper glass of wine. Or at least as proper as you're going to find in these here slums."
+    new "That there is a proper glass of wine. Or at least as proper as you're going to find in these here slums."
 
     old "Sarah knew better than to take drinks from strangers, but tonight she was in a mood for making mistakes."
     new "Sarah knew better than to take drinks from strangers, but tonight she was in a mood for making mistakes."
@@ -181,11 +181,8 @@ translate ru strings:
     old "He reached over and took a quick sip himself."
     new "He reached over and took a quick sip himself."
 
-    old "Man\" \"There."
-    new "Man\" \"There."
-
-    old "Man\" \"If it's poisoned, at least we'll die together."
-    new "Man\" \"If it's poisoned, at least we'll die together."
+    old "If it's poisoned, at least we'll die together."
+    new "If it's poisoned, at least we'll die together."
 
     old "Sarah watched his face, studying for any signs of danger."
     new "Sarah watched his face, studying for any signs of danger."
@@ -213,9 +210,6 @@ translate ru strings:
 
     old "The man laughed again."
     new "The man laughed again."
-
-    old "Man\" \"See, told you."
-    new "Man\" \"See, told you."
 
     old "He reached over with this hand."
     new "He reached over with this hand."

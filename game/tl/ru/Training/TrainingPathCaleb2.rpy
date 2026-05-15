@@ -510,3 +510,4 @@ translate ru strings:
 
     old "Sarah turns around, angry at suddenly being shut out of the conversation."
     new "Сара поворачивается, злая, что её исключили из разговора."
+
