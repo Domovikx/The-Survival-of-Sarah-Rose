@@ -331,8 +331,6 @@ translate ru strings:
     old "Seizing her blade with both hands, Sarah raised her sword up besides herself."
     new "Seizing her blade with both hands, Sarah raised her sword up besides herself."
 
-    old "Come!"
-    new "Come!"
 
     old "She screamed the word, half to challenge, half to bolster her own confidence."
     new "She screamed the word, half to challenge, half to bolster her own confidence."
