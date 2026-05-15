@@ -379,8 +379,8 @@ translate ru strings:
     old "A voice called out from deep within her mind, but it was not her own."
     new "A voice called out from deep within her mind, but it was not her own."
 
-    old "Voice\" \"DECEIVE HIM! OR HE WILL DECEIVE YOU!"
-    new "Voice\" \"DECEIVE HIM! OR HE WILL DECEIVE YOU!"
+    old "DECEIVE HIM! OR HE WILL DECEIVE YOU!"
+    new "DECEIVE HIM! OR HE WILL DECEIVE YOU!"
 
     old "Sarah forced her eyes away from the stone, and faced Hassar."
     new "Sarah forced her eyes away from the stone, and faced Hassar."

@@ -1432,11 +1432,11 @@ translate ru strings:
     old "A voice called out to her from where the cart had been, back up the road."
     new "A voice called out to her from where the cart had been, back up the road."
 
-    old "Voice\" \"Turn back onto the old road."
-    new "Voice\" \"Turn back onto the old road."
+    old "Turn back onto the old road."
+    new "Turn back onto the old road."
 
-    old "Voice\" \"Follow the old road to Rahayal."
-    new "Voice\" \"Follow the old road to Rahayal."
+    old "Follow the old road to Rahayal."
+    new "Follow the old road to Rahayal."
 
     old "Life rushed back into the world as Sarah felt the sun back on her skin."
     new "Life rushed back into the world as Sarah felt the sun back on her skin."

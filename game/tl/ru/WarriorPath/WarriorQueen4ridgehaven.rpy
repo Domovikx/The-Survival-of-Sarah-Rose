@@ -73,8 +73,8 @@ translate ru strings:
     old "Sarah watched as the other scouts dismounted their horses."
     new "Sarah watched as the other scouts dismounted their horses."
 
-    old "Scout\" \"Yeah, I bet."
-    new "Scout\" \"Yeah, I bet."
+    old "Yeah, I bet."
+    new "Yeah, I bet."
 
     old "What's that?!"
     new "What's that?!"
@@ -82,8 +82,8 @@ translate ru strings:
     old "Kate turned about, clearly angry."
     new "Kate turned about, clearly angry."
 
-    old "Scout\" \"Nothing. I just hope that report is full and complete."
-    new "Scout\" \"Nothing. I just hope that report is full and complete."
+    old "Nothing. I just hope that report is full and complete."
+    new "Nothing. I just hope that report is full and complete."
 
     old "You got something to say, how about you just spit it out like a man?"
     new "You got something to say, how about you just spit it out like a man?"
@@ -100,8 +100,8 @@ translate ru strings:
     old "The scout spat on the ground."
     new "The scout spat on the ground."
 
-    old "Scout\" \"Fuck rank. I didn't sign up for this. She almost got us killed!"
-    new "Scout\" \"Fuck rank. I didn't sign up for this. She almost got us killed!"
+    old "Fuck rank. I didn't sign up for this. She almost got us killed!"
+    new "Fuck rank. I didn't sign up for this. She almost got us killed!"
 
     old "Sarah saw Kate was nearly ready to pull out her sword."
     new "Sarah saw Kate was nearly ready to pull out her sword."

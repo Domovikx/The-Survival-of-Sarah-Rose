@@ -501,3 +501,4 @@ translate ru strings:
 
     old "A princess without a country. A soldier. Lover to Atilla."
     new "Принцесса без страны. Солдат. Возлюбленная Атиллы."
+

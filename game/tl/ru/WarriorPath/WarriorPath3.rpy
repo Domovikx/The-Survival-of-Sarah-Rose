@@ -22,14 +22,14 @@ translate ru strings:
     old "Near the front, she saw that the Mythran prince was already waiting."
     new "Near the front, she saw that the Mythran prince was already waiting."
 
-    old "Mythran Prince\" \"Shah Mahda! Come out of your little rat hiding hole before I send in my men to drag you out like the vermin you are."
-    new "Mythran Prince\" \"Shah Mahda! Come out of your little rat hiding hole before I send in my men to drag you out like the vermin you are."
+    old "Shah Mahda! Come out of your little rat hiding hole before I send in my men to drag you out like the vermin you are."
+    new "Shah Mahda! Come out of your little rat hiding hole before I send in my men to drag you out like the vermin you are."
 
-    old "Mythran Prince\" \"If you're not going to live honorably, at least you can die honorably."
-    new "Mythran Prince\" \"If you're not going to live honorably, at least you can die honorably."
+    old "If you're not going to live honorably, at least you can die honorably."
+    new "If you're not going to live honorably, at least you can die honorably."
 
-    old "Mythran Prince\" \"Whatever, I don't have the patience for this. Men! Tear down the barricade and drag these rats out, alive!"
-    new "Mythran Prince\" \"Whatever, I don't have the patience for this. Men! Tear down the barricade and drag these rats out, alive!"
+    old "Whatever, I don't have the patience for this. Men! Tear down the barricade and drag these rats out, alive!"
+    new "Whatever, I don't have the patience for this. Men! Tear down the barricade and drag these rats out, alive!"
 
     old "A sound cut through all the others, as the room went silent."
     new "A sound cut through all the others, as the room went silent."
@@ -43,8 +43,8 @@ translate ru strings:
     old "Climbing out through the small passage, was the Shah."
     new "Climbing out through the small passage, was the Shah."
 
-    old "Mythran Prince\" \"Aah, finally. I was afraid my men would have to break a sweat getting you out of there."
-    new "Mythran Prince\" \"Aah, finally. I was afraid my men would have to break a sweat getting you out of there."
+    old "Aah, finally. I was afraid my men would have to break a sweat getting you out of there."
+    new "Aah, finally. I was afraid my men would have to break a sweat getting you out of there."
 
     old "Sarah watched the Shah walk up towards them."
     new "Sarah watched the Shah walk up towards them."
@@ -64,8 +64,8 @@ translate ru strings:
     old "The Mythran prince laughed."
     new "The Mythran prince laughed."
 
-    old "Mythran Prince\" \"Aah, it speaks. I was beginning to think you'd be too scared to even come out."
-    new "Mythran Prince\" \"Aah, it speaks. I was beginning to think you'd be too scared to even come out."
+    old "Aah, it speaks. I was beginning to think you'd be too scared to even come out."
+    new "Aah, it speaks. I was beginning to think you'd be too scared to even come out."
 
     old "A worm like you won't make me cower."
     new "A worm like you won't make me cower."
@@ -73,8 +73,8 @@ translate ru strings:
     old "Sarah could see rage flash across the face of the Mythran prince."
     new "Sarah could see rage flash across the face of the Mythran prince."
 
-    old "Mythran Prince\" \"You killed my nephew. You brought all this upon yourself, remember that while you hear your family get tortured to death."
-    new "Mythran Prince\" \"You killed my nephew. You brought all this upon yourself, remember that while you hear your family get tortured to death."
+    old "You killed my nephew. You brought all this upon yourself, remember that while you hear your family get tortured to death."
+    new "You killed my nephew. You brought all this upon yourself, remember that while you hear your family get tortured to death."
 
     old "Sarah could see the Shah's face. It didn't move at all."
     new "Sarah could see the Shah's face. It didn't move at all."
@@ -100,11 +100,11 @@ translate ru strings:
     old "The Mythran prince moved closer towards the Shah."
     new "The Mythran prince moved closer towards the Shah."
 
-    old "Mythran Prince\" \"Enough! You and the rest of your debased dynasty have been tolerated long enough."
-    new "Mythran Prince\" \"Enough! You and the rest of your debased dynasty have been tolerated long enough."
+    old "Enough! You and the rest of your debased dynasty have been tolerated long enough."
+    new "Enough! You and the rest of your debased dynasty have been tolerated long enough."
 
-    old "Mythran Prince\" \"Your allies have abandoned you. Your armies are shattered. Your city will soon be put to the sword. You've lost!"
-    new "Mythran Prince\" \"Your allies have abandoned you. Your armies are shattered. Your city will soon be put to the sword. You've lost!"
+    old "Your allies have abandoned you. Your armies are shattered. Your city will soon be put to the sword. You've lost!"
+    new "Your allies have abandoned you. Your armies are shattered. Your city will soon be put to the sword. You've lost!"
 
     old "Not all my allies have abandoned my house."
     new "Not all my allies have abandoned my house."
@@ -112,8 +112,8 @@ translate ru strings:
     old "A pause lingered in the room."
     new "A pause lingered in the room."
 
-    old "Mythran Prince\" \"Soldiers! Seize him, strip him and whip him till he begs for mercy! Maybe that will bring some sense back to him."
-    new "Mythran Prince\" \"Soldiers! Seize him, strip him and whip him till he begs for mercy! Maybe that will bring some sense back to him."
+    old "Soldiers! Seize him, strip him and whip him till he begs for mercy! Maybe that will bring some sense back to him."
+    new "Soldiers! Seize him, strip him and whip him till he begs for mercy! Maybe that will bring some sense back to him."
 
     old "Sarah watched as a small cadre of soldiers began to move forward."
     new "Sarah watched as a small cadre of soldiers began to move forward."
@@ -330,9 +330,6 @@ translate ru strings:
 
     old "Seizing her blade with both hands, Sarah raised her sword up besides herself."
     new "Seizing her blade with both hands, Sarah raised her sword up besides herself."
-
-    old "Come!"
-    new "Come!"
 
     old "She screamed the word, half to challenge, half to bolster her own confidence."
     new "She screamed the word, half to challenge, half to bolster her own confidence."

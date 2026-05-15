@@ -379,8 +379,8 @@ translate ru strings:
     old "As soon as she arrived, a man rushed up to meet her."
     new "As soon as she arrived, a man rushed up to meet her."
 
-    old "Soldier\" \"My lady, you need to go to the court room immediately!"
-    new "Soldier\" \"My lady, you need to go to the court room immediately!"
+    old "My lady, you need to go to the court room immediately!"
+    new "My lady, you need to go to the court room immediately!"
 
     old "Sarah could see see his distress and followed."
     new "Sarah could see see his distress and followed."

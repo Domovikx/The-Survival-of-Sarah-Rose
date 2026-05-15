@@ -63,3 +63,4 @@ translate ru strings:
 
     old "Eventually, exhaustion carries Sarah off to sleep."
     new "В конце концов усталость уносит Сару в сон."
+

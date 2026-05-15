@@ -13,7 +13,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 from extract_texts import (
-     RenPyExtractor, generate_rpy, _hash, _esc,
+     RenPyExtractor, generate_rpy, _hash, _esc, _unescape,
      VERSION, ARC_PATTERNS,
  )
 
@@ -598,6 +598,150 @@ class TestFullPipeline:
 # ============================================================
 # Utility Tests
 # ============================================================
+# Quoted Dialogue: "Character" "text"
+# ============================================================
+
+@pytest.fixture
+def quoted_dialogue_script(tmp_dir):
+    """Скрипт с диалогами в формате "Character" "text"."""
+    content = (
+        'label start:\n'
+        '    "Raza" "Good. Good."\n'
+        '    "Raza" "They call me Raza."\n'
+        '    "This is narration without character."\n'
+        '    "Raza" "No. Not now."\n'
+        '    s "Hello from defined character."\n'
+        '    "Guard Captain" "There she goes!"\n'
+    )
+    script = tmp_dir / "test_game" / "script.rpy"
+    script.parent.mkdir(parents=True)
+    script.write_text(content, encoding='utf-8')
+    return tmp_dir / "test_game"
+
+
+class TestQuotedDialogue:
+    """Проверяем что "Character" "dialogue" не схлопывается в нарратив."""
+
+    def test_quoted_dialogue_not_narration(self, quoted_dialogue_script):
+        ext = RenPyExtractor(str(quoted_dialogue_script))
+        ext.parse_file(quoted_dialogue_script / "script.rpy")
+
+        found_raza_lines = []
+        found_narration = []
+        for arc in ext.arcs.values():
+            for scene in arc.values():
+                for bd in scene['blocks'].values():
+                    orig = bd.get('original', '')
+                    if 'Raza' in orig or 'Good. Good.' in orig or 'They call me Raza' in orig or 'No. Not now' in orig:
+                        found_raza_lines.append(bd)
+                    if 'narration' in bd.get('type', ''):
+                        found_narration.append(bd)
+
+        # Raza lines должны быть dialogue, НЕ narration
+        for bd in found_raza_lines:
+            assert bd['type'] == 'dialogue', \
+                f"Expected dialogue, got {bd['type']}: {bd.get('original', '')}"
+
+        # Narration должна быть только одна (без Raza)
+        assert len(found_narration) == 1
+        assert found_narration[0]['original'] == 'This is narration without character.'
+
+    def test_quoted_dialogue_text_without_character(self, quoted_dialogue_script):
+        """Текст диалога не должен содержать имя персонажа."""
+        ext = RenPyExtractor(str(quoted_dialogue_script))
+        ext.parse_file(quoted_dialogue_script / "script.rpy")
+
+        for arc in ext.arcs.values():
+            for scene in arc.values():
+                for bd in scene['blocks'].values():
+                    orig = bd.get('original', '')
+                    if bd['type'] == 'dialogue':
+                        # Текст диалога не должен содержать имя персонажа
+                        assert '\\"' not in orig, \
+                            f"Dialogue text contains escaped quotes: {orig}"
+                        assert not orig.startswith('Raza'), \
+                            f"Dialogue text starts with character name: {orig}"
+
+    def test_quoted_dialogue_character_name(self, quoted_dialogue_script):
+        """Имя персонажа извлекается в поле character и в character_blocks."""
+        ext = RenPyExtractor(str(quoted_dialogue_script))
+        ext.parse_file(quoted_dialogue_script / "script.rpy")
+
+        raza_lines = []
+        for arc in ext.arcs.values():
+            for scene in arc.values():
+                for bd in scene['blocks'].values():
+                    if bd.get('character') == 'Raza':
+                        raza_lines.append(bd)
+
+        assert len(raza_lines) == 3  # 3 Raza dialogue lines
+        for bd in raza_lines:
+            assert bd['type'] == 'dialogue'
+
+        # Raza должен быть в character_blocks для перевода
+        assert 'Raza' in ext.character_blocks
+        assert ext.character_blocks['Raza']['type'] == 'character_name'
+
+        # s (переменная, не display name) не должен попадать в character_blocks
+        assert 's' not in ext.character_blocks
+
+        # Multi-word character "Guard Captain" должен корректно парситься
+        guard_captain_lines = []
+        for arc in ext.arcs.values():
+            for scene in arc.values():
+                for bd in scene['blocks'].values():
+                    if bd.get('character') == 'Guard Captain':
+                        guard_captain_lines.append(bd)
+        assert len(guard_captain_lines) == 1
+        assert guard_captain_lines[0]['original'] == 'There she goes!'
+        # Guard Captain должен быть в character_blocks
+        assert 'Guard Captain' in ext.character_blocks
+
+    def test_generated_rpy_no_combined_format(self, quoted_dialogue_script, tmp_dir):
+        """В сгенерированном .rpy не должно быть combined формата "Char\" \"text"."""
+        ext = RenPyExtractor(str(quoted_dialogue_script))
+        ext.parse_file(quoted_dialogue_script / "script.rpy")
+        data = ext.scan()
+
+        out_dir = tmp_dir / "tl" / "ru"
+        generate_rpy(data, out_dir)
+
+        # Ищем сгенерированные файлы
+        for rpy_file in out_dir.rglob("*.rpy"):
+            content = rpy_file.read_text(encoding='utf-8')
+            # Проверяем: нет ли строк вида old "Char\" \"text"
+            for line in content.split('\n'):
+                stripped = line.strip()
+                if stripped.startswith('old '):
+                    # Не должно быть Raza\" \" в old строке
+                    assert 'Raza\\" \\"' not in stripped, \
+                        f"Combined format found: {stripped}"
+                    # Не должно быть \\" \\" вообще в old строке
+                    assert '\\" \\"' not in stripped, \
+                        f"Escaped quote pair found in old: {stripped}"
+
+    def test_generated_rpy_has_split_format(self, quoted_dialogue_script, tmp_dir):
+        """Диалог Raza должен быть split-форматом: old "text" без персонажа."""
+        ext = RenPyExtractor(str(quoted_dialogue_script))
+        ext.parse_file(quoted_dialogue_script / "script.rpy")
+        data = ext.scan()
+
+        out_dir = tmp_dir / "tl" / "ru"
+        generate_rpy(data, out_dir)
+
+        found_good = False
+        for rpy_file in out_dir.rglob("*.rpy"):
+            content = rpy_file.read_text(encoding='utf-8')
+            if 'Good. Good.' in content:
+                found_good = True
+                assert 'old "Good. Good."' in content
+                # Не должно быть Raza в этой строке
+                assert 'Raza' not in content.split('old "Good. Good."')[0][-20:], \
+                    "Character name prepended to dialogue in old"
+        assert found_good, "Dialogue 'Good. Good.' not found in generated output"
+
+
+# ============================================================
 
 class TestUtilities:
     def test_hash_consistency(self):
@@ -609,6 +753,73 @@ class TestUtilities:
 
     def test_esc_backslash(self):
         assert _esc("path\\to\\file") == "path\\\\to\\\\file"
+
+    def test_unescape(self):
+        # \" → "
+        assert _unescape('Say \\"hello\\"') == 'Say "hello"'
+        # \\ → \
+        assert _unescape('back\\\\slash') == 'back\\slash'
+        # \\\" → \" (backslash preserved before quote)
+        assert _unescape('\\\\\\"') == '\\"'
+
+
+# ============================================================
+
+class TestEscapedQuotesRoundtrip:
+    """Проверка roundtrip для строк с \" внутри (Ren'Py escape)."""
+
+    def test_narration_with_escaped_quotes(self, tmp_dir):
+        """Нарратив с \" должен корректно проходить unescape → _esc."""
+        content = (
+            'label start:\n'
+            '    "She said \\"hello\\" to me."\n'
+        )
+        script = tmp_dir / "test_game" / "script.rpy"
+        script.parent.mkdir(parents=True)
+        script.write_text(content, encoding='utf-8')
+
+        ext = RenPyExtractor(str(tmp_dir / "test_game"))
+        ext.parse_file(script)
+        data = ext.scan()
+
+        out_dir = tmp_dir / "tl" / "ru"
+        generate_rpy(data, out_dir)
+
+        generated = list(out_dir.rglob("*.rpy"))
+        assert generated, "No files generated"
+        gen_content = generated[0].read_text(encoding='utf-8')
+
+        # old строка должна содержать правильно экранированную кавычку
+        assert 'old "She said \\"hello\\" to me."' in gen_content, \
+            f"Wrong escaping in generated: {gen_content}"
+
+    def test_unescape_preserves_text_meaning(self, tmp_dir):
+        """Текст после unescape должен совпадать с тем, что видит игрок."""
+        content = (
+            'label start:\n'
+            '    "The title reads: \\"A Tale of Two Cities\\"."\n'
+        )
+        script = tmp_dir / "test_game" / "script.rpy"
+        script.parent.mkdir(parents=True)
+        script.write_text(content, encoding='utf-8')
+
+        ext = RenPyExtractor(str(tmp_dir / "test_game"))
+        ext.parse_file(script)
+
+        found = False
+        for arc in ext.arcs.values():
+            for scene in arc.values():
+                for bd in scene['blocks'].values():
+                    orig = bd.get('original', '')
+                    if 'A Tale of Two Cities' in orig:
+                        found = True
+                        # После unescape не должно быть обратных слешей перед кавычкой
+                        assert '\\"' not in orig, \
+                            f"Text still has escaped quotes: {orig}"
+                        # Текст должен содержать чистые кавычки
+                        assert '"' in orig, \
+                            f"Text should have plain quotes: {orig}"
+        assert found, "Extracted text not found"
 
 
 if __name__ == '__main__':

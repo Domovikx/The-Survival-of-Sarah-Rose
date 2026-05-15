@@ -130,8 +130,8 @@ translate ru strings:
     old "Following Kate, Sarah ended up on the edge of one of the piers, where a small boat was anchored."
     new "Following Kate, Sarah ended up on the edge of one of the piers, where a small boat was anchored."
 
-    old "It read \\\"The Blunt Harpoon\\\"."
-    new "It read \\\"The Blunt Harpoon\\\"."
+    old "It read \"The Blunt Harpoon\"."
+    new "It read \"The Blunt Harpoon\"."
 
     old "Kate climbed on board first, then pulled Sarah up behind her."
     new "Kate climbed on board first, then pulled Sarah up behind her."

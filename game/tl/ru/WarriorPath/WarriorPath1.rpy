@@ -145,8 +145,8 @@ translate ru strings:
     old "As the last of the Bagrad soldiers fell around her, she saw three men running away."
     new "As the last of the Bagrad soldiers fell around her, she saw three men running away."
 
-    old "Soldier\" \"Commander, should we give chase?"
-    new "Soldier\" \"Commander, should we give chase?"
+    old "Commander, should we give chase?"
+    new "Commander, should we give chase?"
 
     old "Let them go. They're running away from the palace, no use wasting time trying to hunt them down."
     new "Let them go. They're running away from the palace, no use wasting time trying to hunt them down."

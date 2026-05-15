@@ -178,8 +178,8 @@ translate ru strings:
     old "We're not looking for trouble."
     new "We're not looking for trouble."
 
-    old "Robber\" \"Well, you found it anyway."
-    new "Robber\" \"Well, you found it anyway."
+    old "Well, you found it anyway."
+    new "Well, you found it anyway."
 
     old "You step off aside, we'll be on our way and nobody needs to get hurt."
     new "You step off aside, we'll be on our way and nobody needs to get hurt."
@@ -187,14 +187,14 @@ translate ru strings:
     old "The other robber laughed."
     new "The other robber laughed."
 
-    old "Robber\" \"That's one way of resolving this. How about I tell you my way, grandpa?"
-    new "Robber\" \"That's one way of resolving this. How about I tell you my way, grandpa?"
+    old "That's one way of resolving this. How about I tell you my way, grandpa?"
+    new "That's one way of resolving this. How about I tell you my way, grandpa?"
 
-    old "Robber\" \"You're gonna get off that cart, me and my friend over here are gonna take your daughter or whatever she is to you, and take good care of her."
-    new "Robber\" \"You're gonna get off that cart, me and my friend over here are gonna take your daughter or whatever she is to you, and take good care of her."
+    old "You're gonna get off that cart, me and my friend over here are gonna take your daughter or whatever she is to you, and take good care of her."
+    new "You're gonna get off that cart, me and my friend over here are gonna take your daughter or whatever she is to you, and take good care of her."
 
-    old "Robber\" \"As for you, I'll promise I'll try and make it as painless as I can make it."
-    new "Robber\" \"As for you, I'll promise I'll try and make it as painless as I can make it."
+    old "As for you, I'll promise I'll try and make it as painless as I can make it."
+    new "As for you, I'll promise I'll try and make it as painless as I can make it."
 
     old "She had been warned a great many times by now about the dangers of the old road, but it was different to experience it."
     new "She had been warned a great many times by now about the dangers of the old road, but it was different to experience it."
@@ -211,8 +211,8 @@ translate ru strings:
     old "One of the robbers stepped forward."
     new "One of the robbers stepped forward."
 
-    old "Robber\" \"Guess it's gonna be the other way."
-    new "Robber\" \"Guess it's gonna be the other way."
+    old "Guess it's gonna be the other way."
+    new "Guess it's gonna be the other way."
 
     old "Sigmund leapt off from the box, landing off to the side."
     new "Sigmund leapt off from the box, landing off to the side."

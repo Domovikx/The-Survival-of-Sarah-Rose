@@ -94,23 +94,23 @@ translate ru strings:
     old "No sooner had she drawn her conclusion, when a young man stumbled as he ran up to her."
     new "No sooner had she drawn her conclusion, when a young man stumbled as he ran up to her."
 
-    old "Soldier\" \"The sentries are reporting riders!"
-    new "Soldier\" \"The sentries are reporting riders!"
+    old "The sentries are reporting riders!"
+    new "The sentries are reporting riders!"
 
     old "Riders?"
     new "Riders?"
 
-    old "Soldiers\" \"Tribesmen they think."
-    new "Soldiers\" \"Tribesmen they think."
+    old "Tribesmen they think."
+    new "Tribesmen they think."
 
     old "Is there an attack?"
     new "Is there an attack?"
 
-    old "Soldier\" \"No, Commander. There are not enough for an attack, and they're riding straight for camp."
-    new "Soldier\" \"No, Commander. There are not enough for an attack, and they're riding straight for camp."
+    old "No, Commander. There are not enough for an attack, and they're riding straight for camp."
+    new "No, Commander. There are not enough for an attack, and they're riding straight for camp."
 
-    old "Soldier\" \"They think it might be an emissary."
-    new "Soldier\" \"They think it might be an emissary."
+    old "They think it might be an emissary."
+    new "They think it might be an emissary."
 
     old "Thank you for the report, go back to your station."
     new "Thank you for the report, go back to your station."
@@ -160,11 +160,11 @@ translate ru strings:
     old "Tell me, who send you?"
     new "Tell me, who send you?"
 
-    old "Emmissary\" \"Kamal, governor of Rosayi, province of the Tribal lands."
-    new "Emmissary\" \"Kamal, governor of Rosayi, province of the Tribal lands."
+    old "Kamal, governor of Rosayi, province of the Tribal lands."
+    new "Kamal, governor of Rosayi, province of the Tribal lands."
 
-    old "Emmissary\" \"I come bearing a message."
-    new "Emmissary\" \"I come bearing a message."
+    old "I come bearing a message."
+    new "I come bearing a message."
 
     old "Sarah remembered that name from the reports. That is what the Tribes called her homeland."
     new "Sarah remembered that name from the reports. That is what the Tribes called her homeland."
@@ -199,29 +199,29 @@ translate ru strings:
     old "You threaten me?"
     new "You threaten me?"
 
-    old "Emmissary\" \"I bear no threats. Only gifts."
-    new "Emmissary\" \"I bear no threats. Only gifts."
+    old "I bear no threats. Only gifts."
+    new "I bear no threats. Only gifts."
 
     old "What am I to do with gifts such as these?"
     new "What am I to do with gifts such as these?"
 
-    old "Emmissary\" \"They are my gift to you, Princess of Rosanna."
-    new "Emmissary\" \"They are my gift to you, Princess of Rosanna."
+    old "They are my gift to you, Princess of Rosanna."
+    new "They are my gift to you, Princess of Rosanna."
 
-    old "Emmissary\" \"And let it be known to all who shall hear that the first blood of this war was spilled by me, in your honour."
-    new "Emmissary\" \"And let it be known to all who shall hear that the first blood of this war was spilled by me, in your honour."
+    old "And let it be known to all who shall hear that the first blood of this war was spilled by me, in your honour."
+    new "And let it be known to all who shall hear that the first blood of this war was spilled by me, in your honour."
 
     old "Sarah felt her eyes go wide. The voice...something about his voice..."
     new "Sarah felt her eyes go wide. The voice...something about his voice..."
 
-    old "Emmissary\" \"I carry many names. Kinslayer. Widowmaker. Exile."
-    new "Emmissary\" \"I carry many names. Kinslayer. Widowmaker. Exile."
+    old "I carry many names. Kinslayer. Widowmaker. Exile."
+    new "I carry many names. Kinslayer. Widowmaker. Exile."
 
     old "His voice boomed louder and louder."
     new "His voice boomed louder and louder."
 
-    old "Emmissary\" \"But you need not waste breath on honours or titles. You may name me as you know me."
-    new "Emmissary\" \"But you need not waste breath on honours or titles. You may name me as you know me."
+    old "But you need not waste breath on honours or titles. You may name me as you know me."
+    new "But you need not waste breath on honours or titles. You may name me as you know me."
 
     old "Sarah felt her heart pounding in her chest. It was him."
     new "Sarah felt her heart pounding in her chest. It was him."
@@ -1000,9 +1000,6 @@ translate ru strings:
     old "His voice boomed, powerful, deep."
     new "His voice boomed, powerful, deep."
 
-    old "Yes what?"
-    new "Yes what?"
-
     old "Yes, I'll marry you! I'll be your wife!"
     new "Yes, I'll marry you! I'll be your wife!"
 
@@ -1240,14 +1237,14 @@ translate ru strings:
     old "Atop them, three men, clearly Tribesmen judging by their complexion and ease with which they rode their horses."
     new "Atop them, three men, clearly Tribesmen judging by their complexion and ease with which they rode their horses."
 
-    old "Emmissary\" \"Hail, Sarah Rose."
-    new "Emmissary\" \"Hail, Sarah Rose."
+    old "Hail, Sarah Rose."
+    new "Hail, Sarah Rose."
 
     old "The man at the lead rode his horse ahead of the others."
     new "The man at the lead rode his horse ahead of the others."
 
-    old "Emmissary\" \"We come bearing a message from Kamal, governor of Rosayi."
-    new "Emmissary\" \"We come bearing a message from Kamal, governor of Rosayi."
+    old "We come bearing a message from Kamal, governor of Rosayi."
+    new "We come bearing a message from Kamal, governor of Rosayi."
 
     old "Rosayi. That is what the Tribesmen had renamed her land in her absence."
     new "Rosayi. That is what the Tribesmen had renamed her land in her absence."
@@ -1261,17 +1258,17 @@ translate ru strings:
     old "The Emmissary smiled."
     new "The Emmissary smiled."
 
-    old "Emmissary\" \"A Queen with no crown. A Queen with no throne. A Queen with no land."
-    new "Emmissary\" \"A Queen with no crown. A Queen with no throne. A Queen with no land."
+    old "A Queen with no crown. A Queen with no throne. A Queen with no land."
+    new "A Queen with no crown. A Queen with no throne. A Queen with no land."
 
-    old "Emmissary\" \"You are no more Queen of these lands than any other who claims it. Only the one who sits on the throne rules it."
-    new "Emmissary\" \"You are no more Queen of these lands than any other who claims it. Only the one who sits on the throne rules it."
+    old "You are no more Queen of these lands than any other who claims it. Only the one who sits on the throne rules it."
+    new "You are no more Queen of these lands than any other who claims it. Only the one who sits on the throne rules it."
 
     old "Worry not. That will be set right soon enough."
     new "Worry not. That will be set right soon enough."
 
-    old "Emmissary\" \"Governor Kamal, who rules in name of the Great Khan, Hassar, has extended to you a kindness."
-    new "Emmissary\" \"Governor Kamal, who rules in name of the Great Khan, Hassar, has extended to you a kindness."
+    old "Governor Kamal, who rules in name of the Great Khan, Hassar, has extended to you a kindness."
+    new "Governor Kamal, who rules in name of the Great Khan, Hassar, has extended to you a kindness."
 
     old "The Emmissary threw a rolled up scroll at her feet."
     new "The Emmissary threw a rolled up scroll at her feet."
@@ -1285,8 +1282,8 @@ translate ru strings:
     old "The Emmissary's face revealed a hint of discomfort. Perhaps he had not expected her to know of such things."
     new "The Emmissary's face revealed a hint of discomfort. Perhaps he had not expected her to know of such things."
 
-    old "Emmissary\" \"Rumors, spread by weaklings that cannot take by strength, so they try to take it by speaking lies."
-    new "Emmissary\" \"Rumors, spread by weaklings that cannot take by strength, so they try to take it by speaking lies."
+    old "Rumors, spread by weaklings that cannot take by strength, so they try to take it by speaking lies."
+    new "Rumors, spread by weaklings that cannot take by strength, so they try to take it by speaking lies."
 
     old "So your Khan still lives?"
     new "So your Khan still lives?"
@@ -1297,8 +1294,8 @@ translate ru strings:
     old "Tell me, what does your Kamal want?"
     new "Tell me, what does your Kamal want?"
 
-    old "Emmissary\" \"He grants you and all your men, a pardon for your treason."
-    new "Emmissary\" \"He grants you and all your men, a pardon for your treason."
+    old "He grants you and all your men, a pardon for your treason."
+    new "He grants you and all your men, a pardon for your treason."
 
     old "Sarah almost had to laugh."
     new "Sarah almost had to laugh."
@@ -1306,59 +1303,59 @@ translate ru strings:
     old "A...pardon?"
     new "A...pardon?"
 
-    old "Emmissary\" \"Yes. He will forgive all of you for your attempts at usurping him rightful throne."
-    new "Emmissary\" \"Yes. He will forgive all of you for your attempts at usurping him rightful throne."
+    old "Yes. He will forgive all of you for your attempts at usurping him rightful throne."
+    new "Yes. He will forgive all of you for your attempts at usurping him rightful throne."
 
-    old "Emmissary\" \"He will allow all of you to breakdown your camp and return to the seas, back from where you came."
-    new "Emmissary\" \"He will allow all of you to breakdown your camp and return to the seas, back from where you came."
+    old "He will allow all of you to breakdown your camp and return to the seas, back from where you came."
+    new "He will allow all of you to breakdown your camp and return to the seas, back from where you came."
 
-    old "Emmissary\" \"By vows spoken under a full moon, he swears."
-    new "Emmissary\" \"By vows spoken under a full moon, he swears."
+    old "By vows spoken under a full moon, he swears."
+    new "By vows spoken under a full moon, he swears."
 
     old "Kind offers, but whatever throne he sits on is not his by right, he stole it."
     new "Kind offers, but whatever throne he sits on is not his by right, he stole it."
 
-    old "Emmissary\" \"He seized by force. By strength."
-    new "Emmissary\" \"He seized by force. By strength."
+    old "He seized by force. By strength."
+    new "He seized by force. By strength."
 
-    old "Emmissary\" \"Such is the only right by which any ruler can make claim to anything."
-    new "Emmissary\" \"Such is the only right by which any ruler can make claim to anything."
+    old "Such is the only right by which any ruler can make claim to anything."
+    new "Such is the only right by which any ruler can make claim to anything."
 
     old "Have you come here to debate philosophies? Because I have not the appetite."
     new "Have you come here to debate philosophies? Because I have not the appetite."
 
-    old "Emmissary\" \"Very well, then if Governor Kamal's kindness will not sway you, then let his threats do."
-    new "Emmissary\" \"Very well, then if Governor Kamal's kindness will not sway you, then let his threats do."
+    old "Very well, then if Governor Kamal's kindness will not sway you, then let his threats do."
+    new "Very well, then if Governor Kamal's kindness will not sway you, then let his threats do."
 
     old "His threats?"
     new "His threats?"
 
-    old "Emmissary\" \"Should you reject this kindness to withdraw, Governor Kamal promised that he would spare you nothing."
-    new "Emmissary\" \"Should you reject this kindness to withdraw, Governor Kamal promised that he would spare you nothing."
+    old "Should you reject this kindness to withdraw, Governor Kamal promised that he would spare you nothing."
+    new "Should you reject this kindness to withdraw, Governor Kamal promised that he would spare you nothing."
 
-    old "Emmissary\" \"He will send his armies out in full, to fight you on the plains of Rosanna, a land he knows well since the passing of these years."
-    new "Emmissary\" \"He will send his armies out in full, to fight you on the plains of Rosanna, a land he knows well since the passing of these years."
+    old "He will send his armies out in full, to fight you on the plains of Rosanna, a land he knows well since the passing of these years."
+    new "He will send his armies out in full, to fight you on the plains of Rosanna, a land he knows well since the passing of these years."
 
-    old "Emmissary\" \"He will shatter your host, which is as weak as your brother's army was when he destroyed on the fields outside of your capital."
-    new "Emmissary\" \"He will shatter your host, which is as weak as your brother's army was when he destroyed on the fields outside of your capital."
+    old "He will shatter your host, which is as weak as your brother's army was when he destroyed on the fields outside of your capital."
+    new "He will shatter your host, which is as weak as your brother's army was when he destroyed on the fields outside of your capital."
 
-    old "Emmissary\" \"He will kill every last man and woman that does not yield in battle."
-    new "Emmissary\" \"He will kill every last man and woman that does not yield in battle."
+    old "He will kill every last man and woman that does not yield in battle."
+    new "He will kill every last man and woman that does not yield in battle."
 
-    old "Emmissary\" \"He will bind in chains and shackles, those whose coward heart's cause them to surrender."
-    new "Emmissary\" \"He will bind in chains and shackles, those whose coward heart's cause them to surrender."
+    old "He will bind in chains and shackles, those whose coward heart's cause them to surrender."
+    new "He will bind in chains and shackles, those whose coward heart's cause them to surrender."
 
-    old "Emmissary\" \"And once he has broken you, he will drag you along at the head of a great slave caravan, back to Al'Gahaem."
-    new "Emmissary\" \"And once he has broken you, he will drag you along at the head of a great slave caravan, back to Al'Gahaem."
+    old "And once he has broken you, he will drag you along at the head of a great slave caravan, back to Al'Gahaem."
+    new "And once he has broken you, he will drag you along at the head of a great slave caravan, back to Al'Gahaem."
 
-    old "Emmissary\" \"And he will make of you and your pitiful soldiers, the greatest gift to our Khan."
-    new "Emmissary\" \"And he will make of you and your pitiful soldiers, the greatest gift to our Khan."
+    old "And he will make of you and your pitiful soldiers, the greatest gift to our Khan."
+    new "And he will make of you and your pitiful soldiers, the greatest gift to our Khan."
 
-    old "Emmissary\" \"Every house of the Tribes will be spoiled for slaves, for generations."
-    new "Emmissary\" \"Every house of the Tribes will be spoiled for slaves, for generations."
+    old "Every house of the Tribes will be spoiled for slaves, for generations."
+    new "Every house of the Tribes will be spoiled for slaves, for generations."
 
-    old "Emmissary\" \"And you, Lady Rose, he will keep as a prized possession for his own delights."
-    new "Emmissary\" \"And you, Lady Rose, he will keep as a prized possession for his own delights."
+    old "And you, Lady Rose, he will keep as a prized possession for his own delights."
+    new "And you, Lady Rose, he will keep as a prized possession for his own delights."
 
     old "Sarah felt the dread building in her chest as the man uttered his threats."
     new "Sarah felt the dread building in her chest as the man uttered his threats."
@@ -1420,20 +1417,20 @@ translate ru strings:
     old "For a while, a heavy silence loomed."
     new "For a while, a heavy silence loomed."
 
-    old "Emmissary\" \"I have delivered the message of Governor Kamal."
-    new "Emmissary\" \"I have delivered the message of Governor Kamal."
+    old "I have delivered the message of Governor Kamal."
+    new "I have delivered the message of Governor Kamal."
 
-    old "Emmissary\" \"And I have taken note of your response."
-    new "Emmissary\" \"And I have taken note of your response."
+    old "And I have taken note of your response."
+    new "And I have taken note of your response."
 
-    old "Emmissary\" \"I will deliver your message back to him."
-    new "Emmissary\" \"I will deliver your message back to him."
+    old "I will deliver your message back to him."
+    new "I will deliver your message back to him."
 
     old "The Emmissary kicked his heels into the sides of his horse, driving it into a gallop."
     new "The Emmissary kicked his heels into the sides of his horse, driving it into a gallop."
 
-    old "Emmissary\" \"Ride!"
-    new "Emmissary\" \"Ride!"
+    old "Ride!"
+    new "Ride!"
 
     old "Together, the three men turned and left, riding out of camp just as they came."
     new "Together, the three men turned and left, riding out of camp just as they came."

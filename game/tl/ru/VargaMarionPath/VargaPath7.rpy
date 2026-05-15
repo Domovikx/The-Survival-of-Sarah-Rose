@@ -286,8 +286,8 @@ translate ru strings:
     old "The soldiers threw the girl down in front of her and Varga, landing in the mud, the young woman's clothes were caked in it."
     new "The soldiers threw the girl down in front of her and Varga, landing in the mud, the young woman's clothes were caked in it."
 
-    old "Soldier\" \"Your highness, we caught this one after she just hurled a rock at us. What do you want us to do with her?"
-    new "Soldier\" \"Your highness, we caught this one after she just hurled a rock at us. What do you want us to do with her?"
+    old "Your highness, we caught this one after she just hurled a rock at us. What do you want us to do with her?"
+    new "Your highness, we caught this one after she just hurled a rock at us. What do you want us to do with her?"
 
     old "Sarah could hear the murmurs spread through the crowd."
     new "Sarah could hear the murmurs spread through the crowd."
@@ -295,8 +295,8 @@ translate ru strings:
     old "If they hadn't known who she was before, the soldier had just given it away."
     new "If they hadn't known who she was before, the soldier had just given it away."
 
-    old "Young woman\" \"Let go of me!"
-    new "Young woman\" \"Let go of me!"
+    old "Let go of me!"
+    new "Let go of me!"
 
     old "Sarah walked up to her as she was still on the ground. With guards everywhere, she was smart enough not to try anything, or so Sarah hoped."
     new "Sarah walked up to her as she was still on the ground. With guards everywhere, she was smart enough not to try anything, or so Sarah hoped."
@@ -304,20 +304,20 @@ translate ru strings:
     old "Is that true?"
     new "Is that true?"
 
-    old "Young woman\" \"That I threw a rock? Pff, it wasn't a rock, a pebble, maybe."
-    new "Young woman\" \"That I threw a rock? Pff, it wasn't a rock, a pebble, maybe."
+    old "That I threw a rock? Pff, it wasn't a rock, a pebble, maybe."
+    new "That I threw a rock? Pff, it wasn't a rock, a pebble, maybe."
 
     old "Why did you do that?"
     new "Why did you do that?"
 
-    old "Young woman\" \"Because you come in here all high and mighty with your army of goons, harassing everyone in town."
-    new "Young woman\" \"Because you come in here all high and mighty with your army of goons, harassing everyone in town."
+    old "Because you come in here all high and mighty with your army of goons, harassing everyone in town."
+    new "Because you come in here all high and mighty with your army of goons, harassing everyone in town."
 
-    old "Young woman\" \"We didn't do anything! We didn't rebel, we're just farming, minding our own business, it's you and yours who come up here and stir shit up!"
-    new "Young woman\" \"We didn't do anything! We didn't rebel, we're just farming, minding our own business, it's you and yours who come up here and stir shit up!"
+    old "We didn't do anything! We didn't rebel, we're just farming, minding our own business, it's you and yours who come up here and stir shit up!"
+    new "We didn't do anything! We didn't rebel, we're just farming, minding our own business, it's you and yours who come up here and stir shit up!"
 
-    old "Young woman\" \"My brother got drafted to fight in your stupid pointless war!"
-    new "Young woman\" \"My brother got drafted to fight in your stupid pointless war!"
+    old "My brother got drafted to fight in your stupid pointless war!"
+    new "My brother got drafted to fight in your stupid pointless war!"
 
     old "Sarah could hear the crowd grow restless. It was clear the young woman didn't just speak for herself."
     new "Sarah could hear the crowd grow restless. It was clear the young woman didn't just speak for herself."
@@ -340,14 +340,14 @@ translate ru strings:
     old "Release her."
     new "Release her."
 
-    old "Soldier\" \"Yes, Princess."
-    new "Soldier\" \"Yes, Princess."
+    old "Yes, Princess."
+    new "Yes, Princess."
 
     old "They honored her command, but Sarah could see she had lost some of their respect."
     new "They honored her command, but Sarah could see she had lost some of their respect."
 
-    old "Young woman\" \"Thank you, Princess! Thank you for your mercy!"
-    new "Young woman\" \"Thank you, Princess! Thank you for your mercy!"
+    old "Thank you, Princess! Thank you for your mercy!"
+    new "Thank you, Princess! Thank you for your mercy!"
 
     old "She watched her leap up to his feet and run off, clearly not wishing to risk her good luck by staying here any longer."
     new "She watched her leap up to his feet and run off, clearly not wishing to risk her good luck by staying here any longer."
@@ -400,20 +400,20 @@ translate ru strings:
     old "Armsman!"
     new "Armsman!"
 
-    old "Soldier\" \"Yes, Princess?"
-    new "Soldier\" \"Yes, Princess?"
+    old "Yes, Princess?"
+    new "Yes, Princess?"
 
     old "Strip this woman, tie her to a pole, and flog her in the square."
     new "Strip this woman, tie her to a pole, and flog her in the square."
 
-    old "Soldier\" \"As you command!"
-    new "Soldier\" \"As you command!"
+    old "As you command!"
+    new "As you command!"
 
     old "Sarah could see the attitude of her soldiers shift. They saw her as having their backs."
     new "Sarah could see the attitude of her soldiers shift. They saw her as having their backs."
 
-    old "Young woman\" \"No! Please! You can't do this, you don't have the right!"
-    new "Young woman\" \"No! Please! You can't do this, you don't have the right!"
+    old "No! Please! You can't do this, you don't have the right!"
+    new "No! Please! You can't do this, you don't have the right!"
 
     old "But Sarah did have the right, as the young woman would soon learn."
     new "But Sarah did have the right, as the young woman would soon learn."
@@ -484,8 +484,8 @@ translate ru strings:
     old "Take her down and mend her wounds."
     new "Take her down and mend her wounds."
 
-    old "Soldier\" \"At once, my princess!"
-    new "Soldier\" \"At once, my princess!"
+    old "At once, my princess!"
+    new "At once, my princess!"
 
     old "Moving as one, the soldiers easily untied the young woman and carefully placed her on a stretcher, applying bandages to the very wounds they had just caused."
     new "Moving as one, the soldiers easily untied the young woman and carefully placed her on a stretcher, applying bandages to the very wounds they had just caused."

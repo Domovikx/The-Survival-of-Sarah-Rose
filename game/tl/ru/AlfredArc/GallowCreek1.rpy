@@ -73,8 +73,8 @@ translate ru strings:
     old "Just as she was taking it all in, she heard a voice."
     new "Just as she was taking it all in, she heard a voice."
 
-    old "Voice\" \"Oy!"
-    new "Voice\" \"Oy!"
+    old "Oy!"
+    new "Oy!"
 
     old "Sarah turned, startled."
     new "Sarah turned, startled."
@@ -82,8 +82,8 @@ translate ru strings:
     old "A young man, close to her in age, was climbing down from a cart."
     new "A young man, close to her in age, was climbing down from a cart."
 
-    old "Young man\" \"Who are you, exactly?"
-    new "Young man\" \"Who are you, exactly?"
+    old "Who are you, exactly?"
+    new "Who are you, exactly?"
 
     old "He came closer to her as he spoke."
     new "He came closer to her as he spoke."
@@ -91,8 +91,8 @@ translate ru strings:
     old "Hey there, my name is Sarah, uhm...is this Gallow's Creek?"
     new "Hey there, my name is Sarah, uhm...is this Gallow's Creek?"
 
-    old "Young man\" \"Ay, that it is. But what business is that of yours?"
-    new "Young man\" \"Ay, that it is. But what business is that of yours?"
+    old "Ay, that it is. But what business is that of yours?"
+    new "Ay, that it is. But what business is that of yours?"
 
     old "He regarded her with more than a little suspicion."
     new "He regarded her with more than a little suspicion."
@@ -100,8 +100,8 @@ translate ru strings:
     old "Well...uhm...this might sound odd but I was brought here by a man named Sigmund."
     new "Well...uhm...this might sound odd but I was brought here by a man named Sigmund."
 
-    old "Young man\" \"Sigmund? Ay, I know him. He send you?"
-    new "Young man\" \"Sigmund? Ay, I know him. He send you?"
+    old "Sigmund? Ay, I know him. He send you?"
+    new "Sigmund? Ay, I know him. He send you?"
 
     old "Yes, in a way."
     new "Yes, in a way."
@@ -115,11 +115,11 @@ translate ru strings:
     old "The young man frowned, regarding her a moment longer."
     new "The young man frowned, regarding her a moment longer."
 
-    old "Young man\" \"I don't know about good people, but this here town is a decent play to live, ay. Decent as any, I imagine."
-    new "Young man\" \"I don't know about good people, but this here town is a decent play to live, ay. Decent as any, I imagine."
+    old "I don't know about good people, but this here town is a decent play to live, ay. Decent as any, I imagine."
+    new "I don't know about good people, but this here town is a decent play to live, ay. Decent as any, I imagine."
 
-    old "Young man\" \"And I suppose if Sigmund liked ya, you can't be too shady."
-    new "Young man\" \"And I suppose if Sigmund liked ya, you can't be too shady."
+    old "And I suppose if Sigmund liked ya, you can't be too shady."
+    new "And I suppose if Sigmund liked ya, you can't be too shady."
 
     old "Shady?"
     new "Shady?"
@@ -130,8 +130,8 @@ translate ru strings:
     old "The young man smiled."
     new "The young man smiled."
 
-    old "Young man\" \"Sorry, this town don't get many visitors. And those that do rarely look like...well, you."
-    new "Young man\" \"Sorry, this town don't get many visitors. And those that do rarely look like...well, you."
+    old "Sorry, this town don't get many visitors. And those that do rarely look like...well, you."
+    new "Sorry, this town don't get many visitors. And those that do rarely look like...well, you."
 
     old "He gestured at her with his head as if that was supposed to mean something."
     new "He gestured at her with his head as if that was supposed to mean something."
@@ -310,11 +310,11 @@ translate ru strings:
     old "Suddenly, another voice called out."
     new "Suddenly, another voice called out."
 
-    old "Voice\" \"Who is that?"
-    new "Voice\" \"Who is that?"
+    old "Who is that?"
+    new "Who is that?"
 
-    old "Voice\" \"That you, Marius?"
-    new "Voice\" \"That you, Marius?"
+    old "That you, Marius?"
+    new "That you, Marius?"
 
     old "No worries, just me dad!"
     new "No worries, just me dad!"
@@ -340,8 +340,8 @@ translate ru strings:
     old "The old man frowned as he saw her."
     new "The old man frowned as he saw her."
 
-    old "Old man\" \"Boy! I told you to warn me when we get visitors. Especially one as lovely as this one."
-    new "Old man\" \"Boy! I told you to warn me when we get visitors. Especially one as lovely as this one."
+    old "Boy! I told you to warn me when we get visitors. Especially one as lovely as this one."
+    new "Boy! I told you to warn me when we get visitors. Especially one as lovely as this one."
 
     old "Sarah blushed and smiled."
     new "Sarah blushed and smiled."

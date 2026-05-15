@@ -772,9 +772,6 @@ translate ru strings:
     old "The old tailor groaned with pleasure."
     new "The old tailor groaned with pleasure."
 
-    old "There you go..."
-    new "There you go..."
-
     old "He was never nice to her. But when she serviced him, it was as close as he'd get."
     new "He was never nice to her. But when she serviced him, it was as close as he'd get."
 
@@ -900,9 +897,6 @@ translate ru strings:
 
     old "I will marry you..."
     new "I will marry you..."
-
-    old "Good girl."
-    new "Good girl."
 
     old "He brushed the side of her cheek."
     new "He brushed the side of her cheek."

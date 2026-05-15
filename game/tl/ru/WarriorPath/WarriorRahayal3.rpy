@@ -382,14 +382,14 @@ translate ru strings:
     old "Gilead clapped his hands together, and a servant came rushing."
     new "Gilead clapped his hands together, and a servant came rushing."
 
-    old "Servant\" \"Yes, Master?"
-    new "Servant\" \"Yes, Master?"
+    old "Yes, Master?"
+    new "Yes, Master?"
 
     old "Please bring out something to eat for me and my dear guests."
     new "Please bring out something to eat for me and my dear guests."
 
-    old "Servant\" \"Right away, Master."
-    new "Servant\" \"Right away, Master."
+    old "Right away, Master."
+    new "Right away, Master."
 
     old "As quickly as the servant had appeared, so quickly was he now gone."
     new "As quickly as the servant had appeared, so quickly was he now gone."
@@ -573,9 +573,6 @@ translate ru strings:
 
     old "Their armies broke through nearly every defensive line we had...except for one."
     new "Their armies broke through nearly every defensive line we had...except for one."
-
-    old "Yours..."
-    new "Yours..."
 
     old "The Orcs went on a rampage. Looting, murdering, making slaves."
     new "The Orcs went on a rampage. Looting, murdering, making slaves."

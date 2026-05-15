@@ -150,3 +150,4 @@ translate ru strings:
 
     old "Promise!"
     new "Обещаю!"
+

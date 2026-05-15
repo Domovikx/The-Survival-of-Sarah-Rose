@@ -10,14 +10,14 @@ translate ru strings:
     old "The offical clasped his hands together and smiled."
     new "The offical clasped his hands together and smiled."
 
-    old "Official\" \"Ooh, don't worry about that. So much work to be done, we'll find you something."
-    new "Official\" \"Ooh, don't worry about that. So much work to be done, we'll find you something."
+    old "Ooh, don't worry about that. So much work to be done, we'll find you something."
+    new "Ooh, don't worry about that. So much work to be done, we'll find you something."
 
-    old "Official\" \"The Headmaster runs the day-to-day affairs of master Gilead's Estate. He'll get you started."
-    new "Official\" \"The Headmaster runs the day-to-day affairs of master Gilead's Estate. He'll get you started."
+    old "The Headmaster runs the day-to-day affairs of master Gilead's Estate. He'll get you started."
+    new "The Headmaster runs the day-to-day affairs of master Gilead's Estate. He'll get you started."
 
-    old "Official\" \"All you have to do is sign here."
-    new "Official\" \"All you have to do is sign here."
+    old "All you have to do is sign here."
+    new "All you have to do is sign here."
 
     old "The official pushed a copy of the contract in front of her."
     new "The official pushed a copy of the contract in front of her."
@@ -28,17 +28,14 @@ translate ru strings:
     old "The official snatched the contract away, rolled it up and quickly secured it in a protective binder."
     new "The official snatched the contract away, rolled it up and quickly secured it in a protective binder."
 
-    old "Official\" \"Excellent."
-    new "Official\" \"Excellent."
-
-    old "Official\" \"Now, all of you lot, follow me and I will take you to the master's Estate."
-    new "Official\" \"Now, all of you lot, follow me and I will take you to the master's Estate."
+    old "Now, all of you lot, follow me and I will take you to the master's Estate."
+    new "Now, all of you lot, follow me and I will take you to the master's Estate."
 
     old "Right now?"
     new "Right now?"
 
-    old "Official\" \"Of course. Unless you have something better to do on your first work day?"
-    new "Official\" \"Of course. Unless you have something better to do on your first work day?"
+    old "Of course. Unless you have something better to do on your first work day?"
+    new "Of course. Unless you have something better to do on your first work day?"
 
     old "Sarah knew that she didn't, but everything still seemed to be moving very quickly."
     new "Sarah knew that she didn't, but everything still seemed to be moving very quickly."
@@ -55,8 +52,8 @@ translate ru strings:
     old "After some time, the official turned and raised his hands."
     new "After some time, the official turned and raised his hands."
 
-    old "Official\" \"We have arrived."
-    new "Official\" \"We have arrived."
+    old "We have arrived."
+    new "We have arrived."
 
     old "For a moment, Sarah was confused."
     new "For a moment, Sarah was confused."
@@ -79,8 +76,8 @@ translate ru strings:
     old "Each time she turned her head, she perceived a different part of it. The whole of thing was ungraspable."
     new "Each time she turned her head, she perceived a different part of it. The whole of thing was ungraspable."
 
-    old "Official\" \"This is the main gate. Obviously, it's not meant for you lot, please follow me to the service entrance."
-    new "Official\" \"This is the main gate. Obviously, it's not meant for you lot, please follow me to the service entrance."
+    old "This is the main gate. Obviously, it's not meant for you lot, please follow me to the service entrance."
+    new "This is the main gate. Obviously, it's not meant for you lot, please follow me to the service entrance."
 
     old "Sarah remained transfixed for a moment longer."
     new "Sarah remained transfixed for a moment longer."
@@ -121,8 +118,8 @@ translate ru strings:
     old "Though this was only an Estate, it seemed to rival, if not exceed, the kitchen at Castle Reinmeer."
     new "Though this was only an Estate, it seemed to rival, if not exceed, the kitchen at Castle Reinmeer."
 
-    old "Official\" \"Excellent. The Headmaster will take it from here."
-    new "Official\" \"Excellent. The Headmaster will take it from here."
+    old "Excellent. The Headmaster will take it from here."
+    new "Excellent. The Headmaster will take it from here."
 
     old "Sarah watched a man walk up. Older, but not by much, he seemed lean and strong for his age."
     new "Sarah watched a man walk up. Older, but not by much, he seemed lean and strong for his age."
@@ -139,8 +136,8 @@ translate ru strings:
     old "The official grinned."
     new "The official grinned."
 
-    old "Official\" \"I'm sure they are all quite talented. And what talents they might lack, they will learn quick enough."
-    new "Official\" \"I'm sure they are all quite talented. And what talents they might lack, they will learn quick enough."
+    old "I'm sure they are all quite talented. And what talents they might lack, they will learn quick enough."
+    new "I'm sure they are all quite talented. And what talents they might lack, they will learn quick enough."
 
     old "The Headmaster sighed."
     new "The Headmaster sighed."
@@ -328,8 +325,8 @@ translate ru strings:
     old "The old man looked up, an annoyed expression on his face."
     new "The old man looked up, an annoyed expression on his face."
 
-    old "Tailor\" \"What? You lost?"
-    new "Tailor\" \"What? You lost?"
+    old "What? You lost?"
+    new "What? You lost?"
 
     old "No I...was supposed to start today."
     new "No I...was supposed to start today."
@@ -337,8 +334,8 @@ translate ru strings:
     old "The old man sighed."
     new "The old man sighed."
 
-    old "Tailor\" \"Kitchen or Housekeeping?"
-    new "Tailor\" \"Kitchen or Housekeeping?"
+    old "Kitchen or Housekeeping?"
+    new "Kitchen or Housekeeping?"
 
     old "Housekeeping."
     new "Housekeeping."
@@ -346,17 +343,17 @@ translate ru strings:
     old "The old man gestured towards a pedestal in the middle of the room."
     new "The old man gestured towards a pedestal in the middle of the room."
 
-    old "Tailor\" \"Very well, strip down and get on the measuring table."
-    new "Tailor\" \"Very well, strip down and get on the measuring table."
+    old "Very well, strip down and get on the measuring table."
+    new "Very well, strip down and get on the measuring table."
 
     old "Strip...down?"
     new "Strip...down?"
 
-    old "Tailor\" \"Do they only hire the slow girls these days?"
-    new "Tailor\" \"Do they only hire the slow girls these days?"
+    old "Do they only hire the slow girls these days?"
+    new "Do they only hire the slow girls these days?"
 
-    old "Tailor\" \"Yes, strip down. I need to take your measurements."
-    new "Tailor\" \"Yes, strip down. I need to take your measurements."
+    old "Yes, strip down. I need to take your measurements."
+    new "Yes, strip down. I need to take your measurements."
 
     old "Sarah remembered the words of the Headmaster."
     new "Sarah remembered the words of the Headmaster."
@@ -382,14 +379,14 @@ translate ru strings:
     old "His eyes slowly roamed up and down her body, taking more than just her measurements."
     new "His eyes slowly roamed up and down her body, taking more than just her measurements."
 
-    old "Tailor\" \"Strip, I said."
-    new "Tailor\" \"Strip, I said."
+    old "Strip, I said."
+    new "Strip, I said."
 
     old "I just did."
     new "I just did."
 
-    old "Tailor\" \"All of it. The underwear too."
-    new "Tailor\" \"All of it. The underwear too."
+    old "All of it. The underwear too."
+    new "All of it. The underwear too."
 
     old "Sarah felt herself turn red in the face."
     new "Sarah felt herself turn red in the face."
@@ -400,23 +397,23 @@ translate ru strings:
     old "You don't need that to take my measurements!"
     new "You don't need that to take my measurements!"
 
-    old "Tailor\" \"Who is the tailor, you or me?"
-    new "Tailor\" \"Who is the tailor, you or me?"
+    old "Who is the tailor, you or me?"
+    new "Who is the tailor, you or me?"
 
     old "I-"
     new "I-"
 
-    old "Tailor\" \"No, listen to me girl. If you give me trouble, I can give trouble back."
-    new "Tailor\" \"No, listen to me girl. If you give me trouble, I can give trouble back."
+    old "No, listen to me girl. If you give me trouble, I can give trouble back."
+    new "No, listen to me girl. If you give me trouble, I can give trouble back."
 
-    old "Tailor\" \"The uniform of master Gilead's Estate is very exact. He demands utter perfection."
-    new "Tailor\" \"The uniform of master Gilead's Estate is very exact. He demands utter perfection."
+    old "The uniform of master Gilead's Estate is very exact. He demands utter perfection."
+    new "The uniform of master Gilead's Estate is very exact. He demands utter perfection."
 
-    old "Tailor\" \"Just a few inches off, and he will not be pleased."
-    new "Tailor\" \"Just a few inches off, and he will not be pleased."
+    old "Just a few inches off, and he will not be pleased."
+    new "Just a few inches off, and he will not be pleased."
 
-    old "Tailor\" \"So yes, please, take off all of it."
-    new "Tailor\" \"So yes, please, take off all of it."
+    old "So yes, please, take off all of it."
+    new "So yes, please, take off all of it."
 
     old "Strip completely naked"
     new "Strip completely naked"
@@ -442,11 +439,11 @@ translate ru strings:
     old "Are you going to do your job now?"
     new "Are you going to do your job now?"
 
-    old "Tailor\" \"A good craftsmen must first study the object of his work."
-    new "Tailor\" \"A good craftsmen must first study the object of his work."
+    old "A good craftsmen must first study the object of his work."
+    new "A good craftsmen must first study the object of his work."
 
-    old "Tailor\" \"A mason does not just blindly hack into his marble, nor do I start without properly inspecting the body."
-    new "Tailor\" \"A mason does not just blindly hack into his marble, nor do I start without properly inspecting the body."
+    old "A mason does not just blindly hack into his marble, nor do I start without properly inspecting the body."
+    new "A mason does not just blindly hack into his marble, nor do I start without properly inspecting the body."
 
     old "Sarah did all she could to hold back her anger."
     new "Sarah did all she could to hold back her anger."
@@ -454,14 +451,14 @@ translate ru strings:
     old "The old man walked around the room, looking at her from all sides."
     new "The old man walked around the room, looking at her from all sides."
 
-    old "Tailor\" \"Aah...yes."
-    new "Tailor\" \"Aah...yes."
+    old "Aah...yes."
+    new "Aah...yes."
 
     old "She suddenly felt his fingers pricking into her rear."
     new "She suddenly felt his fingers pricking into her rear."
 
-    old "Tailor\" \"Stay still, please."
-    new "Tailor\" \"Stay still, please."
+    old "Stay still, please."
+    new "Stay still, please."
 
     old "Sarah resumed her pose, doing all she could not to let the old man's advances trouble her."
     new "Sarah resumed her pose, doing all she could not to let the old man's advances trouble her."
@@ -481,8 +478,8 @@ translate ru strings:
     old "Slowly he stumbled back towards her."
     new "Slowly he stumbled back towards her."
 
-    old "Tailor\" \"Now, don't move, this is an exact science."
-    new "Tailor\" \"Now, don't move, this is an exact science."
+    old "Now, don't move, this is an exact science."
+    new "Now, don't move, this is an exact science."
 
     old "Sarah felt the old man's touch on her lower leg as he applied one end of the tape."
     new "Sarah felt the old man's touch on her lower leg as he applied one end of the tape."
@@ -505,8 +502,8 @@ translate ru strings:
     old "The old tailor had ran the measuring tape so far up along the insides of her legs, that his hand had grazed her pussy."
     new "The old tailor had ran the measuring tape so far up along the insides of her legs, that his hand had grazed her pussy."
 
-    old "Tailor\" \"Just taking measurements."
-    new "Tailor\" \"Just taking measurements."
+    old "Just taking measurements."
+    new "Just taking measurements."
 
     old "You don't have to measure that!"
     new "You don't have to measure that!"
@@ -514,11 +511,11 @@ translate ru strings:
     old "The old tailor only laughed."
     new "The old tailor only laughed."
 
-    old "Tailor\" \"Don't worry, girl. You ain't got anything I haven't seen a thousand times before."
-    new "Tailor\" \"Don't worry, girl. You ain't got anything I haven't seen a thousand times before."
+    old "Don't worry, girl. You ain't got anything I haven't seen a thousand times before."
+    new "Don't worry, girl. You ain't got anything I haven't seen a thousand times before."
 
-    old "Tailor\" \"Maybe a bit younger and fitter than my regular customer, but whose complaining."
-    new "Tailor\" \"Maybe a bit younger and fitter than my regular customer, but whose complaining."
+    old "Maybe a bit younger and fitter than my regular customer, but whose complaining."
+    new "Maybe a bit younger and fitter than my regular customer, but whose complaining."
 
     old "I am! Just...take the measurements!"
     new "I am! Just...take the measurements!"
@@ -541,17 +538,17 @@ translate ru strings:
     old "Sarah didn't believe any of it, but she didn't have much of a choice either."
     new "Sarah didn't believe any of it, but she didn't have much of a choice either."
 
-    old "Tailor\" \"Don't fidget so much."
-    new "Tailor\" \"Don't fidget so much."
+    old "Don't fidget so much."
+    new "Don't fidget so much."
 
     old "You're a complete stranger, staring at me, grabbing at me, what do you expect?!"
     new "You're a complete stranger, staring at me, grabbing at me, what do you expect?!"
 
-    old "Tailor\" \"I am just doing my work, girl. And if you stopped fidgeting so much, you'd be finished a lot sooner."
-    new "Tailor\" \"I am just doing my work, girl. And if you stopped fidgeting so much, you'd be finished a lot sooner."
+    old "I am just doing my work, girl. And if you stopped fidgeting so much, you'd be finished a lot sooner."
+    new "I am just doing my work, girl. And if you stopped fidgeting so much, you'd be finished a lot sooner."
 
-    old "Tailor\" \"Unless you enjoy modeling for me."
-    new "Tailor\" \"Unless you enjoy modeling for me."
+    old "Unless you enjoy modeling for me."
+    new "Unless you enjoy modeling for me."
 
     old "Sarah felt her face turn more red."
     new "Sarah felt her face turn more red."
@@ -559,14 +556,14 @@ translate ru strings:
     old "Of course I don't! Just...hurry up..."
     new "Of course I don't! Just...hurry up..."
 
-    old "Tailor\" \"Why? Getting cold?"
-    new "Tailor\" \"Why? Getting cold?"
+    old "Why? Getting cold?"
+    new "Why? Getting cold?"
 
     old "He gestured at her nipples. Hard and erect."
     new "He gestured at her nipples. Hard and erect."
 
-    old "Tailor\" \"No need to answer that."
-    new "Tailor\" \"No need to answer that."
+    old "No need to answer that."
+    new "No need to answer that."
 
     old "Finally, the old tailor walked away, back to his bench."
     new "Finally, the old tailor walked away, back to his bench."
@@ -577,11 +574,11 @@ translate ru strings:
     old "She watched him write some numbers on a piece of paper, then walk over towards a uniform, pulling it off the rack."
     new "She watched him write some numbers on a piece of paper, then walk over towards a uniform, pulling it off the rack."
 
-    old "Tailor\" \"I'll make you a brand new uniform in time, but since you're starting today, we can manage with an old one."
-    new "Tailor\" \"I'll make you a brand new uniform in time, but since you're starting today, we can manage with an old one."
+    old "I'll make you a brand new uniform in time, but since you're starting today, we can manage with an old one."
+    new "I'll make you a brand new uniform in time, but since you're starting today, we can manage with an old one."
 
-    old "Tailor\" \"I'll have to fix it to your specifications, so give me a minute."
-    new "Tailor\" \"I'll have to fix it to your specifications, so give me a minute."
+    old "I'll have to fix it to your specifications, so give me a minute."
+    new "I'll have to fix it to your specifications, so give me a minute."
 
     old "Sarah stood on the pedestal, waiting, as she watched the tailor make the changes to the dress."
     new "Sarah stood on the pedestal, waiting, as she watched the tailor make the changes to the dress."
@@ -589,8 +586,8 @@ translate ru strings:
     old "Finally, when he was finished, he walked over and handed it to her."
     new "Finally, when he was finished, he walked over and handed it to her."
 
-    old "Tailor\" \"There, try this one."
-    new "Tailor\" \"There, try this one."
+    old "There, try this one."
+    new "There, try this one."
 
     old "Eager to be clothed again, Sarah began putting on the maid's uniform."
     new "Eager to be clothed again, Sarah began putting on the maid's uniform."
@@ -601,11 +598,8 @@ translate ru strings:
     old "It...fits. Perfectly."
     new "It...fits. Perfectly."
 
-    old "Tailor\" \"Of course."
-    new "Tailor\" \"Of course."
-
-    old "Tailor\" \"I am good at my job, despite what you might suspect."
-    new "Tailor\" \"I am good at my job, despite what you might suspect."
+    old "I am good at my job, despite what you might suspect."
+    new "I am good at my job, despite what you might suspect."
 
     old "Sarah ran her hands along the fit of the dress."
     new "Sarah ran her hands along the fit of the dress."
@@ -616,8 +610,8 @@ translate ru strings:
     old "Sarah turned to walk away."
     new "Sarah turned to walk away."
 
-    old "Tailor\" \"Are you forgetting something, girl?"
-    new "Tailor\" \"Are you forgetting something, girl?"
+    old "Are you forgetting something, girl?"
+    new "Are you forgetting something, girl?"
 
     old "Sarah looked back at him and sighed."
     new "Sarah looked back at him and sighed."
@@ -640,17 +634,17 @@ translate ru strings:
     old "You're just a pervert that want to see me naked."
     new "You're just a pervert that want to see me naked."
 
-    old "Tailor\" \"Listen here girl, I told you if you cause me trouble then I-"
-    new "Tailor\" \"Listen here girl, I told you if you cause me trouble then I-"
+    old "Listen here girl, I told you if you cause me trouble then I-"
+    new "Listen here girl, I told you if you cause me trouble then I-"
 
     old "I can go and report you to the Headmaster. See what he has to think about this."
     new "I can go and report you to the Headmaster. See what he has to think about this."
 
-    old "Tailor\" \"Well, no need to bother the Headmaster with this nonesense."
-    new "Tailor\" \"Well, no need to bother the Headmaster with this nonesense."
+    old "Well, no need to bother the Headmaster with this nonesense."
+    new "Well, no need to bother the Headmaster with this nonesense."
 
-    old "Tailor\" \"Fine, keep your underwear on, but don't come crying to me if you are reprimanded."
-    new "Tailor\" \"Fine, keep your underwear on, but don't come crying to me if you are reprimanded."
+    old "Fine, keep your underwear on, but don't come crying to me if you are reprimanded."
+    new "Fine, keep your underwear on, but don't come crying to me if you are reprimanded."
 
     old "Sarah slightly smiled, realizing she had gotten the better of the old tailor."
     new "Sarah slightly smiled, realizing she had gotten the better of the old tailor."
@@ -958,8 +952,8 @@ translate ru strings:
     old "She hadn't been sitting for more than a minute when she heard a voice."
     new "She hadn't been sitting for more than a minute when she heard a voice."
 
-    old "Girl\" \"Hey there!"
-    new "Girl\" \"Hey there!"
+    old "Hey there!"
+    new "Hey there!"
 
     old "Sarah looked over and saw a bright-eyed woman, close to her own age, with a wide beaming smile."
     new "Sarah looked over and saw a bright-eyed woman, close to her own age, with a wide beaming smile."
@@ -1921,8 +1915,8 @@ translate ru strings:
     old "Behind him, another man, dressed in clothes that radiated wealth, desperately tried to keep up."
     new "Behind him, another man, dressed in clothes that radiated wealth, desperately tried to keep up."
 
-    old "Advisor\" \"Master Gilead, I fear that the reception has not been so positive."
-    new "Advisor\" \"Master Gilead, I fear that the reception has not been so positive."
+    old "Master Gilead, I fear that the reception has not been so positive."
+    new "Master Gilead, I fear that the reception has not been so positive."
 
     old "Which of them have rejected the proposal?"
     new "Which of them have rejected the proposal?"
@@ -1930,8 +1924,8 @@ translate ru strings:
     old "The man stammered, before daring to speak."
     new "The man stammered, before daring to speak."
 
-    old "Advisor\" \"Master Gilead...all of them."
-    new "Advisor\" \"Master Gilead...all of them."
+    old "Master Gilead...all of them."
+    new "Master Gilead...all of them."
 
     old "The man suddenly stopped, turning towards the other."
     new "The man suddenly stopped, turning towards the other."
@@ -1942,14 +1936,14 @@ translate ru strings:
     old "Is this a joke?"
     new "Is this a joke?"
 
-    old "Advisor\" \"Master, you do not pay me to lie to you."
-    new "Advisor\" \"Master, you do not pay me to lie to you."
+    old "Master, you do not pay me to lie to you."
+    new "Master, you do not pay me to lie to you."
 
-    old "Advisor\" \"I contacted them in the most delicate way, regarding a meeting to discuss the proposal."
-    new "Advisor\" \"I contacted them in the most delicate way, regarding a meeting to discuss the proposal."
+    old "I contacted them in the most delicate way, regarding a meeting to discuss the proposal."
+    new "I contacted them in the most delicate way, regarding a meeting to discuss the proposal."
 
-    old "Advisor\" \"They did not even care for a meeting."
-    new "Advisor\" \"They did not even care for a meeting."
+    old "They did not even care for a meeting."
+    new "They did not even care for a meeting."
 
     old "The man named Gilead was still like a statue."
     new "The man named Gilead was still like a statue."
@@ -1960,14 +1954,14 @@ translate ru strings:
     old "This is that fool Caliban's doing."
     new "This is that fool Caliban's doing."
 
-    old "Advisor\" \"Master, could it not simply be that they find your proposal..."
-    new "Advisor\" \"Master, could it not simply be that they find your proposal..."
+    old "Master, could it not simply be that they find your proposal..."
+    new "Master, could it not simply be that they find your proposal..."
 
     old "The man was searching for a careful word."
     new "The man was searching for a careful word."
 
-    old "Advisor\" \"Too ambitious?"
-    new "Advisor\" \"Too ambitious?"
+    old "Too ambitious?"
+    new "Too ambitious?"
 
     old "Ambitious?"
     new "Ambitious?"
@@ -1975,17 +1969,17 @@ translate ru strings:
     old "Was this Empire of ours not build on men of vision? Must we now instead be ruled by cowards that squable over meaningless frontiers?"
     new "Was this Empire of ours not build on men of vision? Must we now instead be ruled by cowards that squable over meaningless frontiers?"
 
-    old "Advisor\" \"Master, you know I share your position."
-    new "Advisor\" \"Master, you know I share your position."
+    old "Master, you know I share your position."
+    new "Master, you know I share your position."
 
-    old "Advisor\" \"But there are many who speak of the Orc threat-"
-    new "Advisor\" \"But there are many who speak of the Orc threat-"
+    old "But there are many who speak of the Orc threat-"
+    new "But there are many who speak of the Orc threat-"
 
     old "This Orc threat? The Orcs have done nothing for decades now. They are an excuse."
     new "This Orc threat? The Orcs have done nothing for decades now. They are an excuse."
 
-    old "Advisor\" \"So...what do you suggest we do, Master?"
-    new "Advisor\" \"So...what do you suggest we do, Master?"
+    old "So...what do you suggest we do, Master?"
+    new "So...what do you suggest we do, Master?"
 
     old "A pause lingered, and the hall was quiet as a grave."
     new "A pause lingered, and the hall was quiet as a grave."
@@ -1993,8 +1987,8 @@ translate ru strings:
     old "Organize a masquerade."
     new "Organize a masquerade."
 
-    old "Advisor\" \"A masquerade?"
-    new "Advisor\" \"A masquerade?"
+    old "A masquerade?"
+    new "A masquerade?"
 
     old "If I am correct, and this has been that worm Caliban's doing, then we must delay my proposal for now."
     new "If I am correct, and this has been that worm Caliban's doing, then we must delay my proposal for now."
@@ -2002,8 +1996,8 @@ translate ru strings:
     old "Instead, we should begin anew. Win allies to our side, then push for the proposal when we have more support."
     new "Instead, we should begin anew. Win allies to our side, then push for the proposal when we have more support."
 
-    old "Advisor\" \"And you think a masquerade will be enough?"
-    new "Advisor\" \"And you think a masquerade will be enough?"
+    old "And you think a masquerade will be enough?"
+    new "And you think a masquerade will be enough?"
 
     old "Not enough, but it will be the start."
     new "Not enough, but it will be the start."
@@ -2011,8 +2005,8 @@ translate ru strings:
     old "Be certain that we invite some of those refugees as well."
     new "Be certain that we invite some of those refugees as well."
 
-    old "Advisor\" \"What can they possibly offer our cause?"
-    new "Advisor\" \"What can they possibly offer our cause?"
+    old "What can they possibly offer our cause?"
+    new "What can they possibly offer our cause?"
 
     old "Legitimacy. Let me play the champion to their cause, and we can begin to build the momentum we need."
     new "Legitimacy. Let me play the champion to their cause, and we can begin to build the momentum we need."
@@ -2023,11 +2017,11 @@ translate ru strings:
     old "The advisor nodded."
     new "The advisor nodded."
 
-    old "Advisor\" \"Yes, Master Gilead."
-    new "Advisor\" \"Yes, Master Gilead."
+    old "Yes, Master Gilead."
+    new "Yes, Master Gilead."
 
-    old "Advisor\" \"I will instruct the Headmaster to make preparations at once."
-    new "Advisor\" \"I will instruct the Headmaster to make preparations at once."
+    old "I will instruct the Headmaster to make preparations at once."
+    new "I will instruct the Headmaster to make preparations at once."
 
     old "The young man began to almost sprint away in the opposite direction."
     new "The young man began to almost sprint away in the opposite direction."
@@ -2311,8 +2305,8 @@ translate ru strings:
     old "Slowly, the old tailor looked up at her."
     new "Slowly, the old tailor looked up at her."
 
-    old "Tailor\" \"You again..."
-    new "Tailor\" \"You again..."
+    old "You again..."
+    new "You again..."
 
     old "He looked back at his work."
     new "He looked back at his work."
@@ -2323,11 +2317,11 @@ translate ru strings:
     old "You need to help me."
     new "You need to help me."
 
-    old "Tailor\" \"Were you raised on a farm?"
-    new "Tailor\" \"Were you raised on a farm?"
+    old "Were you raised on a farm?"
+    new "Were you raised on a farm?"
 
-    old "Tailor\" \"You think this is how you come and ask for my help? By demanding it?"
-    new "Tailor\" \"You think this is how you come and ask for my help? By demanding it?"
+    old "You think this is how you come and ask for my help? By demanding it?"
+    new "You think this is how you come and ask for my help? By demanding it?"
 
     old "Sarah felt herself become flustered."
     new "Sarah felt herself become flustered."
@@ -2338,20 +2332,20 @@ translate ru strings:
     old "The tailor put his work away."
     new "The tailor put his work away."
 
-    old "Tailor\" \"That's better."
-    new "Tailor\" \"That's better."
+    old "That's better."
+    new "That's better."
 
-    old "Tailor\" \"What is the matter?"
-    new "Tailor\" \"What is the matter?"
+    old "What is the matter?"
+    new "What is the matter?"
 
     old "Sarah held up part of her skirt, the ripped shreds clearly showing."
     new "Sarah held up part of her skirt, the ripped shreds clearly showing."
 
-    old "Tailor\" \"You know, those uniforms are not cheap."
-    new "Tailor\" \"You know, those uniforms are not cheap."
+    old "You know, those uniforms are not cheap."
+    new "You know, those uniforms are not cheap."
 
-    old "Tailor\" \"You can't just go and rip them up every day. They'll have to take that out of your pay if you keep that up."
-    new "Tailor\" \"You can't just go and rip them up every day. They'll have to take that out of your pay if you keep that up."
+    old "You can't just go and rip them up every day. They'll have to take that out of your pay if you keep that up."
+    new "You can't just go and rip them up every day. They'll have to take that out of your pay if you keep that up."
 
     old "I...I'm sorry. I was just working really hard and I...I don't know how it happened."
     new "I...I'm sorry. I was just working really hard and I...I don't know how it happened."
@@ -2359,56 +2353,53 @@ translate ru strings:
     old "The old tailor nodded."
     new "The old tailor nodded."
 
-    old "Tailor\" \"It's fine. A lot of the new girls mess it up."
-    new "Tailor\" \"It's fine. A lot of the new girls mess it up."
+    old "It's fine. A lot of the new girls mess it up."
+    new "It's fine. A lot of the new girls mess it up."
 
-    old "Tailor\" \"They crawl on their knees but they don't pull up their skirts properly, so they usually scrape them and tear them on a loose brick."
-    new "Tailor\" \"They crawl on their knees but they don't pull up their skirts properly, so they usually scrape them and tear them on a loose brick."
+    old "They crawl on their knees but they don't pull up their skirts properly, so they usually scrape them and tear them on a loose brick."
+    new "They crawl on their knees but they don't pull up their skirts properly, so they usually scrape them and tear them on a loose brick."
 
     old "He gestured towards a large pile of maid uniforms."
     new "He gestured towards a large pile of maid uniforms."
 
-    old "Tailor\" \"Put it there with the rest and I'll get around to it."
-    new "Tailor\" \"Put it there with the rest and I'll get around to it."
+    old "Put it there with the rest and I'll get around to it."
+    new "Put it there with the rest and I'll get around to it."
 
     old "When?"
     new "When?"
 
-    old "Tailor\" \"Demanding a deadline now, are we?"
-    new "Tailor\" \"Demanding a deadline now, are we?"
+    old "Demanding a deadline now, are we?"
+    new "Demanding a deadline now, are we?"
 
-    old "Tailor\" \"I'm backed up enough as is. You'll have to wait, same as everyone."
-    new "Tailor\" \"I'm backed up enough as is. You'll have to wait, same as everyone."
+    old "I'm backed up enough as is. You'll have to wait, same as everyone."
+    new "I'm backed up enough as is. You'll have to wait, same as everyone."
 
     old "How long? I can't not have a uniform."
     new "How long? I can't not have a uniform."
 
-    old "Tailor\" \"Two weeks...probably more like three weeks."
-    new "Tailor\" \"Two weeks...probably more like three weeks."
+    old "Two weeks...probably more like three weeks."
+    new "Two weeks...probably more like three weeks."
 
-    old "Tailor\" \"Let the Headmaster know, and you'll be put back on the schedule when your uniform is ready."
-    new "Tailor\" \"Let the Headmaster know, and you'll be put back on the schedule when your uniform is ready."
+    old "Let the Headmaster know, and you'll be put back on the schedule when your uniform is ready."
+    new "Let the Headmaster know, and you'll be put back on the schedule when your uniform is ready."
 
     old "I can't just...I need the job! I need the money! I can't not work for three weeks."
     new "I can't just...I need the job! I need the money! I can't not work for three weeks."
 
-    old "Tailor\" \"So what then?"
-    new "Tailor\" \"So what then?"
-
-    old "Tailor\" \"You going to fix it yourself?"
-    new "Tailor\" \"You going to fix it yourself?"
+    old "You going to fix it yourself?"
+    new "You going to fix it yourself?"
 
     old "Sarah gritted her teeth. The whole reason she had come here was because she couldn't fix it herself."
     new "Sarah gritted her teeth. The whole reason she had come here was because she couldn't fix it herself."
 
-    old "Tailor\" \"That's what I thought. Go ahead, put it on the pile, and you'll be notified when it's ready."
-    new "Tailor\" \"That's what I thought. Go ahead, put it on the pile, and you'll be notified when it's ready."
+    old "That's what I thought. Go ahead, put it on the pile, and you'll be notified when it's ready."
+    new "That's what I thought. Go ahead, put it on the pile, and you'll be notified when it's ready."
 
     old "Sarah felt a panic build in her chest. Back on the streets...after all of this..."
     new "Sarah felt a panic build in her chest. Back on the streets...after all of this..."
 
-    old "Tailor\" \"What no?"
-    new "Tailor\" \"What no?"
+    old "What no?"
+    new "What no?"
 
     old "Just...no. I can't wait that long. There has to be a way."
     new "Just...no. I can't wait that long. There has to be a way."
@@ -2419,8 +2410,8 @@ translate ru strings:
     old "The old tailor looked at her."
     new "The old tailor looked at her."
 
-    old "Tailor\" \"Sure."
-    new "Tailor\" \"Sure."
+    old "Sure."
+    new "Sure."
 
     old "Sarah felt her heart leap."
     new "Sarah felt her heart leap."
@@ -2428,8 +2419,8 @@ translate ru strings:
     old "You'll do that? Thank you!"
     new "You'll do that? Thank you!"
 
-    old "Tailor\" \"Sure, strip and put the dress on my workbench."
-    new "Tailor\" \"Sure, strip and put the dress on my workbench."
+    old "Sure, strip and put the dress on my workbench."
+    new "Sure, strip and put the dress on my workbench."
 
     old "Before she knew it, Sarah was following his instructions, stripping her uniform off and throwing it on his workstation."
     new "Before she knew it, Sarah was following his instructions, stripping her uniform off and throwing it on his workstation."
@@ -2455,8 +2446,8 @@ translate ru strings:
     old "Hey! What are you doing!"
     new "Hey! What are you doing!"
 
-    old "Tailor\" \"You want my help. Surely I can get a little bit of your help in return, no?"
-    new "Tailor\" \"You want my help. Surely I can get a little bit of your help in return, no?"
+    old "You want my help. Surely I can get a little bit of your help in return, no?"
+    new "You want my help. Surely I can get a little bit of your help in return, no?"
 
     old "Sarah felt her face burn red."
     new "Sarah felt her face burn red."
@@ -2467,14 +2458,14 @@ translate ru strings:
     old "But you can't just-"
     new "But you can't just-"
 
-    old "Tailor\" \"Look, I work here all day. From start to finish, I'm all focus."
-    new "Tailor\" \"Look, I work here all day. From start to finish, I'm all focus."
+    old "Look, I work here all day. From start to finish, I'm all focus."
+    new "Look, I work here all day. From start to finish, I'm all focus."
 
-    old "Tailor\" \"Then a girl like you comes wandering in here, strips down to nothing, and you think I can just sit here?"
-    new "Tailor\" \"Then a girl like you comes wandering in here, strips down to nothing, and you think I can just sit here?"
+    old "Then a girl like you comes wandering in here, strips down to nothing, and you think I can just sit here?"
+    new "Then a girl like you comes wandering in here, strips down to nothing, and you think I can just sit here?"
 
-    old "Tailor\" \"Like I said, you help me and I'll help you. The dress will be done tonight."
-    new "Tailor\" \"Like I said, you help me and I'll help you. The dress will be done tonight."
+    old "Like I said, you help me and I'll help you. The dress will be done tonight."
+    new "Like I said, you help me and I'll help you. The dress will be done tonight."
 
     old "But..."
     new "But..."
@@ -2485,9 +2476,6 @@ translate ru strings:
     old "You're like..."
     new "You're like..."
 
-    old "Tailor\" \"What?"
-    new "Tailor\" \"What?"
-
     old "Old..."
     new "Old..."
 
@@ -2497,8 +2485,8 @@ translate ru strings:
     old "But it was the truth. He wasn't even old enough to be her father, more like a grandfather."
     new "But it was the truth. He wasn't even old enough to be her father, more like a grandfather."
 
-    old "Tailor\" \"You wanna insult me, girl?"
-    new "Tailor\" \"You wanna insult me, girl?"
+    old "You wanna insult me, girl?"
+    new "You wanna insult me, girl?"
 
     old "No! I just..."
     new "No! I just..."
@@ -2518,23 +2506,23 @@ translate ru strings:
     old "Sarah froze up."
     new "Sarah froze up."
 
-    old "Tailor\" \"You call me old?"
-    new "Tailor\" \"You call me old?"
+    old "You call me old?"
+    new "You call me old?"
 
-    old "Tailor\" \"You feel that, girl?"
-    new "Tailor\" \"You feel that, girl?"
+    old "You feel that, girl?"
+    new "You feel that, girl?"
 
     old "Sarah could only nod."
     new "Sarah could only nod."
 
-    old "Tailor\" \"So long as that part of me still works, I don't need some bitch with an attitude calling me old."
-    new "Tailor\" \"So long as that part of me still works, I don't need some bitch with an attitude calling me old."
+    old "So long as that part of me still works, I don't need some bitch with an attitude calling me old."
+    new "So long as that part of me still works, I don't need some bitch with an attitude calling me old."
 
     old "I...I'm sorry..."
     new "I...I'm sorry..."
 
-    old "Tailor\" \"You wanna apologize, get to work."
-    new "Tailor\" \"You wanna apologize, get to work."
+    old "You wanna apologize, get to work."
+    new "You wanna apologize, get to work."
 
     old "It had already gotten this far...and she needed his help."
     new "It had already gotten this far...and she needed his help."
@@ -2548,11 +2536,11 @@ translate ru strings:
     old "She could hear the old tailor began to groan as she started working him."
     new "She could hear the old tailor began to groan as she started working him."
 
-    old "Tailor\" \"There you go..."
-    new "Tailor\" \"There you go..."
+    old "There you go..."
+    new "There you go..."
 
-    old "Tailor\" \"Faster..."
-    new "Tailor\" \"Faster..."
+    old "Faster..."
+    new "Faster..."
 
     old "He breathed heavily as she stroked him."
     new "He breathed heavily as she stroked him."
@@ -2596,23 +2584,23 @@ translate ru strings:
     old "In the real world, a servant girl like her, had little option but to put up with it."
     new "In the real world, a servant girl like her, had little option but to put up with it."
 
-    old "Tailor\" \"You're pretty good at this..."
-    new "Tailor\" \"You're pretty good at this..."
+    old "You're pretty good at this..."
+    new "You're pretty good at this..."
 
     old "Sarah felt her face burn, she just kept quiet and continued her efforts."
     new "Sarah felt her face burn, she just kept quiet and continued her efforts."
 
-    old "Tailor\" \"What? I compliment you and you say nothing?"
-    new "Tailor\" \"What? I compliment you and you say nothing?"
+    old "What? I compliment you and you say nothing?"
+    new "What? I compliment you and you say nothing?"
 
-    old "Tailor\" \"You got a lot of attitude for someone I'm doing a favor."
-    new "Tailor\" \"You got a lot of attitude for someone I'm doing a favor."
+    old "You got a lot of attitude for someone I'm doing a favor."
+    new "You got a lot of attitude for someone I'm doing a favor."
 
     old "He snapped his finger."
     new "He snapped his finger."
 
-    old "Tailor\" \"If you're not gonna use that mouth to answer me, how about you put it to good use?"
-    new "Tailor\" \"If you're not gonna use that mouth to answer me, how about you put it to good use?"
+    old "If you're not gonna use that mouth to answer me, how about you put it to good use?"
+    new "If you're not gonna use that mouth to answer me, how about you put it to good use?"
 
     old "Sarah looked up at him, shocked."
     new "Sarah looked up at him, shocked."
@@ -2620,20 +2608,20 @@ translate ru strings:
     old "You can't..."
     new "You can't..."
 
-    old "Tailor\" \"Get down on your knees and put it in your mouth."
-    new "Tailor\" \"Get down on your knees and put it in your mouth."
+    old "Get down on your knees and put it in your mouth."
+    new "Get down on your knees and put it in your mouth."
 
     old "But...I was doing as you asked!"
     new "But...I was doing as you asked!"
 
-    old "Tailor\" \"And if you want my help, I suggest you keep doing that."
-    new "Tailor\" \"And if you want my help, I suggest you keep doing that."
+    old "And if you want my help, I suggest you keep doing that."
+    new "And if you want my help, I suggest you keep doing that."
 
     old "He snapped his fingers again."
     new "He snapped his fingers again."
 
-    old "Tailor\" \"Down! Now!"
-    new "Tailor\" \"Down! Now!"
+    old "Down! Now!"
+    new "Down! Now!"
 
     old "Her face burning, Sarah fell down to her knees."
     new "Her face burning, Sarah fell down to her knees."
@@ -2641,17 +2629,17 @@ translate ru strings:
     old "His cock swayed from side to side in front of her."
     new "His cock swayed from side to side in front of her."
 
-    old "Tailor\" \"Go ahead, you wanna call me old again, girl?"
-    new "Tailor\" \"Go ahead, you wanna call me old again, girl?"
+    old "Go ahead, you wanna call me old again, girl?"
+    new "Go ahead, you wanna call me old again, girl?"
 
-    old "Tailor\" \"Then apologize."
-    new "Tailor\" \"Then apologize."
+    old "Then apologize."
+    new "Then apologize."
 
     old "I'm...sorry for calling you old..."
     new "I'm...sorry for calling you old..."
 
-    old "Tailor\" \"Good, now apologize the proper way."
-    new "Tailor\" \"Good, now apologize the proper way."
+    old "Good, now apologize the proper way."
+    new "Good, now apologize the proper way."
 
     old "Sarah closed her eyes and leaned forward, parting her lips."
     new "Sarah closed her eyes and leaned forward, parting her lips."
@@ -2665,14 +2653,11 @@ translate ru strings:
     old "Above her, she heard him groan in approval."
     new "Above her, she heard him groan in approval."
 
-    old "Tailor\" \"There you go."
-    new "Tailor\" \"There you go."
-
     old "She felt him patting her head."
     new "She felt him patting her head."
 
-    old "Tailor\" \"Good girl."
-    new "Tailor\" \"Good girl."
+    old "Good girl."
+    new "Good girl."
 
     old "Sarah felt her face burn at his remarks."
     new "Sarah felt her face burn at his remarks."
@@ -2779,14 +2764,14 @@ translate ru strings:
     old "She was instead just grateful. Grateful that this old man had finally finished."
     new "She was instead just grateful. Grateful that this old man had finally finished."
 
-    old "Tailor\" \"You're a mess."
-    new "Tailor\" \"You're a mess."
+    old "You're a mess."
+    new "You're a mess."
 
     old "Sarah only nodded."
     new "Sarah only nodded."
 
-    old "Tailor\" \"Go ahead. Clean yourself up and I'll get to work on that dress."
-    new "Tailor\" \"Go ahead. Clean yourself up and I'll get to work on that dress."
+    old "Go ahead. Clean yourself up and I'll get to work on that dress."
+    new "Go ahead. Clean yourself up and I'll get to work on that dress."
 
     old "Sarah stumbled onto her feet and walked towards a cart filled with some rags."
     new "Sarah stumbled onto her feet and walked towards a cart filled with some rags."
@@ -2890,14 +2875,14 @@ translate ru strings:
     old "The old tailor looked up from his workbench."
     new "The old tailor looked up from his workbench."
 
-    old "Tailor\" \"Aah, you're here, excellent."
-    new "Tailor\" \"Aah, you're here, excellent."
+    old "Aah, you're here, excellent."
+    new "Aah, you're here, excellent."
 
     old "Sarah remained close to the door, hesitant to walk much further into the room."
     new "Sarah remained close to the door, hesitant to walk much further into the room."
 
-    old "Tailor\" \"Don't linger there. Come in, sit here."
-    new "Tailor\" \"Don't linger there. Come in, sit here."
+    old "Don't linger there. Come in, sit here."
+    new "Don't linger there. Come in, sit here."
 
     old "He tapped a table near his workbench."
     new "He tapped a table near his workbench."
@@ -2911,11 +2896,11 @@ translate ru strings:
     old "The old tailor waved his hand, dismissing her concern as he sat down opposite of her."
     new "The old tailor waved his hand, dismissing her concern as he sat down opposite of her."
 
-    old "Tailor\" \"Please, girl, don't fret over that."
-    new "Tailor\" \"Please, girl, don't fret over that."
+    old "Please, girl, don't fret over that."
+    new "Please, girl, don't fret over that."
 
-    old "Tailor\" \"That isn't why I called you over."
-    new "Tailor\" \"That isn't why I called you over."
+    old "That isn't why I called you over."
+    new "That isn't why I called you over."
 
     old "It's...not?"
     new "It's...not?"
@@ -2929,8 +2914,8 @@ translate ru strings:
     old "Then, he slowly extended his hand."
     new "Then, he slowly extended his hand."
 
-    old "Tailor\" \"I believe that despite our fun, we haven't actually made a proper introduction."
-    new "Tailor\" \"I believe that despite our fun, we haven't actually made a proper introduction."
+    old "I believe that despite our fun, we haven't actually made a proper introduction."
+    new "I believe that despite our fun, we haven't actually made a proper introduction."
 
     old "Fun, he called it."
     new "Fun, he called it."

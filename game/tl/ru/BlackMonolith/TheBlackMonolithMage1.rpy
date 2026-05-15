@@ -148,8 +148,8 @@ translate ru strings:
     old "Sarah continued walking along the road when she suddenly heard a voice."
     new "Sarah continued walking along the road when she suddenly heard a voice."
 
-    old "Voice\" \"Ssss..a..araah..."
-    new "Voice\" \"Ssss..a..araah..."
+    old "Ssss..a..araah..."
+    new "Ssss..a..araah..."
 
     old "Though it was slurred beyond comprehension, the voice was familiar enough to her that she knew who it was."
     new "Though it was slurred beyond comprehension, the voice was familiar enough to her that she knew who it was."
@@ -400,8 +400,8 @@ translate ru strings:
     old "Sarah takes off one of her gloves and places her hands against the grass."
     new "Sarah takes off one of her gloves and places her hands against the grass."
 
-    old "Voice\" \"Finally, we meet face to face, Sarah. The real me."
-    new "Voice\" \"Finally, we meet face to face, Sarah. The real me."
+    old "Finally, we meet face to face, Sarah. The real me."
+    new "Finally, we meet face to face, Sarah. The real me."
 
     old "Razaphel?"
     new "Razaphel?"

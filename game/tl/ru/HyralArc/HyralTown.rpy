@@ -166,20 +166,17 @@ translate ru strings:
     old "When they finally crossed the last stretch of frozen wasteland, they caught the attention of two guards near the gate."
     new "When they finally crossed the last stretch of frozen wasteland, they caught the attention of two guards near the gate."
 
-    old "Guard\" \"Hey!"
-    new "Guard\" \"Hey!"
-
     old "He rang out a bell."
     new "He rang out a bell."
 
-    old "Guard\" \"People! There are people out there!"
-    new "Guard\" \"People! There are people out there!"
+    old "People! There are people out there!"
+    new "People! There are people out there!"
 
     old "The men rushed forward, seizing Sarah and Nick."
     new "The men rushed forward, seizing Sarah and Nick."
 
-    old "Guard\" \"Gods! Where did you two come from?"
-    new "Guard\" \"Gods! Where did you two come from?"
+    old "Gods! Where did you two come from?"
+    new "Gods! Where did you two come from?"
 
     old "Ship...ship..."
     new "Ship...ship..."
@@ -193,8 +190,8 @@ translate ru strings:
     old "Next to her, Nick just nodded, as the two of them stumbled ahead, unable to stop moving."
     new "Next to her, Nick just nodded, as the two of them stumbled ahead, unable to stop moving."
 
-    old "Guard\" \"Gods! Just, follow us! We'll take you somewhere warm."
-    new "Guard\" \"Gods! Just, follow us! We'll take you somewhere warm."
+    old "Gods! Just, follow us! We'll take you somewhere warm."
+    new "Gods! Just, follow us! We'll take you somewhere warm."
 
     old "Still in a haze, the two of them stumbled after the guards."
     new "Still in a haze, the two of them stumbled after the guards."
@@ -220,8 +217,8 @@ translate ru strings:
     old "Casting off their robes, they fell down in front of it."
     new "Casting off their robes, they fell down in front of it."
 
-    old "Guard\" \"Careful, you don't want to heat up too fast."
-    new "Guard\" \"Careful, you don't want to heat up too fast."
+    old "Careful, you don't want to heat up too fast."
+    new "Careful, you don't want to heat up too fast."
 
     old "But neither Sarah nor Nick cared."
     new "But neither Sarah nor Nick cared."
@@ -262,20 +259,20 @@ translate ru strings:
     old "The last part was what the townsfolk seemed most interested in."
     new "The last part was what the townsfolk seemed most interested in."
 
-    old "Guard\" \"You're luck to have made it all the way here from the coast."
-    new "Guard\" \"You're luck to have made it all the way here from the coast."
+    old "You're luck to have made it all the way here from the coast."
+    new "You're luck to have made it all the way here from the coast."
 
-    old "Guard\" \"It was smart not to make a fire."
-    new "Guard\" \"It was smart not to make a fire."
+    old "It was smart not to make a fire."
+    new "It was smart not to make a fire."
 
-    old "Guard\" \"The mountain is sprawling with orcs and whatnot, especially in winter times like these."
-    new "Guard\" \"The mountain is sprawling with orcs and whatnot, especially in winter times like these."
+    old "The mountain is sprawling with orcs and whatnot, especially in winter times like these."
+    new "The mountain is sprawling with orcs and whatnot, especially in winter times like these."
 
     old "I heard...I'm just glad we avoided them."
     new "I heard...I'm just glad we avoided them."
 
-    old "Guard\" \"Orc skin is a lot thicker than human skin. They can endure the cold better than us."
-    new "Guard\" \"Orc skin is a lot thicker than human skin. They can endure the cold better than us."
+    old "Orc skin is a lot thicker than human skin. They can endure the cold better than us."
+    new "Orc skin is a lot thicker than human skin. They can endure the cold better than us."
 
     old "Nick looked up."
     new "Nick looked up."
@@ -286,17 +283,17 @@ translate ru strings:
     old "The guard nodded."
     new "The guard nodded."
 
-    old "Guard\" \"The orcs like to roam the mountain, but they don't try to test our defenses."
-    new "Guard\" \"The orcs like to roam the mountain, but they don't try to test our defenses."
+    old "The orcs like to roam the mountain, but they don't try to test our defenses."
+    new "The orcs like to roam the mountain, but they don't try to test our defenses."
 
-    old "Guard\" \"The Orc tribes are not what they used to be. They've forgotten how to build siege weapons and such."
-    new "Guard\" \"The Orc tribes are not what they used to be. They've forgotten how to build siege weapons and such."
+    old "The Orc tribes are not what they used to be. They've forgotten how to build siege weapons and such."
+    new "The Orc tribes are not what they used to be. They've forgotten how to build siege weapons and such."
 
-    old "Guard\" \"They like to raid, capture strays and attack merchant caravans."
-    new "Guard\" \"They like to raid, capture strays and attack merchant caravans."
+    old "They like to raid, capture strays and attack merchant caravans."
+    new "They like to raid, capture strays and attack merchant caravans."
 
-    old "Guard\" \"But this town is practically a fort. They don't dare to come near."
-    new "Guard\" \"But this town is practically a fort. They don't dare to come near."
+    old "But this town is practically a fort. They don't dare to come near."
+    new "But this town is practically a fort. They don't dare to come near."
 
     old "Sarah smiled, happy to finally hear some good news."
     new "Sarah smiled, happy to finally hear some good news."
@@ -588,9 +585,6 @@ translate ru strings:
 
     old "He had all but torn the clothes from her body when he finally had her all to himself."
     new "He had all but torn the clothes from her body when he finally had her all to himself."
-
-    old "Old Captain\" \"Aah!!"
-    new "Old Captain\" \"Aah!!"
 
     old "He grunted a deep sound of relief as he took her."
     new "He grunted a deep sound of relief as he took her."

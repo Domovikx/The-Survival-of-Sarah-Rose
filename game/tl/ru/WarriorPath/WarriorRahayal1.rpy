@@ -103,9 +103,6 @@ translate ru strings:
     old "Already, soldiers and locals had begun to mingle."
     new "Already, soldiers and locals had begun to mingle."
 
-    old "Commander!"
-    new "Commander!"
-
     old "Samayra came running up to her. A large pile of scrolls under her arm."
     new "Samayra came running up to her. A large pile of scrolls under her arm."
 
@@ -328,8 +325,8 @@ translate ru strings:
     old "A large, burly man stormed into the room. The town blacksmith, perhaps, Sarah thought by his appearance."
     new "A large, burly man stormed into the room. The town blacksmith, perhaps, Sarah thought by his appearance."
 
-    old "Blacksmith\" \"Help!!!"
-    new "Blacksmith\" \"Help!!!"
+    old "Help!!!"
+    new "Help!!!"
 
     old "His deep voice, filled with panic, cut through the room."
     new "His deep voice, filled with panic, cut through the room."
@@ -337,29 +334,26 @@ translate ru strings:
     old "All went quiet."
     new "All went quiet."
 
-    old "Blacksmith\" \"Gods! Help me, please! Hurry!"
-    new "Blacksmith\" \"Gods! Help me, please! Hurry!"
+    old "Gods! Help me, please! Hurry!"
+    new "Gods! Help me, please! Hurry!"
 
     old "Sarah rushed forward, seizing control of the situation."
     new "Sarah rushed forward, seizing control of the situation."
 
-    old "Calm down!"
-    new "Calm down!"
-
     old "Tell me what is going on here."
     new "Tell me what is going on here."
 
-    old "Blacksmith\" \"Please! You have to help us!"
-    new "Blacksmith\" \"Please! You have to help us!"
+    old "Please! You have to help us!"
+    new "Please! You have to help us!"
 
     old "Help you?"
     new "Help you?"
 
-    old "Blacksmith\" \"It attacked again! That poor girl from the Miller family!"
-    new "Blacksmith\" \"It attacked again! That poor girl from the Miller family!"
+    old "It attacked again! That poor girl from the Miller family!"
+    new "It attacked again! That poor girl from the Miller family!"
 
-    old "Blacksmith\" \"The Beast! The Beast!"
-    new "Blacksmith\" \"The Beast! The Beast!"
+    old "The Beast! The Beast!"
+    new "The Beast! The Beast!"
 
     old "The man continued to yell, his speech becoming more incoherent with every word."
     new "The man continued to yell, his speech becoming more incoherent with every word."
@@ -373,8 +367,8 @@ translate ru strings:
     old "The man pushed himself to the front."
     new "The man pushed himself to the front."
 
-    old "Mayor\" \"Bring her in here!"
-    new "Mayor\" \"Bring her in here!"
+    old "Bring her in here!"
+    new "Bring her in here!"
 
     old "Sarah watched from the side as several soldiers came into the tavern, covered in blood."
     new "Sarah watched from the side as several soldiers came into the tavern, covered in blood."
@@ -391,14 +385,14 @@ translate ru strings:
     old "If she was awake or alive, she gave little hint of it."
     new "If she was awake or alive, she gave little hint of it."
 
-    old "Mayor\" \"Put her down on the table!"
-    new "Mayor\" \"Put her down on the table!"
+    old "Put her down on the table!"
+    new "Put her down on the table!"
 
     old "The men placed the woman on the table."
     new "The men placed the woman on the table."
 
-    old "Mayor\" \"Get my tools and supplies from my house, they're in the living room! Hurry!"
-    new "Mayor\" \"Get my tools and supplies from my house, they're in the living room! Hurry!"
+    old "Get my tools and supplies from my house, they're in the living room! Hurry!"
+    new "Get my tools and supplies from my house, they're in the living room! Hurry!"
 
     old "A man ran out and soon returned with the tools that had been requested."
     new "A man ran out and soon returned with the tools that had been requested."
@@ -406,8 +400,8 @@ translate ru strings:
     old "The Mayor rolled up his sleeves and pulled the tools from the bag."
     new "The Mayor rolled up his sleeves and pulled the tools from the bag."
 
-    old "Mayor\" \"Hold her arms and legs down. We don't want her to move."
-    new "Mayor\" \"Hold her arms and legs down. We don't want her to move."
+    old "Hold her arms and legs down. We don't want her to move."
+    new "Hold her arms and legs down. We don't want her to move."
 
     old "The soldiers did as instructed, pinning the weakened woman down onto the surface of the table."
     new "The soldiers did as instructed, pinning the weakened woman down onto the surface of the table."
@@ -457,20 +451,20 @@ translate ru strings:
     old "The Mayor sighed as he finished stitching up the girl."
     new "The Mayor sighed as he finished stitching up the girl."
 
-    old "Mayor\" \"Take her to the recovery house and give her an entire cup of shade-tea."
-    new "Mayor\" \"Take her to the recovery house and give her an entire cup of shade-tea."
+    old "Take her to the recovery house and give her an entire cup of shade-tea."
+    new "Take her to the recovery house and give her an entire cup of shade-tea."
 
-    old "Soldier\" \"What if she cannot drink?"
-    new "Soldier\" \"What if she cannot drink?"
+    old "What if she cannot drink?"
+    new "What if she cannot drink?"
 
-    old "Mayor\" \"Then you pry open her mouth and force it down her throat if you have to."
-    new "Mayor\" \"Then you pry open her mouth and force it down her throat if you have to."
+    old "Then you pry open her mouth and force it down her throat if you have to."
+    new "Then you pry open her mouth and force it down her throat if you have to."
 
-    old "Mayor\" \"She might live, she might not, but if she doesn't drink some shade-tea, she'll be dead for certain."
-    new "Mayor\" \"She might live, she might not, but if she doesn't drink some shade-tea, she'll be dead for certain."
+    old "She might live, she might not, but if she doesn't drink some shade-tea, she'll be dead for certain."
+    new "She might live, she might not, but if she doesn't drink some shade-tea, she'll be dead for certain."
 
-    old "Soldier\" \"Yes sir!"
-    new "Soldier\" \"Yes sir!"
+    old "Yes sir!"
+    new "Yes sir!"
 
     old "The soldiers gathered up the woman and carried her out as gently as they could."
     new "The soldiers gathered up the woman and carried her out as gently as they could."
@@ -493,17 +487,14 @@ translate ru strings:
     old "He looked at her, stunned."
     new "He looked at her, stunned."
 
-    old "Mayor\" \"Who are you?"
-    new "Mayor\" \"Who are you?"
-
     old "Sarah. I'm the head of the mercenary company."
     new "Sarah. I'm the head of the mercenary company."
 
     old "He shook her head."
     new "He shook her head."
 
-    old "Mayor\" \"I was expecting a man."
-    new "Mayor\" \"I was expecting a man."
+    old "I was expecting a man."
+    new "I was expecting a man."
 
     old "I've heard that before."
     new "I've heard that before."
@@ -517,11 +508,11 @@ translate ru strings:
     old "The Mayor burried his head in his hands."
     new "The Mayor burried his head in his hands."
 
-    old "Mayor\" \"Who? More like what."
-    new "Mayor\" \"Who? More like what."
+    old "Who? More like what."
+    new "Who? More like what."
 
-    old "Mayor\" \"It has been plaguing us for months now..."
-    new "Mayor\" \"It has been plaguing us for months now..."
+    old "It has been plaguing us for months now..."
+    new "It has been plaguing us for months now..."
 
     old "You mean this has happened before?"
     new "You mean this has happened before?"
@@ -529,29 +520,29 @@ translate ru strings:
     old "The Mayor nodded."
     new "The Mayor nodded."
 
-    old "Mayor\" \"It started about half a year ago...the first attack I mean."
-    new "Mayor\" \"It started about half a year ago...the first attack I mean."
+    old "It started about half a year ago...the first attack I mean."
+    new "It started about half a year ago...the first attack I mean."
 
-    old "Mayor\" \"A young girl had snuck out of her parent's house to pick moonflowers in the night."
-    new "Mayor\" \"A young girl had snuck out of her parent's house to pick moonflowers in the night."
+    old "A young girl had snuck out of her parent's house to pick moonflowers in the night."
+    new "A young girl had snuck out of her parent's house to pick moonflowers in the night."
 
-    old "Mayor\" \"She came back screaming into town, claw marks along her back, bleeding."
-    new "Mayor\" \"She came back screaming into town, claw marks along her back, bleeding."
+    old "She came back screaming into town, claw marks along her back, bleeding."
+    new "She came back screaming into town, claw marks along her back, bleeding."
 
-    old "Mayor\" \"Back then we thought it had been a wolf of some kind. Not common, but also not unheard of in these parts."
-    new "Mayor\" \"Back then we thought it had been a wolf of some kind. Not common, but also not unheard of in these parts."
+    old "Back then we thought it had been a wolf of some kind. Not common, but also not unheard of in these parts."
+    new "Back then we thought it had been a wolf of some kind. Not common, but also not unheard of in these parts."
 
-    old "Mayor\" \"But then a few weeks later, another attack."
-    new "Mayor\" \"But then a few weeks later, another attack."
+    old "But then a few weeks later, another attack."
+    new "But then a few weeks later, another attack."
 
-    old "Mayor\" \"That time it was one of the carpenter's apprentices. Boy lost his entire left hand but at least he lived to tell about it."
-    new "Mayor\" \"That time it was one of the carpenter's apprentices. Boy lost his entire left hand but at least he lived to tell about it."
+    old "That time it was one of the carpenter's apprentices. Boy lost his entire left hand but at least he lived to tell about it."
+    new "That time it was one of the carpenter's apprentices. Boy lost his entire left hand but at least he lived to tell about it."
 
-    old "Mayor\" \"After, the attacks became more frequent and grew more violent."
-    new "Mayor\" \"After, the attacks became more frequent and grew more violent."
+    old "After, the attacks became more frequent and grew more violent."
+    new "After, the attacks became more frequent and grew more violent."
 
-    old "Mayor\" \"We couldn't deny something was going on."
-    new "Mayor\" \"We couldn't deny something was going on."
+    old "We couldn't deny something was going on."
+    new "We couldn't deny something was going on."
 
     old "Sarah leaned up against the wall."
     new "Sarah leaned up against the wall."
@@ -562,17 +553,17 @@ translate ru strings:
     old "The Mayor's shoulders fell lower as he leaned forward."
     new "The Mayor's shoulders fell lower as he leaned forward."
 
-    old "Mayor\" \"It strikes at night, and there are some confusing reports. It's big, we know that much."
-    new "Mayor\" \"It strikes at night, and there are some confusing reports. It's big, we know that much."
+    old "It strikes at night, and there are some confusing reports. It's big, we know that much."
+    new "It strikes at night, and there are some confusing reports. It's big, we know that much."
 
-    old "Mayor\" \"Most describe it as something between a wolf or a bear, but nobody ever really seems to get perfect view of the thing."
-    new "Mayor\" \"Most describe it as something between a wolf or a bear, but nobody ever really seems to get perfect view of the thing."
+    old "Most describe it as something between a wolf or a bear, but nobody ever really seems to get perfect view of the thing."
+    new "Most describe it as something between a wolf or a bear, but nobody ever really seems to get perfect view of the thing."
 
-    old "Mayor\" \"It attacks them out of nowhere, and in their panic, people are more focussed on surviving than remembering the creature."
-    new "Mayor\" \"It attacks them out of nowhere, and in their panic, people are more focussed on surviving than remembering the creature."
+    old "It attacks them out of nowhere, and in their panic, people are more focussed on surviving than remembering the creature."
+    new "It attacks them out of nowhere, and in their panic, people are more focussed on surviving than remembering the creature."
 
-    old "Mayor\" \"Fur, black as ink, though. That's what they all say. And blood-red eyes."
-    new "Mayor\" \"Fur, black as ink, though. That's what they all say. And blood-red eyes."
+    old "Fur, black as ink, though. That's what they all say. And blood-red eyes."
+    new "Fur, black as ink, though. That's what they all say. And blood-red eyes."
 
     old "Sarah frowned, she wasn't sure if that helped any."
     new "Sarah frowned, she wasn't sure if that helped any."
@@ -580,50 +571,47 @@ translate ru strings:
     old "What is being done about it?"
     new "What is being done about it?"
 
-    old "Mayor\" \"That's the problem."
-    new "Mayor\" \"That's the problem."
+    old "That's the problem."
+    new "That's the problem."
 
-    old "Mayor\" \"This creature, I thought it was an animal. A wild wolf, a frenzied bear, we've dealt with those things before."
-    new "Mayor\" \"This creature, I thought it was an animal. A wild wolf, a frenzied bear, we've dealt with those things before."
+    old "This creature, I thought it was an animal. A wild wolf, a frenzied bear, we've dealt with those things before."
+    new "This creature, I thought it was an animal. A wild wolf, a frenzied bear, we've dealt with those things before."
 
-    old "Mayor\" \"We gather up the men and we head out into the forest and hunt it down. It's not easy, but we've done it before."
-    new "Mayor\" \"We gather up the men and we head out into the forest and hunt it down. It's not easy, but we've done it before."
+    old "We gather up the men and we head out into the forest and hunt it down. It's not easy, but we've done it before."
+    new "We gather up the men and we head out into the forest and hunt it down. It's not easy, but we've done it before."
 
-    old "Mayor\" \"Nine-times, now."
-    new "Mayor\" \"Nine-times, now."
+    old "Nine-times, now."
+    new "Nine-times, now."
 
     old "Nine?"
     new "Nine?"
 
-    old "Mayor\" \"Nine-times we've send hunting groups into the forest."
-    new "Mayor\" \"Nine-times we've send hunting groups into the forest."
+    old "Nine-times we've send hunting groups into the forest."
+    new "Nine-times we've send hunting groups into the forest."
 
-    old "Mayor\" \"Gods, last time we send every last man, even those young lads that can barely be called men, into the forest."
-    new "Mayor\" \"Gods, last time we send every last man, even those young lads that can barely be called men, into the forest."
+    old "Gods, last time we send every last man, even those young lads that can barely be called men, into the forest."
+    new "Gods, last time we send every last man, even those young lads that can barely be called men, into the forest."
 
-    old "Mayor\" \"I said to myself, whatever happens, it ends that night."
-    new "Mayor\" \"I said to myself, whatever happens, it ends that night."
+    old "I said to myself, whatever happens, it ends that night."
+    new "I said to myself, whatever happens, it ends that night."
 
-    old "Mayor\" \"Nothing."
-    new "Mayor\" \"Nothing."
+    old "The Beast has no lair to be found. It leaves tracks, but follow them for a while and they vanish."
+    new "The Beast has no lair to be found. It leaves tracks, but follow them for a while and they vanish."
 
-    old "Mayor\" \"The Beast has no lair to be found. It leaves tracks, but follow them for a while and they vanish."
-    new "Mayor\" \"The Beast has no lair to be found. It leaves tracks, but follow them for a while and they vanish."
-
-    old "Mayor\" \"Once we thought we had it cornered, and instead, it had somehow snuck past us and fled away again."
-    new "Mayor\" \"Once we thought we had it cornered, and instead, it had somehow snuck past us and fled away again."
+    old "Once we thought we had it cornered, and instead, it had somehow snuck past us and fled away again."
+    new "Once we thought we had it cornered, and instead, it had somehow snuck past us and fled away again."
 
     old "So it's hard to catch then."
     new "So it's hard to catch then."
 
-    old "Mayor\" \"Hard to catch? You're not listening."
-    new "Mayor\" \"Hard to catch? You're not listening."
+    old "Hard to catch? You're not listening."
+    new "Hard to catch? You're not listening."
 
-    old "Mayor\" \"Wild animals attacks, those are a part of life out here."
-    new "Mayor\" \"Wild animals attacks, those are a part of life out here."
+    old "Wild animals attacks, those are a part of life out here."
+    new "Wild animals attacks, those are a part of life out here."
 
-    old "Mayor\" \"But this thing is like no animal I have ever encountered. It outsmarts us, and it doesn't even seem to kill for food."
-    new "Mayor\" \"But this thing is like no animal I have ever encountered. It outsmarts us, and it doesn't even seem to kill for food."
+    old "But this thing is like no animal I have ever encountered. It outsmarts us, and it doesn't even seem to kill for food."
+    new "But this thing is like no animal I have ever encountered. It outsmarts us, and it doesn't even seem to kill for food."
 
     old "Sarah frowned as she listened to the Mayor's story."
     new "Sarah frowned as she listened to the Mayor's story."
@@ -643,32 +631,32 @@ translate ru strings:
     old "The Mayor looked up, his eyes bright."
     new "The Mayor looked up, his eyes bright."
 
-    old "Mayor\" \"Thank you, you're very kind. But I fear that will make little difference."
-    new "Mayor\" \"Thank you, you're very kind. But I fear that will make little difference."
+    old "Thank you, you're very kind. But I fear that will make little difference."
+    new "Thank you, you're very kind. But I fear that will make little difference."
 
-    old "Mayor\" \"There will be more attacks. More wounded."
-    new "Mayor\" \"There will be more attacks. More wounded."
+    old "There will be more attacks. More wounded."
+    new "There will be more attacks. More wounded."
 
-    old "Mayor\" \"Until this infernal beast is dead, nobody in this town is safe..."
-    new "Mayor\" \"Until this infernal beast is dead, nobody in this town is safe..."
+    old "Until this infernal beast is dead, nobody in this town is safe..."
+    new "Until this infernal beast is dead, nobody in this town is safe..."
 
     old "Suddenly he jumped up."
     new "Suddenly he jumped up."
 
-    old "Mayor\" \"If you want to help us...help us!"
-    new "Mayor\" \"If you want to help us...help us!"
+    old "If you want to help us...help us!"
+    new "If you want to help us...help us!"
 
     old "What are you asking?"
     new "What are you asking?"
 
-    old "Mayor\" \"Your army...the Mythrans...all together, you have more men than I could ever hope to gather together."
-    new "Mayor\" \"Your army...the Mythrans...all together, you have more men than I could ever hope to gather together."
+    old "Your army...the Mythrans...all together, you have more men than I could ever hope to gather together."
+    new "Your army...the Mythrans...all together, you have more men than I could ever hope to gather together."
 
-    old "Mayor\" \"Strong men. Soldiers. The kinds that can track and kill a beast like this."
-    new "Mayor\" \"Strong men. Soldiers. The kinds that can track and kill a beast like this."
+    old "Strong men. Soldiers. The kinds that can track and kill a beast like this."
+    new "Strong men. Soldiers. The kinds that can track and kill a beast like this."
 
-    old "Mayor\" \"Please, stay here with your forces a while longer and help us clear out the forest. Help us kill this Beast."
-    new "Mayor\" \"Please, stay here with your forces a while longer and help us clear out the forest. Help us kill this Beast."
+    old "Please, stay here with your forces a while longer and help us clear out the forest. Help us kill this Beast."
+    new "Please, stay here with your forces a while longer and help us clear out the forest. Help us kill this Beast."
 
     old "Sarah looked out over the now nearly empty tavern."
     new "Sarah looked out over the now nearly empty tavern."
@@ -715,8 +703,8 @@ translate ru strings:
     old "The Mayor's face sank."
     new "The Mayor's face sank."
 
-    old "Mayor\" \"Very well, I understand. Perhaps it was foolish of me to ask."
-    new "Mayor\" \"Very well, I understand. Perhaps it was foolish of me to ask."
+    old "Very well, I understand. Perhaps it was foolish of me to ask."
+    new "Very well, I understand. Perhaps it was foolish of me to ask."
 
     old "I will ask the quartermaster to give you any medicines you might need for the girl's recovery."
     new "I will ask the quartermaster to give you any medicines you might need for the girl's recovery."
@@ -724,8 +712,8 @@ translate ru strings:
     old "The Mayor nodded, absently."
     new "The Mayor nodded, absently."
 
-    old "Mayor\" \"Thank you, I suppose."
-    new "Mayor\" \"Thank you, I suppose."
+    old "Thank you, I suppose."
+    new "Thank you, I suppose."
 
     old "Sarah turned and walked away."
     new "Sarah turned and walked away."

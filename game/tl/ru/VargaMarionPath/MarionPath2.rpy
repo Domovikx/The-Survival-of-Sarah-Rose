@@ -166,14 +166,14 @@ translate ru strings:
     old "First he turned to Marion."
     new "First he turned to Marion."
 
-    old "High Priest\" \"Do you you take Sarah Rose as your wife before all the Gods?"
-    new "High Priest\" \"Do you you take Sarah Rose as your wife before all the Gods?"
+    old "Do you you take Sarah Rose as your wife before all the Gods?"
+    new "Do you you take Sarah Rose as your wife before all the Gods?"
 
     old "Then the High Priest turned to her."
     new "Then the High Priest turned to her."
 
-    old "High Priest\" \"Do you take Marion Achillea as your husband before all the Gods?"
-    new "High Priest\" \"Do you take Marion Achillea as your husband before all the Gods?"
+    old "Do you take Marion Achillea as your husband before all the Gods?"
+    new "Do you take Marion Achillea as your husband before all the Gods?"
 
     old "For the faintest moment, Sarah considered her answer."
     new "For the faintest moment, Sarah considered her answer."
@@ -184,8 +184,8 @@ translate ru strings:
     old "The priest clapsed his hands together again."
     new "The priest clapsed his hands together again."
 
-    old "High Priest\" \"Then before all Gods and all gathered witnesses, I declare you married."
-    new "High Priest\" \"Then before all Gods and all gathered witnesses, I declare you married."
+    old "Then before all Gods and all gathered witnesses, I declare you married."
+    new "Then before all Gods and all gathered witnesses, I declare you married."
 
     old "Sarah could hear the crowd explode into an almost violent cheer."
     new "Sarah could hear the crowd explode into an almost violent cheer."

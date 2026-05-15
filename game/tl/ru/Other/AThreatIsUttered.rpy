@@ -19,8 +19,8 @@ translate ru strings:
     old "Sarah could see him slouched, waving disinterested at the crowd. And yet, even her brother seemed kingly when dressed up like this."
     new "Sarah could see him slouched, waving disinterested at the crowd. And yet, even her brother seemed kingly when dressed up like this."
 
-    old "Noble wife\" \"Aah, Princess, thank you for allowing us to attend, the castle looks incredible!"
-    new "Noble wife\" \"Aah, Princess, thank you for allowing us to attend, the castle looks incredible!"
+    old "Aah, Princess, thank you for allowing us to attend, the castle looks incredible!"
+    new "Aah, Princess, thank you for allowing us to attend, the castle looks incredible!"
 
     old "Sarah smiled and nodded."
     new "Sarah smiled and nodded."
@@ -184,8 +184,8 @@ translate ru strings:
     old "The foreign man fell to one knee."
     new "The foreign man fell to one knee."
 
-    old "Emissary\" \"King Thomas, I humbly greet you."
-    new "Emissary\" \"King Thomas, I humbly greet you."
+    old "King Thomas, I humbly greet you."
+    new "King Thomas, I humbly greet you."
 
     old "Thomas motioned for the man to stand up."
     new "Thomas motioned for the man to stand up."
@@ -202,8 +202,8 @@ translate ru strings:
     old "There was something in this man's eyes. A purpose. All the others in the castle looked at her for who she was, a princess, but this man had the eyes of a predator."
     new "There was something in this man's eyes. A purpose. All the others in the castle looked at her for who she was, a princess, but this man had the eyes of a predator."
 
-    old "Emissary\" \"I have travelled far, hailing from deep within what you call the eastern desert, and I have come to deliver a gift, from my Master to you, king Thomas."
-    new "Emissary\" \"I have travelled far, hailing from deep within what you call the eastern desert, and I have come to deliver a gift, from my Master to you, king Thomas."
+    old "I have travelled far, hailing from deep within what you call the eastern desert, and I have come to deliver a gift, from my Master to you, king Thomas."
+    new "I have travelled far, hailing from deep within what you call the eastern desert, and I have come to deliver a gift, from my Master to you, king Thomas."
 
     old "The man's accent was faint, he was clearly well educated to speak the language of Rosanna so effortlessly."
     new "The man's accent was faint, he was clearly well educated to speak the language of Rosanna so effortlessly."
@@ -217,23 +217,23 @@ translate ru strings:
     old "The emissary nodded."
     new "The emissary nodded."
 
-    old "Emissary\" \"My master, the great Khan Hassar, has tasked me to bring you a gift of peace."
-    new "Emissary\" \"My master, the great Khan Hassar, has tasked me to bring you a gift of peace."
+    old "My master, the great Khan Hassar, has tasked me to bring you a gift of peace."
+    new "My master, the great Khan Hassar, has tasked me to bring you a gift of peace."
 
     old "The room was still silent as a crypt."
     new "The room was still silent as a crypt."
 
-    old "Emissary\" \"Khan Hassar bears a great burden, placed upon him by the stars in heaven. He is to bring unity to this world, and bind all peoples together into a single tribe."
-    new "Emissary\" \"Khan Hassar bears a great burden, placed upon him by the stars in heaven. He is to bring unity to this world, and bind all peoples together into a single tribe."
+    old "Khan Hassar bears a great burden, placed upon him by the stars in heaven. He is to bring unity to this world, and bind all peoples together into a single tribe."
+    new "Khan Hassar bears a great burden, placed upon him by the stars in heaven. He is to bring unity to this world, and bind all peoples together into a single tribe."
 
-    old "Emissary\" \"In service of this great task, he has brought together the tribes of the desert, and brought low the far-eastern nations from beyond the desert."
-    new "Emissary\" \"In service of this great task, he has brought together the tribes of the desert, and brought low the far-eastern nations from beyond the desert."
+    old "In service of this great task, he has brought together the tribes of the desert, and brought low the far-eastern nations from beyond the desert."
+    new "In service of this great task, he has brought together the tribes of the desert, and brought low the far-eastern nations from beyond the desert."
 
-    old "Emissary\" \"Great Emperors of dynasties that have endured for millenia, have bowed their heads low to Khan Hassar."
-    new "Emissary\" \"Great Emperors of dynasties that have endured for millenia, have bowed their heads low to Khan Hassar."
+    old "Great Emperors of dynasties that have endured for millenia, have bowed their heads low to Khan Hassar."
+    new "Great Emperors of dynasties that have endured for millenia, have bowed their heads low to Khan Hassar."
 
-    old "Emissary\" \"But others, sought to impede his great task. It is because of them that I must sadly bear an offer of peace in one hand, and a warning in the other."
-    new "Emissary\" \"But others, sought to impede his great task. It is because of them that I must sadly bear an offer of peace in one hand, and a warning in the other."
+    old "But others, sought to impede his great task. It is because of them that I must sadly bear an offer of peace in one hand, and a warning in the other."
+    new "But others, sought to impede his great task. It is because of them that I must sadly bear an offer of peace in one hand, and a warning in the other."
 
     old "The emissary reached into a bag and pulled something out."
     new "The emissary reached into a bag and pulled something out."
@@ -244,35 +244,35 @@ translate ru strings:
     old "Sarah felt herself grow weak, but forced herself to look on. Look at the decapitated head that the emissary was now holding up for all to see."
     new "Sarah felt herself grow weak, but forced herself to look on. Look at the decapitated head that the emissary was now holding up for all to see."
 
-    old "Emissary\" \"This king was proud. Too proud to bend his head for Khan Hassar, and for this, he lost it."
-    new "Emissary\" \"This king was proud. Too proud to bend his head for Khan Hassar, and for this, he lost it."
+    old "This king was proud. Too proud to bend his head for Khan Hassar, and for this, he lost it."
+    new "This king was proud. Too proud to bend his head for Khan Hassar, and for this, he lost it."
 
-    old "Emissary\" \"But, along with him, more than a hundred thousand of his countrymen perished with him, dying to defend this fool's honour."
-    new "Emissary\" \"But, along with him, more than a hundred thousand of his countrymen perished with him, dying to defend this fool's honour."
+    old "But, along with him, more than a hundred thousand of his countrymen perished with him, dying to defend this fool's honour."
+    new "But, along with him, more than a hundred thousand of his countrymen perished with him, dying to defend this fool's honour."
 
-    old "Emissary\" \"And despite his arrogance, his sons and daughters were still made slaves to the Tribe."
-    new "Emissary\" \"And despite his arrogance, his sons and daughters were still made slaves to the Tribe."
+    old "And despite his arrogance, his sons and daughters were still made slaves to the Tribe."
+    new "And despite his arrogance, his sons and daughters were still made slaves to the Tribe."
 
-    old "Emissary\" \"Khan Hassar wept for the senselessness of this carnage, and he vowed that before delivering war, he would always offer peace, so that this tragedy might never repeat itself."
-    new "Emissary\" \"Khan Hassar wept for the senselessness of this carnage, and he vowed that before delivering war, he would always offer peace, so that this tragedy might never repeat itself."
+    old "Khan Hassar wept for the senselessness of this carnage, and he vowed that before delivering war, he would always offer peace, so that this tragedy might never repeat itself."
+    new "Khan Hassar wept for the senselessness of this carnage, and he vowed that before delivering war, he would always offer peace, so that this tragedy might never repeat itself."
 
     old "The emissary threw the head halfway up the stairs, where it remained, delicately balanced."
     new "The emissary threw the head halfway up the stairs, where it remained, delicately balanced."
 
-    old "Emissary\" \"And so, I was sent here. Sent to deliver this great offer of peace."
-    new "Emissary\" \"And so, I was sent here. Sent to deliver this great offer of peace."
+    old "And so, I was sent here. Sent to deliver this great offer of peace."
+    new "And so, I was sent here. Sent to deliver this great offer of peace."
 
-    old "Emissary\" \"King Thomas, on behalf of Khan Hassar, I command you to prostrate yourself before me as if I were him."
-    new "Emissary\" \"King Thomas, on behalf of Khan Hassar, I command you to prostrate yourself before me as if I were him."
+    old "King Thomas, on behalf of Khan Hassar, I command you to prostrate yourself before me as if I were him."
+    new "King Thomas, on behalf of Khan Hassar, I command you to prostrate yourself before me as if I were him."
 
-    old "Emissary\" \"Do this, and Khan Hassar will spare you and the entire nation of Rosanna a bloodshed you cannot begin to imagine."
-    new "Emissary\" \"Do this, and Khan Hassar will spare you and the entire nation of Rosanna a bloodshed you cannot begin to imagine."
+    old "Do this, and Khan Hassar will spare you and the entire nation of Rosanna a bloodshed you cannot begin to imagine."
+    new "Do this, and Khan Hassar will spare you and the entire nation of Rosanna a bloodshed you cannot begin to imagine."
 
-    old "Emissary\" \"Open your gates, lay down your weapons and disband your armies, and the great horde will sweep through this nation without breaking so much as a blade of grass."
-    new "Emissary\" \"Open your gates, lay down your weapons and disband your armies, and the great horde will sweep through this nation without breaking so much as a blade of grass."
+    old "Open your gates, lay down your weapons and disband your armies, and the great horde will sweep through this nation without breaking so much as a blade of grass."
+    new "Open your gates, lay down your weapons and disband your armies, and the great horde will sweep through this nation without breaking so much as a blade of grass."
 
-    old "Emissary\" \"But reject this offer, and we will turn your nation to ashes. Bind your nation's sons and daughters into slavery. Run the great rivers red with blood."
-    new "Emissary\" \"But reject this offer, and we will turn your nation to ashes. Bind your nation's sons and daughters into slavery. Run the great rivers red with blood."
+    old "But reject this offer, and we will turn your nation to ashes. Bind your nation's sons and daughters into slavery. Run the great rivers red with blood."
+    new "But reject this offer, and we will turn your nation to ashes. Bind your nation's sons and daughters into slavery. Run the great rivers red with blood."
 
     old "By now, the gathering of nobles was screaming and had begun throwing things at the emissary, so outraged were they at his demands."
     new "By now, the gathering of nobles was screaming and had begun throwing things at the emissary, so outraged were they at his demands."
@@ -373,11 +373,11 @@ translate ru strings:
     old "The emissary bowed low one last time."
     new "The emissary bowed low one last time."
 
-    old "Emissary\" \"King Thomas, with great sadness, I receive your message and will carry it back to my Khan."
-    new "Emissary\" \"King Thomas, with great sadness, I receive your message and will carry it back to my Khan."
+    old "King Thomas, with great sadness, I receive your message and will carry it back to my Khan."
+    new "King Thomas, with great sadness, I receive your message and will carry it back to my Khan."
 
-    old "Emissary\" \"One day, very soon, you will come to regret this decision. For all my life, I will bear the guilt of not having been able to save you and your people from your own pride."
-    new "Emissary\" \"One day, very soon, you will come to regret this decision. For all my life, I will bear the guilt of not having been able to save you and your people from your own pride."
+    old "One day, very soon, you will come to regret this decision. For all my life, I will bear the guilt of not having been able to save you and your people from your own pride."
+    new "One day, very soon, you will come to regret this decision. For all my life, I will bear the guilt of not having been able to save you and your people from your own pride."
 
     old "As the emissary left, the room fell silent again."
     new "As the emissary left, the room fell silent again."

@@ -73,11 +73,11 @@ translate ru strings:
     old "Kate, are you ok?"
     new "Кейт, ты в порядке?"
 
-    old "Camp Soldier\" \"You're asking if she's ok? What about us? She's the one that attacked us!"
-    new "Лагерный солдат\" \"Ты спрашиваешь, в порядке ли она? А мы? Это она на нас напала!"
+    old "You're asking if she's ok? What about us? She's the one that attacked us!"
+    new "You're asking if she's ok? What about us? She's the one that attacked us!"
 
-    old "Camp Guard\" \"Calm down!"
-    new "Лагерный стражник\" \"Успокойтесь!"
+    old "Calm down!"
+    new "Calm down!"
 
     old "Kate looked up, somewhat dazed. Only when she met Sarah's eyes, did she seem to realize who she was."
     new "Кейт подняла взгляд, слегка ошеломлённая. Только встретив глаза Сары, она, кажется, узнала."
@@ -106,8 +106,8 @@ translate ru strings:
     old "I'll take her out of here, ok? Better we let both sides cool off a bit."
     new "Я заберу её, ладно? Пусть обе стороны остынут."
 
-    old "Camp Guard\" \"Yes, go ahead, I'll look after these two."
-    new "Лагерный стражник\" \"Да, идите, я присмотрю за ними."
+    old "Yes, go ahead, I'll look after these two."
+    new "Yes, go ahead, I'll look after these two."
 
     old "The guard seemed to try to act as if it had been his idea to split the sides up, but Sarah didn't bother to argue."
     new "Стражник сделал вид, что это была его идея, но Сара не стала спорить."
@@ -285,3 +285,4 @@ translate ru strings:
 
     old "But she couldn't find even the slightest trace of it."
     new "Но не находила ни следа."
+

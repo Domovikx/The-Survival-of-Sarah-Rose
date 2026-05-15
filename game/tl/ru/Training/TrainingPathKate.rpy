@@ -381,3 +381,4 @@ translate ru strings:
 
     old "Sitting together under the soft drip of the shower, the two friends speak wordlessly."
     new "Сидя вместе под мягкий шум душа, две подруги говорят без слов."
+

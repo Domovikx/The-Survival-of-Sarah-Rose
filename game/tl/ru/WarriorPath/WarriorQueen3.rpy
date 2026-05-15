@@ -184,8 +184,8 @@ translate ru strings:
     old "Sarah only had a brief moment to herself before one of her officers came to collect her."
     new "Sarah only had a brief moment to herself before one of her officers came to collect her."
 
-    old "Officer\" \"Commander, the war room is ready for you."
-    new "Officer\" \"Commander, the war room is ready for you."
+    old "Commander, the war room is ready for you."
+    new "Commander, the war room is ready for you."
 
     old "Sarah briefly nodded."
     new "Sarah briefly nodded."

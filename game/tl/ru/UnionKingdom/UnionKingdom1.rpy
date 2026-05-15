@@ -1504,8 +1504,8 @@ translate ru strings:
     old "Stop fighting right now, or you're both going back to your room at once!"
     new "Stop fighting right now, or you're both going back to your room at once!"
 
-    old "Both\" \"Sorry mom..."
-    new "Both\" \"Sorry mom..."
+    old "Sorry mom..."
+    new "Sorry mom..."
 
     old "Their voices trailed as they lowered their heads in genuine apology."
     new "Their voices trailed as they lowered their heads in genuine apology."
@@ -1594,8 +1594,8 @@ translate ru strings:
     old "Both held up their hands in the best attempt at a vow."
     new "Both held up their hands in the best attempt at a vow."
 
-    old "Both\" \"We promise!"
-    new "Both\" \"We promise!"
+    old "We promise!"
+    new "We promise!"
 
     old "Fine, then get me a book and I'll tell you a story."
     new "Fine, then get me a book and I'll tell you a story."
@@ -1672,8 +1672,8 @@ translate ru strings:
     old "Suddenly, all of the bed shook violently and a deep voice boomed through the room."
     new "Suddenly, all of the bed shook violently and a deep voice boomed through the room."
 
-    old "Basilisk\" \"WHO DARES ENTER MY DOMAIN?!?!"
-    new "Basilisk\" \"WHO DARES ENTER MY DOMAIN?!?!"
+    old "WHO DARES ENTER MY DOMAIN?!?!"
+    new "WHO DARES ENTER MY DOMAIN?!?!"
 
     old "Sarah could hear her children scream and cover themselves under the blanket, pulling close to her for safety and comfort."
     new "Sarah could hear her children scream and cover themselves under the blanket, pulling close to her for safety and comfort."

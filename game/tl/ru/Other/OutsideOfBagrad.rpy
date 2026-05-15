@@ -403,8 +403,8 @@ translate ru strings:
     old "One of the soldiers yelled out confirmation."
     new "One of the soldiers yelled out confirmation."
 
-    old "Siege crew\" \"Ladder ready!"
-    new "Siege crew\" \"Ladder ready!"
+    old "Ladder ready!"
+    new "Ladder ready!"
 
     old "Sarah turned around to her soldiers."
     new "Sarah turned around to her soldiers."

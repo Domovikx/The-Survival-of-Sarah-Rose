@@ -330,3 +330,4 @@ translate ru strings:
 
     old "Sarah felt her heart and her resolve grow stronger, but not from rage or vengeance, but out of love."
     new "Сара чувствовала, как сердце и решимость крепнут — не от ярости или мести, а от любви."
+

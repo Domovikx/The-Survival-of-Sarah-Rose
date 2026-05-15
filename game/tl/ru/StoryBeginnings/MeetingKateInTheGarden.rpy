@@ -259,8 +259,8 @@ translate ru strings:
     old "Kate paused, gathering her breath from the excitement, she had been speaking so fast."
     new "Кейт остановилась, переводя дух от волнения — она говорила так быстро."
 
-    old "His name is Vaelen, and he's the leader of a mercenary company called \\\"Brothers of Providence\\\". Since that day, I've served him as best as I could."
-    new "Его зовут Ваэлен, он глава наёмнической компании под названием «Братья Провидения». С того дня я служила ему как могла."
+    old "His name is Vaelen, and he's the leader of a mercenary company called \"Brothers of Providence\". Since that day, I've served him as best as I could."
+    new "His name is Vaelen, and he's the leader of a mercenary company called \"Brothers of Providence\". Since that day, I've served him as best as I could."
 
     old "Sarah had listened attentively to her friend."
     new "Сара внимательно слушала подругу."
@@ -321,3 +321,4 @@ translate ru strings:
 
     old "Sarah waved to her friend as she went back inside. She ordered the servants to prepare a guest room and went back to the great hall."
     new "Сара помахала подруге и вернулась внутрь. Она приказала слугам подготовить гостевую комнату и направилась обратно в большой зал."
+

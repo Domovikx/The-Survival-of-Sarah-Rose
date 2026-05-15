@@ -31,8 +31,8 @@ translate ru strings:
     old "The brigand smiles."
     new "The brigand smiles."
 
-    old "Brigand\" \"Good. I figured we would work something out."
-    new "Brigand\" \"Good. I figured we would work something out."
+    old "Good. I figured we would work something out."
+    new "Good. I figured we would work something out."
 
     old "His blade lifts from her throat and slides to the clasps on her dress."
     new "His blade lifts from her throat and slides to the clasps on her dress."
@@ -46,8 +46,8 @@ translate ru strings:
     old "The cold air of the night crawls across her skin."
     new "The cold air of the night crawls across her skin."
 
-    old "Brigand\" \"Take the rest of it off, or I'll cut it off too. Your choice."
-    new "Brigand\" \"Take the rest of it off, or I'll cut it off too. Your choice."
+    old "Take the rest of it off, or I'll cut it off too. Your choice."
+    new "Take the rest of it off, or I'll cut it off too. Your choice."
 
     old "Sarah hastily begins taking off her underwear to avoid it being cut like her dress."
     new "Sarah hastily begins taking off her underwear to avoid it being cut like her dress."
@@ -58,8 +58,8 @@ translate ru strings:
     old "She tries to cover up her breasts and her sex. An attempt at modesty in a city back alley."
     new "She tries to cover up her breasts and her sex. An attempt at modesty in a city back alley."
 
-    old "Brigand\" \"Don't bother covering up. I've seen all of it and before long I'll be up inside of you."
-    new "Brigand\" \"Don't bother covering up. I've seen all of it and before long I'll be up inside of you."
+    old "Don't bother covering up. I've seen all of it and before long I'll be up inside of you."
+    new "Don't bother covering up. I've seen all of it and before long I'll be up inside of you."
 
     old "He smacks her hands to the side and Sarah does not attempt to cover up again."
     new "He smacks her hands to the side and Sarah does not attempt to cover up again."
@@ -70,17 +70,17 @@ translate ru strings:
     old "Won't the guards catch us? Maybe we could go somewhere else."
     new "Won't the guards catch us? Maybe we could go somewhere else."
 
-    old "Brigand\" \"And have you risk running out on me?"
-    new "Brigand\" \"And have you risk running out on me?"
+    old "And have you risk running out on me?"
+    new "And have you risk running out on me?"
 
-    old "Brigand\" \"I haven't had any in weeks, and you're about the hottest woman I've ever seen."
-    new "Brigand\" \"I haven't had any in weeks, and you're about the hottest woman I've ever seen."
+    old "I haven't had any in weeks, and you're about the hottest woman I've ever seen."
+    new "I haven't had any in weeks, and you're about the hottest woman I've ever seen."
 
-    old "Brigand\" \"Even if the guards catch us, they'll have to bring all the guards in the district to pull me off you."
-    new "Brigand\" \"Even if the guards catch us, they'll have to bring all the guards in the district to pull me off you."
+    old "Even if the guards catch us, they'll have to bring all the guards in the district to pull me off you."
+    new "Even if the guards catch us, they'll have to bring all the guards in the district to pull me off you."
 
-    old "Brigand\" \"So no, here is just fine."
-    new "Brigand\" \"So no, here is just fine."
+    old "So no, here is just fine."
+    new "So no, here is just fine."
 
     old "He suddenly grabs a hand full of her hair."
     new "He suddenly grabs a hand full of her hair."
@@ -91,8 +91,8 @@ translate ru strings:
     old "Sarah is thrown down onto the cold cobblestones, its jagged edges cutting into her knees."
     new "Sarah is thrown down onto the cold cobblestones, its jagged edges cutting into her knees."
 
-    old "Brigand\" \"Besides, I told you, the guards don't patrol around these parts."
-    new "Brigand\" \"Besides, I told you, the guards don't patrol around these parts."
+    old "Besides, I told you, the guards don't patrol around these parts."
+    new "Besides, I told you, the guards don't patrol around these parts."
 
     old "She can hear him get up behind her."
     new "She can hear him get up behind her."
@@ -112,8 +112,8 @@ translate ru strings:
     old "The shock makes her cry out, but she muffles her own voice, part afraid of what the man would do and part afraid of being caught."
     new "The shock makes her cry out, but she muffles her own voice, part afraid of what the man would do and part afraid of being caught."
 
-    old "Brigand\" \"Wet already."
-    new "Brigand\" \"Wet already."
+    old "Wet already."
+    new "Wet already."
 
     old "Still bend over on the ground, Sarah turns her head around."
     new "Still bend over on the ground, Sarah turns her head around."
@@ -136,14 +136,14 @@ translate ru strings:
     old "She lets out a soft moan as the man dominates her."
     new "She lets out a soft moan as the man dominates her."
 
-    old "Brigand\" \"Enough talk."
-    new "Brigand\" \"Enough talk."
+    old "Enough talk."
+    new "Enough talk."
 
     old "Sarah feels the tip of the man's cock pressing up between her own wet lips."
     new "Sarah feels the tip of the man's cock pressing up between her own wet lips."
 
-    old "Brigand\" \"Hah, you're burning up. Maybe you should be paying me."
-    new "Brigand\" \"Hah, you're burning up. Maybe you should be paying me."
+    old "Hah, you're burning up. Maybe you should be paying me."
+    new "Hah, you're burning up. Maybe you should be paying me."
 
     old "Then she feels him thrust, hard."
     new "Then she feels him thrust, hard."
@@ -256,8 +256,8 @@ translate ru strings:
     old "Off to her side, she watched him put his pants back on and clasp his belt."
     new "Off to her side, she watched him put his pants back on and clasp his belt."
 
-    old "Brigand\" \"You're something else girly."
-    new "Brigand\" \"You're something else girly."
+    old "You're something else girly."
+    new "You're something else girly."
 
     old "She hated him calling her that, and loved him for calling her that anyway."
     new "She hated him calling her that, and loved him for calling her that anyway."
@@ -277,14 +277,14 @@ translate ru strings:
     old "Sarah twitched as her ass turned red from the smack on her rear that the man gave her."
     new "Sarah twitched as her ass turned red from the smack on her rear that the man gave her."
 
-    old "Brigand\" \"Little late to act tough. I heard you moaning like a cheap whore just now."
-    new "Brigand\" \"Little late to act tough. I heard you moaning like a cheap whore just now."
+    old "Little late to act tough. I heard you moaning like a cheap whore just now."
+    new "Little late to act tough. I heard you moaning like a cheap whore just now."
 
     old "This time it was Sarah's face that turned red."
     new "This time it was Sarah's face that turned red."
 
-    old "Brigand\" \"Maybe you should pay me."
-    new "Brigand\" \"Maybe you should pay me."
+    old "Maybe you should pay me."
+    new "Maybe you should pay me."
 
     old "He laughed loudly at his own joke."
     new "He laughed loudly at his own joke."
@@ -301,14 +301,14 @@ translate ru strings:
     old "Strangely enough, the man seemed to look genuinely apologetic for the first time."
     new "Strangely enough, the man seemed to look genuinely apologetic for the first time."
 
-    old "Brigand\" \"Sorry about that. I think I have a needle and thread in my camp."
-    new "Brigand\" \"Sorry about that. I think I have a needle and thread in my camp."
+    old "Sorry about that. I think I have a needle and thread in my camp."
+    new "Sorry about that. I think I have a needle and thread in my camp."
 
     old "He walked over and snatched the dress and underwear from Sarah's hands."
     new "He walked over and snatched the dress and underwear from Sarah's hands."
 
-    old "Brigand\" \"Yeah, I think I can fix this. Follow me."
-    new "Brigand\" \"Yeah, I think I can fix this. Follow me."
+    old "Yeah, I think I can fix this. Follow me."
+    new "Yeah, I think I can fix this. Follow me."
 
     old "Sarah stood up and watched the man walk away with her dress and underwear."
     new "Sarah stood up and watched the man walk away with her dress and underwear."
@@ -334,14 +334,14 @@ translate ru strings:
     old "Eager for the heat, and her clothes, she sat down next to man, near the fire."
     new "Eager for the heat, and her clothes, she sat down next to man, near the fire."
 
-    old "Brigand\" \"This is my camp."
-    new "Brigand\" \"This is my camp."
+    old "This is my camp."
+    new "This is my camp."
 
     old "It's a regular palace."
     new "It's a regular palace."
 
-    old "Brigand\" \"You have a mouth on you. You're not scared of me?"
-    new "Brigand\" \"You have a mouth on you. You're not scared of me?"
+    old "You have a mouth on you. You're not scared of me?"
+    new "You have a mouth on you. You're not scared of me?"
 
     old "A man with thread and needle? I'll survive."
     new "A man with thread and needle? I'll survive."
@@ -400,8 +400,8 @@ translate ru strings:
     old "The man focussed on her dress, fixing the clasps with thread and needle, clearly not his first time doing this."
     new "The man focussed on her dress, fixing the clasps with thread and needle, clearly not his first time doing this."
 
-    old "Brigand\" \"Here, it's fixed."
-    new "Brigand\" \"Here, it's fixed."
+    old "Here, it's fixed."
+    new "Here, it's fixed."
 
     old "He handed her the dress back."
     new "He handed her the dress back."
@@ -409,8 +409,8 @@ translate ru strings:
     old "Sarah took it and placed it over her lap. Sitting naked by the fire, she had now grown comfortable and didn't want to get dressed again just yet."
     new "Sarah took it and placed it over her lap. Sitting naked by the fire, she had now grown comfortable and didn't want to get dressed again just yet."
 
-    old "Brigand\" \"I...thought you'd be running off by now."
-    new "Brigand\" \"I...thought you'd be running off by now."
+    old "I...thought you'd be running off by now."
+    new "I...thought you'd be running off by now."
 
     old "Sarah turned to him."
     new "Sarah turned to him."

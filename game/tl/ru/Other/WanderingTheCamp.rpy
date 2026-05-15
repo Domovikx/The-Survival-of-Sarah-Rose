@@ -145,8 +145,8 @@ translate ru strings:
     old "A man blocked her path."
     new "A man blocked her path."
 
-    old "Camp Guard\" \"Hold on there."
-    new "Camp Guard\" \"Hold on there."
+    old "Hold on there."
+    new "Hold on there."
 
     old "The man was large, easily blocking Sarah from getting past him. He pushed her back."
     new "The man was large, easily blocking Sarah from getting past him. He pushed her back."
@@ -157,8 +157,8 @@ translate ru strings:
     old "The camp guard shook his head."
     new "The camp guard shook his head."
 
-    old "Camp Guard\" \"You're not going anywhere. Orders, straight from Vaelen himself."
-    new "Camp Guard\" \"You're not going anywhere. Orders, straight from Vaelen himself."
+    old "You're not going anywhere. Orders, straight from Vaelen himself."
+    new "You're not going anywhere. Orders, straight from Vaelen himself."
 
     old "Sarah was stunned."
     new "Sarah was stunned."
@@ -172,11 +172,11 @@ translate ru strings:
     old "The guard shook his head again. He planted his feet firmer, as if to reinforce his point."
     new "The guard shook his head again. He planted his feet firmer, as if to reinforce his point."
 
-    old "Camp Guard\" \"Vaelen told me himself, keep the blonde girl in the pretty dress from leaving."
-    new "Camp Guard\" \"Vaelen told me himself, keep the blonde girl in the pretty dress from leaving."
+    old "Vaelen told me himself, keep the blonde girl in the pretty dress from leaving."
+    new "Vaelen told me himself, keep the blonde girl in the pretty dress from leaving."
 
-    old "Camp Guard\" \"It might surprise you to learn, but there aren't a lot of people here matching that description."
-    new "Camp Guard\" \"It might surprise you to learn, but there aren't a lot of people here matching that description."
+    old "It might surprise you to learn, but there aren't a lot of people here matching that description."
+    new "It might surprise you to learn, but there aren't a lot of people here matching that description."
 
     old "Sarah thought about what she could do, but there was no way she was getting past the guard."
     new "Sarah thought about what she could do, but there was no way she was getting past the guard."

@@ -76,14 +76,14 @@ translate ru strings:
     old "A nervous innkeeper came up to her table and served her some beer and food."
     new "A nervous innkeeper came up to her table and served her some beer and food."
 
-    old "Innkeeper\" \"No...it's nothing, really...my honor to serve..."
-    new "Innkeeper\" \"No...it's nothing, really...my honor to serve..."
+    old "No...it's nothing, really...my honor to serve..."
+    new "No...it's nothing, really...my honor to serve..."
 
     old "His voice trembled."
     new "His voice trembled."
 
-    old "Innkeeper\" \"Nothing, nothing. Forgive me, your Grace."
-    new "Innkeeper\" \"Nothing, nothing. Forgive me, your Grace."
+    old "Nothing, nothing. Forgive me, your Grace."
+    new "Nothing, nothing. Forgive me, your Grace."
 
     old "The man stumbled away."
     new "The man stumbled away."
@@ -109,17 +109,17 @@ translate ru strings:
     old "Sarah frowned as she watched them stumble inside, shouting loudly."
     new "Sarah frowned as she watched them stumble inside, shouting loudly."
 
-    old "Man\" \"Hail Sarah Rose!"
-    new "Man\" \"Hail Sarah Rose!"
+    old "Hail Sarah Rose!"
+    new "Hail Sarah Rose!"
 
-    old "Second man\" \"She'll show those Savages!"
-    new "Second man\" \"She'll show those Savages!"
+    old "She'll show those Savages!"
+    new "She'll show those Savages!"
 
     old "The men stumbled further into the room, the guards held them at a distance."
     new "The men stumbled further into the room, the guards held them at a distance."
 
-    old "Man\" \"Hey! No need to fight us, we're just here to celebrate her Highness!"
-    new "Man\" \"Hey! No need to fight us, we're just here to celebrate her Highness!"
+    old "Hey! No need to fight us, we're just here to celebrate her Highness!"
+    new "Hey! No need to fight us, we're just here to celebrate her Highness!"
 
     old "The man raised a flask filled with something that reeked of strong alcohol."
     new "The man raised a flask filled with something that reeked of strong alcohol."
@@ -127,26 +127,26 @@ translate ru strings:
     old "Sarah slightly nodded, acknowledging the man without hoping to encourage him."
     new "Sarah slightly nodded, acknowledging the man without hoping to encourage him."
 
-    old "Second man\" \"Ay! Cheers to that!"
-    new "Second man\" \"Ay! Cheers to that!"
+    old "Ay! Cheers to that!"
+    new "Ay! Cheers to that!"
 
-    old "Second man\" \"Finally someone that's gonna return the King's Law to these lands!"
-    new "Second man\" \"Finally someone that's gonna return the King's Law to these lands!"
+    old "Finally someone that's gonna return the King's Law to these lands!"
+    new "Finally someone that's gonna return the King's Law to these lands!"
 
-    old "Second man\" \"Or the Queen's Law, my lady, apologies!"
-    new "Second man\" \"Or the Queen's Law, my lady, apologies!"
+    old "Or the Queen's Law, my lady, apologies!"
+    new "Or the Queen's Law, my lady, apologies!"
 
     old "He raised his drink along with this friends."
     new "He raised his drink along with this friends."
 
-    old "Man\" \"Speaking of justice and law! I would wish to pe...pet...peti..."
-    new "Man\" \"Speaking of justice and law! I would wish to pe...pet...peti..."
+    old "Speaking of justice and law! I would wish to pe...pet...peti..."
+    new "Speaking of justice and law! I would wish to pe...pet...peti..."
 
-    old "Second man\" \"Petition."
-    new "Second man\" \"Petition."
+    old "Petition."
+    new "Petition."
 
-    old "Man\" \"Petition! I would like to petition the Court!"
-    new "Man\" \"Petition! I would like to petition the Court!"
+    old "Petition! I would like to petition the Court!"
+    new "Petition! I would like to petition the Court!"
 
     old "It had been a long tradition that the people of Rosanna were permitted to offer up their grievances to their king or queen."
     new "It had been a long tradition that the people of Rosanna were permitted to offer up their grievances to their king or queen."
@@ -172,38 +172,38 @@ translate ru strings:
     old "He cleared his throat, doing his best to sound presentable."
     new "He cleared his throat, doing his best to sound presentable."
 
-    old "Man\" \"Your Grace...your Highness...I..."
-    new "Man\" \"Your Grace...your Highness...I..."
+    old "Your Grace...your Highness...I..."
+    new "Your Grace...your Highness...I..."
 
     old "Sarah gestured with her hands for him to move it along."
     new "Sarah gestured with her hands for him to move it along."
 
-    old "Man\" \"We in this town have been faithful loyalists to your family."
-    new "Man\" \"We in this town have been faithful loyalists to your family."
+    old "We in this town have been faithful loyalists to your family."
+    new "We in this town have been faithful loyalists to your family."
 
-    old "Man\" \"And for it, we have paid dearly."
-    new "Man\" \"And for it, we have paid dearly."
+    old "And for it, we have paid dearly."
+    new "And for it, we have paid dearly."
 
-    old "Man\" \"Our town is to small to be permanently occupied, so each month, an emmissary from the Tribes rides out and hands out punishments."
-    new "Man\" \"Our town is to small to be permanently occupied, so each month, an emmissary from the Tribes rides out and hands out punishments."
+    old "Our town is to small to be permanently occupied, so each month, an emmissary from the Tribes rides out and hands out punishments."
+    new "Our town is to small to be permanently occupied, so each month, an emmissary from the Tribes rides out and hands out punishments."
 
-    old "Man\" \"Those who keep their heads down, are left alone."
-    new "Man\" \"Those who keep their heads down, are left alone."
+    old "Those who keep their heads down, are left alone."
+    new "Those who keep their heads down, are left alone."
 
-    old "Man\" \"Those who are loyal, are punished."
-    new "Man\" \"Those who are loyal, are punished."
+    old "Those who are loyal, are punished."
+    new "Those who are loyal, are punished."
 
     old "He paused for a short while."
     new "He paused for a short while."
 
-    old "Man\" \"And those who conspire with your enemies, who colaborate with the Tribes, they are rewarded."
-    new "Man\" \"And those who conspire with your enemies, who colaborate with the Tribes, they are rewarded."
+    old "And those who conspire with your enemies, who colaborate with the Tribes, they are rewarded."
+    new "And those who conspire with your enemies, who colaborate with the Tribes, they are rewarded."
 
-    old "Man\" \"They spy on their neighbours. Rat out loyalists. Condemn them and their families to suffer at the hand of the Tribes."
-    new "Man\" \"They spy on their neighbours. Rat out loyalists. Condemn them and their families to suffer at the hand of the Tribes."
+    old "They spy on their neighbours. Rat out loyalists. Condemn them and their families to suffer at the hand of the Tribes."
+    new "They spy on their neighbours. Rat out loyalists. Condemn them and their families to suffer at the hand of the Tribes."
 
-    old "Man\" \"And for it, the Tribes reward them."
-    new "Man\" \"And for it, the Tribes reward them."
+    old "And for it, the Tribes reward them."
+    new "And for it, the Tribes reward them."
 
     old "She wasn't too surprised to learn of this. The Tribes had little interest in direct rule, they simply wanted to keep the populace down."
     new "She wasn't too surprised to learn of this. The Tribes had little interest in direct rule, they simply wanted to keep the populace down."
@@ -220,29 +220,29 @@ translate ru strings:
     old "Sarah saw the innkeeper, shaking. His face, pale."
     new "Sarah saw the innkeeper, shaking. His face, pale."
 
-    old "Man\" \"That man...that man that served you your drink, and your food, he used to be little more than a farmhand and a thief."
-    new "Man\" \"That man...that man that served you your drink, and your food, he used to be little more than a farmhand and a thief."
+    old "That man...that man that served you your drink, and your food, he used to be little more than a farmhand and a thief."
+    new "That man...that man that served you your drink, and your food, he used to be little more than a farmhand and a thief."
 
-    old "Man\" \"No more than a few years ago, he travelled from town to town, begging for work, and stealing what he couldn't earn honestly."
-    new "Man\" \"No more than a few years ago, he travelled from town to town, begging for work, and stealing what he couldn't earn honestly."
+    old "No more than a few years ago, he travelled from town to town, begging for work, and stealing what he couldn't earn honestly."
+    new "No more than a few years ago, he travelled from town to town, begging for work, and stealing what he couldn't earn honestly."
 
-    old "Man\" \"A vagrant."
-    new "Man\" \"A vagrant."
+    old "A vagrant."
+    new "A vagrant."
 
-    old "Man\" \"Now, he looks all prim and proper, owner of this here tavern."
-    new "Man\" \"Now, he looks all prim and proper, owner of this here tavern."
+    old "Now, he looks all prim and proper, owner of this here tavern."
+    new "Now, he looks all prim and proper, owner of this here tavern."
 
-    old "Man\" \"But what he probably forgot to mention was that this tavern used to have a previous owner."
-    new "Man\" \"But what he probably forgot to mention was that this tavern used to have a previous owner."
+    old "But what he probably forgot to mention was that this tavern used to have a previous owner."
+    new "But what he probably forgot to mention was that this tavern used to have a previous owner."
 
-    old "Man\" \"A proper and rightious man, that held loyal to you and your family."
-    new "Man\" \"A proper and rightious man, that held loyal to you and your family."
+    old "A proper and rightious man, that held loyal to you and your family."
+    new "A proper and rightious man, that held loyal to you and your family."
 
-    old "Man\" \"And for that loyalty, the Tribesmen gave him the rope. They gave him the rope because this creature ratted him out."
-    new "Man\" \"And for that loyalty, the Tribesmen gave him the rope. They gave him the rope because this creature ratted him out."
+    old "And for that loyalty, the Tribesmen gave him the rope. They gave him the rope because this creature ratted him out."
+    new "And for that loyalty, the Tribesmen gave him the rope. They gave him the rope because this creature ratted him out."
 
-    old "Man\" \"And they gave him the tavern as a reward."
-    new "Man\" \"And they gave him the tavern as a reward."
+    old "And they gave him the tavern as a reward."
+    new "And they gave him the tavern as a reward."
 
     old "The man stepped forward, anger growing on his face."
     new "The man stepped forward, anger growing on his face."
@@ -253,17 +253,17 @@ translate ru strings:
     old "A young woman had come out from the kitchen and stood next to him, a confused yet frightened expression on her face as well."
     new "A young woman had come out from the kitchen and stood next to him, a confused yet frightened expression on her face as well."
 
-    old "Man\" \"You have come to our town. Liberated us from the yoke of the Tribesmen."
-    new "Man\" \"You have come to our town. Liberated us from the yoke of the Tribesmen."
+    old "You have come to our town. Liberated us from the yoke of the Tribesmen."
+    new "You have come to our town. Liberated us from the yoke of the Tribesmen."
 
-    old "Man\" \"I ask you...petition you...what kind of a country will you build?"
-    new "Man\" \"I ask you...petition you...what kind of a country will you build?"
+    old "I ask you...petition you...what kind of a country will you build?"
+    new "I ask you...petition you...what kind of a country will you build?"
 
-    old "Man\" \"Is it one where vermin like him live large? Or will you build a country as your Father did."
-    new "Man\" \"Is it one where vermin like him live large? Or will you build a country as your Father did."
+    old "Is it one where vermin like him live large? Or will you build a country as your Father did."
+    new "Is it one where vermin like him live large? Or will you build a country as your Father did."
 
-    old "Man\" \"One where justice rules, and men like him get what they deserve?"
-    new "Man\" \"One where justice rules, and men like him get what they deserve?"
+    old "One where justice rules, and men like him get what they deserve?"
+    new "One where justice rules, and men like him get what they deserve?"
 
     old "Sarah saw everyone's eyes on her. A heavy silence growing deeper by the second."
     new "Sarah saw everyone's eyes on her. A heavy silence growing deeper by the second."
@@ -304,17 +304,14 @@ translate ru strings:
     old "She saw a smile creeping over the man's face."
     new "She saw a smile creeping over the man's face."
 
-    old "Man\" \"Yes?"
-    new "Man\" \"Yes?"
-
     old "Yes, my country will be one of justice."
     new "Yes, my country will be one of justice."
 
     old "And in my country, there will be no place for men that turn their backs on the Crown because it is easy."
     new "And in my country, there will be no place for men that turn their backs on the Crown because it is easy."
 
-    old "Innkeeper\" \"Princess, please wait!"
-    new "Innkeeper\" \"Princess, please wait!"
+    old "Princess, please wait!"
+    new "Princess, please wait!"
 
     old "Sarah saw the terrified expression on his face. On his daughter's face."
     new "Sarah saw the terrified expression on his face. On his daughter's face."
@@ -418,8 +415,8 @@ translate ru strings:
     old "Her voice roared."
     new "Her voice roared."
 
-    old "Man\" \"No? You would deny us justice?!"
-    new "Man\" \"No? You would deny us justice?!"
+    old "No? You would deny us justice?!"
+    new "No? You would deny us justice?!"
 
     old "Justice?"
     new "Justice?"
@@ -427,8 +424,8 @@ translate ru strings:
     old "You call this justice? To have a man and his daughter thrown to the wolves on your account?"
     new "You call this justice? To have a man and his daughter thrown to the wolves on your account?"
 
-    old "Man\" \"I can bring in others to testify."
-    new "Man\" \"I can bring in others to testify."
+    old "I can bring in others to testify."
+    new "I can bring in others to testify."
 
     old "Of course you can."
     new "Of course you can."
@@ -448,11 +445,11 @@ translate ru strings:
     old "I have a war to win, to liberate my country! I don't have time to waste on your petty squables!"
     new "I have a war to win, to liberate my country! I don't have time to waste on your petty squables!"
 
-    old "Man\" \"Figures..."
-    new "Man\" \"Figures..."
+    old "Figures..."
+    new "Figures..."
 
-    old "Man\" \"Tribesmen. Roses. It's all the same shit. Not a one cares about the people."
-    new "Man\" \"Tribesmen. Roses. It's all the same shit. Not a one cares about the people."
+    old "Tribesmen. Roses. It's all the same shit. Not a one cares about the people."
+    new "Tribesmen. Roses. It's all the same shit. Not a one cares about the people."
 
     old "The man stormed out, his gang following behind him."
     new "The man stormed out, his gang following behind him."
@@ -481,8 +478,8 @@ translate ru strings:
     old "Enforce your own justice"
     new "Enforce your own justice"
 
-    old "Man\" \"No? You deny us a right to seek justice?"
-    new "Man\" \"No? You deny us a right to seek justice?"
+    old "No? You deny us a right to seek justice?"
+    new "No? You deny us a right to seek justice?"
 
     old "Justice? You call this mob you've gathered justice?"
     new "Justice? You call this mob you've gathered justice?"
@@ -519,9 +516,6 @@ translate ru strings:
 
     old "Take the innkeeper, question him. If these claims of treason to the Crown are found to be true, hang him by dawn."
     new "Take the innkeeper, question him. If these claims of treason to the Crown are found to be true, hang him by dawn."
-
-    old "Guards\" \"Yes, Princess!"
-    new "Guards\" \"Yes, Princess!"
 
     old "The guards grabbed the innkeeper and dragged him away."
     new "The guards grabbed the innkeeper and dragged him away."

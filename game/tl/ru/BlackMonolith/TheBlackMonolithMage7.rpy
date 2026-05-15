@@ -259,14 +259,14 @@ translate ru strings:
     old "Next to him, his equally well-fed and happy wife."
     new "Next to him, his equally well-fed and happy wife."
 
-    old "Barkeeper\" \"Ladies, gentlemen, welcome to tonight's monthly Lower-Ward dance."
-    new "Barkeeper\" \"Ladies, gentlemen, welcome to tonight's monthly Lower-Ward dance."
+    old "Ladies, gentlemen, welcome to tonight's monthly Lower-Ward dance."
+    new "Ladies, gentlemen, welcome to tonight's monthly Lower-Ward dance."
 
     old "The Lower-Ward, out near the docks. Not the best part of town, but far from the worst. Working people most of all."
     new "The Lower-Ward, out near the docks. Not the best part of town, but far from the worst. Working people most of all."
 
-    old "Barkeeper\" \"The theme of tonight is music from the Union Kingdoms. We have a great band from former Rosanna, give them all a coin if you can spare it."
-    new "Barkeeper\" \"The theme of tonight is music from the Union Kingdoms. We have a great band from former Rosanna, give them all a coin if you can spare it."
+    old "The theme of tonight is music from the Union Kingdoms. We have a great band from former Rosanna, give them all a coin if you can spare it."
+    new "The theme of tonight is music from the Union Kingdoms. We have a great band from former Rosanna, give them all a coin if you can spare it."
 
     old "Sarah looked at a small group of musicians near the back of the room."
     new "Sarah looked at a small group of musicians near the back of the room."
@@ -277,23 +277,23 @@ translate ru strings:
     old "Rosannan's made their fortune whichever way they now could, wandering the world. Music was a decent way, if one had the skill."
     new "Rosannan's made their fortune whichever way they now could, wandering the world. Music was a decent way, if one had the skill."
 
-    old "Barkeeper\" \"Basic dances, nothin fancy. We swap up solo dances and partner dances, keep to the rules, and everyone is gonna have a good time."
-    new "Barkeeper\" \"Basic dances, nothin fancy. We swap up solo dances and partner dances, keep to the rules, and everyone is gonna have a good time."
+    old "Basic dances, nothin fancy. We swap up solo dances and partner dances, keep to the rules, and everyone is gonna have a good time."
+    new "Basic dances, nothin fancy. We swap up solo dances and partner dances, keep to the rules, and everyone is gonna have a good time."
 
-    old "Barkeeper\" \"Cause trouble, and well, you gonna have to deal with my dear wife here."
-    new "Barkeeper\" \"Cause trouble, and well, you gonna have to deal with my dear wife here."
+    old "Cause trouble, and well, you gonna have to deal with my dear wife here."
+    new "Cause trouble, and well, you gonna have to deal with my dear wife here."
 
     old "Some in the crowd hollered, causing laughter."
     new "Some in the crowd hollered, causing laughter."
 
-    old "Barkeeper\" \"She may look nice, but she used to work the fish gutting houses, so she ain't got no trouble guttin on of ya'll."
-    new "Barkeeper\" \"She may look nice, but she used to work the fish gutting houses, so she ain't got no trouble guttin on of ya'll."
+    old "She may look nice, but she used to work the fish gutting houses, so she ain't got no trouble guttin on of ya'll."
+    new "She may look nice, but she used to work the fish gutting houses, so she ain't got no trouble guttin on of ya'll."
 
     old "More laughter from the crowd."
     new "More laughter from the crowd."
 
-    old "Barkeeper\" \"Well, with that said, let's get this started."
-    new "Barkeeper\" \"Well, with that said, let's get this started."
+    old "Well, with that said, let's get this started."
+    new "Well, with that said, let's get this started."
 
     old "The barkeeper slammed his fist on the table, and on cue, the band began to play."
     new "The barkeeper slammed his fist on the table, and on cue, the band began to play."

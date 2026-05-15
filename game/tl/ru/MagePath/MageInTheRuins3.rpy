@@ -2203,8 +2203,8 @@ translate ru strings:
     old "So, anyways, I was there on the helm of the ship, blade draw and then-"
     new "So, anyways, I was there on the helm of the ship, blade draw and then-"
 
-    old "Barkeep\" \"LISTEN HERE YA LOWLIVES! CLOSIN UP! GET LOST!"
-    new "Barkeep\" \"LISTEN HERE YA LOWLIVES! CLOSIN UP! GET LOST!"
+    old "LISTEN HERE YA LOWLIVES! CLOSIN UP! GET LOST!"
+    new "LISTEN HERE YA LOWLIVES! CLOSIN UP! GET LOST!"
 
     old "Sarah looked up, groggy and confused."
     new "Sarah looked up, groggy and confused."

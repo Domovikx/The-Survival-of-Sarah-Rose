@@ -47,7 +47,7 @@ translate ru strings:
     new "The edges of her vision seemed to blur, and the ground under her feet began to shift."
 
     old "Yes."
-    new "Yes."
+    new "Да."
 
     old "The words seemed to slip out before she had given it any thought."
     new "The words seemed to slip out before she had given it any thought."

@@ -265,8 +265,8 @@ translate ru strings:
     old "Suddenly, a voice came to her."
     new "Suddenly, a voice came to her."
 
-    old "Voice\" \"What do you seek?"
-    new "Voice\" \"What do you seek?"
+    old "What do you seek?"
+    new "What do you seek?"
 
     old "Sarah found herself surprised at how little the voice scared her, despite it seemingly appearing from nowhere at all."
     new "Sarah found herself surprised at how little the voice scared her, despite it seemingly appearing from nowhere at all."
@@ -274,26 +274,26 @@ translate ru strings:
     old "The soft, melodic rhythm of the voice made it impossible to suspect even a hint of danger."
     new "The soft, melodic rhythm of the voice made it impossible to suspect even a hint of danger."
 
-    old "Voice\" \"I am the curator of this place."
-    new "Voice\" \"I am the curator of this place."
+    old "I am the curator of this place."
+    new "I am the curator of this place."
 
     old "But where are you?"
     new "But where are you?"
 
-    old "Curator\" \"I occupy no particular space."
-    new "Curator\" \"I occupy no particular space."
+    old "I occupy no particular space."
+    new "I occupy no particular space."
 
-    old "Curator\" \"My function is to assist the master in maintaining the existing collection."
-    new "Curator\" \"My function is to assist the master in maintaining the existing collection."
+    old "My function is to assist the master in maintaining the existing collection."
+    new "My function is to assist the master in maintaining the existing collection."
 
     old "The master? Do you mean Xan?"
     new "The master? Do you mean Xan?"
 
-    old "Curator\" \"Xanthippe was the master of this space, but the connection was recently severed."
-    new "Curator\" \"Xanthippe was the master of this space, but the connection was recently severed."
+    old "Xanthippe was the master of this space, but the connection was recently severed."
+    new "Xanthippe was the master of this space, but the connection was recently severed."
 
-    old "Curator\" \"For lack of alternative, you would appear to be the current master."
-    new "Curator\" \"For lack of alternative, you would appear to be the current master."
+    old "For lack of alternative, you would appear to be the current master."
+    new "For lack of alternative, you would appear to be the current master."
 
     old "Sarah felt a rush run through her body."
     new "Sarah felt a rush run through her body."
@@ -304,11 +304,11 @@ translate ru strings:
     old "What...what can you do, exactly?"
     new "What...what can you do, exactly?"
 
-    old "Curator\" \"I maintain a full and complete index of all existing volumes in the collection."
-    new "Curator\" \"I maintain a full and complete index of all existing volumes in the collection."
+    old "I maintain a full and complete index of all existing volumes in the collection."
+    new "I maintain a full and complete index of all existing volumes in the collection."
 
-    old "Curator\" \"Should you be in need of finding any, I will assist you in locating them."
-    new "Curator\" \"Should you be in need of finding any, I will assist you in locating them."
+    old "Should you be in need of finding any, I will assist you in locating them."
+    new "Should you be in need of finding any, I will assist you in locating them."
 
     old "Sarah nodded as the voice explained."
     new "Sarah nodded as the voice explained."
@@ -328,11 +328,11 @@ translate ru strings:
     old "Do you have a copy of 'The Hollow World?'"
     new "Do you have a copy of 'The Hollow World?'"
 
-    old "Curator\" \"A copy of such a book does not exist within the current inventory."
-    new "Curator\" \"A copy of such a book does not exist within the current inventory."
+    old "A copy of such a book does not exist within the current inventory."
+    new "A copy of such a book does not exist within the current inventory."
 
-    old "Curator\" \"Existing models classify that book as exceptionally rare."
-    new "Curator\" \"Existing models classify that book as exceptionally rare."
+    old "Existing models classify that book as exceptionally rare."
+    new "Existing models classify that book as exceptionally rare."
 
     old "She already had a copy of it, but it still surprised her that the entire library itself wouldn't have a single copy."
     new "She already had a copy of it, but it still surprised her that the entire library itself wouldn't have a single copy."
@@ -349,38 +349,38 @@ translate ru strings:
     old "For a moment, the voice was absent, then it rushed back into her head."
     new "For a moment, the voice was absent, then it rushed back into her head."
 
-    old "Curator\" \"The current library contains seventeen copies of A Brief Investigation on Ethics. Seven original prints, five second editions and five third editions."
-    new "Curator\" \"The current library contains seventeen copies of A Brief Investigation on Ethics. Seven original prints, five second editions and five third editions."
+    old "The current library contains seventeen copies of A Brief Investigation on Ethics. Seven original prints, five second editions and five third editions."
+    new "The current library contains seventeen copies of A Brief Investigation on Ethics. Seven original prints, five second editions and five third editions."
 
-    old "Curator\" \"A Brief Investigation on Ethics was first written by the philosopher Lu-Fan, hailing from the current region known to you as the Far East."
-    new "Curator\" \"A Brief Investigation on Ethics was first written by the philosopher Lu-Fan, hailing from the current region known to you as the Far East."
+    old "A Brief Investigation on Ethics was first written by the philosopher Lu-Fan, hailing from the current region known to you as the Far East."
+    new "A Brief Investigation on Ethics was first written by the philosopher Lu-Fan, hailing from the current region known to you as the Far East."
 
-    old "Curator\" \"First drafted twelve-hundred years ago, the first translated copies made their way into the Union Kingdoms some two centuries later."
-    new "Curator\" \"First drafted twelve-hundred years ago, the first translated copies made their way into the Union Kingdoms some two centuries later."
+    old "First drafted twelve-hundred years ago, the first translated copies made their way into the Union Kingdoms some two centuries later."
+    new "First drafted twelve-hundred years ago, the first translated copies made their way into the Union Kingdoms some two centuries later."
 
-    old "Curator\" \"It was not until another century later, when the book reached the early Mythran empire, when it rose to prominence."
-    new "Curator\" \"It was not until another century later, when the book reached the early Mythran empire, when it rose to prominence."
+    old "It was not until another century later, when the book reached the early Mythran empire, when it rose to prominence."
+    new "It was not until another century later, when the book reached the early Mythran empire, when it rose to prominence."
 
-    old "Curator\" \"Ever since, the book has been primarily used as introductory reading for students at the Mythran universities."
-    new "Curator\" \"Ever since, the book has been primarily used as introductory reading for students at the Mythran universities."
+    old "Ever since, the book has been primarily used as introductory reading for students at the Mythran universities."
+    new "Ever since, the book has been primarily used as introductory reading for students at the Mythran universities."
 
     old "The voice paused."
     new "The voice paused."
 
-    old "Curator\" \"Is this the book you seek?"
-    new "Curator\" \"Is this the book you seek?"
+    old "Is this the book you seek?"
+    new "Is this the book you seek?"
 
     old "Yes...I think."
     new "Yes...I think."
 
-    old "Curator\" \"Which copy would you prefer?"
-    new "Curator\" \"Which copy would you prefer?"
+    old "Which copy would you prefer?"
+    new "Which copy would you prefer?"
 
     old "The...most recent one?"
     new "The...most recent one?"
 
-    old "Curator\" \"Very well, please take a seat. I shall deliver you a third edition copy of the requested item momentarily."
-    new "Curator\" \"Very well, please take a seat. I shall deliver you a third edition copy of the requested item momentarily."
+    old "Very well, please take a seat. I shall deliver you a third edition copy of the requested item momentarily."
+    new "Very well, please take a seat. I shall deliver you a third edition copy of the requested item momentarily."
 
     old "Sarah did as the voice instructed, sitting down at the wooden table."
     new "Sarah did as the voice instructed, sitting down at the wooden table."
@@ -409,17 +409,17 @@ translate ru strings:
     old "Suddenly, the voice rushed in again."
     new "Suddenly, the voice rushed in again."
 
-    old "Curator\" \"'The Desert Blooms'. We have Thirty-eight copies within the current inventory."
-    new "Curator\" \"'The Desert Blooms'. We have Thirty-eight copies within the current inventory."
+    old "'The Desert Blooms'. We have Thirty-eight copies within the current inventory."
+    new "'The Desert Blooms'. We have Thirty-eight copies within the current inventory."
 
-    old "Curator\" \"Would you like me to procure one?"
-    new "Curator\" \"Would you like me to procure one?"
+    old "Would you like me to procure one?"
+    new "Would you like me to procure one?"
 
     old "Yes, please...uhm...spirit?"
     new "Yes, please...uhm...spirit?"
 
-    old "Curator\" \"I am not a spirit."
-    new "Curator\" \"I am not a spirit."
+    old "I am not a spirit."
+    new "I am not a spirit."
 
     old "Flying through the air, a copy of the book Samayra had requested flew towards her, pausing only just before striking her."
     new "Flying through the air, a copy of the book Samayra had requested flew towards her, pausing only just before striking her."
@@ -487,8 +487,8 @@ translate ru strings:
     old "Sarah reached out and grabbed the book from the air."
     new "Sarah reached out and grabbed the book from the air."
 
-    old "Curator\" \"There are no more efficient means than the means utilized in this space."
-    new "Curator\" \"There are no more efficient means than the means utilized in this space."
+    old "There are no more efficient means than the means utilized in this space."
+    new "There are no more efficient means than the means utilized in this space."
 
     old "Sarah rolled her eyes. There was efficient, and then there was whatever this was."
     new "Sarah rolled her eyes. There was efficient, and then there was whatever this was."

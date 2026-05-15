@@ -31,8 +31,8 @@ translate ru strings:
     old "From the distance, a voice rang out."
     new "From the distance, a voice rang out."
 
-    old "Voice\" \"Ooh! I think I hear a new girl! It's been a while!"
-    new "Voice\" \"Ooh! I think I hear a new girl! It's been a while!"
+    old "Ooh! I think I hear a new girl! It's been a while!"
+    new "Ooh! I think I hear a new girl! It's been a while!"
 
     old "The voice was high-pitched, unmistakably a woman's voice."
     new "The voice was high-pitched, unmistakably a woman's voice."

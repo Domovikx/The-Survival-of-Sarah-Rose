@@ -466,8 +466,8 @@ translate ru strings:
     old "The merchant eagerly came up to her."
     new "The merchant eagerly came up to her."
 
-    old "Merchant\" \"Ninety, but for one as beautiful as you, perhaps we agree on eighty?"
-    new "Merchant\" \"Ninety, but for one as beautiful as you, perhaps we agree on eighty?"
+    old "Ninety, but for one as beautiful as you, perhaps we agree on eighty?"
+    new "Ninety, but for one as beautiful as you, perhaps we agree on eighty?"
 
     old "Sarah laughed loudly."
     new "Sarah laughed loudly."
@@ -478,8 +478,8 @@ translate ru strings:
     old "The merchant threw up his hands."
     new "The merchant threw up his hands."
 
-    old "Merchant\" \"That's not a serious price, come on lady!"
-    new "Merchant\" \"That's not a serious price, come on lady!"
+    old "That's not a serious price, come on lady!"
+    new "That's not a serious price, come on lady!"
 
     old "Sarah knew this was true, but she had no intention of buying the silk."
     new "Sarah knew this was true, but she had no intention of buying the silk."
@@ -508,8 +508,8 @@ translate ru strings:
     old "These prices, I can't work with them, I'll go find a real merchant with a real price."
     new "These prices, I can't work with them, I'll go find a real merchant with a real price."
 
-    old "Merchant\" \"And don't come back till you're willing to pay a serious price!"
-    new "Merchant\" \"And don't come back till you're willing to pay a serious price!"
+    old "And don't come back till you're willing to pay a serious price!"
+    new "And don't come back till you're willing to pay a serious price!"
 
     old "Sarah slid back out of the crowd."
     new "Sarah slid back out of the crowd."

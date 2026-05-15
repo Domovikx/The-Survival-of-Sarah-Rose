@@ -636,3 +636,4 @@ translate ru strings:
 
     old "Sarah wanted to say things to Atilla that she dared not even think."
     new "Сара хотела сказать Атилле то, что не смела даже думать."
+

@@ -100,8 +100,8 @@ translate ru strings:
     old "Finally, what seemed like a welcome."
     new "Finally, what seemed like a welcome."
 
-    old "Mythran Officer\" \"Welcome, you are the mercenary company, I imagine?"
-    new "Mythran Officer\" \"Welcome, you are the mercenary company, I imagine?"
+    old "Welcome, you are the mercenary company, I imagine?"
+    new "Welcome, you are the mercenary company, I imagine?"
 
     old "Sarah looked across the square, everywhere her men were already setting up their camps."
     new "Sarah looked across the square, everywhere her men were already setting up their camps."
@@ -115,11 +115,11 @@ translate ru strings:
     old "The officer smiled."
     new "The officer smiled."
 
-    old "Mythran Officer\" \"No, only crazy folk this far out in the world."
-    new "Mythran Officer\" \"No, only crazy folk this far out in the world."
+    old "No, only crazy folk this far out in the world."
+    new "No, only crazy folk this far out in the world."
 
-    old "Mythran Officer\" \"And you are in charge?"
-    new "Mythran Officer\" \"And you are in charge?"
+    old "And you are in charge?"
+    new "And you are in charge?"
 
     old "He eyed her, somewhat suspicious that a woman would lead a mercenary company."
     new "He eyed her, somewhat suspicious that a woman would lead a mercenary company."
@@ -130,8 +130,8 @@ translate ru strings:
     old "The officer nodded."
     new "The officer nodded."
 
-    old "Mythran Officer\" \"Fair, makes my job easier."
-    new "Mythran Officer\" \"Fair, makes my job easier."
+    old "Fair, makes my job easier."
+    new "Fair, makes my job easier."
 
     old "Sarah walked up closer to the man."
     new "Sarah walked up closer to the man."
@@ -145,14 +145,14 @@ translate ru strings:
     old "The officer regarded her for a moment."
     new "The officer regarded her for a moment."
 
-    old "Mythran Officer\" \"Need-to-know-only. You just focus on supporting the security situation."
-    new "Mythran Officer\" \"Need-to-know-only. You just focus on supporting the security situation."
+    old "Need-to-know-only. You just focus on supporting the security situation."
+    new "Need-to-know-only. You just focus on supporting the security situation."
 
-    old "Mythran Officer\" \"Ooh, and I doubt you'll see much action, but there are some tribesmen that like to poke at our outer line, try and sneak into the city."
-    new "Mythran Officer\" \"Ooh, and I doubt you'll see much action, but there are some tribesmen that like to poke at our outer line, try and sneak into the city."
+    old "Ooh, and I doubt you'll see much action, but there are some tribesmen that like to poke at our outer line, try and sneak into the city."
+    new "Ooh, and I doubt you'll see much action, but there are some tribesmen that like to poke at our outer line, try and sneak into the city."
 
-    old "Mythran Officer\" \"Having some extra hands to secure the outter perimeter will work wonders."
-    new "Mythran Officer\" \"Having some extra hands to secure the outter perimeter will work wonders."
+    old "Having some extra hands to secure the outter perimeter will work wonders."
+    new "Having some extra hands to secure the outter perimeter will work wonders."
 
     old "Sarah furrowed her brow, looking at him with a degree of confusion."
     new "Sarah furrowed her brow, looking at him with a degree of confusion."
@@ -160,14 +160,14 @@ translate ru strings:
     old "Tribesmen? On this side of the ocean?"
     new "Tribesmen? On this side of the ocean?"
 
-    old "Mythran Officer\" \"I figured you would have heard."
-    new "Mythran Officer\" \"I figured you would have heard."
+    old "I figured you would have heard."
+    new "I figured you would have heard."
 
     old "Heard what?"
     new "Heard what?"
 
-    old "Mythran Officer\" \"That big old horde that had been gathered under...what was that fella's name, Khan...something."
-    new "Mythran Officer\" \"That big old horde that had been gathered under...what was that fella's name, Khan...something."
+    old "That big old horde that had been gathered under...what was that fella's name, Khan...something."
+    new "That big old horde that had been gathered under...what was that fella's name, Khan...something."
 
     old "Hassar."
     new "Hassar."
@@ -175,23 +175,23 @@ translate ru strings:
     old "Sarah corrected the man. Unlike him, she would never forget the name of the man that had ruined her homeland and killed her brother."
     new "Sarah corrected the man. Unlike him, she would never forget the name of the man that had ruined her homeland and killed her brother."
 
-    old "Mythran Officer\" \"Aah, yes, Hassar."
-    new "Mythran Officer\" \"Aah, yes, Hassar."
+    old "Aah, yes, Hassar."
+    new "Aah, yes, Hassar."
 
-    old "Mythran Officer\" \"Well, turns out savages can't ever play nice for too long."
-    new "Mythran Officer\" \"Well, turns out savages can't ever play nice for too long."
+    old "Well, turns out savages can't ever play nice for too long."
+    new "Well, turns out savages can't ever play nice for too long."
 
-    old "Mythran Officer\" \"Some clan or another started some trouble, probably over some trinket they robbed or some slave whore, and then it all broke down."
-    new "Mythran Officer\" \"Some clan or another started some trouble, probably over some trinket they robbed or some slave whore, and then it all broke down."
+    old "Some clan or another started some trouble, probably over some trinket they robbed or some slave whore, and then it all broke down."
+    new "Some clan or another started some trouble, probably over some trinket they robbed or some slave whore, and then it all broke down."
 
-    old "Mythran Officer\" \"Last I heard they're still infighting."
-    new "Mythran Officer\" \"Last I heard they're still infighting."
+    old "Last I heard they're still infighting."
+    new "Last I heard they're still infighting."
 
-    old "Mythran Officer\" \"But one of the smaller clans got ran off towards the edges of the desert."
-    new "Mythran Officer\" \"But one of the smaller clans got ran off towards the edges of the desert."
+    old "But one of the smaller clans got ran off towards the edges of the desert."
+    new "But one of the smaller clans got ran off towards the edges of the desert."
 
-    old "Mythran Officer\" \"They paid some merchants to ship them across the sea and now they're being a pain in my ass."
-    new "Mythran Officer\" \"They paid some merchants to ship them across the sea and now they're being a pain in my ass."
+    old "They paid some merchants to ship them across the sea and now they're being a pain in my ass."
+    new "They paid some merchants to ship them across the sea and now they're being a pain in my ass."
 
     old "Sarah nodded as she listened."
     new "Sarah nodded as she listened."
@@ -208,17 +208,17 @@ translate ru strings:
     old "The officer looked up from a series of documents he had produced from his shirt."
     new "The officer looked up from a series of documents he had produced from his shirt."
 
-    old "Mythran Officer\" \"Rosanna?"
-    new "Mythran Officer\" \"Rosanna?"
+    old "Rosanna?"
+    new "Rosanna?"
 
     old "Yes...is it safe?"
     new "Yes...is it safe?"
 
-    old "Mythran Officer\" \"How the fuck should I know?"
-    new "Mythran Officer\" \"How the fuck should I know?"
+    old "How the fuck should I know?"
+    new "How the fuck should I know?"
 
-    old "Mythran Officer\" \"You think I keep track of every backwater province in the world?"
-    new "Mythran Officer\" \"You think I keep track of every backwater province in the world?"
+    old "You think I keep track of every backwater province in the world?"
+    new "You think I keep track of every backwater province in the world?"
 
     old "To hear him describe her home as little more than a province stung, though to a Mythran, that was likely how most of the Union Kingdoms appeared."
     new "To hear him describe her home as little more than a province stung, though to a Mythran, that was likely how most of the Union Kingdoms appeared."
@@ -226,23 +226,23 @@ translate ru strings:
     old "I was only wondering."
     new "I was only wondering."
 
-    old "Mythran Officer\" \"Well, best you use some of that brain power to get started on this."
-    new "Mythran Officer\" \"Well, best you use some of that brain power to get started on this."
+    old "Well, best you use some of that brain power to get started on this."
+    new "Well, best you use some of that brain power to get started on this."
 
     old "He pushed the pile of documents into her hands."
     new "He pushed the pile of documents into her hands."
 
-    old "Mythran Officer\" \"These are the current drafts of our defensive lives."
-    new "Mythran Officer\" \"These are the current drafts of our defensive lives."
+    old "These are the current drafts of our defensive lives."
+    new "These are the current drafts of our defensive lives."
 
-    old "Mythran Officer\" \"I've made some notes on the sides, showing where I think our current weaknesses are."
-    new "Mythran Officer\" \"I've made some notes on the sides, showing where I think our current weaknesses are."
+    old "I've made some notes on the sides, showing where I think our current weaknesses are."
+    new "I've made some notes on the sides, showing where I think our current weaknesses are."
 
-    old "Mythran Officer\" \"Look them over and start putting some men out on those positions."
-    new "Mythran Officer\" \"Look them over and start putting some men out on those positions."
+    old "Look them over and start putting some men out on those positions."
+    new "Look them over and start putting some men out on those positions."
 
-    old "Mythran Officer\" \"I want to at least double our forces on all the main city gates."
-    new "Mythran Officer\" \"I want to at least double our forces on all the main city gates."
+    old "I want to at least double our forces on all the main city gates."
+    new "I want to at least double our forces on all the main city gates."
 
     old "Sarah nodded as she studied the map."
     new "Sarah nodded as she studied the map."
@@ -250,8 +250,8 @@ translate ru strings:
     old "Sure, I'll discuss it with my commander, but we'll manage to get that done by the end of the day."
     new "Sure, I'll discuss it with my commander, but we'll manage to get that done by the end of the day."
 
-    old "Mythran Officer\" \"Great, well if that's all, I need to be on my way. Some recruit slept through his guard duty yesterday and I get to hand out the punishment."
-    new "Mythran Officer\" \"Great, well if that's all, I need to be on my way. Some recruit slept through his guard duty yesterday and I get to hand out the punishment."
+    old "Great, well if that's all, I need to be on my way. Some recruit slept through his guard duty yesterday and I get to hand out the punishment."
+    new "Great, well if that's all, I need to be on my way. Some recruit slept through his guard duty yesterday and I get to hand out the punishment."
 
     old "The officer appeared more annoyed than anything else."
     new "The officer appeared more annoyed than anything else."

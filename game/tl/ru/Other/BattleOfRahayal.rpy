@@ -514,14 +514,8 @@ translate ru strings:
     old "The pale mask turned, as if observing her."
     new "The pale mask turned, as if observing her."
 
-    old "Voidling\" \"You..."
-    new "Voidling\" \"You..."
-
     old "It uttered out a word in broken speech."
     new "It uttered out a word in broken speech."
-
-    old "Voidling\" \"Why..."
-    new "Voidling\" \"Why..."
 
     old "It seemed to require all its power just to utter these few words."
     new "It seemed to require all its power just to utter these few words."
@@ -535,11 +529,11 @@ translate ru strings:
     old "The creature nodded with its mask."
     new "The creature nodded with its mask."
 
-    old "Voidling\" \"This...pain..."
-    new "Voidling\" \"This...pain..."
+    old "This...pain..."
+    new "This...pain..."
 
-    old "Voidling\" \"End...it..."
-    new "Voidling\" \"End...it..."
+    old "End...it..."
+    new "End...it..."
 
     old "Sarah felt only pity for it, despite everything."
     new "Sarah felt only pity for it, despite everything."

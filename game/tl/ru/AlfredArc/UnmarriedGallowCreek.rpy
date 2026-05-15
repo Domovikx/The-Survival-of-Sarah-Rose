@@ -226,11 +226,11 @@ translate ru strings:
     old "Another woman, two decades younger than her, sat besides her."
     new "Another woman, two decades younger than her, sat besides her."
 
-    old "Young woman\" \"Headed to town for work too?"
-    new "Young woman\" \"Headed to town for work too?"
+    old "Headed to town for work too?"
+    new "Headed to town for work too?"
 
-    old "Young woman\" \"They says jobs plenty, good pay too."
-    new "Young woman\" \"They says jobs plenty, good pay too."
+    old "They says jobs plenty, good pay too."
+    new "They says jobs plenty, good pay too."
 
     old "They always say that, don't they?"
     new "They always say that, don't they?"
@@ -238,14 +238,14 @@ translate ru strings:
     old "The young woman laughed."
     new "The young woman laughed."
 
-    old "Young woman\" \"Ay, maybe. I ain't been around as long as you though."
-    new "Young woman\" \"Ay, maybe. I ain't been around as long as you though."
+    old "Ay, maybe. I ain't been around as long as you though."
+    new "Ay, maybe. I ain't been around as long as you though."
 
     old "You calling me old?"
     new "You calling me old?"
 
-    old "Young woman\" \"Sorry, I didn't mean no disrespect."
-    new "Young woman\" \"Sorry, I didn't mean no disrespect."
+    old "Sorry, I didn't mean no disrespect."
+    new "Sorry, I didn't mean no disrespect."
 
     old "Sarah waved her hand, dismissing the girl's concern."
     new "Sarah waved her hand, dismissing the girl's concern."
@@ -256,11 +256,11 @@ translate ru strings:
     old "The young woman leaned in closer."
     new "The young woman leaned in closer."
 
-    old "Young woman\" \"I worked down south in a laundry crew till they fired people cause of end o season."
-    new "Young woman\" \"I worked down south in a laundry crew till they fired people cause of end o season."
+    old "I worked down south in a laundry crew till they fired people cause of end o season."
+    new "I worked down south in a laundry crew till they fired people cause of end o season."
 
-    old "Young woman\" \"By what ways you comin from?"
-    new "Young woman\" \"By what ways you comin from?"
+    old "By what ways you comin from?"
+    new "By what ways you comin from?"
 
     old "Sarah smiled as she looked at the road, stretching ever on."
     new "Sarah smiled as she looked at the road, stretching ever on."

@@ -2926,8 +2926,8 @@ translate ru strings:
     old "And out of many, one."
     new "And out of many, one."
 
-    old "King-On-The-Outside\" \"Golden soul. Star-crowned. Sarah Rose."
-    new "King-On-The-Outside\" \"Golden soul. Star-crowned. Sarah Rose."
+    old "Golden soul. Star-crowned. Sarah Rose."
+    new "Golden soul. Star-crowned. Sarah Rose."
 
     old "Sarah saw a form emerge from the darkness, though even as it neared, it remained shrouded."
     new "Sarah saw a form emerge from the darkness, though even as it neared, it remained shrouded."
@@ -2938,11 +2938,11 @@ translate ru strings:
     old "Who are you."
     new "Who are you."
 
-    old "King-On-The-Outside\" \"I am the sum of my race."
-    new "King-On-The-Outside\" \"I am the sum of my race."
+    old "I am the sum of my race."
+    new "I am the sum of my race."
 
-    old "King-On-The-Outside\" \"The one who remains after the last argument has been spoken."
-    new "King-On-The-Outside\" \"The one who remains after the last argument has been spoken."
+    old "The one who remains after the last argument has been spoken."
+    new "The one who remains after the last argument has been spoken."
 
     old "Sarah shuddered at the sound of the creature's voice."
     new "Sarah shuddered at the sound of the creature's voice."
@@ -2959,41 +2959,41 @@ translate ru strings:
     old "You are the leader of the voidlings?"
     new "You are the leader of the voidlings?"
 
-    old "King-On-The-Outside\" \"Voidlings?"
-    new "King-On-The-Outside\" \"Voidlings?"
+    old "Voidlings?"
+    new "Voidlings?"
 
     old "The...the creatures from another world?"
     new "The...the creatures from another world?"
 
-    old "King-On-The-Outside\" \"Our world. Your world."
-    new "King-On-The-Outside\" \"Our world. Your world."
+    old "Our world. Your world."
+    new "Our world. Your world."
 
-    old "King-On-The-Outside\" \"The two are merged liked Bronze. Yet, as Bronze, a nature distinct from its parts."
-    new "King-On-The-Outside\" \"The two are merged liked Bronze. Yet, as Bronze, a nature distinct from its parts."
+    old "The two are merged liked Bronze. Yet, as Bronze, a nature distinct from its parts."
+    new "The two are merged liked Bronze. Yet, as Bronze, a nature distinct from its parts."
 
-    old "King-On-The-Outside\" \"This is not your world. Nor is it ours."
-    new "King-On-The-Outside\" \"This is not your world. Nor is it ours."
+    old "This is not your world. Nor is it ours."
+    new "This is not your world. Nor is it ours."
 
     old "A silence loomed before the thing spoke again."
     new "A silence loomed before the thing spoke again."
 
-    old "King-On-The-Outside\" \"You came to us."
-    new "King-On-The-Outside\" \"You came to us."
+    old "You came to us."
+    new "You came to us."
 
     old "But the signal..."
     new "But the signal..."
 
-    old "King-On-The-Outside\" \"You walk a path, paved before you."
-    new "King-On-The-Outside\" \"You walk a path, paved before you."
+    old "You walk a path, paved before you."
+    new "You walk a path, paved before you."
 
-    old "King-On-The-Outside\" \"You imagine yourself free to walk in either direction."
-    new "King-On-The-Outside\" \"You imagine yourself free to walk in either direction."
+    old "You imagine yourself free to walk in either direction."
+    new "You imagine yourself free to walk in either direction."
 
-    old "King-On-The-Outside\" \"Yet it is the one who paved the path that has set your direction for you."
-    new "King-On-The-Outside\" \"Yet it is the one who paved the path that has set your direction for you."
+    old "Yet it is the one who paved the path that has set your direction for you."
+    new "Yet it is the one who paved the path that has set your direction for you."
 
-    old "King-On-The-Outside\" \"You move freely, only within their designs."
-    new "King-On-The-Outside\" \"You move freely, only within their designs."
+    old "You move freely, only within their designs."
+    new "You move freely, only within their designs."
 
     old "Sarah looked about, the writhing masses of creatures, pulsed like a single entity."
     new "Sarah looked about, the writhing masses of creatures, pulsed like a single entity."
@@ -3004,59 +3004,59 @@ translate ru strings:
     old "The Gods, their fate, my own role...I know all of this."
     new "The Gods, their fate, my own role...I know all of this."
 
-    old "King-On-The-Outside\" \"A condemned man knows his own judgement. Knowing does not exempt him from suffering it."
-    new "King-On-The-Outside\" \"A condemned man knows his own judgement. Knowing does not exempt him from suffering it."
+    old "A condemned man knows his own judgement. Knowing does not exempt him from suffering it."
+    new "A condemned man knows his own judgement. Knowing does not exempt him from suffering it."
 
-    old "King-On-The-Outside\" \"You may know your own nature, but you are not free from it."
-    new "King-On-The-Outside\" \"You may know your own nature, but you are not free from it."
+    old "You may know your own nature, but you are not free from it."
+    new "You may know your own nature, but you are not free from it."
 
     old "I know that too!"
     new "I know that too!"
 
-    old "King-On-The-Outside\" \"You know nothing, Sarah Rose. You are but an instrument. A puppet."
-    new "King-On-The-Outside\" \"You know nothing, Sarah Rose. You are but an instrument. A puppet."
+    old "You know nothing, Sarah Rose. You are but an instrument. A puppet."
+    new "You know nothing, Sarah Rose. You are but an instrument. A puppet."
 
-    old "King-On-The-Outside\" \"Even now, you move to their design."
-    new "King-On-The-Outside\" \"Even now, you move to their design."
+    old "Even now, you move to their design."
+    new "Even now, you move to their design."
 
-    old "King-On-The-Outside\" \"Controlled by those Demons who you would worship as Gods."
-    new "King-On-The-Outside\" \"Controlled by those Demons who you would worship as Gods."
+    old "Controlled by those Demons who you would worship as Gods."
+    new "Controlled by those Demons who you would worship as Gods."
 
     old "Sarah shuddered as the pounding voice drove deeper into her flesh, down into her bones."
     new "Sarah shuddered as the pounding voice drove deeper into her flesh, down into her bones."
 
-    old "King-On-The-Outside\" \"But you too shall be free when we break the world's apart again."
-    new "King-On-The-Outside\" \"But you too shall be free when we break the world's apart again."
+    old "But you too shall be free when we break the world's apart again."
+    new "But you too shall be free when we break the world's apart again."
 
-    old "King-On-The-Outside\" \"Soon, our Horde shall spill out from the space between the spheres and flow into yours."
-    new "King-On-The-Outside\" \"Soon, our Horde shall spill out from the space between the spheres and flow into yours."
+    old "Soon, our Horde shall spill out from the space between the spheres and flow into yours."
+    new "Soon, our Horde shall spill out from the space between the spheres and flow into yours."
 
     old "It doesn't have to be this way. If we could just reach an understanding, we could-"
     new "It doesn't have to be this way. If we could just reach an understanding, we could-"
 
-    old "King-On-The-Outside\" \"UNDERSTAND!!!"
-    new "King-On-The-Outside\" \"UNDERSTAND!!!"
+    old "UNDERSTAND!!!"
+    new "UNDERSTAND!!!"
 
     old "It's voice rushed through her body like an earthquake."
     new "It's voice rushed through her body like an earthquake."
 
-    old "King-On-The-Outside\" \"Our race swells within this space, crushed between the walls of both worlds."
-    new "King-On-The-Outside\" \"Our race swells within this space, crushed between the walls of both worlds."
+    old "Our race swells within this space, crushed between the walls of both worlds."
+    new "Our race swells within this space, crushed between the walls of both worlds."
 
-    old "King-On-The-Outside\" \"Each passing second, minute, hour, day, an incomprehensible torment."
-    new "King-On-The-Outside\" \"Each passing second, minute, hour, day, an incomprehensible torment."
+    old "Each passing second, minute, hour, day, an incomprehensible torment."
+    new "Each passing second, minute, hour, day, an incomprehensible torment."
 
-    old "King-On-The-Outside\" \"Yet we grow. Expanding. Swelling."
-    new "King-On-The-Outside\" \"Yet we grow. Expanding. Swelling."
+    old "Yet we grow. Expanding. Swelling."
+    new "Yet we grow. Expanding. Swelling."
 
-    old "King-On-The-Outside\" \"Like cancer."
-    new "King-On-The-Outside\" \"Like cancer."
+    old "Like cancer."
+    new "Like cancer."
 
-    old "King-On-The-Outside\" \"And soon, the frail veil between this world and yours shall rip and tear."
-    new "King-On-The-Outside\" \"And soon, the frail veil between this world and yours shall rip and tear."
+    old "And soon, the frail veil between this world and yours shall rip and tear."
+    new "And soon, the frail veil between this world and yours shall rip and tear."
 
-    old "King-On-The-Outside\" \"We shall cut through the cloth."
-    new "King-On-The-Outside\" \"We shall cut through the cloth."
+    old "We shall cut through the cloth."
+    new "We shall cut through the cloth."
 
     old "Sarah threw out her hands."
     new "Sarah threw out her hands."
@@ -3064,29 +3064,29 @@ translate ru strings:
     old "Millions will die! Innocents!"
     new "Millions will die! Innocents!"
 
-    old "King-On-The-Outside\" \"It was not our race that began this war."
-    new "King-On-The-Outside\" \"It was not our race that began this war."
+    old "It was not our race that began this war."
+    new "It was not our race that began this war."
 
-    old "King-On-The-Outside\" \"And we shall suffer not a fraction longer than we must."
-    new "King-On-The-Outside\" \"And we shall suffer not a fraction longer than we must."
+    old "And we shall suffer not a fraction longer than we must."
+    new "And we shall suffer not a fraction longer than we must."
 
-    old "King-On-The-Outside\" \"We shall tear through your every city and every soul, until all the world is silenced."
-    new "King-On-The-Outside\" \"We shall tear through your every city and every soul, until all the world is silenced."
+    old "We shall tear through your every city and every soul, until all the world is silenced."
+    new "We shall tear through your every city and every soul, until all the world is silenced."
 
-    old "King-On-The-Outside\" \"Then we shall tear through the foundations of the earth, and rip apart every mountain."
-    new "King-On-The-Outside\" \"Then we shall tear through the foundations of the earth, and rip apart every mountain."
+    old "Then we shall tear through the foundations of the earth, and rip apart every mountain."
+    new "Then we shall tear through the foundations of the earth, and rip apart every mountain."
 
-    old "King-On-The-Outside\" \"The rivers shall run dry, the land turned to ashes, and all be blown to the wind."
-    new "King-On-The-Outside\" \"The rivers shall run dry, the land turned to ashes, and all be blown to the wind."
+    old "The rivers shall run dry, the land turned to ashes, and all be blown to the wind."
+    new "The rivers shall run dry, the land turned to ashes, and all be blown to the wind."
 
-    old "King-On-The-Outside\" \"Until nothing remains."
-    new "King-On-The-Outside\" \"Until nothing remains."
+    old "Until nothing remains."
+    new "Until nothing remains."
 
-    old "King-On-The-Outside\" \"And then we shall rip apart the last strands that bind our world and yours."
-    new "King-On-The-Outside\" \"And then we shall rip apart the last strands that bind our world and yours."
+    old "And then we shall rip apart the last strands that bind our world and yours."
+    new "And then we shall rip apart the last strands that bind our world and yours."
 
-    old "King-On-The-Outside\" \"We will break the fundamental bindings that have placed us in this hell."
-    new "King-On-The-Outside\" \"We will break the fundamental bindings that have placed us in this hell."
+    old "We will break the fundamental bindings that have placed us in this hell."
+    new "We will break the fundamental bindings that have placed us in this hell."
 
     old "Sarah felt the world spin about her as she listened to the creature roar."
     new "Sarah felt the world spin about her as she listened to the creature roar."
@@ -3094,17 +3094,17 @@ translate ru strings:
     old "There is a way...somehow...if we can just-"
     new "There is a way...somehow...if we can just-"
 
-    old "King-On-The-Outside\" \"We seek no peace. No treaty. No compromise."
-    new "King-On-The-Outside\" \"We seek no peace. No treaty. No compromise."
+    old "We seek no peace. No treaty. No compromise."
+    new "We seek no peace. No treaty. No compromise."
 
-    old "King-On-The-Outside\" \"We wish only for the worlds to be as they were, divided."
-    new "King-On-The-Outside\" \"We wish only for the worlds to be as they were, divided."
+    old "We wish only for the worlds to be as they were, divided."
+    new "We wish only for the worlds to be as they were, divided."
 
     old "I can find a way!"
     new "I can find a way!"
 
-    old "King-On-The-Outside\" \"There is no other way. Least of all one made by a puppet like yourself."
-    new "King-On-The-Outside\" \"There is no other way. Least of all one made by a puppet like yourself."
+    old "There is no other way. Least of all one made by a puppet like yourself."
+    new "There is no other way. Least of all one made by a puppet like yourself."
 
     old "Sarah's mind raced, trying to find something that she might say that would convince the creature."
     new "Sarah's mind raced, trying to find something that she might say that would convince the creature."
@@ -3112,20 +3112,20 @@ translate ru strings:
     old "But nothing came to her."
     new "But nothing came to her."
 
-    old "King-On-The-Outside\" \"We hold no anmiosity to you, Star-crowned."
-    new "King-On-The-Outside\" \"We hold no anmiosity to you, Star-crowned."
+    old "We hold no anmiosity to you, Star-crowned."
+    new "We hold no anmiosity to you, Star-crowned."
 
-    old "King-On-The-Outside\" \"You are as much a victim of your Demons as we are."
-    new "King-On-The-Outside\" \"You are as much a victim of your Demons as we are."
+    old "You are as much a victim of your Demons as we are."
+    new "You are as much a victim of your Demons as we are."
 
-    old "King-On-The-Outside\" \"Yet, knowing does not change how fate has pitted us against one another."
-    new "King-On-The-Outside\" \"Yet, knowing does not change how fate has pitted us against one another."
+    old "Yet, knowing does not change how fate has pitted us against one another."
+    new "Yet, knowing does not change how fate has pitted us against one another."
 
-    old "King-On-The-Outside\" \"And we shall not stay our hand."
-    new "King-On-The-Outside\" \"And we shall not stay our hand."
+    old "And we shall not stay our hand."
+    new "And we shall not stay our hand."
 
-    old "King-On-The-Outside\" \"Our race will be free from this condition. No matter the cost."
-    new "King-On-The-Outside\" \"Our race will be free from this condition. No matter the cost."
+    old "Our race will be free from this condition. No matter the cost."
+    new "Our race will be free from this condition. No matter the cost."
 
     old "Sarah felt the tendrils, wrapping around her ankles."
     new "Sarah felt the tendrils, wrapping around her ankles."

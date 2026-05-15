@@ -474,3 +474,4 @@ translate ru strings:
 
     old "Kate gets up and walks out of the room."
     new "Кейт встаёт и выходит из комнаты."
+

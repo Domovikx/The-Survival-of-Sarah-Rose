@@ -61,8 +61,8 @@ translate ru strings:
     old "Only for a man from the crow's nest to deliver them all from their madness."
     new "Only for a man from the crow's nest to deliver them all from their madness."
 
-    old "Sailor\" \"Land! Rahayal!!!"
-    new "Sailor\" \"Land! Rahayal!!!"
+    old "Land! Rahayal!!!"
+    new "Land! Rahayal!!!"
 
     old "He screamed as loudly as he could, no less afraid of the direction that the mob was moving in."
     new "He screamed as loudly as he could, no less afraid of the direction that the mob was moving in."
@@ -256,14 +256,14 @@ translate ru strings:
     old "He seemed expensively dressed, but possessed with a nervousness."
     new "He seemed expensively dressed, but possessed with a nervousness."
 
-    old "Courier\" \"Miss, excuse me!"
-    new "Courier\" \"Miss, excuse me!"
+    old "Miss, excuse me!"
+    new "Miss, excuse me!"
 
     old "His sharp, high voice cut through the crowd."
     new "His sharp, high voice cut through the crowd."
 
-    old "Courier\" \"Miss Rose, yes?"
-    new "Courier\" \"Miss Rose, yes?"
+    old "Miss Rose, yes?"
+    new "Miss Rose, yes?"
 
     old "She had barely arived in the city, not even a minute, and already someone was waiting for her."
     new "She had barely arived in the city, not even a minute, and already someone was waiting for her."
@@ -271,17 +271,17 @@ translate ru strings:
     old "Who is asking?"
     new "Who is asking?"
 
-    old "Courier\" \"I am courier, send here on behalf of Master Gilead."
-    new "Courier\" \"I am courier, send here on behalf of Master Gilead."
+    old "I am courier, send here on behalf of Master Gilead."
+    new "I am courier, send here on behalf of Master Gilead."
 
     old "Sarah slowly repeated the name. She recalled having vaguely heard it in the past, though she could not remember exactly when."
     new "Sarah slowly repeated the name. She recalled having vaguely heard it in the past, though she could not remember exactly when."
 
-    old "Courier\" \"Yes, Master Gilead, member of the Noctori, holder of a seat at the Eternal Court."
-    new "Courier\" \"Yes, Master Gilead, member of the Noctori, holder of a seat at the Eternal Court."
+    old "Yes, Master Gilead, member of the Noctori, holder of a seat at the Eternal Court."
+    new "Yes, Master Gilead, member of the Noctori, holder of a seat at the Eternal Court."
 
-    old "Courier\" \"My Master has extended to you an invitation."
-    new "Courier\" \"My Master has extended to you an invitation."
+    old "My Master has extended to you an invitation."
+    new "My Master has extended to you an invitation."
 
     old "Sarah frowned even more."
     new "Sarah frowned even more."
@@ -292,11 +292,11 @@ translate ru strings:
     old "The man nervously nodded."
     new "The man nervously nodded."
 
-    old "Courier\" \"Of course, my apologies for any offense I may have unknowingly caused."
-    new "Courier\" \"Of course, my apologies for any offense I may have unknowingly caused."
+    old "Of course, my apologies for any offense I may have unknowingly caused."
+    new "Of course, my apologies for any offense I may have unknowingly caused."
 
-    old "Courier\" \"However, my Master wished to stress that he believes your cause and his align."
-    new "Courier\" \"However, my Master wished to stress that he believes your cause and his align."
+    old "However, my Master wished to stress that he believes your cause and his align."
+    new "However, my Master wished to stress that he believes your cause and his align."
 
     old "Sarah frowns."
     new "Sarah frowns."
@@ -307,8 +307,8 @@ translate ru strings:
     old "The courier pressed the letter into her hands."
     new "The courier pressed the letter into her hands."
 
-    old "Courier\" \"I know only as much as I am told. My Master can answer any questions you might have."
-    new "Courier\" \"I know only as much as I am told. My Master can answer any questions you might have."
+    old "I know only as much as I am told. My Master can answer any questions you might have."
+    new "I know only as much as I am told. My Master can answer any questions you might have."
 
     old "The man turned and departed almost as suddenly as he arrived."
     new "The man turned and departed almost as suddenly as he arrived."
@@ -694,8 +694,8 @@ translate ru strings:
     old "Servants, marked by slave tatoos, opened the door for her."
     new "Servants, marked by slave tatoos, opened the door for her."
 
-    old "Servant\" \"The Master awaits, please follow me."
-    new "Servant\" \"The Master awaits, please follow me."
+    old "The Master awaits, please follow me."
+    new "The Master awaits, please follow me."
 
     old "Sarah walked inside. Thankfully, it was a good deal colder."
     new "Sarah walked inside. Thankfully, it was a good deal colder."
@@ -712,8 +712,8 @@ translate ru strings:
     old "As the servant took her up stairs and down hallways, they finally arived at a great ornate door."
     new "As the servant took her up stairs and down hallways, they finally arived at a great ornate door."
 
-    old "Servant\" \"The Master will receive you. Please, enter."
-    new "Servant\" \"The Master will receive you. Please, enter."
+    old "The Master will receive you. Please, enter."
+    new "The Master will receive you. Please, enter."
 
     old "Sarah watched as the man scurried away."
     new "Sarah watched as the man scurried away."

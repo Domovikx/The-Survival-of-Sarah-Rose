@@ -193,8 +193,8 @@ translate ru strings:
     old "In this place. This strange and foreign city that had so long sat at the center of all the world."
     new "In this place. This strange and foreign city that had so long sat at the center of all the world."
 
-    old "Innkeeper\" \"Good mornin there."
-    new "Innkeeper\" \"Good mornin there."
+    old "Good mornin there."
+    new "Good mornin there."
 
     old "Sarah looked up, suddenly startled from her thoughts."
     new "Sarah looked up, suddenly startled from her thoughts."
@@ -205,17 +205,17 @@ translate ru strings:
     old "The man smiled a wide and genuine smile."
     new "The man smiled a wide and genuine smile."
 
-    old "Innkeeper\" \"Nah, not if you're a payin customer that is."
-    new "Innkeeper\" \"Nah, not if you're a payin customer that is."
+    old "Nah, not if you're a payin customer that is."
+    new "Nah, not if you're a payin customer that is."
 
     old "He laughed, his voice booming, the kind of laugh of a man who didn't seem to ever pretend being anything other than what he was."
     new "He laughed, his voice booming, the kind of laugh of a man who didn't seem to ever pretend being anything other than what he was."
 
-    old "Innkeeper\" \"I only joke."
-    new "Innkeeper\" \"I only joke."
+    old "I only joke."
+    new "I only joke."
 
-    old "Innkeeper\" \"You want to sit here all day, that's fine by me, but I imagine you might be hungry."
-    new "Innkeeper\" \"You want to sit here all day, that's fine by me, but I imagine you might be hungry."
+    old "You want to sit here all day, that's fine by me, but I imagine you might be hungry."
+    new "You want to sit here all day, that's fine by me, but I imagine you might be hungry."
 
     old "Sarah breathed in the air."
     new "Sarah breathed in the air."
@@ -229,14 +229,14 @@ translate ru strings:
     old "That's...what is that smell?"
     new "That's...what is that smell?"
 
-    old "Innkeeper\" \"Ooh that? That's our Inn's famous Dunstin Stew."
-    new "Innkeeper\" \"Ooh that? That's our Inn's famous Dunstin Stew."
+    old "Ooh that? That's our Inn's famous Dunstin Stew."
+    new "Ooh that? That's our Inn's famous Dunstin Stew."
 
     old "Dunstin?"
     new "Dunstin?"
 
-    old "Innkeeper\" \"This here is the Dunstin Inn. We got Dunstin Stew. And as you might suspect, I'm Ramsey Dunstin."
-    new "Innkeeper\" \"This here is the Dunstin Inn. We got Dunstin Stew. And as you might suspect, I'm Ramsey Dunstin."
+    old "This here is the Dunstin Inn. We got Dunstin Stew. And as you might suspect, I'm Ramsey Dunstin."
+    new "This here is the Dunstin Inn. We got Dunstin Stew. And as you might suspect, I'm Ramsey Dunstin."
 
     old "Ramsey...Dunstin."
     new "Ramsey...Dunstin."

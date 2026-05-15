@@ -40,20 +40,20 @@ translate ru strings:
     old "A voice rises up towards her."
     new "A voice rises up towards her."
 
-    old "Voice\" \"You are close, Sarah."
-    new "Voice\" \"You are close, Sarah."
+    old "You are close, Sarah."
+    new "You are close, Sarah."
 
     old "Where are you?"
     new "Where are you?"
 
-    old "Voice\" \"You know where I am."
-    new "Voice\" \"You know where I am."
+    old "You know where I am."
+    new "You know where I am."
 
     old "The dig site."
     new "The dig site."
 
-    old "Voice\" \"Do not delay further. No more secrets."
-    new "Voice\" \"Do not delay further. No more secrets."
+    old "Do not delay further. No more secrets."
+    new "Do not delay further. No more secrets."
 
     old "The voice feels familiar."
     new "The voice feels familiar."
@@ -295,8 +295,8 @@ translate ru strings:
     old "Air around it softly vibrates."
     new "Air around it softly vibrates."
 
-    old "Voice\" \"Finally, we meet in truth, Sarah."
-    new "Voice\" \"Finally, we meet in truth, Sarah."
+    old "Finally, we meet in truth, Sarah."
+    new "Finally, we meet in truth, Sarah."
 
     old "Sarah stands up and walks closer towards the thing. Her steps are measured and careful, hestitant."
     new "Sarah stands up and walks closer towards the thing. Her steps are measured and careful, hestitant."
@@ -307,8 +307,8 @@ translate ru strings:
     old "She speaks the words softly, as if fearing the response."
     new "She speaks the words softly, as if fearing the response."
 
-    old "Voice\" \"We have met before, and before that and before that. Again and again we meet. In many lives. But always we end up here."
-    new "Voice\" \"We have met before, and before that and before that. Again and again we meet. In many lives. But always we end up here."
+    old "We have met before, and before that and before that. Again and again we meet. In many lives. But always we end up here."
+    new "We have met before, and before that and before that. Again and again we meet. In many lives. But always we end up here."
 
     old "Sarah watches as a black smoke rises up around the monolith, and slowly the miasma grows solid and takes form."
     new "Sarah watches as a black smoke rises up around the monolith, and slowly the miasma grows solid and takes form."
@@ -322,8 +322,8 @@ translate ru strings:
     old "The creature looks similar to before, but now appearing many times larger in size."
     new "The creature looks similar to before, but now appearing many times larger in size."
 
-    old "Voice\" \"Yes, but I address you by your name and so you may call me by mine. I am Razaphel."
-    new "Voice\" \"Yes, but I address you by your name and so you may call me by mine. I am Razaphel."
+    old "Yes, but I address you by your name and so you may call me by mine. I am Razaphel."
+    new "Yes, but I address you by your name and so you may call me by mine. I am Razaphel."
 
     old "Razaphel..."
     new "Razaphel..."

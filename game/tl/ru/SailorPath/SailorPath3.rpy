@@ -166,8 +166,8 @@ translate ru strings:
     old "Belmont slipped the rope, letting the plank clatter onto the dock. The servants remained behind as the functionary walked onto the ship."
     new "Belmont slipped the rope, letting the plank clatter onto the dock. The servants remained behind as the functionary walked onto the ship."
 
-    old "City Official\" \"Good to see you again old friend."
-    new "City Official\" \"Good to see you again old friend."
+    old "Good to see you again old friend."
+    new "Good to see you again old friend."
 
     old "Belmont slapped the man on the back, a wide grin on his face."
     new "Belmont slapped the man on the back, a wide grin on his face."
@@ -175,8 +175,8 @@ translate ru strings:
     old "Same for you. Thought you'd be retired since last time."
     new "Same for you. Thought you'd be retired since last time."
 
-    old "City Official\" \"I had hoped, but the Marionese family decided otherwise. Said they could not yet part with my talents."
-    new "City Official\" \"I had hoped, but the Marionese family decided otherwise. Said they could not yet part with my talents."
+    old "I had hoped, but the Marionese family decided otherwise. Said they could not yet part with my talents."
+    new "I had hoped, but the Marionese family decided otherwise. Said they could not yet part with my talents."
 
     old "And you let them order you around like that?"
     new "And you let them order you around like that?"
@@ -184,14 +184,14 @@ translate ru strings:
     old "The official shrugged."
     new "The official shrugged."
 
-    old "City Official\" \"Their generous offer has made me forget my pain."
-    new "City Official\" \"Their generous offer has made me forget my pain."
+    old "Their generous offer has made me forget my pain."
+    new "Their generous offer has made me forget my pain."
 
     old "Always comes down to gold with your kind."
     new "Always comes down to gold with your kind."
 
-    old "City Official\" \"Not like you, shipping these wines to us from the kindness of your heart."
-    new "City Official\" \"Not like you, shipping these wines to us from the kindness of your heart."
+    old "Not like you, shipping these wines to us from the kindness of your heart."
+    new "Not like you, shipping these wines to us from the kindness of your heart."
 
     old "Belmont laughed again."
     new "Belmont laughed again."
@@ -202,11 +202,11 @@ translate ru strings:
     old "The official's eyes fell on Sarah."
     new "The official's eyes fell on Sarah."
 
-    old "The Official\" \"No, quite right."
-    new "The Official\" \"No, quite right."
+    old "No, quite right."
+    new "No, quite right."
 
-    old "The Official\" \"Belmont, are you going to introduce us?"
-    new "The Official\" \"Belmont, are you going to introduce us?"
+    old "Belmont, are you going to introduce us?"
+    new "Belmont, are you going to introduce us?"
 
     old "Ooh, yeah, this is my new deck hand. Sarah."
     new "Ooh, yeah, this is my new deck hand. Sarah."
@@ -223,8 +223,8 @@ translate ru strings:
     old "Sarah."
     new "Sarah."
 
-    old "The Official\" \"Sarah, what?"
-    new "The Official\" \"Sarah, what?"
+    old "Sarah, what?"
+    new "Sarah, what?"
 
     old "Just Sarah."
     new "Just Sarah."
@@ -232,8 +232,8 @@ translate ru strings:
     old "Sarah watched as his eyes glared over her body, seemingly not feeling any need to hide it."
     new "Sarah watched as his eyes glared over her body, seemingly not feeling any need to hide it."
 
-    old "The Official\" \"Seems like an odd choice for a deck hand. They've run out of young men over in Lethram?"
-    new "The Official\" \"Seems like an odd choice for a deck hand. They've run out of young men over in Lethram?"
+    old "Seems like an odd choice for a deck hand. They've run out of young men over in Lethram?"
+    new "Seems like an odd choice for a deck hand. They've run out of young men over in Lethram?"
 
     old "Belmont slapped the old official on his back."
     new "Belmont slapped the old official on his back."
@@ -244,8 +244,8 @@ translate ru strings:
     old "Sarah felt herself smile at Belmont's compliment."
     new "Sarah felt herself smile at Belmont's compliment."
 
-    old "The Official\" \"Yes...I don't doubt it. How about she gets to it? Those crates aren't going to unload themselves. We can concern ourselves with the matter of payment."
-    new "The Official\" \"Yes...I don't doubt it. How about she gets to it? Those crates aren't going to unload themselves. We can concern ourselves with the matter of payment."
+    old "Yes...I don't doubt it. How about she gets to it? Those crates aren't going to unload themselves. We can concern ourselves with the matter of payment."
+    new "Yes...I don't doubt it. How about she gets to it? Those crates aren't going to unload themselves. We can concern ourselves with the matter of payment."
 
     old "Belmont snapped his finger at Sarah, an unspoken instruction for her to do as the man told her."
     new "Belmont snapped his finger at Sarah, an unspoken instruction for her to do as the man told her."
@@ -271,8 +271,8 @@ translate ru strings:
     old "He turned to her, before leaving."
     new "He turned to her, before leaving."
 
-    old "The Official\" \"Well, Sarah, a pleasure to have made your acquaintance."
-    new "The Official\" \"Well, Sarah, a pleasure to have made your acquaintance."
+    old "Well, Sarah, a pleasure to have made your acquaintance."
+    new "Well, Sarah, a pleasure to have made your acquaintance."
 
     old "With a small bow, he left, taking the cart and entourage of servants with him."
     new "With a small bow, he left, taking the cart and entourage of servants with him."
@@ -379,9 +379,6 @@ translate ru strings:
     old "Her voice echoed out across the void."
     new "Her voice echoed out across the void."
 
-    old "Voice\" \"Sarah..."
-    new "Voice\" \"Sarah..."
-
     old "A voice called out to her from where the docks were."
     new "A voice called out to her from where the docks were."
 
@@ -391,8 +388,8 @@ translate ru strings:
     old "She found herself in equal measure entranced and afraid."
     new "She found herself in equal measure entranced and afraid."
 
-    old "Voice\" \"In Rahayal, I wait for you."
-    new "Voice\" \"In Rahayal, I wait for you."
+    old "In Rahayal, I wait for you."
+    new "In Rahayal, I wait for you."
 
     old "Who are you?"
     new "Who are you?"
@@ -400,8 +397,8 @@ translate ru strings:
     old "Only silence answered her."
     new "Only silence answered her."
 
-    old "Voice\" \"I will wait for you by the dark fountain."
-    new "Voice\" \"I will wait for you by the dark fountain."
+    old "I will wait for you by the dark fountain."
+    new "I will wait for you by the dark fountain."
 
     old "As sudden as the world had been drained of life, so quickly did it now rush full of it."
     new "As sudden as the world had been drained of life, so quickly did it now rush full of it."

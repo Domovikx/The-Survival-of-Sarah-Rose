@@ -40,17 +40,17 @@ translate ru strings:
     old "But she was set to return soon, and Sarah felt her own heart beat faster with anticipation or fear."
     new "But she was set to return soon, and Sarah felt her own heart beat faster with anticipation or fear."
 
-    old "Merchant\" \"With your permission, your Grace, allow me to explain."
-    new "Merchant\" \"With your permission, your Grace, allow me to explain."
+    old "With your permission, your Grace, allow me to explain."
+    new "With your permission, your Grace, allow me to explain."
 
     old "Sarah nodded and motioned for the man to continue."
     new "Sarah nodded and motioned for the man to continue."
 
-    old "Merchant\" \"We were transporting a series of goods from the Northern provinces down to the capital."
-    new "Merchant\" \"We were transporting a series of goods from the Northern provinces down to the capital."
+    old "We were transporting a series of goods from the Northern provinces down to the capital."
+    new "We were transporting a series of goods from the Northern provinces down to the capital."
 
-    old "Merchant\" \"We took these goods on assignment from Lord Greytower."
-    new "Merchant\" \"We took these goods on assignment from Lord Greytower."
+    old "We took these goods on assignment from Lord Greytower."
+    new "We took these goods on assignment from Lord Greytower."
 
     old "Lord Greytower was a relatively unimportant head of a family tasking with overseeing one of the smaller provinces in the North."
     new "Lord Greytower was a relatively unimportant head of a family tasking with overseeing one of the smaller provinces in the North."
@@ -73,8 +73,8 @@ translate ru strings:
     old "The merchant nodded."
     new "The merchant nodded."
 
-    old "Merchant\" \"We gave the contract to your Spymaster. It states clearly that we only accept transporting the goods, we don't accept to carry any risk!"
-    new "Merchant\" \"We gave the contract to your Spymaster. It states clearly that we only accept transporting the goods, we don't accept to carry any risk!"
+    old "We gave the contract to your Spymaster. It states clearly that we only accept transporting the goods, we don't accept to carry any risk!"
+    new "We gave the contract to your Spymaster. It states clearly that we only accept transporting the goods, we don't accept to carry any risk!"
 
     old "Sarah looked at Kravel, who nodded, seeming to confirm what the man said."
     new "Sarah looked at Kravel, who nodded, seeming to confirm what the man said."
@@ -82,11 +82,11 @@ translate ru strings:
     old "So...what happened, concretely?"
     new "So...what happened, concretely?"
 
-    old "Merchant\" \"We took on the cargo and headed towards the capital."
-    new "Merchant\" \"We took on the cargo and headed towards the capital."
+    old "We took on the cargo and headed towards the capital."
+    new "We took on the cargo and headed towards the capital."
 
-    old "Merchant\" \"But no more than a twenty-miles from where we began, a gang of thieves robbed us and took everything!"
-    new "Merchant\" \"But no more than a twenty-miles from where we began, a gang of thieves robbed us and took everything!"
+    old "But no more than a twenty-miles from where we began, a gang of thieves robbed us and took everything!"
+    new "But no more than a twenty-miles from where we began, a gang of thieves robbed us and took everything!"
 
     old "Sarah frowned as she listened."
     new "Sarah frowned as she listened."
@@ -97,11 +97,11 @@ translate ru strings:
     old "So the cargo was stolen?"
     new "So the cargo was stolen?"
 
-    old "Merchant\" \"The cargo was stolen, but Lord Greytower demands repayment on the full cargo, as if we had sign a contrast of insurance!"
-    new "Merchant\" \"The cargo was stolen, but Lord Greytower demands repayment on the full cargo, as if we had sign a contrast of insurance!"
+    old "The cargo was stolen, but Lord Greytower demands repayment on the full cargo, as if we had sign a contrast of insurance!"
+    new "The cargo was stolen, but Lord Greytower demands repayment on the full cargo, as if we had sign a contrast of insurance!"
 
-    old "Merchant\" \"But we only ever offered to transport his goods, not bear all risk. We would never have agreed to such a thing."
-    new "Merchant\" \"But we only ever offered to transport his goods, not bear all risk. We would never have agreed to such a thing."
+    old "But we only ever offered to transport his goods, not bear all risk. We would never have agreed to such a thing."
+    new "But we only ever offered to transport his goods, not bear all risk. We would never have agreed to such a thing."
 
     old "Well, you took money on his contract to transport the goods. Having failed to transport them, at the very least, you owe this much back to him?"
     new "Well, you took money on his contract to transport the goods. Having failed to transport them, at the very least, you owe this much back to him?"
@@ -109,14 +109,14 @@ translate ru strings:
     old "The merchant nodded again."
     new "The merchant nodded again."
 
-    old "Merchant\" \"Yes, your Highness, but Lord Greytower will see no reason in the mattter!"
-    new "Merchant\" \"Yes, your Highness, but Lord Greytower will see no reason in the mattter!"
+    old "Yes, your Highness, but Lord Greytower will see no reason in the mattter!"
+    new "Yes, your Highness, but Lord Greytower will see no reason in the mattter!"
 
-    old "Merchant\" \"He says that if his men see us, they should take everything from us until the debt it settled."
-    new "Merchant\" \"He says that if his men see us, they should take everything from us until the debt it settled."
+    old "He says that if his men see us, they should take everything from us until the debt it settled."
+    new "He says that if his men see us, they should take everything from us until the debt it settled."
 
-    old "Merchant\" \"Even if I wanted to repay him, I cannot continue my business, for as soon as I arrive back in the North, I risk attack from both bandits and armsmen."
-    new "Merchant\" \"Even if I wanted to repay him, I cannot continue my business, for as soon as I arrive back in the North, I risk attack from both bandits and armsmen."
+    old "Even if I wanted to repay him, I cannot continue my business, for as soon as I arrive back in the North, I risk attack from both bandits and armsmen."
+    new "Even if I wanted to repay him, I cannot continue my business, for as soon as I arrive back in the North, I risk attack from both bandits and armsmen."
 
     old "Very well, and this is all?"
     new "Very well, and this is all?"
@@ -130,20 +130,20 @@ translate ru strings:
     old "The man raised his head and clear his throat."
     new "The man raised his head and clear his throat."
 
-    old "Merchant\" \"There is one more matter...but I fear to even speak it, invites disaster...yet it is the truth!"
-    new "Merchant\" \"There is one more matter...but I fear to even speak it, invites disaster...yet it is the truth!"
+    old "There is one more matter...but I fear to even speak it, invites disaster...yet it is the truth!"
+    new "There is one more matter...but I fear to even speak it, invites disaster...yet it is the truth!"
 
     old "Then speak to the matter."
     new "Then speak to the matter."
 
-    old "Merchant\" \"When we were attacked by the bandits...during the fight, one of the bandits was struck across the face by one of ours guards, before the guard was slain."
-    new "Merchant\" \"When we were attacked by the bandits...during the fight, one of the bandits was struck across the face by one of ours guards, before the guard was slain."
+    old "When we were attacked by the bandits...during the fight, one of the bandits was struck across the face by one of ours guards, before the guard was slain."
+    new "When we were attacked by the bandits...during the fight, one of the bandits was struck across the face by one of ours guards, before the guard was slain."
 
-    old "Merchant\" \"Well...in the days after we had to flee from the North, but I received news from one of my friends that still lives there..."
-    new "Merchant\" \"Well...in the days after we had to flee from the North, but I received news from one of my friends that still lives there..."
+    old "Well...in the days after we had to flee from the North, but I received news from one of my friends that still lives there..."
+    new "Well...in the days after we had to flee from the North, but I received news from one of my friends that still lives there..."
 
-    old "Merchant\" \"He had heard of my story and he told me that..."
-    new "Merchant\" \"He had heard of my story and he told me that..."
+    old "He had heard of my story and he told me that..."
+    new "He had heard of my story and he told me that..."
 
     old "The man paused."
     new "The man paused."
@@ -151,11 +151,11 @@ translate ru strings:
     old "Gathering his courage, the decided to continue."
     new "Gathering his courage, the decided to continue."
 
-    old "Merchant\" \"He told me that not long after my attack, Lord Greytower's son, Oliver Greytower, was seen returning to his father's home..."
-    new "Merchant\" \"He told me that not long after my attack, Lord Greytower's son, Oliver Greytower, was seen returning to his father's home..."
+    old "He told me that not long after my attack, Lord Greytower's son, Oliver Greytower, was seen returning to his father's home..."
+    new "He told me that not long after my attack, Lord Greytower's son, Oliver Greytower, was seen returning to his father's home..."
 
-    old "Merchant\" \"Bearing now a new and fresh scar, across his face..."
-    new "Merchant\" \"Bearing now a new and fresh scar, across his face..."
+    old "Bearing now a new and fresh scar, across his face..."
+    new "Bearing now a new and fresh scar, across his face..."
 
     old "She looked at Kravel, who gestured that he had heard the same story."
     new "She looked at Kravel, who gestured that he had heard the same story."
@@ -178,8 +178,8 @@ translate ru strings:
     old "The merchant nodded, frightened."
     new "The merchant nodded, frightened."
 
-    old "Merchant\" \"I feared to speak of it, were it not the truth."
-    new "Merchant\" \"I feared to speak of it, were it not the truth."
+    old "I feared to speak of it, were it not the truth."
+    new "I feared to speak of it, were it not the truth."
 
     old "Sarah leaned back."
     new "Sarah leaned back."
@@ -265,8 +265,8 @@ translate ru strings:
     old "She saw the merchant's face drop."
     new "She saw the merchant's face drop."
 
-    old "Merchant\" \"This...this will ruin me! I don't have that kind of money, I can't-"
-    new "Merchant\" \"This...this will ruin me! I don't have that kind of money, I can't-"
+    old "This...this will ruin me! I don't have that kind of money, I can't-"
+    new "This...this will ruin me! I don't have that kind of money, I can't-"
 
     old "Sarah raised one hand."
     new "Sarah raised one hand."
@@ -301,8 +301,8 @@ translate ru strings:
     old "The merchant bowed his head low."
     new "The merchant bowed his head low."
 
-    old "Merchant\" \"Thank you, your Highness, you have saved my business!"
-    new "Merchant\" \"Thank you, your Highness, you have saved my business!"
+    old "Thank you, your Highness, you have saved my business!"
+    new "Thank you, your Highness, you have saved my business!"
 
     old "Go, you can collect the writ later today."
     new "Go, you can collect the writ later today."
@@ -466,8 +466,8 @@ translate ru strings:
     old "A man walked in through the door to the Great Hall."
     new "A man walked in through the door to the Great Hall."
 
-    old "Announcer\" \"A royal messenger from Normandi, comes bearing a missive!"
-    new "Announcer\" \"A royal messenger from Normandi, comes bearing a missive!"
+    old "A royal messenger from Normandi, comes bearing a missive!"
+    new "A royal messenger from Normandi, comes bearing a missive!"
 
     old "Sarah fell back in her throne."
     new "Sarah fell back in her throne."
@@ -481,11 +481,11 @@ translate ru strings:
     old "From Normandi, one of the neighbouring kingdoms to Rosanna, a member of the Union Kingdoms."
     new "From Normandi, one of the neighbouring kingdoms to Rosanna, a member of the Union Kingdoms."
 
-    old "Royal Messenger\" \"Your Grace!"
-    new "Royal Messenger\" \"Your Grace!"
+    old "Your Grace!"
+    new "Your Grace!"
 
-    old "Royal Messenger\" \"I have ridden long and hard from the nation of Normandi, bearing a message to you from Queen Maeiv."
-    new "Royal Messenger\" \"I have ridden long and hard from the nation of Normandi, bearing a message to you from Queen Maeiv."
+    old "I have ridden long and hard from the nation of Normandi, bearing a message to you from Queen Maeiv."
+    new "I have ridden long and hard from the nation of Normandi, bearing a message to you from Queen Maeiv."
 
     old "Queen Maeiv, the Silent-Queen. Ruler of Normandi for decades now."
     new "Queen Maeiv, the Silent-Queen. Ruler of Normandi for decades now."
@@ -574,11 +574,11 @@ translate ru strings:
     old "Are you in need of anything?"
     new "Are you in need of anything?"
 
-    old "Royal Messenger\" \"Your offer is most kind, but I fear that I was tasked with delivering this message with the great of haste."
-    new "Royal Messenger\" \"Your offer is most kind, but I fear that I was tasked with delivering this message with the great of haste."
+    old "Your offer is most kind, but I fear that I was tasked with delivering this message with the great of haste."
+    new "Your offer is most kind, but I fear that I was tasked with delivering this message with the great of haste."
 
-    old "Royal Messenger\" \"I ask your forgiveness that I shall first deliver this, before I shall partake in any of your kindness."
-    new "Royal Messenger\" \"I ask your forgiveness that I shall first deliver this, before I shall partake in any of your kindness."
+    old "I ask your forgiveness that I shall first deliver this, before I shall partake in any of your kindness."
+    new "I ask your forgiveness that I shall first deliver this, before I shall partake in any of your kindness."
 
     old "Even most messages from other countries were rarely brought so...pressingly."
     new "Even most messages from other countries were rarely brought so...pressingly."
@@ -586,17 +586,17 @@ translate ru strings:
     old "Tell me then, what is your message?"
     new "Tell me then, what is your message?"
 
-    old "Royal Messenger\" \"I have sworn an oath by the Gods, my own life and the life of my family, that I would not break the seal on this letter."
-    new "Royal Messenger\" \"I have sworn an oath by the Gods, my own life and the life of my family, that I would not break the seal on this letter."
+    old "I have sworn an oath by the Gods, my own life and the life of my family, that I would not break the seal on this letter."
+    new "I have sworn an oath by the Gods, my own life and the life of my family, that I would not break the seal on this letter."
 
-    old "Royal Messenger\" \"And so in truth, your Grace, I fear I cannot so much as even hint to its contents."
-    new "Royal Messenger\" \"And so in truth, your Grace, I fear I cannot so much as even hint to its contents."
+    old "And so in truth, your Grace, I fear I cannot so much as even hint to its contents."
+    new "And so in truth, your Grace, I fear I cannot so much as even hint to its contents."
 
-    old "Royal Messenger\" \"I know only of the import that my sovereign, Queen Maeiv, impressed upon me, and so I can only suspect of its importance."
-    new "Royal Messenger\" \"I know only of the import that my sovereign, Queen Maeiv, impressed upon me, and so I can only suspect of its importance."
+    old "I know only of the import that my sovereign, Queen Maeiv, impressed upon me, and so I can only suspect of its importance."
+    new "I know only of the import that my sovereign, Queen Maeiv, impressed upon me, and so I can only suspect of its importance."
 
-    old "Royal Messenger\" \"I pray, take the letter from me and relieve me of my service, so I may consider my oath complete."
-    new "Royal Messenger\" \"I pray, take the letter from me and relieve me of my service, so I may consider my oath complete."
+    old "I pray, take the letter from me and relieve me of my service, so I may consider my oath complete."
+    new "I pray, take the letter from me and relieve me of my service, so I may consider my oath complete."
 
     old "She gestured towards a knight."
     new "She gestured towards a knight."

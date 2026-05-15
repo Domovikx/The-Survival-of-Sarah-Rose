@@ -826,8 +826,8 @@ translate ru strings:
     old "Sarah watched as the very ground of the market, shattered and broke, flames rising up."
     new "Sarah watched as the very ground of the market, shattered and broke, flames rising up."
 
-    old "Voice\" \"Go to the ships!"
-    new "Voice\" \"Go to the ships!"
+    old "Go to the ships!"
+    new "Go to the ships!"
 
     old "The voice was familiar to Sarah."
     new "The voice was familiar to Sarah."
@@ -1249,17 +1249,14 @@ translate ru strings:
     old "She spotted the captain of the ship near the front, yelling at some of the sailors."
     new "She spotted the captain of the ship near the front, yelling at some of the sailors."
 
-    old "Captain\" \"Keep those ropes straight!"
-    new "Captain\" \"Keep those ropes straight!"
+    old "Keep those ropes straight!"
+    new "Keep those ropes straight!"
 
-    old "Captain\" \"And turn the front sails by twenty points!"
-    new "Captain\" \"And turn the front sails by twenty points!"
+    old "And turn the front sails by twenty points!"
+    new "And turn the front sails by twenty points!"
 
     old "All around him, the sailors ran around, executing his commands."
     new "All around him, the sailors ran around, executing his commands."
-
-    old "Captain\" \"What?!"
-    new "Captain\" \"What?!"
 
     old "The man looked at her with an angry frown."
     new "The man looked at her with an angry frown."
@@ -1267,11 +1264,11 @@ translate ru strings:
     old "Then, the moment he saw it was her, he eased up."
     new "Then, the moment he saw it was her, he eased up."
 
-    old "Captain\" \"Oh, you're the mage."
-    new "Captain\" \"Oh, you're the mage."
+    old "Oh, you're the mage."
+    new "Oh, you're the mage."
 
-    old "Captain\" \"Sorry I snapped, it's just...I've had near a thousand people asking me questions I don't know the answer to."
-    new "Captain\" \"Sorry I snapped, it's just...I've had near a thousand people asking me questions I don't know the answer to."
+    old "Sorry I snapped, it's just...I've had near a thousand people asking me questions I don't know the answer to."
+    new "Sorry I snapped, it's just...I've had near a thousand people asking me questions I don't know the answer to."
 
     old "I just wanted to ask...where are we going now?"
     new "I just wanted to ask...where are we going now?"
@@ -1279,26 +1276,26 @@ translate ru strings:
     old "The captain sighed."
     new "The captain sighed."
 
-    old "Captain\" \"We were planned to be put up in the Lethram harbor for a week or so."
-    new "Captain\" \"We were planned to be put up in the Lethram harbor for a week or so."
+    old "We were planned to be put up in the Lethram harbor for a week or so."
+    new "We were planned to be put up in the Lethram harbor for a week or so."
 
-    old "Captain\" \"We had only just gotten started on some basic maintenance and restocking our supplies."
-    new "Captain\" \"We had only just gotten started on some basic maintenance and restocking our supplies."
+    old "We had only just gotten started on some basic maintenance and restocking our supplies."
+    new "We had only just gotten started on some basic maintenance and restocking our supplies."
 
-    old "Captain\" \"The way I see it, we ain't got much option."
-    new "Captain\" \"The way I see it, we ain't got much option."
+    old "The way I see it, we ain't got much option."
+    new "The way I see it, we ain't got much option."
 
-    old "Captain\" \"We can't cross the sea. We got supplies for two dozen sailors, instead, we now got nearly a thousand passangers."
-    new "Captain\" \"We can't cross the sea. We got supplies for two dozen sailors, instead, we now got nearly a thousand passangers."
+    old "We can't cross the sea. We got supplies for two dozen sailors, instead, we now got nearly a thousand passangers."
+    new "We can't cross the sea. We got supplies for two dozen sailors, instead, we now got nearly a thousand passangers."
 
-    old "Captain\" \"If we try to cross the sea to the Union Kingdoms, we run out of food before we get half way."
-    new "Captain\" \"If we try to cross the sea to the Union Kingdoms, we run out of food before we get half way."
+    old "If we try to cross the sea to the Union Kingdoms, we run out of food before we get half way."
+    new "If we try to cross the sea to the Union Kingdoms, we run out of food before we get half way."
 
-    old "Captain\" \"Not to mention, Rosanna is still a shit show with those savages in charge."
-    new "Captain\" \"Not to mention, Rosanna is still a shit show with those savages in charge."
+    old "Not to mention, Rosanna is still a shit show with those savages in charge."
+    new "Not to mention, Rosanna is still a shit show with those savages in charge."
 
-    old "Captain\" \"And I'm not about to save these people from whatever that was, just to hand them over into slavery for a bunch of Tribesman."
-    new "Captain\" \"And I'm not about to save these people from whatever that was, just to hand them over into slavery for a bunch of Tribesman."
+    old "And I'm not about to save these people from whatever that was, just to hand them over into slavery for a bunch of Tribesman."
+    new "And I'm not about to save these people from whatever that was, just to hand them over into slavery for a bunch of Tribesman."
 
     old "So, the only option would be Rahayal."
     new "So, the only option would be Rahayal."
@@ -1315,26 +1312,26 @@ translate ru strings:
     old "The Captain shrugged."
     new "The Captain shrugged."
 
-    old "Captain\" \"Look, once we there and unload all these people, it's gonna be too late for them to send us back."
-    new "Captain\" \"Look, once we there and unload all these people, it's gonna be too late for them to send us back."
+    old "Look, once we there and unload all these people, it's gonna be too late for them to send us back."
+    new "Look, once we there and unload all these people, it's gonna be too late for them to send us back."
 
-    old "Captain\" \"Even the Mythrans ain't that fuckin heartless."
-    new "Captain\" \"Even the Mythrans ain't that fuckin heartless."
+    old "Even the Mythrans ain't that fuckin heartless."
+    new "Even the Mythrans ain't that fuckin heartless."
 
-    old "Captain\" \"Besides, I think they need to know."
-    new "Captain\" \"Besides, I think they need to know."
+    old "Besides, I think they need to know."
+    new "Besides, I think they need to know."
 
     old "They?"
     new "They?"
 
-    old "Captain\" \"The Mythrans, the people in charge, whoever the fuck decides things like this?"
-    new "Captain\" \"The Mythrans, the people in charge, whoever the fuck decides things like this?"
+    old "The Mythrans, the people in charge, whoever the fuck decides things like this?"
+    new "The Mythrans, the people in charge, whoever the fuck decides things like this?"
 
-    old "Captain\" \"I mean, I'm a ship captain. That's about all I'm good for."
-    new "Captain\" \"I mean, I'm a ship captain. That's about all I'm good for."
+    old "I mean, I'm a ship captain. That's about all I'm good for."
+    new "I mean, I'm a ship captain. That's about all I'm good for."
 
-    old "Captain\" \"These shadow things? Someone more important than me can decide what needs to be done there."
-    new "Captain\" \"These shadow things? Someone more important than me can decide what needs to be done there."
+    old "These shadow things? Someone more important than me can decide what needs to be done there."
+    new "These shadow things? Someone more important than me can decide what needs to be done there."
 
     old "The plan made sense."
     new "The plan made sense."
@@ -1357,17 +1354,17 @@ translate ru strings:
     old "The Captain looked at her."
     new "The Captain looked at her."
 
-    old "Captain\" \"Look, I saw what you did and you saved more lives than I can count."
-    new "Captain\" \"Look, I saw what you did and you saved more lives than I can count."
+    old "Look, I saw what you did and you saved more lives than I can count."
+    new "Look, I saw what you did and you saved more lives than I can count."
 
-    old "Captain\" \"And when we get to Rahayal, it's gonna be you who will have to explain this shit to them."
-    new "Captain\" \"And when we get to Rahayal, it's gonna be you who will have to explain this shit to them."
+    old "And when we get to Rahayal, it's gonna be you who will have to explain this shit to them."
+    new "And when we get to Rahayal, it's gonna be you who will have to explain this shit to them."
 
-    old "Captain\" \"Cause I imagine you mages probably understand all this better than I do."
-    new "Captain\" \"Cause I imagine you mages probably understand all this better than I do."
+    old "Cause I imagine you mages probably understand all this better than I do."
+    new "Cause I imagine you mages probably understand all this better than I do."
 
-    old "Captain\" \"Good. Until we get there, you can take up an officer cabin, it's off near the back of the ship, right next to my Captain cabin."
-    new "Captain\" \"Good. Until we get there, you can take up an officer cabin, it's off near the back of the ship, right next to my Captain cabin."
+    old "Good. Until we get there, you can take up an officer cabin, it's off near the back of the ship, right next to my Captain cabin."
+    new "Good. Until we get there, you can take up an officer cabin, it's off near the back of the ship, right next to my Captain cabin."
 
     old "Will your officer not mind?"
     new "Will your officer not mind?"
@@ -1375,17 +1372,17 @@ translate ru strings:
     old "Sarah saw a pained expression on his face."
     new "Sarah saw a pained expression on his face."
 
-    old "Captain\" \"My first officer was in town, purchasing supplies."
-    new "Captain\" \"My first officer was in town, purchasing supplies."
+    old "My first officer was in town, purchasing supplies."
+    new "My first officer was in town, purchasing supplies."
 
-    old "Captain\" \"If he's even still alive, he didn't make it back to this ship."
-    new "Captain\" \"If he's even still alive, he didn't make it back to this ship."
+    old "If he's even still alive, he didn't make it back to this ship."
+    new "If he's even still alive, he didn't make it back to this ship."
 
     old "I understand. Thank you for the kindness."
     new "I understand. Thank you for the kindness."
 
-    old "Captain\" \"Good, now I got to get back to keepin this ship runnin."
-    new "Captain\" \"Good, now I got to get back to keepin this ship runnin."
+    old "Good, now I got to get back to keepin this ship runnin."
+    new "Good, now I got to get back to keepin this ship runnin."
 
     old "He turned away from her and began to shout at a few nearby sailors."
     new "He turned away from her and began to shout at a few nearby sailors."
@@ -1399,8 +1396,8 @@ translate ru strings:
     old "Really, it's fine."
     new "Really, it's fine."
 
-    old "Woman\" \"Thank you! Thank you!"
-    new "Woman\" \"Thank you! Thank you!"
+    old "Thank you! Thank you!"
+    new "Thank you! Thank you!"
 
     old "Sarah turned and saw Alaric standing near a woman."
     new "Sarah turned and saw Alaric standing near a woman."
@@ -2028,9 +2025,6 @@ translate ru strings:
 
     old "She felt his powerful hands slide across her waist, up her back."
     new "She felt his powerful hands slide across her waist, up her back."
-
-    old "You're a mess."
-    new "You're a mess."
 
     old "Sarah just smiled."
     new "Sarah just smiled."
@@ -2728,8 +2722,8 @@ translate ru strings:
     old "Sarah knocked twice."
     new "Sarah knocked twice."
 
-    old "Captain\" \"Come in!"
-    new "Captain\" \"Come in!"
+    old "Come in!"
+    new "Come in!"
 
     old "His voice was stern and harsh, but not angry."
     new "His voice was stern and harsh, but not angry."
@@ -2746,14 +2740,14 @@ translate ru strings:
     old "A large cabinet stood on the far end of the room, filled with trinkets from many different places."
     new "A large cabinet stood on the far end of the room, filled with trinkets from many different places."
 
-    old "Captain\" \"Ah, it's you. The mage...Sarah was it?"
-    new "Captain\" \"Ah, it's you. The mage...Sarah was it?"
+    old "Ah, it's you. The mage...Sarah was it?"
+    new "Ah, it's you. The mage...Sarah was it?"
 
     old "Yes, Captain."
     new "Yes, Captain."
 
-    old "Captain\" \"Are you finding your lodgings in order?"
-    new "Captain\" \"Are you finding your lodgings in order?"
+    old "Are you finding your lodgings in order?"
+    new "Are you finding your lodgings in order?"
 
     old "Thank you for offering them, you didn't need to do that."
     new "Thank you for offering them, you didn't need to do that."
@@ -2761,14 +2755,14 @@ translate ru strings:
     old "The captain waved his hand, dismissing her humble attitude."
     new "The captain waved his hand, dismissing her humble attitude."
 
-    old "Captain\" \"Please, I'm happy to have a mage on the ship. God forbid we get attacked by more of those creatures."
-    new "Captain\" \"Please, I'm happy to have a mage on the ship. God forbid we get attacked by more of those creatures."
+    old "Please, I'm happy to have a mage on the ship. God forbid we get attacked by more of those creatures."
+    new "Please, I'm happy to have a mage on the ship. God forbid we get attacked by more of those creatures."
 
     old "We should be safe out here at sea for now."
     new "We should be safe out here at sea for now."
 
-    old "Captain\" \"Is that so? Whose to say they can't swim."
-    new "Captain\" \"Is that so? Whose to say they can't swim."
+    old "Is that so? Whose to say they can't swim."
+    new "Is that so? Whose to say they can't swim."
 
     old "Sarah frowned. Maybe that was true, she hadn't even considered it."
     new "Sarah frowned. Maybe that was true, she hadn't even considered it."
@@ -2776,14 +2770,14 @@ translate ru strings:
     old "Maybe, but I suspect they can't."
     new "Maybe, but I suspect they can't."
 
-    old "Captain\" \"I'll take your word on that then."
-    new "Captain\" \"I'll take your word on that then."
+    old "I'll take your word on that then."
+    new "I'll take your word on that then."
 
     old "He finally put down the paper he was reading and looked up."
     new "He finally put down the paper he was reading and looked up."
 
-    old "Captain\" \"Was there anything you needed from me?"
-    new "Captain\" \"Was there anything you needed from me?"
+    old "Was there anything you needed from me?"
+    new "Was there anything you needed from me?"
 
     old "No, Captain, I just thought I'd check to see if everything was going well."
     new "No, Captain, I just thought I'd check to see if everything was going well."
@@ -2794,23 +2788,23 @@ translate ru strings:
     old "The Captain shook his head."
     new "The Captain shook his head."
 
-    old "Captain\" \"No, it should be fine."
-    new "Captain\" \"No, it should be fine."
+    old "No, it should be fine."
+    new "No, it should be fine."
 
-    old "Captain\" \"We're making good speed, so long as the winds remain favorable, we should put some real distance between ourselves and Lethram."
-    new "Captain\" \"We're making good speed, so long as the winds remain favorable, we should put some real distance between ourselves and Lethram."
+    old "We're making good speed, so long as the winds remain favorable, we should put some real distance between ourselves and Lethram."
+    new "We're making good speed, so long as the winds remain favorable, we should put some real distance between ourselves and Lethram."
 
-    old "Captain\" \"Few more days, we should make it to Rahayal."
-    new "Captain\" \"Few more days, we should make it to Rahayal."
+    old "Few more days, we should make it to Rahayal."
+    new "Few more days, we should make it to Rahayal."
 
-    old "Captain\" \"If the winds turn bad though, we might need to ration food."
-    new "Captain\" \"If the winds turn bad though, we might need to ration food."
+    old "If the winds turn bad though, we might need to ration food."
+    new "If the winds turn bad though, we might need to ration food."
 
     old "The captain gestured."
     new "The captain gestured."
 
-    old "Captain\" \"Please, have a seat."
-    new "Captain\" \"Please, have a seat."
+    old "Please, have a seat."
+    new "Please, have a seat."
 
     old "Sarah was surprised at the offer, but it felt impolite to refuse."
     new "Sarah was surprised at the offer, but it felt impolite to refuse."
@@ -2821,14 +2815,11 @@ translate ru strings:
     old "The captain leaned back in his chair."
     new "The captain leaned back in his chair."
 
-    old "Captain\" \"Gods, today was supposed to be an easy day. It sure went sideways fast."
-    new "Captain\" \"Gods, today was supposed to be an easy day. It sure went sideways fast."
+    old "Gods, today was supposed to be an easy day. It sure went sideways fast."
+    new "Gods, today was supposed to be an easy day. It sure went sideways fast."
 
-    old "Captain\" \"I haven't even had a meal yet."
-    new "Captain\" \"I haven't even had a meal yet."
-
-    old "Captain\" \"How about you?"
-    new "Captain\" \"How about you?"
+    old "I haven't even had a meal yet."
+    new "I haven't even had a meal yet."
 
     old "Sarah suddenly realized sheh hadn't eaten all day either."
     new "Sarah suddenly realized sheh hadn't eaten all day either."
@@ -2839,11 +2830,11 @@ translate ru strings:
     old "The captain smiled."
     new "The captain smiled."
 
-    old "Captain\" \"Will you do me the honour of dining with me?"
-    new "Captain\" \"Will you do me the honour of dining with me?"
+    old "Will you do me the honour of dining with me?"
+    new "Will you do me the honour of dining with me?"
 
-    old "Captain\" \"I don't get a mage on my ship very often, and I promise that ship's Cook is quite good."
-    new "Captain\" \"I don't get a mage on my ship very often, and I promise that ship's Cook is quite good."
+    old "I don't get a mage on my ship very often, and I promise that ship's Cook is quite good."
+    new "I don't get a mage on my ship very often, and I promise that ship's Cook is quite good."
 
     old "Accept, dine with the Captain"
     new "Accept, dine with the Captain"
@@ -2854,8 +2845,8 @@ translate ru strings:
     old "The Captain clasped his hands together."
     new "The Captain clasped his hands together."
 
-    old "Captain\" \"Excellent! I'll have the Cook get started right away."
-    new "Captain\" \"Excellent! I'll have the Cook get started right away."
+    old "Excellent! I'll have the Cook get started right away."
+    new "Excellent! I'll have the Cook get started right away."
 
     old "Before she knew it, the cook had returned and delivered their food."
     new "Before she knew it, the cook had returned and delivered their food."
@@ -2872,11 +2863,11 @@ translate ru strings:
     old "The Captain laughed."
     new "The Captain laughed."
 
-    old "Captain\" \"For sailor's, sure. Some bread, maybe some beer."
-    new "Captain\" \"For sailor's, sure. Some bread, maybe some beer."
+    old "For sailor's, sure. Some bread, maybe some beer."
+    new "For sailor's, sure. Some bread, maybe some beer."
 
-    old "Captain\" \"But there are advantages to being the Captain."
-    new "Captain\" \"But there are advantages to being the Captain."
+    old "But there are advantages to being the Captain."
+    new "But there are advantages to being the Captain."
 
     old "As they began to eat together, the Captain appeared quite interested in the story of her life."
     new "As they began to eat together, the Captain appeared quite interested in the story of her life."
@@ -2926,8 +2917,8 @@ translate ru strings:
     old "The Captain held up an empty bottle of wine."
     new "The Captain held up an empty bottle of wine."
 
-    old "Captain\" \"Out, I'm afraid."
-    new "Captain\" \"Out, I'm afraid."
+    old "Out, I'm afraid."
+    new "Out, I'm afraid."
 
     old "Unfortunate! I really like that bottle."
     new "Unfortunate! I really like that bottle."
@@ -2935,8 +2926,8 @@ translate ru strings:
     old "The Captain reached back into his desk."
     new "The Captain reached back into his desk."
 
-    old "Captain\" \"I might have another, if you care for some more?"
-    new "Captain\" \"I might have another, if you care for some more?"
+    old "I might have another, if you care for some more?"
+    new "I might have another, if you care for some more?"
 
     old "Sarah felt a warm glow on her face, the pleasant buzzing of the room, her dulled senses."
     new "Sarah felt a warm glow on her face, the pleasant buzzing of the room, her dulled senses."
@@ -2992,8 +2983,8 @@ translate ru strings:
     old "He pressed it into her palms."
     new "He pressed it into her palms."
 
-    old "Captain\" \"Hold it, if you like."
-    new "Captain\" \"Hold it, if you like."
+    old "Hold it, if you like."
+    new "Hold it, if you like."
 
     old "Sarah ran her fingers across the object, feeling its texture."
     new "Sarah ran her fingers across the object, feeling its texture."
@@ -3004,8 +2995,8 @@ translate ru strings:
     old "She saw him turning his eyes to her."
     new "She saw him turning his eyes to her."
 
-    old "Captain\" \"As are you."
-    new "Captain\" \"As are you."
+    old "As are you."
+    new "As are you."
 
     old "She felt his hand, grazing her cheek, putting her hair behind her ear."
     new "She felt his hand, grazing her cheek, putting her hair behind her ear."
@@ -3025,14 +3016,14 @@ translate ru strings:
     old "You...you've lived such an exciting life...all these adventures...stories..."
     new "You...you've lived such an exciting life...all these adventures...stories..."
 
-    old "Captain\" \"I'm happy you think I'm interesting."
-    new "Captain\" \"I'm happy you think I'm interesting."
+    old "I'm happy you think I'm interesting."
+    new "I'm happy you think I'm interesting."
 
     old "His hand still lingered on the side of her face."
     new "His hand still lingered on the side of her face."
 
-    old "Captain\" \"I think you're very interesting as well."
-    new "Captain\" \"I think you're very interesting as well."
+    old "I think you're very interesting as well."
+    new "I think you're very interesting as well."
 
     old "His eyes never left hers."
     new "His eyes never left hers."
@@ -3046,23 +3037,17 @@ translate ru strings:
     old "He smiled some more."
     new "He smiled some more."
 
-    old "Captain\" \"What is it?"
-    new "Captain\" \"What is it?"
-
     old "I just thought we were...having fun..."
     new "I just thought we were...having fun..."
 
     old "I didn't know that you..."
     new "I didn't know that you..."
 
-    old "Captain\" \"What?"
-    new "Captain\" \"What?"
+    old "That I was attracted to you?"
+    new "That I was attracted to you?"
 
-    old "Captain\" \"That I was attracted to you?"
-    new "Captain\" \"That I was attracted to you?"
-
-    old "Captain\" \"Come now, don't insult either of us by pretending not to know how you look."
-    new "Captain\" \"Come now, don't insult either of us by pretending not to know how you look."
+    old "Come now, don't insult either of us by pretending not to know how you look."
+    new "Come now, don't insult either of us by pretending not to know how you look."
 
     old "Sarah felt her face flush at his compliment."
     new "Sarah felt her face flush at his compliment."
@@ -3076,11 +3061,11 @@ translate ru strings:
     old "I just didn't think that you...at your age..."
     new "I just didn't think that you...at your age..."
 
-    old "Captain\" \"What? You think a man my age stops being a man?"
-    new "Captain\" \"What? You think a man my age stops being a man?"
+    old "What? You think a man my age stops being a man?"
+    new "What? You think a man my age stops being a man?"
 
-    old "Captain\" \"Because I can assure you, everything still works."
-    new "Captain\" \"Because I can assure you, everything still works."
+    old "Because I can assure you, everything still works."
+    new "Because I can assure you, everything still works."
 
     old "He grabbed her wrist and forced it down between his legs."
     new "He grabbed her wrist and forced it down between his legs."
@@ -3166,8 +3151,8 @@ translate ru strings:
     old "And she yielded the last bit of her resistance."
     new "And she yielded the last bit of her resistance."
 
-    old "Captain\" \"Gods, your beautiful..."
-    new "Captain\" \"Gods, your beautiful..."
+    old "Gods, your beautiful..."
+    new "Gods, your beautiful..."
 
     old "He spoke with bated breath, in sheer awe."
     new "He spoke with bated breath, in sheer awe."
@@ -3208,8 +3193,8 @@ translate ru strings:
     old "Sarah ran her hands through his gray hair."
     new "Sarah ran her hands through his gray hair."
 
-    old "Captain\" \"Maybe. That would be a sight to see."
-    new "Captain\" \"Maybe. That would be a sight to see."
+    old "Maybe. That would be a sight to see."
+    new "Maybe. That would be a sight to see."
 
     old "Sarah bit her lips as she heard his whispered voice."
     new "Sarah bit her lips as she heard his whispered voice."
@@ -3238,9 +3223,6 @@ translate ru strings:
     old "Every inch of him slid into her without any resistance, realizing she was drenched for him."
     new "Every inch of him slid into her without any resistance, realizing she was drenched for him."
 
-    old "Captain\" \"You're soaking wet."
-    new "Captain\" \"You're soaking wet."
-
     old "His hoarse voice still pressed on her ears."
     new "His hoarse voice still pressed on her ears."
 
@@ -3265,8 +3247,8 @@ translate ru strings:
     old "She begged with desperate voice."
     new "She begged with desperate voice."
 
-    old "Captain\" \"So eager."
-    new "Captain\" \"So eager."
+    old "So eager."
+    new "So eager."
 
     old "He increased his pace, fucking her only slightly faster, only frusting her more."
     new "He increased his pace, fucking her only slightly faster, only frusting her more."
@@ -3277,8 +3259,8 @@ translate ru strings:
     old "Sarah gave him her most desperate and pleading eyes."
     new "Sarah gave him her most desperate and pleading eyes."
 
-    old "Captain\" \"I knew you begging would be a sight to see."
-    new "Captain\" \"I knew you begging would be a sight to see."
+    old "I knew you begging would be a sight to see."
+    new "I knew you begging would be a sight to see."
 
     old "Don't be mean...please..."
     new "Don't be mean...please..."
@@ -3406,8 +3388,8 @@ translate ru strings:
     old "After what felt like forever, he broke their kiss."
     new "After what felt like forever, he broke their kiss."
 
-    old "Captain\" \"You liked that."
-    new "Captain\" \"You liked that."
+    old "You liked that."
+    new "You liked that."
 
     old "It didn't sound to Sarah like a question, more like a statement of fact."
     new "It didn't sound to Sarah like a question, more like a statement of fact."
@@ -3415,23 +3397,20 @@ translate ru strings:
     old "Sarah answered honestly and submissively."
     new "Sarah answered honestly and submissively."
 
-    old "Captain\" \"Watching a woman like yourself cum makes me feel young again."
-    new "Captain\" \"Watching a woman like yourself cum makes me feel young again."
+    old "Watching a woman like yourself cum makes me feel young again."
+    new "Watching a woman like yourself cum makes me feel young again."
 
     old "Sarah felt her face red with embarassement, but knew there was no point in denying."
     new "Sarah felt her face red with embarassement, but knew there was no point in denying."
 
-    old "Captain\" \"Are you gonna make me feel good now?"
-    new "Captain\" \"Are you gonna make me feel good now?"
+    old "Are you gonna make me feel good now?"
+    new "Are you gonna make me feel good now?"
 
     old "Sarah submissively nodded her head."
     new "Sarah submissively nodded her head."
 
     old "In her chest, a surging desire to make him cum."
     new "In her chest, a surging desire to make him cum."
-
-    old "Captain\" \"Good girl."
-    new "Captain\" \"Good girl."
 
     old "The words of praise struck her like a hammer."
     new "The words of praise struck her like a hammer."
@@ -3442,8 +3421,8 @@ translate ru strings:
     old "He stepped back, his cock slipping free from her."
     new "He stepped back, his cock slipping free from her."
 
-    old "Captain\" \"Turn around and bend over my desk."
-    new "Captain\" \"Turn around and bend over my desk."
+    old "Turn around and bend over my desk."
+    new "Turn around and bend over my desk."
 
     old "Sarah just nodded and did as he asked her."
     new "Sarah just nodded and did as he asked her."
@@ -3508,8 +3487,8 @@ translate ru strings:
     old "The desk creaked with violent force as he mercilessly fucked her."
     new "The desk creaked with violent force as he mercilessly fucked her."
 
-    old "Captain\" \"You love my cock?"
-    new "Captain\" \"You love my cock?"
+    old "You love my cock?"
+    new "You love my cock?"
 
     old "He whispered heavily into her ear."
     new "He whispered heavily into her ear."
@@ -3565,8 +3544,8 @@ translate ru strings:
     old "The Captain just grinned."
     new "The Captain just grinned."
 
-    old "Captain\" \"I like that too."
-    new "Captain\" \"I like that too."
+    old "I like that too."
+    new "I like that too."
 
     old "Sarah awkwardly smiled at the man, nakedly sitting behind his desk."
     new "Sarah awkwardly smiled at the man, nakedly sitting behind his desk."
@@ -3580,11 +3559,11 @@ translate ru strings:
     old "Sarah vaguely gestured towards the door."
     new "Sarah vaguely gestured towards the door."
 
-    old "Captain\" \"Of course, I have a lot of work to do as well."
-    new "Captain\" \"Of course, I have a lot of work to do as well."
+    old "Of course, I have a lot of work to do as well."
+    new "Of course, I have a lot of work to do as well."
 
-    old "Captain\" \"But I hope you don't forget to enjoy your voyage on the ship."
-    new "Captain\" \"But I hope you don't forget to enjoy your voyage on the ship."
+    old "But I hope you don't forget to enjoy your voyage on the ship."
+    new "But I hope you don't forget to enjoy your voyage on the ship."
 
     old "He gave her a last wink before Sarah stumbled towards the door."
     new "He gave her a last wink before Sarah stumbled towards the door."
@@ -3604,8 +3583,8 @@ translate ru strings:
     old "But I have a lot of work to do and I wouldn't want to impose."
     new "But I have a lot of work to do and I wouldn't want to impose."
 
-    old "Captain\" \"Very well. In that case, I won't hold you any longer."
-    new "Captain\" \"Very well. In that case, I won't hold you any longer."
+    old "Very well. In that case, I won't hold you any longer."
+    new "Very well. In that case, I won't hold you any longer."
 
     old "Sarah stood up and thanked the captain a last time before heading back out to her room."
     new "Sarah stood up and thanked the captain a last time before heading back out to her room."

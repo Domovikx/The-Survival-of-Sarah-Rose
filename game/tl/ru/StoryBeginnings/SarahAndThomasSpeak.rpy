@@ -225,3 +225,4 @@ translate ru strings:
 
     old "Though his shoulders still hung low, she hoped that his crown weighed a little less on him now."
     new "Хотя его плечи всё ещё были опущены, она надеялась, что корона стала весить хоть немного меньше."
+

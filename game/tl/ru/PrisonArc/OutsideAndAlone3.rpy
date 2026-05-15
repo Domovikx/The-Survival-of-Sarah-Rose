@@ -19,8 +19,8 @@ translate ru strings:
     old "Sarah drives her elbow into the man's rib cage, causing him to slip and fall back."
     new "Sarah drives her elbow into the man's rib cage, causing him to slip and fall back."
 
-    old "Brigand\" \"You bitch! Get back here!"
-    new "Brigand\" \"You bitch! Get back here!"
+    old "You bitch! Get back here!"
+    new "You bitch! Get back here!"
 
     old "Sarah never stops to turn around, in a mad dash, she's out of the alley and onto the street."
     new "Sarah never stops to turn around, in a mad dash, she's out of the alley and onto the street."

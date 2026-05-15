@@ -514,8 +514,8 @@ translate ru strings:
     old "Then, as she had hoped yet equally feared, the captain of the guard called out."
     new "Then, as she had hoped yet equally feared, the captain of the guard called out."
 
-    old "Captain of the guard\" \"Ready to depart at your order!"
-    new "Captain of the guard\" \"Ready to depart at your order!"
+    old "Ready to depart at your order!"
+    new "Ready to depart at your order!"
 
     old "All eyes fell on her as the courtyard went quiet."
     new "All eyes fell on her as the courtyard went quiet."

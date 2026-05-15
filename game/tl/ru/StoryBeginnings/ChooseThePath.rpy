@@ -129,3 +129,4 @@ translate ru strings:
 
     old "No, I can't leave Thomas. This is crazy."
     new "Нет, я не могу бросить Томаса. Это безумие."
+

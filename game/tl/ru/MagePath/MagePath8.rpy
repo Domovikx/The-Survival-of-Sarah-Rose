@@ -205,8 +205,8 @@ translate ru strings:
     old "Two servants suddenly rushed up to them."
     new "Two servants suddenly rushed up to them."
 
-    old "Servants\" \"Esteemed guests, we have come to inform you that your rooms have been prepared."
-    new "Servants\" \"Esteemed guests, we have come to inform you that your rooms have been prepared."
+    old "Esteemed guests, we have come to inform you that your rooms have been prepared."
+    new "Esteemed guests, we have come to inform you that your rooms have been prepared."
 
     old "Good, we'll need our sleep for what comes tomorrow. We'll speak before I leave for the gate, I promise."
     new "Good, we'll need our sleep for what comes tomorrow. We'll speak before I leave for the gate, I promise."

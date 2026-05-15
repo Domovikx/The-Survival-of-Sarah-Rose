@@ -2008,8 +2008,8 @@ translate ru strings:
     old "Memories of her old home."
     new "Memories of her old home."
 
-    old "Voice\" \"Child of starlight. Blessed creature."
-    new "Voice\" \"Child of starlight. Blessed creature."
+    old "Child of starlight. Blessed creature."
+    new "Child of starlight. Blessed creature."
 
     old "Sarah frantically searched for the voice."
     new "Sarah frantically searched for the voice."
@@ -2017,14 +2017,14 @@ translate ru strings:
     old "Who...who are you? What are you?"
     new "Who...who are you? What are you?"
 
-    old "Voice\" \"Follow my voice. Come to me and I shall show you all you wish to know."
-    new "Voice\" \"Follow my voice. Come to me and I shall show you all you wish to know."
+    old "Follow my voice. Come to me and I shall show you all you wish to know."
+    new "Follow my voice. Come to me and I shall show you all you wish to know."
 
-    old "Voice\" \"Your foolish companion is no true friend. He holds you back with false lessons."
-    new "Voice\" \"Your foolish companion is no true friend. He holds you back with false lessons."
+    old "Your foolish companion is no true friend. He holds you back with false lessons."
+    new "Your foolish companion is no true friend. He holds you back with false lessons."
 
-    old "Voice\" \"Draw near to me and I shall teach you all you wish to know."
-    new "Voice\" \"Draw near to me and I shall teach you all you wish to know."
+    old "Draw near to me and I shall teach you all you wish to know."
+    new "Draw near to me and I shall teach you all you wish to know."
 
     old "Follow the voice"
     new "Follow the voice"
@@ -2035,8 +2035,8 @@ translate ru strings:
     old "Sarah turned, spinning in the void, searching for the origin of it."
     new "Sarah turned, spinning in the void, searching for the origin of it."
 
-    old "Voice\" \"This way child."
-    new "Voice\" \"This way child."
+    old "This way child."
+    new "This way child."
 
     old "Sarah slowly began to drift towards it."
     new "Sarah slowly began to drift towards it."
@@ -2089,8 +2089,8 @@ translate ru strings:
     old "Spikes, wicked teeth and horrid eyes. Evil seemed to flow from its very form."
     new "Spikes, wicked teeth and horrid eyes. Evil seemed to flow from its very form."
 
-    old "Voice\" \"Welcome, child."
-    new "Voice\" \"Welcome, child."
+    old "Welcome, child."
+    new "Welcome, child."
 
     old "Sarah felt her mind race. Panic. Run. But her body could not move one inch against the force that kept her."
     new "Sarah felt her mind race. Panic. Run. But her body could not move one inch against the force that kept her."
@@ -2101,17 +2101,17 @@ translate ru strings:
     old "The creature came nearer to her."
     new "The creature came nearer to her."
 
-    old "Voice\" \"Sing your song if you please, child, but know that your magics do not work here."
-    new "Voice\" \"Sing your song if you please, child, but know that your magics do not work here."
+    old "Sing your song if you please, child, but know that your magics do not work here."
+    new "Sing your song if you please, child, but know that your magics do not work here."
 
-    old "Voice\" \"Magics are inherent to your world. You have left them behind when you came here."
-    new "Voice\" \"Magics are inherent to your world. You have left them behind when you came here."
+    old "Magics are inherent to your world. You have left them behind when you came here."
+    new "Magics are inherent to your world. You have left them behind when you came here."
 
     old "I...I didn't come here! Release me!"
     new "I...I didn't come here! Release me!"
 
-    old "Voice\" \"Yet you did. You followed my voice, my promises."
-    new "Voice\" \"Yet you did. You followed my voice, my promises."
+    old "Yet you did. You followed my voice, my promises."
+    new "Yet you did. You followed my voice, my promises."
 
     old "No, you...you lied to me. You said that..."
     new "No, you...you lied to me. You said that..."
@@ -2125,14 +2125,14 @@ translate ru strings:
     old "Sarah screamed out as the torture unfolded."
     new "Sarah screamed out as the torture unfolded."
 
-    old "Voice\" \"No more of that."
-    new "Voice\" \"No more of that."
+    old "No more of that."
+    new "No more of that."
 
-    old "Voice\" \"No more pretense. No more argument. No more from you at all."
-    new "Voice\" \"No more pretense. No more argument. No more from you at all."
+    old "No more pretense. No more argument. No more from you at all."
+    new "No more pretense. No more argument. No more from you at all."
 
-    old "Voice\" \"You will accept your new place here, or you will be made to learn it the hard way."
-    new "Voice\" \"You will accept your new place here, or you will be made to learn it the hard way."
+    old "You will accept your new place here, or you will be made to learn it the hard way."
+    new "You will accept your new place here, or you will be made to learn it the hard way."
 
     old "Sarah could still feel every inch of her body screaming out in pain."
     new "Sarah could still feel every inch of her body screaming out in pain."
@@ -2158,20 +2158,17 @@ translate ru strings:
     old "She screamed as her body writhed against the sharp rock."
     new "She screamed as her body writhed against the sharp rock."
 
-    old "Voice\" \"You are nothing here child."
-    new "Voice\" \"You are nothing here child."
+    old "You are nothing here child."
+    new "You are nothing here child."
 
-    old "Voice\" \"A morsel. A most delicate one to be sure, but nothing more."
-    new "Voice\" \"A morsel. A most delicate one to be sure, but nothing more."
+    old "A morsel. A most delicate one to be sure, but nothing more."
+    new "A morsel. A most delicate one to be sure, but nothing more."
 
     old "The creature came nearer to her as she remained pinned to the earth."
     new "The creature came nearer to her as she remained pinned to the earth."
 
-    old "Voice\" \"My name is alien to your tongue, but you need not bother with it. You may simply call me Master."
-    new "Voice\" \"My name is alien to your tongue, but you need not bother with it. You may simply call me Master."
-
-    old "Master\" \"Do you understand?"
-    new "Master\" \"Do you understand?"
+    old "My name is alien to your tongue, but you need not bother with it. You may simply call me Master."
+    new "My name is alien to your tongue, but you need not bother with it. You may simply call me Master."
 
     old "The grip on her body faded."
     new "The grip on her body faded."
@@ -2182,8 +2179,8 @@ translate ru strings:
     old "Again her body broke and snapped, even as she remained alive to endure it."
     new "Again her body broke and snapped, even as she remained alive to endure it."
 
-    old "Master\" \"Speak what I ask of you, no more, no less. Do you understand?"
-    new "Master\" \"Speak what I ask of you, no more, no less. Do you understand?"
+    old "Speak what I ask of you, no more, no less. Do you understand?"
+    new "Speak what I ask of you, no more, no less. Do you understand?"
 
     old "Sarah felt the grip on her body recede."
     new "Sarah felt the grip on her body recede."
@@ -2197,11 +2194,11 @@ translate ru strings:
     old "Yes...Master..."
     new "Yes...Master..."
 
-    old "Master\" \"Good, child."
-    new "Master\" \"Good, child."
+    old "Good, child."
+    new "Good, child."
 
-    old "Master\" \"Now, you will learn the rules of this new world soon enough. And you will be blessed with bearing my Mark."
-    new "Master\" \"Now, you will learn the rules of this new world soon enough. And you will be blessed with bearing my Mark."
+    old "Now, you will learn the rules of this new world soon enough. And you will be blessed with bearing my Mark."
+    new "Now, you will learn the rules of this new world soon enough. And you will be blessed with bearing my Mark."
 
     old "Your...Mark?"
     new "Your...Mark?"
@@ -2209,8 +2206,8 @@ translate ru strings:
     old "Sarah felt her face burn as the creature slapped her across the face."
     new "Sarah felt her face burn as the creature slapped her across the face."
 
-    old "Master\" \"Do not forget yourself. You will adress me as you must, slave."
-    new "Master\" \"Do not forget yourself. You will adress me as you must, slave."
+    old "Do not forget yourself. You will adress me as you must, slave."
+    new "Do not forget yourself. You will adress me as you must, slave."
 
     old "I...yes...Master. I only wished to know what Mark, Master...I..."
     new "I...yes...Master. I only wished to know what Mark, Master...I..."
@@ -2218,11 +2215,11 @@ translate ru strings:
     old "Stripped of her magic, she had never realized how much she had come to rely on it all these years. How much it had been a part of her. Now gone."
     new "Stripped of her magic, she had never realized how much she had come to rely on it all these years. How much it had been a part of her. Now gone."
 
-    old "Master\" \"I wil show you."
-    new "Master\" \"I wil show you."
+    old "I wil show you."
+    new "I wil show you."
 
-    old "Master\" \"You are slower to learn than most, but you will learn in time."
-    new "Master\" \"You are slower to learn than most, but you will learn in time."
+    old "You are slower to learn than most, but you will learn in time."
+    new "You are slower to learn than most, but you will learn in time."
 
     old "Sarah felt the creature's claw run across her stomach."
     new "Sarah felt the creature's claw run across her stomach."
@@ -2278,8 +2275,8 @@ translate ru strings:
     old "The creature struck her across the face again."
     new "The creature struck her across the face again."
 
-    old "Master\" \"Do you wish it to end?"
-    new "Master\" \"Do you wish it to end?"
+    old "Do you wish it to end?"
+    new "Do you wish it to end?"
 
     old "Yes! Please! Please Master!"
     new "Yes! Please! Please Master!"
@@ -2290,11 +2287,11 @@ translate ru strings:
     old "A wicked grin pulled across the beasts face."
     new "A wicked grin pulled across the beasts face."
 
-    old "Master\" \"You bear my mark. Inscribed upon your flesh and your soul, it will linger."
-    new "Master\" \"You bear my mark. Inscribed upon your flesh and your soul, it will linger."
+    old "You bear my mark. Inscribed upon your flesh and your soul, it will linger."
+    new "You bear my mark. Inscribed upon your flesh and your soul, it will linger."
 
-    old "Master\" \"The pain it brings you now is yet but a fraction of what it can do."
-    new "Master\" \"The pain it brings you now is yet but a fraction of what it can do."
+    old "The pain it brings you now is yet but a fraction of what it can do."
+    new "The pain it brings you now is yet but a fraction of what it can do."
 
     old "Sarah felt her mind race from the horror. If this was a fraction, she could not begin to imagine the full extend of it."
     new "Sarah felt her mind race from the horror. If this was a fraction, she could not begin to imagine the full extend of it."
@@ -2302,8 +2299,8 @@ translate ru strings:
     old "Please...Master...make it stop!"
     new "Please...Master...make it stop!"
 
-    old "Master\" \"Only one thing can stop it."
-    new "Master\" \"Only one thing can stop it."
+    old "Only one thing can stop it."
+    new "Only one thing can stop it."
 
     old "Please! Anything Master!"
     new "Please! Anything Master!"
@@ -2311,8 +2308,8 @@ translate ru strings:
     old "Sarah reached out with her hand, as if expecting mercy from the beast."
     new "Sarah reached out with her hand, as if expecting mercy from the beast."
 
-    old "Master\" \"The mark will burn deeper the longer you deny yourself to me. Only by giving yourself freely, will the infliction pull back."
-    new "Master\" \"The mark will burn deeper the longer you deny yourself to me. Only by giving yourself freely, will the infliction pull back."
+    old "The mark will burn deeper the longer you deny yourself to me. Only by giving yourself freely, will the infliction pull back."
+    new "The mark will burn deeper the longer you deny yourself to me. Only by giving yourself freely, will the infliction pull back."
 
     old "This was what the creature wanted from her. Her body."
     new "This was what the creature wanted from her. Her body."
@@ -2392,8 +2389,8 @@ translate ru strings:
     old "Broken, her back ragged, Sarah fell forward as the beast pulled out from her and stepped back."
     new "Broken, her back ragged, Sarah fell forward as the beast pulled out from her and stepped back."
 
-    old "Master\" \"I will enjoy you, pet."
-    new "Master\" \"I will enjoy you, pet."
+    old "I will enjoy you, pet."
+    new "I will enjoy you, pet."
 
     old "Sarah only breathed heavily, recovering from the beast's urges and desires."
     new "Sarah only breathed heavily, recovering from the beast's urges and desires."
@@ -2404,8 +2401,8 @@ translate ru strings:
     old "Sarah could feel tears building in her eyes."
     new "Sarah could feel tears building in her eyes."
 
-    old "Master\" \"I will not keep teaching you forever. Address me as you must, or you will suffer far worse."
-    new "Master\" \"I will not keep teaching you forever. Address me as you must, or you will suffer far worse."
+    old "I will not keep teaching you forever. Address me as you must, or you will suffer far worse."
+    new "I will not keep teaching you forever. Address me as you must, or you will suffer far worse."
 
     old "Sarah felt the creature's claws weaving through her hair."
     new "Sarah felt the creature's claws weaving through her hair."
@@ -2431,14 +2428,14 @@ translate ru strings:
     old "Running tight around her neck, Sarah could feel the iron of it press against her throat with every breath."
     new "Running tight around her neck, Sarah could feel the iron of it press against her throat with every breath."
 
-    old "Master\" \"You are new to this world."
-    new "Master\" \"You are new to this world."
+    old "You are new to this world."
+    new "You are new to this world."
 
-    old "Master\" \"In time, you will learn. This is why I am so kind to you for now."
-    new "Master\" \"In time, you will learn. This is why I am so kind to you for now."
+    old "In time, you will learn. This is why I am so kind to you for now."
+    new "In time, you will learn. This is why I am so kind to you for now."
 
-    old "Master\" \"But when you defy my, you offer no real resistance. You only invite my punishment. Do you understand, slave?"
-    new "Master\" \"But when you defy my, you offer no real resistance. You only invite my punishment. Do you understand, slave?"
+    old "But when you defy my, you offer no real resistance. You only invite my punishment. Do you understand, slave?"
+    new "But when you defy my, you offer no real resistance. You only invite my punishment. Do you understand, slave?"
 
     old "Sarah tried to speak through her choked throat."
     new "Sarah tried to speak through her choked throat."
@@ -2449,14 +2446,14 @@ translate ru strings:
     old "It grinned."
     new "It grinned."
 
-    old "Master\" \"Good, you are learning."
-    new "Master\" \"Good, you are learning."
+    old "Good, you are learning."
+    new "Good, you are learning."
 
     old "It moved past her, along the sharp rocks of the alien world."
     new "It moved past her, along the sharp rocks of the alien world."
 
-    old "Master\" \"Follow me, do not tread slowly or you will bear the whip for that too."
-    new "Master\" \"Follow me, do not tread slowly or you will bear the whip for that too."
+    old "Follow me, do not tread slowly or you will bear the whip for that too."
+    new "Follow me, do not tread slowly or you will bear the whip for that too."
 
     old "Burning heat searing her body. Pain still ringing inside of her."
     new "Burning heat searing her body. Pain still ringing inside of her."

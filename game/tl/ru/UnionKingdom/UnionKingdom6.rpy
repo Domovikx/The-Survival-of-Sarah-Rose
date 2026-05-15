@@ -103,8 +103,8 @@ translate ru strings:
     old "Opening the door to her carriage, Sarah stepped out onto the road."
     new "Opening the door to her carriage, Sarah stepped out onto the road."
 
-    old "Soldier\" \"Your Grace! Please, remain in the carriage where it is safe!"
-    new "Soldier\" \"Your Grace! Please, remain in the carriage where it is safe!"
+    old "Your Grace! Please, remain in the carriage where it is safe!"
+    new "Your Grace! Please, remain in the carriage where it is safe!"
 
     old "Sarah disregarded the man's pleading and continued to walk towards the sounds."
     new "Sarah disregarded the man's pleading and continued to walk towards the sounds."
@@ -127,8 +127,8 @@ translate ru strings:
     old "The guard captain stood in the center of the road."
     new "The guard captain stood in the center of the road."
 
-    old "Guard Captain\" \"Drop your blade or you both will be sorry!"
-    new "Guard Captain\" \"Drop your blade or you both will be sorry!"
+    old "Drop your blade or you both will be sorry!"
+    new "Drop your blade or you both will be sorry!"
 
     old "His voice was loud and commanding."
     new "His voice was loud and commanding."
@@ -136,14 +136,14 @@ translate ru strings:
     old "Opposite of him, Sarah saw only a young boy."
     new "Opposite of him, Sarah saw only a young boy."
 
-    old "Squire\" \"Please, there is no need for conflict! If you'll just let me explain-"
-    new "Squire\" \"Please, there is no need for conflict! If you'll just let me explain-"
+    old "Please, there is no need for conflict! If you'll just let me explain-"
+    new "Please, there is no need for conflict! If you'll just let me explain-"
 
-    old "Guard Captain\" \"There are no words to be had!"
-    new "Guard Captain\" \"There are no words to be had!"
+    old "There are no words to be had!"
+    new "There are no words to be had!"
 
-    old "Guard Captain\" \"This is a royal convoy and you either do as I say or we'll cut through the both of you!"
-    new "Guard Captain\" \"This is a royal convoy and you either do as I say or we'll cut through the both of you!"
+    old "This is a royal convoy and you either do as I say or we'll cut through the both of you!"
+    new "This is a royal convoy and you either do as I say or we'll cut through the both of you!"
 
     old "Standing a little further behind the young squire, Sarah saw another man."
     new "Standing a little further behind the young squire, Sarah saw another man."
@@ -160,14 +160,14 @@ translate ru strings:
     old "A soft buzzing of flies already descending on the dead could be heard in between the shouting."
     new "A soft buzzing of flies already descending on the dead could be heard in between the shouting."
 
-    old "Guard Captain\" \"Drop your sword!"
-    new "Guard Captain\" \"Drop your sword!"
+    old "Drop your sword!"
+    new "Drop your sword!"
 
-    old "Squire\" \"If you seek to harm my Master...I cannot sheathe my blade. My vow forbids it."
-    new "Squire\" \"If you seek to harm my Master...I cannot sheathe my blade. My vow forbids it."
+    old "If you seek to harm my Master...I cannot sheathe my blade. My vow forbids it."
+    new "If you seek to harm my Master...I cannot sheathe my blade. My vow forbids it."
 
-    old "Guard Captain\" \"Very well, have it your way! Boys!"
-    new "Guard Captain\" \"Very well, have it your way! Boys!"
+    old "Very well, have it your way! Boys!"
+    new "Very well, have it your way! Boys!"
 
     old "The other soldiers moved forward."
     new "The other soldiers moved forward."
@@ -181,26 +181,26 @@ translate ru strings:
     old "What is the meaning of all this? Must we settle every discord with bloodshed?"
     new "What is the meaning of all this? Must we settle every discord with bloodshed?"
 
-    old "Guard Captain\" \"Your Grace...please return to your carriage, it is not safe here, these bandits-"
-    new "Guard Captain\" \"Your Grace...please return to your carriage, it is not safe here, these bandits-"
+    old "Your Grace...please return to your carriage, it is not safe here, these bandits-"
+    new "Your Grace...please return to your carriage, it is not safe here, these bandits-"
 
-    old "Squire\" \"We are not bandits!"
-    new "Squire\" \"We are not bandits!"
+    old "We are not bandits!"
+    new "We are not bandits!"
 
-    old "Guard Captain\" \"These troublemakers then! They are blocking the road!"
-    new "Guard Captain\" \"These troublemakers then! They are blocking the road!"
+    old "These troublemakers then! They are blocking the road!"
+    new "These troublemakers then! They are blocking the road!"
 
-    old "Squire\" \"We were not blocking the road! We came upon these bandits a mere moment before you arrived."
-    new "Squire\" \"We were not blocking the road! We came upon these bandits a mere moment before you arrived."
+    old "We were not blocking the road! We came upon these bandits a mere moment before you arrived."
+    new "We were not blocking the road! We came upon these bandits a mere moment before you arrived."
 
-    old "Squire\" \"Had it not been for this unfortunate timing, my Master and I would have cleared the road!"
-    new "Squire\" \"Had it not been for this unfortunate timing, my Master and I would have cleared the road!"
+    old "Had it not been for this unfortunate timing, my Master and I would have cleared the road!"
+    new "Had it not been for this unfortunate timing, my Master and I would have cleared the road!"
 
     old "The Guard Captain spat on the ground."
     new "The Guard Captain spat on the ground."
 
-    old "Guard Captain\" \"Damned lies! Look at those dead men, dressed like farmers. Whose to say you are not the bandit?"
-    new "Guard Captain\" \"Damned lies! Look at those dead men, dressed like farmers. Whose to say you are not the bandit?"
+    old "Damned lies! Look at those dead men, dressed like farmers. Whose to say you are not the bandit?"
+    new "Damned lies! Look at those dead men, dressed like farmers. Whose to say you are not the bandit?"
 
     old "Sarah stepped forward."
     new "Sarah stepped forward."
@@ -220,8 +220,8 @@ translate ru strings:
     old "The squire held his sword a moment longer."
     new "The squire held his sword a moment longer."
 
-    old "Squire\" \"And my Master?"
-    new "Squire\" \"And my Master?"
+    old "And my Master?"
+    new "And my Master?"
 
     old "None to him as well, should you each be innocent as you claim."
     new "None to him as well, should you each be innocent as you claim."
@@ -241,8 +241,8 @@ translate ru strings:
     old "The squire stepped forward."
     new "The squire stepped forward."
 
-    old "Squire\" \"Forgive the manners of my Master...who do I have the honor of adressing, my Lady?"
-    new "Squire\" \"Forgive the manners of my Master...who do I have the honor of adressing, my Lady?"
+    old "Forgive the manners of my Master...who do I have the honor of adressing, my Lady?"
+    new "Forgive the manners of my Master...who do I have the honor of adressing, my Lady?"
 
     old "Sarah Rose, ruler of Rosanna."
     new "Sarah Rose, ruler of Rosanna."
@@ -250,8 +250,8 @@ translate ru strings:
     old "Instantly the squire fell into a quick bow."
     new "Instantly the squire fell into a quick bow."
 
-    old "Squire\" \"My lady, forgive my poor appearance."
-    new "Squire\" \"My lady, forgive my poor appearance."
+    old "My lady, forgive my poor appearance."
+    new "My lady, forgive my poor appearance."
 
     old "Please, it is alright. Rise and instead tell me your name and tell us why your Master insults us by refusing to speak with us."
     new "Please, it is alright. Rise and instead tell me your name and tell us why your Master insults us by refusing to speak with us."
@@ -259,11 +259,11 @@ translate ru strings:
     old "The squire looked anxiously towards the knight."
     new "The squire looked anxiously towards the knight."
 
-    old "Damian\" \"My name is Damian. I am in service as squire to my Master."
-    new "Damian\" \"My name is Damian. I am in service as squire to my Master."
+    old "My name is Damian. I am in service as squire to my Master."
+    new "My name is Damian. I am in service as squire to my Master."
 
-    old "Damian\" \"Unfortunately, my Master has taken a vow-of-silence. He will not speak to anyone, not even myself."
-    new "Damian\" \"Unfortunately, my Master has taken a vow-of-silence. He will not speak to anyone, not even myself."
+    old "Unfortunately, my Master has taken a vow-of-silence. He will not speak to anyone, not even myself."
+    new "Unfortunately, my Master has taken a vow-of-silence. He will not speak to anyone, not even myself."
 
     old "Sarah looked at the knight, still sitting, unmoving."
     new "Sarah looked at the knight, still sitting, unmoving."
@@ -271,8 +271,8 @@ translate ru strings:
     old "Can you tell me your Master's name? Where he gained his knighthood?"
     new "Can you tell me your Master's name? Where he gained his knighthood?"
 
-    old "Damian\" \"Sir Goderic, Knight-Of-The-Fields. I pray forgiveness, for I do not know where or by whom he gained his knighthood."
-    new "Damian\" \"Sir Goderic, Knight-Of-The-Fields. I pray forgiveness, for I do not know where or by whom he gained his knighthood."
+    old "Sir Goderic, Knight-Of-The-Fields. I pray forgiveness, for I do not know where or by whom he gained his knighthood."
+    new "Sir Goderic, Knight-Of-The-Fields. I pray forgiveness, for I do not know where or by whom he gained his knighthood."
 
     old "Sarah again studied the knight."
     new "Sarah again studied the knight."
@@ -292,53 +292,53 @@ translate ru strings:
     old "Damian bowed."
     new "Damian bowed."
 
-    old "Damian\" \"Of course, my Lady."
-    new "Damian\" \"Of course, my Lady."
+    old "Of course, my Lady."
+    new "Of course, my Lady."
 
-    old "Damian\" \"Sir Goderic found me, some three-years ago when my village was attacked by bandits."
-    new "Damian\" \"Sir Goderic found me, some three-years ago when my village was attacked by bandits."
+    old "Sir Goderic found me, some three-years ago when my village was attacked by bandits."
+    new "Sir Goderic found me, some three-years ago when my village was attacked by bandits."
 
-    old "Damian\" \"I had hidden among the rubble, but I was too fearful to leave my hiding place."
-    new "Damian\" \"I had hidden among the rubble, but I was too fearful to leave my hiding place."
+    old "I had hidden among the rubble, but I was too fearful to leave my hiding place."
+    new "I had hidden among the rubble, but I was too fearful to leave my hiding place."
 
-    old "Damian\" \"Eventually, after many days, lack of water and food drove me to take a risk I knew I should not have."
-    new "Damian\" \"Eventually, after many days, lack of water and food drove me to take a risk I knew I should not have."
+    old "Eventually, after many days, lack of water and food drove me to take a risk I knew I should not have."
+    new "Eventually, after many days, lack of water and food drove me to take a risk I knew I should not have."
 
-    old "Damian\" \"The bandits, still in the town, captured me."
-    new "Damian\" \"The bandits, still in the town, captured me."
+    old "The bandits, still in the town, captured me."
+    new "The bandits, still in the town, captured me."
 
-    old "Damian\" \"A knife to my throat, I was all but done, my Lady."
-    new "Damian\" \"A knife to my throat, I was all but done, my Lady."
+    old "A knife to my throat, I was all but done, my Lady."
+    new "A knife to my throat, I was all but done, my Lady."
 
-    old "Damian\" \"But by divine hand, Sir Goderic arrived."
-    new "Damian\" \"But by divine hand, Sir Goderic arrived."
+    old "But by divine hand, Sir Goderic arrived."
+    new "But by divine hand, Sir Goderic arrived."
 
-    old "Damian\" \"He alone cut down five men, as though they were nothing but wheat before the scythe."
-    new "Damian\" \"He alone cut down five men, as though they were nothing but wheat before the scythe."
+    old "He alone cut down five men, as though they were nothing but wheat before the scythe."
+    new "He alone cut down five men, as though they were nothing but wheat before the scythe."
 
-    old "Damian\" \"In their panic they released me and I begged for his protection."
-    new "Damian\" \"In their panic they released me and I begged for his protection."
+    old "In their panic they released me and I begged for his protection."
+    new "In their panic they released me and I begged for his protection."
 
-    old "Damian\" \"He told me that to ask for protection was foolish, because he would not always be there."
-    new "Damian\" \"He told me that to ask for protection was foolish, because he would not always be there."
+    old "He told me that to ask for protection was foolish, because he would not always be there."
+    new "He told me that to ask for protection was foolish, because he would not always be there."
 
-    old "Damian\" \"Instead, he told me that I should have asked to learn how to defend myself."
-    new "Damian\" \"Instead, he told me that I should have asked to learn how to defend myself."
+    old "Instead, he told me that I should have asked to learn how to defend myself."
+    new "Instead, he told me that I should have asked to learn how to defend myself."
 
     old "You say Sir Goderic told you?"
     new "You say Sir Goderic told you?"
 
-    old "Damian\" \"Back then, my Master had not yet taken his vow-of-silence."
-    new "Damian\" \"Back then, my Master had not yet taken his vow-of-silence."
+    old "Back then, my Master had not yet taken his vow-of-silence."
+    new "Back then, my Master had not yet taken his vow-of-silence."
 
     old "I see. Continue."
     new "I see. Continue."
 
-    old "Damian\" \"Well, I did as Sir Goderic asked and begged him to teach me how to fight."
-    new "Damian\" \"Well, I did as Sir Goderic asked and begged him to teach me how to fight."
+    old "Well, I did as Sir Goderic asked and begged him to teach me how to fight."
+    new "Well, I did as Sir Goderic asked and begged him to teach me how to fight."
 
-    old "Damian\" \"Ever since, I have been his loyal squire, or as loyal as any could hope to be."
-    new "Damian\" \"Ever since, I have been his loyal squire, or as loyal as any could hope to be."
+    old "Ever since, I have been his loyal squire, or as loyal as any could hope to be."
+    new "Ever since, I have been his loyal squire, or as loyal as any could hope to be."
 
     old "There was something odd about the thing."
     new "There was something odd about the thing."
@@ -358,23 +358,23 @@ translate ru strings:
     old "What brought Sir Goderic to your village in the first place?"
     new "What brought Sir Goderic to your village in the first place?"
 
-    old "Damian\" \"Ah, I see."
-    new "Damian\" \"Ah, I see."
+    old "Ah, I see."
+    new "Ah, I see."
 
     old "See what?"
     new "See what?"
 
-    old "Damian\" \"I had forgotten that you were not from here, forgive my mistake, Lady Rose."
-    new "Damian\" \"I had forgotten that you were not from here, forgive my mistake, Lady Rose."
+    old "I had forgotten that you were not from here, forgive my mistake, Lady Rose."
+    new "I had forgotten that you were not from here, forgive my mistake, Lady Rose."
 
-    old "Damian\" \"Sir Goderic is famous in these parts."
-    new "Damian\" \"Sir Goderic is famous in these parts."
+    old "Sir Goderic is famous in these parts."
+    new "Sir Goderic is famous in these parts."
 
-    old "Damian\" \"He has taken to ridding these provinces of bandits and their ilk. He has been fighting them for years."
-    new "Damian\" \"He has taken to ridding these provinces of bandits and their ilk. He has been fighting them for years."
+    old "He has taken to ridding these provinces of bandits and their ilk. He has been fighting them for years."
+    new "He has taken to ridding these provinces of bandits and their ilk. He has been fighting them for years."
 
-    old "Damian\" \"It is that very task that I now aid him in, Gods willing."
-    new "Damian\" \"It is that very task that I now aid him in, Gods willing."
+    old "It is that very task that I now aid him in, Gods willing."
+    new "It is that very task that I now aid him in, Gods willing."
 
     old "Sarah looked out across the bodies of the men on the road."
     new "Sarah looked out across the bodies of the men on the road."
@@ -382,8 +382,8 @@ translate ru strings:
     old "And these men you would claim to be bandits then?"
     new "And these men you would claim to be bandits then?"
 
-    old "Damian\" \"Yes, my Lady."
-    new "Damian\" \"Yes, my Lady."
+    old "Yes, my Lady."
+    new "Yes, my Lady."
 
     old "Sarah gestured at the bodies."
     new "Sarah gestured at the bodies."
@@ -391,20 +391,20 @@ translate ru strings:
     old "They are dressed little different than farmers. Merchants. Tell me how I know these to be bandits and not victims?"
     new "They are dressed little different than farmers. Merchants. Tell me how I know these to be bandits and not victims?"
 
-    old "Damian\" \"Of course, Lady Rose, you need not take my word for it."
-    new "Damian\" \"Of course, Lady Rose, you need not take my word for it."
+    old "Of course, Lady Rose, you need not take my word for it."
+    new "Of course, Lady Rose, you need not take my word for it."
 
-    old "Damian\" \"Tell me, what are the tools of a farmer and a merchant?"
-    new "Damian\" \"Tell me, what are the tools of a farmer and a merchant?"
+    old "Tell me, what are the tools of a farmer and a merchant?"
+    new "Tell me, what are the tools of a farmer and a merchant?"
 
     old "I did not ask for riddles, but answers."
     new "I did not ask for riddles, but answers."
 
-    old "Damian\" \"Of course, my Lady, but what I mean to get at is that a farmer carries a scythe and a merchant perhaps has his wagon and his wares, yes?"
-    new "Damian\" \"Of course, my Lady, but what I mean to get at is that a farmer carries a scythe and a merchant perhaps has his wagon and his wares, yes?"
+    old "Of course, my Lady, but what I mean to get at is that a farmer carries a scythe and a merchant perhaps has his wagon and his wares, yes?"
+    new "Of course, my Lady, but what I mean to get at is that a farmer carries a scythe and a merchant perhaps has his wagon and his wares, yes?"
 
-    old "Damian\" \"Very well, turn over their bodies and you will find evidence of their nature."
-    new "Damian\" \"Very well, turn over their bodies and you will find evidence of their nature."
+    old "Very well, turn over their bodies and you will find evidence of their nature."
+    new "Very well, turn over their bodies and you will find evidence of their nature."
 
     old "Sarah gestured and her men began to turn over the bodies."
     new "Sarah gestured and her men began to turn over the bodies."
@@ -433,14 +433,14 @@ translate ru strings:
     old "The blood on his armor had turned a deep dark brown in the sun."
     new "The blood on his armor had turned a deep dark brown in the sun."
 
-    old "Damian\" \"Thank you for your trust, Lady Rose."
-    new "Damian\" \"Thank you for your trust, Lady Rose."
+    old "Thank you for your trust, Lady Rose."
+    new "Thank you for your trust, Lady Rose."
 
-    old "Damian\" \"We pray only that you allow us to continue on our quest to rid these provinces of bandits."
-    new "Damian\" \"We pray only that you allow us to continue on our quest to rid these provinces of bandits."
+    old "We pray only that you allow us to continue on our quest to rid these provinces of bandits."
+    new "We pray only that you allow us to continue on our quest to rid these provinces of bandits."
 
-    old "Damian\" \"We will not trouble you a moment more."
-    new "Damian\" \"We will not trouble you a moment more."
+    old "We will not trouble you a moment more."
+    new "We will not trouble you a moment more."
 
     old "Very well. Clear the road and we shall each make no more trouble for the other."
     new "Very well. Clear the road and we shall each make no more trouble for the other."
@@ -901,8 +901,8 @@ translate ru strings:
     old "A servant approached her."
     new "A servant approached her."
 
-    old "Servant\" \"Lady Sarah Rose, I been send by Queen Maeiv herself to receive you."
-    new "Servant\" \"Lady Sarah Rose, I been send by Queen Maeiv herself to receive you."
+    old "Lady Sarah Rose, I been send by Queen Maeiv herself to receive you."
+    new "Lady Sarah Rose, I been send by Queen Maeiv herself to receive you."
 
     old "Sarah nodded, acknowledging the servant."
     new "Sarah nodded, acknowledging the servant."
@@ -913,8 +913,8 @@ translate ru strings:
     old "The servant nodded."
     new "The servant nodded."
 
-    old "Servant\" \"Yes, lady Rose, please follow me and I shall escort you to the throne room."
-    new "Servant\" \"Yes, lady Rose, please follow me and I shall escort you to the throne room."
+    old "Yes, lady Rose, please follow me and I shall escort you to the throne room."
+    new "Yes, lady Rose, please follow me and I shall escort you to the throne room."
 
     old "Following the servant, Sarah quickly found herself walking through a maze of hallways."
     new "Following the servant, Sarah quickly found herself walking through a maze of hallways."
@@ -934,11 +934,11 @@ translate ru strings:
     old "A brief moment later, he came back out."
     new "A brief moment later, he came back out."
 
-    old "Servant\" \"I fear Queen Maeiv is not quite ready to receive you at this moment."
-    new "Servant\" \"I fear Queen Maeiv is not quite ready to receive you at this moment."
+    old "I fear Queen Maeiv is not quite ready to receive you at this moment."
+    new "I fear Queen Maeiv is not quite ready to receive you at this moment."
 
-    old "Servant\" \"Forgive my mistake, you shall soon be admitted."
-    new "Servant\" \"Forgive my mistake, you shall soon be admitted."
+    old "Forgive my mistake, you shall soon be admitted."
+    new "Forgive my mistake, you shall soon be admitted."
 
     old "She sat down on one of the empty waiting couches."
     new "She sat down on one of the empty waiting couches."
@@ -991,8 +991,8 @@ translate ru strings:
     old "Several times, until finally he turned back with a smile."
     new "Several times, until finally he turned back with a smile."
 
-    old "Servant\" \"My lady, endless apologies, but we are ready to be received."
-    new "Servant\" \"My lady, endless apologies, but we are ready to be received."
+    old "My lady, endless apologies, but we are ready to be received."
+    new "My lady, endless apologies, but we are ready to be received."
 
     old "Sarah stood up. She wanted to complain, but it was better to bite her tongue."
     new "Sarah stood up. She wanted to complain, but it was better to bite her tongue."
@@ -1027,8 +1027,8 @@ translate ru strings:
     old "Queen Maeiv acknowledged her, but her face was unmoving."
     new "Queen Maeiv acknowledged her, but her face was unmoving."
 
-    old "Servant\" \"Sarah Rose, of house Rose, ruler of Rosanna!"
-    new "Servant\" \"Sarah Rose, of house Rose, ruler of Rosanna!"
+    old "Sarah Rose, of house Rose, ruler of Rosanna!"
+    new "Sarah Rose, of house Rose, ruler of Rosanna!"
 
     old "The announcer's voice echoed through the vast throne room."
     new "The announcer's voice echoed through the vast throne room."

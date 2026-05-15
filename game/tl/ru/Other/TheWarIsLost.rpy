@@ -85,8 +85,8 @@ translate ru strings:
     old "Sarah didn't understand, but the officer kept up, finally verbalizing a few broken words."
     new "Sarah didn't understand, but the officer kept up, finally verbalizing a few broken words."
 
-    old "Officer\" \"You...cook."
-    new "Officer\" \"You...cook."
+    old "You...cook."
+    new "You...cook."
 
     old "Sarah felt a wave of relief coming over her. Her mind had imagined many worse things by now."
     new "Sarah felt a wave of relief coming over her. Her mind had imagined many worse things by now."

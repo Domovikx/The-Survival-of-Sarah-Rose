@@ -403,8 +403,8 @@ translate ru strings:
     old "A servant, a young woman, entered the room. Her eyes fixed to the floor."
     new "A servant, a young woman, entered the room. Her eyes fixed to the floor."
 
-    old "Servant\" \"Your Highness, Lady Carolyn has invited you to join her in the dining room."
-    new "Servant\" \"Your Highness, Lady Carolyn has invited you to join her in the dining room."
+    old "Your Highness, Lady Carolyn has invited you to join her in the dining room."
+    new "Your Highness, Lady Carolyn has invited you to join her in the dining room."
 
     old "Of course. Can you escort me there?"
     new "Of course. Can you escort me there?"
@@ -412,8 +412,8 @@ translate ru strings:
     old "The young woman nodded."
     new "The young woman nodded."
 
-    old "Servant\" \"Yes, your Highness, but Lady Carolyn has also extended a gift to you."
-    new "Servant\" \"Yes, your Highness, but Lady Carolyn has also extended a gift to you."
+    old "Yes, your Highness, but Lady Carolyn has also extended a gift to you."
+    new "Yes, your Highness, but Lady Carolyn has also extended a gift to you."
 
     old "The young woman gestured towards the bed."
     new "The young woman gestured towards the bed."
@@ -424,11 +424,11 @@ translate ru strings:
     old "I don't understand."
     new "I don't understand."
 
-    old "Servant\" \"Lady Carolyn has gifted you this dress for tonight's event."
-    new "Servant\" \"Lady Carolyn has gifted you this dress for tonight's event."
+    old "Lady Carolyn has gifted you this dress for tonight's event."
+    new "Lady Carolyn has gifted you this dress for tonight's event."
 
-    old "Servant\" \"It was handmade by one of the finest tailors in the Weaving district."
-    new "Servant\" \"It was handmade by one of the finest tailors in the Weaving district."
+    old "It was handmade by one of the finest tailors in the Weaving district."
+    new "It was handmade by one of the finest tailors in the Weaving district."
 
     old "Sarah looked at the dress."
     new "Sarah looked at the dress."
@@ -453,9 +453,6 @@ translate ru strings:
 
     old "The servant girl nodded."
     new "The servant girl nodded."
-
-    old "Servant\" \"Of course, my Lady."
-    new "Servant\" \"Of course, my Lady."
 
     old "The servant girl rushed over and began to help Sarah undo her armor."
     new "The servant girl rushed over and began to help Sarah undo her armor."
@@ -505,14 +502,11 @@ translate ru strings:
     old "The servant girl flashed a brief smile."
     new "The servant girl flashed a brief smile."
 
-    old "Servant\" \"You're beautiful, my Lady. The dress fits you perfectly."
-    new "Servant\" \"You're beautiful, my Lady. The dress fits you perfectly."
+    old "You're beautiful, my Lady. The dress fits you perfectly."
+    new "You're beautiful, my Lady. The dress fits you perfectly."
 
     old "Please, take me to the dining room."
     new "Please, take me to the dining room."
-
-    old "Servant\" \"Of course."
-    new "Servant\" \"Of course."
 
     old "Keep on your armor"
     new "Keep on your armor"
@@ -2715,9 +2709,6 @@ translate ru strings:
 
     old "There have been rumors. In the camp."
     new "There have been rumors. In the camp."
-
-    old "Rumors?"
-    new "Rumors?"
 
     old "They've been saying you might sail back to Rosanna...take back your home."
     new "They've been saying you might sail back to Rosanna...take back your home."

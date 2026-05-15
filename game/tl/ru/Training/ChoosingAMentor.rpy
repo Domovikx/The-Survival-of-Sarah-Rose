@@ -66,3 +66,4 @@ translate ru strings:
 
     old "Ask Atilla, the orc."
     new "Попросить Атиллу, орка."
+
