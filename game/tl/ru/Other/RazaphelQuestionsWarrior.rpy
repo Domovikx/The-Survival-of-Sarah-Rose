@@ -646,11 +646,8 @@ translate ru strings:
     old "All around her, Mythran soldiers and scholars stared at her with worried expressions."
     new "All around her, Mythran soldiers and scholars stared at her with worried expressions."
 
-    old "Mythran Soldier\" \"Are you alright?"
-    new "Mythran Soldier\" \"Are you alright?"
-
-    old "Mythran Soldier\" \"Can you say it?"
-    new "Mythran Soldier\" \"Can you say it?"
+    old "Can you say it?"
+    new "Can you say it?"
 
     old "Sarah waved her hand, hoping to dismiss them."
     new "Sarah waved her hand, hoping to dismiss them."

@@ -871,8 +871,8 @@ translate ru strings:
     old "The old Tribesman was the first to break it."
     new "The old Tribesman was the first to break it."
 
-    old "Old Tribesman\" \"Dah-ak, katham dahaui nak."
-    new "Old Tribesman\" \"Dah-ak, katham dahaui nak."
+    old "Dah-ak, katham dahaui nak."
+    new "Dah-ak, katham dahaui nak."
 
     old "His Tribal speak was entirely foreign to Sarah. She could make no sense of it. But to the men, it appeared to stir something."
     new "His Tribal speak was entirely foreign to Sarah. She could make no sense of it. But to the men, it appeared to stir something."
@@ -886,8 +886,8 @@ translate ru strings:
     old "A rare few spoke in her native language, welcoming her."
     new "A rare few spoke in her native language, welcoming her."
 
-    old "Old Tribesman\" \"I reminded them of the duties of hospitality in our culture. Both to fellow Tribesman, and to foreign guests."
-    new "Old Tribesman\" \"I reminded them of the duties of hospitality in our culture. Both to fellow Tribesman, and to foreign guests."
+    old "I reminded them of the duties of hospitality in our culture. Both to fellow Tribesman, and to foreign guests."
+    new "I reminded them of the duties of hospitality in our culture. Both to fellow Tribesman, and to foreign guests."
 
     old "Foreign, Sarah thought. An odd word in reference to herself, more native here than any of them."
     new "Foreign, Sarah thought. An odd word in reference to herself, more native here than any of them."
@@ -904,8 +904,8 @@ translate ru strings:
     old "Pray...I don't even know if you do such a thing."
     new "Pray...I don't even know if you do such a thing."
 
-    old "Old Tribesman\" \"We have our own God, not your many. So yes, we pray."
-    new "Old Tribesman\" \"We have our own God, not your many. So yes, we pray."
+    old "We have our own God, not your many. So yes, we pray."
+    new "We have our own God, not your many. So yes, we pray."
 
     old "Close enough, Sarah thought as she sat down at the head of the table."
     new "Close enough, Sarah thought as she sat down at the head of the table."
@@ -916,8 +916,8 @@ translate ru strings:
     old "So...shall we settle this matter then?"
     new "So...shall we settle this matter then?"
 
-    old "Old Tribesman\" \"We begin with the sharing of food. The thing that binds all peoples of the world."
-    new "Old Tribesman\" \"We begin with the sharing of food. The thing that binds all peoples of the world."
+    old "We begin with the sharing of food. The thing that binds all peoples of the world."
+    new "We begin with the sharing of food. The thing that binds all peoples of the world."
 
     old "Passed around the table, various foods both native to Rosanna, and other strange, Tribal."
     new "Passed around the table, various foods both native to Rosanna, and other strange, Tribal."
@@ -946,50 +946,50 @@ translate ru strings:
     old "He looked about the table, the others distracted."
     new "He looked about the table, the others distracted."
 
-    old "Old Tribesman\" \"This brings me to the last issue at hand."
-    new "Old Tribesman\" \"This brings me to the last issue at hand."
+    old "This brings me to the last issue at hand."
+    new "This brings me to the last issue at hand."
 
-    old "Old Tribesman\" \"The ritual...well you understand some of my people's culture."
-    new "Old Tribesman\" \"The ritual...well you understand some of my people's culture."
+    old "The ritual...well you understand some of my people's culture."
+    new "The ritual...well you understand some of my people's culture."
 
-    old "Old Tribesman\" \"We are a warrior people. Strength...real or perceived...it is of great import."
-    new "Old Tribesman\" \"We are a warrior people. Strength...real or perceived...it is of great import."
+    old "We are a warrior people. Strength...real or perceived...it is of great import."
+    new "We are a warrior people. Strength...real or perceived...it is of great import."
 
     old "Sarah nodded. He could not afford to be made to look weak."
     new "Sarah nodded. He could not afford to be made to look weak."
 
-    old "Old Tribesman\" \"Good, because there is the issue of your...sex."
-    new "Old Tribesman\" \"Good, because there is the issue of your...sex."
+    old "Good, because there is the issue of your...sex."
+    new "Good, because there is the issue of your...sex."
 
     old "What does me being a woman have to do with anything?"
     new "What does me being a woman have to do with anything?"
 
-    old "Old Tribesman\" \"My people...we have no female warriors. Such things do not exist. It is an absurdity to my people."
-    new "Old Tribesman\" \"My people...we have no female warriors. Such things do not exist. It is an absurdity to my people."
+    old "My people...we have no female warriors. Such things do not exist. It is an absurdity to my people."
+    new "My people...we have no female warriors. Such things do not exist. It is an absurdity to my people."
 
-    old "Old Tribesman\" \"And to surrender to you...this I cannot do."
-    new "Old Tribesman\" \"And to surrender to you...this I cannot do."
+    old "And to surrender to you...this I cannot do."
+    new "And to surrender to you...this I cannot do."
 
     old "You promised! You said the words and-"
     new "You promised! You said the words and-"
 
-    old "Old Tribesman\" \"And I will keep my word."
-    new "Old Tribesman\" \"And I will keep my word."
+    old "And I will keep my word."
+    new "And I will keep my word."
 
-    old "Old Tribesman\" \"But I must show them that I gain more than I give."
-    new "Old Tribesman\" \"But I must show them that I gain more than I give."
+    old "But I must show them that I gain more than I give."
+    new "But I must show them that I gain more than I give."
 
-    old "Old Tribesman\" \"I must show them...that I do not yield to you...even as I surrender."
-    new "Old Tribesman\" \"I must show them...that I do not yield to you...even as I surrender."
+    old "I must show them...that I do not yield to you...even as I surrender."
+    new "I must show them...that I do not yield to you...even as I surrender."
 
-    old "Old Tribesman\" \"You will have to give yourself to me."
-    new "Old Tribesman\" \"You will have to give yourself to me."
+    old "You will have to give yourself to me."
+    new "You will have to give yourself to me."
 
     old "He shushed her."
     new "He shushed her."
 
-    old "Old Tribesman\" \"Be quiet, do not draw attention to us."
-    new "Old Tribesman\" \"Be quiet, do not draw attention to us."
+    old "Be quiet, do not draw attention to us."
+    new "Be quiet, do not draw attention to us."
 
     old "Sarah saw from the corner of her eye that the others went on celebrating, ignoring them."
     new "Sarah saw from the corner of her eye that the others went on celebrating, ignoring them."
@@ -997,11 +997,11 @@ translate ru strings:
     old "You want me to fuck you?! Are you out of your mind?!"
     new "You want me to fuck you?! Are you out of your mind?!"
 
-    old "Old Tribesman\" \"I must assert my dominance. I cannot be made to look weak by a woman."
-    new "Old Tribesman\" \"I must assert my dominance. I cannot be made to look weak by a woman."
+    old "I must assert my dominance. I cannot be made to look weak by a woman."
+    new "I must assert my dominance. I cannot be made to look weak by a woman."
 
-    old "Old Tribesman\" \"But if they see me take you..."
-    new "Old Tribesman\" \"But if they see me take you..."
+    old "But if they see me take you..."
+    new "But if they see me take you..."
 
     old "Sarah felt a growing rage, building in her chest."
     new "Sarah felt a growing rage, building in her chest."
@@ -1012,8 +1012,8 @@ translate ru strings:
     old "The Old Tribesman looked directly at her."
     new "The Old Tribesman looked directly at her."
 
-    old "Old Tribesman\" \"This will make them believe that you are yielding to me, and not the other way around."
-    new "Old Tribesman\" \"This will make them believe that you are yielding to me, and not the other way around."
+    old "This will make them believe that you are yielding to me, and not the other way around."
+    new "This will make them believe that you are yielding to me, and not the other way around."
 
     old "Sarah was shaking with anger."
     new "Sarah was shaking with anger."
@@ -1048,8 +1048,8 @@ translate ru strings:
     old "The Old Tribesman smiled."
     new "The Old Tribesman smiled."
 
-    old "Old Tribesman\" \"I knew you would be smart."
-    new "Old Tribesman\" \"I knew you would be smart."
+    old "I knew you would be smart."
+    new "I knew you would be smart."
 
     old "Smart, that's what he called her. If she had been so smart, then why did she end up in this situation?"
     new "Smart, that's what he called her. If she had been so smart, then why did she end up in this situation?"
@@ -1057,8 +1057,8 @@ translate ru strings:
     old "The Old Tribesman leaned in and whispered."
     new "The Old Tribesman leaned in and whispered."
 
-    old "Old Tribesman\" \"Play along as best as you can."
-    new "Old Tribesman\" \"Play along as best as you can."
+    old "Play along as best as you can."
+    new "Play along as best as you can."
 
     old "Then he stood up and adressed the Tribesmen."
     new "Then he stood up and adressed the Tribesmen."
@@ -1474,14 +1474,14 @@ translate ru strings:
     old "All the while, she saw their grinning and laughing faces, like twisted demons."
     new "All the while, she saw their grinning and laughing faces, like twisted demons."
 
-    old "Old Tribesman\" \"A cunt like this..."
-    new "Old Tribesman\" \"A cunt like this..."
+    old "A cunt like this..."
+    new "A cunt like this..."
 
     old "He breathed heavily as he continued to take her."
     new "He breathed heavily as he continued to take her."
 
-    old "Old Tribesman\" \"I can't deny them a taste."
-    new "Old Tribesman\" \"I can't deny them a taste."
+    old "I can't deny them a taste."
+    new "I can't deny them a taste."
 
     old "Only let him touch you"
     new "Only let him touch you"
@@ -1495,8 +1495,8 @@ translate ru strings:
     old "Some distant part of her mind, still in tact."
     new "Some distant part of her mind, still in tact."
 
-    old "Old Tribesman\" \"Fine, more for me."
-    new "Old Tribesman\" \"Fine, more for me."
+    old "Fine, more for me."
+    new "Fine, more for me."
 
     old "He quickened his pace, taking her faster and deeper than he had done until now."
     new "He quickened his pace, taking her faster and deeper than he had done until now."
@@ -1537,17 +1537,17 @@ translate ru strings:
     old "You...will honour your word?"
     new "You...will honour your word?"
 
-    old "Old Tribesman\" \"After that performance, none of them will call my retreat a surrender."
-    new "Old Tribesman\" \"After that performance, none of them will call my retreat a surrender."
+    old "After that performance, none of them will call my retreat a surrender."
+    new "After that performance, none of them will call my retreat a surrender."
 
     old "And what happened here..."
     new "And what happened here..."
 
-    old "Old Tribesman\" \"I'll say nothing of it, what do I care for the politics of your people?"
-    new "Old Tribesman\" \"I'll say nothing of it, what do I care for the politics of your people?"
+    old "I'll say nothing of it, what do I care for the politics of your people?"
+    new "I'll say nothing of it, what do I care for the politics of your people?"
 
-    old "Old Tribesman\" \"Just don't be surprised if a few years from now, you hear a bard sing a few songs."
-    new "Old Tribesman\" \"Just don't be surprised if a few years from now, you hear a bard sing a few songs."
+    old "Just don't be surprised if a few years from now, you hear a bard sing a few songs."
+    new "Just don't be surprised if a few years from now, you hear a bard sing a few songs."
 
     old "Sarah saw him grin and felt the shame burn all over again."
     new "Sarah saw him grin and felt the shame burn all over again."
@@ -1678,20 +1678,20 @@ translate ru strings:
     old "The Old Tribesman sighed."
     new "The Old Tribesman sighed."
 
-    old "Old Tribesman\" \"What then? War? Despite everything?"
-    new "Old Tribesman\" \"What then? War? Despite everything?"
+    old "What then? War? Despite everything?"
+    new "What then? War? Despite everything?"
 
     old "What if I offered you more gold."
     new "What if I offered you more gold."
 
-    old "Old Tribesman\" \"A gift is fitting, but-"
-    new "Old Tribesman\" \"A gift is fitting, but-"
+    old "A gift is fitting, but-"
+    new "A gift is fitting, but-"
 
     old "No, I mean...a lot more gold. As much as you can carry."
     new "No, I mean...a lot more gold. As much as you can carry."
 
-    old "Old Tribesman\" \"I...this could work."
-    new "Old Tribesman\" \"I...this could work."
+    old "I...this could work."
+    new "I...this could work."
 
     old "Sarah wondered if perhaps this had been his real idea all along."
     new "Sarah wondered if perhaps this had been his real idea all along."
@@ -1711,8 +1711,8 @@ translate ru strings:
     old "The Old Tribesman nodded."
     new "The Old Tribesman nodded."
 
-    old "Old Tribesman\" \"This...we can work out."
-    new "Old Tribesman\" \"This...we can work out."
+    old "This...we can work out."
+    new "This...we can work out."
 
     old "The two of them spend deep into the night, shaping the details of the exact deal."
     new "The two of them spend deep into the night, shaping the details of the exact deal."

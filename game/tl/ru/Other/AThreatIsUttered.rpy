@@ -19,8 +19,8 @@ translate ru strings:
     old "Sarah could see him slouched, waving disinterested at the crowd. And yet, even her brother seemed kingly when dressed up like this."
     new "Sarah could see him slouched, waving disinterested at the crowd. And yet, even her brother seemed kingly when dressed up like this."
 
-    old "Noble wife\" \"Aah, Princess, thank you for allowing us to attend, the castle looks incredible!"
-    new "Noble wife\" \"Aah, Princess, thank you for allowing us to attend, the castle looks incredible!"
+    old "Aah, Princess, thank you for allowing us to attend, the castle looks incredible!"
+    new "Aah, Princess, thank you for allowing us to attend, the castle looks incredible!"
 
     old "Sarah smiled and nodded."
     new "Sarah smiled and nodded."

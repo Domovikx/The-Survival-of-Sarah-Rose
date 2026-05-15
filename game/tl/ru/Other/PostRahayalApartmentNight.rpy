@@ -130,8 +130,8 @@ translate ru strings:
     old "Just before she approached the building, a young man walked up to her."
     new "Just before she approached the building, a young man walked up to her."
 
-    old "Young man\" \"I'm sorry, I think you dropped this."
-    new "Young man\" \"I'm sorry, I think you dropped this."
+    old "I'm sorry, I think you dropped this."
+    new "I'm sorry, I think you dropped this."
 
     old "I didn't drop anything."
     new "I didn't drop anything."
@@ -139,14 +139,14 @@ translate ru strings:
     old "He looked at her, sternly."
     new "He looked at her, sternly."
 
-    old "Young man\" \"I'm quite sure you did."
-    new "Young man\" \"I'm quite sure you did."
+    old "I'm quite sure you did."
+    new "I'm quite sure you did."
 
     old "He pushed a package into her hands."
     new "He pushed a package into her hands."
 
-    old "Young man\" \"Master Gilead told me to warn you, don't drop it."
-    new "Young man\" \"Master Gilead told me to warn you, don't drop it."
+    old "Master Gilead told me to warn you, don't drop it."
+    new "Master Gilead told me to warn you, don't drop it."
 
     old "With that, the young man took off."
     new "With that, the young man took off."

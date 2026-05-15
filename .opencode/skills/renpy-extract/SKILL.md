@@ -12,7 +12,7 @@ metadata:
 ## Overview
 
 Этот скил предоставляет инструменты для работы с переводами Ren'Py игр:
-1. **extract_texts.py** — извлечение текстов из оригинальных файлов
+1. **extract_texts.py** — извлечение текстов из оригинальных файлов в формат `translate ru strings:` (old/new)
 2. **split_translations.py** — декомпозиция переводов на части
 
 ## Структура данных
@@ -20,29 +20,31 @@ metadata:
 ### Оригинальная игра
 ```
 game/
-├── script.rpy          # Основной скрипт (36k строк перевода)
+├── script.rpy          # Основной скрипт (66k+ блоков перевода)
 ├── screens.rpy         # Экраны
 ├── options.rpy         # Опции
-├── characters.rpy      # Персонажи
+├── prosalaric.rpy      # Персонажи / мировая информация
 ├── gui.rpy             # UI
 ├── language.rpy        # Язык
-├── libs/               # Библиотеки
-└── tl/ru/              # Текущие переводы (устаревшие)
+├── language_switcher.rpy
+├── new_gallery.rpy     # Галерея
+├── art.rpy             # Арт
+└── tl/ru/              # Сгенерированные переводы
 ```
 
-### Целевая структура для переводов
+### Структура переводов (генерируется)
 ```
 game/tl/ru/
-├── source/                               # Извлечённые оригиналы (для перевода)
-│   └── Prologue/
-│       ├── OpeningScene.rpy
-│       ├── OpeningSceneEvening.rpy
-│       └── ...
-│   └── WarriorPath/
-├── script/                               # Существующие переводы
-│   └── split/
-│       └── Prologue/
-└── *.rpy                                 # Корневые переводы (screens, options, etc.)
+├── Prologue/
+│   ├── OpeningScene.rpy
+│   ├── OpeningSceneEvening.rpy
+│   └── ...
+├── WarriorPath/
+├── MagePath/
+├── SailorPath/
+├── ... (19 арок)
+├── screens.rpy          # UI-строки
+└── misc_strings.rpy     # Имена персонажей + define строки
 ```
 
 ## extract_texts.py
@@ -50,37 +52,51 @@ game/tl/ru/
 ### Использование
 
 ```bash
-# Извлечение всех текстов (автоматически определяет пути)
-python extract_texts.py
-
-# С указанием путей
-python extract_texts.py /path/to/game /path/to/output
+python extract_texts.py extract    # Извлечение текстов
+python extract_texts.py verify     # Проверка целостности
+python extract_texts.py stats      # Статистика переводов
 ```
 
-### Выходной формат: Ren'Py
+### Выходной формат
 
 ```
-tl/raw/renpy_format/{ArcName}/{SceneName}.rpy
+game/tl/ru/{ArcName}/{SceneName}.rpy
 ```
 
 Пример файла:
 
 ```rpy
 # -*- encoding: utf-8 -*-
-# Extracted from: .../script.rpy
-# Scene: OpeningScene
-# Total blocks: 23
+# Arc: Prologue | Scene: OpeningScene
+# Source: .../script.rpy
 
-# OpeningScene_5c73d663 (line 333)
-translate ru OpeningScene_5c73d663:
-    # "King Orwell has returned from his travels..."
-    ""
+translate ru strings:
 
-# OpeningScene_ddeb1da1 (line 336)
-translate ru OpeningScene_ddeb1da1:
-    # ko "Finally, home again."
-    ko ""
+    old "King Orwell has returned from his travels..."
+    new "King Orwell has returned from his travels..."
+
+    old "Finally, home again."
+    new "Finally, home again."
 ```
+
+### Типы блоков
+
+| Тип | Описание | Куда попадает |
+|-----|----------|---------------|
+| `dialogue` | Реплика персонажа: `Character "text"` или `"Character" "text"` | В файл арки/сцены |
+| `narration` | Нарратив: `"text"` (одиночные кавычки) | В файл арки/сцены |
+| `menu_choice` | Вариант меню: `"Choice":` | В файл арки/сцены |
+| `ui_string` | Строка интерфейса: `_("text")` | `screens.rpy` |
+| `character_name` | Имя персонажа: `Character(_("Name"), ...)` или `"Name" "text"` | `misc_strings.rpy` |
+| `define_string` | Define: `define x = _("text")` | `misc_strings.rpy` |
+
+### Особенности: `"Character" "text"`
+
+Диалоги в формате `"Character" "text"` (имя персонажа в кавычках) корректно разделяются:
+- Текст реплики идёт в файл сцены как `dialogue`
+- Имя персонажа автоматически добавляется в `character_blocks` и попадает в `misc_strings.rpy` как переводимое имя
+
+Это решает проблему, когда `Barkeeper` или другие quoted-персонажи отсутствовали в character names.
 
 ### Структура арок
 
@@ -97,47 +113,29 @@ translate ru OpeningScene_ddeb1da1:
 | Training | TrainingPathKate, TrainingPathCaleb, TrainingPathAtilla |
 | StoryBeginnings | DayOfTheFuneral, MeetingOnTheBattlements, etc. |
 
-### Важно: Menu choices
+### Дедупликация
 
-Menu choices (варианты меню) извлекаются в блок `translate strings:` (ui_strings), а НЕ в scene-файлы. Это необходимо для корректной работы перевода меню в Ren'Py.
-
-```rpy
-# В screens.rpy:
-translate ru strings:
-    old "Pressure him."
-    new "Давить на него."
-```
-
-## ID блоков
-
-Формат: `{label}_{8-char-hash}`
-
-- `label` — имя лейбла сцены
-- `8-char-hash` — MD5 хэш (файл:строка:текст)
-
-Пример: `OpeningScene_5c73d663`
-
-Важно: ID нельзя менять — Ren'Py использует их для сопоставления перевода с оригиналом.
+Блоки дедуплицируются глобально по тексту оригинала (normalized strip). Если одна и та же фраза встречается в разных сценах, она попадёт только в первый встреченный файл (по алфавиту). Скрипт `renpy-dedup` очищает дубликаты в `tl/ru/`.
 
 ## Workflow
 
 ```
-1. extract_texts.py → Извлечение оригинала в game/tl/ru/raw/renpy_format/
-2. Переводчики работают с файлами .rpy в arc/сценах
-3. Перевод подставляется в пустые кавычки ""
-4. Финальные файлы копируются в game/tl/ru/script/split/
+1. python extract_texts.py extract   → Извлечение всех текстов в game/tl/ru/
+2. Переводчики редактируют new "..." в файлах арк
+3. python extract_texts.py verify    → Проверка прогресса
+4. Запуск dedup при необходимости    → dedup_translations.py
 ```
 
-## Проверка консистентности (TODO)
+## Проверка консистентности
 
 ```bash
 python extract_texts.py verify
 ```
 
-Проверяет:
-- Все ли блоки переведены
-- Нет ли дубликатов ID
-- Совпадение количества строк с оригиналом
+Выводит:
+- Total strings
+- Translated / Untranslated
+- Progress percentage
 
 ## Источники
 

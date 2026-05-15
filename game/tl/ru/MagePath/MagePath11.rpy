@@ -25,8 +25,8 @@ translate ru strings:
     old "One man marched at the front of the soldiers. His armor was covered in intricate designs, seperating him from the ordinary soldiers."
     new "One man marched at the front of the soldiers. His armor was covered in intricate designs, seperating him from the ordinary soldiers."
 
-    old "Mythran Prince\" \"The least you can do is die with some honour."
-    new "Mythran Prince\" \"The least you can do is die with some honour."
+    old "The least you can do is die with some honour."
+    new "The least you can do is die with some honour."
 
     old "Following after him, was his daughter Samayra."
     new "Following after him, was his daughter Samayra."
@@ -49,8 +49,8 @@ translate ru strings:
     old "The Mythran prince raised one eyebrow."
     new "The Mythran prince raised one eyebrow."
 
-    old "Mythran Prince\" \"What trouble is any of this to your order?"
-    new "Mythran Prince\" \"What trouble is any of this to your order?"
+    old "What trouble is any of this to your order?"
+    new "What trouble is any of this to your order?"
 
     old "The royal family of Bagrad has been true friends to our order for centuries, and so we wish to facilitate a graceful surrender."
     new "The royal family of Bagrad has been true friends to our order for centuries, and so we wish to facilitate a graceful surrender."
@@ -58,20 +58,20 @@ translate ru strings:
     old "The Mythran prince laughed, his voice echoing through the vast throne room."
     new "The Mythran prince laughed, his voice echoing through the vast throne room."
 
-    old "Mythran Prince\" \"Where was this concern for protocol and politeness when that decrepit creature stabbed my nephew to death?"
-    new "Mythran Prince\" \"Where was this concern for protocol and politeness when that decrepit creature stabbed my nephew to death?"
+    old "Where was this concern for protocol and politeness when that decrepit creature stabbed my nephew to death?"
+    new "Where was this concern for protocol and politeness when that decrepit creature stabbed my nephew to death?"
 
-    old "Mythran Prince\" \"Over what was it, again Shah? A rude comment?"
-    new "Mythran Prince\" \"Over what was it, again Shah? A rude comment?"
+    old "Over what was it, again Shah? A rude comment?"
+    new "Over what was it, again Shah? A rude comment?"
 
     old "The Mythran Prince shook his head."
     new "The Mythran Prince shook his head."
 
-    old "Mythran Prince\" \"No, I think I'll do whatever I want to them, as is my right by conquest. And your order can go back to ignoring whatever else happens in the world."
-    new "Mythran Prince\" \"No, I think I'll do whatever I want to them, as is my right by conquest. And your order can go back to ignoring whatever else happens in the world."
+    old "No, I think I'll do whatever I want to them, as is my right by conquest. And your order can go back to ignoring whatever else happens in the world."
+    new "No, I think I'll do whatever I want to them, as is my right by conquest. And your order can go back to ignoring whatever else happens in the world."
 
-    old "Mythran Prince\" \"He'll die slowly and violently. As for his daughter, she'll make for a fine reward for my men and I'll sell her off on some slave market after."
-    new "Mythran Prince\" \"He'll die slowly and violently. As for his daughter, she'll make for a fine reward for my men and I'll sell her off on some slave market after."
+    old "He'll die slowly and violently. As for his daughter, she'll make for a fine reward for my men and I'll sell her off on some slave market after."
+    new "He'll die slowly and violently. As for his daughter, she'll make for a fine reward for my men and I'll sell her off on some slave market after."
 
     old "I warn you, if you try to do so, you leave me no choice but to intercede."
     new "I warn you, if you try to do so, you leave me no choice but to intercede."
@@ -79,29 +79,29 @@ translate ru strings:
     old "Again, the Mythran prince could only laugh."
     new "Again, the Mythran prince could only laugh."
 
-    old "Mythran Prince\" \"Really? I'd advise you to think about that again."
-    new "Mythran Prince\" \"Really? I'd advise you to think about that again."
+    old "Really? I'd advise you to think about that again."
+    new "Really? I'd advise you to think about that again."
 
-    old "Mythran Prince\" \"Right now, you and your associate there are simply mages, and by Mythran policy, we take a position of neutrality on your order."
-    new "Mythran Prince\" \"Right now, you and your associate there are simply mages, and by Mythran policy, we take a position of neutrality on your order."
+    old "Right now, you and your associate there are simply mages, and by Mythran policy, we take a position of neutrality on your order."
+    new "Right now, you and your associate there are simply mages, and by Mythran policy, we take a position of neutrality on your order."
 
-    old "Mythran Prince\" \"That means you're free to leave. Even if I suspect you probably killed more than a few of my men."
-    new "Mythran Prince\" \"That means you're free to leave. Even if I suspect you probably killed more than a few of my men."
+    old "That means you're free to leave. Even if I suspect you probably killed more than a few of my men."
+    new "That means you're free to leave. Even if I suspect you probably killed more than a few of my men."
 
-    old "Mythran Prince\" \"But my soldiers here are well trained, seasoned and armed to the teeth. There are even some anti-magic weapons among their ranks."
-    new "Mythran Prince\" \"But my soldiers here are well trained, seasoned and armed to the teeth. There are even some anti-magic weapons among their ranks."
+    old "But my soldiers here are well trained, seasoned and armed to the teeth. There are even some anti-magic weapons among their ranks."
+    new "But my soldiers here are well trained, seasoned and armed to the teeth. There are even some anti-magic weapons among their ranks."
 
-    old "Mythran Prince\" \"You wouldn't be the first mage we killed either..."
-    new "Mythran Prince\" \"You wouldn't be the first mage we killed either..."
+    old "You wouldn't be the first mage we killed either..."
+    new "You wouldn't be the first mage we killed either..."
 
     old "The prince stared directly at Xan."
     new "The prince stared directly at Xan."
 
-    old "Mythran Prince\" \"So, raise your hand, and I'll just as easily kill you and your apprentice."
-    new "Mythran Prince\" \"So, raise your hand, and I'll just as easily kill you and your apprentice."
+    old "So, raise your hand, and I'll just as easily kill you and your apprentice."
+    new "So, raise your hand, and I'll just as easily kill you and your apprentice."
 
-    old "Mythran Prince\" \"Or...simply walk away, and you have my word, nobody will so much as lay a hand on you."
-    new "Mythran Prince\" \"Or...simply walk away, and you have my word, nobody will so much as lay a hand on you."
+    old "Or...simply walk away, and you have my word, nobody will so much as lay a hand on you."
+    new "Or...simply walk away, and you have my word, nobody will so much as lay a hand on you."
 
     old "Xan turned to Sarah and spoke in whispers."
     new "Xan turned to Sarah and spoke in whispers."
@@ -151,8 +151,8 @@ translate ru strings:
     old "The Shah's imperious voice cut through the room, all attention centering on him."
     new "The Shah's imperious voice cut through the room, all attention centering on him."
 
-    old "Mythran Prince\" \"Aah! It speaks, finally."
-    new "Mythran Prince\" \"Aah! It speaks, finally."
+    old "Aah! It speaks, finally."
+    new "Aah! It speaks, finally."
 
     old "The Mythran prince laughed as he spoke, mocking the Shah."
     new "The Mythran prince laughed as he spoke, mocking the Shah."
@@ -214,8 +214,8 @@ translate ru strings:
     old "But you see, my dynasty hails back centuries, and we have more allies than your decrepit order."
     new "But you see, my dynasty hails back centuries, and we have more allies than your decrepit order."
 
-    old "Mythran Prince\" \"Enough of this blabber, soldiers! Seize him!"
-    new "Mythran Prince\" \"Enough of this blabber, soldiers! Seize him!"
+    old "Enough of this blabber, soldiers! Seize him!"
+    new "Enough of this blabber, soldiers! Seize him!"
 
     old "Sarah watched as the Shah removed an object from his pockets."
     new "Sarah watched as the Shah removed an object from his pockets."

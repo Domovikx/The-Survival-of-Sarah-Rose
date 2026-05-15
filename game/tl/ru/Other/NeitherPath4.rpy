@@ -181,8 +181,8 @@ translate ru strings:
     old "We found this...spy, infiltrating the castle supply room."
     new "We found this...spy, infiltrating the castle supply room."
 
-    old "Peasant girl\" \"I'm not a spy!"
-    new "Peasant girl\" \"I'm not a spy!"
+    old "I'm not a spy!"
+    new "I'm not a spy!"
 
     old "Off to her left, Sarah could see lady Carolyn, the same entertained smile on her face she always had, like she'd recalled a joke she wasn't about to share."
     new "Off to her left, Sarah could see lady Carolyn, the same entertained smile on her face she always had, like she'd recalled a joke she wasn't about to share."
@@ -208,11 +208,11 @@ translate ru strings:
     old "She could see the girl was trying to avoid meeting her gaze. She was no doubt scared out of her mind."
     new "She could see the girl was trying to avoid meeting her gaze. She was no doubt scared out of her mind."
 
-    old "Peasant girl\" \"My...my lady...it's...some of it's true, yes, but not how he suggests it!"
-    new "Peasant girl\" \"My...my lady...it's...some of it's true, yes, but not how he suggests it!"
+    old "My...my lady...it's...some of it's true, yes, but not how he suggests it!"
+    new "My...my lady...it's...some of it's true, yes, but not how he suggests it!"
 
-    old "Peasant girl\" \"It's true that I was in the kitchen when I wasn't supposed to be, but I'm a servant in the castle!"
-    new "Peasant girl\" \"It's true that I was in the kitchen when I wasn't supposed to be, but I'm a servant in the castle!"
+    old "It's true that I was in the kitchen when I wasn't supposed to be, but I'm a servant in the castle!"
+    new "It's true that I was in the kitchen when I wasn't supposed to be, but I'm a servant in the castle!"
 
     old "Are servants supposed to rob the food storage rooms?"
     new "Are servants supposed to rob the food storage rooms?"
@@ -220,8 +220,8 @@ translate ru strings:
     old "The girl turned her face down."
     new "The girl turned her face down."
 
-    old "Peasant girl\" \"No...your highness...but..."
-    new "Peasant girl\" \"No...your highness...but..."
+    old "No...your highness...but..."
+    new "No...your highness...but..."
 
     old "Sarah sighed. She had more to deal with than just this today."
     new "Sarah sighed. She had more to deal with than just this today."
@@ -229,8 +229,8 @@ translate ru strings:
     old "Out with it, please."
     new "Out with it, please."
 
-    old "Peasant girl\" \"Well...I hadn't eaten in days..."
-    new "Peasant girl\" \"Well...I hadn't eaten in days..."
+    old "Well...I hadn't eaten in days..."
+    new "Well...I hadn't eaten in days..."
 
     old "If you work as a servant, you are paid a fair wage, are you not?"
     new "If you work as a servant, you are paid a fair wage, are you not?"
@@ -241,29 +241,29 @@ translate ru strings:
     old "Then couldn't you use your wages to buy food at the market."
     new "Then couldn't you use your wages to buy food at the market."
 
-    old "Peasant girl\" \"But your grace..."
-    new "Peasant girl\" \"But your grace..."
+    old "But your grace..."
+    new "But your grace..."
 
-    old "Peasant girl\" \"Ever since the war...the roads have become dangerous."
-    new "Peasant girl\" \"Ever since the war...the roads have become dangerous."
+    old "Ever since the war...the roads have become dangerous."
+    new "Ever since the war...the roads have become dangerous."
 
-    old "Peasant girl\" \"There aren't nearly as many merchants coming to market as before, and many farmers have held onto their food, fearing what the future might bring."
-    new "Peasant girl\" \"There aren't nearly as many merchants coming to market as before, and many farmers have held onto their food, fearing what the future might bring."
+    old "There aren't nearly as many merchants coming to market as before, and many farmers have held onto their food, fearing what the future might bring."
+    new "There aren't nearly as many merchants coming to market as before, and many farmers have held onto their food, fearing what the future might bring."
 
     old "The girl suddenly stepped forward."
     new "The girl suddenly stepped forward."
 
-    old "Peasant girl\" \"You grace, the prices of food have only gone up for weeks now."
-    new "Peasant girl\" \"You grace, the prices of food have only gone up for weeks now."
+    old "You grace, the prices of food have only gone up for weeks now."
+    new "You grace, the prices of food have only gone up for weeks now."
 
-    old "Peasant girl\" \"My wages...they used to be enough, but now, each week, it affords me and my family less and less."
-    new "Peasant girl\" \"My wages...they used to be enough, but now, each week, it affords me and my family less and less."
+    old "My wages...they used to be enough, but now, each week, it affords me and my family less and less."
+    new "My wages...they used to be enough, but now, each week, it affords me and my family less and less."
 
-    old "Peasant girl\" \"My husband has been drafted up into the army..."
-    new "Peasant girl\" \"My husband has been drafted up into the army..."
+    old "My husband has been drafted up into the army..."
+    new "My husband has been drafted up into the army..."
 
-    old "Peasant girl\" \"I'm the only one left to provide for my children..."
-    new "Peasant girl\" \"I'm the only one left to provide for my children..."
+    old "I'm the only one left to provide for my children..."
+    new "I'm the only one left to provide for my children..."
 
     old "The girl's voice slowly dwindled."
     new "The girl's voice slowly dwindled."
@@ -376,8 +376,8 @@ translate ru strings:
     old "Guard, take her out back and give her five lashes."
     new "Guard, take her out back and give her five lashes."
 
-    old "Peasant girl\" \"No! Please! I promise I won't ever do it again!"
-    new "Peasant girl\" \"No! Please! I promise I won't ever do it again!"
+    old "No! Please! I promise I won't ever do it again!"
+    new "No! Please! I promise I won't ever do it again!"
 
     old "But it was too late for pleading now. The sentence had been spoken and there would be no going back."
     new "But it was too late for pleading now. The sentence had been spoken and there would be no going back."
@@ -427,17 +427,17 @@ translate ru strings:
     old "If you promise me this, then we can forget about this. But if you are ever caught again, there will be hell to pay, do you understand?"
     new "If you promise me this, then we can forget about this. But if you are ever caught again, there will be hell to pay, do you understand?"
 
-    old "Peasant girl\" \"Yes!"
-    new "Peasant girl\" \"Yes!"
+    old "Yes!"
+    new "Yes!"
 
     old "The girl nearly screamed out the word."
     new "The girl nearly screamed out the word."
 
-    old "Peasant girl\" \"I promise I will never again do something so foolish."
-    new "Peasant girl\" \"I promise I will never again do something so foolish."
+    old "I promise I will never again do something so foolish."
+    new "I promise I will never again do something so foolish."
 
-    old "Peasant girl\" \"Thank you, lady Rose, I will remember your mercy for as long as I live!"
-    new "Peasant girl\" \"Thank you, lady Rose, I will remember your mercy for as long as I live!"
+    old "Thank you, lady Rose, I will remember your mercy for as long as I live!"
+    new "Thank you, lady Rose, I will remember your mercy for as long as I live!"
 
     old "Sarah waved her hand, signalling she was done with the matter."
     new "Sarah waved her hand, signalling she was done with the matter."
@@ -1065,9 +1065,6 @@ translate ru strings:
 
     old "Ooh, had enough have you?"
     new "Ooh, had enough have you?"
-
-    old "Yes!"
-    new "Yes!"
 
     old "I've given you two lashes, and you ordered that girl to suffer five."
     new "I've given you two lashes, and you ordered that girl to suffer five."

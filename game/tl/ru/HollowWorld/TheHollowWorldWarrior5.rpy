@@ -253,8 +253,8 @@ translate ru strings:
     old "Had her eyes always been so angry?"
     new "Had her eyes always been so angry?"
 
-    old "Ragged Man\" \"Don't worry child. What is carved in, can be carved out."
-    new "Ragged Man\" \"Don't worry child. What is carved in, can be carved out."
+    old "Don't worry child. What is carved in, can be carved out."
+    new "Don't worry child. What is carved in, can be carved out."
 
     old "Sarah flinched, turning instantly towards the source of the voice."
     new "Sarah flinched, turning instantly towards the source of the voice."
@@ -271,8 +271,8 @@ translate ru strings:
     old "The man made no motion suggesting he planned to move."
     new "The man made no motion suggesting he planned to move."
 
-    old "Ragged Man\" \"No need to waste your time learning my name, child. I am of no importance, and I am not long for this world."
-    new "Ragged Man\" \"No need to waste your time learning my name, child. I am of no importance, and I am not long for this world."
+    old "No need to waste your time learning my name, child. I am of no importance, and I am not long for this world."
+    new "No need to waste your time learning my name, child. I am of no importance, and I am not long for this world."
 
     old "A softness echoed through his voice. Sarah presumed he was male, but she could not be certain, so frail his body and so wrapped in gaze."
     new "A softness echoed through his voice. Sarah presumed he was male, but she could not be certain, so frail his body and so wrapped in gaze."
@@ -283,14 +283,14 @@ translate ru strings:
     old "A laughter, interbroken with a choking sound from his lungs could be heard throughout the cave."
     new "A laughter, interbroken with a choking sound from his lungs could be heard throughout the cave."
 
-    old "Ragged Man\" \"We often find what we're not looking for."
-    new "Ragged Man\" \"We often find what we're not looking for."
+    old "We often find what we're not looking for."
+    new "We often find what we're not looking for."
 
     old "He gestured around the cave."
     new "He gestured around the cave."
 
-    old "Ragged Man\" \"You sought for water, and now you have found it. And perhaps a bit more."
-    new "Ragged Man\" \"You sought for water, and now you have found it. And perhaps a bit more."
+    old "You sought for water, and now you have found it. And perhaps a bit more."
+    new "You sought for water, and now you have found it. And perhaps a bit more."
 
     old "Sarah watched the man, cornered in the shadow, the light danced all around the cave but seemed to avoid him."
     new "Sarah watched the man, cornered in the shadow, the light danced all around the cave but seemed to avoid him."
@@ -301,8 +301,8 @@ translate ru strings:
     old "Another broken laugh emerged from the ragged man."
     new "Another broken laugh emerged from the ragged man."
 
-    old "Ragged Man\" \"How violent you have become over the years, my child. You used to be so gentle."
-    new "Ragged Man\" \"How violent you have become over the years, my child. You used to be so gentle."
+    old "How violent you have become over the years, my child. You used to be so gentle."
+    new "How violent you have become over the years, my child. You used to be so gentle."
 
     old "Sarah narrowed her eyes."
     new "Sarah narrowed her eyes."
@@ -310,17 +310,17 @@ translate ru strings:
     old "You don't know me."
     new "You don't know me."
 
-    old "Ragged Man\" \"I don't know you, but I have friends that do."
-    new "Ragged Man\" \"I don't know you, but I have friends that do."
+    old "I don't know you, but I have friends that do."
+    new "I don't know you, but I have friends that do."
 
     old "And who might that be?"
     new "And who might that be?"
 
-    old "Ragged Man\" \"Altyaehr, the Craftsman. Vaeda, the Birth-Mother. Naelyon, the Huntsman."
-    new "Ragged Man\" \"Altyaehr, the Craftsman. Vaeda, the Birth-Mother. Naelyon, the Huntsman."
+    old "Altyaehr, the Craftsman. Vaeda, the Birth-Mother. Naelyon, the Huntsman."
+    new "Altyaehr, the Craftsman. Vaeda, the Birth-Mother. Naelyon, the Huntsman."
 
-    old "Ragged Man\" \"My list of friends is long. Must I go on?"
-    new "Ragged Man\" \"My list of friends is long. Must I go on?"
+    old "My list of friends is long. Must I go on?"
+    new "My list of friends is long. Must I go on?"
 
     old "Sarah recognized the names. Names from the pantheon of gods. In total, there were more than two-hundred names, but these were the most prominent names."
     new "Sarah recognized the names. Names from the pantheon of gods. In total, there were more than two-hundred names, but these were the most prominent names."
@@ -334,17 +334,17 @@ translate ru strings:
     old "Emerging from behind his cloth bindings, a smile of shattered teeth."
     new "Emerging from behind his cloth bindings, a smile of shattered teeth."
 
-    old "Ragged Man\" \"Not a madman, only a messenger who has been waiting here for a long time to deliver it."
-    new "Ragged Man\" \"Not a madman, only a messenger who has been waiting here for a long time to deliver it."
+    old "Not a madman, only a messenger who has been waiting here for a long time to deliver it."
+    new "Not a madman, only a messenger who has been waiting here for a long time to deliver it."
 
-    old "Ragged Man\" \"Forgive me if my manners have failed over the years."
-    new "Ragged Man\" \"Forgive me if my manners have failed over the years."
+    old "Forgive me if my manners have failed over the years."
+    new "Forgive me if my manners have failed over the years."
 
     old "Years?"
     new "Years?"
 
-    old "Ragged Man\" \"Ooh, I can't say, but I suppose it must be close to two decades by now since I first came here."
-    new "Ragged Man\" \"Ooh, I can't say, but I suppose it must be close to two decades by now since I first came here."
+    old "Ooh, I can't say, but I suppose it must be close to two decades by now since I first came here."
+    new "Ooh, I can't say, but I suppose it must be close to two decades by now since I first came here."
 
     old "Sarah only saw water here. Even with that, he couldn't have survived for that long out here."
     new "Sarah only saw water here. Even with that, he couldn't have survived for that long out here."
@@ -355,8 +355,8 @@ translate ru strings:
     old "The man gestured towards the pool of water."
     new "The man gestured towards the pool of water."
 
-    old "Ragged Man\" \"The water provides all that I might need."
-    new "Ragged Man\" \"The water provides all that I might need."
+    old "The water provides all that I might need."
+    new "The water provides all that I might need."
 
     old "Sarah wanted to dispute the man, but she couldn't deny that it was strange that he had survived here."
     new "Sarah wanted to dispute the man, but she couldn't deny that it was strange that he had survived here."
@@ -367,50 +367,50 @@ translate ru strings:
     old "How can you live off just water for two decades?"
     new "How can you live off just water for two decades?"
 
-    old "Ragged Man\" \"A gift, from my friends. Or perhaps payment for my services now rendered."
-    new "Ragged Man\" \"A gift, from my friends. Or perhaps payment for my services now rendered."
+    old "A gift, from my friends. Or perhaps payment for my services now rendered."
+    new "A gift, from my friends. Or perhaps payment for my services now rendered."
 
-    old "Ragged Man\" \"Who knows, it's been so long living in this hollow world."
-    new "Ragged Man\" \"Who knows, it's been so long living in this hollow world."
+    old "Who knows, it's been so long living in this hollow world."
+    new "Who knows, it's been so long living in this hollow world."
 
     old "The man smiled his broken smile again."
     new "The man smiled his broken smile again."
 
-    old "Ragged Man\" \"Yes, it's been a long, long time since I came here."
-    new "Ragged Man\" \"Yes, it's been a long, long time since I came here."
+    old "Yes, it's been a long, long time since I came here."
+    new "Yes, it's been a long, long time since I came here."
 
-    old "Ragged Man\" \"Back when there were still caravans travelling these parts, few as they were."
-    new "Ragged Man\" \"Back when there were still caravans travelling these parts, few as they were."
+    old "Back when there were still caravans travelling these parts, few as they were."
+    new "Back when there were still caravans travelling these parts, few as they were."
 
-    old "Ragged Man\" \"My master, a great merchant, had a beautiful daughter, and she very much thought the same of me."
-    new "Ragged Man\" \"My master, a great merchant, had a beautiful daughter, and she very much thought the same of me."
+    old "My master, a great merchant, had a beautiful daughter, and she very much thought the same of me."
+    new "My master, a great merchant, had a beautiful daughter, and she very much thought the same of me."
 
-    old "Ragged Man\" \"But her father did not approve."
-    new "Ragged Man\" \"But her father did not approve."
+    old "But her father did not approve."
+    new "But her father did not approve."
 
-    old "Ragged Man\" \"Approved less when we acted upon our desires."
-    new "Ragged Man\" \"Approved less when we acted upon our desires."
+    old "Approved less when we acted upon our desires."
+    new "Approved less when we acted upon our desires."
 
     old "Sarah watched the man pull his hand over his scalp, as if to soothe himself."
     new "Sarah watched the man pull his hand over his scalp, as if to soothe himself."
 
-    old "Ragged Man\" \"Drove me out of the caravan, hunted me for a little bit, but then I suppose they decided the desert could finish what they failed to do."
-    new "Ragged Man\" \"Drove me out of the caravan, hunted me for a little bit, but then I suppose they decided the desert could finish what they failed to do."
+    old "Drove me out of the caravan, hunted me for a little bit, but then I suppose they decided the desert could finish what they failed to do."
+    new "Drove me out of the caravan, hunted me for a little bit, but then I suppose they decided the desert could finish what they failed to do."
 
-    old "Ragged Man\" \"I wandered the desert for a few days before I came upon this cave."
-    new "Ragged Man\" \"I wandered the desert for a few days before I came upon this cave."
+    old "I wandered the desert for a few days before I came upon this cave."
+    new "I wandered the desert for a few days before I came upon this cave."
 
-    old "Ragged Man\" \"As I entered, the water awaited me, and the voice spoke the words I needed to carry to you."
-    new "Ragged Man\" \"As I entered, the water awaited me, and the voice spoke the words I needed to carry to you."
+    old "As I entered, the water awaited me, and the voice spoke the words I needed to carry to you."
+    new "As I entered, the water awaited me, and the voice spoke the words I needed to carry to you."
 
-    old "Ragged Man\" \"Deep in the desert, no way out, but here I could live."
-    new "Ragged Man\" \"Deep in the desert, no way out, but here I could live."
+    old "Deep in the desert, no way out, but here I could live."
+    new "Deep in the desert, no way out, but here I could live."
 
     old "The man shrugged."
     new "The man shrugged."
 
-    old "Ragged Man\" \"Some would have chosen to die, but I suppose, I quite like being alive. And so I drink the water, and I am sustained."
-    new "Ragged Man\" \"Some would have chosen to die, but I suppose, I quite like being alive. And so I drink the water, and I am sustained."
+    old "Some would have chosen to die, but I suppose, I quite like being alive. And so I drink the water, and I am sustained."
+    new "Some would have chosen to die, but I suppose, I quite like being alive. And so I drink the water, and I am sustained."
 
     old "Sarah's eyes drifted across his broken body. She wasn't sure if sustained was the right word."
     new "Sarah's eyes drifted across his broken body. She wasn't sure if sustained was the right word."
@@ -421,8 +421,8 @@ translate ru strings:
     old "The ragged man shook his head."
     new "The ragged man shook his head."
 
-    old "Ragged Man\" \"Not magic. Divine."
-    new "Ragged Man\" \"Not magic. Divine."
+    old "Not magic. Divine."
+    new "Not magic. Divine."
 
     old "Sarah sighed, frustrated at his obscurantism."
     new "Sarah sighed, frustrated at his obscurantism."
@@ -433,26 +433,26 @@ translate ru strings:
     old "The ragged man laughed again, his voice echoing through the cave."
     new "The ragged man laughed again, his voice echoing through the cave."
 
-    old "Ragged Man\" \"Considering all, it is but a small message. A warning."
-    new "Ragged Man\" \"Considering all, it is but a small message. A warning."
+    old "Considering all, it is but a small message. A warning."
+    new "Considering all, it is but a small message. A warning."
 
-    old "Ragged Man\" \"Yes, my friends hold you in good favor. They look upon you with kindness and wish that you return to the path."
-    new "Ragged Man\" \"Yes, my friends hold you in good favor. They look upon you with kindness and wish that you return to the path."
+    old "Yes, my friends hold you in good favor. They look upon you with kindness and wish that you return to the path."
+    new "Yes, my friends hold you in good favor. They look upon you with kindness and wish that you return to the path."
 
     old "The path?"
     new "The path?"
 
-    old "Ragged Man\" \"Yes, the path."
-    new "Ragged Man\" \"Yes, the path."
+    old "Yes, the path."
+    new "Yes, the path."
 
     old "I am on a path, towards a city. How is that not a path?"
     new "I am on a path, towards a city. How is that not a path?"
 
-    old "Ragged Man\" \"They have lost sight of you."
-    new "Ragged Man\" \"They have lost sight of you."
+    old "They have lost sight of you."
+    new "They have lost sight of you."
 
-    old "Ragged Man\" \"You are special among specials, and they fear losing you more than most."
-    new "Ragged Man\" \"You are special among specials, and they fear losing you more than most."
+    old "You are special among specials, and they fear losing you more than most."
+    new "You are special among specials, and they fear losing you more than most."
 
     old "I...are you talking about breaking the edicts of the gods?"
     new "I...are you talking about breaking the edicts of the gods?"
@@ -463,11 +463,11 @@ translate ru strings:
     old "The man laughed, again and again."
     new "The man laughed, again and again."
 
-    old "Ragged Man\" \"No, child. Their edicts do not take hold on you."
-    new "Ragged Man\" \"No, child. Their edicts do not take hold on you."
+    old "No, child. Their edicts do not take hold on you."
+    new "No, child. Their edicts do not take hold on you."
 
-    old "Ragged Man\" \"They fear what all parents fear, to lose sight of their child. They urge you to turn away from this path to nothingness."
-    new "Ragged Man\" \"They fear what all parents fear, to lose sight of their child. They urge you to turn away from this path to nothingness."
+    old "They fear what all parents fear, to lose sight of their child. They urge you to turn away from this path to nothingness."
+    new "They fear what all parents fear, to lose sight of their child. They urge you to turn away from this path to nothingness."
 
     old "Well, you've wasted a good deal of my time."
     new "Well, you've wasted a good deal of my time."
@@ -475,29 +475,29 @@ translate ru strings:
     old "I have no idea what any of this means, nor do I have any desire to find out."
     new "I have no idea what any of this means, nor do I have any desire to find out."
 
-    old "Ragged Man\" \"I was burdened with carrying the words, not their meaning."
-    new "Ragged Man\" \"I was burdened with carrying the words, not their meaning."
+    old "I was burdened with carrying the words, not their meaning."
+    new "I was burdened with carrying the words, not their meaning."
 
     old "The man leaned forward and pointed towards the water."
     new "The man leaned forward and pointed towards the water."
 
-    old "Ragged Man\" \"However, there is also a gift."
-    new "Ragged Man\" \"However, there is also a gift."
+    old "However, there is also a gift."
+    new "However, there is also a gift."
 
-    old "Ragged Man\" \"For one who needs it."
-    new "Ragged Man\" \"For one who needs it."
+    old "For one who needs it."
+    new "For one who needs it."
 
     old "The water?"
     new "The water?"
 
-    old "Ragged Man\" \"It feeds body and soul. Grants sucor to those desperate and nourishes wounds and deeper wounds."
-    new "Ragged Man\" \"It feeds body and soul. Grants sucor to those desperate and nourishes wounds and deeper wounds."
+    old "It feeds body and soul. Grants sucor to those desperate and nourishes wounds and deeper wounds."
+    new "It feeds body and soul. Grants sucor to those desperate and nourishes wounds and deeper wounds."
 
     old "Sarah looked towards the water."
     new "Sarah looked towards the water."
 
-    old "Ragged Man\" \"They tell me you have a friend that might have need of it..."
-    new "Ragged Man\" \"They tell me you have a friend that might have need of it..."
+    old "They tell me you have a friend that might have need of it..."
+    new "They tell me you have a friend that might have need of it..."
 
     old "Sarah's eyes went wide."
     new "Sarah's eyes went wide."
@@ -508,8 +508,8 @@ translate ru strings:
     old "Are you saying that this water will...heal Samayra?"
     new "Are you saying that this water will...heal Samayra?"
 
-    old "Ragged Man\" \"I don't know what a Samayra is, but make them drink the water and the water will drive out all foulness."
-    new "Ragged Man\" \"I don't know what a Samayra is, but make them drink the water and the water will drive out all foulness."
+    old "I don't know what a Samayra is, but make them drink the water and the water will drive out all foulness."
+    new "I don't know what a Samayra is, but make them drink the water and the water will drive out all foulness."
 
     old "Sarah fell to her knees by the pool and cupped the water into her hands."
     new "Sarah fell to her knees by the pool and cupped the water into her hands."
@@ -526,11 +526,11 @@ translate ru strings:
     old "I have to go!"
     new "I have to go!"
 
-    old "Ragged Man\" \"We have no more words to barter. Take your gift and your warning. Do with each as you please."
-    new "Ragged Man\" \"We have no more words to barter. Take your gift and your warning. Do with each as you please."
+    old "We have no more words to barter. Take your gift and your warning. Do with each as you please."
+    new "We have no more words to barter. Take your gift and your warning. Do with each as you please."
 
-    old "Ragged Man\" \"And remember, we live in a hollow world."
-    new "Ragged Man\" \"And remember, we live in a hollow world."
+    old "And remember, we live in a hollow world."
+    new "And remember, we live in a hollow world."
 
     old "Sarah turned and ran out of the cave."
     new "Sarah turned and ran out of the cave."

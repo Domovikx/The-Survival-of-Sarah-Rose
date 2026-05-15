@@ -1000,9 +1000,6 @@ translate ru strings:
     old "His voice boomed, powerful, deep."
     new "His voice boomed, powerful, deep."
 
-    old "Yes what?"
-    new "Yes what?"
-
     old "Yes, I'll marry you! I'll be your wife!"
     new "Yes, I'll marry you! I'll be your wife!"
 

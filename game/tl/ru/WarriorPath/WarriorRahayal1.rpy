@@ -340,9 +340,6 @@ translate ru strings:
     old "Sarah rushed forward, seizing control of the situation."
     new "Sarah rushed forward, seizing control of the situation."
 
-    old "Calm down!"
-    new "Calm down!"
-
     old "Tell me what is going on here."
     new "Tell me what is going on here."
 

@@ -127,8 +127,8 @@ translate ru strings:
     old "The guard captain stood in the center of the road."
     new "The guard captain stood in the center of the road."
 
-    old "Guard Captain\" \"Drop your blade or you both will be sorry!"
-    new "Guard Captain\" \"Drop your blade or you both will be sorry!"
+    old "Drop your blade or you both will be sorry!"
+    new "Drop your blade or you both will be sorry!"
 
     old "His voice was loud and commanding."
     new "His voice was loud and commanding."
@@ -139,11 +139,11 @@ translate ru strings:
     old "Please, there is no need for conflict! If you'll just let me explain-"
     new "Please, there is no need for conflict! If you'll just let me explain-"
 
-    old "Guard Captain\" \"There are no words to be had!"
-    new "Guard Captain\" \"There are no words to be had!"
+    old "There are no words to be had!"
+    new "There are no words to be had!"
 
-    old "Guard Captain\" \"This is a royal convoy and you either do as I say or we'll cut through the both of you!"
-    new "Guard Captain\" \"This is a royal convoy and you either do as I say or we'll cut through the both of you!"
+    old "This is a royal convoy and you either do as I say or we'll cut through the both of you!"
+    new "This is a royal convoy and you either do as I say or we'll cut through the both of you!"
 
     old "Standing a little further behind the young squire, Sarah saw another man."
     new "Standing a little further behind the young squire, Sarah saw another man."
@@ -160,14 +160,14 @@ translate ru strings:
     old "A soft buzzing of flies already descending on the dead could be heard in between the shouting."
     new "A soft buzzing of flies already descending on the dead could be heard in between the shouting."
 
-    old "Guard Captain\" \"Drop your sword!"
-    new "Guard Captain\" \"Drop your sword!"
+    old "Drop your sword!"
+    new "Drop your sword!"
 
     old "If you seek to harm my Master...I cannot sheathe my blade. My vow forbids it."
     new "If you seek to harm my Master...I cannot sheathe my blade. My vow forbids it."
 
-    old "Guard Captain\" \"Very well, have it your way! Boys!"
-    new "Guard Captain\" \"Very well, have it your way! Boys!"
+    old "Very well, have it your way! Boys!"
+    new "Very well, have it your way! Boys!"
 
     old "The other soldiers moved forward."
     new "The other soldiers moved forward."
@@ -181,14 +181,14 @@ translate ru strings:
     old "What is the meaning of all this? Must we settle every discord with bloodshed?"
     new "What is the meaning of all this? Must we settle every discord with bloodshed?"
 
-    old "Guard Captain\" \"Your Grace...please return to your carriage, it is not safe here, these bandits-"
-    new "Guard Captain\" \"Your Grace...please return to your carriage, it is not safe here, these bandits-"
+    old "Your Grace...please return to your carriage, it is not safe here, these bandits-"
+    new "Your Grace...please return to your carriage, it is not safe here, these bandits-"
 
     old "We are not bandits!"
     new "We are not bandits!"
 
-    old "Guard Captain\" \"These troublemakers then! They are blocking the road!"
-    new "Guard Captain\" \"These troublemakers then! They are blocking the road!"
+    old "These troublemakers then! They are blocking the road!"
+    new "These troublemakers then! They are blocking the road!"
 
     old "We were not blocking the road! We came upon these bandits a mere moment before you arrived."
     new "We were not blocking the road! We came upon these bandits a mere moment before you arrived."
@@ -199,8 +199,8 @@ translate ru strings:
     old "The Guard Captain spat on the ground."
     new "The Guard Captain spat on the ground."
 
-    old "Guard Captain\" \"Damned lies! Look at those dead men, dressed like farmers. Whose to say you are not the bandit?"
-    new "Guard Captain\" \"Damned lies! Look at those dead men, dressed like farmers. Whose to say you are not the bandit?"
+    old "Damned lies! Look at those dead men, dressed like farmers. Whose to say you are not the bandit?"
+    new "Damned lies! Look at those dead men, dressed like farmers. Whose to say you are not the bandit?"
 
     old "Sarah stepped forward."
     new "Sarah stepped forward."

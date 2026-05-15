@@ -571,8 +571,8 @@ translate ru strings:
     old "One of the wooden totems exploded, splintering into countless fragments."
     new "One of the wooden totems exploded, splintering into countless fragments."
 
-    old "Woodland Spirit\" \"Murderer!"
-    new "Woodland Spirit\" \"Murderer!"
+    old "Murderer!"
+    new "Murderer!"
 
     old "The wind began to pick up."
     new "The wind began to pick up."
@@ -583,8 +583,8 @@ translate ru strings:
     old "Sarah covered her ears to protect herself from the thunderous noise."
     new "Sarah covered her ears to protect herself from the thunderous noise."
 
-    old "Woodland Spirit\" \"You have brought one so wicked of soul to these sacred forests!"
-    new "Woodland Spirit\" \"You have brought one so wicked of soul to these sacred forests!"
+    old "You have brought one so wicked of soul to these sacred forests!"
+    new "You have brought one so wicked of soul to these sacred forests!"
 
     old "No! Please! Don't harm her! She had nothing to do with this. This was my doing, please!"
     new "No! Please! Don't harm her! She had nothing to do with this. This was my doing, please!"
@@ -592,8 +592,8 @@ translate ru strings:
     old "Garret frantically pleaded with the spirit."
     new "Garret frantically pleaded with the spirit."
 
-    old "Woodland Spirit\" \"She tries to take you away from me. Turn you against me!"
-    new "Woodland Spirit\" \"She tries to take you away from me. Turn you against me!"
+    old "She tries to take you away from me. Turn you against me!"
+    new "She tries to take you away from me. Turn you against me!"
 
     old "Please! Don't hurt her, she didn't-"
     new "Please! Don't hurt her, she didn't-"
@@ -622,11 +622,11 @@ translate ru strings:
     old "Garret screamed out in more pain."
     new "Garret screamed out in more pain."
 
-    old "Woodland Spirit\" \"You seek to rob him of his true nature!"
-    new "Woodland Spirit\" \"You seek to rob him of his true nature!"
+    old "You seek to rob him of his true nature!"
+    new "You seek to rob him of his true nature!"
 
-    old "Woodland Spirit\" \"I shall set you free, Brother!"
-    new "Woodland Spirit\" \"I shall set you free, Brother!"
+    old "I shall set you free, Brother!"
+    new "I shall set you free, Brother!"
 
     old "Sarah watched as Garret's jaw went so wide, it almost seemed as if it had split apart."
     new "Sarah watched as Garret's jaw went so wide, it almost seemed as if it had split apart."

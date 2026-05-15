@@ -97,20 +97,20 @@ translate ru strings:
     old "The high priest slowly ascended the stairs until he stood next to Thomas."
     new "Верховный жрец медленно поднялся по ступеням и встал рядом с Томасом."
 
-    old "High Priest\" \"Prince Thomas Rose, eldest of the Rose family, son of Orwell and heir to the throne, rise."
-    new "High Priest\" \"Prince Thomas Rose, eldest of the Rose family, son of Orwell and heir to the throne, rise."
+    old "Prince Thomas Rose, eldest of the Rose family, son of Orwell and heir to the throne, rise."
+    new "Prince Thomas Rose, eldest of the Rose family, son of Orwell and heir to the throne, rise."
 
     old "Thomas stood up, as instructed."
     new "Томас встал, как было велено."
 
-    old "High Priest\" \"Do you swear to uphold the virtues of your elders, and commit your life to the protection of the nation of Rosanna."
-    new "High Priest\" \"Do you swear to uphold the virtues of your elders, and commit your life to the protection of the nation of Rosanna."
+    old "Do you swear to uphold the virtues of your elders, and commit your life to the protection of the nation of Rosanna."
+    new "Do you swear to uphold the virtues of your elders, and commit your life to the protection of the nation of Rosanna."
 
     old "I do."
     new "Клянусь."
 
-    old "High Priest\" \"Should you speak falsely, what would you desire of the gods?"
-    new "High Priest\" \"Should you speak falsely, what would you desire of the gods?"
+    old "Should you speak falsely, what would you desire of the gods?"
+    new "Should you speak falsely, what would you desire of the gods?"
 
     old "Should I speak falsely, I pray that the gods strike me down as I stand."
     new "Если я лгу, пусть боги поразит меня на этом месте."
@@ -127,8 +127,8 @@ translate ru strings:
     old "The high priest nodded, seemingly content that no divine wrath had struck Thomas down."
     new "Верховный жрец кивнул, удовлетворённый тем, что божественный гнев не поразил Томаса."
 
-    old "High Priest\" \"Then by the grace of all gods, and in the presence of all the noble families, I declare you King Thomas Rose, sovereign of Rosanna."
-    new "High Priest\" \"Then by the grace of all gods, and in the presence of all the noble families, I declare you King Thomas Rose, sovereign of Rosanna."
+    old "Then by the grace of all gods, and in the presence of all the noble families, I declare you King Thomas Rose, sovereign of Rosanna."
+    new "Then by the grace of all gods, and in the presence of all the noble families, I declare you King Thomas Rose, sovereign of Rosanna."
 
     old "The high priest placed the crown atop Thomas' head, and the room errupted into cheers and celebrations."
     new "Верховный жрец возложил корону на голову Томаса, и зал взорвался ликующими криками и торжествами."

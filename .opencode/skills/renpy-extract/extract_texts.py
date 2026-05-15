@@ -179,7 +179,7 @@ class RenPyExtractor:
                 continue
 
             # ── 2. Диалог в кавычках: "Character" "text" ──
-            m = re.match(r'^"([a-zA-Z_][a-zA-Z0-9_]*)"\s+"(.+)"\s*$', stripped)
+            m = re.match(r'^"([^"]+)"\s+"(.+)"\s*$', stripped)
             if m:
                 char = m.group(1)
                 text = m.group(2)

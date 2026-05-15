@@ -586,9 +586,6 @@ translate ru strings:
     old "He had all but torn the clothes from her body when he finally had her all to himself."
     new "He had all but torn the clothes from her body when he finally had her all to himself."
 
-    old "Old Captain\" \"Aah!!"
-    new "Old Captain\" \"Aah!!"
-
     old "He grunted a deep sound of relief as he took her."
     new "He grunted a deep sound of relief as he took her."
 

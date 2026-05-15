@@ -481,11 +481,11 @@ translate ru strings:
     old "From Normandi, one of the neighbouring kingdoms to Rosanna, a member of the Union Kingdoms."
     new "From Normandi, one of the neighbouring kingdoms to Rosanna, a member of the Union Kingdoms."
 
-    old "Royal Messenger\" \"Your Grace!"
-    new "Royal Messenger\" \"Your Grace!"
+    old "Your Grace!"
+    new "Your Grace!"
 
-    old "Royal Messenger\" \"I have ridden long and hard from the nation of Normandi, bearing a message to you from Queen Maeiv."
-    new "Royal Messenger\" \"I have ridden long and hard from the nation of Normandi, bearing a message to you from Queen Maeiv."
+    old "I have ridden long and hard from the nation of Normandi, bearing a message to you from Queen Maeiv."
+    new "I have ridden long and hard from the nation of Normandi, bearing a message to you from Queen Maeiv."
 
     old "Queen Maeiv, the Silent-Queen. Ruler of Normandi for decades now."
     new "Queen Maeiv, the Silent-Queen. Ruler of Normandi for decades now."
@@ -574,11 +574,11 @@ translate ru strings:
     old "Are you in need of anything?"
     new "Are you in need of anything?"
 
-    old "Royal Messenger\" \"Your offer is most kind, but I fear that I was tasked with delivering this message with the great of haste."
-    new "Royal Messenger\" \"Your offer is most kind, but I fear that I was tasked with delivering this message with the great of haste."
+    old "Your offer is most kind, but I fear that I was tasked with delivering this message with the great of haste."
+    new "Your offer is most kind, but I fear that I was tasked with delivering this message with the great of haste."
 
-    old "Royal Messenger\" \"I ask your forgiveness that I shall first deliver this, before I shall partake in any of your kindness."
-    new "Royal Messenger\" \"I ask your forgiveness that I shall first deliver this, before I shall partake in any of your kindness."
+    old "I ask your forgiveness that I shall first deliver this, before I shall partake in any of your kindness."
+    new "I ask your forgiveness that I shall first deliver this, before I shall partake in any of your kindness."
 
     old "Even most messages from other countries were rarely brought so...pressingly."
     new "Even most messages from other countries were rarely brought so...pressingly."
@@ -586,17 +586,17 @@ translate ru strings:
     old "Tell me then, what is your message?"
     new "Tell me then, what is your message?"
 
-    old "Royal Messenger\" \"I have sworn an oath by the Gods, my own life and the life of my family, that I would not break the seal on this letter."
-    new "Royal Messenger\" \"I have sworn an oath by the Gods, my own life and the life of my family, that I would not break the seal on this letter."
+    old "I have sworn an oath by the Gods, my own life and the life of my family, that I would not break the seal on this letter."
+    new "I have sworn an oath by the Gods, my own life and the life of my family, that I would not break the seal on this letter."
 
-    old "Royal Messenger\" \"And so in truth, your Grace, I fear I cannot so much as even hint to its contents."
-    new "Royal Messenger\" \"And so in truth, your Grace, I fear I cannot so much as even hint to its contents."
+    old "And so in truth, your Grace, I fear I cannot so much as even hint to its contents."
+    new "And so in truth, your Grace, I fear I cannot so much as even hint to its contents."
 
-    old "Royal Messenger\" \"I know only of the import that my sovereign, Queen Maeiv, impressed upon me, and so I can only suspect of its importance."
-    new "Royal Messenger\" \"I know only of the import that my sovereign, Queen Maeiv, impressed upon me, and so I can only suspect of its importance."
+    old "I know only of the import that my sovereign, Queen Maeiv, impressed upon me, and so I can only suspect of its importance."
+    new "I know only of the import that my sovereign, Queen Maeiv, impressed upon me, and so I can only suspect of its importance."
 
-    old "Royal Messenger\" \"I pray, take the letter from me and relieve me of my service, so I may consider my oath complete."
-    new "Royal Messenger\" \"I pray, take the letter from me and relieve me of my service, so I may consider my oath complete."
+    old "I pray, take the letter from me and relieve me of my service, so I may consider my oath complete."
+    new "I pray, take the letter from me and relieve me of my service, so I may consider my oath complete."
 
     old "She gestured towards a knight."
     new "She gestured towards a knight."

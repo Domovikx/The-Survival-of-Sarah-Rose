@@ -611,6 +611,7 @@ def quoted_dialogue_script(tmp_dir):
         '    "This is narration without character."\n'
         '    "Raza" "No. Not now."\n'
         '    s "Hello from defined character."\n'
+        '    "Guard Captain" "There she goes!"\n'
     )
     script = tmp_dir / "test_game" / "script.rpy"
     script.parent.mkdir(parents=True)
@@ -683,6 +684,18 @@ class TestQuotedDialogue:
 
         # s (переменная, не display name) не должен попадать в character_blocks
         assert 's' not in ext.character_blocks
+
+        # Multi-word character "Guard Captain" должен корректно парситься
+        guard_captain_lines = []
+        for arc in ext.arcs.values():
+            for scene in arc.values():
+                for bd in scene['blocks'].values():
+                    if bd.get('character') == 'Guard Captain':
+                        guard_captain_lines.append(bd)
+        assert len(guard_captain_lines) == 1
+        assert guard_captain_lines[0]['original'] == 'There she goes!'
+        # Guard Captain должен быть в character_blocks
+        assert 'Guard Captain' in ext.character_blocks
 
     def test_generated_rpy_no_combined_format(self, quoted_dialogue_script, tmp_dir):
         """В сгенерированном .rpy не должно быть combined формата "Char\" \"text"."""

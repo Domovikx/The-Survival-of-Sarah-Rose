@@ -841,11 +841,11 @@ translate ru strings:
     old "Sarah jumped up from the bed and faced them."
     new "Sarah jumped up from the bed and faced them."
 
-    old "Romanov Twin\" \"Alaric!"
-    new "Romanov Twin\" \"Alaric!"
+    old "Alaric!"
+    new "Alaric!"
 
-    old "Romanov Twin\" \"You know what time it is. Pay up."
-    new "Romanov Twin\" \"You know what time it is. Pay up."
+    old "You know what time it is. Pay up."
+    new "You know what time it is. Pay up."
 
     old "Sarah watched Alaric get up from the bed, his hands up in the air."
     new "Sarah watched Alaric get up from the bed, his hands up in the air."
@@ -853,14 +853,14 @@ translate ru strings:
     old "Look, fellas, the money...it's coming, I promise. You just gotta give me some more time."
     new "Look, fellas, the money...it's coming, I promise. You just gotta give me some more time."
 
-    old "Romanov Twin\" \"You had time! More time! Always you ask for more time!"
-    new "Romanov Twin\" \"You had time! More time! Always you ask for more time!"
+    old "You had time! More time! Always you ask for more time!"
+    new "You had time! More time! Always you ask for more time!"
 
     old "One of the twins turned to face Sarah."
     new "One of the twins turned to face Sarah."
 
-    old "Romanov Twin\" \"Leave, girl. This does not concern you."
-    new "Romanov Twin\" \"Leave, girl. This does not concern you."
+    old "Leave, girl. This does not concern you."
+    new "Leave, girl. This does not concern you."
 
     old "Sarah stepped out into the center of the room."
     new "Sarah stepped out into the center of the room."
@@ -871,8 +871,8 @@ translate ru strings:
     old "The twins laughed."
     new "The twins laughed."
 
-    old "Romanov Twin\" \"Do not forget that I gave you a chance to leave, girl."
-    new "Romanov Twin\" \"Do not forget that I gave you a chance to leave, girl."
+    old "Do not forget that I gave you a chance to leave, girl."
+    new "Do not forget that I gave you a chance to leave, girl."
 
     old "He stepped forward."
     new "He stepped forward."
@@ -883,8 +883,8 @@ translate ru strings:
     old "She saw their wide-eyed, panicked faces."
     new "She saw their wide-eyed, panicked faces."
 
-    old "Romanov Twin\" \"You bring a mage to fight your battles? For this?"
-    new "Romanov Twin\" \"You bring a mage to fight your battles? For this?"
+    old "You bring a mage to fight your battles? For this?"
+    new "You bring a mage to fight your battles? For this?"
 
     old "I got powerful friends, what do you want me to say?"
     new "I got powerful friends, what do you want me to say?"
@@ -904,8 +904,8 @@ translate ru strings:
     old "One of the twins spat on the ground."
     new "One of the twins spat on the ground."
 
-    old "Romanov Twin\" \"No honour."
-    new "Romanov Twin\" \"No honour."
+    old "No honour."
+    new "No honour."
 
     old "They turned and left together, same as they came."
     new "They turned and left together, same as they came."

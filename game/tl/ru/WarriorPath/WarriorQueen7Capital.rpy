@@ -2965,14 +2965,14 @@ translate ru strings:
     old "Sarah hoped she would prove worthy of their trust."
     new "Sarah hoped she would prove worthy of their trust."
 
-    old "High Priest\" \"And...and so..."
-    new "High Priest\" \"And...and so..."
+    old "And...and so..."
+    new "And...and so..."
 
     old "The old man continued."
     new "The old man continued."
 
-    old "High Priest\" \"Do you...Sarah...Sarah Rose, eldest daughter, first in line..."
-    new "High Priest\" \"Do you...Sarah...Sarah Rose, eldest daughter, first in line..."
+    old "Do you...Sarah...Sarah Rose, eldest daughter, first in line..."
+    new "Do you...Sarah...Sarah Rose, eldest daughter, first in line..."
 
     old "Sarah looked at him with some pity."
     new "Sarah looked at him with some pity."
@@ -2980,14 +2980,14 @@ translate ru strings:
     old "Speak the words, old man, she hurried him along with her thoughts."
     new "Speak the words, old man, she hurried him along with her thoughts."
 
-    old "High Priest\" \"Do you take on...the great burden...of this crown..."
-    new "High Priest\" \"Do you take on...the great burden...of this crown..."
+    old "Do you take on...the great burden...of this crown..."
+    new "Do you take on...the great burden...of this crown..."
 
     old "Sarah spoke the words firmly."
     new "Sarah spoke the words firmly."
 
-    old "High Priest\" \"Then...by all the Gods...I crown you...Queen Sarah Rose."
-    new "High Priest\" \"Then...by all the Gods...I crown you...Queen Sarah Rose."
+    old "Then...by all the Gods...I crown you...Queen Sarah Rose."
+    new "Then...by all the Gods...I crown you...Queen Sarah Rose."
 
     old "His trembling hands placed the crown on her head."
     new "His trembling hands placed the crown on her head."

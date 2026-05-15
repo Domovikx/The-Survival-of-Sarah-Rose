@@ -13,8 +13,8 @@ translate ru strings:
     old "Then he shrugged."
     new "Then he shrugged."
 
-    old "Guard Captain\" \"Fine, do it your way."
-    new "Guard Captain\" \"Fine, do it your way."
+    old "Fine, do it your way."
+    new "Fine, do it your way."
 
     old "The captain leaned back in his chair and knocked the wall."
     new "The captain leaned back in his chair and knocked the wall."
@@ -31,17 +31,17 @@ translate ru strings:
     old "Sarah tried to look into his eyes, but his eyes were fixed on the ground."
     new "Sarah tried to look into his eyes, but his eyes were fixed on the ground."
 
-    old "Guard Captain\" \"So, guess it's your lucky day ya worthless piece of shit."
-    new "Guard Captain\" \"So, guess it's your lucky day ya worthless piece of shit."
+    old "So, guess it's your lucky day ya worthless piece of shit."
+    new "So, guess it's your lucky day ya worthless piece of shit."
 
-    old "Guard Captain\" \"Girly here is pretending like she don't know shit about shit, so the first one to speak gets the prize."
-    new "Guard Captain\" \"Girly here is pretending like she don't know shit about shit, so the first one to speak gets the prize."
+    old "Girly here is pretending like she don't know shit about shit, so the first one to speak gets the prize."
+    new "Girly here is pretending like she don't know shit about shit, so the first one to speak gets the prize."
 
-    old "Guard Captain\" \"Two weeks in a work house."
-    new "Guard Captain\" \"Two weeks in a work house."
+    old "Two weeks in a work house."
+    new "Two weeks in a work house."
 
-    old "Guard Captain\" \"The last one to speak gets five years housing and food, courtesy of the Lethram prison system."
-    new "Guard Captain\" \"The last one to speak gets five years housing and food, courtesy of the Lethram prison system."
+    old "The last one to speak gets five years housing and food, courtesy of the Lethram prison system."
+    new "The last one to speak gets five years housing and food, courtesy of the Lethram prison system."
 
     old "Sarah was still trying to process what was happening."
     new "Sarah was still trying to process what was happening."
@@ -67,14 +67,14 @@ translate ru strings:
     old "What was happening."
     new "What was happening."
 
-    old "Guard Captain\" \"And you'll testify to this in a court?"
-    new "Guard Captain\" \"And you'll testify to this in a court?"
+    old "And you'll testify to this in a court?"
+    new "And you'll testify to this in a court?"
 
     old "Yes! Yes! I'll say whatever you need me to say, it's all true!"
     new "Yes! Yes! I'll say whatever you need me to say, it's all true!"
 
-    old "Guard Captain\" \"Good, take em back and give a nice meal and a warm bath."
-    new "Guard Captain\" \"Good, take em back and give a nice meal and a warm bath."
+    old "Good, take em back and give a nice meal and a warm bath."
+    new "Good, take em back and give a nice meal and a warm bath."
 
     old "The guards turned around and took Alaric away."
     new "The guards turned around and took Alaric away."
@@ -100,32 +100,32 @@ translate ru strings:
     old "He waved his hands, dismissing her."
     new "He waved his hands, dismissing her."
 
-    old "Guard Captain\" \"I got all I need, girly."
-    new "Guard Captain\" \"I got all I need, girly."
+    old "I got all I need, girly."
+    new "I got all I need, girly."
 
-    old "Guard Captain\" \"Our star witness just fingered you for the whole operation, and like I said, him or you, I'm fine with it either way."
-    new "Guard Captain\" \"Our star witness just fingered you for the whole operation, and like I said, him or you, I'm fine with it either way."
+    old "Our star witness just fingered you for the whole operation, and like I said, him or you, I'm fine with it either way."
+    new "Our star witness just fingered you for the whole operation, and like I said, him or you, I'm fine with it either way."
 
-    old "Guard Captain\" \"I tried to be nice to you, give you the first crack at it, but you wanted to play like a tough criminal."
-    new "Guard Captain\" \"I tried to be nice to you, give you the first crack at it, but you wanted to play like a tough criminal."
+    old "I tried to be nice to you, give you the first crack at it, but you wanted to play like a tough criminal."
+    new "I tried to be nice to you, give you the first crack at it, but you wanted to play like a tough criminal."
 
-    old "Guard Captain\" \"So sure, you wanna pretend to be a real criminal, then you can enjoy a few years up in Lethram prison, with the other real criminals."
-    new "Guard Captain\" \"So sure, you wanna pretend to be a real criminal, then you can enjoy a few years up in Lethram prison, with the other real criminals."
+    old "So sure, you wanna pretend to be a real criminal, then you can enjoy a few years up in Lethram prison, with the other real criminals."
+    new "So sure, you wanna pretend to be a real criminal, then you can enjoy a few years up in Lethram prison, with the other real criminals."
 
     old "He leaned over across the table."
     new "He leaned over across the table."
 
-    old "Guard Captain\" \"But if I'm being honest, and I hate to be the one to break it to you, but a girl like you..."
-    new "Guard Captain\" \"But if I'm being honest, and I hate to be the one to break it to you, but a girl like you..."
+    old "But if I'm being honest, and I hate to be the one to break it to you, but a girl like you..."
+    new "But if I'm being honest, and I hate to be the one to break it to you, but a girl like you..."
 
-    old "Guard Captain\" \"You're about two clicks too soft for a place like that."
-    new "Guard Captain\" \"You're about two clicks too soft for a place like that."
+    old "You're about two clicks too soft for a place like that."
+    new "You're about two clicks too soft for a place like that."
 
-    old "Guard Captain\" \"Those women are gonna eat you alive."
-    new "Guard Captain\" \"Those women are gonna eat you alive."
+    old "Those women are gonna eat you alive."
+    new "Those women are gonna eat you alive."
 
-    old "Guard Captain\" \"But whatever. I gave you a chance and you spat in my face. You made your bed, now you get to lie in it."
-    new "Guard Captain\" \"But whatever. I gave you a chance and you spat in my face. You made your bed, now you get to lie in it."
+    old "But whatever. I gave you a chance and you spat in my face. You made your bed, now you get to lie in it."
+    new "But whatever. I gave you a chance and you spat in my face. You made your bed, now you get to lie in it."
 
     old "Sarah could feel the tears begin to stream past her face."
     new "Sarah could feel the tears begin to stream past her face."
@@ -151,11 +151,11 @@ translate ru strings:
     old "The guard captain stepped forward."
     new "The guard captain stepped forward."
 
-    old "Guard Captain\" \"Your honour, we provide several written accounts of patrons at the marketplace where the offense took place."
-    new "Guard Captain\" \"Your honour, we provide several written accounts of patrons at the marketplace where the offense took place."
+    old "Your honour, we provide several written accounts of patrons at the marketplace where the offense took place."
+    new "Your honour, we provide several written accounts of patrons at the marketplace where the offense took place."
 
-    old "Guard Captain\" \"In addition, we provide testimony from the co-conspirator of the defendant. He took part in her crimes, but she was the main instigator."
-    new "Guard Captain\" \"In addition, we provide testimony from the co-conspirator of the defendant. He took part in her crimes, but she was the main instigator."
+    old "In addition, we provide testimony from the co-conspirator of the defendant. He took part in her crimes, but she was the main instigator."
+    new "In addition, we provide testimony from the co-conspirator of the defendant. He took part in her crimes, but she was the main instigator."
 
     old "The judge received the papers and went through them."
     new "The judge received the papers and went through them."

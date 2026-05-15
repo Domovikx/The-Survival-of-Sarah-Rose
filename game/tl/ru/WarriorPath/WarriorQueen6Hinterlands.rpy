@@ -112,8 +112,8 @@ translate ru strings:
     old "Hail Sarah Rose!"
     new "Hail Sarah Rose!"
 
-    old "Second man\" \"She'll show those Savages!"
-    new "Second man\" \"She'll show those Savages!"
+    old "She'll show those Savages!"
+    new "She'll show those Savages!"
 
     old "The men stumbled further into the room, the guards held them at a distance."
     new "The men stumbled further into the room, the guards held them at a distance."
@@ -127,14 +127,14 @@ translate ru strings:
     old "Sarah slightly nodded, acknowledging the man without hoping to encourage him."
     new "Sarah slightly nodded, acknowledging the man without hoping to encourage him."
 
-    old "Second man\" \"Ay! Cheers to that!"
-    new "Second man\" \"Ay! Cheers to that!"
+    old "Ay! Cheers to that!"
+    new "Ay! Cheers to that!"
 
-    old "Second man\" \"Finally someone that's gonna return the King's Law to these lands!"
-    new "Second man\" \"Finally someone that's gonna return the King's Law to these lands!"
+    old "Finally someone that's gonna return the King's Law to these lands!"
+    new "Finally someone that's gonna return the King's Law to these lands!"
 
-    old "Second man\" \"Or the Queen's Law, my lady, apologies!"
-    new "Second man\" \"Or the Queen's Law, my lady, apologies!"
+    old "Or the Queen's Law, my lady, apologies!"
+    new "Or the Queen's Law, my lady, apologies!"
 
     old "He raised his drink along with this friends."
     new "He raised his drink along with this friends."
@@ -142,8 +142,8 @@ translate ru strings:
     old "Speaking of justice and law! I would wish to pe...pet...peti..."
     new "Speaking of justice and law! I would wish to pe...pet...peti..."
 
-    old "Second man\" \"Petition."
-    new "Second man\" \"Petition."
+    old "Petition."
+    new "Petition."
 
     old "Petition! I would like to petition the Court!"
     new "Petition! I would like to petition the Court!"

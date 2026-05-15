@@ -50,7 +50,7 @@ translate ru strings:
     new "Сара чувствует, как призрак матери советует ей при каждом выборе."
 
     old "\\\"Ooh no, not this one. Try that one\\\", she would say when Sarah was still young."
-    new "\\\"Ooh no, not this one. Try that one\\\", she would say when Sarah was still young."
+    new "\\\"О нет, только не это. Попробуй вон то\\\", — говорила она, когда Сара была ещё маленькой."
 
     old "Her mother loved to dote on her, and Sarah had loved her doing it."
     new "Мать любила с ней нянчиться, и Саре это нравилось."
@@ -86,7 +86,7 @@ translate ru strings:
     new "И всё же он должен был понимать, что они слишком взрослые для этого."
 
     old "\\\"Ooh no, not this one, try that one\\\" she would say when Sarah was still small."
-    new "\\\"Ooh no, not this one, try that one\\\" she would say when Sarah was still small."
+    new "\\\"О нет, не это, попробуй вон то\\\" — говорила она, когда Сара была совсем малышкой."
 
     old "Sarah shakes her head and pushes away the memory. Composure. Just as father always said."
     new "Сара качает головой и отгоняет воспоминание. Самообладание. Как всегда говорил отец."
@@ -242,7 +242,7 @@ translate ru strings:
     new "Все в большом зале замолкают, уставившись на него."
 
     old "The king! The king is dead!"
-    new "The king! The king is dead!"
+    new "Король! Король мёртв!"
 
     old "As the words hit Sarah, everything around her is drowned out."
     new "Когда эти слова достигают Сары, все звуки вокруг глохнут."

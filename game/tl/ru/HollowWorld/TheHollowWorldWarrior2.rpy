@@ -727,9 +727,6 @@ translate ru strings:
     old "She lowered her head, placing her forehead against the ground, extending her arms."
     new "She lowered her head, placing her forehead against the ground, extending her arms."
 
-    old "Slave Woman\" \"Thank you..."
-    new "Slave Woman\" \"Thank you..."
-
     old "Her words were soft, muted."
     new "Her words were soft, muted."
 
