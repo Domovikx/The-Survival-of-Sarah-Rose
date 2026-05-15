@@ -60,6 +60,22 @@ def _esc(text: str) -> str:
     return text.replace('\\', '\\\\').replace('"', '\\"')
 
 
+def _unescape(text: str) -> str:
+    result = []
+    i = 0
+    while i < len(text):
+        if text[i:i+2] == '\\\\':
+            result.append('\\')
+            i += 2
+        elif text[i:i+2] == '\\"':
+            result.append('"')
+            i += 2
+        else:
+            result.append(text[i])
+            i += 1
+    return ''.join(result)
+
+
 class RenPyExtractor:
     """
     Извлекает строки без дубликатов.
@@ -105,12 +121,12 @@ class RenPyExtractor:
                     if in_translate and s.startswith('old '):
                         m = re.match(r'old "(.*)"\s*$', s)
                         if m:
-                            current_orig = m.group(1)
+                            current_orig = _unescape(m.group(1))
                         continue
                     if in_translate and current_orig is not None and s.startswith('new '):
                         m = re.match(r'new "(.*)"\s*$', s)
                         if m:
-                            trans = m.group(1)
+                            trans = _unescape(m.group(1))
                             if trans and trans != current_orig:
                                 existing[self._norm(current_orig)] = trans
                         current_orig = None
@@ -165,7 +181,7 @@ class RenPyExtractor:
             m = re.match(r'^([a-zA-Z_][a-zA-Z0-9_]*)\s+"(.+)"\s*$', stripped)
             if m:
                 char = m.group(1)
-                text = m.group(2)
+                text = _unescape(m.group(2))
                 if text and not text.startswith('#'):
                     self._add_to_arc(
                         arc_name=self._get_arc(current_label),
@@ -181,8 +197,8 @@ class RenPyExtractor:
             # ── 2. Диалог в кавычках: "Character" "text" ──
             m = re.match(r'^"([^"]+)"\s+"(.+)"\s*$', stripped)
             if m:
-                char = m.group(1)
-                text = m.group(2)
+                char = _unescape(m.group(1))
+                text = _unescape(m.group(2))
                 if text and not text.startswith('#'):
                     self._add_to_arc(
                         arc_name=self._get_arc(current_label),
@@ -211,7 +227,7 @@ class RenPyExtractor:
             # ── 3. Нарратив: "text" ──
             m = re.match(r'^"(.+)"\s*$', stripped)
             if m and not stripped.startswith('menu'):
-                text = m.group(1)
+                text = _unescape(m.group(1))
                 self._add_to_arc(
                     arc_name=self._get_arc(current_label),
                     scene_name=current_label,
@@ -226,7 +242,7 @@ class RenPyExtractor:
             # ── 4. Menu choice: "Choice": ──
             m = re.match(r'^\s*"(.+?)"\s*:\s*$', stripped)
             if m and in_menu:
-                text = m.group(1).strip()
+                text = _unescape(m.group(1).strip())
                 if text and text != 'Choose':
                     self._add_to_arc(
                         arc_name=self._get_arc(current_label),

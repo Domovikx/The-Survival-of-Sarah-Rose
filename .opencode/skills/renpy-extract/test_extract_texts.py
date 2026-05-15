@@ -13,7 +13,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 from extract_texts import (
-     RenPyExtractor, generate_rpy, _hash, _esc,
+     RenPyExtractor, generate_rpy, _hash, _esc, _unescape,
      VERSION, ARC_PATTERNS,
  )
 
@@ -753,6 +753,73 @@ class TestUtilities:
 
     def test_esc_backslash(self):
         assert _esc("path\\to\\file") == "path\\\\to\\\\file"
+
+    def test_unescape(self):
+        # \" → "
+        assert _unescape('Say \\"hello\\"') == 'Say "hello"'
+        # \\ → \
+        assert _unescape('back\\\\slash') == 'back\\slash'
+        # \\\" → \" (backslash preserved before quote)
+        assert _unescape('\\\\\\"') == '\\"'
+
+
+# ============================================================
+
+class TestEscapedQuotesRoundtrip:
+    """Проверка roundtrip для строк с \" внутри (Ren'Py escape)."""
+
+    def test_narration_with_escaped_quotes(self, tmp_dir):
+        """Нарратив с \" должен корректно проходить unescape → _esc."""
+        content = (
+            'label start:\n'
+            '    "She said \\"hello\\" to me."\n'
+        )
+        script = tmp_dir / "test_game" / "script.rpy"
+        script.parent.mkdir(parents=True)
+        script.write_text(content, encoding='utf-8')
+
+        ext = RenPyExtractor(str(tmp_dir / "test_game"))
+        ext.parse_file(script)
+        data = ext.scan()
+
+        out_dir = tmp_dir / "tl" / "ru"
+        generate_rpy(data, out_dir)
+
+        generated = list(out_dir.rglob("*.rpy"))
+        assert generated, "No files generated"
+        gen_content = generated[0].read_text(encoding='utf-8')
+
+        # old строка должна содержать правильно экранированную кавычку
+        assert 'old "She said \\"hello\\" to me."' in gen_content, \
+            f"Wrong escaping in generated: {gen_content}"
+
+    def test_unescape_preserves_text_meaning(self, tmp_dir):
+        """Текст после unescape должен совпадать с тем, что видит игрок."""
+        content = (
+            'label start:\n'
+            '    "The title reads: \\"A Tale of Two Cities\\"."\n'
+        )
+        script = tmp_dir / "test_game" / "script.rpy"
+        script.parent.mkdir(parents=True)
+        script.write_text(content, encoding='utf-8')
+
+        ext = RenPyExtractor(str(tmp_dir / "test_game"))
+        ext.parse_file(script)
+
+        found = False
+        for arc in ext.arcs.values():
+            for scene in arc.values():
+                for bd in scene['blocks'].values():
+                    orig = bd.get('original', '')
+                    if 'A Tale of Two Cities' in orig:
+                        found = True
+                        # После unescape не должно быть обратных слешей перед кавычкой
+                        assert '\\"' not in orig, \
+                            f"Text still has escaped quotes: {orig}"
+                        # Текст должен содержать чистые кавычки
+                        assert '"' in orig, \
+                            f"Text should have plain quotes: {orig}"
+        assert found, "Extracted text not found"
 
 
 if __name__ == '__main__':

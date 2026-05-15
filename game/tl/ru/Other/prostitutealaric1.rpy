@@ -1518,3 +1518,4 @@ translate ru strings:
 
     old "Alaric had kept them safe on the streets...perhaps this was her way of repaying the favor..."
     new "Аларик держал их в безопасности на улицах... возможно, это её способ отплатить ему той же монетой..."
+

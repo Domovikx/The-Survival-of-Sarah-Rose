@@ -49,8 +49,8 @@ translate ru strings:
     old "Sarah feels the spectre of her mother, advising her with every choice."
     new "Сара чувствует, как призрак матери советует ей при каждом выборе."
 
-    old "\\\"Ooh no, not this one. Try that one\\\", she would say when Sarah was still young."
-    new "\\\"О нет, только не это. Попробуй вон то\\\", — говорила она, когда Сара была ещё маленькой."
+    old "\"Ooh no, not this one. Try that one\", she would say when Sarah was still young."
+    new "\"О нет, только не это. Попробуй вон то\", — говорила она, когда Сара была ещё маленькой."
 
     old "Her mother loved to dote on her, and Sarah had loved her doing it."
     new "Мать любила с ней нянчиться, и Саре это нравилось."
@@ -85,8 +85,8 @@ translate ru strings:
     old "Still, he should have known they were too old for that."
     new "И всё же он должен был понимать, что они слишком взрослые для этого."
 
-    old "\\\"Ooh no, not this one, try that one\\\" she would say when Sarah was still small."
-    new "\\\"О нет, не это, попробуй вон то\\\" — говорила она, когда Сара была совсем малышкой."
+    old "\"Ooh no, not this one, try that one\" she would say when Sarah was still small."
+    new "\"О нет, не это, попробуй вон то\" — говорила она, когда Сара была совсем малышкой."
 
     old "Sarah shakes her head and pushes away the memory. Composure. Just as father always said."
     new "Сара качает головой и отгоняет воспоминание. Самообладание. Как всегда говорил отец."

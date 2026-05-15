@@ -25,8 +25,8 @@ translate ru strings:
     old "Lethram's city council has, when the occasion called for it, used their large coffers to hire mercenary bands, to guarantee their independence."
     new "Lethram's city council has, when the occasion called for it, used their large coffers to hire mercenary bands, to guarantee their independence."
 
-    old "Following rising tensions with its western neighbour Mythran, Lethram has extended a contract to the \\\"Brothers of Providence\\\", the mercenary band that Kate works for."
-    new "Following rising tensions with its western neighbour Mythran, Lethram has extended a contract to the \\\"Brothers of Providence\\\", the mercenary band that Kate works for."
+    old "Following rising tensions with its western neighbour Mythran, Lethram has extended a contract to the \"Brothers of Providence\", the mercenary band that Kate works for."
+    new "Following rising tensions with its western neighbour Mythran, Lethram has extended a contract to the \"Brothers of Providence\", the mercenary band that Kate works for."
 
     old "Kate grabbed Sarah's hand."
     new "Kate grabbed Sarah's hand."
