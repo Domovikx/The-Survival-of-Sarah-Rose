@@ -23,14 +23,9 @@ metadata:
 
    Инструкция:
    1. Загрузи skill-translate-rpy через skill({{ name: \"skill-translate-rpy\" }})
-   2. Переведи все строки где new == old
-   3. Загрузи skill-review-rpy через skill({{ name: \"skill-review-rpy\" }})
-   4. Проверь качество перевода
-   5. Если ревью rejected — исправь замечания и повторяй translate→review снова (до 10 раз)
-   6. Если approved — верни \"OK {file} (попыток: N)\"
-   7. Если после 10 попыток не прошёл — верни \"FAIL {file}: <причина>\"
-   8. ВАЖНО: НЕ изменяй old строки, только new
-   ")
+   2. Загрузи skill-review-rpy через skill({{ name: \"skill-review-rpy\" }})
+   3. Переведи файл скилом skill-translate-rpy, а затем проверь качество перевода скилом skill-review-rpy
+      ")
 
 2. Дождись результатов от всех task(general)
 3. Верни итоговый отчёт
@@ -47,4 +42,5 @@ metadata:
 ```
 
 Список ошибок:
+
 - file.rpy — <причина>
