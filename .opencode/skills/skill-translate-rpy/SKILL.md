@@ -1,5 +1,5 @@
 ---
-name: renpy-translate
+name: skill-translate-rpy
 description: Перевод файлов Ren'Py в формате translate <lang> strings: (old/new) для всех типов контента. Используй когда нужно перевести диалоги, нарратив или интерфейс визуальной новеллы, заполнить new, проверить качество перевода, исправить ошибки согласования или найти пропущенные английские слова.
 license: MIT
 compatibility: opencode
@@ -9,7 +9,7 @@ metadata:
   source: https://www.renpy.org/doc/html/translation.html
 ---
 
-## What I do
+## Что я делаю
 
 Перевожу визуальные новеллы Ren'Py на целевой язык. Все переводы в этом проекте — в едином формате `translate <lang> strings:` с парами `old`/`new`:
 
@@ -127,20 +127,6 @@ translate ru strings:
     old "King Orwell stares out onto the courtyard, a stern look on his face. Snow is slowly drifting down."
     new "Король Орвелл смотрит во двор, на его лице строгое выражение. Медленно кружится снег."
 ```
-
-## Справочно: диалоговые блоки (в этом проекте НЕ ИСПОЛЬЗУЮТСЯ)
-
-В других проектах Ren'Py перевод диалогов может выглядеть так:
-
-```rpy
-translate ru start_a1b2c3d4:
-
-    # e "Original dialogue."
-    e "Переведённая реплика."
-```
-
-Переменная персонажа (`e`, `sarah` и т.д.) **НЕ переводится** — это Python-идентификатор.
-Такой формат в этом проекте отсутствует; весь контент идёт через `strings:`.
 
 ## Когда перевод готов
 
