@@ -161,10 +161,10 @@ translate ru strings:
     new "Она поняла, что большую часть жизни носила только платья. Никто никогда не покупал ей ничего подобного."
 
     old "You want to be a soldier, that means wearing a soldier’s armor"
-    new "You want to be a soldier, that means wearing a soldier’s armor"
+    new "Ты хочешь быть солдатом — значит, носить солдатскую броню."
 
     old "You can’t be parading around in a dress like you’re going to go off to a ball."
-    new "You can’t be parading around in a dress like you’re going to go off to a ball."
+    new "Нельзя же расхаживать в платье, будто собираешься на бал."
 
     old "Sarah spoke softly."
     new "Сара заговорила тихо."
@@ -218,10 +218,10 @@ translate ru strings:
     new "Эти упражнения просто готовят твоё тело к тому, что нужно. Сильное тело не заменит основ владения оружием."
 
     old "By the time I’m through with you, you’ll be familiar with every weapon, but first you will need to learn the most basic weapon of all, a sword and shield."
-    new "By the time I’m through with you, you’ll be familiar with every weapon, but first you will need to learn the most basic weapon of all, a sword and shield."
+    new "К тому времени, как я закончу с тобой, ты будешь знать каждое оружие, но сначала нужно освоить самое базовое — меч и щит."
 
     old "Every part of your body is important in a fight, it’s not just about flailing your weapons around, you need to remember your stance, your reach, your stamina."
-    new "Every part of your body is important in a fight, it’s not just about flailing your weapons around, you need to remember your stance, your reach, your stamina."
+    new "Каждая часть твоего тела важна в бою, дело не только в том, чтобы размахивать оружием. Нужно помнить о стойке, дистанции, выносливости."
 
     old "The orc went on, lecturing her for what felt like an hour of every aspect of combat."
     new "Орк продолжал, читая лекцию, казалось, целый час, обо всех аспектах боя."
@@ -239,10 +239,10 @@ translate ru strings:
     new "Орк нанёс широкий удар справа, как и предупреждал."
 
     old "Sarah felt ready, and as she saw the swing come, raised her shield to catch the orc’s attack."
-    new "Sarah felt ready, and as she saw the swing come, raised her shield to catch the orc’s attack."
+    new "Сара чувствовала себя готовой, и, увидев замах, подняла щит, чтобы принять удар орка."
 
     old "An explosion of force crashed into Sarah’s arm."
-    new "An explosion of force crashed into Sarah’s arm."
+    new "Взрыв силы обрушился на руку Сары."
 
     old "It was like nothing she had ever felt before in her entire life."
     new "Это было непохоже ни на что, что она чувствовала в жизни."
@@ -266,13 +266,13 @@ translate ru strings:
     new "Спокойно констатировал он, тыкая тупым тренировочным лезвием ей в шею."
 
     old "Sarah couldn’t believe it."
-    new "Sarah couldn’t believe it."
+    new "Сара не могла в это поверить."
 
     old "The difference in strength between them was not just enormous, it was insurmountable."
     new "Разница в силе между ними была не просто огромной — она была непреодолимой."
 
     old "She realized that she could spend a lifetime training, and never match Atilla’s raw power."
-    new "She realized that she could spend a lifetime training, and never match Atilla’s raw power."
+    new "Она поняла, что может тренироваться всю жизнь и никогда не сравняться с грубой силой Атиллы."
 
     old "The orc extended his hand to Sarah, which she gratefully accepted, pulling her back to her feet."
     new "Орк протянул руку Саре, и она с благодарностью приняла её, позволив поднять себя на ноги."
@@ -290,28 +290,28 @@ translate ru strings:
     new "Атилла подошёл к ней."
 
     old "Remember what I told you, it’s about far more than just raw strength. You’re a human, and a woman to match."
-    new "Remember what I told you, it’s about far more than just raw strength. You’re a human, and a woman to match."
+    new "Помни, что я тебе говорил: дело далеко не только в грубой силе. Ты человек, к тому же женщина."
 
     old "If you think you’re going to beat me in pure muscle, you’re wasting your time."
-    new "If you think you’re going to beat me in pure muscle, you’re wasting your time."
+    new "Если ты думаешь одолеть меня чистой мускулатурой, ты теряешь время."
 
     old "So that’s it, I’ll just never be strong enough?"
-    new "So that’s it, I’ll just never be strong enough?"
+    new "Так всё, я никогда не стану достаточно сильной?"
 
     old "Atilla sighed."
     new "Атилла вздохнул."
 
     old "I’ve met female humans that came close to killing me. Do not blame your sex, girl."
-    new "I’ve met female humans that came close to killing me. Do not blame your sex, girl."
+    new "Я встречал женщин-людей, которые едва меня не убили. Не вини свой пол, девочка."
 
     old "Your mistake is trying to meet me on my terms. Strength is my game. Never be drawn into playing your enemy’s game, drawn them into yours."
-    new "Your mistake is trying to meet me on my terms. Strength is my game. Never be drawn into playing your enemy’s game, drawn them into yours."
+    new "Твоя ошибка в том, что ты пытаешься играть по моим правилам. Сила — моя стихия. Никогда не ввязывайся в игру врага, заставляй его играть в твою."
 
     old "Sarah tried to make sense of the orc’s advice. If not strength, how did one win a fight?"
-    new "Sarah tried to make sense of the orc’s advice. If not strength, how did one win a fight?"
+    new "Сара попыталась осмыслить совет орка. Если не сила, то как побеждают в бою?"
 
     old "Atilla kneels down and grabs Sarah’s upper leg."
-    new "Atilla kneels down and grabs Sarah’s upper leg."
+    new "Атилла опускается на колено и хватает Сару за бедро."
 
     old "Stance is everything, especially for someone of your frame."
     new "Стойка — это всё, особенно для человека твоего телосложения."
@@ -368,7 +368,7 @@ translate ru strings:
     new "Сара почувствовала возбуждение. Мгновение назад это казалось невозможным, но теперь у неё получалось."
 
     old "Atilla’s compliment made her feel strangely giddy."
-    new "Atilla’s compliment made her feel strangely giddy."
+    new "От похвалы Атиллы она почувствовала странное возбуждение."
 
     old "Now. Let's see if you can do this on the move."
     new "А теперь посмотрим, сможешь ли ты делать это в движении."
@@ -380,10 +380,10 @@ translate ru strings:
     new "Время от времени, казалось бы, наугад, орк наносил очередной широкий удар, и каждый раз Сара принимала его, как было велено."
 
     old "It felt like hours passed. Sarah’s arm was pounding from the pain of merely blocking Atilla’s strikes."
-    new "It felt like hours passed. Sarah’s arm was pounding from the pain of merely blocking Atilla’s strikes."
+    new "Казалось, прошли часы. Рука Сары гудела от боли после одной лишь блокировки ударов Атиллы."
 
     old "She couldn’t imagine what it would feel like to actually get hit without the shield, even if it was only a training blade."
-    new "She couldn’t imagine what it would feel like to actually get hit without the shield, even if it was only a training blade."
+    new "Она не могла представить, каково получить удар без щита, даже тренировочным мечом."
 
     old "Sweat dripped down her entire body, down into her armor."
     new "Пот стекал по всему телу, впитываясь в доспехи."
@@ -392,7 +392,7 @@ translate ru strings:
     new "Она удивилась, что почти не замечает веса доспехов."
 
     old "Atilla’s many compliments had spoiled Sarah by now, and she looked over her shield at the orc."
-    new "Atilla’s many compliments had spoiled Sarah by now, and she looked over her shield at the orc."
+    new "Множество похвал от Атиллы уже избаловали Сару, и она посмотрела на орка поверх щита."
 
     old "Ready to give up yet?"
     new "Готов сдаться?"
@@ -443,10 +443,10 @@ translate ru strings:
     new "Сара скрежетала зубами, пытаясь не закричать от боли."
 
     old "War is not  game. If your slow, only for a moment, it can mean the end of you."
-    new "War is not  game. If your slow, only for a moment, it can mean the end of you."
+    new "Война — не игра. Если ты замешкаешься хотя бы на миг, это может стоить тебе жизни."
 
     old "I’ve killed men in battle, great men, some many times stronger than even me, because for a moment, they lapsed in their attention."
-    new "I’ve killed men in battle, great men, some many times stronger than even me, because for a moment, they lapsed in their attention."
+    new "Я убивал людей в бою, великих людей, некоторые были во много раз сильнее меня, но на миг они потеряли бдительность."
 
     old "The orc continued, as he kept Sarah pinned down."
     new "Продолжал орк, удерживая Сару прижатой."
@@ -458,22 +458,22 @@ translate ru strings:
     new "Сара сдерживала слёзы, пока он держал её прижатой — головой вниз, задницей вверх, орком. Любое чувство радости сменилось унижением."
 
     old "And battle is nothing like those fancy books you might have read about knights and heroes."
-    new "И битва — совсем не то, что в那些 красивых книжках о рыцарях и героях."
+    new "И битва — совсем не то, что в тех красивых книжках о рыцарях и героях."
 
     old "Atilla grew quiet."
     new "Атилла затих."
 
     old "She felt the orc’s free hand fumble around near her neck, tugging on the laces that kept her armor together."
-    new "She felt the orc’s free hand fumble around near her neck, tugging on the laces that kept her armor together."
+    new "Она почувствовала, как свободная рука орка шарит у её шеи, дёргая шнурки, скрепляющие доспехи."
 
     old "She leaned back, pushing her ass backwards."
     new "Она прогнулась, подаваясь задом назад."
 
     old "She felt the orc’s cock, rock hard, pressing up against her ass. This was happening, Sarah realized."
-    new "She felt the orc’s cock, rock hard, pressing up against her ass. This was happening, Sarah realized."
+    new "Она чувствовала член орка, твёрдый как камень, прижатый к её заду. Это происходит, поняла Сара."
 
     old "The orc undid the last of the laces and easily peeled off her armor, revealing Sarah’s naked back, down to her now exposed bottom half."
-    new "The orc undid the last of the laces and easily peeled off her armor, revealing Sarah’s naked back, down to her now exposed bottom half."
+    new "Орк распустил последние шнурки и легко снял с неё доспехи, обнажив спину Сары до самого низа."
 
     old "He kept her pinned down as he easily did away with the last remnants of her armor."
     new "Он продолжал удерживать её, легко избавляясь от остатков доспехов."
@@ -482,10 +482,10 @@ translate ru strings:
     new "Уверенно орк расстегнул свой пояс, отбросив набедренную повязку."
 
     old "Where before the orc’s cock was pressing against her ass, it now swayed in between Sarah's legs, occasionally rubbing up against her pussy."
-    new "Where before the orc’s cock was pressing against her ass, it now swayed in between Sarah's legs, occasionally rubbing up against her pussy."
+    new "Там, где раньше член орка прижимался к её заду, теперь он покачивался между ног Сары, иногда касаясь её киски."
 
     old "She couldn’t believe how wet she had gotten already."
-    new "She couldn’t believe how wet she had gotten already."
+    new "Она не могла поверить, как сильно уже промокла."
 
     old "Rather than fight him, she tried to bend down deeper, rubbing her pussy onto his shaft..."
     new "Вместо того чтобы сопротивляться, она попыталась прогнуться глубже, тереться киской о его ствол..."
@@ -497,7 +497,7 @@ translate ru strings:
     new "Сара бешено дёргалась."
 
     old "I’ll show you what they do to pretty girls on a battlefield..."
-    new "I’ll show you what they do to pretty girls on a battlefield..."
+    new "Я покажу тебе, что делают с хорошенькими девушками на поле боя..."
 
     old "Sarah stuck her ass as high up as she could, begging him without words to take her."
     new "Сара выставила зад как можно выше, без слов умоляя его взять её."
@@ -524,19 +524,19 @@ translate ru strings:
     new "Сара, почти истеричная, начала насаживаться на него, без слов умоляя орка взять её глубже и быстрее."
 
     old "Atilla, for his part, didn’t let Sarah dictate him, and kept to his steady rhythm, slowly driving deeper with each thrust."
-    new "Atilla, for his part, didn’t let Sarah dictate him, and kept to his steady rhythm, slowly driving deeper with each thrust."
+    new "Атилла, со своей стороны, не позволял Саре командовать и придерживался своего ритма, медленно входя глубже с каждым толчком."
 
     old "Bend over, Sarah could feel her insides explode as waves of pleasure began to build up inside of her."
     new "Согнувшись, Сара чувствовала, как её внутренности взрываются волнами удовольствия, нарастающего внутри."
 
     old "The orc’s massive member was spreading her wide open, in this moment, she wanted nothing more."
-    new "The orc’s massive member was spreading her wide open, in this moment, she wanted nothing more."
+    new "Огромный член орка растягивал её, и в этот момент ей больше ничего не было нужно."
 
     old "She tried to open her mouth, to beg the orc to fuck her faster, but the only thing that came out were moans."
     new "Она попыталась открыть рот, умолять орка трахать её быстрее, но изо рта вырывались только стоны."
 
     old "She couldn’t form a sentence in her mind, let alone her mouth."
-    new "She couldn’t form a sentence in her mind, let alone her mouth."
+    new "Она не могла составить предложение в голове, не то что произнести вслух."
 
     old "Atilla knew what she wanted, but he continued to deny her."
     new "Атилла знал, чего она хочет, но продолжал отказывать ей."
@@ -566,7 +566,7 @@ translate ru strings:
     new "Пот от тренировки и пот от секса начали смешиваться."
 
     old "Sarah could feel her hair turn into a mess, but she didn’t care."
-    new "Sarah could feel her hair turn into a mess, but she didn’t care."
+    new "Сара чувствовала, что волосы превратились в кошмар, но ей было всё равно."
 
     old "Right now, the only thing she wanted, right now, was to keep being fucked by Atilla, forever."
     new "Прямо сейчас единственное, чего она хотела — чтобы Атилла трахал её вечно."
@@ -596,7 +596,7 @@ translate ru strings:
     new "Сара пришла в себя лишь мгновения спустя, когда взрыв утих, сменившись обычным удовольствием от того, что Атилла её имеет."
 
     old "By now, Atilla had picked up his pace, driving his cock up to the hilt into Sarah’s pussy."
-    new "By now, Atilla had picked up his pace, driving his cock up to the hilt into Sarah’s pussy."
+    new "К этому моменту Атилла ускорился, вгоняя член по самую рукоятку в киску Сары."
 
     old "Sarah could do little more than lay down as she was driven, face first into the mat, and Atilla continued to take her deeper."
     new "Сара могла только лежать лицом в мат, пока Атилла продолжал брать её глубже."
@@ -605,7 +605,7 @@ translate ru strings:
     new "Она хотела стонать для него, двигаться для него, делать что угодно, но оргазм истощил её."
 
     old "To her enjoyment, she felt Atilla’s cock expand inside of her, the familiar feeling that she had first experienced with her mouth, she now felt with her pussy."
-    new "To her enjoyment, she felt Atilla’s cock expand inside of her, the familiar feeling that she had first experienced with her mouth, she now felt with her pussy."
+    new "К её удовольствию, она почувствовала, как член Атиллы расширяется внутри — знакомое ощущение, которое она впервые испытала ртом, теперь чувствовала киской."
 
     old "Atilla released a primal grunt and thrust his cock as deep as he could, his cum shooting inside Sarah, with each thrust, another load."
     new "Атилла издал первобытный рык и вогнал член так глубоко, как мог, извергая сперму в Сару — с каждым толчком новая порция."
@@ -617,7 +617,7 @@ translate ru strings:
     new "Атилла замедлил толчки."
 
     old "Finally, after all this time, he let go of Sarah’s wrists, setting her free. He pulled out his cock."
-    new "Finally, after all this time, he let go of Sarah’s wrists, setting her free. He pulled out his cock."
+    new "Наконец, после всего этого времени, он отпустил запястья Сары, освобождая её. Он вытащил член."
 
     old "A last load of cum spewed forth. Sarah felt the warm seed splash across her lower back."
     new "Последняя порция спермы изверглась. Сара почувствовала, как тёплое семя разливается по пояснице."
@@ -638,22 +638,22 @@ translate ru strings:
     new "В его глазах было что-то странное, подумала она."
 
     old "He didn’t say anything as he left the training grounds."
-    new "He didn’t say anything as he left the training grounds."
+    new "Он ничего не сказал, уходя с тренировочной площадки."
 
     old "Sarah kept laying on the floor, nude, her whole body ringing."
     new "Сара продолжала лежать на полу, голая, всё тело гудело."
 
     old "She didn’t know anymore what was caused by the pain of the training, and what by the pleasure after. All she knew was that she needed to lay on this mat and recover."
-    new "She didn’t know anymore what was caused by the pain of the training, and what by the pleasure after. All she knew was that she needed to lay on this mat and recover."
+    new "Она уже не понимала, что от боли от тренировки, а что от последующего удовольствия. Она знала только, что нужно лежать на этом мате и отдыхать."
 
     old "After some time, Sarah couldn’t guess how long, she began to stir."
-    new "After some time, Sarah couldn’t guess how long, she began to stir."
+    new "Спустя какое-то время — сколько, Сара не могла сказать — она начала шевелиться."
 
     old "She rolled onto her back, staring up at the ceiling. Most of the pain had subsided, the only ringing she now felt was down between her legs."
     new "Она перевернулась на спину, глядя в потолок. Боль почти прошла, единственная пульсация осталась между ног."
 
     old "She put her hands between her legs, still sticky from Atilla’s cum."
-    new "She put her hands between her legs, still sticky from Atilla’s cum."
+    new "Она засунула руку между ног, всё ещё липкую от спермы Атиллы."
 
     old "Sarah prayed to herself that nobody would walk in on her now."
     new "Сара молилась, чтобы никто не вошёл."
@@ -662,7 +662,7 @@ translate ru strings:
     new "Ещё через несколько мгновений Сара наконец встала и надела доспехи, которые купил ей орк."
 
     old "Sarah’s mind raced."
-    new "Sarah’s mind raced."
+    new "Мысли Сары лихорадочно метались."
 
     old "Much like last time, she had lost herself in the moment, but now reality was catching up to her."
     new "Как и в прошлый раз, она потеряла себя в моменте, но теперь реальность настигала её."
@@ -671,10 +671,10 @@ translate ru strings:
     new "Атилла трахнул её — впервые по-настоящему, как следует."
 
     old "She hadn’t fought him, or protested, nor would she have wanted to do."
-    new "She hadn’t fought him, or protested, nor would she have wanted to do."
+    new "Она не сопротивлялась ему, не протестовала, да и не хотела."
 
     old "But she couldn’t help but think of her old self."
-    new "But she couldn’t help but think of her old self."
+    new "Но она не могла не думать о своей прежней себе."
 
     old "Nobody could ever know what had happened here. Who would ever want her, after knowing she had been despoiled by an orc."
     new "Никто никогда не должен узнать, что здесь произошло. Кто захочет её, узнав, что её осквернил орк."
@@ -683,13 +683,13 @@ translate ru strings:
     new "Не просто осквернил, подумала она, а стонала как шлюха для него."
 
     old "Sarah couldn’t deny that there was a part of her, that when Atilla fucked her, had forgotten about everything else in the world."
-    new "Sarah couldn’t deny that there was a part of her, that when Atilla fucked her, had forgotten about everything else in the world."
+    new "Сара не могла отрицать, что в ней есть часть, которая, когда Атилла трахал её, забывала обо всём на свете."
 
     old "The whole royal court could have walked in while he had been fucking her, and if Atilla had demanded she moan harder, she would have made the walls shake for him."
     new "Весь королевский двор мог войти, пока он трахал её, и если бы Атилла потребовал стонать громче, она заставила бы стены дрожать."
 
     old "It wasn’t just the sex that scared Sarah, but rather, how when Atilla took her, he took every part of her."
-    new "It wasn’t just the sex that scared Sarah, but rather, how when Atilla took her, he took every part of her."
+    new "Сару пугал не столько сам секс, сколько то, что когда Атилла брал её, он забирал каждую её частичку."
 
     old "In the moment itself he commanded her body, as well as her mind."
     new "В самый момент он управлял и её телом, и её разумом."

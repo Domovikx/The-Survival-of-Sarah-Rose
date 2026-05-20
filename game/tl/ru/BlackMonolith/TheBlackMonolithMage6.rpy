@@ -233,7 +233,7 @@ translate ru strings:
     new "Слишком много. Ты его топишь. Нужно тоньше."
 
     old "I thought I was being subtle."
-    new "Я думала, я была тонкой."
+    new "Я думала, я действую деликатно."
 
     old "You were, if you were weaving a spell. But these seedlings, they're incredibly delicate."
     new "Ты была, если бы плела заклинание. Но эти саженцы невероятно нежные."
@@ -464,7 +464,7 @@ translate ru strings:
     new "И она произнесла слова, навязывая свою волю телу, которое теперь понимала как не более чем инструмент. Оболочку своей истинной сущности."
 
     old "A shell she could change and manipulate, without altering her own essential self."
-    new "Оболочку, которую можно менять и манипулировать, не изменяя свою собственную суть."
+    new "Оболочку, которую можно менять и которой можно манипулировать, не изменяя свою суть."
 
     old "And she watched from the void as her body drifted up, the weight of her own body willed away."
     new "И она смотрела из пустоты, как её тело поднимается, вес собственного тела исчез по её воле."
@@ -548,7 +548,7 @@ translate ru strings:
     new "И ты не согласен?"
 
     old "I won't disagree that this magic is dangerous. I just don't agree that it is uniquely dangerous."
-    new "Я не буду спорить, что эта магия опасна. Я просто не согласен, что она уникально опасна."
+    new "Я не буду спорить, что эта магия опасна. Я просто не согласен, что она опаснее других."
 
     old "A fire spell can burn down a city. Some mages can rip apart mountains."
     new "Заклинание огня может сжечь город. Некоторые маги могут разрывать горы."

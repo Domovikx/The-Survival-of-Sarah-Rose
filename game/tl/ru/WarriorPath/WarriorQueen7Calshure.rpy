@@ -11,7 +11,7 @@ translate ru strings:
     new "За исключением цитадели, большинство зданий в Калшуре были довольно низкими, позволяя ей видеть весь город."
 
     old "She watched her army marching through the streets of the city, greeted as liberators."
-    new "Она наблюдала, как её армия марширует по улицам города, встречаемая как освободители."
+    new "Она наблюдала, как её армия марширует по улицам города — их встречали как освободителей."
 
     old "The Tribesmen had fled the city by early hour, keeping true to their word."
     new "Племенники покинули город ранним утром, сдержав своё слово."

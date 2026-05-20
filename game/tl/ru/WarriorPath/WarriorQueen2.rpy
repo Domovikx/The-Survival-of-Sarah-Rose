@@ -158,7 +158,7 @@ translate ru strings:
     new "Я тебя предупреждала!"
 
     old "Belmont shrugged, seemingly unimpressed."
-    new "Белмонт пожал плечами, казалось, невозмутимый."
+    new "Белмонт пожал плечами, казалось, невозмутим."
 
     old "Look, Blondie, I'll be plain with you. The two of us had an understanding years ago."
     new "Слушай, Блонди, буду с тобой откровенен. У нас с тобой годы назад была договорённость."
@@ -257,7 +257,7 @@ translate ru strings:
     new "Белмонт издал гортанный крик, но он утонул в крови, хлынувшей из его разбитого лица."
 
     old "Never much to look at, the punch to the face turned rubble to ruin."
-    new "Не особо красивый и раньше, от удара в лицо он превратился из развалины в руины."
+    new "Не особо красивый и раньше, от удара в лицо он превратился в руины."
 
     old "Belmont tumbled from his chair onto the floor, crawling as he tried to get away."
     new "Белмонт свалился со стула на пол, пытаясь уползти."
@@ -521,7 +521,7 @@ translate ru strings:
     new "То, что такой порочный мужчина был так щедро одарён, было, пожалуй, лучшим доказательством несправедливости мира."
 
     old "Recalling her memories from years ago, she knew what to do."
-    new "Вспоминая свои ощущения годичной давности, она знала, что делать."
+    new "Вспоминая свои ощущения тех лет, она знала, что делать."
 
     old "She reached out and wrapped her hand around the shaft. Warm, and hard like iron."
     new "Она протянула руку и обхватила ствол. Тёплый и твёрдый, как железо."
@@ -914,7 +914,7 @@ translate ru strings:
     new "Уставшая, измученная, она осталась лежать на столе. Документы прилипли к её покрытой потом коже."
 
     old "Between her legs, she could feel him drip out along her thigs."
-    new "Между ног она чувствовала, как он вытекает по её бёдрам."
+    new "Между ног она чувствовала, как его семя вытекает по её бёдрам."
 
     old "Her breathing slowed as she slowly came back from the high."
     new "Её дыхание замедлилось, когда она медленно возвращалась с вершины."

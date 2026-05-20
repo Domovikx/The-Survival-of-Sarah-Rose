@@ -68,7 +68,7 @@ translate ru strings:
     new "Ты поспала? Я не слышала, как ты вошла."
 
     old "Yeah, as good as I could get, all things considered."
-    new "Yeah, as good as I could get, all things considered."
+    new "Да, настолько хорошо, насколько это возможно, учитывая все обстоятельства."
 
     old "Yeah, sorry about the hay...that was all I could find for now."
     new "Да, прости за сено... это всё, что я смогла найти."
@@ -467,7 +467,7 @@ translate ru strings:
     new "Сара увидела, как лицо Далии стало печальным."
 
     old "When I first arrived, a pack of Hellhounds attacked me, and the Master stepped in just in time."
-    new "Когда я только прибыла, стая Гончих Ада напала на меня, и Хозяин вместился как раз вовремя."
+    new "Когда я только прибыла, стая Гончих Ада напала на меня, и Хозяин вмешался как раз вовремя."
 
     old "I remember being so happy when he saved me..."
     new "Помню, я была так счастлива, когда он спас меня..."
@@ -593,7 +593,7 @@ translate ru strings:
     new "Сара неловко уставилась в пол."
 
     old "She was being praised, but she hardly wanted to hear how good of a servant she could be to this vile creature."
-    new "Её хвалили, но она вряд ли хотела слышать, какой хорошей служанкой может быть для этого мерзкого создания."
+    new "Её хвалили, но она вряд ли хотела слышать, какой хорошей служанкой она может быть для этого мерзкого создания."
 
     old "Sarah is still new here, and I am sure she had much to learn."
     new "Сара всё ещё новая здесь, и я уверен, ей многому нужно научиться."
@@ -644,7 +644,7 @@ translate ru strings:
     new "Ослушаться Демона и понести наказание — одно дело, но что, если ослушание значит, что страдать будет другой?"
 
     old "Sarah wasn't so eager to make someone else pay for her own acts of defiance."
-    new "Сара не так стремилась заставлять другого платить за свои акты неповиновения."
+    new "Сара не так стремилась заставлять другого платить за своё неповиновение."
 
     old "And by making Dalia responsible for Sarah, the Daemon kept them from becoming too friendly."
     new "И делая Далию ответственной за Сару, Демон не давал им стать слишком дружелюбными."

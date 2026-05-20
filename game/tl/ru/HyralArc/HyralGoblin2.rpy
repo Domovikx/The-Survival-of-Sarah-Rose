@@ -110,103 +110,103 @@ translate ru strings:
     new "Ты идти. Мы бежать сейчас."
 
     old "They rushed out from the cell into the cold dark."
-    new "They rushed out from the cell into the cold dark."
+    new "Они выбежали из камеры в холодную темноту."
 
     old "Sarah felt the snow burn on her naked feet but was almost glad for it."
-    new "Sarah felt the snow burn on her naked feet but was almost glad for it."
+    new "Сара чувствовала, как снег жжёт босые ноги, но была почти рада этому."
 
     old "Whatever humiliation she had suffered...she would die free."
-    new "Whatever humiliation she had suffered...she would die free."
+    new "Каким бы ни было унижение... она умрёт свободной."
 
     old "Take this!"
     new "Возьми это!"
 
     old "The goblin pulled out a cloak from its bag."
-    new "The goblin pulled out a cloak from its bag."
+    new "Гоблин достал плащ из сумки."
 
     old "Sarah eagerly put it on."
-    new "Sarah eagerly put it on."
+    new "Сара с готовностью надела его."
 
     old "Took from supply store. Orc so stupid."
     new "Взял со склада. Орки такие глупые."
 
     old "Sarah felt an instant warmth as she was now shielded from the cold."
-    new "Sarah felt an instant warmth as she was now shielded from the cold."
+    new "Сара мгновенно почувствовала тепло — теперь она была защищена от холода."
 
     old "The goblin crawled through the dark, guiding their way in the camp."
-    new "The goblin crawled through the dark, guiding their way in the camp."
+    new "Гоблин полз сквозь темноту, ведя их через лагерь."
 
     old "Hush! No speak!"
     new "Тсс! Не говорить!"
 
     old "Sarah nodded as they silently moved about."
-    new "Sarah nodded as they silently moved about."
+    new "Сара кивнула, и они бесшумно двинулись."
 
     old "Save for a few orc guards, the camp seemed almost deserted."
-    new "Save for a few orc guards, the camp seemed almost deserted."
+    new "За исключением пары орков-стражников, лагерь казался почти пустым."
 
     old "They feast. All drunk. Stupid!"
     new "Они пируют. Все пьяные. Глупые!"
 
     old "The goblin repeated, as if to make sure she understood."
-    new "The goblin repeated, as if to make sure she understood."
+    new "Гоблин повторил, словно проверяя, поняла ли она."
 
     old "Each time, the goblin snuck ahead, making nearly no sounds and leaving no tracks."
-    new "Each time, the goblin snuck ahead, making nearly no sounds and leaving no tracks."
+    new "Каждый раз гоблин крался вперёд, почти бесшумно и не оставляя следов."
 
     old "Then, if the coast was clear, it would return to get her."
-    new "Then, if the coast was clear, it would return to get her."
+    new "Затем, если путь был свободен, возвращался за ней."
 
     old "They moved slowly, but steadily."
-    new "They moved slowly, but steadily."
+    new "Они двигались медленно, но неуклонно."
 
     old "And true to its word, they managed to evade discovery."
-    new "And true to its word, they managed to evade discovery."
+    new "И верный своему слову, он провёл их незамеченными."
 
     old "Finally, the goblin brought them up to the edge of the camp."
-    new "Finally, the goblin brought them up to the edge of the camp."
+    new "Наконец гоблин подвёл их к краю лагеря."
 
     old "Hidden behind a series of crates, there was a small gap in the pallisade walls."
-    new "Hidden behind a series of crates, there was a small gap in the pallisade walls."
+    new "Спрятанный за ящиками, в частоколе был небольшой проём."
 
     old "Hole in wall. Orcs never fix. So stupid!"
     new "Дыра в стене. Орки никогда не чинят. Так глупо!"
 
     old "The goblin crawled through easily."
-    new "The goblin crawled through easily."
+    new "Гоблин легко пролез."
 
     old "Sarah, on hands and knees, crawled after him."
-    new "Sarah, on hands and knees, crawled after him."
+    new "Сара на четвереньках поползла за ним."
 
     old "The hole was small, almost too small, but she managed with a bit of help from the goblin."
-    new "The hole was small, almost too small, but she managed with a bit of help from the goblin."
+    new "Отверстие было маленьким, почти слишком маленьким, но с помощью гоблина она справилась."
 
     old "Finally on the other side, Sarah saw the endless white void of the Hyral mountain range."
-    new "Finally on the other side, Sarah saw the endless white void of the Hyral mountain range."
+    new "По другую сторону Сара увидела бесконечную белую пустоту горного хребта Хайрал."
 
     old "That same brutal winter landscape that had ruined her last time."
-    new "That same brutal winter landscape that had ruined her last time."
+    new "Тот же безжалостный зимний пейзаж, что погубил её в прошлый раз."
 
     old "She felt anxious, looking out over it again."
-    new "She felt anxious, looking out over it again."
+    new "Она чувствовала тревогу, глядя на него снова."
 
     old "What if they noticed she was gone? What if they hunted them again?"
-    new "What if they noticed she was gone? What if they hunted them again?"
+    new "А если заметят, что её нет? А если снова будут охотиться?"
 
     old "Would this all be for nothing?"
-    new "Would this all be for nothing?"
+    new "Неужели всё это зря?"
 
     old "Or worse? Would they punish her more harshly for trying to escape?"
-    new "Or worse? Would they punish her more harshly for trying to escape?"
+    new "Или хуже? Накажут ли её строже за попытку побега?"
 
     old "Maybe...maybe she should go back..."
-    new "Maybe...maybe she should go back..."
+    new "Может... может, ей вернуться..."
 
     old "Her hands trembled."
-    new "Her hands trembled."
+    new "Её руки дрожали."
 
     old "Suddenly, she felt the goblin's hands in hers."
-    new "Suddenly, she felt the goblin's hands in hers."
+    new "Внезапно она почувствовала руку гоблина в своей."
 
     old "You safe. Stay with Raza. We make it to town."
     new "Ты в безопасности. Оставайся с Разой. Доберёмся до города."
@@ -512,7 +512,7 @@ translate ru strings:
     new "Сара громко застонала, кончая от его грубого секса."
 
     old "And still he fucked her with little care for her pleasures, which only added to hers."
-    new "И он всё трахал её, мало заботясь о её удовольствии, что лишь усиливало его."
+    new "И он всё трахал её, мало заботясь о её удовольствии, что лишь усиливало её."
 
     old "Such a simplicity, to simply surrender and give herself, with nothing more asked of her."
     new "Такая простота — просто сдаться и отдаться, ничего больше не требуя."

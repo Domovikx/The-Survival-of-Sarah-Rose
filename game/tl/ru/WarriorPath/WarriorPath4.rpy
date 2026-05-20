@@ -1325,13 +1325,13 @@ translate ru strings:
     new "Не волнуйся из-за Кейт. Я защищу тебя."
 
     old "Who said I was talking about her?"
-    new "Кто сказал, что я говорил о ней?"
+    new "Кто сказал, что я говорила о ней?"
 
     old "Sarah turned around?"
     new "Сара обернулась?"
 
     old "I said I'll make you pay for that tonight. Maybe I was talking about you?"
-    new "Я сказал, что заставлю вас заплатить за это сегодня. Может, я говорил о тебе?"
+    new "Я сказала, что заставлю тебя заплатить за это сегодня. Может, я говорила о тебе?"
 
     old "What did I do?"
     new "А что я сделала?"

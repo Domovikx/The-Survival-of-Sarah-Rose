@@ -44,7 +44,7 @@ translate ru strings:
     new "Что? О, нет... не нервничаю."
 
     old "Just contemplative, then?"
-    new "Просто задумчивая, тогда?"
+    new "Просто задумалась?"
 
     old "Sarah watched out of the window again. It was early, but the streets were already begining to fill up."
     new "Сара снова посмотрела в окно. Было рано, но улицы уже начинали заполняться."
@@ -125,7 +125,7 @@ translate ru strings:
     new "Могла ли она надеяться стать хотя бы половиной того правителя, каким был он?"
 
     old "But while great rulers must properly weigh each life, they also cannot allow themselves to be paralyzed by fear."
-    new "Но хотя великие правители должны тщательно взвешивать каждую жизнь, они также не могут позволить себе быть парализованными страхом."
+    new "Но хотя великие правители должны тщательно взвешивать каждую жизнь, они не могут позволить страху парализовать их."
 
     old "A truly great ruler, understanding the cost, will still do what must be done."
     new "По-настоящему великий правитель, понимая цену, всё равно сделает то, что должно."
@@ -506,7 +506,7 @@ translate ru strings:
     new "И хотя семья, в которой я родился, была достаточно богата, это был не очень впечатляющий Дом."
 
     old "Most of the men in my family were expected to enter military service, the women the political core."
-    new "Большинство мужчин в моей семье должны были идти на военную службу, женщины — в политическое ядро."
+    new "Большинство мужчин в моей семье должны были идти на военную службу, женщины — в политическую сферу."
 
     old "And so I joined the Mythran army."
     new "И я вступил в Мифранскую армию."
@@ -545,7 +545,7 @@ translate ru strings:
     new "Да. Один амбициозный возносится, а один старый и ленивый теряет расположение."
 
     old "Favor. Sarah wonderd at the odd word. Favor with whom, she wondered."
-    new "Расположение. Сара удивилась странному слову. Расположение кого, задалась она вопросом."
+    new "Расположение. Сара задумалась над странным словом. Расположение кого, задалась она вопросом."
 
     old "My luck was that the Empire was advancing on a great campaign in the Southern lands."
     new "Моей удачей было то, что Империя вела великую кампанию в Южных землях."
@@ -620,7 +620,7 @@ translate ru strings:
     new "Примерно через месяц меня призвали в Вечный Двор и даровали величайшее благословение."
 
     old "Ever since, I have been a dutiful member of the Eternal Court, tasked with offering a guiding and constant hand to the Empire."
-    new "С тех пор я был верным членом Вечного Двора, которому поручено направлять и поддерживать Империю."
+    new "С тех пор я являюсь верным членом Вечного Двора, которому поручено направлять и поддерживать Империю."
 
     old "The position had clearly not done him poorly in terms of wealth either."
     new "Должность, очевидно, также не обидела его в плане богатства."
@@ -698,7 +698,7 @@ translate ru strings:
     new "Я не пролью всю эту кровь только для того, чтобы заменить одно ярмо на другое."
 
     old "So proudly indepdent, you Union Kingdom folk."
-    new "Такие гордые и независимые, вы, народ Южного Королевства."
+    new "Такие гордые и независимые, вы, народ Объединённого Королевства."
 
     old "Gilead sipped from his wine, before placing the cup back on the table."
     new "Гилеад отпил из своего бокала, прежде чем поставить его обратно на стол."
@@ -740,7 +740,7 @@ translate ru strings:
     new "Вот почему я говорю, что мы можем всё устроить... для нас обоих."
 
     old "You will have your throne back, and I will only ask for your consideration in treating me with some degree of prejudice."
-    new "Вы вернёте себе трон, а я попрошу лишь об ответном расположении и некотором предпочтении."
+    new "Вы вернёте себе трон, а я попрошу лишь об ответном отношении и определённом предпочтении."
 
     old "Carolyn had told her what Gilead was after. The conflict itself could be the point for him."
     new "Кэролин рассказала ей, чего на самом деле добивается Гилеад. Сам конфликт мог быть для него целью."
@@ -791,7 +791,7 @@ translate ru strings:
     new "Гилеад наклонился вперёд."
 
     old "So I will be plain, Sarah Rose, daughter of Orwen...will you accept my help?"
-    new "Итак, буду прям, Сара Роуз, дочь Орвена... вы примете мою помощь?"
+    new "Итак, буду говорить прямо, Сара Роуз, дочь Орвена... вы примете мою помощь?"
 
     old "Accept Gilead's offer"
     new "Принять предложение Гилеада"
@@ -848,7 +848,7 @@ translate ru strings:
     new "Думаешь, я совершила ошибку?"
 
     old "No. You were wise to accept his help."
-    new "Нет. Ты была мудра, приняв его помощь."
+    new "Нет. Ты поступила мудро, приняв его помощь."
 
     old "I know it wasn't easy, and that you didn't want to be in his debt. But for the people of Rosanna...it will be best."
     new "Я знаю, это было непросто и ты не хотела быть у него в долгу. Но для народа Розанны... так будет лучше."
@@ -977,7 +977,7 @@ translate ru strings:
     new "Это мой дом. Среди мужчин и женщин моего отряда наёмников."
 
     old "Who I have fought besides for years."
-    new "С которыми я сражалась плечом к плечу годами."
+    new "С которыми я сражалась бок о бок годами."
 
     old "They are my friends, my family. Not by blood, but by choice."
     new "Они мои друзья, моя семья. Не по крови, а по выбору."

@@ -230,16 +230,16 @@ translate ru strings:
     new "Опустив руки к бёдрам, она скользнула ими по телу, стягивая трусики."
 
     old "As she did so, she watched the orc's member, already impressive, grow even larger."
-    new "As she did so, she watched the orc's member, already impressive, grow even larger."
+    new "Пока она делала это, она видела, как член орка, уже внушительный, становится ещё больше."
 
     old "Naked, she approach Atilla. She walked close enough to where she could reach out and touch his cock."
     new "Обнажённая, она подошла к Атилле — достаточно близко, чтобы протянуть руку и коснуться его члена."
 
     old "She didn't yet have the experience to know much more."
-    new "У неё ещё не было опыта знать больше."
+    new "У неё ещё не было достаточного опыта, чтобы знать больше."
 
     old "To her relief, Atilla did."
-    new "К её облегчению, у Атиллы был."
+    new "К её облегчению, у Атиллы он был."
 
     old "The orc placed his massive hand atop her head, pushing Sarah down unto her knees."
     new "Орк положил свою массивную руку ей на голову и толкнул Сару на колени."
@@ -299,7 +299,7 @@ translate ru strings:
     new "Больше, чем ты привыкла, а?"
 
     old "Atilla said jokingly."
-    new "Сказал Атилла шутливо."
+    new "Атилла шутливо сказал."
 
     old "Sarah tried to respond to the orc, but he kept his cock firmly in her mouth."
     new "Сара попыталась ответить орку, но он крепко держал член у неё во рту."
@@ -314,7 +314,7 @@ translate ru strings:
     new "К своему стыду, Сара чувствовала, как становится всё влажнее, терпя господство Атиллы."
 
     old "The orc kept pulling her head onto his cock, and also began to slowly thrust forward, fucking her mouth."
-    new "Орк продолжал насаживать её голову на член и也开始 медленно двигаться вперёд, трахая её рот."
+    new "Орк продолжал насаживать её голову на член и начал медленно двигаться вперёд, трахая её рот."
 
     old "The feeling of her mouth being fucked by the orc, his member sliding deeper into the back of her mouth, began to drive Sarah wild."
     new "Ощущение того, что её рот трахает орк, его член скользит глубже в глотку, начало сводить Сару с ума."
@@ -353,7 +353,7 @@ translate ru strings:
     new "Сара чувствовала, как рот наполняется семенем орка."
 
     old "With nowhere to turn to, her head still kept in place, Sarah saw no way out, other than to swallow it."
-    new "Не имея возможности отвернуться, с головой, всё ещё зафиксированной на месте, Сара не видела выхода, кроме как проглотить."
+    new "Не имея возможности отвернуться, с головой, всё ещё зафиксированной на месте, Сара не видела выхода, кроме как проглотить всё."
 
     old "Holding onto the orc's sides with her hands, she began to swallow."
     new "Держась за бока орка, она начала глотать."
@@ -362,7 +362,7 @@ translate ru strings:
     new "С каждым глотком всё больше спермы ползло по горлу, но орк продолжал накачивать её рот, извергая порцию за порцией."
 
     old "In all, she had to swallow four times before she felt as if she could breathe again. Her throat, coated in orc cum."
-    new "Всего ей пришлось глотнуть четыре раза, прежде чем она снова смогла дышать. Горло было покрыто оркской спермой."
+    new "Всего ей пришлось сглотнуть четыре раза, прежде чем она снова смогла дышать. Горло было покрыто оркской спермой."
 
     old "Sarah could feel she hadn't entirely succeeded, as some of the orc's seed spilled out the side of her mouth, mixing with the drool on her chin, crawling down her breasts."
     new "Сара чувствовала, что не вполне преуспела — часть семени орка вытекла из уголка рта, смешиваясь со слюной на подбородке и стекая по груди."
@@ -380,7 +380,7 @@ translate ru strings:
     new "Он бросил последний взгляд на бывшую принцессу — стоящую на коленях, вызывающе смотрящую на него с его членом во рту."
 
     old "He released his grip on Sarah's head, setting her free. Sarah pulled herself free from the orc's cock and gasped for air."
-    new "Он отпустил голову Сары, освобождая её. Сара высвободилась изо рта орка и жадно глотнула воздух."
+    new "Он отпустил голову Сары, освобождая её. Сара высвободила член орка изо рта и жадно глотнула воздух."
 
     old "After catching her breath, still on her knees, she looked at Atilla."
     new "Отдышавшись, всё ещё на коленях, она посмотрела на Атиллу."
@@ -413,7 +413,7 @@ translate ru strings:
     new "Ты сказал, что будешь тренировать меня..."
 
     old "Had she really sucked this monster's cock for nothing? Debased herself for no reason?"
-    new "Неужели она сосала член этому монстру задаром? Унижалась без причины?"
+    new "Неужели она сосала член этому монстру задаром? Унижала себя без причины?"
 
     old "Atilla released his grip."
     new "Атилла отпустил её."
@@ -437,7 +437,7 @@ translate ru strings:
     new "Орк тыкал, щипал и тянул её тело."
 
     old "Embarassed, Sarah tried to look away, avoiding eye contact wherever the orc was."
-    new "Смущённая, Сара пыталась отвести взгляд, избегая зрительного контакта, где бы ни был орк."
+    new "Смутившись, Сара попыталась отвести взгляд, избегая смотреть на орка, куда бы он ни встал."
 
     old "It worked for a moment, until the orc stood in front of her."
     new "Это удавалось мгновение, пока орк не встал перед ней."

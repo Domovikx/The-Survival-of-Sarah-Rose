@@ -5,8 +5,8 @@
 translate ru strings:
 
     old "Sitting on the floor, Sarah stared ahead through tear stained eyes."
-    new "Sitting on the floor, Sarah stared ahead through tear stained eyes."
+    new "Сидя на полу, Сара смотрела перед собой заплаканными глазами."
 
     old "She did her best to comfort herself. Perhaps the citadel would not be so bad."
-    new "She did her best to comfort herself. Perhaps the citadel would not be so bad."
+    new "Она изо всех сил пыталась утешить себя. Возможно, цитадель будет не так уж плоха."
 

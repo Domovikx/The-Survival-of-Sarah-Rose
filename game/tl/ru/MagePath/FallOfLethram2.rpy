@@ -5,7 +5,7 @@
 translate ru strings:
 
     old "As Sarah walked back home, she stumbled through the early streets of Lethram."
-    new "As Sarah walked back home, she stumbled through the early streets of Lethram."
+    new "Пока Сара шла домой, она бродила по утренним улицам Летрама."
 
     old "The sun had only just begun to crawl across the horizon, covering the world in gold."
     new "The sun had only just begun to crawl across the horizon, covering the world in gold."
@@ -14,25 +14,25 @@ translate ru strings:
     new "As she reached the top of the hill, close to her home, she turned and watched out across Lethram."
 
     old "As the the sun rose further, the golden light receded."
-    new "As the the sun rose further, the golden light receded."
+    new "Когда солнце поднялось выше, золотой свет отступил."
 
     old "A blue sky, save for a few clouds, crowned the start of a new day in Lethram."
-    new "A blue sky, save for a few clouds, crowned the start of a new day in Lethram."
+    new "Голубое небо, если не считать нескольких облаков, венчало начало нового дня в Летраме."
 
     old "And she remained transfixed on the sight."
-    new "And she remained transfixed on the sight."
+    new "И она застыла, заворожённая этим зрелищем."
 
     old "As if she was hoping to capture something, imprint it to her mind."
-    new "As if she was hoping to capture something, imprint it to her mind."
+    new "Словно надеялась запечатлеть что-то, отпечатать это в своей памяти."
 
     old "Sarah felt a surge of emotions she could not quite place, nor understand the origin of."
-    new "Sarah felt a surge of emotions she could not quite place, nor understand the origin of."
+    new "Сара почувствовала всплеск эмоций, которым не могла найти объяснения, ни понять их источник."
 
     old "Building ever deeper in her chest."
-    new "Building ever deeper in her chest."
+    new "Они росли всё глубже в её груди."
 
     old "The many emotions grew into a torrent, and one by one they faded away."
-    new "The many emotions grew into a torrent, and one by one they faded away."
+    new "Множество эмоций превратились в бурный поток, и одна за другой они утихли."
 
     old "Until only one remained."
     new "Until only one remained."

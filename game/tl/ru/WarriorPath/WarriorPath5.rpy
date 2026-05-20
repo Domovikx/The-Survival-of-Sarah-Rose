@@ -5,7 +5,7 @@
 translate ru strings:
 
     old "Sarah had woken up early the next morning to the sound of knocking at her door, a small headache reminding her of the celebration from the night before."
-    new "Сара проснулась рано на следующее утро от звука стука в дверь, лёгкая головная боль напоминала ей о праздновании прошлой ночи."
+    new "Сара проснулась рано на следующее утро от стука в дверь, лёгкая головная боль напоминала ей о праздновании прошлой ночи."
 
     old "Answering the door, she found Vaelen waiting for her."
     new "Открыв дверь, она обнаружила Вэлена, ожидающего её."
@@ -137,7 +137,7 @@ translate ru strings:
     new "Я говорил тебе однажды, давным-давно, что я знаю вещи."
 
     old "You ask me how I know them, I wish I knew any better than you."
-    new "Ты спрашиваешь меня, откуда я их знаю — я бы хотел знать это не лучше тебя."
+    new "Ты спрашиваешь меня, откуда я их знаю — хотел бы я сам знать об этом не больше твоего."
 
     old "Sometimes, in my life, things appear to me so obvious that I don't wonder how I know them, only how anyone else couldn't."
     new "Иногда в моей жизни вещи кажутся мне настолько очевидными, что я не удивляюсь, как я их знаю, а лишь тому, как другие могут их не знать."
@@ -170,7 +170,7 @@ translate ru strings:
     new "В этом месте всё чувствовалось иначе."
 
     old "Suffocating. Crushing. As though the weight of the entire palace was balanced on top of them."
-    new "Удушающе. Давяще. Словно вес всего дворца балансировал над ними."
+    new "Удушающе. Гнетуще. Словно вес всего дворца балансировал над ними."
 
     old "Perhaps it was, Sarah realized as they went deeper."
     new "Возможно, так и было, осознала Сара, когда они углубились."
@@ -248,7 +248,7 @@ translate ru strings:
     new "Как ты это сделал?"
 
     old "The gate only permits entry to those it wants."
-    new "Врата разрешают вход только тем, кому хотят."
+    new "Врата разрешают вход только тем, кому захотят."
 
     old "Bagrad's royal family foolish believed that meant themselves, but the door has a mind of its own, and it decides itself who it grants entry."
     new "Королевская семья Баграда по глупости считала, что это означает их самих, но у двери есть собственный разум, и она сама решает, кому даровать вход."
@@ -371,10 +371,10 @@ translate ru strings:
     new "Как ты оказалась здесь..."
 
     old "Looting, she had no doubt. The tribesmen must have seized it, and with no use for art, sold it off to some merchant, passing hands until one day it dissapeared into this vault."
-    new "Мародёрство, в этом она не сомневалась. Племена должно быть захватили её и, не имея применения искусству, продали какому-то торговцу, переходя из рук в руки, пока однажды она не исчезла в этом хранилище."
+    new "Мародёрство, в этом она не сомневалась. Племена, должно быть, захватили её и, не имея применения искусству, продали какому-то торговцу, переходя из рук в руки, пока однажды она не исчезла в этом хранилище."
 
     old "What a prize it must have been, the painting of the last royal family of Rosanna."
-    new "Каким же трофеем она должно быть была — картина последней королевской семьи Розанны."
+    new "Каким же трофеем она, должно быть, была — картина последней королевской семьи Розанны."
 
     old "She couldn't take it with her, yet, it also felt wrong to her to leave it behind. It wasn't theirs, it belonged to her."
     new "Она не могла взять её с собой, но и оставлять её здесь казалось неправильным. Она была не их, она принадлежала ей."
@@ -392,7 +392,7 @@ translate ru strings:
     new "Сара бросилась вперёд, боясь упустить его из виду, но вскоре оказалась перед объектом."
 
     old "It was as Vaelen had said a stone that shone with light of crimson, but it was also not quite a gemstone or a ruby."
-    new "Это было, как и говорил Вэлен, камень, сияющий багровым светом, но это был не совсем самоцвет или рубин."
+    new "Это был, как и говорил Вэлен, камень, сияющий багровым светом, но не совсем самоцвет или рубин."
 
     old "The light swirled within it. The colours softly shifted, from crimson to other variations of the colour, exploring patterns Sarah had never seen before in her life."
     new "Свет кружился внутри него. Цвета мягко переливались, от багрового к другим вариациям этого цвета, создавая узоры, которых Сара никогда прежде не видела."
@@ -548,7 +548,7 @@ translate ru strings:
     new "Почему я должна верить какому-то гнусному духу, а не своему командиру?"
 
     old "Because your master has been gifted with sight-beyond-sight."
-    new "Потому что твой господин был наделён зрением-за-пределами-зрения."
+    new "Потому что твой господин был наделён зрением за пределами зрения."
 
     old "And he fears what he has seen."
     new "И он боится того, что увидел."
@@ -569,7 +569,7 @@ translate ru strings:
     new "И почему меня это должно волновать?"
 
     old "He is my friend, he has done nothing but support me when nobody else would. Why should I not help him?"
-    new "Он мой друг, он делал всё, чтобы поддерживать меня, когда никто другой не хотел. Почему я не должна помогать ему?"
+    new "Он мой друг, он только и делал, что поддерживал меня, когда никто другой не хотел. Почему я не должна помогать ему?"
 
     old "Because the blade he seeks to divert, is yours."
     new "Потому что клинок, который он пытается отвести, — твой."
@@ -725,7 +725,7 @@ translate ru strings:
     new "Сара подняла камень, чтобы он мог увидеть."
 
     old "She casually tossed it through the air towards him."
-    new "Она небрежно бросила его по воздуху ему."
+    new "Она небрежно бросила его ему по воздуху."
 
     old "She saw him eagerly catch it."
     new "Она увидела, как он жадно поймал его."
@@ -968,7 +968,7 @@ translate ru strings:
     new "Она видела, как он смахнул слезу."
 
     old "It should have been me."
-    new "Должно было быть мне."
+    new "Это я должен был умереть."
 
     old "Don't say that."
     new "Не говори так."

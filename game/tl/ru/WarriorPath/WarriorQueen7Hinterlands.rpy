@@ -14,13 +14,13 @@ translate ru strings:
     new "Толстый слой снега замедлял марш её армии, а повозки увязали всё глубже в безжалостных сугробах."
 
     old "The poor road, barely fit for a merchant's wagon, proved entirely insufficient for an army of her size."
-    new "Плохая дорога, едва пригодная для купеческого воза, оказалась совершенно непригодной для армии такого размера."
+    new "Плохая дорога, едва пригодная для купеческого воза, оказалась совершенно непригодной для столь многочисленной армии."
 
     old "As cold winds rolled in from the far western Hyral Mountains, they brought with them punishing hail and frigid temperatures."
     new "Холодные ветры с далёких западных Хайральских гор приносили с собой жестокий град и ледяную стужу."
 
     old "Sarah watched the men of her army stumble through the fields, their heavy equipment slowing them down even further."
-    new "Сара смотрела, как солдаты её армии спотыкаются на полях, а тяжёлое снаряжение замедляло их ещё сильнее."
+    new "Сара смотрела, как солдаты её армии пробираются через поля, а тяжёлое снаряжение замедляло их ещё сильнее."
 
     old "Gathered around campfires at night, people sought out a warmth that lasted only briefly."
     new "Собираясь у костров по ночам, люди искали тепло, длившееся лишь недолго."
@@ -29,7 +29,7 @@ translate ru strings:
     new "Днём их пальцы на руках и ногах, их кисти и стопы, их конечности, их тела — всё медленно сдавалось холоду."
 
     old "The advancing frost mutilated those that underestimated it, turning hands cold and sickly blue."
-    new "Наступающий мороз калечил тех, кто недооценивал его, превращая руки в холодные и болезненно-синие."
+    new "Наступающий мороз калечил тех, кто недооценивал его, отчего руки становились холодными и болезненно-синими."
 
     old "As they pressed on, too committed to return, not all could endure the horror of the exposure."
     new "Продолжая путь — слишком далеко зашли, чтобы повернуть назад — не все могли вынести ужас этого холода."
@@ -44,7 +44,7 @@ translate ru strings:
     new "Солдаты, которые переставали говорить или смеяться, а маршировали, словно уже мёртвые."
 
     old "Falling behind until they could move no more."
-    new "Отставая, пока уже не могли двигаться дальше."
+    new "Отставая, пока не могли больше двигаться."
 
     old "They sat still by the side of the road, waiting for a death that seemed less horrid than the enduring suffering of the frost."
     new "Они неподвижно сидели на обочине, ожидая смерти, которая казалась менее ужасной, чем бесконечные страдания от мороза."

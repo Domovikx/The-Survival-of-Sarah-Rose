@@ -770,7 +770,7 @@ translate ru strings:
     new "Ненавидит, когда ему перечат."
 
     old "Dalia suddenly smiled again."
-    new "Далия снова улыбнулась."
+    new "Далия внезапно снова улыбнулась."
 
     old "But don't worry. It's not so bad."
     new "Но не волнуйся. Всё не так плохо."

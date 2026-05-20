@@ -50,7 +50,7 @@ translate ru strings:
     new "Её голос гремел с невероятной властностью."
 
     old "The stranger, for his part, only turned his head and regarded her. Unimpressed."
-    new "Незнакомец, в свою очередь, лишь повернул голову и посмотрел на неё. Без впечатления."
+    new "Незнакомец, в свою очередь, лишь повернул голову и посмотрел на неё. Равнодушно."
 
     old "Aah, Sarah Rose I suspect?"
     new "Аа, Сара Роуз, я полагаю?"
@@ -86,10 +86,10 @@ translate ru strings:
     new "Он улыбнулся. Это была искренняя улыбка, такая, какая бывает лишь у немногих."
 
     old "My manners must have been lost to me on the road. My apologies. My name is Metis."
-    new "Мои манеры, должно быть, потерялись по дороге. Мои извинения. Меня зовут Метис."
+    new "Мои манеры, должно быть, потерялись по дороге. Приношу свои извинения. Меня зовут Метис."
 
     old "I've had the pleasure of meeting your...companion."
-    new "Я имел удовольствие встретить вашу... спутницу."
+    new "Я имел удовольствие встретить твою... спутницу."
 
     old "He seemed amused at the word, referencing Samayra."
     new "Казалось, его позабавило это слово, имея в виду Самайру."
@@ -200,7 +200,7 @@ translate ru strings:
     new "В его поведении было что-то лисье."
 
     old "But I had heard through the grapevine that he had taken a new apprentice. The stunning Sarah Rose."
-    new "Но по слухам до меня дошло, что он взял нового ученика. Потрясающую Сару Роуз."
+    new "Но по слухам до меня дошло, что он взял новую ученицу. Потрясающую Сару Роуз."
 
     old "Metis chuckled."
     new "Метис усмехнулся."
@@ -308,7 +308,7 @@ translate ru strings:
     new "Метис кивнул."
 
     old "A most kind offer, but I'll sleep here tonight if that is fine with you. The fire...it's awfully calming."
-    new "Очень любезное предложение, но я посплю здесь сегодня, если ты не против. Огонь... он ужасно успокаивает."
+    new "Очень любезное предложение, но я посплю здесь сегодня, если ты не против. Огонь... он так успокаивает."
 
     old "Of course, make yourself at home."
     new "Конечно, чувствуй себя как дома."
@@ -422,7 +422,7 @@ translate ru strings:
     new "Сара рассмеялась, прерывая заикающуюся панику Самайры."
 
     old "You can be really mean, you know that?"
-    new "Ты бываешь очень жестокой, ты знаешь это?"
+    new "Ты бываешь очень жестокой, знаешь?"
 
     old "Sarah crawled into the bed and pulled the covers back."
     new "Сара забралась в кровать и откинула одеяло."

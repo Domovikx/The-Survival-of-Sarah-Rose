@@ -53,7 +53,7 @@ translate ru strings:
     new "Она побрела туда, от нечего делать и не без любопытства."
 
     old "To her surprise, Sarah's questions regarding Kate were about to be answered."
-    new "К её удивлению, вопросы о Кейт вот-вот будут отвечены."
+    new "К её удивлению, вопросы о Кейт вот-вот получат ответ."
 
     old "Sitting up against the wall near the entrance to the camp, was Kate, slumped over, her hair hanging across her face."
     new "У стены у входа сидела Кейт, поникшая, волосы падали на лицо."
@@ -74,13 +74,13 @@ translate ru strings:
     new "Кейт, ты в порядке?"
 
     old "You're asking if she's ok? What about us? She's the one that attacked us!"
-    new "You're asking if she's ok? What about us? She's the one that attacked us!"
+    new "Ты спрашиваешь, в порядке ли она? А как же мы? Это она на нас напала!"
 
     old "Calm down!"
-    new "Calm down!"
+    new "Успокойтесь!"
 
     old "Kate looked up, somewhat dazed. Only when she met Sarah's eyes, did she seem to realize who she was."
-    new "Кейт подняла взгляд, слегка ошеломлённая. Только встретив глаза Сары, она, кажется, узнала."
+    new "Кейт подняла взгляд, слегка ошеломлённая. Только встретив глаза Сары, она, кажется, узнала её."
 
     old "Sarah! Ooh I'm so happy to see you."
     new "Сара! Ох, как я рада тебя видеть."
@@ -101,13 +101,13 @@ translate ru strings:
     new "Ты такая хорошая... знаешь? Правда... ты очень хорошая!"
 
     old "Sarah ignored Kate's torrent of compliments, mostly brought on by the alcohol. She turned to the guard."
-    new "Сара проигнорировала поток комплиментов от алкоголя. Повернулась к стражнику."
+    new "Сара проигнорировала поток комплиментов, вызванных алкоголем. Она повернулась к стражнику."
 
     old "I'll take her out of here, ok? Better we let both sides cool off a bit."
     new "Я заберу её, ладно? Пусть обе стороны остынут."
 
     old "Yes, go ahead, I'll look after these two."
-    new "Yes, go ahead, I'll look after these two."
+    new "Да, забирай, я присмотрю за этими двумя."
 
     old "The guard seemed to try to act as if it had been his idea to split the sides up, but Sarah didn't bother to argue."
     new "Стражник сделал вид, что это была его идея, но Сара не стала спорить."
@@ -158,7 +158,7 @@ translate ru strings:
     new "Я была... ну, я всё ещё пила, но я не... не так..."
 
     old "Sarah looked at Kate, she only had pity for her when she was in a state like this."
-    new "Сара смотрела на Кейт — только жалость в таком состоянии."
+    new "Сара смотрела на Кейт — только жалость она чувствовала, видя её в таком состоянии."
 
     old "But why...did anything happen?"
     new "Но почему... что-то случилось?"
@@ -194,7 +194,7 @@ translate ru strings:
     new "Счастье... я оставила это давно..."
 
     old "Vaelen...he gave me a purpose, made my life have meaning. He never said shit about being happy."
-    new "Ваэлен... он дал мне цель, смысл жизни. Он ни слова не говорил о счастье."
+    new "Ваэлен... он дал мне цель, смысл жизни. Он ни хрена не говорил о счастье."
 
     old "Kate leaned back again, throwing her arms out to her side."
     new "Кейт снова откинулась, раскинув руки."
