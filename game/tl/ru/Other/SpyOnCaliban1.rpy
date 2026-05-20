@@ -5,8 +5,8 @@
 translate ru strings:
 
     old "Early the next morning, rather than start her shift, Sarah was met by a man."
-    new "Early the next morning, rather than start her shift, Sarah was met by a man."
+    new "Ранним утром следующего дня, вместо того чтобы начать смену, Сару встретил мужчина."
 
     old "He gave no name, but it was clear that he was the man that Gilead had spoken of."
-    new "He gave no name, but it was clear that he was the man that Gilead had spoken of."
+    new "Он не назвал своего имени, но было ясно, что это тот самый человек, о котором говорил Галаад."
 

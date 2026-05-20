@@ -260,7 +260,7 @@ translate ru strings:
     new "Кейт остановилась, переводя дух от волнения — она говорила так быстро."
 
     old "His name is Vaelen, and he's the leader of a mercenary company called \"Brothers of Providence\". Since that day, I've served him as best as I could."
-    new "His name is Vaelen, and he's the leader of a mercenary company called \"Brothers of Providence\". Since that day, I've served him as best as I could."
+    new "Его зовут Ваэлен, и он лидер наёмнического отряда под названием «Братья Провидения». С того самого дня я служила ему как могла."
 
     old "Sarah had listened attentively to her friend."
     new "Сара внимательно слушала подругу."

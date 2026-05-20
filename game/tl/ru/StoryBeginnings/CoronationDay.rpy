@@ -98,22 +98,22 @@ translate ru strings:
     new "Верховный жрец медленно поднялся по ступеням и встал рядом с Томасом."
 
     old "Prince Thomas Rose, eldest of the Rose family, son of Orwell and heir to the throne, rise."
-    new "Prince Thomas Rose, eldest of the Rose family, son of Orwell and heir to the throne, rise."
+    new "Принц Томас Роуз, старший в семье Роуз, сын Орвелла и наследник престола, встаньте."
 
     old "Thomas stood up, as instructed."
     new "Томас встал, как было велено."
 
     old "Do you swear to uphold the virtues of your elders, and commit your life to the protection of the nation of Rosanna."
-    new "Do you swear to uphold the virtues of your elders, and commit your life to the protection of the nation of Rosanna."
+    new "Клянётесь ли вы чтить добродетели предков и посвятить свою жизнь защите государства Розанна?"
 
     old "I do."
     new "Клянусь."
 
     old "Should you speak falsely, what would you desire of the gods?"
-    new "Should you speak falsely, what would you desire of the gods?"
+    new "Если вы говорите лживо, какой кары вы желаете от богов?"
 
     old "Should I speak falsely, I pray that the gods strike me down as I stand."
-    new "Если я лгу, пусть боги поразит меня на этом месте."
+    new "Если я лгу, пусть боги поразят меня на этом месте."
 
     old "For a moment, there was a pause, and the room was perfectly still."
     new "На мгновение повисла пауза, и в зале воцарилась полная тишина."
@@ -128,7 +128,7 @@ translate ru strings:
     new "Верховный жрец кивнул, удовлетворённый тем, что божественный гнев не поразил Томаса."
 
     old "Then by the grace of all gods, and in the presence of all the noble families, I declare you King Thomas Rose, sovereign of Rosanna."
-    new "Then by the grace of all gods, and in the presence of all the noble families, I declare you King Thomas Rose, sovereign of Rosanna."
+    new "Тогда милостью всех богов и в присутствии всех знатных семей я объявляю вас королём Томасом Роузом, государем Розанны."
 
     old "The high priest placed the crown atop Thomas' head, and the room errupted into cheers and celebrations."
     new "Верховный жрец возложил корону на голову Томаса, и зал взорвался ликующими криками и торжествами."
@@ -371,7 +371,7 @@ translate ru strings:
     new "Я сумел сбежать от толпы и спас братьев и сестру. С тех пор я забочусь о них."
 
     old "Sarah was surprised by how casually Varga shared his trauma, and how little it seemed to faze him."
-    new "Сару удивило, как буднично Варга рассказывал о своей травме и как мало она, казалось, его задела."
+    new "Сару удивило, как буднично Варга рассказывал о своей травме и как мало она, казалось, его затронула."
 
     old "Even a fraction of such suffering seemed unimaginable to Sarah, but for Varga, and the world he grew up in, it was common."
     new "Даже доля таких страданий казалась Саре невообразимой, но для Варги и мира, в котором он вырос, это было обычным делом."

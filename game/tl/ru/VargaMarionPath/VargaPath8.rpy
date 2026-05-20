@@ -5,8 +5,8 @@
 translate ru strings:
 
     old "Sarah, he seeks to bait you."
-    new "Sarah, he seeks to bait you."
+    new "Сара, он пытается спровоцировать тебя."
 
     old "She could feel the blood rushing through her."
-    new "She could feel the blood rushing through her."
+    new "Она чувствовала, как кровь бурлит в ней."
 

@@ -47,7 +47,7 @@ translate ru strings:
     new "Сара поворачивается к брату, глядя ему прямо в глаза. Его глаза красные от слёз, которые он от неё скрывает."
 
     old "We need to make him proud now. Remember: composure."
-    new "Теперь мы должны сделать его гордым. Помни: самообладание."
+    new "Теперь мы должны быть достойны его гордости. Помни: самообладание."
 
     old "Thomas turns away from her, staring off into the distance, trying to look at nothing at all."
     new "Томас отворачивается от неё, уставившись в пустоту, пытаясь ни на что не смотреть."
@@ -74,19 +74,19 @@ translate ru strings:
     new "Вскоре Сара и Томас оказались в центре большого зала, идя под руку, переходя от одной группы знати к другой."
 
     old "Our condolences."
-    new "Our condolences."
+    new "Примите наши соболезнования."
 
     old "He was a great man."
-    new "He was a great man."
+    new "Он был великим человеком."
 
     old "He will be missed."
-    new "He will be missed."
+    new "Его будет не хватать."
 
     old "Sarah didn't want to sound cynical, she was sure that many of them truly meant what they said. It just seemed like words, not just these words but all words, seemed so empty right now."
     new "Сара не хотела звучать цинично — она была уверена, что многие из них действительно так думали. Просто слова, не только эти, но любые слова, казались сейчас такими пустыми."
 
     old "Soon, she found herself subjected to a torrent of sympathies. It all became too much."
-    new "Вскоре на неё обрушился поток соболезнований. Всё стало слишком."
+    new "Вскоре на неё обрушился поток соболезнований. Всё стало чересчур."
 
     old "Thomas, I need to take a moment, please carry on without me."
     new "Томас, мне нужно минутку побыть одной. Пожалуйста, продолжай без меня."
