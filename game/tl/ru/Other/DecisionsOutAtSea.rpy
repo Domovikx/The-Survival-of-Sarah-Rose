@@ -1017,3 +1017,4 @@ translate ru strings:
 
     old "They finally arive in Lethram."
     new "Они наконец прибывают в Летрам."
+

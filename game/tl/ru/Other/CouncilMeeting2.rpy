@@ -534,3 +534,4 @@ translate ru strings:
 
     old "Sarah sat down in the library and tried to focus her mind on her notes."
     new "Сара села в библиотеке и попыталась сосредоточиться на своих записях."
+

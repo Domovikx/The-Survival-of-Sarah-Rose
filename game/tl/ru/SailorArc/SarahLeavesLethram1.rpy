@@ -289,6 +289,9 @@ translate ru strings:
     old "You got a spark to you, I'll give you that."
     new "В тебе есть искорка, это я признаю."
 
+    old "The man extended his hand to her."
+    new "Мужчина протянул ей руку."
+
     old "My name is Sigmund by the way, best you know my name before you get on my cart."
     new "Меня, кстати, зовут Сигмунд. Лучше тебе знать моё имя, прежде чем садиться в мою повозку."
 
@@ -1446,3 +1449,4 @@ translate ru strings:
 
     old "Continue to Gallow's Creek"
     new "Продолжить путь в Галлоу-Крик"
+

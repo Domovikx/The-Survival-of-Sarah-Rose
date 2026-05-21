@@ -324,3 +324,4 @@ translate ru strings:
 
     old "There would be no leader at all. A Council would rule instead."
     new "Лидера не будет вовсе. Вместо этого будет править Совет."
+

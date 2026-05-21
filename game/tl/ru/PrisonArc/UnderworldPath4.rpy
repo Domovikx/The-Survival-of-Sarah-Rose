@@ -345,3 +345,4 @@ translate ru strings:
 
     old "He was bluffing, Sarah was sure of it. He had nothing."
     new "Он блефовал, Сара была в этом уверена. У него ничего не было."
+

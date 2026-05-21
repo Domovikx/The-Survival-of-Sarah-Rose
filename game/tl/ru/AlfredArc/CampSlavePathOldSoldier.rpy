@@ -270,3 +270,4 @@ translate ru strings:
 
     old "Only deep into the night, too exhausted to continue, did both he and Sarah fall into a deep sleep."
     new "Лишь глубокой ночью, слишком измождённые, чтобы продолжать, они оба — и он, и Сара — провалились в глубокий сон."
+

@@ -204,3 +204,4 @@ translate ru strings:
 
     old "But for now, they could take the briefest of pauses."
     new "Но пока они могли позволить себе самую короткую передышку."
+

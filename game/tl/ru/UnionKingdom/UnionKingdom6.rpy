@@ -1185,3 +1185,4 @@ translate ru strings:
 
     old "The feast first, the rest would come after."
     new "Сначала пир, остальное придёт позже."
+

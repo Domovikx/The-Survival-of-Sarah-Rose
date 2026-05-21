@@ -357,3 +357,4 @@ translate ru strings:
 
     old "She would have a long day ahead of her."
     new "У неё впереди будет долгий день."
+

@@ -669,3 +669,4 @@ translate ru strings:
 
     old "She had the strongest army out of all of them, and she would be a fool to give up such an advantage."
     new "У неё была самая сильная армия из всех, и она была бы дурой, чтобы отказаться от такого преимущества."
+

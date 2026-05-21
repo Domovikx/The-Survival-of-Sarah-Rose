@@ -525,3 +525,4 @@ translate ru strings:
 
     old "With that last command, Sarah watched her teacher take off."
     new "С этим последним указанием Сара смотрела, как её учитель уходит."
+

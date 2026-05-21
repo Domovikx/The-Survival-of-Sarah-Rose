@@ -456,3 +456,4 @@ translate ru strings:
 
     old "Each hoped with a lover's foolishness that their passion might delay the morning."
     new "Каждая с глупостью влюблённой надеялась, что их страсть отсрочит утро."
+

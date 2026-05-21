@@ -579,3 +579,4 @@ translate ru strings:
 
     old "With great worry, Sarah overlooked them."
     new "С великим беспокойством Сара наблюдала за ними."
+

@@ -474,3 +474,4 @@ translate ru strings:
 
     old "Sarah decided to distract herself with the one thing that always worked. Work."
     new "Сара решила отвлечься тем, что всегда помогало. Работой."
+

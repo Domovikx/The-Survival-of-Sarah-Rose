@@ -888,3 +888,4 @@ translate ru strings:
 
     old "The thoughts did not stop spinning, but eventually, sheer exhaustion forced her to sleep."
     new "Мысли не прекращали кружиться, но в конце концов полное изнеможение заставило её уснуть."
+

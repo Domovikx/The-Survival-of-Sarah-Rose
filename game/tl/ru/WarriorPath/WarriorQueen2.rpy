@@ -1170,3 +1170,4 @@ translate ru strings:
 
     old "Good, now go."
     new "Хорошо, а теперь убирайся."
+

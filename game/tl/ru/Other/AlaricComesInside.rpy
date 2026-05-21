@@ -585,3 +585,4 @@ translate ru strings:
 
     old "As the night drew deeper, and Alaric made true on his promise, Sarah eventually slipped into a deep sleep."
     new "Когда ночь сгустилась, и Аларик сдержал своё обещание, Сара наконец провалилась в глубокий сон."
+

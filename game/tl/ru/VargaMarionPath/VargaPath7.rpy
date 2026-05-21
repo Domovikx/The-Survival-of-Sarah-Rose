@@ -537,3 +537,4 @@ translate ru strings:
 
     old "But first I'll have to win it back."
     new "Но сначала мне нужно отвоевать её."
+

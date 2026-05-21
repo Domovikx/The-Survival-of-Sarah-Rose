@@ -210,3 +210,4 @@ translate ru strings:
 
     old "What did I do...she wondered to herself."
     new "Что же я наделала... — подумала она про себя."
+

@@ -813,3 +813,4 @@ translate ru strings:
 
     old "Not long after, sleep came for her."
     new "Вскоре сон пришёл к ней."
+

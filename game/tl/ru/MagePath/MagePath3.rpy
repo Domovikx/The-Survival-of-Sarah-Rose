@@ -795,3 +795,4 @@ translate ru strings:
 
     old "Not long after, Sarah felt herself grow tired as well."
     new "Вскоре Сара тоже почувствовала, что устала."
+

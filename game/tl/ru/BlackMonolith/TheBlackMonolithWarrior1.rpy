@@ -1116,3 +1116,4 @@ translate ru strings:
 
     old "Before long, Sarah had fallen back into deep thought, and the world passed by around her."
     new "Вскоре Сара снова погрузилась в глубокие размышления, и мир прошёл мимо неё."
+

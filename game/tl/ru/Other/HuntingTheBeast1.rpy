@@ -795,3 +795,4 @@ translate ru strings:
 
     old "The sounds of the forest hummed around them, in equal parts comforting and frightening."
     new "Звуки леса гудели вокруг них, одновременно успокаивающие и пугающие."
+

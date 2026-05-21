@@ -345,3 +345,4 @@ translate ru strings:
 
     old "Hug together for warmth"
     new "Прижаться друг к другу для тепла"
+

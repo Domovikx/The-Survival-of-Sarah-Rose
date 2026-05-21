@@ -90,3 +90,4 @@ translate ru strings:
 
     old "Something had broken between them, and it would not be fixed."
     new "Что-то разбилось между ними, и это было уже не исправить."
+

@@ -1806,3 +1806,4 @@ translate ru strings:
 
     old "She had failed to secure the vote for her position."
     new "Ей не удалось получить голос в поддержку своей позиции."
+

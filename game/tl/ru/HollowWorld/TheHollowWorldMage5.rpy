@@ -1230,3 +1230,4 @@ translate ru strings:
 
     old "She would never be weak again."
     new "Она никогда больше не будет слабой."
+

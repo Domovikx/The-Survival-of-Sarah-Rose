@@ -480,3 +480,4 @@ translate ru strings:
 
     old "Very well...I have decided."
     new "Хорошо... я решила."
+

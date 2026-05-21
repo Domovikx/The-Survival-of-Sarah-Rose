@@ -681,3 +681,4 @@ translate ru strings:
 
     old "She fell into a deep sleep."
     new "Она провалилась в глубокий сон."
+

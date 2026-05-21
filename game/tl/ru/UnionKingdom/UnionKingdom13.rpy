@@ -153,3 +153,4 @@ translate ru strings:
 
     old "Their enemy was coming for them, but in this moment, Sarah was for a brief moment, unafraid."
     new "Их враг приближался, но в этот момент Сара на короткое мгновение не чувствовала страха."
+

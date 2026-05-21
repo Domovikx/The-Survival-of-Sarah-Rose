@@ -588,3 +588,4 @@ translate ru strings:
 
     old "We set sail."
     new "Мы отплываем."
+

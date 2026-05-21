@@ -243,3 +243,4 @@ translate ru strings:
 
     old "It also didn't matter. The spirit was silent and would not speak to her."
     new "Это также не имело значения. Дух молчал и не желал говорить с ней."
+

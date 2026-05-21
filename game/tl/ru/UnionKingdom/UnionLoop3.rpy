@@ -1257,3 +1257,4 @@ translate ru strings:
 
     old "I trust your father. And I suspect you have enough of him in you to be worth that trust."
     new "Я доверяю твоему отцу. И подозреваю, в тебе достаточно от него, чтобы быть достойной этого доверия."
+

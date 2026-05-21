@@ -93,6 +93,7 @@ translate ru strings:
 
     old "Almost grateful, she nodded excessively at the officer."
     new "Почти с благодарностью она усиленно закивала офицеру."
+
     old "The officer showed her some cooking utensils, a dull knife, a ladel, a large wooden spoon, and a hand full of ingredients."
     new "Офицер показал ей кухонную утварь: тупой нож, половник, большую деревянную ложку и горсть ингредиентов."
 
@@ -995,3 +996,4 @@ translate ru strings:
 
     old "Sarah took it and let him pull her free from the water."
     new "Сара взяла её и позволила вытащить себя из воды."
+

@@ -549,3 +549,4 @@ translate ru strings:
 
     old "I already paid for the night."
     new "Я уже заплатил за ночь."
+

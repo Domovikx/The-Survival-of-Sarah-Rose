@@ -783,3 +783,4 @@ translate ru strings:
 
     old "After she finished scrubbing herself clean, Sarah finally followed Dalia back to their room."
     new "Закончив оттираться, Сара наконец последовала за Далией обратно в их комнату."
+

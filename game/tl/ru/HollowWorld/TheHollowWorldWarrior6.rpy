@@ -23,10 +23,10 @@ translate ru strings:
     new "Ничто из этого, казалось, больше не могло к ней прицепиться."
 
     old "Instead, she now marched along with the others, and when they put down their gear at the end of the day, nearing collapse, she simply sat down as though it meant nothing."
-    new "Вместо этого она теперь шагала наравне с остальными, и когда те вечером,接近崩溃, бросали снаряжение, она просто садилась, будто это ничего не значило."
+    new "Вместо этого она теперь шагала наравне с остальными, и когда те вечером, на грани краха, бросали снаряжение, она просто садилась, будто это ничего не значило."
 
     old "The water had driven out the sickness, but so too did it keep all other decay at bay."
-    new "Вода изгнала болезнь, но также не подпускала и любое другое угасание."
+    new "Вода изгнала болезнь, но также не подпускала и любое другое тление."
 
     old "To see the girl, so frail and lithe of body, now so resilient, Sarah could offer no rational explanation."
     new "Глядя на эту хрупкую и стройную девушку, ставшую такой выносливой, Сара не могла найти рационального объяснения."
@@ -1304,7 +1304,7 @@ translate ru strings:
     new "Изучая её, будто она была драгоценной собственностью."
 
     old "Sarah allowed it, for by now, she would have allowed Kate to do just about anything."
-    new "Сара позволяла это — к этому моменту она позволила бы Кейт几乎 всё что угодно."
+    new "Сара позволяла это — к этому моменту она позволила бы Кейт почти всё что угодно."
 
     old "Submissively, Sarah bend down lower, sticking her rear up further towards Kate, wordlessly begging her to take her."
     new "Покорно Сара наклонилась ниже, выставляя задницу ближе к Кейт, безмолвно умоляя её взять себя."
@@ -1850,7 +1850,7 @@ translate ru strings:
     new "Подходя к нему, Сара увидела, как он заметил её и повернулся."
 
     old "Aah. I've heard we have you to thank for this."
-    new "Аа. Я слышал, нас этим нужно благодарить тебя."
+    new "Аа. Я слышал, тебя нужно благодарить за это."
 
     old "Sarah saw his eyes flash up and down her body, so fast that he might have actually thought it was subtle."
     new "Сара заметила, как его взгляд пробежал по её телу — так быстро, что он, возможно, думал, что это незаметно."
@@ -1902,6 +1902,9 @@ translate ru strings:
 
     old "She didn't want to talk about it with anyone before she understood it herself."
     new "Она не хотела ни с кем говорить об этом, пока не разберётся сама."
+
+    old "They'd likely call her insane, gone mad, and perhaps rightly so, she thought."
+    new "Они, скорее всего, назвали бы её безумной, сошедшей с ума, и, возможно, справедливо, подумала она."
 
     old "Well, whatever it was, you've all but saved the entire company."
     new "Что ж, чем бы это ни было, ты практически спасла весь отряд."
@@ -2588,7 +2591,7 @@ translate ru strings:
     new "Возможно, время исцелило его, или Калеб."
 
     old "I hear we have you to thank for all of this."
-    new "Я слышал, нас этим нужно благодарить тебя."
+    new "Я слышал, тебя нужно благодарить за всё это."
 
     old "She saw Caleb's eyes go wide."
     new "Она увидела, как глаза Калеба расширились."

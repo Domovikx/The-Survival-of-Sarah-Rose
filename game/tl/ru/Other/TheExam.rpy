@@ -603,3 +603,4 @@ translate ru strings:
 
     old "And before Sarah realized it, three years had passed."
     new "И прежде чем Сара осознала это, прошло три года."
+

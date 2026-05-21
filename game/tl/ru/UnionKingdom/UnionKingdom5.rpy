@@ -558,3 +558,4 @@ translate ru strings:
 
     old "Sarah watched the world transform as she was carried off towards an uncertain place."
     new "Сара смотрела, как мир преображается, пока её несли в неопределённое место."
+

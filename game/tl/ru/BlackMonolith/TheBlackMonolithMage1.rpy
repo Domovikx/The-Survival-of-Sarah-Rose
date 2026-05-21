@@ -11,7 +11,7 @@ translate ru strings:
     new "Прищурившись, она заметила слабое мерцание в воздухе перед собой."
 
     old "Reaching out with her hand, she could feel it give way, like a door slightly opening to the touch."
-    new "Протянув руку, она почувствовала, как он уступает, словно дверь, слегка приоткрывающаяся от прикосновения."
+    new "Протянув руку, она почувствовала, как оно уступает, словно дверь, слегка приоткрывающаяся от прикосновения."
 
     old "She pulled back her hand."
     new "Она отдёрнула руку."
@@ -513,6 +513,9 @@ translate ru strings:
 
     old "Yes...she wanted to be immortal. To live forever."
     new "Да... она хотела стать бессмертной. Жить вечно."
+
+    old "The spirit hissed again."
+    new "Дух снова зашипел."
 
     old "So it was, but that does not answer the question of why."
     new "Так и было, но это не отвечает на вопрос «почему»."

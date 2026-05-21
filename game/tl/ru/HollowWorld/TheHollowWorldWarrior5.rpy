@@ -675,3 +675,4 @@ translate ru strings:
 
     old "A dullness had been lifted, and Sarah prayed it would remain forever banished."
     new "Тусклость спала, и Сара молилась, чтобы она навсегда осталась изгнанной."
+

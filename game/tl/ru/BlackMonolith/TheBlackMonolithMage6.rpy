@@ -1026,3 +1026,4 @@ translate ru strings:
 
     old "Sarah thanked him for the lesson and gathered up all the books."
     new "Сара поблагодарила его за урок и собрала все книги."
+

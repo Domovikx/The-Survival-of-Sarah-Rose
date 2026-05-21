@@ -798,3 +798,4 @@ translate ru strings:
 
     old "And when they rose back up to their feet, the old was left behind in the sands of desert, along with their former commander."
     new "И когда они поднялись на ноги, старое осталось позади в песках пустыни, вместе с их бывшим командиром."
+

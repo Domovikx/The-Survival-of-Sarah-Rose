@@ -834,3 +834,4 @@ translate ru strings:
 
     old "This wasn't her fight. That woman would have to make her own way through life, same as her."
     new "Это не её битва. Эта женщина должна сама пробивать себе дорогу в жизни, как и она."
+

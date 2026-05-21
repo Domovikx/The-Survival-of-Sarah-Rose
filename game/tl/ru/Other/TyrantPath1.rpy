@@ -60,3 +60,4 @@ translate ru strings:
 
     old "For now, this is where the game ends."
     new "А пока что игра окончена."
+

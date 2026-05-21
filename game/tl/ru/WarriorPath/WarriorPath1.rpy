@@ -897,3 +897,4 @@ translate ru strings:
 
     old "As Ephraim took off, Sarah ran after him and the other soldiers."
     new "Когда Эфраим сорвался с места, Сара побежала за ним и остальными солдатами."
+

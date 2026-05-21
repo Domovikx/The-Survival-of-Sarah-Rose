@@ -513,3 +513,4 @@ translate ru strings:
 
     old "Only be stealing myself across the divide between the worlds, before the gates were sealed, did I manage to remain on this side."
     new "Лишь протащив себя через разрыв между мирами, до того как врата были запечатаны, мне удалось остаться на этой стороне."
+

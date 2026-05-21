@@ -270,3 +270,4 @@ translate ru strings:
 
     old "She took one step and crossed a million."
     new "Она сделала один шаг — и преодолела миллион."
+

@@ -543,3 +543,4 @@ translate ru strings:
 
     old "Well, I'm certain there is a bedroom available for you somewhere in the house. You are more than welcome as my guest."
     new "Что ж, я уверена, что в доме найдётся свободная спальня. Ты более чем желанный гость."
+

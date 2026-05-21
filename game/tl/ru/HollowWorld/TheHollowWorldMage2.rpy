@@ -345,3 +345,4 @@ translate ru strings:
 
     old "The answer did not come to her. Not yet."
     new "Ответ не приходил к ней. Пока нет."
+

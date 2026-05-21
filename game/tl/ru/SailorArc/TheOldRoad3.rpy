@@ -1245,3 +1245,4 @@ translate ru strings:
 
     old "They seemed as singular and lonely as she herself felt."
     new "Они казались такими же одинокими, какой чувствовала себя она."
+

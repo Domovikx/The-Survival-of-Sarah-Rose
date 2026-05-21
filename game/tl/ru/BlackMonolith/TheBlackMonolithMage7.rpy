@@ -747,3 +747,4 @@ translate ru strings:
 
     old "Sarah rubbed her temples, trying to keep the growing headache at bay."
     new "Сара потёрла виски, пытаясь сдержать нарастающую головную боль."
+

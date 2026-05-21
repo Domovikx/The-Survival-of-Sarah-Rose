@@ -726,3 +726,4 @@ translate ru strings:
 
     old "It wasn't much, but at least for the night, she didn't want much more than that."
     new "Немного, но по крайней мере на эту ночь ей не нужно было большего."
+

@@ -1182,3 +1182,4 @@ translate ru strings:
 
     old "Sigmund didn't bother to answer the man, instead forcing the horses back into a trot."
     new "Зигмунд не стал утруждать себя ответом, вместо этого погнал лошадей рысью."
+

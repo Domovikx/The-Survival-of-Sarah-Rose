@@ -894,3 +894,4 @@ translate ru strings:
 
     old "Fantasizing about what it might look like, Sarah drifted off to sleep."
     new "Фантазируя о том, как это могло бы выглядеть, Сара провалилась в сон."
+

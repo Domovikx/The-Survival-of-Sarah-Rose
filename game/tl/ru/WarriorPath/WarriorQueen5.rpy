@@ -1542,3 +1542,4 @@ translate ru strings:
 
     old "She would march her army through the Hinterlands."
     new "Она поведёт армию через Задворки."
+

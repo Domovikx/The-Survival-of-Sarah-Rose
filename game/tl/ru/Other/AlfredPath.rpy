@@ -2322,3 +2322,4 @@ translate ru strings:
 
     old "Princess to vagrant. Wife to and old Alfred. Wealthy widow."
     new "Из принцессы в бродяги. Жена старого Альфреда. Богатая вдова."
+

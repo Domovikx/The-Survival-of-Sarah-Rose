@@ -453,3 +453,4 @@ translate ru strings:
 
     old "Neither spoke, and each retreated to their rooms, to contemplate in silence."
     new "Никто не проронил ни слова, и каждый удалился в свою комнату, размышлять в тишине."
+

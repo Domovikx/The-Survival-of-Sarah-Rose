@@ -150,3 +150,4 @@ translate ru strings:
 
     old "Even Maeiv, reluctantly, joined in."
     new "Даже Маэйв неохотно присоединилась."
+

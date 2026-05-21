@@ -186,3 +186,4 @@ translate ru strings:
 
     old "Still, it all felt awfully transactional. She struggled to imagine that she could ever view it as casually as Eula did."
     new "И всё же, всё это казалось ужасно деловым. Она с трудом могла представить, что когда-нибудь будет относиться к этому так же легко, как Юла."
+

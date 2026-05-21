@@ -573,3 +573,4 @@ translate ru strings:
 
     old "For now this is where the story ends."
     new "Пока что здесь история заканчивается."
+

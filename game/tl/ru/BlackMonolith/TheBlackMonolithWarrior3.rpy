@@ -1830,3 +1830,4 @@ translate ru strings:
 
     old "Tired and exhausted from the day, Sarah returned to her tent and fell asleep."
     new "Уставшая и измученная за день, Сара вернулась в палатку и провалилась в сон."
+

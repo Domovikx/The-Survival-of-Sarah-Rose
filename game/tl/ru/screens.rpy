@@ -247,7 +247,7 @@ translate ru strings:
     new "Начать"
 
     old "Start, Guide"
-    new "Start, Guide"
+    new "Start, Гайд"
 
     old "Tab"
     new "Tab"

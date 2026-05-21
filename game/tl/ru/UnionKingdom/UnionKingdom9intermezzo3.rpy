@@ -267,3 +267,4 @@ translate ru strings:
 
     old "The room, once again, went quiet."
     new "Комната снова погрузилась в тишину."
+

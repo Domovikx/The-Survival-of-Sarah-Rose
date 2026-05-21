@@ -120,3 +120,4 @@ translate ru strings:
 
     old "Sarah turns around, ignoring the sounds, she finally manages to get some sleep."
     new "Сара отворачивается, игнорируя звуки, и наконец засыпает."
+

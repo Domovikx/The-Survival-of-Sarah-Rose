@@ -648,3 +648,4 @@ translate ru strings:
 
     old "Gather the council. We have urgent business."
     new "Собери совет. У нас срочное дело."
+

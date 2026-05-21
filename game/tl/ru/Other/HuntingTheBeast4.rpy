@@ -411,3 +411,4 @@ translate ru strings:
 
     old "She wanted to leave all of this behind her."
     new "Она хотела оставить всё это позади."
+

@@ -516,3 +516,4 @@ translate ru strings:
 
     old "She ate her breakfast in peaceful silence."
     new "Она доела завтрак в мирной тишине."
+

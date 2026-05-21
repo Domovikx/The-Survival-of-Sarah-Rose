@@ -2182,4 +2182,3 @@ translate ru strings:
     old "Template."
     new "Шаблон."
 
-

@@ -792,3 +792,4 @@ translate ru strings:
 
     old "The two turned around and left for the throne room, neither bothering to speak to the other."
     new "Они развернулись и направились в тронный зал, не утруждая себя разговором друг с другом."
+

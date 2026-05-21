@@ -960,3 +960,4 @@ translate ru strings:
 
     old "She wasn't sure what happened after, only that she fell into a deep sleep."
     new "Она не была уверена, что было потом, помнила только, что провалилась в глубокий сон."
+

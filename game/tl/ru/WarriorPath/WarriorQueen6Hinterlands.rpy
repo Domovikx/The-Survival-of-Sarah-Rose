@@ -2253,3 +2253,4 @@ translate ru strings:
 
     old "The hours passed quickly and the sleep followed after."
     new "Часы пролетели быстро, а за ними пришёл сон."
+

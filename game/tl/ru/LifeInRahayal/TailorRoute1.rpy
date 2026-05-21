@@ -993,3 +993,4 @@ translate ru strings:
 
     old "The End."
     new "Конец."
+

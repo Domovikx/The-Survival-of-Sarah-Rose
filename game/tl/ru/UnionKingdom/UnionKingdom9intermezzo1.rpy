@@ -156,3 +156,4 @@ translate ru strings:
 
     old "It would travel across the continent, into the hands of the only man who had any right to see it."
     new "Оно отправится через весь континент в руки единственного мужчины, который имел право его увидеть."
+

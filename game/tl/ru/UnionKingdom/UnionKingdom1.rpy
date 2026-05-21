@@ -2457,3 +2457,4 @@ translate ru strings:
 
     old "Slowly, even the faint noises faded away and Sarah found herself lost to her dreams."
     new "Медленно даже слабые звуки затихли, и Сара нашла себя потерянной в своих снах."
+

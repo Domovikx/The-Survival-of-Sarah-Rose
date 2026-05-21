@@ -393,3 +393,4 @@ translate ru strings:
 
     old "If her people ever found out..."
     new "Если её народ когда-нибудь узнает..."
+

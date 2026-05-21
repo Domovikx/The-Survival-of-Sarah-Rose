@@ -324,3 +324,4 @@ translate ru strings:
 
     old "Sarah no longer turned around to look, but outside, Kate crawled up to her feet as best she could, and stumbled away, tears still streaming."
     new "Сара больше не оборачивалась, но снаружи Кейт кое-как поднялась на ноги и, спотыкаясь, побрела прочь, слёзы всё ещё текли по её лицу."
+

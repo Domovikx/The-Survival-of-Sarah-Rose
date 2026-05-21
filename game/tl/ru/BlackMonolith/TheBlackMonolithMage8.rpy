@@ -1023,3 +1023,4 @@ translate ru strings:
 
     old "They remained in their embrace, longer than either remembered."
     new "Они оставались в объятиях друг друга дольше, чем кто-либо из них мог припомнить."
+

@@ -417,3 +417,4 @@ translate ru strings:
 
     old "Slowly, they drifted into a deep and restful sleep."
     new "Медленно они погрузились в глубокий и спокойный сон."
+

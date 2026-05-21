@@ -831,3 +831,4 @@ translate ru strings:
 
     old "Sleep did not come for a long time."
     new "Сон не приходил ещё долго."
+

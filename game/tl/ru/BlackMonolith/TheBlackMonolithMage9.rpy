@@ -417,3 +417,4 @@ translate ru strings:
 
     old "In her mind, the spirit's prophecy churned."
     new "В её сознании кружилось пророчество духа."
+

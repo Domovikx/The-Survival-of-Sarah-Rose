@@ -396,3 +396,4 @@ translate ru strings:
 
     old "Not long after, Sarah slipped into a deep sleep."
     new "Вскоре после этого Сара провалилась в глубокий сон."
+

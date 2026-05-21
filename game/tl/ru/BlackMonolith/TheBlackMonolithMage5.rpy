@@ -1773,3 +1773,4 @@ translate ru strings:
 
     old "She turned the corner and continued to the market, hoping to forget ever having met him."
     new "Она завернула за угол и направилась к рынку, надеясь забыть о своей встрече с ним."
+

@@ -2250,3 +2250,4 @@ translate ru strings:
 
     old "A deep sleep took hold of her."
     new "Глубокий сон охватил её."
+

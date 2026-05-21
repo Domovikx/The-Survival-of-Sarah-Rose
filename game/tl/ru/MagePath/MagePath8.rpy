@@ -1236,3 +1236,4 @@ translate ru strings:
 
     old "Sarah returned to her bed and tried to get some sleep."
     new "Сара вернулась в кровать и попыталась уснуть."
+

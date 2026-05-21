@@ -87,3 +87,4 @@ translate ru strings:
 
     old "Whichever would come to pass, she would have to make certain that the new political decree would favor the commoners."
     new "Что бы ни случилось, она должна была убедиться, что новый политический указ будет благоприятствовать простолюдинам."
+

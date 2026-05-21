@@ -1593,3 +1593,4 @@ translate ru strings:
 
     old "She felt a tear ran down her cheek and prayed she could be true to her vow."
     new "Она почувствовала, как слеза скатилась по щеке, и молилась, чтобы сдержать клятву."
+

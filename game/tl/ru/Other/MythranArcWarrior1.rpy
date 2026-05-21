@@ -165,3 +165,4 @@ translate ru strings:
 
     old "They were moving towards Rahayal, and all that the city promised."
     new "Они двигались к Рахайялю и ко всему, что сулил этот город."
+

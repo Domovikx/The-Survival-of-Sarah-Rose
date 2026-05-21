@@ -633,3 +633,4 @@ translate ru strings:
 
     old "I told you I don't tire easy."
     new "Я же сказал, я устаю нелегко."
+

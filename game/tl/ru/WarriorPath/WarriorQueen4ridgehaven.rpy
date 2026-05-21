@@ -744,3 +744,4 @@ translate ru strings:
 
     old "Sarah held her friend for as long as she had to."
     new "Сара держала свою подругу в объятиях столько, сколько было нужно."
+

@@ -285,3 +285,4 @@ translate ru strings:
 
     old "To understand they would have the rule the Union as a council."
     new "Понять, что они должны править Союзом как совет."
+

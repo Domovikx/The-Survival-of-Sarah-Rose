@@ -2118,3 +2118,4 @@ translate ru strings:
 
     old "How she got there, she couldn't remember, all she could recall was the moment the soft fabrics of her bed touched her face, and sleep came for her."
     new "Как она туда добралась, она не могла вспомнить — всё, что она могла припомнить, это момент, когда мягкие ткани кровати коснулись её лица, и сон пришёл за ней."
+

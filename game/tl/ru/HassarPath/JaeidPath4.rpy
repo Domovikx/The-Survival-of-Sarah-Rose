@@ -420,3 +420,4 @@ translate ru strings:
 
     old "Despite all the dangers and the strangeness of this place, Sarah was able to feel at ease, if only for the night."
     new "Несмотря на все опасности и странность этого места, Сара смогла почувствовать себя спокойно, хотя бы на эту ночь."
+

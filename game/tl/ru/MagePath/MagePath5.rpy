@@ -450,3 +450,4 @@ translate ru strings:
 
     old "She had put herself upon this path to forget the painful memories of her home, but she now found her mind drifting to Rosanna more than ever."
     new "Она встала на этот путь, чтобы забыть болезненные воспоминания о доме, но теперь её мысли возвращались к Розанне чаще, чем когда-либо."
+

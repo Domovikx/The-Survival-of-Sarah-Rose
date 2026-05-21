@@ -738,3 +738,4 @@ translate ru strings:
 
     old "Carrying the day's shopping, she followed closely in Jasmine's steps."
     new "Неся дневные покупки, она следовала за Жасмин по пятам."
+

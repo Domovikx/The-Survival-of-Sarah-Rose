@@ -126,3 +126,4 @@ translate ru strings:
 
     old "From there, a long stretch of small farming communities. Good people, the kinds of communities that had no crime."
     new "Дальше тянулась вереница маленьких фермерских поселений. Хорошие люди, те общины, где не было преступлений."
+

@@ -408,3 +408,4 @@ translate ru strings:
 
     old "Princess to mage. Traitor to her teacher. Goblin wife."
     new "Из принцессы в маги. Предательница учителя. Жена гоблина."
+

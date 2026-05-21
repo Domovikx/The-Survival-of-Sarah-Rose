@@ -288,3 +288,4 @@ translate ru strings:
 
     old "Sarah returned to her room and fell down against the wall, softly crying."
     new "Сара вернулась в свою комнату и сползла по стене, тихо плача."
+

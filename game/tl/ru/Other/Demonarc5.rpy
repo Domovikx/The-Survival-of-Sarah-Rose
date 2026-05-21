@@ -567,3 +567,4 @@ translate ru strings:
 
     old "A mage that reached to far. Lost to a dead world. Slave-bride to a Daemon."
     new "Чародейка, зашедшая слишком далеко. Потерянная в мёртвом мире. Рабыня-невеста Демона."
+

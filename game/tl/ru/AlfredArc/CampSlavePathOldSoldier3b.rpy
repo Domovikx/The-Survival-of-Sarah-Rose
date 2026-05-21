@@ -837,3 +837,4 @@ translate ru strings:
 
     old "There was no rest for slaves."
     new "Для рабов отдыха не существует."
+

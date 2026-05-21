@@ -1236,3 +1236,4 @@ translate ru strings:
 
     old "She'd need to find a different path."
     new "Ей нужно будет найти другой путь."
+

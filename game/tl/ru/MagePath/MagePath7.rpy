@@ -612,3 +612,4 @@ translate ru strings:
 
     old "Allowing herself to be softly pulled along, Sarah walked back through the gardens, hand in hand with Samayra."
     new "Позволяя мягко вести себя, Сара пошла обратно через сады, рука об руку с Самайрой."
+

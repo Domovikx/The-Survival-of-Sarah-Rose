@@ -273,3 +273,4 @@ translate ru strings:
 
     old "Princess to refugee. Refugee to vagrant. Wanderer."
     new "Из принцессы в беженку. Из беженки в бродяжку. Скиталицу."
+

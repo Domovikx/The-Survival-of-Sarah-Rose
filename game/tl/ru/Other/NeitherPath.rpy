@@ -393,3 +393,4 @@ translate ru strings:
 
     old "But let's catch this snake before we decide what to do with him."
     new "Но давайте сначала поймаем эту змею, а потом решим, что с ним делать."
+

@@ -345,3 +345,4 @@ translate ru strings:
 
     old "She had found the door that supposedly lead to the city. Nauyziri."
     new "Она нашла дверь, которая, как считалось, ведёт в город. Науйзири."
+

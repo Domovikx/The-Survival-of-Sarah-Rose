@@ -198,3 +198,4 @@ translate ru strings:
 
     old "With a small gesture of a hand, Sarah instructed the servants to begin carrying the gifts away for storage."
     new "Легким движением руки Сара приказала слугам начать уносить подарки на хранение."
+

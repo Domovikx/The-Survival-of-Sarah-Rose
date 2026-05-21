@@ -684,3 +684,4 @@ translate ru strings:
 
     old "Now, she had never been happier to feel its punishing sting on her face."
     new "Теперь она никогда не была так счастлива чувствовать его безжалостный ожог на своём лице."
+

@@ -933,3 +933,4 @@ translate ru strings:
 
     old "A princess without a country. A sailor. Wife of Nick."
     new "Принцесса без страны. Морячка. Жена Ника."
+

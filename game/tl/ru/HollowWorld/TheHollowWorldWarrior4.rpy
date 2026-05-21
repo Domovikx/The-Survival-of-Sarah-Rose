@@ -981,3 +981,4 @@ translate ru strings:
 
     old "Sleep came for her nearly instantly."
     new "Сон настиг её почти мгновенно."
+

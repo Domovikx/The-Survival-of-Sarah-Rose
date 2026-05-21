@@ -1107,3 +1107,4 @@ translate ru strings:
 
     old "When they returned, they each retired to their own bedroll."
     new "Когда они вернулись, каждый отправился в свой спальник."
+

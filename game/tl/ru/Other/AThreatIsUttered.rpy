@@ -390,3 +390,4 @@ translate ru strings:
 
     old "It wasn't long before the castle, once filled with sounds and warmth, grew silent and cold."
     new "Вскоре замок, некогда полный звуков и тепла, погрузился в тишину и холод."
+

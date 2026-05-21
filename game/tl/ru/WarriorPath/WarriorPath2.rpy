@@ -603,3 +603,4 @@ translate ru strings:
 
     old "With her personal entourage in tow, Sarah joined up with Vaelen and together they sat off for the throne room."
     new "С личной свитой на буксире Сара присоединилась к Вэйлену, и вместе они отправились в тронный зал."
+

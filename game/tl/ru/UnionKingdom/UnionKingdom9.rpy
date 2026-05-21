@@ -258,3 +258,4 @@ translate ru strings:
 
     old "Sarah, along with the others, quickly followed."
     new "Сара вместе с остальными быстро последовала за ней."
+

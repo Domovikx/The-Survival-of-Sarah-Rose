@@ -477,3 +477,4 @@ translate ru strings:
 
     old "Cassius easily slipped away into the crowd. He gotten what he wanted."
     new "Кассиус легко затерялся в толпе. Он получил то, что хотел."
+

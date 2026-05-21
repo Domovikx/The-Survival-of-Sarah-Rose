@@ -996,3 +996,4 @@ translate ru strings:
 
     old "Rosanna...is a land of ghosts and memories."
     new "Розанна... это земля призраков и воспоминаний."
+

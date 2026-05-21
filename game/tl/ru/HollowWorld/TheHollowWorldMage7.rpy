@@ -1530,3 +1530,4 @@ translate ru strings:
 
     old "She knew she'd feel less lonely in her home than out here among all these people."
     new "Она знала, что будет чувствовать себя менее одинокой дома, чем здесь, среди всех этих людей."
+
