@@ -47,7 +47,7 @@ translate ru strings:
     new "Ты когда-нибудь объяснишь, зачем мне всё это читать?"
 
     old "You know why. If you want to understand their order, you must broaden the context of your understanding."
-    new "Ты знаешь зачем. Если хочешь понять их порядок, нужно расширить контекст своего понимания."
+    new "Ты знаешь, зачем. Если хочешь понять их порядок, нужно расширить контекст своего понимания."
 
     old "Sarah lifted up the tome that Razaphel had deposited."
     new "Сара подняла фолиант, который принёс Разафель."
@@ -233,7 +233,7 @@ translate ru strings:
     new "Был уже ранний полдень, и город Летрам давно ожил."
 
     old "Inside the house, there was a distance, everything felt muted when watching the city through the windows."
-    new "Внутри дома была дистанция — всё казалось приглушённым, когда смотришь на город через окна."
+    new "Внутри дома было ощущение отстранённости — всё казалось приглушённым, когда смотришь на город через окна."
 
     old "But outside, in the open, everything felt raw and real."
     new "Но снаружи, на открытом воздухе, всё ощущалось по-настоящему и живо."
@@ -302,7 +302,7 @@ translate ru strings:
     new "Проходя по этим улицам, она не могла не заметить: это место, где что-то происходит."
 
     old "A place of importance. A place that decided how the world moved."
-    new "Место значимости. Место, определяющее, как движется мир."
+    new "Важное место. Место, определяющее, как движется мир."
 
     old "That energy had never been in the air back home. Her home was a place of tradition and routine."
     new "Этой энергии никогда не было в воздухе её родины. Её дом был местом традиций и рутины."
@@ -362,7 +362,7 @@ translate ru strings:
     new "Прямо как во дворце в Баграде, только... у слуг есть свои слуги?"
 
     old "This city is a little more equal than where you or I came from."
-    new "Этот город немного более равный, чем те места, откуда мы с тобой родом."
+    new "Этот город немного более справедливый, чем те места, откуда мы с тобой родом."
 
     old "People work, but even those that work make enough money to visit places like this."
     new "Люди работают, но даже работающие зарабатывают достаточно, чтобы посещать такие места."
@@ -470,7 +470,7 @@ translate ru strings:
     new "Сара рассмеялась и подняла руку, подзывая официанта."
 
     old "Each gave their order and not long after the food was delivered. Money formed no problem, Sarah kept finding piles of it stashed away in the house."
-    new "Каждая сделала заказ, и вскоре еду принесли. С деньгами проблем не было — Сара постоянно находила их кучи, припрятанные в доме."
+    new "Каждая сделала заказ, и вскоре еду принесли. С деньгами проблем не было — Сара постоянно находила кучи монет, припрятанные в доме."
 
     old "Huh...fish..."
     new "Хм... рыба..."
@@ -614,7 +614,7 @@ translate ru strings:
     new "Так что, возможно, ты имела право убить меня в своём доме, потому что, признаю, я замышлял недоброе, но здесь..."
 
     old "Well everyone has seen I didn't do nothin but talk to a few pretty girls."
-    new "Ну, все видели, что я ничего не сделал, кроме как поболтал с парой симпатичных девушек."
+    new "Ну, все видели, что я ничего не сделал, кроме того что поболтал с парой симпатичных девушек."
 
     old "And that hardly deserves the death penalty."
     new "И это вряд ли заслуживает смертной казни."
@@ -695,7 +695,7 @@ translate ru strings:
     new "Просто... просто руками."
 
     old "Fine, you get me off whatever way you can manage."
-    new "Ладно, кончишь мне так, как сможешь."
+    new "Ладно, поможешь мне кончить так, как сможешь."
 
     old "He leaned up against the wall and unbuckled his pants."
     new "Он прислонился к стене и расстегнул штаны."
@@ -788,7 +788,7 @@ translate ru strings:
     new "Ты хочешь, чтобы я кончил быстро или как?"
 
     old "Angrily, Sarah raised up her free hand, cupping the palm of it between his legs, around his balls."
-    new "Разозлившись, Сара подняла свободную руку и обхватила ладонью его мошонку."
+    new "Разозлившись, Сара подняла свободную руку и обхватила ладонью его яйца."
 
     old "They weighed heavy to the touch, a promise of what he was going to release."
     new "Они были тяжёлыми на ощупь, обещанием того, что он собирался извергнуть."
@@ -968,7 +968,7 @@ translate ru strings:
     new "Доедай, нам пора возвращаться в дом."
 
     old "Samayra devoured the last of her food with surprising swiftness for a girl her size."
-    new "Самайра проглотила остатки еды с удивительной для девушки её комплекции скоростью."
+    new "Самайра проглотила остатки еды с удивительной скоростью для девушки такой комплекции."
 
     old "Together, the two return to the house, closing out the day."
     new "Вместе они вернулись в дом, завершая день."
@@ -1049,7 +1049,7 @@ translate ru strings:
     new "Доедай, нам пора возвращаться домой."
 
     old "Samayra devoured the last of her food with surprising swiftness of a girl her size."
-    new "Самайра проглотила остатки еды с удивительной для девушки её комплекции скоростью."
+    new "Самайра проглотила остатки еды с удивительной скоростью для девушки такой комплекции."
 
     old "Drinking and eating, Sarah could feel the hours fly by."
     new "За едой и питьём Сара чувствовала, как летят часы."
@@ -1088,7 +1088,7 @@ translate ru strings:
     new "Сара вздрогнула и покачала головой."
 
     old "She had enough troubles, no need to add the troubles of others to her conscience."
-    new "У неё хватало своих проблем, не нужно взваливать на совесть чужие."
+    new "У неё хватало своих проблем, не нужно взваливать на свою совесть чужие заботы."
 
     old "Absentmindedly, Sarah ordered a meal from one of the waiters."
     new "Рассеянно Сара заказала еду у официанта."
@@ -1175,7 +1175,7 @@ translate ru strings:
     new "Ты прав, мне плевать на твою душещипательную историю."
 
     old "She watched as Alaric leaned back, throwing one arm over his chair. He was a little too comfortable for Sarah's comfort."
-    new "Она смотрела, как Аларик откинулся назад, закинув руку на спинку стула. Он был слишком расслаблен для комфорта Сары."
+    new "Она смотрела, как Аларик откинулся назад, закинув руку на спинку стула. Его расслабленность беспокоила Сару."
 
     old "You still upset about what happened all those years ago?"
     new "Ты всё ещё расстроена из-за того, что случилось много лет назад?"
@@ -1193,7 +1193,7 @@ translate ru strings:
     new "Воспоминания того момента нахлынули на Сару."
 
     old "Bend up against the wall of the alley, Alaric railing her from behind. The drunken frenzy of it."
-    new "Согнувшись у стены переулка, Аларик имеет её сзади. Пьяное безумство."
+    new "Согнувшись у стены переулка, Аларик трахает её сзади. Пьяное безумство."
 
     old "She steeled her face, revealing nothing to him."
     new "Она сделала лицо непроницаемым, ничего ему не выдавая."
@@ -1397,7 +1397,7 @@ translate ru strings:
     new "Не было алкоголя, как в прошлый раз. Какое теперь у неё оправдание, думала Сара, продолжая дрочить ему."
 
     old "Looking at his cock as she worked him, Sarah noticed just how little one hand really covered."
-    new "Глядя на его член, пока работала, Сара заметила, как мало одной руки."
+    new "Глядя на его член, пока работала, Сара заметила, как мало закрывает одна рука."
 
     old "Do you ever shut the fuck up."
     new "Ты когда-нибудь заткнёшься."

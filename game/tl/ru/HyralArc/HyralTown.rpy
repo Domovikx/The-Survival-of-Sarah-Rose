@@ -5,7 +5,7 @@
 translate ru strings:
 
     old "No...we can't make a fire."
-    new "Нет...мы не можем развести костёр."
+    new "Нет... мы не можем развести костёр."
 
     old "She saw his angry expression."
     new "Она увидела его сердитое выражение лица."
@@ -23,7 +23,7 @@ translate ru strings:
     new "Она снова покачала головой."
 
     old "No...we will rest under the trees, shielded from the worst of the storm."
-    new "Нет...мы отдохнём под деревьями, укрывшись от худшего шторма."
+    new "Нет... мы отдохнём под деревьями, укрывшись от худшего шторма."
 
     old "And we will keep our bodies closer for heat."
     new "И мы будем прижиматься друг к другу ради тепла."
@@ -65,7 +65,7 @@ translate ru strings:
     new "Не раз Сара чувствовала, как мысли приходят к ней импульсом."
 
     old "Make a fire. Anything. Anything just to feel warm for a moment."
-    new "Развести костёр. Что угодно. Всё что угодно, лишь бы почувствовать тепло на мгновение."
+    new "Развести костёр. Что угодно. Всё, что угодно, лишь бы почувствовать тепло на мгновение."
 
     old "But she held strong, and the two of them never started a fire."
     new "Но она держалась стойко, и они так и не развели костёр."
@@ -101,7 +101,7 @@ translate ru strings:
     new "Сара знала, что здесь есть город. Крошечный остаток человеческой цивилизации на краю бухты."
 
     old "If they held course...they could make it. They could survive."
-    new "Если они будут держаться курса...они смогут добраться. Они смогут выжить."
+    new "Если они будут держаться курса... они смогут добраться. Они смогут выжить."
 
     old "With the oppressive grey clouds above them and the endless snow, it was hard to make sense of what hour of the day it was."
     new "С давящими серыми облаками и бесконечным снегом было трудно понять, который час."
@@ -209,7 +209,7 @@ translate ru strings:
     new "В очаге уже пылал огонь."
 
     old "And both Sarah and Nick felt warmth, for the first time in...they couldn't remember how long it had been."
-    new "И Сара, и Ник почувствовали тепло впервые за...они не могли вспомнить, сколько времени прошло."
+    new "И Сара, и Ник почувствовали тепло впервые за... они не могли вспомнить, сколько времени прошло."
 
     old "They both walked towards the fire, as if drawn by instinct."
     new "Они оба направились к огню, словно ведомые инстинктом."
@@ -269,7 +269,7 @@ translate ru strings:
     new "Гора кишит орками и всяким отребьем, особенно в такое зимнее время."
 
     old "I heard...I'm just glad we avoided them."
-    new "Я слышал...я просто рад, что мы их избежали."
+    new "Я слышал... я просто рад, что мы их избежали."
 
     old "Orc skin is a lot thicker than human skin. They can endure the cold better than us."
     new "Шкура орков гораздо толще человеческой. Они лучше переносят холод, чем мы."
@@ -374,7 +374,7 @@ translate ru strings:
     new "Такую мягкость она не могла себе позволить в своей нынешней жизни."
 
     old "This place...this town on the edge of the world."
-    new "Это место...этот город на краю света."
+    new "Это место... этот город на краю света."
 
     old "It wasn't quite nothing, but it was close."
     new "Это было не совсем ничто, но близко к тому."
@@ -425,22 +425,22 @@ translate ru strings:
     new "Удалось поспать?"
 
     old "I think I did...but I can't remember."
-    new "Кажется, да...но я не помню."
+    new "Кажется, да... но я не помню."
 
     old "Honestly, all of this still feels...unreal."
-    new "Честно говоря, всё это всё ещё кажется...нереальным."
+    new "Честно говоря, всё это всё ещё кажется... нереальным."
 
     old "I know what you meant."
     new "Я понимаю, о чём ты."
 
     old "I didn't want to say anything when we were out there...but I was sure we would die."
-    new "Я не хотел ничего говорить, когда мы были там...но я был уверен, что мы умрём."
+    new "Я не хотел ничего говорить, когда мы были там... но я был уверен, что мы умрём."
 
     old "Sarah just nodded."
     new "Сара просто кивнула."
 
     old "So...given any thought to what we do now?"
-    new "Так...думал о том, что нам делать дальше?"
+    new "Так... думал о том, что нам делать дальше?"
 
     old "There is no us"
     new "Мы — не 'мы'"
@@ -449,13 +449,13 @@ translate ru strings:
     new "Никаких 'мы' нет, Ник."
 
     old "What...what do you mean?"
-    new "Что...что ты имеешь в виду?"
+    new "Что... что ты имеешь в виду?"
 
     old "Sarah hated looking at him."
     new "Сара ненавидела смотреть на него."
 
     old "His weakness was one thing, but she found it harder to forgive how usesless he was."
-    new "Его слабость была одним, но ей было труднее простить его бесполезность."
+    new "С его слабостью можно было смириться, но простить его бесполезность было куда труднее."
 
     old "He knew his way around a ship, but he almost cost them their lives out in the cold."
     new "Он разбирался в кораблях, но едва не стоил им жизни на холоде."
@@ -482,7 +482,7 @@ translate ru strings:
     new "Я просто имею в виду, что наши пути расходятся."
 
     old "But...we survived...and..."
-    new "Но...мы выжили...и..."
+    new "Но... мы выжили... и..."
 
     old "No thanks to you!"
     new "Не благодаря тебе!"

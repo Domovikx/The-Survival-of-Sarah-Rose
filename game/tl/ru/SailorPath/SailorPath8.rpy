@@ -29,7 +29,7 @@ translate ru strings:
     new "Наблюдая за ним вблизи, она видела множество перемен. Он больше не смотрел ей в глаза, не шутил и в основном держался обособленно во время перерывов."
 
     old "Working the ship, naked just as the captain had demanded, his total output of work had dropped off, but he was still more productive than if he had been killed."
-    new "Работая на корабле голым, как того требовал капитан, его общая производительность упала, но он всё ещё был полезнее, чем если бы его убили."
+    new "Он работал на корабле голым, как того требовал капитан; его общая производительность упала, но он всё ещё был полезнее, чем если бы его убили."
 
     old "Sarah was glad that the captain had decided to show mercy, but seeing Nick now, she wasn't sure if he was even thankful to be alive."
     new "Сара была рада, что капитан решил проявить милосердие, но, глядя на Ника сейчас, она не была уверена, благодарен ли он вообще за то, что жив."
@@ -53,7 +53,7 @@ translate ru strings:
     new "Сара призналась себе, что никакого принуждения не было. Капитан просто слишком хорошо знал её тело."
 
     old "Each day anew, she'd find Nick, his spirit broken just a fragment more."
-    new "Каждый новый день она заставала Ника с духом, разбитым ещё на один осколок."
+    new "Каждый новый день она заставала Ника — его дух разбивался ещё на один осколок."
 
     old "Sarah had spoken to the captain about showing restraint, but on this front, Belmont would tolerate no mercy."
     new "Сара говорила с капитаном о сдержанности, но в этом вопросе Бельмонт не терпел милосердия."
@@ -83,7 +83,7 @@ translate ru strings:
     new "Осознавая его ненависть, и капитан, и Сара следили, чтобы Ник был постоянно связан настолько, насколько это возможно."
 
     old "His legs bound together, his hands tied with only just enough space to move them."
-    new "Его ноги были связаны вместе, руки — с минимальным пространством для движения."
+    new "Его ноги были связаны вместе, руки — ровно настолько свободны, чтобы можно было ими шевелить."
 
     old "It was no guarantee that he would do nothing, but it made it so that he couldn't try anything too serious. Perhaps, in some part, it was also to protect Nick from himself."
     new "Это не гарантировало, что он ничего не предпримет, но не позволяло ему совершить что-то серьёзное. Возможно, отчасти это было и для защиты Ника от самого себя."
@@ -92,7 +92,7 @@ translate ru strings:
     new "Хотя климат стал мягче, температура всё ещё была низкой."
 
     old "Despite this, the captain would spare Nick not a moment of consideration."
-    new "Несмотря на это, капитан не уделял Нику ни минуты сочувствия."
+    new "Несмотря на это, капитан не уделял Нику ни минуты внимания."
 
     old "Nick was forced to keep working without clothes, the icey cold biting away at his skin, turning it a painful red at the end of most days."
     new "Ника заставляли продолжать работать без одежды, ледяной холод впивался в его кожу, к концу большинства дней превращая её в болезненно-красную."
@@ -158,7 +158,7 @@ translate ru strings:
     new "Конечно, капитан. Приношу извинения."
 
     old "He motioned for her to come closer."
-    new "Он жестом подозвал её подойти."
+    new "Он жестом подозвал её."
 
     old "It's been a hard day's work. I need to lose some stress. You know what to do."
     new "Был тяжёлый день. Мне нужно снять стресс. Ты знаешь, что делать."
@@ -167,7 +167,7 @@ translate ru strings:
     new "К своему стыду, Сара действительно знала, что делать."
 
     old "She began undressing as she walked over towards Belmont, dropped to her knees, and took his cock into her mouth."
-    new "Она начала раздеваться, подходя к Бельмонту, опустилась на колени и взяла его член в рот."
+    new "Она начала раздеваться, подошла к Бельмонту, опустилась на колени и взяла его член в рот."
 
     old "Routine."
     new "Рутина."
@@ -251,7 +251,7 @@ translate ru strings:
     new "Никто не произнёс ни слова. Были слышны только звуки минета Сары."
 
     old "Answer me boy, or Gods forgive me I'll castrate your worthless pecker right here!"
-    new "Отвечай, парень, или, прости Господи, я оскоплю твой никчёмный отросток прямо здесь!"
+    new "Отвечай, парень, или, богами прошу, я оскоплю твой никчёмный отросток прямо здесь!"
 
     old "Yes...captain Belmont...that's life..."
     new "Да... капитан Бельмонт... такова жизнь..."
@@ -302,7 +302,7 @@ translate ru strings:
     new "Да... Капитан..."
 
     old "Ya see, boy, I got a soft spot for strays like this."
-    new "Видишь ли, парень, у меня слабость к таким бродяжкам."
+    new "Видишь, парень, у меня слабость к таким бродяжкам."
 
     old "That's my kind heart."
     new "Это моё доброе сердце."
@@ -320,7 +320,7 @@ translate ru strings:
     new "Когда мы доберёмся до места назначения, я куплю ей хорошенький маленький домик."
 
     old "Put a couple of babies in her belly, make sure I get myself a legacy ya know."
-    new "Засажу парочку детишек ей в животик, чтобы оставить после себя наследие, понимаешь."
+    new "Засажу ей в живот парочку детишек, чтобы оставить после себя наследие, понимаешь."
 
     old "You'd like that, Blondie?"
     new "Тебе бы понравилось такое, Блондиночка?"

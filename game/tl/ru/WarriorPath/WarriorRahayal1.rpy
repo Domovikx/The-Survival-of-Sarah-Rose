@@ -167,7 +167,7 @@ translate ru strings:
     new "Самайра покраснела."
 
     old "W-w-whatever! I just need you to sign here, so I have the authority to spend funds on purchasing food!"
-    new "Ч-ч-что угодно! Мне просто нужно, чтобы вы подписали здесь, чтобы у меня были полномочия тратить средства на закупку еды!"
+    new "Ч-ч-что угодно! Мне просто нужно, чтобы ты подписала здесь, чтобы у меня были полномочия тратить средства на закупку еды!"
 
     old "Sarah continued to laugh as she grabbed the sheet of paper and quickly signed it."
     new "Сара продолжала смеяться, беря лист бумаги и быстро подписывая его."
@@ -188,7 +188,7 @@ translate ru strings:
     new "Девушка, похоже, действительно смутилась."
 
     old "Unless you want to talk, of course!"
-    new "Если вы не хотите поговорить, конечно!"
+    new "Если хочешь поговорить, конечно!"
 
     old "Sarah laughed and waved her hands."
     new "Сара рассмеялась и махнула рукой."
@@ -221,7 +221,7 @@ translate ru strings:
     new "Ей всё ещё было странно осознавать, что у неё есть собственная армия."
 
     old "For so long she'd followed Vaelen's command. Now there was nobody else to look at to lead."
-    new "Так долго она следовала приказам Ваэлена. Теперь не было никого, на кого можно было бы положиться в лидерстве."
+    new "Так долго она следовала приказам Ваэлена. Теперь не на кого было равняться."
 
     old "It felt free. But along with the freedom, a fear. She could no longer push her own responsibility onto another."
     new "Это ощущалось как свобода. Но вместе со свободой пришёл и страх. Она больше не могла переложить свою ответственность на другого."
@@ -251,7 +251,7 @@ translate ru strings:
     new "Солдаты были крепкими. У них были деньги. И для большинства женщин в городе они были первыми мужчинами, которых они видели и с которыми не выросли вместе."
 
     old "All together, it made things rather easy."
-    new "Всё вместе это делало дело довольно простым."
+    new "Всё вместе это делало всё довольно простым."
 
     old "Some might have a bastard. Just as many would likely quickly marry a local boy and pin the birth on him."
     new "У некоторых мог родиться бастард. Столько же, вероятно, быстро вышли бы замуж за местного парня и повесили бы на него отцовство."
@@ -305,7 +305,7 @@ translate ru strings:
     new "Вокруг очага и по всей комнате Сара видела пьющих солдат."
 
     old "A few greeted her, many more were already too deep into their drinks."
-    new "Некоторые поприветствовали её, многие другие были уже слишком глубоко в своих напитках."
+    new "Некоторые поприветствовали её, многие другие уже успели изрядно выпить."
 
     old "Sarah grabbed a pitcher of beer and sat in the corner."
     new "Сара взяла кувшин пива и села в углу."

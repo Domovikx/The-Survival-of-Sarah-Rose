@@ -14,13 +14,13 @@ translate ru strings:
     new "Что-то деревянное, похожее на ящик, с грохотом ударилось о булыжник."
 
     old "A city like Lethram was always filled with various noises, but Sarah had learned by now that people rarely came to this particular alley."
-    new "Такой город, как Летрам, всегда полон разных звуков, но Сара уже знала, что люди редко заходят в этот переулок."
+    new "Такой город, как Летрем, всегда полон разных звуков, но Сара уже знала, что люди редко заходят в этот переулок."
 
     old "Voices."
     new "Голоса."
 
     old "She couldn't make out what they were saying, but it was the tone that made her heart skip."
-    new "Она не могла разобрать, что они говорят, но её сердце пропустило удар из-за их тона."
+    new "Она не могла разобрать, что они говорят, но сердце её ёкнуло от их тона."
 
     old "Sarah knew how soldiers and guards sounded, their authoritative tone."
     new "Сара знала, как звучат солдаты и стража — их властный тон."
@@ -53,13 +53,13 @@ translate ru strings:
     new "Сара слышала, как мужчины начали крушить ящики."
 
     old "The violent sounds grew louder and louder as they came nearer."
-    new "Жестокие звуки становились всё громче по мере их приближения."
+    new "Резкие звуки становились всё громче по мере их приближения."
 
     old "Sir!"
     new "Сэр!"
 
     old "Sarah could hear his voice so close, as if he was right next to her."
-    new "Сара слышала его голос так близко, будто он стоял прямо рядом с ней."
+    new "Сара слышала его голос так близко, будто он стоял рядом с ней."
 
     old "She felt her heart pounding in her chest."
     new "Она чувствовала, как сердце колотится в груди."
@@ -92,7 +92,7 @@ translate ru strings:
     new "Девчонка, игра окончена."
 
     old "Crawl out from under there before I make my men drag you out."
-    new "Вылезай оттуда, пока я не заставил своих людей вытащить тебя."
+    new "Вылезай оттуда, пока я не заставлю своих людей вытащить тебя."
 
     old "Sarah slowly pulled the covers away."
     new "Сара медленно откинула одеяло."
@@ -149,7 +149,7 @@ translate ru strings:
     new "Но она не могла сделать ничего из этого."
 
     old "She prayed Alaric would save her again, but this time, he was nowhere to be found."
-    new "Она молилась, что Аларик снова спасёт её, но на этот раз его нигде не было."
+    new "Она молилась, чтобы Аларик снова спас её, но на этот раз его нигде не было."
 
     old "She heard the sounds of metal boots stomping against the ground."
     new "Она слышала звуки металлических сапог, топающих по земле."
@@ -233,7 +233,7 @@ translate ru strings:
     new "Я действую под прямым руководством городского совета."
 
     old "Thievin rats like you and your buddy disrupt that order for all the good citizens of Lethram. The law-abiding citizens."
-    new "Такие вороватые крысы, как ты и твой дружок, нарушают этот порядок для всех добропорядочных граждан Летрама. Законопослушных граждан."
+    new "Такие вороватые крысы, как ты и твой дружок, нарушают этот порядок для всех добропорядочных граждан Летрема. Законопослушных граждан."
 
     old "So, when I-"
     new "Так что, когда я-"
@@ -287,7 +287,7 @@ translate ru strings:
     new "Можешь поверить, что тот подонок сидит в соседней комнате и пытается свалить всё на тебя?"
 
     old "Said you corrupted him, seduced him to do this."
-    new "Сказал, что ты развратила его, соблазнила его на это."
+    new "Сказал, что ты развратила его, соблазнила на это."
 
     old "The man shook his head."
     new "Мужчина покачал головой."
@@ -299,7 +299,7 @@ translate ru strings:
     new "Вот что я скажу. Ты сознаёшься и свидетельствуешь, что твой друг из соседней комнаты был зачинщиком, и я замолвлю за тебя словечко."
 
     old "I can't promise no time, but maybe just a few weeks in a labour house."
-    new "Не могу обещать, что без срока, но, может, всего пару недель в работном доме."
+    new "Не могу обещать, что отделаешься без срока, но, может, всего пара недель в работном доме."
 
     old "The man leaned back in his chair."
     new "Мужчина откинулся на спинку стула."

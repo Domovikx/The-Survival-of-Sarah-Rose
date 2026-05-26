@@ -2456,7 +2456,7 @@ translate ru strings:
     new "Сара увидела слезу, бегущую по лицу Самайры."
 
     old "Are you sad?"
-    new "Ты грустна?"
+    new "Ты грустная?"
 
     old "No. Happy."
     new "Нет. Счастлива."
@@ -2561,7 +2561,7 @@ translate ru strings:
     new "Мягкий стон сорвался с её губ от внезапного прикосновения."
 
     old "Sarah more than welcomed Samaya's growing boldness."
-    new "Сара более чем приветствовала растущую смелость Самайры."
+    new "Сара только радовалась растущей смелости Самайры."
 
     old "Leaning forward again, Sarah pressed her lips against Samayra's."
     new "Снова подавшись вперёд, Сара прижалась губами к губам Самайры."
@@ -2735,7 +2735,7 @@ translate ru strings:
     new "Она была больше любой другой комнаты на корабле."
 
     old "Where most of the ship was rather sparse, this room clearly echoed wealth."
-    new "Там, где большая часть корабля была довольно спартанской, эта комната явно излучала богатство."
+    new "Там, где большая часть корабля была довольно скудной, эта комната явно излучала богатство."
 
     old "A large cabinet stood on the far end of the room, filled with trinkets from many different places."
     new "Большой шкаф стоял в дальнем конце комнаты, наполненный безделушками из разных мест."
@@ -2930,7 +2930,7 @@ translate ru strings:
     new "У меня, возможно, есть ещё одна, не хочешь ещё?"
 
     old "Sarah felt a warm glow on her face, the pleasant buzzing of the room, her dulled senses."
-    new "Сара почувствовала тепло на лице, приятное головокружение от комнаты, притуплённые чувства."
+    new "Сара почувствовала тепло на лице, приятное опьянение, притуплённые чувства."
 
     old "She was quite way to tipsy, and knew a bottle more would probably tip her over the edge."
     new "Она была уже довольно навеселе и знала, что ещё одна бутылка, вероятно, переполнит чашу."
@@ -3092,7 +3092,7 @@ translate ru strings:
     new "Сара ощутила поток ощущений, заглушивший её мысли."
 
     old "Before she realized it, she was kissing him back, feverishly."
-    new "Не успев осознать, она отвечала на поцелуй, лихорадочно."
+    new "Не успев осознать, она отвечала на поцелуй, страстно."
 
     old "Their hands rushed across one another's body, grasping and groping over their clothes."
     new "Их руки метались по телам друг друга, хватая и ощупывая поверх одежды."

@@ -248,7 +248,7 @@ translate ru strings:
     new "В маленькой каюте она начала слышать звуки собственного влажного минета."
 
     old "Each time she brought her head down on his cock, she heard an echo of herself…and it began to drive her wild."
-    new "Каждый раз, опуская голову на его член, она слышала эхо самой себя… и это начинало сводить её с ума."
+    new "Каждый раз, опуская голову на его член, она слышала собственное эхо… и это начинало сводить её с ума."
 
     old "Sarah could feel her sex grow warmer…and…to her horror…wet…"
     new "Сара чувствовала, как её лоно становится теплее… и… к её ужасу… влажным…"
@@ -335,7 +335,7 @@ translate ru strings:
     new "Что ты делаешь…?"
 
     old "I’ve had your mouth plenty by now. This bet was just to prove a point."
-    new "Мне уже достаточно досталось твоего рта. Это пари было просто для доказательства."
+    new "Мне уже хватило твоего рта. Это пари было просто для доказательства."
 
     old "Sarah felt her own engorged sex, fluid leaking past her legs, burning. He couldn’t do this…leave her like this…"
     new "Сара чувствовала своё набухшее лоно, жидкость стекает по ногам, жжение. Он не мог так поступить… оставить её так…"
@@ -365,7 +365,7 @@ translate ru strings:
     new "Белмонт, снова заинтересовавшись, начал возвращаться к столу, раздеваясь на ходу. Он встал позади неё, его массивный орган всё ещё полностью твёрдый."
 
     old "Sarah felt the tip of the old captain's massive rod, press against her opening."
-    new "Сара почувствовала, как кончик массивного жезла старого капитана прижался к её входу."
+    new "Сара почувствовала, как кончик массивного ствола старого капитана прижался к её входу."
 
     old "If you’re offering…"
     new "Если ты предлагаешь…"
@@ -452,7 +452,7 @@ translate ru strings:
     new "Я знал, что ты шлюха… я понял это в первый же раз, когда тебя увидел."
 
     old "Now that her lust had been satisfied Sarah began to take account of her situation."
-    new "Теперь, когда её похоть была удовлетворена, Сара начала осознавать своё положение."
+    new "Теперь, утолив похоть, Сара начала осознавать своё положение."
 
     old "Sprawled over his desk, properly fucked, by that disgusting man."
     new "Распластанная на его столе, хорошенько оттраханная этим отвратительным мужчиной."

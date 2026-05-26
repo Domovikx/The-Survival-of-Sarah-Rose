@@ -227,7 +227,7 @@ translate ru strings:
     new "Тьма сгущалась от огромной пустоты дворца."
 
     old "It had surprised Sarah when she first came to Bagrad, how the days could be scorching hot, and the nights freezing cold."
-    new "Сару удивило, когда она впервые попала в Баград, как дни могут быть паляще жаркими, а ночи ледяными."
+    new "Сару поразило, как в Баграде дни могут быть паляще жаркими, а ночи ледяными, когда она только приехала."
 
     old "This was one such night."
     new "Это была как раз такая ночь."
@@ -254,7 +254,7 @@ translate ru strings:
     new "Сара тряхнула головой, чтобы прояснить мысли."
 
     old "She wasn't a child anymore, and she had no tolerance for childish thoughts."
-    new "Она больше не ребёнок, и у неё нет терпимости к детским мыслям."
+    new "Она больше не ребёнок, и у неё нет времени на детские мысли."
 
     old "There would be a battle tomorrow, and she could not afford to be distracted."
     new "Завтра будет битва, и она не может позволить себе отвлекаться."
@@ -284,7 +284,7 @@ translate ru strings:
     new "Он никогда не потерпел бы такой роскоши, и Сара приспособилась к такому образу жизни."
 
     old "But now, seeing something so rich, she wanted to enjoy it. Despite everything, it still came natural to her."
-    new "Но теперь, видя нечто столь богатое, она хотела насладиться этим. Вопреки всему, это всё ещё давалось ей естественно."
+    new "Но теперь, видя нечто столь богатое, она хотела насладиться этим. Вопреки всему, это всё ещё давалось ей легко."
 
     old "Sarah quickly threw off her robes."
     new "Сара быстро сбросила одежды."
@@ -332,7 +332,7 @@ translate ru strings:
     new "Возьми себя в руки."
 
     old "Sarah pressed her hands across her face as if to force physically what she could not emotionally."
-    new "Сара прижала ладони к лицу, словно пытаясь физически заставить то, что не могла эмоционально."
+    new "Сара прижала ладони к лицу, словно пытаясь физически добиться того, чего не могла эмоционально."
 
     old "A soft sound came from across the room. It was like the grinding of metal, yet somehow muted."
     new "С другого конца комнаты донёсся мягкий звук. Он был похож на скрежет металла, но какой-то приглушённый."
@@ -359,7 +359,7 @@ translate ru strings:
     new "Самайра, ты чуть не довела меня до сердечного приступа!"
 
     old "The princess seemed genuinely apologetic."
-    new "Принцесса казалась искренне виноватой."
+    new "Принцесса, казалось, искренне сожалела."
 
     old "I'm sorry, I'm sorry."
     new "Прости, прости."
@@ -386,7 +386,7 @@ translate ru strings:
     new "Но дело было не в этом, теперь поняла Сара. Она была больше шокирована наготой Сары, чем магическими угрозами."
 
     old "Having lived an isolated life all these years, Sarah suddenly realized she had to some degree unlearned the social rules of her society."
-    new "Прожив изолированную жизнь все эти годы, Сара внезапно осознала, что до некоторой степени отвыкла от социальных норм своего общества."
+    new "Прожив изолированную жизнь все эти годы, Сара внезапно осознала, что в какой-то степени отвыкла от социальных норм своего общества."
 
     old "Ooh, I forgot I wasn't wearing my robes."
     new "Ой, я забыла, что на мне нет одежды."
@@ -446,7 +446,7 @@ translate ru strings:
     new "Всё зависит от того, куда ты хочешь попасть."
 
     old "Sarah listened. Whenever Samayra had a topic she liked to talk about, her voice would gradually shift towards one of excitement, rather than her natural nervousness."
-    new "Сара слушала. Когда у Самайры была тема, о которой ей нравилось говорить, её голос постепенно переходил в взволнованный, вместо привычной нервозности."
+    new "Сара слушала. Когда у Самайры была тема, о которой ей нравилось говорить, её голос постепенно становился взволнованным, вместо привычной нервозности."
 
     old "Can you show me?"
     new "Можешь показать мне?"
@@ -518,7 +518,7 @@ translate ru strings:
     new "Сара уже давно оставила попытки запомнить лабиринт, в котором оказалась."
 
     old "With each twist, turn and stairway, Samayra guided her deeper into spaces within spaces. The palace, grand as it was, was in truth, grander still."
-    new "С каждым поворотом, развилкой и лестницей Самайра вела её глубже в пространства внутри пространств. Дворец, величественный сам по себе, на самом деле был ещё величественнее."
+    new "С каждым поворотом, ответвлением и лестницей Самайра вела её глубже в пространства внутри пространств. Дворец, величественный сам по себе, на самом деле был ещё величественнее."
 
     old "After some time, Sarah and Samayra finally came upon the room that Samayra had intended to show her."
     new "Через некоторое время Сара и Самайра наконец добрались до комнаты, которую Самайра хотела ей показать."
@@ -659,7 +659,7 @@ translate ru strings:
     new "Сара скользнула руками под застёжки платья Самайры, провела ими по её стройной фигуре, оставив принцессу Баграда обнажённой, если не считать браслетов."
 
     old "Taking off dresses, Sarah joked to herself, was something she knew how to do."
-    new "Снимать платья, пошутила про себя Сара, было тем, что она умела делать."
+    new "Снимать платья, — пошутила про себя Сара, — это она умела."
 
     old "You're beautiful..."
     new "Ты прекрасна..."
@@ -719,7 +719,7 @@ translate ru strings:
     new "Инстинктивно Самайра начала тереться своей плотью о ногу Сары."
 
     old "Sarah controlled, guided, the tempo of Samayra's movements, as she felt the princess began to ride her leg."
-    new "Сара контролировала, направляла темп движений Самайры, чувствуя, как принцесса начала скакать на её ноге."
+    new "Сара контролировала, направляла темп движений Самайры, чувствуя, как принцесса начала тереться о её ногу."
 
     old "The occasional moans of Samayra began growing louder and more frequent."
     new "Редкие стоны Самайры становились всё громче и чаще."
@@ -770,7 +770,7 @@ translate ru strings:
     new "Самайра уткнулась головой в плечо Сары, её рот был в дюйме от уха, и она простонала для неё, кончая."
 
     old "The sound of Samayra climaxing, drove Sarah past her own limit, the pleasure erupting from between her legs, roiling through her body."
-    new "Звук оргазма Самайры толкнул Сару за собственный предел, удовольствие изверглось между её ног, прокатившись по всему телу."
+    new "Звук оргазма Самайры довёл Сару до предела, удовольствие изверглось между её ног, прокатившись по всему телу."
 
     old "Entwined, the two women came, their bodies twitching and flexing involuntarily at the overwhelming sensation, each finding themselves spurred on by the other."
     new "Сплетённые, две женщины кончили, их тела непроизвольно дёргались и изгибались от ошеломляющего ощущения, каждая подстёгиваемая другой."
@@ -863,7 +863,7 @@ translate ru strings:
     new "Тайком от Самайры Сара провела пальцем по стенам, оставляя мягкий след задерживающейся магии, ведущий от хранилища обратно в её комнату."
 
     old "Sarah returned to her room and watched Samayra dissapear back into the secret tunnels, too nervous to speak much of what had transpired between them."
-    new "Сара вернулась в свою комнату и смотрела, как Самайра исчезает обратно в потайных туннелях, слишком взволнованная, чтобы много говорить о том, что произошло между ними."
+    new "Сара вернулась в свою комнату и смотрела, как Самайра исчезает обратно в потайные туннели, слишком взволнованная, чтобы много говорить о том, что произошло между ними."
 
     old "As she watched the walls close and the passage vanish, Sarah began inspecting her room again."
     new "Наблюдая, как стены смыкаются и проход исчезает, Сара снова принялась осматривать комнату."
@@ -1082,7 +1082,7 @@ translate ru strings:
     new "Больше, чем ты думаешь, на самом деле."
 
     old "Sarah smirked at Samayra, who seemed none too entertained by her cryptic answers."
-    new "Сара усмехнулась Самайре, которая, казалось, не слишком развлекалась от её загадочных ответов."
+    new "Сара усмехнулась Самайре, которая, казалось, не слишком веселилась от её загадочных ответов."
 
     old "If you're just going to play games, I think I will leave."
     new "Если ты собираешься играть в игры, я, пожалуй, уйду."
@@ -1163,7 +1163,7 @@ translate ru strings:
     new "Моя... моя мать тоже умерла, когда я была маленькой..."
 
     old "No, it's alright. Like you, I gave it a place. But my father also struggled with it for a very long time."
-    new "Нет, всё в порядке. Как и ты, я нашла в себе силы принять это. Но мой отец тоже боролся с этим очень долгое время."
+    new "Нет, всё в порядке. Как и ты, я с этим смирилась. Но мой отец тоже боролся с этим очень долгое время."
 
     old "Were you lonely?"
     new "Тебе было одиноко?"
@@ -1196,7 +1196,7 @@ translate ru strings:
     new "Вскоре Сара уже плакала о женщине, которую никогда не встречала."
 
     old "By the end, Sarah had gained a new understanding of Samayra."
-    new "К концу Сара получила новое понимание Самайры."
+    new "К концу Сара начала по-новому понимать Самайру."
 
     old "She wandered a massive palace, all by herself, for years on end. The loneliness both a fact of her life, as well as a punishment she inflicted on herself."
     new "Она бродила по огромному дворцу совсем одна, годами напролёт. Одиночество было и фактом её жизни, и наказанием, которое она сама себе назначила."

@@ -5,7 +5,7 @@
 translate ru strings:
 
     old "It had been little over a week since Sarah had convinced Atilla to train her."
-    new "Прошла чуть больше недели с тех пор, как Сара убедила Атиллу тренировать её."
+    new "Прошло чуть больше недели с тех пор, как Сара убедила Атиллу тренировать её."
 
     old "He had given her clear instructions, and every day, Sarah followed them to the letter."
     new "Он дал ей чёткие указания, и каждый день Сара следовала им неукоснительно."
@@ -62,13 +62,13 @@ translate ru strings:
     new "На нём была только набедренная повязка, заметила она."
 
     old "As she watched the orc swing his greatsword around, she tried to imagine what it would be like to be on the receiving end of such a blow."
-    new "Наблюдая, как орк размахивает огромным мечом, она попыталась представить, каково оказаться на приёмном конце такого удара."
+    new "Наблюдая, как орк размахивает огромным мечом, она попыталась представить, каково получить такой удар."
 
     old "She didn't doubt that the orc could cut her clean in half with a single blow."
     new "Она не сомневалась, что орк мог разрубить её одним ударом."
 
     old "As her eyes explored his many scars, she assumed many men had suffered such an exact fate against Atilla."
-    new "Глазами скользя по его многочисленным шрамам, она предположила, что многие мужчины пали от руки Атиллы."
+    new "Скользя взглядом по его многочисленным шрамам, она предположила, что многие мужчины пали от руки Атиллы."
 
     old "You're here."
     new "Ты здесь."
@@ -170,7 +170,7 @@ translate ru strings:
     new "Сара заговорила тихо."
 
     old "Really, thank you. This means a lot to me."
-    new "Правда, спасибо. Это много для меня значит."
+    new "Правда, спасибо. Для меня это очень важно."
 
     old "Go ahead, try it on."
     new "Давай, примерь."
@@ -290,7 +290,7 @@ translate ru strings:
     new "Атилла подошёл к ней."
 
     old "Remember what I told you, it’s about far more than just raw strength. You’re a human, and a woman to match."
-    new "Помни, что я тебе говорил: дело далеко не только в грубой силе. Ты человек, к тому же женщина."
+    new "Помни, что я тебе говорил: дело далеко не только в грубой силе. Ты человек, к тому же ещё и женщина."
 
     old "If you think you’re going to beat me in pure muscle, you’re wasting your time."
     new "Если ты думаешь одолеть меня чистой мускулатурой, ты теряешь время."
@@ -455,7 +455,7 @@ translate ru strings:
     new "Они замешкались — всего раз — и это стоило им жизни."
 
     old "Sarah fought the tears as he kept her pinned, head down, ass up, by the orc. Any feeling of being giddy had now been replaced by this humiliation."
-    new "Сара сдерживала слёзы, пока он держал её прижатой — головой вниз, задницей вверх, орком. Любое чувство радости сменилось унижением."
+    new "Сара сдерживала слёзы, пока орк держал её прижатой — головой вниз, задницей вверх. Всё возбуждение сменилось унижением."
 
     old "And battle is nothing like those fancy books you might have read about knights and heroes."
     new "И битва — совсем не то, что в тех красивых книжках о рыцарях и героях."
@@ -521,7 +521,7 @@ translate ru strings:
     new "Орк отстранился, чтобы войти ещё глубже."
 
     old "Sarah, almost hysterical, began bucking against him, wordlessly begging the orc to take her deeper and faster."
-    new "Сара, почти истеричная, начала насаживаться на него, без слов умоляя орка взять её глубже и быстрее."
+    new "Сара, почти обезумевшая, начала насаживаться на него, без слов умоляя орка взять её глубже и быстрее."
 
     old "Atilla, for his part, didn’t let Sarah dictate him, and kept to his steady rhythm, slowly driving deeper with each thrust."
     new "Атилла, со своей стороны, не позволял Саре командовать и придерживался своего ритма, медленно входя глубже с каждым толчком."

@@ -26,7 +26,7 @@ translate ru strings:
     new "Часто им приходилось ждать недели, иногда месяцы, чтобы их дела были заслушаны."
 
     old "Aah yes, there is a matter of their cargo."
-    new "Ах да, есть вопрос об их грузе."
+    new "Ах, да, есть вопрос об их грузе."
 
     old "Sarah struggled to remain focussed on the boring dredge of cases."
     new "Сара с трудом сохраняла сосредоточенность на скучной веренице дел."
@@ -41,7 +41,7 @@ translate ru strings:
     new "Но она должна была скоро вернуться, и Сара чувствовала, как сердце бьётся быстрее от предвкушения или страха."
 
     old "With your permission, your Grace, allow me to explain."
-    new "С вашего позволения, ваша милость, позвольте мне объяснить."
+    new "С вашего позволения, Ваша Светлость, позвольте мне объяснить."
 
     old "Sarah nodded and motioned for the man to continue."
     new "Сара кивнула и жестом велела мужчине продолжать."
@@ -122,7 +122,7 @@ translate ru strings:
     new "Хорошо, и это всё?"
 
     old "The man looked down, seemingly anxious."
-    new "Мужчина посмотрел вниз, казалось, встревоженно."
+    new "Мужчина посмотрел вниз, казалось, тревожно."
 
     old "Speak or be silent, I will not have you act in between."
     new "Говори или молчи, я не потерплю колебаний."
@@ -179,7 +179,7 @@ translate ru strings:
     new "Торговец кивнул, испуганно."
 
     old "I feared to speak of it, were it not the truth."
-    new "Я боялся говорить об этом, если бы это не было правдой."
+    new "Я не стал бы говорить об этом, если бы это не было правдой."
 
     old "Sarah leaned back."
     new "Сара откинулась назад."
@@ -221,7 +221,7 @@ translate ru strings:
     new "Северные провинции ясно дали понять, что чувствуют себя исключёнными из растущей экономики."
 
     old "Perhaps, some even so desperate as to fall down to common criminality."
-    new "Возможно, некоторые даже настолько отчаявшиеся, чтобы опуститься до обычной преступности."
+    new "Возможно, некоторые настолько отчаялись, что опустились до обычной преступности."
 
     old "Still, did she even really know if this was the case?"
     new "И всё же, знала ли она действительно, так ли это?"
@@ -278,7 +278,7 @@ translate ru strings:
     new "Я советую вам воздержаться от дальнейших обсуждений этого дела."
 
     old "The merchant, his face now white as paper, turned and stumbled out the room."
-    new "Торговец, его лицо теперь белое как бумага, повернулся и вывалился из комнаты."
+    new "Торговец, с лицом белым как бумага, повернулся и вышел, спотыкаясь, из комнаты."
 
     old "Find in favor of the Merchant"
     new "Решить в пользу Торговца"
@@ -293,7 +293,7 @@ translate ru strings:
     new "Ваше дело убедительно, и я нахожу ваш контракт ясным и считаю его подлинным."
 
     old "I shall have the Court author a write, stating that you owe House Greytower only repayment on the transport fee, not the entire cargo."
-    new "Я прикажу Суду составить документ, удостоверяющий, что вы должны Дому Грейтауэр только возмещение транспортного сбора, а не всего груза."
+    new "Я прикажу Суду составить документ, удостоверяющий, что вы должны Дому Грейтауэр только возмещение платы за перевозку, а не всего груза."
 
     old "Deliver that writ to House Greytower, and they will obey my verdict."
     new "Доставьте этот документ в Дом Грейтауэр, и они подчинятся моему вердикту."
@@ -317,7 +317,7 @@ translate ru strings:
     new "То было королевство правил и законов."
 
     old "For anyone to commit banditry was bad enough, but for a Lord to have it be done under the protection of the Crown, untolerable."
-    new "Для кого-либо совершить бандитизм было достаточно плохо, но для лорда сделать это под защитой Короны — недопустимо."
+    new "Совершить бандитизм было достаточно скверно, но для лорда сделать это под защитой Короны — недопустимо."
 
     old "Such a thing could undermine everything she had done to build trust in Rosanna's institutions."
     new "Такое могло подорвать всё, что она сделала, чтобы построить доверие к институтам Розанны."
@@ -329,7 +329,7 @@ translate ru strings:
     new "Ты заговорил, и я услышала."
 
     old "Lord Greytower's son, Oliver Greytower, has enacted a crime of gross criminality."
-    new "Сын лорда Грейтауэра, Оливер Грейтауэр, совершил преступление тяжкой уголовщины."
+    new "Сын лорда Грейтауэра, Оливер Грейтауэр, совершил тяжкое преступление."
 
     old "The guilt of which is marked on his face by a blade."
     new "Вина которого отмечена на его лице клинком."
@@ -359,7 +359,7 @@ translate ru strings:
     new "Смерть."
 
     old "If Oliver would refuse to come, or could not be forced to, they were meant to slay him."
-    new "Если Оливер откажется прийти или его не смогут заставить, они должны были убить его."
+    new "Если Оливер откажется явиться или его не смогут заставить, они должны были убить его."
 
     old "At her word, the knights gathered and set out."
     new "По её слову, рыцари собрались и выступили."
@@ -389,7 +389,7 @@ translate ru strings:
     new "Ваша Светлость, было ли действительно мудро так сурово обойтись с Оливером Грейтауэром?"
 
     old "Why? Must we let every small noble house rule their land like tyrants?"
-    new "Почему? Мы должны позволять каждому мелкому дворянскому дому править своей землёй как тираны?"
+    new "Почему? Мы должны позволять каждому мелкому дворянскому дому править своей землёй, как тираны?"
 
     old "Of course not, but the evidence..."
     new "Конечно нет, но доказательства..."
@@ -419,7 +419,7 @@ translate ru strings:
     new "Да, я прекрасно знаю, кто был и кто не был верен мне в те времена."
 
     old "But you and everyone else seems to forget why they were loyal."
-    new "Но ты и все остальные, кажется, забываете, почему они были верны."
+    new "Но вы и все остальные, кажется, забываете, почему они были верны."
 
     old "They were not loyal because they stood to make money from it. They were loyal because their oathsworn duty commanded it."
     new "Они были верны не потому, что могли нажиться на этом. Они были верны, потому что их долг по клятве повелевал это."
@@ -428,10 +428,10 @@ translate ru strings:
     new "Сара вздохнула и оперлась на подлокотник трона."
 
     old "Every single imbecile in this nation demands some kind of compensation or reward for things they were supposed to do."
-    new "Каждый имбецил в этой стране требует какую-то компенсацию или награду за то, что они обязаны были делать."
+    new "Каждый имбецил в этой стране требует какую-то компенсацию или награду за то, что он обязан был делать."
 
     old "They are as weak husbands, demanding a reward because they were faithful to their wives."
-    new "Они как слабые мужья, требующие награды за верность своим жёнам."
+    new "Они, как слабые мужья, требующие награды за верность своим жёнам."
 
     old "When did a vow or an oath become a means to extract a concession?"
     new "Когда обет или клятва стали средством извлечения уступки?"
@@ -446,10 +446,10 @@ translate ru strings:
     new "Мне жаль, ваша Светлость. Мне не следовало говорить об этом. Я понимаю и доверяю вашему решению."
 
     old "I am sorry, Kravel."
-    new "Мне жаль, Крейвел."
+    new "Прости, Крейвел."
 
     old "The day has been long and I lost my temper with you. You only sought to give counsel. I apologize."
-    new "День был долгим, и я потеряла терпение с тобой. Ты только пытался дать совет. Я извиняюсь."
+    new "День был долгим, и я потеряла терпение на тебя. Ты только пытался дать совет. Я извиняюсь."
 
     old "Her Spymaster threw up his hands."
     new "Её шпионмейстер всплеснул руками."
@@ -467,7 +467,7 @@ translate ru strings:
     new "Мужчина вошёл через дверь в Большой Зал."
 
     old "A royal messenger from Normandi, comes bearing a missive!"
-    new "Королевский гонец из Норманди, несёт послание!"
+    new "Королевский гонец из Норманди несёт послание!"
 
     old "Sarah fell back in her throne."
     new "Сара упала обратно на трон."
@@ -485,7 +485,7 @@ translate ru strings:
     new "Ваша Светлость!"
 
     old "I have ridden long and hard from the nation of Normandi, bearing a message to you from Queen Maeiv."
-    new "Я ехал долго и тяжело из страны Норманди, неся послание вам от Королевы Маэйв."
+    new "Я скакал долго и трудно из самой Нормандии, неся послание вам от Королевы Маэйв."
 
     old "Queen Maeiv, the Silent-Queen. Ruler of Normandi for decades now."
     new "Королева Маэйв, Молчаливая Королева. Правительница Норманди уже десятилетия."
@@ -500,7 +500,7 @@ translate ru strings:
     new "Бывший король Норманди наслаждался жизнью довольно неумеренно."
 
     old "Taking drink and food with great abundance. But above all, he enjoyed women."
-    new "Принимая напитки и пищу в великом изобилии. Но превыше всего он наслаждался женщинами."
+    new "Употребляя напитки и пищу в великом изобилии. Но превыше всего он наслаждался женщинами."
 
     old "And just as the drink and food left their mark on him, so too did his frequent philandering."
     new "И так же, как напитки и пища оставили свой след на нём, так и его частые измены дали о себе знать."
@@ -509,7 +509,7 @@ translate ru strings:
     new "К моменту его смерти было, предположительно, до тридцати детей, различного положения и прав на трон."
 
     old "When the various noble houses all sided with different royal born and bastard born children, few suspected the young Maeiv to be much of a contender."
-    new "Когда различные дворянские дома все встали на сторону разных королевских и незаконнорождённых детей, немногие подозревали, что юная Маэйв будет серьёзным претендентом."
+    new "Когда различные дворянские дома встали на сторону разных королевских и незаконнорождённых детей, немногие подозревали, что юная Маэйв будет серьёзным претендентом."
 
     old "Young, inexperienced and a woman, she was not a serious claimant."
     new "Молодая, неопытная и к тому же женщина, она не была серьёзным претендентом."
@@ -566,7 +566,7 @@ translate ru strings:
     new "И так, Королева Маэйв завоевала и корону, и своё прозвище. Молчаливая Королева."
 
     old "Be welcome in my court."
-    new "Добро пожаловать в мой двор."
+    new "Добро пожаловать ко двору."
 
     old "Sarah returned her attention to the messenger."
     new "Сара вернула внимание к гонцу."
@@ -581,7 +581,7 @@ translate ru strings:
     new "Прошу прощения, но я должен сначала доставить это, прежде чем воспользоваться вашей добротой."
 
     old "Even most messages from other countries were rarely brought so...pressingly."
-    new "Даже большинство посланий из других стран редко приносились так... настоятельно."
+    new "Даже большинство посланий из других стран редко приносились с такой... настойчивостью."
 
     old "Tell me then, what is your message?"
     new "Тогда скажи мне, каково твоё послание?"
@@ -611,7 +611,7 @@ translate ru strings:
     new "Сара держала письмо в руке."
 
     old "The seal of Normandi sat firmly and unbroken on it."
-    new "Печать Норманди сидела крепко и нетронуто на нём."
+    new "Печать Норманди была нетронутой и крепкой."
 
     old "It weighed heavy in her hand."
     new "Он тяжело лежал в её руке."
@@ -629,7 +629,7 @@ translate ru strings:
     new "Королевский гонец поклонился с отработанной грацией опытного придворного, затем повернулся и вышел."
 
     old "Sarah balanced the letter between her fingers."
-    new "Сара балансировала письмом между пальцев."
+    new "Сара вертела письмо в пальцах."
 
     old "I had heard nothing of an important message, your Grace. Should we..."
     new "Я ничего не слышал о важном послании, ваша Светлость. Стоит нам..."

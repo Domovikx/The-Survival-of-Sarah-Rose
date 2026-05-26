@@ -143,7 +143,7 @@ translate ru strings:
     new "Эфраим и Калеб начинают смеяться."
 
     old "Sarah can feel her entire head burning, she doesn't want to imagine how red her face has gotten."
-    new "Сара чувствует, как горит голова — она не хочет представлять, насколько red лицо."
+    new "Сара чувствует, как горит голова — она не хочет представлять, насколько красное у неё лицо."
 
     old "Forget it!"
     new "Забудьте!"
@@ -260,7 +260,7 @@ translate ru strings:
     new "Может... мы найдём способ сделать всех счастливыми?"
 
     old "Sarah watched as Ephraim and Caleb exchanged a meaningful glance."
-    new "Сара смотрит, как Эфраим и Калеб обменялись многозначительным взглядом."
+    new "Сара смотрит, как Эфраим и Калеб обмениваются многозначительным взглядом."
 
     old "What? More secrets?"
     new "Что? Ещё секреты?"
@@ -413,7 +413,7 @@ translate ru strings:
     new "Прижатая к кровати между двумя мужчинами, Сара открывала в себе то, о чём никогда не подозревала."
 
     old "And yet, it felt...safe. She knew she could surrender herself to these men without fear."
-    new "И всё же это казалось... безопасно. Она знала, что может отдаться этим мужчинам без страха."
+    new "И всё же это казалось... безопасным. Она знала, что может отдаться этим мужчинам без страха."
 
     old "Her tongue slid across Ephraim's shaft, while she could feel Caleb pulling her closer, leaning further in, driving himself deeper in between her legs."
     new "Её язык скользил по стволу Эфраима, пока она чувствовала, как Калеб притягивает её ближе, входя глубже между ног."
@@ -467,7 +467,7 @@ translate ru strings:
     new "Сара почувствовала, как Калеб рухнул на неё."
 
     old "The way his strong, hard skin pressed against her own body, made her feel complete."
-    new "То, как его сильная, твёрдая кожа прижималась к её телу, делало её цельной."
+    new "То, как его сильная, твёрдая кожа прижималась к её телу, она чувствовала себя полноценной."
 
     old "The two laid in a post-coital embrace, until eventually, Sarah felt Caleb pull out of her."
     new "Они лежали в послелюбовных объятиях, пока Сара не почувствовала, как Калеб выходит из неё."
@@ -482,7 +482,7 @@ translate ru strings:
     new "Каждый тяжело дышал. Воздух в палатке стал влажным и пах сексом."
 
     old "Sarah looked to her side. Seeing the statuesque naked bodies of Caleb and Ephraim right there was almost enough to make her want to go again."
-    new "Сара посмотрела в сторону. Вид статуэтных голых тел Калеба и Эфраима почти заставил её захотеть повторить."
+    new "Сара посмотрела в сторону. Вид статных голых тел Калеба и Эфраима почти заставил её захотеть повторить."
 
     old "It wasn't long before the exhaustion got the better of all three, and they found themselves falling into a deep, restful sleep."
     new "Вскоре усталость взяла верх, и они провалились в глубокий, спокойный сон."

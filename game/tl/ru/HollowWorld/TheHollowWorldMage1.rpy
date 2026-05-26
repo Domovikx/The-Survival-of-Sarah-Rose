@@ -11,7 +11,7 @@ translate ru strings:
     new "Возле шкафов ты найдёшь другую флягу, похожую на мою. Замени мою в кругу на подделку."
 
     old "Sarah did as instructed, placing the spirit's flask in its hidden location."
-    new "Сара сделала, как было сказано, поместив флягу духа в её укрытие."
+    new "Сара сделала, как ей сказали, поместив флягу духа в её укрытие."
 
     old "Her heart was racing. She knew there was no way back."
     new "Её сердце бешено колотилось. Она знала, что пути назад нет."
@@ -62,7 +62,7 @@ translate ru strings:
     new "Мы наносим удар сейчас."
 
     old "Sarah did her best to gather her courage. She was truly going to do this."
-    new "Сара изо всех сил собирала свою храбрость. Она действительно собиралась это сделать."
+    new "Сара изо всех сил пыталась набраться храбрости. Она действительно собиралась это сделать."
 
     old "She threw open the door and exploded through the hallway."
     new "Она распахнула дверь и вылетела в коридор."
@@ -140,7 +140,7 @@ translate ru strings:
     new "Затем она увидела, как его глаза расширились."
 
     old "Xan had realized, but only by a fraction of a second too late, the truth of his situation."
-    new "Ксан понял, но лишь на долю секунды позже, правду о своём положении."
+    new "Ксан понял правду о своём положении, но лишь на долю секунды опоздал."
 
     old "Razaphel leapt out from the flask, it's face warped and distorted, revealing rows and rows of razor sharp teeth."
     new "Разафель выпрыгнул из фляги, его лицо искривилось и исказилось, обнажая ряды и ряды острых как бритва зубов."
@@ -164,7 +164,7 @@ translate ru strings:
     new "Остатками своей силы он начал вонзать пылающую руку в тело духа."
 
     old "A wild screaming hiss emerged from Razaphel as it sufferd the pale fire."
-    new "Дикий шипящий вопль вырвался из Разафеля, когда тот терпел бледное пламя."
+    new "Дикий шипящий вопль вырвался из Разафеля, когда того пожирало бледное пламя."
 
     old "Making deals with this abomination, you're more lost than I thought."
     new "Заключать сделки с этим отродьем — ты пропащая, даже больше, чем я думал."
@@ -179,7 +179,7 @@ translate ru strings:
     new "Даже с одной рукой она не составляла серьёзной угрозы для мага."
 
     old "He deflected her attacks, weaving complex wards that Sarah had never seen before."
-    new "Он отражал её атаки, сплетая сложные заклинания защиты, которых Сара никогда раньше не видела."
+    new "Он отражал её атаки, сплетая сложные защитные чары, которых Сара никогда раньше не видела."
 
     old "Only in this moment did she realize just how little she truly knew of magic, and how wide the difference between herself and Xan truly was."
     new "Лишь в этот момент она осознала, как мало она на самом деле знает о магии и насколько огромна пропасть между ней и Ксаном."
@@ -203,7 +203,7 @@ translate ru strings:
     new "Сара сплела свою энергию в шип, вложив в него всё, что могла согнуть и выковать, и подняла его."
 
     old "With a powerful throw, she released the spike of magical energy, slicing and cutting through all of Xan's wards, driving straight for his heart."
-    new "Мощным броском она выпустила шип магической энергии, разрезая и пробивая все защиты Ксана, направляя его прямо в сердце."
+    new "Мощным броском она выпустила шип магической энергии, разрезая и пробивая все защитные чары Ксана, направляя его прямо в сердце."
 
     old "And he seized it from the air, falling short of his heart by an inch."
     new "И он перехватил его в воздухе, не донеся до сердца всего дюйм."
@@ -245,7 +245,7 @@ translate ru strings:
     new "Но дух мог терпеть боль, потому что знал — победа близка."
 
     old "Sarah watched Xan's body slow down. His flailing turned to twitching, until eventually, even that ceased."
-    new "Сара видела, как тело Ксана замедлилось. Его размахивания сменились дрожью, пока в конце концов не прекратилось и это."
+    new "Сара видела, как тело Ксана замедлилось. Его взмахи сменились судорогами, пока в конце концов не прекратилось и это."
 
     old "With a loud crunch, Razaphel's jaws broke through the last of Xan's resistance, snapping his bones and tearing off his head."
     new "С громким хрустом челюсти Разафеля пробили последнее сопротивление Ксана, ломая кости и отрывая голову."
@@ -254,10 +254,10 @@ translate ru strings:
     new "Тело Ксана рухнуло на пол с глухим стуком."
 
     old "Sarah forced herself to look at her former mentor. She had caused this, wanted this. What right did she then have to now look away?"
-    new "Сара заставила себя посмотреть на своего бывшего наставника. Она вызвала это, хотела этого. Какое право она имела теперь отводить взгляд?"
+    new "Сара заставила себя посмотреть на своего бывшего наставника. Она этого добилась, хотела этого. Какое право она имела теперь отводить взгляд?"
 
     old "Blood flowed freely from the stump on Xan's body, splattering the floor in blood. It didn't take long for the blood to darken and stain."
-    new "Кровь свободно текла из обрубка на теле Ксана, заливая пол. Кровь быстро потемнела и впиталась."
+    new "Кровь хлестала из обрубка на теле Ксана, заливая пол. Она быстро потемнела и впиталась."
 
     old "Hovering over his body, the spirit."
     new "Паря над его телом, дух."
@@ -314,7 +314,7 @@ translate ru strings:
     new "Думаешь, они придут за мной?"
 
     old "The spirit twirled, seeming unconcerned."
-    new "Дух покружился, казался беззаботным."
+    new "Дух покружился, выглядя беззаботным."
 
     old "Perhaps, or perhaps not. Their order is often hard to understand."
     new "Возможно, а возможно, и нет. Их орден часто трудно понять."

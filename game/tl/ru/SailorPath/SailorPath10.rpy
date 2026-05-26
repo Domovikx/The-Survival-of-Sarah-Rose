@@ -206,7 +206,7 @@ translate ru strings:
     new "В этот миг это было самое красивое платье, которое она когда-либо видела."
 
     old "To know that Belmont had taken time out of his day to do this small act of kindness for her, made her feel seen and known by him."
-    new "Осознание того, что Белмонт выкроил время в своём дне ради этого маленького проявления доброты, заставило её почувствовать, что он видит и знает её."
+    new "Осознание того, что Белмонт выкроил время в своём дне ради этого маленького проявления доброты, заставило её почувствовать, что он понимает и принимает её."
 
     old "Eager to try it on, Sarah threw off the by now dirtied rags that she wore working the ship."
     new "Желая примерить его, Сара сбросила уже запачканные лохмотья, в которых работала на корабле."
@@ -233,7 +233,7 @@ translate ru strings:
     new "Она получила от него реакцию, на которую могла надеяться любая невеста."
 
     old "Blondie...you're...wow."
-    new "Блондиночка... ты... вау."
+    new "Блондиночка... ты... ого."
 
     old "Thank you, captain. This dress means a lot to me."
     new "Спасибо, капитан. Это платье много для меня значит."
@@ -242,7 +242,7 @@ translate ru strings:
     new "Она видела, как он пришёл в себя, и его улыбка снова превратилась в усмешку."
 
     old "If I'd known you looked like this, I'd shacked up with you a lot sooner."
-    new "Если бы я знал, что ты так выглядишь, я бы поселился с тобой намного раньше."
+    new "Если бы я знал, что ты так выглядишь, я бы сошёлся с тобой намного раньше."
 
     old "Can't you be proper at least till the ceremony?"
     new "Неужели ты не можешь вести себя прилично хотя бы до церемонии?"
@@ -389,7 +389,7 @@ translate ru strings:
     new "Я куплю тебе сотню грёбаных пар."
 
     old "Ooh yeah?"
-    new "Оу, да?"
+    new "Ох, да?"
 
     old "She watched her now husband fumble with his belt, dropping his pants down as he angled himself in front of her."
     new "Она смотрела, как её теперь уже муж возится с ремнём, спуская штаны и становясь напротив неё."
@@ -659,7 +659,7 @@ translate ru strings:
     new "Но ни один скандал не длится вечно, и вскоре брак Сары и Белмонта стал старой новостью, и горожане начали относиться к ним более дружелюбно."
 
     old "Sarah especially found a welcoming home in the town, managing to use her old talents of politicking to make her way into the social scene of the town."
-    new "Сара особенно нашла тёплый приём в городе, сумев использовать свои старые таланты политикана, чтобы войти в светское общество города."
+    new "Сара особенно нашла тёплый приём в городе, сумев использовать свои старые дипломатические таланты, чтобы войти в светское общество города."
 
     old "She saw that none of them would ever understand what a girl like her saw in a man like him, but Sarah didn't care. It wasn't for them to decide."
     new "Она видела, что никто из них никогда не поймёт, что такая девушка, как она, нашла в таком мужчине, как он, но Саре было всё равно. Не им решать."
@@ -782,7 +782,7 @@ translate ru strings:
     new "Сара видела, как Белмонт повернулся к ней и улыбнулся."
 
     old "A true smile, one imbued with all the love he had for her, and she received with all the love she had for him."
-    new "Искренняя улыбка, наполненная всей его любовью к ней, и она приняла её со всей своей любовью к нему."
+    new "Искренняя улыбка, исполненная всей его любви к ней, и она приняла её, ответив всей своей любовью."
 
     old "In the weeks that followed, Sarah felt her body slowly recover from the terrors of childbirth."
     new "В следующие недели Сара чувствовала, как её тело медленно восстанавливается после ужасов родов."

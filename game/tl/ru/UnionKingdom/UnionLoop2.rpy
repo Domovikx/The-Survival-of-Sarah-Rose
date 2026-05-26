@@ -710,7 +710,7 @@ translate ru strings:
     new "Сара обнаружила, что рука Маэйв движется уверенно — возможно, Маэйв более опытна в таких делах."
 
     old "Still, as Sarah cried out and heard Maeiv's own eager panting, she realized there was no conflict here."
-    new "И всё же, когда Сара вскрикивала и слышала нетерпеливое дыхание Маэйв, она понимала, что здесь нет конфликта."
+    new "И всё же, когда Сара вскрикивала и слышала возбуждённое дыхание Маэйв, она понимала, что здесь нет конфликта."
 
     old "They struggled, but there was no dominance or submission, instead only a mutual exploration."
     new "Они боролись, но не было доминирования или подчинения, вместо этого лишь взаимное исследование."
@@ -752,7 +752,7 @@ translate ru strings:
     new "Как может быть неправильным то, что так ощущается?"
 
     old "Sarah cried out as Maeiv curled her fingers inside of her, and skillfully brought her to climax."
-    new "Сара вскрикнула, когда Маэйв изогнула пальцы внутри неё и умело довела её до кульминации."
+    new "Сара вскрикнула, когда Маэйв изогнула пальцы внутри неё и умело довела её до оргазма."
 
     old "For her own part, Sarah had come to learn of Maeiv's body as well, despite their short time together."
     new "Со своей стороны, Сара тоже успела изучить тело Маэйв, несмотря на их короткое время вместе."
@@ -770,7 +770,7 @@ translate ru strings:
     new "Сара наслаждалась зрелищем почти так же, как удовольствием."
 
     old "Finally, when the peak of the climax receded, Sarah looked down on her works. The mess she had made of Queen Maeiv."
-    new "Наконец, когда пик кульминации отступил, Сара посмотрела на свою работу. Какой беспорядок она устроила из королевы Маэйв."
+    new "Наконец, когда пик оргазма отступил, Сара посмотрела на то, что натворила. Во что она превратила королеву Маэйв."
 
     old "She smiled."
     new "Она улыбнулась."
@@ -911,7 +911,7 @@ translate ru strings:
     new "Пожалуйста, дитя, остановись."
 
     old "Just when I thought you were smarter than this, you go and prove yourself the fool."
-    new "Когда я думала ты умнее, ты идёшь и доказываешь, что ты дура."
+    new "Когда я думала, что ты умнее, ты берёшь и доказываешь, что ты дура."
 
     old "Fool?"
     new "Дура?"

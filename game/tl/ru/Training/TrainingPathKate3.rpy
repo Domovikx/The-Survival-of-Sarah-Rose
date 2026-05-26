@@ -77,7 +77,7 @@ translate ru strings:
     new "Неплохо, а?"
 
     old "Honestly, Sarah, I can't believe it. I've been at this for years, and you're almost as good as me."
-    new "Честно, Сара, не могу поверить. Я занимаюсь этим годами, а ты почти так же хороша."
+    new "Честно, Сара, не могу поверить. Я занимаюсь этим годами, а ты почти так же хороша, как я."
 
     old "Sarah, standing over Kate, dropped to her knees, pinning Kate between her legs, sitting on top of her stomach."
     new "Сара, стоя над Кейт, опустилась на колени, зажав Кейт между ног, сев на живот."
@@ -92,7 +92,7 @@ translate ru strings:
     new "Признаю поражение."
 
     old "She joked."
-    new "Пошутила она."
+    new "Она пошутила."
 
     old "Sarah leaned over, grabbing Kate's wrists, pinning Kate to the ground."
     new "Сара наклонилась, схватив Кейт за запястья, прижимая к земле."
@@ -104,7 +104,7 @@ translate ru strings:
     new "Так... что мне делать с пленницей?"
 
     old "Ooh, please, mighty Sarah...spare me, and I'll make it worth your while..."
-    new "О, пожалуйста, великая Сара... пощади, и я сделаю это стоящим..."
+    new "О, пожалуйста, великая Сара... пощади, и я отплачу сторицей..."
 
     old "Will you now?"
     new "Правда?"
@@ -113,7 +113,7 @@ translate ru strings:
     new "Всё ещё удерживая Кейт, Сара наклонилась и поцеловала её."
 
     old "Sarah could feel Kate eagerly opening her mouth for Sarah, she welcomed it."
-    new "Сара чувствовала, как Кейт с готовностью открывает рот, принимая."
+    new "Сара чувствовала, как Кейт с готовностью открывает рот, встречая её язык."
 
     old "Sarah leapt up and extended a hand to Kate, helping her up to her feet."
     new "Сара вскочила и протянула руку, помогая Кейт встать."
@@ -170,7 +170,7 @@ translate ru strings:
     new "Держась за затылок Кейт, Сара подалась дальше."
 
     old "She began to ride Kate's face."
-    new "Она начала скакать на лице Кейт."
+    new "Она начала двигаться на лице Кейт."
 
     old "Sarah could feel Kate clasping her hands around Sarah's rear, holding on for support and pushing Sarah to lean in further."
     new "Сара чувствовала, как Кейт обхватывает её зад, держась за опору и подталкивая Сару ближе."
@@ -182,7 +182,7 @@ translate ru strings:
     new "Она чувствовала знакомое удовольствие от работы Кейт."
 
     old "Sarah threw her head back and continued to ride Kate's mouth. She felt the sweat of the training, and now the sweat of sex, mingle across her body."
-    new "Сара запрокинула голову, продолжая скакать на рту Кейт. Пот от тренировки и пот от секса смешивались на теле."
+    new "Сара запрокинула голову, продолжая двигаться на лице Кейт. Пот от тренировки и пот от секса смешивались на теле."
 
     old "The small tent had a way of trapping the heat and smells, and soon the air inside had turned humid and smelled of sex."
     new "Маленькая палатка удерживала жар и запахи, и скоро воздух стал влажным и пах сексом."
@@ -200,13 +200,13 @@ translate ru strings:
     new "Сара развернулась, теперь сидя на лице Кейт задом наперёд. Недоумение Кейт исчезло, когда Сара снова опустила киску на её губы."
 
     old "Now Sarah could see all of Kate's body, the way she was writing between her legs, how Kate, despite not yet being touched, seemed as lost in the moment as her."
-    new "Теперь Сара видела всё тело Кейт, how она извивалась, как Кейт, ещё не тронутая, казалась такой же потерянной в моменте."
+    new "Теперь Сара видела всё тело Кейт, как она извивалась, как Кейт, ещё не тронутая, казалась такой же потерянной в моменте."
 
     old "Sarah wanted to return the favor."
     new "Сара хотела отплатить тем же."
 
     old "Bending deep and low, whilst keeping her sex pressed against Kate's lips, Sarah brought her mouth down on Kate's sex."
-    new "Изогнувшись, прижимаясь лоном к губам Кейт, Сара опустила рот на лоно Кейт."
+    new "Изогнувшись, прижимаясь к губам Кейт, Сара опустила рот к киске Кейт."
 
     old "She felt a surprised spasm from Kate's body, and a muffled moan expressed from between her own legs by Kate."
     new "Она почувствовала удивлённый спазм тела Кейт и приглушённый стон из-под ног."
@@ -215,13 +215,13 @@ translate ru strings:
     new "Сара высунула язык, подражая умелой Кейт, и медленно скользнула от холмика к щели."
 
     old "Tasting Kate's sex on her lips for the first time, whilst Kate continued her work on Sarah's, began to drive Sarah wild."
-    new "Вкус лона Кейт на губах впервые, пока Кейт продолжала работать над лоном Сары, сводил Сару с ума."
+    new "Вкус киски Кейт на губах впервые, пока Кейт продолжала работать над киской Сары, сводил Сару с ума."
 
     old "She wanted to make Kate feel the way Kate made her feel."
     new "Она хотела, чтобы Кейт чувствовала то же, что чувствует она."
 
     old "Sarah stuck out her tongue deeper into Kate. At the same time, she glided her lips across Kate's clit."
-    new "Сара высунула язык глубже в Кейт. Одновременно she скользила губами по клитору."
+    new "Сара высунула язык глубже в Кейт. Одновременно она скользила губами по клитору."
 
     old "The second Sarah did, she felt Kate spasm harshly under her, but pinned down by Sarah's leg, there was nowhere for her to move."
     new "В тот же миг Сара почувствовала, как Кейт сильно содрогнулась под ней, но прижатая ногой Сары, не могла двинуться."
@@ -239,7 +239,7 @@ translate ru strings:
     new "Она запрокинула голову, громко стонала, кончая."
 
     old "Remembering her own duties, she quickly let the orgasm roll over her as she bend her head back down, resuming her efforts on Kate's sex."
-    new "Помня о долге, она быстро позволила оргазм прокатиться, наклонилась и возобновила усилия на лоне Кейт."
+    new "Помня о долге, она быстро позволила оргазму прокатиться, наклонилась и возобновила усилия на киске Кейт."
 
     old "Not long after, Sarah heard Kate climax."
     new "Вскоре Сара услышала, как Кейт кончает."
@@ -311,7 +311,7 @@ translate ru strings:
     new "Сара видела, что её слова задели Кейт."
 
     old "Kate pushes her lips up against Sarah, and for a moment, the two lovers kiss."
-    new "Кейт прижимается губами к Саре, и на мгновение две возлюбленные целуются."
+    new "Кейт прижимается губами к Саре, и на мгновение девушки целуются."
 
     old "I love you too, Sarah."
     new "Я тоже люблю тебя, Сара."

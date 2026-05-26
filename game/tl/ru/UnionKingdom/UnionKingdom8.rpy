@@ -44,7 +44,7 @@ translate ru strings:
     new "Нет, я имею в виду, эта девушка делала такое, чего я никогда не видел."
 
     old "And how she used her mouth, by the Gods I swear she must have studied in a Mythran brothel."
-    new "А как она использовала свой рот, богами клянусь, она, должно быть, училась в митранском борделе."
+    new "А как она использовала свой рот, клянусь богами, она, должно быть, училась в митранском борделе."
 
     old "Really, Antonio, you don't have to-"
     new "Правда, Антонио, тебе не обязательно-"
@@ -92,7 +92,7 @@ translate ru strings:
     new "Лучше отложим это, теперь, когда здесь дамы."
 
     old "Sarah bowed, grateful to be acknowledged and for the talk of the servant girl to be over with."
-    new "Сара поклонилась, благодарная за признание и за то, что разговор о служанке закончился."
+    new "Сара поклонилась, благодарная за то, что её заметили и что разговор о служанке закончился."
 
     old "She took her place opposite the two men."
     new "Она заняла своё место напротив двух мужчин."
@@ -131,7 +131,7 @@ translate ru strings:
     new "Мейв, со своей стороны, играла безупречно."
 
     old "Every part of her crafted to perfection. Every slight movement, even those that pretended to be natural, practiced and perfect."
-    new "Каждая её часть была отточена до совершенства. Каждое малейшее движение, даже те, что притворялись естественными, отрепетированы и безупречны."
+    new "Каждая её частица была отточена до совершенства. Каждое малейшее движение — даже те, что притворялись естественными — было отрепетировано и безупречно."
 
     old "She took her seat next to Sarah."
     new "Она села рядом с Сарой."

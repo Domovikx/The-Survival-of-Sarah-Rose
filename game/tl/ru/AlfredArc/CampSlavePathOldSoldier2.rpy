@@ -242,7 +242,7 @@ translate ru strings:
     new "Она сжала руки Сары."
 
     old "Hell, it might even be nice to have a helper around the house. You look like you can work a kitchen, with some training, maybe."
-    new "Даже, может, будет неплохо иметь помощницу по хозяйству. Ты выглядишь так, будто можешь работать на кухне, с обучением, наверное."
+    new "Может, даже будет неплохо иметь помощницу по хозяйству. Ты выглядишь так, будто можешь работать на кухне, с обучением, наверное."
 
     old "Kitchen work, this was what she had to look forward to when she wasn't in his bed being ravaged."
     new "Работа на кухне — вот что ждало её, когда она не была в его постели, терпя насилие."
@@ -296,7 +296,7 @@ translate ru strings:
     new "Он подошёл к Мэри, схватил её и глубоко поцеловал."
 
     old "Mary entertained it for a moment, before pushing him away. She was clearly more comfortable with resisting him."
-    new "Мэри терпела это мгновение, а потом оттолкнула его. Она явно чувствовала себя увереннее, сопротивляясь ему."
+    new "Мэри позволила ему это на мгновение, а потом оттолкнула его. Она явно чувствовала себя увереннее, сопротивляясь ему."
 
     old "The old man spoke some words which seemed to agitate Mary."
     new "Старик сказал что-то, что, похоже, разозлило Мэри."
@@ -407,7 +407,7 @@ translate ru strings:
     new "Сара кивнула и вернулась к работе на кухне."
 
     old "She began to work harder and harder, hoping that the work would keep her from thinking about the ritual. It worked, partly."
-    new "Она начинала работать всё усерднее, надеясь, что работа не даст ей думать о ритуале. Это сработало, отчасти."
+    new "Она начала работать всё усерднее, надеясь, что работа не даст ей думать о ритуале. Это сработало, отчасти."
 
     old "Time passes as Sarah poured herself into her work, until she could hear yelling from the other room."
     new "Время шло, пока Сара погружалась в работу, пока не услышала крики из другой комнаты."
@@ -467,7 +467,7 @@ translate ru strings:
     new "Сара медленно ставит босые ноги на пол, стараясь заглушить каждый шаг."
 
     old "She presses her body up against the wall, inching closer."
-    new "Она прижимается к стене, приближаясь дюйм за дюймом."
+    new "Она прижимается к стене, медленно приближаясь."
 
     old "With each step, the sounds become more obvious."
     new "С каждым шагом звуки становятся отчётливее."
@@ -557,7 +557,7 @@ translate ru strings:
     new "Их секс немедленно прекратился. Сара увидела, что и старый солдат, и Мэри заметили её."
 
     old "He began to yell at her in his foreign language."
-    new "Он начал кричать на ней на своём чужом языке."
+    new "Он начал кричать на неё на чужом для неё языке."
 
     old "Sarah felt her heart leap from her chest."
     new "Саре показалось, что сердце выпрыгнет из груди."

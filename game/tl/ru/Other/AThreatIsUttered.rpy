@@ -83,7 +83,7 @@ translate ru strings:
     new "Позвольте начать с того, что поприветствую всех вас в этом году на фестивале Зимней Милости."
 
     old "I stand here, happy to see so many friendly faces, and to see this great hall sing with a joy that can only come from good friends and good food."
-    new "Я стою здесь, счастливый видеть так много дружелюбных лиц и слышать, как этот зал поёт от радости, которая исходит только от хороших друзей и хорошей еды."
+    new "Я стою здесь, счастлив видеть так много дружелюбных лиц и слышать, как этот зал поёт от радости, которую дарят только хорошие друзья и хорошая еда."
 
     old "But there is also a pain in my heart. An absence that I feel, as surely as all of you."
     new "Но есть и боль в моём сердце. Пустота, которую чувствую я, и которую, уверен, чувствуете и вы все."
@@ -125,7 +125,7 @@ translate ru strings:
     new "По всему залу остальные подняли кубки и выкрикнули свои тосты."
 
     old "As Thomas fell back into his seat, the party truly took off."
-    new "Когда Томас опустился обратно на своё место, вечеринка по-настоящему началась."
+    new "Когда Томас опустился обратно на своё место, праздник по-настоящему начался."
 
     old "Thomas looked at Sarah, he seemed utterly wracked and exhausted."
     new "Томас посмотрел на Сару — он казался совершенно измученным и истощённым."
@@ -140,7 +140,7 @@ translate ru strings:
     new "Ты был невероятен, Томас."
 
     old "You think so? I spend all night writing and memorizing it."
-    new "Ты правда так думаешь? Я потратил всю ночь на написание и заучивание."
+    new "Ты правда так думаешь? Я потратил всю ночь, чтобы написать это и выучить наизусть."
 
     old "She watched as her brother slouched back into his seat. He had been somewhat of a true king for a moment, but Sarah slowly realized it didn't come easy to him."
     new "Она смотрела, как брат снова развалился на своём месте. На мгновение он был настоящим королём, но Сара медленно осознала, что это далось ему нелегко."
@@ -170,7 +170,7 @@ translate ru strings:
     new "Как и его внешность и стиль, одежда тоже была чужеземной. Мягкий струящийся белый, смешанный с тёмно-фиолетовым и редкими кожаными вставками доспехов."
 
     old "Sarah had never seen a man dressed like this, but she didn't need to in order to know that this man hailed from the eastern desert."
-    new "Сара никогда не видела мужчину, одетого так, но ей не нужно было этого, чтобы понять, что этот человек родом из восточной пустыни."
+    new "Сара никогда не видела мужчину, одетого так, но она и так знала, что этот человек родом из восточной пустыни."
 
     old "He was too alien to belong to her world."
     new "Он был слишком чужд, чтобы принадлежать её миру."
@@ -281,13 +281,13 @@ translate ru strings:
     new "Эмиссар оставался совершенно неподвижен, не обращая внимания на крики толпы."
 
     old "His iron gaze remained fixed on Thomas and Sarah."
-    new "Его стальной взгляд оставался прикован к Томасу и Саре."
+    new "Его стальной взгляд оставался прикованным к Томасу и Саре."
 
     old "Sarah had listened intently, and felt like a fist was closing around her throat."
     new "Сара внимательно слушала и чувствовала, будто кулак сжимается вокруг её горла."
 
     old "She looked at Thomas, who had turned white as marble."
-    new "Она посмотрела на Томаса, который стал белым как мрамор."
+    new "Она посмотрела на Томаса, который побелел как мрамор."
 
     old "She understood that just as she looked to Thomas, many of the nobles now did too."
     new "Она поняла, что так же, как она смотрит на Томаса, теперь смотрят и многие из знати."

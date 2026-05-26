@@ -95,16 +95,16 @@ translate ru strings:
     new "Она почувствовала, как его руки смыкаются вокруг неё, прижимая. Быть в руках Атиллы было всё равно что быть раздавленной."
 
     old "Once encircled, Atilla easily lifted Sarah off the ground. A fast spin cause Sarah to become dizzy, dropping her weapons to the ground."
-    new "Обхватив, Атилла легко поднял Сару. Быстрое вращение вызвало головокружение, и она выронила оружие."
+    new "Обхватив её, Атилла легко поднял Сару. Быстрое вращение вызвало головокружение, и она выронила оружие."
 
     old "Atille threw Sarah over his shoulder, holding her there."
-    new "Атилла перекинул Сару через плечо."
+    new "Атилла перекинул Сару через плечо и держал её."
 
     old "Sarah struggled, but once Atilla grabbed her like this, it was all over."
     new "Сара сопротивлялась, но когда Атилла хватал её так, всё было кончено."
 
     old "Still carrying Sarah over his shoulder, the orc questioned her."
-    new "Всё ещё неся Сару на плече, орк спросил."
+    new "Всё ещё неся Сару на плече, орк спросил её."
 
     old "A clever move, girl, but you need to think."
     new "Хитрый ход, девчонка, но нужно думать."
@@ -131,10 +131,10 @@ translate ru strings:
     new "Атилла встряхнул её."
 
     old "I could crush you easily."
-    new "Я могу легко раздавить тебя."
+    new "Я мог бы легко раздавить тебя."
 
     old "Sarah pounded her fist into the orc's muscle, knowing that it didn't do anything to him."
-    new "Сара ударила кулаком по мышце орка, зная, что это ему ничего не сделает."
+    new "Сара ударила кулаком по мышце орка, зная, что это ему ничего не делало."
 
     old "Not fair!"
     new "Нечестно!"
@@ -146,7 +146,7 @@ translate ru strings:
     new "И они посмеялись вместе мгновение, прежде чем Атилла опустил Сару на землю."
 
     old "Atilla told Sarah to gather up all the training equipment and carry it."
-    new "Атилла велел Саре собрать всё тренировочное оборудование и нести."
+    new "Атилла велел Саре собрать всё тренировочное оборудование и нести его."
 
     old "Together, the two walked back through the camp."
     new "Вместе они пошли обратно через лагерь."
@@ -221,7 +221,7 @@ translate ru strings:
     new "Орк рухнул в кресло, спрятав лицо в ладонях."
 
     old "Sarah...I'm sorry that I yelled at you."
-    new "Сара... прости, что накричал."
+    new "Сара... прости, что накричал на тебя."
 
     old "Sarah was stunned. Atilla rarely called her by her name, and even more rarely made apologies."
     new "Сара была ошеломлена. Атилла редко называл её по имени и ещё реже извинялся."
@@ -407,7 +407,7 @@ translate ru strings:
     new "Сара прижалась к груди Атиллы, пальцы впились в его мышцы."
 
     old "I'll give you your space back, and I promise I won't go in again."
-    new "Я верну тебе твоё пространство и обещаю больше не входить."
+    new "Я верну тебе твоё личное пространство и обещаю больше туда не входить."
 
     old "Sarah...stay."
     new "Сара... останься."
@@ -554,7 +554,7 @@ translate ru strings:
     new "Потому что если он делает это, то это всё ещё сделка."
 
     old "It was her, giving up her body in exchange for his training."
-    new "Это она отдаёт тело в обмен на тренировки."
+    new "Это она отдаёт своё тело в обмен на его тренировки."
 
     old "But now, as he held her close while fucking her, pressing her into his body, his tongue driving deeper into her mouth, and Sarah surrendering herself..."
     new "Но теперь, когда он держал её близко, трахая, вжимая в своё тело, язык проникал глубже, а Сара сдавалась..."

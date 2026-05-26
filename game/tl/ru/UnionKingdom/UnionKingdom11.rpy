@@ -77,7 +77,7 @@ translate ru strings:
     new "[supportnobles] голосов отдано в поддержку знати."
 
     old "There is a majority support for the position."
-    new "Есть поддержка большинства по данной позиции."
+    new "Большинство поддерживает эту позицию."
 
     old "The motion passes."
     new "Предложение принято."
@@ -161,7 +161,7 @@ translate ru strings:
     new "Король Союза."
 
     old "Or Queen, Sarah thought to herself."
-    new "Или Королева, — подумала про себя Сара."
+    new "Или королева, — подумала про себя Сара."
 
     old "In the silence of the room, she was able to consider and reflect."
     new "В тишине комнаты она могла обдумать всё и поразмышлять."
@@ -185,7 +185,7 @@ translate ru strings:
     new "Сара начала обдумывать предложение."
 
     old "The truth was that Maeiv did not have the power to enforce this issue."
-    new "Правда была в том, что у Маэйв не было власти продавить этот вопрос."
+    new "Правда была в том, что у Маэйв не было власти настоять на этом решении."
 
     old "If the others disagreed, there would be no single ruler for the Union."
     new "Если остальные будут против, единого правителя у Союза не будет."
@@ -224,7 +224,7 @@ translate ru strings:
     new "Но как только эта мысль соблазнила её, она отшатнулась."
 
     old "So much power...could anyone truly be allowed to wield it? Perhaps none of them should."
-    new "Такая власть... может ли кому-то действительно быть позволено обладать ею? Возможно, никому из них."
+    new "Такая власть... можно ли кому-то действительно доверить её? Возможно, никому из них не стоит."
 
     old "Perhaps a council should rule."
     new "Возможно, править должен совет."

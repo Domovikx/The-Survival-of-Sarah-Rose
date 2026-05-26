@@ -80,7 +80,7 @@ translate ru strings:
     new "Сара сделала паузу, оглядывая комнату, и увидела, что каждый из них согласен."
 
     old "We are all fools if we imagine that the four of us would undo centuries of distrust between our nations. Our peoples."
-    new "Мы все глупцы, если воображаем, что нас четверо смогут отменить столетия недоверия между нашими нациями. Нашими народами."
+    new "Мы все глупцы, если воображаем, что мы вчетвером сможем отменить столетия недоверия между нашими нациями. Нашими народами."
 
     old "Only now, with the threat of invasion, are we even somewhat unified."
     new "Только сейчас, с угрозой вторжения, мы хоть как-то едины."

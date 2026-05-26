@@ -20,7 +20,7 @@ translate ru strings:
     new "Юла уже встала."
 
     old "Get up, we don't wanna be late for breakfast."
-    new "Вставай, мы не хотим опоздать на завтрак."
+    new "Вставай, а то опоздаем на завтрак."
 
     old "Cause they put up about enough for two-thirds of the prisoners."
     new "Потому что они готовят примерно на две трети заключённых."
@@ -53,7 +53,7 @@ translate ru strings:
     new "Вместе они встали в очередь за едой."
 
     old "Eula gestured with her head."
-    new "Юла указала головой."
+    new "Юла кивнула."
 
     old "See those girls over there?"
     new "Видишь тех девушек вон там?"
@@ -68,7 +68,7 @@ translate ru strings:
     new "Это Синара и её приспешницы."
 
     old "They're trouble, try and steer clear of them if you can."
-    new "С ними проблемы, постарайся держаться от них подальше, если сможешь."
+    new "Они опасны, постарайся держаться от них подальше, если сможешь."
 
     old "Sarah could see that the women looked dangerous."
     new "Сара видела, что женщины выглядят опасно."
@@ -104,7 +104,7 @@ translate ru strings:
     new "Я имею в виду, женщины здесь любят проверять тебя, смотреть, на что ты способна."
 
     old "If you're like kinda tough, they'll fuck with you a bit but they'll back off when new girls show up."
-    new "Если ты типа крутая, они немного поиграют с тобой, но отстанут, когда появятся новые девушки."
+    new "Если ты типа крутая, они немного поприкалываются над тобой, но отстанут, когда появятся новые девушки."
 
     old "But if you're a punk..."
     new "Но если ты слабачка..."
@@ -146,16 +146,16 @@ translate ru strings:
     new "Он может немного нарушать правила там и сям, доставать тебе вещи с воли."
 
     old "Of course, he don't work for free, so you'll have to make it worth this time."
-    new "Конечно, он не работает бесплатно, так что тебе придётся сделать так, чтобы это стоило его времени."
+    new "Конечно, он не работает бесплатно, так что придётся сделать так, чтобы оно того стоило."
 
     old "Sarah looked at Eula."
     new "Сара посмотрела на Юлу."
 
     old "Worth his time?"
-    new "Стоило его времени?"
+    new "Стоит его времени?"
 
     old "Gods, blondie, you born slow or something?"
-    new "Боги, блондиночка, ты родилась такой медлительной или что?"
+    new "Боги, блондиночка, ты родилась такой тупой или что?"
 
     old "Get him off and he'll get you stuff. You know how to suck a dick, right?"
     new "Удовлетвори его, и он достанет тебе вещи. Ты умеешь сосать член, да?"

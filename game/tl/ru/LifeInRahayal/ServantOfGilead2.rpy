@@ -227,7 +227,7 @@ translate ru strings:
     new "Она решила подкатить к одному парню... не могу вспомнить его имя, кажется, он был торговым чиновником."
 
     old "Guy was so fat he was basically round. He wasn't even getting much luck from the whores."
-    new "Мужик был таким толстым, что почти круглым. Ему даже шлюхи не слишком везло."
+    new "Мужик был таким толстым, что почти круглым. Ему даже со шлюхами не слишком везло."
 
     old "So this girl, I think she was kitchen staff, she decides to give him some attention."
     new "И вот эта девушка, кажется, из кухонного персонала, решает уделить ему внимание."
@@ -467,7 +467,7 @@ translate ru strings:
     new "Такая красивая женщина, подчинённая таким мужчиной."
 
     old "Was it power?"
-    new "В этом ли дело во власти?"
+    new "В этом ли дело? Во власти?"
 
     old "Did his wealth and status buy him the right to have women like that?"
     new "Неужели его богатство и статус купили ему право обладать такими женщинами?"
@@ -593,7 +593,7 @@ translate ru strings:
     new "Сара кивнула и снова начала наполнять его чашу."
 
     old "It repeated a few more times before his thirst seemed finally sated."
-    new "Это повторилось ещё несколько раз, прежде чем его жажда, наконец, утолилась."
+    new "Это повторилось ещё несколько раз, прежде чем он наконец утолил жажду."
 
     old "Are you...pleased, sir?"
     new "Вы... довольны, сэр?"
@@ -629,7 +629,7 @@ translate ru strings:
     new "Он указал на комнату."
 
     old "All honorable guests of Master Gilead."
-    new "Все — почётные гости господина Гилада."
+    new "Все — почётные гости господина Гилеада."
 
     old "But I am not a guest."
     new "Но я не гость."
@@ -854,7 +854,7 @@ translate ru strings:
     new "Кассиус, со своей стороны, казался невозмутимым, если не ещё более возбуждённым."
 
     old "Fuck!!!"
-    new "Чёрт!!!"
+    new "Блядь!!!"
 
     old "Sarah cried out again as his tongue slid inside of her."
     new "Сара снова вскрикнула, когда его язык скользнул внутрь неё."
@@ -1088,7 +1088,7 @@ translate ru strings:
     new "Наконец, приблизившись к центру, она увидела сердце этого маскарада."
 
     old "Sprawled out on the floor, the Master of the Estate. Gilead."
-    new "Раскинувшись на полу, хозяин поместья. Гилад."
+    new "Раскинувшись на полу, хозяин поместья. Гилеад."
 
     old "Around him, a swarm of women, crawling about in endless worship."
     new "Вокруг него — рой женщин, ползающих в бесконечном поклонении."
@@ -1097,7 +1097,7 @@ translate ru strings:
     new "Излишество момента показалось Саре чем-то вроде фантазии. Единственное, что казалось странным, — это выражение его лица."
 
     old "Even for Sarah, who had not met him often, Gilead appeared entirely bored."
-    new "Даже Саре, которая не часто с ним встречалась, Гилад казался совершенно скучающим."
+    new "Даже Саре, которая не часто с ним встречалась, Гилеад казался совершенно скучающим."
 
     old "Close to a dozen women, each among the most beautiful Sarah had ever seen, crawled about at his feet."
     new "Около дюжины женщин, каждая из которых была одной из самых красивых, что Сара когда-либо видела, ползали у его ног."
@@ -1112,7 +1112,7 @@ translate ru strings:
     new "Целуясь, дразня, играя."
 
     old "Each a performance, hoping to entice Gilead."
-    new "Каждая — представление в надежде соблазнить Гилада."
+    new "Каждая — представление в надежде соблазнить Гилеада."
 
     old "His expression remained unchanged."
     new "Его выражение оставалось неизменным."
@@ -1145,7 +1145,7 @@ translate ru strings:
     new "Её руки дрожали, тряслись."
 
     old "Sarah's body reacted before her mind understood why. Before her mind recognized the woman that now sat next to Gilead."
-    new "Тело Сары отреагировало прежде, чем разум понял почему. Прежде чем разум узнал женщину, которая теперь сидела рядом с Гиладом."
+    new "Тело Сары отреагировало прежде, чем разум понял почему. Прежде чем разум узнал женщину, которая теперь сидела рядом с Гилеадом."
 
     old "The smile."
     new "Улыбка."
@@ -1163,7 +1163,7 @@ translate ru strings:
     new "И вот она здесь."
 
     old "Comfortably standing near Gilead."
-    new "Стоящая рядом с Гиладом."
+    new "Стоящая рядом с Гилеадом."
 
     old "And unlike all the other women, she held his attention."
     new "И, в отличие от всех остальных женщин, она владела его вниманием."
@@ -1178,13 +1178,13 @@ translate ru strings:
     new "Прежде чем Сара успела обдумать что-либо ещё, она услышала щелчок пальцев."
 
     old "Gilead motioned directly at her to come nearer."
-    new "Гилад указал прямо на неё, чтобы она подошла."
+    new "Гилеад указал прямо на неё, чтобы она подошла."
 
     old "Trembling, Sarah approached."
     new "Дрожа, Сара приблизилась."
 
     old "Her eyes shot from Gilead to Carolyn, and back again."
-    new "Её взгляд метался от Гилада к Кэролайн и обратно."
+    new "Её взгляд метался от Гилеада к Кэролайн и обратно."
 
     old "They would know."
     new "Они узнают."
@@ -1199,7 +1199,7 @@ translate ru strings:
     new "Сара хотела открыть рот, но её тело не слушалось."
 
     old "Gilead held up his cup."
-    new "Гилад поднял свою чашу."
+    new "Гилеад поднял свою чашу."
 
     old "Refill this."
     new "Наполни это."
@@ -1277,7 +1277,7 @@ translate ru strings:
     new "Они видят в Мифре главный приз. Жирную свинью на убой."
 
     old "Gilead frowned."
-    new "Гилад нахмурился."
+    new "Гилеад нахмурился."
 
     old "They must understand that against the full might of our Empire, they could not hope to resist."
     new "Они должны понимать, что против всей мощи нашей Империи они не смогут надеяться на сопротивление."
@@ -1295,7 +1295,7 @@ translate ru strings:
     new "Умереть в бою... это высшая честь для их рода."
 
     old "Gilead leaned back again."
-    new "Гилад снова откинулся назад."
+    new "Гилеад снова откинулся назад."
 
     old "So...if I cannot deal with them, you suppose I should then deal with you?"
     new "Итак... если я не могу договориться с ними, ты полагаешь, я должен тогда договориться с тобой?"
@@ -1328,7 +1328,7 @@ translate ru strings:
     new "Кое-что, касающееся твоей... натуры."
 
     old "Gilead sat up."
-    new "Гилад выпрямился."
+    new "Гилеад выпрямился."
 
     old "Watch your tongue, or I will have it ripped from your mouth."
     new "Следи за языком, или я прикажу вырвать его."
@@ -1352,7 +1352,7 @@ translate ru strings:
     new "Без поддержки других Вечный Совет никогда не разрешит тебе использовать твои легионы."
 
     old "And so they will sit, on the docks, growing fat and lazy. No more dangerous than a small dog."
-    new "И так они будут сидеть в порту, жирея и ленивея. Не опаснее маленькой собачки."
+    new "И так они будут сидеть в порту, жирея и ленясь. Не опаснее маленькой собачки."
 
     old "And right now, you do not have their support."
     new "И прямо сейчас у тебя нет их поддержки."
@@ -1397,10 +1397,10 @@ translate ru strings:
     new "Истории об ужасах Племенных и о необходимости цивилизующей руки Мифры."
 
     old "That is how we move the support towards your cause. That is how you get your legions."
-    new "Вот как мы переведём поддержку в твою пользу. Вот как ты получишь свои легионы."
+    new "Вот как мы склоним поддержку на твою сторону. Вот как ты получишь свои легионы."
 
     old "Gilead nodded."
-    new "Гилад кивнул."
+    new "Гилеад кивнул."
 
     old "And what of Rosanna itself?"
     new "А что насчёт самой Розанны?"
@@ -1433,7 +1433,7 @@ translate ru strings:
     new "Любой, кто предъявит претензию... что ж, пусть лучше приведёт с собой армию."
 
     old "Gilead smiled."
-    new "Гилад улыбнулся."
+    new "Гилеад улыбнулся."
 
     old "You are clever. I appreciate that much about you."
     new "Ты умна. Я ценю это в тебе."
@@ -1451,10 +1451,10 @@ translate ru strings:
     new "Мы пойдём долгим путём, но я подозреваю, что в итоге каждый получит то, что хочет."
 
     old "Thank you, Lord Gilead."
-    new "Спасибо, лорд Гилад."
+    new "Спасибо, лорд Гилеад."
 
     old "Gilead gestured towards the room."
-    new "Гилад указал на комнату."
+    new "Гилеад указал на комнату."
 
     old "Feel free to partake."
     new "Не стесняйся, присоединяйся."
@@ -1466,10 +1466,10 @@ translate ru strings:
     new "И мои вкусы более... специфичны."
 
     old "Gilead laughed."
-    new "Гилад рассмеялся."
+    new "Гилеад рассмеялся."
 
     old "Mythra has known no vice or desire beyond the pale. I doubt anything you Rosannians can conjure up will shock us."
-    new "Мифра не знала порока или желания, выходящего за рамки. Сомневаюсь, что вы, розаннцы, сможете придумать что-то, что нас шокирует."
+    new "Мифре неведом порок или желание, выходящее за рамки дозволенного. Сомневаюсь, что вы, розаннцы, сможете придумать что-то, что нас шокирует."
 
     old "You might be surprised."
     new "Ты можешь удивиться."
@@ -1478,7 +1478,7 @@ translate ru strings:
     new "Кэролайн подмигнула и ушла."
 
     old "Once Lady Carolyn was out of sight, Gilead rose up."
-    new "Как только леди Кэролайн скрылась из виду, Гилад поднялся."
+    new "Как только леди Кэролайн скрылась из виду, Гилеад поднялся."
 
     old "He turned towards Sarah."
     new "Он повернулся к Саре."
@@ -1493,7 +1493,7 @@ translate ru strings:
     new "Дрожа, она наливала вино. Часть его расплескалась через край."
 
     old "I...I am sorry, Master Gilead, I am..."
-    new "Я... простите, господин Гилад, я..."
+    new "Я... простите, господин Гилеад, я..."
 
     old "Whatever, it's fine."
     new "Неважно, всё в порядке."
@@ -1511,7 +1511,7 @@ translate ru strings:
     new "Не в силах отказаться от прямого приказа хозяина поместья, Сара упала на колени и нервно последовала за ним."
 
     old "She continued to crawl as she followed him through the masses of bodies, writhing in ever deepening pleasures."
-    new "Она продолжала ползти, следуя за ним сквозь массу тел, извивающихся во всё более глубоких удовольствиях."
+    new "Она продолжала ползти, следуя за ним сквозь массу тел, извивающихся во всё более исступлённых удовольствиях."
 
     old "Her face burning from the shame of how little she meant in this world."
     new "Её лицо горело от стыда осознания, как мало она значит в этом мире."
@@ -1523,7 +1523,7 @@ translate ru strings:
     new "Когда они приблизились к концу большого зала, Сара увидела, что толпы редеют."
 
     old "I...Master Gilead, I was tasked to work the masquerade tonight...I think I should stay here."
-    new "Я... господин Гилад, меня назначили работать на маскараде сегодня... Я думаю, мне следует остаться здесь."
+    new "Я... господин Гилеад, меня назначили работать на маскараде сегодня... Я думаю, мне следует остаться здесь."
 
     old "He turned and looked down at her."
     new "Он повернулся и посмотрел на неё сверху вниз."
@@ -1550,7 +1550,7 @@ translate ru strings:
     new "Хорошо, тогда не отставай."
 
     old "Gilead pressed open a door and they entered into a different room."
-    new "Гилад толкнул дверь, и они вошли в другую комнату."
+    new "Гилеад толкнул дверь, и они вошли в другую комнату."
 
     old "It was vast, as all rooms in this Estate appeared to be, but compared to the great hall it felt smaller. Private."
     new "Она была огромной, как и все комнаты в этом поместье, но по сравнению с большим залом казалась меньше. Уединённой."
@@ -1562,7 +1562,7 @@ translate ru strings:
     new "Единственный источник света."
 
     old "Gilead turned to her."
-    new "Гилад повернулся к ней."
+    new "Гилеад повернулся к ней."
 
     old "Come along."
     new "Иди сюда."
@@ -1571,7 +1571,7 @@ translate ru strings:
     new "Он сел в одно из больших кресел."
 
     old "Gilead did not offer her a seat, so Sarah remained standing."
-    new "Гилад не предложил ей сесть, поэтому Сара осталась стоять."
+    new "Гилеад не предложил ей сесть, поэтому Сара осталась стоять."
 
     old "She nervously looked about."
     new "Она нервно огляделась."
@@ -1580,7 +1580,7 @@ translate ru strings:
     new "Она понятия не имела, в чём дело, но не могла отделаться от чувства, что где-то таится опасность."
 
     old "Master Gilead, if I did something wrong I-"
-    new "Господин Гилад, если я сделала что-то не так, я-"
+    new "Господин Гилеад, если я сделала что-то не так, я-"
 
     old "He raised her hand, bringing her to silence."
     new "Он поднял руку, заставляя её замолчать."
@@ -1589,7 +1589,7 @@ translate ru strings:
     new "Это второй раз, когда я застаю тебя за подглядыванием."
 
     old "No, Master Gilead, I was only-"
-    new "Нет, господин Гилад, я только-"
+    new "Нет, господин Гилеад, я только-"
 
     old "Be still."
     new "Молчать."
@@ -1643,7 +1643,7 @@ translate ru strings:
     new "Скажи мне, откуда, ты сказала, ты родом?"
 
     old "I...nowhere important, Master Gilead."
-    new "Я... ниоткуда важного, господин Гилад."
+    new "Я... ниоткуда важного, господин Гилеад."
 
     old "Answer my question."
     new "Ответь на мой вопрос."
@@ -1691,7 +1691,7 @@ translate ru strings:
     new "И вот ты здесь. Работаешь в чужой стране. Служанка."
 
     old "I...am simply trying to survive. Master Gilead."
-    new "Я... просто пытаюсь выжить, господин Гилад."
+    new "Я... просто пытаюсь выжить, господин Гилеад."
 
     old "He tapped the side of his chair with his knuckles."
     new "Он постучал костяшками пальцев по подлокотнику кресла."
@@ -1703,13 +1703,13 @@ translate ru strings:
     new "И когда ты подкрадываешься и подслушиваешь то, что тебя не касается, как это помогает твоему выживанию?"
 
     old "Master Gilead...again, I apologize. It was a mistake, honestly."
-    new "Господин Гилад... ещё раз, прошу прощения. Это была ошибка, честно."
+    new "Господин Гилеад... ещё раз, прошу прощения. Это была ошибка, честно."
 
     old "A mistake does not exempt you from punishment."
     new "Ошибка не освобождает тебя от наказания."
 
     old "I understand. I will accept any punishment you give me, Master Gilead."
-    new "Я понимаю. Я приму любое наказание, которое вы мне назначите, господин Гилад."
+    new "Я понимаю. Я приму любое наказание, которое вы мне назначите, господин Гилеад."
 
     old "He studied her for a moment longer."
     new "Он изучал её ещё мгновение."
@@ -1805,10 +1805,10 @@ translate ru strings:
     new "Но кто сказал, что он вообще обратит на меня внимание?"
 
     old "Gilead grinned."
-    new "Гилад усмехнулся."
+    new "Гилеад усмехнулся."
 
     old "He has a taste for blondes. He won't be able to resist you, I imagine."
-    new "У него вкус к блондинкам. Он не сможет устоять перед тобой, я полагаю."
+    new "У него слабость к блондинкам. Он не сможет устоять перед тобой, я полагаю."
 
     old "Sarah shivered. Was this what she was to be reduced down to, over and over again?"
     new "Сара вздрогнула. Неужели к этому её будут сводить снова и снова?"
@@ -1844,7 +1844,7 @@ translate ru strings:
     new "Сара поклонилась."
 
     old "I won't let you down, Master Gilead."
-    new "Я вас не подведу, господин Гилад."
+    new "Я вас не подведу, господин Гилеад."
 
     old "See that you don't."
     new "Смотри не подведи."

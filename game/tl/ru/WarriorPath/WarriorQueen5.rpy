@@ -305,7 +305,7 @@ translate ru strings:
     new "Сара хотела спросить его о столь многом, но сдерживалась, храня молчание, пока вела его через лагерь."
 
     old "Finally, as she stepped into the tent that functioned as her warroom, Sarah turned around."
-    new "Наконец, войдя в шатёр, служивший её военным советом, Сара обернулась."
+    new "Наконец, войдя в шатёр, служивший ей штабом, Сара обернулась."
 
     old "She felt herself shake with excitement as Atilla entered the tent after her."
     new "Она почувствовала, как дрожит от волнения, когда Атилла вошёл в шатёр следом."
@@ -794,7 +794,7 @@ translate ru strings:
     new "Его невероятный размер."
 
     old "Perhaps it was unfair to human men to be compared to an orc. Still, compared they were."
-    new "Возможно, было несправедливо сравнивать людей-мужчин с орком. Но их всё равно сравнивали."
+    new "Возможно, было несправедливо сравнивать мужчин-людей с орком. Но их всё равно сравнивали."
 
     old "Yet despite the size of it, on Atilla's body, it seemed fitting."
     new "И всё же, несмотря на размер, на теле Атиллы это казалось уместным."
@@ -1139,7 +1139,7 @@ translate ru strings:
     new "Безопасность, которую она чувствовала только в его объятиях."
 
     old "How he held her tight, and how his brutal ways softened with her, stroking the surface of her skin with gentle touch."
-    new "Как он крепко держал её, и как его суровость смягчалась с ней, поглаживая поверхность её кожи нежным прикосновением."
+    new "Как он крепко держал её, и как его суровость смягчалась с ней, поглаживая её кожу нежным прикосновением."
 
     old "Forever, it seemed, they laid there by the fire together."
     new "Вечность, казалось, они лежали там у огня вместе."
@@ -1319,7 +1319,7 @@ translate ru strings:
     new "Он захватил силой. Мощью."
 
     old "Such is the only right by which any ruler can make claim to anything."
-    new "Такова единственное право, по которому правитель может на что-то претендовать."
+    new "Таково единственное право, по которому правитель может на что-то претендовать."
 
     old "Have you come here to debate philosophies? Because I have not the appetite."
     new "Ты пришёл сюда обсуждать философию? У меня нет на это аппетита."
@@ -1385,7 +1385,7 @@ translate ru strings:
     new "Скажи ему, что я перережу его жирное горло от уха до уха, лично."
 
     old "Tell him that if he flees back to the desert that he crawled out of, I might consider letting him take a coward's refuge."
-    new "Скажи ему, что если он сбежит обратно в пустыню, из которой выполз, я, возможно, позволю ему укрыться в трусости."
+    new "Скажи ему, что если он сбежит обратно в пустыню, из которой выполз, я, возможно, позволю ему трусливо укрыться."
 
     old "But if he faces me in battle, I will spare not a soul."
     new "Но если он встретится со мной в бою, я не пощажу ни души."
@@ -1448,7 +1448,7 @@ translate ru strings:
     new "Сара нагнулась и схватила письмо."
 
     old "Holding it in her balled fist, she stomped through her camp back to her warroom."
-    new "Сжимая его в кулаке, она зашагала через лагерь обратно в свой военный совет."
+    new "Сжимая его в кулаке, она зашагала через лагерь обратно в свой штаб."
 
     old "Sarah was sitting behind her desk, the letter from Kamal rolled up."
     new "Сара сидела за своим столом, письмо от Камала лежало свёрнутым."

@@ -65,7 +65,7 @@ translate ru strings:
     new "Темнота выделялась."
 
     old "For a moment, in the moonlit night of the desert, it had appeared as an oddity, but slowly Sarah felt her eyes drawn to it."
-    new "На мгновение в лунной ночи пустыни это показалось странностью, но постепенно Сара почувствовала, что её взгляд притягивается к нему."
+    new "На мгновение в лунной ночи пустыни это показалось странностью, но постепенно Сара почувствовала, что её взгляд невольно прикован к нему."
 
     old "A darkness that was more like a void, filled with starlight"
     new "Темнота, больше похожая на пустоту, наполненную звёздным светом"
@@ -74,7 +74,7 @@ translate ru strings:
     new "Чёрная, как чернила."
 
     old "The more she looked, the more Sarah felt herself drawn to it, and in turn, the greater it appeared to be and become."
-    new "Чем больше она смотрела, тем сильнее Сара чувствовала, что её тянет к нему, и в свою очередь, тем больше и больше оно становилось."
+    new "Чем больше она смотрела, тем сильнее Сара чувствовала, что её тянет к нему, и тем всё больше оно становилось."
 
     old "Rising."
     new "Поднимаясь."
@@ -110,5 +110,5 @@ translate ru strings:
     new "Она знала, что эта штука была реальна."
 
     old "And Sarah knew, though she could not say how, where the city of Nauyziri rested."
-    new "И Сара знала, хоть и не могла объяснить как, где покоится город Науизири."
+    new "И Сара знала, хоть и не могла объяснить как, где покоится город Науйзири."
 

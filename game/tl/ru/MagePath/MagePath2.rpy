@@ -278,7 +278,7 @@ translate ru strings:
     new "Императрица Аямари была одарённее всех, кто был до неё. Блестящая так, как мир ещё не видел."
 
     old "As gifted as she was in knowledge and wisdom, so gifted was she too in her beauty."
-    new "Столь же одарённая знаниями и мудростью, столь же одарена была она и красотой."
+    new "Она была столь же одарена знаниями и мудростью, сколь и красотой."
 
     old "Everyone longed to serve her, if only to to be in the presence of her grace."
     new "Каждый жаждал служить ей, хотя бы для того, чтобы находиться в присутствии Её Светлости."
@@ -362,7 +362,7 @@ translate ru strings:
     new "Но империя была разрушена. Повсюду военачальники и прочие честолюбцы ухватились за свой шанс, и она раскололась."
 
     old "The portals between the world were seperated, but the fundamental relation has remained the same ever since."
-    new "Врата между мирами были разделены, но фундаментальное отношение осталось неизменным с тех пор."
+    new "Врата между мирами были разделены, но фундаментальная связь осталась неизменной с тех пор."
 
     old "Our world sits balanced atop their world, which runs underneath ours."
     new "Наш мир покоится поверх их мира, который простирается под нашим."
@@ -497,7 +497,7 @@ translate ru strings:
     new "Потому что я пугаю тебя."
 
     old "Sarah swallowed. Honesty would serve her best, she imagined."
-    new "Сара сглотнула. Честность сослужит ей лучшую службу, подумала она."
+    new "Сара сглотнула. Лучше быть честной, подумала она."
 
     old "You do."
     new "Да."
@@ -629,7 +629,7 @@ translate ru strings:
     new "Что это за чувство?"
 
     old "The mist swirled, tightening slightly around her neck, gliding back down to her chest. It softly groped her nipples."
-    new "Туман закружился, слегка сжимаясь вокруг её шеи, скользнул обратно вниз к груди. Он мягко коснулся её сосков."
+    new "Туман закружился, слегка сжимаясь вокруг её шеи, скользнул обратно вниз к груди. Он мягко сжал её соски."
 
     old "Caught by surprise, Sarah let out a soft moan."
     new "Застигнутая врасплох, Сара издала тихий стон."
@@ -701,7 +701,7 @@ translate ru strings:
     new "Скользя вниз между её ног, проникая глубже, она чувствовала, как дух исследует даже те части, которые она не осмеливалась вообразить."
 
     old "She felt him slide into her ass, firmly mounting her from every orifice."
-    new "Она почувствовала, как он скользит в её задний проход, прочно овладевая ею через каждое отверстие."
+    new "Она почувствовала, как он скользит в её зад, прочно овладевая ею через каждое отверстие."
 
     old "Sarah tried to reach out to stop the spirit. Not out of a genuine desire to stop, but one of modesty."
     new "Сара попыталась протянуть руку, чтобы остановить духа. Не из искреннего желания остановиться, а из скромности."
@@ -737,7 +737,7 @@ translate ru strings:
     new "Сара чувствовала, как он терзает её со всех сторон. Он был так глубоко внутри неё, что ей казалось, она разорвётся."
 
     old "One grip was tightly on her ass, pushing deeper into her asshole, letting the spirit ravage her in ways that felt so wrong."
-    new "Одна хватка была крепко на её ягодицах, толкая глубже в анус, позволяя духу терзать её так, что это казалось таким неправильным."
+    new "Одна хватка была крепко на её ягодицах, толкая глубже в зад, позволяя духу терзать её так, что это казалось таким неправильным."
 
     old "The spirit violently penetrated her pussy, so rough that Sarah had never dared to admit. But to the spirit, she didn't need to admit anything, only submit."
     new "Дух яростно проникал в её киску, так грубо, что Сара никогда не осмеливалась признать. Но духу не нужно было ничего признавать, нужно было лишь подчиняться."

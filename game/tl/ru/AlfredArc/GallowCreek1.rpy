@@ -431,7 +431,7 @@ translate ru strings:
     new "С этими словами старик скрылся в той же комнате, откуда вышел, явно вымотанный этим небольшим усилием."
 
     old "Sorry bout my dad."
-    new "Простите моего папашу."
+    new "Прости моего папашу."
 
     old "Oh, no worries. He seems nice."
     new "Ой, да ничего. Он кажется милым."
@@ -1253,7 +1253,7 @@ translate ru strings:
     new "Альфред застонал глубоко и протяжно."
 
     old "Gods your cunt is tight."
-    new "Боги, какая у тебя тугой киска."
+    new "Боги, какая у тебя тугая киска."
 
     old "Sarah felt her face burn from his compliment."
     new "Сара почувствовала, как её лицо вспыхнуло от его комплимента."
@@ -1616,7 +1616,7 @@ translate ru strings:
     new "Что она могла дать своему народу или своей стране? Ничего."
 
     old "What could she offer up in resistance against armies of Tribesmen? Nothing."
-    new "Что она могла предложить в сопротивление против армий Племенных? Ничего."
+    new "Что она могла предложить в сопротивление против армий племенников? Ничего."
 
     old "She had lost everything, she concluded."
     new "Она потеряла всё, заключила она."
@@ -1634,7 +1634,7 @@ translate ru strings:
     new "Она начала перекидывать через верёвку первые несколько рубашек."
 
     old "More and more, pants and socks and all other manners of clothes, and more lines, and more clothes."
-    new "Больше и больше: штаны, носки и всевозможная другая одежда, и ещё верёвки, и ещё одежда."
+    new "Всё больше и больше: штаны, носки и всевозможная другая одежда, и ещё верёвки, и ещё одежда."
 
     old "Until soon, the whole of the yard was filled with clothes, waving softly in the wind. Warmed by the sun."
     new "Вскоре весь двор был заполнен одеждой, мягко колышущейся на ветру. Согреваемой солнцем."
@@ -3410,7 +3410,7 @@ translate ru strings:
     new "Сара стиснула зубы, на этот раз не в знак неповиновения, а от нарастающей острой боли в заду."
 
     old "Alfred leaned in, sliding only an inch deeper."
-    new "Альфред подавился вперёд, скользнув всего на дюйм глубже."
+    new "Альфред подался вперёд, скользнув всего на дюйм глубже."
 
     old "Sarah felt as if her ass might split apart."
     new "Саре казалось, что её зад вот-вот разорвётся."

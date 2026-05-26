@@ -140,7 +140,7 @@ translate ru strings:
     new "Дед бил его, безжалостно."
 
     old "Thomas sudenly looks up, a shocked expression on his face."
-    new "Томас внезапно поднимает взгляд, на его лице шокированное выражение."
+    new "Томас внезапно поднимает взгляд, на его лице изумлённое выражение."
 
     old "I didn't know that."
     new "Я не знал."
@@ -197,7 +197,7 @@ translate ru strings:
     new "Ничто не остаётся неизменным навсегда, но ей хотелось бы, чтобы некоторые вещи оставались прежними."
 
     old "Grow up, little brother."
-    new "Взрослей, братишка."
+    new "Повзрослей, братишка."
 
     old "Thomas storms off, angrily muttering to himself."
     new "Томас уходит, сердито бормоча себе под нос."

@@ -11,34 +11,34 @@ translate ru strings:
     new "Впереди вас ждёт игра, которая ещё в процессе разработки."
 
     old "TSSR takes place in a dark fantasy setting."
-    new "TSSR разворачивается в мрачном мире, полном фэнтези."
+    new "TSSR разворачивается в тёмном фэнтези-мире."
 
     old "The events and stories depicted within, while fictional, may be triggering to some audiences."
     new "Показанные в ней события и истории, хотя и вымышленные, могут содержать откровенные или тревожные сцены."
 
     old "Castle Reinmeer"
-    new "Замок Райнмир"
+    new "Замок Рейнмир"
 
     old "The great castle rests at the heart of the nation of Rosanna."
-    new "Великий замок стоит в самом сердце королевства Росанна."
+    new "Великий замок стоит в самом сердце королевства Розанна."
 
     old "For centuries, it has been the home of the Rose family."
     new "На протяжении веков он был домом рода Роуз."
 
     old "Ruling with both wisdom and strength, the Rose family ensured centuries of prosperity for the nation of Rosanna."
-    new "Управляя с мудростью и силой, род Роуз веками обеспечивал процветание королевства Росанна."
+    new "Управляя с мудростью и силой, род Роуз веками обеспечивал процветание королевства Розанна."
 
     old "But nothing lasts forever and rumors of new dangers have begun to spread."
     new "Но ничто не вечно, и слухи о новых опасностях начали распространяться."
 
     old "An ambitious warlord to the east threatens war."
-    new "Военачальник на востоке жаждет войны."
+    new "Честолюбивый военачальник на востоке угрожает войной."
 
     old "Something has begun to stir the hearts of all creatures wicked."
     new "Что-то начало зарождаться в сердцах всех порочных существ."
 
     old "But perhaps most dangerous of all, enemies are rising from within Rosanna."
-    new "Но, возможно, самое опасное — враги проникают изнутри самой Росанны."
+    new "Но, возможно, самое опасное — враги восстают изнутри самой Розанны."
 
     old "Some wear their threats on their sleeves, whilst others hide their intentions behind smiling faces."
     new "Одни носят угрозу напоказ, а другие прячут замыслы за улыбками."

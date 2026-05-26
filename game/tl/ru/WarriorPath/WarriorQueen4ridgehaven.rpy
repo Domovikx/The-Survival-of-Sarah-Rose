@@ -17,7 +17,7 @@ translate ru strings:
     new "Сара взволнованно наблюдала издалека за возвращением разведчиков."
 
     old "Dressed in dark cloaks, short one man, she worried most for Kate."
-    new "Одетые в тёмные плащи, не хватало одного человека — она больше всего беспокоилась за Кейт."
+    new "Все в тёмных плащах, но одного не хватало — она больше всего беспокоилась за Кейт."
 
     old "Please, let her be safe, Sarah prayed silently."
     new "Пожалуйста, пусть с ней всё будет в порядке, — безмолвно молилась Сара."
@@ -56,7 +56,7 @@ translate ru strings:
     new "У тебя не хватает одного человека. Что-то случилось?"
 
     old "All good. Just had one man ride slow, make sure nobody was following us back to the camp."
-    new "Всё в порядке. Просто один человек ехал медленно, убедиться, что никто не следит за нами до лагеря."
+    new "Всё в порядке. Просто один человек ехал медленно, чтобы убедиться, что никто не следит за нами до лагеря."
 
     old "Sarah sighed a breath of relief again. The fewer deaths the better."
     new "Сара снова вздохнула с облегчением. Чем меньше смертей, тем лучше."
@@ -251,7 +251,7 @@ translate ru strings:
     new "У вас были неприятности из-за этих расспросов?"
 
     old "Not too much. The townsfolk and the Tribesmen seem to live pretty seperate."
-    new "Не слишком. Горожане и Племенники, похоже, живут довольно раздельно."
+    new "Не слишком. Горожане и Племенники, похоже, живут обособленно."
 
     old "The Tribesmen are all up in a small fort in the center of town."
     new "Племенники все сидят в маленьком форте в центре города."
@@ -356,7 +356,7 @@ translate ru strings:
     new "И к тому времени я была голодной, бездомной и достаточно отчаявшейся, чтобы принять эту сделку."
 
     old "Nah, you wanted to know Sarah, so let's have it out."
-    new "Не, ты хотела знать, Сара, так что давай выложим всё начистоту."
+    new "Не-а, ты хотела знать, Сара, так что давай выложим всё начистоту."
 
     old "Up above that tavern, I got to be his little secret, while he walked about all of town like he was made of gold."
     new "Над той таверной я стала его маленьким секретом, пока он разгуливал по всему городу, словно был весь золотой."
@@ -647,7 +647,7 @@ translate ru strings:
     new "По приказу Сары стража увела Кейт."
 
     old "Tied to a pole, the guards delivered five lashes, one for each scout that she had endangered with her actions."
-    new "Привязанную к столбу, стражники нанесли пять ударов плетью — по одному за каждого разведчика, которого она подвергла опасности."
+    new "Привязав её к столбу, стражники нанесли пять ударов плетью — по одному за каждого разведчика, которого она подвергла опасности."
 
     old "Sarah watched as the punishment was delivered."
     new "Сара наблюдала, как приводили наказание в исполнение."
@@ -671,7 +671,7 @@ translate ru strings:
     new "Для Кейт боль была фактом её жизни на протяжении большей её части."
 
     old "Their shared childhood had been a brief intermission to what had otherwise been a life filled with pain."
-    new "Их общее детство было короткой интермедией в жизни, иначе наполненной болью."
+    new "Их общее детство было короткой интермедией в жизни, которая в остальном была наполнена болью."
 
     old "For Kate, this pain was nothing."
     new "Для Кейт эта боль была ничем."

@@ -56,7 +56,7 @@ translate ru strings:
     new "Сара смотрела, как Далия приподняла зад, открывая свою плоть перед требовательным существом."
 
     old "Its wicked grin appeared again."
-    new "На его морде снова появилась злобная ухмылка."
+    new "На его лице снова появилась злобная ухмылка."
 
     old "Sarah watched as the creature's cock began to rise, pressing up against Dalia."
     new "Сара видела, как член существа начал подниматься, прижимаясь к Далии."

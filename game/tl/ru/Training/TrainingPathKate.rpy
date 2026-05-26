@@ -11,7 +11,7 @@ translate ru strings:
     new "Кейт, несмотря ни на что, была её единственной настоящей подругой здесь."
 
     old "Not to mention, so reasoned Sarah, Kate couldn't deny Sarah, she owed her."
-    new "Не говоря уже о том, рассудила Сара, Кейт не могла отказать — она была должна."
+    new "Не говоря уже о том, рассудила Сара, Кейт не могла отказать — она была должна ей."
 
     old "Kate was also a woman, same as Sarah. She concluded that it would probably be best to have a mentor who understood what it was like to train for the exam as a woman."
     new "Кейт была женщиной, как и Сара. Она решила, что лучше иметь наставника, который понимает, каково тренироваться к экзамену, будучи женщиной."
@@ -113,7 +113,7 @@ translate ru strings:
     new "Ладно, если мы собираемся это делать, лучше начать. Тебе ещё есть куда расти."
 
     old "Sarah stood up and faced her friend."
-    new "Сара встала и встретила подругу."
+    new "Сара встала и повернулась к подруге."
 
     old "Really...am I that weak?"
     new "Правда... я настолько слаба?"
@@ -146,7 +146,7 @@ translate ru strings:
     new "Кейт принесла оружие, веса и ещё что-то, чего Сара не узнала."
 
     old "Before Sarah so much as touched anything, Kate went into an hour long lecture, explaining what everything was, how to use it, excercise routines. On and on."
-    new "Прежде чем Сара что-то коснулась, Кейт начала часовую лекцию: объясняла, что это, как использовать, режим упражнений. И так далее."
+    new "Прежде чем Сара чего-то коснулась, Кейт начала часовую лекцию: объясняла, что это, как использовать, режим упражнений. И так далее."
 
     old "Sarah listened intently to Kate."
     new "Сара внимательно слушала."
@@ -170,7 +170,7 @@ translate ru strings:
     new "К концу Сара была вся в поту. К счастью, Кейт видела, что Сара на пределе."
 
     old "You did good Sarah, really, I'm surprised you could go this long for a first time."
-    new "Ты хорошо справилась, Сара, правда, удивлена, что ты продержалась так долго в первый раз."
+    new "Ты хорошо справилась, Сара, правда, я удивлена, что ты продержалась так долго в первый раз."
 
     old "Sarah could feel herself glow at the compliment."
     new "Сара сияла от похвалы."
@@ -206,13 +206,13 @@ translate ru strings:
     new "Ладно. Отвернись."
 
     old "Kate rolled her eyes at Sarah amused."
-    new "Кейт закатила глаза, забавно."
+    new "Кейт закатила глаза, забавляясь."
 
     old "Really? You think there's anything I haven't seen?"
     new "Серьёзно? Думаешь, есть что-то, чего я не видела?"
 
     old "Sarah kept looking at Kate, reinforcing her request."
-    new "Сара продолжала смотреть, подкрепляя просьбу."
+    new "Сара продолжала смотреть на Кейт, подкрепляя просьбу."
 
     old "Finally, Kate gave in with a sigh, and turned around."
     new "Наконец Кейт вздохнула и отвернулась."
@@ -287,7 +287,7 @@ translate ru strings:
     new "Сара почувствовала разряд по телу, инстинктивно схватившись за плечи Кейт."
 
     old "Kate continued to kiss Sarah, whilst simultaneously fingering her."
-    new "Кейт продолжала целовать Сару, одновременно лаская пальцами."
+    new "Кейт продолжала целовать Сару, одновременно лаская её пальцами."
 
     old "As she continued, Kate slowly pushed Sarah back until Sarah found herself with her back against the shoddy wooden wall of the shower booth."
     new "Продолжая, Кейт медленно толкала Сару назад, пока та не оказалась спиной к деревянной стене кабинки."
@@ -302,7 +302,7 @@ translate ru strings:
     new "Сара открыла глаза, язык жадно ловил воздух. Она не хотела, чтобы Кейт останавливалась."
 
     old "Kate was looking into her eyes, as she continued to slowly finger Sarah."
-    new "Кейт смотрела ей в глаза, продолжая медленно ласкать."
+    new "Кейт смотрела ей в глаза, продолжая медленно ласкать её."
 
     old "I really am sorry for everything."
     new "Мне правда жаль за всё."
@@ -341,7 +341,7 @@ translate ru strings:
     new "Прошлое ощущение — ничто по сравнению с тем, что Сара чувствует сейчас."
 
     old "Waves of pleasure roll through her, pulsing out from between her legs and hitting every part of her."
-    new "Волны удовольствия прокатываются по ней, пульсируя от ног и поражая каждую часть."
+    new "Волны удовольствия прокатываются по ней, пульсируя между ног и проходя через каждую часть тела."
 
     old "Kate, knowing Sarah is close, keeps up."
     new "Кейт, зная, что Сара близка, продолжает."
@@ -380,5 +380,5 @@ translate ru strings:
     new "Сара просто берёт руку Кейт и держит."
 
     old "Sitting together under the soft drip of the shower, the two friends speak wordlessly."
-    new "Сидя вместе под мягкий шум душа, две подруги говорят без слов."
+    new "Сидя вместе под мягкое журчание душа, две подруги говорят без слов."
 

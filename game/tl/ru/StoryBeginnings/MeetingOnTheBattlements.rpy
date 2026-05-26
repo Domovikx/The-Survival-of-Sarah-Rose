@@ -32,7 +32,7 @@ translate ru strings:
     new "Её брат скоро станет королём, и она знала, что ему понадобится её помощь. Но что они оба знали об управлении страной?"
 
     old "Already, in the days before the funeral, people had begun to approach her. Servants of all ranks, trying to procure favor with her."
-    new "Уже в дни перед похоронами люди начали подходить к ней. Слуги всех рангов, пытающиеся заслужить расположение."
+    new "Уже в дни перед похоронами люди начали подходить к ней. Слуги всех рангов, пытающиеся заслужить её расположение."
 
     old "She could keep them away, on account of her grief, but she knew that soon, the burdens of rule would truly fall on them."
     new "Она могла отмахнуться от них под предлогом скорби, но знала, что скоро бремя власти действительно ляжет на их плечи."
@@ -62,7 +62,7 @@ translate ru strings:
     new "Всё в порядке, я не против холода. Мне нравится."
 
     old "I understand, but it's colder than you think. Hypothermia can sneak up on you."
-    new "Понимаю, но здесь холоднее, чем вы думаете. Гипотермия подкрадывается незаметно."
+    new "Понимаю, но здесь холоднее, чем вы думаете. Переохлаждение подкрадывается незаметно."
 
     old "The man pushes his cloak into Sarah's hands."
     new "Мужчина вкладывает плащ в руки Сары."
@@ -116,7 +116,7 @@ translate ru strings:
     new "Ну... из северных лесов, если честно. Мою семью можно назвать относительно новым пополнением среди дворянских родов."
 
     old "Sarah suddenly understands. That explains. Newly promoted nobility, equal in title but lacking the years of experience in protocol."
-    new "Сара внезапно понимает. Вот оно что. Недавно получившие титул дворяне — равные по званию, но без многолетнего опыта в протоколе."
+    new "Сара внезапно понимает. Вот оно что. Недавно получившие титул дворяне — равные по званию, но без многолетнего опыта в придворном этикете."
 
     old "I'm sorry if I'm messing this up, it's my first time at such a formal event."
     new "Простите, если я всё порчу, это моё первое мероприятие такого уровня."
@@ -128,7 +128,7 @@ translate ru strings:
     new "Сара мягко кладёт руку на плечо мужчины."
 
     old "Forget all those silly rules. Even I mess them up sometimes, and I've lived with them all my life."
-    new "Забудьте все эти глупые правила. Я сама их иногда нарушаю, хотя живу с ними всю жизнь."
+    new "Забудьте все эти глупые правила. Я сама в них иногда путаюсь, хотя живу с ними всю жизнь."
 
     old "The man softly laughs, seemingly put at ease by Sarah's more informal tone."
     new "Мужчина тихо смеётся, явно успокоенный неформальным тоном Сары."
@@ -143,7 +143,7 @@ translate ru strings:
     new "Сара помнила. Это было всего несколько лет назад, и она помнила, как это сильно тревожило её отца."
 
     old "A group of farmers had burned the bridges leading to one of the northern provinces, out of protest over land rights, preventing Rosanna's standing army from moving there without taking a month long detour."
-    new "Группа фермеров сожгла мосты, ведущие в одну из северных провинций, протестуя против прав на землю, не давая армии Розанны пройти туда без месячного крюка."
+    new "Группа фермеров сожгла мосты, ведущие в одну из северных провинций, протестуя из-за земельных прав, не давая армии Розанны пройти туда без месячного крюка."
 
     old "After burning the bridges, the farmers had begun looting the provincial capital, and even attempted to lay siege to the ancestral home of the Taylee family."
     new "После сожжения мостов фермеры начали грабить столицу провинции и даже попытались осадить родовое поместье семьи Тейли."
@@ -218,7 +218,7 @@ translate ru strings:
     new "Пожалуйста, принцесса, оставьте. Я настаиваю. Потом заберу."
 
     old "Thank you, really. It's been nice to talk to someone for a while and not have it be about...well, you know."
-    new "Спасибо, правда. Было приятно поговорить с кем-то и не слышать о... ну, вы знаете."
+    new "Спасибо, правда. Было приятно поговорить с кем-то, а не обсуждать... ну, вы знаете."
 
     old "Sarah turned and took her leave."
     new "Сара развернулась и ушла."

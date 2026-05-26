@@ -5,7 +5,7 @@
 translate ru strings:
 
     old "A month had passed since Thomas had been kidnapped by Marion and the old houses had declared their revolt."
-    new "Прошёл месяц с тех пор, как Томас был похищен Марионом, а старые дома объявили о своём мятеже."
+    new "Прошёл месяц с тех пор, как Марион похитил Томаса, а старые дома объявили о своём мятеже."
 
     old "An entire month where she had no idea how he was doing."
     new "Целый месяц, в течение которого она понятия не имела, как он там."
@@ -68,7 +68,7 @@ translate ru strings:
     new "Сара много раз говорила со своим советом, пытаясь понять их стратегию."
 
     old "Was it cowardice that they did not dare to strike deep, or was there some plan they did not yet understand? Not knowing made Sarah feel uneasy."
-    new "Была ли это трусость, что они не осмеливались ударить вглубь, или был какой-то план, которого они ещё не поняли? Неведение заставляло Сару чувствовать беспокойство."
+    new "Была ли это трусость, что они не осмеливались ударить вглубь, или был какой-то план, которого они ещё не поняли? Неведение тревожило Сару."
 
     old "What's this town called?"
     new "Как называется этот город?"
@@ -311,10 +311,10 @@ translate ru strings:
     new "Почему ты это сделала?"
 
     old "Because you come in here all high and mighty with your army of goons, harassing everyone in town."
-    new "Потому что вы являетесь сюда важные и гордые со своей армией головорезов, донимая всех в городе."
+    new "Потому что вы заявляетесь сюда важные и гордые со своей армией головорезов, донимая всех в городе."
 
     old "We didn't do anything! We didn't rebel, we're just farming, minding our own business, it's you and yours who come up here and stir shit up!"
-    new "Мы ничего не сделали! Мы не бунтовали, мы просто занимались фермерством, занимались своим делом, это вы и ваши приходите сюда и мутите воду!"
+    new "Мы ничего не сделали! Мы не бунтовали, мы просто занимались земледелием, своим делом, это вы и ваши приходите сюда и устраиваете смуту!"
 
     old "My brother got drafted to fight in your stupid pointless war!"
     new "Моего брата забрали в армию воевать в вашей дурацкой бессмысленной войне!"

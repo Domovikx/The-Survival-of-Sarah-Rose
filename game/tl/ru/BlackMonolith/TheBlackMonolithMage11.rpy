@@ -137,7 +137,7 @@ translate ru strings:
     new "Ах, чуть не забыл!"
 
     old "Honestly, it's like my husband always says, if my head wasn't attached to me I'd lose it."
-    new "Честно говоря, как всегда говорит мой муж, если бы голова не была прикреплена, я бы её потерял."
+    new "Честно говоря, как всегда говорит мой муж, если бы голова не держалась, я бы её потерял."
 
     old "Sarah frowned. Husband?"
     new "Сара нахмурилась. Муж?"
@@ -230,7 +230,7 @@ translate ru strings:
     new "Она держала его в руке, перекладывая из одной в другую, словно надеясь угадать содержимое по весу."
 
     old "A letter of Xan, from Metis. Explaining what he had come here to tell him in the first place..."
-    new "Письмо для Ксана от Метиса. Объясняющее то, ради чего он, собственно, и пришёл..."
+    new "Письмо для Ксана от Метиса. Объясняет, ради чего он, собственно, и пришёл..."
 
     old "She had to open it. To know...to understand..."
     new "Она должна открыть его. Узнать... понять..."
@@ -245,7 +245,7 @@ translate ru strings:
     new "Она бросила письмо обратно на стол."
 
     old "Whatever it was, it could wait. At least until she was sure Metis was on his ship and heading out the city."
-    new "Чем бы оно ни было, оно может подождать. По крайней мере, пока она не убедится, что Метис на своём корабле и покидает город."
+    new "Чем бы оно ни было, оно может подождать. По крайней мере, пока она не убедится, что Метис на своём корабле и покинул город."
 
     old "She had only just thrown the letter back when she heard a noise."
     new "Она только успела бросить письмо обратно, как услышала шум."
@@ -392,7 +392,7 @@ translate ru strings:
     new "Видишь! У меня правда получается!"
 
     old "I'm a mage, like you!"
-    new "Я маг, как и ты!"
+    new "Я магиня, как и ты!"
 
     old "Sarah saw the girl's face twist into embarrassment."
     new "Сара увидела, как лицо девушки исказилось от смущения."

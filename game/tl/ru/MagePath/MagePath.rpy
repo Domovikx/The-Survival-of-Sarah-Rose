@@ -77,7 +77,7 @@ translate ru strings:
     new "Ты... ты... к чёрту..."
 
     old "Sarah feels the man's entire pressure dissapear and hears metal clattering as his dagger falls to the ground."
-    new "Сара чувствует, как давление мужчины исчезает, и слышит металлический лязг — его кинжал падает на землю."
+    new "Сара чувствует, как хватка мужчины исчезает, и слышит металлический лязг — его кинжал падает на землю."
 
     old "Before she manages to turn around, the brigand is already far away. She can only hear the echoes of his footsteps."
     new "Прежде чем она успевает обернуться, бандит уже далеко. Она слышит лишь эхо его шагов."
@@ -113,7 +113,7 @@ translate ru strings:
     new "Она впервые поднимает на него взгляд."
 
     old "He's tall. Older than her, but only forty or so, she estimates."
-    new "Он высокий. Старше неё, но примерно лет сорок, как ей кажется."
+    new "Он высокий. Старше неё, но не больше сорока, как ей кажется."
 
     old "Balanced on the edge of his nose is a pair of glasses."
     new "На кончике его носа сидят очки."
@@ -251,7 +251,7 @@ translate ru strings:
     new "Я встречал всяких людей, в самых разных бедах, но ты..."
 
     old "You're dressed like royalty, but you're sleeping out in the streets? That's a new one for me."
-    new "Ты одета как королевская особа, но спишь на улице? Это для меня новинка."
+    new "Ты одета как королевская особа, но спишь на улице? Это для меня в новинку."
 
     old "Sarah sat down in the other chair opposite of him."
     new "Сара села в другое кресло напротив него."
@@ -263,7 +263,7 @@ translate ru strings:
     new "Кто-то, кто узнал бы, кто она."
 
     old "I'll tell you. Everything."
-    new "Я расскажу тебе. Всё."
+    new "Я расскажу вам. Всё."
 
     old "Deep into the night, Sarah told her story, everything from having lived in Rosanna to what had brought her to Lethram and caused her to end up on his doorstep."
     new "Глубокой ночью Сара рассказывала свою историю, всё — от жизни в Розанне до того, что привело её в Летрэм и заставило оказаться на его пороге."
@@ -299,7 +299,7 @@ translate ru strings:
     new "Сара отвернулась, уставившись в пол."
 
     old "Why was this man being so kind to her? In a city where everyone seemed to be after something, could he really just be offering this out of kindness?"
-    new "Почему этот мужчина был так добр к ней? В городе, где все, казалось, чего-то добивались, мог ли он действительно предлагать это просто из доброты?"
+    new "Почему этот мужчина был так добр к ней? В городе, где все, казалось, что-то ищут, мог ли он действительно предлагать это просто из доброты?"
 
     old "Was she lucky, or being tricked?"
     new "Везло ли ей, или её обманывали?"

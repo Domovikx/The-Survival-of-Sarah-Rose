@@ -128,7 +128,7 @@ translate ru strings:
     new "Да, да. Бывает, все эти узкие улочки и переулки. Я пойду, извините, если доставил вам хлопот."
 
     old "Ooh, I think you caused me more than a bit of that."
-    new "Оу, думаю, ты доставил мне хлопот больше, чем немного."
+    new "О, думаю, ты доставил мне хлопот больше, чем немного."
 
     old "She saw confusion on the man's face."
     new "Она увидела замешательство на лице мужчины."
@@ -413,7 +413,7 @@ translate ru strings:
     new "Разве не я сделала всю работу? Так не должны ли мне достаться все бутылки?"
 
     old "Hey now, girly, you brought the heat sure, but I brought the plan, so gotta kick a share up to me, ya know?"
-    new "Эй, девонька, ты принесла жар, это точно, но план был мой, так что мне причитается доля, понимаешь?"
+    new "Эй, девонька, ты навела жару, это точно, но план был мой, так что мне причитается доля, понимаешь?"
 
     old "Sarah laughed at how silly the evening had turned out to be."
     new "Сара смеялась над тем, каким нелепым оказался этот вечер."
@@ -1109,7 +1109,7 @@ translate ru strings:
     new "Но думаю, ты случайно сказал кое-что правдивое."
 
     old "Ooh? And what was that."
-    new "Оу? И что же?"
+    new "О? И что же?"
 
     old "That you were always going to be like this."
     new "Что ты всегда собирался быть таким."
@@ -1118,7 +1118,7 @@ translate ru strings:
     new "Ты никогда не собирался быть кем-то иным, кроме хищника. Это в твоей природе."
 
     old "She saw panic begin to appear in his face."
-    new "Она увидела, как на его лице начало появляться замешательство."
+    new "Она увидела, как на его лице начала проступать паника."
 
     old "Hang on there now, that's not what I-"
     new "Погоди-ка, это не то, что я—"

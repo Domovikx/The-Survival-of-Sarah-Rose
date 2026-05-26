@@ -11,7 +11,7 @@ translate ru strings:
     new "Со страхом в сердце она заняла позицию на городской стене, вглядываясь в поля вдали."
 
     old "She could imagine it almost peaceful."
-    new "Она могла представить это почти мирным."
+    new "Ей это казалось почти мирным."
 
     old "But she had seen how quickly things could change."
     new "Но она видела, как быстро всё может измениться."
@@ -26,7 +26,7 @@ translate ru strings:
     new "И тут, когда ей показалось, что она убедила себя в своей храбрости, она увидела, как небо над ней искажается и скручивается."
 
     old "Sarah saw a great rift tear through the heavens."
-    new "Сара увидела, как огромный разрыв пронёсся по небесам."
+    new "Сара увидела, как огромный разрыв разорвал небеса."
 
     old "And as reality itself tore apart, she saw the countless white masks of the beasts emerge."
     new "И когда сама реальность разорвалась, она увидела, как появляются бесчисленные белые маски чудовищ."

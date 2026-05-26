@@ -35,7 +35,7 @@ translate ru strings:
     new "Именно в Мэри Сара смогла найти хоть какое-то подобие нормальной жизни."
 
     old "The old soldier did not care for her much beyond her body, and as soon as he was spend, he would often leave."
-    new "Старый солдат не заботился о ней сверх её тела, и как только он кончал, то часто уходил."
+    new "Старый солдат ценил в ней только тело, и как только он кончал, то часто уходил."
 
     old "Speaking to him was pointless, since neither spoke the other's language."
     new "Говорить с ним было бессмысленно, поскольку ни один не говорил на языке другого."
@@ -65,7 +65,7 @@ translate ru strings:
     new "Но со временем, думаю, человек может привыкнуть почти к чему угодно."
 
     old "Also, it's not always this...intense."
-    new "К тому же, не всегда всё так... интенсивно."
+    new "К тому же, не всегда всё так... напряжённо."
 
     old "Sarah was walking through the kitchen, helping Mary with the work."
     new "Сара ходила по кухне, помогая Мэри с работой."
@@ -95,7 +95,7 @@ translate ru strings:
     new "Часть её всё ещё хотела прикидываться скромницей, но по правде, это место было пустым."
 
     old "With little more to do than housework most days, part of her had come to appreciate his distraction."
-    new "Когда большую часть дней нечем было заняться, кроме домашней работы, часть её начала ценить его отвлечение."
+    new "Когда большую часть дней нечем было заняться, кроме домашней работы, часть её начала ценить, что он её отвлекает."
 
     old "Mary laughed."
     new "Мэри рассмеялась."
@@ -206,7 +206,7 @@ translate ru strings:
     new "Ответ ошеломил Сару. Внезапно то, чего она так боялась, становилось реальностью."
 
     old "How could she have been so stupid, she thought to herself. She had wasted precious days here, keeping her head down, only for the day of the ritual to draw closer."
-    new "Как она могла быть такой глупой, думала она про себя. Она потратила драгоценные дни, стараясь не высовываться, только чтобы день ритуала приблизился."
+    new "Как она могла быть такой глупой, думала она про себя. Она потратила драгоценные дни, стараясь не высовываться, а день ритуала тем временем неумолимо приближался."
 
     old "Could she run?"
     new "Могла ли она бежать?"
@@ -248,7 +248,7 @@ translate ru strings:
     new "Вместе две женщины начали обслуживать своего хозяина."
 
     old "They made a decent team in the kitchen and a decent team at this as well."
-    new "Они были хорошей командой на кухне и не менее хорошей командой в этом."
+    new "Они были хорошей командой на кухне и не менее хорошей командой в этом деле."
 
     old "Passing his cock from one mouth to the other, each stepped in where the other left off."
     new "Передавая его член из одного рта в другой, каждая подхватывала там, где останавливалась другая."
@@ -260,7 +260,7 @@ translate ru strings:
     new "Пока Мэри по очереди работала с головкой, Сара делала так, как показала ей Мэри, обрабатывая его ствол."
 
     old "As Sarah felt her tongue touch against his mound, reaching near to his testicles, she considered hestitating for a moment."
-    new "Когда Сара почувствовала, как её язык коснулся его лобка, приближаясь к яичкам, она на мгновение задумалась, не колебаться ли."
+    new "Когда Сара почувствовала, как её язык коснулся его лобка, приближаясь к яичкам, она на мгновение задумалась, не поколебаться ли."
 
     old "But it didn't matter, she thought."
     new "Но это не имело значения, подумала она."
@@ -296,7 +296,7 @@ translate ru strings:
     new "Она подняла на него взгляд, но он уже начал убирать свой орган и переключился на что-то другое."
 
     old "Sarah had served her purpose and now he was done with her. Until he wouldn't be."
-    new "Сара выполнила своё предназначение, и теперь он был с ней закончил. До следующего раза."
+    new "Сара выполнила своё предназначение, и теперь он закончил с ней. До следующего раза."
 
     old "Sarah and Mary stood up with Mary putting her clothes back on. Together they went back into the kitchen."
     new "Сара и Мэри встали, Мэри оделась. Вместе они вернулись на кухню."
@@ -311,10 +311,10 @@ translate ru strings:
     new "Ей нужно было бежать — каждая частица её твердила это, — и всё же шансы казались невозможными."
 
     old "And against those odds stood what Mary had told her, how her life could also be very simple if she simply gave in."
-    new "И напротив этих шансов стояли слова Мэри о том, как её жизнь могла бы быть очень простой, если бы она просто сдалась."
+    new "И напротив этих шансов стояли слова Мэри о том, что её жизнь могла бы быть очень простой, если бы она просто сдалась."
 
     old "She wouldn't have to risk escaping, no planning, no risk of failure and punishment, only submission. Accept that this was her life now."
-    new "Ей не пришлось бы рисковать побегом, никакого планирования, никакого риска провала и наказания — только подчинение. Принять, что это её жизнь теперь."
+    new "Ей не пришлось бы рисковать побегом, никаких планов, никакого риска провала и наказания — только подчинение. Принять, что это её жизнь теперь."
 
     old "There was food. A roof. Security. And for as old as her master was, he did not leave her entirely unsatisfied."
     new "Была еда. Крыша. Безопасность. И каким бы старым ни был её хозяин, он не оставлял её полностью неудовлетворённой."

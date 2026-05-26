@@ -347,7 +347,7 @@ translate ru strings:
     new "Ты никогда особо хорошо на меня не влияла."
 
     old "Kate had a shocked expression on her face."
-    new "У Кейт на лице было шокированное выражение."
+    new "Лицо Кейт выражало неподдельный шок."
 
     old "How can you say that? I was such a good friend to you growing up!"
     new "Как ты можешь такое говорить? Я была тебе такой хорошей подругой в детстве!"
@@ -641,7 +641,7 @@ translate ru strings:
     new "Сара кивнула: она давно пришла к тому же."
 
     old "How much longer do you think it will be till we get to Nauyziri?"
-    new "Как думаешь, сколько ещё нам до Науизири?"
+    new "Как думаешь, сколько ещё нам до Науйзири?"
 
     old "Gideon sighed, throwing the cup of beer back and refilling it."
     new "Гидеон вздохнул, опрокинул кружку и снова наполнил её."
@@ -911,7 +911,7 @@ translate ru strings:
     new "Не много тут славы."
 
     old "I once blew an old sailor."
-    new "Однажды я отсосал у старого моряка."
+    new "Однажды я отсосала у старого моряка."
 
     old "Gideon scratched his chin."
     new "Гидеон почесал подбородок."

@@ -281,7 +281,7 @@ translate ru strings:
     new "Томас, словно пьяный, обхватил руками и Мариона, и Варгу, притягивая их к себе."
 
     old "Marion, Varga, you call me Thomas from now on. Enough with this king shit. We fought side by side, that makes you my equal in my book."
-    new "Марион, Варга, называйте меня Томасом с этого момента. Хватит этого королевского дерьма. Мы сражались плечом к плечу, это делает вас моими равными."
+    new "Марион, Варга, называйте меня Томасом с этого момента. Хватит этого королевского дерьма. Мы сражались плечом к плечу, теперь вы мне ровня."
 
     old "Varga laughed."
     new "Варга рассмеялся."
@@ -329,7 +329,7 @@ translate ru strings:
     new "Хорошо, что я застала тебя, пока ты ещё можешь говорить и стоять прямо."
 
     old "I can hold my drink, trust me on that, Princess."
-    new "Я умею держать удар, поверь мне, принцесса."
+    new "Я умею пить, поверь мне, принцесса."
 
     old "He extended the flagon to Sarah."
     new "Он протянул кружку Саре."
@@ -584,7 +584,7 @@ translate ru strings:
     new "Варга подполз по кровати, оказавшись между ног Сары, глядя на неё сверху вниз."
 
     old "Sarah reached out with her hands, stroking his chest again. God did she love how hard every party of his body felt."
-    new "Сара протянула руки, снова погладив его грудь. Боги, как же ей нравилось, каким твёрдым было каждое его тело."
+    new "Сара протянула руки, снова погладив его грудь. Боги, как же ей нравилось, каким твёрдым было каждое его прикосновение."
 
     old "She felt Varga slide one hand past her legs, his fingers digging into her hips. With his other hand, he grabbed one of her knees, forcing her legs apart."
     new "Она почувствовала, как Варга скользнул рукой между её ног, пальцы впились в бёдра. Другой рукой он схватил её за колено, раздвигая ноги."
@@ -656,7 +656,7 @@ translate ru strings:
     new "Затем удовольствие, перейдя некий неизвестный порог, взорвалось."
 
     old "Sarah could feel her muscles clench as the orgasm, erupting from between her legs, rolled over her entire body like a wave, passing up to her head and back down into every limb."
-    new "Сара чувствовала, как её мышцы сжимаются, когда оргазм, извергаясь из промежности, прокатился по всему её телу волной, поднимаясь к голове и опускаясь в каждую конечность."
+    new "Сара чувствовала, как её мышцы сжимаются, когда оргазм, извергаясь из-между ног, прокатился по всему её телу волной, поднимаясь к голове и опускаясь в каждую конечность."
 
     old "It was too much to keep in."
     new "Это было слишком, чтобы сдерживать."
@@ -791,7 +791,7 @@ translate ru strings:
     new "Ненавижу тебя за это, но ты прав."
 
     old "Proper, polite, noble, Varga."
-    new "Правильный, вежливый, благородный Варга."
+    new "Чопорный, вежливый, благородный Варга."
 
     old "I'm sorry, Sarah, but you'll be happy we didn't make any mistake in the morning."
     new "Прости, Сара, но утром ты будешь рада, что мы не совершили ошибку."

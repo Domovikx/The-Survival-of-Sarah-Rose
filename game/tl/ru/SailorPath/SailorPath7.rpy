@@ -413,7 +413,7 @@ translate ru strings:
     new "Сара снова встала на ноги."
 
     old "Even had to go and involve that little slut in your plan."
-    new "Даже пришлось втянуть в свой план эту маленькую шлюху."
+    new "Даже пришлось втянуть в твой план эту маленькую шлюху."
 
     old "Belmont spat on the ground near Sarah."
     new "Бельмонт плюнул на пол рядом с Сарой."
@@ -719,7 +719,7 @@ translate ru strings:
     new "Боги, — молча молилась Сара, — скажите мне, что Ник умеет плавать."
 
     old "Fortunately, she saw by his strokes that he could."
-    new "К счастью, по его гребкам она увидела, что умеет."
+    new "К счастью, по его гребкам она увидела, что он умеет плавать."
 
     old "Under water, each looked at the other, and slowly, they began to move their bound arm in unison, allowing them to swim."
     new "Под водой они посмотрели друг на друга и медленно начали двигать связанной рукой в унисон, что позволило им плыть."
@@ -992,7 +992,7 @@ translate ru strings:
     new "Но это была она или он, и Сара знала, что в этом мире она выберет себя."
 
     old "Captain, may I tell you something?"
-    new "Капитан, можно вам кое-что сказать?"
+    new "Капитан, можно тебе кое-что сказать?"
 
     old "What is it, blondie?"
     new "Что такое, блондиночка?"
@@ -1004,7 +1004,7 @@ translate ru strings:
     new "Выкладывай."
 
     old "Nick is planning to steal from you."
-    new "Ник планирует украсть у вас."
+    new "Ник планирует украсть у тебя."
 
     old "She saw him turn his face towards her, his eyes investigating her."
     new "Она увидела, как он повернул к ней лицо, его глаза изучали её."

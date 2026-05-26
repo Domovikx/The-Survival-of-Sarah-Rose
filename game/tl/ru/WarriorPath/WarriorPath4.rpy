@@ -68,7 +68,7 @@ translate ru strings:
     new "Неважно. Если ты пришла запихнуть мне в задницу очередной комплимент, знай — я сыта по горло."
 
     old "She saw Kate grin in that mischievous way of hers."
-    new "Она увидела, как Кейт ухмыльнулась своей озорной ухмылкой."
+    new "Она увидела, как Кейт озорно ухмыльнулась."
 
     old "Ooh, your ass is stuffed huh?"
     new "Оу, у тебя задница набита, да?"
@@ -260,7 +260,7 @@ translate ru strings:
     new "Она закрыла глаза и мечтала о Розанне."
 
     old "Her nation, far across the sea."
-    new "Её родина, далёкая за морем."
+    new "Её родина, далёкая, за морем."
 
     old "Home."
     new "Дом."
@@ -659,7 +659,7 @@ translate ru strings:
     new "Девушка выдавливает слова сквозь слёзы."
 
     old "Sarah looks down. The girl's arms are like twigs compared to her own, but she can't bring herself to pull the girl off herself."
-    new "Сара смотрит вниз. Руки девушки — как веточки по сравнению с её собственными, но она не может заставить себя оторвать её от себя."
+    new "Сара смотрит вниз. Руки девушки — как веточки по сравнению с её собственными, но она не может заставить себя отстранить её."
 
     old "No, it's not! Thank you! You...you saved my life!"
     new "Нет, это не так! Спасибо! Ты... ты спасла мне жизнь!"
@@ -1706,7 +1706,7 @@ translate ru strings:
     new "Его широкие плечи."
 
     old "In her mind she traced his body further. Past his arms, covered in muscles, down to his metalic abdomen, and his storied scars."
-    new "В мыслях она изучала его тело дальше. Мимо мускулистых рук, вниз по металлическому прессу и шрамам, каждый со своей историей."
+    new "В мыслях она изучала его тело дальше. Мимо мускулистых рук, вниз по каменному прессу и шрамам, каждый со своей историей."
 
     old "As she reached further past his body, she remembered his cock, larger than any other, thick and hard."
     new "Опускаясь ещё ниже, она вспомнила его член — больше любого другого, толстый и твёрдый."
@@ -1742,7 +1742,7 @@ translate ru strings:
     new "И она знала по памяти, как бы он взял её."
 
     old "Strong and hard, with an undercurrent of gentleness that only few could ever suspect in him."
-    new "Сильно и жёстко, с подводным течением нежности, которую немногие могли в нём заподозрить."
+    new "Сильно и жёстко, со скрытой нежностью, которую немногие могли в нём заподозрить."
 
     old "He would take her the way only a man of his caliber could. Or perhaps, Sarah concluded, it was because he was no man."
     new "Он взял бы её так, как мог только мужчина его калибра. Или, возможно, заключила Сара, потому что он был не человеком."
@@ -2189,7 +2189,7 @@ translate ru strings:
     new "Она полетела и приземлилась спиной на кровать."
 
     old "The bed, made from a high quality, caused her to bounce for a bit."
-    new "Кровать из высококачественного материала заставила её немного подпрыгнуть."
+    new "Кровать была отличного качества, и Сара слегка подпрыгнула."
 
     old "Now comfortably in the bed, Sarah looked up at him."
     new "Теперь, удобно устроившись на кровати, Сара посмотрела на него."

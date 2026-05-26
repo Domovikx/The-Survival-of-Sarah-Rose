@@ -11,13 +11,13 @@ translate ru strings:
     new "Снаружи она всё ещё слышала приглушённые крики толпы."
 
     old "After her victory over Vaelen, the soldiers of the mercenary company had broken out into celebration."
-    new "После её победы над Ваэленом солдаты наёмного отряда пустились в празднование."
+    new "После её победы над Ваэленом солдаты наёмного отряда пустились праздновать."
 
     old "On Lady Carolyn's orders, the supplies of the Mythran army were opened and soon both armies were feasting."
-    new "По приказу леди Кэролин открыли припасы митанской армии, и вскоре обе армии пировали."
+    new "По приказу леди Кэролин открыли припасы митранской армии, и вскоре обе армии пировали."
 
     old "Around campfires, new bonds were struck between Mythran and sellsword."
-    new "У костров завязывались новые узы между митанцами и наёмниками."
+    new "У костров завязывались новые узы между митранцами и наёмниками."
 
     old "Officially, the order had been given for morale, but Sarah was wise enough to the politics of it."
     new "Официально приказ был отдан для поднятия боевого духа, но Сара достаточно разбиралась в политике."
@@ -29,7 +29,7 @@ translate ru strings:
     new "К концу ночи все будут знать её имя и в мыслях связывать его с этой ночью."
 
     old "Why a Mythran commander had a soft heart for a mercenary girl was a question that many wondered but few could answer."
-    new "Почему у митанского командира было мягкое сердце к девушке-наёмнице — вопрос, которым многие задавались, но мало кто мог ответить."
+    new "Почему у митранского командира было мягкое сердце к девушке-наёмнице — вопрос, которым многие задавались, но мало кто мог ответить."
 
     old "Absent an answer, most kept their thoughts to themselves."
     new "Не имея ответа, большинство держало мысли при себе."
@@ -65,10 +65,10 @@ translate ru strings:
     new "Если бы не его спокойный и серьёзный характер, его можно было бы принять за безумца, бредящего на улицах. К концу, возможно, он таким и был."
 
     old "I didn't enjoy it..."
-    new "Мне это не нравилось..."
+    new "Мне это не принесло радости..."
 
     old "What's that dear?"
-    new "Что это, дорогая?"
+    new "Что такое, дорогая?"
 
     old "I didn't enjoy winning out over Vaelen. His death."
     new "Мне не нравилось одерживать верх над Ваэленом. Его смерть."
@@ -134,7 +134,7 @@ translate ru strings:
     new "Леди Кэролин внезапно рассмеялась."
 
     old "Ooh, Gods no, Sarah. Your father and I went back a long way. But we never saw one another like that."
-    new "О, боги нет, Сара. Мы с твоим отцом были знакомы очень давно. Но никогда не смотрели друг на друга так."
+    new "О, боги, нет, Сара. Мы с твоим отцом были знакомы очень давно. Но никогда не смотрели друг на друга так."
 
     old "Your father he...had something tragic about him. After the death of your mother, I don't think he ever took another woman, not even in passing."
     new "Твой отец... в нём было что-то трагическое. После смерти твоей матери, не думаю, что у него была хоть одна женщина, даже мимолётно."
@@ -260,7 +260,7 @@ translate ru strings:
     new "Сара держала документы в руках."
 
     old "A life, captured in a paper. With this, the Mythran empire would enforce it, even if Cassius and Dio fled to the ends of the world."
-    new "Жизнь, заключённая в бумаге. С этим Митанская империя обеспечит его исполнение, даже если Кассий и Дио сбегут на край света."
+    new "Жизнь, заключённая в бумаге. С этим Митранская империя обеспечит его исполнение, даже если Кассий и Дио сбегут на край света."
 
     old "Sarah shuddered at the idea of it."
     new "Сару передёрнуло от этой мысли."
@@ -569,7 +569,7 @@ translate ru strings:
     new "Она услышала, как Кейт вздохнула."
 
     old "Fuck, I want a drink..."
-    new "Блин, я хочу выпить..."
+    new "Чёрт, я хочу выпить..."
 
     old "Kate, you know how..."
     new "Кейт, ты знаешь, как..."
@@ -587,7 +587,7 @@ translate ru strings:
     new "Сара обняла Кейт за плечи."
 
     old "Isn't that part of my job?"
-    new "Разве не входит в мои обязанности?"
+    new "Разве не для этого я здесь?"
 
     old "She heard Kate laugh."
     new "Она услышала смех Кейт."
@@ -866,7 +866,7 @@ translate ru strings:
     new "Один Рахаяль — опасное место, но если я стремлюсь отвоевать Розанну, врагов будет предостаточно."
 
     old "The tribesmen. Mythrans. Noblemen with ambitions."
-    new "Племена. Митанцы. Честолюбивые дворяне."
+    new "Племена. Митранцы. Честолюбивые дворяне."
 
     old "Your sister and yourself...you are capable soldiers. And unlike most, you have no loyalties to anyone else."
     new "Твоя сестра и ты... вы способные солдаты. И, в отличие от большинства, у вас нет привязанностей к кому-либо ещё."
@@ -1043,7 +1043,7 @@ translate ru strings:
     new "Всегда повторяя каждый её шаг с малейшей задержкой."
 
     old "Like this, the movements of her body seemed to flow like water."
-    new "Так движения её тела словно текли, как вода."
+    new "Так движения её тела текли, словно вода."
 
     old "She twisted and spun as each step followed the next in quicker succession, pacing and speeding around the campfire."
     new "Она извивалась и кружилась, шаг за шагом следуя во всё более быстрой последовательности, расхаживая и ускоряясь вокруг костра."

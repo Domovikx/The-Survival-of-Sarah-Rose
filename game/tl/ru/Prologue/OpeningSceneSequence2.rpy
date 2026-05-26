@@ -50,7 +50,7 @@ translate ru strings:
     new "Никто никогда не приходил в наш замок просить совета о редких видах птиц из восточной пустыни!"
 
     old "Sarah puts her hands on her father's shoulder."
-    new "Сара кладёт руки на плечо отцу."
+    new "Сара кладёт руку на плечо отцу."
 
     old "Dad, please, calm down. Thomas knows this, but you also need to accept that he isn't you."
     new "Папа, пожалуйста, успокойся. Томас это понимает, но тебе тоже нужно принять, что он — не ты."
@@ -86,7 +86,7 @@ translate ru strings:
     new "Папа, я вижу, что тебя что-то тревожит. Пожалуйста, скажи сейчас. Тебе будет легче спать, если ты выговоришься."
 
     old "Perceptive as always, daughter."
-    new "Вечно проницательная, как всегда."
+    new "Проницательная, как всегда, дочь моя."
 
     old "King Orwell takes a moment to think about his answer."
     new "Король Орвелл задумывается, прежде чем ответить."
@@ -140,7 +140,7 @@ translate ru strings:
     new "Мне нужно немного побыть наедине со своими мыслями."
 
     old "Sarah embraces her father, hugging him more tightly than she herself had even expected, holding him."
-    new "Сара обнимает отца, прижимаясь к нему крепче, чем она сама ожидала."
+    new "Сара обнимает отца, прижимаясь к нему крепче, чем она сама ожидала, и не отпускает его."
 
     old "We see how hard you work for us, for everyone, Father. Just remember to also think about yourself sometimes."
     new "Мы видим, как много ты делаешь для нас, для всех, отец. Только иногда не забывай и о себе."

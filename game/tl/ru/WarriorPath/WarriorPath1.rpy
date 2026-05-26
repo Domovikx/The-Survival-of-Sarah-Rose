@@ -44,7 +44,7 @@ translate ru strings:
     new "Стройся!"
 
     old "Sarah declared as she stepped down from the final flights of the stairs that led down from the great walls into the streets of Bagrad."
-    new "Объявила Сара, спускаясь с последних лестничных пролётов, что вели с великих стен на улицы Баграда."
+    new "Объявила Сара, спускаясь с последних лестничных пролётов, что вели вниз с великих стен на улицы Баграда."
 
     old "A small cadre of soldiers followed in her footsteps."
     new "Небольшая группа солдат последовала за ней."
@@ -110,10 +110,10 @@ translate ru strings:
     new "В атаку!"
 
     old "Her command sent her own unit of soldiers rushing forward."
-    new "Её команда отправила её собственный отряд солдат вперёд."
+    new "По её команде её собственный отряд ринулся вперёд."
 
     old "Outnumbering them by a solid margin and already hyped by the start of battle, Sarah knew instantly that this was no real fight."
-    new "Значительно превосходя их числом и уже разгорячённые началом битвы, Сара мгновенно поняла, что это не настоящий бой."
+    new "Значительно превосходя их числом и уже разгорячённая началом битвы, Сара мгновенно поняла, что это не настоящий бой."
 
     old "Some of them scurried, but most of them simply stood in stunned silence."
     new "Некоторые бросились врассыпную, но большинство просто стояло в ошеломлённом молчании."
@@ -329,7 +329,7 @@ translate ru strings:
     new "Горящая плоть."
 
     old "Taking the lead, Sarah turned the corner and saw the source of the screams."
-    new "Взяв инициативу, Сара завернула за угол и увидела источник криков."
+    new "Возглавив их, Сара завернула за угол и увидела источник криков."
 
     old "A small ways off in the distance, nearer to the entrance of the western wing, Sarah could see her own soldiers, cowering behind pillars."
     new "Неподалёку, ближе ко входу в западное крыло, Сара увидела своих же солдат, прячущихся за колоннами."
@@ -566,7 +566,7 @@ translate ru strings:
     new "Сара бросилась вперёд."
 
     old "Raising up the bow, she drew back the string, aiming down the sight of the arrow up towards the mage."
-    new "Подняв лук, она натянула тетиву, целясь стрелой в мага."
+    new "Подняв лук, она натянула тетиву, целясь из лука в мага."
 
     old "An explosion roared next to her."
     new "Рядом с ней прогремел взрыв."

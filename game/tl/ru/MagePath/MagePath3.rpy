@@ -14,13 +14,13 @@ translate ru strings:
     new "Отличные новости, Сара, отличные новости!"
 
     old "Sarah wildly grabbed for the sheets, pulling them up to her chest."
-    new "Сара в панике схватилась за простыню, притянув её к груди."
+    new "Сара в панике схватилась за простыню, натянув её до груди."
 
     old "Xan!"
     new "Ксан!"
 
     old "I'm...I'm not decent!"
-    new "Я... я не прилично одета!"
+    new "Я... я неприлично одета!"
 
     old "She saw Xan turn red as he franctically spun himself around, facing away from the bed."
     new "Она увидела, как Ксан покраснел и в панике развернулся, отвернувшись от кровати."
@@ -263,7 +263,7 @@ translate ru strings:
     new "Сара подошла к единственному зеркалу в комнате и встала перед ним."
 
     old "It wasn't much compared to what she had in Castle Reinmeer, but it was enough."
-    new "Это было немного по сравнению с тем, что у неё было в замке Рейнмир, но достаточно."
+    new "Это было немного по сравнению с тем, что у неё было в замке Рейнмир, но этого хватало."
 
     old "The cloth pressed against her skin, and to her surprise felt soft as silk."
     new "Ткань прилегала к коже и, к её удивлению, была мягкой, как шёлк."
@@ -275,7 +275,7 @@ translate ru strings:
     new "Ожидаемой тяжести не было, и каждый её шаг казался каким-то мягким и приглушённым."
 
     old "Sarah suspected the clothes themselves had magical properties."
-    new "Сара заподозрила, что сама одежда обладает магическими свойствами."
+    new "Сара предположила, что сама одежда обладает магическими свойствами."
 
     old "Who was to say, she concluded, she knew so little of this new world she was stepping into."
     new "Кто знает, заключила она, она так мало знала об этом новом мире, в который вступала."
@@ -407,7 +407,7 @@ translate ru strings:
     new "Ксан благодарно кивнул и направился в свою комнату спать."
 
     old "Sarah took in the room, now all alone. It's many tomes, trinkets and relics."
-    new "Сара оглядела комнату, теперь совсем одна. Её многочисленные фолианты, безделушки и артефакты."
+    new "Сара оглядела комнату, теперь совсем одна. Кругом были фолианты, безделушки и артефакты."
 
     old "It all began to feel familiar to her, as if this could be more than a place to be safe, but a home."
     new "Всё это начинало казаться ей знакомым, будто это могло быть не просто безопасным местом, а домом."
@@ -491,7 +491,7 @@ translate ru strings:
     new "Как корона, сотканная из звёздного света, что покоится на твоей голове."
 
     old "Sarah tried to make sense of his words. They seemed too odd to be meant to deceive."
-    new "Сара попыталась осмыслить его слова. Они казались слишком странными, чтобы быть обманом."
+    new "Сара попыталась осмыслить его слова. Они казались слишком странными, чтобы быть ложью."
 
     old "Does it mean anything?"
     new "Это что-то значит?"
@@ -503,7 +503,7 @@ translate ru strings:
     new "Тебе больно смотреть на меня?"
 
     old "Only when I focus on it too much, and sometimes it can dim, the starlight."
-    new "Только когда я слишком сосредотачиваюсь на нём, и иногда он может меркнуть, звёздный свет."
+    new "Только когда я слишком на нём сосредоточен. Иногда он может меркнуть, этот звёздный свет."
 
     old "Dim?"
     new "Меркнуть?"
@@ -584,13 +584,13 @@ translate ru strings:
     new "Но это не тот, кто он есть. Каждое его представление призвано обмануть тебя."
 
     old "Why would he do that? He's so many times more powerful than me, why would he have need to trick me."
-    new "Зачем ему это? Он во много раз сильнее меня, зачем ему обманывать меня?"
+    new "Зачем ему это? Он во много раз сильнее — зачем ему меня обманывать?"
 
     old "Because for what he wants, force cannot work."
     new "Потому что для того, чего он хочет, сила не сработает."
 
     old "You are like a blade to him, unrivaled in potential quality. A weapon that he can wield towards his own ends. A tool, or an instrument."
-    new "Ты для него как клинок, непревзойдённый по потенциальному качеству. Оружие, которое он может направить на достижение своих целей. Инструмент, или орудие."
+    new "Ты для него как клинок, непревзойдённый по своему потенциалу. Оружие, которое он может направить на достижение своих целей. Инструмент, или орудие."
 
     old "Sarah tried to understand."
     new "Сара попыталась понять."
@@ -599,10 +599,10 @@ translate ru strings:
     new "Ты имеешь в виду мою магию? Я почти ничего не знаю. Что я могу сделать такого, чего не может он?"
 
     old "This is true for now, but he imagines you will grow powerful. And he is not wrong."
-    new "Это верно сейчас, но он предполагает, что ты станешь сильной. И он не ошибается."
+    new "Сейчас это так, но он предполагает, что ты станешь сильной. И он не ошибается."
 
     old "But more than just your power, he seeks to wield the source of your power. The starlight crown atop your head."
-    new "Но больше, чем просто твоей силы, он жаждет обладать источником твоей силы. Короной из звёздного света на твоей голове."
+    new "Но он жаждет обладать не просто твоей силой, а её источником. Короной из звёздного света на твоей голове."
 
     old "Sarah touched the top of her head, but found only her own hair."
     new "Сара коснулась макушки, но нащупала только свои волосы."
@@ -635,7 +635,7 @@ translate ru strings:
     new "Лет? Как ты можешь знать, что случится через много лет?"
 
     old "Trust only that I do. Do not press me further, for to give you any more would only render the answer pointless."
-    new "Просто поверь, что знаю. Не дави на меня, потому что сказать тебе больше сделает ответ бессмысленным."
+    new "Просто поверь, что я знаю. Не дави на меня, потому что сказать тебе больше сделает ответ бессмысленным."
 
     old "Fine...but you will pay me back."
     new "Хорошо... но ты мне заплатишь."
@@ -659,7 +659,7 @@ translate ru strings:
     new "Уступить духу"
 
     old "Was it pity that drove her to do it? Sarah hardly knew herself."
-    new "Была ли это жалость, толкнувшая её на это? Сара едва ли знала себя."
+    new "Была ли это жалость, толкнувшая её на это? Сара и сама себя не понимала."
 
     old "Gracefully, she slipped the clothes from her body."
     new "Грациозно она сбросила одежду с тела."
@@ -674,7 +674,7 @@ translate ru strings:
     new "Сара видела, как дух рванулся вперёд, но, сдерживаемый кругом, он не мог дотянуться до неё."
 
     old "Stepping closer to the edge of the circle, Sarah let he last of her underwear slip."
-    new "Шагнув ближе к краю круга, Сара позволила последним остаткам белья соскользнуть."
+    new "Шагнув ближе к краю круга, Сара позволила последней детали белья соскользнуть."
 
     old "Sarah could see the spirit's body extend like tendrils."
     new "Сара видела, как тело духа вытянулось, словно щупальца."
@@ -704,13 +704,13 @@ translate ru strings:
     new "Сара застонала, вводя в себя собственные пальцы. Это было легко, когда она почувствовала, как влажно уже было между ног."
 
     old "Not fully losing herself in the moment, Sarah could see the spirit violently thrashing within his confined space."
-    new "Не до конца потерявшись в моменте, Сара видела, как дух неистово бился в своём запертом пространстве."
+    new "Не до конца отдавшись моменту, Сара видела, как дух неистово бился в своём запертом пространстве."
 
     old "Come closer!"
     new "Подойди ближе!"
 
     old "Sarah moaned again, excessively."
-    new "Сара снова застонала, чрезмерно."
+    new "Сара снова застонала, преувеличенно громко."
 
     old "It was part truth and part performance."
     new "Это было отчасти правдой и отчасти представлением."
@@ -749,7 +749,7 @@ translate ru strings:
     new "Наслаждение взорвалось у неё между ног, прокатившись по каждой части тела."
 
     old "So lost in her ecstasy, she nearly tumbled forward onto the floor."
-    new "Так потерявшись в экстазе, она едва не рухнула вперёд на пол."
+    new "Настолько потерявшись в экстазе, она едва не рухнула вперёд на пол."
 
     old "Reason returned to her as she caught herself on the hard wooden floor, saving herself from falling within the spirit's reach, by only a hair."
     new "Разум вернулся к ней, когда она упёрлась в твёрдый деревянный пол, спасая себя от падения в пределы досягаемости духа, всего на волосок."

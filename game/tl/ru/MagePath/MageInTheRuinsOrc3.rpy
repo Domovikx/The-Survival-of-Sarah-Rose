@@ -5,7 +5,7 @@
 translate ru strings:
 
     old "When Sarah woke again, she could at best tell that it was night."
-    new "Когда Сара снова очнулась, она могла с уверенностью сказать лишь то, что была ночь."
+    new "Когда Сара снова очнулась, в лучшем случае она могла определить лишь то, что была ночь."
 
     old "Again, had it been the same night, another, many others, she had no reference."
     new "Снова — та же ли это была ночь, другая, множество других — она не знала."
@@ -41,13 +41,13 @@ translate ru strings:
     new "Он был того же цвета, что и яд гоблина."
 
     old "It had tasted sweet, and so to her, it had been obvious as a drink..."
-    new "У него был сладкий вкус, и для неё это было очевидно как напиток..."
+    new "У него был сладкий вкус, и для неё это был просто напиток..."
 
     old "But who was to say that poison could not be sweet?"
     new "Но кто сказал, что яд не может быть сладким?"
 
     old "Her hope had been for the poison to fade from her body, be cleansed out from her blood."
-    new "Она надеялась, что яд выветрится из её тела, очистится из её крови."
+    new "Она надеялась, что яд выйдет из её тела и очистит её кровь."
 
     old "Instead, she had taken more of it."
     new "Вместо этого она приняла ещё больше."
@@ -134,7 +134,7 @@ translate ru strings:
     new "Значит... вот что она должна была делать... потому что если это ощущалось правильным... значит, это было правильно..."
 
     old "Sarah bobbed her head up and down, eagerly servicing the goblin."
-    new "Сара двигала головой вверх и вниз, услужливо обслуживая гоблина."
+    new "Сара двигала головой вверх и вниз, с готовностью обслуживая гоблина."
 
     old "Above her, she saw him grinning, more happy than he had ever been."
     new "Над ней она видела его ухмылку, счастливее, чем он когда-либо был."
@@ -161,7 +161,7 @@ translate ru strings:
     new "Сверху послышался одобрительный хрюк."
 
     old "She couldn't imagine how she had ever thought that this was wrong."
-    new "Она не могла представить, как она вообще могла думать, что это неправильно."
+    new "Она не могла представить, как вообще могла считать это неправильным."
 
     old "The taste, the texture, all of it caused her heart to swell and overflow."
     new "Вкус, текстура — всё это заставляло её сердце наполняться и переполняться."
@@ -179,7 +179,7 @@ translate ru strings:
     new "Когда оно брызгало на её кожу, это было успокаивающе."
 
     old "Sarah was beaming with pride at how quickly she had learned to service the goblin with her mouth."
-    new "Сара сияла от гордости, как быстро она научилась обслуживать гоблина ртом."
+    new "Сара сияла от гордости тому, как быстро она научилась обслуживать гоблина ртом."
 
     old "Pride like nothing she had ever felt in her life."
     new "Гордость, какой она никогда не испытывала в жизни."
@@ -395,7 +395,7 @@ translate ru strings:
     new "Гоблин, отец её потомства, не угасал в своём желании."
 
     old "And as Sarah grew larger and fatter, rapidly, she became ever more immobile."
-    new "И по мере того как Сара быстро становилась больше и толще, она становилась всё более неподвижной."
+    new "И по мере того как Сара быстро росла и толстела, она становилась всё более неподвижной."
 
     old "She laid, staring up at the night sky, as all the world spun about her, pulsing and dancing to the drink's influence."
     new "Она лежала, глядя в ночное небо, а весь мир вращался вокруг неё, пульсируя и танцуя под влиянием напитка."

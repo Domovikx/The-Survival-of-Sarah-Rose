@@ -143,7 +143,7 @@ translate ru strings:
     new "Сара продолжила работать, инструктируя своих офицеров о том, что ещё нужно сделать."
 
     old "It was only later in the day when Vaelen finally found her."
-    new "Только позже днём Вейлен наконец нашёл её."
+    new "Только позже днём Ваэлен наконец нашёл её."
 
     old "Are we ready?"
     new "Мы готовы?"
@@ -188,16 +188,16 @@ translate ru strings:
     new "На западе были глубинка и Летрам — цивилизованный мир. Это было единственное направление, куда они могли двинуться."
 
     old "We go to Nauyziri."
-    new "Мы идём в Науизири."
+    new "Мы идём в Науйзири."
 
     old "Vaelen was quiet, as if this was supposed to mean something to Sarah."
-    new "Вейлен молчал, будто это имя должно было что-то значить для Сары."
+    new "Ваэлен молчал, будто это имя должно было что-то значить для Сары."
 
     old "I...Nauyziri? What are you talking about?"
-    new "Я... Науизири? О чём ты говоришь?"
+    new "Я... Науйзири? О чём ты говоришь?"
 
     old "Vaelen leaned forward and sprawled out a map in front of Sarah."
-    new "Вейлен наклонился и развернул карту перед Сарой."
+    new "Ваэлен наклонился и развернул карту перед Сарой."
 
     old "It was an older map, not the one they had used before in planning the campaign."
     new "Это была старая карта, не та, что они использовали для планирования кампании."
@@ -209,13 +209,13 @@ translate ru strings:
     new "Старая карта Баграда, ещё с тех времён, когда он был империей."
 
     old "Vaelen placed his finger on a small dot on the map, further east than even Bagrad."
-    new "Вейлен указал пальцем на маленькую точку на карте, ещё восточнее Баграда."
+    new "Ваэлен указал пальцем на маленькую точку на карте, ещё восточнее Баграда."
 
     old "Under the dot, it read Nauyziri."
-    new "Под точкой значилось: Науизири."
+    new "Под точкой значилось: Науйзири."
 
     old "Sarah looked up from the map, back at Vaelen."
-    new "Сара оторвала взгляд от карты и посмотрела на Вейлена."
+    new "Сара оторвала взгляд от карты и посмотрела на Ваэлена."
 
     old "This map has to be centuries old, at the least."
     new "Этой карте, должно быть, как минимум несколько веков."
@@ -224,7 +224,7 @@ translate ru strings:
     new "Почти все города и посёлки на этой карте либо заброшены, либо поглощены пустыней."
 
     old "Sarah tapped the dot that indicated Nauyziri."
-    new "Сара постучала по точке, обозначающей Науизири."
+    new "Сара постучала по точке, обозначающей Науйзири."
 
     old "This, it's further out even than those places."
     new "Этот — он ещё дальше, чем те места."
@@ -239,13 +239,13 @@ translate ru strings:
     new "Он снова постучал по карте."
 
     old "The town of Nauyziri is out there."
-    new "Посёлок Науизири существует."
+    new "Посёлок Науйзири существует."
 
     old "Yes, dead and forgotten, what does that have to do with us?"
     new "Да, мёртвый и забытый. Какое это имеет отношение к нам?"
 
     old "Vaelen rolled the map up again."
-    new "Вейлен снова свернул карту."
+    new "Ваэлен снова свернул карту."
 
     old "We need to go there. A secret mission."
     new "Нам нужно отправиться туда. Секретная миссия."
@@ -263,10 +263,10 @@ translate ru strings:
     new "От имени Мифранской империи."
 
     old "They used this campaign on Bagrad as a cover for their mission, but the real goal was to reach the city of Nauyziri."
-    new "Они использовали этот поход на Баград как прикрытие для своей миссии, но настоящей целью был город Науизири."
+    new "Они использовали этот поход на Баград как прикрытие для своей миссии, но настоящей целью был город Науйзири."
 
     old "A smaller Mythran unit had gone ahead, evading Bagrad, and moving towards Nauyziri."
-    new "Небольшой отряд мифранцев ушёл вперёд, минуя Баград, и направился к Науизири."
+    new "Небольшой отряд мифранцев ушёл вперёд, минуя Баград, и направился к Науйзири."
 
     old "We are to link up with them there, provide support."
     new "Мы должны соединиться с ними там и оказать поддержку."
@@ -275,13 +275,13 @@ translate ru strings:
     new "Сара слушала его объяснения — он говорил так, будто всё это было очевидно, а не безумие."
 
     old "Vaelen..."
-    new "Вейлен..."
+    new "Ваэлен..."
 
     old "Why is this the first I'm hearing of this?"
     new "Почему я слышу об этом только сейчас?"
 
     old "Vaelen scratched his neck, trying to ward off the unrelenting heat of the desert."
-    new "Вейлен почесал шею, пытаясь спастись от безжалостной пустынной жары."
+    new "Ваэлен почесал шею, пытаясь спастись от безжалостной пустынной жары."
 
     old "I was sworn to maintain complete secrecy, even from my own commanders. I'm telling you, first chance I had."
     new "Я был обязан сохранять полную тайну, даже от своих собственных командиров. Я говорю тебе при первой же возможности."
@@ -299,7 +299,7 @@ translate ru strings:
     new "Добраться до Летрама мы сможем, но углубляться в пустыню..."
 
     old "Vaelen, if we get off course, we could die out there."
-    new "Вейлен, если мы собьёмся с курса, мы можем там погибнуть."
+    new "Ваэлен, если мы собьёмся с курса, мы можем там погибнуть."
 
     old "No, the Mythran advance unit is well supplied. We link up with them and resupply, after that we are in fact more prepared to leave the desert."
     new "Нет, передовой отряд мифранцев хорошо снабжён. Мы соединимся с ними и пополним запасы, после этого мы будем лучше подготовлены к выходу из пустыни."
@@ -335,7 +335,7 @@ translate ru strings:
     new "И поэтому ты ценна, Сара, — ты не лижешь мне задницу, как большинство."
 
     old "But on this issue, I won't budge. We set out for Nauyziri."
-    new "Но в этом вопросе я непреклонен. Мы выступаем к Науизири."
+    new "Но в этом вопросе я непреклонен. Мы выступаем к Науйзири."
 
     old "Sarah nodded, still hestitant."
     new "Сара кивнула, всё ещё колеблясь."

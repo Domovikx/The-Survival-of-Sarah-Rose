@@ -1022,7 +1022,7 @@ translate ru strings:
     new "Громкий клич поднялся, когда воины забарабанили по столам в знак почтения."
 
     old "By the Gods, could we have only been so fortunate to have died such a great death!"
-    new "Богами клянусь, могли бы мы быть столь удачливы, чтобы умерить такой великой смертью!"
+    new "Богами клянусь, могли бы мы быть столь удачливы, чтобы умереть такой великой смертью!"
 
     old "More chants."
     new "Новые выкрики."
@@ -1352,7 +1352,7 @@ translate ru strings:
     new "Приняла каждое оскорбление."
 
     old "Paraded before these men in less than nothing."
-    new "Дефилировала перед этими мужчинами практически в ничего."
+    new "Дефилировала перед этими мужчинами практически голая."
 
     old "And for all her suffering and submissions...she would end up the same. A slave to be used by anyone who wished to."
     new "И за все её страдания и покорность... она закончит тем же. Рабыня, которой может воспользоваться любой желающий."
@@ -1871,7 +1871,7 @@ translate ru strings:
     new "Джаид брал её глубже и быстрее, вторя ритму её лихорадочных криков."
 
     old "Not soon after, Sarah cried out in orgasmic pleasure as she climaxed atop him."
-    new "Вскоре Сара вскрикнула от оргазмического наслаждения, кончая на нём."
+    new "Вскоре Сара вскрикнула от оргазма, кончая на нём."
 
     old "Skillfully, he did not slow, instead keeping his pace and drawing out every fraction of pleasure, keeping her at its peak before allowing it to recede."
     new "Умело он не сбавил темп, а продолжал в том же ритме, извлекая каждую частицу удовольствия, удерживая её на пике, прежде чем позволить ему отступить."

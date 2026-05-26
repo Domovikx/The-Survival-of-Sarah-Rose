@@ -41,7 +41,7 @@ translate ru strings:
     new "Две недели в работном доме."
 
     old "The last one to speak gets five years housing and food, courtesy of the Lethram prison system."
-    new "Последний, кто заговорит, получит пять лет жилья и еды за счёт тюремной системы Лезрама."
+    new "Последний, кто заговорит, получит пять лет жилья и еды за счёт тюремной системы Летрема."
 
     old "Sarah was still trying to process what was happening."
     new "Сара всё ещё пыталась осознать происходящее."
@@ -110,7 +110,7 @@ translate ru strings:
     new "Я пытался быть с тобой любезным, дать тебе первый шанс, но ты захотела прикидываться крутым преступником."
 
     old "So sure, you wanna pretend to be a real criminal, then you can enjoy a few years up in Lethram prison, with the other real criminals."
-    new "Что ж, хочешь притворяться настоящим преступником — тогда наслаждайся несколькими годами в тюрьме Лезрама, с другими настоящими преступниками."
+    new "Что ж, хочешь притворяться настоящим преступником — тогда наслаждайся несколькими годами в тюрьме Летрема, с другими настоящими преступниками."
 
     old "He leaned over across the table."
     new "Он перегнулся через стол."
@@ -137,13 +137,13 @@ translate ru strings:
     new "Не было слов, которые могли бы её спасти."
 
     old "Only a few hours later, Sarah was brought before a judge in the Lethram courthouse."
-    new "Всего несколько часов спустя Сару привели к судье в здание суда Лезрама."
+    new "Всего несколько часов спустя Сару привели к судье в здание суда Летрема."
 
     old "They sat her down on the front bench, still tied up."
-    new "Её усадили на переднюю скамью, всё ещё связанную."
+    new "Её, всё ещё связанную, усадили на переднюю скамью."
 
     old "We begin case 27442-yz, theft and conspiracy, each one count."
-    new "Начинаем дело 27442-yz, кража и сговор, по одному пункту каждое."
+    new "Начинаем дело 27442-yz, кража и сговор, по одному пункту за каждое."
 
     old "What evidence does the city guard offer up?"
     new "Какие улики предоставляет городская стража?"
@@ -164,7 +164,7 @@ translate ru strings:
     new "После минутного размышления он наконец заговорил."
 
     old "The court of Lethram finds this evidene compelling. Does the defendant wish to offer up any counter evidence?"
-    new "Суд Лезрама находит эти улики убедительными. Желает ли подсудимая предоставить какие-либо контрулики?"
+    new "Суд Летрема находит эти улики убедительными. Желает ли подсудимая предоставить какие-либо контрулики?"
 
     old "Sarah was pulled up to her feet by a guard."
     new "Стражник поднял Сару на ноги."
@@ -209,7 +209,7 @@ translate ru strings:
     new "Приговор вынесен и оглашён."
 
     old "Guards, you may enact the pronounced punishment effective immediatly. Please take the defendant to the Lethram women's prison."
-    new "Стража, вы можете немедленно привести приговор в исполнение. Отведите подсудимую в женскую тюрьму Лезрама."
+    new "Стража, вы можете немедленно привести приговор в исполнение. Отведите подсудимую в женскую тюрьму Летрема."
 
     old "Sarah felt her body shake as they seized her upper arms and dragged her along."
     new "Сара почувствовала, как её тело задрожало, когда они схватили её за плечи и потащили."
@@ -227,7 +227,7 @@ translate ru strings:
     new "Сара чувствовала, как мир исчезает вокруг неё, пока они тащили её к повозке."
 
     old "Before long, they arrived at the gates of the Lethram women's prison."
-    new "Вскоре они прибыли к воротам женской тюрьмы Лезрама."
+    new "Вскоре они прибыли к воротам женской тюрьмы Летрема."
 
     old "The guards put her in a room, then left."
     new "Стража поместила её в комнату и ушла."
@@ -365,10 +365,10 @@ translate ru strings:
     new "Нет, извините. Правила требуют нашего присутствия при приёме заключённых."
 
     old "You wouldn't believe the types of contraband that some prisoners try to smuggle in."
-    new "Вы бы не поверили, какие виды контрабанды некоторые заключённые пытаются пронести."
+    new "Ты не поверишь, какие виды контрабанды некоторые заключённые пытаются пронести."
 
     old "And it's for your safety too. Make sure nobody is bringing in any weapons."
-    new "И это ради вашей же безопасности. Убедиться, что никто не проносит оружие."
+    new "И это ради твоей же безопасности. Убедиться, что никто не проносит оружие."
 
     old "You understand, right?"
     new "Ты понимаешь, да?"
@@ -992,7 +992,7 @@ translate ru strings:
     new "И они не прочь применить немного убеждения."
 
     old "Guys too, most of the guards here have fucked a girl sooner or later."
-    new "Парни тоже, большинство охранников здесь рано или поздно трахали какую-нибудь девушку."
+    new "И парни тоже — большинство охранников здесь рано или поздно трахали какую-нибудь девушку."
 
     old "Eula leaned over."
     new "Юла наклонилась."
@@ -1187,7 +1187,7 @@ translate ru strings:
     new "Неплохо...новичок..."
 
     old "Eula tried to talk in between heavy breathes."
-    new "Юла пыталась говорить между тяжёлыми вздохами."
+    new "Юла пыталась говорить, тяжело дыша."
 
     old "We might make a good lesbian out of you yet."
     new "Из тебя ещё может выйти хорошая лесбиянка."

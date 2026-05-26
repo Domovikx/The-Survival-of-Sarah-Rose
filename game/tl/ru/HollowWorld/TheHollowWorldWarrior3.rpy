@@ -107,7 +107,7 @@ translate ru strings:
     new "Их колонна достигла своего предела."
 
     old "Sarah could not deny that a part of her was glad knowing that this foolishness had come to an end."
-    new "Сара не могла отрицать, что часть её была рада узнать, что этой глупости пришёл конец."
+    new "Сара не могла отрицать, что в глубине души была рада узнать, что этой глупости пришёл конец."
 
     old "I'll order the men to begin preparations."
     new "Я прикажу людям начинать подготовку."
@@ -146,7 +146,7 @@ translate ru strings:
     new "Я не просил тебя приходить и рассказывать мне, как это невозможно. Мне нужно, чтобы ты сказала мне, как это возможно."
 
     old "Sarah searched his face for any sign of reason, but it was merely blank."
-    new "Сара искала на его лице хоть какой-то признак разума, но оно было просто пустым."
+    new "Сара искала на его лице хоть какой-то признак разума, но оно оставалось безучастным."
 
     old "Behind her, Sarah heard the nearing of footsteps."
     new "Позади себя Сара услышала приближающиеся шаги."
@@ -176,7 +176,7 @@ translate ru strings:
     new "Тебе нужно вразумить его, меня он не слушает."
 
     old "Gideon looked past her towards Vaelen."
-    new "Гидеон посмотрел сквозь неё на Ваэлена."
+    new "Гидеон посмотрел мимо неё на Ваэлена."
 
     old "Well, Vaelen, you know my usual advice is to just listen to Sarah."
     new "Что ж, Ваэлен, ты знаешь, мой обычный совет — просто слушать Сару."
@@ -281,10 +281,10 @@ translate ru strings:
     new "Саре нравился Гидеон."
 
     old "In age, he was closest to her out of all the commanders, but there was also just an easy mutual respect between the two of them."
-    new "По возрасту он был ближе всех к ней среди командиров, но между ними также было легкость взаимного уважения."
+    new "По возрасту из всех командиров он был к ней ближе всех, но их также связывало лёгкое взаимное уважение."
 
     old "It shouldn't have been remarkable, but in a mercenary company, women were generally perceived with suspicion."
-    new "Это не должно было быть примечательным, но в наёмнической роте к женщинам обычно относились с подозрением."
+    new "В этом не было бы ничего примечательного, но в наёмнической роте к женщинам обычно относились с подозрением."
 
     old "Gideon was rare in that he actually seemed to consider her the equal that she was."
     new "Гидеон был редким исключением — он действительно считал её равной."
@@ -521,7 +521,7 @@ translate ru strings:
     new "Позади — верная смерть, впереди — вероятность смерти."
 
     old "Each knew they could not truly resist, and so each yielded."
-    new "Каждый знал, что не может по-настоящему сопротивляться, и каждый уступил."
+    new "Каждый знал, что сопротивляться бесполезно, и каждый уступил."
 
     old "But Sarah could see in their eyes what most of the other officers and commanders failed to see."
     new "Но Сара видела в их глазах то, чего не замечало большинство других офицеров и командиров."

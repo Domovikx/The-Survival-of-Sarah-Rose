@@ -248,7 +248,7 @@ translate ru strings:
     new "На его лице застыло выражение, которое она не могла определить. Ярость или удивление? Она больше не могла сказать."
 
     old "She drew in her breath and held his gaze."
-    new "Она вздохнула и встретила его взгляд."
+    new "Она глубоко вдохнула и задержала его взгляд."
 
     old "This was what she needed. To draw him into her rhythm. Make him forget all the rules of proper combat."
     new "Вот что ей было нужно. Завлечь его в свой ритм. Заставить его забыть все правила надлежащего боя."
@@ -335,7 +335,7 @@ translate ru strings:
     new "К чёрту мою честь."
 
     old "Sarah balled her fist and threw it up with all her might."
-    new "Сара сжала кулак и со всей силы занесла его вверх."
+    new "Сара сжала кулак и со всей силы нанесла удар вверх."
 
     old "One hand on her throat, another around her hair, Vaelen was too slow and too occupied to deflect her."
     new "Одной рукой на её горле, другой — в её волосах, Ваэлен был слишком медлителен и занят, чтобы отразить удар."
@@ -455,7 +455,7 @@ translate ru strings:
     new "Он вытащил клинок из неё, продолжая прижимать её к земле."
 
     old "Sarah screamed out as the blade of the knife buried itself into her again."
-    new "Сара закричала, когда лезвие ножа снова вонзилось в неё."
+    new "Сара закричала, когда нож снова вонзился в неё."
 
     old "Each time, she felt the dagger penetrate her chest, she knew it grew worse for her."
     new "С каждым разом, когда кинжал проникал в её грудь, она знала, что становится только хуже."

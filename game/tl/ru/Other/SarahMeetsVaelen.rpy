@@ -74,7 +74,7 @@ translate ru strings:
     new "Волосы Ваэлена были чёрными, почти как чернила. Он носил их коротко, как было принято у солдат. Когда его взгляд остановился на Саре, она почувствовала, будто пригвождена к земле."
 
     old "It was as if he was looking at her and her alone, like she was the only person in the world."
-    new "Будто он смотрел только на неё, словно она была единственным человеком в мире."
+    new "Будто он смотрел только на неё и ни на кого больше, словно она была единственным человеком в мире."
 
     old "For a moment, Sarah dared to imagine she saw the radiant light around him that Kate had spoken about."
     new "На мгновение Сара осмелилась представить, что видит то сияние вокруг него, о котором говорила Кейт."

@@ -62,7 +62,7 @@ translate ru strings:
     new "Сара вышла из разрушенного дома в том направлении, куда её тянуло."
 
     old "Stepping out of the house and onto the street, Sarah first laid her eyes on the city of Nauyziri proper."
-    new "Выйдя из дома на улицу, Сара впервые увидела сам город Науизири."
+    new "Выйдя из дома на улицу, Сара впервые увидела сам город Науйзири."
 
     old "The whole thing was a ruin."
     new "Всё это было руинами."
@@ -254,7 +254,7 @@ translate ru strings:
     new "Сара наблюдала, как Кейт опрокинула очередную порцию."
 
     old "The wine poured down Kate's throat so fast; Sarah doubted that Kate even tasted any of it."
-    new "Вино лилось в глотку Кейт так быстро, что Сара сомневалась, чувствует ли Кейт хоть вкус."
+    new "Вино лилось в глотку Кейт так быстро, что Сара сомневалась, чувствует ли Кейт хоть какой-то вкус."
 
     old "Then again, taste was hardly the point."
     new "Впрочем, вкус вряд ли имел значение."
@@ -338,7 +338,7 @@ translate ru strings:
     new "Уверенная, что риск невелик, и горя желанием обнаружить источник того, что действовало на неё, Сара ускорила шаг."
 
     old "She passed by more soldiers."
-    new "Она прошла мимо ещё солдат."
+    new "Она прошла мимо ещё нескольких солдат."
 
     old "Sarah simply pretended that she belonged, and the soldiers for their part either believed or didn't care."
     new "Сара просто притворилась своей, а солдаты либо поверили, либо им было всё равно."
@@ -455,7 +455,7 @@ translate ru strings:
     new "Отголоски?"
 
     old "Suppose you were to fill up a cup with water and then pierced the bottom with a knife, several times."
-    new "Представь, что ты наполнил чашу водой, а затем пробил дно ножом несколько раз."
+    new "Представь, что ты наполнила чашу водой, а затем пробила дно ножом несколько раз."
 
     old "The water would pour out from different places, but it would all be the same water."
     new "Вода вытекала бы из разных мест, но это была бы всё та же вода."
@@ -641,5 +641,5 @@ translate ru strings:
     new "И наш род бежал в ваш мир — что ещё нам оставалось?"
 
     old "As she listened, Sarah felt a pit growing in her stomach. She had never understood that their world could be such a horror."
-    new "Слушая, Сара чувствовала, как в животе растёт ком. Она никогда не понимала, что их мир может быть таким ужасом."
+    new "Слушая, Сара чувствовала, как в животе разрастается пустота. Она никогда не понимала, что их мир может быть таким ужасом."
 

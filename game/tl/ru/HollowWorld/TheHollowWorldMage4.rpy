@@ -38,7 +38,7 @@ translate ru strings:
     new "Я хотела извиниться за вчерашнее. Оставить тебя одну вот так, в этом чужом доме. Я должна была лучше заботиться о тебе."
 
     old "It's ok. Sleeping here with you...it feels kind of safe."
-    new "Всё нормально. Спать здесь с тобой... такое чувство безопасности."
+    new "Всё нормально. Спать здесь с тобой... я чувствую себя в безопасности."
 
     old "Sarah was happy to hear she could offer Samayra at least that."
     new "Саре было приятно слышать, что она может дать Самайре хотя бы это."
@@ -458,10 +458,10 @@ translate ru strings:
     new "Нет, поняла Сара, осматривая комнату."
 
     old "It didn't just exist, it seemed to have existed here all this time. Present, obvious, logical. As if it belonged here."
-    new "Она не просто появилась — казалось, она была здесь всё это время. Присутствующая, очевидная, логичная. Словно всегда здесь и была."
+    new "Она не просто появилась — казалось, она была здесь всё это время. Явная, очевидная, закономерная. Словно всегда здесь и была."
 
     old "Steam rising up from the surface of the water clogged up the air, making it hard to see all across the room."
-    new "Пар, поднимающийся от поверхности воды, застилал воздух, мешая разглядеть всю комнату."
+    new "Пар, поднимающийся от поверхности воды, заполнял воздух, мешая разглядеть всю комнату."
 
     old "Sarah could feel the mist condensate onto her skin, turning into beads of water and trickling down her face."
     new "Сара чувствовала, как туман оседает на коже, превращаясь в капли воды и стекая по лицу."
@@ -494,7 +494,7 @@ translate ru strings:
     new "Её голос эхом разнёсся."
 
     old "Louder, a second time, Sarah now heard footsteps rushing up the hallway."
-    new "Громче, во второй раз, и Сара услышала спешащие по коридору шаги."
+    new "Она крикнула громче, и на этот раз услышала спешащие по коридору шаги."
 
     old "It wasn't long before she saw the animated face of the former princess."
     new "Вскоре она увидела оживлённое лицо бывшей принцессы."
@@ -572,7 +572,7 @@ translate ru strings:
     new "И затем врезалась в воду."
 
     old "Exploding around her she could feel it rush up across her body and past her head, weaving in and around her hair and all over her body."
-    new "Взрывом вокруг неё вода устремилась вверх по телу и над головой, проникая в волосы и омывая всё тело."
+    new "Всплеснувшись вокруг неё, вода устремилась вверх по телу и над головой, проникая в волосы и омывая всё тело."
 
     old "She opened her eyes under water and for a moment, observed the perfect world that existed underneath it."
     new "Она открыла глаза под водой и на мгновение увидела совершенный мир, существующий под поверхностью."
@@ -824,7 +824,7 @@ translate ru strings:
     new "И мы не там, откуда ты..."
 
     old "Sarah leaned forward and softly bit Samayra's neck."
-    new "Сара наклонилась и мягко укусила Самайру за шею."
+    new "Сара наклонилась и нежно укусила Самайру за шею."
 
     old "Working her with her fingers and continueing to bite her neck, Sarah could feel Samayra wrapping her arms around her neck."
     new "Работая пальцами и продолжая покусывать шею, Сара чувствовала, как Самайра обвивает руками её шею."
@@ -980,7 +980,7 @@ translate ru strings:
     new "Откинувшись назад, обхватив ногами тело Самайры, Сара чувствовала, как её тело покачивается."
 
     old "Back and forth, over and over, as Samayra feverishly continued fingering her, seemingly with no end to her stamina."
-    new "Взад-вперёд, снова и снова, пока Самайра лихорадочно продолжала ласкать её пальцами, с неутомимой выносливостью."
+    new "Взад-вперёд, снова и снова, пока Самайра лихорадочно продолжала ласкать её пальцами, словно не зная усталости."
 
     old "Sarah cried out as the pleasure reached its peak and the orgasm rolled over her."
     new "Сара вскрикнула, когда удовольствие достигло пика и оргазм накрыл её."
@@ -1016,7 +1016,7 @@ translate ru strings:
     new "Сара больше не сопротивлялась."
 
     old "To be held, touched, by another human like this. It was a thing Sarah knew her body was starved off."
-    new "Быть удерживаемой, к кому-то прикасаться вот так. Сара знала, что её тело истосковалось по этому."
+    new "Чтобы её обнимали, касались вот так. Сара знала, что её тело истосковалось по этому."
 
     old "For several more hours, the women played and rested in their newly discoverd bathhouse."
     new "Ещё несколько часов женщины играли и отдыхали в своей недавно обнаруженной купальне."

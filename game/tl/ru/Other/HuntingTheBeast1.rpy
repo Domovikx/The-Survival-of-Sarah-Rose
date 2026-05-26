@@ -110,7 +110,7 @@ translate ru strings:
     new "Они рассказывают всякую ерунду о вас: как вы убиваете демонов и всё такое."
 
     old "And there aren't a lot of blonde women walking around in suits of armor. So the odds were decent it was you."
-    new "А блондинок в доспехах разгуливающих не так уж много. Так что шансы были неплохи, что это вы."
+    new "А блондинок в доспехах, что разгуливают тут, не так уж много. Так что шансы были неплохи, что это вы."
 
     old "You have a proper name, or just a title?"
     new "У вас есть настоящее имя или только титул?"

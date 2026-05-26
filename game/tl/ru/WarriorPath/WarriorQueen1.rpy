@@ -146,7 +146,7 @@ translate ru strings:
     new "Сара закрыла глаза и молилась, что поступает правильно."
 
     old "Are you proud of me..Father?"
-    new "Ты гордишься мной.. отец?"
+    new "Ты гордишься мной..., отец?"
 
     old "Opening her eyes, Sarah murdered her own hesitant heart and strode out onto the balcony."
     new "Открыв глаза, Сара убила в себе колеблющееся сердце и шагнула на балкон."
@@ -233,7 +233,7 @@ translate ru strings:
     new "Но в котле внизу эмоции её народа накалялись всё сильнее."
 
     old "Battering all the walls of the city, shaking the rock upon which Rahayal was build."
-    new "Сотрясая все стены города, дрожа скалу, на которой был построен Рахаял."
+    new "Сотрясая все стены города и скалу, на которой был построен Рахаял."
 
     old "Sarah smiled, content in knowing that she had the army she needed."
     new "Сара улыбнулась, довольная осознанием, что у неё есть армия, которая ей нужна."
@@ -518,7 +518,7 @@ translate ru strings:
     new "И всё же она с трудом могла представить ту девушку, которой была так давно."
 
     old "Memories of someone softer, that now seemed so strange to her."
-    new "Воспоминания о ком-то более мягком, теперь казались ей такими чуждыми."
+    new "Воспоминания о ком-то более мягком теперь казались ей такими чуждыми."
 
     old "As if everything before had happened to someone else."
     new "Словно всё, что было раньше, случилось с кем-то другим."

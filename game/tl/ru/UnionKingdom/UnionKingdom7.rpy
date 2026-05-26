@@ -8,10 +8,10 @@ translate ru strings:
     new "Готовясь к пиру, Сара сделала всё возможное, чтобы выглядеть как подобает правительнице."
 
     old "Perhaps there was some vanity to it, but Sarah equally knew that men had a habit of treating her better when she looked her best."
-    new "Возможно, в этом было немного тщеславия, но Сара также знала, что мужчины имеют привычку относиться к ней лучше, когда она выглядит наилучшим образом."
+    new "Возможно, в этом было немного тщеславия, но Сара также знала, что мужчины склонны относиться к ней лучше, когда она выглядит наилучшим образом."
 
     old "Two of the other rulers of the Union Kingdom were men. If she could procure even the smallest advantage, it would be worth it."
-    new "Двое других правителей Союзных Королевств были мужчинами. Если она могла получить хотя бы малейшее преимущество, это того стоило."
+    new "Двое других правителей Союзных Королевств были мужчинами. Если бы она могла получить хотя бы малейшее преимущество, это того стоило бы."
 
     old "When she arrived at the hall, her entrance was announced."
     new "Когда она прибыла в зал, её вход объявили."
@@ -56,7 +56,7 @@ translate ru strings:
     new "Во всём Союзе вряд ли найдётся человек, который справится лучше него."
 
     old "Sarah saw an old man, near to death, balancing back and forth on his feet, shouting at some passing servants."
-    new "Сара увидела старика, почти при смерти, покачивающегося на ногах и кричащего на проходящих слуг."
+    new "Сара увидела старика, едва живого, покачивающегося на ногах и кричащего на проходящих слуг."
 
     old "Perhaps he should retire."
     new "Может, ему стоило бы уйти на покой."
@@ -179,7 +179,7 @@ translate ru strings:
     new "Стол тянулся почти на всю длину комнаты."
 
     old "Wine poured down throats so quickly, she wondered if anyone even tasted anything at all."
-    new "Вино лилось в глотки так быстро, что она задавалась вопросом, пробовал ли кто-нибудь хоть что-то на вкус."
+    new "Вино лилось в глотки так быстро, что она сомневалась, пробовал ли кто-нибудь хоть что-то на вкус."
 
     old "No plate was left empty for long. No cup ever dried up."
     new "Ни одна тарелка не оставалась пустой надолго. Ни одна чаша никогда не пересыхала."
@@ -260,7 +260,7 @@ translate ru strings:
     new "Сара стиснула зубы. В обвинении была доля правды."
 
     old "Perhaps so, but still...to have so much when there is so much poverty, isn't that-"
-    new "Возможно, но всё же... иметь так много, когда вокруг так много бедности, разве это не-"
+    new "Возможно, но всё же... иметь так много, когда вокруг так много бедности, разве это не—"
 
     old "Ooh dear, please."
     new "О, дорогая, прошу вас."
@@ -401,7 +401,7 @@ translate ru strings:
     new "Думаю, он считал большинство из нас претенциозными торговцами."
 
     old "No, my father deeply respected the Medini people, I don't think he would ever-"
-    new "Нет, мой отец глубоко уважал народ Медини, не думаю, что он когда-либо-"
+    new "Нет, мой отец глубоко уважал народ Медини, не думаю, что он когда-либо—"
 
     old "Duke Antonio threw up a hand."
     new "Герцог Антонио вскинул руку."
@@ -458,7 +458,7 @@ translate ru strings:
     new "Конечно, спрашивайте что угодно. Я к вашим услугам."
 
     old "Have you any notion of what this Union Council is concerning?"
-    new "Имеете ли вы представление о том, что касается этого Союзного Совета?"
+    new "Имеете ли вы представление, чему посвящён этот Союзный Совет?"
 
     old "She saw his face turn to a frown."
     new "Она увидела, как его лицо нахмурилось."
@@ -560,7 +560,7 @@ translate ru strings:
     new "Служанка. Вы думаете, она наслаждается жизнью и всем, что та предлагает?"
 
     old "You think when she's beneath the bloated bastard tonight, the bed creaking as he's crushing her, you think she'll enjoy life?"
-    new "Вы думаете, когда она окажется под этим раздутым ублюдком сегодня ночью, когда кровать будет скрипеть, а он будет её давить, вы думаете, она будет наслаждаться жизнью?"
+    new "Вы думаете, когда она окажется под этим раздутым ублюдком сегодня ночью, когда кровать будет скрипеть, а он навалится на неё всем своим весом, вы думаете, она будет наслаждаться жизнью?"
 
     old "Sarah was startled by his directness."
     new "Сара была поражена его прямотой."
@@ -656,7 +656,7 @@ translate ru strings:
     new "Это правда, что Розанна много сделала, чтобы поднять бедных из их положения за последние несколько лет."
 
     old "But the systems of nobility of old still persist. You have done nothing to break that system."
-    new "Но старая система знати всё ещё существует. Вы ничего не сделали, чтобы сломать эту систему."
+    new "Но старая система знати всё ещё существует. Вы ничего не сделали, чтобы разрушить эту систему."
 
     old "Part of Edmond's coup had been the execution of the old ruling family of Elarand."
     new "Частью переворота Эдмонда была казнь старой правящей семьи Эларанда."
@@ -779,7 +779,7 @@ translate ru strings:
     new "Сара упала на кровать."
 
     old "Whatever else could be said about it, the bed was nice and soft."
-    new "Что бы ещё ни говорили, кровать была хорошей и мягкой."
+    new "Что бы ещё ни говорили, кровать была удобной и мягкой."
 
     old "She closed her eyes and processed all that she had heard tonight."
     new "Она закрыла глаза и обдумывала всё, что услышала сегодня."
@@ -800,7 +800,7 @@ translate ru strings:
     new "Но сколько бы она ни узнала, она задавалась вопросом, не узнала ли она лишь то, что они хотели."
 
     old "None of them were fools. If they were, they would never have reached the heights that they had."
-    new "Никто из них не был дураком. Если бы они были, они никогда не достигли бы тех высот, которых достигли."
+    new "Никто из них не был дураком. Иначе они никогда не достигли бы таких высот."
 
     old "She would have to tread careful."
     new "Ей придётся действовать осторожно."

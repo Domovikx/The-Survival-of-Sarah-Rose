@@ -5,13 +5,13 @@
 translate ru strings:
 
     old "As the days came and went, they had made good progress."
-    new "Дни шли, и они добились хорошего прогресса."
+    new "Дни шли, и они добились больших успехов."
 
     old "The rising prosperity of Rosanna had not just brought wealth, it had also brought stability in other areas."
     new "Растущее процветание Розанны принесло не только богатство, но и стабильность в других областях."
 
     old "Banditry, once a not uncommon threat, was now rare, especially near the coast where she now travelled."
-    new "Бандитизм, когда-то нередкая угроза, теперь был редок, особенно у побережья, по которому она сейчас путешествовала."
+    new "Бандитизм, когда-то нередкая угроза, теперь встречался редко, особенно у побережья, по которому она сейчас путешествовала."
 
     old "Of course, a heavily armed caravan like the one she now travelled in was rarely a target for bandits."
     new "Конечно, хорошо вооружённый караван, подобный тому, в котором она сейчас ехала, редко был целью для бандитов."
@@ -173,7 +173,7 @@ translate ru strings:
     new "Остальные солдаты двинулись вперёд."
 
     old "Stop!"
-    new "Стоп!"
+    new "Стоять!"
 
     old "Sarah's voice rang out and all were silenced, their eyes falling on her."
     new "Голос Сары прозвенел, и все замолчали, их взгляды упали на неё."
@@ -242,7 +242,7 @@ translate ru strings:
     new "Оруженосец шагнул вперёд."
 
     old "Forgive the manners of my Master...who do I have the honor of adressing, my Lady?"
-    new "Простите манеры моего Господина... с кем имею честь говорить, моя Леди?"
+    new "Простите за неучтивость моего Господина... с кем имею честь говорить, моя Леди?"
 
     old "Sarah Rose, ruler of Rosanna."
     new "Сара Роуз, правительница Розанны."
@@ -254,7 +254,7 @@ translate ru strings:
     new "Миледи, простите мой жалкий вид."
 
     old "Please, it is alright. Rise and instead tell me your name and tell us why your Master insults us by refusing to speak with us."
-    new "Пожалуйста, всё в порядке. Встаньте и вместо этого назовите мне своё имя и скажите, почему ваш Господин оскорбляет нас, отказываясь говорить."
+    new "Пожалуйста, всё в порядке. Встаньте и вместо этого назовите мне своё имя и скажите, почему ваш Господин оскорбляет нас, отказываясь говорить с нами."
 
     old "The squire looked anxiously towards the knight."
     new "Оруженосец тревожно посмотрел на рыцаря."
@@ -272,7 +272,7 @@ translate ru strings:
     new "Можете ли вы назвать имя вашего Господина? Где он получил рыцарское звание?"
 
     old "Sir Goderic, Knight-Of-The-Fields. I pray forgiveness, for I do not know where or by whom he gained his knighthood."
-    new "Сэр Годерик, Полевой Рыцарь. Прошу прощения, ибо я не знаю, где и от кого он получил рыцарство."
+    new "Сэр Годерик, Полевой Рыцарь. Прошу прощения, ибо я не знаю, где и от кого он получил рыцарское звание."
 
     old "Sarah again studied the knight."
     new "Сара снова изучила рыцаря."
@@ -311,7 +311,7 @@ translate ru strings:
     new "Нож у моего горла, я был почти покойником, моя Леди."
 
     old "But by divine hand, Sir Goderic arrived."
-    new "Но божественной рукой прибыл сэр Годерик."
+    new "Но по воле провидения прибыл сэр Годерик."
 
     old "He alone cut down five men, as though they were nothing but wheat before the scythe."
     new "Он в одиночку сразил пятерых мужчин, словно они были не более чем пшеницей перед косой."
@@ -389,7 +389,7 @@ translate ru strings:
     new "Сара указала на тела."
 
     old "They are dressed little different than farmers. Merchants. Tell me how I know these to be bandits and not victims?"
-    new "Они одеты почти не отличимо от фермеров. Торговцев. Скажите мне, как я узнаю, что это бандиты, а не жертвы?"
+    new "Они одеты почти неотличимо от фермеров. Торговцев. Скажите мне, как я узнаю, что это бандиты, а не жертвы?"
 
     old "Of course, Lady Rose, you need not take my word for it."
     new "Конечно, Леди Роуз, вам не нужно верить мне на слово."
@@ -437,7 +437,7 @@ translate ru strings:
     new "Спасибо за ваше доверие, Леди Роуз."
 
     old "We pray only that you allow us to continue on our quest to rid these provinces of bandits."
-    new "Мы молим лишь о том, чтобы вы позволили нам продолжить наш квест по очищению этих провинций от бандитов."
+    new "Мы молим лишь о том, чтобы вы позволили нам продолжить нашу миссию по очищению этих провинций от бандитов."
 
     old "We will not trouble you a moment more."
     new "Мы не будем больше вас беспокоить."
@@ -461,7 +461,7 @@ translate ru strings:
     new "Я буду молиться за вашу безопасность и успех."
 
     old "The knight's stoic posture was suddenly broken, as wordlessly he bowed down. As much gratitude as a voiceless man could communicate."
-    new "Стоическая поза рыцаря внезапно нарушилась, и он безмолвно поклонился. Столько благодарности, сколько мог передать безголосый человек."
+    new "Стоическая поза рыцаря внезапно нарушилась, и он безмолвно поклонился. Столько благодарности, сколько мог передать немой человек."
 
     old "Sarah returned to her carriage and they went back on their way."
     new "Сара вернулась в карету, и они продолжили путь."
@@ -470,7 +470,7 @@ translate ru strings:
     new "Остаток дня Сара размышляла, что думать обо всём этом происшествии."
 
     old "Having made good progress, Sarah had for a moment imagined her trip to Normandi to be divinely blessed."
-    new "Добившись хорошего прогресса, Сара на мгновение вообразила, что её поездка в Норманди божественно благословлена."
+    new "Добившись хорошего прогресса, Сара на мгновение вообразила, что её поездка в Норманди благословлена небесами."
 
     old "No sooner had the thought crossed her mind when a loud crack announced the breaking of a spoke."
     new "Не успела эта мысль прийти ей в голову, как громкий треск возвестил о поломке спицы."
@@ -482,7 +482,7 @@ translate ru strings:
     new "По стонам своих солдат Сара поняла, что дело не было чрезвычайным."
 
     old "Rather, it would just prove to be a great deal of time and energy that each had hoped to avoid."
-    new "Скорее, это оказалось бы пустой тратой времени и сил, которых каждый надеялся избежать."
+    new "Скорее, это отняло бы уйму времени и сил, которых каждый надеялся избежать."
 
     old "Sarah stepped out from the cart onto the road."
     new "Сара вышла из повозки на дорогу."
@@ -599,7 +599,7 @@ translate ru strings:
     new "Она была поражена благоговением."
 
     old "The thing radiated oldness."
-    new "Эта штука излучала древность."
+    new "Это дерево излучало древность."
 
     old "Not long after she arrived, she heard Lily come up behind her."
     new "Вскоре после того, как она пришла, она услышала, как Лили подошла сзади."
@@ -698,7 +698,7 @@ translate ru strings:
     new "Сара увидела, как руки Лили поднялись."
 
     old "Despite her armored hands, she moved with a surprising delicate grace."
-    new "Несмотря на руки в доспехах, она двигалась с удивительной нежной грацией."
+    new "Несмотря на руки в доспехах, она двигалась с удивительно нежной грацией."
 
     old "Her hands moved near to Sarah's head, and softly planted the flower in her hair."
     new "Её руки приблизились к голове Сары и мягко воткнули цветок в её волосы."
@@ -713,7 +713,7 @@ translate ru strings:
     new "Сара почувствовала, что краснеет, — непривычное ощущение."
 
     old "Sarah felt Lily brush her hair back, her eyes cutting deep into hers."
-    new "Сара почувствовала, как Лили откинула её волосы назад, её глаза впивались в её."
+    new "Сара почувствовала, как Лили откинула её волосы назад, её глаза впивались в глаза Сары."
 
     old "Sarah had spoken her name, but hardly knew what else to say."
     new "Сара произнесла её имя, но едва знала, что ещё сказать."
@@ -728,7 +728,7 @@ translate ru strings:
     new "И безмолвно она почувствовала ответ Лили."
 
     old "Her mouth nearing to hers."
-    new "Её рот приблизился к её."
+    new "Её губы приблизились к губам Сары."
 
     old "Where once had been her breath, now lingered Lily's lips."
     new "Где когда-то было её дыхание, теперь задержались губы Лили."
@@ -740,7 +740,7 @@ translate ru strings:
     new "Прижатая к дереву, она чувствовала, как сильные руки Лили в доспехах обхватили её талию, её шею сзади."
 
     old "With nowhere else to go, this all felt so very easy and so very natural."
-    new "Не имея другого пути, всё это казалось таким лёгким и таким естественным."
+    new "Не имея иного выбора, всё это казалось таким лёгким и таким естественным."
 
     old "As the two lingered in their kiss, the world seemed to fade around them."
     new "Пока они задержались в поцелуе, мир вокруг, казалось, исчез."
@@ -827,13 +827,13 @@ translate ru strings:
     new "Фермеры. Торговцы. С каждой пройденной милей толпы становились всё гуще."
 
     old "Then, as they made their way through the last of the checkpoints, turning around a final bend in the road, the world revealed itself."
-    new "Затем, когда они миновали последние КПП и повернули за последний изгиб дороги, мир открылся."
+    new "Затем, когда они миновали последние заставы и повернули за последний изгиб дороги, мир открылся."
 
     old "Looking out from her window, Sarah saw the great city of Delphine, capital of Normandi."
     new "Выглянув из окна, Сара увидела великий город Дельфин, столицу Норманди."
 
     old "Though she had heard the stories of her father and seen the drawings in her picture book, Sarah still felt her breath stolen from her."
-    new "Хотя она слышала рассказы отца и видела рисунки в своей книжке с картинками, у Сары всё равно перехватило дыхание."
+    new "Хотя она слышала рассказы отца и видела рисунки в своей книге с иллюстрациями, у Сары всё равно перехватило дыхание."
 
     old "Rather than prepare her for the sight, all the stories and drawings had only fallen so very short."
     new "Вместо того чтобы подготовить её к этому зрелищу, все рассказы и рисунки оказались лишь бледной тенью."
@@ -1010,7 +1010,7 @@ translate ru strings:
     new "А сидящей на нём Сара увидела королеву Мейв."
 
     old "Thrones, Sarah had come to learn, had a way of swallowing up most people who sat on them. Making them appear small."
-    new "Троны, как успела узнать Сара, имели свойство поглощать большинство людей, сидящих на них. Делая их маленькими."
+    new "Троны, как успела узнать Сара, имели свойство поглощать большинство людей, сидящих на них, делая их маленькими."
 
     old "A rare few, however, sat effortlessly upon the throne and instead appeared larger."
     new "Однако редкие единицы сидели на троне без усилий и, напротив, казались больше."
@@ -1037,7 +1037,7 @@ translate ru strings:
     new "Только при звуке объявления королева Мейв наконец пришла в движение."
 
     old "Be welcome at my court, Sarah Rose."
-    new "Добро пожаловать ко мне во двор, Сара Роуз."
+    new "Добро пожаловать к моему двору, Сара Роуз."
 
     old "I was most pleased when I received the news of you accepting my invitation to the Union Council."
     new "Я была весьма рада, когда получила известие о том, что вы приняли моё приглашение на Союзный Совет."
@@ -1058,7 +1058,7 @@ translate ru strings:
     new "Крошечная улыбка скользнула по лицу королевы Мейв."
 
     old "Forgive me, I will depart with all the secrecy now that all of you have all gathered here."
-    new "Простите меня, я откажусь от всей этой секретности теперь, когда вы все собрались здесь."
+    new "Простите меня, я расстанусь с этой секретностью теперь, когда вы все собрались здесь."
 
     old "Sarah did her best to keep her face equally free of emotion."
     new "Сара изо всех сил старалась сохранить лицо таким же бесстрастным."

@@ -8,7 +8,7 @@ translate ru strings:
     new "Прошла почти неделя с тех пор, как Сара официально нанялась на работу к капитану Белмонту."
 
     old "The first lesson that Sarah had come to learn about sailing was that for as often as it could be exciting, so too could it be boring."
-    new "Первый урок, который усвоила Сара о плавании, заключался в том, что как часто оно бывает захватывающим, так же часто бывает и скучным."
+    new "Первый урок, который усвоила Сара: плавание может быть не только захватывающим, но и до ужаса скучным."
 
     old "The ship had remained docked in Rahayal ever since they arrived."
     new "Корабль оставался пришвартованным в Рахаяле с самого их прибытия."
@@ -101,7 +101,7 @@ translate ru strings:
     new "Класс рабов просто выполнял указания. С рождения человеку говорили, какова будет его роль, и с юности обучали выполнять его неизбежную функцию."
 
     old "The citizens, on the other hand, were given a larger degree of freedom to shape their own lives."
-    new "Гражданам, с другой стороны, давалась большая степень свободы, чтобы строить свою собственную жизнь."
+    new "Гражданам, с другой стороны, давалось больше свободы строить свою жизнь."
 
     old "A citizen could succeed on his own merit, but unlike a slave, he could also fall into poverty."
     new "Гражданин мог преуспеть благодаря собственным заслугам, но, в отличие от раба, он также мог впасть в нищету."
@@ -266,7 +266,7 @@ translate ru strings:
     new "Сара удивилась."
 
     old "I thought I was your deck hand, captain?"
-    new "Я думала, я ваша палубная матрос, капитан?"
+    new "Я думала, я ваш палубный матрос, капитан?"
 
     old "You are, you'll both be."
     new "Ты и есть, вы оба будете."
@@ -347,7 +347,7 @@ translate ru strings:
     new "Что? Я-нет, я не... то есть, я не пялилась."
 
     old "Daydreaming then? That's a dangerous game to play on a ship."
-    new "Тогда мечтала? Это опасная игра на корабле."
+    new "Замечталась? На корабле это опасно."
 
     old "Sarah laughed, excessively she realized. Get it together, she reminded herself."
     new "Сара засмеялась, чрезмерно, как она поняла. Возьми себя в руки, напомнила она себе."
@@ -413,10 +413,10 @@ translate ru strings:
     new "Но я жил в Летреме, и у меня там не очень складывалось, так что мне нужны были перемены."
 
     old "And I realized I love the ocean, so I figured, why not keep at it."
-    new "И я понял, что люблю океан, так что решил: почему бы не продолжать."
+    new "И я понял, что люблю океан, так что решил: почему бы и нет."
 
     old "Yeah, I can relate to that."
-    new "Да, я понимаю."
+    new "Да, мне это знакомо."
 
     old "I was born in Lethram, but I never really felt like I had a home either. I just kinda drift from port to port, work when I can."
     new "Я родился в Летреме, но тоже никогда не чувствовал, что у меня есть дом. Я просто дрейфую из порта в порт, работаю, когда могу."
@@ -425,7 +425,7 @@ translate ru strings:
     new "Это достаточно легко, но я пока не совсем уверен, куда я направляюсь."
 
     old "Yeah, that sounds familiar too."
-    new "Да, это тоже звучит знакомо."
+    new "Да, мне это тоже знакомо."
 
     old "So why did you decide to sign on with captain Belmont?"
     new "Так почему ты решил наняться к капитану Белмонту?"
@@ -566,7 +566,7 @@ translate ru strings:
     new "Свои отношения с капитаном она научилась принимать. Принимать для себя."
 
     old "And to some degree, it had been easy for her, because whatever had existed between her and Belmont had been a secret."
-    new "И до некоторой степени ей было легко, потому что всё, что было между ней и Белмонтом, оставалось секретом."
+    new "И отчасти ей было легко, потому что всё, что было между ней и Белмонтом, оставалось секретом."
 
     old "Whatever shame she carried from it had always been private, between herself and the captain."
     new "Весь стыд, который она из-за этого испытывала, всегда оставался личным, только между ней и капитаном."
@@ -665,7 +665,7 @@ translate ru strings:
     new "Она подняла на него взгляд."
 
     old "You got a real attitude on ya today, blondie."
-    new "У тебя сегодня настоящее настроение, блондинка."
+    new "А ты сегодня с характером, блондинка."
 
     old "Watching Belmont, she couldn't help but look at his massive member, glistening even in the dark."
     new "Глядя на Белмонта, она не могла не смотреть на его массивный орган, поблёскивающий даже в темноте."
@@ -1064,7 +1064,7 @@ translate ru strings:
     new "Вонзая свой твёрдый член в неё глубокими длинными толчками, Сара чувствовала, как накатывает удовольствие."
 
     old "Hold back"
-    new "Сдерживаться."
+    new "Сдерживайся."
 
     old "Only a moment of clarity saved her."
     new "Только мгновение ясности спасло её."
@@ -1082,7 +1082,7 @@ translate ru strings:
     new "Но она держалась крепко, кусая губу ещё сильнее, даже если пришлось бы пустить кровь, она не закричит для него."
 
     old "She felt her breath hang in her throat, holding down all sounds of her pleasure."
-    new "Она чувствовала, как дыхание застряло в горле, сдерживая все звуки удовольствия."
+    new "Она чувствовала, как дыхание замерло в горле, сдерживая все звуки удовольствия."
 
     old "Only a soft few moans slipped from her lips, soft enough that only the captain could hear."
     new "Лишь несколько тихих стонов сорвалось с её губ, достаточно тихих, чтобы услышал только капитан."
@@ -1130,7 +1130,7 @@ translate ru strings:
     new "И всё же Сара знала, что должна быть осторожна."
 
     old "She had resisted him by staying quiet, she could not resist the captain too much. She still relied on him for work, shelter, a chance to learn how to sail the world."
-    new "Она сопротивлялась ему, оставаясь тихой, но не могла сопротивляться слишком сильно. Она всё ещё зависела от него в работе, крове, возможности научиться бороздить мир."
+    new "Она сопротивлялась ему, оставаясь тихой, но не могла противиться капитану слишком сильно. Она всё ещё зависела от него в работе, крове, возможности научиться бороздить мир."
 
     old "And so she gave him what she so often denied him instead, kissing him with passion."
     new "И поэтому она дала ему то, в чём так часто отказывала — поцеловала его со страстью."
@@ -1148,7 +1148,7 @@ translate ru strings:
     new "Сара чувствовала знакомое ощущение его спермы, наполняющей её."
 
     old "He had claimed her, same as he had done most every night. Marked his territory."
-    new "Он заявил на неё права, как делал почти каждую ночь. Пометка территории."
+    new "Он заявил на неё права, как делал почти каждую ночь. Метка территории."
 
     old "She had given her body to him, even kissing him back."
     new "Она отдала ему своё тело, даже отвечая на поцелуй."

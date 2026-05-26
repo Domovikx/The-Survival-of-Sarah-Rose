@@ -59,7 +59,7 @@ translate ru strings:
     new "Кейт быстро ответила."
 
     old "It was made, in full."
-    new "Она была произведена, в полном объёме."
+    new "Мы заплатили сполна."
 
     old "Captain Belmont shook his head."
     new "Капитан Белмонт покачал головой."
@@ -107,7 +107,7 @@ translate ru strings:
     new "Просто, плата за вторую половину...любым доступным вам способом."
 
     old "Hand over some of Sarah's jewelry."
-    new "Отдай часть драгоценностей Сары."
+    new "Отдать часть драгоценностей Сары."
 
     old "Sarah reaches into her bag, pulling out a few pieces of her jewelry."
     new "Сара залезает в сумку и достаёт несколько украшений."
@@ -329,7 +329,7 @@ translate ru strings:
     new "Женщины сходят с корабля, благодаря капитана Белмонта на прощание."
 
     old "Lie, say you don't have money"
-    new "Соври, что денег нет"
+    new "Соврать, что денег нет"
 
     old "We don't have any money on us, we can't pay you."
     new "У нас при себе нет денег, мы не можем заплатить."
@@ -557,7 +557,7 @@ translate ru strings:
     new "Свободной рукой он начинает яростно поглаживать свой член."
 
     old "Wih their heads pulled back, both Sarah and Kate unknowingly leave their mouths hanging open."
-    new "С запрокинутыми головами обе — Сара и Кейт — невольно оставляют рты открытыми."
+    new "С запрокинутыми головами Сара и Кейт невольно приоткрыли рты."
 
     old "Captain Belmont lets out a loud roar and whips his cock from left to right."
     new "Капитан Белмонт издаёт громкий рёв и хлещет членом из стороны в сторону."

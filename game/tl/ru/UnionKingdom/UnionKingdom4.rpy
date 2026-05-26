@@ -98,7 +98,7 @@ translate ru strings:
     new "Я знаю, что ответов не будет, но кажется... я представляю, что он слышит меня."
 
     old "If that makes me sound crazy-"
-    new "Если это заставляет меня звучать безумно-"
+    new "Если это звучит безумно-"
 
     old "Not at all."
     new "Нисколько."
@@ -203,7 +203,7 @@ translate ru strings:
     new "Но в конце концов, были и те, кто восстал, потому что их фермы пришли в упадок, а дети голодали."
 
     old "I killed them all the same."
-    new "Я убил их всех одинаково."
+    new "Я убил их всех, без разбора."
 
     old "Sarah could see it pained him to even speak of it."
     new "Сара видела, что ему больно даже говорить об этом."
@@ -215,7 +215,7 @@ translate ru strings:
     new "И я не жалею об этом."
 
     old "But...sometimes the things we do, even if we don't regret them...they still seem to cling to us."
-    new "Но... иногда то, что мы делаем, даже если мы не жалеем... всё равно цепляется к нам."
+    new "Но... иногда то, что мы делаем, даже если мы не жалеем... всё равно цепляется за нас."
 
     old "Sarah reached over and touched his arm."
     new "Сара протянула руку и коснулась его плеча."
@@ -287,7 +287,7 @@ translate ru strings:
     new "Я не хочу оскорбить тебя, Варга."
 
     old "There are few in this world that I would put above you in military skill, or even simply as a warrior in your own right."
-    new "Мало кого в этом мире я поставила бы выше тебя в военном искусстве или даже просто как воина самого по себе."
+    new "Мало кого в этом мире я поставила бы выше тебя в военном искусстве или даже просто как воина."
 
     old "But what of it?"
     new "Но что с того?"
@@ -323,10 +323,10 @@ translate ru strings:
     new "Отомстить за меня. Привести мою армию и снести каждый кирпич и камень её страны."
 
     old "You make sport of it. Do you not fear death? Imprisonment?"
-    new "Ты шутишь об этом. Ты не боишься смерти? Заключения?"
+    new "Ты обращаешь это в шутку. Ты не боишься смерти? Заключения?"
 
     old "I fear it only in healthy amounts. Fear it too much, and the fear becomes worse than the fate."
-    new "Я боюсь этого только в здоровой степени. Если бояться слишком сильно, страх станет хуже самой участи."
+    new "Я боюсь ровно настолько, сколько нужно. Если бояться слишком сильно, страх станет хуже самой участи."
 
     old "Varag shook his head."
     new "Варга покачал головой."
@@ -395,7 +395,7 @@ translate ru strings:
     new "Стонала его имя, когда он согнул её и взял."
 
     old "Whispered his name in worship as she rode on top of him."
-    new "Шептала его имя в поклонении, оседлав его."
+    new "Шептала его имя, поклоняясь ему, оседлав его."
 
     old "All the time, he never tired and all the time she could see his eyes filled with his desire for her."
     new "Всё время он не уставал, и всё время она видела его глаза, полные желания к ней."
@@ -425,7 +425,7 @@ translate ru strings:
     new "А были ночи, подобные этой, когда она жаждала, чтобы он уничтожил каждую часть её."
 
     old "To wreck every limb in her body with pleasure."
-    new "Чтобы разрушить каждый член её тела удовольствием."
+    new "Чтобы истерзать каждую частицу её тела удовольствием."
 
     old "Times to be wanted as a wife. Times to be wanted as a woman."
     new "Времена, когда её хотели как жену. Времена, когда её хотели как женщину."
@@ -437,7 +437,7 @@ translate ru strings:
     new "Любовь мужа и желание мужчины."
 
     old "And though the stories of old had told her that these things existed in contrast to one another, she now saw they instead both existed in him."
-    new "И хотя старые истории говорили ей, что эти вещи существуют в противопоставлении друг другу, теперь она видела, что они оба существовали в нём."
+    new "И хотя старые истории говорили ей, что эти вещи существуют в противопоставлении друг другу, теперь она видела, что они обе существовали в нём."
 
     old "He was a husband who loved her, as well as a man who desired her for her body."
     new "Он был мужем, который любил её, а также мужчиной, который желал её тела."
@@ -464,7 +464,7 @@ translate ru strings:
     new "Я тоже люблю тебя..."
 
     old "His words were equally strained from the exhaustion."
-    new "Его слова были так же напряжены от изнеможения."
+    new "Его слова тоже звучали напряжённо от усталости."
 
     old "Sarah cried out as she came once again, partly from his efforts and partly from his words."
     new "Сара вскрикнула, кончая снова, отчасти от его усилий, отчасти от его слов."
@@ -704,7 +704,7 @@ translate ru strings:
     new "Они шли по пустому коридору, пока Лили ярко пересказывала Саре историю, с жестами ударов и всем прочим."
 
     old "Sarah laughed, happy for the distraction."
-    new "Сара смеялась, радуясь отвлечению."
+    new "Сара смеялась, радуясь возможности отвлечься."
 
     old "The night had drawn deep."
     new "Ночь сгустилась."
@@ -830,7 +830,7 @@ translate ru strings:
     new "Сара не могла не сравнивать своё тело с телом леди Кэролин."
 
     old "Carolyn's body was that of a woman, and compared to that, Sarah always felt lesser."
-    new "Тело Кэролин было телом женщины, и по сравнению с ним Сара всегда чувствовала себя ниже."
+    new "Тело Кэролин было телом женщины, и по сравнению с ним Сара всегда чувствовала себя неполноценной."
 
     old "She undid the last of the straps and removed her underwear."
     new "Она расстегнула последние застёжки и сняла бельё."
@@ -1007,7 +1007,7 @@ translate ru strings:
     new "Сара двигала нижней частью тела, умоляя о большем, но леди Кэролин отказывала ей, сохраняя свой терпеливый темп."
 
     old "I'll keep you safe."
-    new "Я сохраню тебя в безопасности."
+    new "Я защищу тебя."
 
     old "I will teach you what to say and what to do. Would you like that?"
     new "Я научу тебя, что говорить и что делать. Хочешь этого?"
@@ -1148,7 +1148,7 @@ translate ru strings:
     new "Так было всегда с ней, Сара знала."
 
     old "First there was her embarassement. Her play at vanity."
-    new "Сначала было её смущение. Её притворное тщеславие."
+    new "Сначала было её смущение. Притворное тщеславие."
 
     old "But whenever Lady Carolyn seized on her body, the pleasure would drive out all other emotions and considerations."
     new "Но когда бы леди Кэролин ни овладевала её телом, удовольствие вытесняло все остальные эмоции и мысли."

@@ -35,7 +35,7 @@ translate ru strings:
     new "Вижу, они почти готовы."
 
     old "Stating facts rather than emotion. She loved his grounded emotions, almost as much as she hated it."
-    new "Констатирует факты, а не эмоции. Она любила его приземлённые эмоции почти так же сильно, как ненавидела это."
+    new "Он констатирует факты, а не эмоции. Она любила его приземлённые эмоции почти так же сильно, как ненавидела это."
 
     old "Yes, it won't be long now before the captain of the guard declares we are ready."
     new "Да, теперь уже недолго до того, как капитан стражи объявит, что мы готовы."
@@ -65,13 +65,13 @@ translate ru strings:
     new "Сара видела, как Мириам, её дочь, начала всхлипывать."
 
     old "Ooh, hey, don't cry. Come here."
-    new "Ой, эй, не плачь. Иди сюда."
+    new "Ой, не плачь. Иди сюда."
 
     old "Sarah opened her arms and Miriam jumped into the embrace."
     new "Сара раскрыла объятия, и Мириам прыгнула в них."
 
     old "Orwen, her son, older by a few years than his sister and pretending to be stronger than he was, held back for a moment."
-    new "Орвен, её сын, на несколько лет старше сестры и притворяющийся сильнее, чем был, сдерживался мгновение."
+    new "Орвен, её сын, на несколько лет старше сестры и притворяющийся сильнее, чем был, мгновение колебался."
 
     old "You too, Orwen, come here."
     new "Ты тоже, Орвен, иди сюда."
@@ -89,7 +89,7 @@ translate ru strings:
     new "Со временем они к этому привыкли."
 
     old "But their mother leaving was a new fact, and like all new things, the children were quickly uneased by them."
-    new "Но отъезд матери был новым фактом, и, как и всё новое, дети быстро забеспокоились."
+    new "Но отъезд матери был чем-то небывалым, и, как и всё новое, дети быстро забеспокоились."
 
     old "Slowly, the sobbing quieted and Sarah released them both from her arms."
     new "Медленно всхлипывания затихли, и Сара отпустила их обоих."
@@ -110,7 +110,7 @@ translate ru strings:
     new "Нет, я просто навещу мою подругу, королеву Мейв. Мы поговорим, и потом я снова буду дома."
 
     old "Talk about what?"
-    new "О чём поговорить?"
+    new "А о чём?"
 
     old "Grown-up things, very boring. You want me to tell you?"
     new "О взрослых вещах, очень скучно. Хотите, я расскажу?"
@@ -143,7 +143,7 @@ translate ru strings:
     new "Ты всегда доставляешь хлопоты."
 
     old "Sarah watched as Orwen jumped up and grabbed for his father, who quickly pulled him into a wrestling match that the boy had no chance of winning."
-    new "Сара смотрела, как Орвен вскочил и схватился за отца, который быстро втянул его в борцовский поединок, в котором у мальчика не было шансов выиграть."
+    new "Сара смотрела, как Орвен вскочил и схватился за отца, который быстро втянул его в борьбу, в которой у мальчика не было шансов победить."
 
     old "Watching like this, she saw her family and all she left behind."
     new "Наблюдая так, она видела свою семью и всё, что оставляла позади."
@@ -152,7 +152,7 @@ translate ru strings:
     new "Сильнее, чем когда-либо, Сара желала благополучно вернуться домой."
 
     old "As Varga dropped Orwen back down and held Miriam aside, the two had the briefest moment of privacy."
-    new "Когда Варга опустил Орвена и отвёл Мириам в сторону, у них было кратчайшее мгновение уединения."
+    new "Когда Варга опустил Орвена и отвёл Мириам в сторону, у них была короткая минута уединения."
 
     old "Promise me you won't do anything risky."
     new "Обещай мне, что не сделаешь ничего рискованного."
@@ -305,7 +305,7 @@ translate ru strings:
     new "О чём ты говоришь?"
 
     old "I've had to pick you off the library floor more than a few times."
-    new "Мне приходилось поднимать тебя с пола библиотеки больше пары раз."
+    new "Мне приходилось поднимать тебя с пола библиотеки уже не раз."
 
     old "Oh, that..."
     new "Ах, это..."
@@ -389,10 +389,10 @@ translate ru strings:
     new "Оглядывая стены замка Рейнмир, она пыталась всё запомнить."
 
     old "This place had been the center of her life for so many years now..."
-    new "Это место было центром её жизни так много лет..."
+    new "Это место было центром её жизни уже так много лет..."
 
     old "Leaving it felt almost alien, especially considering how many people she left behind."
-    new "Покидать его казалось почти чуждым, особенно учитывая, сколько людей она оставляла."
+    new "Покидать его казалось почти непривычным, особенно учитывая, сколько людей она оставляла."
 
     old "But they would wait for her."
     new "Но они будут ждать её."
@@ -401,7 +401,7 @@ translate ru strings:
     new "И она будет ждать часа своего возвращения, чтобы увидеть их всех снова."
 
     old "She committed herself to the thought, as if to will it into reality."
-    new "Она погрузилась в эту мысль, словно пытаясь воплотить её в реальность."
+    new "Она погрузилась в эту мысль, словно пытаясь заставить её сбыться."
 
     old "Sarah saw Lily walk up to her."
     new "Сара увидела, как Лили подходит к ней."
@@ -428,7 +428,7 @@ translate ru strings:
     new "Я просто выполняю свою клятву..."
 
     old "Ah, the unquestionable honor of Lily Hightower, fear those who might besmirch it."
-    new "Ах, бесспорная честь Лили Хайтауэр, бойтесь тех, кто может её запятнать."
+    new "Ах, бесспорная честь Лили Хайтауэр, бойся тех, кто может её запятнать."
 
     old "Hey, if you're gonna act like a-"
     new "Эй, если ты собираешься вести себя как —"
@@ -557,5 +557,5 @@ translate ru strings:
     new "От замка к городу, к городским воротам, а затем на открытую дорогу."
 
     old "Sarah watched the world transform as she was carried off towards an uncertain place."
-    new "Сара смотрела, как мир преображается, пока её несли в неопределённое место."
+    new "Сара смотрела, как мир преображается, пока её несли в неизвестность."
 

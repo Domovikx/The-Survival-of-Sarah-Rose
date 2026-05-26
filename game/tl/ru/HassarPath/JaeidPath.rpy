@@ -23,7 +23,7 @@ translate ru strings:
     new "Сара почувствовала, как в глазах защипало от слёз."
 
     old "She had trusted him, and instead, she had now been given to him as some prized livestock, his slave."
-    new "Она доверилась ему, а вместо этого её отдали ему, как ценный скот, как рабыню."
+    new "Она доверилась ему, а вместо этого её отдали ему, как ценный скот, как его рабыню."
 
     old "You just wanted to claim me?"
     new "Ты просто хотел заявить на меня права?"
@@ -149,7 +149,7 @@ translate ru strings:
     new "Он взял её за руку."
 
     old "Sarah noticed that fact. It was an odd thing to notice."
-    new "Сара заметила это. Странная деталь, чтобы её замечать."
+    new "Сара заметила это. Странно, что она заметила именно это."
 
     old "He grabbed her hand, rather than as he had done before, her wrists."
     new "Он взял её за руку, а не за запястья, как прежде."

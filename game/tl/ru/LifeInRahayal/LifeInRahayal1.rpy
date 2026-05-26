@@ -56,7 +56,7 @@ translate ru strings:
     new "Повсюду толпы людей суетились, спеша в разные стороны."
 
     old "Shops near the edges of the square were alive with commerce, people rushing in and out, carts full of goods flowing from one end to the other."
-    new "Лавки по краям площади бурлили торговлей, люди вбегали и выбегали, телеги с товарами текли от одного конца к другому."
+    new "Лавки по краям площади бурлили торговлей, люди вбегали и выбегали, телеги с товарами катились от одного конца к другому."
 
     old "The more Sarah looked at it, the more it felt to her like the ant colonies she'd go look for in the summer with Thomas."
     new "Чем больше Сара смотрела на это, тем больше это напоминало ей муравьиные колонии, которые они с Томасом искали летом."
@@ -86,7 +86,7 @@ translate ru strings:
     new "Подняв голову, она увидела чёрную сторону массивной пирамиды."
 
     old "It was strange how the enormous thing seemed to exist in the background of the city."
-    new "Было странно, как эта огромная штука, казалось, существовала на заднем плане города."
+    new "Было странно, как эта огромная махина, казалось, существовала на заднем плане города."
 
     old "Nobody seemed to pay it much mind."
     new "Никто, казалось, не обращал на неё особого внимания."
@@ -98,7 +98,7 @@ translate ru strings:
     new "Дело в её размерах, заключила она."
 
     old "The black pyramid loomed so large over the city, that it was impossible to even really look at the entire thing."
-    new "Чёрная пирамида нависала над городом так огромно, что невозможно было даже по-настоящему взглянуть на неё целиком."
+    new "Чёрная пирамида нависала над городом такая огромная, что невозможно было даже по-настоящему взглянуть на неё целиком."
 
     old "Anywhere she looked, she could only really look at parts of it, making the whole of the pyramid somehow hard to grasp."
     new "Куда бы она ни посмотрела, она могла видеть лишь её части, из-за чего целое пирамиды было трудно охватить."
@@ -362,7 +362,7 @@ translate ru strings:
     new "Держать красивую леди рядом полезно для бизнеса."
 
     old "Sarah felt herself blush again. Though the man was far from ideal, he liked to play the charmer."
-    new "Сара снова почувствовала, что краснеет. Хотя мужчина был далёк от идеала, он любил играть роль обольстителя."
+    new "Сара снова почувствовала, что краснеет. Хотя мужчина был далёк от идеала, он любил строить из себя обольстителя."
 
     old "This was still somewhat new to Sarah. Back in Rosanna, flirting with a member of the Royal family was not permitted."
     new "Это было ещё в новинку для Сары. В Розанне флиртовать с членом королевской семьи было не позволено."
@@ -413,7 +413,7 @@ translate ru strings:
     new "Это не доброта, юная леди."
 
     old "Anybody that takes a bit from that stew is hooked."
-    new "Любой, кто попробует это тушёное мясо, подсаживается."
+    new "Любой, кто попробует это тушёное мясо, подсаживается на него."
 
     old "Sarah watched as Ramsey walked away."
     new "Сара смотрела, как Рэмзи уходит."
@@ -488,7 +488,7 @@ translate ru strings:
     new "Джейкоб, молодой человек, который, как она предположила, был примерно её возраста, имел крепкое телосложение с широкими плечами."
 
     old "A lifetime of working in his father's Inn had hardend his body in an appealing way."
-    new "Вся жизнь работы в отцовской гостинице закалила его тело привлекательным образом."
+    new "Вся жизнь работы в отцовской гостинице привлекательно закалила его тело."
 
     old "Everything about him suggested to Sarah that he was one of those boys who went through life, smiling and confident."
     new "Всё в нём говорило Саре, что он был одним из тех парней, которые идут по жизни с улыбкой и уверенностью."
@@ -524,7 +524,7 @@ translate ru strings:
     new "Всё в её жизни всегда принадлежало ей по праву рождения."
 
     old "This room...temporary as it was, had been one of the few things she'd achieved all on her own."
-    new "Эта комната... временная, как она ни была, стала одной из немногих вещей, которых она добилась сама."
+    new "Эта комната... хоть и временная, стала одной из немногих вещей, которых она добилась сама."
 
     old "Sarah fell onto the soft bed and closed her eyes."
     new "Сара упала на мягкую кровать и закрыла глаза."

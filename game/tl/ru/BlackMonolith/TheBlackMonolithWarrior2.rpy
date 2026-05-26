@@ -146,7 +146,7 @@ translate ru strings:
     new "Возможно. Я никогда не знал другой жизни, и поэтому, возможно, я не могу завидовать свободе, которой у меня никогда и не было."
 
     old "In Mythra, the nature of slavery is also not as crude as most parts of the world."
-    new "В Митра природа рабства не так груба, как в большинстве частей света."
+    new "В Митре природа рабства не так груба, как в большинстве частей света."
 
     old "One can carve out a space for themselves, to a degree."
     new "Можно отвоевать себе место, до некоторой степени."
@@ -443,7 +443,7 @@ translate ru strings:
     new "Она проводила свои замыслы так, что это казалось естественным и уместным, тогда как другие часто выглядели грубыми и жадными."
 
     old "She managed all this as a woman, in Rosannan society, which heavily favored men for those types of positions of power."
-    new "И всё это ей удавалось как женщине в розаннском обществе, которое сильно предпочитало мужчин на таких должностях."
+    new "И всё это ей удавалось как женщине в розаннском обществе, которое отдавало явное предпочтение мужчинам на таких должностях."
 
     old "Of course, Sarah realized."
     new "Конечно, поняла Сара."
@@ -629,7 +629,7 @@ translate ru strings:
     new "Короткую встречу с командиром наёмников я могу объяснить, а часовую — нет."
 
     old "We must be careful. The soldiers here are loyal to me, but they are more loyal to Mythra. They will report back what they see."
-    new "Мы должны быть осторожны. Солдаты здесь верны мне, но они более верны Митра. Они сообщат о том, что увидят."
+    new "Мы должны быть осторожны. Солдаты здесь верны мне, но они более верны Митре. Они сообщат о том, что увидят."
 
     old "I understand, we must be discreet, but I require my answers."
     new "Я понимаю, мы должны быть осмотрительны, но мне нужны ответы."
@@ -677,7 +677,7 @@ translate ru strings:
     new "Выйдя обратно в жару пустыни, Сара подняла руку, чтобы заслониться от солнца."
 
     old "Even out here, people seemed to play at their own games, and she only appeared caught in the current of their schemes."
-    new "Даже здесь люди, казалось, играли в свои игры, а она лишь оказывалась пойманной в поток их интриг."
+    new "Даже здесь люди, казалось, играли в свои игры, а она лишь оказывалась втянутой в поток их интриг."
 
     old "As she walked back out towards the square, Sarah tried to distract herself."
     new "Возвращаясь на площадь, Сара попыталась отвлечься."
@@ -893,7 +893,7 @@ translate ru strings:
     new "Может, это просто моё обычное лицо."
 
     old "That it might just be. Still, you should be celebrating."
-    new "Может и так. И всё же тебе стоит праздновать."
+    new "Может, и так. И всё же тебе стоит праздновать."
 
     old "He gestured towards the room full of men."
     new "Он указал на комнату, полную мужчин."
@@ -1013,7 +1013,7 @@ translate ru strings:
     new "Гидеон указал через комнату, где стоял Ваэлен, весело беседуя с митранским командиром."
 
     old "I know, but I mean, have you seen him before tonight?"
-    new "Я знаю, но я имею в виду, ты видел его до сегодняшнего вечера?"
+    new "Я знаю, но я имею в виду, ты видела его до сегодняшнего вечера?"
 
     old "Can't say I've seen to much of him. Nobody has."
     new "Не скажу, что видел его много. Никто не видел."
@@ -1169,7 +1169,7 @@ translate ru strings:
     new "Сара смотрела, как леди Кэролайн повернула голову, оглядывая толпу. Все, казалось, были заняты."
 
     old "Would you like to continue our conversation, or shall we exchange some more insults?"
-    new "Хочешь продолжить разговор или обменяемся ещё парой оскорблений?"
+    new "Хочешь продолжить разговор, или обменяемся ещё парой оскорблений?"
 
     old "For a moment, Sarah considered the latter."
     new "На мгновение Сара подумала о втором."
@@ -1247,7 +1247,7 @@ translate ru strings:
     new "Я не говорила, что вижу. Если ты привела меня так далеко, думая, что сможешь сделать из меня марионетку, ты сильно ошибаешься."
 
     old "Sarah saw Carolyn's face grow defensive."
-    new "Сара увидела, как лицо Кэролайн стало оборонительным."
+    new "Сара увидела, как лицо Кэролайн напряглось."
 
     old "No, princess Sarah, I never meant it as such."
     new "Нет, принцесса Сара, я не это имела в виду."
@@ -1304,7 +1304,7 @@ translate ru strings:
     new "И он предложил тебе один из своих легионов для этого."
 
     old "Sarah saw Lady Carolyn's mouth slightly curl, a predator that had set its trap and now awaited the prey."
-    new "Сара увидела, как губы леди Кэролайн слегка изогнулись — хищник, расставивший ловушку и теперь ожидающий добычу."
+    new "Сара увидела, как губы леди Кэролайн слегка изогнулись — хищник, расставивший ловушку и теперь ожидающий добычи."
 
     old "Why me?"
     new "Почему я?"
@@ -1568,7 +1568,7 @@ translate ru strings:
     new "Сара посмотрела на Ваэлена через комнату. Она подумывала спросить леди Кэролайн о её мнении о нём."
 
     old "Then she thought better of it."
-    new "Зато передумала."
+    new "Затем передумала."
 
     old "Lady Carolyn was, if anything, perceptive. If she asked her, that alone would give her a hint that Sarah herself had concerns."
     new "Леди Кэролайн была, по крайней мере, проницательна. Если бы она спросила, это уже дало бы ей понять, что у самой Сары есть опасения."
@@ -1604,7 +1604,7 @@ translate ru strings:
     new "К чему все эти шпионские игры?"
 
     old "Not everyone in Mythra shares Gilead's belief that Rosanna is important."
-    new "Не все в Митра разделяют убеждение Гилеада, что Розанна важна."
+    new "Не все в Митре разделяют убеждение Гилеада, что Розанна важна."
 
     old "There are those in the city that would prefer the legions of Mythra not be wasted on what they believe are, pardon the word, backwaters."
     new "В городе есть те, кто предпочёл бы, чтобы легионы Митры не тратили на то, что они считают, простите за слово, захолустьем."
@@ -1715,7 +1715,7 @@ translate ru strings:
     new "Двор. Знать. Улыбающиеся лица."
 
     old "This was the life she had been raised for, and as much as she disliked it, it had been imprinted on her."
-    new "Это была жизнь, для которой её растили, и как бы она ни не любила её, это было впечатано в неё."
+    new "Это была жизнь, для которой её растили, и как бы ей это ни не нравилось, это было впечатано в неё."
 
     old "And now, it came back to her like muscle memory."
     new "И теперь это возвращалось к ней, как мышечная память."

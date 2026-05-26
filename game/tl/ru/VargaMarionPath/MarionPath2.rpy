@@ -23,7 +23,7 @@ translate ru strings:
     new "Сара увидела море голов, поворачивающихся, все смотрели на неё."
 
     old "She had been no stranger to being the center of attention, but this was nearly too much, even for her."
-    new "Она не привыкла быть в центре внимания, но это было почти слишком даже для неё."
+    new "Ей было не привыкать быть в центре внимания, но это было почти слишком даже для неё."
 
     old "Slowly, the musicians transitioned from the music announcing her arrival, to the song of her family."
     new "Медленно музыканты перешли от музыки, возвещающей её прибытие, к песне её семьи."
@@ -77,7 +77,7 @@ translate ru strings:
     new "Как и сам мужчина — ни волоска, ни ниточки не на месте."
 
     old "Just as she radiated the essence of a Rossanian bride, so did he the groom."
-    new "Как она излучала суть россанской невесты, так и он — жениха."
+    new "Как она излучала суть розаннской невесты, так и он — жениха."
 
     old "Two perfect players, in this perfect performance."
     new "Два идеальных игрока в этом идеальном представлении."
@@ -104,7 +104,7 @@ translate ru strings:
     new "Словно она обнаружила мельчайший изъян в чём-то иначе безупречном."
 
     old "And that for its otherwise flawless nature, the singular flaw, was made so much worse."
-    new "И из-за его безупречной природы единственный недостаток становился настолько хуже."
+    new "И из-за его безупречности единственный недостаток становился ещё невыносимее."
 
     old "Impossible to ignore."
     new "Невозможно игнорировать."
@@ -116,13 +116,13 @@ translate ru strings:
     new "Что всё это без любви?"
 
     old "Did he hold these same doubts as her, she wondered."
-    new "Испытывал ли он те же сомнения, что и она, интересно."
+    new "Интересно, испытывал ли он те же сомнения, что и она."
 
     old "He showed not a hint of it, but then again, neither did she show her own struggles."
     new "Он не выказывал ни намёка на это, но, с другой стороны, и она не показывала своей борьбы."
 
     old "Were they two fools, each stumbling into something?"
-    new "Были ли они двумя глупцами, каждый из которых вляпывался во что-то?"
+    new "Были ли они двумя глупцами, каждый из которых впутывался во что-то?"
 
     old "Sarah sighed and composed herself."
     new "Сара вздохнула и взяла себя в руки."
@@ -377,7 +377,7 @@ translate ru strings:
     new "Наш брак ознаменует новое время в жизни каждого из нас."
 
     old "We cannot keep playing at childishness."
-    new "Мы не можем продолжать играть в детство."
+    new "Мы не можем продолжать ребячиться."
 
     old "I mean that we must be proper in our conduct, as well as our appearance."
     new "Я имею в виду, что мы должны быть подобающими в поведении, как и во внешности."
@@ -491,7 +491,7 @@ translate ru strings:
     new "Не волнуйся, у меня достаточно опыта на нас двоих."
 
     old "Such it was in Rosanna as well."
-    new "Так было и в Росанне."
+    new "Так было и в Розанне."
 
     old "Chastity was demanded of both men and women, but what was for women a divine commandment, seemed for men more a divine suggestion."
     new "Целомудрие требовалось и от мужчин, и от женщин, но то, что для женщин было божественной заповедью, для мужчин казалось скорее божественной рекомендацией."
@@ -1103,7 +1103,7 @@ translate ru strings:
     new "В его словах была доля истины."
 
     old "Should she publicly go against him, most in Rosanna would see it as weakness on his part, as well as a weakness in their marriage."
-    new "Если она выступит против него публично, большинство в Росанне сочтут это слабостью с его стороны и слабостью их брака."
+    new "Если она выступит против него публично, большинство в Розанне сочтут это слабостью с его стороны и слабостью их брака."
 
     old "I understand...but I have a mind of my own. I owe my brother the best council I can give him."
     new "Я понимаю... но у меня есть собственное мнение. Я должна брату лучший совет, который могу дать."
@@ -1214,7 +1214,7 @@ translate ru strings:
     new "Марион всегда быстро приспосабливался к новым реалиям."
 
     old "Soon after, both Lady Carolyn and Spymaster Kravel arrived."
-    new "Вскоре прибыли и леди Кэролайн, и шпионмейстер Крэвел."
+    new "Вскоре прибыли и леди Кэролайн, и мастер шпионов Крэвел."
 
     old "Taking their seats, the council session was called."
     new "Заняв свои места, они начали заседание совета."
@@ -1238,7 +1238,7 @@ translate ru strings:
     new "Растущая уверенность в себе."
 
     old "Spymaster Kravel...could you speak more to it?"
-    new "Шпионмейстер Крэвел... не могли бы вы рассказать подробнее?"
+    new "Мастер шпионов Крэвел... не могли бы вы рассказать подробнее?"
 
     old "Kravel nodded and held up the original letter."
     new "Крэвел кивнул и поднял оригинал письма."
@@ -1775,7 +1775,7 @@ translate ru strings:
     new "Крэвел сказал-"
 
     old "I could give a fuck what that old Spymaster has to say."
-    new "Мне плевать, что скажет этот старый шпионмейстер."
+    new "Мне плевать, что скажет этот старый мастер шпионов."
 
     old "Gods only knows who he really serves."
     new "Одним Богам известно, кому он на самом деле служит."
@@ -1982,7 +1982,7 @@ translate ru strings:
     new "Большую часть жизни Сару прилежно учили скрывать блуждающий взгляд или мысли."
 
     old "A woman in Rosanna was expected to be chaste, and a Princess doubly so."
-    new "Женщина в Росанне должна была быть целомудренной, а Принцесса — вдвойне."
+    new "Женщина в Розанне должна была быть целомудренной, а Принцесса — вдвойне."
 
     old "It was still hard for Sarah to adapt to the fact that now, all these rules seemed to fall away."
     new "Саре всё ещё было трудно привыкнуть к тому, что теперь все эти правила, казалось, отпали."
@@ -2249,7 +2249,7 @@ translate ru strings:
     new "Она могла высказывать своё мнение на публике, у неё было это право, но у мужа тоже были права."
 
     old "And in Rosanna, there was none who thought otherwise."
-    new "И в Росанне никто не думал иначе."
+    new "И в Розанне никто не думал иначе."
 
     old "Sarah began to undress herself."
     new "Сара начала раздеваться."

@@ -50,7 +50,7 @@ translate ru strings:
     new "Они слетели с её губ почти беззвучно, но в её сознании их смысл кричал и ревел, когда она впечатывала свою волю в магические энергии."
 
     old "By her will alone, she crushed, broke, reshaped and forged the magical energies into the shape that she needed...demanded."
-    new "Одной лишь своей волей она сокрушала, ломала, перекраивала и ковала магические энергии в ту форму, которая была ей нужна...которую она требовала."
+    new "Одной лишь своей волей она сокрушала, ломала, перекраивала и ковала магические энергии в ту форму, которая была ей нужна...на которой она настаивала."
 
     old "As wind to a hurricane. As water to a tsunami. As a spark to a blaze."
     new "Как ветер для урагана. Как вода для цунами. Как искра для пламени."
@@ -248,7 +248,7 @@ translate ru strings:
     new "Если они позволят, ты будешь принята в наш орден как маг первой башни."
 
     old "From there, you will continue your studies. Every few years you will advance, if you learn enough, to the ranks tower."
-    new "Оттуда ты продолжишь обучение. Каждые несколько лет ты будешь повышаться, если научишься достаточно, до следующего ранга башни."
+    new "Оттуда ты продолжишь обучение. Каждые несколько лет ты будешь повышаться, если научишься достаточно, до следующего башенного ранга."
 
     old "When you're a mage of the fifth tower, you will be allowed to take on an apprentice."
     new "Когда ты станешь магом пятой башни, тебе будет позволено взять ученика."
@@ -269,7 +269,7 @@ translate ru strings:
     new "Ты всегда будешь знать, что к чему."
 
     old "It did sound nice to Sarah. Clean, orderly, decisive. No more doubt."
-    new "Саре это и правда казалось приятным. Чисто, упорядоченно, определённо. Больше никаких сомнений."
+    new "Саре это и правда казалось приятным. Чисто, упорядоченно, решительно. Больше никаких сомнений."
 
     old "That sounds horrible."
     new "Это звучит ужасно."
@@ -281,7 +281,7 @@ translate ru strings:
     new "Наоборот. С этой точки обзора ты увидишь мир."
 
     old "Rather than be trapped inside of it, you can watch the turning of human society."
-    new "Вместо того чтобы быть запертой внутри него, ты сможешь наблюдать за вращением человеческого общества."
+    new "Вместо того чтобы быть запертой внутри него, ты сможешь наблюдать за движением человеческого общества."
 
     old "Yeah, by standing outside of it, detached."
     new "Да, стоя в стороне, отстранённо."
@@ -407,7 +407,7 @@ translate ru strings:
     new "Подталкивая здесь, потянув там."
 
     old "Slowly we help the world along, to bring about the paradise that must be."
-    new "Медленно мы помогаем миру двигаться вперёд, чтобы привести к неизбежному раю."
+    new "Медленно мы помогаем миру двигаться вперёд, чтобы привести к раю, который должен наступить."
 
     old "And Rosanna? That's just a stepping stone towards that paradise?"
     new "А Розанна? Это просто ступенька на пути к этому раю?"

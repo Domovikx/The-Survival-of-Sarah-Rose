@@ -44,13 +44,13 @@ translate ru strings:
     new "Она слишком боялась духа, чтобы навещать его чаще раза в несколько месяцев, но рано или поздно желания пересиливали здравый смысл, и она встречалась с духом."
 
     old "An unusual friend in an otherwise lonely place."
-    new "Необычный друг в иначе пустынном месте."
+    new "Необычный друг среди этого запустения."
 
     old "The spirit, Razaphel, continued to be an odd presence. It whispered as she passed it, but she ignored the creature as best she could."
-    new "Дух, Разафель, продолжал оставаться странным присутствием. Он шептал, когда она проходила мимо, но она игнорировала создание как могла."
+    new "Дух, Разафель, продолжал оставаться странным присутствием. Он шептал, когда она проходила мимо, но она старалась не замечать это существо как могла."
 
     old "Even now, she did not know what to make of the creature."
-    new "Даже сейчас она не знала, что и думать об этом создании."
+    new "Даже сейчас она не знала, что и думать об этом существе."
 
     old "It was under this same set of unclear circumstances that Sarah now found herself in the great palace of the city of Bagrad."
     new "Именно при таких же неясных обстоятельствах Сара теперь оказалась в великом дворце города Баград."
@@ -62,7 +62,7 @@ translate ru strings:
     new "Но это было столетия назад."
 
     old "Today, Bagrad was the last vestige of that old empire. A city that once housed millions; now barely a hundred-thousand remained."
-    new "Сегодня Баград был последним пережитком той древней империи. Город, в котором когда-то жили миллионы; теперь едва ли осталась сотня тысяч."
+    new "Сегодня Баград был последним пережитком той древней империи. Город, в котором когда-то жили миллионы; теперь едва ли осталось сто тысяч."
 
     old "And yet, the city still stood. Its vast monuments immune to the forces of nature and decay, testament to a place that once meant something."
     new "И всё же город всё ещё стоял. Его огромные монументы, не подверженные силам природы и разрушению, свидетельствовали о месте, которое когда-то что-то значило."
@@ -86,7 +86,7 @@ translate ru strings:
     new "Шах Махда, слишком надменный, чтобы спустить это оскорбление, убил молодого мифранского принца."
 
     old "The Shah had failed to understand that Bagrad survived by virtue of being too unimportant to conquer, but with the spilling of important blood he had given a cause for war that weighed heavier than strategy."
-    new "Шах не понял, что Баград выживал благодаря тому, что был слишком незначителен для завоевания, но пролив важную кровь, он дал повод для войны, который перевесил стратегию."
+    new "Шах не понял, что Баград выживал благодаря тому, что был слишком незначителен для завоевания, но пролив кровь знатной особы, он дал повод для войны, который перевесил стратегию."
 
     old "A few miles outside of the city walls, a Mythran army led by the uncle of the slain prince was camped. Soon they would begin their assault."
     new "В нескольких милях от городских стен расположилась лагерем мифранская армия под предводительством дяди убитого принца. Скоро они начнут штурм."
@@ -122,7 +122,7 @@ translate ru strings:
     new "Взволнованный, словно всегда на пределе."
 
     old "I'm glad my years of magical training can be put to use as a bodyguard."
-    new "Рада, что мои годы магической тренировки пригодились для работы телохранителем."
+    new "Рада, что мои годы магического обучения пригодились для работы телохранителем."
 
     old "Yes, it's not the most glorious task, but sometimes even these base things need to be done."
     new "Да, это не самая славная задача, но иногда даже такие низменные вещи нужно делать."
@@ -146,7 +146,7 @@ translate ru strings:
     new "Нам нет, не особенно, но Баград и его дворец всё ещё хранят груду сокровищ."
 
     old "The order had been in contact with the Shah for a long time to negotiate an exchange for some specific items, but he always dragged his feet."
-    new "Орден долгое время вёл переговоры с шахом об обмене некоторых предметов, но он всегда тянул время."
+    new "Орден долгое время вёл переговоры с шахом об обмене на некоторые предметы, но он всегда тянул время."
 
     old "We didn't press the issue because we imagined we had more time, but after he made a mess of it, we're now suddenly very short on time."
     new "Мы не настаивали, потому что думали, что у нас есть время, но после того, как он всё испортил, времени внезапно стало очень мало."
@@ -191,7 +191,7 @@ translate ru strings:
     new "Это может быть утомительно, но при данных обстоятельствах лучшее, что мы можем сделать — улыбнуться и перетерпеть. Скоро мы получим доступ к хранилищу и уберёмся отсюда."
 
     old "Why even bother? Can't we just blast it open."
-    new "Зачем вообще утруждаться? Не можем мы просто взорвать его?"
+    new "Зачем вообще утруждаться? Неужели мы не можем просто взорвать его?"
 
     old "Most likely it has magical protections of its own. And even if we could blow it open, the whole world would hear the story of the two thief mages, and who would trust us after that?"
     new "Скорее всего, у него своя магическая защита. И даже если бы мы могли его взорвать, весь мир узнал бы историю о двух магах-ворах, и кто бы после этого нам доверял?"
@@ -227,13 +227,13 @@ translate ru strings:
     new "Сара наблюдала за краями большого дворцового зала. Слуги сновали туда-сюда, выполняя свои обязанности."
 
     old "It almost seemed tragic, Sarah realized. This vast throne room was many times larger than the one in Castle Reinmeer, and yet, there were fewer servants here than at home."
-    new "Это казалось почти трагичным, осознала Сара. Этот огромный тронный зал был во много раз больше того, что в замке Рейнмир, и всё же слуг здесь было меньше, чем дома."
+    new "Это казалось почти трагичным, осознала Сара. Этот огромный тронный зал был во много раз больше тронного зала в замке Рейнмир, и всё же слуг здесь было меньше, чем дома."
 
     old "Its immense size once communicated greatness, but now it seemed only to mock those who remained."
     new "Его огромные размеры когда-то говорили о величии, но теперь, казалось, лишь насмехались над теми, кто остался."
 
     old "Sarah killed the time by studying every inch of the room. Going over it twice, and parts of it thrice, she was finally saved from her boredom when something began to stir on the other end of the room."
-    new "Сара убивала время, изучая каждый дюйм комнаты. Осмотрев всё дважды, а некоторые части трижды, она наконец была спасена от скуки, когда что-то зашевелилось в другом конце зала."
+    new "Сара убивала время, изучая каждый уголок комнаты. Осмотрев всё дважды, а некоторые части трижды, она наконец спаслась от скуки, когда что-то зашевелилось в другом конце зала."
 
     old "A door had been thrown open and a cadre of servants swarmed behind the man who now walked ahead of the pack."
     new "Дверь распахнулась, и группа слуг хлынула за мужчиной, шедшим впереди."
@@ -257,7 +257,7 @@ translate ru strings:
     new "Приветствую вас, мои уважаемые гости."
 
     old "Xan bowed low and Sarah imitated him, unsure of the customs of this place."
-    new "Ксан низко поклонился, и Сара подражала ему, неуверенная в обычаях этого места."
+    new "Ксан низко поклонился, и Сара подражала ему, не уверенная в обычаях этого места."
 
     old "Honourable Shah, it is with humility that we received your invitation and with eagerness that we have answered it."
     new "Достопочтенный шах, мы со смирением приняли ваше приглашение и с готовностью откликнулись на него."
@@ -320,7 +320,7 @@ translate ru strings:
     new "Поверьте мне, Шах Махда, наш орден сдерживает своё обещание. Мы оба — талантливые маги с годами опыта и обучения."
 
     old "My apprentice is this in name only, she is worth a hundred knights, to this I will attest."
-    new "Моя ученица лишь номинально ученица, она стоит сотни рыцарей, я свидетельствую."
+    new "Она моя ученица лишь номинально, но стоит сотни рыцарей, я свидетельствую."
 
     old "We vowed to keep your family safe, and this we will do."
     new "Мы поклялись защищать вашу семью, и мы сделаем это."
@@ -365,7 +365,7 @@ translate ru strings:
     new "Но вашему ордену придётся ответить за это, когда битва закончится!"
 
     old "I promise that the elders meant no insult. They will make amends for this...miscommunication."
-    new "Я обещаю, что старейшины не хотели вас оскорбить. Они заглядят вину за это... недоразумение."
+    new "Я обещаю, что старейшины не хотели вас оскорбить. Они загладят вину за это... недоразумение."
 
     old "The Shah's bluff had been called, but Xan had tactfully allowed him to withdraw with his ego in tact."
     new "Блеф шаха был раскрыт, но Ксан тактично позволил ему отступить, сохранив лицо."

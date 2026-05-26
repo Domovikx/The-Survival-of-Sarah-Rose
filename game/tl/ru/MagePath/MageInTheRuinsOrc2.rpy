@@ -65,7 +65,7 @@ translate ru strings:
     new "Она надеялась, что девушке удалось сбежать, но не помнила ничего из того, что случилось после того, как дротик попал ей в шею."
 
     old "Sarah moved around the caged area, small as it is."
-    new "Сара перемещалась по запертой зоне, хоть и небольшой."
+    new "Сара перемещалась по клетке — хоть и небольшой."
 
     old "Towards on side was the campfire, towards the other a wall, some kind of a ruin."
     new "С одной стороны был костёр, с другой — стена, какие-то руины."
@@ -89,7 +89,7 @@ translate ru strings:
     new "Он пялился на неё сквозь прутья."
 
     old "All their vile ilk seemed the same, but she had detected enough differences between them to know her goblin."
-    new "Все они, мерзкие отродья, казались одинаковыми, но она подметила достаточно различий, чтобы узнать своего гоблина."
+    new "Всё их мерзкое отродье казалось одинаковым, но она подметила достаточно различий, чтобы узнать своего гоблина."
 
     old "Her goblin...even the words disgusted her."
     new "Её гоблин...даже эти слова вызывали у неё отвращение."
@@ -185,7 +185,7 @@ translate ru strings:
     new "Сначала она сделала маленький глоток, но теперь жажда взяла верх, а напиток оказался даже приятным."
 
     old "Sarah eagerly swallowed again, drinking more of the liquid."
-    new "Сара с жадностью сглотнула снова, выпивая ещё."
+    new "Сара с жадностью сглотнула снова, выпивая ещё жидкости."
 
     old "Gulp after gulp, she downed it."
     new "Глоток за глотком она осушила кружку."
@@ -317,7 +317,7 @@ translate ru strings:
     new "Может, она и правда больше его, чем её, подумала она, заползая в угол клетки."
 
     old "As she tried to balance herself, Sarah found it strangely difficult."
-    new "Попытавшись удержать равновесие, Сара с удивлением обнаружила, что это странно трудно."
+    new "Попытавшись удержать равновесие, Сара с удивлением обнаружила, что это неожиданно трудно."
 
     old "Looking around, she saw the bars of the cage, twist and bend, waving from side to side."
     new "Оглядевшись, она увидела, как прутья клетки искривляются и гнутся, покачиваясь из стороны в сторону."
@@ -629,7 +629,7 @@ translate ru strings:
     new "Вместо этого она попыталась встать на руки и ноги, но споткнулась и упала на спину на пол клетки."
 
     old "Ha....ha...."
-    new "Ха....ха...."
+    new "Ха...ха..."
 
     old "All around her, the cage spun about."
     new "Вокруг неё клетка завертелась."
@@ -653,7 +653,7 @@ translate ru strings:
     new "Каждое прикосновение к её телу вызывало почти экстатическую реакцию."
 
     old "Sarah found herself spreading her legs apart, giving the goblin more access to her."
-    new "Сара обнаружила, что раздвигает ноги, давая гоблину больше доступа."
+    new "Сара обнаружила, что раздвигает ноги, давая гоблину больше доступа к себе."
 
     old "She felt his claws sink into her hips, but where before there had been pain, now those claws sinking into her flesh were pure pleasure."
     new "Она чувствовала, как его когти впиваются в её бёдра, но там, где раньше была боль, теперь эти когти, вонзающиеся в плоть, были чистым наслаждением."

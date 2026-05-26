@@ -14,7 +14,7 @@ translate ru strings:
     new "Большая часть её денег исчезла — украденных и растраченных Кейт."
 
     old "She had no allies left in this city, thrown out by the mercenary company."
-    new "У неё не осталось союзников в этом городе — её вышвырнула наёмническая компания."
+    new "У неё не осталось союзников в этом городе — её вышвырнул отряд наёмников."
 
     old "And she couldn't think of a soul left in the world who cared enough for her to intercede on her behalf."
     new "И она не могла припомнить ни одной души в мире, кому было бы настолько не всё равно, чтобы заступиться за неё."
@@ -47,7 +47,7 @@ translate ru strings:
     new "Ей было страшно. Она знала, что Кейт была права: город — опасное место, но усталость к тому же не позволяла думать о чём-то ещё."
 
     old "Crawling behind one of the crates, Sarah imagined she would be out of sight enough to be left alone."
-    new "Заползши за один из ящиков, Сара решила, что будет достаточно вне поля зрения, чтобы её оставили в покое."
+    new "Забравшись за один из ящиков, Сара решила, что будет достаточно вне поля зрения, чтобы её оставили в покое."
 
     old "Resting her head against one of the sacks, she slowly felt herself begin to fade away."
     new "Прислонившись головой к одному из мешков, она медленно почувствовала, что начинает проваливаться в забытьё."
@@ -125,7 +125,7 @@ translate ru strings:
     new "Я сказала тебе, у меня нет денег."
 
     old "Well, maybe I've been unclear. You need to pay me. That can be in coin...or some other way..."
-    new "Что ж, возможно, я выразился неясно. Ты должна мне заплатить. Монетами...или другим способом..."
+    new "Что ж, возможно, я выразился неясно. Ты должна мне заплатить. Монетами... или другим способом..."
 
     old "The man's eyes drifted across her body as he said the words."
     new "Глаза мужчины скользнули по её телу, когда он произносил эти слова."

@@ -65,7 +65,7 @@ translate ru strings:
     new "Рано или поздно один из элементов давал сбой. Тогда она пробовала снова, слишком сосредотачиваясь на том, что пошло не так, и тогда ускользали другие части."
 
     old "After more than a week the only spell she had managed was producing a soft glowing light from her palms."
-    new "Спустя больше недели единственным заклинанием, которое ей удалось освоить, было создание мягкого светящегося света из ладоней."
+    new "Спустя больше недели единственным заклинанием, которое ей удалось освоить, было создание мягкого свечения из ладоней."
 
     old "Great, Sarah had reasoned, I can be a living candle if this never works out."
     new "Отлично, рассудила Сара, смогу быть живой свечой, если из этого ничего не выйдет."
@@ -98,10 +98,10 @@ translate ru strings:
     new "Ксан улыбнулся."
 
     old "Yes, it's true that this house does not abide by the rules of the world outside."
-    new "Да, это правда, что этот дом не подчиняется законам внешнего мира."
+    new "Да, верно, этот дом не подчиняется законам внешнего мира."
 
     old "I mean that the house itself is a magical artifact. Endless spells have been woven into it, for all manner of purposes."
-    new "Я хочу сказать, что сам дом — магический артефакт. В него вплетены бесчисленные заклинания для самых разных целей."
+    new "Дело в том, что сам дом — магический артефакт. В него вплетены бесчисленные заклинания для самых разных целей."
 
     old "As a result, the house can adapt itself to the needs of those who inhabit it."
     new "В результате дом может приспосабливаться к нуждам тех, кто в нём живёт."
@@ -137,7 +137,7 @@ translate ru strings:
     new "Ксан рассмеялся."
 
     old "This is nothing, Sarah. A lot of things you imagine are fixed are maleable in this world."
-    new "Это ещё ничего, Сара. Многие вещи, которые ты считаешь незыблемыми, в этом мире податливы."
+    new "Это ещё ничего, Сара. Многие вещи, которые ты считаешь незыблемыми, в этом мире изменчивы."
 
     old "If you really want to throw your mind for a trip, understand that some doors can even lead to places unconnected to here."
     new "Если хочешь по-настоящему удивиться, знай, что некоторые двери могут вести в места, никак не связанные с этим домом."
@@ -173,7 +173,7 @@ translate ru strings:
     new "Сара, это будет не так, как ты помнишь. Орда разорила страну... столицу..."
 
     old "You'll only hurt yourself by going there."
-    new "Ты только поранишь себя, пойдя туда."
+    new "Ты сделаешь себе только больнее, пойдя туда."
 
     old "Sarah stared at Xan."
     new "Сара уставилась на Ксана."
@@ -236,7 +236,7 @@ translate ru strings:
     new "В некотором смысле да. Огромная сеть одного и того же дома, раскинувшаяся по континентам мира."
 
     old "Easy to get around, easy to leave when things get unpleasant. And it serves as the hub for us to stay informed of the world."
-    new "Легко перемещаться, легко уйти, когда дела становятся неприятными. И это служит узлом, чтобы оставаться в курсе событий в мире."
+    new "Легко перемещаться, легко уйти, когда дела становятся неприятными. И это служит нам узлом, чтобы оставаться в курсе событий в мире."
 
     old "The order."
     new "Орден."
@@ -317,7 +317,7 @@ translate ru strings:
     new "Ему не нужно было прилагать много силы, она отдалась ему без всякого сопротивления."
 
     old "In her blank stare, Sarah could see how she survived. She survived by detaching herself from her condition, in her mind at least."
-    new "По её пустому взгляду Сара поняла, как та выживает. Она выживала, отстраняясь от своего положения, по крайней мере в мыслях."
+    new "По её пустому взгляду Сара поняла, как та выживала. Она выживала, отстраняясь от своего положения, по крайней мере в мыслях."
 
     old "Sarah spun around to Xan."
     new "Сара резко повернулась к Ксану."
@@ -401,7 +401,7 @@ translate ru strings:
     new "Они больше не твой народ, Сара. Возможно, когда-то так и было, но ты больше не их принцесса."
 
     old "You're going to become so much more. You will rise above this world and see it from the high point. You can't continue to pretend that you're also a part of it."
-    new "Ты станешь чем-то гораздо большим. Ты поднимешься над этим миром и будешь смотреть на него с высоты. Ты не можешь продолжать притворяться, что тоже являешься его частью."
+    new "Ты станешь кем-то гораздо большим. Ты поднимешься над этим миром и будешь смотреть на него с высоты. Ты не можешь продолжать притворяться, что тоже являешься его частью."
 
     old "If you don't learn that, you'll burn out. You'll try to fix every injustice in the world, and it won't be long before you find yourself outmatched."
     new "Если ты этого не усвоишь, ты выгоришь. Ты будешь пытаться исправить каждую несправедливость в мире, и пройдёт не так много времени, прежде чем ты столкнёшься с противником, которому не сможешь противостоять."
@@ -413,7 +413,7 @@ translate ru strings:
     new "Мы действуем в масштабах всего мира, Сара. Мы измеряем время не годами, а столетиями. Наш долг — перед всем человечеством."
 
     old "We cannot allow ourselves to fail in that greatest of duty, and throw it away because of some random girl, however tragic her circumstance might be."
-    new "Мы не можем позволить себе провалить этот величайший долг и выбросить его из-за какой-то случайной девушки, какой бы трагичной ни была её судьба."
+    new "Мы не можем позволить себе провалить этот величайший долг и поступиться им из-за какой-то случайной девушки, какой бы трагичной ни была её судьба."
 
     old "Sarah could see tears form in his eyes."
     new "Сара заметила слёзы на его глазах."

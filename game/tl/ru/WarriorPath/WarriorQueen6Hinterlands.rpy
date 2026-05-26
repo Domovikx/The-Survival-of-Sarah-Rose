@@ -239,7 +239,7 @@ translate ru strings:
     new "Порядочный и праведный человек, хранивший верность вам и вашей семье."
 
     old "And for that loyalty, the Tribesmen gave him the rope. They gave him the rope because this creature ratted him out."
-    new "И за эту верность Племенные дали ему верёвку. Они дали ему верёвку, потому что это создание его сдало."
+    new "И за эту верность Племенники дали ему верёвку. Они дали ему верёвку, потому что это создание его сдало."
 
     old "And they gave him the tavern as a reward."
     new "И они отдали ему таверну в награду."
@@ -254,7 +254,7 @@ translate ru strings:
     new "Молодая женщина вышла из кухни и встала рядом с ним, на её лице тоже было растерянное и испуганное выражение."
 
     old "You have come to our town. Liberated us from the yoke of the Tribesmen."
-    new "Вы пришли в наш город. Освободили нас от ярма Племенных."
+    new "Вы пришли в наш город. Освободили нас от ярма Племенников."
 
     old "I ask you...petition you...what kind of a country will you build?"
     new "Я прошу вас... умоляю... какую страну вы построите?"
@@ -350,7 +350,7 @@ translate ru strings:
     new "Забросав камнями, избив палками, горожане выпустили свою ненависть."
 
     old "No longer fearing retaliation from the Tribesmen, they were drunk on their power."
-    new "Больше не опасаясь возмездия от Племенных, они опьянели от своей власти."
+    new "Больше не опасаясь возмездия от Племенников, они опьянели от своей власти."
 
     old "The innkeeper was battered so badly, his skin turned purple as grape."
     new "Трактирщика избили так сильно, что его кожа стала фиолетовой, как виноград."
@@ -449,7 +449,7 @@ translate ru strings:
     new "Ясно..."
 
     old "Tribesmen. Roses. It's all the same shit. Not a one cares about the people."
-    new "Племенные. Розы. Всё одно дерьмо. Никому нет дела до народа."
+    new "Племенники. Розы. Всё одно дерьмо. Никому нет дела до народа."
 
     old "The man stormed out, his gang following behind him."
     new "Мужчина выбежал вон, его шайка последовала за ним."
@@ -608,7 +608,7 @@ translate ru strings:
     new "Ближе к концу дня, когда её армия уже выбилась из сил, раздался звук рога."
 
     old "Sarah sat atop her horse, every muscle in her body was aching."
-    new "Сара сидела верхом на лошади, каждое мышца её тела ныла."
+    new "Сара сидела верхом на лошади, каждая мышца её тела ныла."
 
     old "But the moment she heard the sound of the warning horn, everything else faded."
     new "Но в тот момент, когда она услышала звук предупредительного рога, всё остальное исчезло."
@@ -674,7 +674,7 @@ translate ru strings:
     new "По крайней мере, если это можно было так назвать. Это был скорее открытый фланг."
 
     old "Ahead of her, she saw the Tribesmen cavalry still storming across the open field, crossing the space between them."
-    new "Впереди она увидела кавалерию Племенных, всё ещё несущуюся по открытому полю, сокращая расстояние."
+    new "Впереди она увидела кавалерию Племенников, всё ещё несущуюся по открытому полю, сокращая расстояние."
 
     old "Along the length of the road, her spearmen were stumbling over one another, rushing to set up a line."
     new "Вдоль дороги её копейщики спотыкались друг о друга, спеша выстроиться в линию."
@@ -689,13 +689,13 @@ translate ru strings:
     new "Сара молилась, чтобы этого хватило."
 
     old "The Tribesmen had the advantage of surprise, but judging from their numbers, there weren't as many as she had first feared."
-    new "Племенные имели преимущество внезапности, но, судя по их численности, их было не так много, как она сначала опасалась."
+    new "Племенники имели преимущество внезапности, но, судя по их численности, их было не так много, как она сначала опасалась."
 
     old "Not enough to defeat her army. But then again, they weren't here to defeat her, likely just to soften her up. Weaken her before the real battle."
     new "Недостаточно, чтобы разбить её армию. Но, с другой стороны, они были здесь не для того, чтобы разбить её, а лишь чтобы ослабить. Измотать перед настоящей битвой."
 
     old "Sarah clutched her sword as she saw the Tribesmen advance, now so close she could make them out."
-    new "Сара сжала меч, глядя, как Племенные приближаются — теперь так близко, что она могла их разглядеть."
+    new "Сара сжала меч, глядя, как Племенники приближаются — теперь так близко, что она могла их разглядеть."
 
     old "Her heart was pounding in her chest, moments before the charge would hit her unprepared frontline."
     new "Её сердце колотилось в груди за мгновения до того, как атака обрушится на её неподготовленную линию фронта."
@@ -725,10 +725,10 @@ translate ru strings:
     new "Вокруг себя Сара слышала первые крики битвы, когда залп стрел вонзился в копейщиков."
 
     old "Ahead of her, she saw the Tribesmen cavalry, still rushing across the field, but now keeping their distance."
-    new "Впереди она видела кавалерию Племенных, всё ещё несущуюся по полю, но теперь держащую дистанцию."
+    new "Впереди она видела кавалерию Племенников, всё ещё несущуюся по полю, но теперь держащую дистанцию."
 
     old "Still crying out their foreing warcries, they skillfully drew another volley of arrows on their bows."
-    new "Всё ещё выкрикивая свои чужеземные боевые кличи, они умело натянули ещё один залп стрел на луки."
+    new "Всё ещё выкрикивая свои чужеземные боевые кличи, они умело наложили новые стрелы на луки."
 
     old "With loud thuds, their bows released, the snapping strings, more guttural screams of arrows plunging into bodies."
     new "С громкими ударами их луки выстрелили, лопнули тетивы, и снова гортанные крики — стрелы вонзались в тела."
@@ -737,13 +737,13 @@ translate ru strings:
     new "Сара оглядела свою армию по мере роста потерь."
 
     old "The Tribesmen had no intention of attacking directly."
-    new "Племенные не собирались атаковать напрямую."
+    new "Племенники не собирались атаковать напрямую."
 
     old "They would fire off their arrows from a safe distance, and on their horses, chasing them on foot would be pointless."
     new "Они будут стрелять с безопасного расстояния, а на лошадях — преследовать их пешком было бы бессмысленно."
 
     old "The Tribesmen were famous for their mastery of such strategies."
-    new "Племенные славились своим мастерством в таких стратегиях."
+    new "Племенники славились своим мастерством в таких стратегиях."
 
     old "If they held the line, they would be sitting targets. She had to do something."
     new "Если они будут держать строй, то станут лёгкими мишенями. Она должна была что-то сделать."
@@ -755,22 +755,22 @@ translate ru strings:
     new "Копейщики! Вперёд!"
 
     old "They could not just sit here and wait for the Tribesmen to finish them off."
-    new "Они не могли просто сидеть здесь и ждать, пока Племенные добьют их."
+    new "Они не могли просто сидеть здесь и ждать, пока Племенники добьют их."
 
     old "Slowly, her spearmen began to advance across the field, giving chase to the Tribesmen."
-    new "Медленно её копейщики начали наступать через поле, преследуя Племенных."
+    new "Медленно её копейщики начали наступать через поле, преследуя Племенников."
 
     old "But the heavy snow slowed their advance down to a grind."
     new "Но глубокий снег замедлил их продвижение до минимума."
 
     old "What few yards they advance, they paid for dearly as the Tribesmen continued to rain down arrows on them."
-    new "За каждые несколько ярдов, которые они продвигались, они платили дорогую цену, так как Племенные продолжали осыпать их стрелами."
+    new "За каждые несколько ярдов, которые они продвигались, они платили дорогую цену, так как Племенники продолжали осыпать их стрелами."
 
     old "And though the spearmen were slowed by the heavy snow, the lightly armored Tribesmen and their horses moved through the snow much faster."
-    new "И хотя копейщиков замедлял глубокий снег, легко бронированные Племенные и их лошади передвигались по снегу гораздо быстрее."
+    new "И хотя копейщиков замедлял глубокий снег, легко бронированные Племенники и их лошади передвигались по снегу гораздо быстрее."
 
     old "Even when the spearmen finally managed to advance a good distance, the Tribesmen had simply fallen back more."
-    new "Даже когда копейщикам наконец удавалось продвинуться на приличное расстояние, Племенные просто отступали дальше."
+    new "Даже когда копейщикам наконец удавалось продвинуться на приличное расстояние, Племенники просто отступали дальше."
 
     old "Eventually, the spearmen had suffered such grievous casualties that they began to break."
     new "В конце концов копейщики понесли такие тяжёлые потери, что начали отступать."
@@ -779,28 +779,28 @@ translate ru strings:
     new "Бросая оружие, они побежали назад через глубокий снег, падая и спотыкаясь."
 
     old "Only then did the Tribesmen engage properly."
-    new "И только тогда Племенные атаковали по-настоящему."
+    new "И только тогда Племенники атаковали по-настоящему."
 
     old "Rushing into the panicked spearmen, the Tribesmen cavalry swung their curved blades, covering the snow in traces of blood."
-    new "Ворвавшись в ряды паникующих копейщиков, кавалерия Племенных взмахнула изогнутыми клинками, покрывая снег кровавыми следами."
+    new "Ворвавшись в ряды паникующих копейщиков, кавалерия Племенников взмахнула изогнутыми клинками, покрывая снег кровавыми следами."
 
     old "Sarah witnessed from a distance as an entire unit of spearmen was quickly eradicated."
     new "Сара издалека наблюдала, как целый отряд копейщиков был быстро уничтожен."
 
     old "Her own army watched on in horror as the Tribesmen demonstrated their skill at war."
-    new "Её собственная армия в ужасе наблюдала, как Племенные демонстрируют своё военное мастерство."
+    new "Её собственная армия в ужасе наблюдала, как Племенники демонстрируют своё военное мастерство."
 
     old "Sarah had many soldiers. But numbers were only one advantage in war."
     new "У Сары было много солдат. Но численность — лишь одно из преимуществ на войне."
 
     old "Most of her soldiers were farmers. The Tribesmen had been warriors since they could walk."
-    new "Большинство её солдат были фермерами. Племенные были воинами с тех пор, как научились ходить."
+    new "Большинство её солдат были фермерами. Племенники были воинами с тех пор, как научились ходить."
 
     old "And now, everyone saw the difference between the two."
     new "И теперь все увидели разницу между ними."
 
     old "Having inflicted their damage, the Tribesmen withdrew, chanting in mad celebration."
-    new "Нанеся урон, Племенные отступили, распевая в безумном ликовании."
+    new "Нанеся урон, Племенники отступили, распевая в безумном ликовании."
 
     old "They had suffered only a few casualties, and inflicted a hundred times over what they had suffered."
     new "Они понесли лишь незначительные потери, нанеся в сотню раз больше, чем потеряли сами."
@@ -827,13 +827,13 @@ translate ru strings:
     new "Их лошади, как и они сами, были покрыты тяжёлой бронёй, что давало им устойчивость на снегу."
 
     old "The Tribesmen were quicker, but not by much."
-    new "Племенные были быстрее, но ненамного."
+    new "Племенники были быстрее, но ненамного."
 
     old "They rained their arrows on the Knights, but the thick plated armor of the Knights and their horses protected them."
     new "Они осыпали рыцарей стрелами, но толстая пластинчатая броня рыцарей и их лошадей защищала их."
 
     old "When the Knights finally closed the distance, the Tribesmen found themselves facing an enemy they had rarely met before."
-    new "Когда рыцари наконец сократили дистанцию, Племенные оказались лицом к лицу с врагом, с которым редко сталкивались прежде."
+    new "Когда рыцари наконец сократили дистанцию, Племенники оказались лицом к лицу с врагом, с которым редко сталкивались прежде."
 
     old "They ways of their war, swift and quick cuts, bounced harmlessly from the Knights heavy steel."
     new "Их методы войны — быстрые и лёгкие удары — безвредно отскакивали от тяжёлой стали рыцарей."
@@ -842,16 +842,16 @@ translate ru strings:
     new "А когда рыцари взмахивали своими утяжелёнными клинками, они оставляли за собой кровавую бойню."
 
     old "Sarah watched as a Tribesmen tried to jam a dagger into a Knight's armor."
-    new "Сара наблюдала, как один из Племенных попытался воткнуть кинжал в доспехи рыцаря."
+    new "Сара наблюдала, как один из Племенников попытался воткнуть кинжал в доспехи рыцаря."
 
     old "His chance of landing the hit were marginal, and as expected, he struck only steel."
     new "Его шансы на успех были ничтожны, и, как и ожидалось, он ударил лишь по стали."
 
     old "In turn, the Knight gripped the Tribesmen by the wrist and dragged him from his horse."
-    new "В ответ рыцарь схватил Племенного за запястье и стащил с лошади."
+    new "В ответ рыцарь схватил Племенника за запястье и стащил с лошади."
 
     old "Delivering another blow with the pommel of his blade, the Knight split the Tribesman's face open."
-    new "Нанеся ещё один удар рукоятью меча, рыцарь рассек лицо Племенного."
+    new "Нанеся ещё один удар рукоятью меча, рыцарь рассек лицо Племенника."
 
     old "Sarah watched the melee unfold."
     new "Сара наблюдала за разворачивающейся схваткой."
@@ -860,16 +860,16 @@ translate ru strings:
     new "Этот бой — вблизи, лицом к лицу — был именно той дракой, которую искали её рыцари."
 
     old "And the Tribesmen, skilled at war, trained from a young age, had no advantage over the Knights, who had likewise been trained from youth in the ways of war."
-    new "И Племенные, искусные в войне, обученные с юных лет, не имели преимущества перед рыцарями, которые также были обучены военному делу с юности."
+    new "И Племенники, искусные в войне, обученные с юных лет, не имели преимущества перед рыцарями, которые также были обучены военному делу с юности."
 
     old "Sarah smiled as she watched the small Tribesmen group be routed."
-    new "Сара улыбнулась, глядя, как небольшая группа Племенных была обращена в бегство."
+    new "Сара улыбнулась, глядя, как небольшая группа Племенников была обращена в бегство."
 
     old "Near the end, she expected them to sound the retreat, but by now they had gone in too deep."
     new "Ближе к концу она ожидала, что они протрубят отступление, но к тому времени они зашли слишком далеко."
 
     old "The Tribesmen were a proud people, and some would rather die in battle than withdraw."
-    new "Племенные были гордым народом, и некоторые предпочли бы умереть в бою, чем отступить."
+    new "Племенники были гордым народом, и некоторые предпочли бы умереть в бою, чем отступить."
 
     old "Fine, she thought."
     new "Что ж, подумала она."
@@ -893,7 +893,7 @@ translate ru strings:
     new "Победа этого дня всё ещё витала над лагерем."
 
     old "Everywhere, the soldiers excitedly spoke of watching the Tribesmen being crushed."
-    new "Повсюду солдаты с восторгом говорили о том, как Племенные были сокрушены."
+    new "Повсюду солдаты с восторгом говорили о том, как Племенники были сокрушены."
 
     old "They had believed in victory, but now they had a taste of it."
     new "Они верили в победу, но теперь они вкусили её."
@@ -1787,7 +1787,7 @@ translate ru strings:
     new "Я рада, что приняла правильное решение отправить рыцарей."
 
     old "I hear the entire field was red by the time they were done with those Tribesmen."
-    new "Слышала, всё поле было красным к тому времени, как они закончили с теми Племенными."
+    new "Слышала, всё поле было красным к тому времени, как они закончили с теми Племенниками."
 
     old "Not quite so gruesome. But yeah, you could see the aftermath."
     new "Не настолько кроваво. Но да, последствия были видны."
@@ -1796,7 +1796,7 @@ translate ru strings:
     new "Я слышала, это была кровавая баня."
 
     old "Yeah, I underestimated the mobility of the Tribesmen archers."
-    new "Да, я недооценила мобильность лучников Племенных."
+    new "Да, я недооценила мобильность лучников Племенников."
 
     old "I won't make that mistake again."
     new "Я не повторю эту ошибку."

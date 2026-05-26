@@ -71,7 +71,7 @@ translate ru strings:
     new "В конце концов, Томас заговорил об этом первым."
 
     old "Both realized the realm could not thrive with a king who was no king, and so her brother proposed that she replace him."
-    new "Оба понимали, что королевство не может процветать с королём, который не является королём, и тогда брат предложил ей занять его место."
+    new "Оба понимали, что королевство не может процветать с королём, который королём не был, и тогда брат предложил ей занять его место."
 
     old "Sarah never wanted the crown for herself, but she accepted the role of regent, to rule in his stead until the day he would be better, though both feared such a day would never come."
     new "Сара никогда не хотела короны для себя, но приняла роль регента, чтобы править вместо него до того дня, когда ему станет лучше, хотя оба боялись, что этот день никогда не настанет."
@@ -92,7 +92,7 @@ translate ru strings:
     new "Со старыми домами разобрались по-своему."
 
     old "Some, like the Achillea family, all but vanished from existence, their homes and properties seized, their family members hunted."
-    new "Некоторые, как семья Ахиллея, практически исчезли с лица земли — их дома и владения конфискованы, члены семей преследуемы."
+    new "Некоторые, как семья Ахиллея, практически исчезли с лица земли — их дома и владения конфискованы, члены семей преследуются."
 
     old "For others, like the Highfield family, all those that bore the most guilt were strung from the gallows, but the smaller branches were allowed to live."
     new "Другим, как семье Хайфилд, — тех, кто был наиболее виновен, вздёрнули на виселицу, но младшим ветвям позволили жить."
@@ -161,7 +161,7 @@ translate ru strings:
     new "Сара наблюдает, как многочисленные приглашённые гости входят в большой зал."
 
     old "The annual celebration of Rosanna's unity is underway. Officially meant to celebrate the many ways in which the nation was thriving, in truth, a reminder of how Sarah had brought low the usurpers."
-    new "Годовщина единства Розанны в самом разгаре. Официально — празднование процветания страны, но на самом деле — напоминание о том, как Сара низвергла узурпаторов."
+    new "Ежегодное празднование единства Розанны в самом разгаре. Официально — празднование процветания страны, но на самом деле — напоминание о том, как Сара низвергла узурпаторов."
 
     old "She smiled and greeted the throng of newcomers."
     new "Она улыбнулась и поприветствовала толпу гостей."

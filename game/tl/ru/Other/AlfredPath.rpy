@@ -281,7 +281,7 @@ translate ru strings:
     new "Сара слизнула их."
 
     old "The moment his half-erect cock popped from her mouth, she missed it."
-    new "В тот момент, когда его полустоячий член выскользнул из её рта, она заскучала по нему."
+    new "В тот миг, когда его полустоячий член выскользнул из её рта, ей стало его не хватать."
 
     old "Drowsy and delirious, she looked up at him."
     new "Сонная и в забытьи, она подняла на него взгляд."
@@ -1883,7 +1883,7 @@ translate ru strings:
     new "Я наверстаю всё, что не сделал."
 
     old "He cupped her ass, possively."
-    new "Он сжал её задницу, собственнически."
+    new "Он сжал её задницу по-хозяйски."
 
     old "His other hand slipped to her exposed breast. He owned that too."
     new "Его другая рука скользнула к её обнажённой груди. Она тоже принадлежала ему."

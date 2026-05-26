@@ -5,7 +5,7 @@
 translate ru strings:
 
     old "Sarah sat down on the heaped up pile of hay."
-    new "Сара села на взгромождённую кучу сена."
+    new "Сара села на высокую кучу сена."
 
     old "Outside, the cold winds howled."
     new "Снаружи завывал холодный ветер."
@@ -131,7 +131,7 @@ translate ru strings:
     new "Ты хотела, чтобы кто-то ещё был в этом аду?"
 
     old "No, not literally. But just the idea...that I would have someone that I could be with."
-    new "Нет, не буквально. Но сама мысль... что у меня будет тот, с кем я смогу быть."
+    new "Нет, не буквально. Но сама мысль... что у меня будет та, с кем я смогу быть."
 
     old "Someone other than Him."
     new "Кто-то, кроме Него."
@@ -167,7 +167,7 @@ translate ru strings:
     new "Принять наказание самой — это одно, но я не могла заставить тебя так страдать."
 
     old "Thank you. You really are a good friend."
-    new "Спасибо. Ты действительно хороший друг."
+    new "Спасибо. Ты действительно хорошая подруга."
 
     old "Friend. Was that what they were."
     new "Друг. Вот кем они были."

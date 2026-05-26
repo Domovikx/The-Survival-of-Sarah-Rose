@@ -5,7 +5,7 @@
 translate ru strings:
 
     old "Arriving in the throne room, Sarah could see that there was already a significant presence of Mythran soldiers."
-    new "Войдя в тронный зал, Сара увидела, что там уже было значительное присутствие мифранских солдат."
+    new "Войдя в тронный зал, Сара увидела, что там уже было много мифранских солдат."
 
     old "Their army was larger than their mercenary company by many times, and still, it represented only a small part of the total Mythran army."
     new "Их армия была во много раз больше их наёмнической роты, и всё же она представляла лишь малую часть всей мифранской армии."
@@ -143,7 +143,7 @@ translate ru strings:
     new "Мои союзники на этой стороне подвели меня, но мои союзники на другой стороне — нет!"
 
     old "With a single slash, Sarah watched the dagger cut through the air."
-    new "Одним взмахом Сара увидела, как кинжал рассекает воздух."
+    new "Сара увидела, как кинжал одним взмахом рассекает воздух."
 
     old "At first, she believed it had been nothing. Perhaps a final gesture from a man truly gone insane."
     new "Сначала ей показалось, что ничего не произошло. Возможно, последний жест человека, действительно сошедшего с ума."
@@ -173,7 +173,7 @@ translate ru strings:
     new "Лицо твари, белое как фарфоровая маска, с единственными чертами — бездонными глазами и острыми как бритва зубами, как у акулы."
 
     old "Having looked on, first in stunned silence, a single soldier was the first to break their collective trauma."
-    new "Сначала глядя в ошеломлённом молчании, один солдат первым нарушил их коллективную травму."
+    new "Сначала замерев в ошеломлённом молчании, один солдат первым нарушил эту тишину."
 
     old "A scream rang out. Then, a chorus of countless soldiers, screaming."
     new "Раздался крик. Затем хор бесчисленных солдат, кричащих."
@@ -197,7 +197,7 @@ translate ru strings:
     new "Пасть существа сомкнулась вокруг головы мифранского принца, захватив его зубами за плечо и верхнюю часть груди."
 
     old "In one fell gulp, Sarah watched the Mythran prince being swallowed, dissapearing into the creature's stomach."
-    new "Одним глотком Сара увидела, как мифранский принц был проглочен, исчезая в желудке существа."
+    new "Одним глотком существо проглотило мифранского принца — Сара видела, как он исчезает в его желудке."
 
     old "If the prince had screamed, Sarah didn't hear it."
     new "Если принц и кричал, Сара не слышала."
@@ -206,7 +206,7 @@ translate ru strings:
     new "Единственный звук, который она отчётливо слышала среди хаоса и криков, был смех."
 
     old "The Shah, beyond himself, laughing hysterically at the carnage."
-    new "Шах, вне себя от восторга, истерически смеялся над бойней."
+    new "Шах, обезумев, истерически смеялся, глядя на бойню."
 
     old "We need to leave!"
     new "Нам нужно уходить!"
@@ -302,7 +302,7 @@ translate ru strings:
     new "Сара знала это так же верно, как и всё в своей жизни. В своём воображении она видела, как это повторяется снова и снова."
 
     old "Then, her heart soared."
-    new "И тут её сердце взмыло."
+    new "И тут сердце её встрепенулось."
 
     old "The screams slowly faded around her. A different voice spoke. It too spoke to her with her own voice, yet she knew it to be different."
     new "Крики вокруг неё медленно затихли. Заговорил другой голос. Он тоже говорил с ней её собственным голосом, но она знала, что он другой."

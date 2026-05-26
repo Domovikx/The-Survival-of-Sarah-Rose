@@ -50,7 +50,7 @@ translate ru strings:
     new "Вид стопки напомнил ей о беспорядке, который обычно оставлял Ксан."
 
     old "More alike than she might have liked to admit."
-    new "Более похожи, чем ей хотелось бы признавать."
+    new "Они были более похожи, чем ей хотелось бы признавать."
 
     old "Still, all of it was mostly a distraction, because in the afternoon, she'd have her first lessen with Metis."
     new "И всё же это было лишь отвлечением, ведь днём её ждал первый урок с Метисом."
@@ -68,7 +68,7 @@ translate ru strings:
     new "Сара всегда любила растения и цветы, так что навык подходил ей идеально."
 
     old "Sarah had decided on Transmogrification."
-    new "Сара выбрала Трансмортификацию."
+    new "Сара выбрала Трансмогрификацию."
 
     old "It was a solid skill that most any decent mage should know."
     new "Это был основательный навык, который должен знать любой приличный маг."
@@ -86,7 +86,7 @@ translate ru strings:
     new "Или, возможно, именно потому, что это было самое опасное."
 
     old "Though she looked forward to learning a new skill, Sarah wasn't all to sure what to make of the man himself."
-    new "Хотя она с нетерпением ждала нового навыка, Сара не была до конца уверена, что думать о самом мужчине."
+    new "Хотя она с нетерпением ждала нового навыка, Сара не была до конца уверена, что и думать об этом мужчине."
 
     old "Something about him continued to seem strange to her."
     new "Что-то в нём продолжало казаться ей странным."
@@ -236,7 +236,7 @@ translate ru strings:
     new "Я думала, я действую деликатно."
 
     old "You were, if you were weaving a spell. But these seedlings, they're incredibly delicate."
-    new "Ты была, если бы плела заклинание. Но эти саженцы невероятно нежные."
+    new "Для заклинания — да. Но эти саженцы невероятно нежные."
 
     old "Here, try again."
     new "Давай, попробуй снова."
@@ -332,7 +332,7 @@ translate ru strings:
     new "Завершив первый день практических занятий, она приготовилась к долгой ночи настоящего изучения."
 
     old "Transmogrification is considered one of the base skills for any mage."
-    new "Трансмортификация считается одним из базовых навыков для любого мага."
+    new "Трансмогрификация считается одним из базовых навыков для любого мага."
 
     old "Though considered a base skill, it's actually a rather challenging one; not without risk."
     new "Хотя считается базовым навыком, на самом деле он довольно сложный и небезопасный."
@@ -386,7 +386,7 @@ translate ru strings:
     new "Метис хлопнул в ладоши, звук испугал её."
 
     old "Alright, let's kick this off with a good old basic property alteration."
-    new "Ладно, давай начнём с доброй старой базовой смены свойств."
+    new "Ладно, давай начнём с классической базовой смены свойств."
 
     old "Property alteration?"
     new "Смена свойств?"
@@ -395,7 +395,7 @@ translate ru strings:
     new "Боже, Ксан действительно тебя сдерживал, не так ли?"
 
     old "Property alterations are the most simply form of transmogrification. Basically, altering certain properties of your body."
-    new "Смена свойств — это простейшая форма трансмортификации. По сути, изменение определённых свойств твоего тела."
+    new "Смена свойств — это простейшая форма трансмогрификации. По сути, изменение определённых свойств твоего тела."
 
     old "Metis waved his hands across his body."
     new "Метис провёл руками по своему телу."
@@ -491,7 +491,7 @@ translate ru strings:
     new "Да, но, как я уже говорил, душа имеет свой способ навязывать свою форму телу."
 
     old "Without a constant pressure, your body will adapt back to its natural shape. Like a bubble, it always desires to return to the same form."
-    new "Без постоянного давления тело вернётся к своей естественной форме. Как пузырёк, оно всегда стремится вернуться к той же форме."
+    new "Без постоянного давления тело вернётся к своей естественной форме. Как мыльный пузырь, оно всегда стремится вернуться к той же форме."
 
     old "This lightness is an aberration, and your body will drive it out over time, unless you keep enforcing it."
     new "Эта лёгкость — аномалия, и тело со временем избавится от неё, если ты не будешь постоянно её поддерживать."
@@ -743,7 +743,7 @@ translate ru strings:
     new "Как мне это сделать?"
 
     old "Even I don't know how you do it. You just do it. It's like how a pigeon can find its way home, even across many miles."
-    new "Даже я не знаю, как именно это делается. Ты просто делаешь. Как голубь находит дорогу домой за много миль."
+    new "Даже я не знаю, как именно это делается. Ты просто делаешь это. Как голубь находит дорогу домой за много миль."
 
     old "Something intrinsic in our nature."
     new "Что-то врождённое в нашей природе."

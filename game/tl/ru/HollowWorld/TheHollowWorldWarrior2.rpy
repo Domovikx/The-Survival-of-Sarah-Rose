@@ -269,7 +269,7 @@ translate ru strings:
     new "И она сама себя пугала, понимая, что предела её выносливости может и не быть."
 
     old "Well, like I said, I don't know a damn thing more than you do."
-    new "Ну, как я и сказала, я знаю не больше твоего ни хрена."
+    new "Ну, как я и сказала, я знаю не больше твоего — ни хрена."
 
     old "And that's fine with you?"
     new "И тебя это устраивает?"
@@ -299,7 +299,7 @@ translate ru strings:
     new "И, может быть, тебя."
 
     old "This world is filled to the brim with worthless people. Best we can do is try and look out for the handful of people that matter."
-    new "Этот мир до краёв заполнен никчёмными людьми. Лучшее, что мы можем сделать, — это заботиться о тех немногих, кто имеет значение."
+    new "Этот мир до краёв заполнен никчёмными людьми. Лучшее, что мы можем сделать, — это заботиться о тех немногих, кто этого стоит."
 
     old "Sarah looked out towards the horizon, the sun had begun its descent. A few hours and the scorching heat would turn to biting cold."
     new "Сара посмотрела на горизонт: солнце начало клониться к закату. Через несколько часов палящая жара сменится ледяным холодом."
@@ -464,7 +464,7 @@ translate ru strings:
     new "Сара ещё этого не осознавала."
 
     old "She knew the palace had been all that Samayra had ever known, but she hadn't yet concluded that this meant the desert and its violent elements appeared natural to her."
-    new "Она знала, что дворец был всем, что знала Самайра, но ещё не пришла к выводу, что пустыня и её суровые условия кажутся той естественными."
+    new "Она знала, что дворец был всем, что знала Самайра, но ещё не пришла к выводу, что пустыня и её суровые условия кажутся ей естественными."
 
     old "Huh, I hadn't thought about that."
     new "Хм, я не думала об этом."
@@ -611,7 +611,7 @@ translate ru strings:
     new "Сара ударила кулаком по земле и поднялась на ноги."
 
     old "Fuck me..."
-    new "Ёбаный..."
+    new "Твою мать..."
 
     old "Walking a small distance away from the campfire, Sarah slowly saw the world grow darker around her."
     new "Отойдя на небольшое расстояние от костра, Сара почувствовала, как мир вокруг погружается во тьму."
@@ -692,7 +692,7 @@ translate ru strings:
     new "Сара сделала ещё шаг вперёд."
 
     old "Be that as it may, you're not going to be doing that to her. Understand?"
-    new "Как бы то ни было, ты не будешь этого делать. Ясно?"
+    new "Как бы то ни было, ты не будешь этого делать с ней. Ясно?"
 
     old "The soldier grunted."
     new "Солдат проворчал."

@@ -582,31 +582,31 @@ translate ru strings:
 
     # Source: renpy\common\00preferences.rpy:393
     old "self voicing"
-    new "озвучивание текста"
+    new "самоозвучивание"
 
     # Source: renpy\common\00preferences.rpy:402
     old "self voicing volume drop"
-    new "снижение громкости при озвучивании"
+    new "снижение громкости при самоозвучивании"
 
     # Source: renpy\common\00accessibility.rpy:193
     old "Self-Voicing"
-    new "Озвучивание текста"
+    new "Самоозвучивание"
 
     # Source: renpy\common\00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "Озвучивание текста отключено."
+    new "Самоозвучивание отключено."
 
     # Source: renpy\common\00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new "Озвучивание текста включено. "
+    new "Самоозвучивание включено. "
 
     # Source: renpy\common\00preferences.rpy:603
     old "Self-voicing enabled. Press 'v' to disable."
-    new "Озвучивание текста включено. Нажмите 'v' для отключения."
+    new "Самоозвучивание включено. Нажмите 'v' для отключения."
 
     # Source: renpy\common\00accessibility.rpy:215
     old "Self-Voicing Volume Drop"
-    new "Снижение громкости при озвучивании"
+    new "Снижение громкости при самоозвучивании"
 
     # Source: renpy\common\00console.rpy:919
     old "short: Shorten the representation of objects on the console (default)."
@@ -959,3 +959,4 @@ translate ru strings:
     # Source: renpy\common\00director.rpy:1487
     old "⬇"
     new "⬇"
+

@@ -5,7 +5,7 @@
 translate ru strings:
 
     old "The army marched on Sarah's suspicion, and in less than a day, they encroached upon the outer limits of the city of Nauyziri."
-    new "Армия выступила по подозрению Сары, и менее чем за день они достигли внешних границ города Науизири."
+    new "Армия выступила, поверив подозрениям Сары, и менее чем за день они достигли внешних границ города Науйзири."
 
     old "As far east as civilization had ever gone, the city had been one of the first to be abandoned when the empire of Bagrad receded."
     new "Будучи самым восточным форпостом цивилизации, город стал одним из первых, покинутых при отступлении империи Баград."
@@ -32,16 +32,16 @@ translate ru strings:
     new "Но заговоры больше не рождались здесь. Уже нет."
 
     old "As the army drew nearer to the city, Sarah felt her heart soar at the sight of life."
-    new "Когда армия приблизилась к городу, сердце Сары взлетело при виде жизни."
+    new "Когда армия приблизилась к городу, сердце Сары забилось чаще при виде жизни."
 
     old "Small plumes of smoke hinted that there were other people."
     new "Маленькие столбы дыма намекали, что здесь есть другие люди."
 
     old "If the Mythran army had not been here, as Vaelen had said, with its many supplies, Sarah feared that even the miracle of the lake would not save them."
-    new "Если бы мифранская армия не стояла здесь, как говорил Ваэлен, со всеми её припасами, Сара боялась, что даже чудо озера не спасло бы их."
+    new "Если бы митранская армия не стояла здесь, как говорил Ваэлен, со всеми её припасами, Сара боялась, что даже чудо озера не спасло бы их."
 
     old "As the army made its way through the outskirts and into the proper center of the city, they soon came upon the first Mythran soldiers."
-    new "Когда армия прошла через окраины и вошла в настоящий центр города, они вскоре наткнулись на первых мифранских солдат."
+    new "Когда армия прошла через окраины и вошла в настоящий центр города, они вскоре наткнулись на первых митранских солдат."
 
     old "They were greeted with a mixture of surprise and bemusement."
     new "Их встретили со смесью удивления и недоумения."
@@ -50,7 +50,7 @@ translate ru strings:
     new "Её собственные войска были измотаны пустыней, их кожа покрылась волдырями и стала тёмно-красной."
 
     old "By contrast, the Mythran troops appeared in good spirits, well fed and jovial."
-    new "Мифранские войска, напротив, выглядели бодрыми, сытыми и весёлыми."
+    new "Митранские войска, напротив, выглядели бодрыми, сытыми и весёлыми."
 
     old "As they marched along the main road, the city eventually parted, giving way to a large open square."
     new "Когда они шли по главной дороге, город наконец расступился, открывая большую площадь."
@@ -59,10 +59,10 @@ translate ru strings:
     new "Приглядевшись, Сара могла разглядеть остатки великого города."
 
     old "Far more eastern, even than Bagrad, the city of Nauyziri had suffered the advance of the desert for far longer, and more intensely."
-    new "Город Науизири, находившийся куда восточнее даже Баграда, принимал на себя наступление пустыни гораздо дольше и сильнее."
+    new "Город Науйзири, находившийся куда восточнее даже Баграда, страдал от наступления пустыни гораздо дольше и сильнее."
 
     old "If Bagrad was a shadow of its former self, then on Nauyziri was a spectral shade."
-    new "Если Баград был тенью себя прежнего, то Науизири был призрачной тенью."
+    new "Если Баград был тенью себя прежнего, то Науйзири был призрачной тенью."
 
     old "Caved in houses. Cracks than ran through the road. A long unused fountain, partially buried in the sand."
     new "Обрушенные дома. Трещины, пересекающие дорогу. Давно не используемый фонтан, наполовину погребённый в песке."
@@ -149,7 +149,7 @@ translate ru strings:
     new "Только по необходимости. Вы просто сосредоточьтесь на обеспечении безопасности."
 
     old "Ooh, and I doubt you'll see much action, but there are some tribesmen that like to poke at our outer line, try and sneak into the city."
-    new "О, и вряд ли вы увидите много боевых действий, но есть несколько племенных, которые любят тыкаться в наш внешний периметр, пытаясь пробраться в город."
+    new "О, и вряд ли вы увидите много боевых действий, но есть несколько дикарей, которые любят тыкаться в наш внешний периметр, пытаясь пробраться в город."
 
     old "Having some extra hands to secure the outter perimeter will work wonders."
     new "Дополнительные руки для охраны внешнего периметра творят чудеса."
@@ -158,7 +158,7 @@ translate ru strings:
     new "Сара нахмурилась, глядя на него с некоторым недоумением."
 
     old "Tribesmen? On this side of the ocean?"
-    new "Племенные? На этой стороне океана?"
+    new "Дикари? На этой стороне океана?"
 
     old "I figured you would have heard."
     new "Я думал, ты слышала."
@@ -221,7 +221,7 @@ translate ru strings:
     new "Думаешь, я отслеживаю каждую захолустную провинцию в мире?"
 
     old "To hear him describe her home as little more than a province stung, though to a Mythran, that was likely how most of the Union Kingdoms appeared."
-    new "Слышать, как он называет её дом всего лишь провинцией, было обидно, хотя для мифранца именно так, вероятно, и выглядели большинство Союзных Королевств."
+    new "Слышать, как он называет её дом всего лишь провинцией, было обидно, хотя для митранца именно так, вероятно, и выглядели большинство Союзных Королевств."
 
     old "I was only wondering."
     new "Я просто спросила."
@@ -278,7 +278,7 @@ translate ru strings:
     new "После того, как она выжила в пустыне, всё остальное казалось лёгким."
 
     old "Their supplies had been restocked from the Mythran supplies, and all the food and drink they had lacked for weeks, was now in abundance."
-    new "Их припасы пополнили из мифранских запасов, и вся еда и питьё, которых им не хватало неделями, теперь были в изобилии."
+    new "Их припасы пополнили из митранских запасов, и вся еда и питьё, которых им не хватало неделями, теперь были в изобилии."
 
     old "The water in the desert had cleared the stress from her body, making her feel clean again."
     new "Вода в пустыне смыла напряжение с её тела, позволив ей снова почувствовать себя чистой."
@@ -371,7 +371,7 @@ translate ru strings:
     new "Она увидела, как Самайра покачала головой."
 
     old "You're a lot of things Sarah, but you're not ordinary."
-    new "Ты много чем являешься, Сара, но обычной — нет."
+    new "Ты много кем была, Сара, но обычной — нет."
 
     old "Sarah looked at the girl, she suddenly noticed her flushed face, her wobbling pose."
     new "Сара посмотрела на девушку и вдруг заметила её раскрасневшееся лицо, покачивающуюся позу."
@@ -476,7 +476,7 @@ translate ru strings:
     new "Честно говоря, эта мысль мелькнула у меня на полсекунды."
 
     old "Leave all this bullshit to the rest of you. But what can I say, I'm a glutton for punishment."
-    new "Оставить всю эту херню остальным. Но что поделать, я любительница наказаний."
+    new "Оставить всю эту херню остальным. Но что поделать, я люблю нарываться."
 
     old "Sarah watched Kate's eyes scan across the improvised campsite."
     new "Сара наблюдала, как взгляд Кейт скользит по импровизированному лагерю."
@@ -584,7 +584,7 @@ translate ru strings:
     new "Думаешь, это действительно позади?"
 
     old "I wish I knew. All I know is that some wounds don't heal, and some thoughts can't be undone."
-    new "Хотела бы я знать. Знаю только, что некоторые раны не заживают, а некоторые мысли невозможно отменить."
+    new "Хотела бы я знать. Знаю только, что некоторые раны не заживают, а некоторые мысли не выкинуть из головы."
 
     old "The things people said, if only for a moment...they were there. And they're always going to be there, under the surface."
     new "Слова, которые люди сказали, пусть всего на миг...они были. И они всегда будут там, под поверхностью."
@@ -656,7 +656,7 @@ translate ru strings:
     new "Не, лучшие палатки должны доставаться нежным девушкам. Им нужнее."
 
     old "Ooh! Low blow."
-    new "О! Ниже пояса."
+    new "О! Удар ниже пояса."
 
     old "Sarah felt Kate begin to pull on the straps on her armor. Sarah moved her body, giving Kate trouble."
     new "Сара почувствовала, как Кейт начала тянуть за ремни её доспеха. Сара дёрнулась, мешая Кейт."
@@ -815,7 +815,7 @@ translate ru strings:
     new "Чувствуя, как удовольствие нарастает, Сара просто позволила Кейт делать своё дело."
 
     old "There was a lot that Sarah could appreciate about Kate, but when it came to this, she valued above all her experience."
-    new "Саре было за что ценить Кейт, но в этом деле она превыше всего ценила её опыт."
+    new "Саре было за что ценить Кейт, но в этом деле она ставила превыше всего её опыт."
 
     old "Kate knew the ways of her body, and she delighted in her conquest of it."
     new "Кейт знала пути её тела и наслаждалась его покорением."

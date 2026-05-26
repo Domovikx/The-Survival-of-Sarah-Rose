@@ -52,7 +52,7 @@ translate ru strings:
     new "Ctrl"
 
     old "D-Pad, Sticks"
-    new "D-Pad, Стики"
+    new "Крестовина, Стики"
 
     old "Dialogue"
     new "Диалог"

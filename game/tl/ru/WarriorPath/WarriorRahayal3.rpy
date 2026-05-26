@@ -8,7 +8,7 @@ translate ru strings:
     new "Сара проснулась рано на следующее утро от стука служанки в дверь."
 
     old "She and Lady Carolyn had been summoned to Gilead's Estate for their meeting."
-    new "Её и леди Кэролин вызвали в поместье Гилеада для встречи."
+    new "Её и леди Кэролин вызвали в поместье Гилэда для встречи."
 
     old "Sarah had quickly finished getting dressed and Lady Carolyn had already been waiting for her."
     new "Сара быстро закончила одеваться, а леди Кэролин уже ждала её."
@@ -50,7 +50,7 @@ translate ru strings:
     new "Сара снова посмотрела в окно. Было рано, но улицы уже начинали заполняться."
 
     old "I guess...perhaps I still don't quite know what to say when I meet this Gilead."
-    new "Наверное... я всё ещё не совсем знаю, что сказать, когда встречу этого Гилеада."
+    new "Наверное... я всё ещё не совсем знаю, что сказать, когда встречу этого Гилэда."
 
     old "You will know when we are there."
     new "Ты поймёшь, когда мы будем там."
@@ -182,7 +182,7 @@ translate ru strings:
     new "Леди Кэролин откинулась назад."
 
     old "I will not force your hand on the matter of Gilead, though I will advise you that I believe we will need his Legions."
-    new "Я не буду принуждать тебя в вопросе Гилеада, хотя посоветую: я верю, что его Легионы нам понадобятся."
+    new "Я не буду принуждать тебя в вопросе Гилэда, хотя посоветую: я верю, что его Легионы нам понадобятся."
 
     old "But you must take charge of the refugees of Rosanna and lead them back home."
     new "Но ты должна взять на себя ответственность за беженцев Розанны и повести их домой."
@@ -212,7 +212,7 @@ translate ru strings:
     new "Остаток пути они проехали в молчании."
 
     old "Their carriage pulled through the vast gates of Gilead's Estate."
-    new "Их карета проехала через огромные ворота поместья Гилеада."
+    new "Их карета проехала через огромные ворота поместья Гилэда."
 
     old "As soon as they arrived, servants rushed up and ushered them into the great Estate."
     new "Как только они прибыли, слуги поспешили к ним и проводили их в великое поместье."
@@ -233,7 +233,7 @@ translate ru strings:
     new "Где он?"
 
     old "Gilead? Ooh, he'll show up in a moment."
-    new "Гилеад? О, он появится с минуты на минуту."
+    new "Гилэд? О, он появится с минуты на минуту."
 
     old "He likes to do things like this."
     new "Он любит такие штуки."
@@ -272,7 +272,7 @@ translate ru strings:
     new "Двое слуг провели их через дверь к большому трону в дальнем конце комнаты."
 
     old "Sitting there, the man that could only be Gilead."
-    new "Там сидел человек, которым мог быть только Гилеад."
+    new "Там сидел человек, которым мог быть только Гилэд."
 
     old "Sarah thought of him as a man, but his pale, unnatural skin made him appear anything but."
     new "Сара думала о нём как о человеке, но его бледная, неестественная кожа не давала забыть об обратном."
@@ -290,7 +290,7 @@ translate ru strings:
     new "Леди Кэролин слегка поклонилась."
 
     old "Lord Gilead, as always an honour and a great priviledge to be hosted by yourself."
-    new "Лорд Гилеад, как всегда, честь и большая привилегия быть принятой вами."
+    new "Лорд Гилэд, как всегда, честь и большая привилегия быть принятой вами."
 
     old "Carolyn gestured towards Sarah."
     new "Кэролин указала на Сару."
@@ -317,7 +317,7 @@ translate ru strings:
     new "Её слова повисли в воздухе."
 
     old "Sarah eyed the man named Gilead, waiting his next move."
-    new "Сара смотрела на человека по имени Гилеад, ожидая его следующего хода."
+    new "Сара смотрела на человека по имени Гилэд, ожидая его следующего хода."
 
     old "Please, stand up any friend of Carolyn is a friend of mine."
     new "Пожалуйста, встаньте, любой друг Кэролин — мой друг."
@@ -335,13 +335,13 @@ translate ru strings:
     new "Даже целая жизнь солдата не сотрёт этого."
 
     old "She watched as Gilead leaned back in his chair, appearing entirely comfortable. Almost disinterested."
-    new "Она наблюдала, как Гилеад откинулся на спинку стула, выглядя совершенно расслабленным. Почти безучастным."
+    new "Она наблюдала, как Гилэд откинулся на спинку стула, выглядя совершенно расслабленным. Почти безучастным."
 
     old "All of it was a game, Sarah knew that much."
     new "Всё это было игрой, Сара это знала."
 
     old "Lady Carolyn had told her how much was at stake for Gilead."
-    new "Леди Кэролин рассказала ей, как много поставлено на карту для Гилеада."
+    new "Леди Кэролин рассказала ей, как много поставлено на карту для Гилэда."
 
     old "But a man like him would not be foolish enough to appear desperate."
     new "Но такой человек, как он, не был бы настолько глуп, чтобы показывать отчаяние."
@@ -380,7 +380,7 @@ translate ru strings:
     new "Я бы с радостью послушал."
 
     old "Gilead clapped his hands together, and a servant came rushing."
-    new "Гилеад хлопнул в ладоши, и слуга поспешил войти."
+    new "Гилэд хлопнул в ладоши, и слуга поспешил войти."
 
     old "Yes, Master?"
     new "Да, господин?"
@@ -395,7 +395,7 @@ translate ru strings:
     new "Так же быстро, как слуга появился, он и исчез."
 
     old "The food that Gilead had requested began to stream into the room almost immediately."
-    new "Еда, которую заказал Гилеад, начала поступать в комнату почти немедленно."
+    new "Еда, которую заказал Гилэд, начала поступать в комнату почти немедленно."
 
     old "And the food seemed without end."
     new "И еде, казалось, не было конца."
@@ -425,7 +425,7 @@ translate ru strings:
     new "Всего несколько, обещаю."
 
     old "Sarah began to tell Gilead of her story."
-    new "Сара начала рассказывать Гилеаду свою историю."
+    new "Сара начала рассказывать Гилэду свою историю."
 
     old "She could think of no better place to start than at the start."
     new "Она не могла придумать лучшего места для начала, чем с самого начала."
@@ -443,7 +443,7 @@ translate ru strings:
     new "И вот как я оказалась здесь, завожу новых друзей."
 
     old "Gilead smiled as he looked from Sarah to Carolyn."
-    new "Гилеад улыбнулся, переводя взгляд с Сары на Кэролин."
+    new "Гилэд улыбнулся, переводя взгляд с Сары на Кэролин."
 
     old "What a story."
     new "Какая история."
@@ -452,7 +452,7 @@ translate ru strings:
     new "Не просто принцесса, но и воин. Весьма внушительное сочетание."
 
     old "Gilead seemed pleased, almost as if he had to restrain himself."
-    new "Гилеад казался довольным, почти будто сдерживал себя."
+    new "Гилэд казался довольным, почти будто сдерживал себя."
 
     old "Just a woman, trying to survive."
     new "Просто женщина, пытающаяся выжить."
@@ -467,7 +467,7 @@ translate ru strings:
     new "А что насчёт вас?"
 
     old "Gilead raised one eyebrow."
-    new "Гилеад поднял одну бровь."
+    new "Гилэд поднял одну бровь."
 
     old "Carolyn has brought us together, praying we make good friends."
     new "Кэролин свела нас, надеясь, что мы станем хорошими друзьями."
@@ -476,7 +476,7 @@ translate ru strings:
     new "Но я предпочитаю узнать друга перед тем, как... ну, лечь с ним в постель, так сказать."
 
     old "Gilead grinned, amused."
-    new "Гилеад усмехнулся, развлечённый."
+    new "Гилэд усмехнулся, развлечённый."
 
     old "Yes, I suppose that is only fair after I asked you a thousand questions."
     new "Да, полагаю, это справедливо после того, как я задал вам тысячу вопросов."
@@ -512,7 +512,7 @@ translate ru strings:
     new "И я вступил в Мифранскую армию."
 
     old "Gilead looked off into the distance, recalling memories."
-    new "Гилеад посмотрел вдаль, вспоминая."
+    new "Гилэд посмотрел вдаль, вспоминая."
 
     old "I was clever enough, had the right name and the connections, so I made Commander in time."
     new "Я был достаточно умён, имел нужное имя и связи, так что со временем стал Командором."
@@ -557,7 +557,7 @@ translate ru strings:
     new "Кампанию возглавлял Ноктори, который был больше занят разграблением земель, чем их надлежащим покорением."
 
     old "Gilead knocked his knuckles against the table."
-    new "Гилеад постучал костяшками по столу."
+    new "Гилэд постучал костяшками по столу."
 
     old "At that very same moment, the Orcish tribes, defeated but not yet broken, launched their last great raid on our Empire."
     new "В тот самый момент оркские племена, побеждённые, но ещё не сломленные, совершили свой последний великий набег на Империю."
@@ -632,10 +632,10 @@ translate ru strings:
     new "Друзья с общими целями."
 
     old "Lady Carolyn raised her glass, though neither Sarah nor Gilead joined her."
-    new "Леди Кэролин подняла бокал, хотя ни Сара, ни Гилеад не присоединились."
+    new "Леди Кэролин подняла бокал, хотя ни Сара, ни Гилэд не присоединились."
 
     old "Sarah saw Gilead lean closer."
-    new "Сара увидела, как Гилеад наклонился ближе."
+    new "Сара увидела, как Гилэд наклонился ближе."
 
     old "Carolyn has surely told you of what I intend to offer you."
     new "Кэролин, должно быть, уже рассказала вам, что я намерен вам предложить."
@@ -665,7 +665,7 @@ translate ru strings:
     new "Это значит, что я готова выслушать ваше предложение. Что ещё можно просить?"
 
     old "Gilead leaned back, pausing for a moment."
-    new "Гилеад откинулся назад, на мгновение задумавшись."
+    new "Гилэд откинулся назад, на мгновение задумавшись."
 
     old "I offer you your country, and you hestitate?"
     new "Я предлагаю вам вашу страну, а вы колеблетесь?"
@@ -701,7 +701,7 @@ translate ru strings:
     new "Такие гордые и независимые, вы, народ Объединённого Королевства."
 
     old "Gilead sipped from his wine, before placing the cup back on the table."
-    new "Гилеад отпил из своего бокала, прежде чем поставить его обратно на стол."
+    new "Гилэд отпил из своего бокала, прежде чем поставить его обратно на стол."
 
     old "Fine, you speak plainly to me, and I will offer you that same kindness in return."
     new "Хорошо, вы говорите со мной прямо, и я отвечу вам той же любезностью."
@@ -716,7 +716,7 @@ translate ru strings:
     new "Что бы вы тогда попросили?"
 
     old "Gilead shrugged."
-    new "Гилеад пожал плечами."
+    new "Гилэд пожал плечами."
 
     old "First I shall put you back on the throne with the support of my Legions."
     new "Сначала я верну вас на трон при поддержке моих Легионов."
@@ -743,13 +743,13 @@ translate ru strings:
     new "Вы вернёте себе трон, а я попрошу лишь об ответном отношении и определённом предпочтении."
 
     old "Carolyn had told her what Gilead was after. The conflict itself could be the point for him."
-    new "Кэролин рассказала ей, чего на самом деле добивается Гилеад. Сам конфликт мог быть для него целью."
+    new "Кэролин рассказала ей, чего на самом деле добивается Гилэд. Сам конфликт мог быть для него целью."
 
     old "And what if I reject your offer?"
     new "А что, если я отвергну ваше предложение?"
 
     old "Gilead threw up his hands."
-    new "Гилеад вскинул руки."
+    new "Гилэд вскинул руки."
 
     old "I will not beg you to grant you a gift, Sarah."
     new "Я не стану умолять вас принять дар, Сара."
@@ -764,7 +764,7 @@ translate ru strings:
     new "Тогда ваши донесения ошибочны."
 
     old "Gilead was sharp in his response."
-    new "Гилеад был резок в ответе."
+    new "Гилэд был резок в ответе."
 
     old "The Tribesmen have lost some interest in Rosanna, this is true, but they are still a warrior people."
     new "Племена потеряли некоторый интерес к Розанне, это правда, но они всё ещё воинственный народ."
@@ -788,19 +788,19 @@ translate ru strings:
     new "С моими Легионами победа неизбежна."
 
     old "Gilead leaned forward."
-    new "Гилеад наклонился вперёд."
+    new "Гилэд наклонился вперёд."
 
     old "So I will be plain, Sarah Rose, daughter of Orwen...will you accept my help?"
     new "Итак, буду говорить прямо, Сара Роуз, дочь Орвена... вы примете мою помощь?"
 
     old "Accept Gilead's offer"
-    new "Принять предложение Гилеада"
+    new "Принять предложение Гилэда"
 
     old "I will take your offer."
     new "Я принимаю ваше предложение."
 
     old "Gilead clasped his hands together."
-    new "Гилеад сцепил руки."
+    new "Гилэд сцепил руки."
 
     old "I promise you will not regret this."
     new "Обещаю, вы не пожалеете об этом."
@@ -836,10 +836,10 @@ translate ru strings:
     new "Глубокой ночью они продолжали обсуждать свои планы."
 
     old "Finally, when they had said the last of it, signed the last papers and treaties, did they take their leave from Gilead."
-    new "Наконец, когда они сказали последнее слово, подписали последние бумаги и договоры, они покинули Гилеада."
+    new "Наконец, когда они сказали последнее слово, подписали последние бумаги и договоры, они покинули Гилэда."
 
     old "Sarah marched away, leaving Gilead behind and Carolyn running after her."
-    new "Сара зашагала прочь, оставив Гилеада позади, а Кэролин побежала за ней."
+    new "Сара зашагала прочь, оставив Гилэда позади, а Кэролин побежала за ней."
 
     old "When Carolyn ran up besides her, she turned to her."
     new "Когда Кэролин поравнялась с ней, Сара повернулась к ней."
@@ -863,7 +863,7 @@ translate ru strings:
     new "Они покинули поместье, возвращаясь в дом Кэролин, чтобы привести свои планы в действие."
 
     old "Reject Gilead's offer, reclaim Rosanna alone"
-    new "Отклонить предложение Гилеада, вернуть Розанну одной"
+    new "Отклонить предложение Гилэда, вернуть Розанну одной"
 
     old "No, I will not accept your support."
     new "Нет, я не приму вашу поддержку."

@@ -19,9 +19,18 @@
 
 ---
 
+## Как скачать русификатор с GitHub
+
+[**⬇ Скачать ZIP**](https://github.com/Domovikx/The-Survival-of-Sarah-Rose/archive/refs/heads/master.zip) — нажмите, чтобы скачать архив последней версии.
+
+Или через репозиторий:
+1. Откройте [github.com/Domovikx/The-Survival-of-Sarah-Rose](https://github.com/Domovikx/The-Survival-of-Sarah-Rose)
+2. Нажмите зелёную кнопку **<> Code ▼ → Download ZIP**
+3. Распакуйте ZIP-архив в любую папку
+
 ## Как установить русскую локализацию The Survival of Sarah Rose
 
-1. Скопируйте папку `game/tl/ru/` в директорию игры по пути `The Survival of Sarah Rose/game/tl/ru/`
+1. Скопируйте папку `game/tl/ru/` из скачанного архива в директорию игры по пути `The Survival of Sarah Rose/game/tl/ru/`
 2. Скопируйте файлы интерфейса в корень `game/`:
    - `game/screens.rpy` — интерфейс и шрифт с кириллицей
    - `game/gui.rpy` — настройки GUI

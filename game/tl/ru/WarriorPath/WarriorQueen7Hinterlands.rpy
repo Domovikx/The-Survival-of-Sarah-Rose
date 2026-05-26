@@ -20,7 +20,7 @@ translate ru strings:
     new "Холодные ветры с далёких западных Хайральских гор приносили с собой жестокий град и ледяную стужу."
 
     old "Sarah watched the men of her army stumble through the fields, their heavy equipment slowing them down even further."
-    new "Сара смотрела, как солдаты её армии пробираются через поля, а тяжёлое снаряжение замедляло их ещё сильнее."
+    new "Сара смотрела, как солдаты её армии пробираются через поля, а тяжёлое снаряжение замедляло их ещё больше."
 
     old "Gathered around campfires at night, people sought out a warmth that lasted only briefly."
     new "Собираясь у костров по ночам, люди искали тепло, длившееся лишь недолго."
@@ -50,10 +50,10 @@ translate ru strings:
     new "Они неподвижно сидели на обочине, ожидая смерти, которая казалась менее ужасной, чем бесконечные страдания от мороза."
 
     old "On her orders, they did their best to bring these men into the medical carts, but some slipped through."
-    new "По её приказу они старались затаскивать таких солдат в медицинские повозки, но некоторых упускали."
+    new "По её приказу они старались забирать таких солдат в медицинские повозки, но некоторых упускали."
 
     old "Left behind to die to the frost, their bodies preserved until the spring."
-    new "Оставленные умирать от мороза, их тела сохранялись до весны."
+    new "Оставленные замерзать насмерть, они коченели до самой весны."
 
     old "Her army suffered the battering of the elements."
     new "Её армия страдала от ударов стихии."
@@ -62,10 +62,10 @@ translate ru strings:
     new "Но она выстояла."
 
     old "By little over a week's march, they had finally made it through the Hinterlands."
-    new "Спустя чуть больше недели марша они наконец пересекли Приграничье."
+    new "Спустя чуть больше недели пути они наконец пересекли Приграничье."
 
     old "They had survived the raids by the Tribesmen. They had survived the merciless frost. And now, she was rewarded."
-    new "Они пережили набеги Племенных. Они пережили безжалостный мороз. И теперь она была вознаграждена."
+    new "Они пережили набеги Племенников. Они пережили безжалостный мороз. И теперь она была вознаграждена."
 
     old "Sarah, near the vanguard of her army, was one of the first to cross over the hill."
     new "Сара, находившаяся рядом с авангардом своей армии, одной из первых перевалила через холм."

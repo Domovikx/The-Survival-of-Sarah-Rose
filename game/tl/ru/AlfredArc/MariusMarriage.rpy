@@ -11,7 +11,7 @@ translate ru strings:
     new "Но даже при этом она видела, как его глаза начали светиться."
 
     old "Sarah...you...you really mean that?"
-    new "Сара... ты... ты правда это имеешь в виду?"
+    new "Сара... ты... ты серьёзно?"
 
     old "He walked closer to her, but just before he reached her, she pushed him back."
     new "Он подошёл ближе, но прямо перед тем, как он коснулся её, она оттолкнула его."
@@ -179,7 +179,7 @@ translate ru strings:
     new "Да... я согласен..."
 
     old "His voice was soft, as if not believing it was all real."
-    new "Его голос был тихим, словно он не верил, что всё это реально."
+    new "Его голос был тихим, словно он не верил, что всё это происходит наяву."
 
     old "The priest turned to her."
     new "Священник повернулся к ней."
@@ -203,7 +203,7 @@ translate ru strings:
     new "Сара видела так много лиц, что они начали сливаться друг с другом."
 
     old "The momentum of the day became impossible to resist."
-    new "Импульс дня стало невозможно сдерживать."
+    new "День нёсся вперёд, не давая ей опомниться."
 
     old "Dragged from one pair of strangers, on to the next."
     new "Её тащили от одной пары незнакомцев к другой."
@@ -218,7 +218,7 @@ translate ru strings:
     new "Сара оказывалась за одним столом, только чтобы её утащили к другому."
 
     old "In the frenzy, she all but lost her husband, who was likewise a slave to the surge of the crowd."
-    new "В этой суете она почти потеряла мужа, который тоже был рабом напора толпы."
+    new "В этой суете она почти потеряла мужа, которого так же увлекала за собой волна толпы."
 
     old "It was only near the end of the night, when the celebrations had finally begun to slow down, that Sarah found her husband again."
     new "Только ближе к концу ночи, когда празднования наконец начали затихать, Сара снова нашла своего мужа."
@@ -302,7 +302,7 @@ translate ru strings:
     new "Сара завела руки назад и медленно расстегнула застёжки на платье."
 
     old "Piece by piece it came off, and she saw his dizzied expression, lost in the sight of her."
-    new "Кусок за куском платье спадало, и она видела его ошеломлённое выражение, потерянное в созерцании её."
+    new "Кусок за куском платье спадало, и она видела его ошеломлённое выражение, застывшее от созерцания её наготы."
 
     old "When Sarah slipped of the last of her underwear, she was finally naked."
     new "Когда Сара сняла последнюю деталь белья, она наконец оказалась обнажённой."
@@ -314,7 +314,7 @@ translate ru strings:
     new "Но он был её мужем."
 
     old "He had a right to all of her, and she wanted to deny him nothing."
-    new "Он имел право на всё, что у неё есть, и она не хотела отказывать ему ни в чём."
+    new "Он имел право на неё всю, и она не хотела отказывать ему ни в чём."
 
     old "Think I'm pretty."
     new "Думаешь, я красивая?"
@@ -413,7 +413,7 @@ translate ru strings:
     new "Затем внезапный короткий стон, нарастающее давление в её руках."
 
     old "And splashing out across the sheets, his semen."
-    new "И выплёскиваясь на простыни, его семя."
+    new "И на простыни выплеснулось его семя."
 
     old "Caught by surprise, it took her a moment to understand."
     new "Застигнутая врасплох, она мгновение не могла понять."
@@ -518,7 +518,7 @@ translate ru strings:
     new "И Мариус поддался её прикосновению, следуя её примеру."
 
     old "Inch by inch, she felt him enter her."
-    new "Дюйм за дюймом она чувствовала, как он входит в неё."
+    new "Мало-помалу она чувствовала, как он входит в неё."
 
     old "The filling sensation driving her ever more in heat, eager for more of it."
     new "Ощущение наполнения распаляло её всё сильнее, заставляя жаждать большего."
@@ -752,7 +752,7 @@ translate ru strings:
     new "Муж был способным учеником и к этому времени уже достаточно хорошо изучил её тело."
 
     old "She bit her lip at the thought of how he might improve further."
-    new "Она прикусила губу при мысли о том, как он может улучшиться дальше."
+    new "Она прикусила губу при мысли о том, насколько ещё лучше он может стать."
 
     old "Are you happy?"
     new "Ты счастлив?"
@@ -770,7 +770,7 @@ translate ru strings:
     new "Сара перевернулась, положив голову ему на грудь, и начала целовать его тело."
 
     old "Kissing his chest, she slowly trailed down, inch by inch with each kiss, until she reached lower still."
-    new "Целуя его грудь, она медленно спускалась ниже, дюйм за дюймом с каждым поцелуем, пока не оказалась ещё ниже."
+    new "Целуя его грудь, она медленно спускалась ниже с каждым поцелуем, пока не оказалась ещё ниже."
 
     old "Sarah grinned and looked up at her husband who by now understood her intentions."
     new "Сара ухмыльнулась и посмотрела на мужа, который уже понял её намерения."
@@ -794,7 +794,7 @@ translate ru strings:
     new "И она гордилась тем, какие ощущения могла ему подарить."
 
     old "He might have improved his stamina when they were having sex, but he was still weak to her mouth and tongue."
-    new "Он, возможно, улучшил свою выносливость во время секса, но всё ещё был слаб перед её ртом и языком."
+    new "Он, возможно, улучшил свою выносливость во время секса, но всё ещё не мог устоять перед её ртом и языком."
 
     old "Sarah casually continued to suck him off, hearing him steadily groan and moan louder."
     new "Сара невозмутимо продолжала отсасывать ему, слыша, как его стоны становятся всё громче."

@@ -5,13 +5,13 @@
 translate ru strings:
 
     old "A few days had passed and their journey had progressed smoothly."
-    new "Прошло несколько дней, и их путешествие продолжалось гладко."
+    new "Прошло несколько дней, и их путешествие шло гладко."
 
     old "Sarah struggled as she carried one of the boxes in her hand."
     new "Сара с трудом несла один из ящиков в руках."
 
     old "The weight of the thing, combined with the shifting motions of the ship on the ocean, made for a hard balancing act."
-    new "Вес ящика в сочетании с качкой корабля в океане превращал простое перемещение в сложный акт балансирования."
+    new "Вес ящика в сочетании с качкой корабля в океане превращал ходьбу в сплошное балансирование."
 
     old "Doing her best, she stumbled from one end to the other."
     new "Изо всех сил она ковыляла от одного конца палубы к другому."
@@ -338,7 +338,7 @@ translate ru strings:
     new "Сара почувствовала его руку на затылке, грубо толкающую её вниз."
 
     old "Her face near to the floor, ass up, she felt him slide in further."
-    new "Лицом почти к полу, задницей вверх, она почувствовала, как он проскользил глубже."
+    new "Лицом почти к полу, задницей вверх, она почувствовала, как он скользнул глубже."
 
     old "He wanted her to feel all of him, every inch, down to his mound."
     new "Он хотел, чтобы она почувствовала его целиком, каждый дюйм, до самого основания."
@@ -542,7 +542,7 @@ translate ru strings:
     new "Она чувствовала, как его семя извергается глубоко внутри."
 
     old "As he emptied the last of himself with his final thrusts, Sarah felt him pull out and she collapsed forward."
-    new "Когда он излил последнее финальными толчками, Сара почувствовала, как он выходит, и рухнула вперёд."
+    new "Когда он излил остаток последними толчками, Сара почувствовала, как он выходит, и рухнула вперёд."
 
     old "Tired, broken, exhausted."
     new "Уставшая, разбитая, измождённая."

@@ -29,10 +29,10 @@ translate ru strings:
     new "Сегодня Кейт согласилась встретиться, но не пришла."
 
     old "To Sarah, it wasn't a terrible surprise. Kate had failed to show up on other days as well."
-    new "Для Сары это не было большим сюрпризом. Кейт не приходит и в другие дни."
+    new "Для Сары это не было большим сюрпризом. Кейт не приходила и в другие дни."
 
     old "In those days, Kate simply practiced by herself. Kate had left her with enough to learn and practice, so Sarah never felt like her training suffered."
-    new "В те дни Сара тренировалась сама. Кейт оставила достаточно для изучения и практики, так что Сара не чувствовала, что страдает."
+    new "В те дни Сара тренировалась сама. Кейт оставила достаточно для изучения и практики, так что Сара не считала, что тренировки страдают."
 
     old "However, she had begun to wonder."
     new "Однако она начала задаваться вопросом."
@@ -62,7 +62,7 @@ translate ru strings:
     new "Напротив неё стояли двое мужчин, пытающихся зажать носы, кровь размазана по лицам."
 
     old "In between the two sides was the camp guard, trying to keep the peace."
-    new "Между ними — лагерный стражник, пытающийся сохранить мир."
+    new "Между ними — лагерный стражник, пытающийся сохранить порядок."
 
     old "Sarah ran over to Kate, kneeled down beside her and put an arm over her."
     new "Сара подбежала к Кейт, опустилась на колени и обняла."
@@ -116,7 +116,7 @@ translate ru strings:
     new "Она подхватила Кейт, перекинув её руку через шею и подняв."
 
     old "With her shoulder under Kate's armpit, she began to lift up her friend and guide her out onto the square outside the camp."
-    new "Плечом под мышку Кейт она начала поднимать подругу и выводить на площадь."
+    new "Закинув руку Кейт себе на плечо, она начала поднимать подругу и выводить на площадь перед лагерем."
 
     old "Sarah was glad Kate was able to at least stand a little bit. Carrying her friend entirely on her own strength still seemed impossible."
     new "Сара была рада, что Кейт хотя бы немного стояла. Нести подругу самостоятельно всё ещё казалось невозможным."
@@ -191,7 +191,7 @@ translate ru strings:
     new "Кейт усмехнулась."
 
     old "Happy...I gave up on that a long time ago..."
-    new "Счастье... я оставила это давно..."
+    new "Счастье... я махнула на это рукой давно..."
 
     old "Vaelen...he gave me a purpose, made my life have meaning. He never said shit about being happy."
     new "Ваэлен... он дал мне цель, смысл жизни. Он ни хрена не говорил о счастье."
@@ -200,7 +200,7 @@ translate ru strings:
     new "Кейт снова откинулась, раскинув руки."
 
     old "Survive, try to have more good days than bad days, what more can I ask for?"
-    new "Выживать, стараться, чтобы хороших дней было больше, чем плохих — о чём ещё просить?"
+    new "Выживать, стараться, чтобы хороших дней было больше, чем плохих — о чём ещё можно просить?"
 
     old "Sarah grabbed her friend's hand and pulled it to her lap."
     new "Сара взяла руку подруги и положила к себе на колени."
@@ -221,7 +221,7 @@ translate ru strings:
     new "Жизнь не дала тебе хороших карт, но ты выжила. Не благодаря удаче или чьей-то милости, а потому что продолжала бороться."
 
     old "You have a drive in you Kate, and it can't just all have been because you wanted to live a few days longer so you could drink a few days more."
-    new "В тебе есть драйв, Кейт, и это не может быть просто желанием прожить подольше, чтобы ещё попить."
+    new "В тебе есть драйв, Кейт, и это не может быть просто желанием прожить подольше, чтобы ещё выпить."
 
     old "If all you wanted to do was survive, you would have stayed in Rosanna and never left."
     new "Если бы ты хотела только выживать, осталась бы в Розанне и никогда не ушла."

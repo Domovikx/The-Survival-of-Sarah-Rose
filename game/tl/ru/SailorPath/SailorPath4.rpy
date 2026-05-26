@@ -77,7 +77,7 @@ translate ru strings:
     new "Это значит, что я возьму тебя ученицей."
 
     old "And that means you get the pay of an apprentice."
-    new "А это значит, что ты получишь жалованье ученика."
+    new "А это значит, что ты получишь жалованье ученицы."
 
     old "Sarah paused for a moment, but she knew she had no room to negotiate. In truth, she didn't think she could demand any wage at all, given her limited experience."
     new "Сара на мгновение заколебалась, но знала, что у неё нет места для переговоров. По правде говоря, она не считала, что может требовать хоть какую-то плату, учитывая свой ограниченный опыт."
@@ -86,10 +86,10 @@ translate ru strings:
     new "Да, это справедливо."
 
     old "Alright then, let's make this official, follow me."
-    new "Хорошо тогда, давай сделаем это официальным, следуй за мной."
+    new "Хорошо тогда, давай сделаем это официально, следуй за мной."
 
     old "Sarah watched captain Belmont turn around and head below deck. Dutifully, she followed."
-    new "Сара смотрела, как капитан Белмонт разворачивается и направляется вниз под палубу. Послушно она последовала за ним."
+    new "Сара смотрела, как капитан Белмонт разворачивается и направляется под палубу. Послушно она последовала за ним."
 
     old "Following Belmont, Sarah found herself back at his cabin, by now a familiar place."
     new "Следуя за Белмонтом, Сара снова оказалась в его каюте — к тому времени уже знакомом месте."
@@ -119,7 +119,7 @@ translate ru strings:
     new "Стягивая бретельки с плеч, Сара почувствовала, как платье легко соскальзывает, падая вокруг её ног."
 
     old "She'd been here many times before. Performed for him."
-    new "Она бывала здесь много раз прежде. Выступала для него."
+    new "Она бывала здесь много раз прежде. Угождала ему."
 
     old "All this now came to her as a second nature."
     new "Теперь всё это стало для неё второй натурой."
@@ -131,7 +131,7 @@ translate ru strings:
     new "Сара приняла позу, слегка наклонившись вперёд."
 
     old "She knew he could appreciate that part of her wanted him. That the part that wanted him was greater than the part of her that was disgusted by him."
-    new "Она знала, что он мог оценить, что часть её хотела его. Что часть, желавшая его, была больше той части, которую он отвращал."
+    new "Она знала, что он мог оценить, что часть её хотела его. Что часть, желавшая его, была больше той, что чувствовала к нему отвращение."
 
     old "Sarah could see his eyes going up and down her body."
     new "Сара видела, как его глаза скользят вверх и вниз по её телу."
@@ -182,7 +182,7 @@ translate ru strings:
     new "Сара схватила одежду и на мгновение подняла её, разглядывая."
 
     old "It was functional, but she doubted she'd ever have chosen to wear something like this in her life. That is, if her life had not turned out the way that it had."
-    new "Одежда была функциональной, но она сомневалась, что когда-нибудь выбрала бы носить такое в своей жизни. То есть, если бы её жизнь не сложилась так, как сложилась."
+    new "Одежда была функциональной, но она сомневалась, что когда-нибудь выбрала бы носить такое в своей жизни. То есть, если бы её жизнь не сложилась иначе."
 
     old "Sarah turned back around and started fiddling with the clothes."
     new "Сара развернулась и начала возиться с одеждой."
@@ -248,7 +248,7 @@ translate ru strings:
     new "Сара выполнила его приказ, поднимая платье."
 
     old "Obey the captain. Life could be so easy, she thought. Away from all the complexities of her former life."
-    new "Подчиняться капитану. Жизнь может быть такой простой, думала она. Вдали от всех сложностей её прежней жизни."
+    new "Подчиняться капитану. Жизнь могла бы быть такой простой, думала она. Вдали от всех сложностей её прежней жизни."
 
     old "Now, rip those up and throw them in the boiler, we can use the fuel."
     new "А теперь порви это и брось в топку, используем как топливо."
@@ -368,7 +368,7 @@ translate ru strings:
     new "Ничего, сэр."
 
     old "Sarah felt her ass turn red from the swift yet hard spank he gave her."
-    new "Сара почувствовала, как её задница покраснела от быстрой, но сильной шлепка, который он ей отвесил."
+    new "Сара почувствовала, как её задница покраснела от быстрого, но сильного шлепка, который он ей отвесил."
 
     old "That's what I thought, blondie."
     new "То-то же, блондиночка."
@@ -542,19 +542,19 @@ translate ru strings:
     new "Затем она почувствовала, как его семя изверглось глубоко внутри неё."
 
     old "In this moment, she knew Belmont was closest to an animal, wildly thrusting, only concerned with his own climax."
-    new "В этот момент она знала, что Белмонт был ближе всего к животному — неистово входя, заботясь лишь о собственной кульминации."
+    new "В этот момент она знала, что Белмонт был ближе всего к животному — неистово входя, заботясь лишь о собственном оргазме."
 
     old "Only concerned with filling her up with as much of his cum as he could manage."
     new "Озабоченный лишь тем, чтобы наполнить её как можно большим количеством своей спермы."
 
     old "She could feel him emptying the contents of his balls into her."
-    new "Она чувствовала, как он опустошает содержимое своих яиц внутрь неё."
+    new "Она чувствовала, как он опустошает содержимое своих яичек внутрь неё."
 
     old "So full, she felt some of his semen spill out of her, trickling past her legs."
     new "Так полно, что она почувствовала, как часть его семени вытекает из неё, стекая по ногам."
 
     old "And still she moved for him, accomodating her as best she could with her body, drawing out every last drop he had to offer."
-    new "И всё же она двигалась для него, принимая его так хорошо, как могла, вытягивая каждую последнюю каплю, которую он мог предложить."
+    new "И всё же она двигалась для него, принимая его своим телом так хорошо, как могла, вытягивая каждую последнюю каплю, которую он мог предложить."
 
     old "With each motion, his thrusts slowed, gradually building down until the last of his semen was released."
     new "С каждым движением его толчки замедлялись, постепенно затихая, пока не вышла последняя капля его семени."
@@ -644,7 +644,7 @@ translate ru strings:
     new "Он указал на кучу обрывков, которая когда-то была её платьем."
 
     old "Sarah looked down between her legs and saw the fragments that had been tied around her wrists and the piece that had been used to gag her."
-    new "Сара посмотрела вниз между ног и увидела обрывки, которыми были связаны её запястья, и кусок, который был использован как кляп."
+    new "Сара посмотрела вниз между ног и увидела обрывки, которыми были связаны её запястья, и кусок, которым ей заткнули рот."
 
     old "Between her knees were the largest pieces of her torn dress."
     new "Между коленями лежали самые большие куски её разорванного платья."
@@ -692,7 +692,7 @@ translate ru strings:
     new "Раньше её бы это отвратило, поняла она, но теперь казалось бессмысленным из-за этого переживать."
 
     old "She tried to think if there was any part of her where he hadn't sprayed his semen on her. And if so, why get worked up over cum on her hands?"
-    new "Она попыталась вспомнить, была ли хоть одна часть её тела, на которую он не распылил свою сперму. И если так, то зачем переживать из-за спермы на руках?"
+    new "Она попыталась вспомнить, была ли хоть одна часть её тела, на которую он не излил свою сперму. И если так, то зачем переживать из-за спермы на руках?"
 
     old "Sarah shrugged and carried the torn dress to the ship's boiler."
     new "Сара пожала плечами и понесла разорванное платье к корабельной топке."

@@ -26,7 +26,7 @@ translate ru strings:
     new "Вместо того чтобы разгуливать в одежде своего завоевателя, она теперь спала голой в постели, что принадлежала ему."
 
     old "The room, and everything in it, was hers to use, but his by right."
-    new "Комната и всё в ней было её для пользования, но его по праву."
+    new "Комната и всё в ней было в её распоряжении, но по праву принадлежало ему."
 
     old "As she caught her own reflection in a mirror, she realized that she and her body were no exception."
     new "Поймав своё отражение в зеркале, она поняла, что она и её тело не были исключением."
@@ -314,7 +314,7 @@ translate ru strings:
     new "А позади них — больше людей, чем ты когда-либо видела скота, закованных в цепи и тащившихся следом."
 
     old "When you close your eyes and paid attention you could hear them cry out the first few weeks, even all the way in ere"
-    new "Когда закрываешь глаза и прислушиваешься, можно было слышать их крики первые несколько недель, даже здесь."
+    new "Когда закрываешь глаза и прислушиваешься, можно слышать их крики первые несколько недель, даже здесь."
 
     old "Guess they brought you over later."
     new "Наверное, тебя привезли позже."
@@ -581,7 +581,7 @@ translate ru strings:
     new "Может быть. Но ты принцесса, Аяка — дочь знатного дома, Найдин — женщина из Племён."
 
     old "And me, nobody daughter to a nomad clan."
-    new "А я — дочь никчёмного кочевого клана."
+    new "А я — дочь никого, из кочевого клана."
 
     old "I wasn't even special within our clan."
     new "Я даже внутри своего клана не была особенной."
@@ -635,7 +635,7 @@ translate ru strings:
     new "Все в конце концов сдаются ему."
 
     old "But a part of her did. Resented the girl for surrendering to the Khan."
-    new "Но часть её действительно это делала. Обижалась на девушку за то, что та сдалась Хану."
+    new "Но часть её действительно осуждала. Обижалась на девушку за то, что та сдалась Хану."
 
     old "Couldn't they at least pretend to resist? Or did they really sell themselves so cheaply?"
     new "Не могли они хотя бы притворяться, что сопротивляются? Или они действительно продали себя так дёшево?"
@@ -677,7 +677,7 @@ translate ru strings:
     new "В этом был определённый смысл."
 
     old "A practical surrender."
-    new "Практичная капитуляция."
+    new "Прагматичная капитуляция."
 
     old "It's interesting though."
     new "Это интересно, однако."
@@ -737,7 +737,7 @@ translate ru strings:
     new "Все говорили, что камень чёрный, но мне казалось таким очевидным, что он красный."
 
     old "The stone had never seemed anything other than red to her as well."
-    new "Камень ей тоже никогда не казался ничем, кроме красного."
+    new "Камень ей тоже всегда казался только красным."
 
     old "Like, it was so obvious, I couldn't understand how they'd even get it wrong."
     new "То есть, это было настолько очевидно, я не могла понять, как они могли ошибиться."
@@ -833,7 +833,7 @@ translate ru strings:
     new "Сара подождала ещё несколько мгновений, но когда девушка вынырнула, она была на другом конце бассейна."
 
     old "It was obvious that she was done having whatever fun she had been having with Sarah."
-    new "Было очевидно, что она закончила веселье с Сарой."
+    new "Было очевидно, что София больше не хотела веселиться с Сарой."
 
     old "She knew when she wasn't wanted anymore."
     new "Она знала, когда она больше не нужна."

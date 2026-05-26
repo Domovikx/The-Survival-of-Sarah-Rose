@@ -473,7 +473,7 @@ translate ru strings:
     new "Раздвинув ноги, обвив их вокруг его ног, она позволила ему взять её легче."
 
     old "It would hurt less, this was, she thought."
-    new "Так будет менее больно, подумала она."
+    new "Так будет не так больно, подумала она."
 
     old "She could hear the groaning and heavy breathing of the orc's appreciation."
     new "Она слышала его стоны и тяжёлое дыхание."

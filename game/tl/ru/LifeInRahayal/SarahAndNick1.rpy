@@ -8,7 +8,7 @@ translate ru strings:
     new "Сара проснулась от первых лучей рассвета."
 
     old "Sheltered, warmed by the fire and waking to the gentle and ethereal light of the Hyral mountains splintering on the fog, Sarah imagined herself dreaming."
-    new "Укрытая, согретая огнём и пробуждаясь под нежный, эфирный свет Хайральских гор, дробящийся в тумане, Сара вообразила, что спит."
+    new "Укрытая, согретая огнём, пробуждаясь в нежном, эфирном свете Хайральских гор, дробящемся в тумане, Сара вообразила, что спит."
 
     old "The light seemed to diffuse, turning beams into almost a mist of sun."
     new "Свет, казалось, рассеивался, превращая лучи почти в солнечную дымку."
@@ -17,7 +17,7 @@ translate ru strings:
     new "Возможно, она умерла, подумала Сара, и за свою несчастную жизнь боги решили вознаградить её."
 
     old "But as she drew in the could mountain air, she was reminded that she was still on the mortal plan."
-    new "Но вдохнув холодный горный воздух, она вспомнила, что всё ещё находится на смертном плане."
+    new "Но вдохнув холодный горный воздух, она вспомнила, что всё ещё находится в мире смертных."
 
     old "Opposite of her, she could see Nick was still sleeping. The rising and falling of his chest telling her he had, thankfully, not died in his sleep during the night."
     new "Напротив неё она видела, что Ник всё ещё спит. Вздымающаяся и опускающаяся грудь говорила ей, что, к счастью, он не умер во сне за ночь."
@@ -32,7 +32,7 @@ translate ru strings:
     new "Снаружи пейзаж всё ещё был покрыт снегом."
 
     old "What little Sarah knew of this place, she knew that the snow here was permanent. No passing of the seasons affected it."
-    new "Из того малого, что Сара знала об этом месте, она знала: снег здесь вечен. Смена времён года не затрагивала его."
+    new "Сара знала об этом месте немного, но понимала: снег здесь вечен. Смена времён года не затрагивала его."
 
     old "As she looked towards Nick and herself, and made an account of what little they had, she began to worry."
     new "Взглянув на Ника и себя, и прикинув, как мало у них было, она начала тревожиться."
@@ -44,7 +44,7 @@ translate ru strings:
     new "Пещера и костёр помогали согреваться, но еды у них не было. Они не могли оставаться в пещере надолго — иначе умерли бы с голоду."
 
     old "They would have to set out soon."
-    new "Им придётся отправиться в путь вскоре."
+    new "Им вскоре придётся отправиться в путь."
 
     old "But the nearest human settlement was hundreds of miles by coast."
     new "Но ближайшее человеческое поселение находилось в сотнях миль вдоль побережья."
@@ -140,7 +140,7 @@ translate ru strings:
     new "Его голос был тихим. Вероятно, он всё ещё был ослаблен ледяной водой."
 
     old "Hey. Did you get any good sleep?"
-    new "Эй. Ты хорошо выспалась?"
+    new "Эй. Ты хорошо выспался?"
 
     old "He slightly nodded."
     new "Он слегка кивнул."
@@ -269,7 +269,7 @@ translate ru strings:
     new "И всё же, вопреки всем её надеждам, она начала опасаться худшего."
 
     old "Neither of them had much experience surviving out in the wild."
-    new "Ни у кого из них не было большого опыта выживания в дикой природе."
+    new "Ни у кого из них не было большого опыта выживания в диких землях."
 
     old "And these mountains could prove a test for the most tested of veterans."
     new "И эти горы могли стать испытанием даже для самых закалённых ветеранов."
@@ -302,7 +302,7 @@ translate ru strings:
     new "Я не чувствую ног... рук... я... ничего не чувствую..."
 
     old "His voice was soft, almost hard to hear over they gyre."
-    new "Его голос был тихим, его почти не было слышно за этим круговоротом."
+    new "Его голос был тихим, его почти не было слышно за воем стихии."
 
     old "Just a bit more."
     new "Ещё немного."
@@ -320,7 +320,7 @@ translate ru strings:
     new "Немного отдыха... костёр..."
 
     old "The cold was overpowering. Her limbs trembled."
-    new "Холод был невыносимым. Её конечности дрожали."
+    new "Холод был невыносимым. Её руки и ноги дрожали."
 
     old "She wanted nothing more than heat...but a fire was a risk."
     new "Она хотела только тепла... но костёр был риском."

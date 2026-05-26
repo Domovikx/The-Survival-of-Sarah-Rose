@@ -35,7 +35,7 @@ translate ru strings:
     new "Сара тихо открыла дверь и прокралась в комнату."
 
     old "Sitting in front of his desk, busily scribbling notes, her husband was working diligently."
-    new "Сидя за столом и занято записывая что-то, её муж усердно работал."
+    new "Сидя за столом и что-то записывая, её муж усердно работал."
 
     old "She stomped her feet onto the floor."
     new "Она топнула ногой об пол."
@@ -101,7 +101,7 @@ translate ru strings:
     new "Сара села к нему на колени."
 
     old "She slowly moved her body back and forth across his."
-    new "Она медленно двигала телом вперёд-назад по нему."
+    new "Она медленно двигалась на нём вперёд-назад."
 
     old "Well, I'm not really looking for you to fulfill your general's duties..."
     new "Что ж, я не особенно рассчитываю на исполнение твоих генеральских обязанностей..."
@@ -242,7 +242,7 @@ translate ru strings:
     new "Сара делает всего несколько шагов, прежде чем рухнуть обнажённой на кровать."
 
     old "She can feel some of his seed leaking from between her legs. She wishes she could keep all of him inside of her."
-    new "Она чувствует, как немного его семени вытекает у неё между ног. Она желает, чтобы могла сохранить всего его внутри себя."
+    new "Она чувствует, как немного его семени вытекает у неё между ног. Ей хочется сохранить всего его внутри себя."
 
     old "She watches Varga put his cock back into his pants."
     new "Она наблюдает, как Варга прячет член обратно в штаны."

@@ -38,7 +38,7 @@ translate ru strings:
     new "Её рука потянулась вытащить дротик из шеи."
 
     old "She could feel it, but before she could even properly grip it, she felt the world begin to blur."
-    new "Она ощущала его, но прежде чем успела как следует ухватиться, почувствовала, как мир开始 расплываться."
+    new "Она ощущала его, но прежде чем успела как следует ухватиться, почувствовала, как мир начал расплываться."
 
     old "Get rid of it."
     new "Избавься от него."
@@ -158,7 +158,7 @@ translate ru strings:
     new "Поднявшись на колени, Сара попыталась оценить обстановку."
 
     old "Only now did she realize she was naked."
-    new "Только сейчас она осознала, что голая."
+    new "Только сейчас она осознала, что она голая."
 
     old "The vile creatures had robbed her of everything she had, clothes included."
     new "Мерзкие твари забрали у неё всё, включая одежду."
@@ -209,7 +209,7 @@ translate ru strings:
     new "Они начали переговариваться на мерзком языке, который она совершенно не понимала."
 
     old "Low and gutteral."
-    new "Низком и гортанном."
+    new "Низким и гортанным."
 
     old "Though she spoke not their language, she knew well enough they were talking about her."
     new "Хотя она не знала их языка, она прекрасно понимала, что говорят о ней."
@@ -284,7 +284,7 @@ translate ru strings:
     new "Мерзкая тварь просто смотрела на неё со злобной ухмылкой."
 
     old "Did it even speak her language? Did it even understand her warning?"
-    new "Говорило ли оно вообще на её языке? Поняло ли её предупреждение?"
+    new "Говорил ли он вообще на её языке? Понял ли её предупреждение?"
 
     old "It wouldn't matter, she thought to herself."
     new "Это не имело значения, подумала она."

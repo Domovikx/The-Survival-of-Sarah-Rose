@@ -95,7 +95,7 @@ translate ru strings:
     new "Это потрясающе. Я и не знала, что такое существует."
 
     old "Sarah herself was impressed with this place, but she realized Samayra must have been even more so."
-    new "Сара и сама была впечатлена этим местом, но понимала, что Самайра, должно быть, впечатлена ещё больше."
+    new "Сара и сама была впечатлена этим местом, но понимала, что на Самайру оно произвело ещё более сильное впечатление."
 
     old "Even a regular forest must seem special to a girl born to the desert."
     new "Даже обычный лес, должно быть, кажется особенным девушке, рождённой в пустыне."
@@ -134,7 +134,7 @@ translate ru strings:
     new "Чудо из чудес и магии, скреплённое волей богов."
 
     old "All brought low by the ambition of one woman."
-    new "Всё низвергнутое амбициями одной женщины."
+    new "Всё низвергнуто амбициями одной женщины."
 
     old "As her eyes roamed the now abandoned ruins, Sarah tried to imagine how this place must have looked at its peak."
     new "Бродя взглядом по ныне заброшенным руинам, Сара пыталась представить, как это место выглядело в расцвете."
@@ -215,7 +215,7 @@ translate ru strings:
     new "Самайра, уже уставшая, не стала спорить с Сарой."
 
     old "Sarah watched Samayra settle in for the night."
-    new "Сара наблюдала, как Самайра устраивается на ночь."
+    new "Сара наблюдала, как Самайра устраивалась на ночь."
 
     old "Sarah took off her backpack and began making camp."
     new "Сара сняла рюкзак и начала разбивать лагерь."
@@ -302,7 +302,7 @@ translate ru strings:
     new "Девушка проснулась и быстро вскочила на ноги."
 
     old "Blue fire wrapped itself around her hands. She was ready quick."
-    new "Голубое пламя обвилось вокруг её рук. Она была готова быстро."
+    new "Голубое пламя обвилось вокруг её рук. Она быстро приготовилась."
 
     old "We're being attacked!"
     new "Нас атакуют!"
@@ -347,7 +347,7 @@ translate ru strings:
     new "Девушка, хоть и менее опытная, сумела произвести достаточно магического огня, чтобы поджечь существо."
 
     old "Samayra's flame burned less intensely, and instead, the goblin died screaming."
-    new "Пламя Самайры горело не так сильно, и гоблин умер, крича."
+    new "Пламя Самайры горело не так сильно, и гоблин умер с криком."
 
     old "Sarah sighed a breath of relief, knowing that the girl could put up a fight."
     new "Сара вздохнула с облегчением, понимая, что девушка может дать отпор."
@@ -359,10 +359,10 @@ translate ru strings:
     new "Остальные существа наступающей орды, похоже, заметили это."
 
     old "Instead of rushing forward, they began to encircle."
-    new "Вместо того чтобы броситься вперёд, они начали окружать."
+    new "Вместо того чтобы броситься вперёд, они начали окружать их."
 
     old "Seizing on the magical energies around her, Sarah began to weave a protective ward."
-    new "Ухватившись за магическую энергию вокруг себя, Сара начала плести защитный барьер."
+    new "Уловив магическую энергию вокруг себя, Сара начала плести защитный барьер."
 
     old "Another arrow flew out."
     new "Ещё одна стрела вылетела."

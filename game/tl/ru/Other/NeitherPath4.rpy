@@ -11,10 +11,10 @@ translate ru strings:
     new "Каждый день приносил всё более мрачные вести: новые налёты, новые атаки, новые неудачи."
 
     old "But while the news of the country was dire, reports from lord Varga and her Spymaster Kravel seemed to indicate there was hope too."
-    new "Но пока вести из страны были тревожными, донесения лорда Варги и её шпионмастера Крэвела, казалось, указывали на то, что надежда ещё есть."
+    new "Но пока вести из страны были тревожными, донесения лорда Варги и главы разведки Крэвела, казалось, указывали на то, что надежда ещё есть."
 
     old "The Rosannan army had been slow to mobilize, but was by now quickly gathering."
-    new "Росаннская армия медленно мобилизовалась, но теперь быстро собиралась."
+    new "Розаннская армия медленно мобилизовалась, но теперь быстро собиралась."
 
     old "Marion and the old houses had the advantage of their standing army of highly trained and well equipped soldiers, but they were few in numbers."
     new "У Мариона и старых домов было преимущество в виде постоянной армии высококвалифицированных и хорошо экипированных солдат, но их было мало."
@@ -248,7 +248,7 @@ translate ru strings:
     new "С тех пор как началась война... дороги стали опасными."
 
     old "There aren't nearly as many merchants coming to market as before, and many farmers have held onto their food, fearing what the future might bring."
-    new "На рынок приезжает почти не так много торговцев, как раньше, и многие фермеры придерживают свою еду, боясь того, что может принести будущее."
+    new "На рынок приезжает гораздо меньше торговцев, чем раньше, и многие фермеры придерживают свою еду, боясь того, что может принести будущее."
 
     old "The girl suddenly stepped forward."
     new "Девушка внезапно шагнула вперёд."
@@ -365,7 +365,7 @@ translate ru strings:
     new "Её нужно наказать для примера"
 
     old "Sarah couldn't deny that in the grand scheme of things, some stolen food was hardly a problem."
-    new "Сара не могла отрицать, что в общей схеме вещей немного украденной еды вряд ли было проблемой."
+    new "Сара не могла отрицать, что по большому счёту немного украденной еды вряд ли было проблемой."
 
     old "But Carolyn had raised some good points. If she let this go, where would it end?"
     new "Но Кэролайн привела веские доводы. Если она отпустит это, где это закончится?"
@@ -398,7 +398,7 @@ translate ru strings:
     new "С каждым ударом кнута на её спине прибавлялся новый рубец."
 
     old "More than the wickedness of the whip, which the girl had earned, Sarah could also hear the cruel laughter of the gathered crowds."
-    new "Больше жестокости кнута, которую девушка заслужила, Сара слышала жестокий смех собравшейся толпы."
+    new "Больше, чем жестокость кнута, которую девушка заслужила, Сара слышала жестокий смех собравшейся толпы."
 
     old "Floggings were a public affair, meant to in equal measure inflict pain and humiliation."
     new "Порка была публичным действом, призванным в равной мере причинить боль и унижение."
@@ -557,7 +557,7 @@ translate ru strings:
     new "Солнце уже садилось, заливая залы золотым светом."
 
     old "Usually, the castle was filled with life, a coming and going of nobles and commoners, each with their own reason for seeking an audience."
-    new "Обычно замок был полон жизни — приходы и уходы дворян и простолюдинов, каждый со своей причиной искать аудиенции."
+    new "Обычно замок был полон жизни — туда-сюда сновали дворяне и простолюдины, каждый со своей причиной искать аудиенции."
 
     old "But ever since Marion had raised his banners, the castle had been forced to take its security more serious."
     new "Но с тех пор как Марион поднял свои знамёна, замок был вынужден относиться к безопасности серьёзнее."
@@ -611,7 +611,7 @@ translate ru strings:
     new "Сара рассеянно кивнула."
 
     old "Then again, fire is forged in the crucible of a furnace, and it's my view that the soul is similarly forged under stress, so perhaps you should consider it a blessing."
-    new "С другой стороны, огонь куётся в горниле печи, и я считаю, что душа куётся под стрессом, так что, возможно, тебе стоит считать это благословением."
+    new "С другой стороны, характер закаляется в испытаниях, как металл в горниле, и я считаю, что душа закаляется под давлением обстоятельств, так что, возможно, тебе стоит считать это благословением."
 
     old "Sarah looked at Lady Carolyn, surprised."
     new "Сара удивлённо посмотрела на леди Кэролайн."
@@ -638,7 +638,7 @@ translate ru strings:
     new "У тебя доброе сердце, но сила и любовь — не противоположные силы, моя дорогая."
 
     old "Strengthen your hand, sharpen your mind, and you'll have the power to hold those you love safe."
-    new "Укрепи свою руку, отточи свой ум, и у тебя будет сила защитить тех, кого ты любишь."
+    new "Укрепи свою власть, отточи свой ум, и у тебя будет сила защитить тех, кого ты любишь."
 
     old "Be strong, so that those you love can live soft lives."
     new "Будь сильной, чтобы те, кого ты любишь, могли жить спокойно."
@@ -773,19 +773,19 @@ translate ru strings:
     new "Но для тех, кто на государственных должностях, или в банке, подобном тому, что ведёт моя семья, ты узнаёшь, что деньги — это просто цифры на листе бумаги."
 
     old "And the real power is not in chasing money, but in learning how it can be used to move others around, like how you can manipulate a cat with a string."
-    new "И настоящая власть не в погоне за деньгами, а в том, чтобы узнать, как их можно использовать, чтобы управлять другими, как можно манипулировать кошкой с помощью верёвочки."
+    new "И настоящая власть не в погоне за деньгами, а в том, чтобы узнать, как их можно использовать, чтобы управлять другими, как можно играть с кошкой с помощью верёвочки."
 
     old "Sarah suddenly saw Lady Carolyn turn up her gaze, meeting her eyes."
-    new "Сара внезапно увидела, как леди Кэролайн подняла на неё взгляд, встретившись с ней глазами."
+    new "Сара внезапно увидела, как леди Кэролайн подняла на неё взгляд, встретившись с ней взглядом."
 
     old "Her eyes, Sarah realized, more than any colour or any shape, they were rather defined by her intensity."
-    new "Её глаза, осознала Сара, больше чем какой-либо цвет или форма, определялись их интенсивностью."
+    new "Сара поняла, что глаза леди Кэролайн отличались не цветом или формой, а скорее своей интенсивностью."
 
     old "She watched her, consciously and actively."
     new "Она смотрела на неё осознанно и активно."
 
     old "It made her feel uneasy. Sarah shifted around in her seat."
-    new "Это заставило её чувствовать себя неловко. Сара заёрзала на месте."
+    new "От этого ей стало неловко. Сара заёрзала на месте."
 
     old "She smiled at Lady Carolyn, but she didn't smile back."
     new "Она улыбнулась леди Кэролайн, но та не улыбнулась в ответ."
@@ -803,7 +803,7 @@ translate ru strings:
     new "Вот что это такое."
 
     old "Lady Carolyn tapped one of the many binders containing the financial information of the Rosannan government."
-    new "Леди Кэролайн постучала по одной из множества папок, содержащих финансовую информацию правительства Росанны."
+    new "Леди Кэролайн постучала по одной из множества папок, содержащих финансовую информацию правительства Розанны."
 
     old "These are the books that will make some, and break others. These numbers determine who gets to live in the big houses and who gets to live in the small ones."
     new "Это книги, которые возвышают одних и уничтожают других. Эти цифры определяют, кому жить в больших домах, а кому — в маленьких."
@@ -848,7 +848,7 @@ translate ru strings:
     new "Правда?"
 
     old "Sarah found her piercing eyes, drilling into her. She couldn't help but look away."
-    new "Сара встретила её пронзительный взгляд, сверлящий её. Она не могла не отвести глаза."
+    new "Сара встретила её пронзительный взгляд, буравящий её насквозь. Она не могла не отвести глаза."
 
     old "Take what happened today for example."
     new "Возьми, к примеру, то, что случилось сегодня."
@@ -926,7 +926,7 @@ translate ru strings:
     new "Прости, что заставила этих стражников раздеть и высечь тебя, я ошиблась? Что это ей даст?"
 
     old "Sarah couldn't answer. She only kept her head down, like a poorly behaved child."
-    new "Сара не могла ответить. Она только опустила голову, как плохо ведущий себя ребёнок."
+    new "Сара не могла ответить. Она только опустила голову, как провинившийся ребёнок."
 
     old "I think you just want to apologize to make yourself feel better."
     new "Думаю, ты просто хочешь извиниться, чтобы почувствовать себя лучше."
@@ -944,7 +944,7 @@ translate ru strings:
     new "Ты хоть представляешь, каково это?"
 
     old "If you're going to be strong enough to hand out the punishment, you should be strong enough to endure it."
-    new "Если ты достаточно сильна, чтобы раздавать наказания, ты должна быть достаточно сильна, чтобы выдержать их."
+    new "Если ты достаточно сильна, чтобы назначать наказания, ты должна быть достаточно сильна, чтобы выдержать их."
 
     old "Lady Carolyn suddenly stood up."
     new "Леди Кэролайн внезапно встала."
@@ -1034,7 +1034,7 @@ translate ru strings:
     new "Жгучая боль впилась в её плоть, и Сара поморщилась."
 
     old "The sound of a cracking whip pierced the silence in the small room."
-    new "Звук трескающегося кнута пронзил тишину маленькой комнаты."
+    new "Звук треска кнута пронзил тишину маленькой комнаты."
 
     old "Aah!!"
     new "Ай!!"
@@ -1043,7 +1043,7 @@ translate ru strings:
     new "Сара не смогла подавить крик от внезапной боли."
 
     old "She could not see Lady Carolyn, but she could hear the sounds of her boots as she walked behind her."
-    new "Она не видела леди Кэролайн, но слышала звук её сапог, когда та прошла позади неё."
+    new "Она не видела леди Кэролайн, но слышала звук её сапог, когда та шла позади неё."
 
     old "Perhaps begging might save her."
     new "Может быть, мольбы спасут её."
@@ -1364,7 +1364,7 @@ translate ru strings:
     new "Они лишь сделали реальным то, что Сара уже приняла."
 
     old "Thrusting two fingers into her, Sarah was surprised at how easy Lady Carolyn entered her."
-    new "Вводя в неё два пальца, Сара была удивлена, как легко леди Кэролайн вошла в неё."
+    new "Когда леди Кэролайн ввела в неё два пальца, Сара удивилась, как легко та вошла."
 
     old "When had she become so wet, she couldn't remember."
     new "Когда она стала такой влажной, она не могла вспомнить."
@@ -1397,13 +1397,13 @@ translate ru strings:
     new "Сара не была чужда своему телу, когда была одна, но леди Кэролайн, казалось, знала её тело даже лучше, чем она сама."
 
     old "The pressing of her lips against her neck, the gnawing of teeth, the way her hand seized her breasts and her fingers curled, sliding past her clit..."
-    new "Прижатие губ к её шее, покусывание зубов, то, как рука сжимала её грудь, а пальцы изгибались, скользя по её клитору..."
+    new "Прижатие губ к её шее, покусывание зубами, то, как рука сжимала её грудь, а пальцы изгибались, скользя по её клитору..."
 
     old "It wasn't long before Sarah felt the rush building from between her legs."
-    new "Прошло не много времени, прежде чем Сара почувствовала нарастающий поток между ног."
+    new "Прошло немного времени, прежде чем Сара почувствовала нарастающий поток между ног."
 
     old "As the pleasure reached its climax, Sarah felt the orgasmic energy rush up across her body, each muscle in her body contorting."
-    new "Когда удовольствие достигло кульминации, Сара почувствовала, как оргазмическая энергия разлилась по её телу, каждый мускул исказился."
+    new "Когда удовольствие достигло кульминации, Сара почувствовала, как волна оргазма разлилась по её телу, каждый мускул исказился."
 
     old "A flash passed before her eyes, striking her blind for a moment."
     new "Вспышка промелькнула перед глазами, ослепив её на мгновение."
@@ -1421,7 +1421,7 @@ translate ru strings:
     new "Она на мгновение упала, но затем почувствовала, как кандалы впились в запястья, заставляя её выпрямиться."
 
     old "Too exhausted too stand, too painful to fall, Sarah struggled in limbo."
-    new "Слишком уставшая, чтобы стоять, слишком больно, чтобы упасть, Сара боролась в подвешенном состоянии."
+    new "Слишком уставшая, чтобы стоять, слишком больно, чтобы упасть, Сара балансировала в подвешенном состоянии."
 
     old "She wanted to beg, cry, or really anything that might save her, but she was also so near collapse that she could hardly form the words."
     new "Она хотела умолять, плакать или сделать что-нибудь, что могло бы спасти её, но была так близка к обмороку, что едва могла произнести слова."
@@ -1553,7 +1553,7 @@ translate ru strings:
     new "Полно людей, ищущих одолжений. Очень мало тех, кто честен и искренен."
 
     old "That's what I like about you. You gave me your word, and ever since, you've kept to it. That's more rare than you might imagine."
-    new "Вот что мне нравится в тебе. Ты дала мне слово и с тех пор держишь его. Это более редко, чем ты можешь себе представить."
+    new "Вот что мне нравится в тебе. Ты дала мне слово и с тех пор держишь его. Такое встречается реже, чем ты думаешь."
 
     old "Lily smiled at her."
     new "Лили улыбнулась ей."
@@ -1661,7 +1661,7 @@ translate ru strings:
     new "Утешительно."
 
     old "I'm sorry, I didn't mean to sound defeatist."
-    new "Прости, я не хотела звучать пораженчески."
+    new "Прости, я не хотела, чтобы это звучало так пессимистично."
 
     old "Don't worry about it."
     new "Не беспокойся об этом."
@@ -1700,7 +1700,7 @@ translate ru strings:
     new "Лили поклонилась и повернулась, чтобы уйти."
 
     old "Sarah watched the closest thing she had to a friend walk down the hallway."
-    new "Сара смотрела, как самый близкий к другу человек уходит по коридору."
+    new "Сара смотрела, как её единственная, по сути, подруга уходит по коридору."
 
     old "As she turned the corner, the royal quarters returned to their lonely self."
     new "Когда та свернула за угол, королевские покои вернулись к своему одинокому состоянию."
@@ -1748,7 +1748,7 @@ translate ru strings:
     new "Сара взмахнула руками, указывая на огромный открытый вид, простирающийся над городом до самого горизонта."
 
     old "Not a view like it in all of Rosanna."
-    new "Больше такого вида нет во всей Росанне."
+    new "Больше такого вида нет во всей Розанне."
 
     old "Sarah watched as Lily walked up next to her, leaning on the balcony."
     new "Сара смотрела, как Лили подошла к ней, облокотившись на балкон."

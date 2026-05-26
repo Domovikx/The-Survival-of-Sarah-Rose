@@ -38,7 +38,7 @@ translate ru strings:
     new "Она встала."
 
     old "Hello?!"
-    new "Есть кто?!?"
+    new "Есть кто?!"
 
     old "Repeating it louder made no difference. No answer came."
     new "Повтор громче ничего не изменил. Ответа не было."

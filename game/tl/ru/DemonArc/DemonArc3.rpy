@@ -134,7 +134,7 @@ translate ru strings:
     new "Сколько ему лет?"
 
     old "Several centuries at least, the Master told me that much."
-    new "По крайней мере несколько столетий, Хозяин сказал мне столько."
+    new "По крайней мере несколько столетий, так сказал Хозяин."
 
     old "Centuries. The time span alone seemed beyond belief."
     new "Столетия. Один этот срок казался невероятным."
@@ -191,7 +191,7 @@ translate ru strings:
     new "Он сказал мне, что этот мир когда-то не сильно отличался от большинства миров."
 
     old "It had a few Gods, and there lived people that were not very different from Humans."
-    new "У него было несколько Богов, и там жили люди, не очень отличавшиеся от людей."
+    new "У него было несколько Богов, и там жили существа, не очень отличавшиеся от людей."
 
     old "There were wars and conflict, but nothing crazy. Nothing like what the world looks like now."
     new "Были войны и конфликты, но ничего безумного. Ничего похожего на то, как мир выглядит сейчас."
@@ -206,7 +206,7 @@ translate ru strings:
     new "Все империи и все народы мира, запертые в войне."
 
     old "For their God. Against another. Who even knew by the end."
-    new "За своего Бога. Против другого. Кто вообще знал к концу."
+    new "За своего Бога. Против другого. Кто уже и помнил к тому времени."
 
     old "Dalia slowed her work as she continued the story."
     new "Далия замедлила работу, продолжая рассказ."
@@ -251,7 +251,7 @@ translate ru strings:
     new "Но оставшиеся Боги быстро учились и адаптировались."
 
     old "They began to teach their followers how to wield God killing magic as well."
-    new "Они начали учить своих последователей магии убийства Богов."
+    new "Они начали учить своих последователей магии, способной убивать Богов."
 
     old "Sarah saw a sad smile creep onto Dalia's face."
     new "Сара увидела, как печальная улыбка выползла на лицо Далии."
@@ -260,7 +260,7 @@ translate ru strings:
     new "После этого было лишь вопросом времени, когда Боги начнут умирать один за другим."
 
     old "And when the last God remained, his followers eventually turned on him as well."
-    new "И когда остался последний Бог, его последователи в конце концов тоже восстали на него."
+    new "И когда остался последний Бог, его последователи в конце концов тоже восстали против него."
 
     old "Why did they kill him if they had won the war?"
     new "Зачем они убили его, если уже выиграли войну?"
@@ -296,7 +296,7 @@ translate ru strings:
     new "Вскоре от цивилизации почти ничего не осталось."
 
     old "Once these Mage Kings had ruled over entire Empires, now even the most powerful of them barely control a household."
-    new "Когда-то эти Короли-Маги правили целыми Империями, теперь даже самые могущественные из них едва контролируют одно домохозяйство."
+    new "Когда-то эти Короли-Маги правили целыми Империями, теперь даже самые могущественные из них едва контролируют одно поместье."
 
     old "Sarah had leaned in close as Dalia told the story."
     new "Сара пододвинулась ближе, пока Далия рассказывала историю."
@@ -305,7 +305,7 @@ translate ru strings:
     new "А... Хозяин?"
 
     old "He was powerful...is powerful...but you can see what he has."
-    new "Он был могуществен... он могуществен... но ты видишь, что у него есть."
+    new "Он был могуществен... могуществен и сейчас... но ты видишь, что у него есть."
 
     old "You. Me. A ruined castle."
     new "Ты. Я. Разрушенный замок."
@@ -344,10 +344,10 @@ translate ru strings:
     new "Сара продолжила чистить стены замка."
 
     old "Her mind was spinning, trying to process everything that she had told her."
-    new "Мысли кружились, пытаясь переварить всё, что та рассказала ей."
+    new "Мысли кружились, пытаясь осмыслить всё, что та рассказала ей."
 
     old "And most of all, she felt a growing dread."
-    new "И больше всего она чувствовала растущий страх."
+    new "И больше всего она чувствовала нарастающий страх."
 
     old "She had thought of escaping this world, back to her own."
     new "Она думала о побеге из этого мира, обратно в свой."
@@ -431,7 +431,7 @@ translate ru strings:
     new "Я была лучшей, самой продвинутой студенткой на курсе."
 
     old "Then...one night, someone told me that there was a branch of magic called Daemonology."
-    new "Затем... однажды ночью кто-то сказал мне, что есть раздел магии, называемый Демонология."
+    new "Затем... однажды ночью кто-то сказал мне, что есть раздел магии, называемый демонологией."
 
     old "About...how you could learn to walk between worlds..."
     new "О том... как можно научиться ходить между мирами..."
@@ -452,7 +452,7 @@ translate ru strings:
     new "И первые несколько раз я выскальзывала из нашего мира и парила между всеми этими невероятными мирами."
 
     old "It kept working, so I thought I was so incredible..."
-    new "Это продолжало работать, так что я думала, что я такая невероятная..."
+    new "Это продолжало работать, так что я думала, какая я невероятная..."
 
     old "Then, one time, no different than any other before, I just happened to hear the voice."
     new "Затем, однажды, ничем не отличаясь от других, я случайно услышала голос."
@@ -482,7 +482,7 @@ translate ru strings:
     new "Я продолжала бороться с ним. Продолжала спорить. Пыталась сбежать."
 
     old "Only after months did I finally accept the situation."
-    new "Только через месяцы я наконец приняла ситуацию."
+    new "Лишь спустя месяцы я наконец смирилась с ситуацией."
 
     old "After that, things got easier."
     new "После этого стало легче."

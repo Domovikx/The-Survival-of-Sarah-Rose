@@ -11,7 +11,7 @@ translate ru strings:
     new "Томас сидел не в своём кресле, а на краю стола."
 
     old "The news of Sarah and Varga's enagement had spread like wildfire, and with a few days past, by now most of the kingdom knew."
-    new "Новость о помолвке Сары и Варги распространилась как лесной пожар, и спустя несколько дней уже почти всё королевство знало."
+    new "Новость о помолвке Сары и Варги разнеслась как пожар, и спустя несколько дней уже почти всё королевство знало."
 
     old "With so much work to do, the siblings had had little privacy until today."
     new "Из-за множества дел у брата и сестры почти не было возможности побыть наедине до сегодняшнего дня."
@@ -77,7 +77,7 @@ translate ru strings:
     new "Она никому не рассказывала о них, даже Томасу."
 
     old "All her life she had kept them inside of herselves, fearing that if she spoke them out loud, they might become susceptible to the erosion of the real world."
-    new "Всю жизнь она хранила их внутри себя, боясь, что если произнесёт их вслух, они станут уязвимы для разрушения реальным миром."
+    new "Всю жизнь она хранила их внутри себя, боясь, что если произнесёт их вслух, реальный мир их разрушит."
 
     old "Instead, she found it to be the opposite. Now she knew the memories of her mother lived on in her, as they did in Varga."
     new "Но оказалось наоборот. Теперь она знала, что воспоминания о матери живут в ней, как и в Варге."
@@ -86,7 +86,7 @@ translate ru strings:
     new "Любить этого мужчину, как она поняла, было радостью, затмевающей всё, что она знала прежде."
 
     old "In the deep nights, when she felt the emptiness of her bed and worried, she whispered the words 'husband and wife', and like a spell, they warmed her."
-    new "Глубокой ночью, чувствуя пустоту в своей постели и тревогу, она шептала слова «муж и жена», и они, словно заклинание, согревали её."
+    new "Глубокими ночами, чувствуя пустоту в своей постели и тревогу, она шептала слова «муж и жена», и они, словно заклинание, согревали её."
 
     old "Little did Sarah know that Varga whispered the same spell in his bed most evenings."
     new "Сара не знала, что Варга шептал то же заклинание в своей постели почти каждый вечер."
@@ -122,7 +122,7 @@ translate ru strings:
     new "Спасибо, что заступился за меня, Томас. Я знаю, это непросто."
 
     old "I'd be lying if I said I didn't enjoy watching them squirm just a little. But I do think I'll have to come up with a way to fix the bridges you've burned."
-    new "Я совру, если скажу, что мне не доставило удовольствия наблюдать, как они корчатся. Но я думаю, мне придётся придумать, как наладить сожжённые тобой мосты."
+    new "Я совру, если скажу, что мне не доставило удовольствия наблюдать, как они корчатся. Но я думаю, мне придётся придумать, как восстановить отношения после того, как ты сожгла мосты."
 
     old "Marion, especially. I mean, I know you didn't speak of it, nor did I, but someone did."
     new "Марион, особенно. Я знаю, ты не рассказывала, и я тоже, но кто-то рассказал."
@@ -140,7 +140,7 @@ translate ru strings:
     new "Но ты прав, Томас. Мне следовало больше думать, прежде чем делать то, что я сделала. Я просто так разозлилась..."
 
     old "It's so unlike me to let myself be carried away, but when he did that...I just lost it."
-    new "Это так не похоже на меня — позволить себе увлечься, но когда он это сделал... я просто сорвалась."
+    new "Это так не похоже на меня — позволить себе выйти из себя, но когда он это сделал... я просто сорвалась."
 
     old "Thomas gave his sister a soft punch on her arm, hoping to get her to lighten up."
     new "Томас легонько стукнул сестру по руке, надеясь поднять ей настроение."

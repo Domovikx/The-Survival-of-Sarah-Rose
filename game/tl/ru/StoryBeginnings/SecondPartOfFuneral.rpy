@@ -89,7 +89,7 @@ translate ru strings:
     new "Марион понял намёк."
 
     old "Well, it's late, and I believe that if I keep talking I'll just end up palavering. Take care, my liege, my princess."
-    new "Что ж, уже поздно, и я боюсь, что если продолжу говорить, то просто утомлю вас. Берегите себя, мой государь, моя принцесса."
+    new "Что ж, уже поздно, и я боюсь, что если продолжу говорить, то просто утомлю вас пустой болтовнёй. Берегите себя, мой государь, моя принцесса."
 
     old "Marion performed a near perfect bow before leaving."
     new "Марион сделал почти идеальный поклон перед уходом."
@@ -98,7 +98,7 @@ translate ru strings:
     new "Сара задумалась, не перестарался ли он намеренно, высмеивая попытку брата поклониться."
 
     old "But that was the problem with Marion. Even if you knew he was good at hiding his intentions, it didn't make him any easier to read."
-    new "Но в этом и была проблема с Марионом. Даже зная, что он хорош в сокрытии намерений, его было не легче читать."
+    new "Но в этом и была проблема с Марионом. Даже зная, что он умело скрывает свои намерения, понять его было не легче."
 
     old "The evening carried on, but Marion's departure had signalled to most of the other nobility, that they could leave without facing scrutiny."
     new "Вечер продолжался, но уход Мариона послужил сигналом для остальной знати, что можно уйти без лишних вопросов."
@@ -113,7 +113,7 @@ translate ru strings:
     new "Сара посмотрела на брата — под глазами залегли тёмные круги."
 
     old "Go on, Thomas, you need your rest. There will be a lot more work in the coming days and weeks."
-    new "Иди, Томас, тебе нужно отдохнуть. Впереди ещё много работы."
+    new "Иди, Томас, тебе нужно отдохнуть. В ближайшие дни работы будет много."
 
     old "Thomas did not even protest, he simply turned around and left for his chambers."
     new "Томас даже не возразил — просто развернулся и ушёл в свои покои."

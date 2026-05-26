@@ -17,7 +17,7 @@ translate ru strings:
     new "Когда большинство жило в шатрах и лишь единицы владели постоянными строениями, дом по контрасту выглядел ещё внушительнее."
 
     old "As soon as they stepped inside, the air instantly felt cooler to her skin."
-    new "Как только они вошли внутрь, воздух сразу показался её коже прохладнее."
+    new "Как только они вошли внутрь, воздух сразу показался ей прохладнее."
 
     old "This is your house?"
     new "Это твой дом?"
@@ -29,7 +29,7 @@ translate ru strings:
     new "Сара осмотрела дом. Везде были украшения, словно привезённые со всех уголков мира."
 
     old "It gave the place an incoherent feeling. As if it was somewhat of a storage space, rather than a house that was lived in."
-    new "Это создавало ощущение бессвязности. Будто это было скорее складское помещение, а не жилой дом."
+    new "Это создавало ощущение бессвязности. Будто это был скорее склад, а не жилой дом."
 
     old "She looked at the serious and stoic face of Jaied. Perhaps that was exactly what his house was to him."
     new "Она взглянула на серьёзное и бесстрастное лицо Джаида. Возможно, именно таким его дом и был для него."
@@ -98,7 +98,7 @@ translate ru strings:
     new "И тогда они устремляются в город."
 
     old "The soldiers bring their loot. The merchants eagerly flood in to chase after the wages of the soldiers. And the craftsmen follow."
-    new "Солдаты приносят добычу. Купцы жадно стекаются за деньгами солдат. А ремесленники следуют за ними."
+    new "Солдаты приносят добычу. Купцы толпами стекаются за деньгами солдат. А ремесленники следуют за ними."
 
     old "So the city dies, and so it is reborn. Cycle after cycle."
     new "Так город умирает и так возрождается. Цикл за циклом."
@@ -107,7 +107,7 @@ translate ru strings:
     new "Пока есть Хан, город дышит."
 
     old "Sarah looked deep into his eyes."
-    new "Сара посмотрела глубоко в его глаза."
+    new "Сара заглянула ему в глаза."
 
     old "And when the Khan dies?"
     new "А когда Хан умрёт?"
@@ -230,7 +230,7 @@ translate ru strings:
     new "Я никогда раньше не встречала настоящую принцессу."
 
     old "Sarah watched as the woman's eyes ran up and down her body. She suddenly felt exposed again."
-    new "Сара проследила, как взгляд женщины скользнул по её телу вверх и вниз. Она снова почувствовала себя обнажённой."
+    new "Сара заметила, как взгляд женщины скользнул по её телу вверх и вниз. Она снова почувствовала себя обнажённой."
 
     old "Sarah wrapped her arms, covering her breasts."
     new "Сара скрестила руки, прикрывая грудь."
@@ -251,7 +251,7 @@ translate ru strings:
     new "Жасмин вздохнула."
 
     old "I can be odd. I don't mean anything by it, I just am. You can ask him."
-    new "Я бываю странной. Я не имею этого в виду, я просто такая. Можешь спросить его."
+    new "Я бываю странной. Я ничего такого не имею в виду, я просто такая. Можешь спросить его."
 
     old "She gestured at Jaeid."
     new "Она указала на Джаида."
@@ -470,7 +470,7 @@ translate ru strings:
     new "Джаид махнул рукой, отметая её опасения."
 
     old "Do not think you owe me any thanks, Sarah. I was able to help you, and so I did. If I had not done so...I would not have been able to live with myself."
-    new "Не думай, что ты чем-то мне обязана, Сара. Я мог тебе помочь, и я помог. Если бы я не сделал этого...я бы не смог жить с самим собой."
+    new "Не думай, что ты чем-то мне обязана, Сара. Я мог тебе помочь, и я помог. Если бы я не сделал этого...я бы себе не простил."
 
     old "You're very kind to me, Jaied."
     new "Ты очень добр ко мне, Джаид."

@@ -71,7 +71,7 @@ translate ru strings:
     new "Колеблясь, Сара продолжила читать."
 
     old "Though you have never been formally introduced into our Order, we hereby invite you to our gathering."
-    new "Хотя вы никогда не были официально представлены в наш Орден, мы сим приглашаем вас на наше собрание."
+    new "Хотя вы никогда не были официально представлены в наш Орден, мы настоящим приглашаем вас на наше собрание."
 
     old "We have heard of your good works in helping the evacuation of Lethram."
     new "Мы слышали о ваших добрых делах в помощи эвакуации Летрэма."
@@ -413,7 +413,7 @@ translate ru strings:
     new "Геката лишь пожала плечами."
 
     old "Who knows. They certainly don't tell the rest of us."
-    new "Кто знает. Они явно не говорят об остальным."
+    new "Кто знает. Они явно не говорят об остальных."
 
     old "But whenever they ask us to do something we don't understand, they just say that it's the Will."
     new "Но всякий раз, когда они просят нас сделать что-то непонятное, они просто говорят, что это Воля."

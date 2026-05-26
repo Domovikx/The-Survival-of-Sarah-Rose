@@ -272,7 +272,7 @@ translate ru strings:
     new "Она не смотрела вниз, но чувствовала, что сперма, которую она не успела проглотить, уже стекает между её грудей."
 
     old "Sarah had expected to feel a lot of things, but she was surprised to feel a sense of pride at her performance."
-    new "Сара ожидала чувствовать многое, но была удивлена, ощутив гордость за своё выступление."
+    new "Сара ожидала чувствовать многое, но была удивлена, ощутив гордость за то, как она справилась."
 
     old "Still naked, on her knees, between Varga's legs, she looked up at him till he looked back down."
     new "Всё ещё обнажённая, стоя на коленях между ног Варги, она смотрела на него, пока он не взглянул в ответ."
@@ -404,7 +404,7 @@ translate ru strings:
     new "Да, Варга, тысячу раз да."
 
     old "Locked in an embrace, the two lovers spend the rest of the day in the room, taking an advance on their wedding night."
-    new "Сомкнувшись в объятиях, двое влюблённых проводят остаток дня в комнате, наслаждаясь предвкушением брачной ночи."
+    new "Сомкнувшись в объятиях, двое влюблённых проводят остаток дня в комнате, наслаждаясь друг другом в предвкушении брачной ночи."
 
     old "Turn Varga away"
     new "Прогнать Варгу"

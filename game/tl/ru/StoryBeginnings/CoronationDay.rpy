@@ -26,7 +26,7 @@ translate ru strings:
     new "Согласно указаниям совета, расходов не жалели."
 
     old "Noble families from across the realm had gathered, filling up the entire great hall."
-    new "Знатные семьи со всего королевства собрались, заполнив весь большой зал."
+    new "Дворянские семьи со всего королевства собрались, заполнив весь большой зал."
 
     old "Matching the endless decorations, were the tables, filled to the brim with food prepared by the royal chef."
     new "Под стать бесконечным украшениям были столы, ломившиеся от яств, приготовленных королевским поваром."
@@ -41,7 +41,7 @@ translate ru strings:
     new "Согласно указаниям, замок был украшен скромно."
 
     old "Only the most important noble families had been called into attendance."
-    new "На церемонию пригласили лишь самые важные дворянские семьи."
+    new "На церемонию пригласили лишь самые важные знатные семьи."
 
     old "With so few people present, the great hall somehow felt emptier than usual."
     new "С таким малым количеством гостей большой зал казался почему-то ещё более пустым, чем обычно."
@@ -128,7 +128,7 @@ translate ru strings:
     new "Верховный жрец кивнул, удовлетворённый тем, что божественный гнев не поразил Томаса."
 
     old "Then by the grace of all gods, and in the presence of all the noble families, I declare you King Thomas Rose, sovereign of Rosanna."
-    new "Тогда милостью всех богов и в присутствии всех знатных семей я объявляю вас королём Томасом Роузом, государем Розанны."
+    new "Тогда милостью всех богов и в присутствии всех дворянских семей я объявляю вас королём Томасом Роузом, государем Розанны."
 
     old "The high priest placed the crown atop Thomas' head, and the room errupted into cheers and celebrations."
     new "Верховный жрец возложил корону на голову Томаса, и зал взорвался ликующими криками и торжествами."
@@ -245,7 +245,7 @@ translate ru strings:
     new "На каждом этапе каждый глава семьи Ахиллея вносил свою лепту. Каждый исполнял свою роль и свою задачу с максимальной отдачей."
 
     old "This is how my family came to be as it is today."
-    new "Вот как моя семья стала тем, чем является сегодня."
+    new "Вот какой моя семья стала сегодня."
 
     old "We thrive, only because each generation managed to build on what the one before achieved. Like a large chain, each link, holding the other."
     new "Мы процветаем лишь потому, что каждое поколение строило на том, что достигло предыдущее. Как большая цепь, где каждое звено держит другое."
@@ -359,7 +359,7 @@ translate ru strings:
     new "Варга заметил замешательство Сары и продолжил."
 
     old "My mother died when I was born, and my father remarried several years later with their mother, that's why there is such an age difference."
-    new "Моя мать умерла при моём рождении, а отец женился снова несколько лет спустя на их матери, поэтому такая разница в возрасте."
+    new "Моя мать умерла при моём рождении, а через несколько лет отец снова женился — на их матери, поэтому такая разница в возрасте."
 
     old "His half brothers and half sister."
     new "Его сводные братья и сестра."
@@ -404,7 +404,7 @@ translate ru strings:
     new "Варга на мгновение задумался, подбирая ответ."
 
     old "He strikes me as someone with a kind heart. Too many rulers think that a strong leader means having a cold heart."
-    new "Он кажется мне человеком с добрым сердцем. Слишком многие правители думают, что сильный лидер — значит с холодным сердцем."
+    new "Он кажется мне человеком с добрым сердцем. Слишком многие правители думают, что сильный лидер — значит иметь холодное сердце."
 
     old "I think it's the opposite. Without kindness, you forget what you do it all for...for the people you rule."
     new "Я думаю, наоборот. Без доброты забываешь, ради чего всё это... ради людей, которыми правишь."

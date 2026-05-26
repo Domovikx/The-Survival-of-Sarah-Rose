@@ -104,7 +104,7 @@ translate ru strings:
     new "Возможно, я был слишком суров с тобой."
 
     old "Denied you answers that have long been owed to you."
-    new "Отказывал тебе в ответах, которые давно тебе причитались."
+    new "Отказывал тебе в ответах, которые давно тебе полагались."
 
     old "Sarah turned to face the spirit."
     new "Сара повернулась к духу."
@@ -149,7 +149,7 @@ translate ru strings:
     new "Давным-давно я вообразил, что смогу пройти эту долгую дугу, и часто видел путь во множестве его переменчивых обличий..."
 
     old "Now, so close to the moment, I find my resolve to be as weak and soft as the day I started."
-    new "Теперь, так близко к решающему моменту, я нахожу свою решимость столь же слабой и мягкой, как в день, когда начал."
+    new "Теперь, так близко к решающему моменту, я чувствую, что моя решимость столь же слаба и мягка, как в день, когда я начал."
 
     old "Sarah looked on the spirit, it's shape breaking apart, as if under some great stress."
     new "Сара смотрела на духа: его форма распадалась, словно под невыносимым напряжением."
@@ -272,7 +272,7 @@ translate ru strings:
     new "Почему я не могу пойти с тобой?"
 
     old "It's dangerous. It's dangerous in ways I don't even really understand."
-    new "Это опасно. Опасно так, как я даже не до конца понимаю."
+    new "Это опасно. Опасно так, что я даже не до конца понимаю, чем именно."
 
     old "You'll be safe here, and I promise I'll be back as soon as I can be."
     new "Ты будешь в безопасности здесь, и я обещаю вернуться, как только смогу."
@@ -308,7 +308,7 @@ translate ru strings:
     new "Стоя перед ней, Сара почувствовала мгновение колебания."
 
     old "Here she was, same as before, cast out to the other side of the world on reasons she could hardly understand."
-    new "Вот она, как и прежде, заброшена на другой конец света по причинам, которые едва понимает."
+    new "И вот она снова, как и прежде, заброшена на другой конец света по причинам, которым и сама едва находит объяснение."
 
     old "Some part of her also knew that this time, it was her decision."
     new "Но какая-то её часть также знала, что на этот раз это было её решение."
@@ -323,7 +323,7 @@ translate ru strings:
     new "Свобода, пусть и в искажённом виде."
 
     old "She smiled, comforted by the thought that whatever would happen, it would be her own choice."
-    new "Она улыбнулась, утешенная мыслью, что что бы ни случилось, это будет её собственный выбор."
+    new "Она улыбнулась, утешаясь мыслью, что что бы ни случилось, это будет её собственный выбор."
 
     old "Sarah reached out with her hand, placing it on the handle of the door."
     new "Сара протянула руку и положила её на ручку двери."

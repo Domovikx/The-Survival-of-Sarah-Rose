@@ -155,7 +155,7 @@ translate ru strings:
     new "Заткнись."
 
     old "Be quiet you fat slob!"
-    new "Заткнись, ты, жирный ублюдок!"
+    new "Заткнись, ты, жирный боров!"
 
     old "The room went quiet."
     new "Комната затихла."
@@ -314,7 +314,7 @@ translate ru strings:
     new "Согласен. Нам было бы лучше вообще без лидера, чем... он."
 
     old "Sarah tried to get another word in, but the room was lost to her and fell back into infighting."
-    new "Сара попыталась вставить слово, но комната была потеряна для неё и снова погрузилась в междоусобицы."
+    new "Сара попыталась вставить слово, но она потеряла контроль над разговором, и тот снова погрузился в междоусобицы."
 
     old "For nearly an hour, they went on and on, exchanging insults and incriminations."
     new "Почти час они продолжали перебрасываться оскорблениями и обвинениями."

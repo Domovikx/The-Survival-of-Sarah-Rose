@@ -74,7 +74,7 @@ translate ru strings:
     new "Леди Кэролин держала кабинет в замке и проводила большую часть года в Рейнмире."
 
     old "She was a lady of means, descending from a moderately succesful noble family that had earned its wealth through operating the largest merchant bank in the country."
-    new "Она была состоятельной леди, происходившей из умеренно успешной знатной семьи, заработавшей состояние на управлении крупнейшим торговым банком в стране."
+    new "Она была состоятельной леди из вполне обеспеченной знатной семьи, заработавшей состояние на управлении крупнейшим торговым банком в стране."
 
     old "From an early age, she effortlessly managed her way through noble society. In the end, she managed to secure one of the coveted council seats, even over more prominent families."
     new "С ранних лет она без усилий прокладывала себе путь в знатном обществе. В конце концов она заполучила одно из желанных мест в совете, обойдя даже более влиятельные семьи."
@@ -95,7 +95,7 @@ translate ru strings:
     new "Это была тёплая улыбка, которая показалась Саре странно знакомой. Она заставила её чувствовать себя счастливой, но она не могла понять, почему."
 
     old "That's right, you have never been here. Such a shame, I really should have invited you sooner."
-    new "Верно, ты здесь никогда не была. Какой позор, мне следовало пригласить тебя раньше."
+    new "Верно, ты здесь никогда не была. Как жаль, мне следовало пригласить тебя раньше."
 
     old "You just always seem so busy."
     new "Ты просто всегда казалась такой занятой."
@@ -302,7 +302,7 @@ translate ru strings:
     new "Но достичь баланса легко, когда он у нас есть. Настоящий вопрос в том, как обрести баланс, когда мы слишком в своём разуме или слишком в своём теле?"
 
     old "The answer is simple. Like a scale that tips too much to one end, we only need to press upon the other end."
-    new "Ответ прост. Как весы, склонившиеся слишком в одну сторону, нам нужно лишь надавить на другой конец."
+    new "Ответ прост. Как весы, склонившиеся слишком в одну сторону, нам нужно лишь надавить на другую чашу."
 
     old "Your problem is you're trapped in your own head, worrying, stressing, on and on."
     new "Твоя проблема в том, что ты заперта в собственной голове, беспокоишься, напрягаешься, снова и снова."
@@ -482,7 +482,7 @@ translate ru strings:
     new "Лишь ближе к концу наслаждение отступает, и к Саре возвращаются чувства."
 
     old "For nearly five minutes more, Sarah bucks and grinds her sex up and down, letting Lady Carolyn slowly finger her till every last moment of her climax is finished."
-    new "Ещё почти пять минут Сара дёргается и трётся, позволяя леди Кэролин медленно ласкать её пальцами, пока не иссякнет последний миг её разрядки."
+    new "Ещё почти пять минут Сара дёргается и трётся лоном, позволяя леди Кэролин медленно ласкать её пальцами, пока не иссякнет последний миг её разрядки."
 
     old "She abandons all vanity. She only desperately wants to ride this orgasm to its utter completion."
     new "Она отбрасывает всю гордость. Она лишь отчаянно хочет докатить этот оргазм до полного завершения."
@@ -578,16 +578,16 @@ translate ru strings:
     new "Закрыв за собой дверь и выйдя в коридоры замка Рейнмир, она ощущала своё тело острее, чем когда-либо."
 
     old "If she had to describe it, it was as though she existed more acutely."
-    new "Если бы ей пришлось описать это, она существовала бы более остро."
+    new "Если бы ей пришлось описать это, она чувствовала бы жизнь острее."
 
     old "It was an odd and new sensation for Sarah."
     new "Это было странное и новое ощущение для Сары."
 
     old "Juxtaposed to her new heightend sense was her memory of what had just happened. Did it really happen?"
-    new "Рядом с новым обострённым чувством стояла память о том, что только что произошло. Неужели это действительно случилось?"
+    new "Наряду с новым обострённым чувством в ней жило воспоминание о том, что только что произошло. Неужели это действительно случилось?"
 
     old "Sarah struggled to reconcile her memory of it, with how strange it all seemed looking back."
-    new "Сара пыталась примирить воспоминание с тем, насколько странным всё это казалось оглядываясь назад."
+    new "Сара пыталась осмыслить произошедшее — настолько странным всё это казалось, если оглянуться назад."
 
     old "As she walked further along the castle, a soft pain in her muscles reminded her that it had been true."
     new "Когда она шла дальше по замку, лёгкая боль в мышцах напомнила ей, что это было правдой."
@@ -824,7 +824,7 @@ translate ru strings:
     new "Поэтому вместо этого мама наняла личного инструктора по фехтованию."
 
     old "She said that gods help us if we ever ended up with a man like our father, that we would be able to kill them if they ever laid a hand on us."
-    new "Она сказала, что боги упаси нас оказаться с мужчиной, подобным отцу, но мы сможем убить их, если они хоть пальцем тронут."
+    new "Она сказала, что пусть боги помогут нам, если мы окажемся с мужчиной, подобным отцу, — чтобы мы смогли убить их, если они хоть пальцем нас тронут."
 
     old "I guess it all sounds a bit messed up, but my mom did it out of love. She wanted me and my sisters to be able to be safe in the only way she knew how."
     new "Наверное, это звучит немного безумно, но мама сделала это из любви. Она хотела, чтобы я и сёстры были в безопасности единственным способом, который она знала."
@@ -938,7 +938,7 @@ translate ru strings:
     new "Лили попыталась встать, но Сара удержала её."
 
     old "You had a heat stroke. You've been out here, swinging that sword around, training. You need to go easy on yourself."
-    new "У тебя тепловой удар. Ты была здесь, размахивая мечом, тренируясь. Тебе нужно быть помягче к себе."
+    new "У тебя тепловой удар. Ты была здесь, размахивая мечом, тренируясь. Тебе нужно поберечь себя."
 
     old "Sarah could see shame on Lily's face for having shown this weakness."
     new "Сара видела стыд на лице Лили за то, что показала эту слабость."

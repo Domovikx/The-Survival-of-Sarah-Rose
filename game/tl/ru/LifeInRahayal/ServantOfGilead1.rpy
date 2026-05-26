@@ -59,7 +59,7 @@ translate ru strings:
     new "На мгновение Сара растерялась."
 
     old "Then slowly, her mind processed what she was seeing."
-    new "Затем медленно её сознание осмыслило увиденное."
+    new "Затем до неё медленно дошло увиденное."
 
     old "Up so close, she had mistaken the stone and metal for a wall, but now as she looked up, she saw that they were in fact a gate."
     new "Вблизи она приняла камень и металл за стену, но теперь, подняв взгляд, поняла, что это ворота."
@@ -86,7 +86,7 @@ translate ru strings:
     new "Только осознав, что остальные уходят, она побежала за ней."
 
     old "Just as promised, it was a significantly smaller and less impressive door that offered them entrance to the Estate."
-    new "Как и было обещано, их впустила в поместье куда меньшая и менее внушительная дверь."
+    new "Как он и обещал, их впустила в поместье куда меньшая и менее внушительная дверь."
 
     old "As they entered through the service door, they descended down a series of stairs."
     new "Войдя через служебную дверь, они спустились по нескольким лестничным пролётам."
@@ -173,7 +173,7 @@ translate ru strings:
     new "Это поместье господина Гилеада."
 
     old "As the Headmaster of this Estate, I oversee everything that involves the running of the household."
-    new "Будучи Управляющим этого поместья, я контролирую всё, что связано с ведением хозяйства."
+    new "Как Управляющий этого поместья, я контролирую всё, что связано с ведением хозяйства."
 
     old "I take pride in that and I won't have any of you disrespecting that work."
     new "Я горжусь этим и не позволю никому из вас неуважительно относиться к работе."
@@ -383,7 +383,7 @@ translate ru strings:
     new "Раздевайся, я сказал."
 
     old "I just did."
-    new "Я только что."
+    new "Я только что разделась."
 
     old "All of it. The underwear too."
     new "Всё. Бельё тоже."
@@ -593,7 +593,7 @@ translate ru strings:
     new "Сара, желая поскорее одеться, начала натягивать форму горничной."
 
     old "To her surprise, it fitted her as perfectly as any dress ever had."
-    new "К её удивлению, форма сидела на ней так же идеально, как любое платье."
+    new "К её удивлению, форма сидела на ней идеально, словно была сшита по ней."
 
     old "It...fits. Perfectly."
     new "Она...сидит. Идеально."
@@ -1679,7 +1679,7 @@ translate ru strings:
     new "Ким села на скамейку и жестом пригласила Сару присоединиться."
 
     old "Together, they sat in the sudden peace and quiet of the garden."
-    new "Вместе они сидели в внезапном покое и тишине сада."
+    new "Вместе они сидели во внезапном покое и тишине сада."
 
     old "Kim breathed in deeply."
     new "Ким глубоко вздохнула."
@@ -3002,7 +3002,7 @@ translate ru strings:
     new "Чтобы предупредить меня?"
 
     old "Yes. Warn you, and protect you."
-    new "Да. Предупредить и защитить."
+    new "Да. Предупредить тебя и защитить."
 
     old "Sarah eyed him suspiciously."
     new "Сара посмотрела на него с подозрением."

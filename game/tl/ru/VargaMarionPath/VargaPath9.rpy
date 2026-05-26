@@ -101,7 +101,7 @@ translate ru strings:
     new "А потом ты решаешь выйти замуж за это создание."
 
     old "Marion gestured with his blade towards Varga."
-    new "Мэрион указал клинком на Варгу."
+    new "Марион указал клинком на Варгу."
 
     old "For what? Love?"
     new "Ради чего? Любви?"

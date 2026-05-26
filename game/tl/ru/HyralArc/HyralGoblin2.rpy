@@ -53,7 +53,7 @@ translate ru strings:
     new "Но она терпела, продолжая гладить."
 
     old "Because she knew, given her circumstances, it was always going to be one humiliation or another."
-    new "Знала: в её положении будет одно унижение за другим."
+    new "Она знала: в её положении будет одно унижение за другим."
 
     old "So why not do this too, if it would purchase her freedom?"
     new "Так почему бы не сделать и это ради свободы?"

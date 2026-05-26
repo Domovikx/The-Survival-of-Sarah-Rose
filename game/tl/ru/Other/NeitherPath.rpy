@@ -23,7 +23,7 @@ translate ru strings:
     new "Все понимали, что унижение Мариона, хоть, возможно, и заслуженное, навредило отношениям между короной и старыми домами."
 
     old "And so, Thomas had set out to both hunt game and mend fences, hoping that he could offer exclusive import rights on Normandian wine to Marion, to make him forget his hurt."
-    new "И вот Томас отправился и на охоту, и наладить отношения, надеясь предложить Мариону эксклюзивные права на импорт нормандского вина, чтобы тот забыл обиду."
+    new "И вот Томас отправился на охоту и заодно наладить отношения, надеясь предложить Мариону эксклюзивные права на импорт нормандского вина, чтобы тот забыл обиду."
 
     old "Though Thomas was late, few complained, after all it was the prerogative of kings to arrive when they wanted."
     new "Хотя Томас опаздывал, мало кто жаловался — в конце концов, прерогатива королей прибывать, когда им вздумается."
@@ -71,7 +71,7 @@ translate ru strings:
     new "Они пытались свергнуть её семью."
 
     old "Her own fear had only just set in, when she began to fear even more deeply for her brother, Thomas."
-    new "Страх за себя только охватил её, как она начала ещё сильнее бояться за своего брата, Томаса."
+    new "Едва страх за себя охватил её, как она начала ещё сильнее бояться за своего брата, Томаса."
 
     old "Where is Thomas?!"
     new "Где Томас?!"
@@ -113,7 +113,7 @@ translate ru strings:
     new "Старый генерал был так ошеломлён, что даже не успел обернуться. Его лицо застыло в шоке."
 
     old "He tried to utter words, but the blood spewed forth from his mouth, drowning him and his words."
-    new "Он попытался произнести слова, но кровь хлынула изо рта, захлёстывая его и его речь."
+    new "Он попытался произнести слова, но кровь хлынула изо рта, захлёстывая и его, и его слова."
 
     old "Barion stumbled, attempting to seize the table and chair, but wherever he reached, blood flowed from his chest down unto his arms and hands, causing him to slip."
     new "Барион пошатнулся, пытаясь ухватиться за стол и стул, но куда бы он ни потянулся, кровь текла из его груди на руки, заставляя их скользить."
@@ -146,7 +146,7 @@ translate ru strings:
     new "Старые дома под предводительством Мариона Ахиллеи подняли знамёна против вас."
 
     old "The five old houses, those that drew their lineage and power back all the way to Rosanna's founding, had betrayed her family."
-    new "Пять старых домов, те, что вели свою родословную и силу от самого основания Розанны, предали её семью."
+    new "Пять старых домов, те, что вели свою родословную и черпали силу от самого основания Розанны, предали её семью."
 
     old "Sarah struggled to even make sense of this. Centuries of loyalty, tossed aside as if it never meant anything."
     new "Сара с трудом могла осознать это. Столетия верности — отброшены, словно они ничего не значили."
@@ -185,7 +185,7 @@ translate ru strings:
     new "Он рассказал вам об их планах предать меня и мою семью?"
 
     old "Yes. There was only so much time, I moved as quickly as I could to dispatch my own soldiers to intercept his, but..."
-    new "Да. Времени было мало, я действовал так быстро, как мог, отправив своих солдат перехватить его, но..."
+    new "Да. Времени было мало, я действовал максимально быстро, отправив своих солдат перехватить его, но..."
 
     old "But what?"
     new "Но что?"
@@ -296,7 +296,7 @@ translate ru strings:
     new "На эту обиду и сыграл Марион."
 
     old "As the most prominent head of the most influential noble house in Rosanna, he had their ear and whispered his corruptions."
-    new "Будучи самым видным главой самого влиятельного знатного дома Розанны, он владел их вниманием и нашёптывал им свою порчу."
+    new "Будучи самым видным главой самого влиятельного знатного дома Розанны, он завладел их вниманием и отравлял их умы своей порчей."
 
     old "Sarah could not be certain, but she imagined that her refusal of his proposal had no doubt motivated part of his treason."
     new "Сара не могла знать наверняка, но предполагала, что её отказ на его предложение, несомненно, отчасти подтолкнул его к измене."
@@ -347,7 +347,7 @@ translate ru strings:
     new "Они не нашли никаких следов Томаса..."
 
     old "Sarah had to remind herself to be strong, but her heart wished she could cry out."
-    new "Саре пришлось напомнить себе быть сильной, но сердце желало закричать."
+    new "Саре пришлось напомнить себе быть сильной, но ей хотелось закричать."
 
     old "Is he dead?"
     new "Он мёртв?"

@@ -128,7 +128,7 @@ translate ru strings:
     new "Знаешь, Томас, может, проблема в том, что ты пытаешься делать всё сразу. Ты не даёшь себе времени научиться быть королём."
 
     old "Well, you're comparing yourself to father, but he was king for more than thirty years. Of course you can't be as good as him overnight."
-    new "Ты сравниваешь себя с отцом, но он был королём больше тридцати лет. Конечно, ты не можешь быть таким же хорошим за один день."
+    new "Ты сравниваешь себя с отцом, но он был королём больше тридцати лет. Конечно, ты не можешь быть таким же хорошим сразу."
 
     old "Thomas nodded, understanding what his sister was getting at."
     new "Томас кивнул, понимая, к чему клонит сестра."
@@ -209,7 +209,7 @@ translate ru strings:
     new "Вскоре к Томасу прибыл гонец."
 
     old "He opened the letter and read it. After, he sighed and stood up."
-    new "Он открыл письмо и прочитал. После вздохнул и встал."
+    new "Он открыл письмо и прочитал. Потом вздохнул и встал."
 
     old "The work never ends."
     new "Работе нет конца."

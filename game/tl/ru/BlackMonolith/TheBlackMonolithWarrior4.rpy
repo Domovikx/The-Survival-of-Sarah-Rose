@@ -23,7 +23,7 @@ translate ru strings:
     new "Мысли приходят в её голову, но она знает, что они странные. Они не её."
 
     old "Still she thinks them."
-    new "И всё же она думает их."
+    new "И всё же она думает о них."
 
     old "There is no reference. No above and now below. Sarah turns her head aside."
     new "Нет ориентиров. Ни верха, ни низа. Сара поворачивает голову."
@@ -80,7 +80,7 @@ translate ru strings:
     new "После долгого утра, полного встреч, почти перешедшего в полдень, Саре наконец удалось найти время для себя."
 
     old "Exploring the ruined city on Nauyziri, she made her way down the stretched out roads that all ran towards the city center."
-    new "Исследуя разрушенный город на Науизири, она двинулась по протяжённым дорогам, ведущим к центру города."
+    new "Исследуя разрушенный город на Науйзири, она двинулась по протяжённым дорогам, ведущим к центру города."
 
     old "Everywhere, signs of the decay were evident."
     new "Повсюду были видны следы разрушения."
@@ -101,7 +101,7 @@ translate ru strings:
     new "Сара зашагала по одной из дорог."
 
     old "As she came closer to the city center, the amount of Mythran soldiers intensified."
-    new "Чем ближе она подходила к центру города, тем больше становилось мифранских солдат."
+    new "Чем ближе она подходила к центру города, тем больше становилось митранских солдат."
 
     old "Still, they paid her little attention."
     new "Впрочем, они обращали на неё мало внимания."
@@ -131,7 +131,7 @@ translate ru strings:
     new "По всему участку раскопок работали бесчисленные люди. Издалека они казались муравьями, ползущими по муравейнику."
 
     old "This was what had motivated the Mythrans to come all the way out here."
-    new "Вот что побудило мифранцев прийти так далеко."
+    new "Вот что побудило митранцев прийти так далеко."
 
     old "Lady Carolyn had suggested their interests were only historical, but Sarah doubted their objectives were quite so selfless."
     new "Леди Кэролин предполагала, что их интересует лишь история, но Сара сомневалась в столь бескорыстных целях."
@@ -356,7 +356,7 @@ translate ru strings:
     new "Возможно, я всё ещё безумна."
 
     old "I promise you, you are not mad, daughter-of-starlight."
-    new "Я обещаю тебе, ты не безумна, дитя звездного света."
+    new "Я обещаю тебе, ты не безумна, дитя звёздного света."
 
     old "Long have I hoped to meet you here, and now to see you before me, I find my courage failing me."
     new "Я так долго надеялся встретить тебя здесь, и теперь, видя тебя перед собой, чувствую, как моя храбрость покидает меня."

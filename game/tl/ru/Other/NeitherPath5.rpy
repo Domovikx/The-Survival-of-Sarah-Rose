@@ -23,7 +23,7 @@ translate ru strings:
     new "Но даже во времена гражданской войны жизнь людей не останавливалась."
 
     old "This is what people wage wars over. The right to sit on an uncomfortable chair and pass verdicts on tax disputes..."
-    new "Вот из-за чего люди начинают войны. Право сидеть на неудобном стуле и выносить приговоры по налоговым спорам..."
+    new "Вот из-за чего люди ведут войны. Право сидеть на неудобном стуле и выносить приговоры по налоговым спорам..."
 
     old "Standing off to the corner of the room was Lily Highfield."
     new "В углу комнаты стояла Лили Хайфилд."
@@ -107,13 +107,13 @@ translate ru strings:
     new "Крэвел шагнул вперёд и положил письмо у её ног вместе с небольшим свёртком, завёрнутым в ткань."
 
     old "My heart breaks to tell you this, but I could no more keep it secret from you either."
-    new "У меня сердце разрывается говорить вам это, но я не мог дольше хранить это в тайне."
+    new "У меня сердце разрывается от того, что приходится говорить вам это, но я не мог дольше хранить это в тайне."
 
     old "Sarah seized the letter."
     new "Сара схватила письмо."
 
     old "She knew what was in the cloth and had no intentions of unwrapping it. The thought was horror enough."
-    new "Она знала, что было в этом свёртке, и не собиралась разворачивать его. Одна эта мысль была достаточно ужасна."
+    new "Она знала, что было в этом свёртке, и не собиралась разворачивать его. Одна эта мысль была ужасна сама по себе."
 
     old "Marion's sigil, that of house Achillea, sat emblazoned across the letter."
     new "На письме красовалась печать Мариона, герб дома Ахиллея."
@@ -128,7 +128,7 @@ translate ru strings:
     new "Так вот до чего он опустился? Пытки?"
 
     old "Thomas! My brother! Your king! They've abandoned any sense of honour or decency, for what!?"
-    new "Томас! Мой брат! Твой король! Они отбросили всякое понятие чести и приличия, ради чего!?"
+    new "Томас! Мой брат! Твой король! Они отбросили всякое понятие чести и приличия, ради чего?!"
 
     old "Lady Sarah, he seeks to bait you."
     new "Леди Сара, он пытается спровоцировать вас."

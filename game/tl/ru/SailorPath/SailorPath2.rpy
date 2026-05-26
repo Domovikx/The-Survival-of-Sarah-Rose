@@ -14,7 +14,7 @@ translate ru strings:
     new "Тем не менее, она была полна решимости доказать капитану, что, по крайней мере, не станет обузой."
 
     old "She could feel her limbs, muscles screaming out, and yet she kept on, pushing herself further."
-    new "Она чувствовала, как её конечности и мышцы кричат от боли, но она продолжала, заставляя себя работать ещё больше."
+    new "Она чувствовала, как её мышцы кричат от боли, но она продолжала, заставляя себя работать ещё больше."
 
     old "Once set, the ship had taken out to sea and before she'd known it, the land was gone and only the open ocean remained."
     new "Когда всё было готово, корабль вышел в море, и не успела она оглянуться, как земля исчезла, остался лишь открытый океан."
@@ -77,7 +77,7 @@ translate ru strings:
     new "Она выплёскивала воду из ведра для уборки себе на рубашку, позволяя прозрачной ткани плотно прилипать к телу."
 
     old "On one most desperate evening, she had even abandoned the pretense that she merely suffered his advances. She had taken the initiative of willingly going to his chamber and entering his bed."
-    new "Однажды, в самый отчаянный вечер, она даже оставила притворство, будто лишь терпит его домогательства. Она проявила инициативу, добровольно придя в его каюту и забравшись в постель."
+    new "Однажды, в самый отчаянный вечер, она даже перестала притворяться, будто лишь терпит его домогательства. Она проявила инициативу, добровольно придя в его каюту и забравшись в постель."
 
     old "The sex was rough, and Belmont still enjoyed humiliating her, but Sarah had given up pretending that she didn't want it."
     new "Секс был грубым, и Белмонт всё ещё наслаждался унижением Сары, но она перестала притворяться, что не хочет этого."
@@ -245,7 +245,7 @@ translate ru strings:
     new "Сара перевернулась на живот, прижавшись кожей к коже с капитаном. Она чувствовала палубу корабля своими сосками."
 
     old "Nice weather, I think that's what's done it."
-    new "Хорошая погода, думаю, вот что на меня повлияло."
+    new "Хорошая погода, думаю, вот что на меня так действует."
 
     old "She gave Belmont a sly smile."
     new "Она одарила Белмонта хитрой улыбкой."
@@ -383,10 +383,10 @@ translate ru strings:
     new "Белмонт рассмеялся и сжал её крепче."
 
     old "I don't mind you ramble, blondie. You got a nice way with words when you ain't usin your mouth another way."
-    new "Я не против, когда ты болтаешь, блондиночка. У тебя хорошо получается с пользой, когда ты не используешь свой рот иначе."
+    new "Я не против, когда ты болтаешь, блондиночка. У тебя хорошо подвешен язык, когда ты не используешь свой рот для другого."
 
     old "I'm pretty good using it that other way too."
-    new "Я довольно хороша и в использовании его иначе."
+    new "Я неплохо умею использовать его и для другого."
 
     old "Belmont gave her another spank on the rear, then let his grip on her slip."
     new "Белмонт снова шлёпнул её по заднице, затем ослабил хватку."
@@ -413,7 +413,7 @@ translate ru strings:
     new "Ага...ага, думаю, идёт хорошо. Полпути, может, чуть больше, полагаю."
 
     old "Ooh, so we'll get there faster maybe?"
-    new "Оу, так мы, может, доберёмся быстрее?"
+    new "О, так мы, может, доберёмся быстрее?"
 
     old "Good for my purse, less good on my other parts."
     new "Хорошо для моего кошелька, не так хорошо для других моих частей."
@@ -500,7 +500,7 @@ translate ru strings:
     new "Я? Я просто драю палубу."
 
     old "His opened palm struck her across the face."
-    new "Его открытая ладонь ударила её по лицу."
+    new "Он ударил её ладонью по лицу."
 
     old "Captain. You adress me as captain."
     new "Капитан. Ты обращаешься ко мне «капитан»."
@@ -560,7 +560,7 @@ translate ru strings:
     new "Белмонт подошёл сзади и обхватил её за талию."
 
     old "Don't worry. Usin the whip on a beauty like you would be an awful waste."
-    new "Не волнуйся. Использовать плётку на такой красавице, как ты, было бы ужасной тратой."
+    new "Не волнуйся. Хлестать плёткой такую красавицу, как ты, было бы ужасной тратой."
 
     old "Sarah could feel tears of gratitude begin to form. Mercy, despite everything, he did have mercy in his heart."
     new "Сара почувствовала, как наворачиваются слёзы благодарности. Милосердие, несмотря на всё, в его сердце было милосердие."
@@ -653,7 +653,7 @@ translate ru strings:
     new "Боль в её заду была новой и необычной, такой, что, казалось, горела глубоко и отдавалась по всему низу тела."
 
     old "You act all up and proper all the time."
-    new "Ты всё время ведёшь себя надменно и правильно."
+    new "Ты всё время ведёшь себя надменно и чопорно."
 
     old "Like deep down you think you are what you ain't."
     new "Будто в глубине души ты думаешь, что ты та, кем не являешься."

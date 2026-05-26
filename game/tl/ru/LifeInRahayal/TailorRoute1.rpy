@@ -5,7 +5,7 @@
 translate ru strings:
 
     old "If any harm had come to you, Gods, I would have never forgiven myself if I didn't try to save you."
-    new "Если бы с тобой что-то случилось, боги, я бы никогда себе не простил, если бы не попытался спасти тебя."
+    new "Если бы с тобой что-то случилось, Боги, я бы никогда себе не простил, если бы не попытался спасти тебя."
 
     old "He stood up and pulled on her hands."
     new "Он встал и потянул её за руки."
@@ -683,7 +683,7 @@ translate ru strings:
     new "Вместо этого, к собственному стыду, она только обрабатывала его ртом, ещё более раболепно, чем прежде."
 
     old "Like this, it wasn't long before she heard him finish."
-    new "Так прошло не много времени, прежде чем она услышала, что он кончает."
+    new "Так прошло немного времени, прежде чем она услышала, что он кончает."
 
     old "His semen poured out and filled up her mouth."
     new "Его сперма излилась и заполнила её рот."

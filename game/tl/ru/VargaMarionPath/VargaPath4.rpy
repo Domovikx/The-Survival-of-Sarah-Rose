@@ -14,10 +14,10 @@ translate ru strings:
     new "Оба наслаждались своей игрой, считая себя незаметными. Они вовсе не были незаметны — большинство советников просто предпочитало игнорировать их очевидные заигрывания, списывая это на вольности молодожёнов."
 
     old "A chaos was spreading through the room, Sarah had lost all control. Herself, her brother and now even her husband...she stood to lose everything."
-    new "Хаос распространялся по комнате, Сара потеряла всякий контроль. Себя, своего брата и теперь даже мужа... она рисковала потерять всё."
+    new "Хаос распространялся по комнате, Сара потеряла всякий контроль. Саму себя, своего брата и теперь даже мужа... она рисковала потерять всё."
 
     old "As he collapsed down onto the floor, it was the Spymaster Kravel who first approached him."
-    new "Когда он рухнул на пол, первым к нему подошёл Мастер шпионов Кравел."
+    new "Когда он рухнул на пол, первым к нему подошёл Мастер шпионов Крэвел."
 
     old "{i}Composure{/i}. She reminded herself in the voice of her father."
     new "{i}Спокойствие{/i}. Напомнила она себе голосом отца."

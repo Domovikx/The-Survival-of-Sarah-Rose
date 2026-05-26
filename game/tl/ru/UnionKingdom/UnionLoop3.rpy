@@ -206,7 +206,7 @@ translate ru strings:
     new "Хорошо. Сделка остаётся в силе."
 
     old "And we both know you ain't above doin this to win my support."
-    new "И мы оба знаем, что ты не выше этого, чтобы выиграть мою поддержку."
+    new "И мы обе знаем, что ты не выше этого, чтобы заслужить мою поддержку."
 
     old "So all I'm saying is, how about we just skip the whole performance where you pretend like you're not a slut?"
     new "Так что я просто предлагаю пропустить весь спектакль, где ты притворяешься, что ты не шлюха."
@@ -230,7 +230,7 @@ translate ru strings:
     new "Бросая одежду на пол, она направилась к герцогу."
 
     old "She fell down on her knees in front of him, the tip of his cock only inches from her face."
-    new "Она упала на колени перед ним, кончик его члена всего в дюймах от её лица."
+    new "Она упала на колени перед ним, кончик его члена всего в нескольких сантиметрах от её лица."
 
     old "She had endured him so far. She could endure this too."
     new "Она вытерпела его до сих пор. Она вытерпит и это."
@@ -245,7 +245,7 @@ translate ru strings:
     new "Наклонившись, она поднесла губы к кончику его члена."
 
     old "Slowly, she felt it press into her mouth, pressing apart her jaws. A consequence of the man's size."
-    new "Медленно она почувствовала, как он входит в её рот, раздвигая челюсти. Следствие размера этого мужчины."
+    new "Медленно она почувствовала, как он входит в её рот, раздвигая челюсти. Сказывались размеры этого мужчины."
 
     old "Bobbing her mouth up and down, she felt him growing larger still."
     new "Двигая ртом вверх-вниз, она чувствовала, как он становится ещё больше."
@@ -635,7 +635,7 @@ translate ru strings:
     new "Сара повернула голову и наблюдала за мужчиной. Ничто в нём не указывало, что он когда-либо считал нужным экономить."
 
     old "His clothes were expensive, even by noble standards."
-    new "Его одежда была дорогой даже по дворянским стандартам."
+    new "Его одежда была дорогой даже по меркам знати."
 
     old "So you have wasted all your wealth?"
     new "Так ты растратил всё богатство?"
@@ -1130,7 +1130,7 @@ translate ru strings:
     new "И что? Возможно, разделённый совет лучше, чем совет во главе с тобой."
 
     old "Except when we are divided, we are each valued exactly equally. Each vote and voice will weigh just as heavy."
-    new "Если только когда мы разделены, каждый из нас ценится одинаково. Каждый голос будет весить так же тяжело."
+    new "Только когда мы разделены, каждый из нас ценится одинаково. Каждый голос будет весить столько же."
 
     old "Yours...and Antonio's, exactly the same."
     new "Твой... и Антонио, точно так же."
@@ -1178,7 +1178,7 @@ translate ru strings:
     new "Сара не могла отрицать, что не подозревала, что он попросит об этом. Он был достаточно талантлив."
 
     old "It would leave herself in charge, but the matters of the military would fall to him."
-    new "Это оставило бы её у власти, но вопросы военные упадут ему."
+    new "Это оставило бы её у власти, но военные вопросы перешли бы к нему."
 
     old "Perhaps it was even wise, given his experience as a general."
     new "Возможно, это было даже мудро, учитывая его опыт как генерала."

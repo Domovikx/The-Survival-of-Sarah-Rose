@@ -431,7 +431,7 @@ translate ru strings:
     new "Это было самое прекрасное, что она когда-либо видела в своей жизни. Самое прекрасное, что она когда-либо увидит в своей жизни."
 
     old "She knew this as more than emotion. To her, it was as fact."
-    new "Она знала это не просто как эмоцию. Для это было фактом."
+    new "Она знала это не просто как эмоцию. Для неё это было фактом."
 
     old "Sarah ran her hand across the petals, feeling the indescribable softness of the plant."
     new "Сара провела рукой по лепесткам, ощущая неописуемую мягкость растения."
@@ -1433,7 +1433,7 @@ translate ru strings:
     new "Слово застряло у неё в горле."
 
     old "Yell at her to leave"
-    new "Приказать ей уйти"
+    new "Крикнуть, чтобы она ушла"
 
     old "Sarah yelled louder than she had before."
     new "Сара закричала громче прежнего."

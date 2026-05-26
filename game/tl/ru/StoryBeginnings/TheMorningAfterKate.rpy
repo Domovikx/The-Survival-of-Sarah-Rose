@@ -32,7 +32,7 @@ translate ru strings:
     new "Сара почувствовала, как кровь приливает к лицу."
 
     old "There she went again, Sarah thought. Pushing her buttons."
-    new "Опять она за своё, подумала Сара. Нажимает на рычаги."
+    new "Опять она за своё, подумала Сара. Задевает за живое."
 
     old "Do you enjoy teasing me like that?"
     new "Тебе нравится дразнить меня так?"
@@ -56,7 +56,7 @@ translate ru strings:
     new "Голос Кейт был совсем не серьёзным."
 
     old "I hope you can find it in your power to forgive me, your Royalty."
-    new "Надеюсь, вы найдёте в себе силы простить меня, ваше Высочество."
+    new "Надеюсь, вы найдёте в себе силы простить меня, Ваше Высочество."
 
     old "Kate's hands began to slide down Sarah's sides, slowly going lower."
     new "Руки Кейт начали скользить по бокам Сары, медленно опускаясь ниже."
@@ -65,7 +65,7 @@ translate ru strings:
     new "Или, может, мне нужно заслужить твоё прощение."
 
     old "For a moment, Sarah imagined letting Kate continue. To let get take her as she had last night."
-    new "На мгновение Сара представила, что позволяет Кейт продолжать. Позволяет взять себя, как прошлой ночью."
+    new "На мгновение Сара представила, что позволяет Кейт продолжать. Позволить взять себя, как прошлой ночью."
 
     old "Part of her wanted to. Shut the doors to her room and just stay here with Kate all day."
     new "Часть её хотела этого. Закрыть двери спальни и остаться здесь с Кейт на весь день."
@@ -74,7 +74,7 @@ translate ru strings:
     new "Но прямо перед краем чувства вернулись к Саре."
 
     old "Today was going to be busy. The council meeting would start before long, and she would have to be ready."
-    new "День предстоял занятой. Заседание совета должно было начаться с минуты на минуту, и ей нужно было быть готовой."
+    new "День предстоял занятым. Заседание совета должно было начаться с минуты на минуту, и ей нужно было быть готовой."
 
     old "Not to mention, Sarah didn't want anyone to find her and Kate in bed like this. That would raise far too many problems."
     new "Не говоря уже о том, что Сара не хотела, чтобы их с Кейт застали в постели. Это вызвало бы слишком много проблем."
@@ -128,7 +128,7 @@ translate ru strings:
     new "Сара начала пытаться осмыслить произошедшее прошлой ночью. Она никогда не могла представить, что позволит Кейт делать с собой то, что она делала... и всё же прошлой ночью она не оказала никакого сопротивления."
 
     old "Images of the night before began to flood Sarah's mind."
-    new "Образы минувшей ночи начали наводнять разум Сары."
+    new "Образы минувшей ночи начали наполнять разум Сары."
 
     old "She shook her head, trying to clear her thoughts."
     new "Она покачала головой, пытаясь прояснить мысли."
@@ -185,7 +185,7 @@ translate ru strings:
     new "Потолки в комнате были низкими, и нигде не было окон. Кроме центрального стола, комната была пуста."
 
     old "It had been designed with secrecy in mind, giving no space for anyone to hide, but it had unintentionally gave the room a claustrophobic feeling."
-    new "Она была спроектирована с учётом секретности, не давая никому возможности спрятаться, но это невольно придавало комнате клаустрофобическое ощущение."
+    new "Она была спроектирована с учётом секретности, не давая никому возможности спрятаться, но это невольно придавало комнате ощущение клаустрофобии."
 
     old "Some people had nicknamed the room, the crypt. Standing in the room now, Sarah understood what they meant."
     new "Некоторые прозвали эту комнату склепом. Стоявшая сейчас в ней Сара понимала, почему."
@@ -332,7 +332,7 @@ translate ru strings:
     new "С тех пор он компетентно служил, курируя внутреннюю безопасность Розанны и её внешние дела."
 
     old "Spymasters were hard to trust, by the nature of their work, but as far as possible, Kravel had proven reliable and loyal. It was the best one could hope from a spymaster."
-    new "Шпионмастерам трудно доверять из-за природы их работы, но, насколько это возможно, Кравел доказал свою надёжность и верность. Это лучшее, на что можно надеяться от шпионмастера."
+    new "Шпионмастерам трудно доверять из-за специфики их работы, но, насколько это возможно, Кравел доказал свою надёжность и верность. Это лучшее, на что можно надеяться от шпионмастера."
 
     old "Lastly was Lady Carolyn. As master of the royal accounts, she oversaw the economy of Rosanna."
     new "И наконец, леди Каролин. Как глава королевской казны, она курировала экономику Розанны."
@@ -416,7 +416,7 @@ translate ru strings:
     new "Но мы не видим ничего. Ни одна сила внутри или снаружи королевства не попыталась воспользоваться моментом. Наши союзы остаются крепкими. Сюда доходят только добрые слова."
 
     old "At the very least, I believe it safe to conclude that there is no larger plot being carried out."
-    new "По крайней мере, я считаю безопасным заключить, что никакого масштабного заговора не существует."
+    new "По крайней мере, я полагаю, можно с уверенностью заключить, что никакого масштабного заговора не существует."
 
     old "Barion scoffed."
     new "Барион фыркнул."
@@ -461,7 +461,7 @@ translate ru strings:
     new "Это слухи, милорд. У нас пока недостаточно доказательств, чтобы утверждать, что он действительно объединил их."
 
     old "High General Barion is an army man, so he loves to imagine every enemy an existential threat to our nation. It makes him feel needed."
-    new "Верховный генерал Барион — военный человек, поэтому он любит воображать каждого врага экзистенциальной угрозой. Это заставляет его чувствовать себя нужным."
+    new "Верховный генерал Барион — военный человек, поэтому он любит воображать каждого врага смертельной угрозой. Это заставляет его чувствовать себя нужным."
 
     old "Thomas considered what he was hearing."
     new "Томас обдумывал услышанное."
@@ -770,7 +770,7 @@ translate ru strings:
     new "Сара теряла себя в моменте, когда внезапно Кейт отстранилась и схватила её за плечи."
 
     old "With controlled force, Kate turned Sarah around, slid her hands down Sarah's sides and pulled down Sarah's underwear."
-    new "С контролируемой силой Кейт развернула Сару, скользнула руками по её бокам и стянула бельё."
+    new "Плавно, но властно Кейт развернула Сару, скользнула руками по её бокам и стянула бельё."
 
     old "It suddenly dawn on Sarah that she was fully nude, her dress and underwear piled around her ankles, skillfully disrobed by Kate."
     new "До Сары внезапно дошло, что она полностью обнажена, платье и бельё собрались у щиколоток — Кейт искусно раздела её."
@@ -839,7 +839,7 @@ translate ru strings:
     new "Стоны Сары превратились в хныканье, и теперь она лишь медленно выгибала спину навстречу пальцам Кейт."
 
     old "Sarah had surrendered any attempt to force Kate to go faster, instead, she now seemed to beg with every inch of her body, hoping Kate would be merciful."
-    new "Сара оставила любые попытки заставить Кейт ускориться; теперь она, казалось, умоляла каждым дюймом тела, надеясь, что Кейт будет милосердна."
+    new "Сара оставила любые попытки заставить Кейт ускориться; теперь она, казалось, умоляла каждой клеточкой тела, надеясь, что Кейт будет милосердна."
 
     old "Kate, seeing that her friend was starting to learn, decided to reward her by picking up the pace."
     new "Кейт, видя, что подруга начинает понимать, решила наградить её, ускорив темп."
@@ -956,7 +956,7 @@ translate ru strings:
     new "Вот, снова выглядишь как принцесса."
 
     old "Sarah felt an odd sensation, presing between her thighs, and only now realized she was wearing no underwear."
-    new "Сара почувствовала странное ощущение между бёдер и только сейчас осознала, что на ней нет белья."
+    new "Сара почувствовала странное ощущение между бёдрами и только сейчас осознала, что на ней нет белья."
 
     old "Kate flashed a quick grin, holding up Sarah's underwear."
     new "Кейт быстро усмехнулась, помахав бельём Сары."

@@ -47,7 +47,7 @@ translate ru strings:
     new "Каждое мгновение они давят на твоё тело."
 
     old "Undying, you are trapped. You can neither move nor escape. And every moment, for all of eternity, the press is wound tighter still."
-    new "Бессмертная, ты в ловушке. Ты не можешь ни двигаться, ни сбежать. И каждое мгновение, целую вечность, пресс сжимается всё сильнее."
+    new "Бессмертная, ты в ловушке. Ты не можешь ни двигаться, ни сбежать. И каждое мгновение, целую вечность, тиски сжимаются всё сильнее."
 
     old "Every bone in your body breaks, every fragment of your body extends."
     new "Каждая кость в твоём теле ломается, каждый осколок твоего тела растягивается."

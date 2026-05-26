@@ -74,7 +74,7 @@ translate ru strings:
     new "До этого она видела только разрушенную природу."
 
     old "Whatever this place was, it must have housed a civilization of some sort once."
-    new "Чем бы это место ни было, когда-то здесь должна была обитать какая-то цивилизация."
+    new "Чем бы это место ни было, когда-то здесь была какая-то цивилизация."
 
     old "She saw as shade move in the ruins of a building. Eyes peering out."
     new "Она увидела, как тень движется в руинах здания. Глаза выглядывают."
@@ -194,7 +194,7 @@ translate ru strings:
     new "Вместе они прошли через старые ворота и вошли во двор — или нечто похожее."
 
     old "The buildings were marked with decay."
-    new "Здания были отмечены распадом."
+    new "Здания носили следы разрухи."
 
     old "Broken shards of stone, sprawled across the courtyard."
     new "Осколки камня разбросаны по двору."
@@ -461,7 +461,7 @@ translate ru strings:
     new "Маги пошли войной друг на друга за остатки."
 
     old "He is one of the few that survived. Him and a few others. Feasting on the last bits of life in this world."
-    new "Он один из немногих выживших. Питается последними крохами жизни."
+    new "Он один из немногих выживших. Питается последними крохами жизни в этом мире."
 
     old "There are more like him?"
     new "Есть ещё такие, как он?"
@@ -509,7 +509,7 @@ translate ru strings:
     new "Обе замолчали на время."
 
     old "If you give him what he wants, he'll treat you better."
-    new "Если дать ему, что он хочет, он будет относиться лучше."
+    new "Если давать ему то, что он хочет, он будет относиться лучше."
 
     old "Aren't you down here, same as me?"
     new "Разве ты не здесь, как и я?"
@@ -524,7 +524,7 @@ translate ru strings:
     new "Теперь кажется глупым."
 
     old "But we were in bed and he...asked me to fetch him some wine from the basement."
-    new "Мы были в постели, и он попросил принести вина из подвала."
+    new "Мы были в постели, и он попросил принести ему вина из подвала."
 
     old "I was too comfortable in the bed, so I told him no."
     new "Мне было удобно, и я сказала нет."
@@ -608,13 +608,13 @@ translate ru strings:
     new "Думаю, они все боятся друг друга."
 
     old "Yeah. They're all mages...they're each the only thing strong enough to kill the other."
-    new "Да. Они все маги — каждый достаточно силён, чтобы убить другого."
+    new "Да. Они все маги — каждый из них единственный, кто достаточно силён, чтобы убить другого."
 
     old "So they're scared."
     new "Так что они напуганы."
 
     old "But they're also...lonely...I think."
-    new "Но они также одиноки, думаю."
+    new "Но они также... одиноки... я думаю."
 
     old "So every now and again, they're so lonely they can't help but risk visiting."
     new "Так что время от времени они так одиноки, что рискуют навещать."

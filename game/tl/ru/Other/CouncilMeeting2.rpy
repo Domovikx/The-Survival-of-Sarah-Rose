@@ -230,7 +230,7 @@ translate ru strings:
     new "Если мы потратим ресурсы здесь, это значит пожертвовать ими где-то ещё."
 
     old "I was out there, in the eastern district, with King Orwell. I saw no tribesmen, only farmers driving one another wild with conspiracy."
-    new "Я был там, в восточном округе, с королём Орвеллом. Я не видел никаких дикарей, только крестьян, сводящих друг друга с ума конспирологией."
+    new "Я был там, в восточном округе, с королём Орвеллом. Я не видел никаких Племенников, только крестьян, сводящих друг друга с ума конспирологией."
 
     old "A good ruler lets the facts guide him, not hysteria."
     new "Хороший правитель руководствуется фактами, а не истерией."

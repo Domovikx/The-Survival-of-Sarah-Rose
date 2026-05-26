@@ -50,7 +50,7 @@ translate ru strings:
     new "Сара чувствует, как призрак матери советует ей при каждом выборе."
 
     old "\"Ooh no, not this one. Try that one\", she would say when Sarah was still young."
-    new "\"О нет, только не это. Попробуй вон то\", — говорила она, когда Сара была ещё маленькой."
+    new "«О нет, только не это. Попробуй вон то», — говорила она, когда Сара была ещё маленькой."
 
     old "Her mother loved to dote on her, and Sarah had loved her doing it."
     new "Мать любила с ней нянчиться, и Саре это нравилось."
@@ -86,7 +86,7 @@ translate ru strings:
     new "И всё же он должен был понимать, что они слишком взрослые для этого."
 
     old "\"Ooh no, not this one, try that one\" she would say when Sarah was still small."
-    new "\"О нет, не это, попробуй вон то\" — говорила она, когда Сара была совсем малышкой."
+    new "«О нет, не это, попробуй вон то», — говорила она, когда Сара была совсем малышкой."
 
     old "Sarah shakes her head and pushes away the memory. Composure. Just as father always said."
     new "Сара качает головой и отгоняет воспоминание. Самообладание. Как всегда говорил отец."
@@ -116,7 +116,7 @@ translate ru strings:
     new "Хотя бы ты успел вовремя."
 
     old "Yes, a certain someone gave me some advice. Said I should put in more of an effort."
-    new "Да, кое-кто дал мне совет. Сказал, что я должен стараться больше."
+    new "Да, кое-кто дал мне совет. Сказала, что я должен стараться больше."
 
     old "Sounds like a smart person."
     new "Похоже на умного человека."
@@ -137,13 +137,13 @@ translate ru strings:
     new "Сара наблюдает, как люди медленно заполняют большой зал."
 
     old "The court nobles were amongst the first. Always priding themselves on their own importance, each representing an important family."
-    new "Придворные вельможи были среди первых. Всегда гордящиеся собственной важностью, каждый представляет знатную семью."
+    new "Придворные вельможи были среди первых. Всегда гордящиеся собственной важностью, каждый представляющий знатную семью."
 
     old "They had crowded around a young man with a thin frame and long, flowing blonde hair, reaching to his shoulders."
     new "Они столпились вокруг молодого человека с худощавым телосложением и длинными струящимися светлыми волосами до плеч."
 
     old "Sarah knew him and wasn't surprised to see him, Marion Achillea, from the Achillea family."
-    new "Сара знала его и не удивилась, увидев: Марион Ахиллея, из рода Ахиллеев."
+    new "Сара знала его и не удивилась, увидев Мариона Ахиллею из рода Ахиллеев."
 
     old "The Achillea family was one of the oldest and most prestigious families of Rosanna. They had fought with Sarah's ancestors in establishing the Rose dynasty. For their efforts, they were well rewarded."
     new "Семья Ахиллея была одной из старейших и самых влиятельных семей Розанны. Они сражались вместе с предками Сары при основании династии Роз. За свои усилия они были щедро вознаграждены."

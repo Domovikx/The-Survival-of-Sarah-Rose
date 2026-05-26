@@ -26,13 +26,13 @@ translate ru strings:
     new "Никто не пройдёт через это."
 
     old "Echoes had begun to ring out over Bagrad."
-    new "Над Баградом начали разноситься эхо."
+    new "Над Баградом начало разноситься эхо."
 
     old "Shouting, explosions, screams."
     new "Крики, взрывы, вопли."
 
     old "None of it told Sarah anything about which way the battle was going. Only that the battle was still raging."
-    new "Ничто не говорило Саре о том, на чьей стороне перевес. Только что битва всё ещё бушевала."
+    new "Ничто не говорило Саре о том, на чьей стороне перевес. Только то, что битва всё ещё бушевала."
 
     old "A great roar of some kind rang out."
     new "Раздался громоподобный рёв."
@@ -92,7 +92,7 @@ translate ru strings:
     new "Они приближались. Её надежды пережить этот день без насилия рухнули."
 
     old "She reached out her arms and gathered the magical energies around her. It had been years since her training began, and it now felt like a second nature."
-    new "Она вытянула руки и собрала вокруг себя магическую энергию. С начала её обучения прошли годы, и теперь это чувствовалось как вторая натура."
+    new "Она вытянула руки и собрала вокруг себя магическую энергию. С начала её обучения прошли годы, и теперь это было для неё второй натурой."
 
     old "Seizing on the currents, Sarah leapt up and by her will, gravity inversed."
     new "Ухватившись за потоки, Сара подпрыгнула, и по её воле гравитация обратилась вспять."
@@ -137,7 +137,7 @@ translate ru strings:
     new "Раздался крик — так зверь пытается предупредить стаю, — но было уже поздно."
 
     old "From her elevated position, Sarah lunged downwards, launching herself towards the ground."
-    new "С возвышения Сара ринулась вниз, бросая себя к земле."
+    new "С возвышения Сара ринулась вниз, устремляясь к земле."
 
     old "The pale flame, pure condensed magical energy, flowed from her body, warped into the shapes of her will, tracing behind her."
     new "Бледное пламя, чистая сгущённая магическая энергия, струилось из её тела, принимая формы её воли, стелясь за ней."
@@ -212,7 +212,7 @@ translate ru strings:
     new "Поднятая магическими щупальцами, Сара медленно парила в воздухе, выискивая оставшихся солдат."
 
     old "It was a soft culling, as soft as such a thing could be."
-    new "Это было мягкое истребление, настолько мягкое, насколько такое вообще возможно."
+    new "Это было мягкое истребление, настолько мягкое, насколько это вообще возможно."
 
     old "She didn't want them to suffer. No more than they needed to. She didn't love the power she held over ordinary people."
     new "Она не хотела, чтобы они страдали больше, чем необходимо. Ей не нравилась власть, которую она имела над обычными людьми."
@@ -224,7 +224,7 @@ translate ru strings:
     new "САРА!!!"
 
     old "The voice cut through the murder. Sarah felt her distant demeanor slip."
-    new "Голос прорвался сквозь убийство. Сара почувствовала, как её отрешённость ускользает."
+    new "Голос прорвался сквозь шум бойни. Сара почувствовала, как её отрешённость ускользает."
 
     old "She spun around in the air towards the voice and saw her."
     new "Она развернулась в воздухе на голос и увидела её."
@@ -350,7 +350,7 @@ translate ru strings:
     new "Сара смотрела, как Кейт разворачивается, собирает солдат и покидает тронный зал."
 
     old "Neither spoke another word to the other."
-    new "Ни одна так и не сказала другой ни слова."
+    new "Они так и не сказали друг другу ни слова."
 
     old "The room was empty."
     new "В зале стало пусто."

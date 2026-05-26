@@ -149,7 +149,7 @@ translate ru strings:
     new "Внизу она слышала нарастающий гул собирающейся толпы."
 
     old "She felt more hestitant to meet her own people than to meet her enemies on the battlefield."
-    new "Она чувствовала большую робость перед встречей с собственным народом, чем перед врагами на поле боя."
+    new "Она робела перед встречей с собственным народом больше, чем перед врагами на поле боя."
 
     old "But this too was a part of ruling."
     new "Но это тоже было частью правления."
@@ -167,7 +167,7 @@ translate ru strings:
     new "Даже этого крошечного жеста было достаточно, чтобы вызвать рёв толпы."
 
     old "As she descended from the last flight of stairs, she stepped out onto the improvised podium that had been build."
-    new "Спустившись с последнего лестничного пролёта, она вышла на импровизированную трибуну, которая была построена."
+    new "Спустившись с последнего лестничного пролёта, она вышла на импровизированную трибуну."
 
     old "Slowly she walked out onto the stage."
     new "Медленно она вышла на сцену."
@@ -287,7 +287,7 @@ translate ru strings:
     new "Кто здесь добровольно отдаёт свою жизнь?"
 
     old "A thunderous chorus rose up."
-    new "Громоподобный хор поднялся."
+    new "Раздался громоподобный хор."
 
     old "Sarah watched as men leapt, throwing up their arms, eager to join her army."
     new "Сара смотрела, как мужчины вскакивали, вскидывая руки, горя желанием вступить в её армию."
@@ -362,7 +362,7 @@ translate ru strings:
     new "Она оставит празднования другим."
 
     old "She had to keep her momentum. Continue to march on the Capital as soon as possible."
-    new "Она должна была сохранить импульс. Продолжить марш на Столицу как можно скорее."
+    new "Она должна была сохранить темп. Продолжить марш на Столицу как можно скорее."
 
     old "The new recruits from Calshure would be a welcome addition to her army."
     new "Новые рекруты из Калшура станут желанным пополнением её армии."

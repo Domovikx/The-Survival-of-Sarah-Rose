@@ -65,7 +65,7 @@ translate ru strings:
     new "Я пишу тебе из своего кабинета в замке королевы Маэйв."
 
     old "All my needs have thus far been well seen to. The room. The celebrations. The beautiful gardens."
-    new "Все мои нужды до сих пор хорошо удовлетворялись. Комната. Празднества. Прекрасные сады."
+    new "Меня до сих пор всем хорошо обеспечивали. Комната. Празднества. Прекрасные сады."
 
     old "Yet rather than enjoying any of them, I find myself only saddened."
     new "Но вместо того чтобы наслаждаться всем этим, я чувствую лишь печаль."

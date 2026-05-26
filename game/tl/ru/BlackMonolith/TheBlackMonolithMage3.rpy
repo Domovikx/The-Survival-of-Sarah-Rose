@@ -14,7 +14,7 @@ translate ru strings:
     new "Она решила встать с кровати и дать Самайре поспать."
 
     old "Sarah woke the next morning. Her room was quiet, save for herself."
-    new "Сара проснулась на следующее утро. В её комнате было тихо, если не считать её самой."
+    new "Сара проснулась на следующее утро. В комнате было тихо, если не считать её саму."
 
     old "She decided to get out of bed."
     new "Она решила встать с кровати."
@@ -29,7 +29,7 @@ translate ru strings:
     new "Она вышла в коридор и направилась на кухню."
 
     old "Growing up in Castle Reinmeer, she'd been used to servants for most of her life."
-    new "Выросшая в замке Рейнмир, она большую часть жизни привыкла к слугам."
+    new "Она выросла в замке Рейнмир и большую часть жизни привыкла к слугам."
 
     old "But ever since she had begun studying under Xan, she had to learn how to take care of herself."
     new "Но с тех пор, как она начала учиться у Ксана, ей пришлось научиться заботиться о себе."
@@ -44,7 +44,7 @@ translate ru strings:
     new "Она едва успела собрать несколько продуктов из кладовой, когда услышала голос."
 
     old "Sarah spun around, caught by surprise."
-    new "Сара развернулась, застигнутая врасплох."
+    new "Сара от неожиданности развернулась."
 
     old "She saw Metis sitting in a chair, feet up on the table, leaning back."
     new "Она увидела Метиса, сидящего на стуле, закинувшего ноги на стол и откинувшегося назад."
@@ -71,7 +71,7 @@ translate ru strings:
     new "Метис спустил ноги со стола обратно на пол."
 
     old "Apologies again. I just spend so much time in this place, it instantly feels like home. I forget myself."
-    new "Снова извиняюсь. Я просто провожу так много времени в этом месте, что оно мгновенно становится родным. Я забываюсь."
+    new "Снова извиняюсь. Я просто провожу так много времени в этом месте, что оно мгновенно становится мне как родное. Я забываюсь."
 
     old "He grinned as he stabbed at some food and brought it to his mouth."
     new "Он усмехнулся, наколол кусочек еды и отправил его в рот."
@@ -113,7 +113,7 @@ translate ru strings:
     new "Только если тебе самому хочется рассказать. Уверена, Ксан со временем расскажет, когда я буду готова."
 
     old "When you're ready, ooh sure."
-    new "Когда будешь готова, оу, конечно."
+    new "Когда будешь готова, о, конечно."
 
     old "What is that supposed to mean?"
     new "Что это должно значить?"
@@ -227,7 +227,7 @@ translate ru strings:
     new "Я могу подождать и посмотреть, вернётся ли Ксан домой."
 
     old "Sarah kept his eyes. She wasn't sure what she saw in them. Did he know anything. Was he genuinely wondering?"
-    new "Сара встретила его взгляд. Она не была уверена, что видела в них. Знал ли он что-то? Или искренне интересовался?"
+    new "Сара посмотрела ему в глаза. Она не была уверена, что там видела. Знал ли он что-то? Или искренне интересовался?"
 
     old "Well, like I said, he's gone for weeks or months, I can't say he'll be back."
     new "Ну, как я уже сказала, его не бывает неделями или месяцами, не могу обещать, что он вернётся."
@@ -437,7 +437,7 @@ translate ru strings:
     new "Сара была счастлива слышать это от неё."
 
     old "And I still think about home a lot too, but I guess I just try to make the best of it, you know?"
-    new "И я тоже всё ещё много думаю о доме, но, наверное, просто стараюсь извлечь из этого лучшее, понимаешь?"
+    new "И я тоже всё ещё много думаю о доме, но, наверное, просто стараюсь не унывать, понимаешь?"
 
     old "I guess I get to see more of the world, so it's not all bad."
     new "Наверное, я вижу больше мира, так что всё не так плохо."
@@ -506,13 +506,13 @@ translate ru strings:
     new "Две бывшие принцессы проводят остаток утра вместе."
 
     old "As they ate breakfast, Sarah shared as much as she could for the moment about her experience in Nauyziri."
-    new "За завтраком Сара рассказала всё, что могла на тот момент, о своём опыте в Науизири."
+    new "За завтраком Сара рассказала всё, что могла на тот момент, о своём опыте в Науйзири."
 
     old "Samayra, for her part, clinged to every word from Sarah's lips."
     new "Самайра, в свою очередь, ловила каждое слово с губ Сары."
 
     old "Sarah couldn't explain how happy it made her to have someone to talk with. Someone who cared."
-    new "Сара не могла объяснить, как счастлива она была иметь кого-то, с кем можно поговорить. Кого-то, кому не всё равно."
+    new "Сара не могла объяснить, как счастлива она была, что есть с кем поговорить. Кто-то, кому не всё равно."
 
     old "She ate her breakfast in peaceful silence."
     new "Она доела завтрак в мирной тишине."

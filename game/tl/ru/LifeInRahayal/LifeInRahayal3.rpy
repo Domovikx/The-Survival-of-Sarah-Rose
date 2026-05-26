@@ -53,7 +53,7 @@ translate ru strings:
     new "Ничего, не хочу обременять вас своими проблемами."
 
     old "Listen, little lady, if you can't bother the barkeeper with your troubles, who can you bother with em?"
-    new "Слушай, леди, если ты не можешь обременить бармена своими проблемами, то кого ещё?"
+    new "Слушай, леди, если ты не можешь нагрузить бармена своими проблемами, то кого же ещё?"
 
     old "Sarah could't help but laugh."
     new "Сара не могла не рассмеяться."
@@ -197,7 +197,7 @@ translate ru strings:
     new "Сара не могла не покраснеть от комплиментов."
 
     old "Tell you what, how bout you take the night to sleep it over?"
-    new "Вот что: как насчёт того, чтобы переночевать с этой мыслью?"
+    new "Вот что: как насчёт того, чтобы переспать с этой мыслью?"
 
     old "And if you're still interested, you can get started tomorrow, sound fair?"
     new "И если ты всё ещё заинтересована, сможешь начать завтра. Справедливо?"
@@ -479,7 +479,7 @@ translate ru strings:
     new "Мы должны радоваться лишней паре рук!"
 
     old "Sarah smiled, suddenly feeling good again about having accepted the job."
-    new "Сара улыбнулась, снова почувствовав себя хорошо из-за того, что согласилась на работу."
+    new "Сара улыбнулась, снова радуясь, что согласилась на работу."
 
     old "Yeah, your dad told me to speak to Jacob about getting started, but he...well, you heard him."
     new "Да, твой отец сказал мне поговорить с Джейкобом о начале работы, но он... ну, ты слышала его."

@@ -17,7 +17,7 @@ translate ru strings:
     new "Часть её раздражало, что они вообще дали ей выспаться."
 
     old "Sigmund."
-    new "Зигмунд."
+    new "Сигмунд."
 
     old "I want to help."
     new "Я хочу помочь."
@@ -32,7 +32,7 @@ translate ru strings:
     new "Ты можешь будить меня в то же время, что и остальных. Я могу носить ящики, помогать запрягать повозку... просто дай мне шанс."
 
     old "For a moment, Sigmund was silent and observed her."
-    new "На мгновение Зигмунд замолчал, разглядывая её."
+    new "На мгновение Сигмунд замолчал, разглядывая её."
 
     old "Sure, Sarah. I promise I'll treat you like the others."
     new "Хорошо, Сара. Обещаю, что буду относиться к тебе как к остальным."
@@ -41,7 +41,7 @@ translate ru strings:
     new "Спасибо. Это всё, чего я прошу."
 
     old "Sigmund kicked the side of a crate."
-    new "Зигмунд пнул бок ящика."
+    new "Сигмунд пнул бок ящика."
 
     old "Start by loading that onto the wagon."
     new "Начни с того, что загрузи это в повозку."
@@ -53,7 +53,7 @@ translate ru strings:
     new "Когда она поднялась, чтобы поднять его, ноги едва не подкосились."
 
     old "Sigmund was looking at her, a small grin on his face."
-    new "Зигмунд смотрел на неё с лёгкой усмешкой."
+    new "Сигмунд смотрел на неё с лёгкой усмешкой."
 
     old "No...none...at all..."
     new "Нет... нисколько... совсем..."
@@ -71,16 +71,16 @@ translate ru strings:
     new "Всю жизнь её готовили к одной-единственной задаче, и ни одна из них не требовала физической силы."
 
     old "But out here, all her history lessons and dancing classes weren't worth a single thing."
-    new "Но здесь все её уроки истории и танцевальные классы ничего не стоили."
+    new "Но здесь все её уроки истории и уроки танцев ничего не стоили."
 
     old "Still, Sarah forced herself to be useful, if only not to lose face in front of Sigmund who she had just earlier begged for a chance."
-    new "И всё же Сара заставляла себя быть полезной, хотя бы чтобы не ударить в грязь лицом перед Зигмундом, которого она только что умоляла дать ей шанс."
+    new "И всё же Сара заставляла себя быть полезной, хотя бы чтобы не ударить в грязь лицом перед Сигмундом, которого она только что умоляла дать ей шанс."
 
     old "It was still early in the morning when they were ready to depart."
     new "Было ещё раннее утро, когда они были готовы отправиться."
 
     old "As per usual, Sarah took her position near the front on the box with Sigmund, while the others rode in the back."
-    new "Как обычно, Сара заняла своё место спереди на облучке рядом с Зигмундом, пока остальные ехали сзади."
+    new "Как обычно, Сара заняла своё место спереди на облучке рядом с Сигмундом, пока остальные ехали сзади."
 
     old "As the horses began pulling the cart forward, it quickly made its way up the road."
     new "Когда лошади потянули повозку вперёд, она быстро двинулась по дороге."
@@ -107,22 +107,22 @@ translate ru strings:
     new "Самыми тревожными были звуки."
 
     old "The forest was full of them."
-    new "Лес был полон ими."
+    new "Лес был полон звуков."
 
     old "Any and all kinds, familir and unfamiliar, she tried to make sense of all the things she heard."
     new "Всевозможные — знакомые и незнакомые — она пыталась осмыслить всё, что слышала."
 
     old "At first she feared every new and strange sound, but she kept looking to Sigmund."
-    new "Поначалу она боялась каждого нового и странного звука, но постоянно поглядывала на Зигмунда."
+    new "Поначалу она боялась каждого нового и странного звука, но постоянно поглядывала на Сигмунда."
 
     old "Sigmund sat firm and stern, his eyes fixed on the road."
-    new "Зигмунд сидел твёрдо и сурово, не сводя глаз с дороги."
+    new "Сигмунд сидел твёрдо и сурово, не сводя глаз с дороги."
 
     old "So long as he isn't afraid, there would be no reason for her to be, so thought Sarah."
     new "Пока он не боится, и ей нечего бояться, — думала Сара."
 
     old "Where before she had been able to have an easy banter with Sigmund, he seemed now more distant."
-    new "Если раньше она могла легко болтать с Зигмундом, то теперь он казался более отстранённым."
+    new "Если раньше она могла легко болтать с Сигмундом, то теперь он казался более отстранённым."
 
     old "More focussed."
     new "Более сосредоточенным."
@@ -143,7 +143,7 @@ translate ru strings:
     new "Что-то в этом месте заставляло её нервничать."
 
     old "Then, she saw Sigmund's hand move quickly."
-    new "Вдруг она увидела, как рука Зигмунда резко дёрнулась."
+    new "Вдруг она увидела, как рука Сигмунда резко дёрнулась."
 
     old "He gripped the handle of his sword with one hand."
     new "Он сжал рукоять меча одной рукой."
@@ -152,7 +152,7 @@ translate ru strings:
     new "Сара ничего не сказала, но по его позе поняла, что он настороже."
 
     old "Movement in the trees."
-    new "Движение в деревьях."
+    new "Движение среди деревьев."
 
     old "Sarah looked ahead."
     new "Сара посмотрела вперёд."
@@ -173,7 +173,7 @@ translate ru strings:
     new "Когда повозка замедлилась, повисла тревожная тишина."
 
     old "Neither Sigmund, nor the robbers spoke, for a moment."
-    new "Ни Зигмунд, ни грабители не произнесли ни слова."
+    new "Ни Сигмунд, ни грабители не произнесли ни слова."
 
     old "We're not looking for trouble."
     new "Мы не ищем неприятностей."
@@ -200,7 +200,7 @@ translate ru strings:
     new "Её много раз предупреждали об опасностях старой дороги, но одно дело слышать, а другое — испытать на себе."
 
     old "She looked at Sigmund, whose face remained unchanged."
-    new "Она взглянула на Зигмунда, чьё лицо оставалось невозмутимым."
+    new "Она взглянула на Сигмунда, чьё лицо оставалось невозмутимым."
 
     old "Last offer boys."
     new "Последнее предложение, парни."
@@ -215,13 +215,13 @@ translate ru strings:
     new "Видимо, будет по-другому."
 
     old "Sigmund leapt off from the box, landing off to the side."
-    new "Зигмунд спрыгнул с облучка, приземлившись в стороне."
+    new "Сигмунд спрыгнул с облучка, приземлившись в стороне."
 
     old "As he walked around to the front, Sarah could see he was carrying his large two-handed broad sword."
     new "Когда он обошёл повозку спереди, Сара увидела, что он держит свой огромный двуручный меч."
 
     old "Sigmund placed one leg forward, another back."
-    new "Зигмунд выставил одну ногу вперёд, другую назад."
+    new "Сигмунд выставил одну ногу вперёд, другую назад."
 
     old "Bending down his knees, Sarah watched him move into a stance."
     new "Согнув колени, он принял боевую стойку, и Сара наблюдала за этим."
@@ -242,28 +242,28 @@ translate ru strings:
     new "То самое осознание, которое видишь в людях, только когда они уже слишком глубоко увязли в ошибке, из которой нет выхода."
 
     old "The two robbers held up their daggers and began to circle Sigmund, each taking one side."
-    new "Двое грабителей подняли кинжалы и начали окружать Зигмунда с двух сторон."
+    new "Двое грабителей подняли кинжалы и начали окружать Сигмунда с двух сторон."
 
     old "Sigmund only kept his stance, his sword raised."
-    new "Зигмунд лишь сохранял стойку, подняв меч."
+    new "Сигмунд лишь сохранял стойку, подняв меч."
 
     old "Then he moved."
     new "А затем он двинулся."
 
     old "Sarah had expected Sigmund to be strong, his body told as much despite his age, but she was stunned to see his speed."
-    new "Сара ожидала, что Зигмунд силён — его тело говорило об этом, несмотря на возраст, — но его скорость поразила её."
+    new "Сара ожидала, что Сигмунд силён — его тело говорило об этом, несмотря на возраст, — но его скорость поразила её."
 
     old "He had closed the distance between himself and the first robber before he had even been able to raise up his weapons."
     new "Он сократил расстояние до первого грабителя прежде, чем тот успел поднять оружие."
 
     old "Sigmund's blade fell down and caught the man in the neck, the blood spewed out of him, cast like a red mist to the forest air."
-    new "Клинок Зигмунда опустился и попал мужчине в шею; кровь хлынула из него, разлетевшись красной дымкой в лесном воздухе."
+    new "Клинок Сигмунда опустился и попал мужчине в шею; кровь хлынула из него, разлетевшись красной дымкой в лесном воздухе."
 
     old "The other tried to rush Sigmund from behind, hoping to take him by surprise."
-    new "Второй попытался наброситься на Зигмунда сзади, надеясь застать его врасплох."
+    new "Второй попытался наброситься на Сигмунда сзади, надеясь застать его врасплох."
 
     old "But Sarah watched as Sigmund pulled his blade free from the man's neck, spun around, diving low, and catching the other robber above his upper leg."
-    new "Но Сара видела, как Зигмунд выдернул клинок из шеи первого, развернулся, пригнулся и полоснул второго грабителя по бедру."
+    new "Но Сара видела, как Сигмунд выдернул клинок из шеи первого, развернулся, пригнулся и полоснул второго грабителя по бедру."
 
     old "The blade went clean through and the second robber stumbled, falling as he failed too late that his leg was gone."
     new "Клинок прошёл насквозь, и второй грабитель споткнулся, падая, осознав слишком поздно, что ноги больше нет."
@@ -281,7 +281,7 @@ translate ru strings:
     new "Такая рана была бы смертельной даже в городской больнице, а здесь у него не было шансов выжить."
 
     old "She looked on as Sigmund slowly walked up to the second robber."
-    new "Она смотрела, как Зигмунд медленно подходит ко второму грабителю."
+    new "Она смотрела, как Сигмунд медленно подходит ко второму грабителю."
 
     old "He brought his sword high and brought it down, driving the tip of his blade through the man's neck."
     new "Он высоко поднял меч и опустил его, вонзив остриё в шею мужчины."
@@ -299,7 +299,7 @@ translate ru strings:
     new "Ты уже разобрался с ними?"
 
     old "Sigmund had pushed the robber's bodies off the side of the road and walked back up to the cart."
-    new "Зигмунд столкнул тела грабителей на обочину и вернулся к повозке."
+    new "Сигмунд столкнул тела грабителей на обочину и вернулся к повозке."
 
     old "Just two idiots."
     new "Всего лишь два идиота."
@@ -317,7 +317,7 @@ translate ru strings:
     new "Мог хотя бы нам оставить этих."
 
     old "Sigmund shrugged as he climbed back onto the cart."
-    new "Зигмунд пожал плечами, забираясь обратно на повозку."
+    new "Сигмунд пожал плечами, забираясь обратно на повозку."
 
     old "You can have the next one."
     new "Можете взять следующих."
@@ -329,13 +329,13 @@ translate ru strings:
     new "Сакар и Крип скрылись в задней части повозки."
 
     old "Sigmund grabbed the reins again and snapped them, forcing the horses back into motion."
-    new "Зигмунд снова взял поводья и щёлкнул ими, заставляя лошадей двинуться."
+    new "Сигмунд снова взял поводья и щёлкнул ими, заставляя лошадей двинуться."
 
     old "Sarah felt the cart begin to move and slowly the two bodies dissapeared behind them."
     new "Сара почувствовала, как повозка тронулась, и два тела медленно исчезли позади."
 
     old "She turned to Sigmund."
-    new "Она повернулась к Зигмунду."
+    new "Она повернулась к Сигмунду."
 
     old "You...you weren't afraid?"
     new "Ты... ты не испугался?"
@@ -356,13 +356,13 @@ translate ru strings:
     new "Попадаются настоящие злобные ублюдки, но есть и придурки вроде этих двоих."
 
     old "Sarah felt uneasy at how untroubled Sigmund seemed to be at having just killed two men."
-    new "Саре было не по себе от того, насколько невозмутимым казался Зигмунд после убийства двух человек."
+    new "Саре было не по себе от того, насколько невозмутимым казался Сигмунд после убийства двух человек."
 
     old "Don't you feel bad about killing them?"
     new "Тебе не жаль, что ты их убил?"
 
     old "Sigmund looked at her as he continued to guide the horses along."
-    new "Зигмунд посмотрел на неё, продолжая править лошадьми."
+    new "Сигмунд посмотрел на неё, продолжая править лошадьми."
 
     old "Look at me, Sarah."
     new "Посмотри на меня, Сара."
@@ -395,7 +395,7 @@ translate ru strings:
     new "Трудно было прожить всю жизнь в безопасности и внезапно увидеть опасность со всех сторон."
 
     old "Still, she was glad she had Sigmund and the others."
-    new "И всё же она была рада, что с ней Зигмунд и остальные."
+    new "И всё же она была рада, что с ней Сигмунд и остальные."
 
     old "They had been right. She wouldn't have survived for a day out here without them."
     new "Они были правы. Она не прожила бы здесь и дня без них."
@@ -413,7 +413,7 @@ translate ru strings:
     new "Они разбили лагерь глубоко в лесу."
 
     old "Sigmund had told her that they'd likely be another day or two before they would even break past the main body of the forest."
-    new "Зигмунд сказал ей, что, вероятно, пройдёт ещё день или два, прежде чем они выберутся из основной чащи."
+    new "Сигмунд сказал ей, что, вероятно, пройдёт ещё день или два, прежде чем они выберутся из основной чащи."
 
     old "Sarah tried to wrap her head around it."
     new "Сара пыталась осмыслить это."
@@ -431,10 +431,10 @@ translate ru strings:
     new "Ей казалось, что с каждой трапезой её кулинарные навыки улучшаются. Она надеялась, что остальные тоже так считают."
 
     old "After their meal was finished, Sigmund and Krip walked away from the camp, discussing something that Sarah could no longer overhear."
-    new "После ужина Зигмунд и Крип отошли от лагеря, обсуждая что-то, чего Сара уже не могла расслышать."
+    new "После ужина Сигмунд и Крип отошли от лагеря, обсуждая что-то, чего Сара уже не могла расслышать."
 
     old "She called it discussing, but the truth was Krip said little back, and it was more of a monologue that Sigmund seemed to be having with himself."
-    new "Она назвала это обсуждением, но на самом деле Крип почти не отвечал, и это больше походило на монолог, который Зигмунд вёл сам с собой."
+    new "Она назвала это обсуждением, но на самом деле Крип почти не отвечал, и это больше походило на монолог, который Сигмунд вёл сам с собой."
 
     old "Looking out across the fire, Sarah could see Sakar looking back at her."
     new "Глядя через костёр, Сара увидела, что Сакар смотрит на неё."
@@ -452,7 +452,7 @@ translate ru strings:
     new "Я стараюсь изо всех сил, но это не так просто, как я думала."
 
     old "I'm used to Sigmund or Krip cooking."
-    new "Я привыкла к стряпне Зигмунда или Крипа."
+    new "Я привыкла к стряпне Сигмунда или Крипа."
 
     old "Be thankful you haven't been subjected to any of that yet."
     new "Радуйся, что тебя это пока миновало."
@@ -476,7 +476,7 @@ translate ru strings:
     new "Она была здесь, на дороге, вместе с остальными. Ей нужно было узнать других мужчин, с которыми она путешествовала."
 
     old "Sigmund had warned her about Sakar, but Sarah decided to make up her own mind about the man."
-    new "Зигмунд предупреждал её о Сакаре, но Сара решила составить собственное мнение."
+    new "Сигмунд предупреждал её о Сакаре, но Сара решила составить собственное мнение."
 
     old "Yes, I'll join you."
     new "Да, я составлю тебе компанию."
@@ -578,7 +578,7 @@ translate ru strings:
     new "Я справлюсь. Просто нужно стать жёстче, наверное."
 
     old "Maybe you can stand to get a bit tougher, Sarah, but don't let that bastard Sigmund grind you down."
-    new "Может, тебе и стоит стать немного жёстче, Сара, но не позволяй этому ублюдку Зигмунду сломать тебя."
+    new "Может, тебе и стоит стать немного жёстче, Сара, но не позволяй этому ублюдку Сигмунду сломать тебя."
 
     old "It's not a weakness to be shocked at the sight of blood. It reminds you that you're human, even if spilling it is sometimes necessary."
     new "Это не слабость — испытывать шок при виде крови. Это напоминает тебе, что ты человек, даже если проливать её иногда необходимо."
@@ -587,7 +587,7 @@ translate ru strings:
     new "Сара не знала, что сказать, и предпочла промолчать."
 
     old "Slowly walking around the clearing, she explored ever inch of the nature that was so alien to her. Nothing like this existed in Rosanna."
-    new "Медленно обходя поляну, она изучала каждый дюйм природы, такой чуждой ей. Ничего подобного в Розанне не было."
+    new "Медленно обходя поляну, она изучала каждый уголок дикой природы, такой чуждой ей. Ничего подобного в Розанне не было."
 
     old "You're enjoying yourself?"
     new "Тебе нравится?"
@@ -977,10 +977,10 @@ translate ru strings:
     new "Наконец они выбрались из густого леса на открытую дорогу."
 
     old "Arriving there, Sarah found Sigmund and Krip already back at the camp, looking at her."
-    new "Вернувшись, Сара застала Зигмунда и Крипа уже в лагере; они смотрели на неё."
+    new "Вернувшись, Сара застала Сигмунда и Крипа уже в лагере; они смотрели на неё."
 
     old "Sigmund didn't say much, but his eyes did the talking for him."
-    new "Зигмунд не сказал ни слова, но его глаза говорили за него."
+    new "Сигмунд не сказал ни слова, но всё было написано у него на лице."
 
     old "Sarah jumped into her bedroll as fast as she could."
     new "Сара нырнула в свой спальник так быстро, как только могла."
@@ -1127,7 +1127,7 @@ translate ru strings:
     new "Вскоре она выбралась обратно на дорогу и увидела повозку и остальных, ждущих там."
 
     old "Sigmund and Krip were standing there, but neither said much about her sudden appearance."
-    new "Зигмунд и Крип стояли там, но ни один не сказал ни слова о её внезапном появлении."
+    new "Сигмунд и Крип стояли там, но ни один не сказал ни слова о её внезапном появлении."
 
     old "Stay at the camp"
     new "Остаться в лагере"
@@ -1160,13 +1160,13 @@ translate ru strings:
     new "Где Сакар?"
 
     old "Sarah looked up at Sigmund, standing near her."
-    new "Сара подняла взгляд на Зигмунда, стоящего рядом."
+    new "Сара подняла взгляд на Сигмунда, стоящего рядом."
 
     old "He said he was going for a walk. Asked if I wanted to join him, but I decided to stay."
     new "Он сказал, что идёт прогуляться. Спросил, не хочу ли я присоединиться, но я решила остаться."
 
     old "Sigmund looked out into the forest, nodding."
-    new "Зигмунд посмотрел в лес, кивая."
+    new "Сигмунд посмотрел в лес, кивая."
 
     old "Gods knows what he does out there in the forest by himself."
     new "Боги знают, чем он там занимается в лесу один."
@@ -1181,7 +1181,7 @@ translate ru strings:
     new "Ну, ты сказал мне, что он опасен, поэтому я решила, что лучше остаться здесь."
 
     old "Sigmund patted Sarah on the shoulder."
-    new "Зигмунд похлопал Сару по плечу."
+    new "Сигмунд похлопал Сару по плечу."
 
     old "His giant hands were oddly comforting."
     new "Его огромные руки были странно утешительными."
@@ -1190,7 +1190,7 @@ translate ru strings:
     new "Молодец, не стоит связываться с этим парнем, Сара."
 
     old "Sigmund sat down opposite of her."
-    new "Зигмунд сел напротив неё."
+    new "Сигмунд сел напротив неё."
 
     old "Sarah watched as he pulled out his blade, placing it diagonally over his lap."
     new "Сара смотрела, как он достаёт клинок, кладя его по диагонали на колени."
@@ -1208,7 +1208,7 @@ translate ru strings:
     new "Где ты научился так драться?"
 
     old "The question seemed to surprise Sigmund."
-    new "Вопрос, казалось, удивил Зигмунда."
+    new "Вопрос, казалось, удивил Сигмунда."
 
     old "Why do you ask?"
     new "Почему ты спрашиваешь?"
@@ -1217,13 +1217,13 @@ translate ru strings:
     new "Без особой причины. Просто сегодня... казалось, ты точно знал, что делаешь."
 
     old "Sigmund slowly nodded as he continued to sharpen his sword."
-    new "Зигмунд медленно кивнул, продолжая точить меч."
+    new "Сигмунд медленно кивнул, продолжая точить меч."
 
     old "I got some experience. Too much of it if I'm honest."
     new "Есть кое-какой опыт. Если честно, даже слишком много."
 
     old "Sigmund paused for a moment."
-    new "Зигмунд на мгновение замер."
+    new "Сигмунд на мгновение замер."
 
     old "I know these roads because I grew up on them."
     new "Я знаю эти дороги, потому что вырос на них."
@@ -1274,7 +1274,7 @@ translate ru strings:
     new "Она встала и отошла от костра, забираясь в спальник."
 
     old "Sarah was thankful that Sigmund was protective of her, but she hated the way he shielded her at the same time."
-    new "Сара была благодарна Зигмунду за его защиту, но ненавидела то, как он ограждал её от всего."
+    new "Сара была благодарна Сигмунду за его защиту, но ненавидела то, как он ограждал её от всего."
 
     old "It felt suffocating."
     new "Это было душно."

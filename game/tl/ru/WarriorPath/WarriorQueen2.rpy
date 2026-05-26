@@ -437,7 +437,7 @@ translate ru strings:
     new "Обещаю."
 
     old "Whatever, she thought to herself. This was nothing she hadn't done before. She could endure one more time if it meant keeping all of this a secret."
-    new "Какая разница, подумала она про себя. Это не было тем, чего она раньше не делала. Она могла вытерпеть ещё один раз, если это значит сохранить всё в тайне."
+    new "Какая разница, подумала она про себя. Она делала это и раньше. Она могла вытерпеть ещё один раз, если это значит сохранить всё в тайне."
 
     old "Okay then..."
     new "Хорошо тогда..."
@@ -863,7 +863,7 @@ translate ru strings:
     new "Если бы она не была так крепко прижата к столу его массивным телом, она бы извивалась."
 
     old "Instead, she now simply writhed beneath him, crying out hysterically as the orgasm burned out every synapse in her body."
-    new "Вместо этого она теперь просто извивалась под ним, истерично вскрикивая, пока оргазм сжигал каждый синапс в её теле."
+    new "Вместо этого она теперь просто извивалась под ним, истерично вскрикивая, пока оргазм прожигал каждую клеточку её тела."
 
     old "Between her legs, she felt him swell to an ever impossible size."
     new "Между ног она чувствовала, как он разбухает до невозможных размеров."
@@ -887,7 +887,7 @@ translate ru strings:
     new "Сара почувствовала, как его семя изливается глубоко внутри неё."
 
     old "Though the pleasure of it deepend, it also brought back a rush of sanity."
-    new "Хотя удовольствие от этого усилилось, это также вернуло поток здравомыслия."
+    new "Хотя удовольствие от этого усилилось, это также вернуло прилив здравомыслия."
 
     old "She would have to drink the proper potions to make sure none of his seed would take root."
     new "Ей придётся выпить нужные зелья, чтобы убедиться, что его семя не пустит корни."
@@ -995,7 +995,7 @@ translate ru strings:
     new "Теперь мне суют контракт, чтобы перевезти тебя обратно спустя все эти годы, и я узнаю, что ты не просто какая-то знатная девица."
 
     old "Nah, Blondie, you the top noble."
-    new "Не, Блонди, ты самая главная знать."
+    new "Не, Блонди, ты самая главная из знати."
 
     old "Yes, well, when I left Rosanna that night it was all sudden...and things seemed very dangerous."
     new "Да, ну, когда я покидала Розанну той ночью, всё было внезапно... и казалось очень опасным."
@@ -1013,7 +1013,7 @@ translate ru strings:
     new "В этом они могли сойтись, подумала Сара."
 
     old "A pause lingered. Sarah tapped the table with her fingers."
-    new "Повисла пауза. Сара барабанила пальцами по столу."
+    new "Повисла пауза. Сара постукивала пальцами по столу."
 
     old "Is that all then? The guard said you wanted to ask me something."
     new "Это всё? Стражник сказал, вы хотели меня о чём-то спросить."

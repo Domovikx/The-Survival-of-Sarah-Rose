@@ -86,7 +86,7 @@ translate ru strings:
     new "Я уже не знаю."
 
     old "Yes, you're probably right. I've been thinking about this for a while now."
-    new "Да, ты, наверное, права. Я сам думал об этом последнее время."
+    new "Да, ты, наверное, права. Я и сам думал об этом в последнее время."
 
     old "Thinking about what?"
     new "О чём?"
@@ -143,7 +143,7 @@ translate ru strings:
     new "Вся её подготовка и сила. Они ничего не значили. Она всё ещё была игрушкой в чужой игре."
 
     old "The last of the preparations are being made, but in a few days, I will take you to the citadel. Trust me, it will all be for the best."
-    new "Уже готовятся последние приготовления, но через несколько дней я отвезу тебя в цитадель. Поверь, всё это к лучшему."
+    new "Последние приготовления уже завершаются. Через несколько дней я отвезу тебя в цитадель. Поверь, всё это к лучшему."
 
     old "Sarah didn't bother to listen to him defend himself. She stormed out."
     new "Сара не стала слушать его оправдания. Она выбежала прочь."

@@ -71,7 +71,7 @@ translate ru strings:
     new "Холодный ночной воздух ударил ей в лицо, когда она сбежала вниз по лестнице и выскочила на улицу."
 
     old "Rahayal was a great city, and this meant that even in the deep of night, it was never truly asleep."
-    new "Рахаял был великим городом, а это значило, что даже глубокой ночью он никогда не спал по-настоящему."
+    new "Рахаяль был великим городом, а это значило, что даже глубокой ночью он никогда не спал по-настоящему."
 
     old "Even at night, it hummed and buzzed like a beehive."
     new "Даже ночью он гудел и жужжал, словно улей."

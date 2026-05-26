@@ -167,7 +167,7 @@ translate ru strings:
     new "Довольно, Шах. Мы хотим нашу плату."
 
     old "Your payment!?!"
-    new "Вашу плату!?!"
+    new "Вашу плату?!"
 
     old "He nearly screamed his response."
     new "Он почти выкрикнул свой ответ."
@@ -524,7 +524,7 @@ translate ru strings:
     new "Они одновременно и увидели будущее, и произнесли его в реальность."
 
     old "Sarah rubbed her temples in frustration."
-    new "Сара потёрла виски в разочаровании."
+    new "Сара разочарованно потёрла виски."
 
     old "It means that your race, as well as mine, was forever trapped. Trapped to walk down a road that only led to one outcome."
     new "Это значит, что твоя раса, как и моя, была навеки заперта. Заперта идти по дороге, ведущей только к одному исходу."
@@ -590,7 +590,7 @@ translate ru strings:
     new "Да, вместе, Сара, мы можем противостоять этой небесной тирании. Вырваться из цепей твоих богов и вернуть миру свободу воли."
 
     old "The control they wield over this world is but a fraction of what they will wield if they return."
-    new "Контроль, который они осуществляют над этим миром, — лишь малая часть того, что они будут иметь, если вернутся."
+    new "Контроль, который они имеют над этим миром, — лишь малая часть того, что они обретут, если вернутся."
 
     old "All the world will become theirs, down to every atom. If they are reborn, their yoke will become unbreakable."
     new "Весь мир станет их, до последнего атома. Если они возродятся, их ярмо станет неразрывным."

@@ -77,7 +77,7 @@ translate ru strings:
     new "Повозка продолжала мягко катиться по Старой дороге, уходящей всё дальше."
 
     old "When do you suppose we'll get to Rahayal?"
-    new "Как думаешь, когда мы доберёмся до Рахайаля?"
+    new "Как думаешь, когда мы доберёмся до Рахайала?"
 
     old "Sigmund scratched his beard in deep thought."
     new "Сигмунд почесал бороду, погрузившись в раздумья."
@@ -623,7 +623,7 @@ translate ru strings:
     new "Они схватили его, его жену, четырёх сыновей и двух дочерей."
 
     old "You see, the other bandit lords wanted to make an example out of someone who aimed too big. Make sure nobody else ever got that ambitious again."
-    new "Понимаешь, другие разбойничьи лорды хотели наказать того, кто целился слишком высоко, чтобы никто больше никогда не был таким амбициозным."
+    new "Понимаешь, другие короли разбойников хотели наказать того, кто целился слишком высоко, чтобы никто больше никогда не был таким амбициозным."
 
     old "They marched him to the bridge of the three sisters, along with his entire family."
     new "Они повели его к мосту трёх сестёр вместе со всей его семьёй."
@@ -659,7 +659,7 @@ translate ru strings:
     new "Вместо этого он висел на той верёвке днями."
 
     old "Too strong to die, too weak to climb back up. Too loose to choke."
-    new "Слишком сильный, чтобы умереть, слишком слабый, чтобы забраться обратно. Слишком свободно, чтобы задохнуться."
+    new "Слишком сильный, чтобы умереть, слишком слабый, чтобы забраться обратно. Слишком свободна, чтобы задушить."
 
     old "And so he swung back and forth, day after day."
     new "И так он раскачивался взад-вперёд день за днём."
@@ -698,7 +698,7 @@ translate ru strings:
     new "Сара почувствовала, как дрожь пробежала по её телу."
 
     old "And just as he was ready to die for real, the rope he was hanging from, after days of keeping up his weight and suffering that same expose to the elements...it snapped."
-    new "И как раз когда он был готов умереть по-настоящему, верёвка, на которой он висел, после дней, выдерживающих его вес и страдающих от тех же воздействий...она лопнула."
+    new "И как раз когда он был готов умереть по-настоящему, верёвка, на которой он висел — после дней, в течение которых она держала его вес и подвергалась тем же воздействиям стихии...она лопнула."
 
     old "Sigmund dropped down fuck how far I know, and landed in the waters beneath the bridge."
     new "Сигмунд рухнул — хрен знает как далеко — и приземлился в воду под мостом."
@@ -1244,7 +1244,7 @@ translate ru strings:
     new "Сара топнула ногой, внезапно сильно разозлившись на него."
 
     old "Then I'll fuckink work in a whore house, who cares? Do you care?"
-    new "Тогда я буду работать в борделе, какая разница? Тебе есть дело?"
+    new "Тогда я буду работать в грёбаном борделе, какая разница? Тебе есть дело?"
 
     old "You think I'm just this worthless weak little girl."
     new "Ты думаешь, я просто никчёмная слабая маленькая девочка."
@@ -1259,7 +1259,7 @@ translate ru strings:
     new "Сара ткнула пальцем ему в грудь."
 
     old "I'm going to start over, and Rahayal is where I'll give it my best shot. It's as a good a city as any."
-    new "Я начну всё заново, и Рахайаль — это место, где я попробую изо всех сил. Это такой же хороший город, как и любой другой."
+    new "Я начну всё заново, и Рахайал — это место, где я попробую изо всех сил. Это такой же хороший город, как и любой другой."
 
     old "Sakar slapped her finger away."
     new "Сакар оттолкнул её палец."
@@ -1289,7 +1289,7 @@ translate ru strings:
     new "Сара даже не рассматривала такую возможность."
 
     old "She had set he sights on Rahayal. The city had sat at the end of the road for so long, her final destination."
-    new "Она нацелилась на Рахайаль. Город так долго был в конце дороги, её конечным пунктом назначения."
+    new "Она нацелилась на Рахайал. Город так долго был в конце дороги, её конечным пунктом назначения."
 
     old "She had never thought that perhaps her plans could change."
     new "Она никогда не думала, что её планы могут измениться."
@@ -1316,7 +1316,7 @@ translate ru strings:
     new "Сакар кивнул, возможно, радуясь уже тому, что услышал что-то кроме «нет»."
 
     old "We're still a few days out from Rahayal, and I'll know my answer when we get there."
-    new "Мы всё ещё в нескольких днях от Рахайаля, и я узнаю свой ответ, когда мы доберёмся."
+    new "Мы всё ещё в нескольких днях от Рахайала, и я узнаю свой ответ, когда мы доберёмся."
 
     old "So I guess..."
     new "Так что, думаю..."
@@ -1352,7 +1352,7 @@ translate ru strings:
     new "Слегка одурманенная алкоголем, Сара смотрела на него через костёр."
 
     old "I wanted to thank you, before we got to Rahayal."
-    new "Я хотела поблагодарить тебя, пока мы не добрались до Рахайаля."
+    new "Я хотела поблагодарить тебя, пока мы не добрались до Рахайала."
 
     old "If it hadn't been for you and the others...I don't wanna think about what would have happened."
     new "Если бы не ты и остальные...не хочу думать, что бы случилось."
@@ -1436,7 +1436,7 @@ translate ru strings:
     new "Неважно. Просто история, которую я как-то слышала."
 
     old "Well, it's a big city, I can tell you that much. If any city has a fountain in...whatever colour you want...I guess Rahayal is as good as any."
-    new "Ну, это большой город, это я могу сказать. Если в каком-то городе есть фонтан...любого цвета...думаю, Рахайаль подойдёт."
+    new "Ну, это большой город, это я могу сказать. Если в каком-то городе есть фонтан...любого цвета...думаю, Рахайал подойдёт."
 
     old "Sarah smiled, hoping to put the topic to rest."
     new "Сара улыбнулась, надеясь закрыть тему."
@@ -1457,7 +1457,7 @@ translate ru strings:
     new "Сара решила пока оставить это при себе."
 
     old "She looked off into the distance where the crossroads unwinded into its many directions, the principal one being Rahayal."
-    new "Она посмотрела вдаль, где перекрёсток расходился в разные стороны, главной из которых была дорога на Рахайаль."
+    new "Она посмотрела вдаль, где перекрёсток расходился в разные стороны, главной из которых была дорога на Рахайал."
 
     old "I'm sort of just hoping to start over in Rahayal, I suppose."
     new "Я просто надеюсь начать всё заново в Рахайале, полагаю."
@@ -1556,7 +1556,7 @@ translate ru strings:
     new "Сара подалась вперёд, внезапно заинтригованная."
 
     old "The shipment of pyrrite we got with us is meant for the Rahayal market. It's in demand enough that it sells out quick."
-    new "Партия пиррита, которую мы везём, предназначена для рынка Рахайаля. Он пользуется таким спросом, что быстро раскупается."
+    new "Партия пиррита, которую мы везём, предназначена для рынка Рахайала. Он пользуется таким спросом, что быстро раскупается."
 
     old "But I got a special connect, an alchemist named James Eyrie. He always pays me a bit extra to get first access to the best stuff."
     new "Но у меня есть особый контакт, алхимик по имени Джеймс Эйри. Он всегда доплачивает, чтобы первым получить доступ к лучшему товару."

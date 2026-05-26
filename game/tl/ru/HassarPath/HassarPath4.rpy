@@ -77,7 +77,7 @@ translate ru strings:
     new "Продвигаясь вперёд, она аккуратно сняла несколько книг с полок, сложив их на столе для чтения."
 
     old "The books quickly grew to a sizeable pile."
-    new "Книги быстро превратились в внушительную стопку."
+    new "Книги быстро превратились во внушительную стопку."
 
     old "In the sanctum, it was easy to feel alone, but at the same time she would often accidentally run into the other women."
     new "В святилище легко было чувствовать себя одинокой, но в то же время она часто случайно сталкивалась с другими женщинами."
@@ -599,7 +599,7 @@ translate ru strings:
     new "Скажи, почему ты здесь, а мужчины твоего народа — растоптаны в полях?"
 
     old "Sarah felt her ass burn as he roughly spanked her. Her answer had taken too long."
-    new "Сара почувствовала, как ягодицы загорелись от грубой шлепка. Её ответ занял слишком много времени."
+    new "Сара почувствовала, как ягодицы загорелись от грубого шлепка. Её ответ занял слишком много времени."
 
     old "I...I don't know."
     new "Я... я не знаю."

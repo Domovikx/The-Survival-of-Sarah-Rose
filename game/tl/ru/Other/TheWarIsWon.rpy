@@ -161,7 +161,7 @@ translate ru strings:
     new "Бутылка выскользнула из его ослабшей хватки и покатилась вниз по ступеням, укатившись в зал."
 
     old "Ugh, I really am worse off than I thought."
-    new "Уф, я действительно в худшем состоянии, чем думал."
+    new "Ох, я действительно в худшем состоянии, чем думал."
 
     old "I'll trust you can make it back to your room by yourself, or do I need to get one of the servants to carry you?"
     new "Надеюсь, ты сможешь добраться до своей комнаты сам, или мне позвать слуг, чтобы они тебя донесли?"
@@ -239,7 +239,7 @@ translate ru strings:
     new "Сара вздохнула."
 
     old "Ugh, you're no fun."
-    new "Уф, с тобой не весело."
+    new "Ох, с тобой не весело."
 
     old "Varga chuckled."
     new "Варга усмехнулся."
@@ -290,7 +290,7 @@ translate ru strings:
     new "Но замок был полон слуг, которые вечно смотрят, слушают, сплетничают."
 
     old "She felt her unsatisfied lust make way for frustation."
-    new "Она почувствовала, как неутолённая похоть уступает место разочарованию."
+    new "Она почувствовала, как неутолённая похоть уступает место раздражению."
 
     old "So proud of yourself."
     new "Такой довольный собой."
@@ -314,7 +314,7 @@ translate ru strings:
     new "Сара отдёрнула руку и направилась к библиотеке."
 
     old "She mumbled to herself in frustration."
-    new "Она пробормотала себе под нос в разочаровании."
+    new "Она пробормотала себе под нос с досадой."
 
     old "Always so damn careful."
     new "Вечно такой чёртовски осторожный."

@@ -119,7 +119,7 @@ translate ru strings:
     new "Любовь — это... то, о чём дети читают в историях о рыцарях и леди, которые Отец читал нам."
 
     old "They are not the way of the world."
-    new "Но таков уж мир."
+    new "В мире всё иначе."
 
     old "He straightened his back, seeming somehow taller."
     new "Он выпрямил спину, став будто бы выше."

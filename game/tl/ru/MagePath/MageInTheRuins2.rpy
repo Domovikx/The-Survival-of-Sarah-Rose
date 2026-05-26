@@ -101,7 +101,7 @@ translate ru strings:
     new "Сара, не волнуйся."
 
     old "She held out her arms. Flawless. Not even a bruise."
-    new "Она протянула руки. Безупречно. Ни даже синяка."
+    new "Она протянула руки. Безупречны. Ни единого синяка."
 
     old "I'm fine."
     new "Я в порядке."
@@ -272,7 +272,7 @@ translate ru strings:
     new "Всё в этом городе указывало на то, что когда-то он был домом для многих миллионов."
 
     old "Even Lethram, a large city in its own right, felt cramped and small compared to this place."
-    new "Даже Лэтрам, сам по себе большой город, казался тесным и маленьким по сравнению с этим местом."
+    new "Даже Летрам, сам по себе большой город, казался тесным и маленьким по сравнению с этим местом."
 
     old "Here, every street, stairway or plaza was massive. As if build to accomodate millions."
     new "Здесь каждая улица, лестница или площадь были огромны. Словно построены для размещения миллионов."
@@ -1808,7 +1808,7 @@ translate ru strings:
     new "Геката повернулась к ней и улыбнулась."
 
     old "Or nothing at all is down there, and I am merely paranoid."
-    new "Или внизу вообще ничего нет, и я просто параноик."
+    new "Или внизу вообще ничего нет, и я просто параноидальна."
 
     old "Regardless, best we be prepared."
     new "В любом случае, лучше быть готовыми."

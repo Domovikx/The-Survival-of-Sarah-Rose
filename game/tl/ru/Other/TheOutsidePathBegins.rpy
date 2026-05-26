@@ -68,7 +68,7 @@ translate ru strings:
     new "Кейт накинула на себя плащ и втянула Сару под него. Вдвоём они побежали через замковые сады к небольшому обрыву."
 
     old "A dead end, Sarah thought. She knew every inch of the castle."
-    new "Тупик, подумала Сара. Она знала каждый дюйм замка."
+    new "Тупик, подумала Сара. Она знала каждый уголок замка."
 
     old "But Kate pulled back some brushes, revealing a hidden ladder. She dropped the ladder down and began to climb."
     new "Но Кейт раздвинула кусты, открыв спрятанную лестницу. Она опустила лестницу вниз и начала спускаться."

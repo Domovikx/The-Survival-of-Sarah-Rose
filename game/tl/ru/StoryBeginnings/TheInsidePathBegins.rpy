@@ -23,7 +23,7 @@ translate ru strings:
     new "Если ты думаешь, что я брошу его одного... тогда ты совсем меня не знаешь."
 
     old "I will stay here, even if it means risking my life."
-    new "Я останусь здесь, даже если это значит рисковать жизнью."
+    new "Я останусь здесь, даже если ради этого придётся рисковать жизнью."
 
     old "Kate climbs off the bed."
     new "Кейт слезает с кровати."
@@ -41,7 +41,7 @@ translate ru strings:
     new "Я сказала всё. Уходи, пока я не приказала страже вывести тебя."
 
     old "Kate shakes her head in disbelief. She pauses for a moment, trying to find the words, but finds none."
-    new "Кейт качает головой в неверии. Она замолкает на мгновение, пытаясь найти слова, но не находит."
+    new "Кейт недоверчиво качает головой. Она замолкает на мгновение, пытаясь найти слова, но не находит."
 
     old "Kate turns and walks towards the door in large strides."
     new "Кейт разворачивается и большими шагами направляется к двери."
@@ -59,7 +59,7 @@ translate ru strings:
     new "Сара пытается снова уснуть, но мысли не дают покоя."
 
     old "She wonders if she will ever see her old friend again."
-    new "Она гадает, увидит ли когда-нибудь свою старую подругу снова."
+    new "Она гадает, доведётся ли ей ещё увидеть свою старую подругу."
 
     old "Eventually, exhaustion carries Sarah off to sleep."
     new "В конце концов усталость уносит Сару в сон."

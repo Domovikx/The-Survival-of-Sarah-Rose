@@ -74,7 +74,7 @@ translate ru strings:
     new "Сара не понимала, что видит. Она никогда не знала, что мужчины могут быть вместе таким образом."
 
     old "The only certainty was how it aroused her. She pushed her own fingers deeper between her legs. She could feel herself reaching a climax."
-    new "Единственной уверенностью было то, как это её заводило. Она погрузила пальцы глубже между ног. Она чувствовала, что приближается к кульминации."
+    new "Единственной уверенностью было то, как это её заводило. Она просунула пальцы глубже между ног. Она чувствовала, что приближается к кульминации."
 
     old "She watched as Caleb picked up the pace, confidently taking Ephraim from behind, going faster and harder. The sounds of Caleb's body hitting Ephraim from behind, filled the tent."
     new "Она видела, как Калеб ускорился, уверенно беря Ефрема сзади, быстрее и жёстче. Звуки ударов тела Калеба о тело Ефрема наполнили палатку."
@@ -95,7 +95,7 @@ translate ru strings:
     new "Сдерживая дыхание, Сара лежала в послевкусии оргазма. Всё ещё горячая, она видела, как Калеб кончил вскоре после неё, изливая своё семя в Ефрема."
 
     old "Out of the three, it was Ephraim who came last, guided there by Caleb, who had reached around and was stroking his friend to completion."
-    new "Из троих последним кончил Ефрем, доведённый до этого Калебом, который обхватил его рукой и дрочил другу до финала."
+    new "Из троих последним кончил Ефрем, доведённый до этого Калебом, который обхватил его рукой и ласкал друга до финала."
 
     old "Ephraim's cum shot out, landing onto the sheets."
     new "Сперма Ефрема выплеснулась на простыни."

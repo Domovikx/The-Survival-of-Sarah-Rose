@@ -14,7 +14,7 @@ translate ru strings:
     new "Он вытаскивает нож из-за пояса и подносит его к её горлу."
 
     old "She can feel the blade of the knife press into his skin, only barely does it not cut her."
-    new "Она чувствует, как лезвие ножа вдавливается в его кожу, едва не разрезая её."
+    new "Она чувствует, как лезвие ножа вдавливается в её кожу, едва не разрезая её."
 
     old "He stares into her eyes, letting her know his intent."
     new "Он смотрит ей в глаза, давая понять о своих намерениях."
@@ -83,7 +83,7 @@ translate ru strings:
     new "Так что нет, здесь вполне подходит."
 
     old "He suddenly grabs a hand full of her hair."
-    new "Он внезапно хватает её за волосы полной горстью."
+    new "Он внезапно хватает её за волосы."
 
     old "Her head now being controlled by him, she's unable to fight back as he pushes her face down onto the pavement."
     new "Теперь он контролирует её голову, и она не может сопротивляться, когда он прижимает её лицом к мостовой."
@@ -116,7 +116,7 @@ translate ru strings:
     new "Уже мокрая."
 
     old "Still bend over on the ground, Sarah turns her head around."
-    new "Всё ещё стоя на коленях на земле, Сара оборачивается."
+    new "Всё ещё согнувшись на земле, Сара оборачивается."
 
     old "The man laughs at her."
     new "Мужчина смеётся над ней."
@@ -164,16 +164,16 @@ translate ru strings:
     new "Сара чувствует, как её хватка ослабевает, и она падает грудью на землю, холодный камень больно давит на соски."
 
     old "Now fully bend over, she feels the man reposition himself while still inside of her."
-    new "Теперь полностью согнувшись, она чувствует, как мужчина перестраивается, всё ещё оставаясь внутри неё."
+    new "Теперь полностью согнувшись, она чувствует, как мужчина меняет положение, всё ещё оставаясь внутри неё."
 
     old "Once he finds the better angle, he unleashes."
-    new "Как только он находит лучший угол, он даёт волю."
+    new "Как только он находит лучший угол, он даёт себе волю."
 
     old "He's like an animal, Sarah thinks."
     new "Он как животное, думает Сара."
 
     old "What was happening here, in this alley, had nothing civilized about it."
-    new "То, что происходило здесь, в этом переулке, не было ничего цивилизованного."
+    new "В том, что происходило здесь, в этом переулке, не было ничего цивилизованного."
 
     old "Just a man with an urge, and a woman that could satisfy it for him."
     new "Просто мужчина с желанием и женщина, которая может его удовлетворить."
@@ -197,7 +197,7 @@ translate ru strings:
     new "У неё отняли всё: титул, деньги, уважение."
 
     old "Then didn't it fit her now? To be fucked for what she was worth, nothing?"
-    new "Разве это не подходит ей теперь? Быть траханной за то, чего она стоит — ничего?"
+    new "Разве это не подходит ей теперь? Чтобы её трахали за то, чего она стоит — ничего?"
 
     old "Far off inside her mind, Sarah wanted to thank the man. Thank him for treating her according to her new station. For letting her have no illusions about who she now was."
     new "Где-то в глубине души Сара хотела поблагодарить мужчину. Поблагодарить за то, что обращался с ней согласно её новому положению. За то, что не оставил ей иллюзий о том, кем она теперь стала."
@@ -215,7 +215,7 @@ translate ru strings:
     new "Её стоны становились громче, и она полностью потеряла контроль над собой."
 
     old "He kept her sprawled out and rode her hard."
-    new "Он держал её распростёртой и яростно оседлал её."
+    new "Он держал её распростёртой и яростно вгонял в неё."
 
     old "She gave up all sense of pretend."
     new "Она отказалась от всякого притворства."
@@ -380,7 +380,7 @@ translate ru strings:
     new "Все те годы, прожитые в замке, все её титулы — это не имело никакого значения."
 
     old "Life on the streets of Lethram were about power."
-    new "Жизнь на улицах Лезрама была вопросом власти."
+    new "Жизнь на улицах Летрема была вопросом власти."
 
     old "And she had very little of that."
     new "А у неё этого было очень мало."
@@ -392,10 +392,10 @@ translate ru strings:
     new "Но у него было кое-что ещё, она видела это по его лицу."
 
     old "He had known these streets well enough to survive till his thirties. He was hard to life in ways that Sarah was still soft."
-    new "Он знал эти улицы достаточно хорошо, чтобы дожить до тридцати. Он был закалён жизнью так, как Сара всё ещё была мягка."
+    new "Он знал эти улицы достаточно хорошо, чтобы дожить до тридцати. Он был закалён жизнью так, как Сара всё ещё была мягкотела."
 
     old "If she wanted to be ready for her new life, should would need a man like this."
-    new "Если она хотела быть готовой к новой жизни, ей понадобится такой мужчина."
+    new "Если она хотела быть готовой к новой жизни, ей понадобился бы такой мужчина."
 
     old "The man focussed on her dress, fixing the clasps with thread and needle, clearly not his first time doing this."
     new "Мужчина сосредоточенно чинил её платье, зашивая застёжки ниткой с иголкой — явно не в первый раз."

@@ -65,7 +65,7 @@ translate ru strings:
     new "Одно чудо особенно возвышалось надо всем в городе. Тёмная пирамида — обитель Вечного Суда."
 
     old "It sat atop one of the larger hills that the city had been build on, towering over most everything else, and so alien in its design it almost looked as if some other culture had left it there."
-    new "Она стояла на вершине одного из самых больших холмов, на которых был построен город, возвышаясь почти надо всем, и настолько чуждой по своему дизайну, что казалось, будто её оставила здесь какая-то иная цивилизация."
+    new "Она стояла на вершине одного из самых больших холмов, на которых был построен город, возвышаясь почти надо всем, и настолько чуждой по своему облику, что казалось, будто её оставила здесь какая-то иная цивилизация."
 
     old "Maybe they had. Sarah didn't know."
     new "Может, так и было. Сара не знала."
@@ -257,10 +257,10 @@ translate ru strings:
     new "На стороне дока слуги подбирали ящики и грузили их на телегу. Сара поняла, что никто из них не собирался делать больше, чем абсолютно необходимо."
 
     old "With each trip back and forth, she overhead snippets of Belmont's conversation with the official, but it was too little to make sense of."
-    new "С каждым来回 она улавливала обрывки разговора Бельмонта с чиновником, но их было слишком мало, чтобы понять суть."
+    new "С каждой ходкой она улавливала обрывки разговора Бельмонта с чиновником, но их было слишком мало, чтобы понять суть."
 
     old "Finally, exhausted and ragged, Sarah put down the last crate."
-    new "Наконец, измотанная и вымотанная, Сара поставила последний ящик."
+    new "Наконец, измученная и вымотанная, Сара поставила последний ящик."
 
     old "Not soon had she done so, when the official emerged from the captain's cabbin."
     new "Едва она это сделала, как чиновник вышел из капитанской каюты."
@@ -404,7 +404,7 @@ translate ru strings:
     new "Так же внезапно, как мир лишился жизни, он теперь стремительно наполнился ею."
 
     old "The sounds of the city, the smells, her every sense was assaulted by its sudden reappearance."
-    new "Звуки города, запахи — каждое её чувство было атаковано внезапным возвращением."
+    new "Звуки города, запахи — все её чувства атаковало внезапное возвращение."
 
     old "Sarah looked around, but other than her, nobody seemed to have noticed anything strange."
     new "Сара огляделась, но, кроме неё, никто, казалось, не заметил ничего странного."
@@ -560,7 +560,7 @@ translate ru strings:
     new "Ей также нравилось, что он никогда не сдерживался. Он хватал её, потому что едва мог себя контролировать."
 
     old "I thought it would be our stimulating conversation."
-    new "Я думал, мы будем вести стимулирующую беседу."
+    new "Я думал, мы будем вести увлекательную беседу."
 
     old "She felt his rock hard cock press up against her lower back. She reached back with one hand, softly stroking it."
     new "Она почувствовала, как его твёрдый член прижался к её пояснице. Она завела руку назад, мягко поглаживая его."

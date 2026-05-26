@@ -41,7 +41,7 @@ translate ru strings:
     new "Сара чувствовала, как Самайра инстинктивно уткнулась головой в её плечо."
 
     old "You...you're a good friend...Sarah..."
-    new "Ты... ты хороший друг... Сара..."
+    new "Ты... ты хорошая подруга... Сара..."
 
     old "The girl's voice faded."
     new "Голос девушки затих."
@@ -173,7 +173,7 @@ translate ru strings:
     new "Сара вздохнула, но продолжила искать воду."
 
     old "Ask, follow, search, open up carts."
-    new "Спрашивай, следуй, ищи, открывай повозки."
+    new "Вопросы, поиски, осмотр повозок."
 
     old "Everywhere she went, the water was absent."
     new "Куда бы она ни пошла, воды нигде не было."
@@ -209,7 +209,7 @@ translate ru strings:
     new "Внезапно земля под её ногами стала твёрдой, и, скрытый за изгибом дюны, Сара увидела вход в пещеру."
 
     old "Unable to suppress even a hint of hesitation, Sarah walked closer towards the entrance of the cave, still following the sound."
-    new "Не в силах подавить ни тени колебания, Сара подошла ближе ко входу в пещеру, всё ещё следуя за звуком."
+    new "Не колеблясь ни секунды, Сара подошла ближе ко входу в пещеру, всё ещё следуя за звуком."
 
     old "Stepping into the cave, Sarah was instantly struck by the sense of relief she felt as cool air breezed past her skin."
     new "Шагнув в пещеру, Сара мгновенно ощутила облегчение, когда прохладный воздух коснулся её кожи."
@@ -644,7 +644,7 @@ translate ru strings:
     new "Я... я чувствую себя прекрасно."
 
     old "Laughed for so much dread that she had kept bottled up, prepared and fearing for the worst, was now released from her."
-    new "Смех — весь тот страх, который она копила внутри, готовясь и боясь худшего, теперь вырвался из неё."
+    new "Она рассмеялась — весь тот страх, который она копила внутри, готовясь и боясь худшего, теперь вырвался из неё."
 
     old "Sarah grabbed Samayra into a deep embrace, hugging her as she imagined she was never going to be able to."
     new "Сара крепко обняла Самайру, прижимая её к себе так, как уже не надеялась."
@@ -659,7 +659,7 @@ translate ru strings:
     new "Отстранившись, Сара увидела, что девушка улыбается ей в ответ."
 
     old "Besides. You promised me snow, remember?"
-    new "К тому же. Ты обещала мне снег, помнишь?"
+    new "К тому же, ты обещала мне снег, помнишь?"
 
     old "But with each step, she reached forward, clawing her hands, digging deep into the sand and pulling herself up along the hill."
     new "Но с каждым шагом она тянулась вперёд, вцеплялась руками, зарываясь глубоко в песок, и подтягивала себя вверх по холму."

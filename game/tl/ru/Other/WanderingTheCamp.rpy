@@ -158,7 +158,7 @@ translate ru strings:
     new "Лагерный стражник покачал головой."
 
     old "You're not going anywhere. Orders, straight from Vaelen himself."
-    new "Ты никуда не пойдёшь. Приказ от самого Вейлена."
+    new "Ты никуда не пойдёшь. Приказ от самого Ваэлена."
 
     old "Sarah was stunned."
     new "Сара была ошеломлена."
@@ -173,7 +173,7 @@ translate ru strings:
     new "Стражник снова покачал головой. Он встал устойчивее, словно подкрепляя свои слова."
 
     old "Vaelen told me himself, keep the blonde girl in the pretty dress from leaving."
-    new "Вейлен сам мне сказал: не выпускай светловолосую девушку в красивом платье."
+    new "Ваэлен сам мне сказал: не выпускай светловолосую девушку в красивом платье."
 
     old "It might surprise you to learn, but there aren't a lot of people here matching that description."
     new "Может, это тебя удивит, но здесь не так много людей, подходящих под это описание."
@@ -185,7 +185,7 @@ translate ru strings:
     new "Она развернулась и пошла обратно в лагерь."
 
     old "Sarah had lost the speed in her step. There was nowhere for her to walk to, other then back to the tent."
-    new "Сара потеряла спешку в шаге. Идти ей было некуда, кроме как обратно в палатку."
+    new "Сара сбавила шаг. Идти ей было некуда, кроме как обратно в палатку."
 
     old "She went back the way she came."
     new "Она вернулась той же дорогой, что пришла."
@@ -311,13 +311,13 @@ translate ru strings:
     new "Были кое-какие средства, вроде наркотиков, но прежде всего — алкоголь."
 
     old "Kate paused again, staring off into a memory that Sarah could not reach."
-    new "Кейт снова замолчала, уставившись в воспоминание, до которого Саре было не дотянуться."
+    new "Кейт снова замолчала, погрузившись в воспоминание, до которого Саре было не дотянуться."
 
     old "It numbed the pain, and it let me survive when things got too bad. But over time, the cure got worse than the disease."
     new "Это притупляло боль и помогало выжить, когда становилось слишком плохо. Но со временем лекарство стало хуже болезни."
 
     old "I found myself blacked out in alleys, no idea how I got there."
-    new "Я приходила в себя в переулках без сознания, понятия не имея, как там оказалась."
+    new "Я обнаруживала себя в переулках без сознания, понятия не имея, как там оказалась."
 
     old "Kate stared at Sarah, tears were running down Kate's face."
     new "Кейт смотрела на Сару, по её лицу текли слёзы."
@@ -332,7 +332,7 @@ translate ru strings:
     new "Сара обняла подругу, которая наконец открылась ей."
 
     old "That's when they found me, when Vaelen found me. They pulled me from the void and they gave me a life. A life I always wanted."
-    new "И тогда они нашли меня, тогда Вейлен нашёл меня. Они вытащили меня из пустоты и дали мне жизнь. Жизнь, которую я всегда хотела."
+    new "И тогда они нашли меня, тогда Ваэлен нашёл меня. Они вытащили меня из пустоты и дали мне жизнь. Жизнь, которую я всегда хотела."
 
     old "But those old wounds...they never fully healed. This disease, the addiction, it's inside of me in a way I can't explain."
     new "Но те старые раны... они никогда не заживали до конца. Эта болезнь, зависимость — она внутри меня так, как я не могу объяснить."
@@ -386,7 +386,7 @@ translate ru strings:
     new "Кейт низко опустила голову."
 
     old "I've spoken to Vaelen about you. We're going to see what we can do. Maybe get you back safe to Rosanna."
-    new "Я говорила с Вейленом о тебе. Мы посмотрим, что можно сделать. Может, отправим тебя целой и невредимой обратно в Розанну."
+    new "Я говорила с Ваэленом о тебе. Мы посмотрим, что можно сделать. Может, отправим тебя целой и невредимой обратно в Розанну."
 
     old "Kate turns and quickly leaves the tent, hiding her face as she runs off into the camp."
     new "Кейт разворачивается и быстро выходит из палатки, пряча лицо, убегая в лагерь."
@@ -398,7 +398,7 @@ translate ru strings:
     new "Кейт встаёт и уходит. Она не может заставить себя взглянуть в лицо Саре."
 
     old "Vaelen wants to speak to you."
-    new "Вейлен хочет с тобой поговорить."
+    new "Ваэлен хочет с тобой поговорить."
 
     old "It's the last thing Kate says before she storms off."
     new "Это последнее, что говорит Кейт, прежде чем убегает прочь."
@@ -407,5 +407,5 @@ translate ru strings:
     new "Сара заходит в палатку и падает на кровать."
 
     old "It's still day, but she can't bring herself to get out of the bed anymore."
-    new "Ещё день, но она больше не может заставить себя встать с кровати."
+    new "На улице ещё день, но она больше не может заставить себя встать с кровати."
 

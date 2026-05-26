@@ -14,7 +14,7 @@ translate ru strings:
     new "Это был подарок от Калеба и Эфраима."
 
     old "Sarah was eager for any chance to improve her odds of passing the exam and had gladly accepted it."
-    new "Сара была рада любому шансу повысить свои шансы сдать экзамен и с радостью приняла его."
+    new "Сара была рада любой возможности повысить свои шансы сдать экзамен и с радостью приняла его."
 
     old "It had been a gift from Kate, one of her old suits of armor."
     new "Это был подарок от Кейт, один из её старых доспехов."
@@ -92,7 +92,7 @@ translate ru strings:
     new "Но Сара чувствовала утешение, видя здесь своих новых друзей."
 
     old "She might doubt herself, but she knew that neither Caleb nor Ephraim did. And that made her feel the doubt slip away."
-    new "Она могла сомневаться в себе, но знала, что ни Калеб, ни Эфраим в ней не сомневаются. И это заставило её сомнения уйти."
+    new "Она могла сомневаться в себе, но знала, что ни Калеб, ни Эфраим в ней не сомневаются. И от этого сомнения улетучились."
 
     old "Sarah straightened her back and brought out her shoulders. Whatever doubt she might have had, she would make them invisible to the world."
     new "Сара выпрямила спину и расправила плечи. Какие бы сомнения у неё ни были, она сделает их невидимыми для окружающих."
@@ -110,7 +110,7 @@ translate ru strings:
     new "Если бы она вышла первой, у неё, возможно, не было бы шанса, но теперь она могла представить брешь."
 
     old "She knew she didn't need to beat him, noone so far had, all that was required was a good showing."
-    new "Она знала, что ей не нужно его побеждать — никому пока это не удавалось, — всё, что требовалось, это хорошо себя показать."
+    new "Она знала, что ей не нужно его побеждать — никому пока это не удавалось, — всё, что требовалось, — это хорошо себя показать."
 
     old "Still, she wanted to."
     new "Но ей хотелось."
@@ -305,7 +305,7 @@ translate ru strings:
     new "Когда её понесли дальше, Сара отпустила Кейт, и та скользнула обратно в толпу."
 
     old "Kate's eyes scanned the crowd, searching for Atilla, but she could not find him."
-    new "Взгляд Сары скользил по толпе в поисках Атиллы, но она не могла его найти."
+    new "Взгляд Кейт скользил по толпе в поисках Атиллы, но она не могла его найти."
 
     old "It dawned on her that she might very well have seen him for the last time."
     new "До неё дошло, что она, возможно, видела его в последний раз."

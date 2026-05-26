@@ -59,7 +59,7 @@ translate ru strings:
     new "Лёгкий туман, струившийся над поверхностью воды, намекал на её тепло."
 
     old "It felt instantly relaxing to her skin."
-    new "Кожа мгновенно ощутила расслабляющую прохладу."
+    new "Кожа мгновенно ощутила расслабляющее тепло."
 
     old "Closing her eyes, Sarah took a deep breath, the scented air filling her nostrils."
     new "Закрыв глаза, Сара глубоко вдохнула — ароматный воздух наполнил ноздри."
@@ -248,7 +248,7 @@ translate ru strings:
     new "Не волнуйся. У хана нет секретов от нас. Он рассказал мне о вашем вечере в саду."
 
     old "To have debased herself like that was one thing. To now have other people know about it, somehow worse."
-    new "Унизиться так было одно. Но то, что теперь об этом знают другие, — почему-то ещё хуже."
+    new "Унизиться так было одно дело. Но то, что теперь об этом знают другие, — почему-то ещё хуже."
 
     old "I didn't, it just-"
     new "Я не... это просто-"
@@ -875,7 +875,7 @@ translate ru strings:
     new "Ааааах!"
 
     old "So surprised by the sudden sensation, Sarah felt her body twist and unknowingly she cried out from the pleasure."
-    new "Так удивлённая внезапным ощущением, Сара почувствовала, как тело выгнулось, и она невольно вскрикнула от удовольствия."
+    new "Столь удивлённая внезапным ощущением, Сара почувствовала, как тело выгнулось, и она невольно вскрикнула от удовольствия."
 
     old "The sensation of Naydeen's fingers, now pressed between her legs, was too much."
     new "Ощущение пальцев Найдин, прижатых теперь между её ног, было слишком сильным."

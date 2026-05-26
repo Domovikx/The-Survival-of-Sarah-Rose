@@ -224,7 +224,7 @@ translate ru strings:
     new "Она повернулась к Джаиду и зашептала."
 
     old "What's what?"
-    new "Что — что?"
+    new "Что именно?"
 
     old "The ring on his finger...I've never seen a gemstone with a colour like that."
     new "Кольцо на его пальце... Я никогда не видела драгоценного камня такого цвета."

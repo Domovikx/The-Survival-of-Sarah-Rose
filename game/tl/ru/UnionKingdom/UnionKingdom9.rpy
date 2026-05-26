@@ -29,7 +29,7 @@ translate ru strings:
     new "Лишь позже Сара поняла, что это было очевидно."
 
     old "These were all her peers. None were obliged to show her the curtesy that most other commoners and nobles alike owed her."
-    new "Все они были её равными. Никто не был обязан выказывать ей ту любезность, которую ей было должно большинство других простолюдинов и знати."
+    new "Все они были ей равны. Никто не обязан выказывать ей ту любезность, что ей должна большая часть простолюдинов и знати."
 
     old "All here, I see."
     new "Все здесь, как я вижу."
@@ -173,7 +173,7 @@ translate ru strings:
     new "Мы все видели, какие бедствия могут произойти, когда спор между знатью и простолюдинами не урегулирован."
 
     old "Rosanna has sadly proven how such disagreements can come out into the open, when that vile man Marion made his play for power."
-    new "Розанна, к сожалению, показала, как такие разногласия могут выйти наружу, когда тот мерзкий человек Марион попытался захватить власть."
+    new "Розанна, к сожалению, показала, как такие разногласия могут выйти наружу, когда этот мерзкий человек Марион попытался захватить власть."
 
     old "Sarah looked at her."
     new "Сара посмотрела на неё."
@@ -248,7 +248,7 @@ translate ru strings:
     new "Если хочешь повторения, просто попроси."
 
     old "She went red in the face when she saw he had unclasped his belt and was stroking his erection."
-    new "Её лицо залилось краской, когда она увидела, что он расстегнул ремень и гладил свой стояк."
+    new "Её лицо залилось краской, когда она увидела, что он расстегнул ремень и гладил свой член."
 
     old "The pig."
     new "Свинья."

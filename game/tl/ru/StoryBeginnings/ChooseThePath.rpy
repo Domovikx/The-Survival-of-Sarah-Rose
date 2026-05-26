@@ -29,7 +29,7 @@ translate ru strings:
     new "Сара, это я."
 
     old "Sarah sighed, relieved to hear Kate's voice."
-    new "Сара с облегчением выдохнула, услышав голос Кейт."
+    new "Сара с облегчением вздохнула, услышав голос Кейт."
 
     old "Sarah felt her heart rate rise."
     new "Сара почувствовала, как участился пульс."
@@ -47,7 +47,7 @@ translate ru strings:
     new "Я не за этим пришла, Сара."
 
     old "There was something very serious about Kate. Sarah was confused."
-    new "В Кейт чувствовалась необычная серьёзность. Сара была сбита с толку."
+    new "Кейт была необычно серьёзна. Сара растерялась."
 
     old "What are you doing here?"
     new "Что ты здесь делаешь?"
@@ -113,7 +113,7 @@ translate ru strings:
     new "Сара, тебе нужно ехать со мной в Летрам. Это единственное место, где ты будешь в безопасности. Но уезжать нужно сегодня, прямо сейчас. В гавани нас ждёт корабль."
 
     old "Sarah's mind was spinning. The mystery of her father's death only grew, now Kate revealed herself to be her father's secret agent...and now she had to leave in the dead of night."
-    new "Мысли Сары кружились в водовороте. Тайна смерти отца только росла, Кейт оказалась его тайным агентом... а теперь нужно бежать посреди ночи."
+    new "Мысли Сары путались. Тайна смерти отца обрастала новыми загадками, Кейт оказалась его тайным агентом... а теперь нужно бежать посреди ночи."
 
     old "Sarah's eyes had become used to the dark, and she could see her friend's eyes, glittering with tears."
     new "Глаза Сары привыкли к темноте, и она видела глаза подруги, блестящие от слёз."

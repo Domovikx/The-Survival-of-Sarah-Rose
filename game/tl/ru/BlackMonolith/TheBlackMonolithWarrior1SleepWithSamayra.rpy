@@ -38,7 +38,7 @@ translate ru strings:
     new "Ты многого обо мне не знаешь."
 
     old "Ooh really?"
-    new "Оу, правда?"
+    new "Ого, правда?"
 
     old "Sarah couldn't help but be entertained by her behavior."
     new "Сару невольно забавляло её поведение."
@@ -65,7 +65,7 @@ translate ru strings:
     new "Ты же знаешь, что наёмники и солдаты подмешивают в вино всякую дрянь, да?"
 
     old "Because they like the kick but can't afford the good stuff."
-    new "Потому что им нравится эффект, но хорошее они позволить себе не могут."
+    new "Потому что им нравится, как оно бьёт в голову, но хорошее они позволить себе не могут."
 
     old "Samayra threw out her hands and did a surprisingly graceful pirouette."
     new "Самайра раскинула руки и сделала на удивление изящный пируэт."
@@ -86,7 +86,7 @@ translate ru strings:
     new "Да. В Розанне, до того как... ну, всё это случилось."
 
     old "I guess despite everything, some things are the same no matter where you go in the world."
-    new "Наверное, несмотря ни на что, некоторые вещи неизменны, куда бы ты ни пошёл."
+    new "Наверное, несмотря ни на что, некоторые вещи неизменны, куда бы ты ни пошла."
 
     old "Samayra threw our her arms and did another spin, this time she slightly stumbled but quickly recovered."
     new "Самайра раскинула руки и сделала ещё один поворот, на этот раз слегка споткнулась, но быстро пришла в себя."
@@ -107,7 +107,7 @@ translate ru strings:
     new "Мой отец... я показывала ему каждый новый танец, и он всегда бросал все дела."
 
     old "He liked to say that my mother would have been proud, they said she could dance like no other."
-    new "Он любил говорить, что мама гордилась бы мной, говорили, она танцевала как никто другой."
+    new "Он любил говорить, что моя мама гордилась бы мной, — говорили, она танцевала как никто другой."
 
     old "Did she teach you?"
     new "Она тебя учила?"
@@ -194,7 +194,7 @@ translate ru strings:
     new "Сара крепко обняла девушку и уткнулась лицом в грудь Самайры."
 
     old "The tears came and fell from her face against Samayra's skin, and Sarah felt her body shake from the sobs."
-    new "Слёзы полились и падали с её лица на кожу Самайры, и Сара чувствовала, как её тело сотрясается от рыданий."
+    new "Слёзы полились и падали с её лица на кожу Самайры, и Сара чувствовала, как собственное тело сотрясается от рыданий."
 
     old "But there was none of the rejection that Sarah knew in her heart she deserved."
     new "Но не было и следа отвержения, которого, как Сара знала в глубине души, она заслуживала."
@@ -203,7 +203,7 @@ translate ru strings:
     new "Вместо этого, когда она признавалась во всех своих грехах, она почувствовала, как руки Самайры обвиваются вокруг неё и притягивают ближе."
 
     old "Nestled in her arms, one former princess confessed all of her life to another former princess."
-    new "Прильнув друг к другу, одна бывшая принцесса исповедовалась другой бывшей принцессе во всех грехах своей жизни."
+    new "В объятиях друг друга одна бывшая принцесса исповедовалась другой во всех грехах своей жизни."
 
     old "And Samayra softly whispered all the words Sarah longed to hear, but imagined herself unworthy of."
     new "И Самайра тихо шептала те слова, которые Сара так жаждала услышать, но считала себя недостойной их."

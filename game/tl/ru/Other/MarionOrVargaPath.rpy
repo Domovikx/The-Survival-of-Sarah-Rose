@@ -92,7 +92,7 @@ translate ru strings:
     new "Лицо Мариона застыло и было повёрнуто в сторону — он не мог осознать пощёчину ни физически, ни эмоционально."
 
     old "Sarah could see from the corners of her eyes that everyone was staring at her."
-    new "Краем глаза Сара видела, что все пялятся на неё."
+    new "Краем глаза Сара видела, что все смотрят на неё."
 
     old "Marriage?"
     new "Замужество?"
@@ -107,7 +107,7 @@ translate ru strings:
     new "Я никогда не давала тебе благословения, я ни на что такое не соглашалась."
 
     old "And if you thought I would feel forced to say yes because we were in public, you're as big of an idiot as you are craven."
-    new "И если ты думал, что я почувствую себя обязанной сказать «да», потому что мы на публике, то ты такой же идиот, как и трус."
+    new "И если ты думал, что я почувствую себя обязанной сказать «да», потому что мы при всех, то ты такой же идиот, как и трус."
 
     old "The only thing you've managed to do today is humiliate me, and make a joke of yourself."
     new "Единственное, чего тебе удалось добиться сегодня, — это унизить меня и выставить себя дураком."
@@ -122,7 +122,7 @@ translate ru strings:
     new "Я говорил об этом с Томасом... он думал, что это будет..."
 
     old "A joke, Marion. He probably thought you were a joke, and I suppose, in that regard, he was right."
-    new "Шуткой, Марион. Вероятно, он считал тебя шуткой, и, полагаю, в этом он был прав."
+    new "Шуткой, Марион. Вероятно, он считал тебя посмешищем, и, полагаю, в этом он был прав."
 
     old "I don't want to see you here ever again. You're off the council."
     new "Я не хочу больше видеть тебя здесь. Ты исключён из совета."

@@ -53,7 +53,7 @@ translate ru strings:
     new "Затем метка начала жечь, и она поползла к нему."
 
     old "Spreading apart its legs, the creature revealed its erect cock to her."
-    new "Раздвинув ноги, существо показало ей свой эрегированный член."
+    new "Раздвинув ноги, существо показало ей свой стоячий член."
 
     old "Service me while I speak to you."
     new "Обслуживай меня, пока я говорю."
@@ -92,7 +92,7 @@ translate ru strings:
     new "Сара могла лишь подчиняться его безмолвной команде."
 
     old "You are confused in this place."
-    new "Ты сбита с толку в этом месте."
+    new "Ты сбита с толку здесь."
 
     old "Sarah tried to say something, only to realize the daemon kept his grip on her head."
     new "Сара попыталась сказать что-то, но поняла, что демон держит её голову."
@@ -134,7 +134,7 @@ translate ru strings:
     new "Нет народов и природы, что могли бы поддержать тебя."
 
     old "Sarah slipped her tongue along the creature's shaft, hoping to lubricate it so she might manage him better."
-    new "Сара провела языком по стволу, надеясь смазать его, чтобы справиться лучше."
+    new "Сара провела языком по стволу, надеясь смазать его, чтобы было легче."
 
     old "She could taste him on her tongue."
     new "Она чувствовала его вкус на языке."
@@ -146,7 +146,7 @@ translate ru strings:
     new "Крепкие и неподатливые."
 
     old "Only in adapting is there hope for you."
-    new "Только в адаптации твоя надежда."
+    new "Только приспособившись, ты сможешь надеяться."
 
     old "Sarah felt him pull her head back, his massive cock slipping from her mouth, freeing her to speak."
     new "Сара почувствовала, как он оттянул её голову, член выскользнул, освобождая рот."
@@ -215,7 +215,7 @@ translate ru strings:
     new "Но Сара продолжала."
 
     old "She could soon hear the room fill with the daemon's groaning and the slopping sounds of her own efforts."
-    new "Вскоре комната наполнилась стонами демона и хлюпающими звуками её усилий."
+    new "Вскоре комната наполнилась стонами демона и хлюпающими звуками её стараний."
 
     old "To her own shame, she soon felt a burning sensation between her own legs."
     new "К своему стыду, она вскоре почувствовала жжение между ног."
@@ -257,7 +257,7 @@ translate ru strings:
     new "Демон встал, возвышаясь над ней."
 
     old "Clean the last of that up. My seed is not to be wasted. Understood?"
-    new "Подчисти остатки. Моё семя не должно пропадать. Поняла?"
+    new "Дочисти остатки. Моё семя не должно пропадать. Поняла?"
 
     old "Yes, Master..."
     new "Да, Хозяин..."
@@ -326,7 +326,7 @@ translate ru strings:
     new "В этом мире не было красоты."
 
     old "Escape...the thought suddenly seemed absurd."
-    new "Бегство... мысль вдруг показалась абсурдной."
+    new "Сбежать? Мысль вдруг показалась абсурдной."
 
     old "Escape to where?"
     new "Бежать куда?"
@@ -539,7 +539,7 @@ translate ru strings:
     new "Прежде чем она успела осмотреться, услышала, как дверь открылась."
 
     old "For a moment, her heart raced, fearing the Demon had followed her in here."
-    new "На миг сердце забилось быстрее — она испугалась, что Демон последовал за ней."
+    new "На миг сердце забилось быстрее — она испугалась, что демон последовал за ней."
 
     old "Instead, she turned to find the girl Dalia standing in the doorway."
     new "Вместо этого она обернулась и увидела Далию в дверях."
@@ -551,7 +551,7 @@ translate ru strings:
     new "Хозяин наконец отпустил тебя!"
 
     old "Sarah wondered how the girl could possibly look so happy in a place this depressed."
-    new "Сара гадала, как можно выглядеть такой счастливой в таком депрессивном месте."
+    new "Сара гадала, как можно выглядеть такой счастливой в таком унылом месте."
 
     old "I...hey, Dalia..."
     new "Я... привет, Далия..."
@@ -725,7 +725,7 @@ translate ru strings:
     new "Не уверена, в замке не хватает... всего."
 
     old "Sarah had seen the state of the castle. More ruin than anything."
-    new "Сара видела состояние замка. Больше руины, чем что-либо."
+    new "Сара видела состояние замка. Скорее руины, чем замок."
 
     old "During the night we can stay here, and during the day we do work around the castle."
     new "Ночью мы остаёмся здесь, а днём работаем по замку."
@@ -887,7 +887,7 @@ translate ru strings:
     new "Не забудет."
 
     old "He'll want to make an example of you. See if you defy him again."
-    new "Захочет показать тебе пример. Посмотреть, ослушаешься ли снова."
+    new "Захочет проучить тебя. Посмотреть, ослушаешься ли снова."
 
     old "Don't give him a reason to punish you again."
     new "Не давай ему повода снова наказывать тебя."
@@ -956,7 +956,7 @@ translate ru strings:
     new "Медленно начало гладить массивный ствол, направив головку к её лицу."
 
     old "I have no need of defiant slaves."
-    new "Мне не нужны непокорные рабы."
+    new "Мне не нужны непокорные рабыни."
 
     old "Sarah nodded submissively."
     new "Сара покорно кивнула."
@@ -1058,7 +1058,7 @@ translate ru strings:
     new "На коленях в этом чужом мире, одетая как шлюха..."
 
     old "Her face, slathered in the Daemon's cum."
-    new "Её лицо, покрытое спермой Демона."
+    new "Её лицо, покрытое спермой демона."
 
     old "You look pretty like this."
     new "Ты красиво выглядишь так."

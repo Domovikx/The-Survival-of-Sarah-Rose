@@ -314,7 +314,7 @@ translate ru strings:
     new "Я не знаю. Может..."
 
     old "Maybe we fucked with a merchant that had more connections than I figured."
-    new "Может, мы связались с торговцем, у которого оказалось больше связей, чем я думал."
+    new "Может, мы нарывались на торговца, у которого оказалось больше связей, чем я думал."
 
     old "Whatever the reason, we're too hot right now."
     new "Какая бы ни была причина, сейчас мы слишком на виду."
@@ -734,7 +734,7 @@ translate ru strings:
     new "Это место не для твоей подружки."
 
     old "She ain't none of that."
-    new "Она никто."
+    new "Она мне никто."
 
     old "She's my...associate."
     new "Она моя... сообщница."
@@ -917,7 +917,7 @@ translate ru strings:
     new "Кто это — я?"
 
     old "Fuck you, you know who I am."
-    new "Да ёбаный ты, знаешь ты, кто я."
+    new "Да твою ж мать, ты знаешь, кто я."
 
     old "A soft laughter."
     new "Тихий смех."

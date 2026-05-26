@@ -155,7 +155,7 @@ translate ru strings:
     new "Я гадала, где ты."
 
     old "Vaelen had called an early meeting, there's a change in plans."
-    new "Ваэлен созвал раннее совещание, в планах изменения."
+    new "Ваэлен созвал раннее совещание, план изменился."
 
     old "Kate looked at her surprised."
     new "Кейт удивлённо посмотрела на неё."
@@ -332,7 +332,7 @@ translate ru strings:
     new "Теперь стены Баграда возвышались ещё более грозно."
 
     old "The only thing they had prepared were siege ladders. They didn't offer much, but with so few guards atop the walls, they hoped they could take the walls before facing any real resistance."
-    new "Единственное, что они приготовили, — это осадные лестницы. Они давали немного, но с таким малым количеством стражи на стенах они надеялись взять их до того, как столкнутся с реальным сопротивлением."
+    new "Единственное, что они приготовили, — это осадные лестницы. Толку от них было немного, но с таким малым количеством стражи на стенах они надеялись взять их до того, как столкнутся с реальным сопротивлением."
 
     old "On her left and her right, Sarah watched the soldiers begin to line up."
     new "Слева и справа Сара видела, как солдаты начинают выстраиваться в линию."
@@ -356,7 +356,7 @@ translate ru strings:
     new "На востоке она уже слышала первые звуки битвы. Мифранское войско вступило в бой с армией Баграда."
 
     old "An odd silence descended on the battle line. The moment right before the battle. Despite some three thousand soldiers, ready to charge, Sarah felt like she could hear a pin drop."
-    new "Странная тишина опустилась на линию боя. Момент перед самым сражением. Несмотря на около трёх тысяч солдат, готовых к атаке, Саре казалось, что она слышала бы, как упадёт булавка."
+    new "Странная тишина опустилась на линию боя. Момент перед самым сражением. Несмотря на почти три тысячи солдат, готовых к атаке, Саре казалось, что она слышала бы, как упадёт булавка."
 
     old "Ahead of her, she saw the air warp and dance from the heat."
     new "Впереди она видела, как воздух дрожит и пляшет от жары."

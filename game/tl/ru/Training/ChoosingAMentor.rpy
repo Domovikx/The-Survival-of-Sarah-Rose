@@ -23,7 +23,7 @@ translate ru strings:
     new "Дома, в Розанне, сражаться было мужским делом."
 
     old "No, she thought to herself."
-    new "Нет, подумала она."
+    new "Нет, подумала она про себя."
 
     old "There is no home to go back to. And all the rules that applied were gone."
     new "Нет дома, в который можно вернуться. И все правила, что действовали раньше, исчезли."
@@ -44,7 +44,7 @@ translate ru strings:
     new "Ей предстояло сделать выбор."
 
     old "She would need to train for the initiation, but just as Kate had said."
-    new "Ей нужно было тренироваться для посвящения, но, как сказала Кейт."
+    new "Ей нужно тренироваться для посвящения, но, как и сказала Кейт."
 
     old "she would need a mentor."
     new "ей нужен наставник."

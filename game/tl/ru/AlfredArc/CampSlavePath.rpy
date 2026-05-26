@@ -17,7 +17,7 @@ translate ru strings:
     new "Из-за подиума Сара слышит, как толпа становится громче. Она чувствует, как кандалы впиваются ей в запястья."
 
     old "One by one, she watches as the other slaves are pulled out onto the stage. Each time, a loud cheer breaks out and the sounds of bidding begin."
-    new "Одного за другим она видит, как других рабов вытаскивают на сцену. Каждый раз раздаётся громкий возглас, и начинаются звуки торгов."
+    new "Одного за другим она видит, как рабов вытаскивают на сцену. Каждый раз раздаётся громкий возглас, и начинаются торги."
 
     old "It’s young, beautiful women and effeminate men who elicit the loudest cheers, and likely for the same reason, Sarah imagines."
     new "Молодые красивые женщины и женоподобные мужчины вызывают самые громкие возгласы, и, вероятно, по одной и той же причине, думает Сара."
@@ -38,7 +38,7 @@ translate ru strings:
     new "Она знает, что площадь полна. Она понимает это по громоподобному вою и ликованию, которые теперь захлёстывают её."
 
     old "With her hands bound together by the manacles, she can neither cover her breasts nor her sex. She wriggles her hands in a vain attempt, but as a result pushes her breasts together."
-    new "Со связанными кандалами руками она не может прикрыть ни грудь, ни лоно. Она дёргает руками в тщетной попытке, но в результате лишь сжимает грудь вместе."
+    new "Со связанными кандалами руками она не может прикрыть ни грудь, ни лоно. Она дёргает руками в тщетной попытке, но в результате лишь сжимает грудь."
 
     old "The crowd only begins howling louder."
     new "Толпа начинает выть только громче."
@@ -56,7 +56,7 @@ translate ru strings:
     new "Он обсуждает что-то с мужчиной рядом с ним, слишком занят, чтобы обратить на неё внимание."
 
     old "The bidding begins, as one voice shouts out across the other. Sarah quickly realizes she is in demand. Her eyes follow the shouting voices, seeing who it is that is trying to buy her."
-    new "Торги начинаются, когда один голос перекрикивает другой. Сара быстро понимает, что она востребована. Её глаза следят за кричащими голосами, высматривая, кто пытается её купить."
+    new "Торги начинаются, когда один голос перекрикивает другой. Сара быстро понимает, что она востребована. Она взглядом следит за выкрикивающими, высматривая, кто пытается её купить."
 
     old "There are different faces in the crowd, but she can know these men by their gazes."
     new "В толпе разные лица, но она может узнать этих мужчин по их взглядам."
@@ -65,7 +65,7 @@ translate ru strings:
     new "У многих из них жестокие глаза. Она почти воображает, что видит их фантазии, разворачивающиеся у них в глазах."
 
     old "With the price rising, men begin to fall off, and the bidding draws down to only about three men. A large, obese man, clad in gold, a merchant of some kind she presumes."
-    new "С ростом цены мужчины начинают отпадать, и торги сводятся всего к троим. Крупный тучный мужчина в золоте, торговец какого-то рода, как она предполагает."
+    new "С ростом цены мужчины начинают выбывать, и торги сводятся всего к троим. Крупный тучный мужчина в золоте, торговец какого-то рода, как она предполагает."
 
     old "The other two are soldiers with the same violent eyes, she wonders if there would be any difference in which one wins her."
     new "Двое других — солдаты с такими же жестокими глазами; она задаётся вопросом, будет ли какая-то разница, кто из них выиграет её."
@@ -137,7 +137,7 @@ translate ru strings:
     new "Она видела, как он улыбнулся ей, и поймала себя на ответной улыбке. Он был таким, каким она его запомнила — добрым, и по сравнению с другими мужчинами, торговавшимися за неё, она была благодарна, что досталась ему."
 
     old "Each tried to say some words to the other, but without a shared language, the effort proved quickly futile and was given up on."
-    new "Каждый попытался сказать что-то другому, но без общего языка попытка быстро оказалась тщетной, и от неё отказались."
+    new "Каждый попытался сказать что-то другому, но без общего языка попытка быстро оказалась тщетной, и они оставили эту затею."
 
     old "Still, up close and more in the light, the man’s true age was more obvious. If she had to guess, he must have neared seventy."
     new "Но вблизи и при свете истинный возраст мужчины стал более очевиден. Если бы ей пришлось гадать, ему было, должно быть, под семьдесят."
@@ -161,16 +161,16 @@ translate ru strings:
     new "Она миновала комнату меньше чем за секунду, но мгновенно разглядела всю сцену."
 
     old "The woman that had been sold only just before her, was sitting on top of a man, the man that had purchased her. With her hands still shackled pushing on his chest, she was driving her hips back and forth, riding the man’s cock."
-    new "Женщина, которую продали прямо перед ней, сидела верхом на мужчине, на том, кто её купил. Всё ещё закованными руками упираясь ему в грудь, она двигала бёдрами взад-вперёд, оседлав член мужчины."
+    new "Женщина, которую продали прямо перед ней, сидела верхом на мужчине, на том, кто её купил. Всё ещё закованными руками упираясь ему в грудь, она двигала бёдрами вперёд-назад, оседлав член мужчины."
 
     old "No sooner did she make out the scene, and it was gone."
     new "Не успела она разглядеть сцену, как та исчезла."
 
     old "More passed by."
-    new "Мимо прошло ещё."
+    new "Промелькнули и другие."
 
     old "Some rooms were closed, revealing only sounds, but some were simply left open, uncaring for privacy, and in most all rooms, Sarah watched the same thing. Slaves, being taken by their new masters."
-    new "Некоторые комнаты были закрыты, оттуда доносились только звуки, но некоторые были просто открыты, не заботясь о приватности, и почти во всех комнатах Сара видела одно и то же. Рабов, которых брали их новые хозяева."
+    new "Некоторые комнаты были закрыты, оттуда доносились только звуки, но некоторые были просто открыты, не заботясь об уединении, и почти во всех комнатах Сара видела одно и то же. Рабов, которых брали их новые хозяева."
 
     old "This was where the new owners tried out their recent purchase."
     new "Здесь новые владельцы опробовали свою недавнюю покупку."
@@ -188,10 +188,10 @@ translate ru strings:
     new "Он затащил её в комнату и захлопнул за ней дверь."
 
     old "No sooner had he done so than that he began to take off his clothes. She watched him drop his pants. He may have been old, but age had not slowed him in this regard, his erect cock was standing at full attention."
-    new "Не успел он это сделать, как начал снимать одежду. Она видела, как он спустил штаны. Он мог быть старым, но возраст не замедлил его в этом отношении — его эрегированный член стоял по стойке смирно."
+    new "Не успел он это сделать, как начал снимать одежду. Она видела, как он спустил штаны. Он мог быть старым, но возраст не замедлил его в этом отношении — его твёрдый член стоял по стойке смирно."
 
     old "She observed his body in full for the first time. Age had not gone unnoticed here either. Deep grooves ran across his leathery skin. Only his muscles made him appear slightly younger than he was."
-    new "Она впервые полностью рассмотрела его тело. Возраст не прошёл незамеченным и здесь. Глубокие морщины покрывали его кожуристую кожу. Только мышцы делали его немного моложе, чем он был."
+    new "Она впервые полностью рассмотрела его тело. Возраст не прошёл незамеченным и здесь. Глубокие морщины покрывали его грубую кожу. Только мышцы делали его немного моложе, чем он был."
 
     old "Seeing him like this made her wonder what he would have looked like in his youth."
     new "Видя его таким, она задумалась, как бы он выглядел в молодости."
@@ -200,7 +200,7 @@ translate ru strings:
     new "Её глаза скользнули ниже, к его ногам."
 
     old "Unknowingly, her mouth fell open."
-    new "Сама того не осознавая, она открыла рот."
+    new "Сама того не осознавая, у неё открылся рот."
 
     old "He had been blessed with a cock whose size made itself undeniable and obvious. Knowing she was staring at it, as all women were prone to do when they first saw it, he placed a hand on Sarah’s head and forced her down onto her knees."
     new "Он был благословлён членом, чей размер был неоспорим и очевиден. Зная, что она пялится на него, как все женщины склонны делать при первой встрече, он положил руку Саре на голову и силой опустил её на колени."
@@ -221,7 +221,7 @@ translate ru strings:
     new "Она попыталась отдёрнуть голову, но обнаружила, что он удерживает её на месте."
 
     old "Embarrassed and struggling, Sarah tried to say something, but found her words turned unintelligible as his cock muffled her voice. She turned her eyes up, and tried begging him with her eyes."
-    new "Смущённая и борющаяся, Сара попыталась что-то сказать, но её слова стали неразборчивыми, так как член заглушал её голос. Она подняла глаза и попыталась умолять его взглядом."
+    new "Смутившись, Сара попыталась что-то сказать, но её слова стали неразборчивыми — член заглушал её голос. Она подняла глаза и попыталась умолять его взглядом."
 
     old "She found him smiling down at her. He enjoyed the sight of Sarah with his cock in her mouth for what felt like quite some time. Sarah felt him patting the back of her head, still keeping her there. He was appreciating his purchase."
     new "Она увидела, что он улыбается ей сверху вниз. Он наслаждался видом Сары с его членом во рту довольно долгое время. Сара чувствовала, как он похлопывал её по затылку, всё ещё удерживая её на месте. Он ценил свою покупку."
@@ -245,7 +245,7 @@ translate ru strings:
     new "Она была благодарна ему за то, что он отпустил её голову, и хотела показать свою благодарность. Она двигала головой вверх и вниз по его члену, скользя языком вдоль ствола, и её слюна капала с его члена на подбородок."
 
     old "She began moving the rest of her body, sticking out her rear end, making every part of her a performance for him. She assumed his grunts were signs of approval."
-    new "Она начала двигать остальным телом, выставляя задницу, превращая каждую часть себя в представление для него. Она предположила, что его ворчание было знаком одобрения."
+    new "Она начала двигать остальным телом, выставляя задницу, превращая каждую часть себя в представление для него. Она решила, что его ворчание означает одобрение."
 
     old "By now she was taking him deeper and further into her mouth than even she had thought possible, sliding the tip of his cock even past the back of her mouth, down into her throat. Yet still, taking all of him inside proved impossible."
     new "К этому моменту она принимала его глубже и дальше в рот, чем даже считала возможным, просовывая головку члена за заднюю стенку рта, в горло. Но всё же вместить его целиком оказалось невозможно."
@@ -266,7 +266,7 @@ translate ru strings:
     new "К этому моменту Сара была так близка к изнеможению, что просто сдала своё тело ему. Он трахал её рот с неистовством, и всё, что она могла — приспосабливаться как можно лучше, позволяя его члену скользить глубоко в рот и горло."
 
     old "Finally, Sarah felt a surge of release flow through her body as she felt his massive member swell up even more, one last time."
-    new "Наконец Сара почувствовала, как волна освобождения прошла через её тело, когда она ощутила, как его массивный член набух ещё сильнее, в последний раз."
+    new "Наконец Сара почувствовала, как волна облегчения прошла через её тело, когда она ощутила, как его массивный член набух ещё сильнее, в последний раз."
 
     old "A torrent of semen sprayed out from the old soldier’s cock."
     new "Поток спермы вырвался из члена старого солдата."
@@ -281,13 +281,13 @@ translate ru strings:
     new "Сара чувствовала себя нелепо, мысленно благодаря его за то, что он разбрызгал своё семя ей в рот, давая ей время проглотить его как следует. Вот что здесь сходило за доброту."
 
     old "As he slowed down, he finally pulled out his cock, causing a plopping sound to echo in the room. He reached down and began stroking himself. As he emptied himself of the last few loads, Sarah felt them land across her face and chest."
-    new "Замедляясь, он наконец вытащил свой член, издав чмокающий звук, эхом разнёсшийся по комнате. Он опустил руку и начал поглаживать себя. Когда он изверг последние капли, Сара почувствовала, как они упали на её лицо и грудь."
+    new "Замедлившись, он наконец вытащил свой член, издав чмокающий звук, эхом разнёсшийся по комнате. Он опустил руку и начал поглаживать себя. Когда он изверг последние капли, Сара почувствовала, как они упали на её лицо и грудь."
 
     old "She wanted to be outraged, but with her throat and mouth full of cum, still swallowing to get through most of it, she could only be stunned that the old soldier still had so much in him that even with the last of his spasms, he covered her face and chest in his seed."
     new "Она хотела возмутиться, но с горлом и ртом, полными спермы, всё ещё глотая, чтобы проглотить большую часть, она могла только поражаться, что в старом солдате было ещё столько, что даже последними спазмами он покрыл её лицо и грудь своим семенем."
 
     old "With a final gulp, Sarah swallowed the last of his cum. Some, she realized, had made it down the corners of her mouth and was on her chin, dripping and adding onto the ejaculate that was covering her breasts."
-    new "Последним глотком Сара проглотила остатки его спермы. Немного, как она поняла, попало в уголки рта и оказалось на подбородке, капая и добавляясь к эякуляту, покрывавшему её грудь."
+    new "Последним глотком Сара проглотила остатки его спермы. Немного, как она поняла, попало в уголки рта и оказалось на подбородке, капая и добавляясь к сперме, покрывавшей её грудь."
 
     old "As if not believing her eyes, she explored her face and breasts with her hand, touching the cum with the tips of her fingers, confirming that it really happened."
     new "Словно не веря своим глазам, она исследовала лицо и грудь рукой, касаясь спермы кончиками пальцев, подтверждая, что это действительно произошло."
@@ -308,19 +308,19 @@ translate ru strings:
     new "Старый солдат лежал на спине на полу. Его член теперь был вялым, но, к удивлению Сары, всё ещё большим. Он лежал, распластавшись на его бедре. Сара заставила себя отвернуться, боясь, что если она будет слишком долго смотреть, он снова оживёт."
 
     old "Unable to communicate, the old soldier snapped his finger at Sarah and curled his finger, urging her to come closer to him. She didn’t have much of a choice. She sat down on her knees besides the old soldier."
-    new "Не имея возможности общаться, старый солдат щёлкнул пальцами и поманил Сару, призывая её подойти ближе. У неё не было особого выбора. Она опустилась на колени рядом со старым солдатом."
+    new "Не в силах объясниться, старый солдат щёлкнул пальцами и поманил Сару, призывая её подойти ближе. У неё не было особого выбора. Она опустилась на колени рядом со старым солдатом."
 
     old "He reached over, grabbing one of her legs and pulling her with her legs split, on top of him, straddling him. Sarah felt her own hot, wet sex pressing against the old soldiers midriff. Why did her body always betray her?"
     new "Он потянулся, схватил её за ногу и притянул её, раздвинув ноги, сверху на себя, оседлав его. Сара почувствовала, как её горячее влажное лоно прижимается к животу старого солдата. Почему её тело всегда предавало её?"
 
     old "For a moment, she watched as the old soldier’s eyes roamed across her body. Sitting on top of him, there was little he could not see or feel of her. And as his property, she also bore little ability to object."
-    new "Мгновение она наблюдала, как глаза старого солдата блуждают по её телу. Сидя сверху на нём, он мог видеть и чувствовать почти всё. И как его собственность, она почти не имела возможности возражать."
+    new "Мгновение она наблюдала, как глаза старого солдата блуждают по её телу. Она сидела на нём сверху, и он мог видеть и чувствовать почти всё. И как его собственность, она почти не имела возможности возражать."
 
     old "She was at his mercy, and so, she sought to solicit that mercy from him."
     new "Она была в его власти, и поэтому стремилась заслужить эту милость."
 
     old "She smiled back at him, reached up with her still bound hands, shaking free her hair, and stuck out her breasts for him to see. She knew men could be manipulated this way, and this man, perhaps even more than most, was susceptible to it."
-    new "Она улыбнулась ему в ответ, потянулась всё ещё связанными руками, встряхнув волосами, и выставила грудь напоказ. Она знала, что мужчин можно так манипулировать, и этот мужчина, возможно, даже больше других, был к этому восприимчив."
+    new "Она улыбнулась ему в ответ, потянулась всё ещё связанными руками, встряхнув волосами, и выставила грудь напоказ. Она знала, что мужчинами можно так манипулировать, и этот мужчина, возможно, даже больше других, был к этому восприимчив."
 
     old "As the old soldier suddenly reached back, he pulled an item from the pockets of one of his discarded pieces of clothing."
     new "Когда старый солдат внезапно потянулся назад, он достал предмет из кармана одной из своих сброшенных вещей."
@@ -350,7 +350,7 @@ translate ru strings:
     new "Вместо того чтобы оттолкнуть его, Сара обнаружила, что наклоняется, приближая лицо к его лицу, и целует его, сидя на нём верхом. Она чувствовала, как её грудь прижимается к его груди, а его руки скользят к её заднице, сжимая её обеими руками."
 
     old "Kissing this old man was not what Sarah had hoped her life would become, but she understood that there was the life she wanted and the life she had. All she could do was make the most of her situation."
-    new "Целовать этого старика — не то, чем Сара надеялась стать её жизнь, но она понимала, что есть жизнь, которую она хотела, и жизнь, которая у неё есть. Всё, что она могла — выжать максимум из своей ситуации."
+    new "Целовать этого старика — не такой жизни Сара себе желала, но она понимала, что есть жизнь, которую она хотела, и жизнь, которая у неё есть. Всё, что она могла — выжать максимум из своей ситуации."
 
     old "Right now, that meant convincing the man that controlled her whole life, to want her."
     new "Сейчас это означало убедить мужчину, контролировавшего всю её жизнь, захотеть её."
@@ -359,7 +359,7 @@ translate ru strings:
     new "Его язык жадно исследовал её рот, и Сара обнаружила, что инстинктивно отвечает ему своим. На мгновение дольше, чем она ожидала, они лихорадочно целовались."
 
     old "Behind her ass, she felt the man’s cock grow again, pushing up to between her cheeks."
-    new "За своей задницей она почувствовала, как член мужчины снова вырос, упёршись между её ягодиц."
+    new "Позади себя она почувствовала, как член мужчины снова вырос, упёршись между её ягодиц."
 
     old "Fuck, how could this old man already be hard again, she thought. He easily had fifty years on her, and instead she was the one who struggled to keep up."
     new "Блядь, как этот старик уже снова мог быть твёрдым, подумала она. Он был старше неё лет на пятьдесят, а вместо этого именно она с трудом поспевала."
@@ -374,7 +374,7 @@ translate ru strings:
     new "Стражник что-то крикнул старому солдату, тот что-то крикнул в ответ. Сара, сбитая с толку, просто продолжала сидеть на коленях старого солдата, его член всё ещё давил между её ягодиц."
 
     old "The best she could do was face away from the guard, so she wouldn’t have to see him seeing her."
-    new "Лучшее, что она могла — отвернуться от стражника, чтобы не видеть, как он видит её."
+    new "Лучшее, что она могла — отвернуться от стражника, чтобы не встречаться с ним взглядом."
 
     old "The yelling stopped and the door slammed shut."
     new "Крики прекратились, и дверь захлопнулась."
@@ -395,7 +395,7 @@ translate ru strings:
     new "Сначала Сара думает, что это тоже доброта, но вскоре понимает — это просто констатация факта. Ему не нужно ничего, кроме ошейника, чтобы контролировать её."
 
     old "If she ran, the elements of the desert would kill her if Hassar’s soldiers wouldn’t. If she stayed in the camp, they would drag her back to him, now that he held her papers."
-    new "Если бы она побежала, условия пустыни убили бы её, если бы не солдаты Хассара. Если бы она осталась в лагере, они притащили бы её обратно к нему, теперь, когда у него были её документы."
+    new "Если бы она побежала, её убили бы либо условия пустыни, либо солдаты Хассара. Если бы она осталась в лагере, они притащили бы её обратно к нему, теперь, когда у него были её документы."
 
     old "It was simply a fact that he had no need of any chain."
     new "Это был просто факт: ему не нужна была никакая цепь."
@@ -455,7 +455,7 @@ translate ru strings:
     new "Она поднимает взгляд на аукциониста, надеясь понять, что произошло, но он не обращает на неё внимания."
 
     old "Dragging her off stage, he shouts so instructions towards some guards nearby, and they grab her in turn."
-    new "Стаскивая её со сцены, он выкрикивает инструкции стражникам поблизости, и те хватают её."
+    new "Стаскивая её со сцены, он выкрикивает указания стражникам поблизости, и те хватают её."
 
     old "They drag her out of the auction house, through the busy streets, and down alleys."
     new "Они тащат её из аукционного дома по оживлённым улицам и переулкам."
@@ -476,7 +476,7 @@ translate ru strings:
     new "Грубо швыряя её, Сара едва успевает инстинктивно сгруппироваться."
 
     old "For a moment, unused to the darkness, Sarah feels almost blind, but slowly her eyes settle."
-    new "Мгновение, непривыкшая к темноте, Сара чувствует себя почти слепой, но постепенно глаза привыкают."
+    new "Мгновение, не привыкшая к темноте, Сара чувствует себя почти слепой, но постепенно глаза привыкают."
 
     old "The guards leave."
     new "Стражники уходят."
@@ -668,16 +668,16 @@ translate ru strings:
     new "Пока он кричит, соплеменник поднимает отрезанный орган для всеобщего обозрения."
 
     old "Having made his point, he casually tosses the former leader's manhood into the campfire."
-    new "Доказав свою точку зрения, он небрежно бросает мужское достоинство бывшего главаря в костёр."
+    new "Продемонстрировав это, он небрежно бросает мужское достоинство бывшего главаря в костёр."
 
     old "It crackles like pork to the grill."
-    new "Оно шипит, как свинина на гриле."
+    new "Оно шипит, как сало на углях."
 
     old "The other members of the gang now understanding their fate, struggle, scream and beg."
     new "Другие члены шайки, теперь понимая свою участь, сопротивляются, кричат и умоляют."
 
     old "The blade comes for them all the same."
-    new "Лезвие приходит за ними всё равно."
+    new "Лезвие настигает их всех."
 
     old "In less than a few minutes, all the men of the gang have been unmade."
     new "Меньше чем за несколько минут все члены шайки были искалечены."
@@ -692,7 +692,7 @@ translate ru strings:
     new "Сара поняла, что вместе с удачей изменились и оценки других рабов."
 
     old "A justice of some kind, the others would whisper among themselves."
-    new "Какое-то подобие справедливости, шептались другие между собой."
+    new "Какое-то подобие справедливости, перешёптывались другие между собой."
 
     old "But in truth, the tribesmen wanted to guard their wealth."
     new "Но на самом деле соплеменники хотели защитить своё имущество."
@@ -710,7 +710,7 @@ translate ru strings:
     new "Если бы это не было так трудоёмко, они оскопили бы всех мужчин Розанны."
 
     old "But they understood that this was not needed. The message had been send, and all understood."
-    new "Но они поняли, что это не нужно. Послание было отправлено, и все поняли."
+    new "Но они поняли, что это не нужно. Послание было передано, и все поняли."
 
     old "The men of Rosanna lowered their heads and muted all notions of rebellion, so deep struck the fear of the punishment."
     new "Мужчины Розанны опустили головы и заглушили все мысли о бунте — так глубоко поразил их страх наказания."
@@ -833,7 +833,7 @@ translate ru strings:
     new "Но с соплеменником, несмотря ни на что, можно было иметь жизнь."
 
     old "Away from the slave tent, in his house. Bear him a child and you would almost be of equal standing to any other woman of their tribe."
-    new "Подальше от рабского шатра, в его доме. Роди ему ребёнка — и ты будешь почти наравне с любой другой женщиной их племени."
+    new "Подальше от рабского шатра, в его доме. Роди ему ребёнка — и ты будешь почти на равных с любой другой женщиной их племени."
 
     old "Sarah watched as the girls began to become ever more open in their ambitions."
     new "Сара наблюдала, как девушки становились всё более открытыми в своих амбициях."
@@ -902,7 +902,7 @@ translate ru strings:
     new "Раньше её дни были размытыми, проходили мимо так, что она едва могла вспомнить, что произошло."
 
     old "Now, her mind had become present again, and she found it often wandering towards the tribesman soldier."
-    new "Теперь её разум снова стал присутствующим, и она часто ловила себя на мыслях о солдате из племени."
+    new "Теперь её разум снова прояснился, и она часто ловила себя на мыслях о солдате из племени."
 
     old "When he would come to her, her heart ran fast in her chests. When he failed to show, she felt herself nearing to tears."
     new "Когда он приходил к ней, её сердце билось быстрее в груди. Когда он не появлялся, она чувствовала, что близка к слезам."
@@ -965,7 +965,7 @@ translate ru strings:
     new "И вместе с ним она оставит все ужасные воспоминания об этом месте и его людях."
 
     old "She ceased to be Rosannan."
-    new "Она перестала быть розаннкой."
+    new "Она перестала быть розанкой."
 
     old "His home was humble, but compared to where she had been before, it was like a palace."
     new "Его дом был скромным, но по сравнению с тем, где она была раньше, он казался дворцом."
@@ -974,7 +974,7 @@ translate ru strings:
     new "Сара как следует вымылась и искупалась впервые за долгое время, без подглядывающих глаз других рабов."
 
     old "The return of privacy was instant and unmistakable. Something that had felt so normal, now appeared to be so valuable."
-    new "Возвращение приватности было мгновенным и неоспоримым. Что-то, казавшееся таким нормальным, теперь казалось таким ценным."
+    new "Возвращение уединения было мгновенным и неоспоримым. Что-то, казавшееся таким нормальным, теперь казалось таким ценным."
 
     old "When she exited the bath, she found to her own surprise a set of clothes in the other room."
     new "Когда она вышла из ванны, к собственному удивлению она обнаружила комплект одежды в другой комнате."
@@ -1061,7 +1061,7 @@ translate ru strings:
     new "Рынки, больше не чуждые ей места, теперь казались захватывающими и живыми. Она торговалась с продавцами, наслаждаясь этой игрой."
 
     old "With the privacy of her own home, the dignity of clothes and the connection of language, Sarah slowly began to feel at home in this new place."
-    new "С приватностью собственного дома, достоинством одежды и связью через язык Сара медленно начала чувствовать себя как дома в этом новом месте."
+    new "С уединением собственного дома, достоинством одежды и связью через язык Сара медленно начала чувствовать себя как дома в этом новом месте."
 
     old "They had practiced a degree of restraint, her husband choosing to finish outside of her most evenings."
     new "Они практиковали некоторую сдержанность — муж предпочитал кончать вне её в большинстве вечеров."
@@ -1109,7 +1109,7 @@ translate ru strings:
     new "Когда она смотрела на себя в зеркало, ей было грустно от того, во что превратилось её упругое тело."
 
     old "And yet, when she looked at herself through the eyes of her husband, she swore that she could nearly see a halo about herself."
-    new "И всё же, когда она смотрела на себя глазами своего мужа, она клялась, что почти могла видеть ореол вокруг себя."
+    new "И всё же, когда она смотрела на себя глазами своего мужа, она клялась, что почти могла видеть сияние вокруг себя."
 
     old "Over time, she began to see herself as her husband did, and allowed herself to feel that same happiness."
     new "Со временем она начала видеть себя так, как видел её муж, и позволила себе чувствовать то же самое счастье."

@@ -86,7 +86,7 @@ translate ru strings:
     new "Старше, конечно, но Сара легко узнавала черты подруги и то, как они изменились с возрастом."
 
     old "You're one to talk...just look at you. I remember when you were as flat-chested as a boy."
-    new "Кто бы говорил... ты на себя посмотри. Помню, когда ты была плоской как доска."
+    new "Кто бы говорил... ты на себя посмотри. Помню, когда ты была плоской, как доска."
 
     old "Sarah felt herself turn red."
     new "Сара почувствовала, как краснеет."
@@ -134,10 +134,10 @@ translate ru strings:
     new "Она замолкает на мгновение."
 
     old "When we were growing up, we were free to do as we pleased, but as we grew older, more and more was expected of us. You noticed it too."
-    new "Когда мы росли, мы были свободны делать что хотим, но с возрастом от нас всё больше требовали. Ты тоже это замечала."
+    new "Когда мы росли, мы были свободны делать что хотели, но с возрастом от нас всё больше требовали. Ты тоже это замечала."
 
     old "For you that meant taking classes, riding horses, learning how to be a princess."
-    new "Для тебя это значило уроки, верховая езда, обучение быть принцессой."
+    new "Для тебя это значило уроки, верховую езду, уроки быть принцессой."
 
     old "For me, it meant that my parents began to expect me to start working. Preparing me for what I was going to be. A servant in the castle..."
     new "Для меня — что родители начали ждать, что я начну работать. Готовили меня к тому, кем я должна была стать. Служанкой в замке..."
@@ -155,7 +155,7 @@ translate ru strings:
     new "Сара заметила, как Кейт задержалась на слове «жена». Будто в этом был какой-то особый смысл."
 
     old "My family was preparing me for a life I never wanted. Being a poor kid, that I could handle, but the idea of becoming like my parents. Slaving away in some castle, for someone else, I didn't want to even think about it."
-    new "Моя семья готовила меня к жизни, которой я никогда не хотела. Быть бедной я могла вынести, но мысль стать как мои родители — работать как рабыня в каком-то замке ради кого-то другого, я не хотела даже думать об этом."
+    new "Моя семья готовила меня к жизни, которой я никогда не хотела. Быть бедной я могла вынести, но мысль стать, как мои родители, — работать как рабыня в каком-то замке ради кого-то другого, я не хотела даже думать об этом."
 
     old "A lot happened at home, and I never let you see any of that. I didn't think you would understand."
     new "Дома много чего происходило, и я никогда не позволяла тебе это видеть. Я не думала, что ты поймёшь."
@@ -287,10 +287,10 @@ translate ru strings:
     new "Кейт подошла ближе и взяла Сару за руки."
 
     old "I'll admit Sarah, it's not fate. When the news of your father's death came to me, I knew that I had to return, as sure as I once knew I had to leave this place."
-    new "Признаюсь, Сара, это не судьба. Когда до меня дошла весть о смерти твоего отца, я знала, что должна вернуться, так же верно, как когда-то знала, что должна уйти."
+    new "Признаюсь, Сара, это не судьба. Когда до меня дошла весть о смерти твоего отца, я знала, что должна вернуться, так же верно, как когда-то знала, что должна была уйти."
 
     old "I just had this image in my mind, of you, all alone in this lifeless castle, and it wouldn't stop tormenting me until I had set out on the road, back to you."
-    new "Я просто представляла тебя, совсем одну в этом безжизненном замке, и это не переставало мучить меня, пока я не отправилась в путь, назад к тебе."
+    new "Я просто представляла тебя, совсем одну в этом безжизненном замке, и это не переставало мучить меня, пока я не отправилась в путь, обратно к тебе."
 
     old "Sarah squeezed her friend's hands."
     new "Сара сжала руки подруги."

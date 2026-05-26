@@ -101,7 +101,7 @@ translate ru strings:
     new "Я уже некоторое время дома."
 
     old "Yeah...but that's where all your memories took place. Just about everything before you left..."
-    new "Да... но ведь там произошли все твои воспоминания. Почти всё до того, как ты ушла..."
+    new "Да... но ведь с этим местом связаны все твои воспоминания. Почти всё до того, как ты ушла..."
 
     old "Left."
     new "Ушла."
@@ -173,7 +173,7 @@ translate ru strings:
     new "Кейт вытерла слёзы и кивнула."
 
     old "Sarah pointed towards the city in the near distance."
-    new "Сара указала на город вблизи."
+    new "Сара указала на город неподалёку."
 
     old "That's home. Yeah, for me that's what I think of when I remembered Rosanna all those years."
     new "Это дом. Да, для меня это то, о чём я думала, вспоминая Розанну все эти годы."
@@ -320,7 +320,7 @@ translate ru strings:
     new "Ты сильна и сейчас."
 
     old "She realized she still lived by his praise, despite all the years."
-    new "Она поняла, что всё ещё живёт его похвалой, несмотря на все годы."
+    new "Она поняла, что всё ещё дорожит его похвалой, несмотря на все годы."
 
     old "He suddenly went quiet, shifting about in an unusual way."
     new "Он внезапно замолчал, заёрзав необычным образом."
@@ -686,7 +686,7 @@ translate ru strings:
     new "И если бы она умерла, её армия рассыпалась бы вокруг неё."
 
     old "Rally around me!"
-    new "Сомкнуться вокруг меня!"
+    new "Сплотиться вокруг меня!"
 
     old "Sarah cried out the words to her closest guards."
     new "Сара выкрикнула эти слова своим ближайшим охранникам."
@@ -833,7 +833,7 @@ translate ru strings:
     new "Но вокруг она натыкалась на другие тела, её ноги увязали в углубляющейся грязи."
 
     old "In the midsts of all the noise and chaos, the Tribesmen advanced again."
-    new "Среди всего шума и хаоса Племенник снова наступил."
+    new "Среди всего шума и хаоса Племенники снова наступали."
 
     old "This time, his blade swung closer."
     new "На этот раз его клинок взметнулся ближе."
@@ -1112,7 +1112,7 @@ translate ru strings:
     new "Они пытаются прорубить путь прямо к тебе."
 
     old "You have to retreat into the back lines!"
-    new "Ты должна отступить в задние ряды!"
+    new "Ты должна отступить в тыл!"
 
     old "The Tribesmen continued to move towards them."
     new "Племенники продолжали двигаться к ним."
@@ -1145,7 +1145,7 @@ translate ru strings:
     new "Но Кейт выжила, а он — нет. Это тоже была война."
 
     old "One of the other Tribesmen leapt forward, thrusting his blade."
-    new "Один из других Племенников прыгнул вперёд, выбросив клинок."
+    new "Ещё один Племенник прыгнул вперёд, выбросив клинок."
 
     old "Sarah spun, dodging the blade by only inches."
     new "Сара крутанулась, уклоняясь от клинка в дюймах."
@@ -1334,7 +1334,7 @@ translate ru strings:
     new "Как она и думала, армия Племенников совершила бешеный бросок к её позиции."
 
     old "But with her now safely out of reach, their charge had come to a halt."
-    new "Но теперь, когда она была в безопасности вне досягаемости, их атака остановилась."
+    new "Но теперь, когда она была вне досягаемости врага, их атака остановилась."
 
     old "You!"
     new "Ты!"
@@ -1655,7 +1655,7 @@ translate ru strings:
     new "Её собственные силы были ранены, но по большей части её армия всё ещё была вполне способна продолжать бой."
 
     old "It was the Tribesmen that had ran out of steam."
-    new "Это у Племенников кончился пар."
+    new "Это Племенники выдохлись."
 
     old "The central road of the city that led up to the Castle was the most direct route of attack."
     new "Центральная дорога города, ведущая к Замку, была самым прямым путём атаки."
@@ -2273,7 +2273,7 @@ translate ru strings:
     new "Сара почувствовала, как она коснулась её лица."
 
     old "His skin was like coarse leather, yet despite all his strength, his touch was tender."
-    new "Его кожа была как грубая кожа, но, несмотря на всю его силу, его прикосновение было нежным."
+    new "Его кожа была грубой, как выделанная кожа, но, несмотря на всю его силу, прикосновение было нежным."
 
     old "He brushed back some of her hair."
     new "Он отвёл назад несколько её прядей."
@@ -2621,7 +2621,7 @@ translate ru strings:
     new "Я тогда слишком боялась сказать тебе..."
 
     old "But you made me so wet."
-    new "Но ты сделал меня такой влажной."
+    new "Но ты сделал меня такой мокрой."
 
     old "Sarah parted her lips and leaned forward, taking him into her mouth."
     new "Сара разомкнула губы и наклонилась вперёд, принимая его в рот."
@@ -2642,7 +2642,7 @@ translate ru strings:
     new "Достаточно легко — у него были лишние дюймы."
 
     old "Her other hand, she pressed between his legs, feeling the weight of his balls in her hand."
-    new "Другой рукой она сжала между его ног, чувствуя вес его яичек в ладони."
+    new "Другой рукой она провела между его ног, чувствуя вес его яичек в ладони."
 
     old "More approving grunts."
     new "Ещё одобрительное ворчание."
@@ -2684,7 +2684,7 @@ translate ru strings:
     new "Сара громко вскрикнула, почувствовав, как он вошёл в неё."
 
     old "Already more than wet for him, she managed to fit him."
-    new "Уже более чем влажная для него, она смогла вместить его."
+    new "Уже более чем мокрая для него, она смогла вместить его."
 
     old "Between her legs and deep inside, she felt every inch of him, pressing apart her insides, pushing up against her womb."
     new "Между ног и глубоко внутри она чувствовала каждый его дюйм, раздвигающий её внутренности, упирающийся в её матку."

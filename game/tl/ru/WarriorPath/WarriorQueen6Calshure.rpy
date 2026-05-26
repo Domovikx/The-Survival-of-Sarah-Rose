@@ -26,7 +26,7 @@ translate ru strings:
     new "Снег замедлял их, но не так сильно, как она опасалась."
 
     old "Many of the soldiers in her army were Rosannan natives, familiar with the hard winters."
-    new "Многие солдаты в её армии были уроженцами Росанны, привыкшими к суровым зимам."
+    new "Многие солдаты в её армии были уроженцами Розанны, привыкшими к суровым зимам."
 
     old "As they marched, they soon found themselves coming upon the crossroad."
     new "Маршируя, они вскоре оказались на распутье."
@@ -44,7 +44,7 @@ translate ru strings:
     new "Но главная дорога была хорошо содержана, и даже после сильных снегопадов последних дней армия почти не встречала препятствий."
 
     old "The wagons, heavy with cargo and equipment, rolled along on the solid stone."
-    new "Повозки, тяжело гружённые припасами и снаряжением, катились по твёрдому камню."
+    new "Повозки, тяжело нагруженные припасами и снаряжением, катились по твёрдому камню."
 
     old "All around her, Sarah found her men in good spirits, laughing among themselves, at times even breaking out into song."
     new "Вокруг неё солдаты были в приподнятом настроении, смеялись, а порой даже запевали песни."
@@ -59,13 +59,13 @@ translate ru strings:
     new "Пока армия уверенно продвигалась в первый день, Сара не могла отделаться от этой мысли."
 
     old "Her army, for the most part, was made up out of Rosannan natives."
-    new "Её армия по большей части состояла из уроженцев Росанны."
+    new "Её армия по большей части состояла из уроженцев Розанны."
 
     old "Then there were the Legions that Gilead had offered."
     new "Были также легионы, предложенные Гилеадом."
 
     old "They marched in stoic unison. Perfectly trained. Perfectly armed."
-    new "Они маршировали с бесстрастным единством. Идеально обученные. Идеально вооружённые."
+    new "Они шагали с бесстрастным единством. Идеально обученные. Идеально вооружённые."
 
     old "Almost the ideal image of what an army should be."
     new "Почти идеальный образ того, какой должна быть армия."
@@ -80,7 +80,7 @@ translate ru strings:
     new "Больше всего она боялась за свой собственный народ."
 
     old "The Rosannan people were mostly farmers, dreaming of living easy lives with good harvests."
-    new "Народ Росанны в основном был фермерами, мечтавшими о лёгкой жизни и хороших урожаях."
+    new "Народ Розанны в основном был фермерами, мечтавшими о лёгкой жизни и хороших урожаях."
 
     old "They were not born into war."
     new "Они не были рождены для войны."
@@ -98,7 +98,7 @@ translate ru strings:
     new "Они были не только опытны, но и культурно отличались."
 
     old "Rosannans feared death, but the Tribesmen almost yearned for it."
-    new "Росаннцы боялись смерти, но Племенники почти жаждали её."
+    new "Розаннцы боялись смерти, но Племенники почти жаждали её."
 
     old "The greatest pride for a Tribesmen was a good death, and so they plunged themselves into battle with no fear."
     new "Величайшей гордостью для Племенника была достойная смерть, и потому они бросались в бой без страха."
@@ -206,7 +206,7 @@ translate ru strings:
     new "Нет, только что он выедет на закате, чтобы встретиться с тобой в открытом поле за Калшуром."
 
     old "And that if you wanted to meet, to be there."
-    new "И что если ты хочешь встретиться, быть там."
+    new "И что если ты хочешь встретиться, чтобы быть там."
 
     old "Thank you, that's all. Good work."
     new "Спасибо, это всё. Хорошая работа."
@@ -770,7 +770,7 @@ translate ru strings:
     new "Невозможно."
 
     old "A Rosannan man would never..."
-    new "Росаннский мужчина никогда бы не..."
+    new "Розаннский мужчина никогда бы не..."
 
     old "What? Suck cock? Be taken like a woman?"
     new "Что? Сосать член? Быть взятым, как женщина?"
@@ -806,7 +806,7 @@ translate ru strings:
     new "Старый Племенник нахмурился, глядя на неё."
 
     old "Are the...Tribes open to a negotiation? To return them to Rosanna?"
-    new "Готовы ли... Племена к переговорам? Чтобы вернуть их в Росанну?"
+    new "Готовы ли... Племена к переговорам? Чтобы вернуть их в Розанну?"
 
     old "The Tribesman laughed and shook his head."
     new "Племенник рассмеялся и покачал головой."
@@ -920,7 +920,7 @@ translate ru strings:
     new "Начнём с разделения пищи. Того, что объединяет все народы мира."
 
     old "Passed around the table, various foods both native to Rosanna, and other strange, Tribal."
-    new "По столу передавали разные блюда — как родные для Росанны, так и странные, Племенные."
+    new "По столу передавали разные блюда — как родные для Розанны, так и странные, Племенные."
 
     old "Regardless, she ate all of it, doing her best to fit in and give no offense."
     new "Тем не менее она ела всё, стараясь вписаться и не обидеть никого."
@@ -1226,7 +1226,7 @@ translate ru strings:
     new "Он был стар, но жизнь воина пошла ему на пользу."
 
     old "His leathery skin was wound tight around his muscular frame."
-    new "Его кожистая кожа туго обтягивала мускулистый стан."
+    new "Его обветренная кожа туго обтягивала мускулистый стан."
 
     old "Perhaps, in his youth, he would have been stunningly handsome."
     new "Возможно, в молодости он был сногсшибательно красив."
@@ -1610,7 +1610,7 @@ translate ru strings:
     new "Это была история, которую каждый из них хотел бы рассказать."
 
     old "To return to the desert and speak of how they broke the Rose Knight, made a woman out of Rosanna's ruler."
-    new "Вернуться в пустыню и рассказывать, как сломали Розового Рыцаря, сделали женщину из правительницы Росанны."
+    new "Вернуться в пустыню и рассказывать, как сломали Розового Рыцаря, сделали женщину из правительницы Розанны."
 
     old "Mindlessly, Sarah continued her surrender."
     new "Бездумно Сара продолжала свою сдачу."

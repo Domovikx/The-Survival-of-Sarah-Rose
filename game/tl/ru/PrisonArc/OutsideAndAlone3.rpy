@@ -17,7 +17,7 @@ translate ru strings:
     new "Он на мгновение замешкался, и к тому времени, когда он оборачивается, девушка уже проскользнула у него под рукой."
 
     old "Sarah drives her elbow into the man's rib cage, causing him to slip and fall back."
-    new "Сара вонзает локоть в рёбра мужчины, заставляя его пошатнуться и упасть назад."
+    new "Сара вонзает локоть в рёбра мужчины, заставляя его пошатнуться и упасть навзничь."
 
     old "You bitch! Get back here!"
     new "Ах ты сука! Вернись сейчас же!"
@@ -47,13 +47,13 @@ translate ru strings:
     new "Она пережила один день в Летреме."
 
     old "Sarah pushes herself upright, leaning her back against the bench's backrest."
-    new "Сара выпрямляется, прислонившись спиной к спинке скамейки."
+    new "Сара выпрямляется, прислонившись к спинке скамейки."
 
     old "Around her she can see the early signs of the harbor waking up. Barely sober sailors stumbling towards the docked ships. Carts drawn by longshoremen, loading and unloading the cargo."
     new "Вокруг она видит первые признаки пробуждения порта. Едва трезвые моряки, ковыляющие к пришвартованным кораблям. Телеги, которые тянут докеры, грузя и разгружая товары."
 
     old "Sarah tried to let the early morning sun wake her up."
-    new "Сара попыталась позволить утреннему солнцу разбудить её."
+    new "Сара попыталась позволить утреннему солнцу разбудить себя."
 
     old "She had been out on her own in this city for a single day and she had nearly been attacked."
     new "Она была одна в этом городе всего один день и едва не подверглась нападению."
@@ -71,7 +71,7 @@ translate ru strings:
     new "Но будет ли ей так же везти в следующий раз? Сара не была уверена."
 
     old "Lethram was an unkind place to most, but it was certainly unkind to women who had no money or other means to protect themselves."
-    new "Летрем был негостеприимным местом для большинства, но уж точно для женщин, у которых не было денег или иных средств защитить себя."
+    new "Летрем был негостеприимным местом для большинства, но уж точно опасным для женщин, у которых не было денег или иных средств защитить себя."
 
     old "And yet, Sarah's life had not prepared her for this. She had no idea how to make money."
     new "И всё же жизнь Сары не подготовила её к этому. Она понятия не имела, как зарабатывать деньги."
@@ -83,7 +83,7 @@ translate ru strings:
     new "Сара чуть не выкрикнула это слово, приказывая себе сохранять контроль."
 
     old "Don't cry. Your life is in the balance, one mistake and who knew what would happen. That vile criminal could find her, or who knew what worse this city had in store."
-    new "Не плачь. Твоя жизнь на волоске, одна ошибка — и кто знает, что случится. Этот гнусный преступник может найти её, или кто знает, что ещё худшее приготовил этот город."
+    new "Не плачь. Твоя жизнь на волоске, одна ошибка — и кто знает, что случится. Этот гнусный преступник может найти её, или кто знает, какие ещё ужасы таит этот город."
 
     old "Sarah stood up and scanned her suroundings. It was time to make a decision."
     new "Сара встала и оглядела окрестности. Пришло время принять решение."
@@ -98,7 +98,7 @@ translate ru strings:
     new "Но она также знала, что не найдёт ответа, сидя здесь."
 
     old "Surely, somewhere in this cursed city, there would be a single kind hearted person that might take her in."
-    new "Неужели в этом проклятом городе не найдётся хотя бы одного добросердечного человека, который мог бы приютить её?"
+    new "Наверняка в этом проклятом городе найдётся хотя бы один добросердечный человек, который мог бы приютить её."
 
     old "Having made up her mind, Sarah stood up and began to walk away from the harbor district."
     new "Приняв решение, Сара встала и направилась прочь из портового района."
@@ -119,7 +119,7 @@ translate ru strings:
     new "Покинуть Летрем"
 
     old "She wasn't safe anywhere in this forsaken city. She would have to leave."
-    new "Она не была в безопасности нигде в этом забытом городе. Придётся уйти."
+    new "Она не была в безопасности нигде в этом забытом богом городе. Придётся уйти."
 
     old "She was close to the main road that ran through Lethram center. From there, the road ran all the way up the hills where the city gates opened out to the hinterlands."
     new "Она была рядом с главной дорогой, что проходила через центр Летрема. Оттуда дорога вела вверх по холмам, где городские ворота открывались в глубинку."

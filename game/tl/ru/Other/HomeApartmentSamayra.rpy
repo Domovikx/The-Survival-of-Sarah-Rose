@@ -329,7 +329,7 @@ translate ru strings:
     new "Их тела сплелись, Сара прижимала ногу между ног Самайры, раздвинув свои."
 
     old "Grinding, ever faster, chasing and receiving the pulsing waves of pleasure."
-    new "Трение, всё быстрее, в погоне за пульсирующими волнами наслаждения и принимая их."
+    new "Трутся всё быстрее, ловя и принимая пульсирующие волны наслаждения."
 
     old "Her voice, still soft, growing more pitched."
     new "Её голос, всё ещё мягкий, становился выше."

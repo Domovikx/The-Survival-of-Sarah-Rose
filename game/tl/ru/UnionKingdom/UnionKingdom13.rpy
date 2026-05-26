@@ -32,7 +32,7 @@ translate ru strings:
     new "Сара оглядела комнату и увидела море лиц."
 
     old "Even in Rosanna, she had struggled to know every name of every noble; but here it was impossible to even attempt."
-    new "Даже в Розанне она с трудом знала каждое имя каждого дворянина; но здесь было невозможно даже пытаться."
+    new "Даже в Розанне она с трудом знала каждое имя каждого дворянина; но здесь об этом не стоило и думать."
 
     old "She would soon rule so many..."
     new "Скоро она будет править таким множеством..."
@@ -41,13 +41,13 @@ translate ru strings:
     new "Власть могла бы соблазнить многих других, но для Сары она лишь камнем лежала на плечах."
 
     old "Her every movement felt heavy and slow. She was careful with her every utterance and even policed her own thoughts."
-    new "Каждое её движение казалось тяжёлым и медленным. Она была осторожна с каждым словом и даже контролировала собственные мысли."
+    new "Каждое её движение казалось тяжёлым и медленным. Она была осторожна с каждым словом и даже следила за собственными мыслями."
 
     old "To be burdened with a power like this...she had never set out to seek it, but it had fallen on her all the same."
     new "Быть обременённой такой властью... она никогда не стремилась к ней, но та всё равно свалилась на неё."
 
     old "Yet there was nothing to enjoy."
-    new "И всё же не было ничего, чем можно было бы наслаждаться."
+    new "И всё же радоваться было нечему."
 
     old "The earliest reports of the Mythran invasion had solidified."
     new "Первые сообщения о вторжении митранов подтвердились."
@@ -65,7 +65,7 @@ translate ru strings:
     new "Она была лицом их Союза. Если она дрогнет, дрогнут и все они."
 
     old "A loud bell rang out and the murmurs in the room were brought to silence."
-    new "Громко прозвенел колокол, и шёпот в комнате стих."
+    new "Громко прозвенел колокол, и гул в зале стих."
 
     old "So quiet, Sarah imagined she could hear her own heartbeat."
     new "Так тихо, что Саре казалось, она слышит собственное сердцебиение."
@@ -83,7 +83,7 @@ translate ru strings:
     new "Сара позволила взгляду блуждать по комнате."
 
     old "All these faces. These people that now looked to her for leadership."
-    new "Все эти лица. Эти люди, которые теперь смотрели на неё в поисках руководства."
+    new "Все эти лица. Эти люди, которые теперь ждали от неё руководства."
 
     old "Sarah straightend her back, put out her shoulders and tilted her head."
     new "Сара выпрямила спину, расправила плечи и подняла голову."
@@ -92,13 +92,13 @@ translate ru strings:
     new "Она сделала последний вдох. И затем заговорила."
 
     old "Before me is gathered a host unlike any other. Representing the unified strength of our Union, not seen in centuries."
-    new "Передо мной предстало собрание, не похожее ни на какое другое. Представляющее единую силу нашего Союза, невиданную столетиями."
+    new "Передо мной предстало собрание, не похожее ни на какое другое и представляющее единую силу нашего Союза, невиданную столетиями."
 
     old "From you, to me, will flow the authority to speak with a single voice for all of us."
     new "От вас ко мне перейдёт полномочие говорить единым голосом за всех нас."
 
     old "Our Union faces an external threat the likes of which we have not seen in the lifetime of any present here."
-    new "Наш Союз сталкивается с внешней угрозой, подобной которой не видели за всю жизнь никого из присутствующих."
+    new "Наш Союз сталкивается с внешней угрозой, подобной которой никто из присутствующих не видел за всю свою жизнь."
 
     old "And it is these historical times that call on us to make historic changes."
     new "И именно эти исторические времена призывают нас к историческим переменам."

@@ -104,7 +104,7 @@ translate ru strings:
     new "Сара смотрела, как Томас на этот раз ударил кулаком по столу."
 
     old "I don't need a spy master who can tell me all the things he doesn't know. I need you to tell me what I need to know. We don't even know for certain where this army is."
-    new "Мне не нужен шпионмастер, который рассказывает мне всё, чего он не знает. Мне нужно, чтобы ты говорил мне то, что нужно знать. Мы даже не знаем наверняка, где эта армия."
+    new "Мне не нужен мастер шпионов, который рассказывает мне всё, чего он не знает. Мне нужно, чтобы ты говорил мне то, что нужно знать. Мы даже не знаем наверняка, где эта армия."
 
     old "Sarah decided to interject."
     new "Сара решила вмешаться."
@@ -122,7 +122,7 @@ translate ru strings:
     new "Если быть точным, её основная цель — поддерживать порядок среди людей восточного округа, не допускать восстаний."
 
     old "To that end, they're well provisioned and larger than otherwise necessary. And yet..."
-    new "Для этого они хорошо снабжены и больше, чем было бы необходимо в противном случае. И всё же..."
+    new "Для этого они хорошо снабжены и крупнее, чем нужно. И всё же..."
 
     old "Yes?"
     new "Да?"
@@ -185,7 +185,7 @@ translate ru strings:
     new "Их оставят на заклание!"
 
     old "Perhaps, but I believe that Hassar will move on the capital. He's a tribesman, he doesn't want to fight the kinds of wars that we fight."
-    new "Возможно, но я верю, что Хассар пойдёт на столицу. Он из племени, он не хочет вести войны, которые ведём мы."
+    new "Возможно, но я верю, что Хассар пойдёт на столицу. Он кочевник, он не хочет вести войны, которые ведём мы."
 
     old "He is moving so fast, his logistics are probably weak. He will want to finish this war as fast as he can, which means going for the capital, decapitating the country."
     new "Он движется так быстро, что его снабжение, вероятно, слабо. Он захочет закончить войну как можно быстрее, а значит, ударить по столице, обезглавив страну."

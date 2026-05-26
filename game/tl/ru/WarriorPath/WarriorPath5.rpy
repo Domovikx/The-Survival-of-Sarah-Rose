@@ -83,7 +83,7 @@ translate ru strings:
     new "Не лучше ли взять целый отряд солдат?"
 
     old "I mean, breaking it open alone is one thing, but carrying out all the valuables..."
-    new "Я имею в виду, взломать его в одиночку — это одно, но выносить все ценности..."
+    new "Взломать его в одиночку — это одно, но выносить все ценности..."
 
     old "Not exactly a job for two people."
     new "Не совсем работа для двоих."
@@ -464,7 +464,7 @@ translate ru strings:
     new "Не демон. Просто скромный дух."
 
     old "And you would be surprised what people in this world forget sometimes."
-    new "И ты удивилась бы, что люди в этом мире иногда забывают."
+    new "А ты бы удивилась, что порой люди в этом мире забывают."
 
     old "Sarah stomped her metal boot on the ground and raised her sword again."
     new "Сара топнула металлическим сапогом по земле и снова подняла меч."
@@ -485,7 +485,7 @@ translate ru strings:
     new "Я пришла сюда не для общения с нечестивыми тварями."
 
     old "Did you not come here seeking a stone of crimson?"
-    new "Разве ты пришла сюда не в поисках багрового камня?"
+    new "Ты ведь пришла сюда за багровым камнем?"
 
     old "The creature's nature unsettled Sarah, but not nearly as much as how it appeared to know things beyond what it should."
     new "Природа существа тревожила Сару, но не так сильно, как то, что оно, казалось, знало вещи, которых не должно было знать."
@@ -548,7 +548,7 @@ translate ru strings:
     new "Почему я должна верить какому-то гнусному духу, а не своему командиру?"
 
     old "Because your master has been gifted with sight-beyond-sight."
-    new "Потому что твой господин был наделён зрением за пределами зрения."
+    new "Потому что твой господин наделён даром провидения."
 
     old "And he fears what he has seen."
     new "И он боится того, что увидел."
@@ -584,7 +584,7 @@ translate ru strings:
     new "Ты не можешь знать будущее."
 
     old "And yet I do. As does Vaelen. The only one who is blind, is you. But you need not be."
-    new "И всё же я знаю. Как и Вэлен. Единственная, кто слеп — это ты. Но ты можешь не быть."
+    new "И всё же я знаю. Как и Вэлен. Единственная, кто слеп — это ты. Но ты не обязана оставаться слепой."
 
     old "Seize the stone, hide it from him."
     new "Забери камень, спрячь его от него."
@@ -608,7 +608,7 @@ translate ru strings:
     new "Когда тело существа снова изменилось, появился новый второй светящийся камень."
 
     old "Take the real stone for yourself. Give the fake stone to the-one-who-calls-himself-Vaelen. He will not be able to discren the false stone from a true one."
-    new "Возьми настоящий камень себе. Отдай поддельный камень тому-кто-называет-себя-Вэленом. Он не сможет отличить ложный камень от настоящего."
+    new "Возьми настоящий камень себе. Отдай поддельный камень тому-кто-называет-себя-Вэленом. Он не сможет отличить поддельный камень от настоящего."
 
     old "Sarah looked at the creature and the two glowing red stones."
     new "Сара посмотрела на существо и два светящихся красных камня."
@@ -929,7 +929,7 @@ translate ru strings:
     new "Сара посмотрела в землю. Эфраим часто спрашивал, хотя ответ всегда был одним и тем же. Вэлен больше не посещал такие мероприятия."
 
     old "Perhaps when the mercenary company had been smaller. Now, even the deaths of these young men were beneath his consideration."
-    new "Возможно, когда наёмная рота была меньше. Теперь даже смерти этих молодых людей были ниже его внимания."
+    new "Возможно, когда наёмная рота была меньше. Теперь даже смерти этих молодых людей были ему безразличны."
 
     old "No, Ephraim. He's currently busy with-"
     new "Нет, Эфраим. Он сейчас занят—"

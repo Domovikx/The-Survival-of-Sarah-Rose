@@ -11,7 +11,7 @@ translate ru strings:
     new "Сара стояла посреди палатки Атиллы, голая, перед большим зеркалом. Зеркала казались Саре обычным делом."
 
     old "And in the castle where she grew up, they were, but ever since she had set out together with Kate, she realized that they were far more rare in the normal world."
-    new "В замке, где она выросла, так и было, но с тех пор, как она отправилась с Кейт, она поняла, что в обычном мире они куда более редки."
+    new "В замке, где она выросла, так и было, но с тех пор, как она отправилась с Кейт, она поняла, что в обычном мире они куда большая редкость."
 
     old "Sarah was inspecting her body."
     new "Сара разглядывала своё тело."
@@ -83,7 +83,7 @@ translate ru strings:
     new "Согнувшись, с членом орка во рту, Сара чувствовала жар, поднимающийся между ног."
 
     old "It had surprised her at first, but she genuinly loved sucking the orc's cock. The way she could bring him to completion with only her mouth, aroused her."
-    new "Сначала это удивляло её, но ей искренне нравилось сосать член орка. То, как она могла довести его до финала одним ртом, возбуждало её."
+    new "Сначала это удивляло её, но ей искренне нравилось сосать член орка. То, как она могла довести его до разрядки одним ртом, возбуждало её."
 
     old "Atilla, for his part, had no objection to Sarah's love of blowjobs."
     new "Атилла, со своей стороны, не возражал против любви Сары к миннету."
@@ -107,7 +107,7 @@ translate ru strings:
     new "Поглаживая, она тёрлась лоном о его ствол."
 
     old "Atilla grunted, half pleasure, half annoyance. He knew that Sarah understood what he wanted, and he did not enjoy her denying him."
-    new "Атилла рыкнул — полуудовольствие, полураздражение. Он знал, что Сара понимает, чего он хочет, и ему не нравилось, что она отказывает."
+    new "Атилла рыкнул — в звуке смешались удовольствие и раздражение. Он знал, что Сара понимает, чего он хочет, и ему не нравилось, что она отказывает."
 
     old "He wrapped his powerful hands around Sarah's waist and began to lift her up."
     new "Он обхватил талию Сары мощными руками и начал поднимать."
@@ -128,7 +128,7 @@ translate ru strings:
     new "Но орк был терпелив, знала Сара. Она полностью доверяла ему."
 
     old "After only a little time, Atilla let go of Sarah's waist and let her take him down to her mound."
-    new "Всего через немного времени Атилла отпустил талию Сары и позволил ей опуститься до основания."
+    new "Всего через немного времени Атилла отпустил талию Сары и позволил ей опуститься до самого низа."
 
     old "Sarah found herself arching her back to better fit him inside of her."
     new "Сара выгнула спину, чтобы лучше вместить его."
@@ -176,7 +176,7 @@ translate ru strings:
     new "Вскоре она почувствовала, как Атилла начинает дёргаться под ней. Она читала язык его тела и знала, что он близок."
 
     old "She loudly moaned for him, driving herself closer, and knowing it would drive Atilla to completion."
-    new "Она громко стонала для него, приближаясь к финалу и зная, что это приблизит и Атиллу."
+    new "Она громко стонала для него, приближаясь к разрядке и зная, что это приблизит и Атиллу."
 
     old "As she felt him explode inside of her, she rode that sensation to finish herself."
     new "Почувствовав, как он взрывается внутри, она оседлала это ощущение, чтобы кончить самой."
@@ -221,10 +221,10 @@ translate ru strings:
     new "Как и в большинство дней, Атилла и Сара отправились на тренировочную площадку."
 
     old "For the entire afternoon, the two sparred. By the end, Sarah could feel herself bathed in sweat."
-    new "Всю вторую половину дня они спарринговали. К концу Сара чувствовала себя купающейся в поту."
+    new "Всю вторую половину дня они спарринговали. К концу Сара чувствовала себя покрытой потом."
 
     old "Atilla was still the superior warrior, he simply had too much real fighting experience compared to her."
-    new "Атилла всё ещё был превосходящим воином — у него было слишком много опыта по сравнению с ней."
+    new "Атилла всё ещё превосходил её как воин — у него было слишком много настоящего боевого опыта."
 
     old "But Sarah was not the woman she had been months ago."
     new "Но Сара была уже не той женщиной, что месяцы назад."
@@ -245,7 +245,7 @@ translate ru strings:
     new "Мгновение между ними висела тишина."
 
     old "Remember that?"
-    new "Помнишь то?"
+    new "Помнишь?"
 
     old "Sarah pointed at the room on the other end where she had first sucked off Atilla."
     new "Сара указала на помещение в другом конце, где впервые отсосала у Атиллы."
@@ -257,7 +257,7 @@ translate ru strings:
     new "Сара прислонилась головой к массивной руке орка."
 
     old "She grew more quiet."
-    new "Она стала тише."
+    new "Она притихла."
 
     old "Atilla...do you think...am I ready for the exam?"
     new "Атилла... как думаешь... я готова к экзамену?"
@@ -347,7 +347,7 @@ translate ru strings:
     new "Она была бы любовницей Атиллы, а он её любовником, но никто из них не стал бы чем-то большим."
 
     old "Wasn't that enough...Sarah silently wondered to herself?"
-    new "Разве этого было не достаточно... тихо спрашивала себя Сара?"
+    new "Разве этого было недостаточно... тихо спрашивала себя Сара?"
 
     old "Warning: One of these paths will lead to an endgame state. Choose."
     new "Предупреждение: один из путей приведёт к концу игры. Выбери."
@@ -455,7 +455,7 @@ translate ru strings:
     new "Так что нет, Атилла, я не позволю тебе уйти. Уйдёшь — я последую. Побежишь — я догоню. Спрячешься — я найду."
 
     old "But know this Atilla, I love you, and I will spend my life loving you."
-    new "Но знай, Атилла: я люблю тебя и всю жизнь буду любить."
+    new "Но знай, Атилла: я люблю тебя и всю жизнь буду любить тебя."
 
     old "She saw the tears in Atilla's eyes, and deeper still, she saw his resolve fade. Following her confession, he could no longer tear himself away from her."
     new "Она видела слёзы в глазах Атиллы и глубже — как тает его решимость. После её признания он больше не мог оторваться от неё."

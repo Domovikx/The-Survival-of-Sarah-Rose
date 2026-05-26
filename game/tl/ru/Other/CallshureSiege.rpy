@@ -134,7 +134,7 @@ translate ru strings:
     new "Как один, инженеры, работавшие с осадными орудиями, отпустили канаты, сдерживавшие их чудовищную силу."
 
     old "The wooden beams creacked loudly as the weight pulled them down, the pivotal force swinging the massive boulders off the ground."
-    new "Деревянные балки громко затрещали, когда груз потянул их вниз, рычажная сила срывая огромные валуны с земли."
+    new "Деревянные балки громко затрещали, когда груз потянул их вниз, а рычажная сила срывала с земли огромные валуны."
 
     old "With a loud thud, the trebuchets released their deadly cargo."
     new "С громким стуком требушеты высвободили свой смертоносный груз."
@@ -674,7 +674,7 @@ translate ru strings:
     new "Племенники, надеясь застать её армию врасплох, обойдя город, оставили сам город почти без защитников."
 
     old "The citizens of Calshure, witnessing the carnage of the Tribesmen on the open field, had found their courage or their moment."
-    new "Жители Калшура, наблюдав за бойней Племенников на открытом поле, нашли в себе смелость — или свой момент."
+    new "Жители Калшура, наблюдая за бойней Племенников на открытом поле, нашли в себе смелость — или свой момент."
 
     old "And now, they were retaking their city."
     new "И теперь они отвоёвывали свой город."

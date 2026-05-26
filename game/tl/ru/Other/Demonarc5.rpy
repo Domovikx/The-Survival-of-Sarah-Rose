@@ -113,7 +113,7 @@ translate ru strings:
     new "Вот именно."
 
     old "The Creature barked its instruction at her, as if she were a misbehaving dog."
-    new "Существо рявкнуло на неё приказ, будто на непослушную собаку."
+    new "Существо рявкнуло на неё, отдавая приказ, будто на непослушную собаку."
 
     old "To him, perhaps that was as much as she was."
     new "Для него, возможно, она и была не более чем этим."
@@ -140,7 +140,7 @@ translate ru strings:
     new "Она прижала ладони к холодному камню."
 
     old "Spreading out her hands, she felt every texture of the stone on her fingers."
-    new "Растопырив пальцы, она чувствовала каждую текстуру камня на своей коже."
+    new "Растопырив пальцы, она чувствовала каждую текстуру камня на своих пальцах."
 
     old "Without even being told to, she slowly spread her legs apart."
     new "Даже без приказа она медленно раздвинула ноги."
@@ -470,7 +470,7 @@ translate ru strings:
     new "Она забралась на Чудовище и раздвинула ноги."
 
     old "With skilled practice, she reached down with one hand and guided the tip of her Master's cock towards her drenched cunt."
-    new "С умелой сноровкой она опустила руку и направила кончик члена Господина к своей влажной киске."
+    new "Сноровисто она опустила руку и направила кончик члена Господина к своей влажной киске."
 
     old "Slowly slipping down, she let him enter her."
     new "Медленно опускаясь, она позволила ему войти в неё."

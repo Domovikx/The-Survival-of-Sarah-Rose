@@ -5,7 +5,7 @@
 translate ru strings:
 
     old "The exhaustion had forced her to sleep, but the crude shaking of a cart now roughly woke her."
-    new "Изнеможение заставило её уснуть, но грубая тряска повозки теперь грубо разбудила её."
+    new "Изнеможение заставило её уснуть, но грубая тряска повозки теперь резко разбудила её."
 
     old "She might have slept, but Sarah still felt exhausted."
     new "Возможно, она поспала, но Сара всё ещё чувствовала себя измождённой."
@@ -122,7 +122,7 @@ translate ru strings:
     new "Она покачала головой и отбросила смехотворную идею."
 
     old "Adding to the soup, Sarah chopped up some of the pork that was available and cooked it over a spit."
-    new "Добавляя в суп, Сара нарезала немного свинины, что была в наличии, и приготовила её на вертеле."
+    new "Добавляя в суп, Сара нарезала немного свинины, что была под рукой, и приготовила её на вертеле."
 
     old "She was almost happy, having a task to set her mind too, and for a moment, she did forget where she was."
     new "Она была почти счастлива, имея задачу, на которой можно сосредоточиться, и на мгновение действительно забыла, где находится."
@@ -239,7 +239,7 @@ translate ru strings:
     new "Подстраиваясь под ритм инструмента, она двинулась вокруг костра."
 
     old "At first slow, her body spinning and twirling with a controlled grace."
-    new "Сначала медленно, её тело кружилось и вращалось с контролируемой грацией."
+    new "Сначала медленно, её тело кружилось и вращалось грациозно и сдержанно."
 
     old "She let her feet glide through the sand around the campfire, drawing paterns as she moved."
     new "Она позволила ногам скользить по песку вокруг костра, рисуя узоры на ходу."

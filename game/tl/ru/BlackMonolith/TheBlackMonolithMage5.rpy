@@ -5,7 +5,7 @@
 translate ru strings:
 
     old "Sarah was walking down the streets of Lethram."
-    new "Сара шла по улицам Летрема."
+    new "Сара шла по улицам Летрама."
 
     old "Though the house provided for them in many ways, it seemed still limited in the more basic necessities."
     new "Хотя дом и обеспечивал их во многих отношениях, в самых базовых вещах он всё же казался ограниченным."
@@ -14,7 +14,7 @@ translate ru strings:
     new "Еда. Питьё. Дрова для камина."
 
     old "Fortunately, the city of Lethram had an abundance of everything and money was no real obstacle, given what Xan had left behind."
-    new "К счастью, в городе Летрем было изобилие всего, а деньги не были проблемой, учитывая то, что оставил Ксан."
+    new "К счастью, в городе Летрам было изобилие всего, а деньги не были проблемой, учитывая то, что оставил Ксан."
 
     old "Every week, Sarah made her way down to the local market and placed her order slip with one of the general merchants."
     new "Каждую неделю Сара спускалась на местный рынок и оставляла свой бланк заказа у одного из торговцев."
@@ -164,7 +164,7 @@ translate ru strings:
     new "Не можешь просто сказать им это? Предложить вернуть деньги позже?"
 
     old "You don't swim in the waters that I swim in, girlie. These gentlemen ain't takin a promise, if you get my drift."
-    new "Ты плаваешь не в тех водах, что я, красотка. Эти господа не принимают обещаний, если ты понимаешь, о чём я."
+    new "Ты плаваешь не в тех водах, что и я, красотка. Эти господа не принимают обещаний, если ты понимаешь, о чём я."
 
     old "So you don't have money either?"
     new "Значит, у тебя тоже нет денег?"
@@ -194,10 +194,10 @@ translate ru strings:
     new "На его лице был настоящий страх."
 
     old "Alaric was ruthless, a creature raised on the streets of Lethram, but he understood his own world."
-    new "Аларик был безжалостным, созданием, выросшим на улицах Летрема, но он понимал свой собственный мир."
+    new "Аларик был безжалостным человеком, выросшим на улицах Летрама, но он понимал свой собственный мир."
 
     old "The world of magic was strange to him, and like most people, he was unsettled by it and preferred not to think about it."
-    new "Мир магии был чужд ему, и как большинство людей, он чувствовал себя неуютно и предпочитал не думать о нём."
+    new "Мир магии был чужд ему, и, как и большинство людей, он чувствовал себя неуютно и предпочитал не думать о нём."
 
     old "Fine, whatever. But you still gotta help me! These guys ain't playin around."
     new "Ладно, как скажешь. Но ты всё равно должна мне помочь! Эти ребята не шутят."
@@ -299,7 +299,7 @@ translate ru strings:
     new "Если терпишь крыс, всё не так уж плохо."
 
     old "This explanation made a lot more sense for the kind of person she thought he was."
-    new "Это объяснение имело гораздо больше смысла для того типа человека, которым она его считала."
+    new "Это объяснение куда лучше подходило тому, кем она его считала."
 
     old "Still, some part of her couldn't help but feel empathy, even for someone like him."
     new "И всё же часть её не могла не чувствовать сочувствия, даже к такому, как он."
@@ -347,7 +347,7 @@ translate ru strings:
     new "Сара оглядывалась, медленно наблюдая, как здания становятся всё хуже."
 
     old "Though she'd lived in Lethram for a good few years by now, the truth was that her life played out in predictable patterns."
-    new "Хотя она прожила в Летреме уже несколько лет, правда в том, что её жизнь протекала по предсказуемым шаблонам."
+    new "Хотя она прожила в Летраме уже несколько лет, правда в том, что её жизнь протекала по предсказуемым шаблонам."
 
     old "She'd go to the market. To the docks on occasion. Then back to her home."
     new "Она ходила на рынок. Иногда в порт. Затем обратно домой."
@@ -401,13 +401,13 @@ translate ru strings:
     new "Они продолжили путь."
 
     old "Weaving between narrow alleys and high buildings, it was almost like the sun was being drowned out."
-    new "Петляя между узкими переулками и высокими зданиями, солнце будто бы угасало."
+    new "Они петляли между узкими переулками и высокими зданиями, и солнце будто бы угасало."
 
     old "These places lived in a perpetual shade, Sarah realized as she followed Alaric."
     new "Эти места жили в вечной тени, поняла Сара, следуя за Алариком."
 
     old "For his part, he seemed to have a natural sense of direction in this maze."
-    new "С его стороны, он, казалось, обладал врождённым чувством направления в этом лабиринте."
+    new "Со своей стороны, он, казалось, обладал врождённым чувством направления в этом лабиринте."
 
     old "It made sense, Sarah thought. He'd spend his life navigating these alleys. Of course he knew them like the back of his hand."
     new "Это имело смысл, подумала Сара. Он провёл всю жизнь, ориентируясь в этих переулках. Конечно, он знал их как свои пять пальцев."
@@ -527,7 +527,7 @@ translate ru strings:
     new "Чем заняться до тех пор? Я бы сказала — считать минуты на часах, но у тебя даже часов нет."
 
     old "I could fuck your brains out on this bed. That should kill some time."
-    new "Я мог бы выебать твой мозг на этой кровати. Это убьёт время."
+    new "Я мог бы выебать тебя до беспамятства на этой кровати. Это убьёт время."
 
     old "Tempting offer, but I think I'll pass."
     new "Заманчивое предложение, но я, пожалуй, откажусь."
@@ -548,7 +548,7 @@ translate ru strings:
     new "Он почесал подбородок, словно в глубокой задумчивости."
 
     old "Do you know how to play Lethram Fasthand?"
-    new "Ты умеешь играть в Летремский Быстрый?"
+    new "Ты умеешь играть в Летрамский Быстрый?"
 
     old "I'm just an uptight rich girl, remember? They don't teach us nothing about card games."
     new "Я просто чопорная богатая девчонка, помнишь? Нас не учат карточным играм."
@@ -572,7 +572,7 @@ translate ru strings:
     new "Три карты в центр, общие для игроков."
 
     old "Step-by-step, Alric took her through the rules of Lethram Fasthand."
-    new "Шаг за шагом Аларик объяснял ей правила Летремского Быстрого."
+    new "Шаг за шагом Аларик объяснял ей правила Летрамского Быстрого."
 
     old "A mixture of chance, odds, bluffing. Half the game was the cards. The other half reading the player opposite of you."
     new "Смесь удачи, расчёта и блефа. Половина игры — карты. Другая половина — чтение соперника напротив."
@@ -617,7 +617,7 @@ translate ru strings:
     new "Ты много играл в эту игру?"
 
     old "Everyone has in Lethram. At least, in the parts of town where I grew up."
-    new "Все в Летреме играли. По крайней мере, в тех частях города, где я вырос."
+    new "Все в Летраме играли. По крайней мере, в тех частях города, где я вырос."
 
     old "Learned it from your dad?"
     new "Научился у отца?"
@@ -1136,7 +1136,7 @@ translate ru strings:
     new "Ты всегда ведёшь себя так, будто знаешь меня, но это не так."
 
     old "Maybe, but I clocked you from a mile away."
-    new "Может быть, но я раскусил тебя за милю."
+    new "Может быть, но я раскусил тебя за версту."
 
     old "Upper class girl, taught all her life to be proper and prim. But deep down you just want all the things you're not supposed to."
     new "Девушка из высшего общества, которую всю жизнь учили быть приличной и чопорной. Но в глубине души ты хочешь всего того, чего тебе нельзя."
@@ -1301,7 +1301,7 @@ translate ru strings:
     new "Ты ещё более жалкая, чем я думал. Ты буквально умоляешь меня об этом, и всего мгновение назад ты вела себя так, будто я тебе не ровня."
 
     old "Pleeease....."
-    new "Пожаааалуйста....."
+    new "Пожаааалуйста..."
 
     old "Sarah lowered herself to literally begging for his dick. She knew she'd do just about anything in this moment."
     new "Сара опустилась до буквальных мольб о его члене. Она знала, что сделала бы почти что угодно в этот момент."
@@ -1346,7 +1346,7 @@ translate ru strings:
     new "И особенный!"
 
     old "You, Alaric, have the biggest, best dick in all of Lethram. All of the world!"
-    new "У тебя, Аларик, самый большой, лучший член во всём Летреме. Во всём мире!"
+    new "У тебя, Аларик, самый большой, лучший член во всём Летраме. Во всём мире!"
 
     old "Now can you please fuck me!"
     new "А теперь, пожалуйста, выеби меня!"
@@ -1724,7 +1724,7 @@ translate ru strings:
     new "Не давай обещаний, которые не сможешь сдержать."
 
     old "She left his house and stepped back out onto the now dark streets of Lethram."
-    new "Она вышла из его дома и снова ступила на тёмные улицы Летрема."
+    new "Она вышла из его дома и снова ступила на тёмные улицы Летрама."
 
     old "These parts of town were dangerous, but with a small magical flame for light, Sarah managed to find her way and kept anyone from bothering her."
     new "Эти части города были опасны, но с маленьким магическим огоньком для света Сара смогла найти дорогу и не дала никому себя потревожить."

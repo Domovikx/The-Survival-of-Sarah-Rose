@@ -8,13 +8,13 @@ translate ru strings:
     new "Король Орвелл вернулся из своего путешествия по провинциям Розанны."
 
     old "He enters the great hall of Castle Reinmeer, the snow of an early winter drifting in behind him."
-    new "Он входит в большой зал замка Рейнмир, снег ранней зимы влетает следом за ним."
+    new "Он входит в большой зал замка Рейнмир, а следом за ним влетает снег ранней зимы."
 
     old "Finally, home again."
     new "Наконец-то, снова дома."
 
     old "King Orwell pluts his travel bag down."
-    new "Король Орвелл ставит свою дорожную сумку."
+    new "Король Орвелл ставит свою дорожную сумку на пол."
 
     old "FATHER!"
     new "ОТЕЦ!"
@@ -23,7 +23,7 @@ translate ru strings:
     new "Сара прыгает в объятия отца."
 
     old "Ooh, Sarah, my back! Please daugher, I'm not as young as I was, and you've grown much too big to just be jumping on me."
-    new "Ох, Сара, моя спина! Пожалуйста, дочка, я уже не так молод, и ты слишком большая, чтобы прыгать на меня."
+    new "Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты слишком большая, чтобы прыгать на меня."
 
     old "You were gone for almost five months! If you thought I wasn't going to hug you, you don't know me at all."
     new "Тебя не было почти пять месяцев! Если ты думал, что я не обниму тебя, ты меня совсем не знаешь."
@@ -50,7 +50,7 @@ translate ru strings:
     new "Король Орвелл хватает сына за плечи и отстраняет его."
 
     old "I missed you too son, but remember: composure. It's not befitting for a future king to be running around like a wild child."
-    new "Я тоже скучал по тебе, сын, но помни: самообладание. Будущему королю не пристало бегать как дикий ребёнок."
+    new "Я тоже скучал по тебе, сын, но помни: самообладание. Будущему королю не пристало бегать, как дикий ребёнок."
 
     old "That goes for both of you."
     new "Это касается вас обоих."

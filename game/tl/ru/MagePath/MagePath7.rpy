@@ -53,7 +53,7 @@ translate ru strings:
     new "Да. Я никогда раньше не была во дворце Баграда, и мне просто стало... не знаю... одиноко?"
 
     old "Sarah saw smile creep across Samayra's face, as though she recognized what Sarah was saying."
-    new "Сара заметила, как по лицу Самайры расползлась улыбка, будто она узнала в словах Сары что-то знакомое."
+    new "Сара заметила, как по лицу Самайры расплылась улыбка, будто она узнала в словах Сары что-то знакомое."
 
     old "Yes, it can be a lonely place."
     new "Да, здесь бывает одиноко."
@@ -113,7 +113,7 @@ translate ru strings:
     new "А так в основном только мы с отцом можем ими любоваться."
 
     old "It seemed strang to Sarah. Castle Reinmeer had always buzzed with and endless coming-and-going of nobles from all over Rosanna and its neighbouring kingdoms."
-    new "Это казалось Саре странным. Замок Райнмир всегда гудел от бесконечной череды знати со всей Розанны и соседних королевств."
+    new "Это казалось Саре странным. Замок Рейнмир всегда гудел от бесконечной череды знати со всей Розанны и соседних королевств."
 
     old "Doesn't anyone visit?"
     new "Неужели никто не приезжает?"
@@ -227,7 +227,7 @@ translate ru strings:
     new "Я обещаю тебе, что сделаю всё, что в моих силах, чтобы защитить твою семью."
 
     old "A genuine smile crept over Samayra's face."
-    new "Искренняя улыбка расползлась по лицу Самайры."
+    new "Искренняя улыбка расплылась по лицу Самайры."
 
     old "The two began to walk again and soon found themselves in the gardens of the palace."
     new "Они снова пошли и вскоре оказались в дворцовых садах."
@@ -242,7 +242,7 @@ translate ru strings:
     new "Деревья, кусты и цветы, казалось, бесчисленных разновидностей были рассажены на огромном пространстве."
 
     old "Above them, the dark night was undone by the countless stars in heaven, which seemed to Sarah to shine brighter here than anywhere else."
-    new "Над ними тёмную ночь разрывали бесчисленные звёзды в небесах, которые, казалось Саре, сияли здесь ярче, чем где-либо ещё."
+    new "Над ними тёмную ночь разрывали бесчисленные звёзды в небесах, которые, как казалось Саре, сияли здесь ярче, чем где-либо ещё."
 
     old "Even in the dark, the many colours and shapes of the plants nearly overwhelmed the senses."
     new "Даже в темноте множество цветов и форм растений почти переполняло чувства."
@@ -296,7 +296,7 @@ translate ru strings:
     new "К собственному удивлению, Сара смутилась от комплимента."
 
     old "Sarah said the words half laughing."
-    new "Сара сказала эти слова, наполовину смеясь."
+    new "Сара сказала это, слегка смеясь."
 
     old "Ooh, sorry..."
     new "Ой, прости..."
@@ -398,7 +398,7 @@ translate ru strings:
     new "Внезапно Самайра спрыгнула со скамейки и приземлилась, идеально балансируя на одной ноге."
 
     old "For as small and lithe as she was, Samayra excercised a great strength from the tip of her toes, spinning her body around on one foot."
-    new "Несмотря на свой маленький и гибкий стан, Самайра проявила большую силу, вращаясь на одной ноге с самого кончика пальцев."
+    new "Несмотря на свой маленький и гибкий стан, Самайра проявила большую силу, вращаясь на одной ноге с самых кончиков пальцев."
 
     old "As she spun she turned her body into the movement, placing down her other foot."
     new "Кружась, она вложила всё тело в движение и опустила другую ногу."
@@ -416,7 +416,7 @@ translate ru strings:
     new "Сара была зачарована этим зрелищем."
 
     old "It was not merely the beauty of Samayra, or the beauty of her performance, but Sarah could also feel an old part of herself return."
-    new "Дело было не просто в красоте Самайры или красоте её выступления — Сара чувствовала, как возвращается старая часть её самой."
+    new "Дело было не просто в красоте Самайры или её танца — Сара чувствовала, как возвращается старая часть её самой."
 
     old "Sarah remembered her own dancing lessons, how she had dedicated month after month to mastering the many dances that would be expected of a Rosannian princess."
     new "Сара вспомнила свои уроки танцев, как она месяцами осваивала многочисленные танцы, которые ожидались от розаннской принцессы."

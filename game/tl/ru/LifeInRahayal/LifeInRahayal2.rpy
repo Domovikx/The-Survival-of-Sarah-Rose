@@ -41,7 +41,7 @@ translate ru strings:
     new "Куда бы она ни посмотрела, толпы людей двигались в бесконечной суете."
 
     old "Off in the far distance, the city stretched on as far as she could see."
-    new "В далёкой дали город простирался настолько далеко, насколько хватало глаз."
+    new "Вдалеке город простирался настолько далеко, насколько хватало глаз."
 
     old "Massive monuments that would have put the castle of her youth to shame, towered up and cast long shadows."
     new "Огромные монументы, которые затмили бы замок её юности, возвышались и отбрасывали длинные тени."
@@ -71,7 +71,7 @@ translate ru strings:
     new "Всё реже она смотрела на него, и вскоре уже едва удостаивала это сооружение даже беглого взгляда."
 
     old "Still exploring the city, Sarah made her way through streets and crowds, taking in all the sights."
-    new "Продолжая исследовать город, Сара пробиралась по улицам и толпам, впитывая все достопримечательности."
+    new "Продолжая исследовать город, Сара пробиралась по улицам и толпам, осматривая все достопримечательности."
 
     old "Though much of the city filled with awe, there was one element that forever troubled her."
     new "Хотя многое в городе вызывало трепет, был один элемент, который постоянно её тревожил."
@@ -89,7 +89,7 @@ translate ru strings:
     new "Сначала она увидела худших из них."
 
     old "The young men and women, dragged about nearly naked in long chain gangs, going from one place to another."
-    new "Юношей и девушек, которых тащили почти голыми в длинных цепных группах из одного места в другое."
+    new "Юношей и девушек, которых тащили почти голыми в длинных колоннах, скованных цепями, из одного места в другое."
 
     old "But soon, the more she paid attention, Sarah realized that the slavery ran deeper."
     new "Но вскоре, чем больше она обращала внимание, тем больше Сара осознавала, что рабство проникло глубже."
@@ -101,7 +101,7 @@ translate ru strings:
     new "Солдаты. Торговцы. Чиновники."
 
     old "The slaves of this Empire came in every kind, both lowly and high."
-    new "Рабы этой Империи были всех видов, как низких, так и высоких."
+    new "Рабы в этой Империи были всех мастей — от низших до высших."
 
     old "Sarah was watching a young woman following in the footsteps of what appeared to be her master."
     new "Сара наблюдала за молодой женщиной, идущей по пятам за тем, кто, казалось, был её хозяином."
@@ -116,7 +116,7 @@ translate ru strings:
     new "Девушка была так похожа на неё саму, но в её глазах была пустота."
 
     old "Everything in her life had taught her to be good. She knew that she had to save the girl."
-    new "Вся её жизнь учила её быть доброй. Она знала, что должна спасти девушку."
+    new "Вся её жизнь учила её добру. Она знала, что должна спасти девушку."
 
     old "And yet, she equally knew that in this place, she was powerless."
     new "И всё же она так же хорошо знала, что в этом месте она бессильна."
@@ -131,7 +131,7 @@ translate ru strings:
     new "И вместо этого Сара стояла, пригвождённая к земле, наблюдая за разворачивающимся злом."
 
     old "The girl dissapeared along with her master, turning down some street."
-    new "Девушка исчезла вместе с хозяином, свернув в какую-то улицу."
+    new "Девушка исчезла вместе с хозяином, свернув на какую-то улицу."
 
     old "A voice broke snapped Sarah from her stunned condition."
     new "Голос вывел Сару из оцепенения."

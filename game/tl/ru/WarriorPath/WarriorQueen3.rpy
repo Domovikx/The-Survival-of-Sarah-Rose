@@ -41,7 +41,7 @@ translate ru strings:
     new "Сара схватилась за деревянные перила лодки так крепко, что, казалось, вот-вот сломает их."
 
     old "A cold wind rushed up to meet her as they neared closer to land; the shores quickly growing."
-    new "Холодный ветер рванул навстречу, когда они приблизились к земле; берега быстро росли."
+    new "Холодный ветер рванул навстречу, когда они приблизились к земле; берега быстро приближались."
 
     old "Rosanna always suffered the changing seasons sooner than most places."
     new "Розанна всегда встречала смену сезонов раньше большинства других мест."
@@ -149,7 +149,7 @@ translate ru strings:
     new "Она не могла ждать больше ни мгновения."
 
     old "The cold did not faze her at all, instead, she felt the excitement burning in her chest."
-    new "Холод ничуть не смутил её; вместо этого она чувствовала, как в груди горит возбуждение."
+    new "Холод ничуть не смутил её; вместо этого она чувствовала, как в груди горит волнение."
 
     old "Rushing up the shoreline, Sarah stumbled out from the sea, onto dry land."
     new "Стремительно выбежав на берег, Сара, спотыкаясь, выбралась из моря на сушу."
@@ -458,7 +458,7 @@ translate ru strings:
     new "Большая часть этой местности — луга, изредка попадаются небольшие фермы."
 
     old "We can move some units through it, but only the main road is going to be developed enough for us to move a real army across."
-    new "Мы можем провести через неё некоторые отряды, но только главная дорога достаточно развита, чтобы провести настоящую армию."
+    new "Мы можем провести через неё некоторые отряды, но только главная дорога достаточно хороша, чтобы провести настоящую армию."
 
     old "A real army, the kind she had, was more than just men and horses."
     new "Настоящая армия, такая, как у неё, — это не просто люди и лошади."
@@ -491,7 +491,7 @@ translate ru strings:
     new "Сара продолжала изучать карту."
 
     old "It's equally possible they've locked themselves into the cities and grown fat from their looting, having learned nothing about our land."
-    new "С таким же успехом они могли запереться в городах и растолстеть от грабежей, так ничего и не узнав о нашей земле."
+    new "С таким же успехом они могли запереться в городах и зажиреть от грабежа, так ничего и не узнав о нашей земле."
 
     old "Yes, that too is possible, but we can't say either way."
     new "Да, это тоже возможно, но мы не можем утверждать ни так, ни этак."
@@ -560,7 +560,7 @@ translate ru strings:
     new "Мы пройдём через глубинку и выйдем к западной стороне столицы."
 
     old "If we succeed, we have the element of surprise."
-    new "Если мы преуспеем, у нас будет элемент неожиданности."
+    new "Если у нас получится, у нас будет элемент неожиданности."
 
     old "If we fail, we lose many precious days, are low on supplies, and we attack the capital from an inferior direction."
     new "Если мы потерпим неудачу, мы потеряем много драгоценных дней, останемся без припасов и будем атаковать столицу с невыгодного направления."
@@ -692,7 +692,7 @@ translate ru strings:
     new "Оглядываясь назад, я понимаю, что что-то происходило... я просто не знала, что именно."
 
     old "I thought you had just been sad for a while...you know, how you could get."
-    new "Я думала, ты просто была грустна какое-то время... ну, знаешь, как это бывает."
+    new "Я думала, ты просто грустила какое-то время... ну, знаешь, как это бывает."
 
     old "Kate flashed a pained smile."
     new "Кейт выдавила болезненную улыбку."
@@ -965,7 +965,7 @@ translate ru strings:
     new "Самайра медленно приходила в себя после такого внезапного пробуждения."
 
     old "I...I did..."
-    new "Я... я..."
+    new "Я... я переработала..."
 
     old "You should just take better care of yourself."
     new "Тебе стоит лучше заботиться о себе."
@@ -1040,7 +1040,7 @@ translate ru strings:
     new "Сара откинула полог шатра и шагнула наружу."
 
     old "The sight of pure white overpowered her senses, nearly striking her blind."
-    new "Вид ослепительной белизны переполнил её чувства, почти ослепив."
+    new "Вид ослепительной белизны захлестнул её, почти ослепив."
 
     old "The cold frost rushed up to her face, a sharp and cutting pain that Sarah had loved from youth."
     new "Морозный холод ударил в лицо — острая, режущая боль, которую Сара любила с юности."
@@ -1082,7 +1082,7 @@ translate ru strings:
     new "Зима в Розанне могла быть внезапной и суровой, но она всегда любила их."
 
     old "Loved how they turned the world small, forced everyone back into their homes."
-    new "Любила, как они делали мир маленьким, заставляя всех возвращаться в свои дома."
+    new "Любила, как они сужали мир, заставляя всех возвращаться в свои дома."
 
     old "How she would sit with her Father at the hearth, the fire crackling as it consumed log after log."
     new "Как она сидела с отцом у очага, огонь потрескивал, поглощая полено за поленом."
@@ -1292,7 +1292,7 @@ translate ru strings:
     new "Сара улыбнулась, даже когда морозный ветер больно резал кожу."
 
     old "This was a pain she had forgotten, one she was now happy to rediscover."
-    new "Это была боль, которую она забыла, но теперь была рада вновь обрести."
+    new "Это была боль, которую она забыла, но теперь была рада вновь ощутить."
 
     old "Lower in the camp, she saw the men of her army, slogging through the thick coat of snow."
     new "Внизу лагеря она видела солдат своей армии, пробирающихся сквозь толстый слой снега."

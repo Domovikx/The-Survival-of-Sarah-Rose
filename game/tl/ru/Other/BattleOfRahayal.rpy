@@ -71,7 +71,7 @@ translate ru strings:
     new "И, возможно, само создание застыло на миг, озадаченное тем, как всё это было легко."
 
     old "Then, its inky body morphed into a sharp tendril and shot forward, impaling the nearest unlucky soul."
-    new "Затем его чёрное тело превратилось в острую конечность и выстрелило вперёд, пронзая ближайшую несчастную душу."
+    new "Затем его чёрное тело превратилось в острое щупальце и выстрелило вперёд, пронзая ближайшую несчастную душу."
 
     old "The tendril found no resistance as it punctured the body, impaling it."
     new "Конечность не встретила сопротивления, пронзая тело насквозь."
@@ -200,7 +200,7 @@ translate ru strings:
     new "Но оно ничего не могло сделать, чтобы остановить пламя."
 
     old "Regular weapons were weak against the voidlings, but magic was their weakness."
-    new "Обычное оружие было слабо против порождений Пустоты, но магия была их уязвимостью."
+    new "Обычное оружие было бессильно против порождений Пустоты, но магия была их уязвимостью."
 
     old "The flame did not just harm them, it caught their inky blood on fire, as if it were no different than oil."
     new "Пламя не просто вредило им — оно воспламеняло их чёрную кровь, словно это было не что иное, как масло."

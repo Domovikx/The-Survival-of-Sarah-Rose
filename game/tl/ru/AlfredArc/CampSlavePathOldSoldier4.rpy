@@ -218,7 +218,7 @@ translate ru strings:
     new "Между ног Сара чувствовала, как её лоно горит, а влага стекает по её собственным ногам."
 
     old "Why deny it, she thought. She wanted him. She wanted him to use and abuse her body for his own pleasure, and in turn she would take hers from his."
-    new "Зачем отрицать это, — подумала она. — Она хотела его. Она хотела, чтобы он использовал и терзал её тело ради своего удовольствия, а взамен она получит своё от него."
+    new "Зачем отрицать это, — подумала она. Она хотела его. Она хотела, чтобы он использовал и терзал её тело ради своего удовольствия, а взамен она получит своё от него."
 
     old "This was no great romance, but Sarah realized, it was something she could live with."
     new "Это была не великая любовь, но Сара поняла: это то, с чем она может жить."
@@ -323,7 +323,7 @@ translate ru strings:
     new "Сара выкрикнула эти слова, пока он продолжал двигать её тело вверх и вниз по своему члену, завоёвывая каждую её часть."
 
     old "Feeling the pleasure ring out from between her legs with each thrust, it began to seem absurd to her that she ever thought he was anything other than a slave."
-    new "Чувствуя, как удовольствие разливается между ног с каждым толчком, ей начинало казаться абсурдным, что она когда-то считала себя кем-то иным, кроме рабыни."
+    new "Она чувствовала, как удовольствие разливается между ног с каждым толчком, и ей начинало казаться абсурдным, что она когда-то считала себя кем-то иным, кроме рабыни."
 
     old "This was the real her, she realized. What she was meant to be."
     new "Это была настоящая она, поняла она. Тем, кем ей суждено было стать."
@@ -383,7 +383,7 @@ translate ru strings:
     new "Даже охваченная этим, эта кульминация казалась ей иной — её удовольствие проникало глубже, выворачивая каждую мышцу её тела."
 
     old "Her entire body felt as though it had been rung like a bell, her skin vibrating."
-    new "Всё её тело чувствовалось так, будто по нему ударили, как в колокол, кожа вибрировала."
+    new "У неё было такое чувство, будто по всему телу ударили, как в колокол, и кожа вибрировала."
 
     old "She felt herself trying to catch her breathe amidst it all."
     new "Она чувствовала, как пытается перевести дух посреди всего этого."
@@ -479,7 +479,7 @@ translate ru strings:
     new "Боль от иглы, пронзающей кожу, продолжалась — снова, снова, снова."
 
     old "What began as an incidental pain, grew into a louder one, ringing out from her lower back across most of her body."
-    new "То, что начиналось как незначительная боль, переросло в более громкую, раздающуюся от поясницы по всему телу."
+    new "То, что начиналось как незначительная боль, переросло в более сильную, раздающуюся от поясницы по всему телу."
 
     old "Sarah refused to show weakness."
     new "Сара отказывалась показывать слабость."

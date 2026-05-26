@@ -686,7 +686,7 @@ translate ru strings:
     new "Сара указала на близлежащее бревно."
 
     old "You mind if we take a break? My feet are killing me."
-    new "Не возражаешь, если мы передохнём? Мои ноги убивают меня."
+    new "Не возражаешь, если мы передохнём? У меня ноги отваливаются."
 
     old "Together, the two of them sat down on the log, a small distance away from the festival."
     new "Вместе они сели на бревно, на небольшом расстоянии от праздника."
@@ -818,7 +818,7 @@ translate ru strings:
     new "Она подалась вперёд и прильнула губами к его губам."
 
     old "And he returned her passions with a pent-up desire of his own."
-    new "И он ответил на её страсть с собственной сдерживаемой жаждой."
+    new "И он ответил на её страсть с подавленным желанием."
 
     old "Sarah felt his hands, gripping her waist."
     new "Сара почувствовала его руки, сжимающие её талию."
@@ -875,7 +875,7 @@ translate ru strings:
     new "Мы не можем этого делать...пока мы не..."
 
     old "She saw the nervousness on his face."
-    new "Она увидела нервность на его лице."
+    new "Она увидела волнение на его лице."
 
     old "Married."
     new "Поженимся."
@@ -1007,7 +1007,7 @@ translate ru strings:
     new "Хотя они провели ещё несколько часов, исследуя всё вместе, правда была в том, что Сара почти ничего из этого не запомнила."
 
     old "Instead, within her, she struggled with everything that he had said."
-    new "Вместо этого внутри неё боролось всё, что он сказал."
+    new "Вместо этого она мысленно боролась со всем, что он сказал."
 
     old "Marriage."
     new "Брак."

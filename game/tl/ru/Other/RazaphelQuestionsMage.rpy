@@ -191,7 +191,7 @@ translate ru strings:
     new "Медленно ей удалось прийти в себя."
 
     old "I'm fine, I'm fine! Please, give me some space."
-    new "Я в порядке, я в порядке! Пожалуйста, дайте мне немного пространства."
+    new "Я в порядке, я в порядке! Пожалуйста, дайте мне немного места."
 
     old "She saw the scholars slowly back away from her."
     new "Она видела, как учёные медленно отступают от неё."
@@ -284,7 +284,7 @@ translate ru strings:
     new "Сара повторяла эти слова в голове, словно мантру."
 
     old "Turning back to face in front of her, she suddenly felt her heart stop."
-    new "Повернувшись обратно, она внезапно почувствовала, как сердце остановилось."
+    new "Повернувшись обратно, она внезапно почувствовала, как её сердце остановилось."
 
     old "A group of soldiers blocked the road up ahead of her."
     new "Группа солдат преграждала дорогу впереди неё."
@@ -770,7 +770,7 @@ translate ru strings:
     new "Почти, но я сказал раздевайся."
 
     old "He motioned at the last of her clothes."
-    new "Он указал на последнюю её одежду."
+    new "Он указал на то, что ещё оставалось на ней."
 
     old "You can see that I don't have anything on me!"
     new "Ты же видишь, что у меня ничего нет!"

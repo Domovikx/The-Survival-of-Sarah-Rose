@@ -8,7 +8,7 @@ translate ru strings:
     new "Сара и Ксан вернулись в тронный зал."
 
     old "When they had left, it was empty, but by now the first army units of the Mythran army had begun to swarm in."
-    new "Когда они ушли, зал был пуст, но теперь первые армейские подразделения мифранской армии начали заполнять его."
+    new "Когда они ушли, зал был пуст, но теперь первые подразделения мифранской армии начали заполнять его."
 
     old "It was nothing like before, when Sarah had faced a small advance group of poorly armed mercenaries."
     new "Всё было совсем не так, как раньше, когда Сара столкнулась с небольшим передовым отрядом плохо вооружённых наёмников."
@@ -113,7 +113,7 @@ translate ru strings:
     new "Ксан... ты не можешь так поступить... мы обещали им..."
 
     old "And they'll be dead soon. What does it matter if we keep a promise to a dead man?"
-    new "И они скоро умрут. Какая разница, сдержим ли мы обещание перед мёртвым?"
+    new "И они скоро умрут. Какая разница, сдержим ли мы слово, данное мёртвому?"
 
     old "They don't deserve this...she doesn't deserve this..."
     new "Они не заслуживают этого... она не заслуживает этого..."

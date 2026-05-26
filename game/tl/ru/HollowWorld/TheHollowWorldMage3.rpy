@@ -26,7 +26,7 @@ translate ru strings:
     new "Комнаты были на своих местах. Ровно до тех пор, пока не переставали."
 
     old "Hallways would have an exact number of doors. Only until it had more."
-    new "В коридорах было ровное число дверей. Ровно до тех пор, пока не становилось больше."
+    new "В коридорах было точное число дверей. Ровно до тех пор, пока не становилось больше."
 
     old "In the first year, Sarah had dedicated significant amounts of her intellect on trying to solve the puzzle that was the house."
     new "В первый год Сара потратила немало своих умственных сил, пытаясь разгадать загадку, которой был этот дом."
@@ -38,7 +38,7 @@ translate ru strings:
     new "И всё же время от времени она не могла удержаться от размышлений об этой тайне."
 
     old "It was near the end of the night that Sarah came upon a room she had not yet encountered before."
-    new "Ближе к концу ночи Сара наткнулась на комнату, которой раньше не встречала."
+    new "Ближе к концу ночи Сара наткнулась на комнату, которую раньше не встречала."
 
     old "The room appeared lived."
     new "Комната выглядела обжитой."
@@ -53,7 +53,7 @@ translate ru strings:
     new "Ах, я вижу, ты наткнулась на его личный кабинет."
 
     old "Sarah felt her brow furrow."
-    new "Сара почувствовала, как нахмурился её лоб."
+    new "Сара почувствовала, что нахмурилась."
 
     old "I thought you would have been up to something else by now."
     new "Я думал, ты к этому времени уже занялась бы чем-нибудь другим."
@@ -131,7 +131,7 @@ translate ru strings:
     new "Он продолжил бы пытки, а тогда ты была бы слишком слаба, чтобы остановить его."
 
     old "And you would have been eaten by the guilt of serving a master so wicked."
-    new "И тебя бы съела вина за службу столь жестокому господину."
+    new "И тебя бы снедала вина за службу столь жестокому господину."
 
     old "I wanted to spare you such troubles, and so I kept it a secret."
     new "Я хотел уберечь тебя от таких забот, поэтому и хранил это в секрете."
@@ -260,13 +260,13 @@ translate ru strings:
     new "Тогда в чём дело? О чём она?"
 
     old "The book is a dense work, written in a different age, based upon principles that stretch back even further."
-    new "Это плотный труд, написанный в другую эпоху, основанный на принципах, уходящих корнями ещё глубже."
+    new "Это фундаментальный труд, написанный в другую эпоху, основанный на принципах, уходящих корнями ещё глубже."
 
     old "If I explain it to you, I can only do so as one explains the world to a child."
     new "Если я объясню его тебе, то лишь так, как объясняют мир ребёнку."
 
     old "In analogy. In reduction. In simplicity."
-    new "Аналогиями. Упрощениями. Примитивизациями."
+    new "Аналогиями. Упрощениями. Простотой."
 
     old "But a child does not know the world when we shrink it down for them, they know only the simplified version."
     new "Но ребёнок не познаёт мир, когда мы его упрощаем для него — он узнаёт лишь упрощённую версию."

@@ -164,7 +164,7 @@ translate ru strings:
     new "В комнатах несколько тел, слуги-мужчины, которые пытались спрятаться."
 
     old "I think six or so female servants, they're...well off in that room."
-    new "Кажется, шесть или около того служанок, они... ну, в той комнате."
+    new "Кажется, шесть или около того служанок, они... неплохо устроились в той комнате."
 
     old "Kate pointed."
     new "Кейт указала."
@@ -188,7 +188,7 @@ translate ru strings:
     new "Это ужасало Сару, хотя бы потому, что она так легко могла представить себя на месте тех женщин."
 
     old "Had she not run away with Kate when she did, she would have been one of those women, captured and who knows what else by the tribesmen."
-    new "Не сбеги она тогда с Кейт, она была бы одной из тех женщин — захваченной, и кто знает, что ещё сделавшей с ней племена."
+    new "Не сбеги она тогда с Кейт, она была бы одной из тех женщин — захваченной, и кто знает, что ещё сделали бы с ней те племена."
 
     old "And yet she had also never been able to truly change anything."
     new "И всё же она так и не смогла ничего по-настоящему изменить."
@@ -245,7 +245,7 @@ translate ru strings:
     new "Медленно исследуя западное крыло, она старалась не обращать внимания на хаос вокруг."
 
     old "For most mercenaries, looting was an important part of survival, compensating for their otherwise limited wages."
-    new "Для большинства наёмников мародёрство было важной частью выживания, компенсируя их и без того скудное жалованье."
+    new "Для большинства наёмников мародёрство было важной частью выживания, восполняя их и без того скудное жалованье."
 
     old "A scream rang out from one of the rooms off to her side."
     new "Крик раздался из одной из комнат справа от неё."
@@ -302,7 +302,7 @@ translate ru strings:
     new "Она была частью этого. Её руки были запятнаны не меньше, чем у тех, кто убивал. Возможно, даже больше, учитывая её командование."
 
     old "Still, she walked the hall to bear witness to what she was a part of. She felt it was the least she could do."
-    new "И всё же она шла по коридору, чтобы засвидетельствовать то, частью чего была. Она чувствовала, что это наименьшее, что она могла сделать."
+    new "И всё же она шла по коридору, чтобы засвидетельствовать то, частью чего была. Она чувствовала, что это меньшее, что она могла сделать."
 
     old "Finally, she reached the end of the western wing."
     new "Наконец она добралась до конца западного крыла."
@@ -368,7 +368,7 @@ translate ru strings:
     new "Не было причин покидать свою позицию."
 
     old "It was such, sitting and waiting, that Sarah was finally approached by one of the soldiers that worked as a messenger."
-    new "Именно так, сидя и ожидая, Сара наконец была замечена одним из солдат, работавшим посыльным."
+    new "Именно так, сидя и ожидая, Сара наконец дождалась — к ней подошёл один из солдат, работавший посыльным."
 
     old "Commander!"
     new "Командир!"
@@ -401,7 +401,7 @@ translate ru strings:
     new "Сара забралась на баррикаду и выглянула через край."
 
     old "Well, if it isn't our brave leader."
-    new "Ну надо же, никак наш храбрый предводитель."
+    new "Ну надо же, никак наша храбрая предводительница."
 
     old "Hope you haven't come to take some of my glory?"
     new "Надеюсь, ты пришёл не за тем, чтобы отнять часть моей славы?"
@@ -437,7 +437,7 @@ translate ru strings:
     new "Вэйлен рассмеялся."
 
     old "No, Sarah, as a matter of fact I never have, and I think very few people in this world can say that they have."
-    new "Нет, Сара, вообще-то никогда, и я думаю, очень немногие люди в этом мире могут похвастаться тем, что убили."
+    new "Нет, Сара, вообще-то никогда, и я думаю, очень немногие люди в этом мире могут похвастаться таким."
 
     old "He paused for a moment."
     new "Он помолчал мгновение."

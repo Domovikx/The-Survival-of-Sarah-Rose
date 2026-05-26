@@ -89,7 +89,7 @@ translate ru strings:
     new "Проигнорировав совет духа, она открыла книгу из личного кабинета Ксана и попыталась прочесть её сама."
 
     old "More than merely complex, it also leaned heavily on the usage of unknown words and words in odd and very particular definitions."
-    new "Она была не просто сложной — она изобиловала незнакомыми словами и словами в странных и весьма специфических значениях."
+    new "Она была не просто сложной — она изобиловала незнакомыми терминами в странных и весьма специфических значениях."
 
     old "Less than three pages in and Sarah understood that she simply did not possess the knowledge to read it."
     new "Не прошло и трёх страниц, как Сара поняла, что у неё просто нет знаний, чтобы читать её."
@@ -176,7 +176,7 @@ translate ru strings:
     new "Сара направилась в ту сторону, которую указал ей Разафель."
 
     old "Walking through the hallway, Sarah traced the hallway."
-    new "Пройдя по коридору, Сара следовала вдоль него."
+    new "Пройдя по коридору, Сара шла вдоль его стен."
 
     old "Eventually she reached the door that Razaphel had instructed her to seek out."
     new "Наконец она добралась до двери, которую Разафель велел ей найти."
@@ -248,7 +248,7 @@ translate ru strings:
     new "Я как раз думала о том же самом."
 
     old "Walking further, ever deeper into the vast library, Sarah finally came upon a clearing."
-    new "Пройдя дальше, всё глубже в огромную библиотеку, Сара наконец вышла на поляну."
+    new "Пройдя дальше, всё глубже в огромную библиотеку, Сара наконец вышла на открытое пространство."
 
     old "An open space, emerging from between the many book cases."
     new "Открытое пространство, возникшее между множества книжных шкафов."
@@ -293,7 +293,7 @@ translate ru strings:
     new "Ксантиппа был хозяином этого пространства, но связь была недавно разорвана."
 
     old "For lack of alternative, you would appear to be the current master."
-    new "За неимением альтернативы, ты, похоже, теперь хозяйка."
+    new "Раз нет другого выхода, ты, похоже, теперь хозяйка."
 
     old "Sarah felt a rush run through her body."
     new "Сара почувствовала, как по телу пробежала дрожь."
@@ -317,7 +317,7 @@ translate ru strings:
     new "На каком-то уровне, несмотря на всю странность, это имело для неё смысл."
 
     old "A library like this would take an army to maintain. Of course mages would find more efficient ways if magic allowed it."
-    new "Такая библиотека потребовала бы армии для обслуживания. Конечно, маги нашли бы более эффективные способы, если магия позволяла."
+    new "Чтобы содержать такую библиотеку, понадобилась бы армия. Конечно, маги нашли бы более эффективные способы, если магия позволяла."
 
     old "Sarah suddenly felt frightened by just how little she really knew of the magical world, now that she could no longer rely on Xan."
     new "Сара внезапно испугалась того, как мало она на самом деле знает о мире магии, теперь, когда не может больше полагаться на Ксана."
@@ -356,7 +356,7 @@ translate ru strings:
     new "«Краткое исследование этики» было впервые написано философом Лу-Фаном, родом из региона, известного вам как Дальний Восток."
 
     old "First drafted twelve-hundred years ago, the first translated copies made their way into the Union Kingdoms some two centuries later."
-    new "Впервые написанный двенадцатьсот лет назад, первые переведённые экземпляры попали в Союзные Королевства примерно два столетия спустя."
+    new "Впервые написанный около тысячи двухсот лет назад, первые переведённые экземпляры попали в Союзные Королевства примерно два столетия спустя."
 
     old "It was not until another century later, when the book reached the early Mythran empire, when it rose to prominence."
     new "Лишь ещё через столетие, когда книга достигла ранней Мифранской империи, она приобрела известность."
@@ -389,7 +389,7 @@ translate ru strings:
     new "Вокруг неё слышалось жужжание и движение библиотеки, словно она была живой."
 
     old "Perhaps it was, she thought, what did she really know if it."
-    new "Может, так и есть, подумала она, что она вообще об этом знает."
+    new "Может, так и есть, подумала она — что она вообще об этом знает."
 
     old "Opposite of her, Sarah could see Samayara strolling past some of the bookcases."
     new "Напротив неё Сара видела Самайру, прогуливающуюся мимо книжных шкафов."
@@ -491,7 +491,7 @@ translate ru strings:
     new "Нет более эффективных способов, чем те, что используются в этом пространстве."
 
     old "Sarah rolled her eyes. There was efficient, and then there was whatever this was."
-    new "Сара закатила глаза. Бывает эффективность, а бывает вот это вот всё."
+    new "Сара закатила глаза. Бывает эффективно, а бывает вот это."
 
     old "Holding the book in her hand, Sarah read the cover."
     new "Держа книгу в руке, Сара прочитала обложку."
@@ -554,7 +554,7 @@ translate ru strings:
     new "Наклонившись вперёд, Сара начала читать."
 
     old "Around her, she could slowly feel the other distractions from the library fade."
-    new "Вокруг неё она постепенно чувствовала, как другие отвлекающие факторы библиотеки исчезают."
+    new "Вокруг неё она постепенно чувствовала, как остальные отвлекающие звуки библиотеки исчезают."
 
     old "Before long, the small sounds and noises had faded."
     new "Вскоре мелкие звуки и шумы затихли."
@@ -1433,7 +1433,7 @@ translate ru strings:
     new "Она хотела застонать, но чувствовала его хватку на горле, заглушающую те немногие звуки, что она издавала."
 
     old "The jolts of pleasure caused her body to move, but against every movement, there was the counter-force for his bondage."
-    new "Разряды удовольствия заставляли её тело двигаться, но против каждого движения была противосила его уз."
+    new "Разряды удовольствия заставляли её тело двигаться, но против каждого движения было противодействие его уз."
 
     old "Her legs twitched, her arms flinched, her back arched."
     new "Её ноги дёргались, руки вздрагивали, спина выгибалась."
@@ -1448,7 +1448,7 @@ translate ru strings:
     new "Пока он продолжал проникать в неё глубже, Сара чувствовала, что уже стала влажной для него."
 
     old "Her skin now exposed to the air, Sarah felt liberated."
-    new "Кожа, теперь обнажённая, Сара чувствовала себя освобождённой."
+    new "С обнажённой кожей Сара чувствовала себя освобождённой."
 
     old "She softly offered up her gratitude to the spirit."
     new "Она тихо вознесла свою благодарность духу."

@@ -41,7 +41,7 @@ translate ru strings:
     new "Я всё ещё помню дни, проведённые на том пляже, среди руин."
 
     old "You were guarded of me back then, but I must return there now."
-    new "Тогда ты был осторожен со мной, но теперь я должен вернуться туда."
+    new "Тогда ты была осторожна со мной, но теперь я должен вернуться туда."
 
     old "Not merely for the memories."
     new "Не просто ради воспоминаний."
@@ -65,7 +65,7 @@ translate ru strings:
     new "Вместе с этим письмом ты найдёшь отчёт, предоставленный послушницей из Ордена."
 
     old "She analyzed magical paterns from one of our measuring stations deep in the Mythran heartland."
-    new "Она проанализировала магические паттерны с одной из наших измерительных станций в глубине Митрана."
+    new "Она проанализировала магические узоры с одной из наших измерительных станций в глубине Митрана."
 
     old "It describes an anomaly, produced by rhythmic magical pulses, eminating from the further North."
     new "В нём описывается аномалия, вызванная ритмичными магическими импульсами, исходящими с дальнего Севера."
@@ -74,7 +74,7 @@ translate ru strings:
     new "Эта станция находится близко к границе Митрана с джунглями Нефатим."
 
     old "As you are well aware, more than most even, this leaves few real potential sources for the origin of this signal."
-    new "Как тебе хорошо известно, даже больше, чем большинству, это оставляет мало реальных возможных источников происхождения этого сигнала."
+    new "Как тебе — больше, чем кому-либо — известно, возможных источников этого сигнала остаётся немного."
 
     old "Varany. The oldest city."
     new "Варани. Древнейший город."
@@ -83,7 +83,7 @@ translate ru strings:
     new "Орден оставил город в руинах, и справедливо. Тысячелетиями он был безмолвен."
 
     old "But you have perhaps infected me with your paranoia, and I cannot help but wonder...what if."
-    new "Но ты, возможно, заразил меня своей паранойей, и я не могу не задаваться вопросом...а что если."
+    new "Но ты, возможно, заразил меня своей паранойей, и я не могу не задаваться вопросом...а что, если."
 
     old "Our Order holds a near singular grip on magic in the world."
     new "Наш Орден обладает почти единоличной властью над магией в мире."
@@ -140,7 +140,7 @@ translate ru strings:
     new "Где Императрица сковала два мира в один..."
 
     old "Xan had told her stories from that place. And if she could believe it, he had even walked that city at its peak."
-    new "Ксан рассказывал ей истории об этом месте. И если верить ему, он даже гулял по этому городу в его расцвете."
+    new "Ксан рассказывал ей истории об этом месте. И если верить ему, он даже гулял по этому городу в пору его расцвета."
 
     old "And now the mysterious letter, speaking of unexplained phenomena..."
     new "А теперь таинственное письмо, говорящее о необъяснимых явлениях..."
@@ -194,7 +194,7 @@ translate ru strings:
     new "Мне пригодится любая помощь."
 
     old "Ooh! Sarah, I promise I won't be a burden, I promise!"
-    new "О! Сара, я обещаю, я не буду обузой, обещаю!"
+    new "Ого! Сара, я обещаю, я не буду обузой, обещаю!"
 
     old "Sarah smiled as she handed Samayra a bag of her own."
     new "Сара улыбнулась, протягивая Самайре её собственную сумку."

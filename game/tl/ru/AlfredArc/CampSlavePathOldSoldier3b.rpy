@@ -11,13 +11,13 @@ translate ru strings:
     new "Мелкие камешки царапали её колени."
 
     old "Bobbing her head up and down, sliding her tongue past her master's shaft, she worked his cock as she did most every morning."
-    new "Она ритмично двигала головой вверх-вниз, скользя языком по стволу господина, и работала с его членом, как делала почти каждое утро."
+    new "Она ритмично двигала головой вверх-вниз, скользя языком по стволу хозяина, и сосала его член, как делала почти каждое утро."
 
     old "He sat on the edge of the bed, leaning back, content with his life."
-    new "Он сидел на краю кровати, откинувшись назад, довольный своей жизнью."
+    new "Он сидел на краю кровати, откинувшись назад, довольный жизнью."
 
     old "On occasion, Sarah felt him grab the back of her head, guiding her tempo, instructing her to move faster, or slower, depending on whatever he seemed to want."
-    new "Временами Сара чувствовала, как он хватает её за затылок, направляя её темп, приказывая двигаться быстрее или медленнее — в зависимости от того, чего он хотел."
+    new "Временами Сара чувствовала, как он хватает её за затылок, задавая темп, приказывая двигаться быстрее или медленнее — в зависимости от того, чего он хотел."
 
     old "Part of her hated him, thought of resisting his instructions, whatever small form of rebellion she could offer."
     new "Часть её ненавидела его, думала о сопротивлении его указаниям — любой мелкой форме бунта, какую она могла предложить."
@@ -26,7 +26,7 @@ translate ru strings:
     new "Но всякий раз, когда она думала об этом, она знала, что это бесполезно."
 
     old "He guided her head up and down his cock because it pleased him. Refusing to do as he wanted would only prolong her work."
-    new "Он направлял её голову вверх-вниз по своему члену, потому что ему это нравилось. Отказ делать то, что он хотел, только продлил бы её работу."
+    new "Он водил её головой вверх-вниз по своему члену, потому что ему это нравилось. Отказ делать то, что он хотел, только продлил бы её работу."
 
     old "And was it really any real resistance if all she managed to do was end up down on her knees in front of him, sucking him off longer?"
     new "И была ли это вообще настоящая борьба, если всё, чего она добивалась, — это оказаться на коленях перед ним и отсосать ему ещё дольше?"
@@ -44,13 +44,13 @@ translate ru strings:
     new "Сара почувствовала, как его хватка на её затылке ослабла, когда он снова откинулся назад."
 
     old "Turning her eyes upwards, she looked at the man who considered himself her master."
-    new "Подняв глаза, она посмотрела на мужчину, который считал себя её господином."
+    new "Подняв глаза, она посмотрела на мужчину, который считал себя её хозяином."
 
     old "She found him looking back down on her."
     new "Она увидела, что он смотрит на неё сверху вниз."
 
     old "A kindly smile on his face, the most he could do to communicate his appreciation for her."
-    new "На его лице была добрая улыбка — всё, что он мог сделать, чтобы выразить свою признательность."
+    new "На его лице была добрая улыбка — всё, что он мог сделать, чтобы выразить ей свою признательность."
 
     old "His cock still firmly lodged in her mouth, Sarah knew that any defiance was meaningless."
     new "Его член всё ещё был крепко зажат в её рту, и Сара знала, что любое неповиновение бессмысленно."
@@ -86,31 +86,31 @@ translate ru strings:
     new "Тяжёлые, хотя она знала, что так будет недолго."
 
     old "Hearing his approving grunts overhead, Sarah finally committed herself to the final debasement."
-    new "Слыша его одобрительное кряхтение сверху, Сара наконец предалась последнему унижению."
+    new "Слыша его одобрительное кряхтение сверху, Сара наконец смирилась с последним унижением."
 
     old "Turning her eyes up to look at him, servile, she found him hungrily looking back down at her."
     new "Подняв на него раболепные глаза, она увидела, что он жадно смотрит на неё в ответ."
 
     old "Before had been the approving eyes of a content master, but now she could see that part of him that was universal."
-    new "Раньше это были одобрительные глаза довольного господина, но теперь она видела в нём ту часть, что была универсальна."
+    new "Раньше это были одобрительные глаза довольного хозяина, но теперь она видела в нём то, что свойственно всем мужчинам."
 
     old "Just a man, eager for the release only she could offer him."
     new "Просто мужчина, жаждущий разрядки, которую могла дать ему только она."
 
     old "Then she felt his release hitting the back of her throat."
-    new "Затем она почувствовала, как его семя ударило ей в горло."
+    new "Затем она почувствовала, как его семя брызнуло ей в горло."
 
     old "As always he gripped the back of her head, keeping in her place, forcing her to swallow all of it."
     new "Как всегда, он схватил её за затылок, удерживая на месте и заставляя проглотить всё до капли."
 
     old "The desert was no place for wasting things, and the master's seed was no exception."
-    new "В пустыне не принято ничего выбрасывать, и семя господина не было исключением."
+    new "В пустыне не принято ничего выбрасывать, и семя хозяина не было исключением."
 
     old "Sarah, now with some measure of practice and instruction by Mary, had come to manage such tasks."
     new "Сара, имея некоторую практику и наставления Мэри, уже научилась справляться с такими задачами."
 
     old "Swallowing with large gulps, she felt her master's seed crawl down her throat."
-    new "Глотая большими глотками, она чувствовала, как семя господина стекает по её горлу."
+    new "Глотая большими глотками, она чувствовала, как семя хозяина стекает по её горлу."
 
     old "It was plentiful and it was thick, and still, she managed."
     new "Его было много и оно было густым, но она всё равно справилась."
@@ -146,7 +146,7 @@ translate ru strings:
     new "Мэри отправили по каким-то делам, и она доверяла, что Сара справится."
 
     old "Sarah knew she could, because the only things expected of her were either to clean the house, work the kitchen, or service her master in the other room."
-    new "Сара знала, что справится, потому что от неё требовалось только убирать дом, работать на кухне или обслуживать господина в другой комнате."
+    new "Сара знала, что справится, потому что от неё требовалось только убирать дом, работать на кухне или обслуживать хозяина в другой комнате."
 
     old "It was only that last task that he ever paid any real attention to, and so Sarah knew she could manage."
     new "Только последней задаче он уделял хоть какое-то реальное внимание, так что Сара знала, что справится."
@@ -167,7 +167,7 @@ translate ru strings:
     new "Остался лишь призрачный привкус."
 
     old "Distractions were hard to come by, and so Sarah turned her attention to what little she had, kitchen work."
-    new "Отвлечься было трудно, поэтому Сара обратила внимание на то немногое, что у неё было, — работу по кухне."
+    new "Отвлечься было трудно, поэтому Сара сосредоточилась на том немногое, что у неё было, — работе по кухне."
 
     old "There was an predictable rhythm to most of her days."
     new "В большинстве её дней был предсказуемый ритм."
@@ -194,7 +194,7 @@ translate ru strings:
     new "Приготовить ему еду, напомнила она себе."
 
     old "Her master was not violent, or at least not by the standards of most tribesmen, at least that was what Mary had told her."
-    new "Её господин не был жестоким, по крайней мере по меркам большинства кочевников — так ей сказала Мэри."
+    new "Её хозяин не был жестоким, по крайней мере по меркам большинства племенников — так ей сказала Мэри."
 
     old "Mary often told her to consider herself lucky, compared to most slaves in the camp, but Sarah struggled to consider her current situation lucky."
     new "Мэри часто говорила ей считать себя везучей по сравнению с большинством рабов в лагере, но Саре было трудно считать своё положение удачным."
@@ -215,7 +215,7 @@ translate ru strings:
     new "Для Сары боль казалась почти второстепенной по сравнению с унижением."
 
     old "Sarah had been sure she would have known how she would have reacted to such a thing. Rage. Scream. Hit back."
-    new "Сара была уверена, что знала бы, как отреагировать на такое. Ярость. Крик. Удар в ответ."
+    new "Сара была уверена, что знает, как бы отреагировала на такое. Ярость. Крик. Удар в ответ."
 
     old "Instead, she had fallen to her knees and apologized to him."
     new "Вместо этого она упала на колени и извинилась перед ним."
@@ -251,7 +251,7 @@ translate ru strings:
     new "Сара закончила мыть горку овощей и начала нарезать их, как учила её Мэри."
 
     old "Sarah knew little of cooking, and less still of the cuisine of the tribesmen, but she learned as best she could."
-    new "Сара мало знала о готовке и ещё меньше о кухне кочевников, но училась как могла."
+    new "Сара мало знала о готовке и ещё меньше о кухне племенников, но училась как могла."
 
     old "This dish was easy enough."
     new "Это блюдо было достаточно простым."
@@ -287,7 +287,7 @@ translate ru strings:
     new "Так купцы привозили еду и питьё, которых не хватало в городе, и увозили золото и рабов."
 
     old "And the merchants grew fat and wealthy, making eager prey for the tribesmen one day in the distant future."
-    new "И купцы жирели и богатели, становясь лакомой добычей для кочевников в один далёкий день."
+    new "И купцы жирели и богатели, становясь лакомой добычей для племенников в один далёкий день."
 
     old "But for the time, everyone seemed content."
     new "Но пока все, казалось, были довольны."
@@ -326,7 +326,7 @@ translate ru strings:
     new "И всё же она не боялась."
 
     old "She did not fear because she also knew that in this society, she was the property of her master."
-    new "Она не боялась, потому что знала: в этом обществе она — собственность своего господина."
+    new "Она не боялась, потому что знала: в этом обществе она — собственность своего хозяина."
 
     old "And as his property, violating her would mean violating him, and none wanted to incur his wrath or owe him payment."
     new "И как его собственность, нарушить её означало нарушить его, и никто не хотел навлечь на себя его гнев или быть ему должным."
@@ -338,10 +338,10 @@ translate ru strings:
     new "И всё же смотреть на неё не было преступлением, и она видела, как мужчины делали это с жадностью."
 
     old "Likely she would run through their minds as they released whatever hungers they had on their own slaves or wives."
-    new "Вероятно, она проносилась в их головах, пока они утоляли свои голоды на собственных рабынях или жёнах."
+    new "Вероятно, она проносилась в их головах, пока они утоляли свой голод на собственных рабынях или жёнах."
 
     old "Suddenly Sarah found herself grateful that her master was covetous of her body and only kept her for himself."
-    new "Внезапно Сара почувствовала благодарность за то, что её господин ревниво относился к её телу и держал её только для себя."
+    new "Внезапно Сара почувствовала благодарность за то, что её хозяин ревниво относился к её телу и держал её только для себя."
 
     old "She carried the bucket of water back to the house, eager to hide away inside again."
     new "Она понесла ведро с водой обратно в дом, стремясь снова спрятаться внутри."
@@ -365,7 +365,7 @@ translate ru strings:
     new "Сара заставила себя улыбнуться ему."
 
     old "Hey...I just came back from getting some water."
-    new "Эй... я только что вернулась за водой."
+    new "Эй... я только что ходила за водой."
 
     old "She explained herself, even though he could not understand her language, she didn't know why she bothered."
     new "Она объяснилась, хотя он не понимал её языка, и она не знала, зачем утруждается."
@@ -398,10 +398,10 @@ translate ru strings:
     new "Она смотрела, как он невозмутимо ушёл в соседнюю комнату, исчезнув за дверью."
 
     old "For a moment, Sarah abhored the idea of having to fetch new water, but prepared herself to go out again."
-    new "На мгновение Сара возненавидела мысль о том, что придётся снова нести воду, но приготовилась снова выйти."
+    new "На мгновение Сара возненавидела мысль о том, что придётся снова нести воду, но приготовилась выйти опять."
 
     old "Then she heard her master barking from the other room."
-    new "Затем она услышала, как её господин рявкнул из другой комнаты."
+    new "Затем она услышала, как её хозяин рявкнул из другой комнаты."
 
     old "Some commands required no understanding of the words."
     new "Некоторые приказы не требуют понимания слов."
@@ -416,7 +416,7 @@ translate ru strings:
     new "Она застала его сидящим на табурете, низко к земле, уже раздетым."
 
     old "His skin had the complexion of leather, and somewhat the texture of it too, Sarah thought."
-    new "Его кожа имела цвет кожи и отчасти текстуру тоже, подумала Сара."
+    new "Цветом его кожа напоминала выделанную кожу, да и текстурой тоже, подумала Сара."
 
     old "He motioned for her to come closer. Immediately, Sarah did."
     new "Он подозвал её подойти ближе. Сара немедленно подчинилась."
@@ -440,7 +440,7 @@ translate ru strings:
     new "Сара опустилась на колени и нерешительно залезла в ведро, выуживая губку, уже плавающую в мыльной воде."
 
     old "He was taller and broader than her, regardless, but down on her knees so close to the floor, and him atop his stool, he towered over her."
-    new "Он был выше и шире неё, но стоя на коленях так близко к полу, а он на своём табурете, он возвышался над ней."
+    new "Он был выше и шире неё, но пока она стояла на коленях у самого пола, а он сидел на табурете, он возвышался над ней."
 
     old "Sarah swallowed whatever pride she had and pulled the sponge close to her."
     new "Сара проглотила остатки гордости и подтянула губку к себе."
@@ -461,7 +461,7 @@ translate ru strings:
     new "Даже без угрозы общества вокруг неё, именно это удерживало её на месте, знала Сара. Потому что, несмотря на его возраст, она не могла сравниться с ним физически."
 
     old "Her body was soft and weak in all the ways that his was rough and strong."
-    new "Её тело было мягким и слабым во всём, в чём его было грубым и сильным."
+    new "Её тело было мягким и слабым во всём том, в чём его тело было грубым и сильным."
 
     old "Even just the idea of fighting him was absurd."
     new "Даже сама мысль о борьбе с ним была абсурдной."
@@ -479,7 +479,7 @@ translate ru strings:
     new "Стоя за ним, она внезапно осознала, что никогда не видела его тело с этого ракурса."
 
     old "Scars upon scars upon scars covered the back of his body."
-    new "Шрамы на шрамах покрывали его спину."
+    new "Шрамы, шрамы и ещё раз шрамы покрывали его спину."
 
     old "He had scars all over his body, but these were the worst Sarah had seen on him yet."
     new "У него были шрамы по всему телу, но эти были худшими из тех, что Сара видела на нём."
@@ -488,7 +488,7 @@ translate ru strings:
     new "Как долго он жил так, задавалась она вопросом, чтобы собрать их столько?"
 
     old "Each battle adding to the collection of markings on his body. There must have been hundreds."
-    new "Каждая битва добавляла в коллекцию отметин на его теле. Их должны были быть сотни."
+    new "Каждая битва добавляла в коллекцию отметин на его теле. Должно быть, их были сотни."
 
     old "That he had reached such an age at all, was a testament to either his martial skill or his luck."
     new "То, что он вообще дожил до такого возраста, было свидетельством либо его воинского мастерства, либо его удачи."
@@ -539,10 +539,10 @@ translate ru strings:
     new "Понадобилось не больше нескольких движений губкой, прежде чем Сара увидела, что он почти возбуждён."
 
     old "With each motion, he grew and grew, until he was entirely erect."
-    new "С каждым движением он становился всё больше, пока не оказался полностью твёрдым."
+    new "С каждым движением он становился всё больше и больше, пока не оказался полностью твёрдым."
 
     old "Sarah had no illusions that this wasn't how this was going to end. Better to lean into it, she concluded."
-    new "У Сары не было иллюзий, что всё закончится не так. Лучше поддаться этому, заключила она."
+    new "У Сары не было иллюзий насчёт того, чем это закончится. Лучше поддаться, заключила она."
 
     old "Moving the sponge up and down his shaft, Sarah turned her eyes up towards him."
     new "Водя губкой вверх-вниз по его стволу, Сара подняла на него глаза."
@@ -596,13 +596,13 @@ translate ru strings:
     new "Он бы всё равно её получил."
 
     old "This was easier, she thought as she slid her hands up and down her master's cock."
-    new "Так было проще, думала она, скользя руками вверх-вниз по члену своего господина."
+    new "Так было проще, думала она, скользя руками вверх-вниз по члену своего хозяина."
 
     old "As she felt his cock grew even harder in the palm of her hands, she wondered how that was even possible."
     new "Почувствовав, как его член стал ещё твёрже в её ладонях, она удивилась, как это вообще возможно."
 
     old "Her master was old enough to be her father, older even than that, she thought."
-    new "Её господин был достаточно взрослым, чтобы быть ей отцом, даже старше, подумала она."
+    new "Её хозяин был достаточно взрослым, чтобы быть ей отцом, даже старше, подумала она."
 
     old "She had suspected that the appetites of men receded in age, but that had proven very wrong."
     new "Она подозревала, что аппетиты мужчин угасают с возрастом, но это оказалось совсем не так."
@@ -620,7 +620,7 @@ translate ru strings:
     new "И в этом месте, в этом обществе она по праву принадлежала ему."
 
     old "Sarah continued to jerk her master, the twitches and grunts of his body letting her know she served him well."
-    new "Сара продолжала дрочить своему господину, и подёргивания и кряхтение его тела давали ей знать, что она хорошо ему служит."
+    new "Сара продолжала дрочить своему хозяину, и подёргивания и кряхтение его тела давали ей знать, что она хорошо ему служит."
 
     old "She felt his powerful hands wrap around the back of her head."
     new "Она почувствовала, как его сильные руки обхватили её затылок."
@@ -638,7 +638,7 @@ translate ru strings:
     new "До всего этого она бы дрогнула. Запротестовала бы. Дала бы отпор."
 
     old "But now she had taken her master's cock into her mouth before she had even raised an objection inside of herself."
-    new "Но теперь она взяла член господина в рот, прежде чем даже мысленно возразила."
+    new "Но теперь она взяла член хозяина в рот, прежде чем даже мысленно возразила."
 
     old "She had simply done as he had instructed her."
     new "Она просто сделала так, как он ей указал."
@@ -665,7 +665,7 @@ translate ru strings:
     new "Она почувствовала, как он дёрнулся, вонзаясь бёдрами, загоняя свой член глубже ей в рот."
 
     old "Her mouth was simply another part of him to use, to fuck."
-    new "Её рот был просто ещё одной его частью для использования, для траха."
+    new "Её рот был просто ещё одной частью её тела, которую он мог использовать, трахать."
 
     old "Sarah only repositioned herself to make it easier for him to do so."
     new "Сара лишь сменила положение, чтобы ему было удобнее."
@@ -680,13 +680,13 @@ translate ru strings:
     new "Знать по малейшему подёргиванию и движению его тела, что от неё ожидается."
 
     old "Whatever discord she felt internally, Sarah noticed her master gave it little consideration."
-    new "Какие бы разногласия она ни чувствовала внутри, Сара заметила, что её господин не придавал им значения."
+    new "Какие бы разногласия она ни чувствовала внутри, Сара заметила, что её хозяин не придавал им значения."
 
     old "Only grunting at the pleasure that his new young slave offered him."
     new "Лишь кряхтя от удовольствия, которое дарила ему его новая юная рабыня."
 
     old "This was what he had fought all his battles for, and he claimed his right with as little hestitation as a worker claimed his wage."
-    new "Ради этого он сражался во всех битвах, и он требовал своё право с такой же лёгкостью, с какой работник требовал плату."
+    new "Ради этого он сражался во всех битвах, и он брал своё право с такой же лёгкостью, с какой работник получал плату."
 
     old "Sarah suddenly felt her head pulled back forcefully."
     new "Сара внезапно почувствовала, как её голову с силой оттянули назад."
@@ -716,13 +716,13 @@ translate ru strings:
     new "В таком положении её лоно было открыто ему, хотя тщеславия всё равно уже не осталось."
 
     old "She heard the shuffling sound of her master positioning himself behind her properly. And then..."
-    new "Она услышала шорох — её господин устраивался сзади как следует. А затем..."
+    new "Она услышала шорох — её хозяин устраивался сзади как следует. А затем..."
 
     old "Sarah cried out as he plunged his cock inside of her."
     new "Сара вскрикнула, когда он погрузил свой член в неё."
 
     old "Her master was well endowed, and despite his many trainings of her body, Sarah still struggled to take all of him."
-    new "Её господин был хорошо одарён, и, несмотря на многочисленные тренировки её тела, Сара всё ещё с трудом принимала его целиком."
+    new "У её хозяина был большой член, и, несмотря на многочисленные тренировки её тела, Сара всё ещё с трудом принимала его целиком."
 
     old "For the first time, she felt grateful that she was already wet for him."
     new "Впервые она почувствовала благодарность за то, что уже была влажной для него."
@@ -731,19 +731,19 @@ translate ru strings:
     new "Она вскрикивала, когда он проникал в неё всё глубже и глубже."
 
     old "Her master cared little for her pleasure, and she knew her cries would buy her not even a fraction of mercy."
-    new "Её господин мало заботился о её удовольствии, и она знала, что её крики не купят ей и капли пощады."
+    new "Её хозяин мало заботился о её удовольствии, и она знала, что её крики не купят ей и капли пощады."
 
     old "If anything, it only hardend him."
     new "Если уж на то пошло, это только сильнее его возбуждало."
 
     old "Sarah clung to the wall for balance as her master ravaged her from behind."
-    new "Сара цеплялась за стену, чтобы удержать равновесие, пока господин овладевал ею сзади."
+    new "Сара цеплялась за стену, чтобы удержать равновесие, пока хозяин овладевал ею сзади."
 
     old "With each thrust, she felt the pain fade and be replaced by pleasure."
     new "С каждым толчком боль утихала, сменяясь удовольствием."
 
     old "Her master was too big, too skilled and too virile. The pleasure came, even if Sarah did not want it."
-    new "Её господин был слишком большим, слишком искусным и слишком мужественным. Удовольствие приходило, даже если Сара его не хотела."
+    new "Её хозяин был слишком большим, слишком искусным и слишком мужественным. Удовольствие приходило, даже если Сара его не хотела."
 
     old "Before long, her cries had faded to moans, and she could hear herself echo against the walls of the washing room."
     new "Вскоре её крики сменились стонами, и она слышала, как эхо разносится по стенам моечной."
@@ -809,32 +809,32 @@ translate ru strings:
     new "Возможно, не сейчас. Возможно, даже не через месяц. Но учитывая, как часто он брал её. Как часто он кончал в неё. Это было лишь вопросом времени."
 
     old "The thought of it, now planted in her mind, seemed impossible to erase."
-    new "Мысль об этом, теперь засевшая в её сознании, казалась невозможной к удалению."
+    new "Мысль об этом, теперь засевшая в её сознании, казалась неизгладимой."
 
     old "For a moment, her mind raced considering the reality of it."
-    new "На мгновение её мысли понеслись, обдумывая реальность этого."
+    new "На мгновение её мысли заметались, обдумывая реальность этого."
 
     old "But exhaustion took over and she became to tired to worry about any of it."
-    new "Но усталость взяла своё, и она слишком устала, чтобы беспокоиться обо всём этом."
+    new "Но усталость взяла своё, и ей стало всё равно."
 
     old "As she felt him pull out of her, she could feel her insides now suddenly feel hollow, as if her body yearned for what he now denied her."
     new "Почувствовав, как он вышел из неё, она ощутила, что внутри вдруг стало пусто, словно её тело тосковало по тому, в чём он теперь ей отказывал."
 
     old "Loosened from his grip, she collapsed against the floor."
-    new "Ослабленная его хваткой, она рухнула на пол."
+    new "Когда он отпустил её, она рухнула на пол."
 
     old "Exhausted, laying against the wall, Sarah felt his seed flow past her legs."
     new "Измученная, лежа у стены, Сара чувствовала, как его семя стекает по её ногам."
 
     old "She watched her master sitting back on the stool."
-    new "Она смотрела, как её господин снова садится на табурет."
+    new "Она смотрела, как её хозяин снова садится на табурет."
 
     old "He reached down, grabbing the sponge, and threw it."
     new "Он наклонился, схватил губку и бросил её."
 
     old "Sarah felt it hit her body, and she understood there would be no rest."
-    new "Сара почувствовала, как она ударилась о её тело, и поняла: отдыха не будет."
+    new "Сара почувствовала, как губка ударилась о её тело, и поняла: отдыха не будет."
 
     old "There was no rest for slaves."
-    new "Для рабов отдыха не существует."
+    new "Для рабов отдыха нет."
 

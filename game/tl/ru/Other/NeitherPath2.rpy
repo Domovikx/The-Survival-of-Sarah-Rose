@@ -62,7 +62,7 @@ translate ru strings:
     new "Тем не менее, с заблокированной рекой войскам Марион будет сложнее оставаться на поле боя."
 
     old "Which also meant they would be more desperate to strike out before their supplies dwindled."
-    new "А это также означало, что они будут отчаяннее стремиться нанести удар, пока их припасы не истощились."
+    new "А это также означало, что они будут отчаяннее стремиться нанести удар, прежде чем их припасы истощатся."
 
     old "At every turn, Sarah saw the strategy shift and change. Each solution posed new problems."
     new "На каждом шагу Сара видела, как стратегия меняется. Каждое решение порождало новые проблемы."
@@ -92,7 +92,7 @@ translate ru strings:
     new "Каждый был связан руками и ногами со следующим."
 
     old "It took her a moment to realize, these were more children than adults. The oldest near the front was a woman, but even she was only Sarah's age, twenty or so, she estimated."
-    new "Ей потребовалось мгновение, чтобы осознать: здесь больше детей, чем взрослых. Самая старшая впереди была женщиной, но даже она была примерно ровесницей Сары, лет двадцати, прикинула она."
+    new "Ей потребовалось мгновение, чтобы осознать: здесь больше детей, чем взрослых. Самая старшая впереди была женщиной, но даже она была примерно ровесницей Сары, лет двадцати, предположила она."
 
     old "We caught these people trying to sneak out of the capital."
     new "Мы поймали этих людей, когда они пытались тайком покинуть столицу."
@@ -350,7 +350,7 @@ translate ru strings:
     new "Прежде чем солнце село, больше дюжины трупов раскачивались на верёвках у замка Рейнмир."
 
     old "Whispers among the people spread far and wide."
-    new "Шёпот среди людей распространился далеко и широко."
+    new "Шёпот среди людей разнёсся повсюду."
 
     old "If it was fear that Sarah hoped to instill, she had sown it far and wide."
     new "Если страх — вот что Сара надеялась внушить, то она посеяла его повсюду."

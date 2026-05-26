@@ -47,7 +47,7 @@ translate ru strings:
     new "Сара поворачивается к брату, глядя ему прямо в глаза. Его глаза красные от слёз, которые он от неё скрывает."
 
     old "We need to make him proud now. Remember: composure."
-    new "Теперь мы должны быть достойны его гордости. Помни: самообладание."
+    new "Теперь мы должны оправдать его гордость. Помни: самообладание."
 
     old "Thomas turns away from her, staring off into the distance, trying to look at nothing at all."
     new "Томас отворачивается от неё, уставившись в пустоту, пытаясь ни на что не смотреть."
@@ -65,7 +65,7 @@ translate ru strings:
     new "Томас, напротив, ушёл в себя. Он стал более мрачным, и иногда она находила его по ночам бродящим по тёмным коридорам замка."
 
     old "Sarah made a mental note, she needed to talk to her brother. It pained her to admit it, but he wasn't strong. He needed to know he could lean on her."
-    new "Сара сделала мысленную заметку: нужно поговорить с братом. Ей было больно признавать, но он был не силён. Он должен знать, что может опереться на неё."
+    new "Сара отметила про себя: нужно поговорить с братом. Ей было больно признавать, но он не был сильным. Он должен знать, что может опереться на неё."
 
     old "The events of the day proceeded. Priests read out the last rites. Some spoke words of comfort."
     new "События дня шли своим чередом. Священники читали отходные молитвы. Кто-то произносил слова утешения."
@@ -86,7 +86,7 @@ translate ru strings:
     new "Сара не хотела звучать цинично — она была уверена, что многие из них действительно так думали. Просто слова, не только эти, но любые слова, казались сейчас такими пустыми."
 
     old "Soon, she found herself subjected to a torrent of sympathies. It all became too much."
-    new "Вскоре на неё обрушился поток соболезнований. Всё стало чересчур."
+    new "Вскоре на неё обрушился поток соболезнований. Это стало чересчур."
 
     old "Thomas, I need to take a moment, please carry on without me."
     new "Томас, мне нужно минутку побыть одной. Пожалуйста, продолжай без меня."

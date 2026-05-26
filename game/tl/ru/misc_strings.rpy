@@ -154,7 +154,7 @@ translate ru strings:
     new "Гидеон"
 
     old "Gilead"
-    new "Гилэад"
+    new "Гилеад"
 
     old "Gorak"
     new "Горак"

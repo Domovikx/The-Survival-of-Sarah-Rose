@@ -119,10 +119,10 @@ translate ru strings:
     new "Саре нравилось не гадать о его эмоциях."
 
     old "Well, we also really liked it, Sarah. Mercenary work can get more boring than you might imagine, and we've been stationed here for a while now."
-    new "Что ж, нам тоже очень нравилось, Сара. Наёмническая работа может быть скучнее, чем ты думаешь, а we здесь уже какое-то время."
+    new "Что ж, нам тоже очень нравилось, Сара. Наёмническая работа может быть скучнее, чем ты думаешь, а мы здесь уже какое-то время."
 
     old "So it was fun to get some distraction."
-    new "Так что было весело получить отвлечение."
+    new "Так что было весело немного отвлечься."
 
     old "Ephraim cleared his throat."
     new "Эфраим прочистил горло."
@@ -209,7 +209,7 @@ translate ru strings:
     new "Ты в порядке, Калеб?"
 
     old "Somewhat embarassed, Caleb responds."
-    new "Несколько смущённый, отвечает Калеб."
+    new "Калеб отвечает, несколько смущённый."
 
     old "Yes, it's nothing, ignore it."
     new "Да, ничего, не обращай внимания."
@@ -464,5 +464,5 @@ translate ru strings:
     new "Напившись, они побрели в палатку и провалились в глубокий и сладкий сон."
 
     old "The wine guaranteed them easy dreams."
-    new "Вино обеспечило лёгкие сны."
+    new "Вино подарило им лёгкие сны."
 

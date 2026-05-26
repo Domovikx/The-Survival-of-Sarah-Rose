@@ -59,7 +59,7 @@ translate ru strings:
     new "К тому же Сара и сама ещё толком не знала, что об этом думать."
 
     old "Do you have an estimate?"
-    new "У вас есть примерные сроки?"
+    new "У тебя есть примерные сроки?"
 
     old "Maybe a week to wrap up the last excavations."
     new "Где-то неделя, чтобы завершить последние раскопки."
@@ -116,7 +116,7 @@ translate ru strings:
     new "Ключ в том, чтобы найти баланс. Чтобы и он был доволен, и ты."
 
     old "And whose going to keep you happy?"
-    new "А кто будет делать счастливой вас?"
+    new "А кто будет делать счастливой тебя?"
 
     old "Ooh Sarah, you've become so many times more entertaining then when I last saw you."
     new "Оу, Сара, ты стала во много раз занятнее, чем при нашей последней встрече."
@@ -299,7 +299,7 @@ translate ru strings:
     new "Так много в ней было спектакля. Сара не сомневалась, что леди Кэролин прекрасно знает, как выглядит и как её воспринимают другие."
 
     old "I don't think you look so old."
-    new "Я не считаю, что ты выглядишь так уж старо."
+    new "Я не считаю, что ты выглядишь такой уж старой."
 
     old "And I don't think you look quite so young as when we last met either."
     new "А я не считаю, что ты выглядишь так же молодо, как при нашей последней встрече."
@@ -746,7 +746,7 @@ translate ru strings:
     new "Что-то было не так. Она не могла сказать что, но Сара чувствовала это."
 
     old "Call upon Razaphel"
-    new "Призвать Разафела"
+    new "Призвать Разафеля"
 
     old "Sarah closed her eyes and called forth the spirit, as she had only a day before."
     new "Сара закрыла глаза и призвала духа, как делала всего день назад."
@@ -755,7 +755,7 @@ translate ru strings:
     new "Без усилий он всплыл в её сознании."
 
     old "Tell me, Razaphel. Is that your doing?"
-    new "Скажи мне, Разафел. Это твоих рук дело?"
+    new "Скажи мне, Разафель. Это твоих рук дело?"
 
     old "I have worked a lifetime to bring you towards me, but I had to move in secret."
     new "Я трудился всю жизнь, чтобы привести тебя ко мне, но должен был действовать тайно."
@@ -788,7 +788,7 @@ translate ru strings:
     new "Всю жизнь он шёл по узкому пути и держал себя в узде. Теперь, так близко к своему последнему мигу, он рассыпается."
 
     old "Razaphel! Undo this!"
-    new "Разафел! Останови это!"
+    new "Разафель! Останови это!"
 
     old "The damage I have done to him cannot be undone in a moment."
     new "Причинённый мной урон невозможно исправить в одно мгновение."

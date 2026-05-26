@@ -11,7 +11,7 @@ translate ru strings:
     new "Перед ней лежали книги по политической философии."
 
     old "Sarah had read her share, growing up in Castle Reinmeer."
-    new "Сара прочитала немало, выросши в замке Рейнмир."
+    new "Сара прочитала немало, выросшая в замке Рейнмир."
 
     old "Still, she felt wholly unprepared for the question before her."
     new "И всё же она чувствовала себя совершенно неподготовленной к вопросу, стоявшему перед ней."
@@ -20,7 +20,7 @@ translate ru strings:
     new "Розанна всегда балансировала между интересами знати и простолюдинов."
 
     old "It was a balance that had worked well enough over the centuries to maintain a peace."
-    new "Это было равновесие, которое веками работало достаточно хорошо, чтобы сохранять мир."
+    new "Веками этот баланс достаточно хорошо поддерживал мир."
 
     old "Marion's uprising had shattered that fact."
     new "Восстание Марион разрушило этот порядок."
@@ -35,7 +35,7 @@ translate ru strings:
     new "Трудные вопросы, долгое время сдерживаемые укоренившейся властью, внезапно оказались открыты для обсуждения."
 
     old "The increased social mobility of the commonfolk had motivated many to develop new industries, adding to the prosperity of her nation."
-    new "Возросшая социальная мобильность простолюдинов побудила многих развивать новые производства, увеличивая процветание её нации."
+    new "Возросшая социальная мобильность простолюдинов побудила многих развивать новые производства, способствуя процветанию её нации."
 
     old "Yet..."
     new "И всё же..."
@@ -62,7 +62,7 @@ translate ru strings:
     new "Сара знала, что лучшим вариантом будет встать на сторону знати."
 
     old "Her country had been nearly torn apart by neglecting them once. She would not make that mistake again."
-    new "Её страна уже была почти разорвана на части из-за пренебрежения к ним однажды. Она не повторит эту ошибку."
+    new "Её страна уже чуть не развалилась, когда знатью однажды пренебрегли. Она не повторит эту ошибку."
 
     old "And would it not also be better for the common folk, if she could thus prevent more bloodshed?"
     new "И разве не будет это лучше и для простых людей, если она сможет таким образом предотвратить ещё больше кровопролития?"
@@ -77,7 +77,7 @@ translate ru strings:
     new "Сара знала в глубине души, что может быть верна только простым людям."
 
     old "They were the true heart of her nation. The people that she was tasking with ruling."
-    new "Они были истинным сердцем её нации. Люди, которыми она была призвана править."
+    new "Они были истинным сердцем её нации. Народ, которым она призвана править."
 
     old "It was more than simply a desire. It was her divine obligation."
     new "Это было больше, чем просто желание. Это был её божественный долг."

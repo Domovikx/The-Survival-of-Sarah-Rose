@@ -26,7 +26,7 @@ translate ru strings:
     new "Отряд наёмников должен был выступить обратно в Рахайяль вместе с мифранским войском."
 
     old "Their vast supplies and larger force would make the march back to Rahayal significantly easier."
-    new "Их огромные запасы и превосходящая сила делали поход обратно в Рахайяль значительно легче."
+    new "Их огромные запасы и превосходящие силы делали поход обратно в Рахайяль значительно легче."
 
     old "In addition, their maps were far better than any they had. Combined with skilled navigators, they were likely to be out of the desert in little time at all."
     new "К тому же их карты были гораздо лучше любых, что были у них. В сочетании с опытными проводниками они могли покинуть пустыню в кратчайшие сроки."
@@ -53,7 +53,7 @@ translate ru strings:
     new "Сара вздохнула. Это была правда."
 
     old "Kate had been given some benefits, growing up in the castle, but she had been taught to read and write for what a servant girl might be expected to do."
-    new "Кейт получила некоторые привилегии, выросши в замке, но её учили читать и писать ровно настолько, насколько это могло потребоваться служанке."
+    new "Кейт получила некоторые привилегии, выросшая в замке, но её учили читать и писать ровно настолько, насколько это могло потребоваться служанке."
 
     old "Order lists for kitchen supplies. Basic work instructions."
     new "Списки заказов для кухонных запасов. Основные рабочие инструкции."

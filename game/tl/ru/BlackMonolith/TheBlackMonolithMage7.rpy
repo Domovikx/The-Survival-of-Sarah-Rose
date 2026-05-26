@@ -260,7 +260,7 @@ translate ru strings:
     new "Рядом с ним — его столь же упитанная и счастливая жена."
 
     old "Ladies, gentlemen, welcome to tonight's monthly Lower-Ward dance."
-    new "Дамы и господа, добро пожаловать на сегодняшний ежемесячный танец Нижнего Района."
+    new "Дамы и господа, добро пожаловать на сегодняшний ежемесячный танцевальный вечер Нижнего Района."
 
     old "The Lower-Ward, out near the docks. Not the best part of town, but far from the worst. Working people most of all."
     new "Нижний Район, у доков. Не лучшая часть города, но далеко не худшая. В основном рабочие люди."
@@ -287,7 +287,7 @@ translate ru strings:
     new "Кто-то в толпе выкрикнул, вызвав смех."
 
     old "She may look nice, but she used to work the fish gutting houses, so she ain't got no trouble guttin on of ya'll."
-    new "Она может выглядеть мило, но раньше работала в разделочной рыбы, так что ей ничего не стоит распотрошить кого-нибудь из вас."
+    new "Она может выглядеть мило, но раньше работала на разделке рыбы, так что ей ничего не стоит распотрошить кого-нибудь из вас."
 
     old "More laughter from the crowd."
     new "Ещё больше смеха из толпы."
@@ -332,7 +332,7 @@ translate ru strings:
     new "Сара похлопала Самайру по рукам."
 
     old "Sure, but tonight should be about having fun."
-    new "Конечно, но сегодня ночь должна быть о веселье."
+    new "Конечно, но сегодняшняя ночь для веселья."
 
     old "Together, the two watched the crowd that had taken to the dance floor."
     new "Вдвоём они смотрели на толпу, заполнившую танцпол."
@@ -395,7 +395,7 @@ translate ru strings:
     new "Мгновение она держала позу, как статуя."
 
     old "Those around her, until now acceptable, suddenly seemed amateur by comparison."
-    new "Те, кто были вокруг неё, до этого приемлемые, вдруг показались любителями по сравнению."
+    new "Те, кто были вокруг неё, до этого сносные, вдруг показались любителями по сравнению."
 
     old "Then the music began anew."
     new "Затем музыка заиграла снова."
@@ -410,7 +410,7 @@ translate ru strings:
     new "Шаги были быстрее. Стремительнее, чем, возможно, было принято в Баграде."
 
     old "Sarah watched as Samayra easily matched their speed, her body twisting to the rhythm of the music."
-    new "Сара смотрела, как Самайра легко соответствовала их скорости, её тело извивалось в ритме музыки."
+    new "Сара смотрела, как Самайра легко соответствовала их скорости, её тело изгибалось в ритме музыки."
 
     old "Her dress flowed behind her, tracing her ever movement."
     new "Её платье развевалось позади, повторяя каждое движение."
@@ -425,7 +425,7 @@ translate ru strings:
     new "Внезапно Сара увидела, как Самайра чуть не врезалась в другую девушку."
 
     old "But rather than an actual clash, the two easily adjusted and adapted their performance to each other."
-    new "Но вместо столкновения они легко подстроились и адаптировали своё выступление друг под друга."
+    new "Но вместо столкновения они легко подстроились и приноровились друг к другу."
 
     old "Suddenly the two were dancing together, their steps appearing planned and trained, though entirely incidental."
     new "Внезапно они танцевали вместе, их шаги казались спланированными и отрепетированными, хотя были совершенно случайными."
@@ -440,7 +440,7 @@ translate ru strings:
     new "Как всё её тело вращалось буквально на кончиках пальцев."
 
     old "Her flushed face, giddy with excitement at doing what she did best."
-    new "Её раскрасневшееся лицо, пьяное от возбуждения от занятия тем, что у неё получалось лучше всего."
+    new "Её раскрасневшееся лицо, опьянённое восторгом от занятия тем, что у неё получалось лучше всего."
 
     old "In a brief moment, Sarah caught herself being jealous of the random strange girl that had caught Samayra's eye if only for one dance."
     new "На краткий миг Сара поймала себя на ревности к случайной незнакомке, которая привлекла внимание Самайры, пусть и на один танец."
@@ -521,7 +521,7 @@ translate ru strings:
     new "Сара! Иди танцевать со мной!"
 
     old "Sarah put the cup down and got up. If she didn't go dance, she'd never hear the end of it."
-    new "Сара поставила кружку и встала. Если она не пойдёт танцевать, она никогда об этом не услышит."
+    new "Сара поставила кружку и встала. Если она не пойдёт танцевать, она потом покоя не даст."
 
     old "Slowly she weaved her way through the crowd until she came upon Samayra."
     new "Медленно она пробиралась сквозь толпу, пока не наткнулась на Самайру."
@@ -557,7 +557,7 @@ translate ru strings:
     new "Ты можешь быть моей партнёршей, верно?"
 
     old "I think it's more like a...boyfriend and girlfriend kind of idea."
-    new "Кажется, это больше... в стиле парня и девушки."
+    new "Кажется, это больше... для пар, понимаешь — парень и девушка."
 
     old "She watched Samayra shrug."
     new "Она увидела, как Самайра пожала плечами."
@@ -569,7 +569,7 @@ translate ru strings:
     new "Сара почувствовала, что краснеет. С этим сложно было спорить."
 
     old "If their inconvenient partnering was a problem, it didn't seem to raise much of any. The mood in the bar remained amicable."
-    new "Если их нестандартное партнёрство и было проблемой, это, похоже, никого не волновало. Атмосфера в баре оставалась дружелюбной."
+    new "Если их нетрадиционное партнёрство и было проблемой, это, похоже, никого не волновало. Атмосфера в баре оставалась дружелюбной."
 
     old "The first notes for the song were struck."
     new "Прозвучали первые ноты песни."
@@ -614,7 +614,7 @@ translate ru strings:
     new "Сначала неуклюже, но с каждым шагом она чувствовала лёгкие прикосновения и подталкивания руки Самайры на своей спине."
 
     old "A little slower. A little faster. One extra step. A spin."
-    new "Немного медленнее. Немного быстрее. Один лишний шаг. Поворот."
+    new "Немного медленнее. Немного быстрее. Ещё один шаг. Поворот."
 
     old "Sarah was stunned at how much the girl was able to communicate with only the touch of a hand. The press of a finger."
     new "Сара была поражена тем, как много девушка могла передать одним лишь прикосновением руки. Нажатием пальца."
@@ -686,19 +686,19 @@ translate ru strings:
     new "Она подалась вперёд и поцеловала Самайру в ответ, прежде чем осознала, что делает."
 
     old "In Samayra, she found an eager and receptive partner to her kiss, her own tongue matched by hers."
-    new "В Самайре она нашла нетерпеливую и восприимчивую партнёршу для поцелуя, её собственный язык встретил ответный."
+    new "В Самайре она нашла нетерпеливую и отзывчивую партнёршу для поцелуя, и их языки встретились."
 
     old "When their kiss finally broke, Sarah leaned back and gazed in wonder at Samayra."
     new "Когда их поцелуй наконец прервался, Сара откинулась назад и с изумлением посмотрела на Самайру."
 
     old "In her eyes, she saw reflected and equal amazement."
-    new "В её глазах она увидела отражённое и равное изумление."
+    new "В её глазах она увидела такое же изумление."
 
     old "For a brief moment, each wondered at how one such as the other, might ever love one such as them."
-    new "На краткий миг каждая задумалась, как такая, как другая, могла полюбить такую, как они."
+    new "На краткий миг каждая задумалась, как одна из них могла полюбить другую."
 
     old "The inferiority that one feels near a lover, close to each of their hearts."
-    new "Чувство неполноценности, которое испытываешь рядом с любимым, близкое сердцу каждого."
+    new "Чувство неполноценности, которое испытываешь рядом с любимым, знакомое каждому влюблённому."
 
     old "And then the moment passed."
     new "И затем момент прошёл."
@@ -737,7 +737,7 @@ translate ru strings:
     new "Самайра повернулась и ушла, не сказав больше ни слова."
 
     old "Remaining alone by herself in the study, Sarah felt her heart sink."
-    new "Оставшись одна в кабинете, Сара почувствовала, как сердце упало."
+    new "Оставшись одна в кабинете, Сара почувствовала, как её сердце упало."
 
     old "Perhaps she was too strict on the girl."
     new "Возможно, она была слишком строга с девушкой."

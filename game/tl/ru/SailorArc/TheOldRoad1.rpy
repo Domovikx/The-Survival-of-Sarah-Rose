@@ -209,7 +209,7 @@ translate ru strings:
     new "Когда он закончил, она послушно принялась за свои задания."
 
     old "Though the work was hard, Sarah found a certain gratitude in doing it."
-    new "Хотя работа была тяжёлой, Сара находила в ней своего рода благодарность."
+    new "Хотя работа была тяжёлой, Сара испытывала своеобразную благодарность за это."
 
     old "She knew that out of everyone on the cart, she had the least right to be here."
     new "Она знала, что из всех на телеге у неё меньше всего прав здесь находиться."
@@ -287,7 +287,7 @@ translate ru strings:
     new "Сара краем глаза заметила, что Сигмунд одобрительно кивает ей."
 
     old "Everyone gathered around the fire, it's heat a welcome relief."
-    new "Все собрались вокруг костра, его тепло было долгожданным облегчением."
+    new "Все собрались вокруг костра — его тепло было таким желанным."
 
     old "Sarah finished cooking the second meal she'd ever made in her life, and passed the food around."
     new "Сара закончила готовить вторую еду в своей жизни и раздала её."
@@ -329,7 +329,7 @@ translate ru strings:
     new "Он имеет в виду, что у нас было не так много проблем, потому что мы ещё не зашли так далеко по Старой дороге."
 
     old "This part, so far, it's mostly just the Lethram hinterlands."
-    new "Эта часть пока что — в основном просто летрамские окраины."
+    new "Эта часть пока что — в основном летрамская глубинка."
 
     old "It's not safe compared to most of the world, but the city guards will occasionally patrol the roads if they notice too many bandits."
     new "Здесь небезопасно по сравнению с большей частью мира, но городская стража иногда патрулирует дороги, если замечает слишком много бандитов."
@@ -554,7 +554,7 @@ translate ru strings:
     new "Она могла проследить дорогу до того места, где она исчезала на краю леса."
 
     old "A creeping feeling came over her, as though something from inside the forest was looking back at her."
-    new "Её охватило неприятное чувство, будто что-то из леса смотрело на неё в ответ."
+    new "Её охватило неприятное чувство, будто что-то из леса смотрит прямо на неё."
 
     old "Sarah shivered and pushed the idea from her mind."
     new "Сара поёжилась и выбросила эту мысль из головы."
@@ -569,7 +569,7 @@ translate ru strings:
     new "С тех пор как она вышла на дорогу, Сара поняла, что провела большую часть жизни в компании других."
 
     old "Growing up in Castle Reinmeer, she could not remember any day where she had ever been alone."
-    new "Выросшая в замке Рейнмир, она не помнила ни дня, когда была одна."
+    new "Сара выросла в замке Рейнмир и не помнила ни дня, когда была одна."
 
     old "Traveling to Lethram with Kate, equally, she was constantly in the presence of others."
     new "Путешествуя в Летрам с Кейт, она тоже постоянно была в компании других."
@@ -953,7 +953,7 @@ translate ru strings:
     new "Ничего захватывающего, боюсь. Родился в баградской дворянской семье."
 
     old "My father inherited a fortune, and by the time he fell over and left it to me, there wasn't much left."
-    new "Мой отец унаследовал состояние, но к тому времени, как он откинулся и оставил его мне, осталось не так много."
+    new "Мой отец унаследовал состояние, но к тому времени, как он помер и оставил его мне, осталось не так много."
 
     old "Spend a few years drinking and whoring it all away, and by the time I sobered up enough to think about my future, most of it was gone."
     new "Несколько лет я пропивал и прогуливал остатки, а к тому времени, как протрезвел настолько, чтобы задуматься о будущем, большая часть уже исчезла."
@@ -1007,7 +1007,7 @@ translate ru strings:
     new "Жизнь на дороге, извини за это."
 
     old "She slowly heard his stream subside and the sound of his clothes shifting as he put away his member."
-    new "Она слышала, как его струя постепенно стихла, и звук одежды, когда он убирал свой член."
+    new "Она слышала, как его струя постепенно стихла, и звук одежды, когда он убирал свой член обратно в штаны."
 
     old "She turned around when she heard him walk up to her."
     new "Она обернулась, услышав, как он подошёл к ней."
@@ -1031,7 +1031,7 @@ translate ru strings:
     new "Давно пора было вспомнить хотя бы парочку."
 
     old "The two sauntered back to camp back along the road they came."
-    new "Они вдвоём направились обратно в лагерь по той же дороге."
+    new "Они вдвоём неспешно направились обратно в лагерь по той же дороге."
 
     old "Back at the camp, they found everyone still sleeping."
     new "Вернувшись в лагерь, они застали всех ещё спящими."
@@ -1079,7 +1079,7 @@ translate ru strings:
     new "Можешь притворяться обычной девушкой сколько угодно, но, в отличие от тех двух идиотов, я обращаю внимание."
 
     old "As much as she hid from them, just as much she couldn't ever hope to hide. He was right about that."
-    new "Как бы она ни пряталась, она не могла надеяться спрятаться. Он был прав."
+    new "Как бы она ни пряталась, скрыться всё равно бы не вышло. Он был прав."
 
     old "I don't pry into your life, how about you stay out of mine."
     new "Я не лезу в твою жизнь — может, и ты не лезь в мою."
@@ -1088,7 +1088,7 @@ translate ru strings:
     new "Сакар торжественно кивнул."
 
     old "I think we should head back to camp. It's already late, and you need your sleep if you want to keep up on the road."
-    new "Думаю, нам пора вернуться в лагерь. Уже поздно, и тебе нужно выспаться, если хочешь идти в ногу в дороге."
+    new "Думаю, нам пора вернуться в лагерь. Уже поздно, и тебе нужно выспаться, если хочешь поспевать в дороге."
 
     old "Let's head back"
     new "Пошли обратно"

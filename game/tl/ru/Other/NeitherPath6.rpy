@@ -50,7 +50,7 @@ translate ru strings:
     new "Её стены стояли высокие и широкие, защищая со всех сторон."
 
     old "A river ran past the other end, making only a frontal attack a possibility."
-    new "С другой стороны протекала река, оставляя возможность только лобовой атаки."
+    new "С другой стороны протекала река, оставляя возможность только для лобовой атаки."
 
     old "It was as much a fortress as it was a death trap."
     new "Это была одновременно и крепость, и смертельная ловушка."
@@ -146,7 +146,7 @@ translate ru strings:
     new "Я знаю, тебе придётся участвовать в битве..."
 
     old "But please, tell me that you will stay safe."
-    new "Но, пожалуйста, обещай мне, что ты останешься в безопасности."
+    new "Но, пожалуйста, скажи мне, что ты останешься в безопасности."
 
     old "I'll survive, trust me on that too."
     new "Я выживу, поверь мне и в этом."
@@ -188,7 +188,7 @@ translate ru strings:
     new "Но если нам удастся точно попасть из одной из пушек, это может превратить всю крепость в адское пламя."
 
     old "Sarah listened intently as her warmaster went over the strategy."
-    new "Сара внимательно слушала, пока её военный мастер излагал стратегию."
+    new "Сара внимательно слушала, пока её военачальник излагал стратегию."
 
     old "What about Thomas?"
     new "А как же Томас?"
@@ -224,7 +224,7 @@ translate ru strings:
     new "Я выдержу холод."
 
     old "She watched as her warmaster turned to leave, going back down the hill."
-    new "Она смотрела, как её военный мастер развернулся и пошёл вниз с холма."
+    new "Она смотрела, как её военачальник развернулся и пошёл вниз с холма."
 
     old "He wasn't there for more than a moment before officers swarmed him with all manner of questions, which he seemed to take in stride."
     new "Не успел он отойти, как офицеры набросились на него с самыми разными вопросами, которые он, казалось, воспринимал спокойно."
@@ -476,7 +476,7 @@ translate ru strings:
     new "Если ты причинишь вред моему брату, для тебя это плохо кончится."
 
     old "Marion broke out laughing, there was something manic about him. His voice echoed in the otherwise silent hall, reinforcing his madness."
-    new "Марион расхохотался, в нём было что-то маниакальное. Его голос эхом разнёсся по в остальном тихому залу, подчёркивая его безумие."
+    new "Марион расхохотался, в нём было что-то маниакальное. Его голос эхом разнёсся по залу, который в остальном хранил молчание, подчёркивая его безумие."
 
     old "You and your family have exploited my family for centuries."
     new "Ты и твоя семья веками эксплуатировали мою семью."
@@ -512,7 +512,7 @@ translate ru strings:
     new "Сара смотрела, как он подносит кинжал ближе к горлу её брата."
 
     old "Reason with him"
-    new "Поговори с ним рассудительно"
+    new "Попытайся образумить его"
 
     old "Sarah knew she had to act."
     new "Сара знала, что должна действовать."
@@ -605,7 +605,7 @@ translate ru strings:
     new "Если ты причинишь вред моему брату, клянусь, тебя повесят за это."
 
     old "So let him go. Let him go now and you have my word, you will be allowed to live in exile outside of Rosanna."
-    new "Так что отпусти его. Отпусти сейчас, и ты имеешь моё слово — тебе позволят жить в изгнании за пределами Розанны."
+    new "Так что отпусти его. Отпусти сейчас, и у тебя есть моё слово — тебе позволят жить в изгнании за пределами Розанны."
 
     old "The words broke what little resolve Marion had left."
     new "Эти слова сломили последнюю решимость Мариона."
@@ -749,7 +749,7 @@ translate ru strings:
     new "Проходит больше часа, прежде чем кто-то решается попытаться отвести её."
 
     old "Her warmaster has his arm around her shoulder."
-    new "Её военный мастер обнимает её за плечо."
+    new "Её военачальник обнимает её за плечо."
 
     old "The soldiers will bring him with us, back home, to Castle Reinmeer, where he belongs. His body will be safe there, alright?"
     new "Солдаты повезут его с нами, домой, в замок Рейнмир, где ему место. Его тело будет там в безопасности, хорошо?"

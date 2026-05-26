@@ -188,7 +188,7 @@ translate ru strings:
     new "Всё в порядке, я не привередлива в еде."
 
     old "She didn't recognize any of the foods, but the smell of them was promising."
-    new "Она не узнала ни одного блюда, но их запах был многообещающим."
+    new "Она не узнала ни одного блюда, но их запах был заманчивым."
 
     old "Sarah grabbed something that appeared bread-like to her."
     new "Сара взяла что-то, похожее на хлеб."
@@ -218,7 +218,7 @@ translate ru strings:
     new "Вскоре её рот словно охватил огонь."
 
     old "Sarah looked at Jaeid with a panicked expression, but only saw him laughing."
-    new "Сара взглянула на Джаида с паническим выражением лица, но увидела лишь его смех."
+    new "Сара взглянула на Джаида с паническим выражением лица, но увидела лишь, что он смеётся."
 
     old "I'm sorry, Sarah. Here, drink this."
     new "Прости, Сара. Вот, выпей это."
@@ -263,7 +263,7 @@ translate ru strings:
     new "Сара поняла, что впервые по-настоящему забыла, где находится."
 
     old "Without realizing, she had allowed herself to feel a moment of normalcy. She instantly felt guilty for it."
-    new "Сама того не заметив, она позволила себе почувствовать момент нормальности. И сразу же ощутила вину за это."
+    new "Сама того не заметив, она позволила себе почувствовать момент обыденности. И сразу же почувствовала себя виноватой."
 
     old "You are being nice to me. You and Jasmine both. It is more than I deserve."
     new "Вы так добры ко мне. И ты, и Жасмин. Это больше, чем я заслуживаю."
@@ -395,7 +395,7 @@ translate ru strings:
     new "Джаид, казалось, искренне верил в это общество, в добродетели, которые оно проповедовало."
 
     old "And how could he not, Sarah thought. His life had been transformed from a lowly servant to a man who had the Khan's ear."
-    new "И как он мог не верить, думала Сара. Из жалкого слуги он превратился в человека, имеющего доступ к уху самого хана."
+    new "И как он мог не верить, думала Сара. Из жалкого слуги он превратился в человека, к которому прислушивается сам хан."
 
     old "But he could she not hate them, Sarah thought. She who had been made from a princess to a slave."
     new "Но как она могла не ненавидеть их, думала Сара. Она, превратившаяся из принцессы в рабыню."

@@ -41,7 +41,7 @@ translate ru strings:
     new "Это напомнило ей. Она была так занята в последнее время, что запустила молитвы."
 
     old "Sarah was not a zealot by any means, perhaps not even fully religious, but a part of her did always hesitate about rejecting it altogether."
-    new "Сара не была фанатичкой ни в коем случае, возможно, даже не полностью религиозной, но часть её всегда колебалась отвергать это полностью."
+    new "Сара отнюдь не была фанатичкой, возможно, даже не вовсе религиозной, но часть её всегда колебалась, отвергая это целиком."
 
     old "What was the harm in praying, after all. It would be, if anything, a brief moment of peace."
     new "Какой вред в молитве, в конце концов. Это был бы, по крайней мере, короткий момент покоя."
@@ -80,7 +80,7 @@ translate ru strings:
     new "Сара посмотрела на мужа."
 
     old "Varga stood tall. Proud. Strong."
-    new "Варга стоял высокий. Гордый. Сильный."
+    new "Варга стоял во весь рост. Гордый. Сильный."
 
     old "Her love for the man had never faded, only grown stronger."
     new "Её любовь к этому мужчине никогда не ослабла, только стала сильнее."
@@ -104,7 +104,7 @@ translate ru strings:
     new "Она увидела, как он указал на новую пару, которая подошла."
 
     old "Nobles, those who had taken the right side during the revolution and now saw their stars rise."
-    new "Дворяне, те, кто принял правильную сторону во время революции и теперь видел, как их звёзды восходят."
+    new "Дворяне — те, кто принял правильную сторону во время революции и теперь видели, как восходят их звёзды."
 
     old "Sarah smiled and thanked them for their bravery, courage, loyalty. Was there any word of praise she spared them?"
     new "Сара улыбнулась и поблагодарила их за храбрость, отвагу, верность. Было ли слово похвалы, которого она им не сказала?"
@@ -218,7 +218,7 @@ translate ru strings:
     new "Он любил книги раньше, теперь он поглощал их. Он был тихим ребёнком, теперь он, казалось, большую часть дней был полностью обращён внутрь себя."
 
     old "But one new feature of him was his love for his niece and nephew, Orwen and Miriam. Her children."
-    new "Но одна новая черта в нём — его любовь к племяннику и племяннице, Орвену и Мириам. Её дети."
+    new "Но одна новая черта в нём — любовь к племяннику и племяннице, Орвену и Мириам. Её детям."
 
     old "If they ever heard you speak ill of them, I don't think they'd ever recover. You really are their favorite person."
     new "Если бы они когда-либо услышали, как ты говоришь о них плохо, не думаю, что они когда-либо оправились бы. Ты действительно их любимый человек."
@@ -398,7 +398,7 @@ translate ru strings:
     new "Бедная Лили, никогда не подготовленная к жизни в такой политике, почти утонула в этой яме."
 
     old "The solution had come when Spymaster Kravel had taken the poor girl under his wing, helping her navigate her new circumstances."
-    new "Решение пришло, когда шпионмастер Крейвел взял бедную девушку под своё крыло, помогая ей ориентироваться в новых обстоятельствах."
+    new "Решение пришло, когда шпионмастер Кравел взял бедную девушку под своё крыло, помогая ей ориентироваться в новых обстоятельствах."
 
     old "Now, Lily was still often plagued by busy work, but at least she could occasionally visit Sarah."
     new "Теперь Лили всё ещё часто мучили дела, но по крайней мере могла изредка навещать Сару."
@@ -608,7 +608,7 @@ translate ru strings:
     new "Леди Кэролин была единственной, кто, казалось, мог смотреть сквозь иллюзию и видеть, кто она действительно была. Кто не относился к ней как к чему-то большему, чем человек."
 
     old "Perhaps it was because she had seen her grow up around the castle and knew that so much of what Sarah pretended to be was just that, pretend."
-    new "Возможно, потому что она видела, как та росла в замке, и знала, что многое из того, чем Сара притворялась, было именно этим — притворством."
+    new "Возможно, потому что она видела, как Сара росла в замке, и знала, что многое из того, чем она притворялась, было именно этим — притворством."
 
     old "Regardless, their sessions, though sparing, had continued across the years."
     new "Как бы то ни было, их встречи, хотя и редкие, продолжались через годы."
@@ -758,7 +758,7 @@ translate ru strings:
     new "Она открыла глаза и повернулась на звук."
 
     old "Sarah felt a sigh of relief coming over her."
-    new "Сара почувствовала вздох облегчения, накатывающий на неё."
+    new "Сара с облегчением выдохнула."
 
     old "Elder Tirion...you frightened me."
     new "Старейшина Тирион... ты напугал меня."
@@ -788,7 +788,7 @@ translate ru strings:
     new "Прошло некоторое время с твоего последнего визита. Долгие задержки часто означают либо хорошие новости, либо плохие новости."
 
     old "I pray it is the former."
-    new "Молюсь, чтобы первое."
+    new "Молюсь, чтобы так и было."
 
     old "Sarah looked into the man's eyes. There was something oddly comforting about it."
     new "Сара посмотрела в глаза мужчине. Было что-то странно утешительное в этом."
@@ -1010,7 +1010,7 @@ translate ru strings:
     new "В этот момент была безмятежность, разделённая только двумя душами, ни одна из которых никогда не предаст святость этого момента другой."
 
     old "Finally, Sarah followed in the last words of the prayer, closing it out."
-    new "аконец Сара последовала в последних словах молитвы, завершая её."
+    new "Наконец Сара последовала в последних словах молитвы, завершая её."
 
     old "She opened her eyes again, and the world felt oddly new to her."
     new "Она открыла глаза снова, и мир чувствовался странно новым."
@@ -1040,13 +1040,13 @@ translate ru strings:
     new "Она села на одну из многих пустых каменных скамей."
 
     old "With night having long set in, only the cold stars were there for comfort."
-    new "С ночью, давно наступившей, только холодные звёзды были там для утешения."
+    new "Ночь давно наступила, и только холодные звёзды служили утешением."
 
     old "Looking up, Sarah took it all in and felt very much at peace."
     new "Глядя вверх, Сара впитала всё это и чувствовала себя в полном покое."
 
     old "Learning to be comfortable in times of peace...she knew she'd have to learn to do just that."
-    new "Учиться быть уютно во времена покоя... она знала, что должна научиться делать именно это."
+    new "Научиться быть спокойной во времена мира... она знала, что должна научиться именно этому."
 
     old "Suddenly, Sarah heard a harsh sound of metal against stone."
     new "Внезапно Сара услышала резкий звук металла о камень."
@@ -1094,13 +1094,13 @@ translate ru strings:
     new "И всё же, я слышала, ты правила хорошо пока что."
 
     old "It's that Spymaster of yours, Kravel. He's got a more clever head about these sorts of things than I do."
-    new "Это твой шпионмастер Крейвел. У него более умная голова в таких вещах, чем у меня."
+    new "Это твой шпионмастер Кравел. У него голова варит в таких делах лучше, чем у меня."
 
     old "Well, you're clever enough to listen to him. That's a sign of a good ruler too."
     new "Ну, ты достаточно умна, чтобы слушать его. Это тоже признак хорошей правительницы."
 
     old "I'd be nothing without all the people that I rely on for advice."
-    new "Я была бы ничем без всех людей, на которых полагаюсь для советов."
+    new "Я была бы ничем без всех, с кем советуюсь."
 
     old "Lily eyed her."
     new "Лили посмотрела на неё."
@@ -1109,7 +1109,7 @@ translate ru strings:
     new "Как та леди Кэролин? Она странная."
 
     old "Sarah waved her hand, dismissing it."
-    new "Сара махнула рукой, отмахиваясь."
+    new "Сара отмахнулась."
 
     old "Please, she's an old family friend. She served my father loyally, and now does the same for me."
     new "Пожалуйста, она старая подруга семьи. Она верно служила моему отцу и теперь делает то же для меня."
@@ -1121,7 +1121,7 @@ translate ru strings:
     new "Прости, я не имела в виду ничего этим."
 
     old "For a brief moment the two sat in a comfortable silence."
-    new "На короткий миг двое сидели в комфортной тишине."
+    new "На короткий миг две женщины сидели в уютной тишине."
 
     old "I was happy when I saw you at the celebration."
     new "Я была счастлива, когда увидела тебя на празднестве."
@@ -1187,7 +1187,7 @@ translate ru strings:
     new "Я тоже не забыла."
 
     old "Sarah saw Lily's face turn to her. Her eyes, usually so stoic, now shuddering with emotion."
-    new "Сара увидела, как лицо Лили повернулось к ней. Её глаза, обычно такие стоические, теперь дрожали от эмоций."
+    new "Сара увидела, как лицо Лили повернулось к ней. Её глаза, обычно такие невозмутимые, теперь дрожали от эмоций."
 
     old "When I see you...I remember it too."
     new "Когда я вижу тебя... я тоже помню это."
@@ -1199,7 +1199,7 @@ translate ru strings:
     new "Затем Лили заговорила, нерешительно."
 
     old "It's only you..."
-    new "Только ты..."
+    new "Ты единственная..."
 
     old "Sarah looked deep into Lily's eyes."
     new "Сара посмотрела глубоко в глаза Лили."
@@ -1289,7 +1289,7 @@ translate ru strings:
     new "Если и был холод в саду в тот момент, ни одна женщина не заметила его."
 
     old "Sarah could feel Lily's lips, resist for the briefest of moments, only for her resistance to break."
-    new "Сара чувствовала губы Лили, сопротивляющиеся кратчайший миг, только чтобы её сопротивление сломалось."
+    new "Сара чувствовала губы Лили — те сопротивлялись лишь мгновение, а затем сдались."
 
     old "She felt Lily's hands upon her body, pulling her in tighter, their kiss growing deeper."
     new "Она чувствовала руки Лили на своём теле, притягивающие её ближе, их поцелуй становился глубже."
@@ -1313,7 +1313,7 @@ translate ru strings:
     new "Лили мало чего боялась, но здесь она была испугана."
 
     old "Furiously, the two continued to kiss, making up for years lost to denial."
-    new "Яростно двое продолжали целоваться, навёрстывая годы, потерянные в отрицании."
+    new "Яростно две женщины продолжали целоваться, навёрстывая годы, потерянные в отрицании."
 
     old "Suddenly, the kiss broke as Lily leaned back."
     new "Внезапно поцелуй прервался, когда Лили откинулась назад."
@@ -1346,7 +1346,7 @@ translate ru strings:
     new "Лили подалась вперёд снова, теперь прижимая губы к губам Сары."
 
     old "Feverishly, the two continued to kiss, forgetting about the world around them."
-    new "Лихорадочно двое продолжали целоваться, забыв о мире вокруг."
+    new "Лихорадочно две женщины продолжали целоваться, забыв о мире вокруг."
 
     old "Heat growing in their bodies, absent anywhere for it to go."
     new "Жар нарастал в их телах, не находя выхода."
@@ -1412,7 +1412,7 @@ translate ru strings:
     new "Сара улыбнулась, кивнула, но превыше всего слушала."
 
     old "She could see Lily didn't really want answers or solutions. She juste wanted someone to listen."
-    new "Она видела, что Лили не действительно хотела ответов или решений. Она просто хотела кого-то, кто выслушает."
+    new "Она видела, что Лили на самом деле не хотела ответов или решений. Она просто хотела, чтобы кто-то выслушал."
 
     old "Finally, after a while, Lily finished her rant."
     new "Наконец, через некоторое время, Лили закончила своё возмущение."
@@ -1442,7 +1442,7 @@ translate ru strings:
     new "Обещаю."
 
     old "The two broke away and departed."
-    new "Двое расстались и разошлись."
+    new "Женщины расстались и разошлись."
 
     old "Sarah arrived in her own room and found it pleasantly quiet."
     new "Сара прибыла в свою комнату и нашла её приятно тихой."
@@ -1604,7 +1604,7 @@ translate ru strings:
     new "Сара села на кровать, и её дети забрались на кровать к ней."
 
     old "Orwen was the one who handed her a book, titled 'The Tale of Roderic The Brave'."
-    new "Орвен был тем, кто передал ей книгу под названием 'Сказание о Родерике Храбром'."
+    new "Орвен был тем, кто передал ей книгу под названием «Сказание о Родерике Храбром»."
 
     old "Sarah laughed to herself."
     new "Сара засмеялась про себя."
@@ -1619,13 +1619,13 @@ translate ru strings:
     new "Сара открыла книгу, открывая подробные изображения, которые шли вместе с историей."
 
     old "Her copy had been a gift to her family, many years ago. Every element of the work revealed the hand of a skilled craftsman."
-    new "Её экземпляр был подарком её семье много лет назад. Каждый элемент работы выдавал руку искусного мастера."
+    new "Её экземпляр был подарен её семье много лет назад. Каждый элемент книги выдавал руку искусного мастера."
 
     old "Still, the story was widely known throughout all of Rosanna."
     new "И всё же история была широко известна по всей Розанне."
 
     old "The heavy reliance of images to accompany the story meant that even the otherwise illiterate peasantry could appreciate the tale."
-    new "Сильная опора на изображения в истории означала, что даже в остальном неграмотные крестьяне могли оценить сказку."
+    new "Обилие иллюстраций в этой истории означало, что даже неграмотные крестьяне могли оценить сказку."
 
     old "Sir Roderic, newly knighted..."
     new "Сэр Родерик, недавно посвящённый в рыцари..."
@@ -1637,7 +1637,7 @@ translate ru strings:
     new "До некоторой степени это было глупым занятием, подумала она."
 
     old "She had told them the story a hundred times, if not more, and by now they could all dream every letter of it."
-    new "Она рассказывала им эту историю сотню раз, если не больше, и теперь они могли помнить каждую букву."
+    new "Она рассказывала им эту историю сотню раз, если не больше, и теперь они знали её наизусть до последней буквы."
 
     old "And still, her children never tired, and to her own surprise, neither did Sarah."
     new "И всё же её дети никогда не уставали, и к её собственному удивлению, ни Сара."
@@ -1664,7 +1664,7 @@ translate ru strings:
     new "Сэр Родерик взял бы свой волшебный меч, пошёл глубоко в горы, убил злого василиска и освободил свою любовь."
 
     old "In this story, the world always seemed so ordered when it was all done. The good people victorious, the bad things dead or defeated."
-    new "В этой истории мир всегда казался таким упорядоченным, когда всё было сделано. Хорошие люди — победители, плохие вещи — мертвы или побеждены."
+    new "В этой истории мир всегда казался таким упорядоченным, когда всё заканчивалось. Хорошие люди — победители, плохие вещи — мертвы или побеждены."
 
     old "Entering the cave, careful with every step, Sir Roderic drew his blade from its sheath and..."
     new "Входя в пещеру, осторожный с каждым шагом, сэр Родерик вытащил свой клинок из ножен и..."
@@ -1961,7 +1961,7 @@ translate ru strings:
     new "Она чувствовала, как его руки бегут по её телу."
 
     old "He had likely spoken true, he was tired, but the sight of her was causing him to renew his energies."
-    new "Он, вероятно, сказал правду, он устал, но вид её заставлял его возобновлять энергию."
+    new "Он, вероятно, сказал правду — он устал, но вид её заставлял его силы возвращаться."
 
     old "Well, perhaps I have some energy left."
     new "Ну, возможно, у меня осталось немного энергии."
@@ -1991,13 +1991,13 @@ translate ru strings:
     new "Как будто он боялся испугать или сломать её."
 
     old "Running her own hands over his body, a surface hard as metal, Sarah thought of the foolishness of it."
-    new "Проводя своими руками по его телу, поверхности твёрдой как металл, Сара подумала о глупости этого."
+    new "Проводя руками по его телу, твёрдому, как металл, Сара подумала о глупости этого."
 
     old "Nothing he could ever do would frighten her."
     new "Ничто, что он мог бы когда-либо сделать, не могло бы испугать её."
 
     old "Every day since their marriage, he had been as loyal as any husband could possible be."
-    new "Каждый день с их свадьбы он был так же верен, как любой муж может возможно быть."
+    new "Каждый день с их свадьбы он был так же верен, как только может быть муж."
 
     old "She had come to know him in ways nobody else did."
     new "Она узнала его так, как никто другой."
@@ -2099,7 +2099,7 @@ translate ru strings:
     new "Недолго прошло, прежде чем она вскрикнула, когда кончила."
 
     old "Her husband continued thrusting, drawing out every inch of her orgasm, and she clawed his back in gratitude."
-    new "Её муж продолжал входить, извлекая каждый дюйм её оргазма, и она царапала его спину в благодарности."
+    new "Муж продолжал двигаться в ней, продлевая каждое мгновение её оргазма, и она царапала ему спину в благодарности."
 
     old "He slowed for a brief moment, giving her time to recover, but before long Sarah found herself pinned under him again."
     new "Он замедлился на короткий миг, давая ей время восстановиться, но вскоре Сара оказалась прижатой под ним снова."
@@ -2195,7 +2195,7 @@ translate ru strings:
     new "Сара вспомнила свои собственные переживания."
 
     old "Varga was if anything, the opposite. He only seemed to love her more, if such a thing was possible."
-    new "Варга был, если на то пошло, противоположностью. Он только казалось любить её больше, если такое возможно."
+    new "Варга был, если на то пошло, полной противоположностью. Казалось, он любил её лишь сильнее, если такое вообще возможно."
 
     old "And as for his duties as a father, none could do better, not in her eyes or those of her children."
     new "А что касается его обязанностей как отца, никто не мог бы сделать лучше, ни в её глазах, ни в глазах её детей."
@@ -2216,7 +2216,7 @@ translate ru strings:
     new "Без сомнения, некоторые искали бы её, но было легко потеряться в толпе, даже для правительницы."
 
     old "The night drew late and deep and before Sarah knew, the castle was quiet as a grave."
-    new "Ночь становилась поздней и глубокой, и прежде чем Сара поняла, замок был тих как могила."
+    new "Ночь становилась поздней, и прежде чем Сара поняла, замок был тих, как могила."
 
     old "Though the castle grew quiet, Sarah felt her own heart beating in her chest so loudly she imagined it might burst through."
     new "Хотя замок стал тихим, Сара чувствовала собственное сердце, бьющееся в груди так громко, что, казалось, оно вот-вот вырвется."

@@ -8,7 +8,7 @@ translate ru strings:
     new "Сара корпела над документами до поздней ночи."
 
     old "She formulated her strategy on approaching the others and securing their votes."
-    new "Она разрабатывала стратегию подхода к остальным и обеспечения их голосов."
+    new "Она разрабатывала стратегию подхода к остальным и получения их голосов."
 
     old "She had to make her next moves carefully, but equally knew she could not lean back and wait things out."
     new "Она должна была действовать осторожно, но также понимала, что не может сидеть сложа руки и ждать."
@@ -770,7 +770,7 @@ translate ru strings:
     new "Герцог пожал плечами."
 
     old "What care do I have if they live or die. Perhaps a few more widows might actually be to my benefit."
-    new "Какое мне дело, живут они или умирают. Возможно, ещё несколько вдов будут мне на руку."
+    new "Какое мне дело, живут они или умирают. Возможно, ещё несколько вдов пойдут мне на пользу."
 
     old "He grinned. The monster. The pig."
     new "Он усмехнулся. Монстр. Свинья."
@@ -911,7 +911,7 @@ translate ru strings:
     new "Но я сказал, что хочу оценить такую красоту, как твоя. Мужчина ценит по-своему."
 
     old "Sarah watched as he unclasped his belt and pulled out his already rock-hard cock."
-    new "Сара смотрела, как он расстегнул ремень и достал уже твёрдый как камень член."
+    new "Сара смотрела, как он расстегнул ремень и достал уже член, твёрдый как камень."
 
     old "He began to stroke it as he watched her."
     new "Он начал поглаживать его, глядя на неё."

@@ -41,7 +41,7 @@ translate ru strings:
     new "О-о... бля..."
 
     old "Sarah tried to speak in between heavy panting."
-    new "Сара попыталась заговорить между тяжёлыми вздохами."
+    new "Сара попыталась заговорить, тяжело дыша."
 
     old "She tried to speak out because she could feel a third orgasm errupt from between her legs, crashing up through her body."
     new "Она попыталась заговорить, потому что чувствовала, как третий оргазм взрывается между ног, пронзая всё тело."
@@ -83,7 +83,7 @@ translate ru strings:
     new "Внезапно хватка Аларика на талии Сары усилилась."
 
     old "Rather than casually laying back, he began to arch his back. With his strong arms he slightly lifted Sarah."
-    new "Вместо того чтобы просто лежать расслабленно, он начал выгибать спину. Сильными руками он слегка приподнял Сару."
+    new "Вместо того чтобы просто откинуться и расслабиться, он начал выгибать спину. Сильными руками он слегка приподнял Сару."
 
     old "Then with each thrust, he slammed her back down on his cock, impaling her."
     new "Затем каждым толчком он с силой опускал её обратно на свой член, пронзая её."
@@ -122,7 +122,7 @@ translate ru strings:
     new "В его объятиях, настолько близкая к изнеможению, что всё ещё боялась упасть в обморок, вся мокрая от пота — всё навалилось на неё."
 
     old "She didn't have the energy to keep up her walls."
-    new "У неё не было сил держать свои стены."
+    new "У неё не было сил держать оборону."
 
     old "Sarah began to cry in Alaric's shoulder."
     new "Сара начала плакать на плече Аларика."
@@ -197,7 +197,7 @@ translate ru strings:
     new "Он не отстранился от неё, только притянул ближе к себе в объятия."
 
     old "Sarah let go of any restraint and wailed into his chest and arms."
-    new "Сара отпустила все преграды и зарыдала у него на груди."
+    new "Сара перестала сдерживаться и зарыдала у него на груди."
 
     old "She cried for her father and brother."
     new "Она плакала по отцу и брату."
@@ -275,7 +275,7 @@ translate ru strings:
     new "Шлюха."
 
     old "Sarah only rolled her eyes at him in bemusement."
-    new "Сара только закатила глаза в недоумении."
+    new "Сара только закатила глаза с насмешкой."
 
     old "The two went back out onto the streets of Lethram."
     new "Они снова вышли на улицы Летрема."
@@ -461,7 +461,7 @@ translate ru strings:
     new "Стража, без сомнения, всё ещё бушевала, но даже злые стражники нуждались во сне. Город становился тише."
 
     old "Sarah and Alaric fell down against the wall, exhausted."
-    new "Сара и Аларик рухнули у стены, изнеможённые."
+    new "Сара и Аларик рухнули у стены, измождённые."
 
     old "Fuck, that was way too close."
     new "Бля, это было слишком близко."
@@ -491,7 +491,7 @@ translate ru strings:
     new "Открепив от пояса, он вытащил кошельки. Не стопка, а целая гора. Сара никогда не видела столько денег."
 
     old "Alaric grabbed the box that they kept hidden in the alcove of the alley and let the coins fall into it, adding to the rest of their hoard."
-    new "Аларик взял ящик, который они прятали в нише переулка, и высыпал туда монеты, добавляя к остатку их запасов."
+    new "Аларик взял ящик, который они прятали в нише переулка, и высыпал туда монеты, добавляя к остальной их добыче."
 
     old "Sarah could see the coins glimmer in the dark alley."
     new "Сара видела, как монеты поблёскивают в тёмном переулке."
@@ -572,7 +572,7 @@ translate ru strings:
     new "Сара притворилась грустной."
 
     old "A wife is homely, fixes the house, keeps the kids calm, ya know. I don't see you doin any of that any time soon."
-    new "Жена — домоседка, занимается домом, успокаивает детей, ну понимаешь. Не вижу, чтобы ты занималась чем-то из этого в ближайшее время."
+    new "Жена — хранительница очага, занимается домом, успокаивает детей, ну понимаешь. Не вижу, чтобы ты занималась чем-то из этого в ближайшее время."
 
     old "Maybe not, but a wife won't let you stick it up their back end."
     new "Может, и нет, но жена не позволит тебе засунуть его себе в зад."
@@ -656,7 +656,7 @@ translate ru strings:
     new "Она знала, что он хотел взять её так, но она в основном отказывала ему. Теперь Сара осознала, что это был маленький способ защитить собственную гордость."
 
     old "To pretend that for whatever else she might have done, submitted herself to, at least she protected some part of herself."
-    new "Притворяться, что что бы она ни делала, чему бы ни подчинялась, по крайней мере она защищала какую-то часть себя."
+    new "Притворяться, будто что бы она ни делала, чему бы ни подчинялась, по крайней мере она защищала какую-то часть себя."
 
     old "That there was some part of herself that didn't fully live in this world."
     new "Что была какая-то часть её, не жившая полностью в этом мире."
@@ -767,7 +767,7 @@ translate ru strings:
     new "Сара медленно опустила бёдра, ложась рядом с ним, держа задницу слегка приподнятой."
 
     old "What was left of the pleasure soon faded, leaving only the pain. But Sarah nourished that almost as dearly."
-    new "То, что осталось от удовольствия, скоро угасло, оставив только боль. Но Сара лелеяла её почти так же дорого."
+    new "То, что осталось от удовольствия, скоро угасло, оставив только боль. Но Сара лелеяла эту боль почти так же сильно."
 
     old "The pain, pleasure, all the sensations had left her exterior skin feel as though it was new. Sensitive to the outside world like it had never been."
     new "Боль, удовольствие — все ощущения оставили её кожу такой, будто она была новой. Чувствительной к внешнему миру, как никогда прежде."
@@ -854,7 +854,7 @@ translate ru strings:
     new "Сара ударила Аларика в бок."
 
     old "Don't be disgusting.."
-    new "Не будь отвратительным."
+    new "Фу, гадость."
 
     old "I meant for everything since we met. Helping me learn about the streets, saving my life, just..."
     new "Я имела в виду всё с тех пор, как мы встретились. Помогал мне узнать улицы, спас мне жизнь, просто..."

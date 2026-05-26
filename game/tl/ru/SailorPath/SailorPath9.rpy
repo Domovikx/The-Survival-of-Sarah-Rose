@@ -128,10 +128,10 @@ translate ru strings:
     new "Когда-то такой поступок вызвал бы у неё отвращение. Теперь она чувствовала лишь гордость за хорошо выполненную работу."
 
     old "We'll be arriving in Northam pretty soon."
-    new "Мы скоро прибудем в Нортам."
+    new "Мы скоро прибудем в Нортэм."
 
     old "Northam, their destination to deliver the coal. Sarah had almost grown to forget there was a reason for this entire expedition."
-    new "Нортам — их пункт назначения для доставки угля. Сара почти забыла, что у всей этой экспедиции была причина."
+    new "Нортэм — их пункт назначения для доставки угля. Сара почти забыла, что у всей этой экспедиции была причина."
 
     old "How soon?"
     new "Насколько скоро?"
@@ -173,7 +173,7 @@ translate ru strings:
     new "Я могу сходить за ним в кладовую, развязать его. Позволить вам немного повеселиться."
 
     old "Before I go and make an honest woman out of you in Northam."
-    new "Прежде чем я сделаю из тебя честную женщину в Нортаме."
+    new "Прежде чем я сделаю из тебя честную женщину в Нортэме."
 
     old "Sarah laughed, it was the only thing she could in response to such an absurd proposal."
     new "Сара рассмеялась — это было единственное, что она могла сделать в ответ на такое абсурдное предложение."
@@ -251,7 +251,7 @@ translate ru strings:
     new "И он будет обеспечивать её, но не будет хранить верность — это она тоже знала."
 
     old "She knew that as she was left behind in the town of Northam, he would gleefully take one woman after another."
-    new "Она знала, что, пока она будет оставаться в городе Нортам, он будет с радостью брать одну женщину за другой."
+    new "Она знала, что, пока она будет оставаться в городе Нортэм, он будет с радостью брать одну женщину за другой."
 
     old "It would be other women who would spend nights in his cabin like this one."
     new "Другие женщины будут проводить ночи в его каюте, как эту."
@@ -290,7 +290,7 @@ translate ru strings:
     new "Поверишь, если скажу — о твоём члене?"
 
     old "Sure, it's been known to leave an impression on most women."
-    new "Конечно, он известен тем, что оставляет впечатление на большинстве женщин."
+    new "Конечно, он известен тем, что производит впечатление на большинство женщин."
 
     old "Sarah could feel him rising, his growing erection pressing up against her leg."
     new "Сара чувствовала, как он поднимается, как его растущая эрекция прижимается к её ноге."
@@ -326,7 +326,7 @@ translate ru strings:
     new "Она начала двигать бёдрами, насаживаясь вверх и вниз на его член, принимая его всё глубже и глубже."
 
     old "She cried out the sensations that he solicited from her."
-    new "Она выкрикивала ощущения, которые он вызывал в ней."
+    new "Она вскрикивала от ощущений, которые он вызывал в ней."
 
     old "She loved this man. In some twisted way, she did, and she was done pretending otherwise."
     new "Она любила этого мужчину. В каком-то извращённом смысле — да, и она покончила с притворством."
@@ -338,7 +338,7 @@ translate ru strings:
     new "Хотя бы только этой ночью."
 
     old "With favorable winds, it was in fact early the next morning when their ship pulled into Northam harbor."
-    new "При попутном ветре их корабль вошёл в гавань Нортама ранним утром следующего дня."
+    new "При попутном ветре их корабль вошёл в гавань Нортэма ранним утром следующего дня."
 
     old "Sarah had been working the deck when she first spotted the harbor."
     new "Сара работала на палубе, когда впервые заметила гавань."
@@ -371,10 +371,10 @@ translate ru strings:
     new "Для такого мужчины, как Ник, потерпеть такое унизительное поражение от рук капитана... она не была уверена, что он скоро это переживёт."
 
     old "Belmont paid him his due and with that send him off."
-    new "Белмонт выплатил ему причитающееся и тем же отправил его."
+    new "Белмонт выплатил ему причитающееся и с тем отпустил его."
 
     old "Nick didn't say much else, not even bothering to say goodbye to her. Then again, Sarah doubted there was much good will left between the two of them."
-    new "Ник больше ничего не сказал, даже не потрудился попрощаться с ней. Впрочем, Сара сомневалась, что между ними осталось много доброй воли."
+    new "Ник больше ничего не сказал, даже не потрудился попрощаться с ней. Впрочем, Сара сомневалась, что между ними осталось много теплоты."
 
     old "Sarah and Belmont were leaning over the railing of the ship, watching Nick walk away into town."
     new "Сара и Белмонт стояли, облокотившись на перила корабля, и смотрели, как Ник уходит в город."
@@ -473,7 +473,7 @@ translate ru strings:
     new "Хорошая работа сегодня, Блонди."
 
     old "Whatever you lack in muscle, you make up with that brain of yours."
-    new "Чего тебе не хватает в мышцах, ты компенсируешь своим умом."
+    new "Чего тебе не хватает в силе, ты восполняешь умом."
 
     old "She meant it. His compliments were rare, but all the more valuable for it."
     new "Она была искренна. Его похвала была редкой, но оттого ещё более ценной."
@@ -527,7 +527,7 @@ translate ru strings:
     new "Тогда мы не выйдем из дома неделю."
 
     old "He smiled as if he wasn't being extremely obvious."
-    new "Он улыбнулся, как будто это было не совершенно очевидно."
+    new "Он улыбнулся, будто это было совсем не очевидно."
 
     old "And...you really want to have kids?"
     new "И... ты правда хочешь детей?"
@@ -644,7 +644,7 @@ translate ru strings:
     new "Не привлекательным в традиционном смысле, но, возможно, в куда более первобытном."
 
     old "She felt her own sex heat up, could feel herself turn wet just at the sight of him, the knowledge of what was to come."
-    new "Она чувствовала, как её лоно разогревается, как она становится влажной от одного лишь вида его и знания того, что должно произойти."
+    new "Она чувствовала, как её лоно разогревается, как она становится влажной от одного лишь его вида и осознания того, что должно произойти."
 
     old "Sarah quickly slid off her underwear as well."
     new "Сара также быстро сняла бельё."
@@ -695,7 +695,7 @@ translate ru strings:
     new "Она была удивлена, что даже спустя всё это время её тело всё ещё так бурно реагировало на его."
 
     old "Her entire back arched, her breasts pressing up into the air, a soft moan slipping past her lips."
-    new "Вся её спина выгнулась, грудь подалась вверх, с губ сорвался мягкий стон."
+    new "Вся её спина выгнулась, грудь подалась вверх, с губ сорвался тихий стон."
 
     old "And she spread her legs for him further."
     new "И она раздвинула ноги ещё шире для него."
@@ -722,7 +722,7 @@ translate ru strings:
     new "Его толчки продолжались, медленные, но ритмичные."
 
     old "His hands groped at her body, sliding past her waist, pulling her tighter into him, gripping her exposed breasts with hunger."
-    new "Его руки ощупывали её тело, скользя по талии, притягивая её ближе к себе, сжимая её обнажённую грудь с голодом."
+    new "Его руки ощупывали её тело, скользя по талии, притягивая её ближе к себе, жадно сжимая её обнажённую грудь."
 
     old "Sarah could feel him lean in closer still, his large body and copious fat, pressing up against her breasts."
     new "Сара чувствовала, как он наклоняется ещё ближе, его большое тело и обильный жир прижимаются к её груди."
@@ -779,7 +779,7 @@ translate ru strings:
     new "Она не была ничем из этого — может, когда-то была, но больше нет."
 
     old "So close, their noses could touch, Sarah looked into his eyes."
-    new "Так близко, что их носы почти соприкасались, Сара посмотрела в его глаза."
+    new "Так близко, что их носы почти соприкасались, Сара посмотрела ему в глаза."
 
     old "I love you too, blondie."
     new "Я тоже люблю тебя, Блонди."
@@ -881,13 +881,13 @@ translate ru strings:
     new "Оргазм, поразивший её, был не похож ни на что, что она чувствовала прежде."
 
     old "Perhaps she cried out for him like a woman gone mad. Perhaps she grinded her sex into him like a wild animal."
-    new "Возможно, она кричала ради него, как обезумевшая женщина. Возможно, она тёрлась лоном о него, как дикий зверь."
+    new "Возможно, она кричала ему, как обезумевшая женщина. Возможно, она тёрлась лоном о него, как дикий зверь."
 
     old "Sarah didn't know or remember any of it, because every sense in her body was struck blind by the unmeasurable wave of the climax."
     new "Сара не знала и не помнила ничего из этого, потому что каждое чувство в её теле ослепло от неизмеримой волны кульминации."
 
     old "Her senses only returned to her in time to feel Belmont's cock expand inside of her."
-    new "Чувства вернулись к ней лишь вовремя, чтобы почувствовать, как член Белмонта расширяется внутри неё."
+    new "Чувства вернулись к ней как раз вовремя, чтобы ощутить, как член Белмонта расширяется внутри неё."
 
     old "His deep grunt, the tightening of his hands on her body, the final most urgent thrusts."
     new "Его глубокий хриплый стон, сжатие его рук на её теле, последние самые отчаянные толчки."
@@ -911,7 +911,7 @@ translate ru strings:
     new "Ты..."
 
     old "He almost seemed hestitant. Strangely vulnerable for a man who never was."
-    new "Он почти казался колеблющимся. Странно уязвимым для человека, который никогда таким не был."
+    new "Он почти казался неуверенным. Странно уязвимым для человека, который никогда таким не был."
 
     old "Do you think it will work?"
     new "Думаешь, получится?"

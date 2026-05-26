@@ -53,7 +53,7 @@ translate ru strings:
     new "Незнакомец, в свою очередь, лишь повернул голову и посмотрел на неё. Равнодушно."
 
     old "Aah, Sarah Rose I suspect?"
-    new "Аа, Сара Роуз, я полагаю?"
+    new "А-а, Сара Роуз, я полагаю?"
 
     old "He turned back to Samayra."
     new "Он повернулся обратно к Самайре."
@@ -101,7 +101,7 @@ translate ru strings:
     new "Сара повернулась к Самайре, которая широко улыбалась."
 
     old "Sarah yelled her name, scolding her."
-    new "Сара выкрикнула её имя, упрекая её."
+    new "Сара выкрикнула её имя с упрёком."
 
     old "You can't just let people into the house, it's dangerous!"
     new "Нельзя просто так впускать людей в дом, это опасно!"
@@ -128,7 +128,7 @@ translate ru strings:
     new "Метис нахмурился."
 
     old "Aah, that would be a tragedy. I was hoping to speak with Xan."
-    new "Аа, это было бы трагедией. Я надеялся поговорить с Ксаном."
+    new "А-а, это было бы трагедией. Я надеялся поговорить с Ксаном."
 
     old "He knew Xan by name. Knew the location of the house. His robes...odd. A mage, she suspected."
     new "Он знал Ксана по имени. Знал расположение дома. Его одеяния... странные. Маг, как она подозревала."
@@ -212,7 +212,7 @@ translate ru strings:
     new "Что ж, надеюсь, я произвёл впечатление. Если больше нет дел, тогда..."
 
     old "Metis kicked off one of his boots."
-    new "Метис скинул один из сапог."
+    new "Метис скинул один сапог."
 
     old "Ooh please, surely you're not going to throw out a fellow member of the order? In weather like this?"
     new "О, пожалуйста, ты же не выгонишь собрата по ордену? В такую погоду?"
@@ -260,7 +260,7 @@ translate ru strings:
     new "Это точно. Чудо, что от этой жалкой развалины хоть что-то осталось."
 
     old "Metis kicked off his other remaining boot."
-    new "Метис скинул свой второй оставшийся сапог."
+    new "Метис скинул и второй сапог."
 
     old "He turned his feet towards the burning fire."
     new "Он повернул ступни к горящему огню."
@@ -317,7 +317,7 @@ translate ru strings:
     new "Сара строго посмотрела на Самайру."
 
     old "Samayra, can I have a word."
-    new "Самайра, можно тебя на слово."
+    new "Самайра, можно тебя на пару слов."
 
     old "Samayra looked like a child, caught by a strict parent."
     new "Самайра выглядела как ребёнок, застигнутый строгим родителем."
@@ -452,7 +452,7 @@ translate ru strings:
     new "Общество, но не такое, которое пыталось бы вытянуть из неё каждую сокровенную мысль."
 
     old "Not long after, each of them genuinely exhausted, fell into a sleep. Their bodies still entwined."
-    new "Вскоре после этого каждая из них, искренне измученная, провалилась в сон. Их тела всё ещё были переплетены."
+    new "Вскоре после этого каждая из них, по-настоящему измученная, провалилась в сон. Их тела всё ещё были переплетены."
 
     old "Sorry, Samayra. I just...I really need to sleep and I sleep better alone."
     new "Прости, Самайра. Я просто... мне действительно нужно поспать, и я лучше сплю одна."

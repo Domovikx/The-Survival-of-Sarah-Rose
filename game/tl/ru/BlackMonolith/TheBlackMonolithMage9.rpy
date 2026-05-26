@@ -65,7 +65,7 @@ translate ru strings:
     new "Разве ты выдумала бы такое создание, как я?"
 
     old "Sarah chuckled to herself."
-    new "Сара тихо усмехнулась."
+    new "Сара тихо рассмеялась."
 
     old "If I did I would certainly not have made you so annoying. So full of riddles."
     new "Если бы и выдумала, уж точно не сделала бы тебя таким надоедливым. Таким полным загадок."
@@ -95,7 +95,7 @@ translate ru strings:
     new "Это дом... но чем больше я о нём думаю, тем больше он кажется таковым лишь формально."
 
     old "Suppose I came in here, blazing with fire. Burned a hundred or a thousand tribsmen. Then what?"
-    new "Предположим, я ворвалась бы сюда, пылая огнём. Сожгла бы сотню или тысячу племенников. И что дальше?"
+    new "Предположим, я ворвалась бы сюда, пылая огнём. Сожгла бы сотню или тысячу соплеменников. И что дальше?"
 
     old "I have no father waiting for me. No brother."
     new "Меня не ждут ни отец, ни брат."
@@ -257,7 +257,7 @@ translate ru strings:
     new "Снова и снова я перебирал воспоминания — те маленькие радости, что у меня были."
 
     old "The spirit slipped closer."
-    new "Дух подскользнул ближе."
+    new "Дух скользнул ближе."
 
     old "Until one day, I found myself reliving a memory that was not mine."
     new "Пока однажды я не обнаружил, что переживаю воспоминание, которое не было моим."
@@ -302,7 +302,7 @@ translate ru strings:
     new "Образовались разные группы."
 
     old "The greater groups ate the smaller. On and on. Until eventually, only one would remain."
-    new "Бóльшие группы поглощали меньшие. Снова и снова. Пока в итоге не осталась бы лишь одна."
+    new "Бóльшие группы поглощали меньшие. Снова и снова. Пока в итоге не останется лишь одна."
 
     old "The-King-On-The-Outside."
     new "Король-Снаружи."

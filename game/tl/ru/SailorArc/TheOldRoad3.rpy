@@ -11,7 +11,7 @@ translate ru strings:
     new "Она увидела, что остальные тоже только просыпаются."
 
     old "Despite having slept through the night, Sarah felt oddly unrested."
-    new "Несмотря на то что проспала всю ночь, Сара чувствовала странную усталость."
+    new "Несмотря на то, что проспала всю ночь, Сара чувствовала странную усталость."
 
     old "No doubt it was the poor sleeping conditions, but she felt as if something else contributed to it."
     new "Без сомнения, виной тому были плохие условия для сна, но ей казалось, что есть и другая причина."
@@ -107,7 +107,7 @@ translate ru strings:
     new "Единственное, что слышала Сара, — это журчание воды далеко внизу."
 
     old "As she turned her face to the side, she felt her mind struck by awe."
-    new "Когда она повернула голову, её разум поразило благоговение."
+    new "Когда она повернула голову, её охватил благоговейный трепет."
 
     old "There were no words for the sight."
     new "Для этого зрелища не было слов."
@@ -131,7 +131,7 @@ translate ru strings:
     new "Откуда ж мне знать."
 
     old "People been asking that question for as long as I can remember."
-    new "Люди задают этот вопрос сколько я себя помню."
+    new "Люди задают этот вопрос, сколько я себя помню."
 
     old "Heard a hundred different stories but I don't know if a single one of em is true."
     new "Слышал сотню разных историй, но не знаю, правдива ли хоть одна."
@@ -260,7 +260,7 @@ translate ru strings:
     new "Поля, простирающиеся во все стороны."
 
     old "After having been in the forest, this suddenly felt very vulernable."
-    new "После леса это вдруг показалось очень уязвимым."
+    new "После леса всё вокруг вдруг показалось очень уязвимым."
 
     old "We'll make camp here before nightfall. I want us well rested before we move on."
     new "Разобьём лагерь здесь до наступления темноты. Я хочу, чтобы мы хорошо отдохнули перед тем, как двинемся дальше."
@@ -866,7 +866,7 @@ translate ru strings:
     new "Вместо этого она наклонилась вперёд, разомкнула губы и взяла его в рот."
 
     old "Above her, she instantly heard and approving grunt."
-    new "Над собой она тут же услышала одобрительный стон."
+    new "Над собой она тут же услышала одобрительное кряхтение."
 
     old "She could feel how the tip of his cock parted her mouth, pushing deeper into it."
     new "Она чувствовала, как головка его члена раздвигает её рот, проникая глубже."
@@ -878,7 +878,7 @@ translate ru strings:
     new "Саре было не с чем особо сравнивать, но по одним только усилиям она заключила, что у него должно быть хорошо развито достоинство."
 
     old "She slid out her tongue, sliding it across the head of his cock, past its shaft, hoping this might help her fit him better."
-    new "Она высунула язык, скользя им по головке его члена, мимо ствола, надеясь, что это поможет ей更好地 вместить его."
+    new "Она высунула язык, скользя им по головке его члена, мимо ствола, надеясь, что это поможет ей лучше вместить его."
 
     old "Sarah could taste the salt of him on her tongue."
     new "Сара чувствовала солёный вкус на языке."

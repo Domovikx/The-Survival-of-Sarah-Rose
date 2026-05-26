@@ -23,7 +23,7 @@ translate ru strings:
     new "Весь день с утра до вечера она просидела за учебой."
 
     old "Metis had given her a nightmarish pile of books to read, and though she made progress, even Sarah had her limits."
-    new "Метида выдала ей чудовищную стопку книг для чтения, и хотя Сара продвигалась, даже у неё были пределы."
+    new "Метис выдал ей чудовищную стопку книг для чтения, и хотя Сара продвигалась, даже у неё были пределы."
 
     old "She looked out the window."
     new "Она выглянула в окно."
@@ -98,7 +98,7 @@ translate ru strings:
     new "Её рот распахнут, когда она чувствует его руки на своей голове, прижимающие её вниз."
 
     old "She can hear the sound of him entering her, echo in the rundown room."
-    new "Она слышит звук его проникновения, эхом отдающийся в обветшалой комнате."
+    new "Она слышит звук его проникновения, эхом разносящийся в обветшалой комнате."
 
     old "Her own moans are drowned in the bedding."
     new "Её собственные стоны тонут в постельном белье."
@@ -149,7 +149,7 @@ translate ru strings:
     new "Сара вскрикивает, когда кончает."
 
     old "The jolt of electricity runs through her body, lighting up every sinew in her body, drowning her in the pleasure."
-    new "Разряд электричества пробегает по её телу, зажигая каждое сухожилие, утопая её в удовольствии."
+    new "Разряд электричества пробегает по её телу, зажигая каждое сухожилие, погружая её в удовольствие."
 
     old "This is it, she thinks. The fact of her body that overrules her better judgement."
     new "Вот оно, думает она. Факт её тела, который перевешивает её здравый смысл."
@@ -362,7 +362,7 @@ translate ru strings:
     new "Буду честен, я подумывал об этом."
 
     old "But it's grown on me."
-    new "Но она мне приросла к душе."
+    new "Но я к ней привык."
 
     old "Sarah smiled to hear he actually appreciated the gift."
     new "Сара улыбнулась, услышав, что он действительно оценил подарок."
@@ -416,7 +416,7 @@ translate ru strings:
     new "Мило? До чего же я дошёл."
 
     old "What's become of you indeed."
-    new "До чего же ты дошёл, действительно."
+    new "И правда, до чего же ты дошёл."
 
     old "For a while longer, the two continued to lie in bed next to each other."
     new "Некоторое время они продолжали лежать в постели рядом друг с другом."
@@ -536,7 +536,7 @@ translate ru strings:
     new "Почему он. Вопрос крутился у неё в голове."
 
     old "Her eyes fell back on the flower; the rose. He had gotten it for her. He thought about her when she wasn't here."
-    new "Её взгляд снова упал на цветок; розу. Он достал её для неё. Он думал о ней, когда её не было рядом."
+    new "Её взгляд снова упал на цветок; розу. Он достал цветок для неё. Он думал о ней, когда её не было рядом."
 
     old "Did you really steal that flower?"
     new "Ты действительно украл тот цветок?"
@@ -557,7 +557,7 @@ translate ru strings:
     new "Сара почувствовала колебание в груди, услышав, как он так легко выкладывает правду."
 
     old "I know you are but...if you get caught, they'll put you away for a long time."
-    new "Я знаю, что ты, но... если тебя поймают, они упекут тебя надолго."
+    new "Я знаю, кто ты, но... если тебя поймают, они упекут тебя надолго."
 
     old "And you'd have to miss this dick, is that what you're worried about?"
     new "И тебе пришлось бы скучать по этому члену, ты об этом беспокоишься?"
@@ -665,7 +665,7 @@ translate ru strings:
     new "Покорно она вытянула язык вдоль его ствола и направила его глубже себе в рот."
 
     old "You know, that's your problem Sarah. Without a dick in your mouth or your cunt, you really forget yourself."
-    new "Знаешь, в этом твоя проблема, Сара. Без члена во рту или во влагалище ты совсем теряешь голову."
+    new "Знаешь, в этом твоя проблема, Сара. Без члена во рту или в киске ты совсем теряешь голову."
 
     old "But maybe that's my mistake, you know? I shouldn't have let you take a break for so long. Given you the wrong idea."
     new "Но, может, это моя ошибка, понимаешь? Не стоило мне давать тебе такой долгий перерыв. Подавать ложную надежду."
@@ -740,7 +740,7 @@ translate ru strings:
     new "По правде говоря, она даже не ожидала этого. Не в этот раз."
 
     old "Nor did she need it. The act of pleasuring him seemed to do enough for her. The heat between her legs growing ever more intense."
-    new "Да она и не нуждалась в этом. Сам акт доставления ему удовольствия был для неё достаточным. Жар между её ног становился всё сильнее."
+    new "Да она и не нуждалась в этом. Ей было достаточно просто доставлять ему удовольствие. Жар между её ног становился всё сильнее."
 
     old "This was his other side, or perhaps his true side."
     new "Это была его другая сторона, или, возможно, его истинная сущность."
@@ -749,7 +749,7 @@ translate ru strings:
     new "Та жестокость, которая странно ей нравилась."
 
     old "In her mind, flashes of all the other stupid girls that might have once found themselves here. Working his cock."
-    new "В её сознании вспыхивали образы всех тех глупых девушек, которые, возможно, когда-то оказывались здесь. Обслуживающих его член."
+    new "В её сознании вспыхивали образы всех тех глупых девушек, которые, возможно, когда-то оказывались здесь. Сосущих его член."
 
     old "Had they been as foolish as her? Dreaming that this man was anything other than what he was?"
     new "Были ли они такими же глупыми, как она? Мечтая, что этот человек был кем-то иным, а не тем, кто он есть?"
@@ -815,7 +815,7 @@ translate ru strings:
     new "К этому моменту она почти насаживалась горлом на его член, двигая головой вверх и вниз."
 
     old "Her own saliva sliding down the shaft, allowing it partially into her throat."
-    new "Её собственная слюна скользила по стволу, позволяя ему частично входить в горло."
+    new "Её собственная слюна скользила по стволу, позволяя ему входить в горло."
 
     old "Above her, she could hear his grunting growing deeper, more frequent."
     new "Над собой она слышала, как его стоны становятся глубже и чаще."

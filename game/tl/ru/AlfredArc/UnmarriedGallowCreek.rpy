@@ -17,7 +17,7 @@ translate ru strings:
     new "Дело не в тебе, Мариус... правда."
 
     old "You are kind, and handsome and...anything a girl could wish for in a husband."
-    new "Ты добрый, красивый и... всё, что девушка может пожелать в муже."
+    new "Ты добрый, красивый и... всё, о чём девушка может мечтать в муже."
 
     old "So what then?!"
     new "Так в чём же дело?!"
@@ -80,13 +80,13 @@ translate ru strings:
     new "Она попыталась утешить его, но он отшатнулся от неё, словно от жгучего растения."
 
     old "Everything I said about you is true...any girl will be lucky to call you their husband."
-    new "Всё, что я сказала о тебе, — правда... любая девушка почтёт за счастье назвать тебя своим мужем."
+    new "Всё, что я сказала о тебе, — правда... любая девушка была бы счастлива назвать тебя своим мужем."
 
     old "Yeah? Where are they then!?"
     new "Да? И где же они?!"
 
     old "This blasted town is scarce any unwed woman, and certainly none that will take a chance on a man of my prospects!"
-    new "В этом проклятом городе почти нет незамужних женщин, и уж точно ни одна не рискнёт с мужчиной с моими перспективами!"
+    new "В этом проклятом городе почти нет незамужних женщин, и уж точно ни одна не рискнёт с мужчиной с такими перспективами, как у меня!"
 
     old "Curses!"
     new "Проклятье!"
@@ -137,7 +137,7 @@ translate ru strings:
     new "Мелкий человек. Мелочный человек."
 
     old "Kind when he figured he could get what he wanted from her. Cruel when she had no more use of him."
-    new "Добрый, когда думал, что может получить от неё желаемое. Жестокий, когда она стала ему бесполезна."
+    new "Добрый, когда думал, что может получить от неё желаемое. Жестокий, когда она стала ему не нужна."
 
     old "The father and the son, both loathsome in their own way."
     new "Отец и сын — оба отвратительны по-своему."
@@ -164,10 +164,10 @@ translate ru strings:
     new "Она отказалась и, как и обещала, собрала свои скудные пожитки и снова отправилась в путь."
 
     old "The town of Gallow's Creek was small, and in little time at all, she left it far behind her."
-    new "Городок Галлоу-Крик был мал, и вскоре она оставила его далеко позади."
+    new "Городок Галлоуз-Крик был мал, и вскоре она оставила его далеко позади."
 
     old "In the rest of her life, the time spend at Gallow's Creek would prove but a passing memory, one of little relevance or impact."
-    new "В остальной её жизни время, проведённое в Галлоу-Крик, оказалось лишь мимолётным воспоминанием, не имевшим особого значения или влияния."
+    new "В остальной её жизни время, проведённое в Галлоуз-Крик, оказалось лишь мимолётным воспоминанием, не имевшим особого значения."
 
     old "After a few days walking she reached the nearby city."
     new "После нескольких дней пути она добралась до ближайшего города."
@@ -176,7 +176,7 @@ translate ru strings:
     new "У Сары не было ни монеты за душой, поэтому она продала единственную ценную вещь — платье, в котором была, когда бежала из Розанны."
 
     old "Delicate in craftsmanship and material, it fetched her a good amount, though far less than it was worth."
-    new "Нежное по мастерству исполнения и материалу, оно принесло ей неплохую сумму, хотя и гораздо меньше своей настоящей стоимости."
+    new "Изысканное по мастерству и материалу, оно принесло ей неплохую сумму, хотя и гораздо меньше своей настоящей стоимости."
 
     old "The coin from selling her dress lasted her a few months, enough for bread and a place to stay as she moved from inn to inn."
     new "Денег от продажи платья хватило на несколько месяцев — на хлеб и кров, пока она переезжала из таверны в таверну."
@@ -185,7 +185,7 @@ translate ru strings:
     new "Из города в город."
 
     old "The money would never last, so Sarah took to working."
-    new "Деньги никогда не были вечными, поэтому Сара начала работать."
+    new "Деньги быстро заканчивались, поэтому Сара начала работать."
 
     old "She knew how to clean and cook a little, enough to be paid for it."
     new "Она умела убирать и немного готовить — достаточно, чтобы за это платили."
@@ -203,7 +203,7 @@ translate ru strings:
     new "Ни одно место не стало для неё домом."
 
     old "And some unfamiliar force called on her to keep wandering."
-    new "И какая-то незнакомая сила звала её продолжать странствия."
+    new "И какая-то неведомая сила звала её продолжать странствия."
 
     old "Along the way, her life was filled with an endless flood of new faces and names."
     new "В пути её жизнь наполнялась бесконечным потоком новых лиц и имён."
@@ -215,7 +215,7 @@ translate ru strings:
     new "Случайный любовник."
 
     old "But she was forever detached from the world, and the people faded away just as the places did."
-    new "Но она была навечно отстранена от мира, и люди исчезали так же, как и места."
+    new "Но она навсегда оставалась отстранённой от мира, и люди исчезали так же, как и места."
 
     old "More than two decades had passed since she had left the town of Gallow's Creek, by now less than a memory."
     new "Более двух десятилетий прошло с тех пор, как она покинула городок Галлоу-Крик, ставший к тому времени не более чем воспоминанием."
@@ -269,8 +269,8 @@ translate ru strings:
     new "О, раньше я была принцессой."
 
     old "But it's been a long road since."
-    new "Но с тех пор прошёл долгий путь."
+    new "Но с тех пор я прошла долгий путь."
 
     old "Princess to refugee. Refugee to vagrant. Wanderer."
-    new "Из принцессы в беженку. Из беженки в бродяжку. Скиталицу."
+    new "Из принцессы в беженку. Из беженки в бродяжку. В скиталицу."
 

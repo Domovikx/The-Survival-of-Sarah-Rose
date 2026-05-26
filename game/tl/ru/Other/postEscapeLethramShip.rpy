@@ -32,7 +32,7 @@ translate ru strings:
     new "Каждый день считался благословением — ещё на день ближе к городу Рахаяль. К безопасности."
 
     old "And each passing day also meant more troubles. More anger. Starvation. Boredom."
-    new "Но каждый проходящий день означал и новые проблемы. Больше злости. Голод. Скуку."
+    new "Но каждый проходящий день означал и новые проблемы. Больше злости. Голод. Скука."
 
     old "Sarah herself helped the captain as best she could, trying to keep the people calm."
     new "Сара сама помогала капитану как могла, пытаясь успокоить людей."
@@ -110,7 +110,7 @@ translate ru strings:
     new "Сара помнила, как была поражена всеми этими видами."
 
     old "Her own home, Castle Reinmeer, in Rosanna, was a hovel compared to this."
-    new "Её собственный дом, замок Рейнмир в Розанне, был лачугой по сравнению с этим."
+    new "Её собственный дом, замок Рейнмир в Росанне, был лачугой по сравнению с этим."
 
     old "Sarah had grown up reading books with carefully drawn images, that spoke of this impossible city."
     new "Сара выросла, читая книги с тщательно нарисованными иллюстрациями, в которых рассказывалось об этом невероятном городе."
@@ -140,7 +140,7 @@ translate ru strings:
     new "Даже сейчас величайшая империя мира быстро узнавала, какая участь постигла Летрам."
 
     old "A nervous panic."
-    new "Тревожная паника."
+    new "Паника и тревога."
 
     old "These people, safe, feared the arrival of so many fleeing."
     new "Эти люди, в безопасности, боялись прибытия такого количества беженцев."
@@ -185,7 +185,7 @@ translate ru strings:
     new "Хотела бы я, чтобы голос в моей голове звучал больше как твой."
 
     old "More forgiving."
-    new "Более прощающий."
+    new "Более снисходительный."
 
     old "She heard Samayra sigh."
     new "Она услышала, как Самайра вздохнула."
@@ -503,7 +503,7 @@ translate ru strings:
     new "Вечный Совет правил Империей."
 
     old "If she wanted any chance to invoke the Empire's support in fighting the Voidlings, she would need to gain an audience with them."
-    new "Если она хотела иметь хоть какой-то шанс заручиться поддержкой Империи в борьбе с Порождениями Бездны, ей нужно было получить аудиенцию."
+    new "Если она хотела иметь хоть какой-то шанс заручиться поддержкой Империи в борьбе с Пустотниками, ей нужно было получить аудиенцию."
 
     old "She reached into her pocket and pulled out the letter that she had received from the courier."
     new "Она залезла в карман и достала письмо, полученное от курьера."
@@ -518,7 +518,7 @@ translate ru strings:
     new "И всё же она волновалась."
 
     old "It all felt too coincidental to be an accident."
-    new "Всё это казалось слишком совпадающим, чтобы быть случайностью."
+    new "Всё это казалось слишком неслучайным, чтобы быть просто совпадением."
 
     old "And she hated the idea of not understanding who he was or what his intentions were."
     new "И она ненавидела, что не понимала, кто он и каковы его намерения."
@@ -611,7 +611,7 @@ translate ru strings:
     new "Прижимаясь к ней."
 
     old "More than anything, it was comfortable."
-    new "Больше всего это было просто удобно."
+    new "Больше всего это было просто уютно."
 
     old "Sarah felt herself smiling as she wrapped her arms around Samayra."
     new "Сара почувствовала, что улыбается, обнимая Самайру."
@@ -662,7 +662,7 @@ translate ru strings:
     new "Его огромные сады и массивный комплекс на другом конце пристыдили бы её родовое поместье."
 
     old "Castle Reinmeer was a provincial little thing, compared to this behemoth."
-    new "Замок Рейнмир был провинциальной маленькой крепостью по сравнению с этим бегемотом."
+    new "Замок Рейнмир был провинциальной маленькой крепостью по сравнению с этим исполином."
 
     old "And Gilead was but one of many members of the Eternal Court. Not even a king."
     new "А Гилеад был лишь одним из многих членов Вечного Совета. Даже не король."
@@ -827,7 +827,7 @@ translate ru strings:
     new "Верно, я ищу союзников, чтобы помочь отразить это вторжение Бездны."
 
     old "And the Mythran Empire is home to the most powerful armies and wisest of rulers."
-    new "И Империя Мифрана может похвастаться самыми могущественными армиями и мудрейшими правителями."
+    new "В Империи Мифрана самые могущественные армии и мудрейшие правители."
 
     old "Save any flattery you might have for my fellow council members. I have long grown immune to it."
     new "Приберегите лесть для моих коллег по совету. Я давно к ней невосприимчив."
@@ -863,7 +863,7 @@ translate ru strings:
     new "Мы вполне можем все умереть вместе — дураки до самого конца."
 
     old "Sarah did his best to study him, but he revealed nothing."
-    new "Сара изо всех сил пыталась изучить его, но он ничего не выдавал."
+    new "Сара изо всех сил пыталась понять его, но он ничего не выдавал."
 
     old "To become a member of the Eternal Court was competitive. Only the most ruthless and ambitious rose to the top."
     new "Стать членом Вечного Совета было непросто. Только самые безжалостные и амбициозные поднимались наверх."
@@ -1106,7 +1106,7 @@ translate ru strings:
     new "Сара прищурилась, изучая это существо."
 
     old "She didnt't trust him, not fully. But she also doubted he was so crude as to simply lie to her."
-    new "Она не доверяла ему, не полностью. Но она также сомневалась, что он был настолько груб, чтобы просто солгать ей."
+    new "Она не доверяла ему, не полностью. Но она также сомневалась, что он был настолько примитивен, чтобы просто солгать ей."
 
     old "And he was right, should he betray her, she would have little trouble tearing him apart."
     new "И он был прав: если бы он предал её, она без труда разорвала бы его на части."

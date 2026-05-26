@@ -65,7 +65,7 @@ translate ru strings:
     new "Прости, я просто..."
 
     old "Maybe Jaeid gave you the wrong impression when he claimed you, but this city is not as safe as you may be used to."
-    new "Может, Джейд дал тебе неверное впечатление, когда заявил на тебя права, но этот город не так безопасен, как ты привыкла."
+    new "Может, у тебя сложилось неверное впечатление о Джейде, когда он заявил на тебя права, но этот город не так безопасен, как ты привыкла."
 
     old "He said he didn't claim me."
     new "Он сказал, что не заявлял на меня прав."
@@ -134,7 +134,7 @@ translate ru strings:
     new "Ты его рабыня. Ты в их глазах ничем не отличаешься от обуви, которую он носит."
 
     old "You wouldn't disrespect a man by stealing his shoes. So too, you wouldn't disrespect a man by harming his slave."
-    new "Ты бы не стал выказывать неуважение мужчине, украв его обувь. Точно так же ты не станешь выказывать неуважение, причинив вред его рабыне."
+    new "Ты бы не стала выказывать неуважение мужчине, украв его обувь. Точно так же ты не станешь выказывать неуважение, причинив вред его рабыне."
 
     old "They don't worry about hurting you. They worry about hurting his pride."
     new "Они не беспокоятся о том, чтобы причинить тебе боль. Они беспокоятся о том, чтобы задеть его гордость."
@@ -152,7 +152,7 @@ translate ru strings:
     new "Ты будешь в безопасности, пока люди понимают, кто ты. Рабыня, принадлежащая кому-то."
 
     old "But still, this city being what it is..."
-    new "Но всё же, этот город есть этот город..."
+    new "Но всё же, город есть город..."
 
     old "The truth is there are men who don't even respect that much. There are still dangers out there."
     new "Правда в том, что есть мужчины, которые не уважают даже этого. Снаружи всё ещё есть опасности."
@@ -353,7 +353,7 @@ translate ru strings:
     new "Нет... боюсь, что нет."
 
     old "Because the Tribes respect a slave that learns their place. Works to integrate into the Tribes. Become a member by submitting."
-    new "Потому что Племена уважают раба, который знает своё место. Который старается влиться в Племена. Стать членом, подчиняясь."
+    new "Потому что Племена уважают рабыню, которая знает своё место. Которая старается влиться в Племена. Стать членом, подчиняясь."
 
     old "They allow masters to set their slaves free, but they are no fools."
     new "Они позволяют хозяевам отпускать рабов на свободу, но они не дураки."

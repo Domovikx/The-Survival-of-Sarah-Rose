@@ -1,30 +1,28 @@
-# Скилы (Skills)
+# Конвейер перевода
 
-SKILL.md — файлы с инструкциями для агентов. Загружаются через `skill({ name: "..." })` внутри агента.
+## 1 — Извлечение
+`skill({ name: "renpy-extract" })`
 
-**Документация:** https://opencode.ai/docs/skills/
+## 2 — Перевод
+`skill({ name: "skill-translate-rpy" })`
 
-**Формат:**
-```
+## 3 — Проверка
+`skill({ name: "skill-review-rpy" })`
+
+Блоки 2+3 загружать последовательно в одном агенте.
+
+## 4 — Параллельная обработка
+`skill({ name: "orchestrator" })`
+
+Запускает блоки 2+3 для нескольких файлов (до 5 одновременно).
+
+## 5 — Очистка кэша
+`skill({ name: "renpy-clear-cache" })`
+
+Или вручную: `python .opencode/skills/renpy-clear-cache/clear_cache.py "game"`
+
 ---
-name: skill-name
-description: Что делает (1-1024 символа)
-license: MIT
-compatibility: opencode
-metadata:
-  ключ: значение
----
 
-Инструкции для агента, который загрузил этот скил...
-```
-
-**Правила:**
-- Каждый скил — отдельная папка `skills/<name>/SKILL.md`
-- `name` должен совпадать с именем папки
-- `name` только lowercase + дефисы (regex: `^[a-z0-9]+(-[a-z0-9]+)*$`)
-- `description` обязателен, 1-1024 символа
-
-**Текущие скилы:**
-
-- `batch-translate` — инструкция для запуска пакетного перевода
-- `renpy-translate` — инструкция для перевода одного файла Ren'Py
+### Вспомогательные
+- `renpy-dedup` — удаление дублей `old` строк
+- `list-translation-files` — статус перевода по аркам

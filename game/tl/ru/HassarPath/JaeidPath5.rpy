@@ -14,7 +14,7 @@ translate ru strings:
     new "Она заметила, что когда работала, её разум был слишком занят, чтобы беспокоиться о больших проблемах."
 
     old "Too distracted for grief."
-    new "Слишком занята для скорби."
+    new "Слишком отвлечена для скорби."
 
     old "Outside of keeping the house clean, she had also offered to do most of the shopping as well."
     new "Помимо уборки дома, она также вызвалась делать большую часть покупок."
@@ -104,7 +104,7 @@ translate ru strings:
     new "На больших рынках толпа становилась такой плотной, что приходилось чуть ли не протискиваться сквозь людей."
 
     old "And given Sarah's strength, it was hard not to be swept up by the crowd."
-    new "И учитывая силы Сары, её легко могло унести толпой."
+    new "И учитывая силу Сары, её легко могло унести толпой."
 
     old "As she walked further along the markets and inspected the first of the stalls, Sarah slowly made an inventory in her mind."
     new "Проходя дальше по рынку и осматривая первые ларьки, Сара медленно составляла в уме перечень."
@@ -131,16 +131,16 @@ translate ru strings:
     new "Но здесь, будучи рабыней, она едва ли заслуживала их внимания."
 
     old "What attention she did earn was the same she had always endured. The wandering eyes of men."
-    new "А то внимание, которое она получала, было тем же, что она всегда терпела. Блуждающие взгляды мужчин."
+    new "А то внимание, которое она получала, было тем же, что она всегда терпела. Похотливые взгляды мужчин."
 
     old "And here their hands wandered as their eyes did."
-    new "И здесь их руки блуждали так же, как и глаза."
+    new "И здесь их руки шарили так же, как и глаза."
 
     old "More than once, she would feel a hand, graze her skin or cup her ass."
-    new "Больше одного раза она чувствовала руку, скользящую по коже или сжимающую её зад."
+    new "Не раз она чувствовала руку, скользящую по коже или сжимающую её зад."
 
     old "Again, in Rosanna, they would have paid dearly for it."
-    new "В Розанне они дорого бы за это заплатили."
+    new "Опять же, в Розанне они дорого бы за это заплатили."
 
     old "Here, Sarah knew she could not so much as raise an objection. She had no rights against them."
     new "Здесь же Сара знала, что не может даже возразить. У неё не было прав против них."
@@ -152,7 +152,7 @@ translate ru strings:
     new "Сара произносила слова медленно, с ломаным акцентом."
 
     old "Jasmine had taught her the most basic of words in the language of the Tribes, and Sarah did her best to imitate it."
-    new "Джасмин научила её самым простым словам на языке Племён, и Сара изо всех сил старалась подражать."
+    new "Джасмин научила её самым простым словам на языке Племён, и Сара изо всех сил старалась подражать ему."
 
     old "Sarah learned that if she spoke slowly and clearly, and repeated herself many times, eventually they would understand."
     new "Сара поняла, что если говорить медленно и чётко и повторять много раз, в конце концов они поймут."
@@ -164,7 +164,7 @@ translate ru strings:
     new "Выходило не идеально, но справлялось."
 
     old "The merchant nodded to her broken speech and laid out some bags of rice."
-    new "Купец кивнул на её ломаную речь и выложил несколько мешков риса."
+    new "Купец кивнул, услышав её ломаную речь, и выложил несколько мешков риса."
 
     old "Sarah suddenly cried out and spun around in shock."
     new "Сара вдруг вскрикнула и в шоке развернулась."
@@ -317,13 +317,13 @@ translate ru strings:
     new "Его тело оказалось телом воина, покрытым мышцами и шрамами."
 
     old "He was strong for a man. For a woman, impossible to fight."
-    new "Он был силён для мужчины. Для женщины — невозможно было сражаться."
+    new "Он был силён для мужчины. Для женщины сражаться с ним было невозможно."
 
     old "He crossed the small distance between them in the alley and grabbed her by her hair."
     new "Он преодолел небольшое расстояние между ними в переулке и схватил её за волосы."
 
     old "Sarah let out a meek cry, but it purchased her no consideration."
-    new "Сара издала слабый вскрик, но это не купило ей никакой пощады."
+    new "Сара издала слабый вскрик, но это не принесло ей никакой пощады."
 
     old "Twisting her by her hair he guided her down to the pile of crates, wares from the markets."
     new "Поворачивая её за волосы, он направил её к груде ящиков — товарам с рынка."
@@ -353,7 +353,7 @@ translate ru strings:
     new "Она лишь обрадовалась этому осознанию — лучше так, чем насухо."
 
     old "Then she felt more of his inches enter her."
-    new "Затем она почувствовала, как больше дюймов его плоти входит в неё."
+    new "Затем она почувствовала, как ещё несколько дюймов его плоти входят в неё."
 
     old "Sarah gripped the edges of the crate for balance as she began to rock back and forth."
     new "Сара вцепилась в края ящика для равновесия, начиная покачиваться вперёд-назад."
@@ -368,7 +368,7 @@ translate ru strings:
     new "Каждый раз она думала, что уже приняла его целиком, и каждый раз чувствовала, как он проникает глубже."
 
     old "Behind her she could hear him grunting at the pleasure he took from her body."
-    new "Позади неё она слышала его хриплое дыхание от удовольствия, которое он брал от её тела."
+    new "Позади неё она слышала его довольное ворчание от удовольствия, которое он брал от её тела."
 
     old "But trapped beneath him, Sarah could not deny the ways of her own body either."
     new "Но оказавшись в ловушке под ним, Сара не могла отрицать и реакцию собственного тела."
@@ -479,5 +479,5 @@ translate ru strings:
     new "В этом странном месте пройдёт много времени, прежде чем она снова почувствует себя нормально."
 
     old "Maybe she never would again."
-    new "Может, она никогда больше не почувствует."
+    new "Может, она никогда больше не почувствует этого."
 

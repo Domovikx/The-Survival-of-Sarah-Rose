@@ -8,10 +8,10 @@ translate ru strings:
     new "Сара и Гаррет пробирались через лес."
 
     old "With the spirit seemingly subdued, it felt as if all of the forest had become more calm."
-    new "Когда дух, казалось, был усмирён, весь лес словно стал спокойнее."
+    new "Когда дух, казалось, утих, весь лес словно стал спокойнее."
 
     old "Sarah relied on Garret's tracking skills to lead them back to civilization."
-    new "Сара полагалась на следопытские навыки Гаррета, чтобы вернуться к цивилизации."
+    new "Сара положилась на чутьё следопыта Гаррета, чтобы он вывел их обратно к цивилизации."
 
     old "Whatever else she could say of him, he was most certainly a skilled Huntsman."
     new "Что бы она о нём ни говорила, он был искусным Охотником."
@@ -476,7 +476,7 @@ translate ru strings:
     new "Теперь Сара гадала больше, чем когда-либо, что же случилось."
 
     old "Had her younger self been a fool? Or had she herself grown strange to the world?"
-    new "Была ли её юная версия себя дурой? Или же она сама стала чужой этому миру?"
+    new "Была ли она в юности дурой? Или же она сама стала чужой этому миру?"
 
     old "With some help from the servant girl, Sarah finally managed to put the dress on."
     new "С помощью служанки Сара наконец смогла надеть платье."
@@ -1010,7 +1010,7 @@ translate ru strings:
     new "Да... думаю, ты бы ей понравилась."
 
     old "Yeah, she always liked small things."
-    new "Да, она всегда любила маленькие вещи."
+    new "Да, она всегда любила маленьких."
 
     old "Samayra quickly got over the insult."
     new "Самайра быстро пережила оскорбление."

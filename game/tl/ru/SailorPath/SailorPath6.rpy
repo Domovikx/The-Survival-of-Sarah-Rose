@@ -20,7 +20,7 @@ translate ru strings:
     new "Иногда она проходила мимо, и капитан выкрикивал новые приказы, новые приготовления, новые вещи, которые нужны были с рынка."
 
     old "It was busy, but to Sarah, it felt like the good kind."
-    new "Было занято, но Саре это казалось приятной занятостью."
+    new "Хлопот было много, но Саре это казалось приятной занятостью."
 
     old "Hey, stop day dreaming!"
     new "Эй, хватит мечтать!"
@@ -53,7 +53,7 @@ translate ru strings:
     new "Думаю...у нас всё ещё есть время. Просто нужно успеть до конца дня."
 
     old "Today? When are we gonna get the time? We also have to pick up food stuffs from the butcher, and that's all the way up hill."
-    new "Сегодня? Когда мы найдём время? Нам ещё нужно забрать продукты у мясника, а это вверх по холму."
+    new "Сегодня? Когда мы найдём время? Нам ещё нужно забрать продукты у мясника, а это в гору."
 
     old "Sure, that's true, but the pressing oil store won't be open tomorrow. So we should get that done today."
     new "Да, верно, но магазин прессового масла завтра будет закрыт. Так что нужно сделать это сегодня."
@@ -128,7 +128,7 @@ translate ru strings:
     new "Ты нигде подолгу не задерживаешься?"
 
     old "Nah. I like to stay on the move, never settle anywhere for long. Sailing is one of the few vocations where that's actually a benefit."
-    new "Не. Люблю быть в движении, не оседать надолго. Плавание — одна из тех профессий, где это преимущество."
+    new "Неа. Люблю быть в движении, не оседать надолго. Плавание — одна из тех профессий, где это преимущество."
 
     old "Don't you miss family?"
     new "А ты не скучаешь по семье?"
@@ -137,13 +137,13 @@ translate ru strings:
     new "Нельзя скучать по тому, чего у тебя нет."
 
     old "Grew up in an orphanage in Lethram. Ran away when I was about thirteen and never looked back."
-    new "Вырос в приюте в Лэтраме. Сбежал, когда мне было около тринадцати, и больше не оглядывался."
+    new "Вырос в приюте в Летраме. Сбежал, когда мне было около тринадцати, и больше не оглядывался."
 
     old "Sarah struggled to wrap her mind around it."
     new "Саре было трудно осознать это."
 
     old "The streets of Lethram seemed dangerous to her at twenty-two, she couldn't imagine trying to survive at thirteen."
-    new "Улицы Лэтрама казались ей опасными в двадцать два, она не могла представить, как можно выжить там в тринадцать."
+    new "Улицы Летрама казались ей опасными в двадцать два, она не могла представить, как можно выжить там в тринадцать."
 
     old "How could you possibly have survived that?"
     new "Как ты вообще смог это пережить?"
@@ -203,7 +203,7 @@ translate ru strings:
     new "Выходит, что так."
 
     old "Nick suddenly punched her on the shoulder."
-    new "Ник внезапно ткнул её в плечо."
+    new "Ник внезапно стукнул её по плечу."
 
     old "Don't be so gloom. I've been alone most of my life. You've only been alone for a few weeks."
     new "Не будь такой мрачной. Я был один большую часть жизни. Ты одна всего несколько недель."
@@ -233,7 +233,7 @@ translate ru strings:
     new "Нет, он не любитель поболтать. По крайней мере, мне кажется, он никогда особо не слушает, что я говорю."
 
     old "I can't blame him. It can be hard to look at you and not get distracted."
-    new "Я его не виню. Трудно смотреть на тебя и не отвлекаться."
+    new "Я его не осуждаю. Трудно смотреть на тебя и не отвлекаться."
 
     old "He winked at her."
     new "Он подмигнул ей."
@@ -482,7 +482,7 @@ translate ru strings:
     new "Сара рванула вперёд и прижалась губами к губам Ника."
 
     old "She had caught him by surprise, but she could feel him slowly warm to her."
-    new "Она застала его врасплох, но чувствовала, как он медленно отогревается к ней."
+    new "Она застала его врасплох, но чувствовала, как он медленно оттаивает."
 
     old "His hand gripped her waist, pulling her closer."
     new "Его рука сжала её талию, притягивая ближе."
@@ -545,7 +545,7 @@ translate ru strings:
     new "Сара была поражена, что он может говорить так спокойно. Вес контейнеров, казалось, совсем на него не влиял."
 
     old "Grabbing her own canister, Sarah nearly felt her back go out."
-    new "Схватив свой собственный контейнер, Сара едва не сорвала спину."
+    new "Схватив свой контейнер, Сара едва не надорвала спину."
 
     old "Don't complain, be strong, she reminded herself."
     new "Не жалуйся, будь сильной, напомнила она себе."
@@ -791,7 +791,7 @@ translate ru strings:
     new "Вялый член Ника по сравнению с эрегированным членом Белмонта был жестокой шуткой природы."
 
     old "Sarah had never had many points of reference, but she had almost implicitly understood that the captain was well-endowed."
-    new "У Сары было не так много точек отсчёта, но она почти подсознательно понимала, что капитан был хорошо одарён."
+    new "У Сары было не так много опыта для сравнения, но она почти подсознательно понимала, что капитан был хорошо одарён."
 
     old "Still, while she thought the captain might have been bigger than most men, Sarah couldn't help but feel shocked by how much larger he was than Nick."
     new "И всё же, хотя она думала, что капитан может быть больше большинства мужчин, Сара не могла не чувствовать шока от того, насколько он был крупнее Ника."

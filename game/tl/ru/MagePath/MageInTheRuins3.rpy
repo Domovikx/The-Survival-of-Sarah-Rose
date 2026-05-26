@@ -83,13 +83,13 @@ translate ru strings:
     new "Сара увидела краем глаза, как Геката смотрит на неё."
 
     old "We're fine too, thanks for asking."
-    new "Мы тоже в порядке, спасибо, что спросил."
+    new "Мы тоже в порядке, спасибо, что спросила."
 
     old "But Sarah had no care for anyone else. Her friend was alive, and that was all that mattered."
     new "Но Сару никто больше не волновал. Её подруга была жива, и это было единственным, что имело значение."
 
     old "It got close for a minute, but we're unharmed mostly."
-    new "Было близко к этому минутку, но мы в основном невредимы."
+    new "Было опасно всего минуту, но мы в основном невредимы."
 
     old "The creature gave you a real beating, and after that it turned back on us."
     new "Существо изрядно тебя отделало, а потом переключилось на нас."
@@ -149,7 +149,7 @@ translate ru strings:
     new "Крыша обрушилась всего минуту назад."
 
     old "A minute...Sarah wondered. Was that really possible?"
-    new "Минута...удивилась Сара. Неужели это возможно?"
+    new "Минута... удивилась Сара. Неужели это возможно?"
 
     old "She was certain more time had passed. Or did the void warp both reality and time?"
     new "Она была уверена, что прошло больше времени. Или пустота исказила и реальность, и время?"
@@ -470,7 +470,7 @@ translate ru strings:
     new "Ведьма и Рыцарь вышли через другой дверной проём, ведущий их туда, куда им было нужно."
 
     old "Save for Samayra, the house was emtpy again."
-    new "Кроме Самайры, дом снова был пуст."
+    new "Не считая Самайры, дом снова был пуст."
 
     old "The house was empty again."
     new "Дом снова был пуст."
@@ -524,7 +524,7 @@ translate ru strings:
     new "Закрыв глаза, она прокрутила в уме все события."
 
     old "What to do about it all...she wasn't too certain."
-    new "Что со всем этим делать...она была не слишком уверена."
+    new "Что со всем этим делать... она была не слишком уверена."
 
     old "She had earned a day of rest, and she was eager to take it."
     new "Она заслужила день отдыха и была готова им воспользоваться."
@@ -1754,7 +1754,7 @@ translate ru strings:
     new "Затем Сара упала обратно в его объятия."
 
     old "And though neither spoke for a long time, they had said plenty aloud and in silence."
-    new "И хотя ни один не говорил долгое время, они сказали многое вслух и в тишине."
+    new "И хотя никто не говорил долгое время, они сказали многое вслух и в тишине."
 
     old "A new understanding had grown between them."
     new "Между ними выросло новое понимание."
@@ -2204,7 +2204,7 @@ translate ru strings:
     new "Так вот, я стоял у штурвала корабля, обнажив клинок, и тут-"
 
     old "LISTEN HERE YA LOWLIVES! CLOSIN UP! GET LOST!"
-    new "СЛУШАЙ СЮДА, МРАЗЬ! ЗАКРЫВАЕМСЯ! ВАЛИТЕ!"
+    new "СЛУШАЙ СЮДА, МРАЗИ! ЗАКРЫВАЕМСЯ! ВАЛИТЕ!"
 
     old "Sarah looked up, groggy and confused."
     new "Сара подняла голову, сонная и сбитая с толку."
@@ -2567,7 +2567,7 @@ translate ru strings:
     new "И снова..."
 
     old "Each time she adapted a new strategy. Each time Belmont matched her effortlessly."
-    new "Каждый раз она применяла новую стратегию. Каждый раз Бельмонт effortlessly отвечал ей."
+    new "Каждый раз она применяла новую стратегию. Каждый раз Бельмонт с лёгкостью отвечал ей."
 
     old "Sarah kept climbing back to her feet."
     new "Сара продолжала подниматься на ноги."

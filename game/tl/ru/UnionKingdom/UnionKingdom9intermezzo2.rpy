@@ -242,10 +242,10 @@ translate ru strings:
     new "Умно."
 
     old "And now all this talk of assassins has got me paranoid."
-    new "А теперь все эти разговоры об убийцах заставили меня параноить."
+    new "А теперь все эти разговоры об убийцах заставили меня быть начеку."
 
     old "Ooh, that's no good."
-    new "Оу, это нехорошо."
+    new "Ой, это нехорошо."
 
     old "Now I feel like I can't leave you alone."
     new "Теперь я чувствую, что не могу оставить тебя одну."

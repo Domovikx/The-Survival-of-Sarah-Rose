@@ -14,7 +14,7 @@ translate ru strings:
     new "Дела её Двора частично разворачивались на публике, но самые важные решения обычно принимались здесь."
 
     old "She didn't enjoy the secrecy, not in the way that some like her Spymaster did, but she also knew that even Castle Reinmeer had plenty of spying eyes and ears."
-    new "Ей не нравилась скрытность, не так, как некоторым вроде её шпионмейстера, но она также знала, что даже в замке Рейнмир полно шпионящих глаз и ушей."
+    new "Ей не нравилась скрытность, не так, как её шпионмейстеру, но она также знала, что даже в замке Рейнмир полно шпионов и соглядатаев."
 
     old "Some things were better discussed in secret."
     new "Некоторые вещи лучше обсуждать в тайне."
@@ -47,7 +47,7 @@ translate ru strings:
     new "Если у неё и были беспокойства, они не проявлялись на лице или в теле."
 
     old "Calm and collected as always, she sat down, a thick ledger of accounts placed down in front of her."
-    new "Спокойная и собранная как всегда, она села, положив перед собой толстую бухгалтерскую книгу."
+    new "Спокойная и собранная, как всегда, она села, положив перед собой толстую бухгалтерскую книгу."
 
     old "She watched Lady Carolyn open the ledger, making notes. Always working, even in the brief moments between other work."
     new "Она смотрела, как леди Кэролин открыла книгу, делая пометки. Всегда работает, даже в короткие моменты между другой работой."
@@ -62,7 +62,7 @@ translate ru strings:
     new "Он сел рядом с ней, но на расстоянии."
 
     old "Officially he was still king, even if he had given her all the duties and priviledges under the title of Regent."
-    new "Официально он всё ещё был королём, даже если передал ей все обязанности и привилегии под титулом Регента."
+    new "Официально он всё ещё был королём, даже если передал ей все обязанности и привилегии с титулом Регента."
 
     old "Most days he did not bother to attend the council meetings, trusting her to rule in his stead."
     new "В большинстве дней он не утруждал себя посещением заседаний совета, доверяя ей править вместо него."
@@ -92,7 +92,7 @@ translate ru strings:
     new "Ранее сегодня королевский гонец из Норманди был отправлен сюда по приказу королевы Маэйв."
 
     old "He was instructed to ride as swiftly as he could and to deliver this message directly to me."
-    new "Ему было приказано скакать так быстро, как только возможно, и доставить это послание непосредственно мне."
+    new "Он получил приказ скакать так быстро, как только возможно, и доставить это послание непосредственно мне."
 
     old "Sarah held up the letter."
     new "Сара подняла письмо."
@@ -116,7 +116,7 @@ translate ru strings:
     new "Совет Союза не созывался более века..."
 
     old "Diplomatic as always, he spoke only facts, keeping himself from speaking out for any particular position."
-    new "Дипломатичный как всегда, он говорил только факты, воздерживаясь от высказывания какой-либо позиции."
+    new "Дипломатичный, как всегда, он говорил только факты, воздерживаясь от высказывания какой-либо позиции."
 
     old "Sarah placed the letter back down on the table and looked across the room."
     new "Сара положила письмо обратно на стол и оглядела комнату."
@@ -143,7 +143,7 @@ translate ru strings:
     new "Подвергаясь набегам оркских племён из Хайральских гор и набегам Племён из пустыни на востоке, народы Союза оставались едиными под постоянными атаками."
 
     old "But no condition remained static forever."
-    new "Но ни одно состояние не остаётся статичным навсегда."
+    new "Но ни одно положение не остаётся неизменным навсегда."
 
     old "Great Khans rose and fell, and for centuries, no new Khan would rise."
     new "Великие ханы возвышались и падали, и веками не возвышался ни один новый хан."
@@ -362,7 +362,7 @@ translate ru strings:
     new "Если бы кто-то знал заранее, будет ли он погашен или нет, тогда не было бы нужды в банкире."
 
     old "Rather, the banker does not seek to resolve the question of risk, but rather, to live with it and balance it."
-    new "Скорее, банкир не стремится разрешить вопрос риска, а скорее жить с ним и балансировать его."
+    new "Скорее, банкир не стремится разрешить вопрос риска, а скорее жить с ним и управлять им."
 
     old "She leaned forward."
     new "Она подалась вперёд."

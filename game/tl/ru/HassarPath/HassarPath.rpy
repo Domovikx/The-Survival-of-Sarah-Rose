@@ -50,7 +50,7 @@ translate ru strings:
     new "На мгновение она увидела, но её разум с трудом осознавал увиденное."
 
     old "She had expected any manner of things, but this place was not one of them."
-    new "Она ожидала чего угодно, но это место не было одним из них."
+    new "Она ожидала чего угодно, но это место было совсем не таким."
 
     old "Slowly, Sarah began to make sense of it all."
     new "Медленно Сара начала осознавать всё это."
@@ -77,7 +77,7 @@ translate ru strings:
     new "Ароматные специи наполнили её нос запахом фруктов."
 
     old "Even the temperature was cool and relaxing to the touch, where in the palace itself the heat had been opressive."
-    new "Даже температура была прохладной и расслабляющей на ощупь, тогда как в самом дворце жара была гнетущей."
+    new "Даже воздух был прохладным и приятным на ощупь, тогда как в самом дворце жара была гнетущей."
 
     old "Sarah took a few steps forward."
     new "Сара сделала несколько шагов вперёд."
@@ -161,7 +161,7 @@ translate ru strings:
     new "Девушка, казалось, выглядела почти печальной, когда говорила это."
 
     old "So this is a place for him to get away from all that. A chance to relax, and let all the awful stuff out there, slip away."
-    new "Так что это место для него, чтобы уйти от всего этого. Шанс расслабиться и позволить всему ужасному снаружи уйти."
+    new "Так что это место для него, чтобы отдохнуть от всего этого. Шанс расслабиться и забыть обо всём ужасном, что осталось снаружи."
 
     old "The girl smiled."
     new "Девушка улыбнулась."
@@ -227,7 +227,7 @@ translate ru strings:
     new "Сара увидела, как глаза девушки расширились. Она начала качать головой."
 
     old "Ooh no! Not at all!"
-    new "О нет! Вовсе нет!"
+    new "Оу нет! Вовсе нет!"
 
     old "Sarah suddenly grew confused again."
     new "Сара внезапно снова запуталась."
@@ -278,7 +278,7 @@ translate ru strings:
     new "Мы немного гуляли по садам, и он рассказывал мне о своей жизни и... ну, я как бы просто... влюбилась в него."
 
     old "He's not at all as mean as people think he is. He's actually a big softie under it all."
-    new "Он вовсе не такой злой, как люди думают. На самом деле он большой мягкотелый внутри."
+    new "Он вовсе не такой злой, как люди думают. В душе он очень добрый."
 
     old "Sarah listened with utter disbelief at Sophia's story."
     new "Сара слушала историю Софии с полным недоверием."
@@ -386,7 +386,7 @@ translate ru strings:
     new "У каждой здесь есть личные покои, куда можно уединиться, если хочется побыть одной."
 
     old "And sometimes where Hassar can visit if he only wants to speak to one of us."
-    new "И иногда — куда Хассар может прийти, если хочет поговорить с кем-то из нас."
+    new "И иногда — куда Хассар может прийти, если хочет просто поговорить с кем-то из нас."
 
     old "The woman emphasised the word speak, as if to suggest that was hardly all she meant by it."
     new "Женщина выделила слово «поговорить», будто намекая, что это далеко не всё, что она имела в виду."
@@ -428,7 +428,7 @@ translate ru strings:
     new "Но не думай об этом как о тюрьме."
 
     old "There is nothing you want that you can't get, all you need to do is ask for it and they'll deliver it as soon as they can."
-    new "Нет ничего, чего бы ты ни захотела и не могла получить. Всё, что нужно — попросить, и они доставят это как только смогут."
+    new "Ты можешь получить всё, что захочешь. Всё, что нужно — попросить, и они доставят это как только смогут."
 
     old "If it's in the city, you'll likely get it the same day. Other items can take a while, but Hassar has always come through on any request."
     new "Если это есть в городе, ты, скорее всего, получишь это в тот же день. Другие вещи могут занять время, но Хассар всегда выполнял любые просьбы."
@@ -587,7 +587,7 @@ translate ru strings:
     new "Внезапно они свернули за угол, и перед ними открылась комната."
 
     old "Draped and decorated in the style of the tribes, Sarah felt her eyes lost in the splendor of it."
-    new "Задрапированная и украшенная в стиле племён, комната заставила глаза Сары потеряться в её великолепии."
+    new "Задрапированная и украшенная в стиле племён, комната ослепила Сару своим великолепием."
 
     old "Everywhere, beautiful colored silk drowned the room in a bright hue."
     new "Повсюду прекрасный цветной шёлк заливал комнату яркими оттенками."

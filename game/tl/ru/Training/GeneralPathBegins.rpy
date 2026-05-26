@@ -26,10 +26,10 @@ translate ru strings:
     new "Кейт расскажет тебе подробнее. Она прошла его, как и любой другой член отряда."
 
     old "For some reason, Sarah had presumed she would be admitted on the basis of her station."
-    new "Почему-то Сара предполагала, что её примут на основании положения."
+    new "Почему-то Сара предполагала, что её примут благодаря её положению."
 
     old "But this was a new world for Sarah. Here, her title didn't mean much of anything."
-    new "Но это был новый мир для Сары. Здесь её титул почти ничего не значил."
+    new "Но для Сары это был новый мир. Здесь её титул почти ничего не значил."
 
     old "And with Rosanna now fallen, Sarah had no fortune, no castle and no army to support her claims."
     new "А с падением Розанны у Сары не осталось ни состояния, ни замка, ни армии, чтобы подтвердить свои притязания."
@@ -44,7 +44,7 @@ translate ru strings:
     new "Оказавшись снаружи, Сара повернулась к Кейт."
 
     old "What can you tell me about the initiation?"
-    new "Что ты можешь рассказать об инициации?"
+    new "Что ты можешь рассказать о посвящении?"
 
     old "It's a series of tests, designed to see that if have what it takes to be a soldier."
     new "Это серия испытаний, чтобы проверить, есть ли у тебя то, что нужно солдату."
@@ -65,7 +65,7 @@ translate ru strings:
     new "Но хорошая новость в том, что можно тренироваться. Это не невозможное испытание, с правильной подготовкой любой может научиться его проходить."
 
     old "It's just a matter of having the endurance and the willpower to train."
-    new "Вопрос лишь в выносливости и силе воли для тренировок."
+    new "Вопрос лишь в выносливости и силе воли, чтобы тренироваться."
 
     old "Kate grabbed Sarah by the shoulders."
     new "Кейт схватила Сару за плечи."

@@ -56,7 +56,7 @@ translate ru strings:
     new "Прости... это просто не откладывается."
 
     old "I don't think this is working..."
-    new "Я не думаю, что это работает..."
+    new "Кажется, это не работает..."
 
     old "Sarah felt horrible wasting their time like this."
     new "Саре было ужасно жаль тратить их время впустую."
@@ -299,7 +299,7 @@ translate ru strings:
     new "Вот как я живу — не ищу оправданий и не вру. Я тот, кто я есть, и всё тут."
 
     old "But that's also why you go around walkin with your head upside down."
-    new "Но именно поэтому ты ходишь с перевёрнутой головой."
+    new "Но именно поэтому у тебя всё в голове перевернулось."
 
     old "You love my cock, it's that simple."
     new "Ты любишь мой член, всё просто."
@@ -515,7 +515,7 @@ translate ru strings:
     new "Его радовало, что даже в старости ему всё ещё удаётся укладывать женщин в постель, а если не приходится платить, то ещё лучше."
 
     old "Sarah, for her part, committed herself to the task of stroking the captain to completion."
-    new "Сара, со своей стороны, посвятила себя задаче довести капитана до финала руками."
+    new "Сара, со своей стороны, посвятила себя задаче довести капитана до конца руками."
 
     old "She tightened her grasp on his cock, adding another hand, stroking him faster and faster."
     new "Она усилила хватку на его члене, добавив вторую руку, поглаживая его всё быстрее и быстрее."
@@ -551,7 +551,7 @@ translate ru strings:
     new "Наклонившись вперёд, обхватив одну грудь каждой рукой, Сара раздвинула свою грудь ровно настолько, чтобы поместить между ними член капитана."
 
     old "Pushing her tits back together, Sarah could feel the captain's cock, burning between them, gaining some kind of grip on it."
-    new "Сжав груди обратно, Сара чувствовала член капитана, горящий между ними, обретая некую хватку."
+    new "Сжав груди обратно, Сара чувствовала член капитана, горящий между ними, обретая на него хороший захват."
 
     old "Inexperienced, but eager to try, Sarah began to thrust her chest up and down."
     new "Неопытная, но стремящаяся попробовать, Сара начала двигать грудью вверх и вниз."

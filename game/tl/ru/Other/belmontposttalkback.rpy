@@ -71,7 +71,7 @@ translate ru strings:
     new "Сара произнесла слова между стонами."
 
     old "It was what he wanted to hear, as much as it was the truth."
-    new "Это было то, что он хотел услышать, и в то же время правдой."
+    new "Это было то, что он хотел услышать, и в то же время — правдой."
 
     old "Each thrust from him resulted in a pounding wave of pleasure that hit her body like a hammer."
     new "Каждый его толчок порождал ударную волну наслаждения, бьющую по её телу, как молот."
@@ -206,7 +206,7 @@ translate ru strings:
     new "Невысказанное указание уйти."
 
     old "Sarah quickly began to dress herself and headed out into the cold streets of a dark Lethram."
-    new "Сара быстро начала одеваться и вышла на холодные улицы тёмного Лезрама."
+    new "Сара быстро начала одеваться и вышла на холодные улицы тёмного Летрема."
 
     old "She was eager to forget, even though she knew she never would."
     new "Она жаждала забыть, хотя знала, что никогда не сможет."

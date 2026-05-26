@@ -23,7 +23,7 @@ translate ru strings:
     new "Теперь она была кем-то для этого мужчины."
 
     old "Could he even read, she wondered. More likely not, she concluded."
-    new "Умеет ли он вообще читать, задалась она вопросом. Скорее всего нет, заключила она."
+    new "Умеет ли он вообще читать, подумала она. Скорее всего, нет, решила она."
 
     old "Don't act superior, Sarah reminded herself. Literate or not, he had still managed to bend her over and fill her up with his cum."
     new "Не строй из себя превосходство, напомнила себе Сара. Грамотный или нет, он всё равно сумел согнуть её и наполнить своей спермой."
@@ -50,7 +50,7 @@ translate ru strings:
     new "Твёрдый. Он был таким невероятно твёрдым."
 
     old "Perhaps too scared to think of anything else, or out of a sense of obligation, Sarah began to stroke his cock."
-    new "Возможно, слишком напуганная, чтобы думать о чём-то ещё, или из чувства долга, Сара начала гладить его член."
+    new "Может, от страха она не могла думать ни о чём другом, а может, из чувства долга — Сара начала гладить его член."
 
     old "Her fingers wrapped all around him, taking a firmer hold on his member."
     new "Её пальцы обхватили его, крепче сжимая его член."
@@ -110,7 +110,7 @@ translate ru strings:
     new "Он увеличил темп и начал вгонять свой член в неё глубже, втрахивая её всё быстрее."
 
     old "The feeling of being ravaged by him soon made her turn wet, which in turn let her take him deeper."
-    new "Ощущение того, что он её насилует, вскоре заставило её увлажниться, что, в свою очередь, позволило принимать его глубже."
+    new "Ощущение того, что он её насилует, вскоре заставило её стать влажной, что, в свою очередь, позволило принимать его глубже."
 
     old "This was what she wanted."
     new "Это было то, чего она хотела."
@@ -278,13 +278,13 @@ translate ru strings:
     new "Да, вот так я и должен начинать свой день."
 
     old "Sarah, for her part, committed herself to the task. As she masturbated him, she listened to the sounds he made, the movements of his body."
-    new "Сара, со своей стороны, посвятила себя задаче. Пока она дрочила его, она прислушивалась к звукам, которые он издавал, и движениям его тела."
+    new "Сара, со своей стороны, сосредоточилась на деле. Пока она дрочила его, она прислушивалась к звукам, которые он издавал, и движениям его тела."
 
     old "Every grunt and twitch was a hint at how well she was doing."
     new "Каждый хмык и подёргивание были подсказкой того, как хорошо у неё получается."
 
     old "But Alaric was not complicated, and it didn't take long for him to finish."
-    new "Но Аларик был не сложным, и ему не потребовалось много времени, чтобы кончить."
+    new "Но Аларик был человеком простым, и ему не потребовалось много времени, чтобы кончить."
 
     old "He threw back his head and let out a deep grunt."
     new "Он запрокинул голову и издал глубокий хмык."
@@ -317,7 +317,7 @@ translate ru strings:
     new "Сара упёрла руки в боки."
 
     old "Then I'll go find someone who will help me, and you can go back to jerking off in alleyways."
-    new "Тогда я пойду найду кого-нибудь, кто мне поможет, а ты можешь возвращаться к дрочке в переулках."
+    new "Тогда я пойду и найду кого-нибудь, кто мне поможет, а ты можешь возвращаться к дрочке в переулках."
 
     old "Sarah could see in his face that this insult rang true."
     new "Сара видела по его лицу, что это оскорбление попало в цель."
@@ -482,7 +482,7 @@ translate ru strings:
     new "Это несерьёзная цена, ну же, леди!"
 
     old "Sarah knew this was true, but she had no intention of buying the silk."
-    new "Сара знала, что это правда, но у неё не было намерения покупать шёлк."
+    new "Сара знала, что это правда, но она и не собиралась покупать шёлк."
 
     old "She responded to him, lured him in deeper, laughed, joked, yelled, even spun around."
     new "Она отвечала ему, заманивала его глубже, смеялась, шутила, кричала, даже кружилась."
@@ -500,7 +500,7 @@ translate ru strings:
     new "Мужчины особенно пожирали её глазами, словно не могли сдержать себя."
 
     old "Well, thought Sarah, if that is so, lose yourself on me. Forget where you are. Be distracted, if only for a moment too long."
-    new "Что ж, подумала Сара, если так, потеряйте себя во мне. Забудьте, где вы. Отвлекитесь, хотя бы на одно лишнее мгновение."
+    new "Что ж, подумала Сара, если так — забудьтесь во мне. Забудьте, где вы. Отвлекитесь, хотя бы на одно лишнее мгновение."
 
     old "In the end, Sarah cut the merchant off."
     new "В конце концов Сара оборвала торговца."
@@ -533,7 +533,7 @@ translate ru strings:
     new "Я же говорила, это сработает."
 
     old "You draw too much attention on your own, but with me as a distraction, they don't notice you."
-    new "Ты сам привлекаешь слишком много внимания, но со мной в качестве отвлечения они тебя не замечают."
+    new "Ты сам привлекаешь слишком много внимания, но я отвлекаю их, и они тебя не замечают."
 
     old "Behind them, a commotion began to break out from the stall where Sarah had just been."
     new "Позади них начался переполох у прилавка, где только что была Сара."
@@ -614,7 +614,7 @@ translate ru strings:
     new "Она опустилась на колени перед Алариком."
 
     old "She looked up at him, her mouth slightly open, revealing an eagerness to take him into her mouth."
-    new "Она посмотрела на него, её рот был слегка приоткрыт, выдавая готовность принять его в рот."
+    new "Она посмотрела на него с приоткрытым ртом, показывая, как хочет принять его в рот."
 
     old "The look on Alaric's face told her enough. He liked her servile performance."
     new "Выражение лица Аларика сказало ей всё. Ему нравилось её раболепное представление."
@@ -629,7 +629,7 @@ translate ru strings:
     new "Медленно она начала двигать головой вверх-вниз по его стволу."
 
     old "Alaric had a decent size. Taking all of him into her mouth would prove a challenge."
-    new "У Аларика был приличный размер. Принять его целиком в рот оказалось непросто."
+    new "У Аларика был внушительный размер. Принять его целиком в рот оказалось непросто."
 
     old "A challenge she was committed to."
     new "Задача, к которой она была готова."
@@ -656,7 +656,7 @@ translate ru strings:
     new "У меня есть деньги. Горячая девчонка сосёт мой член."
 
     old "His smell and the taste of him. Much like the man himself, it was overpowering."
-    new "Его запах и его вкус. Как и сам мужчина, они были ошеломляющими."
+    new "Его запах и его вкус. Как и сам мужчина — они были пьянящими."
 
     old "Wouldn't you agree things are looking up for me?"
     new "Разве ты не согласна, что дела идут в гору?"
@@ -665,10 +665,10 @@ translate ru strings:
     new "Сара попыталась ответить ему, но почувствовала его хватку на затылке. Он не собирался прекращать трахать её рот."
 
     old "She offered up the next best thing while she continued to blow him, some muffled sound that approximated a yes."
-    new "Она предложила следующее лучшее, продолжая сосать ему, — приглушённый звук, отдалённо напоминающий «да»."
+    new "Ей оставалось только, продолжая сосать, издать приглушённый звук, отдалённо напоминающий «да»."
 
     old "Between her legs, her sex began to burn at the sensation of being talked down to by him."
-    new "Между ног её лоно начало гореть от ощущения, что он с ней снисходительно разговаривает."
+    new "Между ног у неё всё горело оттого, что он говорил с ней снисходительно."
 
     old "Why did it turn her on to be humiliated by this man? Her body did not tell her why, only that it did."
     new "Почему её заводило, что этот мужчина её унижал? Её тело не говорило ей почему, только то, что это так."
@@ -707,7 +707,7 @@ translate ru strings:
     new "Первые порции его спермы брызнули по её языку и в глубь рта."
 
     old "With nowhere to turn, yet also somewhat eagerly, Sarah began to swallow."
-    new "Не имея выбора, но и несколько охотно, Сара начала глотать."
+    new "Ей некуда было деваться, но в то же время с готовностью Сара начала глотать."
 
     old "No sooner did she get down the first gulp, then Alaric added another two."
     new "Не успела она проглотить первый глоток, как Аларик добавил ещё два."
@@ -719,7 +719,7 @@ translate ru strings:
     new "Сара почувствовала, как её рот наполняется его семенем."
 
     old "Swallow, she reminded herself, even as he forcefully fucked her mouth, emptying his balls onto her willing tongue."
-    new "Глотай, напомнила она себе, даже когда он яростно трахал её рот, опорожняя яйца на её готовый язык."
+    new "Глотай, напомнила она себе, даже когда он яростно трахал её рот, опорожняя яйца на её послушный язык."
 
     old "A gulp."
     new "Глоток."
@@ -740,7 +740,7 @@ translate ru strings:
     new "Наконец Саре удалось освободиться от его члена, откинувшись назад и выпустив Аларика изо рта."
 
     old "Only now did she feel that her body was drenched in sweat, so great had been the excercise."
-    new "Только сейчас она почувствовала, что всё её тело покрыто потом — таким напряжённым было это упражнение."
+    new "Только сейчас она почувствовала, что всё её тело покрыто потом — таким напряжённым было это занятие."
 
     old "Alaric still held onto her head, but with far less force."
     new "Аларик всё ещё держал её голову, но с гораздо меньшей силой."
@@ -830,7 +830,7 @@ translate ru strings:
     new "И заводило её ещё больше."
 
     old "The sex from before, the day's events, this man taking her in with his eyes, her performing for him."
-    new "Секс до этого, события дня, этот мужчина, пожирающий её глазами, она, выступающая для него."
+    new "Секс до этого, события дня, этот мужчина, пожирающий её глазами, она, представшая перед ним."
 
     old "All of it came together as she climaxed."
     new "Всё это сошлось воедино, когда она испытала оргазм."
@@ -854,7 +854,7 @@ translate ru strings:
     new "Ай!"
 
     old "But she offered no real protest. Too tired, and perhaps, too unwilling."
-    new "Но она не стала возражать. Слишком уставшая и, возможно, слишком не желающая."
+    new "Но она не стала возражать. Слишком уставшая и, возможно, слишком не хотелось."
 
     old "You put on quiet a show. Fuck, watching that I'm already nearly hard again."
     new "Ты устроила настоящее шоу. Чёрт, глядя на это, я уже почти снова твёрдый."

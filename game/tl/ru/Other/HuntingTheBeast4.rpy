@@ -227,7 +227,7 @@ translate ru strings:
     new "Сара смотрела, как Гаррет встал и снял с себя одежду."
 
     old "Her eyes trailed down to between his legs, his cock already erect."
-    new "Её взгляд скользнул вниз, к его ногам — его член уже был возбуждён."
+    new "Её взгляд скользнул вниз, между его ног — его член уже был возбуждён."
 
     old "Happy then, I take it?"
     new "Значит, счастлив, я полагаю?"
@@ -311,7 +311,7 @@ translate ru strings:
     new "Сара всё ещё стояла согнувшись перед ним, прислонившись к дереву, принимая его целиком."
 
     old "Perhaps eager to prove himself to her, or to do as she said and make the most of the time they had, whichever it was, Garret lasted long."
-    new "Возможно, желая доказать ей что-то или последовать её совету и насладиться каждым мгновением, как бы то ни было, Гаррет продержался долго."
+    new "Возможно, желая показать себя перед ней или последовать её совету и насладиться каждым мгновением, как бы то ни было, Гаррет продержался долго."
 
     old "He took her up against that tree until she finished again, and only then did she feel him climax."
     new "Он брал её у дерева, пока она не кончила снова, и только тогда она почувствовала, как он достиг пика."

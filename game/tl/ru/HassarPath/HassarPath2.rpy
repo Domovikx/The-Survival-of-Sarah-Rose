@@ -620,7 +620,7 @@ translate ru strings:
     new "Ударив в заднюю стенку горла, она почувствовала, как её рот наполняется его семенем."
 
     old "Keeping her head in place, thrusting, she felt his balls empty."
-    new "Удерживая её голову на месте и двигаясь, она чувствовала, как опустошаются его яйца."
+    new "Он удерживал её голову на месте и двигался, а Сара чувствовала, как его яйца опорожняются."
 
     old "The salty taste of it spread everywhere, overpowering her."
     new "Солёный вкус распространился повсюду, захлёстывая её."
@@ -659,7 +659,7 @@ translate ru strings:
     new "Сара подняла руку и коснулась горла."
 
     old "She could feel the sticky remnants of his release."
-    new "Она чувствовала липкие остатки его извержения."
+    new "Она чувствовала липкие остатки его спермы."
 
     old "I am sorry if I surprised you."
     new "Прости, если удивил тебя."

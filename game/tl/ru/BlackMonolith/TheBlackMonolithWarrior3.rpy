@@ -26,7 +26,7 @@ translate ru strings:
     new "Выбравшись из руин и вернувшись на дорогу, Сара направилась обратно в лагерь."
 
     old "Already, there was a good bustle of activity. Mythran soldiers. Mercenaries. Soldiers bonded quickly."
-    new "Там уже кипела бурная деятельность. Мифранские солдаты. Наёмники. Солдаты быстро сближались."
+    new "Там уже кипела бурная деятельность. Митранские солдаты. Наёмники. Солдаты быстро сближались."
 
     old "Walking up the street, Sarah saluted a few small units that were headed towards the city gates, setting up defenses."
     new "Идя по улице, Сара поприветствовала несколько небольших отрядов, направлявшихся к городским воротам для организации обороны."
@@ -56,7 +56,7 @@ translate ru strings:
     new "Старой? Мне ещё и тридцати нет."
 
     old "Well, you gotta count those princess days as double. Easy living weakens the bones."
-    new "Ну, те принцессы дни надо считать за два. Лёгкая жизнь ослабляет кости."
+    new "Ну, те дни, когда ты была принцессой, надо считать за два. Лёгкая жизнь ослабляет кости."
 
     old "I don't think it works that way."
     new "Не думаю, что это так работает."
@@ -71,7 +71,7 @@ translate ru strings:
     new "Охранять южные ворота? Ага, им нужно было двадцать человек, так что я отправила половину своего отряда туда, но больше там особо нечего делать."
 
     old "If you're asking me, I don't even really know why the Mythrans need us here."
-    new "Если честно, я даже не знаю, зачем мифранцам мы здесь."
+    new "Если честно, я даже не знаю, зачем митранцам мы здесь."
 
     old "Sarah knew some of the other reasons why they had been called out here, but she didn't want to trouble Kate with such things."
     new "Сара знала некоторые другие причины, по которым их вызвали сюда, но не хотела беспокоить Кейт такими вещами."
@@ -338,7 +338,7 @@ translate ru strings:
     new "Ага, практика и то, что ты никогда не голодала в детстве."
 
     old "Ooh please, you're gonna blame it on that?"
-    new "Ох, ну пожалуйста, ты будешь это оправданием?"
+    new "Ох, ну пожалуйста, ты всё на это свалишь?"
 
     old "Well, the alternative is that I blame it on myself, and that ain't happening."
     new "Ну, альтернатива — винить себя, а этого не будет."
@@ -353,7 +353,7 @@ translate ru strings:
     new "Когда Кейт снова выбросила клинок вперёд, Сара отступила в сторону."
 
     old "The first attack she managed to dodge."
-    new "Первую атаку ей удалось уклониться."
+    new "От первой атаки ей удалось уклониться."
 
     old "The next she parried."
     new "Следующую она парировала."
@@ -437,7 +437,7 @@ translate ru strings:
     new "Весьма впечатляющее выступление."
 
     old "Instantly, Sarah saw Kate step passed her."
-    new "Мгновенно Сара увидела, как Кейт шагнула вперёд неё."
+    new "Мгновенно Сара увидела, как Кейт выступила вперёд, заслоняя её."
 
     old "And who the fuck are you?"
     new "А ты, блин, ещё кто?"
@@ -452,7 +452,7 @@ translate ru strings:
     new "Кейт плюнула в песок. Снова кровь."
 
     old "I ain't no fucking Mythran, and I'll be damned if I adress anyone as a slave."
-    new "Я не грёбаная мифранка, и будь я проклята, если буду называть кого-то рабом."
+    new "Я не грёбаная митранка, и будь я проклята, если буду называть кого-то рабом."
 
     old "Sarah instantly felt guilty for having done so."
     new "Сара мгновенно почувствовала вину за то, что так сделала."
@@ -476,7 +476,7 @@ translate ru strings:
     new "Кассий. Первый среди равных. Брат по оружию Дио."
 
     old "Yeah, whatever. Is that like a fancy way of saying soldier in Mythran?"
-    new "Ага, как скажешь. Это типа вычурный способ сказать «солдат» по-мифрански?"
+    new "Ага, как скажешь. Это типа вычурный способ сказать «солдат» по-митрански?"
 
     old "Cassius continued to smile as he always did, as if nothing mattered or bothered."
     new "Кассий продолжал улыбаться, как всегда, словно ничто не имело значения и не тревожило его."
@@ -971,10 +971,10 @@ translate ru strings:
     new "Сделав всего несколько шагов, она окунулась в кипящую деятельность."
 
     old "For the Mythran empire, slavery was a common thing. It was obvious and unremarkable."
-    new "Для Мифранской империи рабство было обычным делом. Очевидным и непримечательным."
+    new "Для Митранской империи рабство было обычным делом. Очевидным и непримечательным."
 
     old "Legions such as this one were often supported by a slave host, nearly equal in size to the army itself."
-    new "Такие легионы часто обслуживались рабами, численность которых почти равнялась самой армии."
+    new "Такие легионы часто сопровождались рабами, численность которых почти равнялась самой армии."
 
     old "They were a practical people, and so they reduced the bodies of their people in equal practicality."
     new "Они были практичным народом и с той же практичностью использовали тела своих людей."
@@ -1004,7 +1004,7 @@ translate ru strings:
     new "Здесь, в квартале рабов, они жили гораздо теснее, чем большинство."
 
     old "As she ventured deeper, it made Sarah feel claustrophobic."
-    new "Чем глубже она заходила, тем более клаустрофобной себя чувствовала."
+    new "Чем глубже она заходила, тем более душно ей становилось."
 
     old "The small alleys. The closely stacked together tents. The throngs of crowds that made you stand shoulder to shoulder."
     new "Узкие проходы. Тесно стоящие палатки. Толпы, в которых стоишь плечом к плечу."
@@ -1019,7 +1019,7 @@ translate ru strings:
     new "Даже если им было интересно, они знали, что любопытные глаза часто навлекают побои."
 
     old "They had spend a lifetime perfecting the sideway glance. To see without seeing. Notice without being noticed."
-    new "Они потратили целую жизнь, оттачивая боковой взгляд. Видеть, не видя. Замечать, оставаясь незамеченными."
+    new "Они потратили целую жизнь, оттачивая умение смотреть краем глаза. Видеть, не видя. Замечать, оставаясь незамеченными."
 
     old "Sarah turned her head to make sure that Samayra was keeping up."
     new "Сара повернулась, чтобы убедиться, что Самайра не отстаёт."
@@ -1055,7 +1055,7 @@ translate ru strings:
     new "Когда они подошли ближе, Сара увидела ещё одну фигуру, сидящую в тени."
 
     old "The woman had a mercurial smile on her face."
-    new "У женщины на лице играла изменчивая улыбка."
+    new "У женщины на лице играла живая, подвижная улыбка."
 
     old "Glad to make your acquaintance, Sarah. My brother has spoken much of you."
     new "Рада познакомиться, Сара. Мой брат много рассказывал о тебе."
@@ -1088,7 +1088,7 @@ translate ru strings:
     new "Сара села и вдохнула запах еды."
 
     old "Ever since they had resupplied with the Mythran army, they had dined on fat meats and wines. This was not that."
-    new "С тех пор как они пополнили припасы у мифранской армии, они питались жирным мясом и вином. Это было не то."
+    new "С тех пор как они пополнили припасы у митранской армии, они питались жирным мясом и вином. Это было не то."
 
     old "Still, it did not smell entirely unpleasant. A dish made from basics and scraps, but prepared by two people seemingly experienced in managing what little they had."
     new "И всё же пахло не так уж неприятно. Блюдо из простых продуктов и объедков, но приготовленное двумя людьми, явно умевшими распоряжаться тем немногим, что у них было."
@@ -1121,7 +1121,7 @@ translate ru strings:
     new "А это что именно?"
 
     old "A highland stew, traditional Mythran peasant dish."
-    new "Горное рагу, традиционное мифранское крестьянское блюдо."
+    new "Горное рагу, традиционное митранское крестьянское блюдо."
 
     old "But should you find it unappealing, please blame my brother, he is the chef."
     new "Но если оно вам не понравится, вините моего брата — это он повар."
@@ -1550,7 +1550,7 @@ translate ru strings:
     new "Если бы ты нас видела, Сара, ты бы приняла нас за демонов."
 
     old "We moved through the forest with maddening speed, learned the land, slaughtered the natives who did not understand how we Mythrans had suddenly mastered their world."
-    new "Мы передвигались по лесу с бешеной скоростью, изучали местность, убивали туземцев, не понимавших, как мы, мифранцы, вдруг покорили их мир."
+    new "Мы передвигались по лесу с бешеной скоростью, изучали местность, убивали туземцев, не понимавших, как мы, митранцы, вдруг покорили их мир."
 
     old "Never before and never since did me and Dio fight as we did during that campaign. Never did we more closely resemble the perfect ideal of a War-Brother and War-Sister."
     new "Никогда до и никогда после я и Дио не сражались так, как в той кампании. Никогда мы не были так близки к идеалу брата и сестры по оружию."

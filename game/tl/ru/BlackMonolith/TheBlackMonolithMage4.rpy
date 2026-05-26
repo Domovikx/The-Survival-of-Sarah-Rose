@@ -5,7 +5,7 @@
 translate ru strings:
 
     old "A little later in the day, Sarah managed to find a chance to slip into Razaphel's room."
-    new "Чуть позже Саре удалось найти возможность проскользнуть в комнату Разафела."
+    new "Чуть позже Саре удалось найти возможность проскользнуть в комнату Разафеля."
 
     old "The spirit was no longer bound to this place, but it was isolated enough for Sarah to meet the creature in private."
     new "Дух больше не был привязан к этому месту, но здесь было достаточно уединённо, чтобы Сара встретилась с ним наедине."
@@ -14,7 +14,7 @@ translate ru strings:
     new "Сара позволила имени повиснуть в воздухе."
 
     old "Razaphel!"
-    new "Разафел!"
+    new "Разафель!"
 
     old "Speaking its name more forcefully, Sarah hoped to draw the spirit out."
     new "Произнеся имя громче, Сара надеялась выманить духа."
@@ -35,7 +35,7 @@ translate ru strings:
     new "По какому-то конкретному делу?"
 
     old "You were here before me. Do you have any idea who Metis is?"
-    new "Ты был здесь до меня. Ты хоть знаешь, кто такой Метис?"
+    new "Ты была здесь до меня. Ты хоть знаешь, кто такой Метис?"
 
     old "A hissing sound emerged from the spirit."
     new "Из духа донёсся шипящий звук."
@@ -44,7 +44,7 @@ translate ru strings:
     new "Прежний питомец мага."
 
     old "Sarah ignored Razaphel indirectly referring to her as a pet."
-    new "Сара проигнорировала то, что Разафел косвенно назвал её питомцем."
+    new "Сара проигнорировала то, что Разафель косвенно назвал её питомцем."
 
     old "Is there anything I should know about him?"
     new "Мне стоит знать о нём что-то ещё?"
@@ -92,7 +92,7 @@ translate ru strings:
     new "Многие. Но превыше всего он отдавал предпочтение демонологии."
 
     old "Sarah could feel her attention perk up."
-    new "Сара почувствовала, как её внимание оживилось."
+    new "Сара почувствовала, как насторожилась."
 
     old "Daemonology? He offered to teach me."
     new "Демонология? Он предложил научить меня."
@@ -113,7 +113,7 @@ translate ru strings:
     new "Дух задвигался."
 
     old "Not quite. He is a skilled mage in his own right, but he does not even come close to the talent required for a spell like that."
-    new "Не совсем. Он искусный маг сам по себе, но даже близко не стоит к таланту, необходимому для такого заклинания."
+    new "Не совсем. Он искусный маг сам по себе, но до таланта, необходимого для такого заклинания, ему далеко."
 
     old "His only advantage is that he runs ahead of everyone else. Blind to the risk."
     new "Его единственное преимущество в том, что он бежит впереди всех. Не видя риска."
@@ -152,10 +152,10 @@ translate ru strings:
     new "Как этот дом."
 
     old "But the Art is a madness. It is too chaotic to control. One risks just easily summoning a wicked creature."
-    new "Но Искусство — это безумие. Оно слишком хаотично, чтобы его контролировать. Можно с лёгкостью призвать злобное создание."
+    new "Но Искусство — это безумие. Оно слишком хаотично, чтобы его контролировать. Есть риск с лёгкостью призвать злобное создание."
 
     old "And some mages, foolish in their ambition, have been known to be pulled in the other way."
-    new "А некоторые маги, безрассудные в своём честолюбии, как известно, были затянуты в другую сторону."
+    new "А некоторых магов, безрассудных в своём честолюбии, как известно, затягивало в другую сторону."
 
     old "The other way?"
     new "В другую сторону?"
@@ -209,7 +209,7 @@ translate ru strings:
     new "Я не твой старый учитель, предостерегающий тебя прятаться, как ребёнок, от правды мира."
 
     old "I only offer you words of warning."
-    new "Я лишь предлагаю тебе слова предостережения."
+    new "Я лишь предостерегаю тебя."
 
     old "Tread carefully, for you walk on dangerous ground."
     new "Ступай осторожно, ибо ты ступаешь по опасной земле."

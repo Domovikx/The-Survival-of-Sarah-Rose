@@ -86,7 +86,7 @@ translate ru strings:
     new "Томас подошёл ближе."
 
     old "The great hall is full, it's brimming with people, I mean, more than any I've ever seen. Even the festivals don't draw a crowd like this."
-    new "Большой зал полон, битком набит людьми, я имею в виду, больше, чем я когда-либо видел. Даже на праздниках не собирается такая толпа."
+    new "Большой зал полон, битком набит людьми — больше, чем я когда-либо видел. Даже на праздниках не собирается такая толпа."
 
     old "Yeah, speaking of that, shouldn't you be out there, taking your seat? I know you dislike these public events, but it's still important that you show yourself."
     new "Да, кстати, разве тебе не стоит быть там, занять своё место? Я знаю, ты не любишь такие публичные мероприятия, но всё же важно показать себя."
@@ -239,10 +239,10 @@ translate ru strings:
     new "В стороне оба наблюдали, как гора подарков выросла до почти неприличных размеров."
 
     old "Far away on the other side of the room, Sarah could see Thomas enjoying himself, regaling the story of his victory over the tribesmen to a crowd of young women seemingly mesmerized."
-    new "Далеко в другом конце зала Сара видела, как Томас веселится, рассказывая историю своей победы над племенами толпе, казалось, заворожённых молодых женщин."
+    new "Далеко в другом конце зала Сара видела, как Томас веселится, рассказывая толпе, казалось, заворожённых молодых женщин историю своей победы над племенами."
 
     old "As one noble passed for another, each seemingly hard to distinguish, one man appeared who very much did distinguish himself."
-    new "Когда один дворянин сменял другого, и каждый, казалось, был трудно отличим, появился один мужчина, который очень даже отличался."
+    new "Когда один дворянин сменял другого, и все они казались на одно лицо, появился мужчина, который очень даже выделялся."
 
     old "Marion."
     new "Марион."
@@ -269,7 +269,7 @@ translate ru strings:
     new "Спасибо, Марион, мы с братом были очень рады, когда услышали, что вы придёте."
 
     old "Marion was looking away, his eyes scanning the room."
-    new "Марион смотрел в сторону, его глаза сканировали зал."
+    new "Марион смотрел в сторону, его глаза обводили зал."
 
     old "Ooh, I wouldn't miss it."
     new "О-о, я бы не пропустил это."
@@ -329,7 +329,7 @@ translate ru strings:
     new "Сара знала, что это произойдёт, но всё равно чувствовала волнение."
 
     old "All around her, hands began to grab the edge of her chairs, as next to her, they grabbed the edges of Varga's chair."
-    new "Со всех сторон руки начали хвататься за края её стула, а рядом — за края стула Варги."
+    new "Со всех сторон потянулись руки, ухватившись за края её стула, а рядом — за края стула Варги."
 
     old "Together, both newlyweds were lifted up above the crowd, and found themselves slowly carried out of the great hall."
     new "Вместе обоих молодожёнов подняли над толпой, и они медленно поплыли к выходу из большого зала."
@@ -554,7 +554,7 @@ translate ru strings:
     new "Он начал брать её как бык."
 
     old "She could intimately feel his seed being spent inside of her."
-    new "Она интимно чувствовала, как его семя изливается внутри неё."
+    new "Она отчётливо чувствовала, как его семя изливается внутри неё."
 
     old "Varga's last thrusts were his most powerful and animalistic. Sarah could feel how much he wanted her."
     new "Последние толчки Варги были самыми мощными и животными. Сара чувствовала, как сильно он хотел её."
@@ -578,7 +578,7 @@ translate ru strings:
     new "Некоторое время никто не мог говорить, но каждый пытался безмолвно передать своё удовлетворение."
 
     old "As she slid her hands across his body, she could feel the sweat of his efforts. Her own hair stuck to her body, reminding her of hers."
-    new "Скользя руками по его телу, она чувствовала пот от его усилий. Её собственные волосы прилипли к телу, напоминая о её собственном усилии."
+    new "Скользя руками по его телу, она чувствовала испарину после его усилий. Её собственные волосы прилипли к телу, напоминая о её собственном поту."
 
     old "She found herself wishing she could just stay here in his arms forever. A place somehow removed from all the rest of the world and all its troubles and dangers."
     new "Она поймала себя на желании остаться здесь, в его объятиях, навсегда. Место, каким-то образом отделённое от всего остального мира со всеми его бедами и опасностями."
@@ -629,7 +629,7 @@ translate ru strings:
     new "Он схватил жену и начал ворочать её по кровати, хватая за тело."
 
     old "Sarah only laughed as she offered up a weak resistance to her husband's renewed advances."
-    new "Сара лишь рассмеялась, оказывая слабое сопротивление возобновившимся ухаживаниям мужа."
+    new "Сара лишь рассмеялась, оказывая слабое сопротивление возобновившимся приставаниям мужа."
 
     old "I told you I don't tire easy."
     new "Я же сказал, я устаю нелегко."
