@@ -265,6 +265,8 @@ class RenPyExtractor:
                         break
 
             char_match = re.search(r'Character\(_\("([^"]+)"', combined)
+            if not char_match:
+                char_match = re.search(r'Character\("([^"]+)"', combined)
             if char_match:
                 name = char_match.group(1)
                 dk = self._dedup_key(name)

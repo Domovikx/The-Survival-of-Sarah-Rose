@@ -177,6 +177,20 @@ class TestExtractionBasics:
         assert block['original'] == 'Sarah'
         assert block['type'] == 'character_name'
 
+    def test_character_name_plain(self, tmp_dir):
+        """Character("Name") без _() тоже должен извлекаться."""
+        content = 'define s = Character("Sarah")\n'
+        script = tmp_dir / "script.rpy"
+        script.write_text(content, encoding='utf-8')
+
+        ext = RenPyExtractor(str(tmp_dir))
+        ext.parse_file(script)
+
+        assert len(ext.character_blocks) == 1
+        block = list(ext.character_blocks.values())[0]
+        assert block['original'] == 'Sarah'
+        assert block['type'] == 'character_name'
+
     def test_define_extraction(self, tmp_dir):
         """define config.name = _("Name") должен извлекаться."""
         content = 'define config.name = _("My Game Name")\n'
