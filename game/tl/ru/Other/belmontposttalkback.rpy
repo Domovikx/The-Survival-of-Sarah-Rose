@@ -104,10 +104,10 @@ translate ru strings:
     new "Её собственный голос эхом отдавался в крошечном трюме, дразня её самой собой."
 
     old "Fuck! Ooh fuck!!"
-    new "Блядь! Ох, блядь!!"
+    new "Чёрт! Ох, чёрт!!"
 
     old "Hiding the orgasm from Belmont was barely even an idea in her mind, much less something she could even manage in this state."
-    new "Скрывать оргазм от Белмонта было едва ли мыслью в её голове, не говоря уже о том, чтобы сделать это в таком состоянии."
+    new "Мысль скрыть оргазм от Белмонта едва ли приходила ей в голову, не говоря уже о том, чтобы попытаться сделать это в таком состоянии."
 
     old "Drenched in her own sweat, dizy from the drink, her body burning with mad pleasure and base desire."
     new "Пропитанная собственным потом, пьяная от выпивки, её тело горело безумным наслаждением и низменным желанием."
@@ -170,7 +170,7 @@ translate ru strings:
     new "И на мгновение Сара почувствовала, что полностью захвачена им."
 
     old "One more woman foolish enough to let herself fall into this man's gravity."
-    new "Ещё одна женщина, достаточно глупая, чтобы позволить себе попасть в гравитацию этого мужчины."
+    new "Ещё одна женщина, достаточно глупая, чтобы позволить себе попасть в притяжение этого мужчины."
 
     old "Leaning back, Belmont pulled out his massive member."
     new "Отклонившись назад, Белмонт вытащил свой массивный член."

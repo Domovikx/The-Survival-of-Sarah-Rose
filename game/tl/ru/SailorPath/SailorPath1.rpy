@@ -26,7 +26,7 @@ translate ru strings:
     new "Почти каждый день Кейт пыталась объяснить ей теорию, показывать приёмы, но прогресс был незначительным."
 
     old "Even her oldest friend, had seemingly grown more agitated with the lack of progress."
-    new "Даже её старейшая подруга, казалось, становилась всё более раздражённой из-за отсутствия прогресса."
+    new "Даже её давняя подруга, казалось, становилась всё более раздражённой из-за отсутствия прогресса."
 
     old "Sarah couldn't blame her."
     new "Сара не могла винить её."
@@ -143,7 +143,7 @@ translate ru strings:
     new "Но чем больше она пыталась забыть, тем больше вспоминала."
 
     old "Her breasts pressing againt the hard wooden desk, his cock plowing her from behind."
-    new "Её груди, прижатые к твёрдому письменному столу, его член, входящий в неё сзади."
+    new "Её груди, прижатые к твёрдому письменному столу, его член, вбивающийся в неё сзади."
 
     old "How she had debased herself, screaming that she loved his cock..."
     new "Как она унижалась, крича, что любит его член..."
@@ -308,7 +308,7 @@ translate ru strings:
     new "И ты тратишь всё время, пытаясь убедить себя, что это не так, а потом ложишься спать и видишь сны, как слюнявишь его, берёшь во все дырочки."
 
     old "That's why you're miserable, because you pretend that you ain't what you are"
-    new "Вот почему ты несчастна — потому что притворяешься тем, кем не являешься."
+    new "Вот почему ты несчастна — потому что притворяешься не тем, кто ты есть на самом деле."
 
     old "Sarah felt herself shrink with every word."
     new "Сара чувствовала, как сжимается от каждого слова."
@@ -356,7 +356,7 @@ translate ru strings:
     new "И он заставлял её течь."
 
     old "She watched as he casually stroked his own cock, the head glistening with precum."
-    new "Она смотрела, как он небрежно поглаживает свой член, головка блестела от предэякулята."
+    new "Она смотрела, как он небрежно поглаживает свой член, головка блестела от смазки."
 
     old "She hated her own body. Wasn't she in charge of what she did and didn't do? Then why did her body want these things?"
     new "Она ненавидела своё тело. Разве не она решала, что делать, а что нет? Тогда почему её тело хотело этого?"
@@ -551,13 +551,13 @@ translate ru strings:
     new "Наклонившись вперёд, обхватив одну грудь каждой рукой, Сара раздвинула свою грудь ровно настолько, чтобы поместить между ними член капитана."
 
     old "Pushing her tits back together, Sarah could feel the captain's cock, burning between them, gaining some kind of grip on it."
-    new "Сжав груди обратно, Сара чувствовала член капитана, горящий между ними, обретая на него хороший захват."
+    new "Сжав груди обратно, Сара чувствовала член капитана, горящий между ними, обжимая его."
 
     old "Inexperienced, but eager to try, Sarah began to thrust her chest up and down."
     new "Неопытная, но стремящаяся попробовать, Сара начала двигать грудью вверх и вниз."
 
     old "Above her, she could hear the captain grunt, so nearly growl, clearly pleased with her performance."
-    new "Сверху она слышала, как капитан хмыкал, почти рычал, явно довольный её выступлением."
+    new "Сверху она слышала, как капитан хмыкал, почти рычал, явно довольный тем, как она старалась."
 
     old "Good thing your tits are big enough, blondie."
     new "Хорошо, что твои сиськи достаточно большие, блондиночка."

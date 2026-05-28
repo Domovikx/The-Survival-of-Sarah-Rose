@@ -35,7 +35,7 @@ translate ru strings:
     new "Варга был ещё одним вариантом, но она избегала его с тех пор, как отослала из своей комнаты."
 
     old "Ironically, she thought, she might have once considered asking Marion for advice."
-    new "По иронии судьбы, подумала она, когда-то она могла бы подумать о том, чтобы попросить совета у Мариона."
+    new "По иронии судьбы, подумала она, когда-то она могла бы обратиться за советом к Мариону."
 
     old "She was quickly running out of allies. So who was left, she wondered."
     new "У неё быстро заканчивались союзники. Так кто же остался, гадала она."
@@ -83,7 +83,7 @@ translate ru strings:
     new "Не пялься, дорогая."
 
     old "Sarah found herself caught out."
-    new "Сара поймала себя на том, что её застукали."
+    new "Сара поняла, что её застукали."
 
     old "Ooh, I'm sorry. I've just never been here before. Your office, I mean. It's nice."
     new "Ох, простите. Я просто никогда здесь не была. В вашем кабинете, я имею в виду. Он милый."
@@ -92,7 +92,7 @@ translate ru strings:
     new "Леди Кэролин улыбнулась ей."
 
     old "It was a warm smile, one that seemed strangely familiar to Sarah. It made her feel happy, but she struggled to know why."
-    new "Это была тёплая улыбка, которая показалась Саре странно знакомой. Она заставила её чувствовать себя счастливой, но она не могла понять, почему."
+    new "Это была тёплая улыбка, которая показалась Саре странно знакомой. От неё у Сары потеплело на душе, но девушка не могла понять, почему."
 
     old "That's right, you have never been here. Such a shame, I really should have invited you sooner."
     new "Верно, ты здесь никогда не была. Как жаль, мне следовало пригласить тебя раньше."
@@ -506,7 +506,7 @@ translate ru strings:
     new "Сара остаётся лежать неподвижно, пока леди Кэролин заботится о ней."
 
     old "With the pain now faded, as for the pleasure, the cool feeling of the towel has a soothing effect. Sarah feels tears running from her face, yet can't remember crying."
-    new "С утихшей болью, что касается удовольствия, прохлада полотенца оказывает успокаивающий эффект. Сара чувствует, как по лицу текут слёзы, но не помнит, чтобы плакала."
+    new "Боль уже утихла, что же касается удовольствия — прохлада полотенца действовала успокаивающе. Сара чувствует, как по лицу текут слёзы, но не помнит, чтобы плакала."
 
     old "After a while, Sarah feels a slack in the rope as Lady Carolyn unbinds her."
     new "Спустя некоторое время Сара чувствует, как верёвка ослабевает: леди Кэролин развязывает её."
@@ -578,7 +578,7 @@ translate ru strings:
     new "Закрыв за собой дверь и выйдя в коридоры замка Рейнмир, она ощущала своё тело острее, чем когда-либо."
 
     old "If she had to describe it, it was as though she existed more acutely."
-    new "Если бы ей пришлось описать это, она чувствовала бы жизнь острее."
+    new "Если бы ей пришлось описать это, она бы сказала, что ощущает мир острее."
 
     old "It was an odd and new sensation for Sarah."
     new "Это было странное и новое ощущение для Сары."

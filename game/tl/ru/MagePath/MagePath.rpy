@@ -35,7 +35,7 @@ translate ru strings:
     new "Не дай этому случиться со мной."
 
     old "A voice rings out from across the street."
-    new "С другой стороны улицы раздается голос."
+    new "С другой стороны улицы раздаётся голос."
 
     old "What is going on here?"
     new "Что здесь происходит?"
@@ -134,7 +134,7 @@ translate ru strings:
     new "Не его переулок, нет, просто жестокий ублюдок, который рыщет по улицам. Этот город полон таких, к сожалению."
 
     old "How do you know?"
-    new "Откуда ты знаешь?"
+    new "Откуда вы знаете?"
 
     old "Because this is my alley, actually. This right here is my house."
     new "Потому что это мой переулок, на самом деле. Вот это — мой дом."

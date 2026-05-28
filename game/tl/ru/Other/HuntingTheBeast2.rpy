@@ -158,7 +158,7 @@ translate ru strings:
     new "Эта броня натирает и режет мою кожу с тех пор, как я вошла в этот лес."
 
     old "We've made camp, the least I can do is be comfortable for the night."
-    new "Мы разбили лагерь, самое меньшее, что я могу сделать, — чувствовать себя удобно этой ночью."
+    new "Мы разбили лагерь, самое меньшее, что я могу сделать, — чувствовать себя комфортно этой ночью."
 
     old "She saw Garret look away."
     new "Она увидела, как Гаррет отвёл взгляд."
@@ -179,7 +179,7 @@ translate ru strings:
     new "Но... я просто не ожидал, что ты..."
 
     old "You live in a mercenary company, you learn to get over your prudishness very quickly."
-    new "Живёшь в отряде наёмников — быстро учишься избавляться от стеснительности."
+    new "Живёшь в отряде наёмников — быстро учишься избавляться от стыдливости."
 
     old "Privacy is a luxury you don't get much of."
     new "Уединение — роскошь, которую редко получаешь."
@@ -404,7 +404,7 @@ translate ru strings:
     new "Она встретила его взгляд."
 
     old "Sarah reached around her back and past her waist, taking off her own underwear in one swift motion."
-    new "Сара завела руку за спину и ниже пояса, одним быстрым движением снимая своё бельё."
+    new "Сара завела руку за спину и одним быстрым движением сняла с себя бельё."
 
     old "She could feel his eyes fixated on her body, his hands still hestitant."
     new "Она чувствовала, как его взгляд прикован к её телу, а руки всё ещё нерешительны."
@@ -422,7 +422,7 @@ translate ru strings:
     new "С последними остатками его сломленного сопротивления Сара почувствовала, как его массивные руки обхватили её тело."
 
     old "A warrior, stripped of armor and weapons, she was now just a woman."
-    new "Воин, лишённая доспехов и оружия, она была теперь просто женщиной."
+    new "Лишённая доспехов и оружия, она была теперь просто женщиной."
 
     old "Held in his hands, she felt as vulnerable as she felt safe."
     new "В его руках она чувствовала себя такой же уязвимой, сколь и защищённой."
@@ -458,7 +458,7 @@ translate ru strings:
     new "Она позволила глазам скользить по его груди, покрытой чёрными волосами."
 
     old "Slowly her eyes travelled lower still and saw his manhood, already erect, matching the dimensions of the rest of his body."
-    new "Медленно её взгляд опустился ещё ниже и увидел его мужское достоинство, уже возбуждённое, под стать размерам остального тела."
+    new "Медленно её взгляд опустился ещё ниже и увидел его плоть, уже возбуждённую, под стать размерам остального тела."
 
     old "As his now naked body leaned back closer to her and his hands seized her body again, Sarah felt a heat build in her own chest."
     new "Когда его обнажённое тело снова придвинулось к ней, а руки вновь схватили её, Сара почувствовала жар в своей груди."

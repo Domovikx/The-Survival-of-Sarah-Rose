@@ -413,7 +413,7 @@ translate ru strings:
     new "Геката лишь пожала плечами."
 
     old "Who knows. They certainly don't tell the rest of us."
-    new "Кто знает. Они явно не говорят об остальных."
+    new "Кто знает. Они явно не рассказывают остальным."
 
     old "But whenever they ask us to do something we don't understand, they just say that it's the Will."
     new "Но всякий раз, когда они просят нас сделать что-то непонятное, они просто говорят, что это Воля."
@@ -428,7 +428,7 @@ translate ru strings:
     new "Этот мир магов был так непохож на обычный, что снаружи."
 
     old "So...you just do what they say?"
-    new "Так... вы просто делаете, что они говорят?"
+    new "Так... ты просто делаешь, что они говорят?"
 
     old "I could pretend that I'm a true believer, but the truth is that the council also controls the promotions."
     new "Я могла бы притворяться истинно верующей, но правда в том, что совет также контролирует повышения."
@@ -725,7 +725,7 @@ translate ru strings:
     new "Использовали бы магию, чтобы повлиять на ход битвы?"
 
     old "Perhaps, but to what end?"
-    new "Возможно, но какой ценой?"
+    new "Возможно, но с какой целью?"
 
     old "What do you mean to what end? To save my family! My kingdom! My people! My...my brother!!!"
     new "Что значит «какой ценой»? Чтобы спасти мою семью! Моё королевство! Мой народ! Моего... моего брата!!!"
@@ -758,7 +758,7 @@ translate ru strings:
     new "Вы спрашиваете, почему мы не спасли ваше королевство?"
 
     old "Because on the full measure of history, what did it ever really amount to?"
-    new "Потому что в полной мере истории что оно на самом деле значило?"
+    new "Потому что по меркам истории что оно на самом деле значило?"
 
     old "Sarah clenched her fists again."
     new "Сара снова сжала кулаки."
@@ -1409,7 +1409,7 @@ translate ru strings:
     new "Испей из моих вод."
 
     old "And we will be wed."
-    new "И мы будем соединены."
+    new "И мы будем обручены."
 
     old "Sarah reached out with her hand, cupping the blood."
     new "Сара протянула руку, зачерпывая кровь."

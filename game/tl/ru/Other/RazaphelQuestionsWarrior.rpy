@@ -500,7 +500,7 @@ translate ru strings:
     new "Я здесь."
 
     old "Where you are."
-    new "Где ты."
+    new "Где ты?"
 
     old "Sarah watched as she spirit emerged from her own body, turning its face mask towards her."
     new "Сара наблюдала, как дух появился из её собственного тела, поворачивая свою лицевую маску к ней."

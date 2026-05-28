@@ -263,7 +263,7 @@ translate ru strings:
     new "Я хочу знать, зачем ты это сделала."
 
     old "Sarah fights every urge to tell Kate to leave, and nods."
-    new "Сара борется с желанием сказать Кейт уйти и кивает."
+    new "Сара борется с желанием прогнать Кейт и кивает."
 
     old "The two old friends go into the tent together."
     new "Две старые подруги вместе заходят в палатку."

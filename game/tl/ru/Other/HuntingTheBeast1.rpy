@@ -215,7 +215,7 @@ translate ru strings:
     new "Какое вам дело до того, что случится с таким маленьким городком?"
 
     old "I care. Blame my personality. Blame how I was raised. Fuck, if I knew how to turn it off, I would."
-    new "Мне есть дело. Вините мой характер. Вините моё воспитание. Бля, если бы я знала, как это отключить, я бы сделала это."
+    new "Мне есть дело. Вините мой характер. Вините моё воспитание. Чёрт, если бы я знала, как это отключить, я бы сделала это."
 
     old "But I can't. So instead, I end up wasting my time talking to angry, old hunters, trying to convince them to accept some help."
     new "Но я не могу. Так что вместо этого я трачу своё время на разговоры с злыми старыми охотниками, пытаясь убедить их принять помощь."

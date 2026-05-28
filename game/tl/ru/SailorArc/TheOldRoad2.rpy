@@ -14,7 +14,7 @@ translate ru strings:
     new "Сара медленно открыла глаза и увидела, что остальные уже хлопочут, готовя повозку к отъезду."
 
     old "Part of her was annoyed that they had let her sleep out at all."
-    new "Часть её раздражало, что они вообще дали ей выспаться."
+    new "Часть её раздражало, что они вообще дали ей проспать."
 
     old "Sigmund."
     new "Сигмунд."
@@ -50,7 +50,7 @@ translate ru strings:
     new "Желая проявить себя, Сара вылезла из спальника и схватила ящик."
 
     old "As she rose to lift it, she nearly felt her legs give out from under her."
-    new "Когда она поднялась, чтобы поднять его, ноги едва не подкосились."
+    new "Когда она встала, чтобы поднять его, ноги едва не подкосились."
 
     old "Sigmund was looking at her, a small grin on his face."
     new "Сигмунд смотрел на неё с лёгкой усмешкой."
@@ -68,7 +68,7 @@ translate ru strings:
     new "Оглядываясь на то, как заняты остальные, Сара хотела возненавидеть себя за свою слабость."
 
     old "All her life she had been raised for a very singular task, and none of that involved any need for physical strength."
-    new "Всю жизнь её готовили к одной-единственной задаче, и ни одна из них не требовала физической силы."
+    new "Всю жизнь её готовили к одной-единственной задаче, и всё это не требовало физической силы."
 
     old "But out here, all her history lessons and dancing classes weren't worth a single thing."
     new "Но здесь все её уроки истории и уроки танцев ничего не стоили."
@@ -143,7 +143,7 @@ translate ru strings:
     new "Что-то в этом месте заставляло её нервничать."
 
     old "Then, she saw Sigmund's hand move quickly."
-    new "Вдруг она увидела, как рука Сигмунда резко дёрнулась."
+    new "Тут она увидела, как рука Сигмунда резко дёрнулась."
 
     old "He gripped the handle of his sword with one hand."
     new "Он сжал рукоять меча одной рукой."

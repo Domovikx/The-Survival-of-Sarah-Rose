@@ -1019,7 +1019,7 @@ translate ru strings:
     new "Тот, что был раньше, занял место позади неё. Второй — спереди."
 
     old "Sarah leaned back and pressed her sex up against the soldier's shaft."
-    new "Сара откинулась назад и прижалась своей промежностью к стволу солдата."
+    new "Сара откинулась назад и прижалась своей киской к стволу солдата."
 
     old "She didn't know why, but felt oddly preferential to the one who had done most of the harassing."
     new "Она не знала почему, но чувствовала странное предпочтение к тому, кто больше всех приставал."
@@ -1109,7 +1109,7 @@ translate ru strings:
     new "Когда она почувствовала, как его хватка на голове усилилась и он начал насиловать её рот, она поняла: это был не минет."
 
     old "She wasn't servicing him with her mouth."
-    new "Она не обслуживала его ртом."
+    new "Она не ублажала его ртом."
 
     old "He was fucking it. Just another orifice for them to abuse."
     new "Он трахал его. Просто ещё одно отверстие для надругательства."

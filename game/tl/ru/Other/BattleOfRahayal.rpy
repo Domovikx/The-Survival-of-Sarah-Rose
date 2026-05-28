@@ -17,7 +17,7 @@ translate ru strings:
     new "Всё, что она знала..."
 
     old "Was that she was ready."
-    new "В том, что она была готова."
+    new "Знала лишь, что она готова."
 
     old "The endless hordes of inky fiends crawled and flew and dragged themselves towards the city."
     new "Бесконечные орды чёрных тварей ползли, летели и волоклись к городу."
@@ -74,7 +74,7 @@ translate ru strings:
     new "Затем его чёрное тело превратилось в острое щупальце и выстрелило вперёд, пронзая ближайшую несчастную душу."
 
     old "The tendril found no resistance as it punctured the body, impaling it."
-    new "Конечность не встретила сопротивления, пронзая тело насквозь."
+    new "Щупальце не встретило сопротивления, пронзая тело насквозь."
 
     old "The voidling lifted up the corpse, studying it out of some alien interest."
     new "Порождение Пустоты подняло труп, изучая его из какого-то чуждого интереса."
@@ -98,7 +98,7 @@ translate ru strings:
     new "Сара слышала нарастающий хор криков."
 
     old "Who was she, but one girl..."
-    new "Кто она, всего лишь одна девушка..."
+    new "Кто она была, всего лишь одна девушка..."
 
     old "How could she or anyone hope to stop this onslaught?"
     new "Как она или кто-либо мог надеяться остановить это нашествие?"
@@ -281,7 +281,7 @@ translate ru strings:
     new "Они умрут."
 
     old "But for some, a worse fate, she thought."
-    new "Но для некоторых — участь и хуже, подумала она."
+    new "Но для некоторых — участь и хуже, — подумала она."
 
     old "It was hard to feel sympathy for the creatures, but caught in a trap, they seemed almost animal like."
     new "Трудно было испытывать сочувствие к этим созданиям, но в ловушке они казались почти звероподобными."
@@ -479,7 +479,7 @@ translate ru strings:
     new "Сара брела, туман был таким плотным и тяжёлым, что она едва различала небо."
 
     old "Was this what their world looked like, she wondered to herself?"
-    new "Неужели так выглядел их мир, спросила она себя?"
+    new "Неужели так выглядел их мир? — спросила она себя."
 
     old "Did these strange plants appear to them as natural and normal as those of her own world?"
     new "Казались ли им эти странные растения такими же естественными и нормальными, как растения её мира?"

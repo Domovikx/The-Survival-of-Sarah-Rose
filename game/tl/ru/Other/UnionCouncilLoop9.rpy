@@ -8,10 +8,10 @@ translate ru strings:
     new "Они собрались в зале совета замка."
 
     old "Sitting about the room, Sarah could see each of them tired. Exhausted."
-    new "Сидя в комнате, Сара видела, как каждый из них устал. Истощён."
+    new "Сидя в зале, Сара видела, что каждый из них устал. Истощён."
 
     old "This matter of the Union Council had drawn out from days to weeks now."
-    new "Это дело Совета Союза затянулось с дней до недель."
+    new "Это дело Совета Союза затянулось — дни сменились неделями."
 
     old "Despite all the stakes, it seemed as if everyone was eager just to be done with it."
     new "Несмотря на всю важность, казалось, все хотели просто покончить с этим."
@@ -200,7 +200,7 @@ translate ru strings:
     new "Каждый из них знал, что это момент затишья перед бурей."
 
     old "More work would remain to be done to make their Union official."
-    new "Предстояло сделать ещё много работы, чтобы сделать их Союз официальным."
+    new "Предстояло сделать ещё много работы, чтобы официально оформить их Союз."
 
     old "But for now, they could take the briefest of pauses."
     new "Но пока они могли позволить себе самую короткую передышку."

@@ -5,13 +5,13 @@
 translate ru strings:
 
     old "When Sarah woke again, she could at best tell that it was night."
-    new "Когда Сара снова очнулась, в лучшем случае она могла определить лишь то, что была ночь."
+    new "Когда Сара снова очнулась, единственное, что она могла понять — что наступила ночь."
 
     old "Again, had it been the same night, another, many others, she had no reference."
     new "Снова — та же ли это была ночь, другая, множество других — она не знала."
 
     old "In her mind, a vague memory of something echoed out."
-    new "В её сознании отдавалось смутное воспоминание о чём-то."
+    new "В её сознании смутно всплывало воспоминание о чём-то."
 
     old "She had to escape. Use her magic."
     new "Она должна была сбежать. Использовать свою магию."
@@ -47,7 +47,7 @@ translate ru strings:
     new "Но кто сказал, что яд не может быть сладким?"
 
     old "Her hope had been for the poison to fade from her body, be cleansed out from her blood."
-    new "Она надеялась, что яд выйдет из её тела и очистит её кровь."
+    new "Она надеялась, что яд выйдет из её тела, вымоется из её крови."
 
     old "Instead, she had taken more of it."
     new "Вместо этого она приняла ещё больше."
@@ -158,7 +158,7 @@ translate ru strings:
     new "Без колебаний Сара открыла рот и взяла яички гоблина в рот."
 
     old "An approving grunt could be heard above her."
-    new "Сверху послышался одобрительный хрюк."
+    new "Сверху послышалось одобрительное урчание."
 
     old "She couldn't imagine how she had ever thought that this was wrong."
     new "Она не могла представить, как вообще могла считать это неправильным."
@@ -173,7 +173,7 @@ translate ru strings:
     new "Когда она играла языком с яичками гоблина, она чувствовала, как он напрягается."
 
     old "Then, he grunted, spewing his seed all across her naked back."
-    new "Затем он хрюкнул, извергая своё семя на её обнажённую спину."
+    new "Затем он уркнул, извергая своё семя на её обнажённую спину."
 
     old "As it splattered against her skin, it felt soothing."
     new "Когда оно брызгало на её кожу, это было успокаивающе."
@@ -257,7 +257,7 @@ translate ru strings:
     new "Она жила только настоящим."
 
     old "Bend over, she gripped the bars as the goblin ravaged her from behind."
-    new "Согнувшись, она вцепилась в прутья, пока гоблин брал её сзади."
+    new "Наклонившись, она вцепилась в прутья, пока гоблин с силой брал её сзади."
 
     old "How many times had she let him take her like this by now?"
     new "Сколько раз она уже позволяла ему брать её вот так?"
@@ -284,7 +284,7 @@ translate ru strings:
     new "Не осталось ни колебаний, ни сдержанности."
 
     old "Sarah howled loudly as she rode the goblin's cock, as she offered up herself to him."
-    new "Сара громко вскрикивала, оседлав член гоблина и отдаваясь ему."
+    new "Сара громко выла, оседлав член гоблина и отдаваясь ему."
 
     old "And in return, he brought her what she most desired."
     new "И взамен он приносил ей то, чего она желала больше всего."
@@ -395,7 +395,7 @@ translate ru strings:
     new "Гоблин, отец её потомства, не угасал в своём желании."
 
     old "And as Sarah grew larger and fatter, rapidly, she became ever more immobile."
-    new "И по мере того как Сара быстро росла и толстела, она становилась всё более неподвижной."
+    new "И по мере того как Сара быстро росла и толстела, она становилась всё неподвижнее."
 
     old "She laid, staring up at the night sky, as all the world spun about her, pulsing and dancing to the drink's influence."
     new "Она лежала, глядя в ночное небо, а весь мир вращался вокруг неё, пульсируя и танцуя под влиянием напитка."

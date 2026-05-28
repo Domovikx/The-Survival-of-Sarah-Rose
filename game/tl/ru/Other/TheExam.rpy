@@ -44,7 +44,7 @@ translate ru strings:
     new "Со всех сторон доносились крики и вопли солдат. Стоять в центре их внимания начинало её нервировать."
 
     old "Sarah knew she was ready, but still she felt a pit in her stomach. Would she really pass? What if she made a fool out of herself in front of everyone?"
-    new "Сара знала, что готова, но всё равно чувствовала комок в горле. Неужели она правда сдаст? А что, если она опозорится перед всеми?"
+    new "Сара знала, что готова, но всё равно чувствовала холодок в животе. Неужели она правда сдаст? А что, если она опозорится перед всеми?"
 
     old "Sarah had borrowed from Kate an old suit of armor and a sword that probably didn't cut much, but was heavy enough to bash someone with."
     new "Сара одолжила у Кейт старый доспех и меч, который вряд ли хорошо резал, но был достаточно тяжёлым, чтобы можно было огреть кого-нибудь."
@@ -59,7 +59,7 @@ translate ru strings:
     new "Кейт улыбнулась ей так, что Сара почувствовала: она именно там, где и должна быть."
 
     old "Sarah knew she was ready, but she felt a pit in her stomach. Would she really pass? What if she made a fool out of herself in front of everyone?"
-    new "Сара знала, что готова, но чувствовала комок в горле. Неужели она правда сдаст? А что, если она опозорится перед всеми?"
+    new "Сара знала, что готова, но чувствовала холодок в животе. Неужели она правда сдаст? А что, если она опозорится перед всеми?"
 
     old "Amidst the crowd, she found Atilla."
     new "В толпе она нашла Атиллу."
@@ -182,7 +182,7 @@ translate ru strings:
     new "Экзаменатор нанёс ещё один удар, такой же, как предыдущий, но на этот раз Сара была готова."
 
     old "She slid down to the ground, diving under the blade, hearing it cut the air above her head, missing by an inch."
-    new "Она скользнула вниз, нырнув под клинок, слыша, как он разрезает воздух над её головой, промахнувшись в дюйме."
+    new "Она скользнула вниз, нырнув под клинок, слыша, как он разрезает воздух над её головой, промахнувшись на волосок."
 
     old "Sarah thrusted the tip of her blade forward, towards the examinator's knees."
     new "Сара выбросила остриё клинка вперёд, целясь в колени экзаменатора."
@@ -260,7 +260,7 @@ translate ru strings:
     new "Сара почувствовала, что её поднимают, отрывают от земли бесчисленные руки на её теле."
 
     old "She was hoisted onto a man's shoulders."
-    new "Её водрузили на плечи какого-то мужчины."
+    new "Её подняли на плечи какого-то мужчины."
 
     old "From atop his shoulders, she looked out over the crowd. All around her, cheering, happy faces, raised arms, celebrating her victory."
     new "С его плеч она оглядела толпу. Вокруг неё — ликующие, счастливые лица, поднятые руки, празднующие её победу."

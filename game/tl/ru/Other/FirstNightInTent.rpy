@@ -89,13 +89,13 @@ translate ru strings:
     new "Спина Сары выгнулась, оргазм взорвался во всём её теле."
 
     old "She hated how she had to repress herself, she wanted to wildly flail around, let the pleasure roar through her, but she knew she had to contain herself, lest they noticed her."
-    new "Она ненавидела, что приходится сдерживаться, ей хотелось бешено биться, позволить удовольствию реветь внутри, но она знала, что должна молчать, чтобы они её не заметили."
+    new "Она ненавидела, что приходится сдерживаться, ей хотелось бешено биться, позволить удовольствию бушевать внутри, но она знала, что должна молчать, чтобы они её не заметили."
 
     old "With repressed breathing, Sarah laid in the afterglow of her climax. Still glowing, she watched Caleb finish shortly after she had, pumping his seed into Ephraim."
     new "Сдерживая дыхание, Сара лежала в послевкусии оргазма. Всё ещё горячая, она видела, как Калеб кончил вскоре после неё, изливая своё семя в Ефрема."
 
     old "Out of the three, it was Ephraim who came last, guided there by Caleb, who had reached around and was stroking his friend to completion."
-    new "Из троих последним кончил Ефрем, доведённый до этого Калебом, который обхватил его рукой и ласкал друга до финала."
+    new "Из троих последним кончил Ефрем, доведённый до этого Калебом, который обхватил его рукой и ласкал друга до конца."
 
     old "Ephraim's cum shot out, landing onto the sheets."
     new "Сперма Ефрема выплеснулась на простыни."

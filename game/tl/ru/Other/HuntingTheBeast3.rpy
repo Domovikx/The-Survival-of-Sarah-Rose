@@ -239,7 +239,7 @@ translate ru strings:
     new "Вот тогда мне и начали сниться сны."
 
     old "I saw myself, rampaging through the forest."
-    new "Я видел себя, несущегося буйство через лес."
+    new "Я видел себя, несущегося в буйстве по лесу."
 
     old "My teeth were fangs, my hands claws, my skin thick and rough fur."
     new "Мои зубы были клыками, руки — когтями, кожа — толстым и грубым мехом."
@@ -983,7 +983,7 @@ translate ru strings:
     new "Это заводило её."
 
     old "She wanted to be that for him, in the moment. A body for him to use."
-    new "В этот момент она хотела быть для ним этим. Телом, которое он может использовать."
+    new "В этот момент она хотела быть для него этим. Телом, которое он может использовать."
 
     old "To lay here and suffer his bestial urges."
     new "Лежать здесь и терпеть его звериные порывы."

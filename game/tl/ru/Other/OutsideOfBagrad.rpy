@@ -185,7 +185,7 @@ translate ru strings:
     new "Сара не сопротивлялась и почувствовала, как язык Кейт проникает глубоко в её рот. Она приняла это."
 
     old "What was that for?"
-    new "За что это?"
+    new "Это зачем?"
 
     old "Kate looked serious."
     new "Кейт выглядела серьёзно."
@@ -440,7 +440,7 @@ translate ru strings:
     new "Колебание теперь означало смерть."
 
     old "Up the ladder! Keep moving!"
-    new "На лестницу! Продолжаем движение!"
+    new "На лестницу! Не останавливаться!"
 
     old "Sarah screamed and physically pushed her soldiers up the ladder."
     new "Сара закричала и физически подтолкнула своих солдат вверх по лестнице."
@@ -506,7 +506,7 @@ translate ru strings:
     new "Были те, кто построил это чудо, поняла Сара, и были те, кто его разрушит. Она была из вторых."
 
     old "She had often prayed that her father might look down on her and be proud of who she had become, but now she prayed that he would look away from her. She could not bear the idea of him watching her do this."
-    new "Она часто молилась, чтобы отец посмотрел на неё сверху и гордился тем, кем она стала, но теперь она молилась, чтобы он отвернулся. Она не выносила мысли, что он видит её за этим."
+    new "Она часто молилась, чтобы отец посмотрел на неё сверху и гордился тем, кем она стала, но теперь она молилась, чтобы он отвернулся. Она не выносила мысли о том, что он наблюдает за ней."
 
     old "Forgive me father."
     new "Прости меня, отец."

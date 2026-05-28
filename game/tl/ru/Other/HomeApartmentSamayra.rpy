@@ -329,7 +329,7 @@ translate ru strings:
     new "Их тела сплелись, Сара прижимала ногу между ног Самайры, раздвинув свои."
 
     old "Grinding, ever faster, chasing and receiving the pulsing waves of pleasure."
-    new "Трутся всё быстрее, ловя и принимая пульсирующие волны наслаждения."
+    new "Тёрлись всё быстрее, ловя и принимая пульсирующие волны наслаждения."
 
     old "Her voice, still soft, growing more pitched."
     new "Её голос, всё ещё мягкий, становился выше."
@@ -356,7 +356,7 @@ translate ru strings:
     new "Там, спрятанные, в безопасности от мира, потерянные в своей любви."
 
     old "Sarah felt her body rock from the surge of the orgasm, her own body writhing against Samayra's, as they each reached their climax."
-    new "Сара чувствовала, как её тело сотрясает волна оргазма, как она извивается всем телом против Самайры, пока обе достигали пика."
+    new "Сара чувствовала, как её тело сотрясает волна оргазма, как она извивается, прижимаясь к Самайре, пока обе достигали пика."
 
     old "Only when it receded did they slowly untangle and fall into the bed, apart."
     new "Только когда волна отступила, они медленно расплелись и упали на кровать порознь."

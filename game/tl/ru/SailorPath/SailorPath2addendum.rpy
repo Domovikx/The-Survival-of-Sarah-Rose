@@ -248,7 +248,7 @@ translate ru strings:
     new "Сара подчинилась, выйдя на середину грузового отсека."
 
     old "She watched as he ripped off his clothes from his own body, his erect cock springing out from his pants."
-    new "Она смотрела, как он срывает с себя одежду, и его эрегированный член выскакивает из штанов."
+    new "Она смотрела, как он срывает с себя одежду, и его стоячий член выскакивает из штанов."
 
     old "Looking at him, Sarah could have imagined it all so ridiculous, the idea of sleeping with him."
     new "Глядя на него, Сара могла бы счесть всю эту ситуацию нелепой — саму мысль о том, чтобы лечь с ним."
@@ -260,7 +260,7 @@ translate ru strings:
     new "Вместо этого теперь это была просто её реальность."
 
     old "Her eyes drifted down to between his legs where his large cock swayed from side to side."
-    new "Её взгляд опустился к его ногам, где большой член покачивался из стороны в сторону."
+    new "Её взгляд опустился ему между ног, где большой член покачивался из стороны в сторону."
 
     old "What of it, she thought."
     new "Ну и что, подумала она."
@@ -506,7 +506,7 @@ translate ru strings:
     new "Очередная пощёчина."
 
     old "And Sarah looked at him with blind wonder in her eyes."
-    new "И Сара смотрела на него с восхищением в глазах."
+    new "И Сара смотрела на него со слепым восхищением в глазах."
 
     old "Who has the best cock in the world?"
     new "У кого самый лучший член в мире?"

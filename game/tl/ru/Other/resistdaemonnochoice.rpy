@@ -386,7 +386,7 @@ translate ru strings:
     new "Когда существо наращивало темп, трахая её всё жёстче с каждым толчком, Сара чувствовала нарастающее удовольствие."
 
     old "Rising up from between her legs, it ran along the magical mark on her body."
-    new "Поднимаясь из промежности, оно бежало вдоль магической метки на её теле."
+    new "Поднимаясь между ног, оно бежало вдоль магической метки на её теле."
 
     old "And any pain was again quickly turned to a growing lust."
     new "И любая боль снова быстро превращалась в растущую похоть."
@@ -410,7 +410,7 @@ translate ru strings:
     new "Она обрушилась на её тело, как волна, смывая то немногое сопротивление, которое она могла собрать."
 
     old "Fuck...oh...fuck..."
-    new "Бля… о… бля…"
+    new "Да… о… да…"
 
     old "She moaned mindlessly as the Daemon ravaged her from behind."
     new "Она бессознательно стонала, пока Демон терзал её сзади."

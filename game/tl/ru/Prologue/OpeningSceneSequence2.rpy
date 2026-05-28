@@ -107,7 +107,7 @@ translate ru strings:
     new "Но дело обстояло совсем не так. Куда бы я ни поехал, везде одно и то же. Люди говорили о человеке по имени Хассар."
 
     old "Hassar? I've never heard a name like that before."
-    new "Хассар? Я раньше не слышал такого имени."
+    new "Хассар? Я раньше не слышала такого имени."
 
     old "It's Eastern, from beyond even the furthest provinces of our kingdom, across the vast eastern desert."
     new "Это восточное имя, из земель за самыми дальними провинциями нашего королевства, через бескрайнюю восточную пустыню."

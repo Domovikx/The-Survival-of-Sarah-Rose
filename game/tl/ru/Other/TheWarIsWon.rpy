@@ -182,7 +182,7 @@ translate ru strings:
     new "Розанна была в безопасности, пока что."
 
     old "Sarah decided to set out for the library to take care of her council duties, but she had only just made it out of the great hall before she saw a familiar face."
-    new "Сара решила отправиться в библиотеку, чтобы заняться советными делами, но едва выйдя из большого зала, она увидела знакомое лицо."
+    new "Сара решила отправиться в библиотеку, чтобы заняться делами совета, но едва выйдя из большого зала, она увидела знакомое лицо."
 
     old "Varga was leaning against a wall, reading a map of some sort. His face was very stern when he was focused, and he was too focused to notice Sarah coming upon him."
     new "Варга стоял, прислонившись к стене, и читал какую-то карту. Его лицо было очень суровым, когда он сосредоточен, и он был слишком поглощён, чтобы заметить приближающуюся Сару."
@@ -200,7 +200,7 @@ translate ru strings:
     new "Сердечного приступа? Не знала, что у тебя в замке так много врагов, которых стоит опасаться."
 
     old "Just one in particular that's always trying to get me in trouble."
-    new "Особенно один, который вечно пытается втянуть меня в неприятности."
+    new "Особенно одна, которая вечно пытается втянуть меня в неприятности."
 
     old "Varga looked at her intently."
     new "Варга пристально посмотрел на неё."
@@ -212,7 +212,7 @@ translate ru strings:
     new "Кое-какие."
 
     old "So mysterious."
-    new "Такой загадочный."
+    new "Такая загадочная."
 
     old "Varga folded up his map."
     new "Варга свернул карту."
@@ -284,7 +284,7 @@ translate ru strings:
     new "И что теперь скажешь в своё оправдание?"
 
     old "Sarah knew she had none, nor would she offer any if she had. She wanted him to take her right now if they could get away with it."
-    new "Сара знала, что у неё нет оправданий, да она и не стала бы их искать, даже если бы были. Она хотела, чтобы он взял её прямо сейчас, если бы они могли это сделать незаметно."
+    new "Сара знала, что у неё нет оправданий, да она и не стала бы их искать, даже если бы они и были. Она хотела, чтобы он взял её прямо сейчас, если бы они могли это сделать незаметно."
 
     old "But the castle was full of wandering servants, always watching, listening, gossiping."
     new "Но замок был полон слуг, которые вечно смотрят, слушают, сплетничают."

@@ -230,7 +230,7 @@ translate ru strings:
     new "Обхватив его ствол одной рукой, она начала двигать головой вверх-вниз по члену капитана."
 
     old "Belmont groaned in approval, but she had come to know him during their voyage. She knew it took a lot more to get him off."
-    new "Белмонт одобрительно простонал, но за время их путешествия она успела его узнать. Она знала, что нужно гораздо больше, чтобы довести его до разрядки."
+    new "Белмонт одобрительно простонал, но за время их путешествия она успела его узнать. Она знала, что нужно гораздо больше, чтобы заставить его кончить."
 
     old "Sarah added some tongue, lubricating the old man’s shaft, allowing her to take him deeper."
     new "Сара добавила язык, смачивая ствол старика, позволяя себе взять его глубже."
@@ -266,7 +266,7 @@ translate ru strings:
     new "Не успела она это подумать, как эти надежды рухнули."
 
     old "Captain Belmont reached down between her legs and pushed one finger in. Unmistakably wet."
-    new "Капитан Белмонт опустил руку между её ног и ввёл один палец. Неоспоримо влажно."
+    new "Капитан Белмонт опустил руку между её ног и ввёл один палец. Совершенно мокро."
 
     old "Sarah heard her own moan, muffled on the captain’s cock."
     new "Сара услышала собственный стон, приглушённый членом капитана."
@@ -362,7 +362,7 @@ translate ru strings:
     new "Она поднялась на ноги и перегнулась через стол, выставив задницу в воздух."
 
     old "Belmont, once again interested, began to walk back to the desk, disrobing as he did. He got up behind her, his massive member still fully hard."
-    new "Белмонт, снова заинтересовавшись, начал возвращаться к столу, раздеваясь на ходу. Он встал позади неё, его массивный орган всё ещё полностью твёрдый."
+    new "Белмонт, снова заинтересовавшись, начал возвращаться к столу, раздеваясь на ходу. Он встал позади неё, его массивный ствол всё ещё полностью твёрдый."
 
     old "Sarah felt the tip of the old captain's massive rod, press against her opening."
     new "Сара почувствовала, как кончик массивного ствола старого капитана прижался к её входу."

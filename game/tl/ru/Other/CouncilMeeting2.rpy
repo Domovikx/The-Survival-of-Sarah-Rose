@@ -155,7 +155,7 @@ translate ru strings:
     new "Это касалось племён восточной пустыни."
 
     old "Aah, yes...have we discovered anything new regarding that matter?"
-    new "Аа, да... мы узнали что-нибудь новое по этому вопросу?"
+    new "А-а, да... мы узнали что-нибудь новое по этому вопросу?"
 
     old "Kravel nodded."
     new "Кравел кивнул."
@@ -188,7 +188,7 @@ translate ru strings:
     new "Сара повернулась к Томасу."
 
     old "We need to consider this seriously, Thomas. I think it's fair to say that it's more likely than not that an attack might come from the east."
-    new "Нам нужно отнестись к этому серьёзно, Томас. Думаю, можно с уверенностью сказать, что атака с востока более вероятна, чем нет."
+    new "Нам нужно отнестись к этому серьёзно, Томас. Думаю, можно с уверенностью сказать, что атака с востока более чем вероятна."
 
     old "Thomas nodded as he kept transfixed on the table."
     new "Томас кивнул, не отрывая взгляда от стола."
@@ -527,7 +527,7 @@ translate ru strings:
     new "Варга быстро поклонился. Он пошёл прочь, но обернулся, когда Сара окликнула его."
 
     old "Ooh, and Lord Varga...try not to get lost. It would be a shame for you to survive all those battles, only to lose your life wandering the halls of Castle Reinmeer."
-    new "О, и лорд Варга... постарайтесь не заблудиться. Было бы обидно пережить все эти битвы, только чтобы потеряться в коридорах замка Рейнмир."
+    new "О, и лорд Варга... постарайтесь не заблудиться. Было бы обидно пережить все эти битвы, только чтобы погибнуть, блуждая по коридорам замка Рейнмир."
 
     old "She saw him turn red as he spun around and walked away, picking up his pace."
     new "Она увидела, как он покраснел, развернулся и зашагал прочь, ускорив шаг."

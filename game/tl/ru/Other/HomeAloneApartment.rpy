@@ -86,7 +86,7 @@ translate ru strings:
     new "Сара завалилась в первый попавшийся бар, который показался ей подходящим."
 
     old "Good was perhaps not the right word, as it was the shady ramshackle appearance of the place that drew her to it."
-    new "«Подходящим» — пожалуй, не то слово. Её привлёк тенистый, полуразвалившийся вид этого места."
+    new "«Подходящим» — пожалуй, не то слово. Её привлёк подозрительный, полуразвалившийся вид этого места."
 
     old "The kind of place nobody of any importance would dare to be seen."
     new "Из тех мест, где никого уважающего себя не застанешь."
@@ -719,7 +719,7 @@ translate ru strings:
     new "Она вцепилась руками в его седые волосы, которые теперь почему-то казались ей прекрасными."
 
     old "And she wondered how she ever thought of mocking him."
-    new "И она удивлялась, как вообще могла думать насмехаться над ним."
+    new "И она удивлялась, как вообще могла смеяться над ним."
 
     old "Sarah fell back, surrendering all of herself to him."
     new "Сара откинулась назад, отдаваясь ему целиком."

@@ -173,7 +173,7 @@ translate ru strings:
     new "Кто-то вроде тебя и дня не продержится на старой дороге."
 
     old "I don't want to find your corpse in some ditch, your throat slashed by some bandit."
-    new "Я не хочу найти твой труп в какой-нибудь канаве с перерезанным бандитом горлом."
+    new "Я не хочу найти твой труп в какой-нибудь канаве с горлом, перерезанным каким-нибудь бандитом."
 
     old "Go back to the city, you'll be a lot safer there."
     new "Возвращайся в город, там тебе будет гораздо безопаснее."
@@ -479,7 +479,7 @@ translate ru strings:
     new "После ещё нескольких толчков лошади наконец набрали скорость."
 
     old "The cart's violent shaking slowly became more something like the motions of a ship, a constant back and forth."
-    new "Сильная тряска повозки постепенно стала больше напоминать движения корабля — постоянное покачивание вперёд-назад."
+    new "Сильная тряска повозки постепенно стала больше напоминать качку корабля — постоянное покачивание вперёд-назад."
 
     old "As the horses pulled the cart along the road, Sarah watched the few buildings that remained quickly fade away."
     new "Когда лошади тянули повозку по дороге, Сара смотрела, как немногочисленные оставшиеся здания быстро исчезают вдали."
@@ -1199,7 +1199,7 @@ translate ru strings:
     new "Это ничто по сравнению с тем, как выглядит дальше."
 
     old "Deep into the bandit kingdoms, nature runs free in a way that you can't imagine unless you see it."
-    new "Глубоко в землях бандитских королевств природа дика так, что ты не сможешь этого вообразить, пока не увидишь."
+    new "Глубоко в землях бандитских королевств природа так дика, что ты не сможешь этого вообразить, пока не увидишь."
 
     old "Sarah tried to imagine it anyway."
     new "Сара всё равно попыталась это представить."
@@ -1283,7 +1283,7 @@ translate ru strings:
     new "Оказавшись в Галлоу-Крик, она не сможет уехать."
 
     old "Suddenly, she saw another man storm up."
-    new "Внезапно она увидела, как подбегает другой мужчина."
+    new "Внезапно она увидела, как стремительно приближается другой мужчина."
 
     old "Sakar!"
     new "Сакар!"

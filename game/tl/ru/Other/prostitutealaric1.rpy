@@ -341,7 +341,7 @@ translate ru strings:
     new "А если начнут расклеивать листовки..."
 
     old "Fuck!"
-    new "Бля!"
+    new "Чёрт!"
 
     old "Alaric punched the wall."
     new "Аларик ударил кулаком по стене."
@@ -389,7 +389,7 @@ translate ru strings:
     new "Можем..."
 
     old "Fuck...not ideal, but we could..."
-    new "Бля... не идеал, но можем..."
+    new "Чёрт... не идеал, но можем..."
 
     old "His voice trailed off."
     new "Его голос затих."
@@ -1070,7 +1070,7 @@ translate ru strings:
     new "Взгляд Дамиана метнулся с Аларика на Сару и обратно."
 
     old "Fuck...I must be the stupidest fuckin idiot in the world."
-    new "Бля... я, должно быть, самый долбанутый идиот в мире."
+    new "Чёрт... я, должно быть, самый долбанутый идиот в мире."
 
     old "Damian stepped aside."
     new "Дамиан отступил в сторону."

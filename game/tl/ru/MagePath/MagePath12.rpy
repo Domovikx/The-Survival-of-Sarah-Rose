@@ -20,7 +20,7 @@ translate ru strings:
     new "Ни за что не скажешь, глядя на этих людей, что вчера пала великая цивилизация."
 
     old "You didn't seem to care much either when we were there."
-    new "Ты тоже не особо переживал, когда мы там были."
+    new "Ты тоже не особо переживала, когда мы там были."
 
     old "Xan kept staring out the window."
     new "Ксан продолжал смотреть в окно."

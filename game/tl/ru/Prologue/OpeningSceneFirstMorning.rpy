@@ -269,7 +269,7 @@ translate ru strings:
     new "Она замирает при виде этого."
 
     old "Her father is lying in his bed, his skin white as paper, eyes wide open."
-    new "Её отец лежит в кровати, его кожа бела как бумага, глаза широко открыты."
+    new "Её отец лежит в кровати, его кожа бела, как бумага, глаза широко открыты."
 
     old "The sheets are drenched in dark blood. So dark it has nearly turned black."
     new "Простыни пропитаны тёмной кровью. Такой тёмной, что почти чёрной."

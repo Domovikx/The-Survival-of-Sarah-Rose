@@ -74,7 +74,7 @@ translate ru strings:
     new "Чёрная, как чернила."
 
     old "The more she looked, the more Sarah felt herself drawn to it, and in turn, the greater it appeared to be and become."
-    new "Чем больше она смотрела, тем сильнее Сара чувствовала, что её тянет к нему, и тем всё больше оно становилось."
+    new "Чем больше она смотрела, тем сильнее Сара чувствовала, что её тянет к нему, и оно, в свою очередь, вырастало всё больше и больше."
 
     old "Rising."
     new "Поднимаясь."
@@ -92,7 +92,7 @@ translate ru strings:
     new "Сара почувствовала толчок в теле."
 
     old "And the world resumed itself."
-    new "И мир вернулся в своё обычное состояние."
+    new "И мир пришёл в себя."
 
     old "As sudden as the pillar had appeared, so instantly had it vanished."
     new "Так же внезапно, как появился столп, он мгновенно исчез."

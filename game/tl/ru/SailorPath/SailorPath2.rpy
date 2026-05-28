@@ -422,7 +422,7 @@ translate ru strings:
     new "Сара подошла к капитану и посмотрела на карту. Она немного научилась читать её, но не думала, что хоть приблизилась к пониманию так, как старый капитан."
 
     old "I'd say your other parts are well taken care of as is."
-    new "Я бы сказала, что твои другие части и так хорошо обслуживаются."
+    new "Я бы сказала, что твои другие части и так неплохо ухожены."
 
     old "He softly nudged, pressing his elbow into her breasts."
     new "Он мягко толкнул её, прижавшись локтем к её груди."
@@ -596,7 +596,7 @@ translate ru strings:
     new "Её руки были привязаны к мачте, бёдра удерживались Белмонтом одной рукой, и она испытала новое ощущение — что-то вдавливалось так глубоко в её зад."
 
     old "With a circling motion, Belmont reamed the edge of her asshole with the bar of soap."
-    new "Круговыми движениями Белмонт обрабатывал края её ануса куском мыла."
+    new "Круговыми движениями Белмонт обрабатывал края её задницы куском мыла."
 
     old "Then, he slid a corner into her."
     new "Затем он всунул уголок внутрь."
@@ -746,7 +746,7 @@ translate ru strings:
     new "Голодная до члена шлюха... притворяющаяся палубным матросом."
 
     old "And with that confession, Sarah felt captain Belmont lean in, pressing his cock into her asshole."
-    new "И с этим признанием Сара почувствовала, как капитан Белмонт наклонился, вдавливая свой член в её анус."
+    new "И с этим признанием Сара почувствовала, как капитан Белмонт наклонился, вдавливая свой член в её задницу."
 
     old "She screamed out, the pain from before was nothing like this."
     new "Она закричала, прежняя боль была ничто по сравнению с этим."

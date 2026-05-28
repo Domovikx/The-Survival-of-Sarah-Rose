@@ -44,7 +44,7 @@ translate ru strings:
     new "Она заметила Кейт, стоящую рядом."
 
     old "I think I'm going to need a secretary if I want to keep doing this."
-    new "Думаю, мне понадобится секретарь, если я хочу продолжать этим заниматься."
+    new "Думаю, мне понадобится секретарь, если я хочу заниматься этим и дальше."
 
     old "Well, I'd love to play secretary with you, but I can't read or write for shit."
     new "Ну, я бы с радостью поиграла с тобой в секретаршу, но я ни читать, ни писать не умею."
@@ -92,7 +92,7 @@ translate ru strings:
     new "Эй, я не говорила, что она уйдёт ни с чем."
 
     old "Sarah waved her hand at Kate, hoping to cut off whatever fun she was having."
-    new "Сара махнула рукой на Кейт, надеясь прервать её веселье."
+    new "Сара отмахнулась от Кейт, надеясь прервать её веселье."
 
     old "Enough of that, I need to focus."
     new "Хватит, мне нужно сосредоточиться."
@@ -140,7 +140,7 @@ translate ru strings:
     new "Я скучаю по цивилизованному миру. Такое место могут оценить только учёные."
 
     old "Sarah nodded. She imagined her own concerns to run deeper, but she was happy to realize she wasn't the only one that wanted to leave."
-    new "Сара кивнула. Ей казалось, что её собственные тревоги глубже, но она была рада осознать, что не единственная хотела уйти."
+    new "Сара кивнула. Ей казалось, что её собственные тревоги глубже, но она была рада осознать, что не она одна хотела уйти."
 
     old "Great, then I'll issue the final orders and we can set out."
     new "Отлично, тогда я отдам последние приказы, и мы можем выступать."

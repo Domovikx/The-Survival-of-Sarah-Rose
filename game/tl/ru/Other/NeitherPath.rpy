@@ -197,7 +197,7 @@ translate ru strings:
     new "Я также отправил отряд солдат к охотничьему лесу, но боюсь, они не успеют вовремя."
 
     old "In time for what?"
-    new "Не успеют для чего?"
+    new "Для чего не успеют?"
 
     old "In time to prevent them from seizing king Thomas."
     new "Не успеют помешать им захватить короля Томаса."

@@ -209,7 +209,7 @@ translate ru strings:
     new "Капитан Белмонт возобновил поглаживания своего члена."
 
     old "Sarah, for her part, leans back into Kate, letting her continue going down on her."
-    new "Сара, в свою очередь, откидывается назад к Кейт, позволяя ей продолжать."
+    new "Сара откидывается назад к Кейт, позволяя ей и дальше ласкать себя языком."
 
     old "Sarah moans louder and louder, now she knows it doesn't matter anymore."
     new "Сара стонет всё громче — теперь она знает, что это уже не имеет значения."

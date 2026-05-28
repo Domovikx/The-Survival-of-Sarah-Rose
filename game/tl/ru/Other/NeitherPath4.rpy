@@ -20,7 +20,7 @@ translate ru strings:
     new "У Мариона и старых домов было преимущество в виде постоянной армии высококвалифицированных и хорошо экипированных солдат, но их было мало."
 
     old "The other noble houses, newer and more conscious of their status, had remained loyal to the crown."
-    new "Другие благородные дома, более новые и более сознающие свой статус, остались верны короне."
+    new "Другие благородные дома, более новые и более осознающие свой статус, остались верны короне."
 
     old "This gave Sarah the advantage in numbers."
     new "Это давало Саре численное преимущество."
@@ -185,7 +185,7 @@ translate ru strings:
     new "Я не шпионка!"
 
     old "Off to her left, Sarah could see lady Carolyn, the same entertained smile on her face she always had, like she'd recalled a joke she wasn't about to share."
-    new "Слева Сара видела леди Кэролайн с той же развлекающейся улыбкой на лице, которую та всегда носила, словно вспомнила шутку, которой не собиралась делиться."
+    new "Слева Сара видела леди Кэролайн с той же забавной улыбкой на лице, которую та всегда носила, словно вспомнила шутку, которой не собиралась делиться."
 
     old "As much as Sarah respected her, she disliked how impossible she was to read."
     new "Как бы Сара ни уважала её, ей не нравилось, как невозможно было её читать."
@@ -551,7 +551,7 @@ translate ru strings:
     new "Она поклонилась, повернулась и ушла."
 
     old "Getting up from the throne, Sarah followed Lady Carolyn down the hallways leading towards the council quarters where each of the council members held their office."
-    new "Встав с трона, Сара последовала за леди Кэролайн по коридорам, ведущим к советским помещениям, где у каждого члена совета был свой кабинет."
+    new "Встав с трона, Сара последовала за леди Кэролайн по коридорам, ведущим к помещениям совета, где у каждого члена совета был свой кабинет."
 
     old "The sun was already setting, casting a golden light across the halls."
     new "Солнце уже садилось, заливая залы золотым светом."

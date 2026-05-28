@@ -44,10 +44,10 @@ translate ru strings:
     new "Когда-то её руки творили чудеса одним лишь жестом."
 
     old "Now she was weak. Powerless. Less than she had ever been before in her life."
-    new "Теперь она была слабой. Бессильной. Меньшим, чем когда-либо прежде в своей жизни."
+    new "Теперь она была слабой. Бессильной. Меньшей, чем когда-либо прежде в своей жизни."
 
     old "Crawling along the dirt courtyard, she gathered more of the debris."
-    new "Ползая по грязному двору, она собирала новый мусор."
+    new "Ползая по грязному двору, она собирала ещё мусор."
 
     old "By day's end, she could see the dirt and scrapes, left by the hard work."
     new "К концу дня она видела грязь и ссадины, оставленные тяжёлой работой."
@@ -56,7 +56,7 @@ translate ru strings:
     new "Её измученное тело прислонилось к стене, пока она смотрела на двор."
 
     old "Still nearly as filthy as when she began."
-    new "Всё ещё почти такая же грязная, как когда начала."
+    new "Всё ещё почти такая же грязная, как когда она только начала."
 
     old "A pointless task, for seemingly no end."
     new "Бессмысленная задача, без видимого конца."
@@ -245,7 +245,7 @@ translate ru strings:
     new "Сара чувствовала, как её руки раскинуты, а обнажённая грудь прижата к холодному камню."
 
     old "He fucked her deeper with every motion."
-    new "С каждым движением он входил в неё всё глубже."
+    new "С каждым движением он трахал её всё глубже."
 
     old "I will take you."
     new "Я буду брать тебя."

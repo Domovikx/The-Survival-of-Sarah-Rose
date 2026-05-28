@@ -71,7 +71,7 @@ translate ru strings:
     new "Может, так и было. Сара не знала."
 
     old "In accordance with its wealth and power, the city was also swarming with people."
-    new "В соответствии со своим богатством и могуществом город также кишел людьми."
+    new "Благодаря своему богатству и могуществу город также кишел людьми."
 
     old "This far out, the city and its people looked like a great ant hill, tiny dots climbing over one another, all busy with some task, who knew what."
     new "С этого расстояния город и его жители походили на огромный муравейник — крошечные точки, карабкающиеся друг по другу, все занятые каким-то делом, кто знает каким."
@@ -164,7 +164,7 @@ translate ru strings:
     new "На причале Сара увидела, что их прибытия уже ждёт небольшая группа. Несколько человек, похоже, слуг, во главе с хорошо одетым чиновником."
 
     old "Belmont slipped the rope, letting the plank clatter onto the dock. The servants remained behind as the functionary walked onto the ship."
-    new "Бельмонт отпустил верёвку, позволяя трапу с грохотом упасть на док. Слуги остались позади, пока чиновник поднялся на корабль."
+    new "Бельмонт отпустил верёвку, позволяя трапу с грохотом упасть на причал. Слуги остались позади, пока чиновник поднялся на корабль."
 
     old "Good to see you again old friend."
     new "Рад снова видеть тебя, старый друг."
@@ -239,7 +239,7 @@ translate ru strings:
     new "Бельмонт хлопнул старого чиновника по спине."
 
     old "Don't let her fool ya. She can work plenty hard."
-    new "Не дай себя обмануть. Она умеет работать."
+    new "Не дай себя обмануть. Она умеет работать очень усердно."
 
     old "Sarah felt herself smile at Belmont's compliment."
     new "Сара почувствовала, что улыбается комплименту Бельмонта."
@@ -254,7 +254,7 @@ translate ru strings:
     new "Сара не теряла времени и начала выносить ящики с вином, один за другим."
 
     old "On the dock side, the servants picked up the crates and loaded them onto a cart. Sarah realized none of them were planning to do any more work than absolutely necessary."
-    new "На стороне дока слуги подбирали ящики и грузили их на телегу. Сара поняла, что никто из них не собирался делать больше, чем абсолютно необходимо."
+    new "На причале слуги подбирали ящики и грузили их на телегу. Сара поняла, что никто из них не собирался делать больше, чем абсолютно необходимо."
 
     old "With each trip back and forth, she overhead snippets of Belmont's conversation with the official, but it was too little to make sense of."
     new "С каждой ходкой она улавливала обрывки разговора Бельмонта с чиновником, но их было слишком мало, чтобы понять суть."
@@ -491,7 +491,7 @@ translate ru strings:
     new "Буду скучать по тебе, блондиночка. Мы повеселились."
 
     old "Sarah smiled. Hard to believe she'd come to care for the man, despite everything that he was."
-    new "Сара улыбнулась. Трудно было поверить, что она успела привязаться к этому мужчине, несмотря на всё, кем он был."
+    new "Сара улыбнулась. Трудно было поверить, что она успела привязаться к этому мужчине, несмотря на всё, каким он был."
 
     old "Yeah...I think I'll miss you too."
     new "Да... думаю, я тоже буду скучать."
@@ -728,7 +728,7 @@ translate ru strings:
     new "Стоя на коленях, с головой, всё ещё зафиксированной, с его семенем, стекающим по всему её телу, она призналась ему во всём."
 
     old "How wet he made her. How his cock made her feel. How no man would ever rival him. How her body would be his for as long as she lived."
-    new "Как он возбуждал её. Что она чувствовала от его члена. Что ни один мужчина никогда не сравнится с ним. Что её тело будет принадлежать ему, пока она жива."
+    new "Какой влажной он делал её. Что она чувствовала от его члена. Что ни один мужчина никогда не сравнится с ним. Что её тело будет принадлежать ему, пока она жива."
 
     old "And looking down on her, as she spewed her truths, the old captain's face and his devilish grin."
     new "И глядя на неё сверху вниз, пока она изливала свои истины, лицо старого капитана и его дьявольская ухмылка."

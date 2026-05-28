@@ -32,7 +32,7 @@ translate ru strings:
     new "Они... позволят нам умереть с голоду?"
 
     old "They ain't gonna let you die, but they won't lose a night sleep over you not eatin for a day either."
-    new "Они не дадут тебе умереть, но и сна из-за того, что ты не поешь день, не потеряют."
+    new "Они не дадут тебе умереть, но и глазом не моргнут, если ты не поешь целый день."
 
     old "Sarah followed Eula out of their cell."
     new "Сара вышла за Юлой из камеры."
@@ -152,7 +152,7 @@ translate ru strings:
     new "Сара посмотрела на Юлу."
 
     old "Worth his time?"
-    new "Стоит его времени?"
+    new "Стоит того?"
 
     old "Gods, blondie, you born slow or something?"
     new "Боги, блондиночка, ты родилась такой тупой или что?"

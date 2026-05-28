@@ -485,7 +485,7 @@ translate ru strings:
     new "Лёгкий вскрик сорвался с её губ, и она вцепилась в край стола."
 
     old "Sorry, procedure you know."
-    new "Извините, процедура, понимаете."
+    new "Извини, процедура, понимаешь."
 
     old "Sarah dug her fingers deeper into the edge of the table, the alternative was punching him."
     new "Сара вцепилась пальцами глубже в край стола — альтернативой было ударить его."

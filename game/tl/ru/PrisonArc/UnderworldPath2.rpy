@@ -110,7 +110,7 @@ translate ru strings:
     new "Он увеличил темп и начал вгонять свой член в неё глубже, втрахивая её всё быстрее."
 
     old "The feeling of being ravaged by him soon made her turn wet, which in turn let her take him deeper."
-    new "Ощущение того, что он её насилует, вскоре заставило её стать влажной, что, в свою очередь, позволило принимать его глубже."
+    new "Ощущение того, что он её имеет, вскоре заставило её стать влажной, что, в свою очередь, позволило принимать его глубже."
 
     old "This was what she wanted."
     new "Это было то, чего она хотела."
@@ -167,7 +167,7 @@ translate ru strings:
     new "Она видела, как он ухмыльнулся ей в ответ."
 
     old "With a single smooth motion, he slid his cock out of her pussy, and then drove it into her ass."
-    new "Одним плавным движением он выскользнул своим членом из её киски, а затем вогнал его в её зад."
+    new "Одним плавным движением он вытащил свой член из её киски, а затем вогнал его в её зад."
 
     old "Sarah buried her head back into the mattress, crying out in pain."
     new "Сара снова уткнулась головой в матрас, вскрикнув от боли."
@@ -224,7 +224,7 @@ translate ru strings:
     new "Она начала двигать бёдрами."
 
     old "Whatever reason had taken over Alaric quickly subsided as he felt Sarah slide her sex across his cock."
-    new "Какая бы причина ни овладела Алариком, она быстро угасла, когда он почувствовал, как Сара скользит своей щелью по его члену."
+    new "Какая бы причина ни овладела Алариком, она быстро угасла, когда он почувствовал, как Сара скользит своей киской по его члену."
 
     old "He drove his cock into her, up to its hilt, and grunted loudly as he came."
     new "Он вогнал в неё свой член по самую рукоятку и громко хмыкнул, кончая."

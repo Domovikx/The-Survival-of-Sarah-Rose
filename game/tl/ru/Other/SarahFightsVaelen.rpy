@@ -8,7 +8,7 @@ translate ru strings:
     new "Сара встретилась взглядом с Ваэленом."
 
     old "You're a fool for making me do this."
-    new "Ты дурак, что вынудил меня на это."
+    new "Ты дура, что вынудила меня на это."
 
     old "I was hoping you'd say that."
     new "Я надеялся, что ты это скажешь."
@@ -170,7 +170,7 @@ translate ru strings:
     new "Клинок двигался так быстро, что она слышала, как он рассекает ветер."
 
     old "Still low to the ground, Sarah caught him thrusting his knee."
-    new "Всё ещё пригнувшись к земле, Сара заметила, как он выбрасывает колено."
+    new "Всё ещё пригнувшись к земле, Сара заметила, как он наносит удар коленом."
 
     old "She raised her hand, blocked it and spun around, twisting her body back up."
     new "Она подняла руку, заблокировала удар и развернулась, выкручивая тело обратно."
@@ -251,7 +251,7 @@ translate ru strings:
     new "Она глубоко вдохнула и задержала его взгляд."
 
     old "This was what she needed. To draw him into her rhythm. Make him forget all the rules of proper combat."
-    new "Вот что ей было нужно. Завлечь его в свой ритм. Заставить его забыть все правила надлежащего боя."
+    new "Вот что ей было нужно. Завлечь его в свой ритм. Заставить его забыть все правила честного боя."
 
     old "No sooner had she thought it, did it come about."
     new "Не успела она подумать об этом, как это случилось."
@@ -584,7 +584,7 @@ translate ru strings:
     new "Раны покрывали его тело, кровь была повсюду."
 
     old "His limbs, once filled with explosive strength, now gripped only impotently at the earth for balance."
-    new "Его конечности, когда-то полные взрывной силы, теперь лишь беспомощно цеплялись за землю в поисках равновесия."
+    new "Его конечности, когда-то полные невероятной силы, теперь лишь беспомощно цеплялись за землю в поисках равновесия."
 
     old "Blinking, Sarah emptied the last of the sand from her eyes."
     new "Моргая, Сара избавилась от последнего песка в глазах."
@@ -725,7 +725,7 @@ translate ru strings:
     new "Но судьба и глупость Ваэлена привели меня к этому моменту."
 
     old "The crowd still responded with anger at his name, even though he was now dead."
-    new "Толпа всё ещё отвечала гневом на его имя, хотя он был уже мёртв."
+    new "Толпа всё ещё встречала его имя гневом, хотя он был уже мёртв."
 
     old "How strange, they had once loved him, and now each would swore they'd never felt anything but hate for the man."
     new "Как странно: когда-то они любили его, а теперь каждый поклялся бы, что никогда не испытывал к этому человеку ничего, кроме ненависти."

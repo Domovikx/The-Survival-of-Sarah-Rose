@@ -23,7 +23,7 @@ translate ru strings:
     new "Прятаться и красться было бессмысленно, и от этого быстро отказались. В конце концов Сара и Сакар исчезали в кустах, и в их намерениях мало кто сомневался."
 
     old "She saw Sigmund disaproved of her, but she didn't care much for his approval or disapproval anymore. He was not the father-figure he pretended to be."
-    new "Она видела, что Сигмунд не одобряет её, но ей больше не было дела до его одобрения или неодобрения. Он не был тем отцом, каким притворялся."
+    new "Она видела, что Сигмунд не одобрял её, но ей больше не было дела до его одобрения или неодобрения. Он не был тем отцом, каким притворялся."
 
     old "And so, with little sleep and a great deal of exhaustion from their frequent encounters, Sarah found herself sore and tired."
     new "И вот, почти не высыпаясь и сильно выматываясь от частых встреч, Сара чувствовала себя измученной и усталой."
@@ -167,7 +167,7 @@ translate ru strings:
     new "Так вышло, что город Рахайал вырос в империю Мифра."
 
     old "Its capital, the crowning jewel of its empire."
-    new "Его столица — венец империи."
+    new "Эта столица — венец империи."
 
     old "The city was largely carved out of marble, giving it the appearance in daylight of almost glowing, as though it was as blessed as it pretended to be."
     new "Город был в основном высечен из мрамора, что придавало ему при дневном свете почти светящийся вид, будто он был так же благословенен, как и казался."

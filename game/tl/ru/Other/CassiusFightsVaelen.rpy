@@ -56,7 +56,7 @@ translate ru strings:
     new "Я сражалась рядом с ним годами. Он умелый боец, но не без недостатков."
 
     old "A possible weakness you could exploit is-"
-    new "Возможная слабость, которую ты могла бы использовать..."
+    new "Возможная слабость, которую ты мог бы использовать..."
 
     old "Cassius threw up his hand and brought her to silence."
     new "Кассиус поднял руку и заставил её замолчать."
@@ -77,7 +77,7 @@ translate ru strings:
     new "С твоим братом всё будет в порядке?"
 
     old "I have worried on occasion for him. I do not worry now."
-    new "Я иногда за него волновался. Но сейчас я не волнуюсь."
+    new "Я иногда за него волновалась. Но сейчас я не волнуюсь."
 
     old "Sarah turned her eyes towards the two men in the circle."
     new "Сара перевела взгляд на двух мужчин в круге."

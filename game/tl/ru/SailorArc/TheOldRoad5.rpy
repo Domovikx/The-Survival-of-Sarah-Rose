@@ -287,7 +287,7 @@ translate ru strings:
     new "Они прошли мимо пустой дороги. Поля травы, несколько кустов и деревьев."
 
     old "During the day, one could be alone here. During the night, it felt like this place wasn't even connected to the rest of the world."
-    new "Днём здесь можно было побыть одному. Ночью казалось, что это место даже не связано с остальным миром."
+    new "Днём здесь можно было побыть одной. Ночью казалось, что это место даже не связано с остальным миром."
 
     old "After several minutes of walking, Sakar finally turned around."
     new "После нескольких минут ходьбы Сакар наконец обернулся."

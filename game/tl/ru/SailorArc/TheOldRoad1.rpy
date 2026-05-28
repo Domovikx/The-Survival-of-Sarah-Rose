@@ -215,7 +215,7 @@ translate ru strings:
     new "Она знала, что из всех на телеге у неё меньше всего прав здесь находиться."
 
     old "Any chance to prove to them that she could bring value, whatever kind, made her feel somewhat better."
-    new "Любая возможность доказать им свою полезность — любую, — делала её немного счастливее."
+    new "Любая возможность доказать им свою полезность — любую, пусть малейшую, — делала её немного счастливее."
 
     old "When she had finished preparing the campsite, the others finally joined her."
     new "Когда она закончила готовить лагерь, остальные наконец присоединились к ней."

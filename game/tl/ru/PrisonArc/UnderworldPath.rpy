@@ -374,7 +374,7 @@ translate ru strings:
     new "Она сосредоточилась на его сперме, всё ещё вытекающей из неё, как на напоминании."
 
     old "This is what happens if you're weak. The strong fuck you, and all you can do is bend over a crate and give it up."
-    new "Вот что бывает, когда ты слаб. Сильные тебя трахают, и всё, что ты можешь — это прогнуться над ящиком и уступить."
+    new "Вот что бывает, когда ты слаба. Сильные тебя трахают, и всё, что ты можешь — это прогнуться над ящиком и уступить."
 
     old "All those years growing up in the castle, all her titles, it didn't make any difference."
     new "Все те годы, прожитые в замке, все её титулы — это не имело никакого значения."

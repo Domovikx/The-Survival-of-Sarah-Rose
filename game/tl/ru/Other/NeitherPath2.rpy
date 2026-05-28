@@ -152,7 +152,7 @@ translate ru strings:
     new "Так зачем ты привёл их сюда?"
 
     old "Princess Sarah, we can use these people as leverage."
-    new "Принцесса Сара, мы можем использовать этих людей как рычаг давления."
+    new "Принцесса Сара, мы можем использовать этих людей как козырь."
 
     old "The Highfield family will not wish any harm come to them or their children. Just as they keep King Thomas as a hostage, we can keep them, to make certain nothing happens to your brother."
     new "Семья Хайфилд не пожелает, чтобы им или их детям причинили вред. Так же, как они держат короля Томаса в заложниках, мы можем держать их, чтобы гарантировать, что с вашим братом ничего не случится."

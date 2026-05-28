@@ -257,7 +257,7 @@ translate ru strings:
     new "В городе, после сбора урожая..."
 
     old "Well, there is usually a harvest festival. People make food, music...dance."
-    new "Ну, обычно бывает праздник урожая. Люди готовят еду, музыку...танцы."
+    new "Ну, обычно бывает праздник урожая. Люди готовят еду, играют музыку, танцуют."
 
     old "If you'd like...I could take you there?"
     new "Если хочешь...я мог бы сводить тебя туда?"
@@ -809,7 +809,7 @@ translate ru strings:
     new "Сара подняла лицо и посмотрела на него."
 
     old "His kind eyes drew her closer, without even realizing it."
-    new "Его добрые глаза притягивали её ближе, даже не осознавая этого."
+    new "Его добрые глаза притягивали её ближе, и она сама не замечала этого."
 
     old "Sarah, I-"
     new "Сара, я-"
@@ -1067,7 +1067,7 @@ translate ru strings:
     new "Сара медленно погрузилась в беспокойный сон."
 
     old "When she woke the next morning, her first thoughts were about the night before."
-    new "Проснувшись следующим утром, её первые мысли были о предыдущей ночи."
+    new "Когда она проснулась следующим утром, её первые мысли были о предыдущей ночи."
 
     old "She had hoped a night's rest might give her some peace of mind, but his proposal was still all she could think about."
     new "Она надеялась, что ночной отдых даст ей покой, но его предложение было единственным, о чём она могла думать."

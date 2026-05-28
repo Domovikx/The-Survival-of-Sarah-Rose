@@ -614,7 +614,7 @@ translate ru strings:
     new "Я знаю, тебя держали в этой повозке довольно долго."
 
     old "I thought...maybe you would enjoy a chance to clean yourself."
-    new "Я подумал... может, тебе будет приятно возможность помыться."
+    new "Я подумал... может, тебе будет приятна возможность помыться."
 
     old "With her back turned to him, Sarah smiled to herself. He wasn't wrong."
     new "Повернувшись к нему спиной, Сара улыбнулась про себя. Он был прав."
@@ -692,7 +692,7 @@ translate ru strings:
     new "Одним движением Джаид расстегнул штаны и не сделал попытки прикрыться."
 
     old "Instinctively, Sarah found her eyes drawn between his legs."
-    new "Инстинктивно взгляд Сары притянулся к его промежности."
+    new "Инстинктивно взгляд Сары притянулся к его паху."
 
     old "Confidently, Jaeid stepped into the water, swimming up close to Sarah."
     new "Уверенно Джаид вошёл в воду, подплыв близко к Саре."
@@ -755,7 +755,7 @@ translate ru strings:
     new "Оу, меня так легко заменить?"
 
     old "Jaeid smiled a coy smile at her."
-    new "Джаид смущённо улыбнулся ей."
+    new "Джаид лукаво улыбнулся ей."
 
     old "You're not the only beautiful woman in the world, Sarah Rose."
     new "Ты не единственная красивая женщина в мире, Сара Роуз."
