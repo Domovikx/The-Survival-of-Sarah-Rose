@@ -53,7 +53,7 @@ translate ru strings:
     new "Аларик... этот мудак. Этот ужасный, отвратительный преступник..."
 
     old "Why was he so fucking hot, she thought."
-    new "Почему же он, блядь, такой сексуальный, думала она."
+    new "Почему же он такой чертовски сексуальный, думала она."
 
     old "She knew she should just forget him. What they had done in the alley. What he had done to her at his home..."
     new "Она знала, что должна просто забыть его. Что они сделали в переулке. Что он сделал с ней у себя дома..."
@@ -65,7 +65,7 @@ translate ru strings:
     new "Сара продолжала тереть бёдра друг о друга, и ощущение становилось всё сильнее с каждой минутой."
 
     old "Near the end, she was all but humping the edge of the desk."
-    new "К концу она уже чуть ли не насаживалась на край стола."
+    new "К концу она уже чуть ли не тёрлась о край стола."
 
     old "But none of it was good enough. None of it was like him. All just pale imitation."
     new "Но ничего из этого не было достаточно хорошо. Ничто не могло сравниться с ним. Всё — лишь бледная имитация."
@@ -98,7 +98,7 @@ translate ru strings:
     new "Её рот распахнут, когда она чувствует его руки на своей голове, прижимающие её вниз."
 
     old "She can hear the sound of him entering her, echo in the rundown room."
-    new "Она слышит звук его проникновения, эхом разносящийся в обветшалой комнате."
+    new "Она слышит, как звук его толчков эхом разносится по обветшалой комнате."
 
     old "Her own moans are drowned in the bedding."
     new "Её собственные стоны тонут в постельном белье."
@@ -143,7 +143,7 @@ translate ru strings:
     new "Что под всей этой показухой и протоколом мир и люди в нём сводятся к своей сущности."
 
     old "Ooh fuck!!!"
-    new "Ох, бля!!!"
+    new "Ох, черт!!!"
 
     old "Sarah cries out as she orgasms."
     new "Сара вскрикивает, когда кончает."
@@ -239,7 +239,7 @@ translate ru strings:
     new "Как и обещал, она почувствовала, как он набухает внутри неё."
 
     old "A torrent of his cum spewed out from the tip and layered her insides."
-    new "Поток его спермы вырвался из головки и покрыл её внутренности."
+    new "Поток его семени вырвался из головки и покрыл её внутренности."
 
     old "Sarah could feel it spill deep inside of her, all the way into her womb."
     new "Сара чувствовала, как она изливается глубоко внутри неё, до самой матки."
@@ -506,7 +506,7 @@ translate ru strings:
     new "И нет. У меня было не очень много людей."
 
     old "Wow, I feel so special."
-    new "Вау, я чувствую себя особенным."
+    new "Ого, я чувствую себя особенным."
 
     old "Sarah punched him in his stomach. His rock-hard abs caused her to hurt herself more than she really hurt him."
     new "Сара ударила его в живот. Его каменный пресс сделал так, что она ушиблась больше, чем сделала ему больно."
@@ -785,7 +785,7 @@ translate ru strings:
     new "Сара не отрывала взгляда от его глаз, когда принимала его глубже, чем могла выдержать."
 
     old "Ooh fuck, you're really hungry for it today."
-    new "Ох, блядь, ты сегодня действительно голодна до этого."
+    new "Ох, черт, ты сегодня действительно голодна до этого."
 
     old "Sarah felt her own eyes glimmer with pride."
     new "Сара почувствовала, как её собственные глаза заблестели от гордости."
@@ -830,7 +830,7 @@ translate ru strings:
     new "Её голова была зафиксирована, ей некуда было деться, да она и не хотела никуда деваться, даже если бы могла."
 
     old "You better fucking swallow every drop or I swear I'm gonna take whatever you spill and smear it on your face."
-    new "Лучше тебе, блядь, проглотить каждую каплю, или, клянусь, я возьму всё, что ты прольёшь, и размажу по твоему лицу."
+    new "Лучше тебе, сучка, проглотить каждую каплю, или, клянусь, я возьму всё, что ты прольёшь, и размажу по твоему лицу."
 
     old "He forcefully fucked her mouth and throat."
     new "Он грубо трахал её рот и горло."
@@ -842,7 +842,7 @@ translate ru strings:
     new "Сара раздвинула челюсть и открыла горло настолько широко, насколько могла."
 
     old "When his cum spewed out it hit the back of her open throat, most of it going down easy."
-    new "Когда его сперма вырвалась, она ударила в заднюю стенку её открытого горла, большая часть прошла легко."
+    new "Когда его семя вырвалось, ударив в заднюю стенку её открытого горла, большая часть прошла легко."
 
     old "Some of it spilled into her mouth, but she expertly gathered it up with her tongue."
     new "Немного попало ей в рот, но она умело собрала это языком."
@@ -851,7 +851,7 @@ translate ru strings:
     new "Держа губы сомкнутыми вокруг его ствола, она не дала ни капли пролиться."
 
     old "Thick and copious, she could feel his cum crawling down her throat."
-    new "Густая и обильная, она чувствовала, как его сперма ползёт по её горлу."
+    new "Густое и обильное, она чувствовала, как его семя ползёт по её горлу."
 
     old "The taste of it everywhere. That masculine, undeniable flavor."
     new "Вкус повсюду. Этот мужской, неоспоримый вкус."

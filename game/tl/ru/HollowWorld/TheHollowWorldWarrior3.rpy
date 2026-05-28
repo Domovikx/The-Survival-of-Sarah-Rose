@@ -257,13 +257,13 @@ translate ru strings:
     new "Конечно, но только если он действительно готов слушать доводы."
 
     old "If he's going to order the army to march into the desert regardless...best we can do is limit the pain."
-    new "Если он всё равно прикажет армии идти в пустыню... лучшее, что мы можем сделать, — минимизировать ущерб."
+    new "Если он всё равно прикажет армии идти в пустыню... лучшее, что мы можем сделать, — смягчить удар."
 
     old "Sarah pulled her hand past her scalp, pulling on her own hair as she wiped away the sweat and grime from the desert."
     new "Сара провела рукой по голове, потянув себя за волосы, стирая пот и грязь пустыни."
 
     old "Limit the pain..."
-    new "Минимизировать ущерб..."
+    new "Смягчить удар..."
 
     old "We march our men into that desert, there is no telling how many will die."
     new "Мы ведём наших людей в эту пустыню, и невозможно сказать, сколько из них погибнет."
@@ -371,7 +371,7 @@ translate ru strings:
     new "Это позволит тащить их по песку."
 
     old "However, our horses are barely suited for the road as it is, and they won't serve us much further into the desert."
-    new "Однако наши лошади едва пригодны для дороги и так, и вглубь пустыни они нам не помогут."
+    new "Однако наши лошади едва пригодны для дороги и без того, а вглубь пустыни они нам не помогут."
 
     old "This means that soldiers will have to pull the converted wagons, and we don't have enough soldiers to bring all the wagons."
     new "Это значит, что солдатам придётся тащить переоборудованные повозки, и у нас недостаточно солдат, чтобы взять все повозки."

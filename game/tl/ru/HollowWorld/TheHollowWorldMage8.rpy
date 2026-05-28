@@ -8,7 +8,7 @@ translate ru strings:
     new "Прошло больше месяца с тех пор, как Сара вернулась из Баграда."
 
     old "Most of her days had been spend since studying under the guidance of Razaphel."
-    new "Большую часть дней она провела за учебой под руководством Разафеля."
+    new "Большую часть дней она провела за учёбой под руководством Разафеля."
 
     old "One book, then the next."
     new "Одна книга, за ней другая."

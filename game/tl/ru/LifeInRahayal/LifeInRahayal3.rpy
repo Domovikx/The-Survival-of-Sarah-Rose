@@ -332,7 +332,7 @@ translate ru strings:
     new "Сара быстро направилась к нему."
 
     old "I...is there anything you want?"
-    new "Я... вам что-то нужно?"
+    new "Я... тебе что-то нужно?"
 
     old "Sarah kept up her smile, desite how curt he was with her."
     new "Сара сохраняла улыбку, несмотря на его резкость."

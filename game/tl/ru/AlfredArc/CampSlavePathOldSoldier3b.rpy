@@ -167,7 +167,7 @@ translate ru strings:
     new "Остался лишь призрачный привкус."
 
     old "Distractions were hard to come by, and so Sarah turned her attention to what little she had, kitchen work."
-    new "Отвлечься было трудно, поэтому Сара сосредоточилась на том немногое, что у неё было, — работе по кухне."
+    new "Отвлечься было трудно, поэтому Сара сосредоточилась на том немногом, что у неё было, — работе по кухне."
 
     old "There was an predictable rhythm to most of her days."
     new "В большинстве её дней был предсказуемый ритм."
@@ -734,7 +734,7 @@ translate ru strings:
     new "Её хозяин мало заботился о её удовольствии, и она знала, что её крики не купят ей и капли пощады."
 
     old "If anything, it only hardend him."
-    new "Если уж на то пошло, это только сильнее его возбуждало."
+    new "Если уж на то пошло, это только сильнее его ожесточало."
 
     old "Sarah clung to the wall for balance as her master ravaged her from behind."
     new "Сара цеплялась за стену, чтобы удержать равновесие, пока хозяин овладевал ею сзади."

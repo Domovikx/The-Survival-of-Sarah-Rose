@@ -800,7 +800,7 @@ translate ru strings:
     new "Когда Сара прибыла, шатёр Кэролайн уже кишел людьми."
 
     old "Seated all throughout the tent, food was already being served up and drinks had been widely consumed."
-    new "Повсюду в шатре уже подавали еду, и напитки потреблялись в больших количествах."
+    new "Повсюду в шатре уже подавали еду, и напитки лились рекой."
 
     old "Sarah saw Lady Carolyn, in deep discussion with Vaelen."
     new "Сара увидела леди Кэролайн, которая была в глубокой беседе с Ваэленом."
@@ -1448,7 +1448,7 @@ translate ru strings:
     new "Гилеад попросил о встрече в Рахаяле. Окажи ему любезность, согласившись, и я обещаю, ты найдёшь его убедительным."
 
     old "Rahayal, the great capital of the Mythran empire, a city supposedly without rival in all the world."
-    new "Рахаяль, великая столица Митранской империи, город, якобы не имеющий равных во всём мире."
+    new "Рахаял, великая столица Митранской империи, город, якобы не имеющий равных во всём мире."
 
     old "I will meet with him, but no more than that."
     new "Я встречусь с ним, но не более."

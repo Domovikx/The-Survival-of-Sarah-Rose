@@ -1049,7 +1049,7 @@ translate ru strings:
     new "Он стянул штаны и бросил их на пол."
 
     old "His impressive member stood up, stabbing into the air."
-    new "Его внушительный орган встал, устремившись в воздух."
+    new "Его внушительный член встал, устремившись в воздух."
 
     old "Sarah couldn't help but look at it."
     new "Сара не могла не смотреть на него."
@@ -1673,7 +1673,7 @@ translate ru strings:
     new "Она заметила, что он вдруг отвёл взгляд, смущённо."
 
     old "I'm a hardened criminal, aight? Don't forget that."
-    new "Я закоренелый преступник, понял? Не забывай об этом."
+    new "Я закоренелый преступник, поняла? Не забывай об этом."
 
     old "Sarah leaned forward and pressed her lips against his abs, kissing him. His stomach felt like iron."
     new "Сара наклонилась и прижалась губами к его прессу, целуя его. Его живот был твёрдым, как железо."

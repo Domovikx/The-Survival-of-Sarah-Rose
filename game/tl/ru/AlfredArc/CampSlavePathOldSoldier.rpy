@@ -98,13 +98,13 @@ translate ru strings:
     new "Глядя вдоль своего тела, между ног, она видела, как член старого солдата раскачивается взад-вперёд."
 
     old "She had teased him in the desert, serviced him with her mouth at the auction house, but now he would have this part of her too."
-    new "Она дразнила его в пустыне, обслужила его ртом в аукционном доме, но теперь он получит и эту часть её тела."
+    new "Она дразнила его в пустыне, сделала ему минет в аукционном доме, но теперь он получит и эту часть её тела."
 
     old "Her situation seemed nearly unimaginble to her. Not that long ago, she had been a princess, now, she was whatever this old man wanted her to be."
     new "Её положение казалось ей почти невообразимым. Совсем недавно она была принцессой, а теперь — тем, кем этот старик хотел её видеть."
 
     old "As if to dispell the last of her illusions, the old soldier plunged his rock hard cock into her."
-    new "Словно развеивая последние её иллюзии, старый солдат погрузил в неё свой твёрдый как камень член."
+    new "Словно развеивая последние её иллюзии, старый солдат погрузил в неё свой твёрдый, как камень, член."
 
     old "Sarah half cried half moaned at the force with which he took her."
     new "Сара закричала и застонала одновременно от силы, с которой он взял её."
@@ -128,19 +128,19 @@ translate ru strings:
     new "Старый солдат не сбавлял темпа, оседлав её, словно она была его собственностью, хотя Сара понимала, что в некотором смысле так оно и было."
 
     old "To her shame and relief, she felt herself grow wet at the ravaging, allowing his cock to fit more easily, letting the pain fade."
-    new "К её стыду и облегчению, она почувствовала, что становится влажной от этого насилия, позволяя его члену входить легче, давая боли утихнуть."
+    new "К её стыду и облегчению, она почувствовала, что становится влажной от этого неистовства, позволяя его члену входить легче, давая боли утихнуть."
 
     old "Behind her, she heard sounds of his enjoyment, pride at how wet she became for him."
     new "Позади себя она слышала звуки его удовольствия, гордость от того, какой влажной она стала для него."
 
     old "Still, he rode her harder, with little concern for her."
-    new "Всё равно он взял её ещё жёстче, мало заботясь о ней."
+    new "Тем не менее он взял её ещё жёстче, мало заботясь о ней."
 
     old "Sarah could hear the sounds of the bedframe creaking as it shook from the force."
     new "Сара слышала, как скрипит каркас кровати, сотрясаясь от силы толчков."
 
     old "He was breaking her in."
-    new "Он объезжал её."
+    new "Он укрощал её."
 
     old "It was punishment, she realized. Payback for having teased the man in the desert, for having denied him what he wanted."
     new "Это было наказание, осознала она. Расплата за то, что дразнила мужчину в пустыне, за то, что отказала ему в том, чего он хотел."
@@ -155,7 +155,7 @@ translate ru strings:
     new "Сара продолжала зарываться головой в матрас, но уже не чтобы скрыть боль, а чтобы скрыть удовольствие."
 
     old "She didn't want him to know that by now with each thrust, pre-orgasmic waves rolled through her body, out from between her legs."
-    new "Она не хотела, чтобы он знал, что теперь с каждым толчком предоргазменные волны прокатывались по её телу, исходя из промежности."
+    new "Она не хотела, чтобы он знал, что теперь с каждым толчком волны наслаждения прокатывались по её телу, исходя из лона."
 
     old "As if he had read her mind or body, Sarah suddenly felt a hand grip her hair, close to her scalp."
     new "Словно прочитав её мысли или тело, Сара внезапно почувствовала, как чья-то рука схватила её за волосы, у самых корней."
@@ -170,7 +170,7 @@ translate ru strings:
     new "Эти звуки заглушали всё остальное, отражаясь от стен, заполняя комнату."
 
     old "Hearing herself go mad for him, drove her on and on."
-    new "Слыша, как она сходит по нему с ума, она продолжала и продолжала."
+    new "Слыша, как она сходит по нему с ума, это лишь распаляло её сильнее."
 
     old "Rather than receding, her moans only grew louder."
     new "Вместо того чтобы стихать, её стоны становились только громче."
@@ -224,7 +224,7 @@ translate ru strings:
     new "Когда старый солдат закончил, излив в неё последнее семя, он постепенно замедлил темп и частоту толчков."
 
     old "Blissfully, Sarah kept laying down in the same position, grateful for every last thrust."
-    new "Блаженно Сара продолжала лежать в той же позе, благодарная за каждый последний толчок."
+    new "Блаженно, Сара продолжала лежать в той же позе, благодарная за каждый последний толчок."
 
     old "After a few moments, she finally felt his cock slide out from between her legs when he collapsed down unto the bed next to her."
     new "Через несколько мгновений она наконец почувствовала, как его член выскользнул из неё, когда он рухнул на кровать рядом с ней."

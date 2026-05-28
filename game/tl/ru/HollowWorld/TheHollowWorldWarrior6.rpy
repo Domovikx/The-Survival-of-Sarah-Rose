@@ -359,7 +359,7 @@ translate ru strings:
     new "Сара продолжала вглядываться в горизонт, надеясь, что что-то предложит ей выход. Но его не было."
 
     old "He's lost it, don't tell me I'm the only one that sees it."
-    new "Он рехнулся, не говори мне, что я одна это вижу."
+    new "Он рехнулся, не говори мне, что я один это вижу."
 
     old "You're not wrong, but he's still the one in charge of this company."
     new "Ты не ошибаешься, но он всё ещё командует отрядом."
@@ -902,7 +902,7 @@ translate ru strings:
     new "С закрытыми глазами Сара не могла сказать наверняка и не хотела знать."
 
     old "Dream."
-    new "Мечтать."
+    new "Помечтать."
 
     old "Just for a moment."
     new "Хотя бы мгновение."
@@ -1166,7 +1166,7 @@ translate ru strings:
     new "Ну, важно разведывать местность во время марша."
 
     old "She placed one finger on Sarah's chest, between the cleavage of her breasts."
-    new "Она положила палец на грудь Сары, между ключиц."
+    new "Она положила палец на грудь Сары, в ложбинку между грудей."
 
     old "Sarah felt her body react at only the slightest touch."
     new "Сара почувствовала, как её тело отреагировало на малейшее прикосновение."

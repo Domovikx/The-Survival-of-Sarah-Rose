@@ -275,7 +275,7 @@ translate ru strings:
     new "Уверен, многие согласились бы приютить мага."
 
     old "The cities, sure. But the people in those small villages just think you're a freak."
-    new "В городах — да. Но люди в тех маленьких деревнях считают тебя уродом."
+    new "В городах — да. Но люди в тех маленьких деревнях считают тебя чудаком."
 
     old "I sleep fine in an open field, but after a while even my back starts to give out."
     new "Я неплохо сплю в чистом поле, но со временем даже у меня начинает болеть спина."
@@ -299,7 +299,7 @@ translate ru strings:
     new "Маг всегда опасен."
 
     old "Well, I'm certain there is a bedroom available for you somewhere in the house. You are more than welcome as our guest."
-    new "Что ж, я уверена, что в доме найдётся свободная спальня. Ты более чем желанный гость."
+    new "Что ж, я уверена, что в доме найдётся свободная спальня. Ты более чем наш желанный гость."
 
     old "She did her best to sound genuine."
     new "Она изо всех сил старалась звучать искренне."
@@ -398,7 +398,7 @@ translate ru strings:
     new "Гребень был в баградском стиле. Сара не была уверена, удалось ли девочке привезти его с собой или он уже принадлежал дому."
 
     old "Who knew, maybe it was here simply because Samayra wanted it to be. The house had a way of expecting desires before even the recipient knew."
-    new "Кто знает, может быть, он был здесь просто потому, что Самайра этого хотела. У дома была привычка предугадывать желания ещё до того, как их осознавал получатель."
+    new "Кто знает, может быть, он был здесь просто потому, что Самайра этого хотела. У дома была привычка предугадывать желания ещё до того, как их осознавал тот, кто их испытывал."
 
     old "I am very tired though."
     new "Но я очень устала."
@@ -542,5 +542,5 @@ translate ru strings:
     new "Поездка? О, не присядешь ли ты и не расскажешь мне?"
 
     old "Well, I'm certain there is a bedroom available for you somewhere in the house. You are more than welcome as my guest."
-    new "Что ж, я уверена, что в доме найдётся свободная спальня. Ты более чем желанный гость."
+    new "Что ж, я уверена, что в доме найдётся свободная спальня. Ты более чем мой желанный гость."
 

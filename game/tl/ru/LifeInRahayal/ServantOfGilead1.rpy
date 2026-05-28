@@ -98,7 +98,7 @@ translate ru strings:
     new "С каждым шагом воздух становился холоднее."
 
     old "Suddenly, a wave of hot air struck them in the face as they stepped through a heavy wooden door."
-    new "Внезапно, когда они шагнули в тяжёлую деревянную дверь, в лицо ударила волна горячего воздуха."
+    new "Внезапно, когда они шагнули за тяжёлую деревянную дверь, в лицо ударила волна горячего воздуха."
 
     old "Behind it, an explosion of sounds and busywork."
     new "За ней взрыв звуков и хлопотливой работы."

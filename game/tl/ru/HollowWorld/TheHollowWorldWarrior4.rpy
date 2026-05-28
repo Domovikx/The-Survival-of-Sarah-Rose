@@ -26,7 +26,7 @@ translate ru strings:
     new "Ноги увязали глубоко в песке, замедляя и без того медленный марш до черепашьего шага."
 
     old "And above all, there was the merciless assault of the sun."
-    new "И превыше всего было безжалостное нападение солнца."
+    new "И превыше всего был безжалостный солнечный зной."
 
     old "Where first the soldiers had cried out against it, hurled their insults, there was now only a brooding hatred for the thing."
     new "Где поначалу солдаты кричали на него, осыпая проклятиями, теперь осталась лишь глухая ненависть к этому светилу."
@@ -242,7 +242,7 @@ translate ru strings:
     new "Осторожно она приподняла её, уложила у костра, накрыла одеялом и подтянула его до самой шеи."
 
     old "For a brief moment, Sarah held the girl's image in her mind."
-    new "На мгновение Сара задержала образ девушки в своей голове."
+    new "На мгновение Сара задержала образ девушки в своей памяти."
 
     old "It felt so ethereal, even now. Like the winds could pick up and simply blow her away."
     new "Она казалась такой эфемерной, даже сейчас. Словно ветер мог подхватить и просто сдуть её."
@@ -587,7 +587,7 @@ translate ru strings:
     new "Гидеон улыбнулся."
 
     old "Maybe, but you don't really seem to count in my mind, for some reason."
-    new "Может быть, но ты почему-то в моей голове не считаешься."
+    new "Может быть, но ты почему-то для меня как будто не в счёт."
 
     old "Sarah smiled, not sure if this was an insult or a compliment."
     new "Сара улыбнулась, не уверенная, оскорбление это или комплимент."
@@ -761,7 +761,7 @@ translate ru strings:
     new "Моя сестра живёт в маленьком городке неподалёку от Летрама, рыбацком посёлке."
 
     old "I never could catch a fish to save my life, and she always got cross with me for lazying off."
-    new "Я ни за что не мог поймать рыбу, чтобы спасти свою жизнь, и она всегда злилась на меня за безделье."
+    new "Я ни за что не мог поймать рыбу, хоть убей, и она всегда злилась на меня за безделье."
 
     old "So when I signed up to do anything other than taking over for my dad's boat, she got so cross with me she swore never to talk to me."
     new "Поэтому, когда я записался куда угодно, лишь бы не наследовать отцовскую лодку, она так разозлилась, что поклялась никогда со мной не разговаривать."

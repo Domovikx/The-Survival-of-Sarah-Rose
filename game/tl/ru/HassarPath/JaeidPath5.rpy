@@ -311,7 +311,7 @@ translate ru strings:
     new "Одним из почти универсальных фактов среди них был размер их мужских достоинств."
 
     old "His was no exception."
-    new "Его не был исключением."
+    new "Он не был исключением."
 
     old "His body revealed to be that of a warrior, marked in muscles and scars."
     new "Его тело оказалось телом воина, покрытым мышцами и шрамами."

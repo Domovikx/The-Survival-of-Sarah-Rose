@@ -83,7 +83,7 @@ translate ru strings:
     new "Она казалась достаточно доброй при первой встрече. Но в таком месте Сара не могла быть полностью уверена, кому доверять."
 
     old "Then again, studying the girl from a distance, she didn't seem like the scheming type."
-    new "С другой стороны, изучая девушку издалека, она не казалась коварным типом."
+    new "С другой стороны, изучая девушку издалека, она не казалась коварной."
 
     old "Maybe she was just what she appeared."
     new "Может, она была именно тем, кем казалась."
@@ -203,7 +203,7 @@ translate ru strings:
     new "Да, возможно."
 
     old "They say all Tribesmen are good at making boys."
-    new "Говорят, все Племенные хороши в создании мальчиков."
+    new "Говорят, все Племенные хороши в том, чтобы делать мальчиков."
 
     old "Who knows if it's true."
     new "Кто знает, правда ли это."
@@ -278,7 +278,7 @@ translate ru strings:
     new "София внезапно встала, её грудь поднялась из воды."
 
     old "Sarah looked in awe for a moment."
-    new "Сара мгновение смотрела с благоговением."
+    new "Сара мгновение смотрела заворожённо."
 
     old "The girl was a stunning beauty, almost objectively so."
     new "Девушка была потрясающе красива, почти объективно."
@@ -833,7 +833,7 @@ translate ru strings:
     new "Сара подождала ещё несколько мгновений, но когда девушка вынырнула, она была на другом конце бассейна."
 
     old "It was obvious that she was done having whatever fun she had been having with Sarah."
-    new "Было очевидно, что София больше не хотела веселиться с Сарой."
+    new "Было очевидно, что София закончила веселиться с Сарой."
 
     old "She knew when she wasn't wanted anymore."
     new "Она знала, когда она больше не нужна."

@@ -38,7 +38,7 @@ translate ru strings:
     new "Развести костёр — самоубийство. Обсуждение закрыто!"
 
     old "Her voice grew louder, annoyed with how short sighted Nick was being."
-    new "Её голос стал громче, раздражённая недальновидностью Ника."
+    new "Её голос стал громче, раздражённый недальновидностью Ника."
 
     old "He took her harsh response like a whipped dog."
     new "Он воспринял её резкий ответ как побитая собака."

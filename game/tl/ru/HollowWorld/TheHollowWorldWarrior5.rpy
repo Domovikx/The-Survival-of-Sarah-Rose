@@ -14,7 +14,7 @@ translate ru strings:
     new "Нет... я... я ещё могу идти... хотя бы... сегодня."
 
     old "She spoke with broken breaths."
-    new "Она говорила прерывистым дыханием."
+    new "Она говорила, прерывисто дыша."
 
     old "Worst, Sarah could hear her lungs rattle each time she drewn in her breath."
     new "Хуже всего было то, что Сара слышала хрип в её лёгких каждый раз, когда та делала вдох."
@@ -209,13 +209,13 @@ translate ru strings:
     new "Внезапно земля под её ногами стала твёрдой, и, скрытый за изгибом дюны, Сара увидела вход в пещеру."
 
     old "Unable to suppress even a hint of hesitation, Sarah walked closer towards the entrance of the cave, still following the sound."
-    new "Не колеблясь ни секунды, Сара подошла ближе ко входу в пещеру, всё ещё следуя за звуком."
+    new "Не в силах подавить даже тени колебания, Сара подошла ближе ко входу в пещеру, всё ещё следуя за звуком."
 
     old "Stepping into the cave, Sarah was instantly struck by the sense of relief she felt as cool air breezed past her skin."
     new "Шагнув в пещеру, Сара мгновенно ощутила облегчение, когда прохладный воздух коснулся её кожи."
 
     old "More than cool, the air almost seemed to strip away all the pain and stress that had built up unknowningly."
-    new "Более чем прохладный, воздух, казалось, смывал всю боль и напряжение, накопившиеся незаметно."
+    new "Воздух был не просто прохладным — он, казалось, смывал всю боль и напряжение, накопившиеся незаметно."
 
     old "The sound of flowing water continued to invite and tempt her further."
     new "Звук текущей воды продолжал манить и искушать её."
@@ -272,7 +272,7 @@ translate ru strings:
     new "Мужчина не сделал ни движения, указывающего на то, что он собирается встать."
 
     old "No need to waste your time learning my name, child. I am of no importance, and I am not long for this world."
-    new "Не трать время на узнавание моего имени, дитя. Я ничтожен и не задержусь в этом мире."
+    new "Не трать время на то, чтобы узнать моё имя, дитя. Я ничтожен и не задержусь в этом мире."
 
     old "A softness echoed through his voice. Sarah presumed he was male, but she could not be certain, so frail his body and so wrapped in gaze."
     new "В его голосе звучала мягкость. Сара предположила, что он мужчина, но не была уверена — таким хрупким было его тело и таким закутанным."

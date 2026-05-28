@@ -41,7 +41,7 @@ translate ru strings:
     new "Я всё ещё помню дни, проведённые на том пляже, среди руин."
 
     old "You were guarded of me back then, but I must return there now."
-    new "Тогда ты была осторожна со мной, но теперь я должен вернуться туда."
+    new "Тогда ты был осторожен со мной, но теперь я должен вернуться туда."
 
     old "Not merely for the memories."
     new "Не просто ради воспоминаний."

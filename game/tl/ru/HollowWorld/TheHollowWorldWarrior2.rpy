@@ -140,7 +140,7 @@ translate ru strings:
     new "Эта земля не создана для людей."
 
     old "My armor is fucking boiling me alive, I can tell you that much."
-    new "Мои доспехи, блядь, варят меня заживо, это я тебе точно скажу."
+    new "Мои доспехи, черт возьми, варят меня заживо, это я тебе точно скажу."
 
     old "Kate leaned in closer."
     new "Кейт наклонилась ближе."
@@ -236,7 +236,7 @@ translate ru strings:
     new "Он сказал, что дело в походе в город под названием Науйзири, но ты и сама это знаешь."
 
     old "But he didn't tell you why? I mean...fuck...there ain't nothing out there."
-    new "Но он не сказал зачем? В смысле... блядь... там же ничего нет."
+    new "Но он не сказал зачем? В смысле... чёрт... там же ничего нет."
 
     old "You're free to turn around."
     new "Можешь развернуться."
@@ -284,7 +284,7 @@ translate ru strings:
     new "Кроме того, если ты ему не доверяешь, поговори с ним сама."
 
     old "Nah, I trust him. And fuck it, even if I didn't trust him, I'd throw my life away for him too if he asked."
-    new "Не, я ему доверяю. И, блядь, даже если бы не доверяла, я бы жизнь за него отдала, если б попросил."
+    new "Не, я ему доверяю. И, чёрт, даже если бы не доверяла, я бы жизнь за него отдала, если б попросил."
 
     old "You don't mean that."
     new "Ты не серьёзно."
@@ -323,7 +323,7 @@ translate ru strings:
     new "Люди улыбаются, говорят «пожалуйста» и делают всё, что ты попросишь."
 
     old "I remember almost starving, sitting in an alley, and still nobody would offer me a fucking piece of bread for free."
-    new "Я помню, как чуть не умерла с голоду, сидя в подворотне, и никто не предложил мне, блядь, даже куска хлеба даром."
+    new "Я помню, как чуть не умерла с голоду, сидя в подворотне, и никто не предложил мне даже грёбаного куска хлеба даром."
 
     old "Kate leaned forward, brushing away the sweat laced hair from her face."
     new "Кейт наклонилась вперёд, убирая с лица слипшиеся от пота волосы."
@@ -347,7 +347,7 @@ translate ru strings:
     new "Ты циник."
 
     old "Well, if I am, the fucking world made me one."
-    new "Ну, если я циник, то, блядь, мир меня таким сделал."
+    new "Ну, если я циник, так, чёрт возьми, мир меня таким сделал."
 
     old "If I'm going to give up my life for anyone, it's going to be for the handful of people that are worth it. Maybe they can make this world a slightly better place."
     new "Если я и отдам свою жизнь за кого-то, то только за тех немногих, кто этого стоит. Может, они смогут сделать этот мир чуточку лучше."
@@ -611,7 +611,7 @@ translate ru strings:
     new "Сара ударила кулаком по земле и поднялась на ноги."
 
     old "Fuck me..."
-    new "Твою мать..."
+    new "Вот чёрт..."
 
     old "Walking a small distance away from the campfire, Sarah slowly saw the world grow darker around her."
     new "Отойдя на небольшое расстояние от костра, Сара почувствовала, как мир вокруг погружается во тьму."

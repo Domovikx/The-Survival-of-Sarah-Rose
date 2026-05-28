@@ -854,7 +854,7 @@ translate ru strings:
     new "Тот факт, что это был он, из всех мужчин именно он, заставил Сару потерять себя в моменте."
 
     old "Rubbing her legs together as she worked him with her mouth, she began to feel herself grow wet."
-    new "Трогая ногами друг о друга, пока работала ртом, она начала чувствовать, как становится влажной."
+    new "Потирая ноги одну о другую, пока работала ртом, она начала чувствовать, как становится влажной."
 
     old "She hated herself for wanting him."
     new "Она ненавидела себя за то, что хотела его."
@@ -1082,7 +1082,7 @@ translate ru strings:
     new "Сара услышала и увидела достаточно."
 
     old "She'd had enough of this creep and didn't need much more of him."
-    new "С неё хватило этого придурка, и он был ей не нужен."
+    new "С неё было довольно этого придурка, и он был ей не нужен."
 
     old "Fine, you do whatever it is you need to do."
     new "Ладно, делай что хочешь."

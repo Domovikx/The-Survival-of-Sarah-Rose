@@ -371,7 +371,7 @@ translate ru strings:
     new "Когда она попыталась уйти в сторону от очередной атаки, было уже поздно — Сара поняла, что Кейт предугадала её шаг."
 
     old "Sarah could hear the air being cut, so swift did Kate's blade drive into her ankle."
-    new "Сара услышала, как рассекается воздух, — так стремительно клинок Кейт вонзился ей в лодыжку."
+    new "Сара услышала, как рассекается воздух, — так стремительно клинок Кейт врезался ей в лодыжку."
 
     old "Her balance lost, Sarah stumbled and tried to recover, but the weight of her armor dragged her to the earth."
     new "Потеряв равновесие, Сара споткнулась и попыталась восстановиться, но вес доспехов потянул её к земле."
@@ -1082,7 +1082,7 @@ translate ru strings:
     new "Дио любит себя жалеть."
 
     old "He waves his hand near the campfire. A pot of food was already boiling, the smell of it filling the air."
-    new "Он машет рукой у костра. Котёл с едой уже кипел, его запах наполнял воздух."
+    new "Он махнул рукой, указывая на костёр. Котёл с едой уже кипел, его запах наполнял воздух."
 
     old "Sarah sat down and smelled the food as she did."
     new "Сара села и вдохнула запах еды."

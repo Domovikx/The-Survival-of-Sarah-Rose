@@ -317,7 +317,7 @@ translate ru strings:
     new "Он никогда особо не уделял времени обучению её искусству зелий или ботанике."
 
     old "Walking about the greenhouse, Sarah recognized many of the same plants, still alive. Provided for, cared for, somehow."
-    new "Прохаживаясь по теплице, Сара узнала многие из тех же растений, всё ещё живых."
+    new "Прохаживаясь по теплице, Сара узнала многие из тех же растений, всё ещё живых. Ухоженные, взлелеянные, каким-то образом."
 
     old "But standing near the center, one plant quite apart from the others."
     new "Но в центре стояло одно растение, отдельно от других."
@@ -530,7 +530,7 @@ translate ru strings:
     new "Она мало знала о том, что растение могло считать удовольствием, но делала всё возможное, чтобы предложить ему это."
 
     old "Steadily, she felt it violate her mouth."
-    new "Неуклонно она чувствовала, как он заполняет её рот."
+    new "Неуклонно она чувствовала, как он овладевает её ртом."
 
     old "Between her legs, equally, she felt one of the tendrils slide up and inside of her."
     new "Между ног, в то же время, она почувствовала, как один из усиков скользнул вверх и внутрь неё."
@@ -794,7 +794,7 @@ translate ru strings:
     new "Неужели ты не можешь научить меня чему-то более... не знаю, полезному?"
 
     old "You really are a student after my heart. Faster, faster, faster. I was a lot like you when I first started."
-    new "Ты действительно студентка по сердцу мне. Быстрее, быстрее, быстрее. Я был очень похож на тебя, когда только начинал."
+    new "Ты действительно студентка по духу. Быстрее, быстрее, быстрее. Я был очень похож на тебя, когда только начинал."
 
     old "Some still think I run before I walk."
     new "Некоторые до сих пор считают, что я бегу, прежде чем научился ходить."
@@ -1913,7 +1913,7 @@ translate ru strings:
     new "Скажи, ты практиковалась самостоятельно?"
 
     old "No. You told me not to try it by myself."
-    new "Нет. Вы сказали мне не пробовать это одной."
+    new "Нет. Ты сказал мне не пробовать это одной."
 
     old "Good, good. Daemonology is dangerous stuff. You're a decent study, but you're far from ready to start practicing on your own."
     new "Хорошо, хорошо. Демонология — опасная штука. Ты неплохо учишься, но ты далеко не готова практиковать самостоятельно."

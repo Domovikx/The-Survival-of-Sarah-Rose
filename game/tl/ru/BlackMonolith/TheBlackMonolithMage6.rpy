@@ -887,7 +887,7 @@ translate ru strings:
     new "Что... как ты здесь?"
 
     old "Same as you. If you're as practiced at me, entering and leaving the Trance is no difficulty at all."
-    new "Так же, как и ты. Если ты так же опытен, как я, вход и выход из Транса не составляет труда."
+    new "Так же, как и ты. Если ты так же опытна, как я, вход и выход из Транса не составляет труда."
 
     old "You will find the same ease, in time and with practice."
     new "Со временем и практикой ты обретёшь ту же лёгкость."

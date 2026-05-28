@@ -629,7 +629,7 @@ translate ru strings:
     new "Её рот наполнился — часть излилась прямо в горло, остальное заполнило то небольшое пространство, что оставалось во рту."
 
     old "Some more of it spilled out past her lips, running down her throat."
-    new "Ещё часть вытекла за губы, стекая по подбородку."
+    new "Ещё часть вытекла за губы, стекая по горлу."
 
     old "Sarah swallowed as best she could, but with each bucking of his hips, more of his cum was deposited into her mouth."
     new "Сара глотала, как могла, но с каждым толчком его бёдер в её рот попадало всё больше спермы."

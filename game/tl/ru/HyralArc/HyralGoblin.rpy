@@ -80,7 +80,7 @@ translate ru strings:
     new "Голос был резким."
 
     old "Sarah crawled up from the ground and towards the bars."
-    new "Сара подползла к прутьям."
+    new "Сара поднялась с пола и подползла к прутьям решётки."
 
     old "Raza! Are we ready to go?"
     new "Раза! Мы готовы?"
@@ -137,13 +137,13 @@ translate ru strings:
     new "Сара стиснула зубы, злясь на то, что это маленькое существо осмелилось от неё требовать."
 
     old "Her situation might be dire, but she would not allow herself to be blackmailed by this thing."
-    new "Её положение могло быть отчаянным, но она не позволит шантажировать себя."
+    new "Её положение могло быть отчаянным, но она не позволит этой твари шантажировать себя."
 
     old "Sarah sat back down on the floor of her cell and lowered her head."
     new "Сара снова села на пол камеры и опустила голову."
 
     old "She had been a fool to trust anyone, let alone such a lowly creature that she barely knew."
-    new "Она была дурой, что доверилась кому-то, особенно такой низкой твари."
+    new "Она была дурой, что доверилась кому-то, особенно такой низкой твари, которую едва знала."
 
     old "Of course he'd try to take advantage of the moment."
     new "Конечно, он попытается использовать момент."

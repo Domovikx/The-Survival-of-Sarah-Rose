@@ -140,7 +140,7 @@ translate ru strings:
     new "Его голос был тихим. Вероятно, он всё ещё был ослаблен ледяной водой."
 
     old "Hey. Did you get any good sleep?"
-    new "Эй. Ты хорошо выспался?"
+    new "Эй. Ты хорошо выспалась?"
 
     old "He slightly nodded."
     new "Он слегка кивнул."
@@ -284,7 +284,7 @@ translate ru strings:
     new "Покинуть безопасность пещеры, оказаться во власти стихии или того хуже..."
 
     old "Her own mortality was suddenly a very conscious fact."
-    new "Её собственная смертность вдруг стала очень осознанным фактом."
+    new "Она вдруг с пугающей ясностью осознала, что смертна."
 
     old "Sarah shook her head and forced herself to keep moving."
     new "Сара покачала головой и заставила себя двигаться дальше."

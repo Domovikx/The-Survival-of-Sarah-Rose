@@ -113,7 +113,7 @@ translate ru strings:
     new "И всё же она была далека от того, чтобы вместить его целиком."
 
     old "She could feel the circumference of his shaft, splitting apart her jaw."
-    new "Она чувствовала окружность его ствола, раздвигающего челюсть."
+    new "Она чувствовала, как окружность его ствола раздвигает ей челюсти."
 
     old "I have no need of who you think you were."
     new "Мне не нужно то, кем ты себя считаешь."
@@ -176,7 +176,7 @@ translate ru strings:
     new "Если научишься вести себя, будет тебе место в замке."
 
     old "Dalia is further along than you. She no longer pretends she isn't the whore that she is."
-    new "Далия продвинулась дальше. Она больше не притворяется, что не шлюха."
+    new "Далия продвинулась дальше. Она больше не притворяется, будто она не шлюха."
 
     old "Proper behavior comes with proper reward."
     new "Правильное поведение вознаграждается."
@@ -284,7 +284,7 @@ translate ru strings:
     new "Холодные каменные коридоры были пусты."
 
     old "So few details, no windows nor natural light, it made the halls feel endless and claustrophobic at the same time."
-    new "Так мало деталей, ни окон, ни дневного света — коридоры казались бесконечными и клаустрофобными одновременно."
+    new "Так мало деталей, ни окон, ни дневного света — коридоры казались бесконечными и давящими одновременно."
 
     old "The beast kept walking, giving her no hint that she was even worthy of his attention."
     new "Зверь продолжал идти, не подавая виду, что она достойна его внимания."
@@ -332,7 +332,7 @@ translate ru strings:
     new "Бежать куда?"
 
     old "As her eyes wanderd, Sarah also slowly saw the rest of the building."
-    new "Когда глаза блуждали, Сара медленно увидела остальное здание."
+    new "Когда её взгляд блуждал, Сара постепенно разглядела остальное здание."
 
     old "It seemed like a castle, or perhaps a former fortress."
     new "Похоже на замок или бывшую крепость."
@@ -896,7 +896,7 @@ translate ru strings:
     new "Ладно... я пойду."
 
     old "With a heavy heart, Sarah followed Dalia's instruction and headed back to the rampart."
-    new "С тяжёлым сердцем Сара последовала инструкции и направилась обратно к валам."
+    new "С тяжёлым сердцем Сара последовала совету Далии и направилась обратно к валам."
 
     old "The creature grinned when it saw her, flashing its sharp teeth."
     new "Существо оскалилось, увидев её, сверкнув острыми зубами."
@@ -1001,7 +1001,7 @@ translate ru strings:
     new "Сломать Далию заняло гораздо больше времени."
 
     old "Sarah watched as the creature stroked its cock faster and faster."
-    new "Сара смотрела, как существо гладит член быстрее."
+    new "Сара смотрела, как существо гладит член всё быстрее и быстрее."
 
     old "The size of the thing was frightening enough."
     new "Размер этой штуки был достаточно пугающим."
@@ -1166,7 +1166,7 @@ translate ru strings:
     new "Надеюсь, ты насладилась моментом бунта."
 
     old "And I hope it was worth the price that Dalia will have to pay on your behalf."
-    new "И надеюсь, оно стоило цены, которую Далия заплатит за тебя."
+    new "И надеюсь, оно стоило той цены, которую Далия заплатит за тебя."
 
     old "Still trying to catch her breath, Sarah laid on the cold stone."
     new "Всё ещё пытаясь отдышаться, Сара лежала на холодном камне."

@@ -65,7 +65,7 @@ translate ru strings:
     new "У многих из них жестокие глаза. Она почти воображает, что видит их фантазии, разворачивающиеся у них в глазах."
 
     old "With the price rising, men begin to fall off, and the bidding draws down to only about three men. A large, obese man, clad in gold, a merchant of some kind she presumes."
-    new "С ростом цены мужчины начинают выбывать, и торги сводятся всего к троим. Крупный тучный мужчина в золоте, торговец какого-то рода, как она предполагает."
+    new "С ростом цены мужчины начинают выбывать, и торги сводятся всего к троим. Крупный тучный мужчина в золоте, какой-то торговец, как она предполагает."
 
     old "The other two are soldiers with the same violent eyes, she wonders if there would be any difference in which one wins her."
     new "Двое других — солдаты с такими же жестокими глазами; она задаётся вопросом, будет ли какая-то разница, кто из них выиграет её."
@@ -362,7 +362,7 @@ translate ru strings:
     new "Позади себя она почувствовала, как член мужчины снова вырос, упёршись между её ягодиц."
 
     old "Fuck, how could this old man already be hard again, she thought. He easily had fifty years on her, and instead she was the one who struggled to keep up."
-    new "Блядь, как этот старик уже снова мог быть твёрдым, подумала она. Он был старше неё лет на пятьдесят, а вместо этого именно она с трудом поспевала."
+    new "Чёрт, как этот старик уже снова мог быть твёрдым, подумала она. Он был старше неё лет на пятьдесят, а вместо этого именно она с трудом поспевала."
 
     old "Suddenly, there was a knock on the door. It flew open only a moment after."
     new "Внезапно раздался стук в дверь. Она распахнулась мгновение спустя."
@@ -1010,7 +1010,7 @@ translate ru strings:
     new "Когда Сара надела платье, увенчанная цветами, она вышла и встретила своего мужа."
 
     old "Smiles and gestures were their only weak to communicate, for neither could speak the other's language, but it proved enough."
-    new "Улыбки и жесты были их единственным слабым способом общения, ибо никто не говорил на языке другого, но этого оказалось достаточно."
+    new "Улыбки и жесты были их единственным способом общения, ибо никто не говорил на языке другого, но этого оказалось достаточно."
 
     old "The words were spoken, the rituals carried out, and by end of day she was his wife and he her husband."
     new "Слова были произнесены, ритуалы выполнены, и к концу дня она стала его женой, а он — её мужем."
@@ -1079,13 +1079,13 @@ translate ru strings:
     new "Когда округление её живота стало настолько очевидным, что даже мужчины могли понять, она села с мужем."
 
     old "Fear ran deep in her chest and throat as she told him."
-    new "Страх глубоко сидел в её груди и горле, когда она говорила ему."
+    new "Страх сдавил ей грудь и горло, когда она говорила ему."
 
     old "But in his eyes, only wonder."
     new "Но в его глазах — только изумление."
 
     old "If she had ever imagined she knew love, she would forever remember it was a faint imitation compared to what she now saw in his eyes."
-    new "Если она когда-либо думала, что знает любовь, она навсегда запомнит, что это было лишь бледное подобие того, что она сейчас видела в его глазах."
+    new "Если она когда-либо думала, что знает любовь, она навсегда запомнила, что это было лишь бледное подобие того, что она сейчас видела в его глазах."
 
     old "He seized her within his broad and strong arms, spinning her around."
     new "Он схватил её в свои широкие и сильные объятия, кружа её."

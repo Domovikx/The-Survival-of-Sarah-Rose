@@ -83,7 +83,7 @@ translate ru strings:
     new "Он замолчал, пытаясь прийти в себя."
 
     old "I didn't want that for you. They break in new slaves, right there, in their backrooms. When I thought about you being there, it just seemed wrong."
-    new "Я не хотел этого для тебя. Они обламывают новых рабов прямо там, в подсобках. Когда я представил тебя там... это было неправильно."
+    new "Я не хотел этого для тебя. Они ломают новых рабов прямо там, в подсобках. Когда я представил тебя там... это было неправильно."
 
     old "So I did the only thing I could think of. I claimed you before anyone else could."
     new "Поэтому я сделал единственное, что пришло в голову. Я заявил на тебя права, пока никто другой не успел."

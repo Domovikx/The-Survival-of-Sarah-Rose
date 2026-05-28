@@ -32,7 +32,7 @@ translate ru strings:
     new "У рынков ждёт повозка. Нам нужно идти сейчас, я проведу тебя."
 
     old "A cart? What...what are you talking about?"
-    new "Повозка? Что... что ты говоришь?"
+    new "Повозка? О чём... о чём ты говоришь?"
 
     old "When I was out buying the materials for the ritual, I met a merchant who is willing to help you."
     new "Когда я покупала материалы для ритуала, я встретила торговца, который готов помочь тебе."
@@ -284,7 +284,7 @@ translate ru strings:
     new "Сара вскрикнула от ощущения его члена, врезающегося в её киску, расширяющего её изнутри, проникающего далеко и глубоко."
 
     old "She thanked all the gods for how wet she was, allowing her to fit him."
-    new "Она благодарила всех богов за то, как сильно она была влажной — это позволяло вместить его."
+    new "Она благодарила всех богов за то, насколько влажной она была — это позволяло вместить его."
 
     old "The pain very quickly faded, giving way to pleasure."
     new "Боль очень быстро утихла, уступая место удовольствию."

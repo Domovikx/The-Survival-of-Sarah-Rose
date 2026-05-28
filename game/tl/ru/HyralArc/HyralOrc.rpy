@@ -35,7 +35,7 @@ translate ru strings:
     new "После того как он некоторое время ударял камни друг о друга, одна из искр наконец зажгла пламя."
 
     old "Starting slow with the leaves, they nurtured the tiny flame until it grew and grew."
-    new "Начав с листьев, они раздували крошечное пламя, пока оно не разгоралось всё сильнее."
+    new "Начав с листьев, они раздували крошечное пламя, пока оно не разгорелось."
 
     old "Sarah watched on in amazement as the fire grew and grew, casting off its warm glow."
     new "Сара с изумлением смотрела, как огонь разгорался, излучая своё тепло."
@@ -338,7 +338,7 @@ translate ru strings:
     new "Она давно потеряла счёт времени, когда они наконец добрались до лагеря."
 
     old "She looked out in a brief moment of awe."
-    new "Она выглянула в кратком мгновении благоговейного страха."
+    new "На краткий миг она выглянула с трепетом."
 
     old "Crude palisades had been erected in the snow, marking the edges of the camp."
     new "В снегу были возведены грубые частоколы, отмечающие границы лагеря."
@@ -935,7 +935,7 @@ translate ru strings:
     new "Когда она уже думала, что сломается окончательно, она почувствовала, как член орка расширился внутри неё."
 
     old "The orc chieftain roared out as she plunged his cock fully into her."
-    new "Вождь орков заревел, когда вонзил свой член в неё по самую головку."
+    new "Вождь орков заревел, когда она до упора насадилась на его член."
 
     old "Sarah felt his release inside, pumping his semen deep into her."
     new "Сара почувствовала, как он излился внутрь, впрыскивая свою сперму глубоко в неё."

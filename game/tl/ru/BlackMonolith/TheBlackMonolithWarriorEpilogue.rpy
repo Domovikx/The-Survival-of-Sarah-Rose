@@ -761,7 +761,7 @@ translate ru strings:
     new "Мы рабы, нет? Предлагаем то немногое, что у нас есть."
 
     old "Sarah put the bottle to her lips and threw it back. The crude spiced wine rushed down her throat."
-    new "Сара поднесла бутылку к губам и сделала глоток. Пряное вино грубого помола обожгло горло."
+    new "Сара поднесла бутылку к губам и сделала глоток. Грубое пряное вино обожгло горло."
 
     old "The quality was decent enough, but on a night like this, it tasted better than most."
     new "Качество было сносным, но в такую ночь оно казалось вкуснее многих."
@@ -1274,7 +1274,7 @@ translate ru strings:
     new "Подняв взгляд, она увидела звёзды над головой, прорезающие тьму."
 
     old "On a cloudness night like this, so far away from any civilization, the stars were so bright that one could hardly speak of night."
-    new "В такую безоблачную ночь, так далеко от любой цивилизации, звёзды были так ярки, что ночью это можно было назвать с трудом."
+    new "В такую безоблачную ночь, так далеко от любой цивилизации, звёзды были такими яркими, что ночь можно было назвать с трудом."
 
     old "The moon, especially bright, covered the world in a blanket of silver."
     new "Луна, особенно яркая, укрыла мир серебряным покрывалом."

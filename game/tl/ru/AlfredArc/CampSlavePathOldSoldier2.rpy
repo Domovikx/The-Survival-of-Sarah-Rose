@@ -677,7 +677,7 @@ translate ru strings:
     new "Сара почувствовала, как его пальцы начали впиваться в её кожу, так же, как у Мэри."
 
     old "She moved her body, her whole body, along with the motions of her hips. She could feel the lips of her sex slide across his cock, back and forth."
-    new "Она двигала телом, всем телом, в такт движениям бёдер. Она чувствовала, как половые губы скользят по его члену взад и вперёд."
+    new "Она двигала телом, всем телом, в такт движениям бёдер. Она чувствовала, как губки её лона скользят по его члену взад и вперёд."
 
     old "She began to ride him, taking him deeper until she fitted him up to his hilt."
     new "Она начала скакать на нём, принимая его глубже, пока он не вошёл в неё до основания."

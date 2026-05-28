@@ -539,7 +539,7 @@ translate ru strings:
     new "Даже жестокие полководцы стремились завоевать с какой-то целью."
 
     old "But these beasts seemed to be moved by only destruction."
-    new "Но эти твари, казалось, двигались лишь жаждой разрушения."
+    new "Но этими тварями, казалось, двигала лишь жажда разрушения."
 
     old "Sarah looked at the girl."
     new "Сара посмотрела на девочку."
@@ -1541,7 +1541,7 @@ translate ru strings:
     new "Сара кивнула и направилась обратно в сторону каюты офицера."
 
     old "She felt a soft relief in her chest, knowing Alaric had made it out safely."
-    new "Она почувствовала мягкое облегчение в груди, зная, что Аларик выбрался в безопасности."
+    new "Она почувствовала мягкое облегчение в груди, зная, что Аларик выбрался невредимым."
 
     old "When she reached the other end, she stepped through door, into the private quarters."
     new "Когда она добралась до другого конца, она прошла через дверь в личные помещения."

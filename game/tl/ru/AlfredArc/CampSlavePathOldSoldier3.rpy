@@ -8,7 +8,7 @@ translate ru strings:
     new "Прошла почти неделя с тех пор, как Сара начала жить в том, что сходило за её новый дом."
 
     old "When Sarah had joined Mary in servicing the old soldier, it had not been the last time."
-    new "Когда Сара присоединилась к Мэри в обслуживании старого солдата, это было не в последний раз."
+    new "Когда Сара присоединилась к Мэри в угождении старому солдату, это было не в последний раз."
 
     old "Quite the opposite, it seemed to have given the old man a taste for taking them both."
     new "Совсем наоборот — казалось, это пристрастило старика брать их обеих."
@@ -92,7 +92,7 @@ translate ru strings:
     new "А ты новая и молодая, так что, думаю, он немного одержим тобой."
 
     old "Part of her still wanted to play coy, but in truth, this place was empty."
-    new "Часть её всё ещё хотела прикидываться скромницей, но по правде, это место было пустым."
+    new "Часть её всё ещё хотела прикидываться скромницей, но, по правде говоря, это место было пустым."
 
     old "With little more to do than housework most days, part of her had come to appreciate his distraction."
     new "Когда большую часть дней нечем было заняться, кроме домашней работы, часть её начала ценить, что он её отвлекает."
@@ -257,10 +257,10 @@ translate ru strings:
     new "Когда Сара двигала головой на кончике его члена, она заметила, как Мэри скользнула языком по его стволу, беря его яйца в рот."
 
     old "As Mary took her turn working the head, Sarah did as Mary showed her, working his shaft in turn."
-    new "Пока Мэри по очереди работала с головкой, Сара делала так, как показала ей Мэри, обрабатывая его ствол."
+    new "Пока Мэри по очереди работала с головкой, Сара делала так, как показала ей Мэри, в свою очередь обрабатывая его ствол."
 
     old "As Sarah felt her tongue touch against his mound, reaching near to his testicles, she considered hestitating for a moment."
-    new "Когда Сара почувствовала, как её язык коснулся его лобка, приближаясь к яичкам, она на мгновение задумалась, не поколебаться ли."
+    new "Когда Сара почувствовала, как её язык коснулся его лобка, приближаясь к яичкам, она на мгновение подумала, не стоит ли помедлить."
 
     old "But it didn't matter, she thought."
     new "Но это не имело значения, подумала она."
@@ -269,7 +269,7 @@ translate ru strings:
     new "Это пройдёт, и она вытерпит."
 
     old "She opened her mouth and with her tongue, taking his balls into her mouth. They filled up most of her mouth as she worked them."
-    new "Она открыла рот и языком взяла его яйца в рот. Они заполнили почти весь её рот, пока она обрабатывала их."
+    new "Она открыла рот и языком приняла его яйца. Они заполнили почти весь её рот, пока она обрабатывала их."
 
     old "Sarah felt a soft tap on the top of her head, indicating a job well done."
     new "Сара почувствовала мягкий похлопывающий жест по макушке, означающий, что работа выполнена хорошо."
@@ -311,7 +311,7 @@ translate ru strings:
     new "Ей нужно было бежать — каждая частица её твердила это, — и всё же шансы казались невозможными."
 
     old "And against those odds stood what Mary had told her, how her life could also be very simple if she simply gave in."
-    new "И напротив этих шансов стояли слова Мэри о том, что её жизнь могла бы быть очень простой, если бы она просто сдалась."
+    new "И напротив этих шансов — то, что сказала Мэри: её жизнь могла бы быть очень простой, если бы она просто сдалась."
 
     old "She wouldn't have to risk escaping, no planning, no risk of failure and punishment, only submission. Accept that this was her life now."
     new "Ей не пришлось бы рисковать побегом, никаких планов, никакого риска провала и наказания — только подчинение. Принять, что это её жизнь теперь."

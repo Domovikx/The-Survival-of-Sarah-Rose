@@ -62,7 +62,7 @@ translate ru strings:
     new "Близость, заключила она. Что бы существо ни наложило на неё, расстояние между ними влияло на это."
 
     old "A leash of some kind. She shuddered at the thought."
-    new "Поводок какого-то рода. Она содрогнулась от мысли."
+    new "Поводок какого-то рода. Она содрогнулась при этой мысли."
 
     old "As they walked further, they eventually passed through something she had not expected."
     new "Они шли дальше и в конце концов прошли через то, чего она не ожидала."
@@ -185,7 +185,7 @@ translate ru strings:
     new "Весь этот мир казался проклятым. Могло ли какое-то место быть более забытым, чем другое."
 
     old "She made her way up the mountain with the last of her strength."
-    new "Она поднялась на гору с последних сил."
+    new "Она поднялась на гору из последних сил."
 
     old "The beast seemed unfazed by the journey."
     new "Зверь, казалось, не устал от путешествия."
@@ -257,7 +257,7 @@ translate ru strings:
     new "Вскоре его зловещие шаги сменились гнетущей тишиной."
 
     old "Sarah shook the bars, but they did not budge even a fraction."
-    new "Сара трясла прутья, но они не поддались ни на долю."
+    new "Сара трясла прутья, но они не поддались ни на йоту."
 
     old "Solid, despite their seeming rust."
     new "Крепкие, несмотря на кажущуюся ржавчину."
@@ -275,7 +275,7 @@ translate ru strings:
     new "Эти прутья такие же крепкие, как здешние камни. А это о многом говорит."
 
     old "Sarah was stunned. Another person here. Another human."
-    new "Сара была ошеломлена. Ещё один человек. Ещё одна человеческая душа."
+    new "Сара была ошеломлена. Ещё один человек. Человек."
 
     old "I...are you..."
     new "Я... ты..."
@@ -338,7 +338,7 @@ translate ru strings:
     new "Сара посмотрела на Далию и увидела, что у та такая же метка."
 
     old "Ooh, I see you already got yours too?"
-    new "О, вижу, тебе тоже уже поставили?"
+    new "Оу, вижу, тебе тоже уже поставили?"
 
     old "Sarah rubbed her hands across the mark on her lower stomach."
     new "Сара провела рукой по метке на нижней части живота."
@@ -494,7 +494,7 @@ translate ru strings:
     new "Ну... секса."
 
     old "The answer seemed obvious to Sarah in hindsight."
-    new "Ответ казался очевидным задним числом."
+    new "Задним умом Сара понимала, что ответ был очевиден."
 
     old "This is why he's kept me here in this tower."
     new "Вот почему он держит меня в этой башне."

@@ -35,7 +35,7 @@ translate ru strings:
     new "Прошло не так уж много времени, но дни, казалось, сливались один с другим."
 
     old "A life of only luxury and no obligation, seemed to not just relax her body but also her mind. She felt less sharp with each passing day."
-    new "Жизнь, полная роскоши и без каких-либо обязанностей, расслабляла не только тело, но и разум. С каждым днём она чувствовала себя всё менее острой."
+    new "Жизнь, полная роскоши и без каких-либо обязанностей, расслабляла не только тело, но и разум. С каждым днём она чувствовала, что мысли притупляются."
 
     old "As she tried to recall the days, Sarah realized as well that it been a good number of days since she had last seen anything of the Khan as well."
     new "Пытаясь вспомнить дни, Сара также осознала, что прошло уже много времени с тех пор, как она в последний раз видела Хана."
@@ -83,7 +83,7 @@ translate ru strings:
     new "В святилище легко было чувствовать себя одинокой, но в то же время она часто случайно сталкивалась с другими женщинами."
 
     old "The library was an exception, with Sarah having only seen Naydeen use it on one other occasion."
-    new "Библиотека была исключением — Сара лишь однажды видела, как Найдин пользовалась ею."
+    new "Библиотека была исключением — Сара лишь однажды видела здесь Найдин."
 
     old "As she pulled the last volume from the shelf, Sarah suddenly found a glimmer catch her eye."
     new "Когда она снимала последний том с полки, её взгляд вдруг привлёк блеск."
@@ -98,7 +98,7 @@ translate ru strings:
     new "Внимательно оглядев пол, Сара наконец смогла найти то, что привлекло её внимание."
 
     old "Dust, made of seemingly polished metal."
-    new "Пыль из, казалось, полированного металла."
+    new "Пыль из металла, казавшегося полированным."
 
     old "Sarah bend down and ran her fingers across the glitter."
     new "Сара наклонилась и провела пальцами по блёсткам."
@@ -413,7 +413,7 @@ translate ru strings:
     new "Сара вспомнила, как прислуживала ему в саду. Тогда это казалось далёким. Отстранённым."
 
     old "Now, so naked, the separation was harder to imagine."
-    new "Теперь, обнажённая, эту отстранённость было представить сложнее."
+    new "Теперь, в такой откровенной близости, эту отстранённость было представить сложнее."
 
     old "She felt his powerful hands, wrapping around her waist, pushing her back."
     new "Она почувствовала его сильные руки, обхватившие её талию, толкающие её назад."
@@ -533,7 +533,7 @@ translate ru strings:
     new "Никто раньше не посмел бы говорить с ней так. Но в этой жизни были другие правила."
 
     old "She felt his massive member pressing up between the cheeks of her ass."
-    new "Она почувствовала, как его массивный член прижимается между её ягодиц."
+    new "Она почувствовала, как его массивный член прижимается между её ягодицами."
 
     old "His massive hands wrapped around her shoulders."
     new "Его огромные руки обхватили её плечи."
@@ -668,7 +668,7 @@ translate ru strings:
     new "Он наклонился вперёд, и Сара почувствовала, как он вошёл в неё так глубоко, как она только могла представить."
 
     old "She felt the sharp pain of his member up against her cervix."
-    new "Она почувствовала острую боль от его члена, упёршегося в шейку матки."
+    new "Она почувствовала острую боль от его члена, упёршегося в самую глубину."
 
     old "That is right."
     new "Верно."
@@ -692,7 +692,7 @@ translate ru strings:
     new "Именно сила определяет, кто правит, а кто подчиняется."
 
     old "Sarah felt her mind go blank as he continued to ravage her, the pleasure building, drowning out much else."
-    new "Сара чувствовала, как разум пустеет, пока он продолжал терзать её, наслаждение нарастало, заглушая всё остальное."
+    new "Сара чувствовала, как разум пустеет, пока он продолжал терзать её, а наслаждение нарастало, заглушая всё остальное."
 
     old "There was only the growing pleasure, and his voice."
     new "Было только растущее наслаждение и его голос."
@@ -710,7 +710,7 @@ translate ru strings:
     new "Вся ты."
 
     old "Your body. Your mind. Your womb too."
-    new "Твоё тело. Твой разум. И твоя матка тоже."
+    new "Твоё тело. Твой разум. И твоя утроба тоже."
 
     old "She could heard him grunt, louder and louder. His pace quickening."
     new "Она слышала его хриплое дыхание, всё громче и громче. Его темп ускорялся."
@@ -779,7 +779,7 @@ translate ru strings:
     new "Почему же, гадала она, она всё ещё так сопротивляется."
 
     old "Finally, having gathered her strength, Sarah pushed herself up from the table."
-    new "Наконец, собравшись с силами, Сара оттолкнулась от стола."
+    new "Наконец, собравшись с силами, Сара поднялась со стола."
 
     old "Too tired to do much else, she stumbled out of the library, back to her room."
     new "Слишком уставшая, чтобы заниматься чем-то ещё, она вышла из библиотеки и направилась в свою комнату."

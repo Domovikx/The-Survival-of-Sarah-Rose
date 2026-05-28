@@ -11,7 +11,7 @@ translate ru strings:
     new "Ребёнком она бегала по этим залам тысячи раз."
 
     old "Though it has been years since she was last here, she can walk the hall by memory."
-    new "Хотя прошли годы с тех пор, как она была здесь в последний раз, она может пройти по залу по памяти."
+    new "Хотя прошли годы с тех пор, как она была здесь в последний раз, она помнит зал настолько хорошо, что может пройти по нему с закрытыми глазами."
 
     old "But only their dimensions are true."
     new "Но верны лишь их очертания."
@@ -32,7 +32,7 @@ translate ru strings:
     new "Если я тебе в тягость, скажи лишь слово, и я исчезну."
 
     old "In her dreams, the castle was always empty. Hollow. The spirit was no real replacement for life, but it seemed more fitting than to be alone."
-    new "В её снах замок всегда был пустым. Безжизненным. Дух не был настоящей заменой жизни, но казался лучшим, чем одиночество."
+    new "В её снах замок всегда был пустым. Безжизненным. Дух не был настоящей заменой жизни, но это было лучше, чем одиночество."
 
     old "No, stay Razaphel."
     new "Нет, останься, Разафель."
@@ -107,7 +107,7 @@ translate ru strings:
     new "Я не мечтаю ничем править, дух."
 
     old "She watched as Razaphel drifted through the Great Hall."
-    new "Она смотрела, как Разафель парил по Великому Залу."
+    new "Она смотрела, как Разафель скользил по Великому Залу."
 
     old "Yet you are more powerful than you have ever been. And you will grow more powerful still."
     new "И всё же ты могущественнее, чем когда-либо. И станешь ещё могущественнее."
@@ -158,13 +158,13 @@ translate ru strings:
     new "Покровы между мирами разорвутся, и мой народ, наша Орда, хлынет по земле."
 
     old "Millions will be put to the grave."
-    new "Миллионы будут преданы земле."
+    new "Миллионы будут отправлены в могилу."
 
     old "They will descend on the world like locusts and leave empires barren as fields."
     new "Они обрушатся на мир, как саранча, и оставят империи пустыми, как поля."
 
     old "Sarah saw images in the mist of the spirit's body."
-    new "Сара увидела образы в тумане тела духа."
+    new "Сара увидела образы в туманном теле духа."
 
     old "Corpses, piled up like mountains, the smell of rotting flesh filling up the room."
     new "Трупы, громоздящиеся, как горы, запах гниющей плоти, заполняющий комнату."

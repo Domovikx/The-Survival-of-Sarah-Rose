@@ -506,7 +506,7 @@ translate ru strings:
     new "Найдин пожала плечами."
 
     old "I won't lie and say that's not part of it."
-    new "Не буду врать и говорить, что это не часть этого."
+    new "Не буду врать и говорить, что это не так."
 
     old "But he listens to us, speaks to us as people. He is not as brutish as he appears to the outside world."
     new "Но он слушает нас, говорит с нами как с людьми. Он не такой грубый, каким кажется внешнему миру."

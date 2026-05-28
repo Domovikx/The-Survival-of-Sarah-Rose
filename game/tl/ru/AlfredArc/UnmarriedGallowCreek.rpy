@@ -218,7 +218,7 @@ translate ru strings:
     new "Но она навсегда оставалась отстранённой от мира, и люди исчезали так же, как и места."
 
     old "More than two decades had passed since she had left the town of Gallow's Creek, by now less than a memory."
-    new "Более двух десятилетий прошло с тех пор, как она покинула городок Галлоу-Крик, ставший к тому времени не более чем воспоминанием."
+    new "Более двух десятилетий прошло с тех пор, как она покинула городок Галлоуз-Крик, ставший к тому времени не более чем воспоминанием."
 
     old "Sarah sat beneath the shade of a large tree, taking respite with fellow travelers as she neared a new city."
     new "Сара сидела в тени большого дерева, отдыхая с попутчиками, приближаясь к новому городу."

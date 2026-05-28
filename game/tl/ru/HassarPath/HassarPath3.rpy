@@ -119,7 +119,7 @@ translate ru strings:
     new "Она поступает сюда из близлежащего оазиса. Оросительный проект был той ещё задачей, учитывая все обстоятельства."
 
     old "But the water is said to contain unique properties by the tribes."
-    new "Но, говорят, племена считают эту воду обладающей особыми свойствами."
+    new "Но племена говорят, что эта вода обладает особыми свойствами."
 
     old "Sarah began to slowly swim, drawing nearer to Naydeen."
     new "Сара начала медленно плыть, приближаясь к Найдин."
@@ -134,7 +134,7 @@ translate ru strings:
     new "Ещё бы, я одна из них."
 
     old "Sarah couldn't say she was entirely surprised. The complexion of her skin had hinted as much."
-    new "Сара не могла сказать, что это стало полной неожиданностью. Цвет её кожи намекал на это."
+    new "Сара не могла сказать, что это стало полной неожиданностью. Об этом говорил оттенок её кожи."
 
     old "Does that surprise you?"
     new "Тебя это удивляет?"
@@ -179,7 +179,7 @@ translate ru strings:
     new "У хана много жён — таково его право по статусу и по обычаям нашего общества, — но я была первой."
 
     old "Sarah could see Naydeen smiled and drew some pride from that fact."
-    new "Сара видела, что Найдин улыбнулась, черпая гордость из этого факта."
+    new "Сара видела, что Найдин улыбнулась, гордясь этим."
 
     old "So why are you here then?"
     new "Тогда зачем ты здесь?"
@@ -734,7 +734,7 @@ translate ru strings:
     new "Звучит разумно"
 
     old "What if you desire no man?"
-    new "А если я не хочу ни одного мужчину?"
+    new "А если я не хочу ни одного мужчины?"
 
     old "Sarah turned to look at Naydeen."
     new "Сара повернулась, чтобы посмотреть на Найдин."
@@ -869,7 +869,7 @@ translate ru strings:
     new "Она услышала, как Найдин тихо усмехнулась."
 
     old "Suddenly, it felt to her as if a bolt of lightning shot out across her body from between her legs."
-    new "Внезапно ей показалось, будто молния ударила по телу из промежности."
+    new "Внезапно ей показалось, будто молния ударила по телу, вспыхнув между ног."
 
     old "AAaaaaH!"
     new "Ааааах!"
@@ -1127,7 +1127,7 @@ translate ru strings:
     new "Наконец, когда последние волны покинули тело, Сара почувствовала, как Найдин выходит из неё."
 
     old "Her sex sensitive, Sarah could feel that same sensitivity all across her body, as though her skin was new and freshly exposed to the sultry air."
-    new "Чувствительная в паху, Сара ощущала ту же чувствительность во всём теле — будто кожа обновилась и впервые открылась знойному воздуху."
+    new "Чуткая между ног, Сара ощущала ту же остроту во всём теле — будто кожа обновилась и впервые открылась знойному воздуху."
 
     old "Each limb in her body felt racked from the excercise."
     new "Каждая конечность ныла от напряжения."

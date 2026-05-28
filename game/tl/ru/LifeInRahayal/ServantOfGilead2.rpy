@@ -551,7 +551,7 @@ translate ru strings:
     new "Точёные очертания его тела, непринуждённая манера, с которой он сидел среди плотского пира. Он был одним из тех редких, кто не носил маску."
 
     old "Between his legs, a member that seemed to go with his arrogant attitude."
-    new "Между ног — орган, который, казалось, соответствовал его высокомерному поведению."
+    new "Между ног — член, который, казалось, соответствовал его высокомерному поведению."
 
     old "Come over here, girl."
     new "Подойди сюда, девушка."
@@ -854,7 +854,7 @@ translate ru strings:
     new "Кассиус, со своей стороны, казался невозмутимым, если не ещё более возбуждённым."
 
     old "Fuck!!!"
-    new "Блядь!!!"
+    new "Чёрт!!!"
 
     old "Sarah cried out again as his tongue slid inside of her."
     new "Сара снова вскрикнула, когда его язык скользнул внутрь неё."
@@ -905,7 +905,7 @@ translate ru strings:
     new "Она улыбнулась. Конечно, это был не девственный принц, пришедший спасти её. Таких не существовало в подобных местах."
 
     old "He leaned back and she saw his member, now fully erect."
-    new "Он откинулся назад, и она увидела его орган, теперь полностью эрегированный."
+    new "Он откинулся назад, и она увидела его член, теперь полностью стоящий."
 
     old "Care to return the favor?"
     new "Не желаешь ответить взаимностью?"
@@ -1010,7 +1010,7 @@ translate ru strings:
     new "Когда он излился ей в рот, Сара обнаружила, что только жаждет этого."
 
     old "His seed, spilling out across her mouth, her tongue, and eagerly down her throat."
-    new "Его семя, изливающееся по её рту, языку и жадно вниз по горлу."
+    new "Его семя, изливающееся по её рту, языку и жадно стекающее по горлу."
 
     old "Sarah swallowed all of it, eager to possess some part of him."
     new "Сара проглотила всё, стремясь обладать хоть какой-то частью его."
@@ -1334,7 +1334,7 @@ translate ru strings:
     new "Следи за языком, или я прикажу вырвать его."
 
     old "Lady Carolyn appeared unimpressed with the threat."
-    new "Леди Кэролайн, казалось, не впечатлила угроза."
+    new "Леди Кэролайн, казалось, не впечатлилась угрозой."
 
     old "Please, let us simply be honest with one another. It will make it easier for us to strike a deal."
     new "Пожалуйста, давай просто будем честны друг с другом. Это облегчит нам заключение сделки."

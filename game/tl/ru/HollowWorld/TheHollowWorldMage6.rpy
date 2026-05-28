@@ -41,7 +41,7 @@ translate ru strings:
     new "В голосе духа слышалась игривость."
 
     old "Come to deliver more riddles? Or perhaps taunt me today?"
-    new "Пришёл загадать новые загадки? Или, может, сегодня будешь дразнить меня?"
+    new "Пришла загадать новые загадки? Или, может, сегодня будешь дразнить меня?"
 
     old "Razaphel's form splintered near the edges like mist forming on the surface of ice."
     new "Форма Разафеля распадалась по краям, словно туман, стелющийся по поверхности льда."

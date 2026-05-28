@@ -56,7 +56,7 @@ translate ru strings:
     new "Продолжая идти, Сара заметила, что немало людей в поле обратили на неё внимание."
 
     old "Gallow Creek was a tiny hovel from what Sigmund had told her."
-    new "Галлоу-Крик, по словам Зигмунда, была крошечной деревушкой."
+    new "Галлоуз-Крик, по словам Зигмунда, была крошечной деревушкой."
 
     old "Safe and full of good people from what he said, but they probably were not used to many visitors."
     new "Безопасная и полная хороших людей, как он сказал, но они, вероятно, не привыкли к множеству посетителей."
@@ -65,10 +65,10 @@ translate ru strings:
     new "Сара шла, пока не наткнулась на небольшую группу зданий."
 
     old "None were too impressive, but gathered around a makeshift square, she assumed this was what had to pass for the center of the town."
-    new "Ни одно из них не было впечатляющим, но, собравшись вокруг импровизированной площади, они, как она предположила, и составляли центр города."
+    new "Ни одно из них не было впечатляющим, но, собравшись вокруг стихийной площади, они, как она предположила, и составляли центр городка."
 
     old "Much like the road that lead to Gallow Creek, it wasn't so much made as formed naturally."
-    new "Как и дорога, ведущая в Галлоу-Крик, площадь была не столько построена, сколько образована естественным путём."
+    new "Как и дорога, ведущая в Галлоуз-Крик, площадь была не столько построена, сколько образована естественным путём."
 
     old "Just as she was taking it all in, she heard a voice."
     new "И как раз когда она всё это осматривала, она услышала голос."
@@ -233,7 +233,7 @@ translate ru strings:
     new "В общем, думаю, у нас тут около сорока семей живёт в городке."
 
     old "Sarah listend intently as Marius explained the workings of Gallow Creek."
-    new "Сара внимательно слушала, пока Мариус объяснял устройство Галлоу-Крик."
+    new "Сара внимательно слушала, пока Мариус объяснял устройство Галлоуз-Крик."
 
     old "She realized fewer people lived in this town then maybe a single street in the Capital of Rosanna."
     new "Она поняла, что в этом городке живёт меньше людей, чем на одной улице столицы Розанны."
@@ -299,7 +299,7 @@ translate ru strings:
     new "Маленький, тесный и странно захламлённый."
 
     old "Sorry if it's a bit of a mess. I been meaning to clean up for a while now, but...you know, harvest season."
-    new "Прости, если тут небольшой беспорядок. Я всё собирался прибраться, но... сам понимаешь, страда."
+    new "Прости, если тут небольшой беспорядок. Я всё собирался прибраться, но... сама понимаешь, уборочная."
 
     old "He shrugged as if that was plenty of explanation."
     new "Он пожал плечами, будто этого было достаточно в качестве объяснения."
@@ -341,7 +341,7 @@ translate ru strings:
     new "Старик нахмурился, увидев её."
 
     old "Boy! I told you to warn me when we get visitors. Especially one as lovely as this one."
-    new "Сынок! Я же говорил предупреждать меня, когда к нам гости. Тем более такие прекрасные."
+    new "Сынок! Я же говорил предупреждать меня, когда к нам гости. Тем более такая прекрасная."
 
     old "Sarah blushed and smiled."
     new "Сара покраснела и улыбнулась."
@@ -401,7 +401,7 @@ translate ru strings:
     new "Но смотри у меня!"
 
     old "This place might look like a mess, but I know every knife and fork and what not."
-    new "Может, это место и выглядит как свалка, но я знаю, где каждая вилка и каждая тряпка лежит."
+    new "Может, это место и выглядит как свалка, но я знаю, где каждая вилка и каждая ложка лежит."
 
     old "If a thing goes missin, you'll be in trouble. And in this town, we don't do no complicated city justice."
     new "Если что-то пропадёт — будут проблемы. А в этом городке мы не занимаемся сложным городским правосудием."
@@ -656,7 +656,7 @@ translate ru strings:
     new "Это было не бог весть что, но достаточно близко к тому, что она представляла съедобной едой."
 
     old "As she started to work the kitchen, she kept noticing Marius from the corner of her eyes."
-    new "Когда она начала колдовать на кухне, она то и дело замечала краем глаза Мариуса."
+    new "Когда она начала работать на кухне, она то и дело замечала краем глаза Мариуса."
 
     old "Shifting his eyes, catching glances and turning just as she did."
     new "Он отводил взгляд, ловил её взгляд и отворачивался, стоило ей повернуться."
@@ -995,7 +995,7 @@ translate ru strings:
     new "Когда дверь захлопнулась, в комнате снова стало темно."
 
     old "Sarah laid back down and pulled the sheets closely over her body, as if it was a shield."
-    new "Сара снова легла и натянула простыню до самого подбородка, словно это был щит."
+    new "Сара снова легла и натянула простыню на себя, словно это был щит."
 
     old "The man was a lech, but she not about to entertain him just because offered her a place to stay."
     new "Этот мужчина был похотливым стариком, но она не собиралась развлекать его только потому, что он предложил ей кров."
@@ -1166,7 +1166,7 @@ translate ru strings:
     new "Всё это время её рука оставалась зажатой между его ног."
 
     old "Feeling him. Throbbing."
-    new "Она чувствовала его. Пульсирующим."
+    new "Чувствуя его пульсацию."
 
     old "You caused this. Least you can do is fix this."
     new "Ты это вызвала. Могла бы хотя бы исправить."

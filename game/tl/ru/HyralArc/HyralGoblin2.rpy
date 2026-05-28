@@ -41,7 +41,7 @@ translate ru strings:
     new "Его хрипы превращались в визги, когда она ускорялась."
 
     old "She lowered her head, afraid of looking at the creature, afraid of catching a glimpse of herself."
-    new "Она опустила голову, боясь смотреть на себя."
+    new "Она опустила голову, боясь смотреть на тварь, боясь увидеть себя."
 
     old "Sarah did her best to disassociate herself."
     new "Сара старалась отрешиться."
@@ -71,7 +71,7 @@ translate ru strings:
     new "Наконец, хотя это длилось недолго, существо достигло финала."
 
     old "A last high pitched shriek as it spewed out its seed across her cell."
-    new "Последний визг, когда семя изверглось через камеру."
+    new "Последний визг, когда семя изверглось по камере."
 
     old "Sarah did her best to avoid it, but could not prevent at least some of the semen from falling on her skin."
     new "Сара старалась увернуться, но часть семени попала на кожу."
@@ -791,7 +791,7 @@ translate ru strings:
     new "Ты обещал, что..."
 
     old "Suddenly she felt her face snap sideways."
-    new "Внезапно она почувствовала, как лицо резко повернулось в сторону."
+    new "Внезапно она почувствовала, как лицо резко дёрнулось в сторону."
 
     old "She stumbled to the ground."
     new "Она упала на землю."
@@ -818,7 +818,7 @@ translate ru strings:
     new "Он протянул руку и схватил ошейник, всё ещё висевший на её шее."
 
     old "Dragged on hands and feet, Sarah could do nothing but crawl after the goblin as he took her into his hut."
-    new "Саре оставалось только ползти за гоблином в хижину."
+    new "Влекомая на четвереньках, Сара могла лишь ползти за гоблином, когда он тащил её в хижину."
 
     old "He threw her down on the floor of his home."
     new "Он швырнул её на пол своего дома."
@@ -890,7 +890,7 @@ translate ru strings:
     new "Я... буду... твоей... шлюхой..."
 
     old "She managed to speak the words in between heavy breathing."
-    new "Она произнесла слова между тяжелыми вздохами."
+    new "Она произнесла слова между тяжелыми вдохами."
 
     old "The goblin shrieked and cackled with delight."
     new "Гоблин визжал и хохотал от восторга."
@@ -911,13 +911,13 @@ translate ru strings:
     new "Кроме себя."
 
     old "Between her legs, she felt the familiar betrayal of growing pleasure as the creature continued to ravage her."
-    new "Между ног она чувствовала знакомое предательство растущего удовольствия."
+    new "Между ног она чувствовала знакомое предательство растущего удовольствия, пока тварь продолжала насиловать её."
 
     old "Just as their night in the cave, their sex proved closer to animal lust than anything human."
     new "Как и их ночь в пещере, их секс был ближе к животной похоти, чем к чему-либо ещё."
 
     old "And the goblin, despite its size, proved plenty virile."
-    new "И гоблин, несмотря на размер, оказался весьма плодовит."
+    new "И гоблин, несмотря на размер, оказался весьма силён."
 
     old "Their night in the cave, turned into a session that seemed to last for nearly a week."
     new "Их ночь в пещере превратилась в сессию, длившуюся почти неделю."
@@ -974,7 +974,7 @@ translate ru strings:
     new "Ни книг, ни искусства. Только природа и они двое."
 
     old "So empty was this tiny world, that in the end, Sarah embraced the goblin's affections and returned them in kind."
-    new "Таким пустым был мир, что Сара приняла привязанность гоблина и ответила взаимностью."
+    new "Таким пустым был этот крошечный мир, что Сара приняла привязанность гоблина и ответила взаимностью."
 
     old "He only ever was rough and violent with her."
     new "Он всегда был только грубым и жестоким с ней."

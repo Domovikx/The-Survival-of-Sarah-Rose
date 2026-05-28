@@ -176,7 +176,7 @@ translate ru strings:
     new "С энергией, кружащейся вокруг её рук, она собрала свой собственный магический огонь и начала обрушивать его на Ксана."
 
     old "Even with one hand, she offered little challenge to the mage."
-    new "Даже с одной рукой она не составляла серьёзной угрозы для мага."
+    new "Она не составляла серьёзной угрозы для мага, даже лишившегося одной руки."
 
     old "He deflected her attacks, weaving complex wards that Sarah had never seen before."
     new "Он отражал её атаки, сплетая сложные защитные чары, которых Сара никогда раньше не видела."

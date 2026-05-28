@@ -206,7 +206,7 @@ translate ru strings:
     new "Нет, Сара."
 
     old "I am not your old teacher, warning you to hide like a child from the truth of the world."
-    new "Я не твой старый учитель, предостерегающий тебя прятаться, как ребёнок, от правды мира."
+    new "Я не твой старый учитель, который велит тебе прятаться, как ребёнку, от правды мира."
 
     old "I only offer you words of warning."
     new "Я лишь предостерегаю тебя."

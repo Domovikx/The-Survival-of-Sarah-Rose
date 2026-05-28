@@ -692,7 +692,7 @@ translate ru strings:
     new "Сара подумала было скрестить руки, прикрыв грудь, но какой в этом теперь смысл?"
 
     old "Nothing the creature hadn't seen yet. There was no point in vanity now."
-    new "Этого тварь ещё не видела. Не время для стеснения."
+    new "Тварь уже всё это видела. Не время для стеснения."
 
     old "A constant, lowly grunting, seemed to emerge from the creature as it breathed heavily."
     new "Постоянное низкое хрюканье, казалось, исходило от твари, тяжело дышащей."

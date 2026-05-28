@@ -65,7 +65,7 @@ translate ru strings:
     new "Она никогда не предполагала, что они будут делать то же с мужчинами."
 
     old "As much as she blamed Nick for what had happened to them, she could not deny that with some distant hope, she thought he might save her."
-    new "Как бы она ни винила Ника за то, что случилось, она не могла отрицать надежду, что он спасёт её."
+    new "Как бы она ни винила Ника за то, что случилось, она не могла отрицать, что с какой-то далёкой надеждой всё ещё ждала его спасения."
 
     old "That somehow, despite everything she knew about him, he would prove a hero."
     new "Что, несмотря ни на что, он окажется героем."
@@ -104,16 +104,16 @@ translate ru strings:
     new "Он опустил голову и взял член орка в рот."
 
     old "She heard the orc's deep guttural groan as Nick pleasured him."
-    new "Она слышала глубокий гортанный стон орка."
+    new "Она слышала глубокий гортанный стон орка, когда Ник доставлял ему удовольствие."
 
     old "The bobbing motions of the shadowy figure, going up and down."
     new "Тень двигалась вверх-вниз."
 
     old "Sarah felt horrified, but could not look away."
-    new "Сара чувствовала ужас, но не могла отвести взгляд."
+    new "Сара была в ужасе, но не могла отвести взгляд."
 
     old "Finally, after several minutes, the orc grunted, finding its release."
-    new "Наконец орк зарычал, достигнув финала."
+    new "Наконец орк зарычал, достигнув разрядки."
 
     old "Muttered sounds, drowned on the orc's cock as it finished inside Nick's mouth."
     new "Приглушённые звуки, заглушённые членом орка во рту Ника."
@@ -173,13 +173,13 @@ translate ru strings:
     new "Выползая из клетки, она последовала за орком."
 
     old "He guided her back towards the large tent and Sarah could feel dread at the memories of the chieftain."
-    new "Он вёл её к большому шатру, и Сара чувствовала страх."
+    new "Он вёл её к большому шатру, и Сара с ужасом вспоминала вождя."
 
     old "Was this her life now, she wondered as her body moved nervously."
     new "Неужели это теперь её жизнь, думала она."
 
     old "Stepping inside, she was surprised to be struck by a wave of warmth and sounds and smells."
-    new "Внутри её ударила волна тепла, звуков и запахов."
+    new "Внутри её, к удивлению, ударила волна тепла, звуков и запахов."
 
     old "The large tent was filled with what seemed to be every orc in the tribe."
     new "Шатёр был полон орков племени."
@@ -221,7 +221,7 @@ translate ru strings:
     new "Новые глубины, которые могла пережить."
 
     old "As she walked through the orc crowd, serving them their food, the orcs made no hint of restraint."
-    new "Проходя через толпу орков, она не встречала сдержанности."
+    new "Проходя через толпу орков с едой, она не замечала ни намёка на сдержанность с их стороны."
 
     old "Wandering hands, slaps on her ass."
     new "Блуждающие руки, шлепки по заду."
@@ -233,7 +233,7 @@ translate ru strings:
     new "Пока не сможет сбежать, она не даст им повода напасть — как уже сделала раньше."
 
     old "Sarah continued to serve them, deep into the night, when suddenly a loud voice boomed out."
-    new "Сара продолжала обслуживать их глубоко в ночь, когда внезапно раздался громкий голос."
+    new "Сара продолжала обслуживать их далеко за полночь, когда внезапно раздался громкий голос."
 
     old "All the orcs grew silent at once."
     new "Все орки мгновенно замолчали."
@@ -254,7 +254,7 @@ translate ru strings:
     new "Единственное, что удерживало их от неё — они все хотели её, поняла она."
 
     old "Sarah softly trembled as the chieftain stood next to her."
-    new "Сара мягко дрожала, пока вождь стоял рядом."
+    new "Сара мелко дрожала, пока вождь стоял рядом."
 
     old "Gorak, the chieftain, roared and the other orcs followed, stomping their fists and feet."
     new "Горак, вождь, заревел, и остальные орки последовали, ударяя кулаками и топая ногами."
@@ -275,7 +275,7 @@ translate ru strings:
     new "Вождь указал на неё, и их глаза жадно впитывали её тело."
 
     old "As Gorak continued, the roaring and cheering in the room grew louder and more fierce."
-    new "Горак продолжал, и шум в комнате становился громче."
+    new "Горак продолжал, и рёв в шатре становился громче."
 
     old "Orcs stood up, pounded their chest, and roared."
     new "Орки вставали, били себя в грудь и ревели."
@@ -293,10 +293,10 @@ translate ru strings:
     new "Горак наклонился и заговорил с ней резким шёпотом."
 
     old "You should feel honored."
-    new "Ты должна чувствовать честь."
+    new "Ты должна быть польщена."
 
     old "Sarah trembled and felt far from it."
-    new "Сара дрожала и чувствовала себя далёкой от этого."
+    new "Сара дрожала и была далека от этого."
 
     old "Honored? What...what do you mean?"
     new "Честь? Что... ты имеешь в виду?"
@@ -371,7 +371,7 @@ translate ru strings:
     new "Зрелище, ужасавшее её, было пиром для них."
 
     old "For nearly an hour, there was a constant series of battles between orcs as they settled on who was the strongest."
-    new "Почти час шли бои между орками."
+    new "Почти час непрерывной череды боёв орки выясняли, кто из них сильнейший."
 
     old "It all ended when the strongest of them drove its half broken blade into the chest of the last rival."
     new "Всё закончилось, когда сильнейший вонзил полусломанный клинок в грудь последнего соперника."
@@ -383,16 +383,16 @@ translate ru strings:
     new "Празднование до этого казалось ничем после."
 
     old "More food and drinks poured into the hall as they celebrated their champion."
-    new "Больше еды и напитков потекло в зал."
+    new "Ещё больше еды и напитков потекло в зал — они праздновали своего чемпиона."
 
     old "Wasting no time, Sarah was brought away to prepare for the ritual."
     new "Не теряя времени, Сару увели готовить к ритуалу."
 
     old "They applied a red paint to her body, painting ritual markings that made no sense to her but seemed sacred to them."
-    new "Они нанесли красную краску на её тело, ритуальные узоры."
+    new "Они нанесли красную краску на её тело — ритуальные узоры, ничего не значившие для неё, но священные для них."
 
     old "One of the older orc led the ceremony, carrying a stick adorned with small gems and animal teeth."
-    new "Одна из старых орков вела церемонию с жезлом, украшенным самоцветами и зубами."
+    new "Одна из старых орчих вела церемонию с жезлом, украшенным самоцветами и зубами."
 
     old "Sarah obeyed every instruction, as the ritual played out around her."
     new "Сара подчинялась каждому указанию."
@@ -458,7 +458,7 @@ translate ru strings:
     new "Удерживая её на месте своими руками, он опустил её на головку члена."
 
     old "Sarah cried out as he entered her, but felt her voice choked out by his powerful hands."
-    new "Сара закричала, когда он вошёл в неё, но голос был заглушён его руками."
+    new "Сара закричала, когда он вошёл в неё, но его сильные руки заглушили её крик."
 
     old "Like with everything in this place, there was nothing she could do to fight back."
     new "Как и со всем в этом месте, она не могла бороться."
@@ -470,13 +470,13 @@ translate ru strings:
     new "Так что она сделала, как всегда, и уступила."
 
     old "Spreading her own legs, wrapping them around the thick upper legs of the orc, she allowed him to take her more easily."
-    new "Раздвинув ноги, обвив их вокруг его ног, она позволила ему взять её легче."
+    new "Раздвинув ноги, обвив их вокруг его толстых бёдер, она позволила ему взять её легче."
 
     old "It would hurt less, this was, she thought."
     new "Так будет не так больно, подумала она."
 
     old "She could hear the groaning and heavy breathing of the orc's appreciation."
-    new "Она слышала его стоны и тяжёлое дыхание."
+    new "Она слышала его стоны одобрения и тяжёлое дыхание."
 
     old "Still, no matter how much she submitted to him, he was still rough with her."
     new "Но сколько бы она ни подчинялась, он всё равно был груб с ней."
@@ -488,10 +488,10 @@ translate ru strings:
     new "Сара чувствовала, как комната кружится, когда он швырнул её на пол."
 
     old "She landed on her hands and feet, but before she could respond, she felt its massive hand wrap around the back of her head."
-    new "Она приземлилась на руки и ноги, но огромная рука обхватила её затылок."
+    new "Она приземлилась на руки и ноги, но не успела опомниться — огромная рука обхватила её затылок."
 
     old "He pressed her face into the ground, keeping her ass raised in the air."
-    new "Он прижал её лицом в землю, задница в воздухе."
+    new "Он прижал её лицом в землю, а её задница осталась в воздухе."
 
     old "Kneeling down behind her, he entered her again."
     new "Опустившись на колени позади, он снова вошёл в неё."
@@ -500,13 +500,13 @@ translate ru strings:
     new "Сара закричала громче, чувствуя весь его размер."
 
     old "She had gotten wet, but there was only so much that could be done to accomodate orc's and their sizes."
-    new "Она была влажной, но орков и их размеры можно было выдержать лишь до определённой точки."
+    new "Она была влажной, но к оркам и их размерам можно было приспособиться лишь до определённой степени."
 
     old "Sarah felt the orc ravage her and knew she needed not hope for any sympathy or consideration."
     new "Сара чувствовала, как орк разрывает её, и знала — не стоит ждать сочувствия."
 
     old "By the laws of their culture, she was is to be used, and he intended to do exactly that."
-    new "По законам их культуры она была его собственностью для использования."
+    new "По законам их культуры она была его собственностью, и он намеревался пользоваться этим."
 
     old "Sarah felt her whole body shake, each time the orc thrusted into her."
     new "Сара чувствовала, как тело трясётся с каждым толчком."
@@ -554,16 +554,16 @@ translate ru strings:
     new "К концу Сара осталась на земле, измождённая, едва способная двигаться."
 
     old "She could hear the orc leave, and the sounds of celebration as he rejoined his fellow tribes members."
-    new "Она слышала, как орк ушёл, и звуки празднования."
+    new "Она слышала, как орк ушёл, и звуки празднования — он вернулся к соплеменникам."
 
     old "Laying in the cold dark of the tent, Sarah looked up at the tarp."
-    new "Лёжа в холоде шатра, Сара смотрела на полог."
+    new "Лёжа в холоде и темноте шатра, Сара смотрела на полог."
 
     old "Small tears and holes allowed her to look through and outside."
-    new "Маленькие дырочки позволяли смотреть наружу."
+    new "Прорехи и дырочки позволяли смотреть наружу."
 
     old "The same dark and grey clouds that always lingered over the Hyral mountains, still dominated the sky."
-    new "Те же тёмно-серые облака, что всегда висели над горами Хайрал, всё ещё господствовали в небе."
+    new "Те же тёмно-серые облака, что всегда висели над горами Хайрал, всё ещё царили в небе."
 
     old "She closed her eyes and drifted into sleep."
     new "Она закрыла глаза и провалилась в сон."
@@ -623,7 +623,7 @@ translate ru strings:
     new "Но дети никогда не казались ей своими."
 
     old "Too orcisch, too alien. Belonging to a culture she would never in her life come to understand."
-    new "Слишком оркские, слишком чуждые. Принадлежащие культуре, которую она никогда не поймёт."
+    new "Слишком орчьи, слишком чуждые. Принадлежащие культуре, которую она никогда не поймёт."
 
     old "A princess turned sailor. A sailor turned slave. Wife to an orc."
     new "Принцесса, ставшая морячкой. Морячка, ставшая рабыней. Жена орка."

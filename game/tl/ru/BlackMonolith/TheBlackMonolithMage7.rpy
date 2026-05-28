@@ -209,7 +209,7 @@ translate ru strings:
     new "Мгновение спустя Самайра снова появилась из толпы, держа в руках две кружки."
 
     old "She placed them down in front of Sarah as she sat back down."
-    new "Она поставила их перед Сарой, снова садясь."
+    new "Она поставила их перед Сарой и снова села."
 
     old "They had wine or beer, so I went for wine."
     new "У них было вино или пиво, так что я взяла вино."
@@ -341,7 +341,7 @@ translate ru strings:
     new "Их шаги были быстрыми, но необученными."
 
     old "However, despite any lack of formal training, it didn't seem wrong. Rather, it seemed all the more natural and energetic."
-    new "Однако, несмотря на отсутствие формальной подготовки, это не казалось неправильным. Скорее, это казалось более естественным и энергичным."
+    new "Однако, несмотря на отсутствие формальной подготовки, это не казалось неправильным. Скорее, это казалось тем более естественным и энергичным."
 
     old "Each moved according with the other, in a rhythm that likely came from plenty of practice."
     new "Каждый двигался в такт друг другу, в ритме, который, вероятно, пришёл от долгой практики."

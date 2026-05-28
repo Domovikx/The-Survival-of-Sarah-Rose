@@ -125,7 +125,7 @@ translate ru strings:
     new "Сара продолжила готовить завтрак, надеясь казаться незаинтересованной."
 
     old "Ooh. Why is that?"
-    new "Оу. Почему же?"
+    new "О. Почему же?"
 
     old "Well, like you said. Xan likes to decide the tempo. Decide when you're ready. When you're not."
     new "Ну, как ты и сказала. Ксан любит задавать темп. Решать, когда ты готова. Когда нет."
@@ -164,7 +164,7 @@ translate ru strings:
     new "Но, думаю, я понимаю, о чём ты говоришь. Он действительно любит диктовать темп."
 
     old "Ooh, more than just a teacher's pet. Who knew you had it in you."
-    new "Оу, да ты не просто любимица учителя. Кто бы мог подумать, что в тебе это есть."
+    new "О, да ты не просто любимица учителя. Кто бы мог подумать, что в тебе это есть."
 
     old "Sarah looked at him and shrugged."
     new "Сара посмотрела на него и пожала плечами."

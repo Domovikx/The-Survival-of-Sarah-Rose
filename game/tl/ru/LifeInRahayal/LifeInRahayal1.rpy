@@ -95,7 +95,7 @@ translate ru strings:
     new "Даже Сара осознала, что за столь короткое время в Рахайале ей было трудно по-настоящему осознать этот объект."
 
     old "It was the size of the thing, she concluded."
-    new "Дело в её размерах, заключила она."
+    new "Дело в её размерах, — заключила она."
 
     old "The black pyramid loomed so large over the city, that it was impossible to even really look at the entire thing."
     new "Чёрная пирамида нависала над городом такая огромная, что невозможно было даже по-настоящему взглянуть на неё целиком."
@@ -104,7 +104,7 @@ translate ru strings:
     new "Куда бы она ни посмотрела, она могла видеть лишь её части, из-за чего целое пирамиды было трудно охватить."
 
     old "Focus, she told herself."
-    new "Сосредоточься, сказала она себе."
+    new "Сосредоточься, — сказала она себе."
 
     old "This was a new city. A new chance. She needed to make the most of it if she wanted to avoid sleeping on the streets like in Lethram."
     new "Это был новый город. Новый шанс. Нужно было использовать его по максимуму, если она хотела избежать ночлега на улицах, как в Летраме."
@@ -173,7 +173,7 @@ translate ru strings:
     new "Она всё ещё была здесь, но начала утихать. Превращаться во что-то другое или, возможно, начинать процесс трансформации."
 
     old "Whichever it was, Sarah could not be certain, only that the feelings of pain were different now than they had been before."
-    new "Что бы это ни было, Сара не могла быть уверена, только что чувства боли теперь отличались от прежних."
+    new "Что бы это ни было, Сара не могла быть уверена, знала лишь, что чувства боли теперь отличались от прежних."
 
     old "Change."
     new "Перемена."
@@ -206,7 +206,7 @@ translate ru strings:
     new "Мужчина широко и искренне улыбнулся."
 
     old "Nah, not if you're a payin customer that is."
-    new "Нет, если только вы платящий клиент, то есть."
+    new "Нет, если только вы платящий клиент, хе."
 
     old "He laughed, his voice booming, the kind of laugh of a man who didn't seem to ever pretend being anything other than what he was."
     new "Он рассмеялся, его голос гремел — такой смех человека, который, казалось, никогда не притворялся кем-то другим."
@@ -260,7 +260,7 @@ translate ru strings:
     new "Это очень впечатляет."
 
     old "Thank you kindly for the compliment, but I'll have to share some of that credit."
-    new "Покорно благодарю за комплимент, но часть похвалы придётся разделить."
+    new "Спасибо на добром слове, но часть похвалы придётся разделить."
 
     old "Share it?"
     new "Разделить?"
@@ -485,10 +485,10 @@ translate ru strings:
     new "Затем она внезапно поняла."
 
     old "Jacob, a young man who she guessed was quite close to her own age, was of a strong build with broad shoulders."
-    new "Джейкоб, молодой человек, который, как она предположила, был примерно её возраста, имел крепкое телосложение с широкими плечами."
+    new "Джейкоб, молодой человек, который, как она предположила, был примерно её возраста, крепкого телосложения с широкими плечами."
 
     old "A lifetime of working in his father's Inn had hardend his body in an appealing way."
-    new "Вся жизнь работы в отцовской гостинице привлекательно закалила его тело."
+    new "Годы работы в отцовской гостинице привлекательно закалили его тело."
 
     old "Everything about him suggested to Sarah that he was one of those boys who went through life, smiling and confident."
     new "Всё в нём говорило Саре, что он был одним из тех парней, которые идут по жизни с улыбкой и уверенностью."

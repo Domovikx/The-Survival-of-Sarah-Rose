@@ -125,7 +125,7 @@ translate ru strings:
     new "Он оглядел её с некоторым подозрением, что женщина может командовать наёмным отрядом."
 
     old "No, but I'm high up enough you might as well talk to me. I'll relay it back to our commander."
-    new "Нет, но я достаточно высокого ранга, чтобы ты мог поговорить со мной. Я передам нашему командиру."
+    new "Нет, но я достаточно высокого ранга, чтобы ты могла поговорить со мной. Я передам нашему командиру."
 
     old "The officer nodded."
     new "Офицер кивнул."
@@ -146,10 +146,10 @@ translate ru strings:
     new "Офицер на мгновение задумался."
 
     old "Need-to-know-only. You just focus on supporting the security situation."
-    new "Только по необходимости. Вы просто сосредоточьтесь на обеспечении безопасности."
+    new "Только по необходимости. Ты просто сосредоточься на обеспечении безопасности."
 
     old "Ooh, and I doubt you'll see much action, but there are some tribesmen that like to poke at our outer line, try and sneak into the city."
-    new "О, и вряд ли вы увидите много боевых действий, но есть несколько дикарей, которые любят тыкаться в наш внешний периметр, пытаясь пробраться в город."
+    new "О, и вряд ли ты увидишь много боевых действий, но есть несколько дикарей, которые любят тыкаться в наш внешний периметр, пытаясь пробраться в город."
 
     old "Having some extra hands to secure the outter perimeter will work wonders."
     new "Дополнительные руки для охраны внешнего периметра творят чудеса."
