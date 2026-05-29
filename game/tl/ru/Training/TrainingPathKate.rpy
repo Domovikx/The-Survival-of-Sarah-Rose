@@ -74,7 +74,7 @@ translate ru strings:
     new "Я подумала... может, ты могла бы тренировать меня?"
 
     old "Kate stared at Sarah for a moment, then she turned to look at the ground."
-    new "Кейт смотрела на Сару мгновение, затем отвела взгляд в землю."
+    new "Кейт смотрела на Сару мгновение, затем опустила взгляд."
 
     old "Sarah...I...I thought about it. I wanted to offer you when we left Vaelen, but I thought you wouldn't want me to..."
     new "Сара... я... я думала об этом. Хотела предложить, когда мы уходили от Ваэлена, но думала, ты не захочешь..."
@@ -95,7 +95,7 @@ translate ru strings:
     new "Мне всё ещё больно из-за того, что ты сделала..."
 
     old "But I need to pass this exam. So maybe we could say that you owe me? Consider this training a way of paying me back."
-    new "Но мне нужно сдать этот экзамен. Может, скажем, что ты мне должна? Считай эту тренировку способом расплатиться."
+    new "Но мне нужно сдать этот экзамен. Может, скажем, что ты мне должна? Считай это тренировкой, чтобы расплатиться со мной."
 
     old "Kate was silent for a moment, then she reached over and grabbed Sarah's hand."
     new "Кейт молчала мгновение, затем протянула руку и взяла Сару за руку."
@@ -143,7 +143,7 @@ translate ru strings:
     new "Смеясь, они вышли на площадку, и Кейт начала собирать снаряжение."
 
     old "Kate brought weapons, weights, some other things that Sarah couldn't recognize."
-    new "Кейт принесла оружие, веса и ещё что-то, чего Сара не узнала."
+    new "Кейт принесла оружие, гири и ещё что-то, чего Сара не узнала."
 
     old "Before Sarah so much as touched anything, Kate went into an hour long lecture, explaining what everything was, how to use it, excercise routines. On and on."
     new "Прежде чем Сара чего-то коснулась, Кейт начала часовую лекцию: объясняла, что это, как использовать, режим упражнений. И так далее."
@@ -170,7 +170,7 @@ translate ru strings:
     new "К концу Сара была вся в поту. К счастью, Кейт видела, что Сара на пределе."
 
     old "You did good Sarah, really, I'm surprised you could go this long for a first time."
-    new "Ты хорошо справилась, Сара, правда, я удивлена, что ты продержалась так долго в первый раз."
+    new "Ты хорошо справилась, Сара, правда, я удивлена, что ты продержалась так долго для первого раза."
 
     old "Sarah could feel herself glow at the compliment."
     new "Сара сияла от похвалы."
@@ -326,7 +326,7 @@ translate ru strings:
     new "Она чувствовала, как язык Кейт скользит в её лоно, губы мягко скользя по клитору."
 
     old "Sarah spreads her own legs further apart, giving Kate more space to work."
-    new "Сара раздвинула ноги шире, давая больше пространства."
+    new "Сара раздвинула ноги шире, давая Кейт больше места."
 
     old "She begins thrusting forward, matching Kate's rhythm."
     new "Она начала двигаться вперёд, подстраиваясь под ритм Кейт."
@@ -374,7 +374,7 @@ translate ru strings:
     new "Кейт садится рядом."
 
     old "Sounds like you're getting closer to forgiving me."
-    new "Похоже, ты приближаешься к прощению."
+    new "Похоже, ты уже почти простила меня."
 
     old "Sarah just takes Kate's hand and holds it."
     new "Сара просто берёт руку Кейт и держит."

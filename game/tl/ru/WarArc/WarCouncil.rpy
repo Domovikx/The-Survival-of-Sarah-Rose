@@ -35,7 +35,7 @@ translate ru strings:
     new "Каждый день был теперь таким — бесконечный поток донесений от шпионской сети Кравела, и каждое рисовало более тревожную картину, чем предыдущее."
 
     old "The earliest reports showed Hassar's armies moving into the eastern districts. We've still not received any confirmation on whether they actually did, nor the size of his army."
-    new "Ранние донесения показывали армии Хассара, движущиеся в восточные округа. Мы всё ещё не получили подтверждения, сделали ли они это, ни численности его армии."
+    new "Ранние донесения показывали армии Хассара, движущиеся в восточные округа. Мы всё ещё не получили подтверждения, сделали ли они это, и не знаем численности его армии."
 
     old "Marion slammed the table."
     new "Марион ударил по столу."
@@ -116,7 +116,7 @@ translate ru strings:
     new "У нас нет донесений, которые хотя бы предполагают численность, но мы знаем, что она должна быть довольно большой."
 
     old "Well, the defense of the eastern district falls on fort Fallowhill. It's a large fortress, with a sizeable army. Large enough to defeat anything we've seen before."
-    new "Оборона восточного округа лежит на форте Феллоухилл. Это большая крепость с внушительной армией. Достаточно большая, чтобы победить всё, что мы видели раньше."
+    new "Оборона восточного округа возложена на форт Феллоухилл. Это большая крепость с внушительной армией. Достаточно большая, чтобы победить всё, что мы видели раньше."
 
     old "To be entirely accurate, it's primary purpose is to maintain order over the people of the eastern district, keep them from revolting."
     new "Если быть точным, её основная цель — поддерживать порядок среди людей восточного округа, не допускать восстаний."
@@ -281,7 +281,7 @@ translate ru strings:
     new "Сара обняла его и почувствовала, как его тело дрожит — он плакал беззвучно."
 
     old "Even now, he puts on a front for me, she thought."
-    new "Даже сейчас он держит лицо для меня, подумала она."
+    new "Даже сейчас он держит маску для меня, подумала она."
 
     old "Sarah...if I mess this up..."
     new "Сара... если я облажаюсь..."
@@ -311,7 +311,7 @@ translate ru strings:
     new "Ты принял решения, теперь стой на них, верь в своё правление."
 
     old "Sarah wished that she was as confident as she sounded to Thomas."
-    new "Сара хотела бы быть такой же уверенной, как звучала для Томаса."
+    new "Сара хотела бы быть такой же уверенной, какой казалась Томасу."
 
     old "Thomas nodded, hugging her back."
     new "Томас кивнул, обнимая её в ответ."

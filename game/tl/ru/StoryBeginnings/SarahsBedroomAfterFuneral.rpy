@@ -23,13 +23,13 @@ translate ru strings:
     new "Сама церемония была тяжела, как и забота о том, чтобы Томас справился."
 
     old "Then she had met the stranger on the battlements, Varga. His cloak still hung in her room. She would have to remember to return that to him."
-    new "Потом она встретила незнакомца на стене, Варгу. Его плащ всё ещё висел в её комнате. Надо не забыть вернуть."
+    new "Потом она встретила незнакомца на стене, Варгу. Его плащ всё ещё висел в её комнате. Надо не забыть вернуть ему плащ."
 
     old "And then meeting Kate, in the gardens. Seeing Kate had been the one thing to make her feel happy on this miserable day."
     new "А затем — встреча с Кейт в саду. Увидеть Кейт было единственным, что заставило её почувствовать радость в этот ужасный день."
 
     old "Even Marion had shown a different side of himself today. It reminded Sarah that you could never really figure out a person. They could always surprise you."
-    new "Даже Марион показал сегодня другую сторону себя. Это напомнило Саре, что человека никогда нельзя понять до конца. Они всегда могут удивить."
+    new "Даже Марион показал себя сегодня с другой стороны. Это напомнило Саре, что человека никогда нельзя понять до конца. Они всегда могут удивить."
 
     old "Sarah laid back in her bed."
     new "Сара откинулась на подушку."
@@ -68,7 +68,7 @@ translate ru strings:
     new "Сара также заметила в Кейт расслабленность, которой раньше не было."
 
     old "Once Kate was sitting on the edge of the bed, Sarah could smell why."
-    new "Когда Кейт села на край кровати, Сара поняла почему."
+    new "Когда Кейт села на край кровати, Сара по запаху поняла почему."
 
     old "You've been having fun."
     new "Ты развлекалась."
@@ -176,7 +176,7 @@ translate ru strings:
     new "Сара чувствует, как краснеет ещё сильнее."
 
     old "Kate had a way of pushing her buttons, going right up to her boundaries and then stepping over."
-    new "У Кейт был дар нажимать на нужные рычаги, подходя к самой границе и переступая её."
+    new "У Кейт был дар нажимать на нужные кнопки, подходя к самой границе и переступая её."
 
     old "I don't know what you're talking about."
     new "Я не знаю, о чём ты."
@@ -311,10 +311,10 @@ translate ru strings:
     new "Сара почувствовала, как возбуждается от звука собственного имени, произнесённого стонущей Кейт."
 
     old "Kate grabbed at Sarah's panties, but struggled from this angle to pull them off."
-    new "Кейт потянулась к трусикам Сары, но с этого угла ей было трудно их стянуть."
+    new "Кейт потянулась к трусикам Сары, но в таком положении ей было трудно их стянуть."
 
     old "In a fit of frustrated lust, Kate simply decided to rip Sarah's lace underwear off, flinging it across the room."
-    new "В порыве раздражённой страсти Кейт просто решила сорвать кружевное бельё Сары, отшвырнув его через комнату."
+    new "В порыве нетерпеливой страсти Кейт просто сорвала кружевное бельё Сары, отшвырнув его через комнату."
 
     old "Kate!"
     new "Кейт!"
@@ -335,7 +335,7 @@ translate ru strings:
     new "Сара почувствовала очередной разряд, пробежавший по телу, поднимающийся снизу, когда Кейт погружала пальцы глубже."
 
     old "Where Sarah had fumbled between Kate's legs, Kate clearly knew her way around Sarah's lower parts."
-    new "Там, где Сара неуклюже шарила между ног Кейт, та явно знала дорогу в нижних частях тела Сары."
+    new "Там, где Сара неуклюже шарила между ног Кейт, та явно знала, что делать с нижней половиной тела Сары."
 
     old "With practiced effort, Kate got to work on Sarah."
     new "С опытной сноровкой Кейт принялась за Сару."
@@ -380,7 +380,7 @@ translate ru strings:
     new "Для Сары эти слова были как заклинание."
 
     old "The pleasure she had felt build up now reached its peak and exploded throughout her entire body."
-    new "Удовольствие, которое она копила, достигло пика и взорвалось во всём теле."
+    new "Удовольствие, нараставшее в ней, достигло пика и взорвалось во всём теле."
 
     old "She was flailing around, her body contorting from one direction to the next, as the orgasm roared through her."
     new "Она билась, тело извивалось из стороны в сторону, пока оргазм проносился по ней."
@@ -389,7 +389,7 @@ translate ru strings:
     new "Последний стон сорвался с губ Сары, прежде чем оргазм утих."
 
     old "She sunk back into the bed. She felt every limb tingle with the afterglow."
-    new "Она опустилась на кровать. Каждая клеточка тела пульсировала послевкусием."
+    new "Она опустилась на кровать. Каждая клеточка пульсировала сладкой истомой."
 
     old "Now, with her senses returning to her, Sarah could feel how she was drenched in sweat."
     new "Теперь, когда чувства возвращались, Сара ощущала, как вся покрыта потом."

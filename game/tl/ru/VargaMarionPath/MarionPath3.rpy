@@ -56,7 +56,7 @@ translate ru strings:
     new "Некоторых освободили после битвы у Столицы, но многие так и не нашлись."
 
     old "Sons. Daughters. Wives. Carried off in chains to Gods knew where."
-    new "Сыновья. Дочери. Жёны. Уведены в цепях к Богам весть куда."
+    new "Сыновья. Дочери. Жёны. Уведены в цепях — бог весть чего и куда."
 
     old "Their farms, burned. Their cattle, killed and left to rot in the sun."
     new "Их фермы сожжены. Их скот убит и оставлен гнить на солнце."
@@ -68,7 +68,7 @@ translate ru strings:
     new "Они всё ещё были живы, но жизнь дёшево стоит, когда у тебя нет ни денег, ни семьи, ни дома."
 
     old "Some of these men and women had been farmers for generations, reaching back beyond even their grandparents."
-    new "Некоторые из этих мужчин и женщин были фермерами поколениями, уходя корнями даже дальше своих прадедов."
+    new "Некоторые из этих мужчин и женщин были фермерами поколениями, уходя корнями даже дальше своих дедов."
 
     old "All the certainty of their lives had been wiped away."
     new "Вся уверенность в завтрашнем дне была стёрта."

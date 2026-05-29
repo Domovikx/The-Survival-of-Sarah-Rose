@@ -491,7 +491,7 @@ translate ru strings:
     new "Действуя как единое целое, солдаты легко отвязали молодую женщину и осторожно положили её на носилки, накладывая повязки на те самые раны, которые они только что нанесли."
 
     old "She would heal, Sarah knew."
-    new "Она заживёт, знала Сара."
+    new "Она поправится, знала Сара."
 
     old "It would take weeks before the pain in her back had fully faded, and the scars would probably last a lifetime, but she would survive this injury."
     new "Потребуются недели, прежде чем боль в спине полностью утихнет, а шрамы, вероятно, останутся на всю жизнь, но она выживет после этой травмы."

@@ -311,7 +311,7 @@ translate ru strings:
     new "Сара взяла кувшин пива и села в углу."
 
     old "Watching from here, she could see the dynamics of the crowd unfold."
-    new "Наблюдая отсюда, она могла видеть, как разворачивается динамика толпы."
+    new "Наблюдая отсюда, она видела, как оживает толпа."
 
     old "The way her own men, the Mythrans and the villagers all socialized."
     new "То, как её собственные люди, мифранцы и местные жители общались между собой."
@@ -419,7 +419,7 @@ translate ru strings:
     new "Доставая скальпели, железные щипцы и множество других инструментов, он начал оперировать женщину."
 
     old "Weakened as she was, she offered little resistance to the strong soldiers that held her down."
-    new "Ослабевшая, она оказывала мало сопротивления сильным солдатам, которые держали её."
+    new "Ослабев, она почти не сопротивлялась сильным солдатам, которые держали её."
 
     old "As her cries of pain grew louder, they stuffed a wooden rod between her teeth to keep her down."
     new "Когда её крики боли стали громче, они засунули деревянный прут между её зубов, чтобы удержать её."
@@ -452,7 +452,7 @@ translate ru strings:
     new "Мэр вздохнул, закончив зашивать девушку."
 
     old "Take her to the recovery house and give her an entire cup of shade-tea."
-    new "Отнесите её в восстановительный дом и дайте ей полную чашку чая-тени."
+    new "Отнесите её в лазарет и дайте ей полную чашку чая-тени."
 
     old "What if she cannot drink?"
     new "А если она не сможет пить?"
@@ -467,7 +467,7 @@ translate ru strings:
     new "Есть, сэр!"
 
     old "The soldiers gathered up the woman and carried her out as gently as they could."
-    new "Солдаты собрали женщину и вынесли её так бережно, как могли."
+    new "Солдаты подняли женщину и вынесли её так бережно, как могли."
 
     old "Blood still stained the table."
     new "Кровь всё ещё пятнала стол."

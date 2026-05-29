@@ -866,7 +866,7 @@ translate ru strings:
     new "Тсс, Сара, нас найдут."
 
     old "Kate warned Sarah, half laughing as she did."
-    new "Кейт предупредила Сару, полу смеясь."
+    new "Кейт предупредила Сару, полусмеясь."
 
     old "Sarah hadn't noticed she'd been moaning without restraint, but now she found she barely could."
     new "Сара не заметила, что стонала без сдержанности, но теперь обнаружила, что едва может."

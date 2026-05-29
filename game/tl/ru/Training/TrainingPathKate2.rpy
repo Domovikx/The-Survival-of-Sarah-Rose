@@ -44,7 +44,7 @@ translate ru strings:
     new "Сара решила сократить тренировку и осмотреть лагерь."
 
     old "She spoke shortly with Caleb and Ephraim, but neither had much of an idea where Kate was either."
-    new "Она поговорила с Калебом и Эфраимом, но ни у кого не было идей, где Кейт."
+    new "Она поговорила с Калебом и Эфраимом, но никто из них не знал, где Кейт."
 
     old "It was already the afternoon by the time that Sarah suddenly heard a commotion by the entrance gate."
     new "Уже был полдень, когда Сара услышала шум у входа."

@@ -125,7 +125,7 @@ translate ru strings:
     new "Варга протянул руку и накрыл её ладонь своей."
 
     old "How could he ever be anything other than proud? Look at all you have done."
-    new "Как он мог быть кем-то, кроме гордого? Посмотри на всё, что ты сделала."
+    new "Разве он мог не гордиться? Посмотри на всё, что ты сделала."
 
     old "Sarah laughed as she looked at him."
     new "Сара засмеялась, глядя на него."
@@ -215,7 +215,7 @@ translate ru strings:
     new "И я не жалею об этом."
 
     old "But...sometimes the things we do, even if we don't regret them...they still seem to cling to us."
-    new "Но... иногда то, что мы делаем, даже если мы не жалеем... всё равно цепляется за нас."
+    new "Но... иногда то, что мы делаем, даже если не жалеем о том... всё равно цепляется за нас."
 
     old "Sarah reached over and touched his arm."
     new "Сара протянула руку и коснулась его плеча."
@@ -392,7 +392,7 @@ translate ru strings:
     new "Кончала от прикосновения его языка."
 
     old "Moaned his name as he bend her over and took her."
-    new "Стонала его имя, когда он согнул её и взял."
+    new "Стонала его имя, когда он нагнул её и взял."
 
     old "Whispered his name in worship as she rode on top of him."
     new "Шептала его имя, поклоняясь ему, оседлав его."
@@ -821,7 +821,7 @@ translate ru strings:
     new "Сара почувствовала, что краснеет, начиная раздеваться."
 
     old "It was far from the first time that she had undressed herself before Lady Carolyn, but there was always something embarassing about it."
-    new "Это было далеко не в первый раз, когда она раздевалась перед леди Кэролин, но в этом всегда было что-то унизительное."
+    new "Это было далеко не в первый раз, когда она раздевалась перед леди Кэролин, но в этом всегда было что-то смущающее."
 
     old "It was her body, she had come to conclude."
     new "Это было её тело, как она пришла к выводу."
@@ -1100,7 +1100,7 @@ translate ru strings:
     new "Она была достаточно влажной, так что сопротивления почти не было."
 
     old "Sarah breathed heavily as Lady Carolyn entered her deeper, sliding inch by inch, slow and controlled."
-    new "Сара тяжело дышала, пока леди Кэролин входила в неё глубже, скользя дюйм за дюймом, медленно и контролируемо."
+    new "Сара тяжело дышала, пока леди Кэролин входила в неё глубже, скользя дюйм за дюймом, медленно и размеренно."
 
     old "Do you like it?"
     new "Тебе нравится?"

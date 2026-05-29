@@ -245,7 +245,7 @@ translate ru strings:
     new "На каждом этапе каждый глава семьи Ахиллея вносил свою лепту. Каждый исполнял свою роль и свою задачу с максимальной отдачей."
 
     old "This is how my family came to be as it is today."
-    new "Вот какой моя семья стала сегодня."
+    new "Вот какая моя семья стала сегодня."
 
     old "We thrive, only because each generation managed to build on what the one before achieved. Like a large chain, each link, holding the other."
     new "Мы процветаем лишь потому, что каждое поколение строило на том, что достигло предыдущее. Как большая цепь, где каждое звено держит другое."
@@ -305,7 +305,7 @@ translate ru strings:
     new "Сара помахала Мариону, направляясь к выходу из большого зала."
 
     old "Poor Marion, she thought to herself. He projects composure, at all times, but it isolates him from everyone around him."
-    new "Бедный Марион, подумала она. Он всегда излучает самообладание, но это изолирует его от всех вокруг."
+    new "Бедный Марион, подумала она. Он всегда сохраняет самообладание, но это отдаляет его от всех вокруг."
 
     old "Sarah wondered how lonely her life without Thomas would be. She dared not to dwell on that thought for long."
     new "Сара задумалась, насколько одинокой была бы её жизнь без Томаса. Она не решилась задерживаться на этой мысли."

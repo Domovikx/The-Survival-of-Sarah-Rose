@@ -68,7 +68,7 @@ translate ru strings:
     new "О... дорогая, прости. Прости меня."
 
     old "I am several cups into this wine from across the sea and...well the alcohol makes my tongue sharp."
-    new "Я уже несколько чашек этого вина из-за моря... и алкоголь делает мой язык острым."
+    new "Я уже выпила несколько чашек этого вина из-за моря... и алкоголь делает мой язык острым."
 
     old "I meant it only in jest."
     new "Я сказала это лишь в шутку."
@@ -167,7 +167,7 @@ translate ru strings:
     new "Не надо."
 
     old "Gods, listen to be blather. This wine...truly, perhaps we should reschedule."
-    new "Боги, послушайте меня, я болтаю. Это вино... правда, возможно, нам стоит перенести встречу."
+    new "Боги, послушай, что я болтаю. Это вино... правда, возможно, нам стоит перенести встречу."
 
     old "I don't think your senses have dulled one bit."
     new "Не думаю, что твои чувства притупились хоть на каплю."
@@ -341,7 +341,7 @@ translate ru strings:
     new "Маэйв с радостью выполнила её просьбу."
 
     old "The wine poured forth, a rich and deep ruby colour."
-    new "Вино полилось, богатый и глубокий рубинового цвета."
+    new "Вино полилось, богатого и глубокого рубинового цвета."
 
     old "Sarah brought the cup to her lips and drank. The taste was almost better than before."
     new "Сара поднесла чашу к губам и отпила. Вкус был почти лучше, чем раньше."
@@ -758,7 +758,7 @@ translate ru strings:
     new "Со своей стороны, Сара тоже успела изучить тело Маэйв, несмотря на их короткое время вместе."
 
     old "Pistoning her fingers in and out of Maeiv, cupping her breasts and kissing her deeply, she soon found Maeiv crying out in similar pleasure."
-    new "Вводя и выводя пальцы из Маэйв, сжимая её грудь и глубоко целуя, она скоро обнаружила, что Маэйв вскрикивает в подобном удовольствии."
+    new "Вводя и выводя пальцы из Маэйв, сжимая её грудь и глубоко целуя, она скоро обнаружила, что Маэйв вскрикивает от такого же удовольствия."
 
     old "Sarah watched with awe as Maeiv's face contorted by the orgasm."
     new "Сара с благоговением смотрела, как лицо Маэйв исказилось от оргазма."
@@ -953,7 +953,7 @@ translate ru strings:
     new "Всякий раз, когда ты хочешь принять решение, ты должна учитывать их. Особенно здесь, в Норманди, где они так сильны."
 
     old "You think making them more powerful will make them content, but it is the opposite."
-    new "Ты думаешь, что сделать их более могущественными сделает их довольными, но всё наоборот."
+    new "Ты думаешь, что если сделать их более могущественными, они будут довольны, но всё наоборот."
 
     old "Maeiv eyed her intently."
     new "Маэйв пристально посмотрела на неё."
@@ -1565,7 +1565,7 @@ translate ru strings:
     new "Сара почувствовала, как его большие руки обхватили её затылок."
 
     old "Taking control, he began to pump her head up and down at the pace he liked."
-    new "Взяв контроль, он начал двигать её головой вверх-вниз в том темпе, который нравился ему."
+    new "Перехватив инициативу, он начал двигать её головой вверх-вниз в том темпе, который нравился ему."
 
     old "Sarah tried her best, opening her mouth further, sliding out her tongue, doing anything to manage to take him."
     new "Сара старалась изо всех сил, открывая рот шире, высовывая язык, делая всё, чтобы принять его."
@@ -1598,7 +1598,7 @@ translate ru strings:
     new "Всё ещё на коленях и некуда деться, Сара почувствовала, как она разбрызгалась по её лицу."
 
     old "Jerking himself to completion, he unloaded all that he had onto her face."
-    new "Дёргаясь до завершения, он выгрузил всё, что у него было, на её лицо."
+    new "Дёргаясь до завершения, он излил всё, что у него было, на её лицо."
 
     old "Sarah felt it all hit her face, her neck, and dripping down onto her breasts."
     new "Сара чувствовала, как всё это попало на лицо, шею и стекает на грудь."
@@ -1802,7 +1802,7 @@ translate ru strings:
     new "Он отрезал кусок мяса и быстро съел его."
 
     old "This matter of enshrining the politic righs, I think it is most important."
-    new "Этот вопрос о закреплении политических прав, думаю, он наиболее важен."
+    new "Этот вопрос о закреплении политических прав, думаю, он самый важный."
 
     old "And I hope that you will see it as I do."
     new "И я надеюсь, вы увидите это так же, как я."
@@ -1988,7 +1988,7 @@ translate ru strings:
     new "Спасибо за эти добрые слова."
 
     old "Tell me, and forgive me if I am too assuming..."
-    new "Скажи мне, и прости, если я слишком самонадеян..."
+    new "Скажи мне, и прости, если я слишком самонадеянна..."
 
     old "Please, speak freely Lord Edmond."
     new "Пожалуйста, говори свободно, лорд Эдмонд."
@@ -2003,7 +2003,7 @@ translate ru strings:
     new "Мой дорогой муж действительно родился без титула или земли."
 
     old "Everything he owns, as you mentioned, he earned himself."
-    new "Всё, чем он владеет, как вы упомянули, он заработал сам."
+    new "Всё, чем он владеет, как ты упомянул, он заработал сам."
 
     old "Gods...I envy you, Sarah."
     new "Боги... я завидую тебе, Сара."
@@ -2066,7 +2066,7 @@ translate ru strings:
     new "Какое-то время она пыталась понять, в чём дело, как вдруг осознала."
 
     old "What do you think on the matter?"
-    new "Что вы думаете по этому вопросу?"
+    new "Что ты думаешь по этому вопросу?"
 
     old "Her opinion."
     new "Её мнение."
@@ -2114,7 +2114,7 @@ translate ru strings:
     new "И вскоре она обнаружила, что делает то же самое с ним."
 
     old "Have you considered that..."
-    new "Вы рассматривали..."
+    new "Ты рассматривал..."
 
     old "She saw Edmond frown, then smile at her challenge."
     new "Она увидела, как Эдмонд нахмурился, затем улыбнулся её вызову."

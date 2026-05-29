@@ -146,7 +146,7 @@ translate ru strings:
     new "Сара закрыла глаза и молилась, что поступает правильно."
 
     old "Are you proud of me..Father?"
-    new "Ты гордишься мной..., отец?"
+    new "Ты гордишься мной... отец?"
 
     old "Opening her eyes, Sarah murdered her own hesitant heart and strode out onto the balcony."
     new "Открыв глаза, Сара убила в себе колеблющееся сердце и шагнула на балкон."

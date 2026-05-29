@@ -749,7 +749,7 @@ translate ru strings:
     new "Ты так долго притворялся кем-то другим, что забыл, кем был?"
 
     old "She stripped away the last of her armor, exposing her naked skin to the warmth of the fireplace."
-    new "Она сняла последние части доспеха, обнажая кожу перед теплом камина."
+    new "Она сняла последние части доспеха, обнажая кожу перед теплом очага."
 
     old "His eyes locked on her body."
     new "Его глаза остановились на её теле."
@@ -1010,7 +1010,7 @@ translate ru strings:
     new "С каждым её словом он делал ещё один толчок, ещё один дюйм."
 
     old "The pleasure rushed across her body, out from between her legs."
-    new "Наслаждение разливалось по её телу, исходя из промежности."
+    new "Наслаждение разливалось по её телу, исходя из лона."
 
     old "A frenzy of maddening pleasure, the likes only he could draw out from her."
     new "Безумное наслаждение, такое, какое мог вызвать в ней только он."
@@ -1106,13 +1106,13 @@ translate ru strings:
     new "И Сара лишь приподняла тело, позволяя ему излить всё в неё."
 
     old "His seed coated her insides, filling up her deepest parts."
-    new "Его семя покрыло её внутренности, наполняя самые глубокие уголки."
+    new "Его семя покрыло её нутро, наполняя самые глубокие уголки."
 
     old "And nothing ever felt more right to Sarah than this."
     new "И ничто никогда не казалось Саре более правильным, чем это."
 
     old "To have him inside of her. To feel his essence filling her up. To submit like this to him."
-    new "Иметь его внутри себя. Чувствовать, как его сущность наполняет её. Подчиняться ему так."
+    new "Иметь его внутри себя. Чувствовать, как его сущность наполняет тебя. Подчиняться ему так."
 
     old "Sarah felt her body shake back and forth as he finished."
     new "Сара чувствовала, как её тело сотрясается взад-вперёд, пока он заканчивал."
@@ -1295,7 +1295,7 @@ translate ru strings:
     new "Скажи мне, чего хочет твой Камал?"
 
     old "He grants you and all your men, a pardon for your treason."
-    new "Он дарует тебе и всем твоим людям прощение за измену."
+    new "Он дарует тебе и всем твоим людям прощение за предательство."
 
     old "Sarah almost had to laugh."
     new "Сара едва не рассмеялась."
@@ -1307,7 +1307,7 @@ translate ru strings:
     new "Да. Он простит вас всех за попытки узурпировать его законный трон."
 
     old "He will allow all of you to breakdown your camp and return to the seas, back from where you came."
-    new "Он позволит вам всем разбить лагерь и вернуться к морю, туда, откуда вы пришли."
+    new "Он позволит вам всем свернуть лагерь и вернуться к морю, туда, откуда вы пришли."
 
     old "By vows spoken under a full moon, he swears."
     new "Клятвами, произнесёнными под полной луной, он клянётся."

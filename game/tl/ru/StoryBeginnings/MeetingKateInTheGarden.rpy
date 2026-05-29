@@ -53,7 +53,7 @@ translate ru strings:
     new "Кейт смеётся."
 
     old "Wow, I just...I can't believe this. It's really you."
-    new "Вау, я просто... не могу поверить. Это правда ты."
+    new "Ого, я просто... не могу поверить. Это правда ты."
 
     old "Sarah takes a step back, still holding onto Kate. She eyes her up and down, almost as if afraid she isn't real."
     new "Сара делает шаг назад, всё ещё держа Кейт. Она оглядывает её с ног до головы, будто боясь, что та не настоящая."

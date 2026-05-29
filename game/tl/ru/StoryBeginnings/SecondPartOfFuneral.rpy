@@ -17,7 +17,7 @@ translate ru strings:
     new "Томас, как ты держишься?"
 
     old "Thomas looked at her with gratitude, thanking her with his eyes."
-    new "Томас посмотрел на неё с благодарностью, благодаря глазами."
+    new "Томас посмотрел на неё с благодарностью, благодаря взглядом."
 
     old "Ooh, very well, dear Sister, very well indeed. Kind Sir Marion has been keeping me good company by regaling stories about Father's last trip."
     new "О, прекрасно, дорогая сестра, просто прекрасно. Добрый сэр Марион скрашивает моё одиночество рассказами о последней поездке отца."

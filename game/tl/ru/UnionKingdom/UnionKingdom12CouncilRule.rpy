@@ -35,7 +35,7 @@ translate ru strings:
     new "Неудивительно!"
 
     old "For once I agree with Antonio, of course you want the position for yourself."
-    new "В кои-то веки я согласна с Антонио, конечно, ты хочешь эту должность для себя."
+    new "В кои-то веки я согласен с Антонио, конечно, ты хочешь эту должность для себя."
 
     old "You are ambitious to a fault."
     new "Ты амбициозна до чрезмерности."

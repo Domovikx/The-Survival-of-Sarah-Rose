@@ -995,7 +995,7 @@ translate ru strings:
     new "Была. И она очень гордилась этим. Она никогда не позволяла мне видеть себя неподготовленной."
 
     old "She was the same with me. Always combing my hair, fixing up my dresses..."
-    new "С ней она была такой же. Всегда расчёсывала мои волосы, поправляла платья..."
+    new "Со мной она была такой же. Всегда расчёсывала мои волосы, поправляла платья..."
 
     old "She liked having a daughter...even if I was a bit more wild than she might have wanted me to be."
     new "Ей нравилось иметь дочь... даже если я была немного более дикой, чем ей хотелось."
@@ -2903,7 +2903,7 @@ translate ru strings:
     new "Она ждала целую жизнь того, кого никогда не ожидала встретить."
 
     old "As she ran her hand down along Samayra's toned stomach, she could hear the girl moaning louder."
-    new "Когда она провела рукой по тонированному животу Самайры, она услышала, как девушка стонет громче."
+    new "Когда она провела рукой по упругому животу Самайры, она услышала, как девушка стонет громче."
 
     old "She saw Samayra, twisting her body, wordlessly begging her to keep going."
     new "Она видела, как Самайра извивается, безмолвно умоляя её продолжать."
@@ -3050,7 +3050,7 @@ translate ru strings:
     new "Всегда было трудно уловить форму духа, если у него вообще была истинная форма."
 
     old "You summoned me?"
-    new "Ты призвал меня?"
+    new "Ты призвала меня?"
 
     old "For a moment, the spirit was silent. It's pale mask facing her."
     new "Мгновение дух молчал. Его бледная маска была обращена к ней."

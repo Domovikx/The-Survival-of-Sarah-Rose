@@ -8,7 +8,7 @@ translate ru strings:
     new "Прошло ещё время, и день экзамена приближался."
 
     old "Sarah was circling Kate, holding her sword drawn to lunge out and strike at her."
-    new "Сара кружила вокруг Кейт, держа меч наготове."
+    new "Сара кружила вокруг Кейт с обнажённым мечом, готовая нанести удар."
 
     old "Ever since their last meeting, Kate had not missed a single training session."
     new "После их последнего разговора Кейт не пропустила ни одной тренировки."
@@ -122,10 +122,10 @@ translate ru strings:
     new "Взявшись за руки, теперь больше чем друзья, они побежали через лагерь к палатке, игнорируя зевак."
 
     old "Neither spoke, nor did either need to."
-    new "Никто не говорил, и не было необходимости."
+    new "Никто не говорил, да и не нужно было."
 
     old "Sarah stepped into the tent, pulling Kate behind her. She was happy to find Caleb and Ephraim not there."
-    new "Сара вошла в палатку, таща Кейт за собой. Рада, что Калеба и Эфраима нет."
+    new "Сара вошла в палатку, таща Кейт за собой. Обрадовалась, что Калеба и Эфраима нет."
 
     old "She threw Kate onto the bed and began throwing her clothes off."
     new "Она бросила Кейт на кровать и начала сбрасывать одежду."
@@ -140,7 +140,7 @@ translate ru strings:
     new "Сара впитывала Кейт глазами. Это тело, подтянутое, идеальной формы, грудь, бросающая вызов гравитации."
 
     old "Sarah was happy to notice that her body was not that different from Kate's anymore, she too now had the muscles that Kate had."
-    new "Сара рада заметить, что её тело уже не так отличается от тела Кейт — у неё тоже появились мышцы."
+    new "Сара рада заметить, что её тело уже не так отличается от тела Кейт — у неё тоже появились такие же мышцы, как у Кейт."
 
     old "She dropped to her knees, pinning the now naked Kate between her legs again, as she had earlier done on the training grounds."
     new "Она опустилась на колени, снова зажав голую Кейт между ног, как на площадке."
@@ -161,7 +161,7 @@ translate ru strings:
     new "Сара поползла дальше, опуская колени по бокам головы Кейт, зажимая её голову между ног."
 
     old "Sarah slowly pushed her sex forward, down towards Kate's mouth."
-    new "Сара медленно подалась вперёд, к губам Кейт."
+    new "Сара медленно подалась промежностью вперёд, вниз, ко рту Кейт."
 
     old "Kate, again, seemed eager to please, her tongue reaching out in between Sarah's legs."
     new "Кейт снова казалась жаждущей угодить, язык потянулся между ног Сары."
@@ -179,7 +179,7 @@ translate ru strings:
     new "Сара начала тихо стонать, выгибая спину, давая полный доступ."
 
     old "She felt the familiar pleasure of Kate getting to work on her sex."
-    new "Она чувствовала знакомое удовольствие от работы Кейт."
+    new "Она чувствовала знакомое удовольствие от того, как Кейт работает с её киской."
 
     old "Sarah threw her head back and continued to ride Kate's mouth. She felt the sweat of the training, and now the sweat of sex, mingle across her body."
     new "Сара запрокинула голову, продолжая двигаться на лице Кейт. Пот от тренировки и пот от секса смешивались на теле."
@@ -188,7 +188,7 @@ translate ru strings:
     new "Маленькая палатка удерживала жар и запахи, и скоро воздух стал влажным и пах сексом."
 
     old "Sarah could feel herself dissapearing in the moment."
-    new "Сара чувствовала, как исчезает в моменте."
+    new "Сара чувствовала, как исчезает в этом мгновении."
 
     old "She shook her head, not yet."
     new "Она покачала головой: ещё не время."
@@ -200,13 +200,13 @@ translate ru strings:
     new "Сара развернулась, теперь сидя на лице Кейт задом наперёд. Недоумение Кейт исчезло, когда Сара снова опустила киску на её губы."
 
     old "Now Sarah could see all of Kate's body, the way she was writing between her legs, how Kate, despite not yet being touched, seemed as lost in the moment as her."
-    new "Теперь Сара видела всё тело Кейт, как она извивалась, как Кейт, ещё не тронутая, казалась такой же потерянной в моменте."
+    new "Теперь Сара видела всё тело Кейт, как та извивалась у неё между ног, как Кейт, ещё не тронутая, казалась такой же потерянной в этом мгновении."
 
     old "Sarah wanted to return the favor."
     new "Сара хотела отплатить тем же."
 
     old "Bending deep and low, whilst keeping her sex pressed against Kate's lips, Sarah brought her mouth down on Kate's sex."
-    new "Изогнувшись, прижимаясь к губам Кейт, Сара опустила рот к киске Кейт."
+    new "Изогнувшись и прижимаясь промежностью к губам Кейт, Сара опустила рот к киске Кейт."
 
     old "She felt a surprised spasm from Kate's body, and a muffled moan expressed from between her own legs by Kate."
     new "Она почувствовала удивлённый спазм тела Кейт и приглушённый стон из-под ног."
@@ -227,7 +227,7 @@ translate ru strings:
     new "В тот же миг Сара почувствовала, как Кейт сильно содрогнулась под ней, но прижатая ногой Сары, не могла двинуться."
 
     old "She now began to feel Kate thrusting her hips up, pushing Sarah deeper into her. Sarah obliged her."
-    new "Она чувствовала, как Кейт толкает бёдрами вверх, вталкивая Сару глубже. Сара подчинилась."
+    new "Она чувствовала, как Кейт толкает бёдрами вверх, вталкивая Сару глубже. Сара уступила."
 
     old "The women continued, pleasing each other with their tongues. Muffled moans guiding each other on what worked and what didn't."
     new "Они продолжили, доставляя удовольствие языками. Приглушённые стоны направляли друг друга."

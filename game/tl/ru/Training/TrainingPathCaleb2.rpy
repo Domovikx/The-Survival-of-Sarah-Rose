@@ -137,7 +137,7 @@ translate ru strings:
     new "Сара продолжает качать головой."
 
     old "I think she was distracted by us, Caleb. Then again, we were being pretty distracting."
-    new "Думаю, мы её отвлекли, Калеб. Хотя, мы и правда были довольно отвлекающими."
+    new "Думаю, мы её отвлекли, Калеб. Хотя, мы и правда отвлекали внимание."
 
     old "Ephraim and Caleb both start to laugh."
     new "Эфраим и Калеб начинают смеяться."
@@ -173,7 +173,7 @@ translate ru strings:
     new "Они знакомы всего недели, но уже чувствуют себя как старые друзья. Она рада больше не чувствовать себя такой одинокой."
 
     old "Eventually, the conversation turns."
-    new "В конце концов, разговор сворачивает."
+    new "В конце концов, разговор меняет тему."
 
     old "Caleb leans into Ephraim's ear and whispers something."
     new "Калеб наклоняется к уху Эфраима и шепчет что-то."
@@ -224,7 +224,7 @@ translate ru strings:
     new "Калеб усмехнулся."
 
     old "Not to be crass, we like you and all, Sarah, but we've spend so much time together, the three of us, that there hasn't been a lot of time for...the two of us."
-    new "Не хочу быть грубым, мы тебя любим, Сара, но мы проводим так много времени вместе, втроём, что у нас почти не было времени... для нас двоих."
+    new "Не хочу быть грубым, ты нам нравишься, Сара, но мы проводим так много времени вместе, втроём, что у нас почти не было времени... для нас двоих."
 
     old "Do you want me to leave? I can give you some space."
     new "Хотите, я уйду? Могу дать вам пространство."
@@ -467,7 +467,7 @@ translate ru strings:
     new "Сара почувствовала, как Калеб рухнул на неё."
 
     old "The way his strong, hard skin pressed against her own body, made her feel complete."
-    new "То, как его сильная, твёрдая кожа прижималась к её телу, она чувствовала себя полноценной."
+    new "То, как его сильная, твёрдая кожа прижималась к её телу, заставляло её чувствовать себя полноценной."
 
     old "The two laid in a post-coital embrace, until eventually, Sarah felt Caleb pull out of her."
     new "Они лежали в послелюбовных объятиях, пока Сара не почувствовала, как Калеб выходит из неё."

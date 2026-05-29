@@ -761,7 +761,7 @@ translate ru strings:
     new "Сара с облегчением выдохнула."
 
     old "Elder Tirion...you frightened me."
-    new "Старейшина Тирион... ты напугал меня."
+    new "Старейшина Тирион... вы напугали меня."
 
     old "The clergyman kept a small distance, smiling at her."
     new "Священник держал небольшое расстояние, улыбаясь ей."
@@ -1418,7 +1418,7 @@ translate ru strings:
     new "Наконец, через некоторое время, Лили закончила своё возмущение."
 
     old "And so I told that imbecile where he could stick it."
-    new "И я сказала тому имбицилу, куда он может это засунуть."
+    new "И я сказала тому имбецилу, куда он может это засунуть."
 
     old "Sometimes I wish I could be as crude as you with all those that petition the court."
     new "Иногда я желаю быть такой же грубой, как ты, со всеми, кто подаёт прошения ко двору."
@@ -2042,10 +2042,10 @@ translate ru strings:
     new "Обвив руку вокруг него крепко, она начала гладить его."
 
     old "She could hear him grunt, early pleasures."
-    new "Она слышала, как он мычит, ранние удовольствия."
+    new "Она слышала, как он стонет, ранние удовольствия."
 
     old "With each movement, she drew forth more of his approving grunts, and with each stroke, she could feel him want more."
-    new "С каждым движением она извлекала больше его одобрительного мычания, и с каждым поглаживанием чувствовала, как он хочет больше."
+    new "С каждым движением она извлекала больше его одобрительных стонов, и с каждым поглаживанием чувствовала, как он хочет больше."
 
     old "I want you."
     new "Я хочу тебя."

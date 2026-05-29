@@ -26,7 +26,7 @@ translate ru strings:
     new "Приветствую, муж мой."
 
     old "Ooh, am I in trouble, my lady?"
-    new "Оу, у меня неприятности, миледи?"
+    new "Ой, у меня неприятности, миледи?"
 
     old "Sarah. You know that I would do anything for you, that I would do anything to keep you safe."
     new "Сара. Ты знаешь, что я сделаю для тебя что угодно, что я сделаю всё, чтобы ты была в безопасности."

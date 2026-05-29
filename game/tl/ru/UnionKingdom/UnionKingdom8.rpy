@@ -44,7 +44,7 @@ translate ru strings:
     new "Нет, я имею в виду, эта девушка делала такое, чего я никогда не видел."
 
     old "And how she used her mouth, by the Gods I swear she must have studied in a Mythran brothel."
-    new "А как она использовала свой рот, клянусь богами, она, должно быть, училась в митранском борделе."
+    new "А как она работала ртом, клянусь богами, она, должно быть, училась в митранском борделе."
 
     old "Really, Antonio, you don't have to-"
     new "Правда, Антонио, тебе не обязательно-"
@@ -197,7 +197,7 @@ translate ru strings:
     new "Это также означает, что наша потребность в информации об этих партнёрах со всего мира была для нас более важной, чем для других в Союзе."
 
     old "Our spy network, as a result, runs deeper and wider than any of yours. Perhaps even more than all of yours together."
-    new "Наша шпионская сеть, как результат, глубже и шире любой из ваших. Возможно, даже больше, чем все ваши вместе взятые."
+    new "Наша шпионская сеть, поэтому, глубже и шире любой из ваших. Возможно, даже больше, чем все ваши вместе взятые."
 
     old "This is not a matter of bragging. For us, it is a fact that is necessary to our survival."
     new "Это не хвастовство. Для нас это факт, необходимый для выживания."
@@ -230,7 +230,7 @@ translate ru strings:
     new "Она постучала по документу."
 
     old "Starting from the discovery of this document, we began to continue our investigation and we uncovered further supporting evidence."
-    new "Начиная с обнаружения этого документа, мы продолжили расследование и обнаружили дополнительные подтверждающие доказательства."
+    new "С обнаружения этого документа мы продолжили расследование и нашли дополнительные подтверждения."
 
     old "You still haven't told us what this is, exactly."
     new "Ты всё ещё не сказала нам, что это такое, конкретно."
@@ -305,7 +305,7 @@ translate ru strings:
     new "Нокторио были правящей элитой, жившей в Вечном Дворе."
 
     old "Blessed with exceedingly long lifespans, most were some three centuries old."
-    new "Благословлённые чрезвычайно долгой жизнью, большинству было около трёх сотен лет."
+    new "Благословлённые чрезвычайно долгой жизнью, большинству было около трёхсот лет."
 
     old "The origin of their long lives was unkown, even within the Empire itself, and a secret they intended to keep above all."
     new "Происхождение их долгой жизни было неизвестно даже в самой Империи, и это был секрет, который они намеревались хранить превыше всего."
@@ -347,7 +347,7 @@ translate ru strings:
     new "Не могу сказать."
 
     old "My spies know of the attack plans. They uncovered the authorization for the use of two legions. We also have significant supporting evidence."
-    new "Мои шпионы знают о планах нападения. Они обнаружили разрешение на использование двух легионов. У нас также есть значительные подтверждающие доказательства."
+    new "Мои шпионы знают о планах нападения. Они обнаружили разрешение на использование двух легионов. У нас также есть значительные подтверждения."
 
     old "But I cannot uncover his reasoning."
     new "Но я не могу понять его мотивы."

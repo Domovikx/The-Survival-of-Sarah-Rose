@@ -167,7 +167,7 @@ translate ru strings:
     new "Его тело, чёрное как чернила, извивалось и двигалось, как змея."
 
     old "It's brute claws pierced the stone of the old palace, and with great effort it pulled itself out from whatever dimension it called home, into Sarah's world."
-    new "Его грубые когти вонзились в камень старого дворца, и с огромным усилием оно вытащило себя из какого бы измерения ни было его домом, в мир Сары."
+    new "Его грубые когти вонзились в камень старого дворца, и с огромным усилием оно вытащило себя из измерения, которое считало своим домом, в мир Сары."
 
     old "The thing's face, as white as a mask made out of porcelain, its only feature its pitless eyes and razor teeth like those of a shark."
     new "Лицо твари, белое как фарфоровая маска, с единственными чертами — бездонными глазами и острыми как бритва зубами, как у акулы."
@@ -257,7 +257,7 @@ translate ru strings:
     new "Он закричал, когда существо оторвало и проглотило его руку, кровь хлынула из раны."
 
     old "The soldier had worn armor, perhaps even better than the kind anyone in her mercenary company had, and the creature had sliced through it like it was nothing."
-    new "На солдате была броня, возможно даже лучше той, что была у кого-либо в её наёмнической роте, и существо пронзило её, как будто это было ничто."
+    new "На солдате была броня, возможно даже лучше той, что была у кого-либо в её наёмнической роте, и существо пронзило её, как будто та ничего не стоила."
 
     old "Suddenly it rushed forward."
     new "Внезапно оно рвануло вперёд."
@@ -341,7 +341,7 @@ translate ru strings:
     new "Она уставилась в его лицо и увидела, что, несмотря на отсутствие глаз, тварь смотрит в ответ."
 
     old "The only thought that Sarah could ask herself, again and again."
-    new "Единственная мысль, которую Сара могла задавать себе снова и снова."
+    new "Единственный вопрос, который Сара задавала себе снова и снова."
 
     old "And yet, as though her body moved to a different beat, she had ventured out to face the creature."
     new "И всё же, словно её тело двигалось в другом ритме, она вышла навстречу существу."

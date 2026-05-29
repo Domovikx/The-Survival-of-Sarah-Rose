@@ -959,7 +959,7 @@ translate ru strings:
     new "Она обнаружила Атиллу, улыбающегося ей."
 
     old "You've gotten quick."
-    new "Ты стал быстрее."
+    new "Ты стала быстрее."
 
     old "Atilla! You startled me."
     new "Атилла! Ты меня напугал."
@@ -1535,7 +1535,7 @@ translate ru strings:
     new "Всё в порядке, вы можете сказать мне, как их нужно обработать, и я закончу их."
 
     old "Sarah smiled, she was always so eager to help."
-    new "Сара улыбнулась, она всегда была так желательна помочь."
+    new "Сара улыбнулась, она всегда стремилась помочь."
 
     old "In a camp of soldiers that were mostly illiterate, having someone that could actually work a secretary job was incredibly valuable."
     new "В лагере солдат, которые в основном были неграмотными, иметь кого-то, кто мог бы выполнять секретарскую работу, было невероятно ценно."
@@ -1808,7 +1808,7 @@ translate ru strings:
     new "Она надеялась, что это правда."
 
     old "Fuck...on the rear I'm missing out on all the action."
-    new "Бля... в тылу я пропускаю всё самое интересное."
+    new "Чёрт... в тылу я пропускаю всё самое интересное."
 
     old "You're upset you didn't get to fight?"
     new "Ты расстроена, что не попала в бой?"
@@ -1820,7 +1820,7 @@ translate ru strings:
     new "Большинство здесь просто молятся, чтобы пережить эту кампанию."
 
     old "Yeah, well, most people wanna get old and have a million babies. I think I'll pass on both."
-    new "Да, ну, большинство хотят состариться и нарвать кучу детей. Я, пожалуй, откажусь от обоих."
+    new "Да, ну, большинство хотят состариться и нарожать кучу детей. Я, пожалуй, откажусь от обоих."
 
     old "You might just surprise yourself."
     new "Ты можешь сама себя удивить."
@@ -2156,7 +2156,7 @@ translate ru strings:
     new "Сара умоляла."
 
     old "You promise after the ceremony, when you make a Knight, you'll go down on me?"
-    new "Ты обещаешь, что после церемонии, когда сделаешь меня рыцарем, ты сделаешь мне куни?"
+    new "Ты обещаешь, что после церемонии, когда сделаешь меня рыцарем, ты вылижешь меня?"
 
     old "Anything!"
     new "Что угодно!"

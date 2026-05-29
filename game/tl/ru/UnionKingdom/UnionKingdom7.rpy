@@ -140,7 +140,7 @@ translate ru strings:
     new "Это было совсем другое."
 
     old "The opulence on display here, the excess, it balanced somewhere between the absurd and the horrifying."
-    new "Роскошь и излишество, выставленные здесь, балансировали где-то между абсурдным и ужасающим."
+    new "Роскошь и излишества, выставленные здесь, балансировали где-то между абсурдным и ужасающим."
 
     old "As Sarah joined in, she could barely help contain her shame."
     new "Когда Сара присоединилась, она едва сдерживала стыд."
@@ -224,7 +224,7 @@ translate ru strings:
     new "Она указала на одного из вельмож."
 
     old "He controls most of the lumber camps up north."
-    new "Он контролирует большую часть лесозаготовок на севере."
+    new "Он контролирует большую часть лесопилок на севере."
 
     old "She gestured to the next."
     new "Она указала на следующего."
@@ -461,10 +461,10 @@ translate ru strings:
     new "Имеете ли вы представление, чему посвящён этот Союзный Совет?"
 
     old "She saw his face turn to a frown."
-    new "Она увидела, как его лицо нахмурилось."
+    new "Она увидела, как он нахмурился."
 
     old "Business talk, and so soon."
-    new "Деловые разговоры, и так скоро."
+    new "Деловые разговоры, и уже так скоро."
 
     old "But unfortunately, I must dissapoint you. I know little more than you do, it seems."
     new "Но, к сожалению, должен вас разочаровать. Кажется, я знаю немногим больше вашего."
@@ -506,7 +506,7 @@ translate ru strings:
     new "Сара покачала головой. Было удивительно, как некоторых мужчин, независимо от статуса, можно свести к горстке базовых инстинктов."
 
     old "She saw a man lean across the now empty chair."
-    new "Она увидела мужчину, перегнувшегося через теперь пустой стул."
+    new "Она увидела мужчину, перегнувшегося через освободившийся стул."
 
     old "Repulsive, really."
     new "Отвратительно, правда."

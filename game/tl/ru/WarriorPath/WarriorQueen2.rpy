@@ -857,7 +857,7 @@ translate ru strings:
     new "Яростно он довёл её до предела, вгоняя столько своего члена между её ног, сколько могло выдержать её тело."
 
     old "Sarah felt the rush of the orgasm come over her, rising up from between her legs, rushing into every limb like an electric current."
-    new "Сара почувствовала, как на неё накатывает оргазм, поднимаясь из промежности и разносясь по каждой конечности, словно электрический ток."
+    new "Сара почувствовала, как на неё накатывает оргазм, поднимаясь из лона и разносясь по каждой конечности, словно электрический ток."
 
     old "Had she not been so firmly pinned to the desk by his large body, she would have twisted about."
     new "Если бы она не была так крепко прижата к столу его массивным телом, она бы извивалась."

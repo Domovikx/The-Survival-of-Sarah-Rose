@@ -371,7 +371,7 @@ translate ru strings:
     new "Сара увидела горькую улыбку на лице Кейт."
 
     old "And I fucking thought I had it made."
-    new "И я, блядь, думала, что у меня всё схвачено."
+    new "И я, чёрт возьми, думала, что у меня всё схвачено."
 
     old "Wasn't homeless no more. Had food in me. Maybe if this was all I was good for, fine."
     new "Больше не бездомная. У меня есть еда. Может, если я только на это и гожусь, ну и ладно."
@@ -575,7 +575,7 @@ translate ru strings:
     new "Мы хотели не привлекать внимания...а теперь..."
 
     old "Fuck...I mean...I didn't think it through that far. I just wanted to kill the fuck."
-    new "Блядь...то есть...я не продумала всё так далеко. Я просто хотела убить этого ублюдка."
+    new "Чёрт...то есть...я не продумала всё так далеко. Я просто хотела убить этого ублюдка."
 
     old "If you..."
     new "Если ты..."

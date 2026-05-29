@@ -161,7 +161,7 @@ translate ru strings:
     new "После смерти последнего Короля Союза жестокая война за наследство между его детьми распространилась по всему Союзу."
 
     old "More than a few suspected the Mythran Empire of spreading the seeds for strife, but once the chaos had been unleashed, it could no longer be restrained."
-    new "Более чем немногие подозревали Митранскую Империю в посеве семян раздора, но когда хаос вырвался наружу, его больше нельзя было сдержать."
+    new "Немало людей подозревали, что Митранская Империя посеяла семена раздора, но когда хаос вырвался наружу, его больше нельзя было сдержать."
 
     old "The Union fell into civil war."
     new "Союз впал в гражданскую войну."
@@ -188,7 +188,7 @@ translate ru strings:
     new "И так же, как Дом Роуз закрепил свою власть, укоренившись на своей территории, так же сделали и все остальные."
 
     old "Before long, so many centuries had passed that the idea of a single Union was something only fools entertained."
-    new "Вскоре прошло столько веков, что идея единого Союза была чем-то, о чём задумывались только глупцы."
+    new "Вскоре прошло столько веков, что идею единого Союза всерьёз воспринимали только глупцы."
 
     old "On paper, the Union still existed. Never disbanded. But in truth, it was a fiction."
     new "На бумаге Союз всё ещё существовал. Никогда не распускался. Но на самом деле это было фикцией."
@@ -254,7 +254,7 @@ translate ru strings:
     new "Он помедлил, но она жестом велела ему продолжать."
 
     old "Go ahead, Spymaster Kravel."
-    new "Говорите, шпионмейстер Крейвел."
+    new "Говори, шпионмейстер Крейвел."
 
     old "Kravel cleared his throat."
     new "Крейвел прочистил горло."
@@ -398,7 +398,7 @@ translate ru strings:
     new "Единственная настоящая ошибка, которую мы можем сделать, — это отказаться от её приглашения, когда оно искреннее."
 
     old "And so the only real option, is to attend the Union Council and hear her out."
-    new "И так, единственный реальный вариант — посетить Совет Союза и выслушать её."
+    new "Итак, единственный реальный вариант — посетить Совет Союза и выслушать её."
 
     old "Sarah considered all that Lady Carolyn had told her."
     new "Сара обдумала всё, что сказала леди Кэролин."

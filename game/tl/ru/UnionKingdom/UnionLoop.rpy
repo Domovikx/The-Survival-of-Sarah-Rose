@@ -491,7 +491,7 @@ translate ru strings:
     new "Он махнул рукой, как будто это не имело значения."
 
     old "Forget it. You meant no insult by it."
-    new "Забудьте. Вы не хотели оскорбить."
+    new "Забудь. Ты не хотела оскорбить."
 
     old "They continued to walk through the vast, almost endless, gardens of the palace."
     new "Они продолжили идти по огромным, почти бесконечным садам дворца."
@@ -899,7 +899,7 @@ translate ru strings:
     new "Пожалуйста, не нужно так спешить."
 
     old "She saw his hands groping between his legs."
-    new "Она увидела, как его руки ощупывают промежность."
+    new "Она увидела, как его руки ощупывают его между ног."
 
     old "We did not agree to that!"
     new "Мы не договаривались об этом!"

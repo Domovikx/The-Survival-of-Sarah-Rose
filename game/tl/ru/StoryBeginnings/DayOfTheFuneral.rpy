@@ -26,7 +26,7 @@ translate ru strings:
     new "Томас обнимает сестру."
 
     old "Who would have wanted to hurt Dad?"
-    new "Кто мог хотеть причинить папе вред?"
+    new "Кто мог желать папе зла?"
 
     old "Sarah can't find the will to hug him back."
     new "Сара не может найти в себе сил обнять его в ответ."
@@ -47,7 +47,7 @@ translate ru strings:
     new "Сара поворачивается к брату, глядя ему прямо в глаза. Его глаза красные от слёз, которые он от неё скрывает."
 
     old "We need to make him proud now. Remember: composure."
-    new "Теперь мы должны оправдать его гордость. Помни: самообладание."
+    new "Теперь мы должны сделать так, чтобы он нами гордился. Помни: самообладание."
 
     old "Thomas turns away from her, staring off into the distance, trying to look at nothing at all."
     new "Томас отворачивается от неё, уставившись в пустоту, пытаясь ни на что не смотреть."
@@ -92,7 +92,7 @@ translate ru strings:
     new "Томас, мне нужно минутку побыть одной. Пожалуйста, продолжай без меня."
 
     old "Sarah unlinked her arm from her brother and quickly walked away."
-    new "Сара высвободила руку и быстро ушла."
+    new "Сара высвободила руку из руки брата и быстро ушла."
 
     old "Fresh air, that's what she needed."
     new "Свежий воздух — вот что ей было нужно."

@@ -113,7 +113,7 @@ translate ru strings:
     new "Антонио усмехнулся преувеличению Маэйв, но прикусил язык."
 
     old "These extreme times call for extreme measures, and so with a heavy heart I will take on myself the title of old."
-    new "Крайние времена требуют крайних мер, и поэтому с тяжёлым сердцем я возьму на себя старый титул."
+    new "Тяжёлые времена требуют тяжёлых мер, и поэтому с тяжёлым сердцем я возьму на себя старый титул."
 
     old "I will be the High Queen of the Union."
     new "Я буду Верховной Королевой Союза."
@@ -296,7 +296,7 @@ translate ru strings:
     new "Эдмонд громко рассмеялся."
 
     old "Please, you must be joking."
-    new "Прошу, ты должно быть шутишь."
+    new "Прошу, ты, должно быть, шутишь."
 
     old "Maeiv joined in."
     new "Маэйв присоединилась."
@@ -311,7 +311,7 @@ translate ru strings:
     new "Я могу многое вытерпеть, но не этого жирного упыря. Я никогда этого не приму."
 
     old "I agree. We would be better off with no leader at all than...him."
-    new "Согласен. Нам было бы лучше вообще без лидера, чем... он."
+    new "Согласна. Нам было бы лучше вообще без лидера, чем... он."
 
     old "Sarah tried to get another word in, but the room was lost to her and fell back into infighting."
     new "Сара попыталась вставить слово, но она потеряла контроль над разговором, и тот снова погрузился в междоусобицы."

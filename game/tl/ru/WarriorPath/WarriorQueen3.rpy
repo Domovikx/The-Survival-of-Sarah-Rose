@@ -26,7 +26,7 @@ translate ru strings:
     new "Но их звуки были далеки от неё, как и все ощущения."
 
     old "Out in the far distance, crawling across the horizon, Sarah saw the only thing that occupied her mind."
-    new "Вдалеке, ползущем по горизонту, Сара увидела единственное, что занимало её мысли."
+    new "Вдалеке, выползая из-за горизонта, Сара увидела единственное, что занимало её мысли."
 
     old "Land."
     new "Земля."
@@ -590,7 +590,7 @@ translate ru strings:
     new "Пока что хорошо сработано, Гидеон."
 
     old "Go oversee the continued construction of the camp."
-    new "Идите наблюдайте за продолжением строительства лагеря."
+    new "Идите и наблюдайте за продолжением строительства лагеря."
 
     old "Gideon nodded, saluted, then left."
     new "Гидеон кивнул, отдал честь и вышел."
@@ -617,7 +617,7 @@ translate ru strings:
     new "С наступлением зимы в Розанне этого, скорее всего, придётся подождать."
 
     old "You really need to work on your situational awareness."
-    new "Тебе действительно нужно поработать над ситуационной осведомлённостью."
+    new "Тебе правда нужно быть повнимательнее к тому, что вокруг творится."
 
     old "Startled, Sarah looked up just as Kate sat down next to her, near the fire."
     new "Вздрогнув, Сара подняла взгляд как раз в тот момент, когда Кейт села рядом с ней у огня."

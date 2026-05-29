@@ -206,7 +206,7 @@ translate ru strings:
     new "Хорошо. Сделка остаётся в силе."
 
     old "And we both know you ain't above doin this to win my support."
-    new "И мы обе знаем, что ты не выше этого, чтобы заслужить мою поддержку."
+    new "И мы оба знаем, что ты не выше этого, чтобы заслужить мою поддержку."
 
     old "So all I'm saying is, how about we just skip the whole performance where you pretend like you're not a slut?"
     new "Так что я просто предлагаю пропустить весь спектакль, где ты притворяешься, что ты не шлюха."
@@ -245,7 +245,7 @@ translate ru strings:
     new "Наклонившись, она поднесла губы к кончику его члена."
 
     old "Slowly, she felt it press into her mouth, pressing apart her jaws. A consequence of the man's size."
-    new "Медленно она почувствовала, как он входит в её рот, раздвигая челюсти. Сказывались размеры этого мужчины."
+    new "Медленно она почувствовала, как он входит в её рот, раздвигая его. Сказывались размеры этого мужчины."
 
     old "Bobbing her mouth up and down, she felt him growing larger still."
     new "Двигая ртом вверх-вниз, она чувствовала, как он становится ещё больше."
@@ -614,7 +614,7 @@ translate ru strings:
     new "Твой бизнес в судоходстве, который только рос в последние несколько лет."
 
     old "Additionally, while you may excuse my honesty, most men in your office do quite well for themselves."
-    new "Кроме того, хотя ты можешь извинить мою честность, большинство мужчин на твоей должности живут довольно хорошо."
+    new "Кроме того, хоть и прости за откровенность, большинство мужчин на твоей должности живут довольно хорошо."
 
     old "The Duke chuckled."
     new "Герцог усмехнулся."
@@ -1253,7 +1253,7 @@ translate ru strings:
     new "Сара почувствовала, как её сердце взлетело."
 
     old "Thank you, Lord Edmond, for your trust."
-    new "Спасибо, лорд Эдмонд, за ваше доверие."
+    new "Спасибо, лорд Эдмонд, за твоё доверие."
 
     old "I trust your father. And I suspect you have enough of him in you to be worth that trust."
     new "Я доверяю твоему отцу. И подозреваю, в тебе достаточно от него, чтобы быть достойной этого доверия."

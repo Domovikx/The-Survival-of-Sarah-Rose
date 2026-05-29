@@ -74,7 +74,7 @@ translate ru strings:
     new "Медленно она вышла в центр зала."
 
     old "Cloaked in the regalia of her house, as well as the sigils of the other nations; Sarah stood before the host that had gathered."
-    new "Облачённая в регалии своего дома, а также символы других наций, Сара предстала перед собравшимися."
+    new "Облачённая в регалии своего дома, а также гербы других наций, Сара предстала перед собравшимися."
 
     old "All their eyes fell on her."
     new "Все взгляды устремились на неё."
@@ -86,7 +86,7 @@ translate ru strings:
     new "Все эти лица. Эти люди, которые теперь ждали от неё руководства."
 
     old "Sarah straightend her back, put out her shoulders and tilted her head."
-    new "Сара выпрямила спину, расправила плечи и подняла голову."
+    new "Сара выпрямила спину, расправила плечи и наклонила голову."
 
     old "She drew in a final breath. Then she spoke."
     new "Она сделала последний вдох. И затем заговорила."
@@ -125,7 +125,7 @@ translate ru strings:
     new "Я говорю это не для того, чтобы посеять страх в ваших сердцах."
 
     old "Rather, I say these words to remind all of us of the unprecedented times in which we find ourselves."
-    new "Скорее, я говорю эти слова, чтобы напомнить всем нам о беспрецедентных временах, в которых мы оказались."
+    new "Скорее, я говорю эти слова, чтобы напомнить всем нам о небывалых временах, в которых мы оказались."
 
     old "And to prepare each of us, for the sacrifices that await."
     new "И чтобы подготовить каждого из нас к жертвам, которые нас ждут."

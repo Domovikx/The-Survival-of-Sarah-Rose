@@ -443,7 +443,7 @@ translate ru strings:
     new "Варга расстегнул ремень, державший штаны, и быстро сбросил их к ногам."
 
     old "Sarah's eyes fell on his already fully erect cock."
-    new "Взгляд Сары упал на его уже полностью эрегированный член."
+    new "Взгляд Сары упал на его уже полностью стоячий член."
 
     old "She felt herself slightly spreading her legs, inviting him to take her."
     new "Она почувствовала, как слегка раздвигает ноги, приглашая его взять её."
@@ -485,7 +485,7 @@ translate ru strings:
     new "С этими словами он переместил свой член, прижимая головку к влажным губкам Сары."
 
     old "She felt her back arch as the sensation shot up through her body, rising from between her legs up to her crown."
-    new "Она почувствовала, как выгнулась спина, когда ощущение пронзило всё её тело, поднимаясь от промежности до макушки."
+    new "Она почувствовала, как выгнулась спина, когда ощущение пронзило всё её тело, поднимаясь от паха до макушки."
 
     old "For their entire engagement, Sarah had surpressed all her desires for his body, but now she couldn't deny it anymore, nor did she want to."
     new "В течение всей помолвки Сара подавляла все свои желания его тела, но теперь она больше не могла — да и не хотела — отрицать их."
@@ -560,7 +560,7 @@ translate ru strings:
     new "Последние толчки Варги были самыми мощными и животными. Сара чувствовала, как сильно он хотел её."
 
     old "Only when she felt the last of his cum shooting inside of her, did he begin to slow down."
-    new "Только когда она почувствовала последние струи его спермы внутри, он начал замедляться."
+    new "Только когда она почувствовала последние струи его семени внутри, он начал замедляться."
 
     old "He still took her, but now with every thrust, he slowed, growing more gentle again."
     new "Он всё ещё брал её, но с каждым толчком замедлялся, снова становясь более нежным."
@@ -632,5 +632,5 @@ translate ru strings:
     new "Сара лишь рассмеялась, оказывая слабое сопротивление возобновившимся приставаниям мужа."
 
     old "I told you I don't tire easy."
-    new "Я же сказал, я устаю нелегко."
+    new "Я же говорил, я не так просто устаю."
 

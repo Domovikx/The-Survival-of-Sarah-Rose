@@ -86,7 +86,7 @@ translate ru strings:
     new "Сначала это удивляло её, но ей искренне нравилось сосать член орка. То, как она могла довести его до разрядки одним ртом, возбуждало её."
 
     old "Atilla, for his part, had no objection to Sarah's love of blowjobs."
-    new "Атилла, со своей стороны, не возражал против любви Сары к миннету."
+    new "Атилла, со своей стороны, не возражал против любви Сары к минету."
 
     old "But this early morning, he wanted to feel her."
     new "Но этим ранним утром он хотел чувствовать её."
@@ -134,7 +134,7 @@ translate ru strings:
     new "Сара выгнула спину, чтобы лучше вместить его."
 
     old "With her hands firmly planted on Atilla's iron chest, she began to ride him."
-    new "Крепко упёршись руками в железную грудь Атиллы, она начала скакать на нём."
+    new "Крепко упёршись руками в железную грудь Атиллы, она оседлала его."
 
     old "Like this, with Atilla all the way inside of her, Sarah could feel herself losing control."
     new "Так, с Атиллой глубоко внутри, Сара чувствовала, как теряет контроль."
@@ -152,13 +152,13 @@ translate ru strings:
     new "Когда Атилла впервые занялся с ней любовью, она боялась, что любовь и похоть существуют на разных концах спектра."
 
     old "But in the weeks after, as she found her heart grow closer to Atilla's, she discovered the opposite."
-    new "Но в последующие недели, чувствуя, как сердце растёт ближе к сердцу Атиллы, она обнаружила обратное."
+    new "Но в последующие недели, чувствуя, как её сердце всё сильнее тянется к Атилле, она обнаружила обратное."
 
     old "He still fucked her as he always had, strong and dominant, but in addition, there had been made room for more to exist between them."
     new "Он всё ещё трахал её, как всегда, сильно и доминантно, но вдобавок появилось место для большего."
 
     old "With her heart now as exposed to Atilla as her breasts, Sarah felt that the sex had only gotten better."
-    new "С сердцем, открытым Атилле так же, как грудь, Сара чувствовала, что секс стал только лучше."
+    new "С сердцем, открытым Атилле так же, как и её грудь, Сара чувствовала, что секс стал только лучше."
 
     old "She rode him, hard and furious, the way she liked it, and the way she knew he liked it."
     new "Она скакала на нём, жёстко и яростно — так, как нравилось ей, и как, она знала, нравилось ему."

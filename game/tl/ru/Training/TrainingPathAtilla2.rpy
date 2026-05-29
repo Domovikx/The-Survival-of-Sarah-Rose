@@ -50,7 +50,7 @@ translate ru strings:
     new "Однако сегодня было по-другому. Атилла вызвал Сару и велел прийти на тренировочную площадку."
 
     old "Atilla was her way out of this mess, and so far, he had proven a better ally than anyone else she had met."
-    new "Атилла был её выходом из этого дерьма, и пока он оказался лучшим союзником из всех, кого она встречала."
+    new "Атилла был её выходом из этой передряги, и пока он оказался лучшим союзником из всех, кого она встречала."
 
     old "When she arrived at the training room, Atilla was already busy. It continued to impress her how tall the orc stood."
     new "Когда она прибыла на площадку, Атилла уже был занят. Её продолжало впечатлять, насколько высоким был орк."
@@ -176,7 +176,7 @@ translate ru strings:
     new "Давай, примерь."
 
     old "Sarah began to strip, almost eager this time. Not long after, she threw off the last of her clothes."
-    new "Сара начала раздеваться, почти с готовностью. Вскоре она сбросила последнюю одежду."
+    new "Сара начала раздеваться, на этот раз почти с готовностью. Вскоре она сбросила последнюю одежду."
 
     old "She could see the orc's eyes going up and down her body, but it didn't bother her."
     new "Она видела, как глаза орка скользят по её телу, но её это не беспокоило."
@@ -254,7 +254,7 @@ translate ru strings:
     new "Она почувствовала, что её отбрасывает на пятки, и начала лихорадочно пытаться восстановить равновесие, но это только ухудшило ситуацию."
 
     old "Sarah stumbled for a moment, only to then trip and fall backwards onto her rear."
-    new "Сара на мгновение пошатнулась, а затем споткнулась и упала на спину."
+    new "Сара на мгновение пошатнулась, а затем споткнулась и упала на зад."
 
     old "In a fraction, whilst she was stumbling, Atilla had crossed the distance between them, and now stood over her, his sword trained at her throat."
     new "В долю секунды, пока она падала, Атилла преодолел расстояние между ними и теперь стоял над ней, наставив меч на горло."
@@ -365,10 +365,10 @@ translate ru strings:
     new "Похвалил орк."
 
     old "Sarah felt excitement come over herself. It had seemed impossible just a moment ago, but now she was doing."
-    new "Сара почувствовала возбуждение. Мгновение назад это казалось невозможным, но теперь у неё получалось."
+    new "Сара почувствовала воодушевление. Мгновение назад это казалось невозможным, но теперь у неё получалось."
 
     old "Atilla’s compliment made her feel strangely giddy."
-    new "От похвалы Атиллы она почувствовала странное возбуждение."
+    new "От похвалы Атиллы она почувствовала странное головокружение."
 
     old "Now. Let's see if you can do this on the move."
     new "А теперь посмотрим, сможешь ли ты делать это в движении."
@@ -482,7 +482,7 @@ translate ru strings:
     new "Уверенно орк расстегнул свой пояс, отбросив набедренную повязку."
 
     old "Where before the orc’s cock was pressing against her ass, it now swayed in between Sarah's legs, occasionally rubbing up against her pussy."
-    new "Там, где раньше член орка прижимался к её заду, теперь он покачивался между ног Сары, иногда касаясь её киски."
+    new "Там, где раньше член орка прижимался к её заду, теперь он покачивался между ног Сары, иногда потираясь о её киску."
 
     old "She couldn’t believe how wet she had gotten already."
     new "Она не могла поверить, как сильно уже промокла."
@@ -593,7 +593,7 @@ translate ru strings:
     new "Атилла, со своей стороны, наслаждался зрелищем."
 
     old "Sarah only returned to her senses moments later, the explosion fading into the regular pleasure of being mounted by Atilla."
-    new "Сара пришла в себя лишь мгновения спустя, когда взрыв утих, сменившись обычным удовольствием от того, что Атилла её имеет."
+    new "Сара пришла в себя лишь мгновения спустя, когда взрыв утих, сменившись обычным удовольствием от того, что Атилла берёт её."
 
     old "By now, Atilla had picked up his pace, driving his cock up to the hilt into Sarah’s pussy."
     new "К этому моменту Атилла ускорился, вгоняя член по самую рукоятку в киску Сары."

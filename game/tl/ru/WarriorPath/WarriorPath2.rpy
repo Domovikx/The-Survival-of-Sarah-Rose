@@ -140,7 +140,7 @@ translate ru strings:
     new "Боюсь, это не совсем мой стиль."
 
     old "But I'd like to see you try them on."
-    new "Но я бы хотел увидеть, как ты их примеришь."
+    new "Но я бы хотела увидеть, как ты их примеришь."
 
     old "Yeah, I bet you would like that."
     new "Да, уверена, тебе бы это понравилось."
@@ -164,7 +164,7 @@ translate ru strings:
     new "В комнатах несколько тел, слуги-мужчины, которые пытались спрятаться."
 
     old "I think six or so female servants, they're...well off in that room."
-    new "Кажется, шесть или около того служанок, они... неплохо устроились в той комнате."
+    new "Кажется, шесть или около того служанок, они... при деле в той комнате."
 
     old "Kate pointed."
     new "Кейт указала."
@@ -419,7 +419,7 @@ translate ru strings:
     new "Похоже, ты неплохо справилась."
 
     old "Captured and secured, just as you instructed."
-    new "Захвачено и защищено, как вы и приказали."
+    new "Захвачено и защищено, как ты и приказал."
 
     old "I knew I could count on you."
     new "Я знал, что на тебя можно положиться."

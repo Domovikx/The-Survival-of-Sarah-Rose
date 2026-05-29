@@ -428,7 +428,7 @@ translate ru strings:
     new "Варга только покачал головой."
 
     old "Forgive me Princess, but you're a horrible drunk."
-    new "Прости, принцесса, но ты ужасный пьяница."
+    new "Прости, принцесса, но ты ужасная пьяница."
 
     old "Maybe the problem is that I've got a head start on you, and you need to keep up?"
     new "Может, проблема в том, что у меня фора, и тебе нужно догонять?"
@@ -575,7 +575,7 @@ translate ru strings:
     new "Сара лежала на спине, глядя на Варгу, когда он повернулся. Её взгляд скользнул вниз, между его ног."
 
     old "His cock was standing up, rock hard. Sarah figured he was big enough that she could wrap both her hands around it."
-    new "Его член стоял твёрдый как камень. Сара прикинула, что он достаточно большой, чтобы она могла обхватить его обеими руками."
+    new "Его член стоял твёрдый, как камень. Сара прикинула, что он достаточно большой, чтобы она могла обхватить его обеими руками."
 
     old "She wished she would get the chance."
     new "Она хотела бы получить такой шанс."

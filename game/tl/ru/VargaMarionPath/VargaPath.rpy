@@ -167,7 +167,7 @@ translate ru strings:
     new "Она опустилась на колени между ног Варги. С края кровати он смотрел на неё сверху вниз, и снизу она видела, что он уже возбуждён."
 
     old "Sarah reached out with her hands, undoing the laces on Varga's breeches. Then, in one smooth motion, pulling his erect cock free."
-    new "Сара протянула руки, развязывая шнурки на штанах Варги. Затем, одним плавным движением, высвободила его эрегированный член."
+    new "Сара протянула руки, развязывая шнурки на штанах Варги. Затем, одним плавным движением, высвободила его напряжённый член."
 
     old "She watched as it stood balanced before her. Up close, it seemed huge."
     new "Она смотрела, как он возвышается перед ней. Вблизи он казался огромным."
@@ -308,7 +308,7 @@ translate ru strings:
     new "Варга встал и подошёл, забираясь в кровать рядом с ней."
 
     old "You should know it is though...for me."
-    new "Но ты должна знать, что для меня это так."
+    new "Но ты должен знать, что для меня это так."
 
     old "She looked deep into Varga's eyes, those deep dark brown eyes. She imagined herself falling into them."
     new "Она посмотрела глубоко в глаза Варги, в эти тёмно-карие глаза. Она представила, как падает в них."

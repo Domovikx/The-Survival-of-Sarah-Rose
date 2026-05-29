@@ -8,7 +8,7 @@ translate ru strings:
     new "Сара сидела на одном из зубцов стен города Калшур."
 
     old "With exception of the keep, most of the buildings in Calshure were build quite low, allowing her to look over the entire city."
-    new "За исключением цитадели, большинство зданий в Калшуре были довольно низкими, позволяя ей видеть весь город."
+    new "За исключением цитадели, большинство зданий в Калшуре были довольно низкими, так что ей открывался вид на весь город."
 
     old "She watched her army marching through the streets of the city, greeted as liberators."
     new "Она наблюдала, как её армия марширует по улицам города — их встречали как освободителей."
@@ -257,7 +257,7 @@ translate ru strings:
     new "Мы одержали великую победу сегодня, но эта война ещё не окончена."
 
     old "Not while a foreign warlord sits upon the Throne of my family."
-    new "Не пока чужеземный полководец сидит на троне моей семьи."
+    new "Пока чужеземный полководец сидит на троне моей семьи."
 
     old "Angry shouts could be heard across the square."
     new "По всей площади раздались гневные крики."

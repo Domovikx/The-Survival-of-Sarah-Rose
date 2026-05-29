@@ -365,7 +365,7 @@ translate ru strings:
     new "Вашему делу, да."
 
     old "Though I must admit, until not so long ago, I was made to understand that you were one of the tragic casualties of the Tribes."
-    new "Хотя должен признать, до недавнего времени меня заставляли думать, что вы были одной из трагических жертв Племён."
+    new "Хотя должен признать, до недавнего времени мне давали понять, что вы были одной из трагических жертв Племён."
 
     old "Sarah spread her arms out."
     new "Сара развела руки."
@@ -437,7 +437,7 @@ translate ru strings:
     new "Пересказывая свою жизнь, Сара поразилась её масштабу."
 
     old "So much had happened since she was home...and now it had suddenly never been closer."
-    new "Так много всего произошло с тех пор, как она была дома... и теперь он никогда не был так близок."
+    new "Так много всего произошло с тех пор, как она была дома... и теперь это никогда не было так близко."
 
     old "And that is how I find myself sitting here, making new friends."
     new "И вот как я оказалась здесь, завожу новых друзей."
@@ -881,13 +881,13 @@ translate ru strings:
     new "Мы объявим призыв, и народ моей страны станет армией."
 
     old "You are a fool if you think an army of peasants will stand up against the Tribesmen."
-    new "Вы глупец, если думаете, что армия крестьян устоит против Племён."
+    new "Вы глупы, если думаете, что армия крестьян устоит против Племён."
 
     old "I have seen my share of war."
     new "Я повидала войну."
 
     old "A trained army is powerful, yes, but you would be a fool to forget morale."
-    new "Обученная армия сильна, да, но вы были бы глупцом, забыв о боевом духе."
+    new "Обученная армия сильна, да, но вы были бы глупы, забыв о боевом духе."
 
     old "And when my people will fight, under my banner, they will fight as lions."
     new "И когда мой народ будет сражаться под моим знаменем, они будут драться как львы."

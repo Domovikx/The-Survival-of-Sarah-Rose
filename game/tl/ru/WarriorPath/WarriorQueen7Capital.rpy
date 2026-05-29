@@ -134,7 +134,7 @@ translate ru strings:
     new "Да, ты сделала это. Ты сделала и много других вещей."
 
     old "The thing about you Kate, and you've been like this even when we were kids..."
-    new "Дело в тебе, Кейт, ты была такой даже когда мы были детьми..."
+    new "Дело в тебе, Кейт, ты была такой, даже когда мы были детьми..."
 
     old "You let the bad things lay on you, and all the good slips off."
     new "Ты позволяешь плохому оставаться на себе, а всё хорошее ускользает."
@@ -464,7 +464,7 @@ translate ru strings:
     new "Их позиция на холме была преимуществом. Это позволяло им обстреливать столицу, оставаясь вне досягаемости Племенников и их лучников."
 
     old "Being uphill also meant that the Tribesmen cavalry would not be able to carry out a charge as easily."
-    new "Нахождение на возвышенности также означало, что кавалерия Племенников не сможет так легко провести атаку."
+    new "Быть на возвышенности также означало, что кавалерия Племенников не сможет так легко провести атаку."
 
     old "Still, she knew the Tribesmen were equally skilled at war."
     new "И всё же она знала, что Племенники были столь же искусны в войне."
@@ -1616,7 +1616,7 @@ translate ru strings:
     new "Теряя позиции, Племенники оказывались всё более сконцентрированными во всё меньших пространствах."
 
     old "Their hit-and-run tactics were increasingly becoming futile."
-    new "Их тактика «ударил-убежал» становилась всё более бесполезной."
+    new "Их тактика «бей-беги» становилась всё более бесполезной."
 
     old "When they did attack now, they did so in larger numbers. More regular fighting."
     new "Когда они теперь атаковали, то делали это в больших количествах. Более регулярные бои."

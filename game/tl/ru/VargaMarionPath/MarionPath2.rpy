@@ -35,7 +35,7 @@ translate ru strings:
     new "Корону, которую её семья носит до сих пор."
 
     old "Sarah slowly began to walk, careful to keep both herself and the dress in balance."
-    new "Сара медленно начала идти, стараясь удерживать равновесие и себя, и платья."
+    new "Сара медленно начала идти, стараясь удерживать в равновесии и себя, и платье."
 
     old "The thing weighed a ton."
     new "Эта штука весила тонну."
@@ -251,7 +251,7 @@ translate ru strings:
     new "Ты..."
 
     old "Quite perceptive."
-    new "Весьма проницателен."
+    new "Весьма проницательна."
 
     old "Well, when you get raised to look at those noble faces all day, you develop a talent I suppose."
     new "Что ж, когда тебя воспитывают смотреть на эти благородные лица весь день, ты развиваешь талант, полагаю."
@@ -1073,7 +1073,7 @@ translate ru strings:
     new "В нём не называлось имён, но описание главаря разбойников подходило только одному человеку."
 
     old "As broad as he was tall, muscles like the trunk of an oak tree."
-    new "Широкий, как высокий, мышцы как ствол дуба."
+    new "Широкий, как и высокий, мышцы как ствол дуба."
 
     old "And a prominent scar that ran along the side of his face."
     new "И заметный шрам, идущий по боковой части лица."
@@ -2192,7 +2192,7 @@ translate ru strings:
     new "Или, возможно, предыдущий акт довёл его до нужной точки."
 
     old "Whichever it was, Sarah soon saw and felt her husband expending his seed."
-    new "Как бы то ни было, Сара скоро увидела и почувствовала, что её исторгает семя."
+    new "Как бы то ни было, Сара скоро увидела и почувствовала, как её муж исторгает своё семя."
 
     old "Marion groaned loudly as he finished, his cum splattering onto Sarah's exposed stomach."
     new "Марион громко застонал, кончая, его сперма забрызгала обнажённый живот Сары."

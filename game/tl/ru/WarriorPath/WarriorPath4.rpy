@@ -290,7 +290,7 @@ translate ru strings:
     new "Если смотреть достаточно долго, это может показаться зелёным океаном."
 
     old "As though you were all alone in the world. And nothing could go wrong."
-    new "Словно ты совсем один в мире. И ничто не может пойти не так."
+    new "Словно ты совсем одна в мире. И ничто не может пойти не так."
 
     old "It was worth it."
     new "Это того стоило."
@@ -1268,7 +1268,7 @@ translate ru strings:
     new "Обнаружив, что Кейт уже там, на мгновение их руки столкнулись, пока не был заключён пакт."
 
     old "Kate continued fingering Samayra as Sarah pressed her extended fingers up against Samayra's clit."
-    new "Кейт продолжала ласкать Самайру пальцами, пока Сара прижала вытянутые пальцы к клитору Самайры."
+    new "Кейт продолжала ласкать Самайру пальцами, пока Сара прижала вытянутые пальцы к нежному бугорку Самайры."
 
     old "Working in conjunction, the two women quickly produced the desired result."
     new "Работая сообща, две женщины быстро добились желаемого результата."
@@ -1664,7 +1664,7 @@ translate ru strings:
     new "Пальцы давили на края её лона, а киска сжималась вокруг пальцев, почти затягивая глубже."
 
     old "Cupping her hand, Sarah droved her fingers further inside herself and pressed her palm up against her clit."
-    new "Сложив руку чашей, Сара ввела пальцы глубже и прижала ладонь к клитору."
+    new "Сложив руку чашей, Сара ввела пальцы глубже и прижала ладонь к ее бугорку."
 
     old "Softly moaning at her own efforts and delighting in her own cleverness, Sarah continued thrusting her fingers inside of herself."
     new "Тихо постанывая от собственных усилий и наслаждаясь своей ловкостью, Сара продолжала вводить пальцы внутрь."
@@ -1817,7 +1817,7 @@ translate ru strings:
     new "Продолжая в том же темпе, Сара медленно позволила второй руке скользнуть по телу."
 
     old "Joining her already considerable effort, Sarah slipped the two tips of her other fingers up against her clit."
-    new "Присоединяясь к уже немалым усилиям, Сара прижала кончики двух пальцев другой руки к клитору."
+    new "Присоединяясь к уже немалым усилиям, Сара прижала кончики двух пальцев другой руки к ее возбужденному клитору."
 
     old "Replacing the crude attempt of her palm with the dexterous precision of her finger tips, Sarah began to rub herself more feverishly."
     new "Заменив грубую попытку ладони ловкой точностью кончиков пальцев, Сара начала тереть себя более исступлённо."
@@ -2849,7 +2849,7 @@ translate ru strings:
     new "Это возымело желаемый эффект."
 
     old "Sarah could feel the woman lean forward, pressing her lips firmly on her vagina."
-    new "Сара почувствовала, как женщина наклонилась, плотно прижимаясь губами к её влагалищу."
+    new "Сара почувствовала, как женщина наклонилась, плотно прижимаясь губами к её лону."
 
     old "Another, louder moan slipped past Sarah's lips, unable to be surpressed. Finally she was getting what she wanted."
     new "Ещё один, более громкий стон сорвался с губ Сары, который невозможно было подавить. Наконец-то она получала желаемое."
@@ -3317,7 +3317,7 @@ translate ru strings:
     new "Жар тела Кейт, так близко прижатого к лицу, пьянил."
 
     old "Sliding her tongue further up, Sarah gently moved her tongue across Kate's clit."
-    new "Скользя языком выше, Сара мягко провела им по клитору Кейт."
+    new "Скользя языком выше, Сара мягко провела им по возбужденному бугорку Кейт."
 
     old "A louder moan slipped from Kate's mouth, and Sarah could almost feel proud at her efforts."
     new "Более громкий стон сорвался с губ Кейт, и Сара почти почувствовала гордость за свои усилия."
@@ -3473,7 +3473,7 @@ translate ru strings:
     new "Сара провела по уголкам глаз, вытирая возможные слёзы."
 
     old "I know my vagina is pretty incredible but I've never seen it bring anyone to tears before."
-    new "Я знаю, моя вагина довольно невероятна, но никогда не видела, чтобы она доводила кого-то до слёз."
+    new "Я знаю, моя киска довольно невероятна, но никогда не видела, чтобы она доводила кого-то до слёз."
 
     old "Sarah threw a pillow at Kate."
     new "Сара бросила подушку в Кейт."

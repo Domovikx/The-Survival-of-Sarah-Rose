@@ -137,7 +137,7 @@ translate ru strings:
     new "Сара повернулась к разведчику."
 
     old "Report?"
-    new "Докладывай?"
+    new "Докладывай."
 
     old "The city is in the hands of the Tribesmen."
     new "Город в руках Племенников."
@@ -446,7 +446,7 @@ translate ru strings:
     new "Мой народ знает ритуал. Ахк'Тахар."
 
     old "I don't know your culture. Speak to me plainly."
-    new "Я не знаю вашей культуры. Говори прямо."
+    new "Я не знаю твоей культуры. Говори прямо."
 
     old "You will ride into the city...alone. You will meet with us under my sworn protection."
     new "Ты въедешь в город... одна. Ты встретишься с нами под моей клятвенной защитой."
@@ -1481,7 +1481,7 @@ translate ru strings:
     new "Он тяжело дышал, продолжая брать её."
 
     old "I can't deny them a taste."
-    new "Я не могу отказать им в пробе."
+    new "Я не могу отказать им в этом."
 
     old "Only let him touch you"
     new "Позволить только ему"
@@ -1595,7 +1595,7 @@ translate ru strings:
     new "Они наслаждались больше всего доминированием."
 
     old "Sarah simply parted her jaw more, allowing the tribesman to fuck her mouth easier."
-    new "Сара просто шире раскрыла челюсть, позволяя Племеннику легче трахать её рот."
+    new "Сара просто шире раскрыла рот, позволяя Племеннику легче трахать его."
 
     old "Besides her, she distantly registered more men approaching."
     new "Рядом она отдалённо заметила приближение новых мужчин."

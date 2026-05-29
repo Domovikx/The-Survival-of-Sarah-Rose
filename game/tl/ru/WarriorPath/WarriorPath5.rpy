@@ -170,7 +170,7 @@ translate ru strings:
     new "В этом месте всё чувствовалось иначе."
 
     old "Suffocating. Crushing. As though the weight of the entire palace was balanced on top of them."
-    new "Удушающе. Гнетуще. Словно вес всего дворца балансировал над ними."
+    new "Удушающе. Гнетуще. Словно вес всего дворца давил на них сверху."
 
     old "Perhaps it was, Sarah realized as they went deeper."
     new "Возможно, так и было, осознала Сара, когда они углубились."
@@ -248,7 +248,7 @@ translate ru strings:
     new "Как ты это сделал?"
 
     old "The gate only permits entry to those it wants."
-    new "Врата разрешают вход только тем, кому захотят."
+    new "Врата разрешают вход лишь тем, кого пожелают впустить."
 
     old "Bagrad's royal family foolish believed that meant themselves, but the door has a mind of its own, and it decides itself who it grants entry."
     new "Королевская семья Баграда по глупости считала, что это означает их самих, но у двери есть собственный разум, и она сама решает, кому даровать вход."
@@ -314,7 +314,7 @@ translate ru strings:
     new "Сара начала собственное исследование, пробираясь через нагромождённые ящики и горы золота."
 
     old "How much wealth, she imagined, sat here simply boxed up. Enough to change a thousand lives forever, but here, too trivial even to take out of the box."
-    new "Сколько богатства, думала она, лежит здесь просто запакованным. Достаточно, чтобы навсегда изменить тысячу жизней, но здесь слишком тривиально, чтобы даже вынуть из коробки."
+    new "Сколько богатства, думала она, лежит здесь просто запакованным. Достаточно, чтобы навсегда изменить тысячу жизней, но здесь это настолько незначительно, что даже не стоит вынимать из коробки."
 
     old "Walking through the vault brought about an odd feelig."
     new "Прогулка по хранилищу вызывала странное чувство."
@@ -425,7 +425,7 @@ translate ru strings:
     new "Шагнув вперёд, она провела клинком горизонтально сквозь существо."
 
     old "The blade caught nothing but air."
-    new "Клинок не встретил ничего, кроме воздуха."
+    new "Клинок рассек лишь воздух."
 
     old "That won't work. My nature is not quite so similar."
     new "Это не сработает. Моя природа не настолько схожа."
@@ -452,13 +452,13 @@ translate ru strings:
     new "Ты сказала мне однажды, а я не забываю имён."
 
     old "A sense of revulsion grew in Sarah as she watched the thing move through the air, its voice uttering her name."
-    new "Чувство отвращения росло в Саре, когда она наблюдала, как эта штука движется в воздухе, а её голос произносит её имя."
+    new "Чувство отвращения росло в Саре, когда она наблюдала, как эта штука движется в воздухе, а голос твари произносил её имя."
 
     old "I would have remembered meeting a demon like yourself."
     new "Я бы запомнила встречу с таким демоном, как ты."
 
     old "A hissing sound emerged from the thing. It took a moment for Sarah to realize it passed for laughter."
-    new "Из этой штуки донёсся шипящий звук. Саре потребовалось мгновение, чтобы осознать, что это сходит за смех."
+    new "Из этой штуки донёсся шипящий звук. Саре потребовалось мгновение, чтобы понять, что это должно изображать смех."
 
     old "Not a demon. Merely a humble spirit."
     new "Не демон. Просто скромный дух."
@@ -587,7 +587,7 @@ translate ru strings:
     new "И всё же я знаю. Как и Вэлен. Единственная, кто слеп — это ты. Но ты не обязана оставаться слепой."
 
     old "Seize the stone, hide it from him."
-    new "Забери камень, спрячь его от него."
+    new "Забери камень и спрячь, чтобы он не нашёл."
 
     old "And why would you tell me any of this? What game do you play at?"
     new "И зачем ты мне всё это рассказываешь? В какую игру ты играешь?"
@@ -605,7 +605,7 @@ translate ru strings:
     new "Это неважно. Я не могу просто взять камень. Если он настолько важен, как ты говоришь, он не перестанет искать его."
 
     old "As the creature's body shifted again, a new second glowing stone emerged."
-    new "Когда тело существа снова изменилось, появился новый второй светящийся камень."
+    new "Когда тело существа снова изменилось, появился ещё один светящийся камень."
 
     old "Take the real stone for yourself. Give the fake stone to the-one-who-calls-himself-Vaelen. He will not be able to discren the false stone from a true one."
     new "Возьми настоящий камень себе. Отдай поддельный камень тому-кто-называет-себя-Вэленом. Он не сможет отличить поддельный камень от настоящего."
@@ -845,7 +845,7 @@ translate ru strings:
     new "Приближаясь к вершине холма, она увидела тень, отбрасываемую одиноким деревом."
 
     old "The tree was long dead, no leaves remained, but its dried out wood still stood upright like a skeleton."
-    new "Дерево давно умерло, листьев не осталось, но его высохшая древесина всё ещё стояла вертикально, как скелет."
+    new "Дерево давно умерло, листьев не осталось, но его высохший ствол всё ещё стоял, словно скелет."
 
     old "Next to the tree, she could see the man she had come to see."
     new "Рядом с деревом она увидела человека, к которому пришла."

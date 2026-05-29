@@ -110,7 +110,7 @@ translate ru strings:
     new "Торговец снова кивнул."
 
     old "Yes, your Highness, but Lord Greytower will see no reason in the mattter!"
-    new "Да, ваше Высочество, но лорд Грейтауэр не видит смысла в этом деле!"
+    new "Да, Ваше Высочество, но лорд Грейтауэр не видит смысла в этом деле!"
 
     old "He says that if his men see us, they should take everything from us until the debt it settled."
     new "Он говорит, что если его люди увидят нас, они должны забрать всё у нас, пока долг не будет погашен."
@@ -155,7 +155,7 @@ translate ru strings:
     new "Он рассказал мне, что вскоре после моего нападения сын лорда Грейтауэра, Оливер Грейтауэр, был замечен возвращающимся в дом отца..."
 
     old "Bearing now a new and fresh scar, across his face..."
-    new "Неся теперь новый и свежий шрам через всё лицо..."
+    new "С новым и свежим шрамом через всё лицо..."
 
     old "She looked at Kravel, who gestured that he had heard the same story."
     new "Она посмотрела на Крейвела, который указал, что слышал ту же историю."
@@ -227,7 +227,7 @@ translate ru strings:
     new "И всё же, знала ли она действительно, так ли это?"
 
     old "Perhaps Oliver had truly gotten wounded in a hunting accident, strange of a coincidence as it might be."
-    new "Возможно, Оливер действительно был ранен в результате несчастного случая на охоте, как ни странно это совпадение."
+    new "Возможно, Оливер действительно был ранен в результате несчастного случая на охоте, каким бы странным ни было это совпадение."
 
     old "Could she really condemn a man and his family on just this man's word?"
     new "Могла ли она действительно осудить человека и его семью только на слове этого человека?"
@@ -293,19 +293,19 @@ translate ru strings:
     new "Ваше дело убедительно, и я нахожу ваш контракт ясным и считаю его подлинным."
 
     old "I shall have the Court author a write, stating that you owe House Greytower only repayment on the transport fee, not the entire cargo."
-    new "Я прикажу Суду составить документ, удостоверяющий, что вы должны Дому Грейтауэр только возмещение платы за перевозку, а не всего груза."
+    new "Я прикажу Суду составить предписание, удостоверяющее, что вы должны Дому Грейтауэр только возмещение платы за перевозку, а не всего груза."
 
     old "Deliver that writ to House Greytower, and they will obey my verdict."
-    new "Доставьте этот документ в Дом Грейтауэр, и они подчинятся моему вердикту."
+    new "Доставьте это предписание в Дом Грейтауэр, и они подчинятся моему вердикту."
 
     old "The merchant bowed his head low."
     new "Торговец низко поклонился."
 
     old "Thank you, your Highness, you have saved my business!"
-    new "Спасибо, ваше Высочество, вы спасли мой бизнес!"
+    new "Спасибо, Ваше Высочество, вы спасли моё дело!"
 
     old "Go, you can collect the writ later today."
-    new "Идите, вы можете получить документ позже сегодня."
+    new "Идите, вы можете получить предписание сегодня позже."
 
     old "The merchant bowed his head as he slowly backed out of the room, continuing to speak thanks."
     new "Торговец поклонился, медленно пятясь из комнаты, продолжая благодарить."
@@ -332,7 +332,7 @@ translate ru strings:
     new "Сын лорда Грейтауэра, Оливер Грейтауэр, совершил тяжкое преступление."
 
     old "The guilt of which is marked on his face by a blade."
-    new "Вина которого отмечена на его лице клинком."
+    new "Его вину отмечает шрам на лице, оставленный клинком."
 
     old "Sarah turned towards one of the knights."
     new "Сара повернулась к одному из рыцарей."
@@ -503,7 +503,7 @@ translate ru strings:
     new "Употребляя напитки и пищу в великом изобилии. Но превыше всего он наслаждался женщинами."
 
     old "And just as the drink and food left their mark on him, so too did his frequent philandering."
-    new "И так же, как напитки и пища оставили свой след на нём, так и его частые измены дали о себе знать."
+    new "И так же, как напитки и пища оставили свой след на нём, так и его частые измены тоже оставили свой след."
 
     old "By the time he died, there were supposedly as many as thirty children, of varying stature and claim to the throne."
     new "К моменту его смерти было, предположительно, до тридцати детей, различного положения и прав на трон."
@@ -572,7 +572,7 @@ translate ru strings:
     new "Сара вернула внимание к гонцу."
 
     old "Are you in need of anything?"
-    new "Ты в чём-нибудь нуждаешься?"
+    new "Вы в чём-нибудь нуждаетесь?"
 
     old "Your offer is most kind, but I fear that I was tasked with delivering this message with the great of haste."
     new "Ваше предложение очень любезно, но боюсь, мне было поручено доставить это послание с величайшей поспешностью."
@@ -584,7 +584,7 @@ translate ru strings:
     new "Даже большинство посланий из других стран редко приносились с такой... настойчивостью."
 
     old "Tell me then, what is your message?"
-    new "Тогда скажи мне, каково твоё послание?"
+    new "Тогда скажите мне, каково ваше послание?"
 
     old "I have sworn an oath by the Gods, my own life and the life of my family, that I would not break the seal on this letter."
     new "Я поклялся Богами, своей собственной жизнью и жизнью моей семьи, что не нарушу печать на этом письме."
@@ -614,7 +614,7 @@ translate ru strings:
     new "Печать Норманди была нетронутой и крепкой."
 
     old "It weighed heavy in her hand."
-    new "Он тяжело лежал в её руке."
+    new "Оно тяжело лежало в её руке."
 
     old "Thank you for delivering this message. Consider your oath fulfilled."
     new "Спасибо за доставку этого послания. Считайте вашу клятву исполненной."

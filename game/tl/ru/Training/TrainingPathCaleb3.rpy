@@ -50,7 +50,7 @@ translate ru strings:
     new "Думаю, она просто прирождённый боец. Скоро ни у кого из нас не будет шансов."
 
     old "Sarah felt herself start to glow at the avalanche of compliments."
-    new "Сара почувствовала, как сияет от града комплиментов."
+    new "Сара почувствовала, как засияла от града комплиментов."
 
     old "She tried to wave them away and remain humble."
     new "Она попыталась отмахнуться и остаться скромной."
@@ -293,7 +293,7 @@ translate ru strings:
     new "Вскоре она заметила, что Эфраим зашевелился."
 
     old "He crawled next to Sarah on all fours, and took his place besides her."
-    new "Он подполз на четвереньках рядом с Сарой."
+    new "Он подполз на четвереньках рядом с Сарой и устроился подле неё."
 
     old "Sarah noticed from the corners of her eyes that Ephraim had at some point taken off his clothes and was now naked."
     new "Краем глаз Сара заметила, что Эфраим где-то разделся и теперь гол."
@@ -356,7 +356,7 @@ translate ru strings:
     new "Сара знала, что Калеб близок."
 
     old "As she continued to work his shaft, she turned her eyes upwards. She found Caleb lost in pleasure, his head leaning back."
-    new "Продолжая работать над стволом, она подняла глаза. Калеб был потерян в удовольствии, голова откинута."
+    new "Продолжая работать над стволом, она подняла глаза. Калеб утопал в удовольствии, голова откинута."
 
     old "Suddenly, he leaned forward, looking down, and he met Sarah's eyes."
     new "Внезапно он наклонился, посмотрел вниз и встретился взглядом с Сарой."
@@ -383,7 +383,7 @@ translate ru strings:
     new "Голова яростно двигалась вверх-вниз, язык скользил по каждому дюйму члена."
 
     old "She noticed Ephraim had been positioned behind Caleb, his head now lodged between Caleb's rear, his tongue rimming Caleb."
-    new "Она заметила, что Эфраим оказался позади Калеба, лицом между его ягодиц, язык вылизывает Калеба."
+    new "Она заметила, что Эфраим оказался позади Калеба, лицом между его ягодицами, языком вылизывая зад Калеба."
 
     old "As Ephraim ate Caleb's ass from behind, Sarah serviced Caleb from the front."
     new "Пока Эфраим вылизывал зад Калеба, Сара обслуживала его спереди."
@@ -440,7 +440,7 @@ translate ru strings:
     new "Сара позволила глазам блуждать по его сильному, мускулистому телу, распростёртому на кровати, большой член теперь лежал безжизненно на ноге."
 
     old "She crawled over, collapsing herself next to Caleb."
-    new "Она подползла и рухнула рядом."
+    new "Она подползла и рухнула рядом с Калебом."
 
     old "She felt his strong arm wrap around her and pulling into an embrace."
     new "Она почувствовала, как его сильная рука обвила её, притягивая в объятия."
