@@ -20,16 +20,16 @@ metadata:
 
 ```bash
 # Очистить game/ в текущем проекте
-python clear_cache.py
+node clear_cache.mjs
 
 # Указать путь к игре
-python clear_cache.py /path/to/game
+node clear_cache.mjs /path/to/game
 
 # Предпросмотр — что будет удалено (без фактического удаления)
-python clear_cache.py --dry-run
+node clear_cache.mjs --dry-run
 
 # Подробный вывод каждого удалённого файла
-python clear_cache.py --verbose
+node clear_cache.mjs --verbose
 ```
 
 ## Что удаляется
@@ -62,12 +62,12 @@ python clear_cache.py --verbose
 
 ### Перевод не обновляется после редактирования .rpy
 ```bash
-python clear_cache.py --verbose
+node clear_cache.mjs --verbose
 ```
 Удаляет `.rpyc` файлы, после чего Ren'Py перекомпилирует скрипт с актуальными переводами.
 
 ## Тестирование
 
 ```bash
-python -m pytest test_clear_cache.py -v
+node --test clear_cache.test.mjs
 ```

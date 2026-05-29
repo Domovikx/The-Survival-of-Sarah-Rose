@@ -24,7 +24,7 @@ Exception: A translation for "Raza" already exists at game/tl/ru/HyralArc/HyralG
 
 ### Решение
 
-Скрипт `dedup_translations.py`:
+Скрипт `dedup_translations.mjs`:
 1. Сканирует все `.rpy` файлы в `game/tl/<lang>/`
 2. Парсит блоки `translate <lang> strings:`
 3. Находит одинаковые `old` строки в разных файлах
@@ -35,19 +35,19 @@ Exception: A translation for "Raza" already exists at game/tl/ru/HyralArc/HyralG
 
 ```bash
 # Дедупликация русского перевода (по умолчанию)
-python dedup_translations.py
+node dedup_translations.mjs
 
 # Предпросмотр (без изменений)
-python dedup_translations.py --dry-run
+node dedup_translations.mjs --dry-run
 
 # Другой язык
-python dedup_translations.py --lang de
+node dedup_translations.mjs --lang de
 
 # Указать корень проекта вручную
-python dedup_translations.py --project /path/to/game
+node dedup_translations.mjs --project /path/to/game
 
 # Подробный вывод
-python dedup_translations.py --verbose
+node dedup_translations.mjs --verbose
 ```
 
 ## Как это работает
@@ -69,7 +69,7 @@ translate ru strings:
 ```bash
 # Запуск тестов из директории скила
 cd .opencode/skills/renpy-dedup
-python -m pytest test_dedup_translations.py -v
+node --test dedup_translations.test.mjs
 ```
 
 ### Что проверяется
@@ -88,8 +88,10 @@ python -m pytest test_dedup_translations.py -v
 .opencode/skills/renpy-dedup/
 ├── SKILL.md                      # Этот файл
 ├── manifest.json                 # Манифест
-├── dedup_translations.py         # Основной скрипт
-└── test_dedup_translations.py    # Тесты
+├── dedup_translations.py         # Основной скрипт (legacy)
+├── dedup_translations.mjs        # Основной скрипт (Node.js)
+├── test_dedup_translations.py    # Тесты (legacy)
+└── dedup_translations.test.mjs   # Тесты (Node.js)
 ```
 
 ## Примечания

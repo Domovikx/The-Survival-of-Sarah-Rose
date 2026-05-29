@@ -998,7 +998,7 @@ translate ru strings:
     new "А после он брал её, как всегда."
 
     old "And she would let him, as she always did."
-    new "И она позволяла, как всегда."
+    new "And she would let him, as she always did."
 
     old "A princess. A sailor. A goblin's wife."
     new "Принцесса. Морячка. Жена гоблина."

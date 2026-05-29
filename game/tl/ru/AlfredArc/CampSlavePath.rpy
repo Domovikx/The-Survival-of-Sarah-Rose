@@ -8,7 +8,7 @@ translate ru strings:
     new "Стражи доставили её прямиком на аукционную сцену, как и было приказано."
 
     old "Sarah quickly realized she was not the first or even the last. There was a constant stream of new arrivals and processed slaves, flowing in and out of the square."
-    new "Сара быстро поняла, что она не первая и даже не последняя. Через площадь бесконечным потоком входили и выходили новые прибывшие и обработанные рабы."
+    new "Sarah quickly realized she was not the first or even the last. There was a constant stream of new arrivals and processed slaves, flowing in and out of the square."
 
     old "A practiced machine of human misery."
     new "Отработанная машина человеческих страданий."

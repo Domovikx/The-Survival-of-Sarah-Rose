@@ -14,7 +14,7 @@ translate ru strings:
     new "Наконец-то, снова дома."
 
     old "King Orwell pluts his travel bag down."
-    new "Король Орвелл ставит свою дорожную сумку на пол."
+    new "King Orwell pluts his travel bag down."
 
     old "FATHER!"
     new "ОТЕЦ!"
