@@ -5,7 +5,7 @@
 [![Steam](https://img.shields.io/badge/platform-Steam-1b2838?style=flat-square)](https://store.steampowered.com/)
 [![Перевод 100%](https://img.shields.io/badge/перевод-100%25-brightgreen?style=flat-square)](game/tl/ru/)
 
-**Русификатор The Survival of Sarah Rose** — полный перевод визуальной новеллы на русский язык. 66 464 строки диалогов, нарратива и интерфейса переведены вручную. Бесплатный проект с открытым исходным кодом. Дата последнего обновления: май 2026.
+**Русификатор The Survival of Sarah Rose** — полный перевод визуальной новеллы на русский язык. 66 212 строки диалогов, нарратива и интерфейса переведены вручную. Бесплатный проект с открытым исходным кодом. Дата последнего обновления: май 2026.
 
 [Скачать](#как-скачать-русификатор) • [Установка](#как-установить) • [Содержание перевода](#содержание-перевода) • [Скриншоты](#скриншоты) • [FAQ](#faq)
 
@@ -29,7 +29,7 @@
 
 ## Как установить
 
-1. Скопируйте папку `game/` из архива в `C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\` с заменой
+1. Скопируйте папку `game/` из архива в папку с игрой (стандартный путь через Steam: `C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\`) с заменой существующих файлов
 2. Запустите игру, в настройках выберите **Language → Russian**
 
 ---
@@ -61,16 +61,16 @@
 - **Интерфейс** — кнопки, меню, настройки
 - **Имена персонажей** — полный перечень
 
-**Итого:** 66 464 строки, **100% перевод завершён**.
+**Итого:** 66 212 строки, **100% перевод завершён**.
 
 ---
 
 ## Скриншоты
 
-![Главное меню с русским переводом — русификатор The Survival of Sarah Rose](screenshots/main_menu_russian.jpg)
-![Диалог на русском языке — локализация визуальной новеллы The Survival of Sarah Rose](screenshots/dialogue_russian_1.jpg)
-![Настройки выбора русского языка — Ren'Py русификатор](screenshots/language_settings_russian.jpg)
-![Русский перевод диалога — The Survival of Sarah Rose](screenshots/dialogue_russian_2.jpg)
+![Главное меню с русским переводом — русификатор The Survival of Sarah Rose (Ren'Py визуальная новелла)](screenshots/main_menu_russian.jpg)
+![Диалог на русском языке — локализация эротической визуальной новеллы The Survival of Sarah Rose](screenshots/dialogue_russian_1.jpg)
+![Настройки выбора русского языка в The Survival of Sarah Rose — Ren'Py русификатор](screenshots/language_settings_russian.jpg)
+![Русский перевод диалога с персонажем — The Survival of Sarah Rose фэнтези визуальная новелла](screenshots/dialogue_russian_2.jpg)
 
 ---
 
@@ -90,7 +90,7 @@
 
 ### Сколько строк переведено?
 
-66 464 строки диалогов, нарратива и интерфейса. Перевод завершён на 100%.
+66 212 строки диалогов, нарратива и интерфейса. Перевод завершён на 100%.
 
 ### Как помочь проекту?
 

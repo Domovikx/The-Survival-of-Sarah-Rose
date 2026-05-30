@@ -4,28 +4,15 @@
 
 **Документация:** https://opencode.ai/docs/agents/
 
-**Как работает:** Каждый файл — это Markdown с YAML frontmatter. Имя файла (без .md) становится именем агента.
-
+**Формат:**
 ```
 ---
 description: Что делает агент
-mode: subagent        # primary | subagent | all
-model: provider/model # опционально
-permission:
-  edit: deny
-  bash: ask
+mode: subagent
 ---
-
-Системный промпт агента...
+Системный промпт...
 ```
 
-**Виды:**
-- `primary` — основные агенты (переключаются Tab)
-- `subagent` — вызываются через `@name` или `task()`
-- `all` — может быть и тем и другим
+**Текущие агенты:** нет активных файлов агентов.
 
-**Доступные permissions:** read, edit, glob, grep, bash, task, skill, webfetch, websearch, question, lsp
-
-**Текущие агенты:**
-
-- `orchestrator` — оркестратор пакетного перевода Ren'Py
+Агент `orchestrator` определён как built-in через `task(general)` в скиле `orchestrator`. Отдельный файл агента не нужен.

@@ -7,7 +7,7 @@ description: "Извлечение текстов из оригиналов Ren'
 Запусти скрипт:
 
 ```
-python .opencode/skills/renpy-extract/extract_texts.py $ARGUMENTS
+node .opencode/skills/renpy-extract/extract_texts.mjs $ARGUMENTS
 ```
 
 Режимы:
