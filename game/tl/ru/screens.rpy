@@ -3,11 +3,26 @@
 
 translate ru strings:
 
+    old "{#auto_page}A"
+    new "{#auto_page}А"
+
+    old "{#file_time}%A, %B %d %Y, %H:%M"
+    new "{#file_time}%A, %B %d %Y, %H:%M"
+
+    old "{#quick_page}Q"
+    new "{#quick_page}Q"
+
     old "<"
     new "<"
 
     old ">"
     new ">"
+
+    old "▸"
+    new "▸"
+
+    old "Русский"
+    new "Русский"
 
     old "About"
     new "О игре"
@@ -293,19 +308,4 @@ translate ru strings:
 
     old "Yes"
     new "Да"
-
-    old "{#auto_page}A"
-    new "{#auto_page}А"
-
-    old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}%A, %B %d %Y, %H:%M"
-
-    old "{#quick_page}Q"
-    new "{#quick_page}Л"
-
-    old "Русский"
-    new "Русский"
-
-    old "▸"
-    new "▸"
 

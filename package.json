@@ -1,0 +1,14 @@
+{
+  "name": "tssr-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "extract": "node .opencode/skills/renpy-extract/extract_texts.mjs extract",
+    "extract-builtins": "node .opencode/skills/renpy-extract/extract_texts.mjs extract-builtins",
+    "verify": "node .opencode/skills/renpy-extract/extract_texts.mjs verify",
+    "dedup": "node .opencode/skills/renpy-dedup/dedup_translations.mjs",
+    "dedup-dry": "node .opencode/skills/renpy-dedup/dedup_translations.mjs --dry-run",
+    "clearcache": "node .opencode/skills/renpy-clear-cache/clear_cache.mjs",
+    "tlstat": "node .opencode/skills/list-translation-files/list_translation_files.mjs"
+  }
+}
