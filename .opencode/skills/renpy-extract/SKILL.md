@@ -12,8 +12,8 @@ metadata:
 ## Overview
 
 Этот скил предоставляет инструменты для работы с переводами Ren'Py игр:
-1. **extract_texts.py** — извлечение текстов из оригинальных файлов в формат `translate ru strings:` (old/new)
-2. **split_translations.py** — декомпозиция переводов на части
+1. **extract_texts.mjs** — извлечение текстов из оригинальных файлов в формат `translate ru strings:` (old/new)
+2. **split_translations.mjs** — декомпозиция переводов на части
 
 ## Структура данных
 
@@ -47,14 +47,14 @@ game/tl/ru/
 └── misc_strings.rpy     # Имена персонажей + define строки
 ```
 
-## extract_texts.py
+## extract_texts.mjs
 
 ### Использование
 
 ```bash
-python extract_texts.py extract    # Извлечение текстов
-python extract_texts.py verify     # Проверка целостности
-python extract_texts.py stats      # Статистика переводов
+node extract_texts.mjs extract      # Извлечение текстов
+node extract_texts.mjs verify       # Проверка целостности
+node extract_texts.mjs stats        # Статистика переводов
 ```
 
 ### Выходной формат
@@ -120,16 +120,16 @@ translate ru strings:
 ## Workflow
 
 ```
-1. python extract_texts.py extract   → Извлечение всех текстов в game/tl/ru/
+1. node extract_texts.mjs extract      → Извлечение всех текстов в game/tl/ru/
 2. Переводчики редактируют new "..." в файлах арк
-3. python extract_texts.py verify    → Проверка прогресса
-4. Запуск dedup при необходимости    → dedup_translations.py
+3. node extract_texts.mjs verify       → Проверка прогресса
+4. Запуск dedup при необходимости      → node dedup_translations.mjs
 ```
 
 ## Проверка консистентности
 
 ```bash
-python extract_texts.py verify
+node extract_texts.mjs verify
 ```
 
 Выводит:
