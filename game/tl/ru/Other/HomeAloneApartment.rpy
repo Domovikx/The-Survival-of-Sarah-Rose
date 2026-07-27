@@ -199,9 +199,6 @@ translate ru strings:
     old "The sweet hints of ripe fruit washed away the vile and bitter wine from before."
     new "Сладкие нотки спелых фруктов смыли мерзкий привкус прежнего вина."
 
-    old "Gods."
-    new "Боги."
-
     old "She couldn't help but say it out loud."
     new "Она не сдержалась и произнесла это вслух."
 

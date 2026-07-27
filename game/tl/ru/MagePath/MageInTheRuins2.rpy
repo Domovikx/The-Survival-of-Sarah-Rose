@@ -3136,9 +3136,6 @@ translate ru strings:
     old "Break free"
     new "Вырваться"
 
-    old "Try to reason with them"
-    new "Попытаться договориться с ними"
-
     old "Sarah resisted the urge to escape."
     new "Сара подавила желание сбежать."
 

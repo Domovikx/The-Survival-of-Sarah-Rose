@@ -505,9 +505,6 @@ translate ru strings:
     old "Hestitantly and slowly, he pressed the tip of his hard-again cock, up against her sex."
     new "Нерешительно и медленно он прижал кончик своего снова затвердевшего члена к её лону."
 
-    old "Aah..."
-    new "Аах..."
-
     old "Sarah softly moaned at the sudden sensation."
     new "Сара тихо застонала от внезапного ощущения."
 
@@ -555,9 +552,6 @@ translate ru strings:
 
     old "A minute, then two, then-"
     new "Минута, затем две, затем-"
-
-    old "Aaah!!!"
-    new "Ааах!!!"
 
     old "Marius groaned against, and Sarah could feel him swelling up inside her, pressing her insides apart."
     new "Мариус снова застонал, и Сара почувствовала, как он разбухает внутри неё, раздвигая её внутренности."

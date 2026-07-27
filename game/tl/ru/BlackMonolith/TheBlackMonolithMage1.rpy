@@ -49,9 +49,6 @@ translate ru strings:
     old "Around her, only the abandoned ruin of the house. Nothing else."
     new "Вокруг неё — лишь заброшенные руины дома. Больше ничего."
 
-    old "And still..."
-    new "И всё же..."
-
     old "Still she felt something acting on her. Drawing her."
     new "Всё ещё она чувствовала, как что-то воздействует на неё. Притягивает."
 

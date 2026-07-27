@@ -514,14 +514,14 @@ translate ru strings:
     old "If you thought the guards were bad today, you ain't seen nothing yet."
     new "Если ты думаешь, что сегодня стража была плоха, ты ещё ничего не видела."
 
-    old "They're gonna park an army on every market in Lethram for a month."
-    new "Они разместят армию на каждом рынке Летрема на месяц."
+    old "They're gonna park an army on every market in Lethram for a week."
+    new "Они разместят армию на каждом рынке Летрема на неделю."
 
     old "Sarah watched Alaric."
     new "Сара смотрела на Аларика."
 
-    old "So we can't make any money for a month..."
-    new "Значит, мы не можем зарабатывать месяц..."
+    old "So we can't make any money for a while..."
+    new "Значит, мы не сможем зарабатывать какое-то время..."
 
     old "Or at least, not how we used to do it."
     new "Или по крайней мере не так, как раньше."

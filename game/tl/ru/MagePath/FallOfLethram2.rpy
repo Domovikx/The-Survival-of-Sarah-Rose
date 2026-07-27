@@ -1063,9 +1063,6 @@ translate ru strings:
     old "We need to get on this ship, now!"
     new "Нам нужно попасть на этот корабль, сейчас же!"
 
-    old "But what about-"
-    new "Но как же-"
-
     old "Now!"
     new "Сейчас!"
 
@@ -1681,9 +1678,6 @@ translate ru strings:
     old "With a huff, Sarah continued to strip, throwing the last of her clothes aside."
     new "Фыркнув, Сара продолжила раздеваться, отбросив последнюю одежду."
 
-    old "Better."
-    new "Так-то лучше."
-
     old "Alaric stepped into the room and let the door fall close."
     new "Аларик шагнул в комнату и позволил двери закрыться."
 
@@ -1800,9 +1794,6 @@ translate ru strings:
 
     old "The love he did feel."
     new "Любовь, которую он чувствовал."
-
-    old "A wicked grin came over his face."
-    new "Злая ухмылка появилась на его лице."
 
     old "You're good for something, at least."
     new "Ты на что-то годишься, по крайней мере."

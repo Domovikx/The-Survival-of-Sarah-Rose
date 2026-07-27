@@ -655,9 +655,6 @@ translate ru strings:
     old "Who...who are you?"
     new "Кто... кто вы?"
 
-    old "He smiled again."
-    new "Он снова улыбнулся."
-
     old "An old friend of your father."
     new "Старый друг вашего отца."
 

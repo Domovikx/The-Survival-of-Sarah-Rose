@@ -460,9 +460,6 @@ translate ru strings:
     old "Spirit...it's me...Sarah..."
     new "Дух... это я... Сара..."
 
-    old "At first, nothing."
-    new "Сначала ничего."
-
     old "But then, slowly, as it had before, the mist began to swirl and dance forth from the flask."
     new "Но затем, медленно, как и прежде, туман начал кружиться и танцевать, вытекая из колбы."
 
@@ -621,9 +618,6 @@ translate ru strings:
 
     old "But no sooner had she placed the feeling, then that it began to change. A firmer, stronger push slid across her lower back, following the course of her spine up to her neck."
     new "Но не успела она определить это ощущение, как оно начало меняться. Более твёрдое, более сильное давление скользнуло по её пояснице, следуя вдоль позвоночника к шее."
-
-    old "What..."
-    new "Что..."
 
     old "What is this feeling?"
     new "Что это за чувство?"
