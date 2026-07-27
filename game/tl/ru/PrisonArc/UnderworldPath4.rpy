@@ -22,327 +22,501 @@ translate ru strings:
     old "She couldn't make out what they were saying, but it was the tone that made her heart skip."
     new "Она не могла разобрать, что они говорят, но сердце её ёкнуло от их тона."
 
-    old "Sarah knew how soldiers and guards sounded, their authoritative tone."
-    new "Сара знала, как звучат солдаты и стража — их властный тон."
+    old "Sarah knew how soldiers and guards sounded, their harsh voices."
+    new "Сара знала, как звучат солдаты и стража, их грубые голоса."
 
-    old "Run"
-    new "Бежать"
+    old "Stay"
+    new "Остаться"
 
-    old "Hide"
-    new "Спрятаться"
+    old "The guards were already too close. She was wearing nothing at all."
+    new "Стража была уже слишком близко. На ней совсем ничего не было."
 
-    old "There was nowhere to go. If she made a run for it, they'd surely catch her."
-    new "Бежать было некуда. Если она попытается сбежать, её точно поймают."
+    old "If she tried to run, it would only look worse."
+    new "Если бы она попыталась бежать, это бы только усугубило положение."
 
-    old "Sarah laid back down in the bed and pulled the covers over herself."
-    new "Сара снова легла в кровать и натянула на себя одеяло."
+    old "The best thing she could hope to do was try to convince them."
+    new "Лучшее, на что она могла надеяться, — попытаться убедить их."
 
-    old "As she laid, trembling, she heard the sounds of the footsteps drawing closer."
-    new "Лёжа и дрожа, она слышала, как звуки шагов приближаются."
+    old "Hard sounds of metal boots on brick grew louder as the guards neared."
+    new "Тяжёлый звук металлических сапог по кирпичу становился громче по мере приближения стражи."
 
-    old "Their heavy, coarse voices."
-    new "Их тяжёлые, грубые голоса."
+    old "Sarah did her best to cover herself up with the blanket, what little dignity she could attempt."
+    new "Сара изо всех сил пыталась укрыться одеялом — хоть какое-то подобие достоинства."
 
-    old "They're here somewhere!"
-    new "Они где-то здесь!"
+    old "Then the first turned the corner."
+    new "Тут первый свернул за угол."
 
-    old "Tear up everything if you have to!"
-    new "Разнесите всё, если придётся!"
+    old "There's the wench!"
+    new "А вот и девка!"
 
-    old "Sarah heard men begin to smash crates."
-    new "Сара слышала, как мужчины начали крушить ящики."
+    old "He had a rough face, scars from pox fever, not uncommon in a dock city like Lethram."
+    new "У него было грубое лицо, шрамы после оспенной лихорадки — не редкость в портовом городе вроде Летрема."
 
-    old "The violent sounds grew louder and louder as they came nearer."
-    new "Резкие звуки становились всё громче по мере их приближения."
+    old "His voice was even harder."
+    new "Голос его был ещё суровее."
 
-    old "Sir!"
-    new "Сэр!"
+    old "More guards rounded the corner."
+    new "Ещё стражники завернули за угол."
 
-    old "Sarah could hear his voice so close, as if he was right next to her."
-    new "Сара слышала его голос так близко, будто он стоял рядом с ней."
+    old "Sarah could see running would be pointless now. They had her cornered."
+    new "Сара поняла, что бежать теперь бессмысленно. Они загнали её в угол."
 
-    old "She felt her heart pounding in her chest."
-    new "Она чувствовала, как сердце колотится в груди."
+    old "The best she could hope was to talk her way out of this."
+    new "Лучшее, на что она могла надеяться, — выкрутиться разговором."
 
-    old "This had been a mistake."
-    new "Это было ошибкой."
+    old "That's the cunt that's been bleedin the markets dry."
+    new "Это та самая сука, что обчистила все рынки."
 
-    old "There's a tent here!"
-    new "Здесь палатка!"
+    old "Watch your tone with me!"
+    new "Попридержи язык!"
 
-    old "The sounds of more plated boots, drawing closer."
-    new "Звуки латных сапог, приближающихся."
+    old "She saw a cruel smile on his face."
+    new "Она увидела жестокую улыбку на его лице."
 
-    old "Sarah pulled the cover over herself as if it might offer some protection."
-    new "Сара натянула одеяло на себя, словно оно могло бы её защитить."
+    old "He seemed to understand well enough who had the power in this situation."
+    new "Он, похоже, отлично понимал, у кого в этой ситуации власть."
 
-    old "A brief few seconds more, before they'd catch her."
-    new "Ещё несколько мгновений — и они поймают её."
+    old "Listen, bitch, you'll be before a judge by day's end."
+    new "Слушай, сука, к концу дня ты будешь перед судьёй."
 
-    old "Good work. Rip this apart!"
-    new "Отлично. Разорвите это!"
+    old "He reached over and pulled away the blanket that Sarah had been using for a small degree of modesty."
+    new "Он протянул руку и сорвал одеяло, которым Сара пыталась прикрыть свою наготу."
 
-    old "Sarah heard them tearing away the thin fabric that made up her tent. What now passed for a home."
-    new "Сара слышала, как они разрывают тонкую ткань, из которой состояла её палатка. То, что теперь сходило за дом."
+    old "Sarah felt her face flush red with shame."
+    new "Сара почувствовала, как её лицо залилось краской стыда."
 
-    old "She remained still, trembling under the covers."
-    new "Она оставалась неподвижной, дрожа под одеялом."
+    old "The men's greedy, leering eyes, full of cruelty."
+    new "Жадные, похотливые глаза мужчин, полные жестокости."
 
-    old "Girl, the game is up."
-    new "Девчонка, игра окончена."
+    old "And there was little to be done about it."
+    new "И с этим ничего нельзя было поделать."
 
-    old "Crawl out from under there before I make my men drag you out."
-    new "Вылезай оттуда, пока я не заставлю своих людей вытащить тебя."
+    old "You have me mistaken for someone else."
+    new "Вы принимаете меня за кого-то другого."
 
-    old "Sarah slowly pulled the covers away."
-    new "Сара медленно откинула одеяло."
+    old "Nah, I don't think so girly."
+    new "Не-а, я так не думаю, девонька."
 
-    old "Sir..."
-    new "Сэр..."
+    old "Now like I saids, you gon be before a judge by day's end."
+    new "Как я и сказал, к концу дня ты будешь перед судьёй."
 
-    old "I didn't do anything, I was just sleeping here, I swear that I-"
-    new "Я ничего не делала, я просто спала здесь, клянусь, я-"
+    old "Only question is what state you gon be in when we delivers you to em."
+    new "Вопрос только в том, в каком состоянии мы тебя к нему доставим."
 
-    old "Spare me the excuses, rat."
-    new "Избавь меня от оправданий, крыса."
+    old "So you wanna keep that pretty mouth? I suggest you stop givin us lip."
+    new "Так что хочешь сохранить этот хорошенький ротик? Советую перестать препираться."
 
-    old "He snapped his fingers."
-    new "Он щёлкнул пальцами."
+    old "There were rules and laws in Lethram...but the city guard was not without its freedom to deal with problems in their own way."
+    new "В Летреме были правила и законы...но городская стража имела полную свободу разбираться с проблемами по-своему."
 
-    old "Grab her! And put the irons on her, I don't want her running away."
-    new "Хватайте её! И закуйте в кандалы, я не хочу, чтобы она сбежала."
+    old "Alaric had told her plenty about their cruelties."
+    new "Аларик много рассказывал ей об их жестокости."
 
-    old "The guards loomed large in front of her."
-    new "Стража нависла перед ней."
+    old "The guards were often worse than the criminals they kept in line."
+    new "Стража часто была хуже преступников, которых они держали в узде."
 
-    old "Sarah tried to move, but she was too slow."
-    new "Сара попыталась двинуться, но была слишком медлительна."
+    old "Stay silent"
+    new "Хранить молчание"
 
-    old "She could feel their grips close around her wrist, holding her down."
-    new "Она чувствовала, как их хватка сжимается вокруг её запястья, удерживая её."
+    old "Sarah stared back at the guards."
+    new "Сара ответила страже взглядом."
 
-    old "Hands, covered in armor, closed around her mouth."
-    new "Руки, покрытые бронёй, сомкнулись вокруг её рта."
+    old "But she held her tongue. It would buy her no advantage to taunt them now."
+    new "Но она прикусила язык. Дразнить их сейчас было бы невыгодно."
 
-    old "She tried to scream, but it was no use."
-    new "Она попыталась закричать, но это было бесполезно."
+    old "Good girl, smarter than you look."
+    new "Умница, умнее, чем кажешься."
 
-    old "For a moment, she twisted and wrung her body, hoping to break free, but then they pulled and twisted her arm, pinning it on her back."
-    new "Мгновение она извивалась, надеясь вырваться, но затем они дёрнули и вывернули ей руку, заломив её за спину."
+    old "He reached out, grabbing her by her upper arm."
+    new "Он протянул руку и схватил её за плечо."
 
-    old "With unstoppable force, Sarah felt herself pinned up against the ground."
-    new "С неудержимой силой Сару прижали к земле."
+    old "Come along, you best keep pace."
+    new "Пошли, лучше не отставай."
 
-    old "Struggle some more and I'll break you arm, rat!"
-    new "Будешь ещё вырываться — сломаю тебе руку, крыса!"
+    old "He began to drag her, and Sarah could do little else but follow."
+    new "Он потащил её, и Саре ничего не оставалось, кроме как последовать."
 
-    old "She could feel the breath escape her lungs as he pushed her harder up against the wall."
-    new "Она чувствовала, как воздух покидает лёгкие, когда он сильнее прижал её к стене."
+    old "Try to reason with them"
+    new "Попытаться договориться с ними"
 
-    old "They're gonna hang you for this, thief."
-    new "Тебя за это повесят, воровка."
+    old "There had to be something she could do or say."
+    new "Должен же быть хоть что-то, что она могла сделать или сказать."
 
-    old "Sarah wanted to scream. Cry. Beg."
-    new "Саре хотелось кричать. Плакать. Умолять."
+    old "Look, if you would just listen then-"
+    new "Послушайте, если бы вы только выслушали-"
 
-    old "But she could do none of it."
-    new "Но она не могла сделать ничего из этого."
+    old "Sarah felt the air rush from her lungs as she collapsed to the ground."
+    new "Сара почувствовала, как воздух вырвался из лёгких, когда она рухнула на землю."
 
-    old "She prayed Alaric would save her again, but this time, he was nowhere to be found."
-    new "Она молилась, чтобы Аларик снова спас её, но на этот раз его нигде не было."
+    old "Only when her knees hit the hard cobblestone did she realize what had happened."
+    new "Только когда её колени ударились о твёрдый булыжник, она поняла, что произошло."
 
-    old "She heard the sounds of metal boots stomping against the ground."
-    new "Она слышала звуки металлических сапог, топающих по земле."
+    old "He had punched her, hard, in her stomach."
+    new "Он ударил её кулаком, сильно, в живот."
 
-    old "Around the corner, more and more guards rushed in."
-    new "Из-за угла вбегало всё больше и больше стражников."
+    old "The guard towered over her."
+    new "Стражник навис над ней."
 
-    old "From the corner of her eyes, Sarah could spot them. Too many to count."
-    new "Краем глаза Сара видела их. Слишком много, чтобы сосчитать."
+    old "You want another?"
+    new "Хочешь ещё?"
 
-    old "Even if Alaric came for her now, he'd just be cut down."
-    new "Даже если бы Аларик пришёл за ней сейчас, его бы просто зарубили."
+    old "Sarah struggled to breathe again."
+    new "Сара с трудом снова начала дышать."
 
-    old "It was over."
-    new "Всё было кончено."
+    old "Give any more lip and I'll give you a real bruisin."
+    new "Ещё хоть слово — и я так отделаю, мало не покажется."
 
-    old "Sarah felt a hood pulled over her head."
-    new "Сара почувствовала, как ей на голову натянули капюшон."
+    old "Got it?"
+    new "Уяснила?"
 
-    old "Ropes slipped through her wrists, binding her arms, then her legs."
-    new "Верёвки скользнули по её запястьям, связывая руки, затем ноги."
+    old "Sarah couldn't speak, she just nodded."
+    new "Сара не могла говорить, она просто кивнула."
 
-    old "Before long, she couldn't move. See. Even the sound around her were muted."
-    new "Вскоре она не могла пошевелиться. Видеть. Даже звуки вокруг приглушились."
+    old "Seduce them"
+    new "Соблазнить их"
 
-    old "The only thing she could hear were their taunts and threats."
-    new "Единственное, что она могла слышать, — их насмешки и угрозы."
+    old "They were cruel men...but men still."
+    new "Они были жестокими людьми...но всё же мужчинами."
 
-    old "She could feel more hands close around her body as they began to move her."
-    new "Она чувствовала, как новые руки смыкаются вокруг её тела, когда они начали перемещать её."
+    old "Maybe she could play to their base nature."
+    new "Может, сыграть на их низменной природе."
 
-    old "Sarah had no way to fight them, all she could do was let herself be taken by them."
-    new "У Сары не было способа бороться с ними — всё, что она могла, это позволить им забрать себя."
+    old "I'm sure there has been some misunderstanding here."
+    new "Я уверена, здесь какое-то недоразумение."
 
-    old "They kept the hood over her head for long enough that Sarah began to doubt what time it was."
-    new "Они держали капюшон на её голове так долго, что Сара начала сомневаться, который час."
+    old "But I don't think there is anything that require us involving a judge..."
+    new "Но не думаю, что есть что-то, что требует вмешательства судьи..."
 
-    old "Hours? She wasn't sure."
-    new "Часы? Она не была уверена."
+    old "I'm sure that we could...work something out."
+    new "Я уверена, мы могли бы...кое-как договориться."
 
-    old "They had sat her down somewhere, but nobody told her anything. There was only the darkness."
-    new "Её где-то усадили, но никто ничего ей не говорил. Была лишь тьма."
+    old "The man with the scars, not bright, was still the brightest of the bunch and caught on first."
+    new "Мужчина со шрамами, не блещущий умом, всё же был самым сообразительным из троицы и понял первым."
 
-    old "After hours more, finally, the hood was pulled off."
-    new "Ещё через несколько часов капюшон наконец сняли."
+    old "A wicked grin came over his face."
+    new "Злая ухмылка появилась на его лице."
 
-    old "For a moment, Sarah tried to process."
-    new "Мгновение Сара пыталась осмыслить происходящее."
+    old "Girly, that's about the first clever thing that came outa that mouth of yours."
+    new "Девонька, это, пожалуй, первая умная вещь, что слетела с твоего язычка."
 
-    old "Not only was it the sudden light, but also the room itself. She'd never been here before. It all seemed so alien to her."
-    new "Дело было не только во внезапном свете, но и в самой комнате. Она никогда здесь не была. Всё казалось ей таким чуждым."
+    old "He nudged the other two guards."
+    new "Он подтолкнул двух других стражников."
 
-    old "A man sat opposite of her. The man that had removed the hood."
-    new "Напротив неё сидел мужчина. Тот самый, что снял капюшон."
+    old "Girly is offerin to pay her debts to society the old fashioned way."
+    new "Девонька предлагает оплатить долги перед обществом по старинке."
 
-    old "His attitude and the adornments on his armor told her he was important."
-    new "Его осанка и украшения на доспехах говорили ей, что он важная персона."
+    old "Sarah did her best to look brave, even as the three guards advanced on her."
+    new "Сара изо всех сил старалась выглядеть храброй, даже когда трое стражников надвинулись на неё."
 
-    old "You're in a lot of trouble."
-    new "У тебя большие неприятности."
+    old "The cruel one gripped her wrist and pulled her along with him, further into an alcove in the alley."
+    new "Жестокий схватил её за запястье и потащил за собой, глубже в нишу переулка."
 
-    old "I...I don't know what this is about, but I promise you, this is a mistake!"
-    new "Я... я не знаю, в чём дело, но клянусь вам, это ошибка!"
+    old "More privacy, or as much as could be had in a place like this."
+    new "Побольше уединения — насколько это вообще возможно в таком месте."
 
-    old "The man reached out and slapped her across the face."
-    new "Мужчина протянул руку и ударил её по лицу."
+    old "She felt the iron from his gauntlet, roughly rubbing her skin."
+    new "Она чувствовала железо его рукавицы, грубо трущееся о её кожу."
 
-    old "Sarah felt her face begin to burn."
-    new "Сара почувствовала, как её лицо начало гореть."
+    old "Could you..."
+    new "Не могли бы вы..."
 
-    old "More than the pain of the slap was the surprise of it. Guards...these were honorable people, Sarah thought. How could they do this?"
-    new "Больше, чем боль от пощёчины, её удивило само происходящее. Стража... это же честные люди, думала Сара. Как они могли так поступить?"
+    old "He gripped her naked shoulder and pushed her down onto her knees."
+    new "Он сжал её голое плечо и толкнул её на колени."
 
-    old "Let me make something very clear to you."
-    new "Позволь мне кое-что тебе прояснить."
+    old "You ever stop yappin with that mouth? How bout you use it for somethin useful. Heard plenty from you."
+    new "Ты когда-нибудь заткнёшься? Может, используешь рот для чего-то полезного? Наслушались уже."
 
-    old "I keep the order in this part of town. I keep that order in whatever way I see fit."
-    new "Я поддерживаю порядок в этой части города. И поддерживаю его так, как считаю нужным."
+    old "On her knees, Sarah saw the three men begin to fumble at their belts."
+    new "Стоя на коленях, Сара увидела, как трое мужчин начали возиться с ремнями."
 
-    old "I act under direct authority of the city council."
-    new "Я действую под прямым руководством городского совета."
+    old "One by one, they pulled out their manhoods, clearly already swelling."
+    new "Один за другим они достали свои члены, уже заметно набухшие."
 
-    old "Thievin rats like you and your buddy disrupt that order for all the good citizens of Lethram. The law-abiding citizens."
-    new "Такие вороватые крысы, как ты и твой дружок, нарушают этот порядок для всех добропорядочных граждан Летрема. Законопослушных граждан."
+    old "She suddenly doubted she was the first woman in Lethram to escape justice this way, given how quickly the guards conceded."
+    new "Она вдруг усомнилась, что была первой женщиной в Летреме, избежавшей правосудия таким способом, — уж слишком быстро стражники согласились."
 
-    old "So, when I-"
-    new "Так что, когда я-"
+    old "The guard with the cruel face pressed his armored hand on top of her head."
+    new "Стражник с жестоким лицом надавил закованной в броню рукой на её голову."
 
-    old "Please, captain, I-"
-    new "Пожалуйста, капитан, я-"
+    old "Get to work, and you best put in some effort."
+    new "Принимайся за дело, и лучше постарайся."
 
-    old "Another smack followed, this one even more harsh than the last."
-    new "Последовала ещё одна оплеуха, на этот раз даже более жёсткая."
+    old "Before she could respond, Sarah felt him pulling her head forward."
+    new "Прежде чем она успела ответить, Сара почувствовала, как он тянет её голову вперёд."
 
-    old "You speak when spoken to. Do you understand that?!"
-    new "Ты говоришь, когда к тебе обращаются. Ты это поняла?!"
+    old "She instinctively opened her mouth and took his cock into her mouth."
+    new "Она инстинктивно открыла рот и взяла его член в рот."
 
-    old "His voice roared through the small room."
-    new "Его голос прогремел по маленькой комнате."
+    old "Larger than she expected, she felt it press apart her jaws ever so slightly."
+    new "Больше, чем она ожидала, она почувствовала, как он чуть раздвинул её челюсти."
 
-    old "Sarah struggled to suppres her instinct to cry, forcing herself to be calm."
-    new "Сара изо всех сил подавляла желание заплакать, заставляя себя быть спокойной."
+    old "No teeth. Gods, what kind of a whore are you?"
+    new "Без зубов. Боги, да что ж ты за шлюха такая?"
 
-    old "Yes...sir..."
-    new "Да... сэр..."
+    old "Sarah felt her face burn from the shame."
+    new "Сара чувствовала, как лицо горит от стыда."
 
-    old "Now, as I was saying, when I vow to do everything to protect the order in this city, I mean that."
-    new "Так вот, как я и говорил, когда я клянусь сделать всё, чтобы защитить порядок в этом городе, я имею это в виду."
+    old "Down on her knees, she was performing this shameful act on this brute of all people..."
+    new "Стоя на коленях, она выполняла этот постыдный акт с этим грубияном, из всех людей..."
 
-    old "The man cleared his throat and began to read from a sheet of paper."
-    new "Мужчина прочистил горло и начал читать с листа бумаги."
+    old "Not long ago, she could not have imagined performing such an act on a husband, much less a stranger."
+    new "Ещё недавно она не могла представить, что сделает такое даже с мужем, не то что с незнакомцем."
 
-    old "You and your co-conspirator match a description for two criminals seen operating at a nearby market."
-    new "Ты и твой сообщник подходите под описание двух преступников, замеченных на ближайшем рынке."
+    old "How quick her fortunes had turned, she realized."
+    new "Как же быстро переменилась её судьба, осознала она."
 
-    old "The witness is reliable enough, but I want to wrap this case up nice and tidy."
-    new "Свидетель достаточно надёжен, но я хочу закрыть это дело красиво и аккуратно."
+    old "He leaned forward, pressing his cock further into her throat."
+    new "Он подался вперёд, проталкивая член глубже ей в горло."
 
-    old "The man leaned in."
-    new "Мужчина наклонился."
+    old "Sarah made a soft gagging sound as he nearly reached the back of her throat."
+    new "Сара издала тихий сдавленный звук, когда он почти коснулся задней стенки её горла."
 
-    old "So listen her, girly, I know you ain't the one to blame."
-    new "Так слушай сюда, девчонка, я знаю, что ты не виновата."
+    old "Better."
+    new "Так-то лучше."
 
-    old "It was that fucking lowlife partner of yours. He got you all twisted and on the wrong path."
-    new "Это всё тот грёбаный подонок, твой подельник. Он сбил тебя с пути."
+    old "Sarah felt her eyes water as she looked up."
+    new "Сара почувствовала, как на глаза навернулись слёзы, когда она подняла взгляд."
 
-    old "You look like a good girl, a decent person. You know stealin is wrong."
-    new "Ты выглядишь хорошей девушкой, порядочным человеком. Ты же знаешь, что воровать — плохо."
+    old "She saw him looking down on her with that same cruel smile."
+    new "Она увидела, что он смотрит на неё сверху вниз с той же жестокой улыбкой."
 
-    old "The man pointed over towards the wall."
-    new "Мужчина указал на стену."
+    old "She wasn't sure if she ever hated a man this much in her life."
+    new "Она не была уверена, ненавидела ли она когда-нибудь мужчину так сильно в своей жизни."
 
-    old "Can you believe that lowlife is sitting in the room next door, trying to pin this all on you?"
-    new "Можешь поверить, что тот подонок сидит в соседней комнате и пытается свалить всё на тебя?"
+    old "And still..."
+    new "И всё же..."
 
-    old "Said you corrupted him, seduced him to do this."
-    new "Сказал, что ты развратила его, соблазнила на это."
+    old "Still she performed for him."
+    new "И всё же она старалась для него."
 
-    old "The man shook his head."
-    new "Мужчина покачал головой."
+    old "For whatever else could be said about him, he held her life in his hands."
+    new "Что бы о нём ни говорили, он держал её жизнь в своих руках."
 
-    old "Disgusting what they'll say just to get out from a charge."
-    new "Отвратительно, что они говорят, лишь бы снять с себя обвинение."
+    old "This man of such small status and power...could decide her fate."
+    new "Этот человек, столь ничтожный по положению и власти...мог решать её судьбу."
 
-    old "So tell you what. You confess and testify your friend in the room over was the one with the scheme, and I'll put in a good word for you."
-    new "Вот что я скажу. Ты сознаёшься и свидетельствуешь, что твой друг из соседней комнаты был зачинщиком, и я замолвлю за тебя словечко."
+    old "What was a brief moment of humiliation if it could spare her life?"
+    new "Что значило мгновение унижения, если это могло спасти ей жизнь?"
 
-    old "I can't promise no time, but maybe just a few weeks in a labour house."
-    new "Не могу обещать, что отделаешься без срока, но, может, всего пара недель в работном доме."
+    old "So she began to move her head."
+    new "И она начала двигать головой."
 
-    old "The man leaned back in his chair."
-    new "Мужчина откинулся на спинку стула."
+    old "Slowly at first, sliding her lips across his shaft."
+    new "Сначала медленно, скользя губами по его стволу."
 
-    old "But tell you what girly, I also don't really give a fuck either which way."
-    new "Но знаешь что, девчонка, мне, если честно, плевать на всё это."
+    old "Aah..."
+    new "Аах..."
 
-    old "You say nothin, sure, we go with his testimony and we pin it all on you."
-    new "Молчишь — ладно, тогда мы используем его показания и повесим всё на тебя."
+    old "She heard him groaning approvingly."
+    new "Она услышала, как он одобрительно застонал."
 
-    old "Sarah listend as the guard captain laid out her options."
-    new "Сара слушала, как капитан стражи излагал её варианты."
+    old "Sarah added her tongue, running it along the base of his cock, pleasing him as best she could."
+    new "Сара пустила в ход язык, проводя им по основанию его члена, доставляя ему удовольствие как могла."
 
-    old "Testify against Alaric and she would be spared..."
-    new "Дать показания против Аларика, и её пощадят..."
+    old "In truth, what little she knew of these things, she had learned by pleasing Alaric."
+    new "По правде говоря, то немногое, что она знала об этом, она узнала, доставляя удовольствие Аларику."
 
-    old "But what if he was lying? What if they didn't have anything and the captain was just bluffing?"
-    new "Но что, если он лжёт? Что, если у них ничего нет и капитан просто блефует?"
+    old "But all men were the same, she thought."
+    new "Но все мужчины одинаковы, подумала она."
 
-    old "She might send Alaric to prison for no reason at all, just because she got scared."
-    new "Она могла отправить Аларика в тюрьму без всякой причины, просто потому что испугалась."
+    old "Simple creatures."
+    new "Простые создания."
 
-    old "Sarah's mind raced."
-    new "Мысли Сары метались."
+    old "Even if they did lord over her."
+    new "Даже если они и властвовали над ней."
 
-    old "Well? You got an answer for me, girly?"
-    new "Ну? У тебя есть для меня ответ, девчонка?"
+    old "As she bobbed her head up and down, she could see the other guards prodding her with their members."
+    new "Когда она двигала головой вверх-вниз, она видела, как другие стражники тыкали в неё своими членами."
 
-    old "Testify against Alaric"
-    new "Дать показания против Аларика"
+    old "Come now girly, don't forget about my mates here."
+    new "Ну же, девонька, не забывай про моих приятелей."
 
-    old "The thought of prison time, or worse, nearly made Sarah faint."
-    new "Мысль о тюремном сроке или о чём-то худшем чуть не заставила Сару упасть в обморок."
+    old "Sarah felt her face burn deeper."
+    new "Сара почувствовала, как лицо запылало ещё сильнее."
 
-    old "Whatever was the truth, she knew she was guilty. As was Alaric."
-    new "Какова бы ни была правда, она знала, что виновна. Как и Аларик."
+    old "But shame would not save her. Modesty would not save her..."
+    new "Но стыд не спасёт её. Скромность не спасёт её..."
 
-    old "Her only chance to be spared was to throw herself on the guard captain's mercy."
-    new "Единственным шансом на спасение было отдаться на милость капитана стражи."
+    old "She reached up with one hand each, grabbing the shafts of the other guards."
+    new "Она протянула обе руки, сжимая стволы остальных стражников."
 
-    old "Refuse to answer his questions"
-    new "Отказаться отвечать на его вопросы"
+    old "Sarah could hear the other two men produce groans at her touch."
+    new "Сара услышала, как двое других мужчин застонали от её прикосновения."
 
-    old "He was bluffing, Sarah was sure of it. He had nothing."
-    new "Он блефовал, Сара была в этом уверена. У него ничего не было."
+    old "She wrapped the palms of her hands around their shafts and began to stroke."
+    new "Она обхватила ладонями их стволы и начала поглаживать."
+
+    old "It was a complicated routine at first."
+    new "Сначала это был непростой ритуал."
+
+    old "To please one man with her mouth, another two with her hands."
+    new "Удовлетворять одного мужчину ртом, а двух других — руками."
+
+    old "But she learned."
+    new "Но она научилась."
+
+    old "And they gave her ample time to learn."
+    new "И они дали ей достаточно времени, чтобы научиться."
+
+    old "As she submitted herself to the guards, she did her best to try and listen to their groans and moans, hoping they would soon finish."
+    new "Отдаваясь страже, она изо всех сил старалась вслушиваться в их стоны и хрипы, надеясь, что они скоро закончат."
+
+    old "Dreading, at that same time, that they would."
+    new "И в то же время страшась этого."
+
+    old "Off in the distance, she heard some soft laughter."
+    new "Вдалеке она услышала тихий смех."
+
+    old "Oy! Keep walkin, official guard businesss!"
+    new "Эй! Проходите, дело стражников!"
+
+    old "Sarah felt a deeper shame than she had thought possible."
+    new "Сара почувствовала стыд глубже, чем считала возможным."
+
+    old "The laughter she had heard had been from a few women in the nearby market, passing by and seeing the scene..."
+    new "Смех, который она слышала, принадлежал нескольким женщинам с ближайшего рынка, проходившим мимо и видевшим эту сцену..."
+
+    old "The shame of performing the act was one thing. The shame of being seen, quite another."
+    new "Стыд от совершения этого действия был одним. Стыд от того, что тебя видят, — совсем другим."
+
+    old "Still, she kept on."
+    new "Но она продолжала."
+
+    old "She had sacrificed her dignity the moment she had proposed them...she would not stop now."
+    new "Она пожертвовала достоинством в тот момент, когда предложила им это...она не остановится сейчас."
+
+    old "One of the men let out a loud groan, and Sarah felt his cock swell in her hands."
+    new "Один из мужчин издал громкий стон, и Сара почувствовала, как его член набух у неё в руках."
+
+    old "His semen spewed out, the warmth hitting her shoulder."
+    new "Его семя выплеснулось, тепло ударило ей в плечо."
+
+    old "More debasement...this too, she would endure, she told herself."
+    new "Ещё больше унижений...и это она переживёт, сказала она себе."
+
+    old "The other two men seemed to laugh at the man that had just finished."
+    new "Двое других мужчин, казалось, смеялись над тем, кто только что кончил."
+
+    old "First time with a lass, huh?"
+    new "Первый раз с девкой?"
+
+    old "The man offered no reply, other than some grunted sounds that seemed he was dissapointed in how long he had enjoyed her."
+    new "Мужчина не ответил, лишь издал несколько ворчливых звуков — казалось, он был разочарован тем, как быстро кончил."
+
+    old "Still did her best to ignore them and their taunts."
+    new "Она всё так же старалась игнорировать их и их насмешки."
+
+    old "Instead, focussing on the two men that remained."
+    new "Вместо этого сосредоточившись на двух оставшихся мужчинах."
+
+    old "A few minutes later, the other man finished in her hand, his seed adding to the rest."
+    new "Несколько минут спустя второй мужчина кончил ей в руку, его семя добавилось к остальному."
+
+    old "The cruel guard laughed."
+    new "Жестокий стражник рассмеялся."
+
+    old "Guess I win. Now I got all your attention to myself, huh?"
+    new "Похоже, я выиграл. Теперь всё твоё внимание досталось мне, а?"
+
+    old "He yanked her hair, forcing her to look up."
+    new "Он дёрнул её за волосы, заставляя поднять взгляд."
+
+    old "Sarah's eyes spoke the hatred she could not with her mouth."
+    new "Глаза Сары выражали ненависть, которую не мог выразить её рот."
+
+    old "This only seemed to amuse him."
+    new "Это, казалось, только позабавило его."
+
+    old "Such a dignified lady, huh? Look at ya now."
+    new "Такая благородная леди, а? Взгляни-ка на себя сейчас."
+
+    old "He bucked his hips, forcing his member further down her throat."
+    new "Он двинул бёдрами, проталкивая член глубже ей в горло."
+
+    old "Again, Sarah nearly gagged on him, his size difficult to manage. But she managed."
+    new "Сара снова чуть не подавилась — с его размером было трудно справиться. Но она справилась."
+
+    old "The sounds of her wet mouth on his member, slopping, filling the sounds of the alley."
+    new "Звуки её влажного рта на его члене, хлюпанье, наполнявшее переулок."
+
+    old "It seemed to last forever."
+    new "Казалось, это длилось вечность."
+
+    old "Until finally, the last release."
+    new "Пока наконец не наступило последнее извержение."
+
+    old "She felt him grip her head, keeping it in place, as his cock swelled up in her mouth."
+    new "Она почувствовала, как он сжал её голову, удерживая на месте, пока его член набухал у неё во рту."
+
+    old "Bucking against her, he fucked her mouth as he emptied his seed into it."
+    new "Двигаясь в неё, он трахал её рот, изливая в него своё семя."
+
+    old "Sarah struggled, feeling the taste of him on her tongue, the back of her throat..."
+    new "Сара задыхалась, чувствуя его вкус на языке, в горле..."
+
+    old "There was nowhere to escape."
+    new "Бежать было некуда."
+
+    old "So she swallowed."
+    new "И она проглотила."
+
+    old "Three times in total to get all of him down, though there was still some of him left."
+    new "Три раза, чтобы проглотить всё, хотя немного ещё осталось."
+
+    old "Finally, he stepped back, letting his member slip from her mouth."
+    new "Наконец он отступил, позволив члену выскользнуть из её рта."
+
+    old "Gods, knew you were worth the trouble."
+    new "Боги, знал, что ты того стоишь."
+
+    old "She watched as they all put their members away."
+    new "Она смотрела, как они все убирают свои члены."
+
+    old "So...can I go now?"
+    new "Так...я могу идти?"
+
+    old "Go?"
+    new "Идти?"
+
+    old "Yes, I did what you asked so...let me go..."
+    new "Да, я сделала, что вы просили, так что...отпустите меня..."
+
+    old "Asked? I ain't asked you for a thing, girly."
+    new "Просили? Я тебя ни о чём не просил, девонька."
+
+    old "You offered all on your own, very kind of ya."
+    new "Ты сама предложила, очень мило с твоей стороны."
+
+    old "But we are honest men of the law, and we don't let your kind run free."
+    new "Но мы честные слуги закона и не позволяем твоему брату бегать на свободе."
+
+    old "Though we might add a charge of prostitution to your many crimes, we got three witnesses."
+    new "Хотя мы можем добавить обвинение в проституции к твоим многочисленным преступлениям — у нас есть три свидетеля."
+
+    old "He laughed loudly, and the other two guards joined in."
+    new "Он громко рассмеялся, и двое других стражников присоединились."
+
+    old "Sarah felt the surge of panic."
+    new "Сара почувствовала прилив паники."
+
+    old "She dashed away."
+    new "Она бросилась прочь."
+
+    old "But she was far too slow, and they had her cornered."
+    new "Но она была слишком медлительна, и они загнали её в угол."
+
+    old "She felt their arms closing on her limbs like vices."
+    new "Она почувствовала, как их руки сжались на её конечностях, словно тиски."
+
+    old "An impossible strength."
+    new "Нечеловеческая сила."
+
+    old "No...please...let me go!!!!"
+    new "Нет...пожалуйста...отпустите меня!!!!"
+
+    old "She screamed, even as they dragged her away."
+    new "Она закричала, даже когда они потащили её прочь."
+
+    old "It had all been for nothing."
+    new "Всё было напрасно."
 

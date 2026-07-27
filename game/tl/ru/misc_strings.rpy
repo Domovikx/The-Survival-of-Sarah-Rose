@@ -90,6 +90,12 @@ translate ru strings:
     old "Courier"
     new "Курьер"
 
+    old "Court Offical"
+    new "Придворный"
+
+    old "Court Official"
+    new "Придворный"
+
     old "Curator"
     new "Хранитель"
 
@@ -176,6 +182,9 @@ translate ru strings:
 
     old "High Priest"
     new "Верховный жрец"
+
+    old "Hugh"
+    new "Хью"
 
     old "Innkeeper"
     new "Трактирщик"
@@ -308,6 +317,9 @@ translate ru strings:
 
     old "Oryon"
     new "Орион"
+
+    old "Other man"
+    new "Другой мужчина"
 
     old "Page {}"
     new "Страница {}"

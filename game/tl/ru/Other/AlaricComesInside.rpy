@@ -358,9 +358,6 @@ translate ru strings:
     old "A rush of cold outside air."
     new "Порыв холодного уличного воздуха."
 
-    old "Stupid bitch."
-    new "Тупая сука."
-
     old "Alaric gets up behind her, his hands wrapping around her waist, cupping her ass."
     new "Аларик встаёт позади неё, его руки обхватывают её талию, сжимая ягодицы."
 

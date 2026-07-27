@@ -10,6 +10,12 @@ translate ru strings:
     old "Vaelen looks at Sarah. She sees an odd mixture of surprise and sadness in his eyes."
     new "Вэйлен смотрит на Сару. Она видит странную смесь удивления и печали в его глазах."
 
+    old "The emotions quickly fade and gave way to anger."
+    new "Эмоции быстро угасают, уступая место гневу."
+
+    old "He rises up from his desk and points towards the door."
+    new "Он встаёт из-за стола и указывает на дверь."
+
     old "Very well, Sarah. You have made your choice, and I will not keep you here against your will."
     new "Хорошо, Сара. Ты сделала свой выбор, и я не стану удерживать тебя здесь против твоей воли."
 

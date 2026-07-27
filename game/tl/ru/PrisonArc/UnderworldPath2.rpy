@@ -550,8 +550,8 @@ translate ru strings:
     old "The two ran as fast as they could, bringing their loot with them back to the alley."
     new "Они побежали так быстро, как могли, унося добычу обратно в переулок."
 
-    old "The sun was quickly setting, and by the time they came back, night had already settled in."
-    new "Солнце быстро садилось, и к тому времени, как они вернулись, уже наступила ночь."
+    old "The sun was quickly setting, and by the time they came back, the sun had begun to set."
+    new "Солнце быстро садилось, и к тому времени, как они вернулись, уже начало темнеть."
 
     old "They sat back down at Alaric's camp."
     new "Они снова сели в лагере Аларика."

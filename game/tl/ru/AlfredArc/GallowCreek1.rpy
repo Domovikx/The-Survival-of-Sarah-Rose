@@ -3184,9 +3184,6 @@ translate ru strings:
     old "Sarah felt the world spin about herself."
     new "Сара чувствовала, как мир кружится вокруг неё."
 
-    old "Run away"
-    new "Сбежать"
-
     old "Sarah didn't think."
     new "Сара не думала."
 
@@ -3336,9 +3333,6 @@ translate ru strings:
 
     old "Let it be over with, she thought to herself."
     new "Пусть это скорее закончится, подумала она про себя."
-
-    old "Get on all fours, now."
-    new "Встань на четвереньки, сейчас же."
 
     old "And again, Sarah found herself obeying the man as if he were already her husband."
     new "И снова Сара обнаружила, что подчиняется мужчине, словно он уже был её мужем."

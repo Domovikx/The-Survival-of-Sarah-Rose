@@ -640,9 +640,6 @@ translate ru strings:
     old "No matter what, you cannot tell him you know this."
     new "Что бы ни случилось, ты не можешь говорить ему, что знаешь это."
 
-    old "Or what?"
-    new "Или что?"
-
     old "Or he will kill you."
     new "Или он убьёт тебя."
 

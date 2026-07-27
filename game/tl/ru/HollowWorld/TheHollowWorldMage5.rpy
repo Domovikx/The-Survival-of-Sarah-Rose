@@ -229,9 +229,6 @@ translate ru strings:
     old "You're going to try and tell me your sob story of a life that led you to trying to rape me in an alley?"
     new "Ты собираешься рассказывать мне свою душещипательную историю жизни, которая привела тебя к попытке изнасиловать меня в переулке?"
 
-    old "Alaric grinned."
-    new "Аларик усмехнулся."
-
     old "Fine, don't listen then."
     new "Ладно, тогда не слушай."
 
