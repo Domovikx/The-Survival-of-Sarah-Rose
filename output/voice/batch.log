@@ -1,0 +1,141 @@
+23:02:18 фраз к генерации: 9 (lang=ru, force=False)
+23:02:18   443c3e95 | Other | Narrator | The Survival of Sarah Rose (Выживание Сары Роуз) — эпическая
+23:02:18   70cf919c | Other | Narrator | Впереди вас ждёт игра, которая ещё в процессе разработки.
+23:02:18   3c3f10fe | Other | Narrator | TSSR разворачивается в тёмном фэнтези-мире.
+23:02:18   fccc1390 | Other | Narrator | Показанные в ней события и истории, хотя и вымышленные, могу
+23:02:18   5b871d8c | Prologue | Narrator | Король Орвелл вернулся из своего путешествия по провинциям Р
+23:02:18   484ea304 | Prologue | Narrator | Он входит в большой зал замка Рейнмир, а следом за ним влета
+23:02:18   8682f203 | Prologue | King Orwell Rose | Наконец-то, снова дома.
+23:02:18   9516eb40 | Prologue | Narrator | Король Орвелл ставит свою дорожную сумку на пол.
+23:02:18   827d46ec | Prologue | Sarah | ОТЕЦ!
+23:02:36 фраз к генерации: 9 (lang=ru, force=False)
+23:02:36   443c3e95 | Other | Narrator | The Survival of Sarah Rose (Выживание Сары Роуз) — эпическая
+23:02:36   70cf919c | Other | Narrator | Впереди вас ждёт игра, которая ещё в процессе разработки.
+23:02:36   3c3f10fe | Other | Narrator | TSSR разворачивается в тёмном фэнтези-мире.
+23:02:36   fccc1390 | Other | Narrator | Показанные в ней события и истории, хотя и вымышленные, могу
+23:02:36   5b871d8c | Prologue | Narrator | Король Орвелл вернулся из своего путешествия по провинциям Р
+23:02:36   484ea304 | Prologue | Narrator | Он входит в большой зал замка Рейнмир, а следом за ним влета
+23:02:36   8682f203 | Prologue | King Orwell Rose | Наконец-то, снова дома.
+23:02:36   9516eb40 | Prologue | Narrator | Король Орвелл ставит свою дорожную сумку на пол.
+23:02:36   827d46ec | Prologue | Sarah | ОТЕЦ!
+23:02:36 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:02:51 model loaded in 14.4s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:02:51 [1/9] 443c3e95 Other Narrator: The Survival of Sarah Rose (Выживание Сары Роуз) — эпическая
+23:04:16   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\ai_voice\ru\Other\443c3e95006c7822dc5e6f288f031c46.wav (9.0s), eta ~11 мин
+23:04:16 [2/9] 70cf919c Other Narrator: Впереди вас ждёт игра, которая ещё в процессе разработки.
+23:05:10   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\ai_voice\ru\Other\70cf919c82f3990320f281dbf51b4cf9.wav (4.2s), eta ~8 мин
+23:05:10 [3/9] 3c3f10fe Other Narrator: TSSR разворачивается в тёмном фэнтези-мире.
+23:05:50   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\ai_voice\ru\Other\3c3f10fe6357401bfe1a3a2522a53efd.wav (2.8s), eta ~6 мин
+23:05:50 [4/9] fccc1390 Other Narrator: Показанные в ней события и истории, хотя и вымышленные, могу
+23:06:52   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\ai_voice\ru\Other\fccc1390f3432a4e1ccd77c706096ace.wav (6.5s), eta ~5 мин
+23:06:52 [5/9] 5b871d8c Prologue Narrator: Король Орвелл вернулся из своего путешествия по провинциям Р
+23:07:53   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\ai_voice\ru\Prologue\5b871d8c922b7aa8a3714f27e4cac680.wav (5.1s), eta ~4 мин
+23:07:53 [6/9] 484ea304 Prologue Narrator: Он входит в большой зал замка Рейнмир, а следом за ним влета
+23:08:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\ai_voice\ru\Prologue\484ea304d6d3927f24bf494c29d3b2f3.wav (7.3s), eta ~3 мин
+23:08:59 [7/9] 8682f203 Prologue King Orwell Rose: Наконец-то, снова дома.
+23:09:28   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\ai_voice\ru\Prologue\8682f203be4564527e50458eac9ba89c.wav (1.6s), eta ~2 мин
+23:09:28 [8/9] 9516eb40 Prologue Narrator: Король Орвелл ставит свою дорожную сумку на пол.
+23:10:21   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\ai_voice\ru\Prologue\9516eb40d65f79e4d01204a87f2cec85.wav (3.8s), eta ~1 мин
+23:10:21 [9/9] 827d46ec Prologue Sarah: ОТЕЦ!
+23:11:09   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\game\ai_voice\ru\Prologue\827d46ec48683bed0c6c2cdb34fec000.wav (0.7s), eta ~0 мин
+23:11:09 done=9 skipped=0 failed=0 total=9
+23:27:06 фраз к генерации: 2 (lang=en, force=False)
+23:27:06   443c3e95 | Other | Narrator | The Survival of Sarah Rose is an epic fantasy game. Producti
+23:27:06   827d46ec | Prologue | Sarah | FATHER!
+23:27:06 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:27:18 model loaded in 12.1s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:27:18 [1/2] 443c3e95 Other Narrator: The Survival of Sarah Rose is an epic fantasy game. Producti
+23:28:15   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\Other\443c3e95006c7822dc5e6f288f031c46.wav (5.9s), eta ~1 мин
+23:28:15 [2/2] 827d46ec Prologue Sarah: FATHER!
+23:29:00   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\Prologue\827d46ec48683bed0c6c2cdb34fec000.wav (0.6s), eta ~0 мин
+23:29:00 done=2 skipped=0 failed=0 total=2
+23:48:27 фраз к генерации: 9 (lang=ru, force=True)
+23:48:27   443c3e95 | Other | Narrator | The Survival of Sarah Rose (Выживание Сары Роуз) — эпическая
+23:48:27   70cf919c | Other | Narrator | Впереди вас ждёт игра, которая ещё в процессе разработки.
+23:48:27   3c3f10fe | Other | Narrator | TSSR разворачивается в тёмном фэнтези-мире.
+23:48:27   fccc1390 | Other | Narrator | Показанные в ней события и истории, хотя и вымышленные, могу
+23:48:27   5b871d8c | Prologue | Narrator | Король Орвелл вернулся из своего путешествия по провинциям Р
+23:48:27   484ea304 | Prologue | Narrator | Он входит в большой зал замка Рейнмир, а следом за ним влета
+23:48:27   8682f203 | Prologue | King Orwell Rose | Наконец-то, снова дома.
+23:48:27   9516eb40 | Prologue | Narrator | Король Орвелл ставит свою дорожную сумку на пол.
+23:48:27   827d46ec | Prologue | Sarah | ОТЕЦ!
+23:48:27 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:48:38 model loaded in 11.7s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:48:38 [1/9] 443c3e95 Other Narrator: The Survival of Sarah Rose (Выживание Сары Роуз) — эпическая
+23:49:49   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\443c3e95006c7822dc5e6f288f031c46.wav (9.0s), eta ~9 мин
+23:49:49 [2/9] 70cf919c Other Narrator: Впереди вас ждёт игра, которая ещё в процессе разработки.
+23:50:30   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\70cf919c82f3990320f281dbf51b4cf9.wav (4.2s), eta ~7 мин
+23:50:30 [3/9] 3c3f10fe Other Narrator: TSSR разворачивается в тёмном фэнтези-мире.
+23:51:26   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\3c3f10fe6357401bfe1a3a2522a53efd.wav (2.8s), eta ~6 мин
+23:51:26 [4/9] fccc1390 Other Narrator: Показанные в ней события и истории, хотя и вымышленные, могу
+23:52:34   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\fccc1390f3432a4e1ccd77c706096ace.wav (6.5s), eta ~5 мин
+23:52:34 [5/9] 5b871d8c Prologue Narrator: Король Орвелл вернулся из своего путешествия по провинциям Р
+23:53:36   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\5b871d8c922b7aa8a3714f27e4cac680.wav (5.1s), eta ~4 мин
+23:53:36 [6/9] 484ea304 Prologue Narrator: Он входит в большой зал замка Рейнмир, а следом за ним влета
+23:54:33   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\484ea304d6d3927f24bf494c29d3b2f3.wav (7.3s), eta ~3 мин
+23:54:33 [7/9] 8682f203 Prologue King Orwell Rose: Наконец-то, снова дома.
+23:55:28   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\8682f203be4564527e50458eac9ba89c.wav (1.6s), eta ~2 мин
+23:55:28 [8/9] 9516eb40 Prologue Narrator: Король Орвелл ставит свою дорожную сумку на пол.
+23:56:06   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\9516eb40d65f79e4d01204a87f2cec85.wav (3.8s), eta ~1 мин
+23:56:06 [9/9] 827d46ec Prologue Sarah: ОТЕЦ!
+23:56:29   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\827d46ec48683bed0c6c2cdb34fec000.wav (0.7s), eta ~0 мин
+23:56:29 done=9 skipped=0 failed=0 total=9
+23:56:46 фраз к генерации: 2 (lang=en, force=True)
+23:56:46   443c3e95 | Other | Narrator | The Survival of Sarah Rose is an epic fantasy game. Producti
+23:56:46   827d46ec | Prologue | Sarah | FATHER!
+23:56:46 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:56:58 model loaded in 12.0s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:56:58 [1/2] 443c3e95 Other Narrator: The Survival of Sarah Rose is an epic fantasy game. Producti
+00:04:56 фраз к генерации: 9 (lang=ru, force=True)
+00:04:56   443c3e95 | Other | Narrator | The Survival of Sarah Rose (Выживание Сары Роуз) — эпическая
+00:04:56   70cf919c | Other | Narrator | Впереди вас ждёт игра, которая ещё в процессе разработки.
+00:04:56   3c3f10fe | Other | Narrator | TSSR разворачивается в тёмном фэнтези-мире.
+00:04:56   fccc1390 | Other | Narrator | Показанные в ней события и истории, хотя и вымышленные, могу
+00:04:56   5b871d8c | Prologue | Narrator | Король Орвелл вернулся из своего путешествия по провинциям Р
+00:04:56   484ea304 | Prologue | Narrator | Он входит в большой зал замка Рейнмир, а следом за ним влета
+00:04:56   8682f203 | Prologue | King Orwell Rose | Наконец-то, снова дома.
+00:04:56   9516eb40 | Prologue | Narrator | Король Орвелл ставит свою дорожную сумку на пол.
+00:04:56   827d46ec | Prologue | Sarah | ОТЕЦ!
+00:04:56 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:05:07 model loaded in 11.5s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:05:07 [1/9] 443c3e95 Other Narrator: The Survival of Sarah Rose (Выживание Сары Роуз) — эпическая
+00:06:19   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\443c3e95006c7822dc5e6f288f031c46.wav (9.0s), eta ~10 мин
+00:06:19 [2/9] 70cf919c Other Narrator: Впереди вас ждёт игра, которая ещё в процессе разработки.
+00:07:28   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\70cf919c82f3990320f281dbf51b4cf9.wav (4.2s), eta ~8 мин
+00:07:28 [3/9] 3c3f10fe Other Narrator: TSSR разворачивается в тёмном фэнтези-мире.
+00:08:01   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\3c3f10fe6357401bfe1a3a2522a53efd.wav (2.8s), eta ~6 мин
+00:08:01 [4/9] fccc1390 Other Narrator: Показанные в ней события и истории, хотя и вымышленные, могу
+00:08:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\fccc1390f3432a4e1ccd77c706096ace.wav (6.5s), eta ~5 мин
+00:08:59 [5/9] 5b871d8c Prologue Narrator: Король Орвелл вернулся из своего путешествия по провинциям Р
+00:10:25   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\5b871d8c922b7aa8a3714f27e4cac680.wav (5.1s), eta ~4 мин
+00:10:25 [6/9] 484ea304 Prologue Narrator: Он входит в большой зал замка Рейнмир, а следом за ним влета
+00:11:21   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\484ea304d6d3927f24bf494c29d3b2f3.wav (7.3s), eta ~3 мин
+00:11:21 [7/9] 8682f203 Prologue King Orwell Rose: Наконец-то, снова дома.
+00:11:57   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\8682f203be4564527e50458eac9ba89c.wav (1.6s), eta ~2 мин
+00:11:57 [8/9] 9516eb40 Prologue Narrator: Король Орвелл ставит свою дорожную сумку на пол.
+00:12:55   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\9516eb40d65f79e4d01204a87f2cec85.wav (3.8s), eta ~1 мин
+00:12:55 [9/9] 827d46ec Prologue Sarah: ОТЕЦ!
+00:13:19   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\827d46ec48683bed0c6c2cdb34fec000.wav (0.7s), eta ~0 мин
+00:13:19 done=9 skipped=0 failed=0 total=9
+00:13:38 фраз к генерации: 2 (lang=en, force=True)
+00:13:38   443c3e95 | Other | Narrator | The Survival of Sarah Rose is an epic fantasy game. Producti
+00:13:38   827d46ec | Prologue | Sarah | FATHER!
+00:13:38 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:13:52 model loaded in 14.3s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:13:52 [1/2] 443c3e95 Other Narrator: The Survival of Sarah Rose is an epic fantasy game. Producti
+00:14:52   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\Other\443c3e95006c7822dc5e6f288f031c46.wav (5.9s), eta ~1 мин
+00:14:52 [2/2] 827d46ec Prologue Sarah: FATHER!
+00:15:16   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\Prologue\827d46ec48683bed0c6c2cdb34fec000.wav (0.6s), eta ~0 мин
+00:15:16 done=2 skipped=0 failed=0 total=2
+00:16:21 фраз к генерации: 54917 (lang=ru, force=False)
+00:16:21   a2ac73bb | AlfredArc | Narrator | Стражи доставили её прямиком на аукционную сцену, как и было
+00:16:21   62c6062d | AlfredArc | Narrator | Сара быстро поняла, что она не первая и даже не последняя. Ч
+00:16:21   13cee74f | AlfredArc | Narrator | Отработанная машина человеческих страданий.
+00:16:21   1f28c7b9 | AlfredArc | Narrator | Из-за подиума Сара слышит, как толпа становится громче. Она 
+00:16:21   03dfa80f | AlfredArc | Narrator | Одного за другим она видит, как рабов вытаскивают на сцену. 
+00:16:21   36e3d38d | AlfredArc | Narrator | Молодые красивые женщины и женоподобные мужчины вызывают сам
+00:16:21   3d43bbac | AlfredArc | Narrator | Сара чувствует, как цепь дёргает её, таща вперёд. Она видит,
+00:16:21   9e7ea049 | AlfredArc | Narrator | Сара не хочет представлять это унижение, и всё же она знает,
+00:16:21   d58300ce | AlfredArc | Narrator | Осталось всего два голоса, торгующихся друг против друга. Вс
+00:16:21   7f1110c4 | AlfredArc | Narrator | Цепь дёргает, и Сара не в силах сопротивляться её натяжению,
+00:16:21   ...

@@ -1,152 +1,96 @@
 ---
 name: tssr-voice
-description: Generate voice lines for The Survival of Sarah Rose using CosyVoice3 voice cloning. Supports batch generation, auto_voice ID mapping, and language switching.
+description: Generate voice lines for The Survival of Sarah Rose using CosyVoice3 voice cloning. Batch generation, uid mapping, language switching, ref cleaning and loudness normalization.
 ---
 
 # Skill: tssr-voice — Озвучка TSSR
 
-Генерация WAV для The Survival of Sarah Rose через Fun-CosyVoice3-0.5B (zero-shot voice clone).
+Генерация WAV для The Survival of Sarah Rose через Fun-CosyVoice3-0.5B (voice clone).
+Архитектура, решения и тулы — в `AGENTS.md` проекта (обязательно читать).
 
-## Структура
+## Ключевая идея: uid = md5(old)
+
+`uid = md5(old-текста, UTF-8)` — полный 32-hex, язык-независимый ключ реплики.
+`old` — исходный EN-текст из `translate ru strings:` (в рантайме = `_last_say_what`).
+
+## Рантайм-раскладка
 
 ```
+ai_voice/                    # КОРЕНЬ ПРОЕКТА (рядом с game/), не внутри game/
+  ru/{Arc}/{uid}.wav         # русская озвучка (текст = new)
+  en/{Arc}/{uid}.wav         # английская озвучка (текст = old)
 game/
-  voice/                    # Английский (default)
-    {id}.wav
-  tl/
-    ru/
-      voice/                # Русский
-        {id}.wav
+  catalog/label_arc.json     # label -> Arc (грузится voice_config.rpy)
+  voice_config.rpy           # config.auto_voice = static_auto_voice (callable)
 ```
 
-## Конфигурация
+Arc в рантайме = label-часть translation ID (`OpeningScene_92a05bc0` → `OpeningScene`)
+через `label_arc.json`. Папка вне game/ работает благодаря
+`config.searchpath.append("")` в voice_config.rpy.
 
-### auto_voice (config.auto_voice)
+## Dev-структура refs (ТРИ папки, без дублей)
 
-В `game/voice_test.rpy` или `game/options.rpy`:
-
-```renpy
-define config.auto_voice = "voice/{id}.wav"
+```
+refs/raw/{Голос}.wav(+txt)   # грязная нарезка 10с + whisper-транскрипт
+refs/voices/{Голос}.wav      # РАБОЧИЕ: вылечены + loudnorm (voices.yaml ссылается сюда)
+refs/voices_en/{Голос}.wav   # EN-рефы (сейчас временные копии RU)
 ```
 
-### Translation ID
+ПРАВИЛА ЛЕЧЕНИЯ РЕФОВ (2026-08-31, зафиксированы):
+1. «Подшипливание» источника клонируется CV3 → чистим ДО генерации:
+   `afftdn=nr=15, deesser=i=0.5, highshelf=f=8000:g=-6`
+2. Громкость всех рефов выровнена: EBU R128 loudnorm, **-16 LUFS, TP -1.5**
+   (иначе голоса «гуляли» и генерация наследовала уровень)
+Оба — в `tools/clean_refs.py` (loudnorm двухпроходный).
 
-Ren'Py генерирует ID автоматически для каждого блока диалога:
-- Формат: `{label}_{hash}` (например `start_636ae3f5`)
-- ID логируется в `voice_debug.log` через debug hook
+## Тулы
 
-## Генерация голосов
+| Тул | Назначение |
+|---|---|
+| `voice_catalog.py` | tl/ru + script.rpy → catalog/voices.json + label_arc.json (только при апдейте игры) |
+| `voice_status.py` | отчёт готово/нет голоса → catalog/missing_voices.md (заглушки) |
+| `add_candidate.py` | кандидат MP3 → raw-нарезка + txt + вылеченный реф (инкрементально) |
+| `clean_refs.py` | лечение+громкость: refs/raw → refs/voices |
+| `voice_batch.py` | батч-генерация в ai_voice/{lang}/{arc}/{uid}.wav |
+| `trim_tail_burst.py` | паттерн-трим хвостов (импортится батчем) |
 
-### Запуск (простой wrapper)
+## Генерация
 
 ```bash
 # ОБЯЗАТЕЛЬНО через venv CosyVoice
-C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_gen_simple.py \
-  --text "Фраза" \
-  --ref refs/samples_ru_cosy/Speaker.wav \
-  --out game/tl/ru/voice/{id}.wav
+C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py \
+  [--arc Prologue] [--char Sarah] [--uid uid1 uid2 ...] [--limit N]
+  [--force] [--lang ru|en] [--dry-run]
 ```
 
-### Параметры
+- Модель грузится 1 раз; resumable (существующие скипаются)
+- Победный конфиг: cross_lingual + RL, flow-temp 1.2, cfg 0.9, RAS 0.5/10/0.15, seed 42, silent-trim
+- Озвучиваются только dialogue+наррация и только персонажи из config/voices.yaml
+- Автотрим хвостов (паттерн: тишина ≥80мс → всплеск ≤500мс у конца файла)
 
-| Параметр | Описание |
-|----------|----------|
-| `--text` | Текст фразы |
-| `--ref` | Путь к референсу голоса (.wav) |
-| `--out` | Выходной файл (.wav) |
-| `--id` | Translation ID (опционально) |
-| `--seed` | Seed (default: 42) |
-| `--no-trim` | Отключить тримминг |
-
-### Настройки (победный конфиг)
-
-| Параметр | Значение | Описание |
-|----------|----------|----------|
-| `--mode` | `cross_lingual` | Режим генерации |
-| `--lang-token` | `ru` | Языковой токен |
-| `--seed` | `42` | Seed для воспроизводимости |
-| `--sampling` | `0.5,10,0.15` | RAS: top_p, top_k, tau_r |
-| `--cfg` | `0.9` | inference_cfg_rate |
-| `--flow-temp` | `1.2` | Temperature flow-диффузии |
-| `--rl` | (default) | Использовать RL веса |
-| `--tail-trim` | (default ON) | Обрезка хвоста + fade |
-| `--s16` | (default ON) | PCM 16-bit encoding |
-
-### Референсы голосов
-
-`refs/samples_ru_cosy/`:
-- `Sarah.wav` + `Sarah.txt` — Сара (17-19 принцесса)
-- `Narrator.wav` + `Narrator.txt` — Рассказчик (женский)
-- `Kate.wav` + `Kate.txt` — Кейт
-- `Marion.wav` + `Marion.txt` — Марион
-
-## Тримминг
-
-### Паттерн-трим (`trim_tail_burst.py`) — ОСНОВНОЙ
-
-Обрезает хвостовые артефакты TTS по **форме паттерна**, без учёта громкости:
-
-**Паттерн:** глубокая тишина (≥80мс) → короткий звук (≤500мс), упирающийся в конец файла = вздох/шум-артефакт, НЕ слово.
+## Добавление нового голоса
 
 ```bash
-# Один файл (in-place)
-C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/trim_tail_burst.py file.wav --in-place
-
-# Пакетный dry-run (только отчёт)
-C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/trim_tail_burst.py --dir game/tl/ru/voice/ --dry-run
-
-# Пакетный in-place
-C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/trim_tail_burst.py --dir game/tl/ru/voice/ --in-place
+# 1. Положить кандидата: voice_candidates/{Имя}/*.mp3
+# 2. Собрать нарезку + транскрипт + вылеченный реф:
+C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/add_candidate.py
+# 3. Вписать напечатанный фрагмент в config/voices.yaml (ref → refs/voices/)
+# 4. Обновить отчёт заглушек:
+python tools/voice_status.py
+# 5. Сгенерировать реплики этого персонажа:
+C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py --char "{Имя}" --limit 10
 ```
 
-### Логика тримминга
+## Диагностика
 
-1. **Найти последний не-тихий кадр** — от конца файла назад
-2. **Проверить примыкание к EOF** — всплеск должен заканчиваться в пределах 100мс от конца файла
-3. **Измерить всплеск** — если длительность ≤ 500мс → кандидат в артефакт
-4. **Проверить тишину перед всплеском** — ≥ 80мс непрерывной тишины → это артефакт
-5. **Обрезать** — файл режется до начала всплеска (тишина остаётся как естественный хвост)
-6. **Итерировать** — повторять, пока паттерн находится (до 5 раз)
-
-### Параметры
-
-| Параметр | Default | Описание |
-|----------|---------|----------|
-| `--noise-floor` | -50 dB | Порог тишины |
-| `--max-burst` | 500 ms | Макс. длина артефакта |
-| `--min-gap` | 80 ms | Мин. тишина перед артефактом |
-| `--eof-tol` | 100 ms | Допуск до конца файла |
-| `--max-tail-silence` | off | Доп. ограничение хвостовой тишины, мс |
-
-## Тестирование
-
-### Debug hook
-
-В `game/voice_test.rpy`:
-```renpy
-define config.auto_voice = "voice/{id}.wav"
-```
-
-При запуске игры логирует ID в `voice_debug.log`.
-
-### Ручной тест
-
-В игре **Ctrl+V** — проигрывает тестовый голос.
+- `voice_debug.log` (корень проекта) — каждая попытка резолва:
+  `CALL tlid=... text=... lang=... path=... loadable=...`
+- `output/voice/batch.log` — лог генерации
+- Тишина в игре → проверить: (1) нет ли стейловых `.rpyc` рядом с `voice_config.rpy`,
+  (2) `loadable=True` в debug-логе, (3) громкость Voice в настройках игры
 
 ## Известные проблемы
 
-1. **Стресс в русском языке** — cross_lingual режим может ставить неверное ударение (отЭц вместо отЕц). Решение: попробовать zero_shot или instruct2 режим.
-
-2. **Хвостовые артефакты** — вздохи/всхлипы в конце фразы. Решение: `trim_tail_burst.py` (паттерн-трим, применяется автоматически в voice_gen_simple.py).
-
-3. **FFmpeg конвертация** — если нужен OGG, конвертировать отдельно:
-   ```bash
-   ffmpeg -i input.wav -c:a libvorbis -q:a 6 output.ogg
-   ```
-
-## Workflow
-
-1. **Получить translation ID** — запустить игру, проверить `voice_debug.log`
-2. **Сгенерировать голос** — `python tools/voice_gen_simple.py --text "..." --ref refs/samples_ru_cosy/Speaker.wav --out game/tl/ru/voice/{id}.wav`
-3. **Протестировать** — запустить игру, проверить проигрывание
-4. **Повторить** для следующей фразы
+1. **Стресс в русском** — cross_lingual может ставить неверное ударение. Решение: пробовать zero_shot / instruct2.
+2. **Хвостовые артефакты** — вздохи у конца фразы → `trim_tail_burst.py` (автоматически в батче).
+3. **Забытый .rpyc** — Ren'Py грузит `.rpyc` даже без `.rpy`; старые кэши затирают конфиг (случай 2026-08-31: voice_test.rpyc переопределял auto_voice).
