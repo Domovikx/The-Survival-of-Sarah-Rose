@@ -16,9 +16,9 @@ description: Generate voice lines for The Survival of Sarah Rose using CosyVoice
 ## Рантайм-раскладка
 
 ```
-ai_voice/                    # КОРЕНЬ ПРОЕКТА (рядом с game/), не внутри game/
-  ru/{Arc}/{uid}.wav         # русская озвучка (текст = new)
-  en/{Arc}/{uid}.wav         # английская озвучка (текст = old)
+ai_voice/                          # КОРЕНЬ ПРОЕКТА (рядом с game/), не внутри game/
+  ru/{Arc}/{uid}__{variant}.wav    # русская озвучка, постфикс = имя рефа
+  en/{Arc}/{uid}__{variant}.wav    # английская озвучка (текст = old)
 game/
   catalog/label_arc.json     # label -> Arc (грузится voice_config.rpy)
   voice_config.rpy           # config.auto_voice = static_auto_voice (callable)
@@ -28,20 +28,30 @@ Arc в рантайме = label-часть translation ID (`OpeningScene_92a05bc
 через `label_arc.json`. Папка вне game/ работает благодаря
 `config.searchpath.append("")` в voice_config.rpy.
 
-## Dev-структура refs (ТРИ папки, без дублей)
+**Поиск в игре:** приоритет `{uid}__{активный вариант}.wav` (кто говорит →
+`_last_say_who.name` → `catalog/who_variant.json` → вариант из voices.yaml),
+затем фолбэк glob `{uid}*.wav` (первый по алфавиту). Сменил `ref:` в yaml →
+`python tools/voice_runtime_map.py` (или `voice_manage.py select` — он сам) →
+в игре зазвучал новый вариант. Файлы разных вариантов живут рядом,
+проигравшие просто теряют приоритет.
+
+## Dev-структура refs (ПЛОСКАЯ, без дублей)
 
 ```
-refs/raw/{Голос}.wav(+txt)   # грязная нарезка 10с + whisper-транскрипт
-refs/ready/{Голос}.wav      # РАБОЧИЕ: вылечены + loudnorm (voices.yaml ссылается сюда)
-refs/ready_en/{Голос}.wav   # EN-рефы (сейчас временные копии RU)
+refs/
+  {Голос}.wav            # АКТИВНЫЙ реф: voices.yaml ссылается сюда
+  {Голос}_{variant}.wav  # варианты для A/B (Sarah_1, Sarah_3, Sigmund_2, ...)
+voice_candidates/{Имя}/  # источники: *.mp3 (НЕ qwen_*.mp3)
 ```
 
-ПРАВИЛА ЛЕЧЕНИЯ РЕФОВ (2026-08-31, зафиксированы):
+ПРАВИЛА ЛЕЧЕНИЯ РЕФОВ (2026-09-01, зафиксированы):
 1. «Подшипливание» источника клонируется CV3 → чистим ДО генерации:
-   `afftdn=nr=15, deesser=i=0.5, highshelf=f=8000:g=-6`
+   `highpass=f=60, afftdn=nr=15, deesser=i=0.5, highshelf=f=8000:g=-6`
 2. Громкость всех рефов выровнена: EBU R128 loudnorm, **-16 LUFS, TP -1.5**
    (иначе голоса «гуляли» и генерация наследовала уровень)
-Оба — в `tools/clean_refs.py` (loudnorm двухпроходный).
+3. Фейды 30мс по краям — защита от кликов
+Всё — в `tools/clean_refs.py` (loudnorm двухпроходный), вызывается автоматически
+из `add_candidate.py` одним прогоном: `mp3 → нарезка 10с → чистка → refs/{Голос}.wav`.
 
 ## Тулы
 
@@ -49,9 +59,12 @@ refs/ready_en/{Голос}.wav   # EN-рефы (сейчас временные 
 |---|---|
 | `voice_catalog.py` | tl/ru + script.rpy → catalog/voices.json + label_arc.json (только при апдейте игры) |
 | `voice_status.py` | отчёт готово/нет голоса → catalog/missing_voices.md (заглушки) |
-| `add_candidate.py` | кандидат MP3 → raw-нарезка + txt + вылеченный реф (инкрементально) |
-| `clean_refs.py` | лечение+громкость: refs/raw → refs/ready |
-| `voice_batch.py` | батч-генерация в ai_voice/{lang}/{arc}/{uid}.wav |
+| `add_candidate.py` | MP3-кандидат → реф: нарезка 10с + чистка + loudnorm, одним прогоном (инкрементально; qwen_*.mp3 игнорируются) |
+| `clean_refs.py` | чистка рефа: highpass+afftdn+deesser+highshelf → loudnorm → фейды |
+| `voice_batch.py` | батч-генерация в ai_voice/{lang}/{arc}/{uid}__{variant}.wav; флаг `--ref` перезаписывает реф из yaml |
+| `voice_runtime_map.py` | voices.yaml + каталог → catalog/who_variant.json (кто → активный вариант; зовётся select'ом и каталогом) |
+| `levelnorm.py` | выравнивание уровня реплик -16 LUFS / TP -1.5 (loudnorm dynamic; автоматически в voice_batch, CLI `--dir ai_voice/ru` для старых) |
+| `voice_preview.py` | 3 самых длинных фразы × каждый вариант → ревью-таблица output/voice/preview_review.md |
 | `trim_tail_burst.py` | паттерн-трим хвостов (импортится батчем) |
 
 ## Генерация
@@ -60,21 +73,27 @@ refs/ready_en/{Голос}.wav   # EN-рефы (сейчас временные 
 # ОБЯЗАТЕЛЬНО через venv CosyVoice
 C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py \
   [--arc Prologue] [--char Sarah] [--uid uid1 uid2 ...] [--limit N]
-  [--force] [--lang ru|en] [--dry-run]
+  [--force] [--lang ru|en] [--dry-run] [--ref refs/{Имя}_{variant}.wav]
 ```
 
-- Модель грузится 1 раз; resumable (существующие скипаются)
+- Модель грузится 1 раз; resumable (существующие скипаются — по имени файла,
+  включая постфикс варианта, поэтому разные рефы не конфликтуют)
 - Победный конфиг: cross_lingual + RL, flow-temp 1.2, cfg 0.9, RAS 0.5/10/0.15, seed 42, silent-trim
 - Озвучиваются только dialogue+наррация и только персонажи из config/voices.yaml
+- `--ref refs/X_2.wav` — генерация конкретным вариантом БЕЗ правки yaml
+  (файлы выйдут `{uid}__X_2.wav`); yaml при этом не трогается
 - Автотрим хвостов (паттерн: тишина ≥80мс → всплеск ≤500мс у конца файла)
+- Авто-выравнивание уровня: каждый файл после сохранения прогоняется через
+  levelnorm (loudnorm dynamic -16 LUFS/TP -1.5) — CV3 гуляет на ±2-4 dB
 
 ## Добавление нового голоса
 
 ```bash
 # 1. Положить кандидата: voice_candidates/{Имя}/*.mp3
-# 2. Собрать нарезку + транскрипт + вылеченный реф:
+#    ВАЖНО: qwen_*.mp3 игнорируются (это VoiceDesign — не рефы)
+# 2. Собрать реф (нарезка+чистка+loudnorm, существующие скипаются):
 C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/add_candidate.py
-# 3. Вписать напечатанный фрагмент в config/voices.yaml (ref → refs/ready/)
+# 3. Вписать напечатанный фрагмент в config/voices.yaml (ref → refs/{Имя}.wav)
 # 4. Обновить отчёт заглушек:
 python tools/voice_status.py
 # 5. Сгенерировать реплики этого персонажа:
@@ -84,10 +103,10 @@ C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py --char "{Им�
 ## Диагностика
 
 - `voice_debug.log` (корень проекта) — каждая попытка резолва:
-  `CALL tlid=... text=... lang=... path=... loadable=...`
+  `CALL tlid=... text=... lang=... pattern=... matches=... path=...`
 - `output/voice/batch.log` — лог генерации
 - Тишина в игре → проверить: (1) нет ли стейловых `.rpyc` рядом с `voice_config.rpy`,
-  (2) `loadable=True` в debug-логе, (3) громкость Voice в настройках игры
+  (2) matches>0 в debug-логе, (3) громкость Voice в настройках игры
 
 ## Известные проблемы
 

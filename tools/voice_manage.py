@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Быстрое управление голосами: list, status, select, compare."""
+"""Быстрое управление голосами: list, status, select.
+
+A/B-сравнение теперь без отдельного тула: voice_batch.py --ref refs/{Имя}_{v}.wav
+генерит {uid}__{Имя}_{v}.wav прямо в ai_voice/ — слушаешь варианты рядом,
+победителя фиксируешь через `select`.
+"""
 
 import argparse
 import os
@@ -12,8 +17,6 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 READY = os.path.join(ROOT, 'refs')
 CANDS = os.path.join(ROOT, 'voice_candidates')
 CFG = os.path.join(ROOT, 'config', 'voices.yaml')
-AB_TEST = os.path.join(ROOT, 'tools', 'voice_ab_test.py')
-PYTHON = sys.executable
 
 
 def load_cfg():
@@ -24,6 +27,20 @@ def load_cfg():
 def save_cfg(c):
     with open(CFG, 'w', encoding='utf-8', newline='\n') as f:
         yaml.dump(c, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
+
+
+def regen_runtime_map():
+    """Перегенерирует catalog/who_variant.json (кто -> активный вариант)."""
+    try:
+        tool = os.path.join(ROOT, 'tools', 'voice_runtime_map.py')
+        r = subprocess.run([sys.executable, tool], cwd=ROOT,
+                           capture_output=True, text=True)
+        if r.returncode != 0:
+            print('  ! мапа НЕ обновлена: {}'.format(r.stderr.strip()[-200:]))
+            return False
+        return True
+    except Exception:
+        return False
 
 
 def cmd_list(_):
@@ -62,47 +79,9 @@ def cmd_select(args):
     voices[args.name]['ref'] = f"refs/{args.name}.wav"
     save_cfg(cfg)
     print(f"✓ {variant}.wav → {args.name}.wav")
+    if regen_runtime_map():
+        print("  ✓ who_variant.json обновлена — в игре зазвучит этот вариант")
     return 0
-
-
-def cmd_compare(args):
-    cfg = load_cfg()
-    voices = cfg.get('voices', {})
-    if args.name not in voices:
-        print(f"✗ '{args.name}' нет в voices.yaml")
-        return 1
-
-    # Ищем доступные варианты в refs/
-    variants = []
-    for f in sorted(os.listdir(READY)):
-        if f.startswith(f"{args.name}_") and f.endswith('.wav'):
-            variant = f[len(args.name)+1:-4]  # убираем {name}_ и .wav
-            variants.append(variant)
-
-    if not variants:
-        print(f"✗ Нет вариантов для {args.name} в refs/")
-        print(f"  Добавь рефы: refs/{args.name}_1.wav, refs/{args.name}_2.wav")
-        return 1
-
-    # Фильтруем по --refs если указаны
-    if args.refs:
-        variants = [v for v in variants if v in args.refs]
-        if not variants:
-            print(f"✗ Указанные варианты не найдены: {args.refs}")
-            return 1
-
-    print(f"Сравнение: {args.name}")
-    print(f"  Варианты: {', '.join(variants)}")
-    print(f"  Лимит: {args.limit} реплик/вариант")
-    print()
-
-    # Запускаем voice_ab_test.py
-    cmd = [PYTHON, AB_TEST, '--name', args.name, '--refs'] + variants + ['--limit', str(args.limit)]
-    if args.force:
-        cmd.append('--force')
-
-    result = subprocess.run(cmd, cwd=ROOT)
-    return result.returncode
 
 
 def cmd_status(_):
@@ -127,19 +106,11 @@ def main():
     sel.add_argument('name', help='Имя голоса (Sarah)')
     sel.add_argument('variant', help='Номер варианта (1, 3, ...)')
 
-    cmp = s.add_parser('compare', help='Сравнить варианты (A/B-тест)')
-    cmp.add_argument('name', help='Имя голоса')
-    cmp.add_argument('--refs', nargs='*', help='Какие варианты сравнивать (все по умолчанию)')
-    cmp.add_argument('--limit', type=int, default=5, help='Реплик на вариант (5)')
-    cmp.add_argument('--force', action='store_true', help='Перезаписать существующие')
-
     args = p.parse_args()
     if args.cmd == 'list':
         return cmd_list(args)
     elif args.cmd == 'select':
         return cmd_select(args)
-    elif args.cmd == 'compare':
-        return cmd_compare(args)
     elif args.cmd == 'status':
         return cmd_status(args)
     else:

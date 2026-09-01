@@ -1,6 +1,6 @@
 voices:
   Sarah:
-    ref: refs/Sarah_3.wav
+    ref: refs/Sarah.wav
     who:
     - s
     gender: F
@@ -13,6 +13,7 @@ voices:
     ref: refs/Varga.wav
     who:
     - v
+    - bsk
     gender: M
   Kate:
     ref: refs/Kate.wav
@@ -23,9 +24,9 @@ voices:
     ref: refs/Marion.wav
     who:
     - m
-    gender: F
+    gender: M
   Narrator:
-    ref: refs/Narrator_1.wav
+    ref: refs/Narrator.wav
     who:
     - narrator
     gender: F
@@ -63,7 +64,7 @@ voices:
     ref: refs/Xanthippe.wav
     who:
     - x
-    gender: M
+    gender: F
   Generic Female Mature:
     ref: refs/Generic Female Mature.wav
     who: []
@@ -81,7 +82,102 @@ voices:
     who: []
     gender: M
   Sigmund:
-    ref: refs/Sigmund_1.wav
+    ref: refs/Sigmund.wav
     who:
     - sig
+    gender: M
+  Alaric:
+    ref: refs/Alaric.wav
+    who:
+    - al
+    gender: M
+  Albert:
+    ref: refs/Albert.wav
+    who:
+    - alb
+    gender: M
+  Alfred:
+    ref: refs/Alfred.wav
+    who:
+    - alf
+    gender: M
+  Atilla:
+    ref: refs/Atilla.wav
+    who:
+    - a
+    gender: M
+  Carolyn:
+    ref: refs/Carolyn_1.wav
+    who:
+    - c
+    gender: F
+  Cassius:
+    ref: refs/Cassius.wav
+    who:
+    - cas
+    gender: M
+  Daemon:
+    ref: refs/Daemon.wav
+    who:
+    - dae
+    gender: M
+  Duke Antonio:
+    ref: refs/Duke Antonio_1.wav
+    who:
+    - ant
+    gender: M
+  Gilead:
+    ref: refs/Gilead.wav
+    who:
+    - gil
+    gender: M
+  Jaeid:
+    ref: refs/Jaeid.wav
+    who:
+    - j
+    gender: M
+  Kim:
+    ref: refs/Kim.wav
+    who:
+    - kim
+    gender: F
+  Kravel:
+    ref: refs/Kravel.wav
+    who:
+    - kr
+    gender: M
+  Marshal Edmond:
+    ref: refs/Marshal Edmond_1.wav
+    who:
+    - edm
+    gender: M
+  Metis:
+    ref: refs/Metis.wav
+    who:
+    - met
+    gender: M
+  Sakar:
+    ref: refs/Sakar.wav
+    who:
+    - sak
+    gender: M
+  Samayra:
+    ref: refs/Carolyn_1.wav
+    who:
+    - sa
+    gender: F
+  Vaelen:
+    ref: refs/Vaelen.wav
+    who:
+    - vae
+    gender: M
+  Orc:
+    ref: refs/Orc.wav
+    who:
+    - orc
+    gender: M
+  Woodland Spirit:
+    ref: refs/Woodland Spirit.wav
+    who:
+    - wsp
     gender: M

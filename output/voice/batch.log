@@ -442,3 +442,391 @@
 21:21:40 [4/45051] 1f28c7b9 AlfredArc Narrator: Из-за подиума Сара слышит, как толпа становится громче. Она 
 21:22:28   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\1f28c7b98adeb1f35a64b9d78c0b2868__Narrator.wav (7.8s), eta ~33864 мин
 21:22:28 [5/45051] 03dfa80f AlfredArc Narrator: Одного за другим она видит, как рабов вытаскивают на сцену. 
+22:21:19 фраз к генерации: 3 (lang=ru, force=False)
+22:21:19   2ed34ef2 | Other | Sarah | Этот замок, этот двор — они могут стать тем, чем вы их сдела
+22:21:19   15503bc5 | Other | Sarah | Может, ты и король, но ты также мой младший брат, и, в отлич
+22:21:19   00cc68d8 | Training | Sarah | У меня никогда не было формального обучения, и у меня нет де
+22:21:19 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+22:21:31 model loaded in 12.3s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+22:21:31 [1/3] 2ed34ef2 Other Sarah: Этот замок, этот двор — они могут стать тем, чем вы их сдела
+22:22:42   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\2ed34ef2b524286913007ab0c463ad90__Sarah_1.wav (12.1s), eta ~2 мин
+22:22:42 [2/3] 15503bc5 Other Sarah: Может, ты и король, но ты также мой младший брат, и, в отлич
+22:24:08   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\15503bc5ae4a1e0d33fc4100c634e74e__Sarah_1.wav (15.2s), eta ~1 мин
+22:24:08 [3/3] 00cc68d8 Training Sarah: У меня никогда не было формального обучения, и у меня нет де
+22:25:28   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Training\00cc68d892a6fab707b4fc852fe5ad09__Sarah_1.wav (14.1s), eta ~0 мин
+22:25:28 done=3 skipped=0 failed=0 total=3
+22:25:34 фраз к генерации: 3 (lang=ru, force=False)
+22:25:34   2ed34ef2 | Other | Sarah | Этот замок, этот двор — они могут стать тем, чем вы их сдела
+22:25:34   15503bc5 | Other | Sarah | Может, ты и король, но ты также мой младший брат, и, в отлич
+22:25:34   00cc68d8 | Training | Sarah | У меня никогда не было формального обучения, и у меня нет де
+22:25:34 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+22:25:46 model loaded in 11.9s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+22:25:46 [1/3] 2ed34ef2 Other Sarah: Этот замок, этот двор — они могут стать тем, чем вы их сдела
+22:26:56   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\2ed34ef2b524286913007ab0c463ad90__Sarah_3.wav (12.1s), eta ~2 мин
+22:26:56 [2/3] 15503bc5 Other Sarah: Может, ты и король, но ты также мой младший брат, и, в отлич
+22:28:23   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\15503bc5ae4a1e0d33fc4100c634e74e__Sarah_3.wav (15.2s), eta ~1 мин
+22:28:23 [3/3] 00cc68d8 Training Sarah: У меня никогда не было формального обучения, и у меня нет де
+22:29:43   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Training\00cc68d892a6fab707b4fc852fe5ad09__Sarah_3.wav (14.1s), eta ~0 мин
+22:29:43 done=3 skipped=0 failed=0 total=3
+22:29:48 фраз к генерации: 3 (lang=ru, force=False)
+22:29:48   ea711ed1 | Prologue | King Orwell Rose | Хорошо, хорошо. Томас, найди слугу, чтобы отнести этот багаж
+22:29:48   c8fee979 | WarriorPath | King Orwell Rose | Один из низших лордов Западных провинций много лет назад под
+22:29:48   a98f8ab8 | WarriorPath | King Orwell Rose | Его народ подумает, что он сошёл с ума. Не говоря уже о том,
+22:29:48 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+22:29:55 model loaded in 6.3s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+22:29:55 [1/3] ea711ed1 Prologue King Orwell Rose: Хорошо, хорошо. Томас, найди слугу, чтобы отнести этот багаж
+22:31:06   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\ea711ed13029ddc8a78dd4ca601637fd__King Orwell Rose.wav (12.1s), eta ~2 мин
+22:31:06 [2/3] c8fee979 WarriorPath King Orwell Rose: Один из низших лордов Западных провинций много лет назад под
+22:31:55   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\WarriorPath\c8fee9793c7aa014a56a3ddf2f5a4a90__King Orwell Rose.wav (8.1s), eta ~1 мин
+22:31:55 [3/3] a98f8ab8 WarriorPath King Orwell Rose: Его народ подумает, что он сошёл с ума. Не говоря уже о том,
+22:33:00   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\WarriorPath\a98f8ab89750c4154db89af7ca4aecba__King Orwell Rose.wav (10.4s), eta ~0 мин
+22:33:00 done=3 skipped=0 failed=0 total=3
+22:33:06 фраз к генерации: 3 (lang=ru, force=False)
+22:33:06   19255d27 | Other | Varga | Небольшое окно, когда наши войска будут готовы атаковать поз
+22:33:06   76ed450d | WarArc | Varga | Если можно быть таким смелым... Думаю, я понимаю твоё беспок
+22:33:06   00c88b15 | WarArc | Varga | Там, откуда я родом, пиво отвратительное, но это всё, что мы
+22:33:06 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+22:33:15 model loaded in 9.4s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+22:33:15 [1/3] 19255d27 Other Varga: Небольшое окно, когда наши войска будут готовы атаковать поз
+22:34:16   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\19255d27f909cf32170227dd8370121b__Varga.wav (10.4s), eta ~2 мин
+22:34:16 [2/3] 76ed450d WarArc Varga: Если можно быть таким смелым... Думаю, я понимаю твоё беспок
+22:35:31   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\WarArc\76ed450d3042e6c4c02b0c67c66d4e5c__Varga.wav (12.9s), eta ~1 мин
+22:35:31 [3/3] 00c88b15 WarArc Varga: Там, откуда я родом, пиво отвратительное, но это всё, что мы
+22:36:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\WarArc\00c88b151c051a2aaca4cbf68cfbaba1__Varga.wav (15.0s), eta ~0 мин
+22:36:59 done=3 skipped=0 failed=0 total=3
+22:37:05 фраз к генерации: 3 (lang=ru, force=False)
+22:37:05   734612e8 | Other | Kate | Я должна была там умереть, Сара, я знала это в глубине души.
+22:37:05   61705ee9 | StoryBeginnings | Kate | Моя семья готовила меня к жизни, которой я никогда не хотела
+22:37:05   ea757278 | StoryBeginnings | Kate | Я страдала, взрослея, притворяясь, что этого не случится. Чт
+22:37:05 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+22:37:15 model loaded in 10.9s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+22:37:15 [1/3] 734612e8 Other Kate: Я должна была там умереть, Сара, я знала это в глубине души.
+22:38:40   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\734612e8c8c5ee0ad9ea30a637437caa__Kate.wav (14.4s), eta ~3 мин
+22:38:40 [2/3] 61705ee9 StoryBeginnings Kate: Моя семья готовила меня к жизни, которой я никогда не хотела
+22:40:18   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\61705ee9ca6c2948598979f8aa7fa357__Kate.wav (15.6s), eta ~2 мин
+22:40:18 [3/3] ea757278 StoryBeginnings Kate: Я страдала, взрослея, притворяясь, что этого не случится. Чт
+22:41:45   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\ea7572782b8f0ea35514b15a1c28fbd9__Kate.wav (13.0s), eta ~0 мин
+22:41:45 done=3 skipped=0 failed=0 total=3
+22:41:52 фраз к генерации: 3 (lang=ru, force=False)
+22:41:52   a81f33a6 | StoryBeginnings | Marion | Как наследник семьи, я взвалил всё на свои плечи. Я так заня
+22:41:52   a159065c | WarArc | Marion | Честно говоря, у меня были сомнения. Твой брат никогда не ка
+22:41:52   f53d8098 | WarArc | Marion | Некоторые боятся говорить слишком прямо. Они не хотят обидет
+22:41:52 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+22:42:00 model loaded in 8.2s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+22:42:00 [1/3] a81f33a6 StoryBeginnings Marion: Как наследник семьи, я взвалил всё на свои плечи. Я так заня
+22:43:17   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\a81f33a62de3e11a7ac61ae74f2e1ca2__Marion.wav (11.2s), eta ~3 мин
+22:43:17 [2/3] a159065c WarArc Marion: Честно говоря, у меня были сомнения. Твой брат никогда не ка
+22:44:27   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\WarArc\a159065c9db4228a87b15af678041ebc__Marion.wav (10.3s), eta ~1 мин
+22:44:27 [3/3] f53d8098 WarArc Marion: Некоторые боятся говорить слишком прямо. Они не хотят обидет
+22:46:00   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\WarArc\f53d809899678668dcb189ffd0fc6177__Marion.wav (13.8s), eta ~0 мин
+22:46:00 done=3 skipped=0 failed=0 total=3
+22:46:08 фраз к генерации: 3 (lang=ru, force=False)
+22:46:08   dee9e411 | AlfredArc | Narrator | Она хотела возмутиться, но с горлом и ртом, полными спермы, 
+22:46:08   163cd5c0 | AlfredArc | Narrator | Старый солдат лежал на спине на полу. Его член теперь был вя
+22:46:08   26fc002f | AlfredArc | Narrator | Вместо того чтобы оттолкнуть его, Сара обнаружила, что накло
+22:46:08 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+22:46:20 model loaded in 12.1s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+22:46:20 [1/3] dee9e411 AlfredArc Narrator: Она хотела возмутиться, но с горлом и ртом, полными спермы, 
+22:48:20   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\dee9e411fab8b51031ef6bce1e6c92aa__Narrator_1.wav (17.4s), eta ~4 мин
+22:48:20 [2/3] 163cd5c0 AlfredArc Narrator: Старый солдат лежал на спине на полу. Его член теперь был вя
+22:50:20   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\163cd5c01cc7b47ea48ee33f33e16b2e__Narrator_1.wav (17.3s), eta ~2 мин
+22:50:20 [3/3] 26fc002f AlfredArc Narrator: Вместо того чтобы оттолкнуть его, Сара обнаружила, что накло
+22:52:26   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\26fc002fab40ebffe841e69f03b9173b__Narrator_1.wav (17.9s), eta ~0 мин
+22:52:26 done=3 skipped=0 failed=0 total=3
+22:52:33 фраз к генерации: 3 (lang=ru, force=False)
+22:52:33   dee9e411 | AlfredArc | Narrator | Она хотела возмутиться, но с горлом и ртом, полными спермы, 
+22:52:33   163cd5c0 | AlfredArc | Narrator | Старый солдат лежал на спине на полу. Его член теперь был вя
+22:52:33   26fc002f | AlfredArc | Narrator | Вместо того чтобы оттолкнуть его, Сара обнаружила, что накло
+22:52:33 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+22:52:45 model loaded in 12.1s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+22:52:45 [1/3] dee9e411 AlfredArc Narrator: Она хотела возмутиться, но с горлом и ртом, полными спермы, 
+22:54:47   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\dee9e411fab8b51031ef6bce1e6c92aa__Narrator_2.wav (17.4s), eta ~4 мин
+22:54:47 [2/3] 163cd5c0 AlfredArc Narrator: Старый солдат лежал на спине на полу. Его член теперь был вя
+22:56:52   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\163cd5c01cc7b47ea48ee33f33e16b2e__Narrator_2.wav (17.3s), eta ~2 мин
+22:56:52 [3/3] 26fc002f AlfredArc Narrator: Вместо того чтобы оттолкнуть его, Сара обнаружила, что накло
+22:59:01   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\26fc002fab40ebffe841e69f03b9173b__Narrator_2.wav (17.9s), eta ~0 мин
+22:59:01 done=3 skipped=0 failed=0 total=3
+22:59:08 фраз к генерации: 3 (lang=ru, force=False)
+22:59:08   dee9e411 | AlfredArc | Narrator | Она хотела возмутиться, но с горлом и ртом, полными спермы, 
+22:59:08   163cd5c0 | AlfredArc | Narrator | Старый солдат лежал на спине на полу. Его член теперь был вя
+22:59:08   26fc002f | AlfredArc | Narrator | Вместо того чтобы оттолкнуть его, Сара обнаружила, что накло
+22:59:08 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+22:59:20 model loaded in 11.9s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+22:59:20 [1/3] dee9e411 AlfredArc Narrator: Она хотела возмутиться, но с горлом и ртом, полными спермы, 
+23:01:15   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\dee9e411fab8b51031ef6bce1e6c92aa__Narrator_3.wav (17.4s), eta ~4 мин
+23:01:15 [2/3] 163cd5c0 AlfredArc Narrator: Старый солдат лежал на спине на полу. Его член теперь был вя
+23:02:58   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\163cd5c01cc7b47ea48ee33f33e16b2e__Narrator_3.wav (17.3s), eta ~2 мин
+23:02:58 [3/3] 26fc002f AlfredArc Narrator: Вместо того чтобы оттолкнуть его, Сара обнаружила, что накло
+23:04:45   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\26fc002fab40ebffe841e69f03b9173b__Narrator_3.wav (17.9s), eta ~0 мин
+23:04:45 done=3 skipped=0 failed=0 total=3
+23:04:52 фраз к генерации: 3 (lang=ru, force=False)
+23:04:52   7ddcaf3b | HollowWorld | Caleb | Видишь, Эф. Вот как надо глотать. В следующий раз вы с Сарой
+23:04:52   5ef6f66e | Other | Caleb | Ага, помнишь, когда она пропадала на...сколько там, семь дне
+23:04:52   3eb76e71 | Training | Caleb | Не хочу быть грубым, ты нам нравишься, Сара, но мы проводим 
+23:04:52 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:05:00 model loaded in 8.0s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:05:00 [1/3] 7ddcaf3b HollowWorld Caleb: Видишь, Эф. Вот как надо глотать. В следующий раз вы с Сарой
+23:05:52   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\HollowWorld\7ddcaf3b626f051e7923bf3f5b7713cd__Caleb.wav (7.9s), eta ~2 мин
+23:05:52 [2/3] 5ef6f66e Other Caleb: Ага, помнишь, когда она пропадала на...сколько там, семь дне
+23:06:57   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\5ef6f66e8dec92d7659760ed0a8cf6f3__Caleb.wav (10.7s), eta ~1 мин
+23:06:57 [3/3] 3eb76e71 Training Caleb: Не хочу быть грубым, ты нам нравишься, Сара, но мы проводим 
+23:08:08   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Training\3eb76e71f0cf801873bf4b47ef5d0afa__Caleb.wav (11.8s), eta ~0 мин
+23:08:08 done=3 skipped=0 failed=0 total=3
+23:08:15 фраз к генерации: 3 (lang=ru, force=False)
+23:08:15   824fbb9c | SailorPath | Captain Belmont | Ты не умеешь ставить парус, не сможешь завязать нормальный у
+23:08:15   67c2f250 | SailorPath | Captain Belmont | Я буду трахать тебя до изнеможения, и твой новый парень посл
+23:08:15   babbc24f | SailorPath | Captain Belmont | Не за что, блондиночка, это не благотворительность. Иди займ
+23:08:15 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:08:26 model loaded in 11.0s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:08:26 [1/3] 824fbb9c SailorPath Captain Belmont: Ты не умеешь ставить парус, не сможешь завязать нормальный у
+23:09:40   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\SailorPath\824fbb9cba2ecef1401a2726bb508780__Captain Belmont.wav (13.7s), eta ~2 мин
+23:09:40 [2/3] 67c2f250 SailorPath Captain Belmont: Я буду трахать тебя до изнеможения, и твой новый парень посл
+23:10:42   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\SailorPath\67c2f250181054cf4c573cc4452fc979__Captain Belmont.wav (11.7s), eta ~1 мин
+23:10:42 [3/3] babbc24f SailorPath Captain Belmont: Не за что, блондиночка, это не благотворительность. Иди займ
+23:23:45 фраз к генерации: 3 (lang=ru, force=False)
+23:23:45   1929feb4 | SailorArc | Sigmund | В поисках более безопасного пути большинство купцов начали п
+23:23:45   e5beef3b | SailorArc | Sigmund | Мифра — огромная империя и практически исчерпывает свои собс
+23:23:45   4b7c4501 | SailorArc | Sigmund | Пока бандитские лорды терроризировали сельскую местность, жи
+23:23:45 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:23:51 model loaded in 6.3s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:23:51 [1/3] 1929feb4 SailorArc Sigmund: В поисках более безопасного пути большинство купцов начали п
+23:24:53   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\SailorArc\1929feb46db478fb9de530ebae2d8569__Sigmund_1.wav (10.4s), eta ~2 мин
+23:24:53 [2/3] e5beef3b SailorArc Sigmund: Мифра — огромная империя и практически исчерпывает свои собс
+23:26:00   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\SailorArc\e5beef3b5c0c12aa1ba12234e4b1578c__Sigmund_1.wav (11.3s), eta ~1 мин
+23:26:00 [3/3] 4b7c4501 SailorArc Sigmund: Пока бандитские лорды терроризировали сельскую местность, жи
+23:27:00   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\SailorArc\4b7c4501caaf8f8df21e10faf4a5c66c__Sigmund_1.wav (10.2s), eta ~0 мин
+23:27:00 done=3 skipped=0 failed=0 total=3
+23:27:06 фраз к генерации: 3 (lang=ru, force=False)
+23:27:06   1929feb4 | SailorArc | Sigmund | В поисках более безопасного пути большинство купцов начали п
+23:27:06   e5beef3b | SailorArc | Sigmund | Мифра — огромная империя и практически исчерпывает свои собс
+23:27:06   4b7c4501 | SailorArc | Sigmund | Пока бандитские лорды терроризировали сельскую местность, жи
+23:27:06 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:27:15 model loaded in 9.7s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:27:15 [1/3] 1929feb4 SailorArc Sigmund: В поисках более безопасного пути большинство купцов начали п
+23:28:18   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\SailorArc\1929feb46db478fb9de530ebae2d8569__Sigmund_2.wav (10.4s), eta ~2 мин
+23:28:18 [2/3] e5beef3b SailorArc Sigmund: Мифра — огромная империя и практически исчерпывает свои собс
+23:29:26   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\SailorArc\e5beef3b5c0c12aa1ba12234e4b1578c__Sigmund_2.wav (11.3s), eta ~1 мин
+23:29:26 [3/3] 4b7c4501 SailorArc Sigmund: Пока бандитские лорды терроризировали сельскую местность, жи
+23:30:27   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\SailorArc\4b7c4501caaf8f8df21e10faf4a5c66c__Sigmund_2.wav (10.2s), eta ~0 мин
+23:30:27 done=3 skipped=0 failed=0 total=3
+23:30:32 фраз к генерации: 3 (lang=ru, force=False)
+23:30:32   b05d1d7c | BlackMonolith | Alaric | И ты тратишь так много времени на то, чтобы всем заправлять.
+23:30:32   c5c32e42 | HollowWorld | Alaric | Что ж, я могу контролировать, когда мне кончать, так что есл
+23:30:32   65fff234 | PrisonArc | Alaric | Мы не можем оставаться на улице. Не после того, что случилос
+23:30:32 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:30:38 model loaded in 6.4s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:30:38 [1/3] b05d1d7c BlackMonolith Alaric: И ты тратишь так много времени на то, чтобы всем заправлять.
+23:31:39   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\b05d1d7c451f5da7a8d0919b555b828a__Alaric_1.wav (10.2s), eta ~2 мин
+23:31:39 [2/3] c5c32e42 HollowWorld Alaric: Что ж, я могу контролировать, когда мне кончать, так что есл
+23:32:47   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\HollowWorld\c5c32e42eedb1c6ce68c93ead4e4ba65__Alaric_1.wav (11.7s), eta ~1 мин
+23:32:47 [3/3] 65fff234 PrisonArc Alaric: Мы не можем оставаться на улице. Не после того, что случилос
+23:33:44   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\PrisonArc\65fff2347dbb427ff787bb6a7cb7a976__Alaric_1.wav (9.4s), eta ~0 мин
+23:33:44 done=3 skipped=0 failed=0 total=3
+23:33:50 фраз к генерации: 3 (lang=ru, force=False)
+23:33:50   b05d1d7c | BlackMonolith | Alaric | И ты тратишь так много времени на то, чтобы всем заправлять.
+23:33:50   c5c32e42 | HollowWorld | Alaric | Что ж, я могу контролировать, когда мне кончать, так что есл
+23:33:50   65fff234 | PrisonArc | Alaric | Мы не можем оставаться на улице. Не после того, что случилос
+23:33:50 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:33:56 model loaded in 5.9s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:33:56 [1/3] b05d1d7c BlackMonolith Alaric: И ты тратишь так много времени на то, чтобы всем заправлять.
+23:34:55   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\b05d1d7c451f5da7a8d0919b555b828a__Alaric_2.wav (10.2s), eta ~2 мин
+23:34:55 [2/3] c5c32e42 HollowWorld Alaric: Что ж, я могу контролировать, когда мне кончать, так что есл
+23:36:03   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\HollowWorld\c5c32e42eedb1c6ce68c93ead4e4ba65__Alaric_2.wav (11.7s), eta ~1 мин
+23:36:03 [3/3] 65fff234 PrisonArc Alaric: Мы не можем оставаться на улице. Не после того, что случилос
+23:36:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\PrisonArc\65fff2347dbb427ff787bb6a7cb7a976__Alaric_2.wav (9.4s), eta ~0 мин
+23:36:59 done=3 skipped=0 failed=0 total=3
+23:37:05 фраз к генерации: 3 (lang=ru, force=False)
+23:37:05   ac7e1a70 | Training | Atilla | Я принимаю твоё предложение... но тренироваться будешь ты са
+23:37:05   86ed6ee4 | Training | Atilla | Будучи орком, я никогда не испытывал недостатка в контрактах
+23:37:05   4701f60b | Training | Atilla | То, что будет дальше, ты должна узнать там, встречаясь с люд
+23:37:05 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:37:14 model loaded in 9.7s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:37:14 [1/3] ac7e1a70 Training Atilla: Я принимаю твоё предложение... но тренироваться будешь ты са
+23:38:16   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Training\ac7e1a708812beb32d6e515a15daa4bf__Atilla_1.wav (11.0s), eta ~2 мин
+23:38:16 [2/3] 86ed6ee4 Training Atilla: Будучи орком, я никогда не испытывал недостатка в контрактах
+23:39:16   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Training\86ed6ee4fbb7de8f64d041968c47c948__Atilla_1.wav (10.4s), eta ~1 мин
+23:39:16 [3/3] 4701f60b Training Atilla: То, что будет дальше, ты должна узнать там, встречаясь с люд
+23:40:15   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Training\4701f60b7e4446cee27adf35052ffb79__Atilla_1.wav (10.4s) | trim: burst 70ms after 130ms gap, eta ~0 мин
+23:40:15 done=3 skipped=0 failed=0 total=3
+23:40:20 фраз к генерации: 3 (lang=ru, force=False)
+23:40:20   ac7e1a70 | Training | Atilla | Я принимаю твоё предложение... но тренироваться будешь ты са
+23:40:20   86ed6ee4 | Training | Atilla | Будучи орком, я никогда не испытывал недостатка в контрактах
+23:40:20   4701f60b | Training | Atilla | То, что будет дальше, ты должна узнать там, встречаясь с люд
+23:40:20 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:40:30 model loaded in 9.2s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:40:30 [1/3] ac7e1a70 Training Atilla: Я принимаю твоё предложение... но тренироваться будешь ты са
+23:41:35   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Training\ac7e1a708812beb32d6e515a15daa4bf__Atilla_2.wav (11.0s), eta ~2 мин
+23:41:35 [2/3] 86ed6ee4 Training Atilla: Будучи орком, я никогда не испытывал недостатка в контрактах
+23:42:43   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Training\86ed6ee4fbb7de8f64d041968c47c948__Atilla_2.wav (10.4s), eta ~1 мин
+23:42:43 [3/3] 4701f60b Training Atilla: То, что будет дальше, ты должна узнать там, встречаясь с люд
+23:43:55   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Training\4701f60b7e4446cee27adf35052ffb79__Atilla_2.wav (10.4s) | trim: burst 80ms after 120ms gap, eta ~0 мин
+23:43:55 done=3 skipped=0 failed=0 total=3
+23:44:02 фраз к генерации: 3 (lang=ru, force=False)
+23:44:02   58e4b605 | Other | Carolyn | С другой стороны, характер закаляется в испытаниях, как мета
+23:44:02   437f8d04 | Other | Carolyn | Ну, для большинства людей деньги — это то, чем они пользуютс
+23:44:02   f587025a | UnionKingdom | Carolyn | Если ты не пойдёшь, ты можешь избежать ловушки, но в итоге н
+23:44:02 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:44:14 model loaded in 12.0s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:44:14 [1/3] 58e4b605 Other Carolyn: С другой стороны, характер закаляется в испытаниях, как мета
+23:45:34   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\58e4b605ca17501949d92b97fc91a70b__Carolyn_1.wav (11.2s), eta ~3 мин
+23:45:34 [2/3] 437f8d04 Other Carolyn: Ну, для большинства людей деньги — это то, чем они пользуютс
+23:47:09   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\437f8d04f0b18b2722311e79844192f9__Carolyn_1.wav (13.8s), eta ~1 мин
+23:47:09 [3/3] f587025a UnionKingdom Carolyn: Если ты не пойдёшь, ты можешь избежать ловушки, но в итоге н
+23:48:34   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\UnionKingdom\f587025a1c6295bc701ab888babead47__Carolyn_1.wav (11.6s) | trim: burst 100ms after 80ms gap, eta ~0 мин
+23:48:34 done=3 skipped=0 failed=0 total=3
+23:48:41 фраз к генерации: 3 (lang=ru, force=False)
+23:48:41   58e4b605 | Other | Carolyn | С другой стороны, характер закаляется в испытаниях, как мета
+23:48:41   437f8d04 | Other | Carolyn | Ну, для большинства людей деньги — это то, чем они пользуютс
+23:48:41   f587025a | UnionKingdom | Carolyn | Если ты не пойдёшь, ты можешь избежать ловушки, но в итоге н
+23:48:41 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:48:50 model loaded in 8.8s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:48:50 [1/3] 58e4b605 Other Carolyn: С другой стороны, характер закаляется в испытаниях, как мета
+23:50:10   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\58e4b605ca17501949d92b97fc91a70b__Carolyn_2.wav (11.2s), eta ~3 мин
+23:50:10 [2/3] 437f8d04 Other Carolyn: Ну, для большинства людей деньги — это то, чем они пользуютс
+23:51:46   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\437f8d04f0b18b2722311e79844192f9__Carolyn_2.wav (13.7s) | trim: burst 90ms after 110ms gap, eta ~1 мин
+23:51:46 [3/3] f587025a UnionKingdom Carolyn: Если ты не пойдёшь, ты можешь избежать ловушки, но в итоге н
+23:53:11   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\UnionKingdom\f587025a1c6295bc701ab888babead47__Carolyn_2.wav (11.7s), eta ~0 мин
+23:53:11 done=3 skipped=0 failed=0 total=3
+23:53:19 фраз к генерации: 3 (lang=ru, force=False)
+23:53:19   c12d077a | UnionKingdom | Duke Antonio | Позволь мне ответить на мой собственный вопрос. Ты бы попрос
+23:53:19   77ae1cb4 | UnionKingdom | Duke Antonio | Мы занимаемся торговлей и приносим процветание. Война — это 
+23:53:19   0ba36165 | UnionKingdom | Duke Antonio | Не могу поверить, что ты заставила меня сделать порядочную в
+23:53:19 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:53:31 model loaded in 12.1s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:53:31 [1/3] c12d077a UnionKingdom Duke Antonio: Позволь мне ответить на мой собственный вопрос. Ты бы попрос
+23:54:37   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\UnionKingdom\c12d077a2bdff42ecac2ea02618ba535__Duke Antonio_1.wav (8.7s), eta ~2 мин
+23:54:37 [2/3] 77ae1cb4 UnionKingdom Duke Antonio: Мы занимаемся торговлей и приносим процветание. Война — это 
+23:55:43   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\UnionKingdom\77ae1cb4a7f7db0f7b26ad47f4a19765__Duke Antonio_1.wav (8.8s), eta ~1 мин
+23:55:43 [3/3] 0ba36165 UnionKingdom Duke Antonio: Не могу поверить, что ты заставила меня сделать порядочную в
+23:56:52   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\UnionKingdom\0ba3616547b020b6ea9eb70cb00ca2ad__Duke Antonio_1.wav (9.4s), eta ~0 мин
+23:56:52 done=3 skipped=0 failed=0 total=3
+23:56:59 фраз к генерации: 3 (lang=ru, force=False)
+23:56:59   c12d077a | UnionKingdom | Duke Antonio | Позволь мне ответить на мой собственный вопрос. Ты бы попрос
+23:56:59   77ae1cb4 | UnionKingdom | Duke Antonio | Мы занимаемся торговлей и приносим процветание. Война — это 
+23:56:59   0ba36165 | UnionKingdom | Duke Antonio | Не могу поверить, что ты заставила меня сделать порядочную в
+23:56:59 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:57:11 model loaded in 11.6s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:57:11 [1/3] c12d077a UnionKingdom Duke Antonio: Позволь мне ответить на мой собственный вопрос. Ты бы попрос
+23:58:16   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\UnionKingdom\c12d077a2bdff42ecac2ea02618ba535__Duke Antonio_2.wav (8.7s), eta ~2 мин
+23:58:16 [2/3] 77ae1cb4 UnionKingdom Duke Antonio: Мы занимаемся торговлей и приносим процветание. Война — это 
+23:59:21   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\UnionKingdom\77ae1cb4a7f7db0f7b26ad47f4a19765__Duke Antonio_2.wav (8.8s), eta ~1 мин
+23:59:21 [3/3] 0ba36165 UnionKingdom Duke Antonio: Не могу поверить, что ты заставила меня сделать порядочную в
+00:00:31   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\UnionKingdom\0ba3616547b020b6ea9eb70cb00ca2ad__Duke Antonio_2.wav (9.4s), eta ~0 мин
+00:00:31 done=3 skipped=0 failed=0 total=3
+00:00:38 фраз к генерации: 3 (lang=ru, force=False)
+00:00:38   892b86a8 | UnionKingdom | Marshal Edmond | Вы думаете, когда она окажется под этим раздутым ублюдком се
+00:00:38   6e7201c2 | UnionKingdom | Marshal Edmond | Ты страдаешь от восстания и вместо того, чтобы подавить его 
+00:00:38   705e7242 | UnionKingdom | Marshal Edmond | Это не может быть тот жирный идиот Антонио. Маэйв... она дос
+00:00:38 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:00:48 model loaded in 9.1s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:00:48 [1/3] 892b86a8 UnionKingdom Marshal Edmond: Вы думаете, когда она окажется под этим раздутым ублюдком се
+00:02:09   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\UnionKingdom\892b86a8b79f647383dc61f28d8f9808__Marshal Edmond_1.wav (11.2s), eta ~3 мин
+00:02:09 [2/3] 6e7201c2 UnionKingdom Marshal Edmond: Ты страдаешь от восстания и вместо того, чтобы подавить его 
+00:03:22   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\UnionKingdom\6e7201c2a16975c7cbd316f0664a144a__Marshal Edmond_1.wav (10.0s) | trim: burst 150ms after 100ms gap, eta ~1 мин
+00:03:22 [3/3] 705e7242 UnionKingdom Marshal Edmond: Это не может быть тот жирный идиот Антонио. Маэйв... она дос
+00:04:56   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\UnionKingdom\705e7242186541dab30d7362159e035f__Marshal Edmond_1.wav (13.3s), eta ~0 мин
+00:04:56 done=3 skipped=0 failed=0 total=3
+00:05:03 фраз к генерации: 3 (lang=ru, force=False)
+00:05:03   892b86a8 | UnionKingdom | Marshal Edmond | Вы думаете, когда она окажется под этим раздутым ублюдком се
+00:05:03   6e7201c2 | UnionKingdom | Marshal Edmond | Ты страдаешь от восстания и вместо того, чтобы подавить его 
+00:05:03   705e7242 | UnionKingdom | Marshal Edmond | Это не может быть тот жирный идиот Антонио. Маэйв... она дос
+00:05:03 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:05:15 model loaded in 11.2s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:05:15 [1/3] 892b86a8 UnionKingdom Marshal Edmond: Вы думаете, когда она окажется под этим раздутым ублюдком се
+00:06:35   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\UnionKingdom\892b86a8b79f647383dc61f28d8f9808__Marshal Edmond_2.wav (11.2s), eta ~3 мин
+00:06:35 [2/3] 6e7201c2 UnionKingdom Marshal Edmond: Ты страдаешь от восстания и вместо того, чтобы подавить его 
+00:07:48   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\UnionKingdom\6e7201c2a16975c7cbd316f0664a144a__Marshal Edmond_2.wav (10.0s) | trim: burst 120ms after 120ms gap, eta ~1 мин
+00:07:48 [3/3] 705e7242 UnionKingdom Marshal Edmond: Это не может быть тот жирный идиот Антонио. Маэйв... она дос
+00:09:20   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\UnionKingdom\705e7242186541dab30d7362159e035f__Marshal Edmond_2.wav (13.3s), eta ~0 мин
+00:09:20 done=3 skipped=0 failed=0 total=3
+00:09:27 фраз к генерации: 3 (lang=ru, force=False)
+00:09:27   ab860686 | BlackMonolith | Metis | При правильном выполнении это может направить эволюцию расте
+00:09:27   d78f64bc | BlackMonolith | Metis | Самая распространённая ошибка — дать либо слишком много маги
+00:09:27   4670de4c | BlackMonolith | Metis | Когда увидишь себя, и только себя... действуй. Навяжи свою в
+00:09:27 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:09:35 model loaded in 7.7s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:09:35 [1/3] ab860686 BlackMonolith Metis: При правильном выполнении это может направить эволюцию расте
+00:10:38   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\ab860686d299a5588e536584688ad178__Metis_1.wav (8.6s), eta ~2 мин
+00:10:38 [2/3] d78f64bc BlackMonolith Metis: Самая распространённая ошибка — дать либо слишком много маги
+00:11:46   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\d78f64bca603c8945f91f609a8399194__Metis_1.wav (9.4s), eta ~1 мин
+00:11:46 [3/3] 4670de4c BlackMonolith Metis: Когда увидишь себя, и только себя... действуй. Навяжи свою в
+00:12:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\4670de4cf33dcabaa721f4422d998132__Metis_1.wav (10.0s), eta ~0 мин
+00:12:59 done=3 skipped=0 failed=0 total=3
+00:13:05 фраз к генерации: 3 (lang=ru, force=False)
+00:13:05   ab860686 | BlackMonolith | Metis | При правильном выполнении это может направить эволюцию расте
+00:13:05   d78f64bc | BlackMonolith | Metis | Самая распространённая ошибка — дать либо слишком много маги
+00:13:05   4670de4c | BlackMonolith | Metis | Когда увидишь себя, и только себя... действуй. Навяжи свою в
+00:13:05 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:13:16 model loaded in 10.6s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:13:16 [1/3] ab860686 BlackMonolith Metis: При правильном выполнении это может направить эволюцию расте
+00:14:21   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\ab860686d299a5588e536584688ad178__Metis_2.wav (8.6s), eta ~2 мин
+00:14:21 [2/3] d78f64bc BlackMonolith Metis: Самая распространённая ошибка — дать либо слишком много маги
+00:15:29   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\d78f64bca603c8945f91f609a8399194__Metis_2.wav (9.4s), eta ~1 мин
+00:15:29 [3/3] 4670de4c BlackMonolith Metis: Когда увидишь себя, и только себя... действуй. Навяжи свою в
+00:16:42   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\4670de4cf33dcabaa721f4422d998132__Metis_2.wav (10.0s), eta ~0 мин
+00:16:42 done=3 skipped=0 failed=0 total=3
+00:16:48 фраз к генерации: 3 (lang=ru, force=False)
+00:16:48   3ac88291 | MagePath | Samayra | Ой, приезжают, иногда, но уже не так, как раньше. Отец говор
+00:16:48   4b50d2e3 | WarriorPath | Samayra | Нет... думаю, ты права. Может, я ещё просто не осознала. Или
+00:16:48   56acd0f7 | WarriorPath | Samayra | Да! Я делала так постоянно с горничными, когда была маленько
+00:16:48 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:16:59 model loaded in 11.0s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:16:59 [1/3] 3ac88291 MagePath Samayra: Ой, приезжают, иногда, но уже не так, как раньше. Отец говор
+00:18:31   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\MagePath\3ac88291af94e83d9f583b2fbd9ea098__Samayra_1.wav (12.8s), eta ~3 мин
+00:18:31 [2/3] 4b50d2e3 WarriorPath Samayra: Нет... думаю, ты права. Может, я ещё просто не осознала. Или
+00:19:48   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\WarriorPath\4b50d2e37b026d839055c88e57090acd__Samayra_1.wav (10.6s), eta ~1 мин
+00:19:48 [3/3] 56acd0f7 WarriorPath Samayra: Да! Я делала так постоянно с горничными, когда была маленько
+00:21:17   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\WarriorPath\56acd0f7c8b5e81060dd494fb5ac44ec__Samayra_1.wav (12.6s), eta ~0 мин
+00:21:17 done=3 skipped=0 failed=0 total=3
+00:21:24 фраз к генерации: 3 (lang=ru, force=False)
+00:21:24   3ac88291 | MagePath | Samayra | Ой, приезжают, иногда, но уже не так, как раньше. Отец говор
+00:21:24   4b50d2e3 | WarriorPath | Samayra | Нет... думаю, ты права. Может, я ещё просто не осознала. Или
+00:21:24   56acd0f7 | WarriorPath | Samayra | Да! Я делала так постоянно с горничными, когда была маленько
+00:21:24 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:21:34 model loaded in 10.4s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:21:34 [1/3] 3ac88291 MagePath Samayra: Ой, приезжают, иногда, но уже не так, как раньше. Отец говор
+00:23:03   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\MagePath\3ac88291af94e83d9f583b2fbd9ea098__Samayra_2.wav (12.8s), eta ~3 мин
+00:23:03 [2/3] 4b50d2e3 WarriorPath Samayra: Нет... думаю, ты права. Может, я ещё просто не осознала. Или
+00:24:19   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\WarriorPath\4b50d2e37b026d839055c88e57090acd__Samayra_2.wav (10.6s), eta ~1 мин
+00:24:19 [3/3] 56acd0f7 WarriorPath Samayra: Да! Я делала так постоянно с горничными, когда была маленько
+00:25:48   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\WarriorPath\56acd0f7c8b5e81060dd494fb5ac44ec__Samayra_2.wav (12.6s), eta ~0 мин
+00:25:48 done=3 skipped=0 failed=0 total=3
+00:25:55 фраз к генерации: 3 (lang=ru, force=False)
+00:25:55   631182d6 | HollowWorld | Vaelen | Нет, передовой отряд мифранцев хорошо снабжён. Мы соединимся
+00:25:55   94462ac7 | Other | Vaelen | Запертый в той шахте, я начал видеть видения всех уголков ми
+00:25:55   1a3a5e1e | WarriorPath | Vaelen | Королевская семья Баграда по глупости считала, что это означ
+00:25:55 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:26:06 model loaded in 10.6s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:26:06 [1/3] 631182d6 HollowWorld Vaelen: Нет, передовой отряд мифранцев хорошо снабжён. Мы соединимся
+00:27:14   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\HollowWorld\631182d6416a119308c1aee349bae301__Vaelen_1.wav (9.8s), eta ~2 мин
+00:27:14 [2/3] 94462ac7 Other Vaelen: Запертый в той шахте, я начал видеть видения всех уголков ми
+00:28:34   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\94462ac78143490670bacf0620a30077__Vaelen_1.wav (11.6s), eta ~1 мин
+00:28:34 [3/3] 1a3a5e1e WarriorPath Vaelen: Королевская семья Баграда по глупости считала, что это означ
+00:29:49   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\WarriorPath\1a3a5e1e88f5072e570953c4643f4e12__Vaelen_1.wav (9.8s), eta ~0 мин
+00:29:49 done=3 skipped=0 failed=0 total=3
+00:29:56 фраз к генерации: 3 (lang=ru, force=False)
+00:29:56   631182d6 | HollowWorld | Vaelen | Нет, передовой отряд мифранцев хорошо снабжён. Мы соединимся
+00:29:56   94462ac7 | Other | Vaelen | Запертый в той шахте, я начал видеть видения всех уголков ми
+00:29:56   1a3a5e1e | WarriorPath | Vaelen | Королевская семья Баграда по глупости считала, что это означ
+00:29:56 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:30:07 model loaded in 11.3s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:30:07 [1/3] 631182d6 HollowWorld Vaelen: Нет, передовой отряд мифранцев хорошо снабжён. Мы соединимся
+00:31:21   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\HollowWorld\631182d6416a119308c1aee349bae301__Vaelen_2.wav (9.8s), eta ~2 мин
+00:31:21 [2/3] 94462ac7 Other Vaelen: Запертый в той шахте, я начал видеть видения всех уголков ми
+00:32:46   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\94462ac78143490670bacf0620a30077__Vaelen_2.wav (11.6s), eta ~1 мин
+00:32:46 [3/3] 1a3a5e1e WarriorPath Vaelen: Королевская семья Баграда по глупости считала, что это означ
+00:33:58   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\WarriorPath\1a3a5e1e88f5072e570953c4643f4e12__Vaelen_2.wav (9.8s), eta ~0 мин
+00:33:58 done=3 skipped=0 failed=0 total=3
+00:48:47 фраз к генерации: 3 (lang=ru, force=False)
+00:48:47   1c4a6ca6 | HyralArc | Orc | Человеческая шлюха!
+00:48:47   dbc6aa3b | HyralArc | Orc | Ты не слушать! Ты чувствовать!
+00:48:47   b4d15058 | HyralArc | Orc | Ты сидеть. Ты учиться.
+00:48:47 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:48:53 model loaded in 6.4s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:48:53 [1/3] 1c4a6ca6 HyralArc Orc: Человеческая шлюха!
+00:49:15   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\HyralArc\1c4a6ca65569b5da6a5eadf94c96f1f2__Orc.wav (1.5s), eta ~1 мин
+00:49:15 [2/3] dbc6aa3b HyralArc Orc: Ты не слушать! Ты чувствовать!
+00:49:37   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\HyralArc\dbc6aa3bb07a0f98ef2696d8c65c9682__Orc.wav (1.6s), eta ~0 мин
+00:49:37 [3/3] b4d15058 HyralArc Orc: Ты сидеть. Ты учиться.
+00:49:58   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\HyralArc\b4d1505854e93f846dab1980c1404e75__Orc.wav (1.4s), eta ~0 мин
+00:49:58 done=3 skipped=0 failed=0 total=3

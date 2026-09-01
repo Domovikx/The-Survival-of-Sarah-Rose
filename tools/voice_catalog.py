@@ -32,9 +32,21 @@ NEW_RE = re.compile(r'^\s*new\s+"(.*)"\s*$')
 HEADER_RE = re.compile(r'^# Arc:\s*(\S+)\s*\|\s*Scene:\s*(\S+)')
 LABEL_RE = re.compile(r'^label\s+([A-Za-z0-9_.]+)')
 SAY_RE = re.compile(r'^\s*(\w+)\s+"((?:[^"\\]|\\.)*)"')
+# Строковые спикеры: "Orc" "Walk!" — безымянные существа без define-переменной.
+# Им присваиваем стабильные who-id, чтобы они не уходили в Narrator.
+SAY_STRING_RE = re.compile(r'^\s*"([^"]+)"\s+"((?:[^"\\]|\\.)*)"')
 NARR_RE = re.compile(r'^\s*"((?:[^"\\]|\\.)*)"\s*(?:nointeract|with\b.*)?\s*$')
 MENU_RE = re.compile(r'^\s*"([^"]*)"\s*(?:if\b.*)?:\s*$')
 DEFINE_RE = re.compile(r'^define\s+(\w+)\s*=\s*Character\(\s*"([^"]+)"')
+
+# Каких строковых спикеров признаём персонажами (кто -> who-id).
+STRING_SPEAKERS = {
+    'Orc': 'orc',
+    'Gorak': 'gor',
+    'Raza': 'raza',
+    'Basilisk': 'bsk',
+    'Woodland Spirit': 'wsp',
+}
 
 
 def unescape(s):
@@ -117,6 +129,15 @@ def parse_script():
         if m and label is not None:
             menu_texts.add(unescape(m.group(1)))
             continue
+        m = SAY_STRING_RE.match(line)
+        if m:
+            speaker, text = m.group(1), unescape(m.group(2))
+            sid = STRING_SPEAKERS.get(speaker)
+            if sid:
+                char_names.setdefault(sid, speaker)
+                old_who.setdefault(text, (sid, label))
+                old_labels.setdefault(text, set()).add(label)
+                continue
         m = SAY_RE.match(line)
         if m:
             who, text = m.group(1), unescape(m.group(2))
@@ -225,6 +246,13 @@ def build():
     with open(la_path, 'w', encoding='utf-8') as f:
         json.dump(label_arc, f, ensure_ascii=False, indent=1, sort_keys=True)
     print('wrote {} ({} labels -> arc)'.format(la_path, len(label_arc)))
+
+    # Рантайм-мапа «кто -> активный вариант» (после апдейта каталога)
+    try:
+        import voice_runtime_map
+        voice_runtime_map.main()
+    except Exception:
+        print('!! voice_runtime_map не собралась (pip pyyaml?)')
 
     print()
     print('=== stats ===')

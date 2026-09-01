@@ -16,11 +16,12 @@
   5. loudnorm I=-16 (2 прохода) — выравнивание громкости (EBU R128)
   6. afade in/out 30мс        — защита от кликов по краям
 
-ОРИГИНАЛЫ НЕ ТРОГАЕМ: читаем из одной папки, пишем в другую.
+ПО УМОЛЧАНИЮ IN-PLACE: refs/ -> refs/, существующие скипаются.
+Пересборка: --force. Или отдельные папки --src/--dst.
 
 Запуск:
   python tools/clean_refs.py
-  python tools/clean_refs.py --src refs/ --dst refs/
+  python tools/clean_refs.py --force
 """
 
 import argparse
@@ -50,7 +51,11 @@ def loudnorm_two_pass(path, dst):
     """Выравнивание громкости в 2 прохода (анализ + применение).
 
     1-й проход: ffmpeg меряет вход (print_format=json в stderr).
-    2-й проход: применяет с measured_*-параметрами (linear=true).
+    2-й проход: применяет с measured_*-параметрами.
+    linear=false (ДИНАМИЧЕСКИЙ режим): loudnorm сам жмёт/растягивает динамику
+    к LRA-цели, поэтому ВСЕ рефы сходятся к -16 LUFS вплотную (±0.5),
+    даже тихие с редкими пиками (у них linear-режим упирался в TP-лимит
+    и давал разброс -15...-19).
     """
     probe = subprocess.run(
         ['ffmpeg', '-i', path, '-af',
@@ -63,7 +68,7 @@ def loudnorm_two_pass(path, dst):
         raise RuntimeError('loudnorm probe: нет json в выводе ffmpeg')
     d = json.loads(m.group(0))
     args = ('loudnorm=I={}:TP={}:LRA={}:measured_I={}:measured_TP={}:'
-            'measured_LRA={}:measured_thresh={}:linear=true'.format(
+            'measured_LRA={}:measured_thresh={}:linear=false'.format(
                 LOUD_I, LOUD_TP, LOUD_LRA,
                 d['input_i'], d['input_tp'], d['input_lra'], d['input_thresh']))
     tmp = dst + '.tmp.wav'
@@ -73,9 +78,14 @@ def loudnorm_two_pass(path, dst):
     os.replace(tmp, dst)
 
 
-def clean_file(src, dst):
-    """Один WAV: чистка (денойз+EQ) -> loudnorm -> фейды. True если обработан."""
-    if os.path.exists(dst):
+def clean_file(src, dst, force=False):
+    """Один WAV: чистка (денойз+EQ) -> loudnorm -> фейды. True если обработан.
+
+    force=False: существующий dst не трогаем.
+    force=True: пересобираем. При in-place (src == dst) копии не нужны —
+    src читается ffmpeg'ом только в начале, поэтому писать поверх безопасно.
+    """
+    if os.path.exists(dst) and not force:
         return False  # уже чищеный — не трогаем
     tmp = dst + '.tmp1.wav'
     subprocess.run(['ffmpeg', '-y', '-i', src, '-af', FILTERS,
@@ -83,11 +93,16 @@ def clean_file(src, dst):
                    check=True, capture_output=True)
     loudnorm_two_pass(tmp, dst)
     os.remove(tmp)
-    # Фейды по краям (30мс) — глушим клики
+    # Фейды по краям (30мс) — глушим клики.
+    # st рассчитываем от РЕАЛЬНОЙ длительности (клип может быть короче 10с).
+    dur = float(subprocess.check_output(
+        ['ffprobe', '-v', 'error', '-show_entries', 'format=duration',
+         '-of', 'csv=p=0', dst]).decode().strip().splitlines()[0])
+    st_out = max(0.0, dur - FADE)
     tmp_fade = dst + '.tmp2.wav'
     subprocess.run(['ffmpeg', '-y', '-i', dst,
                     '-af', 'afade=t=in:d={},afade=t=out:st={:.3f}:d={}'.format(
-                        FADE, TARGET_LEN - FADE, FADE),
+                        FADE, st_out, FADE),
                     '-ac', '1', '-ar', '24000', tmp_fade],
                    check=True, capture_output=True)
     os.replace(tmp_fade, dst)
@@ -95,21 +110,22 @@ def clean_file(src, dst):
 
 
 def main():
-    ap = argparse.ArgumentParser(description='Чистка рефов голосов (ffmpeg)')
-    ap.add_argument('--src', default=os.path.join(ROOT, 'refs', 'raw'))
-    ap.add_argument('--dst', default=os.path.join(ROOT, 'refs', 'voices'))
+    ap = argparse.ArgumentParser(
+        description='Чистка рефов голосов (ffmpeg). По умолчанию in-place:'
+                    ' refs/ -> refs/ (без --force существующие скипаются).')
+    ap.add_argument('--src', default=os.path.join(ROOT, 'refs'))
+    ap.add_argument('--dst', default=os.path.join(ROOT, 'refs'))
     ap.add_argument('--force', action='store_true', help='пересобрать существующие')
     args = ap.parse_args()
 
-    os.makedirs(args.dst, exist_ok=True)
+    if os.path.abspath(args.src) != os.path.abspath(args.dst):
+        os.makedirs(args.dst, exist_ok=True)
     files = sorted(f for f in os.listdir(args.src) if f.endswith('.wav'))
     print('фильтры: {}'.format(FILTERS))
     for f in files:
         src = os.path.join(args.src, f)
         dst = os.path.join(args.dst, f)
-        if args.force and os.path.exists(dst):
-            os.remove(dst)
-        made = clean_file(src, dst)
+        made = clean_file(src, dst, force=args.force)
         print('  {:<28s} {}'.format(f, 'OK' if made else 'skip (уже есть)'))
     print('готово: {} -> {}'.format(args.src, args.dst))
 

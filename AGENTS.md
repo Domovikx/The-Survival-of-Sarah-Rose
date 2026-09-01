@@ -22,11 +22,14 @@ ai_voice/                       # КОРЕНЬ ПРОЕКТА, рядом с gam
 game/
   catalog/
     label_arc.json              # label -> Arc (рантайм-мапа, грузится конфигом)
+    who_variant.json            # кто -> активный вариант (грузится конфигом;
+                                #  генерится voice_runtime_map.py при смене yaml)
   voice_config.rpy              # config.auto_voice = static_auto_voice
 ```
 
-**Поиск в игре:** glob `{uid}*.wav` — ловит и `{uid}.wav` и `{uid}__variant.wav`.
-Сортировка: первый совпавший файл используется (alphabetical order).
+**Поиск в игре:** сначала `{uid}__{активный вариант}.wav` (кто говорит →
+`_last_say_who.name` → `who_variant.json` → вариант из voices.yaml), затем
+фолбэк glob `{uid}*.wav` (первый совпавший по алфавиту).
 
 `ai_voice/` лежит ВНЕ game/, поэтому voice_config.rpy добавляет корень
 проекта в `config.searchpath` — без этого Ren'Py ищет файлы только в game/.
@@ -47,25 +50,33 @@ config/
 tools/
   voice_catalog.py             # tl/ru + script.rpy -> voices.json + label_arc.json
   voice_status.py              # отчёт готово/нет голоса -> missing_voices.md
-  add_candidate.py             # новый MP3-кандидат -> raw-нарезка -> вылеченный реф
-  clean_refs.py                # лечение рефов: денойз+deesser+EQ+LOUDNORM (EBU R128 -16 LUFS)
-  voice_batch.py               # батч-генерация: каталог -> ai_voice/{lang}/{arc}/{uid}.wav
-                               # (модель 1 раз, resumable, автотрим; фильтры --arc/--char/--uid)
+  add_candidate.py             # MP3-кандидат -> реф (нарезка + чистка одномерным прогоном;
+                               # qwen_*.mp3 ИГНОРИРУЮТСЯ — это не рефы)
+  clean_refs.py                # лечение рефов: highpass+денойз+deesser+EQ+LOUDNORM+фейды
+  voice_batch.py               # батч-генерация: каталог -> ai_voice/{lang}/{arc}/{uid}__{variant}.wav
+                               # (модель 1 раз, resumable, автотрим; фильтры --arc/--char/--uid/--ref)
   trim_tail_burst.py           # паттерн-трим хвостовых артефактов (импортится батчем)
-  voice_manage.py              # управление голосами: list/status/select/compare
-  voice_ab_test.py             # A/B-тестирование: генерация N кандидатов → compare-папка
-refs/                          # Готовые рефы (нарезка 10с + чистка + loudnorm):
-  {Голос}.wav                  # RU рефы: сюда ссылается config/voices.yaml
+  voice_manage.py              # управление голосами: list/status/select
+                               # (select сам перегенерирует who_variant)
+  voice_runtime_map.py         # voices.yaml + каталог -> catalog/who_variant.json
+  levelnorm.py                 # выравнивание реплик: -16 LUFS / TP -1.5
+                               # (вызывается voice_batch'ем после сохранения;
+                               #  CLI: --dir ai_voice/ru — для старых файлов)
+  voice_preview.py             # 3 самых длинных фразы × каждый реф -> ревью-таблица
+refs/                          # ГОТОВЫЕ рефы (нарезка 10с + чистка + loudnorm), ПЛОСКАЯ:
+  {Голос}.wav                  # активный реф: сюда ссылается config/voices.yaml
   {Голос}_{variant}.wav        # варианты для A/B-тестирования
 ```
 
 ВАЖНО: рабочие рефы ВСЕГДА из refs/ (вылеченные). Правила лечения
-(решение 2026-08-31):
-  1. «Подшипливание» источника клонируется CV3 — рефы чистятся ДО генерации
-     (afftdn nr=15 + deesser i=0.5 + highshelf 8000Hz -6dB)
+(решение 2026-09-01, актуализировано):
+  1. «Подшипливание» источника клонируется CV3 — рефы чистятся ДО генерации:
+     `highpass=f=60, afftdn=nr=15, deesser=i=0.5, highshelf=f=8000:g=-6`
   2. Громкость всех рефов выровнена EBU R128 loudnorm: -16 LUFS, TP -1.5
      (иначе голоса «гуляли» по уровню и генерация наследовала громкость)
-Оба правила — в tools/clean_refs.py, применяются автоматически add_candidate.py.
+  3. Фейды 30мс по краям — защита от кликов
+Всё — в tools/clean_refs.py, применяется автоматически add_candidate.py
+(одним прогоном: mp3 -> нарезка 10с -> чистка -> refs/{Голос}.wav).
 
 Категории (voices.json): dialogue 22 216, narration 45 051, menu 491, ui 496.
 Озвучиваются только dialogue + narration, и только персонажи из config/voices.yaml
@@ -82,7 +93,8 @@ python tools/voice_status.py     # обновить отчёт-заглушки
 
 ```bash
 # 1. Положить кандидата: voice_candidates/{Имя}/*.mp3
-# 2. Собрать реф + транскрипт (существующие скипаются):
+#    (qwen_*.mp3 игнорируются — это VoiceDesign-кандидаты, не рефы)
+# 2. Собрать реф (существующие скипаются):
 C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/add_candidate.py
 # 3. Вписать напечатанный фрагмент в config/voices.yaml
 # 4. Обновить отчёт:
@@ -123,13 +135,29 @@ PY="C:\pinokio\api\Qwen3-TTS-Pinokio.git\app\venv\Scripts\python.exe"
 ```
 1. Кандидаты: voice_candidates/{Name}/*.mp3
 2. Рефы: add_candidate.py → refs/{Name}_{variant}.wav
-3. Сравнение: voice_ab_test.py → output/voice/compare_{name}/
-   Файлы: {uid}__{variant}.wav (постфиксы __[speaker]_[v])
-4. Выбор: слушаешь compare-папку, пишешь номер победителя
+3. Генерация ПО КАЖДОМУ варианту (файлы лежат рядом, постфикс = реф):
+   voice_batch.py --char Sarah --ref refs/Sarah_1.wav --limit 5
+   voice_batch.py --char Sarah --ref refs/Sarah_3.wav --limit 5
+   → ai_voice/ru/{arc}/{uid}__Sarah_1.wav и {uid}__Sarah_3.wav
+4. Выбор: слушаешь пары в ai_voice/ru/{arc}/ (одинаковые uid рядом)
 5. Фиксация: voice_manage.py select {Name} {variant}
    → копирует refs/{Name}_{variant}.wav → refs/{Name}.wav
    → обновляет config/voices.yaml
+   → перегенерирует catalog/who_variant.json
 6. Генерация: voice_batch.py --char {Name} — использует активный реф
+   (файлы проигравшего варианта при желании удаляются вручную)
+```
+
+### Переключение варианта в рантайме (yaml рулит звучанием)
+
+Кто говорит, игра знает (`_last_say_who.name`). Приоритет резолва:
+`{uid}__{активный в yaml}.wav` → любой `{uid}*.wav`. Поэтому сменил
+`ref:` в voices.yaml → перегенерил `catalog/who_variant.json`
+(`python tools/voice_runtime_map.py`; select делает это сам) →
+в игре зазвучал новый вариант, старые файлы удалять НЕ обязательно
+(они просто перестают выигрывать приоритет).
+
+```
 ```
 
 ### Инструменты
@@ -138,15 +166,16 @@ PY="C:\pinokio\api\Qwen3-TTS-Pinokio.git\app\venv\Scripts\python.exe"
 # Добавление кандидата → реф
 C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/add_candidate.py --only {Name}
 
-# A/B-сравнение (генерирует N реплик × M вариантов)
-C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_ab_test.py \
-  --name Sarah --refs 1 3 --limit 5
+# A/B-сравнение: генерация каждым вариантом
+C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py \
+  --char Sarah --ref refs/Sarah_1.wav --limit 5
+C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py \
+  --char Sarah --ref refs/Sarah_3.wav --limit 5
 
 # Управление голосами
 python tools/voice_manage.py list      # все голоса, активный реф, варианты
 python tools/voice_manage.py status    # кто озвучен
 python tools/voice_manage.py select Sarah 3  # выбрать вариант → refs/Sarah.wav
-python tools/voice_manage.py compare Sarah   # A/B-тест через voice_ab_test.py
 
 # Генерация (только отсутствующие файлы)
 C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py \
@@ -161,15 +190,17 @@ C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py \
 
 ```
 refs/
-  raw/{Name}.wav          # грязная нарезка 10с (пересобирается)
-  ready/{Name}.wav        # АКТИВНЫЙ реф (вылеченный, используется voice_batch)
-  ready/{Name}_{variant}.wav  # варианты для сравнения
+  {Name}.wav           # АКТИВНЫЙ реф (вылеченный, используется voice_batch)
+  {Name}_{variant}.wav # варианты для сравнения (Sarah_1, Sarah_3, ...)
 ```
+
+Альтернативный реф без правки yaml: `voice_batch.py --ref refs/{Name}_{variant}.wav`
+(постфикс файла генерации = имя рефа: `{uid}__{variant}.wav`).
 
 ### Тесты
 
 ```bash
-python -m pytest tests/ -v  # 15 тестов: voice_manage, voice_batch, clean_refs
+python -m pytest tests/ -v  # 16 тестов: voice_manage, voice_batch, clean_refs
 ```
 
 ## План работ
