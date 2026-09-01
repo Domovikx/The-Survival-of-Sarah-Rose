@@ -18,7 +18,7 @@
 
 Запуск:
   python tools/clean_refs.py
-  python tools/clean_refs.py --src refs/raw --dst refs/voices
+  python tools/clean_refs.py --src refs/ --dst refs/
 """
 
 import argparse
@@ -95,12 +95,6 @@ def main():
             os.remove(dst)
         made = clean_file(src, dst)
         print('  {:<28s} {}'.format(f, 'OK' if made else 'skip (уже есть)'))
-        # txt-транскрипт копируем рядом (нужен zero_shot, не трогаем содержимое)
-        txt_src = src[:-4] + '.txt'
-        txt_dst = dst[:-4] + '.txt'
-        if os.path.exists(txt_src) and not os.path.exists(txt_dst):
-            with open(txt_src, 'rb') as a, open(txt_dst, 'wb') as b:
-                b.write(a.read())
     print('готово: {} -> {}'.format(args.src, args.dst))
 
 

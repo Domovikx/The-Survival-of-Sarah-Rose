@@ -1,53 +1,82 @@
-# config/voices.yaml — маппинг «персонаж → голос» для генерации озвучки.
-#
-# КАК ЧИТАТЬ:
-#   Наличие записи в voices: = голос ГОТОВ, его реплики будут озвучиваться.
-#   Персонажа НЕТ в списке = голоса нет -> его реплики ПРОПУСКАЮТСЯ
-#   (полный список «кого ещё найти» -> catalog/missing_voices.md,
-#    пересобирается командой: python tools/voice_status.py).
-#
-# ПОЛЯ ЗАПИСИ:
-#   ref    — путь к рефу голоса. ВАЖНО: используем ВЫЛЕЧЕННЫЕ рефы
-#            (refs/voices/) — денойз+EQ убирает «подшипливание»
-#            источника, иначе CV3 клонирует шум вместе с тембром
-#            (решение 2026-08-31, A/B: clean явно лучше).
-#   who    — идентификаторы персонажа из script.rpy (define s = Character(...))
-#            специальный случай: "narrator" — наррация (реплики без персонажа)
-#   gender — пол голоса (M/F), для справки
-#
-# КАК ДОБАВИТЬ НОВЫЙ ГОЛОС:
-#   1. Положить кандидата: voice_candidates/{Имя}/*.mp3
-#   2. python tools/add_candidate.py  (соберёт реф + транскрипт + вылечит)
-#   3. Добавить блок сюда по образцу ниже (ref указывает на refs/voices/)
-#   4. python tools/voice_status.py   (обновит отчёт)
-
 voices:
   Sarah:
-    ref: refs/voices/Sarah.wav
-    who: [s]
+    ref: refs/Sarah_3.wav
+    who:
+    - s
     gender: F
-
   King Orwell Rose:
-    ref: refs/voices/King Orwell Rose.wav
-    who: [ko]
+    ref: refs/King Orwell Rose.wav
+    who:
+    - ko
     gender: M
-
   Varga:
-    ref: refs/voices/Varga.wav
-    who: [v]
+    ref: refs/Varga.wav
+    who:
+    - v
     gender: M
-
   Kate:
-    ref: refs/voices/Kate.wav
-    who: [k]
+    ref: refs/Kate.wav
+    who:
+    - k
     gender: F
-
   Marion:
-    ref: refs/voices/Marion.wav
-    who: [m]
+    ref: refs/Marion.wav
+    who:
+    - m
     gender: F
-
   Narrator:
-    ref: refs/voices/Narrator.wav
-    who: [narrator]
+    ref: refs/Narrator.wav
+    who:
+    - narrator
     gender: F
+  Caleb:
+    ref: refs/Caleb.wav
+    who:
+    - ca
+    gender: M
+  Captain Belmont:
+    ref: refs/Captain Belmont.wav
+    who:
+    - cb
+    gender: M
+  Dalia:
+    ref: refs/Dalia.wav
+    who:
+    - dalia
+    gender: F
+  Hassar:
+    ref: refs/Hassar.wav
+    who:
+    - h
+    gender: M
+  Razaphel:
+    ref: refs/Razaphel.wav
+    who:
+    - r
+    gender: M
+  Thomas:
+    ref: refs/Thomas.wav
+    who:
+    - t
+    gender: M
+  Xanthippe:
+    ref: refs/Xanthippe.wav
+    who:
+    - x
+    gender: M
+  Generic Female Mature:
+    ref: refs/Generic Female Mature.wav
+    who: []
+    gender: F
+  Generic Female Young:
+    ref: refs/Generic Female Young.wav
+    who: []
+    gender: F
+  Generic Male Mature:
+    ref: refs/Generic Male Mature.wav
+    who: []
+    gender: M
+  Generic Male Young:
+    ref: refs/Generic Male Young.wav
+    who: []
+    gender: M

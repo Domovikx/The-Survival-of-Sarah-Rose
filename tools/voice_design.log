@@ -1,0 +1,457 @@
+loading model from C:\Users\Domo\.cache\huggingface\hub\models--Qwen--Qwen3-TTS-12Hz-1.7B-VoiceDesign\snapshots\5ecdb67327fd37bb2e042aab12ff7391903235d3
+model loaded
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Carolyn\qwen_01.mp3 (exists)
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Carolyn\qwen_02.mp3 (exists)
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Carolyn\qwen_03.mp3 (exists)
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Carolyn\qwen_04.mp3 (exists)
+== Carolyn #5/6 try1
+SHORT try1 raw 6.9s -> 6.8s
+== Carolyn #5/6 try2
+SHORT try2 raw 6.1s -> 6.0s
+== Carolyn #5/6 try3
+OK try3 gen 83.3s raw 14.5s -> 14.3s
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Carolyn\qwen_06.mp3 (exists)
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Metis\qwen_01.mp3 (exists)
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Metis\qwen_02.mp3 (exists)
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Metis\qwen_03.mp3 (exists)
+== Metis #4/6 try1
+SHORT try1 raw 7.1s -> 6.9s
+== Metis #4/6 try2
+SHORT try2 raw 6.2s -> 6.0s
+== Metis #4/6 try3
+OK try3 gen 75.3s raw 14.1s -> 13.9s
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Metis\qwen_05.mp3 (exists)
+== Metis #6/6 try1
+SHORT try1 raw 7.5s -> 7.2s
+== Metis #6/6 try2
+SHORT try2 raw 5.1s -> 4.9s
+== Metis #6/6 try3
+OK try3 gen 67.7s raw 12.7s -> 12.4s
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Sakar\qwen_01.mp3 (exists)
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Sakar\qwen_02.mp3 (exists)
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Sakar\qwen_03.mp3 (exists)
+== Sakar #4/6 try1
+SHORT try1 raw 7.2s -> 7.0s
+== Sakar #4/6 try2
+SHORT try2 raw 4.3s -> 4.1s
+== Sakar #4/6 try3
+OK try3 gen 82.6s raw 14.8s -> 14.6s
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Sakar\qwen_05.mp3 (exists)
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Sakar\qwen_06.mp3 (exists)
+== Sigmund #1/6 try1
+SHORT try1 raw 7.2s -> 7.0s
+== Sigmund #1/6 try2
+SHORT try2 raw 6.4s -> 6.2s
+== Sigmund #1/6 try3
+OK try3 gen 83.0s raw 14.7s -> 14.5s
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Sigmund\qwen_02.mp3 (exists)
+== Sigmund #3/6 try1
+SHORT try1 raw 4.5s -> 4.4s
+== Sigmund #3/6 try2
+SHORT try2 raw 5.7s -> 5.5s
+== Sigmund #3/6 try3
+OK try3 gen 60.1s raw 10.9s -> 10.8s
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Sigmund\qwen_04.mp3 (exists)
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Sigmund\qwen_05.mp3 (exists)
+== Sigmund #6/6 try1
+SHORT try1 raw 6.0s -> 5.8s
+== Sigmund #6/6 try2
+SHORT try2 raw 6.4s -> 6.2s
+== Sigmund #6/6 try3
+OK try3 gen 63.9s raw 11.5s -> 11.3s
+== Alfred #1/6 try1
+SHORT try1 raw 6.5s -> 6.3s
+== Alfred #1/6 try2
+SHORT try2 raw 7.6s -> 7.0s
+== Alfred #1/6 try3
+OK try3 gen 128.0s raw 22.9s -> 22.7s
+== Alfred #2/6 try1
+SHORT try1 raw 8.7s -> 8.5s
+== Alfred #2/6 try2
+SHORT try2 raw 8.0s -> 7.7s
+== Alfred #2/6 try3
+OK try3 gen 111.0s raw 20.1s -> 19.5s
+== Alfred #3/6 try1
+SHORT try1 raw 7.6s -> 7.3s
+== Alfred #3/6 try2
+SHORT try2 raw 7.7s -> 7.2s
+== Alfred #3/6 try3
+OK try3 gen 78.5s raw 14.5s -> 14.3s
+== Alfred #4/6 try1
+SHORT try1 raw 7.3s -> 7.1s
+== Alfred #4/6 try2
+SHORT try2 raw 6.0s -> 5.7s
+== Alfred #4/6 try3
+OK try3 gen 60.9s raw 10.7s -> 10.5s
+== Alfred #5/6 try1
+SHORT try1 raw 6.9s -> 6.7s
+== Alfred #5/6 try2
+SHORT try2 raw 6.7s -> 6.1s
+== Alfred #5/6 try3
+OK try3 gen 58.8s raw 10.5s -> 10.3s
+== Alfred #6/6 try1
+SHORT try1 raw 7.3s -> 7.0s
+== Alfred #6/6 try2
+SHORT try2 raw 7.0s -> 6.9s
+== Alfred #6/6 try3
+OK try3 gen 70.3s raw 13.1s -> 12.5s
+== Duke Antonio #1/6 try1
+SHORT try1 raw 7.5s -> 7.3s
+== Duke Antonio #1/6 try2
+SHORT try2 raw 7.3s -> 7.2s
+== Duke Antonio #1/6 try3
+OK try3 gen 84.6s raw 15.6s -> 15.4s
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Duke Antonio\qwen_02.mp3 (exists)
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Duke Antonio\qwen_03.mp3 (exists)
+== Duke Antonio #4/6 try1
+SHORT try1 raw 5.0s -> 4.9s
+== Duke Antonio #4/6 try2
+SHORT try2 raw 6.7s -> 6.4s
+== Duke Antonio #4/6 try3
+OK try3 gen 69.7s raw 13.0s -> 12.9s
+== Duke Antonio #5/6 try1
+SHORT try1 raw 8.7s -> 8.4s
+== Duke Antonio #5/6 try2
+SHORT try2 raw 6.8s -> 6.6s
+== Duke Antonio #5/6 try3
+OK try3 gen 81.7s raw 15.3s -> 15.0s
+== Duke Antonio #6/6 try1
+SHORT try1 raw 9.7s -> 9.4s
+== Duke Antonio #6/6 try2
+SHORT try2 raw 9.6s -> 9.3s
+== Duke Antonio #6/6 try3
+OK try3 gen 82.7s raw 15.5s -> 15.3s
+== Jaeid #1/6 try1
+SHORT try1 raw 9.8s -> 9.1s
+== Jaeid #1/6 try2
+SHORT try2 raw 8.1s -> 7.5s
+== Jaeid #1/6 try3
+OK try3 gen 95.0s raw 17.2s -> 16.6s
+== Jaeid #2/6 try1
+SHORT try1 raw 6.3s -> 6.0s
+== Jaeid #2/6 try2
+SHORT try2 raw 7.9s -> 7.3s
+== Jaeid #2/6 try3
+OK try3 gen 68.6s raw 12.5s -> 12.2s
+== Jaeid #3/6 try1
+SHORT try1 raw 7.7s -> 7.6s
+== Jaeid #3/6 try2
+SHORT try2 raw 6.7s -> 6.3s
+== Jaeid #3/6 try3
+OK try3 gen 62.2s raw 11.2s -> 10.9s
+== Jaeid #4/6 try1
+SHORT try1 raw 6.5s -> 6.2s
+== Jaeid #4/6 try2
+SHORT try2 raw 6.1s -> 5.5s
+== Jaeid #4/6 try3
+SHORT try3 raw 10.0s -> 9.8s
+GIVE UP Jaeid #4/6
+== Jaeid #5/6 try1
+SHORT try1 raw 7.3s -> 7.0s
+== Jaeid #5/6 try2
+SHORT try2 raw 5.7s -> 5.3s
+== Jaeid #5/6 try3
+SHORT try3 raw 9.6s -> 9.4s
+GIVE UP Jaeid #5/6
+== Jaeid #6/6 try1
+SHORT try1 raw 8.7s -> 7.9s
+== Jaeid #6/6 try2
+SHORT try2 raw 5.8s -> 5.7s
+== Jaeid #6/6 try3
+OK try3 gen 83.7s raw 15.4s -> 14.7s
+== Vaelen #1/6 try1
+SHORT try1 raw 5.7s -> 5.6s
+== Vaelen #1/6 try2
+SHORT try2 raw 6.5s -> 6.3s
+== Vaelen #1/6 try3
+OK try3 gen 81.3s raw 15.1s -> 14.7s
+== Vaelen #2/6 try1
+SHORT try1 raw 6.9s -> 6.7s
+== Vaelen #2/6 try2
+SHORT try2 raw 6.1s -> 6.0s
+== Vaelen #2/6 try3
+OK try3 gen 65.9s raw 12.1s -> 11.9s
+== Vaelen #3/6 try1
+SHORT try1 raw 5.0s -> 4.8s
+== Vaelen #3/6 try2
+SHORT try2 raw 4.3s -> 4.1s
+== Vaelen #3/6 try3
+OK try3 gen 66.4s raw 12.2s -> 12.0s
+== Vaelen #4/6 try1
+SHORT try1 raw 5.0s -> 4.9s
+== Vaelen #4/6 try2
+SHORT try2 raw 5.3s -> 5.1s
+== Vaelen #4/6 try3
+OK try3 gen 58.0s raw 10.7s -> 10.5s
+== Vaelen #5/6 try1
+SHORT try1 raw 6.4s -> 6.2s
+== Vaelen #5/6 try2
+SHORT try2 raw 5.7s -> 5.5s
+== Vaelen #5/6 try3
+OK try3 gen 63.9s raw 11.8s -> 11.7s
+== Vaelen #6/6 try1
+SHORT try1 raw 5.7s -> 5.6s
+== Vaelen #6/6 try2
+SHORT try2 raw 4.6s -> 4.5s
+== Vaelen #6/6 try3
+OK try3 gen 92.2s raw 17.1s -> 16.7s
+== Gilead #1/6 try1
+SHORT try1 raw 6.4s -> 6.2s
+== Gilead #1/6 try2
+SHORT try2 raw 8.6s -> 8.1s
+== Gilead #1/6 try3
+OK try3 gen 73.1s raw 13.3s -> 13.1s
+== Gilead #2/6 try1
+SHORT try1 raw 4.6s -> 4.5s
+== Gilead #2/6 try2
+SHORT try2 raw 5.4s -> 5.1s
+== Gilead #2/6 try3
+OK try3 gen 68.4s raw 12.5s -> 12.3s
+== Gilead #3/6 try1
+SHORT try1 raw 6.6s -> 6.4s
+== Gilead #3/6 try2
+SHORT try2 raw 5.7s -> 5.5s
+== Gilead #3/6 try3
+OK try3 gen 85.2s raw 15.6s -> 15.0s
+== Gilead #4/6 try1
+SHORT try1 raw 6.3s -> 6.1s
+== Gilead #4/6 try2
+SHORT try2 raw 5.6s -> 5.4s
+== Gilead #4/6 try3
+OK try3 gen 62.3s raw 11.4s -> 11.2s
+== Gilead #5/6 try1
+SHORT try1 raw 5.1s -> 4.9s
+== Gilead #5/6 try2
+SHORT try2 raw 4.8s -> 4.6s
+== Gilead #5/6 try3
+OK try3 gen 61.3s raw 11.2s -> 11.0s
+== Gilead #6/6 try1
+SHORT try1 raw 5.8s -> 5.7s
+== Gilead #6/6 try2
+SHORT try2 raw 5.4s -> 5.2s
+== Gilead #6/6 try3
+OK try3 gen 57.0s raw 10.5s -> 10.3s
+== Cassius #1/6 try1
+SHORT try1 raw 8.8s -> 8.1s
+== Cassius #1/6 try2
+SHORT try2 raw 6.6s -> 6.5s
+== Cassius #1/6 try3
+OK try3 gen 83.1s raw 15.1s -> 14.8s
+== Cassius #2/6 try1
+SHORT try1 raw 4.5s -> 4.4s
+== Cassius #2/6 try2
+SHORT try2 raw 5.0s -> 4.8s
+== Cassius #2/6 try3
+OK try3 gen 66.4s raw 12.3s -> 12.1s
+== Cassius #3/6 try1
+SHORT try1 raw 5.1s -> 4.9s
+== Cassius #3/6 try2
+SHORT try2 raw 4.1s -> 3.8s
+== Cassius #3/6 try3
+SHORT try3 raw 8.3s -> 8.1s
+GIVE UP Cassius #3/6
+== Cassius #4/6 try1
+SHORT try1 raw 6.5s -> 5.9s
+== Cassius #4/6 try2
+SHORT try2 raw 9.0s -> 8.8s
+== Cassius #4/6 try3
+SHORT try3 raw 9.7s -> 9.5s
+GIVE UP Cassius #4/6
+== Cassius #5/6 try1
+SHORT try1 raw 5.7s -> 5.6s
+== Cassius #5/6 try2
+SHORT try2 raw 6.1s -> 5.9s
+== Cassius #5/6 try3
+OK try3 gen 61.6s raw 11.3s -> 11.1s
+== Cassius #6/6 try1
+SHORT try1 raw 8.9s -> 8.8s
+== Cassius #6/6 try2
+SHORT try2 raw 5.4s -> 4.8s
+== Cassius #6/6 try3
+OK try3 gen 94.0s raw 17.3s -> 16.6s
+== Marshal Edmond #1/6 try1
+SHORT try1 raw 6.5s -> 5.9s
+== Marshal Edmond #1/6 try2
+SHORT try2 raw 6.2s -> 6.1s
+== Marshal Edmond #1/6 try3
+OK try3 gen 68.5s raw 12.5s -> 12.2s
+== Marshal Edmond #2/6 try1
+SHORT try1 raw 6.6s -> 6.4s
+== Marshal Edmond #2/6 try2
+SHORT try2 raw 6.9s -> 6.8s
+== Marshal Edmond #2/6 try3
+OK try3 gen 69.1s raw 12.8s -> 12.6s
+== Marshal Edmond #3/6 try1
+SHORT try1 raw 4.6s -> 4.4s
+== Marshal Edmond #3/6 try2
+SHORT try2 raw 4.8s -> 4.6s
+== Marshal Edmond #3/6 try3
+SHORT try3 raw 9.8s -> 9.7s
+GIVE UP Marshal Edmond #3/6
+== Marshal Edmond #4/6 try1
+SHORT try1 raw 5.7s -> 5.4s
+== Marshal Edmond #4/6 try2
+SHORT try2 raw 4.8s -> 4.6s
+== Marshal Edmond #4/6 try3
+OK try3 gen 64.9s raw 11.7s -> 11.5s
+== Marshal Edmond #5/6 try1
+SHORT try1 raw 6.1s -> 6.0s
+== Marshal Edmond #5/6 try2
+SHORT try2 raw 5.7s -> 5.6s
+== Marshal Edmond #5/6 try3
+OK try3 gen 58.5s raw 10.9s -> 10.8s
+== Marshal Edmond #6/6 try1
+SHORT try1 raw 5.1s -> 4.9s
+== Marshal Edmond #6/6 try2
+SHORT try2 raw 5.3s -> 5.2s
+== Marshal Edmond #6/6 try3
+OK try3 gen 64.5s raw 11.6s -> 11.3s
+== Daemon #1/6 try1
+SHORT try1 raw 6.6s -> 6.2s
+== Daemon #1/6 try2
+SHORT try2 raw 6.1s -> 5.0s
+== Daemon #1/6 try3
+OK try3 gen 57.3s raw 10.3s -> 10.0s
+== Daemon #2/6 try1
+SHORT try1 raw 10.0s -> 9.7s
+== Daemon #2/6 try2
+SHORT try2 raw 7.3s -> 7.0s
+== Daemon #2/6 try3
+SHORT try3 raw 9.5s -> 9.3s
+GIVE UP Daemon #2/6
+== Daemon #3/6 try1
+SHORT try1 raw 7.0s -> 6.8s
+== Daemon #3/6 try2
+SHORT try2 raw 4.9s -> 4.7s
+== Daemon #3/6 try3
+OK try3 gen 71.5s raw 13.0s -> 12.8s
+== Daemon #4/6 try1
+SHORT try1 raw 8.8s -> 8.3s
+== Daemon #4/6 try2
+loading model from C:\Users\Domo\.cache\huggingface\hub\models--Qwen--Qwen3-TTS-12Hz-1.7B-VoiceDesign\snapshots\5ecdb67327fd37bb2e042aab12ff7391903235d3
+model loaded
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Daemon\qwen_01.mp3 (exists)
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Daemon\qwen_02.mp3 (exists)
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Daemon\qwen_03.mp3 (exists)
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Daemon\qwen_04.mp3 (exists)
+== Daemon #5/6 try1
+SHORT try1 raw 4.7s -> 4.4s
+== Daemon #5/6 try2
+SHORT try2 raw 5.1s -> 4.9s
+== Daemon #5/6 try3
+OK try3 gen 58.2s raw 10.8s -> 10.4s
+== Daemon #6/6 try1
+SHORT try1 raw 4.8s -> 4.6s
+== Daemon #6/6 try2
+SHORT try2 raw 8.1s -> 7.5s
+== Daemon #6/6 try3
+OK try3 gen 59.8s raw 10.9s -> 10.7s
+== Kim #1/6 try1
+SHORT try1 raw 6.9s -> 6.4s
+== Kim #1/6 try2
+SHORT try2 raw 6.4s -> 6.2s
+== Kim #1/6 try3
+OK try3 gen 65.8s raw 12.0s -> 11.8s
+== Kim #2/6 try1
+SHORT try1 raw 5.7s -> 5.6s
+== Kim #2/6 try2
+SHORT try2 raw 5.6s -> 5.4s
+== Kim #2/6 try3
+OK try3 gen 77.4s raw 14.1s -> 13.9s
+== Kim #3/6 try1
+SHORT try1 raw 7.0s -> 6.9s
+== Kim #3/6 try2
+SHORT try2 raw 6.6s -> 6.5s
+== Kim #3/6 try3
+OK try3 gen 88.3s raw 15.8s -> 15.5s
+== Kim #4/6 try1
+SHORT try1 raw 4.9s -> 4.7s
+== Kim #4/6 try2
+SHORT try2 raw 5.0s -> 4.8s
+== Kim #4/6 try3
+OK try3 gen 68.2s raw 12.2s -> 12.0s
+== Kim #5/6 try1
+SHORT try1 raw 7.3s -> 7.1s
+== Kim #5/6 try2
+SHORT try2 raw 7.2s -> 7.0s
+== Kim #5/6 try3
+OK try3 gen 77.8s raw 14.1s -> 13.9s
+== Kim #6/6 try1
+SHORT try1 raw 5.6s -> 5.4s
+== Kim #6/6 try2
+SHORT try2 raw 6.6s -> 6.5s
+== Kim #6/6 try3
+OK try3 gen 68.4s raw 11.9s -> 11.7s
+== Kravel #1/6 try1
+SHORT try1 raw 6.6s -> 6.3s
+== Kravel #1/6 try2
+SHORT try2 raw 5.7s -> 5.6s
+== Kravel #1/6 try3
+OK try3 gen 83.2s raw 14.5s -> 14.4s
+== Kravel #2/6 try1
+SHORT try1 raw 8.5s -> 8.3s
+== Kravel #2/6 try2
+OK try2 gen 658.3s raw 112.6s -> 112.4s
+== Kravel #3/6 try1
+SHORT try1 raw 5.7s -> 5.2s
+== Kravel #3/6 try2
+SHORT try2 raw 8.6s -> 8.1s
+== Kravel #3/6 try3
+OK try3 gen 81.3s raw 15.0s -> 14.7s
+== Kravel #4/6 try1
+SHORT try1 raw 8.1s -> 8.0s
+== Kravel #4/6 try2
+SHORT try2 raw 6.1s -> 5.9s
+== Kravel #4/6 try3
+SHORT try3 raw 9.8s -> 9.6s
+GIVE UP Kravel #4/6
+== Kravel #5/6 try1
+SHORT try1 raw 4.7s -> 4.4s
+== Kravel #5/6 try2
+SHORT try2 raw 4.7s -> 4.5s
+== Kravel #5/6 try3
+OK try3 gen 61.6s raw 10.9s -> 10.8s
+== Kravel #6/6 try1
+SHORT try1 raw 7.8s -> 7.6s
+== Kravel #6/6 try2
+SHORT try2 raw 8.5s -> 8.3s
+== Kravel #6/6 try3
+OK try3 gen 71.2s raw 12.4s -> 12.2s
+== Albert #1/6 try1
+SHORT try1 raw 8.7s -> 8.5s
+== Albert #1/6 try2
+SHORT try2 raw 5.0s -> 4.8s
+== Albert #1/6 try3
+OK try3 gen 71.7s raw 13.5s -> 13.3s
+== Albert #2/6 try1
+SHORT try1 raw 4.4s -> 4.2s
+== Albert #2/6 try2
+SHORT try2 raw 5.0s -> 4.8s
+== Albert #2/6 try3
+OK try3 gen 70.9s raw 13.6s -> 13.3s
+== Albert #3/6 try1
+SHORT try1 raw 5.7s -> 5.2s
+== Albert #3/6 try2
+SHORT try2 raw 6.8s -> 6.5s
+== Albert #3/6 try3
+OK try3 gen 56.4s raw 10.6s -> 10.4s
+== Albert #4/6 try1
+SHORT try1 raw 4.7s -> 4.5s
+== Albert #4/6 try2
+SHORT try2 raw 5.5s -> 5.3s
+== Albert #4/6 try3
+SHORT try3 raw 9.2s -> 9.0s
+GIVE UP Albert #4/6
+== Albert #5/6 try1
+SHORT try1 raw 5.0s -> 4.8s
+== Albert #5/6 try2
+SHORT try2 raw 6.3s -> 6.1s
+== Albert #5/6 try3
+OK try3 gen 62.8s raw 11.3s -> 11.2s
+== Albert #6/6 try1
+SHORT try1 raw 6.1s -> 5.9s
+== Albert #6/6 try2
+SHORT try2 raw 6.3s -> 6.1s
+== Albert #6/6 try3
+OK try3 gen 66.3s raw 12.1s -> 11.9s
+DONE total: 22

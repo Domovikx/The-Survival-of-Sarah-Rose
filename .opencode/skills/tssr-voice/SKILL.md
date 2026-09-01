@@ -32,8 +32,8 @@ Arc в рантайме = label-часть translation ID (`OpeningScene_92a05bc
 
 ```
 refs/raw/{Голос}.wav(+txt)   # грязная нарезка 10с + whisper-транскрипт
-refs/voices/{Голос}.wav      # РАБОЧИЕ: вылечены + loudnorm (voices.yaml ссылается сюда)
-refs/voices_en/{Голос}.wav   # EN-рефы (сейчас временные копии RU)
+refs/ready/{Голос}.wav      # РАБОЧИЕ: вылечены + loudnorm (voices.yaml ссылается сюда)
+refs/ready_en/{Голос}.wav   # EN-рефы (сейчас временные копии RU)
 ```
 
 ПРАВИЛА ЛЕЧЕНИЯ РЕФОВ (2026-08-31, зафиксированы):
@@ -50,7 +50,7 @@ refs/voices_en/{Голос}.wav   # EN-рефы (сейчас временные
 | `voice_catalog.py` | tl/ru + script.rpy → catalog/voices.json + label_arc.json (только при апдейте игры) |
 | `voice_status.py` | отчёт готово/нет голоса → catalog/missing_voices.md (заглушки) |
 | `add_candidate.py` | кандидат MP3 → raw-нарезка + txt + вылеченный реф (инкрементально) |
-| `clean_refs.py` | лечение+громкость: refs/raw → refs/voices |
+| `clean_refs.py` | лечение+громкость: refs/raw → refs/ready |
 | `voice_batch.py` | батч-генерация в ai_voice/{lang}/{arc}/{uid}.wav |
 | `trim_tail_burst.py` | паттерн-трим хвостов (импортится батчем) |
 
@@ -74,7 +74,7 @@ C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py \
 # 1. Положить кандидата: voice_candidates/{Имя}/*.mp3
 # 2. Собрать нарезку + транскрипт + вылеченный реф:
 C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/add_candidate.py
-# 3. Вписать напечатанный фрагмент в config/voices.yaml (ref → refs/voices/)
+# 3. Вписать напечатанный фрагмент в config/voices.yaml (ref → refs/ready/)
 # 4. Обновить отчёт заглушек:
 python tools/voice_status.py
 # 5. Сгенерировать реплики этого персонажа:

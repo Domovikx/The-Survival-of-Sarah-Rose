@@ -96,7 +96,7 @@ def load_inputs():
     return entries, voices, who_to_voice
 
 
-def select_phrases(entries, who_to_voice, args):
+def select_phrases(entries, voices, who_to_voice, args):
     """Фильтруем каталог до списка фраз к генерации.
 
     Возвращает список dict: uid, arc, text, voice (имя голоса), ref, out.
@@ -119,9 +119,11 @@ def select_phrases(entries, who_to_voice, args):
             continue
         if args.uid and e['uid'] not in args.uid:
             continue
-        ref = os.path.join(ROOT, 'refs',
-                           'voices' if args.lang == 'ru' else 'voices_en',
-                           voice + '.wav')
+        ref_cfg = voices.get(voice, {}).get('ref')
+        if ref_cfg:
+            ref = os.path.join(ROOT, ref_cfg)
+        else:
+            ref = os.path.join(ROOT, 'refs', 'raw', voice + '.wav')
         out = os.path.join(ROOT, 'ai_voice', args.lang,
                            e['arc'], e['uid'] + '.wav')
         phrases.append(dict(
@@ -156,7 +158,7 @@ def main():
     args = ap.parse_args()
 
     entries, voices, who_to_voice = load_inputs()
-    phrases = select_phrases(entries, who_to_voice, args)
+    phrases = select_phrases(entries, voices, who_to_voice, args)
     log('фраз к генерации: {} (lang={}, force={})'.format(
         len(phrases), args.lang, args.force))
     for p in phrases[:10]:
