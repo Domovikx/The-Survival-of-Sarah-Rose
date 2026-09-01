@@ -132,6 +132,7 @@ def test_select_phrases_with_ref(mock_config):
         char = 'TestVoice'
         uid = None
         lang = 'ru'
+        ref = None
     
     phrases = voice_batch.select_phrases(entries, voices, who_to_voice, Args())
     
@@ -157,6 +158,7 @@ def test_select_phrases_skips_no_ref(mock_config):
         char = 'NoRefVoice'
         uid = None
         lang = 'ru'
+        ref = None
     
     phrases = voice_batch.select_phrases(entries, voices, who_to_voice, Args())
     
@@ -196,6 +198,7 @@ def test_select_phrases_narration(mock_config):
         char = None
         uid = None
         lang = 'ru'
+        ref = None
     
     phrases = voice_batch.select_phrases(entries, voices, who_to_voice, Args())
     
@@ -232,6 +235,7 @@ def test_ref_path_uses_yaml_ref(mock_config):
         char = 'TestVoice'
         uid = None
         lang = 'ru'
+        ref = None
     
     phrases = voice_batch.select_phrases(entries, voices, who_to_voice, Args())
     

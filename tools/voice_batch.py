@@ -6,7 +6,7 @@
   - config/voices.yaml      у кого есть голос (кто НЕ указан — пропускается)
 
 ВЫХОД:
-  ai_voice/{lang}/{arc}/{uid}.wav   (resumable: существующие скипаются)
+  ai_voice/{lang}/{arc}/{uid}__{variant}.wav   (resumable: существующие скипаются)
 
 ПОБЕДНЫЙ КОНФИГ (как в W40KRT, 2026-08-29):
   cross_lingual + RL + flow-temp 1.2 + cfg 0.9 + RAS (0.5, 10, 0.15)
@@ -120,12 +120,17 @@ def select_phrases(entries, voices, who_to_voice, args):
         if args.uid and e['uid'] not in args.uid:
             continue
         ref_cfg = voices.get(voice, {}).get('ref')
-        if ref_cfg:
+        if args.ref:
+            ref = os.path.abspath(args.ref)
+            variant = os.path.splitext(os.path.basename(args.ref))[0]
+        elif ref_cfg:
             ref = os.path.join(ROOT, ref_cfg)
+            variant = os.path.splitext(os.path.basename(ref_cfg))[0]
         else:
             ref = os.path.join(ROOT, 'refs', 'raw', voice + '.wav')
+            variant = voice
         out = os.path.join(ROOT, 'ai_voice', args.lang,
-                           e['arc'], e['uid'] + '.wav')
+                           e['arc'], e['uid'] + '__' + variant + '.wav')
         phrases.append(dict(
             uid=e['uid'], arc=e['arc'], voice=voice, ref=ref, out=out,
             text=(e['new'] if args.lang == 'ru' else e['old']),
@@ -155,6 +160,8 @@ def main():
     ap.add_argument('--seed', type=int, default=42)
     ap.add_argument('--dry-run', action='store_true',
                     help='только список к генерации, без модели')
+    ap.add_argument('--ref', default=None,
+                    help='путь к рефу (перезаписывает yaml)')
     args = ap.parse_args()
 
     entries, voices, who_to_voice = load_inputs()

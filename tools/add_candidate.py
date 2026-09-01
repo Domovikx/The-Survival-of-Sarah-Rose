@@ -21,6 +21,7 @@
 
 import argparse
 import os
+import re
 import subprocess
 import sys
 
@@ -38,7 +39,11 @@ SR_RATE = 24000     # частота дискретизации рефа (так
 
 
 def find_candidates():
-    """Возвращает {имя_голоса: [пути_к_mp3]} для всех папок-кандидатов."""
+    """Возвращает {имя_голоса: [пути_к_mp3]} для всех папок-кандидатов.
+
+    Исключаются qwen_*.mp3 (сгенерированные VoiceDesign — НЕ рефы),
+    а также *.md (заглушки-описания).
+    """
     found = {}
     if not os.path.isdir(CANDIDATES_DIR):
         return found
@@ -46,8 +51,12 @@ def find_candidates():
         folder = os.path.join(CANDIDATES_DIR, name)
         if not os.path.isdir(folder):
             continue
-        mp3s = sorted(f for f in os.listdir(folder)
-                      if f.lower().endswith('.mp3'))
+        mp3s = sorted(
+            f for f in os.listdir(folder)
+            if f.lower().endswith('.mp3')
+            and not re.match(r'^qwen_\d+\.mp3$', f, re.I)
+            and not re.search(r'\sqwen_\d+\.mp3$', f, re.I)
+        )
         if mp3s:
             found[name] = [os.path.join(folder, f) for f in mp3s]
     return found

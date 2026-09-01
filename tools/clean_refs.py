@@ -9,10 +9,12 @@
      стандарт: EBU R128 loudnorm, цель -16 LUFS, TP -1.5 dB.
 
 ЦЕПОЧКА ffmpeg (порядок важен):
-  1. afftdn nr=15              — FFT-денойз (убирает равномерный шип)
-  2. deesser i=0.5             — срез сибилянтов «с/ш» (i: 0..1)
-  3. highshelf f=8000 g=-6     — приглушение яркости >8 кГц (фикс из W40KRT)
-  4. loudnorm I=-16 (2 прохода) — выравнивание громкости (EBU R128)
+  1. highpass f=60            — срез низкочастотного гула/постоянки
+  2. afftdn nr=15              — FFT-денойз (убирает равномерный шип)
+  3. deesser i=0.5             — срез сибилянтов «с/ш» (i: 0..1)
+  4. highshelf f=8000 g=-6     — приглушение яркости >8 кГц (фикс из W40KRT)
+  5. loudnorm I=-16 (2 прохода) — выравнивание громкости (EBU R128)
+  6. afade in/out 30мс        — защита от кликов по краям
 
 ОРИГИНАЛЫ НЕ ТРОГАЕМ: читаем из одной папки, пишем в другую.
 
@@ -30,7 +32,13 @@ import subprocess
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Цепочка фильтров чистки (до loudnorm; тот идёт вторым проходом)
-FILTERS = 'afftdn=nr=15,deesser=i=0.5,highshelf=f=8000:g=-6'
+FILTERS = 'highpass=f=60,afftdn=nr=15,deesser=i=0.5,highshelf=f=8000:g=-6'
+
+# Фейды по краям (защита от кликов/щелчков)
+FADE = 0.03   # 30 мс в начале и в конце
+
+# Длина рефа (для расчёта точки старта fade-out)
+TARGET_LEN = 10.0
 
 # Параметры loudnorm: цель громкости и допустимый пик (EBU R128)
 LOUD_I = -16.0   # интегральная громкость, LUFS
@@ -66,7 +74,7 @@ def loudnorm_two_pass(path, dst):
 
 
 def clean_file(src, dst):
-    """Один WAV: чистка (денойз+EQ) -> loudnorm. True если обработан."""
+    """Один WAV: чистка (денойз+EQ) -> loudnorm -> фейды. True если обработан."""
     if os.path.exists(dst):
         return False  # уже чищеный — не трогаем
     tmp = dst + '.tmp1.wav'
@@ -75,6 +83,14 @@ def clean_file(src, dst):
                    check=True, capture_output=True)
     loudnorm_two_pass(tmp, dst)
     os.remove(tmp)
+    # Фейды по краям (30мс) — глушим клики
+    tmp_fade = dst + '.tmp2.wav'
+    subprocess.run(['ffmpeg', '-y', '-i', dst,
+                    '-af', 'afade=t=in:d={},afade=t=out:st={:.3f}:d={}'.format(
+                        FADE, TARGET_LEN - FADE, FADE),
+                    '-ac', '1', '-ar', '24000', tmp_fade],
+                   check=True, capture_output=True)
+    os.replace(tmp_fade, dst)
     return True
 
 

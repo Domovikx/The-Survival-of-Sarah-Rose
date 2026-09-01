@@ -332,3 +332,113 @@
 18:31:56 [5/8280] a0bbc9c7 AlfredArc Sarah: Двадцать лет? И никто за тобой не пришёл?
 18:32:27   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\a0bbc9c7ea523dae305a25458880eaf3.wav (3.1s), eta ~3664 мин
 18:32:27 done=5 skipped=0 failed=0 total=8280
+20:13:10 фраз к генерации: 8280 (lang=ru, force=False)
+20:13:10   d8499785 | AlfredArc | Sarah | Ты говоришь на общем?
+20:13:10   ffcd254a | AlfredArc | Sarah | Я думала, здесь все говорят... ну, на том, на чём говорят пл
+20:13:10   12ac96f2 | AlfredArc | Sarah | Ты из Розанны?
+20:13:10   52dd8ca7 | AlfredArc | Sarah | Как долго ты здесь?
+20:13:10   a0bbc9c7 | AlfredArc | Sarah | Двадцать лет? И никто за тобой не пришёл?
+20:13:10   c2fb7fb1 | AlfredArc | Sarah | Ага...
+20:13:10   c28a7563 | AlfredArc | Sarah | Нет, король умер. Столица пала перед племенниками.
+20:13:10   20bafac9 | AlfredArc | Sarah | Тебя не печалит, что твоя страна пала?
+20:13:10   6a8f7989 | AlfredArc | Sarah | Ужасно с деньгами?
+20:13:10   f3a09d70 | AlfredArc | Sarah | Поэтому ты злилась вчера?
+20:13:10   ...
+20:13:27 фраз к генерации: 8280 (lang=ru, force=False)
+20:13:27   d8499785 | AlfredArc | Sarah | Ты говоришь на общем?
+20:13:27   ffcd254a | AlfredArc | Sarah | Я думала, здесь все говорят... ну, на том, на чём говорят пл
+20:13:27   12ac96f2 | AlfredArc | Sarah | Ты из Розанны?
+20:13:27   52dd8ca7 | AlfredArc | Sarah | Как долго ты здесь?
+20:13:27   a0bbc9c7 | AlfredArc | Sarah | Двадцать лет? И никто за тобой не пришёл?
+20:13:27   c2fb7fb1 | AlfredArc | Sarah | Ага...
+20:13:27   c28a7563 | AlfredArc | Sarah | Нет, король умер. Столица пала перед племенниками.
+20:13:27   20bafac9 | AlfredArc | Sarah | Тебя не печалит, что твоя страна пала?
+20:13:27   6a8f7989 | AlfredArc | Sarah | Ужасно с деньгами?
+20:13:27   f3a09d70 | AlfredArc | Sarah | Поэтому ты злилась вчера?
+20:13:27   ...
+20:13:27 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+20:13:38 model loaded in 11.0s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+20:13:38 [1/8280] d8499785 AlfredArc Sarah: Ты говоришь на общем?
+20:13:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\d84997857a70c3806f6fbe78d60ab0e7__Sarah_3.wav (1.2s), eta ~2978 мин
+20:13:59 done=1 skipped=0 failed=0 total=8280
+20:17:48 фраз к генерации: 0 (lang=ru, force=False)
+20:17:48 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+20:17:55 model loaded in 6.4s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+20:17:55 done=0 skipped=0 failed=0 total=0
+20:18:07 фраз к генерации: 347 (lang=ru, force=False)
+20:18:07   3853338f | Other | Sigmund | Раз уж мы стали собутыльниками, меня зовут Сигмунд.
+20:18:07   1f76687a | Other | Sigmund | Ну, я сам не заплатил за эту бутылку ни цента, так что брать
+20:18:07   e11391d9 | Other | Sigmund | К тому же я ненавижу пить в одиночку, а на тебя смотреть при
+20:18:07   015a5d02 | Other | Sigmund | Что ж, трудно доставшееся или лёгкое — ты всё равно оказалас
+20:18:07   2366cfc9 | Other | Sigmund | Так что выпьем за то, что пью с самой красивой девушкой в ба
+20:18:07   3ef8983c | Other | Sigmund | То, что я старею, ещё не значит, что девушки становятся мене
+20:18:07   faaf296a | Other | Sigmund | Не если рыбка всё ещё клюёт.
+20:18:07   996bd9fc | Other | Sigmund | Не волнуйся, просто дразню. Как я и сказал, я просто ищу ком
+20:18:07   1deb621a | Other | Sigmund | Этого может хватить дольше, чем ты думаешь.
+20:18:07   096b2fa1 | Other | Sigmund | Тем и другим, понимаешь.
+20:18:07   ...
+20:18:16 фраз к генерации: 3 (lang=ru, force=False)
+20:18:16   3853338f | Other | Sigmund | Раз уж мы стали собутыльниками, меня зовут Сигмунд.
+20:18:16   1f76687a | Other | Sigmund | Ну, я сам не заплатил за эту бутылку ни цента, так что брать
+20:18:16   e11391d9 | Other | Sigmund | К тому же я ненавижу пить в одиночку, а на тебя смотреть при
+20:18:16 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+20:18:25 model loaded in 8.8s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+20:18:25 [1/3] 3853338f Other Sigmund: Раз уж мы стали собутыльниками, меня зовут Сигмунд.
+20:18:55   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\3853338f7bc8404fd5c30e2de8b2364f__Sigmund_1.wav (3.1s), eta ~1 мин
+20:18:55 [2/3] 1f76687a Other Sigmund: Ну, я сам не заплатил за эту бутылку ни цента, так что брать
+20:19:34   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\1f76687a380779735a34a93af744e35f__Sigmund_1.wav (6.0s), eta ~1 мин
+20:19:34 [3/3] e11391d9 Other Sigmund: К тому же я ненавижу пить в одиночку, а на тебя смотреть при
+20:20:11   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\e11391d9167130aaba48789692ddd8d2__Sigmund_1.wav (5.5s), eta ~0 мин
+20:20:11 done=3 skipped=0 failed=0 total=3
+20:59:54 фраз к генерации: 3 (lang=ru, force=False)
+20:59:54   3853338f | Other | Sigmund | Раз уж мы стали собутыльниками, меня зовут Сигмунд.
+20:59:54   1f76687a | Other | Sigmund | Ну, я сам не заплатил за эту бутылку ни цента, так что брать
+20:59:54   e11391d9 | Other | Sigmund | К тому же я ненавижу пить в одиночку, а на тебя смотреть при
+21:00:02 фраз к генерации: 3 (lang=ru, force=False)
+21:00:02   3853338f | Other | Sigmund | Раз уж мы стали собутыльниками, меня зовут Сигмунд.
+21:00:02   1f76687a | Other | Sigmund | Ну, я сам не заплатил за эту бутылку ни цента, так что брать
+21:00:02   e11391d9 | Other | Sigmund | К тому же я ненавижу пить в одиночку, а на тебя смотреть при
+21:00:02 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+21:00:12 model loaded in 9.9s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+21:00:12 [1/3] 3853338f Other Sigmund: Раз уж мы стали собутыльниками, меня зовут Сигмунд.
+21:00:42   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\3853338f7bc8404fd5c30e2de8b2364f__Sigmund_2.wav (3.1s), eta ~1 мин
+21:00:42 [2/3] 1f76687a Other Sigmund: Ну, я сам не заплатил за эту бутылку ни цента, так что брать
+21:01:22   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\1f76687a380779735a34a93af744e35f__Sigmund_2.wav (6.0s), eta ~1 мин
+21:01:22 [3/3] e11391d9 Other Sigmund: К тому же я ненавижу пить в одиночку, а на тебя смотреть при
+21:02:00   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\e11391d9167130aaba48789692ddd8d2__Sigmund_2.wav (5.5s), eta ~0 мин
+21:02:00 done=3 skipped=0 failed=0 total=3
+21:19:11 фраз к генерации: 45051 (lang=ru, force=False)
+21:19:11   a2ac73bb | AlfredArc | Narrator | Стражи доставили её прямиком на аукционную сцену, как и было
+21:19:11   62c6062d | AlfredArc | Narrator | Сара быстро поняла, что она не первая и даже не последняя. Ч
+21:19:11   13cee74f | AlfredArc | Narrator | Отработанная машина человеческих страданий.
+21:19:11   1f28c7b9 | AlfredArc | Narrator | Из-за подиума Сара слышит, как толпа становится громче. Она 
+21:19:11   03dfa80f | AlfredArc | Narrator | Одного за другим она видит, как рабов вытаскивают на сцену. 
+21:19:11   36e3d38d | AlfredArc | Narrator | Молодые красивые женщины и женоподобные мужчины вызывают сам
+21:19:11   3d43bbac | AlfredArc | Narrator | Сара чувствует, как цепь дёргает её, таща вперёд. Она видит,
+21:19:11   9e7ea049 | AlfredArc | Narrator | Сара не хочет представлять это унижение, и всё же она знает,
+21:19:11   d58300ce | AlfredArc | Narrator | Осталось всего два голоса, торгующихся друг против друга. Вс
+21:19:11   7f1110c4 | AlfredArc | Narrator | Цепь дёргает, и Сара не в силах сопротивляться её натяжению,
+21:19:11   ...
+21:19:19 фраз к генерации: 45051 (lang=ru, force=False)
+21:19:19   a2ac73bb | AlfredArc | Narrator | Стражи доставили её прямиком на аукционную сцену, как и было
+21:19:19   62c6062d | AlfredArc | Narrator | Сара быстро поняла, что она не первая и даже не последняя. Ч
+21:19:19   13cee74f | AlfredArc | Narrator | Отработанная машина человеческих страданий.
+21:19:19   1f28c7b9 | AlfredArc | Narrator | Из-за подиума Сара слышит, как толпа становится громче. Она 
+21:19:19   03dfa80f | AlfredArc | Narrator | Одного за другим она видит, как рабов вытаскивают на сцену. 
+21:19:19   36e3d38d | AlfredArc | Narrator | Молодые красивые женщины и женоподобные мужчины вызывают сам
+21:19:19   3d43bbac | AlfredArc | Narrator | Сара чувствует, как цепь дёргает её, таща вперёд. Она видит,
+21:19:19   9e7ea049 | AlfredArc | Narrator | Сара не хочет представлять это унижение, и всё же она знает,
+21:19:19   d58300ce | AlfredArc | Narrator | Осталось всего два голоса, торгующихся друг против друга. Вс
+21:19:19   7f1110c4 | AlfredArc | Narrator | Цепь дёргает, и Сара не в силах сопротивляться её натяжению,
+21:19:19   ...
+21:19:19 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+21:19:28 model loaded in 9.2s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+21:19:28 [1/45051] a2ac73bb AlfredArc Narrator: Стражи доставили её прямиком на аукционную сцену, как и было
+21:20:07   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\a2ac73bb81cc53353716afbd69187501__Narrator.wav (5.8s), eta ~29272 мин
+21:20:07 [2/45051] 62c6062d AlfredArc Narrator: Сара быстро поняла, что она не первая и даже не последняя. Ч
+21:21:13   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\62c6062dce8fd1c36b852a6f80f35c4d__Narrator.wav (11.4s), eta ~39245 мин
+21:21:13 [3/45051] 13cee74f AlfredArc Narrator: Отработанная машина человеческих страданий.
+21:21:40   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\13cee74f257c3869b1f1df210b31429a__Narrator.wav (2.7s), eta ~33115 мин
+21:21:40 [4/45051] 1f28c7b9 AlfredArc Narrator: Из-за подиума Сара слышит, как толпа становится громче. Она 
+21:22:28   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\1f28c7b98adeb1f35a64b9d78c0b2868__Narrator.wav (7.8s), eta ~33864 мин
+21:22:28 [5/45051] 03dfa80f AlfredArc Narrator: Одного за другим она видит, как рабов вытаскивают на сцену. 

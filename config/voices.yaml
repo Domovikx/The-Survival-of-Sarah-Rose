@@ -25,7 +25,7 @@ voices:
     - m
     gender: F
   Narrator:
-    ref: refs/Narrator.wav
+    ref: refs/Narrator_1.wav
     who:
     - narrator
     gender: F
@@ -79,4 +79,9 @@ voices:
   Generic Male Young:
     ref: refs/Generic Male Young.wav
     who: []
+    gender: M
+  Sigmund:
+    ref: refs/Sigmund_1.wav
+    who:
+    - sig
     gender: M

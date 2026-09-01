@@ -17,13 +17,16 @@
 
 ```
 ai_voice/                       # КОРЕНЬ ПРОЕКТА, рядом с game/ (не внутри!)
-  ru/{Arc}/{uid}.wav            # русская озвучка (текст = new)
-  en/{Arc}/{uid}.wav            # английская озвучка (текст = old)
+  ru/{Arc}/{uid}__{variant}.wav  # русская озвучка с постфиксом рефа
+  en/{Arc}/{uid}__{variant}.wav  # английская озвучка с постфиксом рефа
 game/
   catalog/
     label_arc.json              # label -> Arc (рантайм-мапа, грузится конфигом)
   voice_config.rpy              # config.auto_voice = static_auto_voice
 ```
+
+**Поиск в игре:** glob `{uid}*.wav` — ловит и `{uid}.wav` и `{uid}__variant.wav`.
+Сортировка: первый совпавший файл используется (alphabetical order).
 
 `ai_voice/` лежит ВНЕ game/, поэтому voice_config.rpy добавляет корень
 проекта в `config.searchpath` — без этого Ren'Py ищет файлы только в game/.
