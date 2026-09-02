@@ -14,15 +14,25 @@ description: Генерация голосов-кандидатов для TSSR 
 ```
 tools/
   voice_design.py          # тул генерации (резюмабельный), читает YAML-каст
+  voice_design_stats.py    # сводная статистика -> voice_candidates.yaml
   voice_design.log         # лог прогонов
-voice_candidates/{Имя}/    # сюда падают qwen_NN.mp3 (+ {Имя}.yaml — каст)
+voice_candidates/{Имя}/    # сюда падают NN.mp3 (+ {Имя}.yaml — каст)
   {Имя}.yaml               # ОПИСАНИЕ голоса: контракт для voice_design.py
+  NN.mp3                   # кандидаты: 01.mp3, 02.mp3, ...
+voice_candidates/
+  voice_candidates.yaml    # СВОДНАЯ СТАТИСТИКА каста (summary/cast/generation)
 voice_candidates/cast.md   # обзорный документ «кто озвучивает» (справка)
 ```
 
 **Каст живёт в YAML** (`voice_candidates/{Имя}/{Имя}.yaml`), а не в python.
 Добавил/поправил yaml → персонаж сразу появился в `--list` и генерации.
 Старый `voice_design_cast.py` удалён при миграции (2026-09-02).
+
+**Статистика** — `voice_candidates/voice_candidates.yaml`:
+- `summary`: всего / с голосом / с кандидатами / без ничего
+- `cast`: по каждому персонажу статус (voice_ready/candidates/need_generation)
+- `generation`: результаты прогонов (дата, ok/skip/give_up/fail) — дописывает
+  сам `voice_design.py`; обновить сводку: `python tools/voice_design_stats.py`
 
 ## Запуск
 
@@ -36,13 +46,29 @@ PY="C:\pinokio\api\Qwen3-TTS-Pinokio.git\app\venv\Scripts\python.exe"
 "$PY" tools/voice_design.py --char Carolyn --n 6      # один персонаж, 6 шт
 "$PY" tools/voice_design.py --n 3                     # весь каст по 3 шт
 "$PY" tools/voice_design.py --char Narrator --n 5 --force  # перегенерить
+python tools/voice_design_stats.py                    # обновить сводку
 ```
 
 Модель VoiceDesign (~4.3 ГБ) должна лежать в HF-кэше
 `~/.cache/huggingface/hub/models--Qwen--Qwen3-TTS-12Hz-1.7B-VoiceDesign`.
 
-CPU (torch+cpu): ~1-2 мин/клип. Весь каст — часы: запускай частями, тул
-пропускает существующие файлы (резюм).
+CPU (torch+cpu): ~1-2 мин/клип (с двумя параллельными процессами — быстрее
+суммарно). Весь каст — часы: запускай частями, тул пропускает существующие
+файлы (резюм).
+
+**Параллельная генерация** (несколько процессов = несколько загрузок модели
+~8 ГБ RAM каждая; Ryzen 7800X3D + 32 ГБ = 2 процесса по OMP_NUM_THREADS=8):
+
+```bash
+OMP_NUM_THREADS=8 "$PY" tools/voice_design.py \
+  --char Alaric --char Atilla --char Carolyn --n 6 > /tmp/gen1.log 2>&1 &
+OMP_NUM_THREADS=8 "$PY" tools/voice_design.py \
+  --char Metis --char Samayra --n 6 > /tmp/gen2.log 2>&1 &
+```
+
+Внимание: `--char` принимает ОДНО имя — повторяй флаг для нескольких
+персонажей. Итоги прогона (ok/skip/give_up/fail по каждому) — в
+`voice_candidates/voice_candidates.yaml` → `generation`.
 
 ## Формат каста (voice_candidates/{Имя}/{Имя}.yaml)
 
@@ -258,4 +284,4 @@ voice_design.py имеет 3 попытки:
 `voice_candidates/{Имя}/{Имя}.yaml` — описание типажа: кто, пол, возраст,
 характер, реплики, instruct_en (по чек-листу из «Бест-практисы»).
 Папка без .mp3 не участвует в add_candidate.py. После генерации
-qwen-кандидатов .yaml можно оставить как справку.
+кандидатов .yaml можно оставить как справку.

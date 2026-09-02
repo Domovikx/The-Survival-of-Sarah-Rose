@@ -112,14 +112,19 @@ C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py \
 ```bash
 PY="C:\pinokio\api\Qwen3-TTS-Pinokio.git\app\venv\Scripts\python.exe"
 "$PY" tools/voice_design.py --list                # каст
-"$PY" tools/voice_design.py --char Carolyn --n 6  # 6 кандидатов -> voice_candidates/Carolyn/qwen_NN.mp3
+"$PY" tools/voice_design.py --char Carolyn --n 6  # 6 кандидатов -> voice_candidates/Carolyn/01..06.mp3
+python tools/voice_design_stats.py                # сводка -> voice_candidates.yaml
 ```
 
 Правила: каст в `voice_candidates/{Имя}/{Имя}.yaml` (instruct_en — англ. описание
 тембра, texts — рус. фразы с ЯВНЫМ признаком пола «я пошёл/пошла»; файл =
 контракт, скрипт читает yaml напрямую); клип должен быть ≥10с — тул сам
 добирает длину (slow-инструкция → +вторая фраза); резюмабелен (существующие
-файлы пропускает). Подробнее: .opencode/skills/tssr-voice-design/SKILL.md.
+файлы пропускает). Итоги прогона и сводка каста — в
+`voice_candidates/voice_candidates.yaml` (summary/cast/generation; --char
+принимает ОДНО имя — повторяй флаг; параллельно можно гнать 2 процесса по
+OMP_NUM_THREADS=8, ~8 ГБ RAM на процесс).
+Подробнее: .opencode/skills/tssr-voice-design/SKILL.md.
 Папки-заглушки `voice_candidates/{Имя}/{Имя}.yaml` — типаж «что искать» для
 персонажей без голоса.
 
