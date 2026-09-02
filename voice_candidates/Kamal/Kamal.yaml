@@ -1,0 +1,16 @@
+name: Kamal
+gender: M
+age: "40-55"
+who: >-
+  Верховный генерал, вёл кампанию против Розанны, командный, громкий,
+  докладывающий.
+instruct_en: >-
+  Male, 40-55 years old, commanding resonant baritone, loud and booming when
+  needed, formal military delivery, dignified report cadence, authoritative
+  and proud, slightly gravelly, the voice of a general addressing his khan.
+texts:
+  - Великий хан, ты оказываешь мне честь своим доверием.
+  - Я вёл кампанию тридцать лет и не проиграл ни одного сражения.
+  - Я пошёл на этот шаг, потому что так велел хан.
+  - Я делал то, что нужно было для победы. Методы не важны.
+  - Мой меч служит хану. Моё сердце бьётся в такт его воли.

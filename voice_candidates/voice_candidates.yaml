@@ -1,0 +1,392 @@
+updated: 2026-09-02 19:46
+summary:
+  total: 64
+  voice_ready: 34
+  candidates: 29
+  need_generation: 1
+cast:
+  Alaric:
+    gender: M
+    age: 25-30
+    status: voice_ready
+    candidates: 0
+    ref: Alaric.wav
+  Albert:
+    gender: M
+    age: 40-60
+    status: voice_ready
+    candidates: 1
+    ref: Albert.wav
+  Alfred:
+    gender: M
+    age: 45-60
+    status: voice_ready
+    candidates: 1
+    ref: Alfred.wav
+  Atilla:
+    gender: M
+    age: 25-30
+    status: voice_ready
+    candidates: 0
+    ref: Atilla.wav
+  Ayaka:
+    gender: F
+    age: 20-28
+    status: candidates
+    candidates: 1
+    ref: null
+  Barion:
+    gender: M
+    age: 55-70
+    status: candidates
+    candidates: 1
+    ref: null
+  Caleb:
+    gender: M
+    age: 20-25
+    status: voice_ready
+    candidates: 1
+    ref: Caleb.wav
+  Captain Belmont:
+    gender: M
+    age: 40-50
+    status: voice_ready
+    candidates: 1
+    ref: Captain Belmont.wav
+  Carolyn:
+    gender: F
+    age: 40-50
+    status: need_generation
+    candidates: 0
+    ref: null
+  Cassius:
+    gender: M
+    age: 25-35
+    status: voice_ready
+    candidates: 1
+    ref: Cassius.wav
+  Daemon:
+    gender: M
+    age: ageless
+    status: voice_ready
+    candidates: 1
+    ref: Daemon.wav
+  Dalia:
+    gender: F
+    age: 20-30
+    status: voice_ready
+    candidates: 1
+    ref: Dalia.wav
+  Dio:
+    gender: F
+    age: 20-30
+    status: candidates
+    candidates: 1
+    ref: null
+  Duke Antonio:
+    gender: M
+    age: 40-60
+    status: voice_ready
+    candidates: 0
+    ref: Duke Antonio.wav
+  Elsa:
+    gender: F
+    age: 14-20
+    status: candidates
+    candidates: 1
+    ref: null
+  Ephraim:
+    gender: M
+    age: 20-30
+    status: candidates
+    candidates: 1
+    ref: null
+  Eula:
+    gender: F
+    age: 20-30
+    status: candidates
+    candidates: 1
+    ref: null
+  Gabriel:
+    gender: M
+    age: 25-40
+    status: candidates
+    candidates: 1
+    ref: null
+  Garret:
+    gender: M
+    age: 30-45
+    status: candidates
+    candidates: 1
+    ref: null
+  Generic Female Mature:
+    gender: F
+    age: 35-60
+    status: voice_ready
+    candidates: 1
+    ref: Generic Female Mature.wav
+  Generic Female Young:
+    gender: F
+    age: 18-30
+    status: voice_ready
+    candidates: 1
+    ref: Generic Female Young.wav
+  Generic Male Mature:
+    gender: M
+    age: 35-55
+    status: voice_ready
+    candidates: 1
+    ref: Generic Male Mature.wav
+  Generic Male Young:
+    gender: M
+    age: 20-30
+    status: voice_ready
+    candidates: 1
+    ref: Generic Male Young.wav
+  Gideon:
+    gender: M
+    age: 30-45
+    status: candidates
+    candidates: 1
+    ref: null
+  Gilead:
+    gender: M
+    age: 40-60
+    status: voice_ready
+    candidates: 1
+    ref: Gilead.wav
+  Hassar:
+    gender: M
+    age: 35-45
+    status: voice_ready
+    candidates: 1
+    ref: Hassar.wav
+  Hecate:
+    gender: F
+    age: 30-45
+    status: candidates
+    candidates: 1
+    ref: null
+  Hugh:
+    gender: M
+    age: 25-40
+    status: candidates
+    candidates: 1
+    ref: null
+  Jacob:
+    gender: M
+    age: 15-20
+    status: candidates
+    candidates: 1
+    ref: null
+  Jaeid:
+    gender: M
+    age: 25-40
+    status: voice_ready
+    candidates: 1
+    ref: Jaeid.wav
+  Jasmine:
+    gender: F
+    age: 20-28
+    status: candidates
+    candidates: 1
+    ref: null
+  Kamal:
+    gender: M
+    age: 40-55
+    status: candidates
+    candidates: 1
+    ref: null
+  Kate:
+    gender: F
+    age: 18-22
+    status: voice_ready
+    candidates: 1
+    ref: Kate.wav
+  Kim:
+    gender: F
+    age: 18-20
+    status: voice_ready
+    candidates: 1
+    ref: Kim.wav
+  King Orwell Rose:
+    gender: M
+    age: 50-60
+    status: voice_ready
+    candidates: 1
+    ref: King Orwell Rose.wav
+  Kravel:
+    gender: M
+    age: 35-50
+    status: voice_ready
+    candidates: 1
+    ref: Kravel.wav
+  Krip:
+    gender: M
+    age: 25-40
+    status: candidates
+    candidates: 1
+    ref: null
+  Lily:
+    gender: F
+    age: 18-25
+    status: candidates
+    candidates: 1
+    ref: null
+  Maeiv:
+    gender: F
+    age: 40-55
+    status: candidates
+    candidates: 1
+    ref: null
+  Marion:
+    gender: M
+    age: 20-30
+    status: voice_ready
+    candidates: 1
+    ref: Marion.wav
+  Marius:
+    gender: M
+    age: 25-35
+    status: candidates
+    candidates: 1
+    ref: null
+  Marshal Edmond:
+    gender: M
+    age: 40-60
+    status: voice_ready
+    candidates: 0
+    ref: Marshal Edmond.wav
+  Mary:
+    gender: F
+    age: 30-50
+    status: candidates
+    candidates: 1
+    ref: null
+  Matthew:
+    gender: M
+    age: 25-40
+    status: candidates
+    candidates: 1
+    ref: null
+  Metis:
+    gender: M
+    age: 30-60
+    status: voice_ready
+    candidates: 0
+    ref: Metis.wav
+  Miriam:
+    gender: F
+    age: 8-14
+    status: candidates
+    candidates: 1
+    ref: null
+  Narrator:
+    gender: F
+    age: 25-35
+    status: voice_ready
+    candidates: 1
+    ref: Narrator.wav
+  Nathan:
+    gender: M
+    age: 18-28
+    status: candidates
+    candidates: 1
+    ref: null
+  Naydeen:
+    gender: F
+    age: 25-35
+    status: candidates
+    candidates: 11
+    ref: null
+  Nickolas:
+    gender: M
+    age: 20-30
+    status: candidates
+    candidates: 1
+    ref: null
+  Orwen:
+    gender: M
+    age: 8-14
+    status: candidates
+    candidates: 1
+    ref: null
+  Ramsey:
+    gender: M
+    age: 40-60
+    status: candidates
+    candidates: 10
+    ref: null
+  Razaphel:
+    gender: M
+    age: ageless
+    status: voice_ready
+    candidates: 1
+    ref: Razaphel.wav
+  Sakar:
+    gender: M
+    age: 20-30
+    status: voice_ready
+    candidates: 1
+    ref: Sakar.wav
+  Samayra:
+    gender: F
+    age: 17-19
+    status: voice_ready
+    candidates: 0
+    ref: Samayra.wav
+  Sarah:
+    gender: F
+    age: 17-19
+    status: voice_ready
+    candidates: 1
+    ref: Sarah.wav
+  Shah Mahda:
+    gender: M
+    age: 40-60
+    status: candidates
+    candidates: 1
+    ref: null
+  Sigmund:
+    gender: M
+    age: 25-35
+    status: voice_ready
+    candidates: 0
+    ref: Sigmund.wav
+  Sophia:
+    gender: F
+    age: 18-25
+    status: candidates
+    candidates: 1
+    ref: null
+  Thomas:
+    gender: M
+    age: 15-17
+    status: voice_ready
+    candidates: 1
+    ref: Thomas.wav
+  Tirion:
+    gender: M
+    age: 55-75
+    status: candidates
+    candidates: 1
+    ref: null
+  Vaelen:
+    gender: M
+    age: 25-35
+    status: voice_ready
+    candidates: 0
+    ref: Vaelen.wav
+  Varga:
+    gender: M
+    age: 20-25
+    status: voice_ready
+    candidates: 1
+    ref: Varga.wav
+  Xanthippe:
+    gender: M
+    age: ageless
+    status: voice_ready
+    candidates: 1
+    ref: Xanthippe.wav
+generation: {}

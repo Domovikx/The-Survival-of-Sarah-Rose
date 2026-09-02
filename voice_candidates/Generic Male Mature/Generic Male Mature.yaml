@@ -1,0 +1,14 @@
+name: Generic Male Mature
+gender: M
+age: "35-55"
+who: >-
+  Универсальный зрелый мужской типаж, спокойный, низковатый, нейтральный
+  повествовательный тон; накрывает Gideon, Ramsey, Garret, Marius и др.
+instruct_en: >-
+  Male, 35-55 years old, calm low mature voice, slightly deep register, neutral
+  and steady narrative tone, measured unhurried delivery, composed and even,
+  with quiet authority.
+texts:
+  - Тридцать лет я служил короне и не жалею ни об одном дне. Войны сменялись миром, а я оставался на своём посту.
+  - Совет соберётся на рассвете. Решение будет непростым, но необходимым, и я прошу тебя выслушать его до конца.
+  - В моём возрасте начинаешь ценить тишину больше, чем разговоры. Но с тобой я готов говорить хоть до утра.

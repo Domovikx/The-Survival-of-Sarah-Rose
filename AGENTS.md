@@ -115,12 +115,13 @@ PY="C:\pinokio\api\Qwen3-TTS-Pinokio.git\app\venv\Scripts\python.exe"
 "$PY" tools/voice_design.py --char Carolyn --n 6  # 6 кандидатов -> voice_candidates/Carolyn/qwen_NN.mp3
 ```
 
-Правила: каст в tools/voice_design_cast.py (base/vars/texts; тексты с ЯВНЫМ
-признаком пола «я пошёл/пошла»); клип должен быть ≥10с — тул сам добирает
-длину (slow-инструкция → +вторая фраза); резюмабелен (существующие файлы
-пропускает). Подробнее: .opencode/skills/tssr-voice-design/SKILL.md.
-Папки-заглушки `voice_candidates/{Имя}/{Имя}.md` — типаж «что искать» для
-персонажей без каста.
+Правила: каст в `voice_candidates/{Имя}/{Имя}.yaml` (instruct_en — англ. описание
+тембра, texts — рус. фразы с ЯВНЫМ признаком пола «я пошёл/пошла»; файл =
+контракт, скрипт читает yaml напрямую); клип должен быть ≥10с — тул сам
+добирает длину (slow-инструкция → +вторая фраза); резюмабелен (существующие
+файлы пропускает). Подробнее: .opencode/skills/tssr-voice-design/SKILL.md.
+Папки-заглушки `voice_candidates/{Имя}/{Имя}.yaml` — типаж «что искать» для
+персонажей без голоса.
 
 ## Тримминг хвостов (паттерн)
 

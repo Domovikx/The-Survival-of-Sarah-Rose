@@ -1,0 +1,17 @@
+name: Gideon
+gender: M
+age: "30-45"
+who: >-
+  Командир отряда наёмников (HollowWorld, WarriorPath), суровый военный,
+  низкий голос.
+instruct_en: >-
+  Male, 30-45 years old, low gruff voice with a harsh edge from years of
+  command, mercenary commander, clipped authoritative speech, blunt and
+  unpolished, speaks with controlled force, medium-slow pace, each sentence
+  an order.
+texts:
+  - У тебя отвратительное настроение. Я вижу это сразу.
+  - Я командовал отрядом двадцать лет. Знаю людей по глазам.
+  - Я пошёл на эту войну не за славу. Деньги — другое дело.
+  - Я делал то, что нужно было. Не больше, не меньше.
+  - Ты хмуришься. Значит, думаешь. Значит, опасен.

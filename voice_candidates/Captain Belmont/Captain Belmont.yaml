@@ -1,0 +1,12 @@
+name: Captain Belmont
+gender: M
+age: "40-50"
+who: >-
+  «the old sea captain», годы в Летраме, грубый, прямой.
+instruct_en: >-
+  Male, 40-50 years old, low raspy smoker's voice, weathered and direct,
+  gruff speech with rolling intonations, worn but strong
+texts:
+  - Я думал, это ты, но не был до конца уверен. Море меняет людей, знаешь ли. Оно и соли, и седины добавляет.
+  - Надо сказать, Блонди, из тебя вышла бы славная морячка. Редко кто так держится на палубе в первый шторм.
+  - Держись за планшир, девочка. Шторм не время для сантиментов, сначала удержим корабль, а чувства оставим на потом.
