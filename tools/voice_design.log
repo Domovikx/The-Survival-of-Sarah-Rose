@@ -1,457 +1,1671 @@
+"sox" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+SoX could not be found!
+
+    If you do not have SoX, proceed here:
+     - - - http://sox.sourceforge.net/ - - -
+
+    If you do (or think that you should) have SoX, double-check your
+    path variables.
+    
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+
+********
+Warning: flash-attn is not installed. Will only run the manual PyTorch version. Please install flash-attn for faster inference.
+********
+ 
 loading model from C:\Users\Domo\.cache\huggingface\hub\models--Qwen--Qwen3-TTS-12Hz-1.7B-VoiceDesign\snapshots\5ecdb67327fd37bb2e042aab12ff7391903235d3
 model loaded
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Carolyn\qwen_01.mp3 (exists)
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Carolyn\qwen_02.mp3 (exists)
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Carolyn\qwen_03.mp3 (exists)
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Carolyn\qwen_04.mp3 (exists)
-== Carolyn #5/6 try1
-SHORT try1 raw 6.9s -> 6.8s
-== Carolyn #5/6 try2
-SHORT try2 raw 6.1s -> 6.0s
-== Carolyn #5/6 try3
-OK try3 gen 83.3s raw 14.5s -> 14.3s
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Carolyn\qwen_06.mp3 (exists)
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Metis\qwen_01.mp3 (exists)
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Metis\qwen_02.mp3 (exists)
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Metis\qwen_03.mp3 (exists)
-== Metis #4/6 try1
-SHORT try1 raw 7.1s -> 6.9s
-== Metis #4/6 try2
-SHORT try2 raw 6.2s -> 6.0s
-== Metis #4/6 try3
-OK try3 gen 75.3s raw 14.1s -> 13.9s
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Metis\qwen_05.mp3 (exists)
-== Metis #6/6 try1
-SHORT try1 raw 7.5s -> 7.2s
-== Metis #6/6 try2
-SHORT try2 raw 5.1s -> 4.9s
-== Metis #6/6 try3
-OK try3 gen 67.7s raw 12.7s -> 12.4s
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Sakar\qwen_01.mp3 (exists)
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Sakar\qwen_02.mp3 (exists)
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Sakar\qwen_03.mp3 (exists)
-== Sakar #4/6 try1
-SHORT try1 raw 7.2s -> 7.0s
-== Sakar #4/6 try2
-SHORT try2 raw 4.3s -> 4.1s
-== Sakar #4/6 try3
-OK try3 gen 82.6s raw 14.8s -> 14.6s
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Sakar\qwen_05.mp3 (exists)
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Sakar\qwen_06.mp3 (exists)
-== Sigmund #1/6 try1
-SHORT try1 raw 7.2s -> 7.0s
-== Sigmund #1/6 try2
-SHORT try2 raw 6.4s -> 6.2s
-== Sigmund #1/6 try3
-OK try3 gen 83.0s raw 14.7s -> 14.5s
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Sigmund\qwen_02.mp3 (exists)
-== Sigmund #3/6 try1
-SHORT try1 raw 4.5s -> 4.4s
-== Sigmund #3/6 try2
-SHORT try2 raw 5.7s -> 5.5s
-== Sigmund #3/6 try3
-OK try3 gen 60.1s raw 10.9s -> 10.8s
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Sigmund\qwen_04.mp3 (exists)
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Sigmund\qwen_05.mp3 (exists)
-== Sigmund #6/6 try1
-SHORT try1 raw 6.0s -> 5.8s
-== Sigmund #6/6 try2
-SHORT try2 raw 6.4s -> 6.2s
-== Sigmund #6/6 try3
-OK try3 gen 63.9s raw 11.5s -> 11.3s
-== Alfred #1/6 try1
-SHORT try1 raw 6.5s -> 6.3s
-== Alfred #1/6 try2
-SHORT try2 raw 7.6s -> 7.0s
-== Alfred #1/6 try3
-OK try3 gen 128.0s raw 22.9s -> 22.7s
-== Alfred #2/6 try1
-SHORT try1 raw 8.7s -> 8.5s
-== Alfred #2/6 try2
-SHORT try2 raw 8.0s -> 7.7s
-== Alfred #2/6 try3
-OK try3 gen 111.0s raw 20.1s -> 19.5s
-== Alfred #3/6 try1
-SHORT try1 raw 7.6s -> 7.3s
-== Alfred #3/6 try2
-SHORT try2 raw 7.7s -> 7.2s
-== Alfred #3/6 try3
-OK try3 gen 78.5s raw 14.5s -> 14.3s
-== Alfred #4/6 try1
-SHORT try1 raw 7.3s -> 7.1s
-== Alfred #4/6 try2
-SHORT try2 raw 6.0s -> 5.7s
-== Alfred #4/6 try3
-OK try3 gen 60.9s raw 10.7s -> 10.5s
-== Alfred #5/6 try1
-SHORT try1 raw 6.9s -> 6.7s
-== Alfred #5/6 try2
-SHORT try2 raw 6.7s -> 6.1s
-== Alfred #5/6 try3
-OK try3 gen 58.8s raw 10.5s -> 10.3s
-== Alfred #6/6 try1
-SHORT try1 raw 7.3s -> 7.0s
-== Alfred #6/6 try2
-SHORT try2 raw 7.0s -> 6.9s
-== Alfred #6/6 try3
-OK try3 gen 70.3s raw 13.1s -> 12.5s
-== Duke Antonio #1/6 try1
-SHORT try1 raw 7.5s -> 7.3s
-== Duke Antonio #1/6 try2
-SHORT try2 raw 7.3s -> 7.2s
-== Duke Antonio #1/6 try3
-OK try3 gen 84.6s raw 15.6s -> 15.4s
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Duke Antonio\qwen_02.mp3 (exists)
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Duke Antonio\qwen_03.mp3 (exists)
-== Duke Antonio #4/6 try1
-SHORT try1 raw 5.0s -> 4.9s
-== Duke Antonio #4/6 try2
-SHORT try2 raw 6.7s -> 6.4s
-== Duke Antonio #4/6 try3
-OK try3 gen 69.7s raw 13.0s -> 12.9s
-== Duke Antonio #5/6 try1
-SHORT try1 raw 8.7s -> 8.4s
-== Duke Antonio #5/6 try2
-SHORT try2 raw 6.8s -> 6.6s
-== Duke Antonio #5/6 try3
-OK try3 gen 81.7s raw 15.3s -> 15.0s
-== Duke Antonio #6/6 try1
-SHORT try1 raw 9.7s -> 9.4s
-== Duke Antonio #6/6 try2
-SHORT try2 raw 9.6s -> 9.3s
-== Duke Antonio #6/6 try3
-OK try3 gen 82.7s raw 15.5s -> 15.3s
-== Jaeid #1/6 try1
-SHORT try1 raw 9.8s -> 9.1s
-== Jaeid #1/6 try2
-SHORT try2 raw 8.1s -> 7.5s
-== Jaeid #1/6 try3
-OK try3 gen 95.0s raw 17.2s -> 16.6s
-== Jaeid #2/6 try1
-SHORT try1 raw 6.3s -> 6.0s
-== Jaeid #2/6 try2
-SHORT try2 raw 7.9s -> 7.3s
-== Jaeid #2/6 try3
-OK try3 gen 68.6s raw 12.5s -> 12.2s
-== Jaeid #3/6 try1
-SHORT try1 raw 7.7s -> 7.6s
-== Jaeid #3/6 try2
-SHORT try2 raw 6.7s -> 6.3s
-== Jaeid #3/6 try3
-OK try3 gen 62.2s raw 11.2s -> 10.9s
-== Jaeid #4/6 try1
-SHORT try1 raw 6.5s -> 6.2s
-== Jaeid #4/6 try2
-SHORT try2 raw 6.1s -> 5.5s
-== Jaeid #4/6 try3
-SHORT try3 raw 10.0s -> 9.8s
-GIVE UP Jaeid #4/6
-== Jaeid #5/6 try1
-SHORT try1 raw 7.3s -> 7.0s
-== Jaeid #5/6 try2
-SHORT try2 raw 5.7s -> 5.3s
-== Jaeid #5/6 try3
-SHORT try3 raw 9.6s -> 9.4s
-GIVE UP Jaeid #5/6
-== Jaeid #6/6 try1
-SHORT try1 raw 8.7s -> 7.9s
-== Jaeid #6/6 try2
-SHORT try2 raw 5.8s -> 5.7s
-== Jaeid #6/6 try3
-OK try3 gen 83.7s raw 15.4s -> 14.7s
-== Vaelen #1/6 try1
-SHORT try1 raw 5.7s -> 5.6s
-== Vaelen #1/6 try2
-SHORT try2 raw 6.5s -> 6.3s
-== Vaelen #1/6 try3
-OK try3 gen 81.3s raw 15.1s -> 14.7s
-== Vaelen #2/6 try1
-SHORT try1 raw 6.9s -> 6.7s
-== Vaelen #2/6 try2
-SHORT try2 raw 6.1s -> 6.0s
-== Vaelen #2/6 try3
-OK try3 gen 65.9s raw 12.1s -> 11.9s
-== Vaelen #3/6 try1
-SHORT try1 raw 5.0s -> 4.8s
-== Vaelen #3/6 try2
-SHORT try2 raw 4.3s -> 4.1s
-== Vaelen #3/6 try3
-OK try3 gen 66.4s raw 12.2s -> 12.0s
-== Vaelen #4/6 try1
-SHORT try1 raw 5.0s -> 4.9s
-== Vaelen #4/6 try2
-SHORT try2 raw 5.3s -> 5.1s
-== Vaelen #4/6 try3
-OK try3 gen 58.0s raw 10.7s -> 10.5s
-== Vaelen #5/6 try1
-SHORT try1 raw 6.4s -> 6.2s
-== Vaelen #5/6 try2
-SHORT try2 raw 5.7s -> 5.5s
-== Vaelen #5/6 try3
-OK try3 gen 63.9s raw 11.8s -> 11.7s
-== Vaelen #6/6 try1
-SHORT try1 raw 5.7s -> 5.6s
-== Vaelen #6/6 try2
-SHORT try2 raw 4.6s -> 4.5s
-== Vaelen #6/6 try3
-OK try3 gen 92.2s raw 17.1s -> 16.7s
-== Gilead #1/6 try1
-SHORT try1 raw 6.4s -> 6.2s
-== Gilead #1/6 try2
-SHORT try2 raw 8.6s -> 8.1s
-== Gilead #1/6 try3
-OK try3 gen 73.1s raw 13.3s -> 13.1s
-== Gilead #2/6 try1
-SHORT try1 raw 4.6s -> 4.5s
-== Gilead #2/6 try2
-SHORT try2 raw 5.4s -> 5.1s
-== Gilead #2/6 try3
-OK try3 gen 68.4s raw 12.5s -> 12.3s
-== Gilead #3/6 try1
-SHORT try1 raw 6.6s -> 6.4s
-== Gilead #3/6 try2
-SHORT try2 raw 5.7s -> 5.5s
-== Gilead #3/6 try3
-OK try3 gen 85.2s raw 15.6s -> 15.0s
-== Gilead #4/6 try1
-SHORT try1 raw 6.3s -> 6.1s
-== Gilead #4/6 try2
-SHORT try2 raw 5.6s -> 5.4s
-== Gilead #4/6 try3
-OK try3 gen 62.3s raw 11.4s -> 11.2s
-== Gilead #5/6 try1
-SHORT try1 raw 5.1s -> 4.9s
-== Gilead #5/6 try2
-SHORT try2 raw 4.8s -> 4.6s
-== Gilead #5/6 try3
-OK try3 gen 61.3s raw 11.2s -> 11.0s
-== Gilead #6/6 try1
-SHORT try1 raw 5.8s -> 5.7s
-== Gilead #6/6 try2
-SHORT try2 raw 5.4s -> 5.2s
-== Gilead #6/6 try3
-OK try3 gen 57.0s raw 10.5s -> 10.3s
-== Cassius #1/6 try1
-SHORT try1 raw 8.8s -> 8.1s
-== Cassius #1/6 try2
-SHORT try2 raw 6.6s -> 6.5s
-== Cassius #1/6 try3
-OK try3 gen 83.1s raw 15.1s -> 14.8s
-== Cassius #2/6 try1
-SHORT try1 raw 4.5s -> 4.4s
-== Cassius #2/6 try2
-SHORT try2 raw 5.0s -> 4.8s
-== Cassius #2/6 try3
-OK try3 gen 66.4s raw 12.3s -> 12.1s
-== Cassius #3/6 try1
-SHORT try1 raw 5.1s -> 4.9s
-== Cassius #3/6 try2
-SHORT try2 raw 4.1s -> 3.8s
-== Cassius #3/6 try3
-SHORT try3 raw 8.3s -> 8.1s
-GIVE UP Cassius #3/6
-== Cassius #4/6 try1
-SHORT try1 raw 6.5s -> 5.9s
-== Cassius #4/6 try2
-SHORT try2 raw 9.0s -> 8.8s
-== Cassius #4/6 try3
-SHORT try3 raw 9.7s -> 9.5s
-GIVE UP Cassius #4/6
-== Cassius #5/6 try1
-SHORT try1 raw 5.7s -> 5.6s
-== Cassius #5/6 try2
-SHORT try2 raw 6.1s -> 5.9s
-== Cassius #5/6 try3
-OK try3 gen 61.6s raw 11.3s -> 11.1s
-== Cassius #6/6 try1
-SHORT try1 raw 8.9s -> 8.8s
-== Cassius #6/6 try2
-SHORT try2 raw 5.4s -> 4.8s
-== Cassius #6/6 try3
-OK try3 gen 94.0s raw 17.3s -> 16.6s
-== Marshal Edmond #1/6 try1
-SHORT try1 raw 6.5s -> 5.9s
-== Marshal Edmond #1/6 try2
-SHORT try2 raw 6.2s -> 6.1s
-== Marshal Edmond #1/6 try3
-OK try3 gen 68.5s raw 12.5s -> 12.2s
-== Marshal Edmond #2/6 try1
-SHORT try1 raw 6.6s -> 6.4s
-== Marshal Edmond #2/6 try2
-SHORT try2 raw 6.9s -> 6.8s
-== Marshal Edmond #2/6 try3
-OK try3 gen 69.1s raw 12.8s -> 12.6s
-== Marshal Edmond #3/6 try1
-SHORT try1 raw 4.6s -> 4.4s
-== Marshal Edmond #3/6 try2
-SHORT try2 raw 4.8s -> 4.6s
-== Marshal Edmond #3/6 try3
-SHORT try3 raw 9.8s -> 9.7s
-GIVE UP Marshal Edmond #3/6
-== Marshal Edmond #4/6 try1
-SHORT try1 raw 5.7s -> 5.4s
-== Marshal Edmond #4/6 try2
-SHORT try2 raw 4.8s -> 4.6s
-== Marshal Edmond #4/6 try3
-OK try3 gen 64.9s raw 11.7s -> 11.5s
-== Marshal Edmond #5/6 try1
-SHORT try1 raw 6.1s -> 6.0s
-== Marshal Edmond #5/6 try2
-SHORT try2 raw 5.7s -> 5.6s
-== Marshal Edmond #5/6 try3
-OK try3 gen 58.5s raw 10.9s -> 10.8s
-== Marshal Edmond #6/6 try1
-SHORT try1 raw 5.1s -> 4.9s
-== Marshal Edmond #6/6 try2
-SHORT try2 raw 5.3s -> 5.2s
-== Marshal Edmond #6/6 try3
-OK try3 gen 64.5s raw 11.6s -> 11.3s
-== Daemon #1/6 try1
-SHORT try1 raw 6.6s -> 6.2s
-== Daemon #1/6 try2
-SHORT try2 raw 6.1s -> 5.0s
-== Daemon #1/6 try3
-OK try3 gen 57.3s raw 10.3s -> 10.0s
-== Daemon #2/6 try1
-SHORT try1 raw 10.0s -> 9.7s
-== Daemon #2/6 try2
-SHORT try2 raw 7.3s -> 7.0s
-== Daemon #2/6 try3
-SHORT try3 raw 9.5s -> 9.3s
-GIVE UP Daemon #2/6
-== Daemon #3/6 try1
-SHORT try1 raw 7.0s -> 6.8s
-== Daemon #3/6 try2
-SHORT try2 raw 4.9s -> 4.7s
-== Daemon #3/6 try3
-OK try3 gen 71.5s raw 13.0s -> 12.8s
-== Daemon #4/6 try1
-SHORT try1 raw 8.8s -> 8.3s
-== Daemon #4/6 try2
-loading model from C:\Users\Domo\.cache\huggingface\hub\models--Qwen--Qwen3-TTS-12Hz-1.7B-VoiceDesign\snapshots\5ecdb67327fd37bb2e042aab12ff7391903235d3
-model loaded
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Daemon\qwen_01.mp3 (exists)
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Daemon\qwen_02.mp3 (exists)
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Daemon\qwen_03.mp3 (exists)
-skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Daemon\qwen_04.mp3 (exists)
-== Daemon #5/6 try1
-SHORT try1 raw 4.7s -> 4.4s
-== Daemon #5/6 try2
-SHORT try2 raw 5.1s -> 4.9s
-== Daemon #5/6 try3
-OK try3 gen 58.2s raw 10.8s -> 10.4s
-== Daemon #6/6 try1
-SHORT try1 raw 4.8s -> 4.6s
-== Daemon #6/6 try2
-SHORT try2 raw 8.1s -> 7.5s
-== Daemon #6/6 try3
-OK try3 gen 59.8s raw 10.9s -> 10.7s
-== Kim #1/6 try1
-SHORT try1 raw 6.9s -> 6.4s
-== Kim #1/6 try2
-SHORT try2 raw 6.4s -> 6.2s
-== Kim #1/6 try3
-OK try3 gen 65.8s raw 12.0s -> 11.8s
-== Kim #2/6 try1
-SHORT try1 raw 5.7s -> 5.6s
-== Kim #2/6 try2
-SHORT try2 raw 5.6s -> 5.4s
-== Kim #2/6 try3
-OK try3 gen 77.4s raw 14.1s -> 13.9s
-== Kim #3/6 try1
-SHORT try1 raw 7.0s -> 6.9s
-== Kim #3/6 try2
-SHORT try2 raw 6.6s -> 6.5s
-== Kim #3/6 try3
-OK try3 gen 88.3s raw 15.8s -> 15.5s
-== Kim #4/6 try1
-SHORT try1 raw 4.9s -> 4.7s
-== Kim #4/6 try2
-SHORT try2 raw 5.0s -> 4.8s
-== Kim #4/6 try3
-OK try3 gen 68.2s raw 12.2s -> 12.0s
-== Kim #5/6 try1
-SHORT try1 raw 7.3s -> 7.1s
-== Kim #5/6 try2
-SHORT try2 raw 7.2s -> 7.0s
-== Kim #5/6 try3
-OK try3 gen 77.8s raw 14.1s -> 13.9s
-== Kim #6/6 try1
-SHORT try1 raw 5.6s -> 5.4s
-== Kim #6/6 try2
-SHORT try2 raw 6.6s -> 6.5s
-== Kim #6/6 try3
-OK try3 gen 68.4s raw 11.9s -> 11.7s
-== Kravel #1/6 try1
-SHORT try1 raw 6.6s -> 6.3s
-== Kravel #1/6 try2
-SHORT try2 raw 5.7s -> 5.6s
-== Kravel #1/6 try3
-OK try3 gen 83.2s raw 14.5s -> 14.4s
-== Kravel #2/6 try1
-SHORT try1 raw 8.5s -> 8.3s
-== Kravel #2/6 try2
-OK try2 gen 658.3s raw 112.6s -> 112.4s
-== Kravel #3/6 try1
-SHORT try1 raw 5.7s -> 5.2s
-== Kravel #3/6 try2
-SHORT try2 raw 8.6s -> 8.1s
-== Kravel #3/6 try3
-OK try3 gen 81.3s raw 15.0s -> 14.7s
-== Kravel #4/6 try1
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Ayaka\qwen_01.mp3 (exists)
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Ayaka\qwen_02.mp3 (exists)
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Ayaka\qwen_03.mp3 (exists)
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Ayaka\qwen_04.mp3 (exists)
+skip C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\voice_candidates\Ayaka\qwen_05.mp3 (exists)
+== Ayaka #6/6 try1
+SHORT try1 raw 4.2s -> 4.1s
+== Ayaka #6/6 try2
+SHORT try2 raw 4.5s -> 4.2s
+== Ayaka #6/6 try3
+SHORT try3 raw 10.0s -> 9.7s
+GIVE UP Ayaka #6/6
+== Barion #1/6 try1
+SHORT try1 raw 3.8s -> 3.7s
+== Barion #1/6 try2
+SHORT try2 raw 5.2s -> 5.0s
+== Barion #1/6 try3
+SHORT try3 raw 9.4s -> 9.3s
+GIVE UP Barion #1/6
+== Barion #2/6 try1
 SHORT try1 raw 8.1s -> 8.0s
-== Kravel #4/6 try2
-SHORT try2 raw 6.1s -> 5.9s
-== Kravel #4/6 try3
-SHORT try3 raw 9.8s -> 9.6s
-GIVE UP Kravel #4/6
-== Kravel #5/6 try1
-SHORT try1 raw 4.7s -> 4.4s
-== Kravel #5/6 try2
-SHORT try2 raw 4.7s -> 4.5s
-== Kravel #5/6 try3
-OK try3 gen 61.6s raw 10.9s -> 10.8s
-== Kravel #6/6 try1
-SHORT try1 raw 7.8s -> 7.6s
-== Kravel #6/6 try2
-SHORT try2 raw 8.5s -> 8.3s
-== Kravel #6/6 try3
-OK try3 gen 71.2s raw 12.4s -> 12.2s
-== Albert #1/6 try1
-SHORT try1 raw 8.7s -> 8.5s
-== Albert #1/6 try2
-SHORT try2 raw 5.0s -> 4.8s
-== Albert #1/6 try3
-OK try3 gen 71.7s raw 13.5s -> 13.3s
-== Albert #2/6 try1
-SHORT try1 raw 4.4s -> 4.2s
-== Albert #2/6 try2
-SHORT try2 raw 5.0s -> 4.8s
-== Albert #2/6 try3
-OK try3 gen 70.9s raw 13.6s -> 13.3s
-== Albert #3/6 try1
-SHORT try1 raw 5.7s -> 5.2s
-== Albert #3/6 try2
-SHORT try2 raw 6.8s -> 6.5s
-== Albert #3/6 try3
-OK try3 gen 56.4s raw 10.6s -> 10.4s
-== Albert #4/6 try1
+== Barion #2/6 try2
+SHORT try2 raw 7.3s -> 7.1s
+== Barion #2/6 try3
+OK try3 gen 76.0s raw 13.2s -> 13.0s
+== Barion #3/6 try1
+SHORT try1 raw 4.5s -> 4.3s
+== Barion #3/6 try2
+SHORT try2 raw 3.8s -> 3.6s
+== Barion #3/6 try3
+SHORT try3 raw 9.8s -> 9.7s
+GIVE UP Barion #3/6
+== Barion #4/6 try1
+SHORT try1 raw 8.6s -> 8.2s
+== Barion #4/6 try2
+SHORT try2 raw 7.1s -> 6.9s
+== Barion #4/6 try3
+SHORT try3 raw 9.7s -> 9.6s
+GIVE UP Barion #4/6
+== Barion #5/6 try1
+SHORT try1 raw 4.8s -> 4.4s
+== Barion #5/6 try2
+SHORT try2 raw 5.3s -> 5.0s
+== Barion #5/6 try3
+SHORT try3 raw 8.8s -> 8.6s
+GIVE UP Barion #5/6
+== Barion #6/6 try1
+SHORT try1 raw 3.3s -> 3.1s
+== Barion #6/6 try2
+SHORT try2 raw 4.3s -> 4.1s
+== Barion #6/6 try3
+OK try3 gen 60.1s raw 10.5s -> 10.2s
+== Dio #1/6 try1
+SHORT try1 raw 7.5s -> 7.3s
+== Dio #1/6 try2
+SHORT try2 raw 5.7s -> 5.4s
+== Dio #1/6 try3
+OK try3 gen 61.7s raw 10.9s -> 10.8s
+== Dio #2/6 try1
+SHORT try1 raw 4.2s -> 4.1s
+== Dio #2/6 try2
+SHORT try2 raw 4.9s -> 4.7s
+== Dio #2/6 try3
+SHORT try3 raw 10.1s -> 9.9s
+GIVE UP Dio #2/6
+== Dio #3/6 try1
 SHORT try1 raw 4.7s -> 4.5s
-== Albert #4/6 try2
-SHORT try2 raw 5.5s -> 5.3s
-== Albert #4/6 try3
-SHORT try3 raw 9.2s -> 9.0s
-GIVE UP Albert #4/6
-== Albert #5/6 try1
-SHORT try1 raw 5.0s -> 4.8s
-== Albert #5/6 try2
+== Dio #3/6 try2
+SHORT try2 raw 5.1s -> 4.7s
+== Dio #3/6 try3
+SHORT try3 raw 8.4s -> 8.2s
+GIVE UP Dio #3/6
+== Dio #4/6 try1
+SHORT try1 raw 6.8s -> 6.5s
+== Dio #4/6 try2
+SHORT try2 raw 4.4s -> 4.0s
+== Dio #4/6 try3
+SHORT try3 raw 8.8s -> 8.6s
+GIVE UP Dio #4/6
+== Dio #5/6 try1
+SHORT try1 raw 4.0s -> 3.7s
+== Dio #5/6 try2
+SHORT try2 raw 4.0s -> 3.8s
+== Dio #5/6 try3
+SHORT try3 raw 10.1s -> 9.9s
+GIVE UP Dio #5/6
+== Dio #6/6 try1
+SHORT try1 raw 4.8s -> 4.6s
+== Dio #6/6 try2
+SHORT try2 raw 7.3s -> 7.1s
+== Dio #6/6 try3
+SHORT try3 raw 10.0s -> 9.8s
+GIVE UP Dio #6/6
+== Elsa #1/6 try1
+SHORT try1 raw 3.8s -> 3.7s
+== Elsa #1/6 try2
+SHORT try2 raw 3.6s -> 3.3s
+== Elsa #1/6 try3
+SHORT try3 raw 8.8s -> 8.6s
+GIVE UP Elsa #1/6
+== Elsa #2/6 try1
+SHORT try1 raw 3.8s -> 3.7s
+== Elsa #2/6 try2
+SHORT try2 raw 3.5s -> 3.3s
+== Elsa #2/6 try3
+SHORT try3 raw 8.3s -> 8.0s
+GIVE UP Elsa #2/6
+== Elsa #3/6 try1
+SHORT try1 raw 3.5s -> 3.2s
+== Elsa #3/6 try2
+SHORT try2 raw 3.9s -> 3.7s
+== Elsa #3/6 try3
+OK try3 gen 86.7s raw 15.4s -> 14.9s
+== Elsa #4/6 try1
+SHORT try1 raw 5.0s -> 4.9s
+== Elsa #4/6 try2
+SHORT try2 raw 4.5s -> 4.3s
+== Elsa #4/6 try3
+OK try3 gen 80.1s raw 14.1s -> 13.9s
+== Elsa #5/6 try1
+SHORT try1 raw 6.3s -> 6.1s
+== Elsa #5/6 try2
+SHORT try2 raw 7.2s -> 7.0s
+== Elsa #5/6 try3
+SHORT try3 raw 9.9s -> 9.6s
+GIVE UP Elsa #5/6
+== Elsa #6/6 try1
+SHORT try1 raw 3.6s -> 3.3s
+== Elsa #6/6 try2
+SHORT try2 raw 4.1s -> 3.9s
+== Elsa #6/6 try3
+SHORT try3 raw 10.1s -> 9.0s
+GIVE UP Elsa #6/6
+== Ephraim #1/6 try1
+SHORT try1 raw 3.7s -> 3.5s
+== Ephraim #1/6 try2
+SHORT try2 raw 3.3s -> 3.1s
+== Ephraim #1/6 try3
+SHORT try3 raw 8.7s -> 8.5s
+GIVE UP Ephraim #1/6
+== Ephraim #2/6 try1
+SHORT try1 raw 6.7s -> 6.3s
+== Ephraim #2/6 try2
+SHORT try2 raw 6.3s -> 5.7s
+== Ephraim #2/6 try3
+OK try3 gen 61.4s raw 10.8s -> 10.4s
+== Ephraim #3/6 try1
+SHORT try1 raw 4.0s -> 3.8s
+== Ephraim #3/6 try2
+SHORT try2 raw 4.1s -> 4.0s
+== Ephraim #3/6 try3
+OK try3 gen 81.3s raw 13.7s -> 13.5s
+== Ephraim #4/6 try1
+SHORT try1 raw 4.8s -> 4.6s
+== Ephraim #4/6 try2
+SHORT try2 raw 4.7s -> 4.5s
+== Ephraim #4/6 try3
+SHORT try3 raw 9.7s -> 9.4s
+GIVE UP Ephraim #4/6
+== Ephraim #5/6 try1
+SHORT try1 raw 5.8s -> 5.4s
+== Ephraim #5/6 try2
+SHORT try2 raw 4.9s -> 4.7s
+== Ephraim #5/6 try3
+SHORT try3 raw 8.1s -> 7.8s
+GIVE UP Ephraim #5/6
+== Ephraim #6/6 try1
+SHORT try1 raw 3.7s -> 3.5s
+== Ephraim #6/6 try2
+SHORT try2 raw 2.9s -> 2.7s
+== Ephraim #6/6 try3
+SHORT try3 raw 8.6s -> 8.5s
+GIVE UP Ephraim #6/6
+== Eula #1/6 try1
+SHORT try1 raw 6.0s -> 5.7s
+== Eula #1/6 try2
+SHORT try2 raw 4.6s -> 4.4s
+== Eula #1/6 try3
+SHORT try3 raw 9.1s -> 8.9s
+GIVE UP Eula #1/6
+== Eula #2/6 try1
+SHORT try1 raw 7.1s -> 6.8s
+== Eula #2/6 try2
+SHORT try2 raw 4.9s -> 4.7s
+== Eula #2/6 try3
+SHORT try3 raw 9.6s -> 9.4s
+GIVE UP Eula #2/6
+== Eula #3/6 try1
+SHORT try1 raw 6.1s -> 5.8s
+== Eula #3/6 try2
+SHORT try2 raw 3.8s -> 3.7s
+== Eula #3/6 try3
+OK try3 gen 59.8s raw 10.3s -> 10.1s
+== Eula #4/6 try1
+SHORT try1 raw 6.4s -> 6.2s
+== Eula #4/6 try2
+SHORT try2 raw 9.5s -> 9.2s
+== Eula #4/6 try3
+OK try3 gen 72.4s raw 12.3s -> 12.1s
+== Eula #5/6 try1
+SHORT try1 raw 6.7s -> 6.5s
+== Eula #5/6 try2
+SHORT try2 raw 8.1s -> 8.0s
+== Eula #5/6 try3
+OK try3 gen 74.7s raw 13.0s -> 12.9s
+== Eula #6/6 try1
+SHORT try1 raw 4.1s -> 3.9s
+== Eula #6/6 try2
+SHORT try2 raw 3.5s -> 3.3s
+== Eula #6/6 try3
+SHORT try3 raw 8.5s -> 8.3s
+GIVE UP Eula #6/6
+== Gabriel #1/6 try1
+SHORT try1 raw 4.7s -> 4.4s
+== Gabriel #1/6 try2
+SHORT try2 raw 4.2s -> 4.0s
+== Gabriel #1/6 try3
+SHORT try3 raw 9.0s -> 8.8s
+GIVE UP Gabriel #1/6
+== Gabriel #2/6 try1
+SHORT try1 raw 5.1s -> 4.7s
+== Gabriel #2/6 try2
+SHORT try2 raw 4.9s -> 4.6s
+== Gabriel #2/6 try3
+SHORT try3 raw 8.7s -> 8.5s
+GIVE UP Gabriel #2/6
+== Gabriel #3/6 try1
+SHORT try1 raw 5.3s -> 5.0s
+== Gabriel #3/6 try2
+SHORT try2 raw 3.5s -> 3.3s
+== Gabriel #3/6 try3
+SHORT try3 raw 8.2s -> 7.8s
+GIVE UP Gabriel #3/6
+== Gabriel #4/6 try1
+SHORT try1 raw 9.0s -> 7.6s
+== Gabriel #4/6 try2
+SHORT try2 raw 4.5s -> 4.3s
+== Gabriel #4/6 try3
+SHORT try3 raw 9.4s -> 9.1s
+GIVE UP Gabriel #4/6
+== Gabriel #5/6 try1
+SHORT try1 raw 6.5s -> 6.2s
+== Gabriel #5/6 try2
+SHORT try2 raw 5.1s -> 4.6s
+== Gabriel #5/6 try3
+SHORT try3 raw 9.1s -> 8.9s
+GIVE UP Gabriel #5/6
+== Gabriel #6/6 try1
+SHORT try1 raw 4.7s -> 4.5s
+== Gabriel #6/6 try2
+SHORT try2 raw 4.1s -> 3.9s
+== Gabriel #6/6 try3
+SHORT try3 raw 8.3s -> 8.1s
+GIVE UP Gabriel #6/6
+== Garret #1/6 try1
+SHORT try1 raw 5.3s -> 5.1s
+== Garret #1/6 try2
+SHORT try2 raw 4.1s -> 3.9s
+== Garret #1/6 try3
+SHORT try3 raw 8.2s -> 7.5s
+GIVE UP Garret #1/6
+== Garret #2/6 try1
+SHORT try1 raw 7.3s -> 6.9s
+== Garret #2/6 try2
+SHORT try2 raw 5.0s -> 4.8s
+== Garret #2/6 try3
+SHORT try3 raw 9.1s -> 8.9s
+GIVE UP Garret #2/6
+== Garret #3/6 try1
+SHORT try1 raw 3.9s -> 3.7s
+== Garret #3/6 try2
+SHORT try2 raw 4.2s -> 4.1s
+== Garret #3/6 try3
+SHORT try3 raw 9.5s -> 9.3s
+GIVE UP Garret #3/6
+== Garret #4/6 try1
+SHORT try1 raw 5.5s -> 5.3s
+== Garret #4/6 try2
+SHORT try2 raw 5.4s -> 5.2s
+== Garret #4/6 try3
+SHORT try3 raw 8.1s -> 7.9s
+GIVE UP Garret #4/6
+== Garret #5/6 try1
+SHORT try1 raw 4.5s -> 4.4s
+== Garret #5/6 try2
+SHORT try2 raw 6.0s -> 5.8s
+== Garret #5/6 try3
+SHORT try3 raw 7.6s -> 7.4s
+GIVE UP Garret #5/6
+== Garret #6/6 try1
+SHORT try1 raw 6.5s -> 6.3s
+== Garret #6/6 try2
+SHORT try2 raw 4.9s -> 4.5s
+== Garret #6/6 try3
+SHORT try3 raw 10.2s -> 9.9s
+GIVE UP Garret #6/6
+== Gideon #1/6 try1
+SHORT try1 raw 4.1s -> 3.8s
+== Gideon #1/6 try2
+SHORT try2 raw 4.6s -> 4.3s
+== Gideon #1/6 try3
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+SHORT try3 raw 8.1s -> 7.9s
+GIVE UP Gideon #1/6
+== Gideon #2/6 try1
+SHORT try1 raw 4.7s -> 4.4s
+== Gideon #2/6 try2
+SHORT try2 raw 5.3s -> 4.8s
+== Gideon #2/6 try3
+SHORT try3 raw 11.1s -> 9.9s
+GIVE UP Gideon #2/6
+== Gideon #3/6 try1
+SHORT try1 raw 4.9s -> 4.7s
+== Gideon #3/6 try2
+SHORT try2 raw 4.0s -> 3.8s
+== Gideon #3/6 try3
+SHORT try3 raw 8.1s -> 7.9s
+GIVE UP Gideon #3/6
+== Gideon #4/6 try1
+SHORT try1 raw 3.9s -> 3.7s
+== Gideon #4/6 try2
+SHORT try2 raw 3.7s -> 3.5s
+== Gideon #4/6 try3
+SHORT try3 raw 8.3s -> 7.8s
+GIVE UP Gideon #4/6
+== Gideon #5/6 try1
+SHORT try1 raw 6.9s -> 6.6s
+== Gideon #5/6 try2
+SHORT try2 raw 7.6s -> 7.2s
+== Gideon #5/6 try3
+SHORT try3 raw 9.0s -> 8.5s
+GIVE UP Gideon #5/6
+== Gideon #6/6 try1
+SHORT try1 raw 3.4s -> 3.1s
+== Gideon #6/6 try2
+SHORT try2 raw 3.5s -> 3.4s
+== Gideon #6/6 try3
+OK try3 gen 64.2s raw 10.9s -> 10.6s
+== Hecate #1/6 try1
+SHORT try1 raw 4.1s -> 4.0s
+== Hecate #1/6 try2
+SHORT try2 raw 4.9s -> 4.7s
+== Hecate #1/6 try3
+SHORT try3 raw 9.3s -> 9.1s
+GIVE UP Hecate #1/6
+== Hecate #2/6 try1
+SHORT try1 raw 3.9s -> 3.7s
+== Hecate #2/6 try2
+SHORT try2 raw 3.5s -> 3.3s
+== Hecate #2/6 try3
+OK try3 gen 60.9s raw 10.5s -> 10.3s
+== Hecate #3/6 try1
+SHORT try1 raw 5.8s -> 5.7s
+== Hecate #3/6 try2
+SHORT try2 raw 5.0s -> 4.8s
+== Hecate #3/6 try3
+SHORT try3 raw 8.1s -> 7.8s
+GIVE UP Hecate #3/6
+== Hecate #4/6 try1
+SHORT try1 raw 5.0s -> 4.7s
+== Hecate #4/6 try2
+SHORT try2 raw 3.7s -> 3.4s
+== Hecate #4/6 try3
+SHORT try3 raw 8.8s -> 8.4s
+GIVE UP Hecate #4/6
+== Hecate #5/6 try1
+SHORT try1 raw 5.5s -> 5.2s
+== Hecate #5/6 try2
+SHORT try2 raw 5.7s -> 5.6s
+== Hecate #5/6 try3
+SHORT try3 raw 9.8s -> 9.4s
+GIVE UP Hecate #5/6
+== Hecate #6/6 try1
+SHORT try1 raw 5.1s -> 4.9s
+== Hecate #6/6 try2
+SHORT try2 raw 3.4s -> 3.3s
+== Hecate #6/6 try3
+SHORT try3 raw 10.6s -> 9.6s
+GIVE UP Hecate #6/6
+== Hugh #1/6 try1
+SHORT try1 raw 3.8s -> 3.5s
+== Hugh #1/6 try2
+SHORT try2 raw 4.7s -> 4.5s
+== Hugh #1/6 try3
+SHORT try3 raw 9.7s -> 9.2s
+GIVE UP Hugh #1/6
+== Hugh #2/6 try1
+SHORT try1 raw 3.5s -> 3.2s
+== Hugh #2/6 try2
+SHORT try2 raw 3.0s -> 2.8s
+== Hugh #2/6 try3
+SHORT try3 raw 8.1s -> 7.9s
+GIVE UP Hugh #2/6
+== Hugh #3/6 try1
+SHORT try1 raw 5.3s -> 5.1s
+== Hugh #3/6 try2
+SHORT try2 raw 4.9s -> 4.3s
+== Hugh #3/6 try3
+OK try3 gen 60.9s raw 10.6s -> 10.4s
+== Hugh #4/6 try1
+SHORT try1 raw 9.1s -> 8.7s
+== Hugh #4/6 try2
+SHORT try2 raw 5.7s -> 5.4s
+== Hugh #4/6 try3
+OK try3 gen 65.9s raw 11.3s -> 10.9s
+== Hugh #5/6 try1
+SHORT try1 raw 4.5s -> 4.2s
+== Hugh #5/6 try2
+SHORT try2 raw 6.6s -> 6.4s
+== Hugh #5/6 try3
+SHORT try3 raw 9.8s -> 9.5s
+GIVE UP Hugh #5/6
+== Hugh #6/6 try1
+SHORT try1 raw 5.3s -> 5.1s
+== Hugh #6/6 try2
+SHORT try2 raw 4.5s -> 4.2s
+== Hugh #6/6 try3
+SHORT try3 raw 8.9s -> 8.6s
+GIVE UP Hugh #6/6
+== Jacob #1/6 try1
+SHORT try1 raw 2.5s -> 2.3s
+== Jacob #1/6 try2
+SHORT try2 raw 4.3s -> 4.1s
+== Jacob #1/6 try3
+SHORT try3 raw 8.8s -> 8.5s
+GIVE UP Jacob #1/6
+== Jacob #2/6 try1
+SHORT try1 raw 5.1s -> 4.9s
+== Jacob #2/6 try2
+SHORT try2 raw 4.2s -> 4.1s
+== Jacob #2/6 try3
+SHORT try3 raw 9.3s -> 9.2s
+GIVE UP Jacob #2/6
+== Jacob #3/6 try1
+SHORT try1 raw 4.5s -> 4.3s
+== Jacob #3/6 try2
+SHORT try2 raw 4.2s -> 4.0s
+== Jacob #3/6 try3
+SHORT try3 raw 7.8s -> 7.7s
+GIVE UP Jacob #3/6
+== Jacob #4/6 try1
+SHORT try1 raw 2.6s -> 2.5s
+== Jacob #4/6 try2
+SHORT try2 raw 3.3s -> 3.1s
+== Jacob #4/6 try3
+SHORT try3 raw 7.5s -> 7.3s
+GIVE UP Jacob #4/6
+== Jacob #5/6 try1
+SHORT try1 raw 3.7s -> 3.5s
+== Jacob #5/6 try2
+SHORT try2 raw 3.7s -> 3.6s
+== Jacob #5/6 try3
+SHORT try3 raw 6.9s -> 6.8s
+GIVE UP Jacob #5/6
+== Jacob #6/6 try1
+SHORT try1 raw 2.6s -> 2.3s
+== Jacob #6/6 try2
+SHORT try2 raw 3.0s -> 2.7s
+== Jacob #6/6 try3
+SHORT try3 raw 6.2s -> 5.9s
+GIVE UP Jacob #6/6
+== Jasmine #1/6 try1
+SHORT try1 raw 3.3s -> 3.0s
+== Jasmine #1/6 try2
+SHORT try2 raw 2.9s -> 2.7s
+== Jasmine #1/6 try3
+SHORT try3 raw 8.4s -> 8.2s
+GIVE UP Jasmine #1/6
+== Jasmine #2/6 try1
+SHORT try1 raw 5.7s -> 5.6s
+== Jasmine #2/6 try2
+SHORT try2 raw 3.8s -> 3.6s
+== Jasmine #2/6 try3
+OK try3 gen 65.4s raw 11.2s -> 11.0s
+== Jasmine #3/6 try1
+SHORT try1 raw 3.8s -> 3.7s
+== Jasmine #3/6 try2
+SHORT try2 raw 3.9s -> 3.7s
+== Jasmine #3/6 try3
+SHORT try3 raw 8.9s -> 8.7s
+GIVE UP Jasmine #3/6
+== Jasmine #4/6 try1
+SHORT try1 raw 4.8s -> 4.6s
+== Jasmine #4/6 try2
+SHORT try2 raw 5.3s -> 4.7s
+== Jasmine #4/6 try3
+SHORT try3 raw 8.6s -> 8.4s
+GIVE UP Jasmine #4/6
+== Jasmine #5/6 try1
+SHORT try1 raw 4.9s -> 4.7s
+== Jasmine #5/6 try2
+SHORT try2 raw 5.3s -> 5.1s
+== Jasmine #5/6 try3
+SHORT try3 raw 9.1s -> 8.8s
+GIVE UP Jasmine #5/6
+== Jasmine #6/6 try1
+SHORT try1 raw 3.5s -> 3.3s
+== Jasmine #6/6 try2
+SHORT try2 raw 3.1s -> 2.9s
+== Jasmine #6/6 try3
+SHORT try3 raw 6.9s -> 6.7s
+GIVE UP Jasmine #6/6
+== Kamal #1/6 try1
+SHORT try1 raw 3.7s -> 3.4s
+== Kamal #1/6 try2
+SHORT try2 raw 4.0s -> 3.7s
+== Kamal #1/6 try3
+SHORT try3 raw 7.3s -> 7.0s
+GIVE UP Kamal #1/6
+== Kamal #2/6 try1
+SHORT try1 raw 3.9s -> 3.7s
+== Kamal #2/6 try2
+SHORT try2 raw 4.7s -> 4.4s
+== Kamal #2/6 try3
+SHORT try3 raw 10.5s -> 10.0s
+GIVE UP Kamal #2/6
+== Kamal #3/6 try1
+SHORT try1 raw 3.4s -> 3.1s
+== Kamal #3/6 try2
+SHORT try2 raw 3.5s -> 3.3s
+== Kamal #3/6 try3
+SHORT try3 raw 7.8s -> 7.7s
+GIVE UP Kamal #3/6
+== Kamal #4/6 try1
+SHORT try1 raw 5.2s -> 4.9s
+== Kamal #4/6 try2
+SHORT try2 raw 6.0s -> 4.6s
+== Kamal #4/6 try3
+SHORT try3 raw 8.6s -> 8.3s
+GIVE UP Kamal #4/6
+== Kamal #5/6 try1
+SHORT try1 raw 6.1s -> 5.8s
+== Kamal #5/6 try2
+SHORT try2 raw 8.1s -> 7.3s
+== Kamal #5/6 try3
+OK try3 gen 62.3s raw 10.8s -> 10.3s
+== Kamal #6/6 try1
+SHORT try1 raw 3.8s -> 3.5s
+== Kamal #6/6 try2
+SHORT try2 raw 6.1s -> 5.8s
+== Kamal #6/6 try3
+SHORT try3 raw 9.2s -> 8.9s
+GIVE UP Kamal #6/6
+== Krip #1/6 try1
+SHORT try1 raw 2.1s -> 1.8s
+== Krip #1/6 try2
+SHORT try2 raw 1.8s -> 1.5s
+== Krip #1/6 try3
+SHORT try3 raw 2.9s -> 2.6s
+GIVE UP Krip #1/6
+== Krip #2/6 try1
+SHORT try1 raw 1.0s -> 0.7s
+== Krip #2/6 try2
+SHORT try2 raw 1.6s -> 1.3s
+== Krip #2/6 try3
+SHORT try3 raw 7.5s -> 7.2s
+GIVE UP Krip #2/6
+== Krip #3/6 try1
+SHORT try1 raw 5.5s -> 5.1s
+== Krip #3/6 try2
+SHORT try2 raw 3.3s -> 3.2s
+== Krip #3/6 try3
+SHORT try3 raw 7.5s -> 7.1s
+GIVE UP Krip #3/6
+== Krip #4/6 try1
+SHORT try1 raw 4.7s -> 4.2s
+== Krip #4/6 try2
+SHORT try2 raw 4.5s -> 4.1s
+== Krip #4/6 try3
+OK try3 gen 65.4s raw 11.4s -> 11.2s
+== Krip #5/6 try1
+SHORT try1 raw 5.2s -> 4.8s
+== Krip #5/6 try2
+SHORT try2 raw 3.1s -> 2.7s
+== Krip #5/6 try3
+SHORT try3 raw 7.6s -> 7.3s
+GIVE UP Krip #5/6
+== Krip #6/6 try1
+SHORT try1 raw 1.7s -> 1.5s
+== Krip #6/6 try2
+SHORT try2 raw 1.9s -> 1.5s
+== Krip #6/6 try3
+SHORT try3 raw 3.1s -> 2.8s
+GIVE UP Krip #6/6
+== Lily #1/6 try1
+SHORT try1 raw 8.0s -> 7.7s
+== Lily #1/6 try2
+SHORT try2 raw 7.5s -> 7.3s
+== Lily #1/6 try3
+OK try3 gen 1253.8s raw 185.4s -> 184.7s
+== Lily #2/6 try1
+SHORT try1 raw 3.7s -> 3.5s
+== Lily #2/6 try2
+SHORT try2 raw 4.1s -> 3.9s
+== Lily #2/6 try3
+SHORT try3 raw 8.5s -> 8.4s
+GIVE UP Lily #2/6
+== Lily #3/6 try1
+SHORT try1 raw 3.8s -> 3.7s
+== Lily #3/6 try2
+SHORT try2 raw 3.5s -> 3.3s
+== Lily #3/6 try3
+SHORT try3 raw 9.1s -> 8.9s
+GIVE UP Lily #3/6
+== Lily #4/6 try1
+SHORT try1 raw 6.1s -> 5.5s
+== Lily #4/6 try2
+SHORT try2 raw 5.0s -> 4.6s
+== Lily #4/6 try3
+OK try3 gen 90.7s raw 14.9s -> 14.5s
+== Lily #5/6 try1
+SHORT try1 raw 7.5s -> 7.2s
+== Lily #5/6 try2
+SHORT try2 raw 4.1s -> 3.9s
+== Lily #5/6 try3
+OK try3 gen 65.1s raw 10.7s -> 10.5s
+== Lily #6/6 try1
+SHORT try1 raw 6.1s -> 5.5s
+== Lily #6/6 try2
+SHORT try2 raw 5.1s -> 4.6s
+== Lily #6/6 try3
+SHORT try3 raw 8.7s -> 8.5s
+GIVE UP Lily #6/6
+== Maeiv #1/6 try1
+SHORT try1 raw 5.8s -> 5.7s
+== Maeiv #1/6 try2
+SHORT try2 raw 8.6s -> 8.4s
+== Maeiv #1/6 try3
+SHORT try3 raw 8.7s -> 8.5s
+GIVE UP Maeiv #1/6
+== Maeiv #2/6 try1
+SHORT try1 raw 4.1s -> 3.9s
+== Maeiv #2/6 try2
+OK try2 gen 111.0s raw 17.9s -> 17.5s
+== Maeiv #3/6 try1
+SHORT try1 raw 3.3s -> 3.1s
+== Maeiv #3/6 try2
+SHORT try2 raw 3.8s -> 3.7s
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2150 for open-end generation.
+== Maeiv #3/6 try3
+SHORT try3 raw 7.5s -> 7.3s
+GIVE UP Maeiv #3/6
+== Maeiv #4/6 try1
+SHORT try1 raw 2.9s -> 2.8s
+== Maeiv #4/6 try2
+SHORT try2 raw 3.6s -> 3.4s
+== Maeiv #4/6 try3
+SHORT try3 raw 9.3s -> 9.0s
+GIVE UP Maeiv #4/6
+== Maeiv #5/6 try1
+SHORT try1 raw 5.2s -> 4.8s
+== Maeiv #5/6 try2
+SHORT try2 raw 9.8s -> 9.5s
+== Maeiv #5/6 try3
+OK try3 gen 68.2s raw 11.3s -> 10.9s
+== Maeiv #6/6 try1
+SHORT try1 raw 6.7s -> 6.4s
+== Maeiv #6/6 try2
+SHORT try2 raw 8.0s -> 7.7s
+== Maeiv #6/6 try3
+OK try3 gen 67.3s raw 11.0s -> 10.8s
+== Marius #1/6 try1
+SHORT try1 raw 3.1s -> 2.8s
+== Marius #1/6 try2
+SHORT try2 raw 3.2s -> 2.9s
+== Marius #1/6 try3
+SHORT try3 raw 5.8s -> 5.6s
+GIVE UP Marius #1/6
+== Marius #2/6 try1
+SHORT try1 raw 3.0s -> 2.7s
+== Marius #2/6 try2
+SHORT try2 raw 2.7s -> 2.4s
+== Marius #2/6 try3
+SHORT try3 raw 6.7s -> 6.3s
+GIVE UP Marius #2/6
+== Marius #3/6 try1
+SHORT try1 raw 3.5s -> 3.3s
+== Marius #3/6 try2
+SHORT try2 raw 2.8s -> 2.6s
+== Marius #3/6 try3
+SHORT try3 raw 7.8s -> 7.6s
+GIVE UP Marius #3/6
+== Marius #4/6 try1
+SHORT try1 raw 3.8s -> 3.7s
+== Marius #4/6 try2
+SHORT try2 raw 4.0s -> 3.8s
+== Marius #4/6 try3
+SHORT try3 raw 8.1s -> 8.0s
+GIVE UP Marius #4/6
+== Marius #5/6 try1
+SHORT try1 raw 3.5s -> 3.1s
+== Marius #5/6 try2
+SHORT try2 raw 3.9s -> 3.6s
+== Marius #5/6 try3
+SHORT try3 raw 7.7s -> 7.5s
+GIVE UP Marius #5/6
+== Marius #6/6 try1
+SHORT try1 raw 4.8s -> 4.6s
+== Marius #6/6 try2
+SHORT try2 raw 2.7s -> 2.6s
+== Marius #6/6 try3
+SHORT try3 raw 5.8s -> 5.6s
+GIVE UP Marius #6/6
+== Mary #1/6 try1
+SHORT try1 raw 5.4s -> 4.9s
+== Mary #1/6 try2
+SHORT try2 raw 3.4s -> 3.3s
+== Mary #1/6 try3
+SHORT try3 raw 8.1s -> 7.9s
+GIVE UP Mary #1/6
+== Mary #2/6 try1
+SHORT try1 raw 4.9s -> 4.6s
+== Mary #2/6 try2
+SHORT try2 raw 5.7s -> 5.4s
+== Mary #2/6 try3
+OK try3 gen 67.8s raw 11.4s -> 11.1s
+== Mary #3/6 try1
+SHORT try1 raw 3.8s -> 3.6s
+== Mary #3/6 try2
+SHORT try2 raw 4.5s -> 4.4s
+== Mary #3/6 try3
+SHORT try3 raw 7.7s -> 7.5s
+GIVE UP Mary #3/6
+== Mary #4/6 try1
+SHORT try1 raw 3.8s -> 3.7s
+== Mary #4/6 try2
+SHORT try2 raw 4.4s -> 4.1s
+== Mary #4/6 try3
+SHORT try3 raw 9.7s -> 9.4s
+GIVE UP Mary #4/6
+== Mary #5/6 try1
+SHORT try1 raw 7.2s -> 6.9s
+== Mary #5/6 try2
 SHORT try2 raw 6.3s -> 6.1s
-== Albert #5/6 try3
-OK try3 gen 62.8s raw 11.3s -> 11.2s
-== Albert #6/6 try1
-SHORT try1 raw 6.1s -> 5.9s
-== Albert #6/6 try2
-SHORT try2 raw 6.3s -> 6.1s
-== Albert #6/6 try3
-OK try3 gen 66.3s raw 12.1s -> 11.9s
-DONE total: 22
+== Mary #5/6 try3
+OK try3 gen 70.6s raw 11.5s -> 11.4s
+== Mary #6/6 try1
+SHORT try1 raw 3.6s -> 3.4s
+== Mary #6/6 try2
+SHORT try2 raw 3.6s -> 3.4s
+== Mary #6/6 try3
+SHORT try3 raw 7.3s -> 7.1s
+GIVE UP Mary #6/6
+== Matthew #1/6 try1
+SHORT try1 raw 3.2s -> 2.6s
+== Matthew #1/6 try2
+SHORT try2 raw 2.9s -> 2.4s
+== Matthew #1/6 try3
+SHORT try3 raw 3.5s -> 3.1s
+GIVE UP Matthew #1/6
+== Matthew #2/6 try1
+SHORT try1 raw 5.7s -> 5.4s
+== Matthew #2/6 try2
+SHORT try2 raw 0.9s -> 0.8s
+== Matthew #2/6 try3
+SHORT try3 raw 4.6s -> 4.4s
+GIVE UP Matthew #2/6
+== Matthew #3/6 try1
+SHORT try1 raw 5.2s -> 4.9s
+== Matthew #3/6 try2
+SHORT try2 raw 5.4s -> 5.2s
+== Matthew #3/6 try3
+SHORT try3 raw 8.9s -> 8.7s
+GIVE UP Matthew #3/6
+== Matthew #4/6 try1
+SHORT try1 raw 4.7s -> 4.4s
+== Matthew #4/6 try2
+SHORT try2 raw 3.4s -> 3.3s
+== Matthew #4/6 try3
+SHORT try3 raw 9.3s -> 9.1s
+GIVE UP Matthew #4/6
+== Matthew #5/6 try1
+SHORT try1 raw 4.1s -> 3.9s
+== Matthew #5/6 try2
+SHORT try2 raw 5.9s -> 5.7s
+== Matthew #5/6 try3
+SHORT try3 raw 8.9s -> 8.6s
+GIVE UP Matthew #5/6
+== Matthew #6/6 try1
+SHORT try1 raw 2.3s -> 1.9s
+== Matthew #6/6 try2
+SHORT try2 raw 2.3s -> 2.0s
+== Matthew #6/6 try3
+SHORT try3 raw 2.9s -> 2.6s
+GIVE UP Matthew #6/6
+== Miriam #1/6 try1
+SHORT try1 raw 3.6s -> 3.4s
+== Miriam #1/6 try2
+SHORT try2 raw 2.9s -> 2.7s
+== Miriam #1/6 try3
+SHORT try3 raw 7.3s -> 7.1s
+GIVE UP Miriam #1/6
+== Miriam #2/6 try1
+SHORT try1 raw 3.4s -> 3.3s
+== Miriam #2/6 try2
+SHORT try2 raw 2.5s -> 2.2s
+== Miriam #2/6 try3
+SHORT try3 raw 8.3s -> 8.0s
+GIVE UP Miriam #2/6
+== Miriam #3/6 try1
+SHORT try1 raw 4.4s -> 4.2s
+== Miriam #3/6 try2
+SHORT try2 raw 4.6s -> 4.5s
+== Miriam #3/6 try3
+OK try3 gen 65.2s raw 11.1s -> 11.0s
+== Miriam #4/6 try1
+SHORT try1 raw 3.7s -> 3.6s
+== Miriam #4/6 try2
+SHORT try2 raw 4.6s -> 4.4s
+== Miriam #4/6 try3
+SHORT try3 raw 6.9s -> 6.7s
+GIVE UP Miriam #4/6
+== Miriam #5/6 try1
+SHORT try1 raw 2.9s -> 2.8s
+== Miriam #5/6 try2
+SHORT try2 raw 2.9s -> 2.7s
+== Miriam #5/6 try3
+SHORT try3 raw 6.2s -> 6.1s
+GIVE UP Miriam #5/6
+== Miriam #6/6 try1
+SHORT try1 raw 6.6s -> 6.4s
+== Miriam #6/6 try2
+SHORT try2 raw 3.1s -> 2.9s
+== Miriam #6/6 try3
+SHORT try3 raw 5.7s -> 5.6s
+GIVE UP Miriam #6/6
+== Nathan #1/6 try1
+SHORT try1 raw 2.2s -> 2.0s
+== Nathan #1/6 try2
+SHORT try2 raw 1.7s -> 1.6s
+== Nathan #1/6 try3
+SHORT try3 raw 6.7s -> 6.5s
+GIVE UP Nathan #1/6
+== Nathan #2/6 try1
+SHORT try1 raw 3.3s -> 3.1s
+== Nathan #2/6 try2
+SHORT try2 raw 3.5s -> 3.3s
+== Nathan #2/6 try3
+SHORT try3 raw 6.9s -> 6.8s
+GIVE UP Nathan #2/6
+== Nathan #3/6 try1
+SHORT try1 raw 3.4s -> 3.0s
+== Nathan #3/6 try2
+SHORT try2 raw 3.3s -> 3.0s
+== Nathan #3/6 try3
+SHORT try3 raw 5.9s -> 5.7s
+GIVE UP Nathan #3/6
+== Nathan #4/6 try1
+SHORT try1 raw 3.7s -> 3.5s
+== Nathan #4/6 try2
+SHORT try2 raw 3.1s -> 2.9s
+== Nathan #4/6 try3
+SHORT try3 raw 7.4s -> 7.3s
+GIVE UP Nathan #4/6
+== Nathan #5/6 try1
+SHORT try1 raw 4.5s -> 4.0s
+== Nathan #5/6 try2
+SHORT try2 raw 3.7s -> 3.5s
+== Nathan #5/6 try3
+SHORT try3 raw 8.0s -> 7.7s
+GIVE UP Nathan #5/6
+== Nathan #6/6 try1
+SHORT try1 raw 2.0s -> 1.8s
+== Nathan #6/6 try2
+SHORT try2 raw 1.8s -> 1.6s
+== Nathan #6/6 try3
+SHORT try3 raw 5.7s -> 5.5s
+GIVE UP Nathan #6/6
+== Naydeen #1/6 try1
+SHORT try1 raw 3.6s -> 3.3s
+== Naydeen #1/6 try2
+SHORT try2 raw 2.8s -> 2.5s
+== Naydeen #1/6 try3
+SHORT try3 raw 8.4s -> 8.1s
+GIVE UP Naydeen #1/6
+== Naydeen #2/6 try1
+SHORT try1 raw 4.2s -> 4.1s
+== Naydeen #2/6 try2
+SHORT try2 raw 3.6s -> 3.4s
+== Naydeen #2/6 try3
+SHORT try3 raw 6.3s -> 6.1s
+GIVE UP Naydeen #2/6
+== Naydeen #3/6 try1
+SHORT try1 raw 3.2s -> 3.0s
+== Naydeen #3/6 try2
+SHORT try2 raw 2.6s -> 2.4s
+== Naydeen #3/6 try3
+SHORT try3 raw 6.6s -> 6.5s
+GIVE UP Naydeen #3/6
+== Naydeen #4/6 try1
+SHORT try1 raw 4.1s -> 3.8s
+== Naydeen #4/6 try2
+SHORT try2 raw 4.7s -> 4.5s
+== Naydeen #4/6 try3
+SHORT try3 raw 8.3s -> 8.1s
+GIVE UP Naydeen #4/6
+== Naydeen #5/6 try1
+SHORT try1 raw 3.4s -> 2.8s
+== Naydeen #5/6 try2
+SHORT try2 raw 4.0s -> 3.7s
+== Naydeen #5/6 try3
+SHORT try3 raw 8.7s -> 8.4s
+GIVE UP Naydeen #5/6
+== Naydeen #6/6 try1
+SHORT try1 raw 2.0s -> 1.8s
+== Naydeen #6/6 try2
+SHORT try2 raw 2.0s -> 1.8s
+== Naydeen #6/6 try3
+SHORT try3 raw 8.3s -> 8.0s
+GIVE UP Naydeen #6/6
+== Nickolas #1/6 try1
+SHORT try1 raw 2.5s -> 2.3s
+== Nickolas #1/6 try2
+SHORT try2 raw 2.1s -> 1.9s
+== Nickolas #1/6 try3
+SHORT try3 raw 4.9s -> 4.8s
+GIVE UP Nickolas #1/6
+== Nickolas #2/6 try1
+SHORT try1 raw 4.3s -> 3.7s
+== Nickolas #2/6 try2
+SHORT try2 raw 3.3s -> 3.0s
+== Nickolas #2/6 try3
+SHORT try3 raw 9.3s -> 9.0s
+GIVE UP Nickolas #2/6
+== Nickolas #3/6 try1
+SHORT try1 raw 5.0s -> 4.9s
+== Nickolas #3/6 try2
+SHORT try2 raw 3.4s -> 3.3s
+== Nickolas #3/6 try3
+SHORT try3 raw 6.0s -> 5.8s
+GIVE UP Nickolas #3/6
+== Nickolas #4/6 try1
+SHORT try1 raw 3.7s -> 3.5s
+== Nickolas #4/6 try2
+SHORT try2 raw 2.9s -> 2.8s
+== Nickolas #4/6 try3
+SHORT try3 raw 6.6s -> 6.4s
+GIVE UP Nickolas #4/6
+== Nickolas #5/6 try1
+SHORT try1 raw 4.7s -> 4.2s
+== Nickolas #5/6 try2
+SHORT try2 raw 3.2s -> 2.9s
+== Nickolas #5/6 try3
+SHORT try3 raw 9.6s -> 9.3s
+GIVE UP Nickolas #5/6
+== Nickolas #6/6 try1
+SHORT try1 raw 2.0s -> 1.8s
+== Nickolas #6/6 try2
+SHORT try2 raw 1.9s -> 1.7s
+== Nickolas #6/6 try3
+SHORT try3 raw 6.9s -> 6.7s
+GIVE UP Nickolas #6/6
+== Orwen #1/6 try1
+SHORT try1 raw 1.7s -> 1.1s
+== Orwen #1/6 try2
+SHORT try2 raw 1.0s -> 0.8s
+== Orwen #1/6 try3
+SHORT try3 raw 2.1s -> 1.9s
+GIVE UP Orwen #1/6
+== Orwen #2/6 try1
+SHORT try1 raw 2.9s -> 2.4s
+== Orwen #2/6 try2
+SHORT try2 raw 1.1s -> 0.9s
+== Orwen #2/6 try3
+SHORT try3 raw 6.9s -> 6.7s
+GIVE UP Orwen #2/6
+== Orwen #3/6 try1
+SHORT try1 raw 4.9s -> 4.8s
+== Orwen #3/6 try2
+SHORT try2 raw 4.1s -> 3.9s
+== Orwen #3/6 try3
+SHORT try3 raw 7.3s -> 6.7s
+GIVE UP Orwen #3/6
+== Orwen #4/6 try1
+SHORT try1 raw 3.2s -> 3.0s
+== Orwen #4/6 try2
+SHORT try2 raw 4.1s -> 3.7s
+== Orwen #4/6 try3
+SHORT try3 raw 5.9s -> 5.7s
+GIVE UP Orwen #4/6
+== Orwen #5/6 try1
+SHORT try1 raw 3.1s -> 2.9s
+== Orwen #5/6 try2
+SHORT try2 raw 3.3s -> 3.1s
+== Orwen #5/6 try3
+SHORT try3 raw 4.2s -> 4.1s
+GIVE UP Orwen #5/6
+== Orwen #6/6 try1
+SHORT try1 raw 1.7s -> 1.1s
+== Orwen #6/6 try2
+SHORT try2 raw 1.9s -> 1.7s
+== Orwen #6/6 try3
+SHORT try3 raw 2.8s -> 2.6s
+GIVE UP Orwen #6/6
+== Ramsey #1/6 try1
+SHORT try1 raw 5.7s -> 5.2s
+== Ramsey #1/6 try2
+SHORT try2 raw 3.9s -> 3.5s
+== Ramsey #1/6 try3
+OK try3 gen 68.8s raw 11.5s -> 11.1s
+== Ramsey #2/6 try1
+SHORT try1 raw 8.4s -> 8.2s
+== Ramsey #2/6 try2
+SHORT try2 raw 9.7s -> 9.4s
+== Ramsey #2/6 try3
+OK try3 gen 68.9s raw 11.5s -> 11.3s
+== Ramsey #3/6 try1
+SHORT try1 raw 4.9s -> 3.9s
+== Ramsey #3/6 try2
+SHORT try2 raw 3.7s -> 3.5s
+== Ramsey #3/6 try3
+SHORT try3 raw 8.9s -> 8.3s
+GIVE UP Ramsey #3/6
+== Ramsey #4/6 try1
+SHORT try1 raw 5.4s -> 5.1s
+== Ramsey #4/6 try2
+SHORT try2 raw 4.9s -> 4.7s
+== Ramsey #4/6 try3
+OK try3 gen 63.5s raw 10.9s -> 10.5s
+== Ramsey #5/6 try1
+SHORT try1 raw 5.1s -> 5.0s
+== Ramsey #5/6 try2
+SHORT try2 raw 5.8s -> 5.5s
+== Ramsey #5/6 try3
+OK try3 gen 63.5s raw 10.9s -> 10.4s
+== Ramsey #6/6 try1
+SHORT try1 raw 4.4s -> 4.1s
+== Ramsey #6/6 try2
+SHORT try2 raw 4.2s -> 3.9s
+== Ramsey #6/6 try3
+OK try3 gen 81.5s raw 14.2s -> 13.6s
+== Shah Mahda #1/6 try1
+SHORT try1 raw 2.8s -> 2.5s
+== Shah Mahda #1/6 try2
+SHORT try2 raw 3.2s -> 2.8s
+== Shah Mahda #1/6 try3
+SHORT try3 raw 7.4s -> 7.0s
+GIVE UP Shah Mahda #1/6
+== Shah Mahda #2/6 try1
+SHORT try1 raw 2.1s -> 1.9s
+== Shah Mahda #2/6 try2
+SHORT try2 raw 2.5s -> 2.1s
+== Shah Mahda #2/6 try3
+SHORT try3 raw 8.5s -> 8.3s
+GIVE UP Shah Mahda #2/6
+== Shah Mahda #3/6 try1
+SHORT try1 raw 4.0s -> 3.8s
+== Shah Mahda #3/6 try2
+SHORT try2 raw 4.4s -> 4.2s
+== Shah Mahda #3/6 try3
+SHORT try3 raw 7.3s -> 7.1s
+GIVE UP Shah Mahda #3/6
+== Shah Mahda #4/6 try1
+SHORT try1 raw 5.6s -> 5.4s
+== Shah Mahda #4/6 try2
+SHORT try2 raw 3.5s -> 3.2s
+== Shah Mahda #4/6 try3
+SHORT try3 raw 8.7s -> 8.5s
+GIVE UP Shah Mahda #4/6
+== Shah Mahda #5/6 try1
+SHORT try1 raw 5.1s -> 4.8s
+== Shah Mahda #5/6 try2
+SHORT try2 raw 4.4s -> 4.2s
+== Shah Mahda #5/6 try3
+SHORT try3 raw 7.2s -> 7.0s
+GIVE UP Shah Mahda #5/6
+== Shah Mahda #6/6 try1
+SHORT try1 raw 3.3s -> 2.7s
+== Shah Mahda #6/6 try2
+SHORT try2 raw 3.7s -> 3.5s
+== Shah Mahda #6/6 try3
+SHORT try3 raw 4.9s -> 4.6s
+GIVE UP Shah Mahda #6/6
+== Sophia #1/6 try1
+SHORT try1 raw 5.3s -> 5.1s
+== Sophia #1/6 try2
+SHORT try2 raw 3.7s -> 3.3s
+== Sophia #1/6 try3
+SHORT try3 raw 10.3s -> 9.7s
+GIVE UP Sophia #1/6
+== Sophia #2/6 try1
+SHORT try1 raw 2.9s -> 2.8s
+== Sophia #2/6 try2
+SHORT try2 raw 2.7s -> 2.5s
+== Sophia #2/6 try3
+SHORT try3 raw 5.7s -> 5.5s
+GIVE UP Sophia #2/6
+== Sophia #3/6 try1
+SHORT try1 raw 3.8s -> 3.6s
+== Sophia #3/6 try2
+SHORT try2 raw 3.0s -> 2.8s
+== Sophia #3/6 try3
+SHORT try3 raw 7.3s -> 7.1s
+GIVE UP Sophia #3/6
+== Sophia #4/6 try1
+SHORT try1 raw 4.9s -> 4.8s
+== Sophia #4/6 try2
+SHORT try2 raw 4.1s -> 3.9s
+== Sophia #4/6 try3
+SHORT try3 raw 8.7s -> 8.5s
+GIVE UP Sophia #4/6
+== Sophia #5/6 try1
+SHORT try1 raw 4.1s -> 3.8s
+== Sophia #5/6 try2
+SHORT try2 raw 3.2s -> 3.0s
+== Sophia #5/6 try3
+SHORT try3 raw 6.3s -> 6.0s
+GIVE UP Sophia #5/6
+== Sophia #6/6 try1
+SHORT try1 raw 3.5s -> 3.2s
+== Sophia #6/6 try2
+SHORT try2 raw 4.1s -> 3.9s
+== Sophia #6/6 try3
+SHORT try3 raw 8.3s -> 8.0s
+GIVE UP Sophia #6/6
+== Tirion #1/6 try1
+SHORT try1 raw 7.0s -> 6.7s
+== Tirion #1/6 try2
+SHORT try2 raw 6.1s -> 5.8s
+== Tirion #1/6 try3
+OK try3 gen 62.6s raw 10.9s -> 10.5s
+== Tirion #2/6 try1
+SHORT try1 raw 3.9s -> 3.7s
+== Tirion #2/6 try2
+SHORT try2 raw 5.0s -> 4.1s
+== Tirion #2/6 try3
+OK try3 gen 60.9s raw 10.7s -> 10.5s
+== Tirion #3/6 try1
+SHORT try1 raw 5.3s -> 5.1s
+== Tirion #3/6 try2
+SHORT try2 raw 5.1s -> 4.9s
+== Tirion #3/6 try3
+OK try3 gen 61.5s raw 10.6s -> 10.3s
+== Tirion #4/6 try1
+SHORT try1 raw 4.6s -> 4.4s
+== Tirion #4/6 try2
+SHORT try2 raw 4.7s -> 4.5s
+== Tirion #4/6 try3
+SHORT try3 raw 9.1s -> 8.9s
+GIVE UP Tirion #4/6
+== Tirion #5/6 try1
+SHORT try1 raw 4.1s -> 3.9s
+== Tirion #5/6 try2
+SHORT try2 raw 6.1s -> 5.7s
+== Tirion #5/6 try3
+OK try3 gen 59.9s raw 10.3s -> 10.1s
+== Tirion #6/6 try1
+SHORT try1 raw 8.7s -> 8.2s
+== Tirion #6/6 try2
+OK try2 gen 61.4s raw 10.5s -> 10.2s
+DONE total: 41
