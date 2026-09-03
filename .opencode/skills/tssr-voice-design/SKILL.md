@@ -14,11 +14,10 @@ description: Генерация голосов-кандидатов для TSSR 
 ```
 tools/
   voice_design.py          # тул генерации (резюмабельный), читает YAML-каст
-  voice_design_stats.py    # сводная статистика -> voice_candidates.yaml
-  voice_design.log         # лог прогонов
-voice_candidates/{Имя}/    # сюда падают NN.mp3 (+ {Имя}.yaml — каст)
+voice_candidates/{Имя}/    # сюда падают кандидаты (+ {Имя}.yaml — каст)
   {Имя}.yaml               # ОПИСАНИЕ голоса: контракт для voice_design.py
-  NN.mp3                   # кандидаты: 01.mp3, 02.mp3, ...
+  generated/NN.mp3         # кандидаты: 01.mp3, 02.mp3, ... (сырьё)
+  gen_selected/            # отобранные вручную (add_candidate делает рефы)
 voice_candidates/
   voice_candidates.yaml    # СВОДНАЯ СТАТИСТИКА каста (summary/cast/generation)
 voice_candidates/cast.md   # обзорный документ «кто озвучивает» (справка)
@@ -32,7 +31,7 @@ voice_candidates/cast.md   # обзорный документ «кто озву
 - `summary`: всего / с голосом / с кандидатами / без ничего
 - `cast`: по каждому персонажу статус (voice_ready/candidates/need_generation)
 - `generation`: результаты прогонов (дата, ok/skip/give_up/fail) — дописывает
-  сам `voice_design.py`; обновить сводку: `python tools/voice_design_stats.py`
+  сам `voice_design.py`; сводка пересобирается: `python tools/voice_sync.py report`
 
 ## Запуск
 
@@ -46,7 +45,7 @@ PY="C:\pinokio\api\Qwen3-TTS-Pinokio.git\app\venv\Scripts\python.exe"
 "$PY" tools/voice_design.py --char Carolyn --n 6      # один персонаж, 6 шт
 "$PY" tools/voice_design.py --n 3                     # весь каст по 3 шт
 "$PY" tools/voice_design.py --char Narrator --n 5 --force  # перегенерить
-python tools/voice_design_stats.py                    # обновить сводку
+python tools/voice_sync.py report                  # обновить сводку + отчёты
 ```
 
 Модель VoiceDesign (~4.3 ГБ) должна лежать в HF-кэше

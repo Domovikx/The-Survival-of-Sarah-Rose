@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Быстрое управление голосами: list, status, select.
 
-A/B-сравнение теперь без отдельного тула: voice_batch.py --ref refs/{Имя}_{v}.wav
-генерит {uid}__{Имя}_{v}.wav прямо в ai_voice/ — слушаешь варианты рядом,
-победителя фиксируешь через `select`.
+A/B-сравнение: voice_batch.py --ref voice_candidates/{Name}/in_progress/{Name}_v.wav
+генерит {uid}__{Name}_v.wav в ai_voice/ — слушаешь варианты рядом,
+победителя фиксируешь через `select` (in_progress -> ref/).
 """
 
 import argparse
@@ -11,29 +11,17 @@ import os
 import shutil
 import subprocess
 import sys
-import yaml
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-READY = os.path.join(ROOT, 'refs')
-CANDS = os.path.join(ROOT, 'voice_candidates')
-CFG = os.path.join(ROOT, 'config', 'voices.yaml')
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-
-def load_cfg():
-    with open(CFG, encoding='utf-8') as f:
-        return yaml.safe_load(f)
-
-
-def save_cfg(c):
-    with open(CFG, 'w', encoding='utf-8', newline='\n') as f:
-        yaml.dump(c, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
+from voicekit import catalog, paths  # noqa: E402
 
 
 def regen_runtime_map():
     """Перегенерирует catalog/who_variant.json (кто -> активный вариант)."""
     try:
-        tool = os.path.join(ROOT, 'tools', 'voice_runtime_map.py')
-        r = subprocess.run([sys.executable, tool], cwd=ROOT,
+        tool = os.path.join(paths.TOOLS_DIR, 'voice_runtime_map.py')
+        r = subprocess.run([sys.executable, tool], cwd=paths.ROOT,
                            capture_output=True, text=True)
         if r.returncode != 0:
             print('  ! мапа НЕ обновлена: {}'.format(r.stderr.strip()[-200:]))
@@ -44,55 +32,58 @@ def regen_runtime_map():
 
 
 def cmd_list(_):
-    cfg = load_cfg()
-    ready = set(os.listdir(READY)) if os.path.isdir(READY) else set()
-    for name, v in cfg.get('voices', {}).items():
-        d = os.path.join(CANDS, name)
-        cands = sorted(f[:-4] for f in os.listdir(d) if f.endswith('.mp3')) if os.path.isdir(d) else []
+    voices = catalog.load_voices()
+    for name, v in voices.items():
         ref_path = v.get('ref', '')
-        ref_file = os.path.basename(ref_path)
-        has_active = ref_file in ready
-        variants = sorted(f[:-4] for f in ready if f.startswith(f"{name}_") and f.endswith('.wav'))
-        print(f"{'[OK]' if has_active else '[--]'} {name}")
-        print(f"  ref: {ref_path}")
+        has_active = os.path.exists(paths.resolve_ref(ref_path))
+        prog = paths.char_subdir(name, 'in_progress')
+        variants = sorted(
+            f[:-4] for f in os.listdir(prog)
+            if f.endswith('.wav')) if os.path.isdir(prog) else []
+        gen_sel = paths.char_subdir(name, 'gen_selected')
+        cands = sorted(
+            f[:-4] for f in os.listdir(gen_sel)
+            if f.endswith('.mp3')) if os.path.isdir(gen_sel) else []
+        print('{} {}'.format('[OK]' if has_active else '[--]', name))
+        print('  ref: {}'.format(ref_path))
         if variants:
-            print(f"  variants: {', '.join(variants)}")
+            print('  in_progress: {}'.format(', '.join(variants)))
         if cands:
-            print(f"  candidates: {', '.join(cands)}")
+            print('  gen_selected: {}'.format(', '.join(cands)))
 
 
 def cmd_select(args):
-    cfg = load_cfg()
-    voices = cfg.get('voices', {})
+    voices = catalog.load_voices()
     if args.name not in voices:
-        print(f"✗ '{args.name}' нет в voices.yaml")
+        print('✗ {!r} нет в voices.yaml'.format(args.name))
         return 1
 
-    variant = f"{args.name}_{args.variant}"
-    src = os.path.join(READY, f"{variant}.wav")
+    variant = '{}_{}'.format(args.name, args.variant)
+    src = os.path.join(paths.char_subdir(args.name, 'in_progress'),
+                       variant + '.wav')
     if not os.path.isfile(src):
-        print(f"✗ refs/{variant}.wav не найден")
+        print('✗ нет {}/in_progress/{}.wav'.format(args.name, variant))
         return 1
 
-    dst = os.path.join(READY, f"{args.name}.wav")
+    dst = paths.ref_active(args.name)
+    os.makedirs(os.path.dirname(dst), exist_ok=True)
     shutil.copy2(src, dst)
-    voices[args.name]['ref'] = f"refs/{args.name}.wav"
-    save_cfg(cfg)
-    print(f"✓ {variant}.wav → {args.name}.wav")
+    voices[args.name]['ref'] = paths.ref_voices(args.name)
+    catalog.save_voices(voices)
+    print('✓ {} → {}'.format(
+        os.path.relpath(src, paths.ROOT),
+        os.path.relpath(dst, paths.ROOT)))
     if regen_runtime_map():
-        print("  ✓ who_variant.json обновлена — в игре зазвучит этот вариант")
+        print('  ✓ who_variant.json обновлена — в игре зазвучит этот вариант')
     return 0
 
 
 def cmd_status(_):
-    cfg = load_cfg()
-    ready = set(os.listdir(READY)) if os.path.isdir(READY) else set()
-    print("Статус озвучки:")
-    for name, v in cfg.get('voices', {}).items():
-        ref_path = v.get('ref', '')
-        ref_file = os.path.basename(ref_path)
-        has = ref_file in ready
-        print(f"  {'[OK]' if has else '[--]'} {name}")
+    voices = catalog.load_voices()
+    print('Статус озвучки:')
+    for name, v in voices.items():
+        has = os.path.exists(paths.resolve_ref(v.get('ref', '')))
+        print('  {} {}'.format('[OK]' if has else '[--]', name))
 
 
 def main():

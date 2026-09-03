@@ -1,5 +1,8 @@
 {
   "window.title": "${dirty}${rootNameShort}",
+  "yaml.schemas": {
+    "voice_candidates/cast_schema.json": ["voice_candidates/*/*.yaml"]
+  },
   "files.associations": {
     "*.rpy": "renpy",
     "*.rpym": "renpy"

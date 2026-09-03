@@ -1,455 +1,681 @@
-updated: 2026-09-02 21:34
+updated: 2026-09-02 22:40
 summary:
-  total: 64
-  voice_ready: 34
-  candidates: 30
-  need_generation: 0
+  total: 75
+  voice_ready: 37
+  in_progress: 38
 cast:
   Alaric:
     gender: M
     age: 25-30
     status: voice_ready
-    candidates: 6
     ref: Alaric.wav
+    generated: 6
+    gen_selected: 0
+    in_progress: 0
+    in_voices: true
   Albert:
     gender: M
     age: 40-60
     status: voice_ready
-    candidates: 1
     ref: Albert.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Alfred:
     gender: M
     age: 45-60
     status: voice_ready
-    candidates: 1
     ref: Alfred.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
+  Arthur:
+    gender: M
+    age: '?'
+    status: in_progress
+    ref: null
+    generated: 0
+    gen_selected: 0
+    in_progress: 0
+    in_voices: false
   Atilla:
     gender: M
     age: 25-30
     status: voice_ready
-    candidates: 6
     ref: Atilla.wav
+    generated: 6
+    gen_selected: 0
+    in_progress: 0
+    in_voices: true
   Ayaka:
     gender: F
     age: 20-28
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Barion:
     gender: M
     age: 55-70
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
+  Basilisk:
+    gender: M
+    age: '?'
+    status: in_progress
+    ref: null
+    generated: 0
+    gen_selected: 0
+    in_progress: 0
+    in_voices: false
+  Bran:
+    gender: '?'
+    age: '?'
+    status: in_progress
+    ref: null
+    generated: 0
+    gen_selected: 0
+    in_progress: 0
+    in_voices: false
   Caleb:
     gender: M
     age: 20-25
     status: voice_ready
-    candidates: 1
     ref: Caleb.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Captain Belmont:
     gender: M
     age: 40-50
     status: voice_ready
-    candidates: 1
     ref: Captain Belmont.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Carolyn:
     gender: F
     age: 40-50
-    status: candidates
-    candidates: 6
-    ref: null
+    status: voice_ready
+    ref: Carolyn.wav
+    generated: 6
+    gen_selected: 0
+    in_progress: 1
+    in_voices: true
   Cassius:
     gender: M
     age: 25-35
     status: voice_ready
-    candidates: 1
     ref: Cassius.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Daemon:
     gender: M
     age: ageless
     status: voice_ready
-    candidates: 1
     ref: Daemon.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Dalia:
     gender: F
     age: 20-30
     status: voice_ready
-    candidates: 1
     ref: Dalia.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
+  Damian:
+    gender: M
+    age: 16-20
+    status: in_progress
+    ref: null
+    generated: 0
+    gen_selected: 0
+    in_progress: 0
+    in_voices: false
   Dio:
     gender: F
     age: 20-30
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Duke Antonio:
     gender: M
     age: 40-60
     status: voice_ready
-    candidates: 6
     ref: Duke Antonio.wav
+    generated: 6
+    gen_selected: 0
+    in_progress: 0
+    in_voices: true
   Elsa:
     gender: F
     age: 14-20
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
+  Enya:
+    gender: '?'
+    age: '?'
+    status: in_progress
+    ref: null
+    generated: 0
+    gen_selected: 0
+    in_progress: 0
+    in_voices: false
   Ephraim:
     gender: M
     age: 20-30
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Eula:
     gender: F
     age: 20-30
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Gabriel:
     gender: M
     age: 25-40
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Garret:
     gender: M
     age: 30-45
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Generic Female Mature:
     gender: F
     age: 35-60
     status: voice_ready
-    candidates: 1
     ref: Generic Female Mature.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Generic Female Young:
     gender: F
     age: 18-30
     status: voice_ready
-    candidates: 1
     ref: Generic Female Young.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Generic Male Mature:
     gender: M
     age: 35-55
     status: voice_ready
-    candidates: 1
     ref: Generic Male Mature.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Generic Male Young:
     gender: M
     age: 20-30
     status: voice_ready
-    candidates: 1
     ref: Generic Male Young.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Gideon:
     gender: M
     age: 30-45
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Gilead:
     gender: M
     age: 40-60
     status: voice_ready
-    candidates: 1
     ref: Gilead.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
+  Gorak:
+    gender: M
+    age: '?'
+    status: in_progress
+    ref: null
+    generated: 0
+    gen_selected: 0
+    in_progress: 1
+    in_voices: false
   Hassar:
     gender: M
     age: 35-45
     status: voice_ready
-    candidates: 1
     ref: Hassar.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Hecate:
     gender: F
     age: 30-45
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Hugh:
     gender: M
     age: 25-40
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Jacob:
     gender: M
     age: 15-20
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Jaeid:
     gender: M
     age: 25-40
     status: voice_ready
-    candidates: 1
     ref: Jaeid.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Jasmine:
     gender: F
     age: 20-28
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Kamal:
     gender: M
     age: 40-55
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Kate:
     gender: F
     age: 18-22
     status: voice_ready
-    candidates: 1
     ref: Kate.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Kim:
     gender: F
     age: 18-20
     status: voice_ready
-    candidates: 1
     ref: Kim.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   King Orwell Rose:
     gender: M
     age: 50-60
     status: voice_ready
-    candidates: 1
     ref: King Orwell Rose.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Kravel:
     gender: M
     age: 35-50
     status: voice_ready
-    candidates: 1
     ref: Kravel.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Krip:
     gender: M
     age: 25-40
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Lily:
     gender: F
     age: 18-25
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Maeiv:
     gender: F
     age: 40-55
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Marion:
     gender: M
     age: 20-30
     status: voice_ready
-    candidates: 1
     ref: Marion.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Marius:
     gender: M
     age: 25-35
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Marshal Edmond:
     gender: M
     age: 40-60
     status: voice_ready
-    candidates: 6
     ref: Marshal Edmond.wav
+    generated: 6
+    gen_selected: 0
+    in_progress: 0
+    in_voices: true
   Mary:
     gender: F
     age: 30-50
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Matthew:
     gender: M
     age: 25-40
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Metis:
     gender: M
     age: 30-60
     status: voice_ready
-    candidates: 6
     ref: Metis.wav
+    generated: 6
+    gen_selected: 0
+    in_progress: 1
+    in_voices: true
   Miriam:
     gender: F
     age: 8-14
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Narrator:
     gender: F
     age: 25-35
     status: voice_ready
-    candidates: 1
     ref: Narrator.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Nathan:
     gender: M
     age: 18-28
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Naydeen:
     gender: F
     age: 25-35
-    status: candidates
-    candidates: 11
+    status: in_progress
     ref: null
+    generated: 10
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Nickolas:
     gender: M
     age: 20-30
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
+  Orc:
+    gender: M
+    age: '?'
+    status: voice_ready
+    ref: Orc.wav
+    generated: 0
+    gen_selected: 0
+    in_progress: 0
+    in_voices: true
   Orwen:
     gender: M
     age: 8-14
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Ramsey:
     gender: M
     age: 40-60
-    status: candidates
-    candidates: 10
+    status: in_progress
     ref: null
+    generated: 9
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
+  Raza:
+    gender: M
+    age: '?'
+    status: in_progress
+    ref: null
+    generated: 0
+    gen_selected: 0
+    in_progress: 1
+    in_voices: false
   Razaphel:
     gender: M
     age: ageless
     status: voice_ready
-    candidates: 1
     ref: Razaphel.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Sakar:
     gender: M
     age: 20-30
     status: voice_ready
-    candidates: 1
     ref: Sakar.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Samayra:
     gender: F
     age: 17-19
     status: voice_ready
-    candidates: 6
     ref: Samayra.wav
+    generated: 6
+    gen_selected: 0
+    in_progress: 0
+    in_voices: true
   Sarah:
     gender: F
     age: 17-19
     status: voice_ready
-    candidates: 1
     ref: Sarah.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Shah Mahda:
     gender: M
     age: 40-60
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
   Sigmund:
     gender: M
     age: 25-35
     status: voice_ready
-    candidates: 6
     ref: Sigmund.wav
+    generated: 6
+    gen_selected: 0
+    in_progress: 0
+    in_voices: true
   Sophia:
     gender: F
     age: 18-25
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
+  Synara:
+    gender: F
+    age: 20-40
+    status: in_progress
+    ref: null
+    generated: 0
+    gen_selected: 0
+    in_progress: 0
+    in_voices: false
   Thomas:
     gender: M
     age: 15-17
     status: voice_ready
-    candidates: 1
     ref: Thomas.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
   Tirion:
     gender: M
     age: 55-75
-    status: candidates
-    candidates: 1
+    status: in_progress
     ref: null
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: false
+  Took:
+    gender: '?'
+    age: '?'
+    status: in_progress
+    ref: null
+    generated: 0
+    gen_selected: 0
+    in_progress: 0
+    in_voices: false
   Vaelen:
     gender: M
     age: 25-35
     status: voice_ready
-    candidates: 6
     ref: Vaelen.wav
+    generated: 6
+    gen_selected: 0
+    in_progress: 0
+    in_voices: true
   Varga:
     gender: M
     age: 20-25
     status: voice_ready
-    candidates: 1
     ref: Varga.wav
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true
+  Woodland Spirit:
+    gender: '?'
+    age: '?'
+    status: voice_ready
+    ref: Woodland Spirit.wav
+    generated: 0
+    gen_selected: 0
+    in_progress: 0
+    in_voices: true
   Xanthippe:
     gender: M
     age: ageless
     status: voice_ready
-    candidates: 1
     ref: Xanthippe.wav
-generation:
-  Metis:
-    n: 6
-    ok: 6
-    skip: 0
-    give_up: 0
-    fail: 0
-    last_run: 2026-09-02 21:16
-  Samayra:
-    n: 6
-    ok: 6
-    skip: 0
-    give_up: 0
-    fail: 0
-    last_run: 2026-09-02 21:16
-  Sigmund:
-    n: 6
-    ok: 6
-    skip: 0
-    give_up: 0
-    fail: 0
-    last_run: 2026-09-02 21:16
-  Vaelen:
-    n: 6
-    ok: 6
-    skip: 0
-    give_up: 0
-    fail: 0
-    last_run: 2026-09-02 21:16
-  Alaric:
-    n: 6
-    ok: 6
-    skip: 0
-    give_up: 0
-    fail: 0
-    last_run: 2026-09-02 21:32
-  Atilla:
-    n: 6
-    ok: 6
-    skip: 0
-    give_up: 0
-    fail: 0
-    last_run: 2026-09-02 21:32
-  Carolyn:
-    n: 6
-    ok: 6
-    skip: 0
-    give_up: 0
-    fail: 0
-    last_run: 2026-09-02 21:32
-  Duke Antonio:
-    n: 6
-    ok: 6
-    skip: 0
-    give_up: 0
-    fail: 0
-    last_run: 2026-09-02 21:32
-  Marshal Edmond:
-    n: 6
-    ok: 6
-    skip: 0
-    give_up: 0
-    fail: 0
-    last_run: 2026-09-02 21:32
+    generated: 0
+    gen_selected: 1
+    in_progress: 1
+    in_voices: true

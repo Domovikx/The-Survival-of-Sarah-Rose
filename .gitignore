@@ -64,3 +64,6 @@ renpy-sdk.zip
 nul
 *todo*
 output
+__pycache__/
+*.pyc
+ai_voice/

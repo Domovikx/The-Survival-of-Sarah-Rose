@@ -830,3 +830,255 @@
 00:49:37 [3/3] b4d15058 HyralArc Orc: Ты сидеть. Ты учиться.
 00:49:58   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\HyralArc\b4d1505854e93f846dab1980c1404e75__Orc.wav (1.4s), eta ~0 мин
 00:49:58 done=3 skipped=0 failed=0 total=3
+22:09:14 фраз к генерации: 8279 (lang=ru, force=False)
+22:09:14   d8499785 | AlfredArc | Sarah | Ты говоришь на общем?
+22:09:14   ffcd254a | AlfredArc | Sarah | Я думала, здесь все говорят... ну, на том, на чём говорят пл
+22:09:14   12ac96f2 | AlfredArc | Sarah | Ты из Розанны?
+22:09:14   52dd8ca7 | AlfredArc | Sarah | Как долго ты здесь?
+22:09:14   a0bbc9c7 | AlfredArc | Sarah | Двадцать лет? И никто за тобой не пришёл?
+22:09:14   c2fb7fb1 | AlfredArc | Sarah | Ага...
+22:09:14   c28a7563 | AlfredArc | Sarah | Нет, король умер. Столица пала перед племенниками.
+22:09:14   20bafac9 | AlfredArc | Sarah | Тебя не печалит, что твоя страна пала?
+22:09:14   6a8f7989 | AlfredArc | Sarah | Ужасно с деньгами?
+22:09:14   f3a09d70 | AlfredArc | Sarah | Поэтому ты злилась вчера?
+22:09:14   ...
+22:55:28 фраз к генерации: 0 (lang=ru, force=False)
+22:55:28 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+22:55:44 model loaded in 15.8s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+22:55:44 done=0 skipped=0 failed=0 total=0
+22:56:18 фраз к генерации: 1 (lang=ru, force=False)
+22:56:18   c8a13dcd | BlackMonolith | Alaric | Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+22:56:18 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+22:56:31 model loaded in 13.5s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+22:56:31 [1/1] c8a13dcd BlackMonolith Alaric: Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:00:15   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\c8a13dcd72bffa215e60c3475801161f__Alaric.wav (5.0s) | trim: burst 80ms after 100ms gap, eta ~0 мин
+23:00:15 done=1 skipped=0 failed=0 total=1
+23:27:54 фраз к генерации: 0 (lang=ru, force=False)
+23:27:54 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:28:07 model loaded in 13.3s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:28:07 done=0 skipped=0 failed=0 total=0
+23:28:15 фраз к генерации: 0 (lang=ru, force=False)
+23:28:15 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:28:28 model loaded in 12.8s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:28:28 done=0 skipped=0 failed=0 total=0
+23:28:40 фраз к генерации: 1 (lang=ru, force=False)
+23:28:40   c8a13dcd | BlackMonolith | Alaric | Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:28:40 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:28:49 model loaded in 9.0s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:28:49 [1/1] c8a13dcd BlackMonolith Alaric: Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:30:20   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\c8a13dcd72bffa215e60c3475801161f__Alaric_2.wav (5.0s) | trim: burst 90ms after 80ms gap, eta ~0 мин
+23:30:20 done=1 skipped=0 failed=0 total=1
+23:30:27 фраз к генерации: 1 (lang=ru, force=False)
+23:30:27   c8a13dcd | BlackMonolith | Alaric | Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:30:27 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:30:37 model loaded in 10.2s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:30:37 [1/1] c8a13dcd BlackMonolith Alaric: Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:31:26   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\c8a13dcd72bffa215e60c3475801161f__Alaric_5.wav (5.0s) | trim: burst 80ms after 100ms gap, eta ~0 мин
+23:31:26 done=1 skipped=0 failed=0 total=1
+23:31:41 фраз к генерации: 1 (lang=ru, force=False)
+23:31:41   c8a13dcd | BlackMonolith | Alaric | Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:31:41 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:31:47 model loaded in 6.3s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:31:47 done=0 skipped=1 failed=0 total=1
+23:31:54 фраз к генерации: 1 (lang=ru, force=False)
+23:31:54   c8a13dcd | BlackMonolith | Alaric | Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:31:54 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:32:04 model loaded in 9.8s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:32:04 [1/1] c8a13dcd BlackMonolith Alaric: Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:33:18   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\c8a13dcd72bffa215e60c3475801161f__Alaric_em.wav (6.0s), eta ~0 мин
+23:33:18 done=1 skipped=0 failed=0 total=1
+23:41:37 фраз к генерации: 1 (lang=ru, force=False)
+23:41:37   c8a13dcd | BlackMonolith | Alaric | Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:41:37 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:41:47 model loaded in 9.6s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:41:47 [1/1] c8a13dcd BlackMonolith Alaric: Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:42:39   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\c8a13dcd72bffa215e60c3475801161f__Alaric_angry.wav (6.6s), eta ~0 мин
+23:42:39 done=1 skipped=0 failed=0 total=1
+23:42:46 фраз к генерации: 1 (lang=ru, force=False)
+23:42:46   c8a13dcd | BlackMonolith | Alaric | Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:42:46 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:42:52 model loaded in 6.2s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:42:52 [1/1] c8a13dcd BlackMonolith Alaric: Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:43:56   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\c8a13dcd72bffa215e60c3475801161f__Alaric_soft.wav (5.9s), eta ~0 мин
+23:43:56 done=1 skipped=0 failed=0 total=1
+23:49:59 фраз к генерации: 1 (lang=ru, force=False)
+23:49:59   c8a13dcd | BlackMonolith | Alaric | Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:49:59 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:50:08 model loaded in 9.2s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:50:08 [1/1] c8a13dcd BlackMonolith Alaric: Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:51:00   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\c8a13dcd72bffa215e60c3475801161f__Alaric_angry_zh.wav (5.7s), eta ~0 мин
+23:51:00 done=1 skipped=0 failed=0 total=1
+23:51:05 фраз к генерации: 1 (lang=ru, force=False)
+23:51:05   c8a13dcd | BlackMonolith | Alaric | Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:51:05 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:51:15 model loaded in 9.5s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:51:15 [1/1] c8a13dcd BlackMonolith Alaric: Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:52:28   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\c8a13dcd72bffa215e60c3475801161f__Alaric_angry2.wav (5.4s), eta ~0 мин
+23:52:28 done=1 skipped=0 failed=0 total=1
+23:52:34 фраз к генерации: 1 (lang=ru, force=False)
+23:52:34   c8a13dcd | BlackMonolith | Alaric | Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:52:34 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:52:44 model loaded in 9.3s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:52:44 [1/1] c8a13dcd BlackMonolith Alaric: Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:53:35   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\c8a13dcd72bffa215e60c3475801161f__Alaric_soft2.wav (5.7s), eta ~0 мин
+23:53:35 done=1 skipped=0 failed=0 total=1
+23:56:15 фраз к генерации: 1 (lang=ru, force=False)
+23:56:15   c8a13dcd | BlackMonolith | Alaric | Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:56:15 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+23:56:25 model loaded in 9.6s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+23:56:25 [1/1] c8a13dcd BlackMonolith Alaric: Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+23:57:24   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\c8a13dcd72bffa215e60c3475801161f__Alaric_angry_ru.wav (7.2s), eta ~0 мин
+23:57:24 done=1 skipped=0 failed=0 total=1
+00:00:30 фраз к генерации: 1 (lang=ru, force=False)
+00:00:30   c8a13dcd | BlackMonolith | Alaric | Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+00:00:30 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.7_rl
+00:00:39 model loaded in 9.1s (flow-temp 1.2, cfg 0.7, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:00:39 [1/1] c8a13dcd BlackMonolith Alaric: Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+00:01:56   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\c8a13dcd72bffa215e60c3475801161f__Alaric_angry_ru_cfg07.wav (7.2s), eta ~0 мин
+00:01:56 done=1 skipped=0 failed=0 total=1
+00:02:05 фраз к генерации: 1 (lang=ru, force=False)
+00:02:05   c8a13dcd | BlackMonolith | Alaric | Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+00:02:05 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.3_c0.9_rl
+00:02:15 model loaded in 9.7s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.3), silent-trim ON)
+00:02:15 [1/1] c8a13dcd BlackMonolith Alaric: Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+00:04:50 фраз к генерации: 1 (lang=ru, force=False)
+00:04:50   c8a13dcd | BlackMonolith | Alaric | Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+00:04:50 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.3_c0.9_rl
+00:04:56 model loaded in 6.0s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.3), silent-trim ON)
+00:04:56 [1/1] c8a13dcd BlackMonolith Alaric: Итак, ты будешь вести себя хорошо или тебе нужно ещё несколь
+00:05:45   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\c8a13dcd72bffa215e60c3475801161f__Alaric_angry_en_tau30.wav (5.0s), eta ~0 мин
+00:05:45 done=1 skipped=0 failed=0 total=1
+00:12:44 фраз к генерации: 0 (lang=ru, force=False)
+00:12:44 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:12:53 model loaded in 9.3s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:12:53 done=0 skipped=0 failed=0 total=0
+00:12:59 фраз к генерации: 0 (lang=ru, force=False)
+00:12:59 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:13:09 model loaded in 9.8s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:13:09 done=0 skipped=0 failed=0 total=0
+00:13:21 фраз к генерации: 1 (lang=ru, force=False)
+00:13:21   d6b11453 | Other | Alaric | А что, если я пырну тебя ножом прямо здесь и сейчас, а? Жирн
+00:13:21 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:13:31 model loaded in 9.4s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:13:31 [1/1] d6b11453 Other Alaric: А что, если я пырну тебя ножом прямо здесь и сейчас, а? Жирн
+00:14:26   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\d6b11453a015dabc90a0eed582dd8df4__Alaric_angry.wav (4.9s), eta ~0 мин
+00:14:26 done=1 skipped=0 failed=0 total=1
+00:14:33 фраз к генерации: 1 (lang=ru, force=False)
+00:14:33   d6b11453 | Other | Alaric | А что, если я пырну тебя ножом прямо здесь и сейчас, а? Жирн
+00:14:33 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:14:42 model loaded in 9.5s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:14:42 [1/1] d6b11453 Other Alaric: А что, если я пырну тебя ножом прямо здесь и сейчас, а? Жирн
+00:15:36   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\d6b11453a015dabc90a0eed582dd8df4__Alaric.wav (5.3s), eta ~0 мин
+00:15:36 done=1 skipped=0 failed=0 total=1
+00:20:46 фраз к генерации: 1 (lang=ru, force=False)
+00:20:46   d6b11453 | Other | Alaric | А что, если я пырну тебя ножом прямо здесь и сейчас, а? Жирн
+00:20:46 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:20:56 model loaded in 9.8s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:20:56 [1/1] d6b11453 Other Alaric: А что, если я пырну тебя ножом прямо здесь и сейчас, а? Жирн
+00:21:48   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\d6b11453a015dabc90a0eed582dd8df4__Alaric_angry_ru.wav (6.1s), eta ~0 мин
+00:21:48 done=1 skipped=0 failed=0 total=1
+00:28:19 фраз к генерации: 1 (lang=ru, force=False)
+00:28:19   058ea419 | Other | Sarah | Аах... да... да... вот... так...
+00:28:19 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:28:29 model loaded in 9.7s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:28:29 [1/1] 058ea419 Other Sarah: Аах... да... да... вот... так...
+00:29:09   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\058ea4191f090337573ccd31f2bca7aa__Sarah_passion_ru.wav (4.0s) | trim: burst 120ms after 90ms gap, eta ~0 мин
+00:29:09 done=1 skipped=0 failed=0 total=1
+00:29:14 фраз к генерации: 1 (lang=ru, force=False)
+00:29:14   058ea419 | Other | Sarah | Аах... да... да... вот... так...
+00:29:14 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:29:24 model loaded in 9.1s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:29:24 [1/1] 058ea419 Other Sarah: Аах... да... да... вот... так...
+00:30:01   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\058ea4191f090337573ccd31f2bca7aa__Sarah_passion_en.wav (4.6s), eta ~0 мин
+00:30:01 done=1 skipped=0 failed=0 total=1
+00:34:05 фраз к генерации: 1 (lang=ru, force=False)
+00:34:05   058ea419 | Other | Sarah | Аах... да... да... вот... так...
+00:34:05 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:34:15 model loaded in 9.8s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:34:15 [1/1] 058ea419 Other Sarah: Аах... да... да... вот... так...
+00:34:52   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\058ea4191f090337573ccd31f2bca7aa__Sarah_passion_state.wav (3.8s), eta ~0 мин
+00:34:52 done=1 skipped=0 failed=0 total=1
+00:42:05 фраз к генерации: 1 (lang=ru, force=False)
+00:42:05   3568907f | Other | Sarah | Трахай меня сильнее!
+00:42:05 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:42:14 model loaded in 9.2s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:42:14 [1/1] 3568907f Other Sarah: Трахай меня сильнее!
+00:42:38   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\3568907ff3d537f7efc864121c0f615c__Sarah_passion2.wav (1.6s), eta ~0 мин
+00:42:38 done=1 skipped=0 failed=0 total=1
+00:45:58 фраз к генерации: 1 (lang=ru, force=False)
+00:45:58   ce10cbc5 | Demo | Sarah | Она хотела возмутиться, но с горлом и ртом, полными спермы, 
+00:45:58 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:46:08 model loaded in 10.1s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:46:08 [1/1] ce10cbc5 Demo Sarah: Она хотела возмутиться, но с горлом и ртом, полными спермы, 
+00:50:01   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Demo\ce10cbc57171c7d47225921d8223e395__Sarah_long_passion.wav (28.9s), eta ~0 мин
+00:50:01 done=1 skipped=0 failed=0 total=1
+00:50:12 фраз к генерации: 1 (lang=ru, force=False)
+00:50:12   ce10cbc5 | Demo | Sarah | Она хотела возмутиться, но с горлом и ртом, полными спермы, 
+00:50:12 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+00:50:22 model loaded in 9.2s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+00:50:22 done=0 skipped=1 failed=0 total=1
+01:01:11 фраз к генерации: 1 (lang=ru, force=False)
+01:01:11   b56afe4e | Demo | Sarah | Она хотела возмутиться, но с горлом и ртом, полными спермы, 
+01:01:11 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+01:01:20 model loaded in 9.1s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+01:01:20 [1/1] b56afe4e Demo Sarah: Она хотела возмутиться, но с горлом и ртом, полными спермы, 
+01:03:43   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Demo\b56afe4edb9d99b58c2566098587fc71__Sarah_languid.wav (21.2s), eta ~0 мин
+01:03:43 done=1 skipped=0 failed=0 total=1
+01:08:34 фраз к генерации: 1 (lang=ru, force=False)
+01:08:34   b56afe4e | Demo | Sarah | Она хотела возмутиться, но с горлом и ртом, полными спермы, 
+01:08:34 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+01:08:44 model loaded in 9.3s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+01:08:44 [1/1] b56afe4e Demo Sarah: Она хотела возмутиться, но с горлом и ртом, полными спермы, 
+01:10:48   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Demo\b56afe4edb9d99b58c2566098587fc71__Sarah_erotic.wav (17.5s), eta ~0 мин
+01:10:48 done=1 skipped=0 failed=0 total=1
+01:20:06 фраз к генерации: 1 (lang=ru, force=False)
+01:20:06   b56afe4e | Demo | Sarah | Она хотела возмутиться, но с горлом и ртом, полными спермы, 
+01:20:06 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+01:20:15 model loaded in 9.0s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+01:20:15 [1/1] b56afe4e Demo Sarah: Она хотела возмутиться, но с горлом и ртом, полными спермы, 
+01:22:34   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Demo\b56afe4edb9d99b58c2566098587fc71__Sarah_burst.wav (18.6s), eta ~0 мин
+01:22:34 done=1 skipped=0 failed=0 total=1
+01:28:29 фраз к генерации: 1 (lang=ru, force=False)
+01:28:29   a655f2c3 | Demo | Sarah | Трахай меня сильнее!
+01:28:29 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+01:28:38 model loaded in 9.2s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+01:28:38 [1/1] a655f2c3 Demo Sarah: Трахай меня сильнее!
+01:29:07   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Demo\a655f2c3153b431dd164245a1d7444a1__Sarah_stress_plain.wav (2.2s), eta ~0 мин
+01:29:07 done=1 skipped=0 failed=0 total=1
+01:29:12 фраз к генерации: 1 (lang=ru, force=False)
+01:29:18 фраз к генерации: 1 (lang=ru, force=False)
+01:29:18   1342f191 | Demo | Sarah | ТрАхай меня сильнее!
+01:29:18 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+01:29:27 model loaded in 8.9s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+01:29:27 [1/1] 1342f191 Demo Sarah: ТрАхай меня сильнее!
+01:29:51   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Demo\1342f1915ae21a29064a46da2d7f9a2c__Sarah_stress_stress_caps.wav (2.0s), eta ~0 мин
+01:29:51 done=1 skipped=0 failed=0 total=1
+01:30:11 фраз к генерации: 1 (lang=ru, force=False)
+01:30:25 фраз к генерации: 1 (lang=ru, force=False)
+01:30:25   644e4f9e | Demo | Sarah | Траха́й меня сильнее!
+01:30:25 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+01:30:34 model loaded in 8.2s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+01:30:34 [1/1] 644e4f9e Demo Sarah: Траха́й меня сильнее!
+01:30:57   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Demo\644e4f9e3d9c1218bd2bdf530955526f__Sarah_stress_uni.wav (2.2s), eta ~0 мин
+01:30:57 done=1 skipped=0 failed=0 total=1
+01:31:08 фраз к генерации: 1 (lang=ru, force=False)
+01:31:08   40de64f5 | Demo | Sarah | Тра'хай меня сильнее!
+01:31:08 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+01:31:17 model loaded in 9.3s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+01:31:17 [1/1] 40de64f5 Demo Sarah: Тра'хай меня сильнее!
+01:31:46   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Demo\40de64f53946d6440ad9727dde7f9c2b__Sarah_stress_apo.wav (2.3s), eta ~0 мин
+01:31:46 done=1 skipped=0 failed=0 total=1
+01:35:51 фраз к генерации: 1 (lang=ru, force=False)
+01:35:51   2e8c24fd | Demo | Sarah | Тра́хай меня сильнее!
+01:35:51 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+01:35:58 model loaded in 6.7s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+01:35:58 [1/1] 2e8c24fd Demo Sarah: Тра́хай меня сильнее!
+01:36:25   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Demo\2e8c24fd03712a0b1719f45cbb72b6bf__Sarah_stress_uni_v2.wav (2.0s) | trim: burst 80ms after 220ms gap, eta ~0 мин
+01:36:25 done=1 skipped=0 failed=0 total=1
+01:40:38 фраз к генерации: 1 (lang=ru, force=False)
+01:40:38   92a24a52 | Demo | Sarah | Тра́хай меня сильнее! Ещё! Ещё! Да-а-а!
+01:40:38 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+01:40:46 model loaded in 8.3s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+01:40:46 [1/1] 92a24a52 Demo Sarah: Тра́хай меня сильнее! Ещё! Ещё! Да-а-а!
+01:41:29   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Demo\92a24a521e7d1a29f52405a3e24f6616__Sarah_orgasm.wav (3.4s), eta ~0 мин
+01:41:29 done=1 skipped=0 failed=0 total=1

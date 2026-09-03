@@ -1,17 +1,19 @@
-"""Интеграционный тест: полный пайплайн add_candidate → select → batch."""
+"""Интеграционные тесты: add_candidate (gen_selected -> in_progress)."""
 
 import os
-import sys
-import subprocess
 import shutil
-import yaml
+import subprocess
+import sys
+
 import pytest
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(ROOT, 'tools'))
+
+from voicekit import paths  # noqa: E402
 
 
 def find_ffmpeg():
-    """Ищем ffmpeg."""
     ff = shutil.which('ffmpeg')
     if ff:
         return ff
@@ -25,119 +27,85 @@ def find_ffmpeg():
 
 
 @pytest.fixture
-def full_project(tmp_path):
-    """Создаём полную структуру проекта для интеграционного теста."""
-    # Создаём все директории
-    dirs = [
-        'config',
-        'catalog',
-        'refs/raw',
-        'refs/ready',
-        'voice_candidates/TestVoice',
-        'tools',
-        'ai_voice/ru/TestArc',
-    ]
-    for d in dirs:
-        (tmp_path / d).mkdir(parents=True, exist_ok=True)
+def full_project(tmp_path, monkeypatch):
+    """Полная структура проекта (новая модель) во временной папке."""
+    for attr, val in (
+        ('ROOT', tmp_path),
+        ('VOICE_CANDIDATES', tmp_path / 'voice_candidates'),
+        ('CATALOG_DIR', tmp_path / 'catalog'),
+        ('CONFIG_DIR', tmp_path / 'config'),
+        ('VOICES_YAML', tmp_path / 'config' / 'voices.yaml'),
+        ('VOICES_JSON', tmp_path / 'catalog' / 'voices.json'),
+        ('AI_VOICE_DIR', tmp_path / 'ai_voice'),
+    ):
+        monkeypatch.setattr(paths, attr, str(val))
 
-    # voices.yaml
-    cfg = {'voices': {}}
-    cfg_path = tmp_path / 'config' / 'voices.yaml'
-    with open(cfg_path, 'w', encoding='utf-8') as f:
-        yaml.dump(cfg, f, allow_unicode=True)
+    (tmp_path / 'config').mkdir()
+    (tmp_path / 'catalog').mkdir()
+    char_dir = tmp_path / 'voice_candidates' / 'TestVoice'
+    gen_sel = char_dir / 'gen_selected'
+    gen_sel.mkdir(parents=True)
+    (char_dir / 'in_progress').mkdir()
 
-    # voices.json
-    catalog = {
-        'entries': [
-            {
-                'uid': 'test_001',
-                'arc': 'TestArc',
-                'who': 'tv',
-                'who_name': 'TestVoice',
-                'category': 'dialogue',
-                'old': 'Hello',
-                'new': 'Привет'
-            }
-        ],
-        'characters': {'tv': 'TestVoice'}
-    }
-    catalog_path = tmp_path / 'catalog' / 'voices.json'
-    with open(catalog_path, 'w', encoding='utf-8') as f:
-        yaml.dump(catalog, f, allow_unicode=True)
-
+    import yaml
+    with open(paths.VOICES_YAML, 'w', encoding='utf-8') as f:
+        yaml.dump({'voices': {}}, f)
+    import json
+    with open(paths.VOICES_JSON, 'w', encoding='utf-8') as f:
+        json.dump({'entries': [], 'characters': {'tv': 'TestVoice'}}, f)
     return tmp_path
 
 
-def test_add_candidate_pipeline(full_project):
-    """Тест: add_candidate создаёт raw + ready реф из MP3."""
-    pytest.skip("Интеграционный тест: требует реальную структуру проекта")
-
-
-def test_select_and_generate(full_project):
-    """Тест: select переключает реф, batch генерирует WAV."""
+def test_add_candidate_from_gen_selected(full_project, monkeypatch):
+    """add_candidate: mp3 из gen_selected -> in_progress/TestVoice.wav."""
     ffmpeg = find_ffmpeg()
     if not ffmpeg:
-        pytest.skip("ffmpeg не найден")
+        pytest.skip('ffmpeg не найден')
 
-    # Подменяем ROOT в voice_batch и voice_manage
-    sys.path.insert(0, os.path.join(ROOT, 'tools'))
-
-    # Создаём два рефа в refs/ready/
-    ready_dir = full_project / 'refs' / 'ready'
-    
-    # Реф v1 (440 Hz)
-    v1_path = ready_dir / 'TestVoice_1.wav'
+    mp3 = os.path.join(paths.char_subdir('TestVoice', 'gen_selected'),
+                       'TestVoice.mp3')
     subprocess.run([
-        ffmpeg, '-y', '-f', 'lavfi', '-i', 'sine=frequency=440:duration=10',
-        '-ac', '1', '-ar', '24000', str(v1_path)
+        ffmpeg, '-y', '-f', 'lavfi', '-i',
+        'sine=frequency=440:duration=12', '-ac', '1', '-ar', '24000',
+        '-b:a', '96k', mp3
     ], capture_output=True, check=True)
 
-    # Реф v2 (880 Hz)
-    v2_path = ready_dir / 'TestVoice_2.wav'
+    import add_candidate
+    monkeypatch.setattr(sys, 'argv', ['add_candidate.py', '--only',
+                                      'TestVoice'])
+    rc = add_candidate.main()
+    assert rc == 0
+
+    ref = os.path.join(paths.char_subdir('TestVoice', 'in_progress'),
+                       'TestVoice.wav')
+    assert os.path.exists(ref)
+    dur = float(subprocess.check_output(
+        ['ffprobe', '-v', 'error', '-show_entries', 'stream=duration',
+         '-of', 'csv=p=0', ref]).decode().strip().splitlines()[0])
+    assert 9.0 <= dur <= 10.5  # нарезка 10с
+    assert os.path.getsize(ref) > 1000
+
+
+def test_add_candidate_resumable(full_project, monkeypatch):
+    """add_candidate повторно НЕ пересоздаёт существующий реф."""
+    ffmpeg = find_ffmpeg()
+    if not ffmpeg:
+        pytest.skip('ffmpeg не найден')
+
+    mp3 = os.path.join(paths.char_subdir('TestVoice', 'gen_selected'),
+                       'TestVoice.mp3')
     subprocess.run([
-        ffmpeg, '-y', '-f', 'lavfi', '-i', 'sine=frequency=880:duration=10',
-        '-ac', '1', '-ar', '24000', str(v2_path)
+        ffmpeg, '-y', '-f', 'lavfi', '-i',
+        'sine=frequency=440:duration=12', '-ac', '1', '-ar', '24000',
+        '-b:a', '96k', mp3
     ], capture_output=True, check=True)
 
-    # Активный реф = v1
-    shutil.copy2(v1_path, ready_dir / 'TestVoice.wav')
-
-    # Обновляем voices.yaml
-    cfg_path = full_project / 'config' / 'voices.yaml'
-    cfg = {
-        'voices': {
-            'TestVoice': {
-                'ref': 'refs/ready/TestVoice.wav',
-                'who': ['tv'],
-                'gender': 'F'
-            }
-        }
-    }
-    with open(cfg_path, 'w', encoding='utf-8') as f:
-        yaml.dump(cfg, f, allow_unicode=True)
-
-    # Эмулируем select: v2 → active
-    import voice_manage
-    old_ready = voice_manage.READY
-    old_cfg = voice_manage.CFG
-    voice_manage.READY = str(ready_dir)
-    voice_manage.CFG = str(cfg_path)
-
-    # Копируем v2 → active
-    shutil.copy2(v2_path, ready_dir / 'TestVoice.wav')
-
-    # Обновляем yaml
-    with open(cfg_path, encoding='utf-8') as f:
-        cfg = yaml.safe_load(f)
-    cfg['voices']['TestVoice']['ref'] = 'refs/ready/TestVoice.wav'
-    with open(cfg_path, 'w', encoding='utf-8') as f:
-        yaml.dump(cfg, f, allow_unicode=True)
-
-    voice_manage.READY = old_ready
-    voice_manage.CFG = old_cfg
-
-    # Проверяем, что active = v2
-    assert (ready_dir / 'TestVoice.wav').exists()
-    with open(cfg_path, encoding='utf-8') as f:
-        cfg = yaml.safe_load(f)
-    assert cfg['voices']['TestVoice']['ref'] == 'refs/ready/TestVoice.wav'
+    import add_candidate
+    monkeypatch.setattr(sys, 'argv', ['add_candidate.py', '--only',
+                                      'TestVoice'])
+    assert add_candidate.main() == 0
+    ref = os.path.join(paths.char_subdir('TestVoice', 'in_progress'),
+                       'TestVoice.wav')
+    mtime = os.path.getmtime(ref)
+    assert add_candidate.main() == 0
+    assert os.path.getmtime(ref) == mtime  # не пересоздан

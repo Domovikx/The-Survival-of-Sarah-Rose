@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 """Превью-генерация: по 3 самых длинных фразы на голос (для ревью).
 
-Для голосов с вариантами (refs/{Name}_1.wav, {Name}_2.wav) генерит ОБА —
+Для голосов с вариантами (in_progress/{Name}_1.wav, ...) генерит ОБА —
 файлы {uid}__{Name}_1.wav и {uid}__{Name}_2.wav лежат рядом, слушай пары.
-Для одиночных — один вариант. Resumable (существующие скипаются).
+Для одиночных (ref/{Name}.wav) — один вариант. Resumable.
 
 После прогона пишет output/voice/preview_review.md — таблица
 «персонаж → вариант → uid → текст» для ревью.
@@ -22,30 +22,25 @@ import subprocess
 import sys
 import time
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-BATCH = os.path.join(ROOT, 'tools', 'voice_batch.py')
-REFS = os.path.join(ROOT, 'refs')
-CFG = os.path.join(ROOT, 'config', 'voices.yaml')
-CAT = os.path.join(ROOT, 'catalog', 'voices.json')
-OUT_MD = os.path.join(ROOT, 'output', 'voice', 'preview_review.md')
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-N_LINES = 3  # сколько фраз на вариант
+from voicekit import catalog, paths  # noqa: E402
 
+BATCH = os.path.join(paths.TOOLS_DIR, 'voice_batch.py')
+OUT_MD = os.path.join(paths.OUTPUT_DIR, 'voice', 'preview_review.md')
 
-def load_yaml():
-    import yaml
-    with open(CFG, encoding='utf-8') as f:
-        return yaml.safe_load(f)
+N_LINES = 3
 
 
 def ref_variants(name):
-    """Возвращает [(вариант, путь_к_рефу)] для голоса."""
-    pats = sorted(glob.glob(os.path.join(REFS, name + '_*.wav')))
+    """[(вариант, путь_к_рефу)]: in_progress/*.wav + активный ref/."""
     out = []
+    prog = paths.char_subdir(name, 'in_progress')
+    pats = sorted(glob.glob(os.path.join(prog, name + '_*.wav')))
     for p in pats:
         label = os.path.splitext(os.path.basename(p))[0]
         out.append((label, p))
-    single = os.path.join(REFS, name + '.wav')
+    single = paths.ref_active(name)
     if os.path.isfile(single) and not out:
         out.append((name, single))
     return out
@@ -53,8 +48,7 @@ def ref_variants(name):
 
 def longest_uids(who_ids, n=N_LINES, is_narrator=False):
     """n самых длинных реплик: диалог (по who) или наррация для Narrator."""
-    with open(CAT, encoding='utf-8') as f:
-        entries = json.load(f)['entries']
+    entries = catalog.load_catalog()['entries']
     if is_narrator:
         cand = [e for e in entries if e['category'] == 'narration']
     else:
@@ -78,7 +72,7 @@ def run_batch(name, uids, ref_path):
                               '--ref', ref_path]
     print('\n=== {} | {} ({}) ==='.format(
         name, os.path.basename(ref_path), time.strftime('%H:%M:%S')))
-    r = subprocess.run(cmd, cwd=ROOT)
+    r = subprocess.run(cmd, cwd=paths.ROOT)
     return r.returncode
 
 
@@ -94,15 +88,14 @@ def main():
     except Exception:
         pass
 
-    cfg = load_yaml()
-    voices = cfg.get('voices', {})
+    voices = catalog.load_voices()
     chars = args.chars if args.chars else list(voices.keys())
     missing = [c for c in chars if c not in voices]
     if missing:
         print('НЕТ в voices.yaml:', ', '.join(missing))
         return 1
 
-    plan = []  # (name, variant, ref, [(uid, arc, текст)])
+    plan = []
     for name in chars:
         vcfg = voices[name]
         who_ids = set(vcfg.get('who', []))
@@ -115,7 +108,7 @@ def main():
             continue
         refs = ref_variants(name)
         if not refs:
-            print('!! {}: нет рефов в refs/'.format(name))
+            print('!! {}: нет рефов (in_progress/ или ref/)'.format(name))
             continue
         for variant, ref_path in refs:
             plan.append((name, variant, ref_path, phrases))
@@ -133,7 +126,7 @@ def main():
     for i, (name, variant, ref_path, phrases) in enumerate(plan, 1):
         uids = [p['uid'] for p in phrases]
         exist = all(
-            os.path.isfile(os.path.join(ROOT, 'ai_voice', 'ru', p['arc'],
+            os.path.isfile(os.path.join(paths.AI_VOICE_DIR, 'ru', p['arc'],
                                         p['uid'] + '__' + variant + '.wav'))
             for p in phrases)
         if exist:

@@ -1,183 +1,183 @@
 voices:
   Sarah:
-    ref: refs/Sarah.wav
+    ref: voice_candidates/Sarah/ref/Sarah.wav
     who:
     - s
     gender: F
   King Orwell Rose:
-    ref: refs/King Orwell Rose.wav
+    ref: voice_candidates/King Orwell Rose/ref/King Orwell Rose.wav
     who:
     - ko
     gender: M
   Varga:
-    ref: refs/Varga.wav
+    ref: voice_candidates/Varga/ref/Varga.wav
     who:
     - v
     - bsk
     gender: M
   Kate:
-    ref: refs/Kate.wav
+    ref: voice_candidates/Kate/ref/Kate.wav
     who:
     - k
     gender: F
   Marion:
-    ref: refs/Marion.wav
+    ref: voice_candidates/Marion/ref/Marion.wav
     who:
     - m
     gender: M
   Narrator:
-    ref: refs/Narrator.wav
+    ref: voice_candidates/Narrator/ref/Narrator.wav
     who:
     - narrator
     gender: F
   Caleb:
-    ref: refs/Caleb.wav
+    ref: voice_candidates/Caleb/ref/Caleb.wav
     who:
     - ca
     gender: M
   Captain Belmont:
-    ref: refs/Captain Belmont.wav
+    ref: voice_candidates/Captain Belmont/ref/Captain Belmont.wav
     who:
     - cb
     gender: M
   Dalia:
-    ref: refs/Dalia.wav
+    ref: voice_candidates/Dalia/ref/Dalia.wav
     who:
     - dalia
     gender: F
   Hassar:
-    ref: refs/Hassar.wav
+    ref: voice_candidates/Hassar/ref/Hassar.wav
     who:
     - h
     gender: M
   Razaphel:
-    ref: refs/Razaphel.wav
+    ref: voice_candidates/Razaphel/ref/Razaphel.wav
     who:
     - r
     gender: M
   Thomas:
-    ref: refs/Thomas.wav
+    ref: voice_candidates/Thomas/ref/Thomas.wav
     who:
     - t
     gender: M
   Xanthippe:
-    ref: refs/Xanthippe.wav
+    ref: voice_candidates/Xanthippe/ref/Xanthippe.wav
     who:
     - x
     gender: F
   Generic Female Mature:
-    ref: refs/Generic Female Mature.wav
+    ref: voice_candidates/Generic Female Mature/ref/Generic Female Mature.wav
     who: []
     gender: F
   Generic Female Young:
-    ref: refs/Generic Female Young.wav
+    ref: voice_candidates/Generic Female Young/ref/Generic Female Young.wav
     who: []
     gender: F
   Generic Male Mature:
-    ref: refs/Generic Male Mature.wav
+    ref: voice_candidates/Generic Male Mature/ref/Generic Male Mature.wav
     who: []
     gender: M
   Generic Male Young:
-    ref: refs/Generic Male Young.wav
+    ref: voice_candidates/Generic Male Young/ref/Generic Male Young.wav
     who: []
     gender: M
   Sigmund:
-    ref: refs/Sigmund.wav
+    ref: voice_candidates/Sigmund/ref/Sigmund.wav
     who:
     - sig
     gender: M
   Alaric:
-    ref: refs/Alaric.wav
+    ref: voice_candidates/Alaric/ref/Alaric.wav
     who:
     - al
     gender: M
   Albert:
-    ref: refs/Albert.wav
+    ref: voice_candidates/Albert/ref/Albert.wav
     who:
     - alb
     gender: M
   Alfred:
-    ref: refs/Alfred.wav
+    ref: voice_candidates/Alfred/ref/Alfred.wav
     who:
     - alf
     gender: M
   Atilla:
-    ref: refs/Atilla.wav
+    ref: voice_candidates/Atilla/ref/Atilla.wav
     who:
     - a
     gender: M
   Carolyn:
-    ref: refs/Carolyn_1.wav
+    ref: voice_candidates/Carolyn/ref/Carolyn.wav
     who:
     - c
     gender: F
   Cassius:
-    ref: refs/Cassius.wav
+    ref: voice_candidates/Cassius/ref/Cassius.wav
     who:
     - cas
     gender: M
   Daemon:
-    ref: refs/Daemon.wav
+    ref: voice_candidates/Daemon/ref/Daemon.wav
     who:
     - dae
     gender: M
   Duke Antonio:
-    ref: refs/Duke Antonio_1.wav
+    ref: voice_candidates/Duke Antonio/ref/Duke Antonio.wav
     who:
     - ant
     gender: M
   Gilead:
-    ref: refs/Gilead.wav
+    ref: voice_candidates/Gilead/ref/Gilead.wav
     who:
     - gil
     gender: M
   Jaeid:
-    ref: refs/Jaeid.wav
+    ref: voice_candidates/Jaeid/ref/Jaeid.wav
     who:
     - j
     gender: M
   Kim:
-    ref: refs/Kim.wav
+    ref: voice_candidates/Kim/ref/Kim.wav
     who:
     - kim
     gender: F
   Kravel:
-    ref: refs/Kravel.wav
+    ref: voice_candidates/Kravel/ref/Kravel.wav
     who:
     - kr
     gender: M
   Marshal Edmond:
-    ref: refs/Marshal Edmond_1.wav
+    ref: voice_candidates/Marshal Edmond/ref/Marshal Edmond.wav
     who:
     - edm
     gender: M
   Metis:
-    ref: refs/Metis.wav
+    ref: voice_candidates/Metis/ref/Metis.wav
     who:
     - met
     gender: M
   Sakar:
-    ref: refs/Sakar.wav
+    ref: voice_candidates/Sakar/ref/Sakar.wav
     who:
     - sak
     gender: M
   Samayra:
-    ref: refs/Carolyn_1.wav
+    ref: voice_candidates/Carolyn/ref/Carolyn.wav
     who:
     - sa
     gender: F
   Vaelen:
-    ref: refs/Vaelen.wav
+    ref: voice_candidates/Vaelen/ref/Vaelen.wav
     who:
     - vae
     gender: M
   Orc:
-    ref: refs/Orc.wav
+    ref: voice_candidates/Orc/ref/Orc.wav
     who:
     - orc
     gender: M
   Woodland Spirit:
-    ref: refs/Woodland Spirit.wav
+    ref: voice_candidates/Woodland Spirit/ref/Woodland Spirit.wav
     who:
     - wsp
     gender: M

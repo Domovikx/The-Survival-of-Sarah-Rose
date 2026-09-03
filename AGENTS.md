@@ -44,62 +44,88 @@ game/
 catalog/
   voices.json                  # 68 254 записей: uid, old, new, who, arc, scene, category
   label_arc.json               # label -> Arc (рантайм-мапа для voice_config.rpy)
-  missing_voices.md            # ЗАГЛУШКИ: кто без голоса (генерится voice_status.py)
+  missing_voices.md            # ЗАГЛУШКИ: кто без голоса (генерится voice_sync.py report)
+  voice_sync_report.md         # расхождения слоёв: NEW/READY/BROKEN/FOREIGN/ORPHAN
+  who_variant.json             # кто -> активный вариант (генерится voice_runtime_map.py)
 config/
   voices.yaml                  # персонаж -> реф голоса; нет записи = не озвучиваем
+voice_candidates/
+  {Имя}/
+    {Имя}.yaml                 # КОНТРАКТ (+ отчёт-поля скриптов, extra allowed)
+    generated/                 # СЫРЬЁ: voice_design.py пишет сюда 01.mp3..NN.mp3
+    gen_selected/              # ОТБОР: вручную лучшие клипы ({Имя}.mp3, {Имя}_1.mp3)
+    in_progress/               # РАБОЧИЕ рефы: add_candidate (нарезка 10с + чистка),
+                               #   A/B-варианты, эксперименты с фильтрами
+    ref/                       # ФИНАЛ: {Имя}.wav — сюда ссылается voices.yaml
 tools/
+  voicekit/                    # ЯДРО: paths (раскладка), catalog, contract (pydantic),
+                               #   fs (безопасные операции), tts_env (пути моделей)
+  voice_sync.py                # АКТУАЛИЗАТОР: status/update/migrate/report
+                               #   (создаёт структуру новым, чинит пути, отчёты)
   voice_catalog.py             # tl/ru + script.rpy -> voices.json + label_arc.json
-  voice_status.py              # отчёт готово/нет голоса -> missing_voices.md
-  add_candidate.py             # MP3-кандидат -> реф (нарезка + чистка одномерным прогоном;
-                               # qwen_*.mp3 ИГНОРИРУЮТСЯ — это не рефы)
+  voice_design.py              # VoiceDesign-генерация кандидатов -> generated/
+  add_candidate.py             # gen_selected/*.mp3 -> in_progress/{Имя}[_{v}].wav
+                               #   (нарезка + чистка одномерным прогоном)
   clean_refs.py                # лечение рефов: highpass+денойз+deesser+EQ+LOUDNORM+фейды
   voice_batch.py               # батч-генерация: каталог -> ai_voice/{lang}/{arc}/{uid}__{variant}.wav
-                               # (модель 1 раз, resumable, автотрим; фильтры --arc/--char/--uid/--ref)
+                               #   (реф ТОЛЬКО из voices.yaml; --ref перезаписывает;
+                               #    --emotion — стилевая инструкция в промпт, суффикс _em;
+                               #    ДО генерации пишет манифест {wav}.txt: uid/arc/ref/emotion/
+                               #    тексты/конфиг — описание того, чем сгенерировано)
   trim_tail_burst.py           # паттерн-трим хвостовых артефактов (импортится батчем)
-  voice_manage.py              # управление голосами: list/status/select
-                               # (select сам перегенерирует who_variant)
+  voice_manage.py              # list/status/select (select: in_progress -> ref/ +
+                               #   voices.yaml + who_variant.json)
   voice_runtime_map.py         # voices.yaml + каталог -> catalog/who_variant.json
   levelnorm.py                 # выравнивание реплик: -16 LUFS / TP -1.5
-                               # (вызывается voice_batch'ем после сохранения;
-                               #  CLI: --dir ai_voice/ru — для старых файлов)
   voice_preview.py             # 3 самых длинных фразы × каждый реф -> ревью-таблица
-refs/                          # ГОТОВЫЕ рефы (нарезка 10с + чистка + loudnorm), ПЛОСКАЯ:
-  {Голос}.wav                  # активный реф: сюда ссылается config/voices.yaml
-  {Голос}_{variant}.wav        # варианты для A/B-тестирования
 ```
 
-ВАЖНО: рабочие рефы ВСЕГДА из refs/ (вылеченные). Правила лечения
-(решение 2026-09-01, актуализировано):
+ВАЖНО: рабочие рефы ВСЕГДА из `voice_candidates/{Имя}/ref/` (вылеченные).
+Правила лечения (решение 2026-09-01, актуализировано):
   1. «Подшипливание» источника клонируется CV3 — рефы чистятся ДО генерации:
      `highpass=f=60, afftdn=nr=15, deesser=i=0.5, highshelf=f=8000:g=-6`
   2. Громкость всех рефов выровнена EBU R128 loudnorm: -16 LUFS, TP -1.5
-     (иначе голоса «гуляли» по уровню и генерация наследовала громкость)
   3. Фейды 30мс по краям — защита от кликов
 Всё — в tools/clean_refs.py, применяется автоматически add_candidate.py
-(одним прогоном: mp3 -> нарезка 10с -> чистка -> refs/{Голос}.wav).
+(одним прогоном: mp3 -> нарезка 10с -> чистка -> in_progress/{Имя}.wav).
 
-Категории (voices.json): dialogue 22 216, narration 45 051, menu 491, ui 496.
+Категории (voices.json): dialogue 22 326, narration 44 941, menu 491, ui 496.
 Озвучиваются только dialogue + narration, и только персонажи из config/voices.yaml
 (остальные — пропуск, видны в missing_voices.md).
+
+## Актуализация (voice_sync)
+
+```bash
+python tools/voice_sync.py status    # сводка слоёв + расхождения (console)
+python tools/voice_sync.py update --apply   # структура+заглушки новым, сводка
+python tools/voice_sync.py report   # missing_voices.md + voice_sync_report.md
+python tools/voice_sync.py migrate  # переезд refs/ -> папки (одноразовый, сделан)
+```
+
+Безопасность: ничего не удаляет и не перетирает; `--apply` = реальные изменения,
+по умолчанию — только план.
 
 ## Пересборка каталога
 
 ```bash
 python tools/voice_catalog.py    # ТОЛЬКО при апдейте игры (тексты поменялись)
-python tools/voice_status.py     # обновить отчёт-заглушки
+python tools/voice_sync.py report  # обновить отчёты (заглушки + расхождения)
 ```
 
 ## Добавление нового голоса (инкрементально, ничего не пересобирается)
 
 ```bash
-# 1. Положить кандидата: voice_candidates/{Имя}/*.mp3
-#    (qwen_*.mp3 игнорируются — это VoiceDesign-кандидаты, не рефы)
-# 2. Собрать реф (существующие скипаются):
-C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/add_candidate.py
-# 3. Вписать напечатанный фрагмент в config/voices.yaml
-# 4. Обновить отчёт:
-python tools/voice_status.py
-# 5. Сгенерировать реплики только этого персонажа (только отсутствующие файлы):
+# 1. Положить отобранный клип: voice_candidates/{Имя}/gen_selected/{Имя}.mp3
+# 2. Собрать рабочий реф (существующие скипаются):
+C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/add_candidate.py --only "{Имя}"
+#    -> in_progress/{Имя}.wav, в консоли фрагмент для config/voices.yaml
+# 3. Вписать фрагмент в config/voices.yaml (ref: voice_candidates/{Имя}/ref/{Имя}.wav)
+# 4. Зафиксировать финальный реф (копия in_progress -> ref/):
+python tools/voice_manage.py select {Имя} ""    # вариант без номера = базовый
+#    (или сам скопируй in_progress/{Имя}.wav -> ref/{Имя}.wav)
+# 5. Обновить отчёты:
+python tools/voice_sync.py report
+# 6. Сгенерировать реплики только этого персонажа (только отсутствующие файлы):
 C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py \
   --char "{Имя}" --limit 10
 ```
@@ -112,21 +138,20 @@ C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py \
 ```bash
 PY="C:\pinokio\api\Qwen3-TTS-Pinokio.git\app\venv\Scripts\python.exe"
 "$PY" tools/voice_design.py --list                # каст
-"$PY" tools/voice_design.py --char Carolyn --n 6  # 6 кандидатов -> voice_candidates/Carolyn/01..06.mp3
-python tools/voice_design_stats.py                # сводка -> voice_candidates.yaml
+"$PY" tools/voice_design.py --char Carolyn --n 6  # 6 кандидатов -> generated/01..06.mp3
+python tools/voice_sync.py report                 # сводка -> voice_candidates.yaml
 ```
 
 Правила: каст в `voice_candidates/{Имя}/{Имя}.yaml` (instruct_en — англ. описание
 тембра, texts — рус. фразы с ЯВНЫМ признаком пола «я пошёл/пошла»; файл =
-контракт, скрипт читает yaml напрямую); клип должен быть ≥10с — тул сам
-добирает длину (slow-инструкция → +вторая фраза); резюмабелен (существующие
-файлы пропускает). Итоги прогона и сводка каста — в
-`voice_candidates/voice_candidates.yaml` (summary/cast/generation; --char
-принимает ОДНО имя — повторяй флаг; параллельно можно гнать 2 процесса по
-OMP_NUM_THREADS=8, ~8 ГБ RAM на процесс).
+контракт); клип должен быть ≥10с — тул сам добирает длину (slow-инструкция →
++вторая фраза); резюмабелен (существующие файлы пропускает). Итоги прогона и
+сводка каста — в `voice_candidates/voice_candidates.yaml`
+(summary/cast/generation; --char принимает ОДНО имя — повторяй флаг; параллельно
+можно гнать 2 процесса по OMP_NUM_THREADS=8, ~8 ГБ RAM на процесс).
 Подробнее: .opencode/skills/tssr-voice-design/SKILL.md.
-Папки-заглушки `voice_candidates/{Имя}/{Имя}.yaml` — типаж «что искать» для
-персонажей без голоса.
+Заглушки без texts (созданы voice_sync update) видны в --list с WARN — заполни
+контракт перед генерацией.
 
 ## Тримминг хвостов (паттерн)
 
@@ -139,19 +164,21 @@ OMP_NUM_THREADS=8, ~8 ГБ RAM на процесс).
 ### Цикл: сравнение → выбор → генерация
 
 ```
-1. Кандидаты: voice_candidates/{Name}/*.mp3
-2. Рефы: add_candidate.py → refs/{Name}_{variant}.wav
-3. Генерация ПО КАЖДОМУ варианту (файлы лежат рядом, постфикс = реф):
-   voice_batch.py --char Sarah --ref refs/Sarah_1.wav --limit 5
-   voice_batch.py --char Sarah --ref refs/Sarah_3.wav --limit 5
+1. Кандидаты: voice_design.py → voice_candidates/{Name}/generated/*.mp3
+2. Отбор: слушаешь generated/, копируешь лучшие вручную в gen_selected/
+   ({Name}.mp3 — один топ-файл; A/B — {Name}_1.mp3, {Name}_2.mp3)
+3. Рабочие рефы: add_candidate.py → in_progress/{Name}_{variant}.wav
+4. Генерация ПО КАЖДОМУ варианту (файлы лежат рядом, постфикс = реф):
+   voice_batch.py --char Sarah --ref voice_candidates/Sarah/in_progress/Sarah_1.wav --limit 5
+   voice_batch.py --char Sarah --ref voice_candidates/Sarah/in_progress/Sarah_3.wav --limit 5
    → ai_voice/ru/{arc}/{uid}__Sarah_1.wav и {uid}__Sarah_3.wav
-4. Выбор: слушаешь пары в ai_voice/ru/{arc}/ (одинаковые uid рядом)
-5. Фиксация: voice_manage.py select {Name} {variant}
-   → копирует refs/{Name}_{variant}.wav → refs/{Name}.wav
+5. Выбор: слушаешь пары в ai_voice/ru/{arc}/ (одинаковые uid рядом)
+6. Фиксация: voice_manage.py select {Name} {variant}
+   → копирует in_progress/{Name}_{variant}.wav → ref/{Name}.wav
    → обновляет config/voices.yaml
    → перегенерирует catalog/who_variant.json
-6. Генерация: voice_batch.py --char {Name} — использует активный реф
-   (файлы проигравшего варианта при желании удаляются вручную)
+7. Генерация: voice_batch.py --char {Name} — использует активный реф
+   (проигравшие варианты сохраняются в in_progress/ для истории)
 ```
 
 ### Переключение варианта в рантайме (yaml рулит звучанием)
@@ -174,14 +201,14 @@ C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/add_candidate.py --only {Name
 
 # A/B-сравнение: генерация каждым вариантом
 C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py \
-  --char Sarah --ref refs/Sarah_1.wav --limit 5
+  --char Sarah --ref voice_candidates/Sarah/in_progress/Sarah_1.wav --limit 5
 C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py \
-  --char Sarah --ref refs/Sarah_3.wav --limit 5
+  --char Sarah --ref voice_candidates/Sarah/in_progress/Sarah_3.wav --limit 5
 
 # Управление голосами
 python tools/voice_manage.py list      # все голоса, активный реф, варианты
 python tools/voice_manage.py status    # кто озвучен
-python tools/voice_manage.py select Sarah 3  # выбрать вариант → refs/Sarah.wav
+python tools/voice_manage.py select Sarah 3  # выбрать вариант → ref/Sarah.wav
 
 # Генерация (только отсутствующие файлы)
 C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py \
@@ -195,18 +222,55 @@ C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py \
 ### Структура рефов
 
 ```
-refs/
-  {Name}.wav           # АКТИВНЫЙ реф (вылеченный, используется voice_batch)
-  {Name}_{variant}.wav # варианты для сравнения (Sarah_1, Sarah_3, ...)
+voice_candidates/{Name}/
+  in_progress/{Name}_{variant}.wav  # рабочие варианты для A/B (сохраняются)
+  ref/{Name}.wav                    # АКТИВНЫЙ реф (voices.yaml ссылается сюда)
 ```
 
-Альтернативный реф без правки yaml: `voice_batch.py --ref refs/{Name}_{variant}.wav`
+Альтернативный реф без правки yaml: `voice_batch.py --ref`
+`voice_candidates/{Name}/in_progress/{Name}_{variant}.wav`
 (постфикс файла генерации = имя рефа: `{uid}__{variant}.wav`).
+
+### Эмоции в генерации (рецепт, проверено 2026-09-02)
+
+`voice_batch.py --emotion "..." --emotion-tag <тег>` — instruct2-режим
+(эмоция + клонированный голос). ПРАВИЛА:
+
+1. **Писать ТОЛЬКО на английском** — русские и китайские инструкции дают
+   акцент (проверено).
+2. **Формат — описание состояния, а не приказ**: «In a burst of passion,
+   crying out with joy and ecstasy» работает идеально; «говори злобно»
+   / «Speak angrily» — хуже.
+3. **Эмоция работает, когда текст ей соответствует**: агрессивный текст
+   + агрессивная эмоция = результат; нейтральный текст + эмоция = вяло
+   (модель берёт тон из текста, инструкция вторична).
+4. Пресеты: `--emotion angry|sad|happy|fast|slow|loud|soft|whisper` —
+   англ. описания состояний (китайские шаблоны убраны).
+5. Параметры LLM-семплирования (влияют на выразительность):
+   `--top-p 0.5 --top-k 10 --tau-r 0.15 --cfg-rate 0.9 --flow-temp 1.2`
+   (дефолты; эксперименты с ними результатов не дали — пока не трогаем).
+6. Манифест {wav}.txt фиксирует ref/emotion/конфиг — всегда рядом с wav.
+7. Эмоция = состояние ДИКТОРА (кто произносит), не содержание текста:
+   диалог участника — «In a burst of passion, crying out with joy and ecstasy»;
+   наррация-наблюдение — «Erotically and sensually»; кульминация —
+   «Crying out with joy, gasping through the spasms of orgasm».
+   В текст добавляй эмоциональную пунктуацию («Ещё! Ещё! Да-а-а!»).
+
+```bash
+... voice_batch.py --char Sarah --emotion "In a burst of passion, crying out with joy and ecstasy" --emotion-tag passion --limit 10
+```
+
+## Ударения (проверено 2026-09-03)
+
+Unicode-ударение **U+0301** после ударной гласной РАБОТАЕТ:
+«Тра́хай» = `Тра\u0301хай`. Заглавные буквы и апостроф ударения НЕ дают.
+Ставить только в проблемных словах (омографы/редкие), не в каждом.
+`--text "..."` — произвольный текст для демо (uid = md5(text), arc = --arc or Demo).
 
 ### Тесты
 
 ```bash
-python -m pytest tests/ -v  # 16 тестов: voice_manage, voice_batch, clean_refs
+python -m pytest tests/ -v  # 37 тестов: voicekit, voice_sync, manage, batch, pipeline
 ```
 
 ## План работ

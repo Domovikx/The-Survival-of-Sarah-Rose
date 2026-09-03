@@ -2,21 +2,15 @@
 """Добавление нового голоса-кандидата в проект (инкрементально).
 
 ЧТО ДЕЛАЕТ (по шагам, существующие файлы НЕ пересоздаются):
-  1. Сканирует voice_candidates/{Голос}/*.mp3  (имя папки = имя голоса)
-  2. Первые 10 секунд → очистка → refs/{Голос}.wav
-     (denoise + EQ + loudnorm, всё сразу; voices.yaml ссылается сюда)
-
-СТРУКТУРА REFS:
-  refs/     ГОТОВЫЕ рефы: нарезка 10с + чистка + loudnorm
-                (voice_batch.py читает отсюда)
+  1. Сканирует voice_candidates/{Голос}/gen_selected/*.mp3
+     (сюда кладёшь отобранные на слух клипы; имя = {Name}.mp3 или {Name}_1.mp3)
+  2. Первые 10 секунд -> чистка -> voice_candidates/{Голос}/in_progress/
+     (рабочая зона: рефы для A/B и экспериментов с фильтрами)
+  3. Финальный реф (после A/B) фиксируется в ref/ через voice_manage select
 
 ЗАПУСК:
   python tools/add_candidate.py
   python tools/add_candidate.py --only "King Orwell Rose"
-
-ПРИМЕР РАБОТЫ:
-  Положил voice_candidates/Hassar/abc.mp3 → запустил тул →
-  refs/Hassar.wav готов, в консоли фрагмент для config/voices.yaml.
 """
 
 import argparse
@@ -25,37 +19,27 @@ import re
 import subprocess
 import sys
 
-# импорт чистильщика из этого же каталога tools/
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from clean_refs import clean_file
 
-# Пути проекта (абсолютные — тул можно запускать из любого каталога)
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CANDIDATES_DIR = os.path.join(ROOT, 'voice_candidates')
-RAW_DIR = os.path.join(ROOT, 'refs')
+from clean_refs import clean_file  # noqa: E402
+from voicekit import catalog, paths  # noqa: E402
 
 TARGET_LEN = 10.0   # сколько секунд рефа оставляем для CosyVoice
 SR_RATE = 24000     # частота дискретизации рефа (такая же у CV3)
 
 
 def find_candidates():
-    """Возвращает {имя_голоса: [пути_к_mp3]} для всех папок-кандидатов.
-
-    Исключаются qwen_*.mp3 (сгенерированные VoiceDesign — НЕ рефы),
-    а также *.md (заглушки-описания).
-    """
+    """{имя_голоса: [пути_к_mp3]} по gen_selected/ всех персонажей."""
     found = {}
-    if not os.path.isdir(CANDIDATES_DIR):
+    if not os.path.isdir(paths.VOICE_CANDIDATES):
         return found
-    for name in sorted(os.listdir(CANDIDATES_DIR)):
-        folder = os.path.join(CANDIDATES_DIR, name)
+    for name in sorted(os.listdir(paths.VOICE_CANDIDATES)):
+        folder = paths.char_subdir(name, 'gen_selected')
         if not os.path.isdir(folder):
             continue
         mp3s = sorted(
             f for f in os.listdir(folder)
             if f.lower().endswith('.mp3')
-            and not re.match(r'^qwen_\d+\.mp3$', f, re.I)
-            and not re.search(r'\sqwen_\d+\.mp3$', f, re.I)
         )
         if mp3s:
             found[name] = [os.path.join(folder, f) for f in mp3s]
@@ -63,16 +47,17 @@ def find_candidates():
 
 
 def cut_and_clean(name, mp3_path, variant=None):
-    """Нарезка 10с + чистка → refs/{name}_{variant}.wav или refs/{name}.wav."""
-    suffix = f"_{variant}" if variant else ""
-    dst = os.path.join(RAW_DIR, name + suffix + '.wav')
+    """Нарезка 10с + чистка -> in_progress/{name}[_{variant}].wav."""
+    suffix = '_{}'.format(variant) if variant else ''
+    dst = os.path.join(paths.char_subdir(name, 'in_progress'),
+                       name + suffix + '.wav')
     if os.path.exists(dst):
         return dst, False
 
-    os.makedirs(RAW_DIR, exist_ok=True)
+    os.makedirs(os.path.dirname(dst), exist_ok=True)
 
-    # Нарезка во временный файл
-    tmp_cut = os.path.join(RAW_DIR, name + '_tmp.wav')
+    tmp_cut = os.path.join(paths.char_subdir(name, 'in_progress'),
+                           name + '_tmp.wav')
     dur = float(subprocess.check_output(
         ['ffprobe', '-v', 'error', '-show_entries', 'stream=duration',
          '-of', 'csv=p=0', mp3_path]).decode().strip().splitlines()[0])
@@ -81,7 +66,6 @@ def cut_and_clean(name, mp3_path, variant=None):
                     '-i', mp3_path, '-ac', '1', '-ar', str(SR_RATE), tmp_cut],
                    check=True, capture_output=True)
 
-    # Чистка: denoise + EQ + loudnorm → refs/{name}.wav
     clean_file(tmp_cut, dst)
     os.remove(tmp_cut)
     return dst, True
@@ -91,7 +75,7 @@ def yaml_snippet(name, who_map):
     """Печатаем фрагмент для config/voices.yaml."""
     print('  --- добавь в config/voices.yaml: ---')
     print('  {}:'.format(name))
-    print('    ref: refs/{}.wav'.format(name))
+    print('    ref: {}'.format(paths.ref_voices(name)))
     print('    gender: ???   # заполни: M / F')
     if name in who_map:
         print('    who: {}'.format(', '.join(sorted(who_map[name]))))
@@ -101,7 +85,7 @@ def yaml_snippet(name, who_map):
 def load_who_map():
     """Из catalog/voices.json достаём {имя: [who]}."""
     import json
-    path = os.path.join(ROOT, 'catalog', 'voices.json')
+    path = paths.VOICES_JSON
     if not os.path.exists(path):
         return {}
     with open(path, encoding='utf-8') as f:
@@ -128,7 +112,7 @@ def main():
         candidates = {args.only: candidates[args.only]}
 
     if not candidates:
-        print('В voice_candidates/ нет ни одной папки с .mp3.')
+        print('В gen_selected/ нет ни одного .mp3.')
         return 0
 
     who_map = load_who_map()
@@ -137,21 +121,22 @@ def main():
     for name, mp3s in sorted(candidates.items()):
         print('\n=== {} ==='.format(name))
         for mp3_path in mp3s:
-            # Извлекаем имя варианта из имени файла: Sarah_1.mp3 → 1
             mp3_name = os.path.splitext(os.path.basename(mp3_path))[0]
-            # Убираем имя голоса из начала: Sarah_1 → 1, Sarah → None
-            if mp3_name.startswith(name + "_"):
-                variant = mp3_name[len(name)+1:]
+            if mp3_name.startswith(name + '_'):
+                variant = mp3_name[len(name) + 1:]
             elif mp3_name == name:
                 variant = None
             else:
                 variant = mp3_name
             ref_path, made = cut_and_clean(name, mp3_path, variant)
-            print('  refs/{:<35s} {}'.format(
-                os.path.basename(ref_path), 'НОВЫЙ' if made else 'уже был'))
+            print('  {:<40s} {}'.format(
+                os.path.relpath(ref_path, paths.ROOT),
+                'НОВЫЙ' if made else 'уже был'))
         yaml_snippet(name, who_map)
 
-    print('\nГотово. Осталось вписать фрагменты в config/voices.yaml.')
+    print('\nГотово. Рабочие рефы в in_progress/. '
+          'Финальный реф: voice_manage select.')
+    return 0
 
 
 if __name__ == '__main__':

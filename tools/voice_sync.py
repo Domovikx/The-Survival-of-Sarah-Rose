@@ -1,0 +1,490 @@
+#!/usr/bin/env python
+"""voice_sync — актуализатор и мигратор voice-структуры TSSR.
+
+Слои (источники правды):
+  catalog/voices.json          кто есть в игре (собирается voice_catalog.py)
+  voice_candidates/{Name}/     кто в работе (контракт + подпапки)
+  config/voices.yaml           кого озвучиваем (единственный рубильник)
+
+КОМАНДЫ:
+  status                       сводка слоёв и расхождений (console)
+  update  [--apply]            создать структуру+заглушки новым персонажам,
+                               пересобрать сводку voice_candidates.yaml
+  migrate [--apply]            одноразовый переезд: refs/*.wav -> папки
+                               персонажей, mp3 -> generated/gen_selected,
+                               обновление ref-путей в voices.yaml
+  report                       пересобрать missing_voices.md
+                               + voice_sync_report.md
+
+ПРАВИЛА: ничего не удалять и не перетирать; без --apply только план;
+каждое действие логируется. Рефы НЕ создаются автоматически — только
+структура и отчёты.
+"""
+
+import argparse
+import datetime
+import json
+import os
+import re
+import sys
+from collections import defaultdict
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+import yaml
+
+from voicekit import catalog, contract, fs, paths
+
+SKIP_CAST_NAMES = {'Generic Female Mature', 'Generic Female Young',
+                   'Generic Male Mature', 'Generic Male Young'}
+
+
+def load_voices_safe():
+    try:
+        return catalog.load_voices()
+    except Exception as e:
+        print('!! voices.yaml: {}'.format(e))
+        return {}
+
+
+def char_files(name, sub):
+    d = paths.char_subdir(name, sub)
+    if not os.path.isdir(d):
+        return []
+    return sorted(os.listdir(d))
+
+
+def count_files(name, sub):
+    return len([f for f in char_files(name, sub)
+                if os.path.isfile(os.path.join(paths.char_subdir(name, sub), f))])
+
+
+def mp3_classify(name, filename):
+    """Куда деть mp3 из корня папки персонажа -> (подпапка, новое_имя)."""
+    stem, ext = os.path.splitext(filename)
+    if ext.lower() != '.mp3':
+        return None
+    if stem == name:
+        return ('gen_selected', name + '.mp3')
+    if stem.endswith(' ' + name):
+        return ('gen_selected', name + '.mp3')
+    if stem.startswith(name + '_'):
+        return ('gen_selected', stem + '.mp3')
+    first = name.split()[0]
+    m = re.match(r'^' + re.escape(first) + r'\s+(\d+)$', stem)
+    if m:
+        return ('generated', m.group(1) + '.mp3')
+    if re.match(r'^\d+$', stem):
+        return ('generated', filename)
+    if stem.lower().startswith('qwen_'):
+        return ('generated', filename)
+    return ('generated', filename)
+
+
+def ref_owner(stem):
+    """Владелец рефа по имени файла: ('Carolyn_1' -> 'Carolyn', '1')."""
+    parts = stem.rsplit('_', 1)
+    if len(parts) == 2 and parts[0]:
+        return parts[0], parts[1]
+    return stem, None
+
+
+def cmd_status(_):
+    data = catalog.load_catalog()
+    chars = sorted(set(data['characters'].values()))
+    voices = load_voices_safe()
+    casts = catalog.cast_names()
+    ref_dirs = {}
+    for c in casts:
+        ref_dirs[c] = [f for f in char_files(c, 'ref') if f.endswith('.wav')]
+
+    print('СЛОИ:')
+    print('  каталог (игра):        {:3d} персонажей'.format(len(chars)))
+    print('  касты (voice_candidates): {:3d}'.format(len(casts)))
+    print('  voices.yaml (озвучка): {:3d}'.format(len(voices)))
+    print('  активные рефы в папках: {:3d}'.format(
+        sum(len(v) for v in ref_dirs.values())))
+
+    missing_casts = [c for c in chars if c not in casts and c not in SKIP_CAST_NAMES]
+    print('\nВ каталоге, но БЕЗ каста ({}): {}'.format(
+        len(missing_casts), ', '.join(sorted(missing_casts))))
+
+    no_file = []
+    for name, v in sorted(voices.items()):
+        ref = v.get('ref') or ''
+        if not os.path.exists(paths.resolve_ref(ref)):
+            no_file.append('{} -> {}'.format(name, ref))
+    if no_file:
+        print('\nBROKEN ref в voices.yaml ({}):'.format(len(no_file)))
+        for x in no_file:
+            print('  ' + x)
+    else:
+        print('\nBROKEN ref: нет')
+
+    ready_no_voice = []
+    for c in casts:
+        if c in voices:
+            continue
+        if count_files(c, 'ref') and os.path.exists(paths.ref_active(c)):
+            ready_no_voice.append(c)
+    if ready_no_voice:
+        print('Есть активный реф, но НЕТ в voices.yaml ({}): {}'.format(
+            len(ready_no_voice), ', '.join(ready_no_voice)))
+    return 0
+
+
+def ensure_structure(name, ops):
+    ops.ensure_dir(paths.char_dir(name))
+    for sub in paths.CHAR_SUBDIRS:
+        ops.ensure_dir(paths.char_subdir(name, sub))
+
+
+def cast_stub(name):
+    return dict(name=name, gender='?', age='?', who='', instruct_en='', texts=[])
+
+
+def cmd_update(args):
+    ops = fs.Ops(apply=args.apply)
+    data = catalog.load_catalog()
+    chars = set(data['characters'].values())
+    chars.add('Narrator')
+    chars.difference_update(SKIP_CAST_NAMES)
+    existing = set(catalog.cast_names())
+
+    new, stub_files = [], []
+    for name in sorted(chars):
+        if name in existing:
+            continue
+        new.append(name)
+        ensure_structure(name, ops)
+        if not os.path.exists(paths.char_yaml(name)):
+            stub_files.append(name)
+            ops.ensure_dir(paths.char_dir(name))
+            if args.apply:
+                catalog.save_cast(name, cast_stub(name))
+            else:
+                print('  stub yaml: {}'.format(name))
+
+    print('новых персонажей: {}'.format(len(new)))
+    if new and not args.apply:
+        print('dry-run: без --apply структура НЕ создаётся.')
+
+    summary = build_summary()
+    ops.ensure_dir(paths.CATALOG_DIR)
+    if args.apply:
+        with open(paths.CAST_SUMMARY_YAML, 'w', encoding='utf-8') as f:
+            yaml.dump(summary, f, allow_unicode=True, sort_keys=False)
+        print('-> {}'.format(paths.CAST_SUMMARY_YAML))
+    else:
+        print('сводка готова к записи ({} персонажей)'.format(len(summary['cast'])))
+    return 0
+
+
+def build_summary():
+    data = catalog.load_catalog()
+    lines, arcs = catalog.characters_by_category()
+    voices = load_voices_safe()
+    cast = {}
+    for name in catalog.cast_names():
+        c = catalog.load_cast(name) or {}
+        ref_file = os.path.exists(paths.ref_active(name))
+        cast[name] = dict(
+            gender=c.get('gender'),
+            age=c.get('age'),
+            status='voice_ready' if ref_file else 'in_progress',
+            ref=os.path.basename(paths.ref_active(name)) if ref_file else None,
+            generated=count_files(name, 'generated'),
+            gen_selected=count_files(name, 'gen_selected'),
+            in_progress=count_files(name, 'in_progress'),
+            in_voices=name in voices,
+        )
+    ready = sum(1 for v in cast.values() if v['status'] == 'voice_ready')
+    return dict(
+        updated=datetime.datetime.now().strftime('%Y-%m-%d %H:%M'),
+        summary=dict(total=len(cast), voice_ready=ready,
+                     in_progress=len(cast) - ready),
+        cast=cast)
+
+
+def migrate_plan():
+    """Считает план миграции. Возвращает (plan, notes, voices_new)."""
+    voices = load_voices_safe()
+    notes = defaultdict(list)
+    refs_dir = os.path.join(paths.ROOT, 'refs')
+    moves = []
+
+    active_variant = {}
+    for name, v in voices.items():
+        ref = v.get('ref') or ''
+        base = os.path.basename(ref)
+        stem = os.path.splitext(base)[0]
+        if stem.startswith(name + '_'):
+            active_variant[name] = stem
+
+    if os.path.isdir(refs_dir):
+        for f in sorted(os.listdir(refs_dir)):
+            if not f.endswith('.wav'):
+                continue
+            stem = os.path.splitext(f)[0]
+            owner, variant = ref_owner(stem)
+            src = os.path.join(refs_dir, f)
+            if variant is None:
+                moves.append(('move', src, paths.ref_active(owner)))
+            elif owner in active_variant and active_variant[owner] == stem:
+                dst_ref = paths.ref_active(owner)
+                dst_prog = os.path.join(paths.char_subdir(owner, 'in_progress'), f)
+                moves.append(('copy', src, dst_ref))
+                moves.append(('move', src, dst_prog))
+                notes['fixed-variant'].append((owner, stem))
+            else:
+                dst = os.path.join(paths.char_subdir(owner, 'in_progress'), f)
+                moves.append(('move', src, dst))
+                if owner not in voices:
+                    notes['orphan'].append(owner)
+
+    mp3_moves = []
+    for name in sorted(os.listdir(paths.VOICE_CANDIDATES)):
+        d = os.path.join(paths.VOICE_CANDIDATES, name)
+        if not os.path.isdir(d):
+            continue
+        for f in sorted(os.listdir(d)):
+            if not f.lower().endswith('.mp3'):
+                continue
+            sub, new_name = mp3_classify(name, f)
+            if sub is None:
+                continue
+            src = os.path.join(d, f)
+            dst = os.path.join(paths.char_subdir(name, sub), new_name)
+            if src != dst:
+                mp3_moves.append((src, dst, sub))
+
+    voices_new = {}
+    fixed_refs = []
+    for name, v in voices.items():
+        v = dict(v)
+        ref = v.get('ref') or ''
+        if not ref.startswith('refs/'):
+            voices_new[name] = v
+            continue
+        base = os.path.basename(ref)
+        stem = os.path.splitext(base)[0]
+        if stem == name:
+            v['ref'] = paths.ref_voices(name)
+        elif stem.startswith(name + '_'):
+            v['ref'] = paths.ref_voices(name)
+            if not os.path.exists(os.path.join(refs_dir, base)):
+                fixed_refs.append((name, stem))
+                notes['fixed-missing'].append((name, stem))
+        else:
+            owner, _ = ref_owner(stem)
+            v['ref'] = paths.ref_voices(owner)
+            notes['foreign'].append((name, owner))
+        voices_new[name] = v
+    return dict(moves=moves, mp3=mp3_moves, voices=voices_new,
+                notes=notes, fixed_refs=fixed_refs,
+                active_variants=active_variant)
+
+
+def cmd_migrate(args):
+    if os.path.exists(os.path.join(paths.ROOT, 'refs')):
+        print('refs/ найден — считаем план переезда.')
+    plan = migrate_plan()
+    ops = fs.Ops(apply=args.apply)
+    print('=== refs/*.wav -> папки персонажей ===')
+    for action, src, dst in plan['moves']:
+        if action == 'copy':
+            ops.copy(src, dst)
+        else:
+            ops.move(src, dst)
+    print('=== mp3 -> generated/gen_selected ===')
+    for src, dst, sub in plan['mp3']:
+        ops.move(src, dst)
+    print('=== фиксация активных вариантов (in_progress -> ref/) ===')
+    for name, v in sorted(plan['voices'].items()):
+        ref = v.get('ref') or ''
+        if not ref.endswith('/ref/{}.wav'.format(name)):
+            continue
+        dst_ref = paths.resolve_ref(ref)
+        if os.path.exists(dst_ref):
+            continue
+        prog = paths.char_subdir(name, 'in_progress')
+        cands = []
+        if os.path.isdir(prog):
+            cands = [f for f in os.listdir(prog)
+                     if f.startswith(name + '_') and f.endswith('.wav')]
+        if len(cands) == 1:
+            ops.copy(os.path.join(prog, cands[0]), dst_ref)
+        elif len(cands) > 1:
+            print('  !! {}: ref пуст, в in_progress {} вариантов — '
+                  'нужен select'.format(name, len(cands)))
+    print('=== voices.yaml: ref-пути ===')
+    for name, v in sorted(plan['voices'].items()):
+        if v.get('ref') != load_voices_safe().get(name, {}).get('ref'):
+            ops._rec('ref-update', name, v.get('ref'))
+    if args.apply:
+        catalog.save_voices(plan['voices'])
+    else:
+        print('  (voices.yaml не тронут без --apply)')
+
+    print('=== заметки ===')
+    for k, items in plan['notes'].items():
+        print('  {}: {}'.format(k, len(items)))
+        for it in items[:10]:
+            print('    ' + str(it))
+    if plan['fixed_refs']:
+        print('починены битые ref:')
+        for name, stem in plan['fixed_refs']:
+            print('  {}: refs/{}.wav (нет файла) -> {}/ref/{}.wav'.format(
+                name, stem, name, name))
+    if not args.apply:
+        print('\nDRY-RUN: ничего не изменено. Запусти с --apply.')
+    return 0
+
+
+def cmd_report(_):
+    write_missing_voices()
+    write_sync_report()
+    return 0
+
+
+def write_missing_voices():
+    data = catalog.load_catalog()
+    voices = load_voices_safe()
+    who_to_voice = catalog.who_to_voice(voices)
+    lines, arcs = catalog.characters_by_category()
+
+    ready, missing = [], []
+    for name in sorted(lines, key=lambda n: -sum(lines[n].values())):
+        total = sum(lines[name].values())
+        if total == 0:
+            continue
+        info = dict(name=name, dialogue=lines[name]['dialogue'],
+                    narration=lines[name]['narration'], total=total,
+                    arcs=len(arcs[name]),
+                    voice=(who_to_voice.get(name, None)
+                           or (name if name in voices else None)))
+        if name in voices or name in who_to_voice:
+            ready.append(info)
+        else:
+            missing.append(info)
+
+    voiced_total = sum(i['total'] for i in ready)
+    missing_total = sum(i['total'] for i in missing)
+    with open(paths.MISSING_VOICES_MD, 'w', encoding='utf-8') as f:
+        f.write('# Голоса, которых не хватает (заглушки)\n\n')
+        f.write('Правило: персонажа нет в `config/voices.yaml` — его реплики '
+                'не озвучиваются.\n')
+        f.write('Файл генерируется: `python tools/voice_sync.py report`\n\n')
+        f.write('## Готово ({}, {} реплик)\n\n'.format(len(ready), voiced_total))
+        f.write('| Голос | Реплик | Диалог | Наррация | Арок |\n')
+        f.write('|---|---|---|---|---|\n')
+        for i in ready:
+            f.write('| {} | {} | {} | {} | {} |\n'.format(
+                i['name'], i['total'], i['dialogue'], i['narration'], i['arcs']))
+        f.write('\n## Найти ({} персонажей, {} реплик)\n\n'.format(
+            len(missing), missing_total))
+        f.write('| # | Персонаж | Реплик | Диалог | Наррация | Арок |\n')
+        f.write('|---|---|---|---|---|---|\n')
+        for n, i in enumerate(missing, 1):
+            f.write('| {} | {} | {} | {} | {} | {} |\n'.format(
+                n, i['name'], i['total'], i['dialogue'], i['narration'],
+                i['arcs']))
+    print('-> {}'.format(paths.MISSING_VOICES_MD))
+
+
+def write_sync_report():
+    data = catalog.load_catalog()
+    chars = sorted(set(data['characters'].values()))
+    voices = load_voices_safe()
+    casts = catalog.cast_names()
+
+    new = [c for c in chars if c not in casts and c not in SKIP_CAST_NAMES]
+    ready = []
+    for c in casts:
+        if c not in voices and os.path.exists(paths.ref_active(c)):
+            ready.append(c)
+    broken, foreign = [], []
+    for name, v in sorted(voices.items()):
+        ref = v.get('ref') or ''
+        if not os.path.exists(paths.resolve_ref(ref)):
+            broken.append((name, ref))
+        else:
+            base = os.path.splitext(os.path.basename(ref))[0]
+            if base != name and not base.startswith(name + '_'):
+                foreign.append((name, base))
+
+    orphan = []
+    for c in casts:
+        if c not in voices:
+            for f in char_files(c, 'in_progress'):
+                if f.endswith('.wav'):
+                    orphan.append((c, f))
+
+    lines = []
+    lines.append('# Отчёт voice_sync ({})\n'.format(
+        __import__('datetime').datetime.now().strftime('%Y-%m-%d %H:%M')))
+    lines.append('Источник: `python tools/voice_sync.py report`\n')
+    lines.append('## NEW — персонажи игры без каста ({}):\n'.format(len(new)))
+    lines.append('| # | Персонаж |\n|---|---|\n')
+    for n, c in enumerate(new, 1):
+        lines.append('| {} | {} |\n'.format(n, c))
+    lines.append('\n## READY — есть активный реф, но не подключён ({}):\n'.format(
+        len(ready)))
+    lines.append('| Персонаж | Фрагмент для voices.yaml |\n|---|---|\n')
+    for c in ready:
+        lines.append('| {} | `ref: {}` |\n'.format(c, paths.ref_voices(c)))
+    lines.append('\n## BROKEN — ref указывает на несуществующий файл ({}):\n'.format(
+        len(broken)))
+    lines.append('| Персонаж | ref |\n|---|---|\n')
+    for name, ref in broken:
+        lines.append('| {} | `{}` |\n'.format(name, ref))
+    lines.append('\n## FOREIGN — ref указывает на чужой голос ({}):\n'.format(
+        len(foreign)))
+    lines.append('| Персонаж | Реф принадлежит |\n|---|---|\n')
+    for name, base in foreign:
+        lines.append('| {} | {} |\n'.format(name, base))
+    lines.append('\n## ORPHAN — рабочие рефы без записи в voices.yaml ({}):\n'.format(
+        len(orphan)))
+    lines.append('| Персонаж | Файл |\n|---|---|\n')
+    for c, f in orphan:
+        lines.append('| {} | {} |\n'.format(c, f))
+    if not (new or ready or broken or foreign or orphan):
+        lines.append('\nРасхождений нет.\n')
+
+    os.makedirs(paths.CATALOG_DIR, exist_ok=True)
+    with open(paths.SYNC_REPORT_MD, 'w', encoding='utf-8') as f:
+        f.write(''.join(lines))
+    print('-> {}'.format(paths.SYNC_REPORT_MD))
+
+
+def main():
+    ap = argparse.ArgumentParser(description='Актуализатор voice-структуры')
+    s = ap.add_subparsers(dest='cmd')
+    s.add_parser('status', help='сводка слоёв и расхождений')
+    upd = s.add_parser('update', help='структура новым + сводка')
+    upd.add_argument('--apply', action='store_true')
+    mig = s.add_parser('migrate', help='переезд refs/ -> папки персонажей')
+    mig.add_argument('--apply', action='store_true')
+    s.add_parser('report', help='missing_voices.md + voice_sync_report.md')
+    args = ap.parse_args()
+
+    try:
+        sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+        sys.stderr.reconfigure(encoding='utf-8', errors='replace')
+    except Exception:
+        pass
+
+    if args.cmd == 'status':
+        return cmd_status(args)
+    if args.cmd == 'update':
+        return cmd_update(args)
+    if args.cmd == 'migrate':
+        return cmd_migrate(args)
+    if args.cmd == 'report':
+        return cmd_report(args)
+    ap.print_help()
+    return 1
+
+
+if __name__ == '__main__':
+    sys.exit(main())

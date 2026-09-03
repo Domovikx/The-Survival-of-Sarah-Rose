@@ -8,13 +8,15 @@
 ВЫХОД:
   ai_voice/{lang}/{arc}/{uid}__{variant}.wav   (resumable: существующие скипаются)
   Каждый файл выравнивается levelnorm.py: loudnorm -16 LUFS / TP -1.5
-  (CV3 гуляет по уровню — иначе реплики -14...-18 LUFS, TP до +0.2).
 
 ПОБЕДНЫЙ КОНФИГ (как в W40KRT, 2026-08-29):
   cross_lingual + RL + flow-temp 1.2 + cfg 0.9 + RAS (0.5, 10, 0.15)
   + silent-token-trim ON + seed 42 + s16
 
 ТРИМ: наш trim_tail_burst (паттерн «тишина → короткий всплеск у конца файла»).
+
+Реф берётся ТОЛЬКО из config/voices.yaml (нет записи = не озвучиваем).
+--ref перезаписывает путь (для A/B по in_progress-вариантам).
 
 ЗАПУСК (ОБЯЗАТЕЛЬНО через venv CosyVoice):
   C:\\tools\\cosyvoice3\\.venv\\Scripts\\python.exe tools/voice_batch.py \\
@@ -25,39 +27,49 @@
 """
 
 import argparse
-import json
+import hashlib
 import logging
 import os
 import sys
 import time
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-W40K_TOOLS = os.path.join(
-    r'C:\Users\Domo\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader',
-    'UnityModManager', 'W40KRTAudioDirectMod', 'tools')
-COSY_ROOT = r'C:\tools\cosyvoice3'
-REPO_DIR = os.path.join(COSY_ROOT, 'CosyVoice')
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+from voicekit import catalog, paths, tts_env  # noqa: E402
+
+REPO_DIR = tts_env.cosy_repo_dir()
 sys.path.insert(0, REPO_DIR)
 sys.path.insert(0, os.path.join(REPO_DIR, 'third_party', 'Matcha-TTS'))
-sys.path.insert(0, W40K_TOOLS)      # cosyvoice3_demo (helper-функции)
-sys.path.insert(0, os.path.join(ROOT, 'tools'))  # trim_tail_burst
+sys.path.insert(0, tts_env.W40K_TOOLS)
+sys.path.insert(0, paths.TOOLS_DIR)
 
-import numpy as np
-import torch
-import torchaudio
-import yaml
-from cosyvoice.cli.cosyvoice import AutoModel
-from cosyvoice.utils.common import set_all_random_seed
+import numpy as np  # noqa: E402
+import torch  # noqa: E402
+import torchaudio  # noqa: E402
+from cosyvoice.cli.cosyvoice import AutoModel  # noqa: E402
+from cosyvoice.utils.common import set_all_random_seed  # noqa: E402
 
-from cosyvoice3_demo import (CV3_PREFIX, prep_ref, patch_flow_temperature,
+from cosyvoice3_demo import (CV3_PREFIX, prep_ref, patch_flow_temperature,  # noqa: E402
                              patch_silent_token_trim, make_tuned_model_dir)
-from trim_tail_burst import trim as pattern_trim
+from trim_tail_burst import trim as pattern_trim  # noqa: E402
 
 FLOW_TEMP = 1.2
 CFG_RATE = 0.9
 SAMPLING = (0.5, 10.0, 0.15)
 
-LOG_PATH = os.path.join(ROOT, 'output', 'voice', 'batch.log')
+INSTRUCT_PRESETS = {
+    'angry': 'In a fit of rage, with intensity',
+    'sad': 'Sadly, with a melancholic tone',
+    'happy': 'Happily, with excitement',
+    'fast': 'Speaking as fast as possible',
+    'slow': 'Speaking slowly and deliberately',
+    'loud': 'As loudly as possible',
+    'soft': 'In a very soft voice',
+    'whisper': 'In a soft whisper',
+    'russian': 'Please speak in Russian, with a natural native accent',
+}
+
+LOG_PATH = paths.batch_log()
 
 
 def log(msg):
@@ -72,49 +84,60 @@ def log(msg):
 
 
 def silence_benign_warnings():
-    """Глушим безвредный warning transformers про sliding window.
-
-    Он печатается при загрузке модели, выглядит пугающе («ERROR: Sliding
-    Window Attention...»), но на генерацию НЕ влияет (logger.warning_once
-    в transformers/models/qwen2/modeling_qwen2.py).
-    """
+    """Глушим безвредный warning transformers про sliding window."""
     for name in ('transformers', 'transformers.modeling_utils',
                  'transformers.models.qwen2.modeling_qwen2'):
         logging.getLogger(name).setLevel(logging.CRITICAL)
 
 
 def load_inputs():
-    """Читаем каталог и конфиг голосов. Возвращаем (entries, voices, who_to_voice)."""
-    with open(os.path.join(ROOT, 'catalog', 'voices.json'), encoding='utf-8') as f:
-        data = json.load(f)
-    entries = data['entries']
-    with open(os.path.join(ROOT, 'config', 'voices.yaml'), encoding='utf-8') as f:
-        cfg = yaml.safe_load(f)
-    voices = cfg.get('voices', {})
-    who_to_voice = {}
-    for vname, vcfg in voices.items():
-        for w in vcfg.get('who', []):
-            who_to_voice[w] = vname
-    return entries, voices, who_to_voice
+    """Каталог и конфиг голосов. Возвращает (entries, voices, who_to_voice)."""
+    return (catalog.load_catalog()['entries'],
+            catalog.load_voices(),
+            catalog.who_to_voice())
 
 
 def select_phrases(entries, voices, who_to_voice, args):
     """Фильтруем каталог до списка фраз к генерации.
 
-    Возвращает список dict: uid, arc, text, voice (имя голоса), ref, out.
-    Критерии: категория dialogue/narration, голос есть, фильтры args.
+    Критерии: категория dialogue/narration, голос есть в voices.yaml,
+    фильтры args. Реф — только из voices.yaml (или --ref).
+    --text переопределяет всё: одна фраза с произвольным текстом
+    (uid = md5(text), arc = --arc or 'Demo').
     """
+    if args.text:
+        uid = hashlib.md5(args.text.encode('utf-8')).hexdigest()
+        arc = args.arc or 'Demo'
+        ref_cfg = voices.get(args.char or '', {}).get('ref')
+        if args.ref:
+            ref = os.path.abspath(args.ref)
+            variant = os.path.splitext(os.path.basename(args.ref))[0]
+        elif ref_cfg:
+            ref = paths.resolve_ref(ref_cfg)
+            variant = os.path.splitext(os.path.basename(ref_cfg))[0]
+        else:
+            return []
+        if args.emotion:
+            variant += '_{}'.format(args.emotion_tag)
+        out = os.path.join(paths.AI_VOICE_DIR, args.lang,
+                           arc, uid + '__' + variant + '.wav')
+        return [dict(
+            uid=uid, arc=arc, voice=args.char or 'Demo', ref=ref, out=out,
+            variant=variant, lang=args.lang,
+            text=args.text, text_old=args.text, text_new=args.text,
+            emotion=args.emotion,
+        )]
     phrases = []
     for e in entries:
         cat = e['category']
         if cat not in ('dialogue', 'narration'):
-            continue  # ui / menu не озвучиваем
+            continue
         if cat == 'narration':
-            voice = who_to_voice.get('narrator')   # наррация -> Narrator
+            voice = who_to_voice.get('narrator')
         else:
-            voice = who_to_voice.get(e['who'])     # диалог -> голос спикера
+            voice = who_to_voice.get(e['who'])
         if voice is None:
-            continue  # голоса нет -> пропускаем (правило «не озвучивать»)
+            continue
         if args.arc and e['arc'] != args.arc:
             continue
         if args.char and (e['who_name'] or 'Narrator') != args.char:
@@ -126,27 +149,74 @@ def select_phrases(entries, voices, who_to_voice, args):
             ref = os.path.abspath(args.ref)
             variant = os.path.splitext(os.path.basename(args.ref))[0]
         elif ref_cfg:
-            ref = os.path.join(ROOT, ref_cfg)
+            ref = paths.resolve_ref(ref_cfg)
             variant = os.path.splitext(os.path.basename(ref_cfg))[0]
         else:
-            ref = os.path.join(ROOT, 'refs', voice + '.wav')  # плоский refs/
-            variant = voice
-        out = os.path.join(ROOT, 'ai_voice', args.lang,
+            continue  # нет записи/рефа в voices.yaml -> не озвучиваем
+        if args.emotion:
+            variant += '_{}'.format(args.emotion_tag)
+        out = os.path.join(paths.AI_VOICE_DIR, args.lang,
                            e['arc'], e['uid'] + '__' + variant + '.wav')
         phrases.append(dict(
             uid=e['uid'], arc=e['arc'], voice=voice, ref=ref, out=out,
+            variant=variant, lang=args.lang,
             text=(e['new'] if args.lang == 'ru' else e['old']),
+            text_old=e['old'], text_new=e['new'],
+            emotion=args.emotion,
         ))
     return phrases
 
 
-def gen_one(cosyvoice, text, ref, seed):
-    """Одна фраза: реф + текст -> тензор речи (cross_lingual + RL)."""
+def write_manifest(p, args):
+    """Манифест рядом с wav: по какому рефу/конфигу сгенерировано.
+
+    Пишется ДО генерации — файл-описание существует даже если генерация
+    упадёт. Путь: {out}.txt (рядом с wav).
+    """
+    cfg_line = 'flow-temp {}, cfg {}, RAS {}, seed {}, silent-trim ON, speed 1.0'.format(
+        args.flow_temp, args.cfg_rate, (args.top_p, args.top_k, args.tau_r),
+        args.seed)
+    lines = [
+        '# TSSR voice manifest',
+        'uid: {}'.format(p['uid']),
+        'arc: {}'.format(p['arc']),
+        'voice: {}'.format(p['voice']),
+        'variant: {}'.format(p['variant']),
+        'lang: {}'.format(p['lang']),
+        'ref: {}'.format(os.path.relpath(p['ref'], paths.ROOT).replace(os.sep, '/')),
+        'emotion: {}'.format(p['emotion'] or '-'),
+        'text_ru: {}'.format(p['text_new']),
+        'text_en: {}'.format(p['text_old']),
+        'config: {}'.format(cfg_line),
+        'generated: {}'.format(time.strftime('%Y-%m-%d %H:%M')),
+    ]
+    try:
+        os.makedirs(os.path.dirname(p['out']), exist_ok=True)
+        with open(p['out'] + '.txt', 'w', encoding='utf-8') as f:
+            f.write('\n'.join(lines) + '\n')
+    except Exception as e:
+        log('  !! manifest fail: {}'.format(e))
+
+
+def gen_one(cosyvoice, text, ref, seed, emotion=None):
+    """Одна фраза: реф + текст -> тензор речи.
+
+    emotion — стилевая инструкция: используем instruct2-режим
+    (инструкция отдельным аргументом, тот же промпт-формат, что у
+    cross_lingual, но модель точно знает, что это стиль).
+    """
     prepped = prep_ref(ref)
     set_all_random_seed(seed)
-    gen = cosyvoice.inference_cross_lingual(CV3_PREFIX + text, prepped,
-                                            stream=False, speed=1.0,
-                                            text_frontend=False)
+    if emotion:
+        instruct = 'You are a helpful assistant. {}.<|endofprompt|>'.format(
+            emotion)
+        gen = cosyvoice.inference_instruct2(
+            text, instruct, prepped, stream=False, speed=1.0,
+            text_frontend=False)
+    else:
+        gen = cosyvoice.inference_cross_lingual(CV3_PREFIX + text, prepped,
+                                                stream=False, speed=1.0,
+                                                text_frontend=False)
     for j in gen:
         return j['tts_speech']
 
@@ -164,7 +234,32 @@ def main():
                     help='только список к генерации, без модели')
     ap.add_argument('--ref', default=None,
                     help='путь к рефу (перезаписывает yaml)')
+    ap.add_argument('--emotion', default=None,
+                    help='стиль: пресет (angry/sad/happy/fast/slow/loud/soft/'
+                         'whisper/russian) или свободная инструкция')
+    ap.add_argument('--emotion-tag', default='em',
+                    help='суффикс файла для эмоции (default em)')
+    ap.add_argument('--text', default=None,
+                    help='произвольный текст (демо): одна фраза, '
+                         'uid = md5(text), arc = --arc or Demo')
+    ap.add_argument('--top-p', type=float, default=SAMPLING[0],
+                    help='LLM nucleus sampling (default 0.5)')
+    ap.add_argument('--top-k', type=int, default=SAMPLING[1],
+                    help='LLM top-k кандидатов (default 10)')
+    ap.add_argument('--tau-r', type=float, default=SAMPLING[2],
+                    help='RAS штраф повторов (default 0.15)')
+    ap.add_argument('--cfg-rate', type=float, default=CFG_RATE,
+                    help='LLM classifier-free guidance (default 0.9)')
+    ap.add_argument('--flow-temp', type=float, default=FLOW_TEMP,
+                    help='температура flow-декодера (default 1.2)')
     args = ap.parse_args()
+    if args.emotion and args.emotion in INSTRUCT_PRESETS:
+        args.emotion = INSTRUCT_PRESETS[args.emotion]
+    try:
+        sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+        sys.stderr.reconfigure(encoding='utf-8', errors='replace')
+    except Exception:
+        pass
 
     entries, voices, who_to_voice = load_inputs()
     phrases = select_phrases(entries, voices, who_to_voice, args)
@@ -178,15 +273,17 @@ def main():
     if args.dry_run:
         return
 
-    model_dir = make_tuned_model_dir(*SAMPLING, rl=True, cfg_rate=CFG_RATE)
+    model_dir = make_tuned_model_dir(args.top_p, args.top_k, args.tau_r,
+                                     rl=True, cfg_rate=args.cfg_rate)
     log('model: {}'.format(model_dir))
-    silence_benign_warnings()   # ДО загрузки модели — чтобы warning не просочился
+    silence_benign_warnings()
     t0 = time.time()
     cosyvoice = AutoModel(model_dir=model_dir)
-    patch_flow_temperature(FLOW_TEMP)
+    patch_flow_temperature(args.flow_temp)
     patch_silent_token_trim()
     log('model loaded in {:.1f}s (flow-temp {}, cfg {}, RAS {}, silent-trim ON)'.format(
-        time.time() - t0, FLOW_TEMP, CFG_RATE, SAMPLING))
+        time.time() - t0, args.flow_temp, args.cfg_rate,
+        (args.top_p, args.top_k, args.tau_r)))
 
     done = skipped = failed = 0
     total = len(phrases)
@@ -199,8 +296,10 @@ def main():
             break
         log('[{}/{}] {} {} {}: {}'.format(
             idx + 1, total, p['uid'][:8], p['arc'], p['voice'], p['text'][:60]))
+        write_manifest(p, args)  # описание ДО генерации
         try:
-            speech = gen_one(cosyvoice, p['text'], p['ref'], args.seed)
+            speech = gen_one(cosyvoice, p['text'], p['ref'], args.seed,
+                             p.get('emotion'))
             sr = cosyvoice.sample_rate
             trimmed, cuts = pattern_trim(speech, sr)
             os.makedirs(os.path.dirname(p['out']), exist_ok=True)
@@ -209,7 +308,7 @@ def main():
             dur = trimmed.shape[1] / sr
             try:
                 from levelnorm import normalize_file
-                normalize_file(p['out'])  # CV3 гуляет по уровню -> -16 LUFS
+                normalize_file(p['out'])
             except Exception:
                 pass
             trim_info = ''

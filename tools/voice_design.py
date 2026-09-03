@@ -5,77 +5,66 @@
 ЧТО ДЕЛАЕТ:
   Для каждого выбранного персонажа генерирует N реплик-кандидатов
   (Qwen3-TTS-12Hz-1.7B-VoiceDesign, инструкция = instruct_en из YAML-каста)
-  и кладёт их в voice_candidates/{Имя}/{NN}.mp3 (01.mp3, 02.mp3, ...).
+  и кладёт их в voice_candidates/{Имя}/generated/{NN}.mp3.
   После прогона пишет статистику в voice_candidates/voice_candidates.yaml
-  (дата, ok/skip/give_up/fail по каждому персонажу).
+  (секция generation: дата, ok/skip/give_up/fail по каждому персонажу).
 
 ИСТОЧНИК КАСТА (YAML):
-  voice_candidates/{Имя}/{Имя}.yaml — описание голоса каждого персонажа:
+  voice_candidates/{Имя}/{Имя}.yaml — контракт персонажа:
     name, gender, age, who, instruct_en (англ. описание для модели), texts.
   Файл = контракт: добавил yaml -> персонаж появился в --list и генерации.
-  Старый voice_design_cast.py УДАЛЁН — каст живёт только в yaml.
 
 ПРАВИЛА (важно):
   1. Реф для CosyVoice3 должен быть >= 10с. Если клип вышел короче, тул
      автоматически повторяет генерацию: сначала с инструкцией «говори
      медленно», затем с удлинённым текстом (text + следующий текст).
-  2. Тексты в касте содержат явный признак пола («я пошёл/пошла»,
-     «я делал/делала») — это заставляет TTS уверенно выбирать пол голоса.
+  2. Тексты в касте содержат явный признак пола («я пошёл/пошла»...).
   3. Постобработка: убирается ведущая тишина, mp3 24 kHz mono 96k.
   4. Тул резюмабелен: существующие NN.mp3 не пересоздаются.
      Чтобы перегенерировать — удали файл (или используй --force).
 
-ЗАПУСК (нужен python с пакетом qwen_tts — venv pinokio-приложения Qwen3-TTS,
-в cosyvoice-venv пакета нет; модель VoiceDesign должна лежать в HF-кэше):
+ЗАПУСК (нужен python с пакетом qwen_tts — venv pinokio-приложения Qwen3-TTS):
   C:\\pinokio\\api\\Qwen3-TTS-Pinokio.git\\app\\venv\\Scripts\\python.exe ^
       tools/voice_design.py --list
   ... tools/voice_design.py --char Carolyn --n 6
   ... tools/voice_design.py --n 3            # все голоса из каста, по 3 шт
-  ... tools/voice_design.py --char Narrator --n 10 --force
 
-CPU: ~1-2 мин на клип (1.7B, torch+cpu). 15 голосов x 6 = ~3-5 часов —
-запускай на ночь или частями (тул дозапускается без повторов).
+CPU: ~1-2 мин на клип (1.7B, torch+cpu). Запускай на ночь или частями.
 """
 
 import argparse
-import glob
 import os
 import subprocess
 import sys
 import time
 import traceback
 
-try:
-    import yaml
-except ImportError:
-    sys.exit("PyYAML не найден (нужен для чтения каста voice_candidates/*.yaml). "
-             "Установи: pip install pyyaml")
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CANDIDATES_DIR = os.path.join(ROOT, 'voice_candidates')
-LOG_PATH = os.path.join(ROOT, 'tools', 'voice_design.log')
+from voicekit import catalog, paths, tts_env  # noqa: E402
+
+LOG_PATH = os.path.join(paths.OUTPUT_DIR, 'voice', 'design.log')
+STATS_PATH = paths.CAST_SUMMARY_YAML
+
+TEMPO = "темп речи спокойный, неторопливый, паузы короткие"
+TEMPS = [0.8, 0.95, 1.1, 0.85, 1.0, 0.9, 0.8, 0.95, 1.1, 0.85]
+
+FFMPEG = "ffmpeg"
+FFPROBE = "ffprobe"
 
 
 def load_cast():
-    """Собрать каст из voice_candidates/*/*.yaml. {Имя: cfg}."""
+    """Каст из voice_candidates/*/*.yaml. {Имя: cfg} (только с texts)."""
     cast = {}
-    for path in sorted(glob.glob(os.path.join(CANDIDATES_DIR, '*', '*.yaml'))):
-        name = os.path.basename(os.path.dirname(path))
-        with open(path, encoding='utf-8') as f:
-            cfg = yaml.safe_load(f)
+    for name in catalog.cast_names():
+        cfg = catalog.load_cast(name)
         if not isinstance(cfg, dict) or not cfg.get('texts'):
-            print("WARN: пропускаю {} (нет texts)".format(path))
+            print("WARN: пропускаю {} (нет texts)".format(
+                paths.char_yaml(name)))
             continue
         cfg.setdefault('instruct_en', '')
         cast[name] = cfg
     return cast
-
-# qwen_tts стоит в pinokio-приложении Qwen3-TTS (не в venv пакетом) —
-# ищем каталог приложения: env QWEN_TTS_APP или путь по умолчанию
-QWEN_APP_CANDIDATES = [
-    os.environ.get("QWEN_TTS_APP"),
-    r"C:\pinokio\api\Qwen3-TTS-Pinokio.git\app",
-]
 
 
 def ensure_qwen_tts():
@@ -85,21 +74,12 @@ def ensure_qwen_tts():
         return
     except ImportError:
         pass
-    for p in QWEN_APP_CANDIDATES:
-        if p and os.path.isdir(os.path.join(p, "qwen_tts")):
-            sys.path.insert(0, p)
-            return
+    p = tts_env.QWEN_APP
+    if p and os.path.isdir(os.path.join(p, "qwen_tts")):
+        sys.path.insert(0, p)
+        return
     sys.exit("qwen_tts не найден. Укажи каталог приложения через env "
-             "QWEN_TTS_APP или установи пакет qwen-tts в текущий venv.")
-
-# модель VoiceDesign — ищем в HF-кэше (последний снепшот репо)
-MODEL_HF = r"C:\Users\Domo\.cache\huggingface\hub\models--Qwen--Qwen3-TTS-12Hz-1.7B-VoiceDesign\snapshots"
-
-TEMPO = "темп речи спокойный, неторопливый, паузы короткие"
-TEMPS = [0.8, 0.95, 1.1, 0.85, 1.0, 0.9, 0.8, 0.95, 1.1, 0.85]
-
-FFMPEG = "ffmpeg"
-FFPROBE = "ffprobe"
+             "QWEN_TTS_APP.")
 
 
 def log(msg):
@@ -108,13 +88,11 @@ def log(msg):
     print(msg)
 
 
-STATS_PATH = os.path.join(CANDIDATES_DIR, "voice_candidates.yaml")
-
-
 def load_stats():
     if not os.path.exists(STATS_PATH):
         return {}
     try:
+        import yaml
         with open(STATS_PATH, encoding="utf-8") as f:
             d = yaml.safe_load(f)
         return d if isinstance(d, dict) else {}
@@ -125,6 +103,7 @@ def load_stats():
 def write_stats(stats, n):
     """Обновить voice_candidates.yaml: дата прогона + результат по персонажам."""
     import datetime
+    import yaml
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     doc = load_stats()
     if not doc or "generation" not in doc:
@@ -135,19 +114,10 @@ def write_stats(stats, n):
         per = dict(per)
         per["last_run"] = now
         doc["generation"][char] = per
+    os.makedirs(os.path.dirname(STATS_PATH), exist_ok=True)
     with open(STATS_PATH, "w", encoding="utf-8") as f:
         yaml.safe_dump(doc, f, allow_unicode=True, sort_keys=False)
     log("stats -> {}".format(STATS_PATH))
-
-
-def find_snapshot():
-    if not os.path.isdir(MODEL_HF):
-        raise RuntimeError("Нет VoiceDesign в HF-кэше: " + MODEL_HF)
-    for d in sorted(os.listdir(MODEL_HF)):
-        p = os.path.join(MODEL_HF, d)
-        if os.path.exists(os.path.join(p, "model.safetensors")):
-            return p
-    raise RuntimeError("Снепшот VoiceDesign не найден: " + MODEL_HF)
 
 
 def postprocess(wav_path, mp3_path):
@@ -160,8 +130,7 @@ def postprocess(wav_path, mp3_path):
 
 
 def gen_one(model, dst, char, cfg, i, n):
-    """Один кандидат с автодобором длины >= 10с.
-    Возвращает: "ok" | "skip" | "give_up" | "fail"."""
+    """Один кандидат с автодобором длины >= 10с."""
     import soundfile as sf
     if os.path.exists(dst):
         log("skip {} (exists)".format(dst))
@@ -170,7 +139,6 @@ def gen_one(model, dst, char, cfg, i, n):
     text = texts[i % len(texts)]
     extra = texts[(i + 1) % len(texts)]
 
-    # YAML-формат: instruct_en (английский). Legacy fallback base+vars.
     if cfg.get("instruct_en"):
         base_instruct = cfg["instruct_en"]
     else:
@@ -233,7 +201,7 @@ def main():
 
     cast = load_cast()
     if not cast:
-        print("Каст пуст: нет voice_candidates/*/*.yaml")
+        print("Каст пуст: нет voice_candidates/*/*.yaml с texts")
         return 1
 
     if args.list:
@@ -253,7 +221,9 @@ def main():
     else:
         todo = cast
 
-    snap = find_snapshot()
+    snap = tts_env.voice_design_snapshot()
+    if not snap:
+        sys.exit("Нет VoiceDesign в HF-кэше: " + tts_env.VOICE_DESIGN_MODEL)
     ensure_qwen_tts()
     import torch  # noqa: F401
     from qwen_tts import Qwen3TTSModel
@@ -265,7 +235,7 @@ def main():
     total = 0
     stats = {}
     for char, cfg in todo.items():
-        dst_dir = os.path.join(CANDIDATES_DIR, char)
+        dst_dir = paths.char_subdir(char, 'generated')
         os.makedirs(dst_dir, exist_ok=True)
         per_char = {"n": args.n, "ok": 0, "skip": 0, "give_up": 0, "fail": 0}
         for i in range(args.n):
