@@ -14,9 +14,9 @@ who: 'Пожилая рабыня-розанка в лагере кочевни�
 
   Стиль речи: Просторечная, с диалектными оборотами, откровенная до грубости, с чёрным
   юмором; объясняет законы лагеря и обычаи племени.'
-instruct_en: Female, 30-50 years old, worn stooped figure from long years of captivity,
-  weathered face with tired lines, grey-streaked hair, heavy slow gait, rough calloused
-  hands
+instruct_en: Female, 30-50 years old, slave, worn stooped figure from long years of
+  captivity, weathered face with tired lines, grey-streaked hair, heavy slow gait,
+  rough calloused hands
 texts:
 - Значит, он повеселился с тобой? Ну и правильно, так и надо, а то вечно у нас всё
   чинно да благородно, как на похоронах. Молодым положено шуметь и смеяться, пока
@@ -35,6 +35,6 @@ texts:
   кухне голодным не уходит никто.
 arcs:
 - Other
-instruct_ru: Женский, 30-50 лет, сгорбленная усталая фигура после долгих лет плена,
-  обветренное лицо с усталыми морщинами, волосы с проседью, тяжёлая медленная поступь,
-  грубые мозолистые руки
+instruct_ru: Женский, 30-50 лет, рабыня, сгорбленная усталая фигура после долгих лет
+  плена, обветренное лицо с усталыми морщинами, волосы с проседью, тяжёлая медленная
+  поступь, грубые мозолистые руки

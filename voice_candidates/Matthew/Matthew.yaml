@@ -13,9 +13,9 @@ who: 'Главный тюремщик западного крыла тюрьмы
 
   Стиль речи: Канцелярско-наставительный тон с просторечиями, нумерация и правила,
   изредка сухой юмор.'
-instruct_en: Male, 25-40 years old, stocky build in a uniform tunic, square clean-shaven
-  face, short-cropped hair, stiff official posture, measured unhurried stride, heavy
-  hands
+instruct_en: Male, 25-40 years old, prison warden, stocky build in a uniform tunic,
+  square clean-shaven face, short-cropped hair, stiff official posture, measured unhurried
+  stride, heavy hands
 texts:
 - 'Вставай, заключённая. У нас тут не постоялый двор, чтобы нежиться в кровати: подъём
   по расписанию, и я не намерен повторять приказ дважды. Чем быстрее ты привыкнешь
@@ -34,6 +34,6 @@ texts:
   написал эти правила, я лишь слежу, чтобы их соблюдали.'
 arcs:
 - SailorPath
-instruct_ru: Мужской, 25-40 лет, коренастая фигура в форменной тунике, квадратное
-  чисто выбритое лицо, коротко стриженные волосы, чопорная служебная осанка, размеренная
-  неторопливая походка, тяжёлые руки
+instruct_ru: Мужской, 25-40 лет, тюремный надзиратель, коренастая фигура в форменной
+  тунике, квадратное чисто выбритое лицо, коротко стриженные волосы, чопорная служебная
+  осанка, размеренная неторопливая походка, тяжёлые руки

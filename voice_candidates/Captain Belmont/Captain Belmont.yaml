@@ -14,9 +14,9 @@ who: 'Капитан корабля, на котором Сара плывёт �
 
   Стиль речи: Просторечный, морской жаргон: «draw up the anchor», «rigged the sails»,
   грубые приказы, сальные намёки, насмешливые обращения «Blondie», «come on now».'
-instruct_en: Male, 40-50 years old, stocky and wiry with broad shoulders, weathered
-  sun-bronzed face with deep creases around the eyes, rough grey-flecked beard, calloused
-  hands, rolling sailor's gait
+instruct_en: Male, 40-50 years old, ship captain, stocky and wiry with broad shoulders,
+  weathered sun-bronzed face with deep creases around the eyes, rough grey-flecked
+  beard, calloused hands, rolling sailor's gait
 texts:
 - 'Я думал, это ты, но до конца уверен не был. Море меняет людей, знаешь ли: оно добавляет
   и соли в кровь, и седины в бороду, и молчания в душу. Годы в плавании — они как
@@ -31,6 +31,6 @@ arcs:
 - Other
 - SailorPath
 - MagePath
-instruct_ru: Мужской, 40-50 лет, коренастый и жилистый, широкие плечи, обветренное
-  загорелое лицо с глубокими морщинами у глаз, жёсткая борода с сединой, мозолистые
-  руки, раскачивающаяся морская походка
+instruct_ru: Мужской, 40-50 лет, капитан корабля, коренастый и жилистый, широкие плечи,
+  обветренное загорелое лицо с глубокими морщинами у глаз, жёсткая борода с сединой,
+  мозолистые руки, раскачивающаяся морская походка

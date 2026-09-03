@@ -53,21 +53,16 @@ from cosyvoice3_demo import (CV3_PREFIX, prep_ref, patch_flow_temperature,  # no
                              patch_silent_token_trim, make_tuned_model_dir)
 from trim_tail_burst import trim as pattern_trim  # noqa: E402
 
-FLOW_TEMP = 1.2
-CFG_RATE = 0.9
-SAMPLING = (0.5, 10.0, 0.15)
+from voicekit import config as _cfg
 
-INSTRUCT_PRESETS = {
-    'angry': 'In a fit of rage, with intensity',
-    'sad': 'Sadly, with a melancholic tone',
-    'happy': 'Happily, with excitement',
-    'fast': 'Speaking as fast as possible',
-    'slow': 'Speaking slowly and deliberately',
-    'loud': 'As loudly as possible',
-    'soft': 'In a very soft voice',
-    'whisper': 'In a soft whisper',
-    'russian': 'Please speak in Russian, with a natural native accent',
-}
+_B = _cfg.section('batch')
+FLOW_TEMP = float(_B.get('flow_temp', 1.2))
+CFG_RATE = float(_B.get('cfg_rate', 0.9))
+_smp = _B.get('sampling', [0.5, 10.0, 0.15])
+SAMPLING = (float(_smp[0]), float(_smp[1]), float(_smp[2]))
+DEFAULT_SEED = int(_B.get('seed', 42))
+_pres = _B.get('instruct_presets', {})
+INSTRUCT_PRESETS = {k: str(v) for k, v in _pres.items()}
 
 LOG_PATH = paths.batch_log()
 
@@ -229,7 +224,7 @@ def main():
     ap.add_argument('--limit', type=int, default=None, help='максимум фраз за прогон')
     ap.add_argument('--force', action='store_true', help='перегенерировать существующие')
     ap.add_argument('--lang', default='ru', choices=['ru', 'en'])
-    ap.add_argument('--seed', type=int, default=42)
+    ap.add_argument('--seed', type=int, default=DEFAULT_SEED)
     ap.add_argument('--dry-run', action='store_true',
                     help='только список к генерации, без модели')
     ap.add_argument('--ref', default=None,

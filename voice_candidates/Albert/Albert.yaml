@@ -14,9 +14,9 @@ who: 'Пожилой мастер портняжной мастерской по
 
   Стиль речи: Сначала старомодно-ласковый («Well done, girl!», «Good girl»), потом
   — откровенно-похабный, приказной и угрожающий.'
-instruct_en: Male, 40-60 years old, lean and slightly stooped from years bent over
-  his work, weathered face with fine wrinkles, thin skilled fingers of a tailor master,
-  neat precise movements, thinning grey hair
+instruct_en: Male, 40-60 years old, old tailor master, lean and slightly stooped from
+  years bent over his work, weathered face with fine wrinkles, thin skilled fingers
+  of a tailor master, neat precise movements, thinning grey hair
 texts:
 - text: Я наблюдал за тобой некоторое время, Сара. Должен признать, ты не разочаровала.
     Много лет я читаю людей по походке и взгляду, и в тебе я вижу то, что редко встречается
@@ -50,6 +50,7 @@ texts:
   emotion_ru: Ледяно, со сдержанностью, пряча угрозу
 arcs:
 - LifeInRahayal
-instruct_ru: Мужской, 40-60 лет, сухощавый, слегка сутулый от многолетней работы согнувшись
-  над шитьём, обветренное лицо с мелкими морщинами, тонкие умелые пальцы мастера-портного,
-  аккуратные точные движения, редкие седые волосы
+instruct_ru: Мужской, 40-60 лет, старый мастер-портной, сухощавый, слегка сутулый
+  от многолетней работы согнувшись над шитьём, обветренное лицо с мелкими морщинами,
+  тонкие умелые пальцы мастера-портного, аккуратные точные движения, редкие седые
+  волосы

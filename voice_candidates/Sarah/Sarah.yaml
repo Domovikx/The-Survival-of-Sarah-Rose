@@ -16,8 +16,8 @@ who: 'Принцесса Розанны, дочь короля Орвелла Р
 
   Стиль речи: Речь тёплая и бытовая с близкими, официально-дипломатичная при дворе,
   с острыми репликами и самоиронией; в плену — сломленная, сбивчивая.'
-instruct_en: Female, 17-19 years old, slender with graceful bearing, fair hair, composed
-  upright posture, delicate noble hands
+instruct_en: Female, 17-19 years old, princess, slender with graceful bearing, fair
+  hair, composed upright posture, delicate noble hands
 texts:
 - Отец говорил, что корона всегда тяжелее, чем кажется, и что золото весит больше,
   когда его носит живой человек. Теперь, когда этот вес лежит на моих плечах, я наконец
@@ -42,5 +42,5 @@ arcs:
 - MagePath
 - DemonArc
 - SailorPath
-instruct_ru: Женский, 17-19 лет, стройная, с благородной осанкой, светлые волосы,
-  собранная прямая осанка, изящные аристократические руки
+instruct_ru: Женский, 17-19 лет, принцесса, стройная, с благородной осанкой, светлые
+  волосы, собранная прямая осанка, изящные аристократические руки

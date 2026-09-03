@@ -14,9 +14,9 @@ who: 'Молодой солдат-наёмник в лагере Вейлена,
 
   Стиль речи: Разговорная речь солдата: междометия, сленг, комплименты Саре на тренировках,
   в постели — откровенные похвалы и грязные фразы.'
-instruct_en: Male, 20-25 years old, lean and wiry with a soldier's build, youthful
-  face with a ready grin, short cropped hair, springy energetic stride, strong calloused
-  hands
+instruct_en: Male, 20-25 years old, soldier, lean and wiry with a soldier's build,
+  youthful face with a ready grin, short cropped hair, springy energetic stride, strong
+  calloused hands
 texts:
 - 'Ты должна рассказать, как ты это сделала. Такой бросок не выходит случайно: я тренировал
   бойцов десятки раз и знаю, что этому учатся годами. Либо у тебя прирождённое чутьё,
@@ -29,6 +29,6 @@ texts:
   а потом повторишь ещё тысячу раз.'
 arcs:
 - MagePath
-instruct_ru: Мужской, 20-25 лет, поджарый и жилистый, солдатская стать, юное лицо
-  с вечной ухмылкой, коротко стриженные волосы, пружинистая энергичная походка, сильные
-  мозолистые руки
+instruct_ru: Мужской, 20-25 лет, солдат, поджарый и жилистый, солдатская стать, юное
+  лицо с вечной ухмылкой, коротко стриженные волосы, пружинистая энергичная походка,
+  сильные мозолистые руки

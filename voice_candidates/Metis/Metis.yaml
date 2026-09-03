@@ -15,9 +15,9 @@ who: 'Маг Ордена, бывший ученик Ксана, которог�
   Стиль речи: Вежливая, витиеватая речь старой школы с междометиями-восклицаниями,
   мягкие намёки вместо прямых вопросов; в преподавании — чёткие объяснения и практический
   подход.'
-instruct_en: Male, 30-60 years old, lean wiry frame with a slight wanderer's stoop,
-  sharp fox-like features with narrow eyes, silver-streaked hair, light quick movements,
-  long nimble fingers
+instruct_en: Male, 30-60 years old, wandering mage, lean wiry frame with a slight
+  wanderer's stoop, sharp fox-like features with narrow eyes, silver-streaked hair,
+  light quick movements, long nimble fingers
 texts:
 - Я путешествовал по самым далёким землям — от ледяных пустошей до песчаных империй,
   — и видел столько чудес, что мне порой кажется, будто я прожил несколько жизней
@@ -36,6 +36,6 @@ texts:
   действует лучше, когда вокруг всё рушится.'
 arcs:
 - BlackMonolith
-instruct_ru: Мужской, 30-60 лет, жилистая сухощавая фигура с лёгкой сутулостью странника,
-  острые лисьи черты с узкими глазами, волосы с серебристой проседью, лёгкие быстрые
-  движения, длинные проворные пальцы
+instruct_ru: Мужской, 30-60 лет, маг-странник, жилистая сухощавая фигура с лёгкой
+  сутулостью странника, острые лисьи черты с узкими глазами, волосы с серебристой
+  проседью, лёгкие быстрые движения, длинные проворные пальцы

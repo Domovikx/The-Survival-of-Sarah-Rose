@@ -15,9 +15,9 @@ who: 'Влиятельный политик Империи, слуга Вечн�
 
   Стиль речи: Короткие властные приказы и допросы, сарказм, риторические вопросы;
   любит говорить загадками и полунамёками.'
-instruct_en: Male, 40-60 years old, tall and gaunt with a pale sharp-boned frame,
-  narrow angular face with thin lips, dark slicked hair, rigid posture, quick abrupt
-  movements
+instruct_en: Male, 40-60 years old, imperial politician, tall and gaunt with a pale
+  sharp-boned frame, narrow angular face with thin lips, dark slicked hair, rigid
+  posture, quick abrupt movements
 texts:
 - 'Я построил это поместье своими руками, камень за камнем, и я требую в нём порядка.
   Мой дом, мои правила: каждый, кто живёт под моей крышей, обязан их знать и соблюдать,
@@ -40,6 +40,6 @@ texts:
 arcs:
 - MagePath
 - BlackMonolith
-instruct_ru: Мужской, 40-60 лет, высокий и худой, бледная остроугольная фигура, узкое
-  угловатое лицо с тонкими губами, тёмные зачёсанные волосы, жёсткая осанка, быстрые
-  отрывистые движения
+instruct_ru: Мужской, 40-60 лет, имперский политик, высокий и худой, бледная остроугольная
+  фигура, узкое угловатое лицо с тонкими губами, тёмные зачёсанные волосы, жёсткая
+  осанка, быстрые отрывистые движения

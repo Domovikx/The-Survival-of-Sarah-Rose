@@ -14,8 +14,8 @@ who: 'Юная дворянка из рода Хайфилд: родня-пре�
 
   Стиль речи: резкая, эмоциональная, с ругательствами и пафосными клятвами («I swear
   on everything in heaven...»), обращения «Princess Sarah».'
-instruct_en: Female, 18-25 years old, tall slender noble bearing, fair hair, sharp
-  proud features, upright martial posture, firm stride
+instruct_en: Female, 18-25 years old, noblewoman, tall slender noble bearing, fair
+  hair, sharp proud features, upright martial posture, firm stride
 texts:
 - Что твой тупой шпионмейстер пытается тебе сказать — что мы не Хайфилды? Пусть сначала
   посмотрит на герб на моём щите и на шрамы, которые этот герб заслужил в бою, а потом
@@ -33,5 +33,5 @@ texts:
   стоит дороже золота, а клятва, данная у алтаря, тяжелее любой короны.
 arcs:
 - UnionKingdom
-instruct_ru: Женский, 18-25 лет, высокая стройная благородная стать, светлые волосы,
-  гордые острые черты лица, прямая военная осанка, твёрдая поступь
+instruct_ru: Женский, 18-25 лет, дворянка, высокая стройная благородная стать, светлые
+  волосы, гордые острые черты лица, прямая военная осанка, твёрдая поступь

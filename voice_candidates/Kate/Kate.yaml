@@ -16,8 +16,8 @@ who: 'Подруга детства Сары из замка Розанны. С�
 
   Стиль речи: Просторенная, лёгкая речь с ироничными обращениями к Саре; в состоянии
   падения — пьяная, сбивчивая брань.'
-instruct_en: Female, 18-22 years old, athletic and lean, sharp features, sun-browned
-  skin, quick restless energy, calloused sword hands
+instruct_en: Female, 18-22 years old, mercenary, athletic and lean, sharp features,
+  sun-browned skin, quick restless energy, calloused sword hands
 texts:
 - 'Слушай, Сара, если ты снова собралась тащить нас всех куда-то ради очередной благородной
   идеи, сначала хотя бы предупреди меня — я подготовлюсь: припрячу лишний клинок,
@@ -39,5 +39,5 @@ arcs:
 - BlackMonolith
 - HollowWorld
 - MagePath
-instruct_ru: Женский, 18-22 лет, спортивная и подтянутая, острые черты лица, загорелая
-  кожа, быстрая неуёмная энергия, мозолистые руки мечницы
+instruct_ru: Женский, 18-22 лет, наёмница, спортивная и подтянутая, острые черты лица,
+  загорелая кожа, быстрая неуёмная энергия, мозолистые руки мечницы

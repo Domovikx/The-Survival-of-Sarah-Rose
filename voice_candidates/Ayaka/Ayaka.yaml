@@ -14,9 +14,9 @@ who: 'Благородная леди с восточной границы, за
 
   Стиль речи: Утончённая, ровная, немного отстранённая речь знатной леди; склонна
   к самоанализу и мягкой самоиронии.'
-instruct_en: Female, 20-28 years old, petite and slender with a delicate frame, graceful
-  upright posture of a noble lady, fine soft facial features, long dark hair, small
-  elegant hands, light gliding step
+instruct_en: Female, 20-28 years old, noble lady, petite and slender with a delicate
+  frame, graceful upright posture of a noble lady, fine soft facial features, long
+  dark hair, small elegant hands, light gliding step
 texts:
 - 'Я пошла к ним в гости, как меня учили вежливости на родине, и сразу поняла, что
   здесь всё устроено совсем по-другому: другие обычаи, другие слова и другое отношение
@@ -35,6 +35,6 @@ texts:
   том, что каждый день дарит мне что-то неизведанное.'
 arcs:
 - HassarPath
-instruct_ru: Женский, 20-28 лет, миниатюрная и стройная, хрупкого телосложения, изящная
-  прямая осанка благородной леди, тонкие мягкие черты лица, длинные тёмные волосы,
-  маленькие изящные руки, лёгкая скользящая походка
+instruct_ru: Женский, 20-28 лет, благородная леди, миниатюрная и стройная, хрупкого
+  телосложения, изящная прямая осанка благородной леди, тонкие мягкие черты лица,
+  длинные тёмные волосы, маленькие изящные руки, лёгкая скользящая походка

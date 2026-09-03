@@ -24,9 +24,14 @@ import re
 import subprocess
 import sys
 
-LOUD_I = -16.0   # целевая интегрированная громкость, LUFS
-LOUD_TP = -1.5   # целевой true peak, dB
-LOUD_LRA = 11.0  # диапазон громкости
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+from voicekit import config  # noqa: E402
+
+_LOUD = config.section('audio').get('loudness', {})
+LOUD_I = float(_LOUD.get('i', -16.0))   # целевая интегрированная громкость, LUFS
+LOUD_TP = float(_LOUD.get('tp', -1.5))  # целевой true peak, dB
+LOUD_LRA = float(_LOUD.get('lra', 11.0))  # диапазон громкости
 LOUD_ARGS = 'loudnorm=I={}:TP={}:LRA={}'.format(LOUD_I, LOUD_TP, LOUD_LRA)
 
 

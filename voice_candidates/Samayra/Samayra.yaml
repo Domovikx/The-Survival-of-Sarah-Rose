@@ -14,8 +14,8 @@ who: 'Дочь шаха Баграда, спасённая Сарой из ру�
 
   Стиль речи: Вежливая, с восторженными повторами благодарности, позже — тёплая лирика
   признаний и сухие формальные военные доклады.'
-instruct_en: Female, 17-19 years old, slender and delicate with a soft round face,
-  graceful bearing, gentle hesitant posture, light unhurried movements
+instruct_en: Female, 17-19 years old, princess, slender and delicate with a soft round
+  face, graceful bearing, gentle hesitant posture, light unhurried movements
 texts:
 - Я выросла во дворце, где каждый день был наполнен праздниками и радостью, но теперь
   я понимаю, что настоящая ценность — это не балы и наряды, а близость людей, которых
@@ -36,5 +36,5 @@ arcs:
 - WarriorPath
 - MagePath
 - HollowWorld
-instruct_ru: Женский, 17-19 лет, стройная и хрупкая, с мягким округлым лицом, грациозная
-  осанка, нежная робкая стать, лёгкие неторопливые движения
+instruct_ru: Женский, 17-19 лет, принцесса, стройная и хрупкая, с мягким округлым
+  лицом, грациозная осанка, нежная робкая стать, лёгкие неторопливые движения

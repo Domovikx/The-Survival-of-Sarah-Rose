@@ -24,8 +24,10 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from clean_refs import clean_file  # noqa: E402
 from voicekit import catalog, paths  # noqa: E402
 
-TARGET_LEN = 10.0   # сколько секунд рефа оставляем для CosyVoice
-SR_RATE = 24000     # частота дискретизации рефа (такая же у CV3)
+from voicekit import config as _cfg
+
+TARGET_LEN = float(_cfg.get('refs', 'target_len', 10.0))
+SR_RATE = int(_cfg.get('audio', 'sr', 24000))
 
 
 def find_candidates():

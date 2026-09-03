@@ -26,10 +26,10 @@ import time
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from voicekit import catalog, paths  # noqa: E402
+from voicekit import catalog, config, paths  # noqa: E402
 
 PY = r'C:\pinokio\api\Qwen3-TTS-Pinokio.git\app\venv\Scripts\python.exe'
-N = 10
+N = int(config.get('design', 'candidates', 6))
 
 STATUS_FILE = os.path.join(paths.OUTPUT_DIR, 'voice', 'design_status.txt')
 STOP_FILE = os.path.join(paths.OUTPUT_DIR, 'voice', 'watch.stop')

@@ -13,8 +13,8 @@ who: 'Юла — сокамерница Сары в тюрьме: бывалая
 
   Стиль речи: Уличный жаргон с матом; прозвища («blondie», «newbie»), резкая разговорная
   манера.'
-instruct_en: Female, 20-30 years old, sturdy thick-set build with broad shoulders,
-  hard angular face, unkempt hair, heavy swaggering gait
+instruct_en: Female, 20-30 years old, hardened prisoner, sturdy thick-set build with
+  broad shoulders, hard angular face, unkempt hair, heavy swaggering gait
 texts:
 - Ну и какого хрена ты такая чистенькая и довольная, и что ты вообще делаешь в моей
   камере? Сюда даже стражники заходят только с оглядкой, а ты разгуливаешь тут, будто
@@ -33,5 +33,6 @@ texts:
   не везение, а умение просчитать того, кто сидит напротив.'
 arcs:
 - PrisonArc
-instruct_ru: Женский, 20-30 лет, крепкое коренастое телосложение с широкими плечами,
-  жёсткое угловатое лицо, неопрятные волосы, тяжёлая развязная походка
+instruct_ru: Женский, 20-30 лет, бывалая заключённая, крепкое коренастое телосложение
+  с широкими плечами, жёсткое угловатое лицо, неопрятные волосы, тяжёлая развязная
+  походка

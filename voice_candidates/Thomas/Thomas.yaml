@@ -17,8 +17,8 @@ who: 'Младший брат Сары, принц Розанны, после у
   Стиль речи: Разговорный, с подростковыми нотками: «Ugh, I can''t stand the guy»,
   растянутые «Pleeease». Как король — канцелярски-вежливый: «Thank you for your council,
   sister».'
-instruct_en: Male, 15-17 years old, slender and still growing into his frame, boyish
-  face, long-limbed with awkward youthful posture
+instruct_en: Male, 15-17 years old, prince, slender and still growing into his frame,
+  boyish face, long-limbed with awkward youthful posture
 texts:
 - Папа? Я так скучал по тебе. Каждую ночь я смотрю на ту старую картину и вспоминаю,
   как ты учил меня держать меч, и мне кажется, что я слышу твой голос, хотя знаю,
@@ -36,5 +36,5 @@ arcs:
 - UnionKingdom
 - VargaMarionPath
 - Other
-instruct_ru: Мужской, 15-17 лет, стройный, ещё не сложившийся, мальчишеское лицо,
-  длинные руки и ноги, неуклюжая юношеская осанка
+instruct_ru: Мужской, 15-17 лет, принц, стройный, ещё не сложившийся, мальчишеское
+  лицо, длинные руки и ноги, неуклюжая юношеская осанка

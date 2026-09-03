@@ -12,8 +12,8 @@ who: 'Маленький сын Сары и Варги в эпилоге (UnionK
 
   Стиль речи: Детская речь с восклицаниями: «No fair!», «But mom, we''re not tired,
   really!», «I promise!», «No mercy for a basilisk!».'
-instruct_en: Male child, 8-14 years old, small and slight with a round boyish face,
-  scrawny limbs, quick scampering movements, fidgety posture
+instruct_en: Male child, 8-14 years old, child, small and slight with a round boyish
+  face, scrawny limbs, quick scampering movements, fidgety posture
 texts:
 - Нечестно! Так нечестно, вы же сами сказали, что я могу играть, а теперь делаете
   вид, что я виноват! Я всё слышал и видел своими глазами, и я хочу, чтобы все знали
@@ -32,5 +32,6 @@ texts:
   пока не придёт время. Вот увидишь, я умею молчать!
 arcs:
 - UnionKingdom
-instruct_ru: Мужской, ребёнок, 8-14 лет, маленький и худенький, с круглым мальчишеским
-  лицом, тонкие руки и ноги, быстрые семенящие движения, непоседливая осанка
+instruct_ru: Мужской, ребёнок, 8-14 лет, ребёнок, маленький и худенький, с круглым
+  мальчишеским лицом, тонкие руки и ноги, быстрые семенящие движения, непоседливая
+  осанка

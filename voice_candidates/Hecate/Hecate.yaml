@@ -13,9 +13,9 @@ who: 'Ведьма Ордена и знаменитая исследовател
 
   Стиль речи: Живая разговорная речь: восклицания, сарказм, преувеличения, перебивки;
   обидчивые риторические вопросы.'
-instruct_en: Female, 30-45 years old, statuesque tall figure with a slender commanding
-  build, sharp elegant features, long dark hair, straight proud posture, unhurried
-  gliding gait
+instruct_en: Female, 30-45 years old, witch and scholar, statuesque tall figure with
+  a slender commanding build, sharp elegant features, long dark hair, straight proud
+  posture, unhurried gliding gait
 texts:
 - Беги, сейчас же, не стой как вкопанная! Посади как можно больше людей на эти корабли
   — каждый час промедления стоит нам жизней. Я задержу их здесь столько, сколько смогу,
@@ -35,6 +35,6 @@ texts:
 arcs:
 - MagePath
 - Other
-instruct_ru: Женский, 30-45 лет, статная высокая фигура, стройное властное телосложение,
-  острые элегантные черты лица, длинные тёмные волосы, прямая горделивая осанка, неторопливая
-  скользящая походка
+instruct_ru: Женский, 30-45 лет, ведьма и исследовательница, статная высокая фигура,
+  стройное властное телосложение, острые элегантные черты лица, длинные тёмные волосы,
+  прямая горделивая осанка, неторопливая скользящая походка

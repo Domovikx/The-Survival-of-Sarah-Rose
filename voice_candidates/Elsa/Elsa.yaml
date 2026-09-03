@@ -13,9 +13,9 @@ who: 'Официантка и дочь хозяина таверны Рэмси 
 
   Стиль речи: Разговорная, эмоциональная, с междометиями, простые фразы и дружеские
   советы.'
-instruct_en: Female, 14-20 years old, small and quick with a lively build, bright
-  round face with a cheeky smile, hair tied back in a practical braid, bouncing energetic
-  step, quick busy hands
+instruct_en: Female, 14-20 years old, waitress, small and quick with a lively build,
+  bright round face with a cheeky smile, hair tied back in a practical braid, bouncing
+  energetic step, quick busy hands
 texts:
 - 'Не обращай на него внимания, он всегда такой: любит пошуметь при гостях, чтобы
   казаться главным. Я за стойкой уже давно и скажу тебе честно — половина его громких
@@ -34,6 +34,6 @@ texts:
   громко. И все возвращаются, потому что я умею слушать.'
 arcs:
 - LifeInRahayal
-instruct_ru: Женский, 14-20 лет, невысокая и проворная, живое телосложение, светлое
-  круглое лицо с дерзкой улыбкой, волосы, собранные в практичную косу, подпрыгивающая
+instruct_ru: Женский, 14-20 лет, официантка, невысокая и проворная, живое телосложение,
+  светлое круглое лицо с дерзкой улыбкой, волосы, собранные в практичную косу, подпрыгивающая
   энергичная походка, быстрые занятые руки

@@ -46,11 +46,14 @@ from voicekit import catalog, paths, tts_env  # noqa: E402
 LOG_PATH = os.path.join(paths.OUTPUT_DIR, 'voice', 'design.log')
 STATS_PATH = paths.CAST_SUMMARY_YAML
 
-TEMPO = "темп речи спокойный, неторопливый, паузы короткие"
-TEMPS = [0.8, 0.95, 1.1, 0.85, 1.0, 0.9, 0.8, 0.95, 1.1, 0.85]
+from voicekit import config as _cfg
 
-MIN_TEXT_LEN = 150   # мин. длина фразы в texts (≈10с речи; 150-250 = 10-20с)
-MAX_TEXT_LEN = 250   # макс: длиннее — риск дрейфа голоса внутри клипа
+TEMPO = _cfg.get('design', 'tempo',
+                 "темп речи спокойный, неторопливый, паузы короткие")
+MIN_TEXT_LEN = int(_cfg.get('design', 'min_text_len', 150))
+MAX_TEXT_LEN = int(_cfg.get('design', 'max_text_len', 250))
+DEFAULT_TEMP = float(_cfg.get('design', 'temperature', 0.9))
+DEFAULT_TOP_P = float(_cfg.get('design', 'top_p', 0.9))
 
 FFMPEG = "ffmpeg"
 FFPROBE = "ffprobe"
@@ -168,8 +171,8 @@ def sample_params(cfg, i):
     Дефолт 0.9/0.9 (проверен, стабилен); переопределяется в yaml полями
     `temperature` и `top_p` (числа, не диапазоны).
     """
-    temp = float(cfg.get("temperature", 0.9))
-    top_p = float(cfg.get("top_p", 0.9))
+    temp = float(cfg.get("temperature", DEFAULT_TEMP))
+    top_p = float(cfg.get("top_p", DEFAULT_TOP_P))
     return temp, top_p
 
 
@@ -244,8 +247,9 @@ def main():
                                              "(Qwen3-TTS VoiceDesign)")
     ap.add_argument('--char', action='append', default=None,
                     help='только этот персонаж (можно несколько раз)')
-    ap.add_argument('--n', type=int, default=3,
-                    help='сколько кандидатов на голос (default 3)')
+    ap.add_argument('--n', type=int,
+                    default=int(_cfg.get('design', 'candidates', 6)),
+                    help='сколько кандидатов на голос (default из конфига)')
     ap.add_argument('--list', action='store_true', help='показать каст и выйти')
     ap.add_argument('--force', action='store_true',
                     help='перегенерировать существующие файлы кандидатов')

@@ -13,8 +13,8 @@ who: 'Ветеран-наёмник из банды Сигмунда, возящ
 
   Стиль речи: Грубая мужская речь с матом и жаргоном дороги, обращения ''girly'',
   философские рассуждения о жизни в дороге; в романтике — ласково-приказной тон.'
-instruct_en: Male, 20-30 years old, lean and wiry with a scarred weathered face, calloused
-  hands, quick agile movements, slouched streetwise stance
+instruct_en: Male, 20-30 years old, mercenary, lean and wiry with a scarred weathered
+  face, calloused hands, quick agile movements, slouched streetwise stance
 texts:
 - Я вырос на этих причалах, красотка, среди бочек, канатов и нечестных сделок, так
   что знаю, где прячут деньги, кто за ними придёт и кому лучше не попадаться в тёмном
@@ -36,5 +36,5 @@ texts:
   и не задавай лишних вопросов.
 arcs:
 - WarriorPath
-instruct_ru: Мужской, 20-30 лет, худощавый и жилистый, со шрамами на обветренном лице,
-  мозолистые руки, быстрые ловкие движения, небрежная уличная осанка
+instruct_ru: Мужской, 20-30 лет, наёмник, худощавый и жилистый, со шрамами на обветренном
+  лице, мозолистые руки, быстрые ловкие движения, небрежная уличная осанка

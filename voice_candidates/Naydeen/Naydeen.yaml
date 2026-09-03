@@ -13,9 +13,9 @@ who: 'Женщина из окружения Хассара в Аль-Гахае
 
   Стиль речи: Плавная, успокаивающая речь с ласковыми оборотами, короткие уверенные
   фразы-приказы в постели.'
-instruct_en: Female, 25-35 years old, tall commanding figure, full-figured and stately,
-  composed face with dark watchful eyes, dark hair gathered up, regal upright posture,
-  unhurried graceful gait
+instruct_en: Female, 25-35 years old, housekeeper, tall commanding figure, full-figured
+  and stately, composed face with dark watchful eyes, dark hair gathered up, regal
+  upright posture, unhurried graceful gait
 texts:
 - 'Я пошла проверить, что здесь происходит, потому что тишина в таких делах — плохой
   знак. Оказалось, что шум — это только начало: за ним потянулись слухи, потом споры,
@@ -34,6 +34,6 @@ texts:
   рушится всё, и эта наука остаётся со мной, что бы ни случилось дальше.
 arcs:
 - HassarPath
-instruct_ru: Женский, 25-35 лет, высокая властная фигура, статная с пышными формами,
-  собранное лицо с тёмными внимательными глазами, тёмные волосы, убранные вверх, царственная
-  прямая осанка, неторопливая грациозная походка
+instruct_ru: Женский, 25-35 лет, домоправительница, высокая властная фигура, статная
+  с пышными формами, собранное лицо с тёмными внимательными глазами, тёмные волосы,
+  убранные вверх, царственная прямая осанка, неторопливая грациозная походка

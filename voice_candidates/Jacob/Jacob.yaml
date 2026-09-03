@@ -13,8 +13,8 @@ who: 'Сын трактирщика Рэмси, работает в семейн
 
   Стиль речи: Предельно скуп: «There we go», «I''m busy right now» — односложные отговорки
   без извинений.'
-instruct_en: Male, 15-20 years old, lanky teenage build, slouching posture, averted
-  gaze, narrow shoulders, restless shuffling feet
+instruct_en: Male, 15-20 years old, innkeeper's son, lanky teenage build, slouching
+  posture, averted gaze, narrow shoulders, restless shuffling feet
 texts:
 - Вот и всё, готово! Ключ от вашей комнаты, держите — не потеряйте, у нас запасных
   нет, а мастер по замкам приходит только раз в месяц, и то не всегда трезвый, так
@@ -33,5 +33,5 @@ texts:
   я до сих пор живу.'
 arcs:
 - LifeInRahayal
-instruct_ru: Мужской, 15-20 лет, долговязая подростковая фигура, сутулая осанка, опущенный
-  взгляд, узкие плечи, ёрзающая семенящая походка
+instruct_ru: Мужской, 15-20 лет, сын трактирщика, долговязая подростковая фигура,
+  сутулая осанка, опущенный взгляд, узкие плечи, ёрзающая семенящая походка

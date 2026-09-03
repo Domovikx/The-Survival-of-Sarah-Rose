@@ -13,8 +13,8 @@ who: 'Крэвел — шпионмейстер королевства, член
 
   Стиль речи: Формальная придворная речь с оговорками («I fear», «to be entirely accurate»),
   уточнениями и анализом; никакой грубости, всё взвешено.'
-instruct_en: Male, 35-50 years old, slender unremarkable build, nondescript face that
-  blends into crowds, hooded watchful eyes, quiet soft-footed movements
+instruct_en: Male, 35-50 years old, spymaster, slender unremarkable build, nondescript
+  face that blends into crowds, hooded watchful eyes, quiet soft-footed movements
 texts:
 - Я служу короне не мечом, а тишиной, и моя работа — знать то, чего не знают другие.
   Чей шёпот в коридоре, чьи следы на пыльной лестнице, чьи письма приходят с чужой
@@ -38,5 +38,5 @@ arcs:
 - Other
 - UnionKingdom
 - VargaMarionPath
-instruct_ru: Мужской, 35-50 лет, худощавая неприметная фигура, невыразительное лицо,
-  тонущее в толпе, настороженные глаза из-под век, тихие бесшумные движения
+instruct_ru: Мужской, 35-50 лет, шпионмейстер, худощавая неприметная фигура, невыразительное
+  лицо, тонущее в толпе, настороженные глаза из-под век, тихие бесшумные движения

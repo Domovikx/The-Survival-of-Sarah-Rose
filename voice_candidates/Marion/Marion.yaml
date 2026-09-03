@@ -15,9 +15,9 @@ who: 'Глава дома Achillea — одной из древнейших ар
 
   Стиль речи: Образованная светская речь, книжные обороты, рассуждения о долге и чести
   семьи; в приватных сценах — резкие короткие приказы и грубость.'
-instruct_en: Male, 20-30 years old, tall and lean with a narrow aristocratic frame,
-  pale handsome face with thin lips and sharp jawline, immaculate dark hair, rigid
-  upright posture, precise elegant gestures
+instruct_en: Male, 20-30 years old, aristocrat, tall and lean with a narrow aristocratic
+  frame, pale handsome face with thin lips and sharp jawline, immaculate dark hair,
+  rigid upright posture, precise elegant gestures
 texts:
 - 'Я вырос среди знати, и меня учили, что слово дворянина стоит дороже золота, а имя
   — дороже жизни. Я не собираюсь менять это правило: даже если весь двор забыл о чести,
@@ -39,6 +39,6 @@ arcs:
 - MarionOrVargaPath
 - NeitherPath
 - MarionPath
-instruct_ru: Мужской, 20-30 лет, высокий и стройный, узкая аристократическая фигура,
-  бледное красивое лицо с тонкими губами и острым подбородком, безупречно уложенные
-  тёмные волосы, жёсткая прямая осанка, точные изящные жесты
+instruct_ru: Мужской, 20-30 лет, аристократ, высокий и стройный, узкая аристократическая
+  фигура, бледное красивое лицо с тонкими губами и острым подбородком, безупречно
+  уложенные тёмные волосы, жёсткая прямая осанка, точные изящные жесты

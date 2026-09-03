@@ -11,8 +11,9 @@ who: 'Слуга в поместье Гилеада (MagePath), старожил
 
   Стиль речи: Простая разговорная речь, лёгкий юмор, самоирония; в постели — короткие
   шёпотом приказы и смешки.'
-instruct_en: Male, 18-28 years old, lean young build, soft friendly face with a wry
-  easy grin, tousled hair, relaxed slouching posture, easy unhurried gait
+instruct_en: Male, 18-28 years old, house servant, lean young build, soft friendly
+  face with a wry easy grin, tousled hair, relaxed slouching posture, easy unhurried
+  gait
 texts:
 - Ага. А что с ней? Ты о той, что приехала на прошлой неделе, или о другой, с которой
   случилась история с простынёй на балконе? В этом доме новости расходятся быстрее,
@@ -31,6 +32,6 @@ texts:
   кому оно идёт.
 arcs:
 - MagePath
-instruct_ru: Мужской, 18-28 лет, стройное молодое телосложение, мягкое дружелюбное
-  лицо с кривой лёгкой усмешкой, взлохмаченные волосы, расслабленная вольная осанка,
-  беспечная неторопливая походка
+instruct_ru: Мужской, 18-28 лет, слуга поместья, стройное молодое телосложение, мягкое
+  дружелюбное лицо с кривой лёгкой усмешкой, взлохмаченные волосы, расслабленная вольная
+  осанка, беспечная неторопливая походка

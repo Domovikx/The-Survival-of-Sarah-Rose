@@ -2,8 +2,8 @@ name: Krip
 gender: M
 age: 25-40
 who: Молчаливый здоровяк-моряк, машет топором (SailorArc). 2 реплик.
-instruct_en: Male, 25-40 years old, huge broad-shouldered build, thick bull neck,
-  massive hands, shaggy unkempt hair, lumbering heavy gait
+instruct_en: Male, 25-40 years old, sailor, huge broad-shouldered build, thick bull
+  neck, massive hands, shaggy unkempt hair, lumbering heavy gait
 texts:
 - Дрова? Где? Я сложил их у западной стены, ровной поленницей, на два вечера, и если
   их кто-то утащил, мне придётся найти этого человека, потому что я не люблю, когда
@@ -22,5 +22,5 @@ texts:
   раньше.'
 arcs:
 - SailorArc
-instruct_ru: Мужской, 25-40 лет, огромная широкоплечая фигура, толстая бычья шея,
-  массивные руки, нечёсаные волосы, тяжёлая грузная поступь
+instruct_ru: Мужской, 25-40 лет, моряк, огромная широкоплечая фигура, толстая бычья
+  шея, массивные руки, нечёсаные волосы, тяжёлая грузная поступь

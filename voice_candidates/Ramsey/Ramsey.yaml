@@ -12,8 +12,9 @@ who: 'Хозяин трактира Dunstin Inn в Рахаяле: семейн�
   и опора.
 
   Стиль речи: Говор с просторечиями, обращения «little lady», ласковые шутки.'
-instruct_en: Male, 40-60 years old, stout portly figure, round ruddy face with a broad
-  grin, thinning hair, booming physical presence, heavy jovial gait, meaty hands
+instruct_en: Male, 40-60 years old, innkeeper, stout portly figure, round ruddy face
+  with a broad grin, thinning hair, booming physical presence, heavy jovial gait,
+  meaty hands
 texts:
 - Я пошёл в трактирщики, потому что люблю кормить людей и видеть, как они светлеют
   лицами над моей похлёбкой; это моё счастье — накормить уставшего путника и послушать,
@@ -32,6 +33,6 @@ texts:
   гостя встречаю, как старого друга.
 arcs:
 - UnionKingdom
-instruct_ru: Мужской, 40-60 лет, дородная тучная фигура, круглое румяное лицо с широкой
-  улыбкой, редеющие волосы, внушительное громогласное присутствие, тяжёлая добродушная
-  походка, мясистые руки
+instruct_ru: Мужской, 40-60 лет, трактирщик, дородная тучная фигура, круглое румяное
+  лицо с широкой улыбкой, редеющие волосы, внушительное громогласное присутствие,
+  тяжёлая добродушная походка, мясистые руки

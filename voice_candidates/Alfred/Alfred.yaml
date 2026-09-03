@@ -14,9 +14,9 @@ who: 'Старик, глава поместья Гилеада (управляю
 
   Стиль речи: Просторечная строгая речь хозяина, приказы и угрозы увольнением; в старости
   — сбивчивый, мямлит, оправдывается; после женитьбы — пафосные клятвы и восторги.'
-instruct_en: Male, 45-60 years old, stout and heavy-set but already fading with age,
-  deeply lined face with sagging jowls, thinning grey hair, slow heavy gait, gnarled
-  hands
+instruct_en: Male, 45-60 years old, estate steward, stout and heavy-set but already
+  fading with age, deeply lined face with sagging jowls, thinning grey hair, slow
+  heavy gait, gnarled hands
 texts:
 - Я держу это заведение уже двадцать лет, девочка, и за это время я научился видеть
   людей насквозь. Стоит мне глянуть, как кто-то входит, и я уже знаю, останется он
@@ -38,6 +38,6 @@ texts:
   а разговоры пусть подождут до утра.'
 arcs:
 - Other
-instruct_ru: Мужской, 45-60 лет, коренастый и грузный, но уже дряхлеющий, глубоко
-  морщинистое лицо с обвисшими щеками, редкие седые волосы, медленная тяжёлая поступь,
-  узловатые руки
+instruct_ru: Мужской, 45-60 лет, управляющий поместьем, коренастый и грузный, но уже
+  дряхлеющий, глубоко морщинистое лицо с обвисшими щеками, редкие седые волосы, медленная
+  тяжёлая поступь, узловатые руки

@@ -15,8 +15,8 @@ who: 'Могущественный маг из древнего ордена, в
 
   Стиль речи: Книжный, церемонный, учительский тон, назидательные монологи о предназначении,
   приказы в кризис.'
-instruct_en: Male, ageless, tall and gaunt with a long angular face, pale sharp features,
-  long slender hands, unhurried imposing stillness
+instruct_en: Male, ageless, mage, tall and gaunt with a long angular face, pale sharp
+  features, long slender hands, unhurried imposing stillness
 texts:
 - 'Я предупреждал тебя не трогать этот камень, но ты, конечно, не послушалась. Теперь
   смотри, что ты наделала: последствия твоей опрометчивости придётся расхлёбывать
@@ -31,5 +31,5 @@ arcs:
 - WarriorPath
 - MagePath
 - HollowWorld
-instruct_ru: Мужской, без возраста, высокий и худой, с удлинённым угловатым лицом,
+instruct_ru: Мужской, без возраста, маг, высокий и худой, с удлинённым угловатым лицом,
   бледные острые черты, длинные тонкие руки, неторопливая внушительная неподвижность

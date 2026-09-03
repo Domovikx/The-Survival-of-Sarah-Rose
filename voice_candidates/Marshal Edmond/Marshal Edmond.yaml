@@ -14,9 +14,9 @@ who: 'Маршал Розанны, участник Совета Союза в �
 
   Стиль речи: Сдержанная, язвительная, афористичная речь; официальные формулировки
   сменяются едкими колкостями и скрытыми угрозами.'
-instruct_en: Male, 40-60 years old, lean and ascetic, gaunt weathered face with deep
-  creases, grey cropped hair, ramrod military posture, brisk economical gait, sinewy
-  hands
+instruct_en: Male, 40-60 years old, marshal, lean and ascetic, gaunt weathered face
+  with deep creases, grey cropped hair, ramrod military posture, brisk economical
+  gait, sinewy hands
 texts:
 - Я командовал войсками в десятках сражений и ни разу не терял головы даже в самой
   отчаянной ситуации. Паника — это роскошь, которую солдат может позволить себе только
@@ -35,6 +35,6 @@ texts:
   правильно, и это лучшее, что я могу сказать.
 arcs:
 - UnionKingdom
-instruct_ru: Мужской, 40-60 лет, худой и аскетичный, обветренное лицо с глубокими
+instruct_ru: Мужской, 40-60 лет, маршал, худой и аскетичный, обветренное лицо с глубокими
   морщинами, седые коротко стриженные волосы, струнная военная осанка, стремительная
   экономная поступь, жилистые руки

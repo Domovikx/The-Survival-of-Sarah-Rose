@@ -15,9 +15,9 @@ who: 'Леди Каролин — казначей королевства, чл�
 
   Стиль речи: Изысканная, обтекаемая придворная речь с притчами (о банкирах и риске),
   наводящими вопросами и формулами «Of course», «quite right».'
-instruct_en: Female, 40-50 years old, stately figure with an upright confident carriage,
-  composed face with fine lines of experience, elegant greying hair, unhurried measured
-  gait, well-kept hands of a court lady
+instruct_en: Female, 40-50 years old, royal treasurer, stately figure with an upright
+  confident carriage, composed face with fine lines of experience, elegant greying
+  hair, unhurried measured gait, well-kept hands of a court lady
 texts:
 - 'Я провела долгие годы, изучая тонкости королевских финансов, отчётности и налоговых
   сборов, и могу с полной уверенностью заявить: ни один банкир этого королевства не
@@ -39,6 +39,6 @@ arcs:
 - Other
 - LifeInRahayal
 - UnionKingdom
-instruct_ru: Женский, 40-50 лет, статная фигура с прямой уверенной осанкой, собранное
-  лицо с тонкими линиями опыта, элегантные седеющие волосы, неторопливая размеренная
-  походка, ухоженные руки придворной дамы
+instruct_ru: Женский, 40-50 лет, королевский казначей, статная фигура с прямой уверенной
+  осанкой, собранное лицо с тонкими линиями опыта, элегантные седеющие волосы, неторопливая
+  размеренная походка, ухоженные руки придворной дамы

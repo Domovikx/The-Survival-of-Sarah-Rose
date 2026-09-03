@@ -14,8 +14,8 @@ who: 'Королева Нормандии, «Тихая королева», пр
 
   Стиль речи: Высокопарно-дипломатичная, приторно-вежливая; при давлении — резкая
   и оскорбительная. Любит метафоры, обращения «gentlemen», «dear».'
-instruct_en: Female, 40-55 years old, stately imposing figure, immaculate regal bearing,
-  severe composed face, slow measured gait, elegant hands
+instruct_en: Female, 40-55 years old, queen, stately imposing figure, immaculate regal
+  bearing, severe composed face, slow measured gait, elegant hands
 texts:
 - 'Раньше мы голосовали тайно, и я уважала эту традицию. Но учитывая, что сегодня
   на кону, я предлагаю голосовать открыто: пусть каждый назовёт своё решение вслух
@@ -35,5 +35,6 @@ texts:
 arcs:
 - UnionKingdom
 - Other
-instruct_ru: Женский, 40-55 лет, статная внушительная фигура, безупречная царственная
-  осанка, суровое собранное лицо, медленная размеренная поступь, изящные руки
+instruct_ru: Женский, 40-55 лет, королева, статная внушительная фигура, безупречная
+  царственная осанка, суровое собранное лицо, медленная размеренная поступь, изящные
+  руки

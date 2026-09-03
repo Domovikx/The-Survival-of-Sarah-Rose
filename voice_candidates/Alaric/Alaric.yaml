@@ -17,8 +17,8 @@ who: 'Уличный карманник-вор из трущоб, спутник
 
   Стиль речи: Уличный сленг: «ain''t ya», «tryna», «girly», «gotta», «aight», мат,
   короткие рубленые фразы, шутки про её «богатое» происхождение.'
-instruct_en: Male, 25-30 years old, lean and wiry with quick agile movements, sharp
-  angular face with a knowing smirk, scruffy unkempt hair, nimble fingers, slouched
+instruct_en: Male, 25-30 years old, thief, lean and wiry with quick agile movements,
+  sharp angular face with a knowing smirk, scruffy unkempt hair, nimble fingers, slouched
   streetwise posture
 texts:
 - Я прошёл через весь город, через эти грязные закоулки и вонючие рынки, только чтобы
@@ -42,6 +42,6 @@ arcs:
 - HollowWorld
 - MagePath
 - Other
-instruct_ru: Мужской, 25-30 лет, худощавый и жилистый, быстрые ловкие движения, острое
-  угловатое лицо с лукавой усмешкой, взлохмаченные волосы, цепкие пальцы, сутулая
+instruct_ru: Мужской, 25-30 лет, вор, худощавый и жилистый, быстрые ловкие движения,
+  острое угловатое лицо с лукавой усмешкой, взлохмаченные волосы, цепкие пальцы, сутулая
   уличная осанка
