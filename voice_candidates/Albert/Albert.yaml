@@ -14,8 +14,8 @@ who: 'Пожилой мастер портняжной мастерской по
 
   Стиль речи: Сначала старомодно-ласковый («Well done, girl!», «Good girl»), потом
   — откровенно-похабный, приказной и угрожающий.'
-instruct_en: Male, 40-60 years old, steady low voice with quiet authority, reserved
-  and controlled, speaks softly and evenly with deliberate calm, understated precision
+instruct_en: Male, 40-60, steady low voice with quiet authority, old estate tailor
+  master, reserved and controlled, soft-spoken, calculating
 texts:
 - Я наблюдал за тобой некоторое время, Сара. Должен признать, ты не разочаровала.
 - Я бы хотел обсудить с тобой одно дело. Не здесь, разумеется.
@@ -25,3 +25,5 @@ texts:
 - Я сказал тебе ровно столько, сколько нужно. Остальное узнаешь, когда придёт время.
 arcs:
 - LifeInRahayal
+instruct_ru: Мужской, 40-60, устойчивый низкий голос с тихим авторитетом, старый мастер-портной
+  поместья, сдержанный и собранный, говорит мягко, расчётливый

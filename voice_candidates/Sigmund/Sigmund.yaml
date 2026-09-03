@@ -14,8 +14,8 @@ who: 'Возница и перевозчик пиррита по Старой д
 
   Стиль речи: Просторечная, с обращением «girl», поговорками и практическими объяснениями
   (пиррит, Старая дорога); тон покровительственный, но справедливый.'
-instruct_en: Male, 25-35 years old, pleasant smooth baritone, charming rogue, sly
-  and persuasive, light mockery
+instruct_en: Male, 25-35, pleasant smooth baritone, wagoner and smuggler, charming
+  rogue, sly and persuasive, light mockery
 texts:
 - Я провёл ночь в лучших тавернах порта и каждую минуту наслаждался компанией весёлых
   людей и отличным вином.
@@ -29,3 +29,5 @@ texts:
   не по плану, потому что настоящий плут всегда имеет запасной выход.
 arcs:
 - SailorArc
+instruct_ru: Мужской, 25-35, приятный плавный баритон, возница и перевозчик, обаятельный
+  плут, хитрый и убедительный, с лёгкой насмешкой

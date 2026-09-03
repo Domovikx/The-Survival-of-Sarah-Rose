@@ -13,9 +13,8 @@ who: 'Член гарема хана Хассара в его санктуме: 
   любовь и доверие.
 
   Стиль речи: Болтливая, восторженная, с восклицаниями, простые искренние объяснения.'
-instruct_en: Female, 18-25 years old, bright lively voice with expressive range, vivacious
-  and quick-tempered, swings easily from cheerful energy to quiet vulnerability, clear
-  mid-range tone with animated intonation
+instruct_en: Female, 18-25, bright lively mid-range voice, vivacious and quick-tempered,
+  expressive animated intonation
 texts:
 - Ты и правда здесь! Новая прибывшая!
 - Я София, приятно познакомиться!
@@ -24,3 +23,5 @@ texts:
 - Ты удивительная. Знаешь об этом?
 arcs:
 - SailorPath
+instruct_ru: Женский, 18-25, яркий живой голос среднего регистра, оживлённая и вспыльчивая,
+  выразительная живая интонация

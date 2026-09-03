@@ -14,8 +14,8 @@ who: 'Маленькая дочь Сары и Варги в финальной �
 
   Стиль речи: Детская непосредственность: «Mom...», «Dad!», восклицания, наивные вопросы
   и короткие фразы.'
-instruct_en: Female child, 8-14 years old, bright clear soprano, playful and eager,
-  quick bouncy speech with delighted inflections, youthful energy
+instruct_en: Female child, 8-14, bright clear soprano, playful and eager, quick and
+  bouncy
 texts:
 - Я говорила тебе, ты был слишком громким!
 - Вы с дядей Томасом никогда не дрались?
@@ -24,3 +24,5 @@ texts:
 - Я знаю секрет. Но не скажу.
 arcs:
 - UnionKingdom
+instruct_ru: Женский, ребёнок, 8-14, яркое чистое сопрано, игривая и восторженная,
+  быстрая и прыгучая

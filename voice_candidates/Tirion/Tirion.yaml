@@ -14,9 +14,8 @@ who: 'Пожилой священник храма в замке Рейнмир,
 
   Стиль речи: Учтивый, книжно-архаичный стиль с молитвенными оборотами, притчи из
   собственной жизни, наставления о терпении.'
-instruct_en: Male, 55-75 years old, reedy quavering voice that wavers with age, gentle
-  and wise, slow deliberate speech with a warm scratchy quality, trembling frailty
-  with steady conviction underneath
+instruct_en: Male, 55-75, reedy quavering voice, elder scholar, gentle and wise, slow
+  deliberate speech, frail but resolute
 texts:
 - Прошу прощения, но ты была так погружена в молитву, я боялся, что любой шум тебя
   напугает.
@@ -26,3 +25,5 @@ texts:
 - Мудрость при не с годами. Она при с болью.
 arcs:
 - UnionKingdom1
+instruct_ru: Мужской, 55-75, тонкий дрожащий голос, старейшина-учёный, мягкий и мудрый,
+  медленная размеренная речь, хрупкий, но решительный

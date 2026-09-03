@@ -129,6 +129,44 @@ def postprocess(wav_path, mp3_path):
     ], capture_output=True)
 
 
+def build_instruct(cfg, i):
+    """Инструкция для кандидата i.
+
+    Ядро (пол/возраст) — из instruct_en. Вариативность — из variations:
+      - instruct_en содержит {style}  -> подставляем variations[i % n]
+      - variations без {style}        -> добавляем через "; "
+      - variations нет                -> как раньше (без вариаций)
+    """
+    base = cfg.get("instruct_en") or ""
+    vars_ = cfg.get("variations") or []
+    if not base:
+        base = (cfg.get("base", "") + "; " +
+                cfg["vars"][i % len(cfg["vars"])]).strip("; ")
+    if vars_:
+        style = vars_[i % len(vars_)]
+        if "{style}" in base:
+            base = base.replace("{style}", style)
+        else:
+            base = base.strip() + "; " + style
+    return base
+
+
+def sample_params(cfg, i):
+    """Семплирование для кандидата i (детерминировано по индексу).
+
+    Параметры выбираются ОДИН раз на клип и применяются ко всей фразе —
+    внутри одного клипа стиль стабилен (вариативность только МЕЖДУ
+    кандидатами). Верхние границы ограничены: слишком высокие
+    температура/top_p дают дрейф голоса на длинных текстах
+    (см. AGENTS.md «Вариативность vs стабильность»).
+    """
+    import random
+    rng = random.Random(i * 7919 + 13)
+    t_lo, t_hi = cfg.get("temperature_span", [0.75, 1.05])
+    p_lo, p_hi = cfg.get("top_p_span", [0.9, 1.0])
+    return rng.uniform(t_lo, t_hi), rng.uniform(p_lo, p_hi)
+
+
 def gen_one(model, dst, char, cfg, i, n):
     """Один кандидат с автодобором длины >= 10с."""
     import soundfile as sf
@@ -139,31 +177,29 @@ def gen_one(model, dst, char, cfg, i, n):
     text = texts[i % len(texts)]
     extra = texts[(i + 1) % len(texts)]
 
-    if cfg.get("instruct_en"):
-        base_instruct = cfg["instruct_en"]
-    else:
-        base_instruct = (cfg.get("base", "") + "; " +
-                         cfg["vars"][i % len(cfg["vars"])]).strip("; ")
+    base_instruct = build_instruct(cfg, i)
+    temp, top_p = sample_params(cfg, i)
     if not base_instruct:
         log("FAIL {} #{}: нет instruct_en в {}".format(char, i + 1, dst))
         return "fail"
 
     attempts = [
         (base_instruct + "; " + TEMPO,
-         text, TEMPS[i % len(TEMPS)]),
+         text, temp, top_p),
         (base_instruct + "; " + TEMPO +
-         "; speak slowly, deliberately, stretching words", text, 0.85),
+         "; speak slowly, deliberately, stretching words", text, 0.85, top_p),
         (base_instruct + "; " + TEMPO +
          "; speak slowly, deliberately, stretching words",
-         text + " " + extra, 0.85),
+         text + " " + extra, 0.85, top_p),
     ]
-    for att, (instruct, t, temp) in enumerate(attempts):
-        log("== {} #{}/{} try{}".format(char, i + 1, n, att + 1))
+    for att, (instruct, t, temp, p) in enumerate(attempts):
+        log("== {} #{}/{} try{} temp={:.2f} top_p={:.2f}".format(
+            char, i + 1, n, att + 1, temp, p))
         try:
             t1 = time.time()
             wavs, sr = model.generate_voice_design(
                 text=t, instruct=instruct, language="Russian",
-                do_sample=True, temperature=temp, top_p=0.9,
+                do_sample=True, temperature=temp, top_p=p,
                 max_new_tokens=4096)
             gen_s = time.time() - t1
             dur = len(wavs[0]) / sr

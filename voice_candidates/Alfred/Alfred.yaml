@@ -14,9 +14,8 @@ who: 'Старик, глава поместья Гилеада (управляю
 
   Стиль речи: Просторечная строгая речь хозяина, приказы и угрозы увольнением; в старости
   — сбивчивый, мямлит, оправдывается; после женитьбы — пафосные клятвы и восторги.'
-instruct_en: Male, 45-60 years old, hearty warm baritone with a slight rasp, jolly
-  innkeeper, speaks with enthusiasm and a grin in his voice, gruff but kind, booming
-  and welcoming
+instruct_en: Male, 45-60, hearty warm baritone with slight rasp, innkeeper, jolly,
+  gruff but kind, welcoming
 texts:
 - Я держу это заведение уже двадцать лет, девочка. И за это время я научился видеть
   людей насквозь.
@@ -28,3 +27,5 @@ texts:
 - Я налил тебе самого лучшего, что у меня есть. Не спрашивай, откуда оно.
 arcs:
 - Other
+instruct_ru: Мужской, 45-60, сердечный тёплый баритон с лёгкой сипотцой, трактирщик,
+  весёлый, грубоватый, но добрый, гостеприимный

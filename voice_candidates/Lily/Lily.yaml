@@ -14,8 +14,8 @@ who: 'Юная дворянка из рода Хайфилд: родня-пре�
 
   Стиль речи: резкая, эмоциональная, с ругательствами и пафосными клятвами («I swear
   on everything in heaven...»), обращения «Princess Sarah».'
-instruct_en: Female, 18-25 years old, clear youthful soprano with noble bearing, earnest
-  and sincere, spirited with sharp conviction, medium-paced, crisp elegant articulation.
+instruct_en: Female, 18-25, clear youthful soprano with noble bearing, noble knight,
+  earnest and sincere, spirited with sharp conviction
 texts:
 - Что твой тупой шпионмейстер пытается тебе сказать — что мы не Хайфилды?
 - Я пошла к трону, потому что это мой долг.
@@ -24,3 +24,5 @@ texts:
 - Я принесла клятву. И я сдержу её, чего бы это ни стоило.
 arcs:
 - UnionKingdom
+instruct_ru: Женский, 18-25, чистый юный сопрано с благородной осанкой, рыцарь-дворянка,
+  искренняя и серьёзная, живая с острым убеждением

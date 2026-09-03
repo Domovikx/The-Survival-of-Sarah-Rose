@@ -14,9 +14,8 @@ who: 'Благородная леди с восточной границы, за
 
   Стиль речи: Утончённая, ровная, немного отстранённая речь знатной леди; склонна
   к самоанализу и мягкой самоиронии.'
-instruct_en: Female, 20-28 years old, soft gentle voice with a delicate Eastern timbre,
-  careful precise articulation, polite and slightly reserved, speaks quietly with
-  a subtle foreign cadence
+instruct_en: Female, 20-28, soft gentle voice with a delicate Eastern timbre, polite
+  and reserved, careful precise articulation
 texts:
 - Я пошла к ним в гости и сразу поняла, что здесь всё по-другому.
 - Я делала всё, что могла, но они всё равно остались холодны.
@@ -25,3 +24,5 @@ texts:
 - Я скучаю по дому, но здесь тоже есть своё очарование.
 arcs:
 - HassarPath
+instruct_ru: Женский, 20-28, мягкий нежный голос с тонким восточным тембром, вежливая
+  и сдержанная, аккуратная точная артикуляция

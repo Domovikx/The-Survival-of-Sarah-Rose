@@ -14,9 +14,8 @@ who: 'Губернатор провинции Розайи (бывшей Роз�
 
   Стиль речи: Витиеватая лесть и церемонные обороты; в панике — обрывочные мольбы
   и крики.'
-instruct_en: Male, 40-55 years old, commanding resonant baritone, loud and booming
-  when needed, formal military delivery, dignified report cadence, authoritative and
-  proud, slightly gravelly, the voice of a general addressing his khan.
+instruct_en: Male, 40-55, commanding resonant baritone, general, authoritative and
+  proud, formal military delivery, slightly gravelly
 texts:
 - Великий хан, ты оказываешь мне честь своим доверием.
 - Я вёл кампанию тридцать лет и не проиграл ни одного сражения.
@@ -25,3 +24,5 @@ texts:
 - Мой меч служит хану. Моё сердце бьётся в такт его воли.
 arcs:
 - WarriorPath
+instruct_ru: Мужской, 40-55, властный резонансный баритон, генерал, авторитетный и
+  гордый, формальная военная подача, слегка хриплый

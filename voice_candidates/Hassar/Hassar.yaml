@@ -14,9 +14,8 @@ who: 'Хан орды Пустыни Майяни, завоеватель Роз
 
   Стиль речи: Формально-величавый тон, обращения «Princess Sarah Rose», лекции о природе
   власти, спокойные угрозы, старомодный пафос.'
-instruct_en: Male, 35-45 years old, deep booming bass with velvet menace, powerful
-  resonant chest tone, charismatic unhurried delivery, rolls words with conquering
-  confidence, slight purr of threat beneath the calm, giant presence in every syllable.
+instruct_en: Male, 35-45, deep booming bass with velvet menace, khan and conqueror,
+  charismatic, imperious, quietly menacing
 texts:
 - Я зашёл убедиться, что тебя хорошо приняли. Но вижу, мои девушки уже устроили тебя
   лучше, чем я мог ожидать.
@@ -27,3 +26,5 @@ texts:
 arcs:
 - HassarPath
 - Other
+instruct_ru: Мужской, 35-45, глубокий громоподобный бас с бархатной угрозой, хан-завоеватель,
+  харизматичный, надменный, с тихой угрозой

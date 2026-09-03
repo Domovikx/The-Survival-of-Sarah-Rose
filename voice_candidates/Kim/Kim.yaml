@@ -14,9 +14,8 @@ who: 'Соседка Сары по бараку прислуги в помест
 
   Стиль речи: Разговорная просторечная речь: «Nah», «ain''t nobody», байки о жизни,
   сальные шутки, житейские притчи о богачах и беременных горничных.'
-instruct_en: Female, 18-20 years old, bright lively youthful voice with a clear ringing
-  timbre, cheerful and chatty, quick light-footed pace, playful warmth with a hint
-  of mischief.
+instruct_en: Female, 18-20, bright lively youthful voice, maid servant, cheerful and
+  chatty, playful, mischievous
 texts:
 - Я тут прибираю уже год, и поверь, я знаю каждый угол этого дома лучше хозяев.
 - Я видела, как ты приехала. Сразу подумала, что нам будет о чём поговорить.
@@ -26,3 +25,5 @@ texts:
 - Я всегда знала, что уеду отсюда. Осталось только понять, куда и когда.
 arcs:
 - Other
+instruct_ru: Женский, 18-20, яркий живой юный голос, служанка, весёлая и болтливая,
+  игривая, с озорством

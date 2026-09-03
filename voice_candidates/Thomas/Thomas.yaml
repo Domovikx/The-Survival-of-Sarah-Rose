@@ -17,9 +17,8 @@ who: 'Младший брат Сары, принц Розанны, после у
   Стиль речи: Разговорный, с подростковыми нотками: «Ugh, I can''t stand the guy»,
   растянутые «Pleeease». Как король — канцелярски-вежливый: «Thank you for your council,
   sister».'
-instruct_en: Male, 15-17 years old, soft youthful tenor, slightly unsteady and delicate,
-  sincere and earnest, gentle hesitant delivery that grows steadier with confidence,
-  boyish warmth in every word
+instruct_en: Male, 15-17, soft youthful tenor, young prince, sincere and earnest,
+  hesitant, boyish warmth
 texts:
 - Папа? Я так скучал по тебе. Каждую ночь я смотрю на ту старую картину и вспоминаю,
   как ты учил меня держать меч.
@@ -34,3 +33,5 @@ arcs:
 - UnionKingdom
 - VargaMarionPath
 - Other
+instruct_ru: Мужской, 15-17, мягкий юный тенор, юный принц, искренний и серьёзный,
+  запинающийся от неуверенности, мальчишеская теплота

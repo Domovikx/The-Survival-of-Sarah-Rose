@@ -13,9 +13,8 @@ who: 'Городской охотник приграничного городк�
   мэр — противник массовой зачистки леса; Бестия — главный враг.
 
   Стиль речи: Просторечная, резкая, с местным колоритом, проклятия и житейская мудрость.'
-instruct_en: Male, 30-45 years old, businesslike friendly voice, mid-range with brisk
-  practical tone, clear upbeat articulation, helpful and direct, quick conversational
-  pace of a man who deals with people all day.
+instruct_en: Male, 30-45, brisk businesslike friendly voice, helpful and direct, upbeat
+  and practical
 texts:
 - Ну, тот, кто вам это сказал, должно быть, идиот.
 - Я помогал многим людям в этом городе. Не вижу причины не помогать и тебе.
@@ -24,3 +23,5 @@ texts:
 - А вы, полагаю, Рыцарь Розы. Рад знакомству.
 arcs:
 - WarriorPath
+instruct_ru: Мужской, 30-45, бойкий деловой дружелюбный голос, услужливый и прямой,
+  жизнерадостный и практичный

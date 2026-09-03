@@ -12,9 +12,8 @@ who: 'Дио — «сестра по войне» Кассия, митрийск
 
   Стиль речи: Ровная, книжная речь без просторечий, афоризмы, риторические вопросы,
   спокойная уверенность.'
-instruct_en: Female, 20-30 years old, stern gritty warrior voice, slightly low register,
-  direct and blunt delivery, hardened by battle, with a spark of dry defiance beneath
-  the severity.
+instruct_en: Female, 20-30, stern gritty warrior voice, slightly low register, direct
+  and blunt, hardened by battle, dry defiance
 texts:
 - Я пошла за Кассием, потому что он мой брат. Не потому что он прав.
 - Я дралась с ними и не проиграла ни разу. Хочешь проверить?
@@ -24,3 +23,5 @@ texts:
 arcs:
 - BlackMonolith
 - Other
+instruct_ru: Женский, 20-30, суровый жёсткий голос воительницы, чуть низкий регистр,
+  прямолинейная и резкая, закалённая боем, сухое своеволие

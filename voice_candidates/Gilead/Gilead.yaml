@@ -15,9 +15,8 @@ who: 'Влиятельный политик Империи, слуга Вечн�
 
   Стиль речи: Короткие властные приказы и допросы, сарказм, риторические вопросы;
   любит говорить загадками и полунамёками.'
-instruct_en: Male, 40-60 years old, low stern voice with cold authority, precise deliberate
-  articulation, unyielding measured cadence, slight condescension, every word weighted
-  like an order from a master of the house, no warmth.
+instruct_en: Male, 40-60, low stern voice with cold authority, precise deliberate
+  articulation, unyielding, no warmth
 texts:
 - Я построил это поместье своими руками, и я требую порядка. Мой дом, мои правила.
 - Я бы не советовал тебе испытывать моё терпение. Оно короче, чем кажется.
@@ -28,3 +27,5 @@ texts:
 arcs:
 - MagePath
 - BlackMonolith
+instruct_ru: Мужской, 40-60, низкий суровый голос с холодной властностью, точная размеренная
+  артикуляция, непреклонный, без тепла

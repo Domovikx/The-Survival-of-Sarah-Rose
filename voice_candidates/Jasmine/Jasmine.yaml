@@ -15,9 +15,8 @@ who: 'Картографша орды, партнёрша Джаейда по р
 
   Стиль речи: Разговорно-колкий, с иронией и грубоватыми шутками, деловые термины
   картографии, откровенные предупреждения без смягчения.'
-instruct_en: Female, 20-28 years old, warm feminine voice, soft rounded timbre, lively
-  affectionate tone, quick familiar chatter, gentle exasperation with an undertone
-  of care, the voice of a woman who scolds you because she loves you.
+instruct_en: Female, 20-28, warm soft rounded voice, affectionate, lively, scolding
+  with care
 texts:
 - Какого чёрта ты устроил такой жуткий шум?
 - Клянусь, ты дома ни минуты, а я уже на взводе!
@@ -26,3 +25,5 @@ texts:
 - Ты всегда был таким беспокойным? Или это новая черта?
 arcs:
 - HassarPath
+instruct_ru: Женский, 20-28, тёплый мягкий округлый голос, ласковая, живая, ворчит
+  с заботой

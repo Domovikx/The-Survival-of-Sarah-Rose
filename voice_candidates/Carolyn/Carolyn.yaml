@@ -15,8 +15,8 @@ who: 'Леди Каролин — казначей королевства, чл�
 
   Стиль речи: Изысканная, обтекаемая придворная речь с притчами (о банкирах и риске),
   наводящими вопросами и формулами «Of course», «quite right».'
-instruct_en: Female, 40-50 years old, mature velvet soprano, businesslike with warm
-  condescension, experienced and calculating, elegant court speech
+instruct_en: Female, 40-50, mature velvet soprano, businesslike with warm condescension,
+  experienced and calculating
 texts:
 - Я провела годы, изучая тонкости королевских финансов, и могу с уверенностью сказать,
   что ни один банкир не сравнится со мной в расчётах.
@@ -33,3 +33,5 @@ arcs:
 - Other
 - LifeInRahayal
 - UnionKingdom
+instruct_ru: Женский, 40-50, зрелое бархатное сопрано, деловая с тёплым снисхождением,
+  опытная и расчётливая

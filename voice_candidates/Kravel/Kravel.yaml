@@ -13,9 +13,8 @@ who: 'Крэвел — шпионмейстер королевства, член
 
   Стиль речи: Формальная придворная речь с оговорками («I fear», «to be entirely accurate»),
   уточнениями и анализом; никакой грубости, всё взвешено.'
-instruct_en: Male, 35-50 years old, quiet low baritone with a dry hushed texture,
-  sly and calculating, speaks slowly and deliberately in soft measured phrases, the
-  careful murmur of a spymaster.
+instruct_en: Male, 35-50, quiet low dry baritone, spymaster, sly and calculating,
+  slow deliberate speech
 texts:
 - Я служу короне не мечом, а тишиной. Моя работа — знать то, чего не знают другие.
 - Я бы не советовал вам обсуждать это вслух. У стен этого замка длинные уши.
@@ -27,3 +26,5 @@ arcs:
 - Other
 - UnionKingdom
 - VargaMarionPath
+instruct_ru: Мужской, 35-50, тихий низкий сухой баритон, мастер шпионажа, хитрый и
+  расчётливый, медленная размеренная речь

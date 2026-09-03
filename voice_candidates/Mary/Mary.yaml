@@ -14,8 +14,8 @@ who: 'Пожилая рабыня-розанка в лагере кочевни�
 
   Стиль речи: Просторечная, с диалектными оборотами, откровенная до грубости, с чёрным
   юмором; объясняет законы лагеря и обычаи племени.'
-instruct_en: Female, 30-50 years old, warm earthy mezzo with a folksy lilt, cozy and
-  hearty, unhurried chatter of the kitchen, soft rasp of years of hard work.
+instruct_en: Female, 30-50, warm earthy mezzo, kitchen matron, cozy and hearty, unhurried,
+  soft rasp of hard work
 texts:
 - Значит, он повеселился с тобой? Ну и правильно.
 - Конечно, говорю. Говорю на нём дольше, чем ты живёшь.
@@ -24,3 +24,5 @@ texts:
 - Еда — это любовь. Если я кормлю тебя, значит, я люблю тебя.
 arcs:
 - Other
+instruct_ru: Женский, 30-50, тёплый земной меццо, хозяйка кухни, уютная и сердечная,
+  неторопливая, лёгкая хрипотца от тяжёлой работы

@@ -16,9 +16,8 @@ who: 'Гордый правитель древней династии город
 
   Стиль речи: Величественный, приказной, риторический; пафосные речи о династии и
   чести; без единой фамильярности — только титулы и приказы.'
-instruct_en: Male, 40-60 years old, commanding baritone with imperious arrogance,
-  despotic ruler, haughty and dismissive delivery, slow deliberate speech with an
-  edge of hunted desperation beneath the authority
+instruct_en: Male, 40-60, commanding baritone with imperious arrogance, despotic ruler,
+  haughty and dismissive, slow deliberate speech
 texts:
 - Волшебник, ты вернулся с фронта.
 - Скажи мне, как идёт битва?
@@ -28,3 +27,5 @@ texts:
 arcs:
 - WarriorPath
 - MagePath
+instruct_ru: Мужской, 40-60, властный баритон с высокомерной надменностью, деспотичный
+  правитель, заносчивый и пренебрежительный, медленная размеренная речь

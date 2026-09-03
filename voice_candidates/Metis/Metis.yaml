@@ -15,8 +15,8 @@ who: 'Маг Ордена, бывший ученик Ксана, которог�
   Стиль речи: Вежливая, витиеватая речь старой школы с междометиями-восклицаниями,
   мягкие намёки вместо прямых вопросов; в преподавании — чёткие объяснения и практический
   подход.'
-instruct_en: Male, 30-60 years old, medium-low baritone, good-natured confidence,
-  slight mockery, lively storyteller, friendly
+instruct_en: Male, 30-60, medium-low baritone, good-natured confidence, slight mockery,
+  lively storyteller
 texts:
 - Я путешествовал по самым далёким землям и видел столько чудес, что мне порой кажется,
   будто я прожил несколько жизней одновременно.
@@ -30,3 +30,5 @@ texts:
   времена стоит находить поводы для улыбки и радости.
 arcs:
 - BlackMonolith
+instruct_ru: Мужской, 30-60, средне-низкий баритон, добродушная уверенность, лёгкая
+  насмешка, живой рассказчик

@@ -14,9 +14,7 @@ who: 'Варга Нортвуд — молодой военный гений и�
 
   Стиль речи: Говорит по делу, без пафоса, по-военному конкретно (планы осад: артиллерия,
   шпионы, слабые участки стен), при дворе — формальные вежливые обороты.'
-instruct_en: Male, 20-25 years old, mid-range steady voice, calm and measured, quiet
-  and taciturn with buried intensity, speaks rarely and deliberately, soft rough texture
-  with loyal warmth beneath the stillness
+instruct_en: Male, 20-25, mid steady voice, soldier, calm and reserved
 texts:
 - Я не люблю говорить о прошлом. Оно там, где ему и место, и пусть остаётся. Моя клятва
   тебе значит больше.
@@ -30,3 +28,4 @@ arcs:
 - Prologue
 - VargaPath
 - UnionKingdom
+instruct_ru: Мужской, 20-25, средний устойчивый голос, солдат, спокойный и сдержанный

@@ -13,9 +13,8 @@ who: 'Хью — теневой делец: сдаёт «тихую» комна
   Сарой — хозяин-вымогатель; со стражами — купленные связи.
 
   Стиль речи: Просторечие с матом, короткие деловые фразы о деньгах, услугах и рисках.'
-instruct_en: Male, 25-40 years old, sharp tenacious voice with a calculating edge,
-  quick clipped delivery, slightly nasal merchant's tone, shrewd and impatient, the
-  manner of a man who weighs every word in coin, brisk and transactional.
+instruct_en: Male, 25-40, sharp nasal merchant's voice, shrewd and impatient, brisk
+  and transactional
 texts:
 - Можешь льстить сколько угодно, Аларик. Я не продешу.
 - Я пошёл на эту сделку, потому что вижу выгоду.
@@ -24,3 +23,5 @@ texts:
 - Мои глаза видят золото там, где другие видят мусор.
 arcs:
 - Other
+instruct_ru: Мужской, 25-40, резкий гнусавый голос торговца, проницательный и нетерпеливый,
+  деловой и прагматичный

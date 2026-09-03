@@ -21,6 +21,7 @@ try:
         age: str = '?'
         who: str = ''
         instruct_en: str = ''
+        instruct_ru: str = ''
         texts: list = Field(default_factory=list)
 
     PYDANTIC = True

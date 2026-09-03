@@ -13,9 +13,8 @@ who: 'Официантка и дочь хозяина таверны Рэмси 
 
   Стиль речи: Разговорная, эмоциональная, с междометиями, простые фразы и дружеские
   советы.'
-instruct_en: Female, 14-20 years old, young bright voice, lively and quick, spirited
-  and cheeky, playful rising intonations, unpolished and direct like a girl raised
-  in a tavern.
+instruct_en: Female, 14-20, young bright voice, tavern girl, lively and cheeky, spirited
+  and direct
 texts:
 - Не обращай на него внимания. Он всегда такой.
 - Я выросла в таверне, так что к грубым мужикам привыкла.
@@ -24,3 +23,5 @@ texts:
 - Мне нравится эта работа. Люди приходят и уходят, а я слышу их истории.
 arcs:
 - LifeInRahayal
+instruct_ru: Женский, 14-20, молодой яркий голос, девушка из таверны, живая и дерзкая,
+  задорная и прямолинейная

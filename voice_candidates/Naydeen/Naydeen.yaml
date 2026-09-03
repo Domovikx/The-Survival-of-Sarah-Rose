@@ -13,9 +13,8 @@ who: 'Женщина из окружения Хассара в Аль-Гахае
 
   Стиль речи: Плавная, успокаивающая речь с ласковыми оборотами, короткие уверенные
   фразы-приказы в постели.'
-instruct_en: Female, 25-35 years old, warm mezzo-soprano with natural authority, calm
-  and commanding presence, speaks with measured confidence, slightly lower register,
-  unhurried pace, the kind of voice that makes people listen without raising it
+instruct_en: Female, 25-35, warm mezzo-soprano with natural authority, calm and commanding,
+  measured and unhurried
 texts:
 - Я пошла проверить, что здесь происходит. Оказалось, что шум — это только начало.
 - Я делала то, что считала нужным. Не оправдываюсь ни перед кем.
@@ -24,3 +23,5 @@ texts:
 - Меня не сломали в молодости, не сломают и сейчас.
 arcs:
 - HassarPath
+instruct_ru: Женский, 25-35, тёплое меццо-сопрано с естественным авторитетом, спокойная
+  и властная, размеренная и неторопливая

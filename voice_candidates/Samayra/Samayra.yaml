@@ -14,8 +14,8 @@ who: 'Дочь шаха Баграда, спасённая Сарой из ру�
 
   Стиль речи: Вежливая, с восторженными повторами благодарности, позже — тёплая лирика
   признаний и сухие формальные военные доклады.'
-instruct_en: Female, 17-19 years old, soft warm soprano, naive and trusting, gentle
-  princess, innocent and tender
+instruct_en: Female, 17-19, soft warm soprano, gentle princess, naive and trusting,
+  innocent and tender
 texts:
 - Я выросла во дворце, где каждый день был наполнен праздниками и радостью, но теперь
   я понимаю, что настоящая ценность — это близость людей, которых ты любишь.
@@ -31,3 +31,5 @@ arcs:
 - WarriorPath
 - MagePath
 - HollowWorld
+instruct_ru: Женский, 17-19, мягкий тёплый сопрано, нежная принцесса, наивная и доверчивая,
+  невинная и трогательная

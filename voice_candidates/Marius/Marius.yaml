@@ -13,8 +13,8 @@ who: 'Мариус — сын фермера Альфреда из Гэллоу-
 
   Стиль речи: Деревенское просторечие: «Ain''t never got enough hands», вежливые «sir»,
   «sorry bout».'
-instruct_en: Male, 25-35 years old, bright friendly tenor with an easy charm, energetic
-  and streetwise, quick casual delivery with a warm grin in the voice.
+instruct_en: Male, 25-35, bright friendly tenor with an easy charm, energetic and
+  streetwise, quick casual delivery
 texts:
 - Меня, кстати, зовут Мариус.
 - Взаимно, Сара, верно?
@@ -24,3 +24,5 @@ texts:
 arcs:
 - AlfredArc
 - Other
+instruct_ru: Мужской, 25-35, яркий дружелюбный тенор с лёгким обаянием, энергичный
+  и уличный, быстрая непринуждённая подача

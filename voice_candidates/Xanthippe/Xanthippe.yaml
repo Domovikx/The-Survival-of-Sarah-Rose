@@ -15,8 +15,8 @@ who: 'Могущественный маг из древнего ордена, в
 
   Стиль речи: Книжный, церемонный, учительский тон, назидательные монологи о предназначении,
   приказы в кризис.'
-instruct_en: Male, ageless, deep resonant bass with dry menace, measured and deliberate,
-  each word precisely placed, slight echo of centuries
+instruct_en: Male, ageless, deep resonant bass, measured and deliberate, dry menace,
+  precise speech
 texts:
 - Я предупреждал тебя не трогать этот камень. Теперь смотри, что ты наделала. Исправлять
   всегда труднее, чем слушать.
@@ -28,3 +28,5 @@ arcs:
 - WarriorPath
 - MagePath
 - HollowWorld
+instruct_ru: Мужской, без возраста, глубокий резонансный бас, размеренный и обдуманный,
+  сухая угроза, точная речь

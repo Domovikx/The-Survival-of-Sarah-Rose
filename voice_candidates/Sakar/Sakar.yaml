@@ -13,8 +13,8 @@ who: 'Ветеран-наёмник из банды Сигмунда, возящ
 
   Стиль речи: Грубая мужская речь с матом и жаргоном дороги, обращения ''girly'',
   философские рассуждения о жизни в дороге; в романтике — ласково-приказной тон.'
-instruct_en: Male, 20-30 years old, mid-low streetwise rasp, cocky and cynical, fast
-  clipped speech of a port rat, slight sneer in the delivery
+instruct_en: Male, 20-30, mid-low streetwise rasp, cocky and cynical, fast clipped
+  speech of a port rat, slight sneer
 texts:
 - Я вырос на этих причалах, красотка. Я знаю, где прячут деньги, и знаю, кто за ними
   придёт.
@@ -25,3 +25,5 @@ texts:
 - Я проложил дорогу через порт так, что нас не увидела ни одна стража. Иди за мной.
 arcs:
 - WarriorPath
+instruct_ru: Мужской, 20-30, средне-низкий уличный сиплый голос, наглый и циничный,
+  быстрая отрывистая речь портового крысёныша, лёгкая усмешка

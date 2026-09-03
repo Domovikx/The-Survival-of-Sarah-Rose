@@ -14,9 +14,8 @@ who: 'Эмиссар хана Хассара, уроженец касты слу
 
   Стиль речи: Уважительно-формальный («princess», «Great Khan», «my Lady»), переходящий
   в поэтичные ухаживания. Отточенные формулы чести и восточная дипломатичность.'
-instruct_en: Male, 25-40 years old, medium steady voice, calm and grounded, warm undertone
-  beneath firm resolve, unhurried desert-warrior cadence, honorable and soft-spoken,
-  low resonant texture with quiet dignity in every phrase.
+instruct_en: Male, 25-40, calm steady voice, desert emissary, honorable and soft-spoken,
+  gentle, with quiet dignity
 texts:
 - Я купил тебя, потому что иначе тебя купил бы кто-то хуже. Я не хочу быть твоим хозяином.
 - Я был рабом, когда был мальчиком. Я помню, каково это, и не стану делать так с тобой.
@@ -29,3 +28,5 @@ arcs:
 - WarArc
 - LifeInRahayal
 - Other
+instruct_ru: Мужской, 25-40, спокойный устойчивый голос, эмиссар пустыни, честный
+  и тихий, мягкий, с тихим достоинством

@@ -11,8 +11,8 @@ who: 'Слуга в поместье Гилеада (MagePath), старожил
 
   Стиль речи: Простая разговорная речь, лёгкий юмор, самоирония; в постели — короткие
   шёпотом приказы и смешки.'
-instruct_en: Male, 18-28 years old, light mid-range tenor, casual and friendly, relaxed
-  conversational pace with a slightly amused drawl, easy-going tone
+instruct_en: Male, 18-28, light mid-range tenor, house servant, casual and friendly,
+  easy-going, wry humor
 texts:
 - Ага. А что с ней?
 - Имя? Разве она не свалила через две недели?
@@ -21,3 +21,5 @@ texts:
 - Ты всегда такой серьёзный? Или это новое?
 arcs:
 - MagePath
+instruct_ru: Мужской, 18-28, лёгкий средний тенор, слуга поместья, непринуждённый
+  и дружелюбный, беспечный, с ироничным юмором

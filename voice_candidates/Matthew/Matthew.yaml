@@ -13,8 +13,8 @@ who: 'Главный тюремщик западного крыла тюрьмы
 
   Стиль речи: Канцелярско-наставительный тон с просторечиями, нумерация и правила,
   изредка сухой юмор.'
-instruct_en: Male, 25-40 years old, flat hard baritone, stern and officious, clipped
-  cold delivery, disciplined prison officer with no warmth.
+instruct_en: Male, 25-40, flat hard baritone, prison officer, stern and officious,
+  cold and clipped
 texts:
 - Вставай, заключённая.
 - Новичок?
@@ -23,3 +23,5 @@ texts:
 - Закон — это закон. Я его исполняю.
 arcs:
 - SailorPath
+instruct_ru: Мужской, 25-40, плоский жёсткий баритон, тюремный надзиратель, суровый
+  и чопорный, холодный и отрывистый

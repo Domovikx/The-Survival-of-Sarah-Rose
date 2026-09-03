@@ -25,6 +25,11 @@
       "title": "Instruct En",
       "type": "string"
     },
+    "instruct_ru": {
+      "default": "",
+      "title": "Instruct Ru",
+      "type": "string"
+    },
     "texts": {
       "items": {},
       "title": "Texts",

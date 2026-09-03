@@ -13,9 +13,8 @@ who: 'Сын трактирщика Рэмси, работает в семейн
 
   Стиль речи: Предельно скуп: «There we go», «I''m busy right now» — односложные отговорки
   без извинений.'
-instruct_en: Male, 15-20 years old, youthful light tenor, eager and polite, quick
-  service-industry pacing, clear bright articulation with a touch of nervousness,
-  warm and accommodating, the voice of a boy who wants to be helpful.
+instruct_en: Male, 15-20, youthful light tenor, eager and polite, quick service-industry
+  pacing, warm and accommodating
 texts:
 - Вот и всё. Ключ от комнаты.
 - Я подменил постель и убрал со стола. Что ещё нужно?
@@ -24,3 +23,5 @@ texts:
 - Я делал то, что просили. Не спорил, не жаловался.
 arcs:
 - LifeInRahayal
+instruct_ru: Мужской, 15-20, юный лёгкий тенор, восторженный и вежливый, быстрый темп
+  работника обслуживания, тёплый и услужливый

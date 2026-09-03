@@ -19,7 +19,7 @@ who: 'Древний дух иной расы, чей мир тысячелет�
   риторические вопросы, слова прощания и пророчества. Тон — спокойный, вещий, с редкими
   всплесками эмоций.'
 instruct_en: Male, ageless, deep resonant bass with dry menace, measured and deliberate,
-  each word precisely placed, slight echo of centuries
+  echo of centuries
 texts:
 - Это моя истинная форма. Твой мир, твои боги, твои страхи — всё это лишь отголоски
   меня самого.
@@ -31,3 +31,5 @@ arcs:
 - WarriorPath
 - BlackMonolith
 - MagePath
+instruct_ru: Мужской, без возраста, глубокий резонансный бас с сухой угрозой, размеренный
+  и обдуманный, эхо веков

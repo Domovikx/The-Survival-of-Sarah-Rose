@@ -14,8 +14,8 @@ who: 'Маршал Розанны, участник Совета Союза в �
 
   Стиль речи: Сдержанная, язвительная, афористичная речь; официальные формулировки
   сменяются едкими колкостями и скрытыми угрозами.'
-instruct_en: Male, 40-60 years old, low gruff baritone, military bearing, sarcastic
-  and rough, veteran commander's rasp.
+instruct_en: Male, 40-60, low gruff baritone with veteran rasp, marshal, sarcastic,
+  rough, coldly blunt
 texts:
 - Я командовал войсками в десятках сражений, и ни разу не терял головы даже в самой
   отчаянной ситуации на поле боя.
@@ -29,3 +29,5 @@ texts:
   вежливость может стоить тебе жизни.
 arcs:
 - UnionKingdom
+instruct_ru: Мужской, 40-60, низкий грубый баритон с сиплостью ветерана, маршал, саркастичный,
+  резкий, холодно-прямолинейный

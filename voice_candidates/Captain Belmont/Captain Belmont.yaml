@@ -14,8 +14,8 @@ who: 'Капитан корабля, на котором Сара плывёт �
 
   Стиль речи: Просторечный, морской жаргон: «draw up the anchor», «rigged the sails»,
   грубые приказы, сальные намёки, насмешливые обращения «Blondie», «come on now».'
-instruct_en: Male, 40-50 years old, low raspy smoker's voice, weathered and direct,
-  gruff speech with rolling intonations, worn but strong
+instruct_en: Male, 40-50, low raspy smoker's voice, sea captain, weathered and direct,
+  gruff but strong
 texts:
 - Я думал, это ты, но не был до конца уверен. Море меняет людей, знаешь ли. Оно и
   соли, и седины добавляет.
@@ -27,3 +27,5 @@ arcs:
 - Other
 - SailorPath
 - MagePath
+instruct_ru: Мужской, 40-50, низкий хриплый голос курильщика, морской капитан, обветренный
+  и прямой, грубый, но сильный

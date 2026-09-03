@@ -16,9 +16,8 @@ who: 'Подруга детства Сары из замка Розанны. С�
 
   Стиль речи: Просторенная, лёгкая речь с ироничными обращениями к Саре; в состоянии
   падения — пьяная, сбивчивая брань.'
-instruct_en: Female, 18-22 years old, confident voice slightly below average pitch,
-  bold and spirited, sharp defiant edge, snappy quick cadence, warm beneath the bravado,
-  easily shifts from sass to tenderness to sudden fury.
+instruct_en: Female, 18-22, confident voice slightly below average pitch, bold and
+  spirited, sharp defiant edge, warm beneath the bravado
 texts:
 - Слушай, Сара, если ты собралась мокнуть нас всех ради благородной идеи, сначала
   предупреди, я подготовлюсь.
@@ -33,3 +32,5 @@ arcs:
 - BlackMonolith
 - HollowWorld
 - MagePath
+instruct_ru: Женский, 18-22, уверенный голос чуть ниже среднего, смелая и пылкая,
+  острая дерзкая грань, тёплая под бравадой

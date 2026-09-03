@@ -15,8 +15,8 @@ who: 'Орк-наёмник, боевой инструктор Сары: бер�
 
   Стиль речи: Короткие рубленые фразы, приказы, грубоватый юмор, минимум слов — максимум
   веса; прозвища-обращения вместо имён.'
-instruct_en: Male, 25-30 years old, deep resonant orc baritone, confident veteran
-  warrior, rough warmth, proud and direct
+instruct_en: Male, 25-30, deep resonant orc baritone, veteran warrior, proud and direct,
+  rough warmth
 texts:
 - Я прошёл через десятки сражений, и каждое из них научило меня ценить тех, кто стоит
   рядом с тобой плечо к плечу в бою.
@@ -32,3 +32,5 @@ arcs:
 - WarriorPath
 - Training
 - HollowWorld
+instruct_ru: Мужской, 25-30, глубокий резонансный оркский баритон, ветеран-воин, гордый
+  и прямой, грубая теплота

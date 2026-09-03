@@ -14,9 +14,8 @@ who: 'Молодая женщина-маг, пленница «Мастера» 
 
   Стиль речи: Ровный, успокаивающий, объясняющий тон; рассказывает предания о магах,
   сожравших мир.'
-instruct_en: Female, 20-30 years old, calm even voice with quiet confidence, level
-  mid-range tone without emotional spikes, speaks softly and deliberately, composed
-  and unflappable, as if long accustomed to danger.
+instruct_en: Female, 20-30, calm even mid-range voice, composed and unflappable, quiet
+  confidence
 texts:
 - Так и есть, и я здесь дольше тебя. Поверь, паника не поможет никому из нас, а хладнокровие
   спасло меня уже не раз.
@@ -26,3 +25,5 @@ texts:
   дороже, чем где-либо ещё.
 arcs:
 - MagePath
+instruct_ru: Женский, 20-30, спокойный ровный голос среднего регистра, собранная и
+  невозмутимая, тихая уверенность

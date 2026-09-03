@@ -2,8 +2,8 @@ name: Krip
 gender: M
 age: 25-40
 who: Молчаливый здоровяк-моряк, машет топором (SailorArc). 2 реплик.
-instruct_en: Male, 25-40 years old, deep muffled bass, silent strongman, gruff and
-  slow, speaks rarely in short blunt bursts, low rumbling timber.
+instruct_en: Male, 25-40, deep muffled bass, silent strongman, gruff and slow, speaks
+  rarely in short blunt bursts
 texts:
 - Дрова? Где?
 - Костёр?
@@ -12,3 +12,5 @@ texts:
 - Море учит молчать. Я научился.
 arcs:
 - SailorArc
+instruct_ru: Мужской, 25-40, глубокий приглушённый бас, молчаливый силач, грубый и
+  медлительный, говорит редко короткими резкими фразами

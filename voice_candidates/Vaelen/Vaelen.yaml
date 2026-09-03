@@ -18,8 +18,8 @@ who: 'Глава наёмной роты «Братья Провидения», 
 
   Стиль речи: Высокопарная, пророческая, театральная речь с повторами имени и обращений
   «princess»; в гневе переходит на грубую брань и уничижительные ярлыки.'
-instruct_en: Male, 25-35 years old, crisp clear baritone, stern military commander,
-  cold and demanding, precise speech
+instruct_en: Male, 25-35, crisp clear baritone, mercenary commander, stern, cold and
+  demanding, precise speech
 texts:
 - Я командовал подразделением, которое сломило мятежную армию, и каждый солдат в моём
   отряде знал, что я требую от него абсолютной дисциплины.
@@ -36,3 +36,5 @@ arcs:
 - HollowWorld
 - WarriorPath
 - PrisonArc
+instruct_ru: Мужской, 25-35, чёткий ясный баритон, командир наёмников, суровый, холодный
+  и требовательный, точная речь

@@ -14,8 +14,8 @@ who: 'Король Розанны, отец Сары и Томаса. Возвр
 
   Стиль речи: Размеренная, весомая речь с наставлениями, метафорами и государственными
   рассуждениями; дома — отеческая теплота.'
-instruct_en: Male, 50-60 years old, low velvet baritone, wise and stern but gentle
-  with his children, regal measured speech, warmth beneath authority.
+instruct_en: Male, 50-60, low velvet baritone, king, wise and stern, warm beneath
+  authority
 texts:
 - Я правил этим королевством тридцать лет, и за всё это время я не видел ничего страшнее,
   чем безразличие совета.
@@ -27,3 +27,5 @@ texts:
 arcs:
 - Prologue
 - WarriorPath
+instruct_ru: Мужской, 50-60, низкий бархатный баритон, король, мудрый и строгий, тёплый
+  под властностью

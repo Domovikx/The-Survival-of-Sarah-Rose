@@ -14,9 +14,8 @@ who: 'Молодой солдат-наёмник в лагере Вейлена,
 
   Стиль речи: Разговорная речь солдата: междометия, сленг, комплименты Саре на тренировках,
   в постели — откровенные похвалы и грязные фразы.'
-instruct_en: Male, 20-25 years old, clear disciplined voice with military bearing,
-  speaks with clipped precision and even command tone, fair but unyielding, calm under
-  pressure
+instruct_en: Male, 20-25, clear disciplined voice with military bearing, soldier,
+  fair but unyielding, calm under pressure
 texts:
 - Ты должна рассказать, как ты это сделала. Такой бросок не выходит случайно, я тренировал
   бойцов десятки раз.
@@ -26,3 +25,5 @@ texts:
   и нам нельзя.
 arcs:
 - MagePath
+instruct_ru: Мужской, 20-25, ясный дисциплинированный голос, солдат, справедливый,
+  но непреклонный, спокойный под давлением

@@ -13,8 +13,8 @@ who: 'Демон-хозяин цитадели в DemonArc: похищает и 
 
   Стиль речи: Речь властная, издевательски-ласковая («little pet», «slave», «whore»),
   приказы и угрозы, наслаждение чужой покорностью.'
-instruct_en: Male, deep booming bass with otherworldly resonance, slow and hypnotic,
-  speaks as if echoing through a vast marble temple, velvet menace
+instruct_en: Male, deep booming bass with otherworldly resonance, demon, slow and
+  hypnotic, velvet menace
 texts:
 - Я ждал тебя долго, смертная. Дольше, чем ты способна вообразить.
 - Я видел, как рушатся миры. Твой мир не будет исключением.
@@ -24,3 +24,5 @@ texts:
 - Я был здесь до первого камня этого замка и останусь после последнего.
 arcs:
 - DemonArc
+instruct_ru: Мужской, глубокий грохочущий бас с потусторонним резонансом, демон, медлительный
+  и гипнотический, бархатная угроза

@@ -13,9 +13,8 @@ who: 'Юла — сокамерница Сары в тюрьме: бывалая
 
   Стиль речи: Уличный жаргон с матом; прозвища («blondie», «newbie»), резкая разговорная
   манера.'
-instruct_en: Female, 20-30 years old, sassy relaxed voice with a fiery edge, mid-range
-  and slightly husky, languid drawl that snaps into sharp sarcasm, playful mockery
-  with grit, unbothered by confinement.
+instruct_en: Female, 20-30, sassy relaxed voice with a fiery edge, mid-range and slightly
+  husky, playful mockery with grit
 texts:
 - Какого хрена ты такая и что делаешь в моей камере?
 - Я пошла на сделку с охранником. Не идеально, но работает.
@@ -24,3 +23,5 @@ texts:
 - 'Я делала ставки на всё: на карты, на людей, на жизнь. И обычно выигрывала.'
 arcs:
 - PrisonArc
+instruct_ru: Женский, 20-30, дерзкий расслабленный голос с огненным оттенком, средний
+  регистр с лёгкой хрипотцой, игривая насмешка с жёсткостью

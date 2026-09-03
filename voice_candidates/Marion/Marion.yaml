@@ -15,8 +15,8 @@ who: 'Глава дома Achillea — одной из древнейших ар
 
   Стиль речи: Образованная светская речь, книжные обороты, рассуждения о долге и чести
   семьи; в приватных сценах — резкие короткие приказы и грубость.'
-instruct_en: Male, 20-30 years old, smooth mid-low baritone, courteous and confident,
-  aristocratic measured speech, warm sincerity beneath polished formality.
+instruct_en: Male, 20-30, smooth mid-low baritone, aristocrat, courteous and confident,
+  warm sincerity beneath formality
 texts:
 - Я вырос среди знати, и меня учили, что слово дворянина стоит дороже золота. Я не
   собираюсь менять это правило.
@@ -30,3 +30,5 @@ arcs:
 - MarionOrVargaPath
 - NeitherPath
 - MarionPath
+instruct_ru: Мужской, 20-30, гладкий средне-низкий баритон, аристократ, учтивый и
+  уверенный, тёплая искренность под отточенной формальностью

@@ -12,8 +12,8 @@ who: 'Маленький сын Сары и Варги в эпилоге (UnionK
 
   Стиль речи: Детская речь с восклицаниями: «No fair!», «But mom, we''re not tired,
   really!», «I promise!», «No mercy for a basilisk!».'
-instruct_en: Male child, 8-14 years old, bright boyish tenor, mischievous and spirited,
-  quick energetic speech with playful inflections and a hint of whine
+instruct_en: Male child, 8-14, bright boyish tenor, mischievous and spirited, quick
+  and playful with a hint of whine
 texts:
 - Нечестно!
 - Я был тихим!
@@ -22,3 +22,5 @@ texts:
 - Я знаю секрет. Но не скажу.
 arcs:
 - UnionKingdom
+instruct_ru: Мужской, ребёнок, 8-14, яркий мальчишеский тенор, озорной и задорный,
+  быстрая игривая речь с ноткой нытья

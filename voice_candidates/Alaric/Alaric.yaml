@@ -17,8 +17,8 @@ who: 'Уличный карманник-вор из трущоб, спутник
 
   Стиль речи: Уличный сленг: «ain''t ya», «tryna», «girly», «gotta», «aight», мат,
   короткие рубленые фразы, шутки про её «богатое» происхождение.'
-instruct_en: Male, 25-30 years old, medium-low velvet baritone, charming rogue, cynical
-  and sarcastic, smooth delivery with slight smirk in voice
+instruct_en: Male, 25-30, medium-low velvet baritone, charming rogue, cynical and
+  sarcastic
 texts:
 - Я пошёл через весь город, только чтобы добраться до тебя, и даже не пожалел о том,
   что потратил столько времени на дорогу.
@@ -36,3 +36,5 @@ arcs:
 - HollowWorld
 - MagePath
 - Other
+instruct_ru: Мужской, 25-30, средне-низкий бархатный баритон, обаятельный плут, циничный
+  и саркастичный

@@ -13,9 +13,8 @@ who: 'Красивый молодой раб на маскараде в поме
 
   Стиль речи: Остроумный, с самоиронией и сарказмом, галантные комплименты, игривое
   обращение «Sarah-from-far-away».'
-instruct_en: Male, 25-35 years old, noble calm tenor, courteous and slightly formal,
-  knightly bearing, speaks with measured politeness and quiet confidence, clear crisp
-  articulation
+instruct_en: Male, 25-35, noble calm tenor, knight, courteous and slightly formal,
+  quiet confidence, self-ironic wit
 texts:
 - Я присягал ордену, и я держу слово. Рыцарь Розы может рассчитывать на мой клинок.
 - Я слышал о ваших подвигах, и, должен признать, слухи не лгали.
@@ -26,3 +25,5 @@ texts:
 arcs:
 - BlackMonolith
 - WarriorPath
+instruct_ru: Мужской, 25-35, благородный спокойный тенор, рыцарь, учтивый и слегка
+  формальный, тихая уверенность, самоироничный остряк

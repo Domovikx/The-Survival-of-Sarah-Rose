@@ -12,9 +12,8 @@ who: 'Хозяин трактира Dunstin Inn в Рахаяле: семейн�
   и опора.
 
   Стиль речи: Говор с просторечиями, обращения «little lady», ласковые шутки.'
-instruct_en: Male, 45-60 years old, hearty baritone with warm rasp, jolly and boisterous
-  innkeeper, speaks loudly with enthusiasm, slightly gravelly from years of laughter
-  and ale, friendly and welcoming, the kind of voice that fills a room
+instruct_en: Male, 45-60, hearty baritone with warm rasp, jolly and boisterous innkeeper,
+  loud and enthusiastic, friendly and welcoming
 texts:
 - Я пошёл в трактирщики, потому что люблю кормить людей. Это моё счастье.
 - Я делал то, что нужно. Гостей принимал, посуду мыл, пиво наливал.
@@ -23,3 +22,5 @@ texts:
 - Верно. Гордый владелец этого прекрасного заведения. И я горжусь этим.
 arcs:
 - UnionKingdom
+instruct_ru: Мужской, 45-60, сочный баритон с тёплой хрипотцой, весёлый и шумный трактирщик,
+  громкий и восторженный, дружелюбный и радушный

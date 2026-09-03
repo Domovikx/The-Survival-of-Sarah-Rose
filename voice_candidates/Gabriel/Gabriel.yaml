@@ -15,9 +15,8 @@ who: 'Рыцарь, присягнувший защитник ведьмы Ле�
 
   Стиль речи: Короткие, точные, слегка ироничные реплики; говорит о долге и присяге
   без пафоса.'
-instruct_en: Male, 25-40 years old, firm resonant voice of a sworn knight, solid steady
-  baritone, measured and resolute delivery, quiet devotion and protective gravity,
-  words weighted by loyalty.
+instruct_en: Male, 25-40, firm resonant baritone, sworn knight, measured and resolute,
+  quietly devoted, loyal
 texts:
 - Я клялся защищать её, и я сдержу свою клятву.
 - Я говорил тебе, что это плохая идея. Но ты не послушалась.
@@ -26,3 +25,5 @@ texts:
 - Мой меч служит ей. Моё сердце бьётся в такт её шагам.
 arcs:
 - MagePath
+instruct_ru: Мужской, 25-40, твёрдый звучный баритон, присягнувший рыцарь, размеренный
+  и решительный, тихо преданный, верный
