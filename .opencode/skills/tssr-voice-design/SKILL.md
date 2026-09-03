@@ -16,7 +16,8 @@ tools/
   voice_design.py          # тул генерации (резюмабельный), читает YAML-каст
 voice_candidates/{Имя}/    # сюда падают кандидаты (+ {Имя}.yaml — каст)
   {Имя}.yaml               # ОПИСАНИЕ голоса: контракт для voice_design.py
-                               #   (instruct_en — типаж, instruct_ru — русский перевод для ревью)
+                               #   (instruct_en — ФИЗИОГНОМИКА тела, напр. "Male, 55-70 years
+                               #   old, tall and broad-shouldered..."; instruct_ru — перевод)
   generated/NN.mp3         # кандидаты: 01.mp3, 02.mp3, ... (сырьё)
   gen_selected/            # отобранные вручную (add_candidate делает рефы)
 voice_candidates/

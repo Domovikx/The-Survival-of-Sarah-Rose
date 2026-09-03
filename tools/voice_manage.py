@@ -98,6 +98,11 @@ def main():
     sel.add_argument('variant', help='Номер варианта (1, 3, ...)')
 
     args = p.parse_args()
+    try:
+        sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+        sys.stderr.reconfigure(encoding='utf-8', errors='replace')
+    except Exception:
+        pass
     if args.cmd == 'list':
         return cmd_list(args)
     elif args.cmd == 'select':

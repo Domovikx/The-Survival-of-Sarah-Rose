@@ -139,6 +139,24 @@ python tools/voice_status.py
 C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py --char "{Имя}" --limit 10
 ```
 
+## Подготовка рефа из кандидата (ref_prepare.py)
+
+```bash
+python tools/ref_prepare.py --file "voice_candidates/{Имя}/gen_selected/{N}.mp3"     --char "Captain Belmont" [--variant 04]
+# -> voice_candidates/{Имя}/in_progress/{Имя}[_{variant}].wav
+```
+
+ПАЙПЛАЙН (порядок важен):
+1. Конвертация в WAV 24k mono
+2. СЖАТИЕ ПАУЗ: паузы > 0.7с сжимаются до 0.35с (длинные паузы в рефе
+   недопустимы — CV3 клонирует ритм; BP: естественные паузы 0.2-0.5с)
+3. ВЫРЕЗКА ОКНА: 10с от начала звука (лидирующая тишина срезается),
+   хвост 0.15с тишины в конце
+4. ГРОМКОСТЬ: two-pass linear loudnorm, ЕДИНЫЙ стандарт рефов:
+   -16 LUFS / TP -1.5 (константы в ref_prepare.py — все рефы в одной
+   громкости)
+
+
 ## Диагностика
 
 - `voice_debug.log` (корень проекта) — каждая попытка резолва:

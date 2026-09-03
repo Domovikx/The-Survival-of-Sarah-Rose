@@ -49,6 +49,9 @@ STATS_PATH = paths.CAST_SUMMARY_YAML
 TEMPO = "темп речи спокойный, неторопливый, паузы короткие"
 TEMPS = [0.8, 0.95, 1.1, 0.85, 1.0, 0.9, 0.8, 0.95, 1.1, 0.85]
 
+MIN_TEXT_LEN = 150   # мин. длина фразы в texts (≈10с речи; 150-250 = 10-20с)
+MAX_TEXT_LEN = 250   # макс: длиннее — риск дрейфа голоса внутри клипа
+
 FFMPEG = "ffmpeg"
 FFPROBE = "ffprobe"
 
@@ -63,6 +66,12 @@ def load_cast():
                 paths.char_yaml(name)))
             continue
         cfg.setdefault('instruct_en', '')
+        short = [t for t in cfg['texts']
+                 if len(text_item(t)[0]) < MIN_TEXT_LEN]
+        if short:
+            print("WARN: {} — {} фраз короче {} символов (клип <10с): {}".format(
+                name, len(short), MIN_TEXT_LEN,
+                ', '.join('{}с'.format(len(t)) for t in short)))
         cast[name] = cfg
     return cast
 
@@ -152,19 +161,24 @@ def build_instruct(cfg, i):
 
 
 def sample_params(cfg, i):
-    """Семплирование для кандидата i (детерминировано по индексу).
+    """Параметры семплирования — ОДНА конфигурация на всех кандидатов.
 
-    Параметры выбираются ОДИН раз на клип и применяются ко всей фразе —
-    внутри одного клипа стиль стабилен (вариативность только МЕЖДУ
-    кандидатами). Верхние границы ограничены: слишком высокие
-    температура/top_p дают дрейф голоса на длинных текстах
-    (см. AGENTS.md «Вариативность vs стабильность»).
+    Кандидаты отличаются только инструкцией (variations), а не случайным
+    семплированием: одинаковые temp/top_p -> честное сравнение голосов.
+    Дефолт 0.9/0.9 (проверен, стабилен); переопределяется в yaml полями
+    `temperature` и `top_p` (числа, не диапазоны).
     """
-    import random
-    rng = random.Random(i * 7919 + 13)
-    t_lo, t_hi = cfg.get("temperature_span", [0.75, 1.05])
-    p_lo, p_hi = cfg.get("top_p_span", [0.9, 1.0])
-    return rng.uniform(t_lo, t_hi), rng.uniform(p_lo, p_hi)
+    temp = float(cfg.get("temperature", 0.9))
+    top_p = float(cfg.get("top_p", 0.9))
+    return temp, top_p
+
+
+def text_item(item):
+    """Фраза из texts: str (старый формат) или dict {text, emotion_en, emotion_ru}."""
+    if isinstance(item, dict):
+        return item.get("text", ""), item.get("emotion_en", ""), \
+            item.get("emotion_ru", "")
+    return item, "", ""
 
 
 def gen_one(model, dst, char, cfg, i, n):
@@ -173,11 +187,13 @@ def gen_one(model, dst, char, cfg, i, n):
     if os.path.exists(dst):
         log("skip {} (exists)".format(dst))
         return "skip"
-    texts = cfg["texts"]
-    text = texts[i % len(texts)]
-    extra = texts[(i + 1) % len(texts)]
+    items = cfg["texts"]
+    text, emotion_en, emotion_ru = text_item(items[i % len(items)])
+    extra, _, _ = text_item(items[(i + 1) % len(items)])
 
     base_instruct = build_instruct(cfg, i)
+    if emotion_en:
+        base_instruct = base_instruct.strip() + "; " + emotion_en
     temp, top_p = sample_params(cfg, i)
     if not base_instruct:
         log("FAIL {} #{}: нет instruct_en в {}".format(char, i + 1, dst))
