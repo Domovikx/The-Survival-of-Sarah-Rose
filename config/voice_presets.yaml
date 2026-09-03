@@ -14,6 +14,9 @@ audio:
 refs:
   target_len: 10.0  # первые секунд рефа
   silence_db: -45.0 # порог тишины для анализа (dBFS)
+  pause_compress:   # СЖАТИЕ пауз (обязательно для всех рефов)
+    max: 0.35       # ВСЕ паузы длиннее этой — сжимаем до target, с
+    target: 0.35    # целевая длина паузы после сжатия, с
 
 # Генерация кандидатов (voice_design, VoiceDesign)
 design:
@@ -26,9 +29,9 @@ design:
 
 # Генерация реплик (voice_batch, CosyVoice3)
 batch:
-  flow_temp: 1.2
-  cfg_rate: 0.9
-  sampling: [0.5, 10.0, 0.15]   # RAS: top_p, top_k, tau_r
+  flow_temp: 0.8   # официальный параметр модели (было 1.2 — артефакты)
+  cfg_rate: 0.7    # официальный (было 0.9)
+  sampling: [0.8, 25.0, 0.1]   # RAS: top_p, top_k, tau_r (официальные)
   seed: 42
   instruct_presets:             # --emotion пресеты (англ. описания состояний)
     angry: "In a fit of rage, with intensity"

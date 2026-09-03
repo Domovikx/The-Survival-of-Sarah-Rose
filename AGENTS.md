@@ -86,6 +86,8 @@ tools/
   voice_runtime_map.py         # voices.yaml + каталог -> catalog/who_variant.json
   levelnorm.py                 # выравнивание реплик: -16 LUFS / TP -1.5
   voice_preview.py             # 3 самых длинных фразы × каждый реф -> ревью-таблица
+  emotion_tag.py               # разметка эмоций: catalog/emotions.json
+                               #   (эвристика по тексту или --llm-url локальная LLM)
 ```
 
 ВАЖНО: рабочие рефы ВСЕГДА из `voice_candidates/{Имя}/ref/` (вылеченные).
@@ -260,15 +262,25 @@ voice_candidates/{Name}/
    (модель берёт тон из текста, инструкция вторична).
 4. Пресеты: `--emotion angry|sad|happy|fast|slow|loud|soft|whisper` —
    англ. описания состояний (китайские шаблоны убраны).
-5. Параметры LLM-семплирования (влияют на выразительность):
-   `--top-p 0.5 --top-k 10 --tau-r 0.15 --cfg-rate 0.9 --flow-temp 1.2`
-   (дефолты; эксперименты с ними результатов не дали — пока не трогаем).
+5. Конфиг генерации — ОФИЦИАЛЬНЫЕ параметры модели (FunAudioLLM):
+   `--flow-temp 0.8 --cfg-rate 0.7 --top-p 0.8 --top-k 25 --tau-r 0.1`
+   (flow-temp 1.2/cfg 0.9 давали звуковые артефакты — заменено 2026-09-03).
+6. Пофразовые эмоции: `catalog/emotions.json` (uid -> emotion_en),
+   разметка `tools/emotion_tag.py` (эвристика или --llm-url phi4-mini);
+   приоритет: `--emotion` (CLI) > emotions.json[uid] > без эмоции.
+   `--no-emotion` отключает пофразовую (суффикс _plain);
+   `--emotion-ru` — русский перевод для манифеста/ревью.
 6. Манифест {wav}.txt фиксирует ref/emotion/конфиг — всегда рядом с wav.
 7. Эмоция = состояние ДИКТОРА (кто произносит), не содержание текста:
    диалог участника — «In a burst of passion, crying out with joy and ecstasy»;
    наррация-наблюдение — «Erotically and sensually»; кульминация —
    «Crying out with joy, gasping through the spasms of orgasm».
    В текст добавляй эмоциональную пунктуацию («Ещё! Ещё! Да-а-а!»).
+
+ВЫВОД (2026-09-03): конфиг + эмоция решают всё — официальные параметры
+модели (batch в voice_presets.yaml) + пофразовая эмоция из emotions.json
+дают чистую генерацию без артефактов. Эмоция автоматически берётся из
+catalog/emotions.json при генерации каждой фразы.
 
 ```bash
 ... voice_batch.py --char Sarah --emotion "In a burst of passion, crying out with joy and ecstasy" --emotion-tag passion --limit 10

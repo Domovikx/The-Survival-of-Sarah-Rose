@@ -15,7 +15,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 cosyvoice_modules = [
     'cosyvoice', 'cosyvoice.cli', 'cosyvoice.cli.cosyvoice',
     'cosyvoice.utils', 'cosyvoice.utils.file_utils', 'cosyvoice.utils.common',
-    'hyperpyyaml', 'torch', 'torchaudio', 'numpy',
+    'hyperpyyaml', 'torch', 'torchaudio',
 ]
 for mod in cosyvoice_modules:
     sys.modules[mod] = MagicMock()
@@ -95,7 +95,7 @@ def mock_config(tmp_path, monkeypatch):
 
 def make_args(**kw):
     defaults = dict(arc=None, char=None, uid=None, lang='ru', ref=None,
-                    emotion=None, text=None)
+                    emotion=None, emotion_ru=None, no_emotion=False, text=None)
     defaults.update(kw)
     return type('Args', (), defaults)
 
@@ -184,7 +184,8 @@ def test_write_manifest(mock_config):
                          'voice_candidates/TestVoice/in_progress/TestVoice.wav'),
         out=os.path.join(paths.ROOT, 'ai_voice/ru/TestArc',
                          'test_uid_001__TestVoice.wav'),
-        text_new='Привет мир', text_old='Hello world', emotion=None)
+        text_new='Привет мир', text_old='Hello world', emotion=None,
+        emotion_ru=None)
     voice_batch.write_manifest(
         p, type('A', (), {'seed': 42, 'flow_temp': 1.2, 'cfg_rate': 0.9,
                           'top_p': 0.5, 'top_k': 10, 'tau_r': 0.15})())

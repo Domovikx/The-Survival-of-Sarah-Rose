@@ -78,7 +78,8 @@ C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py \
 
 - Модель грузится 1 раз; resumable (существующие скипаются — по имени файла,
   включая постфикс варианта, поэтому разные рефы не конфликтуют)
-- Победный конфиг: cross_lingual + RL, flow-temp 1.2, cfg 0.9, RAS 0.5/10/0.15, seed 42, silent-trim
+- Конфиг: cross_lingual + RL, flow-temp 0.8, cfg 0.7, RAS 0.8/25/0.1, seed 42, silent-trim
+  (официальные параметры модели; flow-temp 1.2/cfg 0.9 давали артефакты)
 - Озвучиваются только dialogue+наррация и только персонажи из config/voices.yaml
 - `--ref refs/X_2.wav` — генерация конкретным вариантом БЕЗ правки yaml
   (файлы выйдут `{uid}__X_2.wav`); yaml при этом не трогается
@@ -107,7 +108,10 @@ C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py \
    пунктуацию: «Тра́хай меня сильнее! Ещё! Ещё! Да-а-а!»
 5. Пресеты: `--emotion angry|sad|happy|fast|slow|loud|soft|whisper`
 6. Параметры семплирования — дефолты (`--top-p 0.5 --top-k 10 --tau-r 0.15
-   --cfg-rate 0.9 --flow-temp 1.2`), эксперименты без результата — не трогаем
+   --cfg-rate 0.7 --flow-temp 0.8`) — официальные параметры модели
+6. Пофразовые эмоции: `catalog/emotions.json` (разметка `emotion_tag.py`),
+   приоритет: `--emotion` > emotions.json[uid] > без эмоции;
+   `--no-emotion` (суффикс _plain), `--emotion-ru` (ревью)
 
 ## Ударения (проверено 2026-09-03)
 

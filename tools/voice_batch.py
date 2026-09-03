@@ -9,8 +9,8 @@
   ai_voice/{lang}/{arc}/{uid}__{variant}.wav   (resumable: существующие скипаются)
   Каждый файл выравнивается levelnorm.py: loudnorm -16 LUFS / TP -1.5
 
-ПОБЕДНЫЙ КОНФИГ (как в W40KRT, 2026-08-29):
-  cross_lingual + RL + flow-temp 1.2 + cfg 0.9 + RAS (0.5, 10, 0.15)
+КОНФИГ (официальные параметры FunAudioLLM, 2026-09-03):
+  cross_lingual + RL + flow-temp 0.8 + cfg 0.7 + RAS (0.8, 25, 0.1)
   + silent-token-trim ON + seed 42 + s16
 
 ТРИМ: наш trim_tail_burst (паттерн «тишина → короткий всплеск у конца файла»).
@@ -28,6 +28,7 @@
 
 import argparse
 import hashlib
+import json
 import logging
 import os
 import sys
@@ -56,9 +57,9 @@ from trim_tail_burst import trim as pattern_trim  # noqa: E402
 from voicekit import config as _cfg
 
 _B = _cfg.section('batch')
-FLOW_TEMP = float(_B.get('flow_temp', 1.2))
-CFG_RATE = float(_B.get('cfg_rate', 0.9))
-_smp = _B.get('sampling', [0.5, 10.0, 0.15])
+FLOW_TEMP = float(_B.get('flow_temp', 0.8))
+CFG_RATE = float(_B.get('cfg_rate', 0.7))
+_smp = _B.get('sampling', [0.8, 25.0, 0.1])
 SAMPLING = (float(_smp[0]), float(_smp[1]), float(_smp[2]))
 DEFAULT_SEED = int(_B.get('seed', 42))
 _pres = _B.get('instruct_presets', {})
@@ -92,6 +93,25 @@ def load_inputs():
             catalog.who_to_voice())
 
 
+_EMO_CACHE = None
+
+
+def load_emotions():
+    """catalog/emotions.json: {uid: emotion_en} (пофразовая разметка)."""
+    global _EMO_CACHE
+    if _EMO_CACHE is None:
+        p = os.path.join(paths.CATALOG_DIR, 'emotions.json')
+        if os.path.exists(p):
+            try:
+                with open(p, encoding='utf-8') as f:
+                    _EMO_CACHE = json.load(f)
+            except Exception:
+                _EMO_CACHE = {}
+        else:
+            _EMO_CACHE = {}
+    return _EMO_CACHE
+
+
 def select_phrases(entries, voices, who_to_voice, args):
     """Фильтруем каталог до списка фраз к генерации.
 
@@ -120,7 +140,8 @@ def select_phrases(entries, voices, who_to_voice, args):
             uid=uid, arc=arc, voice=args.char or 'Demo', ref=ref, out=out,
             variant=variant, lang=args.lang,
             text=args.text, text_old=args.text, text_new=args.text,
-            emotion=args.emotion,
+            emotion=(None if args.no_emotion else args.emotion),
+            emotion_ru=args.emotion_ru,
         )]
     phrases = []
     for e in entries:
@@ -150,6 +171,10 @@ def select_phrases(entries, voices, who_to_voice, args):
             continue  # нет записи/рефа в voices.yaml -> не озвучиваем
         if args.emotion:
             variant += '_{}'.format(args.emotion_tag)
+        elif args.no_emotion:
+            variant += '_plain'
+        emo = (None if args.no_emotion
+               else args.emotion or load_emotions().get(e['uid']))
         out = os.path.join(paths.AI_VOICE_DIR, args.lang,
                            e['arc'], e['uid'] + '__' + variant + '.wav')
         phrases.append(dict(
@@ -157,7 +182,7 @@ def select_phrases(entries, voices, who_to_voice, args):
             variant=variant, lang=args.lang,
             text=(e['new'] if args.lang == 'ru' else e['old']),
             text_old=e['old'], text_new=e['new'],
-            emotion=args.emotion,
+            emotion=emo, emotion_ru=args.emotion_ru,
         ))
     return phrases
 
@@ -180,6 +205,7 @@ def write_manifest(p, args):
         'lang: {}'.format(p['lang']),
         'ref: {}'.format(os.path.relpath(p['ref'], paths.ROOT).replace(os.sep, '/')),
         'emotion: {}'.format(p['emotion'] or '-'),
+        'emotion_ru: {}'.format(p.get('emotion_ru') or '-'),
         'text_ru: {}'.format(p['text_new']),
         'text_en: {}'.format(p['text_old']),
         'config: {}'.format(cfg_line),
@@ -234,6 +260,11 @@ def main():
                          'whisper/russian) или свободная инструкция')
     ap.add_argument('--emotion-tag', default='em',
                     help='суффикс файла для эмоции (default em)')
+    ap.add_argument('--emotion-ru', default=None,
+                    help='русский перевод эмоции (для манифеста/ревью)')
+    ap.add_argument('--no-emotion', action='store_true',
+                    help='отключить пофразовую эмоцию из emotions.json '
+                         '(суффикс _plain)')
     ap.add_argument('--text', default=None,
                     help='произвольный текст (демо): одна фраза, '
                          'uid = md5(text), arc = --arc or Demo')
@@ -261,8 +292,9 @@ def main():
     log('фраз к генерации: {} (lang={}, force={})'.format(
         len(phrases), args.lang, args.force))
     for p in phrases[:10]:
-        log('  {} | {} | {} | {}'.format(
-            p['uid'][:8], p['arc'], p['voice'], p['text'][:60]))
+        log('  {} | {} | {} | [{}] {}'.format(
+            p['uid'][:8], p['arc'], p['voice'],
+            (p.get('emotion') or '-')[:40], p['text'][:60]))
     if len(phrases) > 10:
         log('  ...')
     if args.dry_run:

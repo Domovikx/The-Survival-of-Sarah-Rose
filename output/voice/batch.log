@@ -1082,3 +1082,153 @@
 01:40:46 [1/1] 92a24a52 Demo Sarah: Тра́хай меня сильнее! Ещё! Ещё! Да-а-а!
 01:41:29   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Demo\92a24a521e7d1a29f52405a3e24f6616__Sarah_orgasm.wav (3.4s), eta ~0 мин
 01:41:29 done=1 skipped=0 failed=0 total=1
+17:10:52 фраз к генерации: 1 (lang=ru, force=False)
+17:10:52   7f82959a | DemonArc | Daemon | Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+17:10:52 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+17:11:18 model loaded in 26.6s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+17:11:18 [1/1] 7f82959a DemonArc Daemon: Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+17:12:39   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\DemonArc\7f82959ae25986fb766b893c75cc1495__Daemon_05.wav (5.0s), eta ~0 мин
+17:12:39 done=1 skipped=0 failed=0 total=1
+17:12:51 фраз к генерации: 1 (lang=ru, force=False)
+17:12:51   df9103cc | DemonArc | Daemon | С меткой, что я поставил, ты не можешь отойти ни на шаг за г
+17:12:51 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+17:13:09 model loaded in 17.6s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+17:13:09 [1/1] df9103cc DemonArc Daemon: С меткой, что я поставил, ты не можешь отойти ни на шаг за г
+17:14:41   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\DemonArc\df9103cc215becf3d9cd9a7950c72c0d__Daemon_05_menace.wav (4.8s), eta ~0 мин
+17:14:41 done=1 skipped=0 failed=0 total=1
+17:14:54 фраз к генерации: 1 (lang=ru, force=False)
+17:14:54   549839cd | DemonArc | Daemon | Когда придёт время, и я возьму тебя, ты отдашься мне... добр
+17:14:54 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+17:15:10 model loaded in 15.9s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+17:15:10 [1/1] 549839cd DemonArc Daemon: Когда придёт время, и я возьму тебя, ты отдашься мне... добр
+17:16:21   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\DemonArc\549839cd69160a8456fcde15e0f4227c__Daemon_05_cold.wav (5.9s), eta ~0 мин
+17:16:21 done=1 skipped=0 failed=0 total=1
+17:18:47 фраз к генерации: 1 (lang=ru, force=True)
+17:18:47   7f82959a | DemonArc | Daemon | Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+17:18:47 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+17:19:12 model loaded in 24.3s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+17:19:12 [1/1] 7f82959a DemonArc Daemon: Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+17:20:42   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\DemonArc\7f82959ae25986fb766b893c75cc1495__Daemon_05.wav (5.0s), eta ~0 мин
+17:20:42 done=1 skipped=0 failed=0 total=1
+17:20:55 фраз к генерации: 1 (lang=ru, force=True)
+17:20:55   df9103cc | DemonArc | Daemon | С меткой, что я поставил, ты не можешь отойти ни на шаг за г
+17:20:55 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+17:21:17 model loaded in 22.5s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+17:21:17 [1/1] df9103cc DemonArc Daemon: С меткой, что я поставил, ты не можешь отойти ни на шаг за г
+17:22:46   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\DemonArc\df9103cc215becf3d9cd9a7950c72c0d__Daemon_05_menace.wav (4.8s), eta ~0 мин
+17:22:46 done=1 skipped=0 failed=0 total=1
+17:22:58 фраз к генерации: 1 (lang=ru, force=True)
+17:22:58   549839cd | DemonArc | Daemon | Когда придёт время, и я возьму тебя, ты отдашься мне... добр
+17:22:58 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+17:23:22 model loaded in 24.2s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+17:23:22 [1/1] 549839cd DemonArc Daemon: Когда придёт время, и я возьму тебя, ты отдашься мне... добр
+17:25:12   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\DemonArc\549839cd69160a8456fcde15e0f4227c__Daemon_05_cold.wav (5.9s), eta ~0 мин
+17:25:12 done=1 skipped=0 failed=0 total=1
+17:28:30 фраз к генерации: 0 (lang=ru, force=False)
+17:28:30 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+17:28:52 model loaded in 21.5s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+17:28:52 done=0 skipped=0 failed=0 total=0
+17:29:06 фраз к генерации: 0 (lang=ru, force=False)
+17:29:06 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+17:29:26 model loaded in 20.0s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+17:29:26 done=0 skipped=0 failed=0 total=0
+17:29:45 фраз к генерации: 1 (lang=ru, force=False)
+17:29:45   7f82959a | DemonArc | Daemon | Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+17:29:45 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+17:30:02 model loaded in 16.3s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+17:30:02 [1/1] 7f82959a DemonArc Daemon: Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+17:32:03   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\DemonArc\7f82959ae25986fb766b893c75cc1495__Daemon_05_possessive.wav (6.3s), eta ~0 мин
+17:32:03 done=1 skipped=0 failed=0 total=1
+17:32:15 фраз к генерации: 1 (lang=ru, force=False)
+17:32:15   7f82959a | DemonArc | Daemon | Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+17:32:15 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+17:32:35 model loaded in 19.5s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+17:32:35 [1/1] 7f82959a DemonArc Daemon: Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+17:34:29   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\DemonArc\7f82959ae25986fb766b893c75cc1495__Daemon_05_predatory.wav (6.6s), eta ~0 мин
+17:34:29 done=1 skipped=0 failed=0 total=1
+17:34:50 фраз к генерации: 1 (lang=ru, force=False)
+17:34:50   7f82959a | DemonArc | Daemon | Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+17:34:50 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+17:35:16 model loaded in 25.4s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+17:35:16 [1/1] 7f82959a DemonArc Daemon: Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+17:37:11   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\DemonArc\7f82959ae25986fb766b893c75cc1495__Daemon_05_obsessed.wav (6.4s), eta ~0 мин
+17:37:11 done=1 skipped=0 failed=0 total=1
+17:37:25 фраз к генерации: 1 (lang=ru, force=False)
+17:37:25   7f82959a | DemonArc | Daemon | Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+17:37:25 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+17:37:42 model loaded in 16.6s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+17:37:42 [1/1] 7f82959a DemonArc Daemon: Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+17:39:34   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\DemonArc\7f82959ae25986fb766b893c75cc1495__Daemon_05_tender.wav (6.5s), eta ~0 мин
+17:39:34 done=1 skipped=0 failed=0 total=1
+17:39:49 фраз к генерации: 1 (lang=ru, force=False)
+17:39:49   7f82959a | DemonArc | Daemon | Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+17:39:49 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+17:40:14 model loaded in 25.2s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+17:40:14 [1/1] 7f82959a DemonArc Daemon: Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+17:42:21   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\DemonArc\7f82959ae25986fb766b893c75cc1495__Daemon_05_commanding.wav (6.4s), eta ~0 мин
+17:42:21 done=1 skipped=0 failed=0 total=1
+18:12:41 фраз к генерации: 1 (lang=ru, force=True)
+18:12:41   7f82959a | DemonArc | Daemon | Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+18:12:41 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+18:13:10 model loaded in 28.8s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+18:13:10 [1/1] 7f82959a DemonArc Daemon: Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+18:14:30   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\DemonArc\7f82959ae25986fb766b893c75cc1495__Daemon_05.wav (5.0s), eta ~0 мин
+18:14:30 done=1 skipped=0 failed=0 total=1
+18:15:13 фраз к генерации: 1 (lang=ru, force=False)
+18:15:13   7f82959a | DemonArc | Daemon | [-] Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+18:17:33 фраз к генерации: 1 (lang=ru, force=True)
+18:17:33   7f82959a | DemonArc | Daemon | [In a soft intimate whisper, with desire] Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+18:17:33 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+18:17:55 model loaded in 21.5s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+18:17:55 [1/1] 7f82959a DemonArc Daemon: Ты принадлежишь мне. Твоё тело — вот что мне нужно. Всё оста
+18:19:19   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\DemonArc\7f82959ae25986fb766b893c75cc1495__Daemon_05.wav (6.1s), eta ~0 мин
+18:19:19 done=1 skipped=0 failed=0 total=1
+19:39:46 фраз к генерации: 1 (lang=ru, force=False)
+19:39:46   9272a021 | MagePath | Sarah | [Curiously inquisitive] Разве они не могли поддерживать порядок?
+19:39:46 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+19:40:08 model loaded in 22.0s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+19:40:08 [1/1] 9272a021 MagePath Sarah: Разве они не могли поддерживать порядок?
+19:41:41   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\MagePath\9272a021f02d35f2554c483bd7fd54ea__Narrator.wav (2.6s), eta ~0 мин
+19:41:41 done=1 skipped=0 failed=0 total=1
+19:41:54 фраз к генерации: 1 (lang=ru, force=False)
+19:41:54   9272a021 | MagePath | Sarah | [-] Разве они не могли поддерживать порядок?
+19:41:54 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+19:42:19 model loaded in 24.7s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+19:42:19 [1/1] 9272a021 MagePath Sarah: Разве они не могли поддерживать порядок?
+19:44:03   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\MagePath\9272a021f02d35f2554c483bd7fd54ea__Narrator_plain.wav (2.3s), eta ~0 мин
+19:44:03 done=1 skipped=0 failed=0 total=1
+19:51:13 фраз к генерации: 1 (lang=ru, force=False)
+19:51:13   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+19:51:13 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.5_k10.0_t0.15_c0.9_rl
+19:51:33 model loaded in 20.5s (flow-temp 1.2, cfg 0.9, RAS (0.5, 10.0, 0.15), silent-trim ON)
+19:51:33 [1/1] 09a20f8a MagePath Narrator: Она всё ещё понятия не имела, кто эти люди и что они здесь д
+19:53:00   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\MagePath\09a20f8a15023117474a6f63fe8dd39a__Narrator.wav (4.2s), eta ~0 мин
+19:53:00 done=1 skipped=0 failed=0 total=1
+19:56:49 фраз к генерации: 1 (lang=ru, force=False)
+19:56:49   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+19:56:49 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25_t0.1_c0.7_rl
+19:57:09 model loaded in 20.3s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25, 0.1), silent-trim ON)
+19:57:09 [1/1] 09a20f8a MagePath Narrator: Она всё ещё понятия не имела, кто эти люди и что они здесь д
+19:59:03   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\MagePath\09a20f8a15023117474a6f63fe8dd39a__Narrator_off.wav (3.8s), eta ~0 мин
+19:59:03 done=1 skipped=0 failed=0 total=1
+20:02:49 фраз к генерации: 1 (lang=ru, force=False)
+20:02:49   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+20:02:49 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25_t0.1_c0.7_rl
+20:03:09 model loaded in 19.8s (flow-temp 0.7, cfg 0.7, RAS (0.8, 25, 0.1), silent-trim ON)
+20:03:09 [1/1] 09a20f8a MagePath Narrator: Она всё ещё понятия не имела, кто эти люди и что они здесь д
+20:04:21   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\MagePath\09a20f8a15023117474a6f63fe8dd39a__Narrator_off07.wav (3.8s), eta ~0 мин
+20:04:21 done=1 skipped=0 failed=0 total=1
+20:04:39 фраз к генерации: 1 (lang=ru, force=False)
+20:04:39   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+20:04:39 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25_t0.1_c0.7_rl
+20:04:53 model loaded in 14.2s (flow-temp 0.9, cfg 0.7, RAS (0.8, 25, 0.1), silent-trim ON)
+20:04:53 [1/1] 09a20f8a MagePath Narrator: Она всё ещё понятия не имела, кто эти люди и что они здесь д
+20:06:37   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\MagePath\09a20f8a15023117474a6f63fe8dd39a__Narrator_off09.wav (3.8s), eta ~0 мин
+20:06:37 done=1 skipped=0 failed=0 total=1
+20:37:58 фраз к генерации: 1 (lang=ru, force=False)
+20:37:58   09a20f8a | MagePath | Narrator | [-] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+20:37:58 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25_t0.1_c0.7_rl
+20:38:16 model loaded in 17.9s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25, 0.1), silent-trim ON)
+20:38:16 [1/1] 09a20f8a MagePath Narrator: Она всё ещё понятия не имела, кто эти люди и что они здесь д
+20:39:49   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\MagePath\09a20f8a15023117474a6f63fe8dd39a__Narrator_off_plain.wav (5.0s), eta ~0 мин
+20:39:49 done=1 skipped=0 failed=0 total=1

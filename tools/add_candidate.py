@@ -21,7 +21,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from clean_refs import clean_file  # noqa: E402
+from clean_refs import clean_file, compress_pauses_file, pause_params  # noqa: E402
 from voicekit import catalog, paths  # noqa: E402
 
 from voicekit import config as _cfg
@@ -67,6 +67,11 @@ def cut_and_clean(name, mp3_path, variant=None):
     subprocess.run(['ffmpeg', '-y', '-ss', '0', '-to', '{:.3f}'.format(cut_end),
                     '-i', mp3_path, '-ac', '1', '-ar', str(SR_RATE), tmp_cut],
                    check=True, capture_output=True)
+
+    n_cut, max_pause = compress_pauses_file(tmp_cut, SR_RATE)
+    if n_cut:
+        print('    паузы: сжато {} (макс {:.2f}с -> {:.2f}с)'.format(
+            n_cut, max_pause, pause_params()[0]))
 
     clean_file(tmp_cut, dst)
     os.remove(tmp_cut)

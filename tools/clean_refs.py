@@ -29,6 +29,13 @@ import json
 import os
 import re
 import subprocess
+import sys
+
+import numpy as np
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+from voicekit import config as _cfg  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -45,6 +52,88 @@ TARGET_LEN = 10.0
 LOUD_I = -16.0   # интегральная громкость, LUFS
 LOUD_TP = -1.5   # true peak, dB
 LOUD_LRA = 11.0  # диапазон громкости
+
+def pause_params():
+    """(target, silence_db) из конфига (в рантайме — кэш-безопасно)."""
+    c = _cfg.section('refs').get('pause_compress', {})
+    target = float(c.get('target', 0.35))
+    silence_db = float(_cfg.get('refs', 'silence_db', -45.0))
+    return target, silence_db
+
+
+def compress_pauses(x, sr):
+    """Сжать ВСЕ паузы длиннее target до target (окна 20мс).
+
+    Любая пауза > 0.35с — уже «длинная» и сжимается до 0.35с.
+    Возвращает (y, max_pause_before, n_cut).
+    """
+    target, silence_db = pause_params()
+    win = max(int(0.02 * sr), 1)
+    frames = len(x) // win
+    if frames < 4:
+        return x, 0.0, 0
+    rms = np.sqrt((x[:frames * win].reshape(frames, win) ** 2).mean(axis=1))
+    thr = 10 ** (silence_db / 20)
+    silent = rms < thr
+
+    segs = []
+    start = 0
+    cur = silent[0]
+    for i in range(1, frames):
+        if silent[i] != cur:
+            segs.append((cur, start, i))
+            start = i
+            cur = silent[i]
+    segs.append((cur, start, frames))
+
+    out = []
+    max_pause = 0.0
+    n_cut = 0
+    for is_silent, a, b in segs:
+        dur = (b - a) * 0.02
+        if not is_silent:
+            out.append(x[a * win:b * win])
+            continue
+        if dur > max_pause:
+            max_pause = dur
+        if dur > target:
+            keep = min(int(target * sr / win), b - a)
+            out.append(x[a * win:(a + keep) * win])
+            n_cut += 1
+        else:
+            out.append(x[a * win:b * win])
+    y = np.concatenate(out) if out else x[:0]
+    return y, round(max_pause, 2), n_cut
+
+
+def read_wav_pcm(path, sr):
+    import wave
+    with wave.open(path, 'rb') as w:
+        if w.getframerate() != sr or w.getnchannels() != 1:
+            return None
+        raw = w.readframes(w.getnframes())
+    return np.frombuffer(raw, dtype=np.int16).astype(np.float32) / 32768.0
+
+
+def write_wav_pcm(path, x, sr):
+    import wave
+    data = (np.clip(x, -1.0, 1.0) * 32767).astype(np.int16)
+    with wave.open(path, 'wb') as w:
+        w.setnchannels(1)
+        w.setsampwidth(2)
+        w.setframerate(sr)
+        w.writeframes(data.tobytes())
+
+
+def compress_pauses_file(path, sr):
+    """Сжать паузы в WAV-файле на месте. Возвращает (n_cut, max_pause)."""
+    x = read_wav_pcm(path, sr)
+    if x is None:
+        return 0, 0.0
+    y, mx, n = compress_pauses(x, sr)
+    if n:
+        write_wav_pcm(path, y, sr)
+    return n, mx
 
 
 def loudnorm_two_pass(path, dst):

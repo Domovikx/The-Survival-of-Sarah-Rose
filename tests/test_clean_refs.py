@@ -136,3 +136,41 @@ def test_multiple_files(tmp_path):
         result = clean_file(str(src), str(dst))
         assert result is True
         assert dst.exists()
+
+def test_compress_pauses_cuts_long():
+    """Длинная пауза сжимается до target, короткая не трогается."""
+    import numpy as np
+    from clean_refs import compress_pauses
+    sr = 24000
+    tone = np.sin(2 * np.pi * 220 * np.arange(sr) / sr) * 0.3
+    long_pause = np.zeros(int(2.0 * sr))
+    short_pause = np.zeros(int(0.3 * sr))
+    x = np.concatenate([tone, long_pause, tone, short_pause, tone])
+    y, max_pause, n_cut = compress_pauses(x, sr)
+    assert n_cut == 1
+    assert max_pause >= 2.0
+    assert abs(len(y) / sr - (1 + 0.35 + 1 + 0.3 + 1)) < 0.1
+
+
+def test_compress_pauses_keeps_short_only():
+    """Без длинных пауз файл не меняется."""
+    import numpy as np
+    from clean_refs import compress_pauses
+    sr = 24000
+    tone = np.sin(2 * np.pi * 220 * np.arange(sr) / sr) * 0.3
+    x = np.concatenate([tone, np.zeros(int(0.3 * sr)), tone])
+    y, _, n_cut = compress_pauses(x, sr)
+    assert n_cut == 0
+    assert len(y) == len(x)
+
+
+def test_compress_pauses_cuts_medium():
+    """Пауза 0.5с (длиннее target 0.35) сжимается до 0.35."""
+    import numpy as np
+    from clean_refs import compress_pauses
+    sr = 24000
+    tone = np.sin(2 * np.pi * 220 * np.arange(sr) / sr) * 0.3
+    x = np.concatenate([tone, np.zeros(int(0.5 * sr)), tone])
+    y, _, n_cut = compress_pauses(x, sr)
+    assert n_cut == 1
+    assert abs(len(y) / sr - (1 + 0.35 + 1)) < 0.1
