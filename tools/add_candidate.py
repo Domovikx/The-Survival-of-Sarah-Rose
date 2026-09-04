@@ -4,9 +4,10 @@
 ЧТО ДЕЛАЕТ (по шагам, существующие файлы НЕ пересоздаются):
   1. Сканирует voice_candidates/{Голос}/gen_selected/*.mp3
      (сюда кладёшь отобранные на слух клипы; имя = {Name}.mp3 или {Name}_1.mp3)
-  2. Первые 10 секунд -> чистка -> voice_candidates/{Голос}/in_progress/
+  2. Первые 10 секунд -> чистка -> voice_candidates/{Голос}/корень каста/
      (рабочая зона: рефы для A/B и экспериментов с фильтрами)
-  3. Финальный реф (после A/B) фиксируется в ref/ через voice_manage select
+  3. Активный реф (после A/B) = {Голос}.wav в корне каста
+     (voice_manage select {Голос} {вариант})
 
 ЗАПУСК:
   python tools/add_candidate.py
@@ -49,17 +50,16 @@ def find_candidates():
 
 
 def cut_and_clean(name, mp3_path, variant=None):
-    """Нарезка 10с + чистка -> in_progress/{name}[_{variant}].wav."""
+    """Нарезка 10с + чистка -> корень каста: {name}[_{variant}].wav."""
     suffix = '_{}'.format(variant) if variant else ''
-    dst = os.path.join(paths.char_subdir(name, 'in_progress'),
+    dst = os.path.join(paths.char_dir(name),
                        name + suffix + '.wav')
     if os.path.exists(dst):
         return dst, False
 
     os.makedirs(os.path.dirname(dst), exist_ok=True)
 
-    tmp_cut = os.path.join(paths.char_subdir(name, 'in_progress'),
-                           name + '_tmp.wav')
+    tmp_cut = os.path.join(paths.char_dir(name), name + '_tmp.wav')
     dur = float(subprocess.check_output(
         ['ffprobe', '-v', 'error', '-show_entries', 'stream=duration',
          '-of', 'csv=p=0', mp3_path]).decode().strip().splitlines()[0])
@@ -141,7 +141,7 @@ def main():
                 'НОВЫЙ' if made else 'уже был'))
         yaml_snippet(name, who_map)
 
-    print('\nГотово. Рабочие рефы в in_progress/. '
+    print('\nГотово. Рабочие рефы в корне каста. '
           'Финальный реф: voice_manage select.')
     return 0
 

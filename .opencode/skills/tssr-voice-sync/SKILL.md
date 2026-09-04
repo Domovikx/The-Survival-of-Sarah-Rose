@@ -1,6 +1,6 @@
 ---
 name: tssr-voice-sync
-description: Актуализатор и мигратор voice-структуры TSSR (tools/voice_sync.py + ядро tools/voicekit/). Используй, когда нужно: проверить расхождения слоёв озвучки (status), создать структуру/заглушки новым персонажам после апдейта игры (update), пересобрать отчёты missing_voices.md и voice_sync_report.md (report), или мигрировать рефы (migrate). Архитектура папок voice_candidates/{Name}/{generated,gen_selected,in_progress,ref}.
+description: Актуализатор и мигратор voice-структуры TSSR (tools/voice_sync.py + ядро tools/voicekit/). Используй, когда нужно: проверить расхождения слоёв озвучки (status), создать структуру/заглушки новым персонажам после апдейта игры (update), пересобрать отчёты missing_voices.md и voice_sync_report.md (report), или мигрировать рефы (migrate). Архитектура: voice_candidates/{Name}/{generated,gen_selected} + {Name}.wav в корне каста.
 ---
 
 # Skill: tssr-voice-sync — актуализация voice-структуры
@@ -15,7 +15,7 @@ description: Актуализатор и мигратор voice-структур
 | Каталог | `catalog/voices.json` | кто есть в игре (пересобирается `voice_catalog.py` при апдейте игры) |
 | Касты | `voice_candidates/{Name}/{Name}.yaml` | кто в работе (контракт + отчёт) |
 | Озвучка | `config/voices.yaml` | кого озвучиваем — **единственный рубильник** генерации |
-| Рефы | `voice_candidates/{Name}/ref/{Name}.wav` | финальный реф; `in_progress/` — рабочие варианты |
+| Рефы | `voice_candidates/{Name}/{Name}.wav` | активный реф в корне; варианты `{Name}_{v}.wav` рядом |
 
 ## Команды
 

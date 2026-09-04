@@ -59,6 +59,20 @@ def count_files(name, sub):
                 if os.path.isfile(os.path.join(paths.char_subdir(name, sub), f))])
 
 
+def ref_files(name):
+    """Реф-файлы каста в корне: {Name}.wav (активный) + {Name}_{v}.wav."""
+    d = paths.char_dir(name)
+    if not os.path.isdir(d):
+        return []
+    return sorted(f for f in os.listdir(d)
+                  if f.endswith('.wav')
+                  and (f.startswith(name + '.') or f.startswith(name + '_')))
+
+
+def count_ref_files(name):
+    return len(ref_files(name))
+
+
 def mp3_classify(name, filename):
     """Куда деть mp3 из корня папки персонажа -> (подпапка, новое_имя)."""
     stem, ext = os.path.splitext(filename)
@@ -81,12 +95,6 @@ def mp3_classify(name, filename):
     return ('generated', filename)
 
 
-def ref_owner(stem):
-    """Владелец рефа по имени файла: ('Carolyn_1' -> 'Carolyn', '1')."""
-    parts = stem.rsplit('_', 1)
-    if len(parts) == 2 and parts[0]:
-        return parts[0], parts[1]
-    return stem, None
 
 
 def cmd_status(_):
@@ -94,16 +102,12 @@ def cmd_status(_):
     chars = sorted(set(data['characters'].values()))
     voices = load_voices_safe()
     casts = catalog.cast_names()
-    ref_dirs = {}
-    for c in casts:
-        ref_dirs[c] = [f for f in char_files(c, 'ref') if f.endswith('.wav')]
-
     print('СЛОИ:')
     print('  каталог (игра):        {:3d} персонажей'.format(len(chars)))
     print('  касты (voice_candidates): {:3d}'.format(len(casts)))
     print('  voices.yaml (озвучка): {:3d}'.format(len(voices)))
-    print('  активные рефы в папках: {:3d}'.format(
-        sum(len(v) for v in ref_dirs.values())))
+    print('  активные рефы в кастах: {:3d}'.format(
+        sum(count_ref_files(c) for c in casts)))
 
     missing_casts = [c for c in chars if c not in casts and c not in SKIP_CAST_NAMES]
     print('\nВ каталоге, но БЕЗ каста ({}): {}'.format(
@@ -125,7 +129,7 @@ def cmd_status(_):
     for c in casts:
         if c in voices:
             continue
-        if count_files(c, 'ref') and os.path.exists(paths.ref_active(c)):
+        if count_ref_files(c) and os.path.exists(paths.ref_active(c)):
             ready_no_voice.append(c)
     if ready_no_voice:
         print('Есть активный реф, но НЕТ в voices.yaml ({}): {}'.format(
@@ -195,7 +199,7 @@ def build_summary():
             ref=os.path.basename(paths.ref_active(name)) if ref_file else None,
             generated=count_files(name, 'generated'),
             gen_selected=count_files(name, 'gen_selected'),
-            in_progress=count_files(name, 'in_progress'),
+            variants=max(0, count_ref_files(name) - (1 if ref_file else 0)),
             in_voices=name in voices,
         )
     ready = sum(1 for v in cast.values() if v['status'] == 'voice_ready')
@@ -206,136 +210,52 @@ def build_summary():
         cast=cast)
 
 
-def migrate_plan():
-    """Считает план миграции. Возвращает (plan, notes, voices_new)."""
-    voices = load_voices_safe()
-    notes = defaultdict(list)
-    refs_dir = os.path.join(paths.ROOT, 'refs')
-    moves = []
-
-    active_variant = {}
-    for name, v in voices.items():
-        ref = v.get('ref') or ''
-        base = os.path.basename(ref)
-        stem = os.path.splitext(base)[0]
-        if stem.startswith(name + '_'):
-            active_variant[name] = stem
-
-    if os.path.isdir(refs_dir):
-        for f in sorted(os.listdir(refs_dir)):
-            if not f.endswith('.wav'):
-                continue
-            stem = os.path.splitext(f)[0]
-            owner, variant = ref_owner(stem)
-            src = os.path.join(refs_dir, f)
-            if variant is None:
-                moves.append(('move', src, paths.ref_active(owner)))
-            elif owner in active_variant and active_variant[owner] == stem:
-                dst_ref = paths.ref_active(owner)
-                dst_prog = os.path.join(paths.char_subdir(owner, 'in_progress'), f)
-                moves.append(('copy', src, dst_ref))
-                moves.append(('move', src, dst_prog))
-                notes['fixed-variant'].append((owner, stem))
-            else:
-                dst = os.path.join(paths.char_subdir(owner, 'in_progress'), f)
-                moves.append(('move', src, dst))
-                if owner not in voices:
-                    notes['orphan'].append(owner)
-
-    mp3_moves = []
-    for name in sorted(os.listdir(paths.VOICE_CANDIDATES)):
-        d = os.path.join(paths.VOICE_CANDIDATES, name)
-        if not os.path.isdir(d):
-            continue
-        for f in sorted(os.listdir(d)):
-            if not f.lower().endswith('.mp3'):
-                continue
-            sub, new_name = mp3_classify(name, f)
-            if sub is None:
-                continue
-            src = os.path.join(d, f)
-            dst = os.path.join(paths.char_subdir(name, sub), new_name)
-            if src != dst:
-                mp3_moves.append((src, dst, sub))
-
-    voices_new = {}
-    fixed_refs = []
-    for name, v in voices.items():
-        v = dict(v)
-        ref = v.get('ref') or ''
-        if not ref.startswith('refs/'):
-            voices_new[name] = v
-            continue
-        base = os.path.basename(ref)
-        stem = os.path.splitext(base)[0]
-        if stem == name:
-            v['ref'] = paths.ref_voices(name)
-        elif stem.startswith(name + '_'):
-            v['ref'] = paths.ref_voices(name)
-            if not os.path.exists(os.path.join(refs_dir, base)):
-                fixed_refs.append((name, stem))
-                notes['fixed-missing'].append((name, stem))
-        else:
-            owner, _ = ref_owner(stem)
-            v['ref'] = paths.ref_voices(owner)
-            notes['foreign'].append((name, owner))
-        voices_new[name] = v
-    return dict(moves=moves, mp3=mp3_moves, voices=voices_new,
-                notes=notes, fixed_refs=fixed_refs,
-                active_variants=active_variant)
-
 
 def cmd_migrate(args):
-    if os.path.exists(os.path.join(paths.ROOT, 'refs')):
-        print('refs/ найден — считаем план переезда.')
-    plan = migrate_plan()
+    """Переезд ref/ + in_progress/ -> корень каста (новая раскладка)."""
     ops = fs.Ops(apply=args.apply)
-    print('=== refs/*.wav -> папки персонажей ===')
-    for action, src, dst in plan['moves']:
-        if action == 'copy':
-            ops.copy(src, dst)
-        else:
-            ops.move(src, dst)
-    print('=== mp3 -> generated/gen_selected ===')
-    for src, dst, sub in plan['mp3']:
-        ops.move(src, dst)
-    print('=== фиксация активных вариантов (in_progress -> ref/) ===')
-    for name, v in sorted(plan['voices'].items()):
-        ref = v.get('ref') or ''
-        if not ref.endswith('/ref/{}.wav'.format(name)):
-            continue
-        dst_ref = paths.resolve_ref(ref)
-        if os.path.exists(dst_ref):
-            continue
-        prog = paths.char_subdir(name, 'in_progress')
-        cands = []
-        if os.path.isdir(prog):
-            cands = [f for f in os.listdir(prog)
-                     if f.startswith(name + '_') and f.endswith('.wav')]
-        if len(cands) == 1:
-            ops.copy(os.path.join(prog, cands[0]), dst_ref)
-        elif len(cands) > 1:
-            print('  !! {}: ref пуст, в in_progress {} вариантов — '
-                  'нужен select'.format(name, len(cands)))
-    print('=== voices.yaml: ref-пути ===')
-    for name, v in sorted(plan['voices'].items()):
-        if v.get('ref') != load_voices_safe().get(name, {}).get('ref'):
-            ops._rec('ref-update', name, v.get('ref'))
-    if args.apply:
-        catalog.save_voices(plan['voices'])
-    else:
-        print('  (voices.yaml не тронут без --apply)')
+    moved, removed_dirs = [], []
+    for name in sorted(catalog.cast_names()):
+        d = paths.char_dir(name)
+        for sub in ('ref', 'in_progress'):
+            subdir = os.path.join(d, sub)
+            if not os.path.isdir(subdir):
+                continue
+            for f in sorted(os.listdir(subdir)):
+                if not f.endswith('.wav'):
+                    continue
+                src = os.path.join(subdir, f)
+                dst = os.path.join(d, f)
+                if os.path.exists(dst):
+                    ops._rec('skip', name, f + ' (уже в корне)')
+                    continue
+                ops.move(src, dst)
+                moved.append((name, sub, f))
+            ops.remove_dir_if_empty(subdir)
+            removed_dirs.append(subdir)
 
-    print('=== заметки ===')
-    for k, items in plan['notes'].items():
-        print('  {}: {}'.format(k, len(items)))
-        for it in items[:10]:
-            print('    ' + str(it))
-    if plan['fixed_refs']:
-        print('починены битые ref:')
-        for name, stem in plan['fixed_refs']:
-            print('  {}: refs/{}.wav (нет файла) -> {}/ref/{}.wav'.format(
-                name, stem, name, name))
+    print('=== ref/ + in_progress/ -> корень каста ===')
+    for name, sub, f in moved:
+        print('  {}: {}/{} -> {}'.format(name, sub, f, f))
+    if not moved:
+        print('  перенесено нечего')
+    for d in removed_dirs:
+        print('  удалена пустая папка: {}'.format(os.path.relpath(d, paths.ROOT)))
+
+    print('=== voices.yaml: ref-пути (ref/ -> корень) ===')
+    voices = load_voices_safe()
+    changed = 0
+    for name, v in voices.items():
+        ref = v.get('ref') or ''
+        if '/ref/' in ref:
+            voices[name]['ref'] = ref.replace('/ref/', '/')
+            changed += 1
+    if args.apply:
+        catalog.save_voices(voices)
+        print('  обновлено ref-путей: {}'.format(changed))
+    else:
+        print('  будет обновлено ref-путей: {} (без --apply не пишем)'.format(
+            changed))
     if not args.apply:
         print('\nDRY-RUN: ничего не изменено. Запусти с --apply.')
     return 0
@@ -416,7 +336,7 @@ def write_sync_report():
     orphan = []
     for c in casts:
         if c not in voices:
-            for f in char_files(c, 'in_progress'):
+            for f in ref_files(c):
                 if f.endswith('.wav'):
                     orphan.append((c, f))
 
@@ -463,7 +383,7 @@ def main():
     s.add_parser('status', help='сводка слоёв и расхождений')
     upd = s.add_parser('update', help='структура новым + сводка')
     upd.add_argument('--apply', action='store_true')
-    mig = s.add_parser('migrate', help='переезд refs/ -> папки персонажей')
+    mig = s.add_parser('migrate', help='ref/ + in_progress/ -> корень каста')
     mig.add_argument('--apply', action='store_true')
     s.add_parser('report', help='missing_voices.md + voice_sync_report.md')
     args = ap.parse_args()

@@ -1232,3 +1232,140 @@
 20:38:16 [1/1] 09a20f8a MagePath Narrator: Она всё ещё понятия не имела, кто эти люди и что они здесь д
 20:39:49   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\MagePath\09a20f8a15023117474a6f63fe8dd39a__Narrator_off_plain.wav (5.0s), eta ~0 мин
 20:39:49 done=1 skipped=0 failed=0 total=1
+08:43:17 фраз к генерации: 1 (lang=ru, force=False)
+08:43:17   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:43:17 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+08:43:17 device: DML (DirectML) privateuseone:0
+08:43:32 фраз к генерации: 1 (lang=ru, force=False)
+08:43:32   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:43:32 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+08:43:54 фраз к генерации: 1 (lang=ru, force=False)
+08:43:54   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:43:54 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+08:43:54 device: DML (DirectML)
+08:44:20 фраз к генерации: 1 (lang=ru, force=False)
+08:44:20   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:44:20 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+08:44:20 device: DML (DirectML)
+08:44:34 model loaded in 13.4s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+08:44:34 [1/1] 09a20f8a MagePath Narrator: Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:44:35   !! FAIL 09a20f8a15023117474a6f63fe8dd39a: Cannot set version_counter for inference tensor
+08:44:35 done=0 skipped=0 failed=1 total=1
+08:44:55 фраз к генерации: 1 (lang=ru, force=False)
+08:44:55   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:44:55 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+08:44:55 device: DML (DirectML)
+08:45:07 model loaded in 12.1s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+08:45:07 [1/1] 09a20f8a MagePath Narrator: Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:45:08   !! FAIL 09a20f8a15023117474a6f63fe8dd39a: Cannot set version_counter for inference tensor
+08:45:08 done=0 skipped=0 failed=1 total=1
+08:45:26 фраз к генерации: 1 (lang=ru, force=False)
+08:45:26   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:45:26 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+08:45:26 device: DML (DirectML)
+08:45:34 model loaded in 8.1s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+08:45:34 [1/1] 09a20f8a MagePath Narrator: Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:45:35   !! FAIL 09a20f8a15023117474a6f63fe8dd39a: Cannot set version_counter for inference tensor
+08:45:35 done=0 skipped=0 failed=1 total=1
+08:45:48 фраз к генерации: 1 (lang=ru, force=False)
+08:45:48   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:45:48 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+08:45:48 device: DML (DirectML)
+08:45:57 model loaded in 8.3s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+08:45:57 [1/1] 09a20f8a MagePath Narrator: Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:45:58   !! FAIL 09a20f8a15023117474a6f63fe8dd39a: Cannot set version_counter for inference tensor
+08:45:58 done=0 skipped=0 failed=1 total=1
+08:46:20 фраз к генерации: 1 (lang=ru, force=False)
+08:46:20   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:46:20 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+08:46:20 device: DML (DirectML)
+08:46:32 model loaded in 12.0s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+08:46:32 [1/1] 09a20f8a MagePath Narrator: Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:46:34   !! FAIL 09a20f8a15023117474a6f63fe8dd39a: Cannot set version_counter for inference tensor
+08:46:34 done=0 skipped=0 failed=1 total=1
+08:47:03 фраз к генерации: 1 (lang=ru, force=False)
+08:47:03   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:47:03 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+08:47:03 device: DML (DirectML)
+08:47:13 фраз к генерации: 1 (lang=ru, force=False)
+08:47:13   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:47:13 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+08:47:13 device: DML (DirectML)
+08:47:25 model loaded in 12.2s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+08:47:25 [1/1] 09a20f8a MagePath Narrator: Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:47:27   !! FAIL 09a20f8a15023117474a6f63fe8dd39a: Cannot set version_counter for inference tensor
+08:47:27 done=0 skipped=0 failed=1 total=1
+08:48:16 фраз к генерации: 1 (lang=ru, force=False)
+08:48:16   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:48:16 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+08:48:16 device: DML (DirectML)
+08:48:27 model loaded in 11.5s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+08:48:27 [1/1] 09a20f8a MagePath Narrator: Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:48:29   !! FAIL 09a20f8a15023117474a6f63fe8dd39a: 
+08:48:29 done=0 skipped=0 failed=1 total=1
+08:48:49 фраз к генерации: 1 (lang=ru, force=False)
+08:48:49   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:48:49 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+08:48:49 device: DML (DirectML)
+08:48:58 model loaded in 8.5s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+08:48:58 [1/1] 09a20f8a MagePath Narrator: Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:48:59   !! FAIL 09a20f8a15023117474a6f63fe8dd39a: 
+08:48:59 done=0 skipped=0 failed=1 total=1
+08:49:36 фраз к генерации: 1 (lang=ru, force=False)
+08:49:36   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:49:36 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+08:49:36 device: DML (DirectML)
+08:49:44 model loaded in 8.1s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+08:49:44 [1/1] 09a20f8a MagePath Narrator: Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:50:27   !! FAIL 09a20f8a15023117474a6f63fe8dd39a: Could not allocate tensor with 61649408 bytes. There is not enough GPU video memory available!
+08:50:28 done=0 skipped=0 failed=1 total=1
+08:50:56 фраз к генерации: 1 (lang=ru, force=False)
+08:50:56   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:50:56 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+08:50:56 device: DML (DirectML)
+08:51:08 model loaded in 12.2s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+08:51:08 [1/1] 09a20f8a MagePath Narrator: Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:51:49   !! FAIL 09a20f8a15023117474a6f63fe8dd39a: Could not allocate tensor with 61649408 bytes. There is not enough GPU video memory available!
+08:51:49 done=0 skipped=0 failed=1 total=1
+08:52:01 фраз к генерации: 1 (lang=ru, force=False)
+08:52:01   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:52:01 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+08:52:01 device: DML (DirectML)
+08:52:14 model loaded in 12.7s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+08:52:14 [1/1] 09a20f8a MagePath Narrator: Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:52:55   !! FAIL 09a20f8a15023117474a6f63fe8dd39a: Could not allocate tensor with 61649408 bytes. There is not enough GPU video memory available!
+08:52:55 done=0 skipped=0 failed=1 total=1
+08:55:01 фраз к генерации: 1 (lang=ru, force=False)
+08:55:01   09a20f8a | MagePath | Narrator | [Confused and bewildered] Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:55:01 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+08:55:13 model loaded in 11.1s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+08:55:13 [1/1] 09a20f8a MagePath Narrator: Она всё ещё понятия не имела, кто эти люди и что они здесь д
+08:55:45   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\MagePath\09a20f8a15023117474a6f63fe8dd39a__Narrator.wav (3.8s), eta ~0 мин
+08:55:45 done=1 skipped=0 failed=0 total=1
+09:00:13 фраз к генерации: 772 (lang=ru, force=False)
+09:00:13   406f340a | BlackMonolith | Alaric | [-] Эй, красотка. Сюда.
+09:00:13   5231b4bb | BlackMonolith | Alaric | [Surprised, confused] Чего вздыхаешь? Не рада меня видеть?
+09:00:13   d8ac8ad9 | BlackMonolith | Alaric | [Curious inquiry] Свободный город, верно? Могу ходить или не ходить, куда хочу
+09:00:13   5c82e14d | BlackMonolith | Alaric | [-] И зачем нам портить такой прекрасный день такой глупостью?
+09:00:13   3bbba29f | BlackMonolith | Alaric | [-] Погоди-ка секунду, я и слова сказать не успел.
+09:00:13   f31f6737 | BlackMonolith | Alaric | [Confused, with uncertainty] Я? Бесчестное предложение? Я бы не посмел.
+09:00:13   79191b49 | BlackMonolith | Alaric | [-] Нет, слушай, красотка, хоть я и с удовольствием утащил бы те
+09:00:13   bb9157ea | BlackMonolith | Alaric | [-] Правда в том, что у меня действительно проблема, которую я х
+09:00:13   f6c9681d | BlackMonolith | Alaric | [-] Так... некоторое время назад я помог парочке дельцов. У них 
+09:00:13   5d2d000a | BlackMonolith | Alaric | [-] Насчёт содержимого посылки... ну, что есть, то есть, не дума
+09:00:13   ...
+09:00:13 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+09:00:23 model loaded in 9.9s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+09:00:23 [1/772] 406f340a BlackMonolith Alaric: Эй, красотка. Сюда.
+09:00:44   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\406f340a7b53d51e80963ac6c17989c4__Alaric.wav (1.4s), eta ~270 мин
+09:00:44 [2/772] 5231b4bb BlackMonolith Alaric: Чего вздыхаешь? Не рада меня видеть?
+09:01:08   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\5231b4bbd9b9f9f6ee23cd159a6fd746__Alaric.wav (2.4s), eta ~289 мин
+09:01:08 [3/772] d8ac8ad9 BlackMonolith Alaric: Свободный город, верно? Могу ходить или не ходить, куда хочу
+09:01:41   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\d8ac8ad919ab0219711912ec4e401fcf__Alaric.wav (4.6s), eta ~333 мин
+09:01:41 [4/772] 5c82e14d BlackMonolith Alaric: И зачем нам портить такой прекрасный день такой глупостью?
+09:02:13   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\5c82e14d992668e8ff611f5046b65c7b__Alaric.wav (4.4s), eta ~352 мин
+09:02:13 [5/772] 3bbba29f BlackMonolith Alaric: Погоди-ка секунду, я и слова сказать не успел.
+09:02:37   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\3bbba29f80a327b588dd10a72ac7d929__Alaric.wav (2.6s), eta ~345 мин
+09:02:37 [6/772] f31f6737 BlackMonolith Alaric: Я? Бесчестное предложение? Я бы не посмел.
+09:03:05   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\f31f67372d024ac7dab2e49697c6aeb2__Alaric.wav (3.4s), eta ~346 мин
+09:03:05 done=6 skipped=0 failed=0 total=772

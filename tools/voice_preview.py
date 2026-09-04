@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 """Превью-генерация: по 3 самых длинных фразы на голос (для ревью).
 
-Для голосов с вариантами (in_progress/{Name}_1.wav, ...) генерит ОБА —
+Для голосов с вариантами ({Name}_1.wav, ...) генерит ОБА —
 файлы {uid}__{Name}_1.wav и {uid}__{Name}_2.wav лежат рядом, слушай пары.
-Для одиночных (ref/{Name}.wav) — один вариант. Resumable.
+Для одиночных ({Name}.wav) — один вариант. Resumable.
 
 После прогона пишет output/voice/preview_review.md — таблица
 «персонаж → вариант → uid → текст» для ревью.
@@ -33,10 +33,10 @@ N_LINES = 3
 
 
 def ref_variants(name):
-    """[(вариант, путь_к_рефу)]: in_progress/*.wav + активный ref/."""
+    """[(вариант, путь_к_рефу)]: A/B-варианты {Name}_{v}.wav + активный {Name}.wav."""
     out = []
-    prog = paths.char_subdir(name, 'in_progress')
-    pats = sorted(glob.glob(os.path.join(prog, name + '_*.wav')))
+    pats = sorted(glob.glob(os.path.join(paths.char_dir(name),
+                                         name + '_*.wav')))
     for p in pats:
         label = os.path.splitext(os.path.basename(p))[0]
         out.append((label, p))
@@ -108,7 +108,7 @@ def main():
             continue
         refs = ref_variants(name)
         if not refs:
-            print('!! {}: нет рефов (in_progress/ или ref/)'.format(name))
+            print('!! {}: нет рефов ({Name}.wav в корне каста)'.format(name))
             continue
         for variant, ref_path in refs:
             plan.append((name, variant, ref_path, phrases))

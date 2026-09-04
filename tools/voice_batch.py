@@ -16,7 +16,7 @@
 ТРИМ: наш trim_tail_burst (паттерн «тишина → короткий всплеск у конца файла»).
 
 Реф берётся ТОЛЬКО из config/voices.yaml (нет записи = не озвучиваем).
---ref перезаписывает путь (для A/B по in_progress-вариантам).
+--ref перезаписывает путь (для A/B по вариантам {Name}_{v}.wav).
 
 ЗАПУСК (ОБЯЗАТЕЛЬНО через venv CosyVoice):
   C:\\tools\\cosyvoice3\\.venv\\Scripts\\python.exe tools/voice_batch.py \\
@@ -43,6 +43,10 @@ sys.path.insert(0, REPO_DIR)
 sys.path.insert(0, os.path.join(REPO_DIR, 'third_party', 'Matcha-TTS'))
 sys.path.insert(0, tts_env.W40K_TOOLS)
 sys.path.insert(0, paths.TOOLS_DIR)
+
+if any(a == '--device' and sys.argv[i + 1:i + 2] == ['dml']
+       for i, a in enumerate(sys.argv[:-1])):
+    os.environ['TSSR_DML'] = '1'
 
 import numpy as np  # noqa: E402
 import torch  # noqa: E402
@@ -276,6 +280,8 @@ def main():
                     help='RAS штраф повторов (default 0.15)')
     ap.add_argument('--cfg-rate', type=float, default=CFG_RATE,
                     help='LLM classifier-free guidance (default 0.9)')
+    ap.add_argument('--device', default='cpu', choices=['cpu', 'dml'],
+                    help='устройство: cpu (default) или dml (DirectML/AMD)')
     ap.add_argument('--flow-temp', type=float, default=FLOW_TEMP,
                     help='температура flow-декодера (default 1.2)')
     args = ap.parse_args()
@@ -304,8 +310,13 @@ def main():
                                      rl=True, cfg_rate=args.cfg_rate)
     log('model: {}'.format(model_dir))
     silence_benign_warnings()
+    if args.device == 'dml':
+        os.environ['TSSR_DML'] = '1'
+        torch.inference_mode = lambda *a, **k: (lambda f: f)
+        log('device: DML (DirectML)')
     t0 = time.time()
-    cosyvoice = AutoModel(model_dir=model_dir)
+    cosyvoice = AutoModel(model_dir=model_dir,
+                          fp16=(args.device == 'dml'))
     patch_flow_temperature(args.flow_temp)
     patch_silent_token_trim()
     log('model loaded in {:.1f}s (flow-temp {}, cfg {}, RAS {}, silent-trim ON)'.format(

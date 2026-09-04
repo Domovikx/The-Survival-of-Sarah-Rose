@@ -1,6 +1,6 @@
 """Тесты для tools/voice_batch.py — разрешение рефов и генерация.
 
-Новая структура: реф живёт в voice_candidates/{Name}/ref/{Name}.wav,
+Новая структура: реф живёт в voice_candidates/{Name}/{Name}.wav,
 voices.yaml ссылается туда же; персонаж без ref в voices.yaml НЕ озвучивается.
 """
 
@@ -47,7 +47,7 @@ def mock_config(tmp_path, monkeypatch):
     cfg = {
         'voices': {
             'TestVoice': {
-                'ref': 'voice_candidates/TestVoice/ref/TestVoice.wav',
+                'ref': 'voice_candidates/TestVoice/TestVoice.wav',
                 'who': ['tv'],
                 'gender': 'F'
             },
@@ -133,7 +133,7 @@ def test_select_phrases_narration(mock_config):
     with open(cfg_path, encoding='utf-8') as f:
         cfg = yaml.safe_load(f)
     cfg['voices']['Narrator'] = {
-        'ref': 'voice_candidates/Narrator/ref/Narrator.wav',
+        'ref': 'voice_candidates/Narrator/Narrator.wav',
         'who': ['narrator']
     }
     with open(cfg_path, 'w', encoding='utf-8') as f:
@@ -152,7 +152,7 @@ def test_ref_path_uses_yaml_ref(mock_config):
     with open(cfg_path, encoding='utf-8') as f:
         cfg = yaml.safe_load(f)
     cfg['voices']['TestVoice']['ref'] = \
-        'voice_candidates/TestVoice/ref/custom_path.wav'
+        'voice_candidates/TestVoice/custom_path.wav'
     with open(cfg_path, 'w', encoding='utf-8') as f:
         yaml.dump(cfg, f, allow_unicode=True)
 
@@ -169,19 +169,19 @@ def test_override_ref_via_args(mock_config):
     phrases = voice_batch.select_phrases(
         entries, voices, who_to_voice,
         make_args(char='TestVoice',
-                  ref='voice_candidates/TestVoice/in_progress/TestVoice_1.wav'))
+                  ref='voice_candidates/TestVoice/TestVoice_1.wav'))
     assert len(phrases) == 1
     assert 'TestVoice_1.wav' in phrases[0]['ref']
 
 
 def test_write_manifest(mock_config):
-    """Манифест рядом с wav: uid/ref/emotion/texts."""
+    """Манифест рядом с wav: uid/emotion/texts."""
     import voice_batch
     p = dict(
         uid='test_uid_001', arc='TestArc', voice='TestVoice',
         variant='TestVoice', lang='ru',
         ref=os.path.join(paths.ROOT,
-                         'voice_candidates/TestVoice/in_progress/TestVoice.wav'),
+                         'voice_candidates/TestVoice/TestVoice.wav'),
         out=os.path.join(paths.ROOT, 'ai_voice/ru/TestArc',
                          'test_uid_001__TestVoice.wav'),
         text_new='Привет мир', text_old='Hello world', emotion=None,
@@ -193,7 +193,7 @@ def test_write_manifest(mock_config):
     assert os.path.exists(manifest)
     content = open(manifest, encoding='utf-8').read()
     assert 'uid: test_uid_001' in content
-    assert 'ref: voice_candidates/TestVoice/in_progress/TestVoice.wav' in content
+    assert 'ref: voice_candidates/TestVoice/TestVoice.wav' in content
     assert 'emotion: -' in content
     assert 'text_ru: Привет мир' in content
     assert 'text_en: Hello world' in content

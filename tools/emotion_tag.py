@@ -67,10 +67,17 @@ def tag_phrase(text_ru, text_en):
 
 
 LLM_PROMPT = (
-    "Classify the emotion of this Russian voice line. Reply with ONLY a "
-    "short English emotion instruction (2-6 words, describing the speaker "
-    "state), like \"In a low menacing whisper\" or \"Happily, with "
-    "excitement\". If neutral, reply with: none. Line: ")
+    "You are a voice director. For this Russian voice line, describe the "
+    "DIRECTOR's emotional state while reading it (how the narrator or "
+    "speaker delivers it): an emotion/attitude instruction in English, "
+    "2-6 words, like \"In a low menacing whisper\", \"Curiously observing\", "
+    "\"With bored indifference\", \"Warmly, with affection\". "
+    "EVERY line has a delivery state - even neutral observations have the "
+    "narrator's attitude (attentively, warily, amused, flat, admiring...). "
+    "NEVER reply 'none'. Reply with ONLY the short English instruction. "
+    "Line: ")
+
+DEFAULT_EMO = "Evenly, with a measured neutral tone"
 
 
 def llm_ask(base_url, line, tries=3):
@@ -90,9 +97,9 @@ def llm_ask(base_url, line, tries=3):
             with urllib.request.urlopen(req, timeout=90) as r:
                 d = json.load(r)
             resp = (d.get('response') or '').strip().strip('.').strip()
-            if not resp or resp.lower() == 'none':
-                return None
-            return resp
+            if resp and resp.lower() != 'none':
+                return resp
+            return None
         except Exception:
             if attempt < tries - 1:
                 time.sleep(5 * (attempt + 1))
@@ -129,7 +136,7 @@ def main():
                 continue
             if e['uid'] in out:
                 del out[e['uid']]  # LLM заменяет старое значение
-            emo = llm_ask(base, e.get('new') or '')
+            emo = llm_ask(base, e.get('new') or '') or DEFAULT_EMO
             if emo:
                 out[e['uid']] = emo
                 stats[emo] = stats.get(emo, 0) + 1

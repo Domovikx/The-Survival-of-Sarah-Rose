@@ -1,7 +1,6 @@
 """Тесты для tools/voice_manage.py — выбор активного рефа.
 
-Новая структура: select копирует in_progress/{Name}_{v}.wav ->
-ref/{Name}.wav и обновляет voices.yaml.
+Структура: select копирует {Name}_{v}.wav -> {Name}.wav в корне каста.
 """
 
 import os
@@ -33,15 +32,12 @@ def tmp_project(tmp_path, monkeypatch):
     (tmp_path / 'config').mkdir()
     (tmp_path / 'catalog').mkdir()
     char_dir = tmp_path / 'voice_candidates' / 'TestVoice'
-    ref_dir = char_dir / 'ref'
-    prog_dir = char_dir / 'in_progress'
-    ref_dir.mkdir(parents=True)
-    prog_dir.mkdir()
+    char_dir.mkdir(parents=True)
 
     cfg = {
         'voices': {
             'TestVoice': {
-                'ref': 'voice_candidates/TestVoice/ref/TestVoice.wav',
+                'ref': 'voice_candidates/TestVoice/TestVoice.wav',
                 'who': ['tv'],
                 'gender': 'F'
             }
@@ -51,12 +47,12 @@ def tmp_project(tmp_path, monkeypatch):
               encoding='utf-8') as f:
         yaml.dump(cfg, f, allow_unicode=True)
 
-    wav_active = ref_dir / 'TestVoice.wav'
+    wav_active = char_dir / 'TestVoice.wav'
     wav_active.write_bytes(b'RIFFactive')
 
-    wav_v1 = prog_dir / 'TestVoice_1.wav'
+    wav_v1 = char_dir / 'TestVoice_1.wav'
     wav_v1.write_bytes(b'RIFFvariant1')
-    wav_v2 = prog_dir / 'TestVoice_2.wav'
+    wav_v2 = char_dir / 'TestVoice_2.wav'
     wav_v2.write_bytes(b'RIFFvariant2')
 
     import json
@@ -71,11 +67,11 @@ def test_load_cfg(tmp_project):
     voices = catalog.load_voices()
     assert 'TestVoice' in voices
     assert voices['TestVoice']['ref'] == \
-        'voice_candidates/TestVoice/ref/TestVoice.wav'
+        'voice_candidates/TestVoice/TestVoice.wav'
 
 
 def test_select_variant(tmp_project, monkeypatch):
-    """select 1: копирует in_progress/TestVoice_1.wav -> ref/TestVoice.wav."""
+    """select 1: копирует TestVoice_1.wav -> TestVoice.wav (корень каста)."""
     import voice_manage
     monkeypatch.setattr(voice_manage, 'regen_runtime_map',
                         lambda: True)
@@ -86,7 +82,7 @@ def test_select_variant(tmp_project, monkeypatch):
     from voicekit import catalog
     cfg = catalog.load_voices()
     assert cfg['TestVoice']['ref'] == \
-        'voice_candidates/TestVoice/ref/TestVoice.wav'
+        'voice_candidates/TestVoice/TestVoice.wav'
     dst = paths.ref_active('TestVoice')
     assert os.path.exists(dst)
     assert open(dst, 'rb').read() == b'RIFFvariant1'
@@ -112,8 +108,8 @@ def test_list_variants(tmp_project, capsys, monkeypatch):
     voice_manage.cmd_list(type('A', (), {}))
     captured = capsys.readouterr()
     assert 'TestVoice' in captured.out
-    assert 'in_progress: TestVoice_1, TestVoice_2' in captured.out
-    assert 'voice_candidates/TestVoice/ref/TestVoice.wav' in captured.out
+    assert 'варианты: TestVoice_1, TestVoice_2' in captured.out
+    assert 'voice_candidates/TestVoice/TestVoice.wav' in captured.out
 
 
 def test_status(tmp_project, capsys):

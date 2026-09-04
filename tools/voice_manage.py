@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Быстрое управление голосами: list, status, select.
 
-A/B-сравнение: voice_batch.py --ref voice_candidates/{Name}/in_progress/{Name}_v.wav
+A/B-сравнение: voice_batch.py --ref voice_candidates/{Name}/{Name}_v.wav
 генерит {uid}__{Name}_v.wav в ai_voice/ — слушаешь варианты рядом,
-победителя фиксируешь через `select` (in_progress -> ref/).
+победителя фиксируешь через `select` ({Name}_v.wav -> {Name}.wav).
 """
 
 import argparse
@@ -36,10 +36,10 @@ def cmd_list(_):
     for name, v in voices.items():
         ref_path = v.get('ref', '')
         has_active = os.path.exists(paths.resolve_ref(ref_path))
-        prog = paths.char_subdir(name, 'in_progress')
+        cdir = paths.char_dir(name)
         variants = sorted(
-            f[:-4] for f in os.listdir(prog)
-            if f.endswith('.wav')) if os.path.isdir(prog) else []
+            f[:-4] for f in os.listdir(cdir)
+            if f.endswith('.wav') and f.startswith(name + '_'))             if os.path.isdir(cdir) else []
         gen_sel = paths.char_subdir(name, 'gen_selected')
         cands = sorted(
             f[:-4] for f in os.listdir(gen_sel)
@@ -47,7 +47,7 @@ def cmd_list(_):
         print('{} {}'.format('[OK]' if has_active else '[--]', name))
         print('  ref: {}'.format(ref_path))
         if variants:
-            print('  in_progress: {}'.format(', '.join(variants)))
+            print('  варианты: {}'.format(', '.join(variants)))
         if cands:
             print('  gen_selected: {}'.format(', '.join(cands)))
 
@@ -58,11 +58,10 @@ def cmd_select(args):
         print('✗ {!r} нет в voices.yaml'.format(args.name))
         return 1
 
-    variant = '{}_{}'.format(args.name, args.variant)
-    src = os.path.join(paths.char_subdir(args.name, 'in_progress'),
-                       variant + '.wav')
+    variant = args.name if not args.variant else '{}_{}'.format(args.name, args.variant)
+    src = os.path.join(paths.char_dir(args.name), variant + '.wav')
     if not os.path.isfile(src):
-        print('✗ нет {}/in_progress/{}.wav'.format(args.name, variant))
+        print('✗ нет {}/{}.wav в корне каста'.format(args.name, variant))
         return 1
 
     dst = paths.ref_active(args.name)

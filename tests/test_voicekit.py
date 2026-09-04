@@ -15,12 +15,12 @@ def test_paths_layout():
     assert paths.ROOT == ROOT
     assert os.path.normpath(paths.char_dir('Alaric')).endswith(
         os.path.normpath('voice_candidates/Alaric'))
-    assert os.path.normpath(paths.char_subdir('Alaric', 'ref')).endswith(
-        os.path.normpath('voice_candidates/Alaric/ref'))
     assert os.path.normpath(paths.ref_active('Alaric')).endswith(
-        os.path.normpath('voice_candidates/Alaric/ref/Alaric.wav'))
+        os.path.normpath('voice_candidates/Alaric/Alaric.wav'))
     assert paths.ref_voices('Alaric') == \
-        'voice_candidates/Alaric/ref/Alaric.wav'
+        'voice_candidates/Alaric/Alaric.wav'
+    assert os.path.normpath(paths.ref_variant('Alaric', '3')).endswith(
+        os.path.normpath('voice_candidates/Alaric/Alaric_3.wav'))
     with pytest.raises(ValueError):
         paths.char_subdir('Alaric', 'nope')
 

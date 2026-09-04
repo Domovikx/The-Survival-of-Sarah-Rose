@@ -1,4 +1,4 @@
-"""Интеграционные тесты: add_candidate (gen_selected -> in_progress)."""
+"""Интеграционные тесты: add_candidate (gen_selected -> корень каста)."""
 
 import os
 import shutil
@@ -45,7 +45,6 @@ def full_project(tmp_path, monkeypatch):
     char_dir = tmp_path / 'voice_candidates' / 'TestVoice'
     gen_sel = char_dir / 'gen_selected'
     gen_sel.mkdir(parents=True)
-    (char_dir / 'in_progress').mkdir()
 
     import yaml
     with open(paths.VOICES_YAML, 'w', encoding='utf-8') as f:
@@ -57,7 +56,7 @@ def full_project(tmp_path, monkeypatch):
 
 
 def test_add_candidate_from_gen_selected(full_project, monkeypatch):
-    """add_candidate: mp3 из gen_selected -> in_progress/TestVoice.wav."""
+    """add_candidate: mp3 из gen_selected -> TestVoice.wav (корень каста)."""
     ffmpeg = find_ffmpeg()
     if not ffmpeg:
         pytest.skip('ffmpeg не найден')
@@ -76,7 +75,7 @@ def test_add_candidate_from_gen_selected(full_project, monkeypatch):
     rc = add_candidate.main()
     assert rc == 0
 
-    ref = os.path.join(paths.char_subdir('TestVoice', 'in_progress'),
+    ref = os.path.join(paths.char_dir('TestVoice'),
                        'TestVoice.wav')
     assert os.path.exists(ref)
     dur = float(subprocess.check_output(
@@ -104,7 +103,7 @@ def test_add_candidate_resumable(full_project, monkeypatch):
     monkeypatch.setattr(sys, 'argv', ['add_candidate.py', '--only',
                                       'TestVoice'])
     assert add_candidate.main() == 0
-    ref = os.path.join(paths.char_subdir('TestVoice', 'in_progress'),
+    ref = os.path.join(paths.char_dir('TestVoice'),
                        'TestVoice.wav')
     mtime = os.path.getmtime(ref)
     assert add_candidate.main() == 0

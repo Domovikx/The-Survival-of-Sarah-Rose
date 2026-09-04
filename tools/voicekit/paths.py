@@ -3,8 +3,8 @@
 Структура voice_candidates/{Name}/:
   generated/     сырьё от voice_design (01.mp3, 02.mp3, ...)
   gen_selected/  отобранные вручную ({Name}.mp3, {Name}_1.mp3)
-  in_progress/   рабочие рефы: чистки, фильтры, A/B-варианты
-  ref/           финальный реф {Name}.wav (voices.yaml ссылается сюда)
+  {Name}.wav     АКТИВНЫЙ реф в корне каста (voices.yaml ссылается сюда);
+                 варианты A/B рядом: {Name}_1.wav, {Name}_2.wav (неактивные)
 
 Правило: скриптам запрещено хардкодить пути — только через этот модуль.
 """
@@ -28,7 +28,7 @@ CAST_SUMMARY_YAML = os.path.join(VOICE_CANDIDATES, 'voice_candidates.yaml')
 MISSING_VOICES_MD = os.path.join(CATALOG_DIR, 'missing_voices.md')
 SYNC_REPORT_MD = os.path.join(CATALOG_DIR, 'voice_sync_report.md')
 
-CHAR_SUBDIRS = ('generated', 'gen_selected', 'in_progress', 'ref')
+CHAR_SUBDIRS = ('generated', 'gen_selected')
 
 
 def char_dir(name):
@@ -46,11 +46,16 @@ def char_yaml(name):
 
 
 def ref_active(name):
-    return os.path.join(char_subdir(name, 'ref'), name + '.wav')
+    return os.path.join(char_dir(name), name + '.wav')
 
 
 def ref_voices(name):
-    return 'voice_candidates/{}/ref/{}.wav'.format(name, name)
+    return 'voice_candidates/{}/{}.wav'.format(name, name)
+
+
+def ref_variant(name, variant):
+    """Путь A/B-варианта в корне каста ({Name}_{variant}.wav)."""
+    return os.path.join(char_dir(name), '{}_{}.wav'.format(name, variant))
 
 
 def resolve_ref(ref):
