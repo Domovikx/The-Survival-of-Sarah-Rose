@@ -316,6 +316,67 @@ Unicode-ударение **U+0301** после ударной гласной Р�
 python -m pytest tests/ -v  # 37 тестов: voicekit, voice_sync, manage, batch, pipeline
 ```
 
+## Локальные LLM (проверено 2026-09-04)
+
+Железо: Ryzen 7 7800X3D, 32 ГБ RAM, AMD RX 6600 XT 8 ГБ (Vulkan), Windows 11.
+
+### Драйвер AMD — ОБЯЗАТЕЛЬНО свежий
+
+Vulkan-инференс упирается в драйвер: со старым Adrenalin (2024) ollama пишет
+«AMD driver is too old» и скорость падает до 2.6 tok/s (медленнее CPU!).
+Обновлено до **Adrenalin 26.8.1** (авг 2026) → **39 tok/s, 100% GPU**.
+Минимальный установщик (818 МБ), права админа нужны (UAC).
+Ссылки: https://www.amd.com/en/support/downloads/drivers.html/graphics/radeon-rx/radeon-rx-6000-series/amd-radeon-rx-6600-xt.html
+(прямая: drivers.amd.com/drivers/installer/26.10/whql/amd-software-adrenalin-edition-26.8.1-minimalsetup-260818_web.exe)
+
+### Запуск Vulkan-сервера (НЕ системный CPU-сервер!)
+
+ВНИМАНИЕ: Ollama app в трее держит СВОЙ сервер на 0.0.0.0:11434 (CPU).
+Если запрос идёт через `localhost`, IPv6-резолв (`::1`) может попасть на
+CPU-сервер (5.5 tok/s вместо 39!). ВСЕГДА используй `127.0.0.1:11434`.
+
+```bash
+export OLLAMA_VULKAN=1
+OLLAMA_VULKAN=1 nohup ollama serve > output/voice/ollama_vk.log 2>&1 &
+# проверка: ollama ps → PROCESSOR 100% GPU; лог: "inference compute ... RX 6600 XT"
+```
+
+ПРОСТОЙ СПОСОБ НЕ ЗАБЫТЬ: `tools/start-ollama-vulkan.cmd` — двойной клик
+после каждого ребута ПК (без админа), сам запускает Vulkan-сервер
+и показывает `ollama ps`. Автозагрузка (если хочется совсем без рук):
+`Win+R → shell:startup` → ярлык на этот .cmd.
+
+### Модели (ollama, уже скачаны) и скорости
+
+| Модель | Q4 | Скорость (Vulkan 26.8.1) | Назначение |
+|---|---|---|---|
+| `qwen3.5:9b` | 5.5 ГБ | **39 tok/s, 100% GPU** | ОСНОВНАЯ: чат, разметка эмоций, всё |
+| `qwen3.6:27b-q4_K_M` | 17 ГБ | 3.5 tok/s (67% CPU) | только ночные/оффлайн задачи |
+| `qwen2.5:14b` | 9 ГБ | ~10 tok/s | запасная |
+| `qwen2.5-coder:7b` | 4.7 ГБ | ~35 tok/s | код |
+
+Qwen 3.5 9B: Apache 2.0, 262K контекст, мультимодальная, 119 языков (русский
+отличный), thinking-режим (для скорости в API: `"think": false`).
+LM Studio (headless `lms server start --port 1234`) НЕ рекомендуется —
+тормозит (~2 tok/s) и зависает; оставлен GUI для ручных тестов.
+
+### Подключение к opencode
+
+`~/.config/opencode/opencode.json` — провайдер `ollama-local`
+(openai-compatible, baseURL **http://127.0.0.1:11434/v1** — именно 127.0.0.1,
+не localhost!). Модели: qwen3.5-9b, qwen3.6-27b, qwen2.5-coder-7b, qwen2.5-14b.
+Выбор в TUI: `/models` (или Shift+Tab) → Ollama Local → qwen3.5-9b.
+
+ВАЖНО (грабли 2026-09-04): если провайдера НЕТ в списке моделей — проверь
+`~/.config/opencode/opencode.jsonc` (грузится поверх opencode.json и
+ПЕРЕКРЫВАЕТ его): там может быть `disabled_providers: ["ollama-local", ...]`
+и мусорные провайдеры с битым baseURL — удали их. Правка конфига требует
+ПЕРЕЗАПУСКА opencode (конфиг читается один раз при старте).
+
+Ярлык на рабочий стол «Ollama Vulkan Start» → `tools/start-ollama-vulkan.cmd`
+(создан 2026-09-04; если пропал — пересоздать через PowerShell:
+`WScript.Shell.CreateShortcut($env:USERPROFILE\Desktop\...)`).
+
 ## План работ
 
 1. **Пилот: Prologue** (241 реплика) — Sarah, Narrator, Orwell, Thomas
