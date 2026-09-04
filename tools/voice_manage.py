@@ -19,8 +19,7 @@ from voicekit import catalog, paths  # noqa: E402
 def cmd_list(_):
     voices = catalog.load_voices()
     for name, v in voices.items():
-        ref_path = v.get('ref', '')
-        has_active = os.path.exists(paths.resolve_ref(ref_path))
+        has_active = os.path.exists(paths.ref_active(name))
         cdir = paths.char_dir(name)
         variants = sorted(
             f[:-4] for f in os.listdir(cdir)
@@ -30,7 +29,6 @@ def cmd_list(_):
             f[:-4] for f in os.listdir(gen_sel)
             if f.endswith('.mp3')) if os.path.isdir(gen_sel) else []
         print('{} {}'.format('[OK]' if has_active else '[--]', name))
-        print('  ref: {}'.format(ref_path))
         if variants:
             print('  варианты: {}'.format(', '.join(variants)))
         if cands:
@@ -38,9 +36,8 @@ def cmd_list(_):
 
 
 def cmd_select(args):
-    voices = catalog.load_voices()
-    if args.name not in voices:
-        print('✗ {!r} нет в voices.yaml'.format(args.name))
+    if not os.path.exists(paths.ref_active(args.name)):
+        print('✗ нет активного рефа {}/{}'.format(args.name, args.name))
         return 1
 
     variant = args.name if not args.variant else '{}_{}'.format(args.name, args.variant)
@@ -52,12 +49,11 @@ def cmd_select(args):
     dst = paths.ref_active(args.name)
     os.makedirs(os.path.dirname(dst), exist_ok=True)
     shutil.copy2(src, dst)
-    voices[args.name]['ref'] = paths.ref_voices(args.name)
-    catalog.save_voices(voices)
+    catalog.gen_voice_list_json()
     print('✓ {} → {}'.format(
         os.path.relpath(src, paths.ROOT),
         os.path.relpath(dst, paths.ROOT)))
-    print('  ✓ voices.yaml обновлена — в игре зазвучит этот вариант')
+    print('  ✓ voice_list.json обновлён — в игре зазвучит этот вариант')
     return 0
 
 
@@ -65,7 +61,7 @@ def cmd_status(_):
     voices = catalog.load_voices()
     print('Статус озвучки:')
     for name, v in voices.items():
-        has = os.path.exists(paths.resolve_ref(v.get('ref', '')))
+        has = os.path.exists(paths.ref_active(name))
         print('  {} {}'.format('[OK]' if has else '[--]', name))
 
 

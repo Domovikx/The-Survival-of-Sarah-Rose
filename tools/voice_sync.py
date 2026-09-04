@@ -4,7 +4,7 @@
 Слои (источники правды):
   catalog/voices.json          кто есть в игре (собирается voice_catalog.py)
   voice_candidates/{Name}/     кто в работе (контракт + подпапки)
-  config/voices.yaml           кого озвучиваем (единственный рубильник)
+  каст-yaml (who_codes)      кого озвучиваем (озвучен = есть реф {Name}.wav)
 
 КОМАНДЫ:
   status                       сводка слоёв и расхождений (console)
@@ -12,7 +12,7 @@
                                пересобрать сводку voice_candidates.yaml
   migrate [--apply]            одноразовый переезд: refs/*.wav -> папки
                                персонажей, mp3 -> generated/gen_selected,
-                               обновление ref-путей в voices.yaml
+                               обновление структуры кастов
   report                       пересобрать missing_voices.md
                                + voice_sync_report.md
 
@@ -43,7 +43,7 @@ def load_voices_safe():
     try:
         return catalog.load_voices()
     except Exception as e:
-        print('!! voices.yaml: {}'.format(e))
+        print('!! каст: {}'.format(e))
         return {}
 
 
@@ -105,7 +105,7 @@ def cmd_status(_):
     print('СЛОИ:')
     print('  каталог (игра):        {:3d} персонажей'.format(len(chars)))
     print('  касты (voice_candidates): {:3d}'.format(len(casts)))
-    print('  voices.yaml (озвучка): {:3d}'.format(len(voices)))
+    print('  голоса (рефы в кастах): {:3d}'.format(len(voices)))
     print('  активные рефы в кастах: {:3d}'.format(
         sum(count_ref_files(c) for c in casts)))
 
@@ -114,12 +114,11 @@ def cmd_status(_):
         len(missing_casts), ', '.join(sorted(missing_casts))))
 
     no_file = []
-    for name, v in sorted(voices.items()):
-        ref = v.get('ref') or ''
-        if not os.path.exists(paths.resolve_ref(ref)):
-            no_file.append('{} -> {}'.format(name, ref))
+    for name in sorted(voices):
+        if not os.path.exists(paths.ref_active(name)):
+            no_file.append('{} -> {}'.format(name, paths.ref_voices(name)))
     if no_file:
-        print('\nBROKEN ref в voices.yaml ({}):'.format(len(no_file)))
+        print('\nBROKEN рефы ({}):'.format(len(no_file)))
         for x in no_file:
             print('  ' + x)
     else:
@@ -132,7 +131,7 @@ def cmd_status(_):
         if count_ref_files(c) and os.path.exists(paths.ref_active(c)):
             ready_no_voice.append(c)
     if ready_no_voice:
-        print('Есть активный реф, но НЕТ в voices.yaml ({}): {}'.format(
+        print('Каст без рефа ({}): {}'.format(
             len(ready_no_voice), ', '.join(ready_no_voice)))
     return 0
 
@@ -181,6 +180,8 @@ def cmd_update(args):
         print('-> {}'.format(paths.CAST_SUMMARY_YAML))
     else:
         print('сводка готова к записи ({} персонажей)'.format(len(summary['cast'])))
+    if args.apply:
+        print('-> {}'.format(catalog.gen_voice_list_json()))
     return 0
 
 
@@ -242,20 +243,6 @@ def cmd_migrate(args):
     for d in removed_dirs:
         print('  удалена пустая папка: {}'.format(os.path.relpath(d, paths.ROOT)))
 
-    print('=== voices.yaml: ref-пути (ref/ -> корень) ===')
-    voices = load_voices_safe()
-    changed = 0
-    for name, v in voices.items():
-        ref = v.get('ref') or ''
-        if '/ref/' in ref:
-            voices[name]['ref'] = ref.replace('/ref/', '/')
-            changed += 1
-    if args.apply:
-        catalog.save_voices(voices)
-        print('  обновлено ref-путей: {}'.format(changed))
-    else:
-        print('  будет обновлено ref-путей: {} (без --apply не пишем)'.format(
-            changed))
     if not args.apply:
         print('\nDRY-RUN: ничего не изменено. Запусти с --apply.')
     return 0
@@ -264,6 +251,7 @@ def cmd_migrate(args):
 def cmd_report(_):
     write_missing_voices()
     write_sync_report()
+    print('-> {}'.format(catalog.gen_voice_list_json()))
     return 0
 
 
@@ -292,8 +280,7 @@ def write_missing_voices():
     missing_total = sum(i['total'] for i in missing)
     with open(paths.MISSING_VOICES_MD, 'w', encoding='utf-8') as f:
         f.write('# Голоса, которых не хватает (заглушки)\n\n')
-        f.write('Правило: персонажа нет в `config/voices.yaml` — его реплики '
-                'не озвучиваются.\n')
+        f.write('Правило: озвучен = у каста есть реф {Name}.wav.\n')
         f.write('Файл генерируется: `python tools/voice_sync.py report`\n\n')
         f.write('## Готово ({}, {} реплик)\n\n'.format(len(ready), voiced_total))
         f.write('| Голос | Реплик | Диалог | Наррация | Арок |\n')
@@ -323,15 +310,8 @@ def write_sync_report():
     for c in casts:
         if c not in voices and os.path.exists(paths.ref_active(c)):
             ready.append(c)
-    broken, foreign = [], []
-    for name, v in sorted(voices.items()):
-        ref = v.get('ref') or ''
-        if not os.path.exists(paths.resolve_ref(ref)):
-            broken.append((name, ref))
-        else:
-            base = os.path.splitext(os.path.basename(ref))[0]
-            if base != name and not base.startswith(name + '_'):
-                foreign.append((name, base))
+    broken = [name for name in sorted(voices)
+              if not os.path.exists(paths.ref_active(name))]
 
     orphan = []
     for c in casts:
@@ -348,27 +328,17 @@ def write_sync_report():
     lines.append('| # | Персонаж |\n|---|---|\n')
     for n, c in enumerate(new, 1):
         lines.append('| {} | {} |\n'.format(n, c))
-    lines.append('\n## READY — есть активный реф, но не подключён ({}):\n'.format(
-        len(ready)))
-    lines.append('| Персонаж | Фрагмент для voices.yaml |\n|---|---|\n')
-    for c in ready:
-        lines.append('| {} | `ref: {}` |\n'.format(c, paths.ref_voices(c)))
-    lines.append('\n## BROKEN — ref указывает на несуществующий файл ({}):\n'.format(
+    lines.append('\n## BROKEN — каст есть, но нет активного рефа ({}):\n'.format(
         len(broken)))
-    lines.append('| Персонаж | ref |\n|---|---|\n')
-    for name, ref in broken:
-        lines.append('| {} | `{}` |\n'.format(name, ref))
-    lines.append('\n## FOREIGN — ref указывает на чужой голос ({}):\n'.format(
-        len(foreign)))
-    lines.append('| Персонаж | Реф принадлежит |\n|---|---|\n')
-    for name, base in foreign:
-        lines.append('| {} | {} |\n'.format(name, base))
-    lines.append('\n## ORPHAN — рабочие рефы без записи в voices.yaml ({}):\n'.format(
+    lines.append('| Персонаж | Ожидаемый файл |\n|---|---|\n')
+    for name in broken:
+        lines.append('| {} | `{}` |\n'.format(name, paths.ref_voices(name)))
+    lines.append('\n## ORPHAN — рабочие рефы без каста ({}):\n'.format(
         len(orphan)))
     lines.append('| Персонаж | Файл |\n|---|---|\n')
     for c, f in orphan:
         lines.append('| {} | {} |\n'.format(c, f))
-    if not (new or ready or broken or foreign or orphan):
+    if not (new or broken or orphan):
         lines.append('\nРасхождений нет.\n')
 
     os.makedirs(paths.CATALOG_DIR, exist_ok=True)

@@ -3,7 +3,7 @@
 
 ВХОД:
   - catalog/voices.json     каталог реплик (uid, old, new, who, arc, category)
-  - config/voices.yaml      у кого есть голос (кто НЕ указан — пропускается)
+  - касты: озвучен = есть реф {Голос}.wav (иначе пропуск)
 
 ВЫХОД:
   ai_voice/{lang}/{arc}/{uid}__{variant}.wav   (resumable: существующие скипаются)
@@ -15,7 +15,7 @@
 
 ТРИМ: наш trim_tail_burst (паттерн «тишина → короткий всплеск у конца файла»).
 
-Реф берётся ТОЛЬКО из config/voices.yaml (нет записи = не озвучиваем).
+Реф = voice_candidates/{Голос}/{Голос}.wav (правило); нет рефа = не озвучиваем.
 --ref перезаписывает путь (для A/B по вариантам {Name}_{v}.wav).
 
 ЗАПУСК (ОБЯЗАТЕЛЬНО через venv CosyVoice):
@@ -119,21 +119,21 @@ def load_emotions():
 def select_phrases(entries, voices, who_to_voice, args):
     """Фильтруем каталог до списка фраз к генерации.
 
-    Критерии: категория dialogue/narration, голос есть в voices.yaml,
-    фильтры args. Реф — только из voices.yaml (или --ref).
+    Критерии: категория dialogue/narration, у голоса есть реф {Name}.wav,
+    фильтры args. Реф — по правилу (или --ref).
     --text переопределяет всё: одна фраза с произвольным текстом
     (uid = md5(text), arc = --arc or 'Demo').
     """
     if args.text:
         uid = hashlib.md5(args.text.encode('utf-8')).hexdigest()
         arc = args.arc or 'Demo'
-        ref_cfg = voices.get(args.char or '', {}).get('ref')
+        char = args.char or ''
         if args.ref:
             ref = os.path.abspath(args.ref)
             variant = os.path.splitext(os.path.basename(args.ref))[0]
-        elif ref_cfg:
-            ref = paths.resolve_ref(ref_cfg)
-            variant = os.path.splitext(os.path.basename(ref_cfg))[0]
+        elif os.path.exists(paths.ref_active(char)):
+            ref = paths.resolve_ref(paths.ref_voices(char))
+            variant = char
         else:
             return []
         if args.emotion:
@@ -164,15 +164,14 @@ def select_phrases(entries, voices, who_to_voice, args):
             continue
         if args.uid and e['uid'] not in args.uid:
             continue
-        ref_cfg = voices.get(voice, {}).get('ref')
         if args.ref:
             ref = os.path.abspath(args.ref)
             variant = os.path.splitext(os.path.basename(args.ref))[0]
-        elif ref_cfg:
-            ref = paths.resolve_ref(ref_cfg)
-            variant = os.path.splitext(os.path.basename(ref_cfg))[0]
+        elif os.path.exists(paths.ref_active(voice)):
+            ref = paths.resolve_ref(paths.ref_voices(voice))
+            variant = voice
         else:
-            continue  # нет записи/рефа в voices.yaml -> не озвучиваем
+            continue  # нет активного рефа {Name}.wav -> не озвучиваем
         if args.emotion:
             variant += '_{}'.format(args.emotion_tag)
         elif args.no_emotion:

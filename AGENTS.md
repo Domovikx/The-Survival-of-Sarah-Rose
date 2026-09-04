@@ -22,14 +22,14 @@ ai_voice/                       # КОРЕНЬ ПРОЕКТА, рядом с gam
 game/
   catalog/
     label_arc.json              # label -> Arc (рантайм-мапа, грузится конфигом)
-    who_variant.json            # кто -> активный вариант (грузится конфигом;
-                                #  генерится voice_runtime_map.py при смене yaml)
+    voice_list.json             # голоса: имя -> variant (генерится из кастов)
   voice_config.rpy              # config.auto_voice = static_auto_voice
 ```
 
-**Поиск в игре:** сначала `{uid}__{активный вариант}.wav` (кто говорит →
-`_last_say_who.name` → `who_variant.json` → вариант из voices.yaml), затем
-фолбэк glob `{uid}*.wav` (первый совпавший по алфавиту).
+**Поиск в игре:** `voice_config.rpy` читает `catalog/voice_list.json`
+(генерится из кастов: озвучен = есть реф `{Name}.wav`; variant = имя
+персонажа). Кто говорит → `_last_say_who.name` → variant из voice_list.json,
+затем фолбэк glob `{uid}*.wav` (первый совпавший по алфавиту).
 
 `ai_voice/` лежит ВНЕ game/, поэтому voice_config.rpy добавляет корень
 проекта в `config.searchpath` — без этого Ren'Py ищет файлы только в game/.
@@ -45,10 +45,12 @@ catalog/
   voices.json                  # 68 254 записей: uid, old, new, who, arc, scene, category
   label_arc.json               # label -> Arc (рантайм-мапа для voice_config.rpy)
   missing_voices.md            # ЗАГЛУШКИ: кто без голоса (генерится voice_sync.py report)
-  voice_sync_report.md         # расхождения слоёв: NEW/READY/BROKEN/FOREIGN/ORPHAN
-  who_variant.json             # кто -> активный вариант (генерится voice_runtime_map.py)
+  voice_sync_report.md         # расхождения слоёв: NEW/BROKEN/ORPHAN
+  voice_list.json              # РАНТАЙМ-мапа (имя -> variant, who -> имя);
+                               #   генерится из кастов, читается voice_config.rpy
+                               #   voices.yaml НЕ существует: озвучен = есть реф
+                               #   {Имя}.wav; who-коды — в каст-yaml (who_codes)
 config/
-  voices.yaml                  # персонаж -> реф голоса; нет записи = не озвучиваем
   voice_presets.yaml           # ЕДИНАЯ карта конфигов: audio/refs/design/batch/beastify
                                #   (читается через tools/voicekit/config.py; в коде только
                                #   фолбэк-дефолты)
@@ -62,8 +64,8 @@ voice_candidates/
                                #   (любое имя mp3) -> станет {Имя}.wav;
                                #   несколько файлов: 1-й -> {Имя}.wav,
                                #   остальные -> {Имя}_2.wav, {Имя}_3.wav...
-    {Имя}.wav                 # АКТИВНЫЙ реф в корне каста (voices.yaml ссылается
-                               #   сюда); варианты A/B рядом: {Имя}_{v}.wav
+    {Имя}.wav                 # АКТИВНЫЙ реф в корне каста (озвучен = есть реф);
+                               #   варианты A/B рядом: {Имя}_{v}.wav
 tools/
   voicekit/                    # ЯДРО: paths (раскладка), catalog, contract (pydantic),
                                #   fs (безопасные операции), tts_env (пути моделей)
@@ -78,14 +80,14 @@ tools/
                                #   (pitch+formant вниз, тёмный EQ, acrusher, гроул-субтон,
                                #   модуляция/реверб) + loudnorm -16 LUFS/TP -1.5
   voice_batch.py               # батч-генерация: каталог -> ai_voice/{lang}/{arc}/{uid}__{variant}.wav
-                               #   (реф ТОЛЬКО из voices.yaml; --ref перезаписывает;
+                               #   (реф = voice_candidates/{Имя}/{Имя}.wav по
+                               #   правилу; --ref перезаписывает;
                                #    --emotion — стилевая инструкция в промпт, суффикс _em;
                                #    ДО генерации пишет манифест {wav}.txt: uid/arc/ref/emotion/
                                #    тексты/конфиг — описание того, чем сгенерировано)
   trim_tail_burst.py           # паттерн-трим хвостовых артефактов (импортится батчем)
   voice_manage.py              # list/status/select (select: {Имя}_{v}.wav -> {Имя}.wav +
-                               #   voices.yaml + who_variant.json)
-  voice_runtime_map.py         # voices.yaml + каталог -> catalog/who_variant.json
+                               #   voice_list.json)
   levelnorm.py                 # выравнивание реплик: -16 LUFS / TP -1.5
   voice_preview.py             # 3 самых длинных фразы × каждый реф -> ревью-таблица
   emotion_tag.py               # разметка эмоций: catalog/emotions.json
@@ -104,8 +106,8 @@ tools/
 корень каста: {Имя}.wav). Единый уровень громкости для ВСЕХ рефов.
 
 Категории (voices.json): dialogue 22 326, narration 44 941, menu 491, ui 496.
-Озвучиваются только dialogue + narration, и только персонажи из config/voices.yaml
-(остальные — пропуск, видны в missing_voices.md).
+Озвучиваются только dialogue + narration, и только касты с активным рефом
+{Имя}.wav (остальные — пропуск, видны в missing_voices.md).
 
 ## Актуализация (voice_sync)
 
@@ -132,8 +134,9 @@ python tools/voice_sync.py report  # обновить отчёты (заглуш
 # 1. Положить отобранный клип: voice_candidates/{Имя}/gen_selected/{Имя}.mp3
 # 2. Собрать рабочий реф (существующие скипаются):
 C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/add_candidate.py --only "{Имя}"
-#    -> корень каста {Имя}.wav, в консоли фрагмент для config/voices.yaml
-# 3. Вписать фрагмент в config/voices.yaml (ref: voice_candidates/{Имя}/{Имя}.wav)
+#    -> корень каста {Имя}.wav; голос ПОДКЛЮЧАЕТСЯ сам (озвучен = есть реф)
+# 3. (who-коды в каст-yaml: who_codes — заполняются из каталога, руками
+#    обычно не трогаются)
 # 4. Зафиксировать финальный реф (копия {Имя}.wav в корне — он и есть активный):
 python tools/voice_manage.py select {Имя} ""    # вариант без номера = базовый
 #    (или просто переименуй {Имя}_{v}.wav -> {Имя}.wav)
@@ -194,8 +197,8 @@ texts — рус. фразы с ЯВНЫМ признаком пола; файл
 5. Выбор: слушаешь пары в ai_voice/ru/{arc}/ (одинаковые uid рядом)
 6. Фиксация: voice_manage.py select {Name} {variant}
    → копирует {Name}_{variant}.wav → {Name}.wav (в корне каста)
-   → обновляет config/voices.yaml
-   → перегенерирует catalog/who_variant.json
+   → обновляет catalog/voice_list.json
+   → перегенерирует catalog/voice_list.json
 7. Генерация: voice_batch.py --char {Name} — использует активный реф
    (проигравшие варианты сохраняются рядом — {Name}_{v}.wav, для истории)
 ```
@@ -203,10 +206,10 @@ texts — рус. фразы с ЯВНЫМ признаком пола; файл
 ### Переключение варианта в рантайме (yaml рулит звучанием)
 
 Кто говорит, игра знает (`_last_say_who.name`). Приоритет резолва:
-`{uid}__{активный в yaml}.wav` → любой `{uid}*.wav`. Поэтому сменил
-`ref:` в voices.yaml → перегенерил `catalog/who_variant.json`
-(`python tools/voice_runtime_map.py`; select делает это сам) →
-в игре зазвучал новый вариант, старые файлы удалять НЕ обязательно
+`{uid}__{имя}.wav` → любой `{uid}*.wav`. Поэтому сделал
+`voice_manage.py select {Имя} {вариант}` (копирует {Имя}_{v}.wav → {Имя}.wav
+и перегенерит voice_list.json) → в игре зазвучал новый вариант, старые
+файлы удалять НЕ обязательно
 (они просто перестают выигрывать приоритет).
 
 ```
@@ -243,7 +246,7 @@ C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py \
 ```
 voice_candidates/{Name}/
   {Name}_{variant}.wav               # A/B-варианты (сохраняются для истории)
-  {Name}.wav                        # АКТИВНЫЙ реф (voices.yaml ссылается сюда)
+  {Name}.wav                        # АКТИВНЫЙ реф (озвучен = этот файл существует)
 ```
 
 Альтернативный реф без правки yaml: `voice_batch.py --ref`

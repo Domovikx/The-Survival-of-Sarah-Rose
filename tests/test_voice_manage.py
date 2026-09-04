@@ -23,28 +23,15 @@ def tmp_project(tmp_path, monkeypatch):
         ('VOICE_CANDIDATES', tmp_path / 'voice_candidates'),
         ('CATALOG_DIR', tmp_path / 'catalog'),
         ('CONFIG_DIR', tmp_path / 'config'),
-        ('VOICES_YAML', tmp_path / 'config' / 'voices.yaml'),
         ('VOICES_JSON', tmp_path / 'catalog' / 'voices.json'),
     ):
         monkeypatch.setattr(paths, attr, str(val))
 
-    (tmp_path / 'config').mkdir()
     (tmp_path / 'catalog').mkdir()
     char_dir = tmp_path / 'voice_candidates' / 'TestVoice'
     char_dir.mkdir(parents=True)
-
-    cfg = {
-        'voices': {
-            'TestVoice': {
-                'ref': 'voice_candidates/TestVoice/TestVoice.wav',
-                'who': ['tv'],
-                'gender': 'F'
-            }
-        }
-    }
-    with open(tmp_path / 'config' / 'voices.yaml', 'w',
-              encoding='utf-8') as f:
-        yaml.dump(cfg, f, allow_unicode=True)
+    (char_dir / 'TestVoice.yaml').write_text(
+        'name: TestVoice\nwho_codes: [tv]\n', encoding='utf-8')
 
     wav_active = char_dir / 'TestVoice.wav'
     wav_active.write_bytes(b'RIFFactive')
@@ -65,8 +52,7 @@ def test_load_cfg(tmp_project):
     from voicekit import catalog
     voices = catalog.load_voices()
     assert 'TestVoice' in voices
-    assert voices['TestVoice']['ref'] == \
-        'voice_candidates/TestVoice/TestVoice.wav'
+    assert voices['TestVoice']['who'] == ['tv']
 
 
 def test_select_variant(tmp_project, monkeypatch):
@@ -76,10 +62,6 @@ def test_select_variant(tmp_project, monkeypatch):
         type('A', (), {'name': 'TestVoice', 'variant': '1'}))
     assert rc == 0
 
-    from voicekit import catalog
-    cfg = catalog.load_voices()
-    assert cfg['TestVoice']['ref'] == \
-        'voice_candidates/TestVoice/TestVoice.wav'
     dst = paths.ref_active('TestVoice')
     assert os.path.exists(dst)
     assert open(dst, 'rb').read() == b'RIFFvariant1'
@@ -105,7 +87,6 @@ def test_list_variants(tmp_project, capsys):
     captured = capsys.readouterr()
     assert 'TestVoice' in captured.out
     assert 'варианты: TestVoice_1, TestVoice_2' in captured.out
-    assert 'voice_candidates/TestVoice/TestVoice.wav' in captured.out
 
 
 def test_status(tmp_project, capsys):

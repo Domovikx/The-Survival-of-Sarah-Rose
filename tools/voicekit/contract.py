@@ -20,6 +20,7 @@ try:
         gender: str = '?'
         age: str = '?'
         who: str = ''
+        who_codes: list = Field(default_factory=list)
         instruct_en: str = ''
         instruct_ru: str = ''
         texts: list = Field(default_factory=list)

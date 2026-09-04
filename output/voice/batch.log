@@ -1463,3 +1463,138 @@
 16:19:05 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
 16:19:14 model loaded in 9.6s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
 16:19:14 [1/352] 546df850 SailorArc Sakar: Мы теперь занимаемся бесплатными поездками?
+17:55:40 фраз к генерации: 108 (lang=ru, force=False)
+17:55:40   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Наконец-то, снова дома.
+17:55:40   827d46ec | Prologue | Sarah | [In a proud, commanding tone] ОТЕЦ!
+17:55:40   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты сли
+17:55:40   ad686f30 | Prologue | Sarah | [Surprised and caring] Тебя не было почти пять месяцев! Если ты думал, что я не обн
+17:55:40   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] Ты стала старше, но, кажется, не повзрослела.
+17:55:40   3779fea2 | Prologue | Sarah | [Angry disbelief] Злюка!
+17:55:40   57b02cba | Prologue | King Orwell Rose | [Cautiously curious] Кстати о взрослении, ты не видела...
+17:55:40   8493961f | Prologue | Thomas | [Surprised, with a hint of fear] ПАПА!
+17:55:40   cfeb0df9 | Prologue | Thomas | [Emotionally detached, with a hint of sar] Я так скучал по тебе, папа!
+17:55:40   8e0ff781 | Prologue | King Orwell Rose | [Tenderly reminiscing, warmly with affect] Я тоже скучал по тебе, сын, но помни: самообладание. Будущем
+17:55:40   ...
+17:55:45 фраз к генерации: 108 (lang=ru, force=False)
+17:55:45   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Наконец-то, снова дома.
+17:55:45   827d46ec | Prologue | Sarah | [In a proud, commanding tone] ОТЕЦ!
+17:55:45   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты сли
+17:55:45   ad686f30 | Prologue | Sarah | [Surprised and caring] Тебя не было почти пять месяцев! Если ты думал, что я не обн
+17:55:45   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] Ты стала старше, но, кажется, не повзрослела.
+17:55:45   3779fea2 | Prologue | Sarah | [Angry disbelief] Злюка!
+17:55:45   57b02cba | Prologue | King Orwell Rose | [Cautiously curious] Кстати о взрослении, ты не видела...
+17:55:45   8493961f | Prologue | Thomas | [Surprised, with a hint of fear] ПАПА!
+17:55:45   cfeb0df9 | Prologue | Thomas | [Emotionally detached, with a hint of sar] Я так скучал по тебе, папа!
+17:55:45   8e0ff781 | Prologue | King Orwell Rose | [Tenderly reminiscing, warmly with affect] Я тоже скучал по тебе, сын, но помни: самообладание. Будущем
+17:55:45   ...
+17:55:50 фраз к генерации: 356 (lang=ru, force=False)
+17:55:50   bf163c41 | StoryBeginnings | Sarah | [Suspiciously wary] Кто здесь?
+17:55:50   c7e40437 | StoryBeginnings | Kate | [Warmly, with affection] Сара, это я.
+17:55:50   029e52c3 | StoryBeginnings | Sarah | [Fatigued resignation] Кейт, я правда устала, не знаю, смогу ли сегодня...
+17:55:50   0a8001e6 | StoryBeginnings | Kate | [Detached regret] Я не за этим пришла, Сара.
+17:55:50   b6858cbe | StoryBeginnings | Sarah | [Curiously observing] Что ты здесь делаешь?
+17:55:50   9561da4e | StoryBeginnings | Sarah | [Joyfully exclaiming] Я так рада, что это ты, что ты здесь делаешь?
+17:55:50   39084078 | StoryBeginnings | Kate | [Curiously observing] Сара... мне нужно тебе кое-что сказать. Я знаю, это будет не
+17:55:50   62348d26 | StoryBeginnings | Sarah | [Warmly, with affection] Кейт... ты можешь рассказать мне всё что угодно. Что случило
+17:55:50   be4ca7b1 | StoryBeginnings | Kate | [Surprisedly shocked] Я была нечестна с тобой... не до конца.
+17:55:50   ac94edfc | StoryBeginnings | Kate | [With a somber and reflective tone] Я приехала не только из-за смерти твоего отца.
+17:55:50   ...
+17:55:55 фраз к генерации: 356 (lang=ru, force=False)
+17:55:55   bf163c41 | StoryBeginnings | Sarah | [Suspiciously wary] Кто здесь?
+17:55:55   c7e40437 | StoryBeginnings | Kate | [Warmly, with affection] Сара, это я.
+17:55:55   029e52c3 | StoryBeginnings | Sarah | [Fatigued resignation] Кейт, я правда устала, не знаю, смогу ли сегодня...
+17:55:55   0a8001e6 | StoryBeginnings | Kate | [Detached regret] Я не за этим пришла, Сара.
+17:55:55   b6858cbe | StoryBeginnings | Sarah | [Curiously observing] Что ты здесь делаешь?
+17:55:55   9561da4e | StoryBeginnings | Sarah | [Joyfully exclaiming] Я так рада, что это ты, что ты здесь делаешь?
+17:55:55   39084078 | StoryBeginnings | Kate | [Curiously observing] Сара... мне нужно тебе кое-что сказать. Я знаю, это будет не
+17:55:55   62348d26 | StoryBeginnings | Sarah | [Warmly, with affection] Кейт... ты можешь рассказать мне всё что угодно. Что случило
+17:55:55   be4ca7b1 | StoryBeginnings | Kate | [Surprisedly shocked] Я была нечестна с тобой... не до конца.
+17:55:55   ac94edfc | StoryBeginnings | Kate | [With a somber and reflective tone] Я приехала не только из-за смерти твоего отца.
+17:55:55   ...
+17:56:03 фраз к генерации: 108 (lang=ru, force=False)
+17:56:03   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Наконец-то, снова дома.
+17:56:03   827d46ec | Prologue | Sarah | [In a proud, commanding tone] ОТЕЦ!
+17:56:03   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты сли
+17:56:03   ad686f30 | Prologue | Sarah | [Surprised and caring] Тебя не было почти пять месяцев! Если ты думал, что я не обн
+17:56:03   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] Ты стала старше, но, кажется, не повзрослела.
+17:56:03   3779fea2 | Prologue | Sarah | [Angry disbelief] Злюка!
+17:56:03   57b02cba | Prologue | King Orwell Rose | [Cautiously curious] Кстати о взрослении, ты не видела...
+17:56:03   8493961f | Prologue | Thomas | [Surprised, with a hint of fear] ПАПА!
+17:56:03   cfeb0df9 | Prologue | Thomas | [Emotionally detached, with a hint of sar] Я так скучал по тебе, папа!
+17:56:03   8e0ff781 | Prologue | King Orwell Rose | [Tenderly reminiscing, warmly with affect] Я тоже скучал по тебе, сын, но помни: самообладание. Будущем
+17:56:03   ...
+17:56:08 фраз к генерации: 108 (lang=ru, force=False)
+17:56:08   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Наконец-то, снова дома.
+17:56:08   827d46ec | Prologue | Sarah | [In a proud, commanding tone] ОТЕЦ!
+17:56:08   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты сли
+17:56:08   ad686f30 | Prologue | Sarah | [Surprised and caring] Тебя не было почти пять месяцев! Если ты думал, что я не обн
+17:56:08   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] Ты стала старше, но, кажется, не повзрослела.
+17:56:08   3779fea2 | Prologue | Sarah | [Angry disbelief] Злюка!
+17:56:08   57b02cba | Prologue | King Orwell Rose | [Cautiously curious] Кстати о взрослении, ты не видела...
+17:56:08   8493961f | Prologue | Thomas | [Surprised, with a hint of fear] ПАПА!
+17:56:08   cfeb0df9 | Prologue | Thomas | [Emotionally detached, with a hint of sar] Я так скучал по тебе, папа!
+17:56:08   8e0ff781 | Prologue | King Orwell Rose | [Tenderly reminiscing, warmly with affect] Я тоже скучал по тебе, сын, но помни: самообладание. Будущем
+17:56:08   ...
+17:56:17 фраз к генерации: 237 (lang=ru, force=False)
+17:56:17   5b871d8c | Prologue | Narrator | [Curiously observing] Король Орвелл вернулся из своего путешествия по провинциям Р
+17:56:17   484ea304 | Prologue | Narrator | [Curiously observing] Он входит в большой зал замка Рейнмир, а следом за ним влета
+17:56:17   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Наконец-то, снова дома.
+17:56:17   9516eb40 | Prologue | Narrator | [Curiously observing] Король Орвелл ставит свою дорожную сумку на пол.
+17:56:17   827d46ec | Prologue | Sarah | [In a proud, commanding tone] ОТЕЦ!
+17:56:17   3defc76b | Prologue | Narrator | [Curiously observing] Сара прыгает в объятия отца.
+17:56:17   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты сли
+17:56:17   ad686f30 | Prologue | Sarah | [Surprised and caring] Тебя не было почти пять месяцев! Если ты думал, что я не обн
+17:56:17   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] Ты стала старше, но, кажется, не повзрослела.
+17:56:17   3779fea2 | Prologue | Sarah | [Angry disbelief] Злюка!
+17:56:17   ...
+17:56:21 фраз к генерации: 237 (lang=ru, force=False)
+17:56:21   5b871d8c | Prologue | Narrator | [Curiously observing] Король Орвелл вернулся из своего путешествия по провинциям Р
+17:56:21   484ea304 | Prologue | Narrator | [Curiously observing] Он входит в большой зал замка Рейнмир, а следом за ним влета
+17:56:21   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Наконец-то, снова дома.
+17:56:21   9516eb40 | Prologue | Narrator | [Curiously observing] Король Орвелл ставит свою дорожную сумку на пол.
+17:56:21   827d46ec | Prologue | Sarah | [In a proud, commanding tone] ОТЕЦ!
+17:56:21   3defc76b | Prologue | Narrator | [Curiously observing] Сара прыгает в объятия отца.
+17:56:21   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты сли
+17:56:21   ad686f30 | Prologue | Sarah | [Surprised and caring] Тебя не было почти пять месяцев! Если ты думал, что я не обн
+17:56:21   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] Ты стала старше, но, кажется, не повзрослела.
+17:56:21   3779fea2 | Prologue | Sarah | [Angry disbelief] Злюка!
+17:56:21   ...
+18:01:07 фраз к генерации: 237 (lang=ru, force=False)
+18:01:07   5b871d8c | Prologue | Narrator | [Curiously observing] Король Орвелл вернулся из своего путешествия по провинциям Р
+18:01:07   484ea304 | Prologue | Narrator | [Curiously observing] Он входит в большой зал замка Рейнмир, а следом за ним влета
+18:01:07   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Наконец-то, снова дома.
+18:01:07   9516eb40 | Prologue | Narrator | [Curiously observing] Король Орвелл ставит свою дорожную сумку на пол.
+18:01:07   827d46ec | Prologue | Sarah | [In a proud, commanding tone] ОТЕЦ!
+18:01:07   3defc76b | Prologue | Narrator | [Curiously observing] Сара прыгает в объятия отца.
+18:01:07   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты сли
+18:01:07   ad686f30 | Prologue | Sarah | [Surprised and caring] Тебя не было почти пять месяцев! Если ты думал, что я не обн
+18:01:07   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] Ты стала старше, но, кажется, не повзрослела.
+18:01:07   3779fea2 | Prologue | Sarah | [Angry disbelief] Злюка!
+18:01:07   ...
+18:09:39 фраз к генерации: 237 (lang=ru, force=False)
+18:09:39   5b871d8c | Prologue | Narrator | [Curiously observing] Король Орвелл вернулся из своего путешествия по провинциям Р
+18:09:39   484ea304 | Prologue | Narrator | [Curiously observing] Он входит в большой зал замка Рейнмир, а следом за ним влета
+18:09:39   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Наконец-то, снова дома.
+18:09:39   9516eb40 | Prologue | Narrator | [Curiously observing] Король Орвелл ставит свою дорожную сумку на пол.
+18:09:39   827d46ec | Prologue | Sarah | [In a proud, commanding tone] ОТЕЦ!
+18:09:39   3defc76b | Prologue | Narrator | [Curiously observing] Сара прыгает в объятия отца.
+18:09:39   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты сли
+18:09:39   ad686f30 | Prologue | Sarah | [Surprised and caring] Тебя не было почти пять месяцев! Если ты думал, что я не обн
+18:09:39   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] Ты стала старше, но, кажется, не повзрослела.
+18:09:39   3779fea2 | Prologue | Sarah | [Angry disbelief] Злюка!
+18:09:39   ...
+18:14:39 фраз к генерации: 23 (lang=ru, force=False)
+18:14:39   5b871d8c | Prologue | Narrator | [Curiously observing] Король Орвелл вернулся из своего путешествия по провинциям Р
+18:14:39   484ea304 | Prologue | Narrator | [Curiously observing] Он входит в большой зал замка Рейнмир, а следом за ним влета
+18:14:39   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Наконец-то, снова дома.
+18:14:39   9516eb40 | Prologue | Narrator | [Curiously observing] Король Орвелл ставит свою дорожную сумку на пол.
+18:14:39   827d46ec | Prologue | Sarah | [In a proud, commanding tone] ОТЕЦ!
+18:14:39   3defc76b | Prologue | Narrator | [Curiously observing] Сара прыгает в объятия отца.
+18:14:39   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты сли
+18:14:39   ad686f30 | Prologue | Sarah | [Surprised and caring] Тебя не было почти пять месяцев! Если ты думал, что я не обн
+18:14:39   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] Ты стала старше, но, кажется, не повзрослела.
+18:14:39   3779fea2 | Prologue | Sarah | [Angry disbelief] Злюка!
+18:14:39   ...
+18:14:39 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+18:14:47 model loaded in 7.8s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+18:14:47 [1/23] 5b871d8c Prologue Narrator: Король Орвелл вернулся из своего путешествия по провинциям Р

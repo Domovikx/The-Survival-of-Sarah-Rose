@@ -34,21 +34,18 @@ def full_project(tmp_path, monkeypatch):
         ('VOICE_CANDIDATES', tmp_path / 'voice_candidates'),
         ('CATALOG_DIR', tmp_path / 'catalog'),
         ('CONFIG_DIR', tmp_path / 'config'),
-        ('VOICES_YAML', tmp_path / 'config' / 'voices.yaml'),
         ('VOICES_JSON', tmp_path / 'catalog' / 'voices.json'),
         ('AI_VOICE_DIR', tmp_path / 'ai_voice'),
     ):
         monkeypatch.setattr(paths, attr, str(val))
 
-    (tmp_path / 'config').mkdir()
     (tmp_path / 'catalog').mkdir()
     char_dir = tmp_path / 'voice_candidates' / 'TestVoice'
     gen_sel = char_dir / 'gen_selected'
     gen_sel.mkdir(parents=True)
+    (char_dir / 'TestVoice.yaml').write_text(
+        'name: TestVoice\nwho_codes: [tv]\n', encoding='utf-8')
 
-    import yaml
-    with open(paths.VOICES_YAML, 'w', encoding='utf-8') as f:
-        yaml.dump({'voices': {}}, f)
     import json
     with open(paths.VOICES_JSON, 'w', encoding='utf-8') as f:
         json.dump({'entries': [], 'characters': {'tv': 'TestVoice'}}, f)

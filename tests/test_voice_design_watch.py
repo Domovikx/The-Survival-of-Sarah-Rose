@@ -19,7 +19,6 @@ def tmp_layout(tmp_path, monkeypatch):
         ('VOICE_CANDIDATES', tmp_path / 'voice_candidates'),
         ('CATALOG_DIR', tmp_path / 'catalog'),
         ('CONFIG_DIR', tmp_path / 'config'),
-        ('VOICES_YAML', tmp_path / 'config' / 'voices.yaml'),
         ('VOICES_JSON', tmp_path / 'catalog' / 'voices.json'),
         ('OUTPUT_DIR', tmp_path / 'output'),
     ):
@@ -29,9 +28,6 @@ def tmp_layout(tmp_path, monkeypatch):
     import json
     with open(paths.VOICES_JSON, 'w', encoding='utf-8') as f:
         json.dump({'entries': [], 'characters': {}}, f)
-    import yaml
-    with open(paths.VOICES_YAML, 'w', encoding='utf-8') as f:
-        yaml.dump({'voices': {}}, f)
     return tmp_path
 
 

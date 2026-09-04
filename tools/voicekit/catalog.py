@@ -15,21 +15,35 @@ def load_catalog():
 
 
 def load_voices():
-    """config/voices.yaml -> {имя_голоса: {ref, who, gender, ...}}."""
-    with open(paths.VOICES_YAML, encoding='utf-8') as f:
-        cfg = yaml.safe_load(f) or {}
-    return cfg.get('voices', {}) or {}
+    """{имя_голоса: {'who': [коды]}} из КАСТОВ (voice_candidates/{Name}.yaml).
+
+    Озвучен = у каста есть активный реф {Name}.wav (правило, без voices.yaml).
+    """
+    out = {}
+    for name in cast_names():
+        if not os.path.exists(paths.ref_active(name)):
+            continue
+        cast = load_cast(name) or {}
+        codes = cast.get('who_codes') or []
+        out[name] = {'who': codes if isinstance(codes, list) else [codes]}
+    return out
 
 
 def save_voices(voices):
-    os.makedirs(paths.CONFIG_DIR, exist_ok=True)
-    with open(paths.VOICES_YAML, 'w', encoding='utf-8', newline='\n') as f:
-        yaml.dump({'voices': voices}, f, allow_unicode=True,
-                  default_flow_style=False, sort_keys=False)
+    """Совместимость: переносит who-коды в каст-yaml (voices.yaml не существует)."""
+    for name, vcfg in (voices or {}).items():
+        codes = vcfg.get('who') or []
+        if isinstance(codes, str):
+            codes = [codes]
+        cast = load_cast(name) or {}
+        if name not in cast_names():
+            cast.setdefault('name', name)
+        cast['who_codes'] = sorted(set(codes))
+        save_cast(name, cast)
 
 
 def who_to_voice(voices=None):
-    """who-код -> имя голоса (из who-списков voices.yaml)."""
+    """who-код -> имя голоса (из who_codes кастов с активным рефом)."""
     if voices is None:
         voices = load_voices()
     m = {}
@@ -37,6 +51,27 @@ def who_to_voice(voices=None):
         for w in vcfg.get('who', []) or []:
             m[w] = vname
     return m
+
+
+def gen_voice_list_json():
+    """catalog/voice_list.json для РАНТАЙМА (Ren'Py): имя -> variant, код -> имя.
+
+    variant = имя персонажа (активный реф всегда {Name}.wav). Пишется при
+    изменениях кастов (voice_sync report / voice_manage select / add_candidate).
+    """
+    voices = load_voices()
+    names = {n: n for n in voices}
+    by_who = {}
+    for vname, vcfg in voices.items():
+        for w in vcfg.get('who', []) or []:
+            by_who[w] = vname
+    doc = {'names': names, 'by_who': by_who,
+           'narrator': 'Narrator' if 'Narrator' in voices else ''}
+    os.makedirs(paths.CATALOG_DIR, exist_ok=True)
+    out = os.path.join(paths.CATALOG_DIR, 'voice_list.json')
+    with open(out, 'w', encoding='utf-8', newline='\n') as f:
+        json.dump(doc, f, ensure_ascii=False, indent=1)
+    return out
 
 
 def load_cast(name):

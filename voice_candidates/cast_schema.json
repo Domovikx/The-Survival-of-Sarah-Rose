@@ -20,6 +20,11 @@
       "title": "Who",
       "type": "string"
     },
+    "who_codes": {
+      "items": {},
+      "title": "Who Codes",
+      "type": "array"
+    },
     "instruct_en": {
       "default": "",
       "title": "Instruct En",

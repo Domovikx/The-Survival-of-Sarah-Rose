@@ -51,8 +51,8 @@ def patch_all_paths(monkeypatch, tmp_path):
         ('VOICE_CANDIDATES', tmp_path / 'voice_candidates'),
         ('CATALOG_DIR', tmp_path / 'catalog'),
         ('CONFIG_DIR', tmp_path / 'config'),
-        ('VOICES_YAML', tmp_path / 'config' / 'voices.yaml'),
         ('VOICES_JSON', tmp_path / 'catalog' / 'voices.json'),
+        ('VOICE_LIST_JSON', tmp_path / 'catalog' / 'voice_list.json'),
         ('CAST_SUMMARY_YAML', tmp_path / 'voice_candidates'
          / 'voice_candidates.yaml'),
         ('MISSING_VOICES_MD', tmp_path / 'catalog' / 'missing_voices.md'),
@@ -84,21 +84,6 @@ def tmp_layout(tmp_path, monkeypatch):
     (vc / 'Samayra' / 'ref').mkdir()
     (vc / 'Samayra' / 'ref' / 'Carolyn.wav').write_bytes(b'RIFF')
 
-    (tmp_path / 'config').mkdir()
-    cfg = {'voices': {
-        'Alaric': {'ref': 'voice_candidates/Alaric/ref/Alaric.wav',
-                   'who': ['al'], 'gender': 'M'},
-        'Carolyn': {'ref': 'voice_candidates/Carolyn/ref/Carolyn.wav',
-                    'who': ['c'], 'gender': 'F'},
-        'Duke Antonio': {'ref': 'voice_candidates/Duke Antonio/ref/Duke Antonio.wav',
-                         'who': ['ant'], 'gender': 'M'},
-        'Samayra': {'ref': 'voice_candidates/Samayra/ref/Carolyn.wav',
-                    'who': ['sa'], 'gender': 'F'},
-    }}
-    with open(tmp_path / 'config' / 'voices.yaml', 'w',
-              encoding='utf-8') as f:
-        yaml.dump(cfg, f, allow_unicode=True)
-
     (tmp_path / 'catalog').mkdir()
     with open(tmp_path / 'catalog' / 'voices.json', 'w',
               encoding='utf-8') as f:
@@ -121,16 +106,8 @@ def test_migrate_apply_moves_files(tmp_layout):
     assert (vc / 'Gorak' / 'Gorak_u3.wav').exists()
     assert not (vc / 'Gorak' / 'in_progress').exists()
     assert (vc / 'Samayra' / 'Carolyn.wav').exists()
-    with open(tmp_layout / 'config' / 'voices.yaml', encoding='utf-8') as f:
-        cfg = yaml.safe_load(f)
-    assert cfg['voices']['Alaric']['ref'] == \
-        'voice_candidates/Alaric/Alaric.wav'
-    assert cfg['voices']['Carolyn']['ref'] == \
-        'voice_candidates/Carolyn/Carolyn.wav'
-    assert cfg['voices']['Duke Antonio']['ref'] == \
-        'voice_candidates/Duke Antonio/Duke Antonio.wav'
-    assert cfg['voices']['Samayra']['ref'] == \
-        'voice_candidates/Samayra/Carolyn.wav'
+    assert 'Alaric' in voice_sync.catalog.load_voices()
+    assert 'Carolyn' in voice_sync.catalog.load_voices()
 
 
 def test_migrate_dry_run_changes_nothing(tmp_layout):
@@ -157,8 +134,6 @@ def test_update_creates_structure(tmp_path, monkeypatch):
     import json
     with open(paths.VOICES_JSON, 'w', encoding='utf-8') as f:
         json.dump({'entries': [], 'characters': {'zz': 'Zed'}}, f)
-    with open(paths.VOICES_YAML, 'w', encoding='utf-8') as f:
-        yaml.dump({'voices': {}}, f)
 
     voice_sync.cmd_update(type('A', (), {'apply': True})())
     d = os.path.join(vc, 'Zed')

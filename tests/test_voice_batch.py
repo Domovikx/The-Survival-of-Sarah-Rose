@@ -1,7 +1,7 @@
 """Тесты для tools/voice_batch.py — разрешение рефов и генерация.
 
-Новая структура: реф живёт в voice_candidates/{Name}/{Name}.wav,
-voices.yaml ссылается туда же; персонаж без ref в voices.yaml НЕ озвучивается.
+Новая структура: реф = voice_candidates/{Name}/{Name}.wav (правило, не запись
+в yaml); персонаж без записи в voices.yaml НЕ озвучивается.
 """
 
 import os
@@ -33,33 +33,17 @@ def mock_config(tmp_path, monkeypatch):
         ('VOICE_CANDIDATES', tmp_path / 'voice_candidates'),
         ('CATALOG_DIR', tmp_path / 'catalog'),
         ('CONFIG_DIR', tmp_path / 'config'),
-        ('VOICES_YAML', tmp_path / 'config' / 'voices.yaml'),
         ('VOICES_JSON', tmp_path / 'catalog' / 'voices.json'),
+        ('VOICE_LIST_JSON', tmp_path / 'catalog' / 'voice_list.json'),
         ('AI_VOICE_DIR', tmp_path / 'ai_voice'),
     ):
         monkeypatch.setattr(paths, attr, str(val))
 
-    (tmp_path / 'config').mkdir()
     (tmp_path / 'catalog').mkdir()
-    ref_dir = tmp_path / 'voice_candidates' / 'TestVoice' / 'ref'
+    ref_dir = tmp_path / 'voice_candidates' / 'TestVoice'
     ref_dir.mkdir(parents=True)
-
-    cfg = {
-        'voices': {
-            'TestVoice': {
-                'ref': 'voice_candidates/TestVoice/TestVoice.wav',
-                'who': ['tv'],
-                'gender': 'F'
-            },
-            'NoRefVoice': {
-                'who': ['nr'],
-                'gender': 'M'
-            }
-        }
-    }
-    with open(tmp_path / 'config' / 'voices.yaml', 'w',
-              encoding='utf-8') as f:
-        yaml.dump(cfg, f, allow_unicode=True)
+    (ref_dir / 'TestVoice.yaml').write_text(
+        'name: TestVoice\nwho_codes: [tv]\n', encoding='utf-8')
 
     catalog = {
         'entries': [
@@ -116,51 +100,31 @@ def test_select_phrases_with_ref(mock_config):
     assert len(phrases) == 1
     assert phrases[0]['uid'] == 'test_uid_001'
     assert phrases[0]['voice'] == 'TestVoice'
-    assert 'TestVoice.wav' in phrases[0]['ref']
+    assert phrases[0]['ref'].endswith('voice_candidates/TestVoice/TestVoice.wav')
 
 
-def test_select_phrases_skips_no_ref(mock_config):
+def test_select_phrases_skips_unlisted(mock_config):
     import voice_batch
     entries, voices, who_to_voice = voice_batch.load_inputs()
     phrases = voice_batch.select_phrases(
-        entries, voices, who_to_voice, make_args(char='NoRefVoice'))
-    assert phrases == []
+        entries, voices, who_to_voice, make_args())
+    no_ref = [p for p in phrases if p['voice'] == 'NoRefVoice']
+    assert no_ref == []
 
 
-def test_select_phrases_narration(mock_config):
+def test_select_phrases_narration(mock_config, tmp_path):
     import voice_batch
-    cfg_path = paths.VOICES_YAML
-    with open(cfg_path, encoding='utf-8') as f:
-        cfg = yaml.safe_load(f)
-    cfg['voices']['Narrator'] = {
-        'ref': 'voice_candidates/Narrator/Narrator.wav',
-        'who': ['narrator']
-    }
-    with open(cfg_path, 'w', encoding='utf-8') as f:
-        yaml.dump(cfg, f, allow_unicode=True)
+    nd = tmp_path / 'voice_candidates' / 'Narrator'
+    nd.mkdir(parents=True)
+    (nd / 'Narrator.yaml').write_text(
+        'name: Narrator\nwho_codes: [narrator]\n', encoding='utf-8')
+    (nd / 'Narrator.wav').write_bytes(b'RIFF')
 
     entries, voices, who_to_voice = voice_batch.load_inputs()
     phrases = voice_batch.select_phrases(
         entries, voices, who_to_voice, make_args())
     narration = [p for p in phrases if p['uid'] == 'test_uid_003']
     assert len(narration) == 1
-
-
-def test_ref_path_uses_yaml_ref(mock_config):
-    import voice_batch
-    cfg_path = paths.VOICES_YAML
-    with open(cfg_path, encoding='utf-8') as f:
-        cfg = yaml.safe_load(f)
-    cfg['voices']['TestVoice']['ref'] = \
-        'voice_candidates/TestVoice/custom_path.wav'
-    with open(cfg_path, 'w', encoding='utf-8') as f:
-        yaml.dump(cfg, f, allow_unicode=True)
-
-    entries, voices, who_to_voice = voice_batch.load_inputs()
-    phrases = voice_batch.select_phrases(
-        entries, voices, who_to_voice, make_args(char='TestVoice'))
-    assert len(phrases) == 1
-    assert 'custom_path.wav' in phrases[0]['ref']
 
 
 def test_override_ref_via_args(mock_config):

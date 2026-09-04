@@ -14,7 +14,7 @@ description: Актуализатор и мигратор voice-структур
 |---|---|---|
 | Каталог | `catalog/voices.json` | кто есть в игре (пересобирается `voice_catalog.py` при апдейте игры) |
 | Касты | `voice_candidates/{Name}/{Name}.yaml` | кто в работе (контракт + отчёт) |
-| Озвучка | `config/voices.yaml` | кого озвучиваем — **единственный рубильник** генерации |
+| Озвучка | каст-yaml (`who_codes`) + реф `{Name}.wav` | озвучен = есть реф; voices.yaml НЕ существует |
 | Рефы | `voice_candidates/{Name}/{Name}.wav` | активный реф в корне; варианты `{Name}_{v}.wav` рядом |
 
 ## Команды
@@ -44,7 +44,7 @@ python tools/voice_sync.py migrate --apply     # переезд refs/ -> пап�
 ```
 voicekit/
   paths.py      # ВСЯ раскладка в одном месте — скриптам запрещено хардкодить пути
-  catalog.py    # загрузка voices.json / voices.yaml / каста
+  catalog.py    # загрузка voices.json / кастов / gen_voice_list_json
   contract.py   # pydantic-контракт {Name}.yaml + cast_schema.json (IDE-автокомплит)
   fs.py         # безопасные операции (create-if-missing, dry-run, лог)
   tts_env.py    # пути моделей (env-переопределяемые: TSSR_COSY_ROOT, QWEN_TTS_APP, ...)

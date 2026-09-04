@@ -92,7 +92,7 @@ def main():
     chars = args.chars if args.chars else list(voices.keys())
     missing = [c for c in chars if c not in voices]
     if missing:
-        print('НЕТ в voices.yaml:', ', '.join(missing))
+        print('нет рефа:', ', '.join(missing))
         return 1
 
     plan = []

@@ -29,9 +29,9 @@ Arc в рантайме = label-часть translation ID (`OpeningScene_92a05bc
 `config.searchpath.append("")` в voice_config.rpy.
 
 **Поиск в игре:** приоритет `{uid}__{активный вариант}.wav` (кто говорит →
-`_last_say_who.name` → `catalog/who_variant.json` → вариант из voices.yaml),
+`_last_say_who.name` → `catalog/voice_list.json` → вариант = имя персонажа),
 затем фолбэк glob `{uid}*.wav` (первый по алфавиту). Сменил `ref:` в yaml →
-`python tools/voice_runtime_map.py` (или `voice_manage.py select` — он сам) →
+`voice_manage.py select` (он сам перегенерит `catalog/voice_list.json`) →
 в игре зазвучал новый вариант. Файлы разных вариантов живут рядом,
 проигравшие просто теряют приоритет.
 
@@ -39,7 +39,7 @@ Arc в рантайме = label-часть translation ID (`OpeningScene_92a05bc
 
 ```
 refs/
-  {Голос}.wav            # АКТИВНЫЙ реф: voices.yaml ссылается сюда
+  {Голос}.wav            # АКТИВНЫЙ реф (озвучен = этот файл существует)
   {Голос}_{variant}.wav  # варианты для A/B (Sarah_1, Sarah_3, Sigmund_2, ...)
 voice_candidates/{Имя}/  # источники: *.mp3 (НЕ qwen_*.mp3)
 ```
@@ -62,7 +62,7 @@ voice_candidates/{Имя}/  # источники: *.mp3 (НЕ qwen_*.mp3)
 | `add_candidate.py` | MP3-кандидат → реф: нарезка 10с + чистка + loudnorm, одним прогоном (инкрементально; qwen_*.mp3 игнорируются) |
 | `clean_refs.py` | чистка рефа: highpass+afftdn+deesser+highshelf → loudnorm → фейды |
 | `voice_batch.py` | батч-генерация в ai_voice/{lang}/{arc}/{uid}__{variant}.wav; флаг `--ref` перезаписывает реф из yaml |
-| `voice_runtime_map.py` | voices.yaml + каталог → catalog/who_variant.json (кто → активный вариант; зовётся select'ом и каталогом) |
+| `catalog.gen_voice_list_json` | касты (who_codes) → catalog/voice_list.json (рантайм-мапа; зовётся select'ом/add_candidate/report) |
 | `levelnorm.py` | выравнивание уровня реплик -16 LUFS / TP -1.5 (loudnorm dynamic; автоматически в voice_batch, CLI `--dir ai_voice/ru` для старых) |
 | `voice_preview.py` | 3 самых длинных фразы × каждый вариант → ревью-таблица output/voice/preview_review.md |
 | `trim_tail_burst.py` | паттерн-трим хвостов (импортится батчем) |
@@ -80,7 +80,7 @@ C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/voice_batch.py \
   включая постфикс варианта, поэтому разные рефы не конфликтуют)
 - Конфиг: cross_lingual + RL, flow-temp 0.8, cfg 0.7, RAS 0.8/25/0.1, seed 42, silent-trim
   (официальные параметры модели; flow-temp 1.2/cfg 0.9 давали артефакты)
-- Озвучиваются только dialogue+наррация и только персонажи из config/voices.yaml
+- Озвучиваются только dialogue+наррация и только касты с рефом {Голос}.wav
 - `--ref refs/X_2.wav` — генерация конкретным вариантом БЕЗ правки yaml
   (файлы выйдут `{uid}__X_2.wav`); yaml при этом не трогается
 - Автотрим хвостов (паттерн: тишина ≥80мс → всплеск ≤500мс у конца файла)
@@ -136,7 +136,8 @@ Unicode-ударение **U+0301** (combining acute) после ударной 
 #    ВАЖНО: qwen_*.mp3 игнорируются (это VoiceDesign — не рефы)
 # 2. Собрать реф (нарезка+чистка+loudnorm, существующие скипаются):
 C:\tools\cosyvoice3\.venv\Scripts\python.exe tools/add_candidate.py
-# 3. Вписать напечатанный фрагмент в config/voices.yaml (ref → refs/{Имя}.wav)
+# 3. Голос подключается сам: озвучен = есть реф {Имя}.wav в корне каста
+#    (who-коды — who_codes в каст-yaml, заполняются из каталога)
 # 4. Обновить отчёт заглушек:
 python tools/voice_status.py
 # 5. Сгенерировать реплики этого персонажа:

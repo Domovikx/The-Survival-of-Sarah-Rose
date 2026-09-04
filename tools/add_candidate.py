@@ -79,17 +79,6 @@ def cut_and_clean(name, mp3_path, variant=None, preset=None):
     return dst, True
 
 
-def yaml_snippet(name, who_map):
-    """Печатаем фрагмент для config/voices.yaml."""
-    print('  --- добавь в config/voices.yaml: ---')
-    print('  {}:'.format(name))
-    print('    ref: {}'.format(paths.ref_voices(name)))
-    print('    gender: ???   # заполни: M / F')
-    if name in who_map:
-        print('    who: {}'.format(', '.join(sorted(who_map[name]))))
-    print('  ----------------------------------')
-
-
 def load_who_map():
     """Из catalog/voices.json достаём {имя: [who]}."""
     import json
@@ -156,10 +145,14 @@ def main():
                     os.path.relpath(ref_path, paths.ROOT),
                     'НОВЫЙ' if made else 'уже был',
                     os.path.basename(mp3_path)))
-        yaml_snippet(name, who_map)
+        if name in who_map:
+            print('  who_codes в касте: {}'.format(
+                ', '.join(sorted(who_map[name]))))
 
     print('\nГотово. Рабочие рефы в корне каста. '
           'Финальный реф: voice_manage select.')
+    from voicekit import catalog as _cat
+    print('-> {}'.format(_cat.gen_voice_list_json()))
     return 0
 
 
