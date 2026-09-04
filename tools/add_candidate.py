@@ -3,7 +3,8 @@
 
 ЧТО ДЕЛАЕТ (по шагам, существующие файлы НЕ пересоздаются):
   1. Сканирует voice_candidates/{Голос}/gen_selected/*.mp3
-     (сюда кладёшь отобранные на слух клипы; имя = {Name}.mp3 или {Name}_1.mp3)
+     (ОДИН файл с ЛЮБЫМ именем -> станет {Голос}.wav;
+      если файлов несколько: первый -> {Голос}.wav, остальные -> {Голос}_{i}.wav)
   2. Первые 10 секунд -> чистка -> voice_candidates/{Голос}/корень каста/
      (рабочая зона: рефы для A/B и экспериментов с фильтрами)
   3. Активный реф (после A/B) = {Голос}.wav в корне каста
@@ -127,18 +128,21 @@ def main():
 
     for name, mp3s in sorted(candidates.items()):
         print('\n=== {} ==='.format(name))
-        for mp3_path in mp3s:
-            mp3_name = os.path.splitext(os.path.basename(mp3_path))[0]
-            if mp3_name.startswith(name + '_'):
-                variant = mp3_name[len(name) + 1:]
-            elif mp3_name == name:
-                variant = None
-            else:
-                variant = mp3_name
-            ref_path, made = cut_and_clean(name, mp3_path, variant)
+        if len(mp3s) == 1:
+            ref_path, made = cut_and_clean(name, mp3s[0], None)
             print('  {:<40s} {}'.format(
                 os.path.relpath(ref_path, paths.ROOT),
                 'НОВЫЙ' if made else 'уже был'))
+        else:
+            print('  в gen_selected/ {} mp3 — нейминг игнорируем:'.format(
+                len(mp3s)))
+            for i, mp3_path in enumerate(mp3s, 1):
+                variant = None if i == 1 else i
+                ref_path, made = cut_and_clean(name, mp3_path, variant)
+                print('  {:<40s} {} (из {})'.format(
+                    os.path.relpath(ref_path, paths.ROOT),
+                    'НОВЫЙ' if made else 'уже был',
+                    os.path.basename(mp3_path)))
         yaml_snippet(name, who_map)
 
     print('\nГотово. Рабочие рефы в корне каста. '

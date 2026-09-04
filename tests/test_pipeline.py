@@ -85,7 +85,53 @@ def test_add_candidate_from_gen_selected(full_project, monkeypatch):
     assert os.path.getsize(ref) > 1000
 
 
+def test_add_candidate_any_mp3_name(full_project, monkeypatch):
+    """Один mp3 с любым именем в gen_selected -> TestVoice.wav (нейминг не важен)."""
+    ffmpeg = find_ffmpeg()
+    if not ffmpeg:
+        pytest.skip('ffmpeg не найден')
+
+    mp3 = os.path.join(paths.char_subdir('TestVoice', 'gen_selected'),
+                       '04.mp3')
+    subprocess.run([
+        ffmpeg, '-y', '-f', 'lavfi', '-i',
+        'sine=frequency=440:duration=12', '-ac', '1', '-ar', '24000',
+        '-b:a', '96k', mp3
+    ], capture_output=True, check=True)
+
+    import add_candidate
+    monkeypatch.setattr(sys, 'argv', ['add_candidate.py', '--only',
+                                      'TestVoice'])
+    assert add_candidate.main() == 0
+    assert os.path.exists(os.path.join(paths.char_dir('TestVoice'),
+                                       'TestVoice.wav'))
+    assert not os.path.exists(os.path.join(paths.char_dir('TestVoice'),
+                                           'TestVoice_04.wav'))
+
+
 def test_add_candidate_resumable(full_project, monkeypatch):
+    """add_candidate повторно НЕ пересоздаёт существующий реф."""
+    ffmpeg = find_ffmpeg()
+    if not ffmpeg:
+        pytest.skip('ffmpeg не найден')
+
+    mp3 = os.path.join(paths.char_subdir('TestVoice', 'gen_selected'),
+                       'TestVoice.mp3')
+    subprocess.run([
+        ffmpeg, '-y', '-f', 'lavfi', '-i',
+        'sine=frequency=440:duration=12', '-ac', '1', '-ar', '24000',
+        '-b:a', '96k', mp3
+    ], capture_output=True, check=True)
+
+    import add_candidate
+    monkeypatch.setattr(sys, 'argv', ['add_candidate.py', '--only',
+                                      'TestVoice'])
+    assert add_candidate.main() == 0
+    ref = os.path.join(paths.char_dir('TestVoice'),
+                       'TestVoice.wav')
+    mtime = os.path.getmtime(ref)
+    assert add_candidate.main() == 0
+    assert os.path.getmtime(ref) == mtime  # не пересоздан
     """add_candidate повторно НЕ пересоздаёт существующий реф."""
     ffmpeg = find_ffmpeg()
     if not ffmpeg:
