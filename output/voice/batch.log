@@ -2690,3 +2690,94 @@ an
 20:38:04   bcdf3b90 | StoryBeginnings | Narrator | [Curiously observing] Сара почувствовала, как участился пульс.
 20:38:04   ...
 20:38:04 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:38:08 фраз к генерации: 237 (lang=ru, force=False)
+20:38:08   5b871d8c | Prologue | Narrator | [Curiously observing] Король Орвелл вернулся из своего путешествия по провинциям Р
+20:38:08   484ea304 | Prologue | Narrator | [Curiously observing] Он входит в большой зал замка Рейнмир, а следом за ним влета
+20:38:08   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Наконец-то, снова дома.
+20:38:08   9516eb40 | Prologue | Narrator | [Curiously observing] Король Орвелл ставит свою дорожную сумку на пол.
+20:38:08   827d46ec | Prologue | Sarah | [In a proud, commanding tone] ОТЕЦ!
+20:38:08   3defc76b | Prologue | Narrator | [Curiously observing] Сара прыгает в объятия отца.
+20:38:08   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты сли
+20:38:08   ad686f30 | Prologue | Sarah | [Surprised and caring] Тебя не было почти пять месяцев! Если ты думал, что я не обн
+20:38:08   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] Ты стала старше, но, кажется, не повзрослела.
+20:38:08   3779fea2 | Prologue | Sarah | [Angry disbelief] Злюка!
+20:38:08   ...
+20:38:08 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:38:08 фраз к генерации: 237 (lang=en, force=False)
+20:38:08   5b871d8c | Prologue | Narrator | [Curiously observing] King Orwell has returned from his travels through the provin
+20:38:08   484ea304 | Prologue | Narrator | [Curiously observing] He enters the great hall of Castle Reinmeer, the snow of an 
+20:38:08   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Finally, home again.
+20:38:08   9516eb40 | Prologue | Narrator | [Curiously observing] King Orwell pluts his travel bag down.
+20:38:08   827d46ec | Prologue | Sarah | [In a proud, commanding tone] FATHER!
+20:38:08   3defc76b | Prologue | Narrator | [Curiously observing] Sarah leaps into her father's arms.
+20:38:08   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ooh, Sarah, my back! Please daugher, I'm not as young as I w
+20:38:08   ad686f30 | Prologue | Sarah | [Surprised and caring] You were gone for almost five months! If you thought I wasn'
+20:38:08   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] You've grown older but I don't think you've grown up yet.
+20:38:08   3779fea2 | Prologue | Sarah | [Angry disbelief] So mean!
+20:38:08   ...
+20:38:08 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:38:15 model loaded in 10.7s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:38:15 [139/1024] e605cebb StoryBeginnings Narrator: Сара помахала Мариону, направляясь к выходу из большого зала
+20:38:19 model loaded in 11.4s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:38:19 [192/237] aaadcbc4 Prologue King Orwell Rose: Надеюсь, твой брат занимался уроками, пока я был далеко.
+20:38:22 model loaded in 14.0s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:38:22 [6/237] 3defc76b Prologue Narrator: Sarah leaps into her father's arms.
+20:39:00   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\Prologue\3defc76b601d4e0e41508054ecbc0209__Narrator.wav (2.1s), eta ~148 мин
+20:39:00 [7/237] 404a7320 Prologue King Orwell Rose: Ooh, Sarah, my back! Please daugher, I'm not as young as I w
+20:41:00 фраз к генерации: 237 (lang=ru, force=False)
+20:41:00   5b871d8c | Prologue | Narrator | [Curiously observing] Король Орвелл вернулся из своего путешествия по провинциям Р
+20:41:00   484ea304 | Prologue | Narrator | [Curiously observing] Он входит в большой зал замка Рейнмир, а следом за ним влета
+20:41:00   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Наконец-то, снова дома.
+20:41:00   9516eb40 | Prologue | Narrator | [Curiously observing] Король Орвелл ставит свою дорожную сумку на пол.
+20:41:00   827d46ec | Prologue | Sarah | [In a proud, commanding tone] ОТЕЦ!
+20:41:00   3defc76b | Prologue | Narrator | [Curiously observing] Сара прыгает в объятия отца.
+20:41:00   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты сли
+20:41:00   ad686f30 | Prologue | Sarah | [Surprised and caring] Тебя не было почти пять месяцев! Если ты думал, что я не обн
+20:41:00   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] Ты стала старше, но, кажется, не повзрослела.
+20:41:00   3779fea2 | Prologue | Sarah | [Angry disbelief] Злюка!
+20:41:00   ...
+20:41:00 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:41:10 model loaded in 10.8s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:41:10 [192/237] aaadcbc4 Prologue King Orwell Rose: Надеюсь, твой брат занимался уроками, пока я был далеко.
+20:43:00 фраз к генерации: 237 (lang=en, force=False)
+20:43:00   5b871d8c | Prologue | Narrator | [Curiously observing] King Orwell has returned from his travels through the provin
+20:43:00   484ea304 | Prologue | Narrator | [Curiously observing] He enters the great hall of Castle Reinmeer, the snow of an 
+20:43:00   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Finally, home again.
+20:43:00   9516eb40 | Prologue | Narrator | [Curiously observing] King Orwell pluts his travel bag down.
+20:43:00   827d46ec | Prologue | Sarah | [In a proud, commanding tone] FATHER!
+20:43:00   3defc76b | Prologue | Narrator | [Curiously observing] Sarah leaps into her father's arms.
+20:43:00   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ooh, Sarah, my back! Please daugher, I'm not as young as I w
+20:43:00   ad686f30 | Prologue | Sarah | [Surprised and caring] You were gone for almost five months! If you thought I wasn'
+20:43:00   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] You've grown older but I don't think you've grown up yet.
+20:43:00   3779fea2 | Prologue | Sarah | [Angry disbelief] So mean!
+20:43:00   ...
+20:43:00 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:43:00 фраз к генерации: 237 (lang=ru, force=False)
+20:43:00   5b871d8c | Prologue | Narrator | [Curiously observing] Король Орвелл вернулся из своего путешествия по провинциям Р
+20:43:00   484ea304 | Prologue | Narrator | [Curiously observing] Он входит в большой зал замка Рейнмир, а следом за ним влета
+20:43:00   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Наконец-то, снова дома.
+20:43:00   9516eb40 | Prologue | Narrator | [Curiously observing] Король Орвелл ставит свою дорожную сумку на пол.
+20:43:00   827d46ec | Prologue | Sarah | [In a proud, commanding tone] ОТЕЦ!
+20:43:00   3defc76b | Prologue | Narrator | [Curiously observing] Сара прыгает в объятия отца.
+20:43:00   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты сли
+20:43:00   ad686f30 | Prologue | Sarah | [Surprised and caring] Тебя не было почти пять месяцев! Если ты думал, что я не обн
+20:43:00   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] Ты стала старше, но, кажется, не повзрослела.
+20:43:00   3779fea2 | Prologue | Sarah | [Angry disbelief] Злюка!
+20:43:00   ...
+20:43:00 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:43:10 model loaded in 9.6s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:43:10 [7/237] 404a7320 Prologue King Orwell Rose: Ooh, Sarah, my back! Please daugher, I'm not as young as I w
+20:43:12 model loaded in 11.1s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:43:12 [192/237] aaadcbc4 Prologue King Orwell Rose: Надеюсь, твой брат занимался уроками, пока я был далеко.
+20:43:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\aaadcbc48ad742f35ef9db2e7befa7f6__King Orwell Rose.wav (3.9s), eta ~36 мин
+20:43:59 [193/237] 6371f3ca Prologue Sarah: Он немного занимался... в каком-то смысле.
+20:44:10   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\Prologue\404a7320a5307911d56bf2d6ec1580db__King Orwell Rose.wav (8.0s), eta ~229 мин
+20:44:10 [8/237] ad686f30 Prologue Sarah: You were gone for almost five months! If you thought I wasn'
+20:44:34   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\6371f3ca7583c48a620266abdbb26ea2__Sarah.wav (3.0s), eta ~30 мин
+20:44:34 [194/237] 3191f121 Prologue King Orwell Rose: И что это значит, если точнее?
+20:45:04   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\Prologue\ad686f30c3b69a9e9bc0c193d66cb25c__Sarah.wav (5.7s), eta ~218 мин
+20:45:04 [9/237] a6dee0ae Prologue King Orwell Rose: You've grown older but I don't think you've grown up yet.
+20:45:07   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\3191f1210d484528a016e82a77a3c2d1__King Orwell Rose.wav (1.6s), eta ~28 мин
+20:45:07 [195/237] daf66d34 Prologue Sarah: Он много читал, просто, возможно, не те книги, что ты ему да
+20:45:39   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\Prologue\a6dee0aeacb323ccb974d611dc845d2c__King Orwell Rose.wav (2.8s), eta ~188 мин
+20:45:39 [10/237] 3779fea2 Prologue Sarah: So mean!
