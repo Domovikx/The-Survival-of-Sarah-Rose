@@ -2324,3 +2324,369 @@
 20:07:18 [153/237] 8a811319 Prologue Thomas: Тьфу, не выношу этого типа.
 20:07:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\8a8113190669857fa6923a1f0b0d958c__Thomas.wav (2.0s), eta ~61 мин
 20:07:59 [154/237] 43b80e89 Prologue Narrator: Сара кивает.
+20:08:07   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\407595490ca92a6367680c37095412b0__Sarah.wav (7.2s), eta ~644 мин
+20:08:07 [134/1024] d08bb6ed StoryBeginnings Narrator: Сара и Марион продолжали говорить ещё какое-то время.
+20:08:22 фраз к генерации: 237 (lang=en, force=False)
+20:08:22   5b871d8c | Prologue | Narrator | [Curiously observing] King Orwell has returned from his travels through the provin
+20:08:22   484ea304 | Prologue | Narrator | [Curiously observing] He enters the great hall of Castle Reinmeer, the snow of an 
+20:08:22   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Finally, home again.
+20:08:22   9516eb40 | Prologue | Narrator | [Curiously observing] King Orwell pluts his travel bag down.
+20:08:22   827d46ec | Prologue | Sarah | [In a proud, commanding tone] FATHER!
+20:08:22   3defc76b | Prologue | Narrator | [Curiously observing] Sarah leaps into her father's arms.
+20:08:22   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ooh, Sarah, my back! Please daugher, I'm not as young as I w
+20:08:22   ad686f30 | Prologue | Sarah | [Surprised and caring] You were gone for almost five months! If you thought I wasn'
+20:08:22   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] You've grown older but I don't think you've grown up yet.
+20:08:22   3779fea2 | Prologue | Sarah | [Angry disbelief] So mean!
+20:08:22   ...
+20:08:22 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:08:23 фраз к генерации: 18 (lang=en, force=False)
+20:08:23   443c3e95 | Other | Narrator | [With a mix of pride and excitement] The Survival of Sarah Rose is an epic fantasy game. Producti
+20:08:23   70cf919c | Other | Narrator | [Curiously observing] What you are about to play is a work-in-progress.
+20:08:23   3c3f10fe | Other | Narrator | [In a mysterious and somber tone] TSSR takes place in a dark fantasy setting.
+20:08:23   fccc1390 | Other | Narrator | [In a cautiously intrigued whisper] The events and stories depicted within, while fictional, may
+20:08:23   25025b4d | Other | Narrator | [Intrigued yet solemn] Castle Reinmeer
+20:08:23   ac31a048 | Other | Narrator | [Attentively admiring] The great castle rests at the heart of the nation of Rosanna
+20:08:23   9ed86c21 | Other | Narrator | [Calmly reminiscing] For centuries, it has been the home of the Rose family.
+20:08:23   2147aa7f | Other | Narrator | [Confidently proud] Ruling with both wisdom and strength, the Rose family ensure
+20:08:23   cd446a18 | Other | Narrator | [Curiously observing] But nothing lasts forever and rumors of new dangers have beg
+20:08:23   b46f4a28 | Other | Narrator | [Suspiciously wary] An ambitious warlord to the east threatens war.
+20:08:23   ...
+20:08:23 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:08:23 фраз к генерации: 1024 (lang=en, force=False)
+20:08:23   6fa99de1 | StoryBeginnings | Narrator | [Reflecting contentment] Following the coronation, Sarah had gone straight back to he
+20:08:23   d4ad2ba9 | StoryBeginnings | Narrator | [Reflective silence] It was deep in the night, and after the festivities had ende
+20:08:23   84fdc341 | StoryBeginnings | Narrator | [Surprised awakening] Suddenly, Sarah found herself rising from her sleep.
+20:08:23   95447259 | StoryBeginnings | Narrator | [Curiously observing] Half awake, she heard the sounds of someone moving around he
+20:08:23   4935309c | StoryBeginnings | Narrator | [Curiously observing] Sarah pushed herself up and whispered into the darkness.
+20:08:23   bf163c41 | StoryBeginnings | Sarah | [Suspiciously wary] Who is in here?
+20:08:23   c6af15a5 | StoryBeginnings | Narrator | [Curiously observing] A familiar voice responded.
+20:08:23   c7e40437 | StoryBeginnings | Kate | [Warmly, with affection] Sarah, it's me.
+20:08:23   fb46e287 | StoryBeginnings | Narrator | [Relieved sigh, warmly with affection] Sarah sighed, relieved to hear Kate's voice.
+20:08:23   bcdf3b90 | StoryBeginnings | Narrator | [Curiously observing] Sarah felt her heart rate rise.
+20:08:23   ...
+20:08:23 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:08:38   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\43b80e890858b8cf1aad4d78f7395842__Narrator.wav (0.8s) | trim: burst 70ms after 80ms gap, eta ~60 мин
+20:08:38 [155/237] 249c0fbe Prologue Sarah: Он бывает невыносим, но его семья важна, а значит, важен и о
+20:09:11 model loaded in 48.5s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:09:11 [1/237] 5b871d8c Prologue Narrator: King Orwell has returned from his travels through the provin
+20:09:11   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\d08bb6ed263be7d3f262f01e2a9d58bc__Narrator.wav (3.8s), eta ~646 мин
+20:09:11 [135/1024] 918c23af StoryBeginnings Narrator: Увлечённая разговором, Сара вдруг заметила, что коронация по
+20:09:12 model loaded in 49.0s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:09:12 [1/18] 443c3e95 Other Narrator: The Survival of Sarah Rose is an epic fantasy game. Producti
+20:09:13 model loaded in 49.9s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:09:13 [1/1024] 6fa99de1 StoryBeginnings Narrator: Following the coronation, Sarah had gone straight back to he
+20:10:54   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\Prologue\5b871d8c922b7aa8a3714f27e4cac680__Narrator.wav (3.7s), eta ~404 мин
+20:10:54 [2/237] 484ea304 Prologue Narrator: He enters the great hall of Castle Reinmeer, the snow of an 
+20:10:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\StoryBeginnings\6fa99de12fd94cf11734cb0342dbdd3d__Narrator.wav (4.4s), eta ~1811 мин
+20:10:59 [2/1024] d4ad2ba9 StoryBeginnings Narrator: It was deep in the night, and after the festivities had ende
+20:11:03   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\249c0fbe12f955d1febb8d24f6ca5458__Sarah.wav (4.9s), eta ~61 мин
+20:11:03 [156/237] e53d618f Prologue Sarah: Тебе стоит помнить, что его нужно держать в друзьях.
+20:11:19   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\918c23af0f9d21a70f678616113be713__Narrator.wav (5.7s), eta ~659 мин
+20:11:19 [136/1024] 5ef644e9 StoryBeginnings Sarah: Марион, уже поздно, мне нужно идти. Но постарайтесь запомнит
+20:11:27   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\Other\443c3e95006c7822dc5e6f288f031c46__Narrator.wav (6.6s), eta ~38 мин
+20:11:27 [2/18] 70cf919c Other Narrator: What you are about to play is a work-in-progress.
+20:12:35   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\e53d618f7bb7422d9402b504e4f1cdab__Sarah.wav (2.7s), eta ~61 мин
+20:12:35 [157/237] 69de2c48 Prologue Thomas: Когда я стану королём, разве не он должен хотеть быть моим д
+20:12:52   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\5ef644e999fe2288787fa86b0e86c157__Sarah.wav (8.0s), eta ~666 мин
+20:12:52 [137/1024] c59aa555 StoryBeginnings Narrator: Марион поклонился.
+20:12:54   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\StoryBeginnings\d4ad2ba94c4249e18d0a15ed66988874__Narrator.wav (5.4s), eta ~1883 мин
+20:12:54 [3/1024] 84fdc341 StoryBeginnings Narrator: Suddenly, Sarah found herself rising from her sleep.
+20:12:54   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\Other\70cf919c82f3990320f281dbf51b4cf9__Narrator.wav (2.4s), eta ~30 мин
+20:12:54 [3/18] 3c3f10fe Other Narrator: TSSR takes place in a dark fantasy setting.
+20:12:57   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\Prologue\484ea304d6d3927f24bf494c29d3b2f3__Narrator.wav (6.2s), eta ~442 мин
+20:12:57 [3/237] 8682f203 Prologue King Orwell Rose: Finally, home again.
+20:13:42   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\c59aa5551f678fa7488949112603230c__Narrator.wav (1.4s), eta ~666 мин
+20:13:42 [138/1024] dd9d5fbd StoryBeginnings Marion: Я приму ваши слова к сведению, Сара. Спасибо, что поговорили
+20:14:13   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\Prologue\8682f203be4564527e50458eac9ba89c__King Orwell Rose.wav (1.3s), eta ~393 мин
+20:14:13 [4/237] 9516eb40 Prologue Narrator: King Orwell pluts his travel bag down.
+20:14:21   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\Other\3c3f10fe6357401bfe1a3a2522a53efd__Narrator.wav (3.2s), eta ~26 мин
+20:14:21 [4/18] fccc1390 Other Narrator: The events and stories depicted within, while fictional, may
+20:14:30   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\69de2c48a9d067a8d65d40d09b845401__Thomas.wav (4.7s) | trim: burst 110ms after 100ms gap, burst 10ms after 110ms gap, eta ~61 мин
+20:14:30 [158/237] fd84cb2e Prologue Sarah: Ты станешь королём, только когда достаточно таких, как он, с
+20:14:36   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\StoryBeginnings\84fdc341d2dc984afc0c0d3fa006cbee__Narrator.wav (3.6s), eta ~1833 мин
+20:14:36 [4/1024] 95447259 StoryBeginnings Narrator: Half awake, she heard the sounds of someone moving around he
+20:15:01   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\dd9d5fbd1fd5ece7280cd5ac90f45730__Marion.wav (6.5s), eta ~671 мин
+20:15:01 [139/1024] e605cebb StoryBeginnings Narrator: Сара помахала Мариону, направляясь к выходу из большого зала
+20:15:31   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\Prologue\9516eb40d65f79e4d01204a87f2cec85__Narrator.wav (2.3s), eta ~369 мин
+20:15:31 [5/237] 827d46ec Prologue Sarah: FATHER!
+20:16:26   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\StoryBeginnings\95447259a4524e5d65e2f7de6e352458__Narrator.wav (3.5s), eta ~1843 мин
+20:16:26 [5/1024] 4935309c StoryBeginnings Narrator: Sarah pushed herself up and whispered into the darkness.
+20:16:30   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\fd84cb2ee6da6ebc42c67b4fddb668dd__Sarah.wav (11.0s), eta ~61 мин
+20:16:30 [159/237] a57da154 Prologue Thomas: Ты говоришь как отец.
+20:16:32   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\Prologue\827d46ec48683bed0c6c2cdb34fec000__Sarah.wav (0.6s), eta ~341 мин
+20:16:32 [6/237] 3defc76b Prologue Narrator: Sarah leaps into her father's arms.
+20:16:39   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\en\Other\fccc1390f3432a4e1ccd77c706096ace__Narrator.wav (6.1s), eta ~26 мин
+20:16:39 [5/18] 25025b4d Other Narrator: Castle Reinmeer
+20:17:34 фраз к генерации: 237 (lang=ru, force=False)
+20:17:34   5b871d8c | Prologue | Narrator | [Curiously observing] Король Орвелл вернулся из своего путешествия по провинциям Р
+20:17:34   484ea304 | Prologue | Narrator | [Curiously observing] Он входит в большой зал замка Рейнмир, а следом за ним влета
+20:17:34   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Наконец-то, снова дома.
+20:17:34   9516eb40 | Prologue | Narrator | [Curiously observing] Король Орвелл ставит свою дорожную сумку на пол.
+20:17:34   827d46ec | Prologue | Sarah | [In a proud, commanding tone] ОТЕЦ!
+20:17:34   3defc76b | Prologue | Narrator | [Curiously observing] Сара прыгает в объятия отца.
+20:17:34   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты сли
+20:17:34   ad686f30 | Prologue | Sarah | [Surprised and caring] Тебя не было почти пять месяцев! Если ты думал, что я не обн
+20:17:34   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] Ты стала старше, но, кажется, не повзрослела.
+20:17:34   3779fea2 | Prologue | Sarah | [Angry disbelief] Злюка!
+20:17:34   ...
+20:17:34 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:17:34 фраз к генерации: 1024 (lang=ru, force=False)
+20:17:34   6fa99de1 | StoryBeginnings | Narrator | [Reflecting contentment] После коронации Сара сразу вернулась в свою спальню и провал
+20:17:34   d4ad2ba9 | StoryBeginnings | Narrator | [Reflective silence] Была глубокая ночь, и после завершения торжеств в замке стоя
+20:17:34   84fdc341 | StoryBeginnings | Narrator | [Surprised awakening] Внезапно Сара проснулась.
+20:17:34   95447259 | StoryBeginnings | Narrator | [Curiously observing] Сквозь дрёму она услышала чьи-то шаги в своей спальне.
+20:17:34   4935309c | StoryBeginnings | Narrator | [Curiously observing] Сара приподнялась и прошептала в темноту.
+20:17:34   bf163c41 | StoryBeginnings | Sarah | [Suspiciously wary] Кто здесь?
+20:17:34   c6af15a5 | StoryBeginnings | Narrator | [Curiously observing] Знакомый голос ответил.
+20:17:34   c7e40437 | StoryBeginnings | Kate | [Warmly, with affection] Сара, это я.
+20:17:34   fb46e287 | StoryBeginnings | Narrator | [Relieved sigh, warmly with affection] Сара с облегчением вздохнула, услышав голос Кейт.
+20:17:34   bcdf3b90 | StoryBeginnings | Narrator | [Curiously observing] Сара почувствовала, как участился пульс.
+20:17:34   ...
+20:17:34 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:17:34 фраз к генерации: 18 (lang=en, force=False)
+20:17:34   443c3e95 | Other | Narrator | [With a mix of pride and excitement] The Survival of Sarah Rose is an epic fantasy game. Producti
+20:17:34   70cf919c | Other | Narrator | [Curiously observing] What you are about to play is a work-in-progress.
+20:17:34   3c3f10fe | Other | Narrator | [In a mysterious and somber tone] TSSR takes place in a dark fantasy setting.
+20:17:34   fccc1390 | Other | Narrator | [In a cautiously intrigued whisper] The events and stories depicted within, while fictional, may
+20:17:34   25025b4d | Other | Narrator | [Intrigued yet solemn] Castle Reinmeer
+20:17:34 фраз к генерации: 237 (lang=en, force=False)
+reat castle rests at the heart of the nation of Rosanna
+20:17:34   5b871d8c | Prologue | Narrator | [Curiously observing] King Orwell has returned from his travels through the provin
+20:17:34   2147aa7f | Other | Narrator | [Confidently proud] Ruling with both wisdom and strength, the Rose family ensure
+an 
+20:17:34   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Finally, home again.
+20:17:34   cd446a18 | Other | Narrator | [Curiously observing] But nothing lasts forever and rumors of new dangers have beg
+20:17:34   9516eb40 | Prologue | Narrator | [Curiously observing] King Orwell pluts his travel bag down.
+20:17:34   b46f4a28 | Other | Narrator | [Suspiciously wary] An ambitious warlord to the east threatens war.
+20:17:34   827d46ec | Prologue | Sarah | [In a proud, commanding tone] FATHER!
+20:17:34   ...
+20:17:34   3defc76b | Prologue | Narrator | [Curiously observing] Sarah leaps into her father's arms.
+20:17:34   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ooh, Sarah, my back! Please daugher, I'm not as young as I w
+20:17:34   ad686f30 | Prologue | Sarah | [Surprised and caring] You were gone for almost five months! If you thought I wasn'
+20:17:34 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:17:34   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] You've grown older but I don't think you've grown up yet.
+20:17:34   3779fea2 | Prologue | Sarah | [Angry disbelief] So mean!
+20:17:34   ...
+20:17:34 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:17:34 фраз к генерации: 18 (lang=ru, force=False)
+20:17:34   443c3e95 | Other | Narrator | [With a mix of pride and excitement] The Survival of Sarah Rose (Выживание Сары Роуз) — эпическая
+20:17:34   70cf919c | Other | Narrator | [Curiously observing] Впереди вас ждёт игра, которая ещё в процессе разработки.
+20:17:34   3c3f10fe | Other | Narrator | [In a mysterious and somber tone] TSSR разворачивается в тёмном фэнтези-мире.
+20:17:34   fccc1390 | Other | Narrator | [In a cautiously intrigued whisper] Показанные в ней события и истории, хотя и вымышленные, могу
+20:17:34   25025b4d | Other | Narrator | [Intrigued yet solemn] Замок Рейнмир
+20:17:34   ac31a048 | Other | Narrator | [Attentively admiring] Великий замок стоит в самом сердце королевства Розанна.
+20:17:34   9ed86c21 | Other | Narrator | [Calmly reminiscing] На протяжении веков он был домом рода Роуз.
+20:17:34   2147aa7f | Other | Narrator | [Confidently proud] Управляя с мудростью и силой, род Роуз веками обеспечивал пр
+20:17:34   cd446a18 | Other | Narrator | [Curiously observing] Но ничто не вечно, и слухи о новых опасностях начали распрос
+20:17:34   b46f4a28 | Other | Narrator | [Suspiciously wary] Честолюбивый военачальник на востоке угрожает войной.
+20:17:34   ...
+20:17:34 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:17:34 фраз к генерации: 1024 (lang=en, force=False)
+20:17:34   6fa99de1 | StoryBeginnings | Narrator | [Reflecting contentment] Following the coronation, Sarah had gone straight back to he
+20:17:34   d4ad2ba9 | StoryBeginnings | Narrator | [Reflective silence] It was deep in the night, and after the festivities had ende
+20:17:34   84fdc341 | StoryBeginnings | Narrator | [Surprised awakening] Suddenly, Sarah found herself rising from her sleep.
+20:17:34   95447259 | StoryBeginnings | Narrator | [Curiously observing] Half awake, she heard the sounds of someone moving around he
+20:17:34   4935309c | StoryBeginnings | Narrator | [Curiously observing] Sarah pushed herself up and whispered into the darkness.
+20:17:34   bf163c41 | StoryBeginnings | Sarah | [Suspiciously wary] Who is in here?
+20:17:34   c6af15a5 | StoryBeginnings | Narrator | [Curiously observing] A familiar voice responded.
+20:17:34   c7e40437 | StoryBeginnings | Kate | [Warmly, with affection] Sarah, it's me.
+20:17:34   fb46e287 | StoryBeginnings | Narrator | [Relieved sigh, warmly with affection] Sarah sighed, relieved to hear Kate's voice.
+20:17:34   bcdf3b90 | StoryBeginnings | Narrator | [Curiously observing] Sarah felt her heart rate rise.
+20:17:34   ...
+20:17:34 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:18:33 model loaded in 59.0s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:18:33 [5/1024] 4935309c StoryBeginnings Narrator: Sarah pushed herself up and whispered into the darkness.
+20:18:40 model loaded in 66.5s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:18:40 [5/18] 25025b4d Other Narrator: Castle Reinmeer
+20:18:40 model loaded in 66.7s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:18:40 model loaded in 66.8s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:18:40 done=0 skipped=18 failed=0 total=18
+20:18:40 model loaded in 66.8s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:18:40 [6/237] 3defc76b Prologue Narrator: Sarah leaps into her father's arms.
+20:18:40 [159/237] a57da154 Prologue Thomas: Ты говоришь как отец.
+20:18:41 model loaded in 66.9s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:18:41 [139/1024] e605cebb StoryBeginnings Narrator: Сара помахала Мариону, направляясь к выходу из большого зала
+20:19:21 фраз к генерации: 237 (lang=ru, force=False)
+20:19:21   5b871d8c | Prologue | Narrator | [Curiously observing] Король Орвелл вернулся из своего путешествия по провинциям Р
+20:19:21   484ea304 | Prologue | Narrator | [Curiously observing] Он входит в большой зал замка Рейнмир, а следом за ним влета
+20:19:21   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Наконец-то, снова дома.
+20:19:21   9516eb40 | Prologue | Narrator | [Curiously observing] Король Орвелл ставит свою дорожную сумку на пол.
+20:19:21   827d46ec | Prologue | Sarah | [In a proud, commanding tone] ОТЕЦ!
+20:19:21   3defc76b | Prologue | Narrator | [Curiously observing] Сара прыгает в объятия отца.
+20:19:21   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты сли
+20:19:21   ad686f30 | Prologue | Sarah | [Surprised and caring] Тебя не было почти пять месяцев! Если ты думал, что я не обн
+20:19:21   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] Ты стала старше, но, кажется, не повзрослела.
+20:19:21   3779fea2 | Prologue | Sarah | [Angry disbelief] Злюка!
+20:19:21   ...
+20:19:21 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:19:31 model loaded in 10.6s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:19:31 [159/237] a57da154 Prologue Thomas: Ты говоришь как отец.
+20:19:53   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\a57da15459ea884603391cf5eafc0e05__Thomas.wav (1.4s), eta ~28 мин
+20:19:53 [160/237] 9c69c61b Prologue Sarah: Это не значит, что я не права.
+20:20:17 фраз к генерации: 1024 (lang=ru, force=False)
+20:20:17   6fa99de1 | StoryBeginnings | Narrator | [Reflecting contentment] После коронации Сара сразу вернулась в свою спальню и провал
+20:20:17   d4ad2ba9 | StoryBeginnings | Narrator | [Reflective silence] Была глубокая ночь, и после завершения торжеств в замке стоя
+20:20:17   84fdc341 | StoryBeginnings | Narrator | [Surprised awakening] Внезапно Сара проснулась.
+20:20:17   95447259 | StoryBeginnings | Narrator | [Curiously observing] Сквозь дрёму она услышала чьи-то шаги в своей спальне.
+20:20:17   4935309c | StoryBeginnings | Narrator | [Curiously observing] Сара приподнялась и прошептала в темноту.
+20:20:17   bf163c41 | StoryBeginnings | Sarah | [Suspiciously wary] Кто здесь?
+20:20:17   c6af15a5 | StoryBeginnings | Narrator | [Curiously observing] Знакомый голос ответил.
+20:20:17   c7e40437 | StoryBeginnings | Kate | [Warmly, with affection] Сара, это я.
+20:20:17   fb46e287 | StoryBeginnings | Narrator | [Relieved sigh, warmly with affection] Сара с облегчением вздохнула, услышав голос Кейт.
+20:20:17   bcdf3b90 | StoryBeginnings | Narrator | [Curiously observing] Сара почувствовала, как участился пульс.
+20:20:17   ...
+20:20:17 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:20:17 фраз к генерации: 237 (lang=en, force=False)
+20:20:17   5b871d8c | Prologue | Narrator | [Curiously observing] King Orwell has returned from his travels through the provin
+20:20:17   484ea304 | Prologue | Narrator | [Curiously observing] He enters the great hall of Castle Reinmeer, the snow of an 
+20:20:17   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Finally, home again.
+20:20:17   9516eb40 | Prologue | Narrator | [Curiously observing] King Orwell pluts his travel bag down.
+20:20:17   827d46ec | Prologue | Sarah | [In a proud, commanding tone] FATHER!
+20:20:17   3defc76b | Prologue | Narrator | [Curiously observing] Sarah leaps into her father's arms.
+20:20:17   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ooh, Sarah, my back! Please daugher, I'm not as young as I w
+20:20:17   ad686f30 | Prologue | Sarah | [Surprised and caring] You were gone for almost five months! If you thought I wasn'
+20:20:17   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] You've grown older but I don't think you've grown up yet.
+20:20:17   3779fea2 | Prologue | Sarah | [Angry disbelief] So mean!
+20:20:17   ...
+20:20:17 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:20:18 фраз к генерации: 18 (lang=ru, force=False)
+20:20:18   443c3e95 | Other | Narrator | [With a mix of pride and excitement] The Survival of Sarah Rose (Выживание Сары Роуз) — эпическая
+20:20:18   70cf919c | Other | Narrator | [Curiously observing] Впереди вас ждёт игра, которая ещё в процессе разработки.
+20:20:18   3c3f10fe | Other | Narrator | [In a mysterious and somber tone] TSSR разворачивается в тёмном фэнтези-мире.
+20:20:18   fccc1390 | Other | Narrator | [In a cautiously intrigued whisper] Показанные в ней события и истории, хотя и вымышленные, могу
+20:20:18   25025b4d | Other | Narrator | [Intrigued yet solemn] Замок Рейнмир
+20:20:18   ac31a048 | Other | Narrator | [Attentively admiring] Великий замок стоит в самом сердце королевства Розанна.
+20:20:18   9ed86c21 | Other | Narrator | [Calmly reminiscing] На протяжении веков он был домом рода Роуз.
+20:20:18   2147aa7f | Other | Narrator | [Confidently proud] Управляя с мудростью и силой, род Роуз веками обеспечивал пр
+20:20:18   cd446a18 | Other | Narrator | [Curiously observing] Но ничто не вечно, и слухи о новых опасностях начали распрос
+20:20:18   b46f4a28 | Other | Narrator | [Suspiciously wary] Честолюбивый военачальник на востоке угрожает войной.
+20:20:18   ...
+20:20:18 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:20:18 фраз к генерации: 1024 (lang=en, force=False)
+20:20:18   6fa99de1 | StoryBeginnings | Narrator | [Reflecting contentment] Following the coronation, Sarah had gone straight back to he
+20:20:18   d4ad2ba9 | StoryBeginnings | Narrator | [Reflective silence] It was deep in the night, and after the festivities had ende
+20:20:18   84fdc341 | StoryBeginnings | Narrator | [Surprised awakening] Suddenly, Sarah found herself rising from her sleep.
+20:20:18   95447259 | StoryBeginnings | Narrator | [Curiously observing] Half awake, she heard the sounds of someone moving around he
+20:20:18   4935309c | StoryBeginnings | Narrator | [Curiously observing] Sarah pushed herself up and whispered into the darkness.
+20:20:18   bf163c41 | StoryBeginnings | Sarah | [Suspiciously wary] Who is in here?
+20:20:18   c6af15a5 | StoryBeginnings | Narrator | [Curiously observing] A familiar voice responded.
+20:20:18   c7e40437 | StoryBeginnings | Kate | [Warmly, with affection] Sarah, it's me.
+20:20:18   fb46e287 | StoryBeginnings | Narrator | [Relieved sigh, warmly with affection] Sarah sighed, relieved to hear Kate's voice.
+20:20:18   bcdf3b90 | StoryBeginnings | Narrator | [Curiously observing] Sarah felt her heart rate rise.
+20:20:18   ...
+20:20:18 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:20:19 фраз к генерации: 18 (lang=en, force=False)
+20:20:19   443c3e95 | Other | Narrator | [With a mix of pride and excitement] The Survival of Sarah Rose is an epic fantasy game. Producti
+20:20:19   70cf919c | Other | Narrator | [Curiously observing] What you are about to play is a work-in-progress.
+20:20:19   3c3f10fe | Other | Narrator | [In a mysterious and somber tone] TSSR takes place in a dark fantasy setting.
+20:20:19   fccc1390 | Other | Narrator | [In a cautiously intrigued whisper] The events and stories depicted within, while fictional, may
+20:20:19   25025b4d | Other | Narrator | [Intrigued yet solemn] Castle Reinmeer
+20:20:19   ac31a048 | Other | Narrator | [Attentively admiring] The great castle rests at the heart of the nation of Rosanna
+20:20:19   9ed86c21 | Other | Narrator | [Calmly reminiscing] For centuries, it has been the home of the Rose family.
+20:20:19   2147aa7f | Other | Narrator | [Confidently proud] Ruling with both wisdom and strength, the Rose family ensure
+20:20:19   cd446a18 | Other | Narrator | [Curiously observing] But nothing lasts forever and rumors of new dangers have beg
+20:20:19   b46f4a28 | Other | Narrator | [Suspiciously wary] An ambitious warlord to the east threatens war.
+20:20:19   ...
+20:20:19 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:20:33   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\9c69c61b424e88e6c502a572ac4876d1__Sarah.wav (1.4s), eta ~39 мин
+20:20:33 [161/237] a7f788d5 Prologue Sarah: Кстати, ты уже видел отца?
+20:21:17 model loaded in 59.2s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:21:17 [139/1024] e605cebb StoryBeginnings Narrator: Сара помахала Мариону, направляясь к выходу из большого зала
+20:21:17 model loaded in 58.8s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:21:17 model loaded in 59.4s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:21:17 [5/1024] 4935309c StoryBeginnings Narrator: Sarah pushed herself up and whispered into the darkness.
+20:21:17 [6/237] 3defc76b Prologue Narrator: Sarah leaps into her father's arms.
+20:21:19 model loaded in 60.3s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:21:19 [5/18] 25025b4d Other Narrator: Castle Reinmeer
+20:21:19 model loaded in 61.4s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:21:19 done=0 skipped=18 failed=0 total=18
+20:22:11 фраз к генерации: 237 (lang=ru, force=False)
+20:22:11   5b871d8c | Prologue | Narrator | [Curiously observing] Король Орвелл вернулся из своего путешествия по провинциям Р
+20:22:11   484ea304 | Prologue | Narrator | [Curiously observing] Он входит в большой зал замка Рейнмир, а следом за ним влета
+20:22:11   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Наконец-то, снова дома.
+20:22:11   9516eb40 | Prologue | Narrator | [Curiously observing] Король Орвелл ставит свою дорожную сумку на пол.
+20:22:11   827d46ec | Prologue | Sarah | [In a proud, commanding tone] ОТЕЦ!
+20:22:11   3defc76b | Prologue | Narrator | [Curiously observing] Сара прыгает в объятия отца.
+20:22:11   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты сли
+20:22:11   ad686f30 | Prologue | Sarah | [Surprised and caring] Тебя не было почти пять месяцев! Если ты думал, что я не обн
+20:22:11   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] Ты стала старше, но, кажется, не повзрослела.
+20:22:11   3779fea2 | Prologue | Sarah | [Angry disbelief] Злюка!
+20:22:11   ...
+20:22:11 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+20:22:23 model loaded in 11.6s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+20:22:23 [161/237] a7f788d5 Prologue Sarah: Кстати, ты уже видел отца?
+20:22:49   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\a7f788d58192e8d87272576508778322__Sarah.wav (2.6s), eta ~33 мин
+20:22:49 [162/237] 38109fb3 Prologue Narrator: Томас перестал слушать, отвлёкшись на тарелку с едой, котору
+20:23:23   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\38109fb3b9d27bae45b9165f3109952b__Narrator.wav (5.2s), eta ~38 мин
+20:23:23 [163/237] cdc73fef Prologue Narrator: Внезапно дверь в большой зал с грохотом распахивается.
+20:23:51   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\cdc73fef83cdbfb1857408afa291b8f6__Narrator.wav (3.5s), eta ~36 мин
+20:23:51 [164/237] b2a971ec Prologue Narrator: Слуга вбегает в зал, спотыкаясь на ходу, весь в поту.
+20:24:21   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\b2a971ec8875d37b45ef947fdecf7376__Narrator.wav (4.3s), eta ~36 мин
+20:24:21 [165/237] 9df68d4e Prologue Narrator: Он пытается одновременно отдышаться и выдавить из себя слова
+20:24:50   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\9df68d4ebb6c9007ff26701eddccc26e__Narrator.wav (4.0s), eta ~35 мин
+20:24:50 [166/237] 604d689c Prologue Narrator: Все в большом зале замолкают, уставившись на него.
+20:25:17   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\604d689cf753e3f5774f21cfb2a1531c__Narrator.wav (3.8s), eta ~34 мин
+20:25:17 [167/237] 6f17ab5d Prologue Narrator: Король! Король мёртв!
+20:25:37   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\6f17ab5d561350636e17ffba9d8de179__Narrator.wav (2.0s), eta ~32 мин
+20:25:37 [168/237] 5127ffcb Prologue Narrator: Когда эти слова достигают Сары, все звуки вокруг глохнут.
+20:26:04   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\5127ffcb96e00dfb46843da41b682a6b__Narrator.wav (3.6s), eta ~32 мин
+20:26:04 [169/237] b76be3e2 Prologue Narrator: Она видит реакцию вельмож: кто-то в гневе, кто-то побледнел.
+20:26:35   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\b76be3e2bd5bb05798b4e924f97978dd__Narrator.wav (4.5s), eta ~32 мин
+20:26:35 [170/237] 205da06d Prologue Narrator: Она видит брата, смотрящего на неё в замешательстве, будто о
+20:27:08   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\205da06d5e38142d3397a6125a91deaa__Narrator.wav (5.4s), eta ~32 мин
+20:27:08 [171/237] faae9d9d Prologue Narrator: Она видит Мариона, обычно такого невозмутимого, с тенью стра
+20:27:46   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\faae9d9d9a64cfb46f02b5b0c2b7a208__Narrator.wav (6.1s), eta ~32 мин
+20:27:46 [172/237] 2bc16ffb Prologue Narrator: Сара выходит из большого зала как в тумане, игнорируя всё во
+20:28:19   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\2bc16ffb5ca7b55e844a109d58c11199__Narrator.wav (5.3s), eta ~32 мин
+20:28:19 [173/237] 3bd4f346 Prologue Narrator: Ей нужно найти отца.
+20:28:36   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\3bd4f346d054d95ec9c0ac54078a3a55__Narrator.wav (1.5s), eta ~31 мин
+20:28:36 [174/237] bccd7572 Prologue Narrator: Сара врывается в спальню отца. Слуги пытаются остановить её,
+20:29:17   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\bccd7572acf2a0c935a55a21d8f3416b__Narrator.wav (7.4s), eta ~31 мин
+20:29:17 [175/237] f4ace95e Prologue Narrator: Она замирает при виде этого.
+20:29:38   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\f4ace95e18ec716843c0b90a66410705__Narrator.wav (2.3s), eta ~30 мин
+20:29:38 [176/237] 57d8a12d Prologue Narrator: Её отец лежит в кровати, его кожа бела, как бумага, глаза ши
+20:30:09   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\57d8a12d5ba29940c7d283c8372f8704__Narrator.wav (4.8s), eta ~30 мин
+20:30:09 [177/237] 1d2ae859 Prologue Narrator: Простыни пропитаны тёмной кровью. Такой тёмной, что почти чё
+20:30:39   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\1d2ae85985da7593e696dde87232ca87__Narrator.wav (4.3s), eta ~29 мин
+20:30:39 [178/237] 742f7353 Prologue Narrator: В груди застрял кинжал, погружённый так глубоко, что видна т
+20:31:12   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\742f735305c9ccc711e4107be3926586__Narrator.wav (5.0s), eta ~29 мин
+20:31:12 [179/237] 459cf5ac Prologue Sarah: Отец...
+20:31:29   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\459cf5ac030740eb6b9d0073c156f44b__Sarah.wav (0.8s), eta ~28 мин
+20:31:29 [180/237] 92d0f0ed Prologue Narrator: Сара пытается позвать отца, но её голос слаб и тих.
+20:31:57   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\92d0f0ed45858c2317844ca1b0367376__Narrator.wav (4.2s), eta ~27 мин
+20:31:57 [181/237] 7981b525 Prologue Narrator: Как это могло случиться? Ещё вчера он вернулся домой. Они го
+20:32:43   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\7981b525e4fcc45e129d08ff2c6ca916__Narrator.wav (8.2s), eta ~28 мин
+20:32:43 [182/237] 280b0133 Prologue Narrator: А теперь он мёртв.
+20:33:01   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\280b0133d8e4492d3b3ca3cbe8f403be__Narrator.wav (1.7s), eta ~27 мин
+20:33:01 [183/237] 6f16a13a Prologue Narrator: Сара опускается на колени у края кровати и тянется, чтобы вз
+20:33:36   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\6f16a13a54856ea637eeb628da96e633__Narrator.wav (5.4s), eta ~26 мин
+20:33:36 [184/237] edf01aca Prologue Narrator: Его рука кажется холодной и застывшей. Это руки её отца, но 
+20:34:20   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\edf01aca097ca1fe514e1bad153b6fbc__Narrator.wav (8.1s), eta ~26 мин
+20:34:20 [185/237] 514aeb21 Prologue Sarah: Проснись, отец, пожалуйста.
+20:34:41   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\514aeb21a70525729cbbb17cdedcef8d__Sarah.wav (2.0s), eta ~26 мин
+20:34:41 [186/237] f9e6eadb Prologue Narrator: Сара знает, что её молитвы не будут услышаны, но всё равно м
+20:35:15   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\f9e6eadbe5403b08adce5b391ed30ecc__Narrator.wav (5.4s), eta ~25 мин
+20:35:15 [187/237] 1eaf1f1a Prologue Narrator: Позади она слышит, как брат входит в комнату и кричит.
+20:35:40   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\1eaf1f1aa141dbfc2afd9a29f6fd8a52__Narrator.wav (3.2s), eta ~25 мин
+20:35:40 [188/237] 5d956c71 Prologue Narrator: Она слышит, как слуги утаскивают его, брыкающегося и кричаще
+20:36:17   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\5d956c71a9aa5371da6c229c8287d844__Narrator.wav (6.1s), eta ~24 мин
+20:36:17 [189/237] 4a714057 Prologue Narrator: Сара остаётся с отцом, держа его за руку.
+20:36:43   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\4a714057ade2c522f00c9b262326365c__Narrator.wav (3.4s), eta ~24 мин
+20:36:43 [190/237] a6d8707c Prologue Narrator: Она остаётся с ним до наступления темноты. Пока слуги не вын
+20:37:18   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\a6d8707cb2d130656423f11b4941aafd__Narrator.wav (5.7s), eta ~23 мин
+20:37:18 [191/237] e073ae85 Prologue Narrator: Король Орвелл и Сара идут по пустому коридору к библиотеке. 
+20:37:58   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\e073ae85d05e624856f00c9dfa2e234b__Narrator.wav (6.4s), eta ~23 мин
+20:37:58 [192/237] aaadcbc4 Prologue King Orwell Rose: Надеюсь, твой брат занимался уроками, пока я был далеко.
+20:38:04 фраз к генерации: 1024 (lang=ru, force=False)
+20:38:04   6fa99de1 | StoryBeginnings | Narrator | [Reflecting contentment] После коронации Сара сразу вернулась в свою спальню и провал
+20:38:04   d4ad2ba9 | StoryBeginnings | Narrator | [Reflective silence] Была глубокая ночь, и после завершения торжеств в замке стоя
+20:38:04   84fdc341 | StoryBeginnings | Narrator | [Surprised awakening] Внезапно Сара проснулась.
+20:38:04   95447259 | StoryBeginnings | Narrator | [Curiously observing] Сквозь дрёму она услышала чьи-то шаги в своей спальне.
+20:38:04   4935309c | StoryBeginnings | Narrator | [Curiously observing] Сара приподнялась и прошептала в темноту.
+20:38:04   bf163c41 | StoryBeginnings | Sarah | [Suspiciously wary] Кто здесь?
+20:38:04   c6af15a5 | StoryBeginnings | Narrator | [Curiously observing] Знакомый голос ответил.
+20:38:04   c7e40437 | StoryBeginnings | Kate | [Warmly, with affection] Сара, это я.
+20:38:04   fb46e287 | StoryBeginnings | Narrator | [Relieved sigh, warmly with affection] Сара с облегчением вздохнула, услышав голос Кейт.
+20:38:04   bcdf3b90 | StoryBeginnings | Narrator | [Curiously observing] Сара почувствовала, как участился пульс.
+20:38:04   ...
+20:38:04 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl

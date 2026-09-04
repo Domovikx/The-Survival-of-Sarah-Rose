@@ -221,3 +221,89 @@ CALL tlid=u'OpeningScene_72ab636d' text=u'FATHER!' lang=u'ru' who=None variant=N
 CALL tlid=u'OpeningScene_3ee1b5b2' text=u"Sarah leaps into her father's arms." lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/3defc76b601d4e0e41508054ecbc0209__Narrator.wav arcs=246
 CALL tlid=u'OpeningScene_3ee1b5b2' text=u"Sarah leaps into her father's arms." lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/3defc76b601d4e0e41508054ecbc0209__Narrator.wav arcs=246
 CALL tlid=u'OpeningScene_a0b40588' text=u"Ooh, Sarah, my back! Please daugher, I'm not as young as I w" lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/404a7320a5307911d56bf2d6ec1580db__King Orwell Rose.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/70cf919c82f3990320f281dbf51b4cf9__Narrator.wav arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/70cf919c82f3990320f281dbf51b4cf9__Narrator.wav arcs=246
+CALL tlid=u'start_7cd72c81' text=u'TSSR takes place in a dark fantasy setting.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/3c3f10fe6357401bfe1a3a2522a53efd__Narrator.wav arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/70cf919c82f3990320f281dbf51b4cf9__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/70cf919c82f3990320f281dbf51b4cf9__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/70cf919c82f3990320f281dbf51b4cf9__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/70cf919c82f3990320f281dbf51b4cf9__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/70cf919c82f3990320f281dbf51b4cf9__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/70cf919c82f3990320f281dbf51b4cf9__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/70cf919c82f3990320f281dbf51b4cf9__Narrator.wav arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/70cf919c82f3990320f281dbf51b4cf9__Narrator.wav arcs=246
+CALL tlid=u'start_7cd72c81' text=u'TSSR takes place in a dark fantasy setting.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/3c3f10fe6357401bfe1a3a2522a53efd__Narrator.wav arcs=246
+CALL tlid=u'start_7cd72c81' text=u'TSSR takes place in a dark fantasy setting.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/3c3f10fe6357401bfe1a3a2522a53efd__Narrator.wav arcs=246
+CALL tlid=u'start_33bb8e8d' text=u'The events and stories depicted within, while fictional, may' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/fccc1390f3432a4e1ccd77c706096ace__Narrator.wav arcs=246
+CALL tlid=u'start_33bb8e8d' text=u'The events and stories depicted within, while fictional, may' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/fccc1390f3432a4e1ccd77c706096ace__Narrator.wav arcs=246
+CALL tlid=u'start_7a765a1f' text=u'Castle Reinmeer' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_7a765a1f' text=u'Castle Reinmeer' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_960fb0e9' text=u'The great castle rests at the heart of the nation of Rosanna' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_960fb0e9' text=u'The great castle rests at the heart of the nation of Rosanna' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_7e90aeb9' text=u'For centuries, it has been the home of the Rose family.' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_960fb0e9' text=u'The great castle rests at the heart of the nation of Rosanna' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_7a765a1f' text=u'Castle Reinmeer' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_33bb8e8d' text=u'The events and stories depicted within, while fictional, may' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/fccc1390f3432a4e1ccd77c706096ace__Narrator.wav arcs=246
+CALL tlid=u'start_7cd72c81' text=u'TSSR takes place in a dark fantasy setting.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/3c3f10fe6357401bfe1a3a2522a53efd__Narrator.wav arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/70cf919c82f3990320f281dbf51b4cf9__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/70cf919c82f3990320f281dbf51b4cf9__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/70cf919c82f3990320f281dbf51b4cf9__Narrator.wav arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/70cf919c82f3990320f281dbf51b4cf9__Narrator.wav arcs=246
+CALL tlid=u'start_7cd72c81' text=u'TSSR takes place in a dark fantasy setting.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/3c3f10fe6357401bfe1a3a2522a53efd__Narrator.wav arcs=246
+CALL tlid=u'start_7cd72c81' text=u'TSSR takes place in a dark fantasy setting.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/3c3f10fe6357401bfe1a3a2522a53efd__Narrator.wav arcs=246
+CALL tlid=u'start_33bb8e8d' text=u'The events and stories depicted within, while fictional, may' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/fccc1390f3432a4e1ccd77c706096ace__Narrator.wav arcs=246
+CALL tlid=u'start_33bb8e8d' text=u'The events and stories depicted within, while fictional, may' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/fccc1390f3432a4e1ccd77c706096ace__Narrator.wav arcs=246
+CALL tlid=u'start_7a765a1f' text=u'Castle Reinmeer' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_7a765a1f' text=u'Castle Reinmeer' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_960fb0e9' text=u'The great castle rests at the heart of the nation of Rosanna' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_960fb0e9' text=u'The great castle rests at the heart of the nation of Rosanna' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_7e90aeb9' text=u'For centuries, it has been the home of the Rose family.' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_7e90aeb9' text=u'For centuries, it has been the home of the Rose family.' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_8bf28d0f' text=u'Ruling with both wisdom and strength, the Rose family ensure' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_8bf28d0f' text=u'Ruling with both wisdom and strength, the Rose family ensure' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_23ece795' text=u'But nothing lasts forever and rumors of new dangers have beg' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_23ece795' text=u'But nothing lasts forever and rumors of new dangers have beg' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_3259e95f' text=u'An ambitious warlord to the east threatens war.' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/70cf919c82f3990320f281dbf51b4cf9__Narrator.wav arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/70cf919c82f3990320f281dbf51b4cf9__Narrator.wav arcs=246
+CALL tlid=u'start_7cd72c81' text=u'TSSR takes place in a dark fantasy setting.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/3c3f10fe6357401bfe1a3a2522a53efd__Narrator.wav arcs=246
+CALL tlid=u'start_7cd72c81' text=u'TSSR takes place in a dark fantasy setting.' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/3c3f10fe6357401bfe1a3a2522a53efd__Narrator.wav arcs=246
+CALL tlid=u'start_33bb8e8d' text=u'The events and stories depicted within, while fictional, may' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/fccc1390f3432a4e1ccd77c706096ace__Narrator.wav arcs=246
+CALL tlid=u'start_33bb8e8d' text=u'The events and stories depicted within, while fictional, may' lang=u'en' who=None variant=u'Narrator' path=ai_voice/en/Other/fccc1390f3432a4e1ccd77c706096ace__Narrator.wav arcs=246
+CALL tlid=u'start_7a765a1f' text=u'Castle Reinmeer' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_7a765a1f' text=u'Castle Reinmeer' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_960fb0e9' text=u'The great castle rests at the heart of the nation of Rosanna' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_960fb0e9' text=u'The great castle rests at the heart of the nation of Rosanna' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_7e90aeb9' text=u'For centuries, it has been the home of the Rose family.' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_7e90aeb9' text=u'For centuries, it has been the home of the Rose family.' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_8bf28d0f' text=u'Ruling with both wisdom and strength, the Rose family ensure' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_8bf28d0f' text=u'Ruling with both wisdom and strength, the Rose family ensure' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_23ece795' text=u'But nothing lasts forever and rumors of new dangers have beg' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_23ece795' text=u'But nothing lasts forever and rumors of new dangers have beg' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_3259e95f' text=u'An ambitious warlord to the east threatens war.' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_3259e95f' text=u'An ambitious warlord to the east threatens war.' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_24d3f45e' text=u'Something has begun to stir the hearts of all creatures wick' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_24d3f45e' text=u'Something has begun to stir the hearts of all creatures wick' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_2b97b5c4' text=u'But perhaps most dangerous of all, enemies are rising from w' lang=u'en' who=None variant=u'Narrator' path=None arcs=246
