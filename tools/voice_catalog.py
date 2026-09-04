@@ -247,13 +247,6 @@ def build():
         json.dump(label_arc, f, ensure_ascii=False, indent=1, sort_keys=True)
     print('wrote {} ({} labels -> arc)'.format(la_path, len(label_arc)))
 
-    # Рантайм-мапа «кто -> активный вариант» (после апдейта каталога)
-    try:
-        import voice_runtime_map
-        voice_runtime_map.main()
-    except Exception:
-        print('!! voice_runtime_map не собралась (pip pyyaml?)')
-
     print()
     print('=== stats ===')
     for k, v in sorted(cats.items(), key=lambda x: -x[1]):

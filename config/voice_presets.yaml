@@ -84,3 +84,21 @@ beastify:
     sub_hz: 65
     sub_vol: 0.12
     sub_trem: 14
+  goblin:
+    k: 0.92
+    chain: "bandpass=f=1200:width_type=h:w=800,highshelf=f=3500:g=-6,acrusher=bits=10:mode=log:aa=1,acompressor=threshold=-20dB:ratio=2:attack=3:release=40"
+    sub_hz: 0
+    sub_vol: 0
+    sub_trem: 0
+  goblin_nasal:
+    k: 0.90
+    chain: "bandpass=f=1800:width_type=h:w=600,highshelf=f=4000:g=-8,acrusher=bits=9:mode=log:aa=1,aphaser=type=t:speed=0.5:decay=0.4"
+    sub_hz: 0
+    sub_vol: 0
+    sub_trem: 0
+  goblin_chitter:
+    k: 0.88
+    chain: "bandpass=f=1500:width_type=h:w=700,highshelf=f=3800:g=-7,acrusher=bits=11:mode=log:aa=1,tremolo=f=12:d=0.3"
+    sub_hz: 0
+    sub_vol: 0
+    sub_trem: 0

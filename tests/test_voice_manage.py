@@ -25,7 +25,6 @@ def tmp_project(tmp_path, monkeypatch):
         ('CONFIG_DIR', tmp_path / 'config'),
         ('VOICES_YAML', tmp_path / 'config' / 'voices.yaml'),
         ('VOICES_JSON', tmp_path / 'catalog' / 'voices.json'),
-        ('WHO_VARIANT_JSON', tmp_path / 'catalog' / 'who_variant.json'),
     ):
         monkeypatch.setattr(paths, attr, str(val))
 
@@ -73,8 +72,6 @@ def test_load_cfg(tmp_project):
 def test_select_variant(tmp_project, monkeypatch):
     """select 1: копирует TestVoice_1.wav -> TestVoice.wav (корень каста)."""
     import voice_manage
-    monkeypatch.setattr(voice_manage, 'regen_runtime_map',
-                        lambda: True)
     rc = voice_manage.cmd_select(
         type('A', (), {'name': 'TestVoice', 'variant': '1'}))
     assert rc == 0
@@ -102,9 +99,8 @@ def test_select_unknown_voice(tmp_project):
     assert rc == 1
 
 
-def test_list_variants(tmp_project, capsys, monkeypatch):
+def test_list_variants(tmp_project, capsys):
     import voice_manage
-    monkeypatch.setattr(voice_manage, 'regen_runtime_map', lambda: True)
     voice_manage.cmd_list(type('A', (), {}))
     captured = capsys.readouterr()
     assert 'TestVoice' in captured.out
@@ -117,16 +113,3 @@ def test_status(tmp_project, capsys):
     voice_manage.cmd_status(type('A', (), {}))
     captured = capsys.readouterr()
     assert '[OK] TestVoice' in captured.out
-
-
-def test_runtime_map_regen(tmp_project, monkeypatch):
-    """regen_runtime_map пишет who_variant.json."""
-    import voice_manage
-    import voice_runtime_map
-    monkeypatch.setattr(voice_manage, 'regen_runtime_map',
-                        lambda: voice_runtime_map.main() == 0)
-    assert voice_manage.regen_runtime_map()
-    import json
-    with open(paths.WHO_VARIANT_JSON, encoding='utf-8') as f:
-        d = json.load(f)
-    assert d['names']['TestVoice'] == 'TestVoice'

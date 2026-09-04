@@ -9,26 +9,11 @@ A/B-сравнение: voice_batch.py --ref voice_candidates/{Name}/{Name}_v.wa
 import argparse
 import os
 import shutil
-import subprocess
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from voicekit import catalog, paths  # noqa: E402
-
-
-def regen_runtime_map():
-    """Перегенерирует catalog/who_variant.json (кто -> активный вариант)."""
-    try:
-        tool = os.path.join(paths.TOOLS_DIR, 'voice_runtime_map.py')
-        r = subprocess.run([sys.executable, tool], cwd=paths.ROOT,
-                           capture_output=True, text=True)
-        if r.returncode != 0:
-            print('  ! мапа НЕ обновлена: {}'.format(r.stderr.strip()[-200:]))
-            return False
-        return True
-    except Exception:
-        return False
 
 
 def cmd_list(_):
@@ -72,8 +57,7 @@ def cmd_select(args):
     print('✓ {} → {}'.format(
         os.path.relpath(src, paths.ROOT),
         os.path.relpath(dst, paths.ROOT)))
-    if regen_runtime_map():
-        print('  ✓ who_variant.json обновлена — в игре зазвучит этот вариант')
+    print('  ✓ voices.yaml обновлена — в игре зазвучит этот вариант')
     return 0
 
 

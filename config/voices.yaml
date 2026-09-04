@@ -151,6 +151,12 @@ voices:
     who:
     - edm
     gender: M
+  Mary:
+    ref: voice_candidates/Mary/Mary.wav
+    gender: F
+  Miriam:
+    ref: voice_candidates/Miriam/Miriam.wav
+    gender: F
   Metis:
     ref: voice_candidates/Metis/Metis.wav
     who:
@@ -176,6 +182,15 @@ voices:
     who:
     - orc
     gender: M
+  Ayaka:
+    ref: voice_candidates/Ayaka/Ayaka.wav
+    gender: F
+  Maeiv:
+    ref: voice_candidates/Maeiv/Maeiv.wav
+    gender: F
+  Lily:
+    ref: voice_candidates/Lily/Lily.wav
+    gender: F
   Woodland Spirit:
     ref: voice_candidates/Woodland Spirit/Woodland Spirit.wav
     who:

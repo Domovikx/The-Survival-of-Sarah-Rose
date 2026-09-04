@@ -40,7 +40,14 @@ from voicekit import config as _cfg  # noqa: E402
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Цепочка фильтров чистки (до loudnorm; тот идёт вторым проходом)
-FILTERS = 'highpass=f=60,afftdn=nr=15,deesser=i=0.5,highshelf=f=8000:g=-6'
+FILTERS = 'highpass=f=60,afftdn=nr=10,deesser=i=0.3,highshelf=f=8000:g=-4'
+
+# Наборы фильтров для A/B вариантов (от лёгкого к агрессивному)
+FILTER_PRESETS = {
+    'light':  'highpass=f=60,afftdn=nr=10,deesser=i=0.3,highshelf=f=8000:g=-4',
+    'default': 'highpass=f=60,afftdn=nr=10,deesser=i=0.3,highshelf=f=8000:g=-4',
+    'strong': 'highpass=f=60,afftdn=nr=30,deesser=i=0.7,highshelf=f=8000:g=-8,lowpass=f=14000',
+}
 
 # Фейды по краям (защита от кликов/щелчков)
 FADE = 0.03   # 30 мс в начале и в конце
@@ -167,17 +174,19 @@ def loudnorm_two_pass(path, dst):
     os.replace(tmp, dst)
 
 
-def clean_file(src, dst, force=False):
+def clean_file(src, dst, force=False, preset=None):
     """Один WAV: чистка (денойз+EQ) -> loudnorm -> фейды. True если обработан.
 
     force=False: существующий dst не трогаем.
     force=True: пересобираем. При in-place (src == dst) копии не нужны —
     src читается ffmpeg'ом только в начале, поэтому писать поверх безопасно.
+    preset: 'light'/'default'/'strong' или None = FILTERS по умолчанию.
     """
     if os.path.exists(dst) and not force:
         return False  # уже чищеный — не трогаем
+    filters = FILTER_PRESETS.get(preset, FILTERS) if preset else FILTERS
     tmp = dst + '.tmp1.wav'
-    subprocess.run(['ffmpeg', '-y', '-i', src, '-af', FILTERS,
+    subprocess.run(['ffmpeg', '-y', '-i', src, '-af', filters,
                     '-ac', '1', '-ar', '24000', tmp],
                    check=True, capture_output=True)
     loudnorm_two_pass(tmp, dst)

@@ -50,7 +50,7 @@ def find_candidates():
     return found
 
 
-def cut_and_clean(name, mp3_path, variant=None):
+def cut_and_clean(name, mp3_path, variant=None, preset=None):
     """Нарезка 10с + чистка -> корень каста: {name}[_{variant}].wav."""
     suffix = '_{}'.format(variant) if variant else ''
     dst = os.path.join(paths.char_dir(name),
@@ -74,7 +74,7 @@ def cut_and_clean(name, mp3_path, variant=None):
         print('    паузы: сжато {} (макс {:.2f}с -> {:.2f}с)'.format(
             n_cut, max_pause, pause_params()[0]))
 
-    clean_file(tmp_cut, dst)
+    clean_file(tmp_cut, dst, preset=preset)
     os.remove(tmp_cut)
     return dst, True
 
@@ -109,6 +109,8 @@ def main():
     ap = argparse.ArgumentParser(description='Добавление голоса-кандидата')
     ap.add_argument('--only', default=None,
                     help='обработать только этот голос (имя папки)')
+    ap.add_argument('--variants', action='store_true',
+                    help='сгенерировать _1/_2/_3 с разными пресетами чистки (light/default/strong)')
     args = ap.parse_args()
 
     candidates = find_candidates()
@@ -128,7 +130,18 @@ def main():
 
     for name, mp3s in sorted(candidates.items()):
         print('\n=== {} ==='.format(name))
-        if len(mp3s) == 1:
+        if args.variants:
+            preset_names = ['light', 'default', 'strong']
+            for i, mp3_path in enumerate(mp3s):
+                for pi, preset in enumerate(preset_names):
+                    variant = pi + 1
+                    ref_path, made = cut_and_clean(name, mp3_path, variant, preset=preset)
+                    print('  {:<40s} {} [{}] (из {})'.format(
+                        os.path.relpath(ref_path, paths.ROOT),
+                        'НОВЫЙ' if made else 'уже был',
+                        preset,
+                        os.path.basename(mp3_path)))
+        elif len(mp3s) == 1:
             ref_path, made = cut_and_clean(name, mp3s[0], None)
             print('  {:<40s} {}'.format(
                 os.path.relpath(ref_path, paths.ROOT),

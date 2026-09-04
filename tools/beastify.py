@@ -113,21 +113,29 @@ def main():
         pitch = 'asetrate={}*{},aresample={},atempo={}'.format(
             SR, pr['k'], SR, round(1 / pr['k'], 5))
         chain = pitch + ',' + pr['chain']
-        # суб-тон: sine + tremolo + volume
-        sub = ('sine=f={}:duration={:.3f}'.format(pr['sub_hz'], dur))
-        subf = 'tremolo=f={}:d=0.7,volume={}'.format(
-            pr['sub_trem'], pr['sub_vol'])
-        subprocess.run([
-            FFMPEG, '-y',
-            '-i', src,
-            '-f', 'lavfi', '-i', sub,
-            '-filter_complex',
-            '[0:a]{}[v];[1:a]{}[g];[v][g]amix=inputs=2:duration=first:normalize=0[m]'.format(
-                chain, subf),
-            '-map', '[m]', '-ac', '1', '-ar', str(SR), tmp],
-            check=True, capture_output=True)
+        # суб-тон (только если sub_hz > 0)
+        if pr.get('sub_hz', 0) > 0:
+            sub = ('sine=f={}:duration={:.3f}'.format(pr['sub_hz'], dur))
+            subf = 'tremolo=f={}:d=0.7,volume={}'.format(
+                pr['sub_trem'], pr['sub_vol'])
+            subprocess.run([
+                FFMPEG, '-y',
+                '-i', src,
+                '-f', 'lavfi', '-i', sub,
+                '-filter_complex',
+                '[0:a]{}[v];[1:a]{}[g];[v][g]amix=inputs=2:duration=first:normalize=0[m]'.format(
+                    chain, subf),
+                '-map', '[m]', '-ac', '1', '-ar', str(SR), tmp],
+                check=True, capture_output=True)
+        else:
+            subprocess.run([
+                FFMPEG, '-y',
+                '-i', src,
+                '-af', chain,
+                '-ac', '1', '-ar', str(SR), tmp],
+                check=True, capture_output=True)
         m = measure(tmp)
-        dst = '{}_at_{}.wav'.format(stem, name)
+        dst = '{}_{}.wav'.format(stem, name)
         loudnorm_apply(tmp, dst, m)
         os.remove(tmp)
         d = measure(dst)

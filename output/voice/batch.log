@@ -1369,3 +1369,97 @@
 09:02:37 [6/772] f31f6737 BlackMonolith Alaric: Я? Бесчестное предложение? Я бы не посмел.
 09:03:05   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\BlackMonolith\f31f67372d024ac7dab2e49697c6aeb2__Alaric.wav (3.4s), eta ~346 мин
 09:03:05 done=6 skipped=0 failed=0 total=772
+15:02:37 фраз к генерации: 44941 (lang=ru, force=False)
+15:02:37   a2ac73bb | AlfredArc | Narrator | [Curiously observing] Стражи доставили её прямиком на аукционную сцену, как и было
+15:02:37   62c6062d | AlfredArc | Narrator | [Curiously observing] Сара быстро поняла, что она не первая и даже не последняя. Ч
+15:02:37   13cee74f | AlfredArc | Narrator | [Reflectively thoughtful] Отработанная машина человеческих страданий.
+15:02:37   1f28c7b9 | AlfredArc | Narrator | [Curiously observing] Из-за подиума Сара слышит, как толпа становится громче. Она 
+15:02:37   03dfa80f | AlfredArc | Narrator | [Sternly, with intense focus] Одного за другим она видит, как рабов вытаскивают на сцену. 
+15:02:37   36e3d38d | AlfredArc | Narrator | [Curiously observing] Молодые красивые женщины и женоподобные мужчины вызывают сам
+15:02:37   3d43bbac | AlfredArc | Narrator | [Calmly curious] Сара чувствует, как цепь дёргает её, таща вперёд. Она видит,
+15:02:37   9e7ea049 | AlfredArc | Narrator | [Reflective concern] Сара не хочет представлять это унижение, и всё же она знает,
+15:02:37   d58300ce | AlfredArc | Narrator | [Tense, competitive exchange] Осталось всего два голоса, торгующихся друг против друга. Вс
+15:02:37   7f1110c4 | AlfredArc | Narrator | [In a dazed trance] Цепь дёргает, и Сара не в силах сопротивляться её натяжению,
+15:02:37   ...
+15:02:37 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+15:02:49 model loaded in 12.7s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+15:02:49 [1/44941] a2ac73bb AlfredArc Narrator: Стражи доставили её прямиком на аукционную сцену, как и было
+15:03:24   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\a2ac73bb81cc53353716afbd69187501__Narrator.wav (5.4s), eta ~26148 мин
+15:03:24 [2/44941] 62c6062d AlfredArc Narrator: Сара быстро поняла, что она не первая и даже не последняя. Ч
+15:04:15   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\62c6062dce8fd1c36b852a6f80f35c4d__Narrator.wav (9.3s), eta ~31964 мин
+15:04:15 [3/44941] 13cee74f AlfredArc Narrator: Отработанная машина человеческих страданий.
+15:04:41   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\13cee74f257c3869b1f1df210b31429a__Narrator.wav (3.2s) | trim: burst 30ms after 80ms gap, eta ~27985 мин
+15:04:41 [4/44941] 1f28c7b9 AlfredArc Narrator: Из-за подиума Сара слышит, как толпа становится громче. Она 
+15:05:26   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\1f28c7b98adeb1f35a64b9d78c0b2868__Narrator.wav (7.2s), eta ~29331 мин
+15:05:26 [5/44941] 03dfa80f AlfredArc Narrator: Одного за другим она видит, как рабов вытаскивают на сцену. 
+15:06:13   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\03dfa80f0e875ddcd953947b11999574__Narrator.wav (8.5s), eta ~30471 мин
+15:06:13 done=5 skipped=0 failed=0 total=44941
+15:07:18 фраз к генерации: 8279 (lang=ru, force=False)
+15:07:18   d8499785 | AlfredArc | Sarah | [Curiously observing] Ты говоришь на общем?
+15:07:18   ffcd254a | AlfredArc | Sarah | [Reflective, contemplative] Я думала, здесь все говорят... ну, на том, на чём говорят пл
+15:07:18   12ac96f2 | AlfredArc | Sarah | [Surprised, intrigued] Ты из Розанны?
+15:07:18   52dd8ca7 | AlfredArc | Sarah | [Curiously observing] Как долго ты здесь?
+15:07:18   a0bbc9c7 | AlfredArc | Sarah | [In a questioning tone, with surprise] Двадцать лет? И никто за тобой не пришёл?
+15:07:18   c2fb7fb1 | AlfredArc | Sarah | [Confused but intrigued] Ага...
+15:07:18   c28a7563 | AlfredArc | Sarah | [With a somber, resigned tone] Нет, король умер. Столица пала перед племенниками.
+15:07:18   20bafac9 | AlfredArc | Sarah | [Neutral observation] Тебя не печалит, что твоя страна пала?
+15:07:18   6a8f7989 | AlfredArc | Sarah | [Sternly questioning] Ужасно с деньгами?
+15:07:18   f3a09d70 | AlfredArc | Sarah | [Confusedly questioning] Поэтому ты злилась вчера?
+15:07:18   ...
+15:07:18 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+15:07:28 model loaded in 10.2s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+15:07:28 [1/8279] d8499785 AlfredArc Sarah: Ты говоришь на общем?
+15:07:45   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\d84997857a70c3806f6fbe78d60ab0e7__Sarah.wav (1.4s), eta ~2398 мин
+15:07:45 [2/8279] ffcd254a AlfredArc Sarah: Я думала, здесь все говорят... ну, на том, на чём говорят пл
+15:08:12   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\ffcd254aeda64ce6ae3685a6d3cc40c8__Sarah.wav (3.8s), eta ~3035 мин
+15:08:12 [3/8279] 12ac96f2 AlfredArc Sarah: Ты из Розанны?
+15:08:28   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\12ac96f2d389d24db369726dabfb6fe3__Sarah.wav (1.0s), eta ~2751 мин
+15:08:28 [4/8279] 52dd8ca7 AlfredArc Sarah: Как долго ты здесь?
+15:08:45   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\52dd8ca7e96a4c43e646542a1ee5b48e__Sarah.wav (1.4s), eta ~2658 мин
+15:08:45 [5/8279] a0bbc9c7 AlfredArc Sarah: Двадцать лет? И никто за тобой не пришёл?
+15:09:09   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\a0bbc9c7ea523dae305a25458880eaf3__Sarah.wav (2.8s), eta ~2798 мин
+15:09:09 [6/8279] c2fb7fb1 AlfredArc Sarah: Ага...
+15:09:23   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\c2fb7fb1ee93d1e9ce8f0679b9e1f177__Sarah.wav (0.6s), eta ~2654 мин
+15:09:23 [7/8279] c28a7563 AlfredArc Sarah: Нет, король умер. Столица пала перед племенниками.
+15:09:51   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\c28a75631095ecada116b33c484a5a5d__Sarah.wav (3.7s), eta ~2823 мин
+15:09:51 [8/8279] 20bafac9 AlfredArc Sarah: Тебя не печалит, что твоя страна пала?
+15:10:12   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\20bafac948ce585909d68cdb729a0591__Sarah.wav (2.3s), eta ~2835 мин
+15:10:12 [9/8279] 6a8f7989 AlfredArc Sarah: Ужасно с деньгами?
+15:10:29   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\6a8f7989b4b80bc6017e2abfec2cb47a__Sarah.wav (1.2s), eta ~2768 мин
+15:10:29 [10/8279] f3a09d70 AlfredArc Sarah: Поэтому ты злилась вчера?
+15:10:46   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\AlfredArc\f3a09d701f8238130327d82293b8ea9f__Sarah.wav (1.6s), eta ~2736 мин
+15:10:46 done=10 skipped=0 failed=0 total=8279
+16:03:48 фраз к генерации: 761 (lang=ru, force=False)
+16:03:48   f4659e45 | BlackMonolith | Razaphel | [In a stern, authoritative tone] Нет, Сара. Больше никаких трюков.
+16:03:48   abed1df4 | BlackMonolith | Razaphel | [Curiously observing] До этого момента мы никогда по-настоящему не встречались.
+16:03:48   d8aa4f1b | BlackMonolith | Razaphel | [Reflective nostalgia] Это моя истинная форма. Другие места, где мы встречались... 
+16:03:48   9bc20dc3 | BlackMonolith | Razaphel | [Curiously observing] Представь, что ты наполнила чашу водой, а затем пробила дно 
+16:03:48   059f4032 | BlackMonolith | Razaphel | [Thoughtfully reflective] Вода вытекала бы из разных мест, но это была бы всё та же во
+16:03:48   602f2e0c | BlackMonolith | Razaphel | [Relating lovingly] Это место — мой источник.
+16:03:48   a63c0e2e | BlackMonolith | Razaphel | [Inquisitively intrigued] Проницательно.
+16:03:48   abc6751c | BlackMonolith | Razaphel | [Deliberately calm, with conviction] Хорошо. Тогда будем говорить только правду.
+16:03:48   5598d321 | BlackMonolith | Razaphel | [Reflectively thoughtful] Ты знаешь, как мой род появился в вашем мире, не так ли?
+16:03:48   c8a86804 | BlackMonolith | Razaphel | [Curiously observing] Да. Тысячелетия назад.
+16:03:48   ...
+16:03:48 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+16:03:55 model loaded in 7.5s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+16:03:55 [1/761] f4659e45 BlackMonolith Razaphel: Нет, Сара. Больше никаких трюков.
+16:06:18 фраз к генерации: 0 (lang=ru, force=False)
+16:06:18 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+16:06:27 model loaded in 9.7s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+16:06:27 done=0 skipped=0 failed=0 total=0
+16:19:05 фраз к генерации: 352 (lang=ru, force=False)
+16:19:05   546df850 | SailorArc | Sakar | [Inquisitively questioning] Мы теперь занимаемся бесплатными поездками?
+16:19:05   33f35348 | SailorArc | Sakar | [Sternly amused] А Сигмунд тут любит притворяться лучше, чем он есть.
+16:19:05   4e8fcb47 | SailorArc | Sakar | [In a low menacing whisper] Не позволяй ему очаровать тебя, он такой же ублюдок, как и в
+16:19:05   012fbbaa | SailorArc | Sakar | [Admiringly, with warmth] Тебе повезло, что Сигмунд здесь потрудился остановить тебя.
+16:19:05   8385ceea | SailorArc | Sakar | [Admiringly with warmth] Такая девушка, как ты, и дня не продержится на старой дороге
+16:19:05   b53164fc | SailorArc | Sakar | [Curiously observing] Просто следуй за мной.
+16:19:05   5e9d39e9 | SailorArc | Sakar | [Curiously observing] И захвати свой топор, я не собираюсь всю ночь собирать ветки
+16:19:05   92d419d3 | SailorArc | Sakar | [Neutral observation] Что ж, этого дерева должно хватить.
+16:19:05   8197ee97 | SailorArc | Sakar | [Skeptically intrigued] Неужели ты не умеешь разводить костёр?
+16:19:05   e30336b4 | SailorArc | Sakar | [Inspiring and hopeful tone] Я научу тебя, если хочешь.
+16:19:05   ...
+16:19:05 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+16:19:14 model loaded in 9.6s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+16:19:14 [1/352] 546df850 SailorArc Sakar: Мы теперь занимаемся бесплатными поездками?
