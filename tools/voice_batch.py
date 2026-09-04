@@ -160,6 +160,8 @@ def select_phrases(entries, voices, who_to_voice, args):
             continue
         if args.arc and e['arc'] != args.arc:
             continue
+        if getattr(args, 'scene', None) and e.get('scene') != args.scene:
+            continue
         if args.char and (e['who_name'] or 'Narrator') != args.char:
             continue
         if args.uid and e['uid'] not in args.uid:
@@ -248,6 +250,7 @@ def gen_one(cosyvoice, text, ref, seed, emotion=None):
 def main():
     ap = argparse.ArgumentParser(description='TSSR voice batch (CV3)')
     ap.add_argument('--arc', default=None, help='только эта арка')
+    ap.add_argument('--scene', default=None, help='только эта сцена (arc=Other)')
     ap.add_argument('--char', default=None, help='только этот персонаж (who_name)')
     ap.add_argument('--uid', nargs='*', default=None, help='только эти uid')
     ap.add_argument('--limit', type=int, default=None, help='максимум фраз за прогон')
@@ -333,7 +336,6 @@ def main():
             break
         log('[{}/{}] {} {} {}: {}'.format(
             idx + 1, total, p['uid'][:8], p['arc'], p['voice'], p['text'][:60]))
-        write_manifest(p, args)  # описание ДО генерации
         try:
             speech = gen_one(cosyvoice, p['text'], p['ref'], args.seed,
                              p.get('emotion'))

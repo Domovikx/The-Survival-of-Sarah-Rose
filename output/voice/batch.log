@@ -1598,3 +1598,729 @@
 18:14:39 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
 18:14:47 model loaded in 7.8s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
 18:14:47 [1/23] 5b871d8c Prologue Narrator: Король Орвелл вернулся из своего путешествия по провинциям Р
+18:15:23   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\5b871d8c922b7aa8a3714f27e4cac680__Narrator.wav (5.4s), eta ~13 мин
+18:15:23 [2/23] 484ea304 Prologue Narrator: Он входит в большой зал замка Рейнмир, а следом за ним влета
+18:15:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\484ea304d6d3927f24bf494c29d3b2f3__Narrator.wav (5.8s), eta ~13 мин
+18:15:59 [3/23] 8682f203 Prologue King Orwell Rose: Наконец-то, снова дома.
+18:16:20   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\8682f203be4564527e50458eac9ba89c__King Orwell Rose.wav (1.5s), eta ~10 мин
+18:16:20 [4/23] 9516eb40 Prologue Narrator: Король Орвелл ставит свою дорожную сумку на пол.
+18:16:45   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\9516eb40d65f79e4d01204a87f2cec85__Narrator.wav (3.1s), eta ~9 мин
+18:16:45 [5/23] 827d46ec Prologue Sarah: ОТЕЦ!
+18:17:02   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\827d46ec48683bed0c6c2cdb34fec000__Sarah.wav (0.8s), eta ~8 мин
+18:17:02 [6/23] 3defc76b Prologue Narrator: Сара прыгает в объятия отца.
+18:17:22   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\3defc76b601d4e0e41508054ecbc0209__Narrator.wav (1.9s), eta ~7 мин
+18:17:22 [7/23] 404a7320 Prologue King Orwell Rose: Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты сли
+18:18:05   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\404a7320a5307911d56bf2d6ec1580db__King Orwell Rose.wav (7.2s), eta ~8 мин
+18:18:05 [8/23] ad686f30 Prologue Sarah: Тебя не было почти пять месяцев! Если ты думал, что я не обн
+18:18:42   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\ad686f30c3b69a9e9bc0c193d66cb25c__Sarah.wav (6.0s), eta ~7 мин
+18:18:42 [9/23] a6dee0ae Prologue King Orwell Rose: Ты стала старше, но, кажется, не повзрослела.
+18:19:09   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\a6dee0aeacb323ccb974d611dc845d2c__King Orwell Rose.wav (2.9s), eta ~7 мин
+18:19:09 [10/23] 3779fea2 Prologue Sarah: Злюка!
+18:19:26   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\3779fea2a7807187807c89a42616efd8__Sarah.wav (0.9s), eta ~6 мин
+18:19:26 [11/23] 57b02cba Prologue King Orwell Rose: Кстати о взрослении, ты не видела...
+18:19:50   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\57b02cbaaf42401b848202555e5fa05b__King Orwell Rose.wav (2.2s), eta ~6 мин
+18:19:50 [12/23] 8493961f Prologue Thomas: ПАПА!
+18:20:09   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\8493961fb869b1dadeaf5a60c9e24282__Thomas.wav (0.7s), eta ~5 мин
+18:20:09 [13/23] 374c086c Prologue Narrator: Томас Роуз, младший брат Сары и наследник трона, обнимает от
+18:20:44   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\374c086c9211c7b217e701fb26dd427a__Narrator.wav (5.1s), eta ~5 мин
+18:20:44 [14/23] cfeb0df9 Prologue Thomas: Я так скучал по тебе, папа!
+18:21:09   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\cfeb0df99a5906c7a0f1853e00ffc885__Thomas.wav (2.3s) | trim: burst 20ms after 220ms gap, eta ~4 мин
+18:21:09 [15/23] 2d5b906f Prologue Narrator: Король Орвелл хватает сына за плечи и отстраняет его.
+18:21:41   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\2d5b906f163bbe979489b385dcae1489__Narrator.wav (4.7s), eta ~4 мин
+18:21:41 [16/23] 8e0ff781 Prologue King Orwell Rose: Я тоже скучал по тебе, сын, но помни: самообладание. Будущем
+18:22:25   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\8e0ff781bafda90ad05b468b429b2817__King Orwell Rose.wav (7.4s), eta ~3 мин
+18:22:25 [17/23] 72816146 Prologue King Orwell Rose: Это касается вас обоих.
+18:22:46   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\72816146eb6d2d71eb8f163c3cedf558__King Orwell Rose.wav (1.1s) | trim: burst 450ms after 80ms gap, eta ~3 мин
+18:22:46 [18/23] 75fb0ec9 Prologue Narrator: Король Орвелл строго смотрит на дочь.
+18:23:07   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\75fb0ec9646cf4fe094d41aa888cdf22__Narrator.wav (2.2s), eta ~2 мин
+18:23:07 [19/23] eca5b9eb Prologue Narrator: Да, отец.
+18:23:24   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\eca5b9eb1182229f489146e9f7af7965__Narrator.wav (1.2s), eta ~2 мин
+18:23:24 [20/23] d3380910 Prologue King Orwell Rose: Хорошо. Где королевский помощник? Мне нужно немедленно начат
+18:24:01   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\d3380910fcbac53e6203d73b64ac9cd6__King Orwell Rose.wav (5.4s), eta ~1 мин
+18:24:01 [21/23] 7ec2fcba Prologue Sarah: Кажется, я видела его в библиотеке, отец. Я пойду с тобой.
+18:24:31   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\7ec2fcbafb6ac3cbfb73e78292e85def__Sarah.wav (3.9s), eta ~1 мин
+18:24:31 [22/23] ea711ed1 Prologue King Orwell Rose: Хорошо, хорошо. Томас, найди слугу, чтобы отнести этот багаж
+18:25:21   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\ea711ed13029ddc8a78dd4ca601637fd__King Orwell Rose.wav (8.9s) | trim: burst 20ms after 90ms gap, eta ~0 мин
+18:25:21 [23/23] b04d5e3f Prologue Thomas: Да, отец.
+18:25:42   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\b04d5e3fdaf905533eea5900f91a4b77__Thomas.wav (1.3s) | trim: burst 70ms after 190ms gap, eta ~0 мин
+18:25:42 done=23 skipped=0 failed=0 total=23
+18:28:11 фраз к генерации: 237 (lang=ru, force=False)
+18:28:11   5b871d8c | Prologue | Narrator | [Curiously observing] Король Орвелл вернулся из своего путешествия по провинциям Р
+18:28:11   484ea304 | Prologue | Narrator | [Curiously observing] Он входит в большой зал замка Рейнмир, а следом за ним влета
+18:28:11   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Наконец-то, снова дома.
+18:28:11   9516eb40 | Prologue | Narrator | [Curiously observing] Король Орвелл ставит свою дорожную сумку на пол.
+18:28:11   827d46ec | Prologue | Sarah | [In a proud, commanding tone] ОТЕЦ!
+18:28:11   3defc76b | Prologue | Narrator | [Curiously observing] Сара прыгает в объятия отца.
+18:28:11   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты сли
+18:28:11   ad686f30 | Prologue | Sarah | [Surprised and caring] Тебя не было почти пять месяцев! Если ты думал, что я не обн
+18:28:11   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] Ты стала старше, но, кажется, не повзрослела.
+18:28:11   3779fea2 | Prologue | Sarah | [Angry disbelief] Злюка!
+18:28:11   ...
+18:28:11 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+18:28:11 фраз к генерации: 1024 (lang=ru, force=False)
+18:28:11   6fa99de1 | StoryBeginnings | Narrator | [Reflecting contentment] После коронации Сара сразу вернулась в свою спальню и провал
+18:28:11   d4ad2ba9 | StoryBeginnings | Narrator | [Reflective silence] Была глубокая ночь, и после завершения торжеств в замке стоя
+18:28:11   84fdc341 | StoryBeginnings | Narrator | [Surprised awakening] Внезапно Сара проснулась.
+18:28:11   95447259 | StoryBeginnings | Narrator | [Curiously observing] Сквозь дрёму она услышала чьи-то шаги в своей спальне.
+18:28:11   4935309c | StoryBeginnings | Narrator | [Curiously observing] Сара приподнялась и прошептала в темноту.
+18:28:11   bf163c41 | StoryBeginnings | Sarah | [Suspiciously wary] Кто здесь?
+18:28:11   c6af15a5 | StoryBeginnings | Narrator | [Curiously observing] Знакомый голос ответил.
+18:28:11   c7e40437 | StoryBeginnings | Kate | [Warmly, with affection] Сара, это я.
+18:28:11   fb46e287 | StoryBeginnings | Narrator | [Relieved sigh, warmly with affection] Сара с облегчением вздохнула, услышав голос Кейт.
+18:28:11   bcdf3b90 | StoryBeginnings | Narrator | [Curiously observing] Сара почувствовала, как участился пульс.
+18:28:11   ...
+18:28:11 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+18:28:23 model loaded in 11.9s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+18:28:23 [1/1024] 6fa99de1 StoryBeginnings Narrator: После коронации Сара сразу вернулась в свою спальню и провал
+18:28:23 model loaded in 12.2s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+18:28:23 [24/237] d8e7d3c9 Prologue Narrator: Поздним вечером Сара вернулась в свою спальню.
+18:28:56   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\d8e7d3c9c7a7e315eb63e510726e1caa__Narrator.wav (2.9s), eta ~118 мин
+18:28:56 [25/237] 30c3c879 Prologue Narrator: Снаружи снег усиливался. Метель создавала ощущение, что замо
+18:29:13   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\6fa99de12fd94cf11734cb0342dbdd3d__Narrator.wav (6.2s), eta ~860 мин
+18:29:13 [2/1024] d4ad2ba9 StoryBeginnings Narrator: Была глубокая ночь, и после завершения торжеств в замке стоя
+18:29:50   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\30c3c87921e0e89edec5505ee793b618__Narrator.wav (7.9s), eta ~154 мин
+18:29:50 [26/237] ec6fbc93 Prologue Narrator: Взгляд Сары скользит к толстому фолианту, лежащему на краю е
+18:30:01   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\d4ad2ba94c4249e18d0a15ed66988874__Narrator.wav (4.9s), eta ~837 мин
+18:30:01 [3/1024] 84fdc341 StoryBeginnings Narrator: Внезапно Сара проснулась.
+18:30:28   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\84fdc341d2dc984afc0c0d3fa006cbee__Narrator.wav (1.9s), eta ~710 мин
+18:30:28 [4/1024] 95447259 StoryBeginnings Narrator: Сквозь дрёму она услышала чьи-то шаги в своей спальне.
+18:30:32   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\ec6fbc935348dcfd51a10ade8aea16ec__Narrator.wav (4.7s), eta ~151 мин
+18:30:32 [27/237] 616e2882 Prologue Narrator: Название гласит: «Исторический отчёт о фланговых манёврах ка
+18:31:04   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\95447259a4524e5d65e2f7de6e352458__Narrator.wav (4.3s), eta ~688 мин
+18:31:04 [5/1024] 4935309c StoryBeginnings Narrator: Сара приподнялась и прошептала в темноту.
+18:31:30   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\616e288240d5378a1ee1077e845a9481__Narrator.wav (6.8s), eta ~164 мин
+18:31:30 [28/237] fb58823c Prologue Sarah: Томас был прав. Эти книги очень сухие.
+18:31:39   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\4935309c53cd1a24878e5eaee86ebf0b__Narrator.wav (3.0s) | trim: burst 90ms after 180ms gap, eta ~666 мин
+18:31:39 [6/1024] bf163c41 StoryBeginnings Sarah: Кто здесь?
+18:32:06   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\bf163c419aebd5d007e1d1521624ff39__Sarah.wav (0.8s), eta ~632 мин
+18:32:06 [7/1024] c6af15a5 StoryBeginnings Narrator: Знакомый голос ответил.
+18:32:09   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\fb58823c4d3dce88be6baeb10f0ee75a__Sarah.wav (2.9s), eta ~157 мин
+18:32:09 [29/237] 2206a2d2 Prologue Narrator: Когда отец дал Томасу эти книги, она знала, что Томас отвлеч
+18:32:29   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\c6af15a505f6f818150563a8c62782f8__Narrator.wav (1.8s) | trim: burst 60ms after 110ms gap, eta ~596 мин
+18:32:29 [8/1024] c7e40437 StoryBeginnings Kate: Сара, это я.
+18:32:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\c7e40437c18e13494c8480e0bedc3a43__Kate.wav (1.3s), eta ~585 мин
+18:32:59 [9/1024] fb46e287 StoryBeginnings Narrator: Сара с облегчением вздохнула, услышав голос Кейт.
+18:33:00   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\2206a2d20ac06cf6601f55aec04ee37e__Narrator.wav (5.7s) | trim: burst 140ms after 150ms gap, eta ~160 мин
+18:33:00 [30/237] e4bcdbcf Prologue Narrator: Она надеялась прочитать книги за него и пересказать Томасу, 
+18:33:35   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\fb46e287ee8da475e1dcfd798fc55d19__Narrator.wav (3.4s), eta ~587 мин
+18:33:35 [10/1024] bcdf3b90 StoryBeginnings Narrator: Сара почувствовала, как участился пульс.
+18:33:44   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\e4bcdbcf36788040acc6d4183db3b5b4__Narrator.wav (5.2s), eta ~159 мин
+18:33:44 [31/237] 1a1dd4de Prologue Narrator: Но с Томасом было непросто. Дело было не в том, что он глуп 
+18:34:03   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\bcdf3b908ead34c34aa0098686005522__Narrator.wav (3.0s) | trim: burst 10ms after 130ms gap, eta ~576 мин
+18:34:03 [11/1024] 5c4fcfa2 StoryBeginnings Narrator: Обычно Кейт приходила в её спальню по ночам с одной целью.
+18:34:47   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\1a1dd4de6ebc88000646331651fa180f__Narrator.wav (9.6s), eta ~165 мин
+18:34:47 [32/237] 87ec3be7 Prologue Narrator: Нет, её брат Томас был из тех уникальных людей, чьи интересы
+18:34:50   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\5c4fcfa220abbf5f74120031e5c20725__Narrator.wav (4.2s) | trim: burst 80ms after 170ms gap, eta ~595 мин
+18:34:50 [12/1024] 029e52c3 StoryBeginnings Sarah: Кейт, я правда устала, не знаю, смогу ли сегодня...
+18:35:29   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\029e52c3b0a7c9290fd8a0a25338e84f__Sarah.wav (3.1s) | trim: burst 170ms after 130ms gap, eta ~599 мин
+18:35:29 [13/1024] 7297c3cf StoryBeginnings Narrator: Кейт перебила её.
+18:35:46   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\87ec3be7088c00b8edb371a5aa426e39__Narrator.wav (7.0s) | trim: burst 110ms after 160ms gap, eta ~168 мин
+18:35:46 [33/237] abc5be6a Prologue Narrator: Его интересы могли держаться месяцами, только чтобы полность
+18:35:52   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\7297c3cff3164c0ec8324a516ceb06dc__Narrator.wav (1.4s), eta ~583 мин
+18:35:52 [14/1024] 0a8001e6 StoryBeginnings Kate: Я не за этим пришла, Сара.
+18:36:24   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\0a8001e68e26a6b72563e4d55c6f13d4__Kate.wav (1.8s), eta ~579 мин
+18:36:24 [15/1024] be4d3d7c StoryBeginnings Narrator: Кейт была необычно серьёзна. Сара растерялась.
+18:36:32   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\abc5be6acbdadc5a8a5ced34930f050d__Narrator.wav (5.3s), eta ~166 мин
+18:36:32 [34/237] cc515da5 Prologue Narrator: Однажды он провёл целую неделю, изучая всё, что можно узнать
+18:36:56   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\be4d3d7caee1fad9b25b547f0407da11__Narrator.wav (3.6s), eta ~576 мин
+18:36:56 [16/1024] b6858cbe StoryBeginnings Sarah: Что ты здесь делаешь?
+18:37:29   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\b6858cbed295090cfbe4475f2cb504d3__Sarah.wav (1.5s), eta ~574 мин
+18:37:29 [17/1024] 9561da4e StoryBeginnings Sarah: Я так рада, что это ты, что ты здесь делаешь?
+18:37:29   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\cc515da5297b3b8c8ed1419378969ad9__Narrator.wav (7.1s) | trim: burst 30ms after 140ms gap, eta ~168 мин
+18:37:29 [35/237] 61d2d0c0 Prologue Narrator: Когда Томас чем-то увлекался, это, казалось, полностью захва
+18:37:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\9561da4e2bf096c39f0dc000830ecc9d__Sarah.wav (2.8s), eta ~569 мин
+18:37:59 [18/1024] 11bc46f7 StoryBeginnings Narrator: Кейт присела на край кровати.
+18:38:33   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\11bc46f7be535395305478d63bba548d__Narrator.wav (2.0s), eta ~568 мин
+18:38:33 [19/1024] 39084078 StoryBeginnings Kate: Сара... мне нужно тебе кое-что сказать. Я знаю, это будет не
+18:38:37   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\61d2d0c0764ffbe6a1cc59a2bd07c41c__Narrator.wav (10.4s), eta ~172 мин
+18:38:37 [36/237] ba3807c5 Prologue Narrator: Если бы Томас был одержим войной, он мог бы стать генералом,
+18:39:37   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\390840782dfbf5712961a801cbf5221c__Kate.wav (8.2s), eta ~594 мин
+18:39:37 [20/1024] 8ea61b39 StoryBeginnings Narrator: Сара уже совсем проснулась и села в кровати.
+18:39:46   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\ba3807c574e4e7245e9d4e6227b2a375__Narrator.wav (9.3s), eta ~176 мин
+18:39:46 [37/237] 007b6007 Prologue Narrator: Сара часто задавалась вопросом, почему. Для большинства маль
+18:40:05   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\8ea61b39463f23e9b5fabc92141b5251__Narrator.wav (3.0s), eta ~588 мин
+18:40:05 [21/1024] 62348d26 StoryBeginnings Sarah: Кейт... ты можешь рассказать мне всё что угодно. Что случило
+18:40:51   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\007b60073b571d0af7c8a8b2a95e3dc1__Narrator.wav (9.7s), eta ~178 мин
+18:40:51 [38/237] 155dcdf4 Prologue Narrator: Возможно, размышляла Сара, это была просто его натура. Слишк
+18:40:56   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\62348d26f2a0524fb6afe9095521f471__Sarah.wav (4.0s), eta ~600 мин
+18:40:56 [22/1024] 21ec0217 StoryBeginnings Narrator: Кейт посмотрела на потолок, будто нужные слова были написаны
+18:41:36   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\21ec02175300d7a03a7f72c952300b49__Narrator.wav (4.2s), eta ~603 мин
+18:41:36 [23/1024] be4ca7b1 StoryBeginnings Kate: Я была нечестна с тобой... не до конца.
+18:42:03   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\155dcdf463cd1e0c93cfd94789aff593__Narrator.wav (10.7s), eta ~181 мин
+18:42:03 [39/237] 5291f6c7 Prologue Thomas: И это всё, чем ты занимаешься целыми днями? Так скучно.
+18:42:17   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\be4ca7b1a46f78ca2cab19cb8e32f989__Kate.wav (2.8s) | trim: burst 40ms after 100ms gap, eta ~605 мин
+18:42:17 [24/1024] ac94edfc StoryBeginnings Kate: Я приехала не только из-за смерти твоего отца.
+18:42:45   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\5291f6c747b162194149c5aeb2dfd702__Thomas.wav (3.2s), eta ~178 мин
+18:42:45 [40/237] 9c53f055 Prologue Sarah: ААА!
+18:42:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\ac94edfcb679c01a0439dadbd2011d71__Kate.wav (2.8s), eta ~609 мин
+18:42:59 [25/1024] d428b392 StoryBeginnings Narrator: Сара чувствовала, как сердце билось в горле. Что бы Кейт ни 
+18:43:07   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\9c53f05594c9a3f520d311709152665c__Sarah.wav (0.6s), eta ~171 мин
+18:43:07 [41/237] 98b27f2c Prologue Narrator: Сара издаёт пронзительный крик и оборачивается.
+18:43:47   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\98b27f2c0a16ce94615189df97fa5cc0__Narrator.wav (3.5s), eta ~168 мин
+18:43:47 [42/237] c1ba0716 Prologue Narrator: В углу её комнаты стоит её брат, Томас.
+18:43:57   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\d428b3924adce10434539dcbdab7f53b__Narrator.wav (7.0s), eta ~622 мин
+18:43:57 [26/1024] f2e1be39 StoryBeginnings Kate: Несколько месяцев назад со мной связался... твой отец.
+18:44:20   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\c1ba07162baa6bb2c602593afbbf4cf5__Narrator.wav (3.1s), eta ~164 мин
+18:44:20 [43/237] 8efc9fc5 Prologue Sarah: Что ты делаешь, крадясь по моей комнате? Ты уже должен быть 
+18:44:41   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\f2e1be39b34cbf51952003c17f80a121__Kate.wav (4.2s) | trim: burst 60ms after 90ms gap, eta ~626 мин
+18:44:41 [27/1024] a259070a StoryBeginnings Narrator: Сара сидела, ошеломлённо слушая.
+18:45:05   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\8efc9fc548963bbf252ef75a5c02409e__Sarah.wav (4.4s), eta ~162 мин
+18:45:05 [44/237] 00b32352 Prologue Thomas: Знаю, знаю. Я пытался, но я смотрел в потолок и просто не мо
+18:45:15   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\a259070ac7a3cf4955c5022b6c44e718__Narrator.wav (2.9s) | trim: burst 10ms after 190ms gap, eta ~623 мин
+18:45:15 [28/1024] b3685f40 StoryBeginnings Kate: Он нашёл меня в Летраме, за морем, где я служила. Он сказал,
+18:45:49   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\00b3235279901676b7ea7d419e07f978__Thomas.wav (4.8s), eta ~160 мин
+18:45:49 [45/237] 059c48c6 Prologue Thomas: Вот я и подумал: очевидно же, моя дорогая сестра наверняка м
+18:46:16   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\b3685f40f5263f0454e0ad64bf38da41__Kate.wav (8.8s), eta ~637 мин
+18:46:16 [29/1024] bae300e4 StoryBeginnings Kate: Он сказал, что не может рассказать больше, но попросил меня,
+18:46:39   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\059c48c65ff0ef5607b49bae9763a540__Thomas.wav (6.5s), eta ~159 мин
+18:46:39 [46/237] dcedc1da Prologue Sarah: Я прекрасно сплю, между прочим.
+18:47:18   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\dcedc1daaca0e9e47a2efa3e52827be6__Sarah.wav (1.9s), eta ~157 мин
+18:47:18 [47/237] e5d1a5b8 Prologue Thomas: Пожа-а-алуйста, не отправляй меня обратно, ладно? Я правда н
+18:47:19   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\bae300e46c488c59406bbacbb83af0bc__Kate.wav (8.6s), eta ~650 мин
+18:47:19 [30/1024] 649890e1 StoryBeginnings Narrator: Кейт замолчала.
+18:47:40   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\649890e1d6585de6de7f8a8e1084c964__Narrator.wav (1.3s), eta ~639 мин
+18:47:40 [31/1024] 35af3527 StoryBeginnings Kate: И он попросил меня увезти тебя в безопасное место... за море
+18:48:02   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\e5d1a5b892d5f229deb5de98479c5a54__Thomas.wav (4.6s), eta ~156 мин
+18:48:02 [48/237] 79a0fe58 Prologue Narrator: Сара вздыхает.
+18:48:27   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\79a0fe584e119f42ea1d85fe717bec18__Narrator.wav (1.4s), eta ~152 мин
+18:48:27 [49/237] d297acf2 Prologue Sarah: Ладно, можешь остаться, но ненадолго. Завтра у нас банкет в 
+18:48:34   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\35af3527f91ca985dfd8ba1da32c4369__Kate.wav (6.0s), eta ~647 мин
+18:48:34 [32/1024] 894543fa StoryBeginnings Narrator: Саре было трудно осмыслить услышанное. Подруга скрывала это 
+18:49:37   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\d297acf2faf73f788b6ffb1c4443ccfc__Sarah.wav (9.3s), eta ~154 мин
+18:49:37 [50/237] f7c52af7 Prologue Thomas: Я не уснул в супе!
+18:49:46   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\894543fa7b162787911064d0b9accde9__Narrator.wav (10.0s), eta ~663 мин
+18:49:46 [33/1024] bf761386 StoryBeginnings Kate: Он заплатил наёмнической компании, в которой я работаю, цело
+18:50:05   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\f7c52af7f53e63d6ad631cabd72e1e52__Thomas.wav (1.5s), eta ~150 мин
+18:50:05 [51/237] 5b8667de Prologue Narrator: Сара смеётся.
+18:50:35   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\5b8667de1a98fe55646229476327f5e2__Narrator.wav (1.5s), eta ~148 мин
+18:50:35 [52/237] 4f1a2031 Prologue Sarah: Конечно, уронил лицо в тарелку, какая разница.
+18:50:42   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\bf7613869c18a16289ddd5baf856d182__Kate.wav (7.1s) | trim: burst 60ms after 150ms gap, eta ~670 мин
+18:50:42 [34/1024] 2c5fcec8 StoryBeginnings Kate: Когда мы услышали о смерти твоего отца, мы поняли, что должн
+18:51:09   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\4f1a20317da36eff620e7635d0bd9e72__Sarah.wav (3.9s), eta ~145 мин
+18:51:09 [53/237] d4482e2f Prologue Narrator: Томас подходит к столу Сары и берёт книгу.
+18:51:52 фраз к генерации: 18 (lang=ru, force=False)
+18:51:52   443c3e95 | Other | Narrator | [With a mix of pride and excitement] The Survival of Sarah Rose (Выживание Сары Роуз) — эпическая
+18:51:52   70cf919c | Other | Narrator | [Curiously observing] Впереди вас ждёт игра, которая ещё в процессе разработки.
+18:51:52   3c3f10fe | Other | Narrator | [In a mysterious and somber tone] TSSR разворачивается в тёмном фэнтези-мире.
+18:51:52   fccc1390 | Other | Narrator | [In a cautiously intrigued whisper] Показанные в ней события и истории, хотя и вымышленные, могу
+18:51:52   25025b4d | Other | Narrator | [Intrigued yet solemn] Замок Рейнмир
+18:51:52   ac31a048 | Other | Narrator | [Attentively admiring] Великий замок стоит в самом сердце королевства Розанна.
+18:51:52   9ed86c21 | Other | Narrator | [Calmly reminiscing] На протяжении веков он был домом рода Роуз.
+18:51:52   2147aa7f | Other | Narrator | [Confidently proud] Управляя с мудростью и силой, род Роуз веками обеспечивал пр
+18:51:52   cd446a18 | Other | Narrator | [Curiously observing] Но ничто не вечно, и слухи о новых опасностях начали распрос
+18:51:52   b46f4a28 | Other | Narrator | [Suspiciously wary] Честолюбивый военачальник на востоке угрожает войной.
+18:51:52   ...
+18:51:52 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+18:51:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\2c5fcec8d04106da6855406c7701e651__Kate.wav (10.8s), eta ~687 мин
+18:51:59 [35/1024] 48a1cb47 StoryBeginnings Narrator: Ещё одна пауза.
+18:52:00   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\d4482e2ff51fb57abcf1413ba4806db5__Narrator.wav (2.9s), eta ~145 мин
+18:52:00 [54/237] 18f3a270 Prologue Thomas: Ты серьёзно читаешь эту ерунду?
+18:52:12 model loaded in 20.1s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+18:52:12 [1/18] 443c3e95 Other Narrator: The Survival of Sarah Rose (Выживание Сары Роуз) — эпическая
+18:52:30   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\48a1cb47e3af79bc1aef58d88fe0a836__Narrator.wav (1.4s), eta ~682 мин
+18:52:30 [36/1024] 3028fbfc StoryBeginnings Kate: Сара, тебе нужно ехать со мной в Летрам. Это единственное ме
+18:52:45   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\18f3a2708c05720b16429a6d2020a242__Thomas.wav (2.2s) | trim: burst 200ms after 90ms gap, eta ~144 мин
+18:52:45 [55/237] 7856fdf1 Prologue Sarah: Всё не так плохо, как ты говоришь. К тому же, может, попробу
+18:53:36   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\443c3e95006c7822dc5e6f288f031c46__Narrator.wav (8.7s), eta ~24 мин
+18:53:36 [2/18] 70cf919c Other Narrator: Впереди вас ждёт игра, которая ещё в процессе разработки.
+18:54:14   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\7856fdf183d8869dbb281f9981890157__Sarah.wav (7.8s), eta ~147 мин
+18:54:14 [56/237] 41a92e87 Prologue Narrator: Томас закатывает глаза.
+18:54:20   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\3028fbfcbf36ae92cef1a271b2a95bc2__Kate.wav (11.4s), eta ~712 мин
+18:54:20 [37/1024] d6103ddb StoryBeginnings Narrator: Мысли Сары путались. Тайна смерти отца обрастала новыми зага
+18:54:44   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\41a92e877f6433bd54b6f4b6350f9eab__Narrator.wav (1.6s), eta ~145 мин
+18:54:44 [57/237] 64edd64e Prologue Thomas: Не всем же быть идеальными, как ты.
+18:54:46   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\70cf919c82f3990320f281dbf51b4cf9__Narrator.wav (4.1s), eta ~21 мин
+18:54:46 [3/18] 3c3f10fe Other Narrator: TSSR разворачивается в тёмном фэнтези-мире.
+18:55:39   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\d6103ddbe738c97f841ff97b2b07f84c__Narrator.wav (9.4s), eta ~728 мин
+18:55:39 [38/1024] 7104def5 StoryBeginnings Narrator: Глаза Сары привыкли к темноте, и она видела глаза подруги, б
+18:55:46   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\64edd64ea99f149275cdc152a5275b2d__Thomas.wav (2.3s) | trim: burst 20ms after 120ms gap, eta ~145 мин
+18:55:46 [58/237] 58af443c Prologue Narrator: Сара улыбается брату.
+18:55:47   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\3c3f10fe6357401bfe1a3a2522a53efd__Narrator.wav (3.2s), eta ~18 мин
+18:55:47 [4/18] fccc1390 Other Narrator: Показанные в ней события и истории, хотя и вымышленные, могу
+18:56:10   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\58af443c50bf1452ff3a1e5482dea135__Narrator.wav (1.5s), eta ~142 мин
+18:56:10 [59/237] 65364203 Prologue Sarah: Верно.
+18:56:41   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\65364203e430439161a97b3d245a0168__Sarah.wav (0.7s), eta ~140 мин
+18:56:41 [60/237] 2a77c2aa Prologue Thomas: Хвастунишка.
+18:56:44   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\7104def5477fe21cdb8fc16ab92f68bf__Narrator.wav (5.4s), eta ~736 мин
+18:56:44 [39/1024] ac312dd2 StoryBeginnings Kate: Сара, пожалуйста, поедем со мной.
+18:57:03   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\fccc1390f3432a4e1ccd77c706096ace__Narrator.wav (6.2s), eta ~17 мин
+18:57:03 [5/18] 25025b4d Other Narrator: Замок Рейнмир
+18:57:25   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\2a77c2aa6b5299e44be19ad1a45828db__Thomas.wav (1.1s), eta ~139 мин
+18:57:25 [61/237] 583f25a1 Prologue Sarah: Но серьёзно, Томас, ты должен слушать отца хотя бы иногда. О
+18:57:31   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\ac312dd28500776a3120dbfe074a11ab__Kate.wav (2.0s), eta ~736 мин
+18:57:31 [40/1024] de80e821 StoryBeginnings Narrator: Кейт протягивает руку.
+18:57:33   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\25025b4d2f6983c56cbf88eeb0d56627__Narrator.wav (1.2s), eta ~14 мин
+18:57:33 [6/18] ac31a048 Other Narrator: Великий замок стоит в самом сердце королевства Розанна.
+18:57:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\de80e821fe40ad029bd63d3716341236__Narrator.wav (1.8s), eta ~728 мин
+18:57:59 [41/1024] aee713cf StoryBeginnings Narrator: Неделю спустя наступил день коронации. Все приготовления был
+18:58:31   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\ac31a04859a5fd4d021bdda8ad62f4f7__Narrator.wav (3.5s), eta ~13 мин
+18:58:31 [7/18] 9ed86c21 Other Narrator: На протяжении веков он был домом рода Роуз.
+18:58:34   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\583f25a13f0bd59e8f6edc8e12f28c62__Sarah.wav (8.4s), eta ~140 мин
+18:58:34 [62/237] dbbbb2e7 Prologue Narrator: Томас небрежно роняет фолиант обратно на стол.
+18:58:55   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\aee713cff00cf81c325ac94b93af87d0__Narrator.wav (4.7s), eta ~732 мин
+18:58:55 [42/1024] 19aef3d9 StoryBeginnings Narrator: Сара хотела помочь с подготовкой к коронации, но у неё совсе
+18:59:15   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\dbbbb2e7d3e4298d04942e0ffb880ea4__Narrator.wav (3.0s), eta ~139 мин
+18:59:15 [63/237] e5863873 Prologue Thomas: Да, я знаю, но иногда это просто через край. Читай это, трен
+18:59:18   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\9ed86c21bfc1baad154777f6b5c923c0__Narrator.wav (3.5s), eta ~11 мин
+18:59:18 [8/18] 2147aa7f Other Narrator: Управляя с мудростью и силой, род Роуз веками обеспечивал пр
+18:59:53   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\19aef3d9ecc60162d2d80a72b1400db6__Narrator.wav (7.7s), eta ~737 мин
+18:59:53 [43/1024] 1c971bd1 StoryBeginnings Narrator: На самом деле Кейт продержала её в спальне почти всю неделю.
+19:00:43   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\2147aa7fbc0b474236935c361564b3f1__Narrator.wav (6.4s), eta ~11 мин
+19:00:43 [9/18] cd446a18 Other Narrator: Но ничто не вечно, и слухи о новых опасностях начали распрос
+19:01:04   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\1c971bd1ceff36b39d0269dde1a1bec6__Narrator.wav (3.8s), eta ~746 мин
+19:01:04 [44/1024] 44a67930 StoryBeginnings Narrator: Каждый раз, когда Сара думала, что сможет чем-то заняться, К
+19:01:06   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\e5863873af5f955df59080aefaed5d11__Thomas.wav (12.6s) | trim: burst 60ms after 150ms gap, eta ~142 мин
+19:01:06 [64/237] 376feaab Prologue Thomas: Всё это, управление королевством, ему просто легко даётся.
+19:01:26 фраз к генерации: 8593 (lang=ru, force=False)
+19:01:26   c426d01d | WarriorPath | Narrator | [Curiously observing] Зубцы стены пали быстро, пока остальные солдаты авангарда по
+19:01:26   8e8df1cf | WarriorPath | Narrator | [Warily observing] Лишь несколько человек погибло при подъёме по лестницам, и з
+19:01:26   ca4d1782 | WarriorPath | Narrator | [Grimly disappointed] Сара видела, как их боевой дух рухнул почти мгновенно, как т
+19:01:26   0bca47a3 | WarriorPath | Narrator | [Reflective sadness] Некоторые остались, бросая свои жизни в битве, казавшейся уж
+19:01:26   7a0abafb | WarriorPath | Narrator | [Warily observing] Она увидела, как стрела попала одному из солдат в спину, и о
+19:01:26   a0e791c1 | WarriorPath | Narrator | [Focused attention] Они продолжали бежать, сбрасывали доспехи, оружие, бежали об
+19:01:26   f13f8abe | WarriorPath | Narrator | [Contemplatively hopeful] Лучше так, чем насильственная смерть, подумала Сара.
+19:01:26   de03bf2a | WarriorPath | Narrator | [Warily observing] Она уже не была той юной девушкой, что когда-то бежала из ро
+19:01:26   134602be | WarriorPath | Narrator | [Sorrowfully reminiscing] И всё же она так и не смогла научиться любить бойню так, как
+19:01:26   913d3942 | WarriorPath | Narrator | [Warily observing] Каждая смерть всё ещё преследовала её.
+19:01:26   ...
+19:01:26 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+19:01:26 фраз к генерации: 12264 (lang=ru, force=False)
+19:01:26   07b63361 | Other | Narrator | [Excitedly cheering] Фестиваль Зимней Милости был в самом разгаре, и по всей Роза
+19:01:26   f91f66cd | Other | Narrator | [Admiringly, with warmth] Замок Рейнмир не был исключением — его украшали от пола до п
+19:01:26   74ea8147 | Other | Narrator | [Attentively welcoming] Стоя у входа в большой зал, Сара приветствовала каждого гост
+19:01:26   3756e1a1 | Other | Narrator | [Admiringly reciting, with a hint of reve] Внутри большого зала Томас восседал на троне в полном короле
+19:01:26   cceb31d0 | Other | Narrator | [Warily observing] Сара видела, как он сидел развалившись, без интереса помахив
+19:01:26   f5cceac0 | Other | Narrator | [Warmly, with affection] Ах, принцесса, спасибо, что разрешили нам присутствовать, за
+19:01:26   8b463a78 | Other | Narrator | [Affectionately amused] Сара улыбнулась и кивнула.
+19:01:26   a5479159 | Other | Sarah | [Warmly, with affection] Мы рады вас принимать.
+19:01:26   9734e4ef | Other | Narrator | [Relentlessly optimistic tone] Улыбки, комплименты, соболезнования об отце — всё это было б
+19:01:26   a4052129 | Other | Narrator | [Warily observing] По мере того как зал наполнялся, шум изнутри становился гром
+19:01:26   ...
+19:01:26 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+19:02:09   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\cd446a18ff60da6a5dddf218f1816614__Narrator.wav (5.0s), eta ~10 мин
+19:02:09 [10/18] b46f4a28 Other Narrator: Честолюбивый военачальник на востоке угрожает войной.
+19:02:09 model loaded in 43.7s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+19:02:09 [1/12264] 07b63361 Other Narrator: Фестиваль Зимней Милости был в самом разгаре, и по всей Роза
+19:02:10 model loaded in 44.4s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+19:02:10 [1/8593] c426d01d WarriorPath Narrator: Зубцы стены пали быстро, пока остальные солдаты авангарда по
+19:02:52 фраз к генерации: 1024 (lang=ru, force=False)
+19:02:52   6fa99de1 | StoryBeginnings | Narrator | [Reflecting contentment] После коронации Сара сразу вернулась в свою спальню и провал
+19:02:52   d4ad2ba9 | StoryBeginnings | Narrator | [Reflective silence] Была глубокая ночь, и после завершения торжеств в замке стоя
+19:02:52   84fdc341 | StoryBeginnings | Narrator | [Surprised awakening] Внезапно Сара проснулась.
+19:02:52   95447259 | StoryBeginnings | Narrator | [Curiously observing] Сквозь дрёму она услышала чьи-то шаги в своей спальне.
+19:02:52   4935309c | StoryBeginnings | Narrator | [Curiously observing] Сара приподнялась и прошептала в темноту.
+19:02:52   bf163c41 | StoryBeginnings | Sarah | [Suspiciously wary] Кто здесь?
+19:02:52   c6af15a5 | StoryBeginnings | Narrator | [Curiously observing] Знакомый голос ответил.
+19:02:52   c7e40437 | StoryBeginnings | Kate | [Warmly, with affection] Сара, это я.
+19:02:52   fb46e287 | StoryBeginnings | Narrator | [Relieved sigh, warmly with affection] Сара с облегчением вздохнула, услышав голос Кейт.
+19:02:52   bcdf3b90 | StoryBeginnings | Narrator | [Curiously observing] Сара почувствовала, как участился пульс.
+19:02:52   ...
+19:02:52 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+19:02:52 фраз к генерации: 237 (lang=ru, force=False)
+19:02:52   5b871d8c | Prologue | Narrator | [Curiously observing] Король Орвелл вернулся из своего путешествия по провинциям Р
+19:02:52   484ea304 | Prologue | Narrator | [Curiously observing] Он входит в большой зал замка Рейнмир, а следом за ним влета
+19:02:52   8682f203 | Prologue | King Orwell Rose | [Contentedly satisfied] Наконец-то, снова дома.
+19:02:52   9516eb40 | Prologue | Narrator | [Curiously observing] Король Орвелл ставит свою дорожную сумку на пол.
+19:02:52   827d46ec | Prologue | Sarah | [In a proud, commanding tone] ОТЕЦ!
+19:02:52   3defc76b | Prologue | Narrator | [Curiously observing] Сара прыгает в объятия отца.
+19:02:52   404a7320 | Prologue | King Orwell Rose | [Softly concerned] Ох, Сара, моя спина! Ну, дочка, я уже не так молод, и ты сли
+19:02:52   ad686f30 | Prologue | Sarah | [Surprised and caring] Тебя не было почти пять месяцев! Если ты думал, что я не обн
+19:02:52   a6dee0ae | Prologue | King Orwell Rose | [Reflective concern] Ты стала старше, но, кажется, не повзрослела.
+19:02:52   3779fea2 | Prologue | Sarah | [Angry disbelief] Злюка!
+19:02:52   ...
+19:02:52 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+19:02:53 фраз к генерации: 18 (lang=ru, force=False)
+19:02:53   443c3e95 | Other | Narrator | [With a mix of pride and excitement] The Survival of Sarah Rose (Выживание Сары Роуз) — эпическая
+19:02:53   70cf919c | Other | Narrator | [Curiously observing] Впереди вас ждёт игра, которая ещё в процессе разработки.
+19:02:53   3c3f10fe | Other | Narrator | [In a mysterious and somber tone] TSSR разворачивается в тёмном фэнтези-мире.
+19:02:53   fccc1390 | Other | Narrator | [In a cautiously intrigued whisper] Показанные в ней события и истории, хотя и вымышленные, могу
+19:02:53   25025b4d | Other | Narrator | [Intrigued yet solemn] Замок Рейнмир
+19:02:53   ac31a048 | Other | Narrator | [Attentively admiring] Великий замок стоит в самом сердце королевства Розанна.
+19:02:53   9ed86c21 | Other | Narrator | [Calmly reminiscing] На протяжении веков он был домом рода Роуз.
+19:02:53   2147aa7f | Other | Narrator | [Confidently proud] Управляя с мудростью и силой, род Роуз веками обеспечивал пр
+19:02:53   cd446a18 | Other | Narrator | [Curiously observing] Но ничто не вечно, и слухи о новых опасностях начали распрос
+19:02:53   b46f4a28 | Other | Narrator | [Suspiciously wary] Честолюбивый военачальник на востоке угрожает войной.
+19:02:53   ...
+19:02:53 model: C:\tools\cosyvoice3\pretrained_models\Fun-CosyVoice3-0.5B_p0.8_k25.0_t0.1_c0.7_rl
+19:03:05 model loaded in 12.9s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+19:03:05 model loaded in 12.5s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+19:03:05 [10/18] b46f4a28 Other Narrator: Честолюбивый военачальник на востоке угрожает войной.
+19:03:05 [44/1024] 44a67930 StoryBeginnings Narrator: Каждый раз, когда Сара думала, что сможет чем-то заняться, К
+19:03:07 model loaded in 14.7s (flow-temp 0.8, cfg 0.7, RAS (0.8, 25.0, 0.1), silent-trim ON)
+19:03:07 [64/237] 376feaab Prologue Thomas: Всё это, управление королевством, ему просто легко даётся.
+19:03:53   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\b46f4a2835357e02d3a5ce026edc75d4__Narrator.wav (3.2s), eta ~6 мин
+19:03:53 [11/18] 6211020e Other Narrator: Что-то начало зарождаться в сердцах всех порочных существ.
+19:04:10   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\376feaab9540f66140286278a7f09b84__Thomas.wav (4.1s) | trim: burst 20ms after 100ms gap, eta ~182 мин
+19:04:10 [65/237] b542c5a7 Prologue Narrator: Сара смотрит на брата, его взгляд прикован к полу.
+19:04:19   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\44a67930bad4636dc60766d296982f0e__Narrator.wav (6.9s), eta ~1213 мин
+19:04:19 [45/1024] e4f75316 StoryBeginnings Narrator: К стыду своему, Сара вынуждена была признать, что ничуть не 
+19:04:40   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\6211020e056379b707eafe3dd632a848__Narrator.wav (3.8s), eta ~6 мин
+19:04:40 [12/18] ad873e67 Other Narrator: Но, возможно, самое опасное — враги восстают изнутри самой Р
+19:05:00   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\b542c5a7bfcc5770df9924aeae81ff7e__Narrator.wav (4.2s), eta ~162 мин
+19:05:00 [66/237] c7f050c8 Prologue Narrator: Она встаёт и обнимает его.
+19:05:23   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\e4f75316f999aa27fca499365ce5b585__Narrator.wav (5.9s), eta ~1125 мин
+19:05:23 [46/1024] 4b3472ba StoryBeginnings Narrator: Сара усердно работала всю неделю, готовясь к этому дню.
+19:05:33   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\c7f050c8838b16eb1c4a625646c1a3d1__Narrator.wav (2.1s), eta ~139 мин
+19:05:33 [67/237] e7e42d3a Prologue Sarah: Это неправда. Он рассказывал мне, как трудно ему было расти 
+19:05:38   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\ad873e671de3feec1fbc4cd44e4461f3__Narrator.wav (5.0s), eta ~5 мин
+19:05:38 [13/18] f6def9bc Other Narrator: Одни носят угрозу напоказ, а другие прячут замыслы за улыбка
+19:06:02   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\4b3472ba10b704ad1e44431ad4f27293__Narrator.wav (4.3s) | trim: burst 10ms after 150ms gap, eta ~961 мин
+19:06:02 [47/1024] aa1ac1dc StoryBeginnings Narrator: Согласно указаниям совета, расходов не жалели.
+19:06:44   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\e7e42d3a893c003f598645f3d4e62f2e__Sarah.wav (8.7s) | trim: burst 150ms after 120ms gap, eta ~154 мин
+19:06:44 [68/237] d243f149 Prologue Sarah: Дед бил его, безжалостно.
+19:06:45   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\f6def9bcd788442dd2f1cc4690567ae0__Narrator.wav (4.9s), eta ~5 мин
+19:06:45 [14/18] 94eb5aaa Other Narrator: Род Роуз чувствует это в воздухе...
+19:06:52   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\aa1ac1dc30140480322de13c58c8e89f__Narrator.wav (2.6s), eta ~922 мин
+19:06:52 [48/1024] 59bf459f StoryBeginnings Narrator: Дворянские семьи со всего королевства собрались, заполнив ве
+19:07:21   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\94eb5aaabd781576bc59e9a8af6914c1__Narrator.wav (2.2s), eta ~3 мин
+19:07:21 [15/18] 45f71673 Other Narrator: Опасность.
+19:07:25   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\d243f14955bbd99827827ec4560991a8__Sarah.wav (2.3s), eta ~145 мин
+19:07:25 [69/237] eed799d3 Prologue Narrator: Томас внезапно поднимает взгляд, на его лице изумлённое выра
+19:07:49   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\45f7167325eaeed2e7ccb0a0ae64dd8d__Narrator.wav (1.0s), eta ~2 мин
+19:07:49 [16/18] 35e69326 Other Narrator: Среди этих многочисленных опасностей Сара Роуз, старшая дочь
+19:07:54   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\59bf459f39facc4222529320ffa23e82__Narrator.wav (5.1s), eta ~938 мин
+19:07:54 [49/1024] 1d958385 StoryBeginnings Narrator: Под стать бесконечным украшениям были столы, ломившиеся от я
+19:08:10   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\eed799d3f4d2b4d5306a9c696e29c92a__Narrator.wav (4.9s), eta ~141 мин
+19:08:10 [70/237] c808d966 Prologue Thomas: Я не знал.
+19:08:58   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\35e69326dc09220dcfb59db81e8c8687__Narrator.wav (7.8s) | trim: burst 80ms after 90ms gap, eta ~2 мин
+19:08:58 [17/18] 3880b967 Other Narrator: Ей предстоит научиться отличать друзей от врагов, понять, ка
+19:09:02   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\1d958385026e8afac040d4d0a392cf7b__Narrator.wav (7.6s), eta ~967 мин
+19:09:02 [50/1024] abc62cd3 StoryBeginnings Narrator: Все присутствующие, казалось, были заворожены этим зрелищем.
+19:09:05   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\c808d9668288fcf418703867b86acc03__Thomas.wav (0.9s) | trim: burst 10ms after 130ms gap, eta ~142 мин
+19:09:05 [71/237] f8c27a27 Prologue Narrator: Сара продолжает обнимать брата.
+19:09:47   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\f8c27a27e4c1d1f9eb0ed64584a08f7a__Narrator.wav (2.3s), eta ~138 мин
+19:09:47 [72/237] 6059c76c Prologue Sarah: Он пытался дать нам больше свободы, чем было у него. Но, зна
+19:09:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\abc62cd3c188ab855cd1cf34ba583cde__Narrator.wav (3.8s), eta ~959 мин
+19:09:59 [51/1024] 16231e59 StoryBeginnings Narrator: Томас, в свою очередь, сидел на троне с явным дискомфортом.
+19:10:06   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\3880b967bd11155d349010bc78692842__Narrator.wav (8.6s), eta ~1 мин
+19:10:06 [18/18] 20c02c32 Other Narrator: Она должна выжить.
+19:10:42   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Other\20c02c3202633d6993937ebefc25aefe__Narrator.wav (1.4s), eta ~0 мин
+19:10:42 done=9 skipped=9 failed=0 total=18
+19:10:55   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\6059c76c229f37d5c827fb435168c8ee__Sarah.wav (7.7s), eta ~143 мин
+19:10:55 [73/237] f547327c Prologue Sarah: Не всё останется таким, как сейчас, Томас. Однажды ты станеш
+19:10:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\16231e595bb173a6720addade606c8ba__Narrator.wav (4.4s), eta ~960 мин
+19:10:59 [52/1024] d9735dbe StoryBeginnings Narrator: Согласно указаниям, замок был украшен скромно.
+19:11:34   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\d9735dbe365c8dc9ce8ca6abe1f92a77__Narrator.wav (3.5s), eta ~916 мин
+19:11:34 [53/1024] cae2c75b StoryBeginnings Narrator: На церемонию пригласили лишь самые важные знатные семьи.
+19:11:52   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\f547327cee2c9e1a5a71c638e849703e__Sarah.wav (8.7s), eta ~144 мин
+19:11:52 [74/237] 012b7406 Prologue Thomas: Да... наверное, я мог бы стараться больше.
+19:12:12   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\cae2c75b4ac739fa88f7efe5140e4321__Narrator.wav (3.9s), eta ~884 мин
+19:12:12 [54/1024] 77840455 StoryBeginnings Narrator: С таким малым количеством гостей большой зал казался почему-
+19:12:26   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\012b7406569934ebc0abd6783ab448c8__Thomas.wav (3.2s), eta ~138 мин
+19:12:26 [75/237] 79b64661 Prologue Sarah: Просто покажи хоть какие-то усилия, даже если ненавидишь это
+19:12:52   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\77840455f0b2ebdad73c7c70bc87f25e__Narrator.wav (5.6s), eta ~862 мин
+19:12:52 [55/1024] e25c92fb StoryBeginnings Narrator: Приглашённые выглядели озадаченными, оглядываясь в поисках у
+19:13:17   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\79b64661be4330785f5b88102b0c4f97__Sarah.wav (7.4s) | trim: burst 20ms after 120ms gap, eta ~137 мин
+19:13:17 [76/237] 26d6e75d Prologue Narrator: Томас смотрит на кровать.
+19:13:42   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\26d6e75dd0f5253f31d01eee5a7c24ee__Narrator.wav (1.6s), eta ~131 мин
+19:13:42 [77/237] 5a243ae0 Prologue Thomas: Можно я переночую здесь?
+19:13:45   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\e25c92fb61c82c6dc9b0444676e3e2a9__Narrator.wav (6.4s), eta ~862 мин
+19:13:45 [56/1024] c10f637f StoryBeginnings Narrator: Томас, в свою очередь, сидел на троне с полным комфортом.
+19:14:08   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\5a243ae0807aa11f42fe5735b2b629b7__Thomas.wav (1.4s), eta ~126 мин
+19:14:08 [78/237] 63498cff Prologue Sarah: Томас...
+19:14:27   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\c10f637f23af64bf902e0a728ea3d8c3__Narrator.wav (4.3s) | trim: burst 80ms after 120ms gap, eta ~847 мин
+19:14:27 [57/1024] 74d5b77e StoryBeginnings Narrator: Сара заняла своё место на официальном помосте, рядом с Томас
+19:14:30   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\63498cff7149e6dcaf43c0721d1fadb4__Sarah.wav (0.7s), eta ~121 мин
+19:14:30 [79/237] 59de19ec Prologue Thomas: Пожалуйста, как раньше.
+19:14:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\59de19ec36a07382058dccc40b1c8b9c__Thomas.wav (1.5s), eta ~117 мин
+19:14:59 [80/237] a843ec38 Prologue Sarah: Да, когда нам было шесть. Мы уже не дети, это не годится.
+19:15:13   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\74d5b77e7fd2b2f50037f5e8497ee62a__Narrator.wav (5.4s) | trim: burst 60ms after 190ms gap, eta ~837 мин
+19:15:13 [58/1024] 577d2e2d StoryBeginnings Narrator: С этого места она могла обозревать всю толпу.
+19:15:36   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\a843ec38d73cf81e230c98892cd14810__Sarah.wav (3.6s), eta ~115 мин
+19:15:36 [81/237] c2775d22 Prologue Thomas: Пожа-а-алуйста.
+19:15:46   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\577d2e2d04c20479a0fbbbae2b7f40a5__Narrator.wav (2.9s), eta ~817 мин
+19:15:46 [59/1024] 867748ac StoryBeginnings Narrator: Среди моря лиц некоторые выделялись.
+19:16:03   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\c2775d22f4e9e154f998bc072b456fde__Thomas.wav (1.0s), eta ~112 мин
+19:16:03 [82/237] 388a0b5b Prologue Narrator: Сара и Томас забираются в кровать вместе.
+19:16:14   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\867748ac9e68b260ced7b06ebafc5c27__Narrator.wav (2.3s), eta ~793 мин
+19:16:14 [60/1024] 25f089b1 StoryBeginnings Narrator: Марион сидел в первом ряду. Учитывая его фамилию, меньшего и
+19:16:31   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\388a0b5bc68a1a8cd6223a274abd75f4__Narrator.wav (3.0s), eta ~109 мин
+19:16:31 [83/237] b302cdaa Prologue Narrator: Брат обнимает её, и она обнимает его в ответ.
+19:17:00   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\25f089b1b747dcdfe7c463bf7f065ab9__Narrator.wav (5.6s), eta ~789 мин
+19:17:00 [61/1024] 8409a8f5 StoryBeginnings Narrator: Марион сидел совершенно неподвижно, не участвуя в разговорах
+19:17:09   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\b302cdaae8d9aa35fb1ad7548ef3bd86__Narrator.wav (4.1s) | trim: burst 20ms after 130ms gap, eta ~108 мин
+19:17:09 [84/237] c884dcb5 Prologue Narrator: Они остаются в объятиях друг друга. Томас быстро засыпает.
+19:17:52   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\8409a8f5b9d1c2a5d7289278ab2abf8d__Narrator.wav (7.7s), eta ~791 мин
+19:17:52 [62/1024] 52f2ab77 StoryBeginnings Narrator: Дальше, в задних рядах, она заметила Варгу — молодого полево
+19:17:57   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\c884dcb5e4e2d93f5835a1f131112248__Narrator.wav (4.8s), eta ~108 мин
+19:17:57 [85/237] 6e9faa1e Prologue Narrator: Сара смотрит на украшенный узорами потолок. Её брат крепко с
+19:18:42   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\6e9faa1e5d2299e47305107c5b65eba1__Narrator.wav (5.2s), eta ~108 мин
+19:18:42 [86/237] 34ac6f99 Prologue Narrator: Ничто не остаётся неизменным навсегда, но ей хотелось бы, чт
+19:18:52   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\52f2ab77b13d249db6a4e1a5db7510f3__Narrator.wav (9.4s), eta ~799 мин
+19:18:52 [63/1024] eba97c86 StoryBeginnings Narrator: В отличие от Мариона, Варга казался полностью поглощённым по
+19:19:35   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\34ac6f99bc2818094460702a8c70288c__Narrator.wav (6.8s) | trim: burst 30ms after 150ms gap, eta ~108 мин
+19:19:35 [87/237] 40fd80f7 Prologue Narrator: Томас уходит, сердито бормоча себе под нос.
+19:19:47   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\eba97c86f10c3bf6b69a4bf134405886__Narrator.wav (7.2s), eta ~802 мин
+19:19:47 [64/1024] cd59f131 StoryBeginnings Narrator: Сара задумалась, не его ли это дети, но рядом с ним не было 
+19:20:06   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\40fd80f7f4ffb886c7710a9bd7ccdd8a__Narrator.wav (3.6s) | trim: burst 130ms after 230ms gap, eta ~106 мин
+19:20:06 [88/237] 384d127c Prologue Narrator: Сара просыпается, когда первые лучи света пробиваются сквозь
+19:20:46   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\cd59f131af18665eb10022a6e781b7ba__Narrator.wav (9.2s), eta ~808 мин
+19:20:46 [65/1024] 6550e6f7 StoryBeginnings Narrator: В глубине зала стояла леди Каролин, управлявшая роем слуг, с
+19:20:51   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\384d127c62a0049842812541519a651c__Narrator.wav (4.4s), eta ~106 мин
+19:20:51 [89/237] 8f306cfe Prologue Narrator: Её брат всё ещё спит рядом с ней.
+19:21:17   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\8f306cfe7737713d4714e47ae347b4b5__Narrator.wav (2.2s), eta ~103 мин
+19:21:17 [90/237] a51fe12e Prologue Narrator: Всё кажется таким мирным. Она любит иногда подшучивать над н
+19:21:34   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\6550e6f7c41c0c8a0840e1863a6fe707__Narrator.wav (7.3s), eta ~806 мин
+19:21:34 [66/1024] ab97d9c3 StoryBeginnings Narrator: Спустя мгновение над залом разнёсся звон колокола, призывая 
+19:22:09   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\a51fe12e798e173e85df8f1a4d5c8866__Narrator.wav (7.2s), eta ~104 мин
+19:22:09 [91/237] 34d20772 Prologue Narrator: Она нежно толкает его, зная, что банкет скоро начнётся.
+19:22:19   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\ab97d9c398b3becc42aed996a83fdc74__Narrator.wav (5.1s) | trim: burst 260ms after 170ms gap, eta ~801 мин
+19:22:19 [67/1024] 455fa424 StoryBeginnings Narrator: Священники начали медленно шествовать по ковру, разостланном
+19:22:51   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\34d20772e3d19fd7736f1a825c1655bd__Narrator.wav (4.8s), eta ~103 мин
+19:22:51 [92/237] 5015b17b Prologue Sarah: Эй, пора вставать.
+19:23:05   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\455fa424e34287859986a1baf8c0bd68__Narrator.wav (5.2s), eta ~797 мин
+19:23:05 [68/1024] 2f281b2c StoryBeginnings Narrator: Впереди процессии шёл верховный жрец, неся бархатную подушку
+19:23:13   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\5015b17bff3cb3728eab77ab0c5fb8e8__Sarah.wav (1.4s), eta ~101 мин
+19:23:13 [93/237] e12688e1 Prologue Narrator: Томас мычит, признавая, что проснулся, но надеясь, что его и
+19:23:46   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\2f281b2cb2f17a4395a9659c492e799a__Narrator.wav (5.2s), eta ~791 мин
+19:23:46 [69/1024] 801d271e StoryBeginnings Narrator: На подушке покоилась корона.
+19:24:04   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\e12688e1e61df32f142d252997aca6ff__Narrator.wav (6.2s), eta ~101 мин
+19:24:04 [94/237] bc712c24 Prologue Sarah: Серьёзно, Томас, тебе нужно пойти в свою комнату и одеться, 
+19:24:10   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\801d271e28d634c2256c9c2e818cc159__Narrator.wav (2.0s), eta ~775 мин
+19:24:10 [70/1024] ec08694d StoryBeginnings Narrator: Корона отца, подумала Сара, скоро станет короной Томаса.
+19:24:53   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\ec08694d28d3c31420057e083f501e29__Narrator.wav (3.8s), eta ~770 мин
+19:24:53 [71/1024] 30e27299 StoryBeginnings Narrator: Верховный жрец медленно поднялся по ступеням и встал рядом с
+19:24:53   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\bc712c2494e4c6271f3f81d69ce36f47__Sarah.wav (6.5s), eta ~100 мин
+19:24:53 [95/237] 971a707e Prologue Narrator: Томас выползает из кровати.
+19:25:16   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\971a707e1288bc73d6b7bc8abe7313ed__Narrator.wav (1.6s), eta ~98 мин
+19:25:16 [96/237] 540898d1 Prologue Thomas: Иду я!
+19:25:40   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\30e2729983fba8a651fcdf5c6f89733b__Narrator.wav (5.3s), eta ~769 мин
+19:25:40 [72/1024] 10cfd8bd StoryBeginnings Narrator: Принц Томас Роуз, старший в семье Роуз, сын Орвелла и наслед
+19:25:43   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\540898d1226155567866c04aa78475dc__Thomas.wav (0.7s), eta ~97 мин
+19:25:43 [97/237] 2359a4cd Prologue Narrator: Томас оборачивается перед уходом.
+19:26:05   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\2359a4cd523c32934bff40260b79aa53__Narrator.wav (1.8s), eta ~95 мин
+19:26:05 [98/237] 60381424 Prologue Thomas: Увидимся на банкете.
+19:26:28   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\10cfd8bd77713f5573a9e146f98dd722__Narrator.wav (5.5s), eta ~767 мин
+19:26:28 [73/1024] 1f532ca7 StoryBeginnings Narrator: Томас встал, как было велено.
+19:26:33   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\60381424e73da199e8f54b26ada40055__Thomas.wav (1.2s), eta ~93 мин
+19:26:33 [99/237] 195b2957 Prologue Narrator: Сара машет брату.
+19:26:57   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\195b2957dc65d1d2e395786bbbe407a4__Narrator.wav (1.5s), eta ~91 мин
+19:26:57 [100/237] 3dae3456 Prologue Narrator: Сара встаёт с кровати и начинает одеваться для банкета.
+19:27:00   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\1f532ca7bb03f5d9757d595780a3060e__Narrator.wav (2.8s), eta ~758 мин
+19:27:00 [74/1024] 571c3487 StoryBeginnings Narrator: Клянётесь ли вы чтить добродетели предков и посвятить свою ж
+19:27:36   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\3dae345633962252ea5bfdb8370894fe__Narrator.wav (4.3s), eta ~91 мин
+19:27:36 [101/237] e4ce4758 Prologue Narrator: Она смотрит на себя в зеркало, примеряя разные платья.
+19:27:48   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\571c3487b36367a19a4c56888c58df38__Narrator.wav (6.4s), eta ~757 мин
+19:27:48 [75/1024] e6eb22b1 StoryBeginnings Thomas: Клянусь.
+19:28:15   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\e4ce475860568a734c96fefa3fdfa4e8__Narrator.wav (3.8s) | trim: burst 50ms after 250ms gap, eta ~90 мин
+19:28:15 [102/237] 87ea92cf Prologue Narrator: Сара чувствует, как призрак матери советует ей при каждом вы
+19:28:17   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\e6eb22b1096f5af51640938208225816__Thomas.wav (0.9s), eta ~747 мин
+19:28:17 [76/1024] 78a7add8 StoryBeginnings Narrator: Если вы говорите лживо, какой кары вы желаете от богов?
+19:28:56   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\78a7add8e3f5db48bc50d89ccce43b05__Narrator.wav (4.2s), eta ~743 мин
+19:28:56 [77/1024] 498fae77 StoryBeginnings Thomas: Если я лгу, пусть боги поразят меня на этом месте.
+19:29:01   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\87ea92cfa2e6d95fabbd0c1144e485ed__Narrator.wav (5.4s), eta ~90 мин
+19:29:01 [103/237] 2bd6a3aa Prologue Narrator: «О нет, только не это. Попробуй вон то», — говорила она, ког
+19:29:32   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\498fae77bd9e6ef146c9de1122c29383__Thomas.wav (3.4s), eta ~737 мин
+19:29:32 [78/1024] f6c50d6e StoryBeginnings Narrator: На мгновение повисла пауза, и в зале воцарилась полная тишин
+19:29:47   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\2bd6a3aac9e53970fcbf557dcd253cf0__Narrator.wav (6.0s), eta ~89 мин
+19:29:47 [104/237] fb9fac27 Prologue Narrator: Мать любила с ней нянчиться, и Саре это нравилось.
+19:30:08   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\f6c50d6efe56793854b92f824e4bb838__Narrator.wav (3.8s), eta ~731 мин
+19:30:08 [79/1024] 971d3c2e StoryBeginnings Narrator: Это был акт отречения — момент, когда король приглашает бого
+19:30:21   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\fb9fac2793ffca87a649750ef23eabcb__Narrator.wav (3.6s), eta ~88 мин
+19:30:21 [105/237] ff17f559 Prologue Narrator: Сара почувствовала, как наворачиваются слёзы от воспоминаний
+19:31:04   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\971d3c2e2c752e91846b6dd1766d766c__Narrator.wav (8.0s), eta ~734 мин
+19:31:04 [80/1024] 5e64fa0e StoryBeginnings Narrator: Если ничего не происходило, все присутствующие воспринимали 
+19:31:08   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\ff17f55996c2bc4632d99d14e38c0b94__Narrator.wav (4.4s), eta ~88 мин
+19:31:08 [106/237] f906d96e Prologue Narrator: Для неё это было иначе — она всё ещё смутно помнила мать. То
+19:31:52   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\5e64fa0e6b4ae3376fd384b2646527fd__Narrator.wav (5.9s) | trim: burst 10ms after 100ms gap, eta ~734 мин
+19:31:52 [81/1024] 95ccf6c4 StoryBeginnings Narrator: Верховный жрец кивнул, удовлетворённый тем, что божественный
+19:32:01   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\f906d96e8025c3400ac9c2d4db4297c2__Narrator.wav (6.8s) | trim: burst 20ms after 140ms gap, eta ~88 мин
+19:32:01 [107/237] baf2f607 Prologue Narrator: Она гадала, что хуже: испытывать эту печаль или не иметь ник
+19:32:43   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\95ccf6c4b8df298f874db7f52b9516c6__Narrator.wav (7.3s), eta ~735 мин
+19:32:43 [82/1024] fcc7a4b8 StoryBeginnings Narrator: Тогда милостью всех богов и в присутствии всех дворянских се
+19:32:54   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\baf2f6077dc04531971da2d01fe275a1__Narrator.wav (7.8s), eta ~88 мин
+19:32:54 [108/237] 06ef9626 Prologue Narrator: После смерти матери остались только Сара, Томас и их отец.
+19:33:36   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\fcc7a4b8ada2d708a73a3e3d04b41e7f__Narrator.wav (7.8s), eta ~737 мин
+19:33:36 [83/1024] 52bba6b5 StoryBeginnings Narrator: Верховный жрец возложил корону на голову Томаса, и зал взорв
+19:33:40   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\06ef9626def8cee688eb0e6d38d384de__Narrator.wav (4.8s), eta ~88 мин
+19:33:40 [109/237] 33248277 Prologue Narrator: Большинство королей женились бы снова, но их отец так и не с
+19:34:34   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\52bba6b555ec57c89fbf2374b9a3e277__Narrator.wav (7.2s), eta ~741 мин
+19:34:34 [84/1024] 1ca619e6 StoryBeginnings Narrator: Сара сама выдохнула с облегчением. Она знала, что шанс неуда
+19:34:40   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\3324827734f913db266fb659503a5d4f__Narrator.wav (9.2s), eta ~88 мин
+19:34:40 [110/237] 1e142002 Prologue Narrator: Отец однажды сказал ей, что когда умерла их мать, он потерял
+19:35:29   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\1ca619e6e407ebaf17103d0d330129d6__Narrator.wav (7.5s), eta ~743 мин
+19:35:29 [85/1024] 337afb8c StoryBeginnings Narrator: Сара встала и присоединилась к аплодисментам в честь новоисп
+19:35:46   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\1e14200293072ad036d4321ee05e5d50__Narrator.wav (10.1s), eta ~88 мин
+19:35:46 [111/237] 99c479a9 Prologue Narrator: Сара качает головой и отгоняет воспоминание. Самообладание. 
+19:36:07   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\337afb8cfdb3267bd07085b401e6f97a__Narrator.wav (4.6s), eta ~738 мин
+19:36:07 [86/1024] f2ca4b8f StoryBeginnings Narrator: Томас махал людям, тяжёлая корона неловко сидела на его голо
+19:36:37   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\99c479a975a3bfd555bac2a0b62cedd0__Narrator.wav (6.7s), eta ~88 мин
+19:36:37 [112/237] 97f82ca5 Prologue Narrator: Слёзы подождут.
+19:36:46   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\f2ca4b8fa28cbe59267a360243b4406e__Narrator.wav (3.8s), eta ~735 мин
+19:36:46 [87/1024] a21ec264 StoryBeginnings Narrator: Будет время, подумала Сара, чтобы он привык к ней.
+19:36:57   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\97f82ca575eb9c9b44ae70eb55a8df5a__Narrator.wav (1.1s), eta ~86 мин
+19:36:57 [113/237] 7c9cbbc3 Prologue Narrator: Кроме неё, кровать пуста. Она надеется, что Томас не слишком
+19:37:16   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\a21ec26464a4e1afcf9a2ef02c9c9ae0__Narrator.wav (3.5s), eta ~728 мин
+19:37:16 [88/1024] 959ecc00 StoryBeginnings Narrator: Томас на миг обернулся и посмотрел на сестру. Она заметила, 
+19:37:42   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\7c9cbbc355804aabe3404a5dd4936412__Narrator.wav (6.3s), eta ~86 мин
+19:37:42 [114/237] 060f72d3 Prologue Narrator: И всё же он должен был понимать, что они слишком взрослые дл
+19:38:07   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\959ecc002fce8fbd51b1e08e9d8f26e5__Narrator.wav (7.0s), eta ~728 мин
+19:38:07 [89/1024] aba387a9 StoryBeginnings Narrator: После официальной церемонии коронации начались торжества.
+19:38:24   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\060f72d30ccfe76d8699fadf50857bba__Narrator.wav (5.1s), eta ~85 мин
+19:38:24 [115/237] b2024e81 Prologue Narrator: «О нет, не это, попробуй вон то», — говорила она, когда Сара
+19:38:40   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\aba387a966bdbe34b440cf8779209b34__Narrator.wav (3.7s), eta ~723 мин
+19:38:40 [90/1024] 2f3d00a0 StoryBeginnings Narrator: Сара смотрела, как Томаса буквально утянули в толпу: руки тя
+19:39:06   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\b2024e81f3050d4b48bab65a8ad2ea10__Narrator.wav (6.1s) | trim: burst 90ms after 140ms gap, eta ~84 мин
+19:39:06 [116/237] 2dc65edc Prologue Narrator: Сара качает головой и отгоняет воспоминание. Самообладание. 
+19:39:42   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\2f3d00a0ef2830c3f3456209cb6068db__Narrator.wav (10.0s), eta ~728 мин
+19:39:42 [91/1024] a19c8bb0 StoryBeginnings Narrator: Сара осталась позади. Туда, куда сейчас направлялся Томас, о
+19:39:58   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\2dc65edcf13b9e528f999760bbdc1965__Narrator.wav (6.7s), eta ~84 мин
+19:39:58 [117/237] 583e2d0e Prologue Narrator: Сара вошла в большой зал.
+19:40:21   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\583e2d0e14fecf64fdfe4fd05489d23e__Narrator.wav (1.6s), eta ~83 мин
+19:40:21 [118/237] 33988a09 Prologue Narrator: В центре стоял большой дубовый стол, достаточно длинный, что
+19:40:28   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\a19c8bb0fdc3def5f04a77f5536f464d__Narrator.wav (5.8s), eta ~727 мин
+19:40:28 [92/1024] 95c4d026 StoryBeginnings Narrator: Сара окинула взглядом зал.
+19:40:51   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\95c4d02683f4da578ae0240b6f8a155a__Narrator.wav (1.8s), eta ~718 мин
+19:40:51 [93/1024] 13bb87e6 StoryBeginnings Narrator: С одного края она увидела Мариона, стоявшего чуть поодаль от
+19:41:10   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\33988a09fdf523d352de18cfd784d147__Narrator.wav (6.9s) | trim: burst 60ms after 320ms gap, eta ~82 мин
+19:41:10 [119/237] 0887d173 Prologue Narrator: По всему залу слуги сновали взад-вперёд, расставляя тарелки,
+19:42:00   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\13bb87e66a0774dfda987d545b01d5cf__Narrator.wav (10.8s), eta ~724 мин
+19:42:00 [94/1024] 3c2cd6d3 StoryBeginnings Narrator: С другого края она увидела Варгу, который стоял на коленях, 
+19:42:22   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\0887d173dcfc40a7ecb232b2d1f6e93e__Narrator.wav (11.3s), eta ~83 мин
+19:42:22 [120/237] 0c9d6efe Prologue Narrator: Ей нравилось видеть замок таким: живым, оживлённым.
+19:43:14   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\3c2cd6d392030aeb7297fd2440f9b5d8__Narrator.wav (10.7s) | trim: burst 450ms after 90ms gap, eta ~732 мин
+19:43:14 [95/1024] 558adedf StoryBeginnings Narrator: Выбрать.
+19:43:16   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\0c9d6efe94d6dac0c6f5998eb4938b37__Narrator.wav (4.6s), eta ~82 мин
+19:43:16 [121/237] ef77a826 Prologue Narrator: Некоторые слуги проходили мимо, опуская головы, бормоча слов
+19:43:30   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\558adedfdf1fed41370fb09c8db0180a__Narrator.wav (0.7s), eta ~722 мин
+19:43:30 [96/1024] c693c6bd StoryBeginnings Narrator: Сара подошла к Мариону, стоявшему в стороне от толпы.
+19:44:12   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\c693c6bd280cb0366d058c5d5a359449__Narrator.wav (3.6s) | trim: burst 50ms after 100ms gap, burst 10ms after 170ms gap, eta ~720 мин
+19:44:12 [97/1024] 4ee45f6e StoryBeginnings Sarah: Лорд Марион.
+19:44:21   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\ef77a826e51415b375fee99ffa5bae3f__Narrator.wav (10.5s), eta ~82 мин
+19:44:21 [122/237] 6391ec6b Prologue Thomas: Столько суеты.
+19:44:34   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\4ee45f6ee89b35e9f02e6dcdd8652ef1__Sarah.wav (0.7s), eta ~712 мин
+19:44:34 [98/1024] a4ec1c32 StoryBeginnings Narrator: Марион заметил, что она направляется к нему, и ответил на её
+19:44:47   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\6391ec6b94839eb0264e6a2dc61e7412__Thomas.wav (1.4s), eta ~81 мин
+19:44:47 [123/237] 3fe02c38 Prologue Narrator: Томас вошёл в большой зал, остановившись рядом с сестрой.
+19:45:21   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\a4ec1c32e9210365d66c5d0367e5d433__Narrator.wav (6.0s), eta ~712 мин
+19:45:21 [99/1024] a520e7fc StoryBeginnings Narrator: Сара не могла не восхититься тем, как легко Мариону всё удав
+19:45:28   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\3fe02c38cb48b204df0ece5616c542e1__Narrator.wav (4.4s), eta ~80 мин
+19:45:28 [124/237] e0ef1970 Prologue Sarah: Хотя бы ты успел вовремя.
+19:45:56   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\e0ef19705e463a9750067eae2c2ab621__Sarah.wav (1.6s), eta ~79 мин
+19:45:56 [125/237] 7add9b21 Prologue Thomas: Да, кое-кто дал мне совет. Сказала, что я должен стараться б
+19:46:02   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\a520e7fcce51e2119325ef8104082dc3__Narrator.wav (4.6s), eta ~709 мин
+19:46:02 [100/1024] 920497a9 StoryBeginnings Marion: Принцесса Сара, моё почтение. Поздравляю вашего брата и наше
+19:46:45   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\7add9b210f2292259f51523f2af1c27b__Thomas.wav (4.6s), eta ~79 мин
+19:46:45 [126/237] 18be7a77 Prologue Sarah: Похоже на умного человека.
+19:46:50   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\920497a9ab3f88f2a2022bf9a3ef06cc__Marion.wav (5.7s), eta ~709 мин
+19:46:50 [101/1024] f96c7f53 StoryBeginnings Sarah: Долгих лет ему правления.
+19:47:11   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\18be7a77b515564d9fd3feb253bcb632__Sarah.wav (1.5s), eta ~78 мин
+19:47:11 [127/237] 6f0bc3da Prologue Thomas: Ей нравится так думать.
+19:47:17   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\f96c7f5380c057de0aed7724271634ff__Sarah.wav (1.6s), eta ~703 мин
+19:47:17 [102/1024] f5ddbdac StoryBeginnings Narrator: Марион кивнул.
+19:47:39   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\f5ddbdac54568224eb6a05ec7b84aed4__Narrator.wav (1.2s), eta ~696 мин
+19:47:39 [103/1024] 851916f3 StoryBeginnings Marion: Безусловно.
+19:47:43   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\6f0bc3da127da24d3b50c40d5a99af47__Thomas.wav (1.5s) | trim: burst 10ms after 100ms gap, eta ~77 мин
+19:47:43 [128/237] 8ecadea2 Prologue Narrator: Томас подмигивает сестре.
+19:48:07   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\851916f3716eca3407d3e843a7fb24ae__Marion.wav (1.0s), eta ~691 мин
+19:48:07 [104/1024] 2dd771de StoryBeginnings Narrator: Наступило мгновение тишины.
+19:48:08   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\8ecadea267f657b3be19ff95df29e608__Narrator.wav (1.9s), eta ~75 мин
+19:48:08 [129/237] 8b51ee26 Prologue Narrator: Сара закатывает глаза.
+19:48:36   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\8b51ee2653bc5b62c8ad2ff3284ea11c__Narrator.wav (1.8s), eta ~74 мин
+19:48:36 [130/237] 6309e0a3 Prologue Narrator: По крайней мере, он старается, думает она про себя.
+19:48:37   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\2dd771debf7954148f04a6f4a772a405__Narrator.wav (2.0s), eta ~687 мин
+19:48:37 [105/1024] 19e704de StoryBeginnings Sarah: Разве вам не следует быть в толпе с другими дворянами, пытая
+19:49:12   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\6309e0a3f8dc528560817831e1f8aac2__Narrator.wav (4.2s), eta ~74 мин
+19:49:12 [131/237] 15c7c7d6 Prologue Narrator: Сара наблюдает, как люди медленно заполняют большой зал.
+19:49:36   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\19e704de1f02dc2067b1b855dceb98cb__Sarah.wav (9.0s), eta ~690 мин
+19:49:36 [106/1024] b5244d4f StoryBeginnings Narrator: Марион фыркнул.
+19:49:53   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\15c7c7d69e2163404dc60b6344416a5d__Narrator.wav (3.8s), eta ~73 мин
+19:49:53 [132/237] e0a8698b Prologue Narrator: Придворные вельможи были среди первых. Всегда гордящиеся соб
+19:49:58   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\b5244d4f4fb1cddf53dd09956b782704__Narrator.wav (1.2s), eta ~683 мин
+19:49:58 [107/1024] 769bef72 StoryBeginnings Marion: Полагаю, репутация семьи Ахиллея говорит сама за себя.
+19:50:49   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\769bef7270cf29bc6fafb0564e95341f__Marion.wav (5.0s), eta ~684 мин
+19:50:49 [108/1024] 4c856782 StoryBeginnings Narrator: Марион повернулся к Саре.
+19:50:53   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\e0a8698beb5cde6c1bdf292f98423622__Narrator.wav (9.0s), eta ~73 мин
+19:50:53 [133/237] 7ad03b66 Prologue Narrator: Они столпились вокруг молодого человека с худощавым телослож
+19:51:08   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\4c856782d2a4ec517d2547f14999f601__Narrator.wav (1.6s), eta ~677 мин
+19:51:08 [109/1024] f065f65b StoryBeginnings Marion: Разве вы не согласны?
+19:51:43   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\7ad03b666d599451cc5495f3e6232a9f__Narrator.wav (7.4s), eta ~72 мин
+19:51:43 [134/237] 858cd518 Prologue Narrator: Сара знала его и не удивилась, увидев Мариона Ахиллею из род
+19:51:45   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\f065f65b2742415978fa8b47dc3388f6__Marion.wav (1.8s), eta ~675 мин
+19:51:45 [110/1024] 52861c7f StoryBeginnings Sarah: Я просто шутила, Марион. Мы знаем, что вы и ваша семья значи
+19:52:27   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\858cd518c0f8a2472e2533603276da1b__Narrator.wav (4.8s), eta ~72 мин
+19:52:27 [135/237] 05bed613 Prologue Narrator: Семья Ахиллея была одной из старейших и самых влиятельных се
+19:52:34   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\52861c7f064159a1d9f63a1a306c6d06__Sarah.wav (5.6s), eta ~675 мин
+19:52:34 [111/1024] e8035809 StoryBeginnings Narrator: Снова тишина.
+19:52:51   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\e8035809512d97f2c683a76301a61d74__Narrator.wav (1.1s), eta ~668 мин
+19:52:51 [112/1024] 64c26200 StoryBeginnings Sarah: Знаете, Марион, вы могли бы позволить себе расслабиться хоть
+19:53:39   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\05bed613495a8f3dec8f93eb7edb320f__Narrator.wav (11.5s), eta ~72 мин
+19:53:39 [136/237] 1696ce37 Prologue Narrator: С тех пор семья Ахиллея процветала. Одни старые семьи пали, 
+19:53:47   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\64c26200ed578e1ccf140dfa26d676ed__Sarah.wav (7.3s), eta ~670 мин
+19:53:47 [113/1024] 2cf34d1d StoryBeginnings Narrator: Марион обдумывал слова Сары, глядя в пол.
+19:54:20   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\2cf34d1db182ccf03e45e4a8e997232e__Narrator.wav (2.3s) | trim: burst 280ms after 100ms gap, burst 420ms after 100ms gap, eta ~667 мин
+19:54:20 [114/1024] dd459ca7 StoryBeginnings Marion: Я правда не могу...
+19:54:45   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\1696ce37b5e65ad1a6c7588276c6a8f6__Narrator.wav (10.2s), eta ~71 мин
+19:54:45 [137/237] 310ba492 Prologue Narrator: И Марион был их отпрыском, первым среди всех своих сверстник
+19:54:52   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\dd459ca755b13cd8444a7c9c29d2a917__Marion.wav (1.2s) | trim: burst 10ms after 80ms gap, eta ~664 мин
+19:54:52 [115/1024] 7733b485 StoryBeginnings Narrator: Сара с удивлением посмотрела на него.
+19:55:20   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\7733b4857453abdb518eff68e5f8cac7__Narrator.wav (2.3s), eta ~660 мин
+19:55:20 [116/1024] 1b70eb0b StoryBeginnings Sarah: Что вы имеете в виду?
+19:55:49   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\1b70eb0bd6f318992fcd4a4959b34221__Sarah.wav (1.3s), eta ~656 мин
+19:55:49 [117/1024] 0e6ae86a StoryBeginnings Narrator: Марион взглянул на неё.
+19:55:52   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\310ba492c1b4774e93f4cce8a4338276__Narrator.wav (9.7s), eta ~71 мин
+19:55:52 [138/237] f041fe10 Prologue Narrator: Марион был из тех дворян, которые точно знали, к какому сосл
+19:56:09   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\0e6ae86ad31c760415f2defea355a79b__Narrator.wav (1.5s), eta ~650 мин
+19:56:09 [118/1024] 795d026a StoryBeginnings Marion: Я глава моей семьи. Наша родословная тянется на века, к само
+19:57:06   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\795d026a39445b6f758811cc1d253097__Marion.wav (6.7s), eta ~652 мин
+19:57:06 [119/1024] d74b9586 StoryBeginnings Marion: На каждом этапе каждый глава семьи Ахиллея вносил свою лепту
+19:57:16   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\f041fe10c9b887f368b688cf8caf1535__Narrator.wav (12.9s), eta ~71 мин
+19:57:16 [139/237] 3259f6a0 Prologue Narrator: Марион пересёк зал, чтобы поприветствовать их.
+19:57:56   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\3259f6a07f2b73c2c9b7b7af63437244__Narrator.wav (3.5s), eta ~71 мин
+19:57:56 [140/237] b467c153 Prologue Marion: Принц Томас, принцесса Сара.
+19:58:08   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\d74b9586c6af037dafad0223afe8fa62__Marion.wav (8.8s), eta ~655 мин
+19:58:08 [120/1024] 1215046d StoryBeginnings Marion: Вот какая моя семья стала сегодня.
+19:58:27   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\b467c15318df1685d2b2cfacd6dc9e14__Marion.wav (1.6s), eta ~70 мин
+19:58:27 [141/237] 875a83f3 Prologue Narrator: Марион быстро поклонился.
+19:58:42   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\1215046d9e7583a80dda5953b6120394__Marion.wav (2.2s), eta ~653 мин
+19:58:42 [121/1024] 1ee54357 StoryBeginnings Marion: Мы процветаем лишь потому, что каждое поколение строило на т
+19:58:52   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\875a83f346c1a09903feb9b785c23ce0__Narrator.wav (2.1s), eta ~69 мин
+19:58:52 [142/237] de2a02c9 Prologue Narrator: Сара и Томас слегка поклонились в ответ.
+19:59:26   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\de2a02c95a2201b87bc1c225a4ddb747__Narrator.wav (3.0s), eta ~68 мин
+19:59:26 [143/237] 82005117 Prologue Sarah: Рады видеть тебя, Марион. Надеюсь, путешествие прошло хорошо
+19:59:47   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\1ee54357ea827460e1e015cac6347047__Marion.wav (9.3s), eta ~656 мин
+19:59:47 [122/1024] c1e0a9de StoryBeginnings Narrator: Марион на мгновение замолчал.
+20:00:13   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\c1e0a9dee096a8e12dacb711d6edb4dd__Narrator.wav (2.0s), eta ~652 мин
+20:00:13 [123/1024] d75c1b1a StoryBeginnings Marion: Теперь моя очередь — я последнее звено в цепи, которая протя
+20:00:13   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\8200511760647aff183731b7b57088e5__Sarah.wav (4.6s), eta ~67 мин
+20:00:13 [144/237] 8547d759 Prologue Narrator: Марион пожимает плечами.
+20:00:36   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\8547d75904bf88a184e344832077ca46__Narrator.wav (2.0s) | trim: burst 20ms after 150ms gap, eta ~66 мин
+20:00:36 [145/237] 99487494 Prologue Marion: Настолько хорошо, насколько можно было ожидать. Я просто рад
+20:01:01   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\d75c1b1ae12079341c08764681679f2d__Marion.wav (6.7s), eta ~652 мин
+20:01:01 [124/1024] 8924e2ad StoryBeginnings Narrator: Марион прочистил горло.
+20:01:33   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\8924e2ada69e3f8cde605ac9eaebb979__Narrator.wav (1.5s), eta ~650 мин
+20:01:33 [125/1024] 1a71e426 StoryBeginnings Marion: Если я не окажусь слабым. Потому что большего и не надо. Одн
+20:01:45   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\99487494a153f2f901a97fc58a19a57c__Marion.wav (9.4s), eta ~66 мин
+20:01:45 [146/237] ba7cd727 Prologue Sarah: Почему же?
+20:02:09   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\ba7cd7272b47a3965a352a76ee5a9302__Sarah.wav (0.9s), eta ~65 мин
+20:02:09 [147/237] 6701680a Prologue Marion: Каждый день — бесконечная вереница встреч. Все чего-то хотят
+20:02:24   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\1a71e4263e2caf771d1fd661865ce883__Marion.wav (6.6s), eta ~650 мин
+20:02:24 [126/1024] c78495d5 StoryBeginnings Narrator: Сара внимательно слушала Мариона. Он нечасто открывал свой в
+20:03:09   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\6701680a637b67b0881e77875c418740__Marion.wav (8.4s), eta ~64 мин
+20:03:09 [148/237] b8ae73aa Prologue Marion: Не говоря уже о том, что после месяцев в дороге начинаешь ск
+20:03:14   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\c78495d5c3190b7eabc5d61fc825305e__Narrator.wav (5.2s), eta ~651 мин
+20:03:14 [127/1024] 2a73287a StoryBeginnings Sarah: Вы много несёте на своих плечах, Марион.
+20:03:42   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\2a73287a19fc7c8364b11a48900cf978__Sarah.wav (2.6s), eta ~647 мин
+20:03:42 [128/1024] 92b34901 StoryBeginnings Narrator: Сара положила руки ему на плечи.
+20:04:21   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\b8ae73aa87e9cfb07a7aa185ae855c6f__Marion.wav (10.2s), eta ~64 мин
+20:04:21 [149/237] 15c80eab Prologue Narrator: Сара вежливо улыбалась, слушая жалобы Мариона. Даже немного 
+20:04:24   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\92b34901410efa423e20737dd4380f16__Narrator.wav (2.3s), eta ~646 мин
+20:04:24 [129/1024] a7ae819a StoryBeginnings Sarah: Но ни один человек не может нести такое бремя вечно. Вам сто
+20:05:17   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\15c80eab86c7716e32961c186b501392__Narrator.wav (7.5s), eta ~64 мин
+20:05:17 [150/237] b370f9a2 Prologue Narrator: Мужчина помахал Мариону из другого конца зала, и Марион пома
+20:05:33   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\a7ae819a6c9d049a1ebb0b6c4dcdf651__Sarah.wav (9.6s), eta ~650 мин
+20:05:33 [130/1024] b9178d51 StoryBeginnings Narrator: Марион выглядел подавленным.
+20:05:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\b9178d51514a1a3d4973b0fc0218799b__Narrator.wav (1.8s), eta ~646 мин
+20:05:59 [131/1024] 316ce5a1 StoryBeginnings Marion: У вас с братом есть друг у друга. Со мной всё иначе.
+20:06:06   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\b370f9a246ebd009e4d928f666d614ba__Narrator.wav (6.1s), eta ~63 мин
+20:06:06 [151/237] 8e604d0e Prologue Marion: Прошу прощения, принц, принцесса. Долг зовёт.
+20:06:44   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\316ce5a1043e1e67caee1271fe500d91__Marion.wav (4.0s), eta ~646 мин
+20:06:44 [132/1024] 20d342fd StoryBeginnings Narrator: Сара продолжала утешать его.
+20:06:49   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\8e604d0e9cf9cc82713800a20d8ad509__Marion.wav (3.7s), eta ~62 мин
+20:06:49 [152/237] dfdb1a96 Prologue Narrator: Марион разворачивается и идёт к мужчине.
+20:07:11   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\StoryBeginnings\20d342fdc6464c3a4fb9e1a12e37fe3c__Narrator.wav (2.2s), eta ~642 мин
+20:07:11 [133/1024] 40759549 StoryBeginnings Sarah: Не обязательно семья. В этом мире много людей, которые могли
+20:07:18   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\dfdb1a96bb78a8f737a4719fbc7fccae__Narrator.wav (2.3s), eta ~61 мин
+20:07:18 [153/237] 8a811319 Prologue Thomas: Тьфу, не выношу этого типа.
+20:07:59   saved C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\ai_voice\ru\Prologue\8a8113190669857fa6923a1f0b0d958c__Thomas.wav (2.0s), eta ~61 мин
+20:07:59 [154/237] 43b80e89 Prologue Narrator: Сара кивает.

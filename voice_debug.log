@@ -68,3 +68,156 @@ CALL tlid=u'OpeningScene_208efafb' text=u"I've missed you so much dad!" lang=u'r
 CALL tlid=u'OpeningScene_858e2128' text=u'King Orwell grabs his son by the shoulders and holds him at ' lang=u'ru' path=ai_voice/ru/Prologue/2d5b906f163bbe979489b385dcae1489.wav loadable=False arcs=246
 CALL tlid=u'OpeningScene_858e2128' text=u'King Orwell grabs his son by the shoulders and holds him at ' lang=u'ru' path=ai_voice/ru/Prologue/2d5b906f163bbe979489b385dcae1489.wav loadable=False arcs=246
 CALL tlid=u'OpeningScene_cfb1b39c' text=u"I missed you too son, but remember: composure. It's not befi" lang=u'ru' path=ai_voice/ru/Prologue/8e0ff781bafda90ad05b468b429b2817.wav loadable=False arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_7cd72c81' text=u'TSSR takes place in a dark fantasy setting.' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_7cd72c81' text=u'TSSR takes place in a dark fantasy setting.' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_33bb8e8d' text=u'The events and stories depicted within, while fictional, may' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_7cd72c81' text=u'TSSR takes place in a dark fantasy setting.' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_7cd72c81' text=u'TSSR takes place in a dark fantasy setting.' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_33bb8e8d' text=u'The events and stories depicted within, while fictional, may' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_33bb8e8d' text=u'The events and stories depicted within, while fictional, may' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_7a765a1f' text=u'Castle Reinmeer' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_7a765a1f' text=u'Castle Reinmeer' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_960fb0e9' text=u'The great castle rests at the heart of the nation of Rosanna' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_960fb0e9' text=u'The great castle rests at the heart of the nation of Rosanna' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_7e90aeb9' text=u'For centuries, it has been the home of the Rose family.' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_7e90aeb9' text=u'For centuries, it has been the home of the Rose family.' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_8bf28d0f' text=u'Ruling with both wisdom and strength, the Rose family ensure' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_8bf28d0f' text=u'Ruling with both wisdom and strength, the Rose family ensure' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_23ece795' text=u'But nothing lasts forever and rumors of new dangers have beg' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_23ece795' text=u'But nothing lasts forever and rumors of new dangers have beg' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_3259e95f' text=u'An ambitious warlord to the east threatens war.' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_3259e95f' text=u'An ambitious warlord to the east threatens war.' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_24d3f45e' text=u'Something has begun to stir the hearts of all creatures wick' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_24d3f45e' text=u'Something has begun to stir the hearts of all creatures wick' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_2b97b5c4' text=u'But perhaps most dangerous of all, enemies are rising from w' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_2b97b5c4' text=u'But perhaps most dangerous of all, enemies are rising from w' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_56775222' text=u'Some wear their threats on their sleeves, whilst others hide' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_56775222' text=u'Some wear their threats on their sleeves, whilst others hide' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_721167b9' text=u'The Rose family can feel it in the air...' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_721167b9' text=u'The Rose family can feel it in the air...' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_a48d1400' text=u'Danger.' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_a48d1400' text=u'Danger.' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_ce2b970c' text=u'Amidst these many dangers, Sarah Rose, eldest daughter of th' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_ce2b970c' text=u'Amidst these many dangers, Sarah Rose, eldest daughter of th' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_aa811a66' text=u'She will need to learn who she can trust, who would seek to ' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_aa811a66' text=u'She will need to learn who she can trust, who would seek to ' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_f65a0b96' text=u'She must survive.' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_f65a0b96' text=u'She must survive.' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'OpeningScene_92a05bc0' text=u'King Orwell has returned from his travels through the provin' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/5b871d8c922b7aa8a3714f27e4cac680__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_92a05bc0' text=u'King Orwell has returned from his travels through the provin' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/5b871d8c922b7aa8a3714f27e4cac680__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_a1388298' text=u'He enters the great hall of Castle Reinmeer, the snow of an ' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/484ea304d6d3927f24bf494c29d3b2f3__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_92a05bc0' text=u'King Orwell has returned from his travels through the provin' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/5b871d8c922b7aa8a3714f27e4cac680__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_92a05bc0' text=u'King Orwell has returned from his travels through the provin' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/5b871d8c922b7aa8a3714f27e4cac680__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_a1388298' text=u'He enters the great hall of Castle Reinmeer, the snow of an ' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/484ea304d6d3927f24bf494c29d3b2f3__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_a1388298' text=u'He enters the great hall of Castle Reinmeer, the snow of an ' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/484ea304d6d3927f24bf494c29d3b2f3__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_d3632255' text=u'Finally, home again.' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/8682f203be4564527e50458eac9ba89c__King Orwell Rose.wav arcs=246
+CALL tlid=u'OpeningScene_d3632255' text=u'Finally, home again.' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/8682f203be4564527e50458eac9ba89c__King Orwell Rose.wav arcs=246
+CALL tlid=u'OpeningScene_2f187f8f' text=u'King Orwell pluts his travel bag down.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/9516eb40d65f79e4d01204a87f2cec85__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_2f187f8f' text=u'King Orwell pluts his travel bag down.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/9516eb40d65f79e4d01204a87f2cec85__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_72ab636d' text=u'FATHER!' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/827d46ec48683bed0c6c2cdb34fec000__Sarah.wav arcs=246
+CALL tlid=u'OpeningScene_72ab636d' text=u'FATHER!' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/827d46ec48683bed0c6c2cdb34fec000__Sarah.wav arcs=246
+CALL tlid=u'OpeningScene_3ee1b5b2' text=u"Sarah leaps into her father's arms." lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/3defc76b601d4e0e41508054ecbc0209__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_3ee1b5b2' text=u"Sarah leaps into her father's arms." lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/3defc76b601d4e0e41508054ecbc0209__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_a0b40588' text=u"Ooh, Sarah, my back! Please daugher, I'm not as young as I w" lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/404a7320a5307911d56bf2d6ec1580db__King Orwell Rose.wav arcs=246
+CALL tlid=u'OpeningScene_a0b40588' text=u"Ooh, Sarah, my back! Please daugher, I'm not as young as I w" lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/404a7320a5307911d56bf2d6ec1580db__King Orwell Rose.wav arcs=246
+CALL tlid=u'OpeningScene_be7c6d2b' text=u"You were gone for almost five months! If you thought I wasn'" lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/ad686f30c3b69a9e9bc0c193d66cb25c__Sarah.wav arcs=246
+CALL tlid=u'OpeningScene_be7c6d2b' text=u"You were gone for almost five months! If you thought I wasn'" lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/ad686f30c3b69a9e9bc0c193d66cb25c__Sarah.wav arcs=246
+CALL tlid=u'OpeningScene_9f647d6e' text=u"You've grown older but I don't think you've grown up yet." lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/a6dee0aeacb323ccb974d611dc845d2c__King Orwell Rose.wav arcs=246
+CALL tlid=u'OpeningScene_9f647d6e' text=u"You've grown older but I don't think you've grown up yet." lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/a6dee0aeacb323ccb974d611dc845d2c__King Orwell Rose.wav arcs=246
+CALL tlid=u'OpeningScene_9fe05d5e' text=u'So mean!' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/3779fea2a7807187807c89a42616efd8__Sarah.wav arcs=246
+CALL tlid=u'OpeningScene_9fe05d5e' text=u'So mean!' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/3779fea2a7807187807c89a42616efd8__Sarah.wav arcs=246
+CALL tlid=u'OpeningScene_0bebc5f2' text=u'Speaking of growing up, have you seen...' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/57b02cbaaf42401b848202555e5fa05b__King Orwell Rose.wav arcs=246
+CALL tlid=u'OpeningScene_0bebc5f2' text=u'Speaking of growing up, have you seen...' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/57b02cbaaf42401b848202555e5fa05b__King Orwell Rose.wav arcs=246
+CALL tlid=u'OpeningScene_0a2171ce' text=u'DAD!' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/8493961fb869b1dadeaf5a60c9e24282__Thomas.wav arcs=246
+CALL tlid=u'OpeningScene_0a2171ce' text=u'DAD!' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/8493961fb869b1dadeaf5a60c9e24282__Thomas.wav arcs=246
+CALL tlid=u'OpeningScene_90b53935' text=u"Thomas Rose, Sarah's younger brother, and heir to the throne" lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/374c086c9211c7b217e701fb26dd427a__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_90b53935' text=u"Thomas Rose, Sarah's younger brother, and heir to the throne" lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/374c086c9211c7b217e701fb26dd427a__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_208efafb' text=u"I've missed you so much dad!" lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/cfeb0df99a5906c7a0f1853e00ffc885__Thomas.wav arcs=246
+CALL tlid=u'OpeningScene_208efafb' text=u"I've missed you so much dad!" lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/cfeb0df99a5906c7a0f1853e00ffc885__Thomas.wav arcs=246
+CALL tlid=u'OpeningScene_858e2128' text=u'King Orwell grabs his son by the shoulders and holds him at ' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/2d5b906f163bbe979489b385dcae1489__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_858e2128' text=u'King Orwell grabs his son by the shoulders and holds him at ' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/2d5b906f163bbe979489b385dcae1489__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_cfb1b39c' text=u"I missed you too son, but remember: composure. It's not befi" lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/8e0ff781bafda90ad05b468b429b2817__King Orwell Rose.wav arcs=246
+CALL tlid=u'OpeningScene_cfb1b39c' text=u"I missed you too son, but remember: composure. It's not befi" lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/8e0ff781bafda90ad05b468b429b2817__King Orwell Rose.wav arcs=246
+CALL tlid=u'OpeningScene_96a9ffef' text=u'That goes for both of you.' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/72816146eb6d2d71eb8f163c3cedf558__King Orwell Rose.wav arcs=246
+CALL tlid=u'OpeningScene_96a9ffef' text=u'That goes for both of you.' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/72816146eb6d2d71eb8f163c3cedf558__King Orwell Rose.wav arcs=246
+CALL tlid=u'OpeningScene_47290a0f' text=u'King Orwell looks sternly at his daughter.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/75fb0ec9646cf4fe094d41aa888cdf22__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_47290a0f' text=u'King Orwell looks sternly at his daughter.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/75fb0ec9646cf4fe094d41aa888cdf22__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_884eab9f' text=u'Yes Father.' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/eca5b9eb1182229f489146e9f7af7965__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_884eab9f' text=u'Yes Father.' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/eca5b9eb1182229f489146e9f7af7965__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_9f875eec' text=u'Good. Now, where is the royal assistant? I need begin drafti' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/d3380910fcbac53e6203d73b64ac9cd6__King Orwell Rose.wav arcs=246
+CALL tlid=u'OpeningScene_9f875eec' text=u'Good. Now, where is the royal assistant? I need begin drafti' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/d3380910fcbac53e6203d73b64ac9cd6__King Orwell Rose.wav arcs=246
+CALL tlid=u'OpeningScene_7805df41' text=u"I think I saw him in the library, Father. I'll walk with you" lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/7ec2fcbafb6ac3cbfb73e78292e85def__Sarah.wav arcs=246
+CALL tlid=u'OpeningScene_7805df41' text=u"I think I saw him in the library, Father. I'll walk with you" lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/7ec2fcbafb6ac3cbfb73e78292e85def__Sarah.wav arcs=246
+CALL tlid=u'OpeningScene_c07e8d73' text=u'Fine, fine. Thomas, find a servant to carry this luggage to ' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/ea711ed13029ddc8a78dd4ca601637fd__King Orwell Rose.wav arcs=246
+CALL tlid=u'OpeningScene_c07e8d73' text=u'Fine, fine. Thomas, find a servant to carry this luggage to ' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/ea711ed13029ddc8a78dd4ca601637fd__King Orwell Rose.wav arcs=246
+CALL tlid=u'OpeningScene_7016abb9' text=u'Yes, Father.' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/b04d5e3fdaf905533eea5900f91a4b77__Thomas.wav arcs=246
+CALL tlid=u'OpeningScene_7016abb9' text=u'Yes, Father.' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/b04d5e3fdaf905533eea5900f91a4b77__Thomas.wav arcs=246
+CALL tlid=u'OpeningSceneSequence2_b82eb501' text=u'King Orwell and Sarah are walking through an empty hallway t' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'OpeningSceneSequence2_b82eb501' text=u'King Orwell and Sarah are walking through an empty hallway t' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'OpeningSceneSequence2_8ab28f9d' text=u'I hope your brother has been keeping to his studies while I ' lang=u'ru' who=None variant=None path=None arcs=246
+CALL tlid=u'OpeningSceneSequence2_8ab28f9d' text=u'I hope your brother has been keeping to his studies while I ' lang=u'ru' who=None variant=None path=None arcs=246
+CALL tlid=u'OpeningSceneSequence2_5187d8d6' text=u'He did...in a way.' lang=u'ru' who=None variant=None path=None arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'ru' who=None variant=u'Narrator' path=None arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_2b88e3eb' text=u'The Survival of Sarah Rose is an epic fantasy game. Producti' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/443c3e95006c7822dc5e6f288f031c46__Narrator.wav arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/70cf919c82f3990320f281dbf51b4cf9__Narrator.wav arcs=246
+CALL tlid=u'start_633f0126' text=u'What you are about to play is a work-in-progress.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/70cf919c82f3990320f281dbf51b4cf9__Narrator.wav arcs=246
+CALL tlid=u'start_7cd72c81' text=u'TSSR takes place in a dark fantasy setting.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/3c3f10fe6357401bfe1a3a2522a53efd__Narrator.wav arcs=246
+CALL tlid=u'start_7cd72c81' text=u'TSSR takes place in a dark fantasy setting.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/3c3f10fe6357401bfe1a3a2522a53efd__Narrator.wav arcs=246
+CALL tlid=u'start_33bb8e8d' text=u'The events and stories depicted within, while fictional, may' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/fccc1390f3432a4e1ccd77c706096ace__Narrator.wav arcs=246
+CALL tlid=u'start_33bb8e8d' text=u'The events and stories depicted within, while fictional, may' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/fccc1390f3432a4e1ccd77c706096ace__Narrator.wav arcs=246
+CALL tlid=u'start_7a765a1f' text=u'Castle Reinmeer' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/25025b4d2f6983c56cbf88eeb0d56627__Narrator.wav arcs=246
+CALL tlid=u'start_7a765a1f' text=u'Castle Reinmeer' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/25025b4d2f6983c56cbf88eeb0d56627__Narrator.wav arcs=246
+CALL tlid=u'start_960fb0e9' text=u'The great castle rests at the heart of the nation of Rosanna' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/ac31a04859a5fd4d021bdda8ad62f4f7__Narrator.wav arcs=246
+CALL tlid=u'start_960fb0e9' text=u'The great castle rests at the heart of the nation of Rosanna' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/ac31a04859a5fd4d021bdda8ad62f4f7__Narrator.wav arcs=246
+CALL tlid=u'start_7e90aeb9' text=u'For centuries, it has been the home of the Rose family.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/9ed86c21bfc1baad154777f6b5c923c0__Narrator.wav arcs=246
+CALL tlid=u'start_7e90aeb9' text=u'For centuries, it has been the home of the Rose family.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/9ed86c21bfc1baad154777f6b5c923c0__Narrator.wav arcs=246
+CALL tlid=u'start_8bf28d0f' text=u'Ruling with both wisdom and strength, the Rose family ensure' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/2147aa7fbc0b474236935c361564b3f1__Narrator.wav arcs=246
+CALL tlid=u'start_8bf28d0f' text=u'Ruling with both wisdom and strength, the Rose family ensure' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/2147aa7fbc0b474236935c361564b3f1__Narrator.wav arcs=246
+CALL tlid=u'start_23ece795' text=u'But nothing lasts forever and rumors of new dangers have beg' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/cd446a18ff60da6a5dddf218f1816614__Narrator.wav arcs=246
+CALL tlid=u'start_23ece795' text=u'But nothing lasts forever and rumors of new dangers have beg' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/cd446a18ff60da6a5dddf218f1816614__Narrator.wav arcs=246
+CALL tlid=u'start_3259e95f' text=u'An ambitious warlord to the east threatens war.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/b46f4a2835357e02d3a5ce026edc75d4__Narrator.wav arcs=246
+CALL tlid=u'start_3259e95f' text=u'An ambitious warlord to the east threatens war.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/b46f4a2835357e02d3a5ce026edc75d4__Narrator.wav arcs=246
+CALL tlid=u'start_24d3f45e' text=u'Something has begun to stir the hearts of all creatures wick' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/6211020e056379b707eafe3dd632a848__Narrator.wav arcs=246
+CALL tlid=u'start_24d3f45e' text=u'Something has begun to stir the hearts of all creatures wick' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/6211020e056379b707eafe3dd632a848__Narrator.wav arcs=246
+CALL tlid=u'start_2b97b5c4' text=u'But perhaps most dangerous of all, enemies are rising from w' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/ad873e671de3feec1fbc4cd44e4461f3__Narrator.wav arcs=246
+CALL tlid=u'start_2b97b5c4' text=u'But perhaps most dangerous of all, enemies are rising from w' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/ad873e671de3feec1fbc4cd44e4461f3__Narrator.wav arcs=246
+CALL tlid=u'start_56775222' text=u'Some wear their threats on their sleeves, whilst others hide' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/f6def9bcd788442dd2f1cc4690567ae0__Narrator.wav arcs=246
+CALL tlid=u'start_56775222' text=u'Some wear their threats on their sleeves, whilst others hide' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/f6def9bcd788442dd2f1cc4690567ae0__Narrator.wav arcs=246
+CALL tlid=u'start_721167b9' text=u'The Rose family can feel it in the air...' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/94eb5aaabd781576bc59e9a8af6914c1__Narrator.wav arcs=246
+CALL tlid=u'start_721167b9' text=u'The Rose family can feel it in the air...' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/94eb5aaabd781576bc59e9a8af6914c1__Narrator.wav arcs=246
+CALL tlid=u'start_a48d1400' text=u'Danger.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/45f7167325eaeed2e7ccb0a0ae64dd8d__Narrator.wav arcs=246
+CALL tlid=u'start_a48d1400' text=u'Danger.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/45f7167325eaeed2e7ccb0a0ae64dd8d__Narrator.wav arcs=246
+CALL tlid=u'start_ce2b970c' text=u'Amidst these many dangers, Sarah Rose, eldest daughter of th' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/35e69326dc09220dcfb59db81e8c8687__Narrator.wav arcs=246
+CALL tlid=u'start_ce2b970c' text=u'Amidst these many dangers, Sarah Rose, eldest daughter of th' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/35e69326dc09220dcfb59db81e8c8687__Narrator.wav arcs=246
+CALL tlid=u'start_aa811a66' text=u'She will need to learn who she can trust, who would seek to ' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/3880b967bd11155d349010bc78692842__Narrator.wav arcs=246
+CALL tlid=u'start_aa811a66' text=u'She will need to learn who she can trust, who would seek to ' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/3880b967bd11155d349010bc78692842__Narrator.wav arcs=246
+CALL tlid=u'start_f65a0b96' text=u'She must survive.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/20c02c3202633d6993937ebefc25aefe__Narrator.wav arcs=246
+CALL tlid=u'start_f65a0b96' text=u'She must survive.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/20c02c3202633d6993937ebefc25aefe__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_92a05bc0' text=u'King Orwell has returned from his travels through the provin' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/5b871d8c922b7aa8a3714f27e4cac680__Narrator.wav arcs=246
+CALL tlid=u'start_f65a0b96' text=u'She must survive.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/20c02c3202633d6993937ebefc25aefe__Narrator.wav arcs=246
+CALL tlid=u'start_f65a0b96' text=u'She must survive.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Other/20c02c3202633d6993937ebefc25aefe__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_92a05bc0' text=u'King Orwell has returned from his travels through the provin' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/5b871d8c922b7aa8a3714f27e4cac680__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_92a05bc0' text=u'King Orwell has returned from his travels through the provin' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/5b871d8c922b7aa8a3714f27e4cac680__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_a1388298' text=u'He enters the great hall of Castle Reinmeer, the snow of an ' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/484ea304d6d3927f24bf494c29d3b2f3__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_a1388298' text=u'He enters the great hall of Castle Reinmeer, the snow of an ' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/484ea304d6d3927f24bf494c29d3b2f3__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_d3632255' text=u'Finally, home again.' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/8682f203be4564527e50458eac9ba89c__King Orwell Rose.wav arcs=246
+CALL tlid=u'OpeningScene_d3632255' text=u'Finally, home again.' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/8682f203be4564527e50458eac9ba89c__King Orwell Rose.wav arcs=246
+CALL tlid=u'OpeningScene_2f187f8f' text=u'King Orwell pluts his travel bag down.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/9516eb40d65f79e4d01204a87f2cec85__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_2f187f8f' text=u'King Orwell pluts his travel bag down.' lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/9516eb40d65f79e4d01204a87f2cec85__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_72ab636d' text=u'FATHER!' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/827d46ec48683bed0c6c2cdb34fec000__Sarah.wav arcs=246
+CALL tlid=u'OpeningScene_72ab636d' text=u'FATHER!' lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/827d46ec48683bed0c6c2cdb34fec000__Sarah.wav arcs=246
+CALL tlid=u'OpeningScene_3ee1b5b2' text=u"Sarah leaps into her father's arms." lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/3defc76b601d4e0e41508054ecbc0209__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_3ee1b5b2' text=u"Sarah leaps into her father's arms." lang=u'ru' who=None variant=u'Narrator' path=ai_voice/ru/Prologue/3defc76b601d4e0e41508054ecbc0209__Narrator.wav arcs=246
+CALL tlid=u'OpeningScene_a0b40588' text=u"Ooh, Sarah, my back! Please daugher, I'm not as young as I w" lang=u'ru' who=None variant=None path=ai_voice/ru/Prologue/404a7320a5307911d56bf2d6ec1580db__King Orwell Rose.wav arcs=246
