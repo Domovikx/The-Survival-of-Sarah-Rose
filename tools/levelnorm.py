@@ -49,13 +49,27 @@ def probe(path):
 
 
 def normalize_file(src, dst=None):
-    """Один WAV -> -16 LUFS / TP -1.5 (loudnorm dynamic, in-place по умолчанию)."""
+    """Один WAV -> -16 LUFS / TP -1.5 (loudnorm dynamic, in-place по умолчанию).
+
+    ffmpeg пишет в tmp (не умеет in-place), затем os.replace — атомарно.
+    При сбое ffmpeg tmp удаляется (не копим сироты). При жёстком kill
+    (ребут/убийство процесса) сирота может остаться — финальный файл при
+    этом НЕ страдает (остаётся прошлой валидной версией).
+    """
     dst = dst or src
     tmp = dst + '.ln.tmp.wav'
-    subprocess.run(['ffmpeg', '-y', '-i', src, '-af', LOUD_ARGS,
-                    '-ac', '1', '-ar', '24000', tmp],
-                   check=True, capture_output=True)
-    os.replace(tmp, dst)
+    try:
+        subprocess.run(['ffmpeg', '-y', '-i', src, '-af', LOUD_ARGS,
+                        '-ac', '1', '-ar', '24000', tmp],
+                       check=True, capture_output=True)
+        os.replace(tmp, dst)
+    except Exception:
+        if os.path.exists(tmp):
+            try:
+                os.remove(tmp)
+            except OSError:
+                pass
+        raise
     return True
 
 
