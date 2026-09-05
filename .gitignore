@@ -62,3 +62,7 @@ renpy-8.5.2-sdk/
 renpy-sdk.zip
 
 nul
+*todo*
+output
+__pycache__/
+*.pyc

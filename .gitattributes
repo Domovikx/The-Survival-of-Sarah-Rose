@@ -1,0 +1,63 @@
+# ============================================================
+# .gitattributes — политика контента репозитория
+#
+# 1) Нормализация текста: LF везде (кроме Windows-скриптов)
+# 2) Бинарники: без диффов и конвертации переводов строк
+# 3) export-ignore: что НЕ попадает в ZIP при «Download ZIP»
+#    с GitHub (git archive) — только нужное пользователю:
+#    game/ + ai_voice/ + catalog/ + README + LICENSE
+# ============================================================
+
+# --- Текстовые файлы: нормализация ---
+* text=auto
+*.py   text eol=lf
+*.rpy  text eol=lf
+*.sh   text eol=lf
+*.cmd  text eol=crlf
+*.bat  text eol=crlf
+*.yaml text eol=lf
+*.yml  text eol=lf
+*.json text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
+
+# --- Бинарные форматы ---
+*.wav  binary
+*.mp3  binary
+*.ogg  binary
+*.jpg  binary
+*.jpeg binary
+*.png  binary
+*.gif  binary
+*.ico  binary
+*.ttf  binary
+*.rpyc binary
+*.zip  binary
+*.exe  binary
+*.dll  binary
+*.pyc  binary
+
+# --- Языковая статистика GitHub (Linguist) ---
+game/tl/**           linguist-generated=true
+catalog/*.json       linguist-generated=true
+ai_voice/**          linguist-generated=true
+
+# --- НЕ включать в ZIP-архив (Download ZIP с GitHub) ---
+# Dev-инструментарий и внутренности генерации:
+tools/               export-ignore
+tests/               export-ignore
+output/              export-ignore
+voice_candidates/    export-ignore
+.opencode/           export-ignore
+config/              export-ignore
+docs/                export-ignore
+.vscode/             export-ignore
+*.log                export-ignore
+traceback.txt        export-ignore
+errors.txt           export-ignore
+log.txt              export-ignore
+AGENTS.md            export-ignore
+package.json         export-ignore
+package-lock.json    export-ignore
+.gitattributes       export-ignore
+.gitignore           export-ignore
