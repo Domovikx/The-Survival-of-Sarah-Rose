@@ -95,6 +95,10 @@ tools/
   voice_status.py              # СТАТУС И ПРОГНОЗ генерации: wav по языкам/аркам,
                                #   %, размер, воркеры, скорость, прогноз (--fast
                                #   без замера). ВСЕГДА для вопросов «статус?»
+  voice_queue.sh               # ОЧЕРЕДЬ генерации: bash tools/voice_queue.sh {ru|en}
+                               #   (все арки, resumable, НИЗКИЙ приоритет
+                               #   BelowNormal + OMP_NUM_THREADS=6 — не мешает
+                               #   интерактиву; лог output/voice/gen_all_{lang}.log)
 ```
 
 ВАЖНО: рабочие рефы ВСЕГДА из корня каста `voice_candidates/{Имя}/{Имя}.wav`

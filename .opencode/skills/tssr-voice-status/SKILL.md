@@ -45,5 +45,5 @@ python tools/voice_status.py --detail           # подробный: арки×
 
 ## Контекст
 
-Очереди: `output/voice/gen_all_ru.sh` / `gen_all_en.sh` (bash, resumable, переживают ребуты).
+Очереди: `tools/voice_queue.sh {ru|en}` (bash, resumable, низкий приоритет, переживают ребуты).
 Логи: `output/voice/gen_all_{ru,en}.log`. Рестарт после ребута — см. AGENTS.md.
