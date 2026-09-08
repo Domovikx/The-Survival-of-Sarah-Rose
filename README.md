@@ -56,8 +56,12 @@ The voice pack is generated with **CosyVoice3** (voice cloning) and covers both 
 
 | Language | Voice files | Status |
 |---|---|---|
-| **Russian (RU)** | `ai_voice/ru/...` | in active generation |
-| **English (EN)** | `ai_voice/en/...` | in active generation |
+| **Russian (RU)** | `ai_voice/ru/...` | **~11%** (7 350+ lines), Prologue + StoryBeginnings done |
+| **English (EN)** | `ai_voice/en/...` | **~11%** (7 400+ lines), Prologue + StoryBeginnings done |
+
+Current stage: the whole game is being voiced in background (all 19 arcs × 2 languages,
+≈134 500 lines total, ~3 GB and growing). Generation runs at low CPU priority — it
+doesn't interfere with normal work. Already playable: **Prologue + StoryBeginnings** (RU and EN).
 
 - Voice lookup is automatic: `uid = md5(text)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.wav`
 - Every line has an emotion instruction (state of the narrator/speaker)
@@ -143,8 +147,12 @@ Open an issue or submit a pull request on GitHub.
 
 | Язык | Файлы | Статус |
 |---|---|---|
-| **Русский (RU)** | `ai_voice/ru/...` | в активной генерации |
-| **Английский (EN)** | `ai_voice/en/...` | в активной генерации |
+| **Русский (RU)** | `ai_voice/ru/...` | **~11%** (7 350+ реплик), Пролог + StoryBeginnings готовы |
+| **Английский (EN)** | `ai_voice/en/...` | **~11%** (7 400+ реплик), Пролог + StoryBeginnings готовы |
+
+Текущий этап: вся игра озвучивается в фоне (все 19 арок × 2 языка, ≈134 500 реплик,
+~3 ГБ и растёт). Генерация идёт с низким приоритетом — не мешает работе.
+Уже можно играть: **Пролог + StoryBeginnings** (RU и EN).
 
 - Поиск голоса автоматический: `uid = md5(текста)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.wav`
 - У каждой реплики есть эмоция — состояние диктора/рассказчика
