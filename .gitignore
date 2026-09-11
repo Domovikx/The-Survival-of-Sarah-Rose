@@ -66,3 +66,6 @@ nul
 output
 __pycache__/
 *.pyc
+**debug**
+# Runtime debug log (пишет voice_config.rpy)
+voice_debug.log
