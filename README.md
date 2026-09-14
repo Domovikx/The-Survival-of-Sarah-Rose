@@ -56,13 +56,13 @@ The voice pack is generated with **CosyVoice3** (voice cloning) and covers both 
 
 | Language | Voice files | Status |
 |---|---|---|
-| **Russian (RU)** | `ai_voice/ru/...` | **~20%** (13 700+ lines) |
-| **English (EN)** | `ai_voice/en/...` | **~21%** (14 000+ lines) |
+| **Russian (RU)** | `ai_voice/ru/...` | **~27%** (18 000+ lines) |
+| **English (EN)** | `ai_voice/en/...` | **~27%** (18 400+ lines) |
 
 Current stage: the whole game is being voiced in background (all 19 arcs × 2 languages,
-≈134 500 lines total, ~5 GB and growing). Generation runs at low CPU priority — it
+≈134 500 lines total, ~7 GB and growing). Generation runs at low CPU priority — it
 doesn't interfere with normal work. Already done: **Prologue, StoryBeginnings, Other**
-(RU and EN).
+(RU and EN); **WarriorPath** is in progress.
 
 - Voice lookup is automatic: `uid = md5(text)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.wav`
 - Every line has an emotion instruction (state of the narrator/speaker)
@@ -148,12 +148,12 @@ Open an issue or submit a pull request on GitHub.
 
 | Язык | Файлы | Статус |
 |---|---|---|
-| **Русский (RU)** | `ai_voice/ru/...` | **~20%** (13 700+ реплик) |
-| **Английский (EN)** | `ai_voice/en/...` | **~21%** (14 000+ реплик) |
+| **Русский (RU)** | `ai_voice/ru/...` | **~27%** (18 000+ реплик) |
+| **Английский (EN)** | `ai_voice/en/...` | **~27%** (18 400+ реплик) |
 
 Текущий этап: вся игра озвучивается в фоне (все 19 арок × 2 языка, ≈134 500 реплик,
-~5 ГБ и растёт). Генерация идёт с низким приоритетом — не мешает работе.
-Готово: **Пролог, StoryBeginnings, Other** (RU и EN).
+~7 ГБ и растёт). Генерация идёт с низким приоритетом — не мешает работе.
+Готово: **Пролог, StoryBeginnings, Other** (RU и EN); в работе — **WarriorPath**.
 
 - Поиск голоса автоматический: `uid = md5(текста)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.wav`
 - У каждой реплики есть эмоция — состояние диктора/рассказчика
