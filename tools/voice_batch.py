@@ -55,10 +55,11 @@ from cosyvoice.cli.cosyvoice import AutoModel  # noqa: E402
 from cosyvoice.utils.common import set_all_random_seed  # noqa: E402
 
 from cosyvoice3_demo import (CV3_PREFIX, prep_ref, patch_flow_temperature,  # noqa: E402
-                             patch_silent_token_trim, make_tuned_model_dir)
+                             patch_silent_token_trim)
 from trim_tail_burst import trim as pattern_trim  # noqa: E402
 
 from voicekit import config as _cfg
+from voicekit.model_dir import ensure_model_yaml, make_tuned_model_dir  # noqa: E402
 
 _B = _cfg.section('batch')
 FLOW_TEMP = float(_B.get('flow_temp', 0.8))
@@ -311,6 +312,9 @@ def main():
     model_dir = make_tuned_model_dir(args.top_p, args.top_k, args.tau_r,
                                      rl=True, cfg_rate=args.cfg_rate)
     log('model: {}'.format(model_dir))
+    if ensure_model_yaml(model_dir, args.top_p, args.top_k, args.tau_r,
+                         cfg_rate=args.cfg_rate):
+        log('WARN: cosyvoice3.yaml был сломан — восстановлен из базовой модели')
     silence_benign_warnings()
     if args.device == 'dml':
         os.environ['TSSR_DML'] = '1'
