@@ -6,19 +6,23 @@
     python tools/voice_ctl.py status          # что сейчас происходит
     python tools/voice_ctl.py start [ru|en|all]   # запуск очередей (resumable)
     python tools/voice_ctl.py stop [ru|en|all]    # остановка очередей
+    python tools/voice_ctl.py soft-stop [ru|en|all] [--timeout 300]  # доделать текущий файл и встать (CPU+RAM свободны, resumable)
     python tools/voice_ctl.py pause [ru|en|all]   # пауза (заморозка процессов)
     python tools/voice_ctl.py resume [ru|en|all]  # снять с паузы
     python tools/voice_ctl.py watch [--interval 30]  # живой мониторинг
     python tools/voice_ctl.py logs [--lang ru] [-n 20]  # хвост лога
 
 Двойной клик (без админа): tools/voice-start.cmd, voice-stop.cmd,
-voice-pause.cmd, voice-resume.cmd, voice-status.cmd, voice-watch.cmd.
+voice-soft-stop.cmd, voice-pause.cmd, voice-resume.cmd, voice-status.cmd,
+voice-watch.cmd.
 
 Как это работает:
   - очереди = tools/voice_queue.sh {ru|en} (bash, resumable, низкий приоритет);
   - процессы ищутся по cmdline: 'voice_queue.sh' (обертка) и 'voice_batch.py'
     (воркер) + '--lang {lang}';
   - пауза = NtSuspendProcess по воркерам, состояние — output/voice/ctl_paused_{lang}.json;
+  - soft-stop = снять паузу (если была) + дождаться '  saved ' текущего файла
+    в gen_all_{lang}.log + обычный stop (CPU и RAM свободны);
   - генерация resumable: перезапуск продолжает с места останова, готовые wav скипаются.
 
 Только стандартная библиотека (работает системным python).
@@ -100,6 +104,20 @@ def format_age(sec):
     if sec < 172800:
         return '%d ч' % (sec // 3600)
     return '%d дн' % (sec // 86400)
+
+
+def count_saved(text):
+    """Число готовых файлов в логе: строки '  saved ...' (пишет voice_batch.py).
+
+    Чистая функция (покрыта тестами). Пустой текст -> 0.
+    """
+    if not text:
+        return 0
+    n = 0
+    for line in text.splitlines():
+        if '  saved ' in line:
+            n += 1
+    return n
 
 
 # ---------- процессы Windows ----------
@@ -447,6 +465,90 @@ def cmd_resume(args):
     return rc
 
 
+def cmd_softstop(args):
+    """Мягкая остановка: доделать текущий файл, потом обычный stop.
+
+    - если была пауза — сначала resume (иначе файл никогда не доделается);
+    - ждём новый '  saved ' в gen_all_{lang}.log (таймаут --timeout, по умолч. 300с);
+    - потом та же зачистка, что в stop: taskkill очередей+воркеров, снять метку паузы.
+    CPU и RAM освобождаются, готовые wav целы, рестарт продолжает (resumable).
+    """
+    if sys.platform != 'win32':
+        print('soft-stop: только Windows')
+        return 1
+    try:
+        timeout = max(10, int(getattr(args, 'timeout', 300) or 300))
+    except (TypeError, ValueError):
+        timeout = 300
+    rc = 0
+    for lang in norm_langs(args.lang):
+        if find_queues(lang) or find_workers(lang) or pause_state(lang):
+            pass
+        else:
+            print('%s: уже остановлено' % lang.upper())
+            continue
+        # 1. снять паузу, если была (иначе ждать бессмысленно)
+        st = pause_state(lang)
+        if st:
+            alive = set(find_workers(lang))
+            resumed = 0
+            for pid in st.get('pids', []):
+                if pid not in alive:
+                    continue
+                try:
+                    resume_process(pid)
+                    resumed += 1
+                except OSError as e:
+                    print('%s: pid %d не разморожен: %s'
+                          % (lang.upper(), pid, e))
+                    rc = 1
+            try:
+                os.remove(PAUSE_TMPL.format(lang))
+            except OSError:
+                pass
+            print('%s: снято с паузы (%d), жду текущий файл...'
+                  % (lang.upper(), resumed))
+        # 2. ждать доделки текущего файла (новый '  saved ' в логе)
+        base = count_saved(read_log(lang))
+        deadline = time.time() + timeout
+        finished = False
+        while time.time() < deadline:
+            time.sleep(5)
+            if not find_workers(lang) and not find_queues(lang):
+                print('%s: очередь сама завершилась' % lang.upper())
+                finished = True
+                break
+            if count_saved(read_log(lang)) > base:
+                print('%s: текущий файл доделан' % lang.upper())
+                finished = True
+                break
+        if not finished:
+            print('%s: таймаут %dс — останавливаю жёстко '
+                  '(текущий файл доделается при рестарте)' % (lang.upper(), timeout))
+        # 3. обычная зачистка как в stop
+        killed = 0
+        for pid in find_queues(lang):
+            if taskkill(pid, tree=True):
+                killed += 1
+        time.sleep(2)
+        for pid in find_workers(lang):
+            if taskkill(pid, tree=True):
+                killed += 1
+        try:
+            os.remove(PAUSE_TMPL.format(lang))
+        except OSError:
+            pass
+        left = find_workers(lang) + find_queues(lang)
+        if left:
+            print('%s: осталось висеть: %s — добей вручную (taskkill)'
+                  % (lang.upper(), left))
+            rc = 1
+        else:
+            print('%s: мягко остановлено (убито %d)' % (lang.upper(), killed))
+    print('Готовые wav целы, рестарт продолжит (resumable).')
+    return rc
+
+
 def cmd_watch(args):
     try:
         interval = max(5, int(args.interval))
@@ -494,6 +596,9 @@ def main(argv=None):
     add_lang(s)
     s = sub.add_parser('stop', help='остановить очереди')
     add_lang(s)
+    s = sub.add_parser('soft-stop', help='доделать текущий файл и встать (CPU+RAM свободны)')
+    add_lang(s)
+    s.add_argument('--timeout', default=300, help='сек ждать текущий файл')
     s = sub.add_parser('pause', help='пауза (заморозка воркеров)')
     add_lang(s)
     s = sub.add_parser('resume', help='снять с паузы')
@@ -516,6 +621,8 @@ def main(argv=None):
             return cmd_start(args)
         if args.cmd == 'stop':
             return cmd_stop(args)
+        if args.cmd == 'soft-stop':
+            return cmd_softstop(args)
         if args.cmd == 'pause':
             return cmd_pause(args)
         if args.cmd == 'resume':

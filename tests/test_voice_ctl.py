@@ -52,6 +52,16 @@ def test_format_age():
     assert voice_ctl.format_age(259200) == '3 дн'
 
 
+def test_count_saved():
+    assert voice_ctl.count_saved('') == 0
+    text = ('[1/2] a Arc Who: текст\n'
+            '  saved out/a.wav (1.0s), eta ~1 мин\n'
+            '[2/2] b Arc Who: текст\n'
+            '  saved out/b.wav (2.0s), eta ~0 мин\n')
+    assert voice_ctl.count_saved(text) == 2
+    assert voice_ctl.count_saved('[1/2] a Arc Who: текст\n') == 0
+
+
 def test_main_no_args_runs_status(capsys):
     rc = voice_ctl.main([])
     assert rc == 0
