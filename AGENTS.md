@@ -99,7 +99,24 @@ tools/
                                #   (все арки, resumable, НИЗКИЙ приоритет
                                #   BelowNormal + OMP_NUM_THREADS=6 — не мешает
                                #   интерактиву; лог output/voice/gen_all_{lang}.log)
+                               #   СТАРТ ТОЛЬКО ЧЕРЕЗ ПУЛЬТ (voice_ctl/voice-start.cmd),
+                               #   голый запуск запрещён (теряется приоритет/детач)
+  voice_ctl.py                 # ПУЛЬТ очередями (Windows, только stdlib, системный python):
+                               #   status/start/stop/pause/resume/watch/logs [ru|en|all]
+                               #   (процессы ищет по cmdline voice_batch.py/voice_queue.sh;
+                               #   пауза = NtSuspendProcess, метка — output/voice/ctl_paused_{lang}.json)
+                               #   Двойной клик: voice-start/stop/pause/resume/status/watch.cmd
 ```
+
+### Ребут ПК: порядок запуска (двойной клик, без админа)
+
+1. `tools/start-ollama-vulkan.cmd` — Vulkan-сервер LLM (если нужен)
+2. `tools/voice-start.cmd` — обе очереди озвучки (resumable, низкий приоритет)
+
+Контроль: `tools/voice-status.cmd` (сводка), `tools/voice-watch.cmd` (живой
+мониторинг), пауза — `tools/voice-pause.cmd` (снять — `voice-resume.cmd`),
+остановка — `tools/voice-stop.cmd`. Агентам: статус смотреть пультом
+(`python tools/voice_ctl.py status`), не ручным подсчётом файлов.
 
 ## Инкапсуляция тулов (для агентов — ОБЯЗАТЕЛЬНО)
 
