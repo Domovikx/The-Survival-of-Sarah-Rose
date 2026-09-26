@@ -56,13 +56,13 @@ The voice pack is generated with **CosyVoice3** (voice cloning) and covers both 
 
 | Language | Voice files | Status |
 |---|---|---|
-| **Russian (RU)** | `ai_voice/ru/...` | **55.0%** (36 976 / 67 267) |
-| **English (EN)** | `ai_voice/en/...` | **57.1%** (38 395 / 67 267) |
+| **Russian (RU)** | `ai_voice/ru/...` | **59.7%** (40 188 / 67 267) |
+| **English (EN)** | `ai_voice/en/...` | **62.0%** (41 712 / 67 267) |
 
 Current stage: the whole game is being voiced in background (all 19 arcs × 2 languages,
-134 534 lines total, ~13.8 GB and growing — RU 7.08 GB + EN 6.68 GB). Generation runs at low CPU priority — it
+134 534 lines total, ~14.9 GB and growing — RU 7.64 GB + EN 7.21 GB). Generation runs at low CPU priority — it
 doesn't interfere with normal work. Already done: **Prologue, StoryBeginnings, Other,
-WarriorPath, MagePath, BlackMonolith** (RU and EN ✓); **UnionKingdom** is in progress (RU 38.9%, EN 66.3%).
+WarriorPath, MagePath, BlackMonolith, UnionKingdom** (RU and EN ✓); **HollowWorld** is in progress (RU 0.7%, EN 35.1%).
 
 - Voice lookup is automatic: `uid = md5(text)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.wav`
 - Every line has an emotion instruction (state of the narrator/speaker)
@@ -148,12 +148,12 @@ Open an issue or submit a pull request on GitHub.
 
 | Язык | Файлы | Статус |
 |---|---|---|
-| **Русский (RU)** | `ai_voice/ru/...` | **55.0%** (36 976 / 67 267) |
-| **Английский (EN)** | `ai_voice/en/...` | **57.1%** (38 395 / 67 267) |
+| **Русский (RU)** | `ai_voice/ru/...` | **59.7%** (40 188 / 67 267) |
+| **Английский (EN)** | `ai_voice/en/...` | **62.0%** (41 712 / 67 267) |
 
 Текущий этап: вся игра озвучивается в фоне (все 19 арок × 2 языка, 134 534 реплики,
-~13.8 ГБ и растёт — RU 7.08 ГБ + EN 6.68 ГБ). Генерация идёт с низким приоритетом — не мешает работе.
-Готово: **Prologue, StoryBeginnings, Other, WarriorPath, MagePath, BlackMonolith** (RU и EN ✓); в работе — **UnionKingdom** (RU 38.9%, EN 66.3%).
+~14.9 ГБ и растёт — RU 7.64 ГБ + EN 7.21 ГБ). Генерация идёт с низким приоритетом — не мешает работе.
+Готово: **Prologue, StoryBeginnings, Other, WarriorPath, MagePath, BlackMonolith, UnionKingdom** (RU и EN ✓); в работе — **HollowWorld** (RU 0.7%, EN 35.1%).
 
 - Поиск голоса автоматический: `uid = md5(текста)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.wav`
 - У каждой реплики есть эмоция — состояние диктора/рассказчика
