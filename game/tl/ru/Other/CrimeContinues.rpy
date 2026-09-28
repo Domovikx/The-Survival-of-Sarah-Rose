@@ -284,7 +284,7 @@ translate ru strings:
     new "И кто это «мы»?"
 
     old "The man peaked out a little further and only just now saw Sarah."
-    new "The man peaked out a little further and only just now saw Sarah."
+    new "Мужчина выглянул чуть дальше и только теперь заметил Сару."
 
     old "My new friend here, Sarah."
     new "Моя новая подруга, Сара."
@@ -497,10 +497,10 @@ translate ru strings:
     new "Аларик встряхнул мешочек с монетами — сумму их добычи."
 
     old "But what about-"
-    new "But what about-"
+    new "Но что насчёт—"
 
     old "Gods."
-    new "Gods."
+    new "Боги."
 
     old "Do you ever shut the fuck up?"
     new "Ты когда-нибудь заткнёшься, блядь?"
@@ -1127,7 +1127,7 @@ translate ru strings:
     new "Он решил: если другой мужик использует такие мудрёные слова, значит, это оскорбление."
 
     old "That's the kinda folk that live out here."
-    new "That's the kinda folk that live out here."
+    new "Вот такой народ здесь и живёт."
 
     old "And you can only out think your opponent, if they play by the same rules. And a moron won't respect any rules."
     new "И ты можешь переиграть противника, только если он играет по тем же правилам. А дебил не уважает никаких правил."
@@ -1535,7 +1535,7 @@ translate ru strings:
     new "Аларик зажёг спичку и поднёс пламя к кончику стебля."
 
     old "At first, nothing."
-    new "At first, nothing."
+    new "Сначала — ничего."
 
     old "Then, slowly, the fire caught the stem and it began to smoke."
     new "Затем медленно огонь охватил стебель, и тот начал дымить."
@@ -2090,7 +2090,7 @@ translate ru strings:
     new "Сара чувствовала, как всё её тело дрожит, хотя не была уверена — то ли от страха, то ли от отсутствия снотворца."
 
     old "What..."
-    new "What..."
+    new "Что..."
 
     old "What if we..."
     new "А что, если мы..."
@@ -2546,7 +2546,7 @@ translate ru strings:
     new "Она слышала, как Хью засмеялся."
 
     old "Stupid bitch."
-    new "Stupid bitch."
+    new "Тупая сука."
 
     old "But the insult rang hollow in her mind."
     new "Но оскорбление прозвучало в её сознании пустым звоном."

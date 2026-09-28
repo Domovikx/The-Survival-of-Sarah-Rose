@@ -25,16 +25,16 @@ translate ru strings:
     new "Русский"
 
     old "About"
-    new "О игре"
+    new "Об игре"
 
     old "Accesses the game menu."
     new "Открывает меню игры."
 
     old "Advances dialogue and activates the interface."
-    new "Продвигает диалог и активирует интерфейс."
+    new "Продолжает диалог и активирует интерфейс."
 
     old "Advances dialogue without selecting choices."
-    new "Продвигает диалог без выбора."
+    new "Продолжает диалог без выбора вариантов."
 
     old "After Choices"
     new "После выбора"
@@ -190,10 +190,10 @@ translate ru strings:
     new "Уведомления"
 
     old "Page Down"
-    new "Вперёд"
+    new "Page Down"
 
     old "Page Up"
-    new "Назад"
+    new "Page Up"
 
     old "Prefs"
     new "Настройки"
@@ -262,7 +262,7 @@ translate ru strings:
     new "Начать"
 
     old "Start, Guide"
-    new "Start, Гайд"
+    new "Start, Guide"
 
     old "Tab"
     new "Tab"

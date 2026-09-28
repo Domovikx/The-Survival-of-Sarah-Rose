@@ -107,7 +107,7 @@ translate ru strings:
     new "Кейт пожала плечами."
 
     old "Well, you can't put that on me, Sarah. I'm drunk, what's your excuse?"
-    new "Ну, не ставь это мне в вину, Сара. Я пьяна, а какое оправдание у тебя?"
+    new "Ну, не вали это на меня, Сара. Я пьяна, а у тебя какое оправдание?"
 
     old "I didn't know I needed one, in my castle. In my own bedroom."
     new "Я не знала, что мне нужно оправдание в моём замке. В моей собственной спальне."
@@ -242,7 +242,7 @@ translate ru strings:
     new "Кейт небрежно провела руками по своей груди, пальцы закружились вокруг сосков. Играя с ними."
 
     old "Oops, now we're uneven again."
-    new "Упс, теперь снова неравенство."
+    new "Упс, теперь счёт снова неравный."
 
     old "images/CGs/Sex scenes/Sarah x Kate/Sarah x Kate 1/cg sarahxkate1.png"
     new "images/CGs/Sex scenes/Sarah x Kate/Sarah x Kate 1/cg sarahxkate1.png"
@@ -278,7 +278,7 @@ translate ru strings:
     new "Кейт откинула одеяло и теперь сидела полностью обнажённой верхом на Саре."
 
     old "Sarah couldn't help but be curious about Kate's body, she had never seen another woman's body quite like her own. Certainly never in a situation like this."
-    new "Сара не могла не залюбопытствовать — она никогда не видела тело другой женщины так, как своё собственное. И уж точно никогда в такой ситуации."
+    new "Сара не могла сдержать любопытства к телу Кейт — она никогда не видела тело другой женщины так близко, как своё собственное. И уж точно никогда в такой ситуации."
 
     old "Her eyes drifted down to between Kate's legs."
     new "Её взгляд скользнул вниз, между ног Кейт."
@@ -458,7 +458,7 @@ translate ru strings:
     new "Ты пьяна. Иди к себе."
 
     old "Sarah snapped at Kate."
-    new "Сара рявкнула на Кейт."
+    new "Сара огрызнулась на Кейт."
 
     old "You're drunk, go back to your room."
     new "Ты пьяна, иди к себе."
