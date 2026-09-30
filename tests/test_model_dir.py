@@ -80,6 +80,24 @@ def test_heal_empty_yaml(base_dir):
     assert 'top_p: 0.8' in text
 
 
+def test_repeat_call_skips_write(base_dir, monkeypatch):
+    """Повторный вызов с теми же параметрами не пишет yaml заново
+    (защита от гонки параллельных воркеров за общий tuned-дир)."""
+    dst = model_dir.make_tuned_model_dir(0.8, 25.0, 0.1, cfg_rate=0.7)
+    calls = []
+    orig = model_dir._atomic_write
+
+    def counting(path, text, *a, **k):
+        calls.append(path)
+        return orig(path, text, *a, **k)
+
+    monkeypatch.setattr(model_dir, '_atomic_write', counting)
+    dst2 = model_dir.make_tuned_model_dir(0.8, 25.0, 0.1, cfg_rate=0.7)
+    assert dst2 == dst
+    assert calls == []
+    assert [n for n in os.listdir(dst) if n.endswith('.tmp')] == []
+
+
 def test_atomic_no_tmp_leftovers(base_dir):
     dst = model_dir.make_tuned_model_dir(0.8, 25.0, 0.1, cfg_rate=0.7)
     leftovers = [n for n in os.listdir(dst) if n.endswith('.tmp')]

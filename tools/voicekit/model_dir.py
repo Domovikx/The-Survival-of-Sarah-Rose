@@ -16,6 +16,7 @@ import os
 import re
 import shutil
 import tempfile
+import time
 
 from voicekit import tts_env
 
@@ -54,9 +55,17 @@ def tuned_model_dir(top_p=None, top_k=None, tau_r=None, rl=False,
 
 def link_tree(src, dst):
     """Hardlink-копия модель-дира; cosyvoice3.yaml — отдельная копия
-    (правка сэмплинга в варианте не течёт в базовую модель)."""
-    if not os.path.exists(dst):
-        os.makedirs(dst)
+    (правка сэмплинга в варианте не течёт в базовую модель).
+
+    Терпим к конкурентному созданию: два воркера (RU+EN), стартовавшие
+    одновременно, строят один tuned-дир — повторный makedirs/link
+    игнорируется, а не падает (грабли 2026-09-30: PermissionError/
+    FileExistsError при параллельном старте очередей)."""
+    try:
+        os.makedirs(dst, exist_ok=True)
+    except OSError:
+        if not os.path.isdir(dst):
+            raise
     for name in os.listdir(src):
         s = os.path.join(src, name)
         d = os.path.join(dst, name)
@@ -64,9 +73,15 @@ def link_tree(src, dst):
             if os.path.exists(d):
                 continue
             if name == YAML_NAME:
-                shutil.copy2(s, d)
+                try:
+                    shutil.copy2(s, d)
+                except FileExistsError:
+                    pass
             else:
-                os.link(s, d)
+                try:
+                    os.link(s, d)
+                except FileExistsError:
+                    pass
         elif os.path.isdir(s):
             link_tree(s, d)
 
@@ -101,15 +116,27 @@ def _rewrite_sampling(text, top_p=None, top_k=None, tau_r=None, cfg_rate=None):
     return text
 
 
-def _atomic_write(path, text):
-    """Запись через temp-файл в той же директории + os.replace (атомарно)."""
+def _atomic_write(path, text, retries=5):
+    """Запись через temp-файл в той же директории + os.replace (атомарно).
+
+    retries: повторы при PermissionError — на Windows второй воркер
+    (параллельный voice_batch другой арки/языка) может держать yaml
+    открытым на чтение в момент replace; ждём и пробуем снова
+    (грабли 2026-09-30: WinError 5 при одновременном старте RU+EN)."""
     d = os.path.dirname(path)
     fd, tmp = tempfile.mkstemp(prefix='.' + os.path.basename(path) + '.',
                                suffix='.tmp', dir=d)
     try:
         with os.fdopen(fd, 'w', encoding='utf-8') as f:
             f.write(text)
-        os.replace(tmp, path)
+        for attempt in range(retries):
+            try:
+                os.replace(tmp, path)
+                return
+            except PermissionError:
+                if attempt + 1 >= retries:
+                    raise
+                time.sleep(0.5 * (attempt + 1))
     except BaseException:
         try:
             os.unlink(tmp)
@@ -149,8 +176,13 @@ def make_tuned_model_dir(top_p=None, top_k=None, tau_r=None, rl=False,
     if not _heal_yaml(yaml_path, base, top_p, top_k, tau_r, cfg_rate):
         with open(yaml_path, encoding='utf-8') as f:
             text = f.read()
-        text = _rewrite_sampling(text, top_p, top_k, tau_r, cfg_rate)
-        _atomic_write(yaml_path, text)
+        new = _rewrite_sampling(text, top_p, top_k, tau_r, cfg_rate)
+        # Текст уже нужный — не пишем: каждый запуск voice_batch иначе
+        # переписывает общий tuned-yaml, провоцируя гонку с параллельным
+        # воркером (см. _atomic_write). Пропуск делает повторные вызовы
+        # read-only (идемпотентность без записи).
+        if new != text:
+            _atomic_write(yaml_path, new)
     if rl:
         llm_pt = os.path.join(dst, 'llm.pt')
         rl_pt = os.path.join(dst, 'llm.rl.pt')
