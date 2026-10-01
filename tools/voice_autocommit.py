@@ -23,11 +23,14 @@
 
 import argparse
 import os
+import re
 import subprocess
 import sys
 import time
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+_OCT_RE = re.compile(r'[0-7]{1,3}')
 
 
 def run_git(args, input_text=None):
@@ -41,14 +44,66 @@ def run_git(args, input_text=None):
     return p.stdout.decode('utf-8', errors='replace')
 
 
-def untracked_voice_files():
-    """Отсортированный список untracked-путей внутри ai_voice/."""
-    out = run_git(['status', '--porcelain', '--', 'ai_voice/'])
+def _unquote(path):
+    """Снять git-кавычки porcelain (C-стиль: внешняя обёртка + эскейпы).
+
+    Нужна, т.к. porcelain квотит пути с пробелами ('Captain Belmont')
+    даже при core.quotePath=false. Восьмеричные эскейпы собираются
+    в байты и декодятся как UTF-8 (имена с не-ASCII)."""
+    if not (len(path) >= 2 and path.startswith('"')
+            and path.endswith('"')):
+        return path
+    inner = path[1:-1]
+    buf = bytearray()
+    i = 0
+    while i < len(inner):
+        c = inner[i]
+        if c == '\\' and i + 1 < len(inner):
+            n = inner[i + 1]
+            if n == 'n':
+                buf.append(0x0A)
+                i += 2
+                continue
+            if n == 't':
+                buf.append(0x09)
+                i += 2
+                continue
+            if n in '"\\':
+                buf.extend(n.encode('ascii'))
+                i += 2
+                continue
+            m = _OCT_RE.match(inner, i + 1)
+            if m:
+                buf.append(int(m.group(0), 8))
+                i += 1 + len(m.group(0))
+                continue
+        buf.extend(c.encode('utf-8'))
+        i += 1
+    return buf.decode('utf-8')
+
+
+def parse_porcelain(out):
+    """Строки '?? <path>' -> отсортированный список путей (без кавычек)."""
     files = []
     for line in out.splitlines():
         if line.startswith('??'):
-            files.append(line[3:].strip())
+            files.append(_unquote(line[3:].strip()))
     return sorted(files)
+
+
+def untracked_voice_files():
+    """Отсортированный список untracked-путей внутри ai_voice/.
+
+    --untracked-files=all: каждый файл отдельной строкой (иначе
+    целиком новые папки схлопываются в одну запись 'dir/' и сотни
+    файлов выпадают из подсчёта пачки — грабли 2026-10-01: RU SailorPath
+    на 393 файла был одной строкой).
+    -c core.quotePath=false: пути как есть, без C-кавычек (иначе имена
+    с пробелами — 'Captain Belmont' — приходили в кавычках и не
+    находились на диске при проверке settled())."""
+    out = run_git(['-c', 'core.quotePath=false', 'status', '--porcelain',
+                   '--untracked-files=all', '--', 'ai_voice/'])
+    return parse_porcelain(out)
 
 
 def settled(files, min_age):
