@@ -56,14 +56,14 @@ The voice pack is generated with **CosyVoice3** (voice cloning) and covers both 
 
 | Language | Voice files | Status |
 |---|---|---|
-| **Russian (RU)** | `ai_voice/ru/...` | **63.9%** (43 014 / 67 267) |
-| **English (EN)** | `ai_voice/en/...` | **66.4%** (44 644 / 67 267) |
+| **Russian (RU)** | `ai_voice/ru/...` | **68.5%** (46 046 / 67 267) |
+| **English (EN)** | `ai_voice/en/...` | **71.0%** (47 755 / 67 267) |
 
 Current stage: the whole game is being voiced in background (all 19 arcs × 2 languages,
-134 534 lines total, ~15.9 GB and growing — RU 8.18 GB + EN 7.73 GB). Generation runs at low CPU priority — it
+134 534 lines total, ~17.5 GB and growing — RU 9.0 GB + EN 8.5 GB). Generation runs at low CPU priority — it
 doesn't interfere with normal work. Already done: **Prologue, StoryBeginnings, Other,
-WarriorPath, MagePath, BlackMonolith, UnionKingdom** (RU and EN ✓) plus **HollowWorld** (EN ✓);
-in progress — **HollowWorld** (RU 64.4%) and **SailorPath** (EN 1.3%).
+WarriorPath, MagePath, BlackMonolith, UnionKingdom, HollowWorld** (RU and EN ✓);
+in progress — **SailorPath** (RU 37.6%, EN 82.1%).
 
 - Voice lookup is automatic: `uid = md5(text)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.wav`
 - Every line has an emotion instruction (state of the narrator/speaker)
@@ -149,13 +149,13 @@ Open an issue or submit a pull request on GitHub.
 
 | Язык | Файлы | Статус |
 |---|---|---|
-| **Русский (RU)** | `ai_voice/ru/...` | **63.9%** (43 014 / 67 267) |
-| **Английский (EN)** | `ai_voice/en/...` | **66.4%** (44 644 / 67 267) |
+| **Русский (RU)** | `ai_voice/ru/...` | **68.5%** (46 046 / 67 267) |
+| **Английский (EN)** | `ai_voice/en/...` | **71.0%** (47 755 / 67 267) |
 
 Текущий этап: вся игра озвучивается в фоне (все 19 арок × 2 языка, 134 534 реплики,
-~15.9 ГБ и растёт — RU 8.18 ГБ + EN 7.73 ГБ). Генерация идёт с низким приоритетом — не мешает работе.
-Готово: **Prologue, StoryBeginnings, Other, WarriorPath, MagePath, BlackMonolith, UnionKingdom** (RU и EN ✓) плюс **HollowWorld** (EN ✓);
-в работе — **HollowWorld** (RU 64.4%) и **SailorPath** (EN 1.3%).
+~17.5 ГБ и растёт — RU 9.0 ГБ + EN 8.5 ГБ). Генерация идёт с низким приоритетом — не мешает работе.
+Готово: **Prologue, StoryBeginnings, Other, WarriorPath, MagePath, BlackMonolith, UnionKingdom, HollowWorld** (RU и EN ✓);
+в работе — **SailorPath** (RU 37.6%, EN 82.1%).
 
 - Поиск голоса автоматический: `uid = md5(текста)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.wav`
 - У каждой реплики есть эмоция — состояние диктора/рассказчика
