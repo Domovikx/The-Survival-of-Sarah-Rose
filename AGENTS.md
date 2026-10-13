@@ -18,7 +18,9 @@
 ```
 ai_voice/                       # КОРЕНЬ ПРОЕКТА, рядом с game/ (не внутри!)
   ru/{Arc}/{uid}__{variant}.wav  # русская озвучка с постфиксом рефа
+  ru/{Arc}/{uid}__{variant}.opus # + opus 24k mono (стандарт; wav = фолбэк)
   en/{Arc}/{uid}__{variant}.wav  # английская озвучка с постфиксом рефа
+  en/{Arc}/{uid}__{variant}.opus # + opus 24k mono (стандарт; wav = фолбэк)
 game/
   catalog/
     label_arc.json              # label -> Arc (рантайм-мапа, грузится конфигом)
@@ -29,7 +31,9 @@ game/
 **Поиск в игре:** `voice_config.rpy` читает `catalog/voice_list.json`
 (генерится из кастов: озвучен = есть реф `{Name}.wav`; variant = имя
 персонажа). Кто говорит → `_last_say_who.name` → variant из voice_list.json,
-затем фолбэк glob `{uid}*.wav` (первый совпавший по алфавиту).
+затем фолбэк glob `{uid}*.opus`, `{uid}*.wav` (первый совпавший по алфавиту).
+**Формат: opus приоритетен, wav — фолбэк** (2026-10-13, проверено в игре 7.4.11;
+конвертация: convert_all_opus.py, авто-конверт новых wav: voice_batch.py).
 
 `ai_voice/` лежит ВНЕ game/, поэтому voice_config.rpy добавляет корень
 проекта в `config.searchpath` — без этого Ren'Py ищет файлы только в game/.
@@ -106,6 +110,12 @@ tools/
                                #   (процессы ищет по cmdline voice_batch.py/voice_queue.sh;
                                #   пауза = NtSuspendProcess, метка — output/voice/ctl_paused_{lang}.json)
                                #   Двойной клик: voice-start/stop/pause/resume/status/watch.cmd
+  convert_all_opus.py          # ПОЛНАЯ КОНВЕРТАЦИЯ wav -> opus 24k (резумабельная,
+                               #   маркеры pause/stop, атомарная .part-запись)
+  convert_opus_ctl.py          # ПУЛЬТ конвертером: start/pause/resume/stop/status
+                               #   Двойной клик: convert-opus-start/pause/resume/stop/status.cmd
+                               #   Ночная цепочка: convert-opus-night.cmd (TSSR-ConvertOpus 23:00:
+                               #   докрутка -> voice_ctl start all)
 ```
 
 ### Ребут ПК: порядок запуска (двойной клик, без админа)
@@ -463,5 +473,7 @@ CPU-режим (по умолчанию) — не затронут. `voice_batch
 ## Открытые вопросы
 
 - EN-рефы голосов (в игре озвучки нет) — источники
-- Формат аудио: WAV (~16 ГБ/язык) vs OGG в игре (тест в пилоте)
+- ~~Формат аудио: WAV vs OGG~~ → **РЕШЕНО 2026-10-13: Opus 24k mono** (вердикт ресёрча,
+  проверено в игре; см. tasks/2026-10-12-audio-compression-research.md и
+  tasks/2026-10-13-opus-migration.md)
 - Fallback при отсутствии RU-файла: играть EN или молчать

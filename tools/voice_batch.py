@@ -7,6 +7,7 @@
 
 ВЫХОД:
   ai_voice/{lang}/{arc}/{uid}__{variant}.wav   (resumable: существующие скипаются)
+  + сразу рядом {uid}__{variant}.opus 24k mono (fail-soft: нет opus = wav-фолбэк)
   Каждый файл выравнивается levelnorm.py: loudnorm -16 LUFS / TP -1.5
 
 КОНФИГ (официальные параметры FunAudioLLM, 2026-09-03):
@@ -225,6 +226,35 @@ def write_manifest(p, args):
         log('  !! manifest fail: {}'.format(e))
 
 
+def wav_to_opus(wav_path):
+    """Атомарная конвертация свежего wav -> opus 24k mono (рядом).
+
+    Вызывается после levelnorm: wav финальный. Fail-soft: при ошибке ffmpeg
+    возвращает False, wav остаётся — игра возьмёт его фолбэком (voice_config.rpy
+    ищет opus -> wav). .part защищает от битого opus при обрыве.
+    """
+    import subprocess
+    opus = os.path.splitext(wav_path)[0] + '.opus'
+    part = opus + '.part'
+    try:
+        r = subprocess.run(
+            ['ffmpeg', '-y', '-loglevel', 'error', '-i', wav_path,
+             '-c:a', 'libopus', '-b:a', '24k', '-ac', '1', '-f', 'opus', part],
+            capture_output=True, timeout=120)
+        if r.returncode == 0 and os.path.exists(part) and os.path.getsize(part) > 0:
+            os.replace(part, opus)
+            return True
+        if os.path.exists(part):
+            os.remove(part)
+    except Exception:
+        if os.path.exists(part):
+            try:
+                os.remove(part)
+            except OSError:
+                pass
+    return False
+
+
 def gen_one(cosyvoice, text, ref, seed, emotion=None):
     """Одна фраза: реф + текст -> тензор речи.
 
@@ -354,6 +384,8 @@ def main():
                 normalize_file(p['out'])
             except Exception:
                 pass
+            if not wav_to_opus(p['out']):
+                log('  WARN: opus-конверт не удался, wav остаётся фолбэком')
             trim_info = ''
             if cuts:
                 trim_info = ' | trim: ' + ', '.join(

@@ -72,3 +72,5 @@ __pycache__/
 *tasks*
 *tmp*
 *playwright-cli*
+# Атомарная запись конвертера/пайплайна: ffmpeg пишет .part, потом rename
+*.part
