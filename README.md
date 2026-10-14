@@ -53,21 +53,22 @@ Full Russian fan translation + AI voice acting for the visual novel **The Surviv
 ## Voice pack
 
 The voice pack is generated with **CosyVoice3** (voice cloning) and covers both languages.
-Lines are stored as **Opus 24 kbps mono** — ~7× smaller than WAV at the same quality:
+Lines are stored as **Opus 24 kbps mono** — ~16× smaller than the intermediate WAV
+(24 kHz/16-bit mono, 384 kbps; measured: 20 914 MB of WAV → 1 307 MB of Opus):
 
 | Language | Voice files | Status |
 |---|---|---|
-| **Russian (RU)** | `ai_voice/ru/...` | **90.3%** (60 727 / 67 267) |
-| **English (EN)** | `ai_voice/en/...` | **93.6%** (62 972 / 67 267) |
+| **Russian (RU)** | `ai_voice/ru/...` | **91.0%** (61 203 / 67 267) |
+| **English (EN)** | `ai_voice/en/...` | **94.4%** (63 528 / 67 267) |
 
-Current stage: the whole game is being voiced in background (all 19 arcs × 2 languages,
-134 534 lines total — the whole pack is only ~1.4 GB thanks to Opus). Generation runs at
-low CPU priority — it doesn't interfere with normal work. Fully voiced (RU + EN):
+Current stage (2026-10-14): the whole game is being voiced in background (all 19 arcs × 2
+languages, 134 534 lines total — the whole pack is only ~2 GB thanks to Opus). Generation
+runs at low CPU priority — it doesn't interfere with normal work. Fully voiced (RU + EN):
 **Prologue, StoryBeginnings, Other, WarriorPath, MagePath, BlackMonolith, UnionKingdom,
 HollowWorld, SailorPath, SailorArc, LifeInRahayal, AlfredArc, HassarPath**; EN also
-complete — **Training, VargaMarionPath**; in progress — **VargaMarionPath** (RU 69%),
-**PrisonArc** (EN 11%); queued — **Training, PrisonArc** (RU) and **WarArc, DemonArc,
-HyralArc** (both languages).
+complete — **Training, VargaMarionPath**; in progress — **VargaMarionPath** (RU 96%),
+**PrisonArc** (EN 48%); queued — **Training, PrisonArc, WarArc, DemonArc, HyralArc**
+(RU) and **WarArc, DemonArc, HyralArc** (EN).
 
 - Voice lookup is automatic: `uid = md5(text)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.opus`
   (`.wav` remains a code-level fallback, but since 2026-10-14 the pack is
@@ -75,7 +76,7 @@ HyralArc** (both languages).
 - Every line has an emotion instruction (state of the narrator/speaker)
 - Fallback: if a file is missing, the game plays silently (no crashes)
 
-> ⚠ The voice pack is ~1.4 GB (Opus 24 kbps). Check disk space.
+> ⚠ The voice pack is ~2 GB (Opus 24 kbps). Check disk space.
 
 ## Contents
 
@@ -152,20 +153,23 @@ Open an issue or submit a pull request on GitHub.
 ## Озвучка
 
 Озвучка создана на **CosyVoice3** (клонирование голоса) и покрывает оба языка.
-Реплики хранятся в формате **Opus 24 кбит/с моно** — примерно в 7 раз меньше WAV того же качества:
+Реплики хранятся в формате **Opus 24 кбит/с моно** — примерно в 16 раз меньше
+промежуточного WAV (24 кГц/16 бит моно, 384 кбит/с; замер: 20 914 МБ WAV →
+1 307 МБ Opus):
 
 | Язык | Файлы | Статус |
 |---|---|---|
-| **Русский (RU)** | `ai_voice/ru/...` | **90.3%** (60 727 / 67 267) |
-| **Английский (EN)** | `ai_voice/en/...` | **93.6%** (62 972 / 67 267) |
+| **Русский (RU)** | `ai_voice/ru/...` | **91.0%** (61 203 / 67 267) |
+| **Английский (EN)** | `ai_voice/en/...` | **94.4%** (63 528 / 67 267) |
 
-Текущий этап: вся игра озвучивается в фоне (все 19 арок × 2 языка, 134 534 реплики —
-весь пак всего ~1.4 ГБ благодаря Opus). Генерация идёт с низким приоритетом — не мешает работе.
-Полностью озвучено (RU + EN): **Prologue, StoryBeginnings, Other, WarriorPath, MagePath,
-BlackMonolith, UnionKingdom, HollowWorld, SailorPath, SailorArc, LifeInRahayal, AlfredArc,
-HassarPath**; EN также готова — **Training, VargaMarionPath**; в работе — **VargaMarionPath**
-(RU 69%), **PrisonArc** (EN 11%); в очереди — **Training, PrisonArc** (RU) и **WarArc,
-DemonArc, HyralArc** (оба языка).
+Текущий этап (14.10.2026): вся игра озвучивается в фоне (все 19 арок × 2 языка,
+134 534 реплики — весь пак всего ~2 ГБ благодаря Opus). Генерация идёт с низким
+приоритетом — не мешает работе. Полностью озвучено (RU + EN): **Prologue,
+StoryBeginnings, Other, WarriorPath, MagePath, BlackMonolith, UnionKingdom,
+HollowWorld, SailorPath, SailorArc, LifeInRahayal, AlfredArc, HassarPath**; EN также
+готова — **Training, VargaMarionPath**; в работе — **VargaMarionPath** (RU 96%),
+**PrisonArc** (EN 48%); в очереди — **Training, PrisonArc, WarArc, DemonArc,
+HyralArc** (RU) и **WarArc, DemonArc, HyralArc** (EN).
 
 - Поиск голоса автоматический: `uid = md5(текста)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.opus`
   (`.wav` играет как фолбэк в коде, но с 2026-10-14 пак только Opus —
@@ -173,7 +177,7 @@ DemonArc, HyralArc** (оба языка).
 - У каждой реплики есть эмоция — состояние диктора/рассказчика
 - Если файла нет — игра просто играет без звука (без ошибок)
 
-> ⚠ Озвучка — ~1.4 ГБ (Opus 24 кбит/с). Следи за местом на диске.
+> ⚠ Озвучка — ~2 ГБ (Opus 24 кбит/с). Следи за местом на диске.
 
 ## Содержание
 

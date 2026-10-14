@@ -1,20 +1,24 @@
 #!/usr/bin/env python
-"""Выравнивание уровня сгенерированных реплик (ai_voice) до -16 LUFS.
+"""Выравнивание уровня реплик до -16 LUFS (рефы и легаси-wav).
 
 Зачем: CV3 гуляет по уровню (реплики -14...-18 LUFS, встречается TP до
-+0.2 dB = клиппинг). Выравниваем КАЖДЫЙ файл после генерации тем же
-стандартом, что и рефы: EBU R128, -16 LUFS, TP -1.5 (loudnorm, dynamic —
-на коротких фразах сходится вплотную и сам держит TP).
++0.2 dB = клиппинг). Выравниваем КАЖДЫЙ файл тем же стандартом, что и рефы:
+EBU R128, -16 LUFS, TP -1.5 (loudnorm, dynamic — на коротких фразах
+сходится вплотную и сам держит TP).
+
+С 2026-10-14 в ai_voice только opus (wav удалены) — этот CLI работает по
+*.wav в рефах/легаси. В генерации озвучки отдельного шага levelnorm НЕТ:
+те же LOUD_ARGS применяются внутри одного ffmpeg-прохода, который пишет
+opus (voice_batch.tensor_to_opus), а normalize_file() зовётся только в
+старой цепочке (--keep-wav / wav-фолбэк).
 
 Использование:
-  # существующие файлы (все файлы папки, in-place):
-  python tools/levelnorm.py --dir ai_voice/ru
+  # существующие wav-файлы (все файлы папки, in-place):
+  python tools/levelnorm.py --dir voice_candidates
   # один файл:
-  python tools/levelnorm.py --file ai_voice/ru/AlfredArc/x.wav
+  python tools/levelnorm.py --file voice_candidates/Alfred/Alfred.wav
   # отчёт без правки:
-  python tools/levelnorm.py --dir ai_voice/ru --dry-run
-
-ВЫЗЫВАЕТСЯ АВТОМАТИЧЕСКИ голос_батчем (voice_batch.py) после сохранения.
+  python tools/levelnorm.py --dir voice_candidates --dry-run
 """
 
 import argparse

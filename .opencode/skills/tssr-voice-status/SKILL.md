@@ -18,7 +18,7 @@ description: Статус и прогноз генерации озвучки TS
 
 ```bash
 python tools/voice_status.py                    # полный отчёт + замер (~70 с)
-python tools/voice_status.py --fast             # мгновенно, без замера
+python tools/voice_status.py --fast             # быстро (~6 с после оптимизации 2026-10-14), без замера
 python tools/voice_status.py --arc Other        # точечно: по конкретной арке
                                                 #   (RU/EN, по голосам, размер)
 python tools/voice_status.py --char Sarah       # точечно: по персонажу

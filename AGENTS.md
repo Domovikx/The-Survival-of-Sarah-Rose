@@ -100,7 +100,9 @@ tools/
   trim_tail_burst.py           # паттерн-трим хвостовых артефактов (импортится батчем)
   voice_manage.py              # list/status/select (select: {Имя}_{v}.wav -> {Имя}.wav +
                                #   voice_list.json)
-  levelnorm.py                 # выравнивание реплик: -16 LUFS / TP -1.5
+  levelnorm.py                 # выравнивание: -16 LUFS / TP -1.5 (CLI по *.wav —
+                               #   только рефы/легаси; в генерации его LOUD_ARGS
+                               #   применяются внутри опус-прохода voice_batch)
   voice_preview.py             # 3 самых длинных фразы × каждый реф -> ревью-таблица
   emotion_tag.py               # разметка эмоций: catalog/emotions.json
                                #   (эвристика по тексту или --llm-url локальная LLM)
@@ -123,10 +125,11 @@ tools/
                                #   рефов/истории) — ПОЛНАЯ КОНВЕРТАЦИЯ wav -> opus
                                #   24k (резумабельная, маркеры pause/stop,
                                #   атомарная .part-запись)
-  convert_opus_ctl.py          # ПУЛЬТ конвертером: start/pause/resume/stop/status
+  convert_opus_ctl.py          # УСТАРЕЛ (см. convert_all_opus) — ПУЛЬТ конвертером:
+                               #   start/pause/resume/stop/status
                                #   Двойной клик: convert-opus-start/pause/resume/stop/status.cmd
                                #   Ночная цепочка: convert-opus-night.cmd (TSSR-ConvertOpus 23:00:
-                               #   докрутка -> voice_ctl start all)
+                               #   докрутка -> voice_ctl start all; на пустом wav выходит 0)
 ```
 
 ### Ребут ПК: порядок запуска (двойной клик, без админа)

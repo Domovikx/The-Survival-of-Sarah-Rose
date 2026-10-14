@@ -34,8 +34,9 @@ def count_done(lang):
     """{арка: число готовых реплик} + всего.
 
     Готово = есть .opus ИЛИ .wav для одного stem ({uid}__{variant});
-    пара wav+opus считается ОДИН раз (корпус сейчас смешанный: легаси-wav
-    лежат рядом с opus, новые файлы — только opus).
+    пара wav+opus считается ОДИН раз. Корпус сейчас только opus
+    (легаси-wav удалены 2026-10-14), но ветка .wav сохранена на случай
+    возврата/подмешивания — тогда двойного счёта не будет.
     """
     base = os.path.join(paths.AI_VOICE_DIR, lang)
     made = defaultdict(int)
@@ -150,7 +151,7 @@ def python_workers():
 
 
 def arc_size(lang, arc):
-    """Дископотребление арки: и wav (легаси), и opus — что реально лежит."""
+    """Дископотребление арки: opus (а .wav — на случай, если вернутся)."""
     p = os.path.join(paths.AI_VOICE_DIR, lang, arc)
     if not os.path.isdir(p):
         return 0
