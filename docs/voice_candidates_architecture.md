@@ -39,7 +39,7 @@ voice_candidates/{Name}/
         │  config/voices.yaml:
         │    ref: voice_candidates/Alaric/ref/Alaric.wav
         ▼
- voice_batch --char Alaric → ai_voice/ru/{arc}/{uid}__Alaric.wav
+ voice_batch --char Alaric → ai_voice/ru/{arc}/{uid}__Alaric.opus
 ```
 
 ## Роли папок

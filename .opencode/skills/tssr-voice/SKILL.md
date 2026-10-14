@@ -19,9 +19,10 @@ Fun-CosyVoice3-0.5B (voice clone). Архитектура, решения и т�
 ```
 ai_voice/                          # КОРЕНЬ ПРОЕКТА (рядом с game/), не внутри game/
   ru/{Arc}/{uid}__{variant}.opus    # русская озвучка, постфикс = имя рефа (СТАНДАРТ)
-  ru/{Arc}/{uid}__{variant}.wav     # ЛЕГАСИ (до финальной миграции)
   en/{Arc}/{uid}__{variant}.opus    # английская озвучка (текст = old)
-  en/{Arc}/{uid}__{variant}.wav     # ЛЕГАСИ (до финальной миграции)
+                                    #   wav в ai_voice НЕТ (удалены 2026-10-14,
+                                    #   финальная миграция) — только opus;
+                                    #   wav остаются в voice_candidates (рефы)
 game/
   catalog/label_arc.json     # label -> Arc (грузится voice_config.rpy)
   voice_config.rpy           # config.auto_voice = static_auto_voice (callable)
@@ -33,7 +34,8 @@ Arc в рантайме = label-часть translation ID (`OpeningScene_92a05bc
 
 **Поиск в игре:** приоритет `{uid}__{активный вариант}.opus` (кто говорит →
 `_last_say_who.name` → `catalog/voice_list.json` → вариант = имя персонажа),
-затем фолбэк glob `{uid}*.opus` → `{uid}*.wav` (первый по алфавиту). Сменил
+затем фолбэк glob `{uid}*.opus` → `{uid}*.wav` (первый по алфавиту; wav-файлов
+в ai_voice нет — фолбэк-ветка остаётся в коде, но пуста). Сменил
 `ref:` в yaml → `voice_manage.py select` (он сам перегенерит
 `catalog/voice_list.json`) → в игре зазвучал новый вариант. Файлы разных
 вариантов живут рядом, проигравшие просто теряют приоритет.
@@ -66,7 +68,7 @@ voice_candidates/{Имя}/  # источники: *.mp3 (НЕ qwen_*.mp3)
 | `clean_refs.py` | чистка рефа: highpass+afftdn+deesser+highshelf → loudnorm → фейды |
 | `voice_batch.py` | батч-генерация в ai_voice/{lang}/{arc}/{uid}__{variant}.opus (СРАЗУ opus, wav не пишется; `--keep-wav` = старая цепочка, `--ref` перезаписывает реф из yaml) |
 | `catalog.gen_voice_list_json` | касты (who_codes) → catalog/voice_list.json (рантайм-мапа; зовётся select'ом/add_candidate/report) |
-| `levelnorm.py` | выравнивание уровня реплик -16 LUFS / TP -1.5 (loudnorm dynamic; в генерации — внутри того же ffmpeg-прохода, что пишет opus; CLI `--dir ai_voice/ru` — только для легаси-wav) |
+| `levelnorm.py` | выравнивание уровня реплик -16 LUFS / TP -1.5 (loudnorm dynamic; в генерации — внутри того же ffmpeg-прохода, что пишет opus; CLI `--dir` для wav — только рефы/легаси, в ai_voice wav больше нет) |
 | `voice_preview.py` | 3 самых длинных фразы × каждый вариант → ревью-таблица output/voice/preview_review.md |
 | `trim_tail_burst.py` | паттерн-трим хвостов (импортится батчем) |
 

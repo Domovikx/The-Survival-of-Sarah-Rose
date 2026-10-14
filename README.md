@@ -70,7 +70,8 @@ complete — **Training, VargaMarionPath**; in progress — **VargaMarionPath** 
 HyralArc** (both languages).
 
 - Voice lookup is automatic: `uid = md5(text)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.opus`
-  (`.wav` plays as fallback if the Opus file is missing)
+  (`.wav` remains a code-level fallback, but since 2026-10-14 the pack is
+  Opus-only — no `.wav` files ship in `ai_voice/`)
 - Every line has an emotion instruction (state of the narrator/speaker)
 - Fallback: if a file is missing, the game plays silently (no crashes)
 
@@ -102,7 +103,7 @@ An unofficial fan **Russian localization** (русификатор) for the visu
 Copy the ZIP contents into the game folder, select Language → Russian in settings, clear Ren'Py cache if text is not showing.
 
 ### How does the voice acting work?
-Voices are cloned from custom reference recordings with CosyVoice3 and generated for every line in both languages. The game loads `ai_voice/{lang}/{arc}/{uid}__{voice}.opus` automatically (`.wav` is the fallback format).
+Voices are cloned from custom reference recordings with CosyVoice3 and generated for every line in both languages. The game loads `ai_voice/{lang}/{arc}/{uid}__{voice}.opus` automatically (Opus-only since 2026-10-14; `.wav` is still a code fallback but ships no files).
 
 ### Is the translation official?
 No — this is an unofficial fan project, not affiliated with the developers or publishers.
@@ -167,7 +168,8 @@ HassarPath**; EN также готова — **Training, VargaMarionPath**; в �
 DemonArc, HyralArc** (оба языка).
 
 - Поиск голоса автоматический: `uid = md5(текста)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.opus`
-  (`.wav` играет как фолбэк, если opus-файла нет)
+  (`.wav` играет как фолбэк в коде, но с 2026-10-14 пак только Opus —
+  `.wav`-файлов в `ai_voice/` больше нет)
 - У каждой реплики есть эмоция — состояние диктора/рассказчика
 - Если файла нет — игра просто играет без звука (без ошибок)
 
@@ -199,7 +201,7 @@ Prologue, StoryBeginnings, WarriorPath, MagePath, UnionKingdom, HollowWorld, Bla
 Скопируйте содержимое ZIP в папку с игрой, выберите в настройках русский язык, при необходимости очистите кэш Ren'Py.
 
 ### Как работает озвучка?
-Голоса клонированы с референсных записей через CosyVoice3 и сгенерированы для каждой реплики на обоих языках. Игра автоматически подгружает `ai_voice/{lang}/{arc}/{uid}__{voice}.opus` (`.wav` — фолбэк-формат).
+Голоса клонированы с референсных записей через CosyVoice3 и сгенерированы для каждой реплики на обоих языках. Игра автоматически подгружает `ai_voice/{lang}/{arc}/{uid}__{voice}.opus` (с 2026-10-14 пак только Opus; `.wav` — фолбэк в коде без файлов).
 
 ### Это официальный перевод?
 Нет — неофициальный фанатский проект, не связанный с разработчиками и издателями.

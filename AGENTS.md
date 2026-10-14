@@ -18,9 +18,10 @@
 ```
 ai_voice/                       # КОРЕНЬ ПРОЕКТА, рядом с game/ (не внутри!)
   ru/{Arc}/{uid}__{variant}.opus # русская озвучка, постфикс = имя рефа (СТАНДАРТ)
-  ru/{Arc}/{uid}__{variant}.wav  # ЛЕГАСИ: файлы до 2026-10-14, до финальной миграции
   en/{Arc}/{uid}__{variant}.opus # английская озвучка, постфикс = имя рефа (СТАНДАРТ)
-  en/{Arc}/{uid}__{variant}.wav  # ЛЕГАСИ: файлы до 2026-10-14, до финальной миграции
+                                #   wav в ai_voice НЕТ (удалены 2026-10-14,
+                                #   финальная миграция; wav живут только в
+                                #   voice_candidates — рефы)
 game/
   catalog/
     label_arc.json              # label -> Arc (рантайм-мапа, грузится конфигом)
@@ -32,10 +33,12 @@ game/
 (генерится из кастов: озвучен = есть реф `{Name}.wav`; variant = имя
 персонажа). Кто говорит → `_last_say_who.name` → variant из voice_list.json,
 затем фолбэк glob `{uid}*.opus`, `{uid}*.wav` (первый совпавший по алфавиту).
-**Формат: opus приоритетен, wav — фолбэк** (2026-10-13, проверено в игре 7.4.11).
-**С 2026-10-14 новые файлы генерируются СРАЗУ в opus** (voice_batch.py, pipe
-loudnorm+libopus, wav не пишется; `--keep-wav` = старая цепочка). Старые
-легаси-wav конвертируются convert_all_opus.py (для новых не нужен).
+**Формат: opus приоритетен, wav — фолбэк в КОДЕ рантайма** (2026-10-13,
+проверено в игре 7.4.11), однако wav-файлов в `ai_voice/` больше НЕТ —
+2026-10-14 генерация сразу в opus (voice_batch.py, pipe loudnorm+libopus,
+wav не пишется; `--keep-wav` = старая цепочка), легаси-wav удалены с диска
+(финальная миграция). `convert_all_opus.py` — deprecated, конвертировать
+нечего.
 
 `ai_voice/` лежит ВНЕ game/, поэтому voice_config.rpy добавляет корень
 проекта в `config.searchpath` — без этого Ren'Py ищет файлы только в game/.
@@ -115,9 +118,11 @@ tools/
                                #   (процессы ищет по cmdline voice_batch.py/voice_queue.sh;
                                #   пауза = NtSuspendProcess, метка — output/voice/ctl_paused_{lang}.json)
                                #   Двойной клик: voice-start/stop/pause/resume/status/watch.cmd
-  convert_all_opus.py          # ПОЛНАЯ КОНВЕРТАЦИЯ wav -> opus 24k (резумабельная,
-                               #   маркеры pause/stop, атомарная .part-запись);
-                               #   для ЛЕГАСИ-wav — новые файлы уже opus
+  convert_all_opus.py          # УСТАРЕЛ (с 2026-10-14: wav в ai_voice удалены,
+                               #   конвертировать нечего; код оставлен для
+                               #   рефов/истории) — ПОЛНАЯ КОНВЕРТАЦИЯ wav -> opus
+                               #   24k (резумабельная, маркеры pause/stop,
+                               #   атомарная .part-запись)
   convert_opus_ctl.py          # ПУЛЬТ конвертером: start/pause/resume/stop/status
                                #   Двойной клик: convert-opus-start/pause/resume/stop/status.cmd
                                #   Ночная цепочка: convert-opus-night.cmd (TSSR-ConvertOpus 23:00:
@@ -247,7 +252,7 @@ texts — рус. фразы с ЯВНЫМ признаком пола; файл
 4. Генерация ПО КАЖДОМУ варианту (файлы лежат рядом, постфикс = реф):
    voice_batch.py --char Sarah --ref voice_candidates/Sarah/Sarah_1.wav --limit 5
    voice_batch.py --char Sarah --ref voice_candidates/Sarah/Sarah_3.wav --limit 5
-   → ai_voice/ru/{arc}/{uid}__Sarah_1.wav и {uid}__Sarah_3.wav
+   → ai_voice/ru/{arc}/{uid}__Sarah_1.opus и {uid}__Sarah_3.opus
 5. Выбор: слушаешь пары в ai_voice/ru/{arc}/ (одинаковые uid рядом)
 6. Фиксация: voice_manage.py select {Name} {variant}
    → копирует {Name}_{variant}.wav → {Name}.wav (в корне каста)
