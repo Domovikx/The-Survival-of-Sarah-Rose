@@ -52,26 +52,29 @@ Full Russian fan translation + AI voice acting for the visual novel **The Surviv
 
 ## Voice pack
 
-The voice pack is generated with **CosyVoice3** (voice cloning) and covers both languages:
+The voice pack is generated with **CosyVoice3** (voice cloning) and covers both languages.
+Lines are stored as **Opus 24 kbps mono** — ~7× smaller than WAV at the same quality:
 
 | Language | Voice files | Status |
 |---|---|---|
-| **Russian (RU)** | `ai_voice/ru/...` | **83.4%** (56 070 / 67 267) |
-| **English (EN)** | `ai_voice/en/...` | **86.7%** (58 323 / 67 267) |
+| **Russian (RU)** | `ai_voice/ru/...` | **90.3%** (60 727 / 67 267) |
+| **English (EN)** | `ai_voice/en/...` | **93.6%** (62 972 / 67 267) |
 
 Current stage: the whole game is being voiced in background (all 19 arcs × 2 languages,
-134 534 lines total, ~21 GB and growing — RU 10.8 GB + EN 10.2 GB). Generation runs at low CPU priority — it
-doesn't interfere with normal work. Already done: **Prologue, StoryBeginnings, Other,
-WarriorPath, MagePath, BlackMonolith, UnionKingdom, HollowWorld, SailorPath, AlfredArc,
-HassarPath** (RU and EN ✓); in progress — **SailorArc** (RU 65%, EN done),
-**LifeInRahayal** (EN 52%, RU pending); queued — **Training, PrisonArc, VargaMarionPath,
-WarArc, DemonArc, HyralArc**.
+134 534 lines total — the whole pack is only ~1.4 GB thanks to Opus). Generation runs at
+low CPU priority — it doesn't interfere with normal work. Fully voiced (RU + EN):
+**Prologue, StoryBeginnings, Other, WarriorPath, MagePath, BlackMonolith, UnionKingdom,
+HollowWorld, SailorPath, SailorArc, LifeInRahayal, AlfredArc, HassarPath**; EN also
+complete — **Training, VargaMarionPath**; in progress — **VargaMarionPath** (RU 69%),
+**PrisonArc** (EN 11%); queued — **Training, PrisonArc** (RU) and **WarArc, DemonArc,
+HyralArc** (both languages).
 
-- Voice lookup is automatic: `uid = md5(text)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.wav`
+- Voice lookup is automatic: `uid = md5(text)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.opus`
+  (`.wav` plays as fallback if the Opus file is missing)
 - Every line has an emotion instruction (state of the narrator/speaker)
 - Fallback: if a file is missing, the game plays silently (no crashes)
 
-> ⚠ The voice pack is large (hundreds of MB and growing). Check disk space.
+> ⚠ The voice pack is ~1.4 GB (Opus 24 kbps). Check disk space.
 
 ## Contents
 
@@ -99,7 +102,7 @@ An unofficial fan **Russian localization** (русификатор) for the visu
 Copy the ZIP contents into the game folder, select Language → Russian in settings, clear Ren'Py cache if text is not showing.
 
 ### How does the voice acting work?
-Voices are cloned from custom reference recordings with CosyVoice3 and generated for every line in both languages. The game loads `ai_voice/{lang}/{arc}/{uid}__{voice}.wav` automatically.
+Voices are cloned from custom reference recordings with CosyVoice3 and generated for every line in both languages. The game loads `ai_voice/{lang}/{arc}/{uid}__{voice}.opus` automatically (`.wav` is the fallback format).
 
 ### Is the translation official?
 No — this is an unofficial fan project, not affiliated with the developers or publishers.
@@ -147,25 +150,28 @@ Open an issue or submit a pull request on GitHub.
 
 ## Озвучка
 
-Озвучка создана на **CosyVoice3** (клонирование голоса) и покрывает оба языка:
+Озвучка создана на **CosyVoice3** (клонирование голоса) и покрывает оба языка.
+Реплики хранятся в формате **Opus 24 кбит/с моно** — примерно в 7 раз меньше WAV того же качества:
 
 | Язык | Файлы | Статус |
 |---|---|---|
-| **Русский (RU)** | `ai_voice/ru/...` | **83.4%** (56 070 / 67 267) |
-| **Английский (EN)** | `ai_voice/en/...` | **86.7%** (58 323 / 67 267) |
+| **Русский (RU)** | `ai_voice/ru/...` | **90.3%** (60 727 / 67 267) |
+| **Английский (EN)** | `ai_voice/en/...` | **93.6%** (62 972 / 67 267) |
 
-Текущий этап: вся игра озвучивается в фоне (все 19 арок × 2 языка, 134 534 реплики,
-~21 ГБ и растёт — RU 10.8 ГБ + EN 10.2 ГБ). Генерация идёт с низким приоритетом — не мешает работе.
-Готово: **Prologue, StoryBeginnings, Other, WarriorPath, MagePath, BlackMonolith, UnionKingdom,
-HollowWorld, SailorPath, AlfredArc, HassarPath** (RU и EN ✓);
-в работе — **SailorArc** (RU 65%, EN готова), **LifeInRahayal** (EN 52%, RU в очереди);
-в очереди — **Training, PrisonArc, VargaMarionPath, WarArc, DemonArc, HyralArc**.
+Текущий этап: вся игра озвучивается в фоне (все 19 арок × 2 языка, 134 534 реплики —
+весь пак всего ~1.4 ГБ благодаря Opus). Генерация идёт с низким приоритетом — не мешает работе.
+Полностью озвучено (RU + EN): **Prologue, StoryBeginnings, Other, WarriorPath, MagePath,
+BlackMonolith, UnionKingdom, HollowWorld, SailorPath, SailorArc, LifeInRahayal, AlfredArc,
+HassarPath**; EN также готова — **Training, VargaMarionPath**; в работе — **VargaMarionPath**
+(RU 69%), **PrisonArc** (EN 11%); в очереди — **Training, PrisonArc** (RU) и **WarArc,
+DemonArc, HyralArc** (оба языка).
 
-- Поиск голоса автоматический: `uid = md5(текста)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.wav`
+- Поиск голоса автоматический: `uid = md5(текста)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.opus`
+  (`.wav` играет как фолбэк, если opus-файла нет)
 - У каждой реплики есть эмоция — состояние диктора/рассказчика
 - Если файла нет — игра просто играет без звука (без ошибок)
 
-> ⚠ Озвучка большая (сотни МБ и растёт). Следи за местом на диске.
+> ⚠ Озвучка — ~1.4 ГБ (Opus 24 кбит/с). Следи за местом на диске.
 
 ## Содержание
 
@@ -193,7 +199,7 @@ Prologue, StoryBeginnings, WarriorPath, MagePath, UnionKingdom, HollowWorld, Bla
 Скопируйте содержимое ZIP в папку с игрой, выберите в настройках русский язык, при необходимости очистите кэш Ren'Py.
 
 ### Как работает озвучка?
-Голоса клонированы с референсных записей через CosyVoice3 и сгенерированы для каждой реплики на обоих языках. Игра автоматически подгружает `ai_voice/{lang}/{arc}/{uid}__{voice}.wav`.
+Голоса клонированы с референсных записей через CosyVoice3 и сгенерированы для каждой реплики на обоих языках. Игра автоматически подгружает `ai_voice/{lang}/{arc}/{uid}__{voice}.opus` (`.wav` — фолбэк-формат).
 
 ### Это официальный перевод?
 Нет — неофициальный фанатский проект, не связанный с разработчиками и издателями.

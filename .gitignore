@@ -24,6 +24,7 @@ game/*
 !game/screens.rpy
 !game/options.rpy
 !game/gui.rpy
+!game/voice_config.rpy
 
 # Game build and temp files
 TheSurvivalofSarahRose-32.exe
