@@ -69,8 +69,12 @@ __pycache__/
 **debug**
 # Runtime debug log (пишет voice_config.rpy)
 *.log
-*tasks*
-*tmp*
-*playwright-cli*
+tasks
+tmp
+.playwright-cli
 # Атомарная запись конвертера/пайплайна: ffmpeg пишет .part, потом rename
 *.part
+# Opus-миграция 2026-10-13: wav в ai_voice сняты с трекинга (остаются на
+# диске как фолбэк игры). Гит не растёт; коммитятся opus + манифесты .txt
+ai_voice/**/*.wav
+.sisyphus
