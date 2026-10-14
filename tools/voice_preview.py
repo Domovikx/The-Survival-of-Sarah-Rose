@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 """Превью-генерация: по 3 самых длинных фразы на голос (для ревью).
 
-Для голосов с вариантами ({Name}_1.wav, ...) генерит ОБА —
-файлы {uid}__{Name}_1.wav и {uid}__{Name}_2.wav лежат рядом, слушай пары.
-Для одиночных ({Name}.wav) — один вариант. Resumable.
+Для голосов с вариантами (рефы {Name}_1.wav, ...) генерит ОБА —
+файлы {uid}__{Name}_1.opus и {uid}__{Name}_2.opus лежат рядом, слушай пары.
+Для одиночных ({Name}.wav) — один вариант. Resumable (учитывает и легаси-wav).
 
 После прогона пишет output/voice/preview_review.md — таблица
 «персонаж → вариант → uid → текст» для ревью.
@@ -30,6 +30,13 @@ BATCH = os.path.join(paths.TOOLS_DIR, 'voice_batch.py')
 OUT_MD = os.path.join(paths.OUTPUT_DIR, 'voice', 'preview_review.md')
 
 N_LINES = 3
+
+
+def _ai_voice_exists(arc, uid, variant):
+    """Фраза сгенерирована? Новый формат — .opus, легаси — .wav (нет dup)."""
+    stem = os.path.join(paths.AI_VOICE_DIR, 'ru', arc,
+                        '{}__{}'.format(uid, variant))
+    return os.path.isfile(stem + '.opus') or os.path.isfile(stem + '.wav')
 
 
 def ref_variants(name):
@@ -126,8 +133,7 @@ def main():
     for i, (name, variant, ref_path, phrases) in enumerate(plan, 1):
         uids = [p['uid'] for p in phrases]
         exist = all(
-            os.path.isfile(os.path.join(paths.AI_VOICE_DIR, 'ru', p['arc'],
-                                        p['uid'] + '__' + variant + '.wav'))
+            _ai_voice_exists(p['arc'], p['uid'], variant)
             for p in phrases)
         if exist:
             print('[{}/{}] {} {} — уже есть, скип'.format(
@@ -151,7 +157,7 @@ def main():
         f.write('# Превью-ревью озвучки ({})\n\n'.format(
             time.strftime('%Y-%m-%d %H:%M')))
         f.write('Слушай пары в `ai_voice/ru/{arc}/`. Формат файла: '
-                '`{uid}__{variant}.wav`.\n\n')
+                '`{uid}__{variant}.opus` (новые) / `.wav` (легаси).\n\n')
         f.write('| Персонаж | Вариант | Арка | uid | Текст (ru) |\n')
         f.write('|---|---|---|---|---|\n')
         f.write('\n'.join(review))

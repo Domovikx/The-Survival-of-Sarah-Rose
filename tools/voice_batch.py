@@ -6,9 +6,12 @@
   - касты: озвучен = есть реф {Голос}.wav (иначе пропуск)
 
 ВЫХОД:
-  ai_voice/{lang}/{arc}/{uid}__{variant}.wav   (resumable: существующие скипаются)
-  + сразу рядом {uid}__{variant}.opus 24k mono (fail-soft: нет opus = wav-фолбэк)
-  Каждый файл выравнивается levelnorm.py: loudnorm -16 LUFS / TP -1.5
+  ai_voice/{lang}/{arc}/{uid}__{variant}.opus 24k mono   (resumable: существующие скипаются)
+  + манифест рядом {uid}__{variant}.wav.txt (база .stem — путь исторический)
+  wav на диск больше НЕ пишется (2026-10-14): тензор речи -> pipe f32le в ffmpeg,
+  loudnorm -16 LUFS/TP -1.5 + libopus 24k ЗА ОДИН проход (см. tensor_to_opus).
+  Fail-soft: pipe не удался -> пишется wav-фолбэк старой цепочкой (игра: opus -> wav).
+  --keep-wav принудительно пишет wav, как раньше (старая цепочка levelnorm+конверт).
 
 КОНФИГ (официальные параметры FunAudioLLM, 2026-09-03):
   cross_lingual + RL + flow-temp 0.8 + cfg 0.7 + RAS (0.8, 25, 0.1)
@@ -255,6 +258,68 @@ def wav_to_opus(wav_path):
     return False
 
 
+def tensor_to_opus(tensor, sr, wav_path):
+    """Тензор речи -> opus 24k mono ОДНИМ ffmpeg-проходом, без wav на диске.
+
+    Тензор [1, N] float32 -> сырые f32le в stdin ffmpeg -> loudnorm (уровни
+    берём из levelnorm.LOUD_ARGS — единый источник правды) -> libopus 24k mono
+    -> .part -> атомарный os.replace в .opus. wav не создаётся вообще.
+
+    Эквивалентность старой цепочке проверена замером 2026-10-14
+    (tasks/2026-10-14-direct-opus-generation-research.md): стадия loudnorm
+    bit-identical для wav- и pipe-входа, декодированная длина совпадает,
+    |dLUFS| <= 0.08 LU.
+
+    False = что-то пошло не так, вызывающая сторона пишет wav-фолбэк.
+    """
+    import subprocess
+    from levelnorm import LOUD_ARGS  # e/i: -16 LUFS, TP -1.5 (см. config)
+    opus = os.path.splitext(wav_path)[0] + '.opus'
+    part = opus + '.part'
+    try:
+        arr = tensor.detach().to('cpu').float().numpy()
+        if arr.ndim == 2:
+            if arr.shape[0] != 1:
+                return False  # мультиканальный вход не ожидаем
+            arr = arr[0]
+        elif arr.ndim != 1:
+            return False
+        if arr.size == 0:
+            return False
+        arr = np.ascontiguousarray(arr, dtype='<f4')
+        r = subprocess.run(
+            ['ffmpeg', '-y', '-loglevel', 'error',
+             '-f', 'f32le', '-ar', str(int(sr)), '-ac', '1', '-i', 'pipe:0',
+             '-af', LOUD_ARGS,
+             '-c:a', 'libopus', '-b:a', '24k', '-ac', '1', '-f', 'opus', part],
+            input=arr.tobytes(), capture_output=True, timeout=120)
+        if r.returncode == 0 and os.path.exists(part) and os.path.getsize(part) > 0:
+            os.replace(part, opus)
+            return True
+        if os.path.exists(part):
+            os.remove(part)
+    except Exception:
+        if os.path.exists(part):
+            try:
+                os.remove(part)
+            except OSError:
+                pass
+    return False
+
+
+def save_wav_chain(trimmed, sr, wav_path):
+    """Старая цепочка (она же wav-фолбэк): wav -> levelnorm -> opus рядом."""
+    torchaudio.save(wav_path, trimmed, sr,
+                    encoding='PCM_S', bits_per_sample=16)
+    try:
+        from levelnorm import normalize_file
+        normalize_file(wav_path)
+    except Exception:
+        pass
+    if not wav_to_opus(wav_path):
+        log('  WARN: opus-конверт не удался, wav остаётся фолбэком')
+
+
 def gen_one(cosyvoice, text, ref, seed, emotion=None):
     """Одна фраза: реф + текст -> тензор речи.
 
@@ -286,6 +351,9 @@ def main():
     ap.add_argument('--uid', nargs='*', default=None, help='только эти uid')
     ap.add_argument('--limit', type=int, default=None, help='максимум фраз за прогон')
     ap.add_argument('--force', action='store_true', help='перегенерировать существующие')
+    ap.add_argument('--keep-wav', action='store_true',
+                    help='писать wav (старая цепочка levelnorm+конверт); '
+                         'по умолчанию — сразу opus, wav не создаётся')
     ap.add_argument('--lang', default='ru', choices=['ru', 'en'])
     ap.add_argument('--seed', type=int, default=DEFAULT_SEED)
     ap.add_argument('--dry-run', action='store_true',
@@ -359,13 +427,20 @@ def main():
         time.time() - t0, args.flow_temp, args.cfg_rate,
         (args.top_p, args.top_k, args.tau_r)))
 
-    done = skipped = failed = 0
+    done = skipped = failed = healed = 0
     total = len(phrases)
     t_start = time.time()
     for idx, p in enumerate(phrases):
-        if os.path.exists(p['out']) and not args.force:
-            skipped += 1
-            continue
+        opus_path = os.path.splitext(p['out'])[0] + '.opus'
+        if not args.force:
+            if os.path.exists(opus_path):
+                skipped += 1
+                continue
+            if os.path.exists(p['out']):
+                # легаси (wav есть, opus нет): доконвертить, не перегенерировать
+                if wav_to_opus(p['out']):
+                    healed += 1
+                    continue
         if args.limit and done >= args.limit:
             break
         log('[{}/{}] {} {} {}: {}'.format(
@@ -376,16 +451,16 @@ def main():
             sr = cosyvoice.sample_rate
             trimmed, cuts = pattern_trim(speech, sr)
             os.makedirs(os.path.dirname(p['out']), exist_ok=True)
-            torchaudio.save(p['out'], trimmed, sr,
-                            encoding='PCM_S', bits_per_sample=16)
             dur = trimmed.shape[1] / sr
-            try:
-                from levelnorm import normalize_file
-                normalize_file(p['out'])
-            except Exception:
-                pass
-            if not wav_to_opus(p['out']):
-                log('  WARN: opus-конверт не удался, wav остаётся фолбэком')
+            if args.keep_wav:
+                save_wav_chain(trimmed, sr, p['out'])
+                saved = p['out']
+            elif tensor_to_opus(trimmed, sr, p['out']):
+                saved = opus_path
+            else:
+                log('  WARN: pipe-конверт не удался — пишу wav-фолбэк')
+                save_wav_chain(trimmed, sr, p['out'])
+                saved = p['out']
             trim_info = ''
             if cuts:
                 trim_info = ' | trim: ' + ', '.join(
@@ -393,13 +468,14 @@ def main():
                     for c in cuts)
             eta = (time.time() - t_start) / max(done + 1, 1) * (total - idx - 1)
             log('  saved {} ({:.1f}s){}, eta ~{:.0f} мин'.format(
-                p['out'], dur, trim_info, eta / 60))
+                saved, dur, trim_info, eta / 60))
             done += 1
         except Exception as e:
             failed += 1
             log('  !! FAIL {}: {}'.format(p['uid'], e))
 
-    log('done={} skipped={} failed={} total={}'.format(done, skipped, failed, total))
+    log('done={} skipped={} healed={} failed={} total={}'.format(
+        done, skipped, healed, failed, total))
 
 
 if __name__ == '__main__':

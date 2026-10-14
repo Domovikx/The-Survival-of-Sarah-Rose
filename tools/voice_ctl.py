@@ -23,7 +23,7 @@ voice-watch.cmd.
   - пауза = NtSuspendProcess по воркерам, состояние — output/voice/ctl_paused_{lang}.json;
   - soft-stop = снять паузу (если была) + дождаться '  saved ' текущего файла
     в gen_all_{lang}.log + обычный stop (CPU и RAM свободны);
-  - генерация resumable: перезапуск продолжает с места останова, готовые wav скипаются.
+  - генерация resumable: перезапуск продолжает с места останова, готовые файлы скипаются.
 
 Только стандартная библиотека (работает системным python).
 Вывод — ASCII-безопасный (консоль cp866/cp1251 не переваривает символы вроде x/✓).
@@ -242,8 +242,12 @@ def read_log(lang):
         return ''
 
 
-def count_wav(lang, arc=None):
-    """Число wav: весь язык или одна арка. -1 если папки нет."""
+def count_done(lang, arc=None):
+    """Число готовых реплик (стем wav|opus): язык или арка. -1 если папки нет.
+
+    Пара wav+opus за один стем считается один раз — иначе смешанный
+    корпус (легаси-wav + opus) удвоит цифры.
+    """
     base = os.path.join(ROOT, 'ai_voice', lang)
     if arc:
         base = os.path.join(base, arc)
@@ -251,7 +255,9 @@ def count_wav(lang, arc=None):
         return -1
     if arc:
         try:
-            return sum(1 for f in os.listdir(base) if f.endswith('.wav'))
+            return len({os.path.splitext(f)[0] for f in os.listdir(base)
+                        if (f.endswith('.wav') or f.endswith('.opus'))
+                        and '.ln.tmp.' not in f})
         except OSError:
             return -1
     total = 0
@@ -260,8 +266,10 @@ def count_wav(lang, arc=None):
             p = os.path.join(base, a)
             if os.path.isdir(p):
                 try:
-                    total += sum(1 for f in os.listdir(p)
-                                 if f.endswith('.wav'))
+                    total += len({os.path.splitext(f)[0]
+                                  for f in os.listdir(p)
+                                  if (f.endswith('.wav') or f.endswith('.opus'))
+                                  and '.ln.tmp.' not in f})
                 except OSError:
                     pass
     except OSError:
@@ -289,8 +297,8 @@ def lang_status(lang):
         age = time.time() - mtime
     except OSError:
         age = None
-    wav_arc = count_wav(lang, arc) if arc else -1
-    total = count_wav(lang)
+    done_arc = count_done(lang, arc) if arc else -1
+    total = count_done(lang)
     if paused:
         state = 'PAUSED'
     elif workers:
@@ -300,7 +308,7 @@ def lang_status(lang):
         state = 'STOPPED'
     return {'lang': lang, 'state': state, 'workers': workers,
             'queues': queues, 'paused': paused, 'arc': arc, 'prog': prog,
-            'wav_arc': wav_arc, 'total': total, 'log_age': age}
+            'done_arc': done_arc, 'total': total, 'log_age': age}
 
 
 def print_status(langs):
@@ -319,8 +327,8 @@ def print_status(langs):
             if s['prog']:
                 d, t = s['prog']
                 line += ' [%d/%d] (%.1f%%)' % (d, t, 100.0 * d / t if t else 0)
-            if s['wav_arc'] >= 0:
-                line += ', wav: %d' % s['wav_arc']
+            if s['done_arc'] >= 0:
+                line += ', готово: %d' % s['done_arc']
             print(line)
         elif s['prog']:
             d, t = s['prog']
@@ -330,7 +338,7 @@ def print_status(langs):
         else:
             print('  лог: %s назад' % format_age(s['log_age']))
         if s['total'] >= 0:
-            print('  всего %s wav: %d' % (lang.upper(), s['total']))
+            print('  всего %s фраз: %d' % (lang.upper(), s['total']))
         if s['state'] == 'STOPPED' and s['arc']:
             print('  встанет на: %s (resumable)' % s['arc'])
     return 0
@@ -401,7 +409,7 @@ def cmd_stop(args):
             rc = 1
         else:
             print('%s: остановлено (убито %d)' % (lang.upper(), killed))
-    print('Готовые wav целы, рестарт продолжит (resumable).')
+    print('Готовые файлы целы, рестарт продолжит (resumable).')
     return rc
 
 
@@ -471,7 +479,7 @@ def cmd_softstop(args):
     - если была пауза — сначала resume (иначе файл никогда не доделается);
     - ждём новый '  saved ' в gen_all_{lang}.log (таймаут --timeout, по умолч. 300с);
     - потом та же зачистка, что в stop: taskkill очередей+воркеров, снять метку паузы.
-    CPU и RAM освобождаются, готовые wav целы, рестарт продолжает (resumable).
+    CPU и RAM освобождаются, готовые файлы целы, рестарт продолжает (resumable).
     """
     if sys.platform != 'win32':
         print('soft-stop: только Windows')
@@ -545,7 +553,7 @@ def cmd_softstop(args):
             rc = 1
         else:
             print('%s: мягко остановлено (убито %d)' % (lang.upper(), killed))
-    print('Готовые wav целы, рестарт продолжит (resumable).')
+    print('Готовые файлы целы, рестарт продолжит (resumable).')
     return rc
 
 

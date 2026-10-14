@@ -17,10 +17,10 @@
 
 ```
 ai_voice/                       # КОРЕНЬ ПРОЕКТА, рядом с game/ (не внутри!)
-  ru/{Arc}/{uid}__{variant}.wav  # русская озвучка с постфиксом рефа
-  ru/{Arc}/{uid}__{variant}.opus # + opus 24k mono (стандарт; wav = фолбэк)
-  en/{Arc}/{uid}__{variant}.wav  # английская озвучка с постфиксом рефа
-  en/{Arc}/{uid}__{variant}.opus # + opus 24k mono (стандарт; wav = фолбэк)
+  ru/{Arc}/{uid}__{variant}.opus # русская озвучка, постфикс = имя рефа (СТАНДАРТ)
+  ru/{Arc}/{uid}__{variant}.wav  # ЛЕГАСИ: файлы до 2026-10-14, до финальной миграции
+  en/{Arc}/{uid}__{variant}.opus # английская озвучка, постфикс = имя рефа (СТАНДАРТ)
+  en/{Arc}/{uid}__{variant}.wav  # ЛЕГАСИ: файлы до 2026-10-14, до финальной миграции
 game/
   catalog/
     label_arc.json              # label -> Arc (рантайм-мапа, грузится конфигом)
@@ -32,8 +32,10 @@ game/
 (генерится из кастов: озвучен = есть реф `{Name}.wav`; variant = имя
 персонажа). Кто говорит → `_last_say_who.name` → variant из voice_list.json,
 затем фолбэк glob `{uid}*.opus`, `{uid}*.wav` (первый совпавший по алфавиту).
-**Формат: opus приоритетен, wav — фолбэк** (2026-10-13, проверено в игре 7.4.11;
-конвертация: convert_all_opus.py, авто-конверт новых wav: voice_batch.py).
+**Формат: opus приоритетен, wav — фолбэк** (2026-10-13, проверено в игре 7.4.11).
+**С 2026-10-14 новые файлы генерируются СРАЗУ в opus** (voice_batch.py, pipe
+loudnorm+libopus, wav не пишется; `--keep-wav` = старая цепочка). Старые
+легаси-wav конвертируются convert_all_opus.py (для новых не нужен).
 
 `ai_voice/` лежит ВНЕ game/, поэтому voice_config.rpy добавляет корень
 проекта в `config.searchpath` — без этого Ren'Py ищет файлы только в game/.
@@ -83,12 +85,15 @@ tools/
   beastify.py                  # нелюдские голоса: пресеты orc/demon/monster
                                #   (pitch+formant вниз, тёмный EQ, acrusher, гроул-субтон,
                                #   модуляция/реверб) + loudnorm -16 LUFS/TP -1.5
-  voice_batch.py               # батч-генерация: каталог -> ai_voice/{lang}/{arc}/{uid}__{variant}.wav
-                               #   (реф = voice_candidates/{Имя}/{Имя}.wav по
+  voice_batch.py               # батч-генерация: каталог -> ai_voice/{lang}/{arc}/{uid}__{variant}.opus
+                               #   (СРАЗУ opus: тензор -> pipe f32le -> ffmpeg loudnorm+libopus
+                               #   за один проход, wav НЕ пишется; --keep-wav = старая цепочка
+                               #   wav->levelnorm->opus; при сбое pipe — wav-фолбэк;
+                               #   реф = voice_candidates/{Имя}/{Имя}.wav по
                                #   правилу; --ref перезаписывает;
                                #    --emotion — стилевая инструкция в промпт, суффикс _em;
-                               #    ДО генерации пишет манифест {wav}.txt: uid/arc/ref/emotion/
-                               #    тексты/конфиг — описание того, чем сгенерировано)
+                               #    write_manifest() определён, но НЕ вызывается —
+                               #    манифесты {wav}.txt фактически не пишутся)
   trim_tail_burst.py           # паттерн-трим хвостовых артефактов (импортится батчем)
   voice_manage.py              # list/status/select (select: {Имя}_{v}.wav -> {Имя}.wav +
                                #   voice_list.json)
@@ -96,9 +101,9 @@ tools/
   voice_preview.py             # 3 самых длинных фразы × каждый реф -> ревью-таблица
   emotion_tag.py               # разметка эмоций: catalog/emotions.json
                                #   (эвристика по тексту или --llm-url локальная LLM)
-  voice_status.py              # СТАТУС И ПРОГНОЗ генерации: wav по языкам/аркам,
-                               #   %, размер, воркеры, скорость, прогноз (--fast
-                               #   без замера). ВСЕГДА для вопросов «статус?»
+  voice_status.py              # СТАТУС И ПРОГНОЗ генерации: готово (стем opus/wav)
+                               #   по языкам/аркам, %, размер, воркеры, скорость,
+                               #   прогноз (--fast без замера). ВСЕГДА для «статус?»
   voice_queue.sh               # ОЧЕРЕДЬ генерации: bash tools/voice_queue.sh {ru|en}
                                #   (все арки, resumable, НИЗКИЙ приоритет
                                #   BelowNormal + OMP_NUM_THREADS=6 — не мешает
@@ -111,7 +116,8 @@ tools/
                                #   пауза = NtSuspendProcess, метка — output/voice/ctl_paused_{lang}.json)
                                #   Двойной клик: voice-start/stop/pause/resume/status/watch.cmd
   convert_all_opus.py          # ПОЛНАЯ КОНВЕРТАЦИЯ wav -> opus 24k (резумабельная,
-                               #   маркеры pause/stop, атомарная .part-запись)
+                               #   маркеры pause/stop, атомарная .part-запись);
+                               #   для ЛЕГАСИ-wav — новые файлы уже opus
   convert_opus_ctl.py          # ПУЛЬТ конвертером: start/pause/resume/stop/status
                                #   Двойной клик: convert-opus-start/pause/resume/stop/status.cmd
                                #   Ночная цепочка: convert-opus-night.cmd (TSSR-ConvertOpus 23:00:
