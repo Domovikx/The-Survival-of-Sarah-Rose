@@ -6,8 +6,10 @@ import { Section } from '@/shared/ui'
 
 const styles = stylex.create({
   panel: {
-    background: 'var(--panel)',
-    border: '1px solid var(--border)',
+    backgroundColor: 'var(--panel)',
+    borderWidth: 1,
+    borderStyle: 'solid',
+    borderColor: 'var(--border)',
     borderRadius: 12,
     padding: '16px 18px',
   },
@@ -41,15 +43,13 @@ export const Faq = () => {
         <div className={stylex.props(styles.qa).className}>
           <h3 className={stylex.props(styles.q).className}>{t('faq.q3')}</h3>
           <p className={stylex.props(styles.a).className}>
-            {t('faq.a3')}{' '}
-            <a href={LINKS.license}>CC BY-NC 4.0</a>
+            {t('faq.a3')} <a href={LINKS.license}>{t('footer.linkLicense')}</a>
           </p>
         </div>
         <div className={stylex.props(styles.qa).className}>
           <h3 className={stylex.props(styles.q).className}>{t('faq.q4')}</h3>
           <p className={stylex.props(styles.a).className}>
-            {t('faq.a4')}{' '}
-            <a href={LINKS.github}>{t('header.github')}</a>
+            {t('faq.a4')} <a href={LINKS.github}>{t('footer.linkGithub')}</a>
           </p>
         </div>
       </div>

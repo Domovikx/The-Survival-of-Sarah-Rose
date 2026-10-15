@@ -5,8 +5,10 @@ import { Section } from '@/shared/ui'
 
 const styles = stylex.create({
   panel: {
-    background: 'var(--panel)',
-    border: '1px solid var(--border)',
+    backgroundColor: 'var(--panel)',
+    borderWidth: 1,
+    borderStyle: 'solid',
+    borderColor: 'var(--border)',
     borderRadius: 12,
     padding: '16px 18px',
   },

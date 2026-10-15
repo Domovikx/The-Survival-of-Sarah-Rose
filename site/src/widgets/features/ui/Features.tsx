@@ -10,8 +10,10 @@ const styles = stylex.create({
     gap: 14,
   },
   card: {
-    background: 'var(--panel)',
-    border: '1px solid var(--border)',
+    backgroundColor: 'var(--panel)',
+    borderWidth: 1,
+    borderStyle: 'solid',
+    borderColor: 'var(--border)',
     borderRadius: 12,
     padding: '16px 18px',
   },

@@ -4,6 +4,7 @@
     "description": "Русификатор The Survival of Sarah Rose: полный перевод 68 254 строк + AI-озвучка 75+ клонированных голосов на русском и английском. Бесплатно, 18+."
   },
   "header": {
+    "brand": "TSSR · Русификатор + AI-озвучка",
     "steam": "Страница в Steam",
     "github": "GitHub",
     "download": "Скачать ZIP",
@@ -43,7 +44,7 @@
   },
   "install": {
     "title": "Установка",
-    "step1": "Скачайте ZIP и распакуйте содержимое в папку игры (Steam: C:\\Program Files (x86)\\Steam\\steamapps\\common\\The Survival of Sarah Rose\\) с заменой файлов",
+    "step1": "Скачайте ZIP и распакуйте содержимое в папку игры (Steam: C:\\Program Files (x86)\\Steam\\steamapps\\common\\The Survival of Sarah Rose) с заменой файлов",
     "step2": "Запустите игру и в настройках выберите Language → Russian (или English — озвучка подстроится автоматически)",
     "step3": "Готово. Первый запуск может быть чуть медленнее — Ren'Py пересобирает кэш",
     "note": "Требуется наличие купленной игры в Steam. Проект неофициальный и не связан с разработчиками и издателями."
@@ -68,6 +69,11 @@
   },
   "footer": {
     "disclaimer": "Неофициальный фанатский проект. Все права на оригинальную игру принадлежат её правообладателям. Используйте на свой страх и риск.",
-    "linksLabel": "Ссылки"
+    "linksLabel": "Ссылки",
+    "linkGithub": "GitHub",
+    "linkSteam": "Steam",
+    "linkIssues": "Issues",
+    "linkLicense": "CC BY-NC 4.0",
+    "age": "18+"
   }
 }

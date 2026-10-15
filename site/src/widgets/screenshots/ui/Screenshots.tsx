@@ -17,7 +17,9 @@ const styles = stylex.create({
     width: '100%',
     height: 'auto',
     borderRadius: 10,
-    border: '1px solid var(--border)',
+    borderWidth: 1,
+    borderStyle: 'solid',
+    borderColor: 'var(--border)',
     display: 'block',
   },
   caption: {

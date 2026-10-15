@@ -12,7 +12,7 @@ const styles = stylex.create({
     top: 0,
     zIndex: 10,
     backdropFilter: 'blur(8px)',
-    background: 'color-mix(in srgb, var(--bg) 82%, transparent)',
+    backgroundColor: 'color-mix(in srgb, var(--bg) 82%, transparent)',
     borderBottom: '1px solid var(--border)',
   },
   inner: {
@@ -34,8 +34,10 @@ const styles = stylex.create({
     fontWeight: 600,
     fontSize: 14,
     color: 'var(--steam-fg)',
-    background: 'var(--steam-bg)',
-    border: '1px solid var(--steam-border)',
+    backgroundColor: 'var(--steam-bg)',
+    borderWidth: 1,
+    borderStyle: 'solid',
+    borderColor: 'var(--steam-border)',
     borderRadius: 8,
     padding: '6px 12px',
     display: 'inline-flex',
@@ -47,7 +49,9 @@ const styles = stylex.create({
     fontWeight: 600,
     fontSize: 14,
     color: 'var(--link)',
-    border: '1px solid var(--border)',
+    borderWidth: 1,
+    borderStyle: 'solid',
+    borderColor: 'var(--border)',
     borderRadius: 8,
     padding: '6px 12px',
   },
@@ -67,7 +71,7 @@ export const Header = () => {
       <Container>
         <div className={stylex.props(styles.inner).className}>
           <a className={stylex.props(styles.brand).className} href={LINKS.github}>
-            TSSR · Русификатор + AI-озвучка
+            {t('header.brand')}
           </a>
           <a
             className={stylex.props(styles.steamLink).className}

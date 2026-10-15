@@ -31,19 +31,19 @@ export const Footer = () => {
         <p>{t('footer.disclaimer')}</p>
         <ul className={stylex.props(styles.links).className} aria-label={t('footer.linksLabel')}>
           <li>
-            <a href={LINKS.github}>GitHub</a>
+            <a href={LINKS.github}>{t('footer.linkGithub')}</a>
           </li>
           <li>
-            <a href={LINKS.steam}>Steam</a>
+            <a href={LINKS.steam}>{t('footer.linkSteam')}</a>
           </li>
           <li>
-            <a href={LINKS.issues}>Issues</a>
+            <a href={LINKS.issues}>{t('footer.linkIssues')}</a>
           </li>
           <li>
-            <a href={LINKS.license}>CC BY-NC 4.0</a>
+            <a href={LINKS.license}>{t('footer.linkLicense')}</a>
           </li>
           <li>
-            <b>18+</b>
+            <b>{t('footer.age')}</b>
           </li>
         </ul>
       </Container>
