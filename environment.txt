@@ -1,0 +1,4 @@
+# TSSR mod: внешний search path (задача tasks/2026-10-14-mod-overlay-migration.md)
+# Файл штатно читается движком Ren'Py при старте (bootstrap.py:177-185).
+# Путь АБСОЛЮТНЫЙ. Папка mod/ обязана существовать (см. mod/README.md).
+RENPY_SEARCHPATH = r"C:\Program Files (x86)\Steam\steamapps\common\The Survival of Sarah Rose\mod"
