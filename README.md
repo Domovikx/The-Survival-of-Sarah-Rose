@@ -231,6 +231,7 @@ Prologue, StoryBeginnings, WarriorPath, MagePath, UnionKingdom, HollowWorld, Bla
 ## О проекте / Project
 
 - **Репозиторий / Repository:** [github.com/Domovikx/The-Survival-of-Sarah-Rose](https://github.com/Domovikx/The-Survival-of-Sarah-Rose)
+- **Сайт проекта / Project site:** [domovikx.github.io/The-Survival-of-Sarah-Rose](https://domovikx.github.io/The-Survival-of-Sarah-Rose/)
 - **Игра в Steam / Game on Steam:** [The Survival of Sarah Rose](https://store.steampowered.com/app/2166470/The_Survival_of_Sarah_Rose/)
 - **Issues:** [github.com/Domovikx/The-Survival-of-Sarah-Rose/issues](https://github.com/Domovikx/The-Survival-of-Sarah-Rose/issues)
 
