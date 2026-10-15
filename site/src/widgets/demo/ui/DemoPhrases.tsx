@@ -4,14 +4,17 @@ import { useTranslation } from 'react-i18next'
 
 import { Section } from '@/shared/ui'
 
-// uid = md5(old) — файлы site/public/demo/{ru,en}/{uid}.mp3 (конвертация из
-// ai_voice/**/*.opus, 5 цепляющих реплик, одинаковые uid в обоих языках).
+// uid = md5(old) — файлы site/public/demo/{ru,en}/{uid}.opus (прямые копии из
+// ai_voice/**/*.opus — нативный opus как в моде, линки 1:1; 7 реплик по темам
+// из demo-grid, одинаковые uid в обоих языках). Порядок = demo.phrases в локалях.
 const PHRASE_UIDS = [
-  'e5d1a5b892d5f229deb5de98479c5a54',
-  'f7ce26c09f2eae1a71e88764bc424281',
-  'd0b1e33111292ed0c9523c4163d1b86e',
-  '4cbde967290424a6402b1d1d852a4d7c',
-  'bcd1cf9e4c99ac6da66f22cbe9326b74',
+  '3a192b42302d0aa088a23e7fab29983b', // интрига — Sarah
+  'f956b1ec4bd1df104cf2ffef7b74c2ac', // откровение — Thomas
+  '40e1ba10148e47ddb91fa28114270349', // флирт — Carolyn
+  '6424451692e133352a89e3703fd872c6', // драма — Sarah
+  '01f7f305172f580ac28500645a639854', // жёсткость — Garret
+  'fa03c1667916774e3eb9381ac88fba3f', // страсть 18+ — Sarah
+  '8a58d3fa060638a81c3642a046e5d2b5', // нарратор
 ] as const
 
 type Phrase = { speaker: string; text: string }
@@ -67,6 +70,12 @@ const styles = stylex.create({
     backgroundColor: 'var(--accent)',
     borderColor: 'var(--accent)',
     color: '#ffffff',
+    // Играющая кнопка должна оставаться акцентной и под курсором:
+    // play:hover (специфичность 0,2,0) перебивал бы playOn (0,1,0).
+    ':hover': {
+      backgroundColor: 'var(--accent)',
+      borderColor: 'var(--accent)',
+    },
   },
   body: {
     minWidth: 0,
@@ -98,7 +107,7 @@ const PauseIcon = () => (
 )
 
 /**
- * Демо-фразы: 5 реплик с AI-озвучкой как крючок для скачивания.
+ * Демо-фразы: 7 реплик с AI-озвучкой как крючок для скачивания.
  * Локаль определяет и текст, и аудио: RU-локаль → русские фразы, EN → английские.
  * Один проигрыватель на странице (новая фраза останавливает предыдущую).
  */
@@ -131,7 +140,7 @@ export const DemoPhrases = () => {
       setPlaying(null)
       return
     }
-    audio.src = `${import.meta.env.BASE_URL}demo/${lang}/${uid}.mp3`
+    audio.src = `${import.meta.env.BASE_URL}demo/${lang}/${uid}.opus`
     audio.play().catch(() => setPlaying(null))
     setPlaying(uid)
   }

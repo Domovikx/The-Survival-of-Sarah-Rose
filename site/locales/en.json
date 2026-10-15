@@ -41,11 +41,13 @@
     "play": "Play: {{name}}",
     "pause": "Pause: {{name}}",
     "phrases": [
-      { "speaker": "Thomas", "text": "Pleeeeease don't send me back, ok? I really can't fall asleep." },
-      { "speaker": "Carolyn", "text": "Come now dear, don't be silly. You think I've never seen anyone naked before?" },
-      { "speaker": "Sarah", "text": "You don't think I have a thousand excuses to drink myself to death in a ditch somewhere?" },
-      { "speaker": "Garret", "text": "No! Please! Don't harm her! She had nothing to do with this. This was my doing, please!" },
-      { "speaker": "Varga", "text": "I AM THE GREAT BASILISK, AND YOUR BELOVED WILL REMAIN WITH ME FOREVER!!!" }
+      { "speaker": "Sarah", "text": "It's always so quiet here. It feels wrong." },
+      { "speaker": "Thomas", "text": "Sarah...I try to put on this front of the perfect king. Even on the battlefield, I cover up my fears." },
+      { "speaker": "Carolyn", "text": "Aah, should I give up my secrets so easily to you?" },
+      { "speaker": "Sarah", "text": "You're not asking me, I'm asking you...stay with me...please. Nobody else in this world has ever been so true a friend to me...more than a friend." },
+      { "speaker": "Garret", "text": "And as for the blood on your hands, what is a few drops more? Surely you don't mean to tell me that you have not killed others before?" },
+      { "speaker": "Sarah", "text": "Each night when I touch myself, my only fantasies are memories of our encounters." },
+      { "speaker": "Narrator", "text": "When he would come to her, her heart ran fast in her chests. When he failed to show, she felt herself nearing to tears." }
     ]
   },
   "voice": {
