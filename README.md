@@ -6,6 +6,9 @@
 [![Ren'Py](https://img.shields.io/badge/engine-Ren'Py%208.5-ff69b4?style=flat-square)](https://www.renpy.org/)
 [![Steam](https://img.shields.io/badge/platform-Steam-1b2838?style=flat-square)](https://store.steampowered.com/)
 [![License CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey?style=flat-square)](LICENSE)
+[![18+](https://img.shields.io/badge/age-18%2B-red?style=flat-square)](#faq)
+[![GitHub stars](https://img.shields.io/github/stars/Domovikx/The-Survival-of-Sarah-Rose?style=flat-square)](https://github.com/Domovikx/The-Survival-of-Sarah-Rose/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/Domovikx/The-Survival-of-Sarah-Rose?style=flat-square)](https://github.com/Domovikx/The-Survival-of-Sarah-Rose/commits/master)
 
 **English · [Русский](#русская-версия)**
 
@@ -58,17 +61,19 @@ Lines are stored as **Opus 24 kbps mono** — ~16× smaller than the intermediat
 
 | Language | Voice files | Status |
 |---|---|---|
-| **Russian (RU)** | `ai_voice/ru/...` | **91.0%** (61 203 / 67 267) |
-| **English (EN)** | `ai_voice/en/...` | **94.4%** (63 528 / 67 267) |
+| **Russian (RU)** | `ai_voice/ru/...` | **92.4%** (62 118 / 67 267) |
+| **English (EN)** | `ai_voice/en/...` | **96.0%** (64 559 / 67 267) |
 
-Current stage (2026-10-14): the whole game is being voiced in background (all 19 arcs × 2
-languages, 134 534 lines total — the whole pack is only ~2 GB thanks to Opus). Generation
-runs at low CPU priority — it doesn't interfere with normal work. Fully voiced (RU + EN):
-**Prologue, StoryBeginnings, Other, WarriorPath, MagePath, BlackMonolith, UnionKingdom,
-HollowWorld, SailorPath, SailorArc, LifeInRahayal, AlfredArc, HassarPath**; EN also
-complete — **Training, VargaMarionPath**; in progress — **VargaMarionPath** (RU 96%),
-**PrisonArc** (EN 48%); queued — **Training, PrisonArc, WarArc, DemonArc, HyralArc**
-(RU) and **WarArc, DemonArc, HyralArc** (EN).
+Overall: **94.2% voiced** (126 677 / 134 534 lines), pack size ≈ 1.6 GB.
+
+Current stage (2026-10-15): the whole game is being voiced in background (all 19 arcs × 2
+languages, 134 534 lines total — the whole pack is only ~1.6 GB thanks to Opus). Generation
+runs at low CPU priority — it doesn't interfere with normal work. Fully voiced in **both
+languages**: **Prologue, StoryBeginnings, Other, WarriorPath, MagePath, BlackMonolith,
+UnionKingdom, HollowWorld, SailorPath, SailorArc, LifeInRahayal, AlfredArc, HassarPath,
+VargaMarionPath**. EN additionally complete — **Training, PrisonArc**. In progress —
+**Training** (RU 55%) and **HyralArc** (EN 18%); queued — **PrisonArc, WarArc, DemonArc,
+HyralArc** (RU) and **WarArc, DemonArc** (EN).
 
 - Voice lookup is automatic: `uid = md5(text)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.opus`
   (`.wav` remains a code-level fallback, but since 2026-10-14 the pack is
@@ -76,7 +81,7 @@ complete — **Training, VargaMarionPath**; in progress — **VargaMarionPath** 
 - Every line has an emotion instruction (state of the narrator/speaker)
 - Fallback: if a file is missing, the game plays silently (no crashes)
 
-> ⚠ The voice pack is ~2 GB (Opus 24 kbps). Check disk space.
+> ⚠ The voice pack is ~1.6 GB (Opus 24 kbps). Check disk space.
 
 ## Contents
 
@@ -159,17 +164,19 @@ Open an issue or submit a pull request on GitHub.
 
 | Язык | Файлы | Статус |
 |---|---|---|
-| **Русский (RU)** | `ai_voice/ru/...` | **91.0%** (61 203 / 67 267) |
-| **Английский (EN)** | `ai_voice/en/...` | **94.4%** (63 528 / 67 267) |
+| **Русский (RU)** | `ai_voice/ru/...` | **92.4%** (62 118 / 67 267) |
+| **Английский (EN)** | `ai_voice/en/...` | **96.0%** (64 559 / 67 267) |
 
-Текущий этап (14.10.2026): вся игра озвучивается в фоне (все 19 арок × 2 языка,
-134 534 реплики — весь пак всего ~2 ГБ благодаря Opus). Генерация идёт с низким
-приоритетом — не мешает работе. Полностью озвучено (RU + EN): **Prologue,
+Итого: **озвучено 94.2%** (126 677 / 134 534 реплик), размер пака ≈ 1.6 ГБ.
+
+Текущий этап (15.10.2026): вся игра озвучивается в фоне (все 19 арок × 2 языка,
+134 534 реплики — весь пак всего ~1.6 ГБ благодаря Opus). Генерация идёт с низким
+приоритетом — не мешает работе. Полностью озвучено **на обоих языках**: **Prologue,
 StoryBeginnings, Other, WarriorPath, MagePath, BlackMonolith, UnionKingdom,
-HollowWorld, SailorPath, SailorArc, LifeInRahayal, AlfredArc, HassarPath**; EN также
-готова — **Training, VargaMarionPath**; в работе — **VargaMarionPath** (RU 96%),
-**PrisonArc** (EN 48%); в очереди — **Training, PrisonArc, WarArc, DemonArc,
-HyralArc** (RU) и **WarArc, DemonArc, HyralArc** (EN).
+HollowWorld, SailorPath, SailorArc, LifeInRahayal, AlfredArc, HassarPath,
+VargaMarionPath**. Дополнительно EN готова — **Training, PrisonArc**. В работе —
+**Training** (RU 55%) и **HyralArc** (EN 18%); в очереди — **PrisonArc, WarArc,
+DemonArc, HyralArc** (RU) и **WarArc, DemonArc** (EN).
 
 - Поиск голоса автоматический: `uid = md5(текста)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.opus`
   (`.wav` играет как фолбэк в коде, но с 2026-10-14 пак только Opus —
@@ -177,7 +184,7 @@ HyralArc** (RU) и **WarArc, DemonArc, HyralArc** (EN).
 - У каждой реплики есть эмоция — состояние диктора/рассказчика
 - Если файла нет — игра просто играет без звука (без ошибок)
 
-> ⚠ Озвучка — ~2 ГБ (Opus 24 кбит/с). Следи за местом на диске.
+> ⚠ Озвучка — ~1.6 ГБ (Opus 24 кбит/с). Следи за местом на диске.
 
 ## Содержание
 
@@ -226,6 +233,23 @@ Prologue, StoryBeginnings, WarriorPath, MagePath, UnionKingdom, HollowWorld, Bla
 - **Репозиторий / Repository:** [github.com/Domovikx/The-Survival-of-Sarah-Rose](https://github.com/Domovikx/The-Survival-of-Sarah-Rose)
 - **Игра в Steam / Game on Steam:** [The Survival of Sarah Rose](https://store.steampowered.com/app/2166470/The_Survival_of_Sarah_Rose/)
 - **Issues:** [github.com/Domovikx/The-Survival-of-Sarah-Rose/issues](https://github.com/Domovikx/The-Survival-of-Sarah-Rose/issues)
+
+---
+
+## SEO / Ключевые слова (для поиска)
+
+**Also known as / Также известен как:** TSSR · Сара Роуз · Sarah Rose русификатор ·
+The Survival of Sarah Rose russian · The Survival of Sarah Rose translation ·
+The Survival of Sarah Rose voice acting · озвучка Сара Роуз.
+
+**Keywords (RU):** русификатор The Survival of Sarah Rose · перевод на русский ·
+русская озвучка · голосовое озвучивание · AI-озвучка · клонирование голоса ·
+визуальная новелла · Ren'Py · мод для игры · фанатский перевод · полностью
+озвученная игра · 18+ новелла · Steam визуальная новелла русский.
+
+**Keywords (EN):** The Survival of Sarah Rose russian localization · russian patch ·
+fan translation · AI voice acting · fully voiced · voice pack · CosyVoice ·
+visual novel · Ren'Py mod · Steam visual novel · TSSR.
 
 ---
 
