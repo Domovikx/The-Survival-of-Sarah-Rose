@@ -26,6 +26,8 @@ const styles = stylex.create({
     minHeight: 28,
     cursor: 'pointer',
     transition: 'background-color 150ms ease, color 150ms ease, box-shadow 150ms ease',
+    ':hover': { color: 'var(--text)' },
+    ':focus-visible': { outline: '2px solid var(--link)', outlineOffset: 1 },
   },
   itemActive: {
     backgroundColor: 'var(--panel)',
@@ -45,6 +47,8 @@ type SegmentedProps<T extends string> = {
   options: ReadonlyArray<SegmentedOption<T>>
   onChange: (value: T) => void
   ariaLabel: string
+  /** data-testid группы (контейнера пилюли) */
+  testId?: string
 }
 
 /**
@@ -56,8 +60,14 @@ export const Segmented = <T extends string>({
   options,
   onChange,
   ariaLabel,
+  testId,
 }: SegmentedProps<T>) => (
-  <div className={stylex.props(styles.group).className} role="group" aria-label={ariaLabel}>
+  <div
+    className={stylex.props(styles.group).className}
+    role="group"
+    aria-label={ariaLabel}
+    data-testid={testId}
+  >
     {options.map((option) => (
       <button
         key={option.value}

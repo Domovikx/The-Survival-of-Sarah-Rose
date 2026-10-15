@@ -29,20 +29,26 @@ const styles = stylex.create({
     color: 'var(--text)',
     marginRight: 'auto',
   },
+  // Вторичный стиль (ghost) — тот же, что у GitHub-ссылки
   steamLink: {
     textDecoration: 'none',
     fontWeight: 600,
     fontSize: 14,
-    color: 'var(--steam-fg)',
-    backgroundColor: 'var(--steam-bg)',
+    color: 'var(--link)',
     borderWidth: 1,
     borderStyle: 'solid',
-    borderColor: 'var(--steam-border)',
+    borderColor: 'var(--border)',
     borderRadius: 8,
     padding: '6px 12px',
     display: 'inline-flex',
     alignItems: 'center',
     gap: 6,
+    transition: 'border-color 150ms ease, background-color 150ms ease',
+    ':hover': {
+      backgroundColor: 'var(--panel-2)',
+      borderColor: 'var(--link)',
+    },
+    ':focus-visible': { outline: '2px solid var(--link)', outlineOffset: 2 },
   },
   ghostLink: {
     textDecoration: 'none',
@@ -54,6 +60,12 @@ const styles = stylex.create({
     borderColor: 'var(--border)',
     borderRadius: 8,
     padding: '6px 12px',
+    transition: 'border-color 150ms ease, background-color 150ms ease',
+    ':hover': {
+      backgroundColor: 'var(--panel-2)',
+      borderColor: 'var(--link)',
+    },
+    ':focus-visible': { outline: '2px solid var(--link)', outlineOffset: 2 },
   },
 })
 
@@ -67,10 +79,14 @@ export const Header = () => {
   const { t } = useTranslation()
 
   return (
-    <header className={stylex.props(styles.header).className}>
+    <header className={stylex.props(styles.header).className} data-testid="header">
       <Container>
-        <div className={stylex.props(styles.inner).className}>
-          <a className={stylex.props(styles.brand).className} href={LINKS.github}>
+        <div className={stylex.props(styles.inner).className} data-testid="header-inner">
+          <a
+            className={stylex.props(styles.brand).className}
+            href={LINKS.github}
+            data-testid="header-brand"
+          >
             {t('header.brand')}
           </a>
           <a
@@ -81,7 +97,11 @@ export const Header = () => {
             <SteamIcon />
             {t('header.steam')}
           </a>
-          <a className={stylex.props(styles.ghostLink).className} href={LINKS.github}>
+          <a
+            className={stylex.props(styles.ghostLink).className}
+            href={LINKS.github}
+            data-testid="header-github"
+          >
             {t('header.github')}
           </a>
           <LanguageSwitcher />

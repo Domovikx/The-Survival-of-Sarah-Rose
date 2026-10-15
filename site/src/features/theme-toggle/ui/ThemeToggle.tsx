@@ -23,7 +23,13 @@ const styles = stylex.create({
     justifyContent: 'center',
     cursor: 'pointer',
     position: 'relative',
-    transition: 'border-color 150ms ease, background-color 150ms ease',
+    transition: 'border-color 150ms ease, background-color 150ms ease, transform 150ms ease',
+    ':hover': {
+      borderColor: 'var(--link)',
+      backgroundColor: 'var(--panel)',
+    },
+    ':active': { transform: 'scale(0.95)' },
+    ':focus-visible': { outline: '2px solid var(--link)', outlineOffset: 2 },
   },
   iconBox: {
     position: 'relative',

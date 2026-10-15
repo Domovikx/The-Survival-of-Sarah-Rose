@@ -12,16 +12,20 @@
   --panel-2: #232b3f;
   --text: #e8ebf2;
   --muted: #9aa4bc;
-  --accent: #e0526f;
-  --accent-hover: #ef6a86;
-  --link: #5aa9e6;
+  /* Акцент — индиго (холодный, в одной гамме со Steam-синим,
+   * 2026-10-15: красный и янтарь убраны — диссонировали) */
+  --accent: #5563d8;
+  --accent-fg: #9aa6f5;
+  --accent-hover: #4653c4;
+  /* Ссылки в индиго-гамме */
+  --link: #9aa6f5;
   --border: #2d3550;
   --steam-fg: #ffffff;
   --steam-bg: #1b2838;
   --steam-border: #66c0f4;
-  --age-fg: #ff9db0;
-  --age-bg: #3a1520;
-  --age-border: #6b2233;
+  --age-fg: #9aa6f5;
+  --age-bg: #1b2140;
+  --age-border: #384180;
 }
 
 :root[data-theme='light'] {
@@ -30,16 +34,19 @@
   --panel-2: #eef1f8;
   --text: #1a2030;
   --muted: #5a6478;
-  --accent: #c73a58;
-  --accent-hover: #e0526f;
-  --link: #1c6fb8;
+  /* Акцент — индиго (см. тёмную тему) */
+  --accent: #3f4dbf;
+  --accent-fg: #3f4dbf;
+  --accent-hover: #33409b;
+  /* Ссылки в индиго-гамме */
+  --link: #3f4dbf;
   --border: #d7dcea;
   --steam-fg: #ffffff;
   --steam-bg: #1b2838;
   --steam-border: #2a475e;
-  --age-fg: #a3203c;
-  --age-bg: #ffe6ec;
-  --age-border: #f0a8b8;
+  --age-fg: #3f4dbf;
+  --age-bg: #e9ebfa;
+  --age-border: #bcc3f0;
 }
 
 /* ВАЖНО: правила документа — ТОЛЬКО в @layer base: вне слоёв они бьют
@@ -63,7 +70,9 @@
   a {
     color: var(--link);
   }
-  a:hover {
+  /* Кнопкам (классы есть) hover задают их собственные stylex-стили —
+   * глобальный фильтр бьёт только по «голым» текстовым ссылкам. */
+  a:not([class]):hover {
     filter: brightness(1.15);
   }
 

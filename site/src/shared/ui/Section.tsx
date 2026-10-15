@@ -16,12 +16,16 @@ const styles = stylex.create({
   },
 })
 
-type SectionProps = PropsWithChildren<{ title?: string }>
+type SectionProps = PropsWithChildren<{ title?: string; testId?: string }>
 
-export const Section = ({ title, children }: SectionProps) => (
-  <section className={stylex.props(styles.section).className}>
+export const Section = ({ title, children, testId }: SectionProps) => (
+  <section className={stylex.props(styles.section).className} data-testid={testId}>
     <Container>
-      {title ? <h2 className={stylex.props(styles.title).className}>{title}</h2> : null}
+      {title ? (
+        <h2 className={stylex.props(styles.title).className} data-testid={testId && `${testId}-title`}>
+          {title}
+        </h2>
+      ) : null}
       {children}
     </Container>
   </section>

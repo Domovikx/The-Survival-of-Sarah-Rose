@@ -28,24 +28,33 @@ const styles = stylex.create({
 })
 
 const CARDS = [
-  { icon: '🌐', titleKey: 'features.translateTitle', textKey: 'features.translateText' },
-  { icon: '🎙', titleKey: 'features.voiceTitle', textKey: 'features.voiceText' },
-  { icon: '🎭', titleKey: 'features.emotionTitle', textKey: 'features.emotionText' },
-  { icon: '🗣', titleKey: 'features.voicesTitle', textKey: 'features.voicesText' },
+  { icon: '🌐', titleKey: 'features.translateTitle', textKey: 'features.translateText', testId: 'features-card-translate' },
+  { icon: '🎙', titleKey: 'features.voiceTitle', textKey: 'features.voiceText', testId: 'features-card-voice' },
+  { icon: '🎭', titleKey: 'features.emotionTitle', textKey: 'features.emotionText', testId: 'features-card-emotion' },
+  { icon: '🗣', titleKey: 'features.voicesTitle', textKey: 'features.voicesText', testId: 'features-card-voices' },
 ] as const
 
 export const Features = () => {
   const { t } = useTranslation()
 
   return (
-    <Section title={t('features.title')}>
-      <div className={stylex.props(styles.grid).className}>
+    <Section title={t('features.title')} testId="features">
+      <div className={stylex.props(styles.grid).className} data-testid="features-grid">
         {CARDS.map((card) => (
-          <div key={card.titleKey} className={stylex.props(styles.card).className}>
-            <h3 className={stylex.props(styles.cardTitle).className}>
+          <div
+            key={card.titleKey}
+            className={stylex.props(styles.card).className}
+            data-testid={card.testId}
+          >
+            <h3
+              className={stylex.props(styles.cardTitle).className}
+              data-testid={`${card.testId}-title`}
+            >
               {card.icon} {t(card.titleKey)}
             </h3>
-            <p className={stylex.props(styles.cardText).className}>{t(card.textKey)}</p>
+            <p className={stylex.props(styles.cardText).className} data-testid={`${card.testId}-text`}>
+              {t(card.textKey)}
+            </p>
           </div>
         ))}
       </div>

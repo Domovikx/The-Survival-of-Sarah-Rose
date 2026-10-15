@@ -1,3 +1,4 @@
+import { DemoPhrases } from '@/widgets/demo'
 import { Faq } from '@/widgets/faq'
 import { Features } from '@/widgets/features'
 import { Footer } from '@/widgets/footer'
@@ -10,9 +11,10 @@ import { VoiceStatus } from '@/widgets/voice-status'
 export const App = () => (
   <>
     <Header />
-    <main>
+    <main data-testid="main">
       <Hero />
       <Features />
+      <DemoPhrases />
       <VoiceStatus />
       <Install />
       <Screenshots />

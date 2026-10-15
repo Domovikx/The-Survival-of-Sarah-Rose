@@ -2,14 +2,15 @@
 <html lang="en" data-theme="dark">
 <head>
 <meta charset="utf-8">
+<!-- Порядок слоёв ДО инъекции stylex (dev кладёт правила в priority1..3,
+     prod — в stylex; без этого объявления base-правила (a{}) бьют их в dev) -->
+<style>@layer base, priority1, priority2, priority3, stylex;</style>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The Survival of Sarah Rose — Russian localization + AI voice pack</title>
-<meta name="description" content="The Survival of Sarah Rose русификатор: полный перевод 68 254 строк + AI-озвучка 75+ клонированных голосов на русском и английском. Бесплатно, 18+.">
+<meta name="description" content="Survival of Sarah Rose Russian patch: full fan translation (68,254 lines) + AI voice acting with 75+ cloned voices in Russian and English. Free, 18+.">
 <link rel="canonical" href="https://domovikx.github.io/The-Survival-of-Sarah-Rose/">
-<link rel="alternate" hreflang="en" href="https://domovikx.github.io/The-Survival-of-Sarah-Rose/">
-<link rel="alternate" hreflang="ru" href="https://domovikx.github.io/The-Survival-of-Sarah-Rose/">
-<link rel="alternate" hreflang="x-default" href="https://domovikx.github.io/The-Survival-of-Sarah-Rose/">
 <meta name="robots" content="index, follow">
+<meta name="rating" content="adult">
 <meta name="theme-color" content="#141824">
 
 <meta property="og:type" content="website">
@@ -19,11 +20,13 @@
 <meta property="og:title" content="The Survival of Sarah Rose — Русификатор + AI-озвучка (RU+EN)">
 <meta property="og:description" content="Полный русский перевод (68 254 строки) и полностью озвученная игра: 75+ клонированных голосов, эмоциональная подача, Opus 24 кбит/с. Бесплатно, 18+.">
 <meta property="og:url" content="https://domovikx.github.io/The-Survival-of-Sarah-Rose/">
-<meta property="og:image" content="https://raw.githubusercontent.com/Domovikx/The-Survival-of-Sarah-Rose/master/screenshots/dialogue_russian_1.jpg">
+<meta property="og:image" content="https://domovikx.github.io/The-Survival-of-Sarah-Rose/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="The Survival of Sarah Rose — Русификатор + AI-озвучка (RU+EN)">
 <meta name="twitter:description" content="Полный русский перевод и полностью озвученная игра: 75+ клонированных голосов, эмоции в каждой реплике. Бесплатно, 18+.">
-<meta name="twitter:image" content="https://raw.githubusercontent.com/Domovikx/The-Survival-of-Sarah-Rose/master/screenshots/dialogue_russian_1.jpg">
+<meta name="twitter:image" content="https://domovikx.github.io/The-Survival-of-Sarah-Rose/og.jpg">
 
 <script type="application/ld+json">
 {
@@ -43,9 +46,24 @@
   "description": "Неофициальный фанатский перевод визуальной новеллы The Survival of Sarah Rose на русский язык и AI-озвучка на русском и английском: 68 254 переведённые строки, 75+ клонированных голосов, эмоциональная подача каждой реплики."
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "TSSR — Russian Localization + AI Voice Pack",
+  "url": "https://domovikx.github.io/The-Survival-of-Sarah-Rose/",
+  "inLanguage": ["en", "ru"],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Domovikx",
+    "url": "https://github.com/Domovikx",
+    "sameAs": ["https://github.com/Domovikx"]
+  }
+}
+</script>
 </head>
 <body>
-<div id="root"></div>
+<div id="root" data-testid="app-root"></div>
 <noscript>
   <p>The Survival of Sarah Rose — Russian localization + AI voice pack: full Russian
   translation (68 254 lines) and fully voiced game (75+ cloned voices, RU + EN). Free,

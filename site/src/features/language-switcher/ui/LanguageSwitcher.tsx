@@ -21,6 +21,7 @@ export const LanguageSwitcher = () => {
       options={[...OPTIONS]}
       onChange={(lang) => setLang(lang)}
       ariaLabel={t('header.langLabel')}
+      testId="lang-switcher"
     />
   )
 }

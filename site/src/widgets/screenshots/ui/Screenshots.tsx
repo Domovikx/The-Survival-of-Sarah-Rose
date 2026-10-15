@@ -1,8 +1,9 @@
 import * as stylex from '@stylexjs/stylex'
 import { useTranslation } from 'react-i18next'
 
-import { LINKS } from '@/shared/config'
 import { Section } from '@/shared/ui'
+
+const SHOTS_BASE = `${import.meta.env.BASE_URL}shots/`
 
 const styles = stylex.create({
   grid: {
@@ -40,17 +41,25 @@ export const Screenshots = () => {
   const { t } = useTranslation()
 
   return (
-    <Section title={t('shots.title')}>
-      <div className={stylex.props(styles.grid).className}>
-        {SHOTS.map((shot) => (
-          <figure key={shot.file} className={stylex.props(styles.figure).className}>
+    <Section title={t('shots.title')} testId="screenshots">
+      <div className={stylex.props(styles.grid).className} data-testid="screenshots-grid">
+        {SHOTS.map((shot, i) => (
+          <figure
+            key={shot.file}
+            className={stylex.props(styles.figure).className}
+            data-testid={`screenshot-${i}`}
+          >
             <img
               className={stylex.props(styles.img).className}
-              src={`${LINKS.rawBase}/${shot.file}`}
+              src={`${SHOTS_BASE}${shot.file}`}
               alt={t(shot.altKey)}
               loading="lazy"
+              data-testid={`screenshot-img-${i}`}
             />
-            <figcaption className={stylex.props(styles.caption).className}>
+            <figcaption
+              className={stylex.props(styles.caption).className}
+              data-testid={`screenshot-caption-${i}`}
+            >
               {t(shot.capKey)}
             </figcaption>
           </figure>

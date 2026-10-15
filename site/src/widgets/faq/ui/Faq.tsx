@@ -30,26 +30,44 @@ export const Faq = () => {
   const { t } = useTranslation()
 
   return (
-    <Section title={t('faq.title')}>
-      <div className={stylex.props(styles.panel).className}>
-        <div className={stylex.props(styles.qa).className}>
-          <h3 className={stylex.props(styles.q).className}>{t('faq.q1')}</h3>
-          <p className={stylex.props(styles.a).className}>{t('faq.a1')}</p>
-        </div>
-        <div className={stylex.props(styles.qa).className}>
-          <h3 className={stylex.props(styles.q).className}>{t('faq.q2')}</h3>
-          <p className={stylex.props(styles.a).className}>{t('faq.a2')}</p>
-        </div>
-        <div className={stylex.props(styles.qa).className}>
-          <h3 className={stylex.props(styles.q).className}>{t('faq.q3')}</h3>
-          <p className={stylex.props(styles.a).className}>
-            {t('faq.a3')} <a href={LINKS.license}>{t('footer.linkLicense')}</a>
+    <Section title={t('faq.title')} testId="faq">
+      <div className={stylex.props(styles.panel).className} data-testid="faq-panel">
+        <div className={stylex.props(styles.qa).className} data-testid="faq-item-1">
+          <h3 className={stylex.props(styles.q).className} data-testid="faq-q-1">
+            {t('faq.q1')}
+          </h3>
+          <p className={stylex.props(styles.a).className} data-testid="faq-a-1">
+            {t('faq.a1')}
           </p>
         </div>
-        <div className={stylex.props(styles.qa).className}>
-          <h3 className={stylex.props(styles.q).className}>{t('faq.q4')}</h3>
-          <p className={stylex.props(styles.a).className}>
-            {t('faq.a4')} <a href={LINKS.github}>{t('footer.linkGithub')}</a>
+        <div className={stylex.props(styles.qa).className} data-testid="faq-item-2">
+          <h3 className={stylex.props(styles.q).className} data-testid="faq-q-2">
+            {t('faq.q2')}
+          </h3>
+          <p className={stylex.props(styles.a).className} data-testid="faq-a-2">
+            {t('faq.a2')}
+          </p>
+        </div>
+        <div className={stylex.props(styles.qa).className} data-testid="faq-item-3">
+          <h3 className={stylex.props(styles.q).className} data-testid="faq-q-3">
+            {t('faq.q3')}
+          </h3>
+          <p className={stylex.props(styles.a).className} data-testid="faq-a-3">
+            {t('faq.a3')}{' '}
+            <a href={LINKS.license} data-testid="faq-license-link">
+              {t('footer.linkLicense')}
+            </a>
+          </p>
+        </div>
+        <div className={stylex.props(styles.qa).className} data-testid="faq-item-4">
+          <h3 className={stylex.props(styles.q).className} data-testid="faq-q-4">
+            {t('faq.q4')}
+          </h3>
+          <p className={stylex.props(styles.a).className} data-testid="faq-a-4">
+            {t('faq.a4')}{' '}
+            <a href={LINKS.github} data-testid="faq-github-link">
+              {t('footer.linkGithub')}
+            </a>
           </p>
         </div>
       </div>

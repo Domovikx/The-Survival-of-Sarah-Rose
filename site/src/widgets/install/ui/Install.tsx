@@ -30,14 +30,22 @@ export const Install = () => {
   const { t } = useTranslation()
 
   return (
-    <Section title={t('install.title')}>
-      <div className={stylex.props(styles.panel).className}>
-        <ol className={stylex.props(styles.list).className}>
-          <li className={stylex.props(styles.item).className}>{t('install.step1')}</li>
-          <li className={stylex.props(styles.item).className}>{t('install.step2')}</li>
-          <li className={stylex.props(styles.item).className}>{t('install.step3')}</li>
+    <Section title={t('install.title')} testId="install">
+      <div className={stylex.props(styles.panel).className} data-testid="install-panel">
+        <ol className={stylex.props(styles.list).className} data-testid="install-steps">
+          <li className={stylex.props(styles.item).className} data-testid="install-step-1">
+            {t('install.step1')}
+          </li>
+          <li className={stylex.props(styles.item).className} data-testid="install-step-2">
+            {t('install.step2')}
+          </li>
+          <li className={stylex.props(styles.item).className} data-testid="install-step-3">
+            {t('install.step3')}
+          </li>
         </ol>
-        <p className={stylex.props(styles.note).className}>{t('install.note')}</p>
+        <p className={stylex.props(styles.note).className} data-testid="install-note">
+          {t('install.note')}
+        </p>
       </div>
     </Section>
   )

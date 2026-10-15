@@ -50,21 +50,33 @@ const styles = stylex.create({
     justifyContent: 'center',
     margin: '20px 0 8px',
   },
+  // Вторичный стиль (ghost) — общий для «Steam» и «Исходники на GitHub»
   steamBtn: {
     display: 'inline-flex',
     alignItems: 'center',
     gap: 8,
-    padding: '13px 26px',
+    padding: '12px 22px',
     borderRadius: 10,
     textDecoration: 'none',
-    fontWeight: 700,
+    fontWeight: 600,
     fontSize: 16,
-    color: 'var(--steam-fg)',
-    backgroundColor: 'var(--steam-bg)',
-    borderWidth: 2,
+    color: 'var(--text)',
+    backgroundColor: 'transparent',
+    borderWidth: 1,
     borderStyle: 'solid',
-    borderColor: 'var(--steam-border)',
-    boxShadow: '0 0 18px color-mix(in srgb, var(--steam-border) 35%, transparent)',
+    borderColor: 'var(--border)',
+    transition: 'border-color 150ms ease, background-color 150ms ease, transform 150ms ease',
+    ':hover': {
+      backgroundColor: 'var(--panel-2)',
+      borderColor: 'var(--link)',
+      transform: 'translateY(-1px)',
+    },
+    ':active': { transform: 'translateY(0)' },
+    ':focus-visible': { outline: '2px solid var(--link)', outlineOffset: 2 },
+    '@media (max-width: 480px)': {
+      fontSize: 14,
+      padding: '10px 14px',
+    },
   },
   ghostBtn: {
     display: 'inline-flex',
@@ -77,16 +89,46 @@ const styles = stylex.create({
     borderWidth: 1,
     borderStyle: 'solid',
     borderColor: 'var(--border)',
+    transition: 'border-color 150ms ease, background-color 150ms ease, transform 150ms ease',
+    ':hover': {
+      backgroundColor: 'var(--panel-2)',
+      borderColor: 'var(--link)',
+      transform: 'translateY(-1px)',
+    },
+    ':active': { transform: 'translateY(0)' },
+    ':focus-visible': { outline: '2px solid var(--link)', outlineOffset: 2 },
   },
+  // Единственный акцент в ряду: заливка + glow (стиль перенесён со старого
+  // Steam-кнопки, но в фирменном красном — синий остался только у Steam-бренда)
   mainBtn: {
     display: 'inline-flex',
     alignItems: 'center',
     padding: '12px 22px',
     borderRadius: 10,
     textDecoration: 'none',
-    fontWeight: 600,
+    fontWeight: 700,
+    fontSize: 16,
     color: '#fff',
     backgroundColor: 'var(--accent)',
+    borderWidth: 2,
+    borderStyle: 'solid',
+    borderColor: 'var(--accent)',
+    boxShadow:
+      '0 0 0 1px var(--accent), 0 8px 24px color-mix(in srgb, var(--accent) 35%, transparent)',
+    transition: 'box-shadow 150ms ease, transform 150ms ease, background-color 150ms ease',
+    ':hover': {
+      backgroundColor: 'var(--accent-hover)',
+      boxShadow:
+        '0 0 0 1px var(--accent-hover), 0 10px 30px color-mix(in srgb, var(--accent) 55%, transparent)',
+      transform: 'translateY(-1px)',
+    },
+    ':active': { transform: 'translateY(0) scale(0.99)' },
+    // Нейтральное кольцо (WCAG 2.4.11 — на заливке нейтраль читается любого цвета)
+    ':focus-visible': { outline: '2px solid var(--text)', outlineOffset: 2 },
+    '@media (max-width: 480px)': {
+      fontSize: 14,
+      padding: '10px 14px',
+    },
   },
   hint: {
     color: 'var(--muted)',
@@ -105,19 +147,37 @@ export const Hero = () => {
   const { t } = useTranslation()
 
   return (
-    <section className={stylex.props(styles.hero).className}>
-      <h1 className={stylex.props(styles.title).className}>{t('hero.title')}</h1>
-        <p className={stylex.props(styles.sub).className}>{t('hero.subtitle')}</p>
-        <div className={stylex.props(styles.badges).className}>
-          <span className={stylex.props(styles.badge).className}>{t('hero.badgeTranslate')}</span>
-          <span className={stylex.props(styles.badge).className}>{t('hero.badgeVoice')}</span>
-          <span className={stylex.props(styles.badge).className}>{t('hero.badgeFormat')}</span>
-          <span className={stylex.props(styles.badge).className}>{t('hero.badgeEngine')}</span>
-          <span className={stylex.props(styles.badge, styles.badgeAge).className}>
+    <section className={stylex.props(styles.hero).className} data-testid="hero">
+      <h1 className={stylex.props(styles.title).className} data-testid="hero-title">
+        {t('hero.title')}
+      </h1>
+        <p className={stylex.props(styles.sub).className} data-testid="hero-subtitle">
+          {t('hero.subtitle')}
+        </p>
+        <div className={stylex.props(styles.badges).className} data-testid="hero-badges">
+          <span
+            className={stylex.props(styles.badge).className}
+            data-testid="hero-badge-translate"
+          >
+            {t('hero.badgeTranslate')}
+          </span>
+          <span className={stylex.props(styles.badge).className} data-testid="hero-badge-voice">
+            {t('hero.badgeVoice')}
+          </span>
+          <span className={stylex.props(styles.badge).className} data-testid="hero-badge-format">
+            {t('hero.badgeFormat')}
+          </span>
+          <span className={stylex.props(styles.badge).className} data-testid="hero-badge-engine">
+            {t('hero.badgeEngine')}
+          </span>
+          <span
+            className={stylex.props(styles.badge, styles.badgeAge).className}
+            data-testid="hero-badge-age"
+          >
             {t('hero.badgeAge')}
           </span>
         </div>
-        <div className={stylex.props(styles.cta).className}>
+        <div className={stylex.props(styles.cta).className} data-testid="hero-cta">
           <a
             className={stylex.props(styles.steamBtn).className}
             href={LINKS.steam}
@@ -133,11 +193,17 @@ export const Hero = () => {
           >
             {t('hero.ctaDownload')}
           </a>
-          <a className={stylex.props(styles.ghostBtn).className} href={LINKS.github}>
+          <a
+            className={stylex.props(styles.ghostBtn).className}
+            href={LINKS.github}
+            data-testid="hero-github"
+          >
             {t('hero.ctaGithub')}
           </a>
         </div>
-        <p className={stylex.props(styles.hint).className}>{t('hero.installHint')}</p>
+        <p className={stylex.props(styles.hint).className} data-testid="hero-hint">
+          {t('hero.installHint')}
+        </p>
     </section>
   )
 }

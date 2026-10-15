@@ -26,24 +26,36 @@ export const Footer = () => {
   const { t } = useTranslation()
 
   return (
-    <footer className={stylex.props(styles.footer).className}>
+    <footer className={stylex.props(styles.footer).className} data-testid="footer">
       <Container>
-        <p>{t('footer.disclaimer')}</p>
-        <ul className={stylex.props(styles.links).className} aria-label={t('footer.linksLabel')}>
+        <p data-testid="footer-disclaimer">{t('footer.disclaimer')}</p>
+        <ul
+          className={stylex.props(styles.links).className}
+          aria-label={t('footer.linksLabel')}
+          data-testid="footer-links"
+        >
           <li>
-            <a href={LINKS.github}>{t('footer.linkGithub')}</a>
+            <a href={LINKS.github} data-testid="footer-link-github">
+              {t('footer.linkGithub')}
+            </a>
           </li>
           <li>
-            <a href={LINKS.steam}>{t('footer.linkSteam')}</a>
+            <a href={LINKS.steam} data-testid="footer-link-steam">
+              {t('footer.linkSteam')}
+            </a>
           </li>
           <li>
-            <a href={LINKS.issues}>{t('footer.linkIssues')}</a>
+            <a href={LINKS.issues} data-testid="footer-link-issues">
+              {t('footer.linkIssues')}
+            </a>
           </li>
           <li>
-            <a href={LINKS.license}>{t('footer.linkLicense')}</a>
+            <a href={LINKS.license} data-testid="footer-link-license">
+              {t('footer.linkLicense')}
+            </a>
           </li>
           <li>
-            <b>{t('footer.age')}</b>
+            <b data-testid="footer-age">{t('footer.age')}</b>
           </li>
         </ul>
       </Container>

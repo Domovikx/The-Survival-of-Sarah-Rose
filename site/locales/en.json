@@ -35,6 +35,19 @@
     "voicesTitle": "75+ unique voices",
     "voicesText": "Sarah, Narrator, King Orwell, Kate, Thomas, Varga and dozens of other characters."
   },
+  "demo": {
+    "title": "Hear it in action",
+    "lead": "Real in-game lines with AI voice acting: cloned voices, live emotions. Hit a line — and hear the result.",
+    "play": "Play: {{name}}",
+    "pause": "Pause: {{name}}",
+    "phrases": [
+      { "speaker": "Thomas", "text": "Pleeeeease don't send me back, ok? I really can't fall asleep." },
+      { "speaker": "Carolyn", "text": "Come now dear, don't be silly. You think I've never seen anyone naked before?" },
+      { "speaker": "Sarah", "text": "You don't think I have a thousand excuses to drink myself to death in a ditch somewhere?" },
+      { "speaker": "Garret", "text": "No! Please! Don't harm her! She had nothing to do with this. This was my doing, please!" },
+      { "speaker": "Varga", "text": "I AM THE GREAT BASILISK, AND YOUR BELOVED WILL REMAIN WITH ME FOREVER!!!" }
+    ]
+  },
   "voice": {
     "title": "Voice acting progress",
     "total": "94.2% voiced overall (126 677 of 134 534 lines, data as of 2026-10-15). Generation runs in the background — a few days to 100%.",
