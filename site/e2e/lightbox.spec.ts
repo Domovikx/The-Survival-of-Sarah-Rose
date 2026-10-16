@@ -52,12 +52,12 @@ test.describe('скриншоты: сетка', () => {
     for (let i = 0; i < 6; i++) {
       await expect(page.getByTestId(`screenshot-img-${i}`)).toBeVisible()
     }
-    await expect(page.getByTestId('screenshot-caption-0')).toHaveText('Main menu')
-    await expect(page.getByTestId('screenshot-caption-4')).toHaveText(
-      "Sara runs into her father's arms",
+    await expect(page.getByTestId('screenshot-caption-0')).toHaveText(
+      'Patch page: language, voice, fonts',
     )
+    await expect(page.getByTestId('screenshot-caption-1')).toHaveText('Main menu')
     await expect(page.getByTestId('screenshot-caption-5')).toHaveText(
-      'Language switch in settings',
+      'Narration over the royal capital',
     )
   })
 })
@@ -74,9 +74,11 @@ test.describe('скриншоты: лайтбокс', () => {
     await expect(counter(page)).toHaveText('1 / 6')
     await expect(page.getByTestId('lightbox-img')).toHaveAttribute(
       'src',
-      /main_menu_english\.jpg$/,
+      /language_settings_english\.jpg$/,
     )
-    await expect(page.getByTestId('lightbox')).toContainText('Main menu')
+    await expect(page.getByTestId('lightbox')).toContainText(
+      'Patch page: language, voice, fonts',
+    )
     // Прокрутка фона заблокирована (APG: под контентом диалога inert).
     await expect
       .poll(() => page.evaluate(() => document.body.style.overflow))
@@ -93,7 +95,7 @@ test.describe('скриншоты: лайтбокс', () => {
     await expect(counter(page)).toHaveText('2 / 6')
     await expect(page.getByTestId('lightbox-img')).toHaveAttribute(
       'src',
-      /dialogue_1_english\.jpg$/,
+      /main_menu_english\.jpg$/,
     )
     await expect(dialog(page)).toBeVisible()
 
@@ -200,12 +202,12 @@ test.describe('скриншоты: лайтбокс', () => {
     await expect(dialog(page)).toBeHidden()
   })
 
-  test('открытие со страницы патча (последний тюмб) — свой кадр', async ({ page }) => {
-    await openLightbox(page, 5)
-    await expect(counter(page)).toHaveText('6 / 6')
+  test('открытие с середины галереи — свой кадр', async ({ page }) => {
+    await openLightbox(page, 4)
+    await expect(counter(page)).toHaveText('5 / 6')
     await expect(page.getByTestId('lightbox-img')).toHaveAttribute(
       'src',
-      /language_settings_english\.jpg$/,
+      /dialogue_3_english\.jpg$/,
     )
   })
 })

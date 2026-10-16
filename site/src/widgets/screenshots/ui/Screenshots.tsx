@@ -203,12 +203,15 @@ const styles = stylex.create({
 const SHOTS = [
   // Файлы: {stem}_{russian|english}.jpg — суффикс = версия игры под язык
   // лендинга (снимаются отдельно: tools/shots_capture.ps1 -> shots_for_site.py).
-  { stem: 'main_menu', capKey: 'shots.cap1', altKey: 'shots.cap1' },
-  { stem: 'dialogue_1', capKey: 'shots.cap2', altKey: 'shots.cap2' },
-  { stem: 'dialogue_2', capKey: 'shots.cap4', altKey: 'shots.cap4' },
-  { stem: 'dialogue_3', capKey: 'shots.cap5', altKey: 'shots.cap5' },
-  { stem: 'dialogue_4', capKey: 'shots.cap6', altKey: 'shots.cap6' },
+  // Страница патча ПЕРВОЙ — главный продукт (требование владельца 2026-10-16),
+  // затем бренд-меню и сцены с видимым диалоговым окном (маркетинг: текст =
+  // доказательство перевода, эмоции = цепляют).
   { stem: 'language_settings', capKey: 'shots.cap3', altKey: 'shots.cap3' },
+  { stem: 'main_menu', capKey: 'shots.cap1', altKey: 'shots.cap1' },
+  { stem: 'dialogue_1', capKey: 'shots.cap6', altKey: 'shots.cap6' },
+  { stem: 'dialogue_2', capKey: 'shots.cap4', altKey: 'shots.cap4' },
+  { stem: 'dialogue_3', capKey: 'shots.cap2', altKey: 'shots.cap2' },
+  { stem: 'dialogue_4', capKey: 'shots.cap5', altKey: 'shots.cap5' },
 ] as const
 
 const shotSrc = (stem: string, lang: string) => `${SHOTS_BASE}${stem}_${lang}.jpg`
