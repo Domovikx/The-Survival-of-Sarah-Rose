@@ -225,21 +225,22 @@ init python:
         ("font_title_size", "tssr_fs_title", "TSSR Game Title"),
     ]
 
-    class TssrFsInput(VariableInputValue):
-        # Инпут для INT-черновиков tssr_fs_*: в 7.4.11 input_post_per_interact
-        # берёт get_text() сырым и делает len() — VariableInputValue отдаёт
-        # переменную как есть -> «TypeError: object of type 'int' has no len()».
-        # Наследник отдаёт строкой, set_text() пишет обратно int (пусто при
-        # стирании = черновик не трогаем); нормализация и кламп — в _tssr_fs_norm.
-        def get_text(self):
-            return str(globals()[self.variable])
+    def tssr_fs_bump(var, delta):
+        # Кнопки +/- (страница настроек): целочисленная правка черновика.
+        # Инпуты убраны осознанно: в Ren'Py 7.4.11 клик по инпуту НЕ активирует
+        # редактирование (в Input.event нет ветки мыши; editable выставляет
+        # только InputValue.Enable/Disable) — жить могло лишь default-поле.
+        # Мусор в поле = считаем 24; нормализация и кламп — в _tssr_fs_norm.
+        st = globals()
+        try:
+            v = int(str(st[var]).strip())
+        except Exception:
+            v = 24
+        st[var] = max(10, min(160, v + delta))
 
-        def set_text(self, s):
-            try:
-                globals()[self.variable] = int(str(s).strip())
-            except Exception:
-                pass
-            renpy.restart_interaction()
+    def tssr_fs_display(var):
+        # Текущее значение черновика для показа в строке +/-.
+        return str(globals()[var])
 
     def _tssr_fs_norm(attr, value):
         # Поле ввода -> строка, persistent -> int. Валидное целое зажимается
@@ -321,23 +322,33 @@ label before_main_menu:
     $ tssr_menu_marker("before_main_menu")
     return
 
-screen tssr_button():
+screen tssr_button(quiet=False):
     # Общая кнопка-бейдж (подпись = текущий язык: RUS/ENG), правый верхний
     # угол. Скрываем, пока открыта страница настроек (она сама содержит языки).
+    # quiet=True (процесс игры): idle почти невидим, hover вспыхивает
+    # (progressive disclosure: редкая вторичная настройка не должна съедать
+    # канву, но обязана быть находимой; hitbox полный — кликабельно всегда).
     if not renpy.get_screen("tssr_mod_menu"):
         frame:
             style "empty"
             xalign 0.98
             yalign 0.05
 
-            textbutton tssr_current_short():
-                # Снапшот черновика ДО открытия (порядок гарантирован).
-                action [Function(tssr_fs_snapshot), ShowMenu("tssr_mod_menu")]
-                style "tssr_badge"
+            if quiet:
+                textbutton tssr_current_short():
+                    # Снапшот черновика ДО открытия (порядок гарантирован).
+                    action [Function(tssr_fs_snapshot), ShowMenu("tssr_mod_menu")]
+                    style "tssr_badge_quiet"
+            else:
+                textbutton tssr_current_short():
+                    action [Function(tssr_fs_snapshot), ShowMenu("tssr_mod_menu")]
+                    style "tssr_badge"
 
 screen tssr_menu_hook():
     # ГЛАВНОЕ МЕНЮ: показывается label'ом before_main_menu; в overlay-списке
     # НЕ состоит — движок его в меню не прячет (в отличие от game_hook).
+    # В меню бейдж ПОЛНОСТЬЮ видим: там нет «картинки», которую он съедает,
+    # и он — основная точка входа в настройки (контекстное разделение БП).
     zorder 50
     on "show" action Function(tssr_menu_marker, "menu_hook")
     use tssr_button
@@ -345,9 +356,10 @@ screen tssr_menu_hook():
 screen tssr_game_hook():
     # ПРОЦЕСС ИГРЫ: в config.overlay_screens (см. init python выше) — видна
     # всю игру; в меню и на сплэше движок прячет её автоматически.
+    # Тихий режим: idle 35% текст / 12% фон -> hover-акцент (см. стили ниже).
     zorder 50
     on "show" action Function(tssr_menu_marker, "game_hook")
-    use tssr_button
+    use tssr_button (quiet=True)
 
 
 ################################################################################
@@ -437,13 +449,21 @@ screen tssr_mod_menu():
                     text _(title):
                         style "tssr_mod_row"
 
+                    textbutton "-":
+                        action [Function(tssr_fs_bump, var, -1), Function(renpy.restart_interaction)]
+                        style "tssr_step"
+                        yalign 0.5
+
                     frame:
                         style "tssr_mod_input_box"
 
-                        input value TssrFsInput(var):
-                            allow "0123456789"
-                            length 3
-                            style "tssr_mod_input"
+                        text tssr_fs_display(var):
+                            style "tssr_mod_value"
+
+                    textbutton "+":
+                        action [Function(tssr_fs_bump, var, 1), Function(renpy.restart_interaction)]
+                        style "tssr_step"
+                        yalign 0.5
 
                     text _("TSSR Preview text"):
                         style "tssr_mod_preview"
@@ -453,12 +473,16 @@ screen tssr_mod_menu():
                 action [Function(tssr_fs_reset_draft), Function(renpy.restart_interaction)]
                 style "tssr_secondary"
 
-            ## Ссылки (сейчас GitHub; Boosty — когда будет постоянная ссылка)
+            ## Ссылки: ОДНА — лендинг (GitHub Pages). Разбор СЕО/маркетинга
+            ## (владелец): «проект» шире «патча» (hub локализации+озвучки,
+            ## статус, скачивание; «патч» = узкий технический фикс), а репа —
+            ## не витрина. ★ убрана: глифа U+2605 нет в Literata.
+            ## Boosty — когда будет постоянная ссылка.
             text _("TSSR Links"):
                 style "tssr_mod_section"
 
-            textbutton _("TSSR GitHub star"):
-                action OpenURL("https://github.com/Domovikx/The-Survival-of-Sarah-Rose")
+            textbutton _("TSSR Site"):
+                action OpenURL("https://domovikx.github.io/The-Survival-of-Sarah-Rose/")
                 style "tssr_link"
 
             # TODO(Boosty): раскомментировать, когда будет постоянный адрес:
@@ -492,12 +516,13 @@ screen tssr_mod_menu():
     key "game_menu" action (Function(tssr_fs_apply) if tssr_fs_dirty() else Return())
 
 
-## Фон: вся страница, тёмный полупрозрачный — фон меню слегка виден (UX-просьба
-## владельца: «тёмный фон с небольшой прозрачностью, чтобы заднюю часть видеть»).
+## Фон: вся страница, тёмный полупрозрачный — фон меню едва виден (правка
+## владельца 2026-10-16: «хочется больше уровень затемнения»: c7=78% -> e6=90%;
+## ещё темнее — f2=95%).
 style tssr_mod_page is frame:
     xfill True
     yfill True
-    background Solid("#0b0e14c7")
+    background Solid("#0b0e14e6")
     padding (60, 40, 60, 40)
 
 ## Колонка контента: ФИКСИРОВАННАЯ ширина — контент не меняет геометрию.
@@ -525,14 +550,43 @@ style tssr_mod_row is gui_text:
     xsize 300
     yalign 0.5
 
+## Material-стиль (правка владельца 2026-10-16: «строгие прямоугольники» ->
+## скруглённые пилюли): в Ren'Py 7.4 нет нативного border-radius — скругление
+## через 9-slice рамку картинок mod/images/ui/round*.png (генерятся
+## tools/gen_ui_round.py; путь резолвится через RENPY_SEARCHPATH как fonts/),
+## цвет — TintMatrix (динамический gui.accent_color).
+define tssr_ui_pill = Frame("images/ui/round.png", 16, 16, 16, 16)
+define tssr_ui_pill_soft = Frame("images/ui/round_soft.png", 16, 16, 16, 16)
+define tssr_ui_pill_ghost = Frame("images/ui/round_ghost.png", 16, 16, 16, 16)
+define tssr_ui_pill_dim = Frame("images/ui/round_dim.png", 16, 16, 16, 16)
+
+define tssr_ui_accent = Transform(tssr_ui_pill, matrixcolor=TintMatrix(gui.accent_color))
+define tssr_ui_white = Transform(tssr_ui_pill, matrixcolor=TintMatrix("#ffffff"))
+define tssr_ui_dark = Transform(tssr_ui_pill_dim, matrixcolor=TintMatrix("#000000"))
+define tssr_ui_hover_sky = Transform(tssr_ui_pill_ghost, matrixcolor=TintMatrix("#99ccff"))
+
 style tssr_mod_input_box is frame:
-    background Solid("#ffffff1a")
-    padding (12, 9, 12, 9)
+    background tssr_ui_pill_soft
+    padding (14, 9, 14, 9)
     xsize 130
     yalign 0.5
 
-style tssr_mod_input is gui_text:
+## Значение в рамке +/- степпера (инпуты убраны: клик по ним в 7.4.11 не
+## активирует редактирование — см. tssr_fs_bump).
+style tssr_mod_value is gui_text:
     color "#ffffff"
+    xalign 0.5
+    yalign 0.5
+
+style tssr_step is button:
+    background tssr_ui_pill_soft
+    hover_background tssr_ui_pill_ghost
+    padding (16, 5, 16, 5)
+
+style tssr_step_text is gui_text:
+    size 30
+    color "#e6e6e6"
+    hover_color gui.accent_color
 
 style tssr_mod_preview is gui_text:
     color "#9aa4b2"
@@ -540,20 +594,33 @@ style tssr_mod_preview is gui_text:
 
 ## Кнопка-бейдж (правый верх): подпись = текущий язык.
 style tssr_badge is button:
-    background Solid("#00000066")
-    hover_background Solid("#99ccff40")
-    padding (14, 7, 14, 7)
+    background tssr_ui_dark
+    hover_background tssr_ui_hover_sky
+    padding (18, 8, 18, 8)
 
 style tssr_badge_text is gui_text:
     size 26
     color "#ffffff"
     hover_color gui.accent_color
 
+## Тихий бейдж (ТОЛЬКО процесс игры): idle = призрачная пилюля (round_ghost,
+## 12% чёрного) + подпись 35% — почти не заметен на ярких сценах, не отвлекает
+## от фокуса; hover = сплошной акцент с тёмной подписью (мгновенная вспышка,
+## хитбокс и геометрия не меняются — ноль сдвига лэйаута). В меню — обычный
+## tssr_badge (см. screen tssr_button(quiet=...)).
+style tssr_badge_quiet is tssr_badge:
+    background Transform(tssr_ui_pill_ghost, matrixcolor=TintMatrix("#000000"))
+    hover_background tssr_ui_accent
+
+style tssr_badge_quiet_text is tssr_badge_text:
+    color "#ffffff59"
+    hover_color "#0b0e14"
+
 ## Кнопки страницы: primary (акцент) / secondary (призрачная) / ссылка.
 style tssr_primary is button:
-    background Solid(gui.accent_color)
-    hover_background Solid("#ffffff")
-    padding (22, 10, 22, 10)
+    background tssr_ui_accent
+    hover_background tssr_ui_white
+    padding (26, 12, 26, 12)
 
 style tssr_primary_text is gui_text:
     size 26
@@ -561,9 +628,9 @@ style tssr_primary_text is gui_text:
     hover_color "#0b0e14"
 
 style tssr_secondary is button:
-    background Solid("#ffffff1f")
-    hover_background Solid("#ffffff33")
-    padding (22, 10, 22, 10)
+    background tssr_ui_pill_soft
+    hover_background tssr_ui_pill_ghost
+    padding (26, 12, 26, 12)
 
 style tssr_secondary_text is gui_text:
     size 26
@@ -571,9 +638,9 @@ style tssr_secondary_text is gui_text:
     hover_color "#ffffff"
 
 style tssr_link is button:
-    background Solid("#ffffff14")
-    hover_background Solid("#99ccff33")
-    padding (16, 8, 16, 8)
+    background tssr_ui_pill_soft
+    hover_background tssr_ui_hover_sky
+    padding (20, 9, 20, 9)
 
 style tssr_link_text is gui_text:
     size 26
@@ -639,8 +706,8 @@ translate ru strings:
     old "TSSR Links"
     new "Ссылки и поддержка"
 
-    old "TSSR GitHub star"
-    new "GitHub — поставить звезду ★"
+    old "TSSR Site"
+    new "Сайт проекта"
 
     old "TSSR Apply and restart"
     new "Применить и перезапустить"
