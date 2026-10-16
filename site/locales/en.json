@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "The Survival of Sarah Rose — Russian localization + AI voice pack",
-    "description": "The Survival of Sarah Rose русификатор: полный перевод 68 254 строк + AI-озвучка 75+ клонированных голосов на русском и английском. Бесплатно, 18+."
+    "title": "The Survival of Sarah Rose — AI Voice Pack + RU localization",
+    "description": "Unofficial fan mod: the original English text fully voiced by 75+ AI-cloned voices — plus a complete Russian localization with Russian voice acting. Free, 18+."
   },
   "header": {
-    "brand": "TSSR · Russian localization + AI voice pack",
+    "brand": "TSSR · AI voice pack",
     "steam": "Steam page",
     "github": "GitHub",
     "download": "Download ZIP",
@@ -12,24 +12,24 @@
     "themeLabel": "Toggle theme"
   },
   "hero": {
-    "title": "The Survival of Sarah Rose — Russian localization + AI voice pack",
-    "subtitle": "Unofficial fan translation into Russian plus a fully voiced game: 75+ cloned voices with emotion-aware delivery for every line.",
-    "badgeTranslate": "Translation 100% — 68 254 lines",
-    "badgeVoice": "Voice acting 94.2% (RU 92.4% · EN 96.0%, as of 2026-10-15)",
+    "title": "The Survival of Sarah Rose — AI voice pack",
+    "subtitle": "Unofficial fan mod: the original English text fully voiced — 75+ cloned voices with emotion-aware delivery for every line. A complete Russian localization is included as well.",
+    "badgeTranslate": "Original English text — 98.1% voiced",
+    "badgeVoice": "Voice acting 96.1% (EN 98.1% · RU 94.2%, as of 2026-10-16)",
     "badgeFormat": "Opus 24 kbps — pack is only ~1.6 GB",
-    "badgeEngine": "Ren'Py 8.5 · Steam",
+    "badgeEngine": "Ren'Py 7.4.11 · Steam",
     "badgeAge": "18+ adult content",
     "ctaSteam": "The Survival of Sarah Rose on Steam",
-    "ctaDownload": "Download ZIP (translation + voice pack)",
+    "ctaDownload": "Download ZIP (voice pack + mod)",
     "ctaGithub": "Source on GitHub",
     "installHint": "Requires a purchased copy of the game on Steam. Free, CC BY-NC 4.0."
   },
   "features": {
     "title": "What you get",
-    "translateTitle": "Full Russian translation",
-    "translateText": "68 254 lines: dialogue, narration, UI, character names — all 19 arcs of the game.",
-    "voiceTitle": "AI voice acting (RU + EN)",
-    "voiceText": "Cloned voices for every character via CosyVoice3 — the game becomes fully voiced in Russian and English.",
+    "translateTitle": "Russian localization included",
+    "translateText": "A full translation of 68 254 lines — switch the game to Russian and play the whole story localized.",
+    "voiceTitle": "AI voice acting (EN + RU)",
+    "voiceText": "Cloned voices for every character via CosyVoice3 — the original English text becomes fully voiced, with a parallel Russian voice version.",
     "emotionTitle": "Emotion-aware delivery",
     "emotionText": "Every line carries the narrator's state: anger, desire, whisper, sarcasm — not a monotone reading.",
     "voicesTitle": "75+ unique voices",
@@ -52,33 +52,37 @@
   },
   "voice": {
     "title": "Voice acting progress",
-    "total": "94.2% voiced overall (126 677 of 134 534 lines, data as of 2026-10-15). Generation runs in the background — a few days to 100%.",
-    "ru": "Russian (RU): 92.4% — 14 arcs fully done, Training in progress",
-    "en": "English (EN): 96.0% — 16 arcs fully done, HyralArc in progress",
+    "total": "96.1% voiced overall (129 350 of 134 534 lines, data as of 2026-10-16). Generation runs in the background — a few days to 100%.",
+    "ru": "Russian (RU): 94.2% — 15 arcs fully done, PrisonArc in progress",
+    "en": "English (EN): 98.1% — 17 arcs fully done, DemonArc in progress",
     "missing": "If a line has no voice file yet — the game just plays it silently (no errors, no crashes)."
   },
   "install": {
     "title": "Installation",
     "step1": "Download the ZIP and unpack its contents into the game folder (Steam: C:\\Program Files (x86)\\Steam\\steamapps\\common\\The Survival of Sarah Rose), replacing files",
-    "step2": "Launch the game and choose Language → Russian in the settings (or English — the voice pack follows the language)",
+    "step2": "Launch the game and choose the language in the mod settings (the badge in the top-right corner): English — the voiced original, Russian — the full localization with Russian voices",
     "step3": "Done. The first launch may be slightly slower — Ren'Py rebuilds its cache",
     "note": "Requires the game bought on Steam. The project is unofficial and not affiliated with the developers or publishers."
   },
   "shots": {
     "title": "Screenshots",
-    "cap1": "Main menu in Russian",
-    "cap2": "Dialogue with Russian voice acting",
+    "cap1": "Main menu",
+    "cap2": "Opening dialogue",
     "cap3": "Language switch in settings",
-    "cap4": "Narration and character lines"
+    "cap4": "Narration and character lines",
+    "prev": "Previous screenshot",
+    "next": "Next screenshot",
+    "close": "Close",
+    "open": "open full size"
   },
   "faq": {
     "title": "FAQ",
-    "q1": "Is this the official translation?",
+    "q1": "Is this an official mod?",
     "a1": "No — an unofficial fan project, not affiliated with the developers or publishers.",
     "q2": "Is there adult content?",
     "a2": "Yes — the game is 18+. Download and play only if you are 18 or older.",
     "q3": "License?",
-    "a3": "Translation and voice pack are CC BY-NC 4.0: free to share and adapt with attribution, non-commercial only.",
+    "a3": "The voice pack and translation are CC BY-NC 4.0: free to share and adapt with attribution, non-commercial only.",
     "q4": "How to help?",
     "a4": "Star the repository on GitHub, send a pull request or open an issue."
   },
