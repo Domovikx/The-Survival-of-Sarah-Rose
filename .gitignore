@@ -20,6 +20,9 @@ game/*
 !game/voice_config.rpy
 
 # ===== Сборка/мусор игры =====
+# Кэш-компиляция Ren'Py: игра пересоздаёт *.rpyc из .rpy при старте.
+# Уже отслеженные game/tl/**/*.rpyc остаются в индексе (ignore не трогает tracked).
+*.rpyc
 TheSurvivalofSarahRose-32.exe
 TheSurvivalofSarahRose.exe
 TheSurvivalofSarahRose.py
