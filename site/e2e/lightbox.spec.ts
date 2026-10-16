@@ -47,13 +47,16 @@ const swipe = async (page: Page, fromX: number, toX: number) => {
 }
 
 test.describe('скриншоты: сетка', () => {
-  test('четыре тюмба с подписями (EN-локаль по умолчанию)', async ({ page }) => {
+  test('шесть тюмбов с подписями (EN-локаль по умолчанию)', async ({ page }) => {
     await page.goto(BASE)
-    for (let i = 0; i < 4; i++) {
+    for (let i = 0; i < 6; i++) {
       await expect(page.getByTestId(`screenshot-img-${i}`)).toBeVisible()
     }
     await expect(page.getByTestId('screenshot-caption-0')).toHaveText('Main menu')
-    await expect(page.getByTestId('screenshot-caption-2')).toHaveText(
+    await expect(page.getByTestId('screenshot-caption-4')).toHaveText(
+      "Sara runs into her father's arms",
+    )
+    await expect(page.getByTestId('screenshot-caption-5')).toHaveText(
       'Language switch in settings',
     )
   })
@@ -68,7 +71,7 @@ test.describe('скриншоты: лайтбокс', () => {
     const role = dialog(page)
     await expect(role).toHaveAttribute('role', 'dialog')
     await expect(role).toHaveAttribute('aria-modal', 'true')
-    await expect(counter(page)).toHaveText('1 / 4')
+    await expect(counter(page)).toHaveText('1 / 6')
     await expect(page.getByTestId('lightbox-img')).toHaveAttribute(
       'src',
       /main_menu_english\.jpg$/,
@@ -87,7 +90,7 @@ test.describe('скриншоты: лайтбокс', () => {
     await openLightbox(page, 0)
 
     await page.getByTestId('lightbox-next').click()
-    await expect(counter(page)).toHaveText('2 / 4')
+    await expect(counter(page)).toHaveText('2 / 6')
     await expect(page.getByTestId('lightbox-img')).toHaveAttribute(
       'src',
       /dialogue_1_english\.jpg$/,
@@ -96,20 +99,20 @@ test.describe('скриншоты: лайтбокс', () => {
 
     await page.getByTestId('lightbox-next').click()
     await page.getByTestId('lightbox-next').click()
-    await expect(counter(page)).toHaveText('4 / 4')
+    await expect(counter(page)).toHaveText('4 / 6')
 
     // Обычный шаг назад.
     await page.getByTestId('lightbox-prev').click()
-    await expect(counter(page)).toHaveText('3 / 4')
+    await expect(counter(page)).toHaveText('3 / 6')
     await page.getByTestId('lightbox-prev').click()
     await page.getByTestId('lightbox-prev').click()
-    await expect(counter(page)).toHaveText('1 / 4')
+    await expect(counter(page)).toHaveText('1 / 6')
 
     // Заворот: с первой по prev → последняя; с последней по next → первая.
     await page.getByTestId('lightbox-prev').click()
-    await expect(counter(page)).toHaveText('4 / 4')
+    await expect(counter(page)).toHaveText('6 / 6')
     await page.getByTestId('lightbox-next').click()
-    await expect(counter(page)).toHaveText('1 / 4')
+    await expect(counter(page)).toHaveText('1 / 6')
     await expect(dialog(page)).toBeVisible()
   })
 
@@ -162,9 +165,9 @@ test.describe('скриншоты: лайтбокс', () => {
     await openLightbox(page, 0)
 
     await page.keyboard.press('ArrowRight')
-    await expect(counter(page)).toHaveText('2 / 4')
+    await expect(counter(page)).toHaveText('2 / 6')
     await page.keyboard.press('ArrowLeft')
-    await expect(counter(page)).toHaveText('1 / 4')
+    await expect(counter(page)).toHaveText('1 / 6')
 
     // Фокус-ловушка (APG): close → prev → next → wrap на close.
     await page.keyboard.press('Tab')
@@ -187,7 +190,7 @@ test.describe('скриншоты: лайтбокс', () => {
 
     // Свайп влево (dx < -50) → вперёд.
     await swipe(page, 400, 200)
-    await expect(counter(page)).toHaveText('2 / 4')
+    await expect(counter(page)).toHaveText('2 / 6')
     // Синтетический click после свайпа погашен — диалог жив.
     await expect(dialog(page)).toBeVisible()
 
@@ -197,9 +200,9 @@ test.describe('скриншоты: лайтбокс', () => {
     await expect(dialog(page)).toBeHidden()
   })
 
-  test('открытие со второго тюмба — свой кадр', async ({ page }) => {
-    await openLightbox(page, 2)
-    await expect(counter(page)).toHaveText('3 / 4')
+  test('открытие со страницы патча (последний тюмб) — свой кадр', async ({ page }) => {
+    await openLightbox(page, 5)
+    await expect(counter(page)).toHaveText('6 / 6')
     await expect(page.getByTestId('lightbox-img')).toHaveAttribute(
       'src',
       /language_settings_english\.jpg$/,
