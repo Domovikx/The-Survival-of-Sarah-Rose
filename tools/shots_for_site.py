@@ -2,13 +2,16 @@
 # -*- coding: utf-8 -*-
 """Скриншоты игры -> лендинг: tmp/shots/*.png -> site/public/shots/*.jpg.
 
-Отбор кадров (сняты game/zz_capture.rpy, запуск — tools/shots_capture.ps1):
+Отбор кадров (сняты game/zz_capture.rpy, запуск — tools/shots_capture.ps1;
+game-режим: 24 кадра каждые 2.5с, лучшие с ОТКРЫТЫМ текстовым окном — ревью
+владельца 2026-10-16: «кадры без текста скучноватые»). Порядок в галерее
+задаёт Screenshots.tsx, здесь — только соответствие stem -> кадр:
   main_menu          <- {ru|en}_menu.png           главное меню (бейдж яркий)
-  language_settings  <- {ru|en}_settings.png       страница патча (язык/озвучка)
-  dialogue_1         <- {ru|en}_dialogue7.png      CG: реплика короля
-  dialogue_2         <- ru: dialogue4, en: dialogue5   CG: объятие (с репликой)
-  dialogue_3         <- {ru|en}_dialogue1.png      панорама города + наррация
-  dialogue_4         <- {ru|en}_dialogue3.png      отец в дверях (драма)
+  language_settings  <- {ru|en}_settings.png       страница патча (ПЕРВЫМ в галерее)
+  dialogue_1         <- {ru|en}_dialogue5.png      CG: объятия с репликой
+  dialogue_2         <- {ru|en}_dialogue3.png      король в дверях + наррация
+  dialogue_3         <- ru: dialogue11, en: 12     у окна, длинные реплики
+  dialogue_4         <- {ru|en}_dialogue1.png      панорама столицы + наррация
 Имена файлов сайта: {name}_{russian|english}.jpg (суффикс = версия игры,
 её выбирает Screenshots.tsx по i18n-языку).
 
@@ -30,18 +33,18 @@ PLAN = {
     "russian": ("ru", {
         "main_menu": "menu",
         "language_settings": "settings",
-        "dialogue_1": "dialogue7",
-        "dialogue_2": "dialogue4",
-        "dialogue_3": "dialogue1",
-        "dialogue_4": "dialogue3",
+        "dialogue_1": "dialogue5",
+        "dialogue_2": "dialogue3",
+        "dialogue_3": "dialogue11",
+        "dialogue_4": "dialogue1",
     }),
     "english": ("en", {
         "main_menu": "menu",
         "language_settings": "settings",
-        "dialogue_1": "dialogue7",
-        "dialogue_2": "dialogue5",  # EN-кадр объятия с репликой (t=18s)
-        "dialogue_3": "dialogue1",
-        "dialogue_4": "dialogue3",
+        "dialogue_1": "dialogue5",
+        "dialogue_2": "dialogue3",
+        "dialogue_3": "dialogue12",  # EN-текст длиннее — реплика позже в кадре
+        "dialogue_4": "dialogue1",
     }),
 }
 

@@ -5,13 +5,14 @@
 #     [-Mode menu|game|all] [-Lang ru|en|all] [-Save]
 #
 #   menu  - главное меню + страница настроек (~13 c на язык)
-#   game  - диалоговые кадры пролога с авто-протоком AFM (~33 c на язык)
+#   game  - диалоговые кадры пролога с авто-протоком AFM (~66 c на язык,
+#          кадр каждые 2.5с -> 24 кадра на отбор))
 #   -Save - разрешить запись в persistent. НУЖЕН ТОЛЬКО ОДИН РАЗ: фикс
 #           языка игрока (tools/read_persistent.py показывает текущее
 #           значение). Обычные съёмки persistent НЕ трогают
 #           (should_save_persistent=False внутри zz_capture.rpy).
 #
-# Результат: tmp/shots/{ru|en}_{menu,settings,dialogue1..8}.png
+# Результат: tmp/shots/{ru|en}_{menu,settings}.png + dialogue1..24 (game)
 # Дальше:    python tools/shots_for_site.py  ->  site/public/shots/*.jpg
 param(
     [ValidateSet("menu", "game", "all")][string]$Mode = "all",
@@ -38,7 +39,7 @@ foreach ($m in $modes) {
 
         Write-Host ">>> $m / $l $(if ($Save) { '(SAVE=1)' })"
         Start-Process -FilePath $exe
-        if ($m -eq "game") { Start-Sleep -Seconds 33 } else { Start-Sleep -Seconds 13 }
+        if ($m -eq "game") { Start-Sleep -Seconds 66 } else { Start-Sleep -Seconds 13 }
     }
 }
 
