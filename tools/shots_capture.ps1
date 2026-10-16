@@ -1,4 +1,4 @@
-# Съёмка скриншотов игры для лендинга (движок: game/zz_capture.rpy).
+﻿# Съёмка скриншотов игры для лендинга (движок: game/zz_capture.rpy).
 #
 # Использование (из корня игры):
 #   powershell -ExecutionPolicy Bypass -File tools\shots_capture.ps1

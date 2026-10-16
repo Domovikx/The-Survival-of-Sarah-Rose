@@ -4,9 +4,11 @@
 
 Отбор кадров (сняты game/zz_capture.rpy, запуск — tools/shots_capture.ps1):
   main_menu          <- {ru|en}_menu.png           главное меню (бейдж яркий)
-  language_settings  <- {ru|en}_settings.png       страница настроек TSSR
+  language_settings  <- {ru|en}_settings.png       страница патча (язык/озвучка)
   dialogue_1         <- {ru|en}_dialogue7.png      CG: реплика короля
   dialogue_2         <- ru: dialogue4, en: dialogue5   CG: объятие (с репликой)
+  dialogue_3         <- {ru|en}_dialogue1.png      панорама города + наррация
+  dialogue_4         <- {ru|en}_dialogue3.png      отец в дверях (драма)
 Имена файлов сайта: {name}_{russian|english}.jpg (суффикс = версия игры,
 её выбирает Screenshots.tsx по i18n-языку).
 
@@ -30,12 +32,16 @@ PLAN = {
         "language_settings": "settings",
         "dialogue_1": "dialogue7",
         "dialogue_2": "dialogue4",
+        "dialogue_3": "dialogue1",
+        "dialogue_4": "dialogue3",
     }),
     "english": ("en", {
         "main_menu": "menu",
         "language_settings": "settings",
         "dialogue_1": "dialogue7",
         "dialogue_2": "dialogue5",  # EN-кадр объятия с репликой (t=18s)
+        "dialogue_3": "dialogue1",
+        "dialogue_4": "dialogue3",
     }),
 }
 
