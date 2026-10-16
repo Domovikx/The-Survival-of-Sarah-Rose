@@ -217,12 +217,12 @@ init python:
     # (persistent-поле, store-черновик, original-заголовок строки) —
     # ЕДИНСТВЕННОЕ место правки при добавлении нового размера шрифта.
     TSSR_FS_ROWS = [
-        ("font_text_size", "tssr_fs_text", "TSSR Dialogue"),
-        ("font_name_size", "tssr_fs_name", "TSSR Names"),
-        ("font_interface_size", "tssr_fs_interface", "TSSR Interface"),
-        ("font_label_size", "tssr_fs_label", "TSSR Headers"),
-        ("font_notify_size", "tssr_fs_notify", "TSSR Notifications"),
-        ("font_title_size", "tssr_fs_title", "TSSR Game Title"),
+        ("font_text_size", "tssr_fs_text", "Dialogue text"),
+        ("font_name_size", "tssr_fs_name", "Names"),
+        ("font_interface_size", "tssr_fs_interface", "UI text"),
+        ("font_label_size", "tssr_fs_label", "Header text"),
+        ("font_notify_size", "tssr_fs_notify", "Notification text"),
+        ("font_title_size", "tssr_fs_title", "Game title"),
     ]
 
     def tssr_fs_bump(var, delta):
@@ -331,8 +331,10 @@ screen tssr_button(quiet=False):
     if not renpy.get_screen("tssr_mod_menu"):
         frame:
             style "empty"
-            xalign 0.98
-            yalign 0.05
+            # Максимально в угол (право-верх): тонкий отступ, чтобы пилюля
+            # не прилипала к краю экрана, но и не «жила» внутри.
+            xalign 0.995
+            yalign 0.012
 
             if quiet:
                 textbutton tssr_current_short():
@@ -388,11 +390,13 @@ screen tssr_mod_menu():
         vbox:
             style "tssr_mod_column"
 
-            ## Шапка
-            text "TSSR":
+            ## Шапка — имя патча, продающее суть (2026-10-16, выбор владельца):
+            ## «Sarah Rose» вместо непонятного TSSR; EN «AI Voice Pack»,
+            ## RU «AI-озвучка и перевод».
+            text _("Sarah Rose — AI Voice Pack"):
                 style "tssr_mod_title"
 
-            text _("TSSR Settings page: language, voice, fonts, links."):
+            text _("Settings: language, voice, fonts, links."):
                 style "tssr_mod_hint"
 
             ## Язык + Озвучка — применяются МГНОВЕННО (без кнопки сохранения)
@@ -403,7 +407,7 @@ screen tssr_mod_menu():
                     xsize 530
                     spacing 10
 
-                    text _("TSSR Language"):
+                    text _("Interface language"):
                         style "tssr_mod_section"
 
                     hbox:
@@ -419,27 +423,27 @@ screen tssr_mod_menu():
                     xsize 530
                     spacing 10
 
-                    text _("TSSR Voice"):
+                    text _("Voice acting"):
                         style "tssr_mod_section"
 
                     hbox:
                         spacing 15
 
-                        textbutton _("TSSR On"):
+                        textbutton _("Enabled"):
                             action SetMute("voice", False)
                             selected (not ToggleMute("voice").get_selected())
                             style "radio_button"
 
-                        textbutton _("TSSR Off"):
+                        textbutton _("Disabled"):
                             action SetMute("voice", True)
                             selected ToggleMute("voice").get_selected()
                             style "radio_button"
 
             ## Размеры шрифтов — целые числа; стейджинг -> Apply (секция 2.1)
-            text _("TSSR Font Sizes"):
+            text _("Font sizes"):
                 style "tssr_mod_section"
 
-            text _("TSSR Font hint: whole numbers 10-160, applied on game restart."):
+            text _("Whole numbers 10-160, applied on game restart."):
                 style "tssr_mod_hint"
 
             for attr, var, title in TSSR_FS_ROWS:
@@ -465,11 +469,11 @@ screen tssr_mod_menu():
                         style "tssr_step"
                         yalign 0.5
 
-                    text _("TSSR Preview text"):
+                    text _("Preview text"):
                         style "tssr_mod_preview"
                         size tssr_fs_preview_size(var)
 
-            textbutton _("TSSR Reset to defaults"):
+            textbutton _("Reset to defaults"):
                 action [Function(tssr_fs_reset_draft), Function(renpy.restart_interaction)]
                 style "tssr_secondary"
 
@@ -478,10 +482,10 @@ screen tssr_mod_menu():
             ## статус, скачивание; «патч» = узкий технический фикс), а репа —
             ## не витрина. ★ убрана: глифа U+2605 нет в Literata.
             ## Boosty — когда будет постоянная ссылка.
-            text _("TSSR Links"):
+            text _("Links"):
                 style "tssr_mod_section"
 
-            textbutton _("TSSR Site"):
+            textbutton _("Site"):
                 action OpenURL("https://domovikx.github.io/The-Survival-of-Sarah-Rose/")
                 style "tssr_link"
 
@@ -490,8 +494,10 @@ screen tssr_mod_menu():
             #     action OpenURL("https://boosty.to/<slug>")
 
             ## Подвал — динамический (UX-формулировка владельца: «назад, если
-            ## ничего не менял, иначе — сохранить/применить»):
-            ##   чисто   -> [Закрыть];
+            ## ничего не менял, иначе — сохранить/применить»; 2026-10-16:
+            ## «Close» -> «ОК» — после смены языка кнопка читается как
+            ## подтверждение, а не как побег):
+            ##   чисто   -> [ОК];
             ##   «грязно» -> [Отменить правки] + [Применить и перезапустить]
             ##             (безмолвного закрытия с изменениями НЕТ: паттерн
             ##             unsaved-changes из ресёрча; отмена = явная кнопка).
@@ -500,19 +506,19 @@ screen tssr_mod_menu():
                 xalign 1.0
 
                 if tssr_fs_dirty():
-                    textbutton _("TSSR Revert changes"):
+                    textbutton _("Revert changes"):
                         action [Function(tssr_fs_snapshot), Function(renpy.restart_interaction)]
                         style "tssr_secondary"
 
-                    textbutton _("TSSR Apply and restart"):
+                    textbutton _("Apply and restart"):
                         action Function(tssr_fs_apply)
                         style "tssr_primary"
                 else:
-                    textbutton _("TSSR Close"):
+                    textbutton _("OK"):
                         action Return()
                         style "tssr_secondary"
 
-    # Esc = зеркало подвала: при изменениях — Применить, иначе — Закрыть.
+    # Esc = зеркало подвала: при изменениях — Применить, иначе — ОК.
     key "game_menu" action (Function(tssr_fs_apply) if tssr_fs_dirty() else Return())
 
 
@@ -592,14 +598,17 @@ style tssr_mod_preview is gui_text:
     color "#9aa4b2"
     yalign 0.5
 
-## Кнопка-бейдж (правый верх): подпись = текущий язык.
+## Кнопка-бейдж (правый верх): подпись = текущий язык. Компактная пилюля.
 style tssr_badge is button:
     background tssr_ui_dark
     hover_background tssr_ui_hover_sky
-    padding (18, 8, 18, 8)
+    padding (12, 4, 12, 4)
 
+## Настоящий Bold: instance из Literata-VF (wght=700), лежит в mod/fonts/
+## (синтетический bold у Ren'Py выходит жирновато-мыльным).
 style tssr_badge_text is gui_text:
-    size 26
+    font "fonts/Literata-Bold.ttf"
+    size 20
     color "#ffffff"
     hover_color gui.accent_color
 
@@ -655,62 +664,65 @@ style tssr_link_text is gui_text:
 
 translate ru strings:
 
-    old "TSSR Settings page: language, voice, fonts, links."
-    new "Настройки TSSR: язык, голос, шрифты, ссылки."
+    old "Sarah Rose — AI Voice Pack"
+    new "Sarah Rose — AI-озвучка и перевод"
 
-    old "TSSR Language"
+    old "Settings: language, voice, fonts, links."
+    new "Настройки: язык, голос, шрифты, ссылки."
+
+    old "Interface language"
     new "Язык"
 
-    old "TSSR Voice"
+    old "Voice acting"
     new "Озвучка"
 
-    old "TSSR On"
+    old "Enabled"
     new "Вкл"
 
-    old "TSSR Off"
+    old "Disabled"
     new "Выкл"
 
-    old "TSSR Font Sizes"
+    old "Font sizes"
     new "Размеры шрифтов"
 
-    old "TSSR Font hint: whole numbers 10-160, applied on game restart."
+    old "Whole numbers 10-160, applied on game restart."
     new "Целые числа 10–160. Применяются при перезапуске игры."
 
-    old "TSSR Dialogue"
+    old "Dialogue text"
     new "Диалоги"
 
-    old "TSSR Names"
+    old "Names"
     new "Имена"
 
-    old "TSSR Interface"
+    old "UI text"
     new "Интерфейс"
 
-    old "TSSR Headers"
+    old "Header text"
     new "Заголовки"
 
-    old "TSSR Notifications"
+    old "Notification text"
     new "Уведомления"
 
-    old "TSSR Game Title"
+    old "Game title"
     new "Название игры"
 
-    old "TSSR Preview text"
+    old "Preview text"
     new "Пример строки"
 
-    old "TSSR Reset to defaults"
+    old "Reset to defaults"
     new "К стандартным"
 
-    old "TSSR Revert changes"
+    old "Revert changes"
     new "Отменить правки"
 
-    old "TSSR Links"
+    old "Links"
     new "Ссылки и поддержка"
 
-    old "TSSR Site"
+    old "Site"
     new "Сайт проекта"
 
-    old "TSSR Apply and restart"
+    old "Apply and restart"
     new "Применить и перезапустить"
 
-    old "TSSR Close"
-    new "Закрыть"
+    old "OK"
+    new "ОК"
