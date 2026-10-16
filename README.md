@@ -3,7 +3,7 @@
 [![Русский перевод](https://img.shields.io/badge/перевод-100%25-blue?style=flat-square)](game/tl/ru/)
 [![Russian translation](https://img.shields.io/badge/translation-100%25-blue?style=flat-square)](game/tl/ru/)
 [![Озвучка / Voice](https://img.shields.io/badge/voice-RU%2BEN-green?style=flat-square)](ai_voice/)
-[![Ren'Py](https://img.shields.io/badge/engine-Ren'Py%208.5-ff69b4?style=flat-square)](https://www.renpy.org/)
+[![Ren'Py](https://img.shields.io/badge/engine-Ren'Py%207.4.11-ff69b4?style=flat-square)](https://www.renpy.org/)
 [![Steam](https://img.shields.io/badge/platform-Steam-1b2838?style=flat-square)](https://store.steampowered.com/)
 [![License CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey?style=flat-square)](LICENSE)
 [![18+](https://img.shields.io/badge/age-18%2B-red?style=flat-square)](#faq)
@@ -36,7 +36,7 @@ Full Russian fan translation + AI voice acting for the visual novel **The Surviv
 | 🎭 **Emotion-aware delivery** | every line carries the director's emotional state (anger, desire, whisper, sarcasm, ...) |
 | 🗣 **75+ voices** | Sarah, Narrator, King Orwell, Kate, Thomas and dozens more |
 | 🔊 **Two languages** | switch language in-game — the voice pack follows automatically |
-| ⚙️ **Ren'Py 8.5** | works with the Steam version of the game |
+| ⚙️ **Ren'Py 7.4.11** | works with the Steam version of the game |
 
 ## Download
 
@@ -61,19 +61,16 @@ Lines are stored as **Opus 24 kbps mono** — ~16× smaller than the intermediat
 
 | Language | Voice files | Status |
 |---|---|---|
-| **Russian (RU)** | `ai_voice/ru/...` | **92.4%** (62 118 / 67 267) |
-| **English (EN)** | `ai_voice/en/...` | **96.0%** (64 559 / 67 267) |
+| **Russian (RU)** | `ai_voice/ru/...` | **94.2%** (63 383 / 67 267) |
+| **English (EN)** | `ai_voice/en/...` | **98.1%** (65 967 / 67 267) |
 
-Overall: **94.2% voiced** (126 677 / 134 534 lines), pack size ≈ 1.6 GB.
+Overall: **96.1% voiced** (129 350 / 134 534 lines), pack size ≈ 1.6 GB.
 
-Current stage (2026-10-15): the whole game is being voiced in background (all 19 arcs × 2
+Current stage (2026-10-16): the whole game is being voiced in background (all 19 arcs × 2
 languages, 134 534 lines total — the whole pack is only ~1.6 GB thanks to Opus). Generation
-runs at low CPU priority — it doesn't interfere with normal work. Fully voiced in **both
-languages**: **Prologue, StoryBeginnings, Other, WarriorPath, MagePath, BlackMonolith,
-UnionKingdom, HollowWorld, SailorPath, SailorArc, LifeInRahayal, AlfredArc, HassarPath,
-VargaMarionPath**. EN additionally complete — **Training, PrisonArc**. In progress —
-**Training** (RU 55%) and **HyralArc** (EN 18%); queued — **PrisonArc, WarArc, DemonArc,
-HyralArc** (RU) and **WarArc, DemonArc** (EN).
+runs at low CPU priority — it doesn't interfere with normal work. Fully voiced — **15/19 arcs
+in RU** and **17/19 arcs in EN**. In progress — **PrisonArc** (RU 38%) and **DemonArc**
+(EN 36%); queued — **HyralArc, WarArc, DemonArc** (RU) and **WarArc** (EN).
 
 - Voice lookup is automatic: `uid = md5(text)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.opus`
   (`.wav` remains a code-level fallback, but since 2026-10-14 the pack is
@@ -138,7 +135,7 @@ Open an issue or submit a pull request on GitHub.
 | 🎭 **Эмоциональная подача** | каждая реплика несёт состояние диктора (гнев, страсть, шёпот, сарказм...) |
 | 🗣 **75+ голосов** | Сара, Рассказчик, Король Орвелл, Кейт, Томас и десятки других |
 | 🔊 **Два языка** | переключай язык в игре — озвучка подстраивается автоматически |
-| ⚙️ **Ren'Py 8.5** | работает со Steam-версией игры |
+| ⚙️ **Ren'Py 7.4.11** | работает со Steam-версией игры |
 
 ## Скачать
 
@@ -164,19 +161,16 @@ Open an issue or submit a pull request on GitHub.
 
 | Язык | Файлы | Статус |
 |---|---|---|
-| **Русский (RU)** | `ai_voice/ru/...` | **92.4%** (62 118 / 67 267) |
-| **Английский (EN)** | `ai_voice/en/...` | **96.0%** (64 559 / 67 267) |
+| **Русский (RU)** | `ai_voice/ru/...` | **94.2%** (63 383 / 67 267) |
+| **Английский (EN)** | `ai_voice/en/...` | **98.1%** (65 967 / 67 267) |
 
-Итого: **озвучено 94.2%** (126 677 / 134 534 реплик), размер пака ≈ 1.6 ГБ.
+Итого: **озвучено 96.1%** (129 350 / 134 534 реплик), размер пака ≈ 1.6 ГБ.
 
-Текущий этап (15.10.2026): вся игра озвучивается в фоне (все 19 арок × 2 языка,
+Текущий этап (16.10.2026): вся игра озвучивается в фоне (все 19 арок × 2 языка,
 134 534 реплики — весь пак всего ~1.6 ГБ благодаря Opus). Генерация идёт с низким
-приоритетом — не мешает работе. Полностью озвучено **на обоих языках**: **Prologue,
-StoryBeginnings, Other, WarriorPath, MagePath, BlackMonolith, UnionKingdom,
-HollowWorld, SailorPath, SailorArc, LifeInRahayal, AlfredArc, HassarPath,
-VargaMarionPath**. Дополнительно EN готова — **Training, PrisonArc**. В работе —
-**Training** (RU 55%) и **HyralArc** (EN 18%); в очереди — **PrisonArc, WarArc,
-DemonArc, HyralArc** (RU) и **WarArc, DemonArc** (EN).
+приоритетом — не мешает работе. Полностью озвучено — **15/19 арок на русском** и
+**17/19 на английском**. В работе — **PrisonArc** (RU 38%) и **DemonArc** (EN 36%);
+в очереди — **HyralArc, WarArc, DemonArc** (RU) и **WarArc** (EN).
 
 - Поиск голоса автоматический: `uid = md5(текста)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.opus`
   (`.wav` играет как фолбэк в коде, но с 2026-10-14 пак только Opus —
