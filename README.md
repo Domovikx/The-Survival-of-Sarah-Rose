@@ -61,15 +61,13 @@ Lines are stored as **Opus 24 kbps mono** — ~16× smaller than the intermediat
 
 | Language | Voice files | Status |
 |---|---|---|
-| **Russian (RU)** | `ai_voice/ru/...` | **98.3%** (66 116 / 67 267) |
+| **Russian (RU)** | `ai_voice/ru/...` | **100%** ✓ (67 267 / 67 267) |
 | **English (EN)** | `ai_voice/en/...` | **100%** ✓ (67 267 / 67 267) |
 
-Overall: **99.1% voiced** (133 383 / 134 534 lines), pack size ≈ 1.7 GB.
+Overall: **100% voiced** (134 534 / 134 534 lines), pack size ≈ 1.7 GB.
 
-Current stage (2026-10-17): **English is fully voiced** (all 19 arcs); Russian is at
-98.3% — only **DemonArc** (in progress) and **WarArc** (queued) remain, full completion
-is hours away. Generation runs at low CPU priority — it doesn't interfere with normal
-work.
+**Completed 2026-10-18:** every line of the game is voiced in both languages —
+all 19 arcs × RU + EN.
 
 - Voice lookup is automatic: `uid = md5(text)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.opus`
   (`.wav` remains a code-level fallback, but since 2026-10-14 the pack is
@@ -160,15 +158,13 @@ Open an issue or submit a pull request on GitHub.
 
 | Язык | Файлы | Статус |
 |---|---|---|
-| **Русский (RU)** | `ai_voice/ru/...` | **98.3%** (66 116 / 67 267) |
+| **Русский (RU)** | `ai_voice/ru/...` | **100%** ✓ (67 267 / 67 267) |
 | **Английский (EN)** | `ai_voice/en/...` | **100%** ✓ (67 267 / 67 267) |
 
-Итого: **озвучено 99.1%** (133 383 / 134 534 реплик), размер пака ≈ 1.7 ГБ.
+Итого: **озвучено 100%** (134 534 / 134 534 реплик), размер пака ≈ 1.7 ГБ.
 
-Текущий этап (17.10.2026): **английская версия озвучена полностью** (все 19 арок);
-русская — 98.3%, остаются **DemonArc** (в работе) и **WarArc** (в очереди), полное
-завершение — в ближайшие часы. Генерация идёт с низким приоритетом — не мешает
-нормальной работе.
+**Завершено 18.10.2026:** озвучена каждая реплика игры на обоих языках —
+все 19 арок × RU + EN.
 
 - Поиск голоса автоматический: `uid = md5(текста)` → `ai_voice/{lang}/{arc}/{uid}__{voice}.opus`
   (`.wav` играет как фолбэк в коде, но с 2026-10-14 пак только Opus —

@@ -14,9 +14,9 @@
   "hero": {
     "title": "The Survival of Sarah Rose — AI voice pack",
     "subtitle": "Unofficial fan mod: the original English text fully voiced — 75+ cloned voices with emotion-aware delivery for every line. A complete Russian localization is included as well.",
-    "badgeTranslate": "Original English text — 98.1% voiced",
-    "badgeVoice": "Voice acting 96.1% (EN 98.1% · RU 94.2%, as of 2026-10-16)",
-    "badgeFormat": "Opus 24 kbps — pack is only ~1.6 GB",
+    "badgeTranslate": "Original English text — 100% voiced",
+    "badgeVoice": "Voice acting 100% complete (EN + RU, 134 534 lines)",
+    "badgeFormat": "Opus 24 kbps — pack is only ~1.7 GB",
     "badgeEngine": "Ren'Py 7.4.11 · Steam",
     "badgeAge": "18+ adult content",
     "ctaSteam": "The Survival of Sarah Rose on Steam",
@@ -51,10 +51,10 @@
     ]
   },
   "voice": {
-    "title": "Voice acting progress",
-    "total": "96.1% voiced overall (129 350 of 134 534 lines, data as of 2026-10-16). Generation runs in the background — a few days to 100%.",
-    "ru": "Russian (RU): 94.2% — 15 arcs fully done, PrisonArc in progress",
-    "en": "English (EN): 98.1% — 17 arcs fully done, DemonArc in progress",
+    "title": "Voice acting — complete",
+    "total": "100% voiced — all 134 534 lines in both languages (finished 2026-10-18).",
+    "ru": "Russian (RU): 100% — all 19 arcs done",
+    "en": "English (EN): 100% — all 19 arcs done",
     "missing": "If a line has no voice file yet — the game just plays it silently (no errors, no crashes)."
   },
   "install": {
