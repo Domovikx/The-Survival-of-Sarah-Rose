@@ -55,116 +55,31 @@ define gui.interface_text_color = u'#ffffff'
 ## Fonts and Font Sizes ########################################################
 
 ## The font used for in-game text.
-define gui.text_font = "fonts/Forum-Regular.ttf"
+define gui.text_font = "DejaVuSans.ttf"
 
-## The font that is used for the names of characters.
-define gui.name_text_font = "fonts/Forum-Regular.ttf"
+## The font used for character names.
+define gui.name_text_font = "DejaVuSans.ttf"
 
-## The font that is used for user interface text.
-define gui.interface_text_font = "fonts/Forum-Regular.ttf"
+## The font used for out-of-game text.
+define gui.interface_text_font = "DejaVuSans.ttf"
 
-## Font sizes
-define gui.text_size = 32
-define gui.name_text_size = 38
-define gui.interface_text_size = 28
+## The size of normal dialogue text.
+define gui.text_size = 33
+
+## The size of character names.
+define gui.name_text_size = 45
+
+## The size of text in the game's user interface.
+define gui.interface_text_size = 33
+
+## The size of labels in the game's user interface.
 define gui.label_text_size = 36
+
+## The size of text on the notify screen.
 define gui.notify_text_size = 24
+
+## The size of the game's title.
 define gui.title_text_size = 75
-
-default persistent.font_text_size = 32
-default persistent.font_name_size = 38
-default persistent.font_interface_size = 28
-default persistent.font_label_size = 36
-default persistent.font_notify_size = 24
-default persistent.font_title_size = 75
-
-init python:
-    FONT_DEFAULTS = {
-        'font_text_size': 32,
-        'font_name_size': 38,
-        'font_interface_size': 28,
-        'font_label_size': 36,
-        'font_notify_size': 24,
-        'font_title_size': 75
-    }
-
-    def set_style_size(style_name, size):
-        try:
-            getattr(style, style_name).size = size
-        except:
-            pass
-
-    def update_font_styles():
-        set_style_size('say_dialogue', persistent.font_text_size)
-        set_style_size('say_label', persistent.font_name_size)
-        set_style_size('nvl_dialogue', persistent.font_text_size)
-        set_style_size('nvl_label', persistent.font_name_size)
-        set_style_size('interface_text', persistent.font_interface_size)
-        set_style_size('gui_text', persistent.font_interface_size)
-        set_style_size('history_text', persistent.font_text_size)
-        set_style_size('history_name', persistent.font_name_size)
-        set_style_size('pref_label_text', persistent.font_label_size)
-        set_style_size('slot_time_text', persistent.font_interface_size)
-        set_style_size('slot_name_text', persistent.font_interface_size)
-        set_style_size('game_menu_label_text', persistent.font_label_size)
-        set_style_size('quick_button_text', persistent.font_interface_size)
-        set_style_size('choice_button_text', persistent.font_text_size)
-        set_style_size('navigation_button_text', persistent.font_interface_size)
-        set_style_size('button_text', persistent.font_interface_size)
-        set_style_size('label_text', persistent.font_interface_size)
-        set_style_size('prompt_text', persistent.font_interface_size)
-        set_style_size('main_menu_text', persistent.font_interface_size)
-        set_style_size('about_text', persistent.font_interface_size)
-        set_style_size('about_label_text', persistent.font_label_size)
-        set_style_size('page_label_text', persistent.font_label_size)
-        set_style_size('page_button_text', persistent.font_interface_size)
-        set_style_size('slot_button_text', persistent.font_interface_size)
-        set_style_size('radio_label_text', persistent.font_label_size)
-        set_style_size('radio_button_text', persistent.font_interface_size)
-        set_style_size('check_label_text', persistent.font_label_size)
-        set_style_size('check_button_text', persistent.font_interface_size)
-        set_style_size('slider_label_text', persistent.font_label_size)
-        set_style_size('slider_button_text', persistent.font_interface_size)
-        set_style_size('mute_all_button_text', persistent.font_interface_size)
-        set_style_size('history_label_text', persistent.font_label_size)
-        set_style_size('help_button_text', persistent.font_interface_size)
-        set_style_size('help_label_text', persistent.font_label_size)
-        set_style_size('help_text', persistent.font_interface_size)
-        set_style_size('confirm_prompt_text', persistent.font_interface_size)
-        set_style_size('confirm_button_text', persistent.font_interface_size)
-        set_style_size('skip_text', persistent.font_interface_size)
-        set_style_size('notify_text', persistent.font_interface_size)
-        set_style_size('nvl_button_text', persistent.font_text_size)
-        set_style_size('return_button_text', persistent.font_interface_size)
-
-    def update_all():
-        gui.text_size = persistent.font_text_size
-        gui.name_text_size = persistent.font_name_size
-        gui.interface_text_size = persistent.font_interface_size
-        gui.label_text_size = persistent.font_label_size
-        gui.notify_text_size = persistent.font_notify_size
-        gui.title_text_size = persistent.font_title_size
-        update_font_styles()
-        gui.rebuild()
-        renpy.save_persistent()
-        renpy.utter_restart()
-
-    def reset_font_sizes():
-        persistent.font_text_size = FONT_DEFAULTS['font_text_size']
-        persistent.font_name_size = FONT_DEFAULTS['font_name_size']
-        persistent.font_interface_size = FONT_DEFAULTS['font_interface_size']
-        persistent.font_label_size = FONT_DEFAULTS['font_label_size']
-        persistent.font_notify_size = FONT_DEFAULTS['font_notify_size']
-        persistent.font_title_size = FONT_DEFAULTS['font_title_size']
-        update_all()
-
-    gui.text_size = persistent.font_text_size
-    gui.name_text_size = persistent.font_name_size
-    gui.interface_text_size = persistent.font_interface_size
-    gui.label_text_size = persistent.font_label_size
-    gui.notify_text_size = persistent.font_notify_size
-    gui.title_text_size = persistent.font_title_size
-    update_font_styles()
 
 
 ## Main and Game Menus #########################################################
